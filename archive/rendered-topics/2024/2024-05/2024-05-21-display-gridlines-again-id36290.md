@@ -1,0 +1,23 @@
+# Display gridlines-again
+
+**Topic ID**: 36290
+**Date**: 2024-05-21
+**URL**: https://discourse.slicer.org/t/display-gridlines-again/36290
+
+---
+
+## Post #1 by @YLX (2024-05-21 08:58 UTC)
+
+<p>I tried the python code in the link and found that there seemed to be a grid in the three views below, but the main picture still did not show the grid I wanted. Also, I would like to ask how to add mesh customization for Slicermorpho?<br>
+I have looked at the tutorial of this link, it seems that I did not play a big role, there is still no grid line in the main view, I also want to achieve the similar effect of the video in the figure, may I ask what went wrong in the operation?<br>
+In addition, I import stl format data.</p>
+<p>@ <a href="https://discourse.slicer.org/u/Tina_Kapur">Tina_Kapur</a><br>
+<div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/9/4/9439392b9d33dd3714ce7c542e48288e1dc82e24.png" data-download-href="/uploads/short-url/l9fguBTj4mmkWMDlK7Es1oT6emo.png?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/9/4/9439392b9d33dd3714ce7c542e48288e1dc82e24_2_690x100.png" alt="image" data-base62-sha1="l9fguBTj4mmkWMDlK7Es1oT6emo" width="690" height="100" srcset="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/9/4/9439392b9d33dd3714ce7c542e48288e1dc82e24_2_690x100.png, https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/9/4/9439392b9d33dd3714ce7c542e48288e1dc82e24.png 1.5x, https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/9/4/9439392b9d33dd3714ce7c542e48288e1dc82e24.png 2x" data-dominant-color="F1F5F7"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">image</span><span class="informations">890×129 10.4 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/5/6/5688e3125e1d15fa114d88c7a139c19d732360ca.jpeg" data-download-href="/uploads/short-url/clwlaJlOksIOGJLorQAC7xZ8JbY.jpeg?dl=1" title="8N6YVI$J%DBG(2OOW$MRAAK" rel="noopener nofollow ugc"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/5/6/5688e3125e1d15fa114d88c7a139c19d732360ca_2_690x373.jpeg" alt="8N6YVI$J%DBG(2OOW$MRAAK" data-base62-sha1="clwlaJlOksIOGJLorQAC7xZ8JbY" width="690" height="373" srcset="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/5/6/5688e3125e1d15fa114d88c7a139c19d732360ca_2_690x373.jpeg, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/5/6/5688e3125e1d15fa114d88c7a139c19d732360ca_2_1035x559.jpeg 1.5x, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/5/6/5688e3125e1d15fa114d88c7a139c19d732360ca_2_1380x746.jpeg 2x" data-dominant-color="B9B9C5"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">8N6YVI$J%DBG(2OOW$MRAAK</span><span class="informations">1920×1040 248 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div><br>
+<div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/0/a/0ab712e5f768ee91297214e082a5ac3a50602b79.jpeg" data-download-href="/uploads/short-url/1wN0wTDwSUuzk8KMLr0dx6brK3L.jpeg?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/0/a/0ab712e5f768ee91297214e082a5ac3a50602b79_2_690x419.jpeg" alt="image" data-base62-sha1="1wN0wTDwSUuzk8KMLr0dx6brK3L" width="690" height="419" srcset="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/0/a/0ab712e5f768ee91297214e082a5ac3a50602b79_2_690x419.jpeg, https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/0/a/0ab712e5f768ee91297214e082a5ac3a50602b79.jpeg 1.5x, https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/0/a/0ab712e5f768ee91297214e082a5ac3a50602b79.jpeg 2x" data-dominant-color="635F78"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">image</span><span class="informations">792×481 81.8 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
+<p>Operating system:<br>
+Slicer version:5.6.1<br>
+Expected behavior:<br>
+Actual behavior:</p>
+
+---

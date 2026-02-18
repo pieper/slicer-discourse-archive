@@ -1,0 +1,32 @@
+# Cropping mesh using landmark points
+
+**Topic ID**: 16167
+**Date**: 2021-02-23
+**URL**: https://discourse.slicer.org/t/cropping-mesh-using-landmark-points/16167
+
+---
+
+## Post #1 by @DiamondKMG (2021-02-23 20:37 UTC)
+
+<p>I used the model to model distance module to create the heat map displayed below to represent the difference between the mean shape of my sample and extreme shape at the positive end of a principal component from a Generalized Procrustes Analysis which I performed using the GPA module from the SlicerMorph extension. My problem is the heat map calculates the difference over the whole mesh, and I only want the heat map to display in the parts of the skull where I have points from the original GPA analysis (shown below).</p>
+<p>I’m looking for a way to crop a mesh using the pseudo-landmark points I have labeled in green here so that I can then apply the heat map to only the part of the mesh on which I have points. I’ve tried different methods with the dynamic modeler module and currently the best option that I’ve come up with is to use 2 planes to crop out the parts of the mesh I don’t want to display (shown below), but this doesn’t look so great. I am planning to visualize the full model behind the new mesh so it at least looks like a fish head, but would also like a less choppy way to do this if possible.</p>
+<p>Any suggestions appreciated!</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/4/e/4e216679afb3afc7d17222ac42ed65b6b5a3cf4d.jpeg" data-download-href="/uploads/short-url/b9aNKN9cE36b949fH9NmFvP3TsN.jpeg?dl=1" title="exHeatMap" rel="noopener nofollow ugc"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/2X/4/4e216679afb3afc7d17222ac42ed65b6b5a3cf4d_2_690x398.jpeg" alt="exHeatMap" data-base62-sha1="b9aNKN9cE36b949fH9NmFvP3TsN" width="690" height="398" srcset="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/2X/4/4e216679afb3afc7d17222ac42ed65b6b5a3cf4d_2_690x398.jpeg, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/2X/4/4e216679afb3afc7d17222ac42ed65b6b5a3cf4d_2_1035x597.jpeg 1.5x, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/2X/4/4e216679afb3afc7d17222ac42ed65b6b5a3cf4d_2_1380x796.jpeg 2x" data-dominant-color="D8E8D4"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">exHeatMap</span><span class="informations">3163×1826 407 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg>
+</div></a></div><br>
+<div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/b/c/bc02716f62dd5b13d4c9923cb38f1bd29020165a.png" data-download-href="/uploads/short-url/qPcZVhX8Va25ma2Ip8NKSXrHXsK.png?dl=1" title="exPts" rel="noopener nofollow ugc"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/2X/b/bc02716f62dd5b13d4c9923cb38f1bd29020165a_2_690x378.png" alt="exPts" data-base62-sha1="qPcZVhX8Va25ma2Ip8NKSXrHXsK" width="690" height="378" srcset="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/2X/b/bc02716f62dd5b13d4c9923cb38f1bd29020165a_2_690x378.png, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/2X/b/bc02716f62dd5b13d4c9923cb38f1bd29020165a_2_1035x567.png 1.5x, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/2X/b/bc02716f62dd5b13d4c9923cb38f1bd29020165a_2_1380x756.png 2x" data-dominant-color="E2E3BA"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">exPts</span><span class="informations">3329×1826 1.15 MB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg>
+</div></a></div>  <div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/9/1/91fba9e7c24db51a0b30dccc9d20f4f494ac8cc4.jpeg" data-download-href="/uploads/short-url/kPqq3d06uNhOYEwqnbJQzWwrV0U.jpeg?dl=1" title="excrop" rel="noopener nofollow ugc"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/2X/9/91fba9e7c24db51a0b30dccc9d20f4f494ac8cc4_2_690x398.jpeg" alt="excrop" data-base62-sha1="kPqq3d06uNhOYEwqnbJQzWwrV0U" width="690" height="398" srcset="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/2X/9/91fba9e7c24db51a0b30dccc9d20f4f494ac8cc4_2_690x398.jpeg, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/2X/9/91fba9e7c24db51a0b30dccc9d20f4f494ac8cc4_2_1035x597.jpeg 1.5x, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/2X/9/91fba9e7c24db51a0b30dccc9d20f4f494ac8cc4_2_1380x796.jpeg 2x" data-dominant-color="E7E7C4"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">excrop</span><span class="informations">3163×1826 713 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg>
+</div></a></div></p>
+
+---
+
+## Post #2 by @lassoan (2021-02-23 21:13 UTC)
+
+<p>You should be able to use <a href="https://discourse.slicer.org/t/new-module-dynamic-modeler-parametric-surface-editing-for-biomedical-applications/11759">Dynamic modeler module’s Curve cut or Boundary cut tools</a> to cut a surface with a curve that you draw on the surface. For this, you would need to copy your landmarks that are at the boundary into a new curve node as control points.</p>
+<p>If you don’t want to construct a new curve then you can compute distance from your landmark points using vtkHausdorffDistancePointSetFilter then use vtkThreshold to extract the surface patch</p>
+<p>You can also try to use Markups to model extension to convert your landmarks to a closed surface, use that closed surface with Surface to surface distance module, then finally extract the surface patch using vtkThreshold.</p>
+<p>These require a few lines of Python scripting (get the polydata from a model node, run 1-2 VTK filters, and set the final result in a model node). There are examples in the <a href="https://www.slicer.org/wiki/Documentation/Nightly/ScriptRepository">script repository</a> and you can ask here if you get stuck.</p>
+
+---

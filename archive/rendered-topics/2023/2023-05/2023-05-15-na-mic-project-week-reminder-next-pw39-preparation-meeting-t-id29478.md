@@ -1,0 +1,53 @@
+# [Na-mic-project-week] Reminder: next PW39 preparation meeting - Tomorrow (Tuesday May 16th)
+
+**Topic ID**: 29478
+**Date**: 2023-05-15
+**URL**: https://discourse.slicer.org/t/na-mic-project-week-reminder-next-pw39-preparation-meeting-tomorrow-tuesday-may-16th/29478
+
+---
+
+## Post #1 by @Sam_Horvath (2023-05-15 17:03 UTC)
+
+<p>Dear Project Week community,</p>
+<p>The next preparation meetings for project week 39 will take place tomorrow, May 16th, 2023 (10 am Boston time, EDT) on Zoom. You can join using the following link:</p>
+<aside class="onebox allowlistedgeneric" data-onebox-src="https://etsmtl.zoom.us/j/84961343353?pwd=NnJzUjBEc05ERk5kR0t3WGNmM0pTQT09">
+  <header class="source">
+      <img src="https://etsmtl.zoom.us/zoom.ico" class="site-icon" width="32" height="32">
+
+      <a href="https://etsmtl.zoom.us/j/84961343353?pwd=NnJzUjBEc05ERk5kR0t3WGNmM0pTQT09" target="_blank" rel="noopener">Zoom Video</a>
+  </header>
+
+  <article class="onebox-body">
+    
+
+<h3><a href="https://etsmtl.zoom.us/j/84961343353?pwd=NnJzUjBEc05ERk5kR0t3WGNmM0pTQT09" target="_blank" rel="noopener">Join our Cloud HD Video Meeting</a></h3>
+
+  <p>Zoom is the leader in modern enterprise video communications, with an easy, reliable cloud platform for video and audio conferencing, chat, and webinars across mobile, desktop, and room systems. Zoom Rooms is the original software-based conference...</p>
+
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
+<p><strong>ATTENTION!</strong> : the <strong>zoom link is now changing every week</strong>. The link will also be posted to the PW39 web page.</p>
+<p>On May 16th, we will continue introducing new people and projects in general and we will have a special focus on visualization, rendering, virtual and augmented reality. Please join if you have a project involving these topics or in need for help regarding these topics.</p>
+<p>Looking forward to see you all!</p>
+<p>Cheers.</p>
+<p>The PW organizing committee</p>
+<p>(Tina Kapur, Simon Drouin, Rafael Palomar, Sam Horvath, Theodore Aptekarev)</p>
+<hr>
+<p>Project Week#39 will be held June 12-16, 2023, at École de Technologie Supérieur (ETS) in Montreal, Canada. The meeting will have a hybrid format to make it possible to participate remotely. Please look here for additional details: <a href="https://projectweek.na-mic.org/PW39_2023_Montreal/" class="inline-onebox">NA-MIC Project Weeks | Website for NA-MIC Project Weeks</a></p>
+<p><em>Preparation</em> : To prepare, we will be holding weekly meetings at 10am on Tuesdays, starting <strong>May 2nd, 2023</strong> and ending on June 6th.</p>
+<p><em>Background</em> : The Project Week is a week-long hackathon of hands on activity in which medical image computing researchers create solutions using the open source image computing platform, 3D Slicer, and VTK, ITK, CMake, and CDash libraries as well as OHIF, Cornerstone, dcmjs, vtkjs, itkjs, DICOMweb, Girder and related web technologies. Participants work collaboratively on solutions that lie at the interfaces of the fields of computer science, mechanical engineering, biomedical engineering, and medicine. In contrast to conferences and workshops where the primary focus is to report results, the objective of the ProjectWeek is to provide a venue for creators of medical image computing open-source software creators to collaboratively work.</p>
+<hr>
+<p>Na-mic-project-week mailing list<br>
+<a href="mailto:Na-mic-project-week@public.kitware.com">Na-mic-project-week@public.kitware.com</a><br>
+<a href="https://public.kitware.com/cgi-bin/mailman/listinfo/na-mic-project-week" class="onebox" target="_blank" rel="noopener">https://public.kitware.com/cgi-bin/mailman/listinfo/na-mic-project-week</a></p>
+
+---

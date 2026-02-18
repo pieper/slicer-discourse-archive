@@ -1,0 +1,23 @@
+# Create dicom series from jpg images
+
+**Topic ID**: 11811
+**Date**: 2020-05-31
+**URL**: https://discourse.slicer.org/t/create-dicom-series-from-jpg-images/11811
+
+---
+
+## Post #1 by @Iman_Shokatian (2020-05-31 18:47 UTC)
+
+<p>Hi everyone, I am trying to make dicom series from jpg images, I know how to do it with 3dslicer but as it is shown below, sagittal and coronal views are not as same as axial views,I think something is wrong with image reconstruction in these views any ideas how can I fix this?</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/b/8/b89a1eb25a0e00925564328b6cbb7a45acb45ac0.png" data-download-href="/uploads/short-url/ql43pcQxe0AGleyYtqJInqx2hFe.png?dl=1" title="Screenshot" rel="noopener nofollow ugc"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/b/8/b89a1eb25a0e00925564328b6cbb7a45acb45ac0_2_690x487.png" alt="Screenshot" data-base62-sha1="ql43pcQxe0AGleyYtqJInqx2hFe" width="690" height="487" srcset="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/b/8/b89a1eb25a0e00925564328b6cbb7a45acb45ac0_2_690x487.png, https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/b/8/b89a1eb25a0e00925564328b6cbb7a45acb45ac0.png 1.5x, https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/b/8/b89a1eb25a0e00925564328b6cbb7a45acb45ac0.png 2x" data-dominant-color="9395C8"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">Screenshot</span><span class="informations">866×612 30.8 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div><br>
+<div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/3/b/3b1e8f655dd400826206bd54f0014c02888dbabc.png" data-download-href="/uploads/short-url/8qZE1vX4tBdqQV5KC0ZINoLA56A.png?dl=1" title="Screenshot1" rel="noopener nofollow ugc"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/3/b/3b1e8f655dd400826206bd54f0014c02888dbabc_2_690x475.png" alt="Screenshot1" data-base62-sha1="8qZE1vX4tBdqQV5KC0ZINoLA56A" width="690" height="475" srcset="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/3/b/3b1e8f655dd400826206bd54f0014c02888dbabc_2_690x475.png, https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/3/b/3b1e8f655dd400826206bd54f0014c02888dbabc.png 1.5x, https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/3/b/3b1e8f655dd400826206bd54f0014c02888dbabc.png 2x" data-dominant-color="8889B7"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">Screenshot1</span><span class="informations">866×597 39.9 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div><br>
+<div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/b/5/b533a36a4ff0f6d8bae6e89443b1cda7514f4477.png" data-download-href="/uploads/short-url/pQZ3whOCOmtqxF6pIYN0EoH1wX5.png?dl=1" title="Screenshot_2" rel="noopener nofollow ugc"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/b/5/b533a36a4ff0f6d8bae6e89443b1cda7514f4477_2_690x475.png" alt="Screenshot_2" data-base62-sha1="pQZ3whOCOmtqxF6pIYN0EoH1wX5" width="690" height="475" srcset="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/b/5/b533a36a4ff0f6d8bae6e89443b1cda7514f4477_2_690x475.png, https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/b/5/b533a36a4ff0f6d8bae6e89443b1cda7514f4477.png 1.5x, https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/b/5/b533a36a4ff0f6d8bae6e89443b1cda7514f4477.png 2x" data-dominant-color="898BB8"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">Screenshot_2</span><span class="informations">866×597 38.5 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
+
+---
+
+## Post #2 by @lassoan (2020-06-02 21:24 UTC)
+
+<p>Image orientation is just one issue (you could fix that by applying appropriate transforms using Transforms module), but JPG does not support more than 8 bits of bit depth, so it is not usable for storing CT images.</p>
+<p>Everything should work well if you load the DICOM images directly into Slicer.</p>
+
+---

@@ -1,0 +1,16 @@
+# Dentalsegementator error
+
+**Topic ID**: 42877
+**Date**: 2025-05-11
+**URL**: https://discourse.slicer.org/t/dentalsegementator-error/42877
+
+---
+
+## Post #1 by @yijie3091 (2025-05-11 14:36 UTC)
+
+<p>dear professor,when i download this“dentalsegmentator” extension，some questions above appeaer，how can i solve with them？<br>
+<div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/2/e/2e69a361e99e0d0642353932c88d661c48bc0994.png" data-download-href="/uploads/short-url/6CAi8ffdlHa0jyJMGY08rAfgHSA.png?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/2/e/2e69a361e99e0d0642353932c88d661c48bc0994.png" alt="image" data-base62-sha1="6CAi8ffdlHa0jyJMGY08rAfgHSA" width="690" height="181" data-dominant-color="EFEDED"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">image</span><span class="informations">1066×280 22.6 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div><br>
+<div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/1/c/1cee1b56fb1a8f3db9a6cd15950dd7e2b134ea2d.png" data-download-href="/uploads/short-url/47VvERtnsGGFfJ1v9lyWR14NUuN.png?dl=1" title="2" rel="noopener nofollow ugc"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/1/c/1cee1b56fb1a8f3db9a6cd15950dd7e2b134ea2d_2_450x500.png" alt="2" data-base62-sha1="47VvERtnsGGFfJ1v9lyWR14NUuN" width="450" height="500" srcset="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/1/c/1cee1b56fb1a8f3db9a6cd15950dd7e2b134ea2d_2_450x500.png, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/1/c/1cee1b56fb1a8f3db9a6cd15950dd7e2b134ea2d_2_675x750.png 1.5x, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/1/c/1cee1b56fb1a8f3db9a6cd15950dd7e2b134ea2d_2_900x1000.png 2x" data-dominant-color="F5F5F5"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">2</span><span class="informations">900×1000 65.1 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div><br>
+<div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/d/b/dbedb425416080501938e5cf11f460e9a93b1b69.png" data-download-href="/uploads/short-url/vnzQjJnmMbTlw4vsvAuvL5ePHMR.png?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/d/b/dbedb425416080501938e5cf11f460e9a93b1b69.png" alt="image" data-base62-sha1="vnzQjJnmMbTlw4vsvAuvL5ePHMR" width="690" height="331" data-dominant-color="F7F7F7"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">image</span><span class="informations">1014×487 8.45 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
+
+---

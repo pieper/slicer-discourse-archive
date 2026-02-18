@@ -1,0 +1,31 @@
+# Seeking paint bucket tool: Need to manually fill in segmented areas that are not fully enclosed
+
+**Topic ID**: 41400
+**Date**: 2025-01-31
+**URL**: https://discourse.slicer.org/t/seeking-paint-bucket-tool-need-to-manually-fill-in-segmented-areas-that-are-not-fully-enclosed/41400
+
+---
+
+## Post #1 by @connoryamsek (2025-01-31 11:27 UTC)
+
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/9/b/9b1c4b8a759f91609672ca570d3e707da93a1437.jpeg" data-download-href="/uploads/short-url/m8aD39nTBpiE8upo9UZ34hcC6px.jpeg?dl=1" title="Screenshot 2025-01-30 at 8.09.15 AM" rel="noopener nofollow ugc"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/9/b/9b1c4b8a759f91609672ca570d3e707da93a1437_2_624x500.jpeg" alt="Screenshot 2025-01-30 at 8.09.15 AM" data-base62-sha1="m8aD39nTBpiE8upo9UZ34hcC6px" width="624" height="500" srcset="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/9/b/9b1c4b8a759f91609672ca570d3e707da93a1437_2_624x500.jpeg, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/9/b/9b1c4b8a759f91609672ca570d3e707da93a1437_2_936x750.jpeg 1.5x, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/9/b/9b1c4b8a759f91609672ca570d3e707da93a1437_2_1248x1000.jpeg 2x" data-dominant-color="44443D"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">Screenshot 2025-01-30 at 8.09.15 AM</span><span class="informations">1710×1369 219 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div><br>
+<div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/7/e/7eecf333c72af4c47dc042d992091ceea57280c5.jpeg" data-download-href="/uploads/short-url/i6PP6IIDArL7B4jHxcpFjJGtNQh.jpeg?dl=1" title="Screenshot 2025-01-30 at 8.11.29 AM" rel="noopener nofollow ugc"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/7/e/7eecf333c72af4c47dc042d992091ceea57280c5_2_654x500.jpeg" alt="Screenshot 2025-01-30 at 8.11.29 AM" data-base62-sha1="i6PP6IIDArL7B4jHxcpFjJGtNQh" width="654" height="500" srcset="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/7/e/7eecf333c72af4c47dc042d992091ceea57280c5_2_654x500.jpeg, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/7/e/7eecf333c72af4c47dc042d992091ceea57280c5_2_981x750.jpeg 1.5x, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/7/e/7eecf333c72af4c47dc042d992091ceea57280c5_2_1308x1000.jpeg 2x" data-dominant-color="44443D"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">Screenshot 2025-01-30 at 8.11.29 AM</span><span class="informations">1703×1301 206 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
+<p>I am 3D printing my friends skull. I did several hours of manual segmentation and have cleaned my model very well… however the thin bone/cartiledge/tissue is definitely trying. Is there a tool I can use that works almost like a paint bucket but only on the designated slice view? Sort of like the levels tracing, but within your defined border? The 2nd screenshot shows what I am trying to do, but in a different color so that you can see why it has to be done manually (the other sides have holes). I have been using the paint brush but it would save a lot of time not to need to do that. Cheers!!</p>
+
+---
+
+## Post #2 by @lassoan (2025-01-31 11:39 UTC)
+
+<p>You can find a “paint bucket” tool in <a href="https://github.com/lassoan/SlicerSegmentEditorExtraEffects?tab=readme-ov-file#flood-filling">SegmentEditorExtraEffects extension</a> called “Flood filling” that is robust to presence of holes (you can specify the hole size that the filling can leak through).</p>
+<p>If the hole is larger then “Flood filling” effect may not fill areas that you want to fill. In this case, you may want to use “Local threshold” effect.</p>
+<p>If you need have an even large opening then you may need to use <a href="https://github.com/sebastianandress/Slicer-SurfaceWrapSolidify">SurfaceWrapSolidify extension’s</a> “Wrap Solidify” effect.</p>
+
+---
+
+## Post #3 by @connoryamsek (2025-01-31 12:12 UTC)
+
+<p>The flood filling did not produce the correct results. It fills randomly and does not seem to matter where I click. Presumably because the obvious regions have already been sectioned. (See below)</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/4/3/43fb24199cdd8f2dfeccd7fb1ed8ab79fdcc04aa.jpeg" data-download-href="/uploads/short-url/9Ho3zFaxLSRU2JoaYPwBLmF4c6m.jpeg?dl=1" title="Screenshot 2025-01-31 at 7.48.04 AM" rel="noopener nofollow ugc"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/4/3/43fb24199cdd8f2dfeccd7fb1ed8ab79fdcc04aa_2_659x500.jpeg" alt="Screenshot 2025-01-31 at 7.48.04 AM" data-base62-sha1="9Ho3zFaxLSRU2JoaYPwBLmF4c6m" width="659" height="500" srcset="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/4/3/43fb24199cdd8f2dfeccd7fb1ed8ab79fdcc04aa_2_659x500.jpeg, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/4/3/43fb24199cdd8f2dfeccd7fb1ed8ab79fdcc04aa_2_988x750.jpeg 1.5x, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/4/3/43fb24199cdd8f2dfeccd7fb1ed8ab79fdcc04aa_2_1318x1000.jpeg 2x" data-dominant-color="49534D"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">Screenshot 2025-01-31 at 7.48.04 AM</span><span class="informations">1508×1143 227 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
+<p>I can get the SurfaceWrapSolidify working and that did fill many of them, but I have some funky spots that I have been working on manually… I think most of them are interior “C” shapes. I think learning to work with masks might be helpful also.</p>
+
+---

@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Temp files
+*.tmp
+*.log
+
+# Don't ignore archive directory (we want to commit it)
+# !archive/
+
+# pixi environments
+.pixi
+*.egg-info

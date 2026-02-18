@@ -1,0 +1,134 @@
+name: Archive Slicer Discourse
+
+on:
+  schedule:
+    # Run daily at 3 AM UTC
+    - cron: '0 3 * * *'
+
+  # Allow manual triggering
+  workflow_dispatch:
+    inputs:
+      full_archive:
+        description: 'Force full re-archive (ignores previous state)'
+        required: false
+        default: false
+        type: boolean
+
+  # Run on push to main (for testing)
+  push:
+    branches: [ main ]
+    paths:
+      - '.github/workflows/archive-discourse.yml'
+      - 'scripts/**'
+
+jobs:
+  archive:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write  # Allow pushing to repo
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # Full history for better diff tracking
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run discourse archiver (incremental)
+        if: ${{ github.event.inputs.full_archive != 'true' }}
+        env:
+          DISCOURSE_API_KEY: ${{ secrets.DISCOURSE_API_KEY }}
+          DISCOURSE_API_USERNAME: ${{ secrets.DISCOURSE_API_USERNAME }}
+        run: |
+          python scripts/fetch_discourse.py \
+            --url https://discourse.slicer.org \
+            --target-dir ./archive \
+            --debug
+        continue-on-error: true
+
+      - name: Run discourse archiver (full)
+        if: ${{ github.event.inputs.full_archive == 'true' }}
+        env:
+          DISCOURSE_API_KEY: ${{ secrets.DISCOURSE_API_KEY }}
+          DISCOURSE_API_USERNAME: ${{ secrets.DISCOURSE_API_USERNAME }}
+        run: |
+          python scripts/fetch_discourse.py \
+            --url https://discourse.slicer.org \
+            --target-dir ./archive \
+            --full \
+            --debug
+        continue-on-error: true
+
+      - name: Post-process archive
+        run: python scripts/post_process.py
+        continue-on-error: true
+
+      - name: Generate index
+        run: |
+          TOPIC_COUNT=$(find archive/rendered-topics -type f -name "*.md" 2>/dev/null | wc -l | tr -d ' ')
+          JSON_COUNT=$(find archive/posts -type f -name "*.json" 2>/dev/null | wc -l | tr -d ' ')
+
+          cat > archive/INDEX.md << EOF
+          # Slicer Discourse Archive Index
+
+          Last updated: $(date -u +'%Y-%m-%d %H:%M UTC')
+
+          ## Archive Contents
+
+          - Total rendered topics: $TOPIC_COUNT
+          - Raw JSON files: ${JSON_COUNT:-0}
+
+          ## Recent Topics
+
+          EOF
+
+          find archive/rendered-topics -type f -name "*.md" 2>/dev/null \
+            | xargs ls -t 2>/dev/null | head -50 \
+            | while read filepath; do
+              filename=$(basename "$filepath")
+              topic_title=$(echo "$filename" | sed 's/^[0-9-]*-//' | sed 's/-id[0-9]*\.md$//' | tr '-' ' ')
+              echo "- [$topic_title]($filepath)" >> archive/INDEX.md
+            done || true
+
+      - name: Check for changes
+        id: check_changes
+        run: |
+          git add archive/
+          if git diff --staged --quiet; then
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+            echo "No new archive content"
+          else
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+            CHANGED_FILES=$(git diff --staged --name-only | wc -l | tr -d ' ')
+            echo "changed_files=$CHANGED_FILES" >> $GITHUB_OUTPUT
+            echo "Found $CHANGED_FILES changed files"
+          fi
+
+      - name: Commit and push changes
+        if: steps.check_changes.outputs.has_changes == 'true'
+        run: |
+          git config user.name "Discourse Archive Bot"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          CHANGED_FILES="${{ steps.check_changes.outputs.changed_files }}"
+          git commit -m "Archive update: $CHANGED_FILES files modified on $(date +'%Y-%m-%d')"
+
+          git push
+
+      - name: Create summary
+        if: always()
+        run: |
+          echo "## Archive Summary" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "- **Changed files**: ${{ steps.check_changes.outputs.changed_files || '0' }}" >> $GITHUB_STEP_SUMMARY
+          echo "- **Status**: ${{ steps.check_changes.outputs.has_changes == 'true' && '✅ Updated' || '📝 No changes' }}" >> $GITHUB_STEP_SUMMARY
+          echo "- **Archive location**: [View archive](https://github.com/${{ github.repository }}/tree/main/archive)" >> $GITHUB_STEP_SUMMARY
