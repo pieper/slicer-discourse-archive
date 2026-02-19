@@ -41,7 +41,7 @@ jobs:
           cache: 'pip'
 
       - name: Install dependencies
-        run: pip install requests
+        run: pip install -r requirements.txt
 
       - name: Run discourse archiver (incremental)
         if: ${{ github.event.inputs.full_archive != 'true' }}

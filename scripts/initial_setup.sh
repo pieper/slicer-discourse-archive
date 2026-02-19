@@ -5,7 +5,7 @@
 set -e
 
 echo "Installing Python dependencies..."
-pip install requests
+pip install -r requirements.txt
 
 echo "Running initial archive (this may take a long time for a full forum)..."
 python scripts/fetch_discourse.py \
