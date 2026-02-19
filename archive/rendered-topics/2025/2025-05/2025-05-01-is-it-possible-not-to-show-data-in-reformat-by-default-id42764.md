@@ -1,3 +1,10 @@
+---
+topic_id: 42764
+title: "Is It Possible Not To Show Data In Reformat By Default"
+date: 2025-05-01
+url: https://discourse.slicer.org/t/42764
+---
+
 # Is it possible not to show data in reformat by default
 
 **Topic ID**: 42764

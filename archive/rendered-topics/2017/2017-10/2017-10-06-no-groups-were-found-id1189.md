@@ -1,3 +1,10 @@
+---
+topic_id: 1189
+title: "No Groups Were Found"
+date: 2017-10-06
+url: https://discourse.slicer.org/t/1189
+---
+
 # No groups were found
 
 **Topic ID**: 1189

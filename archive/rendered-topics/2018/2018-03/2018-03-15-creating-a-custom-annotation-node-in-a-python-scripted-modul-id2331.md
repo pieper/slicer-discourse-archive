@@ -1,3 +1,10 @@
+---
+topic_id: 2331
+title: "Creating A Custom Annotation Node In A Python Scripted Modul"
+date: 2018-03-15
+url: https://discourse.slicer.org/t/2331
+---
+
 # Creating a custom Annotation node in a Python scripted module
 
 **Topic ID**: 2331

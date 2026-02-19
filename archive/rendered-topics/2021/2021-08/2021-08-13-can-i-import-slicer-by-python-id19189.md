@@ -1,3 +1,10 @@
+---
+topic_id: 19189
+title: "Can I Import Slicer By Python"
+date: 2021-08-13
+url: https://discourse.slicer.org/t/19189
+---
+
 # Can I import slicer by python?
 
 **Topic ID**: 19189

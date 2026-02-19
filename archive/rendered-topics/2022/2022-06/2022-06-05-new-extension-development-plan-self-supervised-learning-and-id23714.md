@@ -1,3 +1,10 @@
+---
+topic_id: 23714
+title: "New Extension Development Plan Self Supervised Learning And"
+date: 2022-06-05
+url: https://discourse.slicer.org/t/23714
+---
+
 # New Extension Development Plan: self-supervised learning and liver segmentation
 
 **Topic ID**: 23714

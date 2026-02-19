@@ -1,3 +1,10 @@
+---
+topic_id: 9171
+title: "Qt Path Configuration For Building Slicer"
+date: 2019-11-15
+url: https://discourse.slicer.org/t/9171
+---
+
 # Qt Path - Configuration for Building Slicer
 
 **Topic ID**: 9171

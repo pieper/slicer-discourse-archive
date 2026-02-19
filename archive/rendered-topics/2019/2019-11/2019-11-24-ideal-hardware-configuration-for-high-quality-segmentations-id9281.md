@@ -1,3 +1,10 @@
+---
+topic_id: 9281
+title: "Ideal Hardware Configuration For High Quality Segmentations"
+date: 2019-11-24
+url: https://discourse.slicer.org/t/9281
+---
+
 # Ideal hardware configuration for high quality segmentations
 
 **Topic ID**: 9281

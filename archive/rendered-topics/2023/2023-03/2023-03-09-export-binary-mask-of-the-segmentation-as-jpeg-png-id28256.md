@@ -1,3 +1,10 @@
+---
+topic_id: 28256
+title: "Export Binary Mask Of The Segmentation As Jpeg Png"
+date: 2023-03-09
+url: https://discourse.slicer.org/t/28256
+---
+
 # Export binary mask of the segmentation as jpeg/png
 
 **Topic ID**: 28256

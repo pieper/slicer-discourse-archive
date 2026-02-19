@@ -1,3 +1,10 @@
+---
+topic_id: 6542
+title: "Switch Between Multiple Images Type In One Series"
+date: 2019-04-19
+url: https://discourse.slicer.org/t/6542
+---
+
 # Switch between multiple images type in one series
 
 **Topic ID**: 6542

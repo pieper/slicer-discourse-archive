@@ -1,3 +1,10 @@
+---
+topic_id: 19854
+title: "Adjust Wl Window Level Using Right Mouse Button"
+date: 2021-09-25
+url: https://discourse.slicer.org/t/19854
+---
+
 # Adjust WL (window level) using right mouse button
 
 **Topic ID**: 19854

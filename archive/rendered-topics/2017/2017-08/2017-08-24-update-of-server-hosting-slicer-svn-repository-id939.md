@@ -1,3 +1,10 @@
+---
+topic_id: 939
+title: "Update Of Server Hosting Slicer Svn Repository"
+date: 2017-08-24
+url: https://discourse.slicer.org/t/939
+---
+
 # Update of server hosting slicer SVN repository
 
 **Topic ID**: 939

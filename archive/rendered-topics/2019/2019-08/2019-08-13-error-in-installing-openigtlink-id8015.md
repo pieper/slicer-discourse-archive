@@ -1,3 +1,10 @@
+---
+topic_id: 8015
+title: "Error In Installing Openigtlink"
+date: 2019-08-13
+url: https://discourse.slicer.org/t/8015
+---
+
 # Error in installing OpenIGTLink
 
 **Topic ID**: 8015

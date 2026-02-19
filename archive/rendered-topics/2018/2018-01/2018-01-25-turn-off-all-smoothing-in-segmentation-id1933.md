@@ -1,3 +1,10 @@
+---
+topic_id: 1933
+title: "Turn Off All Smoothing In Segmentation"
+date: 2018-01-25
+url: https://discourse.slicer.org/t/1933
+---
+
 # Turn off all smoothing in segmentation
 
 **Topic ID**: 1933

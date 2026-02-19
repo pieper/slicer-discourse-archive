@@ -1,3 +1,10 @@
+---
+topic_id: 7073
+title: "Where Can I Download Slicer3"
+date: 2019-06-07
+url: https://discourse.slicer.org/t/7073
+---
+
 # Where can I download Slicer3?
 
 **Topic ID**: 7073

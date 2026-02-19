@@ -1,3 +1,10 @@
+---
+topic_id: 34226
+title: "Connecting Ndi Aurora Tracking System To 3D Slicer"
+date: 2024-02-09
+url: https://discourse.slicer.org/t/34226
+---
+
 # Connecting NDI aurora tracking system to 3D slicer
 
 **Topic ID**: 34226

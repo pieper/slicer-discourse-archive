@@ -1,3 +1,10 @@
+---
+topic_id: 23210
+title: "How To Clip A Model From A Volume Node Through A Roi Without"
+date: 2022-05-01
+url: https://discourse.slicer.org/t/23210
+---
+
 # How to clip a model from a volume node through a ROI without the crop Volume?
 
 **Topic ID**: 23210

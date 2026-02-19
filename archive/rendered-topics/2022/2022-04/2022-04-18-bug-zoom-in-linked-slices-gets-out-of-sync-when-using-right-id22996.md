@@ -1,3 +1,10 @@
+---
+topic_id: 22996
+title: "Bug Zoom In Linked Slices Gets Out Of Sync When Using Right"
+date: 2022-04-18
+url: https://discourse.slicer.org/t/22996
+---
+
 # Bug: zoom in linked slices gets out of sync when using right-click+drag (again)
 
 **Topic ID**: 22996

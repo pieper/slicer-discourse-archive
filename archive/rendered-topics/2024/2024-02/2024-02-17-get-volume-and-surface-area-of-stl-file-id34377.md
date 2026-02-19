@@ -1,3 +1,10 @@
+---
+topic_id: 34377
+title: "Get Volume And Surface Area Of Stl File"
+date: 2024-02-17
+url: https://discourse.slicer.org/t/34377
+---
+
 # Get volume and surface area of STL file
 
 **Topic ID**: 34377

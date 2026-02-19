@@ -1,3 +1,10 @@
+---
+topic_id: 11827
+title: "Latest Nightly Build Won T Work"
+date: 2020-06-02
+url: https://discourse.slicer.org/t/11827
+---
+
 # Latest nightly build won´t work
 
 **Topic ID**: 11827

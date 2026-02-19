@@ -1,3 +1,10 @@
+---
+topic_id: 25800
+title: "Automatic Paint Tool Along Curve"
+date: 2022-10-20
+url: https://discourse.slicer.org/t/25800
+---
+
 # Automatic paint tool along curve
 
 **Topic ID**: 25800

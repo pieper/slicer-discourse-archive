@@ -1,3 +1,10 @@
+---
+topic_id: 29910
+title: "Build Error Customslicers Purpose"
+date: 2023-06-08
+url: https://discourse.slicer.org/t/29910
+---
+
 # Build Error & CustomSlicer's Purpose
 
 **Topic ID**: 29910

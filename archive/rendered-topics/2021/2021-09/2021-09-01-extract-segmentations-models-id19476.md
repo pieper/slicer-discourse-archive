@@ -1,3 +1,10 @@
+---
+topic_id: 19476
+title: "Extract Segmentations Models"
+date: 2021-09-01
+url: https://discourse.slicer.org/t/19476
+---
+
 # Extract segmentations models
 
 **Topic ID**: 19476

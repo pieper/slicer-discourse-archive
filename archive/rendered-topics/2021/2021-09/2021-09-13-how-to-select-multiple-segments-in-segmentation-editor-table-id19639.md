@@ -1,3 +1,10 @@
+---
+topic_id: 19639
+title: "How To Select Multiple Segments In Segmentation Editor Table"
+date: 2021-09-13
+url: https://discourse.slicer.org/t/19639
+---
+
 # How to select multiple segments in segmentation editor table view
 
 **Topic ID**: 19639

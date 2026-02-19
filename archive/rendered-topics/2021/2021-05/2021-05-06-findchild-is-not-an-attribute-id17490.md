@@ -1,3 +1,10 @@
+---
+topic_id: 17490
+title: "Findchild Is Not An Attribute"
+date: 2021-05-06
+url: https://discourse.slicer.org/t/17490
+---
+
 # `findChild` is not an attribute
 
 **Topic ID**: 17490

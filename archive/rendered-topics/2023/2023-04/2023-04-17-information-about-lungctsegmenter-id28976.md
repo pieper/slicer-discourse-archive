@@ -1,3 +1,10 @@
+---
+topic_id: 28976
+title: "Information About Lungctsegmenter"
+date: 2023-04-17
+url: https://discourse.slicer.org/t/28976
+---
+
 # Information about LungCTSegmenter
 
 **Topic ID**: 28976

@@ -1,3 +1,10 @@
+---
+topic_id: 11113
+title: "Problem With Cip 3D Model And Exportation"
+date: 2020-04-14
+url: https://discourse.slicer.org/t/11113
+---
+
 # Problem with CIP 3d model and exportation
 
 **Topic ID**: 11113

@@ -1,3 +1,10 @@
+---
+topic_id: 15309
+title: "Nearby Fiducial Points At Different Slices"
+date: 2021-01-01
+url: https://discourse.slicer.org/t/15309
+---
+
 # Nearby fiducial points at different slices
 
 **Topic ID**: 15309

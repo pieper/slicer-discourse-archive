@@ -1,3 +1,10 @@
+---
+topic_id: 19424
+title: "How To Reset Or Undo A Specific Step Or Def By Deleting The"
+date: 2021-08-31
+url: https://discourse.slicer.org/t/19424
+---
+
 # How to reset or undo a specific step or def() by deleting the child folder created from it?
 
 **Topic ID**: 19424

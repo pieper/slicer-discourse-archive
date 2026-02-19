@@ -1,3 +1,10 @@
+---
+topic_id: 21429
+title: "How Do I Get Volume Dimensions From Section Of 3D Render Out"
+date: 2022-01-12
+url: https://discourse.slicer.org/t/21429
+---
+
 # How do I get volume dimensions from section of 3D render out of DICOM files? 
 
 **Topic ID**: 21429

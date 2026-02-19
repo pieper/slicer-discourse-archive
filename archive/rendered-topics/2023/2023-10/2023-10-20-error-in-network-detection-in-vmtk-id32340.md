@@ -1,3 +1,10 @@
+---
+topic_id: 32340
+title: "Error In Network Detection In Vmtk"
+date: 2023-10-20
+url: https://discourse.slicer.org/t/32340
+---
+
 # Error in network detection in vmtk
 
 **Topic ID**: 32340

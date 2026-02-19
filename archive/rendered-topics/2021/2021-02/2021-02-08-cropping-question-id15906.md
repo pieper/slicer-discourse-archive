@@ -1,3 +1,10 @@
+---
+topic_id: 15906
+title: "Cropping Question"
+date: 2021-02-08
+url: https://discourse.slicer.org/t/15906
+---
+
 # cropping question 
 
 **Topic ID**: 15906

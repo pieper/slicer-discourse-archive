@@ -1,3 +1,10 @@
+---
+topic_id: 11703
+title: "Saving Image File In Mha Format"
+date: 2020-05-26
+url: https://discourse.slicer.org/t/11703
+---
+
 # Saving image file in .mha format
 
 **Topic ID**: 11703

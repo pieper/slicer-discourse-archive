@@ -1,3 +1,10 @@
+---
+topic_id: 17235
+title: "Error With Elastix Registration Elastix Not Found"
+date: 2021-04-21
+url: https://discourse.slicer.org/t/17235
+---
+
 # Error with Elastix Registration: Elastix not found
 
 **Topic ID**: 17235

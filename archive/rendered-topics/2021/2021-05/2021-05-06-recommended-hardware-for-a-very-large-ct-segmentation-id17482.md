@@ -1,3 +1,10 @@
+---
+topic_id: 17482
+title: "Recommended Hardware For A Very Large Ct Segmentation"
+date: 2021-05-06
+url: https://discourse.slicer.org/t/17482
+---
+
 #  Recommended hardware for a very large CT segmentation
 
 **Topic ID**: 17482

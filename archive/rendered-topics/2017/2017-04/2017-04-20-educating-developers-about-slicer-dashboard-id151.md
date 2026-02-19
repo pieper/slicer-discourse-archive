@@ -1,3 +1,10 @@
+---
+topic_id: 151
+title: "Educating Developers About Slicer Dashboard"
+date: 2017-04-20
+url: https://discourse.slicer.org/t/151
+---
+
 # Educating developers about Slicer dashboard
 
 **Topic ID**: 151

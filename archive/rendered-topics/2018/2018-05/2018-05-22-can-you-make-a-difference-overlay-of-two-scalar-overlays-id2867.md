@@ -1,3 +1,10 @@
+---
+topic_id: 2867
+title: "Can You Make A Difference Overlay Of Two Scalar Overlays"
+date: 2018-05-22
+url: https://discourse.slicer.org/t/2867
+---
+
 # Can you make a difference overlay of two scalar overlays?
 
 **Topic ID**: 2867

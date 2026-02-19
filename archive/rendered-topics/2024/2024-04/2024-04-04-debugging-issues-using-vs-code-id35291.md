@@ -1,3 +1,10 @@
+---
+topic_id: 35291
+title: "Debugging Issues Using Vs Code"
+date: 2024-04-04
+url: https://discourse.slicer.org/t/35291
+---
+
 # Debugging Issues using VS Code
 
 **Topic ID**: 35291

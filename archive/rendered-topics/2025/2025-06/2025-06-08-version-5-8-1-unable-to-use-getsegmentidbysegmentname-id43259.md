@@ -1,3 +1,10 @@
+---
+topic_id: 43259
+title: "Version 5 8 1 Unable To Use Getsegmentidbysegmentname"
+date: 2025-06-08
+url: https://discourse.slicer.org/t/43259
+---
+
 # Version 5.8.1 unable to use GetSegmentIdBySegmentName
 
 **Topic ID**: 43259

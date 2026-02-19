@@ -1,3 +1,10 @@
+---
+topic_id: 12194
+title: "Slice Cropped As Volume"
+date: 2020-06-24
+url: https://discourse.slicer.org/t/12194
+---
+
 # Slice cropped as volume
 
 **Topic ID**: 12194

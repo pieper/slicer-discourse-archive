@@ -1,3 +1,10 @@
+---
+topic_id: 5878
+title: "Build Light Weight Robot Igt Module"
+date: 2019-02-21
+url: https://discourse.slicer.org/t/5878
+---
+
 # Build Light Weight Robot IGT module
 
 **Topic ID**: 5878

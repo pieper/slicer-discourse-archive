@@ -1,3 +1,10 @@
+---
+topic_id: 26401
+title: "I Meet Some Problems In 3D Slicer Documentation"
+date: 2022-11-23
+url: https://discourse.slicer.org/t/26401
+---
+
 # I meet some problems in 3D slicer documentation
 
 **Topic ID**: 26401

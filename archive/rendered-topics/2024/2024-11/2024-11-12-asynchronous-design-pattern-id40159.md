@@ -1,3 +1,10 @@
+---
+topic_id: 40159
+title: "Asynchronous Design Pattern"
+date: 2024-11-12
+url: https://discourse.slicer.org/t/40159
+---
+
 # Asynchronous design pattern
 
 **Topic ID**: 40159

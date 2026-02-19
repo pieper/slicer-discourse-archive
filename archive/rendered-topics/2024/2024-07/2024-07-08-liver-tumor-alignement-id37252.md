@@ -1,3 +1,10 @@
+---
+topic_id: 37252
+title: "Liver Tumor Alignement"
+date: 2024-07-08
+url: https://discourse.slicer.org/t/37252
+---
+
 # Liver tumor alignement
 
 **Topic ID**: 37252

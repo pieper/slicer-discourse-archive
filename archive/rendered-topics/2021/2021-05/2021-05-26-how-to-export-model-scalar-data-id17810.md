@@ -1,3 +1,10 @@
+---
+topic_id: 17810
+title: "How To Export Model Scalar Data"
+date: 2021-05-26
+url: https://discourse.slicer.org/t/17810
+---
+
 # How to export Model Scalar data?
 
 **Topic ID**: 17810

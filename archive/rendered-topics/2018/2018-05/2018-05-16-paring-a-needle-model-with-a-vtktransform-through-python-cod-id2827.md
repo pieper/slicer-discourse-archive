@@ -1,3 +1,10 @@
+---
+topic_id: 2827
+title: "Paring A Needle Model With A Vtktransform Through Python Cod"
+date: 2018-05-16
+url: https://discourse.slicer.org/t/2827
+---
+
 # Paring a needle model with a vtktransform through python code
 
 **Topic ID**: 2827

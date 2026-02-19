@@ -1,3 +1,10 @@
+---
+topic_id: 33179
+title: "Heart Segmentation Problem"
+date: 2023-12-02
+url: https://discourse.slicer.org/t/33179
+---
+
 # Heart segmentation problem
 
 **Topic ID**: 33179

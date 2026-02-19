@@ -1,3 +1,10 @@
+---
+topic_id: 29879
+title: "Converting Model To Binary Label Map Creates Artifacts"
+date: 2023-06-06
+url: https://discourse.slicer.org/t/29879
+---
+
 # converting model to binary label map creates artifacts 
 
 **Topic ID**: 29879

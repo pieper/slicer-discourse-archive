@@ -1,3 +1,10 @@
+---
+topic_id: 19077
+title: "Slicer Crashes When Trying To Open Xtekct Vol Files"
+date: 2021-08-05
+url: https://discourse.slicer.org/t/19077
+---
+
 # Slicer crashes when trying to open xtekct .vol files
 
 **Topic ID**: 19077

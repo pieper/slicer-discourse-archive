@@ -1,3 +1,10 @@
+---
+topic_id: 42289
+title: "Heat Map Two Timepoint Cbct Comparison"
+date: 2025-03-25
+url: https://discourse.slicer.org/t/42289
+---
+
 # Heat map two timepoint cbct comparison
 
 **Topic ID**: 42289

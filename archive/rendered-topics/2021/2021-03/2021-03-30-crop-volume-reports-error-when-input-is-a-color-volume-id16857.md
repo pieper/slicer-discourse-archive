@@ -1,3 +1,10 @@
+---
+topic_id: 16857
+title: "Crop Volume Reports Error When Input Is A Color Volume"
+date: 2021-03-30
+url: https://discourse.slicer.org/t/16857
+---
+
 # Crop Volume reports error when input is a color volume
 
 **Topic ID**: 16857

@@ -1,3 +1,10 @@
+---
+topic_id: 3521
+title: "Create Sphere Brush To Edit Voxels Values In Scanners Image"
+date: 2018-07-19
+url: https://discourse.slicer.org/t/3521
+---
+
 # Create sphere brush to edit voxels values in scanners image without fixed position
 
 **Topic ID**: 3521

@@ -1,3 +1,10 @@
+---
+topic_id: 1117
+title: "Turning A Fundus Camera Dicom File To 3D Image"
+date: 2017-09-25
+url: https://discourse.slicer.org/t/1117
+---
+
 # Turning a Fundus Camera Dicom file to 3d image
 
 **Topic ID**: 1117

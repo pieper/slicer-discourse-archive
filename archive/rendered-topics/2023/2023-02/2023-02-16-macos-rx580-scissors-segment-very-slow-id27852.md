@@ -1,3 +1,10 @@
+---
+topic_id: 27852
+title: "Macos Rx580 Scissors Segment Very Slow"
+date: 2023-02-16
+url: https://discourse.slicer.org/t/27852
+---
+
 # MacOS RX580 Scissors Segment very slow
 
 **Topic ID**: 27852

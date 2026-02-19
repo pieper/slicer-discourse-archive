@@ -1,3 +1,10 @@
+---
+topic_id: 14431
+title: "Seega Extension Not Working With Slicer Stable Release"
+date: 2020-11-04
+url: https://discourse.slicer.org/t/14431
+---
+
 # SEEGA extension not working with Slicer stable release
 
 **Topic ID**: 14431

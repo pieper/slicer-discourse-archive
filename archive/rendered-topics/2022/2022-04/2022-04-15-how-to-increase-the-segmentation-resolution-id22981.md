@@ -1,3 +1,10 @@
+---
+topic_id: 22981
+title: "How To Increase The Segmentation Resolution"
+date: 2022-04-15
+url: https://discourse.slicer.org/t/22981
+---
+
 # How to increase the segmentation resolution?
 
 **Topic ID**: 22981

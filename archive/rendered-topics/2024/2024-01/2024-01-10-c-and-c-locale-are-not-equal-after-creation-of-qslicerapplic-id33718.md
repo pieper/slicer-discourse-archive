@@ -1,3 +1,10 @@
+---
+topic_id: 33718
+title: "C And C Locale Are Not Equal After Creation Of Qslicerapplic"
+date: 2024-01-10
+url: https://discourse.slicer.org/t/33718
+---
+
 # C++ and C locale are not equal after creation of qSlicerApplication
 
 **Topic ID**: 33718

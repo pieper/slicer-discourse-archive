@@ -1,3 +1,10 @@
+---
+topic_id: 35957
+title: "Monai Label Accuracy Not Showing"
+date: 2024-05-07
+url: https://discourse.slicer.org/t/35957
+---
+
 # Monai Label: accuracy not showing
 
 **Topic ID**: 35957

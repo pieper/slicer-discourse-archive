@@ -1,3 +1,10 @@
+---
+topic_id: 16575
+title: "How To Rename Segments In A Segmentation Node"
+date: 2021-03-16
+url: https://discourse.slicer.org/t/16575
+---
+
 # How to rename segments in a segmentation node?
 
 **Topic ID**: 16575

@@ -1,3 +1,10 @@
+---
+topic_id: 27284
+title: "Dimension Of The Segmented Image Changes"
+date: 2023-01-17
+url: https://discourse.slicer.org/t/27284
+---
+
 # Dimension of the segmented image changes
 
 **Topic ID**: 27284

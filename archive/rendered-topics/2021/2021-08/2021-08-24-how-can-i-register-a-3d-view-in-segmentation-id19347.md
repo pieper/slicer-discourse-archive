@@ -1,3 +1,10 @@
+---
+topic_id: 19347
+title: "How Can I Register A 3D View In Segmentation"
+date: 2021-08-24
+url: https://discourse.slicer.org/t/19347
+---
+
 # How can I register a 3D view in segmentation?
 
 **Topic ID**: 19347

@@ -1,3 +1,10 @@
+---
+topic_id: 4937
+title: "Fetching Real World Postition Orientation Of Htc Vive Contro"
+date: 2018-12-03
+url: https://discourse.slicer.org/t/4937
+---
+
 # Fetching real world postition/orientation of HTC Vive controller/HMD
 
 **Topic ID**: 4937

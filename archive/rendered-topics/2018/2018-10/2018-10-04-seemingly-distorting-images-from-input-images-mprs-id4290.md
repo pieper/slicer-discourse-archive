@@ -1,3 +1,10 @@
+---
+topic_id: 4290
+title: "Seemingly Distorting Images From Input Images Mprs"
+date: 2018-10-04
+url: https://discourse.slicer.org/t/4290
+---
+
 # Seemingly distorting images from input images (MPRs)
 
 **Topic ID**: 4290

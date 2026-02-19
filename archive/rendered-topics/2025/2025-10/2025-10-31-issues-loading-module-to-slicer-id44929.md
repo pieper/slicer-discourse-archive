@@ -1,3 +1,10 @@
+---
+topic_id: 44929
+title: "Issues Loading Module To Slicer"
+date: 2025-10-31
+url: https://discourse.slicer.org/t/44929
+---
+
 # Issues loading module to slicer
 
 **Topic ID**: 44929

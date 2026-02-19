@@ -1,3 +1,10 @@
+---
+topic_id: 35939
+title: "Methods For Sphenoid Prerygoid Segmentation From Ct Skull Da"
+date: 2024-05-06
+url: https://discourse.slicer.org/t/35939
+---
+
 # Methods for Sphenoid/Prerygoid segmentation from CT skull data
 
 **Topic ID**: 35939

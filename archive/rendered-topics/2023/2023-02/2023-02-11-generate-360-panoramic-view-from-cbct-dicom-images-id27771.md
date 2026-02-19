@@ -1,3 +1,10 @@
+---
+topic_id: 27771
+title: "Generate 360 Panoramic View From Cbct Dicom Images"
+date: 2023-02-11
+url: https://discourse.slicer.org/t/27771
+---
+
 # Generate 360 Panoramic View from CBCT Dicom Images
 
 **Topic ID**: 27771

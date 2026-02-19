@@ -1,3 +1,10 @@
+---
+topic_id: 24268
+title: "Clear Dicom Images"
+date: 2022-07-11
+url: https://discourse.slicer.org/t/24268
+---
+
 # Clear DICOM Images
 
 **Topic ID**: 24268

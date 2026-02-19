@@ -1,3 +1,10 @@
+---
+topic_id: 25113
+title: "I Created An Extension But It Doesnt Have Any Slicer Ui File"
+date: 2022-09-06
+url: https://discourse.slicer.org/t/25113
+---
+
 # I created an extension, but it doesn't have any Slicer UI files in it
 
 **Topic ID**: 25113

@@ -1,3 +1,10 @@
+---
+topic_id: 9945
+title: "Create Cubic Roi Voi And Extract Data From Image File E G Mr"
+date: 2020-01-25
+url: https://discourse.slicer.org/t/9945
+---
+
 # Create cubic ROI (VOI) and extract data from image file (e.g MRI)?
 
 **Topic ID**: 9945

@@ -1,3 +1,10 @@
+---
+topic_id: 3148
+title: "Slicer Remote Access"
+date: 2018-06-12
+url: https://discourse.slicer.org/t/3148
+---
+
 # Slicer Remote access
 
 **Topic ID**: 3148

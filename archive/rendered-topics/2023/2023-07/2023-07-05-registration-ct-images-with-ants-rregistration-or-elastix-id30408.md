@@ -1,3 +1,10 @@
+---
+topic_id: 30408
+title: "Registration Ct Images With Ants Rregistration Or Elastix"
+date: 2023-07-05
+url: https://discourse.slicer.org/t/30408
+---
+
 # Registration CT images with Ants Rregistration or Elastix
 
 **Topic ID**: 30408

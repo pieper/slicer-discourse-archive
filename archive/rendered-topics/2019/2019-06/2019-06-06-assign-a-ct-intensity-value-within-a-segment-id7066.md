@@ -1,3 +1,10 @@
+---
+topic_id: 7066
+title: "Assign A Ct Intensity Value Within A Segment"
+date: 2019-06-06
+url: https://discourse.slicer.org/t/7066
+---
+
 # Assign a CT intensity value within a segment
 
 **Topic ID**: 7066

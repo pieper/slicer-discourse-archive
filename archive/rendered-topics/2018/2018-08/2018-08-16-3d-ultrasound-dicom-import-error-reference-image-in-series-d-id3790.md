@@ -1,3 +1,10 @@
+---
+topic_id: 3790
+title: "3D Ultrasound Dicom Import Error Reference Image In Series D"
+date: 2018-08-16
+url: https://discourse.slicer.org/t/3790
+---
+
 # 3D ultrasound DICOM import error: 'Reference image in series does not contain geometry information. Please use caution.'
 
 **Topic ID**: 3790

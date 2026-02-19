@@ -1,3 +1,10 @@
+---
+topic_id: 17626
+title: "Generate 2D X Ray Image From Volume Just Like Drr Update"
+date: 2021-05-14
+url: https://discourse.slicer.org/t/17626
+---
+
 # Generate 2D X-ray image from volume, just like DRR...update?
 
 **Topic ID**: 17626

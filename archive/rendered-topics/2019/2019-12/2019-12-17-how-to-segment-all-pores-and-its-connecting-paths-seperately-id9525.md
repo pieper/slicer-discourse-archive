@@ -1,3 +1,10 @@
+---
+topic_id: 9525
+title: "How To Segment All Pores And Its Connecting Paths Seperately"
+date: 2019-12-17
+url: https://discourse.slicer.org/t/9525
+---
+
 # How to  segment all pores and its  connecting paths seperately 
 
 **Topic ID**: 9525

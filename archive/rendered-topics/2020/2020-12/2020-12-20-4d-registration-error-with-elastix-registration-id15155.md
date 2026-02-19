@@ -1,3 +1,10 @@
+---
+topic_id: 15155
+title: "4D Registration Error With Elastix Registration"
+date: 2020-12-20
+url: https://discourse.slicer.org/t/15155
+---
+
 # 4D registration error with Elastix Registration
 
 **Topic ID**: 15155

@@ -1,3 +1,10 @@
+---
+topic_id: 42356
+title: "Slicer Doesnt Open After Installing Slicerwma Extension"
+date: 2025-03-29
+url: https://discourse.slicer.org/t/42356
+---
+
 # Slicer doesn't open after installing SlicerWMA extension
 
 **Topic ID**: 42356

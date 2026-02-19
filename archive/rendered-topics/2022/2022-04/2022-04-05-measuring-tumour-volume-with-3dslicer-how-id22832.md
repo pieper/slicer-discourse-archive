@@ -1,3 +1,10 @@
+---
+topic_id: 22832
+title: "Measuring Tumour Volume With 3Dslicer How"
+date: 2022-04-05
+url: https://discourse.slicer.org/t/22832
+---
+
 # Measuring Tumour Volume with 3DSlicer. How?
 
 **Topic ID**: 22832

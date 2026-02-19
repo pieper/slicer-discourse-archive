@@ -1,3 +1,10 @@
+---
+topic_id: 24963
+title: "Turn The Dicom Files Into Stl Files"
+date: 2022-08-28
+url: https://discourse.slicer.org/t/24963
+---
+
 # Turn the Dicom files into .Stl files
 
 **Topic ID**: 24963

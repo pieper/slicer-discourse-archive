@@ -1,3 +1,10 @@
+---
+topic_id: 12768
+title: "Cannot Import Name Featureextractor From Radiomics"
+date: 2020-07-29
+url: https://discourse.slicer.org/t/12768
+---
+
 # cannot import name 'featureextractor' from 'radiomics'
 
 **Topic ID**: 12768

@@ -1,3 +1,10 @@
+---
+topic_id: 14268
+title: "Nvme Instead Of Ram For Slicer"
+date: 2020-10-27
+url: https://discourse.slicer.org/t/14268
+---
+
 # NVMe instead of RAM for Slicer?
 
 **Topic ID**: 14268

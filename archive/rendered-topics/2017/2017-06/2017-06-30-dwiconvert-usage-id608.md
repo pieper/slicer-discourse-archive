@@ -1,3 +1,10 @@
+---
+topic_id: 608
+title: "Dwiconvert Usage"
+date: 2017-06-30
+url: https://discourse.slicer.org/t/608
+---
+
 # DWIConvert usage
 
 **Topic ID**: 608

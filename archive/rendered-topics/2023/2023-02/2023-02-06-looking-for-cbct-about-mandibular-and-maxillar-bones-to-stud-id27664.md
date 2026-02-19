@@ -1,3 +1,10 @@
+---
+topic_id: 27664
+title: "Looking For Cbct About Mandibular And Maxillar Bones To Stud"
+date: 2023-02-06
+url: https://discourse.slicer.org/t/27664
+---
+
 # Looking for CBCT  about mandibular and maxillar bones to study. transformation for chirurgical workflow
 
 **Topic ID**: 27664

@@ -1,3 +1,10 @@
+---
+topic_id: 20950
+title: "New Export Functionality"
+date: 2021-12-07
+url: https://discourse.slicer.org/t/20950
+---
+
 # New export functionality
 
 **Topic ID**: 20950

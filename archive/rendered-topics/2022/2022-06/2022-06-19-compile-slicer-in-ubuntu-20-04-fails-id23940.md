@@ -1,3 +1,10 @@
+---
+topic_id: 23940
+title: "Compile Slicer In Ubuntu 20 04 Fails"
+date: 2022-06-19
+url: https://discourse.slicer.org/t/23940
+---
+
 # Compile Slicer in Ubuntu(20.04) fails
 
 **Topic ID**: 23940

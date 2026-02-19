@@ -1,3 +1,10 @@
+---
+topic_id: 34066
+title: "Radius Extraction From Centerline"
+date: 2024-01-31
+url: https://discourse.slicer.org/t/34066
+---
+
 # Radius Extraction from centerline
 
 **Topic ID**: 34066

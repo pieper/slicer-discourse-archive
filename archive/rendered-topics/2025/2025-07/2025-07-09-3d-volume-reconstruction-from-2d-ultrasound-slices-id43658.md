@@ -1,3 +1,10 @@
+---
+topic_id: 43658
+title: "3D Volume Reconstruction From 2D Ultrasound Slices"
+date: 2025-07-09
+url: https://discourse.slicer.org/t/43658
+---
+
 # 3D Volume Reconstruction from 2D Ultrasound Slices
 
 **Topic ID**: 43658

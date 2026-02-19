@@ -1,3 +1,10 @@
+---
+topic_id: 31135
+title: "Grow From Seeds Fails When Segmentation Contains A Single Se"
+date: 2023-08-14
+url: https://discourse.slicer.org/t/31135
+---
+
 # Grow from seeds fails when segmentation contains a single segment
 
 **Topic ID**: 31135

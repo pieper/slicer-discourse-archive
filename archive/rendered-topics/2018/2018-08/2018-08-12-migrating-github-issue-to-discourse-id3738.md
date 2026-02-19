@@ -1,3 +1,10 @@
+---
+topic_id: 3738
+title: "Migrating Github Issue To Discourse"
+date: 2018-08-12
+url: https://discourse.slicer.org/t/3738
+---
+
 # Migrating GitHub issue to discourse
 
 **Topic ID**: 3738

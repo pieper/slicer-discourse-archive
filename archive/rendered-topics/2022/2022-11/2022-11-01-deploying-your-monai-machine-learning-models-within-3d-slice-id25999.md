@@ -1,3 +1,10 @@
+---
+topic_id: 25999
+title: "Deploying Your Monai Machine Learning Models Within 3D Slice"
+date: 2022-11-01
+url: https://discourse.slicer.org/t/25999
+---
+
 # Deploying your MONAI machine learning models within 3D Slicer
 
 **Topic ID**: 25999

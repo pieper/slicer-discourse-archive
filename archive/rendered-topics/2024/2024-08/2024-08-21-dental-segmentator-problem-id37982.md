@@ -1,3 +1,10 @@
+---
+topic_id: 37982
+title: "Dental Segmentator Problem"
+date: 2024-08-21
+url: https://discourse.slicer.org/t/37982
+---
+
 # Dental segmentator problem
 
 **Topic ID**: 37982

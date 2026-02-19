@@ -1,3 +1,10 @@
+---
+topic_id: 27039
+title: "Accessing A List Of A Models Vertices Programmatically"
+date: 2023-01-04
+url: https://discourse.slicer.org/t/27039
+---
+
 # Accessing a list of a Model's Vertices programmatically?
 
 **Topic ID**: 27039

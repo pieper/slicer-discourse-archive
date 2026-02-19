@@ -1,3 +1,10 @@
+---
+topic_id: 26675
+title: "Prevent Some C Code From Being Wrapped For Python"
+date: 2022-12-10
+url: https://discourse.slicer.org/t/26675
+---
+
 # Prevent some C++ code from being wrapped for Python
 
 **Topic ID**: 26675

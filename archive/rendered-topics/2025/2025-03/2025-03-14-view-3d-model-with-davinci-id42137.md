@@ -1,3 +1,10 @@
+---
+topic_id: 42137
+title: "View 3D Model With Davinci"
+date: 2025-03-14
+url: https://discourse.slicer.org/t/42137
+---
+
 # View 3D model with DaVinci
 
 **Topic ID**: 42137

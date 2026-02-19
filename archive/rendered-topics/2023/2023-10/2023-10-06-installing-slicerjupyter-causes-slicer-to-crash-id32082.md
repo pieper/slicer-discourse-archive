@@ -1,3 +1,10 @@
+---
+topic_id: 32082
+title: "Installing Slicerjupyter Causes Slicer To Crash"
+date: 2023-10-06
+url: https://discourse.slicer.org/t/32082
+---
+
 # Installing SlicerJupyter causes Slicer to crash
 
 **Topic ID**: 32082

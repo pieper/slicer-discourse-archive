@@ -1,3 +1,10 @@
+---
+topic_id: 28888
+title: "What Algorithm Is 3Dslicers Add Scalar Volumes Module Based"
+date: 2023-04-13
+url: https://discourse.slicer.org/t/28888
+---
+
 # what algorithm is 3Dslicer's Add Scalar Volumes module based on for image fusion?
 
 **Topic ID**: 28888

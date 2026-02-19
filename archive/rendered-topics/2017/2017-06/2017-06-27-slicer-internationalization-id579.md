@@ -1,3 +1,10 @@
+---
+topic_id: 579
+title: "Slicer Internationalization"
+date: 2017-06-27
+url: https://discourse.slicer.org/t/579
+---
+
 # Slicer Internationalization
 
 **Topic ID**: 579

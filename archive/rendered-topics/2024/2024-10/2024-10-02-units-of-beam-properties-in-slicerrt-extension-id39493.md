@@ -1,3 +1,10 @@
+---
+topic_id: 39493
+title: "Units Of Beam Properties In Slicerrt Extension"
+date: 2024-10-02
+url: https://discourse.slicer.org/t/39493
+---
+
 # Units of Beam Properties in SlicerRT extension
 
 **Topic ID**: 39493

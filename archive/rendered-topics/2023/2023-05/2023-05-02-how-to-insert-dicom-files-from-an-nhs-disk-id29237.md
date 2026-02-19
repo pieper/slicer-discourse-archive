@@ -1,3 +1,10 @@
+---
+topic_id: 29237
+title: "How To Insert Dicom Files From An Nhs Disk"
+date: 2023-05-02
+url: https://discourse.slicer.org/t/29237
+---
+
 # How to insert Dicom files from an nhs disk
 
 **Topic ID**: 29237

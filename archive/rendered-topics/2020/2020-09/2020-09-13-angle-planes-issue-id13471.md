@@ -1,3 +1,10 @@
+---
+topic_id: 13471
+title: "Angle Planes Issue"
+date: 2020-09-13
+url: https://discourse.slicer.org/t/13471
+---
+
 # Angle planes issue
 
 **Topic ID**: 13471

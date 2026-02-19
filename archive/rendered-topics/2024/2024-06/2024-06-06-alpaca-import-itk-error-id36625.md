@@ -1,3 +1,10 @@
+---
+topic_id: 36625
+title: "Alpaca Import Itk Error"
+date: 2024-06-06
+url: https://discourse.slicer.org/t/36625
+---
+
 # ALPACA "import itk" error
 
 **Topic ID**: 36625

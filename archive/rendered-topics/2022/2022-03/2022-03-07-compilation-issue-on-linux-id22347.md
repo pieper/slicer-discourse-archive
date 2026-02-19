@@ -1,3 +1,10 @@
+---
+topic_id: 22347
+title: "Compilation Issue On Linux"
+date: 2022-03-07
+url: https://discourse.slicer.org/t/22347
+---
+
 # Compilation issue on Linux
 
 **Topic ID**: 22347

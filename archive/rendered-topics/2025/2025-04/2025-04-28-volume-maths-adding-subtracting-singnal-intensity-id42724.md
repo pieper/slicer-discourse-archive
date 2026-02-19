@@ -1,3 +1,10 @@
+---
+topic_id: 42724
+title: "Volume Maths Adding Subtracting Singnal Intensity"
+date: 2025-04-28
+url: https://discourse.slicer.org/t/42724
+---
+
 # Volume maths (adding, subtracting ,,, singnal intensity)
 
 **Topic ID**: 42724

@@ -1,3 +1,10 @@
+---
+topic_id: 35397
+title: "Registrationqa Extension Not Available In Slicer V 5 6 1"
+date: 2024-04-09
+url: https://discourse.slicer.org/t/35397
+---
+
 # RegistrationQA extension not available in slicer v. 5.6.1
 
 **Topic ID**: 35397

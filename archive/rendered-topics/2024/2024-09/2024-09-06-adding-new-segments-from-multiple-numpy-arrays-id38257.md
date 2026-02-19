@@ -1,3 +1,10 @@
+---
+topic_id: 38257
+title: "Adding New Segments From Multiple Numpy Arrays"
+date: 2024-09-06
+url: https://discourse.slicer.org/t/38257
+---
+
 # Adding new segments from multiple numpy arrays
 
 **Topic ID**: 38257

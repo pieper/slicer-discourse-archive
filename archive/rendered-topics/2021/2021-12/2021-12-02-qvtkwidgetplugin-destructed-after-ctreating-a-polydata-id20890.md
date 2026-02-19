@@ -1,3 +1,10 @@
+---
+topic_id: 20890
+title: "Qvtkwidgetplugin Destructed After Ctreating A Polydata"
+date: 2021-12-02
+url: https://discourse.slicer.org/t/20890
+---
+
 # QVTKWidgetPlugin destructed after ctreating a polydata
 
 **Topic ID**: 20890

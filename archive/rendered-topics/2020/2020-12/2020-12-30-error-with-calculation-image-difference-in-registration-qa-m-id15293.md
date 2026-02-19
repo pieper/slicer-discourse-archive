@@ -1,3 +1,10 @@
+---
+topic_id: 15293
+title: "Error With Calculation Image Difference In Registration Qa M"
+date: 2020-12-30
+url: https://discourse.slicer.org/t/15293
+---
+
 # Error with calculation image difference in Registration QA module using ROI
 
 **Topic ID**: 15293

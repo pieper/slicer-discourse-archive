@@ -1,3 +1,10 @@
+---
+topic_id: 14623
+title: "Airway Parameter Calculation"
+date: 2020-11-16
+url: https://discourse.slicer.org/t/14623
+---
+
 # Airway parameter calculation
 
 **Topic ID**: 14623

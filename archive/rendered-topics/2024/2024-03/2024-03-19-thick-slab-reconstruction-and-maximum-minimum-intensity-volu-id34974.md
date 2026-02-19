@@ -1,3 +1,10 @@
+---
+topic_id: 34974
+title: "Thick Slab Reconstruction And Maximum Minimum Intensity Volu"
+date: 2024-03-19
+url: https://discourse.slicer.org/t/34974
+---
+
 # Thick slab reconstruction and maximum/minimum intensity volume projections
 
 **Topic ID**: 34974

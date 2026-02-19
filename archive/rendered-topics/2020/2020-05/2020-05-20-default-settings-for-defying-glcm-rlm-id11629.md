@@ -1,3 +1,10 @@
+---
+topic_id: 11629
+title: "Default Settings For Defying Glcm Rlm"
+date: 2020-05-20
+url: https://discourse.slicer.org/t/11629
+---
+
 # Default settings for defying GLCM, RLM
 
 **Topic ID**: 11629

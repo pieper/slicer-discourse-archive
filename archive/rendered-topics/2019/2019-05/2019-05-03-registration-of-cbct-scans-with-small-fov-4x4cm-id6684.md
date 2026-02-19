@@ -1,3 +1,10 @@
+---
+topic_id: 6684
+title: "Registration Of Cbct Scans With Small Fov 4X4Cm"
+date: 2019-05-03
+url: https://discourse.slicer.org/t/6684
+---
+
 # Registration of CBCT scans with small FOV (4x4cm)
 
 **Topic ID**: 6684

@@ -1,3 +1,10 @@
+---
+topic_id: 10470
+title: "What Is The Simplest Way To Generate An Ivus 3D Model From A"
+date: 2020-02-28
+url: https://discourse.slicer.org/t/10470
+---
+
 # What is the simplest way to generate an IVUS 3D model from a set of pictures or an avi?
 
 **Topic ID**: 10470

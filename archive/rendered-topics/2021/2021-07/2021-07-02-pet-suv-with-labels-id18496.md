@@ -1,3 +1,10 @@
+---
+topic_id: 18496
+title: "Pet Suv With Labels"
+date: 2021-07-02
+url: https://discourse.slicer.org/t/18496
+---
+
 # PET SUV with labels
 
 **Topic ID**: 18496

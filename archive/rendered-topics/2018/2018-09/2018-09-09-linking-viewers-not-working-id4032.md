@@ -1,3 +1,10 @@
+---
+topic_id: 4032
+title: "Linking Viewers Not Working"
+date: 2018-09-09
+url: https://discourse.slicer.org/t/4032
+---
+
 # Linking viewers not working
 
 **Topic ID**: 4032

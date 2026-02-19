@@ -1,3 +1,10 @@
+---
+topic_id: 364
+title: "Slicer Binary Download Is Extremely Slow"
+date: 2017-05-23
+url: https://discourse.slicer.org/t/364
+---
+
 # Slicer binary download is extremely slow
 
 **Topic ID**: 364

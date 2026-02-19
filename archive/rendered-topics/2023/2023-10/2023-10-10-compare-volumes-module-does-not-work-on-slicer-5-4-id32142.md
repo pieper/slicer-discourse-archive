@@ -1,3 +1,10 @@
+---
+topic_id: 32142
+title: "Compare Volumes Module Does Not Work On Slicer 5 4"
+date: 2023-10-10
+url: https://discourse.slicer.org/t/32142
+---
+
 # Compare Volumes module does not work on Slicer-5.4
 
 **Topic ID**: 32142

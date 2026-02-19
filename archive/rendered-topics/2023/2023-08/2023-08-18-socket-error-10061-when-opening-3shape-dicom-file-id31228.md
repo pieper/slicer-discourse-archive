@@ -1,3 +1,10 @@
+---
+topic_id: 31228
+title: "Socket Error 10061 When Opening 3Shape Dicom File"
+date: 2023-08-18
+url: https://discourse.slicer.org/t/31228
+---
+
 # Socket Error #10061 when opening 3Shape DICOM file
 
 **Topic ID**: 31228

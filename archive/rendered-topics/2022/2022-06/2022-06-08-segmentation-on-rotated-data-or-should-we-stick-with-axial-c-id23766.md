@@ -1,3 +1,10 @@
+---
+topic_id: 23766
+title: "Segmentation On Rotated Data Or Should We Stick With Axial C"
+date: 2022-06-08
+url: https://discourse.slicer.org/t/23766
+---
+
 # Segmentation on Rotated Data (or should we stick with axial,coronal,saggital planes?)
 
 **Topic ID**: 23766

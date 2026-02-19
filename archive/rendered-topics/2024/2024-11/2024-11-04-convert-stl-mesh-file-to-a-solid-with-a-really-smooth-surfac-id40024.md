@@ -1,3 +1,10 @@
+---
+topic_id: 40024
+title: "Convert Stl Mesh File To A Solid With A Really Smooth Surfac"
+date: 2024-11-04
+url: https://discourse.slicer.org/t/40024
+---
+
 # Convert STL mesh file to a solid with a really smooth surface
 
 **Topic ID**: 40024

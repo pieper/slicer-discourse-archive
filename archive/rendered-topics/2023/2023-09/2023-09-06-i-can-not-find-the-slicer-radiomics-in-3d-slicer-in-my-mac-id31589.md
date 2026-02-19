@@ -1,3 +1,10 @@
+---
+topic_id: 31589
+title: "I Can Not Find The Slicer Radiomics In 3D Slicer In My Mac"
+date: 2023-09-06
+url: https://discourse.slicer.org/t/31589
+---
+
 # I can not find the "Slicer Radiomics" in 3D Slicer in my mac
 
 **Topic ID**: 31589

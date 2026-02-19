@@ -1,3 +1,10 @@
+---
+topic_id: 15796
+title: "Comparing Dose Accumulation From Tps Varian Eclipse And 3D S"
+date: 2021-02-02
+url: https://discourse.slicer.org/t/15796
+---
+
 # Comparing Dose accumulation from TPS Varian Eclipse and 3D Slicer
 
 **Topic ID**: 15796

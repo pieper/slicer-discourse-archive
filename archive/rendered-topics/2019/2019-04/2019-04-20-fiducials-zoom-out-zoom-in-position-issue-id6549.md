@@ -1,3 +1,10 @@
+---
+topic_id: 6549
+title: "Fiducials Zoom Out Zoom In Position Issue"
+date: 2019-04-20
+url: https://discourse.slicer.org/t/6549
+---
+
 # Fiducial's zoom-out zoom-in position issue
 
 **Topic ID**: 6549

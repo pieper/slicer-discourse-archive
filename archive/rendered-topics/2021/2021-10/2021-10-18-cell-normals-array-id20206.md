@@ -1,3 +1,10 @@
+---
+topic_id: 20206
+title: "Cell Normals Array"
+date: 2021-10-18
+url: https://discourse.slicer.org/t/20206
+---
+
 # Cell Normals Array
 
 **Topic ID**: 20206

@@ -1,3 +1,10 @@
+---
+topic_id: 17638
+title: "New 3D Slicer Extension For Planning And Surgical Guide Gene"
+date: 2021-05-16
+url: https://discourse.slicer.org/t/17638
+---
+
 # New 3D Slicer extension for planning and surgical guide generation for mandibular bone reconstruction
 
 **Topic ID**: 17638

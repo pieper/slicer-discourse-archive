@@ -1,3 +1,10 @@
+---
+topic_id: 34432
+title: "Tab Changed Event In Customized Tabbed View"
+date: 2024-02-20
+url: https://discourse.slicer.org/t/34432
+---
+
 # Tab changed event in customized tabbed view
 
 **Topic ID**: 34432

@@ -1,3 +1,10 @@
+---
+topic_id: 29191
+title: "Geometric Indices"
+date: 2023-04-28
+url: https://discourse.slicer.org/t/29191
+---
+
 # Geometric indices
 
 **Topic ID**: 29191

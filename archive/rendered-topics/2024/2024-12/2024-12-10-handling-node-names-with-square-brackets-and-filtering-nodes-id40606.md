@@ -1,3 +1,10 @@
+---
+topic_id: 40606
+title: "Handling Node Names With Square Brackets And Filtering Nodes"
+date: 2024-12-10
+url: https://discourse.slicer.org/t/40606
+---
+
 # Handling Node Names with Square Brackets and Filtering Nodes of RTDose Type Exported from TPS in 3DSlicer
 
 **Topic ID**: 40606

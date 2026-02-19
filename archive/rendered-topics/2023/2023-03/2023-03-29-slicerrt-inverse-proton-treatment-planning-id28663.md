@@ -1,3 +1,10 @@
+---
+topic_id: 28663
+title: "Slicerrt Inverse Proton Treatment Planning"
+date: 2023-03-29
+url: https://discourse.slicer.org/t/28663
+---
+
 # SlicerRt inverse proton treatment planning
 
 **Topic ID**: 28663

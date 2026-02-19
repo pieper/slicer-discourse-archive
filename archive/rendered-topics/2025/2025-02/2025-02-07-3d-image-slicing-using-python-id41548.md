@@ -1,3 +1,10 @@
+---
+topic_id: 41548
+title: "3D Image Slicing Using Python"
+date: 2025-02-07
+url: https://discourse.slicer.org/t/41548
+---
+
 # 3D image slicing using python
 
 **Topic ID**: 41548

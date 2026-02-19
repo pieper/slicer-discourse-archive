@@ -1,3 +1,10 @@
+---
+topic_id: 29920
+title: "The Shape Will Be Changed When I Turn An Array To Volume"
+date: 2023-06-08
+url: https://discourse.slicer.org/t/29920
+---
+
 # The shape will be changed when I turn an array to volume
 
 **Topic ID**: 29920

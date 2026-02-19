@@ -1,3 +1,10 @@
+---
+topic_id: 15518
+title: "Make Slicers Perpendicular To Other"
+date: 2021-01-14
+url: https://discourse.slicer.org/t/15518
+---
+
 # Make Slicers perpendicular to other
 
 **Topic ID**: 15518

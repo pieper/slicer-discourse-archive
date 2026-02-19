@@ -1,3 +1,10 @@
+---
+topic_id: 44142
+title: "Potential Jax Based Physics For Real Time Simulation In Slic"
+date: 2025-08-20
+url: https://discourse.slicer.org/t/44142
+---
+
 # Potential JAX-based physics for real-time simulation in Slicer?
 
 **Topic ID**: 44142

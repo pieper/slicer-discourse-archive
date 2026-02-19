@@ -1,3 +1,10 @@
+---
+topic_id: 9304
+title: "Different Size Image Registration"
+date: 2019-11-26
+url: https://discourse.slicer.org/t/9304
+---
+
 # Different size image registration
 
 **Topic ID**: 9304

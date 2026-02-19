@@ -1,3 +1,10 @@
+---
+topic_id: 39879
+title: "Stl File Profile"
+date: 2024-10-27
+url: https://discourse.slicer.org/t/39879
+---
+
 # Stl file profile?
 
 **Topic ID**: 39879

@@ -1,3 +1,10 @@
+---
+topic_id: 966
+title: "Dcmqi Extension New Linking Error"
+date: 2017-08-29
+url: https://discourse.slicer.org/t/966
+---
+
 # DCMQI extension: New linking error
 
 **Topic ID**: 966

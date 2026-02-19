@@ -1,3 +1,10 @@
+---
+topic_id: 1083
+title: "Transfering Calibration Data To 3Dslicer"
+date: 2017-09-19
+url: https://discourse.slicer.org/t/1083
+---
+
 # Transfering calibration data to 3DSlicer
 
 **Topic ID**: 1083

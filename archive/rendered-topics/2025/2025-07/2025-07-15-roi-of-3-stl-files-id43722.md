@@ -1,3 +1,10 @@
+---
+topic_id: 43722
+title: "Roi Of 3 Stl Files"
+date: 2025-07-15
+url: https://discourse.slicer.org/t/43722
+---
+
 # ROI of 3 stl files
 
 **Topic ID**: 43722

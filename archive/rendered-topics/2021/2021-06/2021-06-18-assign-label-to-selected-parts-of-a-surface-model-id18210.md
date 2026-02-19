@@ -1,3 +1,10 @@
+---
+topic_id: 18210
+title: "Assign Label To Selected Parts Of A Surface Model"
+date: 2021-06-18
+url: https://discourse.slicer.org/t/18210
+---
+
 # Assign label to selected parts of a surface model
 
 **Topic ID**: 18210

@@ -1,3 +1,10 @@
+---
+topic_id: 4546
+title: "Generating Surface Model From Volume Model In 3Dslicer"
+date: 2018-10-26
+url: https://discourse.slicer.org/t/4546
+---
+
 # Generating Surface model from volume model in 3DSlicer
 
 **Topic ID**: 4546

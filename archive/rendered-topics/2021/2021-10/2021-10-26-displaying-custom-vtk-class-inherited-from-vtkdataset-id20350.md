@@ -1,3 +1,10 @@
+---
+topic_id: 20350
+title: "Displaying Custom Vtk Class Inherited From Vtkdataset"
+date: 2021-10-26
+url: https://discourse.slicer.org/t/20350
+---
+
 # Displaying custom VTK class inherited from `vtkDataSet`
 
 **Topic ID**: 20350

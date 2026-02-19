@@ -1,3 +1,10 @@
+---
+topic_id: 16353
+title: "Updating An Extension Using The Python Console"
+date: 2021-03-04
+url: https://discourse.slicer.org/t/16353
+---
+
 # Updating an extension using the python console
 
 **Topic ID**: 16353

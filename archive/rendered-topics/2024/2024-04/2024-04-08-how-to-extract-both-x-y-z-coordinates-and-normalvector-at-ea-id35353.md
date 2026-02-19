@@ -1,3 +1,10 @@
+---
+topic_id: 35353
+title: "How To Extract Both X Y Z Coordinates And Normalvector At Ea"
+date: 2024-04-08
+url: https://discourse.slicer.org/t/35353
+---
+
 # How to extract both x-, y-, z-coordinates and normalvector at each point of centerline of airwaysegmentation
 
 **Topic ID**: 35353

@@ -1,3 +1,10 @@
+---
+topic_id: 19960
+title: "Unable To Compile Latest Slicer Sources Windows"
+date: 2021-10-01
+url: https://discourse.slicer.org/t/19960
+---
+
 # Unable to compile latest Slicer sources (Windows)
 
 **Topic ID**: 19960

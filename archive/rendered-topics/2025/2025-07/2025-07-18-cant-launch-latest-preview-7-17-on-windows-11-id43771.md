@@ -1,3 +1,10 @@
+---
+topic_id: 43771
+title: "Cant Launch Latest Preview 7 17 On Windows 11"
+date: 2025-07-18
+url: https://discourse.slicer.org/t/43771
+---
+
 # Can't launch latest preview (7/17) on Windows 11
 
 **Topic ID**: 43771

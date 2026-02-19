@@ -1,3 +1,10 @@
+---
+topic_id: 25852
+title: "Vtkmrmlsubjecthierarchynode Causes Slicer To Crash During Su"
+date: 2022-10-23
+url: https://discourse.slicer.org/t/25852
+---
+
 # vtkMRMLSubjectHierarchyNode causes Slicer to crash during surgical plan
 
 **Topic ID**: 25852

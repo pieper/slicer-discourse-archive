@@ -1,3 +1,10 @@
+---
+topic_id: 22482
+title: "What Is The Best Way To Visualize Detector Curvature In Case"
+date: 2022-03-13
+url: https://discourse.slicer.org/t/22482
+---
+
 # What is the best way to visualize detector curvature in case of forward projection calculation?
 
 **Topic ID**: 22482

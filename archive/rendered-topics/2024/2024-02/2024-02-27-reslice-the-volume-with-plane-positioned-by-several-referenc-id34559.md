@@ -1,3 +1,10 @@
+---
+topic_id: 34559
+title: "Reslice The Volume With Plane Positioned By Several Referenc"
+date: 2024-02-27
+url: https://discourse.slicer.org/t/34559
+---
+
 # Reslice the volume with plane positioned by several reference points
 
 **Topic ID**: 34559

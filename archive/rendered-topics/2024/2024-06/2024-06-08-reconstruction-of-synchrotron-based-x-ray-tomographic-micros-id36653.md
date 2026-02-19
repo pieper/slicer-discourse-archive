@@ -1,3 +1,10 @@
+---
+topic_id: 36653
+title: "Reconstruction Of Synchrotron Based X Ray Tomographic Micros"
+date: 2024-06-08
+url: https://discourse.slicer.org/t/36653
+---
+
 # Reconstruction of synchrotron-based X-ray tomographic microscopy (SRXTM) images
 
 **Topic ID**: 36653

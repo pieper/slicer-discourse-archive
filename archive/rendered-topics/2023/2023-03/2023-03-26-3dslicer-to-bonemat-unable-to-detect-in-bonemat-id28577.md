@@ -1,3 +1,10 @@
+---
+topic_id: 28577
+title: "3Dslicer To Bonemat Unable To Detect In Bonemat"
+date: 2023-03-26
+url: https://discourse.slicer.org/t/28577
+---
+
 # 3DSlicer to Bonemat, unable to detect in Bonemat
 
 **Topic ID**: 28577

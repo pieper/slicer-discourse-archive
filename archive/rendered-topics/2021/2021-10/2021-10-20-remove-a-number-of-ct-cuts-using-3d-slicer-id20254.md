@@ -1,3 +1,10 @@
+---
+topic_id: 20254
+title: "Remove A Number Of Ct Cuts Using 3D Slicer"
+date: 2021-10-20
+url: https://discourse.slicer.org/t/20254
+---
+
 # Remove a number of CT cuts using 3D Slicer
 
 **Topic ID**: 20254

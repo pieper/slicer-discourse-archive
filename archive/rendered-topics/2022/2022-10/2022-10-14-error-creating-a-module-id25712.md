@@ -1,3 +1,10 @@
+---
+topic_id: 25712
+title: "Error Creating A Module"
+date: 2022-10-14
+url: https://discourse.slicer.org/t/25712
+---
+
 # Error creating a module
 
 **Topic ID**: 25712

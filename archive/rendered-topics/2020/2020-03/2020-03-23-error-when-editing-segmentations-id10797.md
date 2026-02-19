@@ -1,3 +1,10 @@
+---
+topic_id: 10797
+title: "Error When Editing Segmentations"
+date: 2020-03-23
+url: https://discourse.slicer.org/t/10797
+---
+
 # Error when editing segmentations
 
 **Topic ID**: 10797

@@ -1,3 +1,10 @@
+---
+topic_id: 305
+title: "Swiss Skull Stripper Troubles Invoking From Python Console"
+date: 2017-05-13
+url: https://discourse.slicer.org/t/305
+---
+
 # Swiss Skull Stripper: troubles invoking from python console
 
 **Topic ID**: 305

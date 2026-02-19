@@ -1,3 +1,10 @@
+---
+topic_id: 39811
+title: "Cant Install Segment Editor Extra Effects Or Its Update"
+date: 2024-10-23
+url: https://discourse.slicer.org/t/39811
+---
+
 # Can't install Segment Editor Extra Effects (or its update?)
 
 **Topic ID**: 39811

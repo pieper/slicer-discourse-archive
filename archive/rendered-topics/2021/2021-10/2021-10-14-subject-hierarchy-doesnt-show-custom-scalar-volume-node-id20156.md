@@ -1,3 +1,10 @@
+---
+topic_id: 20156
+title: "Subject Hierarchy Doesnt Show Custom Scalar Volume Node"
+date: 2021-10-14
+url: https://discourse.slicer.org/t/20156
+---
+
 # Subject hierarchy doesn't show custom scalar volume node
 
 **Topic ID**: 20156

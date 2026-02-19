@@ -1,3 +1,10 @@
+---
+topic_id: 1779
+title: "Do We Need To Create An Isotropic Image In Radiomics Study"
+date: 2018-01-08
+url: https://discourse.slicer.org/t/1779
+---
+
 # Do we need to create an isotropic image in radiomics study?
 
 **Topic ID**: 1779

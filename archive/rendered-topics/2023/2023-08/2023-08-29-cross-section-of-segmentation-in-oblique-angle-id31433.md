@@ -1,3 +1,10 @@
+---
+topic_id: 31433
+title: "Cross Section Of Segmentation In Oblique Angle"
+date: 2023-08-29
+url: https://discourse.slicer.org/t/31433
+---
+
 # Cross section of segmentation in oblique angle
 
 **Topic ID**: 31433

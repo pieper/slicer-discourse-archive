@@ -1,3 +1,10 @@
+---
+topic_id: 32710
+title: "How To Convert 4D Fmri Images To A Series Of 3D Images"
+date: 2023-11-10
+url: https://discourse.slicer.org/t/32710
+---
+
 # How to convert 4D fMRI images to a series of 3D images?
 
 **Topic ID**: 32710

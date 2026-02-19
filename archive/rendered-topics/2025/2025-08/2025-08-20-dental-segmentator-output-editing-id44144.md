@@ -1,3 +1,10 @@
+---
+topic_id: 44144
+title: "Dental Segmentator Output Editing"
+date: 2025-08-20
+url: https://discourse.slicer.org/t/44144
+---
+
 # Dental segmentator output editing
 
 **Topic ID**: 44144

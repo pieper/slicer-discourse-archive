@@ -1,3 +1,10 @@
+---
+topic_id: 27119
+title: "Origin Of Nii File And Stl File"
+date: 2023-01-09
+url: https://discourse.slicer.org/t/27119
+---
+
 # Origin of nii file and STL file
 
 **Topic ID**: 27119

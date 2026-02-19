@@ -1,3 +1,10 @@
+---
+topic_id: 15646
+title: "Add Label Tag In 3D View"
+date: 2021-01-25
+url: https://discourse.slicer.org/t/15646
+---
+
 # Add label tag in 3D view
 
 **Topic ID**: 15646

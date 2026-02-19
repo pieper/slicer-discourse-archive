@@ -1,3 +1,10 @@
+---
+topic_id: 32976
+title: "Slicercat As Web Service"
+date: 2023-11-23
+url: https://discourse.slicer.org/t/32976
+---
+
 # SlicerCAT as web service
 
 **Topic ID**: 32976

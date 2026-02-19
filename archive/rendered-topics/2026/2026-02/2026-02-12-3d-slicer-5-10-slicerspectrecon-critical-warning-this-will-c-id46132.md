@@ -1,3 +1,10 @@
+---
+topic_id: 46132
+title: "3D Slicer 5 10 Slicerspectrecon Critical Warning This Will C"
+date: 2026-02-12
+url: https://discourse.slicer.org/t/46132
+---
+
 # 3D slicer 5.10 SlicerSPECTRecon Critical warning: this will cause errors after 2025-11-30
 
 **Topic ID**: 46132

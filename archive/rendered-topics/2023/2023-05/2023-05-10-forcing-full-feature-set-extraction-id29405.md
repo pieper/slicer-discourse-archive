@@ -1,3 +1,10 @@
+---
+topic_id: 29405
+title: "Forcing Full Feature Set Extraction"
+date: 2023-05-10
+url: https://discourse.slicer.org/t/29405
+---
+
 # Forcing full feature set extraction
 
 **Topic ID**: 29405

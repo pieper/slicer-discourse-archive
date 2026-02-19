@@ -1,3 +1,10 @@
+---
+topic_id: 19335
+title: "Slicer3D Compilation On Ubuntu 20 04 Lts"
+date: 2021-08-24
+url: https://discourse.slicer.org/t/19335
+---
+
 # Slicer3d compilation on Ubuntu 20.04 lts
 
 **Topic ID**: 19335

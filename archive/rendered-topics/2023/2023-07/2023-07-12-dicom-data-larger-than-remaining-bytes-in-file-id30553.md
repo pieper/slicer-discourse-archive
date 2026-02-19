@@ -1,3 +1,10 @@
+---
+topic_id: 30553
+title: "Dicom Data Larger Than Remaining Bytes In File"
+date: 2023-07-12
+url: https://discourse.slicer.org/t/30553
+---
+
 # DICOM data larger than remaining bytes in file
 
 **Topic ID**: 30553

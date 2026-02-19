@@ -1,3 +1,10 @@
+---
+topic_id: 11412
+title: "Change Size Of Pictures With Slicerfab"
+date: 2020-05-05
+url: https://discourse.slicer.org/t/11412
+---
+
 # Change size of pictures with SlicerFab
 
 **Topic ID**: 11412

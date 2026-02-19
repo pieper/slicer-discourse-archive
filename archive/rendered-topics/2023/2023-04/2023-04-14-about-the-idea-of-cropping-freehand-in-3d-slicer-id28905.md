@@ -1,3 +1,10 @@
+---
+topic_id: 28905
+title: "About The Idea Of Cropping Freehand In 3D Slicer"
+date: 2023-04-14
+url: https://discourse.slicer.org/t/28905
+---
+
 # About the idea of cropping freehand in 3D Slicer
 
 **Topic ID**: 28905

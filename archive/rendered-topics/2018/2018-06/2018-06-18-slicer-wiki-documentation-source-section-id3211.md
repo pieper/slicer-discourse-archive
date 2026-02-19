@@ -1,3 +1,10 @@
+---
+topic_id: 3211
+title: "Slicer Wiki Documentation Source Section"
+date: 2018-06-18
+url: https://discourse.slicer.org/t/3211
+---
+
 # Slicer wiki documentation source section
 
 **Topic ID**: 3211

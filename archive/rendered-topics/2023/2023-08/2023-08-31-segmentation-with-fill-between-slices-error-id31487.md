@@ -1,3 +1,10 @@
+---
+topic_id: 31487
+title: "Segmentation With Fill Between Slices Error"
+date: 2023-08-31
+url: https://discourse.slicer.org/t/31487
+---
+
 # Segmentation With "fill between slices" Error
 
 **Topic ID**: 31487

@@ -1,3 +1,10 @@
+---
+topic_id: 14819
+title: "Set Color Cut Offs For Volume"
+date: 2020-11-30
+url: https://discourse.slicer.org/t/14819
+---
+
 # Set color cut-offs for volume
 
 **Topic ID**: 14819

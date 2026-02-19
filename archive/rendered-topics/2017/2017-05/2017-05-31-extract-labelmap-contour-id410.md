@@ -1,3 +1,10 @@
+---
+topic_id: 410
+title: "Extract Labelmap Contour"
+date: 2017-05-31
+url: https://discourse.slicer.org/t/410
+---
+
 # Extract labelmap contour
 
 **Topic ID**: 410

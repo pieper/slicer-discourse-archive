@@ -1,3 +1,10 @@
+---
+topic_id: 28556
+title: "Maxilla Segmentation Ai Driven"
+date: 2023-03-24
+url: https://discourse.slicer.org/t/28556
+---
+
 # Maxilla segmentation - Ai driven?
 
 **Topic ID**: 28556

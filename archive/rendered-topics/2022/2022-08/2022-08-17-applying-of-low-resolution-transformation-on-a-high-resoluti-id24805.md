@@ -1,3 +1,10 @@
+---
+topic_id: 24805
+title: "Applying Of Low Resolution Transformation On A High Resoluti"
+date: 2022-08-17
+url: https://discourse.slicer.org/t/24805
+---
+
 # Applying of low resolution transformation on a high resolution dataset
 
 **Topic ID**: 24805

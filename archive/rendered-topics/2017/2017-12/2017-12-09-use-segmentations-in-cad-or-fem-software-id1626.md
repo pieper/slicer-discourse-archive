@@ -1,3 +1,10 @@
+---
+topic_id: 1626
+title: "Use Segmentations In Cad Or Fem Software"
+date: 2017-12-09
+url: https://discourse.slicer.org/t/1626
+---
+
 # Use segmentations in CAD or FEM software
 
 **Topic ID**: 1626

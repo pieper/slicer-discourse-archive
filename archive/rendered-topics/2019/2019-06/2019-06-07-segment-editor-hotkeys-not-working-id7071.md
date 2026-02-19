@@ -1,3 +1,10 @@
+---
+topic_id: 7071
+title: "Segment Editor Hotkeys Not Working"
+date: 2019-06-07
+url: https://discourse.slicer.org/t/7071
+---
+
 # Segment editor Hotkeys Not working
 
 **Topic ID**: 7071

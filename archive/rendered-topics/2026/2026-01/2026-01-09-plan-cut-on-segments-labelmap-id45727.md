@@ -1,3 +1,10 @@
+---
+topic_id: 45727
+title: "Plan Cut On Segments Labelmap"
+date: 2026-01-09
+url: https://discourse.slicer.org/t/45727
+---
+
 # Plan-Cut on segment's labelmap
 
 **Topic ID**: 45727

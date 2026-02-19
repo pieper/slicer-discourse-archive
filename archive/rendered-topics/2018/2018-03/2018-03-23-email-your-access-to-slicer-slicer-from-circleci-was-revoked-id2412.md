@@ -1,3 +1,10 @@
+---
+topic_id: 2412
+title: "Email Your Access To Slicer Slicer From Circleci Was Revoked"
+date: 2018-03-23
+url: https://discourse.slicer.org/t/2412
+---
+
 # Email: Your access to Slicer/Slicer from CircleCI was revoked by GitHub
 
 **Topic ID**: 2412

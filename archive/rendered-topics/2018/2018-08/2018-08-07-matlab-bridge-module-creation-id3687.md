@@ -1,3 +1,10 @@
+---
+topic_id: 3687
+title: "Matlab Bridge Module Creation"
+date: 2018-08-07
+url: https://discourse.slicer.org/t/3687
+---
+
 # Matlab Bridge Module Creation
 
 **Topic ID**: 3687

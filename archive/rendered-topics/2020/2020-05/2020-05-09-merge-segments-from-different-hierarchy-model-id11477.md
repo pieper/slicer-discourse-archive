@@ -1,3 +1,10 @@
+---
+topic_id: 11477
+title: "Merge Segments From Different Hierarchy Model"
+date: 2020-05-09
+url: https://discourse.slicer.org/t/11477
+---
+
 # Merge segments from different Hierarchy model
 
 **Topic ID**: 11477

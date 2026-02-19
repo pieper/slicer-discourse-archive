@@ -1,3 +1,10 @@
+---
+topic_id: 20949
+title: "How Does 3D Slicer Load Png Sequence And Export Mha Data"
+date: 2021-12-07
+url: https://discourse.slicer.org/t/20949
+---
+
 # How does 3D Slicer load png sequence and export mha data
 
 **Topic ID**: 20949

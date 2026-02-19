@@ -1,3 +1,10 @@
+---
+topic_id: 36190
+title: "Dicom Query Error In Latest Build Of 5 7"
+date: 2024-05-16
+url: https://discourse.slicer.org/t/36190
+---
+
 # DICOM query error in latest build of 5.7
 
 **Topic ID**: 36190

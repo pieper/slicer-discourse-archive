@@ -1,3 +1,10 @@
+---
+topic_id: 34923
+title: "Problem With Segmentation Unet"
+date: 2024-03-16
+url: https://discourse.slicer.org/t/34923
+---
+
 # Problem with Segmentation UNet
 
 **Topic ID**: 34923

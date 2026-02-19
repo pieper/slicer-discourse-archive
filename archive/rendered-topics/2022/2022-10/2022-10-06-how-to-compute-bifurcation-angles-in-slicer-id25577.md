@@ -1,3 +1,10 @@
+---
+topic_id: 25577
+title: "How To Compute Bifurcation Angles In Slicer"
+date: 2022-10-06
+url: https://discourse.slicer.org/t/25577
+---
+
 # How to compute bifurcation angles in Slicer?
 
 **Topic ID**: 25577

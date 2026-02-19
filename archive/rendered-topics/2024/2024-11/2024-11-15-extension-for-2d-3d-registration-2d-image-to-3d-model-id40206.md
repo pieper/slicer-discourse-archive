@@ -1,3 +1,10 @@
+---
+topic_id: 40206
+title: "Extension For 2D 3D Registration 2D Image To 3D Model"
+date: 2024-11-15
+url: https://discourse.slicer.org/t/40206
+---
+
 # Extension for 2D-3D registration (2D image to 3D model)
 
 **Topic ID**: 40206

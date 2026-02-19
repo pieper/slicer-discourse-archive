@@ -1,3 +1,10 @@
+---
+topic_id: 10567
+title: "Create Color Mask In Dicom Volumen And Save This Change"
+date: 2020-03-05
+url: https://discourse.slicer.org/t/10567
+---
+
 # create color mask in dicom volumen and save this change.
 
 **Topic ID**: 10567

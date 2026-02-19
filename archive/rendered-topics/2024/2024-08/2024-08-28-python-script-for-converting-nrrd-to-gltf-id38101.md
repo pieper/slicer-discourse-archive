@@ -1,3 +1,10 @@
+---
+topic_id: 38101
+title: "Python Script For Converting Nrrd To Gltf"
+date: 2024-08-28
+url: https://discourse.slicer.org/t/38101
+---
+
 # Python script for converting nrrd to gltf
 
 **Topic ID**: 38101

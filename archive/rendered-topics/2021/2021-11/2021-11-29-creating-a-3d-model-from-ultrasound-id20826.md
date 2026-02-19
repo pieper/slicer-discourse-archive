@@ -1,3 +1,10 @@
+---
+topic_id: 20826
+title: "Creating A 3D Model From Ultrasound"
+date: 2021-11-29
+url: https://discourse.slicer.org/t/20826
+---
+
 # Creating a 3D model from Ultrasound
 
 **Topic ID**: 20826

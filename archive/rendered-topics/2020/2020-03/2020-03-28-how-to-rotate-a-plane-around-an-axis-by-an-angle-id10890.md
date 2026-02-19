@@ -1,3 +1,10 @@
+---
+topic_id: 10890
+title: "How To Rotate A Plane Around An Axis By An Angle"
+date: 2020-03-28
+url: https://discourse.slicer.org/t/10890
+---
+
 # How to rotate a plane around an axis by an angle
 
 **Topic ID**: 10890

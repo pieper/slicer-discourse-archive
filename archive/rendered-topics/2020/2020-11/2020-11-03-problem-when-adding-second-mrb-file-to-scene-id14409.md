@@ -1,3 +1,10 @@
+---
+topic_id: 14409
+title: "Problem When Adding Second Mrb File To Scene"
+date: 2020-11-03
+url: https://discourse.slicer.org/t/14409
+---
+
 # Problem when adding second mrb file to scene
 
 **Topic ID**: 14409

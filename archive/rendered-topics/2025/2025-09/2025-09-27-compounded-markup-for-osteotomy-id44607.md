@@ -1,3 +1,10 @@
+---
+topic_id: 44607
+title: "Compounded Markup For Osteotomy"
+date: 2025-09-27
+url: https://discourse.slicer.org/t/44607
+---
+
 # Compounded Markup for osteotomy
 
 **Topic ID**: 44607

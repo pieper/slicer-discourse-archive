@@ -1,3 +1,10 @@
+---
+topic_id: 22955
+title: "3D Model Showing Up As A Line"
+date: 2022-04-14
+url: https://discourse.slicer.org/t/22955
+---
+
 # 3D model showing up as a line?
 
 **Topic ID**: 22955

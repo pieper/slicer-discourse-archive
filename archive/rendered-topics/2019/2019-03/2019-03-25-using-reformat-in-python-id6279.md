@@ -1,3 +1,10 @@
+---
+topic_id: 6279
+title: "Using Reformat In Python"
+date: 2019-03-25
+url: https://discourse.slicer.org/t/6279
+---
+
 # Using Reformat in python
 
 **Topic ID**: 6279

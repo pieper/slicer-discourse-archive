@@ -1,3 +1,10 @@
+---
+topic_id: 43747
+title: "Variations In Volume Segment Endocranium Utility In Slicermo"
+date: 2025-07-16
+url: https://discourse.slicer.org/t/43747
+---
+
 # Variations in Volume: Segment Endocranium Utility in Slicermorph
 
 **Topic ID**: 43747

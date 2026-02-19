@@ -1,3 +1,10 @@
+---
+topic_id: 23432
+title: "Extensions Not Showing Anything"
+date: 2022-05-14
+url: https://discourse.slicer.org/t/23432
+---
+
 # Extensions not showing anything
 
 **Topic ID**: 23432

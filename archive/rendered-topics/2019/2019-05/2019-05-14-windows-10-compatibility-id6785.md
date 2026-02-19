@@ -1,3 +1,10 @@
+---
+topic_id: 6785
+title: "Windows 10 Compatibility"
+date: 2019-05-14
+url: https://discourse.slicer.org/t/6785
+---
+
 # Windows 10 compatibility
 
 **Topic ID**: 6785

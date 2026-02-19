@@ -1,3 +1,10 @@
+---
+topic_id: 4830
+title: "Mri Intensity Normalization"
+date: 2018-11-21
+url: https://discourse.slicer.org/t/4830
+---
+
 # MRI intensity normalization
 
 **Topic ID**: 4830

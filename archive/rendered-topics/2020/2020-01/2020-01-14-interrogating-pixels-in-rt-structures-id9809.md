@@ -1,3 +1,10 @@
+---
+topic_id: 9809
+title: "Interrogating Pixels In Rt Structures"
+date: 2020-01-14
+url: https://discourse.slicer.org/t/9809
+---
+
 # interrogating pixels in RT structures
 
 **Topic ID**: 9809

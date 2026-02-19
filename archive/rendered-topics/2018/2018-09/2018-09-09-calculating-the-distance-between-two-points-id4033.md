@@ -1,3 +1,10 @@
+---
+topic_id: 4033
+title: "Calculating The Distance Between Two Points"
+date: 2018-09-09
+url: https://discourse.slicer.org/t/4033
+---
+
 # Calculating the distance between two points
 
 **Topic ID**: 4033

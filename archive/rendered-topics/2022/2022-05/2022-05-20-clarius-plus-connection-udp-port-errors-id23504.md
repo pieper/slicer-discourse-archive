@@ -1,3 +1,10 @@
+---
+topic_id: 23504
+title: "Clarius Plus Connection Udp Port Errors"
+date: 2022-05-20
+url: https://discourse.slicer.org/t/23504
+---
+
 # Clarius Plus Connection udp Port Errors
 
 **Topic ID**: 23504

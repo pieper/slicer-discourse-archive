@@ -1,3 +1,10 @@
+---
+topic_id: 13291
+title: "Impossibility To Test For Coverage In Extensions"
+date: 2020-09-02
+url: https://discourse.slicer.org/t/13291
+---
+
 # Impossibility to test for coverage in extensions
 
 **Topic ID**: 13291

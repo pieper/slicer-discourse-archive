@@ -1,3 +1,10 @@
+---
+topic_id: 10769
+title: "Errors Importing Ct Files Made With Ge Lightspeed Qxi 4"
+date: 2020-03-21
+url: https://discourse.slicer.org/t/10769
+---
+
 # Errors Importing CT files made with GE LightSpeed QXI 4
 
 **Topic ID**: 10769

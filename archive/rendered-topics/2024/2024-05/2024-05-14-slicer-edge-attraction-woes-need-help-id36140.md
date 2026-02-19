@@ -1,3 +1,10 @@
+---
+topic_id: 36140
+title: "Slicer Edge Attraction Woes Need Help"
+date: 2024-05-14
+url: https://discourse.slicer.org/t/36140
+---
+
 #  Slicer Edge Attraction Woes - Need Help!
 
 **Topic ID**: 36140

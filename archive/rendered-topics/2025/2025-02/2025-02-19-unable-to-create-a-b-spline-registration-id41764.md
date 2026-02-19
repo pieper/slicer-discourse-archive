@@ -1,3 +1,10 @@
+---
+topic_id: 41764
+title: "Unable To Create A B Spline Registration"
+date: 2025-02-19
+url: https://discourse.slicer.org/t/41764
+---
+
 # Unable to create a B-Spline Registration
 
 **Topic ID**: 41764

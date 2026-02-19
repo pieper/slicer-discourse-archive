@@ -1,3 +1,10 @@
+---
+topic_id: 39914
+title: "Can I Speed Up Alpaca"
+date: 2024-10-29
+url: https://discourse.slicer.org/t/39914
+---
+
 # Can I speed up ALPACA?
 
 **Topic ID**: 39914

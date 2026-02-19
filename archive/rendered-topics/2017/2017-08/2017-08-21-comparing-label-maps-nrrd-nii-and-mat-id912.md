@@ -1,3 +1,10 @@
+---
+topic_id: 912
+title: "Comparing Label Maps Nrrd Nii And Mat"
+date: 2017-08-21
+url: https://discourse.slicer.org/t/912
+---
+
 # Comparing Label maps: nrrd, nii and .mat
 
 **Topic ID**: 912

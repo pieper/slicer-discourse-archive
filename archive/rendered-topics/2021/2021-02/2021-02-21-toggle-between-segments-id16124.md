@@ -1,3 +1,10 @@
+---
+topic_id: 16124
+title: "Toggle Between Segments"
+date: 2021-02-21
+url: https://discourse.slicer.org/t/16124
+---
+
 # toggle between segments 
 
 **Topic ID**: 16124

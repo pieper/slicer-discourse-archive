@@ -1,3 +1,10 @@
+---
+topic_id: 24951
+title: "How To Link Link A Markup Point List To Be A Sequence In One"
+date: 2022-08-27
+url: https://discourse.slicer.org/t/24951
+---
+
 # How to link link a MarkUp point list to be a sequence in one SequenceBrowser using python script?
 
 **Topic ID**: 24951

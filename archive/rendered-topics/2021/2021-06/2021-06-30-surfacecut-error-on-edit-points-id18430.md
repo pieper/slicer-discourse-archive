@@ -1,3 +1,10 @@
+---
+topic_id: 18430
+title: "Surfacecut Error On Edit Points"
+date: 2021-06-30
+url: https://discourse.slicer.org/t/18430
+---
+
 # SurfaceCut : error on edit points
 
 **Topic ID**: 18430

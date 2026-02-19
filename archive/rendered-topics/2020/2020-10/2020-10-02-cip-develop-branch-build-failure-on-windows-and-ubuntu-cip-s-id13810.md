@@ -1,3 +1,10 @@
+---
+topic_id: 13810
+title: "Cip Develop Branch Build Failure On Windows And Ubuntu Cip S"
+date: 2020-10-02
+url: https://discourse.slicer.org/t/13810
+---
+
 # CIP develop branch build failure on windows and ubuntu(CIP, slicer)
 
 **Topic ID**: 13810

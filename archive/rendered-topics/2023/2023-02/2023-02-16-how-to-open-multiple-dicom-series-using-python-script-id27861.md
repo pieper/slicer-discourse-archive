@@ -1,3 +1,10 @@
+---
+topic_id: 27861
+title: "How To Open Multiple Dicom Series Using Python Script"
+date: 2023-02-16
+url: https://discourse.slicer.org/t/27861
+---
+
 # How to open multiple DICOM series using python script
 
 **Topic ID**: 27861

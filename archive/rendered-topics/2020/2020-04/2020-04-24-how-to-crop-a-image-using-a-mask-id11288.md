@@ -1,3 +1,10 @@
+---
+topic_id: 11288
+title: "How To Crop A Image Using A Mask"
+date: 2020-04-24
+url: https://discourse.slicer.org/t/11288
+---
+
 # how to crop a  image using a mask
 
 **Topic ID**: 11288

@@ -1,3 +1,10 @@
+---
+topic_id: 14299
+title: "Setting Up The Segmentation Volume For Extract Centerline Mo"
+date: 2020-10-29
+url: https://discourse.slicer.org/t/14299
+---
+
 # Setting up the segmentation volume for extract centerline module
 
 **Topic ID**: 14299

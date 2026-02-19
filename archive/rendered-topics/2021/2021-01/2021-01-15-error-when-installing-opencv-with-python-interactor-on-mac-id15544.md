@@ -1,3 +1,10 @@
+---
+topic_id: 15544
+title: "Error When Installing Opencv With Python Interactor On Mac"
+date: 2021-01-15
+url: https://discourse.slicer.org/t/15544
+---
+
 # Error when installing opencv with Python Interactor on mac
 
 **Topic ID**: 15544

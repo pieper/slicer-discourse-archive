@@ -1,3 +1,10 @@
+---
+topic_id: 18097
+title: "Memory Management When Segmenting"
+date: 2021-06-12
+url: https://discourse.slicer.org/t/18097
+---
+
 # Memory management when segmenting
 
 **Topic ID**: 18097

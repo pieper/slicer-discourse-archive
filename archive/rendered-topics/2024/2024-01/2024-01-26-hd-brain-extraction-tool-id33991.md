@@ -1,3 +1,10 @@
+---
+topic_id: 33991
+title: "Hd Brain Extraction Tool"
+date: 2024-01-26
+url: https://discourse.slicer.org/t/33991
+---
+
 # HD Brain Extraction Tool
 
 **Topic ID**: 33991

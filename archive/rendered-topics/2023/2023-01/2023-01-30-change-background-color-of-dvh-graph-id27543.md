@@ -1,3 +1,10 @@
+---
+topic_id: 27543
+title: "Change Background Color Of Dvh Graph"
+date: 2023-01-30
+url: https://discourse.slicer.org/t/27543
+---
+
 # Change background color of DVH graph
 
 **Topic ID**: 27543

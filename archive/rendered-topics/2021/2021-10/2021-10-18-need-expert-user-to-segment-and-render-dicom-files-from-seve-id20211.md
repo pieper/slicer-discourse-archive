@@ -1,3 +1,10 @@
+---
+topic_id: 20211
+title: "Need Expert User To Segment And Render Dicom Files From Seve"
+date: 2021-10-18
+url: https://discourse.slicer.org/t/20211
+---
+
 # Need Expert User to Segment and Render DICOM Files From Several CTs and MRIs of My Head - Will Pay
 
 **Topic ID**: 20211

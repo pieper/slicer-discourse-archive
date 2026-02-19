@@ -1,3 +1,10 @@
+---
+topic_id: 14103
+title: "Make Segmentation Labelmap From Markupsclosedcurve"
+date: 2020-10-17
+url: https://discourse.slicer.org/t/14103
+---
+
 # make segmentation labelmap from markupsclosedcurve
 
 **Topic ID**: 14103

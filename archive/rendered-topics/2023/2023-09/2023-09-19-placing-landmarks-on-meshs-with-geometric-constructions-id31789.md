@@ -1,3 +1,10 @@
+---
+topic_id: 31789
+title: "Placing Landmarks On Meshs With Geometric Constructions"
+date: 2023-09-19
+url: https://discourse.slicer.org/t/31789
+---
+
 # Placing landmarks on meshs with geometric constructions
 
 **Topic ID**: 31789

@@ -1,3 +1,10 @@
+---
+topic_id: 24163
+title: "Possible Malfunction With Slicer Kernel For Jupyter Notebook"
+date: 2022-07-03
+url: https://discourse.slicer.org/t/24163
+---
+
 # Possible malfunction with Slicer kernel for Jupyter notebook?
 
 **Topic ID**: 24163

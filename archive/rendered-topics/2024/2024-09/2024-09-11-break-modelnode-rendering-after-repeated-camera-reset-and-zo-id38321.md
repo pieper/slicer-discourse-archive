@@ -1,3 +1,10 @@
+---
+topic_id: 38321
+title: "Break Modelnode Rendering After Repeated Camera Reset And Zo"
+date: 2024-09-11
+url: https://discourse.slicer.org/t/38321
+---
+
 # Break ModelNode Rendering After Repeated Camera Reset and Zoom
 
 **Topic ID**: 38321

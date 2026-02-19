@@ -1,3 +1,10 @@
+---
+topic_id: 11372
+title: "Q3Dc Quantification Tool"
+date: 2020-04-30
+url: https://discourse.slicer.org/t/11372
+---
+
 # Q3DC Quantification Tool
 
 **Topic ID**: 11372

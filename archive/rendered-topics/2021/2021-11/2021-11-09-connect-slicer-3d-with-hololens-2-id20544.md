@@ -1,3 +1,10 @@
+---
+topic_id: 20544
+title: "Connect Slicer 3D With Hololens 2"
+date: 2021-11-09
+url: https://discourse.slicer.org/t/20544
+---
+
 # Connect Slicer 3D with Hololens 2
 
 **Topic ID**: 20544

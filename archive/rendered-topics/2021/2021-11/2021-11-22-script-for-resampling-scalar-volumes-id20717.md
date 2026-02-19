@@ -1,3 +1,10 @@
+---
+topic_id: 20717
+title: "Script For Resampling Scalar Volumes"
+date: 2021-11-22
+url: https://discourse.slicer.org/t/20717
+---
+
 # Script for resampling scalar volumes
 
 **Topic ID**: 20717

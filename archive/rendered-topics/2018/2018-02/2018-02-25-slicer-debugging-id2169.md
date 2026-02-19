@@ -1,3 +1,10 @@
+---
+topic_id: 2169
+title: "Slicer Debugging"
+date: 2018-02-25
+url: https://discourse.slicer.org/t/2169
+---
+
 # Slicer Debugging
 
 **Topic ID**: 2169

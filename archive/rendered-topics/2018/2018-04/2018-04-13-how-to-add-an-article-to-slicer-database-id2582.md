@@ -1,3 +1,10 @@
+---
+topic_id: 2582
+title: "How To Add An Article To Slicer Database"
+date: 2018-04-13
+url: https://discourse.slicer.org/t/2582
+---
+
 # How to add an article to Slicer database?
 
 **Topic ID**: 2582

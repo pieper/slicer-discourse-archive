@@ -1,3 +1,10 @@
+---
+topic_id: 2742
+title: "Getting Coordinates Of Mri Visible Markers"
+date: 2018-05-01
+url: https://discourse.slicer.org/t/2742
+---
+
 # Getting coordinates of MRI visible markers
 
 **Topic ID**: 2742

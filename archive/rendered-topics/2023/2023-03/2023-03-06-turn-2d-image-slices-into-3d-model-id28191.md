@@ -1,3 +1,10 @@
+---
+topic_id: 28191
+title: "Turn 2D Image Slices Into 3D Model"
+date: 2023-03-06
+url: https://discourse.slicer.org/t/28191
+---
+
 # Turn 2d image slices into 3d model
 
 **Topic ID**: 28191

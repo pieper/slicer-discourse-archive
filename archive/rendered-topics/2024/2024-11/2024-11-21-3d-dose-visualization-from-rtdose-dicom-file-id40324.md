@@ -1,3 +1,10 @@
+---
+topic_id: 40324
+title: "3D Dose Visualization From Rtdose Dicom File"
+date: 2024-11-21
+url: https://discourse.slicer.org/t/40324
+---
+
 # 3D dose visualization from RTdose DICOM file
 
 **Topic ID**: 40324

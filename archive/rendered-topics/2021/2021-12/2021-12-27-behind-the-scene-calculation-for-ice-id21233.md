@@ -1,3 +1,10 @@
+---
+topic_id: 21233
+title: "Behind The Scene Calculation For Ice"
+date: 2021-12-27
+url: https://discourse.slicer.org/t/21233
+---
+
 # Behind-the-scene Calculation for ICE
 
 **Topic ID**: 21233

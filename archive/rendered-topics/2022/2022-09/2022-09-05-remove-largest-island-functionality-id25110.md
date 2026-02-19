@@ -1,3 +1,10 @@
+---
+topic_id: 25110
+title: "Remove Largest Island Functionality"
+date: 2022-09-05
+url: https://discourse.slicer.org/t/25110
+---
+
 # Remove largest island functionality?
 
 **Topic ID**: 25110

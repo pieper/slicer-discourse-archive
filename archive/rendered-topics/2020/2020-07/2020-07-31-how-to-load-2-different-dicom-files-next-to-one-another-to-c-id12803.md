@@ -1,3 +1,10 @@
+---
+topic_id: 12803
+title: "How To Load 2 Different Dicom Files Next To One Another To C"
+date: 2020-07-31
+url: https://discourse.slicer.org/t/12803
+---
+
 # How to load 2 different DICOM files next to one another to Compare
 
 **Topic ID**: 12803

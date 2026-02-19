@@ -1,3 +1,10 @@
+---
+topic_id: 15974
+title: "How To Optimize The Binwidth Value For Mr Images Radiomics"
+date: 2021-02-13
+url: https://discourse.slicer.org/t/15974
+---
+
 # How to optimize the binwidth Value for MR images (Radiomics)
 
 **Topic ID**: 15974

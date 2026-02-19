@@ -1,3 +1,10 @@
+---
+topic_id: 19214
+title: "Segment Editor Effect Button Size Consistency"
+date: 2021-08-16
+url: https://discourse.slicer.org/t/19214
+---
+
 # Segment Editor Effect button size consistency
 
 **Topic ID**: 19214

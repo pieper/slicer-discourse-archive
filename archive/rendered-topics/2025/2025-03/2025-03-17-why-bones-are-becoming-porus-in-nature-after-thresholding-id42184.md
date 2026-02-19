@@ -1,3 +1,10 @@
+---
+topic_id: 42184
+title: "Why Bones Are Becoming Porus In Nature After Thresholding"
+date: 2025-03-17
+url: https://discourse.slicer.org/t/42184
+---
+
 # Why bones are becoming porus in nature after thresholding
 
 **Topic ID**: 42184

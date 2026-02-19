@@ -1,3 +1,10 @@
+---
+topic_id: 11170
+title: "Rotation Of An Object At An Arbitrary Pivot Point"
+date: 2020-04-17
+url: https://discourse.slicer.org/t/11170
+---
+
 # Rotation of an object at an arbitrary pivot point
 
 **Topic ID**: 11170

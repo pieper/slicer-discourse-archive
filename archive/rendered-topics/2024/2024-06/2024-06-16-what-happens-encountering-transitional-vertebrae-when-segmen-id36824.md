@@ -1,3 +1,10 @@
+---
+topic_id: 36824
+title: "What Happens Encountering Transitional Vertebrae When Segmen"
+date: 2024-06-16
+url: https://discourse.slicer.org/t/36824
+---
+
 # What happens encountering `transitional vertebrae` when segmenting the spine in `TotalSegmentator`?
 
 **Topic ID**: 36824

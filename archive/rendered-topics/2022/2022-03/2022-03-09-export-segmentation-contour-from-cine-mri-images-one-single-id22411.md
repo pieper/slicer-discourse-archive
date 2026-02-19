@@ -1,3 +1,10 @@
+---
+topic_id: 22411
+title: "Export Segmentation Contour From Cine Mri Images One Single"
+date: 2022-03-09
+url: https://discourse.slicer.org/t/22411
+---
+
 # Export segmentation contour from cine-mri images (one single time frame)
 
 **Topic ID**: 22411

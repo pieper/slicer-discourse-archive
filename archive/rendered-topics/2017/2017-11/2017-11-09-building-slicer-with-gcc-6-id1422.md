@@ -1,3 +1,10 @@
+---
+topic_id: 1422
+title: "Building Slicer With Gcc 6"
+date: 2017-11-09
+url: https://discourse.slicer.org/t/1422
+---
+
 # Building Slicer with gcc 6
 
 **Topic ID**: 1422

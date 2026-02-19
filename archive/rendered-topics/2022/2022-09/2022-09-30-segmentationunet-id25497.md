@@ -1,3 +1,10 @@
+---
+topic_id: 25497
+title: "Segmentationunet"
+date: 2022-09-30
+url: https://discourse.slicer.org/t/25497
+---
+
 # SegmentationUnet
 
 **Topic ID**: 25497

@@ -1,3 +1,10 @@
+---
+topic_id: 238
+title: "Difficult To Install Slicer Because The Installer Is Not Sig"
+date: 2017-05-02
+url: https://discourse.slicer.org/t/238
+---
+
 # DIfficult to install Slicer because the installer is not signed
 
 **Topic ID**: 238

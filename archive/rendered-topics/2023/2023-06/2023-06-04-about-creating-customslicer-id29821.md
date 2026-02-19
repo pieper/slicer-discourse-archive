@@ -1,3 +1,10 @@
+---
+topic_id: 29821
+title: "About Creating Customslicer"
+date: 2023-06-04
+url: https://discourse.slicer.org/t/29821
+---
+
 # About creating Customslicer
 
 **Topic ID**: 29821

@@ -1,3 +1,10 @@
+---
+topic_id: 22371
+title: "Changing Mouse Modes From Python"
+date: 2022-03-08
+url: https://discourse.slicer.org/t/22371
+---
+
 # Changing mouse modes from Python
 
 **Topic ID**: 22371

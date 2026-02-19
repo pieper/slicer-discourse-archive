@@ -1,3 +1,10 @@
+---
+topic_id: 1473
+title: "Error Loading Mri Files"
+date: 2017-11-16
+url: https://discourse.slicer.org/t/1473
+---
+
 # Error Loading MRI Files
 
 **Topic ID**: 1473

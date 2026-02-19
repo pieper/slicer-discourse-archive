@@ -1,3 +1,10 @@
+---
+topic_id: 42003
+title: "Threshold Disappearing After Clicking Apply"
+date: 2025-03-07
+url: https://discourse.slicer.org/t/42003
+---
+
 # Threshold disappearing after clicking apply.
 
 **Topic ID**: 42003

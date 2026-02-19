@@ -1,3 +1,10 @@
+---
+topic_id: 2004
+title: "Tips And Tricks For Creating Voi From Adc Maps"
+date: 2018-02-01
+url: https://discourse.slicer.org/t/2004
+---
+
 # Tips and Tricks for creating VOI from ADC maps
 
 **Topic ID**: 2004

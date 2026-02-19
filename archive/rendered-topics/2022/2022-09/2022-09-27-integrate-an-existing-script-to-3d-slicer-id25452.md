@@ -1,3 +1,10 @@
+---
+topic_id: 25452
+title: "Integrate An Existing Script To 3D Slicer"
+date: 2022-09-27
+url: https://discourse.slicer.org/t/25452
+---
+
 # Integrate an existing script to 3D slicer
 
 **Topic ID**: 25452

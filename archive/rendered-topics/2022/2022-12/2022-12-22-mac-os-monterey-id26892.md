@@ -1,3 +1,10 @@
+---
+topic_id: 26892
+title: "Mac Os Monterey"
+date: 2022-12-22
+url: https://discourse.slicer.org/t/26892
+---
+
 # Mac Os Monterey
 
 **Topic ID**: 26892

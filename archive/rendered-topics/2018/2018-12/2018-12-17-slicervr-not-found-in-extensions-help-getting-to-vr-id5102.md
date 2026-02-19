@@ -1,3 +1,10 @@
+---
+topic_id: 5102
+title: "Slicervr Not Found In Extensions Help Getting To Vr"
+date: 2018-12-17
+url: https://discourse.slicer.org/t/5102
+---
+
 # SlicerVR not found in extensions. Help getting to VR
 
 **Topic ID**: 5102

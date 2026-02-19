@@ -1,3 +1,10 @@
+---
+topic_id: 30544
+title: "Release Build Of Slicer Fails With Error On Sphinx Build"
+date: 2023-07-12
+url: https://discourse.slicer.org/t/30544
+---
+
 # Release build of Slicer fails with error on sphinx-build
 
 **Topic ID**: 30544

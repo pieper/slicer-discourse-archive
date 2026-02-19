@@ -1,3 +1,10 @@
+---
+topic_id: 13342
+title: "Request For Segmenting Suggestions"
+date: 2020-09-04
+url: https://discourse.slicer.org/t/13342
+---
+
 # Request for segmenting suggestions
 
 **Topic ID**: 13342

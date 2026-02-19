@@ -1,3 +1,10 @@
+---
+topic_id: 26848
+title: "Assign A Specific Volume Into Slice"
+date: 2022-12-20
+url: https://discourse.slicer.org/t/26848
+---
+
 # Assign a specific volume into slice
 
 **Topic ID**: 26848

@@ -1,3 +1,10 @@
+---
+topic_id: 39756
+title: "Does The Slicer Have The Ability To Generate Multi 3D Volume"
+date: 2024-10-18
+url: https://discourse.slicer.org/t/39756
+---
+
 # Does the slicer have the ability to generate multi 3D volumes within the 3D slicer and operate it under specific limitations?
 
 **Topic ID**: 39756

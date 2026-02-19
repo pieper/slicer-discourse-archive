@@ -1,3 +1,10 @@
+---
+topic_id: 25049
+title: "Setting Up Unix Ubuntu Local Paths"
+date: 2022-09-02
+url: https://discourse.slicer.org/t/25049
+---
+
 # Setting Up Unix (Ubuntu) Local Paths?
 
 **Topic ID**: 25049

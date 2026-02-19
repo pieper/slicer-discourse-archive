@@ -1,3 +1,10 @@
+---
+topic_id: 16839
+title: "Could I Preserve An Image Resolution Before And After Rigid"
+date: 2021-03-30
+url: https://discourse.slicer.org/t/16839
+---
+
 # Could I preserve an image resolution before and after Rigid registration?
 
 **Topic ID**: 16839

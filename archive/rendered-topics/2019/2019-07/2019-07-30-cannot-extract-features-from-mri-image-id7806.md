@@ -1,3 +1,10 @@
+---
+topic_id: 7806
+title: "Cannot Extract Features From Mri Image"
+date: 2019-07-30
+url: https://discourse.slicer.org/t/7806
+---
+
 # Cannot extract features from MRI image
 
 **Topic ID**: 7806

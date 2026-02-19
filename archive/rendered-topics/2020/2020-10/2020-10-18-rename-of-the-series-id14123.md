@@ -1,3 +1,10 @@
+---
+topic_id: 14123
+title: "Rename Of The Series"
+date: 2020-10-18
+url: https://discourse.slicer.org/t/14123
+---
+
 # Rename of the series
 
 **Topic ID**: 14123

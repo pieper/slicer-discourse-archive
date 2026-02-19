@@ -1,3 +1,10 @@
+---
+topic_id: 9910
+title: "Issue With 2D Extraction And Resampling"
+date: 2020-01-22
+url: https://discourse.slicer.org/t/9910
+---
+
 # Issue with 2D extraction and resampling
 
 **Topic ID**: 9910

@@ -1,3 +1,10 @@
+---
+topic_id: 44945
+title: "Adding A Library To A Custom Loadable Module"
+date: 2025-11-03
+url: https://discourse.slicer.org/t/44945
+---
+
 # Adding a library to a custom loadable module
 
 **Topic ID**: 44945

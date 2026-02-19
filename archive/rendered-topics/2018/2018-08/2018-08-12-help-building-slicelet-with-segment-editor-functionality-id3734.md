@@ -1,3 +1,10 @@
+---
+topic_id: 3734
+title: "Help Building Slicelet With Segment Editor Functionality"
+date: 2018-08-12
+url: https://discourse.slicer.org/t/3734
+---
+
 # Help Building Slicelet with Segment Editor Functionality
 
 **Topic ID**: 3734

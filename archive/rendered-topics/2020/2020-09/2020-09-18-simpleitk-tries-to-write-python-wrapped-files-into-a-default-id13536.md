@@ -1,3 +1,10 @@
+---
+topic_id: 13536
+title: "Simpleitk Tries To Write Python Wrapped Files Into A Default"
+date: 2020-09-18
+url: https://discourse.slicer.org/t/13536
+---
+
 # SimpleITK tries to write Python wrapped files into a default folder that needs root privileges
 
 **Topic ID**: 13536

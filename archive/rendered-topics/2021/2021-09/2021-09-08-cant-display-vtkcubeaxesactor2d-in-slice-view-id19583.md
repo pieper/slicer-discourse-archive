@@ -1,3 +1,10 @@
+---
+topic_id: 19583
+title: "Cant Display Vtkcubeaxesactor2D In Slice View"
+date: 2021-09-08
+url: https://discourse.slicer.org/t/19583
+---
+
 # Can't display `vtkCubeAxesActor2D` in slice view
 
 **Topic ID**: 19583

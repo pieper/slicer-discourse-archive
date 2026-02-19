@@ -1,3 +1,10 @@
+---
+topic_id: 2684
+title: "Write Vtk File From Mha Volume Input"
+date: 2018-04-25
+url: https://discourse.slicer.org/t/2684
+---
+
 # Write vtk file from mha volume input
 
 **Topic ID**: 2684

@@ -1,3 +1,10 @@
+---
+topic_id: 37095
+title: "Running Slicer From Pycharm External"
+date: 2024-06-29
+url: https://discourse.slicer.org/t/37095
+---
+
 # Running Slicer from PyCharm/external
 
 **Topic ID**: 37095

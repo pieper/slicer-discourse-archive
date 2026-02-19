@@ -1,3 +1,10 @@
+---
+topic_id: 22653
+title: "Gtc Keynote Monai And Slicer"
+date: 2022-03-23
+url: https://discourse.slicer.org/t/22653
+---
+
 # GTC Keynote MONAI and Slicer
 
 **Topic ID**: 22653

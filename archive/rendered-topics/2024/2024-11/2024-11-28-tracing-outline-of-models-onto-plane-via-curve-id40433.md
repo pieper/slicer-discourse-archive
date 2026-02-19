@@ -1,3 +1,10 @@
+---
+topic_id: 40433
+title: "Tracing Outline Of Models Onto Plane Via Curve"
+date: 2024-11-28
+url: https://discourse.slicer.org/t/40433
+---
+
 # Tracing outline of models onto plane via curve
 
 **Topic ID**: 40433

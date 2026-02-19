@@ -1,3 +1,10 @@
+---
+topic_id: 28765
+title: "Can Totalsegmentator Capture Deformities Such As Can Totalse"
+date: 2023-04-05
+url: https://discourse.slicer.org/t/28765
+---
+
 # Can TotalSegmentator capture deformities such as Can TotalSegmentator heterotopic ossification?
 
 **Topic ID**: 28765

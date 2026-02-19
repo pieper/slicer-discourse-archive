@@ -1,3 +1,10 @@
+---
+topic_id: 26864
+title: "Whats Wrong With My Dwi Failed To Convert From Dwi To Tensor"
+date: 2022-12-21
+url: https://discourse.slicer.org/t/26864
+---
+
 # What's wrong with my DWI? Failed to convert from DWI to tensors
 
 **Topic ID**: 26864

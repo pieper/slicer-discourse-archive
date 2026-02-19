@@ -1,3 +1,10 @@
+---
+topic_id: 24701
+title: "How To Fill Small Holes In Segmentations"
+date: 2022-08-09
+url: https://discourse.slicer.org/t/24701
+---
+
 # How to fill small holes in segmentations
 
 **Topic ID**: 24701

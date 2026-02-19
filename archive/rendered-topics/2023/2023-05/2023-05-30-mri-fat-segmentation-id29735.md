@@ -1,3 +1,10 @@
+---
+topic_id: 29735
+title: "Mri Fat Segmentation"
+date: 2023-05-30
+url: https://discourse.slicer.org/t/29735
+---
+
 # MRI Fat segmentation
 
 **Topic ID**: 29735

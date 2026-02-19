@@ -1,3 +1,10 @@
+---
+topic_id: 2570
+title: "Align Two Segments To Each Other"
+date: 2018-04-12
+url: https://discourse.slicer.org/t/2570
+---
+
 # align two segments to each other 
 
 **Topic ID**: 2570

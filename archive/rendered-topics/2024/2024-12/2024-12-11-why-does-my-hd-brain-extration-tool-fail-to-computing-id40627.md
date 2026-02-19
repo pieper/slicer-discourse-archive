@@ -1,3 +1,10 @@
+---
+topic_id: 40627
+title: "Why Does My Hd Brain Extration Tool Fail To Computing"
+date: 2024-12-11
+url: https://discourse.slicer.org/t/40627
+---
+
 # Why does my HD Brain Extration Tool fail to computing?
 
 **Topic ID**: 40627

@@ -1,3 +1,10 @@
+---
+topic_id: 1229
+title: "Proceed To Surfstat"
+date: 2017-10-15
+url: https://discourse.slicer.org/t/1229
+---
+
 # Proceed to surfstat
 
 **Topic ID**: 1229

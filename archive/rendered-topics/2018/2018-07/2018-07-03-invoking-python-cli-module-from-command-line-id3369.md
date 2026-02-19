@@ -1,3 +1,10 @@
+---
+topic_id: 3369
+title: "Invoking Python Cli Module From Command Line"
+date: 2018-07-03
+url: https://discourse.slicer.org/t/3369
+---
+
 # invoking python CLI module from command line
 
 **Topic ID**: 3369

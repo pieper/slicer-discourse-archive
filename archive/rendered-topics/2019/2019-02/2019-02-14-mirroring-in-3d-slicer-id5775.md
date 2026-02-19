@@ -1,3 +1,10 @@
+---
+topic_id: 5775
+title: "Mirroring In 3D Slicer"
+date: 2019-02-14
+url: https://discourse.slicer.org/t/5775
+---
+
 # Mirroring in 3D slicer
 
 **Topic ID**: 5775

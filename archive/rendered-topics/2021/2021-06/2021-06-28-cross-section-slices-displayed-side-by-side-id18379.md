@@ -1,3 +1,10 @@
+---
+topic_id: 18379
+title: "Cross Section Slices Displayed Side By Side"
+date: 2021-06-28
+url: https://discourse.slicer.org/t/18379
+---
+
 # Cross Section Slices Displayed Side-by-Side
 
 **Topic ID**: 18379

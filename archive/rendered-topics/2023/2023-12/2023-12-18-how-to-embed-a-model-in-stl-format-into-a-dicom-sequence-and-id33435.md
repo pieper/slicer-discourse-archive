@@ -1,3 +1,10 @@
+---
+topic_id: 33435
+title: "How To Embed A Model In Stl Format Into A Dicom Sequence And"
+date: 2023-12-18
+url: https://discourse.slicer.org/t/33435
+---
+
 # How to embed a model in stl format into a DICOM sequence and export a new DICOM sequence?
 
 **Topic ID**: 33435

@@ -1,3 +1,10 @@
+---
+topic_id: 25886
+title: "How To Set Up Slicer To Be Built With Local Dependencies"
+date: 2022-10-25
+url: https://discourse.slicer.org/t/25886
+---
+
 # How to set up Slicer to be built with local dependencies
 
 **Topic ID**: 25886

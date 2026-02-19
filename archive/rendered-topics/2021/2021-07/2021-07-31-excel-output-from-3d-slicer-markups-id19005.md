@@ -1,3 +1,10 @@
+---
+topic_id: 19005
+title: "Excel Output From 3D Slicer Markups"
+date: 2021-07-31
+url: https://discourse.slicer.org/t/19005
+---
+
 # excel output from 3d slicer markups
 
 **Topic ID**: 19005

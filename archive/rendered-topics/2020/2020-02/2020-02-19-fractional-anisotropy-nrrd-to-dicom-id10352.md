@@ -1,3 +1,10 @@
+---
+topic_id: 10352
+title: "Fractional Anisotropy Nrrd To Dicom"
+date: 2020-02-19
+url: https://discourse.slicer.org/t/10352
+---
+
 # Fractional anisotropy nrrd to dicom
 
 **Topic ID**: 10352

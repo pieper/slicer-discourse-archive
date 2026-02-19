@@ -1,3 +1,10 @@
+---
+topic_id: 12998
+title: "Vtk Itk Awesome Feedback Welcomed"
+date: 2020-08-14
+url: https://discourse.slicer.org/t/12998
+---
+
 # VTK + ITK = Awesome: Feedback Welcomed!
 
 **Topic ID**: 12998

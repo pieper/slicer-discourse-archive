@@ -1,3 +1,10 @@
+---
+topic_id: 40901
+title: "Quest Vr Controllers As Live Trackers"
+date: 2024-12-30
+url: https://discourse.slicer.org/t/40901
+---
+
 # Quest VR controllers as live trackers
 
 **Topic ID**: 40901

@@ -1,3 +1,10 @@
+---
+topic_id: 3778
+title: "Planar Contours And Binary Label Maps"
+date: 2018-08-14
+url: https://discourse.slicer.org/t/3778
+---
+
 # Planar contours and binary label maps
 
 **Topic ID**: 3778

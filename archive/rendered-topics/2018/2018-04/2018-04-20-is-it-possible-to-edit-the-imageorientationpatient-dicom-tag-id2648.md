@@ -1,3 +1,10 @@
+---
+topic_id: 2648
+title: "Is It Possible To Edit The Imageorientationpatient Dicom Tag"
+date: 2018-04-20
+url: https://discourse.slicer.org/t/2648
+---
+
 # Is it possible to edit the ImageOrientationPatient DICOM tag in slicer?
 
 **Topic ID**: 2648

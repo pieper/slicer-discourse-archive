@@ -1,3 +1,10 @@
+---
+topic_id: 30718
+title: "Cannot Open Topcon Oct Fda File On Slicer"
+date: 2023-07-20
+url: https://discourse.slicer.org/t/30718
+---
+
 # Cannot open TopCon OCT (.fda) file on Slicer
 
 **Topic ID**: 30718

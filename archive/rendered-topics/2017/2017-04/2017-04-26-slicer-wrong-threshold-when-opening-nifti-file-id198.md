@@ -1,3 +1,10 @@
+---
+topic_id: 198
+title: "Slicer Wrong Threshold When Opening Nifti File"
+date: 2017-04-26
+url: https://discourse.slicer.org/t/198
+---
+
 # [Slicer] Wrong threshold when opening NifTi file
 
 **Topic ID**: 198

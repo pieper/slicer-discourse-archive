@@ -1,3 +1,10 @@
+---
+topic_id: 26351
+title: "Opening Downloaded Mrml Files"
+date: 2022-11-21
+url: https://discourse.slicer.org/t/26351
+---
+
 # Opening Downloaded '.mrml' Files
 
 **Topic ID**: 26351

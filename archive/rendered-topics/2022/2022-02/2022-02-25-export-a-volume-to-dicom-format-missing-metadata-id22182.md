@@ -1,3 +1,10 @@
+---
+topic_id: 22182
+title: "Export A Volume To Dicom Format Missing Metadata"
+date: 2022-02-25
+url: https://discourse.slicer.org/t/22182
+---
+
 # Export a volume to DICOM format - missing metadata
 
 **Topic ID**: 22182

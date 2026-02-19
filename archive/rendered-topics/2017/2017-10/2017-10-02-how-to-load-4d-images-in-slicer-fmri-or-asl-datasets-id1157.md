@@ -1,3 +1,10 @@
+---
+topic_id: 1157
+title: "How To Load 4D Images In Slicer Fmri Or Asl Datasets"
+date: 2017-10-02
+url: https://discourse.slicer.org/t/1157
+---
+
 # How to load 4D images in Slicer - fMRI or ASL datasets
 
 **Topic ID**: 1157

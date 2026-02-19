@@ -1,3 +1,10 @@
+---
+topic_id: 8106
+title: "Dicom Browser Layout Issues"
+date: 2019-08-20
+url: https://discourse.slicer.org/t/8106
+---
+
 # DICOM browser layout issues
 
 **Topic ID**: 8106

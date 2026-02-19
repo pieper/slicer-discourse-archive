@@ -1,3 +1,10 @@
+---
+topic_id: 3965
+title: "Using Model To Model Distance And Shape Population Viewer To"
+date: 2018-09-01
+url: https://discourse.slicer.org/t/3965
+---
+
 # Using model-to-model distance and shape population viewer to find cortical thickness
 
 **Topic ID**: 3965

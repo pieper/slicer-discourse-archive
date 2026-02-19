@@ -1,3 +1,10 @@
+---
+topic_id: 2026
+title: "Kruvi Crowdfunding Slicer Extension Development"
+date: 2018-02-05
+url: https://discourse.slicer.org/t/2026
+---
+
 # kruvi: crowdfunding Slicer extension development
 
 **Topic ID**: 2026

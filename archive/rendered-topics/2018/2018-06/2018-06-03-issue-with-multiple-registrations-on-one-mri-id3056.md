@@ -1,3 +1,10 @@
+---
+topic_id: 3056
+title: "Issue With Multiple Registrations On One Mri"
+date: 2018-06-03
+url: https://discourse.slicer.org/t/3056
+---
+
 # Issue with multiple registrations on one MRI
 
 **Topic ID**: 3056

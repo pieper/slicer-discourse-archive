@@ -1,3 +1,10 @@
+---
+topic_id: 23695
+title: "Monai Label Does Not Utilize Tesala Gpu"
+date: 2022-06-03
+url: https://discourse.slicer.org/t/23695
+---
+
 # MONAI label does not utilize Tesala GPU
 
 **Topic ID**: 23695

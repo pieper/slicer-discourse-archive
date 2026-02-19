@@ -1,3 +1,10 @@
+---
+topic_id: 10675
+title: "Bone Surface Ultrasound Simulation Image"
+date: 2020-03-13
+url: https://discourse.slicer.org/t/10675
+---
+
 # Bone Surface Ultrasound Simulation Image
 
 **Topic ID**: 10675

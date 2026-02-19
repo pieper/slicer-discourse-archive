@@ -1,3 +1,10 @@
+---
+topic_id: 45774
+title: "Feature Request Improve The Recent File History Facilities"
+date: 2026-01-13
+url: https://discourse.slicer.org/t/45774
+---
+
 # Feature request: improve the recent file history facilities
 
 **Topic ID**: 45774

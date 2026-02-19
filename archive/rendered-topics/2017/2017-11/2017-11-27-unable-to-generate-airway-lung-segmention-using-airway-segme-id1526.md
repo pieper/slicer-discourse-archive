@@ -1,3 +1,10 @@
+---
+topic_id: 1526
+title: "Unable To Generate Airway Lung Segmention Using Airway Segme"
+date: 2017-11-27
+url: https://discourse.slicer.org/t/1526
+---
+
 # Unable to generate airway lung segmention using Airway Segmentation Module
 
 **Topic ID**: 1526

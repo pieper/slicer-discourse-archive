@@ -1,3 +1,10 @@
+---
+topic_id: 25071
+title: "I Got A Error In The Tutorial Of Building Software Systems F"
+date: 2022-09-04
+url: https://discourse.slicer.org/t/25071
+---
+
 # I got a error in the tutorial of "Building Software Systems for Image-Guided Robot-Assisted Interventions"
 
 **Topic ID**: 25071

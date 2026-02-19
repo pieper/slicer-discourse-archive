@@ -1,3 +1,10 @@
+---
+topic_id: 30398
+title: "Path Of Slicer App"
+date: 2023-07-05
+url: https://discourse.slicer.org/t/30398
+---
+
 # Path of slicer app
 
 **Topic ID**: 30398

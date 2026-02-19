@@ -1,3 +1,10 @@
+---
+topic_id: 25975
+title: "Your Work Tree Has Not Been Configured For Slicer Developmen"
+date: 2022-10-31
+url: https://discourse.slicer.org/t/25975
+---
+
 # Your work tree has not been configured for Slicer development
 
 **Topic ID**: 25975

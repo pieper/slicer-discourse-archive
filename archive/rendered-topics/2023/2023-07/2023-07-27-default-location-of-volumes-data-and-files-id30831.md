@@ -1,3 +1,10 @@
+---
+topic_id: 30831
+title: "Default Location Of Volumes Data And Files"
+date: 2023-07-27
+url: https://discourse.slicer.org/t/30831
+---
+
 # Default location of volumes data and files
 
 **Topic ID**: 30831

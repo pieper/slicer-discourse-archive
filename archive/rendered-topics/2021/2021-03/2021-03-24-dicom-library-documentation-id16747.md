@@ -1,3 +1,10 @@
+---
+topic_id: 16747
+title: "Dicom Library Documentation"
+date: 2021-03-24
+url: https://discourse.slicer.org/t/16747
+---
+
 # DICOM Library-Documentation
 
 **Topic ID**: 16747

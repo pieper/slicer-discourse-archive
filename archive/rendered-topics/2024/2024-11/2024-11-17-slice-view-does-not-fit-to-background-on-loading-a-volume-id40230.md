@@ -1,3 +1,10 @@
+---
+topic_id: 40230
+title: "Slice View Does Not Fit To Background On Loading A Volume"
+date: 2024-11-17
+url: https://discourse.slicer.org/t/40230
+---
+
 # Slice view does not fit to background on loading a volume
 
 **Topic ID**: 40230

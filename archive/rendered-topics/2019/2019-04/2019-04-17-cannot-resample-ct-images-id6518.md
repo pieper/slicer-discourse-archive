@@ -1,3 +1,10 @@
+---
+topic_id: 6518
+title: "Cannot Resample Ct Images"
+date: 2019-04-17
+url: https://discourse.slicer.org/t/6518
+---
+
 # Cannot resample CT images
 
 **Topic ID**: 6518

@@ -1,3 +1,10 @@
+---
+topic_id: 43042
+title: "Project Week 43 Preparation Meeting May 27"
+date: 2025-05-22
+url: https://discourse.slicer.org/t/43042
+---
+
 # Project Week 43 Preparation Meeting (May 27)
 
 **Topic ID**: 43042

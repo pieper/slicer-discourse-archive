@@ -1,3 +1,10 @@
+---
+topic_id: 10203
+title: "New Segment Statistics Oriented Bounding Box Diameter And Mo"
+date: 2020-02-11
+url: https://discourse.slicer.org/t/10203
+---
+
 # New Segment Statistics: Oriented Bounding Box, Diameter and More
 
 **Topic ID**: 10203

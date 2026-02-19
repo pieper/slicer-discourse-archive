@@ -1,3 +1,10 @@
+---
+topic_id: 36197
+title: "Need Guidance With Multi Frame Dicom Conversion"
+date: 2024-05-16
+url: https://discourse.slicer.org/t/36197
+---
+
 # Need guidance with multi-frame dicom conversion
 
 **Topic ID**: 36197

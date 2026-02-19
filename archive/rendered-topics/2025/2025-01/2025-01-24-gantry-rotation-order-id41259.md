@@ -1,3 +1,10 @@
+---
+topic_id: 41259
+title: "Gantry Rotation Order"
+date: 2025-01-24
+url: https://discourse.slicer.org/t/41259
+---
+
 # Gantry rotation order?
 
 **Topic ID**: 41259

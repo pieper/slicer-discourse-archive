@@ -1,3 +1,10 @@
+---
+topic_id: 5845
+title: "Segment Editor Source Code"
+date: 2019-02-20
+url: https://discourse.slicer.org/t/5845
+---
+
 # Segment Editor source code
 
 **Topic ID**: 5845

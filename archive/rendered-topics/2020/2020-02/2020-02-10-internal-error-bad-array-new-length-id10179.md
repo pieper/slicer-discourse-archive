@@ -1,3 +1,10 @@
+---
+topic_id: 10179
+title: "Internal Error Bad Array New Length"
+date: 2020-02-10
+url: https://discourse.slicer.org/t/10179
+---
+
 # Internal error : Bad array new length
 
 **Topic ID**: 10179

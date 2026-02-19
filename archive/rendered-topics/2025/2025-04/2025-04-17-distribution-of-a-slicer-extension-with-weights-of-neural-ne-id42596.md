@@ -1,3 +1,10 @@
+---
+topic_id: 42596
+title: "Distribution Of A Slicer Extension With Weights Of Neural Ne"
+date: 2025-04-17
+url: https://discourse.slicer.org/t/42596
+---
+
 # Distribution of a Slicer Extension with weights of neural networks
 
 **Topic ID**: 42596

@@ -1,3 +1,10 @@
+---
+topic_id: 20574
+title: "Is There A Way To Add A Vector For The Fiducials"
+date: 2021-11-11
+url: https://discourse.slicer.org/t/20574
+---
+
 # Is there a way to add a vector for the fiducials?
 
 **Topic ID**: 20574

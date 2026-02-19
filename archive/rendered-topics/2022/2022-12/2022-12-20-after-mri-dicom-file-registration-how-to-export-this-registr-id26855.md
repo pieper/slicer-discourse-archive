@@ -1,3 +1,10 @@
+---
+topic_id: 26855
+title: "After Mri Dicom File Registration How To Export This Registr"
+date: 2022-12-20
+url: https://discourse.slicer.org/t/26855
+---
+
 # After MRI Dicom file registration ... How to export this registration file in DICOM format
 
 **Topic ID**: 26855

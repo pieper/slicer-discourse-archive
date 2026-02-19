@@ -1,3 +1,10 @@
+---
+topic_id: 18272
+title: "Another Extensions Manager Problem"
+date: 2021-06-22
+url: https://discourse.slicer.org/t/18272
+---
+
 # Another Extensions Manager problem
 
 **Topic ID**: 18272

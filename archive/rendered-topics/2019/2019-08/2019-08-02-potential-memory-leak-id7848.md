@@ -1,3 +1,10 @@
+---
+topic_id: 7848
+title: "Potential Memory Leak"
+date: 2019-08-02
+url: https://discourse.slicer.org/t/7848
+---
+
 # Potential memory leak
 
 **Topic ID**: 7848

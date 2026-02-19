@@ -1,3 +1,10 @@
+---
+topic_id: 39310
+title: "Better Interactivity For Teaching And Outreach"
+date: 2024-09-29
+url: https://discourse.slicer.org/t/39310
+---
+
 # Better interactivity for teaching and outreach
 
 **Topic ID**: 39310

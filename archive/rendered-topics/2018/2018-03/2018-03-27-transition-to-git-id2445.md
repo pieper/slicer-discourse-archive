@@ -1,3 +1,10 @@
+---
+topic_id: 2445
+title: "Transition To Git"
+date: 2018-03-27
+url: https://discourse.slicer.org/t/2445
+---
+
 # Transition to Git
 
 **Topic ID**: 2445

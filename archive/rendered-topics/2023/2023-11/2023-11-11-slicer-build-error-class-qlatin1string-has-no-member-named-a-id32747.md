@@ -1,3 +1,10 @@
+---
+topic_id: 32747
+title: "Slicer Build Error Class Qlatin1String Has No Member Named A"
+date: 2023-11-11
+url: https://discourse.slicer.org/t/32747
+---
+
 # Slicer build error - ‘class QLatin1String’ has no member named ‘arg’de
 
 **Topic ID**: 32747

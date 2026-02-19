@@ -1,3 +1,10 @@
+---
+topic_id: 22004
+title: "Need A Slicer That Can Export Contours"
+date: 2022-02-16
+url: https://discourse.slicer.org/t/22004
+---
+
 # Need a slicer that can export contours
 
 **Topic ID**: 22004

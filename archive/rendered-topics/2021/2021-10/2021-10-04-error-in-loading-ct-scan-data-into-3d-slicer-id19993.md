@@ -1,3 +1,10 @@
+---
+topic_id: 19993
+title: "Error In Loading Ct Scan Data Into 3D Slicer"
+date: 2021-10-04
+url: https://discourse.slicer.org/t/19993
+---
+
 # Error in loading CT scan data into 3D slicer
 
 **Topic ID**: 19993

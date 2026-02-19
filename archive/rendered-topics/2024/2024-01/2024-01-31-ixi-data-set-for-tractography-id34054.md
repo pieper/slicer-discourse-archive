@@ -1,3 +1,10 @@
+---
+topic_id: 34054
+title: "Ixi Data Set For Tractography"
+date: 2024-01-31
+url: https://discourse.slicer.org/t/34054
+---
+
 # IXI data set for tractography
 
 **Topic ID**: 34054

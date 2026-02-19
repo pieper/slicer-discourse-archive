@@ -1,3 +1,10 @@
+---
+topic_id: 43408
+title: "Issue With Including Scripted Module In Custom Slicer Based"
+date: 2025-06-18
+url: https://discourse.slicer.org/t/43408
+---
+
 # Issue with Including Scripted Module in Custom Slicer-Based Application
 
 **Topic ID**: 43408

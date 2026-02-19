@@ -1,3 +1,10 @@
+---
+topic_id: 20518
+title: "Reduction In The Number Of T A C Cuts"
+date: 2021-11-07
+url: https://discourse.slicer.org/t/20518
+---
+
 # Reduction in the number of t.a.c. cuts
 
 **Topic ID**: 20518

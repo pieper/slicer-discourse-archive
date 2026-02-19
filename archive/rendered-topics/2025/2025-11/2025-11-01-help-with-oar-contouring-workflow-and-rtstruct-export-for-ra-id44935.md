@@ -1,3 +1,10 @@
+---
+topic_id: 44935
+title: "Help With Oar Contouring Workflow And Rtstruct Export For Ra"
+date: 2025-11-01
+url: https://discourse.slicer.org/t/44935
+---
+
 # Help with OAR Contouring Workflow and RTSTRUCT Export for Radiotherapy Using 3D Slicer
 
 **Topic ID**: 44935

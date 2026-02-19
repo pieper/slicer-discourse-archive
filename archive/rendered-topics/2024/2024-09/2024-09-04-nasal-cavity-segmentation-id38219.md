@@ -1,3 +1,10 @@
+---
+topic_id: 38219
+title: "Nasal Cavity Segmentation"
+date: 2024-09-04
+url: https://discourse.slicer.org/t/38219
+---
+
 # Nasal Cavity Segmentation
 
 **Topic ID**: 38219

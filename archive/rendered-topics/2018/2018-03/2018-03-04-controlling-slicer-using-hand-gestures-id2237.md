@@ -1,3 +1,10 @@
+---
+topic_id: 2237
+title: "Controlling Slicer Using Hand Gestures"
+date: 2018-03-04
+url: https://discourse.slicer.org/t/2237
+---
+
 # Controlling Slicer using hand gestures
 
 **Topic ID**: 2237

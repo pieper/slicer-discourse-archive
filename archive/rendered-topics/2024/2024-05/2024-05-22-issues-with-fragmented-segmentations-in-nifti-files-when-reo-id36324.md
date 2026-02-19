@@ -1,3 +1,10 @@
+---
+topic_id: 36324
+title: "Issues With Fragmented Segmentations In Nifti Files When Reo"
+date: 2024-05-22
+url: https://discourse.slicer.org/t/36324
+---
+
 # Issues with Fragmented Segmentations in NIfTI Files when Reopening in 3D Slicer
 
 **Topic ID**: 36324

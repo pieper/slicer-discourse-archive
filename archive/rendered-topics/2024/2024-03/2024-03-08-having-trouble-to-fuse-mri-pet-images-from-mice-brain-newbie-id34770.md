@@ -1,3 +1,10 @@
+---
+topic_id: 34770
+title: "Having Trouble To Fuse Mri Pet Images From Mice Brain Newbie"
+date: 2024-03-08
+url: https://discourse.slicer.org/t/34770
+---
+
 # Having trouble to fuse MRI PET images from mice brain-newbie
 
 **Topic ID**: 34770

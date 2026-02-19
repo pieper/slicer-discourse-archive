@@ -1,3 +1,10 @@
+---
+topic_id: 13302
+title: "Can Not Find A All Modules Button In The Latest Version Vers"
+date: 2020-09-02
+url: https://discourse.slicer.org/t/13302
+---
+
 # Can not find a "All Modules" button in the latest version "version 4.11.0 built 2020-09-02"
 
 **Topic ID**: 13302

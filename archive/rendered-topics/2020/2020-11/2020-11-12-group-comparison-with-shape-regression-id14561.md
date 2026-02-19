@@ -1,3 +1,10 @@
+---
+topic_id: 14561
+title: "Group Comparison With Shape Regression"
+date: 2020-11-12
+url: https://discourse.slicer.org/t/14561
+---
+
 # Group comparison with shape regression 
 
 **Topic ID**: 14561

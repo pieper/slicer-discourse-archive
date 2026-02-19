@@ -1,3 +1,10 @@
+---
+topic_id: 12832
+title: "2020 08 04 Hangout W Project Week Discussion"
+date: 2020-08-03
+url: https://discourse.slicer.org/t/12832
+---
+
 # 2020.08.04 Hangout w/ Project Week Discussion
 
 **Topic ID**: 12832

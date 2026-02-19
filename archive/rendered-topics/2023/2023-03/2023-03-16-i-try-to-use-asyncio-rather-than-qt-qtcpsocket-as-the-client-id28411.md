@@ -1,3 +1,10 @@
+---
+topic_id: 28411
+title: "I Try To Use Asyncio Rather Than Qt Qtcpsocket As The Client"
+date: 2023-03-16
+url: https://discourse.slicer.org/t/28411
+---
+
 # I try to use asyncio rather than qt.QTcpSocket as the client, but the socket can receive msgs only if the mouse is hovering the the Slicer UI
 
 **Topic ID**: 28411

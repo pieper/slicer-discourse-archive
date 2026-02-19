@@ -1,3 +1,10 @@
+---
+topic_id: 24962
+title: "Suv Conversion Error Cant Find Tag 18 1072 But Tag 18 1078 A"
+date: 2022-08-28
+url: https://discourse.slicer.org/t/24962
+---
+
 # SUV conversion error - Can't find tag 18 1072 - but tag 18 1078 available
 
 **Topic ID**: 24962

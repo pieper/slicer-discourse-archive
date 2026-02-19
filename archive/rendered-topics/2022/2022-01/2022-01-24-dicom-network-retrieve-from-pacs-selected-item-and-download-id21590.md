@@ -1,3 +1,10 @@
+---
+topic_id: 21590
+title: "Dicom Network Retrieve From Pacs Selected Item And Download"
+date: 2022-01-24
+url: https://discourse.slicer.org/t/21590
+---
+
 # DICOM network retrieve from PACS - selected item and download crash
 
 **Topic ID**: 21590

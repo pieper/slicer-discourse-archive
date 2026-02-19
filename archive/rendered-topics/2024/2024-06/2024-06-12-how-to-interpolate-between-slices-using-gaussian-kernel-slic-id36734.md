@@ -1,3 +1,10 @@
+---
+topic_id: 36734
+title: "How To Interpolate Between Slices Using Gaussian Kernel Slic"
+date: 2024-06-12
+url: https://discourse.slicer.org/t/36734
+---
+
 # How to Interpolate Between Slices Using Gaussian Kernel - SlicerITKUltrasound Module
 
 **Topic ID**: 36734

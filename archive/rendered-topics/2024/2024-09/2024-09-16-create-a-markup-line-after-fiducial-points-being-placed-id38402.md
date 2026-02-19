@@ -1,3 +1,10 @@
+---
+topic_id: 38402
+title: "Create A Markup Line After Fiducial Points Being Placed"
+date: 2024-09-16
+url: https://discourse.slicer.org/t/38402
+---
+
 # Create a markup line after fiducial points being placed
 
 **Topic ID**: 38402

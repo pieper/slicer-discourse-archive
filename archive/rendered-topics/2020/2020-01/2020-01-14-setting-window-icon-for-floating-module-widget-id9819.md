@@ -1,3 +1,10 @@
+---
+topic_id: 9819
+title: "Setting Window Icon For Floating Module Widget"
+date: 2020-01-14
+url: https://discourse.slicer.org/t/9819
+---
+
 # Setting window icon for floating module widget?
 
 **Topic ID**: 9819

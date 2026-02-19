@@ -1,3 +1,10 @@
+---
+topic_id: 28668
+title: "Transition Of Macos Preview Build From Host 10 13 High Sierr"
+date: 2023-03-29
+url: https://discourse.slicer.org/t/28668
+---
+
 # Transition of macOS Preview build from host 10.13 (High Sierra) to 13 (Ventura)
 
 **Topic ID**: 28668

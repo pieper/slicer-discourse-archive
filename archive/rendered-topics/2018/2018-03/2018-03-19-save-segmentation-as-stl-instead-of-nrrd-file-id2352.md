@@ -1,3 +1,10 @@
+---
+topic_id: 2352
+title: "Save Segmentation As Stl Instead Of Nrrd File"
+date: 2018-03-19
+url: https://discourse.slicer.org/t/2352
+---
+
 # Save segmentation as .STL instead of .nrrd file
 
 **Topic ID**: 2352

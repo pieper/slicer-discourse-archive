@@ -1,3 +1,10 @@
+---
+topic_id: 41102
+title: "Creating And Exporting 2D Bounding Boxes For Each Slice For"
+date: 2025-01-15
+url: https://discourse.slicer.org/t/41102
+---
+
 # Creating and Exporting 2D Bounding Boxes for Each Slice for Deep Learning Training
 
 **Topic ID**: 41102

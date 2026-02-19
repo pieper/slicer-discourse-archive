@@ -1,3 +1,10 @@
+---
+topic_id: 1003
+title: "Slicer Extensions Action Required By Maintainers"
+date: 2017-09-04
+url: https://discourse.slicer.org/t/1003
+---
+
 # Slicer extensions: Action required by maintainers
 
 **Topic ID**: 1003

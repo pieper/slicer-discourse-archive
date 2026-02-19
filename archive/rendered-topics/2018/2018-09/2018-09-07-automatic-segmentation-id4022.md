@@ -1,3 +1,10 @@
+---
+topic_id: 4022
+title: "Automatic Segmentation"
+date: 2018-09-07
+url: https://discourse.slicer.org/t/4022
+---
+
 # Automatic Segmentation
 
 **Topic ID**: 4022

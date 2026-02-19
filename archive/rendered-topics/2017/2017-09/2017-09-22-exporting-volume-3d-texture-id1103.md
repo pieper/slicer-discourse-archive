@@ -1,3 +1,10 @@
+---
+topic_id: 1103
+title: "Exporting Volume 3D Texture"
+date: 2017-09-22
+url: https://discourse.slicer.org/t/1103
+---
+
 # Exporting volume (3D texture)?
 
 **Topic ID**: 1103

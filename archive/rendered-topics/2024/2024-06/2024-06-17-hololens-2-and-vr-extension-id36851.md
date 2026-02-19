@@ -1,3 +1,10 @@
+---
+topic_id: 36851
+title: "Hololens 2 And Vr Extension"
+date: 2024-06-17
+url: https://discourse.slicer.org/t/36851
+---
+
 # HoloLens 2 and VR extension
 
 **Topic ID**: 36851

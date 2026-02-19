@@ -1,3 +1,10 @@
+---
+topic_id: 6575
+title: "Image Visibility Issue"
+date: 2019-04-23
+url: https://discourse.slicer.org/t/6575
+---
+
 # Image visibility issue
 
 **Topic ID**: 6575

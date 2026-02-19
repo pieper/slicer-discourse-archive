@@ -1,3 +1,10 @@
+---
+topic_id: 1361
+title: "Manual Crop How To Do It Correctly"
+date: 2017-11-03
+url: https://discourse.slicer.org/t/1361
+---
+
 # Manual Crop how to do it correctly
 
 **Topic ID**: 1361

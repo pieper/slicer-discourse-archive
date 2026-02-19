@@ -1,3 +1,10 @@
+---
+topic_id: 24001
+title: "Slicerfab Doesnt Work Properly In 5 0 2"
+date: 2022-06-23
+url: https://discourse.slicer.org/t/24001
+---
+
 # SlicerFab doesnt work properly in 5.0.2
 
 **Topic ID**: 24001

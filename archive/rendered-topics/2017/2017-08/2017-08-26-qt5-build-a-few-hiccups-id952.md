@@ -1,3 +1,10 @@
+---
+topic_id: 952
+title: "Qt5 Build A Few Hiccups"
+date: 2017-08-26
+url: https://discourse.slicer.org/t/952
+---
+
 # Qt5 build : a few hiccups
 
 **Topic ID**: 952

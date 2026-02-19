@@ -1,3 +1,10 @@
+---
+topic_id: 24242
+title: "Unable To Create 3 Model From Mri"
+date: 2022-07-08
+url: https://discourse.slicer.org/t/24242
+---
+
 # Unable to create 3 model from MRI
 
 **Topic ID**: 24242

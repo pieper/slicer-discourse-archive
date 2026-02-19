@@ -1,3 +1,10 @@
+---
+topic_id: 13100
+title: "Multivolume With Python Script"
+date: 2020-08-20
+url: https://discourse.slicer.org/t/13100
+---
+
 # MultiVolume with python script
 
 **Topic ID**: 13100

@@ -1,3 +1,10 @@
+---
+topic_id: 15912
+title: "Copy Segment From Segmentation Failing"
+date: 2021-02-09
+url: https://discourse.slicer.org/t/15912
+---
+
 # Copy Segment from Segmentation Failing
 
 **Topic ID**: 15912

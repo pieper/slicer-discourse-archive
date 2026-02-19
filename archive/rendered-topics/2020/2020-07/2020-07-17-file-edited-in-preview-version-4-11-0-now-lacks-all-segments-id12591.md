@@ -1,3 +1,10 @@
+---
+topic_id: 12591
+title: "File Edited In Preview Version 4 11 0 Now Lacks All Segments"
+date: 2020-07-17
+url: https://discourse.slicer.org/t/12591
+---
+
 # File edited in preview version 4.11.0 now lacks all segments. Please help!
 
 **Topic ID**: 12591

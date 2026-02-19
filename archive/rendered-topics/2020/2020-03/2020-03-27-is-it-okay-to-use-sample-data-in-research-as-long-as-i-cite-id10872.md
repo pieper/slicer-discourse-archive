@@ -1,3 +1,10 @@
+---
+topic_id: 10872
+title: "Is It Okay To Use Sample Data In Research As Long As I Cite"
+date: 2020-03-27
+url: https://discourse.slicer.org/t/10872
+---
+
 # Is it okay to use sample data in research, as long as I cite?
 
 **Topic ID**: 10872

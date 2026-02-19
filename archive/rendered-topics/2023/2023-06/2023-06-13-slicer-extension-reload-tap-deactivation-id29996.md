@@ -1,3 +1,10 @@
+---
+topic_id: 29996
+title: "Slicer Extension Reload Tap Deactivation"
+date: 2023-06-13
+url: https://discourse.slicer.org/t/29996
+---
+
 # Slicer extension 'reload' tap deactivation?
 
 **Topic ID**: 29996

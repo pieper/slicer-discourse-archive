@@ -1,3 +1,10 @@
+---
+topic_id: 16429
+title: "Merge Into Single File Checkbox Value Not Used 4 13 0 2021 0"
+date: 2021-03-08
+url: https://discourse.slicer.org/t/16429
+---
+
 # "Merge into single file" checkbox value not used? (4.13.0-2021-02-17)
 
 **Topic ID**: 16429

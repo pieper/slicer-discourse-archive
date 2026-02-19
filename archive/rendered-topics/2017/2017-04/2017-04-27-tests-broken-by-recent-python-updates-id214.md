@@ -1,3 +1,10 @@
+---
+topic_id: 214
+title: "Tests Broken By Recent Python Updates"
+date: 2017-04-27
+url: https://discourse.slicer.org/t/214
+---
+
 # Tests broken by recent Python updates
 
 **Topic ID**: 214

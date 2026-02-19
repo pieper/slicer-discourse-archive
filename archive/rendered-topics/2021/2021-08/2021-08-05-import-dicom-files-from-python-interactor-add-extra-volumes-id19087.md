@@ -1,3 +1,10 @@
+---
+topic_id: 19087
+title: "Import Dicom Files From Python Interactor Add Extra Volumes"
+date: 2021-08-05
+url: https://discourse.slicer.org/t/19087
+---
+
 # Import DICOM files from python interactor add extra volumes and nodes
 
 **Topic ID**: 19087

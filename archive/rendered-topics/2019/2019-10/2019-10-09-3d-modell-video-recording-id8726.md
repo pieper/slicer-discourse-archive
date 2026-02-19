@@ -1,3 +1,10 @@
+---
+topic_id: 8726
+title: "3D Modell Video Recording"
+date: 2019-10-09
+url: https://discourse.slicer.org/t/8726
+---
+
 # 3D modell video recording
 
 **Topic ID**: 8726

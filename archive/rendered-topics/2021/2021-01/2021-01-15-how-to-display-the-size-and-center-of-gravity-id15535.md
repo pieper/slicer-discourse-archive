@@ -1,3 +1,10 @@
+---
+topic_id: 15535
+title: "How To Display The Size And Center Of Gravity"
+date: 2021-01-15
+url: https://discourse.slicer.org/t/15535
+---
+
 # How to display the size and center of gravity
 
 **Topic ID**: 15535

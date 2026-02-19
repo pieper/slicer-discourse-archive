@@ -1,3 +1,10 @@
+---
+topic_id: 757
+title: "Runtime Warning On Startup In Numpy"
+date: 2017-07-24
+url: https://discourse.slicer.org/t/757
+---
+
 # Runtime warning on startup in numpy
 
 **Topic ID**: 757

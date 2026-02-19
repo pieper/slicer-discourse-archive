@@ -1,3 +1,10 @@
+---
+topic_id: 15378
+title: "Error In Exporting Tiff Images To Dicom"
+date: 2021-01-06
+url: https://discourse.slicer.org/t/15378
+---
+
 # Error in exporting .tiff images to DICOM
 
 **Topic ID**: 15378

@@ -1,3 +1,10 @@
+---
+topic_id: 33619
+title: "Create Stl File From Segments"
+date: 2024-01-04
+url: https://discourse.slicer.org/t/33619
+---
+
 # Create .stl file from segments
 
 **Topic ID**: 33619

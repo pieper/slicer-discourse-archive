@@ -1,3 +1,10 @@
+---
+topic_id: 33880
+title: "Decimal Places In Input Fields"
+date: 2024-01-20
+url: https://discourse.slicer.org/t/33880
+---
+
 # Decimal places in input fields
 
 **Topic ID**: 33880

@@ -1,3 +1,10 @@
+---
+topic_id: 34511
+title: "Support Python Text Highlighting In Text Module"
+date: 2024-02-24
+url: https://discourse.slicer.org/t/34511
+---
+
 # Support python text highlighting in Text module
 
 **Topic ID**: 34511

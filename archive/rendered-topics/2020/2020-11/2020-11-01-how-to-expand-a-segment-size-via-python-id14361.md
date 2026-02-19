@@ -1,3 +1,10 @@
+---
+topic_id: 14361
+title: "How To Expand A Segment Size Via Python"
+date: 2020-11-01
+url: https://discourse.slicer.org/t/14361
+---
+
 # How to expand a segment size via Python
 
 **Topic ID**: 14361

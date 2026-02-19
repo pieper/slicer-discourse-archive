@@ -1,3 +1,10 @@
+---
+topic_id: 25019
+title: "Is There Has A Algorithm To Find The Longgest Axis In A Mode"
+date: 2022-08-31
+url: https://discourse.slicer.org/t/25019
+---
+
 # Is there has a algorithm to find the longgest axis in a model
 
 **Topic ID**: 25019

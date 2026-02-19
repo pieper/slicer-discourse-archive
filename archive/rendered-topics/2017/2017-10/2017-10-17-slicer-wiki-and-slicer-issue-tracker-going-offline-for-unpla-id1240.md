@@ -1,3 +1,10 @@
+---
+topic_id: 1240
+title: "Slicer Wiki And Slicer Issue Tracker Going Offline For Unpla"
+date: 2017-10-17
+url: https://discourse.slicer.org/t/1240
+---
+
 # Slicer Wiki and Slicer Issue Tracker going offline for unplanned maintenance
 
 **Topic ID**: 1240

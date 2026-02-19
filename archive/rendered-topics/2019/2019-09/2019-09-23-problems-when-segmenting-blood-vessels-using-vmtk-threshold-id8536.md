@@ -1,3 +1,10 @@
+---
+topic_id: 8536
+title: "Problems When Segmenting Blood Vessels Using Vmtk Threshold"
+date: 2019-09-23
+url: https://discourse.slicer.org/t/8536
+---
+
 # Problems when segmenting blood vessels using VMTK (threshold)
 
 **Topic ID**: 8536

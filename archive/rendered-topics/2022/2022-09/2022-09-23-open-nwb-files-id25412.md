@@ -1,3 +1,10 @@
+---
+topic_id: 25412
+title: "Open Nwb Files"
+date: 2022-09-23
+url: https://discourse.slicer.org/t/25412
+---
+
 # Open NWB files?
 
 **Topic ID**: 25412

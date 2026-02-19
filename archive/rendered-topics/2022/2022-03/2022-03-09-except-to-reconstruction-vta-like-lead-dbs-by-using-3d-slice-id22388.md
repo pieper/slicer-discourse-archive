@@ -1,3 +1,10 @@
+---
+topic_id: 22388
+title: "Except To Reconstruction Vta Like Lead Dbs By Using 3D Slice"
+date: 2022-03-09
+url: https://discourse.slicer.org/t/22388
+---
+
 # Except to reconstruction VTA like LEAD-DBS by using 3D Slicer model NetStim
 
 **Topic ID**: 22388

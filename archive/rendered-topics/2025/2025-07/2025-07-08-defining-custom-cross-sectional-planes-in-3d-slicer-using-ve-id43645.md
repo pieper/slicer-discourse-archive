@@ -1,3 +1,10 @@
+---
+topic_id: 43645
+title: "Defining Custom Cross Sectional Planes In 3D Slicer Using Ve"
+date: 2025-07-08
+url: https://discourse.slicer.org/t/43645
+---
+
 # Defining Custom Cross-Sectional Planes in 3D Slicer Using Vectors
 
 **Topic ID**: 43645

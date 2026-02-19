@@ -1,3 +1,10 @@
+---
+topic_id: 4528
+title: "Unable To Load Freesurfer Surface In Slicer 4 10 Stable And"
+date: 2018-10-25
+url: https://discourse.slicer.org/t/4528
+---
+
 # Unable to load freesurfer surface in Slicer 4.10 stable and also in 4.11 nightly
 
 **Topic ID**: 4528

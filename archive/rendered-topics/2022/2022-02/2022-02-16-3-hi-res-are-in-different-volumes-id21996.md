@@ -1,3 +1,10 @@
+---
+topic_id: 21996
+title: "3 Hi Res Are In Different Volumes"
+date: 2022-02-16
+url: https://discourse.slicer.org/t/21996
+---
+
 # 3 Hi Res are in different volumes
 
 **Topic ID**: 21996

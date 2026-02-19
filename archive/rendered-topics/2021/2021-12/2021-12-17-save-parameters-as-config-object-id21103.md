@@ -1,3 +1,10 @@
+---
+topic_id: 21103
+title: "Save Parameters As Config Object"
+date: 2021-12-17
+url: https://discourse.slicer.org/t/21103
+---
+
 # Save parameters as config object
 
 **Topic ID**: 21103

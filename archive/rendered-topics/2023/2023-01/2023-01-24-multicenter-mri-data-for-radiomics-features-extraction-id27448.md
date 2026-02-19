@@ -1,3 +1,10 @@
+---
+topic_id: 27448
+title: "Multicenter Mri Data For Radiomics Features Extraction"
+date: 2023-01-24
+url: https://discourse.slicer.org/t/27448
+---
+
 # Multicenter MRI data for radiomics features extraction
 
 **Topic ID**: 27448

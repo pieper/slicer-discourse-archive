@@ -1,3 +1,10 @@
+---
+topic_id: 20920
+title: "Calculating The Axes Of The Ellipsoid Part Of The Shape From"
+date: 2021-12-05
+url: https://discourse.slicer.org/t/20920
+---
+
 # Calculating the axes of the ellipsoid part of the shape from l=1 coefficients
 
 **Topic ID**: 20920

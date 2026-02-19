@@ -1,3 +1,10 @@
+---
+topic_id: 12919
+title: "Cleanup Segmentations"
+date: 2020-08-09
+url: https://discourse.slicer.org/t/12919
+---
+
 # CleanUp segmentations
 
 **Topic ID**: 12919

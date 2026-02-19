@@ -1,3 +1,10 @@
+---
+topic_id: 31860
+title: "Transform Using Translation Rotation Bars Vs 3D View Interac"
+date: 2023-09-23
+url: https://discourse.slicer.org/t/31860
+---
+
 # Transform using translation-rotation bars vs 3D view interaction
 
 **Topic ID**: 31860

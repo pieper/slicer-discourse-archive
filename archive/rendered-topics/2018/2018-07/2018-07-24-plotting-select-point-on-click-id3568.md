@@ -1,3 +1,10 @@
+---
+topic_id: 3568
+title: "Plotting Select Point On Click"
+date: 2018-07-24
+url: https://discourse.slicer.org/t/3568
+---
+
 # Plotting: select point on click?
 
 **Topic ID**: 3568

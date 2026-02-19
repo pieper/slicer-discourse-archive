@@ -1,3 +1,10 @@
+---
+topic_id: 30270
+title: "Time Navigation Not Anymore Possible After Coming Back In A"
+date: 2023-06-28
+url: https://discourse.slicer.org/t/30270
+---
+
 # time navigation not anymore possible after coming back in a saved mitral valve tracing from a 3DE loop
 
 **Topic ID**: 30270

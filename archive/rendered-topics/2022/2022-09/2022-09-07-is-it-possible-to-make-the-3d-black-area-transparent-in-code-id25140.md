@@ -1,3 +1,10 @@
+---
+topic_id: 25140
+title: "Is It Possible To Make The 3D Black Area Transparent In Code"
+date: 2022-09-07
+url: https://discourse.slicer.org/t/25140
+---
+
 # Is it possible to make the 3d black area transparent in code?
 
 **Topic ID**: 25140

@@ -1,3 +1,10 @@
+---
+topic_id: 27285
+title: "Private Extension My Own Python Code"
+date: 2023-01-17
+url: https://discourse.slicer.org/t/27285
+---
+
 # Private Extension my own python code
 
 **Topic ID**: 27285

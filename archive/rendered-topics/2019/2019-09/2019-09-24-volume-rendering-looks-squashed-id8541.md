@@ -1,3 +1,10 @@
+---
+topic_id: 8541
+title: "Volume Rendering Looks Squashed"
+date: 2019-09-24
+url: https://discourse.slicer.org/t/8541
+---
+
 # Volume rendering looks squashed
 
 **Topic ID**: 8541

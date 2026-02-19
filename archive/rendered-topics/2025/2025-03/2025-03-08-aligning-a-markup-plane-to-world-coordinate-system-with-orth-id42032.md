@@ -1,3 +1,10 @@
+---
+topic_id: 42032
+title: "Aligning A Markup Plane To World Coordinate System With Orth"
+date: 2025-03-08
+url: https://discourse.slicer.org/t/42032
+---
+
 # Aligning a markup plane to world coordinate system, with orthogonal planes
 
 **Topic ID**: 42032

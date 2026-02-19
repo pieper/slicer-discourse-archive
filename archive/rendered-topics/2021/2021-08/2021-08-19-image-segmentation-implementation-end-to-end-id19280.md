@@ -1,3 +1,10 @@
+---
+topic_id: 19280
+title: "Image Segmentation Implementation End To End"
+date: 2021-08-19
+url: https://discourse.slicer.org/t/19280
+---
+
 # Image segmentation implementation end to end
 
 **Topic ID**: 19280

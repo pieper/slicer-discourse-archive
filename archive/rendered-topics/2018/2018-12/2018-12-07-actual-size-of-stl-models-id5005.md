@@ -1,3 +1,10 @@
+---
+topic_id: 5005
+title: "Actual Size Of Stl Models"
+date: 2018-12-07
+url: https://discourse.slicer.org/t/5005
+---
+
 # Actual size of stl models
 
 **Topic ID**: 5005

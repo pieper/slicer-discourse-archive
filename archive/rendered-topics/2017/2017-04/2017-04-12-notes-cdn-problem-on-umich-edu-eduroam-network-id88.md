@@ -1,3 +1,10 @@
+---
+topic_id: 88
+title: "Notes Cdn Problem On Umich Edu Eduroam Network"
+date: 2017-04-12
+url: https://discourse.slicer.org/t/88
+---
+
 # [notes] CDN problem on umich.edu eduroam network
 
 **Topic ID**: 88

@@ -1,3 +1,10 @@
+---
+topic_id: 43796
+title: "How To Check And Custmize Label Value Of The Segmentation"
+date: 2025-07-21
+url: https://discourse.slicer.org/t/43796
+---
+
 # How to check and custmize label value of the segmentation?
 
 **Topic ID**: 43796

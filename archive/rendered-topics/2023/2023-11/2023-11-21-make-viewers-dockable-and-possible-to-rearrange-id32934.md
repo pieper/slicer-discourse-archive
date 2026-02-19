@@ -1,3 +1,10 @@
+---
+topic_id: 32934
+title: "Make Viewers Dockable And Possible To Rearrange"
+date: 2023-11-21
+url: https://discourse.slicer.org/t/32934
+---
+
 # Make viewers dockable and possible to rearrange
 
 **Topic ID**: 32934

@@ -1,3 +1,10 @@
+---
+topic_id: 11174
+title: "Can I Convert This Arrays In Slicer"
+date: 2020-04-18
+url: https://discourse.slicer.org/t/11174
+---
+
 # Can I convert this arrays in slicer?
 
 **Topic ID**: 11174

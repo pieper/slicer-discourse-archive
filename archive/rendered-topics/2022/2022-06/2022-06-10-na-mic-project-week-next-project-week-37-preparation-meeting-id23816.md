@@ -1,3 +1,10 @@
+---
+topic_id: 23816
+title: "Na Mic Project Week Next Project Week 37 Preparation Meeting"
+date: 2022-06-10
+url: https://discourse.slicer.org/t/23816
+---
+
 # [Na-mic-project-week] Next Project Week 37 preparation meeting - Tuesday June 14th
 
 **Topic ID**: 23816

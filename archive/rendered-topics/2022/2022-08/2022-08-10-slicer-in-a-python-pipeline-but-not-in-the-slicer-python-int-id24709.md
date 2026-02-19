@@ -1,3 +1,10 @@
+---
+topic_id: 24709
+title: "Slicer In A Python Pipeline But Not In The Slicer Python Int"
+date: 2022-08-10
+url: https://discourse.slicer.org/t/24709
+---
+
 # Slicer in a python pipeline (but not in the slicer python interpretor)
 
 **Topic ID**: 24709

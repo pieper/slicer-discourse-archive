@@ -1,3 +1,10 @@
+---
+topic_id: 16237
+title: "How To Map Distances Between Joint Areas In Contact Using 3D"
+date: 2021-02-26
+url: https://discourse.slicer.org/t/16237
+---
+
 # How to map distances between joint areas in contact using 3D Slicer version 4.11.2?
 
 **Topic ID**: 16237

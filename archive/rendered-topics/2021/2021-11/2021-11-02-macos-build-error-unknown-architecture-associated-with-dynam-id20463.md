@@ -1,3 +1,10 @@
+---
+topic_id: 20463
+title: "Macos Build Error Unknown Architecture Associated With Dynam"
+date: 2021-11-02
+url: https://discourse.slicer.org/t/20463
+---
+
 # macOS build #error "Unknown architecture !" associated with DynamicModeler/Logic/FastMarching
 
 **Topic ID**: 20463

@@ -1,3 +1,10 @@
+---
+topic_id: 24499
+title: "Tracked Ultrasound With External Image Data Adjustments Matl"
+date: 2022-07-26
+url: https://discourse.slicer.org/t/24499
+---
+
 # Tracked-Ultrasound with external image data adjustments [Matlab]
 
 **Topic ID**: 24499

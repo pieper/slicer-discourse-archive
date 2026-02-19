@@ -1,3 +1,10 @@
+---
+topic_id: 12446
+title: "Slicer Crashes On Show3D In Segmenteditor"
+date: 2020-07-08
+url: https://discourse.slicer.org/t/12446
+---
+
 # Slicer crashes on Show3D in SegmentEditor
 
 **Topic ID**: 12446

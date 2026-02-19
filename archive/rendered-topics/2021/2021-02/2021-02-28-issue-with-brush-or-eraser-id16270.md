@@ -1,3 +1,10 @@
+---
+topic_id: 16270
+title: "Issue With Brush Or Eraser"
+date: 2021-02-28
+url: https://discourse.slicer.org/t/16270
+---
+
 # Issue with brush or eraser
 
 **Topic ID**: 16270

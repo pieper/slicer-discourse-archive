@@ -1,3 +1,10 @@
+---
+topic_id: 20232
+title: "Normalization Of Mri Images To 1"
+date: 2021-10-19
+url: https://discourse.slicer.org/t/20232
+---
+
 # Normalization of MRI images to 1
 
 **Topic ID**: 20232

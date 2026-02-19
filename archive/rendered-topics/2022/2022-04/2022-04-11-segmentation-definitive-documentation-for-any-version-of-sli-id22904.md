@@ -1,3 +1,10 @@
+---
+topic_id: 22904
+title: "Segmentation Definitive Documentation For Any Version Of Sli"
+date: 2022-04-11
+url: https://discourse.slicer.org/t/22904
+---
+
 # Segmentation: Definitive documentation for any version of Slicer?
 
 **Topic ID**: 22904

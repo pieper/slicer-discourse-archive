@@ -1,3 +1,10 @@
+---
+topic_id: 2384
+title: "Sorting And Toggling Visibility Of All Nodes In Subject Hier"
+date: 2018-03-21
+url: https://discourse.slicer.org/t/2384
+---
+
 # Sorting and toggling visibility of all nodes in Subject hierarchy tab
 
 **Topic ID**: 2384

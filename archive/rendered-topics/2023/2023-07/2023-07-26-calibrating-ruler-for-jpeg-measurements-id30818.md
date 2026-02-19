@@ -1,3 +1,10 @@
+---
+topic_id: 30818
+title: "Calibrating Ruler For Jpeg Measurements"
+date: 2023-07-26
+url: https://discourse.slicer.org/t/30818
+---
+
 # Calibrating Ruler for JPEG Measurements
 
 **Topic ID**: 30818

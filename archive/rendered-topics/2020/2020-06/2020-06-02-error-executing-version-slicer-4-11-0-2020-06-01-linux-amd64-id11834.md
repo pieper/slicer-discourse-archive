@@ -1,3 +1,10 @@
+---
+topic_id: 11834
+title: "Error Executing Version Slicer 4 11 0 2020 06 01 Linux Amd64"
+date: 2020-06-02
+url: https://discourse.slicer.org/t/11834
+---
+
 # Error executing version Slicer-4.11.0-2020-06-01-linux-amd64.tar.gz on Ubuntu 16.04
 
 **Topic ID**: 11834

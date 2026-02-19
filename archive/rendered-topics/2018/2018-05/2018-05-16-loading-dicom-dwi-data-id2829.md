@@ -1,3 +1,10 @@
+---
+topic_id: 2829
+title: "Loading Dicom Dwi Data"
+date: 2018-05-16
+url: https://discourse.slicer.org/t/2829
+---
+
 # Loading DICOM DWI Data
 
 **Topic ID**: 2829

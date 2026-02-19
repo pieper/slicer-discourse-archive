@@ -1,3 +1,10 @@
+---
+topic_id: 26802
+title: "Totalsegmentator Problem Macbook M1 Max"
+date: 2022-12-18
+url: https://discourse.slicer.org/t/26802
+---
+
 # TotalSegmentator problem - Macbook M1 Max
 
 **Topic ID**: 26802

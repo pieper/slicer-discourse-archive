@@ -1,3 +1,10 @@
+---
+topic_id: 26941
+title: "Clipping Tractography Fibers"
+date: 2022-12-27
+url: https://discourse.slicer.org/t/26941
+---
+
 # Clipping Tractography fibers
 
 **Topic ID**: 26941

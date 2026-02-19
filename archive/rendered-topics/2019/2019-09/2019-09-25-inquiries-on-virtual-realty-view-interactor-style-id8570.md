@@ -1,3 +1,10 @@
+---
+topic_id: 8570
+title: "Inquiries On Virtual Realty View Interactor Style"
+date: 2019-09-25
+url: https://discourse.slicer.org/t/8570
+---
+
 # Inquiries on Virtual Realty View Interactor Style
 
 **Topic ID**: 8570

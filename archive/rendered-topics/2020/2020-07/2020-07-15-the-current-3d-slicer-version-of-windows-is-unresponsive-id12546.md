@@ -1,3 +1,10 @@
+---
+topic_id: 12546
+title: "The Current 3D Slicer Version Of Windows Is Unresponsive"
+date: 2020-07-15
+url: https://discourse.slicer.org/t/12546
+---
+
 # The current 3D slicer version of Windows is unresponsive
 
 **Topic ID**: 12546

@@ -1,3 +1,10 @@
+---
+topic_id: 4648
+title: "Dose Accumulation Weighting Slicerrt"
+date: 2018-11-06
+url: https://discourse.slicer.org/t/4648
+---
+
 # Dose accumulation weighting SlicerRT
 
 **Topic ID**: 4648

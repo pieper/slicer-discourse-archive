@@ -1,3 +1,10 @@
+---
+topic_id: 19771
+title: "Custom Qmrmlslicewidget And Segment Editor"
+date: 2021-09-20
+url: https://discourse.slicer.org/t/19771
+---
+
 # Custom qMRMLSliceWidget and segment editor
 
 **Topic ID**: 19771

@@ -1,3 +1,10 @@
+---
+topic_id: 8404
+title: "Extensions Will Be Late Today Update On Build System"
+date: 2019-09-12
+url: https://discourse.slicer.org/t/8404
+---
+
 # Extensions will be late today - update on build system
 
 **Topic ID**: 8404

@@ -1,3 +1,10 @@
+---
+topic_id: 25791
+title: "How To Get A Linear Or Affine Transform From Elastix"
+date: 2022-10-20
+url: https://discourse.slicer.org/t/25791
+---
+
 # How to get a linear or affine transform from Elastix?
 
 **Topic ID**: 25791

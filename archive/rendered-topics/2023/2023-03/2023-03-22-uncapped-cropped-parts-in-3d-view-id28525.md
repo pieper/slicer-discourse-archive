@@ -1,3 +1,10 @@
+---
+topic_id: 28525
+title: "Uncapped Cropped Parts In 3D View"
+date: 2023-03-22
+url: https://discourse.slicer.org/t/28525
+---
+
 # Uncapped Cropped Parts in 3D View
 
 **Topic ID**: 28525

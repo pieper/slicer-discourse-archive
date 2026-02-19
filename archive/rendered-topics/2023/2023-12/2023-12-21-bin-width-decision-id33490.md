@@ -1,3 +1,10 @@
+---
+topic_id: 33490
+title: "Bin Width Decision"
+date: 2023-12-21
+url: https://discourse.slicer.org/t/33490
+---
+
 # Bin width decision
 
 **Topic ID**: 33490

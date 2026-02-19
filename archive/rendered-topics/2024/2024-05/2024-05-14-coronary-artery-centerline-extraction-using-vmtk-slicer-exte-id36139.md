@@ -1,3 +1,10 @@
+---
+topic_id: 36139
+title: "Coronary Artery Centerline Extraction Using Vmtk Slicer Exte"
+date: 2024-05-14
+url: https://discourse.slicer.org/t/36139
+---
+
 # Coronary artery centerline extraction using VMTK slicer extension
 
 **Topic ID**: 36139

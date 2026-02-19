@@ -1,3 +1,10 @@
+---
+topic_id: 5278
+title: "What Input Does Slicer Take"
+date: 2019-01-05
+url: https://discourse.slicer.org/t/5278
+---
+
 # What input does slicer take?
 
 **Topic ID**: 5278

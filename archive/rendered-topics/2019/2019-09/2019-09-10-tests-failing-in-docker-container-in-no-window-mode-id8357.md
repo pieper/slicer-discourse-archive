@@ -1,3 +1,10 @@
+---
+topic_id: 8357
+title: "Tests Failing In Docker Container In No Window Mode"
+date: 2019-09-10
+url: https://discourse.slicer.org/t/8357
+---
+
 # Tests failing in docker container in no window mode
 
 **Topic ID**: 8357

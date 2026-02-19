@@ -1,3 +1,10 @@
+---
+topic_id: 41166
+title: "Surface Area Of Adjacent Segments"
+date: 2025-01-20
+url: https://discourse.slicer.org/t/41166
+---
+
 # Surface area of adjacent segments
 
 **Topic ID**: 41166

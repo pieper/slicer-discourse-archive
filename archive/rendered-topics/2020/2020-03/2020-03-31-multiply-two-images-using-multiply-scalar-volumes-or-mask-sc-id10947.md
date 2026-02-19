@@ -1,3 +1,10 @@
+---
+topic_id: 10947
+title: "Multiply Two Images Using Multiply Scalar Volumes Or Mask Sc"
+date: 2020-03-31
+url: https://discourse.slicer.org/t/10947
+---
+
 # Multiply two images using "Multiply Scalar Volumes" or "Mask Scalar Volume" and save the resulting image (using Python)
 
 **Topic ID**: 10947

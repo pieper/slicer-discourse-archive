@@ -1,3 +1,10 @@
+---
+topic_id: 12071
+title: "Question On Using Scissors"
+date: 2020-06-17
+url: https://discourse.slicer.org/t/12071
+---
+
 # Question on using Scissors
 
 **Topic ID**: 12071

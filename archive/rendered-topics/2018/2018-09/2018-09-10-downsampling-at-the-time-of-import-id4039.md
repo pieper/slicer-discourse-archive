@@ -1,3 +1,10 @@
+---
+topic_id: 4039
+title: "Downsampling At The Time Of Import"
+date: 2018-09-10
+url: https://discourse.slicer.org/t/4039
+---
+
 # Downsampling at the time of import
 
 **Topic ID**: 4039

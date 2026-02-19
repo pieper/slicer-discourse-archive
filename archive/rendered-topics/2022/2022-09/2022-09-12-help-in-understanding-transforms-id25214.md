@@ -1,3 +1,10 @@
+---
+topic_id: 25214
+title: "Help In Understanding Transforms"
+date: 2022-09-12
+url: https://discourse.slicer.org/t/25214
+---
+
 # Help in understanding Transforms
 
 **Topic ID**: 25214

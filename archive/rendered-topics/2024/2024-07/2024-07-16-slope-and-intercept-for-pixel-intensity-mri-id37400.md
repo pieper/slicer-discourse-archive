@@ -1,3 +1,10 @@
+---
+topic_id: 37400
+title: "Slope And Intercept For Pixel Intensity Mri"
+date: 2024-07-16
+url: https://discourse.slicer.org/t/37400
+---
+
 # Slope and intercept for pixel intensity MRI
 
 **Topic ID**: 37400

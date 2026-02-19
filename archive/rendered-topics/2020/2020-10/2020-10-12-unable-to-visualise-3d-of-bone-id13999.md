@@ -1,3 +1,10 @@
+---
+topic_id: 13999
+title: "Unable To Visualise 3D Of Bone"
+date: 2020-10-12
+url: https://discourse.slicer.org/t/13999
+---
+
 # Unable to visualise 3D of bone
 
 **Topic ID**: 13999

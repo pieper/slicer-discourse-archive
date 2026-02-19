@@ -1,3 +1,10 @@
+---
+topic_id: 30349
+title: "Lung Rois In Lungctanalyzer"
+date: 2023-07-02
+url: https://discourse.slicer.org/t/30349
+---
+
 # Lung ROIs in LungCTAnalyzer
 
 **Topic ID**: 30349

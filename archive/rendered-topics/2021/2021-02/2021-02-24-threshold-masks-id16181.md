@@ -1,3 +1,10 @@
+---
+topic_id: 16181
+title: "Threshold Masks"
+date: 2021-02-24
+url: https://discourse.slicer.org/t/16181
+---
+
 # threshold masks 
 
 **Topic ID**: 16181

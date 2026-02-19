@@ -1,3 +1,10 @@
+---
+topic_id: 5728
+title: "3D Small Bowel Model"
+date: 2019-02-11
+url: https://discourse.slicer.org/t/5728
+---
+
 # 3d small bowel model
 
 **Topic ID**: 5728

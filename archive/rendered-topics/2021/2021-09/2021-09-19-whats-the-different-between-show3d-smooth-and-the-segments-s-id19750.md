@@ -1,3 +1,10 @@
+---
+topic_id: 19750
+title: "Whats The Different Between Show3D Smooth And The Segments S"
+date: 2021-09-19
+url: https://discourse.slicer.org/t/19750
+---
+
 # What's the different between show3D smooth and the segment's smooth?
 
 **Topic ID**: 19750

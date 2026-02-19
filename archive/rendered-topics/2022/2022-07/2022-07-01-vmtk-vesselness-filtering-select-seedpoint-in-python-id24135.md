@@ -1,3 +1,10 @@
+---
+topic_id: 24135
+title: "Vmtk Vesselness Filtering Select Seedpoint In Python"
+date: 2022-07-01
+url: https://discourse.slicer.org/t/24135
+---
+
 # Vmtk Vesselness Filtering: select seedpoint in Python
 
 **Topic ID**: 24135

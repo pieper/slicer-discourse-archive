@@ -1,3 +1,10 @@
+---
+topic_id: 15138
+title: "How To Get A Small Resampled Plane Slice Given A Point A Nor"
+date: 2020-12-18
+url: https://discourse.slicer.org/t/15138
+---
+
 # How to get a small resampled plane slice given a point, a normal, and slice dimensions?
 
 **Topic ID**: 15138

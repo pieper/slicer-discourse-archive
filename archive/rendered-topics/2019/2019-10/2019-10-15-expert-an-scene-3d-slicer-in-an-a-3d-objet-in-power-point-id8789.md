@@ -1,3 +1,10 @@
+---
+topic_id: 8789
+title: "Expert An Scene 3D Slicer In An A 3D Objet In Power Point"
+date: 2019-10-15
+url: https://discourse.slicer.org/t/8789
+---
+
 # expert an scene 3d slicer in an a 3d objet in power point
 
 **Topic ID**: 8789

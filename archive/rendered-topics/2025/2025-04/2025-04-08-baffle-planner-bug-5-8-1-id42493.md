@@ -1,3 +1,10 @@
+---
+topic_id: 42493
+title: "Baffle Planner Bug 5 8 1"
+date: 2025-04-08
+url: https://discourse.slicer.org/t/42493
+---
+
 # Baffle Planner Bug (5.8.1)
 
 **Topic ID**: 42493

@@ -1,3 +1,10 @@
+---
+topic_id: 922
+title: "Slicer Dicom Import Performance"
+date: 2017-08-22
+url: https://discourse.slicer.org/t/922
+---
+
 # Slicer DICOM import performance
 
 **Topic ID**: 922

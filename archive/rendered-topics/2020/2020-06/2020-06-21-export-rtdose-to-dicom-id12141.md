@@ -1,3 +1,10 @@
+---
+topic_id: 12141
+title: "Export Rtdose To Dicom"
+date: 2020-06-21
+url: https://discourse.slicer.org/t/12141
+---
+
 # Export RTDOSE to DICOM
 
 **Topic ID**: 12141

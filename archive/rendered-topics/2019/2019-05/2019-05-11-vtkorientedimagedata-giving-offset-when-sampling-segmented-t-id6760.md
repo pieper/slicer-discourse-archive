@@ -1,3 +1,10 @@
+---
+topic_id: 6760
+title: "Vtkorientedimagedata Giving Offset When Sampling Segmented T"
+date: 2019-05-11
+url: https://discourse.slicer.org/t/6760
+---
+
 # vtkOrientedImageData giving offset when sampling segmented tumor volume
 
 **Topic ID**: 6760

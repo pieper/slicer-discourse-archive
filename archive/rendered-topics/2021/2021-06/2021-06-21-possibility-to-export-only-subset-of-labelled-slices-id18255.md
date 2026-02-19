@@ -1,3 +1,10 @@
+---
+topic_id: 18255
+title: "Possibility To Export Only Subset Of Labelled Slices"
+date: 2021-06-21
+url: https://discourse.slicer.org/t/18255
+---
+
 # Possibility to export only subset of labelled slices?
 
 **Topic ID**: 18255

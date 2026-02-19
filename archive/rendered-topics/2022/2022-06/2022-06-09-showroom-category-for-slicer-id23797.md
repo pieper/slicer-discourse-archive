@@ -1,3 +1,10 @@
+---
+topic_id: 23797
+title: "Showroom Category For Slicer"
+date: 2022-06-09
+url: https://discourse.slicer.org/t/23797
+---
+
 # Showroom category for Slicer
 
 **Topic ID**: 23797

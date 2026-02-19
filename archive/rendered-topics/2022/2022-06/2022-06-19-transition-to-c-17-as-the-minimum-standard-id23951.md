@@ -1,3 +1,10 @@
+---
+topic_id: 23951
+title: "Transition To C 17 As The Minimum Standard"
+date: 2022-06-19
+url: https://discourse.slicer.org/t/23951
+---
+
 # Transition to C++17 as the minimum standard
 
 **Topic ID**: 23951

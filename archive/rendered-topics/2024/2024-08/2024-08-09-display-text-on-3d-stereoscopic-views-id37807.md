@@ -1,3 +1,10 @@
+---
+topic_id: 37807
+title: "Display Text On 3D Stereoscopic Views"
+date: 2024-08-09
+url: https://discourse.slicer.org/t/37807
+---
+
 # Display text on 3D stereoscopic views
 
 **Topic ID**: 37807

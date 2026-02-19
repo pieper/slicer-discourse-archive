@@ -1,3 +1,10 @@
+---
+topic_id: 12186
+title: "Scripted Cli Module Simplest Set Up"
+date: 2020-06-23
+url: https://discourse.slicer.org/t/12186
+---
+
 # Scripted CLI Module simplest set-up
 
 **Topic ID**: 12186

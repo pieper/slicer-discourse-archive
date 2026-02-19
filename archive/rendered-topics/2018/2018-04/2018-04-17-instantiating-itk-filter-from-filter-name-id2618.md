@@ -1,3 +1,10 @@
+---
+topic_id: 2618
+title: "Instantiating Itk Filter From Filter Name"
+date: 2018-04-17
+url: https://discourse.slicer.org/t/2618
+---
+
 # Instantiating ITK filter from filter name
 
 **Topic ID**: 2618

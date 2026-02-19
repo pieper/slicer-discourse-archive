@@ -1,3 +1,10 @@
+---
+topic_id: 33212
+title: "Experiencing Severe Lag Crashing On A 2023 Mac M2 16Gb"
+date: 2023-12-04
+url: https://discourse.slicer.org/t/33212
+---
+
 # Experiencing severe lag/crashing on a 2023 Mac M2 16GB
 
 **Topic ID**: 33212

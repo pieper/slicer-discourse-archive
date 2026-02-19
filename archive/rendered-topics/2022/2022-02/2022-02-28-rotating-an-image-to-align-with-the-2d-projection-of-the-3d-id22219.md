@@ -1,3 +1,10 @@
+---
+topic_id: 22219
+title: "Rotating An Image To Align With The 2D Projection Of The 3D"
+date: 2022-02-28
+url: https://discourse.slicer.org/t/22219
+---
+
 # Rotating an image to align with the 2D projection of the 3d model
 
 **Topic ID**: 22219

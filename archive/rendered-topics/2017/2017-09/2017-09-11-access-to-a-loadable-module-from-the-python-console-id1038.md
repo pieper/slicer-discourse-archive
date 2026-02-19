@@ -1,3 +1,10 @@
+---
+topic_id: 1038
+title: "Access To A Loadable Module From The Python Console"
+date: 2017-09-11
+url: https://discourse.slicer.org/t/1038
+---
+
 # Access to a loadable module from the python console
 
 **Topic ID**: 1038

@@ -1,3 +1,10 @@
+---
+topic_id: 19264
+title: "The Image Dimension Changes After Segment Editting The Segme"
+date: 2021-08-19
+url: https://discourse.slicer.org/t/19264
+---
+
 # The image dimension changes after segment editting the segment in 3d slicer
 
 **Topic ID**: 19264

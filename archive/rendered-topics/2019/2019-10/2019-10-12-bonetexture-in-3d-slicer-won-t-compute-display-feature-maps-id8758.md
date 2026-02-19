@@ -1,3 +1,10 @@
+---
+topic_id: 8758
+title: "Bonetexture In 3D Slicer Won T Compute Display Feature Maps"
+date: 2019-10-12
+url: https://discourse.slicer.org/t/8758
+---
+
 # Bonetexture in 3D Slicer won’t compute/display feature maps
 
 **Topic ID**: 8758

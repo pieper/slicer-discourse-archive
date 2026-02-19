@@ -1,3 +1,10 @@
+---
+topic_id: 1783
+title: "Cannot Find Snrmeasurement Module In Slicer 4 8 0"
+date: 2018-01-08
+url: https://discourse.slicer.org/t/1783
+---
+
 # Cannot find SNRMeasurement Module in Slicer 4.8.0
 
 **Topic ID**: 1783

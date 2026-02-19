@@ -1,3 +1,10 @@
+---
+topic_id: 1175
+title: "Create And Export 3D 4D Metadata"
+date: 2017-10-05
+url: https://discourse.slicer.org/t/1175
+---
+
 # Create and export 3D/4D metadata
 
 **Topic ID**: 1175

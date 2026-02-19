@@ -1,3 +1,10 @@
+---
+topic_id: 35296
+title: "Inverting Points On Spline"
+date: 2024-04-04
+url: https://discourse.slicer.org/t/35296
+---
+
 # Inverting points on Spline
 
 **Topic ID**: 35296

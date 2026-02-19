@@ -1,3 +1,10 @@
+---
+topic_id: 22719
+title: "Boundary Point Of A Cross Section"
+date: 2022-03-28
+url: https://discourse.slicer.org/t/22719
+---
+
 # Boundary point of a cross-section 
 
 **Topic ID**: 22719

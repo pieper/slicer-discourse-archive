@@ -1,3 +1,10 @@
+---
+topic_id: 21658
+title: "Slicermorph Data Sample Downloading"
+date: 2022-01-27
+url: https://discourse.slicer.org/t/21658
+---
+
 # SlicerMorph Data Sample Downloading
 
 **Topic ID**: 21658

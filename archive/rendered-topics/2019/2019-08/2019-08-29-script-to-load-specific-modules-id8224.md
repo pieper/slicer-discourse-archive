@@ -1,3 +1,10 @@
+---
+topic_id: 8224
+title: "Script To Load Specific Modules"
+date: 2019-08-29
+url: https://discourse.slicer.org/t/8224
+---
+
 # Script to load specific modules
 
 **Topic ID**: 8224

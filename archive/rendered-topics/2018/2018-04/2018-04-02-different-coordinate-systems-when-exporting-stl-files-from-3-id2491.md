@@ -1,3 +1,10 @@
+---
+topic_id: 2491
+title: "Different Coordinate Systems When Exporting Stl Files From 3"
+date: 2018-04-02
+url: https://discourse.slicer.org/t/2491
+---
+
 # Different coordinate systems when exporting stl files from 3D Slicer to matlab
 
 **Topic ID**: 2491

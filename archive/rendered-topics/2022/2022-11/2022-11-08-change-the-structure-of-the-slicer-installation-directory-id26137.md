@@ -1,3 +1,10 @@
+---
+topic_id: 26137
+title: "Change The Structure Of The Slicer Installation Directory"
+date: 2022-11-08
+url: https://discourse.slicer.org/t/26137
+---
+
 # Change the structure of the slicer installation directory
 
 **Topic ID**: 26137

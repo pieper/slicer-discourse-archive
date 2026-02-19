@@ -1,3 +1,10 @@
+---
+topic_id: 16220
+title: "How To Delete Nodes From Scene Before Creating New Nodes Wit"
+date: 2021-02-25
+url: https://discourse.slicer.org/t/16220
+---
+
 # How to delete nodes from scene before creating new nodes with the same name?
 
 **Topic ID**: 16220

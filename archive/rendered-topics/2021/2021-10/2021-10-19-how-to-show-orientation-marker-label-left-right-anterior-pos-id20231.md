@@ -1,3 +1,10 @@
+---
+topic_id: 20231
+title: "How To Show Orientation Marker Label Left Right Anterior Pos"
+date: 2021-10-19
+url: https://discourse.slicer.org/t/20231
+---
+
 # How to show orientation marker/label? (Left/Right/Anterior/Posterior)
 
 **Topic ID**: 20231

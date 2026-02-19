@@ -1,3 +1,10 @@
+---
+topic_id: 35344
+title: "Complex Number Data"
+date: 2024-04-08
+url: https://discourse.slicer.org/t/35344
+---
+
 # Complex-number data
 
 **Topic ID**: 35344

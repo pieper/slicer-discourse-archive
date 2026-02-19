@@ -1,3 +1,10 @@
+---
+topic_id: 20815
+title: "How To Use Segment Editor Effects From Python Script"
+date: 2021-11-28
+url: https://discourse.slicer.org/t/20815
+---
+
 # How to use Segment Editor effects from python script?
 
 **Topic ID**: 20815

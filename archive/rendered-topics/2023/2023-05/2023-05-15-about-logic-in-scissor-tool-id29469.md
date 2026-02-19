@@ -1,3 +1,10 @@
+---
+topic_id: 29469
+title: "About Logic In Scissor Tool"
+date: 2023-05-15
+url: https://discourse.slicer.org/t/29469
+---
+
 # About logic in Scissor tool
 
 **Topic ID**: 29469

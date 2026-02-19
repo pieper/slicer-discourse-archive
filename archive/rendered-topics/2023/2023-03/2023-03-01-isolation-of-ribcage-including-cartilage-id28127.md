@@ -1,3 +1,10 @@
+---
+topic_id: 28127
+title: "Isolation Of Ribcage Including Cartilage"
+date: 2023-03-01
+url: https://discourse.slicer.org/t/28127
+---
+
 # Isolation of ribcage including cartilage.
 
 **Topic ID**: 28127

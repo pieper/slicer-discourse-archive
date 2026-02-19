@@ -1,3 +1,10 @@
+---
+topic_id: 14741
+title: "3D Slicer Capability"
+date: 2020-11-23
+url: https://discourse.slicer.org/t/14741
+---
+
 # 3d slicer capability
 
 **Topic ID**: 14741

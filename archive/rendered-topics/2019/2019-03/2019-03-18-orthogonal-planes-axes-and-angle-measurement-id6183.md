@@ -1,3 +1,10 @@
+---
+topic_id: 6183
+title: "Orthogonal Planes Axes And Angle Measurement"
+date: 2019-03-18
+url: https://discourse.slicer.org/t/6183
+---
+
 # orthogonal planes/axes and angle measurement
 
 **Topic ID**: 6183

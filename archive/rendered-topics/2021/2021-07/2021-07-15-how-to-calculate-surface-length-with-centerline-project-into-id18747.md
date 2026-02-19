@@ -1,3 +1,10 @@
+---
+topic_id: 18747
+title: "How To Calculate Surface Length With Centerline Project Into"
+date: 2021-07-15
+url: https://discourse.slicer.org/t/18747
+---
+
 # How to calculate surface length with centerline project into surface
 
 **Topic ID**: 18747

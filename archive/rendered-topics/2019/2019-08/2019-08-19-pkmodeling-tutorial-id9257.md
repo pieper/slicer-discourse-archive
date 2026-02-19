@@ -1,3 +1,10 @@
+---
+topic_id: 9257
+title: "Pkmodeling Tutorial"
+date: 2019-08-19
+url: https://discourse.slicer.org/t/9257
+---
+
 # PkModeling tutorial
 
 **Topic ID**: 9257

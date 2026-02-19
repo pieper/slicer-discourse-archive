@@ -1,3 +1,10 @@
+---
+topic_id: 31989
+title: "Vagina Segmentation And Reconstruction From Mri Image"
+date: 2023-10-01
+url: https://discourse.slicer.org/t/31989
+---
+
 # Vagina segmentation and reconstruction from MRI image
 
 **Topic ID**: 31989

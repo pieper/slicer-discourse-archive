@@ -1,3 +1,10 @@
+---
+topic_id: 16786
+title: "How To Create Smooth Surface Patch For Fixing Skull Defect"
+date: 2021-03-27
+url: https://discourse.slicer.org/t/16786
+---
+
 # How to create smooth surface patch for fixing skull defect?
 
 **Topic ID**: 16786

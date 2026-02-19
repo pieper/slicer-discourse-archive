@@ -1,3 +1,10 @@
+---
+topic_id: 3726
+title: "Converting Stl To Nrrd"
+date: 2018-08-10
+url: https://discourse.slicer.org/t/3726
+---
+
 # converting .stl to .nrrd
 
 **Topic ID**: 3726

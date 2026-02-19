@@ -1,3 +1,10 @@
+---
+topic_id: 33983
+title: "Separate Ct Cuts"
+date: 2024-01-26
+url: https://discourse.slicer.org/t/33983
+---
+
 # Separate CT cuts
 
 **Topic ID**: 33983

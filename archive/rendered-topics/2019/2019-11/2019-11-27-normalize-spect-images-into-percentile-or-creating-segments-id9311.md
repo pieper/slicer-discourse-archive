@@ -1,3 +1,10 @@
+---
+topic_id: 9311
+title: "Normalize Spect Images Into Percentile Or Creating Segments"
+date: 2019-11-27
+url: https://discourse.slicer.org/t/9311
+---
+
 # Normalize SPECT images into percentile or creating segments by percentile of the SPECT count valuse
 
 **Topic ID**: 9311

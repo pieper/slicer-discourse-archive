@@ -1,3 +1,10 @@
+---
+topic_id: 36364
+title: "Python Segmentation Conversion Specifying Geometry For Binar"
+date: 2024-05-24
+url: https://discourse.slicer.org/t/36364
+---
+
 # Python segmentation conversion - specifying geometry for binary labelmap
 
 **Topic ID**: 36364

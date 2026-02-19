@@ -1,3 +1,10 @@
+---
+topic_id: 1669
+title: "Brain Model Creation"
+date: 2017-12-16
+url: https://discourse.slicer.org/t/1669
+---
+
 # Brain model creation
 
 **Topic ID**: 1669

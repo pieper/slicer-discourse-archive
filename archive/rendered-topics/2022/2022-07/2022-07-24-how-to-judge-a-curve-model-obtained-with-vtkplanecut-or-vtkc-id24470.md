@@ -1,3 +1,10 @@
+---
+topic_id: 24470
+title: "How To Judge A Curve Model Obtained With Vtkplanecut Or Vtkc"
+date: 2022-07-24
+url: https://discourse.slicer.org/t/24470
+---
+
 # How to judge a curve model obtained with vtkplanecut or vtkcutter is closed?
 
 **Topic ID**: 24470

@@ -1,3 +1,10 @@
+---
+topic_id: 12750
+title: "Load Dicom Binary Mask As Segmentation Onto Dicom Images"
+date: 2020-07-27
+url: https://discourse.slicer.org/t/12750
+---
+
 # Load dicom binary mask as segmentation onto dicom images
 
 **Topic ID**: 12750

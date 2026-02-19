@@ -1,3 +1,10 @@
+---
+topic_id: 22535
+title: "How To Display The Slicer Vtkmrmltextnode In Slice View Or P"
+date: 2022-03-16
+url: https://discourse.slicer.org/t/22535
+---
+
 # How to display the `slicer.vtkMRMLTextNode` in slice view or pyhon interactor?
 
 **Topic ID**: 22535

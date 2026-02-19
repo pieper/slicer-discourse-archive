@@ -1,3 +1,10 @@
+---
+topic_id: 28653
+title: "An Error Was Reported En Route Using Ai Lungmask R321 Of Lun"
+date: 2023-03-29
+url: https://discourse.slicer.org/t/28653
+---
+
 # An error was reported en route using AI（Lungmask R321） of Lungsegmentation
 
 **Topic ID**: 28653

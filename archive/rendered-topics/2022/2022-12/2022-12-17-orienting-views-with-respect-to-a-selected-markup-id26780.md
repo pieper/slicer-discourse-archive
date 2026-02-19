@@ -1,3 +1,10 @@
+---
+topic_id: 26780
+title: "Orienting Views With Respect To A Selected Markup"
+date: 2022-12-17
+url: https://discourse.slicer.org/t/26780
+---
+
 # Orienting views with respect to a selected markup
 
 **Topic ID**: 26780

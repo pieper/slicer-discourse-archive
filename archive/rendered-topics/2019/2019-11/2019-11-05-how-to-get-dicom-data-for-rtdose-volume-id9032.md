@@ -1,3 +1,10 @@
+---
+topic_id: 9032
+title: "How To Get Dicom Data For Rtdose Volume"
+date: 2019-11-05
+url: https://discourse.slicer.org/t/9032
+---
+
 # How to get dicom data for RTDose volume
 
 **Topic ID**: 9032

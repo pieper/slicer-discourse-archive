@@ -1,3 +1,10 @@
+---
+topic_id: 30991
+title: "Capturing A Screenshot In Uncompressed Tiff Format"
+date: 2023-08-05
+url: https://discourse.slicer.org/t/30991
+---
+
 # Capturing a Screenshot in uncompressed TIFF format
 
 **Topic ID**: 30991

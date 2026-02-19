@@ -1,3 +1,10 @@
+---
+topic_id: 28207
+title: "Please Quickly Check My Slicerradiomics Pyradiomics Paramete"
+date: 2023-03-07
+url: https://discourse.slicer.org/t/28207
+---
+
 # Please quickly check my SlicerRadiomics/Pyradiomics parameters file for any contradictions and errors
 
 **Topic ID**: 28207

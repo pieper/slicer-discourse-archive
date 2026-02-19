@@ -1,3 +1,10 @@
+---
+topic_id: 44186
+title: "Saving A Trained Monailabel Model"
+date: 2025-08-24
+url: https://discourse.slicer.org/t/44186
+---
+
 # Saving a trained MONAILabel model.
 
 **Topic ID**: 44186

@@ -1,3 +1,10 @@
+---
+topic_id: 44448
+title: "Issues With Multiple Labels And Masks Overlapping In Monaila"
+date: 2025-09-11
+url: https://discourse.slicer.org/t/44448
+---
+
 # Issues with multiple labels and masks overlapping in Monailabel
 
 **Topic ID**: 44448

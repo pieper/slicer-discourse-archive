@@ -1,3 +1,10 @@
+---
+topic_id: 3998
+title: "Calling C From Python"
+date: 2018-09-06
+url: https://discourse.slicer.org/t/3998
+---
+
 # Calling C++ from Python
 
 **Topic ID**: 3998

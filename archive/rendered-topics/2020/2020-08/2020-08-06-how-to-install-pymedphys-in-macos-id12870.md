@@ -1,3 +1,10 @@
+---
+topic_id: 12870
+title: "How To Install Pymedphys In Macos"
+date: 2020-08-06
+url: https://discourse.slicer.org/t/12870
+---
+
 # How to: Install pymedphys in MacOS
 
 **Topic ID**: 12870

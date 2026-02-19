@@ -1,3 +1,10 @@
+---
+topic_id: 23725
+title: "Pipeline For Measuring Surface Area Issues With Dynamic Mode"
+date: 2022-06-06
+url: https://discourse.slicer.org/t/23725
+---
+
 # Pipeline for measuring surface area & issues with dynamic modeller
 
 **Topic ID**: 23725

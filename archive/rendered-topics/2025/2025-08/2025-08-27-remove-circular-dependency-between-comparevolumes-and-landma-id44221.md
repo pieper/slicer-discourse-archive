@@ -1,3 +1,10 @@
+---
+topic_id: 44221
+title: "Remove Circular Dependency Between Comparevolumes And Landma"
+date: 2025-08-27
+url: https://discourse.slicer.org/t/44221
+---
+
 # Remove circular dependency between CompareVolumes and LandmarkRegistration
 
 **Topic ID**: 44221

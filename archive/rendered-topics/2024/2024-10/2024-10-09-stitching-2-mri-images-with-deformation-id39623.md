@@ -1,3 +1,10 @@
+---
+topic_id: 39623
+title: "Stitching 2 Mri Images With Deformation"
+date: 2024-10-09
+url: https://discourse.slicer.org/t/39623
+---
+
 # Stitching 2 MRI images with deformation.
 
 **Topic ID**: 39623

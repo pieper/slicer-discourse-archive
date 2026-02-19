@@ -1,3 +1,10 @@
+---
+topic_id: 19649
+title: "New Segment Editor Layout Vertical Effect Toolbar"
+date: 2021-09-13
+url: https://discourse.slicer.org/t/19649
+---
+
 # New Segment Editor layout - vertical effect toolbar
 
 **Topic ID**: 19649

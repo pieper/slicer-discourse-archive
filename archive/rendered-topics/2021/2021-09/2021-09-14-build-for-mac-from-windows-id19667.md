@@ -1,3 +1,10 @@
+---
+topic_id: 19667
+title: "Build For Mac From Windows"
+date: 2021-09-14
+url: https://discourse.slicer.org/t/19667
+---
+
 # Build for mac from windows
 
 **Topic ID**: 19667

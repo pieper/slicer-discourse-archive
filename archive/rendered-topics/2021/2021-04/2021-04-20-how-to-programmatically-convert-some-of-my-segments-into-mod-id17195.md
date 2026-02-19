@@ -1,3 +1,10 @@
+---
+topic_id: 17195
+title: "How To Programmatically Convert Some Of My Segments Into Mod"
+date: 2021-04-20
+url: https://discourse.slicer.org/t/17195
+---
+
 # How to programmatically convert some of my segments into models and then get and store information from these models?
 
 **Topic ID**: 17195

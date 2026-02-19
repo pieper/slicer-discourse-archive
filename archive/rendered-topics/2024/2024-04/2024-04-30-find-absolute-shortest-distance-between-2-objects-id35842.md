@@ -1,3 +1,10 @@
+---
+topic_id: 35842
+title: "Find Absolute Shortest Distance Between 2 Objects"
+date: 2024-04-30
+url: https://discourse.slicer.org/t/35842
+---
+
 # Find absolute shortest distance between 2 objects
 
 **Topic ID**: 35842

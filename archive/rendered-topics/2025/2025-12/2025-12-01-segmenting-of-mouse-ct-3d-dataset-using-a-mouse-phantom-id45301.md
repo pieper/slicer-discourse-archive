@@ -1,3 +1,10 @@
+---
+topic_id: 45301
+title: "Segmenting Of Mouse Ct 3D Dataset Using A Mouse Phantom"
+date: 2025-12-01
+url: https://discourse.slicer.org/t/45301
+---
+
 # segmenting of mouse CT 3D dataset using a mouse phantom. 
 
 **Topic ID**: 45301

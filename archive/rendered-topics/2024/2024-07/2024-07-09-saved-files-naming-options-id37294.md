@@ -1,3 +1,10 @@
+---
+topic_id: 37294
+title: "Saved Files Naming Options"
+date: 2024-07-09
+url: https://discourse.slicer.org/t/37294
+---
+
 # Saved files naming options
 
 **Topic ID**: 37294

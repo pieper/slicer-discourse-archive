@@ -1,3 +1,10 @@
+---
+topic_id: 21848
+title: "Automatization Of Cursor Visibility"
+date: 2022-02-08
+url: https://discourse.slicer.org/t/21848
+---
+
 # Automatization of cursor visibility
 
 **Topic ID**: 21848

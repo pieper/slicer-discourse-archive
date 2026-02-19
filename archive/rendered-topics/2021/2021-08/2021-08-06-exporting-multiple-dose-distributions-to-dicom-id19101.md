@@ -1,3 +1,10 @@
+---
+topic_id: 19101
+title: "Exporting Multiple Dose Distributions To Dicom"
+date: 2021-08-06
+url: https://discourse.slicer.org/t/19101
+---
+
 # Exporting multiple dose distributions to DICOM
 
 **Topic ID**: 19101

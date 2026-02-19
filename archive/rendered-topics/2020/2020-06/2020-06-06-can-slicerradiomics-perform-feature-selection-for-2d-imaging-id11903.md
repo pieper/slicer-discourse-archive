@@ -1,3 +1,10 @@
+---
+topic_id: 11903
+title: "Can Slicerradiomics Perform Feature Selection For 2D Imaging"
+date: 2020-06-06
+url: https://discourse.slicer.org/t/11903
+---
+
 # Can SlicerRadiomics perform Feature selection for 2D imaging?
 
 **Topic ID**: 11903

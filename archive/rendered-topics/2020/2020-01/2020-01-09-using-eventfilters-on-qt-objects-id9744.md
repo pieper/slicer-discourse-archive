@@ -1,3 +1,10 @@
+---
+topic_id: 9744
+title: "Using Eventfilters On Qt Objects"
+date: 2020-01-09
+url: https://discourse.slicer.org/t/9744
+---
+
 # Using EventFilters on qt objects
 
 **Topic ID**: 9744

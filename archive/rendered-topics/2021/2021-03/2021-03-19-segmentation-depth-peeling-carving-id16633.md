@@ -1,3 +1,10 @@
+---
+topic_id: 16633
+title: "Segmentation Depth Peeling Carving"
+date: 2021-03-19
+url: https://discourse.slicer.org/t/16633
+---
+
 # Segmentation depth peeling/carving
 
 **Topic ID**: 16633

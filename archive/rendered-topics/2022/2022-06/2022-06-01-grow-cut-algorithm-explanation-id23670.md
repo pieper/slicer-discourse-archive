@@ -1,3 +1,10 @@
+---
+topic_id: 23670
+title: "Grow Cut Algorithm Explanation"
+date: 2022-06-01
+url: https://discourse.slicer.org/t/23670
+---
+
 # Grow-cut algorithm explanation
 
 **Topic ID**: 23670

@@ -1,3 +1,10 @@
+---
+topic_id: 2280
+title: "Cannot Manually Install Extension On Mac"
+date: 2018-03-10
+url: https://discourse.slicer.org/t/2280
+---
+
 # cannot manually install extension on mac
 
 **Topic ID**: 2280

@@ -1,3 +1,10 @@
+---
+topic_id: 16334
+title: "Segmentation From Axial Series To Sagittal Series"
+date: 2021-03-03
+url: https://discourse.slicer.org/t/16334
+---
+
 # Segmentation from axial series to sagittal series
 
 **Topic ID**: 16334

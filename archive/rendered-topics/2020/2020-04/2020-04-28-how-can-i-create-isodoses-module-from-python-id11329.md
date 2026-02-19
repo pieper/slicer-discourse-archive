@@ -1,3 +1,10 @@
+---
+topic_id: 11329
+title: "How Can I Create Isodoses Module From Python"
+date: 2020-04-28
+url: https://discourse.slicer.org/t/11329
+---
+
 # How can I create isodoses module from python
 
 **Topic ID**: 11329

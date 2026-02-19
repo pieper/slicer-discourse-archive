@@ -1,3 +1,10 @@
+---
+topic_id: 6311
+title: "Saving A Playable Registration Sequence Mrb"
+date: 2019-03-27
+url: https://discourse.slicer.org/t/6311
+---
+
 # Saving a playable registration sequence (.mrb)
 
 **Topic ID**: 6311

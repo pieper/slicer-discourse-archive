@@ -1,3 +1,10 @@
+---
+topic_id: 45379
+title: "How Can I Change Hu Values Into Normal Range"
+date: 2025-12-05
+url: https://discourse.slicer.org/t/45379
+---
+
 # How can I change HU values into normal range?
 
 **Topic ID**: 45379

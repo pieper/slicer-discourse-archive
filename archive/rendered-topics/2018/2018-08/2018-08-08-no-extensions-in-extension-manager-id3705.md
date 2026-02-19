@@ -1,3 +1,10 @@
+---
+topic_id: 3705
+title: "No Extensions In Extension Manager"
+date: 2018-08-08
+url: https://discourse.slicer.org/t/3705
+---
+
 # No extensions in extension manager
 
 **Topic ID**: 3705

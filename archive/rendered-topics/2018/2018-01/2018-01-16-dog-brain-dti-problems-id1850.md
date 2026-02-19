@@ -1,3 +1,10 @@
+---
+topic_id: 1850
+title: "Dog Brain Dti Problems"
+date: 2018-01-16
+url: https://discourse.slicer.org/t/1850
+---
+
 # Dog brain DTI problems
 
 **Topic ID**: 1850

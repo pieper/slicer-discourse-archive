@@ -1,3 +1,10 @@
+---
+topic_id: 16285
+title: "Segment Editor Tools Arrangement"
+date: 2021-03-01
+url: https://discourse.slicer.org/t/16285
+---
+
 # Segment editor tools arrangement
 
 **Topic ID**: 16285

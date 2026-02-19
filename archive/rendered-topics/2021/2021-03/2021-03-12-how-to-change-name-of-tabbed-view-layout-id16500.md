@@ -1,3 +1,10 @@
+---
+topic_id: 16500
+title: "How To Change Name Of Tabbed View Layout"
+date: 2021-03-12
+url: https://discourse.slicer.org/t/16500
+---
+
 # How to change name of tabbed view layout?
 
 **Topic ID**: 16500

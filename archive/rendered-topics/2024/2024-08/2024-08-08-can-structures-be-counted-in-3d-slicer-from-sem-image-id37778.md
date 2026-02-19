@@ -1,3 +1,10 @@
+---
+topic_id: 37778
+title: "Can Structures Be Counted In 3D Slicer From Sem Image"
+date: 2024-08-08
+url: https://discourse.slicer.org/t/37778
+---
+
 # Can structures be counted in 3D Slicer from SEM image?
 
 **Topic ID**: 37778

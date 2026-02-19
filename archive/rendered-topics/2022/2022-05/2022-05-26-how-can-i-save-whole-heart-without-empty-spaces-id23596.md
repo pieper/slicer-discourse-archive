@@ -1,3 +1,10 @@
+---
+topic_id: 23596
+title: "How Can I Save Whole Heart Without Empty Spaces"
+date: 2022-05-26
+url: https://discourse.slicer.org/t/23596
+---
+
 # How can I save whole heart without empty spaces?
 
 **Topic ID**: 23596

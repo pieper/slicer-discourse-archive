@@ -1,3 +1,10 @@
+---
+topic_id: 44369
+title: "Joint Smooth In 2D"
+date: 2025-09-05
+url: https://discourse.slicer.org/t/44369
+---
+
 # Joint smooth in 2d
 
 **Topic ID**: 44369

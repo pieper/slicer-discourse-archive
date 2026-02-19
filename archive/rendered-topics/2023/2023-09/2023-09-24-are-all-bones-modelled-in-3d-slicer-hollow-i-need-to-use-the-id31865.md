@@ -1,3 +1,10 @@
+---
+topic_id: 31865
+title: "Are All Bones Modelled In 3D Slicer Hollow I Need To Use The"
+date: 2023-09-24
+url: https://discourse.slicer.org/t/31865
+---
+
 # Are all bones modelled in 3D Slicer hollow? I need to use them for FEA.
 
 **Topic ID**: 31865

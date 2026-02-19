@@ -1,3 +1,10 @@
+---
+topic_id: 23089
+title: "Pyradiomics Extension"
+date: 2022-04-22
+url: https://discourse.slicer.org/t/23089
+---
+
 # Pyradiomics extension
 
 **Topic ID**: 23089

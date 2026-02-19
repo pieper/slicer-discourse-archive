@@ -1,3 +1,10 @@
+---
+topic_id: 33327
+title: "Points In Surface Registration Module"
+date: 2023-12-10
+url: https://discourse.slicer.org/t/33327
+---
+
 # Points in Surface Registration Module
 
 **Topic ID**: 33327

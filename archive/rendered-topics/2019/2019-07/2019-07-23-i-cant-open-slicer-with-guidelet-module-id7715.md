@@ -1,3 +1,10 @@
+---
+topic_id: 7715
+title: "I Cant Open Slicer With Guidelet Module"
+date: 2019-07-23
+url: https://discourse.slicer.org/t/7715
+---
+
 # I can't open Slicer with Guidelet module
 
 **Topic ID**: 7715

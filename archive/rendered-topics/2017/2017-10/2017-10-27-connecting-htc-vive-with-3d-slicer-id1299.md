@@ -1,3 +1,10 @@
+---
+topic_id: 1299
+title: "Connecting Htc Vive With 3D Slicer"
+date: 2017-10-27
+url: https://discourse.slicer.org/t/1299
+---
+
 # Connecting HTC vive with 3D slicer
 
 **Topic ID**: 1299

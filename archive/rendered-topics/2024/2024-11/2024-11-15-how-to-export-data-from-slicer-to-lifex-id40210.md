@@ -1,3 +1,10 @@
+---
+topic_id: 40210
+title: "How To Export Data From Slicer To Lifex"
+date: 2024-11-15
+url: https://discourse.slicer.org/t/40210
+---
+
 # How to export data from Slicer to LifeX?
 
 **Topic ID**: 40210

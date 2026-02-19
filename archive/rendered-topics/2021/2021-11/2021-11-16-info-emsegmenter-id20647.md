@@ -1,3 +1,10 @@
+---
+topic_id: 20647
+title: "Info Emsegmenter"
+date: 2021-11-16
+url: https://discourse.slicer.org/t/20647
+---
+
 # Info EMSegmenter 
 
 **Topic ID**: 20647

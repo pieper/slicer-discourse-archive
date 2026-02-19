@@ -1,3 +1,10 @@
+---
+topic_id: 15738
+title: "Wrong Face Normals After Mesh Conversion Openfoam"
+date: 2021-01-29
+url: https://discourse.slicer.org/t/15738
+---
+
 # Wrong face normals after Mesh conversion (OpenFOAM)
 
 **Topic ID**: 15738

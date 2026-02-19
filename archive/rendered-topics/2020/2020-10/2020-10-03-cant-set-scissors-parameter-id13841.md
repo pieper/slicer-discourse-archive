@@ -1,3 +1,10 @@
+---
+topic_id: 13841
+title: "Cant Set Scissors Parameter"
+date: 2020-10-03
+url: https://discourse.slicer.org/t/13841
+---
+
 # Can't set Scissors parameter
 
 **Topic ID**: 13841

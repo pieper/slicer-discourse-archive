@@ -1,3 +1,10 @@
+---
+topic_id: 11938
+title: "Segment A Resampled Volume"
+date: 2020-06-09
+url: https://discourse.slicer.org/t/11938
+---
+
 # Segment a resampled volume
 
 **Topic ID**: 11938

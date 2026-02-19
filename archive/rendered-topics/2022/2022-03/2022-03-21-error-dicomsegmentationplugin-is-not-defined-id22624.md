@@ -1,3 +1,10 @@
+---
+topic_id: 22624
+title: "Error Dicomsegmentationplugin Is Not Defined"
+date: 2022-03-21
+url: https://discourse.slicer.org/t/22624
+---
+
 # Error: DICOMSegmentationPlugin is not defined
 
 **Topic ID**: 22624

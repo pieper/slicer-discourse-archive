@@ -1,3 +1,10 @@
+---
+topic_id: 2135
+title: "Cant Import Volume From Dicom Files From Philips Hd11 Ultras"
+date: 2018-02-21
+url: https://discourse.slicer.org/t/2135
+---
+
 # can't import volume from dicom files from philips HD11 ultrasound 
 
 **Topic ID**: 2135

@@ -1,3 +1,10 @@
+---
+topic_id: 14448
+title: "Slicer 4 11 20200930 Cant Import Pip Installed Pillow On Lin"
+date: 2020-11-05
+url: https://discourse.slicer.org/t/14448
+---
+
 # Slicer-4.11.20200930: Can't import pip-installed Pillow on Linux
 
 **Topic ID**: 14448

@@ -1,3 +1,10 @@
+---
+topic_id: 1926
+title: "Rtstruct Not Showing Contour"
+date: 2018-01-24
+url: https://discourse.slicer.org/t/1926
+---
+
 # RTstruct not showing contour
 
 **Topic ID**: 1926

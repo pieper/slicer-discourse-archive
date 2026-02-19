@@ -1,3 +1,10 @@
+---
+topic_id: 14769
+title: "Data On External Drives"
+date: 2020-11-25
+url: https://discourse.slicer.org/t/14769
+---
+
 # Data on external drives
 
 **Topic ID**: 14769

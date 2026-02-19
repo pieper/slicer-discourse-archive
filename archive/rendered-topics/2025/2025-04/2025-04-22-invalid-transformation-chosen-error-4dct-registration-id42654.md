@@ -1,3 +1,10 @@
+---
+topic_id: 42654
+title: "Invalid Transformation Chosen Error 4Dct Registration"
+date: 2025-04-22
+url: https://discourse.slicer.org/t/42654
+---
+
 # Invalid transformation chosen error - 4DCT registration
 
 **Topic ID**: 42654

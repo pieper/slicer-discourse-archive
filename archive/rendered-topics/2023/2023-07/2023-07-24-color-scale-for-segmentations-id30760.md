@@ -1,3 +1,10 @@
+---
+topic_id: 30760
+title: "Color Scale For Segmentations"
+date: 2023-07-24
+url: https://discourse.slicer.org/t/30760
+---
+
 # Color scale for segmentations
 
 **Topic ID**: 30760

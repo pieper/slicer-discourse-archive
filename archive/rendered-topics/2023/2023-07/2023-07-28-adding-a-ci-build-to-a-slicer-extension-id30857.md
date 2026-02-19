@@ -1,3 +1,10 @@
+---
+topic_id: 30857
+title: "Adding A Ci Build To A Slicer Extension"
+date: 2023-07-28
+url: https://discourse.slicer.org/t/30857
+---
+
 # Adding a CI build to a Slicer extension
 
 **Topic ID**: 30857

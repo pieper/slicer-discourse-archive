@@ -1,3 +1,10 @@
+---
+topic_id: 3063
+title: "How To Set Volume Rendering Preset Using Python"
+date: 2018-06-04
+url: https://discourse.slicer.org/t/3063
+---
+
 # How to set volume rendering preset using Python
 
 **Topic ID**: 3063

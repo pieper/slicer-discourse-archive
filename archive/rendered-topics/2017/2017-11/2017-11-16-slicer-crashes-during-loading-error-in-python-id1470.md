@@ -1,3 +1,10 @@
+---
+topic_id: 1470
+title: "Slicer Crashes During Loading Error In Python"
+date: 2017-11-16
+url: https://discourse.slicer.org/t/1470
+---
+
 # Slicer crashes during loading, error in Python?
 
 **Topic ID**: 1470

@@ -1,3 +1,10 @@
+---
+topic_id: 31840
+title: "How Can I Ignore Popup"
+date: 2023-09-22
+url: https://discourse.slicer.org/t/31840
+---
+
 # How can i ignore popup
 
 **Topic ID**: 31840

@@ -1,3 +1,10 @@
+---
+topic_id: 27705
+title: "Totalsegmentator Installation Problem Due To Zenodo Connecti"
+date: 2023-02-08
+url: https://discourse.slicer.org/t/27705
+---
+
 # TotalSegmentator installation problem due to Zenodo connection error
 
 **Topic ID**: 27705

@@ -1,3 +1,10 @@
+---
+topic_id: 11234
+title: "Spine Segmentation In Cervico Thoracic Region"
+date: 2020-04-21
+url: https://discourse.slicer.org/t/11234
+---
+
 # Spine segmentation in cervico-thoracic region
 
 **Topic ID**: 11234

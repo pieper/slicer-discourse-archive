@@ -1,3 +1,10 @@
+---
+topic_id: 45921
+title: "No Meeting This Week"
+date: 2026-01-26
+url: https://discourse.slicer.org/t/45921
+---
+
 # NO Meeting this week
 
 **Topic ID**: 45921

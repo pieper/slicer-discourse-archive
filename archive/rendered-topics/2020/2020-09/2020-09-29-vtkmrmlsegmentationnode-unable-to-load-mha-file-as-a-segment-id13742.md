@@ -1,3 +1,10 @@
+---
+topic_id: 13742
+title: "Vtkmrmlsegmentationnode Unable To Load Mha File As A Segment"
+date: 2020-09-29
+url: https://discourse.slicer.org/t/13742
+---
+
 # [vtkMRMLSegmentationNode] Unable to load .mha file as a segmentation node
 
 **Topic ID**: 13742

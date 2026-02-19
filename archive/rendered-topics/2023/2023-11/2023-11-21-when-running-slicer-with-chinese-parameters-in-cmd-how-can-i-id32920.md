@@ -1,3 +1,10 @@
+---
+topic_id: 32920
+title: "When Running Slicer With Chinese Parameters In Cmd How Can I"
+date: 2023-11-21
+url: https://discourse.slicer.org/t/32920
+---
+
 # When running Slicer with Chinese parameters in CMD, how can I correctly pass and retrieve the Chinese parameters?
 
 **Topic ID**: 32920

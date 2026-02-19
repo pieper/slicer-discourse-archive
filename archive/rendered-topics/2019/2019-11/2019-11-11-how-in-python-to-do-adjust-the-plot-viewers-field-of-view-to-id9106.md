@@ -1,3 +1,10 @@
+---
+topic_id: 9106
+title: "How In Python To Do Adjust The Plot Viewers Field Of View To"
+date: 2019-11-11
+url: https://discourse.slicer.org/t/9106
+---
+
 # How, in python, to do "Adjust the Plot Viewer's field of view to match the extent of the Plot axes"?
 
 **Topic ID**: 9106

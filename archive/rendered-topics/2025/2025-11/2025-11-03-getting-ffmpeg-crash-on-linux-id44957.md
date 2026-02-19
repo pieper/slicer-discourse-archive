@@ -1,3 +1,10 @@
+---
+topic_id: 44957
+title: "Getting Ffmpeg Crash On Linux"
+date: 2025-11-03
+url: https://discourse.slicer.org/t/44957
+---
+
 # Getting ffmpeg crash on Linux
 
 **Topic ID**: 44957

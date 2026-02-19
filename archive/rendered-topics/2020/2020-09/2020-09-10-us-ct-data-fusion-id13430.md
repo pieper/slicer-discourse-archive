@@ -1,3 +1,10 @@
+---
+topic_id: 13430
+title: "Us Ct Data Fusion"
+date: 2020-09-10
+url: https://discourse.slicer.org/t/13430
+---
+
 # US/ CT data fusion
 
 **Topic ID**: 13430

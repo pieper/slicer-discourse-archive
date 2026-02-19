@@ -1,3 +1,10 @@
+---
+topic_id: 13755
+title: "Bone Segmentation Pipeline To Improve Fracture Diagnosis Sys"
+date: 2020-09-29
+url: https://discourse.slicer.org/t/13755
+---
+
 # Bone segmentation pipeline to improve fracture diagnosis system
 
 **Topic ID**: 13755

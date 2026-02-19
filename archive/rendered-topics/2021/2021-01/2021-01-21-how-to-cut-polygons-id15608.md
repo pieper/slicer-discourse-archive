@@ -1,3 +1,10 @@
+---
+topic_id: 15608
+title: "How To Cut Polygons"
+date: 2021-01-21
+url: https://discourse.slicer.org/t/15608
+---
+
 # How to cut polygons
 
 **Topic ID**: 15608

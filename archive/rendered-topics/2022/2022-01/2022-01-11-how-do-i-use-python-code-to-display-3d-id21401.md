@@ -1,3 +1,10 @@
+---
+topic_id: 21401
+title: "How Do I Use Python Code To Display 3D"
+date: 2022-01-11
+url: https://discourse.slicer.org/t/21401
+---
+
 # How do I use Python code to display 3D？
 
 **Topic ID**: 21401

@@ -1,3 +1,10 @@
+---
+topic_id: 39866
+title: "Getting Involved In Development"
+date: 2024-10-25
+url: https://discourse.slicer.org/t/39866
+---
+
 # Getting Involved in development
 
 **Topic ID**: 39866

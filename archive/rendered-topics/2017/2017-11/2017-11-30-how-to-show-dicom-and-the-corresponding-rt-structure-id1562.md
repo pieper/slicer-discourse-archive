@@ -1,3 +1,10 @@
+---
+topic_id: 1562
+title: "How To Show Dicom And The Corresponding Rt Structure"
+date: 2017-11-30
+url: https://discourse.slicer.org/t/1562
+---
+
 # How to show DICOM and the corresponding RT STRUCTURE?
 
 **Topic ID**: 1562

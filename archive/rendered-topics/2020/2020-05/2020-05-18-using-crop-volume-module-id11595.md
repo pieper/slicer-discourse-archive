@@ -1,3 +1,10 @@
+---
+topic_id: 11595
+title: "Using Crop Volume Module"
+date: 2020-05-18
+url: https://discourse.slicer.org/t/11595
+---
+
 # Using crop volume module
 
 **Topic ID**: 11595

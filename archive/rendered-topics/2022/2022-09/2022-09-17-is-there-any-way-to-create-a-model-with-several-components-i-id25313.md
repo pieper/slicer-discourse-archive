@@ -1,3 +1,10 @@
+---
+topic_id: 25313
+title: "Is There Any Way To Create A Model With Several Components I"
+date: 2022-09-17
+url: https://discourse.slicer.org/t/25313
+---
+
 # Is there any way to create a model with several components in CLI
 
 **Topic ID**: 25313

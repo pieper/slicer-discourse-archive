@@ -1,3 +1,10 @@
+---
+topic_id: 1138
+title: "Ways To Load Nodes Into Slicer Scene Without Displaying Them"
+date: 2017-09-27
+url: https://discourse.slicer.org/t/1138
+---
+
 # Ways to load nodes into Slicer scene WITHOUT displaying them immediately
 
 **Topic ID**: 1138

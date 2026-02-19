@@ -1,3 +1,10 @@
+---
+topic_id: 36717
+title: "Avoid Creating Multiple Module Widget Instances From A Pytho"
+date: 2024-06-12
+url: https://discourse.slicer.org/t/36717
+---
+
 # Avoid creating multiple module widget instances from a python script
 
 **Topic ID**: 36717

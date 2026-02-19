@@ -1,3 +1,10 @@
+---
+topic_id: 9066
+title: "Sphere Brush Via Script"
+date: 2019-11-07
+url: https://discourse.slicer.org/t/9066
+---
+
 # Sphere brush via script
 
 **Topic ID**: 9066

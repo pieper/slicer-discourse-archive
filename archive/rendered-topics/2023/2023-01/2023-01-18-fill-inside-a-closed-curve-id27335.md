@@ -1,3 +1,10 @@
+---
+topic_id: 27335
+title: "Fill Inside A Closed Curve"
+date: 2023-01-18
+url: https://discourse.slicer.org/t/27335
+---
+
 # Fill inside a closed curve
 
 **Topic ID**: 27335

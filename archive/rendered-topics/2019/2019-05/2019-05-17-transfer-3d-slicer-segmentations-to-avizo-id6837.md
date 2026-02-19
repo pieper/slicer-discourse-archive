@@ -1,3 +1,10 @@
+---
+topic_id: 6837
+title: "Transfer 3D Slicer Segmentations To Avizo"
+date: 2019-05-17
+url: https://discourse.slicer.org/t/6837
+---
+
 # Transfer 3D Slicer segmentations to Avizo
 
 **Topic ID**: 6837

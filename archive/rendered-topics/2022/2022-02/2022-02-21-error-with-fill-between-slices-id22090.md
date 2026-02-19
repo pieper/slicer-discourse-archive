@@ -1,3 +1,10 @@
+---
+topic_id: 22090
+title: "Error With Fill Between Slices"
+date: 2022-02-21
+url: https://discourse.slicer.org/t/22090
+---
+
 # Error with "Fill between slices" 
 
 **Topic ID**: 22090

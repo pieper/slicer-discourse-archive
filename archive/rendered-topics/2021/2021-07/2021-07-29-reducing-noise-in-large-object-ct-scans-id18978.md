@@ -1,3 +1,10 @@
+---
+topic_id: 18978
+title: "Reducing Noise In Large Object Ct Scans"
+date: 2021-07-29
+url: https://discourse.slicer.org/t/18978
+---
+
 # Reducing noise in large object CT scans
 
 **Topic ID**: 18978

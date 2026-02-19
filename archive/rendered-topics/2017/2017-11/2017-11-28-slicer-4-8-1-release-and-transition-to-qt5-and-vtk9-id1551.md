@@ -1,3 +1,10 @@
+---
+topic_id: 1551
+title: "Slicer 4 8 1 Release And Transition To Qt5 And Vtk9"
+date: 2017-11-28
+url: https://discourse.slicer.org/t/1551
+---
+
 # Slicer 4.8.1 release and transition to Qt5 and VTK9
 
 **Topic ID**: 1551

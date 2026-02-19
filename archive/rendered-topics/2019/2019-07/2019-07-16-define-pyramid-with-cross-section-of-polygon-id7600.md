@@ -1,3 +1,10 @@
+---
+topic_id: 7600
+title: "Define Pyramid With Cross Section Of Polygon"
+date: 2019-07-16
+url: https://discourse.slicer.org/t/7600
+---
+
 # Define pyramid with cross-section of polygon
 
 **Topic ID**: 7600

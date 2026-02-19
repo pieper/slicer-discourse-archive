@@ -1,3 +1,10 @@
+---
+topic_id: 34519
+title: "Spharm Pdm Error Segpostprocess Terminated With A Numerical"
+date: 2024-02-24
+url: https://discourse.slicer.org/t/34519
+---
+
 # SPHARM-PDM Error: 'SegPostProcess terminated with a numerical fault'
 
 **Topic ID**: 34519

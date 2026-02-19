@@ -1,3 +1,10 @@
+---
+topic_id: 24929
+title: "How To Make Derived Widget And Add Into Widget Box In Qt Des"
+date: 2022-08-25
+url: https://discourse.slicer.org/t/24929
+---
+
 # How to make derived widget and add into Widget Box in Qt Designer?
 
 **Topic ID**: 24929

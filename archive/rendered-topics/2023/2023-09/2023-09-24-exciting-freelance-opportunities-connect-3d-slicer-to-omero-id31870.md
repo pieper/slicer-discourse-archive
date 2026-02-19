@@ -1,3 +1,10 @@
+---
+topic_id: 31870
+title: "Exciting Freelance Opportunities Connect 3D Slicer To Omero"
+date: 2023-09-24
+url: https://discourse.slicer.org/t/31870
+---
+
 # Exciting Freelance Opportunities: Connect 3D Slicer to OMERO!
 
 **Topic ID**: 31870

@@ -1,3 +1,10 @@
+---
+topic_id: 27700
+title: "Sharpen Function"
+date: 2023-02-08
+url: https://discourse.slicer.org/t/27700
+---
+
 # Sharpen Function
 
 **Topic ID**: 27700

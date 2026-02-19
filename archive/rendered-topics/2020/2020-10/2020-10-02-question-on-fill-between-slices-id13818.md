@@ -1,3 +1,10 @@
+---
+topic_id: 13818
+title: "Question On Fill Between Slices"
+date: 2020-10-02
+url: https://discourse.slicer.org/t/13818
+---
+
 # Question on Fill between slices
 
 **Topic ID**: 13818

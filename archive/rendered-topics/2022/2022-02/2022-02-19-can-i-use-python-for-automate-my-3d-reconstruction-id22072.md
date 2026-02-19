@@ -1,3 +1,10 @@
+---
+topic_id: 22072
+title: "Can I Use Python For Automate My 3D Reconstruction"
+date: 2022-02-19
+url: https://discourse.slicer.org/t/22072
+---
+
 # Can i use python for automate my 3D reconstruction?
 
 **Topic ID**: 22072

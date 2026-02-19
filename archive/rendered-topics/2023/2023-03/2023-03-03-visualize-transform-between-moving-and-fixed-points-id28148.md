@@ -1,3 +1,10 @@
+---
+topic_id: 28148
+title: "Visualize Transform Between Moving And Fixed Points"
+date: 2023-03-03
+url: https://discourse.slicer.org/t/28148
+---
+
 # Visualize transform between moving and fixed points
 
 **Topic ID**: 28148

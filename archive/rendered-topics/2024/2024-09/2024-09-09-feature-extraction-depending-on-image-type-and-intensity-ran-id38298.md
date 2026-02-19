@@ -1,3 +1,10 @@
+---
+topic_id: 38298
+title: "Feature Extraction Depending On Image Type And Intensity Ran"
+date: 2024-09-09
+url: https://discourse.slicer.org/t/38298
+---
+
 # Feature Extraction depending on image type and intensity range
 
 **Topic ID**: 38298

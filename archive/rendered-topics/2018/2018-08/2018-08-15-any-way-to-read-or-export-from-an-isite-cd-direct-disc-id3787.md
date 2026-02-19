@@ -1,3 +1,10 @@
+---
+topic_id: 3787
+title: "Any Way To Read Or Export From An Isite Cd Direct Disc"
+date: 2018-08-15
+url: https://discourse.slicer.org/t/3787
+---
+
 # Any way to read or export from an iSite CD Direct disc?
 
 **Topic ID**: 3787

@@ -1,3 +1,10 @@
+---
+topic_id: 514
+title: "Ct To Optical Image Registration"
+date: 2017-06-16
+url: https://discourse.slicer.org/t/514
+---
+
 # CT to optical image registration
 
 **Topic ID**: 514

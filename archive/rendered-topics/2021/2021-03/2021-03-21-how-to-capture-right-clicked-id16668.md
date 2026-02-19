@@ -1,3 +1,10 @@
+---
+topic_id: 16668
+title: "How To Capture Right Clicked"
+date: 2021-03-21
+url: https://discourse.slicer.org/t/16668
+---
+
 # How to capture right clicked
 
 **Topic ID**: 16668

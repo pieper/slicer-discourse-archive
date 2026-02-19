@@ -1,3 +1,10 @@
+---
+topic_id: 31344
+title: "Poor Segmentation And Intersection Performance"
+date: 2023-08-24
+url: https://discourse.slicer.org/t/31344
+---
+
 # Poor segmentation and intersection performance
 
 **Topic ID**: 31344

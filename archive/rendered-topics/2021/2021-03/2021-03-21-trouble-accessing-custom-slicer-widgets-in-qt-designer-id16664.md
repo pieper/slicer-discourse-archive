@@ -1,3 +1,10 @@
+---
+topic_id: 16664
+title: "Trouble Accessing Custom Slicer Widgets In Qt Designer"
+date: 2021-03-21
+url: https://discourse.slicer.org/t/16664
+---
+
 # Trouble accessing custom Slicer widgets in QT Designer
 
 **Topic ID**: 16664

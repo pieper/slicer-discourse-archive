@@ -1,3 +1,10 @@
+---
+topic_id: 29204
+title: "Issues Separating Logic Widget And Main Classes"
+date: 2023-04-29
+url: https://discourse.slicer.org/t/29204
+---
+
 # Issues separating logic, widget and main classes
 
 **Topic ID**: 29204

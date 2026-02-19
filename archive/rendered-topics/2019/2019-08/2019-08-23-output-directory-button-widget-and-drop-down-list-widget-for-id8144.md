@@ -1,3 +1,10 @@
+---
+topic_id: 8144
+title: "Output Directory Button Widget And Drop Down List Widget For"
+date: 2019-08-23
+url: https://discourse.slicer.org/t/8144
+---
+
 # Output directory button widget and drop-down list widget for an extension
 
 **Topic ID**: 8144

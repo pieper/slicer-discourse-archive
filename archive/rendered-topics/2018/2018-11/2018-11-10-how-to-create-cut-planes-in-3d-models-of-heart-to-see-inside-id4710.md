@@ -1,3 +1,10 @@
+---
+topic_id: 4710
+title: "How To Create Cut Planes In 3D Models Of Heart To See Inside"
+date: 2018-11-10
+url: https://discourse.slicer.org/t/4710
+---
+
 # How to create "cut planes" in 3d models of heart to see inside
 
 **Topic ID**: 4710

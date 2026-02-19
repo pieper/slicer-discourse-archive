@@ -1,3 +1,10 @@
+---
+topic_id: 20237
+title: "Segment Editor Clicking Eye To Toggle Visibility Should Not"
+date: 2021-10-19
+url: https://discourse.slicer.org/t/20237
+---
+
 # Segment Editor:  clicking eye to toggle visibility should not select segment
 
 **Topic ID**: 20237

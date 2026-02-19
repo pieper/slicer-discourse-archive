@@ -1,3 +1,10 @@
+---
+topic_id: 5711
+title: "Exporting Plots From Slicer"
+date: 2019-02-09
+url: https://discourse.slicer.org/t/5711
+---
+
 # Exporting plots from Slicer
 
 **Topic ID**: 5711

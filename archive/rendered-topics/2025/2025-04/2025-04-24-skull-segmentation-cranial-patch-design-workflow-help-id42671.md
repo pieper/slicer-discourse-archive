@@ -1,3 +1,10 @@
+---
+topic_id: 42671
+title: "Skull Segmentation Cranial Patch Design Workflow Help"
+date: 2025-04-24
+url: https://discourse.slicer.org/t/42671
+---
+
 # Skull segmentation & cranial patch design – workflow help
 
 **Topic ID**: 42671

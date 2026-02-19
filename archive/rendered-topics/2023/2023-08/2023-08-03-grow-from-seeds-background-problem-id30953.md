@@ -1,3 +1,10 @@
+---
+topic_id: 30953
+title: "Grow From Seeds Background Problem"
+date: 2023-08-03
+url: https://discourse.slicer.org/t/30953
+---
+
 # Grow from seeds - background problem
 
 **Topic ID**: 30953

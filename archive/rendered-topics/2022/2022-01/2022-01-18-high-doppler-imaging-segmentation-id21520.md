@@ -1,3 +1,10 @@
+---
+topic_id: 21520
+title: "High Doppler Imaging Segmentation"
+date: 2022-01-18
+url: https://discourse.slicer.org/t/21520
+---
+
 # High Doppler imaging segmentation 
 
 **Topic ID**: 21520

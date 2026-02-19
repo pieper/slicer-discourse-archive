@@ -1,3 +1,10 @@
+---
+topic_id: 33874
+title: "New Feature Visual Dicom Browser"
+date: 2024-01-19
+url: https://discourse.slicer.org/t/33874
+---
+
 # New Feature: visual DICOM browser
 
 **Topic ID**: 33874

@@ -1,3 +1,10 @@
+---
+topic_id: 8276
+title: "Remove 3D View Axis Labels In Python Script"
+date: 2019-09-03
+url: https://discourse.slicer.org/t/8276
+---
+
 # Remove 3D view axis labels in python script
 
 **Topic ID**: 8276

@@ -1,3 +1,10 @@
+---
+topic_id: 36500
+title: "Osteotomy Planning For Bone Reconstruction The Forefoot Usin"
+date: 2024-05-30
+url: https://discourse.slicer.org/t/36500
+---
+
 # Osteotomy planning for bone reconstruction the forefoot using PSI (patient specific instruments): does anybody know of a team that is interested in the data and can provide clinical input?
 
 **Topic ID**: 36500

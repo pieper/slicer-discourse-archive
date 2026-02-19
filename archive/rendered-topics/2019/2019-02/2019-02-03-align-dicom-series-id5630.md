@@ -1,3 +1,10 @@
+---
+topic_id: 5630
+title: "Align Dicom Series"
+date: 2019-02-03
+url: https://discourse.slicer.org/t/5630
+---
+
 # Align dicom series
 
 **Topic ID**: 5630

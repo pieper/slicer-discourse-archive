@@ -1,3 +1,10 @@
+---
+topic_id: 13444
+title: "Calculate Thickness Of Thin Muscle"
+date: 2020-09-11
+url: https://discourse.slicer.org/t/13444
+---
+
 # Calculate thickness of thin muscle
 
 **Topic ID**: 13444

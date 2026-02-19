@@ -1,3 +1,10 @@
+---
+topic_id: 5401
+title: "Error Loading New Dicom"
+date: 2019-01-17
+url: https://discourse.slicer.org/t/5401
+---
+
 # Error loading new DICOM
 
 **Topic ID**: 5401

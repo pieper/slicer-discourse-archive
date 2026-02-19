@@ -1,3 +1,10 @@
+---
+topic_id: 7030
+title: "How To Get Pixel Value And Coordinate From Nrrd File"
+date: 2019-06-04
+url: https://discourse.slicer.org/t/7030
+---
+
 # How to get pixel value and coordinate from nrrd file
 
 **Topic ID**: 7030

@@ -1,3 +1,10 @@
+---
+topic_id: 11666
+title: "Nrrd To Fsl Error With Dwiconvert"
+date: 2020-05-22
+url: https://discourse.slicer.org/t/11666
+---
+
 # NRRD to FSL error with DWIConvert
 
 **Topic ID**: 11666

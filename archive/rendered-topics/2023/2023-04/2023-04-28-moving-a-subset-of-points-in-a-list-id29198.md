@@ -1,3 +1,10 @@
+---
+topic_id: 29198
+title: "Moving A Subset Of Points In A List"
+date: 2023-04-28
+url: https://discourse.slicer.org/t/29198
+---
+
 # Moving a subset of points in a list
 
 **Topic ID**: 29198

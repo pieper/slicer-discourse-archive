@@ -1,3 +1,10 @@
+---
+topic_id: 30174
+title: "Custom Colormap Lookup Table For Colororientation Of Dti Vol"
+date: 2023-06-21
+url: https://discourse.slicer.org/t/30174
+---
+
 # Custom Colormap Lookup Table for 'ColorOrientation' of DTI Volume?
 
 **Topic ID**: 30174

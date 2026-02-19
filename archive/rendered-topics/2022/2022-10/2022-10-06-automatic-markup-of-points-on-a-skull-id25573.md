@@ -1,3 +1,10 @@
+---
+topic_id: 25573
+title: "Automatic Markup Of Points On A Skull"
+date: 2022-10-06
+url: https://discourse.slicer.org/t/25573
+---
+
 # Automatic markup of points on a skull 
 
 **Topic ID**: 25573

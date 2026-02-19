@@ -1,3 +1,10 @@
+---
+topic_id: 34970
+title: "Can Anyone Tell Where I Can Get Dwi Datatset For Tumor Patie"
+date: 2024-03-19
+url: https://discourse.slicer.org/t/34970
+---
+
 # Can anyone tell where i can get dwi datatset for tumor patients?
 
 **Topic ID**: 34970

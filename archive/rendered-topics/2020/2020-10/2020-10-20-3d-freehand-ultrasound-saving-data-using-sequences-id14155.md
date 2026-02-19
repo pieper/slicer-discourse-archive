@@ -1,3 +1,10 @@
+---
+topic_id: 14155
+title: "3D Freehand Ultrasound Saving Data Using Sequences"
+date: 2020-10-20
+url: https://discourse.slicer.org/t/14155
+---
+
 # 3D freehand ultrasound - saving data using sequences
 
 **Topic ID**: 14155

@@ -1,3 +1,10 @@
+---
+topic_id: 43426
+title: "How Versatile Is The Hd Brain Extraction Extension"
+date: 2025-06-19
+url: https://discourse.slicer.org/t/43426
+---
+
 # How versatile is the HD Brain Extraction extension?
 
 **Topic ID**: 43426

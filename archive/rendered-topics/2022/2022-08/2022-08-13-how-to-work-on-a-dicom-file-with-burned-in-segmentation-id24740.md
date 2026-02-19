@@ -1,3 +1,10 @@
+---
+topic_id: 24740
+title: "How To Work On A Dicom File With Burned In Segmentation"
+date: 2022-08-13
+url: https://discourse.slicer.org/t/24740
+---
+
 # How to Work on a DICOM file with Burned In Segmentation 
 
 **Topic ID**: 24740

@@ -1,3 +1,10 @@
+---
+topic_id: 31834
+title: "Multivolume Explorer Gives Error In 5 4 Version So Does Modu"
+date: 2023-09-21
+url: https://discourse.slicer.org/t/31834
+---
+
 # Multivolume Explorer gives error in 5.4 version,  so does module "sequences" allows to plot time intensity charts from multivolume datasets? 
 
 **Topic ID**: 31834

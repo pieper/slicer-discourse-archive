@@ -1,3 +1,10 @@
+---
+topic_id: 14628
+title: "Isolated Muscle Segmentation From Mri"
+date: 2020-11-16
+url: https://discourse.slicer.org/t/14628
+---
+
 # Isolated muscle segmentation from MRI
 
 **Topic ID**: 14628

@@ -1,3 +1,10 @@
+---
+topic_id: 33769
+title: "Batch Import Model As Segmentation"
+date: 2024-01-14
+url: https://discourse.slicer.org/t/33769
+---
+
 # Batch import model as segmentation?
 
 **Topic ID**: 33769

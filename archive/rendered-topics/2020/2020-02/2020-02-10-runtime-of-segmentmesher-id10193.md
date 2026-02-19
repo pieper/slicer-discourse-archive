@@ -1,3 +1,10 @@
+---
+topic_id: 10193
+title: "Runtime Of Segmentmesher"
+date: 2020-02-10
+url: https://discourse.slicer.org/t/10193
+---
+
 # Runtime of SegmentMesher
 
 **Topic ID**: 10193

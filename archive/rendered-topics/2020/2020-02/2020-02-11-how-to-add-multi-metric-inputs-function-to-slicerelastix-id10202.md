@@ -1,3 +1,10 @@
+---
+topic_id: 10202
+title: "How To Add Multi Metric Inputs Function To Slicerelastix"
+date: 2020-02-11
+url: https://discourse.slicer.org/t/10202
+---
+
 # How to add multi-metric inputs function to SlicerElastix?
 
 **Topic ID**: 10202

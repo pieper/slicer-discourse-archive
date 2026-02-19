@@ -1,3 +1,10 @@
+---
+topic_id: 42340
+title: "Packaging Acute Stroke Detection Module For Slicer"
+date: 2025-03-28
+url: https://discourse.slicer.org/t/42340
+---
+
 # Packaging Acute Stroke Detection Module for Slicer
 
 **Topic ID**: 42340

@@ -1,3 +1,10 @@
+---
+topic_id: 21892
+title: "Export Dicom With Rbg Colours"
+date: 2022-02-10
+url: https://discourse.slicer.org/t/21892
+---
+
 # Export DICOM with RBG colours
 
 **Topic ID**: 21892

@@ -1,3 +1,10 @@
+---
+topic_id: 15584
+title: "Questions About The Threshold"
+date: 2021-01-18
+url: https://discourse.slicer.org/t/15584
+---
+
 # Questions about the threshold
 
 **Topic ID**: 15584

@@ -1,3 +1,10 @@
+---
+topic_id: 20348
+title: "Automate Dental Splint Generation Pt 2"
+date: 2021-10-26
+url: https://discourse.slicer.org/t/20348
+---
+
 # Automate Dental Splint Generation Pt. 2
 
 **Topic ID**: 20348

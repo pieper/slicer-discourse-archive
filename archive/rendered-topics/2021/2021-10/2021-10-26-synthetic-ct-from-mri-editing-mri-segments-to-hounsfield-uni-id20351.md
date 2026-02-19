@@ -1,3 +1,10 @@
+---
+topic_id: 20351
+title: "Synthetic Ct From Mri Editing Mri Segments To Hounsfield Uni"
+date: 2021-10-26
+url: https://discourse.slicer.org/t/20351
+---
+
 # Synthetic CT from MRI - editing MRI segments to Hounsfield Units
 
 **Topic ID**: 20351

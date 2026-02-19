@@ -1,3 +1,10 @@
+---
+topic_id: 25515
+title: "Tempdicomdatabase Crashes Slicer"
+date: 2022-10-03
+url: https://discourse.slicer.org/t/25515
+---
+
 # tempDICOMDatabase crashes slicer
 
 **Topic ID**: 25515

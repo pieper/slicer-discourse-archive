@@ -1,3 +1,10 @@
+---
+topic_id: 22071
+title: "Is It Possible In Any Way To Smooth The Surface Without Spoi"
+date: 2022-02-19
+url: https://discourse.slicer.org/t/22071
+---
+
 # Is it possible in any way to smooth the surface without "spoiling" some faces
 
 **Topic ID**: 22071

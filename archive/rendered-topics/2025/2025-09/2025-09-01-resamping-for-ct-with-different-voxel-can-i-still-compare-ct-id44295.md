@@ -1,3 +1,10 @@
+---
+topic_id: 44295
+title: "Resamping For Ct With Different Voxel Can I Still Compare Ct"
+date: 2025-09-01
+url: https://discourse.slicer.org/t/44295
+---
+
 # Resamping for CT with different voxel, can I still compare CTs of two patients with different voxel sizes/number of voxel per axis
 
 **Topic ID**: 44295

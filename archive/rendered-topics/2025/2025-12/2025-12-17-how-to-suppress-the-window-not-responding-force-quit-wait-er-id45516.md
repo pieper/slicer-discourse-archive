@@ -1,3 +1,10 @@
+---
+topic_id: 45516
+title: "How To Suppress The Window Not Responding Force Quit Wait Er"
+date: 2025-12-17
+url: https://discourse.slicer.org/t/45516
+---
+
 # How to suppress the Window not responding - force quit/wait error message in ubuntu?
 
 **Topic ID**: 45516

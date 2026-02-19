@@ -1,3 +1,10 @@
+---
+topic_id: 37591
+title: "Error When Using Dental Segmentator"
+date: 2024-07-28
+url: https://discourse.slicer.org/t/37591
+---
+
 # Error when using dental segmentator
 
 **Topic ID**: 37591

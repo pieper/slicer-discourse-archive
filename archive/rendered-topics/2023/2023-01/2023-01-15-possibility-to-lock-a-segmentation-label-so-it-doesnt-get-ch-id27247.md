@@ -1,3 +1,10 @@
+---
+topic_id: 27247
+title: "Possibility To Lock A Segmentation Label So It Doesnt Get Ch"
+date: 2023-01-15
+url: https://discourse.slicer.org/t/27247
+---
+
 # Possibility to lock a segmentation label so it doesn't get changed when modifying others?
 
 **Topic ID**: 27247

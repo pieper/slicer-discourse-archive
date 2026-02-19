@@ -1,3 +1,10 @@
+---
+topic_id: 1918
+title: "Transition Of Nightly Build To Qt5 Vtk9 Cmake 3 9 And C 11"
+date: 2018-01-24
+url: https://discourse.slicer.org/t/1918
+---
+
 # Transition of nightly build to Qt5, VTK9, CMake 3.9 and C++11
 
 **Topic ID**: 1918

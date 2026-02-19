@@ -1,3 +1,10 @@
+---
+topic_id: 10788
+title: "How To Register 2 Ct Datasets"
+date: 2020-03-23
+url: https://discourse.slicer.org/t/10788
+---
+
 # How to register 2 CT datasets
 
 **Topic ID**: 10788

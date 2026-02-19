@@ -1,3 +1,10 @@
+---
+topic_id: 5367
+title: "Update Slicer 4 10 1 Patch Release Will Be Initiated Tomorro"
+date: 2019-01-15
+url: https://discourse.slicer.org/t/5367
+---
+
 # Update: Slicer 4.10.1 patch release will be initiated tomorrow morning
 
 **Topic ID**: 5367

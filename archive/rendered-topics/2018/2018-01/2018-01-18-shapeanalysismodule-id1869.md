@@ -1,3 +1,10 @@
+---
+topic_id: 1869
+title: "Shapeanalysismodule"
+date: 2018-01-18
+url: https://discourse.slicer.org/t/1869
+---
+
 # ShapeAnalysisModule
 
 **Topic ID**: 1869

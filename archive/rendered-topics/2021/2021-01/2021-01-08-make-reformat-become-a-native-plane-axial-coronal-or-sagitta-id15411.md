@@ -1,3 +1,10 @@
+---
+topic_id: 15411
+title: "Make Reformat Become A Native Plane Axial Coronal Or Sagitta"
+date: 2021-01-08
+url: https://discourse.slicer.org/t/15411
+---
+
 # Make reformat become a native plane (axial, coronal or sagittal)
 
 **Topic ID**: 15411

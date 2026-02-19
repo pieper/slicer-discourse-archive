@@ -1,3 +1,10 @@
+---
+topic_id: 18064
+title: "How To Segment Brain Part And Save Segmentation And 3D Image"
+date: 2021-06-10
+url: https://discourse.slicer.org/t/18064
+---
+
 # How to segment brain part and save segmentation and 3D image as one file not separate file? 
 
 **Topic ID**: 18064

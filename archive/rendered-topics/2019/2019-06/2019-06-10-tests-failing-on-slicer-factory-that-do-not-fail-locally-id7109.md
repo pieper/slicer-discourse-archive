@@ -1,3 +1,10 @@
+---
+topic_id: 7109
+title: "Tests Failing On Slicer Factory That Do Not Fail Locally"
+date: 2019-06-10
+url: https://discourse.slicer.org/t/7109
+---
+
 # Tests failing on Slicer factory that do not fail locally
 
 **Topic ID**: 7109

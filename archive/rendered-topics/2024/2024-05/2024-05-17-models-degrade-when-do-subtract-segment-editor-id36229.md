@@ -1,3 +1,10 @@
+---
+topic_id: 36229
+title: "Models Degrade When Do Subtract Segment Editor"
+date: 2024-05-17
+url: https://discourse.slicer.org/t/36229
+---
+
 # Models degrade when do subtract segment editor
 
 **Topic ID**: 36229

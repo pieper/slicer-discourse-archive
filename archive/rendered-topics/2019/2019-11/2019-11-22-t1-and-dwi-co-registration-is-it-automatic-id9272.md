@@ -1,3 +1,10 @@
+---
+topic_id: 9272
+title: "T1 And Dwi Co Registration Is It Automatic"
+date: 2019-11-22
+url: https://discourse.slicer.org/t/9272
+---
+
 # T1 and DWI co-registration - is it automatic
 
 **Topic ID**: 9272

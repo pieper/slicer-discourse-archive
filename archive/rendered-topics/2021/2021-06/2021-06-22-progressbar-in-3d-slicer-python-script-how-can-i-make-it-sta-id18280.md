@@ -1,3 +1,10 @@
+---
+topic_id: 18280
+title: "Progressbar In 3D Slicer Python Script How Can I Make It Sta"
+date: 2021-06-22
+url: https://discourse.slicer.org/t/18280
+---
+
 # Progressbar in 3D Slicer python script - how can I make it stay in foreground?
 
 **Topic ID**: 18280

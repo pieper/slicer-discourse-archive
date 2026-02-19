@@ -1,3 +1,10 @@
+---
+topic_id: 15650
+title: "Is There A Way To Change The Roi To A Sphere"
+date: 2021-01-25
+url: https://discourse.slicer.org/t/15650
+---
+
 # Is there a way to change the ROI to a sphere
 
 **Topic ID**: 15650

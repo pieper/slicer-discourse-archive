@@ -1,3 +1,10 @@
+---
+topic_id: 30128
+title: "Segmenting A Bottle In A Ct Scan Is Slow"
+date: 2023-06-19
+url: https://discourse.slicer.org/t/30128
+---
+
 # Segmenting a bottle in a CT scan is slow
 
 **Topic ID**: 30128

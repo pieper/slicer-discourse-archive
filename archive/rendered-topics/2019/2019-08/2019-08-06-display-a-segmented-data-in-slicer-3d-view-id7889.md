@@ -1,3 +1,10 @@
+---
+topic_id: 7889
+title: "Display A Segmented Data In Slicer 3D View"
+date: 2019-08-06
+url: https://discourse.slicer.org/t/7889
+---
+
 # Display a segmented data in Slicer 3D view
 
 **Topic ID**: 7889

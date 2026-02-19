@@ -1,3 +1,10 @@
+---
+topic_id: 24434
+title: "3D Slicer Customized Application With Display And Gpu On Dif"
+date: 2022-07-21
+url: https://discourse.slicer.org/t/24434
+---
+
 # 3D Slicer customized application with display and GPU on different hosts
 
 **Topic ID**: 24434

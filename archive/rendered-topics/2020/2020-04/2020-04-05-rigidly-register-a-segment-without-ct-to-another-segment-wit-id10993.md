@@ -1,3 +1,10 @@
+---
+topic_id: 10993
+title: "Rigidly Register A Segment Without Ct To Another Segment Wit"
+date: 2020-04-05
+url: https://discourse.slicer.org/t/10993
+---
+
 # Rigidly register a segment without CT to another segment with CT
 
 **Topic ID**: 10993

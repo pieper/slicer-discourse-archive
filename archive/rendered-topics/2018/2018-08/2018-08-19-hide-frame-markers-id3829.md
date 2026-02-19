@@ -1,3 +1,10 @@
+---
+topic_id: 3829
+title: "Hide Frame Markers"
+date: 2018-08-19
+url: https://discourse.slicer.org/t/3829
+---
+
 # Hide frame markers 
 
 **Topic ID**: 3829

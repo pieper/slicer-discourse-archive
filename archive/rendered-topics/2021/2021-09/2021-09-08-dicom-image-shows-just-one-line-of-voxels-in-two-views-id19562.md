@@ -1,3 +1,10 @@
+---
+topic_id: 19562
+title: "Dicom Image Shows Just One Line Of Voxels In Two Views"
+date: 2021-09-08
+url: https://discourse.slicer.org/t/19562
+---
+
 # Dicom image shows just one line of voxels in two views
 
 **Topic ID**: 19562

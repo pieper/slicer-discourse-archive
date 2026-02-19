@@ -1,3 +1,10 @@
+---
+topic_id: 37606
+title: "Wrong Order Of Slices When Reading Enhanced Multi Frame Mri"
+date: 2024-07-29
+url: https://discourse.slicer.org/t/37606
+---
+
 # Wrong order of slices when reading enhanced multi-frame MRI containing 3 image stacks
 
 **Topic ID**: 37606

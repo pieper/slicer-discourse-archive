@@ -1,3 +1,10 @@
+---
+topic_id: 29002
+title: "I Wrote A Python Extension How To Automatically Install The"
+date: 2023-04-19
+url: https://discourse.slicer.org/t/29002
+---
+
 # I wrote a python extension, how to automatically install the extension by python?
 
 **Topic ID**: 29002

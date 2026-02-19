@@ -1,3 +1,10 @@
+---
+topic_id: 475
+title: "Who Uses Dicom Data Bundle"
+date: 2017-06-10
+url: https://discourse.slicer.org/t/475
+---
+
 # Who uses DICOM data bundle?
 
 **Topic ID**: 475

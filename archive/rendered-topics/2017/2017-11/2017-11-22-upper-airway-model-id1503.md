@@ -1,3 +1,10 @@
+---
+topic_id: 1503
+title: "Upper Airway Model"
+date: 2017-11-22
+url: https://discourse.slicer.org/t/1503
+---
+
 # Upper airway model
 
 **Topic ID**: 1503

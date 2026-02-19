@@ -1,3 +1,10 @@
+---
+topic_id: 24440
+title: "Convert Mhd File To A 3D Image That Can Be Saved As A Ply"
+date: 2022-07-21
+url: https://discourse.slicer.org/t/24440
+---
+
 # Convert .mhd file to a 3D image that can be saved as a .ply
 
 **Topic ID**: 24440

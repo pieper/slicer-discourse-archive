@@ -1,3 +1,10 @@
+---
+topic_id: 124
+title: "Discourse Post Directly From Error Log"
+date: 2017-04-14
+url: https://discourse.slicer.org/t/124
+---
+
 # Discourse post directly from error log
 
 **Topic ID**: 124

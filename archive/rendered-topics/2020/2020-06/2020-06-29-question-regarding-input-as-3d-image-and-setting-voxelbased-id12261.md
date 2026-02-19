@@ -1,3 +1,10 @@
+---
+topic_id: 12261
+title: "Question Regarding Input As 3D Image And Setting Voxelbased"
+date: 2020-06-29
+url: https://discourse.slicer.org/t/12261
+---
+
 # Question regarding input as 3D image and setting voxelbased = False
 
 **Topic ID**: 12261

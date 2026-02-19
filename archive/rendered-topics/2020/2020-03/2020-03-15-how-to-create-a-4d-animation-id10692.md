@@ -1,3 +1,10 @@
+---
+topic_id: 10692
+title: "How To Create A 4D Animation"
+date: 2020-03-15
+url: https://discourse.slicer.org/t/10692
+---
+
 # how to create a 4D animation
 
 **Topic ID**: 10692

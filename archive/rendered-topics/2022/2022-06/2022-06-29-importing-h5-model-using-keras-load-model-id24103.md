@@ -1,3 +1,10 @@
+---
+topic_id: 24103
+title: "Importing H5 Model Using Keras Load Model"
+date: 2022-06-29
+url: https://discourse.slicer.org/t/24103
+---
+
 # Importing .h5 model using keras load_model
 
 **Topic ID**: 24103

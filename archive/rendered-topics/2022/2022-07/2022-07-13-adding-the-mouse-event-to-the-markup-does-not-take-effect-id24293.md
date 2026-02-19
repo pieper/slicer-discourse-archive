@@ -1,3 +1,10 @@
+---
+topic_id: 24293
+title: "Adding The Mouse Event To The Markup Does Not Take Effect"
+date: 2022-07-13
+url: https://discourse.slicer.org/t/24293
+---
+
 # Adding the mouse event to the markup does not take effect
 
 **Topic ID**: 24293

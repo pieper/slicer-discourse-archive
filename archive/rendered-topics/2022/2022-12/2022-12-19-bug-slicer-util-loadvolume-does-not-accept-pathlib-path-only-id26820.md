@@ -1,3 +1,10 @@
+---
+topic_id: 26820
+title: "Bug Slicer Util Loadvolume Does Not Accept Pathlib Path Only"
+date: 2022-12-19
+url: https://discourse.slicer.org/t/26820
+---
+
 # Bug: slicer.util.loadVolume does not accept pathlib Path (only string)
 
 **Topic ID**: 26820

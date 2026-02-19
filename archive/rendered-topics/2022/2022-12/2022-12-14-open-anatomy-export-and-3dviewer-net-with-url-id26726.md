@@ -1,3 +1,10 @@
+---
+topic_id: 26726
+title: "Open Anatomy Export And 3Dviewer Net With Url"
+date: 2022-12-14
+url: https://discourse.slicer.org/t/26726
+---
+
 # Open Anatomy Export and 3dviewer.net with URL
 
 **Topic ID**: 26726

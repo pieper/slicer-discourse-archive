@@ -1,3 +1,10 @@
+---
+topic_id: 31413
+title: "Easier Discovery Of The Post Via Email Capability"
+date: 2023-08-29
+url: https://discourse.slicer.org/t/31413
+---
+
 # Easier discovery of the "post via email" capability
 
 **Topic ID**: 31413

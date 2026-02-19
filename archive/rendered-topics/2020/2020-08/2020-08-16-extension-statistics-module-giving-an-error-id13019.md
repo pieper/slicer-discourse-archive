@@ -1,3 +1,10 @@
+---
+topic_id: 13019
+title: "Extension Statistics Module Giving An Error"
+date: 2020-08-16
+url: https://discourse.slicer.org/t/13019
+---
+
 # Extension statistics module giving an error
 
 **Topic ID**: 13019

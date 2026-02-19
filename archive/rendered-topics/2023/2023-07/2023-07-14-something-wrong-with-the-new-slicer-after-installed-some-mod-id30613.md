@@ -1,3 +1,10 @@
+---
+topic_id: 30613
+title: "Something Wrong With The New Slicer After Installed Some Mod"
+date: 2023-07-14
+url: https://discourse.slicer.org/t/30613
+---
+
 # Something wrong with the new slicer after installed some modules
 
 **Topic ID**: 30613

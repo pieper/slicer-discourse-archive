@@ -1,3 +1,10 @@
+---
+topic_id: 19567
+title: "3D Widget After Show Has 0 0 Sized Window Until Fully Displa"
+date: 2021-09-08
+url: https://discourse.slicer.org/t/19567
+---
+
 # 3D Widget after show() has (0,0)-sized window until fully displayed
 
 **Topic ID**: 19567

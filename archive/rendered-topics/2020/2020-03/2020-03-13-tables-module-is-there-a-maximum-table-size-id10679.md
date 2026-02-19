@@ -1,3 +1,10 @@
+---
+topic_id: 10679
+title: "Tables Module Is There A Maximum Table Size"
+date: 2020-03-13
+url: https://discourse.slicer.org/t/10679
+---
+
 # Tables Module: is there a maximum table size?
 
 **Topic ID**: 10679

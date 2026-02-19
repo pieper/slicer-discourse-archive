@@ -1,3 +1,10 @@
+---
+topic_id: 5179
+title: "Ui Problems Menu Bar Cut Off Mouse Click Offset"
+date: 2018-12-23
+url: https://discourse.slicer.org/t/5179
+---
+
 # UI problems: menu bar cut off, mouse click offset
 
 **Topic ID**: 5179

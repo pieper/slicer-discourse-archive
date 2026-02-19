@@ -1,3 +1,10 @@
+---
+topic_id: 32319
+title: "Filereader And Filewriter For 2 Classes"
+date: 2023-10-19
+url: https://discourse.slicer.org/t/32319
+---
+
 # FileReader and FileWriter for 2 classes
 
 **Topic ID**: 32319

@@ -1,3 +1,10 @@
+---
+topic_id: 136
+title: "External Calling At Slicer 3D"
+date: 2017-04-17
+url: https://discourse.slicer.org/t/136
+---
+
 # External calling at Slicer 3D
 
 **Topic ID**: 136

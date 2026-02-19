@@ -1,3 +1,10 @@
+---
+topic_id: 6072
+title: "Failure To Convert Dicom Files To Nrrd For Diffusion Mri Ana"
+date: 2019-03-08
+url: https://discourse.slicer.org/t/6072
+---
+
 # Failure to convert DICOM files to Nrrd for Diffusion MRI Analysis
 
 **Topic ID**: 6072

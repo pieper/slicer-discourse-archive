@@ -1,3 +1,10 @@
+---
+topic_id: 28727
+title: "Total Segmentator On 5 2 2 Scikit Learn Distribution Not Fou"
+date: 2023-04-03
+url: https://discourse.slicer.org/t/28727
+---
+
 # Total Segmentator on 5.2.2 "scikit-learn" distribution not found
 
 **Topic ID**: 28727

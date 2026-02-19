@@ -1,3 +1,10 @@
+---
+topic_id: 31531
+title: "How Do I Introduce The Segment Editor Module Into My Qt Prog"
+date: 2023-09-04
+url: https://discourse.slicer.org/t/31531
+---
+
 # How Do I introduce the Segment Editor module into MY QT program?
 
 **Topic ID**: 31531

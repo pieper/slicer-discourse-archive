@@ -1,3 +1,10 @@
+---
+topic_id: 33961
+title: "Overwrite Existing Segments When Copying A New Segment"
+date: 2024-01-25
+url: https://discourse.slicer.org/t/33961
+---
+
 # Overwrite existing segments when copying a new segment
 
 **Topic ID**: 33961

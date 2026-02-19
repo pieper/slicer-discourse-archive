@@ -1,3 +1,10 @@
+---
+topic_id: 19194
+title: "How To Reveal Jaw With Teeth Over Skull"
+date: 2021-08-14
+url: https://discourse.slicer.org/t/19194
+---
+
 # How to reveal jaw with teeth over skull
 
 **Topic ID**: 19194

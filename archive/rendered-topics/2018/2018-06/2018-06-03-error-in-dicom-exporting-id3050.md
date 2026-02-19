@@ -1,3 +1,10 @@
+---
+topic_id: 3050
+title: "Error In Dicom Exporting"
+date: 2018-06-03
+url: https://discourse.slicer.org/t/3050
+---
+
 # Error in DICOM Exporting
 
 **Topic ID**: 3050

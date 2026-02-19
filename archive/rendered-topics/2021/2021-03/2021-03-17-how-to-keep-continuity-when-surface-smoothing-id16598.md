@@ -1,3 +1,10 @@
+---
+topic_id: 16598
+title: "How To Keep Continuity When Surface Smoothing"
+date: 2021-03-17
+url: https://discourse.slicer.org/t/16598
+---
+
 # How to keep continuity when surface smoothing
 
 **Topic ID**: 16598

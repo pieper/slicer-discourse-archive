@@ -1,3 +1,10 @@
+---
+topic_id: 5101
+title: "Weird Behaviour When Loading Us Dicom"
+date: 2018-12-17
+url: https://discourse.slicer.org/t/5101
+---
+
 # Weird behaviour when loading US dicom
 
 **Topic ID**: 5101

@@ -1,3 +1,10 @@
+---
+topic_id: 26871
+title: "Error Opening Extensions Manager And Loading Previous Develo"
+date: 2022-12-21
+url: https://discourse.slicer.org/t/26871
+---
+
 # Error opening Extensions Manager and loading previous developed Modules
 
 **Topic ID**: 26871

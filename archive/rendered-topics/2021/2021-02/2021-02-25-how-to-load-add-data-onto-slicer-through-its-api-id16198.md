@@ -1,3 +1,10 @@
+---
+topic_id: 16198
+title: "How To Load Add Data Onto Slicer Through Its Api"
+date: 2021-02-25
+url: https://discourse.slicer.org/t/16198
+---
+
 # How to load/add data onto Slicer through its API?
 
 **Topic ID**: 16198

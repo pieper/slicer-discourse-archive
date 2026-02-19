@@ -1,3 +1,10 @@
+---
+topic_id: 12454
+title: "Cannot Serialize A Bytes Object Larger Than 4 Gib Shelve"
+date: 2020-07-09
+url: https://discourse.slicer.org/t/12454
+---
+
 # Cannot serialize a bytes object larger than 4 GiB - shelve
 
 **Topic ID**: 12454

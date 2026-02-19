@@ -1,3 +1,10 @@
+---
+topic_id: 40404
+title: "Navigation In 3D Slicer"
+date: 2024-11-27
+url: https://discourse.slicer.org/t/40404
+---
+
 # Navigation in 3D slicer
 
 **Topic ID**: 40404

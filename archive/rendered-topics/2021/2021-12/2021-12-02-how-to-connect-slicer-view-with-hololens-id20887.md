@@ -1,3 +1,10 @@
+---
+topic_id: 20887
+title: "How To Connect Slicer View With Hololens"
+date: 2021-12-02
+url: https://discourse.slicer.org/t/20887
+---
+
 # How to connect Slicer view with Hololens？
 
 **Topic ID**: 20887

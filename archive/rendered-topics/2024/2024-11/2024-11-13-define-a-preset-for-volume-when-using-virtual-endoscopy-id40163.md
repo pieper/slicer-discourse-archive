@@ -1,3 +1,10 @@
+---
+topic_id: 40163
+title: "Define A Preset For Volume When Using Virtual Endoscopy"
+date: 2024-11-13
+url: https://discourse.slicer.org/t/40163
+---
+
 # Define a preset for volume when using virtual endoscopy
 
 **Topic ID**: 40163

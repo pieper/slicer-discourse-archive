@@ -1,3 +1,10 @@
+---
+topic_id: 7276
+title: "Slicer Numpy Upgrade"
+date: 2019-06-21
+url: https://discourse.slicer.org/t/7276
+---
+
 # Slicer numpy upgrade
 
 **Topic ID**: 7276

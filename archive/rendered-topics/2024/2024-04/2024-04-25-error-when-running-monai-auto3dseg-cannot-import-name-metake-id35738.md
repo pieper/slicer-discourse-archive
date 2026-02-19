@@ -1,3 +1,10 @@
+---
+topic_id: 35738
+title: "Error When Running Monai Auto3Dseg Cannot Import Name Metake"
+date: 2024-04-25
+url: https://discourse.slicer.org/t/35738
+---
+
 # Error when running MONAI Auto3DSeg (cannot import name ‘MetaKeys’ from ‘monai.utils’)
 
 **Topic ID**: 35738

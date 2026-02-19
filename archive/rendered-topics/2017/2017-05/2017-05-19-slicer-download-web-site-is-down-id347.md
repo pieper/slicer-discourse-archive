@@ -1,3 +1,10 @@
+---
+topic_id: 347
+title: "Slicer Download Web Site Is Down"
+date: 2017-05-19
+url: https://discourse.slicer.org/t/347
+---
+
 # Slicer download web site is down
 
 **Topic ID**: 347

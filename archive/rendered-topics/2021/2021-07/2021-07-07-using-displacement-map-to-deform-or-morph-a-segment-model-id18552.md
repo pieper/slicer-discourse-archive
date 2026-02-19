@@ -1,3 +1,10 @@
+---
+topic_id: 18552
+title: "Using Displacement Map To Deform Or Morph A Segment Model"
+date: 2021-07-07
+url: https://discourse.slicer.org/t/18552
+---
+
 # Using Displacement Map to Deform or Morph a Segment/Model
 
 **Topic ID**: 18552

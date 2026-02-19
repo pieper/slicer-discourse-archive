@@ -1,3 +1,10 @@
+---
+topic_id: 2594
+title: "Import Dicom Missing Slices"
+date: 2018-04-16
+url: https://discourse.slicer.org/t/2594
+---
+
 # Import DICOM missing slices
 
 **Topic ID**: 2594

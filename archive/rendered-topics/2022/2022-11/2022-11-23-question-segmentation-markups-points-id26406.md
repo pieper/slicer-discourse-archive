@@ -1,3 +1,10 @@
+---
+topic_id: 26406
+title: "Question Segmentation Markups Points"
+date: 2022-11-23
+url: https://discourse.slicer.org/t/26406
+---
+
 # Question: Segmentation + Markups(Points)
 
 **Topic ID**: 26406

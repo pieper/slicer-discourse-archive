@@ -1,3 +1,10 @@
+---
+topic_id: 24292
+title: "Fail To Upload Dicom Data"
+date: 2022-07-13
+url: https://discourse.slicer.org/t/24292
+---
+
 # Fail to upload DICOM data
 
 **Topic ID**: 24292

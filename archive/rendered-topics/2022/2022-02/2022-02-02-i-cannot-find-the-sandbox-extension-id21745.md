@@ -1,3 +1,10 @@
+---
+topic_id: 21745
+title: "I Cannot Find The Sandbox Extension"
+date: 2022-02-02
+url: https://discourse.slicer.org/t/21745
+---
+
 # I cannot find the Sandbox extension
 
 **Topic ID**: 21745

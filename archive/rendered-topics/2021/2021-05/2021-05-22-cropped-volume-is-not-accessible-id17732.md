@@ -1,3 +1,10 @@
+---
+topic_id: 17732
+title: "Cropped Volume Is Not Accessible"
+date: 2021-05-22
+url: https://discourse.slicer.org/t/17732
+---
+
 # Cropped volume is not accessible
 
 **Topic ID**: 17732

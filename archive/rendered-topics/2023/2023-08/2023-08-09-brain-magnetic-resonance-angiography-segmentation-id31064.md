@@ -1,3 +1,10 @@
+---
+topic_id: 31064
+title: "Brain Magnetic Resonance Angiography Segmentation"
+date: 2023-08-09
+url: https://discourse.slicer.org/t/31064
+---
+
 # Brain magnetic resonance angiography segmentation
 
 **Topic ID**: 31064

@@ -1,3 +1,10 @@
+---
+topic_id: 5803
+title: "Mesh Statistics In 3D Slicer"
+date: 2019-02-16
+url: https://discourse.slicer.org/t/5803
+---
+
 # Mesh statistics in 3D Slicer
 
 **Topic ID**: 5803

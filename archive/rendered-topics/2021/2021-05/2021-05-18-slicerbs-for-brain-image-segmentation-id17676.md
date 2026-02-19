@@ -1,3 +1,10 @@
+---
+topic_id: 17676
+title: "Slicerbs For Brain Image Segmentation"
+date: 2021-05-18
+url: https://discourse.slicer.org/t/17676
+---
+
 # SlicerBS for brain image segmentation
 
 **Topic ID**: 17676

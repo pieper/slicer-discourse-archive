@@ -1,3 +1,10 @@
+---
+topic_id: 42432
+title: "Deep Learning Model In Slicer"
+date: 2025-04-04
+url: https://discourse.slicer.org/t/42432
+---
+
 # Deep Learning Model in Slicer
 
 **Topic ID**: 42432

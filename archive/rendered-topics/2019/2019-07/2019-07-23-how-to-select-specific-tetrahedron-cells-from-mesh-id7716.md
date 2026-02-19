@@ -1,3 +1,10 @@
+---
+topic_id: 7716
+title: "How To Select Specific Tetrahedron Cells From Mesh"
+date: 2019-07-23
+url: https://discourse.slicer.org/t/7716
+---
+
 # How to select specific tetrahedron cells from mesh
 
 **Topic ID**: 7716

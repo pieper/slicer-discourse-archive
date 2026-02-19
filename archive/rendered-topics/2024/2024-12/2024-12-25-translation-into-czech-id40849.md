@@ -1,3 +1,10 @@
+---
+topic_id: 40849
+title: "Translation Into Czech"
+date: 2024-12-25
+url: https://discourse.slicer.org/t/40849
+---
+
 # Translation into Czech
 
 **Topic ID**: 40849

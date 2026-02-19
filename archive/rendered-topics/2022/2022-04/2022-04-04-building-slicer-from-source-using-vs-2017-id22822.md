@@ -1,3 +1,10 @@
+---
+topic_id: 22822
+title: "Building Slicer From Source Using Vs 2017"
+date: 2022-04-04
+url: https://discourse.slicer.org/t/22822
+---
+
 # Building Slicer from source using VS 2017
 
 **Topic ID**: 22822

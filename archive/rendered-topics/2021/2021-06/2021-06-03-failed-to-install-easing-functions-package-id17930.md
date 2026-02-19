@@ -1,3 +1,10 @@
+---
+topic_id: 17930
+title: "Failed To Install Easing Functions Package"
+date: 2021-06-03
+url: https://discourse.slicer.org/t/17930
+---
+
 # Failed to install easing-functions package
 
 **Topic ID**: 17930

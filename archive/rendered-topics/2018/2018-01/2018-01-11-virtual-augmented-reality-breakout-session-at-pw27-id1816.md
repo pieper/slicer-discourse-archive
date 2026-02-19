@@ -1,3 +1,10 @@
+---
+topic_id: 1816
+title: "Virtual Augmented Reality Breakout Session At Pw27"
+date: 2018-01-11
+url: https://discourse.slicer.org/t/1816
+---
+
 # Virtual/Augmented Reality breakout session at PW27
 
 **Topic ID**: 1816

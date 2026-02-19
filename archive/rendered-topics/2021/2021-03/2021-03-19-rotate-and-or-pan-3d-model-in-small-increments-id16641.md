@@ -1,3 +1,10 @@
+---
+topic_id: 16641
+title: "Rotate And Or Pan 3D Model In Small Increments"
+date: 2021-03-19
+url: https://discourse.slicer.org/t/16641
+---
+
 # Rotate and/or pan 3D model in small increments
 
 **Topic ID**: 16641

@@ -1,3 +1,10 @@
+---
+topic_id: 3736
+title: "Margin Calculator Extension"
+date: 2018-08-12
+url: https://discourse.slicer.org/t/3736
+---
+
 # Margin calculator extension
 
 **Topic ID**: 3736

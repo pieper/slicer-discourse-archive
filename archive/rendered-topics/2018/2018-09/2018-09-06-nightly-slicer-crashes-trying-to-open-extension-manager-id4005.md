@@ -1,3 +1,10 @@
+---
+topic_id: 4005
+title: "Nightly Slicer Crashes Trying To Open Extension Manager"
+date: 2018-09-06
+url: https://discourse.slicer.org/t/4005
+---
+
 # Nightly Slicer crashes trying to open Extension Manager
 
 **Topic ID**: 4005

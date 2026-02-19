@@ -1,3 +1,10 @@
+---
+topic_id: 10110
+title: "Install Python Library With Extension"
+date: 2020-02-04
+url: https://discourse.slicer.org/t/10110
+---
+
 # Install python library with extension
 
 **Topic ID**: 10110

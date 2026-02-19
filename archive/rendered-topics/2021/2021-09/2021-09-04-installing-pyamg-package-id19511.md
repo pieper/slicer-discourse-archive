@@ -1,3 +1,10 @@
+---
+topic_id: 19511
+title: "Installing Pyamg Package"
+date: 2021-09-04
+url: https://discourse.slicer.org/t/19511
+---
+
 # Installing pyamg package
 
 **Topic ID**: 19511

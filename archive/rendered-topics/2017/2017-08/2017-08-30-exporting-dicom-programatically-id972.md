@@ -1,3 +1,10 @@
+---
+topic_id: 972
+title: "Exporting Dicom Programatically"
+date: 2017-08-30
+url: https://discourse.slicer.org/t/972
+---
+
 # Exporting Dicom programatically
 
 **Topic ID**: 972

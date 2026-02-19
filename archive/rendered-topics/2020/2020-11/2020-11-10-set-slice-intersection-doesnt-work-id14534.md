@@ -1,3 +1,10 @@
+---
+topic_id: 14534
+title: "Set Slice Intersection Doesnt Work"
+date: 2020-11-10
+url: https://discourse.slicer.org/t/14534
+---
+
 # Set slice intersection doesn't work
 
 **Topic ID**: 14534

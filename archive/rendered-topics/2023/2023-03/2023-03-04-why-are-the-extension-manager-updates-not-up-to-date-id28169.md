@@ -1,3 +1,10 @@
+---
+topic_id: 28169
+title: "Why Are The Extension Manager Updates Not Up To Date"
+date: 2023-03-04
+url: https://discourse.slicer.org/t/28169
+---
+
 # Why are the extension manager updates not up-to-date?
 
 **Topic ID**: 28169

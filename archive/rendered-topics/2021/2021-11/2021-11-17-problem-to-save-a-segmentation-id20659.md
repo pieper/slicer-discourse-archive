@@ -1,3 +1,10 @@
+---
+topic_id: 20659
+title: "Problem To Save A Segmentation"
+date: 2021-11-17
+url: https://discourse.slicer.org/t/20659
+---
+
 # Problem to save a segmentation
 
 **Topic ID**: 20659

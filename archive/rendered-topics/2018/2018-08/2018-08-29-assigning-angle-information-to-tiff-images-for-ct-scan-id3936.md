@@ -1,3 +1,10 @@
+---
+topic_id: 3936
+title: "Assigning Angle Information To Tiff Images For Ct Scan"
+date: 2018-08-29
+url: https://discourse.slicer.org/t/3936
+---
+
 # Assigning angle information to tiff images for CT scan 
 
 **Topic ID**: 3936

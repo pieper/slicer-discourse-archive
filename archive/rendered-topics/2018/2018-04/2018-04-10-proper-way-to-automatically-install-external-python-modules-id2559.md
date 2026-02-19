@@ -1,3 +1,10 @@
+---
+topic_id: 2559
+title: "Proper Way To Automatically Install External Python Modules"
+date: 2018-04-10
+url: https://discourse.slicer.org/t/2559
+---
+
 # Proper way to automatically install external Python modules
 
 **Topic ID**: 2559

@@ -1,3 +1,10 @@
+---
+topic_id: 30782
+title: "Get The Same Array Size After Transform"
+date: 2023-07-25
+url: https://discourse.slicer.org/t/30782
+---
+
 # Get the same array size after transform
 
 **Topic ID**: 30782

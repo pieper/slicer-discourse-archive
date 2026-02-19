@@ -1,3 +1,10 @@
+---
+topic_id: 2510
+title: "Vtkobjexporter Model Down Quality"
+date: 2018-04-04
+url: https://discourse.slicer.org/t/2510
+---
+
 # vtkObjExporter- model down quality
 
 **Topic ID**: 2510

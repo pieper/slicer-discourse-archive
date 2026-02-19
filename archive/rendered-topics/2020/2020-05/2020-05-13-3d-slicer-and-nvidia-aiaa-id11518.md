@@ -1,3 +1,10 @@
+---
+topic_id: 11518
+title: "3D Slicer And Nvidia Aiaa"
+date: 2020-05-13
+url: https://discourse.slicer.org/t/11518
+---
+
 # 3D Slicer and Nvidia AIAA
 
 **Topic ID**: 11518

@@ -1,3 +1,10 @@
+---
+topic_id: 18664
+title: "How To Load Nifti File From Web Browser Link"
+date: 2021-07-13
+url: https://discourse.slicer.org/t/18664
+---
+
 # How to load nifti file from web browser link?
 
 **Topic ID**: 18664

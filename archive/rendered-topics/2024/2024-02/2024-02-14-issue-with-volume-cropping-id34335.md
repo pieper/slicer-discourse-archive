@@ -1,3 +1,10 @@
+---
+topic_id: 34335
+title: "Issue With Volume Cropping"
+date: 2024-02-14
+url: https://discourse.slicer.org/t/34335
+---
+
 # Issue with Volume Cropping
 
 **Topic ID**: 34335

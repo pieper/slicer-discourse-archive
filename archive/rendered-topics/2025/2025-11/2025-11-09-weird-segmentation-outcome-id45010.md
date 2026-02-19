@@ -1,3 +1,10 @@
+---
+topic_id: 45010
+title: "Weird Segmentation Outcome"
+date: 2025-11-09
+url: https://discourse.slicer.org/t/45010
+---
+
 # Weird segmentation outcome
 
 **Topic ID**: 45010

@@ -1,3 +1,10 @@
+---
+topic_id: 12429
+title: "Error Export To Dicom"
+date: 2020-07-07
+url: https://discourse.slicer.org/t/12429
+---
+
 # Error, export to DICOM
 
 **Topic ID**: 12429

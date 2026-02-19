@@ -1,3 +1,10 @@
+---
+topic_id: 25411
+title: "Automatically Run A Python Script From Slicer For Deep Learn"
+date: 2022-09-23
+url: https://discourse.slicer.org/t/25411
+---
+
 # Automatically run a python script from slicer for deep learning inference purpose
 
 **Topic ID**: 25411

@@ -1,3 +1,10 @@
+---
+topic_id: 5335
+title: "Color Module Label Size"
+date: 2019-01-11
+url: https://discourse.slicer.org/t/5335
+---
+
 # Color module label size
 
 **Topic ID**: 5335

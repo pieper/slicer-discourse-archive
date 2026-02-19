@@ -1,3 +1,10 @@
+---
+topic_id: 27512
+title: "Load A Segmentation Into The 3D Viewer From A Module"
+date: 2023-01-28
+url: https://discourse.slicer.org/t/27512
+---
+
 # Load a segmentation into the 3D viewer from a module
 
 **Topic ID**: 27512

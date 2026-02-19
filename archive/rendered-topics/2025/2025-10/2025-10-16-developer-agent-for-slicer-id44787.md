@@ -1,3 +1,10 @@
+---
+topic_id: 44787
+title: "Developer Agent For Slicer"
+date: 2025-10-16
+url: https://discourse.slicer.org/t/44787
+---
+
 # Developer Agent for Slicer
 
 **Topic ID**: 44787

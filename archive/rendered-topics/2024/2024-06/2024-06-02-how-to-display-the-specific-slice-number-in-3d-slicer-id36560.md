@@ -1,3 +1,10 @@
+---
+topic_id: 36560
+title: "How To Display The Specific Slice Number In 3D Slicer"
+date: 2024-06-02
+url: https://discourse.slicer.org/t/36560
+---
+
 # How to display the specific slice number in 3D Slicer?
 
 **Topic ID**: 36560

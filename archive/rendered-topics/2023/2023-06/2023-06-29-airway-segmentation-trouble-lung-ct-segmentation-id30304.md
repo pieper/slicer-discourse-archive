@@ -1,3 +1,10 @@
+---
+topic_id: 30304
+title: "Airway Segmentation Trouble Lung Ct Segmentation"
+date: 2023-06-29
+url: https://discourse.slicer.org/t/30304
+---
+
 # Airway segmentation trouble - Lung CT Segmentation
 
 **Topic ID**: 30304

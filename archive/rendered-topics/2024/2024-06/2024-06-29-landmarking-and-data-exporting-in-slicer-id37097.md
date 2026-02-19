@@ -1,3 +1,10 @@
+---
+topic_id: 37097
+title: "Landmarking And Data Exporting In Slicer"
+date: 2024-06-29
+url: https://discourse.slicer.org/t/37097
+---
+
 # Landmarking and data exporting  in slicer
 
 **Topic ID**: 37097

@@ -1,3 +1,10 @@
+---
+topic_id: 35672
+title: "Vessel Segmentation How Do You Do It Surgical Planning"
+date: 2024-04-23
+url: https://discourse.slicer.org/t/35672
+---
+
 # Vessel segmentation: how do you do it? - Surgical planning
 
 **Topic ID**: 35672

@@ -1,3 +1,10 @@
+---
+topic_id: 25292
+title: "Modifying Translation Files"
+date: 2022-09-16
+url: https://discourse.slicer.org/t/25292
+---
+
 # Modifying translation files
 
 **Topic ID**: 25292

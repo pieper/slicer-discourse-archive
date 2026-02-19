@@ -1,3 +1,10 @@
+---
+topic_id: 17398
+title: "Slicer Qslicerwebwidget Disable Extension Manager Install"
+date: 2021-04-30
+url: https://discourse.slicer.org/t/17398
+---
+
 # slicer.qSlicerWebWidget() disable extension manager install
 
 **Topic ID**: 17398

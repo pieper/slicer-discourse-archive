@@ -1,3 +1,10 @@
+---
+topic_id: 10038
+title: "Looking For Slicer Users In Macedonia And The Baltics"
+date: 2020-01-30
+url: https://discourse.slicer.org/t/10038
+---
+
 # Looking for Slicer users in Macedonia and the Baltics
 
 **Topic ID**: 10038

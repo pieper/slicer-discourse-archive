@@ -1,3 +1,10 @@
+---
+topic_id: 42712
+title: "Calculating The Volume Encompassed By A Given Isodose"
+date: 2025-04-28
+url: https://discourse.slicer.org/t/42712
+---
+
 # Calculating the volume encompassed by a given isodose
 
 **Topic ID**: 42712

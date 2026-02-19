@@ -1,3 +1,10 @@
+---
+topic_id: 34008
+title: "How To Mark Some Strings As Translatable"
+date: 2024-01-28
+url: https://discourse.slicer.org/t/34008
+---
+
 # How to mark some strings as translatable?
 
 **Topic ID**: 34008

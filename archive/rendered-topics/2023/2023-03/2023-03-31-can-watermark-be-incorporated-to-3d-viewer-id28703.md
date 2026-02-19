@@ -1,3 +1,10 @@
+---
+topic_id: 28703
+title: "Can Watermark Be Incorporated To 3D Viewer"
+date: 2023-03-31
+url: https://discourse.slicer.org/t/28703
+---
+
 # Can watermark be incorporated to 3D viewer?
 
 **Topic ID**: 28703

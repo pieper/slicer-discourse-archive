@@ -1,3 +1,10 @@
+---
+topic_id: 32256
+title: "Unclear Branching And Endpoint Detection In Vmtk Centerlines"
+date: 2023-10-16
+url: https://discourse.slicer.org/t/32256
+---
+
 # Unclear branching and endpoint detection in vmtk-centerlines
 
 **Topic ID**: 32256

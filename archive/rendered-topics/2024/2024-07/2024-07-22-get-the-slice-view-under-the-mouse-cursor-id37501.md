@@ -1,3 +1,10 @@
+---
+topic_id: 37501
+title: "Get The Slice View Under The Mouse Cursor"
+date: 2024-07-22
+url: https://discourse.slicer.org/t/37501
+---
+
 # Get the slice view under the mouse cursor
 
 **Topic ID**: 37501

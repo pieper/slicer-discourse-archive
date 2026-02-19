@@ -1,3 +1,10 @@
+---
+topic_id: 17447
+title: "Whats Causing These Slicer Python Errors"
+date: 2021-05-04
+url: https://discourse.slicer.org/t/17447
+---
+
 # What's Causing These Slicer / Python Errors
 
 **Topic ID**: 17447

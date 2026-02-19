@@ -1,3 +1,10 @@
+---
+topic_id: 38330
+title: "Cannot Load A Dicom"
+date: 2024-09-11
+url: https://discourse.slicer.org/t/38330
+---
+
 # Cannot load a DICOM 
 
 **Topic ID**: 38330

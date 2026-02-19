@@ -1,3 +1,10 @@
+---
+topic_id: 29786
+title: "Remake Save Function"
+date: 2023-06-02
+url: https://discourse.slicer.org/t/29786
+---
+
 # Remake Save function
 
 **Topic ID**: 29786

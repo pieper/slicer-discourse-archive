@@ -1,3 +1,10 @@
+---
+topic_id: 20404
+title: "Text Node New Lines Not Restored"
+date: 2021-10-28
+url: https://discourse.slicer.org/t/20404
+---
+
 # Text node: new lines not restored
 
 **Topic ID**: 20404

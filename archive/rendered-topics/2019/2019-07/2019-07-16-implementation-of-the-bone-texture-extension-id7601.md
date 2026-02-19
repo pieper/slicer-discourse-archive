@@ -1,3 +1,10 @@
+---
+topic_id: 7601
+title: "Implementation Of The Bone Texture Extension"
+date: 2019-07-16
+url: https://discourse.slicer.org/t/7601
+---
+
 # Implementation of the Bone Texture Extension
 
 **Topic ID**: 7601

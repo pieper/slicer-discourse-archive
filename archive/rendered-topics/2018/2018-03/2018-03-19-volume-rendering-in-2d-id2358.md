@@ -1,3 +1,10 @@
+---
+topic_id: 2358
+title: "Volume Rendering In 2D"
+date: 2018-03-19
+url: https://discourse.slicer.org/t/2358
+---
+
 # Volume Rendering in 2D
 
 **Topic ID**: 2358

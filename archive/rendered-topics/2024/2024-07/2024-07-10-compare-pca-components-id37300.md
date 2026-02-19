@@ -1,3 +1,10 @@
+---
+topic_id: 37300
+title: "Compare Pca Components"
+date: 2024-07-10
+url: https://discourse.slicer.org/t/37300
+---
+
 # Compare PCA components
 
 **Topic ID**: 37300

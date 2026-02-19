@@ -1,3 +1,10 @@
+---
+topic_id: 32674
+title: "Error Loading Freesurfer Segmentation"
+date: 2023-11-08
+url: https://discourse.slicer.org/t/32674
+---
+
 # Error loading freesurfer segmentation
 
 **Topic ID**: 32674

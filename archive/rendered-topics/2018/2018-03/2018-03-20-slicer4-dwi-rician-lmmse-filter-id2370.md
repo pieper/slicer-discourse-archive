@@ -1,3 +1,10 @@
+---
+topic_id: 2370
+title: "Slicer4 Dwi Rician Lmmse Filter"
+date: 2018-03-20
+url: https://discourse.slicer.org/t/2370
+---
+
 # Slicer4 DWI Rician LMMSE Filter
 
 **Topic ID**: 2370

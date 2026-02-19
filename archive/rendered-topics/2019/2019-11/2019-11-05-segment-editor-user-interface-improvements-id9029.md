@@ -1,3 +1,10 @@
+---
+topic_id: 9029
+title: "Segment Editor User Interface Improvements"
+date: 2019-11-05
+url: https://discourse.slicer.org/t/9029
+---
+
 # Segment Editor User Interface Improvements
 
 **Topic ID**: 9029

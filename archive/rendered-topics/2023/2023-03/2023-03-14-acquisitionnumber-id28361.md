@@ -1,3 +1,10 @@
+---
+topic_id: 28361
+title: "Acquisitionnumber"
+date: 2023-03-14
+url: https://discourse.slicer.org/t/28361
+---
+
 # acquisitionNumber
 
 **Topic ID**: 28361

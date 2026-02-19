@@ -1,3 +1,10 @@
+---
+topic_id: 20733
+title: "Multiple Display Nodes Observed By Scalar Volume Or Model"
+date: 2021-11-22
+url: https://discourse.slicer.org/t/20733
+---
+
 # Multiple display nodes observed by scalar volume or model
 
 **Topic ID**: 20733

@@ -1,3 +1,10 @@
+---
+topic_id: 26427
+title: "Custom Module That Tracks The Orientation And Position Of Ar"
+date: 2022-11-24
+url: https://discourse.slicer.org/t/26427
+---
+
 # Custom module that tracks the orientation and position of arUco markers in real time
 
 **Topic ID**: 26427

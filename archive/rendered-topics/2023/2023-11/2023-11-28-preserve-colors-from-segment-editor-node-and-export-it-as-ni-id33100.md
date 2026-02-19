@@ -1,3 +1,10 @@
+---
+topic_id: 33100
+title: "Preserve Colors From Segment Editor Node And Export It As Ni"
+date: 2023-11-28
+url: https://discourse.slicer.org/t/33100
+---
+
 # Preserve colors from segment editor node and export it as Nifti LabelMap
 
 **Topic ID**: 33100

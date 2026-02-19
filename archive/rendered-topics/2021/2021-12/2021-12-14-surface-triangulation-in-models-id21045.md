@@ -1,3 +1,10 @@
+---
+topic_id: 21045
+title: "Surface Triangulation In Models"
+date: 2021-12-14
+url: https://discourse.slicer.org/t/21045
+---
+
 # Surface triangulation in Models
 
 **Topic ID**: 21045

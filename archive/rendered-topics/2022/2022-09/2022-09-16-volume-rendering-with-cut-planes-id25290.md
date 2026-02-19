@@ -1,3 +1,10 @@
+---
+topic_id: 25290
+title: "Volume Rendering With Cut Planes"
+date: 2022-09-16
+url: https://discourse.slicer.org/t/25290
+---
+
 # Volume Rendering with cut planes
 
 **Topic ID**: 25290

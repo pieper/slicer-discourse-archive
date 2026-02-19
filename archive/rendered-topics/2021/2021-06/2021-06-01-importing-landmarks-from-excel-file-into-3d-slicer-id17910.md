@@ -1,3 +1,10 @@
+---
+topic_id: 17910
+title: "Importing Landmarks From Excel File Into 3D Slicer"
+date: 2021-06-01
+url: https://discourse.slicer.org/t/17910
+---
+
 # Importing Landmarks from excel file into 3D Slicer
 
 **Topic ID**: 17910

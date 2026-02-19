@@ -1,3 +1,10 @@
+---
+topic_id: 14947
+title: "Add Create New Segment Or Clone Segment Feature To Segment E"
+date: 2020-12-08
+url: https://discourse.slicer.org/t/14947
+---
+
 # Add "Create new segment" or "Clone segment" feature to Segment Editor
 
 **Topic ID**: 14947

@@ -1,3 +1,10 @@
+---
+topic_id: 8168
+title: "Probe Volume Values"
+date: 2019-08-25
+url: https://discourse.slicer.org/t/8168
+---
+
 # Probe volume values
 
 **Topic ID**: 8168

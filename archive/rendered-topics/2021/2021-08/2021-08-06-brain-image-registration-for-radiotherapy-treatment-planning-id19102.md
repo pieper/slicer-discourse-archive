@@ -1,3 +1,10 @@
+---
+topic_id: 19102
+title: "Brain Image Registration For Radiotherapy Treatment Planning"
+date: 2021-08-06
+url: https://discourse.slicer.org/t/19102
+---
+
 # Brain image registration for radiotherapy treatment planning
 
 **Topic ID**: 19102

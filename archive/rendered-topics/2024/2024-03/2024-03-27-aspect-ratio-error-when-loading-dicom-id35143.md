@@ -1,3 +1,10 @@
+---
+topic_id: 35143
+title: "Aspect Ratio Error When Loading Dicom"
+date: 2024-03-27
+url: https://discourse.slicer.org/t/35143
+---
+
 # Aspect ratio error when loading dicom
 
 **Topic ID**: 35143

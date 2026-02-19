@@ -1,3 +1,10 @@
+---
+topic_id: 11258
+title: "Id Threshold Upper And Lower Limits From Saved Scene"
+date: 2020-04-22
+url: https://discourse.slicer.org/t/11258
+---
+
 # ID threshold upper and lower limits from saved scene
 
 **Topic ID**: 11258

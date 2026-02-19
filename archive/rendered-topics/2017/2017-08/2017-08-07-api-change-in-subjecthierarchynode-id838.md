@@ -1,3 +1,10 @@
+---
+topic_id: 838
+title: "Api Change In Subjecthierarchynode"
+date: 2017-08-07
+url: https://discourse.slicer.org/t/838
+---
+
 # API change in SubjectHierarchyNode?
 
 **Topic ID**: 838

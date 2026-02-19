@@ -1,3 +1,10 @@
+---
+topic_id: 8448
+title: "Programmatically Create A Segmentationnode And Labelmapnode"
+date: 2019-09-16
+url: https://discourse.slicer.org/t/8448
+---
+
 # Programmatically Create a SegmentationNode and LabelMapNode from Polygon Coordinates
 
 **Topic ID**: 8448

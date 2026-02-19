@@ -1,3 +1,10 @@
+---
+topic_id: 11443
+title: "How To Update From Python 2 7 To 3 7"
+date: 2020-05-07
+url: https://discourse.slicer.org/t/11443
+---
+
 # How to update from Python 2.7 to 3.7?
 
 **Topic ID**: 11443

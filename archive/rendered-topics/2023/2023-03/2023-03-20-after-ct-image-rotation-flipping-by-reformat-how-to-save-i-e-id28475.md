@@ -1,3 +1,10 @@
+---
+topic_id: 28475
+title: "After Ct Image Rotation Flipping By Reformat How To Save I E"
+date: 2023-03-20
+url: https://discourse.slicer.org/t/28475
+---
+
 # After CT image rotation & flipping by [Reformat], how to save? I export reformatted DICOM, but get no change at all
 
 **Topic ID**: 28475

@@ -1,3 +1,10 @@
+---
+topic_id: 8798
+title: "Nasal Cavity Geometry Extraction"
+date: 2019-10-16
+url: https://discourse.slicer.org/t/8798
+---
+
 # Nasal Cavity Geometry Extraction
 
 **Topic ID**: 8798

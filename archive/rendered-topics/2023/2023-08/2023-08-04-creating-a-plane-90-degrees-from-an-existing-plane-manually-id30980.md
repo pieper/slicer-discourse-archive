@@ -1,3 +1,10 @@
+---
+topic_id: 30980
+title: "Creating A Plane 90 Degrees From An Existing Plane Manually"
+date: 2023-08-04
+url: https://discourse.slicer.org/t/30980
+---
+
 # Creating a plane 90 degrees from an existing plane manually or automatically
 
 **Topic ID**: 30980

@@ -1,3 +1,10 @@
+---
+topic_id: 13524
+title: "How To Modify The Content Of Data Probe Using Python Script"
+date: 2020-09-17
+url: https://discourse.slicer.org/t/13524
+---
+
 # How to modify the content of "data probe" using python script
 
 **Topic ID**: 13524

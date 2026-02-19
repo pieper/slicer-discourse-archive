@@ -1,3 +1,10 @@
+---
+topic_id: 33510
+title: "Superimposition Of Cbct Of Orthodontic Patients Using A Slic"
+date: 2023-12-24
+url: https://discourse.slicer.org/t/33510
+---
+
 # Superimposition of CBCT of orthodontic patients using a slicer, diagnocat, blender
 
 **Topic ID**: 33510

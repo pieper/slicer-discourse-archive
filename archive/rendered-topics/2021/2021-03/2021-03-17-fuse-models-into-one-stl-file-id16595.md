@@ -1,3 +1,10 @@
+---
+topic_id: 16595
+title: "Fuse Models Into One Stl File"
+date: 2021-03-17
+url: https://discourse.slicer.org/t/16595
+---
+
 # Fuse models into one STL file
 
 **Topic ID**: 16595

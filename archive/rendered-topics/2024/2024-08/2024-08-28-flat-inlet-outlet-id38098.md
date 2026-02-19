@@ -1,3 +1,10 @@
+---
+topic_id: 38098
+title: "Flat Inlet Outlet"
+date: 2024-08-28
+url: https://discourse.slicer.org/t/38098
+---
+
 # Flat inlet/outlet
 
 **Topic ID**: 38098

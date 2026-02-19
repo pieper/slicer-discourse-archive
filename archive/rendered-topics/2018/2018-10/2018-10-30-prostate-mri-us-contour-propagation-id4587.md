@@ -1,3 +1,10 @@
+---
+topic_id: 4587
+title: "Prostate Mri Us Contour Propagation"
+date: 2018-10-30
+url: https://discourse.slicer.org/t/4587
+---
+
 # Prostate MRI-US contour propagation
 
 **Topic ID**: 4587

@@ -1,3 +1,10 @@
+---
+topic_id: 24336
+title: "Obtaining Input From Mouse Click In Python Not Working Insid"
+date: 2022-07-16
+url: https://discourse.slicer.org/t/24336
+---
+
 # Obtaining input from mouse click in python not working inside function: wait functionality?
 
 **Topic ID**: 24336

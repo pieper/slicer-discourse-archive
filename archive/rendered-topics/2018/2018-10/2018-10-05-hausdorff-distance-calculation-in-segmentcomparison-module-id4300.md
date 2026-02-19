@@ -1,3 +1,10 @@
+---
+topic_id: 4300
+title: "Hausdorff Distance Calculation In Segmentcomparison Module"
+date: 2018-10-05
+url: https://discourse.slicer.org/t/4300
+---
+
 # Hausdorff distance calculation in SegmentComparison module
 
 **Topic ID**: 4300

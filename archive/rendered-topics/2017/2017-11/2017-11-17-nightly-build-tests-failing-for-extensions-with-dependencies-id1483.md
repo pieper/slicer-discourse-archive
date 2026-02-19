@@ -1,3 +1,10 @@
+---
+topic_id: 1483
+title: "Nightly Build Tests Failing For Extensions With Dependencies"
+date: 2017-11-17
+url: https://discourse.slicer.org/t/1483
+---
+
 # Nightly build TESTS failing for extensions with dependencies to other scriptable modules
 
 **Topic ID**: 1483

@@ -1,3 +1,10 @@
+---
+topic_id: 28861
+title: "Where Is Hu At Segment Statistics Module"
+date: 2023-04-12
+url: https://discourse.slicer.org/t/28861
+---
+
 # Where is HU at Segment Statistics module?
 
 **Topic ID**: 28861

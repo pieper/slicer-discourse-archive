@@ -1,3 +1,10 @@
+---
+topic_id: 27302
+title: "Change In Volume Comparison"
+date: 2023-01-17
+url: https://discourse.slicer.org/t/27302
+---
+
 # Change in volume comparison
 
 **Topic ID**: 27302

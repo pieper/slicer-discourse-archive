@@ -1,3 +1,10 @@
+---
+topic_id: 12936
+title: "Options While Viewing Image"
+date: 2020-08-10
+url: https://discourse.slicer.org/t/12936
+---
+
 # Options while viewing image
 
 **Topic ID**: 12936

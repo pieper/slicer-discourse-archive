@@ -1,3 +1,10 @@
+---
+topic_id: 33261
+title: "Error While Installing Extension Pytorch Utils"
+date: 2023-12-06
+url: https://discourse.slicer.org/t/33261
+---
+
 # Error while installing Extension Pytorch utils 
 
 **Topic ID**: 33261

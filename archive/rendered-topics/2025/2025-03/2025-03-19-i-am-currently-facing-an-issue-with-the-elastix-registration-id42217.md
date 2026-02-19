@@ -1,3 +1,10 @@
+---
+topic_id: 42217
+title: "I Am Currently Facing An Issue With The Elastix Registration"
+date: 2025-03-19
+url: https://discourse.slicer.org/t/42217
+---
+
 # I am currently facing an issue with the Elastix registration module in 3D Slicer 
 
 **Topic ID**: 42217

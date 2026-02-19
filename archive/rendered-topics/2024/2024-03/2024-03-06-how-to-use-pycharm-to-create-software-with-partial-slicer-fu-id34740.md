@@ -1,3 +1,10 @@
+---
+topic_id: 34740
+title: "How To Use Pycharm To Create Software With Partial Slicer Fu"
+date: 2024-03-06
+url: https://discourse.slicer.org/t/34740
+---
+
 # How to use Pycharm to create software with partial slicer functionality
 
 **Topic ID**: 34740

@@ -1,3 +1,10 @@
+---
+topic_id: 25539
+title: "How To Run Monailabel Autosegmentation Using Python Interact"
+date: 2022-10-04
+url: https://discourse.slicer.org/t/25539
+---
+
 # How to run monailabel autosegmentation using python interactor
 
 **Topic ID**: 25539

@@ -1,3 +1,10 @@
+---
+topic_id: 44892
+title: "3D Rendering Bug For Models Imported To Segment"
+date: 2025-10-27
+url: https://discourse.slicer.org/t/44892
+---
+
 # 3D rendering bug for models imported to segment?
 
 **Topic ID**: 44892

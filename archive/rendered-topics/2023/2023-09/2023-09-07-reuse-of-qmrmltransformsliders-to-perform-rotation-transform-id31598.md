@@ -1,3 +1,10 @@
+---
+topic_id: 31598
+title: "Reuse Of Qmrmltransformsliders To Perform Rotation Transform"
+date: 2023-09-07
+url: https://discourse.slicer.org/t/31598
+---
+
 # Reuse of qMRMLTransformSliders to perform rotation transform in custom scriptable module
 
 **Topic ID**: 31598

@@ -1,3 +1,10 @@
+---
+topic_id: 26502
+title: "Exporting A Model To Stl With Markups"
+date: 2022-11-30
+url: https://discourse.slicer.org/t/26502
+---
+
 # Exporting a model to STL with markups
 
 **Topic ID**: 26502

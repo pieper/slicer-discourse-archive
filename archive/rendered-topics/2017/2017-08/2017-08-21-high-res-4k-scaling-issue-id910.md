@@ -1,3 +1,10 @@
+---
+topic_id: 910
+title: "High Res 4K Scaling Issue"
+date: 2017-08-21
+url: https://discourse.slicer.org/t/910
+---
+
 # High res/ 4K Scaling Issue
 
 **Topic ID**: 910

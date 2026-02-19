@@ -1,3 +1,10 @@
+---
+topic_id: 10146
+title: "Reproducible Slicer Crash On Attempted Tab Completion On Nig"
+date: 2020-02-06
+url: https://discourse.slicer.org/t/10146
+---
+
 # Reproducible Slicer crash on attempted tab completion, on Nightly 2020-01-08
 
 **Topic ID**: 10146

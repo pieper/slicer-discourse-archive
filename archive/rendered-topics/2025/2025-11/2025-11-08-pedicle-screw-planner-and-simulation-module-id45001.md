@@ -1,3 +1,10 @@
+---
+topic_id: 45001
+title: "Pedicle Screw Planner And Simulation Module"
+date: 2025-11-08
+url: https://discourse.slicer.org/t/45001
+---
+
 # Pedicle screw planner and simulation module
 
 **Topic ID**: 45001

@@ -1,3 +1,10 @@
+---
+topic_id: 36285
+title: "Automating Vtp Export To Nifti With Slicer Modules"
+date: 2024-05-20
+url: https://discourse.slicer.org/t/36285
+---
+
 # Automating .vtp export to NIFTI with Slicer Modules
 
 **Topic ID**: 36285

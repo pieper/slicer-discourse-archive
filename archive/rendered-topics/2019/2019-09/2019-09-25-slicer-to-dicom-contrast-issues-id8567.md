@@ -1,3 +1,10 @@
+---
+topic_id: 8567
+title: "Slicer To Dicom Contrast Issues"
+date: 2019-09-25
+url: https://discourse.slicer.org/t/8567
+---
+
 # Slicer to DICOM contrast Issues
 
 **Topic ID**: 8567

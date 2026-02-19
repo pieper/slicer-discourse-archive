@@ -1,3 +1,10 @@
+---
+topic_id: 10004
+title: "Python Script For Segment Growing And Logical Operations"
+date: 2020-01-29
+url: https://discourse.slicer.org/t/10004
+---
+
 # Python Script for segment growing and Logical operations
 
 **Topic ID**: 10004

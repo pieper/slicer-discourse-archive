@@ -1,3 +1,10 @@
+---
+topic_id: 20118
+title: "Egsnrc 3Ddose File Importer"
+date: 2021-10-12
+url: https://discourse.slicer.org/t/20118
+---
+
 # EGSnrc .3ddose File Importer
 
 **Topic ID**: 20118

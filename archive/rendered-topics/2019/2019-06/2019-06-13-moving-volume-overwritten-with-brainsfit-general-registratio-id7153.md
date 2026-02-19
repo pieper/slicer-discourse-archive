@@ -1,3 +1,10 @@
+---
+topic_id: 7153
+title: "Moving Volume Overwritten With Brainsfit General Registratio"
+date: 2019-06-13
+url: https://discourse.slicer.org/t/7153
+---
+
 # Moving volume overwritten with BRAINSfit General Registration Module
 
 **Topic ID**: 7153

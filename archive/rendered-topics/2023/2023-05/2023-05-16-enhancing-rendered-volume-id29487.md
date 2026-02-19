@@ -1,3 +1,10 @@
+---
+topic_id: 29487
+title: "Enhancing Rendered Volume"
+date: 2023-05-16
+url: https://discourse.slicer.org/t/29487
+---
+
 # Enhancing rendered volume
 
 **Topic ID**: 29487

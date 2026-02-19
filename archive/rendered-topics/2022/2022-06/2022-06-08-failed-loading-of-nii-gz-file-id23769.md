@@ -1,3 +1,10 @@
+---
+topic_id: 23769
+title: "Failed Loading Of Nii Gz File"
+date: 2022-06-08
+url: https://discourse.slicer.org/t/23769
+---
+
 # Failed loading of nii.gz file
 
 **Topic ID**: 23769

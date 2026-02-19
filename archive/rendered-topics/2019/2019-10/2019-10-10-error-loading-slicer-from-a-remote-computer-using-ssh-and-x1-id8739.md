@@ -1,3 +1,10 @@
+---
+topic_id: 8739
+title: "Error Loading Slicer From A Remote Computer Using Ssh And X1"
+date: 2019-10-10
+url: https://discourse.slicer.org/t/8739
+---
+
 # Error loading slicer from a remote computer using ssh and X11 forwarding
 
 **Topic ID**: 8739

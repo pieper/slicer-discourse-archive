@@ -1,3 +1,10 @@
+---
+topic_id: 17279
+title: "Metric Test Module Error"
+date: 2021-04-23
+url: https://discourse.slicer.org/t/17279
+---
+
 # Metric Test Module Error!
 
 **Topic ID**: 17279

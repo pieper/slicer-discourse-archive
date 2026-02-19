@@ -1,3 +1,10 @@
+---
+topic_id: 14418
+title: "Convert Stl File Back To An Nrrd Format"
+date: 2020-11-04
+url: https://discourse.slicer.org/t/14418
+---
+
 # Convert STL file back to an NRRD format
 
 **Topic ID**: 14418

@@ -1,3 +1,10 @@
+---
+topic_id: 7031
+title: "General Registration Elastix Brains Unable To Handle Large R"
+date: 2019-06-05
+url: https://discourse.slicer.org/t/7031
+---
+
 # General Registration (Elastix/BRAINS) unable to handle large rotation
 
 **Topic ID**: 7031

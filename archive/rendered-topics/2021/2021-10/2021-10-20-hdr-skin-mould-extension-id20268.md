@@ -1,3 +1,10 @@
+---
+topic_id: 20268
+title: "Hdr Skin Mould Extension"
+date: 2021-10-20
+url: https://discourse.slicer.org/t/20268
+---
+
 # HDR Skin Mould Extension
 
 **Topic ID**: 20268

@@ -1,3 +1,10 @@
+---
+topic_id: 8307
+title: "Glsl Shaders Use Non Supported Version 1 50 That Makes Ci Cd"
+date: 2019-09-05
+url: https://discourse.slicer.org/t/8307
+---
+
 # GLSL shaders use non supported version 1.50 that makes CI/CD to fail in a docker container
 
 **Topic ID**: 8307

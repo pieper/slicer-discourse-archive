@@ -1,3 +1,10 @@
+---
+topic_id: 8802
+title: "Copyright Question"
+date: 2019-10-16
+url: https://discourse.slicer.org/t/8802
+---
+
 # Copyright question
 
 **Topic ID**: 8802

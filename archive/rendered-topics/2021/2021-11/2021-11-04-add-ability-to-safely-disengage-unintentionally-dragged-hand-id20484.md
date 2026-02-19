@@ -1,3 +1,10 @@
+---
+topic_id: 20484
+title: "Add Ability To Safely Disengage Unintentionally Dragged Hand"
+date: 2021-11-04
+url: https://discourse.slicer.org/t/20484
+---
+
 # Add ability to safely disengage unintentionally dragged handle
 
 **Topic ID**: 20484

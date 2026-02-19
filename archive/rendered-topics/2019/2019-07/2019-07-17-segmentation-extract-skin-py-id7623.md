@@ -1,3 +1,10 @@
+---
+topic_id: 7623
+title: "Segmentation Extract Skin Py"
+date: 2019-07-17
+url: https://discourse.slicer.org/t/7623
+---
+
 # Segmentation (Extract Skin Py)
 
 **Topic ID**: 7623

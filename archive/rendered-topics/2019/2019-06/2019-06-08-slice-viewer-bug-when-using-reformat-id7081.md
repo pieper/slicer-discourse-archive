@@ -1,3 +1,10 @@
+---
+topic_id: 7081
+title: "Slice Viewer Bug When Using Reformat"
+date: 2019-06-08
+url: https://discourse.slicer.org/t/7081
+---
+
 # Slice viewer bug when using reformat
 
 **Topic ID**: 7081

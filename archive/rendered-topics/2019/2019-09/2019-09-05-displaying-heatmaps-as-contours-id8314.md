@@ -1,3 +1,10 @@
+---
+topic_id: 8314
+title: "Displaying Heatmaps As Contours"
+date: 2019-09-05
+url: https://discourse.slicer.org/t/8314
+---
+
 # Displaying heatmaps as contours
 
 **Topic ID**: 8314

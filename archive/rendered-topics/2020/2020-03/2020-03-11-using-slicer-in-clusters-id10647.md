@@ -1,3 +1,10 @@
+---
+topic_id: 10647
+title: "Using Slicer In Clusters"
+date: 2020-03-11
+url: https://discourse.slicer.org/t/10647
+---
+
 # Using slicer in clusters
 
 **Topic ID**: 10647

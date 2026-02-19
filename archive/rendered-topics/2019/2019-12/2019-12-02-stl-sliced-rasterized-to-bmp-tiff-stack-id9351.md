@@ -1,3 +1,10 @@
+---
+topic_id: 9351
+title: "Stl Sliced Rasterized To Bmp Tiff Stack"
+date: 2019-12-02
+url: https://discourse.slicer.org/t/9351
+---
+
 # STL sliced/rasterized to BMP/TIFF stack
 
 **Topic ID**: 9351

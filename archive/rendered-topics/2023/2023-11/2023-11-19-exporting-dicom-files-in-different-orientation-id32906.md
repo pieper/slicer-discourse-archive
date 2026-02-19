@@ -1,3 +1,10 @@
+---
+topic_id: 32906
+title: "Exporting Dicom Files In Different Orientation"
+date: 2023-11-19
+url: https://discourse.slicer.org/t/32906
+---
+
 # Exporting DICOM files in different orientation.
 
 **Topic ID**: 32906

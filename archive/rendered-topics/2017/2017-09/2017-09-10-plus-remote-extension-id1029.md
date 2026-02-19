@@ -1,3 +1,10 @@
+---
+topic_id: 1029
+title: "Plus Remote Extension"
+date: 2017-09-10
+url: https://discourse.slicer.org/t/1029
+---
+
 # Plus Remote Extension
 
 **Topic ID**: 1029

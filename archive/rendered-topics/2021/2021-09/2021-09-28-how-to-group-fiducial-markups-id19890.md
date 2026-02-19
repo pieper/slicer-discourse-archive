@@ -1,3 +1,10 @@
+---
+topic_id: 19890
+title: "How To Group Fiducial Markups"
+date: 2021-09-28
+url: https://discourse.slicer.org/t/19890
+---
+
 # How to group fiducial markups?
 
 **Topic ID**: 19890

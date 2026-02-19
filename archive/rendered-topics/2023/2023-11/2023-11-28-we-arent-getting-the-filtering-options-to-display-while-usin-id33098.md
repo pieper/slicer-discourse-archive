@@ -1,3 +1,10 @@
+---
+topic_id: 33098
+title: "We Arent Getting The Filtering Options To Display While Usin"
+date: 2023-11-28
+url: https://discourse.slicer.org/t/33098
+---
+
 # We aren't getting the filtering options to display while using parenchyma analysis package on a few chest CTs.
 
 **Topic ID**: 33098

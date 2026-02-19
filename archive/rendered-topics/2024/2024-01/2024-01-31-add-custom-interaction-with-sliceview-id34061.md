@@ -1,3 +1,10 @@
+---
+topic_id: 34061
+title: "Add Custom Interaction With Sliceview"
+date: 2024-01-31
+url: https://discourse.slicer.org/t/34061
+---
+
 # Add custom interaction with sliceview
 
 **Topic ID**: 34061

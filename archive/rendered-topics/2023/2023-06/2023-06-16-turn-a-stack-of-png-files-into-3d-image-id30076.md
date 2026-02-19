@@ -1,3 +1,10 @@
+---
+topic_id: 30076
+title: "Turn A Stack Of Png Files Into 3D Image"
+date: 2023-06-16
+url: https://discourse.slicer.org/t/30076
+---
+
 # turn a stack of png files into 3D image?
 
 **Topic ID**: 30076

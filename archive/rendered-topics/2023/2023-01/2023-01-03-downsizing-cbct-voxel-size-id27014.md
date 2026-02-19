@@ -1,3 +1,10 @@
+---
+topic_id: 27014
+title: "Downsizing Cbct Voxel Size"
+date: 2023-01-03
+url: https://discourse.slicer.org/t/27014
+---
+
 # Downsizing CBCT voxel size 
 
 **Topic ID**: 27014

@@ -1,3 +1,10 @@
+---
+topic_id: 29089
+title: "Matching Voxels After Registration"
+date: 2023-04-24
+url: https://discourse.slicer.org/t/29089
+---
+
 # Matching Voxels After Registration
 
 **Topic ID**: 29089

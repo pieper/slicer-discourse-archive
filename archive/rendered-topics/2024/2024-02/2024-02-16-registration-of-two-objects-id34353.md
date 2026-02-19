@@ -1,3 +1,10 @@
+---
+topic_id: 34353
+title: "Registration Of Two Objects"
+date: 2024-02-16
+url: https://discourse.slicer.org/t/34353
+---
+
 # Registration of two objects
 
 **Topic ID**: 34353

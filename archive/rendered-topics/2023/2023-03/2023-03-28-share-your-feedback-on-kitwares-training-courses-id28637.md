@@ -1,3 +1,10 @@
+---
+topic_id: 28637
+title: "Share Your Feedback On Kitwares Training Courses"
+date: 2023-03-28
+url: https://discourse.slicer.org/t/28637
+---
+
 # Share Your Feedback on Kitware's Training Courses
 
 **Topic ID**: 28637

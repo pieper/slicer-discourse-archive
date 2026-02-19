@@ -1,3 +1,10 @@
+---
+topic_id: 15270
+title: "Segmentation Is Not Showing As 3D Model"
+date: 2020-12-29
+url: https://discourse.slicer.org/t/15270
+---
+
 # Segmentation is not showing as 3d model
 
 **Topic ID**: 15270

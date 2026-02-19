@@ -1,3 +1,10 @@
+---
+topic_id: 11599
+title: "Set And Observe Transform Node To Markups Curve Node Bug Or"
+date: 2020-05-18
+url: https://discourse.slicer.org/t/11599
+---
+
 # Set and observe transform node to markups curve node: bug or feature?
 
 **Topic ID**: 11599

@@ -1,3 +1,10 @@
+---
+topic_id: 13734
+title: "Include A Data Probe In The Slicer Layoutmanager"
+date: 2020-09-28
+url: https://discourse.slicer.org/t/13734
+---
+
 # Include a data probe in the slicer layoutmanager
 
 **Topic ID**: 13734

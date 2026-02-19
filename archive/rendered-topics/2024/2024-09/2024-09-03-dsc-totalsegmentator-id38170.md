@@ -1,3 +1,10 @@
+---
+topic_id: 38170
+title: "Dsc Totalsegmentator"
+date: 2024-09-03
+url: https://discourse.slicer.org/t/38170
+---
+
 # DSC totalsegmentator
 
 **Topic ID**: 38170

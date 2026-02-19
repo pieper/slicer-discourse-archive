@@ -1,3 +1,10 @@
+---
+topic_id: 1844
+title: "Problem To Make 3D Model"
+date: 2018-01-15
+url: https://discourse.slicer.org/t/1844
+---
+
 # Problem to make 3D model
 
 **Topic ID**: 1844

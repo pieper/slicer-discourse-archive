@@ -1,3 +1,10 @@
+---
+topic_id: 15125
+title: "Automatic Point Setting Of Bone Structures In Dicoms"
+date: 2020-12-17
+url: https://discourse.slicer.org/t/15125
+---
+
 # Automatic point setting of bone structures in DICOMs
 
 **Topic ID**: 15125

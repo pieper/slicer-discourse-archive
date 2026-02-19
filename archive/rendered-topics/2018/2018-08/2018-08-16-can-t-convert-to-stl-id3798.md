@@ -1,3 +1,10 @@
+---
+topic_id: 3798
+title: "Can T Convert To Stl"
+date: 2018-08-16
+url: https://discourse.slicer.org/t/3798
+---
+
 # Can’t convert to STL
 
 **Topic ID**: 3798

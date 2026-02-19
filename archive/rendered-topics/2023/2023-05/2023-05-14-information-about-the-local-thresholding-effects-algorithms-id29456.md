@@ -1,3 +1,10 @@
+---
+topic_id: 29456
+title: "Information About The Local Thresholding Effects Algorithms"
+date: 2023-05-14
+url: https://discourse.slicer.org/t/29456
+---
+
 # Information about the local thresholding effect's algorithms
 
 **Topic ID**: 29456

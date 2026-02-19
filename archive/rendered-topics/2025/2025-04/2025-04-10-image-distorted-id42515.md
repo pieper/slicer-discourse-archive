@@ -1,3 +1,10 @@
+---
+topic_id: 42515
+title: "Image Distorted"
+date: 2025-04-10
+url: https://discourse.slicer.org/t/42515
+---
+
 # Image Distorted
 
 **Topic ID**: 42515

@@ -1,3 +1,10 @@
+---
+topic_id: 23046
+title: "How To Annotate Bronchopulmonary Segments In Ct On 3D Slicer"
+date: 2022-04-20
+url: https://discourse.slicer.org/t/23046
+---
+
 # How to annotate Bronchopulmonary segments in CT on 3D Slicer ?
 
 **Topic ID**: 23046

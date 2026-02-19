@@ -1,3 +1,10 @@
+---
+topic_id: 2050
+title: "Nrrdwrite M Of 2D Image"
+date: 2018-02-07
+url: https://discourse.slicer.org/t/2050
+---
+
 # Nrrdwrite.m of 2d image
 
 **Topic ID**: 2050

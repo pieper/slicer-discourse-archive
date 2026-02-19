@@ -1,3 +1,10 @@
+---
+topic_id: 15630
+title: "Customizing The Extraction Features"
+date: 2021-01-22
+url: https://discourse.slicer.org/t/15630
+---
+
 # Customizing the extraction features
 
 **Topic ID**: 15630

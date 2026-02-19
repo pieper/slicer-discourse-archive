@@ -1,3 +1,10 @@
+---
+topic_id: 2793
+title: "Can I Open The Vtk Files On My Android Platform Like Kiwivie"
+date: 2018-05-10
+url: https://discourse.slicer.org/t/2793
+---
+
 # Can I open the vtk files on my Android platform like KiwiViewer?
 
 **Topic ID**: 2793

@@ -1,3 +1,10 @@
+---
+topic_id: 28083
+title: "Segmentation Mandible"
+date: 2023-02-28
+url: https://discourse.slicer.org/t/28083
+---
+
 # segmentation mandible
 
 **Topic ID**: 28083

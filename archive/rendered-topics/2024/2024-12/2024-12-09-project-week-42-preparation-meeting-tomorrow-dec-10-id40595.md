@@ -1,3 +1,10 @@
+---
+topic_id: 40595
+title: "Project Week 42 Preparation Meeting Tomorrow Dec 10"
+date: 2024-12-09
+url: https://discourse.slicer.org/t/40595
+---
+
 # Project Week 42 preparation meeting tomorrow (Dec 10)
 
 **Topic ID**: 40595

@@ -1,3 +1,10 @@
+---
+topic_id: 3774
+title: "Trigger Event When Cli Run Has Completed"
+date: 2018-08-14
+url: https://discourse.slicer.org/t/3774
+---
+
 # Trigger event when CLI run has completed
 
 **Topic ID**: 3774

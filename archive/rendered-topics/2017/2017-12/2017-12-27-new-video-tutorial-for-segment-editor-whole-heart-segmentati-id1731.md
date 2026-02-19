@@ -1,3 +1,10 @@
+---
+topic_id: 1731
+title: "New Video Tutorial For Segment Editor Whole Heart Segmentati"
+date: 2017-12-27
+url: https://discourse.slicer.org/t/1731
+---
+
 # New video tutorial for Segment editor - whole-heart segmentation from CT
 
 **Topic ID**: 1731

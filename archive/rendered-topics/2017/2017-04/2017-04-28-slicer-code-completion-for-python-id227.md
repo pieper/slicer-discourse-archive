@@ -1,3 +1,10 @@
+---
+topic_id: 227
+title: "Slicer Code Completion For Python"
+date: 2017-04-28
+url: https://discourse.slicer.org/t/227
+---
+
 # Slicer code completion for python
 
 **Topic ID**: 227

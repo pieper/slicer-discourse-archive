@@ -1,3 +1,10 @@
+---
+topic_id: 31539
+title: "Fading Out Segments In Animation With Slicermorph"
+date: 2023-09-04
+url: https://discourse.slicer.org/t/31539
+---
+
 # Fading out segments in animation with SlicerMorph
 
 **Topic ID**: 31539

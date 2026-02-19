@@ -1,3 +1,10 @@
+---
+topic_id: 28900
+title: "Centerline Extraction On Bronchoscopy"
+date: 2023-04-14
+url: https://discourse.slicer.org/t/28900
+---
+
 # Centerline Extraction on Bronchoscopy
 
 **Topic ID**: 28900

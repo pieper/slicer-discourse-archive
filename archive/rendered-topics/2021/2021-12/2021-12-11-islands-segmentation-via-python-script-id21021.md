@@ -1,3 +1,10 @@
+---
+topic_id: 21021
+title: "Islands Segmentation Via Python Script"
+date: 2021-12-11
+url: https://discourse.slicer.org/t/21021
+---
+
 # Islands segmentation via python script
 
 **Topic ID**: 21021

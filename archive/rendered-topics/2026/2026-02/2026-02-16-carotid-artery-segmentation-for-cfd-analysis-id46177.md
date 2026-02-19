@@ -1,3 +1,10 @@
+---
+topic_id: 46177
+title: "Carotid Artery Segmentation For Cfd Analysis"
+date: 2026-02-16
+url: https://discourse.slicer.org/t/46177
+---
+
 # Carotid Artery Segmentation for CFD analysis
 
 **Topic ID**: 46177

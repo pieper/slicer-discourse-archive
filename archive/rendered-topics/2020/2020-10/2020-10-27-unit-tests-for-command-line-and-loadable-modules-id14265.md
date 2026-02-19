@@ -1,3 +1,10 @@
+---
+topic_id: 14265
+title: "Unit Tests For Command Line And Loadable Modules"
+date: 2020-10-27
+url: https://discourse.slicer.org/t/14265
+---
+
 # Unit tests for command line and loadable modules
 
 **Topic ID**: 14265

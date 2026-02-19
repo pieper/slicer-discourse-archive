@@ -1,3 +1,10 @@
+---
+topic_id: 35623
+title: "Unable To Compute The Ferret Diameter On Segmentation From T"
+date: 2024-04-19
+url: https://discourse.slicer.org/t/35623
+---
+
 # Unable to compute the ferret diameter on segmentation from totalsegmentator
 
 **Topic ID**: 35623

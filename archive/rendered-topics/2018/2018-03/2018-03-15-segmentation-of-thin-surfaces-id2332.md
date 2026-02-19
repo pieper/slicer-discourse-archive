@@ -1,3 +1,10 @@
+---
+topic_id: 2332
+title: "Segmentation Of Thin Surfaces"
+date: 2018-03-15
+url: https://discourse.slicer.org/t/2332
+---
+
 # Segmentation of thin surfaces
 
 **Topic ID**: 2332

@@ -1,3 +1,10 @@
+---
+topic_id: 34358
+title: "Save Each Segmentation In Slices As Dicom Format"
+date: 2024-02-16
+url: https://discourse.slicer.org/t/34358
+---
+
 # Save each segmentation in slices as dicom format
 
 **Topic ID**: 34358

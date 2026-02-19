@@ -1,3 +1,10 @@
+---
+topic_id: 20042
+title: "Proposition To Modify Slicer Config Set Ep Macro To Work Wit"
+date: 2021-10-06
+url: https://discourse.slicer.org/t/20042
+---
+
 # Proposition to modify `slicer_config_set_ep` macro to work with `LIST` vars
 
 **Topic ID**: 20042

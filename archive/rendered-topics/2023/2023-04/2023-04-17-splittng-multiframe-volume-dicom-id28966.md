@@ -1,3 +1,10 @@
+---
+topic_id: 28966
+title: "Splittng Multiframe Volume Dicom"
+date: 2023-04-17
+url: https://discourse.slicer.org/t/28966
+---
+
 # Splittng multiframe/volume DICOM
 
 **Topic ID**: 28966

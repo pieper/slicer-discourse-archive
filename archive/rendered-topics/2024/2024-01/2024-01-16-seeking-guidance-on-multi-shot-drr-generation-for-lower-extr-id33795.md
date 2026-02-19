@@ -1,3 +1,10 @@
+---
+topic_id: 33795
+title: "Seeking Guidance On Multi Shot Drr Generation For Lower Extr"
+date: 2024-01-16
+url: https://discourse.slicer.org/t/33795
+---
+
 # Seeking Guidance on Multi-shot DRR Generation for Lower Extremity CT with Large Field of View
 
 **Topic ID**: 33795

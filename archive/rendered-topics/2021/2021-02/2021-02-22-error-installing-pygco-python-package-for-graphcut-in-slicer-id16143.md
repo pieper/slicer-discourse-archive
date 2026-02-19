@@ -1,3 +1,10 @@
+---
+topic_id: 16143
+title: "Error Installing Pygco Python Package For Graphcut In Slicer"
+date: 2021-02-22
+url: https://discourse.slicer.org/t/16143
+---
+
 # Error installing pygco python package (for graphcut) in Slicer 4.11
 
 **Topic ID**: 16143

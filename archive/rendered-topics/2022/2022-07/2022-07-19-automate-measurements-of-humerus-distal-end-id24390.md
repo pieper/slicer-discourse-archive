@@ -1,3 +1,10 @@
+---
+topic_id: 24390
+title: "Automate Measurements Of Humerus Distal End"
+date: 2022-07-19
+url: https://discourse.slicer.org/t/24390
+---
+
 # Automate measurements of humerus distal end
 
 **Topic ID**: 24390

@@ -1,3 +1,10 @@
+---
+topic_id: 22543
+title: "Export The Displacement Vector To Matlab"
+date: 2022-03-16
+url: https://discourse.slicer.org/t/22543
+---
+
 # Export the displacement vector to matlab
 
 **Topic ID**: 22543

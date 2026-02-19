@@ -1,3 +1,10 @@
+---
+topic_id: 37440
+title: "How To Annotate Segments On A Ply Model"
+date: 2024-07-18
+url: https://discourse.slicer.org/t/37440
+---
+
 # How to annotate segments on a .ply model
 
 **Topic ID**: 37440

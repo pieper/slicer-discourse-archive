@@ -1,3 +1,10 @@
+---
+topic_id: 42813
+title: "Best Practices For Roi Selection In Imac Measurement On L3 C"
+date: 2025-05-06
+url: https://discourse.slicer.org/t/42813
+---
+
 # Best Practices for ROI Selection in IMAC Measurement on L3 CT Scans
 
 **Topic ID**: 42813

@@ -1,3 +1,10 @@
+---
+topic_id: 45079
+title: "How To Detect Mri File Being Loaded"
+date: 2025-11-14
+url: https://discourse.slicer.org/t/45079
+---
+
 # How to detect MRI file being loaded?
 
 **Topic ID**: 45079

@@ -1,3 +1,10 @@
+---
+topic_id: 19766
+title: "Dicom Import Adds 0 New Patients"
+date: 2021-09-20
+url: https://discourse.slicer.org/t/19766
+---
+
 # DICOM Import Adds 0 New Patients
 
 **Topic ID**: 19766

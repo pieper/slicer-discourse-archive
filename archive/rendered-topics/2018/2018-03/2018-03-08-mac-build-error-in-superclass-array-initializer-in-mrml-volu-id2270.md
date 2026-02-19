@@ -1,3 +1,10 @@
+---
+topic_id: 2270
+title: "Mac Build Error In Superclass Array Initializer In Mrml Volu"
+date: 2018-03-08
+url: https://discourse.slicer.org/t/2270
+---
+
 # Mac build error in superclass array initializer in mrml volume rendering properties
 
 **Topic ID**: 2270

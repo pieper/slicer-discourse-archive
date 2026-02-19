@@ -1,3 +1,10 @@
+---
+topic_id: 39728
+title: "Tuple Index Out Of Range And Could Not Convert String To Flo"
+date: 2024-10-16
+url: https://discourse.slicer.org/t/39728
+---
+
 # "tuple index out of range" and "could not convert string to float" - Musculoskeletal Analysis
 
 **Topic ID**: 39728

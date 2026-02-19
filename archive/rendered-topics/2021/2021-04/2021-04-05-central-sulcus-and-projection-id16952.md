@@ -1,3 +1,10 @@
+---
+topic_id: 16952
+title: "Central Sulcus And Projection"
+date: 2021-04-05
+url: https://discourse.slicer.org/t/16952
+---
+
 # Central sulcus and projection
 
 **Topic ID**: 16952

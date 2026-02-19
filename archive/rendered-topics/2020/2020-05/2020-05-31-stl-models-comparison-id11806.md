@@ -1,3 +1,10 @@
+---
+topic_id: 11806
+title: "Stl Models Comparison"
+date: 2020-05-31
+url: https://discourse.slicer.org/t/11806
+---
+
 # STL models comparison
 
 **Topic ID**: 11806

@@ -1,3 +1,10 @@
+---
+topic_id: 767
+title: "Cannot Start Slicer Exe After A Release Build"
+date: 2017-07-26
+url: https://discourse.slicer.org/t/767
+---
+
 # Cannot start Slicer.exe after a release build
 
 **Topic ID**: 767

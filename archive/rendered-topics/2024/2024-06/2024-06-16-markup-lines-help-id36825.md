@@ -1,3 +1,10 @@
+---
+topic_id: 36825
+title: "Markup Lines Help"
+date: 2024-06-16
+url: https://discourse.slicer.org/t/36825
+---
+
 # Markup lines help
 
 **Topic ID**: 36825

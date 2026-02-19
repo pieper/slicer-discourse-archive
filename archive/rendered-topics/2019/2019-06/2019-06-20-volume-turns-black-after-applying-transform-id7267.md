@@ -1,3 +1,10 @@
+---
+topic_id: 7267
+title: "Volume Turns Black After Applying Transform"
+date: 2019-06-20
+url: https://discourse.slicer.org/t/7267
+---
+
 # Volume turns black after applying transform
 
 **Topic ID**: 7267

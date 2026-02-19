@@ -1,3 +1,10 @@
+---
+topic_id: 10908
+title: "Which To Choose Crash Or Build Failure"
+date: 2020-03-30
+url: https://discourse.slicer.org/t/10908
+---
+
 # Which to choose: Crash or Build failure?
 
 **Topic ID**: 10908

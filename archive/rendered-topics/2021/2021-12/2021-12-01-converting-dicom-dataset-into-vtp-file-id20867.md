@@ -1,3 +1,10 @@
+---
+topic_id: 20867
+title: "Converting Dicom Dataset Into Vtp File"
+date: 2021-12-01
+url: https://discourse.slicer.org/t/20867
+---
+
 # converting dicom dataset into vtp file
 
 **Topic ID**: 20867

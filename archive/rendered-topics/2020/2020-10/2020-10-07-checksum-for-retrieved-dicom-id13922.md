@@ -1,3 +1,10 @@
+---
+topic_id: 13922
+title: "Checksum For Retrieved Dicom"
+date: 2020-10-07
+url: https://discourse.slicer.org/t/13922
+---
+
 # Checksum for retrieved DICOM
 
 **Topic ID**: 13922

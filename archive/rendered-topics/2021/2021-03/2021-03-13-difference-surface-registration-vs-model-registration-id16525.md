@@ -1,3 +1,10 @@
+---
+topic_id: 16525
+title: "Difference Surface Registration Vs Model Registration"
+date: 2021-03-13
+url: https://discourse.slicer.org/t/16525
+---
+
 # Difference Surface Registration vs Model Registration
 
 **Topic ID**: 16525

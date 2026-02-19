@@ -1,3 +1,10 @@
+---
+topic_id: 5921
+title: "Points And Surface Interaction Between Segment Node And Mode"
+date: 2019-02-25
+url: https://discourse.slicer.org/t/5921
+---
+
 # Points and surface interaction between segment node and model node
 
 **Topic ID**: 5921

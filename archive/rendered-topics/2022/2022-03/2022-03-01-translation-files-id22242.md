@@ -1,3 +1,10 @@
+---
+topic_id: 22242
+title: "Translation Files"
+date: 2022-03-01
+url: https://discourse.slicer.org/t/22242
+---
+
 # Translation files
 
 **Topic ID**: 22242

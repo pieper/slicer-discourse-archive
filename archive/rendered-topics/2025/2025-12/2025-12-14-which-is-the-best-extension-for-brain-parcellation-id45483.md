@@ -1,3 +1,10 @@
+---
+topic_id: 45483
+title: "Which Is The Best Extension For Brain Parcellation"
+date: 2025-12-14
+url: https://discourse.slicer.org/t/45483
+---
+
 # Which is the best extension for Brain parcellation?
 
 **Topic ID**: 45483

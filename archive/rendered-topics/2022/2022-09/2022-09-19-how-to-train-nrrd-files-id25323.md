@@ -1,3 +1,10 @@
+---
+topic_id: 25323
+title: "How To Train Nrrd Files"
+date: 2022-09-19
+url: https://discourse.slicer.org/t/25323
+---
+
 # How to train .nrrd files?
 
 **Topic ID**: 25323

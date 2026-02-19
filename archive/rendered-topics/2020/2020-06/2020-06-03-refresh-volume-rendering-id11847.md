@@ -1,3 +1,10 @@
+---
+topic_id: 11847
+title: "Refresh Volume Rendering"
+date: 2020-06-03
+url: https://discourse.slicer.org/t/11847
+---
+
 # Refresh volume rendering
 
 **Topic ID**: 11847

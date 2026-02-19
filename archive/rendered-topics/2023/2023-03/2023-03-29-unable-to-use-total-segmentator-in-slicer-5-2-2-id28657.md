@@ -1,3 +1,10 @@
+---
+topic_id: 28657
+title: "Unable To Use Total Segmentator In Slicer 5 2 2"
+date: 2023-03-29
+url: https://discourse.slicer.org/t/28657
+---
+
 # Unable to use Total Segmentator in Slicer 5.2.2
 
 **Topic ID**: 28657

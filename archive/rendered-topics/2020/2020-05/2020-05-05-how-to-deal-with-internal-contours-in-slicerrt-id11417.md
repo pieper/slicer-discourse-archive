@@ -1,3 +1,10 @@
+---
+topic_id: 11417
+title: "How To Deal With Internal Contours In Slicerrt"
+date: 2020-05-05
+url: https://discourse.slicer.org/t/11417
+---
+
 # How to deal with internal contours in SlicerRT
 
 **Topic ID**: 11417

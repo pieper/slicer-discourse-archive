@@ -1,3 +1,10 @@
+---
+topic_id: 38411
+title: "Starting Lung Analysis Project With 3D Slicer"
+date: 2024-09-17
+url: https://discourse.slicer.org/t/38411
+---
+
 # Starting Lung analysis project with 3D slicer
 
 **Topic ID**: 38411

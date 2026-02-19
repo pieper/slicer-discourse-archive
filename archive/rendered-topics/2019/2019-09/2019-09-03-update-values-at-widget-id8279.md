@@ -1,3 +1,10 @@
+---
+topic_id: 8279
+title: "Update Values At Widget"
+date: 2019-09-03
+url: https://discourse.slicer.org/t/8279
+---
+
 # Update Values at Widget
 
 **Topic ID**: 8279

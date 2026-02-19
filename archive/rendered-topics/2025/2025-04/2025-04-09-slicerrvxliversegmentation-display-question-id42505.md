@@ -1,3 +1,10 @@
+---
+topic_id: 42505
+title: "Slicerrvxliversegmentation Display Question"
+date: 2025-04-09
+url: https://discourse.slicer.org/t/42505
+---
+
 # SlicerRVXLiverSegmentation display question
 
 **Topic ID**: 42505

@@ -1,3 +1,10 @@
+---
+topic_id: 12711
+title: "Why Does My Xa Type Image Appear As A Series And Not A Singl"
+date: 2020-07-23
+url: https://discourse.slicer.org/t/12711
+---
+
 # Why does my XA type image appear as a series and not a single 2D image?
 
 **Topic ID**: 12711

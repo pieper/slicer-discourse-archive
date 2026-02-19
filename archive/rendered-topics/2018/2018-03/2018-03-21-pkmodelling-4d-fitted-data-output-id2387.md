@@ -1,3 +1,10 @@
+---
+topic_id: 2387
+title: "Pkmodelling 4D Fitted Data Output"
+date: 2018-03-21
+url: https://discourse.slicer.org/t/2387
+---
+
 # pkModelling 4D fitted data output 
 
 **Topic ID**: 2387

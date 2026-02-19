@@ -1,3 +1,10 @@
+---
+topic_id: 19829
+title: "I Cant Build Slicer Master Branch In Windows10 Via Visualstu"
+date: 2021-09-23
+url: https://discourse.slicer.org/t/19829
+---
+
 # I can't build Slicer master branch in Windows10 via VisualStudio2019(toolset v142),Qt5.15.2
 
 **Topic ID**: 19829

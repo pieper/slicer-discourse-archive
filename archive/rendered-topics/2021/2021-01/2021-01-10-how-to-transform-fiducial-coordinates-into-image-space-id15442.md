@@ -1,3 +1,10 @@
+---
+topic_id: 15442
+title: "How To Transform Fiducial Coordinates Into Image Space"
+date: 2021-01-10
+url: https://discourse.slicer.org/t/15442
+---
+
 # How to transform fiducial coordinates into image space
 
 **Topic ID**: 15442

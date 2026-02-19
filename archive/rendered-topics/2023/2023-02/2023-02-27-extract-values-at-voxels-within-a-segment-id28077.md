@@ -1,3 +1,10 @@
+---
+topic_id: 28077
+title: "Extract Values At Voxels Within A Segment"
+date: 2023-02-27
+url: https://discourse.slicer.org/t/28077
+---
+
 # Extract values at voxels within a segment
 
 **Topic ID**: 28077

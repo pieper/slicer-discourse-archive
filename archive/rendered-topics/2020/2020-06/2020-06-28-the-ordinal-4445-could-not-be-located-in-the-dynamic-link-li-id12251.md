@@ -1,3 +1,10 @@
+---
+topic_id: 12251
+title: "The Ordinal 4445 Could Not Be Located In The Dynamic Link Li"
+date: 2020-06-28
+url: https://discourse.slicer.org/t/12251
+---
+
 # The ordinal 4445 could not be located in the dynamic link library libeay32.dll
 
 **Topic ID**: 12251

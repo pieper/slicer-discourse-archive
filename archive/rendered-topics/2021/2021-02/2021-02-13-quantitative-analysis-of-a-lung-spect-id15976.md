@@ -1,3 +1,10 @@
+---
+topic_id: 15976
+title: "Quantitative Analysis Of A Lung Spect"
+date: 2021-02-13
+url: https://discourse.slicer.org/t/15976
+---
+
 # Quantitative analysis of a lung SPECT
 
 **Topic ID**: 15976

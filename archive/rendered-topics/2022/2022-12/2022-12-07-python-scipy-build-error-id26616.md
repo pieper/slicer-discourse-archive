@@ -1,3 +1,10 @@
+---
+topic_id: 26616
+title: "Python Scipy Build Error"
+date: 2022-12-07
+url: https://discourse.slicer.org/t/26616
+---
+
 # Python-scipy build error
 
 **Topic ID**: 26616

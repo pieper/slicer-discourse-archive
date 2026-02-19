@@ -1,3 +1,10 @@
+---
+topic_id: 45223
+title: "How To Save All Modified Volume Rendering Presets In An Mrb"
+date: 2025-11-25
+url: https://discourse.slicer.org/t/45223
+---
+
 # How to Save All Modified Volume-Rendering Presets in an MRB File
 
 **Topic ID**: 45223

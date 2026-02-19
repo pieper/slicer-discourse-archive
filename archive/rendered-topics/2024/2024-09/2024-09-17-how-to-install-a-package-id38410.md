@@ -1,3 +1,10 @@
+---
+topic_id: 38410
+title: "How To Install A Package"
+date: 2024-09-17
+url: https://discourse.slicer.org/t/38410
+---
+
 # How to install a package
 
 **Topic ID**: 38410

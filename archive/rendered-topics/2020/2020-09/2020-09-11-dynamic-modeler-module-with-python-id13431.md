@@ -1,3 +1,10 @@
+---
+topic_id: 13431
+title: "Dynamic Modeler Module With Python"
+date: 2020-09-11
+url: https://discourse.slicer.org/t/13431
+---
+
 # Dynamic Modeler Module with python?
 
 **Topic ID**: 13431

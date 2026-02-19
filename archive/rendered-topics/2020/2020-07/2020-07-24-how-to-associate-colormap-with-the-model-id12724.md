@@ -1,3 +1,10 @@
+---
+topic_id: 12724
+title: "How To Associate Colormap With The Model"
+date: 2020-07-24
+url: https://discourse.slicer.org/t/12724
+---
+
 # How to associate colormap with the model
 
 **Topic ID**: 12724

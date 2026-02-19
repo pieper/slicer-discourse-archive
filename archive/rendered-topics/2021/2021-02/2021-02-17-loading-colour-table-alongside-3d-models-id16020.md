@@ -1,3 +1,10 @@
+---
+topic_id: 16020
+title: "Loading Colour Table Alongside 3D Models"
+date: 2021-02-17
+url: https://discourse.slicer.org/t/16020
+---
+
 # Loading Colour Table alongside 3D Models
 
 **Topic ID**: 16020

@@ -1,3 +1,10 @@
+---
+topic_id: 11332
+title: "Looking Forward To The Releasing Of 3Dslicer 5"
+date: 2020-04-28
+url: https://discourse.slicer.org/t/11332
+---
+
 # Looking forward to the releasing of 3dslicer 5！
 
 **Topic ID**: 11332

@@ -1,3 +1,10 @@
+---
+topic_id: 32307
+title: "Big Image Viewer Extension Not Working On 5 4 0"
+date: 2023-10-18
+url: https://discourse.slicer.org/t/32307
+---
+
 # Big image viewer extension not working on 5.4.0
 
 **Topic ID**: 32307

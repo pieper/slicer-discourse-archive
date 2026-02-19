@@ -1,3 +1,10 @@
+---
+topic_id: 6674
+title: "Creating Ostomies And Repositioning Facial Fractures"
+date: 2019-05-02
+url: https://discourse.slicer.org/t/6674
+---
+
 # Creating ostomies and repositioning facial fractures
 
 **Topic ID**: 6674

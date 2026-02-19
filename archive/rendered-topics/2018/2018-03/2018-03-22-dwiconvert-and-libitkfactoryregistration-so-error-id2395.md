@@ -1,3 +1,10 @@
+---
+topic_id: 2395
+title: "Dwiconvert And Libitkfactoryregistration So Error"
+date: 2018-03-22
+url: https://discourse.slicer.org/t/2395
+---
+
 # DWIConvert and libITKFactoryRegistration.so error
 
 **Topic ID**: 2395

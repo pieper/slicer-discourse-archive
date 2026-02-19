@@ -1,3 +1,10 @@
+---
+topic_id: 8628
+title: "Tutorial On How To Download Simulated Us Data"
+date: 2019-09-30
+url: https://discourse.slicer.org/t/8628
+---
+
 # Tutorial on how to download simulated US data
 
 **Topic ID**: 8628

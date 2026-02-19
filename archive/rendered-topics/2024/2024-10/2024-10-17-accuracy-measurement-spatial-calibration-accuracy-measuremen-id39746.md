@@ -1,3 +1,10 @@
+---
+topic_id: 39746
+title: "Accuracy Measurement Spatial Calibration Accuracy Measuremen"
+date: 2024-10-17
+url: https://discourse.slicer.org/t/39746
+---
+
 # ACCURACY MEASUREMENT: Spatial Calibration accuracy measurement
 
 **Topic ID**: 39746

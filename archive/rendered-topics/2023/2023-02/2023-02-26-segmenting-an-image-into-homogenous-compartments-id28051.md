@@ -1,3 +1,10 @@
+---
+topic_id: 28051
+title: "Segmenting An Image Into Homogenous Compartments"
+date: 2023-02-26
+url: https://discourse.slicer.org/t/28051
+---
+
 # Segmenting an image into homogenous compartments
 
 **Topic ID**: 28051

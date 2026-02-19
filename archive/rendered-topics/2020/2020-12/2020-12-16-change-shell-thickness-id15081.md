@@ -1,3 +1,10 @@
+---
+topic_id: 15081
+title: "Change Shell Thickness"
+date: 2020-12-16
+url: https://discourse.slicer.org/t/15081
+---
+
 # Change shell thickness
 
 **Topic ID**: 15081

@@ -1,3 +1,10 @@
+---
+topic_id: 26465
+title: "Uploading Mrml Files"
+date: 2022-11-27
+url: https://discourse.slicer.org/t/26465
+---
+
 # Uploading MRML Files
 
 **Topic ID**: 26465

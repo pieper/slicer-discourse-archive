@@ -1,3 +1,10 @@
+---
+topic_id: 38230
+title: "Question On Contour Editing"
+date: 2024-09-05
+url: https://discourse.slicer.org/t/38230
+---
+
 # Question on Contour Editing
 
 **Topic ID**: 38230

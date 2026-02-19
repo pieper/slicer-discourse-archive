@@ -1,3 +1,10 @@
+---
+topic_id: 30930
+title: "Issue With Downloading 3D Slicer Preview Release 5 3 0"
+date: 2023-08-02
+url: https://discourse.slicer.org/t/30930
+---
+
 # Issue with downloading 3d slicer preview release 5.3.0
 
 **Topic ID**: 30930

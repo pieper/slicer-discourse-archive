@@ -1,3 +1,10 @@
+---
+topic_id: 2039
+title: "Launch Error Message In Qt5 Debug Build"
+date: 2018-02-06
+url: https://discourse.slicer.org/t/2039
+---
+
 # Launch error message in Qt5 debug build
 
 **Topic ID**: 2039

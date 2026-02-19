@@ -1,3 +1,10 @@
+---
+topic_id: 18144
+title: "Coordinates Extracted From Markup Control Points Are Inaccur"
+date: 2021-06-15
+url: https://discourse.slicer.org/t/18144
+---
+
 # Coordinates extracted from markup control points are inaccurate
 
 **Topic ID**: 18144

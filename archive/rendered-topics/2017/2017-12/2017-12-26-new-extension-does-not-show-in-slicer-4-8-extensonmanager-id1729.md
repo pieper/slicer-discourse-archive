@@ -1,3 +1,10 @@
+---
+topic_id: 1729
+title: "New Extension Does Not Show In Slicer 4 8 Extensonmanager"
+date: 2017-12-26
+url: https://discourse.slicer.org/t/1729
+---
+
 # New extension does not show in Slicer 4.8 ExtensonManager
 
 **Topic ID**: 1729

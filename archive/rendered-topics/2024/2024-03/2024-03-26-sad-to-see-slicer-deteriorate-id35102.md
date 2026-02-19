@@ -1,3 +1,10 @@
+---
+topic_id: 35102
+title: "Sad To See Slicer Deteriorate"
+date: 2024-03-26
+url: https://discourse.slicer.org/t/35102
+---
+
 # Sad to see Slicer deteriorate
 
 **Topic ID**: 35102

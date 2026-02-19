@@ -1,3 +1,10 @@
+---
+topic_id: 24171
+title: "Add A Label To The 3D Glyph"
+date: 2022-07-04
+url: https://discourse.slicer.org/t/24171
+---
+
 # Add a label to the 3D glyph
 
 **Topic ID**: 24171

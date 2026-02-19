@@ -1,3 +1,10 @@
+---
+topic_id: 19539
+title: "Many Qmrmlthreedwidgets Impact Application Performance"
+date: 2021-09-07
+url: https://discourse.slicer.org/t/19539
+---
+
 # Many qMRMLThreeDWidgets impact application performance
 
 **Topic ID**: 19539

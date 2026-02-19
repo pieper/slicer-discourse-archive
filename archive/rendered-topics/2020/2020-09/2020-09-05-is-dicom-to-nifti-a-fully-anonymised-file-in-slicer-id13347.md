@@ -1,3 +1,10 @@
+---
+topic_id: 13347
+title: "Is Dicom To Nifti A Fully Anonymised File In Slicer"
+date: 2020-09-05
+url: https://discourse.slicer.org/t/13347
+---
+
 # Is DICOM to NIFTI a fully anonymised file in Slicer?
 
 **Topic ID**: 13347

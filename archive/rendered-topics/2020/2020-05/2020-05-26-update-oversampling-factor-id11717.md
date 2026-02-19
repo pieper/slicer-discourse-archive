@@ -1,3 +1,10 @@
+---
+topic_id: 11717
+title: "Update Oversampling Factor"
+date: 2020-05-26
+url: https://discourse.slicer.org/t/11717
+---
+
 # Update oversampling factor
 
 **Topic ID**: 11717

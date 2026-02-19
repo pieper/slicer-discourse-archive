@@ -1,3 +1,10 @@
+---
+topic_id: 18856
+title: "Slicer Not Starting On Linux Qt Plugin Issue"
+date: 2021-07-21
+url: https://discourse.slicer.org/t/18856
+---
+
 # Slicer not starting on Linux (Qt plugin issue)
 
 **Topic ID**: 18856

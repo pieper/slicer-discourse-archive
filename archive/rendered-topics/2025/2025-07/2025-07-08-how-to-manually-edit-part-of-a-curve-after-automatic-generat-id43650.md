@@ -1,3 +1,10 @@
+---
+topic_id: 43650
+title: "How To Manually Edit Part Of A Curve After Automatic Generat"
+date: 2025-07-08
+url: https://discourse.slicer.org/t/43650
+---
+
 # how to manually edit part of a curve after automatic generation in 3d slicer?
 
 **Topic ID**: 43650

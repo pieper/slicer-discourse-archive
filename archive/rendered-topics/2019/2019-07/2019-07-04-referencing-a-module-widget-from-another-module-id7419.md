@@ -1,3 +1,10 @@
+---
+topic_id: 7419
+title: "Referencing A Module Widget From Another Module"
+date: 2019-07-04
+url: https://discourse.slicer.org/t/7419
+---
+
 # Referencing a module widget from another module
 
 **Topic ID**: 7419

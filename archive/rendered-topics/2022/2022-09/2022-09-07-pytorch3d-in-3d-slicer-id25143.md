@@ -1,3 +1,10 @@
+---
+topic_id: 25143
+title: "Pytorch3D In 3D Slicer"
+date: 2022-09-07
+url: https://discourse.slicer.org/t/25143
+---
+
 # PyTorch3D in 3D Slicer
 
 **Topic ID**: 25143

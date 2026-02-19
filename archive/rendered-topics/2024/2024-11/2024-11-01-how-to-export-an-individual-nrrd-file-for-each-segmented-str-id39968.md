@@ -1,3 +1,10 @@
+---
+topic_id: 39968
+title: "How To Export An Individual Nrrd File For Each Segmented Str"
+date: 2024-11-01
+url: https://discourse.slicer.org/t/39968
+---
+
 # How to export an individual .nrrd file for each segmented structure?
 
 **Topic ID**: 39968

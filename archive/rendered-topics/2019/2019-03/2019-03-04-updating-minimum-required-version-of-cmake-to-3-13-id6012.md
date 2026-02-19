@@ -1,3 +1,10 @@
+---
+topic_id: 6012
+title: "Updating Minimum Required Version Of Cmake To 3 13"
+date: 2019-03-04
+url: https://discourse.slicer.org/t/6012
+---
+
 # Updating minimum required version of CMake to 3.13
 
 **Topic ID**: 6012

@@ -1,3 +1,10 @@
+---
+topic_id: 2106
+title: "Segmentations Not Drawing On Volume"
+date: 2018-02-18
+url: https://discourse.slicer.org/t/2106
+---
+
 # Segmentations not drawing on volume
 
 **Topic ID**: 2106

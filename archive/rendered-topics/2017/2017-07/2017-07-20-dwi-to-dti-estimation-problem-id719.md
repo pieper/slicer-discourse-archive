@@ -1,3 +1,10 @@
+---
+topic_id: 719
+title: "Dwi To Dti Estimation Problem"
+date: 2017-07-20
+url: https://discourse.slicer.org/t/719
+---
+
 # DWI to DTI Estimation Problem
 
 **Topic ID**: 719

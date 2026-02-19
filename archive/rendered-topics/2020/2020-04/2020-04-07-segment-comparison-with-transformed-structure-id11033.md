@@ -1,3 +1,10 @@
+---
+topic_id: 11033
+title: "Segment Comparison With Transformed Structure"
+date: 2020-04-07
+url: https://discourse.slicer.org/t/11033
+---
+
 # Segment comparison with transformed structure
 
 **Topic ID**: 11033

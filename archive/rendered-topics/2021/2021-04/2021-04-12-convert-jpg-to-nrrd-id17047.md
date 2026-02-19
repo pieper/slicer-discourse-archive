@@ -1,3 +1,10 @@
+---
+topic_id: 17047
+title: "Convert Jpg To Nrrd"
+date: 2021-04-12
+url: https://discourse.slicer.org/t/17047
+---
+
 # Convert JPG to nrrd
 
 **Topic ID**: 17047

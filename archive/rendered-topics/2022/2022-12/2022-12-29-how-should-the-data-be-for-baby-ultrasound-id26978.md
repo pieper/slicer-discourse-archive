@@ -1,3 +1,10 @@
+---
+topic_id: 26978
+title: "How Should The Data Be For Baby Ultrasound"
+date: 2022-12-29
+url: https://discourse.slicer.org/t/26978
+---
+
 # How should the data be for baby ultrasound ?
 
 **Topic ID**: 26978

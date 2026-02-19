@@ -1,3 +1,10 @@
+---
+topic_id: 26117
+title: "Error In Segmentmesher"
+date: 2022-11-07
+url: https://discourse.slicer.org/t/26117
+---
+
 # Error in SegmentMesher
 
 **Topic ID**: 26117

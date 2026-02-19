@@ -1,3 +1,10 @@
+---
+topic_id: 20088
+title: "How To Get The Position And Angle Of The Crosshair"
+date: 2021-10-10
+url: https://discourse.slicer.org/t/20088
+---
+
 # How to get the position and angle of the crosshair?
 
 **Topic ID**: 20088

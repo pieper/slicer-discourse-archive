@@ -1,3 +1,10 @@
+---
+topic_id: 26814
+title: "Use Totalsegmentator With Atlases"
+date: 2022-12-18
+url: https://discourse.slicer.org/t/26814
+---
+
 # Use TotalSegmentator with atlases
 
 **Topic ID**: 26814

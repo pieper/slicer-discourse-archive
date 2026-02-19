@@ -1,3 +1,10 @@
+---
+topic_id: 34287
+title: "Insula Segmentation"
+date: 2024-02-13
+url: https://discourse.slicer.org/t/34287
+---
+
 # Insula segmentation 
 
 **Topic ID**: 34287

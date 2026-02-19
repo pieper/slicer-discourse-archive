@@ -1,3 +1,10 @@
+---
+topic_id: 16609
+title: "Prism Rendering"
+date: 2021-03-18
+url: https://discourse.slicer.org/t/16609
+---
+
 # Prism rendering
 
 **Topic ID**: 16609

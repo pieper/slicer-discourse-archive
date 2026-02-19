@@ -1,3 +1,10 @@
+---
+topic_id: 21602
+title: "Markups Jump Slices Functionality Is Broken On Preview"
+date: 2022-01-24
+url: https://discourse.slicer.org/t/21602
+---
+
 # Markups Jump Slices functionality is broken on preview
 
 **Topic ID**: 21602

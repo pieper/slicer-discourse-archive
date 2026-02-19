@@ -1,3 +1,10 @@
+---
+topic_id: 42421
+title: "Unable To See Slicer Autoscoper In Extensions"
+date: 2025-04-03
+url: https://discourse.slicer.org/t/42421
+---
+
 # Unable to see slicer autoscoper in extensions
 
 **Topic ID**: 42421

@@ -1,3 +1,10 @@
+---
+topic_id: 40301
+title: "Monai Label Defaulting To Cpu Only Training With Segmentatio"
+date: 2024-11-21
+url: https://discourse.slicer.org/t/40301
+---
+
 # Monai Label defaulting to CPU only training with segmentation model
 
 **Topic ID**: 40301

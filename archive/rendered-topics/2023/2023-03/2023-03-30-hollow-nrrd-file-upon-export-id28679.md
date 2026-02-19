@@ -1,3 +1,10 @@
+---
+topic_id: 28679
+title: "Hollow Nrrd File Upon Export"
+date: 2023-03-30
+url: https://discourse.slicer.org/t/28679
+---
+
 # Hollow Nrrd File Upon Export
 
 **Topic ID**: 28679

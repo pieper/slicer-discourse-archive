@@ -1,3 +1,10 @@
+---
+topic_id: 39521
+title: "When I Remove The Points On The Crest And Adjust The Positio"
+date: 2024-10-03
+url: https://discourse.slicer.org/t/39521
+---
+
 # When I remove the points on the crest and adjust the position of some of the points and then perform the next step“Enforce spatial sampling rate”, the software flashes back or the data in View disappear, why is that?
 
 **Topic ID**: 39521

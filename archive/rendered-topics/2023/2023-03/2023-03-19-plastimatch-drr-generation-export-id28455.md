@@ -1,3 +1,10 @@
+---
+topic_id: 28455
+title: "Plastimatch Drr Generation Export"
+date: 2023-03-19
+url: https://discourse.slicer.org/t/28455
+---
+
 # Plastimatch DRR Generation Export
 
 **Topic ID**: 28455

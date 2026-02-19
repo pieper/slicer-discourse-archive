@@ -1,3 +1,10 @@
+---
+topic_id: 7143
+title: "An Extension Contains Common Functions For Different Extensi"
+date: 2019-06-12
+url: https://discourse.slicer.org/t/7143
+---
+
 # An extension contains common functions for different extensions
 
 **Topic ID**: 7143

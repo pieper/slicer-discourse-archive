@@ -1,3 +1,10 @@
+---
+topic_id: 35517
+title: "About Dicom Or Nifti Standardization"
+date: 2024-04-16
+url: https://discourse.slicer.org/t/35517
+---
+
 # About dicom or nifti standardization
 
 **Topic ID**: 35517

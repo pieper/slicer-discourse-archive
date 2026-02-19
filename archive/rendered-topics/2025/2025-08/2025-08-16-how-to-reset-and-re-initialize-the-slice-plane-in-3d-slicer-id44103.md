@@ -1,3 +1,10 @@
+---
+topic_id: 44103
+title: "How To Reset And Re Initialize The Slice Plane In 3D Slicer"
+date: 2025-08-16
+url: https://discourse.slicer.org/t/44103
+---
+
 # How to reset and re-initialize the slice plane in 3D Slicer
 
 **Topic ID**: 44103

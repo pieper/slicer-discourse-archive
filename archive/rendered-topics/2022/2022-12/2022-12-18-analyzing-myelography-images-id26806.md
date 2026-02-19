@@ -1,3 +1,10 @@
+---
+topic_id: 26806
+title: "Analyzing Myelography Images"
+date: 2022-12-18
+url: https://discourse.slicer.org/t/26806
+---
+
 # Analyzing myelography images
 
 **Topic ID**: 26806

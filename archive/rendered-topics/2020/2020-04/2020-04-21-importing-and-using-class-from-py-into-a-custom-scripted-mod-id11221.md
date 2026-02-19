@@ -1,3 +1,10 @@
+---
+topic_id: 11221
+title: "Importing And Using Class From Py Into A Custom Scripted Mod"
+date: 2020-04-21
+url: https://discourse.slicer.org/t/11221
+---
+
 # Importing and using class from .py into a custom scripted module
 
 **Topic ID**: 11221

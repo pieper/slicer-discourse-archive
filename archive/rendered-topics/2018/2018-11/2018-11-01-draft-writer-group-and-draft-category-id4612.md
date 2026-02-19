@@ -1,3 +1,10 @@
+---
+topic_id: 4612
+title: "Draft Writer Group And Draft Category"
+date: 2018-11-01
+url: https://discourse.slicer.org/t/4612
+---
+
 # Draft-writer group and Draft category
 
 **Topic ID**: 4612

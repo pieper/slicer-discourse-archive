@@ -1,3 +1,10 @@
+---
+topic_id: 10234
+title: "Centerline Options And Best Way To Measure Arterial Vessels"
+date: 2020-02-13
+url: https://discourse.slicer.org/t/10234
+---
+
 # Centerline options and best way to measure arterial vessels?
 
 **Topic ID**: 10234

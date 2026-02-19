@@ -1,3 +1,10 @@
+---
+topic_id: 27694
+title: "Search For Example Data"
+date: 2023-02-08
+url: https://discourse.slicer.org/t/27694
+---
+
 # Search for example data
 
 **Topic ID**: 27694

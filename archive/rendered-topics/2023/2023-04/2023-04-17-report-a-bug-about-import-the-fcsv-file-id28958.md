@@ -1,3 +1,10 @@
+---
+topic_id: 28958
+title: "Report A Bug About Import The Fcsv File"
+date: 2023-04-17
+url: https://discourse.slicer.org/t/28958
+---
+
 # Report a bug about import the fcsv file
 
 **Topic ID**: 28958

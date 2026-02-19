@@ -1,3 +1,10 @@
+---
+topic_id: 2381
+title: "March 21 2018 Nightly Build Manually Re Triggered After Fixi"
+date: 2018-03-21
+url: https://discourse.slicer.org/t/2381
+---
+
 # March 21, 2018: Nightly build manually re-triggered after fixing regression due to AtlasCreatorLogic removal
 
 **Topic ID**: 2381

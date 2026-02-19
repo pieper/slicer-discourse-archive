@@ -1,3 +1,10 @@
+---
+topic_id: 4460
+title: "Can Not Load Dti Files Correctly"
+date: 2018-10-19
+url: https://discourse.slicer.org/t/4460
+---
+
 # Can not load DTI files correctly
 
 **Topic ID**: 4460

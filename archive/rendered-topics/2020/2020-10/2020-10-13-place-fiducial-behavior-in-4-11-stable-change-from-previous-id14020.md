@@ -1,3 +1,10 @@
+---
+topic_id: 14020
+title: "Place Fiducial Behavior In 4 11 Stable Change From Previous"
+date: 2020-10-13
+url: https://discourse.slicer.org/t/14020
+---
+
 # Place fiducial behavior in 4.11 stable - change from previous version
 
 **Topic ID**: 14020

@@ -1,3 +1,10 @@
+---
+topic_id: 37766
+title: "Creating A Module For Electron Bolus"
+date: 2024-08-08
+url: https://discourse.slicer.org/t/37766
+---
+
 # Creating a module for electron bolus
 
 **Topic ID**: 37766

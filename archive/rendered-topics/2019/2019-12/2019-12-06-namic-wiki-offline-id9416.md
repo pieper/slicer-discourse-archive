@@ -1,3 +1,10 @@
+---
+topic_id: 9416
+title: "Namic Wiki Offline"
+date: 2019-12-06
+url: https://discourse.slicer.org/t/9416
+---
+
 # NAMIC Wiki offline
 
 **Topic ID**: 9416

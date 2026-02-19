@@ -1,3 +1,10 @@
+---
+topic_id: 19433
+title: "Prevent A Segment From Changing When Editing Other Segments"
+date: 2021-08-31
+url: https://discourse.slicer.org/t/19433
+---
+
 # Prevent a segment from changing when editing other segments
 
 **Topic ID**: 19433

@@ -1,3 +1,10 @@
+---
+topic_id: 23326
+title: "Joint Smoothing In Slicer 4 13 Works Incorrectly"
+date: 2022-05-08
+url: https://discourse.slicer.org/t/23326
+---
+
 # Joint Smoothing in Slicer 4.13 works incorrectly 
 
 **Topic ID**: 23326

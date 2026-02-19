@@ -1,3 +1,10 @@
+---
+topic_id: 26334
+title: "How To Color A Stl File Using Vtk In Python"
+date: 2022-11-20
+url: https://discourse.slicer.org/t/26334
+---
+
 # How to color a stl file using VTK in python
 
 **Topic ID**: 26334

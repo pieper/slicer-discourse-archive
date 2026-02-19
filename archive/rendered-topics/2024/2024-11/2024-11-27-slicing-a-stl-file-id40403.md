@@ -1,3 +1,10 @@
+---
+topic_id: 40403
+title: "Slicing A Stl File"
+date: 2024-11-27
+url: https://discourse.slicer.org/t/40403
+---
+
 # Slicing a STL file
 
 **Topic ID**: 40403

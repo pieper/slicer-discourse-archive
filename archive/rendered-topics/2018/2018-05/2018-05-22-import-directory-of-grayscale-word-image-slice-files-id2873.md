@@ -1,3 +1,10 @@
+---
+topic_id: 2873
+title: "Import Directory Of Grayscale Word Image Slice Files"
+date: 2018-05-22
+url: https://discourse.slicer.org/t/2873
+---
+
 # import directory of Grayscale Word image slice files
 
 **Topic ID**: 2873

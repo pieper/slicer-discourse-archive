@@ -1,3 +1,10 @@
+---
+topic_id: 12534
+title: "Composition Of Mri Slabs"
+date: 2020-07-14
+url: https://discourse.slicer.org/t/12534
+---
+
 # Composition of MRI Slabs
 
 **Topic ID**: 12534

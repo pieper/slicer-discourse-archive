@@ -1,3 +1,10 @@
+---
+topic_id: 32078
+title: "Empty Segmentation Saved To File But After Reload Cannot Mod"
+date: 2023-10-06
+url: https://discourse.slicer.org/t/32078
+---
+
 # Empty segmentation saved to file, but after reload cannot modify
 
 **Topic ID**: 32078

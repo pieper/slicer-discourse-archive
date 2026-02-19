@@ -1,3 +1,10 @@
+---
+topic_id: 3552
+title: "Bin Width In Pyradiomics"
+date: 2018-07-21
+url: https://discourse.slicer.org/t/3552
+---
+
 # Bin width in Pyradiomics 
 
 **Topic ID**: 3552

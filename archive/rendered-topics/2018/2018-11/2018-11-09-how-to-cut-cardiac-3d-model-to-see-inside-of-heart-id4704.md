@@ -1,3 +1,10 @@
+---
+topic_id: 4704
+title: "How To Cut Cardiac 3D Model To See Inside Of Heart"
+date: 2018-11-09
+url: https://discourse.slicer.org/t/4704
+---
+
 # How to cut cardiac 3d model to see inside of heart
 
 **Topic ID**: 4704

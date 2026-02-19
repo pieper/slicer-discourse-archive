@@ -1,3 +1,10 @@
+---
+topic_id: 3035
+title: "Open Files From Multiple Subdirectories"
+date: 2018-06-01
+url: https://discourse.slicer.org/t/3035
+---
+
 # Open files from multiple subdirectories
 
 **Topic ID**: 3035

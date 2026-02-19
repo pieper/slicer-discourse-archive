@@ -1,3 +1,10 @@
+---
+topic_id: 27273
+title: "Reduction Metal Artefacts Ct In Bone Fracture"
+date: 2023-01-16
+url: https://discourse.slicer.org/t/27273
+---
+
 # Reduction Metal Artefacts CT in bone fracture
 
 **Topic ID**: 27273

@@ -1,3 +1,10 @@
+---
+topic_id: 3434
+title: "Setting B Spline Grid Size"
+date: 2018-07-02
+url: https://discourse.slicer.org/t/3434
+---
+
 # Setting b-spline grid size
 
 **Topic ID**: 3434

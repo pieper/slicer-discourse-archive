@@ -1,3 +1,10 @@
+---
+topic_id: 2385
+title: "Segment Editor Odd Cursor Behavior Using Tablet With Latest"
+date: 2018-03-21
+url: https://discourse.slicer.org/t/2385
+---
+
 # Segment Editor - Odd cursor behavior using tablet with latest nightly builds
 
 **Topic ID**: 2385

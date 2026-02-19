@@ -1,3 +1,10 @@
+---
+topic_id: 1815
+title: "Early Vr Interaction Papers On Presence Journal"
+date: 2018-01-11
+url: https://discourse.slicer.org/t/1815
+---
+
 # Early VR interaction papers on PRESENCE Journal
 
 **Topic ID**: 1815

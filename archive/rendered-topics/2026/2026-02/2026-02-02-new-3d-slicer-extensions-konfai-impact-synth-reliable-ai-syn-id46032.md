@@ -1,3 +1,10 @@
+---
+topic_id: 46032
+title: "New 3D Slicer Extensions Konfai Impact Synth Reliable Ai Syn"
+date: 2026-02-02
+url: https://discourse.slicer.org/t/46032
+---
+
 # 📢 New 3D Slicer Extensions: KonfAI & IMPACT-Synth Reliable AI Synthetic CT and Segmentation with Integrated QA
 
 **Topic ID**: 46032

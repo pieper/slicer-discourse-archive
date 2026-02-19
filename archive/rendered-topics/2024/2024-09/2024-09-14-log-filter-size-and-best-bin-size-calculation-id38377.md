@@ -1,3 +1,10 @@
+---
+topic_id: 38377
+title: "Log Filter Size And Best Bin Size Calculation"
+date: 2024-09-14
+url: https://discourse.slicer.org/t/38377
+---
+
 # LoG filter Size and best bin size calculation
 
 **Topic ID**: 38377

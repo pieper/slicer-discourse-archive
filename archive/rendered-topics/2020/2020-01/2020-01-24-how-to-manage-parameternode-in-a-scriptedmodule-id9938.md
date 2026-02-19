@@ -1,3 +1,10 @@
+---
+topic_id: 9938
+title: "How To Manage Parameternode In A Scriptedmodule"
+date: 2020-01-24
+url: https://discourse.slicer.org/t/9938
+---
+
 # How to manage parameterNode in a ScriptedModule
 
 **Topic ID**: 9938

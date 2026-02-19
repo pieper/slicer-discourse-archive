@@ -1,3 +1,10 @@
+---
+topic_id: 720
+title: "Building Slicer On Windows 10"
+date: 2017-07-20
+url: https://discourse.slicer.org/t/720
+---
+
 # Building Slicer on Windows 10
 
 **Topic ID**: 720

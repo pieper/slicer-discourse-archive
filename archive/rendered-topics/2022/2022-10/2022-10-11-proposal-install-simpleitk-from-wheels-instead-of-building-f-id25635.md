@@ -1,3 +1,10 @@
+---
+topic_id: 25635
+title: "Proposal Install Simpleitk From Wheels Instead Of Building F"
+date: 2022-10-11
+url: https://discourse.slicer.org/t/25635
+---
+
 # Proposal: Install SimpleITK from wheels instead of building from source
 
 **Topic ID**: 25635

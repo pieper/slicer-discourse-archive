@@ -1,3 +1,10 @@
+---
+topic_id: 11639
+title: "Vtk To Dicom Using 3D Slicer Or Python Shell"
+date: 2020-05-20
+url: https://discourse.slicer.org/t/11639
+---
+
 # VTK to DICOM using 3D slicer or python shell
 
 **Topic ID**: 11639

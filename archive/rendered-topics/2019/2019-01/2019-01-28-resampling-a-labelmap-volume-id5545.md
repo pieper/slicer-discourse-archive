@@ -1,3 +1,10 @@
+---
+topic_id: 5545
+title: "Resampling A Labelmap Volume"
+date: 2019-01-28
+url: https://discourse.slicer.org/t/5545
+---
+
 # Resampling a Labelmap Volume
 
 **Topic ID**: 5545

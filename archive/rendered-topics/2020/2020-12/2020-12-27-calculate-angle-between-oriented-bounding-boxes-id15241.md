@@ -1,3 +1,10 @@
+---
+topic_id: 15241
+title: "Calculate Angle Between Oriented Bounding Boxes"
+date: 2020-12-27
+url: https://discourse.slicer.org/t/15241
+---
+
 # Calculate angle between oriented bounding boxes
 
 **Topic ID**: 15241

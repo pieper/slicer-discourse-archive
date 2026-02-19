@@ -1,3 +1,10 @@
+---
+topic_id: 4451
+title: "Mean St Deviation Segment Statistics"
+date: 2018-10-18
+url: https://discourse.slicer.org/t/4451
+---
+
 # Mean st deviation... segment statistics
 
 **Topic ID**: 4451

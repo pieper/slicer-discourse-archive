@@ -1,3 +1,10 @@
+---
+topic_id: 29326
+title: "Failed To Fetch Models From Remote Server Make Sure Server A"
+date: 2023-05-07
+url: https://discourse.slicer.org/t/29326
+---
+
 # Failed to fetch models from remote server. ..Make sure server address is correct and <server_uri>/v1/models is accessible in browser
 
 **Topic ID**: 29326

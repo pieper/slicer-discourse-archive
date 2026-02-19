@@ -1,3 +1,10 @@
+---
+topic_id: 20964
+title: "3D Slicer Elastix Registration Method"
+date: 2021-12-08
+url: https://discourse.slicer.org/t/20964
+---
+
 # 3D Slicer Elastix registration method
 
 **Topic ID**: 20964

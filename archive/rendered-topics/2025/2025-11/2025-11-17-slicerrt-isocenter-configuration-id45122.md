@@ -1,3 +1,10 @@
+---
+topic_id: 45122
+title: "Slicerrt Isocenter Configuration"
+date: 2025-11-17
+url: https://discourse.slicer.org/t/45122
+---
+
 # SlicerRT isocenter configuration
 
 **Topic ID**: 45122

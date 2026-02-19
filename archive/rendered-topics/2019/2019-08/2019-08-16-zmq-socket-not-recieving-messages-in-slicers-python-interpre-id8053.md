@@ -1,3 +1,10 @@
+---
+topic_id: 8053
+title: "Zmq Socket Not Recieving Messages In Slicers Python Interpre"
+date: 2019-08-16
+url: https://discourse.slicer.org/t/8053
+---
+
 # ZMQ socket not recieving messages in Slicer's python interpreter
 
 **Topic ID**: 8053

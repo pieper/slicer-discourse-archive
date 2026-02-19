@@ -1,3 +1,10 @@
+---
+topic_id: 249
+title: "Cannot Add Note To Mantis Bug Tracker"
+date: 2017-05-02
+url: https://discourse.slicer.org/t/249
+---
+
 # Cannot Add Note to Mantis Bug Tracker
 
 **Topic ID**: 249

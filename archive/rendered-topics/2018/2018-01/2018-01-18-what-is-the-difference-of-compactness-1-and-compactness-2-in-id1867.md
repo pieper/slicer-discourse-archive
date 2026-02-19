@@ -1,3 +1,10 @@
+---
+topic_id: 1867
+title: "What Is The Difference Of Compactness 1 And Compactness 2 In"
+date: 2018-01-18
+url: https://discourse.slicer.org/t/1867
+---
+
 # What is the difference of Compactness 1 and compactness 2 in heterogeneity CAD package? 
 
 **Topic ID**: 1867

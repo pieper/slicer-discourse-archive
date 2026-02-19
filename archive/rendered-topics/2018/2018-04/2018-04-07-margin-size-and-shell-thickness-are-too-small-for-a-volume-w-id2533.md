@@ -1,3 +1,10 @@
+---
+topic_id: 2533
+title: "Margin Size And Shell Thickness Are Too Small For A Volume W"
+date: 2018-04-07
+url: https://discourse.slicer.org/t/2533
+---
+
 # "Margin size" and "Shell thickness" are too small for a volume with 0.05 0.05 0.05 spacing
 
 **Topic ID**: 2533

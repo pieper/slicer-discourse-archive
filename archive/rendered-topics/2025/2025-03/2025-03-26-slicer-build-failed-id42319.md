@@ -1,3 +1,10 @@
+---
+topic_id: 42319
+title: "Slicer Build Failed"
+date: 2025-03-26
+url: https://discourse.slicer.org/t/42319
+---
+
 # Slicer build failed
 
 **Topic ID**: 42319

@@ -1,3 +1,10 @@
+---
+topic_id: 33791
+title: "Whats Wrong When Trying To Convert A Models Coordinate Point"
+date: 2024-01-16
+url: https://discourse.slicer.org/t/33791
+---
+
 # What's wrong when trying to convert a model's coordinate points into a volume?
 
 **Topic ID**: 33791

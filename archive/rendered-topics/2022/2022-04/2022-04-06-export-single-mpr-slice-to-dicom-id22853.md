@@ -1,3 +1,10 @@
+---
+topic_id: 22853
+title: "Export Single Mpr Slice To Dicom"
+date: 2022-04-06
+url: https://discourse.slicer.org/t/22853
+---
+
 # Export single MPR slice to DICOM
 
 **Topic ID**: 22853

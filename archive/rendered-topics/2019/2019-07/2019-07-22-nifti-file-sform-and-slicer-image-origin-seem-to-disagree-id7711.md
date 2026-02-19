@@ -1,3 +1,10 @@
+---
+topic_id: 7711
+title: "Nifti File Sform And Slicer Image Origin Seem To Disagree"
+date: 2019-07-22
+url: https://discourse.slicer.org/t/7711
+---
+
 # Nifti file sform and Slicer image origin seem to disagree
 
 **Topic ID**: 7711

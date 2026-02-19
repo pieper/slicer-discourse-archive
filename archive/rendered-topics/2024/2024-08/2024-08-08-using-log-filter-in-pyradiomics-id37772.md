@@ -1,3 +1,10 @@
+---
+topic_id: 37772
+title: "Using Log Filter In Pyradiomics"
+date: 2024-08-08
+url: https://discourse.slicer.org/t/37772
+---
+
 # Using LoG filter in PyRadiomics
 
 **Topic ID**: 37772

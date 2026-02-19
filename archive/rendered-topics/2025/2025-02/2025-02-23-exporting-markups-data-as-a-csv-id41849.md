@@ -1,3 +1,10 @@
+---
+topic_id: 41849
+title: "Exporting Markups Data As A Csv"
+date: 2025-02-23
+url: https://discourse.slicer.org/t/41849
+---
+
 # Exporting markups data as a csv 
 
 **Topic ID**: 41849

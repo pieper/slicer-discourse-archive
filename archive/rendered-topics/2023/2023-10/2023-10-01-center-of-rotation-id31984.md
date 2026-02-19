@@ -1,3 +1,10 @@
+---
+topic_id: 31984
+title: "Center Of Rotation"
+date: 2023-10-01
+url: https://discourse.slicer.org/t/31984
+---
+
 # Center of rotation
 
 **Topic ID**: 31984

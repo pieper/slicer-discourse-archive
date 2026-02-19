@@ -1,3 +1,10 @@
+---
+topic_id: 22317
+title: "Dicom Export Failed Uid Tags"
+date: 2022-03-04
+url: https://discourse.slicer.org/t/22317
+---
+
 # DICOM export failed - UID tags
 
 **Topic ID**: 22317

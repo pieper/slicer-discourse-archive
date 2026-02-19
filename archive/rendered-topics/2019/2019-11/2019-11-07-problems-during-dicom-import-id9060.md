@@ -1,3 +1,10 @@
+---
+topic_id: 9060
+title: "Problems During Dicom Import"
+date: 2019-11-07
+url: https://discourse.slicer.org/t/9060
+---
+
 # Problems during Dicom import
 
 **Topic ID**: 9060

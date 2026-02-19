@@ -1,3 +1,10 @@
+---
+topic_id: 22374
+title: "Error Command Elastix Returned Non Zero Exit Status 32212254"
+date: 2022-03-08
+url: https://discourse.slicer.org/t/22374
+---
+
 # Error: Command 'elastix' returned non-zero exit status 3221225477
 
 **Topic ID**: 22374

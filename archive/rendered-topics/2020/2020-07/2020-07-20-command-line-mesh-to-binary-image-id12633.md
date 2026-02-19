@@ -1,3 +1,10 @@
+---
+topic_id: 12633
+title: "Command Line Mesh To Binary Image"
+date: 2020-07-20
+url: https://discourse.slicer.org/t/12633
+---
+
 # Command Line - Mesh to binary image
 
 **Topic ID**: 12633

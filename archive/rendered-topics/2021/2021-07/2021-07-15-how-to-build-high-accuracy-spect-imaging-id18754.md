@@ -1,3 +1,10 @@
+---
+topic_id: 18754
+title: "How To Build High Accuracy Spect Imaging"
+date: 2021-07-15
+url: https://discourse.slicer.org/t/18754
+---
+
 # How to build high accuracy SPECT Imaging
 
 **Topic ID**: 18754

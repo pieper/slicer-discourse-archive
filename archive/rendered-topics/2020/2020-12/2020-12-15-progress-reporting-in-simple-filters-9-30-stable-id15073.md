@@ -1,3 +1,10 @@
+---
+topic_id: 15073
+title: "Progress Reporting In Simple Filters 9 30 Stable"
+date: 2020-12-15
+url: https://discourse.slicer.org/t/15073
+---
+
 # Progress reporting in Simple Filters? (9-30 Stable)
 
 **Topic ID**: 15073

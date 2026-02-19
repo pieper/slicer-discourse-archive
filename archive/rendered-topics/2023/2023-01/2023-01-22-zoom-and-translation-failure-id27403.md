@@ -1,3 +1,10 @@
+---
+topic_id: 27403
+title: "Zoom And Translation Failure"
+date: 2023-01-22
+url: https://discourse.slicer.org/t/27403
+---
+
 # Zoom and translation failure
 
 **Topic ID**: 27403

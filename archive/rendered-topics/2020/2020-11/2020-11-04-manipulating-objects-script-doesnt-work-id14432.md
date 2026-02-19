@@ -1,3 +1,10 @@
+---
+topic_id: 14432
+title: "Manipulating Objects Script Doesnt Work"
+date: 2020-11-04
+url: https://discourse.slicer.org/t/14432
+---
+
 # Manipulating objects script doesn't work
 
 **Topic ID**: 14432

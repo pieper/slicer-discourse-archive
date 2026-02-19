@@ -1,3 +1,10 @@
+---
+topic_id: 13087
+title: "Registration With A Brain Template To An Individual Brain Mr"
+date: 2020-08-19
+url: https://discourse.slicer.org/t/13087
+---
+
 # Registration with a Brain template to an individual brain MRI
 
 **Topic ID**: 13087

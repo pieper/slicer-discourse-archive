@@ -1,3 +1,10 @@
+---
+topic_id: 12354
+title: "How To Cite Individual Modules In 3D Slicer"
+date: 2020-07-03
+url: https://discourse.slicer.org/t/12354
+---
+
 # How to cite individual modules in 3D Slicer
 
 **Topic ID**: 12354

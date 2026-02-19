@@ -1,3 +1,10 @@
+---
+topic_id: 8604
+title: "Vtk Display Scalar Values"
+date: 2019-09-28
+url: https://discourse.slicer.org/t/8604
+---
+
 # Vtk display scalar values
 
 **Topic ID**: 8604

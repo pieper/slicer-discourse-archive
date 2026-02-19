@@ -1,3 +1,10 @@
+---
+topic_id: 169
+title: "Updating An Extension"
+date: 2017-04-21
+url: https://discourse.slicer.org/t/169
+---
+
 # Updating an extension
 
 **Topic ID**: 169

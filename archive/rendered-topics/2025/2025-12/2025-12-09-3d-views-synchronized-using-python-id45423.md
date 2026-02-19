@@ -1,3 +1,10 @@
+---
+topic_id: 45423
+title: "3D Views Synchronized Using Python"
+date: 2025-12-09
+url: https://discourse.slicer.org/t/45423
+---
+
 # 3D views synchronized using python
 
 **Topic ID**: 45423

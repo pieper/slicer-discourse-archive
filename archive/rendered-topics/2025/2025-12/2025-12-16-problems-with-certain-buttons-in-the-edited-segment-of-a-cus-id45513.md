@@ -1,3 +1,10 @@
+---
+topic_id: 45513
+title: "Problems With Certain Buttons In The Edited Segment Of A Cus"
+date: 2025-12-16
+url: https://discourse.slicer.org/t/45513
+---
+
 # Problems with certain buttons in the edited segment of a custom slicer!!!!!
 
 **Topic ID**: 45513

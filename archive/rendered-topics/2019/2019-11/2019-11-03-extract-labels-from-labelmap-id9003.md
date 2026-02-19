@@ -1,3 +1,10 @@
+---
+topic_id: 9003
+title: "Extract Labels From Labelmap"
+date: 2019-11-03
+url: https://discourse.slicer.org/t/9003
+---
+
 # Extract labels from labelmap
 
 **Topic ID**: 9003

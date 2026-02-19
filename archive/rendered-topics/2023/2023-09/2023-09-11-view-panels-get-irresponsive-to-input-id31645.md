@@ -1,3 +1,10 @@
+---
+topic_id: 31645
+title: "View Panels Get Irresponsive To Input"
+date: 2023-09-11
+url: https://discourse.slicer.org/t/31645
+---
+
 # View Panels get irresponsive to input
 
 **Topic ID**: 31645

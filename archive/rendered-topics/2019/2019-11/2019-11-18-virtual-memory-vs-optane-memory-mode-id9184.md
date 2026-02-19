@@ -1,3 +1,10 @@
+---
+topic_id: 9184
+title: "Virtual Memory Vs Optane Memory Mode"
+date: 2019-11-18
+url: https://discourse.slicer.org/t/9184
+---
+
 # Virtual memory vs optane memory mode
 
 **Topic ID**: 9184

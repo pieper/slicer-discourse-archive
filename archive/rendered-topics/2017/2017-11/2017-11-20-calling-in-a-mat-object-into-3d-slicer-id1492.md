@@ -1,3 +1,10 @@
+---
+topic_id: 1492
+title: "Calling In A Mat Object Into 3D Slicer"
+date: 2017-11-20
+url: https://discourse.slicer.org/t/1492
+---
+
 # Calling in a .mat object into 3D Slicer
 
 **Topic ID**: 1492

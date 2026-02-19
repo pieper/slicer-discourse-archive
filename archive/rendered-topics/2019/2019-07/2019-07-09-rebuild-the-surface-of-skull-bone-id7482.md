@@ -1,3 +1,10 @@
+---
+topic_id: 7482
+title: "Rebuild The Surface Of Skull Bone"
+date: 2019-07-09
+url: https://discourse.slicer.org/t/7482
+---
+
 # rebuild the surface of skull bone
 
 **Topic ID**: 7482

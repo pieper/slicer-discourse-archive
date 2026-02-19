@@ -1,3 +1,10 @@
+---
+topic_id: 24629
+title: "How To Adjust The Slice Thickness Based On The Axial Positio"
+date: 2022-08-03
+url: https://discourse.slicer.org/t/24629
+---
+
 # How to adjust the slice thickness based on the axial position
 
 **Topic ID**: 24629

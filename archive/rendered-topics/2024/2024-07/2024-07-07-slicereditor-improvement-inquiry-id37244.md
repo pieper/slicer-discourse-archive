@@ -1,3 +1,10 @@
+---
+topic_id: 37244
+title: "Slicereditor Improvement Inquiry"
+date: 2024-07-07
+url: https://discourse.slicer.org/t/37244
+---
+
 # SlicerEditor improvement inquiry
 
 **Topic ID**: 37244

@@ -1,3 +1,10 @@
+---
+topic_id: 2278
+title: "Slicerigt Extension"
+date: 2018-03-09
+url: https://discourse.slicer.org/t/2278
+---
+
 # slicerIGT extension
 
 **Topic ID**: 2278

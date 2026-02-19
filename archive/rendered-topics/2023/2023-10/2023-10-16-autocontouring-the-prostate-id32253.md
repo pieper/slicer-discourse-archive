@@ -1,3 +1,10 @@
+---
+topic_id: 32253
+title: "Autocontouring The Prostate"
+date: 2023-10-16
+url: https://discourse.slicer.org/t/32253
+---
+
 # Autocontouring the prostate 
 
 **Topic ID**: 32253

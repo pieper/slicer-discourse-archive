@@ -1,3 +1,10 @@
+---
+topic_id: 33208
+title: "Why The Vessel Segmentation Module Does Not Exist"
+date: 2023-12-04
+url: https://discourse.slicer.org/t/33208
+---
+
 # Why the Vessel Segmentation module does not exist?
 
 **Topic ID**: 33208

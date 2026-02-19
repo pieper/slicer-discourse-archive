@@ -1,3 +1,10 @@
+---
+topic_id: 38031
+title: "Horizontal Noise In 3D Reconstruction Using Slicer"
+date: 2024-08-26
+url: https://discourse.slicer.org/t/38031
+---
+
 # Horizontal Noise in 3D Reconstruction Using Slicer
 
 **Topic ID**: 38031

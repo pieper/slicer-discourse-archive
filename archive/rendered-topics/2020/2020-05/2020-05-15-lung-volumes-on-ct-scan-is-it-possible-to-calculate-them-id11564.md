@@ -1,3 +1,10 @@
+---
+topic_id: 11564
+title: "Lung Volumes On Ct Scan Is It Possible To Calculate Them"
+date: 2020-05-15
+url: https://discourse.slicer.org/t/11564
+---
+
 # lung volumes on CT scan , is it possible to calculate them?
 
 **Topic ID**: 11564

@@ -1,3 +1,10 @@
+---
+topic_id: 7469
+title: "Slicer 4 10 2 Not Responding On Windows 10 Blank Screen On O"
+date: 2019-07-08
+url: https://discourse.slicer.org/t/7469
+---
+
 # Slicer 4.10.2 Not responding on Windows 10 (blank screen on older laptop)
 
 **Topic ID**: 7469

@@ -1,3 +1,10 @@
+---
+topic_id: 7468
+title: "Virtual Bronchoscopy"
+date: 2019-07-08
+url: https://discourse.slicer.org/t/7468
+---
+
 # Virtual Bronchoscopy
 
 **Topic ID**: 7468

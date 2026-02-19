@@ -1,3 +1,10 @@
+---
+topic_id: 21639
+title: "Tips For Choice Of Automated Brain Tumor Mri Segmentation Al"
+date: 2022-01-26
+url: https://discourse.slicer.org/t/21639
+---
+
 # Tips for choice of automated brain tumor MRI segmentation algorithms
 
 **Topic ID**: 21639

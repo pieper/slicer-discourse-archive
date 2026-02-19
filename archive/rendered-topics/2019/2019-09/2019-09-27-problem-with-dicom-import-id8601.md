@@ -1,3 +1,10 @@
+---
+topic_id: 8601
+title: "Problem With Dicom Import"
+date: 2019-09-27
+url: https://discourse.slicer.org/t/8601
+---
+
 # Problem with DICOM import
 
 **Topic ID**: 8601

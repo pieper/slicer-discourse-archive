@@ -1,3 +1,10 @@
+---
+topic_id: 24706
+title: "Slicer Windows In A Custom Web Application"
+date: 2022-08-10
+url: https://discourse.slicer.org/t/24706
+---
+
 # Slicer windows in a custom web application
 
 **Topic ID**: 24706

@@ -1,3 +1,10 @@
+---
+topic_id: 14501
+title: "3D Display Pannel In Model Mode Is Inactive"
+date: 2020-11-09
+url: https://discourse.slicer.org/t/14501
+---
+
 # 3D display pannel in Model mode is inactive
 
 **Topic ID**: 14501

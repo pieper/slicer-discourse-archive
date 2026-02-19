@@ -1,3 +1,10 @@
+---
+topic_id: 4741
+title: "0 Files When Import"
+date: 2018-11-13
+url: https://discourse.slicer.org/t/4741
+---
+
 # 0 files when import
 
 **Topic ID**: 4741

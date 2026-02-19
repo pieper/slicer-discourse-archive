@@ -1,3 +1,10 @@
+---
+topic_id: 30271
+title: "Intensity Profile"
+date: 2023-06-28
+url: https://discourse.slicer.org/t/30271
+---
+
 # Intensity profile
 
 **Topic ID**: 30271

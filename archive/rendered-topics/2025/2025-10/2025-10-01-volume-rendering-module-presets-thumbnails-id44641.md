@@ -1,3 +1,10 @@
+---
+topic_id: 44641
+title: "Volume Rendering Module Presets Thumbnails"
+date: 2025-10-01
+url: https://discourse.slicer.org/t/44641
+---
+
 # Volume Rendering Module Presets Thumbnails
 
 **Topic ID**: 44641

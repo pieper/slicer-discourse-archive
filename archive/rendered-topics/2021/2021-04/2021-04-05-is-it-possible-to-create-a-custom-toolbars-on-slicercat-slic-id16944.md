@@ -1,3 +1,10 @@
+---
+topic_id: 16944
+title: "Is It Possible To Create A Custom Toolbars On Slicercat Slic"
+date: 2021-04-05
+url: https://discourse.slicer.org/t/16944
+---
+
 # Is it possible to create a custom toolbars on SlicerCAT/Slicer3d
 
 **Topic ID**: 16944

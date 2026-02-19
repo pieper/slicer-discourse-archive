@@ -1,3 +1,10 @@
+---
+topic_id: 852
+title: "How To Use Masking In Segment Editor"
+date: 2017-08-09
+url: https://discourse.slicer.org/t/852
+---
+
 # How to use masking in Segment editor
 
 **Topic ID**: 852

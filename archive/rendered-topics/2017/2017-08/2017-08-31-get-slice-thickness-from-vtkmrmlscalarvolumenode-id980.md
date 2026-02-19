@@ -1,3 +1,10 @@
+---
+topic_id: 980
+title: "Get Slice Thickness From Vtkmrmlscalarvolumenode"
+date: 2017-08-31
+url: https://discourse.slicer.org/t/980
+---
+
 # Get Slice Thickness from vtkMRMLScalarVolumeNode
 
 **Topic ID**: 980

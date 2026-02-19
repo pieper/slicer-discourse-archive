@@ -1,3 +1,10 @@
+---
+topic_id: 36703
+title: "How To Exclude Area Through Thresholding"
+date: 2024-06-11
+url: https://discourse.slicer.org/t/36703
+---
+
 # How to exclude area through thresholding?
 
 **Topic ID**: 36703

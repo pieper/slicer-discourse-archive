@@ -1,3 +1,10 @@
+---
+topic_id: 6822
+title: "Simpleitk Fails To Load Dicom Metadata"
+date: 2019-05-16
+url: https://discourse.slicer.org/t/6822
+---
+
 # SimpleITK fails to load DICOM metadata
 
 **Topic ID**: 6822

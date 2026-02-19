@@ -1,3 +1,10 @@
+---
+topic_id: 15064
+title: "Should Be Possible To Add An Option To Save Models With Its"
+date: 2020-12-14
+url: https://discourse.slicer.org/t/15064
+---
+
 # Should be possible to add an option to save models with its transform hardened?
 
 **Topic ID**: 15064

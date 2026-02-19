@@ -1,3 +1,10 @@
+---
+topic_id: 29606
+title: "Difference Between Deepedit And Segmentation Model In Monai"
+date: 2023-05-23
+url: https://discourse.slicer.org/t/29606
+---
+
 # Difference between DeepEdit and Segmentation Model in Monai 
 
 **Topic ID**: 29606

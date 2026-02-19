@@ -1,3 +1,10 @@
+---
+topic_id: 45859
+title: "Using The Pyigtl Library To Send Data Across A Docker Compos"
+date: 2026-01-22
+url: https://discourse.slicer.org/t/45859
+---
+
 # Using the pyigtl Library to send data across a docker compose network
 
 **Topic ID**: 45859

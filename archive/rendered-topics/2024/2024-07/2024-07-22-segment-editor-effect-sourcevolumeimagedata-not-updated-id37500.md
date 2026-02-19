@@ -1,3 +1,10 @@
+---
+topic_id: 37500
+title: "Segment Editor Effect Sourcevolumeimagedata Not Updated"
+date: 2024-07-22
+url: https://discourse.slicer.org/t/37500
+---
+
 # Segment editor effect sourceVolumeImageData not updated
 
 **Topic ID**: 37500

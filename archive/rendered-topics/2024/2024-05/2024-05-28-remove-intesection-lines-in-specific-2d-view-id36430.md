@@ -1,3 +1,10 @@
+---
+topic_id: 36430
+title: "Remove Intesection Lines In Specific 2D View"
+date: 2024-05-28
+url: https://discourse.slicer.org/t/36430
+---
+
 # Remove intesection lines in specific 2D view
 
 **Topic ID**: 36430

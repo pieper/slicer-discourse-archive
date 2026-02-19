@@ -1,3 +1,10 @@
+---
+topic_id: 8835
+title: "Noob And The Csf Fluid System"
+date: 2019-10-18
+url: https://discourse.slicer.org/t/8835
+---
+
 # Noob and the CSF Fluid System
 
 **Topic ID**: 8835

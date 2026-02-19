@@ -1,3 +1,10 @@
+---
+topic_id: 20260
+title: "Segmentations Module Dont Automatically Expand Modules Setti"
+date: 2021-10-20
+url: https://discourse.slicer.org/t/20260
+---
+
 # Segmentations module: don't automatically expand module's settings pane for long file/folder paths
 
 **Topic ID**: 20260

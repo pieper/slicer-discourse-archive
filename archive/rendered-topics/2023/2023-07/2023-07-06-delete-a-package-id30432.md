@@ -1,3 +1,10 @@
+---
+topic_id: 30432
+title: "Delete A Package"
+date: 2023-07-06
+url: https://discourse.slicer.org/t/30432
+---
+
 # Delete a package
 
 **Topic ID**: 30432

@@ -1,3 +1,10 @@
+---
+topic_id: 20726
+title: "Segmentation Output By Model Does Dot Align With The Volume"
+date: 2021-11-22
+url: https://discourse.slicer.org/t/20726
+---
+
 # segmentation output by model does dot align with the volume when loaded into Slicer 
 
 **Topic ID**: 20726

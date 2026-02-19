@@ -1,3 +1,10 @@
+---
+topic_id: 8489
+title: "Display Line From Tooltip To Target"
+date: 2019-09-17
+url: https://discourse.slicer.org/t/8489
+---
+
 # Display line from tooltip to target
 
 **Topic ID**: 8489

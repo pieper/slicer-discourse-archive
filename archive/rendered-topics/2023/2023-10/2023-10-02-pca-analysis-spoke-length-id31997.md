@@ -1,3 +1,10 @@
+---
+topic_id: 31997
+title: "Pca Analysis Spoke Length"
+date: 2023-10-02
+url: https://discourse.slicer.org/t/31997
+---
+
 # PCA Analysis Spoke Length
 
 **Topic ID**: 31997

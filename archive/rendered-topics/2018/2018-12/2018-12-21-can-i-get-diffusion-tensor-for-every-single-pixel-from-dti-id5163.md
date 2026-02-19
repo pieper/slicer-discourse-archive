@@ -1,3 +1,10 @@
+---
+topic_id: 5163
+title: "Can I Get Diffusion Tensor For Every Single Pixel From Dti"
+date: 2018-12-21
+url: https://discourse.slicer.org/t/5163
+---
+
 # can i get diffusion tensor for every single pixel from DTI
 
 **Topic ID**: 5163

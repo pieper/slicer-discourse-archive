@@ -1,3 +1,10 @@
+---
+topic_id: 6123
+title: "Cannot Import The Centerline Calculation From A Model And So"
+date: 2019-03-13
+url: https://discourse.slicer.org/t/6123
+---
+
 # Cannot import the centerline calculation from a model and some other problems
 
 **Topic ID**: 6123

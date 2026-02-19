@@ -1,3 +1,10 @@
+---
+topic_id: 38468
+title: "Adding An Icon To A Ctkcheckablepushbutton Is Difficult"
+date: 2024-09-21
+url: https://discourse.slicer.org/t/38468
+---
+
 # Adding an icon to a ctkCheckablePushButton is difficult
 
 **Topic ID**: 38468

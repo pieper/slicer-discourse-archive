@@ -1,3 +1,10 @@
+---
+topic_id: 42205
+title: "Custom Color Terms"
+date: 2025-03-18
+url: https://discourse.slicer.org/t/42205
+---
+
 # Custom color terms
 
 **Topic ID**: 42205

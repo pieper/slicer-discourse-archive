@@ -1,3 +1,10 @@
+---
+topic_id: 10579
+title: "Alternate Glyph Shapes For Markups"
+date: 2020-03-06
+url: https://discourse.slicer.org/t/10579
+---
+
 # Alternate glyph shapes for Markups?
 
 **Topic ID**: 10579

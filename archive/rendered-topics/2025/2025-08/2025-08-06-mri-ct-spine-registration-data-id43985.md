@@ -1,3 +1,10 @@
+---
+topic_id: 43985
+title: "Mri Ct Spine Registration Data"
+date: 2025-08-06
+url: https://discourse.slicer.org/t/43985
+---
+
 # MRI-CT Spine Registration Data
 
 **Topic ID**: 43985

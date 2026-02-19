@@ -1,3 +1,10 @@
+---
+topic_id: 12601
+title: "Proposed New Slicerastro Logo"
+date: 2020-07-17
+url: https://discourse.slicer.org/t/12601
+---
+
 # Proposed new SlicerAstro logo
 
 **Topic ID**: 12601

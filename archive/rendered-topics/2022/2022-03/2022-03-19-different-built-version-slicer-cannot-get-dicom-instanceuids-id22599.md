@@ -1,3 +1,10 @@
+---
+topic_id: 22599
+title: "Different Built Version Slicer Cannot Get Dicom Instanceuids"
+date: 2022-03-19
+url: https://discourse.slicer.org/t/22599
+---
+
 # different built version slicer cannot get dicom.instanceUIDs attribute
 
 **Topic ID**: 22599

@@ -1,3 +1,10 @@
+---
+topic_id: 3069
+title: "How Can I Modify Slicers Pythonpath Variable"
+date: 2018-06-04
+url: https://discourse.slicer.org/t/3069
+---
+
 # How can I modify Slicer's PYTHONPATH variable?
 
 **Topic ID**: 3069

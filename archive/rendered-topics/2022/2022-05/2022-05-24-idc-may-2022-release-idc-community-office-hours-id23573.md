@@ -1,3 +1,10 @@
+---
+topic_id: 23573
+title: "Idc May 2022 Release Idc Community Office Hours"
+date: 2022-05-24
+url: https://discourse.slicer.org/t/23573
+---
+
 # IDC May 2022 release + IDC Community Office hours
 
 **Topic ID**: 23573

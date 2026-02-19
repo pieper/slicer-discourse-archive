@@ -1,3 +1,10 @@
+---
+topic_id: 35175
+title: "The Window Width And Level Cannot Be Adjusted For Ct Images"
+date: 2024-03-30
+url: https://discourse.slicer.org/t/35175
+---
+
 # The window width and level cannot be adjusted for CT images
 
 **Topic ID**: 35175

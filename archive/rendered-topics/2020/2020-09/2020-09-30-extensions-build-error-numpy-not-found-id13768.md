@@ -1,3 +1,10 @@
+---
+topic_id: 13768
+title: "Extensions Build Error Numpy Not Found"
+date: 2020-09-30
+url: https://discourse.slicer.org/t/13768
+---
+
 # Extensions build error: numpy not found
 
 **Topic ID**: 13768

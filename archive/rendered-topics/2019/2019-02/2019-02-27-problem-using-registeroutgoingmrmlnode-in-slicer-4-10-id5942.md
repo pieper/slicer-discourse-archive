@@ -1,3 +1,10 @@
+---
+topic_id: 5942
+title: "Problem Using Registeroutgoingmrmlnode In Slicer 4 10"
+date: 2019-02-27
+url: https://discourse.slicer.org/t/5942
+---
+
 # Problem using RegisterOutgoingMRMLNode in Slicer 4.10
 
 **Topic ID**: 5942

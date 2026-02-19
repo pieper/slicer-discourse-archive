@@ -1,3 +1,10 @@
+---
+topic_id: 20985
+title: "Job Position Stroke Research"
+date: 2021-12-09
+url: https://discourse.slicer.org/t/20985
+---
+
 # Job Position Stroke REsearch
 
 **Topic ID**: 20985

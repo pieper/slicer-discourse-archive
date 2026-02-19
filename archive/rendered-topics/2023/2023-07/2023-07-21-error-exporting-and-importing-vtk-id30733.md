@@ -1,3 +1,10 @@
+---
+topic_id: 30733
+title: "Error Exporting And Importing Vtk"
+date: 2023-07-21
+url: https://discourse.slicer.org/t/30733
+---
+
 # Error exporting and importing .vtk
 
 **Topic ID**: 30733

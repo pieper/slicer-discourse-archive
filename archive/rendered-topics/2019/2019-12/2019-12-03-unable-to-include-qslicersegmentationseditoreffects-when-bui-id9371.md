@@ -1,3 +1,10 @@
+---
+topic_id: 9371
+title: "Unable To Include Qslicersegmentationseditoreffects When Bui"
+date: 2019-12-03
+url: https://discourse.slicer.org/t/9371
+---
+
 # Unable to include qSlicerSegmentationsEditorEffects when building extension
 
 **Topic ID**: 9371

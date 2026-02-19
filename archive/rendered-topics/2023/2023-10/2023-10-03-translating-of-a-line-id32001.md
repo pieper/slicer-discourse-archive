@@ -1,3 +1,10 @@
+---
+topic_id: 32001
+title: "Translating Of A Line"
+date: 2023-10-03
+url: https://discourse.slicer.org/t/32001
+---
+
 # Translating of a line
 
 **Topic ID**: 32001

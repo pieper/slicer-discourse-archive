@@ -1,3 +1,10 @@
+---
+topic_id: 40796
+title: "Create Plane On 3D Model Problem With Landmarks"
+date: 2024-12-19
+url: https://discourse.slicer.org/t/40796
+---
+
 # Create plane on 3D model - problem with landmarks
 
 **Topic ID**: 40796

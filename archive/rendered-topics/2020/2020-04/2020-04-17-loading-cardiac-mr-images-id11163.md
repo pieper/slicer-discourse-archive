@@ -1,3 +1,10 @@
+---
+topic_id: 11163
+title: "Loading Cardiac Mr Images"
+date: 2020-04-17
+url: https://discourse.slicer.org/t/11163
+---
+
 # Loading Cardiac MR images
 
 **Topic ID**: 11163

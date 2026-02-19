@@ -1,3 +1,10 @@
+---
+topic_id: 30907
+title: "Running Monailabel In The Cloud"
+date: 2023-08-01
+url: https://discourse.slicer.org/t/30907
+---
+
 # Running MONAILabel in the cloud
 
 **Topic ID**: 30907

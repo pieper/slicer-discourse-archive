@@ -1,3 +1,10 @@
+---
+topic_id: 18906
+title: "Simplefilter Image Error Type"
+date: 2021-07-24
+url: https://discourse.slicer.org/t/18906
+---
+
 # SimpleFilter Image Error Type
 
 **Topic ID**: 18906

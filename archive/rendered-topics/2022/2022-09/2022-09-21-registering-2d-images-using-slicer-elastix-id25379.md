@@ -1,3 +1,10 @@
+---
+topic_id: 25379
+title: "Registering 2D Images Using Slicer Elastix"
+date: 2022-09-21
+url: https://discourse.slicer.org/t/25379
+---
+
 # Registering 2D images using Slicer Elastix
 
 **Topic ID**: 25379

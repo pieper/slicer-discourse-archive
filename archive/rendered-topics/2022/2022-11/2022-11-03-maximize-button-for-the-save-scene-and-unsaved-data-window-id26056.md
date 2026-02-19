@@ -1,3 +1,10 @@
+---
+topic_id: 26056
+title: "Maximize Button For The Save Scene And Unsaved Data Window"
+date: 2022-11-03
+url: https://discourse.slicer.org/t/26056
+---
+
 # Maximize Button for the "Save Scene and Unsaved Data" Window
 
 **Topic ID**: 26056

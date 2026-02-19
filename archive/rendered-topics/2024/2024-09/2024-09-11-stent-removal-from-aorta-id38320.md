@@ -1,3 +1,10 @@
+---
+topic_id: 38320
+title: "Stent Removal From Aorta"
+date: 2024-09-11
+url: https://discourse.slicer.org/t/38320
+---
+
 # Stent removal from aorta
 
 **Topic ID**: 38320

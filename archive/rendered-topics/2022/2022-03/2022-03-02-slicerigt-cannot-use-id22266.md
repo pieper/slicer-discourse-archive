@@ -1,3 +1,10 @@
+---
+topic_id: 22266
+title: "Slicerigt Cannot Use"
+date: 2022-03-02
+url: https://discourse.slicer.org/t/22266
+---
+
 # SlicerIGT cannot use
 
 **Topic ID**: 22266

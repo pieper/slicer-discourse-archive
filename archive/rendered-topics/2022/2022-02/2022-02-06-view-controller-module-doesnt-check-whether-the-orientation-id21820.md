@@ -1,3 +1,10 @@
+---
+topic_id: 21820
+title: "View Controller Module Doesnt Check Whether The Orientation"
+date: 2022-02-06
+url: https://discourse.slicer.org/t/21820
+---
+
 # View controller module doesnt check whether the orientation exist or not
 
 **Topic ID**: 21820

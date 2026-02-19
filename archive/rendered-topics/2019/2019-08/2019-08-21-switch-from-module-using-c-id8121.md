@@ -1,3 +1,10 @@
+---
+topic_id: 8121
+title: "Switch From Module Using C"
+date: 2019-08-21
+url: https://discourse.slicer.org/t/8121
+---
+
 # Switch from module using c++
 
 **Topic ID**: 8121

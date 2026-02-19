@@ -1,3 +1,10 @@
+---
+topic_id: 9906
+title: "Process To Import An Stl File And Convert Export A Series Of"
+date: 2020-01-22
+url: https://discourse.slicer.org/t/9906
+---
+
 # Process to Import an STL File and Convert/Export a Series of DICOM Files?
 
 **Topic ID**: 9906

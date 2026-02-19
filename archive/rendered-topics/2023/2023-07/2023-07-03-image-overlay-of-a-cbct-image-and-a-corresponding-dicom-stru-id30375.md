@@ -1,3 +1,10 @@
+---
+topic_id: 30375
+title: "Image Overlay Of A Cbct Image And A Corresponding Dicom Stru"
+date: 2023-07-03
+url: https://discourse.slicer.org/t/30375
+---
+
 # image overlay of a cbct image and a corresponding DICOM structure 
 
 **Topic ID**: 30375

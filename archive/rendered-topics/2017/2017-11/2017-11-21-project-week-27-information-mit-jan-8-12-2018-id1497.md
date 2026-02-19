@@ -1,3 +1,10 @@
+---
+topic_id: 1497
+title: "Project Week 27 Information Mit Jan 8 12 2018"
+date: 2017-11-21
+url: https://discourse.slicer.org/t/1497
+---
+
 # Project Week 27 Information (MIT, Jan. 8-12, 2018)
 
 **Topic ID**: 1497

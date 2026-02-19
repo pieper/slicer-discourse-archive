@@ -1,3 +1,10 @@
+---
+topic_id: 15434
+title: "What Is The Algorithm And Theory Of Spin Calibration"
+date: 2021-01-10
+url: https://discourse.slicer.org/t/15434
+---
+
 # What is the Algorithm and Theory of spin calibration?
 
 **Topic ID**: 15434

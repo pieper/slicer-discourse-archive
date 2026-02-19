@@ -1,3 +1,10 @@
+---
+topic_id: 31276
+title: "Colour Map Creation"
+date: 2023-08-22
+url: https://discourse.slicer.org/t/31276
+---
+
 # Colour map creation
 
 **Topic ID**: 31276

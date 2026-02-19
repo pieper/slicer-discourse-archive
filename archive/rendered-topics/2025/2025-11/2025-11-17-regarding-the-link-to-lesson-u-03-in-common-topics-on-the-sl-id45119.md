@@ -1,3 +1,10 @@
+---
+topic_id: 45119
+title: "Regarding The Link To Lesson U 03 In Common Topics On The Sl"
+date: 2025-11-17
+url: https://discourse.slicer.org/t/45119
+---
+
 # Regarding the link to lesson U-03 in "Common Topics" on the SlicerIGT tutorial page
 
 **Topic ID**: 45119

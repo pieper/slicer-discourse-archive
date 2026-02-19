@@ -1,3 +1,10 @@
+---
+topic_id: 21878
+title: "Can You Use Slicer Modules Within Another Pyqt Project"
+date: 2022-02-09
+url: https://discourse.slicer.org/t/21878
+---
+
 # Can you use slicer modules within another pyqt project
 
 **Topic ID**: 21878

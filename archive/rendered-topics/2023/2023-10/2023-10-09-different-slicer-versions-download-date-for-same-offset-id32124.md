@@ -1,3 +1,10 @@
+---
+topic_id: 32124
+title: "Different Slicer Versions Download Date For Same Offset"
+date: 2023-10-09
+url: https://discourse.slicer.org/t/32124
+---
+
 # Different Slicer versions (download date) for same offset
 
 **Topic ID**: 32124

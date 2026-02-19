@@ -1,3 +1,10 @@
+---
+topic_id: 29009
+title: "Slicer Vr And Meta Oculus Quest 2"
+date: 2023-04-19
+url: https://discourse.slicer.org/t/29009
+---
+
 # Slicer VR and Meta Oculus Quest 2
 
 **Topic ID**: 29009

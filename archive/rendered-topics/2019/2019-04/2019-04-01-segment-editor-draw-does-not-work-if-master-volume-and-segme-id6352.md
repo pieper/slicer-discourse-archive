@@ -1,3 +1,10 @@
+---
+topic_id: 6352
+title: "Segment Editor Draw Does Not Work If Master Volume And Segme"
+date: 2019-04-01
+url: https://discourse.slicer.org/t/6352
+---
+
 # Segment editor: Draw does not work if master volume and segmentation are under a linear transform
 
 **Topic ID**: 6352

@@ -1,3 +1,10 @@
+---
+topic_id: 5309
+title: "Can I Have Two Endoscope Fly Window With Dual 3D"
+date: 2019-01-08
+url: https://discourse.slicer.org/t/5309
+---
+
 # Can I have two endoscope fly-window with dual 3D
 
 **Topic ID**: 5309

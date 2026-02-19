@@ -1,3 +1,10 @@
+---
+topic_id: 7309
+title: "Cli Module That Outputs Multiple Volumes"
+date: 2019-06-25
+url: https://discourse.slicer.org/t/7309
+---
+
 # CLI module that outputs multiple volumes
 
 **Topic ID**: 7309

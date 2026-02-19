@@ -1,3 +1,10 @@
+---
+topic_id: 21430
+title: "Issues When Calling Another Python Environment In A Cli Modu"
+date: 2022-01-12
+url: https://discourse.slicer.org/t/21430
+---
+
 # Issues when calling another python environment in a CLI module
 
 **Topic ID**: 21430

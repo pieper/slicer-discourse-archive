@@ -1,3 +1,10 @@
+---
+topic_id: 14906
+title: "Loading Markups Curves From Fcsv File"
+date: 2020-12-06
+url: https://discourse.slicer.org/t/14906
+---
+
 # Loading markups curves from fcsv file
 
 **Topic ID**: 14906

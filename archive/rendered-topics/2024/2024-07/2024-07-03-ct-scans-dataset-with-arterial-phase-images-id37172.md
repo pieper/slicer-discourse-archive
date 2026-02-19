@@ -1,3 +1,10 @@
+---
+topic_id: 37172
+title: "Ct Scans Dataset With Arterial Phase Images"
+date: 2024-07-03
+url: https://discourse.slicer.org/t/37172
+---
+
 # CT scans dataset with arterial phase images
 
 **Topic ID**: 37172

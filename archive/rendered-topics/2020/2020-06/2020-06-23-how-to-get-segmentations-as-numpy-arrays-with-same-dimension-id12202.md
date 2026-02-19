@@ -1,3 +1,10 @@
+---
+topic_id: 12202
+title: "How To Get Segmentations As Numpy Arrays With Same Dimension"
+date: 2020-06-23
+url: https://discourse.slicer.org/t/12202
+---
+
 # How to get segmentations as numpy arrays with same dimensions?
 
 **Topic ID**: 12202

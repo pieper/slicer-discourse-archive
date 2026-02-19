@@ -1,3 +1,10 @@
+---
+topic_id: 27361
+title: "When Loading A Dicomrt File From Mim Into 3Dslicer There Is"
+date: 2023-01-19
+url: https://discourse.slicer.org/t/27361
+---
+
 # When loading a DICOMRT file from MIM into 3DSlicer, there is a strange slit that appears. 
 
 **Topic ID**: 27361

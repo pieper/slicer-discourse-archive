@@ -1,3 +1,10 @@
+---
+topic_id: 9797
+title: "Bilateral Filter Not Working"
+date: 2020-01-13
+url: https://discourse.slicer.org/t/9797
+---
+
 # Bilateral Filter not working
 
 **Topic ID**: 9797

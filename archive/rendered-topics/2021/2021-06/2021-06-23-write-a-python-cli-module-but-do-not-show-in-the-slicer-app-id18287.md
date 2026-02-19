@@ -1,3 +1,10 @@
+---
+topic_id: 18287
+title: "Write A Python Cli Module But Do Not Show In The Slicer App"
+date: 2021-06-23
+url: https://discourse.slicer.org/t/18287
+---
+
 # Write a python CLI module but do not show in the slicer app
 
 **Topic ID**: 18287

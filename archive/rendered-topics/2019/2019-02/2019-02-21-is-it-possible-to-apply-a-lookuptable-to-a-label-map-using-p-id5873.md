@@ -1,3 +1,10 @@
+---
+topic_id: 5873
+title: "Is It Possible To Apply A Lookuptable To A Label Map Using P"
+date: 2019-02-21
+url: https://discourse.slicer.org/t/5873
+---
+
 # Is it possible to apply a lookuptable to a label map using python?
 
 **Topic ID**: 5873

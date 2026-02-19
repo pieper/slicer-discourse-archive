@@ -1,3 +1,10 @@
+---
+topic_id: 3331
+title: "Accessing Logic Of Own Scriptedloadablemodule"
+date: 2018-06-28
+url: https://discourse.slicer.org/t/3331
+---
+
 # Accessing logic() of own ScriptedLoadableModule
 
 **Topic ID**: 3331

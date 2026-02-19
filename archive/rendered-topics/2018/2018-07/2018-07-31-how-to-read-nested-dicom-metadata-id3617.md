@@ -1,3 +1,10 @@
+---
+topic_id: 3617
+title: "How To Read Nested Dicom Metadata"
+date: 2018-07-31
+url: https://discourse.slicer.org/t/3617
+---
+
 # How to read nested DICOM metadata
 
 **Topic ID**: 3617

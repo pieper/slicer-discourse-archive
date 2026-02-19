@@ -1,3 +1,10 @@
+---
+topic_id: 27276
+title: "Monai Events Before Project Week"
+date: 2023-01-16
+url: https://discourse.slicer.org/t/27276
+---
+
 # MONAI events before Project Week
 
 **Topic ID**: 27276

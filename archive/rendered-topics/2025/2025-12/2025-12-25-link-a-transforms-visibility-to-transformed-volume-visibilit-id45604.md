@@ -1,3 +1,10 @@
+---
+topic_id: 45604
+title: "Link A Transforms Visibility To Transformed Volume Visibilit"
+date: 2025-12-25
+url: https://discourse.slicer.org/t/45604
+---
+
 # Link a transform's visibility to transformed volume visibility
 
 **Topic ID**: 45604

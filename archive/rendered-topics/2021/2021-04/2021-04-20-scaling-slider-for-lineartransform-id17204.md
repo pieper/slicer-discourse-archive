@@ -1,3 +1,10 @@
+---
+topic_id: 17204
+title: "Scaling Slider For Lineartransform"
+date: 2021-04-20
+url: https://discourse.slicer.org/t/17204
+---
+
 # Scaling slider for LinearTransform
 
 **Topic ID**: 17204

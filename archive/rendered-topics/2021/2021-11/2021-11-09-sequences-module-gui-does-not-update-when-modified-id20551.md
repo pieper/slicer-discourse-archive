@@ -1,3 +1,10 @@
+---
+topic_id: 20551
+title: "Sequences Module Gui Does Not Update When Modified"
+date: 2021-11-09
+url: https://discourse.slicer.org/t/20551
+---
+
 # Sequences module GUI does not update when modified
 
 **Topic ID**: 20551

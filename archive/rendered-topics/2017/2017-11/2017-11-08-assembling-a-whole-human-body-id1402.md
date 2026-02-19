@@ -1,3 +1,10 @@
+---
+topic_id: 1402
+title: "Assembling A Whole Human Body"
+date: 2017-11-08
+url: https://discourse.slicer.org/t/1402
+---
+
 # Assembling a whole human body
 
 **Topic ID**: 1402

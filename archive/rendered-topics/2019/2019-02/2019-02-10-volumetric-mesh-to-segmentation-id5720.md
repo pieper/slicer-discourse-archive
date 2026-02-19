@@ -1,3 +1,10 @@
+---
+topic_id: 5720
+title: "Volumetric Mesh To Segmentation"
+date: 2019-02-10
+url: https://discourse.slicer.org/t/5720
+---
+
 # Volumetric mesh to Segmentation
 
 **Topic ID**: 5720

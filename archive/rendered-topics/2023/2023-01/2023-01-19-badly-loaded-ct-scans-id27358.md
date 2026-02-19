@@ -1,3 +1,10 @@
+---
+topic_id: 27358
+title: "Badly Loaded Ct Scans"
+date: 2023-01-19
+url: https://discourse.slicer.org/t/27358
+---
+
 # badly loaded ct scans
 
 **Topic ID**: 27358

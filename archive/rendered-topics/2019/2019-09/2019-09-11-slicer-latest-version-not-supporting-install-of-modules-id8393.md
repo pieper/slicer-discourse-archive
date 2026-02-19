@@ -1,3 +1,10 @@
+---
+topic_id: 8393
+title: "Slicer Latest Version Not Supporting Install Of Modules"
+date: 2019-09-11
+url: https://discourse.slicer.org/t/8393
+---
+
 # Slicer latest version not supporting install of modules
 
 **Topic ID**: 8393

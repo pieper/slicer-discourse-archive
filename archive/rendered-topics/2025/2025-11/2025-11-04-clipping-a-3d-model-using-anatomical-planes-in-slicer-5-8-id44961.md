@@ -1,3 +1,10 @@
+---
+topic_id: 44961
+title: "Clipping A 3D Model Using Anatomical Planes In Slicer 5 8"
+date: 2025-11-04
+url: https://discourse.slicer.org/t/44961
+---
+
 # Clipping a 3D model using anatomical planes in Slicer 5.8
 
 **Topic ID**: 44961

@@ -1,3 +1,10 @@
+---
+topic_id: 3639
+title: "Packaging Slicervmtk Extension With Custom Slicer Build"
+date: 2018-08-02
+url: https://discourse.slicer.org/t/3639
+---
+
 # Packaging SlicerVMTK extension with custom Slicer build
 
 **Topic ID**: 3639

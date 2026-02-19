@@ -1,3 +1,10 @@
+---
+topic_id: 11348
+title: "What Threshold For Lung Volume On Chest Imaging Platform"
+date: 2020-04-29
+url: https://discourse.slicer.org/t/11348
+---
+
 # What threshold for lung volume on Chest Imaging Platform?
 
 **Topic ID**: 11348

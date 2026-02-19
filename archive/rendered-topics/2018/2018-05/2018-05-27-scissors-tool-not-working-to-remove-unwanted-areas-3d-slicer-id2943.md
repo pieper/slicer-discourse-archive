@@ -1,3 +1,10 @@
+---
+topic_id: 2943
+title: "Scissors Tool Not Working To Remove Unwanted Areas 3D Slicer"
+date: 2018-05-27
+url: https://discourse.slicer.org/t/2943
+---
+
 # Scissors tool not working to remove unwanted areas 3D Slicer 4.9.0
 
 **Topic ID**: 2943

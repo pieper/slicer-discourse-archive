@@ -1,3 +1,10 @@
+---
+topic_id: 36913
+title: "Slicer Closes Suddendly In Event Driven Program"
+date: 2024-06-20
+url: https://discourse.slicer.org/t/36913
+---
+
 # Slicer closes suddendly in event driven program
 
 **Topic ID**: 36913

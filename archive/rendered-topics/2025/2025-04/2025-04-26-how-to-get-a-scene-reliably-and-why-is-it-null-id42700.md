@@ -1,3 +1,10 @@
+---
+topic_id: 42700
+title: "How To Get A Scene Reliably And Why Is It Null"
+date: 2025-04-26
+url: https://discourse.slicer.org/t/42700
+---
+
 # How to get a scene reliably and why is it null?
 
 **Topic ID**: 42700

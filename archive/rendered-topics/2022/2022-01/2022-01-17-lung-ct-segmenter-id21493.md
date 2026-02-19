@@ -1,3 +1,10 @@
+---
+topic_id: 21493
+title: "Lung Ct Segmenter"
+date: 2022-01-17
+url: https://discourse.slicer.org/t/21493
+---
+
 # Lung CT segmenter
 
 **Topic ID**: 21493

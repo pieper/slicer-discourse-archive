@@ -1,3 +1,10 @@
+---
+topic_id: 5540
+title: "Is It Possible To Create Clone A Node Keeping The Same Locat"
+date: 2019-01-28
+url: https://discourse.slicer.org/t/5540
+---
+
 # Is it possible to create/clone a node keeping the same location in the hierarchy of the father node?
 
 **Topic ID**: 5540

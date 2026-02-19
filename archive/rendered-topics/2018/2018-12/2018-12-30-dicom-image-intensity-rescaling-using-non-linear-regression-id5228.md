@@ -1,3 +1,10 @@
+---
+topic_id: 5228
+title: "Dicom Image Intensity Rescaling Using Non Linear Regression"
+date: 2018-12-30
+url: https://discourse.slicer.org/t/5228
+---
+
 # DICOM image intensity rescaling using non-linear regression based fitting
 
 **Topic ID**: 5228

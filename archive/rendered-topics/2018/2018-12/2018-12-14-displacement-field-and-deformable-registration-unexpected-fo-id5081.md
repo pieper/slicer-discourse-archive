@@ -1,3 +1,10 @@
+---
+topic_id: 5081
+title: "Displacement Field And Deformable Registration Unexpected Fo"
+date: 2018-12-14
+url: https://discourse.slicer.org/t/5081
+---
+
 # Displacement field and deformable registration: Unexpected folded “mirror” images outside the fixed volume
 
 **Topic ID**: 5081

@@ -1,3 +1,10 @@
+---
+topic_id: 4267
+title: "Editor Module Segment Editer"
+date: 2018-10-03
+url: https://discourse.slicer.org/t/4267
+---
+
 # Editor module/segment editer
 
 **Topic ID**: 4267

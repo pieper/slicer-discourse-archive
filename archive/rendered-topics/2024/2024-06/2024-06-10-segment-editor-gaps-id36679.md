@@ -1,3 +1,10 @@
+---
+topic_id: 36679
+title: "Segment Editor Gaps"
+date: 2024-06-10
+url: https://discourse.slicer.org/t/36679
+---
+
 # Segment Editor Gaps
 
 **Topic ID**: 36679

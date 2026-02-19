@@ -1,3 +1,10 @@
+---
+topic_id: 21770
+title: "Cranioplasty Use The Selfdata Preoperative And Postoperative"
+date: 2022-02-03
+url: https://discourse.slicer.org/t/21770
+---
+
 # cranioplasty use the selfdata preoperative and postoperative
 
 **Topic ID**: 21770

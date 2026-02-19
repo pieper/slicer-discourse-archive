@@ -1,3 +1,10 @@
+---
+topic_id: 458
+title: "Inviting Slicer List Users To Discourse"
+date: 2017-06-08
+url: https://discourse.slicer.org/t/458
+---
+
 # Inviting slicer-[list] users to Discourse?
 
 **Topic ID**: 458

@@ -1,3 +1,10 @@
+---
+topic_id: 31112
+title: "How To Determine Ras Coordinates By Voxel Position"
+date: 2023-08-12
+url: https://discourse.slicer.org/t/31112
+---
+
 # How to determine RAS coordinates by voxel position
 
 **Topic ID**: 31112

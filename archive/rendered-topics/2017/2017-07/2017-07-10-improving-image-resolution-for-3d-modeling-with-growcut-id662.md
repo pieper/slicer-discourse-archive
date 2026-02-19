@@ -1,3 +1,10 @@
+---
+topic_id: 662
+title: "Improving Image Resolution For 3D Modeling With Growcut"
+date: 2017-07-10
+url: https://discourse.slicer.org/t/662
+---
+
 # Improving Image Resolution for 3D Modeling with GrowCut
 
 **Topic ID**: 662

@@ -1,3 +1,10 @@
+---
+topic_id: 13412
+title: "Crosshair Snap To Voxel Center"
+date: 2020-09-09
+url: https://discourse.slicer.org/t/13412
+---
+
 # Crosshair snap to voxel center
 
 **Topic ID**: 13412

@@ -1,3 +1,10 @@
+---
+topic_id: 5577
+title: "Dicom Import And Image Does Not Appear"
+date: 2019-01-30
+url: https://discourse.slicer.org/t/5577
+---
+
 # DICOM import and image does not appear
 
 **Topic ID**: 5577

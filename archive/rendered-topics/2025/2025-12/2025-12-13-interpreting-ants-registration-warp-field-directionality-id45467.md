@@ -1,3 +1,10 @@
+---
+topic_id: 45467
+title: "Interpreting Ants Registration Warp Field Directionality"
+date: 2025-12-13
+url: https://discourse.slicer.org/t/45467
+---
+
 # Interpreting ANTs registration warp field directionality
 
 **Topic ID**: 45467

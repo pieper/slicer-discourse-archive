@@ -1,3 +1,10 @@
+---
+topic_id: 41982
+title: "Loading Gpa Results From Geomorph Into Slicermorph"
+date: 2025-03-06
+url: https://discourse.slicer.org/t/41982
+---
+
 # Loading GPA results from geomorph into Slicermorph?
 
 **Topic ID**: 41982

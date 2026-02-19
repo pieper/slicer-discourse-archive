@@ -1,3 +1,10 @@
+---
+topic_id: 21987
+title: "Updated Call For Papers For Modeling And Simulation In Medic"
+date: 2022-02-16
+url: https://discourse.slicer.org/t/21987
+---
+
 # Updated Call for Papers for Modeling and Simulation in Medicine - March 14
 
 **Topic ID**: 21987

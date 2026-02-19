@@ -1,3 +1,10 @@
+---
+topic_id: 37438
+title: "Import Slicer Module In Script Cli Module"
+date: 2024-07-18
+url: https://discourse.slicer.org/t/37438
+---
+
 # Import slicer module in script cli module
 
 **Topic ID**: 37438

@@ -1,3 +1,10 @@
+---
+topic_id: 36262
+title: "How To Call 3D Slicer In Pycharm For Aortic Vessel Line Extr"
+date: 2024-05-19
+url: https://discourse.slicer.org/t/36262
+---
+
 #  How to call 3D slicer in pycharm for aortic vessel line extraction and vessel straightening. 
 
 **Topic ID**: 36262

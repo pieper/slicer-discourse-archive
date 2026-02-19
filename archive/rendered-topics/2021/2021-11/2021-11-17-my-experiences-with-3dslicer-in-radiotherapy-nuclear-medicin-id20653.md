@@ -1,3 +1,10 @@
+---
+topic_id: 20653
+title: "My Experiences With 3Dslicer In Radiotherapy Nuclear Medicin"
+date: 2021-11-17
+url: https://discourse.slicer.org/t/20653
+---
+
 # My experiences with 3Dslicer in radiotherapy, nuclear medicine and radiology
 
 **Topic ID**: 20653

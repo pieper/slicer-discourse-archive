@@ -1,3 +1,10 @@
+---
+topic_id: 16574
+title: "Csv Files As Markup Files"
+date: 2021-03-16
+url: https://discourse.slicer.org/t/16574
+---
+
 # .CSV files as markup files
 
 **Topic ID**: 16574

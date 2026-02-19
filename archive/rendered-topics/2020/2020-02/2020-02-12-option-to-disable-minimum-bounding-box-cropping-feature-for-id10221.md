@@ -1,3 +1,10 @@
+---
+topic_id: 10221
+title: "Option To Disable Minimum Bounding Box Cropping Feature For"
+date: 2020-02-12
+url: https://discourse.slicer.org/t/10221
+---
+
 # Option to disable "minimum bounding box" cropping feature for segmentations
 
 **Topic ID**: 10221

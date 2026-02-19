@@ -1,3 +1,10 @@
+---
+topic_id: 27319
+title: "Load Live Data Into 3D Slicer"
+date: 2023-01-18
+url: https://discourse.slicer.org/t/27319
+---
+
 # Load live data into 3D slicer
 
 **Topic ID**: 27319

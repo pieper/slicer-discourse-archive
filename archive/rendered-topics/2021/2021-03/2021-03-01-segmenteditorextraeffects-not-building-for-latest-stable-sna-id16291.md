@@ -1,3 +1,10 @@
+---
+topic_id: 16291
+title: "Segmenteditorextraeffects Not Building For Latest Stable Sna"
+date: 2021-03-01
+url: https://discourse.slicer.org/t/16291
+---
+
 # SegmentEditorExtraEffects not building for latest stable snapshot
 
 **Topic ID**: 16291

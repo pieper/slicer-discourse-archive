@@ -1,3 +1,10 @@
+---
+topic_id: 5652
+title: "Inclusion Criteria For Voxels On Segment Statistics"
+date: 2019-02-05
+url: https://discourse.slicer.org/t/5652
+---
+
 # Inclusion Criteria For Voxels on Segment Statistics
 
 **Topic ID**: 5652

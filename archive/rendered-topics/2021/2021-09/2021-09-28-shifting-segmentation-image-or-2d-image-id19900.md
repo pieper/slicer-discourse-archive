@@ -1,3 +1,10 @@
+---
+topic_id: 19900
+title: "Shifting Segmentation Image Or 2D Image"
+date: 2021-09-28
+url: https://discourse.slicer.org/t/19900
+---
+
 # Shifting Segmentation image or 2D Image
 
 **Topic ID**: 19900

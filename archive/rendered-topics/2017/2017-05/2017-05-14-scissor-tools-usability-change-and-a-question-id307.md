@@ -1,3 +1,10 @@
+---
+topic_id: 307
+title: "Scissor Tools Usability Change And A Question"
+date: 2017-05-14
+url: https://discourse.slicer.org/t/307
+---
+
 # Scissor tools usability change and a question
 
 **Topic ID**: 307

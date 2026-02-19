@@ -1,3 +1,10 @@
+---
+topic_id: 872
+title: "Faster Registration"
+date: 2017-08-15
+url: https://discourse.slicer.org/t/872
+---
+
 # Faster registration
 
 **Topic ID**: 872

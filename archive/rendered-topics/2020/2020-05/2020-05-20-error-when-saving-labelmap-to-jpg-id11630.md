@@ -1,3 +1,10 @@
+---
+topic_id: 11630
+title: "Error When Saving Labelmap To Jpg"
+date: 2020-05-20
+url: https://discourse.slicer.org/t/11630
+---
+
 # Error when saving labelmap to jpg
 
 **Topic ID**: 11630

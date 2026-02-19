@@ -1,3 +1,10 @@
+---
+topic_id: 40359
+title: "Implementing Widgets For Selecting Nodes Of Type Segment And"
+date: 2024-11-24
+url: https://discourse.slicer.org/t/40359
+---
+
 # Implementing Widgets for Selecting Nodes of Type Segment and Beam
 
 **Topic ID**: 40359

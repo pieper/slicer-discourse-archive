@@ -1,3 +1,10 @@
+---
+topic_id: 22912
+title: "I Want To Get The Surface Of A Mri Volume"
+date: 2022-04-11
+url: https://discourse.slicer.org/t/22912
+---
+
 # I want to get the surface of a MRI volume
 
 **Topic ID**: 22912

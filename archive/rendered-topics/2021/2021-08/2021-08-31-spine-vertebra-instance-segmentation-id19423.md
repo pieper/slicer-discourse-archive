@@ -1,3 +1,10 @@
+---
+topic_id: 19423
+title: "Spine Vertebra Instance Segmentation"
+date: 2021-08-31
+url: https://discourse.slicer.org/t/19423
+---
+
 # Spine Vertebra Instance Segmentation
 
 **Topic ID**: 19423

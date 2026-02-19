@@ -1,3 +1,10 @@
+---
+topic_id: 19979
+title: "How To Delete Display Node And Allocated Resources Properly"
+date: 2021-10-03
+url: https://discourse.slicer.org/t/19979
+---
+
 # How to delete display node and allocated resources properly?
 
 **Topic ID**: 19979

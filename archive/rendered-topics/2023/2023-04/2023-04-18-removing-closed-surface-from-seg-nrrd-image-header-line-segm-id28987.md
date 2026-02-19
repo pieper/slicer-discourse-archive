@@ -1,3 +1,10 @@
+---
+topic_id: 28987
+title: "Removing Closed Surface From Seg Nrrd Image Header Line Segm"
+date: 2023-04-18
+url: https://discourse.slicer.org/t/28987
+---
+
 # Removing "Closed Surface" from seg.nrrd image header Line: Segmentation_ContainedRepresentationNames
 
 **Topic ID**: 28987

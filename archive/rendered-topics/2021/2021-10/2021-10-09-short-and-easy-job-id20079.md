@@ -1,3 +1,10 @@
+---
+topic_id: 20079
+title: "Short And Easy Job"
+date: 2021-10-09
+url: https://discourse.slicer.org/t/20079
+---
+
 # Short and Easy Job
 
 **Topic ID**: 20079

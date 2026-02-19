@@ -1,3 +1,10 @@
+---
+topic_id: 2712
+title: "New Data Loading And Visualization Tutorial"
+date: 2018-04-26
+url: https://discourse.slicer.org/t/2712
+---
+
 # New data loading and visualization tutorial
 
 **Topic ID**: 2712

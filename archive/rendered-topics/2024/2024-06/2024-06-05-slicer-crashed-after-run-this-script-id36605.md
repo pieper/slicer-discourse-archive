@@ -1,3 +1,10 @@
+---
+topic_id: 36605
+title: "Slicer Crashed After Run This Script"
+date: 2024-06-05
+url: https://discourse.slicer.org/t/36605
+---
+
 # Slicer crashed after run this script
 
 **Topic ID**: 36605

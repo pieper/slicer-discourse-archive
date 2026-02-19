@@ -1,3 +1,10 @@
+---
+topic_id: 6644
+title: "3D Recon Image Data"
+date: 2019-04-29
+url: https://discourse.slicer.org/t/6644
+---
+
 # 3D Recon Image Data
 
 **Topic ID**: 6644

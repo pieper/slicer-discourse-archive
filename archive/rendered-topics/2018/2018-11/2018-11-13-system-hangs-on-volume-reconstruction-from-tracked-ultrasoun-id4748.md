@@ -1,3 +1,10 @@
+---
+topic_id: 4748
+title: "System Hangs On Volume Reconstruction From Tracked Ultrasoun"
+date: 2018-11-13
+url: https://discourse.slicer.org/t/4748
+---
+
 # System hangs on volume reconstruction from tracked ultrasound
 
 **Topic ID**: 4748

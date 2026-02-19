@@ -1,3 +1,10 @@
+---
+topic_id: 44133
+title: "3D Plane Visibility Remains"
+date: 2025-08-19
+url: https://discourse.slicer.org/t/44133
+---
+
 # 3D plane visibility remains
 
 **Topic ID**: 44133

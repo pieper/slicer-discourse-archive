@@ -1,3 +1,10 @@
+---
+topic_id: 44364
+title: "Bug Report Iso Aso Extension Missing Testwslavailable And He"
+date: 2025-09-05
+url: https://discourse.slicer.org/t/44364
+---
+
 # Bug Report ISO ASO Extension – Missing testWslAvailable and helper methods cause crash
 
 **Topic ID**: 44364

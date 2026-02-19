@@ -1,3 +1,10 @@
+---
+topic_id: 44013
+title: "Transparent Background In Screen Capture Module"
+date: 2025-08-07
+url: https://discourse.slicer.org/t/44013
+---
+
 # Transparent background in screen capture module
 
 **Topic ID**: 44013

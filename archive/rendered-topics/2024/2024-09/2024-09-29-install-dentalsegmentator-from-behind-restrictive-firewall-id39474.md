@@ -1,3 +1,10 @@
+---
+topic_id: 39474
+title: "Install Dentalsegmentator From Behind Restrictive Firewall"
+date: 2024-09-29
+url: https://discourse.slicer.org/t/39474
+---
+
 # Install DentalSegmentator from behind restrictive firewall
 
 **Topic ID**: 39474

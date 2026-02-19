@@ -1,3 +1,10 @@
+---
+topic_id: 8888
+title: "6 Dof Digitizers And Slicer"
+date: 2019-10-24
+url: https://discourse.slicer.org/t/8888
+---
+
 # 6 DOF digitizers and Slicer
 
 **Topic ID**: 8888

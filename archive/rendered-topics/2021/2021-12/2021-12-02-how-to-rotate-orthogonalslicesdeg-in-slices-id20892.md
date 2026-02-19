@@ -1,3 +1,10 @@
+---
+topic_id: 20892
+title: "How To Rotate Orthogonalslicesdeg In Slices"
+date: 2021-12-02
+url: https://discourse.slicer.org/t/20892
+---
+
 # How to rotate OrthogonalSlicesDeg in slices?
 
 **Topic ID**: 20892

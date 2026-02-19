@@ -1,3 +1,10 @@
+---
+topic_id: 36409
+title: "Import Rtss Dicom Files Already Slicerrt Is Installed"
+date: 2024-05-27
+url: https://discourse.slicer.org/t/36409
+---
+
 # Import RTSS-DICOM files (Already SlicerRT is Installed)
 
 **Topic ID**: 36409

@@ -1,3 +1,10 @@
+---
+topic_id: 45253
+title: "Segment Statistics For Dynamic Multi Frame Pet"
+date: 2025-11-27
+url: https://discourse.slicer.org/t/45253
+---
+
 # Segment Statistics for dynamic (multi frame) PET
 
 **Topic ID**: 45253

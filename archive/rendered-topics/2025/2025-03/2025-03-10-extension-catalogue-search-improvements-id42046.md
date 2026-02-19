@@ -1,3 +1,10 @@
+---
+topic_id: 42046
+title: "Extension Catalogue Search Improvements"
+date: 2025-03-10
+url: https://discourse.slicer.org/t/42046
+---
+
 # Extension Catalogue search improvements
 
 **Topic ID**: 42046

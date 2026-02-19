@@ -1,3 +1,10 @@
+---
+topic_id: 4895
+title: "Slicerigt Error Received Unknown Device Type Position Device"
+date: 2018-11-27
+url: https://discourse.slicer.org/t/4895
+---
+
 # SlicerIGT error: Received unknown device type POSITION, device=StylusToReference
 
 **Topic ID**: 4895

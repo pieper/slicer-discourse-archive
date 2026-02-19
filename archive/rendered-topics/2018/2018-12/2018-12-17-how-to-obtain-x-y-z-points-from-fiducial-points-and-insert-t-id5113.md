@@ -1,3 +1,10 @@
+---
+topic_id: 5113
+title: "How To Obtain X Y Z Points From Fiducial Points And Insert T"
+date: 2018-12-17
+url: https://discourse.slicer.org/t/5113
+---
+
 # How to obtain x,y,z points from fiducial points and insert them into vtkPoints
 
 **Topic ID**: 5113

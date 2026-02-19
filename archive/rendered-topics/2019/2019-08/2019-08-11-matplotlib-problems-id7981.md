@@ -1,3 +1,10 @@
+---
+topic_id: 7981
+title: "Matplotlib Problems"
+date: 2019-08-11
+url: https://discourse.slicer.org/t/7981
+---
+
 # Matplotlib problems
 
 **Topic ID**: 7981

@@ -1,3 +1,10 @@
+---
+topic_id: 31083
+title: "An Error Occurred While Adding Nii Format Data"
+date: 2023-08-10
+url: https://discourse.slicer.org/t/31083
+---
+
 # An error occurred while adding nii format data
 
 **Topic ID**: 31083

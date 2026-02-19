@@ -1,3 +1,10 @@
+---
+topic_id: 34554
+title: "Importing Dicom 4D Volumes As Multi Volume Or Volume Sequenc"
+date: 2024-02-26
+url: https://discourse.slicer.org/t/34554
+---
+
 # Importing DICOM 4D volumes as Multi Volume or Volume Sequence
 
 **Topic ID**: 34554

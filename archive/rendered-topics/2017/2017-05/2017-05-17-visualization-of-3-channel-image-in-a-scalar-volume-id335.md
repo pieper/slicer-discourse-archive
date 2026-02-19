@@ -1,3 +1,10 @@
+---
+topic_id: 335
+title: "Visualization Of 3 Channel Image In A Scalar Volume"
+date: 2017-05-17
+url: https://discourse.slicer.org/t/335
+---
+
 # Visualization of 3 Channel image in a scalar volume
 
 **Topic ID**: 335

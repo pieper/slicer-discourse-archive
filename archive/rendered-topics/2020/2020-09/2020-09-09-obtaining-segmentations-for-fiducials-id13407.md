@@ -1,3 +1,10 @@
+---
+topic_id: 13407
+title: "Obtaining Segmentations For Fiducials"
+date: 2020-09-09
+url: https://discourse.slicer.org/t/13407
+---
+
 # Obtaining Segmentations for Fiducials
 
 **Topic ID**: 13407

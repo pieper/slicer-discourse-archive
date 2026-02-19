@@ -1,3 +1,10 @@
+---
+topic_id: 37329
+title: "Outer Measurement Technique To Define Bivalve Morphological"
+date: 2024-07-11
+url: https://discourse.slicer.org/t/37329
+---
+
 # Outer measurement technique to define bivalve morphological characteristics.
 
 **Topic ID**: 37329

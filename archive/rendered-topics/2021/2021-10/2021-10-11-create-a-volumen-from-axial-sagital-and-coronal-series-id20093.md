@@ -1,3 +1,10 @@
+---
+topic_id: 20093
+title: "Create A Volumen From Axial Sagital And Coronal Series"
+date: 2021-10-11
+url: https://discourse.slicer.org/t/20093
+---
+
 # Create a Volumen from axial,sagital and coronal series
 
 **Topic ID**: 20093

@@ -1,3 +1,10 @@
+---
+topic_id: 15814
+title: "About Changing Mouse Cursor"
+date: 2021-02-03
+url: https://discourse.slicer.org/t/15814
+---
+
 # About changing mouse cursor
 
 **Topic ID**: 15814

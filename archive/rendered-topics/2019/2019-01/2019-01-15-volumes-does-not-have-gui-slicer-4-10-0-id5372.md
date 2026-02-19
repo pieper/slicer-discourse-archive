@@ -1,3 +1,10 @@
+---
+topic_id: 5372
+title: "Volumes Does Not Have Gui Slicer 4 10 0"
+date: 2019-01-15
+url: https://discourse.slicer.org/t/5372
+---
+
 # Volumes does not have GUI - Slicer 4.10.0
 
 **Topic ID**: 5372

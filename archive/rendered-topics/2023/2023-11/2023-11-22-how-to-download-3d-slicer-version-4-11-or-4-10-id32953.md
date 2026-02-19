@@ -1,3 +1,10 @@
+---
+topic_id: 32953
+title: "How To Download 3D Slicer Version 4 11 Or 4 10"
+date: 2023-11-22
+url: https://discourse.slicer.org/t/32953
+---
+
 # How to download 3D Slicer version 4.11 or 4.10?
 
 **Topic ID**: 32953

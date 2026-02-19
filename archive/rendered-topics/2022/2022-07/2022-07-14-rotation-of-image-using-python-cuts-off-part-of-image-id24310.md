@@ -1,3 +1,10 @@
+---
+topic_id: 24310
+title: "Rotation Of Image Using Python Cuts Off Part Of Image"
+date: 2022-07-14
+url: https://discourse.slicer.org/t/24310
+---
+
 # Rotation of image using python cuts off part of image
 
 **Topic ID**: 24310

@@ -1,3 +1,10 @@
+---
+topic_id: 468
+title: "Extension Download For Manual Install Slicerrt Slicerprostat"
+date: 2017-06-09
+url: https://discourse.slicer.org/t/468
+---
+
 # Extension Download for Manual Install - SlicerRT, SlicerProstate
 
 **Topic ID**: 468

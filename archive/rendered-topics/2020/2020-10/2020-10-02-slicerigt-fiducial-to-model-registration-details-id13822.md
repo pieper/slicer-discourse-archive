@@ -1,3 +1,10 @@
+---
+topic_id: 13822
+title: "Slicerigt Fiducial To Model Registration Details"
+date: 2020-10-02
+url: https://discourse.slicer.org/t/13822
+---
+
 # SlicerIGT Fiducial to Model registration details
 
 **Topic ID**: 13822

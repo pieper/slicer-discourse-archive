@@ -1,3 +1,10 @@
+---
+topic_id: 20497
+title: "Speeding Up Slicer Builds With Ccache"
+date: 2021-11-05
+url: https://discourse.slicer.org/t/20497
+---
+
 # Speeding up Slicer builds with CCache
 
 **Topic ID**: 20497

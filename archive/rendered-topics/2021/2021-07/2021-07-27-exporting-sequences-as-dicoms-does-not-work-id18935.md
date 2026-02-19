@@ -1,3 +1,10 @@
+---
+topic_id: 18935
+title: "Exporting Sequences As Dicoms Does Not Work"
+date: 2021-07-27
+url: https://discourse.slicer.org/t/18935
+---
+
 # Exporting Sequences as Dicoms does not work
 
 **Topic ID**: 18935

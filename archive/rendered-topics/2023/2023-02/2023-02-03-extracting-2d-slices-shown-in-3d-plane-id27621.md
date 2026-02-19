@@ -1,3 +1,10 @@
+---
+topic_id: 27621
+title: "Extracting 2D Slices Shown In 3D Plane"
+date: 2023-02-03
+url: https://discourse.slicer.org/t/27621
+---
+
 # Extracting 2D Slices shown in 3D Plane
 
 **Topic ID**: 27621

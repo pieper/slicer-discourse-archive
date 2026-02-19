@@ -1,3 +1,10 @@
+---
+topic_id: 9041
+title: "Problem Uploading Mri Ima Files Correctly"
+date: 2019-11-06
+url: https://discourse.slicer.org/t/9041
+---
+
 # Problem uploading MRI (IMA files) correctly 
 
 **Topic ID**: 9041

@@ -1,3 +1,10 @@
+---
+topic_id: 44567
+title: "Need Help With Analyzing Segmentations From 2 Different Mris"
+date: 2025-09-24
+url: https://discourse.slicer.org/t/44567
+---
+
 # Need help with analyzing segmentations from 2 different MRIs :( 
 
 **Topic ID**: 44567

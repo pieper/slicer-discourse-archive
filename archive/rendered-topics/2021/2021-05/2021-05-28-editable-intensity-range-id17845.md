@@ -1,3 +1,10 @@
+---
+topic_id: 17845
+title: "Editable Intensity Range"
+date: 2021-05-28
+url: https://discourse.slicer.org/t/17845
+---
+
 # Editable intensity range
 
 **Topic ID**: 17845

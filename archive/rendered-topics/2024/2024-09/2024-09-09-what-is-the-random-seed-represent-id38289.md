@@ -1,3 +1,10 @@
+---
+topic_id: 38289
+title: "What Is The Random Seed Represent"
+date: 2024-09-09
+url: https://discourse.slicer.org/t/38289
+---
+
 # What is the Random Seed Represent?
 
 **Topic ID**: 38289

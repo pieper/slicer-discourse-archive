@@ -1,3 +1,10 @@
+---
+topic_id: 8847
+title: "Loading Specific Series By Id"
+date: 2019-10-21
+url: https://discourse.slicer.org/t/8847
+---
+
 # Loading specific series by ID
 
 **Topic ID**: 8847

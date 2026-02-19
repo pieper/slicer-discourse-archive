@@ -1,3 +1,10 @@
+---
+topic_id: 44862
+title: "Merging Segments From 3 Different Scans"
+date: 2025-10-23
+url: https://discourse.slicer.org/t/44862
+---
+
 # Merging Segments from 3 different scans
 
 **Topic ID**: 44862

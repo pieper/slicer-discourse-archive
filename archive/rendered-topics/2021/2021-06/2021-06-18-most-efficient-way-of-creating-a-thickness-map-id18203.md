@@ -1,3 +1,10 @@
+---
+topic_id: 18203
+title: "Most Efficient Way Of Creating A Thickness Map"
+date: 2021-06-18
+url: https://discourse.slicer.org/t/18203
+---
+
 # Most Efficient Way of Creating a Thickness Map
 
 **Topic ID**: 18203

@@ -1,3 +1,10 @@
+---
+topic_id: 2667
+title: "Problem With Running Slicer 4 9 0 2018 01 10 Linux Amd64 In"
+date: 2018-04-23
+url: https://discourse.slicer.org/t/2667
+---
+
 # Problem with running Slicer-4.9.0-2018-01-10-linux-amd64 in Fedora core 25
 
 **Topic ID**: 2667

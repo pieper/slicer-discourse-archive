@@ -1,3 +1,10 @@
+---
+topic_id: 34571
+title: "Two Online Slicer Trainings In March"
+date: 2024-02-27
+url: https://discourse.slicer.org/t/34571
+---
+
 # Two online Slicer trainings in March
 
 **Topic ID**: 34571

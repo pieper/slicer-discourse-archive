@@ -1,3 +1,10 @@
+---
+topic_id: 40223
+title: "Run Alpaca Nogui From Python Script"
+date: 2024-11-16
+url: https://discourse.slicer.org/t/40223
+---
+
 # Run ALPACA nogui from python script
 
 **Topic ID**: 40223

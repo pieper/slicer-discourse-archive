@@ -1,3 +1,10 @@
+---
+topic_id: 37610
+title: "2024 08 02 To 2024 08 06 Latest Macos Packages Will Not Be B"
+date: 2024-07-29
+url: https://discourse.slicer.org/t/37610
+---
+
 # 2024.08.02 to 2024.08.06: latest macOS packages will *not* be built while machine is relocated
 
 **Topic ID**: 37610

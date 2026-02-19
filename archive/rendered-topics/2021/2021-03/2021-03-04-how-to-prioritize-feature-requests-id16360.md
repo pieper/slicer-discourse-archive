@@ -1,3 +1,10 @@
+---
+topic_id: 16360
+title: "How To Prioritize Feature Requests"
+date: 2021-03-04
+url: https://discourse.slicer.org/t/16360
+---
+
 # How to prioritize feature requests?
 
 **Topic ID**: 16360

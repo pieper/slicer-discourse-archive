@@ -1,3 +1,10 @@
+---
+topic_id: 30476
+title: "How To Create A Cylinder Phantom"
+date: 2023-07-09
+url: https://discourse.slicer.org/t/30476
+---
+
 # How to create a cylinder Phantom?
 
 **Topic ID**: 30476

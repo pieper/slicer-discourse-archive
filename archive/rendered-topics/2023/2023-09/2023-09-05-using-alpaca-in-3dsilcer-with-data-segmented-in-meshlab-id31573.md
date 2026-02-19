@@ -1,3 +1,10 @@
+---
+topic_id: 31573
+title: "Using Alpaca In 3Dsilcer With Data Segmented In Meshlab"
+date: 2023-09-05
+url: https://discourse.slicer.org/t/31573
+---
+
 # Using ALPACA in 3DSilcer with data segmented in MeshLab
 
 **Topic ID**: 31573

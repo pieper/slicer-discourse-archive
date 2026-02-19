@@ -1,3 +1,10 @@
+---
+topic_id: 9314
+title: "Sharing Publications Or Success Stories"
+date: 2019-11-27
+url: https://discourse.slicer.org/t/9314
+---
+
 # Sharing publications or success stories
 
 **Topic ID**: 9314

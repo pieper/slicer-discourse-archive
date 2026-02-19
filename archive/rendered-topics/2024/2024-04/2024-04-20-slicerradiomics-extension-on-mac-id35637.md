@@ -1,3 +1,10 @@
+---
+topic_id: 35637
+title: "Slicerradiomics Extension On Mac"
+date: 2024-04-20
+url: https://discourse.slicer.org/t/35637
+---
+
 # SlicerRadiomics extension on Mac
 
 **Topic ID**: 35637

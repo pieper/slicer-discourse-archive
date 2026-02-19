@@ -1,3 +1,10 @@
+---
+topic_id: 7007
+title: "How Save Segmentation Data"
+date: 2019-06-03
+url: https://discourse.slicer.org/t/7007
+---
+
 # How save segmentation data?
 
 **Topic ID**: 7007

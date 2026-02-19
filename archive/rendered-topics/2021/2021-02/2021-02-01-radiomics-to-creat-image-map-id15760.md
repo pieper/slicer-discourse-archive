@@ -1,3 +1,10 @@
+---
+topic_id: 15760
+title: "Radiomics To Creat Image Map"
+date: 2021-02-01
+url: https://discourse.slicer.org/t/15760
+---
+
 # Radiomics to creat image map
 
 **Topic ID**: 15760

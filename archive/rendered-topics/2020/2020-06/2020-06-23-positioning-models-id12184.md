@@ -1,3 +1,10 @@
+---
+topic_id: 12184
+title: "Positioning Models"
+date: 2020-06-23
+url: https://discourse.slicer.org/t/12184
+---
+
 # Positioning models
 
 **Topic ID**: 12184

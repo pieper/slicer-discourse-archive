@@ -1,3 +1,10 @@
+---
+topic_id: 5326
+title: "Heart Segmentation Failure"
+date: 2019-01-10
+url: https://discourse.slicer.org/t/5326
+---
+
 # Heart segmentation failure
 
 **Topic ID**: 5326

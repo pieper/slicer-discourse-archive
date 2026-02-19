@@ -1,3 +1,10 @@
+---
+topic_id: 3754
+title: "Segment Editor Connect Between Slices Issue"
+date: 2018-08-13
+url: https://discourse.slicer.org/t/3754
+---
+
 # Segment Editor - Connect between Slices Issue
 
 **Topic ID**: 3754

@@ -1,3 +1,10 @@
+---
+topic_id: 958
+title: "New Module Doesnt Appear In Module Navigation Interface"
+date: 2017-08-28
+url: https://discourse.slicer.org/t/958
+---
+
 # New Module doesn't appear in Module Navigation Interface
 
 **Topic ID**: 958

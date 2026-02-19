@@ -1,3 +1,10 @@
+---
+topic_id: 28691
+title: "Radiomics Features For Two Combined Structures"
+date: 2023-03-31
+url: https://discourse.slicer.org/t/28691
+---
+
 # Radiomics features for two combined structures
 
 **Topic ID**: 28691

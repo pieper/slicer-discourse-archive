@@ -1,3 +1,10 @@
+---
+topic_id: 41815
+title: "Consulta Sobre Efecto Threshold"
+date: 2025-02-21
+url: https://discourse.slicer.org/t/41815
+---
+
 # Consulta sobre efecto threshold
 
 **Topic ID**: 41815

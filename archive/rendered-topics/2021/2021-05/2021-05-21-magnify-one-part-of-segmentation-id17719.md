@@ -1,3 +1,10 @@
+---
+topic_id: 17719
+title: "Magnify One Part Of Segmentation"
+date: 2021-05-21
+url: https://discourse.slicer.org/t/17719
+---
+
 # Magnify one part of segmentation
 
 **Topic ID**: 17719

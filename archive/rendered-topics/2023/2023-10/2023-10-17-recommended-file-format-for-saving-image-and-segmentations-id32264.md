@@ -1,3 +1,10 @@
+---
+topic_id: 32264
+title: "Recommended File Format For Saving Image And Segmentations"
+date: 2023-10-17
+url: https://discourse.slicer.org/t/32264
+---
+
 # Recommended file format for saving image and segmentations
 
 **Topic ID**: 32264

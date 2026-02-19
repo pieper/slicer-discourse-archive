@@ -1,3 +1,10 @@
+---
+topic_id: 6068
+title: "Loading A Deep Learning Model To A Scripted Module"
+date: 2019-03-08
+url: https://discourse.slicer.org/t/6068
+---
+
 # Loading a deep learning model to a scripted module
 
 **Topic ID**: 6068

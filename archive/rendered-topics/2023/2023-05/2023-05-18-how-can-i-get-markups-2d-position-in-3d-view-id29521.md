@@ -1,3 +1,10 @@
+---
+topic_id: 29521
+title: "How Can I Get Markups 2D Position In 3D View"
+date: 2023-05-18
+url: https://discourse.slicer.org/t/29521
+---
+
 # How can I get markup's 2D position in 3D view
 
 **Topic ID**: 29521

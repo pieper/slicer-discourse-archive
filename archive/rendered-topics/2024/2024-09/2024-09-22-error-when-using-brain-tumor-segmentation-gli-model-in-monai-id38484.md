@@ -1,3 +1,10 @@
+---
+topic_id: 38484
+title: "Error When Using Brain Tumor Segmentation Gli Model In Monai"
+date: 2024-09-22
+url: https://discourse.slicer.org/t/38484
+---
+
 # Error when using Brain Tumor Segmentation(GLI)" model in MONAI Auto3DSeg
 
 **Topic ID**: 38484

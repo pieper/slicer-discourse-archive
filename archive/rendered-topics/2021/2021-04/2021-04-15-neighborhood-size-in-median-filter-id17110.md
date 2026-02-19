@@ -1,3 +1,10 @@
+---
+topic_id: 17110
+title: "Neighborhood Size In Median Filter"
+date: 2021-04-15
+url: https://discourse.slicer.org/t/17110
+---
+
 # Neighborhood Size in median filter
 
 **Topic ID**: 17110

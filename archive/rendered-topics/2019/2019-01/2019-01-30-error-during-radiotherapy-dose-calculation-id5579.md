@@ -1,3 +1,10 @@
+---
+topic_id: 5579
+title: "Error During Radiotherapy Dose Calculation"
+date: 2019-01-30
+url: https://discourse.slicer.org/t/5579
+---
+
 # Error during radiotherapy dose calculation
 
 **Topic ID**: 5579

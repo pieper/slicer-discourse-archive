@@ -1,3 +1,10 @@
+---
+topic_id: 13846
+title: "Should Be Possible To Add A Substraction Tool For Dynamic Mo"
+date: 2020-10-04
+url: https://discourse.slicer.org/t/13846
+---
+
 # Should be possible to add a Substraction Tool for Dynamic Modeler Module?
 
 **Topic ID**: 13846

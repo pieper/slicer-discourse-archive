@@ -1,3 +1,10 @@
+---
+topic_id: 28389
+title: "Coordinates Of Pixels In A Mesh File"
+date: 2023-03-14
+url: https://discourse.slicer.org/t/28389
+---
+
 # Coordinates of pixels in a mesh file
 
 **Topic ID**: 28389

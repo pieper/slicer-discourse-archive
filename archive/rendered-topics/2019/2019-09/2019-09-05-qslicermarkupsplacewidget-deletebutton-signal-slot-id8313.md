@@ -1,3 +1,10 @@
+---
+topic_id: 8313
+title: "Qslicermarkupsplacewidget Deletebutton Signal Slot"
+date: 2019-09-05
+url: https://discourse.slicer.org/t/8313
+---
+
 # qSlicerMarkupsPlaceWidget().deleteButton signal/slot?
 
 **Topic ID**: 8313

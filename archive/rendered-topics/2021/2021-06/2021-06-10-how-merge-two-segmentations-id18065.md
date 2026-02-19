@@ -1,3 +1,10 @@
+---
+topic_id: 18065
+title: "How Merge Two Segmentations"
+date: 2021-06-10
+url: https://discourse.slicer.org/t/18065
+---
+
 # How merge two segmentations?
 
 **Topic ID**: 18065

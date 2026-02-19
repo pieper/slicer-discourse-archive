@@ -1,3 +1,10 @@
+---
+topic_id: 31874
+title: "Rescaling A Segmentation"
+date: 2023-09-25
+url: https://discourse.slicer.org/t/31874
+---
+
 # Rescaling a segmentation
 
 **Topic ID**: 31874

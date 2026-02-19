@@ -1,3 +1,10 @@
+---
+topic_id: 27660
+title: "Spatial Cell Data From A Mesh From Slicer To Pyvista"
+date: 2023-02-06
+url: https://discourse.slicer.org/t/27660
+---
+
 # "Spatial Cell Data" from a mesh: from Slicer to Pyvista
 
 **Topic ID**: 27660

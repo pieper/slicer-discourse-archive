@@ -1,3 +1,10 @@
+---
+topic_id: 45968
+title: "Nninteractive Fails To Export Segmentations"
+date: 2026-01-28
+url: https://discourse.slicer.org/t/45968
+---
+
 # NNInteractive fails to export segmentations
 
 **Topic ID**: 45968

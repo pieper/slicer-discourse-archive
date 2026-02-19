@@ -1,3 +1,10 @@
+---
+topic_id: 29062
+title: "Quantifying The Bone To Muscle Ratio"
+date: 2023-04-22
+url: https://discourse.slicer.org/t/29062
+---
+
 # Quantifying the bone to muscle ratio
 
 **Topic ID**: 29062

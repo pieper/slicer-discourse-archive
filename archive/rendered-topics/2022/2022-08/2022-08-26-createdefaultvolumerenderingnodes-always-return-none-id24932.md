@@ -1,3 +1,10 @@
+---
+topic_id: 24932
+title: "Createdefaultvolumerenderingnodes Always Return None"
+date: 2022-08-26
+url: https://discourse.slicer.org/t/24932
+---
+
 # CreateDefaultVolumeRenderingNodes always return None
 
 **Topic ID**: 24932

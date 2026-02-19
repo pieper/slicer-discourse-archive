@@ -1,3 +1,10 @@
+---
+topic_id: 20955
+title: "Volume Rendering And Multiplanar Reconstruction"
+date: 2021-12-07
+url: https://discourse.slicer.org/t/20955
+---
+
 # Volume rendering and multiplanar reconstruction
 
 **Topic ID**: 20955

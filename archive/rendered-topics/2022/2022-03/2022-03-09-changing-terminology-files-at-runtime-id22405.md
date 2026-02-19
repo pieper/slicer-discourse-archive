@@ -1,3 +1,10 @@
+---
+topic_id: 22405
+title: "Changing Terminology Files At Runtime"
+date: 2022-03-09
+url: https://discourse.slicer.org/t/22405
+---
+
 # Changing terminology files at runtime
 
 **Topic ID**: 22405

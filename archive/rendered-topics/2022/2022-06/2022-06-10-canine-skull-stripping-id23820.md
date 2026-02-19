@@ -1,3 +1,10 @@
+---
+topic_id: 23820
+title: "Canine Skull Stripping"
+date: 2022-06-10
+url: https://discourse.slicer.org/t/23820
+---
+
 # Canine skull stripping
 
 **Topic ID**: 23820

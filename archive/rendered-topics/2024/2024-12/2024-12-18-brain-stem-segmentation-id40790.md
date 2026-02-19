@@ -1,3 +1,10 @@
+---
+topic_id: 40790
+title: "Brain Stem Segmentation"
+date: 2024-12-18
+url: https://discourse.slicer.org/t/40790
+---
+
 # brain stem segmentation
 
 **Topic ID**: 40790

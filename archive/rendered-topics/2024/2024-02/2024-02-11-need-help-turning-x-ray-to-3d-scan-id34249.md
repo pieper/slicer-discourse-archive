@@ -1,3 +1,10 @@
+---
+topic_id: 34249
+title: "Need Help Turning X Ray To 3D Scan"
+date: 2024-02-11
+url: https://discourse.slicer.org/t/34249
+---
+
 # Need Help Turning X-Ray To 3D Scan
 
 **Topic ID**: 34249

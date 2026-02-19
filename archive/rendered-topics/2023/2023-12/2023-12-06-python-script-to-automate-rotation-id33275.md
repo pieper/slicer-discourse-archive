@@ -1,3 +1,10 @@
+---
+topic_id: 33275
+title: "Python Script To Automate Rotation"
+date: 2023-12-06
+url: https://discourse.slicer.org/t/33275
+---
+
 # Python script to automate rotation
 
 **Topic ID**: 33275

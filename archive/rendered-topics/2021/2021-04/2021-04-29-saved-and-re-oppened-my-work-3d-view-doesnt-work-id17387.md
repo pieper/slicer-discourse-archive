@@ -1,3 +1,10 @@
+---
+topic_id: 17387
+title: "Saved And Re Oppened My Work 3D View Doesnt Work"
+date: 2021-04-29
+url: https://discourse.slicer.org/t/17387
+---
+
 # Saved and re-oppened my work - 3d view doesnt work
 
 **Topic ID**: 17387

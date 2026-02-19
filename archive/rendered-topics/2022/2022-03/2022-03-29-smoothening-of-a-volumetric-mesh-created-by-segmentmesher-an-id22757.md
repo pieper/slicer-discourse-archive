@@ -1,3 +1,10 @@
+---
+topic_id: 22757
+title: "Smoothening Of A Volumetric Mesh Created By Segmentmesher An"
+date: 2022-03-29
+url: https://discourse.slicer.org/t/22757
+---
+
 # Smoothening of a volumetric mesh created by SegmentMesher and changed by applying DVF
 
 **Topic ID**: 22757

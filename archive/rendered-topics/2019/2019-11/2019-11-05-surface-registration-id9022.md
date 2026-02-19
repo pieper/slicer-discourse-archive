@@ -1,3 +1,10 @@
+---
+topic_id: 9022
+title: "Surface Registration"
+date: 2019-11-05
+url: https://discourse.slicer.org/t/9022
+---
+
 # Surface registration
 
 **Topic ID**: 9022

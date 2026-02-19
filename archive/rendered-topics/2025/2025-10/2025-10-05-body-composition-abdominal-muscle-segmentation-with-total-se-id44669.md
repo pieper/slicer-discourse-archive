@@ -1,3 +1,10 @@
+---
+topic_id: 44669
+title: "Body Composition Abdominal Muscle Segmentation With Total Se"
+date: 2025-10-05
+url: https://discourse.slicer.org/t/44669
+---
+
 # Body composition - abdominal muscle segmentation with total segmentator
 
 **Topic ID**: 44669

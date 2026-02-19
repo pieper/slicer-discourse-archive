@@ -1,3 +1,10 @@
+---
+topic_id: 14941
+title: "Remove Dental Fillings Artifacts From Ct Scan"
+date: 2020-12-08
+url: https://discourse.slicer.org/t/14941
+---
+
 # Remove dental fillings artifacts from CT scan
 
 **Topic ID**: 14941

@@ -1,3 +1,10 @@
+---
+topic_id: 16976
+title: "Port Placement For Placing Surgical Needle On Correct Entry"
+date: 2021-04-07
+url: https://discourse.slicer.org/t/16976
+---
+
 # Port placement for placing surgical needle on correct entry point and desired angle
 
 **Topic ID**: 16976

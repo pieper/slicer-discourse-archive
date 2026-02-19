@@ -1,3 +1,10 @@
+---
+topic_id: 16370
+title: "Creating New Roi Like Osirix"
+date: 2021-03-04
+url: https://discourse.slicer.org/t/16370
+---
+
 # Creating new ROI like Osirix
 
 **Topic ID**: 16370

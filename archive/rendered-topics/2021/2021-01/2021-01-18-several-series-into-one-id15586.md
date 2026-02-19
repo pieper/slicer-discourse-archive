@@ -1,3 +1,10 @@
+---
+topic_id: 15586
+title: "Several Series Into One"
+date: 2021-01-18
+url: https://discourse.slicer.org/t/15586
+---
+
 # Several series into one
 
 **Topic ID**: 15586

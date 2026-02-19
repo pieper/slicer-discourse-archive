@@ -1,3 +1,10 @@
+---
+topic_id: 9079
+title: "Point Markups That Show Through All Slices"
+date: 2019-11-08
+url: https://discourse.slicer.org/t/9079
+---
+
 # Point Markups That Show Through All Slices
 
 **Topic ID**: 9079

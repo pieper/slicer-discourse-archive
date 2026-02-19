@@ -1,3 +1,10 @@
+---
+topic_id: 21334
+title: "Implement Variable Radius Curve"
+date: 2022-01-05
+url: https://discourse.slicer.org/t/21334
+---
+
 # Implement variable radius curve
 
 **Topic ID**: 21334

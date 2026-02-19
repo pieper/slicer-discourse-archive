@@ -1,3 +1,10 @@
+---
+topic_id: 35796
+title: "Help With Setting Up Monailabel"
+date: 2024-04-29
+url: https://discourse.slicer.org/t/35796
+---
+
 # Help with setting up MONAILabel
 
 **Topic ID**: 35796

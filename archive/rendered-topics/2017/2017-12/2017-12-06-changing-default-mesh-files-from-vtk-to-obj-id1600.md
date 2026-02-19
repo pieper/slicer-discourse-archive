@@ -1,3 +1,10 @@
+---
+topic_id: 1600
+title: "Changing Default Mesh Files From Vtk To Obj"
+date: 2017-12-06
+url: https://discourse.slicer.org/t/1600
+---
+
 # Changing default mesh files from VTK to OBJ
 
 **Topic ID**: 1600

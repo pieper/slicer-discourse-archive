@@ -1,3 +1,10 @@
+---
+topic_id: 3226
+title: "Slicer Crop Volume Ball Size"
+date: 2018-06-19
+url: https://discourse.slicer.org/t/3226
+---
+
 # Slicer Crop Volume ball size
 
 **Topic ID**: 3226

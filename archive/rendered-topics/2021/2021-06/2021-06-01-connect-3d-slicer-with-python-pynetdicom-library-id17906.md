@@ -1,3 +1,10 @@
+---
+topic_id: 17906
+title: "Connect 3D Slicer With Python Pynetdicom Library"
+date: 2021-06-01
+url: https://discourse.slicer.org/t/17906
+---
+
 # Connect 3D Slicer with python PYNETDICOM library
 
 **Topic ID**: 17906

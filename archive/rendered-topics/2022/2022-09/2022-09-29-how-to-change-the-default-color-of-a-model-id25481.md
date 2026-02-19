@@ -1,3 +1,10 @@
+---
+topic_id: 25481
+title: "How To Change The Default Color Of A Model"
+date: 2022-09-29
+url: https://discourse.slicer.org/t/25481
+---
+
 # How to change the default color of a model
 
 **Topic ID**: 25481

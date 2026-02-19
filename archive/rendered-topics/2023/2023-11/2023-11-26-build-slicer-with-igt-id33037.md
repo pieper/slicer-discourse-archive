@@ -1,3 +1,10 @@
+---
+topic_id: 33037
+title: "Build Slicer With Igt"
+date: 2023-11-26
+url: https://discourse.slicer.org/t/33037
+---
+
 # Build Slicer with IGT
 
 **Topic ID**: 33037

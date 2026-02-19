@@ -1,3 +1,10 @@
+---
+topic_id: 17348
+title: "Changes To Vtk Polydata Between 4 10 And 4 11"
+date: 2021-04-27
+url: https://discourse.slicer.org/t/17348
+---
+
 # Changes to VTK polydata between 4.10 and 4.11
 
 **Topic ID**: 17348

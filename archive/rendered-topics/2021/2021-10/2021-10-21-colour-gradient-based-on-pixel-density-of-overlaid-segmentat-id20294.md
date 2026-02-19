@@ -1,3 +1,10 @@
+---
+topic_id: 20294
+title: "Colour Gradient Based On Pixel Density Of Overlaid Segmentat"
+date: 2021-10-21
+url: https://discourse.slicer.org/t/20294
+---
+
 # Colour Gradient Based on Pixel Density of Overlaid Segmentations?
 
 **Topic ID**: 20294

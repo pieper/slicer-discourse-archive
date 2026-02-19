@@ -1,3 +1,10 @@
+---
+topic_id: 19066
+title: "How To Close Data Probe When Starting Slicer"
+date: 2021-08-05
+url: https://discourse.slicer.org/t/19066
+---
+
 # How to close Data Probe when starting Slicer?
 
 **Topic ID**: 19066

@@ -1,3 +1,10 @@
+---
+topic_id: 14499
+title: "Converting Dosxyz Output 3Ddose To Dicom Rt To Be Read In Pi"
+date: 2020-11-09
+url: https://discourse.slicer.org/t/14499
+---
+
 # Converting dosxyz output (.3ddose) to DICOM RT to be read in Pinncale and Eclipse
 
 **Topic ID**: 14499

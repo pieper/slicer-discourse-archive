@@ -1,3 +1,10 @@
+---
+topic_id: 28835
+title: "About Paintapply Method In Qslicersegmenteditorscissorseffec"
+date: 2023-04-11
+url: https://discourse.slicer.org/t/28835
+---
+
 # About paintApply method in qSlicerSegmentEditorScissorsEffect.cxx
 
 **Topic ID**: 28835

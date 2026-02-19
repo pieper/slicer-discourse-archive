@@ -1,3 +1,10 @@
+---
+topic_id: 6335
+title: "How To Contour An Organ With 3Dslicer Without Using Rtstruct"
+date: 2019-03-30
+url: https://discourse.slicer.org/t/6335
+---
+
 # How to contour an organ with 3DSlicer without using RTSTRUCT from TPS?
 
 **Topic ID**: 6335

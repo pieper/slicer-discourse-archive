@@ -1,3 +1,10 @@
+---
+topic_id: 6635
+title: "Dicom Data Not Visible In Dicom Browser Only Loads In Axial"
+date: 2019-04-28
+url: https://discourse.slicer.org/t/6635
+---
+
 # DICOM data not visible in DICOM browser, only loads in axial view,thin slice views in sagittal/coronal
 
 **Topic ID**: 6635

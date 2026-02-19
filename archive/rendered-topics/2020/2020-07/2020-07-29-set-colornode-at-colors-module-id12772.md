@@ -1,3 +1,10 @@
+---
+topic_id: 12772
+title: "Set Colornode At Colors Module"
+date: 2020-07-29
+url: https://discourse.slicer.org/t/12772
+---
+
 # Set ColorNode at Colors Module
 
 **Topic ID**: 12772

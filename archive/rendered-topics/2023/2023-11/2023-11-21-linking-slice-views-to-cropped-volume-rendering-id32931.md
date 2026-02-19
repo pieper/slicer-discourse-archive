@@ -1,3 +1,10 @@
+---
+topic_id: 32931
+title: "Linking Slice Views To Cropped Volume Rendering"
+date: 2023-11-21
+url: https://discourse.slicer.org/t/32931
+---
+
 # Linking slice views to cropped volume rendering
 
 **Topic ID**: 32931

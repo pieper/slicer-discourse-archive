@@ -1,3 +1,10 @@
+---
+topic_id: 696
+title: "Build Problems On Gentoo And Centos"
+date: 2017-07-16
+url: https://discourse.slicer.org/t/696
+---
+
 # Build problems on Gentoo and CentOS
 
 **Topic ID**: 696

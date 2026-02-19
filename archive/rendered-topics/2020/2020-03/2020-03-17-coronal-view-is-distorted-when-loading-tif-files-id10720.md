@@ -1,3 +1,10 @@
+---
+topic_id: 10720
+title: "Coronal View Is Distorted When Loading Tif Files"
+date: 2020-03-17
+url: https://discourse.slicer.org/t/10720
+---
+
 # Coronal view is distorted when loading .tif Files
 
 **Topic ID**: 10720

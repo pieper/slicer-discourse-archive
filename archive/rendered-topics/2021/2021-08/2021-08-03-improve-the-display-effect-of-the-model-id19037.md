@@ -1,3 +1,10 @@
+---
+topic_id: 19037
+title: "Improve The Display Effect Of The Model"
+date: 2021-08-03
+url: https://discourse.slicer.org/t/19037
+---
+
 # Improve the display effect of the model
 
 **Topic ID**: 19037

@@ -1,3 +1,10 @@
+---
+topic_id: 19324
+title: "Jpg Series To Dicom Conversion"
+date: 2021-08-23
+url: https://discourse.slicer.org/t/19324
+---
+
 #  jpg series to Dicom conversion
 
 **Topic ID**: 19324

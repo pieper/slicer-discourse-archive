@@ -1,3 +1,10 @@
+---
+topic_id: 22680
+title: "Suggestion About Overwrite All As Default In Segment Editor"
+date: 2022-03-25
+url: https://discourse.slicer.org/t/22680
+---
+
 # Suggestion about overwrite all as default in segment editor
 
 **Topic ID**: 22680

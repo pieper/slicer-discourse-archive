@@ -1,3 +1,10 @@
+---
+topic_id: 12723
+title: "Signal Loss After Epi Correction"
+date: 2020-07-24
+url: https://discourse.slicer.org/t/12723
+---
+
 # Signal loss after epi correction
 
 **Topic ID**: 12723

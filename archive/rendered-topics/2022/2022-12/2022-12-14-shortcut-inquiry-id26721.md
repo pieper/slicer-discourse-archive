@@ -1,3 +1,10 @@
+---
+topic_id: 26721
+title: "Shortcut Inquiry"
+date: 2022-12-14
+url: https://discourse.slicer.org/t/26721
+---
+
 # Shortcut inquiry
 
 **Topic ID**: 26721

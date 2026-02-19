@@ -1,3 +1,10 @@
+---
+topic_id: 4731
+title: "Threshold Segmentation Apply Issue"
+date: 2018-11-12
+url: https://discourse.slicer.org/t/4731
+---
+
 # Threshold segmentation apply issue
 
 **Topic ID**: 4731

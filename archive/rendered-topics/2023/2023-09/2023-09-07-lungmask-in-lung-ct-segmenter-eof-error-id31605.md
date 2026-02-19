@@ -1,3 +1,10 @@
+---
+topic_id: 31605
+title: "Lungmask In Lung Ct Segmenter Eof Error"
+date: 2023-09-07
+url: https://discourse.slicer.org/t/31605
+---
+
 # LUNGMASK in Lung CT segmenter EOF error
 
 **Topic ID**: 31605

@@ -1,3 +1,10 @@
+---
+topic_id: 37425
+title: "Resample Segmentation To Higher Resolution"
+date: 2024-07-17
+url: https://discourse.slicer.org/t/37425
+---
+
 # Resample segmentation to higher resolution
 
 **Topic ID**: 37425

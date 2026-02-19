@@ -1,3 +1,10 @@
+---
+topic_id: 6691
+title: "Please Add Cropping And Padding Options To Maskvolume Effect"
+date: 2019-05-04
+url: https://discourse.slicer.org/t/6691
+---
+
 # Please add cropping and padding options to maskVolume effect in ExtraEffect tools
 
 **Topic ID**: 6691

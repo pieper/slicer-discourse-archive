@@ -1,3 +1,10 @@
+---
+topic_id: 26184
+title: "Cranial Implant"
+date: 2022-11-10
+url: https://discourse.slicer.org/t/26184
+---
+
 # Cranial implant
 
 **Topic ID**: 26184

@@ -1,3 +1,10 @@
+---
+topic_id: 44007
+title: "Can Slicerigt Fiducial Registration Wizard Use Global Coordi"
+date: 2025-08-07
+url: https://discourse.slicer.org/t/44007
+---
+
 # Can SlicerIGT Fiducial Registration Wizard use global coordinates instead of RAS?
 
 **Topic ID**: 44007

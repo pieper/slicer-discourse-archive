@@ -1,3 +1,10 @@
+---
+topic_id: 33645
+title: "Oct Volume Filtering"
+date: 2024-01-05
+url: https://discourse.slicer.org/t/33645
+---
+
 # OCT volume filtering
 
 **Topic ID**: 33645

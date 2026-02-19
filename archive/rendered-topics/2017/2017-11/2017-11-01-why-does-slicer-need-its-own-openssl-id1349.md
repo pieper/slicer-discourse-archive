@@ -1,3 +1,10 @@
+---
+topic_id: 1349
+title: "Why Does Slicer Need Its Own Openssl"
+date: 2017-11-01
+url: https://discourse.slicer.org/t/1349
+---
+
 # Why does Slicer need its own OpenSSL?
 
 **Topic ID**: 1349

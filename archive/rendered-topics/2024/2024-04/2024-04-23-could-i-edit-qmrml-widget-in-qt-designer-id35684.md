@@ -1,3 +1,10 @@
+---
+topic_id: 35684
+title: "Could I Edit Qmrml Widget In Qt Designer"
+date: 2024-04-23
+url: https://discourse.slicer.org/t/35684
+---
+
 # Could I edit qMRML~Widget in Qt designer?
 
 **Topic ID**: 35684

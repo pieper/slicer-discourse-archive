@@ -1,3 +1,10 @@
+---
+topic_id: 14244
+title: "How To Convert Segmentation To Stl"
+date: 2020-10-25
+url: https://discourse.slicer.org/t/14244
+---
+
 # How to convert segmentation to stl
 
 **Topic ID**: 14244

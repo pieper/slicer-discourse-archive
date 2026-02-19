@@ -1,3 +1,10 @@
+---
+topic_id: 26067
+title: "Translation Only Registaton Between Two Scans"
+date: 2022-11-04
+url: https://discourse.slicer.org/t/26067
+---
+
 # Translation only registaton between two scans
 
 **Topic ID**: 26067

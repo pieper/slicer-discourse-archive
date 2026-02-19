@@ -1,3 +1,10 @@
+---
+topic_id: 40557
+title: "How Should I Cite Lungctanalyzer"
+date: 2024-12-07
+url: https://discourse.slicer.org/t/40557
+---
+
 # How should I cite LungCTAnalyzer
 
 **Topic ID**: 40557

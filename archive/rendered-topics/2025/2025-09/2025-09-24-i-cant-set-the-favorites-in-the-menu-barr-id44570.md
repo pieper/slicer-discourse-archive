@@ -1,3 +1,10 @@
+---
+topic_id: 44570
+title: "I Cant Set The Favorites In The Menu Barr"
+date: 2025-09-24
+url: https://discourse.slicer.org/t/44570
+---
+
 # I can't set the favorites in the menu barr
 
 **Topic ID**: 44570

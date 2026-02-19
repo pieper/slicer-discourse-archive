@@ -1,3 +1,10 @@
+---
+topic_id: 9769
+title: "Export The Segmentation As Dicom Series"
+date: 2020-01-10
+url: https://discourse.slicer.org/t/9769
+---
+
 # Export the segmentation as DICOM series
 
 **Topic ID**: 9769

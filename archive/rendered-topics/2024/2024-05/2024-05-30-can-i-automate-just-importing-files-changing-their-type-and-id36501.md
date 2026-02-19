@@ -1,3 +1,10 @@
+---
+topic_id: 36501
+title: "Can I Automate Just Importing Files Changing Their Type And"
+date: 2024-05-30
+url: https://discourse.slicer.org/t/36501
+---
+
 # Can I automate just importing files, changing their type, and then saving them?
 
 **Topic ID**: 36501

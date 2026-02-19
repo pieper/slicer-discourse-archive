@@ -1,3 +1,10 @@
+---
+topic_id: 1610
+title: "Showing Real Time Thermography Images As Overlay"
+date: 2017-12-07
+url: https://discourse.slicer.org/t/1610
+---
+
 # Showing real-time thermography images as overlay
 
 **Topic ID**: 1610

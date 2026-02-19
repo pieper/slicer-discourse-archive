@@ -1,3 +1,10 @@
+---
+topic_id: 35357
+title: "Bone Segmentation Using Totalsegmentor Threshold Slicer 5 6"
+date: 2024-04-08
+url: https://discourse.slicer.org/t/35357
+---
+
 # Bone Segmentation using TotalSegmentor Threshold Slicer 5.6.2
 
 **Topic ID**: 35357

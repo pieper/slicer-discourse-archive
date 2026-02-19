@@ -1,3 +1,10 @@
+---
+topic_id: 30277
+title: "Automatically Find Pipeline Model Endpoints"
+date: 2023-06-28
+url: https://discourse.slicer.org/t/30277
+---
+
 # Automatically find pipeline model endpoints
 
 **Topic ID**: 30277

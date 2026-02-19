@@ -1,3 +1,10 @@
+---
+topic_id: 15957
+title: "How To Set Default Centerline Curve Width Programmatically A"
+date: 2021-02-11
+url: https://discourse.slicer.org/t/15957
+---
+
 # How to set default centerline curve width programmatically and how to have slice intersection displayed?
 
 **Topic ID**: 15957

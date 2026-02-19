@@ -1,3 +1,10 @@
+---
+topic_id: 26152
+title: "Modelclip Module"
+date: 2022-11-09
+url: https://discourse.slicer.org/t/26152
+---
+
 # ModelClip module
 
 **Topic ID**: 26152

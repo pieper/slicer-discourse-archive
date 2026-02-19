@@ -1,3 +1,10 @@
+---
+topic_id: 9732
+title: "German Umlaut In Nii File Names"
+date: 2020-01-08
+url: https://discourse.slicer.org/t/9732
+---
+
 # german umlaut in .nii file names
 
 **Topic ID**: 9732

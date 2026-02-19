@@ -1,3 +1,10 @@
+---
+topic_id: 25619
+title: "Ct Scan Emptying"
+date: 2022-10-09
+url: https://discourse.slicer.org/t/25619
+---
+
 # CT scan emptying
 
 **Topic ID**: 25619

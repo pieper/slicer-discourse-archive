@@ -1,3 +1,10 @@
+---
+topic_id: 44256
+title: "Slicer Build Up Fail"
+date: 2025-08-29
+url: https://discourse.slicer.org/t/44256
+---
+
 # Slicer build up fail
 
 **Topic ID**: 44256

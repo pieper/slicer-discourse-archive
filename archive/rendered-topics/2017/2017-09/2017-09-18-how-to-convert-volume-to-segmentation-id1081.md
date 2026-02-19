@@ -1,3 +1,10 @@
+---
+topic_id: 1081
+title: "How To Convert Volume To Segmentation"
+date: 2017-09-18
+url: https://discourse.slicer.org/t/1081
+---
+
 # How to convert volume to segmentation?
 
 **Topic ID**: 1081

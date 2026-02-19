@@ -1,3 +1,10 @@
+---
+topic_id: 2146
+title: "Endoscopy Camera Not Moving Along Path"
+date: 2018-02-22
+url: https://discourse.slicer.org/t/2146
+---
+
 # Endoscopy - camera not moving along path?
 
 **Topic ID**: 2146

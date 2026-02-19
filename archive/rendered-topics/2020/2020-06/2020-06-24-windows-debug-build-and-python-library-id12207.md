@@ -1,3 +1,10 @@
+---
+topic_id: 12207
+title: "Windows Debug Build And Python Library"
+date: 2020-06-24
+url: https://discourse.slicer.org/t/12207
+---
+
 # Windows debug build and python library
 
 **Topic ID**: 12207

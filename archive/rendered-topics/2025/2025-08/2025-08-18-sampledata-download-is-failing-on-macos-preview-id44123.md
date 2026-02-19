@@ -1,3 +1,10 @@
+---
+topic_id: 44123
+title: "Sampledata Download Is Failing On Macos Preview"
+date: 2025-08-18
+url: https://discourse.slicer.org/t/44123
+---
+
 # SampleData download is failing on MacOS preview
 
 **Topic ID**: 44123

@@ -1,3 +1,10 @@
+---
+topic_id: 36590
+title: "How Do I Take A Data From A Cathather Sensor And Show It In"
+date: 2024-06-04
+url: https://discourse.slicer.org/t/36590
+---
+
 # how do I take  a data from a cathather sensor and show it in a heart
 
 **Topic ID**: 36590

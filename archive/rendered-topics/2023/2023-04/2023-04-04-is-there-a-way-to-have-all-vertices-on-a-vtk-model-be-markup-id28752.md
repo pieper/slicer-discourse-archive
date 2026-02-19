@@ -1,3 +1,10 @@
+---
+topic_id: 28752
+title: "Is There A Way To Have All Vertices On A Vtk Model Be Markup"
+date: 2023-04-04
+url: https://discourse.slicer.org/t/28752
+---
+
 # Is there a way to have all vertices on a vtk model be markups/landmarks?
 
 **Topic ID**: 28752

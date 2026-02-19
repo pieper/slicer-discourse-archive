@@ -1,3 +1,10 @@
+---
+topic_id: 42991
+title: "Getting Centerline Vascular Modelling Toolkit"
+date: 2025-05-19
+url: https://discourse.slicer.org/t/42991
+---
+
 # Getting Centerline (vascular modelling toolkit)
 
 **Topic ID**: 42991

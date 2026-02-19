@@ -1,3 +1,10 @@
+---
+topic_id: 21752
+title: "Remove Islands Inside The Resulting Stl From A Segment"
+date: 2022-02-02
+url: https://discourse.slicer.org/t/21752
+---
+
 # Remove islands inside the resulting STL from a segment
 
 **Topic ID**: 21752

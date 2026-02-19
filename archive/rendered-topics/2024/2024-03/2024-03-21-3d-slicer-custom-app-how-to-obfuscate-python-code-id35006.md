@@ -1,3 +1,10 @@
+---
+topic_id: 35006
+title: "3D Slicer Custom App How To Obfuscate Python Code"
+date: 2024-03-21
+url: https://discourse.slicer.org/t/35006
+---
+
 # 3d slicer custom app: how to obfuscate python code
 
 **Topic ID**: 35006

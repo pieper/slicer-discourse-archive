@@ -1,3 +1,10 @@
+---
+topic_id: 21999
+title: "Threshold Error On Segmentation And Does Not Show 3D Reconst"
+date: 2022-02-16
+url: https://discourse.slicer.org/t/21999
+---
+
 # Threshold Error on segmentation and does not show 3D reconstruction
 
 **Topic ID**: 21999

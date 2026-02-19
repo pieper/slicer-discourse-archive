@@ -1,3 +1,10 @@
+---
+topic_id: 11149
+title: "Convert Stl File Into Bmp Image Set"
+date: 2020-04-16
+url: https://discourse.slicer.org/t/11149
+---
+
 # Convert .stl file into .bmp image set
 
 **Topic ID**: 11149

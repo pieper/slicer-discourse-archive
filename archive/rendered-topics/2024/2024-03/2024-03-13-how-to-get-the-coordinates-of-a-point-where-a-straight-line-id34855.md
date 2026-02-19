@@ -1,3 +1,10 @@
+---
+topic_id: 34855
+title: "How To Get The Coordinates Of A Point Where A Straight Line"
+date: 2024-03-13
+url: https://discourse.slicer.org/t/34855
+---
+
 # How to get the coordinates of a point where a straight line intersects a blood vessel wall in 3DSLicer
 
 **Topic ID**: 34855

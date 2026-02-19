@@ -1,3 +1,10 @@
+---
+topic_id: 15611
+title: "Draw Tube Cannot Be Used Normally"
+date: 2021-01-21
+url: https://discourse.slicer.org/t/15611
+---
+
 # Draw Tube cannot be used normally
 
 **Topic ID**: 15611

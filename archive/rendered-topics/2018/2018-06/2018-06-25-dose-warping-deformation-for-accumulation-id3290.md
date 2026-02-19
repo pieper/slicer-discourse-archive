@@ -1,3 +1,10 @@
+---
+topic_id: 3290
+title: "Dose Warping Deformation For Accumulation"
+date: 2018-06-25
+url: https://discourse.slicer.org/t/3290
+---
+
 # Dose warping/deformation for accumulation
 
 **Topic ID**: 3290

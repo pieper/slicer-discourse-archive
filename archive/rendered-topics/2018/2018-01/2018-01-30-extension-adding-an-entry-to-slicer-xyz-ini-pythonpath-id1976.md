@@ -1,3 +1,10 @@
+---
+topic_id: 1976
+title: "Extension Adding An Entry To Slicer Xyz Ini Pythonpath"
+date: 2018-01-30
+url: https://discourse.slicer.org/t/1976
+---
+
 # Extension adding an entry to Slicer-XYZ.ini [PYTHONPATH]
 
 **Topic ID**: 1976

@@ -1,3 +1,10 @@
+---
+topic_id: 18873
+title: "Cmake Error Generator Visual Studio 16 2019 Does Not Support"
+date: 2021-07-22
+url: https://discourse.slicer.org/t/18873
+---
+
 # CMake Error Generator Visual Studio 16 2019 does not support variabl CMAKE_DEFAULT_BUILD_TYPE but it has been specified
 
 **Topic ID**: 18873

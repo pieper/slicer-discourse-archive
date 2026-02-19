@@ -1,3 +1,10 @@
+---
+topic_id: 7475
+title: "Proper Use Of Slicerapp Application Name"
+date: 2019-07-09
+url: https://discourse.slicer.org/t/7475
+---
+
 # Proper use of SlicerApp_APPLICATION_NAME
 
 **Topic ID**: 7475

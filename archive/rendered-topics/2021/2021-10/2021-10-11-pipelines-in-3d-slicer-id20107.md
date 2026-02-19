@@ -1,3 +1,10 @@
+---
+topic_id: 20107
+title: "Pipelines In 3D Slicer"
+date: 2021-10-11
+url: https://discourse.slicer.org/t/20107
+---
+
 # Pipelines in 3D Slicer
 
 **Topic ID**: 20107

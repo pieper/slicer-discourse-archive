@@ -1,3 +1,10 @@
+---
+topic_id: 21003
+title: "Template Based Development Environment Setup And Requirement"
+date: 2021-12-10
+url: https://discourse.slicer.org/t/21003
+---
+
 # Template based development environment setup and requirements of FDA approval
 
 **Topic ID**: 21003

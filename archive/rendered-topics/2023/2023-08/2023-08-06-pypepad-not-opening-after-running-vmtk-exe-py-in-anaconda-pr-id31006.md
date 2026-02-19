@@ -1,3 +1,10 @@
+---
+topic_id: 31006
+title: "Pypepad Not Opening After Running Vmtk Exe Py In Anaconda Pr"
+date: 2023-08-06
+url: https://discourse.slicer.org/t/31006
+---
+
 # Pypepad not opening after running "vmtk-exe.py" in Anaconda prompt
 
 **Topic ID**: 31006

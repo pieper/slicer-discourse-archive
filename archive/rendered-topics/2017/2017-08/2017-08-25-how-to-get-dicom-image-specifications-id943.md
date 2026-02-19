@@ -1,3 +1,10 @@
+---
+topic_id: 943
+title: "How To Get Dicom Image Specifications"
+date: 2017-08-25
+url: https://discourse.slicer.org/t/943
+---
+
 # How to get DICOM image specifications
 
 **Topic ID**: 943

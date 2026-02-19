@@ -1,3 +1,10 @@
+---
+topic_id: 5468
+title: "How To Use Itk Functionalities Inside Scripted Modules"
+date: 2019-01-22
+url: https://discourse.slicer.org/t/5468
+---
+
 # How to use ITK functionalities inside scripted modules
 
 **Topic ID**: 5468

@@ -1,3 +1,10 @@
+---
+topic_id: 9527
+title: "Manual Segmentation Slow To Complete A Contour"
+date: 2019-12-17
+url: https://discourse.slicer.org/t/9527
+---
+
 # Manual segmentation slow to complete a contour
 
 **Topic ID**: 9527

@@ -1,3 +1,10 @@
+---
+topic_id: 1792
+title: "Unable To Load Tiff Sequence Created By Python3 Tifffile Mod"
+date: 2018-01-09
+url: https://discourse.slicer.org/t/1792
+---
+
 # Unable to load tiff sequence created by python3 tifffile module
 
 **Topic ID**: 1792

@@ -1,3 +1,10 @@
+---
+topic_id: 4476
+title: "Slicer 4 11 Still Looks For 4 9 Lib Dir"
+date: 2018-10-20
+url: https://discourse.slicer.org/t/4476
+---
+
 # Slicer 4.11 still looks for 4.9 lib dir
 
 **Topic ID**: 4476

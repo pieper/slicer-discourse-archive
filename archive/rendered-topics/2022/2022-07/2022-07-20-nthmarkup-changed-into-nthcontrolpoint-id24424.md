@@ -1,3 +1,10 @@
+---
+topic_id: 24424
+title: "Nthmarkup Changed Into Nthcontrolpoint"
+date: 2022-07-20
+url: https://discourse.slicer.org/t/24424
+---
+
 # NthMarkup changed into NthControlPoint?
 
 **Topic ID**: 24424

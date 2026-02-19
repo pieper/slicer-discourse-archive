@@ -1,3 +1,10 @@
+---
+topic_id: 33042
+title: "Crash On Shutdown After Using Colorize Module"
+date: 2023-11-26
+url: https://discourse.slicer.org/t/33042
+---
+
 # Crash on shutdown after using Colorize module
 
 **Topic ID**: 33042

@@ -1,3 +1,10 @@
+---
+topic_id: 42452
+title: "Visualization Of Lower Body Muscle Segmentation From Dafne"
+date: 2025-04-06
+url: https://discourse.slicer.org/t/42452
+---
+
 # Visualization of lower body muscle segmentation from Dafne
 
 **Topic ID**: 42452

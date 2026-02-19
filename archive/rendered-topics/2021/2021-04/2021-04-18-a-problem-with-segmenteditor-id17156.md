@@ -1,3 +1,10 @@
+---
+topic_id: 17156
+title: "A Problem With Segmenteditor"
+date: 2021-04-18
+url: https://discourse.slicer.org/t/17156
+---
+
 # A problem with SegmentEditor
 
 **Topic ID**: 17156

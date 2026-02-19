@@ -1,3 +1,10 @@
+---
+topic_id: 25356
+title: "Is There A Better Solution For Head Registration"
+date: 2022-09-20
+url: https://discourse.slicer.org/t/25356
+---
+
 # Is there a better solution for head registration?
 
 **Topic ID**: 25356

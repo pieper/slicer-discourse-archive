@@ -1,3 +1,10 @@
+---
+topic_id: 7135
+title: "Reload Button Loads Dependent Modules"
+date: 2019-06-12
+url: https://discourse.slicer.org/t/7135
+---
+
 # Reload button loads dependent modules
 
 **Topic ID**: 7135

@@ -1,3 +1,10 @@
+---
+topic_id: 34578
+title: "Request Move One Control Point Menu Item"
+date: 2024-02-27
+url: https://discourse.slicer.org/t/34578
+---
+
 # Request: move one control point menu item
 
 **Topic ID**: 34578

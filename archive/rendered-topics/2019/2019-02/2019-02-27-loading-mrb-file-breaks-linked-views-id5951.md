@@ -1,3 +1,10 @@
+---
+topic_id: 5951
+title: "Loading Mrb File Breaks Linked Views"
+date: 2019-02-27
+url: https://discourse.slicer.org/t/5951
+---
+
 # Loading MRB file breaks linked views
 
 **Topic ID**: 5951

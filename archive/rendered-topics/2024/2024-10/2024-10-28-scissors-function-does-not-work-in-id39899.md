@@ -1,3 +1,10 @@
+---
+topic_id: 39899
+title: "Scissors Function Does Not Work In"
+date: 2024-10-28
+url: https://discourse.slicer.org/t/39899
+---
+
 # Scissors function does not work in
 
 **Topic ID**: 39899

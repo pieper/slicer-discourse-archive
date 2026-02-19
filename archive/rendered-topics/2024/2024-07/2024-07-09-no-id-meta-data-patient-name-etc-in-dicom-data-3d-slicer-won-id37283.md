@@ -1,3 +1,10 @@
+---
+topic_id: 37283
+title: "No Id Meta Data Patient Name Etc In Dicom Data 3D Slicer Won"
+date: 2024-07-09
+url: https://discourse.slicer.org/t/37283
+---
+
 # No ID meta data (patient name etc) in dicom data - 3d slicer wont load data
 
 **Topic ID**: 37283

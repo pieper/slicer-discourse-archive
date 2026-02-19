@@ -1,3 +1,10 @@
+---
+topic_id: 29867
+title: "Draw Plane Based On Angle To Another Plane And 2 Markup Poin"
+date: 2023-06-06
+url: https://discourse.slicer.org/t/29867
+---
+
 # Draw plane based on angle to another plane and 2 markup points
 
 **Topic ID**: 29867

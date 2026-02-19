@@ -1,3 +1,10 @@
+---
+topic_id: 7918
+title: "Manually Creating A Multivolume"
+date: 2019-08-07
+url: https://discourse.slicer.org/t/7918
+---
+
 # Manually creating a multiVolume
 
 **Topic ID**: 7918

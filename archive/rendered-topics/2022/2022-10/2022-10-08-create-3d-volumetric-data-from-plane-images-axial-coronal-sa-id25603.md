@@ -1,3 +1,10 @@
+---
+topic_id: 25603
+title: "Create 3D Volumetric Data From Plane Images Axial Coronal Sa"
+date: 2022-10-08
+url: https://discourse.slicer.org/t/25603
+---
+
 # Create 3d volumetric data from plane images (Axial, Coronal, Sagittal)
 
 **Topic ID**: 25603

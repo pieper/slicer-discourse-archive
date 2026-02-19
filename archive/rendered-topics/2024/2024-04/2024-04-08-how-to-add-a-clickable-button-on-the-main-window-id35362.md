@@ -1,3 +1,10 @@
+---
+topic_id: 35362
+title: "How To Add A Clickable Button On The Main Window"
+date: 2024-04-08
+url: https://discourse.slicer.org/t/35362
+---
+
 # How to add a clickable button on the main window
 
 **Topic ID**: 35362

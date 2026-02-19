@@ -1,3 +1,10 @@
+---
+topic_id: 23110
+title: "Screenshot Is Toooo Small When Red Yellow Green View Too Sma"
+date: 2022-04-25
+url: https://discourse.slicer.org/t/23110
+---
+
 # ScreenShot is toooo small when red/yellow/green view too small
 
 **Topic ID**: 23110

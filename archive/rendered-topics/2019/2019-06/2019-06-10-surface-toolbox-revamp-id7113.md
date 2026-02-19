@@ -1,3 +1,10 @@
+---
+topic_id: 7113
+title: "Surface Toolbox Revamp"
+date: 2019-06-10
+url: https://discourse.slicer.org/t/7113
+---
+
 # Surface toolbox revamp
 
 **Topic ID**: 7113

@@ -1,3 +1,10 @@
+---
+topic_id: 13695
+title: "How To Export Stl File For Each Structure"
+date: 2020-09-25
+url: https://discourse.slicer.org/t/13695
+---
+
 # How to export stl file for each structure?
 
 **Topic ID**: 13695

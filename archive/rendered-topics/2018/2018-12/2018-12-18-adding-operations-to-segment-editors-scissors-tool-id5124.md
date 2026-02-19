@@ -1,3 +1,10 @@
+---
+topic_id: 5124
+title: "Adding Operations To Segment Editors Scissors Tool"
+date: 2018-12-18
+url: https://discourse.slicer.org/t/5124
+---
+
 # Adding operations to Segment Editor's Scissors tool
 
 **Topic ID**: 5124

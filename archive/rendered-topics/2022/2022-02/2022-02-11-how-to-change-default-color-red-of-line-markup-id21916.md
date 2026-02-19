@@ -1,3 +1,10 @@
+---
+topic_id: 21916
+title: "How To Change Default Color Red Of Line Markup"
+date: 2022-02-11
+url: https://discourse.slicer.org/t/21916
+---
+
 # How to change default color (red) of line markup
 
 **Topic ID**: 21916

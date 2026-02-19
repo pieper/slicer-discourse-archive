@@ -1,3 +1,10 @@
+---
+topic_id: 34297
+title: "Fill Between Slices Issue Need Help"
+date: 2024-02-13
+url: https://discourse.slicer.org/t/34297
+---
+
 # Fill between slices issue : need help!
 
 **Topic ID**: 34297

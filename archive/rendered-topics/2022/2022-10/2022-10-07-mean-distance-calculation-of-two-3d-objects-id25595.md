@@ -1,3 +1,10 @@
+---
+topic_id: 25595
+title: "Mean Distance Calculation Of Two 3D Objects"
+date: 2022-10-07
+url: https://discourse.slicer.org/t/25595
+---
+
 # Mean distance calculation of two 3D objects
 
 **Topic ID**: 25595

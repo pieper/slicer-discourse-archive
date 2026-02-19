@@ -1,3 +1,10 @@
+---
+topic_id: 32303
+title: "Shape 2D 3D Slicer Radiomics Slicer Radiomics"
+date: 2023-10-18
+url: https://discourse.slicer.org/t/32303
+---
+
 # shape（2D） 3D Slicer  radiomics  slicer radiomics
 
 **Topic ID**: 32303

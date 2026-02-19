@@ -1,3 +1,10 @@
+---
+topic_id: 3098
+title: "Performance Drop In Slicer While Receiving Openigtlink Messa"
+date: 2018-06-06
+url: https://discourse.slicer.org/t/3098
+---
+
 # Performance drop in slicer while receiving openigtlink messages as server
 
 **Topic ID**: 3098

@@ -1,3 +1,10 @@
+---
+topic_id: 17567
+title: "Matching Ct Scans And Mris"
+date: 2021-05-11
+url: https://discourse.slicer.org/t/17567
+---
+
 # Matching CT scans and MRIs
 
 **Topic ID**: 17567

@@ -1,3 +1,10 @@
+---
+topic_id: 3118
+title: "Convert Nrrd To Nifti"
+date: 2018-06-07
+url: https://discourse.slicer.org/t/3118
+---
+
 # Convert Nrrd To Nifti
 
 **Topic ID**: 3118

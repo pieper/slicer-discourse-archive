@@ -1,3 +1,10 @@
+---
+topic_id: 29782
+title: "Train Sementationu Net Module"
+date: 2023-06-01
+url: https://discourse.slicer.org/t/29782
+---
+
 # Train SementationU-Net Module
 
 **Topic ID**: 29782

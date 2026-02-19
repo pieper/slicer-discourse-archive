@@ -1,3 +1,10 @@
+---
+topic_id: 1764
+title: "Converting Mrtrix Connectome Model To Stl For 3D Printing"
+date: 2018-01-05
+url: https://discourse.slicer.org/t/1764
+---
+
 # Converting MRtrix connectome model to .stl for 3D printing
 
 **Topic ID**: 1764

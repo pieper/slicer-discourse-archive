@@ -1,3 +1,10 @@
+---
+topic_id: 26052
+title: "Volumetric Mesh Generation For Finite Element Analysis Of Sp"
+date: 2022-11-02
+url: https://discourse.slicer.org/t/26052
+---
+
 # Volumetric mesh generation for finite element analysis of spine
 
 **Topic ID**: 26052

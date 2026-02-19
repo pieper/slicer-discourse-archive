@@ -1,3 +1,10 @@
+---
+topic_id: 22502
+title: "Feature Flags For Custom Python Slicer Extensions"
+date: 2022-03-14
+url: https://discourse.slicer.org/t/22502
+---
+
 # Feature Flags for custom Python slicer extensions
 
 **Topic ID**: 22502

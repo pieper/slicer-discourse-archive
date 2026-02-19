@@ -1,3 +1,10 @@
+---
+topic_id: 45434
+title: "Low Framerate Streaming Ndi Lyra Transforms In Plus Server"
+date: 2025-12-10
+url: https://discourse.slicer.org/t/45434
+---
+
 # Low Framerate streaming NDI Lyra Transforms in Plus Server
 
 **Topic ID**: 45434

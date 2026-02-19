@@ -1,3 +1,10 @@
+---
+topic_id: 7750
+title: "Volume Module Crash When Call From A Build With A Loadable M"
+date: 2019-07-25
+url: https://discourse.slicer.org/t/7750
+---
+
 # Volume module crash when call from a build with a loadable module
 
 **Topic ID**: 7750

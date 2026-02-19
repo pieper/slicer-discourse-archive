@@ -1,3 +1,10 @@
+---
+topic_id: 32309
+title: "How To Unload A Volume From The 3D View"
+date: 2023-10-18
+url: https://discourse.slicer.org/t/32309
+---
+
 # How to unload a volume from the 3D View
 
 **Topic ID**: 32309

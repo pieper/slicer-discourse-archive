@@ -1,3 +1,10 @@
+---
+topic_id: 11235
+title: "Question About Batchstructureset Conversion"
+date: 2020-04-22
+url: https://discourse.slicer.org/t/11235
+---
+
 # Question about batchstructureset conversion
 
 **Topic ID**: 11235

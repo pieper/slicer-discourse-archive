@@ -1,3 +1,10 @@
+---
+topic_id: 32978
+title: "Slicer Fresh Build Crash Start But Executes With Sudo Permis"
+date: 2023-11-23
+url: https://discourse.slicer.org/t/32978
+---
+
 # Slicer fresh build crash start, but executes with sudo permissions
 
 **Topic ID**: 32978

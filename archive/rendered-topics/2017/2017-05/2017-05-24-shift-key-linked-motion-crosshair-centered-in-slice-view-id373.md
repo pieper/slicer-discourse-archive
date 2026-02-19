@@ -1,3 +1,10 @@
+---
+topic_id: 373
+title: "Shift Key Linked Motion Crosshair Centered In Slice View"
+date: 2017-05-24
+url: https://discourse.slicer.org/t/373
+---
+
 # Shift key linked motion - crosshair centered in slice view
 
 **Topic ID**: 373

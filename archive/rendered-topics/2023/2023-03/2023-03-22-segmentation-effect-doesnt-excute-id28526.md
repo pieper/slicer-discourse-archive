@@ -1,3 +1,10 @@
+---
+topic_id: 28526
+title: "Segmentation Effect Doesnt Excute"
+date: 2023-03-22
+url: https://discourse.slicer.org/t/28526
+---
+
 # Segmentation effect doesn't excute
 
 **Topic ID**: 28526

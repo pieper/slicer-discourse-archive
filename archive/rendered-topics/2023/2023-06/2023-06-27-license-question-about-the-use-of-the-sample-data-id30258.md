@@ -1,3 +1,10 @@
+---
+topic_id: 30258
+title: "License Question About The Use Of The Sample Data"
+date: 2023-06-27
+url: https://discourse.slicer.org/t/30258
+---
+
 # License question about the use of the sample data
 
 **Topic ID**: 30258

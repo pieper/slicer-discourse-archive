@@ -1,3 +1,10 @@
+---
+topic_id: 9246
+title: "Extension Q3Dc Slicer 4 11 Macos Catalina"
+date: 2019-11-21
+url: https://discourse.slicer.org/t/9246
+---
+
 # Extension Q3DC Slicer 4.11. macOS Catalina
 
 **Topic ID**: 9246

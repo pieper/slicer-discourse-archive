@@ -1,3 +1,10 @@
+---
+topic_id: 30458
+title: "New Stable Release"
+date: 2023-07-07
+url: https://discourse.slicer.org/t/30458
+---
+
 # New stable release?
 
 **Topic ID**: 30458

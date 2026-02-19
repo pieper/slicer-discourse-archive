@@ -1,3 +1,10 @@
+---
+topic_id: 26244
+title: "Importation Format Sequence Metafile Not Available In Linux"
+date: 2022-11-15
+url: https://discourse.slicer.org/t/26244
+---
+
 # Importation format sequence metafile not available in Linux
 
 **Topic ID**: 26244

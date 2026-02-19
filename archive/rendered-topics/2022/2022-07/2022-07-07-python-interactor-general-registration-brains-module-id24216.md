@@ -1,3 +1,10 @@
+---
+topic_id: 24216
+title: "Python Interactor General Registration Brains Module"
+date: 2022-07-07
+url: https://discourse.slicer.org/t/24216
+---
+
 # python interactor - General Registration (BRAINS) module
 
 **Topic ID**: 24216

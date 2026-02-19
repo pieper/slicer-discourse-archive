@@ -1,3 +1,10 @@
+---
+topic_id: 230
+title: "Reorder Segments In Segment Editor"
+date: 2017-04-30
+url: https://discourse.slicer.org/t/230
+---
+
 # Reorder segments in Segment Editor?
 
 **Topic ID**: 230

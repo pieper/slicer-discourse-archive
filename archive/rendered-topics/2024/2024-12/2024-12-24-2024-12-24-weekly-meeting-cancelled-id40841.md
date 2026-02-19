@@ -1,3 +1,10 @@
+---
+topic_id: 40841
+title: "2024 12 24 Weekly Meeting Cancelled"
+date: 2024-12-24
+url: https://discourse.slicer.org/t/40841
+---
+
 # 2024.12.24 Weekly Meeting (cancelled)
 
 **Topic ID**: 40841

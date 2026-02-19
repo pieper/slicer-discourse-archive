@@ -1,3 +1,10 @@
+---
+topic_id: 22613
+title: "Possible To Reset A Segment Id Inside The Segmenteditor"
+date: 2022-03-21
+url: https://discourse.slicer.org/t/22613
+---
+
 # Possible to reset a segment ID inside the SegmentEditor?
 
 **Topic ID**: 22613

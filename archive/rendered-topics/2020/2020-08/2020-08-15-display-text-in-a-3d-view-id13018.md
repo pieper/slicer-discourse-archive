@@ -1,3 +1,10 @@
+---
+topic_id: 13018
+title: "Display Text In A 3D View"
+date: 2020-08-15
+url: https://discourse.slicer.org/t/13018
+---
+
 # Display text in a 3D view
 
 **Topic ID**: 13018

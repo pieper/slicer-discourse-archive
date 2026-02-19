@@ -1,3 +1,10 @@
+---
+topic_id: 31902
+title: "How To Get Original Dicom Ct Scan Frame Number From Binary S"
+date: 2023-09-26
+url: https://discourse.slicer.org/t/31902
+---
+
 # How to get original DICOM CT Scan frame number from binary segmentation file?
 
 **Topic ID**: 31902

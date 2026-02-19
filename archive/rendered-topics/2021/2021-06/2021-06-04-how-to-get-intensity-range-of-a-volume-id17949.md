@@ -1,3 +1,10 @@
+---
+topic_id: 17949
+title: "How To Get Intensity Range Of A Volume"
+date: 2021-06-04
+url: https://discourse.slicer.org/t/17949
+---
+
 # How to get intensity range of a volume?
 
 **Topic ID**: 17949

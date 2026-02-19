@@ -1,3 +1,10 @@
+---
+topic_id: 5947
+title: "Wont Open Image In Yellow And Green"
+date: 2019-02-27
+url: https://discourse.slicer.org/t/5947
+---
+
 # Wont open image in Yellow and Green
 
 **Topic ID**: 5947

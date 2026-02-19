@@ -1,3 +1,10 @@
+---
+topic_id: 13749
+title: "Slicer 4 11 0 2020 09 28 Does Not Start Succesfully"
+date: 2020-09-29
+url: https://discourse.slicer.org/t/13749
+---
+
 # Slicer 4.11.0-2020-09-28 does not start succesfully
 
 **Topic ID**: 13749

@@ -1,3 +1,10 @@
+---
+topic_id: 41472
+title: "Skull Stripping Brain Extraction For Canine Brains With Hdbr"
+date: 2025-02-03
+url: https://discourse.slicer.org/t/41472
+---
+
 # Skull stripping/ Brain Extraction for canine brains with HDBrainExtraction a/o SwissSkullStripper
 
 **Topic ID**: 41472

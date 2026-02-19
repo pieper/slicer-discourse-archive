@@ -1,3 +1,10 @@
+---
+topic_id: 1195
+title: "Mesh Extraction"
+date: 2017-10-07
+url: https://discourse.slicer.org/t/1195
+---
+
 # Mesh extraction
 
 **Topic ID**: 1195

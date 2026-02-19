@@ -1,3 +1,10 @@
+---
+topic_id: 36203
+title: "Set To Outline Mode When A Segmentation Node Is Added Not Wo"
+date: 2024-05-16
+url: https://discourse.slicer.org/t/36203
+---
+
 # Set to outline mode when a segmentation node is added, NOT WORKING
 
 **Topic ID**: 36203

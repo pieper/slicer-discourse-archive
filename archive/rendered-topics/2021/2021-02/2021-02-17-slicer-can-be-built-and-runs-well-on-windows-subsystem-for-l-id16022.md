@@ -1,3 +1,10 @@
+---
+topic_id: 16022
+title: "Slicer Can Be Built And Runs Well On Windows Subsystem For L"
+date: 2021-02-17
+url: https://discourse.slicer.org/t/16022
+---
+
 # Slicer can be built and runs well on Windows Subsystem for Linux (WSL2)
 
 **Topic ID**: 16022

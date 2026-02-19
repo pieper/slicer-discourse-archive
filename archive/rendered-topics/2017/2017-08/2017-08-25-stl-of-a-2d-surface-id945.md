@@ -1,3 +1,10 @@
+---
+topic_id: 945
+title: "Stl Of A 2D Surface"
+date: 2017-08-25
+url: https://discourse.slicer.org/t/945
+---
+
 # STL of a 2d surface
 
 **Topic ID**: 945

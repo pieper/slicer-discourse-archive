@@ -1,3 +1,10 @@
+---
+topic_id: 17917
+title: "Modifications To Cardiac Module Or Suggestion To Module For"
+date: 2021-06-02
+url: https://discourse.slicer.org/t/17917
+---
+
 # Modifications to Cardiac module or suggestion to module for annotation of geometrical components
 
 **Topic ID**: 17917

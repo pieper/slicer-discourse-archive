@@ -1,3 +1,10 @@
+---
+topic_id: 34408
+title: "How To Crop A Segmentation"
+date: 2024-02-19
+url: https://discourse.slicer.org/t/34408
+---
+
 # How to crop a segmentation?
 
 **Topic ID**: 34408

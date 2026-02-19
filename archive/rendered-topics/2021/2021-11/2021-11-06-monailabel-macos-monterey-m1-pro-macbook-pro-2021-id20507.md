@@ -1,3 +1,10 @@
+---
+topic_id: 20507
+title: "Monailabel Macos Monterey M1 Pro Macbook Pro 2021"
+date: 2021-11-06
+url: https://discourse.slicer.org/t/20507
+---
+
 # MONAILabel - MacOS Monterey M1 Pro MacBook Pro (2021)
 
 **Topic ID**: 20507

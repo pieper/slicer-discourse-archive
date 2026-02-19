@@ -1,3 +1,10 @@
+---
+topic_id: 17455
+title: "Modify Stl File"
+date: 2021-05-04
+url: https://discourse.slicer.org/t/17455
+---
+
 # Modify .stl file
 
 **Topic ID**: 17455

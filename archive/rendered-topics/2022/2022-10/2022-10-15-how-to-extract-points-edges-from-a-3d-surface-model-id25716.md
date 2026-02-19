@@ -1,3 +1,10 @@
+---
+topic_id: 25716
+title: "How To Extract Points Edges From A 3D Surface Model"
+date: 2022-10-15
+url: https://discourse.slicer.org/t/25716
+---
+
 # How to extract points(edges) from a 3D surface model?
 
 **Topic ID**: 25716

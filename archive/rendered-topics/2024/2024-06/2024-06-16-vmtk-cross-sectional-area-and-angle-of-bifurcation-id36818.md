@@ -1,3 +1,10 @@
+---
+topic_id: 36818
+title: "Vmtk Cross Sectional Area And Angle Of Bifurcation"
+date: 2024-06-16
+url: https://discourse.slicer.org/t/36818
+---
+
 # VMTK - cross-sectional area and angle of bifurcation
 
 **Topic ID**: 36818

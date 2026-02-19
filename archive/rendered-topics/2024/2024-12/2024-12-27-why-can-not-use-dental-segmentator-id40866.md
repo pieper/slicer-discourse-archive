@@ -1,3 +1,10 @@
+---
+topic_id: 40866
+title: "Why Can Not Use Dental Segmentator"
+date: 2024-12-27
+url: https://discourse.slicer.org/t/40866
+---
+
 # Why can not use dental segmentator?
 
 **Topic ID**: 40866

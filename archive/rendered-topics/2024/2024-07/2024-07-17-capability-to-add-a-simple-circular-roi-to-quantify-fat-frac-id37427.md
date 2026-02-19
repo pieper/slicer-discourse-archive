@@ -1,3 +1,10 @@
+---
+topic_id: 37427
+title: "Capability To Add A Simple Circular Roi To Quantify Fat Frac"
+date: 2024-07-17
+url: https://discourse.slicer.org/t/37427
+---
+
 # Capability to add a simple circular ROI to quantify fat fraction.
 
 **Topic ID**: 37427

@@ -1,3 +1,10 @@
+---
+topic_id: 39575
+title: "How To Apply Rescaleintensityimagefilter Automatically By A"
+date: 2024-10-07
+url: https://discourse.slicer.org/t/39575
+---
+
 # How to apply RescaleIntensityImageFilter automatically by a python script
 
 **Topic ID**: 39575

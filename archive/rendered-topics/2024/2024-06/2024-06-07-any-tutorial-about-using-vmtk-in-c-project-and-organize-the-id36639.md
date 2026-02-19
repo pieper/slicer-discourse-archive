@@ -1,3 +1,10 @@
+---
+topic_id: 36639
+title: "Any Tutorial About Using Vmtk In C Project And Organize The"
+date: 2024-06-07
+url: https://discourse.slicer.org/t/36639
+---
+
 # Any tutorial about using VMTK in C++ project?and organize the result of BranchClipper as multi-branch tree?
 
 **Topic ID**: 36639

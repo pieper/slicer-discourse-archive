@@ -1,3 +1,10 @@
+---
+topic_id: 13605
+title: "Change Spatial Calibration"
+date: 2020-09-22
+url: https://discourse.slicer.org/t/13605
+---
+
 # Change spatial calibration
 
 **Topic ID**: 13605

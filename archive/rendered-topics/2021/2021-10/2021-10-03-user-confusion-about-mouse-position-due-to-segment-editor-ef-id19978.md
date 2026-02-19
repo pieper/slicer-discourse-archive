@@ -1,3 +1,10 @@
+---
+topic_id: 19978
+title: "User Confusion About Mouse Position Due To Segment Editor Ef"
+date: 2021-10-03
+url: https://discourse.slicer.org/t/19978
+---
+
 # User confusion about mouse position due to Segment Editor effect cursor artwork
 
 **Topic ID**: 19978

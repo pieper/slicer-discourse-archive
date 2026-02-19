@@ -1,3 +1,10 @@
+---
+topic_id: 6165
+title: "C 11 Modernization Update To Itk5 Removal Of Obsolete Qt4 An"
+date: 2019-03-16
+url: https://discourse.slicer.org/t/6165
+---
+
 # C++11 modernization, update to ITK5, removal of obsolete Qt4 and VTK7 support
 
 **Topic ID**: 6165

@@ -1,3 +1,10 @@
+---
+topic_id: 32044
+title: "Saving Re Opening Transformed Data"
+date: 2023-10-05
+url: https://discourse.slicer.org/t/32044
+---
+
 # Saving/re-opening transformed data
 
 **Topic ID**: 32044

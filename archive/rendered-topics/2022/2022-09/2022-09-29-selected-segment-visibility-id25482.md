@@ -1,3 +1,10 @@
+---
+topic_id: 25482
+title: "Selected Segment Visibility"
+date: 2022-09-29
+url: https://discourse.slicer.org/t/25482
+---
+
 # Selected segment visibility
 
 **Topic ID**: 25482

@@ -1,3 +1,10 @@
+---
+topic_id: 14688
+title: "Qt Creator Cant See Execution Files After Building From Sour"
+date: 2020-11-19
+url: https://discourse.slicer.org/t/14688
+---
+
 # Qt creator can't see execution files after building from source
 
 **Topic ID**: 14688

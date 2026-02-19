@@ -1,3 +1,10 @@
+---
+topic_id: 20603
+title: "Zoom Factor Quantification"
+date: 2021-11-12
+url: https://discourse.slicer.org/t/20603
+---
+
 # Zoom factor quantification
 
 **Topic ID**: 20603

@@ -1,3 +1,10 @@
+---
+topic_id: 29669
+title: "Negative Mold Of An Stl"
+date: 2023-05-26
+url: https://discourse.slicer.org/t/29669
+---
+
 # Negative mold of an STL
 
 **Topic ID**: 29669

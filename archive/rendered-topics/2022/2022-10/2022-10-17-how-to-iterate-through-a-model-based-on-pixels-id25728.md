@@ -1,3 +1,10 @@
+---
+topic_id: 25728
+title: "How To Iterate Through A Model Based On Pixels"
+date: 2022-10-17
+url: https://discourse.slicer.org/t/25728
+---
+
 # How to iterate through a model based on pixels?
 
 **Topic ID**: 25728

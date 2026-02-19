@@ -1,3 +1,10 @@
+---
+topic_id: 22819
+title: "How To Properly Segment The Coronary Artery If It Has Stenos"
+date: 2022-04-04
+url: https://discourse.slicer.org/t/22819
+---
+
 # How to properly segment the coronary artery, if it has stenosis?
 
 **Topic ID**: 22819

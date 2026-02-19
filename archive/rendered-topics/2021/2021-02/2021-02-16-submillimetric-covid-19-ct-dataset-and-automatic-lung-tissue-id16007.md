@@ -1,3 +1,10 @@
+---
+topic_id: 16007
+title: "Submillimetric Covid 19 Ct Dataset And Automatic Lung Tissue"
+date: 2021-02-16
+url: https://discourse.slicer.org/t/16007
+---
+
 # Submillimetric COVID-19 CT dataset and automatic lung tissue labeling extension
 
 **Topic ID**: 16007

@@ -1,3 +1,10 @@
+---
+topic_id: 4764
+title: "No Getstorablenode Method In Vtkmrmlstoragenode"
+date: 2018-11-14
+url: https://discourse.slicer.org/t/4764
+---
+
 # No GetStorableNode method in vtkMRMLStorageNode
 
 **Topic ID**: 4764

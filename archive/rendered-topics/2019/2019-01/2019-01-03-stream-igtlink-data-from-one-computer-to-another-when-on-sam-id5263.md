@@ -1,3 +1,10 @@
+---
+topic_id: 5263
+title: "Stream Igtlink Data From One Computer To Another When On Sam"
+date: 2019-01-03
+url: https://discourse.slicer.org/t/5263
+---
+
 # Stream IGTLink Data from one computer to another when on same network
 
 **Topic ID**: 5263

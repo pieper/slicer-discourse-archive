@@ -1,3 +1,10 @@
+---
+topic_id: 23705
+title: "How To Load Dense Dvfs From Voxelmorph To Slicer"
+date: 2022-06-05
+url: https://discourse.slicer.org/t/23705
+---
+
 # How to load dense DVFs (from VoxelMorph) to Slicer
 
 **Topic ID**: 23705

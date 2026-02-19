@@ -1,3 +1,10 @@
+---
+topic_id: 20389
+title: "Build Plus Toolkit In Ubuntu 20 04 3 Lts"
+date: 2021-10-27
+url: https://discourse.slicer.org/t/20389
+---
+
 # Build Plus Toolkit in Ubuntu 20.04.3 LTS
 
 **Topic ID**: 20389

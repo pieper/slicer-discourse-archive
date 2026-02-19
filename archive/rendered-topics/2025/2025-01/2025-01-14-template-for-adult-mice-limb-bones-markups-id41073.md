@@ -1,3 +1,10 @@
+---
+topic_id: 41073
+title: "Template For Adult Mice Limb Bones Markups"
+date: 2025-01-14
+url: https://discourse.slicer.org/t/41073
+---
+
 # Template for adult mice limb bones markups
 
 **Topic ID**: 41073

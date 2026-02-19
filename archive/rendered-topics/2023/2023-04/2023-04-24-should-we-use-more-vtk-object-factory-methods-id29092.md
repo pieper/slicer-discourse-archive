@@ -1,3 +1,10 @@
+---
+topic_id: 29092
+title: "Should We Use More Vtk Object Factory Methods"
+date: 2023-04-24
+url: https://discourse.slicer.org/t/29092
+---
+
 # Should we use more VTK object "factory" methods?
 
 **Topic ID**: 29092

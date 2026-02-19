@@ -1,3 +1,10 @@
+---
+topic_id: 20747
+title: "Opendose3D A Slicer Module To Perform 3D Patient Specific Do"
+date: 2021-11-23
+url: https://discourse.slicer.org/t/20747
+---
+
 # OpenDose3D: A Slicer module to perform 3D patient specific dosimetry based on images in molecular radiotherapy
 
 **Topic ID**: 20747

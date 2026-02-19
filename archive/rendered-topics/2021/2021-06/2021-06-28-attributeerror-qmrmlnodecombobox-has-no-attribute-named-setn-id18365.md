@@ -1,3 +1,10 @@
+---
+topic_id: 18365
+title: "Attributeerror Qmrmlnodecombobox Has No Attribute Named Setn"
+date: 2021-06-28
+url: https://discourse.slicer.org/t/18365
+---
+
 # AttributeError: qMRMLNodeComboBox has no attribute named 'setNoneEnabled'
 
 **Topic ID**: 18365

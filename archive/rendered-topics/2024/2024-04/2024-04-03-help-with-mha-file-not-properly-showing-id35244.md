@@ -1,3 +1,10 @@
+---
+topic_id: 35244
+title: "Help With Mha File Not Properly Showing"
+date: 2024-04-03
+url: https://discourse.slicer.org/t/35244
+---
+
 # Help With .mha file not properly showing
 
 **Topic ID**: 35244

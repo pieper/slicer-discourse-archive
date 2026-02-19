@@ -1,3 +1,10 @@
+---
+topic_id: 19942
+title: "Rebuilding Custom Loadable Extension That Is Part Of Slicerc"
+date: 2021-09-30
+url: https://discourse.slicer.org/t/19942
+---
+
 # Rebuilding custom loadable extension that is part of SlicerCAT
 
 **Topic ID**: 19942

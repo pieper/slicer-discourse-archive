@@ -1,3 +1,10 @@
+---
+topic_id: 13478
+title: "Create A Data Probe For Slicelet"
+date: 2020-09-14
+url: https://discourse.slicer.org/t/13478
+---
+
 # Create a data probe for slicelet
 
 **Topic ID**: 13478

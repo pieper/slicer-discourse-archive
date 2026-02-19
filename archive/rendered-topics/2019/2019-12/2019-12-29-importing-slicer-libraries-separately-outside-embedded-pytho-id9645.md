@@ -1,3 +1,10 @@
+---
+topic_id: 9645
+title: "Importing Slicer Libraries Separately Outside Embedded Pytho"
+date: 2019-12-29
+url: https://discourse.slicer.org/t/9645
+---
+
 # Importing slicer libraries separately, outside embedded Python, like in Conda or Jupiter environments
 
 **Topic ID**: 9645

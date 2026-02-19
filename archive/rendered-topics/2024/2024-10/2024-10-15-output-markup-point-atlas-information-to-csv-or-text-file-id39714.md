@@ -1,3 +1,10 @@
+---
+topic_id: 39714
+title: "Output Markup Point Atlas Information To Csv Or Text File"
+date: 2024-10-15
+url: https://discourse.slicer.org/t/39714
+---
+
 # Output markup point atlas information to csv or text file
 
 **Topic ID**: 39714

@@ -1,3 +1,10 @@
+---
+topic_id: 1192
+title: "Saving Linear Transformation Matrix"
+date: 2017-10-06
+url: https://discourse.slicer.org/t/1192
+---
+
 # Saving Linear Transformation Matrix
 
 **Topic ID**: 1192

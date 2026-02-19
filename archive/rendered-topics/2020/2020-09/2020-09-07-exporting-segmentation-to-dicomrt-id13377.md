@@ -1,3 +1,10 @@
+---
+topic_id: 13377
+title: "Exporting Segmentation To Dicomrt"
+date: 2020-09-07
+url: https://discourse.slicer.org/t/13377
+---
+
 # Exporting segmentation To DicomRT
 
 **Topic ID**: 13377

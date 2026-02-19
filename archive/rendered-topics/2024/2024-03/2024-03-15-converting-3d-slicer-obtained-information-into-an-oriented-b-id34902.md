@@ -1,3 +1,10 @@
+---
+topic_id: 34902
+title: "Converting 3D Slicer Obtained Information Into An Oriented B"
+date: 2024-03-15
+url: https://discourse.slicer.org/t/34902
+---
+
 # Converting 3D slicer obtained information into an oriented bounding box in Python (using simpleitk/vtk etc)
 
 **Topic ID**: 34902

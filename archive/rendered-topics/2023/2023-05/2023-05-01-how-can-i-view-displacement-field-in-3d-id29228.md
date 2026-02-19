@@ -1,3 +1,10 @@
+---
+topic_id: 29228
+title: "How Can I View Displacement Field In 3D"
+date: 2023-05-01
+url: https://discourse.slicer.org/t/29228
+---
+
 # How can I view displacement field in 3D?
 
 **Topic ID**: 29228

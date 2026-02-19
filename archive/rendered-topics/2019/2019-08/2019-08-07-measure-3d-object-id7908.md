@@ -1,3 +1,10 @@
+---
+topic_id: 7908
+title: "Measure 3D Object"
+date: 2019-08-07
+url: https://discourse.slicer.org/t/7908
+---
+
 # measure 3D object
 
 **Topic ID**: 7908

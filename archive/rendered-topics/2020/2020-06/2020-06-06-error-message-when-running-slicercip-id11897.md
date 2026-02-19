@@ -1,3 +1,10 @@
+---
+topic_id: 11897
+title: "Error Message When Running Slicercip"
+date: 2020-06-06
+url: https://discourse.slicer.org/t/11897
+---
+
 # Error message when running slicerCIP
 
 **Topic ID**: 11897

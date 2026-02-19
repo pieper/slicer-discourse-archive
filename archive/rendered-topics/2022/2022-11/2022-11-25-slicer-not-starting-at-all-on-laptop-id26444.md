@@ -1,3 +1,10 @@
+---
+topic_id: 26444
+title: "Slicer Not Starting At All On Laptop"
+date: 2022-11-25
+url: https://discourse.slicer.org/t/26444
+---
+
 # Slicer not starting at all on laptop
 
 **Topic ID**: 26444

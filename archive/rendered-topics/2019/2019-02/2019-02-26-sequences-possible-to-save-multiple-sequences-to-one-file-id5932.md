@@ -1,3 +1,10 @@
+---
+topic_id: 5932
+title: "Sequences Possible To Save Multiple Sequences To One File"
+date: 2019-02-26
+url: https://discourse.slicer.org/t/5932
+---
+
 # [Sequences] Possible to save multiple sequences to one file?
 
 **Topic ID**: 5932

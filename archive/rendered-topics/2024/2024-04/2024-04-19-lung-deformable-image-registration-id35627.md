@@ -1,3 +1,10 @@
+---
+topic_id: 35627
+title: "Lung Deformable Image Registration"
+date: 2024-04-19
+url: https://discourse.slicer.org/t/35627
+---
+
 # Lung deformable image registration
 
 **Topic ID**: 35627

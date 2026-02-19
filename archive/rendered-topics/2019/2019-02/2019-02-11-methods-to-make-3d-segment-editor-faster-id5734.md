@@ -1,3 +1,10 @@
+---
+topic_id: 5734
+title: "Methods To Make 3D Segment Editor Faster"
+date: 2019-02-11
+url: https://discourse.slicer.org/t/5734
+---
+
 # Methods to Make 3D Segment Editor Faster
 
 **Topic ID**: 5734

@@ -1,3 +1,10 @@
+---
+topic_id: 14480
+title: "Save Reformatted Mri Planes"
+date: 2020-11-07
+url: https://discourse.slicer.org/t/14480
+---
+
 # Save reformatted MRI planes
 
 **Topic ID**: 14480

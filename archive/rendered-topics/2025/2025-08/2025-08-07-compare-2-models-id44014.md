@@ -1,3 +1,10 @@
+---
+topic_id: 44014
+title: "Compare 2 Models"
+date: 2025-08-07
+url: https://discourse.slicer.org/t/44014
+---
+
 # Compare 2 models
 
 **Topic ID**: 44014

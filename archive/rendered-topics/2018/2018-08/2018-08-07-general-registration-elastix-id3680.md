@@ -1,3 +1,10 @@
+---
+topic_id: 3680
+title: "General Registration Elastix"
+date: 2018-08-07
+url: https://discourse.slicer.org/t/3680
+---
+
 # General Registration Elastix
 
 **Topic ID**: 3680

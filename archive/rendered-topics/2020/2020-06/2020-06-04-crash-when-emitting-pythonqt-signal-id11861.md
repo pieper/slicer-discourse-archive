@@ -1,3 +1,10 @@
+---
+topic_id: 11861
+title: "Crash When Emitting Pythonqt Signal"
+date: 2020-06-04
+url: https://discourse.slicer.org/t/11861
+---
+
 # Crash when emitting PythonQt.Signal
 
 **Topic ID**: 11861

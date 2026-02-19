@@ -1,3 +1,10 @@
+---
+topic_id: 10782
+title: "Basic Questions On Cli Modules Vs Scripted Modules"
+date: 2020-03-22
+url: https://discourse.slicer.org/t/10782
+---
+
 # Basic questions on CLI modules vs Scripted Modules
 
 **Topic ID**: 10782

@@ -1,3 +1,10 @@
+---
+topic_id: 42687
+title: "Segmentation With Ellipse Shape"
+date: 2025-04-25
+url: https://discourse.slicer.org/t/42687
+---
+
 # Segmentation with ellipse shape
 
 **Topic ID**: 42687

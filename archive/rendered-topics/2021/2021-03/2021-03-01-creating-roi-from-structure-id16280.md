@@ -1,3 +1,10 @@
+---
+topic_id: 16280
+title: "Creating Roi From Structure"
+date: 2021-03-01
+url: https://discourse.slicer.org/t/16280
+---
+
 # Creating ROI from Structure
 
 **Topic ID**: 16280

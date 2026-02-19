@@ -1,3 +1,10 @@
+---
+topic_id: 26735
+title: "Offline Installation Of Totalsegmentator"
+date: 2022-12-14
+url: https://discourse.slicer.org/t/26735
+---
+
 # Offline installation of TotalSegmentator
 
 **Topic ID**: 26735

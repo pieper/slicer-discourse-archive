@@ -1,3 +1,10 @@
+---
+topic_id: 35019
+title: "Running A Python Script In Slicer"
+date: 2024-03-22
+url: https://discourse.slicer.org/t/35019
+---
+
 # Running a python script in slicer
 
 **Topic ID**: 35019

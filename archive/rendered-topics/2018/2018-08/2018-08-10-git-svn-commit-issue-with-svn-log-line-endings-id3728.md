@@ -1,3 +1,10 @@
+---
+topic_id: 3728
+title: "Git Svn Commit Issue With Svn Log Line Endings"
+date: 2018-08-10
+url: https://discourse.slicer.org/t/3728
+---
+
 # Git-svn commit issue with svn:log line endings
 
 **Topic ID**: 3728

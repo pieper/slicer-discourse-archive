@@ -1,3 +1,10 @@
+---
+topic_id: 20552
+title: "Standard Way Of Running Modules From The Command Line"
+date: 2021-11-09
+url: https://discourse.slicer.org/t/20552
+---
+
 # Standard way of running modules from the command line
 
 **Topic ID**: 20552

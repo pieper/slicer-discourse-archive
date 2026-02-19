@@ -1,3 +1,10 @@
+---
+topic_id: 2457
+title: "Trouble With Extension Manager"
+date: 2018-03-28
+url: https://discourse.slicer.org/t/2457
+---
+
 # Trouble with Extension Manager
 
 **Topic ID**: 2457

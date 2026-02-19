@@ -1,3 +1,10 @@
+---
+topic_id: 24784
+title: "Add A Custom Widget To A Layout"
+date: 2022-08-16
+url: https://discourse.slicer.org/t/24784
+---
+
 # Add a custom widget to a layout
 
 **Topic ID**: 24784

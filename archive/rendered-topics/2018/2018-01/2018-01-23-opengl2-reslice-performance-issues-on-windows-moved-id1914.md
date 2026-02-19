@@ -1,3 +1,10 @@
+---
+topic_id: 1914
+title: "Opengl2 Reslice Performance Issues On Windows Moved"
+date: 2018-01-23
+url: https://discourse.slicer.org/t/1914
+---
+
 # OpenGL2 reslice performance issues on windows (moved)
 
 **Topic ID**: 1914

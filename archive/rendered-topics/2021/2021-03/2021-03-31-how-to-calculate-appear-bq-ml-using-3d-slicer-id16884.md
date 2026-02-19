@@ -1,3 +1,10 @@
+---
+topic_id: 16884
+title: "How To Calculate Appear Bq Ml Using 3D Slicer"
+date: 2021-03-31
+url: https://discourse.slicer.org/t/16884
+---
+
 # How to Calculate/appear Bq/ml using 3D Slicer
 
 **Topic ID**: 16884

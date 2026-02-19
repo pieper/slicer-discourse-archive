@@ -1,3 +1,10 @@
+---
+topic_id: 35128
+title: "3D Vessel Bypass Surgical Planing"
+date: 2024-03-27
+url: https://discourse.slicer.org/t/35128
+---
+
 # 3d vessel bypass surgical planing
 
 **Topic ID**: 35128

@@ -1,3 +1,10 @@
+---
+topic_id: 30800
+title: "Can 3D Slicer Be Used For The Nominal 2D Picture Jpg Png Etc"
+date: 2023-07-26
+url: https://discourse.slicer.org/t/30800
+---
+
 # Can 3D Slicer be used for the nominal 2D picture (jpg/png etc..) label or annotation?
 
 **Topic ID**: 30800

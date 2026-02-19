@@ -1,3 +1,10 @@
+---
+topic_id: 4161
+title: "Profiling 3Dslicer"
+date: 2018-09-21
+url: https://discourse.slicer.org/t/4161
+---
+
 # Profiling 3DSlicer
 
 **Topic ID**: 4161

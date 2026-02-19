@@ -1,3 +1,10 @@
+---
+topic_id: 10066
+title: "Heads Up On Qt Changes In 2020"
+date: 2020-02-02
+url: https://discourse.slicer.org/t/10066
+---
+
 # Heads up on Qt changes in 2020
 
 **Topic ID**: 10066

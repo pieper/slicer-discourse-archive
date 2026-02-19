@@ -1,3 +1,10 @@
+---
+topic_id: 3825
+title: "Plusbuild Failed For Slicer 4 8 1"
+date: 2018-08-19
+url: https://discourse.slicer.org/t/3825
+---
+
 # PlusBuild failed for slicer 4.8.1
 
 **Topic ID**: 3825

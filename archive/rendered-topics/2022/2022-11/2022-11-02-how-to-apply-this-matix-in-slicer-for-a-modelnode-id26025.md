@@ -1,3 +1,10 @@
+---
+topic_id: 26025
+title: "How To Apply This Matix In Slicer For A Modelnode"
+date: 2022-11-02
+url: https://discourse.slicer.org/t/26025
+---
+
 # How to apply this matix in slicer for a modelNode
 
 **Topic ID**: 26025

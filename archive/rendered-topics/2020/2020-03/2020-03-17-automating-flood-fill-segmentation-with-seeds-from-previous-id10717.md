@@ -1,3 +1,10 @@
+---
+topic_id: 10717
+title: "Automating Flood Fill Segmentation With Seeds From Previous"
+date: 2020-03-17
+url: https://discourse.slicer.org/t/10717
+---
+
 # Automating "Flood Fill" segmentation with seeds from previous marker locations
 
 **Topic ID**: 10717

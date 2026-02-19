@@ -1,3 +1,10 @@
+---
+topic_id: 31174
+title: "How To Add Button On 2D Or 3D Window"
+date: 2023-08-16
+url: https://discourse.slicer.org/t/31174
+---
+
 # How to add button on 2d or 3d window?
 
 **Topic ID**: 31174

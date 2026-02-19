@@ -1,3 +1,10 @@
+---
+topic_id: 45298
+title: "New Extension Slicer Trame Bringing 3D Slicer To The Web"
+date: 2025-12-01
+url: https://discourse.slicer.org/t/45298
+---
+
 # New extension: Slicer-trame - Bringing 3D Slicer to the web
 
 **Topic ID**: 45298

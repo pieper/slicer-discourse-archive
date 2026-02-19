@@ -1,3 +1,10 @@
+---
+topic_id: 21761
+title: "How To Import Fiducials From Table"
+date: 2022-02-02
+url: https://discourse.slicer.org/t/21761
+---
+
 # How to import fiducials from table
 
 **Topic ID**: 21761

@@ -1,3 +1,10 @@
+---
+topic_id: 44491
+title: "I Cant Find Any Extensions In The Latest Version Of 3D Slice"
+date: 2025-09-16
+url: https://discourse.slicer.org/t/44491
+---
+
 # I can't find any extensions in the latest version of 3D slicer
 
 **Topic ID**: 44491

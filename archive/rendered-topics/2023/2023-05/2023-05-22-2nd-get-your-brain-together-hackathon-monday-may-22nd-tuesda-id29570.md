@@ -1,3 +1,10 @@
+---
+topic_id: 29570
+title: "2Nd Get Your Brain Together Hackathon Monday May 22Nd Tuesda"
+date: 2023-05-22
+url: https://discourse.slicer.org/t/29570
+---
+
 # 2nd Get Your Brain Together Hackathon | Monday, May 22nd - Tuesday, May 23, 2023 | Hybrid in-person and online event
 
 **Topic ID**: 29570

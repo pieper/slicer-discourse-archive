@@ -1,3 +1,10 @@
+---
+topic_id: 4038
+title: "Fiducial Registration Wizard"
+date: 2018-09-09
+url: https://discourse.slicer.org/t/4038
+---
+
 # Fiducial Registration wizard
 
 **Topic ID**: 4038

@@ -1,3 +1,10 @@
+---
+topic_id: 40666
+title: "Baffle Planner Limitation In Creating Multiple Baffles Simul"
+date: 2024-12-12
+url: https://discourse.slicer.org/t/40666
+---
+
 # Baffle Planner: Limitation in Creating Multiple Baffles Simultaneously
 
 **Topic ID**: 40666

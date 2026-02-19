@@ -1,3 +1,10 @@
+---
+topic_id: 30235
+title: "Airway Segmentation Is Working Fine On Sample Ct But Raises"
+date: 2023-06-26
+url: https://discourse.slicer.org/t/30235
+---
+
 # Airway Segmentation is working fine on sample CT but raises an error when running on my CT 
 
 **Topic ID**: 30235

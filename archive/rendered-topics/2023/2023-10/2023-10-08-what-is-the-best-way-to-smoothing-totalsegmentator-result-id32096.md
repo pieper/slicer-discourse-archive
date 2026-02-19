@@ -1,3 +1,10 @@
+---
+topic_id: 32096
+title: "What Is The Best Way To Smoothing Totalsegmentator Result"
+date: 2023-10-08
+url: https://discourse.slicer.org/t/32096
+---
+
 # What is the best way to smoothing TotalSegmentator result?
 
 **Topic ID**: 32096

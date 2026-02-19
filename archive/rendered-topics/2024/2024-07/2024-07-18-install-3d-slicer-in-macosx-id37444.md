@@ -1,3 +1,10 @@
+---
+topic_id: 37444
+title: "Install 3D Slicer In Macosx"
+date: 2024-07-18
+url: https://discourse.slicer.org/t/37444
+---
+
 # Install 3D Slicer in MacOSX
 
 **Topic ID**: 37444

@@ -1,3 +1,10 @@
+---
+topic_id: 23007
+title: "Grow From Seeds Creates Unwanted Regions"
+date: 2022-04-19
+url: https://discourse.slicer.org/t/23007
+---
+
 # Grow from seeds creates unwanted regions
 
 **Topic ID**: 23007

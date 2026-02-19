@@ -1,3 +1,10 @@
+---
+topic_id: 45965
+title: "Landmark Registration Overlay Not Showing Up"
+date: 2026-01-28
+url: https://discourse.slicer.org/t/45965
+---
+
 # Landmark registration overlay not showing up
 
 **Topic ID**: 45965

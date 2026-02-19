@@ -1,3 +1,10 @@
+---
+topic_id: 12174
+title: "Extract Images From Dicom"
+date: 2020-06-23
+url: https://discourse.slicer.org/t/12174
+---
+
 # Extract images from Dicom
 
 **Topic ID**: 12174

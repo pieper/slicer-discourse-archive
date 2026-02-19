@@ -1,3 +1,10 @@
+---
+topic_id: 15154
+title: "Export 3D View To Obj File"
+date: 2020-12-20
+url: https://discourse.slicer.org/t/15154
+---
+
 # Export 3D view to .obj file
 
 **Topic ID**: 15154

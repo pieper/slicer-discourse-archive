@@ -1,3 +1,10 @@
+---
+topic_id: 9368
+title: "Persist Directory Chosen"
+date: 2019-12-03
+url: https://discourse.slicer.org/t/9368
+---
+
 # Persist directory chosen
 
 **Topic ID**: 9368

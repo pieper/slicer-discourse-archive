@@ -1,3 +1,10 @@
+---
+topic_id: 12412
+title: "Calculate Angle Between Two Segments"
+date: 2020-07-07
+url: https://discourse.slicer.org/t/12412
+---
+
 # Calculate angle between two segments
 
 **Topic ID**: 12412

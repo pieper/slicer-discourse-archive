@@ -1,3 +1,10 @@
+---
+topic_id: 20352
+title: "Ndi Vega Tracking Stream Cant Locate Stylustoreference Trans"
+date: 2021-10-26
+url: https://discourse.slicer.org/t/20352
+---
+
 # NDI Vega tracking stream - Can't locate StylustoReference transform in Slicer
 
 **Topic ID**: 20352

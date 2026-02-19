@@ -1,3 +1,10 @@
+---
+topic_id: 4296
+title: "Xp Pen Artist 12 Pen Display For 3D Slicer"
+date: 2018-10-05
+url: https://discourse.slicer.org/t/4296
+---
+
 # XP-Pen Artist 12 Pen Display for 3D slicer  ?
 
 **Topic ID**: 4296

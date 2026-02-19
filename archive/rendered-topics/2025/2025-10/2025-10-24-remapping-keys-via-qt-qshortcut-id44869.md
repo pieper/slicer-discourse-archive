@@ -1,3 +1,10 @@
+---
+topic_id: 44869
+title: "Remapping Keys Via Qt Qshortcut"
+date: 2025-10-24
+url: https://discourse.slicer.org/t/44869
+---
+
 # Remapping keys via qt.QShortcut()
 
 **Topic ID**: 44869

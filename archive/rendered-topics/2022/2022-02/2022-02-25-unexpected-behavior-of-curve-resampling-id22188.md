@@ -1,3 +1,10 @@
+---
+topic_id: 22188
+title: "Unexpected Behavior Of Curve Resampling"
+date: 2022-02-25
+url: https://discourse.slicer.org/t/22188
+---
+
 # Unexpected behavior of curve resampling
 
 **Topic ID**: 22188

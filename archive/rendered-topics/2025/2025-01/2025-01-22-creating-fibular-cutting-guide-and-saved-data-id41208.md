@@ -1,3 +1,10 @@
+---
+topic_id: 41208
+title: "Creating Fibular Cutting Guide And Saved Data"
+date: 2025-01-22
+url: https://discourse.slicer.org/t/41208
+---
+
 # Creating fibular cutting guide and saved data
 
 **Topic ID**: 41208

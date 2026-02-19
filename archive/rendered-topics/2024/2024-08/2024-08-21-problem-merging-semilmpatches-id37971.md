@@ -1,3 +1,10 @@
+---
+topic_id: 37971
+title: "Problem Merging Semilmpatches"
+date: 2024-08-21
+url: https://discourse.slicer.org/t/37971
+---
+
 # Problem merging SemiLMPatches
 
 **Topic ID**: 37971

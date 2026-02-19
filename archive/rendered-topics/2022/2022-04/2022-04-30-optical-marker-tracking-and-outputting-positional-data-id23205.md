@@ -1,3 +1,10 @@
+---
+topic_id: 23205
+title: "Optical Marker Tracking And Outputting Positional Data"
+date: 2022-04-30
+url: https://discourse.slicer.org/t/23205
+---
+
 # Optical marker tracking and outputting positional data
 
 **Topic ID**: 23205

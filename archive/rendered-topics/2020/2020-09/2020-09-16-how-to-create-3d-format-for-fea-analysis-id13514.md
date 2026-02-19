@@ -1,3 +1,10 @@
+---
+topic_id: 13514
+title: "How To Create 3D Format For Fea Analysis"
+date: 2020-09-16
+url: https://discourse.slicer.org/t/13514
+---
+
 # How to create 3D format for FEA analysis
 
 **Topic ID**: 13514

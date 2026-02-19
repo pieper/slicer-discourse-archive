@@ -1,3 +1,10 @@
+---
+topic_id: 951
+title: "How To Export Voxel Intensity"
+date: 2017-08-26
+url: https://discourse.slicer.org/t/951
+---
+
 # How to export voxel intensity
 
 **Topic ID**: 951

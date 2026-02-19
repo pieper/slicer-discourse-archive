@@ -1,3 +1,10 @@
+---
+topic_id: 25859
+title: "Python Interactor New Features Load Script Recent Scripts"
+date: 2022-10-24
+url: https://discourse.slicer.org/t/25859
+---
+
 # Python interactor new features [load script, recent scripts]
 
 **Topic ID**: 25859

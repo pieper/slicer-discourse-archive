@@ -1,3 +1,10 @@
+---
+topic_id: 14212
+title: "Reloading A Loadable Module"
+date: 2020-10-23
+url: https://discourse.slicer.org/t/14212
+---
+
 # Reloading a loadable module
 
 **Topic ID**: 14212

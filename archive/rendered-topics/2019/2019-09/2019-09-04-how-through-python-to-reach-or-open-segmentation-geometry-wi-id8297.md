@@ -1,3 +1,10 @@
+---
+topic_id: 8297
+title: "How Through Python To Reach Or Open Segmentation Geometry Wi"
+date: 2019-09-04
+url: https://discourse.slicer.org/t/8297
+---
+
 # How, through python, to reach or open Segmentation-Geometry-Widget dialog or set up parameters before opening a dialog?
 
 **Topic ID**: 8297

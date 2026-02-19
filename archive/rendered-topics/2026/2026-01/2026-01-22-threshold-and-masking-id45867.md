@@ -1,3 +1,10 @@
+---
+topic_id: 45867
+title: "Threshold And Masking"
+date: 2026-01-22
+url: https://discourse.slicer.org/t/45867
+---
+
 # Threshold and masking
 
 **Topic ID**: 45867

@@ -1,3 +1,10 @@
+---
+topic_id: 13739
+title: "Segment Registration And Transformation"
+date: 2020-09-29
+url: https://discourse.slicer.org/t/13739
+---
+
 # Segment registration and transformation
 
 **Topic ID**: 13739

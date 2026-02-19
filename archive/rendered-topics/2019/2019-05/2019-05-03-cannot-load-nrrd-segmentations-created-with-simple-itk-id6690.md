@@ -1,3 +1,10 @@
+---
+topic_id: 6690
+title: "Cannot Load Nrrd Segmentations Created With Simple Itk"
+date: 2019-05-03
+url: https://discourse.slicer.org/t/6690
+---
+
 # Cannot load nrrd segmentations created with Simple ITK
 
 **Topic ID**: 6690

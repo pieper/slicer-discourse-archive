@@ -1,3 +1,10 @@
+---
+topic_id: 31958
+title: "What Is The Algorithm Applied To Curve Setting Option"
+date: 2023-09-29
+url: https://discourse.slicer.org/t/31958
+---
+
 # What is the algorithm applied to curve setting option?
 
 **Topic ID**: 31958

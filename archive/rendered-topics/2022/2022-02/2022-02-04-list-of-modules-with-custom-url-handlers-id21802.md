@@ -1,3 +1,10 @@
+---
+topic_id: 21802
+title: "List Of Modules With Custom Url Handlers"
+date: 2022-02-04
+url: https://discourse.slicer.org/t/21802
+---
+
 # List of modules with custom URL handlers
 
 **Topic ID**: 21802

@@ -1,3 +1,10 @@
+---
+topic_id: 8752
+title: "Slicermorph Using Cva Data"
+date: 2019-10-11
+url: https://discourse.slicer.org/t/8752
+---
+
 # SlicerMorph using CVA data?
 
 **Topic ID**: 8752

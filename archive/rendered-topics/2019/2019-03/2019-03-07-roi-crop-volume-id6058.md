@@ -1,3 +1,10 @@
+---
+topic_id: 6058
+title: "Roi Crop Volume"
+date: 2019-03-07
+url: https://discourse.slicer.org/t/6058
+---
+
 # ROI ,Crop volume
 
 **Topic ID**: 6058

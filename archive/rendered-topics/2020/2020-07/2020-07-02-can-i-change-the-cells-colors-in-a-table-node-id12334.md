@@ -1,3 +1,10 @@
+---
+topic_id: 12334
+title: "Can I Change The Cells Colors In A Table Node"
+date: 2020-07-02
+url: https://discourse.slicer.org/t/12334
+---
+
 # Can I change the cells colors in a table node?
 
 **Topic ID**: 12334

@@ -1,3 +1,10 @@
+---
+topic_id: 27900
+title: "Exporting Only One Plane Of The Reconstruction"
+date: 2023-02-18
+url: https://discourse.slicer.org/t/27900
+---
+
 # Exporting only one plane of the reconstruction
 
 **Topic ID**: 27900

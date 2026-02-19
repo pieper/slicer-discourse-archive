@@ -1,3 +1,10 @@
+---
+topic_id: 33709
+title: "Hide Filename From Screenshots"
+date: 2024-01-10
+url: https://discourse.slicer.org/t/33709
+---
+
 # Hide filename from screenshots
 
 **Topic ID**: 33709

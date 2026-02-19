@@ -1,3 +1,10 @@
+---
+topic_id: 23483
+title: "Virtual Occlusion"
+date: 2022-05-19
+url: https://discourse.slicer.org/t/23483
+---
+
 # Virtual occlusion
 
 **Topic ID**: 23483

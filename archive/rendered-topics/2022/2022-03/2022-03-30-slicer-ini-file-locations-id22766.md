@@ -1,3 +1,10 @@
+---
+topic_id: 22766
+title: "Slicer Ini File Locations"
+date: 2022-03-30
+url: https://discourse.slicer.org/t/22766
+---
+
 # Slicer ini file locations
 
 **Topic ID**: 22766

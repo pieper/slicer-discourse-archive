@@ -1,3 +1,10 @@
+---
+topic_id: 40534
+title: "How To Call Createnewroi And Cropvolume In Python Script"
+date: 2024-12-05
+url: https://discourse.slicer.org/t/40534
+---
+
 # How to call CreateNewROI and CropVolume in python script
 
 **Topic ID**: 40534

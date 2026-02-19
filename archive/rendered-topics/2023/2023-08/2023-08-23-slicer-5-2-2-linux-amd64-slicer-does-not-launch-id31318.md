@@ -1,3 +1,10 @@
+---
+topic_id: 31318
+title: "Slicer 5 2 2 Linux Amd64 Slicer Does Not Launch"
+date: 2023-08-23
+url: https://discourse.slicer.org/t/31318
+---
+
 # Slicer-5.2.2-linux-amd64/Slicer does not launch
 
 **Topic ID**: 31318

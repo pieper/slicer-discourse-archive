@@ -1,3 +1,10 @@
+---
+topic_id: 26161
+title: "Monai Label Cuda Out Of Memory"
+date: 2022-11-09
+url: https://discourse.slicer.org/t/26161
+---
+
 # Monai label. CUDA out of memory
 
 **Topic ID**: 26161

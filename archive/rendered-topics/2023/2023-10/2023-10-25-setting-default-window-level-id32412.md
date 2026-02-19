@@ -1,3 +1,10 @@
+---
+topic_id: 32412
+title: "Setting Default Window Level"
+date: 2023-10-25
+url: https://discourse.slicer.org/t/32412
+---
+
 # Setting default window/level?
 
 **Topic ID**: 32412

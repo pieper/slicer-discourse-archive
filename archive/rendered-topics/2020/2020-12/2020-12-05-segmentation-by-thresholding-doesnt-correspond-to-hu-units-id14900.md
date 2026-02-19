@@ -1,3 +1,10 @@
+---
+topic_id: 14900
+title: "Segmentation By Thresholding Doesnt Correspond To Hu Units"
+date: 2020-12-05
+url: https://discourse.slicer.org/t/14900
+---
+
 # Segmentation by thresholding doesnt correspond to HU units
 
 **Topic ID**: 14900

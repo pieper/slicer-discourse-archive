@@ -1,3 +1,10 @@
+---
+topic_id: 14446
+title: "Pedicle Screw Simulator Bugs"
+date: 2020-11-05
+url: https://discourse.slicer.org/t/14446
+---
+
 # Pedicle Screw Simulator bugs
 
 **Topic ID**: 14446

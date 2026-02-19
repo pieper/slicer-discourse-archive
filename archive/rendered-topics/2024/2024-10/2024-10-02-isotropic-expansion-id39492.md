@@ -1,3 +1,10 @@
+---
+topic_id: 39492
+title: "Isotropic Expansion"
+date: 2024-10-02
+url: https://discourse.slicer.org/t/39492
+---
+
 # isotropic expansion
 
 **Topic ID**: 39492

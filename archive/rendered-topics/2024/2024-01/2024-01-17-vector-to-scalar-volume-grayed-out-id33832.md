@@ -1,3 +1,10 @@
+---
+topic_id: 33832
+title: "Vector To Scalar Volume Grayed Out"
+date: 2024-01-17
+url: https://discourse.slicer.org/t/33832
+---
+
 # Vector to scalar volume grayed out
 
 **Topic ID**: 33832

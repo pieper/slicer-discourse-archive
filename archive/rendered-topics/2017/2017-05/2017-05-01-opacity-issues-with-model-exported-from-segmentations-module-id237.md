@@ -1,3 +1,10 @@
+---
+topic_id: 237
+title: "Opacity Issues With Model Exported From Segmentations Module"
+date: 2017-05-01
+url: https://discourse.slicer.org/t/237
+---
+
 # Opacity issues with model exported from segmentations module
 
 **Topic ID**: 237

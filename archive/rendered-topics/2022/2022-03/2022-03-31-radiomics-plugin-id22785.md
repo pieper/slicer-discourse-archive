@@ -1,3 +1,10 @@
+---
+topic_id: 22785
+title: "Radiomics Plugin"
+date: 2022-03-31
+url: https://discourse.slicer.org/t/22785
+---
+
 # Radiomics Plugin
 
 **Topic ID**: 22785

@@ -1,3 +1,10 @@
+---
+topic_id: 34354
+title: "3D Lung Vessels Model"
+date: 2024-02-16
+url: https://discourse.slicer.org/t/34354
+---
+
 # 3d lung vessels model
 
 **Topic ID**: 34354

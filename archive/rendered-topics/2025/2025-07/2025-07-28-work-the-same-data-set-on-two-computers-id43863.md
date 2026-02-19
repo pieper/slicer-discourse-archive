@@ -1,3 +1,10 @@
+---
+topic_id: 43863
+title: "Work The Same Data Set On Two Computers"
+date: 2025-07-28
+url: https://discourse.slicer.org/t/43863
+---
+
 # Work the same data set on two computers
 
 **Topic ID**: 43863

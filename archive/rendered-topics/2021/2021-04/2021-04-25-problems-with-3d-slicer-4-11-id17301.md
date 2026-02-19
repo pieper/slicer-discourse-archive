@@ -1,3 +1,10 @@
+---
+topic_id: 17301
+title: "Problems With 3D Slicer 4 11"
+date: 2021-04-25
+url: https://discourse.slicer.org/t/17301
+---
+
 # Problems with 3D slicer 4.11
 
 **Topic ID**: 17301

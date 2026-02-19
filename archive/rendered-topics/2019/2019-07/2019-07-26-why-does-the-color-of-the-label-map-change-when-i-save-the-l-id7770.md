@@ -1,3 +1,10 @@
+---
+topic_id: 7770
+title: "Why Does The Color Of The Label Map Change When I Save The L"
+date: 2019-07-26
+url: https://discourse.slicer.org/t/7770
+---
+
 # Why does the color of the label map change when I save the label map?
 
 **Topic ID**: 7770

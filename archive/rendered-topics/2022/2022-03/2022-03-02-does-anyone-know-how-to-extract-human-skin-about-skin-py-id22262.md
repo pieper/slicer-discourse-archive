@@ -1,3 +1,10 @@
+---
+topic_id: 22262
+title: "Does Anyone Know How To Extract Human Skin About Skin Py"
+date: 2022-03-02
+url: https://discourse.slicer.org/t/22262
+---
+
 # Does anyone know how to extract human skin?(about skin.py)
 
 **Topic ID**: 22262

@@ -1,3 +1,10 @@
+---
+topic_id: 40209
+title: "What Is The Best Way To Segment Renal Arteries To An Interlo"
+date: 2024-11-15
+url: https://discourse.slicer.org/t/40209
+---
+
 # What is the best way to segment renal arteries to an interlobar level?
 
 **Topic ID**: 40209

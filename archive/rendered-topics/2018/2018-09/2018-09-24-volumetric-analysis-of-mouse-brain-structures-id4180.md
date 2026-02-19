@@ -1,3 +1,10 @@
+---
+topic_id: 4180
+title: "Volumetric Analysis Of Mouse Brain Structures"
+date: 2018-09-24
+url: https://discourse.slicer.org/t/4180
+---
+
 # volumetric analysis of mouse brain structures 
 
 **Topic ID**: 4180

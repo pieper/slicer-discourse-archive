@@ -1,3 +1,10 @@
+---
+topic_id: 16294
+title: "Unable To View Vtk File In Slicer"
+date: 2021-03-01
+url: https://discourse.slicer.org/t/16294
+---
+
 # Unable to view vtk file in slicer
 
 **Topic ID**: 16294

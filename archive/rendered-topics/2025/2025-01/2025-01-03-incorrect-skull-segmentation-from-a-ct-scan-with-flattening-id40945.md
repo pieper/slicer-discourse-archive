@@ -1,3 +1,10 @@
+---
+topic_id: 40945
+title: "Incorrect Skull Segmentation From A Ct Scan With Flattening"
+date: 2025-01-03
+url: https://discourse.slicer.org/t/40945
+---
+
 # Incorrect skull segmentation from a CT scan, with flattening distortion
 
 **Topic ID**: 40945

@@ -1,3 +1,10 @@
+---
+topic_id: 24551
+title: "Import Of 3Dus Image And Contour Propagation"
+date: 2022-07-28
+url: https://discourse.slicer.org/t/24551
+---
+
 # Import of 3DUS image and contour propagation
 
 **Topic ID**: 24551

@@ -1,3 +1,10 @@
+---
+topic_id: 21225
+title: "Whole Brain Automate Segmentation"
+date: 2021-12-27
+url: https://discourse.slicer.org/t/21225
+---
+
 # Whole brain automate segmentation
 
 **Topic ID**: 21225

@@ -1,3 +1,10 @@
+---
+topic_id: 5519
+title: "Dscmrianalysis Extension Issue"
+date: 2019-01-25
+url: https://discourse.slicer.org/t/5519
+---
+
 # DSCMRIAnalysis extension issue
 
 **Topic ID**: 5519

@@ -1,3 +1,10 @@
+---
+topic_id: 22977
+title: "Setting Segmentation In Segmenteditor Without Changing Volum"
+date: 2022-04-15
+url: https://discourse.slicer.org/t/22977
+---
+
 # Setting segmentation in SegmentEditor without changing volumes in slice views
 
 **Topic ID**: 22977

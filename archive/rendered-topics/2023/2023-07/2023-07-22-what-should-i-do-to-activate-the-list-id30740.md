@@ -1,3 +1,10 @@
+---
+topic_id: 30740
+title: "What Should I Do To Activate The List"
+date: 2023-07-22
+url: https://discourse.slicer.org/t/30740
+---
+
 # What should I do to activate the list?
 
 **Topic ID**: 30740

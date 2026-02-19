@@ -1,3 +1,10 @@
+---
+topic_id: 37626
+title: "How To Add And Edit Module"
+date: 2024-07-30
+url: https://discourse.slicer.org/t/37626
+---
+
 # How to add and edit module
 
 **Topic ID**: 37626

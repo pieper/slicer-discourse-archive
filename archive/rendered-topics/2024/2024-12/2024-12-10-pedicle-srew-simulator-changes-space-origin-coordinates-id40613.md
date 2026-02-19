@@ -1,3 +1,10 @@
+---
+topic_id: 40613
+title: "Pedicle Srew Simulator Changes Space Origin Coordinates"
+date: 2024-12-10
+url: https://discourse.slicer.org/t/40613
+---
+
 # Pedicle Srew Simulator changes space origin coordinates
 
 **Topic ID**: 40613

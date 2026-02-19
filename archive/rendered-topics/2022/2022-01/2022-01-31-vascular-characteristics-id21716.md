@@ -1,3 +1,10 @@
+---
+topic_id: 21716
+title: "Vascular Characteristics"
+date: 2022-01-31
+url: https://discourse.slicer.org/t/21716
+---
+
 # vascular characteristics 
 
 **Topic ID**: 21716

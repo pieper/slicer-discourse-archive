@@ -1,3 +1,10 @@
+---
+topic_id: 25760
+title: "Which Difference Between Direction Matrices In Vtkimagedata"
+date: 2022-10-18
+url: https://discourse.slicer.org/t/25760
+---
+
 # Which difference between Direction Matrices in vtkImageData and vtkMRMLScalarVolumeNode?
 
 **Topic ID**: 25760

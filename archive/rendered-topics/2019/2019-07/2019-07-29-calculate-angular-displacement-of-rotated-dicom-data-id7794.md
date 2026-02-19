@@ -1,3 +1,10 @@
+---
+topic_id: 7794
+title: "Calculate Angular Displacement Of Rotated Dicom Data"
+date: 2019-07-29
+url: https://discourse.slicer.org/t/7794
+---
+
 # Calculate angular displacement of rotated DICOM data
 
 **Topic ID**: 7794

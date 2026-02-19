@@ -1,3 +1,10 @@
+---
+topic_id: 13003
+title: "Dropdown Menus Spawn On Other Monitor"
+date: 2020-08-14
+url: https://discourse.slicer.org/t/13003
+---
+
 # Dropdown menus spawn on other monitor
 
 **Topic ID**: 13003

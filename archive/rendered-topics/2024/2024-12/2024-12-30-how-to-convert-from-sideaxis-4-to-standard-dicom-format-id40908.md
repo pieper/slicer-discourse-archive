@@ -1,3 +1,10 @@
+---
+topic_id: 40908
+title: "How To Convert From Sideaxis 4 To Standard Dicom Format"
+date: 2024-12-30
+url: https://discourse.slicer.org/t/40908
+---
+
 # how to convert from sideaxis-4 to standard DICOM format
 
 **Topic ID**: 40908

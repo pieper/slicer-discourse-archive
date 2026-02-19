@@ -1,3 +1,10 @@
+---
+topic_id: 11961
+title: "Curve Label Name In 3D View"
+date: 2020-06-09
+url: https://discourse.slicer.org/t/11961
+---
+
 # Curve label name in 3D view?
 
 **Topic ID**: 11961

@@ -1,3 +1,10 @@
+---
+topic_id: 22916
+title: "Eagle Ct Data Set How To Improve Ct Resolution Preferred Ct"
+date: 2022-04-11
+url: https://discourse.slicer.org/t/22916
+---
+
 # Eagle CT data set-how to improve CT resolution_ Preferred CT settings
 
 **Topic ID**: 22916

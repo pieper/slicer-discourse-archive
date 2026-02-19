@@ -1,3 +1,10 @@
+---
+topic_id: 13158
+title: "Vtkmrmlannotationroinode Instantiation Before Changing Inter"
+date: 2020-08-25
+url: https://discourse.slicer.org/t/13158
+---
+
 # vtkMRMLAnnotationROINode instantiation before changing Interaction Mode
 
 **Topic ID**: 13158

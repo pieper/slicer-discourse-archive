@@ -1,3 +1,10 @@
+---
+topic_id: 28020
+title: "Centerline Parameters Export"
+date: 2023-02-23
+url: https://discourse.slicer.org/t/28020
+---
+
 # Centerline Parameters Export
 
 **Topic ID**: 28020

@@ -1,3 +1,10 @@
+---
+topic_id: 32280
+title: "License Badge In 3D Slicer And Related Repositories Readme F"
+date: 2023-10-17
+url: https://discourse.slicer.org/t/32280
+---
+
 # License badge in 3D Slicer and related repositories `README` files
 
 **Topic ID**: 32280

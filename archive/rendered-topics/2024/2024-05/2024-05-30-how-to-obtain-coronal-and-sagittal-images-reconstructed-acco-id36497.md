@@ -1,3 +1,10 @@
+---
+topic_id: 36497
+title: "How To Obtain Coronal And Sagittal Images Reconstructed Acco"
+date: 2024-05-30
+url: https://discourse.slicer.org/t/36497
+---
+
 # How to obtain coronal and sagittal images reconstructed according to certain layer thickness and layer spacing from the volume data of transverse axis
 
 **Topic ID**: 36497

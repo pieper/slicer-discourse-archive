@@ -1,3 +1,10 @@
+---
+topic_id: 13208
+title: "Alpaca Module Doesnt Correctly Register Models Of Different"
+date: 2020-08-28
+url: https://discourse.slicer.org/t/13208
+---
+
 # ALPACA module doesn't correctly register models of different size
 
 **Topic ID**: 13208

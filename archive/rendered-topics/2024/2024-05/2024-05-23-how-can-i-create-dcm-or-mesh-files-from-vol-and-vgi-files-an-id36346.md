@@ -1,3 +1,10 @@
+---
+topic_id: 36346
+title: "How Can I Create Dcm Or Mesh Files From Vol And Vgi Files An"
+date: 2024-05-23
+url: https://discourse.slicer.org/t/36346
+---
+
 # How can I create dcm (or mesh) files from .vol and vgi files and .raw?
 
 **Topic ID**: 36346

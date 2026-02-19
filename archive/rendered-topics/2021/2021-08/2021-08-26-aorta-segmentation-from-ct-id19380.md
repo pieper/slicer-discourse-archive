@@ -1,3 +1,10 @@
+---
+topic_id: 19380
+title: "Aorta Segmentation From Ct"
+date: 2021-08-26
+url: https://discourse.slicer.org/t/19380
+---
+
 # Aorta segmentation from CT
 
 **Topic ID**: 19380

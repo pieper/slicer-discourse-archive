@@ -1,3 +1,10 @@
+---
+topic_id: 22692
+title: "Loading Dicom Seg Imports Referenced Scalar Volume And First"
+date: 2022-03-26
+url: https://discourse.slicer.org/t/22692
+---
+
 # Loading DICOM SEG imports referenced scalar volume and first slice of referenced series
 
 **Topic ID**: 22692

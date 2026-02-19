@@ -1,3 +1,10 @@
+---
+topic_id: 34665
+title: "File Save Behavior Query Tiff Files Auto Selecting On Second"
+date: 2024-03-03
+url: https://discourse.slicer.org/t/34665
+---
+
 # File Save Behavior Query: TIFF Files Auto-Selecting on Second Save
 
 **Topic ID**: 34665

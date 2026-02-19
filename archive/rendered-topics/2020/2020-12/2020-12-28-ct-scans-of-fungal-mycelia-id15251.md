@@ -1,3 +1,10 @@
+---
+topic_id: 15251
+title: "Ct Scans Of Fungal Mycelia"
+date: 2020-12-28
+url: https://discourse.slicer.org/t/15251
+---
+
 # CT Scans of fungal mycelia
 
 **Topic ID**: 15251

@@ -1,3 +1,10 @@
+---
+topic_id: 6765
+title: "Does The Intensity Range Mean The Hounsfield Unit On Ct Dico"
+date: 2019-05-12
+url: https://discourse.slicer.org/t/6765
+---
+
 # Does the " intensity range" mean the "Hounsfield unit" on CT dicom image?
 
 **Topic ID**: 6765

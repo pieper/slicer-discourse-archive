@@ -1,3 +1,10 @@
+---
+topic_id: 21291
+title: "Hide Main Window Slicer Logo"
+date: 2021-12-31
+url: https://discourse.slicer.org/t/21291
+---
+
 # Hide main window slicer logo
 
 **Topic ID**: 21291

@@ -1,3 +1,10 @@
+---
+topic_id: 11169
+title: "Volume Cropping From Scripted Module"
+date: 2020-04-17
+url: https://discourse.slicer.org/t/11169
+---
+
 # Volume Cropping from Scripted Module
 
 **Topic ID**: 11169

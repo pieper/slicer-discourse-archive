@@ -1,3 +1,10 @@
+---
+topic_id: 3150
+title: "Running Statistical Shape Analysis After Spharm Pdm"
+date: 2018-06-12
+url: https://discourse.slicer.org/t/3150
+---
+
 # Running statistical shape analysis after SPHARM-PDM
 
 **Topic ID**: 3150

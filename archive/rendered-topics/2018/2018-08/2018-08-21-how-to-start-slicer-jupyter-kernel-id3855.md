@@ -1,3 +1,10 @@
+---
+topic_id: 3855
+title: "How To Start Slicer Jupyter Kernel"
+date: 2018-08-21
+url: https://discourse.slicer.org/t/3855
+---
+
 # How to start Slicer Jupyter kernel?
 
 **Topic ID**: 3855

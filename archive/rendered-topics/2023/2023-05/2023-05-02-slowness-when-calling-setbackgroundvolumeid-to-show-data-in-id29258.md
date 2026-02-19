@@ -1,3 +1,10 @@
+---
+topic_id: 29258
+title: "Slowness When Calling Setbackgroundvolumeid To Show Data In"
+date: 2023-05-02
+url: https://discourse.slicer.org/t/29258
+---
+
 # Slowness when calling SetBackgroundVolumeID() to show data in Yellow slice view
 
 **Topic ID**: 29258

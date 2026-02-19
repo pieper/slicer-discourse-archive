@@ -1,3 +1,10 @@
+---
+topic_id: 24894
+title: "Cant Access Markupfiduciallist Control Points"
+date: 2022-08-23
+url: https://discourse.slicer.org/t/24894
+---
+
 # Can't access MarkupFiducialList control points
 
 **Topic ID**: 24894

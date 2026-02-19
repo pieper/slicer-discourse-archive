@@ -1,3 +1,10 @@
+---
+topic_id: 22583
+title: "Export Rt Structure"
+date: 2022-03-18
+url: https://discourse.slicer.org/t/22583
+---
+
 # Export RT Structure
 
 **Topic ID**: 22583

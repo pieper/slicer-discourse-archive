@@ -1,3 +1,10 @@
+---
+topic_id: 12356
+title: "New Module Finder For Selecting Modules"
+date: 2020-07-03
+url: https://discourse.slicer.org/t/12356
+---
+
 # New module finder for selecting modules
 
 **Topic ID**: 12356

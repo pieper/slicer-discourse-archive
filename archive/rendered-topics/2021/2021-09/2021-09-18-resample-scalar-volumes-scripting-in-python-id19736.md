@@ -1,3 +1,10 @@
+---
+topic_id: 19736
+title: "Resample Scalar Volumes Scripting In Python"
+date: 2021-09-18
+url: https://discourse.slicer.org/t/19736
+---
+
 # Resample Scalar Volumes - Scripting in Python
 
 **Topic ID**: 19736

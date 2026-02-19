@@ -1,3 +1,10 @@
+---
+topic_id: 11673
+title: "Importing Custom Python Module Into Scripted Extension"
+date: 2020-05-23
+url: https://discourse.slicer.org/t/11673
+---
+
 # Importing custom python module into scripted extension
 
 **Topic ID**: 11673

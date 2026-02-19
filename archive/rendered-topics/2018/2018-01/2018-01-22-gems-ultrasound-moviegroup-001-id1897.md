@@ -1,3 +1,10 @@
+---
+topic_id: 1897
+title: "Gems Ultrasound Moviegroup 001"
+date: 2018-01-22
+url: https://discourse.slicer.org/t/1897
+---
+
 # GEMS_Ultrasound_MovieGroup_001
 
 **Topic ID**: 1897

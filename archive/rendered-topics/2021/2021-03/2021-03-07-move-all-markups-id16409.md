@@ -1,3 +1,10 @@
+---
+topic_id: 16409
+title: "Move All Markups"
+date: 2021-03-07
+url: https://discourse.slicer.org/t/16409
+---
+
 # Move all Markups
 
 **Topic ID**: 16409

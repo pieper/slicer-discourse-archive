@@ -1,3 +1,10 @@
+---
+topic_id: 7421
+title: "Quality Of Registration"
+date: 2019-07-04
+url: https://discourse.slicer.org/t/7421
+---
+
 # Quality of registration
 
 **Topic ID**: 7421

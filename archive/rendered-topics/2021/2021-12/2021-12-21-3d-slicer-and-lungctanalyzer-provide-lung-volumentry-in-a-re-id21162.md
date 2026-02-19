@@ -1,3 +1,10 @@
+---
+topic_id: 21162
+title: "3D Slicer And Lungctanalyzer Provide Lung Volumentry In A Re"
+date: 2021-12-21
+url: https://discourse.slicer.org/t/21162
+---
+
 # 3D Slicer and LungCTAnalyzer provide lung volumentry in a recent SARS-COVID-2 trial  
 
 **Topic ID**: 21162

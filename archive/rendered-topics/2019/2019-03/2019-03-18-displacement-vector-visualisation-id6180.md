@@ -1,3 +1,10 @@
+---
+topic_id: 6180
+title: "Displacement Vector Visualisation"
+date: 2019-03-18
+url: https://discourse.slicer.org/t/6180
+---
+
 # Displacement Vector Visualisation
 
 **Topic ID**: 6180

@@ -1,3 +1,10 @@
+---
+topic_id: 41153
+title: "Paint With Round Brush"
+date: 2025-01-19
+url: https://discourse.slicer.org/t/41153
+---
+
 # Paint with round brush
 
 **Topic ID**: 41153

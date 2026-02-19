@@ -1,3 +1,10 @@
+---
+topic_id: 23457
+title: "2D Image Segmentation Radiomic Feature Generator"
+date: 2022-05-17
+url: https://discourse.slicer.org/t/23457
+---
+
 # 2d image segmentation radiomic feature generator 
 
 **Topic ID**: 23457

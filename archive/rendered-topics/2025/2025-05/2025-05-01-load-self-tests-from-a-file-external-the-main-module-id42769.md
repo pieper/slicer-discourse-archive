@@ -1,3 +1,10 @@
+---
+topic_id: 42769
+title: "Load Self Tests From A File External The Main Module"
+date: 2025-05-01
+url: https://discourse.slicer.org/t/42769
+---
+
 # Load self tests from a file external the main module
 
 **Topic ID**: 42769

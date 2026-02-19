@@ -1,3 +1,10 @@
+---
+topic_id: 23270
+title: "Volume Has Gz Archive Files"
+date: 2022-05-03
+url: https://discourse.slicer.org/t/23270
+---
+
 # volume has Gz archive files
 
 **Topic ID**: 23270

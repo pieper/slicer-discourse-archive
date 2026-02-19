@@ -1,3 +1,10 @@
+---
+topic_id: 9750
+title: "Volumerendering Asks For Help Can Roi Be Cut Backwards"
+date: 2020-01-09
+url: https://discourse.slicer.org/t/9750
+---
+
 # Volumerendering asks for help: can roi be cut backwards? 
 
 **Topic ID**: 9750

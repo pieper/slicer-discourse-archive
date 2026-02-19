@@ -1,3 +1,10 @@
+---
+topic_id: 27820
+title: "Image Registration Microct Image To Stl File"
+date: 2023-02-15
+url: https://discourse.slicer.org/t/27820
+---
+
 # Image Registration microCT image to STL file 
 
 **Topic ID**: 27820

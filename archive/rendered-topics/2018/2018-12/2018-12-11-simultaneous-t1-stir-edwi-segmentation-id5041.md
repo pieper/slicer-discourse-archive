@@ -1,3 +1,10 @@
+---
+topic_id: 5041
+title: "Simultaneous T1 Stir Edwi Segmentation"
+date: 2018-12-11
+url: https://discourse.slicer.org/t/5041
+---
+
 # Simultaneous T1 STIR eDWI segmentation
 
 **Topic ID**: 5041

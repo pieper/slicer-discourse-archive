@@ -1,3 +1,10 @@
+---
+topic_id: 4819
+title: "Operation Too Slow Less Than 1 Bytes Sec Transferred The Las"
+date: 2018-11-20
+url: https://discourse.slicer.org/t/4819
+---
+
 # "Operation too slow. Less than 1 bytes/sec transferred the last 120 seconds"
 
 **Topic ID**: 4819

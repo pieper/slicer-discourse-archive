@@ -1,3 +1,10 @@
+---
+topic_id: 22671
+title: "Creating A Single Mha Volume From Slices"
+date: 2022-03-24
+url: https://discourse.slicer.org/t/22671
+---
+
 # Creating a single .mha volume from slices
 
 **Topic ID**: 22671

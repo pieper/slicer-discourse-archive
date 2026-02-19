@@ -1,3 +1,10 @@
+---
+topic_id: 41339
+title: "C P Segmentation"
+date: 2025-01-28
+url: https://discourse.slicer.org/t/41339
+---
+
 # C/p segmentation
 
 **Topic ID**: 41339

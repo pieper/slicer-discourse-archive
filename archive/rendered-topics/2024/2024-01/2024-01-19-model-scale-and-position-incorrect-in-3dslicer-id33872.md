@@ -1,3 +1,10 @@
+---
+topic_id: 33872
+title: "Model Scale And Position Incorrect In 3Dslicer"
+date: 2024-01-19
+url: https://discourse.slicer.org/t/33872
+---
+
 # Model Scale and Position Incorrect in 3DSlicer
 
 **Topic ID**: 33872

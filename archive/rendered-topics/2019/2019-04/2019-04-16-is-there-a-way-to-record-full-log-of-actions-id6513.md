@@ -1,3 +1,10 @@
+---
+topic_id: 6513
+title: "Is There A Way To Record Full Log Of Actions"
+date: 2019-04-16
+url: https://discourse.slicer.org/t/6513
+---
+
 # Is there a way to record full log of actions?
 
 **Topic ID**: 6513

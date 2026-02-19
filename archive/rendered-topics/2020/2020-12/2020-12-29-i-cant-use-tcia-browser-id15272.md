@@ -1,3 +1,10 @@
+---
+topic_id: 15272
+title: "I Cant Use Tcia Browser"
+date: 2020-12-29
+url: https://discourse.slicer.org/t/15272
+---
+
 # I can't use TCIA BROWSER
 
 **Topic ID**: 15272

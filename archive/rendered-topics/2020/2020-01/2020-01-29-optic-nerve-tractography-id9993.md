@@ -1,3 +1,10 @@
+---
+topic_id: 9993
+title: "Optic Nerve Tractography"
+date: 2020-01-29
+url: https://discourse.slicer.org/t/9993
+---
+
 # Optic Nerve tractography
 
 **Topic ID**: 9993

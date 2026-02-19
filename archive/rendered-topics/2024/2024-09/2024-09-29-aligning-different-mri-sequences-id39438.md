@@ -1,3 +1,10 @@
+---
+topic_id: 39438
+title: "Aligning Different Mri Sequences"
+date: 2024-09-29
+url: https://discourse.slicer.org/t/39438
+---
+
 # Aligning different MRI sequences
 
 **Topic ID**: 39438

@@ -1,3 +1,10 @@
+---
+topic_id: 36793
+title: "Easing Users Communication With Developers"
+date: 2024-06-14
+url: https://discourse.slicer.org/t/36793
+---
+
 # Easing users communication with developers
 
 **Topic ID**: 36793

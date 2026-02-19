@@ -1,3 +1,10 @@
+---
+topic_id: 10410
+title: "How To Make Rtbeamnode Or Volumenode Sensitive To Patient Su"
+date: 2020-02-24
+url: https://discourse.slicer.org/t/10410
+---
+
 # How to make RTBeamNode or VolumeNode sensitive to patient support rotation from UI?
 
 **Topic ID**: 10410

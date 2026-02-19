@@ -1,3 +1,10 @@
+---
+topic_id: 20510
+title: "Problem With Slicerrt In Slicer Version 4 11 20210226 R29738"
+date: 2021-11-07
+url: https://discourse.slicer.org/t/20510
+---
+
 # Problem with SlicerRT in Slicer version 4.11.20210226 r29738 / 7a593c8
 
 **Topic ID**: 20510

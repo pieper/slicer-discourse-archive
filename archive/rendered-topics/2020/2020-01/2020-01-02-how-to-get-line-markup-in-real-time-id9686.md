@@ -1,3 +1,10 @@
+---
+topic_id: 9686
+title: "How To Get Line Markup In Real Time"
+date: 2020-01-02
+url: https://discourse.slicer.org/t/9686
+---
+
 # How to get line markup in real time?
 
 **Topic ID**: 9686

@@ -1,3 +1,10 @@
+---
+topic_id: 24149
+title: "How To Import The Corresponding Nii Label After Importing Ni"
+date: 2022-07-01
+url: https://discourse.slicer.org/t/24149
+---
+
 # How to import the corresponding NII label after importing NII data
 
 **Topic ID**: 24149

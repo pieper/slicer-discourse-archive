@@ -1,3 +1,10 @@
+---
+topic_id: 33235
+title: "Slicer Shows White Screen At Startup"
+date: 2023-12-05
+url: https://discourse.slicer.org/t/33235
+---
+
 # Slicer shows white screen at startup
 
 **Topic ID**: 33235

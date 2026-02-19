@@ -1,3 +1,10 @@
+---
+topic_id: 42484
+title: "I Want To Increase The Thickness Height Of This Slice For 3D"
+date: 2025-04-08
+url: https://discourse.slicer.org/t/42484
+---
+
 # I want to increase the thickness / height of this slice for 3d printing and also i want to reduce the file , the file size is 79mb , i want 20mb
 
 **Topic ID**: 42484

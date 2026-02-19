@@ -1,3 +1,10 @@
+---
+topic_id: 19581
+title: "New Feature Maximize View"
+date: 2021-09-08
+url: https://discourse.slicer.org/t/19581
+---
+
 # New feature: maximize view
 
 **Topic ID**: 19581

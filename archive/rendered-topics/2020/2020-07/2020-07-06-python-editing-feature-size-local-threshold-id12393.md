@@ -1,3 +1,10 @@
+---
+topic_id: 12393
+title: "Python Editing Feature Size Local Threshold"
+date: 2020-07-06
+url: https://discourse.slicer.org/t/12393
+---
+
 # Python - Editing Feature Size Local Threshold
 
 **Topic ID**: 12393

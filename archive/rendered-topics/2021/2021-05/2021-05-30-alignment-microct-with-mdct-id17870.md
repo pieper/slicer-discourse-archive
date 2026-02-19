@@ -1,3 +1,10 @@
+---
+topic_id: 17870
+title: "Alignment Microct With Mdct"
+date: 2021-05-30
+url: https://discourse.slicer.org/t/17870
+---
+
 # Alignment microCT with MDCT
 
 **Topic ID**: 17870

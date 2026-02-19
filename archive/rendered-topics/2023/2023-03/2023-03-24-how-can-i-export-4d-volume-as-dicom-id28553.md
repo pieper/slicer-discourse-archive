@@ -1,3 +1,10 @@
+---
+topic_id: 28553
+title: "How Can I Export 4D Volume As Dicom"
+date: 2023-03-24
+url: https://discourse.slicer.org/t/28553
+---
+
 # How can I export 4D volume as DICOM?
 
 **Topic ID**: 28553

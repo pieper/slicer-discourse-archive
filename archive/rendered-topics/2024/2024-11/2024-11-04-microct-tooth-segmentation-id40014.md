@@ -1,3 +1,10 @@
+---
+topic_id: 40014
+title: "Microct Tooth Segmentation"
+date: 2024-11-04
+url: https://discourse.slicer.org/t/40014
+---
+
 # MicroCT tooth segmentation
 
 **Topic ID**: 40014

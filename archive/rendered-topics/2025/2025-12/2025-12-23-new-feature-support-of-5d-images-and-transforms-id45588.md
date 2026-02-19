@@ -1,3 +1,10 @@
+---
+topic_id: 45588
+title: "New Feature Support Of 5D Images And Transforms"
+date: 2025-12-23
+url: https://discourse.slicer.org/t/45588
+---
+
 # New feature: Support of 5D images and transforms
 
 **Topic ID**: 45588

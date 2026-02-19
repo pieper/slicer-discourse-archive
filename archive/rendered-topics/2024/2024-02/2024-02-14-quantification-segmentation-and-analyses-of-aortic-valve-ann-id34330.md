@@ -1,3 +1,10 @@
+---
+topic_id: 34330
+title: "Quantification Segmentation And Analyses Of Aortic Valve Ann"
+date: 2024-02-14
+url: https://discourse.slicer.org/t/34330
+---
+
 # Quantification, segmentation and Analyses of Aortic Valve Annulus and Leaflets using heart CT scans
 
 **Topic ID**: 34330

@@ -1,3 +1,10 @@
+---
+topic_id: 33464
+title: "Continous Color Table For Heatmap"
+date: 2023-12-20
+url: https://discourse.slicer.org/t/33464
+---
+
 # Continous color table for heatmap
 
 **Topic ID**: 33464

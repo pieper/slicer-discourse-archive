@@ -1,3 +1,10 @@
+---
+topic_id: 29759
+title: "Exporting Sequence Of Stl Files From Segmentation Of 4D Dico"
+date: 2023-05-31
+url: https://discourse.slicer.org/t/29759
+---
+
 # exporting sequence of stl files from segmentation of 4D dicom images
 
 **Topic ID**: 29759

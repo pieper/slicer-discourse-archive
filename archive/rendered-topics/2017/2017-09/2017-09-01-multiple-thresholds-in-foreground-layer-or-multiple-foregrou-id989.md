@@ -1,3 +1,10 @@
+---
+topic_id: 989
+title: "Multiple Thresholds In Foreground Layer Or Multiple Foregrou"
+date: 2017-09-01
+url: https://discourse.slicer.org/t/989
+---
+
 # Multiple thresholds in foreground layer or multiple foreground layers
 
 **Topic ID**: 989

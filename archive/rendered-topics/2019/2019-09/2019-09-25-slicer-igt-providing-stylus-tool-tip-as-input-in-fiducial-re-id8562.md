@@ -1,3 +1,10 @@
+---
+topic_id: 8562
+title: "Slicer Igt Providing Stylus Tool Tip As Input In Fiducial Re"
+date: 2019-09-25
+url: https://discourse.slicer.org/t/8562
+---
+
 # Slicer IGT providing Stylus tool-tip as input in Fiducial Registation Wizard under "To fiducials"
 
 **Topic ID**: 8562

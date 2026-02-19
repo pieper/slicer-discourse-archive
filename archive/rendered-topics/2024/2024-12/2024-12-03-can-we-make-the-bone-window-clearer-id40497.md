@@ -1,3 +1,10 @@
+---
+topic_id: 40497
+title: "Can We Make The Bone Window Clearer"
+date: 2024-12-03
+url: https://discourse.slicer.org/t/40497
+---
+
 # Can we make the bone window clearer？
 
 **Topic ID**: 40497

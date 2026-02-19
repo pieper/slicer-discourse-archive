@@ -1,3 +1,10 @@
+---
+topic_id: 15019
+title: "Ras Coordinates To Image Coordinates"
+date: 2020-12-12
+url: https://discourse.slicer.org/t/15019
+---
+
 # RAS coordinates to Image coordinates
 
 **Topic ID**: 15019

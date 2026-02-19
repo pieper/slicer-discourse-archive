@@ -1,3 +1,10 @@
+---
+topic_id: 25651
+title: "Input Function Writing On Wrong Line"
+date: 2022-10-12
+url: https://discourse.slicer.org/t/25651
+---
+
 # Input function writing on wrong line
 
 **Topic ID**: 25651

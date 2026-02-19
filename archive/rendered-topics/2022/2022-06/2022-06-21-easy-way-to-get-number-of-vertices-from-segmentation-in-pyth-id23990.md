@@ -1,3 +1,10 @@
+---
+topic_id: 23990
+title: "Easy Way To Get Number Of Vertices From Segmentation In Pyth"
+date: 2022-06-21
+url: https://discourse.slicer.org/t/23990
+---
+
 # Easy way to get number of vertices from segmentation in python
 
 **Topic ID**: 23990

@@ -1,3 +1,10 @@
+---
+topic_id: 16114
+title: "The Size Of The Segmentation Image Dicom Seg Does Not Match"
+date: 2021-02-21
+url: https://discourse.slicer.org/t/16114
+---
+
 # The size of the segmentation image (DICOM-SEG) does not match the size of the main image (DICOM)
 
 **Topic ID**: 16114

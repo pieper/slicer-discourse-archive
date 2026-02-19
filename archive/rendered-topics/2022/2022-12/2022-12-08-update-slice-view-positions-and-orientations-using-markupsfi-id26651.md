@@ -1,3 +1,10 @@
+---
+topic_id: 26651
+title: "Update Slice View Positions And Orientations Using Markupsfi"
+date: 2022-12-08
+url: https://discourse.slicer.org/t/26651
+---
+
 # Update slice view positions and orientations using MarkupsFiducialNode interactions
 
 **Topic ID**: 26651

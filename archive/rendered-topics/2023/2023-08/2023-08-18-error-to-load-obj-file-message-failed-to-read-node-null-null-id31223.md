@@ -1,3 +1,10 @@
+---
+topic_id: 31223
+title: "Error To Load Obj File Message Failed To Read Node Null Null"
+date: 2023-08-18
+url: https://discourse.slicer.org/t/31223
+---
+
 # Error to load .obj file message: “Failed to read node (null ((null)) ... "
 
 **Topic ID**: 31223

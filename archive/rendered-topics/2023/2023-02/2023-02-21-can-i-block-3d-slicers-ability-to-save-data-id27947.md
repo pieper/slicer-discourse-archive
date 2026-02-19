@@ -1,3 +1,10 @@
+---
+topic_id: 27947
+title: "Can I Block 3D Slicers Ability To Save Data"
+date: 2023-02-21
+url: https://discourse.slicer.org/t/27947
+---
+
 # Can I block 3d slicer's ability to save data?
 
 **Topic ID**: 27947

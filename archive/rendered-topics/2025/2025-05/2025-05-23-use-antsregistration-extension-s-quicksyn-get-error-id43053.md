@@ -1,3 +1,10 @@
+---
+topic_id: 43053
+title: "Use Antsregistration Extension S Quicksyn Get Error"
+date: 2025-05-23
+url: https://discourse.slicer.org/t/43053
+---
+
 # Use ANTsRegistration Extension 's QuickSyN get error
 
 **Topic ID**: 43053

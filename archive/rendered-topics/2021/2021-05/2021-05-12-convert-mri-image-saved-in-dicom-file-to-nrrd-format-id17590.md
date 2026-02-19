@@ -1,3 +1,10 @@
+---
+topic_id: 17590
+title: "Convert Mri Image Saved In Dicom File To Nrrd Format"
+date: 2021-05-12
+url: https://discourse.slicer.org/t/17590
+---
+
 # Convert MRI image saved in dicom file to nrrd format
 
 **Topic ID**: 17590

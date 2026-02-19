@@ -1,3 +1,10 @@
+---
+topic_id: 11672
+title: "Slicer Crashes When Attempting To Retrieve Camera Node For N"
+date: 2020-05-22
+url: https://discourse.slicer.org/t/11672
+---
+
 # Slicer crashes when attempting to retrieve camera node for non-existent 3D view
 
 **Topic ID**: 11672

@@ -1,3 +1,10 @@
+---
+topic_id: 31377
+title: "Generate Fat And Water Mha Files In Python From In Out Phase"
+date: 2023-08-26
+url: https://discourse.slicer.org/t/31377
+---
+
 # Generate fat and water MHA files in python from in-/out-phase exported MHA files
 
 **Topic ID**: 31377

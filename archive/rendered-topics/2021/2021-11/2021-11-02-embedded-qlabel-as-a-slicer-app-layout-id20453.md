@@ -1,3 +1,10 @@
+---
+topic_id: 20453
+title: "Embedded Qlabel As A Slicer App Layout"
+date: 2021-11-02
+url: https://discourse.slicer.org/t/20453
+---
+
 # Embedded Qlabel as a Slicer app layout
 
 **Topic ID**: 20453

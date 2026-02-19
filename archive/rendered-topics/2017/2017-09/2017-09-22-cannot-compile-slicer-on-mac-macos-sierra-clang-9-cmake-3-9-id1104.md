@@ -1,3 +1,10 @@
+---
+topic_id: 1104
+title: "Cannot Compile Slicer On Mac Macos Sierra Clang 9 Cmake 3 9"
+date: 2017-09-22
+url: https://discourse.slicer.org/t/1104
+---
+
 # Cannot compile Slicer on Mac - macOS Sierra + clang 9 + cmake 3.9.1
 
 **Topic ID**: 1104

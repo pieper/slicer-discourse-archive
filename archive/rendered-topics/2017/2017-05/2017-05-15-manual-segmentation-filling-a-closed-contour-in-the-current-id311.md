@@ -1,3 +1,10 @@
+---
+topic_id: 311
+title: "Manual Segmentation Filling A Closed Contour In The Current"
+date: 2017-05-15
+url: https://discourse.slicer.org/t/311
+---
+
 # Manual Segmentation, Filling a closed contour in the current slice
 
 **Topic ID**: 311

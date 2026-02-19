@@ -1,3 +1,10 @@
+---
+topic_id: 894
+title: "Set Target Region For Image Resampling"
+date: 2017-08-18
+url: https://discourse.slicer.org/t/894
+---
+
 # Set target region for image resampling
 
 **Topic ID**: 894

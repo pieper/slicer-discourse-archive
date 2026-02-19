@@ -1,3 +1,10 @@
+---
+topic_id: 37993
+title: "Building Extension Module For Spect Image Reconstruction"
+date: 2024-08-21
+url: https://discourse.slicer.org/t/37993
+---
+
 # Building extension module for Spect Image Reconstruction
 
 **Topic ID**: 37993

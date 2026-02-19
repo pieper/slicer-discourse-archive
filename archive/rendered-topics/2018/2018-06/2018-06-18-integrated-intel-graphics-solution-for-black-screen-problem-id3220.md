@@ -1,3 +1,10 @@
+---
+topic_id: 3220
+title: "Integrated Intel Graphics Solution For Black Screen Problem"
+date: 2018-06-18
+url: https://discourse.slicer.org/t/3220
+---
+
 # Integrated Intel Graphics - solution for black screen problem
 
 **Topic ID**: 3220

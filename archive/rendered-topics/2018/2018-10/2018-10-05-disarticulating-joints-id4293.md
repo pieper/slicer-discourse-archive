@@ -1,3 +1,10 @@
+---
+topic_id: 4293
+title: "Disarticulating Joints"
+date: 2018-10-05
+url: https://discourse.slicer.org/t/4293
+---
+
 # Disarticulating Joints
 
 **Topic ID**: 4293

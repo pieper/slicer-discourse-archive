@@ -1,3 +1,10 @@
+---
+topic_id: 12470
+title: "Search The Closest Point"
+date: 2020-07-09
+url: https://discourse.slicer.org/t/12470
+---
+
 # Search the closest point
 
 **Topic ID**: 12470

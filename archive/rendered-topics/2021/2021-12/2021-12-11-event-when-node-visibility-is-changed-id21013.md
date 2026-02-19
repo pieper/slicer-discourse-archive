@@ -1,3 +1,10 @@
+---
+topic_id: 21013
+title: "Event When Node Visibility Is Changed"
+date: 2021-12-11
+url: https://discourse.slicer.org/t/21013
+---
+
 # Event when node visibility is changed
 
 **Topic ID**: 21013

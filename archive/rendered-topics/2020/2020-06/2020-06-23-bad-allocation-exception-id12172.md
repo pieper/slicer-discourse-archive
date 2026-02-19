@@ -1,3 +1,10 @@
+---
+topic_id: 12172
+title: "Bad Allocation Exception"
+date: 2020-06-23
+url: https://discourse.slicer.org/t/12172
+---
+
 # Bad allocation exception
 
 **Topic ID**: 12172

@@ -1,3 +1,10 @@
+---
+topic_id: 36632
+title: "Constrain Points To Surface Feature"
+date: 2024-06-07
+url: https://discourse.slicer.org/t/36632
+---
+
 # "Constrain points to surface" feature 
 
 **Topic ID**: 36632

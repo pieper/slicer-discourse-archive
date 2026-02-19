@@ -1,3 +1,10 @@
+---
+topic_id: 18567
+title: "How To Change Origin Of Dicom To 0 0 0 In Ras"
+date: 2021-07-07
+url: https://discourse.slicer.org/t/18567
+---
+
 # How to change origin of dicom to 0,0,0 in RAS?
 
 **Topic ID**: 18567

@@ -1,3 +1,10 @@
+---
+topic_id: 19670
+title: "A Problem About Flash Back"
+date: 2021-09-14
+url: https://discourse.slicer.org/t/19670
+---
+
 # a problem about flash back
 
 **Topic ID**: 19670

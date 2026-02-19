@@ -1,3 +1,10 @@
+---
+topic_id: 39798
+title: "Editing 2D Existing Segmentations"
+date: 2024-10-22
+url: https://discourse.slicer.org/t/39798
+---
+
 # Editing 2D existing segmentations 
 
 **Topic ID**: 39798

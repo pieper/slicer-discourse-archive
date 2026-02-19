@@ -1,3 +1,10 @@
+---
+topic_id: 114
+title: "Enabling Support For Html Tables"
+date: 2017-04-13
+url: https://discourse.slicer.org/t/114
+---
+
 # Enabling support for HTML tables?
 
 **Topic ID**: 114

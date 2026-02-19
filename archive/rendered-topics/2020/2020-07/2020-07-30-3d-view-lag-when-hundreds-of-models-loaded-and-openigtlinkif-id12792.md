@@ -1,3 +1,10 @@
+---
+topic_id: 12792
+title: "3D View Lag When Hundreds Of Models Loaded And Openigtlinkif"
+date: 2020-07-30
+url: https://discourse.slicer.org/t/12792
+---
+
 # 3D View Lag when Hundreds of Models Loaded and OpenIGTLinkIF Running
 
 **Topic ID**: 12792

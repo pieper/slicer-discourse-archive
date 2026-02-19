@@ -1,3 +1,10 @@
+---
+topic_id: 18758
+title: "Baby 3D Ultrasound Printing"
+date: 2021-07-15
+url: https://discourse.slicer.org/t/18758
+---
+
 # Baby 3D ultrasound printing
 
 **Topic ID**: 18758

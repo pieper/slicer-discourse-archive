@@ -1,3 +1,10 @@
+---
+topic_id: 27004
+title: "Mask Volume Problem In Pet Images"
+date: 2023-01-01
+url: https://discourse.slicer.org/t/27004
+---
+
 # mask volume problem in PET images
 
 **Topic ID**: 27004

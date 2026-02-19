@@ -1,3 +1,10 @@
+---
+topic_id: 3360
+title: "Editor Function And Ukf Tractography"
+date: 2018-07-03
+url: https://discourse.slicer.org/t/3360
+---
+
 # Editor Function and UKF tractography 
 
 **Topic ID**: 3360

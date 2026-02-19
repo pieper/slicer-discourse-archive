@@ -1,3 +1,10 @@
+---
+topic_id: 19652
+title: "Functionality Of Automatic Threshold Calculator"
+date: 2021-09-13
+url: https://discourse.slicer.org/t/19652
+---
+
 # Functionality of Automatic Threshold Calculator
 
 **Topic ID**: 19652

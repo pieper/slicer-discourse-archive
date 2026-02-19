@@ -1,3 +1,10 @@
+---
+topic_id: 43333
+title: "Segmenting Average Trabecular And Cortical Volumes Of The Ca"
+date: 2025-06-12
+url: https://discourse.slicer.org/t/43333
+---
+
 # Segmenting average trabecular and cortical volumes of the calvaria
 
 **Topic ID**: 43333

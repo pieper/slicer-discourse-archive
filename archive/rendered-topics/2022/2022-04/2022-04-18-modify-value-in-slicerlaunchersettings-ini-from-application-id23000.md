@@ -1,3 +1,10 @@
+---
+topic_id: 23000
+title: "Modify Value In Slicerlaunchersettings Ini From Application"
+date: 2022-04-18
+url: https://discourse.slicer.org/t/23000
+---
+
 # Modify value in `SlicerLauncherSettings.ini` from application
 
 **Topic ID**: 23000

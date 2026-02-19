@@ -1,3 +1,10 @@
+---
+topic_id: 24860
+title: "Switching Between Different Volume Display"
+date: 2022-08-22
+url: https://discourse.slicer.org/t/24860
+---
+
 # Switching between different volume display
 
 **Topic ID**: 24860

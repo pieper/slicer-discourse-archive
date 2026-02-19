@@ -1,3 +1,10 @@
+---
+topic_id: 33191
+title: "Color Scale For Pet Segmentation"
+date: 2023-12-04
+url: https://discourse.slicer.org/t/33191
+---
+
 # Color scale for PET segmentation
 
 **Topic ID**: 33191

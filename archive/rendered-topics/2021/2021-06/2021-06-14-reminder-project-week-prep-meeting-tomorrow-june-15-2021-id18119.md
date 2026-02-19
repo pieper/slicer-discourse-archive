@@ -1,3 +1,10 @@
+---
+topic_id: 18119
+title: "Reminder Project Week Prep Meeting Tomorrow June 15 2021"
+date: 2021-06-14
+url: https://discourse.slicer.org/t/18119
+---
+
 # Reminder: Project Week prep meeting tomorrow - June 15 2021
 
 **Topic ID**: 18119

@@ -1,3 +1,10 @@
+---
+topic_id: 15634
+title: "How To Install Vmtk In 3D Slicer"
+date: 2021-01-22
+url: https://discourse.slicer.org/t/15634
+---
+
 # How to Install VMTK in 3d Slicer?
 
 **Topic ID**: 15634

@@ -1,3 +1,10 @@
+---
+topic_id: 28335
+title: "Questions About Resampling And Filtering"
+date: 2023-03-12
+url: https://discourse.slicer.org/t/28335
+---
+
 # Questions about resampling and filtering
 
 **Topic ID**: 28335

@@ -1,3 +1,10 @@
+---
+topic_id: 13520
+title: "How To Hide Module Gui Panel"
+date: 2020-09-17
+url: https://discourse.slicer.org/t/13520
+---
+
 # How to hide module GUI Panel?
 
 **Topic ID**: 13520

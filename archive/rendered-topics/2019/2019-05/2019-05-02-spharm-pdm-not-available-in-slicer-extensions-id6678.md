@@ -1,3 +1,10 @@
+---
+topic_id: 6678
+title: "Spharm Pdm Not Available In Slicer Extensions"
+date: 2019-05-02
+url: https://discourse.slicer.org/t/6678
+---
+
 # SPHARM-PDM not available in Slicer Extensions
 
 **Topic ID**: 6678

@@ -1,3 +1,10 @@
+---
+topic_id: 16320
+title: "How To Create 3D From 2D Slices"
+date: 2021-03-03
+url: https://discourse.slicer.org/t/16320
+---
+
 # How to create 3D from 2D slices?
 
 **Topic ID**: 16320

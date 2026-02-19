@@ -1,3 +1,10 @@
+---
+topic_id: 37305
+title: "Intersect Segments Stored In Two Different Segmentations"
+date: 2024-07-10
+url: https://discourse.slicer.org/t/37305
+---
+
 # Intersect segments stored in two different segmentations
 
 **Topic ID**: 37305

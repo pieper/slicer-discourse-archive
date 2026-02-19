@@ -1,3 +1,10 @@
+---
+topic_id: 16481
+title: "How To Create 3 Channel Image From Different Dicoms"
+date: 2021-03-11
+url: https://discourse.slicer.org/t/16481
+---
+
 # How to create 3 channel image from different DICOMs?
 
 **Topic ID**: 16481

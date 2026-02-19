@@ -1,3 +1,10 @@
+---
+topic_id: 15107
+title: "Packaging A Module"
+date: 2020-12-17
+url: https://discourse.slicer.org/t/15107
+---
+
 # Packaging a module
 
 **Topic ID**: 15107

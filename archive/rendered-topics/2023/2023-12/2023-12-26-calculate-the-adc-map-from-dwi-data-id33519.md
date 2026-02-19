@@ -1,3 +1,10 @@
+---
+topic_id: 33519
+title: "Calculate The Adc Map From Dwi Data"
+date: 2023-12-26
+url: https://discourse.slicer.org/t/33519
+---
+
 # calculate the ADC map from DWI data
 
 **Topic ID**: 33519

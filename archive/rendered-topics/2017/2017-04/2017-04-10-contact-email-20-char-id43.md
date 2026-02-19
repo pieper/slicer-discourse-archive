@@ -1,3 +1,10 @@
+---
+topic_id: 43
+title: "Contact Email 20 Char"
+date: 2017-04-10
+url: https://discourse.slicer.org/t/43
+---
+
 # Contact email? <20 char>
 
 **Topic ID**: 43

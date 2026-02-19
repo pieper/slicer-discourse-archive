@@ -1,3 +1,10 @@
+---
+topic_id: 15082
+title: "Problems Running Slicerjupyter On Macos"
+date: 2020-12-16
+url: https://discourse.slicer.org/t/15082
+---
+
 # Problems running SlicerJupyter on MacOS
 
 **Topic ID**: 15082

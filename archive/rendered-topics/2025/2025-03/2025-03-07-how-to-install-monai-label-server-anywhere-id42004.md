@@ -1,3 +1,10 @@
+---
+topic_id: 42004
+title: "How To Install Monai Label Server Anywhere"
+date: 2025-03-07
+url: https://discourse.slicer.org/t/42004
+---
+
 # How to Install Monai Label Server ANYWHERE
 
 **Topic ID**: 42004

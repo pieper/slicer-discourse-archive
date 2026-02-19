@@ -1,3 +1,10 @@
+---
+topic_id: 16099
+title: "Cut A Part Of Segmentation"
+date: 2021-02-19
+url: https://discourse.slicer.org/t/16099
+---
+
 # Cut a part of segmentation
 
 **Topic ID**: 16099

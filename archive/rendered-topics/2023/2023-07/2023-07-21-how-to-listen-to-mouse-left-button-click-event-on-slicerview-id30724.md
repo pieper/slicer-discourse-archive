@@ -1,3 +1,10 @@
+---
+topic_id: 30724
+title: "How To Listen To Mouse Left Button Click Event On Slicerview"
+date: 2023-07-21
+url: https://discourse.slicer.org/t/30724
+---
+
 # How to listen to mouse left button click event on slicerview
 
 **Topic ID**: 30724

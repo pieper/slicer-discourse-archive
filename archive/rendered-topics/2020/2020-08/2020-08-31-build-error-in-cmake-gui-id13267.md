@@ -1,3 +1,10 @@
+---
+topic_id: 13267
+title: "Build Error In Cmake Gui"
+date: 2020-08-31
+url: https://discourse.slicer.org/t/13267
+---
+
 # Build - Error in CMake GUI
 
 **Topic ID**: 13267

@@ -1,3 +1,10 @@
+---
+topic_id: 25740
+title: "Installing Vmtk With Vscode"
+date: 2022-10-17
+url: https://discourse.slicer.org/t/25740
+---
+
 # Installing VMTK with VSCode
 
 **Topic ID**: 25740

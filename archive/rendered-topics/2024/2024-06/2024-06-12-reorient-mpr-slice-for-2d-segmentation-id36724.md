@@ -1,3 +1,10 @@
+---
+topic_id: 36724
+title: "Reorient Mpr Slice For 2D Segmentation"
+date: 2024-06-12
+url: https://discourse.slicer.org/t/36724
+---
+
 # Reorient MPR slice for 2d segmentation
 
 **Topic ID**: 36724

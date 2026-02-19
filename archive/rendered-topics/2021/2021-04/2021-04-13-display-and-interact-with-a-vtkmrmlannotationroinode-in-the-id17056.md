@@ -1,3 +1,10 @@
+---
+topic_id: 17056
+title: "Display And Interact With A Vtkmrmlannotationroinode In The"
+date: 2021-04-13
+url: https://discourse.slicer.org/t/17056
+---
+
 # Display and interact with a vtkMRMLAnnotationROINode() in the view
 
 **Topic ID**: 17056

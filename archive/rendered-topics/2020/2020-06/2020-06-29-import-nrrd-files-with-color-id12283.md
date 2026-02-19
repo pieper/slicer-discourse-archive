@@ -1,3 +1,10 @@
+---
+topic_id: 12283
+title: "Import Nrrd Files With Color"
+date: 2020-06-29
+url: https://discourse.slicer.org/t/12283
+---
+
 # Import Nrrd files with color
 
 **Topic ID**: 12283

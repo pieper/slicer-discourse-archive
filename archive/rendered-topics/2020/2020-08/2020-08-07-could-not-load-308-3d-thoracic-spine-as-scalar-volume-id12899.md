@@ -1,3 +1,10 @@
+---
+topic_id: 12899
+title: "Could Not Load 308 3D Thoracic Spine As Scalar Volume"
+date: 2020-08-07
+url: https://discourse.slicer.org/t/12899
+---
+
 # Could not load 308: 3D THORACIC SPINE as Scalar Volume
 
 **Topic ID**: 12899

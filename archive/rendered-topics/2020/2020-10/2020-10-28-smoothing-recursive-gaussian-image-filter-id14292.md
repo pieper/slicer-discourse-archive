@@ -1,3 +1,10 @@
+---
+topic_id: 14292
+title: "Smoothing Recursive Gaussian Image Filter"
+date: 2020-10-28
+url: https://discourse.slicer.org/t/14292
+---
+
 # Smoothing Recursive Gaussian Image Filter
 
 **Topic ID**: 14292

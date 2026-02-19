@@ -1,3 +1,10 @@
+---
+topic_id: 32531
+title: "3D Slicer Paint Draw Tool Issue"
+date: 2023-11-01
+url: https://discourse.slicer.org/t/32531
+---
+
 # 3D Slicer Paint/Draw Tool Issue 
 
 **Topic ID**: 32531

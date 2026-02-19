@@ -1,3 +1,10 @@
+---
+topic_id: 31801
+title: "Monai Label Start With Labeled Dataset"
+date: 2023-09-20
+url: https://discourse.slicer.org/t/31801
+---
+
 # Monai Label - Start with Labeled Dataset
 
 **Topic ID**: 31801

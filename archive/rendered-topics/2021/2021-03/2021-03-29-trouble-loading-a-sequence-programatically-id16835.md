@@ -1,3 +1,10 @@
+---
+topic_id: 16835
+title: "Trouble Loading A Sequence Programatically"
+date: 2021-03-29
+url: https://discourse.slicer.org/t/16835
+---
+
 # Trouble loading a sequence programatically
 
 **Topic ID**: 16835

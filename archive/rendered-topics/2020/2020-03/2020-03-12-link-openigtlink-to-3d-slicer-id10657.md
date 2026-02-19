@@ -1,3 +1,10 @@
+---
+topic_id: 10657
+title: "Link Openigtlink To 3D Slicer"
+date: 2020-03-12
+url: https://discourse.slicer.org/t/10657
+---
+
 # Link OpenIGTLink to 3D Slicer
 
 **Topic ID**: 10657

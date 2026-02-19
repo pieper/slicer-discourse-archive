@@ -1,3 +1,10 @@
+---
+topic_id: 30603
+title: "Tetgen Stuck In Final Mesh Improvement Vmtkmeshgenerator"
+date: 2023-07-14
+url: https://discourse.slicer.org/t/30603
+---
+
 # TetGen: Stuck in final mesh improvement (vmtkmeshgenerator)
 
 **Topic ID**: 30603

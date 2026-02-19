@@ -1,3 +1,10 @@
+---
+topic_id: 44598
+title: "Showing 2D Contour Slice Intersection Of Segmentation In 3D"
+date: 2025-09-26
+url: https://discourse.slicer.org/t/44598
+---
+
 # Showing 2D contour (slice intersection) of segmentation in 3D viewport
 
 **Topic ID**: 44598

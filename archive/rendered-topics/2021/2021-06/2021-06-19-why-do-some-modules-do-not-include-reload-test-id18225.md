@@ -1,3 +1,10 @@
+---
+topic_id: 18225
+title: "Why Do Some Modules Do Not Include Reload Test"
+date: 2021-06-19
+url: https://discourse.slicer.org/t/18225
+---
+
 # Why do some modules do not include Reload&Test ？
 
 **Topic ID**: 18225

@@ -1,3 +1,10 @@
+---
+topic_id: 22975
+title: "Get Best Fit Sphere Of Humeral Head"
+date: 2022-04-15
+url: https://discourse.slicer.org/t/22975
+---
+
 # Get best fit sphere of humeral head
 
 **Topic ID**: 22975

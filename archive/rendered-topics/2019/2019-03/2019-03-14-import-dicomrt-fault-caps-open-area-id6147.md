@@ -1,3 +1,10 @@
+---
+topic_id: 6147
+title: "Import Dicomrt Fault Caps Open Area"
+date: 2019-03-14
+url: https://discourse.slicer.org/t/6147
+---
+
 # Import DicomRT fault (caps open area)
 
 **Topic ID**: 6147

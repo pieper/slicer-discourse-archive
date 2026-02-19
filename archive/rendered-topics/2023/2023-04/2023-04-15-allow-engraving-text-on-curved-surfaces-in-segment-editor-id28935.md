@@ -1,3 +1,10 @@
+---
+topic_id: 28935
+title: "Allow Engraving Text On Curved Surfaces In Segment Editor"
+date: 2023-04-15
+url: https://discourse.slicer.org/t/28935
+---
+
 # Allow engraving text on curved surfaces in Segment Editor
 
 **Topic ID**: 28935

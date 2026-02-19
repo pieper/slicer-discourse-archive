@@ -1,3 +1,10 @@
+---
+topic_id: 3330
+title: "Build Fails On Ubuntu 14 04"
+date: 2018-06-28
+url: https://discourse.slicer.org/t/3330
+---
+
 # Build fails on Ubuntu 14.04
 
 **Topic ID**: 3330

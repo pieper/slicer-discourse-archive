@@ -1,3 +1,10 @@
+---
+topic_id: 37304
+title: "Is There A Way To Look All Metadata Information Of A Dicom F"
+date: 2024-07-10
+url: https://discourse.slicer.org/t/37304
+---
+
 # Is there a way to look all metadata information of a Dicom file like itk-snap did
 
 **Topic ID**: 37304

@@ -1,3 +1,10 @@
+---
+topic_id: 25125
+title: "Questions About Projectsemilm"
+date: 2022-09-06
+url: https://discourse.slicer.org/t/25125
+---
+
 # Questions about projectSemiLM
 
 **Topic ID**: 25125

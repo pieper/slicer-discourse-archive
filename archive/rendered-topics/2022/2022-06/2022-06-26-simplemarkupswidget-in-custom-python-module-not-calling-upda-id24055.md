@@ -1,3 +1,10 @@
+---
+topic_id: 24055
+title: "Simplemarkupswidget In Custom Python Module Not Calling Upda"
+date: 2022-06-26
+url: https://discourse.slicer.org/t/24055
+---
+
 # SimpleMarkupsWidget in custom python module not calling updateParameterNodeFromGUI()
 
 **Topic ID**: 24055

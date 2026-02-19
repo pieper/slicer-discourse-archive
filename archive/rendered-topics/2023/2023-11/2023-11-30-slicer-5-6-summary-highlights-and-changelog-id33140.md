@@ -1,3 +1,10 @@
+---
+topic_id: 33140
+title: "Slicer 5 6 Summary Highlights And Changelog"
+date: 2023-11-30
+url: https://discourse.slicer.org/t/33140
+---
+
 # Slicer 5.6: Summary, Highlights, and Changelog
 
 **Topic ID**: 33140

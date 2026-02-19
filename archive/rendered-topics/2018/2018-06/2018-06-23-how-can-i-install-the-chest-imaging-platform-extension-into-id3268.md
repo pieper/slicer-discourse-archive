@@ -1,3 +1,10 @@
+---
+topic_id: 3268
+title: "How Can I Install The Chest Imaging Platform Extension Into"
+date: 2018-06-23
+url: https://discourse.slicer.org/t/3268
+---
+
 # How can I install the Chest_Imaging_Platform extension into Slicer Nightly Releases manually?
 
 **Topic ID**: 3268

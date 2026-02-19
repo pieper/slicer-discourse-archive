@@ -1,3 +1,10 @@
+---
+topic_id: 6314
+title: "Rodata Can Not Be Used When Making A Pie Object"
+date: 2019-03-28
+url: https://discourse.slicer.org/t/6314
+---
+
 # rodata can not be used when making a PIE object
 
 **Topic ID**: 6314

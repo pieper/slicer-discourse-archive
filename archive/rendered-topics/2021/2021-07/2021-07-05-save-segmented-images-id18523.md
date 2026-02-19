@@ -1,3 +1,10 @@
+---
+topic_id: 18523
+title: "Save Segmented Images"
+date: 2021-07-05
+url: https://discourse.slicer.org/t/18523
+---
+
 # Save segmented images
 
 **Topic ID**: 18523

@@ -1,3 +1,10 @@
+---
+topic_id: 36543
+title: "3D Model Stl Color"
+date: 2024-06-01
+url: https://discourse.slicer.org/t/36543
+---
+
 # 3D model STL color
 
 **Topic ID**: 36543

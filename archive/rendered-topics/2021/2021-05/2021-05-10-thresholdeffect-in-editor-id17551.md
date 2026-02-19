@@ -1,3 +1,10 @@
+---
+topic_id: 17551
+title: "Thresholdeffect In Editor"
+date: 2021-05-10
+url: https://discourse.slicer.org/t/17551
+---
+
 # ThresholdEffect in Editor
 
 **Topic ID**: 17551

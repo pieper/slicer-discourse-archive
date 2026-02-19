@@ -1,3 +1,10 @@
+---
+topic_id: 14816
+title: "How To Convert Model Node Points To Volume Node"
+date: 2020-11-30
+url: https://discourse.slicer.org/t/14816
+---
+
 # How to convert model node (points) to Volume node?
 
 **Topic ID**: 14816

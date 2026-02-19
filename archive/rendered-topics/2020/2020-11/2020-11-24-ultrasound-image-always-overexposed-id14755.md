@@ -1,3 +1,10 @@
+---
+topic_id: 14755
+title: "Ultrasound Image Always Overexposed"
+date: 2020-11-24
+url: https://discourse.slicer.org/t/14755
+---
+
 # Ultrasound image always overexposed
 
 **Topic ID**: 14755

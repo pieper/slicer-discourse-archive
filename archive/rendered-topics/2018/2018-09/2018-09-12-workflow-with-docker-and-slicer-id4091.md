@@ -1,3 +1,10 @@
+---
+topic_id: 4091
+title: "Workflow With Docker And Slicer"
+date: 2018-09-12
+url: https://discourse.slicer.org/t/4091
+---
+
 # Workflow with Docker and Slicer
 
 **Topic ID**: 4091

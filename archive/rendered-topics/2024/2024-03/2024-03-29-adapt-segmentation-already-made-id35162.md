@@ -1,3 +1,10 @@
+---
+topic_id: 35162
+title: "Adapt Segmentation Already Made"
+date: 2024-03-29
+url: https://discourse.slicer.org/t/35162
+---
+
 # Adapt segmentation already made
 
 **Topic ID**: 35162

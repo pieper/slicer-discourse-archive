@@ -1,3 +1,10 @@
+---
+topic_id: 10394
+title: "Extraction The Vector Components Using Python"
+date: 2020-02-22
+url: https://discourse.slicer.org/t/10394
+---
+
 # Extraction the vector components using python
 
 **Topic ID**: 10394

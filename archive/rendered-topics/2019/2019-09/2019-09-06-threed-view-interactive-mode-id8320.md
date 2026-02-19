@@ -1,3 +1,10 @@
+---
+topic_id: 8320
+title: "Threed View Interactive Mode"
+date: 2019-09-06
+url: https://discourse.slicer.org/t/8320
+---
+
 # ThreeD view interactive mode
 
 **Topic ID**: 8320

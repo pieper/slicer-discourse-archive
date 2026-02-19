@@ -1,3 +1,10 @@
+---
+topic_id: 8367
+title: "Can We Display Oriented Bounding Boxes"
+date: 2019-09-10
+url: https://discourse.slicer.org/t/8367
+---
+
 # Can we display oriented bounding boxes?
 
 **Topic ID**: 8367

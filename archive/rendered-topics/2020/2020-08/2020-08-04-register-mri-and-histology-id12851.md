@@ -1,3 +1,10 @@
+---
+topic_id: 12851
+title: "Register Mri And Histology"
+date: 2020-08-04
+url: https://discourse.slicer.org/t/12851
+---
+
 # Register MRI and histology
 
 **Topic ID**: 12851

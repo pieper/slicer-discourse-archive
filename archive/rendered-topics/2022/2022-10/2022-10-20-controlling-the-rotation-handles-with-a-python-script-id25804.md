@@ -1,3 +1,10 @@
+---
+topic_id: 25804
+title: "Controlling The Rotation Handles With A Python Script"
+date: 2022-10-20
+url: https://discourse.slicer.org/t/25804
+---
+
 # Controlling the rotation handles with a python script
 
 **Topic ID**: 25804

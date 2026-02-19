@@ -1,3 +1,10 @@
+---
+topic_id: 37198
+title: "Configure C Intellisense And Cmake Tools For Vscode"
+date: 2024-07-04
+url: https://discourse.slicer.org/t/37198
+---
+
 # Configure c++ intellisense and cmake tools for vscode
 
 **Topic ID**: 37198

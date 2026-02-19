@@ -1,3 +1,10 @@
+---
+topic_id: 7587
+title: "Interpolating Contours From A Rtstruct File Using Batch Proc"
+date: 2019-07-15
+url: https://discourse.slicer.org/t/7587
+---
+
 # Interpolating contours from a RTSTRUCT file using batch processing
 
 **Topic ID**: 7587

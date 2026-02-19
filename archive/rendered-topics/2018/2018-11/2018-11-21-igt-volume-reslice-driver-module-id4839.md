@@ -1,3 +1,10 @@
+---
+topic_id: 4839
+title: "Igt Volume Reslice Driver Module"
+date: 2018-11-21
+url: https://discourse.slicer.org/t/4839
+---
+
 # IGT Volume Reslice Driver Module
 
 **Topic ID**: 4839

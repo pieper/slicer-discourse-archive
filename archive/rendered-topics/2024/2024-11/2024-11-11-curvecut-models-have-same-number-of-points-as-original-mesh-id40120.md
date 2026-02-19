@@ -1,3 +1,10 @@
+---
+topic_id: 40120
+title: "Curvecut Models Have Same Number Of Points As Original Mesh"
+date: 2024-11-11
+url: https://discourse.slicer.org/t/40120
+---
+
 # CurveCut models have same number of points as original mesh
 
 **Topic ID**: 40120

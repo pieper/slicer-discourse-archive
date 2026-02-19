@@ -1,3 +1,10 @@
+---
+topic_id: 30425
+title: "Path Of Data Added To Slicer"
+date: 2023-07-06
+url: https://discourse.slicer.org/t/30425
+---
+
 # Path of data added to slicer
 
 **Topic ID**: 30425

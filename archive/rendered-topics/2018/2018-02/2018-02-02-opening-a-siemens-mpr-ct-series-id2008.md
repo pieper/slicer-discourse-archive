@@ -1,3 +1,10 @@
+---
+topic_id: 2008
+title: "Opening A Siemens Mpr Ct Series"
+date: 2018-02-02
+url: https://discourse.slicer.org/t/2008
+---
+
 # Opening a Siemens MPR CT series
 
 **Topic ID**: 2008

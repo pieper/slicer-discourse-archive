@@ -1,3 +1,10 @@
+---
+topic_id: 41229
+title: "Constraining Ruler Tool To A Perfectly Horizontal Or Vertica"
+date: 2025-01-22
+url: https://discourse.slicer.org/t/41229
+---
+
 # Constraining ruler tool to a perfectly horizontal or vertical line
 
 **Topic ID**: 41229

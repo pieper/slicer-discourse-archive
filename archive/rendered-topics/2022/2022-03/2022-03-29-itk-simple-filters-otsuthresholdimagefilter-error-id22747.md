@@ -1,3 +1,10 @@
+---
+topic_id: 22747
+title: "Itk Simple Filters Otsuthresholdimagefilter Error"
+date: 2022-03-29
+url: https://discourse.slicer.org/t/22747
+---
+
 # ITK Simple Filters - OtsuThresholdImageFilter Error
 
 **Topic ID**: 22747

@@ -1,3 +1,10 @@
+---
+topic_id: 22197
+title: "3D Volume Reconstrucion"
+date: 2022-02-26
+url: https://discourse.slicer.org/t/22197
+---
+
 # 3D Volume Reconstrucion
 
 **Topic ID**: 22197

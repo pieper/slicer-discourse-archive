@@ -1,3 +1,10 @@
+---
+topic_id: 12882
+title: "How To Map Volume Data To A Slice Viewer In A Non Linear Tra"
+date: 2020-08-07
+url: https://discourse.slicer.org/t/12882
+---
+
 # How to map volume data to a slice viewer in a non-linear transformation using custom code?
 
 **Topic ID**: 12882

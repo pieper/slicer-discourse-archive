@@ -1,3 +1,10 @@
+---
+topic_id: 9932
+title: "How To Prevent Slicer From Forgetting Slicer Util Loadcolort"
+date: 2020-01-24
+url: https://discourse.slicer.org/t/9932
+---
+
 # How to prevent Slicer from "forgetting" slicer.util.loadColorTable after closing a scene
 
 **Topic ID**: 9932

@@ -1,3 +1,10 @@
+---
+topic_id: 3846
+title: "Vtk Fiber Bundle Import From Mrtrix And Or Good Format Descr"
+date: 2018-08-20
+url: https://discourse.slicer.org/t/3846
+---
+
 # Vtk fiber bundle import from mrtrix and/or good format description of the slicer polydata fiber bundle format
 
 **Topic ID**: 3846

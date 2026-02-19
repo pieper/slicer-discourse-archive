@@ -1,3 +1,10 @@
+---
+topic_id: 34673
+title: "Spharm Pdm Error Not Enough Points Cannot Solve Spharm Coeff"
+date: 2024-03-03
+url: https://discourse.slicer.org/t/34673
+---
+
 # SPHARM-PDM error: "Not enough points; cannot solve SPHARM coefficients."
 
 **Topic ID**: 34673

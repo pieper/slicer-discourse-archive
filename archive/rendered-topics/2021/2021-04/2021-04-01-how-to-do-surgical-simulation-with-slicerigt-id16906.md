@@ -1,3 +1,10 @@
+---
+topic_id: 16906
+title: "How To Do Surgical Simulation With Slicerigt"
+date: 2021-04-01
+url: https://discourse.slicer.org/t/16906
+---
+
 # how to do surgical simulation with slicerIGT
 
 **Topic ID**: 16906

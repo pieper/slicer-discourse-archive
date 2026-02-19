@@ -1,3 +1,10 @@
+---
+topic_id: 12775
+title: "Detect When Slice Layer Changes"
+date: 2020-07-29
+url: https://discourse.slicer.org/t/12775
+---
+
 # Detect when slice layer changes
 
 **Topic ID**: 12775

@@ -1,3 +1,10 @@
+---
+topic_id: 45090
+title: "Totalsegmentator And Monai Segmentation"
+date: 2025-11-15
+url: https://discourse.slicer.org/t/45090
+---
+
 # Totalsegmentator and monai segmentation
 
 **Topic ID**: 45090

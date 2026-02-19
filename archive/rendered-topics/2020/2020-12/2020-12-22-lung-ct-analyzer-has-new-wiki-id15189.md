@@ -1,3 +1,10 @@
+---
+topic_id: 15189
+title: "Lung Ct Analyzer Has New Wiki"
+date: 2020-12-22
+url: https://discourse.slicer.org/t/15189
+---
+
 # Lung CT Analyzer has new Wiki
 
 **Topic ID**: 15189

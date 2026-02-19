@@ -1,3 +1,10 @@
+---
+topic_id: 30194
+title: "Programatically Load Save Scenes And Saving Folders"
+date: 2023-06-23
+url: https://discourse.slicer.org/t/30194
+---
+
 # Programatically load/save scenes and saving folders
 
 **Topic ID**: 30194

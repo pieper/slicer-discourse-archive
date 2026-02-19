@@ -1,3 +1,10 @@
+---
+topic_id: 25275
+title: "Projectsemilm Producing File With Same Landmark Coordinates"
+date: 2022-09-14
+url: https://discourse.slicer.org/t/25275
+---
+
 # ProjectSemiLM producing file with same landmark coordinates for 78 surface landmarks
 
 **Topic ID**: 25275

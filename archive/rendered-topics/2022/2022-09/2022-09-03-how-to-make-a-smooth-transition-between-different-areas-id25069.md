@@ -1,3 +1,10 @@
+---
+topic_id: 25069
+title: "How To Make A Smooth Transition Between Different Areas"
+date: 2022-09-03
+url: https://discourse.slicer.org/t/25069
+---
+
 # How to make a smooth transition between different areas?
 
 **Topic ID**: 25069

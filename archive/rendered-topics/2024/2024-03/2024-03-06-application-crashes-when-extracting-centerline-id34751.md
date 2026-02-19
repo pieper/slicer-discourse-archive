@@ -1,3 +1,10 @@
+---
+topic_id: 34751
+title: "Application Crashes When Extracting Centerline"
+date: 2024-03-06
+url: https://discourse.slicer.org/t/34751
+---
+
 # Application crashes when extracting centerline
 
 **Topic ID**: 34751

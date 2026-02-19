@@ -1,3 +1,10 @@
+---
+topic_id: 21320
+title: "Measuring Of Segments"
+date: 2022-01-03
+url: https://discourse.slicer.org/t/21320
+---
+
 # Measuring of segments
 
 **Topic ID**: 21320

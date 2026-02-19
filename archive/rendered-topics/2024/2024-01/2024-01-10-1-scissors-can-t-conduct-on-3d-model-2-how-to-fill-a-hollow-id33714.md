@@ -1,3 +1,10 @@
+---
+topic_id: 33714
+title: "1 Scissors Can T Conduct On 3D Model 2 How To Fill A Hollow"
+date: 2024-01-10
+url: https://discourse.slicer.org/t/33714
+---
+
 # 1-Scissors can’t conduct on 3D model. 2-how to fill a hollow vessel to solid
 
 **Topic ID**: 33714

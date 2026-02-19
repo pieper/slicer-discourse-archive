@@ -1,3 +1,10 @@
+---
+topic_id: 559
+title: "Custom Slicer Distributions"
+date: 2017-06-23
+url: https://discourse.slicer.org/t/559
+---
+
 # Custom Slicer distributions
 
 **Topic ID**: 559

@@ -1,3 +1,10 @@
+---
+topic_id: 24591
+title: "How To Get The 3D Map With Pet And Mr In Slicer"
+date: 2022-08-01
+url: https://discourse.slicer.org/t/24591
+---
+
 # How to get the 3D map with PET and MR in Slicer
 
 **Topic ID**: 24591

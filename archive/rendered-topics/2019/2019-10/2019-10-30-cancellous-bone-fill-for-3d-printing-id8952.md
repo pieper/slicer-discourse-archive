@@ -1,3 +1,10 @@
+---
+topic_id: 8952
+title: "Cancellous Bone Fill For 3D Printing"
+date: 2019-10-30
+url: https://discourse.slicer.org/t/8952
+---
+
 # Cancellous bone fill for 3D printing?
 
 **Topic ID**: 8952

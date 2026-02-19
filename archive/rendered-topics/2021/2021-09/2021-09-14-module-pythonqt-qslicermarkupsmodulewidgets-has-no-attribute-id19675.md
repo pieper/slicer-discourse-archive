@@ -1,3 +1,10 @@
+---
+topic_id: 19675
+title: "Module Pythonqt Qslicermarkupsmodulewidgets Has No Attribute"
+date: 2021-09-14
+url: https://discourse.slicer.org/t/19675
+---
+
 # Module 'PythonQt.qSlicerMarkupsModuleWidgets' has no attribute 'qMRMLMarkupsROIWidget'?
 
 **Topic ID**: 19675

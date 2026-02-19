@@ -1,3 +1,10 @@
+---
+topic_id: 18107
+title: "Nvidia Ai Assisted Annotation Aiaa For 3D Slicer For Windows"
+date: 2021-06-14
+url: https://discourse.slicer.org/t/18107
+---
+
 # Nvidia AI-assisted annotation (AIAA) for 3D Slicer for Windows
 
 **Topic ID**: 18107

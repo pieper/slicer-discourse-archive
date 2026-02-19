@@ -1,3 +1,10 @@
+---
+topic_id: 21510
+title: "Measuring In 3D Ct"
+date: 2022-01-18
+url: https://discourse.slicer.org/t/21510
+---
+
 # Measuring in 3d CT
 
 **Topic ID**: 21510

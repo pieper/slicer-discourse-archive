@@ -1,3 +1,10 @@
+---
+topic_id: 7280
+title: "Mask Ultrasound Volume Vector"
+date: 2019-06-22
+url: https://discourse.slicer.org/t/7280
+---
+
 # Mask Ultrasound Volume Vector
 
 **Topic ID**: 7280

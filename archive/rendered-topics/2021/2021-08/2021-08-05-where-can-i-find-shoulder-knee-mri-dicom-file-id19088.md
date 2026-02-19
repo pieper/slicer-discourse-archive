@@ -1,3 +1,10 @@
+---
+topic_id: 19088
+title: "Where Can I Find Shoulder Knee Mri Dicom File"
+date: 2021-08-05
+url: https://discourse.slicer.org/t/19088
+---
+
 # Where can I find Shoulder/Knee MRI DICOM file?
 
 **Topic ID**: 19088

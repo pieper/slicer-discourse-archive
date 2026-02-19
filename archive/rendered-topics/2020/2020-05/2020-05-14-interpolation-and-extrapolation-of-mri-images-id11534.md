@@ -1,3 +1,10 @@
+---
+topic_id: 11534
+title: "Interpolation And Extrapolation Of Mri Images"
+date: 2020-05-14
+url: https://discourse.slicer.org/t/11534
+---
+
 # Interpolation and extrapolation of MRI images
 
 **Topic ID**: 11534

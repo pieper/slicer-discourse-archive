@@ -1,3 +1,10 @@
+---
+topic_id: 32370
+title: "Centerline Extraction C Having Different Result From The Sli"
+date: 2023-10-22
+url: https://discourse.slicer.org/t/32370
+---
+
 # Centerline extraction C++ having different result from the slicer
 
 **Topic ID**: 32370

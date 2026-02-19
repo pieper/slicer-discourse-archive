@@ -1,3 +1,10 @@
+---
+topic_id: 31459
+title: "Method On How To Remove Black Background From Brain Mri Imag"
+date: 2023-08-31
+url: https://discourse.slicer.org/t/31459
+---
+
 # Method on how to remove black background from Brain MRI images
 
 **Topic ID**: 31459

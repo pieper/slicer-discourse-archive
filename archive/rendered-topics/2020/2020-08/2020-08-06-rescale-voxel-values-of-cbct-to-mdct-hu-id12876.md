@@ -1,3 +1,10 @@
+---
+topic_id: 12876
+title: "Rescale Voxel Values Of Cbct To Mdct Hu"
+date: 2020-08-06
+url: https://discourse.slicer.org/t/12876
+---
+
 # Rescale voxel values of CBCT to MDCT HU
 
 **Topic ID**: 12876

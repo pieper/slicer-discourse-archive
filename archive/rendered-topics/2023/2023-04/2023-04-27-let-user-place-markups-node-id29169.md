@@ -1,3 +1,10 @@
+---
+topic_id: 29169
+title: "Let User Place Markups Node"
+date: 2023-04-27
+url: https://discourse.slicer.org/t/29169
+---
+
 # Let user place markups node
 
 **Topic ID**: 29169

@@ -1,3 +1,10 @@
+---
+topic_id: 11747
+title: "Converting Transform H5 To Cmtk Xform"
+date: 2020-05-28
+url: https://discourse.slicer.org/t/11747
+---
+
 # Converting transform.h5 to cmtk .xform
 
 **Topic ID**: 11747

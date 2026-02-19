@@ -1,3 +1,10 @@
+---
+topic_id: 29527
+title: "Unable To View Rt Struct Even After Installing Slicerrt Exte"
+date: 2023-05-18
+url: https://discourse.slicer.org/t/29527
+---
+
 # Unable to view rt struct even after installing slicerRT extension
 
 **Topic ID**: 29527

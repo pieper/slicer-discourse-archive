@@ -1,3 +1,10 @@
+---
+topic_id: 36414
+title: "Is Slicer Able To Load Large Images 2 31 Voxels"
+date: 2024-05-27
+url: https://discourse.slicer.org/t/36414
+---
+
 # Is Slicer able to load large images (> 2^31 voxels)?
 
 **Topic ID**: 36414

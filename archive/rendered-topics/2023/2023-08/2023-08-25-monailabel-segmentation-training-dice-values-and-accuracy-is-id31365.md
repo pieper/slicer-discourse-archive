@@ -1,3 +1,10 @@
+---
+topic_id: 31365
+title: "Monailabel Segmentation Training Dice Values And Accuracy Is"
+date: 2023-08-25
+url: https://discourse.slicer.org/t/31365
+---
+
 # MONAILabel Segmentation training dice values and accuracy is 0
 
 **Topic ID**: 31365

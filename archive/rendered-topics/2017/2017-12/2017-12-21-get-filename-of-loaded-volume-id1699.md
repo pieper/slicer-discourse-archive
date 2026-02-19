@@ -1,3 +1,10 @@
+---
+topic_id: 1699
+title: "Get Filename Of Loaded Volume"
+date: 2017-12-21
+url: https://discourse.slicer.org/t/1699
+---
+
 # Get filename of loaded volume
 
 **Topic ID**: 1699

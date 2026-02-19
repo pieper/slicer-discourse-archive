@@ -1,3 +1,10 @@
+---
+topic_id: 1908
+title: "Can One Segment Be Part Of Another One"
+date: 2018-01-23
+url: https://discourse.slicer.org/t/1908
+---
+
 # Can one segment be part of another one?
 
 **Topic ID**: 1908

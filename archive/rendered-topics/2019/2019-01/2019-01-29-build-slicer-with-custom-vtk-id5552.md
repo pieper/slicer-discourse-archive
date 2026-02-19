@@ -1,3 +1,10 @@
+---
+topic_id: 5552
+title: "Build Slicer With Custom Vtk"
+date: 2019-01-29
+url: https://discourse.slicer.org/t/5552
+---
+
 # Build Slicer with custom VTK
 
 **Topic ID**: 5552

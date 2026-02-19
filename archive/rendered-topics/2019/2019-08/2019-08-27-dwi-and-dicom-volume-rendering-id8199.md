@@ -1,3 +1,10 @@
+---
+topic_id: 8199
+title: "Dwi And Dicom Volume Rendering"
+date: 2019-08-27
+url: https://discourse.slicer.org/t/8199
+---
+
 # DWI and DICOM Volume Rendering
 
 **Topic ID**: 8199

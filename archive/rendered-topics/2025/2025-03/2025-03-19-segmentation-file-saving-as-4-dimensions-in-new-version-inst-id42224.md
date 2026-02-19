@@ -1,3 +1,10 @@
+---
+topic_id: 42224
+title: "Segmentation File Saving As 4 Dimensions In New Version Inst"
+date: 2025-03-19
+url: https://discourse.slicer.org/t/42224
+---
+
 # Segmentation File saving as 4 dimensions in new version instead of 3
 
 **Topic ID**: 42224

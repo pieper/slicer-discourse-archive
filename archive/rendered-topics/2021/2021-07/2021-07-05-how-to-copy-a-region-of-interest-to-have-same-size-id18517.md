@@ -1,3 +1,10 @@
+---
+topic_id: 18517
+title: "How To Copy A Region Of Interest To Have Same Size"
+date: 2021-07-05
+url: https://discourse.slicer.org/t/18517
+---
+
 # how to copy a region of interest to have same size
 
 **Topic ID**: 18517

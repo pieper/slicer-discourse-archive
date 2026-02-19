@@ -1,3 +1,10 @@
+---
+topic_id: 25155
+title: "Install Fail Slicer 5 0 3 On Ubuntu 22 04 1"
+date: 2022-09-08
+url: https://discourse.slicer.org/t/25155
+---
+
 # Install fail Slicer-5.0.3 on Ubuntu-22.04.1
 
 **Topic ID**: 25155

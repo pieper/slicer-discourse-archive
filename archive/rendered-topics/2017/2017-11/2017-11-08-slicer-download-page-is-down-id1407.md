@@ -1,3 +1,10 @@
+---
+topic_id: 1407
+title: "Slicer Download Page Is Down"
+date: 2017-11-08
+url: https://discourse.slicer.org/t/1407
+---
+
 # Slicer download page is down
 
 **Topic ID**: 1407

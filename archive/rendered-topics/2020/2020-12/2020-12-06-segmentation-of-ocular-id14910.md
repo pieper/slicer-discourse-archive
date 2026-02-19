@@ -1,3 +1,10 @@
+---
+topic_id: 14910
+title: "Segmentation Of Ocular"
+date: 2020-12-06
+url: https://discourse.slicer.org/t/14910
+---
+
 # Segmentation of ocular
 
 **Topic ID**: 14910

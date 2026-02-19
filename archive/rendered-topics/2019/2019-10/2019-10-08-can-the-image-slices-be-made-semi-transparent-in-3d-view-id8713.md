@@ -1,3 +1,10 @@
+---
+topic_id: 8713
+title: "Can The Image Slices Be Made Semi Transparent In 3D View"
+date: 2019-10-08
+url: https://discourse.slicer.org/t/8713
+---
+
 # Can the image slices be made semi-transparent in 3D view?
 
 **Topic ID**: 8713

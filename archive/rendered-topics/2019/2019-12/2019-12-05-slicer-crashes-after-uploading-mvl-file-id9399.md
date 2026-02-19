@@ -1,3 +1,10 @@
+---
+topic_id: 9399
+title: "Slicer Crashes After Uploading Mvl File"
+date: 2019-12-05
+url: https://discourse.slicer.org/t/9399
+---
+
 # Slicer crashes after uploading MVL file
 
 **Topic ID**: 9399

@@ -1,3 +1,10 @@
+---
+topic_id: 41191
+title: "Spectral Lung Ct Ventilation And Perfusion"
+date: 2025-01-21
+url: https://discourse.slicer.org/t/41191
+---
+
 # Spectral Lung CT. Ventilation and perfusión
 
 **Topic ID**: 41191

@@ -1,3 +1,10 @@
+---
+topic_id: 26650
+title: "Create Tiff Stack From An Stl File"
+date: 2022-12-08
+url: https://discourse.slicer.org/t/26650
+---
+
 # Create TIFF stack from an stl file
 
 **Topic ID**: 26650

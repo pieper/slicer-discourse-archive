@@ -1,3 +1,10 @@
+---
+topic_id: 35505
+title: "Spline Curvature Measurements"
+date: 2024-04-15
+url: https://discourse.slicer.org/t/35505
+---
+
 # Spline Curvature Measurements
 
 **Topic ID**: 35505

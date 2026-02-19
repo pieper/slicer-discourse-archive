@@ -1,3 +1,10 @@
+---
+topic_id: 10055
+title: "Simpleitk Itk Vtk Autocompletion"
+date: 2020-01-31
+url: https://discourse.slicer.org/t/10055
+---
+
 # simpleITK, ITK,VTK Autocompletion
 
 **Topic ID**: 10055

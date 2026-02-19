@@ -1,3 +1,10 @@
+---
+topic_id: 40393
+title: "Slicer Install Update Script"
+date: 2024-11-27
+url: https://discourse.slicer.org/t/40393
+---
+
 # Slicer install/update script
 
 **Topic ID**: 40393

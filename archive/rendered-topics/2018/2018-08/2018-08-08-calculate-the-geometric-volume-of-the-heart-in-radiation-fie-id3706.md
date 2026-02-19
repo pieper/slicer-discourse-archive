@@ -1,3 +1,10 @@
+---
+topic_id: 3706
+title: "Calculate The Geometric Volume Of The Heart In Radiation Fie"
+date: 2018-08-08
+url: https://discourse.slicer.org/t/3706
+---
+
 # Calculate the geometric volume of the heart in radiation field
 
 **Topic ID**: 3706

@@ -1,3 +1,10 @@
+---
+topic_id: 32995
+title: "Data Import Error"
+date: 2023-11-24
+url: https://discourse.slicer.org/t/32995
+---
+
 # Data Import Error
 
 **Topic ID**: 32995

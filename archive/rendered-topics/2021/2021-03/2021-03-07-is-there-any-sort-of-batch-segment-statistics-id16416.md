@@ -1,3 +1,10 @@
+---
+topic_id: 16416
+title: "Is There Any Sort Of Batch Segment Statistics"
+date: 2021-03-07
+url: https://discourse.slicer.org/t/16416
+---
+
 # Is there any sort of "batch" segment statistics?
 
 **Topic ID**: 16416

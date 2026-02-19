@@ -1,3 +1,10 @@
+---
+topic_id: 7345
+title: "Right Button Press On Markups Fiducial"
+date: 2019-06-28
+url: https://discourse.slicer.org/t/7345
+---
+
 # Right Button Press on Markups Fiducial
 
 **Topic ID**: 7345

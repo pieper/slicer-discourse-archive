@@ -1,3 +1,10 @@
+---
+topic_id: 14639
+title: "How To Hide Empty Black Regions Of The Slice In 3D View"
+date: 2020-11-16
+url: https://discourse.slicer.org/t/14639
+---
+
 # How to hide empty black regions of the slice in 3D view
 
 **Topic ID**: 14639

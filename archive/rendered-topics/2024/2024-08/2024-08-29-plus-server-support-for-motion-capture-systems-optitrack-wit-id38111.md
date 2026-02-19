@@ -1,3 +1,10 @@
+---
+topic_id: 38111
+title: "Plus Server Support For Motion Capture Systems Optitrack Wit"
+date: 2024-08-29
+url: https://discourse.slicer.org/t/38111
+---
+
 # PLUS server support for motion capture systems (Optitrack with Motive 3.x and VICON)
 
 **Topic ID**: 38111

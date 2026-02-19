@@ -1,3 +1,10 @@
+---
+topic_id: 4568
+title: "Brain Anatomical Surface Reconstruction With Venous And Arte"
+date: 2018-10-29
+url: https://discourse.slicer.org/t/4568
+---
+
 # Brain anatomical surface reconstruction with venous and artery structure 
 
 **Topic ID**: 4568

@@ -1,3 +1,10 @@
+---
+topic_id: 12574
+title: "Mirroring 3D Data And Calculate Mismatch Between Lef Right S"
+date: 2020-07-16
+url: https://discourse.slicer.org/t/12574
+---
+
 # Mirroring 3D-data and calculate mismatch between lef&right side
 
 **Topic ID**: 12574

@@ -1,3 +1,10 @@
+---
+topic_id: 11722
+title: "Best Way To Automatically Segment An Implant"
+date: 2020-05-26
+url: https://discourse.slicer.org/t/11722
+---
+
 # Best way to automatically segment an implant
 
 **Topic ID**: 11722

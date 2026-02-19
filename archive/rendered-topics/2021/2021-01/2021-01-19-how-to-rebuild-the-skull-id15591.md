@@ -1,3 +1,10 @@
+---
+topic_id: 15591
+title: "How To Rebuild The Skull"
+date: 2021-01-19
+url: https://discourse.slicer.org/t/15591
+---
+
 # How to rebuild the skull
 
 **Topic ID**: 15591

@@ -1,3 +1,10 @@
+---
+topic_id: 9355
+title: "How To Load A Scalars Overlay For A Model Node Via Python"
+date: 2019-12-02
+url: https://discourse.slicer.org/t/9355
+---
+
 # How to load a Scalars Overlay for a Model Node via Python 
 
 **Topic ID**: 9355

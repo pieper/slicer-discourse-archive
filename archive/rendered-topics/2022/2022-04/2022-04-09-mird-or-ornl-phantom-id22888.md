@@ -1,3 +1,10 @@
+---
+topic_id: 22888
+title: "Mird Or Ornl Phantom"
+date: 2022-04-09
+url: https://discourse.slicer.org/t/22888
+---
+
 # MIRD or ORNL phantom
 
 **Topic ID**: 22888

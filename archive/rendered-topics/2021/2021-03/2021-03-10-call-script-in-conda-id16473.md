@@ -1,3 +1,10 @@
+---
+topic_id: 16473
+title: "Call Script In Conda"
+date: 2021-03-10
+url: https://discourse.slicer.org/t/16473
+---
+
 # Call script in conda
 
 **Topic ID**: 16473

@@ -1,3 +1,10 @@
+---
+topic_id: 30025
+title: "3D Visualization In Slicerde"
+date: 2023-06-14
+url: https://discourse.slicer.org/t/30025
+---
+
 # 3D Visualization in Slicerde
 
 **Topic ID**: 30025

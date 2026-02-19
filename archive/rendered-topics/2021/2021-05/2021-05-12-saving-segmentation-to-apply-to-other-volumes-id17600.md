@@ -1,3 +1,10 @@
+---
+topic_id: 17600
+title: "Saving Segmentation To Apply To Other Volumes"
+date: 2021-05-12
+url: https://discourse.slicer.org/t/17600
+---
+
 # Saving segmentation to apply to other volumes
 
 **Topic ID**: 17600

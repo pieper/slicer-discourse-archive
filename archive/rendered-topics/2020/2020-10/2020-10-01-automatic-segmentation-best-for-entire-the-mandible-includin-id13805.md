@@ -1,3 +1,10 @@
+---
+topic_id: 13805
+title: "Automatic Segmentation Best For Entire The Mandible Includin"
+date: 2020-10-01
+url: https://discourse.slicer.org/t/13805
+---
+
 # Automatic segmentation best for entire the mandible including dentition, trabecular and cortical bone
 
 **Topic ID**: 13805

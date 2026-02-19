@@ -1,3 +1,10 @@
+---
+topic_id: 44653
+title: "Adjust Segmentation Transparency Of Orthoslices And Volumes"
+date: 2025-10-02
+url: https://discourse.slicer.org/t/44653
+---
+
 # Adjust segmentation transparency of orthoslices and volumes independently for better contrast in 3d view
 
 **Topic ID**: 44653

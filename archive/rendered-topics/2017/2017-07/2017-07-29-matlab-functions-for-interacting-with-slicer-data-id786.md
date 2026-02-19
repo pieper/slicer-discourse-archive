@@ -1,3 +1,10 @@
+---
+topic_id: 786
+title: "Matlab Functions For Interacting With Slicer Data"
+date: 2017-07-29
+url: https://discourse.slicer.org/t/786
+---
+
 # Matlab Functions for Interacting with Slicer Data?
 
 **Topic ID**: 786

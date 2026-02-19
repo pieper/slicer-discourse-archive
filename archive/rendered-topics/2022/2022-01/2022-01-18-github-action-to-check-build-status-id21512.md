@@ -1,3 +1,10 @@
+---
+topic_id: 21512
+title: "Github Action To Check Build Status"
+date: 2022-01-18
+url: https://discourse.slicer.org/t/21512
+---
+
 # GitHub action to check build status
 
 **Topic ID**: 21512

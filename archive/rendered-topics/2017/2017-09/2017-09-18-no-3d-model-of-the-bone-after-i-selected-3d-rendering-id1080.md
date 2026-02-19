@@ -1,3 +1,10 @@
+---
+topic_id: 1080
+title: "No 3D Model Of The Bone After I Selected 3D Rendering"
+date: 2017-09-18
+url: https://discourse.slicer.org/t/1080
+---
+
 # No 3D model of the bone after I selected 3D rendering
 
 **Topic ID**: 1080

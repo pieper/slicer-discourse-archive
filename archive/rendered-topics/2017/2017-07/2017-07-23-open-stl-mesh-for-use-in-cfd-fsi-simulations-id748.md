@@ -1,3 +1,10 @@
+---
+topic_id: 748
+title: "Open Stl Mesh For Use In Cfd Fsi Simulations"
+date: 2017-07-23
+url: https://discourse.slicer.org/t/748
+---
+
 # "open" STL mesh for use in CFD & FSI simulations
 
 **Topic ID**: 748

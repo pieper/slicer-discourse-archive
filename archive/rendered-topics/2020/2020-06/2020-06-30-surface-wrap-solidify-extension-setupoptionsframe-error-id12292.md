@@ -1,3 +1,10 @@
+---
+topic_id: 12292
+title: "Surface Wrap Solidify Extension Setupoptionsframe Error"
+date: 2020-06-30
+url: https://discourse.slicer.org/t/12292
+---
+
 # Surface Wrap Solidify extension: setupOptionsFrame error
 
 **Topic ID**: 12292

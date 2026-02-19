@@ -1,3 +1,10 @@
+---
+topic_id: 35574
+title: "How To Log Click On A Button In Segment Editor"
+date: 2024-04-17
+url: https://discourse.slicer.org/t/35574
+---
+
 # How to log click on a button in segment editor?
 
 **Topic ID**: 35574

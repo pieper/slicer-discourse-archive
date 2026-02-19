@@ -1,3 +1,10 @@
+---
+topic_id: 2350
+title: "New 3D Slicer Module That Connects To A Mysql Db"
+date: 2018-03-18
+url: https://discourse.slicer.org/t/2350
+---
+
 # New 3D Slicer Module that Connects to a MySQL DB
 
 **Topic ID**: 2350

@@ -1,3 +1,10 @@
+---
+topic_id: 34015
+title: "Project Week 40 Begins Now"
+date: 2024-01-29
+url: https://discourse.slicer.org/t/34015
+---
+
 # Project Week 40 Begins Now!
 
 **Topic ID**: 34015

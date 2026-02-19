@@ -1,3 +1,10 @@
+---
+topic_id: 44798
+title: "Generate Digitally Reconstructed Radiograph From An 3Dct How"
+date: 2025-10-17
+url: https://discourse.slicer.org/t/44798
+---
+
 # Generate digitally reconstructed radiograph from an 3DCT. How to choose different controllpoints of an arc beam?
 
 **Topic ID**: 44798

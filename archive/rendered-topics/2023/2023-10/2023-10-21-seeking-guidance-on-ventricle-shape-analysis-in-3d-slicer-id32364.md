@@ -1,3 +1,10 @@
+---
+topic_id: 32364
+title: "Seeking Guidance On Ventricle Shape Analysis In 3D Slicer"
+date: 2023-10-21
+url: https://discourse.slicer.org/t/32364
+---
+
 # Seeking Guidance on Ventricle Shape Analysis in 3D Slicer
 
 **Topic ID**: 32364

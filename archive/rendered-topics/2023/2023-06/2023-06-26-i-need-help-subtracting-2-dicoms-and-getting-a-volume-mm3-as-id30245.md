@@ -1,3 +1,10 @@
+---
+topic_id: 30245
+title: "I Need Help Subtracting 2 Dicoms And Getting A Volume Mm3 As"
+date: 2023-06-26
+url: https://discourse.slicer.org/t/30245
+---
+
 # I need help subtracting 2 DICOMs and getting a volume (mm3) as result   
 
 **Topic ID**: 30245

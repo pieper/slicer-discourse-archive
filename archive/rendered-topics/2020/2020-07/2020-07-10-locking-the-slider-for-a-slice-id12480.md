@@ -1,3 +1,10 @@
+---
+topic_id: 12480
+title: "Locking The Slider For A Slice"
+date: 2020-07-10
+url: https://discourse.slicer.org/t/12480
+---
+
 # "Locking" the slider for a slice
 
 **Topic ID**: 12480

@@ -1,3 +1,10 @@
+---
+topic_id: 17291
+title: "Delete Or Inactivated Some Images"
+date: 2021-04-24
+url: https://discourse.slicer.org/t/17291
+---
+
 # Delete or inactivated some images
 
 **Topic ID**: 17291

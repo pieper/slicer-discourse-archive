@@ -1,3 +1,10 @@
+---
+topic_id: 44922
+title: "Recreating Segmentation From 3D Models"
+date: 2025-10-30
+url: https://discourse.slicer.org/t/44922
+---
+
 # Recreating segmentation from 3D models
 
 **Topic ID**: 44922

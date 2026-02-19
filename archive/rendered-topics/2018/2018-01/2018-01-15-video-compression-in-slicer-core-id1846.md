@@ -1,3 +1,10 @@
+---
+topic_id: 1846
+title: "Video Compression In Slicer Core"
+date: 2018-01-15
+url: https://discourse.slicer.org/t/1846
+---
+
 # Video compression in Slicer core
 
 **Topic ID**: 1846

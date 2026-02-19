@@ -1,3 +1,10 @@
+---
+topic_id: 26506
+title: "Qslicermarkupsplacewidget Get Control Point Coordinates"
+date: 2022-11-30
+url: https://discourse.slicer.org/t/26506
+---
+
 # qSlicerMarkupsPlaceWidget - Get control point coordinates
 
 **Topic ID**: 26506

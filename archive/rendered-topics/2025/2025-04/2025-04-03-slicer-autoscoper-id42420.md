@@ -1,3 +1,10 @@
+---
+topic_id: 42420
+title: "Slicer Autoscoper"
+date: 2025-04-03
+url: https://discourse.slicer.org/t/42420
+---
+
 # Slicer Autoscoper
 
 **Topic ID**: 42420

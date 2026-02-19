@@ -1,3 +1,10 @@
+---
+topic_id: 42332
+title: "Input Orientation And Axis Indexing In Pyradiomics Simpleitk"
+date: 2025-03-27
+url: https://discourse.slicer.org/t/42332
+---
+
 # Input Orientation and Axis Indexing in PyRadiomics (SimpleITK vs NumPy)
 
 **Topic ID**: 42332

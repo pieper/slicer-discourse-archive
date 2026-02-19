@@ -1,3 +1,10 @@
+---
+topic_id: 9026
+title: "Vtk Leaks While Testing"
+date: 2019-11-05
+url: https://discourse.slicer.org/t/9026
+---
+
 # VTK leaks while testing
 
 **Topic ID**: 9026

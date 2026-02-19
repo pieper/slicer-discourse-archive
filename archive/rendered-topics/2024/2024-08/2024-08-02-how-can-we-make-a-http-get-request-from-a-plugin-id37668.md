@@ -1,3 +1,10 @@
+---
+topic_id: 37668
+title: "How Can We Make A Http Get Request From A Plugin"
+date: 2024-08-02
+url: https://discourse.slicer.org/t/37668
+---
+
 # How can we make a http get request from a plugin
 
 **Topic ID**: 37668

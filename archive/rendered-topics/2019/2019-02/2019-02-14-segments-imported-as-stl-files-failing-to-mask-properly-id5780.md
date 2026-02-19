@@ -1,3 +1,10 @@
+---
+topic_id: 5780
+title: "Segments Imported As Stl Files Failing To Mask Properly"
+date: 2019-02-14
+url: https://discourse.slicer.org/t/5780
+---
+
 # Segments imported as stl files failing to mask properly
 
 **Topic ID**: 5780

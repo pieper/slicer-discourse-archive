@@ -1,3 +1,10 @@
+---
+topic_id: 21671
+title: "How To Change Slider Position From Top Side To Right Side"
+date: 2022-01-28
+url: https://discourse.slicer.org/t/21671
+---
+
 # How to change slider position from top side to Right side
 
 **Topic ID**: 21671

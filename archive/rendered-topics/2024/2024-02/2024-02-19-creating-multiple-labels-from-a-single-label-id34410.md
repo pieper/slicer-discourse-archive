@@ -1,3 +1,10 @@
+---
+topic_id: 34410
+title: "Creating Multiple Labels From A Single Label"
+date: 2024-02-19
+url: https://discourse.slicer.org/t/34410
+---
+
 # Creating multiple labels from a single label
 
 **Topic ID**: 34410

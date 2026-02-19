@@ -1,3 +1,10 @@
+---
+topic_id: 19701
+title: "How To Make Nasal Cavity 3 D Model In 3D Slicer Which Can Be"
+date: 2021-09-16
+url: https://discourse.slicer.org/t/19701
+---
+
 # How to make nasal cavity 3 d model in 3D slicer which can be used for simulations?
 
 **Topic ID**: 19701

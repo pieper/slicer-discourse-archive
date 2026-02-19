@@ -1,3 +1,10 @@
+---
+topic_id: 46116
+title: "Breast Pet Ct Segmentation"
+date: 2026-02-10
+url: https://discourse.slicer.org/t/46116
+---
+
 # Breast PET/CT segmentation
 
 **Topic ID**: 46116

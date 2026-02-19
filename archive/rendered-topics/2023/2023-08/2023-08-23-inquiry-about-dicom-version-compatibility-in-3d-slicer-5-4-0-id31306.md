@@ -1,3 +1,10 @@
+---
+topic_id: 31306
+title: "Inquiry About Dicom Version Compatibility In 3D Slicer 5 4 0"
+date: 2023-08-23
+url: https://discourse.slicer.org/t/31306
+---
+
 # Inquiry about DICOM Version Compatibility in 3D Slicer (5.4.0 and 5.5.0)
 
 **Topic ID**: 31306

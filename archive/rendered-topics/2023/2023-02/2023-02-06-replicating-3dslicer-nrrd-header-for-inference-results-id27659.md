@@ -1,3 +1,10 @@
+---
+topic_id: 27659
+title: "Replicating 3Dslicer Nrrd Header For Inference Results"
+date: 2023-02-06
+url: https://discourse.slicer.org/t/27659
+---
+
 # Replicating 3Dslicer nrrd header for inference results
 
 **Topic ID**: 27659

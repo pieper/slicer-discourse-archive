@@ -1,3 +1,10 @@
+---
+topic_id: 44264
+title: "Surface Measurements Model Comparison In 3D Slicer"
+date: 2025-08-29
+url: https://discourse.slicer.org/t/44264
+---
+
 # Surface Measurements & Model Comparison in 3D Slicer
 
 **Topic ID**: 44264

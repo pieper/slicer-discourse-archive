@@ -1,3 +1,10 @@
+---
+topic_id: 33944
+title: "Ignore Orientation Troubles"
+date: 2024-01-24
+url: https://discourse.slicer.org/t/33944
+---
+
 # "Ignore Orientation" troubles
 
 **Topic ID**: 33944

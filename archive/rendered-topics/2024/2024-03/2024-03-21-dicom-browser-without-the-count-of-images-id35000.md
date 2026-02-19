@@ -1,3 +1,10 @@
+---
+topic_id: 35000
+title: "Dicom Browser Without The Count Of Images"
+date: 2024-03-21
+url: https://discourse.slicer.org/t/35000
+---
+
 # DICOM browser without the count of images
 
 **Topic ID**: 35000

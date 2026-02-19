@@ -1,3 +1,10 @@
+---
+topic_id: 32175
+title: "Radiomics Cli Parameters"
+date: 2023-10-12
+url: https://discourse.slicer.org/t/32175
+---
+
 # Radiomics cli parameters
 
 **Topic ID**: 32175

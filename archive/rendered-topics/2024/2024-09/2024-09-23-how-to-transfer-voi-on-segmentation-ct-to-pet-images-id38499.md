@@ -1,3 +1,10 @@
+---
+topic_id: 38499
+title: "How To Transfer Voi On Segmentation Ct To Pet Images"
+date: 2024-09-23
+url: https://discourse.slicer.org/t/38499
+---
+
 # How to transfer VOI on segmentation CT to PET Images
 
 **Topic ID**: 38499

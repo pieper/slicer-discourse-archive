@@ -1,3 +1,10 @@
+---
+topic_id: 18531
+title: "Lines Appear Other Than Centerline"
+date: 2021-07-06
+url: https://discourse.slicer.org/t/18531
+---
+
 # Lines appear other than centerline
 
 **Topic ID**: 18531

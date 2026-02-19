@@ -1,3 +1,10 @@
+---
+topic_id: 4517
+title: "Moving Slice Intersection Crosshair Over A Fiducial Point"
+date: 2018-10-24
+url: https://discourse.slicer.org/t/4517
+---
+
 # Moving slice intersection/crosshair over a fiducial point
 
 **Topic ID**: 4517

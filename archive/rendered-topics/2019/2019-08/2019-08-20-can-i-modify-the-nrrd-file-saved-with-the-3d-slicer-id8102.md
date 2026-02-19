@@ -1,3 +1,10 @@
+---
+topic_id: 8102
+title: "Can I Modify The Nrrd File Saved With The 3D Slicer"
+date: 2019-08-20
+url: https://discourse.slicer.org/t/8102
+---
+
 # Can I modify the nrrd file saved with the 3D Slicer?
 
 **Topic ID**: 8102

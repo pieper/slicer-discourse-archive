@@ -1,3 +1,10 @@
+---
+topic_id: 41686
+title: "Safe Way To Handle Qt Events"
+date: 2025-02-13
+url: https://discourse.slicer.org/t/41686
+---
+
 # Safe way to handle QT events
 
 **Topic ID**: 41686

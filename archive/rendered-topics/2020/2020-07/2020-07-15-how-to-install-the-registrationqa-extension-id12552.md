@@ -1,3 +1,10 @@
+---
+topic_id: 12552
+title: "How To Install The Registrationqa Extension"
+date: 2020-07-15
+url: https://discourse.slicer.org/t/12552
+---
+
 # How to install the RegistrationQA extension
 
 **Topic ID**: 12552

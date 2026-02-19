@@ -1,3 +1,10 @@
+---
+topic_id: 21677
+title: "Interactive Slice Intersections"
+date: 2022-01-28
+url: https://discourse.slicer.org/t/21677
+---
+
 # Interactive slice intersections
 
 **Topic ID**: 21677

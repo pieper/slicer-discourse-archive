@@ -1,3 +1,10 @@
+---
+topic_id: 16499
+title: "How Can I Create A Copy Of The Segment Editor Erase Effect A"
+date: 2021-03-12
+url: https://discourse.slicer.org/t/16499
+---
+
 # How can I create a copy of the segment editor erase effect and rename it?
 
 **Topic ID**: 16499

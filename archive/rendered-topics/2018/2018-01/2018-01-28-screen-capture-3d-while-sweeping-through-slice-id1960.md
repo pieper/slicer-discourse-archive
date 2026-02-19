@@ -1,3 +1,10 @@
+---
+topic_id: 1960
+title: "Screen Capture 3D While Sweeping Through Slice"
+date: 2018-01-28
+url: https://discourse.slicer.org/t/1960
+---
+
 # Screen capture 3D while sweeping through slice
 
 **Topic ID**: 1960

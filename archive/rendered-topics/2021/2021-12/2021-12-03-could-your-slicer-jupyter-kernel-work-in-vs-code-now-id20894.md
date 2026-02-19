@@ -1,3 +1,10 @@
+---
+topic_id: 20894
+title: "Could Your Slicer Jupyter Kernel Work In Vs Code Now"
+date: 2021-12-03
+url: https://discourse.slicer.org/t/20894
+---
+
 # Could your Slicer Jupyter kernel work in VS code now?
 
 **Topic ID**: 20894

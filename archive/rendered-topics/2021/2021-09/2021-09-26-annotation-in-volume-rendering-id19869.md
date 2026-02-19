@@ -1,3 +1,10 @@
+---
+topic_id: 19869
+title: "Annotation In Volume Rendering"
+date: 2021-09-26
+url: https://discourse.slicer.org/t/19869
+---
+
 # Annotation in volume rendering
 
 **Topic ID**: 19869

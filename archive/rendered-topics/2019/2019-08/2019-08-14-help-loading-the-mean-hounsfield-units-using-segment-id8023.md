@@ -1,3 +1,10 @@
+---
+topic_id: 8023
+title: "Help Loading The Mean Hounsfield Units Using Segment"
+date: 2019-08-14
+url: https://discourse.slicer.org/t/8023
+---
+
 # Help Loading The Mean Hounsfield Units Using Segment
 
 **Topic ID**: 8023

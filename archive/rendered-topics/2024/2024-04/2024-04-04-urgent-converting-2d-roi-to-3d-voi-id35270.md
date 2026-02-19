@@ -1,3 +1,10 @@
+---
+topic_id: 35270
+title: "Urgent Converting 2D Roi To 3D Voi"
+date: 2024-04-04
+url: https://discourse.slicer.org/t/35270
+---
+
 # URGENT : Converting 2D ROI to 3D VOI
 
 **Topic ID**: 35270

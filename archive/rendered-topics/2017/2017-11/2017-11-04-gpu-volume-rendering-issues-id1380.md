@@ -1,3 +1,10 @@
+---
+topic_id: 1380
+title: "Gpu Volume Rendering Issues"
+date: 2017-11-04
+url: https://discourse.slicer.org/t/1380
+---
+
 # GPU Volume Rendering Issues
 
 **Topic ID**: 1380

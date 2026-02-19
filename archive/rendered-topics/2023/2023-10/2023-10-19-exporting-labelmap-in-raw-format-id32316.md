@@ -1,3 +1,10 @@
+---
+topic_id: 32316
+title: "Exporting Labelmap In Raw Format"
+date: 2023-10-19
+url: https://discourse.slicer.org/t/32316
+---
+
 # Exporting labelmap in raw format
 
 **Topic ID**: 32316

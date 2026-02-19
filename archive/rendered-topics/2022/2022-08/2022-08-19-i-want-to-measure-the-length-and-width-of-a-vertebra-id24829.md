@@ -1,3 +1,10 @@
+---
+topic_id: 24829
+title: "I Want To Measure The Length And Width Of A Vertebra"
+date: 2022-08-19
+url: https://discourse.slicer.org/t/24829
+---
+
 # I want to measure the length and width of a vertebra?
 
 **Topic ID**: 24829

@@ -1,3 +1,10 @@
+---
+topic_id: 44710
+title: "Slicer Cannot Be Used On The Extended Screen"
+date: 2025-10-09
+url: https://discourse.slicer.org/t/44710
+---
+
 # Slicer cannot be used on the extended screen
 
 **Topic ID**: 44710

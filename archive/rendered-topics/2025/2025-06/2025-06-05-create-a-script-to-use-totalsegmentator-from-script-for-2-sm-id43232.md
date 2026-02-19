@@ -1,3 +1,10 @@
+---
+topic_id: 43232
+title: "Create A Script To Use Totalsegmentator From Script For 2 Sm"
+date: 2025-06-05
+url: https://discourse.slicer.org/t/43232
+---
+
 # Create a script to use TotalSegmentator from script for 2 small tasks
 
 **Topic ID**: 43232

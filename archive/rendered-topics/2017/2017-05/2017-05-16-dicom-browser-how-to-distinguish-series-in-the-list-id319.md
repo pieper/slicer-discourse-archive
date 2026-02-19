@@ -1,3 +1,10 @@
+---
+topic_id: 319
+title: "Dicom Browser How To Distinguish Series In The List"
+date: 2017-05-16
+url: https://discourse.slicer.org/t/319
+---
+
 # DICOM Browser: How to distinguish series in the list?
 
 **Topic ID**: 319

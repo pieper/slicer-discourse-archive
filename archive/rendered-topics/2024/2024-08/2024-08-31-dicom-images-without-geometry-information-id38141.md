@@ -1,3 +1,10 @@
+---
+topic_id: 38141
+title: "Dicom Images Without Geometry Information"
+date: 2024-08-31
+url: https://discourse.slicer.org/t/38141
+---
+
 # DICOM images without Geometry Information
 
 **Topic ID**: 38141

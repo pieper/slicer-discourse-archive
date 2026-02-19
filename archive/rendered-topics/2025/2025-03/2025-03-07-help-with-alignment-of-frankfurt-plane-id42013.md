@@ -1,3 +1,10 @@
+---
+topic_id: 42013
+title: "Help With Alignment Of Frankfurt Plane"
+date: 2025-03-07
+url: https://discourse.slicer.org/t/42013
+---
+
 # Help with alignment of Frankfurt Plane
 
 **Topic ID**: 42013

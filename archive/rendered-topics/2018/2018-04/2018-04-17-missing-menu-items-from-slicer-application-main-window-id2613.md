@@ -1,3 +1,10 @@
+---
+topic_id: 2613
+title: "Missing Menu Items From Slicer Application Main Window"
+date: 2018-04-17
+url: https://discourse.slicer.org/t/2613
+---
+
 # Missing menu items from Slicer Application Main Window
 
 **Topic ID**: 2613

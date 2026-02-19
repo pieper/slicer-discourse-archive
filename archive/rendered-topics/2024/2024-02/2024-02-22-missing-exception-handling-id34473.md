@@ -1,3 +1,10 @@
+---
+topic_id: 34473
+title: "Missing Exception Handling"
+date: 2024-02-22
+url: https://discourse.slicer.org/t/34473
+---
+
 # Missing exception handling
 
 **Topic ID**: 34473

@@ -1,3 +1,10 @@
+---
+topic_id: 17576
+title: "Edit Ui Of 3D Slicer"
+date: 2021-05-11
+url: https://discourse.slicer.org/t/17576
+---
+
 # Edit UI of 3D slicer 
 
 **Topic ID**: 17576

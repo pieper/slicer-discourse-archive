@@ -1,3 +1,10 @@
+---
+topic_id: 7046
+title: "Cannot Open 3D Slicer Because Of Missing Vtkcommon 8 2 Dll F"
+date: 2019-06-06
+url: https://discourse.slicer.org/t/7046
+---
+
 # Cannot open 3D slicer because of missing vtkcommon-8.2.dll files
 
 **Topic ID**: 7046

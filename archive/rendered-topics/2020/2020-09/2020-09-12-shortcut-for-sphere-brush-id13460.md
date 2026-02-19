@@ -1,3 +1,10 @@
+---
+topic_id: 13460
+title: "Shortcut For Sphere Brush"
+date: 2020-09-12
+url: https://discourse.slicer.org/t/13460
+---
+
 # Shortcut for Sphere brush
 
 **Topic ID**: 13460

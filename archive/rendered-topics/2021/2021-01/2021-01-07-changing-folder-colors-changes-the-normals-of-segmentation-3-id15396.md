@@ -1,3 +1,10 @@
+---
+topic_id: 15396
+title: "Changing Folder Colors Changes The Normals Of Segmentation 3"
+date: 2021-01-07
+url: https://discourse.slicer.org/t/15396
+---
+
 # Changing folder colors, changes the normals of segmentation 3D surface inside of that folder
 
 **Topic ID**: 15396

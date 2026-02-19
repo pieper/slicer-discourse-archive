@@ -1,3 +1,10 @@
+---
+topic_id: 44217
+title: "How To Convert A Custom 3D Slicer Plugin With Parameternodes"
+date: 2025-08-27
+url: https://discourse.slicer.org/t/44217
+---
+
 # How to convert a custom 3D Slicer plugin with ParameterNodes into a CLI-friendly module?
 
 **Topic ID**: 44217

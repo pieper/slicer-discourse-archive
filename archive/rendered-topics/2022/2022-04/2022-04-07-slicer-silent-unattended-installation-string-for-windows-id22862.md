@@ -1,3 +1,10 @@
+---
+topic_id: 22862
+title: "Slicer Silent Unattended Installation String For Windows"
+date: 2022-04-07
+url: https://discourse.slicer.org/t/22862
+---
+
 # Slicer Silent unattended installation string for Windows
 
 **Topic ID**: 22862

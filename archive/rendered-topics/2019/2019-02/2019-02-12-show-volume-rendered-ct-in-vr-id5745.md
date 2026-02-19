@@ -1,3 +1,10 @@
+---
+topic_id: 5745
+title: "Show Volume Rendered Ct In Vr"
+date: 2019-02-12
+url: https://discourse.slicer.org/t/5745
+---
+
 # Show volume rendered CT in VR
 
 **Topic ID**: 5745

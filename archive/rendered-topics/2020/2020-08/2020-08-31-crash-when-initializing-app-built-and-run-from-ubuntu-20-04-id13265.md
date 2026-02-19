@@ -1,3 +1,10 @@
+---
+topic_id: 13265
+title: "Crash When Initializing App Built And Run From Ubuntu 20 04"
+date: 2020-08-31
+url: https://discourse.slicer.org/t/13265
+---
+
 # Crash when initializing app built and run from Ubuntu 20.04
 
 **Topic ID**: 13265

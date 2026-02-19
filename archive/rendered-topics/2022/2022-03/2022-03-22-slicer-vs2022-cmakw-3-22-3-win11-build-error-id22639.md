@@ -1,3 +1,10 @@
+---
+topic_id: 22639
+title: "Slicer Vs2022 Cmakw 3 22 3 Win11 Build Error"
+date: 2022-03-22
+url: https://discourse.slicer.org/t/22639
+---
+
 # slicer  vs2022  cmakw 3.22.3   win11 build  error
 
 **Topic ID**: 22639

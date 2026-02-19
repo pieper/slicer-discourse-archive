@@ -1,3 +1,10 @@
+---
+topic_id: 45845
+title: "Is There A Tool Similar To Viewtify 3Dcg"
+date: 2026-01-20
+url: https://discourse.slicer.org/t/45845
+---
+
 # Is there a tool similar to Viewtify 3DCG?
 
 **Topic ID**: 45845

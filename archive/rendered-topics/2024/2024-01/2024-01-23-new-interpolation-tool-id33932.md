@@ -1,3 +1,10 @@
+---
+topic_id: 33932
+title: "New Interpolation Tool"
+date: 2024-01-23
+url: https://discourse.slicer.org/t/33932
+---
+
 # New interpolation tool
 
 **Topic ID**: 33932

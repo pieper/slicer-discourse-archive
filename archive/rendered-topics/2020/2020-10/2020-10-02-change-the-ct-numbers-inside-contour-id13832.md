@@ -1,3 +1,10 @@
+---
+topic_id: 13832
+title: "Change The Ct Numbers Inside Contour"
+date: 2020-10-02
+url: https://discourse.slicer.org/t/13832
+---
+
 # Change the CT numbers inside contour
 
 **Topic ID**: 13832

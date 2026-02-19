@@ -1,3 +1,10 @@
+---
+topic_id: 24838
+title: "Display Vtk Wedge In Slicer As Segmentation"
+date: 2022-08-19
+url: https://discourse.slicer.org/t/24838
+---
+
 # Display VTK Wedge in Slicer as Segmentation
 
 **Topic ID**: 24838

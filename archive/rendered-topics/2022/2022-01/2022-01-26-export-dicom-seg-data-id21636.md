@@ -1,3 +1,10 @@
+---
+topic_id: 21636
+title: "Export Dicom Seg Data"
+date: 2022-01-26
+url: https://discourse.slicer.org/t/21636
+---
+
 # Export DICOM-SEG data
 
 **Topic ID**: 21636

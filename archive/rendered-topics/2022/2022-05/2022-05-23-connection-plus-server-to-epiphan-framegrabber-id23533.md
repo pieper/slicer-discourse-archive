@@ -1,3 +1,10 @@
+---
+topic_id: 23533
+title: "Connection Plus Server To Epiphan Framegrabber"
+date: 2022-05-23
+url: https://discourse.slicer.org/t/23533
+---
+
 # Connection Plus Server to Epiphan Framegrabber
 
 **Topic ID**: 23533

@@ -1,3 +1,10 @@
+---
+topic_id: 21958
+title: "Low Pass High Pass Filters"
+date: 2022-02-14
+url: https://discourse.slicer.org/t/21958
+---
+
 # Low-Pass High-Pass Filters
 
 **Topic ID**: 21958

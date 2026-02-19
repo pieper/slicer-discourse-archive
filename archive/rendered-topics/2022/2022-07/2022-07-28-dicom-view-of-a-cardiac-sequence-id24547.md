@@ -1,3 +1,10 @@
+---
+topic_id: 24547
+title: "Dicom View Of A Cardiac Sequence"
+date: 2022-07-28
+url: https://discourse.slicer.org/t/24547
+---
+
 # DICOM view of a cardiac sequence
 
 **Topic ID**: 24547

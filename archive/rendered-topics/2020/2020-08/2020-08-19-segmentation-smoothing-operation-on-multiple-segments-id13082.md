@@ -1,3 +1,10 @@
+---
+topic_id: 13082
+title: "Segmentation Smoothing Operation On Multiple Segments"
+date: 2020-08-19
+url: https://discourse.slicer.org/t/13082
+---
+
 # Segmentation smoothing operation on multiple segments
 
 **Topic ID**: 13082

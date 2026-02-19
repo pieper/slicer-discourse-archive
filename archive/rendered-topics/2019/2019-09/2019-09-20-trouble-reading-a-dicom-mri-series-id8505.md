@@ -1,3 +1,10 @@
+---
+topic_id: 8505
+title: "Trouble Reading A Dicom Mri Series"
+date: 2019-09-20
+url: https://discourse.slicer.org/t/8505
+---
+
 # Trouble reading a DICOM MRI series
 
 **Topic ID**: 8505

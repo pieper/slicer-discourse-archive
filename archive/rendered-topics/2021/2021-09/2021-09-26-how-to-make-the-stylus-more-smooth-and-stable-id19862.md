@@ -1,3 +1,10 @@
+---
+topic_id: 19862
+title: "How To Make The Stylus More Smooth And Stable"
+date: 2021-09-26
+url: https://discourse.slicer.org/t/19862
+---
+
 # How to make the stylus more smooth and stable
 
 **Topic ID**: 19862

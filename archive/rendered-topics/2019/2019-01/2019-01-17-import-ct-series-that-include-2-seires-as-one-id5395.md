@@ -1,3 +1,10 @@
+---
+topic_id: 5395
+title: "Import Ct Series That Include 2 Seires As One"
+date: 2019-01-17
+url: https://discourse.slicer.org/t/5395
+---
+
 # Import CT series, that include 2 seires as one
 
 **Topic ID**: 5395

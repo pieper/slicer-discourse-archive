@@ -1,3 +1,10 @@
+---
+topic_id: 6218
+title: "Python Console Warnings For Deprecated Methods"
+date: 2019-03-20
+url: https://discourse.slicer.org/t/6218
+---
+
 # Python console warnings for deprecated methods
 
 **Topic ID**: 6218

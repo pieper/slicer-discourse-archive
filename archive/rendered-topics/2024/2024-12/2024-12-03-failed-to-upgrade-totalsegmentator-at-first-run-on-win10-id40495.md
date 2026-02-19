@@ -1,3 +1,10 @@
+---
+topic_id: 40495
+title: "Failed To Upgrade Totalsegmentator At First Run On Win10"
+date: 2024-12-03
+url: https://discourse.slicer.org/t/40495
+---
+
 # Failed to upgrade TotalSegmentator at first run on WIN10
 
 **Topic ID**: 40495

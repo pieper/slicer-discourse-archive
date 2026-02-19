@@ -1,3 +1,10 @@
+---
+topic_id: 40085
+title: "Volume Compressed Into Roi"
+date: 2024-11-09
+url: https://discourse.slicer.org/t/40085
+---
+
 # Volume compressed into ROI
 
 **Topic ID**: 40085

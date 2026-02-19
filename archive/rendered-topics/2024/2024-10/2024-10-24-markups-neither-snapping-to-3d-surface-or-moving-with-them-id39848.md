@@ -1,3 +1,10 @@
+---
+topic_id: 39848
+title: "Markups Neither Snapping To 3D Surface Or Moving With Them"
+date: 2024-10-24
+url: https://discourse.slicer.org/t/39848
+---
+
 # Markups Neither Snapping to 3D Surface or Moving with them
 
 **Topic ID**: 39848

@@ -1,3 +1,10 @@
+---
+topic_id: 37731
+title: "Origin Of Ct Chest Sample Data"
+date: 2024-08-06
+url: https://discourse.slicer.org/t/37731
+---
+
 # Origin of CT Chest Sample Data
 
 **Topic ID**: 37731

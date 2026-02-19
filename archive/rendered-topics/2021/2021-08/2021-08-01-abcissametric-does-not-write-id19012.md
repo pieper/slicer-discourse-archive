@@ -1,3 +1,10 @@
+---
+topic_id: 19012
+title: "Abcissametric Does Not Write"
+date: 2021-08-01
+url: https://discourse.slicer.org/t/19012
+---
+
 # AbcissaMetric does not write
 
 **Topic ID**: 19012

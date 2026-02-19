@@ -1,3 +1,10 @@
+---
+topic_id: 9513
+title: "Z Axis And Intensities Change From Slicer To Fsleyes"
+date: 2019-12-16
+url: https://discourse.slicer.org/t/9513
+---
+
 # Z-axis and intensities change from Slicer to fsleyes
 
 **Topic ID**: 9513

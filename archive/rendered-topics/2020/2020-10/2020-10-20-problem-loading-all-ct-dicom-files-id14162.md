@@ -1,3 +1,10 @@
+---
+topic_id: 14162
+title: "Problem Loading All Ct Dicom Files"
+date: 2020-10-20
+url: https://discourse.slicer.org/t/14162
+---
+
 # Problem loading ALL CT DICOM files
 
 **Topic ID**: 14162

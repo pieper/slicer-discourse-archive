@@ -1,3 +1,10 @@
+---
+topic_id: 30322
+title: "Automatic Or Semi Automatic Volume Measurement Of A Lesion O"
+date: 2023-06-30
+url: https://discourse.slicer.org/t/30322
+---
+
 # Automatic or semi-automatic volume measurement of a lesion on MRI (Infarction volume on diffusion weighted images)
 
 **Topic ID**: 30322

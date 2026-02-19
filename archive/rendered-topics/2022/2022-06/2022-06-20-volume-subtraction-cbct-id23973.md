@@ -1,3 +1,10 @@
+---
+topic_id: 23973
+title: "Volume Subtraction Cbct"
+date: 2022-06-20
+url: https://discourse.slicer.org/t/23973
+---
+
 # Volume subtraction CBCT 
 
 **Topic ID**: 23973

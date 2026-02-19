@@ -1,3 +1,10 @@
+---
+topic_id: 20708
+title: "2021 11 23 Weekly Meeting After Projectweek Meeting"
+date: 2021-11-19
+url: https://discourse.slicer.org/t/20708
+---
+
 # 2021.11.23 Weekly Meeting - After ProjectWeek Meeting
 
 **Topic ID**: 20708

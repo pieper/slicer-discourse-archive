@@ -1,3 +1,10 @@
+---
+topic_id: 13285
+title: "Integrating Itk And Vtk A Survey"
+date: 2020-09-01
+url: https://discourse.slicer.org/t/13285
+---
+
 # Integrating ITK and VTK: A Survey
 
 **Topic ID**: 13285

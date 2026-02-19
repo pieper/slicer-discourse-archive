@@ -1,3 +1,10 @@
+---
+topic_id: 41943
+title: "Troubles With Co Registering Brains"
+date: 2025-03-03
+url: https://discourse.slicer.org/t/41943
+---
+
 # Troubles with co-registering brains
 
 **Topic ID**: 41943

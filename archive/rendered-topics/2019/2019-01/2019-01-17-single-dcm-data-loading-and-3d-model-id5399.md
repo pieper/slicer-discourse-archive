@@ -1,3 +1,10 @@
+---
+topic_id: 5399
+title: "Single Dcm Data Loading And 3D Model"
+date: 2019-01-17
+url: https://discourse.slicer.org/t/5399
+---
+
 # Single .dcm data loading and 3D model
 
 **Topic ID**: 5399

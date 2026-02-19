@@ -1,3 +1,10 @@
+---
+topic_id: 20508
+title: "Segmentation The Default Green Color Is Very Similiar The Bl"
+date: 2021-11-07
+url: https://discourse.slicer.org/t/20508
+---
+
 # Segmentation: the default green color is very similiar the bluegreen color
 
 **Topic ID**: 20508

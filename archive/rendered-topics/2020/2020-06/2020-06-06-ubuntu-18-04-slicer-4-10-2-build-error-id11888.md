@@ -1,3 +1,10 @@
+---
+topic_id: 11888
+title: "Ubuntu 18 04 Slicer 4 10 2 Build Error"
+date: 2020-06-06
+url: https://discourse.slicer.org/t/11888
+---
+
 # Ubuntu 18.04,Slicer 4.10.2, build error
 
 **Topic ID**: 11888

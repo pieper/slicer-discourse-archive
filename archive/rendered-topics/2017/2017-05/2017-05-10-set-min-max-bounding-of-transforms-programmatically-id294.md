@@ -1,3 +1,10 @@
+---
+topic_id: 294
+title: "Set Min Max Bounding Of Transforms Programmatically"
+date: 2017-05-10
+url: https://discourse.slicer.org/t/294
+---
+
 # Set min/max bounding of transforms programmatically
 
 **Topic ID**: 294

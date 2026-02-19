@@ -1,3 +1,10 @@
+---
+topic_id: 23394
+title: "Exporting Ultrasound Dicom Volume"
+date: 2022-05-12
+url: https://discourse.slicer.org/t/23394
+---
+
 # Exporting Ultrasound DICOM Volume
 
 **Topic ID**: 23394

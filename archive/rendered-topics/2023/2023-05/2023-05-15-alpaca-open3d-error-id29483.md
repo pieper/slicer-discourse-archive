@@ -1,3 +1,10 @@
+---
+topic_id: 29483
+title: "Alpaca Open3D Error"
+date: 2023-05-15
+url: https://discourse.slicer.org/t/29483
+---
+
 # ALPACA open3d error
 
 **Topic ID**: 29483

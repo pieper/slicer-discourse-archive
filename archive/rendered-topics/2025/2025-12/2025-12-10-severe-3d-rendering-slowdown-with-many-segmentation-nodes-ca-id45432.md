@@ -1,3 +1,10 @@
+---
+topic_id: 45432
+title: "Severe 3D Rendering Slowdown With Many Segmentation Nodes Ca"
+date: 2025-12-10
+url: https://discourse.slicer.org/t/45432
+---
+
 # Severe 3D Rendering Slowdown with Many Segmentation Nodes — Can Slicer Offload Work from GPU to CPU?
 
 **Topic ID**: 45432

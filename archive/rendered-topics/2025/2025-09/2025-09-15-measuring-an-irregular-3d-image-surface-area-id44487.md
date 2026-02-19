@@ -1,3 +1,10 @@
+---
+topic_id: 44487
+title: "Measuring An Irregular 3D Image Surface Area"
+date: 2025-09-15
+url: https://discourse.slicer.org/t/44487
+---
+
 # Measuring an irregular 3D image surface area
 
 **Topic ID**: 44487

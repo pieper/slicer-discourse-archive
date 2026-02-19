@@ -1,3 +1,10 @@
+---
+topic_id: 7454
+title: "Picking Segment Color With Mouse"
+date: 2019-07-08
+url: https://discourse.slicer.org/t/7454
+---
+
 # Picking Segment Color With Mouse
 
 **Topic ID**: 7454

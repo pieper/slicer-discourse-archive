@@ -1,3 +1,10 @@
+---
+topic_id: 17913
+title: "Critical Qt Error On Start Up Of Just Downloaded Preview 4 1"
+date: 2021-06-02
+url: https://discourse.slicer.org/t/17913
+---
+
 # Critical Qt error on start-up of just-downloaded preview 4.13.0-2021-05-29
 
 **Topic ID**: 17913

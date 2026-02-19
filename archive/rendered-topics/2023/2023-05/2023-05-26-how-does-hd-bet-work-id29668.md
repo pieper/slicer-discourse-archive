@@ -1,3 +1,10 @@
+---
+topic_id: 29668
+title: "How Does Hd Bet Work"
+date: 2023-05-26
+url: https://discourse.slicer.org/t/29668
+---
+
 # How does HD BET work?
 
 **Topic ID**: 29668

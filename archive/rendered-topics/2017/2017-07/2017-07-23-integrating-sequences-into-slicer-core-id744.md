@@ -1,3 +1,10 @@
+---
+topic_id: 744
+title: "Integrating Sequences Into Slicer Core"
+date: 2017-07-23
+url: https://discourse.slicer.org/t/744
+---
+
 # Integrating Sequences into Slicer core
 
 **Topic ID**: 744

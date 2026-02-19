@@ -1,3 +1,10 @@
+---
+topic_id: 13024
+title: "Surface Cut Problem"
+date: 2020-08-16
+url: https://discourse.slicer.org/t/13024
+---
+
 # Surface Cut Problem
 
 **Topic ID**: 13024

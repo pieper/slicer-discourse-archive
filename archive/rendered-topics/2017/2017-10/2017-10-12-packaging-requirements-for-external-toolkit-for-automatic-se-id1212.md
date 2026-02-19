@@ -1,3 +1,10 @@
+---
+topic_id: 1212
+title: "Packaging Requirements For External Toolkit For Automatic Se"
+date: 2017-10-12
+url: https://discourse.slicer.org/t/1212
+---
+
 # Packaging Requirements for External Toolkit for Automatic Segmentation of Brain Tumor and Lesions in MR Images
 
 **Topic ID**: 1212

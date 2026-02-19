@@ -1,3 +1,10 @@
+---
+topic_id: 37649
+title: "Usage Of Ctcreate Dosxyznrc On 3D Slicer"
+date: 2024-08-01
+url: https://discourse.slicer.org/t/37649
+---
+
 # Usage of Ctcreate (DOSXYZnrc) on 3D slicer
 
 **Topic ID**: 37649

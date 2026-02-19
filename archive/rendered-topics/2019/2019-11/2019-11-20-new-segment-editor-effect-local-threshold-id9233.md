@@ -1,3 +1,10 @@
+---
+topic_id: 9233
+title: "New Segment Editor Effect Local Threshold"
+date: 2019-11-20
+url: https://discourse.slicer.org/t/9233
+---
+
 # New Segment Editor effect: Local threshold
 
 **Topic ID**: 9233

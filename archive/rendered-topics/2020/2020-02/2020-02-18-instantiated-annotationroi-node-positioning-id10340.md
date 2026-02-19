@@ -1,3 +1,10 @@
+---
+topic_id: 10340
+title: "Instantiated Annotationroi Node Positioning"
+date: 2020-02-18
+url: https://discourse.slicer.org/t/10340
+---
+
 # Instantiated AnnotationROI node positioning
 
 **Topic ID**: 10340

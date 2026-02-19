@@ -1,3 +1,10 @@
+---
+topic_id: 28875
+title: "C Python Extention Method"
+date: 2023-04-13
+url: https://discourse.slicer.org/t/28875
+---
+
 # C++ & python extention method
 
 **Topic ID**: 28875

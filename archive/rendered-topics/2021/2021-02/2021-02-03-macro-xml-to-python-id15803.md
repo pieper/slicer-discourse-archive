@@ -1,3 +1,10 @@
+---
+topic_id: 15803
+title: "Macro Xml To Python"
+date: 2021-02-03
+url: https://discourse.slicer.org/t/15803
+---
+
 # Macro XML to python
 
 **Topic ID**: 15803

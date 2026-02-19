@@ -1,3 +1,10 @@
+---
+topic_id: 3955
+title: "Volume Rendering Not Recognizing Volume"
+date: 2018-08-30
+url: https://discourse.slicer.org/t/3955
+---
+
 # Volume Rendering not recognizing volume
 
 **Topic ID**: 3955

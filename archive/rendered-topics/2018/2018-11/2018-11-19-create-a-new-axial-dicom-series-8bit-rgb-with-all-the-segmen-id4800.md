@@ -1,3 +1,10 @@
+---
+topic_id: 4800
+title: "Create A New Axial Dicom Series 8Bit Rgb With All The Segmen"
+date: 2018-11-19
+url: https://discourse.slicer.org/t/4800
+---
+
 # Create a new axial dicom series (8bit RGB) with all the segmentations (or labelmaps) displayed in the Red Slices burned in
 
 **Topic ID**: 4800

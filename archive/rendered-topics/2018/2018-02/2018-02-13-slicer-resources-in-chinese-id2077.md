@@ -1,3 +1,10 @@
+---
+topic_id: 2077
+title: "Slicer Resources In Chinese"
+date: 2018-02-13
+url: https://discourse.slicer.org/t/2077
+---
+
 # Slicer resources in Chinese
 
 **Topic ID**: 2077

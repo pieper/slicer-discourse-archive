@@ -1,3 +1,10 @@
+---
+topic_id: 23591
+title: "Point List Performance Is Very Slow With Large Point List"
+date: 2022-05-25
+url: https://discourse.slicer.org/t/23591
+---
+
 # Point list performance is very slow with large point list
 
 **Topic ID**: 23591

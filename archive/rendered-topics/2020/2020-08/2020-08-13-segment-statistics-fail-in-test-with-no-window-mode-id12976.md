@@ -1,3 +1,10 @@
+---
+topic_id: 12976
+title: "Segment Statistics Fail In Test With No Window Mode"
+date: 2020-08-13
+url: https://discourse.slicer.org/t/12976
+---
+
 # Segment statistics fail in Test with no window mode
 
 **Topic ID**: 12976

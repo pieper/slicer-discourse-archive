@@ -1,3 +1,10 @@
+---
+topic_id: 6172
+title: "Set Parameters With Python Code Skullstripper"
+date: 2019-03-17
+url: https://discourse.slicer.org/t/6172
+---
+
 # Set parameters with python code. Skullstripper
 
 **Topic ID**: 6172

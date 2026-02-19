@@ -1,3 +1,10 @@
+---
+topic_id: 33887
+title: "Beginner Question Liver Volumetry"
+date: 2024-01-21
+url: https://discourse.slicer.org/t/33887
+---
+
 # Beginner question: liver volumetry
 
 **Topic ID**: 33887

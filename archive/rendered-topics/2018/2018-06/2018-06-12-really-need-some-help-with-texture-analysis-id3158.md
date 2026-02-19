@@ -1,3 +1,10 @@
+---
+topic_id: 3158
+title: "Really Need Some Help With Texture Analysis"
+date: 2018-06-12
+url: https://discourse.slicer.org/t/3158
+---
+
 # Really need some help with texture analysis!
 
 **Topic ID**: 3158

@@ -1,3 +1,10 @@
+---
+topic_id: 6208
+title: "Bonetextureextension In 3D Slicer Wont Compute Display Featu"
+date: 2019-03-19
+url: https://discourse.slicer.org/t/6208
+---
+
 # Bonetextureextension in 3D Slicer won't compute/display feature maps
 
 **Topic ID**: 6208

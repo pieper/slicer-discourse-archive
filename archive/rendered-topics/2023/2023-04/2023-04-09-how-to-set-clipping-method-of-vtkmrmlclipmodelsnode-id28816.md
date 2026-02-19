@@ -1,3 +1,10 @@
+---
+topic_id: 28816
+title: "How To Set Clipping Method Of Vtkmrmlclipmodelsnode"
+date: 2023-04-09
+url: https://discourse.slicer.org/t/28816
+---
+
 # How to set clipping method of vtkMRMLClipModelsNode
 
 **Topic ID**: 28816

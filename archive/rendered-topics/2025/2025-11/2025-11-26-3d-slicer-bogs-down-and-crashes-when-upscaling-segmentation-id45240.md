@@ -1,3 +1,10 @@
+---
+topic_id: 45240
+title: "3D Slicer Bogs Down And Crashes When Upscaling Segmentation"
+date: 2025-11-26
+url: https://discourse.slicer.org/t/45240
+---
+
 # 3D slicer bogs down and crashes when upscaling segmentation geometry
 
 **Topic ID**: 45240

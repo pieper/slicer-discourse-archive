@@ -1,3 +1,10 @@
+---
+topic_id: 15523
+title: "Upgraded To Macos Big Sur And Can No Longer Use Segment Edit"
+date: 2021-01-14
+url: https://discourse.slicer.org/t/15523
+---
+
 # Upgraded to macOS Big Sur and can no longer use Segment Editor on saved scenes (mrml)
 
 **Topic ID**: 15523

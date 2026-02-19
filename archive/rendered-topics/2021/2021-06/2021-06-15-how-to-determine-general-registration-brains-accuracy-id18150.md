@@ -1,3 +1,10 @@
+---
+topic_id: 18150
+title: "How To Determine General Registration Brains Accuracy"
+date: 2021-06-15
+url: https://discourse.slicer.org/t/18150
+---
+
 # How to determine general registration (BRAINS) accuracy?
 
 **Topic ID**: 18150

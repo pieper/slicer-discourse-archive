@@ -1,3 +1,10 @@
+---
+topic_id: 11366
+title: "Segment Threshold"
+date: 2020-04-30
+url: https://discourse.slicer.org/t/11366
+---
+
 # Segment Threshold
 
 **Topic ID**: 11366

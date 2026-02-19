@@ -1,3 +1,10 @@
+---
+topic_id: 13481
+title: "Longitudinal Registration Brain Mri"
+date: 2020-09-14
+url: https://discourse.slicer.org/t/13481
+---
+
 # Longitudinal registration brain MRI
 
 **Topic ID**: 13481

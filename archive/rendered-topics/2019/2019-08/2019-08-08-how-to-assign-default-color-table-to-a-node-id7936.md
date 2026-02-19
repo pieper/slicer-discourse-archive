@@ -1,3 +1,10 @@
+---
+topic_id: 7936
+title: "How To Assign Default Color Table To A Node"
+date: 2019-08-08
+url: https://discourse.slicer.org/t/7936
+---
+
 # How to assign default color table to a node
 
 **Topic ID**: 7936

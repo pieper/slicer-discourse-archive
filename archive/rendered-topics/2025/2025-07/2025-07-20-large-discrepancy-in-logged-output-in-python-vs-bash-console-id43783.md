@@ -1,3 +1,10 @@
+---
+topic_id: 43783
+title: "Large Discrepancy In Logged Output In Python Vs Bash Console"
+date: 2025-07-20
+url: https://discourse.slicer.org/t/43783
+---
+
 # Large discrepancy in logged output in Python vs. Bash Consoles
 
 **Topic ID**: 43783

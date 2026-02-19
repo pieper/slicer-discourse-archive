@@ -1,3 +1,10 @@
+---
+topic_id: 28587
+title: "Error Running Totalsegmentator Returned Non Zero Exit Status"
+date: 2023-03-27
+url: https://discourse.slicer.org/t/28587
+---
+
 # Error running TotalSegmentator - returned non-zero exit status 120
 
 **Topic ID**: 28587

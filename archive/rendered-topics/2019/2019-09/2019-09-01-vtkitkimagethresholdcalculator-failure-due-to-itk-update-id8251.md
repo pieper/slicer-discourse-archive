@@ -1,3 +1,10 @@
+---
+topic_id: 8251
+title: "Vtkitkimagethresholdcalculator Failure Due To Itk Update"
+date: 2019-09-01
+url: https://discourse.slicer.org/t/8251
+---
+
 # vtkITKImageThresholdCalculator failure - due to ITK update?
 
 **Topic ID**: 8251

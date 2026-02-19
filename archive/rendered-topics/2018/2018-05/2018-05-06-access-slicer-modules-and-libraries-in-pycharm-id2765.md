@@ -1,3 +1,10 @@
+---
+topic_id: 2765
+title: "Access Slicer Modules And Libraries In Pycharm"
+date: 2018-05-06
+url: https://discourse.slicer.org/t/2765
+---
+
 # Access slicer modules and libraries in pycharm
 
 **Topic ID**: 2765

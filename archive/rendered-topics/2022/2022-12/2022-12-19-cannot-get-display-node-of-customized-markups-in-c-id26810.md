@@ -1,3 +1,10 @@
+---
+topic_id: 26810
+title: "Cannot Get Display Node Of Customized Markups In C"
+date: 2022-12-19
+url: https://discourse.slicer.org/t/26810
+---
+
 # Cannot get display node of customized markups in c++
 
 **Topic ID**: 26810

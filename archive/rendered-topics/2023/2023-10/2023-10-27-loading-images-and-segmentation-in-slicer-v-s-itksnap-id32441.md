@@ -1,3 +1,10 @@
+---
+topic_id: 32441
+title: "Loading Images And Segmentation In Slicer V S Itksnap"
+date: 2023-10-27
+url: https://discourse.slicer.org/t/32441
+---
+
 # Loading images and segmentation in Slicer v.s. ITKSNAP
 
 **Topic ID**: 32441

@@ -1,3 +1,10 @@
+---
+topic_id: 1363
+title: "Crop Volume Using Ellipse Rectangle Or Freeform Shape"
+date: 2017-11-03
+url: https://discourse.slicer.org/t/1363
+---
+
 # Crop volume using ellipse, rectangle, or freeform shape
 
 **Topic ID**: 1363

@@ -1,3 +1,10 @@
+---
+topic_id: 25471
+title: "Scale Issue With Auto3Dgm"
+date: 2022-09-28
+url: https://discourse.slicer.org/t/25471
+---
+
 # Scale issue with Auto3dgm
 
 **Topic ID**: 25471

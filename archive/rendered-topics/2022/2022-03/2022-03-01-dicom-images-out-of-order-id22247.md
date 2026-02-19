@@ -1,3 +1,10 @@
+---
+topic_id: 22247
+title: "Dicom Images Out Of Order"
+date: 2022-03-01
+url: https://discourse.slicer.org/t/22247
+---
+
 # DICOM images out of order
 
 **Topic ID**: 22247

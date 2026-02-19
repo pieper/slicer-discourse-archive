@@ -1,3 +1,10 @@
+---
+topic_id: 42966
+title: "Under Arch Installed Slicer And Slicerswissskullstripper Ran"
+date: 2025-05-16
+url: https://discourse.slicer.org/t/42966
+---
+
 # Under arch, installed Slicer and SlicerSwissSkullStripper. Ran and got undefined symbol: _ZN10slicer_itk13ProcessObject9SetOutputERKSsPNS_10DataObjectE error
 
 **Topic ID**: 42966

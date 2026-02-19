@@ -1,3 +1,10 @@
+---
+topic_id: 12445
+title: "Macos Nightly Extensions Manager Error"
+date: 2020-07-08
+url: https://discourse.slicer.org/t/12445
+---
+
 # MacOS Nightly - extensions manager error
 
 **Topic ID**: 12445

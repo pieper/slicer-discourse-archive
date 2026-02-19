@@ -1,3 +1,10 @@
+---
+topic_id: 21644
+title: "Converting Dicom Sequence And Its Corresponding Segmentation"
+date: 2022-01-26
+url: https://discourse.slicer.org/t/21644
+---
+
 # Converting DICOM sequence and its corresponding segmentation into world coordinates
 
 **Topic ID**: 21644

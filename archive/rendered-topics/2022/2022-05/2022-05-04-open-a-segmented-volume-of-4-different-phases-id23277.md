@@ -1,3 +1,10 @@
+---
+topic_id: 23277
+title: "Open A Segmented Volume Of 4 Different Phases"
+date: 2022-05-04
+url: https://discourse.slicer.org/t/23277
+---
+
 # Open a segmented volume of 4 different phases
 
 **Topic ID**: 23277

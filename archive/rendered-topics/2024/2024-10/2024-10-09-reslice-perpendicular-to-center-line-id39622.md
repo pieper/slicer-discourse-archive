@@ -1,3 +1,10 @@
+---
+topic_id: 39622
+title: "Reslice Perpendicular To Center Line"
+date: 2024-10-09
+url: https://discourse.slicer.org/t/39622
+---
+
 # Reslice perpendicular to center line?
 
 **Topic ID**: 39622

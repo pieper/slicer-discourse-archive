@@ -1,3 +1,10 @@
+---
+topic_id: 36029
+title: "How To Download Markups As Sample Data"
+date: 2024-05-09
+url: https://discourse.slicer.org/t/36029
+---
+
 # How to download markups as sample data
 
 **Topic ID**: 36029

@@ -1,3 +1,10 @@
+---
+topic_id: 8117
+title: "Combination Of 2 Series With Interslice Gaps Acquired In An"
+date: 2019-08-21
+url: https://discourse.slicer.org/t/8117
+---
+
 # Combination of 2 series with interslice gaps, acquired in an interleaved manner
 
 **Topic ID**: 8117

@@ -1,3 +1,10 @@
+---
+topic_id: 15870
+title: "Problem In Calculating D95 Using Dose Volume Histogram Modul"
+date: 2021-02-05
+url: https://discourse.slicer.org/t/15870
+---
+
 # Problem in calculating D95 using Dose Volume Histogram module
 
 **Topic ID**: 15870

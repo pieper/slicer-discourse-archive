@@ -1,3 +1,10 @@
+---
+topic_id: 10661
+title: "Superimposition Of Cbct Linear Measurement"
+date: 2020-03-12
+url: https://discourse.slicer.org/t/10661
+---
+
 # Superimposition of CBCT + linear measurement
 
 **Topic ID**: 10661

@@ -1,3 +1,10 @@
+---
+topic_id: 42900
+title: "Windows 11 3D Slicer Build Fail"
+date: 2025-05-13
+url: https://discourse.slicer.org/t/42900
+---
+
 # Windows 11, 3D Slicer build fail
 
 **Topic ID**: 42900

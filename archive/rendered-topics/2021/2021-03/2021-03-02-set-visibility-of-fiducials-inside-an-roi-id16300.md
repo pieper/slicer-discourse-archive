@@ -1,3 +1,10 @@
+---
+topic_id: 16300
+title: "Set Visibility Of Fiducials Inside An Roi"
+date: 2021-03-02
+url: https://discourse.slicer.org/t/16300
+---
+
 # Set visibility of fiducials inside an ROI?
 
 **Topic ID**: 16300

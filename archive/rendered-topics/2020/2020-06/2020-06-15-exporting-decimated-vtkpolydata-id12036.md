@@ -1,3 +1,10 @@
+---
+topic_id: 12036
+title: "Exporting Decimated Vtkpolydata"
+date: 2020-06-15
+url: https://discourse.slicer.org/t/12036
+---
+
 # Exporting decimated vtkPolyData
 
 **Topic ID**: 12036

@@ -1,3 +1,10 @@
+---
+topic_id: 30769
+title: "Working On A Czi Zeiss Microscopy Image Stack Reader For 3D"
+date: 2023-07-25
+url: https://discourse.slicer.org/t/30769
+---
+
 # Working on a CZI Zeiss microscopy image stack reader for 3D slicer, any help or advice welcome
 
 **Topic ID**: 30769

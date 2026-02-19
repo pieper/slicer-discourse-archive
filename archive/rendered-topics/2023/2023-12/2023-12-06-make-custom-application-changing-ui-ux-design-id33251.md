@@ -1,3 +1,10 @@
+---
+topic_id: 33251
+title: "Make Custom Application Changing Ui Ux Design"
+date: 2023-12-06
+url: https://discourse.slicer.org/t/33251
+---
+
 # Make custom application - changing UI/UX design
 
 **Topic ID**: 33251

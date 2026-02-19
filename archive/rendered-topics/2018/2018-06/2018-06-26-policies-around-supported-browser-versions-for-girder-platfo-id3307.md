@@ -1,3 +1,10 @@
+---
+topic_id: 3307
+title: "Policies Around Supported Browser Versions For Girder Platfo"
+date: 2018-06-26
+url: https://discourse.slicer.org/t/3307
+---
+
 # Policies around supported browser versions for Girder platform
 
 **Topic ID**: 3307

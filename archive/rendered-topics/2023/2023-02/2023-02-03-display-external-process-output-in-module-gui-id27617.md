@@ -1,3 +1,10 @@
+---
+topic_id: 27617
+title: "Display External Process Output In Module Gui"
+date: 2023-02-03
+url: https://discourse.slicer.org/t/27617
+---
+
 # Display external process output in module GUI
 
 **Topic ID**: 27617

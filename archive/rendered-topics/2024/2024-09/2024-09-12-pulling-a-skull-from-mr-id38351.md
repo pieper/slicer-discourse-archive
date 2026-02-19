@@ -1,3 +1,10 @@
+---
+topic_id: 38351
+title: "Pulling A Skull From Mr"
+date: 2024-09-12
+url: https://discourse.slicer.org/t/38351
+---
+
 # Pulling a skull from MR
 
 **Topic ID**: 38351

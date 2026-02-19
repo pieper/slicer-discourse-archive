@@ -1,3 +1,10 @@
+---
+topic_id: 6459
+title: "Slicer For Ubuntu Arm64"
+date: 2019-04-10
+url: https://discourse.slicer.org/t/6459
+---
+
 # Slicer for Ubuntu arm64
 
 **Topic ID**: 6459

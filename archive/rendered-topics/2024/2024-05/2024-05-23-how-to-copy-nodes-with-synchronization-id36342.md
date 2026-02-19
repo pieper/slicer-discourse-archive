@@ -1,3 +1,10 @@
+---
+topic_id: 36342
+title: "How To Copy Nodes With Synchronization"
+date: 2024-05-23
+url: https://discourse.slicer.org/t/36342
+---
+
 # How to Copy Nodes with Synchronization
 
 **Topic ID**: 36342

@@ -1,3 +1,10 @@
+---
+topic_id: 16526
+title: "When I Try To Start 3Dslicer The Program Says That I Dont Ha"
+date: 2021-03-13
+url: https://discourse.slicer.org/t/16526
+---
+
 # When I try to start 3DSlicer, the program says that I dont have MRMLLogic. 
 
 **Topic ID**: 16526

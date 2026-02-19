@@ -1,3 +1,10 @@
+---
+topic_id: 6658
+title: "Differentiating Subcotatenous And Visceral Fat Tissue"
+date: 2019-04-30
+url: https://discourse.slicer.org/t/6658
+---
+
 # Differentiating Subcotatenous and Visceral Fat Tissue
 
 **Topic ID**: 6658

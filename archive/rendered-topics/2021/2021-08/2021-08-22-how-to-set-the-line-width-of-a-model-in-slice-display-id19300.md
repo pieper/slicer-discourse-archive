@@ -1,3 +1,10 @@
+---
+topic_id: 19300
+title: "How To Set The Line Width Of A Model In Slice Display"
+date: 2021-08-22
+url: https://discourse.slicer.org/t/19300
+---
+
 # How to set the line width of a model in slice display?
 
 **Topic ID**: 19300

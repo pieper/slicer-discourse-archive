@@ -1,3 +1,10 @@
+---
+topic_id: 5008
+title: "Question About Editor And Labelstatistics Modules"
+date: 2018-12-07
+url: https://discourse.slicer.org/t/5008
+---
+
 # Question about Editor and Labelstatistics Modules
 
 **Topic ID**: 5008

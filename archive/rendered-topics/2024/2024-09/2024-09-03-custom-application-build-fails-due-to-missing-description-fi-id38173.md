@@ -1,3 +1,10 @@
+---
+topic_id: 38173
+title: "Custom Application Build Fails Due To Missing Description Fi"
+date: 2024-09-03
+url: https://discourse.slicer.org/t/38173
+---
+
 # Custom application build fails due to missing DESCRIPTION_FILE after upgrade to 5.6.2
 
 **Topic ID**: 38173

@@ -1,3 +1,10 @@
+---
+topic_id: 29805
+title: "Convert Closed Curve To Segment In Segment Editor"
+date: 2023-06-02
+url: https://discourse.slicer.org/t/29805
+---
+
 # Convert closed curve to segment in Segment Editor
 
 **Topic ID**: 29805

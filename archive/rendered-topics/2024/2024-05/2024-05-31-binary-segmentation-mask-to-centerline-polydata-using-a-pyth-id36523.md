@@ -1,3 +1,10 @@
+---
+topic_id: 36523
+title: "Binary Segmentation Mask To Centerline Polydata Using A Pyth"
+date: 2024-05-31
+url: https://discourse.slicer.org/t/36523
+---
+
 # Binary segmentation mask to centerline polydata using a python script
 
 **Topic ID**: 36523

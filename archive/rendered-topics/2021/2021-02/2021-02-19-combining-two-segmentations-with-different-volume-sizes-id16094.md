@@ -1,3 +1,10 @@
+---
+topic_id: 16094
+title: "Combining Two Segmentations With Different Volume Sizes"
+date: 2021-02-19
+url: https://discourse.slicer.org/t/16094
+---
+
 # Combining two segmentations with different volume sizes
 
 **Topic ID**: 16094

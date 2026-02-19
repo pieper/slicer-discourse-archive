@@ -1,3 +1,10 @@
+---
+topic_id: 33142
+title: "Incorrect Names Of Segments After Importing A Totalsegmentat"
+date: 2023-11-30
+url: https://discourse.slicer.org/t/33142
+---
+
 # "incorrect" names of segments after importing a TotalSegmentator nifti file
 
 **Topic ID**: 33142

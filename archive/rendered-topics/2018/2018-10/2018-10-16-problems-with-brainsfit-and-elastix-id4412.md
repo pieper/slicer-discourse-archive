@@ -1,3 +1,10 @@
+---
+topic_id: 4412
+title: "Problems With Brainsfit And Elastix"
+date: 2018-10-16
+url: https://discourse.slicer.org/t/4412
+---
+
 # Problems with BRAINSfit and Elastix
 
 **Topic ID**: 4412

@@ -1,3 +1,10 @@
+---
+topic_id: 10600
+title: "Python Lifecycle"
+date: 2020-03-09
+url: https://discourse.slicer.org/t/10600
+---
+
 # Python Lifecycle
 
 **Topic ID**: 10600

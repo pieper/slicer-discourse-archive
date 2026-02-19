@@ -1,3 +1,10 @@
+---
+topic_id: 3085
+title: "Scale Factor While Exporting Segmentation"
+date: 2018-06-06
+url: https://discourse.slicer.org/t/3085
+---
+
 # Scale factor while exporting segmentation
 
 **Topic ID**: 3085

@@ -1,3 +1,10 @@
+---
+topic_id: 18816
+title: "Export 3D Image Partial Opacity"
+date: 2021-07-20
+url: https://discourse.slicer.org/t/18816
+---
+
 # Export 3D image partial opacity
 
 **Topic ID**: 18816

@@ -1,3 +1,10 @@
+---
+topic_id: 10605
+title: "Convert 3D Nfti Data To 2D"
+date: 2020-03-09
+url: https://discourse.slicer.org/t/10605
+---
+
 # Convert 3d nfti data to 2d
 
 **Topic ID**: 10605

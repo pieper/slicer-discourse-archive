@@ -1,3 +1,10 @@
+---
+topic_id: 27480
+title: "How To Save The Content Of A Qtablewidget In A Mrb File"
+date: 2023-01-26
+url: https://discourse.slicer.org/t/27480
+---
+
 # How to save the content of a qTableWidget in a MRB file?
 
 **Topic ID**: 27480

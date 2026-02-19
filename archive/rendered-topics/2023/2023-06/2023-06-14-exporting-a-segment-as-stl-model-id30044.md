@@ -1,3 +1,10 @@
+---
+topic_id: 30044
+title: "Exporting A Segment As Stl Model"
+date: 2023-06-14
+url: https://discourse.slicer.org/t/30044
+---
+
 # Exporting a segment as .stl model
 
 **Topic ID**: 30044

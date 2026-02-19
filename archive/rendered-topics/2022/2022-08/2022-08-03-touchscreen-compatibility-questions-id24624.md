@@ -1,3 +1,10 @@
+---
+topic_id: 24624
+title: "Touchscreen Compatibility Questions"
+date: 2022-08-03
+url: https://discourse.slicer.org/t/24624
+---
+
 # Touchscreen compatibility questions
 
 **Topic ID**: 24624

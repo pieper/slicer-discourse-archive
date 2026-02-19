@@ -1,3 +1,10 @@
+---
+topic_id: 3241
+title: "Advice On Graphics Tablets"
+date: 2018-06-20
+url: https://discourse.slicer.org/t/3241
+---
+
 # Advice on graphics tablets
 
 **Topic ID**: 3241

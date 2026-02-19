@@ -1,3 +1,10 @@
+---
+topic_id: 15134
+title: "Unable To Load Dicom Segmentation File"
+date: 2020-12-18
+url: https://discourse.slicer.org/t/15134
+---
+
 # Unable to load DICOM segmentation file
 
 **Topic ID**: 15134

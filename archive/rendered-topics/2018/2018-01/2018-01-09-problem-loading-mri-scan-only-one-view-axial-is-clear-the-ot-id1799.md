@@ -1,3 +1,10 @@
+---
+topic_id: 1799
+title: "Problem Loading Mri Scan Only One View Axial Is Clear The Ot"
+date: 2018-01-09
+url: https://discourse.slicer.org/t/1799
+---
+
 # Problem loading MRI scan. Only one view, axial, is clear, the other two are blurry
 
 **Topic ID**: 1799

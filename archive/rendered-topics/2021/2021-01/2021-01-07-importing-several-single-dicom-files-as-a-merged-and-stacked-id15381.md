@@ -1,3 +1,10 @@
+---
+topic_id: 15381
+title: "Importing Several Single Dicom Files As A Merged And Stacked"
+date: 2021-01-07
+url: https://discourse.slicer.org/t/15381
+---
+
 # Importing several single DICOM files as a merged and stacked DICOM file
 
 **Topic ID**: 15381

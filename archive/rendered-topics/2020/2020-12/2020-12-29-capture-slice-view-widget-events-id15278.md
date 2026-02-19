@@ -1,3 +1,10 @@
+---
+topic_id: 15278
+title: "Capture Slice View Widget Events"
+date: 2020-12-29
+url: https://discourse.slicer.org/t/15278
+---
+
 # Capture slice view widget events
 
 **Topic ID**: 15278

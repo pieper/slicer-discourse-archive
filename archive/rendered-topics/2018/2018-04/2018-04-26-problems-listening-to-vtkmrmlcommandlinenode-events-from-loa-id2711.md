@@ -1,3 +1,10 @@
+---
+topic_id: 2711
+title: "Problems Listening To Vtkmrmlcommandlinenode Events From Loa"
+date: 2018-04-26
+url: https://discourse.slicer.org/t/2711
+---
+
 # Problems listening to vtkMRMLCommandLineNode events from loadable module
 
 **Topic ID**: 2711

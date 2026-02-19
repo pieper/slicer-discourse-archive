@@ -1,3 +1,10 @@
+---
+topic_id: 40608
+title: "Scalar Weighted Pca"
+date: 2024-12-10
+url: https://discourse.slicer.org/t/40608
+---
+
 # Scalar-Weighted PCA
 
 **Topic ID**: 40608

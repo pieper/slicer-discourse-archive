@@ -1,3 +1,10 @@
+---
+topic_id: 10944
+title: "Making The Help Tab As The Default Tab To Open"
+date: 2020-03-31
+url: https://discourse.slicer.org/t/10944
+---
+
 # Making the 'Help' tab as the default tab to open
 
 **Topic ID**: 10944

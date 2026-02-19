@@ -1,3 +1,10 @@
+---
+topic_id: 9532
+title: "Volume Clip With Model Tool Missing"
+date: 2019-12-17
+url: https://discourse.slicer.org/t/9532
+---
+
 # Volume Clip with model tool missing !
 
 **Topic ID**: 9532

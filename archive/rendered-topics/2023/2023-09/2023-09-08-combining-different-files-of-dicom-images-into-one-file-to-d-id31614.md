@@ -1,3 +1,10 @@
+---
+topic_id: 31614
+title: "Combining Different Files Of Dicom Images Into One File To D"
+date: 2023-09-08
+url: https://discourse.slicer.org/t/31614
+---
+
 # Combining different files of DICOM images into one file to do a segmentation
 
 **Topic ID**: 31614

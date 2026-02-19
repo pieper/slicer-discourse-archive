@@ -1,3 +1,10 @@
+---
+topic_id: 33865
+title: "Qt Warning Message When I Use Python Console"
+date: 2024-01-19
+url: https://discourse.slicer.org/t/33865
+---
+
 # Qt warning message when I use python console
 
 **Topic ID**: 33865

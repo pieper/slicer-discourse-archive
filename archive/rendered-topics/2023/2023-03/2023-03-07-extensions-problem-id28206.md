@@ -1,3 +1,10 @@
+---
+topic_id: 28206
+title: "Extensions Problem"
+date: 2023-03-07
+url: https://discourse.slicer.org/t/28206
+---
+
 # Extensions problem
 
 **Topic ID**: 28206

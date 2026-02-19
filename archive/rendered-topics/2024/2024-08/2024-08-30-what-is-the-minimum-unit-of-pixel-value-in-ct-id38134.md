@@ -1,3 +1,10 @@
+---
+topic_id: 38134
+title: "What Is The Minimum Unit Of Pixel Value In Ct"
+date: 2024-08-30
+url: https://discourse.slicer.org/t/38134
+---
+
 # What is the minimum unit of pixel value in CT
 
 **Topic ID**: 38134

@@ -1,3 +1,10 @@
+---
+topic_id: 22157
+title: "Issue Saving Fiducials"
+date: 2022-02-24
+url: https://discourse.slicer.org/t/22157
+---
+
 # Issue saving fiducials
 
 **Topic ID**: 22157

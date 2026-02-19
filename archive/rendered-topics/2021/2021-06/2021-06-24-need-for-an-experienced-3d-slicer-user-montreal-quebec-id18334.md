@@ -1,3 +1,10 @@
+---
+topic_id: 18334
+title: "Need For An Experienced 3D Slicer User Montreal Quebec"
+date: 2021-06-24
+url: https://discourse.slicer.org/t/18334
+---
+
 # Need for an experienced 3D Slicer User (Montreal, Quebec)
 
 **Topic ID**: 18334

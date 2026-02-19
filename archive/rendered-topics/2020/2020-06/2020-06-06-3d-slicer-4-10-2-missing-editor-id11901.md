@@ -1,3 +1,10 @@
+---
+topic_id: 11901
+title: "3D Slicer 4 10 2 Missing Editor"
+date: 2020-06-06
+url: https://discourse.slicer.org/t/11901
+---
+
 # 3D Slicer 4.10.2 missing editor
 
 **Topic ID**: 11901

@@ -1,3 +1,10 @@
+---
+topic_id: 3606
+title: "How Can I Register Rcbv Map From Dscmrianalysis Module To T1"
+date: 2018-07-30
+url: https://discourse.slicer.org/t/3606
+---
+
 # How can I register rCBV map from DSCMRIAnalysis module to T1-weighted contrast enhanced images?
 
 **Topic ID**: 3606

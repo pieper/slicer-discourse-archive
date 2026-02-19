@@ -1,3 +1,10 @@
+---
+topic_id: 15708
+title: "Paint In 3 4 Slices Immediately With Draw Tool Is It Possibl"
+date: 2021-01-28
+url: https://discourse.slicer.org/t/15708
+---
+
 # Paint in 3-4 slices immediately with draw tool? Is it possible?
 
 **Topic ID**: 15708

@@ -1,3 +1,10 @@
+---
+topic_id: 18713
+title: "Best Way To Export Image And Segmentation In Same Space To V"
+date: 2021-07-13
+url: https://discourse.slicer.org/t/18713
+---
+
 # Best way to export image and segmentation in same space to view in ParaView?
 
 **Topic ID**: 18713

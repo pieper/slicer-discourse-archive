@@ -1,3 +1,10 @@
+---
+topic_id: 23760
+title: "Strange Compiling Error"
+date: 2022-06-08
+url: https://discourse.slicer.org/t/23760
+---
+
 # Strange compiling error
 
 **Topic ID**: 23760

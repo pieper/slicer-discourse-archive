@@ -1,3 +1,10 @@
+---
+topic_id: 37343
+title: "Using Slicer Modules Functions In Python"
+date: 2024-07-12
+url: https://discourse.slicer.org/t/37343
+---
+
 # Using Slicer Modules/Functions in Python?
 
 **Topic ID**: 37343

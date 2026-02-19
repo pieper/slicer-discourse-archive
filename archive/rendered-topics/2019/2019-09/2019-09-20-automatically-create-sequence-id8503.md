@@ -1,3 +1,10 @@
+---
+topic_id: 8503
+title: "Automatically Create Sequence"
+date: 2019-09-20
+url: https://discourse.slicer.org/t/8503
+---
+
 # Automatically create sequence
 
 **Topic ID**: 8503

@@ -1,3 +1,10 @@
+---
+topic_id: 23149
+title: "Extraction 3 3 Matrix From Dti Image"
+date: 2022-04-27
+url: https://discourse.slicer.org/t/23149
+---
+
 # Extraction 3*3 Matrix from DTI Image
 
 **Topic ID**: 23149

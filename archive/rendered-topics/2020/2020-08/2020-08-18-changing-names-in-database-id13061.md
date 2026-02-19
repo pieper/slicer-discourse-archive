@@ -1,3 +1,10 @@
+---
+topic_id: 13061
+title: "Changing Names In Database"
+date: 2020-08-18
+url: https://discourse.slicer.org/t/13061
+---
+
 # Changing names in database
 
 **Topic ID**: 13061

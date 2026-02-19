@@ -1,3 +1,10 @@
+---
+topic_id: 13828
+title: "Staple Contour Registration"
+date: 2020-10-02
+url: https://discourse.slicer.org/t/13828
+---
+
 # STAPLE contour registration
 
 **Topic ID**: 13828

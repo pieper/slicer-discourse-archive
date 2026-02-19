@@ -1,3 +1,10 @@
+---
+topic_id: 3621
+title: "Motion Correction In Dscmrianalysis"
+date: 2018-08-01
+url: https://discourse.slicer.org/t/3621
+---
+
 # Motion correction in DSCMRIAnalysis?
 
 **Topic ID**: 3621

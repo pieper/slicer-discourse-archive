@@ -1,3 +1,10 @@
+---
+topic_id: 27850
+title: "How To Restore The Mouse Listener Event"
+date: 2023-02-16
+url: https://discourse.slicer.org/t/27850
+---
+
 # How to restore the mouse listener event
 
 **Topic ID**: 27850

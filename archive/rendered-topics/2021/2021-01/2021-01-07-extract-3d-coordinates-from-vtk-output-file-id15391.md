@@ -1,3 +1,10 @@
+---
+topic_id: 15391
+title: "Extract 3D Coordinates From Vtk Output File"
+date: 2021-01-07
+url: https://discourse.slicer.org/t/15391
+---
+
 # Extract 3D Coordinates from VTK Output File
 
 **Topic ID**: 15391

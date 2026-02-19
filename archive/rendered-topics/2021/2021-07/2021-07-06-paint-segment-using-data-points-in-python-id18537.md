@@ -1,3 +1,10 @@
+---
+topic_id: 18537
+title: "Paint Segment Using Data Points In Python"
+date: 2021-07-06
+url: https://discourse.slicer.org/t/18537
+---
+
 # Paint Segment Using Data Points in Python
 
 **Topic ID**: 18537

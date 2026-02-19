@@ -1,3 +1,10 @@
+---
+topic_id: 243
+title: "Refinement Of Stl Files"
+date: 2017-05-02
+url: https://discourse.slicer.org/t/243
+---
+
 # Refinement of stl files
 
 **Topic ID**: 243

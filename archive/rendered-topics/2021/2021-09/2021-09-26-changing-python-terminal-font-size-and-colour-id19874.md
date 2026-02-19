@@ -1,3 +1,10 @@
+---
+topic_id: 19874
+title: "Changing Python Terminal Font Size And Colour"
+date: 2021-09-26
+url: https://discourse.slicer.org/t/19874
+---
+
 # Changing Python terminal font size and colour
 
 **Topic ID**: 19874

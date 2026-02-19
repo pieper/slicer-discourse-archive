@@ -1,3 +1,10 @@
+---
+topic_id: 20295
+title: "Centered Jump Slice Doesnt Restore"
+date: 2021-10-22
+url: https://discourse.slicer.org/t/20295
+---
+
 # Centered Jump Slice doesn't restore
 
 **Topic ID**: 20295

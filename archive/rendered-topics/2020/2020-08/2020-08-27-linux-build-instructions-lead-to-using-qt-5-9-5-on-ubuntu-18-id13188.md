@@ -1,3 +1,10 @@
+---
+topic_id: 13188
+title: "Linux Build Instructions Lead To Using Qt 5 9 5 On Ubuntu 18"
+date: 2020-08-27
+url: https://discourse.slicer.org/t/13188
+---
+
 # Linux build instructions lead to using Qt 5.9.5 on Ubuntu 18.04
 
 **Topic ID**: 13188

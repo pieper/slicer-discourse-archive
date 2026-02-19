@@ -1,3 +1,10 @@
+---
+topic_id: 23075
+title: "Rigid Landmark Registration For Models"
+date: 2022-04-21
+url: https://discourse.slicer.org/t/23075
+---
+
 # Rigid landmark registration for models
 
 **Topic ID**: 23075

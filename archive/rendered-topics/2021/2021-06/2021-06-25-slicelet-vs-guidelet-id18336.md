@@ -1,3 +1,10 @@
+---
+topic_id: 18336
+title: "Slicelet Vs Guidelet"
+date: 2021-06-25
+url: https://discourse.slicer.org/t/18336
+---
+
 # Slicelet vs Guidelet
 
 **Topic ID**: 18336

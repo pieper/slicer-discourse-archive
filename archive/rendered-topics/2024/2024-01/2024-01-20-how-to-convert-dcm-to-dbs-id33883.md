@@ -1,3 +1,10 @@
+---
+topic_id: 33883
+title: "How To Convert Dcm To Dbs"
+date: 2024-01-20
+url: https://discourse.slicer.org/t/33883
+---
+
 # How to convert .dcm to .dbs
 
 **Topic ID**: 33883

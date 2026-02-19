@@ -1,3 +1,10 @@
+---
+topic_id: 27227
+title: "Persist New Server In Dicom Query Servers List"
+date: 2023-01-13
+url: https://discourse.slicer.org/t/27227
+---
+
 # Persist new server in DICOM Query Servers list
 
 **Topic ID**: 27227

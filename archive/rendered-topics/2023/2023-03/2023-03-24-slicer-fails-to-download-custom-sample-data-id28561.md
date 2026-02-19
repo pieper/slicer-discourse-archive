@@ -1,3 +1,10 @@
+---
+topic_id: 28561
+title: "Slicer Fails To Download Custom Sample Data"
+date: 2023-03-24
+url: https://discourse.slicer.org/t/28561
+---
+
 # Slicer fails to download custom sample data
 
 **Topic ID**: 28561

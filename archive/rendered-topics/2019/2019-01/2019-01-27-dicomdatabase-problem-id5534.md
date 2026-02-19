@@ -1,3 +1,10 @@
+---
+topic_id: 5534
+title: "Dicomdatabase Problem"
+date: 2019-01-27
+url: https://discourse.slicer.org/t/5534
+---
+
 # DICOMDatabase problem
 
 **Topic ID**: 5534

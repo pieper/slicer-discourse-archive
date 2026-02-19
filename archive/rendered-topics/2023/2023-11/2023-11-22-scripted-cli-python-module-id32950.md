@@ -1,3 +1,10 @@
+---
+topic_id: 32950
+title: "Scripted Cli Python Module"
+date: 2023-11-22
+url: https://discourse.slicer.org/t/32950
+---
+
 # Scripted/cli Python module
 
 **Topic ID**: 32950

@@ -1,3 +1,10 @@
+---
+topic_id: 6366
+title: "Extracting Transfer Function Values After Volume Rendering I"
+date: 2019-04-02
+url: https://discourse.slicer.org/t/6366
+---
+
 # Extracting transfer function values after Volume rendering in 3D Slicer
 
 **Topic ID**: 6366

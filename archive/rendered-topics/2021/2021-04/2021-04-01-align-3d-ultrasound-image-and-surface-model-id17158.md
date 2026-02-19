@@ -1,3 +1,10 @@
+---
+topic_id: 17158
+title: "Align 3D Ultrasound Image And Surface Model"
+date: 2021-04-01
+url: https://discourse.slicer.org/t/17158
+---
+
 # Align 3D ultrasound image and surface model
 
 **Topic ID**: 17158

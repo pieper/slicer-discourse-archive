@@ -1,3 +1,10 @@
+---
+topic_id: 17255
+title: "3D Slicer Custom App Bundling Slicerelastix Extension"
+date: 2021-04-22
+url: https://discourse.slicer.org/t/17255
+---
+
 # 3D Slicer Custom App bundling SlicerElastix extension
 
 **Topic ID**: 17255

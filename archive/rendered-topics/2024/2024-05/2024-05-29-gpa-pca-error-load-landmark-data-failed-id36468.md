@@ -1,3 +1,10 @@
+---
+topic_id: 36468
+title: "Gpa Pca Error Load Landmark Data Failed"
+date: 2024-05-29
+url: https://discourse.slicer.org/t/36468
+---
+
 # GPA + PCA Error: Load landmark data failed
 
 **Topic ID**: 36468

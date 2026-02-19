@@ -1,3 +1,10 @@
+---
+topic_id: 24948
+title: "Collision Detection Between Not Polyhedron Models"
+date: 2022-08-27
+url: https://discourse.slicer.org/t/24948
+---
+
 # Collision detection between not polyhedron models
 
 **Topic ID**: 24948

@@ -1,3 +1,10 @@
+---
+topic_id: 31393
+title: "Slicer 5 4 0 Markup Shortcuts"
+date: 2023-08-28
+url: https://discourse.slicer.org/t/31393
+---
+
 # Slicer 5.4.0 markup shortcuts
 
 **Topic ID**: 31393

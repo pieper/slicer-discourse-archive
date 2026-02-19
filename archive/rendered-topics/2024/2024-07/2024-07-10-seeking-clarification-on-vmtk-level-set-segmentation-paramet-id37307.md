@@ -1,3 +1,10 @@
+---
+topic_id: 37307
+title: "Seeking Clarification On Vmtk Level Set Segmentation Paramet"
+date: 2024-07-10
+url: https://discourse.slicer.org/t/37307
+---
+
 # Seeking Clarification on VMTK Level Set Segmentation Parameters and Behavior
 
 **Topic ID**: 37307

@@ -1,3 +1,10 @@
+---
+topic_id: 29835
+title: "Stl Model Doesnt Show In Slice View"
+date: 2023-06-05
+url: https://discourse.slicer.org/t/29835
+---
+
 # Stl model doesn't show in slice view
 
 **Topic ID**: 29835

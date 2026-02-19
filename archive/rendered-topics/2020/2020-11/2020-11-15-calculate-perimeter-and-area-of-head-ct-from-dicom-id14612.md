@@ -1,3 +1,10 @@
+---
+topic_id: 14612
+title: "Calculate Perimeter And Area Of Head Ct From Dicom"
+date: 2020-11-15
+url: https://discourse.slicer.org/t/14612
+---
+
 # Calculate perimeter and area of Head CT from DICOM
 
 **Topic ID**: 14612

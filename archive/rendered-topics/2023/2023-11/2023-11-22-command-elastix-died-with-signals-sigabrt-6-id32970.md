@@ -1,3 +1,10 @@
+---
+topic_id: 32970
+title: "Command Elastix Died With Signals Sigabrt 6"
+date: 2023-11-22
+url: https://discourse.slicer.org/t/32970
+---
+
 # Command 'elastix' died with <Signals.SIGABRT: 6>.
 
 **Topic ID**: 32970

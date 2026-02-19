@@ -1,3 +1,10 @@
+---
+topic_id: 31639
+title: "Scale Model In Gltf"
+date: 2023-09-11
+url: https://discourse.slicer.org/t/31639
+---
+
 # Scale model in gltf
 
 **Topic ID**: 31639

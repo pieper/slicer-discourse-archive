@@ -1,3 +1,10 @@
+---
+topic_id: 8688
+title: "Modify A Vtkmrmlnode Via Another Thread"
+date: 2019-10-06
+url: https://discourse.slicer.org/t/8688
+---
+
 # Modify a vtkMRMLNode via another thread
 
 **Topic ID**: 8688

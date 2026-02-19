@@ -1,3 +1,10 @@
+---
+topic_id: 35216
+title: "About Publishing An Extension With 3D Slicer"
+date: 2024-04-02
+url: https://discourse.slicer.org/t/35216
+---
+
 # About publishing an extension with 3D Slicer
 
 **Topic ID**: 35216

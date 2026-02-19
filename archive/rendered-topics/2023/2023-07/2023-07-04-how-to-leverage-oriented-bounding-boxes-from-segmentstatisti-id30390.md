@@ -1,3 +1,10 @@
+---
+topic_id: 30390
+title: "How To Leverage Oriented Bounding Boxes From Segmentstatisti"
+date: 2023-07-04
+url: https://discourse.slicer.org/t/30390
+---
+
 # How to leverage oriented bounding boxes from SegmentStatistics to crop scans within python numpy
 
 **Topic ID**: 30390

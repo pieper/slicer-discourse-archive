@@ -1,3 +1,10 @@
+---
+topic_id: 34456
+title: "Problem Using Memos Extension"
+date: 2024-02-08
+url: https://discourse.slicer.org/t/34456
+---
+
 # Problem using MEMOS extension
 
 **Topic ID**: 34456

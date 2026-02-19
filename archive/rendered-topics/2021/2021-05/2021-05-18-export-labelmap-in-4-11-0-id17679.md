@@ -1,3 +1,10 @@
+---
+topic_id: 17679
+title: "Export Labelmap In 4 11 0"
+date: 2021-05-18
+url: https://discourse.slicer.org/t/17679
+---
+
 # Export Labelmap in 4.11.0
 
 **Topic ID**: 17679

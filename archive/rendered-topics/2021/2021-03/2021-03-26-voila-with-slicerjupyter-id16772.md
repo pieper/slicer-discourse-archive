@@ -1,3 +1,10 @@
+---
+topic_id: 16772
+title: "Voila With Slicerjupyter"
+date: 2021-03-26
+url: https://discourse.slicer.org/t/16772
+---
+
 # Voila with slicerJupyter
 
 **Topic ID**: 16772

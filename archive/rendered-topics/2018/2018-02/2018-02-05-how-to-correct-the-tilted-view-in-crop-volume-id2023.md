@@ -1,3 +1,10 @@
+---
+topic_id: 2023
+title: "How To Correct The Tilted View In Crop Volume"
+date: 2018-02-05
+url: https://discourse.slicer.org/t/2023
+---
+
 # How to correct the tilted view in Crop volume?
 
 **Topic ID**: 2023

@@ -1,3 +1,10 @@
+---
+topic_id: 26418
+title: "Info Level Logging Messages Do Not Appear In Python Console"
+date: 2022-11-24
+url: https://discourse.slicer.org/t/26418
+---
+
 # Info level logging messages do not appear in Python console
 
 **Topic ID**: 26418

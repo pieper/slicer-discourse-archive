@@ -1,3 +1,10 @@
+---
+topic_id: 21611
+title: "Volumetric Mesh From Ct File"
+date: 2022-01-25
+url: https://discourse.slicer.org/t/21611
+---
+
 # Volumetric mesh from CT file?
 
 **Topic ID**: 21611

@@ -1,3 +1,10 @@
+---
+topic_id: 11984
+title: "Input Mask For Jpg Files"
+date: 2020-06-10
+url: https://discourse.slicer.org/t/11984
+---
+
 # Input mask for .jpg files
 
 **Topic ID**: 11984

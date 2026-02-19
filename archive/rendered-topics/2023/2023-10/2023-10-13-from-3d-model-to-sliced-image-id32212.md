@@ -1,3 +1,10 @@
+---
+topic_id: 32212
+title: "From 3D Model To Sliced Image"
+date: 2023-10-13
+url: https://discourse.slicer.org/t/32212
+---
+
 # From 3D model to sliced image
 
 **Topic ID**: 32212

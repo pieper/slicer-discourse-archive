@@ -1,3 +1,10 @@
+---
+topic_id: 6045
+title: "Fixed Bin Count In Slicerradiomics"
+date: 2019-03-06
+url: https://discourse.slicer.org/t/6045
+---
+
 # Fixed bin count in SlicerRadiomics
 
 **Topic ID**: 6045

@@ -1,3 +1,10 @@
+---
+topic_id: 12025
+title: "Centerline Computation"
+date: 2020-06-15
+url: https://discourse.slicer.org/t/12025
+---
+
 # Centerline Computation
 
 **Topic ID**: 12025

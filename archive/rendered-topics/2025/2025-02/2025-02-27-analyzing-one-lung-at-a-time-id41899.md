@@ -1,3 +1,10 @@
+---
+topic_id: 41899
+title: "Analyzing One Lung At A Time"
+date: 2025-02-27
+url: https://discourse.slicer.org/t/41899
+---
+
 # Analyzing one lung at a time
 
 **Topic ID**: 41899

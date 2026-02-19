@@ -1,3 +1,10 @@
+---
+topic_id: 17262
+title: "Slicer Issues With Displaying Certain Dicom Images"
+date: 2021-04-23
+url: https://discourse.slicer.org/t/17262
+---
+
 # Slicer Issues with Displaying Certain DICOM Images
 
 **Topic ID**: 17262

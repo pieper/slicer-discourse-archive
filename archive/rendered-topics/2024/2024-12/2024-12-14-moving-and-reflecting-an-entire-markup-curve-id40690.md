@@ -1,3 +1,10 @@
+---
+topic_id: 40690
+title: "Moving And Reflecting An Entire Markup Curve"
+date: 2024-12-14
+url: https://discourse.slicer.org/t/40690
+---
+
 # moving and reflecting an entire markup curve
 
 **Topic ID**: 40690

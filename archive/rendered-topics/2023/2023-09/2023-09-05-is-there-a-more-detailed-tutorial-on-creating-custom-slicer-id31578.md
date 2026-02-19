@@ -1,3 +1,10 @@
+---
+topic_id: 31578
+title: "Is There A More Detailed Tutorial On Creating Custom Slicer"
+date: 2023-09-05
+url: https://discourse.slicer.org/t/31578
+---
+
 # Is there a more detailed tutorial on creating custom slicer application?
 
 **Topic ID**: 31578

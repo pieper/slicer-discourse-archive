@@ -1,3 +1,10 @@
+---
+topic_id: 9704
+title: "Expanding Volume Without Squeezing Others"
+date: 2020-01-03
+url: https://discourse.slicer.org/t/9704
+---
+
 # Expanding volume without squeezing others
 
 **Topic ID**: 9704

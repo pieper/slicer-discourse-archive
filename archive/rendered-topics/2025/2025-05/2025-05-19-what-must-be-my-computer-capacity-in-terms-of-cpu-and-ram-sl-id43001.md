@@ -1,3 +1,10 @@
+---
+topic_id: 43001
+title: "What Must Be My Computer Capacity In Terms Of Cpu And Ram Sl"
+date: 2025-05-19
+url: https://discourse.slicer.org/t/43001
+---
+
 # What Must be my Computer Capacity in Terms of CPU and RAM. Slicer 3D is running Slow.
 
 **Topic ID**: 43001

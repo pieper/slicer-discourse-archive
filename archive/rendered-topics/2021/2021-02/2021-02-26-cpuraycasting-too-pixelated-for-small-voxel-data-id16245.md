@@ -1,3 +1,10 @@
+---
+topic_id: 16245
+title: "Cpuraycasting Too Pixelated For Small Voxel Data"
+date: 2021-02-26
+url: https://discourse.slicer.org/t/16245
+---
+
 # CpuRaycasting too pixelated for small voxel data
 
 **Topic ID**: 16245

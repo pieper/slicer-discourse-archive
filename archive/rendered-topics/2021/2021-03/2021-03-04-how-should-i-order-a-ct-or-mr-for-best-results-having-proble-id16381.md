@@ -1,3 +1,10 @@
+---
+topic_id: 16381
+title: "How Should I Order A Ct Or Mr For Best Results Having Proble"
+date: 2021-03-04
+url: https://discourse.slicer.org/t/16381
+---
+
 # How should I order a CT or MR for Best results? Having problems with multiple series when loading to 3D Slicer
 
 **Topic ID**: 16381

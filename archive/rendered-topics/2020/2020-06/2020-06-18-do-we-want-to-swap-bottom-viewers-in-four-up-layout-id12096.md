@@ -1,3 +1,10 @@
+---
+topic_id: 12096
+title: "Do We Want To Swap Bottom Viewers In Four Up Layout"
+date: 2020-06-18
+url: https://discourse.slicer.org/t/12096
+---
+
 # Do we want to swap bottom viewers in four-up layout?
 
 **Topic ID**: 12096

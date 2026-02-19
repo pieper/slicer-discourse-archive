@@ -1,3 +1,10 @@
+---
+topic_id: 4524
+title: "Segmentation Restricted To Roi"
+date: 2018-10-25
+url: https://discourse.slicer.org/t/4524
+---
+
 # Segmentation restricted to ROI
 
 **Topic ID**: 4524

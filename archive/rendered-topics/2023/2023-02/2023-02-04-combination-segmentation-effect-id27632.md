@@ -1,3 +1,10 @@
+---
+topic_id: 27632
+title: "Combination Segmentation Effect"
+date: 2023-02-04
+url: https://discourse.slicer.org/t/27632
+---
+
 # Combination segmentation effect
 
 **Topic ID**: 27632

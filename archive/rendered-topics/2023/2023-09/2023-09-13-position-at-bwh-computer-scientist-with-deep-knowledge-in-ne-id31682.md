@@ -1,3 +1,10 @@
+---
+topic_id: 31682
+title: "Position At Bwh Computer Scientist With Deep Knowledge In Ne"
+date: 2023-09-13
+url: https://discourse.slicer.org/t/31682
+---
+
 # Position at BWH: Computer Scientist with deep knowledge in Neuroimaging
 
 **Topic ID**: 31682

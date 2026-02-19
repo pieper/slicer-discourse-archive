@@ -1,3 +1,10 @@
+---
+topic_id: 2808
+title: "Slice Interpolation"
+date: 2018-05-11
+url: https://discourse.slicer.org/t/2808
+---
+
 # Slice Interpolation
 
 **Topic ID**: 2808

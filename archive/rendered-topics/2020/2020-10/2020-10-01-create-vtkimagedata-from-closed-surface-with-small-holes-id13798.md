@@ -1,3 +1,10 @@
+---
+topic_id: 13798
+title: "Create Vtkimagedata From Closed Surface With Small Holes"
+date: 2020-10-01
+url: https://discourse.slicer.org/t/13798
+---
+
 # Create vtkimagedata from closed surface with small holes
 
 **Topic ID**: 13798

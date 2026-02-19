@@ -1,3 +1,10 @@
+---
+topic_id: 30565
+title: "Surfacewrapsolidify Extension Does Not Work In Latest Slicer"
+date: 2023-07-12
+url: https://discourse.slicer.org/t/30565
+---
+
 # SurfaceWrapSolidify extension does not work in latest Slicer Preview Release
 
 **Topic ID**: 30565

@@ -1,3 +1,10 @@
+---
+topic_id: 5510
+title: "Duplicated Segmentation Error"
+date: 2019-01-25
+url: https://discourse.slicer.org/t/5510
+---
+
 # Duplicated Segmentation Error
 
 **Topic ID**: 5510

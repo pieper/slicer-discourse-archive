@@ -1,3 +1,10 @@
+---
+topic_id: 8736
+title: "Lung Aireated Volumen In Ct"
+date: 2019-10-10
+url: https://discourse.slicer.org/t/8736
+---
+
 # Lung aireated volumen in CT
 
 **Topic ID**: 8736

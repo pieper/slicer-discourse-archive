@@ -1,3 +1,10 @@
+---
+topic_id: 36385
+title: "Coordinate System Problem Between 3D Slicer And Mricron"
+date: 2024-05-25
+url: https://discourse.slicer.org/t/36385
+---
+
 # Coordinate system problem between 3d slicer and Mricron
 
 **Topic ID**: 36385

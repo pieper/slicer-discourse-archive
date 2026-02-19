@@ -1,3 +1,10 @@
+---
+topic_id: 44366
+title: "Dicom To Voxel Python Landmark Placement Issue For Dl Datase"
+date: 2025-09-05
+url: https://discourse.slicer.org/t/44366
+---
+
 # DICOM to Voxel(python) - Landmark Placement Issue for DL Dataset
 
 **Topic ID**: 44366

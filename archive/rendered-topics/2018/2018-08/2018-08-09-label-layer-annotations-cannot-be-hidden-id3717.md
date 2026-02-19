@@ -1,3 +1,10 @@
+---
+topic_id: 3717
+title: "Label Layer Annotations Cannot Be Hidden"
+date: 2018-08-09
+url: https://discourse.slicer.org/t/3717
+---
+
 # Label layer annotations cannot be hidden
 
 **Topic ID**: 3717

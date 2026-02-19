@@ -1,3 +1,10 @@
+---
+topic_id: 40879
+title: "Transforming A 2D Image Into A Tactile 3D Representation"
+date: 2024-12-28
+url: https://discourse.slicer.org/t/40879
+---
+
 # Transforming a 2D image into a tactile, 3D representation
 
 **Topic ID**: 40879

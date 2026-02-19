@@ -1,3 +1,10 @@
+---
+topic_id: 16225
+title: "How To Calculate The Average Length And Fa Value Of Fiber Bu"
+date: 2021-02-26
+url: https://discourse.slicer.org/t/16225
+---
+
 # How to calculate the average length and FA value of fiber bundles
 
 **Topic ID**: 16225

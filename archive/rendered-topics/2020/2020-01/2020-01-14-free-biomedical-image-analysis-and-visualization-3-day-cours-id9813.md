@@ -1,3 +1,10 @@
+---
+topic_id: 9813
+title: "Free Biomedical Image Analysis And Visualization 3 Day Cours"
+date: 2020-01-14
+url: https://discourse.slicer.org/t/9813
+---
+
 # Free Biomedical Image Analysis and Visualization 3-day Course: March 24-26, 2020, Carrboro, NC, USA
 
 **Topic ID**: 9813

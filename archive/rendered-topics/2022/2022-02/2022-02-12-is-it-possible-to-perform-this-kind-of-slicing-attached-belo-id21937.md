@@ -1,3 +1,10 @@
+---
+topic_id: 21937
+title: "Is It Possible To Perform This Kind Of Slicing Attached Belo"
+date: 2022-02-12
+url: https://discourse.slicer.org/t/21937
+---
+
 # Is it possible to perform this kind of slicing (attached below) for 3D data generated from multiple slices?
 
 **Topic ID**: 21937

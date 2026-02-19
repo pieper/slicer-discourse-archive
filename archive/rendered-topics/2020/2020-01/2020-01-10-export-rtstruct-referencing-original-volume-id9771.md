@@ -1,3 +1,10 @@
+---
+topic_id: 9771
+title: "Export Rtstruct Referencing Original Volume"
+date: 2020-01-10
+url: https://discourse.slicer.org/t/9771
+---
+
 # Export RTStruct referencing original volume
 
 **Topic ID**: 9771

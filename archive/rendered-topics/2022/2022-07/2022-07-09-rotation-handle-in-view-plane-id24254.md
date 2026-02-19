@@ -1,3 +1,10 @@
+---
+topic_id: 24254
+title: "Rotation Handle In View Plane"
+date: 2022-07-09
+url: https://discourse.slicer.org/t/24254
+---
+
 # Rotation handle in view plane
 
 **Topic ID**: 24254

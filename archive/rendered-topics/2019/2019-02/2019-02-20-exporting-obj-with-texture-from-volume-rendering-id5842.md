@@ -1,3 +1,10 @@
+---
+topic_id: 5842
+title: "Exporting Obj With Texture From Volume Rendering"
+date: 2019-02-20
+url: https://discourse.slicer.org/t/5842
+---
+
 # Exporting OBJ with texture from volume rendering
 
 **Topic ID**: 5842

@@ -1,3 +1,10 @@
+---
+topic_id: 26537
+title: "How To Create A Plane And Get Its Section With The 3D Model"
+date: 2022-12-01
+url: https://discourse.slicer.org/t/26537
+---
+
 # How to create a plane and get its section with the 3D model in 3DSlicer? [Slicer 5.0.3]
 
 **Topic ID**: 26537

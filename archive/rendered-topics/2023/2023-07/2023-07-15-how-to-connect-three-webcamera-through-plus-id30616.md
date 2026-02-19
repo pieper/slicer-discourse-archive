@@ -1,3 +1,10 @@
+---
+topic_id: 30616
+title: "How To Connect Three Webcamera Through Plus"
+date: 2023-07-15
+url: https://discourse.slicer.org/t/30616
+---
+
 # How to connect three webcamera through Plus?
 
 **Topic ID**: 30616

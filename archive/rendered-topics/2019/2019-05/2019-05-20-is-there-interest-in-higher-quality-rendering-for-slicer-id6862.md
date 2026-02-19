@@ -1,3 +1,10 @@
+---
+topic_id: 6862
+title: "Is There Interest In Higher Quality Rendering For Slicer"
+date: 2019-05-20
+url: https://discourse.slicer.org/t/6862
+---
+
 # Is there interest in higher quality rendering for Slicer?
 
 **Topic ID**: 6862

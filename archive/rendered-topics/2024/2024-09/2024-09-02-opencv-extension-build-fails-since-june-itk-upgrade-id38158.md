@@ -1,3 +1,10 @@
+---
+topic_id: 38158
+title: "Opencv Extension Build Fails Since June Itk Upgrade"
+date: 2024-09-02
+url: https://discourse.slicer.org/t/38158
+---
+
 # OpenCV extension build fails since June ITK upgrade
 
 **Topic ID**: 38158

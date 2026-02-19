@@ -1,3 +1,10 @@
+---
+topic_id: 44251
+title: "Cbcttoothsegmentation Failed To Compute Results Error"
+date: 2025-08-29
+url: https://discourse.slicer.org/t/44251
+---
+
 # CBCTToothSegmentation failed to compute results error
 
 **Topic ID**: 44251

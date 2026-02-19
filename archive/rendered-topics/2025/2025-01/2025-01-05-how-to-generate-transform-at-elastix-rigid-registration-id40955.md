@@ -1,3 +1,10 @@
+---
+topic_id: 40955
+title: "How To Generate Transform At Elastix Rigid Registration"
+date: 2025-01-05
+url: https://discourse.slicer.org/t/40955
+---
+
 # How to generate transform at Elastix rigid registration
 
 **Topic ID**: 40955

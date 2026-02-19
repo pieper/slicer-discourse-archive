@@ -1,3 +1,10 @@
+---
+topic_id: 2375
+title: "Grabbing The Default Segment Editor Widget"
+date: 2018-03-20
+url: https://discourse.slicer.org/t/2375
+---
+
 # Grabbing the default segment editor widget
 
 **Topic ID**: 2375

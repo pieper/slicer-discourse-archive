@@ -1,3 +1,10 @@
+---
+topic_id: 3918
+title: "Iterative Ciosest Point Icpslicer Algorithm Source"
+date: 2018-08-28
+url: https://discourse.slicer.org/t/3918
+---
+
 # Iterative CIosest Point (ICPSlicer) algorithm source
 
 **Topic ID**: 3918

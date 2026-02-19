@@ -1,3 +1,10 @@
+---
+topic_id: 16954
+title: "Diffusion Module"
+date: 2021-04-05
+url: https://discourse.slicer.org/t/16954
+---
+
 # Diffusion module
 
 **Topic ID**: 16954

@@ -1,3 +1,10 @@
+---
+topic_id: 34239
+title: "Cc By Nc 4 0 License For An Extension"
+date: 2024-02-10
+url: https://discourse.slicer.org/t/34239
+---
+
 # CC BY-NC 4.0 License for an Extension
 
 **Topic ID**: 34239

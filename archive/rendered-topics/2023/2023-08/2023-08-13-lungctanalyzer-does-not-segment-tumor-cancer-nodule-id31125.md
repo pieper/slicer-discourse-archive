@@ -1,3 +1,10 @@
+---
+topic_id: 31125
+title: "Lungctanalyzer Does Not Segment Tumor Cancer Nodule"
+date: 2023-08-13
+url: https://discourse.slicer.org/t/31125
+---
+
 # LungCTAnalyzer does not segment tumor/cancer nodule
 
 **Topic ID**: 31125

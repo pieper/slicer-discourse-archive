@@ -1,3 +1,10 @@
+---
+topic_id: 27948
+title: "Totalsegmentator To Generate Segmentation Files And The Use"
+date: 2023-02-21
+url: https://discourse.slicer.org/t/27948
+---
+
 # Totalsegmentator to generate segmentation files, and the use these files to compute CT/PET suv value. but get the wrong answers
 
 **Topic ID**: 27948

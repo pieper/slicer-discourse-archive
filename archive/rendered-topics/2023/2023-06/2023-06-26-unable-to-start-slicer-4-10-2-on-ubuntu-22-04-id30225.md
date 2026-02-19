@@ -1,3 +1,10 @@
+---
+topic_id: 30225
+title: "Unable To Start Slicer 4 10 2 On Ubuntu 22 04"
+date: 2023-06-26
+url: https://discourse.slicer.org/t/30225
+---
+
 # Unable to start Slicer 4.10.2 on Ubuntu 22.04
 
 **Topic ID**: 30225

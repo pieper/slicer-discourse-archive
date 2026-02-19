@@ -1,3 +1,10 @@
+---
+topic_id: 39942
+title: "How To Reduce Inter Rater Variability In The Analysis Of Myo"
+date: 2024-10-30
+url: https://discourse.slicer.org/t/39942
+---
+
 # How to reduce inter-rater variability in the analysis of myosteatosis?
 
 **Topic ID**: 39942

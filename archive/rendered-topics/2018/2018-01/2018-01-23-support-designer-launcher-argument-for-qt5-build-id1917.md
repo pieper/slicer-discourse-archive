@@ -1,3 +1,10 @@
+---
+topic_id: 1917
+title: "Support Designer Launcher Argument For Qt5 Build"
+date: 2018-01-23
+url: https://discourse.slicer.org/t/1917
+---
+
 # Support --designer launcher argument for Qt5 build
 
 **Topic ID**: 1917

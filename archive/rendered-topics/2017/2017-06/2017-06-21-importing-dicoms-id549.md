@@ -1,3 +1,10 @@
+---
+topic_id: 549
+title: "Importing Dicoms"
+date: 2017-06-21
+url: https://discourse.slicer.org/t/549
+---
+
 # Importing DICOMs
 
 **Topic ID**: 549

@@ -1,3 +1,10 @@
+---
+topic_id: 36814
+title: "Project Week 41 Final Prep Meeting Tuesday June 18Th"
+date: 2024-06-16
+url: https://discourse.slicer.org/t/36814
+---
+
 # Project Week 41 - Final prep meeting, Tuesday June 18th
 
 **Topic ID**: 36814

@@ -1,3 +1,10 @@
+---
+topic_id: 2803
+title: "Shift Rt Dose Gamma Comparison With Differents Ct Cbct Isoce"
+date: 2018-05-11
+url: https://discourse.slicer.org/t/2803
+---
+
 # Shift RT dose gamma comparison with differents CT - CBCT isocenter acquisition
 
 **Topic ID**: 2803

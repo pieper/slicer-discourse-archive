@@ -1,3 +1,10 @@
+---
+topic_id: 26022
+title: "Slicerrt Drr Generation Module Does Not Work Well On Macbook"
+date: 2022-11-02
+url: https://discourse.slicer.org/t/26022
+---
+
 # SlicerRT DRR generation module does not work well on macbook
 
 **Topic ID**: 26022

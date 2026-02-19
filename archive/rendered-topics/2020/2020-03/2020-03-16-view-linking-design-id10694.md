@@ -1,3 +1,10 @@
+---
+topic_id: 10694
+title: "View Linking Design"
+date: 2020-03-16
+url: https://discourse.slicer.org/t/10694
+---
+
 # View linking design
 
 **Topic ID**: 10694

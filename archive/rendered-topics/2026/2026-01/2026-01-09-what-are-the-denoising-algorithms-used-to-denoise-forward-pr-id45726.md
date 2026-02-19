@@ -1,3 +1,10 @@
+---
+topic_id: 45726
+title: "What Are The Denoising Algorithms Used To Denoise Forward Pr"
+date: 2026-01-09
+url: https://discourse.slicer.org/t/45726
+---
+
 # What are the denoising algorithms used to denoise forward projection X-rays in Slicer
 
 **Topic ID**: 45726

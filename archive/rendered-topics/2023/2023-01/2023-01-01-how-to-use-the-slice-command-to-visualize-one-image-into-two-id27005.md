@@ -1,3 +1,10 @@
+---
+topic_id: 27005
+title: "How To Use The Slice Command To Visualize One Image Into Two"
+date: 2023-01-01
+url: https://discourse.slicer.org/t/27005
+---
+
 # How to use the slice command to visualize one image into two intersecting planes?
 
 **Topic ID**: 27005

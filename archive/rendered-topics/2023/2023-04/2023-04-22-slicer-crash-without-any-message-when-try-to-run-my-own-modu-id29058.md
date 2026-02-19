@@ -1,3 +1,10 @@
+---
+topic_id: 29058
+title: "Slicer Crash Without Any Message When Try To Run My Own Modu"
+date: 2023-04-22
+url: https://discourse.slicer.org/t/29058
+---
+
 # Slicer crash without any message when try to run my own module
 
 **Topic ID**: 29058

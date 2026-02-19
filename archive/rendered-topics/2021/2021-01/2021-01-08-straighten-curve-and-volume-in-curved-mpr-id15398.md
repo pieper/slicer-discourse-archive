@@ -1,3 +1,10 @@
+---
+topic_id: 15398
+title: "Straighten Curve And Volume In Curved Mpr"
+date: 2021-01-08
+url: https://discourse.slicer.org/t/15398
+---
+
 # Straighten curve and volume in curved mpr
 
 **Topic ID**: 15398

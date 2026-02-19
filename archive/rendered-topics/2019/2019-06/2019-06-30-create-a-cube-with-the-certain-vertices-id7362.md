@@ -1,3 +1,10 @@
+---
+topic_id: 7362
+title: "Create A Cube With The Certain Vertices"
+date: 2019-06-30
+url: https://discourse.slicer.org/t/7362
+---
+
 # Create a cube with the certain vertices
 
 **Topic ID**: 7362

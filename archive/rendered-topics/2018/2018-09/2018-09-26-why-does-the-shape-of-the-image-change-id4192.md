@@ -1,3 +1,10 @@
+---
+topic_id: 4192
+title: "Why Does The Shape Of The Image Change"
+date: 2018-09-26
+url: https://discourse.slicer.org/t/4192
+---
+
 # Why does the shape of the image change?
 
 **Topic ID**: 4192

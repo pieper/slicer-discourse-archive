@@ -1,3 +1,10 @@
+---
+topic_id: 27570
+title: "How I Can Make 3D Figures From Lung Huge Tumors"
+date: 2023-01-31
+url: https://discourse.slicer.org/t/27570
+---
+
 # how I can make 3D figures from lung huge tumors? 
 
 **Topic ID**: 27570

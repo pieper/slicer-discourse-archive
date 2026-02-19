@@ -1,3 +1,10 @@
+---
+topic_id: 22448
+title: "Median And Iqr Values Please Help"
+date: 2022-03-11
+url: https://discourse.slicer.org/t/22448
+---
+
 # Median and IQR values please help
 
 **Topic ID**: 22448

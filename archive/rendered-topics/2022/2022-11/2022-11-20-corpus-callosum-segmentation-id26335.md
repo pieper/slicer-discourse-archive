@@ -1,3 +1,10 @@
+---
+topic_id: 26335
+title: "Corpus Callosum Segmentation"
+date: 2022-11-20
+url: https://discourse.slicer.org/t/26335
+---
+
 # Corpus callosum segmentation 
 
 **Topic ID**: 26335

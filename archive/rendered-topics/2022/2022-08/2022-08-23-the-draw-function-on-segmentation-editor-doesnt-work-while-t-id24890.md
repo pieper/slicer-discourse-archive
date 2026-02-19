@@ -1,3 +1,10 @@
+---
+topic_id: 24890
+title: "The Draw Function On Segmentation Editor Doesnt Work While T"
+date: 2022-08-23
+url: https://discourse.slicer.org/t/24890
+---
+
 # the draw function on segmentation editor doesn't work while the paint function works
 
 **Topic ID**: 24890

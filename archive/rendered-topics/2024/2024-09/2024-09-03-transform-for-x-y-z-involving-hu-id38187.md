@@ -1,3 +1,10 @@
+---
+topic_id: 38187
+title: "Transform For X Y Z Involving Hu"
+date: 2024-09-03
+url: https://discourse.slicer.org/t/38187
+---
+
 # Transform for x,y,z involving HU
 
 **Topic ID**: 38187

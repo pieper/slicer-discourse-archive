@@ -1,3 +1,10 @@
+---
+topic_id: 25286
+title: "Failed To Import Dicom"
+date: 2022-09-16
+url: https://discourse.slicer.org/t/25286
+---
+
 # Failed to import dicom
 
 **Topic ID**: 25286

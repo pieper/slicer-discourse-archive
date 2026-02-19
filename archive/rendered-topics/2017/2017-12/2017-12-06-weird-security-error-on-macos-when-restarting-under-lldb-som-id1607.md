@@ -1,3 +1,10 @@
+---
+topic_id: 1607
+title: "Weird Security Error On Macos When Restarting Under Lldb Som"
+date: 2017-12-06
+url: https://discourse.slicer.org/t/1607
+---
+
 # Weird security error on macOS when restarting under lldb, sometimes
 
 **Topic ID**: 1607

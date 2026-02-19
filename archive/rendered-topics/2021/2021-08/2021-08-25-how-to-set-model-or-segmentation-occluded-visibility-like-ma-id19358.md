@@ -1,3 +1,10 @@
+---
+topic_id: 19358
+title: "How To Set Model Or Segmentation Occluded Visibility Like Ma"
+date: 2021-08-25
+url: https://discourse.slicer.org/t/19358
+---
+
 # How to set model or segmentation occluded visibility like Markups in 3D view？
 
 **Topic ID**: 19358

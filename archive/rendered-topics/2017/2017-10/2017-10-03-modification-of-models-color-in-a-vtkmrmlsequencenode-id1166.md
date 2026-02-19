@@ -1,3 +1,10 @@
+---
+topic_id: 1166
+title: "Modification Of Models Color In A Vtkmrmlsequencenode"
+date: 2017-10-03
+url: https://discourse.slicer.org/t/1166
+---
+
 # Modification of model's color in a vtkMRMLSequenceNode
 
 **Topic ID**: 1166

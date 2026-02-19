@@ -1,3 +1,10 @@
+---
+topic_id: 18804
+title: "How To Display The Blended Colors In The View Of Volume Rend"
+date: 2021-07-19
+url: https://discourse.slicer.org/t/18804
+---
+
 # How to display the blended colors in the view of 'volume rendering'?
 
 **Topic ID**: 18804

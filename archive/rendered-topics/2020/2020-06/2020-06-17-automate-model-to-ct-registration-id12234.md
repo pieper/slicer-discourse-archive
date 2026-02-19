@@ -1,3 +1,10 @@
+---
+topic_id: 12234
+title: "Automate Model To Ct Registration"
+date: 2020-06-17
+url: https://discourse.slicer.org/t/12234
+---
+
 # Automate model to CT registration
 
 **Topic ID**: 12234

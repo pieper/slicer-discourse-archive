@@ -1,3 +1,10 @@
+---
+topic_id: 1228
+title: "Failed Build On Windows"
+date: 2017-10-14
+url: https://discourse.slicer.org/t/1228
+---
+
 # Failed build on Windows
 
 **Topic ID**: 1228

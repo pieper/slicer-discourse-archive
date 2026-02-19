@@ -1,3 +1,10 @@
+---
+topic_id: 12586
+title: "Disable Interaction With Camera"
+date: 2020-07-16
+url: https://discourse.slicer.org/t/12586
+---
+
 # Disable interaction with camera
 
 **Topic ID**: 12586

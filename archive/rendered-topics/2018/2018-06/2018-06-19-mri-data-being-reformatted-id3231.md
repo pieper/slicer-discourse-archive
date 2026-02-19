@@ -1,3 +1,10 @@
+---
+topic_id: 3231
+title: "Mri Data Being Reformatted"
+date: 2018-06-19
+url: https://discourse.slicer.org/t/3231
+---
+
 # MRI Data being reformatted
 
 **Topic ID**: 3231

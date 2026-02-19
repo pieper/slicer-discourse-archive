@@ -1,3 +1,10 @@
+---
+topic_id: 17716
+title: "Zoom Out Camera Automatically To Fit In The Segment How"
+date: 2021-05-20
+url: https://discourse.slicer.org/t/17716
+---
+
 # Zoom out camera automatically to fit in the segment, how?
 
 **Topic ID**: 17716

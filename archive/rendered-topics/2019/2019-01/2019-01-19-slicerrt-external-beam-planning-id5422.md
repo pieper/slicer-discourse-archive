@@ -1,3 +1,10 @@
+---
+topic_id: 5422
+title: "Slicerrt External Beam Planning"
+date: 2019-01-19
+url: https://discourse.slicer.org/t/5422
+---
+
 # SlicerRT external beam planning
 
 **Topic ID**: 5422

@@ -1,3 +1,10 @@
+---
+topic_id: 1312
+title: "Export Values From Histogram"
+date: 2017-10-28
+url: https://discourse.slicer.org/t/1312
+---
+
 # Export values from histogram?
 
 **Topic ID**: 1312

@@ -1,3 +1,10 @@
+---
+topic_id: 20478
+title: "Automatic Test With Disable Cli Modules Doesnt Load Dependen"
+date: 2021-11-03
+url: https://discourse.slicer.org/t/20478
+---
+
 # Automatic test with --disable-cli-modules doesn't load dependencies
 
 **Topic ID**: 20478

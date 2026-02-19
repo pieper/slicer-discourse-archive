@@ -1,3 +1,10 @@
+---
+topic_id: 2155
+title: "Splash Screen Does Not Disappear After Startup And Covers An"
+date: 2018-02-22
+url: https://discourse.slicer.org/t/2155
+---
+
 # Splash screen does not disappear after startup and covers another popup
 
 **Topic ID**: 2155

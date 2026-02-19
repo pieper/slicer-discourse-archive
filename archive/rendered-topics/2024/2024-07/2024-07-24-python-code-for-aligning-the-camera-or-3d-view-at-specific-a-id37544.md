@@ -1,3 +1,10 @@
+---
+topic_id: 37544
+title: "Python Code For Aligning The Camera Or 3D View At Specific A"
+date: 2024-07-24
+url: https://discourse.slicer.org/t/37544
+---
+
 # Python code for aligning the camera or 3D view at specific angle
 
 **Topic ID**: 37544

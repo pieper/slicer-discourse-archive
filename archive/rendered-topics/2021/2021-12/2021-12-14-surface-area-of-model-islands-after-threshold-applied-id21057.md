@@ -1,3 +1,10 @@
+---
+topic_id: 21057
+title: "Surface Area Of Model Islands After Threshold Applied"
+date: 2021-12-14
+url: https://discourse.slicer.org/t/21057
+---
+
 # Surface area of model "islands" after threshold applied
 
 **Topic ID**: 21057

@@ -1,3 +1,10 @@
+---
+topic_id: 22516
+title: "How To Limit Grow From Seeds To A Particular Region"
+date: 2022-03-15
+url: https://discourse.slicer.org/t/22516
+---
+
 # How to limit "Grow from seeds" to a particular region?
 
 **Topic ID**: 22516

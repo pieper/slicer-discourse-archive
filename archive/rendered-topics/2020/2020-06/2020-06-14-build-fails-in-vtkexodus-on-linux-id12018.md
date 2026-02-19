@@ -1,3 +1,10 @@
+---
+topic_id: 12018
+title: "Build Fails In Vtkexodus On Linux"
+date: 2020-06-14
+url: https://discourse.slicer.org/t/12018
+---
+
 # Build fails in vtkExodus on Linux
 
 **Topic ID**: 12018

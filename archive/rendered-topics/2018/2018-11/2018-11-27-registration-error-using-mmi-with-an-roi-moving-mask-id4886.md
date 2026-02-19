@@ -1,3 +1,10 @@
+---
+topic_id: 4886
+title: "Registration Error Using Mmi With An Roi Moving Mask"
+date: 2018-11-27
+url: https://discourse.slicer.org/t/4886
+---
+
 # Registration error using MMI with an ROI moving mask
 
 **Topic ID**: 4886

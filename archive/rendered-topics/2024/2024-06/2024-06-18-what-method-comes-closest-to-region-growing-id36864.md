@@ -1,3 +1,10 @@
+---
+topic_id: 36864
+title: "What Method Comes Closest To Region Growing"
+date: 2024-06-18
+url: https://discourse.slicer.org/t/36864
+---
+
 # What method comes closest to region growing?
 
 **Topic ID**: 36864

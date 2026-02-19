@@ -1,3 +1,10 @@
+---
+topic_id: 7011
+title: "Problem With Opening Mmrl File"
+date: 2019-06-03
+url: https://discourse.slicer.org/t/7011
+---
+
 # Problem with opening .mmrl file
 
 **Topic ID**: 7011

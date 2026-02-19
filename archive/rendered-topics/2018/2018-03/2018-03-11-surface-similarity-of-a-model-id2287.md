@@ -1,3 +1,10 @@
+---
+topic_id: 2287
+title: "Surface Similarity Of A Model"
+date: 2018-03-11
+url: https://discourse.slicer.org/t/2287
+---
+
 # Surface similarity of a model
 
 **Topic ID**: 2287

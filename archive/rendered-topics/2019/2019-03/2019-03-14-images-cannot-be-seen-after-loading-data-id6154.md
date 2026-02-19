@@ -1,3 +1,10 @@
+---
+topic_id: 6154
+title: "Images Cannot Be Seen After Loading Data"
+date: 2019-03-14
+url: https://discourse.slicer.org/t/6154
+---
+
 # Images cannot be seen after loading data
 
 **Topic ID**: 6154

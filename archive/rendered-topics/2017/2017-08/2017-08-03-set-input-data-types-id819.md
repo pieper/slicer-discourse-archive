@@ -1,3 +1,10 @@
+---
+topic_id: 819
+title: "Set Input Data Types"
+date: 2017-08-03
+url: https://discourse.slicer.org/t/819
+---
+
 # Set input data types
 
 **Topic ID**: 819

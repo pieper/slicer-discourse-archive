@@ -1,3 +1,10 @@
+---
+topic_id: 28714
+title: "Joint Smoothing For Only Selected Segments"
+date: 2023-04-02
+url: https://discourse.slicer.org/t/28714
+---
+
 # Joint Smoothing for only Selected segments
 
 **Topic ID**: 28714

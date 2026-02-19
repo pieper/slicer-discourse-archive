@@ -1,3 +1,10 @@
+---
+topic_id: 7999
+title: "Dicom Tags Lost While Saving Scene"
+date: 2019-08-13
+url: https://discourse.slicer.org/t/7999
+---
+
 # Dicom tags lost while saving scene
 
 **Topic ID**: 7999

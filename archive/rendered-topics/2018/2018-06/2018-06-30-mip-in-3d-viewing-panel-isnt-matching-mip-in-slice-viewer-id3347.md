@@ -1,3 +1,10 @@
+---
+topic_id: 3347
+title: "Mip In 3D Viewing Panel Isnt Matching Mip In Slice Viewer"
+date: 2018-06-30
+url: https://discourse.slicer.org/t/3347
+---
+
 # MIP in 3D viewing panel isn't matching MIP in slice viewer
 
 **Topic ID**: 3347

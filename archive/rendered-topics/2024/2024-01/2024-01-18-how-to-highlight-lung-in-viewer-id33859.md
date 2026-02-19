@@ -1,3 +1,10 @@
+---
+topic_id: 33859
+title: "How To Highlight Lung In Viewer"
+date: 2024-01-18
+url: https://discourse.slicer.org/t/33859
+---
+
 # How to highlight lung in viewer?
 
 **Topic ID**: 33859

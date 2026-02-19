@@ -1,3 +1,10 @@
+---
+topic_id: 21827
+title: "3D Slicer Using Jupyter Notebook On Cloud"
+date: 2022-02-06
+url: https://discourse.slicer.org/t/21827
+---
+
 # 3D slicer using Jupyter notebook on cloud
 
 **Topic ID**: 21827

@@ -1,3 +1,10 @@
+---
+topic_id: 6209
+title: "Centering On A Segment From A Script"
+date: 2019-03-19
+url: https://discourse.slicer.org/t/6209
+---
+
 # Centering on a segment from a script
 
 **Topic ID**: 6209

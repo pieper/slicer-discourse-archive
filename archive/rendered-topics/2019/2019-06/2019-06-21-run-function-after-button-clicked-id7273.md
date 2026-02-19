@@ -1,3 +1,10 @@
+---
+topic_id: 7273
+title: "Run Function After Button Clicked"
+date: 2019-06-21
+url: https://discourse.slicer.org/t/7273
+---
+
 # Run function after button clicked
 
 **Topic ID**: 7273

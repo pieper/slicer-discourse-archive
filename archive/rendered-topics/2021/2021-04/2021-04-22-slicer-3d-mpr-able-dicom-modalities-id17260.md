@@ -1,3 +1,10 @@
+---
+topic_id: 17260
+title: "Slicer 3D Mpr Able Dicom Modalities"
+date: 2021-04-22
+url: https://discourse.slicer.org/t/17260
+---
+
 # Slicer 3D MPR-able DICOM Modalities
 
 **Topic ID**: 17260

@@ -1,3 +1,10 @@
+---
+topic_id: 26219
+title: "Unable To Load Ct Files"
+date: 2022-11-14
+url: https://discourse.slicer.org/t/26219
+---
+
 # Unable to load CT Files
 
 **Topic ID**: 26219

@@ -1,3 +1,10 @@
+---
+topic_id: 12335
+title: "Where Should I Download Vtk Qt And Ctk From"
+date: 2020-07-02
+url: https://discourse.slicer.org/t/12335
+---
+
 # Where should I download vtk, qt, and ctk from?
 
 **Topic ID**: 12335

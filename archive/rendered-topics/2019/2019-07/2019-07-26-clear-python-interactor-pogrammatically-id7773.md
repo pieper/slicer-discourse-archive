@@ -1,3 +1,10 @@
+---
+topic_id: 7773
+title: "Clear Python Interactor Pogrammatically"
+date: 2019-07-26
+url: https://discourse.slicer.org/t/7773
+---
+
 # Clear Python Interactor pogrammatically
 
 **Topic ID**: 7773

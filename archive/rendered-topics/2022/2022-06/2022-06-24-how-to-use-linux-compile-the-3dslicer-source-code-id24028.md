@@ -1,3 +1,10 @@
+---
+topic_id: 24028
+title: "How To Use Linux Compile The 3Dslicer Source Code"
+date: 2022-06-24
+url: https://discourse.slicer.org/t/24028
+---
+
 # How to use Linux compile the 3DSLicer source code
 
 **Topic ID**: 24028

@@ -1,3 +1,10 @@
+---
+topic_id: 14430
+title: "Ct Image Registration"
+date: 2020-11-04
+url: https://discourse.slicer.org/t/14430
+---
+
 # CT image registration
 
 **Topic ID**: 14430

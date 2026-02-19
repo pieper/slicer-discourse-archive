@@ -1,3 +1,10 @@
+---
+topic_id: 29444
+title: "Knee Model Extraction From Dicom Images"
+date: 2023-05-13
+url: https://discourse.slicer.org/t/29444
+---
+
 # Knee Model extraction from Dicom images
 
 **Topic ID**: 29444

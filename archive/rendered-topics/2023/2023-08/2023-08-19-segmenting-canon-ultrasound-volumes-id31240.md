@@ -1,3 +1,10 @@
+---
+topic_id: 31240
+title: "Segmenting Canon Ultrasound Volumes"
+date: 2023-08-19
+url: https://discourse.slicer.org/t/31240
+---
+
 # Segmenting Canon Ultrasound volumes 
 
 **Topic ID**: 31240

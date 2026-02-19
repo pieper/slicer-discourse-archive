@@ -1,3 +1,10 @@
+---
+topic_id: 4362
+title: "Slicerdmri Not Building On Metroplex Linux"
+date: 2018-10-11
+url: https://discourse.slicer.org/t/4362
+---
+
 # SlicerDMRI not building on metroplex/linux
 
 **Topic ID**: 4362

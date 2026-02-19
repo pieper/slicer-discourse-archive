@@ -1,3 +1,10 @@
+---
+topic_id: 6796
+title: "Seriesdate And Seriestime Missing From Dicom Explorer"
+date: 2019-05-15
+url: https://discourse.slicer.org/t/6796
+---
+
 # SeriesDate and SeriesTime missing from DICOM explorer
 
 **Topic ID**: 6796

@@ -1,3 +1,10 @@
+---
+topic_id: 32863
+title: "Bonetexture Extension Attribute Error"
+date: 2023-11-16
+url: https://discourse.slicer.org/t/32863
+---
+
 # BoneTexture extension Attribute error
 
 **Topic ID**: 32863

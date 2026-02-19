@@ -1,3 +1,10 @@
+---
+topic_id: 41644
+title: "Runtimeerror No Valid Dicom Nrrd Pairs Found In The Director"
+date: 2025-02-12
+url: https://discourse.slicer.org/t/41644
+---
+
 # RuntimeError: No valid DICOM-NRRD pairs found in the directories
 
 **Topic ID**: 41644

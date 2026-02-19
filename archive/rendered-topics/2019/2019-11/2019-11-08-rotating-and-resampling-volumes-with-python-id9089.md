@@ -1,3 +1,10 @@
+---
+topic_id: 9089
+title: "Rotating And Resampling Volumes With Python"
+date: 2019-11-08
+url: https://discourse.slicer.org/t/9089
+---
+
 # Rotating and resampling volumes with Python
 
 **Topic ID**: 9089

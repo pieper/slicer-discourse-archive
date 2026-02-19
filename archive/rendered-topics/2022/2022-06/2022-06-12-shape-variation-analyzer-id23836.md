@@ -1,3 +1,10 @@
+---
+topic_id: 23836
+title: "Shape Variation Analyzer"
+date: 2022-06-12
+url: https://discourse.slicer.org/t/23836
+---
+
 # Shape variation analyzer
 
 **Topic ID**: 23836

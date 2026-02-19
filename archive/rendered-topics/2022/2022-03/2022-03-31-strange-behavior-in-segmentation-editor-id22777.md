@@ -1,3 +1,10 @@
+---
+topic_id: 22777
+title: "Strange Behavior In Segmentation Editor"
+date: 2022-03-31
+url: https://discourse.slicer.org/t/22777
+---
+
 # Strange behavior in segmentation editor
 
 **Topic ID**: 22777

@@ -1,3 +1,10 @@
+---
+topic_id: 26628
+title: "How To Add My Own Module Widget To Another Module"
+date: 2022-12-07
+url: https://discourse.slicer.org/t/26628
+---
+
 # How to add my own module widget to another module?
 
 **Topic ID**: 26628

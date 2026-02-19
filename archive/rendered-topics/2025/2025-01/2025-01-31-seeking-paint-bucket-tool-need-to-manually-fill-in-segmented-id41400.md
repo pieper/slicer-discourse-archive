@@ -1,3 +1,10 @@
+---
+topic_id: 41400
+title: "Seeking Paint Bucket Tool Need To Manually Fill In Segmented"
+date: 2025-01-31
+url: https://discourse.slicer.org/t/41400
+---
+
 # Seeking paint bucket tool: Need to manually fill in segmented areas that are not fully enclosed
 
 **Topic ID**: 41400

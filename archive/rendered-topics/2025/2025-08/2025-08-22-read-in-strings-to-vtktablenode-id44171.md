@@ -1,3 +1,10 @@
+---
+topic_id: 44171
+title: "Read In Strings To Vtktablenode"
+date: 2025-08-22
+url: https://discourse.slicer.org/t/44171
+---
+
 # Read in Strings to vtkTableNode?
 
 **Topic ID**: 44171

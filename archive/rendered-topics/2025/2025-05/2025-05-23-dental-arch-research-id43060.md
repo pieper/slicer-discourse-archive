@@ -1,3 +1,10 @@
+---
+topic_id: 43060
+title: "Dental Arch Research"
+date: 2025-05-23
+url: https://discourse.slicer.org/t/43060
+---
+
 # Dental Arch Research
 
 **Topic ID**: 43060

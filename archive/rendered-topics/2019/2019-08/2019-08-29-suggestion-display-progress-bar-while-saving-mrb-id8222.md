@@ -1,3 +1,10 @@
+---
+topic_id: 8222
+title: "Suggestion Display Progress Bar While Saving Mrb"
+date: 2019-08-29
+url: https://discourse.slicer.org/t/8222
+---
+
 # Suggestion: Display progress bar while saving MRB
 
 **Topic ID**: 8222

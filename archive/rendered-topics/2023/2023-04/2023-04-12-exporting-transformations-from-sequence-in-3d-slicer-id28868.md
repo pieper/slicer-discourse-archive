@@ -1,3 +1,10 @@
+---
+topic_id: 28868
+title: "Exporting Transformations From Sequence In 3D Slicer"
+date: 2023-04-12
+url: https://discourse.slicer.org/t/28868
+---
+
 # Exporting Transformations from Sequence in 3D Slicer
 
 **Topic ID**: 28868

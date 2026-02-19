@@ -1,3 +1,10 @@
+---
+topic_id: 14962
+title: "Problem With Viewinteractivewidget No Output Visible"
+date: 2020-12-09
+url: https://discourse.slicer.org/t/14962
+---
+
 # Problem with ViewInteractiveWidget - no output visible
 
 **Topic ID**: 14962

@@ -1,3 +1,10 @@
+---
+topic_id: 16546
+title: "Easy Clip Module"
+date: 2021-03-15
+url: https://discourse.slicer.org/t/16546
+---
+
 # Easy clip module
 
 **Topic ID**: 16546

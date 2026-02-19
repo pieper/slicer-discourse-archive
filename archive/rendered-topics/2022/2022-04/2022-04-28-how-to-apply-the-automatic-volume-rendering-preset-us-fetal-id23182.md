@@ -1,3 +1,10 @@
+---
+topic_id: 23182
+title: "How To Apply The Automatic Volume Rendering Preset Us Fetal"
+date: 2022-04-28
+url: https://discourse.slicer.org/t/23182
+---
+
 # How to apply the automatic volume rendering preset "US-Fetal" on 3D visualizations after segmentation?
 
 **Topic ID**: 23182

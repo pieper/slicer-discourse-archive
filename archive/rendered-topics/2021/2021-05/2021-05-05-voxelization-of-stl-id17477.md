@@ -1,3 +1,10 @@
+---
+topic_id: 17477
+title: "Voxelization Of Stl"
+date: 2021-05-05
+url: https://discourse.slicer.org/t/17477
+---
+
 # Voxelization of STL
 
 **Topic ID**: 17477

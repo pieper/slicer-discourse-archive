@@ -1,3 +1,10 @@
+---
+topic_id: 8597
+title: "Craniosynostosis Surgery Planning"
+date: 2019-09-27
+url: https://discourse.slicer.org/t/8597
+---
+
 # Craniosynostosis surgery planning
 
 **Topic ID**: 8597

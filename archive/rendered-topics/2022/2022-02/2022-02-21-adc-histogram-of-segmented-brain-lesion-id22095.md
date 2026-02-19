@@ -1,3 +1,10 @@
+---
+topic_id: 22095
+title: "Adc Histogram Of Segmented Brain Lesion"
+date: 2022-02-21
+url: https://discourse.slicer.org/t/22095
+---
+
 # ADC histogram of segmented brain lesion
 
 **Topic ID**: 22095

@@ -1,3 +1,10 @@
+---
+topic_id: 43715
+title: "New Dynamic Modeler Tool Revolve"
+date: 2025-07-14
+url: https://discourse.slicer.org/t/43715
+---
+
 # New Dynamic Modeler tool: Revolve
 
 **Topic ID**: 43715

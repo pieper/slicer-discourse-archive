@@ -1,3 +1,10 @@
+---
+topic_id: 3890
+title: "Errors Reading Dicom Files From Cirrus Hd Oct"
+date: 2018-08-24
+url: https://discourse.slicer.org/t/3890
+---
+
 # Errors reading Dicom files from CIRRUS HD-OCT
 
 **Topic ID**: 3890

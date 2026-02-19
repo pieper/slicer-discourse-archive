@@ -1,3 +1,10 @@
+---
+topic_id: 30934
+title: "What Is The Corresponding Event For Changing The Number Of 3"
+date: 2023-08-02
+url: https://discourse.slicer.org/t/30934
+---
+
 # What is the corresponding event for 'changing the number of 3D widget' in python script?
 
 **Topic ID**: 30934

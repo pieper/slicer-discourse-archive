@@ -1,3 +1,10 @@
+---
+topic_id: 17213
+title: "Ibsi Configuration A E Parameter Files"
+date: 2021-04-20
+url: https://discourse.slicer.org/t/17213
+---
+
 # IBSI configuration A-E parameter files
 
 **Topic ID**: 17213

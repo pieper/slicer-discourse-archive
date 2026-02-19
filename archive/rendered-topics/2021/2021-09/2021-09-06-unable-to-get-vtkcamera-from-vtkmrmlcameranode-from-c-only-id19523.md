@@ -1,3 +1,10 @@
+---
+topic_id: 19523
+title: "Unable To Get Vtkcamera From Vtkmrmlcameranode From C Only"
+date: 2021-09-06
+url: https://discourse.slicer.org/t/19523
+---
+
 # Unable to get `vtkCamera*` from `vtkMRMLCameraNode*` (from C++ only)
 
 **Topic ID**: 19523

@@ -1,3 +1,10 @@
+---
+topic_id: 16935
+title: "Some Segmentations Are Very Large"
+date: 2021-04-02
+url: https://discourse.slicer.org/t/16935
+---
+
 # Some segmentations are very large
 
 **Topic ID**: 16935

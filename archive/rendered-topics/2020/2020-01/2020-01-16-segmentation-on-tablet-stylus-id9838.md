@@ -1,3 +1,10 @@
+---
+topic_id: 9838
+title: "Segmentation On Tablet Stylus"
+date: 2020-01-16
+url: https://discourse.slicer.org/t/9838
+---
+
 # Segmentation on Tablet/stylus
 
 **Topic ID**: 9838

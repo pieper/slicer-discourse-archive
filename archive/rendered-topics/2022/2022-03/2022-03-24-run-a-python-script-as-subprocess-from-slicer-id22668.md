@@ -1,3 +1,10 @@
+---
+topic_id: 22668
+title: "Run A Python Script As Subprocess From Slicer"
+date: 2022-03-24
+url: https://discourse.slicer.org/t/22668
+---
+
 # Run a Python script as subprocess from Slicer
 
 **Topic ID**: 22668

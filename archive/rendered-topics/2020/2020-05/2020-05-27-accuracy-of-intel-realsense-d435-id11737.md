@@ -1,3 +1,10 @@
+---
+topic_id: 11737
+title: "Accuracy Of Intel Realsense D435"
+date: 2020-05-27
+url: https://discourse.slicer.org/t/11737
+---
+
 # Accuracy of Intel RealSense D435
 
 **Topic ID**: 11737

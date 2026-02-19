@@ -1,3 +1,10 @@
+---
+topic_id: 28449
+title: "Print The Points Ras In Real Time"
+date: 2023-03-19
+url: https://discourse.slicer.org/t/28449
+---
+
 # Print the point's RAS in real time
 
 **Topic ID**: 28449

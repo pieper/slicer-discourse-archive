@@ -1,3 +1,10 @@
+---
+topic_id: 32183
+title: "How To Transform Objects With A Oculus Quest2 Controller In"
+date: 2023-10-12
+url: https://discourse.slicer.org/t/32183
+---
+
 # How to transform objects with a Oculus Quest2 controller in Virtual Reality module
 
 **Topic ID**: 32183

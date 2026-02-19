@@ -1,3 +1,10 @@
+---
+topic_id: 810
+title: "Core Infrastructure Initiative Cii Badge"
+date: 2017-08-02
+url: https://discourse.slicer.org/t/810
+---
+
 # Core Infrastructure Initiative (CII) badge
 
 **Topic ID**: 810

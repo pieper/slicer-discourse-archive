@@ -1,3 +1,10 @@
+---
+topic_id: 28639
+title: "Frankfurt Horizontal Plane Alignment Of One Model Angle Meas"
+date: 2023-03-28
+url: https://discourse.slicer.org/t/28639
+---
+
 # Frankfurt Horizontal Plane alignment of one model, angle measurements
 
 **Topic ID**: 28639

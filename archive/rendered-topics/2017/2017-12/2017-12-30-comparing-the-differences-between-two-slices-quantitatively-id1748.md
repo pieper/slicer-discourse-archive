@@ -1,3 +1,10 @@
+---
+topic_id: 1748
+title: "Comparing The Differences Between Two Slices Quantitatively"
+date: 2017-12-30
+url: https://discourse.slicer.org/t/1748
+---
+
 # Comparing the differences between two slices quantitatively 
 
 **Topic ID**: 1748

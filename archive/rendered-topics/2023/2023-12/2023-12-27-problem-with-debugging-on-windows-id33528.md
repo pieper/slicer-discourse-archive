@@ -1,3 +1,10 @@
+---
+topic_id: 33528
+title: "Problem With Debugging On Windows"
+date: 2023-12-27
+url: https://discourse.slicer.org/t/33528
+---
+
 # Problem with debugging on Windows
 
 **Topic ID**: 33528

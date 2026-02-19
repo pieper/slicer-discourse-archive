@@ -1,3 +1,10 @@
+---
+topic_id: 16775
+title: "Singleslicesegmentation Segmentable Area Is Limited Cropped"
+date: 2021-03-26
+url: https://discourse.slicer.org/t/16775
+---
+
 # SingleSliceSegmentation segmentable area is limited/cropped
 
 **Topic ID**: 16775

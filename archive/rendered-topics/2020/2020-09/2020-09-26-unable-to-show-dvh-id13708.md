@@ -1,3 +1,10 @@
+---
+topic_id: 13708
+title: "Unable To Show Dvh"
+date: 2020-09-26
+url: https://discourse.slicer.org/t/13708
+---
+
 # Unable to show DVH
 
 **Topic ID**: 13708

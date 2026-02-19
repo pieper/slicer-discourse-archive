@@ -1,3 +1,10 @@
+---
+topic_id: 8009
+title: "Listing Of Known Working Gpu Card And Associated Datasets"
+date: 2019-08-13
+url: https://discourse.slicer.org/t/8009
+---
+
 # Listing of known working GPU card and associated datasets
 
 **Topic ID**: 8009

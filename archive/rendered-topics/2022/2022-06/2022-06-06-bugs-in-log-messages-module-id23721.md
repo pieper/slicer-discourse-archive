@@ -1,3 +1,10 @@
+---
+topic_id: 23721
+title: "Bugs In Log Messages Module"
+date: 2022-06-06
+url: https://discourse.slicer.org/t/23721
+---
+
 # Bugs in Log Messages module
 
 **Topic ID**: 23721

@@ -1,3 +1,10 @@
+---
+topic_id: 41249
+title: "Mirroring Landmarks Across Midsagittal Plane"
+date: 2025-01-23
+url: https://discourse.slicer.org/t/41249
+---
+
 # Mirroring landmarks across midsagittal plane 
 
 **Topic ID**: 41249

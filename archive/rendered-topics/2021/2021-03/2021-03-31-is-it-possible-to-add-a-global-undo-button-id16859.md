@@ -1,3 +1,10 @@
+---
+topic_id: 16859
+title: "Is It Possible To Add A Global Undo Button"
+date: 2021-03-31
+url: https://discourse.slicer.org/t/16859
+---
+
 # Is it possible to add a global undo button?
 
 **Topic ID**: 16859

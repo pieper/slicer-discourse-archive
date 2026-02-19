@@ -1,3 +1,10 @@
+---
+topic_id: 30437
+title: "Odd Behavior While Painting Segment"
+date: 2023-07-06
+url: https://discourse.slicer.org/t/30437
+---
+
 # Odd behavior while painting segment
 
 **Topic ID**: 30437

@@ -1,3 +1,10 @@
+---
+topic_id: 41886
+title: "Way To Acess Eagag"
+date: 2025-02-26
+url: https://discourse.slicer.org/t/41886
+---
+
 # Way to acess eagag
 
 **Topic ID**: 41886

@@ -1,3 +1,10 @@
+---
+topic_id: 26933
+title: "How To Record Vtkcamera Transform Matrix"
+date: 2022-12-27
+url: https://discourse.slicer.org/t/26933
+---
+
 # How to record vtkCamera transform matrix?
 
 **Topic ID**: 26933

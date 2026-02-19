@@ -1,3 +1,10 @@
+---
+topic_id: 4220
+title: "Slicer 4 9 R27399 Crashes On Startup In Windows Remote Sessi"
+date: 2018-09-28
+url: https://discourse.slicer.org/t/4220
+---
+
 # Slicer 4.9. (r27399) crashes on startup in Windows remote session
 
 **Topic ID**: 4220

@@ -1,3 +1,10 @@
+---
+topic_id: 43587
+title: "Volumes Display Image Spacing And Image Origin Wrong"
+date: 2025-07-03
+url: https://discourse.slicer.org/t/43587
+---
+
 # Volumes display Image Spacing and Image Origin wrong?
 
 **Topic ID**: 43587

@@ -1,3 +1,10 @@
+---
+topic_id: 37401
+title: "Help With Stl Export"
+date: 2024-07-16
+url: https://discourse.slicer.org/t/37401
+---
+
 # Help with STL export
 
 **Topic ID**: 37401

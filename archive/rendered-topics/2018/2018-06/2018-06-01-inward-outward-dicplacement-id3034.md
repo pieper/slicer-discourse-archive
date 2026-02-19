@@ -1,3 +1,10 @@
+---
+topic_id: 3034
+title: "Inward Outward Dicplacement"
+date: 2018-06-01
+url: https://discourse.slicer.org/t/3034
+---
+
 # Inward_outward dicplacement
 
 **Topic ID**: 3034

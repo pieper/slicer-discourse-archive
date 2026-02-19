@@ -1,3 +1,10 @@
+---
+topic_id: 10337
+title: "Get Labelmap Voxel Values"
+date: 2020-02-18
+url: https://discourse.slicer.org/t/10337
+---
+
 # Get LabelMap voxel values
 
 **Topic ID**: 10337

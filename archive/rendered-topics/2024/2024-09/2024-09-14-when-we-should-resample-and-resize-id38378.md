@@ -1,3 +1,10 @@
+---
+topic_id: 38378
+title: "When We Should Resample And Resize"
+date: 2024-09-14
+url: https://discourse.slicer.org/t/38378
+---
+
 # When we should resample and resize?
 
 **Topic ID**: 38378

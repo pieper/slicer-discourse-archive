@@ -1,3 +1,10 @@
+---
+topic_id: 29072
+title: "Developers Mode Edit Button No Action In Linux"
+date: 2023-04-23
+url: https://discourse.slicer.org/t/29072
+---
+
 # Developer's mode edit button no action in Linux
 
 **Topic ID**: 29072

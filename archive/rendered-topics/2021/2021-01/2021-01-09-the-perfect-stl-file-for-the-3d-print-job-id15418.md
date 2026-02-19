@@ -1,3 +1,10 @@
+---
+topic_id: 15418
+title: "The Perfect Stl File For The 3D Print Job"
+date: 2021-01-09
+url: https://discourse.slicer.org/t/15418
+---
+
 # The perfect STL file for the 3D print job
 
 **Topic ID**: 15418

@@ -1,3 +1,10 @@
+---
+topic_id: 24521
+title: "Clipping Multiple Branches With Vmtkbranchclipper"
+date: 2022-07-27
+url: https://discourse.slicer.org/t/24521
+---
+
 # Clipping multiple branches with vmtkbranchclipper
 
 **Topic ID**: 24521

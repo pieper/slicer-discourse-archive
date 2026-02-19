@@ -1,3 +1,10 @@
+---
+topic_id: 24538
+title: "Please How The Module Brainsresample Transforms Spacing And"
+date: 2022-07-28
+url: https://discourse.slicer.org/t/24538
+---
+
 # Please how the module BRAINSResample transforms spacing and affine of a nifty image?
 
 **Topic ID**: 24538

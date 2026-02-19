@@ -1,3 +1,10 @@
+---
+topic_id: 530
+title: "Get Array From Image Data"
+date: 2017-06-19
+url: https://discourse.slicer.org/t/530
+---
+
 # Get array from image data
 
 **Topic ID**: 530

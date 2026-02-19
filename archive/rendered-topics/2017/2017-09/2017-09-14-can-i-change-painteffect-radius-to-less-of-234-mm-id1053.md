@@ -1,3 +1,10 @@
+---
+topic_id: 1053
+title: "Can I Change Painteffect Radius To Less Of 234 Mm"
+date: 2017-09-14
+url: https://discourse.slicer.org/t/1053
+---
+
 # Can I change PaintEffect radius to less of .234 mm?
 
 **Topic ID**: 1053

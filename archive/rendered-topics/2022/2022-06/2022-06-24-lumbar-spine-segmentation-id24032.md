@@ -1,3 +1,10 @@
+---
+topic_id: 24032
+title: "Lumbar Spine Segmentation"
+date: 2022-06-24
+url: https://discourse.slicer.org/t/24032
+---
+
 # Lumbar spine segmentation
 
 **Topic ID**: 24032

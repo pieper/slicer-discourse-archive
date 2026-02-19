@@ -1,3 +1,10 @@
+---
+topic_id: 3339
+title: "Create A 3D Fetus From An Ultrasound 4D"
+date: 2018-06-29
+url: https://discourse.slicer.org/t/3339
+---
+
 # Create a 3D fetus from an ultrasound 4D
 
 **Topic ID**: 3339

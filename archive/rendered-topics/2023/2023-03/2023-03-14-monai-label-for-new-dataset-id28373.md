@@ -1,3 +1,10 @@
+---
+topic_id: 28373
+title: "Monai Label For New Dataset"
+date: 2023-03-14
+url: https://discourse.slicer.org/t/28373
+---
+
 # MONAI Label for New Dataset
 
 **Topic ID**: 28373

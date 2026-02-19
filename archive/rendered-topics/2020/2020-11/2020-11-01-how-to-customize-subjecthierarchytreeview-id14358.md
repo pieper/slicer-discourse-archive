@@ -1,3 +1,10 @@
+---
+topic_id: 14358
+title: "How To Customize Subjecthierarchytreeview"
+date: 2020-11-01
+url: https://discourse.slicer.org/t/14358
+---
+
 # How to customize SubjectHierarchyTreeView?
 
 **Topic ID**: 14358

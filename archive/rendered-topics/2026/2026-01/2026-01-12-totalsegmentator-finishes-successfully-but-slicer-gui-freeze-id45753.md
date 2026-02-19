@@ -1,3 +1,10 @@
+---
+topic_id: 45753
+title: "Totalsegmentator Finishes Successfully But Slicer Gui Freeze"
+date: 2026-01-12
+url: https://discourse.slicer.org/t/45753
+---
+
 # TotalSegmentator finishes successfully but Slicer GUI freezes on macOS (M2-Pro Sequoia) after completion
 
 **Topic ID**: 45753

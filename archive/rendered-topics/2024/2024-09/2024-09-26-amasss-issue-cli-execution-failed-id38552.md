@@ -1,3 +1,10 @@
+---
+topic_id: 38552
+title: "Amasss Issue Cli Execution Failed"
+date: 2024-09-26
+url: https://discourse.slicer.org/t/38552
+---
+
 # AMASSS Issue: CLI execution failed:
 
 **Topic ID**: 38552

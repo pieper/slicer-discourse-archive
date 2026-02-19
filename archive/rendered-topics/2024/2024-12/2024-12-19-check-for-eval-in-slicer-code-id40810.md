@@ -1,3 +1,10 @@
+---
+topic_id: 40810
+title: "Check For Eval In Slicer Code"
+date: 2024-12-19
+url: https://discourse.slicer.org/t/40810
+---
+
 # Check for eval in Slicer code
 
 **Topic ID**: 40810

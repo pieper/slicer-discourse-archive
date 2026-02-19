@@ -1,3 +1,10 @@
+---
+topic_id: 166
+title: "Slicer Users Dti Noise"
+date: 2017-04-21
+url: https://discourse.slicer.org/t/166
+---
+
 # [slicer-users] dti noise
 
 **Topic ID**: 166

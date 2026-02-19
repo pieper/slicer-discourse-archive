@@ -1,3 +1,10 @@
+---
+topic_id: 22253
+title: "3D View Control With Ctrl Mouse Left Button"
+date: 2022-03-02
+url: https://discourse.slicer.org/t/22253
+---
+
 # 3D view control with Ctrl + mouse_Left_button
 
 **Topic ID**: 22253

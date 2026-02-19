@@ -1,3 +1,10 @@
+---
+topic_id: 9738
+title: "Build Error On Windows Related To Cli Build Directory"
+date: 2020-01-08
+url: https://discourse.slicer.org/t/9738
+---
+
 # Build error on Windows related to CLI build directory
 
 **Topic ID**: 9738

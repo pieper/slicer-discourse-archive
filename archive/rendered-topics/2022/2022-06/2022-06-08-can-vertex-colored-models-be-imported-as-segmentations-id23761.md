@@ -1,3 +1,10 @@
+---
+topic_id: 23761
+title: "Can Vertex Colored Models Be Imported As Segmentations"
+date: 2022-06-08
+url: https://discourse.slicer.org/t/23761
+---
+
 # Can vertex colored models be imported as segmentations?
 
 **Topic ID**: 23761

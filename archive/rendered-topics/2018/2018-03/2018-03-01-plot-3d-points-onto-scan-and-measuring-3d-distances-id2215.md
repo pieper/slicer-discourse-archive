@@ -1,3 +1,10 @@
+---
+topic_id: 2215
+title: "Plot 3D Points Onto Scan And Measuring 3D Distances"
+date: 2018-03-01
+url: https://discourse.slicer.org/t/2215
+---
+
 # Plot 3d points onto scan and measuring 3d distances
 
 **Topic ID**: 2215

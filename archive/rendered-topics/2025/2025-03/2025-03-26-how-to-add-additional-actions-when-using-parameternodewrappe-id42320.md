@@ -1,3 +1,10 @@
+---
+topic_id: 42320
+title: "How To Add Additional Actions When Using Parameternodewrappe"
+date: 2025-03-26
+url: https://discourse.slicer.org/t/42320
+---
+
 # How to add additional actions when using parameterNodeWrapper?
 
 **Topic ID**: 42320

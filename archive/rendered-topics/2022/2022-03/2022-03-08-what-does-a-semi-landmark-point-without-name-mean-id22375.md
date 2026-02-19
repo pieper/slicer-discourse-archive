@@ -1,3 +1,10 @@
+---
+topic_id: 22375
+title: "What Does A Semi Landmark Point Without Name Mean"
+date: 2022-03-08
+url: https://discourse.slicer.org/t/22375
+---
+
 # What does a semi-landmark point without name mean? 
 
 **Topic ID**: 22375

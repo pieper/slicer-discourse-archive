@@ -1,3 +1,10 @@
+---
+topic_id: 25870
+title: "How To Perform Automatic Segmentation And Rendering Of The H"
+date: 2022-10-24
+url: https://discourse.slicer.org/t/25870
+---
+
 # How to perform automatic segmentation and rendering of the heart
 
 **Topic ID**: 25870

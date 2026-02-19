@@ -1,3 +1,10 @@
+---
+topic_id: 9897
+title: "Qt 5 11 Availability"
+date: 2020-01-21
+url: https://discourse.slicer.org/t/9897
+---
+
 # Qt 5.11 availability
 
 **Topic ID**: 9897

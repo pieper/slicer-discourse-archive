@@ -1,3 +1,10 @@
+---
+topic_id: 21278
+title: "How To Modify Mainwindow In Startup Without Using Slicerrc P"
+date: 2021-12-30
+url: https://discourse.slicer.org/t/21278
+---
+
 # How to modify mainwindow in startup without using .slicerrc.py file
 
 **Topic ID**: 21278

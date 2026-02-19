@@ -1,3 +1,10 @@
+---
+topic_id: 6660
+title: "Averaging 3D Models"
+date: 2019-04-30
+url: https://discourse.slicer.org/t/6660
+---
+
 # "Averaging" 3D models
 
 **Topic ID**: 6660

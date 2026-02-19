@@ -1,3 +1,10 @@
+---
+topic_id: 20322
+title: "How To Get The Transform Edited In 3D Views Interactively In"
+date: 2021-10-24
+url: https://discourse.slicer.org/t/20322
+---
+
 # How to get the transform edited in 3D views interactively in Python Interacter
 
 **Topic ID**: 20322

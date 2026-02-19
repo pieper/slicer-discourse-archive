@@ -1,3 +1,10 @@
+---
+topic_id: 14331
+title: "Show Slicer Views In Selected 3D Windows"
+date: 2020-10-30
+url: https://discourse.slicer.org/t/14331
+---
+
 # Show Slicer Views in selected 3d windows
 
 **Topic ID**: 14331

@@ -1,3 +1,10 @@
+---
+topic_id: 20805
+title: "Gradient Anisotropic Diffusion Itk Filter In My Py Extension"
+date: 2021-11-26
+url: https://discourse.slicer.org/t/20805
+---
+
 # Gradient Anisotropic Diffusion itk filter in my .py extension
 
 **Topic ID**: 20805

@@ -1,3 +1,10 @@
+---
+topic_id: 28812
+title: "Folder Display Node Modifiedevent Doesnt Get Triggered From"
+date: 2023-04-08
+url: https://discourse.slicer.org/t/28812
+---
+
 # Folder display node ModifiedEvent doesn't get triggered from parent
 
 **Topic ID**: 28812

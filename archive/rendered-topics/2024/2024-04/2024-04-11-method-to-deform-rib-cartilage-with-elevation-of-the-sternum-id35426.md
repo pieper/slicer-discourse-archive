@@ -1,3 +1,10 @@
+---
+topic_id: 35426
+title: "Method To Deform Rib Cartilage With Elevation Of The Sternum"
+date: 2024-04-11
+url: https://discourse.slicer.org/t/35426
+---
+
 # Method to deform rib cartilage with elevation of the sternum in pectus excavatum
 
 **Topic ID**: 35426

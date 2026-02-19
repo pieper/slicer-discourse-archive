@@ -1,3 +1,10 @@
+---
+topic_id: 17250
+title: "Using Other Qt Modules In Loadable Extension"
+date: 2021-04-22
+url: https://discourse.slicer.org/t/17250
+---
+
 # Using other Qt modules in loadable extension
 
 **Topic ID**: 17250

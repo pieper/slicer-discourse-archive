@@ -1,3 +1,10 @@
+---
+topic_id: 634
+title: "About Dwi Imagem Of The Dti Dataset"
+date: 2017-07-06
+url: https://discourse.slicer.org/t/634
+---
+
 # About DWI imagem of the DTI dataset
 
 **Topic ID**: 634

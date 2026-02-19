@@ -1,3 +1,10 @@
+---
+topic_id: 22656
+title: "Creating Dummy Displayable And Display Nodes To Show Color L"
+date: 2022-03-23
+url: https://discourse.slicer.org/t/22656
+---
+
 # Creating dummy displayable and display nodes to show color legend
 
 **Topic ID**: 22656

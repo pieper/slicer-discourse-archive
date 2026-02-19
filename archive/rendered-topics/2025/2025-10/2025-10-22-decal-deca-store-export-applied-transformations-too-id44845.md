@@ -1,3 +1,10 @@
+---
+topic_id: 44845
+title: "Decal Deca Store Export Applied Transformations Too"
+date: 2025-10-22
+url: https://discourse.slicer.org/t/44845
+---
+
 # DeCAL & DeCA ---> store / export applied transformations too?
 
 **Topic ID**: 44845

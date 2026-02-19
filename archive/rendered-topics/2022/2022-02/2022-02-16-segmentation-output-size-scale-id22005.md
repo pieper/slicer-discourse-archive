@@ -1,3 +1,10 @@
+---
+topic_id: 22005
+title: "Segmentation Output Size Scale"
+date: 2022-02-16
+url: https://discourse.slicer.org/t/22005
+---
+
 # Segmentation Output Size Scale
 
 **Topic ID**: 22005

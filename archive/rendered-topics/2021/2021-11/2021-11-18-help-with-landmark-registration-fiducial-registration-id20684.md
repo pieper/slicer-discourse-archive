@@ -1,3 +1,10 @@
+---
+topic_id: 20684
+title: "Help With Landmark Registration Fiducial Registration"
+date: 2021-11-18
+url: https://discourse.slicer.org/t/20684
+---
+
 # Help with landmark registration/Fiducial registration
 
 **Topic ID**: 20684

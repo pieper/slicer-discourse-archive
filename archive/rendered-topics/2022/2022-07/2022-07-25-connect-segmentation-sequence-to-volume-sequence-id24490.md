@@ -1,3 +1,10 @@
+---
+topic_id: 24490
+title: "Connect Segmentation Sequence To Volume Sequence"
+date: 2022-07-25
+url: https://discourse.slicer.org/t/24490
+---
+
 # Connect segmentation sequence to volume sequence.
 
 **Topic ID**: 24490

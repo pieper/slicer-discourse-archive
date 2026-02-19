@@ -1,3 +1,10 @@
+---
+topic_id: 29136
+title: "How To Test My Own Data In Totalsegmentator"
+date: 2023-04-26
+url: https://discourse.slicer.org/t/29136
+---
+
 # How to test my own data in TotalSegmentator
 
 **Topic ID**: 29136

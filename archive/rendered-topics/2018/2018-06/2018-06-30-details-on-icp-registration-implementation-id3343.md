@@ -1,3 +1,10 @@
+---
+topic_id: 3343
+title: "Details On Icp Registration Implementation"
+date: 2018-06-30
+url: https://discourse.slicer.org/t/3343
+---
+
 # Details on ICP registration implementation
 
 **Topic ID**: 3343

@@ -1,3 +1,10 @@
+---
+topic_id: 13587
+title: "Segmentation Using Jupyter Notebook"
+date: 2020-09-21
+url: https://discourse.slicer.org/t/13587
+---
+
 # Segmentation using Jupyter notebook
 
 **Topic ID**: 13587

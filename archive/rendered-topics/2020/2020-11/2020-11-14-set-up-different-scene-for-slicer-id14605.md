@@ -1,3 +1,10 @@
+---
+topic_id: 14605
+title: "Set Up Different Scene For Slicer"
+date: 2020-11-14
+url: https://discourse.slicer.org/t/14605
+---
+
 # Set up different scene for Slicer
 
 **Topic ID**: 14605

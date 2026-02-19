@@ -1,3 +1,10 @@
+---
+topic_id: 9291
+title: "Disapearing Segment Information After Using Importlabelmapto"
+date: 2019-11-25
+url: https://discourse.slicer.org/t/9291
+---
+
 # Disapearing segment information after using importlabelmaptosegmentation
 
 **Topic ID**: 9291

@@ -1,3 +1,10 @@
+---
+topic_id: 33957
+title: "How To Handle The New Parameter Node Wrapper"
+date: 2024-01-24
+url: https://discourse.slicer.org/t/33957
+---
+
 # How to handle the new parameter node wrapper?
 
 **Topic ID**: 33957

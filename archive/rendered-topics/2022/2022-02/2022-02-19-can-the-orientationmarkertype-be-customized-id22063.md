@@ -1,3 +1,10 @@
+---
+topic_id: 22063
+title: "Can The Orientationmarkertype Be Customized"
+date: 2022-02-19
+url: https://discourse.slicer.org/t/22063
+---
+
 # Can the OrientationMarkerType be customized?
 
 **Topic ID**: 22063

@@ -1,3 +1,10 @@
+---
+topic_id: 11702
+title: "Using Slicer Via Vnc Virtualgl"
+date: 2020-05-26
+url: https://discourse.slicer.org/t/11702
+---
+
 # Using Slicer via VNC + VirtualGL
 
 **Topic ID**: 11702

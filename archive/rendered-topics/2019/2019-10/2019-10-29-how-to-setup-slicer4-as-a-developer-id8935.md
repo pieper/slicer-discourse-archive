@@ -1,3 +1,10 @@
+---
+topic_id: 8935
+title: "How To Setup Slicer4 As A Developer"
+date: 2019-10-29
+url: https://discourse.slicer.org/t/8935
+---
+
 # How to setup Slicer4 as a developer
 
 **Topic ID**: 8935

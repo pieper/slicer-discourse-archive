@@ -1,3 +1,10 @@
+---
+topic_id: 35251
+title: "Segmentation Displaced Regarding Tc Image"
+date: 2024-04-03
+url: https://discourse.slicer.org/t/35251
+---
+
 # Segmentation displaced regarding TC image
 
 **Topic ID**: 35251

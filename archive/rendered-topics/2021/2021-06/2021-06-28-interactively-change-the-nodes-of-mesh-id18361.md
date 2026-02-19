@@ -1,3 +1,10 @@
+---
+topic_id: 18361
+title: "Interactively Change The Nodes Of Mesh"
+date: 2021-06-28
+url: https://discourse.slicer.org/t/18361
+---
+
 # Interactively change the nodes of mesh
 
 **Topic ID**: 18361

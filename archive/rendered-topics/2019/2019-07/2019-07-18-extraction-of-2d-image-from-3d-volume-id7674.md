@@ -1,3 +1,10 @@
+---
+topic_id: 7674
+title: "Extraction Of 2D Image From 3D Volume"
+date: 2019-07-18
+url: https://discourse.slicer.org/t/7674
+---
+
 # Extraction of 2D Image from 3D Volume
 
 **Topic ID**: 7674

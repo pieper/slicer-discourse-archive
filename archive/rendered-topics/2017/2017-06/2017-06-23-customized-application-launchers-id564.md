@@ -1,3 +1,10 @@
+---
+topic_id: 564
+title: "Customized Application Launchers"
+date: 2017-06-23
+url: https://discourse.slicer.org/t/564
+---
+
 # Customized application launchers
 
 **Topic ID**: 564

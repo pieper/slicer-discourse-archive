@@ -1,3 +1,10 @@
+---
+topic_id: 25706
+title: "R Vessel X Node Position Help Window Again S"
+date: 2022-10-14
+url: https://discourse.slicer.org/t/25706
+---
+
 # R-Vessel-X node position help window (again)s
 
 **Topic ID**: 25706

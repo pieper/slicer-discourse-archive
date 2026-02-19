@@ -1,3 +1,10 @@
+---
+topic_id: 7156
+title: "Volume Rendering"
+date: 2019-06-13
+url: https://discourse.slicer.org/t/7156
+---
+
 # Volume rendering
 
 **Topic ID**: 7156

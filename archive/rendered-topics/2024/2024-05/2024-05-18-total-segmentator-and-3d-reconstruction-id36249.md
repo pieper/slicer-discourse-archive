@@ -1,3 +1,10 @@
+---
+topic_id: 36249
+title: "Total Segmentator And 3D Reconstruction"
+date: 2024-05-18
+url: https://discourse.slicer.org/t/36249
+---
+
 # Total Segmentator and 3D reconstruction 
 
 **Topic ID**: 36249

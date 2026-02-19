@@ -1,3 +1,10 @@
+---
+topic_id: 28519
+title: "Calculation Of Segmentation Volume"
+date: 2023-03-22
+url: https://discourse.slicer.org/t/28519
+---
+
 # Calculation of Segmentation Volume
 
 **Topic ID**: 28519

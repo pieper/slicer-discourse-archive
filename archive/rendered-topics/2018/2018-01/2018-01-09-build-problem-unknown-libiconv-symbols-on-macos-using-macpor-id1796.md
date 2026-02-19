@@ -1,3 +1,10 @@
+---
+topic_id: 1796
+title: "Build Problem Unknown Libiconv Symbols On Macos Using Macpor"
+date: 2018-01-09
+url: https://discourse.slicer.org/t/1796
+---
+
 # Build problem (unknown _libiconv symbols) on macOS (using MacPorts)
 
 **Topic ID**: 1796

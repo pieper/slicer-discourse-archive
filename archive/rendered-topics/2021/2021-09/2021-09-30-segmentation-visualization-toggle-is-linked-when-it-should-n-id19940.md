@@ -1,3 +1,10 @@
+---
+topic_id: 19940
+title: "Segmentation Visualization Toggle Is Linked When It Should N"
+date: 2021-09-30
+url: https://discourse.slicer.org/t/19940
+---
+
 # Segmentation visualization toggle is linked when it should not
 
 **Topic ID**: 19940

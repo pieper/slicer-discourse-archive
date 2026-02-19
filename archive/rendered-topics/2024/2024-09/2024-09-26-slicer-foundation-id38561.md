@@ -1,3 +1,10 @@
+---
+topic_id: 38561
+title: "Slicer Foundation"
+date: 2024-09-26
+url: https://discourse.slicer.org/t/38561
+---
+
 # Slicer foundation
 
 **Topic ID**: 38561

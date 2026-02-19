@@ -1,3 +1,10 @@
+---
+topic_id: 15519
+title: "Different Voxels But The Same Coordinate"
+date: 2021-01-14
+url: https://discourse.slicer.org/t/15519
+---
+
 # Different voxels, but the same coordinate?
 
 **Topic ID**: 15519

@@ -1,3 +1,10 @@
+---
+topic_id: 36360
+title: "Opendose3D For Rubidium 82 Rb 82"
+date: 2024-05-23
+url: https://discourse.slicer.org/t/36360
+---
+
 # OpenDose3D for Rubidium-82(Rb-82)
 
 **Topic ID**: 36360

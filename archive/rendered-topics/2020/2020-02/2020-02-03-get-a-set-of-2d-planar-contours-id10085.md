@@ -1,3 +1,10 @@
+---
+topic_id: 10085
+title: "Get A Set Of 2D Planar Contours"
+date: 2020-02-03
+url: https://discourse.slicer.org/t/10085
+---
+
 # get a set of 2D planar contours 
 
 **Topic ID**: 10085

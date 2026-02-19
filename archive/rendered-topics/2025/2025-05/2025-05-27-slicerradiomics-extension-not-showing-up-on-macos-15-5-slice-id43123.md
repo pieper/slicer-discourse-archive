@@ -1,3 +1,10 @@
+---
+topic_id: 43123
+title: "Slicerradiomics Extension Not Showing Up On Macos 15 5 Slice"
+date: 2025-05-27
+url: https://discourse.slicer.org/t/43123
+---
+
 # SlicerRadiomics Extension Not Showing Up on macOS 15.5 (Slicer 5.9.0 Preview)
 
 **Topic ID**: 43123

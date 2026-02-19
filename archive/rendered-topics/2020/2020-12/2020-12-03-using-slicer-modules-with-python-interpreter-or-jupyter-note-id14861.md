@@ -1,3 +1,10 @@
+---
+topic_id: 14861
+title: "Using Slicer Modules With Python Interpreter Or Jupyter Note"
+date: 2020-12-03
+url: https://discourse.slicer.org/t/14861
+---
+
 # Using Slicer modules with Python interpreter or Jupyter Notebook (Help!)
 
 **Topic ID**: 14861

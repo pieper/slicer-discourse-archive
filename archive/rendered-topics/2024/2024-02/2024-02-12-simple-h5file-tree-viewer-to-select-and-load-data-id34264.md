@@ -1,3 +1,10 @@
+---
+topic_id: 34264
+title: "Simple H5File Tree Viewer To Select And Load Data"
+date: 2024-02-12
+url: https://discourse.slicer.org/t/34264
+---
+
 # Simple h5file tree viewer to select and load data
 
 **Topic ID**: 34264

@@ -1,3 +1,10 @@
+---
+topic_id: 10382
+title: "Best Way To Compare And Contrast Drilling Trajectories"
+date: 2020-02-21
+url: https://discourse.slicer.org/t/10382
+---
+
 # Best way to compare and contrast drilling trajectories
 
 **Topic ID**: 10382

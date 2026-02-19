@@ -1,3 +1,10 @@
+---
+topic_id: 18252
+title: "Export Segmentation For Finite Element Analysis"
+date: 2021-06-21
+url: https://discourse.slicer.org/t/18252
+---
+
 # Export segmentation for finite element analysis
 
 **Topic ID**: 18252

@@ -1,3 +1,10 @@
+---
+topic_id: 38386
+title: "Difference Between The Dimensions Of The Ct And Rt Dose"
+date: 2024-09-15
+url: https://discourse.slicer.org/t/38386
+---
+
 # Difference between the dimensions of the CT and RT dose
 
 **Topic ID**: 38386

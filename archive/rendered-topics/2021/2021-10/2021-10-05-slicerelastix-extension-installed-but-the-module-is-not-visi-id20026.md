@@ -1,3 +1,10 @@
+---
+topic_id: 20026
+title: "Slicerelastix Extension Installed But The Module Is Not Visi"
+date: 2021-10-05
+url: https://discourse.slicer.org/t/20026
+---
+
 # SlicerElastix extension installed but the module is not visible anywhere
 
 **Topic ID**: 20026

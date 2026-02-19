@@ -1,3 +1,10 @@
+---
+topic_id: 11608
+title: "Workaround For Errors When Showing Annotationruler Label Tex"
+date: 2020-05-18
+url: https://discourse.slicer.org/t/11608
+---
+
 # Workaround for errors when showing AnnotationRuler Label text in 2D slice view
 
 **Topic ID**: 11608

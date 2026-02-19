@@ -1,3 +1,10 @@
+---
+topic_id: 1066
+title: "Dicom Volume Rendering Max 3D Texture Size Error"
+date: 2017-09-16
+url: https://discourse.slicer.org/t/1066
+---
+
 # DICOM volume rendering : MAX_3D_TEXTURE_SIZE error
 
 **Topic ID**: 1066

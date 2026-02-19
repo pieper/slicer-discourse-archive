@@ -1,3 +1,10 @@
+---
+topic_id: 16972
+title: "Stitching Volumes"
+date: 2021-04-07
+url: https://discourse.slicer.org/t/16972
+---
+
 # Stitching volumes
 
 **Topic ID**: 16972

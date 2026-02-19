@@ -1,3 +1,10 @@
+---
+topic_id: 29068
+title: "The Total Segmentator"
+date: 2023-04-23
+url: https://discourse.slicer.org/t/29068
+---
+
 # The Total Segmentator
 
 **Topic ID**: 29068

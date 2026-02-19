@@ -1,3 +1,10 @@
+---
+topic_id: 26535
+title: "Reference Line Mri"
+date: 2022-12-01
+url: https://discourse.slicer.org/t/26535
+---
+
 # Reference line MRI
 
 **Topic ID**: 26535

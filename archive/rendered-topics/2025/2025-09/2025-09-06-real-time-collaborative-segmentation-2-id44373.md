@@ -1,3 +1,10 @@
+---
+topic_id: 44373
+title: "Real Time Collaborative Segmentation 2"
+date: 2025-09-06
+url: https://discourse.slicer.org/t/44373
+---
+
 # Real-time collaborative segmentation #2
 
 **Topic ID**: 44373

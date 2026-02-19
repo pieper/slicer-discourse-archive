@@ -1,3 +1,10 @@
+---
+topic_id: 1456
+title: "Incorrect Display Of Registration Result Image"
+date: 2017-11-14
+url: https://discourse.slicer.org/t/1456
+---
+
 # Incorrect display of registration result image
 
 **Topic ID**: 1456

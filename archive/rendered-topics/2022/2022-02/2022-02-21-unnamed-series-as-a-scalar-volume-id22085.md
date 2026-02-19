@@ -1,3 +1,10 @@
+---
+topic_id: 22085
+title: "Unnamed Series As A Scalar Volume"
+date: 2022-02-21
+url: https://discourse.slicer.org/t/22085
+---
+
 # Unnamed Series as a Scalar Volume
 
 **Topic ID**: 22085

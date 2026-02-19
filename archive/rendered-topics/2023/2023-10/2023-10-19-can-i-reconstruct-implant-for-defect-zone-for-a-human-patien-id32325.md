@@ -1,3 +1,10 @@
+---
+topic_id: 32325
+title: "Can I Reconstruct Implant For Defect Zone For A Human Patien"
+date: 2023-10-19
+url: https://discourse.slicer.org/t/32325
+---
+
 # Can I reconstruct implant for defect zone for a human patient?
 
 **Topic ID**: 32325

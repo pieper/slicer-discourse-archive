@@ -1,3 +1,10 @@
+---
+topic_id: 11692
+title: "Rendering Freesurfer Regional Volumes In Effect Size Or Z Sc"
+date: 2020-05-25
+url: https://discourse.slicer.org/t/11692
+---
+
 # Rendering Freesurfer regional volumes in Effect size or Z-score ColourMaps
 
 **Topic ID**: 11692

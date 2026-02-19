@@ -1,3 +1,10 @@
+---
+topic_id: 36047
+title: "How To Export A Vtk File That Can Be Imported Into Cartomerg"
+date: 2024-05-10
+url: https://discourse.slicer.org/t/36047
+---
+
 # How to export a vtk file that can be imported into CARTOMerge
 
 **Topic ID**: 36047

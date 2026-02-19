@@ -1,3 +1,10 @@
+---
+topic_id: 16956
+title: "Different Values Of Radiomics Features Between Slicer Radiom"
+date: 2021-04-06
+url: https://discourse.slicer.org/t/16956
+---
+
 # Different values of radiomics features between slicer radiomics and pyradiomics
 
 **Topic ID**: 16956

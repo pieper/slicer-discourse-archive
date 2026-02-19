@@ -1,3 +1,10 @@
+---
+topic_id: 435
+title: "2017 Summer Project Week Projects"
+date: 2017-06-02
+url: https://discourse.slicer.org/t/435
+---
+
 # 2017 Summer Project Week Projects
 
 **Topic ID**: 435

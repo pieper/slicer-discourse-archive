@@ -1,3 +1,10 @@
+---
+topic_id: 13307
+title: "Change Dimansions Of Created Volume From 3D Models Obj"
+date: 2020-09-02
+url: https://discourse.slicer.org/t/13307
+---
+
 # Change dimansions of created volume from 3d models (obj)
 
 **Topic ID**: 13307

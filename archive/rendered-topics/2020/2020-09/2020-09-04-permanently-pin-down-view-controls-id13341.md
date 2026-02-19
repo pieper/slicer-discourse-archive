@@ -1,3 +1,10 @@
+---
+topic_id: 13341
+title: "Permanently Pin Down View Controls"
+date: 2020-09-04
+url: https://discourse.slicer.org/t/13341
+---
+
 # Permanently pin down view controls
 
 **Topic ID**: 13341

@@ -1,3 +1,10 @@
+---
+topic_id: 28437
+title: "Encoding Error For Dicom File From Chison"
+date: 2023-03-18
+url: https://discourse.slicer.org/t/28437
+---
+
 # Encoding Error for DICOM File from Chison
 
 **Topic ID**: 28437

@@ -1,3 +1,10 @@
+---
+topic_id: 11403
+title: "Model To Segment"
+date: 2020-05-04
+url: https://discourse.slicer.org/t/11403
+---
+
 # Model to segment
 
 **Topic ID**: 11403

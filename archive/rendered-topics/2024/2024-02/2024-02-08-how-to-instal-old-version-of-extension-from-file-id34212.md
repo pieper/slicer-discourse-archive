@@ -1,3 +1,10 @@
+---
+topic_id: 34212
+title: "How To Instal Old Version Of Extension From File"
+date: 2024-02-08
+url: https://discourse.slicer.org/t/34212
+---
+
 # How to instal old version of extension from file
 
 **Topic ID**: 34212

@@ -1,3 +1,10 @@
+---
+topic_id: 6941
+title: "Multithreading In Extension"
+date: 2019-05-27
+url: https://discourse.slicer.org/t/6941
+---
+
 # Multithreading in extension
 
 **Topic ID**: 6941

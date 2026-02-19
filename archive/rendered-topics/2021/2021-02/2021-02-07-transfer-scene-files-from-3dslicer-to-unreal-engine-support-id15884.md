@@ -1,3 +1,10 @@
+---
+topic_id: 15884
+title: "Transfer Scene Files From 3Dslicer To Unreal Engine Support"
+date: 2021-02-07
+url: https://discourse.slicer.org/t/15884
+---
+
 # Transfer scene files from 3DSlicer to Unreal Engine Support
 
 **Topic ID**: 15884

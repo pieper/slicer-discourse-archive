@@ -1,3 +1,10 @@
+---
+topic_id: 22909
+title: "Arduino Pedalboard"
+date: 2022-04-11
+url: https://discourse.slicer.org/t/22909
+---
+
 # Arduino PedalBoard
 
 **Topic ID**: 22909

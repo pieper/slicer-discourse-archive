@@ -1,3 +1,10 @@
+---
+topic_id: 31791
+title: "Hd Bet Doesnt Work For Me"
+date: 2023-09-19
+url: https://discourse.slicer.org/t/31791
+---
+
 # HD-BET doesn't work for me
 
 **Topic ID**: 31791

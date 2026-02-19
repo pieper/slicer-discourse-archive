@@ -1,3 +1,10 @@
+---
+topic_id: 37038
+title: "Dependency Conflict"
+date: 2024-06-26
+url: https://discourse.slicer.org/t/37038
+---
+
 # Dependency conflict
 
 **Topic ID**: 37038

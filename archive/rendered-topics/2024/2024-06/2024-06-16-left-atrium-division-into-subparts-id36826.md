@@ -1,3 +1,10 @@
+---
+topic_id: 36826
+title: "Left Atrium Division Into Subparts"
+date: 2024-06-16
+url: https://discourse.slicer.org/t/36826
+---
+
 # Left atrium division into subparts
 
 **Topic ID**: 36826

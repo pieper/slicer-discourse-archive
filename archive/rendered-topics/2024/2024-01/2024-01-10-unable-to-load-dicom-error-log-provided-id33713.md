@@ -1,3 +1,10 @@
+---
+topic_id: 33713
+title: "Unable To Load Dicom Error Log Provided"
+date: 2024-01-10
+url: https://discourse.slicer.org/t/33713
+---
+
 # unable to load dicom -- error log provided
 
 **Topic ID**: 33713

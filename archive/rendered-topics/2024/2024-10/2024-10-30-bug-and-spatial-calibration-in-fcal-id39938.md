@@ -1,3 +1,10 @@
+---
+topic_id: 39938
+title: "Bug And Spatial Calibration In Fcal"
+date: 2024-10-30
+url: https://discourse.slicer.org/t/39938
+---
+
 # BUG and spatial calibration in fCal
 
 **Topic ID**: 39938

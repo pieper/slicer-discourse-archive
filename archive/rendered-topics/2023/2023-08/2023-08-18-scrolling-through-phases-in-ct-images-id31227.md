@@ -1,3 +1,10 @@
+---
+topic_id: 31227
+title: "Scrolling Through Phases In Ct Images"
+date: 2023-08-18
+url: https://discourse.slicer.org/t/31227
+---
+
 # Scrolling through phases in ct images
 
 **Topic ID**: 31227

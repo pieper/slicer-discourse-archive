@@ -1,3 +1,10 @@
+---
+topic_id: 22170
+title: "The Voxel Value Is Showing Invalid"
+date: 2022-02-25
+url: https://discourse.slicer.org/t/22170
+---
+
 # The voxel value is showing 'invalid'
 
 **Topic ID**: 22170

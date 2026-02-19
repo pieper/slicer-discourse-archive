@@ -1,3 +1,10 @@
+---
+topic_id: 4826
+title: "Dicom Browser Is Stuck Behind Main Window After Dicom Import"
+date: 2018-11-20
+url: https://discourse.slicer.org/t/4826
+---
+
 # DICOM browser is stuck behind main window after DICOM import
 
 **Topic ID**: 4826

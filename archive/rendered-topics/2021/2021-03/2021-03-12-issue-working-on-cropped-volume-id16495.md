@@ -1,3 +1,10 @@
+---
+topic_id: 16495
+title: "Issue Working On Cropped Volume"
+date: 2021-03-12
+url: https://discourse.slicer.org/t/16495
+---
+
 # Issue working on cropped volume
 
 **Topic ID**: 16495

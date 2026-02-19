@@ -1,3 +1,10 @@
+---
+topic_id: 13146
+title: "Accessing Sequence Browser Proxy Node In Python For Screen R"
+date: 2020-08-24
+url: https://discourse.slicer.org/t/13146
+---
+
 # Accessing sequence browser proxy node in python for screen recording
 
 **Topic ID**: 13146

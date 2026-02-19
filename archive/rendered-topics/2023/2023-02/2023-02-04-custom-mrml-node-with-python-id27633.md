@@ -1,3 +1,10 @@
+---
+topic_id: 27633
+title: "Custom Mrml Node With Python"
+date: 2023-02-04
+url: https://discourse.slicer.org/t/27633
+---
+
 # Custom MRML Node with Python
 
 **Topic ID**: 27633

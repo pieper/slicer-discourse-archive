@@ -1,3 +1,10 @@
+---
+topic_id: 12809
+title: "Build Error Curl Libssh2"
+date: 2020-07-31
+url: https://discourse.slicer.org/t/12809
+---
+
 # Build error curl/libssh2
 
 **Topic ID**: 12809

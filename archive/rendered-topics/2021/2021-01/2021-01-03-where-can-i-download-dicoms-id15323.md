@@ -1,3 +1,10 @@
+---
+topic_id: 15323
+title: "Where Can I Download Dicoms"
+date: 2021-01-03
+url: https://discourse.slicer.org/t/15323
+---
+
 # Where can I download DICOMs?
 
 **Topic ID**: 15323

@@ -1,3 +1,10 @@
+---
+topic_id: 27568
+title: "Add Segmentation Mask To Volume"
+date: 2023-01-31
+url: https://discourse.slicer.org/t/27568
+---
+
 # Add segmentation mask to volume
 
 **Topic ID**: 27568

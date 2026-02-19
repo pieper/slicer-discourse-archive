@@ -1,3 +1,10 @@
+---
+topic_id: 18133
+title: "Maximum Thickness In Baffle Planner Module"
+date: 2021-06-15
+url: https://discourse.slicer.org/t/18133
+---
+
 # Maximum thickness in Baffle Planner module
 
 **Topic ID**: 18133

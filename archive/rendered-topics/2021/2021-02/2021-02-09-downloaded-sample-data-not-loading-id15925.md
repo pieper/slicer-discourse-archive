@@ -1,3 +1,10 @@
+---
+topic_id: 15925
+title: "Downloaded Sample Data Not Loading"
+date: 2021-02-09
+url: https://discourse.slicer.org/t/15925
+---
+
 # Downloaded Sample Data Not Loading
 
 **Topic ID**: 15925

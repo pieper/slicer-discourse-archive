@@ -1,3 +1,10 @@
+---
+topic_id: 28983
+title: "How To Convert A Model Into A Volume And Then Compress It In"
+date: 2023-04-18
+url: https://discourse.slicer.org/t/28983
+---
+
 # How to convert a model into a volume and then compress it into a plane (volume) in a direction?
 
 **Topic ID**: 28983

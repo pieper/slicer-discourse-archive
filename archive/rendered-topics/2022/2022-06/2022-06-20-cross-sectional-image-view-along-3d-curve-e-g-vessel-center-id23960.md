@@ -1,3 +1,10 @@
+---
+topic_id: 23960
+title: "Cross Sectional Image View Along 3D Curve E G Vessel Center"
+date: 2022-06-20
+url: https://discourse.slicer.org/t/23960
+---
+
 # Cross-sectional image view along 3D-curve (e.g. vessel center line)
 
 **Topic ID**: 23960

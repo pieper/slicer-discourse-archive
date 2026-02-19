@@ -1,3 +1,10 @@
+---
+topic_id: 1434
+title: "Volumes Widget Is Too Wide When There Are Many Decimals"
+date: 2017-11-10
+url: https://discourse.slicer.org/t/1434
+---
+
 # Volumes widget is too wide when there are many decimals
 
 **Topic ID**: 1434

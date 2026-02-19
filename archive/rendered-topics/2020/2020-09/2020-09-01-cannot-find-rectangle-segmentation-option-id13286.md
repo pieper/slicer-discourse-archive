@@ -1,3 +1,10 @@
+---
+topic_id: 13286
+title: "Cannot Find Rectangle Segmentation Option"
+date: 2020-09-01
+url: https://discourse.slicer.org/t/13286
+---
+
 # Cannot find rectangle segmentation option
 
 **Topic ID**: 13286

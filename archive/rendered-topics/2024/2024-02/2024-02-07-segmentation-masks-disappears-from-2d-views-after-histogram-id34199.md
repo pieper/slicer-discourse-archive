@@ -1,3 +1,10 @@
+---
+topic_id: 34199
+title: "Segmentation Masks Disappears From 2D Views After Histogram"
+date: 2024-02-07
+url: https://discourse.slicer.org/t/34199
+---
+
 # Segmentation masks disappears from 2d views after histogram thresholding (but not 3d)
 
 **Topic ID**: 34199

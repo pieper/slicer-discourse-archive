@@ -1,3 +1,10 @@
+---
+topic_id: 7195
+title: "Problem With Vmtk For Vessel Segmentation"
+date: 2019-06-17
+url: https://discourse.slicer.org/t/7195
+---
+
 # Problem with VMTK for vessel segmentation
 
 **Topic ID**: 7195

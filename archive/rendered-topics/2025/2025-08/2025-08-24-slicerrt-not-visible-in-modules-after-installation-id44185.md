@@ -1,3 +1,10 @@
+---
+topic_id: 44185
+title: "Slicerrt Not Visible In Modules After Installation"
+date: 2025-08-24
+url: https://discourse.slicer.org/t/44185
+---
+
 # SlicerRT not visible in modules after installation
 
 **Topic ID**: 44185

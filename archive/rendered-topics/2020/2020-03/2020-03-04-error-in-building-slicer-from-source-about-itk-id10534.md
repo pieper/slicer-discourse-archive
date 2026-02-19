@@ -1,3 +1,10 @@
+---
+topic_id: 10534
+title: "Error In Building Slicer From Source About Itk"
+date: 2020-03-04
+url: https://discourse.slicer.org/t/10534
+---
+
 # Error in building Slicer from source about ITK
 
 **Topic ID**: 10534

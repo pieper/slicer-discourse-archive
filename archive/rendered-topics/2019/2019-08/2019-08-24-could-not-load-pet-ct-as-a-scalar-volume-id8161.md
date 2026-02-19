@@ -1,3 +1,10 @@
+---
+topic_id: 8161
+title: "Could Not Load Pet Ct As A Scalar Volume"
+date: 2019-08-24
+url: https://discourse.slicer.org/t/8161
+---
+
 # Could not load: pet/ct as a Scalar Volume
 
 **Topic ID**: 8161

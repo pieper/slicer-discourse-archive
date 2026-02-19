@@ -1,3 +1,10 @@
+---
+topic_id: 21993
+title: "Ability To Build External Software Packages When Building 3D"
+date: 2022-02-16
+url: https://discourse.slicer.org/t/21993
+---
+
 # Ability to build external software packages when building 3DSlicer?
 
 **Topic ID**: 21993

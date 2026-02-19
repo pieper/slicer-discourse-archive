@@ -1,3 +1,10 @@
+---
+topic_id: 13800
+title: "How To Reslice Polydata Insert Into Imagedata"
+date: 2020-10-01
+url: https://discourse.slicer.org/t/13800
+---
+
 # How to reslice polydata insert into imagedata?
 
 **Topic ID**: 13800

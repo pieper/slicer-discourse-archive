@@ -1,3 +1,10 @@
+---
+topic_id: 35898
+title: "What Underlying Concepts Are Being Used Going From Segmentat"
+date: 2024-05-03
+url: https://discourse.slicer.org/t/35898
+---
+
 # What underlying concepts are being used going from segmentation to .STL
 
 **Topic ID**: 35898

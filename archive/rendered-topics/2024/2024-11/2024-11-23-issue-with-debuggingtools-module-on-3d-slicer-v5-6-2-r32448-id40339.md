@@ -1,3 +1,10 @@
+---
+topic_id: 40339
+title: "Issue With Debuggingtools Module On 3D Slicer V5 6 2 R32448"
+date: 2024-11-23
+url: https://discourse.slicer.org/t/40339
+---
+
 # Issue with DebuggingTools Module on 3D Slicer (v5.6.2 r32448) on Ubuntu 22.04
 
 **Topic ID**: 40339

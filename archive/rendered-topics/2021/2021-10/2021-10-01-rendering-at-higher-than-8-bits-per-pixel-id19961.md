@@ -1,3 +1,10 @@
+---
+topic_id: 19961
+title: "Rendering At Higher Than 8 Bits Per Pixel"
+date: 2021-10-01
+url: https://discourse.slicer.org/t/19961
+---
+
 # Rendering at higher than 8 bits per pixel
 
 **Topic ID**: 19961

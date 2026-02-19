@@ -1,3 +1,10 @@
+---
+topic_id: 9209
+title: "Attach Cube On Segmented Surface"
+date: 2019-11-19
+url: https://discourse.slicer.org/t/9209
+---
+
 # Attach cube on segmented surface
 
 **Topic ID**: 9209

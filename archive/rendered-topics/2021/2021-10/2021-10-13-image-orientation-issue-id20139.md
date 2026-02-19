@@ -1,3 +1,10 @@
+---
+topic_id: 20139
+title: "Image Orientation Issue"
+date: 2021-10-13
+url: https://discourse.slicer.org/t/20139
+---
+
 # Image orientation issue
 
 **Topic ID**: 20139

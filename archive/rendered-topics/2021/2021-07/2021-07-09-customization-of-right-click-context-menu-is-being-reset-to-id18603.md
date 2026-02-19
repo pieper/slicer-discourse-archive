@@ -1,3 +1,10 @@
+---
+topic_id: 18603
+title: "Customization Of Right Click Context Menu Is Being Reset To"
+date: 2021-07-09
+url: https://discourse.slicer.org/t/18603
+---
+
 # Customization of right-click context menu is being reset to default unexpectedly
 
 **Topic ID**: 18603

@@ -1,3 +1,10 @@
+---
+topic_id: 27891
+title: "Clipping A Model Without Reference Geometry"
+date: 2023-02-17
+url: https://discourse.slicer.org/t/27891
+---
+
 # Clipping a model without reference geometry
 
 **Topic ID**: 27891

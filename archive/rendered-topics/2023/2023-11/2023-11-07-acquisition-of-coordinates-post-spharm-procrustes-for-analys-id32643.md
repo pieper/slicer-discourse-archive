@@ -1,3 +1,10 @@
+---
+topic_id: 32643
+title: "Acquisition Of Coordinates Post Spharm Procrustes For Analys"
+date: 2023-11-07
+url: https://discourse.slicer.org/t/32643
+---
+
 # Acquisition of coordinates post SPHARM/Procrustes for analysis
 
 **Topic ID**: 32643

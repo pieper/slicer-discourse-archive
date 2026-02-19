@@ -1,3 +1,10 @@
+---
+topic_id: 14348
+title: "Hardware Suggestion And Graphic Cards Ubuntu Or Macos"
+date: 2020-10-31
+url: https://discourse.slicer.org/t/14348
+---
+
 # Hardware suggestion and graphic cards (Ubuntu or MacOS)
 
 **Topic ID**: 14348

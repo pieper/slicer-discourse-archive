@@ -1,3 +1,10 @@
+---
+topic_id: 25744
+title: "Event About Vtkmrmlmodelnode"
+date: 2022-10-18
+url: https://discourse.slicer.org/t/25744
+---
+
 # Event about vtkMRMLModelNode
 
 **Topic ID**: 25744

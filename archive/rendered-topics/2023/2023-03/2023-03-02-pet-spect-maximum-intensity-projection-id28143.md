@@ -1,3 +1,10 @@
+---
+topic_id: 28143
+title: "Pet Spect Maximum Intensity Projection"
+date: 2023-03-02
+url: https://discourse.slicer.org/t/28143
+---
+
 # PET / SPECT Maximum Intensity Projection
 
 **Topic ID**: 28143

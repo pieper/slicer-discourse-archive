@@ -1,3 +1,10 @@
+---
+topic_id: 9125
+title: "Save Crosshair Settings"
+date: 2019-11-13
+url: https://discourse.slicer.org/t/9125
+---
+
 # Save crosshair settings
 
 **Topic ID**: 9125

@@ -1,3 +1,10 @@
+---
+topic_id: 18314
+title: "Understanding Image Registration Process"
+date: 2021-06-24
+url: https://discourse.slicer.org/t/18314
+---
+
 # Understanding image registration process
 
 **Topic ID**: 18314

@@ -1,3 +1,10 @@
+---
+topic_id: 39648
+title: "Alpaca What Is The Target Landmark Set Used For"
+date: 2024-10-11
+url: https://discourse.slicer.org/t/39648
+---
+
 # ALPACA "What is the Target landmark set used for?"
 
 **Topic ID**: 39648

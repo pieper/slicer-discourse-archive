@@ -1,3 +1,10 @@
+---
+topic_id: 15359
+title: "Pedicle Screw Simulator"
+date: 2021-01-05
+url: https://discourse.slicer.org/t/15359
+---
+
 # Pedicle Screw Simulator
 
 **Topic ID**: 15359

@@ -1,3 +1,10 @@
+---
+topic_id: 2285
+title: "Single Series With Multiple Frames Separate Out"
+date: 2018-03-11
+url: https://discourse.slicer.org/t/2285
+---
+
 # Single series with multiple frames, separate out?
 
 **Topic ID**: 2285

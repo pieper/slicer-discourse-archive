@@ -1,3 +1,10 @@
+---
+topic_id: 31376
+title: "Set Dynamic Modeler Attributes With Python"
+date: 2023-08-26
+url: https://discourse.slicer.org/t/31376
+---
+
 # Set Dynamic Modeler Attributes with python
 
 **Topic ID**: 31376

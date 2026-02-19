@@ -1,3 +1,10 @@
+---
+topic_id: 37619
+title: "Mirrored Ct Scan And 3D Model Issue In Fossil Segmentation"
+date: 2024-07-29
+url: https://discourse.slicer.org/t/37619
+---
+
 # Mirrored CT Scan and 3D Model Issue in Fossil Segmentation
 
 **Topic ID**: 37619

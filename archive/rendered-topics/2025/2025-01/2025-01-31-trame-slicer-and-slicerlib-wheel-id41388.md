@@ -1,3 +1,10 @@
+---
+topic_id: 41388
+title: "Trame Slicer And Slicerlib Wheel"
+date: 2025-01-31
+url: https://discourse.slicer.org/t/41388
+---
+
 # Trame-Slicer and SlicerLib wheel
 
 **Topic ID**: 41388

@@ -1,3 +1,10 @@
+---
+topic_id: 26195
+title: "Contributing An Extension"
+date: 2022-11-11
+url: https://discourse.slicer.org/t/26195
+---
+
 # Contributing an extension
 
 **Topic ID**: 26195

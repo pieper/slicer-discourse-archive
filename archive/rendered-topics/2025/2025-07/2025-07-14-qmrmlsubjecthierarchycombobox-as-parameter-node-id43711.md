@@ -1,3 +1,10 @@
+---
+topic_id: 43711
+title: "Qmrmlsubjecthierarchycombobox As Parameter Node"
+date: 2025-07-14
+url: https://discourse.slicer.org/t/43711
+---
+
 # qMRMLSubjectHierarchyComboBox as parameter node
 
 **Topic ID**: 43711

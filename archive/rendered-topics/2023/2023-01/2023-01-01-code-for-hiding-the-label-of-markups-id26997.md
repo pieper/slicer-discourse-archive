@@ -1,3 +1,10 @@
+---
+topic_id: 26997
+title: "Code For Hiding The Label Of Markups"
+date: 2023-01-01
+url: https://discourse.slicer.org/t/26997
+---
+
 # Code for hiding the label of markups
 
 **Topic ID**: 26997

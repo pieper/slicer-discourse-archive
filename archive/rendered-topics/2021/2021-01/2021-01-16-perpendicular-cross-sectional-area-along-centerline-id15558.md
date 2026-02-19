@@ -1,3 +1,10 @@
+---
+topic_id: 15558
+title: "Perpendicular Cross Sectional Area Along Centerline"
+date: 2021-01-16
+url: https://discourse.slicer.org/t/15558
+---
+
 # Perpendicular cross sectional area along centerline 
 
 **Topic ID**: 15558

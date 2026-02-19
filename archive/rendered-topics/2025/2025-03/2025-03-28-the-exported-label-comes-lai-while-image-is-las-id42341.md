@@ -1,3 +1,10 @@
+---
+topic_id: 42341
+title: "The Exported Label Comes Lai While Image Is Las"
+date: 2025-03-28
+url: https://discourse.slicer.org/t/42341
+---
+
 # The exported label comes LAI while image is LAS
 
 **Topic ID**: 42341

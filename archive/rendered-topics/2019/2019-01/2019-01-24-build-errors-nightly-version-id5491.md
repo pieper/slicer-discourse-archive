@@ -1,3 +1,10 @@
+---
+topic_id: 5491
+title: "Build Errors Nightly Version"
+date: 2019-01-24
+url: https://discourse.slicer.org/t/5491
+---
+
 # Build errors nightly version
 
 **Topic ID**: 5491

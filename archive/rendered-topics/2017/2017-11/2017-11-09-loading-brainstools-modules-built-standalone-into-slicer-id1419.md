@@ -1,3 +1,10 @@
+---
+topic_id: 1419
+title: "Loading Brainstools Modules Built Standalone Into Slicer"
+date: 2017-11-09
+url: https://discourse.slicer.org/t/1419
+---
+
 # Loading BRAINSTools modules built standalone into Slicer
 
 **Topic ID**: 1419

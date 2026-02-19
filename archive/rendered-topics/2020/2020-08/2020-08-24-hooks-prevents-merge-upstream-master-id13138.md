@@ -1,3 +1,10 @@
+---
+topic_id: 13138
+title: "Hooks Prevents Merge Upstream Master"
+date: 2020-08-24
+url: https://discourse.slicer.org/t/13138
+---
+
 # Hooks prevents "merge upstream/master"
 
 **Topic ID**: 13138

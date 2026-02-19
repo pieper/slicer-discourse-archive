@@ -1,3 +1,10 @@
+---
+topic_id: 2336
+title: "Slicer Slice View Scrolling Lag"
+date: 2018-03-16
+url: https://discourse.slicer.org/t/2336
+---
+
 # Slicer Slice view scrolling lag
 
 **Topic ID**: 2336

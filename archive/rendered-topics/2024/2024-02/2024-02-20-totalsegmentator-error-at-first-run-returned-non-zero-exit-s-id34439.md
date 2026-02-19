@@ -1,3 +1,10 @@
+---
+topic_id: 34439
+title: "Totalsegmentator Error At First Run Returned Non Zero Exit S"
+date: 2024-02-20
+url: https://discourse.slicer.org/t/34439
+---
+
 # TotalSegmentator error at first run: returned non-zero exit status 120.
 
 **Topic ID**: 34439

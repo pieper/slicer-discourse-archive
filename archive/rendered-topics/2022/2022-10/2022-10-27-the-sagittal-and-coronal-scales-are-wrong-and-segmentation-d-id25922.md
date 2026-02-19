@@ -1,3 +1,10 @@
+---
+topic_id: 25922
+title: "The Sagittal And Coronal Scales Are Wrong And Segmentation D"
+date: 2022-10-27
+url: https://discourse.slicer.org/t/25922
+---
+
 # The sagittal and coronal scales are wrong and segmentation does not work
 
 **Topic ID**: 25922

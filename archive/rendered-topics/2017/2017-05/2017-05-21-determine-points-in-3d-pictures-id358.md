@@ -1,3 +1,10 @@
+---
+topic_id: 358
+title: "Determine Points In 3D Pictures"
+date: 2017-05-21
+url: https://discourse.slicer.org/t/358
+---
+
 # Determine points in 3d pictures
 
 **Topic ID**: 358

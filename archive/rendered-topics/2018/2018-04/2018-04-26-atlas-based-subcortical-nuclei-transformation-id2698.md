@@ -1,3 +1,10 @@
+---
+topic_id: 2698
+title: "Atlas Based Subcortical Nuclei Transformation"
+date: 2018-04-26
+url: https://discourse.slicer.org/t/2698
+---
+
 # Atlas-based subcortical nuclei transformation
 
 **Topic ID**: 2698

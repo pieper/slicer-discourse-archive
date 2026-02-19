@@ -1,3 +1,10 @@
+---
+topic_id: 20120
+title: "Debugging Abnormal Exits On Windows"
+date: 2021-10-12
+url: https://discourse.slicer.org/t/20120
+---
+
 # Debugging abnormal exits on Windows
 
 **Topic ID**: 20120

@@ -1,3 +1,10 @@
+---
+topic_id: 15034
+title: "In Slicer How To Obtain The Coordinates Of Points On The Int"
+date: 2020-12-13
+url: https://discourse.slicer.org/t/15034
+---
+
 # In slicer, how to obtain the coordinates of points on the intersection line between the plane and the STL model
 
 **Topic ID**: 15034

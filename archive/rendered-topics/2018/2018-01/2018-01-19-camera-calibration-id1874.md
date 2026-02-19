@@ -1,3 +1,10 @@
+---
+topic_id: 1874
+title: "Camera Calibration"
+date: 2018-01-19
+url: https://discourse.slicer.org/t/1874
+---
+
 # Camera calibration
 
 **Topic ID**: 1874

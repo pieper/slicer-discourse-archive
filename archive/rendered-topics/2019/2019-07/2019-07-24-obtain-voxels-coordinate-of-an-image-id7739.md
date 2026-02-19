@@ -1,3 +1,10 @@
+---
+topic_id: 7739
+title: "Obtain Voxels Coordinate Of An Image"
+date: 2019-07-24
+url: https://discourse.slicer.org/t/7739
+---
+
 # Obtain voxels coordinate of an image
 
 **Topic ID**: 7739

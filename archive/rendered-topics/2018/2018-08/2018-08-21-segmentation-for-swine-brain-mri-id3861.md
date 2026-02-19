@@ -1,3 +1,10 @@
+---
+topic_id: 3861
+title: "Segmentation For Swine Brain Mri"
+date: 2018-08-21
+url: https://discourse.slicer.org/t/3861
+---
+
 # Segmentation for swine brain MRI
 
 **Topic ID**: 3861

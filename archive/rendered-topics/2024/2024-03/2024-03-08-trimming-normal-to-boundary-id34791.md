@@ -1,3 +1,10 @@
+---
+topic_id: 34791
+title: "Trimming Normal To Boundary"
+date: 2024-03-08
+url: https://discourse.slicer.org/t/34791
+---
+
 # Trimming normal to boundary
 
 **Topic ID**: 34791

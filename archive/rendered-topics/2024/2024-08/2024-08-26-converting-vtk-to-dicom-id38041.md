@@ -1,3 +1,10 @@
+---
+topic_id: 38041
+title: "Converting Vtk To Dicom"
+date: 2024-08-26
+url: https://discourse.slicer.org/t/38041
+---
+
 # Converting vtk to DICOM
 
 **Topic ID**: 38041

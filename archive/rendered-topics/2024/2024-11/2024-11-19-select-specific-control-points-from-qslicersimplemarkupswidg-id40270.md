@@ -1,3 +1,10 @@
+---
+topic_id: 40270
+title: "Select Specific Control Points From Qslicersimplemarkupswidg"
+date: 2024-11-19
+url: https://discourse.slicer.org/t/40270
+---
+
 # Select specific control points from qSlicerSimpleMarkupsWidget
 
 **Topic ID**: 40270

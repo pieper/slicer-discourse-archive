@@ -1,3 +1,10 @@
+---
+topic_id: 25350
+title: "Use Opencv In Slicertemplate"
+date: 2022-09-20
+url: https://discourse.slicer.org/t/25350
+---
+
 # Use OpenCV in SlicerTemplate
 
 **Topic ID**: 25350

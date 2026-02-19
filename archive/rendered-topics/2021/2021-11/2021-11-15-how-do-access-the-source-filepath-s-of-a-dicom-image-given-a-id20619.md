@@ -1,3 +1,10 @@
+---
+topic_id: 20619
+title: "How Do Access The Source Filepath S Of A Dicom Image Given A"
+date: 2021-11-15
+url: https://discourse.slicer.org/t/20619
+---
+
 # How do access the source filepath(s) of a DICOM image given a `vtkMRMLScalarVolumeNode`
 
 **Topic ID**: 20619

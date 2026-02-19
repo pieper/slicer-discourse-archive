@@ -1,3 +1,10 @@
+---
+topic_id: 37981
+title: "Model Ocular Structure"
+date: 2024-08-21
+url: https://discourse.slicer.org/t/37981
+---
+
 # Model ocular structure
 
 **Topic ID**: 37981

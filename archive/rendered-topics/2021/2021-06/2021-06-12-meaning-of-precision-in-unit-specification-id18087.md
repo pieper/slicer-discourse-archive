@@ -1,3 +1,10 @@
+---
+topic_id: 18087
+title: "Meaning Of Precision In Unit Specification"
+date: 2021-06-12
+url: https://discourse.slicer.org/t/18087
+---
+
 # Meaning of "precision" in unit specification
 
 **Topic ID**: 18087

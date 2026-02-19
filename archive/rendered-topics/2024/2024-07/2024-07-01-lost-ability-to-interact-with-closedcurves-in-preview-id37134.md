@@ -1,3 +1,10 @@
+---
+topic_id: 37134
+title: "Lost Ability To Interact With Closedcurves In Preview"
+date: 2024-07-01
+url: https://discourse.slicer.org/t/37134
+---
+
 # Lost ability to interact with closedCurves in preview
 
 **Topic ID**: 37134

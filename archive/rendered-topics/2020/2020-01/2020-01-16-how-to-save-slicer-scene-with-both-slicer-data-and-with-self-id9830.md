@@ -1,3 +1,10 @@
+---
+topic_id: 9830
+title: "How To Save Slicer Scene With Both Slicer Data And With Self"
+date: 2020-01-16
+url: https://discourse.slicer.org/t/9830
+---
+
 # How to save slicer scene with both slicer data and with "self.variables" within custom widget
 
 **Topic ID**: 9830

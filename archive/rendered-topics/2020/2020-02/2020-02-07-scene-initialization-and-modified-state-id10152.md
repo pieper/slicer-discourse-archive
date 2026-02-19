@@ -1,3 +1,10 @@
+---
+topic_id: 10152
+title: "Scene Initialization And Modified State"
+date: 2020-02-07
+url: https://discourse.slicer.org/t/10152
+---
+
 # Scene initialization and modified state
 
 **Topic ID**: 10152

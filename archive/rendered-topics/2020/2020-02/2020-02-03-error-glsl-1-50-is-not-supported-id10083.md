@@ -1,3 +1,10 @@
+---
+topic_id: 10083
+title: "Error Glsl 1 50 Is Not Supported"
+date: 2020-02-03
+url: https://discourse.slicer.org/t/10083
+---
+
 # error: GLSL 1.50 is not supported
 
 **Topic ID**: 10083

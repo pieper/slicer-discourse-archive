@@ -1,3 +1,10 @@
+---
+topic_id: 35197
+title: "Editing The Surface Trace In 3D Models Generated From Ct Sca"
+date: 2024-04-01
+url: https://discourse.slicer.org/t/35197
+---
+
 # Editing the Surface Trace in 3D Models Generated from CT Scan Segmentations
 
 **Topic ID**: 35197

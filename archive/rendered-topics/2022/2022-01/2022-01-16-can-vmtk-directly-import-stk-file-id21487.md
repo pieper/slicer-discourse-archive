@@ -1,3 +1,10 @@
+---
+topic_id: 21487
+title: "Can Vmtk Directly Import Stk File"
+date: 2022-01-16
+url: https://discourse.slicer.org/t/21487
+---
+
 # Can VMTK directly import STK file?
 
 **Topic ID**: 21487

@@ -1,3 +1,10 @@
+---
+topic_id: 19613
+title: "Slicervr Using Valve Index"
+date: 2021-09-10
+url: https://discourse.slicer.org/t/19613
+---
+
 # SlicerVR using Valve Index
 
 **Topic ID**: 19613

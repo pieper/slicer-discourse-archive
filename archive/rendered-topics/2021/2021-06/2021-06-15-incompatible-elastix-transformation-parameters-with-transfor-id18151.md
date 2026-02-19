@@ -1,3 +1,10 @@
+---
+topic_id: 18151
+title: "Incompatible Elastix Transformation Parameters With Transfor"
+date: 2021-06-15
+url: https://discourse.slicer.org/t/18151
+---
+
 # Incompatible Elastix transformation parameters with Transforms module
 
 **Topic ID**: 18151

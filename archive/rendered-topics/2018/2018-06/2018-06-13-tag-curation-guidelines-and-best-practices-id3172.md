@@ -1,3 +1,10 @@
+---
+topic_id: 3172
+title: "Tag Curation Guidelines And Best Practices"
+date: 2018-06-13
+url: https://discourse.slicer.org/t/3172
+---
+
 # Tag curation guidelines and best practices
 
 **Topic ID**: 3172

@@ -1,3 +1,10 @@
+---
+topic_id: 42916
+title: "Resampling A Linear Transformation"
+date: 2025-05-14
+url: https://discourse.slicer.org/t/42916
+---
+
 # Resampling a linear transformation
 
 **Topic ID**: 42916

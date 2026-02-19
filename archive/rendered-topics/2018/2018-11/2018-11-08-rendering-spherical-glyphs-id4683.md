@@ -1,3 +1,10 @@
+---
+topic_id: 4683
+title: "Rendering Spherical Glyphs"
+date: 2018-11-08
+url: https://discourse.slicer.org/t/4683
+---
+
 # Rendering spherical glyphs
 
 **Topic ID**: 4683

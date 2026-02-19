@@ -1,3 +1,10 @@
+---
+topic_id: 45356
+title: "New Feature Independent Multi Component Volume Rendering"
+date: 2025-12-03
+url: https://discourse.slicer.org/t/45356
+---
+
 # New Feature: Independent Multi-Component Volume Rendering
 
 **Topic ID**: 45356

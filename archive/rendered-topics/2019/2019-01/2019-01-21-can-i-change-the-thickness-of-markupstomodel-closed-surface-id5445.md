@@ -1,3 +1,10 @@
+---
+topic_id: 5445
+title: "Can I Change The Thickness Of Markupstomodel Closed Surface"
+date: 2019-01-21
+url: https://discourse.slicer.org/t/5445
+---
+
 # Can I change the thickness of MarkupsToModel closed surface
 
 **Topic ID**: 5445

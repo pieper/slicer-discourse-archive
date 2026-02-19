@@ -1,3 +1,10 @@
+---
+topic_id: 43677
+title: "Custom Slicer Ctest Failed"
+date: 2025-07-10
+url: https://discourse.slicer.org/t/43677
+---
+
 # Custom slicer Ctest failed
 
 **Topic ID**: 43677

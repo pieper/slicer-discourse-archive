@@ -1,3 +1,10 @@
+---
+topic_id: 13362
+title: "Set Slice Nodes For Volumes"
+date: 2020-09-07
+url: https://discourse.slicer.org/t/13362
+---
+
 # Set Slice nodes for volumes
 
 **Topic ID**: 13362

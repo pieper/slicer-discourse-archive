@@ -1,3 +1,10 @@
+---
+topic_id: 27368
+title: "Custom Undo Redo Develop"
+date: 2023-01-20
+url: https://discourse.slicer.org/t/27368
+---
+
 # Custom Undo/Redo develop
 
 **Topic ID**: 27368

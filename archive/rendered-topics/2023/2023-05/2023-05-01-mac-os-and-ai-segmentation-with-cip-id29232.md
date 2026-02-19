@@ -1,3 +1,10 @@
+---
+topic_id: 29232
+title: "Mac Os And Ai Segmentation With Cip"
+date: 2023-05-01
+url: https://discourse.slicer.org/t/29232
+---
+
 # Mac OS And AI segmentation with CIP:
 
 **Topic ID**: 29232

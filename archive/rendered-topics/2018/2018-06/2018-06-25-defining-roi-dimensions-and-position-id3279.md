@@ -1,3 +1,10 @@
+---
+topic_id: 3279
+title: "Defining Roi Dimensions And Position"
+date: 2018-06-25
+url: https://discourse.slicer.org/t/3279
+---
+
 # Defining ROI dimensions and position
 
 **Topic ID**: 3279

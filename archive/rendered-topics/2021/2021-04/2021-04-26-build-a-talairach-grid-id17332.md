@@ -1,3 +1,10 @@
+---
+topic_id: 17332
+title: "Build A Talairach Grid"
+date: 2021-04-26
+url: https://discourse.slicer.org/t/17332
+---
+
 # Build a Talairach grid
 
 **Topic ID**: 17332

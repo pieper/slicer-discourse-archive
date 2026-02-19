@@ -1,3 +1,10 @@
+---
+topic_id: 44738
+title: "How To Find The Volume Of A Segmentation Node Whose Master R"
+date: 2025-10-13
+url: https://discourse.slicer.org/t/44738
+---
+
 # How to find the volume of a segmentation node whose master representation is closed surface representation
 
 **Topic ID**: 44738

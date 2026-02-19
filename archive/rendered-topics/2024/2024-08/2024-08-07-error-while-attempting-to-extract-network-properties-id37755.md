@@ -1,3 +1,10 @@
+---
+topic_id: 37755
+title: "Error While Attempting To Extract Network Properties"
+date: 2024-08-07
+url: https://discourse.slicer.org/t/37755
+---
+
 # Error while attempting to extract Network Properties
 
 **Topic ID**: 37755

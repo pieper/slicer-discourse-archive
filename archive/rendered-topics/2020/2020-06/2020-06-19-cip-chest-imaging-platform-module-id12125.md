@@ -1,3 +1,10 @@
+---
+topic_id: 12125
+title: "Cip Chest Imaging Platform Module"
+date: 2020-06-19
+url: https://discourse.slicer.org/t/12125
+---
+
 # CIP (chest imaging platform) module
 
 **Topic ID**: 12125

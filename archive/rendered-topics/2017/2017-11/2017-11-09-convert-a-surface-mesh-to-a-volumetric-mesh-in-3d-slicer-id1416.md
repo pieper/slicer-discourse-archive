@@ -1,3 +1,10 @@
+---
+topic_id: 1416
+title: "Convert A Surface Mesh To A Volumetric Mesh In 3D Slicer"
+date: 2017-11-09
+url: https://discourse.slicer.org/t/1416
+---
+
 # Convert a surface mesh to a volumetric mesh in 3D Slicer
 
 **Topic ID**: 1416

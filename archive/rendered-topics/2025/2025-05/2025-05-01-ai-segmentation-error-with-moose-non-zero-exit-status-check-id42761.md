@@ -1,3 +1,10 @@
+---
+topic_id: 42761
+title: "Ai Segmentation Error With Moose Non Zero Exit Status Check"
+date: 2025-05-01
+url: https://discourse.slicer.org/t/42761
+---
+
 # AI Segmentation error with MOOSE (non zero exit status, check the FOV) and MONAIAuto3DSeg
 
 **Topic ID**: 42761

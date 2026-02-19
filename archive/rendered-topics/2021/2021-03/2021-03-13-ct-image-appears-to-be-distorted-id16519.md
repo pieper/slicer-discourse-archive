@@ -1,3 +1,10 @@
+---
+topic_id: 16519
+title: "Ct Image Appears To Be Distorted"
+date: 2021-03-13
+url: https://discourse.slicer.org/t/16519
+---
+
 # CT image appears to be distorted
 
 **Topic ID**: 16519

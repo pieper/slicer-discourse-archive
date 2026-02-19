@@ -1,3 +1,10 @@
+---
+topic_id: 13071
+title: "What Was The Mother Wavelet Function Used For Computing The"
+date: 2020-08-18
+url: https://discourse.slicer.org/t/13071
+---
+
 # What was the mother wavelet function used for computing the wavelet features by SlicerRadiomic?
 
 **Topic ID**: 13071

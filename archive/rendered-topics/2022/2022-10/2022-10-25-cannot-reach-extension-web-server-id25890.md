@@ -1,3 +1,10 @@
+---
+topic_id: 25890
+title: "Cannot Reach Extension Web Server"
+date: 2022-10-25
+url: https://discourse.slicer.org/t/25890
+---
+
 # Cannot reach extension web server
 
 **Topic ID**: 25890

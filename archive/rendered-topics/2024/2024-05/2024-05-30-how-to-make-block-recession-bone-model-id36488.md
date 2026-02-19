@@ -1,3 +1,10 @@
+---
+topic_id: 36488
+title: "How To Make Block Recession Bone Model"
+date: 2024-05-30
+url: https://discourse.slicer.org/t/36488
+---
+
 # How to make block recession bone model
 
 **Topic ID**: 36488

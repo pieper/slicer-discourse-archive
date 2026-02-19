@@ -1,3 +1,10 @@
+---
+topic_id: 7181
+title: "Infarct Segmentation Combining B1000 And Adc"
+date: 2019-06-15
+url: https://discourse.slicer.org/t/7181
+---
+
 # Infarct Segmentation combining b1000 and ADC
 
 **Topic ID**: 7181

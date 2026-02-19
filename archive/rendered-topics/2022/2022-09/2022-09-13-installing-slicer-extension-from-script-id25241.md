@@ -1,3 +1,10 @@
+---
+topic_id: 25241
+title: "Installing Slicer Extension From Script"
+date: 2022-09-13
+url: https://discourse.slicer.org/t/25241
+---
+
 # Installing Slicer extension from script
 
 **Topic ID**: 25241

@@ -1,3 +1,10 @@
+---
+topic_id: 14218
+title: "Show Patient Comments Field In Dicom Browser"
+date: 2020-10-24
+url: https://discourse.slicer.org/t/14218
+---
+
 # Show patient comments field in DICOM browser
 
 **Topic ID**: 14218

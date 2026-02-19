@@ -1,3 +1,10 @@
+---
+topic_id: 32962
+title: "Vscode Runs Slicercat Everytime New Jupyter Notebook Is Crea"
+date: 2023-11-22
+url: https://discourse.slicer.org/t/32962
+---
+
 # VSCode runs SlicerCAT everytime new jupyter notebook is created
 
 **Topic ID**: 32962

@@ -1,3 +1,10 @@
+---
+topic_id: 14782
+title: "How To Use Volume Histogram Widget In My Module"
+date: 2020-11-26
+url: https://discourse.slicer.org/t/14782
+---
+
 # How to use volume histogram widget in my module
 
 **Topic ID**: 14782

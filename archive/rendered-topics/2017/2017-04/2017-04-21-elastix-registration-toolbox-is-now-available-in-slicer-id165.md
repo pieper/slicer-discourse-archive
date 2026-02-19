@@ -1,3 +1,10 @@
+---
+topic_id: 165
+title: "Elastix Registration Toolbox Is Now Available In Slicer"
+date: 2017-04-21
+url: https://discourse.slicer.org/t/165
+---
+
 # Elastix registration toolbox is now available in Slicer
 
 **Topic ID**: 165

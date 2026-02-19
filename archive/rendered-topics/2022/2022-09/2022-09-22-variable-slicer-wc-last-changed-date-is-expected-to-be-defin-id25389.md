@@ -1,3 +1,10 @@
+---
+topic_id: 25389
+title: "Variable Slicer Wc Last Changed Date Is Expected To Be Defin"
+date: 2022-09-22
+url: https://discourse.slicer.org/t/25389
+---
+
 # Variable Slicer_WC_LAST_CHANGED_DATE is expected to be defined
 
 **Topic ID**: 25389

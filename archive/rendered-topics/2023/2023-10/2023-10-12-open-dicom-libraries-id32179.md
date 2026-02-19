@@ -1,3 +1,10 @@
+---
+topic_id: 32179
+title: "Open Dicom Libraries"
+date: 2023-10-12
+url: https://discourse.slicer.org/t/32179
+---
+
 # Open dicom libraries
 
 **Topic ID**: 32179

@@ -1,3 +1,10 @@
+---
+topic_id: 3097
+title: "Create A New Volume From Other 3"
+date: 2018-06-06
+url: https://discourse.slicer.org/t/3097
+---
+
 # Create a new volume from other 3 
 
 **Topic ID**: 3097

@@ -1,3 +1,10 @@
+---
+topic_id: 20479
+title: "How To Get 1D Dose Profile In 3D Slicer"
+date: 2021-11-03
+url: https://discourse.slicer.org/t/20479
+---
+
 # How to get 1D dose profile in 3D slicer
 
 **Topic ID**: 20479

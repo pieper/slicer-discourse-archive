@@ -1,3 +1,10 @@
+---
+topic_id: 40646
+title: "About The Multi Phases Cardiac Ct Segmentation"
+date: 2024-12-12
+url: https://discourse.slicer.org/t/40646
+---
+
 # About the multi phases cardiac ct segmentation
 
 **Topic ID**: 40646

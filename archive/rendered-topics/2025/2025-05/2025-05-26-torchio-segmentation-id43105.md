@@ -1,3 +1,10 @@
+---
+topic_id: 43105
+title: "Torchio Segmentation"
+date: 2025-05-26
+url: https://discourse.slicer.org/t/43105
+---
+
 # TorchIO Segmentation
 
 **Topic ID**: 43105

@@ -1,3 +1,10 @@
+---
+topic_id: 20230
+title: "My First Slicercustomapptemplate"
+date: 2021-10-19
+url: https://discourse.slicer.org/t/20230
+---
+
 # My first SlicerCustomAppTemplate
 
 **Topic ID**: 20230

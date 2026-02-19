@@ -1,3 +1,10 @@
+---
+topic_id: 42247
+title: "Slicersalt Tutorials Are Now In Read The Docs"
+date: 2025-03-21
+url: https://discourse.slicer.org/t/42247
+---
+
 # SlicerSALT tutorials are now in Read the Docs
 
 **Topic ID**: 42247

@@ -1,3 +1,10 @@
+---
+topic_id: 6615
+title: "I Cannot Find Some Config File While Running Slicervirtualre"
+date: 2019-04-26
+url: https://discourse.slicer.org/t/6615
+---
+
 # I cannot find some config file while running SlicerVirtualReality tests
 
 **Topic ID**: 6615

@@ -1,3 +1,10 @@
+---
+topic_id: 1546
+title: "Anywhere To Find A List Of Required Inputs For Python"
+date: 2017-11-28
+url: https://discourse.slicer.org/t/1546
+---
+
 # Anywhere to find a list of required inputs for Python?
 
 **Topic ID**: 1546

@@ -1,3 +1,10 @@
+---
+topic_id: 14701
+title: "Binary Label Map Layers"
+date: 2020-11-20
+url: https://discourse.slicer.org/t/14701
+---
+
 # binary label map layers
 
 **Topic ID**: 14701

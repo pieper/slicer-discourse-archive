@@ -1,3 +1,10 @@
+---
+topic_id: 13931
+title: "Threading In Slicer 3D"
+date: 2020-10-08
+url: https://discourse.slicer.org/t/13931
+---
+
 # Threading in Slicer 3d
 
 **Topic ID**: 13931

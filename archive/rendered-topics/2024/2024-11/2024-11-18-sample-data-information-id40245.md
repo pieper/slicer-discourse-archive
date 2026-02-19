@@ -1,3 +1,10 @@
+---
+topic_id: 40245
+title: "Sample Data Information"
+date: 2024-11-18
+url: https://discourse.slicer.org/t/40245
+---
+
 # Sample data information
 
 **Topic ID**: 40245

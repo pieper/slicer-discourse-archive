@@ -1,3 +1,10 @@
+---
+topic_id: 25850
+title: "Difference In Stl File Exported From 3Dslicer And Created In"
+date: 2022-10-23
+url: https://discourse.slicer.org/t/25850
+---
+
 # Difference in STL file exported from 3DSlicer and created in Matlab
 
 **Topic ID**: 25850

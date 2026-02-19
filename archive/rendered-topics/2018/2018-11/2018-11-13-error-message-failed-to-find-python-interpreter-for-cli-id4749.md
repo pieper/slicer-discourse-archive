@@ -1,3 +1,10 @@
+---
+topic_id: 4749
+title: "Error Message Failed To Find Python Interpreter For Cli"
+date: 2018-11-13
+url: https://discourse.slicer.org/t/4749
+---
+
 # error message "Failed to find python interpreter for CLI"
 
 **Topic ID**: 4749

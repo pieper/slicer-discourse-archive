@@ -1,3 +1,10 @@
+---
+topic_id: 28874
+title: "How To Change The Background Color Of Plot View"
+date: 2023-04-13
+url: https://discourse.slicer.org/t/28874
+---
+
 # How to change the background color of plot view
 
 **Topic ID**: 28874

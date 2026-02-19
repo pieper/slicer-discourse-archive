@@ -1,3 +1,10 @@
+---
+topic_id: 16873
+title: "Scripting Slicer What Is Possible"
+date: 2021-03-31
+url: https://discourse.slicer.org/t/16873
+---
+
 # Scripting Slicer - What is possible?
 
 **Topic ID**: 16873

@@ -1,3 +1,10 @@
+---
+topic_id: 34545
+title: "New To Slicer Overlaying A Mrml File On A Dicom Image"
+date: 2024-02-26
+url: https://discourse.slicer.org/t/34545
+---
+
 # New to Slicer: Overlaying a .mrml file on a DICOM image
 
 **Topic ID**: 34545

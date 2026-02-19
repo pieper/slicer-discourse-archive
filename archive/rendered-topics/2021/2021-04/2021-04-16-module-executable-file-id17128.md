@@ -1,3 +1,10 @@
+---
+topic_id: 17128
+title: "Module Executable File"
+date: 2021-04-16
+url: https://discourse.slicer.org/t/17128
+---
+
 # Module executable file
 
 **Topic ID**: 17128

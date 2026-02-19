@@ -1,3 +1,10 @@
+---
+topic_id: 18106
+title: "Local Rotations Pivot Points"
+date: 2021-06-14
+url: https://discourse.slicer.org/t/18106
+---
+
 # Local Rotations, Pivot Points
 
 **Topic ID**: 18106

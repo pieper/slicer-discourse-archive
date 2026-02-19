@@ -1,3 +1,10 @@
+---
+topic_id: 7383
+title: "Slicer 4 11 Slice View Widget Interactions Intersections Iss"
+date: 2019-07-02
+url: https://discourse.slicer.org/t/7383
+---
+
 # Slicer 4.11 Slice view widget interactions, intersections issue in slicelet
 
 **Topic ID**: 7383

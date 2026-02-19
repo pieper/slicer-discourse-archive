@@ -1,3 +1,10 @@
+---
+topic_id: 42118
+title: "Importing Covariates With Load Gpa Pca Analysis From File"
+date: 2025-03-14
+url: https://discourse.slicer.org/t/42118
+---
+
 # Importing covariates with "Load GPA + PCA  Analysis from File"?
 
 **Topic ID**: 42118

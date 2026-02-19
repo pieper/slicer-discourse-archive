@@ -1,3 +1,10 @@
+---
+topic_id: 843
+title: "Lung Cancer Early Detection Challenge"
+date: 2017-08-08
+url: https://discourse.slicer.org/t/843
+---
+
 # Lung Cancer early detection challenge
 
 **Topic ID**: 843

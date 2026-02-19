@@ -1,3 +1,10 @@
+---
+topic_id: 43855
+title: "Slicer Crashing When Trying To Import Image Stacks Using Sli"
+date: 2025-07-26
+url: https://discourse.slicer.org/t/43855
+---
+
 # Slicer crashing when trying to import image stacks using SlicerMorph
 
 **Topic ID**: 43855

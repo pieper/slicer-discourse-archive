@@ -1,3 +1,10 @@
+---
+topic_id: 23731
+title: "Convert Dicom Files In Multiplanar Xray"
+date: 2022-06-06
+url: https://discourse.slicer.org/t/23731
+---
+
 # Convert Dicom Files in multiplanar Xray
 
 **Topic ID**: 23731

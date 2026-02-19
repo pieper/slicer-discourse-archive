@@ -1,3 +1,10 @@
+---
+topic_id: 14287
+title: "Help With Planning A Path For Biopsy Using Axial And Saggita"
+date: 2020-10-28
+url: https://discourse.slicer.org/t/14287
+---
+
 # Help with planning a path for biopsy using axial and saggital cuts (mark up a line or cylinder)
 
 **Topic ID**: 14287

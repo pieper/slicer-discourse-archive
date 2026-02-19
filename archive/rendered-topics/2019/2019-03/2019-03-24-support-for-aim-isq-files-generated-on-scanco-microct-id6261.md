@@ -1,3 +1,10 @@
+---
+topic_id: 6261
+title: "Support For Aim Isq Files Generated On Scanco Microct"
+date: 2019-03-24
+url: https://discourse.slicer.org/t/6261
+---
+
 # Support for .AIM/.isq files generated on Scanco microCT
 
 **Topic ID**: 6261

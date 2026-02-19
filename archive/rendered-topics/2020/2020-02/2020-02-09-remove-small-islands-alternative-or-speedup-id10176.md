@@ -1,3 +1,10 @@
+---
+topic_id: 10176
+title: "Remove Small Islands Alternative Or Speedup"
+date: 2020-02-09
+url: https://discourse.slicer.org/t/10176
+---
+
 # Remove small islands alternative (or speedup?)
 
 **Topic ID**: 10176

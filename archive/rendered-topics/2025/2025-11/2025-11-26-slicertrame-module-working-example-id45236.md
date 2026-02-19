@@ -1,3 +1,10 @@
+---
+topic_id: 45236
+title: "Slicertrame Module Working Example"
+date: 2025-11-26
+url: https://discourse.slicer.org/t/45236
+---
+
 # slicerTrame module working example
 
 **Topic ID**: 45236

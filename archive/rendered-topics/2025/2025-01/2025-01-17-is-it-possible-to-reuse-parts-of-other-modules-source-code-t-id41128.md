@@ -1,3 +1,10 @@
+---
+topic_id: 41128
+title: "Is It Possible To Reuse Parts Of Other Modules Source Code T"
+date: 2025-01-17
+url: https://discourse.slicer.org/t/41128
+---
+
 # Is it possible to reuse parts of other modules' source code to create a custom module?
 
 **Topic ID**: 41128

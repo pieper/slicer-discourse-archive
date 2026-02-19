@@ -1,3 +1,10 @@
+---
+topic_id: 21292
+title: "Change Vtkstencil Used For The Display Of Volumes"
+date: 2021-12-31
+url: https://discourse.slicer.org/t/21292
+---
+
 # Change vtkStencil used for the display of volumes
 
 **Topic ID**: 21292

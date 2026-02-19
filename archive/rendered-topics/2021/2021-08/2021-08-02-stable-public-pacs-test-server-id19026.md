@@ -1,3 +1,10 @@
+---
+topic_id: 19026
+title: "Stable Public Pacs Test Server"
+date: 2021-08-02
+url: https://discourse.slicer.org/t/19026
+---
+
 # Stable public PACS test server?
 
 **Topic ID**: 19026

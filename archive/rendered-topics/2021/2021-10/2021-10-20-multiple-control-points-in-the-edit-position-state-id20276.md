@@ -1,3 +1,10 @@
+---
+topic_id: 20276
+title: "Multiple Control Points In The Edit Position State"
+date: 2021-10-20
+url: https://discourse.slicer.org/t/20276
+---
+
 # Multiple control points in the "Edit" position state
 
 **Topic ID**: 20276

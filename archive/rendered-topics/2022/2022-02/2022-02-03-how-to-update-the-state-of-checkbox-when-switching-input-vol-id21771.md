@@ -1,3 +1,10 @@
+---
+topic_id: 21771
+title: "How To Update The State Of Checkbox When Switching Input Vol"
+date: 2022-02-03
+url: https://discourse.slicer.org/t/21771
+---
+
 # How to update the state of checkbox when switching input volume node
 
 **Topic ID**: 21771

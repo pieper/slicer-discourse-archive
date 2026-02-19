@@ -1,3 +1,10 @@
+---
+topic_id: 25059
+title: "Generate Voi On Ct And Use This Voi On Pet Data To Get Activ"
+date: 2022-09-02
+url: https://discourse.slicer.org/t/25059
+---
+
 # Generate VOI on CT and use this VOI on PET data to get activity information
 
 **Topic ID**: 25059

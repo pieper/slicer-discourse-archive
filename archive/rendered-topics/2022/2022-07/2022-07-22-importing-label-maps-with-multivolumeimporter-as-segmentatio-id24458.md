@@ -1,3 +1,10 @@
+---
+topic_id: 24458
+title: "Importing Label Maps With Multivolumeimporter As Segmentatio"
+date: 2022-07-22
+url: https://discourse.slicer.org/t/24458
+---
+
 # Importing label maps with MultiVolumeImporter as segmentations
 
 **Topic ID**: 24458

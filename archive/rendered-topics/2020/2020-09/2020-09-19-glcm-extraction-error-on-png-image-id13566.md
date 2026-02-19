@@ -1,3 +1,10 @@
+---
+topic_id: 13566
+title: "Glcm Extraction Error On Png Image"
+date: 2020-09-19
+url: https://discourse.slicer.org/t/13566
+---
+
 # GLCM extraction error on .png image
 
 **Topic ID**: 13566

@@ -1,3 +1,10 @@
+---
+topic_id: 28654
+title: "Getting Pointer On Modules Logic And Open Show The Logic Wid"
+date: 2023-03-29
+url: https://discourse.slicer.org/t/28654
+---
+
 # Getting pointer on module's logic and open/show the logic widget
 
 **Topic ID**: 28654

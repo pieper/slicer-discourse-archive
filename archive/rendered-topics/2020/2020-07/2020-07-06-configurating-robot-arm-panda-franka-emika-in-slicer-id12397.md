@@ -1,3 +1,10 @@
+---
+topic_id: 12397
+title: "Configurating Robot Arm Panda Franka Emika In Slicer"
+date: 2020-07-06
+url: https://discourse.slicer.org/t/12397
+---
+
 # Configurating Robot arm (Panda - Franka Emika) In slicer
 
 **Topic ID**: 12397

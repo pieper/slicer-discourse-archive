@@ -1,3 +1,10 @@
+---
+topic_id: 801
+title: "Modulewizard Py Crash On Png File"
+date: 2017-08-01
+url: https://discourse.slicer.org/t/801
+---
+
 # ModuleWizard.py crash on png file
 
 **Topic ID**: 801

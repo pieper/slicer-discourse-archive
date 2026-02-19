@@ -1,3 +1,10 @@
+---
+topic_id: 4077
+title: "3D Connexion Space Mouse"
+date: 2018-09-12
+url: https://discourse.slicer.org/t/4077
+---
+
 # 3D Connexion space mouse
 
 **Topic ID**: 4077

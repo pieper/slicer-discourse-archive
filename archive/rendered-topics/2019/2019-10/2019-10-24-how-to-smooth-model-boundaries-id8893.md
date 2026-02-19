@@ -1,3 +1,10 @@
+---
+topic_id: 8893
+title: "How To Smooth Model Boundaries"
+date: 2019-10-24
+url: https://discourse.slicer.org/t/8893
+---
+
 # How to smooth model boundaries
 
 **Topic ID**: 8893

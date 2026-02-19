@@ -1,3 +1,10 @@
+---
+topic_id: 33378
+title: "How Can I Redirect Std Cout To Python Interactor"
+date: 2023-12-13
+url: https://discourse.slicer.org/t/33378
+---
+
 # How can I redirect std::cout to Python Interactor?
 
 **Topic ID**: 33378

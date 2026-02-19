@@ -1,3 +1,10 @@
+---
+topic_id: 37219
+title: "Export A Plane Created By Markups To An Stl File Or To A Seg"
+date: 2024-07-05
+url: https://discourse.slicer.org/t/37219
+---
+
 # Export a plane created by Markups to an .stl file  or to a segment
 
 **Topic ID**: 37219

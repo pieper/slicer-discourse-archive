@@ -1,3 +1,10 @@
+---
+topic_id: 4854
+title: "Is Vtkguisupportqtopengl Available In 8 2 0 With Vtk Renderi"
+date: 2018-11-22
+url: https://discourse.slicer.org/t/4854
+---
+
 # Is vtkGUISupportQtOpenGL available in 8.2.0 with VTK_RENDERING_BACKEND=OpenGL2 ?
 
 **Topic ID**: 4854

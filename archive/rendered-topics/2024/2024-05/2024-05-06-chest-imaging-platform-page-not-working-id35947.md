@@ -1,3 +1,10 @@
+---
+topic_id: 35947
+title: "Chest Imaging Platform Page Not Working"
+date: 2024-05-06
+url: https://discourse.slicer.org/t/35947
+---
+
 # Chest imaging platform page not working
 
 **Topic ID**: 35947

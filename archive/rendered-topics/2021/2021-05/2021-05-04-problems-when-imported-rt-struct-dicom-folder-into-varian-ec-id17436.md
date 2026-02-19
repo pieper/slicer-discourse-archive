@@ -1,3 +1,10 @@
+---
+topic_id: 17436
+title: "Problems When Imported Rt Struct Dicom Folder Into Varian Ec"
+date: 2021-05-04
+url: https://discourse.slicer.org/t/17436
+---
+
 # Problems when imported RT-Struct dicom folder into Varian Eclipse
 
 **Topic ID**: 17436

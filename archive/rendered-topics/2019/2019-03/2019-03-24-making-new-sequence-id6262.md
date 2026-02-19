@@ -1,3 +1,10 @@
+---
+topic_id: 6262
+title: "Making New Sequence"
+date: 2019-03-24
+url: https://discourse.slicer.org/t/6262
+---
+
 # Making new sequence
 
 **Topic ID**: 6262

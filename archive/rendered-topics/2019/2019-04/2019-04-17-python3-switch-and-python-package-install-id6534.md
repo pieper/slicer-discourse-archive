@@ -1,3 +1,10 @@
+---
+topic_id: 6534
+title: "Python3 Switch And Python Package Install"
+date: 2019-04-17
+url: https://discourse.slicer.org/t/6534
+---
+
 # Python3 switch and python package install
 
 **Topic ID**: 6534

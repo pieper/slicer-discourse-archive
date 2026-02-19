@@ -1,3 +1,10 @@
+---
+topic_id: 32217
+title: "Missing Dependency For Debian"
+date: 2023-10-13
+url: https://discourse.slicer.org/t/32217
+---
+
 # missing dependency for debian
 
 **Topic ID**: 32217

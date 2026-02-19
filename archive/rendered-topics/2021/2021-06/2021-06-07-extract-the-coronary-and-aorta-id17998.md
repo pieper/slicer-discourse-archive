@@ -1,3 +1,10 @@
+---
+topic_id: 17998
+title: "Extract The Coronary And Aorta"
+date: 2021-06-07
+url: https://discourse.slicer.org/t/17998
+---
+
 # Extract the coronary and aorta
 
 **Topic ID**: 17998

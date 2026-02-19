@@ -1,3 +1,10 @@
+---
+topic_id: 14236
+title: "Build Slicer Stable Release From The Source On Archlinux"
+date: 2020-10-25
+url: https://discourse.slicer.org/t/14236
+---
+
 # Build slicer stable release from the source on ArchLinux
 
 **Topic ID**: 14236

@@ -1,3 +1,10 @@
+---
+topic_id: 35157
+title: "Segment Statistics Out Of Frame Regions"
+date: 2024-03-28
+url: https://discourse.slicer.org/t/35157
+---
+
 # Segment Statistics - Out of Frame regions
 
 **Topic ID**: 35157

@@ -1,3 +1,10 @@
+---
+topic_id: 424
+title: "Synchronize Slice Views Widgets With Widgets Created In The"
+date: 2017-06-02
+url: https://discourse.slicer.org/t/424
+---
+
 # Synchronize slice views widgets with widgets created in the Python console
 
 **Topic ID**: 424

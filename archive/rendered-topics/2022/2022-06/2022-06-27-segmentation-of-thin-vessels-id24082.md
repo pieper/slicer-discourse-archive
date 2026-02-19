@@ -1,3 +1,10 @@
+---
+topic_id: 24082
+title: "Segmentation Of Thin Vessels"
+date: 2022-06-27
+url: https://discourse.slicer.org/t/24082
+---
+
 # Segmentation of thin vessels
 
 **Topic ID**: 24082

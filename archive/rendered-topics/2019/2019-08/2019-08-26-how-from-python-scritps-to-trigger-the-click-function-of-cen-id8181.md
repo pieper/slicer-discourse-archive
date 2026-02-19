@@ -1,3 +1,10 @@
+---
+topic_id: 8181
+title: "How From Python Scritps To Trigger The Click Function Of Cen"
+date: 2019-08-26
+url: https://discourse.slicer.org/t/8181
+---
+
 # How, from python-scritps, to trigger the click-function of "center of the 3D view on the scene"?
 
 **Topic ID**: 8181

@@ -1,3 +1,10 @@
+---
+topic_id: 10837
+title: "Loading Dicom Directory Into Scene And Obtaining Master Volu"
+date: 2020-03-25
+url: https://discourse.slicer.org/t/10837
+---
+
 # Loading dicom directory into scene and obtaining master volume node
 
 **Topic ID**: 10837

@@ -1,3 +1,10 @@
+---
+topic_id: 799
+title: "Path Of Image Node"
+date: 2017-08-01
+url: https://discourse.slicer.org/t/799
+---
+
 # Path of image node
 
 **Topic ID**: 799

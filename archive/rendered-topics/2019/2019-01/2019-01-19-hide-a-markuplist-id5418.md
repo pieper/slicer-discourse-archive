@@ -1,3 +1,10 @@
+---
+topic_id: 5418
+title: "Hide A Markuplist"
+date: 2019-01-19
+url: https://discourse.slicer.org/t/5418
+---
+
 # Hide a markupList
 
 **Topic ID**: 5418

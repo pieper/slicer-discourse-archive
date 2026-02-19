@@ -1,3 +1,10 @@
+---
+topic_id: 29094
+title: "Valid Roi For 2D Image"
+date: 2023-04-24
+url: https://discourse.slicer.org/t/29094
+---
+
 # Valid ROI for 2D image
 
 **Topic ID**: 29094

@@ -1,3 +1,10 @@
+---
+topic_id: 31816
+title: "Exploring Vtk Based 3D Modeling Of Floating Point Rtstruct C"
+date: 2023-09-20
+url: https://discourse.slicer.org/t/31816
+---
+
 # Exploring VTK-Based 3D Modeling of Floating-Point RTStruct Contours in 3D Slicer
 
 **Topic ID**: 31816

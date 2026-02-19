@@ -1,3 +1,10 @@
+---
+topic_id: 28813
+title: "Finding Coordinates For Plane Line Intersection"
+date: 2023-04-08
+url: https://discourse.slicer.org/t/28813
+---
+
 # Finding coordinates for plane-line intersection
 
 **Topic ID**: 28813

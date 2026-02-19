@@ -1,3 +1,10 @@
+---
+topic_id: 8298
+title: "Export Grid With Segmentation Information"
+date: 2019-09-04
+url: https://discourse.slicer.org/t/8298
+---
+
 # Export grid with segmentation information
 
 **Topic ID**: 8298

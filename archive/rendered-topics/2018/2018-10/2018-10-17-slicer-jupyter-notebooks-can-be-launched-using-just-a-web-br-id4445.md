@@ -1,3 +1,10 @@
+---
+topic_id: 4445
+title: "Slicer Jupyter Notebooks Can Be Launched Using Just A Web Br"
+date: 2018-10-17
+url: https://discourse.slicer.org/t/4445
+---
+
 # Slicer Jupyter notebooks can be launched using just a web browser
 
 **Topic ID**: 4445

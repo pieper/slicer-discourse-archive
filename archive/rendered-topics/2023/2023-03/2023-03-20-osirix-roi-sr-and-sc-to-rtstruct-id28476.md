@@ -1,3 +1,10 @@
+---
+topic_id: 28476
+title: "Osirix Roi Sr And Sc To Rtstruct"
+date: 2023-03-20
+url: https://discourse.slicer.org/t/28476
+---
+
 # OsiriX ROI SR and SC to RTSTRUCT?
 
 **Topic ID**: 28476

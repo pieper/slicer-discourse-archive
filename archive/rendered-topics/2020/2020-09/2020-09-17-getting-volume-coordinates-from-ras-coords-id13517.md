@@ -1,3 +1,10 @@
+---
+topic_id: 13517
+title: "Getting Volume Coordinates From Ras Coords"
+date: 2020-09-17
+url: https://discourse.slicer.org/t/13517
+---
+
 # Getting volume coordinates from RAS coords
 
 **Topic ID**: 13517

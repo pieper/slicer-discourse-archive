@@ -1,3 +1,10 @@
+---
+topic_id: 19568
+title: "Modify Other Segments"
+date: 2021-09-08
+url: https://discourse.slicer.org/t/19568
+---
+
 # Modify other segments:
 
 **Topic ID**: 19568

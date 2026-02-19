@@ -1,3 +1,10 @@
+---
+topic_id: 24054
+title: "Surface Model Of Liver Vasculature"
+date: 2022-06-26
+url: https://discourse.slicer.org/t/24054
+---
+
 # Surface model of liver vasculature
 
 **Topic ID**: 24054

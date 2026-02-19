@@ -1,3 +1,10 @@
+---
+topic_id: 1965
+title: "Waiting Popup For 3Dslicer Extension"
+date: 2018-01-29
+url: https://discourse.slicer.org/t/1965
+---
+
 # Waiting popup (for 3dslicer extension)
 
 **Topic ID**: 1965

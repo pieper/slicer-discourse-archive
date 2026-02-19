@@ -1,3 +1,10 @@
+---
+topic_id: 37196
+title: "Aligning Segmented Tumor Volumes Across Mri Sequences"
+date: 2024-07-04
+url: https://discourse.slicer.org/t/37196
+---
+
 # Aligning Segmented Tumor Volumes Across MRI Sequences 
 
 **Topic ID**: 37196

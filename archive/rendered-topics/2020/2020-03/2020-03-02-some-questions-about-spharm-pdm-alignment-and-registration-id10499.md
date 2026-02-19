@@ -1,3 +1,10 @@
+---
+topic_id: 10499
+title: "Some Questions About Spharm Pdm Alignment And Registration"
+date: 2020-03-02
+url: https://discourse.slicer.org/t/10499
+---
+
 # Some questions about SPHARM-PDM, alignment, and registration
 
 **Topic ID**: 10499

@@ -1,3 +1,10 @@
+---
+topic_id: 17175
+title: "Bone Thickness Mapping Dont Display The Thickness"
+date: 2021-04-19
+url: https://discourse.slicer.org/t/17175
+---
+
 # Bone Thickness Mapping don't display the thickness
 
 **Topic ID**: 17175

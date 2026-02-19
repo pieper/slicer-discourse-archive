@@ -1,3 +1,10 @@
+---
+topic_id: 36238
+title: "Cortical Parcellation"
+date: 2024-05-17
+url: https://discourse.slicer.org/t/36238
+---
+
 # cortical Parcellation
 
 **Topic ID**: 36238

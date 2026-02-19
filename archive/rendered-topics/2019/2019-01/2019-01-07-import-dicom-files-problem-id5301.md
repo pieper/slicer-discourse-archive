@@ -1,3 +1,10 @@
+---
+topic_id: 5301
+title: "Import Dicom Files Problem"
+date: 2019-01-07
+url: https://discourse.slicer.org/t/5301
+---
+
 # Import DICOM files problem
 
 **Topic ID**: 5301

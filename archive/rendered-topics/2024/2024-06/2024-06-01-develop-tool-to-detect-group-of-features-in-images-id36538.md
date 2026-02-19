@@ -1,3 +1,10 @@
+---
+topic_id: 36538
+title: "Develop Tool To Detect Group Of Features In Images"
+date: 2024-06-01
+url: https://discourse.slicer.org/t/36538
+---
+
 # Develop tool to detect group of features in images
 
 **Topic ID**: 36538

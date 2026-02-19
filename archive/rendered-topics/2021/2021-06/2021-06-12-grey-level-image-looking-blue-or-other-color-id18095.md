@@ -1,3 +1,10 @@
+---
+topic_id: 18095
+title: "Grey Level Image Looking Blue Or Other Color"
+date: 2021-06-12
+url: https://discourse.slicer.org/t/18095
+---
+
 # Grey Level Image looking Blue (or other color)
 
 **Topic ID**: 18095

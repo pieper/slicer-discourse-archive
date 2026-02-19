@@ -1,3 +1,10 @@
+---
+topic_id: 20265
+title: "Import External Segmentation Map"
+date: 2021-10-20
+url: https://discourse.slicer.org/t/20265
+---
+
 # Import external segmentation map
 
 **Topic ID**: 20265

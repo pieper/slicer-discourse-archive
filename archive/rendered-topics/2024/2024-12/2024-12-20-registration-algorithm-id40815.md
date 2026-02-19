@@ -1,3 +1,10 @@
+---
+topic_id: 40815
+title: "Registration Algorithm"
+date: 2024-12-20
+url: https://discourse.slicer.org/t/40815
+---
+
 # Registration Algorithm
 
 **Topic ID**: 40815

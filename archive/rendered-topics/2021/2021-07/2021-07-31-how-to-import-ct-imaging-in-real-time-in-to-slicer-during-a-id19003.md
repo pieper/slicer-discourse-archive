@@ -1,3 +1,10 @@
+---
+topic_id: 19003
+title: "How To Import Ct Imaging In Real Time In To Slicer During A"
+date: 2021-07-31
+url: https://discourse.slicer.org/t/19003
+---
+
 # How to import CT imaging in real-time in to Slicer during a procedure?
 
 **Topic ID**: 19003

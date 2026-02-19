@@ -1,3 +1,10 @@
+---
+topic_id: 8130
+title: "Question About The Name Of The Column In The Table"
+date: 2019-08-22
+url: https://discourse.slicer.org/t/8130
+---
+
 # Question about the Name of the column in the Table
 
 **Topic ID**: 8130

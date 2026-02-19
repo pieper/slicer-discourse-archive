@@ -1,3 +1,10 @@
+---
+topic_id: 17985
+title: "Slicerrt Dose Volume Object"
+date: 2021-06-07
+url: https://discourse.slicer.org/t/17985
+---
+
 # SlicerRT dose volume object
 
 **Topic ID**: 17985

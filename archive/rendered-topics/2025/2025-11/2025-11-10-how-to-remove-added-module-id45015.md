@@ -1,3 +1,10 @@
+---
+topic_id: 45015
+title: "How To Remove Added Module"
+date: 2025-11-10
+url: https://discourse.slicer.org/t/45015
+---
+
 # How to remove added module?
 
 **Topic ID**: 45015

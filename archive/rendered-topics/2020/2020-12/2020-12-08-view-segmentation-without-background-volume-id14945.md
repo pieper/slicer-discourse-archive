@@ -1,3 +1,10 @@
+---
+topic_id: 14945
+title: "View Segmentation Without Background Volume"
+date: 2020-12-08
+url: https://discourse.slicer.org/t/14945
+---
+
 # View segmentation without background volume
 
 **Topic ID**: 14945

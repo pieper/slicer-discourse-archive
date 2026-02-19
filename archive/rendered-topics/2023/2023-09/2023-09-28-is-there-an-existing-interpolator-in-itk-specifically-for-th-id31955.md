@@ -1,3 +1,10 @@
+---
+topic_id: 31955
+title: "Is There An Existing Interpolator In Itk Specifically For Th"
+date: 2023-09-28
+url: https://discourse.slicer.org/t/31955
+---
+
 # Is there an existing "interpolator" in ITK specifically for the Slice-to-Volume registration?
 
 **Topic ID**: 31955

@@ -1,3 +1,10 @@
+---
+topic_id: 26296
+title: "Segment Editor Widget Is Too Tall"
+date: 2022-11-18
+url: https://discourse.slicer.org/t/26296
+---
+
 # Segment Editor widget is too tall
 
 **Topic ID**: 26296

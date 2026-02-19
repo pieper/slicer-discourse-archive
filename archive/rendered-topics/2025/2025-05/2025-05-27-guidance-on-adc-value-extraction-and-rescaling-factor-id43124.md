@@ -1,3 +1,10 @@
+---
+topic_id: 43124
+title: "Guidance On Adc Value Extraction And Rescaling Factor"
+date: 2025-05-27
+url: https://discourse.slicer.org/t/43124
+---
+
 # Guidance on ADC Value Extraction and Rescaling Factor
 
 **Topic ID**: 43124

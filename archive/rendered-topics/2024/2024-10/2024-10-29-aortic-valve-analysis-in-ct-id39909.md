@@ -1,3 +1,10 @@
+---
+topic_id: 39909
+title: "Aortic Valve Analysis In Ct"
+date: 2024-10-29
+url: https://discourse.slicer.org/t/39909
+---
+
 # Aortic valve analysis in CT
 
 **Topic ID**: 39909

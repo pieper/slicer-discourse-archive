@@ -1,3 +1,10 @@
+---
+topic_id: 33501
+title: "Pythonqt Unnamed Typedef Build Warning"
+date: 2023-12-22
+url: https://discourse.slicer.org/t/33501
+---
+
 # PythonQt unnamed `typedef` build warning
 
 **Topic ID**: 33501

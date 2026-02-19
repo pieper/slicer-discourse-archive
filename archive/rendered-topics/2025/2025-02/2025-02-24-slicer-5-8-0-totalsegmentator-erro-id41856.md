@@ -1,3 +1,10 @@
+---
+topic_id: 41856
+title: "Slicer 5 8 0 Totalsegmentator Erro"
+date: 2025-02-24
+url: https://discourse.slicer.org/t/41856
+---
+
 # Slicer 5.8.0 totalsegmentator erro
 
 **Topic ID**: 41856

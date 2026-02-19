@@ -1,3 +1,10 @@
+---
+topic_id: 29019
+title: "Segmentation Is Very Pixelated"
+date: 2023-04-20
+url: https://discourse.slicer.org/t/29019
+---
+
 # Segmentation is very pixelated.
 
 **Topic ID**: 29019

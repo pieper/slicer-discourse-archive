@@ -1,3 +1,10 @@
+---
+topic_id: 25927
+title: "Segmentation Statistics"
+date: 2022-10-27
+url: https://discourse.slicer.org/t/25927
+---
+
 # Segmentation statistics
 
 **Topic ID**: 25927

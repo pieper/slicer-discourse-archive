@@ -1,3 +1,10 @@
+---
+topic_id: 41528
+title: "Listen To Igtlstatus Node Added"
+date: 2025-02-06
+url: https://discourse.slicer.org/t/41528
+---
+
 # Listen to IGTLStatus node added
 
 **Topic ID**: 41528

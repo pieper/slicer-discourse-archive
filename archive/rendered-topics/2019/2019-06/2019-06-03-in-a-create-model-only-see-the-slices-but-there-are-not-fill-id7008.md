@@ -1,3 +1,10 @@
+---
+topic_id: 7008
+title: "In A Create Model Only See The Slices But There Are Not Fill"
+date: 2019-06-03
+url: https://discourse.slicer.org/t/7008
+---
+
 # In a create model only see the slices but there are not filling between
 
 **Topic ID**: 7008

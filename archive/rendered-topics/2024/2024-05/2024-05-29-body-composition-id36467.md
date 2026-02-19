@@ -1,3 +1,10 @@
+---
+topic_id: 36467
+title: "Body Composition"
+date: 2024-05-29
+url: https://discourse.slicer.org/t/36467
+---
+
 # Body composition
 
 **Topic ID**: 36467

@@ -1,3 +1,10 @@
+---
+topic_id: 19565
+title: "Margin Effect To Dilate Segmentation"
+date: 2021-09-08
+url: https://discourse.slicer.org/t/19565
+---
+
 # Margin effect to dilate segmentation
 
 **Topic ID**: 19565

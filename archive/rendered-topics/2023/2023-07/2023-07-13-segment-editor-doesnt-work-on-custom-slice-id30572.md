@@ -1,3 +1,10 @@
+---
+topic_id: 30572
+title: "Segment Editor Doesnt Work On Custom Slice"
+date: 2023-07-13
+url: https://discourse.slicer.org/t/30572
+---
+
 # Segment Editor doesn't work on custom slice
 
 **Topic ID**: 30572

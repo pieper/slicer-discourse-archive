@@ -1,3 +1,10 @@
+---
+topic_id: 2848
+title: "2D Mixed Map Mri Viewing"
+date: 2018-05-18
+url: https://discourse.slicer.org/t/2848
+---
+
 # 2D Mixed Map MRI Viewing
 
 **Topic ID**: 2848

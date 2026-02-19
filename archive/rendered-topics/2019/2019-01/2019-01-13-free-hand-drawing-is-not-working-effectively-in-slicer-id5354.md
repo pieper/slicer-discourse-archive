@@ -1,3 +1,10 @@
+---
+topic_id: 5354
+title: "Free Hand Drawing Is Not Working Effectively In Slicer"
+date: 2019-01-13
+url: https://discourse.slicer.org/t/5354
+---
+
 # Free hand drawing is not working effectively in slicer
 
 **Topic ID**: 5354

@@ -1,3 +1,10 @@
+---
+topic_id: 402
+title: "Matlab Bridge Extension Module Execution Error"
+date: 2017-05-30
+url: https://discourse.slicer.org/t/402
+---
+
 # Matlab bridge extension - Module execution error
 
 **Topic ID**: 402

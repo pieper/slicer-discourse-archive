@@ -1,3 +1,10 @@
+---
+topic_id: 17324
+title: "Creating Mesh Surface Or Volume Vtk Vtp From Binary Images"
+date: 2021-04-26
+url: https://discourse.slicer.org/t/17324
+---
+
 # creating mesh surface or volume (vtk, vtp) from binary images 
 
 **Topic ID**: 17324

@@ -1,3 +1,10 @@
+---
+topic_id: 6617
+title: "Application Of Ct Scanning Soil Model In 3D Slicer"
+date: 2019-04-26
+url: https://discourse.slicer.org/t/6617
+---
+
 # Application of CT Scanning Soil Model in 3D Slicer
 
 **Topic ID**: 6617

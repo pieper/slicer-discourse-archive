@@ -1,3 +1,10 @@
+---
+topic_id: 41553
+title: "Detect Closed Polydata Line"
+date: 2025-02-07
+url: https://discourse.slicer.org/t/41553
+---
+
 # Detect closed polydata line
 
 **Topic ID**: 41553

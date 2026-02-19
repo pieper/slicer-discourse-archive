@@ -1,3 +1,10 @@
+---
+topic_id: 37058
+title: "Adding Data Failed Files Edited With Segment Editor Cannot B"
+date: 2024-06-26
+url: https://discourse.slicer.org/t/37058
+---
+
 # "Adding data failed" Files edited with "Segment Editor" cannot be reopened
 
 **Topic ID**: 37058

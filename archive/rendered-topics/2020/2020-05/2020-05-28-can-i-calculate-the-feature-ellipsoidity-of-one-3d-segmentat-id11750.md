@@ -1,3 +1,10 @@
+---
+topic_id: 11750
+title: "Can I Calculate The Feature Ellipsoidity Of One 3D Segmentat"
+date: 2020-05-28
+url: https://discourse.slicer.org/t/11750
+---
+
 # Can I calculate the feature "Ellipsoidity" of one 3D segmentation
 
 **Topic ID**: 11750

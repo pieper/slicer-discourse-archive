@@ -1,3 +1,10 @@
+---
+topic_id: 18372
+title: "Visualizing Mri Data Taken Over Time And Taking Cross Sectio"
+date: 2021-06-28
+url: https://discourse.slicer.org/t/18372
+---
+
 # Visualizing MRI data taken over time and taking cross sections
 
 **Topic ID**: 18372

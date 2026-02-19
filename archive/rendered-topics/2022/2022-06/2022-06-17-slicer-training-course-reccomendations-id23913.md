@@ -1,3 +1,10 @@
+---
+topic_id: 23913
+title: "Slicer Training Course Reccomendations"
+date: 2022-06-17
+url: https://discourse.slicer.org/t/23913
+---
+
 # Slicer Training course reccomendations
 
 **Topic ID**: 23913

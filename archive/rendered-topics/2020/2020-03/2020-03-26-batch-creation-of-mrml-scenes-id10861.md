@@ -1,3 +1,10 @@
+---
+topic_id: 10861
+title: "Batch Creation Of Mrml Scenes"
+date: 2020-03-26
+url: https://discourse.slicer.org/t/10861
+---
+
 # Batch creation of mrml scenes
 
 **Topic ID**: 10861

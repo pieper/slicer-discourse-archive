@@ -1,3 +1,10 @@
+---
+topic_id: 19913
+title: "Markups Toolbar Complexity For Simple Tasks"
+date: 2021-09-29
+url: https://discourse.slicer.org/t/19913
+---
+
 # Markups toolbar complexity for simple tasks
 
 **Topic ID**: 19913

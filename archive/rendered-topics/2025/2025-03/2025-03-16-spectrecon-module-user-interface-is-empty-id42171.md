@@ -1,3 +1,10 @@
+---
+topic_id: 42171
+title: "Spectrecon Module User Interface Is Empty"
+date: 2025-03-16
+url: https://discourse.slicer.org/t/42171
+---
+
 # SPECTRecon module user interface is empty
 
 **Topic ID**: 42171

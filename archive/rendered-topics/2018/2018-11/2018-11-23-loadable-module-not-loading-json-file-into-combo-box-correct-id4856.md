@@ -1,3 +1,10 @@
+---
+topic_id: 4856
+title: "Loadable Module Not Loading Json File Into Combo Box Correct"
+date: 2018-11-23
+url: https://discourse.slicer.org/t/4856
+---
+
 # loadable Module not loading .json file into combo box correctly
 
 **Topic ID**: 4856

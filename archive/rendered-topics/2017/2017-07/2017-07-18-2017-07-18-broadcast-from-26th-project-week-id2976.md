@@ -1,3 +1,10 @@
+---
+topic_id: 2976
+title: "2017 07 18 Broadcast From 26Th Project Week"
+date: 2017-07-18
+url: https://discourse.slicer.org/t/2976
+---
+
 # 2017.07.18 Broadcast from 26th Project Week
 
 **Topic ID**: 2976

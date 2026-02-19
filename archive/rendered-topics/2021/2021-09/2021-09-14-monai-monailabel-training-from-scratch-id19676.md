@@ -1,3 +1,10 @@
+---
+topic_id: 19676
+title: "Monai Monailabel Training From Scratch"
+date: 2021-09-14
+url: https://discourse.slicer.org/t/19676
+---
+
 # Monai/monailabel training from scratch
 
 **Topic ID**: 19676

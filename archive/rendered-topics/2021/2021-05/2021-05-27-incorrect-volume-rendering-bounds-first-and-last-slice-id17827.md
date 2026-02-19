@@ -1,3 +1,10 @@
+---
+topic_id: 17827
+title: "Incorrect Volume Rendering Bounds First And Last Slice"
+date: 2021-05-27
+url: https://discourse.slicer.org/t/17827
+---
+
 # Incorrect volume rendering bounds - first and last slice
 
 **Topic ID**: 17827

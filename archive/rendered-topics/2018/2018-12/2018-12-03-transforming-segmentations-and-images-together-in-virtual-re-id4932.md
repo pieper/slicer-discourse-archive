@@ -1,3 +1,10 @@
+---
+topic_id: 4932
+title: "Transforming Segmentations And Images Together In Virtual Re"
+date: 2018-12-03
+url: https://discourse.slicer.org/t/4932
+---
+
 # Transforming segmentations and images together in virtual reality
 
 **Topic ID**: 4932

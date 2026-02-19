@@ -1,3 +1,10 @@
+---
+topic_id: 29399
+title: "Segmentating Bone In Total Segmentator"
+date: 2023-05-10
+url: https://discourse.slicer.org/t/29399
+---
+
 # Segmentating bone in Total Segmentator
 
 **Topic ID**: 29399

@@ -1,3 +1,10 @@
+---
+topic_id: 33122
+title: "Navigate Through Different Image Series"
+date: 2023-11-29
+url: https://discourse.slicer.org/t/33122
+---
+
 # Navigate through different image series
 
 **Topic ID**: 33122

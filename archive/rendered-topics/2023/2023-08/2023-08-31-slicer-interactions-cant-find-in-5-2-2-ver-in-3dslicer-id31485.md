@@ -1,3 +1,10 @@
+---
+topic_id: 31485
+title: "Slicer Interactions Cant Find In 5 2 2 Ver In 3Dslicer"
+date: 2023-08-31
+url: https://discourse.slicer.org/t/31485
+---
+
 # slicer interactions [can't find in 5.2.2 ver. in 3DSlicer]
 
 **Topic ID**: 31485

@@ -1,3 +1,10 @@
+---
+topic_id: 26368
+title: "Auto Segmentation Error Error In Brats Mri Segmentation V0 3"
+date: 2022-11-22
+url: https://discourse.slicer.org/t/26368
+---
+
 # Auto Segmentation error error in 'brats_mri_segmentation_v0.3.8'
 
 **Topic ID**: 26368

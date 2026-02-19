@@ -1,3 +1,10 @@
+---
+topic_id: 18166
+title: "Slicer Quit Unexpectedly Mac"
+date: 2021-06-16
+url: https://discourse.slicer.org/t/18166
+---
+
 # Slicer quit unexpectedly- Mac
 
 **Topic ID**: 18166

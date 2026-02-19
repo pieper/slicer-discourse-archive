@@ -1,3 +1,10 @@
+---
+topic_id: 23100
+title: "Display The Shape Of The Bone Surface Within Closed Line"
+date: 2022-04-24
+url: https://discourse.slicer.org/t/23100
+---
+
 # Display the shape of the bone surface within closed line
 
 **Topic ID**: 23100

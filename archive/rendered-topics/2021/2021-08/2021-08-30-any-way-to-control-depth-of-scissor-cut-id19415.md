@@ -1,3 +1,10 @@
+---
+topic_id: 19415
+title: "Any Way To Control Depth Of Scissor Cut"
+date: 2021-08-30
+url: https://discourse.slicer.org/t/19415
+---
+
 # Any way to control depth of scissor cut?
 
 **Topic ID**: 19415

@@ -1,3 +1,10 @@
+---
+topic_id: 8875
+title: "Help Needed With Measures And Re Orienting Images"
+date: 2019-10-23
+url: https://discourse.slicer.org/t/8875
+---
+
 # Help needed with measures and re-orienting images
 
 **Topic ID**: 8875

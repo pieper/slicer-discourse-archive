@@ -1,3 +1,10 @@
+---
+topic_id: 19482
+title: "Skimage Import Error"
+date: 2021-09-02
+url: https://discourse.slicer.org/t/19482
+---
+
 # Skimage import error
 
 **Topic ID**: 19482

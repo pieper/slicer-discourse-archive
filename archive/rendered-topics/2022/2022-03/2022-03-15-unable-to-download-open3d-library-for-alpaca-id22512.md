@@ -1,3 +1,10 @@
+---
+topic_id: 22512
+title: "Unable To Download Open3D Library For Alpaca"
+date: 2022-03-15
+url: https://discourse.slicer.org/t/22512
+---
+
 # Unable to download open3d library for ALPACA
 
 **Topic ID**: 22512

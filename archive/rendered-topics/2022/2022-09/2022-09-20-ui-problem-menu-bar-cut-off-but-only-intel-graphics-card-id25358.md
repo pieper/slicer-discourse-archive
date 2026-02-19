@@ -1,3 +1,10 @@
+---
+topic_id: 25358
+title: "Ui Problem Menu Bar Cut Off But Only Intel Graphics Card"
+date: 2022-09-20
+url: https://discourse.slicer.org/t/25358
+---
+
 # UI problem: menu bar cut off (but only Intel graphics card)
 
 **Topic ID**: 25358

@@ -1,3 +1,10 @@
+---
+topic_id: 30722
+title: "How Does One Find The Translation And Rotation Measurements"
+date: 2023-07-21
+url: https://discourse.slicer.org/t/30722
+---
+
 # How does one find the translation and rotation measurements of one anatomy with respect to another?
 
 **Topic ID**: 30722

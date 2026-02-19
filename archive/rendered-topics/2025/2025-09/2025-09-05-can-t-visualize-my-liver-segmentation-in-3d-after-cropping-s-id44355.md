@@ -1,3 +1,10 @@
+---
+topic_id: 44355
+title: "Can T Visualize My Liver Segmentation In 3D After Cropping S"
+date: 2025-09-05
+url: https://discourse.slicer.org/t/44355
+---
+
 # Can’t visualize my liver segmentation in 3D after cropping (Scalar Range shows 0–2 but nothing displays)
 
 **Topic ID**: 44355

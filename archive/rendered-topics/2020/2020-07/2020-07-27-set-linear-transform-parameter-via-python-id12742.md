@@ -1,3 +1,10 @@
+---
+topic_id: 12742
+title: "Set Linear Transform Parameter Via Python"
+date: 2020-07-27
+url: https://discourse.slicer.org/t/12742
+---
+
 # Set linear transform parameter via python
 
 **Topic ID**: 12742

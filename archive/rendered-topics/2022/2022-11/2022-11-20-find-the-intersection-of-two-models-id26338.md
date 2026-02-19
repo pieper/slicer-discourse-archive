@@ -1,3 +1,10 @@
+---
+topic_id: 26338
+title: "Find The Intersection Of Two Models"
+date: 2022-11-20
+url: https://discourse.slicer.org/t/26338
+---
+
 # Find the intersection of two models
 
 **Topic ID**: 26338

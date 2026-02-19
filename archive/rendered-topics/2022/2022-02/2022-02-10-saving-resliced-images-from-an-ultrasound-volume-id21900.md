@@ -1,3 +1,10 @@
+---
+topic_id: 21900
+title: "Saving Resliced Images From An Ultrasound Volume"
+date: 2022-02-10
+url: https://discourse.slicer.org/t/21900
+---
+
 # Saving resliced images from an ultrasound volume
 
 **Topic ID**: 21900

@@ -1,3 +1,10 @@
+---
+topic_id: 5243
+title: "Segmentation Editor"
+date: 2019-01-01
+url: https://discourse.slicer.org/t/5243
+---
+
 # Segmentation editor
 
 **Topic ID**: 5243

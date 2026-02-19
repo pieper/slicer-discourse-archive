@@ -1,3 +1,10 @@
+---
+topic_id: 33012
+title: "Segmented Exported Surfaces Overlap Unexpected"
+date: 2023-11-24
+url: https://discourse.slicer.org/t/33012
+---
+
 # Segmented, exported surfaces overlap (unexpected)
 
 **Topic ID**: 33012

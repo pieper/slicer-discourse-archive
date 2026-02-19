@@ -1,3 +1,10 @@
+---
+topic_id: 26626
+title: "How To Measure Tip Position Error And Angle Error Between Tw"
+date: 2022-12-07
+url: https://discourse.slicer.org/t/26626
+---
+
 # How to measure tip position error and angle error between two needles in CT image?
 
 **Topic ID**: 26626

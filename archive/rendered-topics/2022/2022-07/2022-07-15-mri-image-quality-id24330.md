@@ -1,3 +1,10 @@
+---
+topic_id: 24330
+title: "Mri Image Quality"
+date: 2022-07-15
+url: https://discourse.slicer.org/t/24330
+---
+
 # MRI image quality
 
 **Topic ID**: 24330

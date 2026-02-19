@@ -1,3 +1,10 @@
+---
+topic_id: 2464
+title: "New Segment Editor Effect For Creating Hollow Objects"
+date: 2018-03-29
+url: https://discourse.slicer.org/t/2464
+---
+
 # New segment editor effect for creating hollow objects
 
 **Topic ID**: 2464

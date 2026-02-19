@@ -1,3 +1,10 @@
+---
+topic_id: 17224
+title: "Bulild 3D Slicer Step Python Failed"
+date: 2021-04-21
+url: https://discourse.slicer.org/t/17224
+---
+
 # Bulild 3D Slicer - step: python failed
 
 **Topic ID**: 17224

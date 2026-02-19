@@ -1,3 +1,10 @@
+---
+topic_id: 36335
+title: "Automated Anatomical Landmarking"
+date: 2024-05-22
+url: https://discourse.slicer.org/t/36335
+---
+
 # Automated Anatomical Landmarking
 
 **Topic ID**: 36335

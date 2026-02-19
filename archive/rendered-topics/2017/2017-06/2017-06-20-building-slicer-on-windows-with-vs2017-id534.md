@@ -1,3 +1,10 @@
+---
+topic_id: 534
+title: "Building Slicer On Windows With Vs2017"
+date: 2017-06-20
+url: https://discourse.slicer.org/t/534
+---
+
 # Building Slicer on windows with VS2017
 
 **Topic ID**: 534

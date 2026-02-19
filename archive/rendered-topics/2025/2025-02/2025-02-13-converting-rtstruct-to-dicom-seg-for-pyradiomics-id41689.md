@@ -1,3 +1,10 @@
+---
+topic_id: 41689
+title: "Converting Rtstruct To Dicom Seg For Pyradiomics"
+date: 2025-02-13
+url: https://discourse.slicer.org/t/41689
+---
+
 # Converting RTStruct to Dicom SEG for Pyradiomics
 
 **Topic ID**: 41689

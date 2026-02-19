@@ -1,3 +1,10 @@
+---
+topic_id: 19817
+title: "Elastix To Accept A Non Linear Initial Transform T0 Transfor"
+date: 2021-09-22
+url: https://discourse.slicer.org/t/19817
+---
+
 # Elastix to accept a non-linear initial transform (-t0 TransformParameters.txt)
 
 **Topic ID**: 19817

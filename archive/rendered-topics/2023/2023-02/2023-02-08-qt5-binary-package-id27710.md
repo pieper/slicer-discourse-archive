@@ -1,3 +1,10 @@
+---
+topic_id: 27710
+title: "Qt5 Binary Package"
+date: 2023-02-08
+url: https://discourse.slicer.org/t/27710
+---
+
 # Qt5 binary package
 
 **Topic ID**: 27710

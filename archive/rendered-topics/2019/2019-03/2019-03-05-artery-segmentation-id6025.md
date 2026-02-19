@@ -1,3 +1,10 @@
+---
+topic_id: 6025
+title: "Artery Segmentation"
+date: 2019-03-05
+url: https://discourse.slicer.org/t/6025
+---
+
 # Artery segmentation
 
 **Topic ID**: 6025

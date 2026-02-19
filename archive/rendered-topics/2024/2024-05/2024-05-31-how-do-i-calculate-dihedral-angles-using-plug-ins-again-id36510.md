@@ -1,3 +1,10 @@
+---
+topic_id: 36510
+title: "How Do I Calculate Dihedral Angles Using Plug Ins Again"
+date: 2024-05-31
+url: https://discourse.slicer.org/t/36510
+---
+
 # How do I calculate dihedral angles using plug-ins-again
 
 **Topic ID**: 36510

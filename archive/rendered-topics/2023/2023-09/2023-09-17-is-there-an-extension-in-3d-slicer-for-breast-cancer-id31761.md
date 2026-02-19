@@ -1,3 +1,10 @@
+---
+topic_id: 31761
+title: "Is There An Extension In 3D Slicer For Breast Cancer"
+date: 2023-09-17
+url: https://discourse.slicer.org/t/31761
+---
+
 # Is there an extension in 3D Slicer for breast cancer?
 
 **Topic ID**: 31761

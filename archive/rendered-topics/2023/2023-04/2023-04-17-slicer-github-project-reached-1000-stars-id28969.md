@@ -1,3 +1,10 @@
+---
+topic_id: 28969
+title: "Slicer Github Project Reached 1000 Stars"
+date: 2023-04-17
+url: https://discourse.slicer.org/t/28969
+---
+
 # Slicer GitHub project reached 1000 stars!
 
 **Topic ID**: 28969

@@ -1,3 +1,10 @@
+---
+topic_id: 38231
+title: "How To Set Proxy Node For A Sequence Node And Save"
+date: 2024-09-05
+url: https://discourse.slicer.org/t/38231
+---
+
 # How to set proxy node for a sequence node and save
 
 **Topic ID**: 38231

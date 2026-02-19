@@ -1,3 +1,10 @@
+---
+topic_id: 39943
+title: "Lightweightrobotigt 3D Slicer And Kuka Robot"
+date: 2024-10-30
+url: https://discourse.slicer.org/t/39943
+---
+
 # LightWeightRobotIGT | 3D Slicer and KUKA Robot
 
 **Topic ID**: 39943

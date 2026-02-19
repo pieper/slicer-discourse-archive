@@ -1,3 +1,10 @@
+---
+topic_id: 3487
+title: "Compute Centerlines Without Choosing Start Points Subject In"
+date: 2018-07-15
+url: https://discourse.slicer.org/t/3487
+---
+
 # Compute centerlines without choosing start points (subject independent)?
 
 **Topic ID**: 3487

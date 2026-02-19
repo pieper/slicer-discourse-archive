@@ -1,3 +1,10 @@
+---
+topic_id: 42514
+title: "An X Ray Dicom File That Slicer Wont Open"
+date: 2025-04-10
+url: https://discourse.slicer.org/t/42514
+---
+
 # An X-Ray DICOM file that Slicer won't open
 
 **Topic ID**: 42514

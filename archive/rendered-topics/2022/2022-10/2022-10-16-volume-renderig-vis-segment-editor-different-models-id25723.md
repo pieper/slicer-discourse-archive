@@ -1,3 +1,10 @@
+---
+topic_id: 25723
+title: "Volume Renderig Vis Segment Editor Different Models"
+date: 2022-10-16
+url: https://discourse.slicer.org/t/25723
+---
+
 # Volume renderig vis segment editor - different models
 
 **Topic ID**: 25723

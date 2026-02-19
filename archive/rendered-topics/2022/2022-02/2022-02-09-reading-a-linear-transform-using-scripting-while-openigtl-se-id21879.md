@@ -1,3 +1,10 @@
+---
+topic_id: 21879
+title: "Reading A Linear Transform Using Scripting While Openigtl Se"
+date: 2022-02-09
+url: https://discourse.slicer.org/t/21879
+---
+
 # Reading a Linear Transform using scripting while openigtl server keeps sending transform messages
 
 **Topic ID**: 21879

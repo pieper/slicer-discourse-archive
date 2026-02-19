@@ -1,3 +1,10 @@
+---
+topic_id: 4417
+title: "Diffusion Export To Ply Extension Not Available"
+date: 2018-10-16
+url: https://discourse.slicer.org/t/4417
+---
+
 # Diffusion export to PLY extension not available
 
 **Topic ID**: 4417

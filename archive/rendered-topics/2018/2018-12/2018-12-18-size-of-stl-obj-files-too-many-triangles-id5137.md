@@ -1,3 +1,10 @@
+---
+topic_id: 5137
+title: "Size Of Stl Obj Files Too Many Triangles"
+date: 2018-12-18
+url: https://discourse.slicer.org/t/5137
+---
+
 # Size of STL/OBJ files - too many triangles
 
 **Topic ID**: 5137

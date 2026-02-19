@@ -1,3 +1,10 @@
+---
+topic_id: 12351
+title: "Access An Object Between Modules Extensions In Python"
+date: 2020-07-03
+url: https://discourse.slicer.org/t/12351
+---
+
 # Access an object between modules/extensions in python
 
 **Topic ID**: 12351

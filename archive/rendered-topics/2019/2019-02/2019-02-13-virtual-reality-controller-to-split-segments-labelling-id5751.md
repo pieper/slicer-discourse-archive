@@ -1,3 +1,10 @@
+---
+topic_id: 5751
+title: "Virtual Reality Controller To Split Segments Labelling"
+date: 2019-02-13
+url: https://discourse.slicer.org/t/5751
+---
+
 # Virtual reality controller to split segments/Labelling
 
 **Topic ID**: 5751

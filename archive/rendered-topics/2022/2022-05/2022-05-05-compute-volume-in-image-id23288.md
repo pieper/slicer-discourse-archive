@@ -1,3 +1,10 @@
+---
+topic_id: 23288
+title: "Compute Volume In Image"
+date: 2022-05-05
+url: https://discourse.slicer.org/t/23288
+---
+
 # Compute volume in image
 
 **Topic ID**: 23288

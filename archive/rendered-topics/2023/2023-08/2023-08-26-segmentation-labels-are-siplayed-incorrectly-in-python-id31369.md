@@ -1,3 +1,10 @@
+---
+topic_id: 31369
+title: "Segmentation Labels Are Siplayed Incorrectly In Python"
+date: 2023-08-26
+url: https://discourse.slicer.org/t/31369
+---
+
 # segmentation labels are siplayed incorrectly in python
 
 **Topic ID**: 31369

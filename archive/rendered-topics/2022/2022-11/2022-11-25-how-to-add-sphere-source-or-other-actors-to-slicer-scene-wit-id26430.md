@@ -1,3 +1,10 @@
+---
+topic_id: 26430
+title: "How To Add Sphere Source Or Other Actors To Slicer Scene Wit"
+date: 2022-11-25
+url: https://discourse.slicer.org/t/26430
+---
+
 # How to add Sphere Source or other actors to Slicer Scene with UI
 
 **Topic ID**: 26430

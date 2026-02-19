@@ -1,3 +1,10 @@
+---
+topic_id: 36096
+title: "Low Quality Mri Images"
+date: 2024-05-12
+url: https://discourse.slicer.org/t/36096
+---
+
 # Low quality MRI images
 
 **Topic ID**: 36096

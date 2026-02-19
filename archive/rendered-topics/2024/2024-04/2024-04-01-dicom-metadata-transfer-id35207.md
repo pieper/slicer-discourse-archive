@@ -1,3 +1,10 @@
+---
+topic_id: 35207
+title: "Dicom Metadata Transfer"
+date: 2024-04-01
+url: https://discourse.slicer.org/t/35207
+---
+
 # DICOM metadata transfer
 
 **Topic ID**: 35207

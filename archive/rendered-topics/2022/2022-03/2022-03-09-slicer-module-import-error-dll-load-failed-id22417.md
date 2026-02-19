@@ -1,3 +1,10 @@
+---
+topic_id: 22417
+title: "Slicer Module Import Error Dll Load Failed"
+date: 2022-03-09
+url: https://discourse.slicer.org/t/22417
+---
+
 # Slicer Module import error: dll load failed
 
 **Topic ID**: 22417

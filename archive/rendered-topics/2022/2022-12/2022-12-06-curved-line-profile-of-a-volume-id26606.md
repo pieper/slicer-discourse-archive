@@ -1,3 +1,10 @@
+---
+topic_id: 26606
+title: "Curved Line Profile Of A Volume"
+date: 2022-12-06
+url: https://discourse.slicer.org/t/26606
+---
+
 # Curved line profile of a volume
 
 **Topic ID**: 26606

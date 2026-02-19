@@ -1,3 +1,10 @@
+---
+topic_id: 18038
+title: "Is Slicers Python Environment Complete"
+date: 2021-06-09
+url: https://discourse.slicer.org/t/18038
+---
+
 # Is Slicer's Python environment complete?
 
 **Topic ID**: 18038

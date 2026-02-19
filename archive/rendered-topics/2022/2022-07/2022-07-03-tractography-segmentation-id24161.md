@@ -1,3 +1,10 @@
+---
+topic_id: 24161
+title: "Tractography Segmentation"
+date: 2022-07-03
+url: https://discourse.slicer.org/t/24161
+---
+
 # Tractography segmentation
 
 **Topic ID**: 24161

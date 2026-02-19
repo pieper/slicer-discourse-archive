@@ -1,3 +1,10 @@
+---
+topic_id: 32784
+title: "Scaling Segmentation In 3D Space"
+date: 2023-11-13
+url: https://discourse.slicer.org/t/32784
+---
+
 # Scaling Segmentation in 3D space
 
 **Topic ID**: 32784

@@ -1,3 +1,10 @@
+---
+topic_id: 39799
+title: "Cannot Load Dicom Image Selected Files Listed In The Databas"
+date: 2024-10-22
+url: https://discourse.slicer.org/t/39799
+---
+
 # Cannot load DICOM image: "...selected files listed in the database cannot be found on disk"
 
 **Topic ID**: 39799

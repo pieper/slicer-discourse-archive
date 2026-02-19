@@ -1,3 +1,10 @@
+---
+topic_id: 10733
+title: "Creating A Sequence Of Volumes With Python"
+date: 2020-03-18
+url: https://discourse.slicer.org/t/10733
+---
+
 # Creating a sequence of volumes with Python
 
 **Topic ID**: 10733

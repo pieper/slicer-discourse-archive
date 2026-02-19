@@ -1,3 +1,10 @@
+---
+topic_id: 19683
+title: "Vmtk Compatibility In Mac M1"
+date: 2021-09-15
+url: https://discourse.slicer.org/t/19683
+---
+
 # VMTK compatibility in mac m1
 
 **Topic ID**: 19683

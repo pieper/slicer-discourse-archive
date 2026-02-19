@@ -1,3 +1,10 @@
+---
+topic_id: 5725
+title: "Masking Stl For Registration"
+date: 2019-02-11
+url: https://discourse.slicer.org/t/5725
+---
+
 # Masking STL for Registration
 
 **Topic ID**: 5725

@@ -1,3 +1,10 @@
+---
+topic_id: 26520
+title: "Cant Select Volume Sequence As Input In Dscmri Analysis Modu"
+date: 2022-11-30
+url: https://discourse.slicer.org/t/26520
+---
+
 # Can't select Volume Sequence as input in DSCMRI Analysis module
 
 **Topic ID**: 26520

@@ -1,3 +1,10 @@
+---
+topic_id: 18922
+title: "Is There A Way To Make The Edges Of The Model Smoother"
+date: 2021-07-26
+url: https://discourse.slicer.org/t/18922
+---
+
 # Is there a way to make the edges of the model smoother
 
 **Topic ID**: 18922

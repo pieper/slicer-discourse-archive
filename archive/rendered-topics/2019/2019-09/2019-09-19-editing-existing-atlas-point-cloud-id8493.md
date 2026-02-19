@@ -1,3 +1,10 @@
+---
+topic_id: 8493
+title: "Editing Existing Atlas Point Cloud"
+date: 2019-09-19
+url: https://discourse.slicer.org/t/8493
+---
+
 # Editing existing atlas/point cloud
 
 **Topic ID**: 8493

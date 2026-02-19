@@ -1,3 +1,10 @@
+---
+topic_id: 19550
+title: "How To Set The Default Python Of The Mac Terminal To Slicerp"
+date: 2021-09-07
+url: https://discourse.slicer.org/t/19550
+---
+
 # How to set the default python of the Mac terminal to slicerpython?
 
 **Topic ID**: 19550

@@ -1,3 +1,10 @@
+---
+topic_id: 10638
+title: "Closing Python Matplotlib Window Not Possible"
+date: 2020-03-11
+url: https://discourse.slicer.org/t/10638
+---
+
 # Closing python matplotlib window not possible
 
 **Topic ID**: 10638

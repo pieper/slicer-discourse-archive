@@ -1,3 +1,10 @@
+---
+topic_id: 45712
+title: "Recovering Or Creating A Large Nonlinear Inverse Transform F"
+date: 2026-01-09
+url: https://discourse.slicer.org/t/45712
+---
+
 # Recovering or creating a large nonlinear inverse transform from an ANTs registration
 
 **Topic ID**: 45712

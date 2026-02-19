@@ -1,3 +1,10 @@
+---
+topic_id: 12675
+title: "Problem With Elastix Output Incomplete Just Pixels"
+date: 2020-07-22
+url: https://discourse.slicer.org/t/12675
+---
+
 # Problem with Elastix: Output incomplete (just pixels)
 
 **Topic ID**: 12675

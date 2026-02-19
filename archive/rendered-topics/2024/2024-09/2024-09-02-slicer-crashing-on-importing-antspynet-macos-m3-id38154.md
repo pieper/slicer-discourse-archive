@@ -1,3 +1,10 @@
+---
+topic_id: 38154
+title: "Slicer Crashing On Importing Antspynet Macos M3"
+date: 2024-09-02
+url: https://discourse.slicer.org/t/38154
+---
+
 # Slicer Crashing on importing antspynet (macOS M3)
 
 **Topic ID**: 38154

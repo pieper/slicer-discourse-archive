@@ -1,3 +1,10 @@
+---
+topic_id: 34079
+title: "Converting Segmentation To Numpy Array And Back Does Not Con"
+date: 2024-02-01
+url: https://discourse.slicer.org/t/34079
+---
+
 # Converting segmentation to numpy array and back does not conserve layer ordering
 
 **Topic ID**: 34079

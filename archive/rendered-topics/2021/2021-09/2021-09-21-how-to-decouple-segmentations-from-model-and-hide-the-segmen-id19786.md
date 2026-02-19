@@ -1,3 +1,10 @@
+---
+topic_id: 19786
+title: "How To Decouple Segmentations From Model And Hide The Segmen"
+date: 2021-09-21
+url: https://discourse.slicer.org/t/19786
+---
+
 # How to decouple segmentations from model and hide the segmentations slice views?
 
 **Topic ID**: 19786

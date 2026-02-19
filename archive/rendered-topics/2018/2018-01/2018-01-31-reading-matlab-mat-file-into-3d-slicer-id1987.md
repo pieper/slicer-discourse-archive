@@ -1,3 +1,10 @@
+---
+topic_id: 1987
+title: "Reading Matlab Mat File Into 3D Slicer"
+date: 2018-01-31
+url: https://discourse.slicer.org/t/1987
+---
+
 # Reading Matlab mat file into 3D Slicer
 
 **Topic ID**: 1987

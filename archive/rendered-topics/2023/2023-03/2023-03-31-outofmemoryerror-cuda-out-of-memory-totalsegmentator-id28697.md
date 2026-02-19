@@ -1,3 +1,10 @@
+---
+topic_id: 28697
+title: "Outofmemoryerror Cuda Out Of Memory Totalsegmentator"
+date: 2023-03-31
+url: https://discourse.slicer.org/t/28697
+---
+
 # OutOfMemoryError: CUDA out of memory TotalSegmentator
 
 **Topic ID**: 28697

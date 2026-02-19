@@ -1,3 +1,10 @@
+---
+topic_id: 42210
+title: "4D Cardiac Ct Does Sequence Registration Also Captures Shear"
+date: 2025-03-18
+url: https://discourse.slicer.org/t/42210
+---
+
 # 4D Cardiac CT: Does Sequence Registration also Captures Shear and Torsion?
 
 **Topic ID**: 42210

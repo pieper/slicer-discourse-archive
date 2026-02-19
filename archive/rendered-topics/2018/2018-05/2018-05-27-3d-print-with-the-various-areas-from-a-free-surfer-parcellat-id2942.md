@@ -1,3 +1,10 @@
+---
+topic_id: 2942
+title: "3D Print With The Various Areas From A Free Surfer Parcellat"
+date: 2018-05-27
+url: https://discourse.slicer.org/t/2942
+---
+
 # 3D print with the various areas from a free surfer parcellation map
 
 **Topic ID**: 2942

@@ -1,3 +1,10 @@
+---
+topic_id: 32529
+title: "Ct Cranial Bone Thickness"
+date: 2023-11-01
+url: https://discourse.slicer.org/t/32529
+---
+
 # CT cranial bone thickness
 
 **Topic ID**: 32529

@@ -1,3 +1,10 @@
+---
+topic_id: 31412
+title: "Is There A Way To Invert A Ct Scan In Volume Rendering"
+date: 2023-08-29
+url: https://discourse.slicer.org/t/31412
+---
+
 # Is there a way to invert a CT scan in volume rendering?
 
 **Topic ID**: 31412

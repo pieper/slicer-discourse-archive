@@ -1,3 +1,10 @@
+---
+topic_id: 37488
+title: "Seeking Guidance On Developing Custom Features Using C Loada"
+date: 2024-07-21
+url: https://discourse.slicer.org/t/37488
+---
+
 # Seeking Guidance on Developing Custom Features using C++ (loadable module / core)
 
 **Topic ID**: 37488

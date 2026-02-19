@@ -1,3 +1,10 @@
+---
+topic_id: 31548
+title: "Load Mrml File In Python"
+date: 2023-09-04
+url: https://discourse.slicer.org/t/31548
+---
+
 # Load MRML file in Python
 
 **Topic ID**: 31548

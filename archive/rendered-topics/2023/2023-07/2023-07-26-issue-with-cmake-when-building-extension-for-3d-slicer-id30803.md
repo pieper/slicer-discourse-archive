@@ -1,3 +1,10 @@
+---
+topic_id: 30803
+title: "Issue With Cmake When Building Extension For 3D Slicer"
+date: 2023-07-26
+url: https://discourse.slicer.org/t/30803
+---
+
 # Issue with cmake when building extension for 3D Slicer
 
 **Topic ID**: 30803

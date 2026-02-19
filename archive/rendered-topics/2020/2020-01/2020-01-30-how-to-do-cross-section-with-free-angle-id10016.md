@@ -1,3 +1,10 @@
+---
+topic_id: 10016
+title: "How To Do Cross Section With Free Angle"
+date: 2020-01-30
+url: https://discourse.slicer.org/t/10016
+---
+
 # How to do cross section with free angle?
 
 **Topic ID**: 10016

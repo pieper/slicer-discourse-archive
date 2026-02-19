@@ -1,3 +1,10 @@
+---
+topic_id: 23970
+title: "Again About Autosave"
+date: 2022-06-20
+url: https://discourse.slicer.org/t/23970
+---
+
 # Again about autosave
 
 **Topic ID**: 23970

@@ -1,3 +1,10 @@
+---
+topic_id: 44154
+title: "Programmatically Controlling Extensions Via Separate Scripte"
+date: 2025-08-21
+url: https://discourse.slicer.org/t/44154
+---
+
 # Programmatically controlling extensions via separate scripted extension
 
 **Topic ID**: 44154

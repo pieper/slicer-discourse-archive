@@ -1,3 +1,10 @@
+---
+topic_id: 9795
+title: "Drawn Segmentation Appearing In Another Slice"
+date: 2020-01-13
+url: https://discourse.slicer.org/t/9795
+---
+
 # Drawn segmentation appearing in another slice
 
 **Topic ID**: 9795

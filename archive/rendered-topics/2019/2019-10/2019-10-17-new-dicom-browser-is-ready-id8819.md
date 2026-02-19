@@ -1,3 +1,10 @@
+---
+topic_id: 8819
+title: "New Dicom Browser Is Ready"
+date: 2019-10-17
+url: https://discourse.slicer.org/t/8819
+---
+
 # New DICOM browser is ready
 
 **Topic ID**: 8819

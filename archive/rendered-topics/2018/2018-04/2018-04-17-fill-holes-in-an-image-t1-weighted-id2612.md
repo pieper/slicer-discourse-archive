@@ -1,3 +1,10 @@
+---
+topic_id: 2612
+title: "Fill Holes In An Image T1 Weighted"
+date: 2018-04-17
+url: https://discourse.slicer.org/t/2612
+---
+
 # Fill “holes” in an image (T1-weighted)
 
 **Topic ID**: 2612

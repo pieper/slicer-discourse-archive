@@ -1,3 +1,10 @@
+---
+topic_id: 35518
+title: "Create An Online Segmentation Mask From Navigation Data"
+date: 2024-04-16
+url: https://discourse.slicer.org/t/35518
+---
+
 # Create an online segmentation mask from navigation data
 
 **Topic ID**: 35518

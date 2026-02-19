@@ -1,3 +1,10 @@
+---
+topic_id: 3010
+title: "Slicerrt Extension Build Failure"
+date: 2018-05-29
+url: https://discourse.slicer.org/t/3010
+---
+
 # SlicerRT extension build failure
 
 **Topic ID**: 3010

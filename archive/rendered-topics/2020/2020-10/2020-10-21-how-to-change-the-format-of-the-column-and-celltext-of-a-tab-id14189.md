@@ -1,3 +1,10 @@
+---
+topic_id: 14189
+title: "How To Change The Format Of The Column And Celltext Of A Tab"
+date: 2020-10-21
+url: https://discourse.slicer.org/t/14189
+---
+
 # How to change the format of the Column and CellText of a table
 
 **Topic ID**: 14189

@@ -1,3 +1,10 @@
+---
+topic_id: 9670
+title: "Thickness Of The Model"
+date: 2019-12-31
+url: https://discourse.slicer.org/t/9670
+---
+
 # Thickness of the model
 
 **Topic ID**: 9670

@@ -1,3 +1,10 @@
+---
+topic_id: 16703
+title: "Registration Mri Breast With Segmentation"
+date: 2021-03-22
+url: https://discourse.slicer.org/t/16703
+---
+
 # Registration MRI breast with segmentation
 
 **Topic ID**: 16703

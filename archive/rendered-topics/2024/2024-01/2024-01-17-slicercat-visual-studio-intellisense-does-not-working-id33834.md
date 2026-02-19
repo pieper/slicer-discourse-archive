@@ -1,3 +1,10 @@
+---
+topic_id: 33834
+title: "Slicercat Visual Studio Intellisense Does Not Working"
+date: 2024-01-17
+url: https://discourse.slicer.org/t/33834
+---
+
 # SlicerCAT : Visual Studio Intellisense does not working
 
 **Topic ID**: 33834

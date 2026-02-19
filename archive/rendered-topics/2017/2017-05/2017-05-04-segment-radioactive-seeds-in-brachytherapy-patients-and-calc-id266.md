@@ -1,3 +1,10 @@
+---
+topic_id: 266
+title: "Segment Radioactive Seeds In Brachytherapy Patients And Calc"
+date: 2017-05-04
+url: https://discourse.slicer.org/t/266
+---
+
 # Segment radioactive seeds in brachytherapy patients and calculate dose
 
 **Topic ID**: 266

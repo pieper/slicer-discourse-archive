@@ -1,3 +1,10 @@
+---
+topic_id: 246
+title: "Is There A Way To Adjust The Spacing In The Light Box View"
+date: 2017-05-02
+url: https://discourse.slicer.org/t/246
+---
+
 # Is there a way to adjust the spacing in the light box view
 
 **Topic ID**: 246

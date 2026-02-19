@@ -1,3 +1,10 @@
+---
+topic_id: 12311
+title: "Equation For Medial Axis From Spharm Pdm"
+date: 2020-07-01
+url: https://discourse.slicer.org/t/12311
+---
+
 # Equation for medial axis from SPHARM-PDM
 
 **Topic ID**: 12311

@@ -1,3 +1,10 @@
+---
+topic_id: 18584
+title: "Changing The Voxel Size After Segmentation"
+date: 2021-07-08
+url: https://discourse.slicer.org/t/18584
+---
+
 # Changing the voxel size after segmentation
 
 **Topic ID**: 18584

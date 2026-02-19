@@ -1,3 +1,10 @@
+---
+topic_id: 16479
+title: "Using Vmtk In Python"
+date: 2021-03-11
+url: https://discourse.slicer.org/t/16479
+---
+
 # Using VMTK in Python
 
 **Topic ID**: 16479

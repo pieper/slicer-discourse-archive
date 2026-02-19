@@ -1,3 +1,10 @@
+---
+topic_id: 10672
+title: "Differences Between Slicer Versions"
+date: 2020-03-13
+url: https://discourse.slicer.org/t/10672
+---
+
 # Differences between Slicer Versions
 
 **Topic ID**: 10672

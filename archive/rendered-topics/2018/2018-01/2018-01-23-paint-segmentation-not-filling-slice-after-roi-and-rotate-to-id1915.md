@@ -1,3 +1,10 @@
+---
+topic_id: 1915
+title: "Paint Segmentation Not Filling Slice After Roi And Rotate To"
+date: 2018-01-23
+url: https://discourse.slicer.org/t/1915
+---
+
 # Paint segmentation not filling slice after ROI and rotate to volume plane
 
 **Topic ID**: 1915

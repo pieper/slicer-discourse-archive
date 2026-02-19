@@ -1,3 +1,10 @@
+---
+topic_id: 1632
+title: "I Have 2 Question"
+date: 2017-12-11
+url: https://discourse.slicer.org/t/1632
+---
+
 # i have 2 question
 
 **Topic ID**: 1632

@@ -1,3 +1,10 @@
+---
+topic_id: 8369
+title: "Slicerigt Extenstion"
+date: 2019-09-10
+url: https://discourse.slicer.org/t/8369
+---
+
 # SlicerIGT Extenstion
 
 **Topic ID**: 8369

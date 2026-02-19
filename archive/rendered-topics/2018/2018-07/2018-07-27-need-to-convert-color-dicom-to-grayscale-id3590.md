@@ -1,3 +1,10 @@
+---
+topic_id: 3590
+title: "Need To Convert Color Dicom To Grayscale"
+date: 2018-07-27
+url: https://discourse.slicer.org/t/3590
+---
+
 # Need to convert color dicom to grayscale
 
 **Topic ID**: 3590

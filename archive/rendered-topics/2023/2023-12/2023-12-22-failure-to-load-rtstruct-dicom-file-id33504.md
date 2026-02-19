@@ -1,3 +1,10 @@
+---
+topic_id: 33504
+title: "Failure To Load Rtstruct Dicom File"
+date: 2023-12-22
+url: https://discourse.slicer.org/t/33504
+---
+
 # Failure to load RTSTRUCT dicom file
 
 **Topic ID**: 33504

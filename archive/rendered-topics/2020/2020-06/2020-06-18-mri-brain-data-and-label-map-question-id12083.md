@@ -1,3 +1,10 @@
+---
+topic_id: 12083
+title: "Mri Brain Data And Label Map Question"
+date: 2020-06-18
+url: https://discourse.slicer.org/t/12083
+---
+
 # MRI Brain data and label map question
 
 **Topic ID**: 12083

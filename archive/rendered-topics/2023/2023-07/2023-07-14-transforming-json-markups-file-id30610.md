@@ -1,3 +1,10 @@
+---
+topic_id: 30610
+title: "Transforming Json Markups File"
+date: 2023-07-14
+url: https://discourse.slicer.org/t/30610
+---
+
 # Transforming .json markups file
 
 **Topic ID**: 30610

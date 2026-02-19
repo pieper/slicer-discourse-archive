@@ -1,3 +1,10 @@
+---
+topic_id: 25129
+title: "How To Add An Observer To The Sequence Browser Of Module Seq"
+date: 2022-09-07
+url: https://discourse.slicer.org/t/25129
+---
+
 # How to add an observer to the Sequence-Browser of module Sequences?
 
 **Topic ID**: 25129

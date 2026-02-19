@@ -1,3 +1,10 @@
+---
+topic_id: 29923
+title: "Pw 39 Project Page Update Presenter Location"
+date: 2023-06-08
+url: https://discourse.slicer.org/t/29923
+---
+
 # PW 39 Project Page Update: Presenter Location
 
 **Topic ID**: 29923

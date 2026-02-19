@@ -1,3 +1,10 @@
+---
+topic_id: 6654
+title: "Dicom Import Failed"
+date: 2019-04-30
+url: https://discourse.slicer.org/t/6654
+---
+
 # DICOM import failed
 
 **Topic ID**: 6654

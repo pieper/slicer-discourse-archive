@@ -1,3 +1,10 @@
+---
+topic_id: 9690
+title: "Data Scientist At Mayo Clinic"
+date: 2020-01-02
+url: https://discourse.slicer.org/t/9690
+---
+
 # Data Scientist at Mayo Clinic
 
 **Topic ID**: 9690

@@ -1,3 +1,10 @@
+---
+topic_id: 25849
+title: "How Does 3Dslicer Compile Offline Locally"
+date: 2022-10-23
+url: https://discourse.slicer.org/t/25849
+---
+
 # How does 3Dslicer compile offline locally
 
 **Topic ID**: 25849

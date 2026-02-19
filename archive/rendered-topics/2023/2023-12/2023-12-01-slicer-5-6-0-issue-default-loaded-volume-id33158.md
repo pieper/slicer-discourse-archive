@@ -1,3 +1,10 @@
+---
+topic_id: 33158
+title: "Slicer 5 6 0 Issue Default Loaded Volume"
+date: 2023-12-01
+url: https://discourse.slicer.org/t/33158
+---
+
 # Slicer 5.6.0 issue default loaded volume
 
 **Topic ID**: 33158

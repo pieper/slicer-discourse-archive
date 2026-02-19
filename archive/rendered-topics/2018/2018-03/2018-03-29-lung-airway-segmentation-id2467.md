@@ -1,3 +1,10 @@
+---
+topic_id: 2467
+title: "Lung Airway Segmentation"
+date: 2018-03-29
+url: https://discourse.slicer.org/t/2467
+---
+
 # Lung airway segmentation
 
 **Topic ID**: 2467

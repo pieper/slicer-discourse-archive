@@ -1,3 +1,10 @@
+---
+topic_id: 34879
+title: "Converting Ply Mesh To 3Mf"
+date: 2024-03-13
+url: https://discourse.slicer.org/t/34879
+---
+
 # Converting PLY Mesh to 3mf
 
 **Topic ID**: 34879

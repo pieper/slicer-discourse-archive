@@ -1,3 +1,10 @@
+---
+topic_id: 8318
+title: "2D View Slice Intensity Doesnt Correspond To Python Array Va"
+date: 2019-09-06
+url: https://discourse.slicer.org/t/8318
+---
+
 # 2D View slice intensity doesn't correspond to python array value（Confusion）
 
 **Topic ID**: 8318

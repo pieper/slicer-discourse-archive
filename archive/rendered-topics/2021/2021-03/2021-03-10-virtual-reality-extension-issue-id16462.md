@@ -1,3 +1,10 @@
+---
+topic_id: 16462
+title: "Virtual Reality Extension Issue"
+date: 2021-03-10
+url: https://discourse.slicer.org/t/16462
+---
+
 # Virtual Reality extension issue
 
 **Topic ID**: 16462

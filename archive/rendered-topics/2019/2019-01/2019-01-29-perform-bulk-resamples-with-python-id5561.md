@@ -1,3 +1,10 @@
+---
+topic_id: 5561
+title: "Perform Bulk Resamples With Python"
+date: 2019-01-29
+url: https://discourse.slicer.org/t/5561
+---
+
 # Perform bulk resamples with python
 
 **Topic ID**: 5561

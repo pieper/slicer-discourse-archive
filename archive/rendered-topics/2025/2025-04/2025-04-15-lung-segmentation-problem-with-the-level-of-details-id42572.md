@@ -1,3 +1,10 @@
+---
+topic_id: 42572
+title: "Lung Segmentation Problem With The Level Of Details"
+date: 2025-04-15
+url: https://discourse.slicer.org/t/42572
+---
+
 # Lung Segmentation Problem with the level of details
 
 **Topic ID**: 42572

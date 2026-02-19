@@ -1,3 +1,10 @@
+---
+topic_id: 11358
+title: "Invalid Nifti Orientation Reported"
+date: 2020-04-30
+url: https://discourse.slicer.org/t/11358
+---
+
 # Invalid NIFTI Orientation Reported
 
 **Topic ID**: 11358

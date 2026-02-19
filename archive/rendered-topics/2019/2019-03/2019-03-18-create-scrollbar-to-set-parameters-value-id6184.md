@@ -1,3 +1,10 @@
+---
+topic_id: 6184
+title: "Create Scrollbar To Set Parameters Value"
+date: 2019-03-18
+url: https://discourse.slicer.org/t/6184
+---
+
 # Create scrollbar to set parameters value
 
 **Topic ID**: 6184

@@ -1,3 +1,10 @@
+---
+topic_id: 15545
+title: "Change Focus Of Camera In 3D View"
+date: 2021-01-15
+url: https://discourse.slicer.org/t/15545
+---
+
 # Change focus of camera in 3D view
 
 **Topic ID**: 15545

@@ -1,3 +1,10 @@
+---
+topic_id: 13214
+title: "Problem With Extracting Secondary Features"
+date: 2020-08-28
+url: https://discourse.slicer.org/t/13214
+---
+
 # Problem with extracting secondary features
 
 **Topic ID**: 13214

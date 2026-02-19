@@ -1,3 +1,10 @@
+---
+topic_id: 8408
+title: "Filling Up Mri Missing Voxels In Cortical Region"
+date: 2019-09-12
+url: https://discourse.slicer.org/t/8408
+---
+
 # Filling up MRI missing voxels in cortical region
 
 **Topic ID**: 8408

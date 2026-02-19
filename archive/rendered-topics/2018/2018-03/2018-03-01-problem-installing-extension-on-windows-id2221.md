@@ -1,3 +1,10 @@
+---
+topic_id: 2221
+title: "Problem Installing Extension On Windows"
+date: 2018-03-01
+url: https://discourse.slicer.org/t/2221
+---
+
 # Problem installing extension on windows
 
 **Topic ID**: 2221

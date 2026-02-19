@@ -1,3 +1,10 @@
+---
+topic_id: 1226
+title: "Add 3D Objects Lines Planes Based On Dicom Point Positions"
+date: 2017-10-14
+url: https://discourse.slicer.org/t/1226
+---
+
 # Add 3D objects: lines planes, based on DICOM point positions?
 
 **Topic ID**: 1226

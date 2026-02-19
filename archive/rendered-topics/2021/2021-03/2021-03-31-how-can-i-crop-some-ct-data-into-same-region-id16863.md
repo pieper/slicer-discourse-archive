@@ -1,3 +1,10 @@
+---
+topic_id: 16863
+title: "How Can I Crop Some Ct Data Into Same Region"
+date: 2021-03-31
+url: https://discourse.slicer.org/t/16863
+---
+
 # How can I crop some CT data into same region?
 
 **Topic ID**: 16863

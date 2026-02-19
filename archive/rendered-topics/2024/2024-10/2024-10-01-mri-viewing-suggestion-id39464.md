@@ -1,3 +1,10 @@
+---
+topic_id: 39464
+title: "Mri Viewing Suggestion"
+date: 2024-10-01
+url: https://discourse.slicer.org/t/39464
+---
+
 # MRI viewing suggestion
 
 **Topic ID**: 39464

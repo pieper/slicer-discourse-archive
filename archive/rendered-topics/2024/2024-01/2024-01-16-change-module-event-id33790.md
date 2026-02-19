@@ -1,3 +1,10 @@
+---
+topic_id: 33790
+title: "Change Module Event"
+date: 2024-01-16
+url: https://discourse.slicer.org/t/33790
+---
+
 # Change module event
 
 **Topic ID**: 33790

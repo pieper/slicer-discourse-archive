@@ -1,3 +1,10 @@
+---
+topic_id: 11440
+title: "How To Create Update Ts Qt Translation Files"
+date: 2020-05-07
+url: https://discourse.slicer.org/t/11440
+---
+
 # How to create/update ts (qt translation) files?
 
 **Topic ID**: 11440

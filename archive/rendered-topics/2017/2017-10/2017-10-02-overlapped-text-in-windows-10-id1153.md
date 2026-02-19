@@ -1,3 +1,10 @@
+---
+topic_id: 1153
+title: "Overlapped Text In Windows 10"
+date: 2017-10-02
+url: https://discourse.slicer.org/t/1153
+---
+
 # Overlapped text in Windows 10
 
 **Topic ID**: 1153

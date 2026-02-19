@@ -1,3 +1,10 @@
+---
+topic_id: 5902
+title: "Bad Defines In Archive Pack Dev C"
+date: 2019-02-24
+url: https://discourse.slicer.org/t/5902
+---
+
 # Bad defines in archive_pack_dev.c
 
 **Topic ID**: 5902

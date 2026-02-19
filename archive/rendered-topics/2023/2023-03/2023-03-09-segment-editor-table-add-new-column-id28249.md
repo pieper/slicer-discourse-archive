@@ -1,3 +1,10 @@
+---
+topic_id: 28249
+title: "Segment Editor Table Add New Column"
+date: 2023-03-09
+url: https://discourse.slicer.org/t/28249
+---
+
 # Segment editor table add new column
 
 **Topic ID**: 28249

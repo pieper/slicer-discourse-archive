@@ -1,3 +1,10 @@
+---
+topic_id: 6326
+title: "Failure To Open Quadbuffer"
+date: 2019-03-28
+url: https://discourse.slicer.org/t/6326
+---
+
 # Failure to open QuadBuffer
 
 **Topic ID**: 6326

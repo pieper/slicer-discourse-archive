@@ -1,3 +1,10 @@
+---
+topic_id: 41071
+title: "Vtk Error With Vector Images"
+date: 2025-01-14
+url: https://discourse.slicer.org/t/41071
+---
+
 # VTK error with vector images
 
 **Topic ID**: 41071

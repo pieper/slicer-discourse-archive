@@ -1,3 +1,10 @@
+---
+topic_id: 33107
+title: "Merging Mutliples Dcm Slices Into One File"
+date: 2023-11-29
+url: https://discourse.slicer.org/t/33107
+---
+
 # Merging mutliples dcm slices into one file
 
 **Topic ID**: 33107

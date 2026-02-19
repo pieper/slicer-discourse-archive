@@ -1,3 +1,10 @@
+---
+topic_id: 17467
+title: "The Slice View Is Of Different Intensity Than The Actual Obj"
+date: 2021-05-05
+url: https://discourse.slicer.org/t/17467
+---
+
 # The Slice view is of different intensity than the actual object
 
 **Topic ID**: 17467

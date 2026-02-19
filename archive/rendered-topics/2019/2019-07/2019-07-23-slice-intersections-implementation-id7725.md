@@ -1,3 +1,10 @@
+---
+topic_id: 7725
+title: "Slice Intersections Implementation"
+date: 2019-07-23
+url: https://discourse.slicer.org/t/7725
+---
+
 # Slice intersections implementation
 
 **Topic ID**: 7725

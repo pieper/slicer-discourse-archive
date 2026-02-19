@@ -1,3 +1,10 @@
+---
+topic_id: 21886
+title: "How To Programmatically Use Zoom In And Zoom Out To Properly"
+date: 2022-02-10
+url: https://discourse.slicer.org/t/21886
+---
+
 # How to programmatically use zoom in and zoom out to properly adjust the volume size of the 3D view?
 
 **Topic ID**: 21886

@@ -1,3 +1,10 @@
+---
+topic_id: 13881
+title: "Intrepreting Model To Model Distance Results"
+date: 2020-10-06
+url: https://discourse.slicer.org/t/13881
+---
+
 # Intrepreting Model to model distance results
 
 **Topic ID**: 13881

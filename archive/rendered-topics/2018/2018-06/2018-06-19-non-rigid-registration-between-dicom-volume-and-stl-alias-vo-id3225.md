@@ -1,3 +1,10 @@
+---
+topic_id: 3225
+title: "Non Rigid Registration Between Dicom Volume And Stl Alias Vo"
+date: 2018-06-19
+url: https://discourse.slicer.org/t/3225
+---
+
 # Non-rigid registration between DICOM volume and .stl alias volume
 
 **Topic ID**: 3225

@@ -1,3 +1,10 @@
+---
+topic_id: 3293
+title: "Switching Between Mris"
+date: 2018-06-25
+url: https://discourse.slicer.org/t/3293
+---
+
 # Switching between MRIs
 
 **Topic ID**: 3293

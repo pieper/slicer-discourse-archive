@@ -1,3 +1,10 @@
+---
+topic_id: 2239
+title: "Gui Libraries And Licenses"
+date: 2018-03-05
+url: https://discourse.slicer.org/t/2239
+---
+
 # GUI libraries and licenses
 
 **Topic ID**: 2239

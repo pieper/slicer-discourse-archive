@@ -1,3 +1,10 @@
+---
+topic_id: 45000
+title: "Error While Trying To Import Nrrd And Dicom Into 3D Slicer"
+date: 2025-11-08
+url: https://discourse.slicer.org/t/45000
+---
+
 # Error while trying to import NRRD and DICOM into 3D Slicer
 
 **Topic ID**: 45000

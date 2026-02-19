@@ -1,3 +1,10 @@
+---
+topic_id: 16490
+title: "The Sequence Module"
+date: 2021-03-12
+url: https://discourse.slicer.org/t/16490
+---
+
 # The sequence module
 
 **Topic ID**: 16490

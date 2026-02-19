@@ -1,3 +1,10 @@
+---
+topic_id: 19254
+title: "How To Project Fiducials On The Other Side Of A Symmetry Pla"
+date: 2021-08-18
+url: https://discourse.slicer.org/t/19254
+---
+
 # How to project fiducials on the other side of a symmetry plane ?
 
 **Topic ID**: 19254

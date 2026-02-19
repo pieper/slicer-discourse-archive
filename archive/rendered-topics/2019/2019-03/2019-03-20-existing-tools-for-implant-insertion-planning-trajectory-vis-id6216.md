@@ -1,3 +1,10 @@
+---
+topic_id: 6216
+title: "Existing Tools For Implant Insertion Planning Trajectory Vis"
+date: 2019-03-20
+url: https://discourse.slicer.org/t/6216
+---
+
 # Existing tools for implant insertion planning, trajectory visualization?
 
 **Topic ID**: 6216

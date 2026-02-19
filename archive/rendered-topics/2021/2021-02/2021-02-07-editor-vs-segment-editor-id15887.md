@@ -1,3 +1,10 @@
+---
+topic_id: 15887
+title: "Editor Vs Segment Editor"
+date: 2021-02-07
+url: https://discourse.slicer.org/t/15887
+---
+
 # Editor vs Segment Editor
 
 **Topic ID**: 15887

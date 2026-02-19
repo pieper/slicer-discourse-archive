@@ -1,3 +1,10 @@
+---
+topic_id: 36995
+title: "Total Segmentator Successful But No Tumor Imaging"
+date: 2024-06-25
+url: https://discourse.slicer.org/t/36995
+---
+
 # Total segmentator successful but no tumor imaging
 
 **Topic ID**: 36995

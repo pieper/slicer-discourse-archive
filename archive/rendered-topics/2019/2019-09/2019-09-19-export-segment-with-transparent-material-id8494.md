@@ -1,3 +1,10 @@
+---
+topic_id: 8494
+title: "Export Segment With Transparent Material"
+date: 2019-09-19
+url: https://discourse.slicer.org/t/8494
+---
+
 # Export segment with transparent material
 
 **Topic ID**: 8494

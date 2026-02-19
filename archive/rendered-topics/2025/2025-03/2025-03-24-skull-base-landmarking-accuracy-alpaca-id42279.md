@@ -1,3 +1,10 @@
+---
+topic_id: 42279
+title: "Skull Base Landmarking Accuracy Alpaca"
+date: 2025-03-24
+url: https://discourse.slicer.org/t/42279
+---
+
 # Skull base landmarking accuracy ALPACA
 
 **Topic ID**: 42279

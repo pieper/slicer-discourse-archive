@@ -1,3 +1,10 @@
+---
+topic_id: 41965
+title: "How To Resample Grids"
+date: 2025-03-04
+url: https://discourse.slicer.org/t/41965
+---
+
 # How to resample Grids
 
 **Topic ID**: 41965

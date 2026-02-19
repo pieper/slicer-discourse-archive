@@ -1,3 +1,10 @@
+---
+topic_id: 10736
+title: "Replace Scripted Module Template By Scripteddesigner"
+date: 2020-03-18
+url: https://discourse.slicer.org/t/10736
+---
+
 # Replace scripted module template by scripteddesigner
 
 **Topic ID**: 10736

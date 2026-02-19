@@ -1,3 +1,10 @@
+---
+topic_id: 21980
+title: "Slice View Zoom In And Out"
+date: 2022-02-15
+url: https://discourse.slicer.org/t/21980
+---
+
 # Slice View Zoom in and out
 
 **Topic ID**: 21980

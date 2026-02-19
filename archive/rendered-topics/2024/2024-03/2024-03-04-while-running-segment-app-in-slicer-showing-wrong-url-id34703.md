@@ -1,3 +1,10 @@
+---
+topic_id: 34703
+title: "While Running Segment App In Slicer Showing Wrong Url"
+date: 2024-03-04
+url: https://discourse.slicer.org/t/34703
+---
+
 # While running segment app in slicer, showing wrong url
 
 **Topic ID**: 34703

@@ -1,3 +1,10 @@
+---
+topic_id: 7545
+title: "Simplify Slicer Or Remove Some Modules From Slicer"
+date: 2019-07-12
+url: https://discourse.slicer.org/t/7545
+---
+
 # Simplify Slicer or Remove some modules from Slicer
 
 **Topic ID**: 7545

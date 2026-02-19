@@ -1,3 +1,10 @@
+---
+topic_id: 34697
+title: "Change Default Destination Folder In Export To Files From Se"
+date: 2024-03-04
+url: https://discourse.slicer.org/t/34697
+---
+
 # Change default destination folder in Export to files from segmentations module with python
 
 **Topic ID**: 34697

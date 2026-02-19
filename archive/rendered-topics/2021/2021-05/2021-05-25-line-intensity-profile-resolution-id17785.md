@@ -1,3 +1,10 @@
+---
+topic_id: 17785
+title: "Line Intensity Profile Resolution"
+date: 2021-05-25
+url: https://discourse.slicer.org/t/17785
+---
+
 # Line Intensity profile resolution
 
 **Topic ID**: 17785

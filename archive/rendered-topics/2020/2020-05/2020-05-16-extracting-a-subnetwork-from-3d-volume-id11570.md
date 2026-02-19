@@ -1,3 +1,10 @@
+---
+topic_id: 11570
+title: "Extracting A Subnetwork From 3D Volume"
+date: 2020-05-16
+url: https://discourse.slicer.org/t/11570
+---
+
 # Extracting a subnetwork from 3D volume
 
 **Topic ID**: 11570

@@ -1,3 +1,10 @@
+---
+topic_id: 17043
+title: "How Do I Use Getlogbiasfieldasimage In C"
+date: 2021-04-12
+url: https://discourse.slicer.org/t/17043
+---
+
 # How do I use GetLogBiasFieldAsImage in c#?
 
 **Topic ID**: 17043

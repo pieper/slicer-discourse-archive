@@ -1,3 +1,10 @@
+---
+topic_id: 41837
+title: "Ct Scan Can Anyone Read These"
+date: 2025-02-22
+url: https://discourse.slicer.org/t/41837
+---
+
 # CT scan can anyone read these ?
 
 **Topic ID**: 41837

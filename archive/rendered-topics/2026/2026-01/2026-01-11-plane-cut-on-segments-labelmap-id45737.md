@@ -1,3 +1,10 @@
+---
+topic_id: 45737
+title: "Plane Cut On Segments Labelmap"
+date: 2026-01-11
+url: https://discourse.slicer.org/t/45737
+---
+
 # Plane-Cut on segment's labelmap
 
 **Topic ID**: 45737

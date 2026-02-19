@@ -1,3 +1,10 @@
+---
+topic_id: 8432
+title: "Cut 3D Surface From The Whole With Accuracy"
+date: 2019-09-14
+url: https://discourse.slicer.org/t/8432
+---
+
 # Cut 3d surface from the whole with accuracy
 
 **Topic ID**: 8432

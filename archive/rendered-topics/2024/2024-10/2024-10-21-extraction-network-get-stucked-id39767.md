@@ -1,3 +1,10 @@
+---
+topic_id: 39767
+title: "Extraction Network Get Stucked"
+date: 2024-10-21
+url: https://discourse.slicer.org/t/39767
+---
+
 # Extraction network get stucked
 
 **Topic ID**: 39767

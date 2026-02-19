@@ -1,3 +1,10 @@
+---
+topic_id: 3469
+title: "Extension Not Available In Nightly"
+date: 2018-07-12
+url: https://discourse.slicer.org/t/3469
+---
+
 # Extension not available in Nightly
 
 **Topic ID**: 3469

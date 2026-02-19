@@ -1,3 +1,10 @@
+---
+topic_id: 11355
+title: "Cannot Found Attribute Vtkmrmlsegmenteditornode"
+date: 2020-04-29
+url: https://discourse.slicer.org/t/11355
+---
+
 # Cannot found attribute 'vtkMRMLSegmentEditorNode'
 
 **Topic ID**: 11355

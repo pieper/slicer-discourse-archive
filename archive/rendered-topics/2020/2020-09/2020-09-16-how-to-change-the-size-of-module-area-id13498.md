@@ -1,3 +1,10 @@
+---
+topic_id: 13498
+title: "How To Change The Size Of Module Area"
+date: 2020-09-16
+url: https://discourse.slicer.org/t/13498
+---
+
 # How to change the size of module area?
 
 **Topic ID**: 13498

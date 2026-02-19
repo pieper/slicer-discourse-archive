@@ -1,3 +1,10 @@
+---
+topic_id: 38495
+title: "Slicer Vr Htc Vive Focus 3"
+date: 2024-09-23
+url: https://discourse.slicer.org/t/38495
+---
+
 # Slicer vr + htc vive focus 3
 
 **Topic ID**: 38495

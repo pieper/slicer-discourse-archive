@@ -1,3 +1,10 @@
+---
+topic_id: 15387
+title: "Determine If A Transform Node Contains Actual Transformation"
+date: 2021-01-07
+url: https://discourse.slicer.org/t/15387
+---
+
 # Determine if a transform node contains actual transformation or is identity
 
 **Topic ID**: 15387

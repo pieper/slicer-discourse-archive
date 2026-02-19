@@ -1,3 +1,10 @@
+---
+topic_id: 8439
+title: "Segment Resolution Changes After Subtraction"
+date: 2019-09-12
+url: https://discourse.slicer.org/t/8439
+---
+
 # Segment resolution changes after subtraction
 
 **Topic ID**: 8439

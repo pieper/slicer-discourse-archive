@@ -1,3 +1,10 @@
+---
+topic_id: 44990
+title: "Export Linear Measurements As A Table"
+date: 2025-11-07
+url: https://discourse.slicer.org/t/44990
+---
+
 # Export linear measurements as a table
 
 **Topic ID**: 44990

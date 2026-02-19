@@ -1,3 +1,10 @@
+---
+topic_id: 43954
+title: "Qlineedit In Extension Ui Cursor Jumping To End Of Line Bug"
+date: 2025-08-04
+url: https://discourse.slicer.org/t/43954
+---
+
 # QLineEdit in extension UI: Cursor jumping to end of line (bug?)
 
 **Topic ID**: 43954

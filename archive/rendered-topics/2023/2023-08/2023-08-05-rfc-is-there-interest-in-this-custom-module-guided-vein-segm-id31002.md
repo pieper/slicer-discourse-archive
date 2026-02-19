@@ -1,3 +1,10 @@
+---
+topic_id: 31002
+title: "Rfc Is There Interest In This Custom Module Guided Vein Segm"
+date: 2023-08-05
+url: https://discourse.slicer.org/t/31002
+---
+
 # RFC : is there interest in this custom module - Guided vein segmentation
 
 **Topic ID**: 31002

@@ -1,3 +1,10 @@
+---
+topic_id: 43607
+title: "Extracting Implants Model Form Ct Scan"
+date: 2025-07-04
+url: https://discourse.slicer.org/t/43607
+---
+
 # Extracting Implants model form CT scan
 
 **Topic ID**: 43607

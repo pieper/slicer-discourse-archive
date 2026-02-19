@@ -1,3 +1,10 @@
+---
+topic_id: 11319
+title: "Does Slicerrt Do Pixel Level Testing Of Rt Struct Loading"
+date: 2020-04-27
+url: https://discourse.slicer.org/t/11319
+---
+
 # Does SlicerRT do pixel level testing of RT Struct loading?
 
 **Topic ID**: 11319

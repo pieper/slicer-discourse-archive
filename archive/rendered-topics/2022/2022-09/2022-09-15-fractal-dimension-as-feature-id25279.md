@@ -1,3 +1,10 @@
+---
+topic_id: 25279
+title: "Fractal Dimension As Feature"
+date: 2022-09-15
+url: https://discourse.slicer.org/t/25279
+---
+
 # Fractal Dimension as feature
 
 **Topic ID**: 25279

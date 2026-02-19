@@ -1,3 +1,10 @@
+---
+topic_id: 15597
+title: "How To Install Slicerdrrgenerator Extension In To Slicer"
+date: 2021-01-19
+url: https://discourse.slicer.org/t/15597
+---
+
 # How to install SlicerDRRGenerator extension in to Slicer
 
 **Topic ID**: 15597

@@ -1,3 +1,10 @@
+---
+topic_id: 22852
+title: "Nci Imaging Data Commons April 2022 Release"
+date: 2022-04-06
+url: https://discourse.slicer.org/t/22852
+---
+
 # NCI Imaging Data Commons April 2022 release
 
 **Topic ID**: 22852

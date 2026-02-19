@@ -1,3 +1,10 @@
+---
+topic_id: 4998
+title: "How To Write A Recursive Script To Crop Volumes With Roi"
+date: 2018-12-06
+url: https://discourse.slicer.org/t/4998
+---
+
 # How to write a recursive script to crop volumes with ROI?
 
 **Topic ID**: 4998

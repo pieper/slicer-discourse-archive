@@ -1,3 +1,10 @@
+---
+topic_id: 9767
+title: "Save Mesh Vtk Without Cleaver Background Mesh"
+date: 2020-01-10
+url: https://discourse.slicer.org/t/9767
+---
+
 # Save Mesh VTK without Cleaver Background Mesh
 
 **Topic ID**: 9767

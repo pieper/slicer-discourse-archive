@@ -1,3 +1,10 @@
+---
+topic_id: 35121
+title: "Example Jupyter Notebook Not Compatible With Slicer 5 6"
+date: 2024-03-27
+url: https://discourse.slicer.org/t/35121
+---
+
 # Example Jupyter notebook not compatible with slicer 5.6
 
 **Topic ID**: 35121

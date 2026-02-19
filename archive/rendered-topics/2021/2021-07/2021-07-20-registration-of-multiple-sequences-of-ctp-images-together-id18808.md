@@ -1,3 +1,10 @@
+---
+topic_id: 18808
+title: "Registration Of Multiple Sequences Of Ctp Images Together"
+date: 2021-07-20
+url: https://discourse.slicer.org/t/18808
+---
+
 # Registration of multiple sequences of CTP images together
 
 **Topic ID**: 18808

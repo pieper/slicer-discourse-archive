@@ -1,3 +1,10 @@
+---
+topic_id: 15570
+title: "Build On Macos 11 Fails In The Middle After Building Vtkpyth"
+date: 2021-01-17
+url: https://discourse.slicer.org/t/15570
+---
+
 # Build on macOS 11 fails in the middle (after building vtkpython)
 
 **Topic ID**: 15570

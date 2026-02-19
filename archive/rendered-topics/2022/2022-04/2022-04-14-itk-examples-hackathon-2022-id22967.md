@@ -1,3 +1,10 @@
+---
+topic_id: 22967
+title: "Itk Examples Hackathon 2022"
+date: 2022-04-14
+url: https://discourse.slicer.org/t/22967
+---
+
 # ITK Examples Hackathon 2022
 
 **Topic ID**: 22967

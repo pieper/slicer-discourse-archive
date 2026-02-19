@@ -1,3 +1,10 @@
+---
+topic_id: 7854
+title: "Real Time Visualization"
+date: 2019-08-02
+url: https://discourse.slicer.org/t/7854
+---
+
 # Real Time Visualization
 
 **Topic ID**: 7854

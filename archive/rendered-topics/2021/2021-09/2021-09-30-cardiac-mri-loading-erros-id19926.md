@@ -1,3 +1,10 @@
+---
+topic_id: 19926
+title: "Cardiac Mri Loading Erros"
+date: 2021-09-30
+url: https://discourse.slicer.org/t/19926
+---
+
 # Cardiac MRI loading erros
 
 **Topic ID**: 19926

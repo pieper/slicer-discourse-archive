@@ -1,3 +1,10 @@
+---
+topic_id: 12804
+title: "How To Display Scale Next To A Lookup Table"
+date: 2020-07-31
+url: https://discourse.slicer.org/t/12804
+---
+
 # How to display scale next to a lookup table
 
 **Topic ID**: 12804

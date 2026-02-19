@@ -1,3 +1,10 @@
+---
+topic_id: 45362
+title: "How To Get The Ijk Coordinate Of A Fiducial Node In 3D Slice"
+date: 2025-12-04
+url: https://discourse.slicer.org/t/45362
+---
+
 # How to get the IJK coordinate of a fiducial node in 3d slicer development
 
 **Topic ID**: 45362

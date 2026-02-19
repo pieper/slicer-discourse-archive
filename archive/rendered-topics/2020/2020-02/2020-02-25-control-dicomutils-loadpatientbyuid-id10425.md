@@ -1,3 +1,10 @@
+---
+topic_id: 10425
+title: "Control Dicomutils Loadpatientbyuid"
+date: 2020-02-25
+url: https://discourse.slicer.org/t/10425
+---
+
 # Control DICOMUtils.loadPatientByUID
 
 **Topic ID**: 10425

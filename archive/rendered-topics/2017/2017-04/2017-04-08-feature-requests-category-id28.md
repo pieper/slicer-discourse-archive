@@ -1,3 +1,10 @@
+---
+topic_id: 28
+title: "Feature Requests Category"
+date: 2017-04-08
+url: https://discourse.slicer.org/t/28
+---
+
 # Feature requests category
 
 **Topic ID**: 28

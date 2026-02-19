@@ -1,3 +1,10 @@
+---
+topic_id: 5597
+title: "How To Load New Volume While Keeping The View Parameters Suc"
+date: 2019-01-31
+url: https://discourse.slicer.org/t/5597
+---
+
 # How to load new volume while keeping the view parameters, such as 3D orientation, 2D slice number?
 
 **Topic ID**: 5597

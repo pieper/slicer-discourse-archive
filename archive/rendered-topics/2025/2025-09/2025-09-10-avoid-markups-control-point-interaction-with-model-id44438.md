@@ -1,3 +1,10 @@
+---
+topic_id: 44438
+title: "Avoid Markups Control Point Interaction With Model"
+date: 2025-09-10
+url: https://discourse.slicer.org/t/44438
+---
+
 # Avoid markup's control point interaction with model
 
 **Topic ID**: 44438

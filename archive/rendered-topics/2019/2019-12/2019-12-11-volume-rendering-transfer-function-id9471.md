@@ -1,3 +1,10 @@
+---
+topic_id: 9471
+title: "Volume Rendering Transfer Function"
+date: 2019-12-11
+url: https://discourse.slicer.org/t/9471
+---
+
 # Volume rendering transfer function
 
 **Topic ID**: 9471

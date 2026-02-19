@@ -1,3 +1,10 @@
+---
+topic_id: 12739
+title: "Problem In Editor Module"
+date: 2020-07-27
+url: https://discourse.slicer.org/t/12739
+---
+
 # Problem in Editor module
 
 **Topic ID**: 12739

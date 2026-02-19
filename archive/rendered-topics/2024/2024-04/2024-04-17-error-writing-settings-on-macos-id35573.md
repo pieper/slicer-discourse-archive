@@ -1,3 +1,10 @@
+---
+topic_id: 35573
+title: "Error Writing Settings On Macos"
+date: 2024-04-17
+url: https://discourse.slicer.org/t/35573
+---
+
 # Error writing settings on MacOS
 
 **Topic ID**: 35573

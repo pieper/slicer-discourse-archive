@@ -1,3 +1,10 @@
+---
+topic_id: 5970
+title: "Determining Diameter And Lengths Of Blood Vessel"
+date: 2019-02-28
+url: https://discourse.slicer.org/t/5970
+---
+
 # Determining diameter and lengths of blood vessel
 
 **Topic ID**: 5970

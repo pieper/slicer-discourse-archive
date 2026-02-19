@@ -1,3 +1,10 @@
+---
+topic_id: 13507
+title: "How To Automatically Segment Bones From Dicom"
+date: 2020-09-16
+url: https://discourse.slicer.org/t/13507
+---
+
 # how to automatically segment bones from dicom
 
 **Topic ID**: 13507

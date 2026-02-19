@@ -1,3 +1,10 @@
+---
+topic_id: 41369
+title: "Proposal For Dental Segmentator"
+date: 2025-01-30
+url: https://discourse.slicer.org/t/41369
+---
+
 # Proposal for dental segmentator
 
 **Topic ID**: 41369

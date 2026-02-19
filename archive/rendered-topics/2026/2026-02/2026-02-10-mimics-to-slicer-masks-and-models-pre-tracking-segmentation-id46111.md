@@ -1,3 +1,10 @@
+---
+topic_id: 46111
+title: "Mimics To Slicer Masks And Models Pre Tracking Segmentation"
+date: 2026-02-10
+url: https://discourse.slicer.org/t/46111
+---
+
 # Mimics to Slicer Masks and Models - Pre-Tracking Segmentation
 
 **Topic ID**: 46111

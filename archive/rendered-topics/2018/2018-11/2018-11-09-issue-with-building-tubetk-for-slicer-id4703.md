@@ -1,3 +1,10 @@
+---
+topic_id: 4703
+title: "Issue With Building Tubetk For Slicer"
+date: 2018-11-09
+url: https://discourse.slicer.org/t/4703
+---
+
 # Issue with building TubeTK for Slicer
 
 **Topic ID**: 4703

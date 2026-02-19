@@ -1,3 +1,10 @@
+---
+topic_id: 16082
+title: "Drawing Circle In The 3D Slicer"
+date: 2021-02-19
+url: https://discourse.slicer.org/t/16082
+---
+
 # Drawing circle in the 3D slicer
 
 **Topic ID**: 16082

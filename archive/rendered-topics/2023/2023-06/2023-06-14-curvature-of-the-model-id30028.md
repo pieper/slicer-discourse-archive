@@ -1,3 +1,10 @@
+---
+topic_id: 30028
+title: "Curvature Of The Model"
+date: 2023-06-14
+url: https://discourse.slicer.org/t/30028
+---
+
 # Curvature of the model
 
 **Topic ID**: 30028

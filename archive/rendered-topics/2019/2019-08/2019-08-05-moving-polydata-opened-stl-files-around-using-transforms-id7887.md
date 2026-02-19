@@ -1,3 +1,10 @@
+---
+topic_id: 7887
+title: "Moving Polydata Opened Stl Files Around Using Transforms"
+date: 2019-08-05
+url: https://discourse.slicer.org/t/7887
+---
+
 # Moving polydata (opened .stl files) around using transforms
 
 **Topic ID**: 7887

@@ -1,3 +1,10 @@
+---
+topic_id: 41504
+title: "How To Programmatically Set Terminology Name And Category Fo"
+date: 2025-02-05
+url: https://discourse.slicer.org/t/41504
+---
+
 # How to programmatically set Terminology Name and Category for vtkMRMLSegmentationNode?
 
 **Topic ID**: 41504

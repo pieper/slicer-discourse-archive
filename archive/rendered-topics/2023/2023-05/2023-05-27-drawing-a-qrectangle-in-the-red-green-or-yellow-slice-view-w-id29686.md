@@ -1,3 +1,10 @@
+---
+topic_id: 29686
+title: "Drawing A Qrectangle In The Red Green Or Yellow Slice View W"
+date: 2023-05-27
+url: https://discourse.slicer.org/t/29686
+---
+
 # Drawing a QRectangle in the Red, Green, or Yellow Slice View Windows
 
 **Topic ID**: 29686

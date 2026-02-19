@@ -1,3 +1,10 @@
+---
+topic_id: 34364
+title: "Slicer 3D View Not Displaying Labels Of Markup Curves Proper"
+date: 2024-02-16
+url: https://discourse.slicer.org/t/34364
+---
+
 # Slicer 3D view not displaying labels of markup curves properly
 
 **Topic ID**: 34364

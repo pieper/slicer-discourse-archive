@@ -1,3 +1,10 @@
+---
+topic_id: 38292
+title: "Can You Change The Dimensions Of An Image"
+date: 2024-09-09
+url: https://discourse.slicer.org/t/38292
+---
+
 # Can you change the dimensions of an image?
 
 **Topic ID**: 38292

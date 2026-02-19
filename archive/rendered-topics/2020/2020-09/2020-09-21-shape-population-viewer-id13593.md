@@ -1,3 +1,10 @@
+---
+topic_id: 13593
+title: "Shape Population Viewer"
+date: 2020-09-21
+url: https://discourse.slicer.org/t/13593
+---
+
 # Shape Population Viewer
 
 **Topic ID**: 13593

@@ -1,3 +1,10 @@
+---
+topic_id: 10828
+title: "Right Atrial Segmetnation"
+date: 2020-03-25
+url: https://discourse.slicer.org/t/10828
+---
+
 # Right atrial Segmetnation ?
 
 **Topic ID**: 10828

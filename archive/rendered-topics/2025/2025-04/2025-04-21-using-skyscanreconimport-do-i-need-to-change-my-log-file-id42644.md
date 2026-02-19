@@ -1,3 +1,10 @@
+---
+topic_id: 42644
+title: "Using Skyscanreconimport Do I Need To Change My Log File"
+date: 2025-04-21
+url: https://discourse.slicer.org/t/42644
+---
+
 # Using SkyScanReconImport - do I need to change my .log file?
 
 **Topic ID**: 42644

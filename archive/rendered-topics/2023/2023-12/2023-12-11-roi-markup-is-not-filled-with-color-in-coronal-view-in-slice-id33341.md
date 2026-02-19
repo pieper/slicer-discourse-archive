@@ -1,3 +1,10 @@
+---
+topic_id: 33341
+title: "Roi Markup Is Not Filled With Color In Coronal View In Slice"
+date: 2023-12-11
+url: https://discourse.slicer.org/t/33341
+---
+
 # ROI markup is not filled with color in coronal view in Slicer 5.6.0
 
 **Topic ID**: 33341

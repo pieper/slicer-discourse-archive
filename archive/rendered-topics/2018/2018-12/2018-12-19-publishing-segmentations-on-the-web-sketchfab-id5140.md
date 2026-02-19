@@ -1,3 +1,10 @@
+---
+topic_id: 5140
+title: "Publishing Segmentations On The Web Sketchfab"
+date: 2018-12-19
+url: https://discourse.slicer.org/t/5140
+---
+
 # Publishing segmentations on the web (sketchfab)
 
 **Topic ID**: 5140

@@ -1,3 +1,10 @@
+---
+topic_id: 23955
+title: "How To Export A Red Slice View While Keeping The Pixel Value"
+date: 2022-06-20
+url: https://discourse.slicer.org/t/23955
+---
+
 # How to export a red slice view while keeping the pixel value according to the Color Scalar Bar?
 
 **Topic ID**: 23955

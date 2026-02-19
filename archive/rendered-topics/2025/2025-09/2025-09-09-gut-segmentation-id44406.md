@@ -1,3 +1,10 @@
+---
+topic_id: 44406
+title: "Gut Segmentation"
+date: 2025-09-09
+url: https://discourse.slicer.org/t/44406
+---
+
 # Gut segmentation
 
 **Topic ID**: 44406

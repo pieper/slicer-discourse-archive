@@ -1,3 +1,10 @@
+---
+topic_id: 12526
+title: "Error Downloading Sampledata"
+date: 2020-07-14
+url: https://discourse.slicer.org/t/12526
+---
+
 # Error downloading SampleData
 
 **Topic ID**: 12526

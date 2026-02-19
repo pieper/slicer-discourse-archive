@@ -1,3 +1,10 @@
+---
+topic_id: 6024
+title: "U Net Deeplearning"
+date: 2019-03-05
+url: https://discourse.slicer.org/t/6024
+---
+
 # U-net DeepLearning
 
 **Topic ID**: 6024

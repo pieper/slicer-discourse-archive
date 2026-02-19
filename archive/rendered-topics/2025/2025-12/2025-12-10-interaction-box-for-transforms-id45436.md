@@ -1,3 +1,10 @@
+---
+topic_id: 45436
+title: "Interaction Box For Transforms"
+date: 2025-12-10
+url: https://discourse.slicer.org/t/45436
+---
+
 # Interaction Box for Transforms
 
 **Topic ID**: 45436

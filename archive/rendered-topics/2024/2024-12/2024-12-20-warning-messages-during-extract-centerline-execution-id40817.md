@@ -1,3 +1,10 @@
+---
+topic_id: 40817
+title: "Warning Messages During Extract Centerline Execution"
+date: 2024-12-20
+url: https://discourse.slicer.org/t/40817
+---
+
 # Warning messages during Extract Centerline Execution
 
 **Topic ID**: 40817

@@ -1,3 +1,10 @@
+---
+topic_id: 4170
+title: "Is There A Way To Build A Macro Script Out Of Segment Editor"
+date: 2018-09-22
+url: https://discourse.slicer.org/t/4170
+---
+
 # Is there a way to build a macro/script out of segment editor steps?
 
 **Topic ID**: 4170

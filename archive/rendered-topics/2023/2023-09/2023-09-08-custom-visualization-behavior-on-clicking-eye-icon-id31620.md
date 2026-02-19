@@ -1,3 +1,10 @@
+---
+topic_id: 31620
+title: "Custom Visualization Behavior On Clicking Eye Icon"
+date: 2023-09-08
+url: https://discourse.slicer.org/t/31620
+---
+
 # Custom visualization behavior on clicking "eye" icon
 
 **Topic ID**: 31620

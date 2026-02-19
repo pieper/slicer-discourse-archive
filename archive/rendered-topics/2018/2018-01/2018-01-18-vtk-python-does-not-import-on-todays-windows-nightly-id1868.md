@@ -1,3 +1,10 @@
+---
+topic_id: 1868
+title: "Vtk Python Does Not Import On Todays Windows Nightly"
+date: 2018-01-18
+url: https://discourse.slicer.org/t/1868
+---
+
 # Vtk python does not import on today's windows nightly
 
 **Topic ID**: 1868

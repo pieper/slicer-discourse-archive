@@ -1,3 +1,10 @@
+---
+topic_id: 25650
+title: "How To Convert Vtkdata To Rgb Data"
+date: 2022-10-12
+url: https://discourse.slicer.org/t/25650
+---
+
 # How to convert vtkData to RGB data?
 
 **Topic ID**: 25650

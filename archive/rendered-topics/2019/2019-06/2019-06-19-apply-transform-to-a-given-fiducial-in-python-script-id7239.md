@@ -1,3 +1,10 @@
+---
+topic_id: 7239
+title: "Apply Transform To A Given Fiducial In Python Script"
+date: 2019-06-19
+url: https://discourse.slicer.org/t/7239
+---
+
 # Apply transform to a given fiducial in Python script
 
 **Topic ID**: 7239

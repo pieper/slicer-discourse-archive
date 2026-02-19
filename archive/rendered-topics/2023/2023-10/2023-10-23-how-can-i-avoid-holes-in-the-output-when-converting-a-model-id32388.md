@@ -1,3 +1,10 @@
+---
+topic_id: 32388
+title: "How Can I Avoid Holes In The Output When Converting A Model"
+date: 2023-10-23
+url: https://discourse.slicer.org/t/32388
+---
+
 # How can I avoid holes in the output when converting a model to segmentation?
 
 **Topic ID**: 32388

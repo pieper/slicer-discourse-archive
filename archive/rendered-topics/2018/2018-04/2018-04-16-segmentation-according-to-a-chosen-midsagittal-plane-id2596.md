@@ -1,3 +1,10 @@
+---
+topic_id: 2596
+title: "Segmentation According To A Chosen Midsagittal Plane"
+date: 2018-04-16
+url: https://discourse.slicer.org/t/2596
+---
+
 # Segmentation according to a chosen midsagittal plane
 
 **Topic ID**: 2596

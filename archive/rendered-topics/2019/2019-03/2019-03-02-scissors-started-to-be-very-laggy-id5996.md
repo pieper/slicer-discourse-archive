@@ -1,3 +1,10 @@
+---
+topic_id: 5996
+title: "Scissors Started To Be Very Laggy"
+date: 2019-03-02
+url: https://discourse.slicer.org/t/5996
+---
+
 # scissors started to be very laggy
 
 **Topic ID**: 5996

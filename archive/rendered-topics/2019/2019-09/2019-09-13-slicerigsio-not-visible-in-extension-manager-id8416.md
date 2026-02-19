@@ -1,3 +1,10 @@
+---
+topic_id: 8416
+title: "Slicerigsio Not Visible In Extension Manager"
+date: 2019-09-13
+url: https://discourse.slicer.org/t/8416
+---
+
 # SlicerIGSIO not visible in Extension Manager
 
 **Topic ID**: 8416

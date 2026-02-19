@@ -1,3 +1,10 @@
+---
+topic_id: 24072
+title: "3D Object Rotates When We Are Perform 3D Center Code In Cpp"
+date: 2022-06-28
+url: https://discourse.slicer.org/t/24072
+---
+
 # 3D object rotates when we are perform 3D center code in CPP
 
 **Topic ID**: 24072

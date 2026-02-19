@@ -1,3 +1,10 @@
+---
+topic_id: 20926
+title: "How To Merge The Module Panel Back Redock To The Screen Afte"
+date: 2021-12-06
+url: https://discourse.slicer.org/t/20926
+---
+
 # How to merge the module panel back/redock to the screen after redocking it?
 
 **Topic ID**: 20926

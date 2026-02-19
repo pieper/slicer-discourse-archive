@@ -1,3 +1,10 @@
+---
+topic_id: 31314
+title: "Periodontal Ligament Pdl Segmentation"
+date: 2023-08-23
+url: https://discourse.slicer.org/t/31314
+---
+
 # Periodontal ligament (PDL) segmentation
 
 **Topic ID**: 31314

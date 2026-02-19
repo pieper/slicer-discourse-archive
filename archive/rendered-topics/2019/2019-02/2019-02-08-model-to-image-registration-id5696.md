@@ -1,3 +1,10 @@
+---
+topic_id: 5696
+title: "Model To Image Registration"
+date: 2019-02-08
+url: https://discourse.slicer.org/t/5696
+---
+
 # Model to image registration
 
 **Topic ID**: 5696

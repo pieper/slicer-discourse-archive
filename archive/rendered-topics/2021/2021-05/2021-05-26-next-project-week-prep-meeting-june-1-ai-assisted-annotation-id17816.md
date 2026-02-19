@@ -1,3 +1,10 @@
+---
+topic_id: 17816
+title: "Next Project Week Prep Meeting June 1 Ai Assisted Annotation"
+date: 2021-05-26
+url: https://discourse.slicer.org/t/17816
+---
+
 # Next Project Week prep meeting (June 1) - AI-assisted annotations and MONAI
 
 **Topic ID**: 17816

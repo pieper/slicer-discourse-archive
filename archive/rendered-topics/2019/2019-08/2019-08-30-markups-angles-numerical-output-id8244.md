@@ -1,3 +1,10 @@
+---
+topic_id: 8244
+title: "Markups Angles Numerical Output"
+date: 2019-08-30
+url: https://discourse.slicer.org/t/8244
+---
+
 # Markups Angles - Numerical Output
 
 **Topic ID**: 8244

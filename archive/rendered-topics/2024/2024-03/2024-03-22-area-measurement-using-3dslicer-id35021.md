@@ -1,3 +1,10 @@
+---
+topic_id: 35021
+title: "Area Measurement Using 3Dslicer"
+date: 2024-03-22
+url: https://discourse.slicer.org/t/35021
+---
+
 # Area measurement using 3DSlicer?
 
 **Topic ID**: 35021

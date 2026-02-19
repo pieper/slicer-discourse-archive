@@ -1,3 +1,10 @@
+---
+topic_id: 27384
+title: "Terminologies Questions"
+date: 2023-01-20
+url: https://discourse.slicer.org/t/27384
+---
+
 # Terminologies questions
 
 **Topic ID**: 27384

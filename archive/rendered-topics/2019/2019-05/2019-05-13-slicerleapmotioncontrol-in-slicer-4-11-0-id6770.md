@@ -1,3 +1,10 @@
+---
+topic_id: 6770
+title: "Slicerleapmotioncontrol In Slicer 4 11 0"
+date: 2019-05-13
+url: https://discourse.slicer.org/t/6770
+---
+
 # SlicerLeapMotionControl in Slicer 4.11.0
 
 **Topic ID**: 6770

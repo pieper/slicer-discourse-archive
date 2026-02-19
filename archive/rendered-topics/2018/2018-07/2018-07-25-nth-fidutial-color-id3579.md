@@ -1,3 +1,10 @@
+---
+topic_id: 3579
+title: "Nth Fidutial Color"
+date: 2018-07-25
+url: https://discourse.slicer.org/t/3579
+---
+
 # Nth Fidutial Color
 
 **Topic ID**: 3579

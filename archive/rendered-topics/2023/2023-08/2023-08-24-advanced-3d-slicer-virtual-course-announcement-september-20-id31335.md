@@ -1,3 +1,10 @@
+---
+topic_id: 31335
+title: "Advanced 3D Slicer Virtual Course Announcement September 20"
+date: 2023-08-24
+url: https://discourse.slicer.org/t/31335
+---
+
 # Advanced 3D Slicer Virtual Course Announcement: September 20-21, 2023
 
 **Topic ID**: 31335

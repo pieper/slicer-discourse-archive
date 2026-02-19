@@ -1,3 +1,10 @@
+---
+topic_id: 39900
+title: "Slicer Build Crash On Qt Creator In Window11"
+date: 2024-10-28
+url: https://discourse.slicer.org/t/39900
+---
+
 # Slicer build crash on Qt creator in Window11
 
 **Topic ID**: 39900

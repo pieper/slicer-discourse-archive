@@ -1,3 +1,10 @@
+---
+topic_id: 12338
+title: "Markups Node Table For Vtkmrmlmarkupslinenode"
+date: 2020-07-02
+url: https://discourse.slicer.org/t/12338
+---
+
 # Markups Node Table for vtkMRMLMarkupsLineNode
 
 **Topic ID**: 12338

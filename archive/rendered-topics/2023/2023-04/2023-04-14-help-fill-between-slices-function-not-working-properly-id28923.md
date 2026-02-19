@@ -1,3 +1,10 @@
+---
+topic_id: 28923
+title: "Help Fill Between Slices Function Not Working Properly"
+date: 2023-04-14
+url: https://discourse.slicer.org/t/28923
+---
+
 # Help - "Fill between slices" - function not working properly
 
 **Topic ID**: 28923

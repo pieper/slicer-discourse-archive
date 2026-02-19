@@ -1,3 +1,10 @@
+---
+topic_id: 2871
+title: "Import Volume By Projections"
+date: 2018-05-22
+url: https://discourse.slicer.org/t/2871
+---
+
 # Import volume by projections
 
 **Topic ID**: 2871

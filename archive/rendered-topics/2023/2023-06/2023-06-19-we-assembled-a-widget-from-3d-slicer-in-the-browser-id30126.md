@@ -1,3 +1,10 @@
+---
+topic_id: 30126
+title: "We Assembled A Widget From 3D Slicer In The Browser"
+date: 2023-06-19
+url: https://discourse.slicer.org/t/30126
+---
+
 # We assembled a widget from 3D Slicer in the browser
 
 **Topic ID**: 30126

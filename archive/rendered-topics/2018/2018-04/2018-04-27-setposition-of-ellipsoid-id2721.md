@@ -1,3 +1,10 @@
+---
+topic_id: 2721
+title: "Setposition Of Ellipsoid"
+date: 2018-04-27
+url: https://discourse.slicer.org/t/2721
+---
+
 # SetPosition of ellipsoid
 
 **Topic ID**: 2721

@@ -1,3 +1,10 @@
+---
+topic_id: 2764
+title: "Segmenting A Fractured Tibia"
+date: 2018-05-06
+url: https://discourse.slicer.org/t/2764
+---
+
 # Segmenting a fractured tibia
 
 **Topic ID**: 2764

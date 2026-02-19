@@ -1,3 +1,10 @@
+---
+topic_id: 12282
+title: "Any Way To Get The Mean Values For A 4D Image Roi"
+date: 2020-06-29
+url: https://discourse.slicer.org/t/12282
+---
+
 # Any way to get the mean values for a 4D image ROI
 
 **Topic ID**: 12282

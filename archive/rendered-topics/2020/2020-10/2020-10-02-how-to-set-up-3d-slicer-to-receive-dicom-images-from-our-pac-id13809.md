@@ -1,3 +1,10 @@
+---
+topic_id: 13809
+title: "How To Set Up 3D Slicer To Receive Dicom Images From Our Pac"
+date: 2020-10-02
+url: https://discourse.slicer.org/t/13809
+---
+
 # How to set up 3D Slicer to receive DICOM images from our PACS?
 
 **Topic ID**: 13809

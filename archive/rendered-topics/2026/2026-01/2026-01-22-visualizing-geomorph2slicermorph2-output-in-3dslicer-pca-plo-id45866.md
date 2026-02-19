@@ -1,3 +1,10 @@
+---
+topic_id: 45866
+title: "Visualizing Geomorph2Slicermorph2 Output In 3Dslicer Pca Plo"
+date: 2026-01-22
+url: https://discourse.slicer.org/t/45866
+---
+
 # Visualizing geomorph2slicermorph2 output in 3DSlicer: PCA plot differences?
 
 **Topic ID**: 45866

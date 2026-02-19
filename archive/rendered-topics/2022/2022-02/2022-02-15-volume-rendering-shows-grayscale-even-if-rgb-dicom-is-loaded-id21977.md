@@ -1,3 +1,10 @@
+---
+topic_id: 21977
+title: "Volume Rendering Shows Grayscale Even If Rgb Dicom Is Loaded"
+date: 2022-02-15
+url: https://discourse.slicer.org/t/21977
+---
+
 # Volume rendering shows grayscale even if RGB dicom is loaded
 
 **Topic ID**: 21977

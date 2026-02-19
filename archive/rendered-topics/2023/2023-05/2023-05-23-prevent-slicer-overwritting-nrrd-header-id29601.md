@@ -1,3 +1,10 @@
+---
+topic_id: 29601
+title: "Prevent Slicer Overwritting Nrrd Header"
+date: 2023-05-23
+url: https://discourse.slicer.org/t/29601
+---
+
 # Prevent slicer overwritting nrrd header.
 
 **Topic ID**: 29601

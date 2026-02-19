@@ -1,3 +1,10 @@
+---
+topic_id: 6972
+title: "Mapping Intensity Values To Model Surface As Texture"
+date: 2019-05-30
+url: https://discourse.slicer.org/t/6972
+---
+
 # Mapping intensity values to Model Surface as texture?
 
 **Topic ID**: 6972

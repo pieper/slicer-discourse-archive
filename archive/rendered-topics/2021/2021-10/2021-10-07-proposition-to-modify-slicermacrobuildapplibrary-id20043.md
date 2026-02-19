@@ -1,3 +1,10 @@
+---
+topic_id: 20043
+title: "Proposition To Modify Slicermacrobuildapplibrary"
+date: 2021-10-07
+url: https://discourse.slicer.org/t/20043
+---
+
 # Proposition to modify `slicerMacroBuildAppLibrary`
 
 **Topic ID**: 20043

@@ -1,3 +1,10 @@
+---
+topic_id: 2157
+title: "Calculating Distance Map And Getting Text File"
+date: 2018-02-23
+url: https://discourse.slicer.org/t/2157
+---
+
 # calculating distance map and getting text file
 
 **Topic ID**: 2157

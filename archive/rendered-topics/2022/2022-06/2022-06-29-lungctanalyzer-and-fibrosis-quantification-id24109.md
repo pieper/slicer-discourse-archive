@@ -1,3 +1,10 @@
+---
+topic_id: 24109
+title: "Lungctanalyzer And Fibrosis Quantification"
+date: 2022-06-29
+url: https://discourse.slicer.org/t/24109
+---
+
 # LungCTAnalyzer and fibrosis quantification
 
 **Topic ID**: 24109

@@ -1,3 +1,10 @@
+---
+topic_id: 16587
+title: "Quit Jupyter Notebook Without Shutting Down Slicer Kernal Sl"
+date: 2021-03-16
+url: https://discourse.slicer.org/t/16587
+---
+
 # Quit Jupyter notebook without shutting down Slicer kernal - Slicer instance is persisting
 
 **Topic ID**: 16587

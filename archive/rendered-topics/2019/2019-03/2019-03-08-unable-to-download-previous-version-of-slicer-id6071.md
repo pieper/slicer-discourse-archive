@@ -1,3 +1,10 @@
+---
+topic_id: 6071
+title: "Unable To Download Previous Version Of Slicer"
+date: 2019-03-08
+url: https://discourse.slicer.org/t/6071
+---
+
 # Unable to download previous version of Slicer
 
 **Topic ID**: 6071

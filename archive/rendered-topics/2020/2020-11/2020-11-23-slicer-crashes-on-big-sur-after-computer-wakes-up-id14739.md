@@ -1,3 +1,10 @@
+---
+topic_id: 14739
+title: "Slicer Crashes On Big Sur After Computer Wakes Up"
+date: 2020-11-23
+url: https://discourse.slicer.org/t/14739
+---
+
 # Slicer crashes on Big Sur after computer wakes up
 
 **Topic ID**: 14739

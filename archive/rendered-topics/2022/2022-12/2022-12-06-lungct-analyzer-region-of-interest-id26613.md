@@ -1,3 +1,10 @@
+---
+topic_id: 26613
+title: "Lungct Analyzer Region Of Interest"
+date: 2022-12-06
+url: https://discourse.slicer.org/t/26613
+---
+
 # LungCT Analyzer (Region of Interest)
 
 **Topic ID**: 26613

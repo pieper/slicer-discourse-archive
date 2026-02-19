@@ -1,3 +1,10 @@
+---
+topic_id: 42879
+title: "Revisiting Stereoscopic Anaglyph 3D Slicer Output"
+date: 2025-05-11
+url: https://discourse.slicer.org/t/42879
+---
+
 # Revisiting stereoscopic/anaglyph 3D slicer output
 
 **Topic ID**: 42879

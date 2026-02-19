@@ -1,3 +1,10 @@
+---
+topic_id: 7774
+title: "Tractography Measurements"
+date: 2019-07-26
+url: https://discourse.slicer.org/t/7774
+---
+
 # Tractography measurements
 
 **Topic ID**: 7774

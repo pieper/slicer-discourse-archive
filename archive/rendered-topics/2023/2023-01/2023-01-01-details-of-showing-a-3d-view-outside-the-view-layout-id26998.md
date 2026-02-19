@@ -1,3 +1,10 @@
+---
+topic_id: 26998
+title: "Details Of Showing A 3D View Outside The View Layout"
+date: 2023-01-01
+url: https://discourse.slicer.org/t/26998
+---
+
 # Details of showing a 3D view outside the view layout
 
 **Topic ID**: 26998

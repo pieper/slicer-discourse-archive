@@ -1,3 +1,10 @@
+---
+topic_id: 12911
+title: "2D Shape Features For Multiple Rois In Single Image"
+date: 2020-08-09
+url: https://discourse.slicer.org/t/12911
+---
+
 # 2D Shape features for multiple ROIs in single image
 
 **Topic ID**: 12911

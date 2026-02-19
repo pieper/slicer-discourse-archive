@@ -1,3 +1,10 @@
+---
+topic_id: 34083
+title: "Export Segment Threshold"
+date: 2024-02-01
+url: https://discourse.slicer.org/t/34083
+---
+
 # Export segment threshold
 
 **Topic ID**: 34083

@@ -1,3 +1,10 @@
+---
+topic_id: 7142
+title: "Regularization Issue"
+date: 2019-06-12
+url: https://discourse.slicer.org/t/7142
+---
+
 # Regularization issue
 
 **Topic ID**: 7142

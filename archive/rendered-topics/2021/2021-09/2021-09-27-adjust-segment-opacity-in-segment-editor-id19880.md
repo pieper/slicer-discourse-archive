@@ -1,3 +1,10 @@
+---
+topic_id: 19880
+title: "Adjust Segment Opacity In Segment Editor"
+date: 2021-09-27
+url: https://discourse.slicer.org/t/19880
+---
+
 # Adjust segment opacity in Segment Editor
 
 **Topic ID**: 19880

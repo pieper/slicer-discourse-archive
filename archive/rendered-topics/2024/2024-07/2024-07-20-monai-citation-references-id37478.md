@@ -1,3 +1,10 @@
+---
+topic_id: 37478
+title: "Monai Citation References"
+date: 2024-07-20
+url: https://discourse.slicer.org/t/37478
+---
+
 # MONAI citation / references
 
 **Topic ID**: 37478

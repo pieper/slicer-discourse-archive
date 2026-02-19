@@ -1,3 +1,10 @@
+---
+topic_id: 3138
+title: "Problem With Segmentation Of Mca Territory On Axial View"
+date: 2018-06-11
+url: https://discourse.slicer.org/t/3138
+---
+
 # Problem with segmentation of MCA territory on axial view
 
 **Topic ID**: 3138

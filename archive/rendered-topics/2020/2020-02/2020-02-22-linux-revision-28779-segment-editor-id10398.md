@@ -1,3 +1,10 @@
+---
+topic_id: 10398
+title: "Linux Revision 28779 Segment Editor"
+date: 2020-02-22
+url: https://discourse.slicer.org/t/10398
+---
+
 # Linux revision 28779 - Segment editor
 
 **Topic ID**: 10398

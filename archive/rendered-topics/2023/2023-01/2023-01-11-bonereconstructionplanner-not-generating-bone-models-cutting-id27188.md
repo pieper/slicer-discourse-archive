@@ -1,3 +1,10 @@
+---
+topic_id: 27188
+title: "Bonereconstructionplanner Not Generating Bone Models Cutting"
+date: 2023-01-11
+url: https://discourse.slicer.org/t/27188
+---
+
 # BoneReconstructionPlanner not generating bone models/cutting guides
 
 **Topic ID**: 27188

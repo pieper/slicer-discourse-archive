@@ -1,3 +1,10 @@
+---
+topic_id: 1642
+title: "Auto Load Spl Brain Atlas Already Downloaded"
+date: 2017-12-12
+url: https://discourse.slicer.org/t/1642
+---
+
 # Auto-load SPL brain atlas? (already downloaded)
 
 **Topic ID**: 1642

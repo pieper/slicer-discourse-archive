@@ -1,3 +1,10 @@
+---
+topic_id: 30538
+title: "I Cant Edit Extension Source Codes Edit Button Is Not Run"
+date: 2023-07-12
+url: https://discourse.slicer.org/t/30538
+---
+
 # I can't edit extension source codes. Edit button is not run
 
 **Topic ID**: 30538

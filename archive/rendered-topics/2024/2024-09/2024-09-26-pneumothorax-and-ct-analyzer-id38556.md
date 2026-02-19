@@ -1,3 +1,10 @@
+---
+topic_id: 38556
+title: "Pneumothorax And Ct Analyzer"
+date: 2024-09-26
+url: https://discourse.slicer.org/t/38556
+---
+
 # Pneumothorax and CT analyzer
 
 **Topic ID**: 38556

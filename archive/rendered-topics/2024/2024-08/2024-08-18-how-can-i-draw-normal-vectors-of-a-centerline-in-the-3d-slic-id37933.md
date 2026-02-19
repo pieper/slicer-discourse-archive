@@ -1,3 +1,10 @@
+---
+topic_id: 37933
+title: "How Can I Draw Normal Vectors Of A Centerline In The 3D Slic"
+date: 2024-08-18
+url: https://discourse.slicer.org/t/37933
+---
+
 # How can I draw normal vectors of a centerline in the 3D slicer?
 
 **Topic ID**: 37933

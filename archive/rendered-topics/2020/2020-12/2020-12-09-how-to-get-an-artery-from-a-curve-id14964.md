@@ -1,3 +1,10 @@
+---
+topic_id: 14964
+title: "How To Get An Artery From A Curve"
+date: 2020-12-09
+url: https://discourse.slicer.org/t/14964
+---
+
 # How to get an artery from a curve
 
 **Topic ID**: 14964

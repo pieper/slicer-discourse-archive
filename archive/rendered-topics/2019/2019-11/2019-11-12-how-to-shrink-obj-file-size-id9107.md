@@ -1,3 +1,10 @@
+---
+topic_id: 9107
+title: "How To Shrink Obj File Size"
+date: 2019-11-12
+url: https://discourse.slicer.org/t/9107
+---
+
 # How to shrink OBJ file size?
 
 **Topic ID**: 9107

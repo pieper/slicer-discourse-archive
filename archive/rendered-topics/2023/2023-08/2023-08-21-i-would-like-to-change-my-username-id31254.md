@@ -1,3 +1,10 @@
+---
+topic_id: 31254
+title: "I Would Like To Change My Username"
+date: 2023-08-21
+url: https://discourse.slicer.org/t/31254
+---
+
 # I would like to change my username
 
 **Topic ID**: 31254

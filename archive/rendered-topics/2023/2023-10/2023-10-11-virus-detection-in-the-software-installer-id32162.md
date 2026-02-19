@@ -1,3 +1,10 @@
+---
+topic_id: 32162
+title: "Virus Detection In The Software Installer"
+date: 2023-10-11
+url: https://discourse.slicer.org/t/32162
+---
+
 # Virus detection in the software installer
 
 **Topic ID**: 32162

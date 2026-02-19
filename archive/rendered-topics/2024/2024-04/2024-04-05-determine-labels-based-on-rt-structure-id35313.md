@@ -1,3 +1,10 @@
+---
+topic_id: 35313
+title: "Determine Labels Based On Rt Structure"
+date: 2024-04-05
+url: https://discourse.slicer.org/t/35313
+---
+
 # Determine labels based on RT structure
 
 **Topic ID**: 35313

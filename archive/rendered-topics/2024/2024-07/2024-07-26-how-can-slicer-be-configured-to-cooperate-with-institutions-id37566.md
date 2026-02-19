@@ -1,3 +1,10 @@
+---
+topic_id: 37566
+title: "How Can Slicer Be Configured To Cooperate With Institutions"
+date: 2024-07-26
+url: https://discourse.slicer.org/t/37566
+---
+
 # How can Slicer be configured to cooperate with institutions that enforces SSL bumping and use self-signed certificates at the Firewall?
 
 **Topic ID**: 37566

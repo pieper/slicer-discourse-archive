@@ -1,3 +1,10 @@
+---
+topic_id: 20449
+title: "Segment Editor Unable To Restart Grow From Seeds Effect From"
+date: 2021-11-02
+url: https://discourse.slicer.org/t/20449
+---
+
 # Segment Editor: unable to restart Grow from Seeds effect from scratch if Volume deleted
 
 **Topic ID**: 20449

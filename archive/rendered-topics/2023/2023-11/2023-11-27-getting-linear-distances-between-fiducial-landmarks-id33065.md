@@ -1,3 +1,10 @@
+---
+topic_id: 33065
+title: "Getting Linear Distances Between Fiducial Landmarks"
+date: 2023-11-27
+url: https://discourse.slicer.org/t/33065
+---
+
 # Getting linear distances between fiducial landmarks
 
 **Topic ID**: 33065

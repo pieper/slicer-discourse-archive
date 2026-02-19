@@ -1,3 +1,10 @@
+---
+topic_id: 17017
+title: "Ive Got A Vtk Error When Debug The Project Of Slicer"
+date: 2021-04-10
+url: https://discourse.slicer.org/t/17017
+---
+
 # I've got a vtk error when debug the project of Slicer
 
 **Topic ID**: 17017

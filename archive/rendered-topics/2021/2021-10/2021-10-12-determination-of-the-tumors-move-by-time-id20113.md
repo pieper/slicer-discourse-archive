@@ -1,3 +1,10 @@
+---
+topic_id: 20113
+title: "Determination Of The Tumors Move By Time"
+date: 2021-10-12
+url: https://discourse.slicer.org/t/20113
+---
+
 # Determination of the tumor's move by time
 
 **Topic ID**: 20113

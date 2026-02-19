@@ -1,3 +1,10 @@
+---
+topic_id: 16084
+title: "Importing Tomovision Slice O Matic Segmentations"
+date: 2021-02-19
+url: https://discourse.slicer.org/t/16084
+---
+
 # Importing Tomovision Slice-O-Matic segmentations
 
 **Topic ID**: 16084

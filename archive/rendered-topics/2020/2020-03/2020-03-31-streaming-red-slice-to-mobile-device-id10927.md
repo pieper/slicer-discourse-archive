@@ -1,3 +1,10 @@
+---
+topic_id: 10927
+title: "Streaming Red Slice To Mobile Device"
+date: 2020-03-31
+url: https://discourse.slicer.org/t/10927
+---
+
 # Streaming Red Slice to mobile device
 
 **Topic ID**: 10927

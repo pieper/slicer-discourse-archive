@@ -1,3 +1,10 @@
+---
+topic_id: 25359
+title: "Problems With 3D Slicer 5 0 3 Installation On Fedora 36"
+date: 2022-09-20
+url: https://discourse.slicer.org/t/25359
+---
+
 # Problems with 3D Slicer 5.0.3 Installation on Fedora 36
 
 **Topic ID**: 25359

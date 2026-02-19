@@ -1,3 +1,10 @@
+---
+topic_id: 5623
+title: "Save Data As Ascii"
+date: 2019-02-03
+url: https://discourse.slicer.org/t/5623
+---
+
 # Save data as ASCII
 
 **Topic ID**: 5623

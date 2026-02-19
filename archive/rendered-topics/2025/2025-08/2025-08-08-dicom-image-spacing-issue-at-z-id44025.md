@@ -1,3 +1,10 @@
+---
+topic_id: 44025
+title: "Dicom Image Spacing Issue At Z"
+date: 2025-08-08
+url: https://discourse.slicer.org/t/44025
+---
+
 # DICOM Image Spacing Issue at Z
 
 **Topic ID**: 44025

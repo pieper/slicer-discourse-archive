@@ -1,3 +1,10 @@
+---
+topic_id: 31575
+title: "Artifact When Visualizing The Membranous Labyrinth"
+date: 2023-09-05
+url: https://discourse.slicer.org/t/31575
+---
+
 # Artifact when Visualizing the Membranous Labyrinth
 
 **Topic ID**: 31575

@@ -1,3 +1,10 @@
+---
+topic_id: 29629
+title: "Running The Python Script Without The Opening Of Slicer Wind"
+date: 2023-05-24
+url: https://discourse.slicer.org/t/29629
+---
+
 # Running the python script without the opening of slicer window
 
 **Topic ID**: 29629

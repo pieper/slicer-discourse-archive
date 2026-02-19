@@ -1,3 +1,10 @@
+---
+topic_id: 17014
+title: "Ignore Nodes When Placing Fiducial"
+date: 2021-04-09
+url: https://discourse.slicer.org/t/17014
+---
+
 # Ignore nodes when placing fiducial?
 
 **Topic ID**: 17014

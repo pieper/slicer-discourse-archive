@@ -1,3 +1,10 @@
+---
+topic_id: 3519
+title: "Editing Layout Through Python Script"
+date: 2018-07-19
+url: https://discourse.slicer.org/t/3519
+---
+
 # Editing Layout through Python script
 
 **Topic ID**: 3519

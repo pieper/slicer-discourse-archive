@@ -1,3 +1,10 @@
+---
+topic_id: 20421
+title: "Segment Statistics For Each Slice Of Segmented Volume"
+date: 2021-10-30
+url: https://discourse.slicer.org/t/20421
+---
+
 # Segment statistics for each slice of segmented volume
 
 **Topic ID**: 20421

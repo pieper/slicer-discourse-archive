@@ -1,3 +1,10 @@
+---
+topic_id: 37339
+title: "Ai Segmentation Models For Head Neck And Dental"
+date: 2024-07-11
+url: https://discourse.slicer.org/t/37339
+---
+
 # AI segmentation models for head&neck and dental
 
 **Topic ID**: 37339

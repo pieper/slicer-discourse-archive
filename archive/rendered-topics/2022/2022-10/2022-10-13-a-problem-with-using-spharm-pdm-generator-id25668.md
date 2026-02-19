@@ -1,3 +1,10 @@
+---
+topic_id: 25668
+title: "A Problem With Using Spharm Pdm Generator"
+date: 2022-10-13
+url: https://discourse.slicer.org/t/25668
+---
+
 # A problem with USING SPHARM-PDM generator
 
 **Topic ID**: 25668

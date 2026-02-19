@@ -1,3 +1,10 @@
+---
+topic_id: 22080
+title: "How To Align Brain Ct And Mr Images"
+date: 2022-02-21
+url: https://discourse.slicer.org/t/22080
+---
+
 # How to align brain CT and MR images？
 
 **Topic ID**: 22080

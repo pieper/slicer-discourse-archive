@@ -1,3 +1,10 @@
+---
+topic_id: 41966
+title: "Pascom Anyone Done"
+date: 2025-03-04
+url: https://discourse.slicer.org/t/41966
+---
+
 # PASCOM - anyone done?
 
 **Topic ID**: 41966

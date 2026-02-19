@@ -1,3 +1,10 @@
+---
+topic_id: 14295
+title: "Create Folder And Get Folder"
+date: 2020-10-28
+url: https://discourse.slicer.org/t/14295
+---
+
 # Create Folder and Get Folder
 
 **Topic ID**: 14295

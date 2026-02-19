@@ -1,3 +1,10 @@
+---
+topic_id: 14793
+title: "All Yellow Displacement Field Mmi Value"
+date: 2020-11-27
+url: https://discourse.slicer.org/t/14793
+---
+
 # All yellow displacement field. MMI value
 
 **Topic ID**: 14793

@@ -1,3 +1,10 @@
+---
+topic_id: 7511
+title: "Installing Extensions In Binary Distribution Of Slicer"
+date: 2019-07-10
+url: https://discourse.slicer.org/t/7511
+---
+
 # Installing extensions in binary distribution of Slicer
 
 **Topic ID**: 7511

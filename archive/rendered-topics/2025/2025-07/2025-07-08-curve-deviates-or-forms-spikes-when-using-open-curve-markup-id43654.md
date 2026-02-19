@@ -1,3 +1,10 @@
+---
+topic_id: 43654
+title: "Curve Deviates Or Forms Spikes When Using Open Curve Markup"
+date: 2025-07-08
+url: https://discourse.slicer.org/t/43654
+---
+
 # Curve deviates or forms spikes when using Open Curve Markup Tool
 
 **Topic ID**: 43654

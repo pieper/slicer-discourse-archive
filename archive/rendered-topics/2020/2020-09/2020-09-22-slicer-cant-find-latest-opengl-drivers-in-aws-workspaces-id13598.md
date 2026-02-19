@@ -1,3 +1,10 @@
+---
+topic_id: 13598
+title: "Slicer Cant Find Latest Opengl Drivers In Aws Workspaces"
+date: 2020-09-22
+url: https://discourse.slicer.org/t/13598
+---
+
 # slicer can't find latest OpenGL drivers in AWS workspaces
 
 **Topic ID**: 13598

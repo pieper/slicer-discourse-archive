@@ -1,3 +1,10 @@
+---
+topic_id: 8150
+title: "Markups Roadmap Plane Fiducial"
+date: 2019-08-23
+url: https://discourse.slicer.org/t/8150
+---
+
 # Markups roadmap - Plane fiducial
 
 **Topic ID**: 8150

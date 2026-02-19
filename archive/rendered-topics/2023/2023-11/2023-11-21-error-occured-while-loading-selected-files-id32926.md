@@ -1,3 +1,10 @@
+---
+topic_id: 32926
+title: "Error Occured While Loading Selected Files"
+date: 2023-11-21
+url: https://discourse.slicer.org/t/32926
+---
+
 # Error occured while loading selected files
 
 **Topic ID**: 32926

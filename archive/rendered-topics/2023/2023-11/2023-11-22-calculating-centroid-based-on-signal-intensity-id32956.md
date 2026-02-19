@@ -1,3 +1,10 @@
+---
+topic_id: 32956
+title: "Calculating Centroid Based On Signal Intensity"
+date: 2023-11-22
+url: https://discourse.slicer.org/t/32956
+---
+
 # Calculating centroid based on signal intensity
 
 **Topic ID**: 32956

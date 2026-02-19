@@ -1,3 +1,10 @@
+---
+topic_id: 13576
+title: "Measure Thickness"
+date: 2020-09-20
+url: https://discourse.slicer.org/t/13576
+---
+
 # Measure thickness
 
 **Topic ID**: 13576

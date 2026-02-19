@@ -1,3 +1,10 @@
+---
+topic_id: 40388
+title: "Help With Blood Vessel Segmentation Module For My Engineerin"
+date: 2024-11-26
+url: https://discourse.slicer.org/t/40388
+---
+
 # Help with Blood Vessel Segmentation Module for My Engineering Thesis
 
 **Topic ID**: 40388

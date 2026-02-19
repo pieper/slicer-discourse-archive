@@ -1,3 +1,10 @@
+---
+topic_id: 20668
+title: "Itk Filter Reporting Broken"
+date: 2021-11-17
+url: https://discourse.slicer.org/t/20668
+---
+
 # ITK Filter... reporting broken?
 
 **Topic ID**: 20668

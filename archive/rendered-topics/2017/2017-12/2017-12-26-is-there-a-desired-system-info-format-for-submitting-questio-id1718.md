@@ -1,3 +1,10 @@
+---
+topic_id: 1718
+title: "Is There A Desired System Info Format For Submitting Questio"
+date: 2017-12-26
+url: https://discourse.slicer.org/t/1718
+---
+
 # Is there a desired system info format for submitting questions?
 
 **Topic ID**: 1718

@@ -1,3 +1,10 @@
+---
+topic_id: 35209
+title: "Vmtk Go To The Endpoints When Extract Centerline"
+date: 2024-04-01
+url: https://discourse.slicer.org/t/35209
+---
+
 # VMTK go to the endpoints when extract centerline
 
 **Topic ID**: 35209

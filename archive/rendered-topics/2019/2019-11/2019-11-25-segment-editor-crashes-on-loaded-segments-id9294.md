@@ -1,3 +1,10 @@
+---
+topic_id: 9294
+title: "Segment Editor Crashes On Loaded Segments"
+date: 2019-11-25
+url: https://discourse.slicer.org/t/9294
+---
+
 # Segment editor crashes on loaded segments
 
 **Topic ID**: 9294

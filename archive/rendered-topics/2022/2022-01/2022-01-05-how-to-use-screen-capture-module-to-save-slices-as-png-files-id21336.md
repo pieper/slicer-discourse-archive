@@ -1,3 +1,10 @@
+---
+topic_id: 21336
+title: "How To Use Screen Capture Module To Save Slices As Png Files"
+date: 2022-01-05
+url: https://discourse.slicer.org/t/21336
+---
+
 # How to use Screen Capture Module to save slices as .png files one-by-one along one axial?
 
 **Topic ID**: 21336

@@ -1,3 +1,10 @@
+---
+topic_id: 35008
+title: "Segmenting Dicom Images"
+date: 2024-03-21
+url: https://discourse.slicer.org/t/35008
+---
+
 # Segmenting DICOM Images
 
 **Topic ID**: 35008

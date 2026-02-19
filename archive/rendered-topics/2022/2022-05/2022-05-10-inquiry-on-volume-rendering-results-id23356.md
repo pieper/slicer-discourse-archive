@@ -1,3 +1,10 @@
+---
+topic_id: 23356
+title: "Inquiry On Volume Rendering Results"
+date: 2022-05-10
+url: https://discourse.slicer.org/t/23356
+---
+
 # inquiry on volume rendering results
 
 **Topic ID**: 23356

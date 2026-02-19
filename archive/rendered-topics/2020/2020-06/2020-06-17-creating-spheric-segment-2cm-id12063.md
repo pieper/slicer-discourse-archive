@@ -1,3 +1,10 @@
+---
+topic_id: 12063
+title: "Creating Spheric Segment 2Cm"
+date: 2020-06-17
+url: https://discourse.slicer.org/t/12063
+---
+
 # Creating spheric segment 2cm
 
 **Topic ID**: 12063

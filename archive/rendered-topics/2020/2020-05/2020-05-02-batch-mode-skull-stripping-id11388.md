@@ -1,3 +1,10 @@
+---
+topic_id: 11388
+title: "Batch Mode Skull Stripping"
+date: 2020-05-02
+url: https://discourse.slicer.org/t/11388
+---
+
 # Batch mode skull stripping
 
 **Topic ID**: 11388

@@ -1,3 +1,10 @@
+---
+topic_id: 22299
+title: "Slicer Does Not Recognize Masks On Flar21 Dataset"
+date: 2022-03-03
+url: https://discourse.slicer.org/t/22299
+---
+
 # Slicer does not recognize masks on FLAR21 dataset 
 
 **Topic ID**: 22299

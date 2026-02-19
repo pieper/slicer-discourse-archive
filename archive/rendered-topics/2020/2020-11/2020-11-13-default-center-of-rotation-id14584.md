@@ -1,3 +1,10 @@
+---
+topic_id: 14584
+title: "Default Center Of Rotation"
+date: 2020-11-13
+url: https://discourse.slicer.org/t/14584
+---
+
 # Default center of rotation
 
 **Topic ID**: 14584

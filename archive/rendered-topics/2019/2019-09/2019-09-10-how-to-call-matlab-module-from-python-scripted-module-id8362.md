@@ -1,3 +1,10 @@
+---
+topic_id: 8362
+title: "How To Call Matlab Module From Python Scripted Module"
+date: 2019-09-10
+url: https://discourse.slicer.org/t/8362
+---
+
 # How to call Matlab module from Python scripted module
 
 **Topic ID**: 8362

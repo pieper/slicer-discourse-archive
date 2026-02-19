@@ -1,3 +1,10 @@
+---
+topic_id: 6639
+title: "Save To Png File Not Aware Of Spacing"
+date: 2019-04-29
+url: https://discourse.slicer.org/t/6639
+---
+
 # Save to png file not aware of spacing
 
 **Topic ID**: 6639

@@ -1,3 +1,10 @@
+---
+topic_id: 19681
+title: "How To Build Nvidia Extension Using Cmake"
+date: 2021-09-15
+url: https://discourse.slicer.org/t/19681
+---
+
 # How to build NVIDIA extension using CMake
 
 **Topic ID**: 19681

@@ -1,3 +1,10 @@
+---
+topic_id: 15316
+title: "How To Import The Transform Getted From Slicer For Vtk"
+date: 2021-01-02
+url: https://discourse.slicer.org/t/15316
+---
+
 # How to import the transform getted from slicer for vtk?
 
 **Topic ID**: 15316

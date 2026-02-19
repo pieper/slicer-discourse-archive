@@ -1,3 +1,10 @@
+---
+topic_id: 36554
+title: "Sign Of Markup Point Coordinates"
+date: 2024-06-02
+url: https://discourse.slicer.org/t/36554
+---
+
 # Sign of markup point coordinates
 
 **Topic ID**: 36554

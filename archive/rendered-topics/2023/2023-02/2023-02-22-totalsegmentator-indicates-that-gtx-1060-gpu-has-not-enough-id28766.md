@@ -1,3 +1,10 @@
+---
+topic_id: 28766
+title: "Totalsegmentator Indicates That Gtx 1060 Gpu Has Not Enough"
+date: 2023-02-22
+url: https://discourse.slicer.org/t/28766
+---
+
 # TotalSegmentator indicates that GTX 1060 GPU has not enough memory
 
 **Topic ID**: 28766

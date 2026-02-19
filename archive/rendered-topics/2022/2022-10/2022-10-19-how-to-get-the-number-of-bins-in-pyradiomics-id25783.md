@@ -1,3 +1,10 @@
+---
+topic_id: 25783
+title: "How To Get The Number Of Bins In Pyradiomics"
+date: 2022-10-19
+url: https://discourse.slicer.org/t/25783
+---
+
 # How to get the number of bins in pyradiomics?
 
 **Topic ID**: 25783

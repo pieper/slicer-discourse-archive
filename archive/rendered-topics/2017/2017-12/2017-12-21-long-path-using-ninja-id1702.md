@@ -1,3 +1,10 @@
+---
+topic_id: 1702
+title: "Long Path Using Ninja"
+date: 2017-12-21
+url: https://discourse.slicer.org/t/1702
+---
+
 # Long path using ninja
 
 **Topic ID**: 1702

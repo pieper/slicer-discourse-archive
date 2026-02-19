@@ -1,3 +1,10 @@
+---
+topic_id: 15729
+title: "Transfer Scene Files From 3Dslicer To Unity3D"
+date: 2021-01-28
+url: https://discourse.slicer.org/t/15729
+---
+
 # transfer scene files from 3DSlicer to Unity3D
 
 **Topic ID**: 15729

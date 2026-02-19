@@ -1,3 +1,10 @@
+---
+topic_id: 10311
+title: "When Estimating The Volume Of A Segmented Region Using This"
+date: 2020-02-17
+url: https://discourse.slicer.org/t/10311
+---
+
 # When estimating the volume of a segmented region using this software, do we need to consider the gap between the slices??
 
 **Topic ID**: 10311

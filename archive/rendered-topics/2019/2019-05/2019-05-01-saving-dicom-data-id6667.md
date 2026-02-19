@@ -1,3 +1,10 @@
+---
+topic_id: 6667
+title: "Saving Dicom Data"
+date: 2019-05-01
+url: https://discourse.slicer.org/t/6667
+---
+
 # Saving dicom data
 
 **Topic ID**: 6667

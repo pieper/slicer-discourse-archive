@@ -1,3 +1,10 @@
+---
+topic_id: 14890
+title: "How To Include The Aortic Wall When I Do Auto Segmentation U"
+date: 2020-12-05
+url: https://discourse.slicer.org/t/14890
+---
+
 # How to include the aortic wall when i do auto segmentation using local threshold?
 
 **Topic ID**: 14890

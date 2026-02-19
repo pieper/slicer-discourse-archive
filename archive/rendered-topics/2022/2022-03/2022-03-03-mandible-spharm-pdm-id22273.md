@@ -1,3 +1,10 @@
+---
+topic_id: 22273
+title: "Mandible Spharm Pdm"
+date: 2022-03-03
+url: https://discourse.slicer.org/t/22273
+---
+
 # Mandible spharm pdm
 
 **Topic ID**: 22273

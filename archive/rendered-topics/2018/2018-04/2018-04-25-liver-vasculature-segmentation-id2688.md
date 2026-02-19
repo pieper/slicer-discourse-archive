@@ -1,3 +1,10 @@
+---
+topic_id: 2688
+title: "Liver Vasculature Segmentation"
+date: 2018-04-25
+url: https://discourse.slicer.org/t/2688
+---
+
 # Liver vasculature segmentation
 
 **Topic ID**: 2688

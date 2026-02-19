@@ -1,3 +1,10 @@
+---
+topic_id: 4406
+title: "How Can I Set Masking Settings On A Segment Editor Effect In"
+date: 2018-10-16
+url: https://discourse.slicer.org/t/4406
+---
+
 # How can I set masking settings on a segment editor effect in python?
 
 **Topic ID**: 4406

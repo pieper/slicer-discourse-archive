@@ -1,3 +1,10 @@
+---
+topic_id: 27262
+title: "How To Rotate The 3D Camera Around A Center Ruler Or 3Dvecto"
+date: 2023-01-16
+url: https://discourse.slicer.org/t/27262
+---
+
 # How to rotate the 3d camera around a center ruler or 3dvector
 
 **Topic ID**: 27262

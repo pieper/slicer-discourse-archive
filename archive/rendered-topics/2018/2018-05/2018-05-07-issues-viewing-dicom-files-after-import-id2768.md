@@ -1,3 +1,10 @@
+---
+topic_id: 2768
+title: "Issues Viewing Dicom Files After Import"
+date: 2018-05-07
+url: https://discourse.slicer.org/t/2768
+---
+
 # issues viewing DICOM files after import
 
 **Topic ID**: 2768

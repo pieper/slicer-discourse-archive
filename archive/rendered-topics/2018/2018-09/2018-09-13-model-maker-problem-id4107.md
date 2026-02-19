@@ -1,3 +1,10 @@
+---
+topic_id: 4107
+title: "Model Maker Problem"
+date: 2018-09-13
+url: https://discourse.slicer.org/t/4107
+---
+
 # Model maker problem
 
 **Topic ID**: 4107

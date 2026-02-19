@@ -1,3 +1,10 @@
+---
+topic_id: 20234
+title: "Data Module Remember Previous Zoom Pan Slice Selection When"
+date: 2021-10-19
+url: https://discourse.slicer.org/t/20234
+---
+
 # Data module: remember previous zoom & pan & slice selection when making a volume visible
 
 **Topic ID**: 20234

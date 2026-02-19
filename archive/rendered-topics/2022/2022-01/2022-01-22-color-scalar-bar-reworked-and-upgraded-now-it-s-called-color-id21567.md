@@ -1,3 +1,10 @@
+---
+topic_id: 21567
+title: "Color Scalar Bar Reworked And Upgraded Now It S Called Color"
+date: 2022-01-22
+url: https://discourse.slicer.org/t/21567
+---
+
 # "Color Scalar Bar" reworked and upgraded, now it’s called "Color Legend"
 
 **Topic ID**: 21567

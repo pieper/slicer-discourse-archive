@@ -1,3 +1,10 @@
+---
+topic_id: 26428
+title: "Segment Corpus Callosum Into More Subsegment"
+date: 2022-11-24
+url: https://discourse.slicer.org/t/26428
+---
+
 # Segment corpus callosum into more subsegment
 
 **Topic ID**: 26428

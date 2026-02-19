@@ -1,3 +1,10 @@
+---
+topic_id: 9142
+title: "How To Modify Py Extension Script And Load It By Defualt"
+date: 2019-11-14
+url: https://discourse.slicer.org/t/9142
+---
+
 # How to modify .py extension script and load it by defualt
 
 **Topic ID**: 9142

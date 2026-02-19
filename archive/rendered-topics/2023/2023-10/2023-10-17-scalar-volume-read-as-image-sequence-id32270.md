@@ -1,3 +1,10 @@
+---
+topic_id: 32270
+title: "Scalar Volume Read As Image Sequence"
+date: 2023-10-17
+url: https://discourse.slicer.org/t/32270
+---
+
 # scalar volume read as image sequence
 
 **Topic ID**: 32270

@@ -1,3 +1,10 @@
+---
+topic_id: 8107
+title: "Build Error With Itk On Ubuntu1804"
+date: 2019-08-20
+url: https://discourse.slicer.org/t/8107
+---
+
 # Build error with itk on ubuntu1804
 
 **Topic ID**: 8107

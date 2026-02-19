@@ -1,3 +1,10 @@
+---
+topic_id: 8264
+title: "Export Two Aligned Stl Model From Meshlab To Slicer3D For De"
+date: 2019-09-02
+url: https://discourse.slicer.org/t/8264
+---
+
 # Export two aligned STL model from Meshlab to SLICER3D for deviation Measurement
 
 **Topic ID**: 8264

@@ -1,3 +1,10 @@
+---
+topic_id: 16049
+title: "Changing A Segmented Mask Datatype From Int16 To Uint8"
+date: 2021-02-18
+url: https://discourse.slicer.org/t/16049
+---
+
 # Changing a segmented mask datatype from int16 to uint8
 
 **Topic ID**: 16049

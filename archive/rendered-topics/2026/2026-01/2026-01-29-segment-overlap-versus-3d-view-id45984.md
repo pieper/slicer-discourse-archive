@@ -1,3 +1,10 @@
+---
+topic_id: 45984
+title: "Segment Overlap Versus 3D View"
+date: 2026-01-29
+url: https://discourse.slicer.org/t/45984
+---
+
 # Segment overlap versus 3D view
 
 **Topic ID**: 45984

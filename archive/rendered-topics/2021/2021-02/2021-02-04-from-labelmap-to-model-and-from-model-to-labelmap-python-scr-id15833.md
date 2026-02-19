@@ -1,3 +1,10 @@
+---
+topic_id: 15833
+title: "From Labelmap To Model And From Model To Labelmap Python Scr"
+date: 2021-02-04
+url: https://discourse.slicer.org/t/15833
+---
+
 # From labelmap to model and from model to labelmap python scripts
 
 **Topic ID**: 15833

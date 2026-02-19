@@ -1,3 +1,10 @@
+---
+topic_id: 8511
+title: "Import Error In Dicom Module"
+date: 2019-09-20
+url: https://discourse.slicer.org/t/8511
+---
+
 # import error in DICOM module
 
 **Topic ID**: 8511

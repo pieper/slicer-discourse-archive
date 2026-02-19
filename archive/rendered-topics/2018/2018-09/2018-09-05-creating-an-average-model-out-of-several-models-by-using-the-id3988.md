@@ -1,3 +1,10 @@
+---
+topic_id: 3988
+title: "Creating An Average Model Out Of Several Models By Using The"
+date: 2018-09-05
+url: https://discourse.slicer.org/t/3988
+---
+
 # Creating an average model out of several models by using the ShapeVariationAnalyser
 
 **Topic ID**: 3988

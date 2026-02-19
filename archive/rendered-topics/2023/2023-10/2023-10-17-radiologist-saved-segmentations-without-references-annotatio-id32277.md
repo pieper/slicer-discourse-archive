@@ -1,3 +1,10 @@
+---
+topic_id: 32277
+title: "Radiologist Saved Segmentations Without References Annotatio"
+date: 2023-10-17
+url: https://discourse.slicer.org/t/32277
+---
+
 # Radiologist saved segmentations without references -> annotations come out cropped when loading as numpy arrays
 
 **Topic ID**: 32277

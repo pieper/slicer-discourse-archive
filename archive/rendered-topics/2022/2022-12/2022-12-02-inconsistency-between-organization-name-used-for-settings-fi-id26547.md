@@ -1,3 +1,10 @@
+---
+topic_id: 26547
+title: "Inconsistency Between Organization Name Used For Settings Fi"
+date: 2022-12-02
+url: https://discourse.slicer.org/t/26547
+---
+
 # Inconsistency between organization name used for settings files and for macOS bundle identifier
 
 **Topic ID**: 26547

@@ -1,3 +1,10 @@
+---
+topic_id: 23614
+title: "Remove Ct Patient Bed From Dicom File Automatically"
+date: 2022-05-27
+url: https://discourse.slicer.org/t/23614
+---
+
 # Remove CT patient bed from dicom file automatically
 
 **Topic ID**: 23614

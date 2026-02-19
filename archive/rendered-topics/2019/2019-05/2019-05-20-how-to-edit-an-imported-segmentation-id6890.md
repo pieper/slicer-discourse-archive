@@ -1,3 +1,10 @@
+---
+topic_id: 6890
+title: "How To Edit An Imported Segmentation"
+date: 2019-05-20
+url: https://discourse.slicer.org/t/6890
+---
+
 # How to edit an imported segmentation?
 
 **Topic ID**: 6890

@@ -1,3 +1,10 @@
+---
+topic_id: 27687
+title: "Very Long Computation Time In Segment Editor When Using Loca"
+date: 2023-02-07
+url: https://discourse.slicer.org/t/27687
+---
+
 # Very long computation time in Segment Editor when using Local threshold or Smoothing
 
 **Topic ID**: 27687

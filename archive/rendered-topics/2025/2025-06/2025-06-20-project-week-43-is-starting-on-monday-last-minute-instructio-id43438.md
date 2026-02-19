@@ -1,3 +1,10 @@
+---
+topic_id: 43438
+title: "Project Week 43 Is Starting On Monday Last Minute Instructio"
+date: 2025-06-20
+url: https://discourse.slicer.org/t/43438
+---
+
 # Project Week 43 is starting on Monday! (last minute instructions)
 
 **Topic ID**: 43438

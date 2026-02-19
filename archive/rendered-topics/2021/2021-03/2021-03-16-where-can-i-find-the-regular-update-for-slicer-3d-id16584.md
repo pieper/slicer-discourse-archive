@@ -1,3 +1,10 @@
+---
+topic_id: 16584
+title: "Where Can I Find The Regular Update For Slicer 3D"
+date: 2021-03-16
+url: https://discourse.slicer.org/t/16584
+---
+
 # Where can I find the regular update for slicer 3d?
 
 **Topic ID**: 16584

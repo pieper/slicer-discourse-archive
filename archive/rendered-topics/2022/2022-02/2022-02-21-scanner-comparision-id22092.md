@@ -1,3 +1,10 @@
+---
+topic_id: 22092
+title: "Scanner Comparision"
+date: 2022-02-21
+url: https://discourse.slicer.org/t/22092
+---
+
 # Scanner Comparision
 
 **Topic ID**: 22092

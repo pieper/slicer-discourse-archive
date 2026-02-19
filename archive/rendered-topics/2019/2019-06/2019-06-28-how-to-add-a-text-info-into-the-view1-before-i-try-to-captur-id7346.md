@@ -1,3 +1,10 @@
+---
+topic_id: 7346
+title: "How To Add A Text Info Into The View1 Before I Try To Captur"
+date: 2019-06-28
+url: https://discourse.slicer.org/t/7346
+---
+
 # How to add a text-info into the View1 before I try to capture a video
 
 **Topic ID**: 7346

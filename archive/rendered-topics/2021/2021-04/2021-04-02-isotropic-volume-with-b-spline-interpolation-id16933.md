@@ -1,3 +1,10 @@
+---
+topic_id: 16933
+title: "Isotropic Volume With B Spline Interpolation"
+date: 2021-04-02
+url: https://discourse.slicer.org/t/16933
+---
+
 # Isotropic Volume with B-Spline Interpolation
 
 **Topic ID**: 16933

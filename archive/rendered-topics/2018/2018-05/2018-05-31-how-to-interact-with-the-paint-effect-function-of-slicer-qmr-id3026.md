@@ -1,3 +1,10 @@
+---
+topic_id: 3026
+title: "How To Interact With The Paint Effect Function Of Slicer Qmr"
+date: 2018-05-31
+url: https://discourse.slicer.org/t/3026
+---
+
 # How to interact with the 'Paint' effect function of slicer.qMRMLSegmentEditorWidget instance
 
 **Topic ID**: 3026

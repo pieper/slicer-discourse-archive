@@ -1,3 +1,10 @@
+---
+topic_id: 42338
+title: "Engraving With Segmenteditorextraeffects"
+date: 2025-03-28
+url: https://discourse.slicer.org/t/42338
+---
+
 # Engraving with SegmentEditorExtraEffects
 
 **Topic ID**: 42338

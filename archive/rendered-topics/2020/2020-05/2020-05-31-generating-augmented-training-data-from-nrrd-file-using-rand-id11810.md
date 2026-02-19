@@ -1,3 +1,10 @@
+---
+topic_id: 11810
+title: "Generating Augmented Training Data From Nrrd File Using Rand"
+date: 2020-05-31
+url: https://discourse.slicer.org/t/11810
+---
+
 # Generating augmented training data from nrrd file using random translations, rotations, and deformations
 
 **Topic ID**: 11810

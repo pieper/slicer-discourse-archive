@@ -1,3 +1,10 @@
+---
+topic_id: 18576
+title: "Model Distorts When Using Logical Operators"
+date: 2021-07-08
+url: https://discourse.slicer.org/t/18576
+---
+
 # Model distorts when using logical operators
 
 **Topic ID**: 18576

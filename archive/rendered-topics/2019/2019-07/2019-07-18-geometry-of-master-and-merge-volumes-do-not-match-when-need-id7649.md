@@ -1,3 +1,10 @@
+---
+topic_id: 7649
+title: "Geometry Of Master And Merge Volumes Do Not Match When Need"
+date: 2019-07-18
+url: https://discourse.slicer.org/t/7649
+---
+
 # Geometry of master and merge volumes do not match when need to edit segmentation mask
 
 **Topic ID**: 7649

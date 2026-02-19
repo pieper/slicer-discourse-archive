@@ -1,3 +1,10 @@
+---
+topic_id: 21589
+title: "Slicer Linux Application And Extension Packages Upload Will"
+date: 2022-01-24
+url: https://discourse.slicer.org/t/21589
+---
+
 # Slicer Linux application and extension packages upload will be restored Jan 24th 2022
 
 **Topic ID**: 21589

@@ -1,3 +1,10 @@
+---
+topic_id: 16718
+title: "Concept Implementing Slicers Segmentation To An Augmented Re"
+date: 2021-03-23
+url: https://discourse.slicer.org/t/16718
+---
+
 # Concept: Implementing Slicer's Segmentation to an Augmented Reality App
 
 **Topic ID**: 16718

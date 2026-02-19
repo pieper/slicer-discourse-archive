@@ -1,3 +1,10 @@
+---
+topic_id: 20870
+title: "How To Create Markups Point List Template With Gui"
+date: 2021-12-01
+url: https://discourse.slicer.org/t/20870
+---
+
 # How to create Markups Point List template with GUI
 
 **Topic ID**: 20870

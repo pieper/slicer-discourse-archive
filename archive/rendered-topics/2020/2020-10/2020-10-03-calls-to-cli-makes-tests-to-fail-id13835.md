@@ -1,3 +1,10 @@
+---
+topic_id: 13835
+title: "Calls To Cli Makes Tests To Fail"
+date: 2020-10-03
+url: https://discourse.slicer.org/t/13835
+---
+
 # Calls to CLI makes tests to fail
 
 **Topic ID**: 13835

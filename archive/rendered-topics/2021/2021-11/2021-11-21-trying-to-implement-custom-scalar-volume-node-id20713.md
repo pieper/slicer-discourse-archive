@@ -1,3 +1,10 @@
+---
+topic_id: 20713
+title: "Trying To Implement Custom Scalar Volume Node"
+date: 2021-11-21
+url: https://discourse.slicer.org/t/20713
+---
+
 # Trying to implement custom scalar volume node
 
 **Topic ID**: 20713

@@ -1,3 +1,10 @@
+---
+topic_id: 9608
+title: "Volume Rendering Roi Setandobserveroinodeid Problem"
+date: 2019-12-24
+url: https://discourse.slicer.org/t/9608
+---
+
 # Volume Rendering ROI SetAndObserveROINodeID problem
 
 **Topic ID**: 9608

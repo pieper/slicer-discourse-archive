@@ -1,3 +1,10 @@
+---
+topic_id: 8695
+title: "How Can I Import In The Same Volume 3 Dicom Files Of The Sam"
+date: 2019-10-07
+url: https://discourse.slicer.org/t/8695
+---
+
 # How can I import in the same volume 3 DICOM files of the same volume
 
 **Topic ID**: 8695

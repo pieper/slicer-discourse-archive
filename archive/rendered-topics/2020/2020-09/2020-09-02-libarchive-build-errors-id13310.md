@@ -1,3 +1,10 @@
+---
+topic_id: 13310
+title: "Libarchive Build Errors"
+date: 2020-09-02
+url: https://discourse.slicer.org/t/13310
+---
+
 # LibArchive build errors
 
 **Topic ID**: 13310

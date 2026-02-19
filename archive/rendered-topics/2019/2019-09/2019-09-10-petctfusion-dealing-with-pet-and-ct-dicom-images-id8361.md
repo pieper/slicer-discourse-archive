@@ -1,3 +1,10 @@
+---
+topic_id: 8361
+title: "Petctfusion Dealing With Pet And Ct Dicom Images"
+date: 2019-09-10
+url: https://discourse.slicer.org/t/8361
+---
+
 # PETCTfusion (dealing with PET and CT DICOM images)
 
 **Topic ID**: 8361

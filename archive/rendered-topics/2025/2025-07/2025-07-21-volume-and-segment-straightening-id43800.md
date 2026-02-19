@@ -1,3 +1,10 @@
+---
+topic_id: 43800
+title: "Volume And Segment Straightening"
+date: 2025-07-21
+url: https://discourse.slicer.org/t/43800
+---
+
 # Volume and segment straightening
 
 **Topic ID**: 43800

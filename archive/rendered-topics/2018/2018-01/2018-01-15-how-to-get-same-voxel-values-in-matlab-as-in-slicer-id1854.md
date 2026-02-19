@@ -1,3 +1,10 @@
+---
+topic_id: 1854
+title: "How To Get Same Voxel Values In Matlab As In Slicer"
+date: 2018-01-15
+url: https://discourse.slicer.org/t/1854
+---
+
 # How to get same voxel values in Matlab as in Slicer
 
 **Topic ID**: 1854

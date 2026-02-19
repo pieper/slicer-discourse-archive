@@ -1,3 +1,10 @@
+---
+topic_id: 24582
+title: "Problem When Uploading Volumes For Registration"
+date: 2022-07-31
+url: https://discourse.slicer.org/t/24582
+---
+
 # Problem when uploading volumes for registration
 
 **Topic ID**: 24582

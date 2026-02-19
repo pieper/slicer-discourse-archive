@@ -1,3 +1,10 @@
+---
+topic_id: 950
+title: "Observing A Change In Sliceoffset Within A Segmenteditoreffe"
+date: 2017-08-25
+url: https://discourse.slicer.org/t/950
+---
+
 # Observing a change in SliceOffset within a SegmentEditorEffect class
 
 **Topic ID**: 950

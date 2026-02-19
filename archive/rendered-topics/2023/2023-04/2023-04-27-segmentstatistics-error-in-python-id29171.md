@@ -1,3 +1,10 @@
+---
+topic_id: 29171
+title: "Segmentstatistics Error In Python"
+date: 2023-04-27
+url: https://discourse.slicer.org/t/29171
+---
+
 # SegmentStatistics error in Python
 
 **Topic ID**: 29171

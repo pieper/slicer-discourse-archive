@@ -1,3 +1,10 @@
+---
+topic_id: 26135
+title: "How To Hide The Code Of The Script Module"
+date: 2022-11-08
+url: https://discourse.slicer.org/t/26135
+---
+
 # How to hide the code of the script module?
 
 **Topic ID**: 26135

@@ -1,3 +1,10 @@
+---
+topic_id: 433
+title: "Project Template"
+date: 2017-06-02
+url: https://discourse.slicer.org/t/433
+---
+
 # Project Template
 
 **Topic ID**: 433

@@ -1,3 +1,10 @@
+---
+topic_id: 25151
+title: "How To Calculate The Closest Distance Between A Control Poin"
+date: 2022-09-08
+url: https://discourse.slicer.org/t/25151
+---
+
 # How to calculate the closest distance between a control point and a model node
 
 **Topic ID**: 25151

@@ -1,3 +1,10 @@
+---
+topic_id: 30745
+title: "How To Create An Image Slice And Add Observer"
+date: 2023-07-23
+url: https://discourse.slicer.org/t/30745
+---
+
 # How to create an image slice and add observer
 
 **Topic ID**: 30745

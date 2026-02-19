@@ -1,3 +1,10 @@
+---
+topic_id: 28185
+title: "Conversion Of Step File From Stl File"
+date: 2023-03-06
+url: https://discourse.slicer.org/t/28185
+---
+
 # Conversion of step file from stl file
 
 **Topic ID**: 28185

@@ -1,3 +1,10 @@
+---
+topic_id: 5152
+title: "How To Measure Volume Of White Matter Lesions Using 3D Slice"
+date: 2018-12-20
+url: https://discourse.slicer.org/t/5152
+---
+
 # How to measure volume of white matter lesions using 3D Slicer version 4.10.0?
 
 **Topic ID**: 5152

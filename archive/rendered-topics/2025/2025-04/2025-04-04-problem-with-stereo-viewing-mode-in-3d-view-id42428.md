@@ -1,3 +1,10 @@
+---
+topic_id: 42428
+title: "Problem With Stereo Viewing Mode In 3D View"
+date: 2025-04-04
+url: https://discourse.slicer.org/t/42428
+---
+
 # Problem with Stereo viewing mode in 3d view
 
 **Topic ID**: 42428

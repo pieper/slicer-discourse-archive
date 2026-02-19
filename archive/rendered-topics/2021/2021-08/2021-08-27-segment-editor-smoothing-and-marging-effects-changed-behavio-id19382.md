@@ -1,3 +1,10 @@
+---
+topic_id: 19382
+title: "Segment Editor Smoothing And Marging Effects Changed Behavio"
+date: 2021-08-27
+url: https://discourse.slicer.org/t/19382
+---
+
 # Segment editor Smoothing and marging effects changed behavior from 4.11 to 4.13
 
 **Topic ID**: 19382

@@ -1,3 +1,10 @@
+---
+topic_id: 26602
+title: "Draco Compression"
+date: 2022-12-06
+url: https://discourse.slicer.org/t/26602
+---
+
 # Draco compression
 
 **Topic ID**: 26602

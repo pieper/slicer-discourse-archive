@@ -1,3 +1,10 @@
+---
+topic_id: 21360
+title: "Is There Any Extension To Measure The Angle Between A Line A"
+date: 2022-01-08
+url: https://discourse.slicer.org/t/21360
+---
+
 # Is there any extension to measure the angle between a line and a planes directly?
 
 **Topic ID**: 21360

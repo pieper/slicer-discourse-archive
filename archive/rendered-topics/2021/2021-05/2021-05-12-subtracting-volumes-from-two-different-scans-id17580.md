@@ -1,3 +1,10 @@
+---
+topic_id: 17580
+title: "Subtracting Volumes From Two Different Scans"
+date: 2021-05-12
+url: https://discourse.slicer.org/t/17580
+---
+
 # Subtracting volumes from two different scans
 
 **Topic ID**: 17580

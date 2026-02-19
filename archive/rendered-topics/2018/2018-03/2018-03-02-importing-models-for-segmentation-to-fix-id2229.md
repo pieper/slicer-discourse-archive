@@ -1,3 +1,10 @@
+---
+topic_id: 2229
+title: "Importing Models For Segmentation To Fix"
+date: 2018-03-02
+url: https://discourse.slicer.org/t/2229
+---
+
 # Importing models for segmentation to fix
 
 **Topic ID**: 2229

@@ -1,3 +1,10 @@
+---
+topic_id: 33400
+title: "Active Learning Strategies In Monai"
+date: 2023-12-15
+url: https://discourse.slicer.org/t/33400
+---
+
 # Active Learning Strategies in MONAI
 
 **Topic ID**: 33400

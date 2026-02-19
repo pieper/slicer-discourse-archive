@@ -1,3 +1,10 @@
+---
+topic_id: 25625
+title: "Hot Measure Mandibular Condyle Remodelling Using Spharm Modu"
+date: 2022-10-10
+url: https://discourse.slicer.org/t/25625
+---
+
 # Hot measure mandibular condyle remodelling using SPHARM module in either Slicer or Slicre SALT software
 
 **Topic ID**: 25625

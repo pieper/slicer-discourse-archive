@@ -1,3 +1,10 @@
+---
+topic_id: 11295
+title: "Proposed New Slicer Logo"
+date: 2020-04-24
+url: https://discourse.slicer.org/t/11295
+---
+
 # Proposed new Slicer logo
 
 **Topic ID**: 11295

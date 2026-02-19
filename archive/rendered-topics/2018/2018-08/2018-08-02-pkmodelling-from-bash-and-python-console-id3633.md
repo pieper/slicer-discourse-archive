@@ -1,3 +1,10 @@
+---
+topic_id: 3633
+title: "Pkmodelling From Bash And Python Console"
+date: 2018-08-02
+url: https://discourse.slicer.org/t/3633
+---
+
 # pkModelling from bash and python console
 
 **Topic ID**: 3633

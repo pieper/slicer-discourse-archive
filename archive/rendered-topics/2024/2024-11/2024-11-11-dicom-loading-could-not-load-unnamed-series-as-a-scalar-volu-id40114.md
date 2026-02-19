@@ -1,3 +1,10 @@
+---
+topic_id: 40114
+title: "Dicom Loading Could Not Load Unnamed Series As A Scalar Volu"
+date: 2024-11-11
+url: https://discourse.slicer.org/t/40114
+---
+
 # DICOM loading - Could not load: Unnamed Series as a Scalar Volume
 
 **Topic ID**: 40114

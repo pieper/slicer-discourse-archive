@@ -1,3 +1,10 @@
+---
+topic_id: 19174
+title: "Adding Volume In C"
+date: 2021-08-12
+url: https://discourse.slicer.org/t/19174
+---
+
 # Adding volume in C++
 
 **Topic ID**: 19174

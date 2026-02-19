@@ -1,3 +1,10 @@
+---
+topic_id: 19345
+title: "Elastix Registration Jupyter"
+date: 2021-08-24
+url: https://discourse.slicer.org/t/19345
+---
+
 # Elastix registration-Jupyter
 
 **Topic ID**: 19345

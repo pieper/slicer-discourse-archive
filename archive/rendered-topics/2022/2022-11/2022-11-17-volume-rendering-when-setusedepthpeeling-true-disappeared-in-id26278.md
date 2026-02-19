@@ -1,3 +1,10 @@
+---
+topic_id: 26278
+title: "Volume Rendering When Setusedepthpeeling True Disappeared In"
+date: 2022-11-17
+url: https://discourse.slicer.org/t/26278
+---
+
 # Volume Rendering when SetUseDepthPeeling(True) disappeared in Windows OS
 
 **Topic ID**: 26278

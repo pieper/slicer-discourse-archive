@@ -1,3 +1,10 @@
+---
+topic_id: 22033
+title: "Match Vtkmrmlscalarvolumenode To Vtkmrmllabelmapvolumenode R"
+date: 2022-02-17
+url: https://discourse.slicer.org/t/22033
+---
+
 # Match vtkMRMLScalarVolumeNode to vtkMRMLLabelMapVolumeNode retrieved from vtkMRMLSegmentationNode
 
 **Topic ID**: 22033

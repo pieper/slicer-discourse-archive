@@ -1,3 +1,10 @@
+---
+topic_id: 22709
+title: "Proposition To Preserve Slice View Aspect Ratio When Resizin"
+date: 2022-03-27
+url: https://discourse.slicer.org/t/22709
+---
+
 # Proposition to preserve Slice view aspect ratio when resizing the window
 
 **Topic ID**: 22709

@@ -1,3 +1,10 @@
+---
+topic_id: 26400
+title: "Connect Multiple Clients On Same Port Number Using Openigtli"
+date: 2022-11-23
+url: https://discourse.slicer.org/t/26400
+---
+
 # Connect multiple clients on same port number using OpenIGTLink
 
 **Topic ID**: 26400

@@ -1,3 +1,10 @@
+---
+topic_id: 2550
+title: "Register Ct With Mri Tutorial"
+date: 2018-04-09
+url: https://discourse.slicer.org/t/2550
+---
+
 # Register CT with MRI tutorial
 
 **Topic ID**: 2550

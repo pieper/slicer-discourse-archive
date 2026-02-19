@@ -1,3 +1,10 @@
+---
+topic_id: 34500
+title: "Data Sorting In Scene By Type And File Name"
+date: 2024-02-23
+url: https://discourse.slicer.org/t/34500
+---
+
 # Data sorting in scene by type and file name
 
 **Topic ID**: 34500

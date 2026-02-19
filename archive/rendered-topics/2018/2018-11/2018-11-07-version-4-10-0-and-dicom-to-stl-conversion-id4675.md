@@ -1,3 +1,10 @@
+---
+topic_id: 4675
+title: "Version 4 10 0 And Dicom To Stl Conversion"
+date: 2018-11-07
+url: https://discourse.slicer.org/t/4675
+---
+
 # Version 4.10.0 and DICOM to STL conversion
 
 **Topic ID**: 4675

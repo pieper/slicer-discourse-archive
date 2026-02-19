@@ -1,3 +1,10 @@
+---
+topic_id: 37091
+title: "Visibility Of Markups Angle In 2D Slice Views Is Unlike Othe"
+date: 2024-06-28
+url: https://discourse.slicer.org/t/37091
+---
+
 # Visibility of markups angle in 2D slice views is unlike other markups
 
 **Topic ID**: 37091

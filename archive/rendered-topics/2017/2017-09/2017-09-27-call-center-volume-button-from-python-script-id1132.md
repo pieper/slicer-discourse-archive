@@ -1,3 +1,10 @@
+---
+topic_id: 1132
+title: "Call Center Volume Button From Python Script"
+date: 2017-09-27
+url: https://discourse.slicer.org/t/1132
+---
+
 # Call "Center Volume" button from python script
 
 **Topic ID**: 1132

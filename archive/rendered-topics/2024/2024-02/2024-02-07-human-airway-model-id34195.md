@@ -1,3 +1,10 @@
+---
+topic_id: 34195
+title: "Human Airway Model"
+date: 2024-02-07
+url: https://discourse.slicer.org/t/34195
+---
+
 # Human airway model
 
 **Topic ID**: 34195

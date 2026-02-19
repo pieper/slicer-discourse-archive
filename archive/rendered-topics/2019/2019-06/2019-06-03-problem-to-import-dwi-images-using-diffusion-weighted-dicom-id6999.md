@@ -1,3 +1,10 @@
+---
+topic_id: 6999
+title: "Problem To Import Dwi Images Using Diffusion Weighted Dicom"
+date: 2019-06-03
+url: https://discourse.slicer.org/t/6999
+---
+
 # Problem to import DWI images using Diffusion-weighted DICOM Import (DWIConvert)
 
 **Topic ID**: 6999

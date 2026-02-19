@@ -1,3 +1,10 @@
+---
+topic_id: 32627
+title: "Output The Color Map Of My Dicom File"
+date: 2023-11-06
+url: https://discourse.slicer.org/t/32627
+---
+
 # Output the color map of my DICOM file
 
 **Topic ID**: 32627

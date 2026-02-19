@@ -1,3 +1,10 @@
+---
+topic_id: 10743
+title: "Dwi Data Denoising"
+date: 2020-03-19
+url: https://discourse.slicer.org/t/10743
+---
+
 # DWI data denoising
 
 **Topic ID**: 10743

@@ -1,3 +1,10 @@
+---
+topic_id: 41299
+title: "Closed Surface Area Measurement Going To 0"
+date: 2025-01-26
+url: https://discourse.slicer.org/t/41299
+---
+
 # Closed surface area measurement going to 0
 
 **Topic ID**: 41299

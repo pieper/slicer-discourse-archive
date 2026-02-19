@@ -1,3 +1,10 @@
+---
+topic_id: 8497
+title: "Importing Numpy Npz Files Into Slicer"
+date: 2019-09-19
+url: https://discourse.slicer.org/t/8497
+---
+
 # Importing Numpy & NPZ files into Slicer
 
 **Topic ID**: 8497

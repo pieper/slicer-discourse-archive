@@ -1,3 +1,10 @@
+---
+topic_id: 29952
+title: "Tractography Single Color Tract Not Multi Color Tract"
+date: 2023-06-09
+url: https://discourse.slicer.org/t/29952
+---
+
 # tractography single color tract not multi-color tract
 
 **Topic ID**: 29952

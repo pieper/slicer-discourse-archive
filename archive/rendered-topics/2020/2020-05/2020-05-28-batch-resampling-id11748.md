@@ -1,3 +1,10 @@
+---
+topic_id: 11748
+title: "Batch Resampling"
+date: 2020-05-28
+url: https://discourse.slicer.org/t/11748
+---
+
 # Batch resampling
 
 **Topic ID**: 11748

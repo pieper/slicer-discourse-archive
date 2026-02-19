@@ -1,3 +1,10 @@
+---
+topic_id: 31327
+title: "How To Use My Custom Qt Widget In Python"
+date: 2023-08-24
+url: https://discourse.slicer.org/t/31327
+---
+
 # How to use my custom qt-widget in python?
 
 **Topic ID**: 31327

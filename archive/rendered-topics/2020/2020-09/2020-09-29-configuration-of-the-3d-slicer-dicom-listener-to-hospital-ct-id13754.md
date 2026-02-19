@@ -1,3 +1,10 @@
+---
+topic_id: 13754
+title: "Configuration Of The 3D Slicer Dicom Listener To Hospital Ct"
+date: 2020-09-29
+url: https://discourse.slicer.org/t/13754
+---
+
 # Configuration of the 3D Slicer DICOM Listener to Hospital CT
 
 **Topic ID**: 13754

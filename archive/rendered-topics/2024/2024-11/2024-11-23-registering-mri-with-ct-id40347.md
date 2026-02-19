@@ -1,3 +1,10 @@
+---
+topic_id: 40347
+title: "Registering Mri With Ct"
+date: 2024-11-23
+url: https://discourse.slicer.org/t/40347
+---
+
 # Registering mri with ct
 
 **Topic ID**: 40347

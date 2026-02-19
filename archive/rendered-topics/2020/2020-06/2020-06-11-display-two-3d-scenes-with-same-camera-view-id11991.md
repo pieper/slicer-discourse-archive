@@ -1,3 +1,10 @@
+---
+topic_id: 11991
+title: "Display Two 3D Scenes With Same Camera View"
+date: 2020-06-11
+url: https://discourse.slicer.org/t/11991
+---
+
 # Display two 3D scenes with same camera view
 
 **Topic ID**: 11991

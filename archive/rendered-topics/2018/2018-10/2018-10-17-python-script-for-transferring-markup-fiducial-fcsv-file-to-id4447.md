@@ -1,3 +1,10 @@
+---
+topic_id: 4447
+title: "Python Script For Transferring Markup Fiducial Fcsv File To"
+date: 2018-10-17
+url: https://discourse.slicer.org/t/4447
+---
+
 # Python script for transferring markup fiducial (fcsv file) to Excel
 
 **Topic ID**: 4447

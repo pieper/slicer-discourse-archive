@@ -1,3 +1,10 @@
+---
+topic_id: 8
+title: "Welcome To The 3D Slicer Forum"
+date: 2017-04-07
+url: https://discourse.slicer.org/t/8
+---
+
 # Welcome to the 3D Slicer Forum!
 
 **Topic ID**: 8

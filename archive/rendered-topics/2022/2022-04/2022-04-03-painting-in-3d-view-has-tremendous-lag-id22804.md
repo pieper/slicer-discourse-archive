@@ -1,3 +1,10 @@
+---
+topic_id: 22804
+title: "Painting In 3D View Has Tremendous Lag"
+date: 2022-04-03
+url: https://discourse.slicer.org/t/22804
+---
+
 # Painting in 3D view has tremendous lag
 
 **Topic ID**: 22804

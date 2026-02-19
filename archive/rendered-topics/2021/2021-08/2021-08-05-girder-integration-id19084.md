@@ -1,3 +1,10 @@
+---
+topic_id: 19084
+title: "Girder Integration"
+date: 2021-08-05
+url: https://discourse.slicer.org/t/19084
+---
+
 # Girder Integration
 
 **Topic ID**: 19084

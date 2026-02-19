@@ -1,3 +1,10 @@
+---
+topic_id: 21860
+title: "Is It Possible To Resample A Volume Along A Different Set Of"
+date: 2022-02-08
+url: https://discourse.slicer.org/t/21860
+---
+
 # Is it possible to resample a volume along a different set of axes?
 
 **Topic ID**: 21860

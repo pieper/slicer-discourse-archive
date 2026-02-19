@@ -1,3 +1,10 @@
+---
+topic_id: 18205
+title: "Get New Fiducial Position After Transform"
+date: 2021-06-18
+url: https://discourse.slicer.org/t/18205
+---
+
 # Get new fiducial position after transform
 
 **Topic ID**: 18205

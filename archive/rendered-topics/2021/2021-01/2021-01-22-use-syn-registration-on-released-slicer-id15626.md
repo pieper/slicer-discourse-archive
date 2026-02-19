@@ -1,3 +1,10 @@
+---
+topic_id: 15626
+title: "Use Syn Registration On Released Slicer"
+date: 2021-01-22
+url: https://discourse.slicer.org/t/15626
+---
+
 # Use SyN registration on released Slicer
 
 **Topic ID**: 15626

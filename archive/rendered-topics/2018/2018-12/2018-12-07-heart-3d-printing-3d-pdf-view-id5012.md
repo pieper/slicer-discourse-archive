@@ -1,3 +1,10 @@
+---
+topic_id: 5012
+title: "Heart 3D Printing 3D Pdf View"
+date: 2018-12-07
+url: https://discourse.slicer.org/t/5012
+---
+
 # Heart: 3D Printing/ 3D PDF view
 
 **Topic ID**: 5012

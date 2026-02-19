@@ -1,3 +1,10 @@
+---
+topic_id: 9836
+title: "Show 2D Slices Based On Needle Tip Location In Slicer 4"
+date: 2020-01-16
+url: https://discourse.slicer.org/t/9836
+---
+
 # Show 2D slices based on needle tip location in Slicer 4
 
 **Topic ID**: 9836

@@ -1,3 +1,10 @@
+---
+topic_id: 29895
+title: "Are There Any Examples Of Integrating Conan Into 3D Slicer E"
+date: 2023-06-07
+url: https://discourse.slicer.org/t/29895
+---
+
 # Are there any examples of integrating conan into 3d slicer extension?
 
 **Topic ID**: 29895

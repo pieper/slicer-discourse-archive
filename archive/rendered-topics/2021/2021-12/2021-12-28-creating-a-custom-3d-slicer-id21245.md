@@ -1,3 +1,10 @@
+---
+topic_id: 21245
+title: "Creating A Custom 3D Slicer"
+date: 2021-12-28
+url: https://discourse.slicer.org/t/21245
+---
+
 # Creating a custom 3D Slicer
 
 **Topic ID**: 21245

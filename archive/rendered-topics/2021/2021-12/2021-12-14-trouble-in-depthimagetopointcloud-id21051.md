@@ -1,3 +1,10 @@
+---
+topic_id: 21051
+title: "Trouble In Depthimagetopointcloud"
+date: 2021-12-14
+url: https://discourse.slicer.org/t/21051
+---
+
 # Trouble in DepthImageToPointCloud
 
 **Topic ID**: 21051

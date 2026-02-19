@@ -1,3 +1,10 @@
+---
+topic_id: 2521
+title: "Displaying Textured 3D Models"
+date: 2018-04-05
+url: https://discourse.slicer.org/t/2521
+---
+
 # Displaying textured 3D models
 
 **Topic ID**: 2521

@@ -1,3 +1,10 @@
+---
+topic_id: 15579
+title: "Can I Draw A Line In A Segment By Two Points X Y"
+date: 2021-01-18
+url: https://discourse.slicer.org/t/15579
+---
+
 # Can I draw a line in a segment by two points(X,Y)
 
 **Topic ID**: 15579

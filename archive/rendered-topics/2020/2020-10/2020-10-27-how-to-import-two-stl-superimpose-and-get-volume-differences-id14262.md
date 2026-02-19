@@ -1,3 +1,10 @@
+---
+topic_id: 14262
+title: "How To Import Two Stl Superimpose And Get Volume Differences"
+date: 2020-10-27
+url: https://discourse.slicer.org/t/14262
+---
+
 # How to import two stl, superimpose and get volume differences
 
 **Topic ID**: 14262

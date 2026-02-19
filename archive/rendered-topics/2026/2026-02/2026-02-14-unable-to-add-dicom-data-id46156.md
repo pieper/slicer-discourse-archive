@@ -1,3 +1,10 @@
+---
+topic_id: 46156
+title: "Unable To Add Dicom Data"
+date: 2026-02-14
+url: https://discourse.slicer.org/t/46156
+---
+
 # Unable to add DICOM data
 
 **Topic ID**: 46156

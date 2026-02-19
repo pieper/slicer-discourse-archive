@@ -1,3 +1,10 @@
+---
+topic_id: 35494
+title: "Sliceviews Propagate Volume Selection Is Not Working"
+date: 2024-04-15
+url: https://discourse.slicer.org/t/35494
+---
+
 # SliceViews - Propagate volume selection is not working?
 
 **Topic ID**: 35494

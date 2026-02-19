@@ -1,3 +1,10 @@
+---
+topic_id: 20505
+title: "How Should We Load Fast Marching Since 88673Aa In Extra Effe"
+date: 2021-11-06
+url: https://discourse.slicer.org/t/20505
+---
+
 # How should we load 'Fast marching' since 88673aa in extra effects?
 
 **Topic ID**: 20505

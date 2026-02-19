@@ -1,3 +1,10 @@
+---
+topic_id: 33340
+title: "Slicer Crashes On Launch With Pc Register Does Not Match Cra"
+date: 2023-12-11
+url: https://discourse.slicer.org/t/33340
+---
+
 # Slicer crashes on launch with "PC register does not match crashing frame" - mac Sonoma 14.0
 
 **Topic ID**: 33340

@@ -1,3 +1,10 @@
+---
+topic_id: 24406
+title: "Python Code To Play A Macro"
+date: 2022-07-20
+url: https://discourse.slicer.org/t/24406
+---
+
 # Python code to Play a Macro
 
 **Topic ID**: 24406

@@ -1,3 +1,10 @@
+---
+topic_id: 13907
+title: "Errors When Saving Vtkmrmltextnode To Scene"
+date: 2020-10-06
+url: https://discourse.slicer.org/t/13907
+---
+
 # Errors when saving vtkMRMLTextNode to scene
 
 **Topic ID**: 13907

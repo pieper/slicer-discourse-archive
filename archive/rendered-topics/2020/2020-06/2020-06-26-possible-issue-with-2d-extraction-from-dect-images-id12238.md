@@ -1,3 +1,10 @@
+---
+topic_id: 12238
+title: "Possible Issue With 2D Extraction From Dect Images"
+date: 2020-06-26
+url: https://discourse.slicer.org/t/12238
+---
+
 # Possible issue with 2D extraction from DECT images
 
 **Topic ID**: 12238

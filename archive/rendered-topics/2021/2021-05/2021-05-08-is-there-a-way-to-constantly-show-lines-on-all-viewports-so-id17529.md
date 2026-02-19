@@ -1,3 +1,10 @@
+---
+topic_id: 17529
+title: "Is There A Way To Constantly Show Lines On All Viewports So"
+date: 2021-05-08
+url: https://discourse.slicer.org/t/17529
+---
+
 # Is there a way to constantly show lines on all viewports so that we know where each view is?
 
 **Topic ID**: 17529

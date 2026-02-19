@@ -1,3 +1,10 @@
+---
+topic_id: 45963
+title: "Alpaca Template Selection K Means"
+date: 2026-01-28
+url: https://discourse.slicer.org/t/45963
+---
+
 # Alpaca template selection K-means
 
 **Topic ID**: 45963

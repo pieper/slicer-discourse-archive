@@ -1,3 +1,10 @@
+---
+topic_id: 18111
+title: "Changing Qsurfaceformat Of A Threedwidget"
+date: 2021-06-14
+url: https://discourse.slicer.org/t/18111
+---
+
 # Changing QSurfaceFormat of a ThreeDWidget
 
 **Topic ID**: 18111

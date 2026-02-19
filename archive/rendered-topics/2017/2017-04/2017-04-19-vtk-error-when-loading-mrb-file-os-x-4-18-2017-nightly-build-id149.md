@@ -1,3 +1,10 @@
+---
+topic_id: 149
+title: "Vtk Error When Loading Mrb File Os X 4 18 2017 Nightly Build"
+date: 2017-04-19
+url: https://discourse.slicer.org/t/149
+---
+
 # VTK error when loading mrb file [OS X, 4-18-2017 nightly build]
 
 **Topic ID**: 149

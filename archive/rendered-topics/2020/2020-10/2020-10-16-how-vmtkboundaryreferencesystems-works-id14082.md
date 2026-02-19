@@ -1,3 +1,10 @@
+---
+topic_id: 14082
+title: "How Vmtkboundaryreferencesystems Works"
+date: 2020-10-16
+url: https://discourse.slicer.org/t/14082
+---
+
 # How vmtkboundaryreferencesystems works?
 
 **Topic ID**: 14082

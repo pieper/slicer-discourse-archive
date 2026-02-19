@@ -1,3 +1,10 @@
+---
+topic_id: 4959
+title: "Liking Slicer 4 11 0 But Missing Tools In Segment Editor"
+date: 2018-12-04
+url: https://discourse.slicer.org/t/4959
+---
+
 # Liking Slicer 4.11.0 but missing tools in segment editor
 
 **Topic ID**: 4959

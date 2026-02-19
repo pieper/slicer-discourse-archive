@@ -1,3 +1,10 @@
+---
+topic_id: 23467
+title: "Proxy Issue In Extensions Manager"
+date: 2022-05-18
+url: https://discourse.slicer.org/t/23467
+---
+
 # Proxy issue in Extensions Manager
 
 **Topic ID**: 23467

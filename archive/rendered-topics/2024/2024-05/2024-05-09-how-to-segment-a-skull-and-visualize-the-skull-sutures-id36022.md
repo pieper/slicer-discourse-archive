@@ -1,3 +1,10 @@
+---
+topic_id: 36022
+title: "How To Segment A Skull And Visualize The Skull Sutures"
+date: 2024-05-09
+url: https://discourse.slicer.org/t/36022
+---
+
 # How to segment a skull and visualize the skull sutures
 
 **Topic ID**: 36022

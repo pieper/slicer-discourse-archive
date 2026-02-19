@@ -1,3 +1,10 @@
+---
+topic_id: 35333
+title: "Landmarkregistrationwidget Object Has No Attribute Landmarks"
+date: 2024-04-07
+url: https://discourse.slicer.org/t/35333
+---
+
 # 'LandmarkRegistrationWidget' object has no attribute 'landmarksWidget'
 
 **Topic ID**: 35333

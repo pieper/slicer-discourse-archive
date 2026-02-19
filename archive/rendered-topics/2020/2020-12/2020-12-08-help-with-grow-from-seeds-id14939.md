@@ -1,3 +1,10 @@
+---
+topic_id: 14939
+title: "Help With Grow From Seeds"
+date: 2020-12-08
+url: https://discourse.slicer.org/t/14939
+---
+
 # Help with "Grow from Seeds"
 
 **Topic ID**: 14939

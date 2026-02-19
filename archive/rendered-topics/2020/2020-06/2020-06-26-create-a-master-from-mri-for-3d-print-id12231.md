@@ -1,3 +1,10 @@
+---
+topic_id: 12231
+title: "Create A Master From Mri For 3D Print"
+date: 2020-06-26
+url: https://discourse.slicer.org/t/12231
+---
+
 # Create a master from MRI for 3D print
 
 **Topic ID**: 12231

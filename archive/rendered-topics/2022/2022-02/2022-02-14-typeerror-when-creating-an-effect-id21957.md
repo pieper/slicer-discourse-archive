@@ -1,3 +1,10 @@
+---
+topic_id: 21957
+title: "Typeerror When Creating An Effect"
+date: 2022-02-14
+url: https://discourse.slicer.org/t/21957
+---
+
 # TypeError when creating an Effect
 
 **Topic ID**: 21957

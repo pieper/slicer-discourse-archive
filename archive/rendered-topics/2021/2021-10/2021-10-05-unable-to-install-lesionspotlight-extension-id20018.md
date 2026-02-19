@@ -1,3 +1,10 @@
+---
+topic_id: 20018
+title: "Unable To Install Lesionspotlight Extension"
+date: 2021-10-05
+url: https://discourse.slicer.org/t/20018
+---
+
 # Unable to install LesionSpotlight Extension
 
 **Topic ID**: 20018

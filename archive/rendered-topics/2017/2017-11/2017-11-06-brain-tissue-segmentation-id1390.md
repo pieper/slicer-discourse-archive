@@ -1,3 +1,10 @@
+---
+topic_id: 1390
+title: "Brain Tissue Segmentation"
+date: 2017-11-06
+url: https://discourse.slicer.org/t/1390
+---
+
 # Brain tissue segmentation
 
 **Topic ID**: 1390

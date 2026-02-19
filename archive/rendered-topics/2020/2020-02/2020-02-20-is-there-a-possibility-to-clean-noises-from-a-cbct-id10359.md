@@ -1,3 +1,10 @@
+---
+topic_id: 10359
+title: "Is There A Possibility To Clean Noises From A Cbct"
+date: 2020-02-20
+url: https://discourse.slicer.org/t/10359
+---
+
 # Is there a possibility to clean noises from a CBCT?
 
 **Topic ID**: 10359

@@ -1,3 +1,10 @@
+---
+topic_id: 27910
+title: "Processing Slows Down After Many Iterations"
+date: 2023-02-17
+url: https://discourse.slicer.org/t/27910
+---
+
 # Processing slows down after many iterations
 
 **Topic ID**: 27910

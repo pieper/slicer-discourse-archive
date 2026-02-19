@@ -1,3 +1,10 @@
+---
+topic_id: 24152
+title: "Extraction Of Open State Mitral Valve Geometry From Ct Volum"
+date: 2022-07-02
+url: https://discourse.slicer.org/t/24152
+---
+
 # Extraction of open-state mitral valve geometry from CT volumes --- 2018
 
 **Topic ID**: 24152

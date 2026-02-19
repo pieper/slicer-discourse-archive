@@ -1,3 +1,10 @@
+---
+topic_id: 8973
+title: "Automatic Center Volume When Clicking On The Eye To Show Vol"
+date: 2019-10-31
+url: https://discourse.slicer.org/t/8973
+---
+
 # Automatic center volume when clicking on the eye to show volume
 
 **Topic ID**: 8973

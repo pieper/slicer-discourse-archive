@@ -1,3 +1,10 @@
+---
+topic_id: 2936
+title: "Slicer Three Dimension Widget Layout Not Correct On Mac"
+date: 2018-05-26
+url: https://discourse.slicer.org/t/2936
+---
+
 # Slicer three dimension widget layout not correct on Mac
 
 **Topic ID**: 2936

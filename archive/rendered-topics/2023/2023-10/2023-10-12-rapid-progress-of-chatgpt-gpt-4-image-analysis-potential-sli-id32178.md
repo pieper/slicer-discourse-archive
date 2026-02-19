@@ -1,3 +1,10 @@
+---
+topic_id: 32178
+title: "Rapid Progress Of Chatgpt Gpt 4 Image Analysis Potential Sli"
+date: 2023-10-12
+url: https://discourse.slicer.org/t/32178
+---
+
 # Rapid progress of ChatGPT (GPT-4) image analysis - potential Slicer extension?
 
 **Topic ID**: 32178

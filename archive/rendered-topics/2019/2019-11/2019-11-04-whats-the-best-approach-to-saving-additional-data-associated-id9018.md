@@ -1,3 +1,10 @@
+---
+topic_id: 9018
+title: "Whats The Best Approach To Saving Additional Data Associated"
+date: 2019-11-04
+url: https://discourse.slicer.org/t/9018
+---
+
 # What's the best approach to saving additional data associated with a module?
 
 **Topic ID**: 9018

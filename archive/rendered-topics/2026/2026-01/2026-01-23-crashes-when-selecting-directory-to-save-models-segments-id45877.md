@@ -1,3 +1,10 @@
+---
+topic_id: 45877
+title: "Crashes When Selecting Directory To Save Models Segments"
+date: 2026-01-23
+url: https://discourse.slicer.org/t/45877
+---
+
 # Crashes when selecting directory to save models & segments
 
 **Topic ID**: 45877

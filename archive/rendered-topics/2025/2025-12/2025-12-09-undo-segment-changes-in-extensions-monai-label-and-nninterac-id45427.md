@@ -1,3 +1,10 @@
+---
+topic_id: 45427
+title: "Undo Segment Changes In Extensions Monai Label And Nninterac"
+date: 2025-12-09
+url: https://discourse.slicer.org/t/45427
+---
+
 # Undo Segment Changes in Extensions: MONAI label and nnInteractive
 
 **Topic ID**: 45427

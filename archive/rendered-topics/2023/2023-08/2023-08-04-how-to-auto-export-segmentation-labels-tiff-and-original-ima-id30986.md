@@ -1,3 +1,10 @@
+---
+topic_id: 30986
+title: "How To Auto Export Segmentation Labels Tiff And Original Ima"
+date: 2023-08-04
+url: https://discourse.slicer.org/t/30986
+---
+
 # How to auto export Segmentation-Labels.tiff and Original images from .mrb file?
 
 **Topic ID**: 30986

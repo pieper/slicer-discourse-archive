@@ -1,3 +1,10 @@
+---
+topic_id: 21350
+title: "How To Change View Controller Slider Horizontal To Vertical"
+date: 2022-01-07
+url: https://discourse.slicer.org/t/21350
+---
+
 # How to change view controller slider horizontal to vertical
 
 **Topic ID**: 21350

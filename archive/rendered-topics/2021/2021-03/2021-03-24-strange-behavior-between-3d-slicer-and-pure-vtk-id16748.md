@@ -1,3 +1,10 @@
+---
+topic_id: 16748
+title: "Strange Behavior Between 3D Slicer And Pure Vtk"
+date: 2021-03-24
+url: https://discourse.slicer.org/t/16748
+---
+
 # Strange behavior between 3D Slicer and pure VTK
 
 **Topic ID**: 16748

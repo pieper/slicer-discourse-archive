@@ -1,3 +1,10 @@
+---
+topic_id: 13815
+title: "Vessel Branch Extraction"
+date: 2020-10-02
+url: https://discourse.slicer.org/t/13815
+---
+
 # Vessel branch extraction
 
 **Topic ID**: 13815

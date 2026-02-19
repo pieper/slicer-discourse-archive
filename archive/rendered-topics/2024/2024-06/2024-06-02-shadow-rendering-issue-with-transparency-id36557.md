@@ -1,3 +1,10 @@
+---
+topic_id: 36557
+title: "Shadow Rendering Issue With Transparency"
+date: 2024-06-02
+url: https://discourse.slicer.org/t/36557
+---
+
 # Shadow rendering issue with transparency
 
 **Topic ID**: 36557

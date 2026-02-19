@@ -1,3 +1,10 @@
+---
+topic_id: 15426
+title: "Question About Segmentation Of The Aortic Valve"
+date: 2021-01-09
+url: https://discourse.slicer.org/t/15426
+---
+
 # Question about segmentation of the aortic valve
 
 **Topic ID**: 15426

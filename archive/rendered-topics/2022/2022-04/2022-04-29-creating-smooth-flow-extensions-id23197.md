@@ -1,3 +1,10 @@
+---
+topic_id: 23197
+title: "Creating Smooth Flow Extensions"
+date: 2022-04-29
+url: https://discourse.slicer.org/t/23197
+---
+
 # Creating smooth flow extensions
 
 **Topic ID**: 23197

@@ -1,3 +1,10 @@
+---
+topic_id: 45806
+title: "3D Model Segmentation Export In Usdz"
+date: 2026-01-17
+url: https://discourse.slicer.org/t/45806
+---
+
 # 3d model segmentation export in usdz
 
 **Topic ID**: 45806

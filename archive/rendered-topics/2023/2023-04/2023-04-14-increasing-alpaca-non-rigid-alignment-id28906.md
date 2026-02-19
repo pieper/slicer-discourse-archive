@@ -1,3 +1,10 @@
+---
+topic_id: 28906
+title: "Increasing Alpaca Non Rigid Alignment"
+date: 2023-04-14
+url: https://discourse.slicer.org/t/28906
+---
+
 # Increasing ALPACA Non-Rigid Alignment
 
 **Topic ID**: 28906

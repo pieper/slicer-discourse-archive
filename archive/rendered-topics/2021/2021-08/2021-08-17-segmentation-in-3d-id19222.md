@@ -1,3 +1,10 @@
+---
+topic_id: 19222
+title: "Segmentation In 3D"
+date: 2021-08-17
+url: https://discourse.slicer.org/t/19222
+---
+
 # Segmentation in 3D
 
 **Topic ID**: 19222

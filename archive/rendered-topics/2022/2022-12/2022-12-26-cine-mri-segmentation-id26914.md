@@ -1,3 +1,10 @@
+---
+topic_id: 26914
+title: "Cine Mri Segmentation"
+date: 2022-12-26
+url: https://discourse.slicer.org/t/26914
+---
+
 # Cine MRI Segmentation 
 
 **Topic ID**: 26914

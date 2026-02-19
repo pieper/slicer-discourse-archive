@@ -1,3 +1,10 @@
+---
+topic_id: 565
+title: "Webcam Based Marker Tracking Is Available In Slicer Now"
+date: 2017-06-23
+url: https://discourse.slicer.org/t/565
+---
+
 # Webcam-based marker tracking is available in Slicer now
 
 **Topic ID**: 565

@@ -1,3 +1,10 @@
+---
+topic_id: 26999
+title: "The Same Problem With Disoriented Spharm Output Meshes"
+date: 2023-01-01
+url: https://discourse.slicer.org/t/26999
+---
+
 # The Same Problem with Disoriented SPHARM output meshes
 
 **Topic ID**: 26999

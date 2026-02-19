@@ -1,3 +1,10 @@
+---
+topic_id: 42637
+title: "Inverse Methods Of Curved Planar Reformat"
+date: 2025-04-20
+url: https://discourse.slicer.org/t/42637
+---
+
 # Inverse Methods of Curved Planar Reformat
 
 **Topic ID**: 42637

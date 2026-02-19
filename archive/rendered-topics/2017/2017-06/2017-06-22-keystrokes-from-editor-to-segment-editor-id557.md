@@ -1,3 +1,10 @@
+---
+topic_id: 557
+title: "Keystrokes From Editor To Segment Editor"
+date: 2017-06-22
+url: https://discourse.slicer.org/t/557
+---
+
 # Keystrokes from Editor to Segment Editor
 
 **Topic ID**: 557

@@ -1,3 +1,10 @@
+---
+topic_id: 10112
+title: "How To Import Python Libraries Installed With User Option"
+date: 2020-02-04
+url: https://discourse.slicer.org/t/10112
+---
+
 # How to import python libraries installed with --user option
 
 **Topic ID**: 10112

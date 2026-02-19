@@ -1,3 +1,10 @@
+---
+topic_id: 4650
+title: "Some Problems With 3Dslicer Shape Analysis Mancova"
+date: 2018-11-06
+url: https://discourse.slicer.org/t/4650
+---
+
 # Some problems with 3Dslicer shape analysis-MANCOVA
 
 **Topic ID**: 4650

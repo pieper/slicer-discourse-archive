@@ -1,3 +1,10 @@
+---
+topic_id: 20208
+title: "Window Resize With Model Clipping Enabled Is Extremely Slow"
+date: 2021-10-18
+url: https://discourse.slicer.org/t/20208
+---
+
 # Window resize with model clipping enabled is extremely slow
 
 **Topic ID**: 20208

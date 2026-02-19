@@ -1,3 +1,10 @@
+---
+topic_id: 20857
+title: "Is It Possible To Open The Stl File Cut The Desired Part And"
+date: 2021-12-01
+url: https://discourse.slicer.org/t/20857
+---
+
 # Is it possible to open the stl file, cut the desired part, and save it?
 
 **Topic ID**: 20857

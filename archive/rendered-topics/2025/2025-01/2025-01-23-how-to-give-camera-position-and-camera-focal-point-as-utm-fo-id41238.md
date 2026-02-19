@@ -1,3 +1,10 @@
+---
+topic_id: 41238
+title: "How To Give Camera Position And Camera Focal Point As Utm Fo"
+date: 2025-01-23
+url: https://discourse.slicer.org/t/41238
+---
+
 # How to give camera position and camera focal point  as utm format in VTK 
 
 **Topic ID**: 41238

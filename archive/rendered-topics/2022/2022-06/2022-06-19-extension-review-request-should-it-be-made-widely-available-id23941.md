@@ -1,3 +1,10 @@
+---
+topic_id: 23941
+title: "Extension Review Request Should It Be Made Widely Available"
+date: 2022-06-19
+url: https://discourse.slicer.org/t/23941
+---
+
 # Extension review request : should it be made widely available?
 
 **Topic ID**: 23941

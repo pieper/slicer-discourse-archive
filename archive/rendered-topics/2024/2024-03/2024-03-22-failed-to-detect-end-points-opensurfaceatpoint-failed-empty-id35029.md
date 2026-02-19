@@ -1,3 +1,10 @@
+---
+topic_id: 35029
+title: "Failed To Detect End Points Opensurfaceatpoint Failed Empty"
+date: 2024-03-22
+url: https://discourse.slicer.org/t/35029
+---
+
 # Failed to detect end points: openSurfaceAtPoint failed: empty input polydata Error
 
 **Topic ID**: 35029

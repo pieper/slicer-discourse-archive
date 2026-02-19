@@ -1,3 +1,10 @@
+---
+topic_id: 40990
+title: "Problem With Gpu Volume Rendering"
+date: 2025-01-08
+url: https://discourse.slicer.org/t/40990
+---
+
 # Problem with gpu volume rendering
 
 **Topic ID**: 40990

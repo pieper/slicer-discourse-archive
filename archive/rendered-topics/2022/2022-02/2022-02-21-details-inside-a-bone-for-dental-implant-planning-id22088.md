@@ -1,3 +1,10 @@
+---
+topic_id: 22088
+title: "Details Inside A Bone For Dental Implant Planning"
+date: 2022-02-21
+url: https://discourse.slicer.org/t/22088
+---
+
 # Details inside a bone for dental implant planning
 
 **Topic ID**: 22088

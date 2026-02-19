@@ -1,3 +1,10 @@
+---
+topic_id: 35474
+title: "Non Rigid Registration Of Breast Mri In Prone Position To Br"
+date: 2024-04-13
+url: https://discourse.slicer.org/t/35474
+---
+
 # Non-rigid registration of breast MRI in prone position to breast CT in supine position
 
 **Topic ID**: 35474

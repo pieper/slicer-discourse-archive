@@ -1,3 +1,10 @@
+---
+topic_id: 9851
+title: "Intravoxel Incoherent Motion Dwi"
+date: 2020-01-17
+url: https://discourse.slicer.org/t/9851
+---
+
 # Intravoxel incoherent motion DWI?
 
 **Topic ID**: 9851

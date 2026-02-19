@@ -1,3 +1,10 @@
+---
+topic_id: 7435
+title: "Extract Angular Displacement From Rotate To Volume Plane"
+date: 2019-07-05
+url: https://discourse.slicer.org/t/7435
+---
+
 # Extract angular displacement from "Rotate to Volume Plane"
 
 **Topic ID**: 7435

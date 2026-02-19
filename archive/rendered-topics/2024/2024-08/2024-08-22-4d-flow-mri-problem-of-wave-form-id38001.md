@@ -1,3 +1,10 @@
+---
+topic_id: 38001
+title: "4D Flow Mri Problem Of Wave Form"
+date: 2024-08-22
+url: https://discourse.slicer.org/t/38001
+---
+
 # 4D Flow MRI problem of wave form
 
 **Topic ID**: 38001

@@ -1,3 +1,10 @@
+---
+topic_id: 12378
+title: "Segmentation Transform"
+date: 2020-07-05
+url: https://discourse.slicer.org/t/12378
+---
+
 # Segmentation Transform
 
 **Topic ID**: 12378

@@ -1,3 +1,10 @@
+---
+topic_id: 19679
+title: "Surface Toolbox Bug"
+date: 2021-09-15
+url: https://discourse.slicer.org/t/19679
+---
+
 # Surface Toolbox bug
 
 **Topic ID**: 19679

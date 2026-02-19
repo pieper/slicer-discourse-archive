@@ -1,3 +1,10 @@
+---
+topic_id: 34151
+title: "How To Add Additional Buttons To Scriptedsegmenteditoreffect"
+date: 2024-02-05
+url: https://discourse.slicer.org/t/34151
+---
+
 # How to add additional buttons to scriptedsegmenteditoreffect?
 
 **Topic ID**: 34151

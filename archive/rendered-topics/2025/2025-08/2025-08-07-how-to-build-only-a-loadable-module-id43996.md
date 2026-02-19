@@ -1,3 +1,10 @@
+---
+topic_id: 43996
+title: "How To Build Only A Loadable Module"
+date: 2025-08-07
+url: https://discourse.slicer.org/t/43996
+---
+
 # How to build only a loadable module
 
 **Topic ID**: 43996

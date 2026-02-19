@@ -1,3 +1,10 @@
+---
+topic_id: 10497
+title: "Nifti Loading Times"
+date: 2020-03-02
+url: https://discourse.slicer.org/t/10497
+---
+
 # Nifti loading times
 
 **Topic ID**: 10497

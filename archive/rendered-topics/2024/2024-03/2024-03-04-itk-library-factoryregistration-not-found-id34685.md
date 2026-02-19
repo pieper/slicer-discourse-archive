@@ -1,3 +1,10 @@
+---
+topic_id: 34685
+title: "Itk Library Factoryregistration Not Found"
+date: 2024-03-04
+url: https://discourse.slicer.org/t/34685
+---
+
 # ITK library FactoryRegistration not found
 
 **Topic ID**: 34685

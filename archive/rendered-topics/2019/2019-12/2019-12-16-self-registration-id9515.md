@@ -1,3 +1,10 @@
+---
+topic_id: 9515
+title: "Self Registration"
+date: 2019-12-16
+url: https://discourse.slicer.org/t/9515
+---
+
 # Self-registration?
 
 **Topic ID**: 9515

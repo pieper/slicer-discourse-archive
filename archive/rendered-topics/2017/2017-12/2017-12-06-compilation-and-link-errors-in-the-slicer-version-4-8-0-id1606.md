@@ -1,3 +1,10 @@
+---
+topic_id: 1606
+title: "Compilation And Link Errors In The Slicer Version 4 8 0"
+date: 2017-12-06
+url: https://discourse.slicer.org/t/1606
+---
+
 # Compilation and link errors in the Slicer version 4.8.0
 
 **Topic ID**: 1606

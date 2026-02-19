@@ -1,3 +1,10 @@
+---
+topic_id: 23908
+title: "Setting Widget Variable From Python Code On Slicer Exe Start"
+date: 2022-06-17
+url: https://discourse.slicer.org/t/23908
+---
+
 # Setting widget variable from --python-code on Slicer.exe start
 
 **Topic ID**: 23908

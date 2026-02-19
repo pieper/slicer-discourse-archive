@@ -1,3 +1,10 @@
+---
+topic_id: 33280
+title: "Slicer V 5 6 0 Radiomics Module Error While Extracting Featu"
+date: 2023-12-07
+url: https://discourse.slicer.org/t/33280
+---
+
 # Slicer v. 5.6.0. Radiomics-module error while extracting features?
 
 **Topic ID**: 33280

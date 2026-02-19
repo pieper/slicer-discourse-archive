@@ -1,3 +1,10 @@
+---
+topic_id: 18069
+title: "Share Collapsible Button Across Multiple Tabs Qt"
+date: 2021-06-10
+url: https://discourse.slicer.org/t/18069
+---
+
 # Share Collapsible button across multiple tabs - Qt
 
 **Topic ID**: 18069

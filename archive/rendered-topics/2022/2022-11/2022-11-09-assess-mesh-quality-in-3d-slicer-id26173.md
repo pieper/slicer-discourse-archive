@@ -1,3 +1,10 @@
+---
+topic_id: 26173
+title: "Assess Mesh Quality In 3D Slicer"
+date: 2022-11-09
+url: https://discourse.slicer.org/t/26173
+---
+
 # Assess Mesh quality in 3D Slicer
 
 **Topic ID**: 26173

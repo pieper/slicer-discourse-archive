@@ -1,3 +1,10 @@
+---
+topic_id: 3020
+title: "Brain Cortex Volume Rendering"
+date: 2018-05-30
+url: https://discourse.slicer.org/t/3020
+---
+
 # Brain Cortex Volume Rendering
 
 **Topic ID**: 3020

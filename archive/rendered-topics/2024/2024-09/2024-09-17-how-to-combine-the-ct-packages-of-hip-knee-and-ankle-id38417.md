@@ -1,3 +1,10 @@
+---
+topic_id: 38417
+title: "How To Combine The Ct Packages Of Hip Knee And Ankle"
+date: 2024-09-17
+url: https://discourse.slicer.org/t/38417
+---
+
 # How to combine the CT packages of hip, knee and ankle
 
 **Topic ID**: 38417

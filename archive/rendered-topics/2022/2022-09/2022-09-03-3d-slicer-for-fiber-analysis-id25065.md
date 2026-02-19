@@ -1,3 +1,10 @@
+---
+topic_id: 25065
+title: "3D Slicer For Fiber Analysis"
+date: 2022-09-03
+url: https://discourse.slicer.org/t/25065
+---
+
 # 3D slicer for fiber analysis
 
 **Topic ID**: 25065

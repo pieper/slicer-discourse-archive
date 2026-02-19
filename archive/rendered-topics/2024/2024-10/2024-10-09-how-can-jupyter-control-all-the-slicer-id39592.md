@@ -1,3 +1,10 @@
+---
+topic_id: 39592
+title: "How Can Jupyter Control All The Slicer"
+date: 2024-10-09
+url: https://discourse.slicer.org/t/39592
+---
+
 # How can jupyter control all the slicer
 
 **Topic ID**: 39592

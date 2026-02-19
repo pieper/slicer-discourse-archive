@@ -1,3 +1,10 @@
+---
+topic_id: 26357
+title: "Output Multiple Labelmap For Multi Class Segmentation"
+date: 2022-11-21
+url: https://discourse.slicer.org/t/26357
+---
+
 # Output multiple labelmap for multi-class segmentation
 
 **Topic ID**: 26357

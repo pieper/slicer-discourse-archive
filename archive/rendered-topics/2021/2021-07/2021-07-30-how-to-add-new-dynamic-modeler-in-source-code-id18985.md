@@ -1,3 +1,10 @@
+---
+topic_id: 18985
+title: "How To Add New Dynamic Modeler In Source Code"
+date: 2021-07-30
+url: https://discourse.slicer.org/t/18985
+---
+
 # How to add new dynamic modeler in source code?
 
 **Topic ID**: 18985

@@ -1,3 +1,10 @@
+---
+topic_id: 4139
+title: "Convert Model To Landmarks"
+date: 2018-09-18
+url: https://discourse.slicer.org/t/4139
+---
+
 # Convert model to landmarks
 
 **Topic ID**: 4139

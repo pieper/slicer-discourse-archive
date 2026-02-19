@@ -1,3 +1,10 @@
+---
+topic_id: 28652
+title: "Brachytherapy Treatment Planning"
+date: 2023-03-29
+url: https://discourse.slicer.org/t/28652
+---
+
 # Brachytherapy treatment planning
 
 **Topic ID**: 28652

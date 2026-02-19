@@ -1,3 +1,10 @@
+---
+topic_id: 15875
+title: "Can You Tell Me The Workflow With The Latest Slicer That Rep"
+date: 2021-02-06
+url: https://discourse.slicer.org/t/15875
+---
+
 # Can you tell me the workflow with the latest Slicer that reproduces what I am used to in 4.9.0
 
 **Topic ID**: 15875

@@ -1,3 +1,10 @@
+---
+topic_id: 21725
+title: "New Feature Basic Support For Physically Based Rendering Pbr"
+date: 2022-02-01
+url: https://discourse.slicer.org/t/21725
+---
+
 # New feature: Basic support for physically based rendering (PBR)
 
 **Topic ID**: 21725

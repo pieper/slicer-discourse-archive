@@ -1,3 +1,10 @@
+---
+topic_id: 6027
+title: "Get 3D Output Of Volume Rendering"
+date: 2019-03-05
+url: https://discourse.slicer.org/t/6027
+---
+
 # Get 3D output of Volume rendering
 
 **Topic ID**: 6027

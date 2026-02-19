@@ -1,3 +1,10 @@
+---
+topic_id: 19723
+title: "Faster Dicom Loading"
+date: 2021-09-17
+url: https://discourse.slicer.org/t/19723
+---
+
 # Faster DICOM loading
 
 **Topic ID**: 19723

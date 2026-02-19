@@ -1,3 +1,10 @@
+---
+topic_id: 7780
+title: "General Registration Brains Error Lbfgsb Optimizer Does Not"
+date: 2019-07-27
+url: https://discourse.slicer.org/t/7780
+---
+
 # General registration(BRAINS) error"LBFGSB optimizer does not support scaling. All scales are set to one. "
 
 **Topic ID**: 7780

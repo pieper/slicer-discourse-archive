@@ -1,3 +1,10 @@
+---
+topic_id: 36797
+title: "Measures Of The Model Change After I Run Gpa Pca"
+date: 2024-06-15
+url: https://discourse.slicer.org/t/36797
+---
+
 # Measures of the model change after I run GPA+PCA
 
 **Topic ID**: 36797

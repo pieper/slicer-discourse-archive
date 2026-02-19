@@ -1,3 +1,10 @@
+---
+topic_id: 6695
+title: "No Conversion From Dwi To Dti"
+date: 2019-05-05
+url: https://discourse.slicer.org/t/6695
+---
+
 # no conversion from DWI to DTI
 
 **Topic ID**: 6695

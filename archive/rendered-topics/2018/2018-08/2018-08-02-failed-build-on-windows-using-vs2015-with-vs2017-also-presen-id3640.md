@@ -1,3 +1,10 @@
+---
+topic_id: 3640
+title: "Failed Build On Windows Using Vs2015 With Vs2017 Also Presen"
+date: 2018-08-02
+url: https://discourse.slicer.org/t/3640
+---
+
 # Failed build on Windows using VS2015 (with VS2017 also present on system)
 
 **Topic ID**: 3640

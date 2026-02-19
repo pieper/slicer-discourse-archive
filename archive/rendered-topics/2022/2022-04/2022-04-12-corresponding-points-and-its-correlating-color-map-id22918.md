@@ -1,3 +1,10 @@
+---
+topic_id: 22918
+title: "Corresponding Points And Its Correlating Color Map"
+date: 2022-04-12
+url: https://discourse.slicer.org/t/22918
+---
+
 # Corresponding points and its correlating color map
 
 **Topic ID**: 22918

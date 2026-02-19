@@ -1,3 +1,10 @@
+---
+topic_id: 30530
+title: "I Cannot Open The Markups To Model Section In The Slicer 3D"
+date: 2023-07-11
+url: https://discourse.slicer.org/t/30530
+---
+
 # I cannot open the markups to model section in the slicer 3d version.
 
 **Topic ID**: 30530

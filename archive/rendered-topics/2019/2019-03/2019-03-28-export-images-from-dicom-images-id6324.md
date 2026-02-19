@@ -1,3 +1,10 @@
+---
+topic_id: 6324
+title: "Export Images From Dicom Images"
+date: 2019-03-28
+url: https://discourse.slicer.org/t/6324
+---
+
 # Export images from DICOM images
 
 **Topic ID**: 6324

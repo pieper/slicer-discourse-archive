@@ -1,3 +1,10 @@
+---
+topic_id: 3298
+title: "Automatic Non Rigid Elastic Registration Between 2 Stl Files"
+date: 2018-06-26
+url: https://discourse.slicer.org/t/3298
+---
+
 # Automatic non-rigid (elastic) registration between 2 stl files
 
 **Topic ID**: 3298

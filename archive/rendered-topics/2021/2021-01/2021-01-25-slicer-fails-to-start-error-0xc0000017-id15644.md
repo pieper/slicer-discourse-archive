@@ -1,3 +1,10 @@
+---
+topic_id: 15644
+title: "Slicer Fails To Start Error 0Xc0000017"
+date: 2021-01-25
+url: https://discourse.slicer.org/t/15644
+---
+
 # Slicer fails to start - error 0xc0000017
 
 **Topic ID**: 15644

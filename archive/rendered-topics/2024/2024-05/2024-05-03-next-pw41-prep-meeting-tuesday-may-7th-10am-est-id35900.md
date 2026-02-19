@@ -1,3 +1,10 @@
+---
+topic_id: 35900
+title: "Next Pw41 Prep Meeting Tuesday May 7Th 10Am Est"
+date: 2024-05-03
+url: https://discourse.slicer.org/t/35900
+---
+
 # Next PW41 Prep meeting - Tuesday May 7th - 10am EST
 
 **Topic ID**: 35900

@@ -1,3 +1,10 @@
+---
+topic_id: 40871
+title: "How To Export Centerline Model As Vtp Files In Slicer"
+date: 2024-12-27
+url: https://discourse.slicer.org/t/40871
+---
+
 # How to export centerline model as .vtp files in slicer
 
 **Topic ID**: 40871

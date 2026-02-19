@@ -1,3 +1,10 @@
+---
+topic_id: 26132
+title: "Link Slices From Different View Groups Different Data Sets F"
+date: 2022-11-08
+url: https://discourse.slicer.org/t/26132
+---
+
 # Link slices from different view groups (different data sets/files)
 
 **Topic ID**: 26132

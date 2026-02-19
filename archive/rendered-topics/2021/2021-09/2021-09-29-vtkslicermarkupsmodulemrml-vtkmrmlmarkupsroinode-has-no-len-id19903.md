@@ -1,3 +1,10 @@
+---
+topic_id: 19903
+title: "Vtkslicermarkupsmodulemrml Vtkmrmlmarkupsroinode Has No Len"
+date: 2021-09-29
+url: https://discourse.slicer.org/t/19903
+---
+
 # 'vtkSlicerMarkupsModuleMRML.vtkMRMLMarkupsROINode' has no len()
 
 **Topic ID**: 19903

@@ -1,3 +1,10 @@
+---
+topic_id: 20599
+title: "Tutorial For Making 3D Model Of Cranial Defect Using 3D Slic"
+date: 2021-11-12
+url: https://discourse.slicer.org/t/20599
+---
+
 # Tutorial For Making 3D MODEL of Cranial Defect Using 3D SLICERV
 
 **Topic ID**: 20599

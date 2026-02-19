@@ -1,3 +1,10 @@
+---
+topic_id: 32609
+title: "Cannot Save Dicom To Nrrd Files"
+date: 2023-11-05
+url: https://discourse.slicer.org/t/32609
+---
+
 # Cannot save DICOM to NRRD files
 
 **Topic ID**: 32609

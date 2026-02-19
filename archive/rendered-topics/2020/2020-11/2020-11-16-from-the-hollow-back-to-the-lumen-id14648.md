@@ -1,3 +1,10 @@
+---
+topic_id: 14648
+title: "From The Hollow Back To The Lumen"
+date: 2020-11-16
+url: https://discourse.slicer.org/t/14648
+---
+
 # From the hollow back to the lumen
 
 **Topic ID**: 14648

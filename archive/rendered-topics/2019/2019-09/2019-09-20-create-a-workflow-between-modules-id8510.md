@@ -1,3 +1,10 @@
+---
+topic_id: 8510
+title: "Create A Workflow Between Modules"
+date: 2019-09-20
+url: https://discourse.slicer.org/t/8510
+---
+
 # Create a workflow between Modules
 
 **Topic ID**: 8510

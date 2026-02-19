@@ -1,3 +1,10 @@
+---
+topic_id: 23617
+title: "Slice Thickness For Multi Frame Ultrasound"
+date: 2022-05-27
+url: https://discourse.slicer.org/t/23617
+---
+
 # Slice Thickness for multi-frame ultrasound
 
 **Topic ID**: 23617

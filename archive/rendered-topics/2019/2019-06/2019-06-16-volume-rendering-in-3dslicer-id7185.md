@@ -1,3 +1,10 @@
+---
+topic_id: 7185
+title: "Volume Rendering In 3Dslicer"
+date: 2019-06-16
+url: https://discourse.slicer.org/t/7185
+---
+
 # volume rendering in 3dslicer
 
 **Topic ID**: 7185

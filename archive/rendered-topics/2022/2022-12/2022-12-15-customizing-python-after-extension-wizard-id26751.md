@@ -1,3 +1,10 @@
+---
+topic_id: 26751
+title: "Customizing Python After Extension Wizard"
+date: 2022-12-15
+url: https://discourse.slicer.org/t/26751
+---
+
 # Customizing Python after extension wizard
 
 **Topic ID**: 26751

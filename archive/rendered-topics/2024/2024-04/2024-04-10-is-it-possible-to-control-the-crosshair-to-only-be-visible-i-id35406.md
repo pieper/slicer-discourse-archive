@@ -1,3 +1,10 @@
+---
+topic_id: 35406
+title: "Is It Possible To Control The Crosshair To Only Be Visible I"
+date: 2024-04-10
+url: https://discourse.slicer.org/t/35406
+---
+
 # Is it possible to control the crosshair to only be visible in certain views?
 
 **Topic ID**: 35406

@@ -1,3 +1,10 @@
+---
+topic_id: 3312
+title: "Get Segmentation Layer"
+date: 2018-06-27
+url: https://discourse.slicer.org/t/3312
+---
+
 # Get Segmentation layer
 
 **Topic ID**: 3312

@@ -1,3 +1,10 @@
+---
+topic_id: 14415
+title: "Coronary Centerline Extraction Problem"
+date: 2020-11-04
+url: https://discourse.slicer.org/t/14415
+---
+
 # Coronary centerline extraction problem 
 
 **Topic ID**: 14415

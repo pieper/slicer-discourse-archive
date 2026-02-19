@@ -1,3 +1,10 @@
+---
+topic_id: 6532
+title: "Mixed Volume Rendering And Surface Representation Of Segment"
+date: 2019-04-17
+url: https://discourse.slicer.org/t/6532
+---
+
 # Mixed volume rendering and surface representation of segmentation has incorrect 3D appearance if segment is not fully opaque
 
 **Topic ID**: 6532

@@ -1,3 +1,10 @@
+---
+topic_id: 27575
+title: "How To Make A 3D Screen Selection For Markup Controlpoints"
+date: 2023-02-01
+url: https://discourse.slicer.org/t/27575
+---
+
 # How to make a 3D screen selection for Markup ControlPoints?
 
 **Topic ID**: 27575

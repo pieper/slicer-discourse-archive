@@ -1,3 +1,10 @@
+---
+topic_id: 37273
+title: "Spect Quantification Issue"
+date: 2024-07-09
+url: https://discourse.slicer.org/t/37273
+---
+
 # SPECT quantification issue
 
 **Topic ID**: 37273

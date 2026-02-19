@@ -1,3 +1,10 @@
+---
+topic_id: 17714
+title: "Segmentation From Volume Rendering"
+date: 2021-05-20
+url: https://discourse.slicer.org/t/17714
+---
+
 # Segmentation from volume rendering
 
 **Topic ID**: 17714

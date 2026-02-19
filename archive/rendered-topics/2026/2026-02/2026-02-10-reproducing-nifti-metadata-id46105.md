@@ -1,3 +1,10 @@
+---
+topic_id: 46105
+title: "Reproducing Nifti Metadata"
+date: 2026-02-10
+url: https://discourse.slicer.org/t/46105
+---
+
 # Reproducing Nifti metadata
 
 **Topic ID**: 46105

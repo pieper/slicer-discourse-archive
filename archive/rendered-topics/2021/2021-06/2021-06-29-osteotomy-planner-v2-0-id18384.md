@@ -1,3 +1,10 @@
+---
+topic_id: 18384
+title: "Osteotomy Planner V2 0"
+date: 2021-06-29
+url: https://discourse.slicer.org/t/18384
+---
+
 # Osteotomy Planner v2.0
 
 **Topic ID**: 18384

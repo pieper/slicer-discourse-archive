@@ -1,3 +1,10 @@
+---
+topic_id: 15102
+title: "Change The Erase Color"
+date: 2020-12-16
+url: https://discourse.slicer.org/t/15102
+---
+
 # Change the erase color
 
 **Topic ID**: 15102

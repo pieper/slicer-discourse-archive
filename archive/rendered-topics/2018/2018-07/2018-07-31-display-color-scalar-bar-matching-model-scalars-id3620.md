@@ -1,3 +1,10 @@
+---
+topic_id: 3620
+title: "Display Color Scalar Bar Matching Model Scalars"
+date: 2018-07-31
+url: https://discourse.slicer.org/t/3620
+---
+
 # Display color scalar bar matching model scalars
 
 **Topic ID**: 3620

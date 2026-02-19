@@ -1,3 +1,10 @@
+---
+topic_id: 25010
+title: "Scribbles Update Gives Failed To Post Process Label On Monai"
+date: 2022-08-30
+url: https://discourse.slicer.org/t/25010
+---
+
 # Scribbles update gives "Failed to post process label on MONAI Label Server using Histogram+GraphCut" error
 
 **Topic ID**: 25010

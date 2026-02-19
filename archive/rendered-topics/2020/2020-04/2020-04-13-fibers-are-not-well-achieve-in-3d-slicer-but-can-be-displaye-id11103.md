@@ -1,3 +1,10 @@
+---
+topic_id: 11103
+title: "Fibers Are Not Well Achieve In 3D Slicer But Can Be Displaye"
+date: 2020-04-13
+url: https://discourse.slicer.org/t/11103
+---
+
 # Fibers are not well achieve in 3D Slicer but can be displayed in DTI Studio
 
 **Topic ID**: 11103

@@ -1,3 +1,10 @@
+---
+topic_id: 3480
+title: "Vtkmrmlslicenode Observe Events"
+date: 2018-07-13
+url: https://discourse.slicer.org/t/3480
+---
+
 # vtkMRMLSliceNode observe events
 
 **Topic ID**: 3480

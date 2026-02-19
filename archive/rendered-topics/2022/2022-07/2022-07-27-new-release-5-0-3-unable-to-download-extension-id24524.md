@@ -1,3 +1,10 @@
+---
+topic_id: 24524
+title: "New Release 5 0 3 Unable To Download Extension"
+date: 2022-07-27
+url: https://discourse.slicer.org/t/24524
+---
+
 # New release 5.0.3, unable to download extension
 
 **Topic ID**: 24524

@@ -1,3 +1,10 @@
+---
+topic_id: 21773
+title: "How To Resume A Segmentation In A 3D Volume"
+date: 2022-02-03
+url: https://discourse.slicer.org/t/21773
+---
+
 # How to resume a segmentation in a 3D volume?
 
 **Topic ID**: 21773

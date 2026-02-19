@@ -1,3 +1,10 @@
+---
+topic_id: 6475
+title: "How To Get The Proper Shape From 3D Oct Volume Rendering"
+date: 2019-04-11
+url: https://discourse.slicer.org/t/6475
+---
+
 # How to get the proper shape from 3d OCT volume rendering
 
 **Topic ID**: 6475

@@ -1,3 +1,10 @@
+---
+topic_id: 9621
+title: "Limitation In Increasing The Resolution In Crop Volume Modul"
+date: 2019-12-26
+url: https://discourse.slicer.org/t/9621
+---
+
 # Limitation in increasing the resolution in Crop Volume module
 
 **Topic ID**: 9621

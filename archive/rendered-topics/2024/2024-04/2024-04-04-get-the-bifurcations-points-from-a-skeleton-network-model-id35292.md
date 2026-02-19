@@ -1,3 +1,10 @@
+---
+topic_id: 35292
+title: "Get The Bifurcations Points From A Skeleton Network Model"
+date: 2024-04-04
+url: https://discourse.slicer.org/t/35292
+---
+
 # Get the bifurcations points from a skeleton (network model)
 
 **Topic ID**: 35292

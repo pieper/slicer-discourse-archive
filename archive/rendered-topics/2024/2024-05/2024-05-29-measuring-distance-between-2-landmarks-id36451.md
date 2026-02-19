@@ -1,3 +1,10 @@
+---
+topic_id: 36451
+title: "Measuring Distance Between 2 Landmarks"
+date: 2024-05-29
+url: https://discourse.slicer.org/t/36451
+---
+
 # Measuring distance between 2 landmarks
 
 **Topic ID**: 36451

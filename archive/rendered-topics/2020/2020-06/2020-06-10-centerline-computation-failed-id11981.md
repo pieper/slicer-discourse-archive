@@ -1,3 +1,10 @@
+---
+topic_id: 11981
+title: "Centerline Computation Failed"
+date: 2020-06-10
+url: https://discourse.slicer.org/t/11981
+---
+
 # Centerline computation failed
 
 **Topic ID**: 11981

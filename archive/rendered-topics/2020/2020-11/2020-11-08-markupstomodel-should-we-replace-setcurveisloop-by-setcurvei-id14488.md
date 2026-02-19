@@ -1,3 +1,10 @@
+---
+topic_id: 14488
+title: "Markupstomodel Should We Replace Setcurveisloop By Setcurvei"
+date: 2020-11-08
+url: https://discourse.slicer.org/t/14488
+---
+
 # MarkupsToModel : should we replace SetCurveIsLoop by SetCurveIsClosed?
 
 **Topic ID**: 14488

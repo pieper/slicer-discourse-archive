@@ -1,3 +1,10 @@
+---
+topic_id: 23183
+title: "Previous Turning On Individual Slice Intersection Not Workin"
+date: 2022-04-28
+url: https://discourse.slicer.org/t/23183
+---
+
 # Previous turning on individual slice intersection not working
 
 **Topic ID**: 23183

@@ -1,3 +1,10 @@
+---
+topic_id: 7261
+title: "Diagnosis Of Parkinsonian Syndromes Based On Pet Imaging"
+date: 2019-06-20
+url: https://discourse.slicer.org/t/7261
+---
+
 # Diagnosis of Parkinsonian Syndromes based on PET Imaging
 
 **Topic ID**: 7261

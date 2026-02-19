@@ -1,3 +1,10 @@
+---
+topic_id: 7853
+title: "Set Maximum Module Width And Other Layout Options"
+date: 2019-08-02
+url: https://discourse.slicer.org/t/7853
+---
+
 # Set maximum module width and other layout options
 
 **Topic ID**: 7853

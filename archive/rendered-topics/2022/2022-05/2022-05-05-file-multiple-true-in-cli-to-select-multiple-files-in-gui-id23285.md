@@ -1,3 +1,10 @@
+---
+topic_id: 23285
+title: "File Multiple True In Cli To Select Multiple Files In Gui"
+date: 2022-05-05
+url: https://discourse.slicer.org/t/23285
+---
+
 # <file multiple="true"> in CLI to select multiple files in GUI
 
 **Topic ID**: 23285

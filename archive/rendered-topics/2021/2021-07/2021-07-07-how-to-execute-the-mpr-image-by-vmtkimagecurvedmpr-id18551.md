@@ -1,3 +1,10 @@
+---
+topic_id: 18551
+title: "How To Execute The Mpr Image By Vmtkimagecurvedmpr"
+date: 2021-07-07
+url: https://discourse.slicer.org/t/18551
+---
+
 # How to execute the MPR image by vmtkimagecurvedmpr？
 
 **Topic ID**: 18551

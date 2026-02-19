@@ -1,3 +1,10 @@
+---
+topic_id: 22738
+title: "Export Dicom Seg Data Without Reloading It"
+date: 2022-03-28
+url: https://discourse.slicer.org/t/22738
+---
+
 # Export DICOM-SEG data without reloading it
 
 **Topic ID**: 22738

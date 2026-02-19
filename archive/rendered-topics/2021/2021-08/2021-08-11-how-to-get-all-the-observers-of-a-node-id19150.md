@@ -1,3 +1,10 @@
+---
+topic_id: 19150
+title: "How To Get All The Observers Of A Node"
+date: 2021-08-11
+url: https://discourse.slicer.org/t/19150
+---
+
 # How to get all the observers of a node?
 
 **Topic ID**: 19150

@@ -1,3 +1,10 @@
+---
+topic_id: 16389
+title: "Get End Interaction Of Reformatwidget"
+date: 2021-03-05
+url: https://discourse.slicer.org/t/16389
+---
+
 # Get end interaction of reformatWidget
 
 **Topic ID**: 16389

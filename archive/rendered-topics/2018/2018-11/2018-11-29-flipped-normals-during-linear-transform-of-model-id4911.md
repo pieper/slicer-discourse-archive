@@ -1,3 +1,10 @@
+---
+topic_id: 4911
+title: "Flipped Normals During Linear Transform Of Model"
+date: 2018-11-29
+url: https://discourse.slicer.org/t/4911
+---
+
 # Flipped normals during linear transform of model
 
 **Topic ID**: 4911

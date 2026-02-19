@@ -1,3 +1,10 @@
+---
+topic_id: 11516
+title: "2D Views Not Synchronized From 3D View With Shift Mouse"
+date: 2020-05-13
+url: https://discourse.slicer.org/t/11516
+---
+
 # 2D views not synchronized from 3D view with shift+mouse
 
 **Topic ID**: 11516

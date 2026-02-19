@@ -1,3 +1,10 @@
+---
+topic_id: 18051
+title: "How To Select A Portion Of Volume Through Sphere"
+date: 2021-06-10
+url: https://discourse.slicer.org/t/18051
+---
+
 # How to select a portion of volume through sphere?
 
 **Topic ID**: 18051

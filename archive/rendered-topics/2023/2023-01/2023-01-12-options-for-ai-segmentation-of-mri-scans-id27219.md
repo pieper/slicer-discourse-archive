@@ -1,3 +1,10 @@
+---
+topic_id: 27219
+title: "Options For Ai Segmentation Of Mri Scans"
+date: 2023-01-12
+url: https://discourse.slicer.org/t/27219
+---
+
 # Options for AI Segmentation of MRI Scans
 
 **Topic ID**: 27219

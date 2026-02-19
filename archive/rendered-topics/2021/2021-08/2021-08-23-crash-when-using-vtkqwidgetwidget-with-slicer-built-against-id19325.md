@@ -1,3 +1,10 @@
+---
+topic_id: 19325
+title: "Crash When Using Vtkqwidgetwidget With Slicer Built Against"
+date: 2021-08-23
+url: https://discourse.slicer.org/t/19325
+---
+
 # Crash when using vtkQWidgetWidget with Slicer built against VTK9
 
 **Topic ID**: 19325

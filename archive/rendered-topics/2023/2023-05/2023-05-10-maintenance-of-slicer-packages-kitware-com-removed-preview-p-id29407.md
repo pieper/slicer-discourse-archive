@@ -1,3 +1,10 @@
+---
+topic_id: 29407
+title: "Maintenance Of Slicer Packages Kitware Com Removed Preview P"
+date: 2023-05-10
+url: https://discourse.slicer.org/t/29407
+---
+
 # Maintenance of slicer-packages.kitware.com: Removed preview packages older than r30811 (v5.0.0)
 
 **Topic ID**: 29407

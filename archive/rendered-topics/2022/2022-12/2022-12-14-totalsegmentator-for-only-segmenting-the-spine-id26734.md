@@ -1,3 +1,10 @@
+---
+topic_id: 26734
+title: "Totalsegmentator For Only Segmenting The Spine"
+date: 2022-12-14
+url: https://discourse.slicer.org/t/26734
+---
+
 # TotalSegmentator for only segmenting the spine
 
 **Topic ID**: 26734

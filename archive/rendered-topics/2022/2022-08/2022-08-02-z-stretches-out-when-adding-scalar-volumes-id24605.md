@@ -1,3 +1,10 @@
+---
+topic_id: 24605
+title: "Z Stretches Out When Adding Scalar Volumes"
+date: 2022-08-02
+url: https://discourse.slicer.org/t/24605
+---
+
 # Z Stretches out when adding scalar volumes
 
 **Topic ID**: 24605

@@ -1,3 +1,10 @@
+---
+topic_id: 42314
+title: "Tools In Virtual Reality"
+date: 2025-03-26
+url: https://discourse.slicer.org/t/42314
+---
+
 # Tools in Virtual Reality
 
 **Topic ID**: 42314

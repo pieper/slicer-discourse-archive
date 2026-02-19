@@ -1,3 +1,10 @@
+---
+topic_id: 15779
+title: "Knowing The Node Allowed File Extensions While Saving"
+date: 2021-02-01
+url: https://discourse.slicer.org/t/15779
+---
+
 # Knowing the node allowed file extensions while saving
 
 **Topic ID**: 15779

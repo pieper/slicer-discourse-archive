@@ -1,3 +1,10 @@
+---
+topic_id: 33802
+title: "Inquiry About 3D Volume Planar Reformating Using 3D Surfaces"
+date: 2024-01-16
+url: https://discourse.slicer.org/t/33802
+---
+
 # Inquiry About 3D Volume Planar Reformating Using 3D Surfaces in 3D Slicer
 
 **Topic ID**: 33802

@@ -1,3 +1,10 @@
+---
+topic_id: 929
+title: "Problem Of Retrieve Query Work But Retrieve Dead"
+date: 2017-08-23
+url: https://discourse.slicer.org/t/929
+---
+
 # Problem of retrieve(query work but retrieve dead)
 
 **Topic ID**: 929

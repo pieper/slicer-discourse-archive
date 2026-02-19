@@ -1,3 +1,10 @@
+---
+topic_id: 30125
+title: "Installing A Python Package That Is Not Supported By Pip"
+date: 2023-06-19
+url: https://discourse.slicer.org/t/30125
+---
+
 # Installing a python package that is not supported by pip
 
 **Topic ID**: 30125

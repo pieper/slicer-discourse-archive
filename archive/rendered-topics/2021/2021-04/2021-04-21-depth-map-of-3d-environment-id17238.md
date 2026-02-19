@@ -1,3 +1,10 @@
+---
+topic_id: 17238
+title: "Depth Map Of 3D Environment"
+date: 2021-04-21
+url: https://discourse.slicer.org/t/17238
+---
+
 # Depth map of 3D environment
 
 **Topic ID**: 17238

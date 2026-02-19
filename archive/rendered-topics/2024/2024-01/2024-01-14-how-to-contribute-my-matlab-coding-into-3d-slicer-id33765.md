@@ -1,3 +1,10 @@
+---
+topic_id: 33765
+title: "How To Contribute My Matlab Coding Into 3D Slicer"
+date: 2024-01-14
+url: https://discourse.slicer.org/t/33765
+---
+
 # How to contribute my Matlab coding into 3D Slicer
 
 **Topic ID**: 33765

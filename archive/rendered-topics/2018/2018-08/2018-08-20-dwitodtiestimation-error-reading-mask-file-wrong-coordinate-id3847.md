@@ -1,3 +1,10 @@
+---
+topic_id: 3847
+title: "Dwitodtiestimation Error Reading Mask File Wrong Coordinate"
+date: 2018-08-20
+url: https://discourse.slicer.org/t/3847
+---
+
 # DWIToDTIEstimation: Error reading Mask file, wrong coordinate space
 
 **Topic ID**: 3847

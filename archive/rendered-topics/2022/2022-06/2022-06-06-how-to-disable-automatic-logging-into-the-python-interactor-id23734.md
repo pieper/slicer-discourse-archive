@@ -1,3 +1,10 @@
+---
+topic_id: 23734
+title: "How To Disable Automatic Logging Into The Python Interactor"
+date: 2022-06-06
+url: https://discourse.slicer.org/t/23734
+---
+
 # How to disable automatic logging into the Python Interactor?
 
 **Topic ID**: 23734

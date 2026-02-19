@@ -1,3 +1,10 @@
+---
+topic_id: 2849
+title: "Cannot Import Sample Data"
+date: 2018-05-18
+url: https://discourse.slicer.org/t/2849
+---
+
 # Cannot import "sample data"
 
 **Topic ID**: 2849

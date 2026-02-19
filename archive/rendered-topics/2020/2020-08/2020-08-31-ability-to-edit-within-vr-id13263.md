@@ -1,3 +1,10 @@
+---
+topic_id: 13263
+title: "Ability To Edit Within Vr"
+date: 2020-08-31
+url: https://discourse.slicer.org/t/13263
+---
+
 # Ability to edit within VR
 
 **Topic ID**: 13263

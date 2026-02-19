@@ -1,3 +1,10 @@
+---
+topic_id: 33925
+title: "Problems With Getnode In A For Loop"
+date: 2024-01-23
+url: https://discourse.slicer.org/t/33925
+---
+
 # Problems with getNode in a for loop
 
 **Topic ID**: 33925

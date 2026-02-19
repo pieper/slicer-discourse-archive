@@ -1,3 +1,10 @@
+---
+topic_id: 13964
+title: "Trying To Do Tractography From Dicom Dti"
+date: 2020-10-09
+url: https://discourse.slicer.org/t/13964
+---
+
 # Trying to do tractography from DICOM DTI
 
 **Topic ID**: 13964

@@ -1,3 +1,10 @@
+---
+topic_id: 14407
+title: "Blank Display In Standard Views"
+date: 2020-11-03
+url: https://discourse.slicer.org/t/14407
+---
+
 # Blank display in standard views
 
 **Topic ID**: 14407

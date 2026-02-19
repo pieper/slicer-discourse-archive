@@ -1,3 +1,10 @@
+---
+topic_id: 6344
+title: "Cardiac Device Simulator Tutorial"
+date: 2019-04-01
+url: https://discourse.slicer.org/t/6344
+---
+
 # Cardiac device simulator "tutorial"
 
 **Topic ID**: 6344

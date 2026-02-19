@@ -1,3 +1,10 @@
+---
+topic_id: 1333
+title: "Head Ct Mri Fusion Registration"
+date: 2017-10-31
+url: https://discourse.slicer.org/t/1333
+---
+
 # Head CT MRI fusion/registration
 
 **Topic ID**: 1333

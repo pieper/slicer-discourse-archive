@@ -1,3 +1,10 @@
+---
+topic_id: 8006
+title: "Markups Roadmap Question"
+date: 2019-08-13
+url: https://discourse.slicer.org/t/8006
+---
+
 # Markups roadmap question
 
 **Topic ID**: 8006

@@ -1,3 +1,10 @@
+---
+topic_id: 7405
+title: "Camera Observer Arguments"
+date: 2019-07-03
+url: https://discourse.slicer.org/t/7405
+---
+
 # Camera Observer Arguments
 
 **Topic ID**: 7405

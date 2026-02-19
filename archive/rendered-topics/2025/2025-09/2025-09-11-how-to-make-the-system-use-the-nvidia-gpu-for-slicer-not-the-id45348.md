@@ -1,3 +1,10 @@
+---
+topic_id: 45348
+title: "How To Make The System Use The Nvidia Gpu For Slicer Not The"
+date: 2025-09-11
+url: https://discourse.slicer.org/t/45348
+---
+
 # How to make the system use the NVIDIA GPU for Slicer (not the integrated Intel graphics)
 
 **Topic ID**: 45348

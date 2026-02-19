@@ -1,3 +1,10 @@
+---
+topic_id: 19004
+title: "Exporting The Thickness Bone Table From Bone Thickness Mappi"
+date: 2021-07-31
+url: https://discourse.slicer.org/t/19004
+---
+
 # Exporting the thickness bone table from Bone Thickness Mapping extension
 
 **Topic ID**: 19004

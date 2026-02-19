@@ -1,3 +1,10 @@
+---
+topic_id: 3669
+title: "Can Not Install Slicer Nightly Build For Windows"
+date: 2018-08-06
+url: https://discourse.slicer.org/t/3669
+---
+
 # Can not install slicer nightly build for windows
 
 **Topic ID**: 3669

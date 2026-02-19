@@ -1,3 +1,10 @@
+---
+topic_id: 33132
+title: "Create New Qslicerwidget"
+date: 2023-11-30
+url: https://discourse.slicer.org/t/33132
+---
+
 # Create new qSlicerWidget
 
 **Topic ID**: 33132

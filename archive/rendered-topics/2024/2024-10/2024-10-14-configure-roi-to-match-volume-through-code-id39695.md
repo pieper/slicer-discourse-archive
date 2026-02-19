@@ -1,3 +1,10 @@
+---
+topic_id: 39695
+title: "Configure Roi To Match Volume Through Code"
+date: 2024-10-14
+url: https://discourse.slicer.org/t/39695
+---
+
 # Configure ROI to match volume through code
 
 **Topic ID**: 39695

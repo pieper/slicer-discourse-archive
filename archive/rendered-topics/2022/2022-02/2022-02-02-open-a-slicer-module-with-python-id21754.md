@@ -1,3 +1,10 @@
+---
+topic_id: 21754
+title: "Open A Slicer Module With Python"
+date: 2022-02-02
+url: https://discourse.slicer.org/t/21754
+---
+
 # Open a slicer module with python
 
 **Topic ID**: 21754

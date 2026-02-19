@@ -1,3 +1,10 @@
+---
+topic_id: 35884
+title: "Dicom Image Series Irregular Z Spacing"
+date: 2024-05-03
+url: https://discourse.slicer.org/t/35884
+---
+
 # DICOM image series irregular z spacing
 
 **Topic ID**: 35884

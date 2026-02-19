@@ -1,3 +1,10 @@
+---
+topic_id: 4095
+title: "Deformable Registration Grid Dicom Import"
+date: 2018-09-13
+url: https://discourse.slicer.org/t/4095
+---
+
 # Deformable Registration Grid DICOM import
 
 **Topic ID**: 4095

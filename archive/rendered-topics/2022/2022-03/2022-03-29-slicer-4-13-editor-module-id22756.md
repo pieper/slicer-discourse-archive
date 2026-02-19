@@ -1,3 +1,10 @@
+---
+topic_id: 22756
+title: "Slicer 4 13 Editor Module"
+date: 2022-03-29
+url: https://discourse.slicer.org/t/22756
+---
+
 # Slicer 4.13 Editor module
 
 **Topic ID**: 22756

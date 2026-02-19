@@ -1,3 +1,10 @@
+---
+topic_id: 16067
+title: "Segmenting Out Of Border Of Main Volume"
+date: 2021-02-18
+url: https://discourse.slicer.org/t/16067
+---
+
 # Segmenting out of border of main volume
 
 **Topic ID**: 16067

@@ -1,3 +1,10 @@
+---
+topic_id: 18857
+title: "Resolution Of Ct Images"
+date: 2021-07-21
+url: https://discourse.slicer.org/t/18857
+---
+
 # Resolution of CT images
 
 **Topic ID**: 18857

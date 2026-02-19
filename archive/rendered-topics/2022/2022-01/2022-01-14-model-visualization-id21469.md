@@ -1,3 +1,10 @@
+---
+topic_id: 21469
+title: "Model Visualization"
+date: 2022-01-14
+url: https://discourse.slicer.org/t/21469
+---
+
 # Model visualization
 
 **Topic ID**: 21469

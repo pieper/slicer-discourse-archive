@@ -1,3 +1,10 @@
+---
+topic_id: 23776
+title: "Segmentation Cannot Be Hidden"
+date: 2022-06-08
+url: https://discourse.slicer.org/t/23776
+---
+
 # Segmentation cannot be hidden
 
 **Topic ID**: 23776

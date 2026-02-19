@@ -1,3 +1,10 @@
+---
+topic_id: 24573
+title: "Screws Spacial Organize"
+date: 2022-07-30
+url: https://discourse.slicer.org/t/24573
+---
+
 # Screws spacial organize
 
 **Topic ID**: 24573

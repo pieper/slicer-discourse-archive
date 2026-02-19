@@ -1,3 +1,10 @@
+---
+topic_id: 24555
+title: "How To Improve The Quality Of Screen Shot"
+date: 2022-07-29
+url: https://discourse.slicer.org/t/24555
+---
+
 # How to improve the quality of screen shot
 
 **Topic ID**: 24555

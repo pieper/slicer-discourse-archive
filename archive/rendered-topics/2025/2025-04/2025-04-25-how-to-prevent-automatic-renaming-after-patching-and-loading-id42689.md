@@ -1,3 +1,10 @@
+---
+topic_id: 42689
+title: "How To Prevent Automatic Renaming After Patching And Loading"
+date: 2025-04-25
+url: https://discourse.slicer.org/t/42689
+---
+
 # How to prevent automatic renaming after patching and loading echcardiograms?
 
 **Topic ID**: 42689

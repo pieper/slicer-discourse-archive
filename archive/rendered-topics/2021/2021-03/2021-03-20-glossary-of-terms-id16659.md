@@ -1,3 +1,10 @@
+---
+topic_id: 16659
+title: "Glossary Of Terms"
+date: 2021-03-20
+url: https://discourse.slicer.org/t/16659
+---
+
 # Glossary of terms
 
 **Topic ID**: 16659

@@ -1,3 +1,10 @@
+---
+topic_id: 12112
+title: "Slicer Cache Settings"
+date: 2020-06-19
+url: https://discourse.slicer.org/t/12112
+---
+
 # Slicer cache settings
 
 **Topic ID**: 12112

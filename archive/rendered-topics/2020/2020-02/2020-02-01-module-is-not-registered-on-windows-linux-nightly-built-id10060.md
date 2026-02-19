@@ -1,3 +1,10 @@
+---
+topic_id: 10060
+title: "Module Is Not Registered On Windows Linux Nightly Built"
+date: 2020-02-01
+url: https://discourse.slicer.org/t/10060
+---
+
 # Module is not registered on Windows/Linux nightly built
 
 **Topic ID**: 10060

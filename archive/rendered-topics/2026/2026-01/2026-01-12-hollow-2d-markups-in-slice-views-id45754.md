@@ -1,3 +1,10 @@
+---
+topic_id: 45754
+title: "Hollow 2D Markups In Slice Views"
+date: 2026-01-12
+url: https://discourse.slicer.org/t/45754
+---
+
 # Hollow 2d markups in slice views
 
 **Topic ID**: 45754

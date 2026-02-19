@@ -1,3 +1,10 @@
+---
+topic_id: 20830
+title: "Mac Os Catalina"
+date: 2021-11-29
+url: https://discourse.slicer.org/t/20830
+---
+
 # Mac OS Catalina
 
 **Topic ID**: 20830

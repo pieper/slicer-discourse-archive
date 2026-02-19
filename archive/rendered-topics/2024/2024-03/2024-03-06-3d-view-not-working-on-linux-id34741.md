@@ -1,3 +1,10 @@
+---
+topic_id: 34741
+title: "3D View Not Working On Linux"
+date: 2024-03-06
+url: https://discourse.slicer.org/t/34741
+---
+
 # 3D view not working on Linux
 
 **Topic ID**: 34741

@@ -1,3 +1,10 @@
+---
+topic_id: 40532
+title: "Can Markups Lines Be Exported As A Stl"
+date: 2024-12-05
+url: https://discourse.slicer.org/t/40532
+---
+
 # Can markups/lines be exported as a STL?
 
 **Topic ID**: 40532

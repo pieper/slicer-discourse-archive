@@ -1,3 +1,10 @@
+---
+topic_id: 43135
+title: "4Dct Dicom Import And Save"
+date: 2025-05-28
+url: https://discourse.slicer.org/t/43135
+---
+
 # 4DCT dicom import and save
 
 **Topic ID**: 43135

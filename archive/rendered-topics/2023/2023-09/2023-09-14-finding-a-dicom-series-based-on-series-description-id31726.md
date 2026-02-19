@@ -1,3 +1,10 @@
+---
+topic_id: 31726
+title: "Finding A Dicom Series Based On Series Description"
+date: 2023-09-14
+url: https://discourse.slicer.org/t/31726
+---
+
 # Finding a DICOM series based on series description
 
 **Topic ID**: 31726

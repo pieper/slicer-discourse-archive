@@ -1,3 +1,10 @@
+---
+topic_id: 20725
+title: "3D Slicer Registration Qa"
+date: 2021-11-22
+url: https://discourse.slicer.org/t/20725
+---
+
 # 3D Slicer Registration QA
 
 **Topic ID**: 20725

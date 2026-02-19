@@ -1,3 +1,10 @@
+---
+topic_id: 32974
+title: "Adjusting Margin Sizes Based On Volume Ratios And Axes"
+date: 2023-11-23
+url: https://discourse.slicer.org/t/32974
+---
+
 # Adjusting margin sizes based on volume ratios and axes
 
 **Topic ID**: 32974

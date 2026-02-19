@@ -1,3 +1,10 @@
+---
+topic_id: 21135
+title: "How To Getcenter Of Vtkplane By Python"
+date: 2021-12-19
+url: https://discourse.slicer.org/t/21135
+---
+
 # How to getcenter of vtkplane by python?
 
 **Topic ID**: 21135

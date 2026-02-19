@@ -1,3 +1,10 @@
+---
+topic_id: 17218
+title: "Only Part Of Segmention Is Visible When I Load The Segmentat"
+date: 2021-04-20
+url: https://discourse.slicer.org/t/17218
+---
+
 # Only part of segmention is visible when I load the segmentation first time
 
 **Topic ID**: 17218

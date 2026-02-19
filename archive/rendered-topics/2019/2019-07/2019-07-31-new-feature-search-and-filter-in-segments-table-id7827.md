@@ -1,3 +1,10 @@
+---
+topic_id: 7827
+title: "New Feature Search And Filter In Segments Table"
+date: 2019-07-31
+url: https://discourse.slicer.org/t/7827
+---
+
 # New feature: Search and filter in segments table
 
 **Topic ID**: 7827

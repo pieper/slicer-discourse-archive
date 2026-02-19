@@ -1,3 +1,10 @@
+---
+topic_id: 23206
+title: "Show Degree Of Inclination Of 3D Reconstruction Condering Ri"
+date: 2022-04-30
+url: https://discourse.slicer.org/t/23206
+---
+
 # Show degree of inclination of 3d reconstruction condering right left craniocaudal view
 
 **Topic ID**: 23206

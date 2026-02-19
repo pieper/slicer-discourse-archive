@@ -1,3 +1,10 @@
+---
+topic_id: 4593
+title: "3D Slicer 4 10 Cant Load Structures"
+date: 2018-10-30
+url: https://discourse.slicer.org/t/4593
+---
+
 # 3D slicer 4.10 can't load structures
 
 **Topic ID**: 4593

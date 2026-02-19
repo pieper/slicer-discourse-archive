@@ -1,3 +1,10 @@
+---
+topic_id: 2417
+title: "Label Maps On Segment Editor"
+date: 2018-03-26
+url: https://discourse.slicer.org/t/2417
+---
+
 # Label maps on segment editor
 
 **Topic ID**: 2417

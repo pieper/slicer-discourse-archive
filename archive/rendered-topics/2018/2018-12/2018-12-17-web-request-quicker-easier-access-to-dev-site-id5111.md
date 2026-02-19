@@ -1,3 +1,10 @@
+---
+topic_id: 5111
+title: "Web Request Quicker Easier Access To Dev Site"
+date: 2018-12-17
+url: https://discourse.slicer.org/t/5111
+---
+
 # [Web Request] Quicker/easier access to dev site
 
 **Topic ID**: 5111

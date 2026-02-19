@@ -1,3 +1,10 @@
+---
+topic_id: 36940
+title: "Muscle And Fat Segmentation"
+date: 2024-06-21
+url: https://discourse.slicer.org/t/36940
+---
+
 # Muscle and Fat segmentation
 
 **Topic ID**: 36940

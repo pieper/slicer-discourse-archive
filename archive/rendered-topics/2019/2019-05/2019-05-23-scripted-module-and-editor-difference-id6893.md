@@ -1,3 +1,10 @@
+---
+topic_id: 6893
+title: "Scripted Module And Editor Difference"
+date: 2019-05-23
+url: https://discourse.slicer.org/t/6893
+---
+
 # Scripted Module and editor difference
 
 **Topic ID**: 6893

@@ -1,3 +1,10 @@
+---
+topic_id: 33807
+title: "Parameternodewrapper With Dynamic Minimum Maximum"
+date: 2024-01-16
+url: https://discourse.slicer.org/t/33807
+---
+
 # ParameterNodeWrapper with dynamic Minimum/Maximum
 
 **Topic ID**: 33807

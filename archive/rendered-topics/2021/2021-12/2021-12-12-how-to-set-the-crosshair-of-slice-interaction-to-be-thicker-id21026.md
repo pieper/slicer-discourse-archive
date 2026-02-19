@@ -1,3 +1,10 @@
+---
+topic_id: 21026
+title: "How To Set The Crosshair Of Slice Interaction To Be Thicker"
+date: 2021-12-12
+url: https://discourse.slicer.org/t/21026
+---
+
 # How to set the crosshair of slice interaction to be thicker?
 
 **Topic ID**: 21026

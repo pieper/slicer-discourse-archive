@@ -1,3 +1,10 @@
+---
+topic_id: 22993
+title: "Run Script When Slicercat First Time Launched"
+date: 2022-04-17
+url: https://discourse.slicer.org/t/22993
+---
+
 # Run script when SlicerCAT first time launched
 
 **Topic ID**: 22993

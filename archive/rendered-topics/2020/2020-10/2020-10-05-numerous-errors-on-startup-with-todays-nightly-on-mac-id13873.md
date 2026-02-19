@@ -1,3 +1,10 @@
+---
+topic_id: 13873
+title: "Numerous Errors On Startup With Todays Nightly On Mac"
+date: 2020-10-05
+url: https://discourse.slicer.org/t/13873
+---
+
 # Numerous errors on startup with today's nightly on mac
 
 **Topic ID**: 13873

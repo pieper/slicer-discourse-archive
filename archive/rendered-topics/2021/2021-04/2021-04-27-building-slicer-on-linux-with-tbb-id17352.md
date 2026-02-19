@@ -1,3 +1,10 @@
+---
+topic_id: 17352
+title: "Building Slicer On Linux With Tbb"
+date: 2021-04-27
+url: https://discourse.slicer.org/t/17352
+---
+
 # Building Slicer on Linux with TBB
 
 **Topic ID**: 17352

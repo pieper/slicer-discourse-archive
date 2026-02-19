@@ -1,3 +1,10 @@
+---
+topic_id: 17351
+title: "Need Help Installing A Python Module"
+date: 2021-04-27
+url: https://discourse.slicer.org/t/17351
+---
+
 # Need help installing a python module
 
 **Topic ID**: 17351

@@ -1,3 +1,10 @@
+---
+topic_id: 12989
+title: "Separate And Combine Images Views Planes From Different Sequ"
+date: 2020-08-13
+url: https://discourse.slicer.org/t/12989
+---
+
 # Separate and combine images/views/planes from different sequences
 
 **Topic ID**: 12989

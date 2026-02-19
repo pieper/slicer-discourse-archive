@@ -1,3 +1,10 @@
+---
+topic_id: 16523
+title: "Converting Slicer Into Spanish"
+date: 2021-03-13
+url: https://discourse.slicer.org/t/16523
+---
+
 # Converting Slicer into Spanish
 
 **Topic ID**: 16523

@@ -1,3 +1,10 @@
+---
+topic_id: 29234
+title: "Export Individual Segements From Segmentation As Obj Files"
+date: 2023-05-01
+url: https://discourse.slicer.org/t/29234
+---
+
 # Export individual segements from segmentation as obj files 
 
 **Topic ID**: 29234

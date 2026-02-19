@@ -1,3 +1,10 @@
+---
+topic_id: 223
+title: "Sudden Logout And Jump To Start Page"
+date: 2017-04-28
+url: https://discourse.slicer.org/t/223
+---
+
 # Sudden logout and jump to start page
 
 **Topic ID**: 223

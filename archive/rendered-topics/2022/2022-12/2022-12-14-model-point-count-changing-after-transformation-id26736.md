@@ -1,3 +1,10 @@
+---
+topic_id: 26736
+title: "Model Point Count Changing After Transformation"
+date: 2022-12-14
+url: https://discourse.slicer.org/t/26736
+---
+
 # Model point count changing after transformation
 
 **Topic ID**: 26736

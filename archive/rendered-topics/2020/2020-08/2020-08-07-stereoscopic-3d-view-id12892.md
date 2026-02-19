@@ -1,3 +1,10 @@
+---
+topic_id: 12892
+title: "Stereoscopic 3D View"
+date: 2020-08-07
+url: https://discourse.slicer.org/t/12892
+---
+
 # Stereoscopic 3D view
 
 **Topic ID**: 12892

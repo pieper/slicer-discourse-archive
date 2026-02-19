@@ -1,3 +1,10 @@
+---
+topic_id: 13861
+title: "Gui Resizing Issues In Linux Version"
+date: 2020-10-05
+url: https://discourse.slicer.org/t/13861
+---
+
 # GUI resizing issues in Linux version
 
 **Topic ID**: 13861

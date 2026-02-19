@@ -1,3 +1,10 @@
+---
+topic_id: 6793
+title: "New Users Link For The Download Page"
+date: 2019-05-15
+url: https://discourse.slicer.org/t/6793
+---
+
 # "New users" link for the Download page?
 
 **Topic ID**: 6793

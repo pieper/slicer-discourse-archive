@@ -1,3 +1,10 @@
+---
+topic_id: 45307
+title: "What Is The Event To React To A Point Location Being Changed"
+date: 2025-12-02
+url: https://discourse.slicer.org/t/45307
+---
+
 # What is the event to react to a point location being changed in a MarkupsNode/MarkupsLineNode?
 
 **Topic ID**: 45307

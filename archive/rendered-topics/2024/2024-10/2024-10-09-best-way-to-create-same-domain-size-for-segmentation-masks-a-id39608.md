@@ -1,3 +1,10 @@
+---
+topic_id: 39608
+title: "Best Way To Create Same Domain Size For Segmentation Masks A"
+date: 2024-10-09
+url: https://discourse.slicer.org/t/39608
+---
+
 # Best way to create same domain size for segmentation masks and 3D .nrrd files?
 
 **Topic ID**: 39608

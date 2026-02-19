@@ -1,3 +1,10 @@
+---
+topic_id: 9114
+title: "Metal Artifact Reduction"
+date: 2019-11-12
+url: https://discourse.slicer.org/t/9114
+---
+
 # Metal artifact reduction
 
 **Topic ID**: 9114

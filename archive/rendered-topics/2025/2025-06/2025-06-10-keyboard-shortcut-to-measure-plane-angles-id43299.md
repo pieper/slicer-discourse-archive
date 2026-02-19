@@ -1,3 +1,10 @@
+---
+topic_id: 43299
+title: "Keyboard Shortcut To Measure Plane Angles"
+date: 2025-06-10
+url: https://discourse.slicer.org/t/43299
+---
+
 # Keyboard shortcut to measure plane angles?
 
 **Topic ID**: 43299

@@ -1,3 +1,10 @@
+---
+topic_id: 531
+title: "How Do I Find The Resolution Of The Image I Have Opened In S"
+date: 2017-06-19
+url: https://discourse.slicer.org/t/531
+---
+
 # How do I find the resolution of the image I have opened in slicer?
 
 **Topic ID**: 531

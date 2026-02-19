@@ -1,3 +1,10 @@
+---
+topic_id: 5695
+title: "Problem Setting Markups Display Node Properties"
+date: 2019-02-08
+url: https://discourse.slicer.org/t/5695
+---
+
 # Problem setting markups display node properties
 
 **Topic ID**: 5695

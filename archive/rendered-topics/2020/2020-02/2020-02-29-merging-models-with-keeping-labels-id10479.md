@@ -1,3 +1,10 @@
+---
+topic_id: 10479
+title: "Merging Models With Keeping Labels"
+date: 2020-02-29
+url: https://discourse.slicer.org/t/10479
+---
+
 # Merging models with keeping labels
 
 **Topic ID**: 10479

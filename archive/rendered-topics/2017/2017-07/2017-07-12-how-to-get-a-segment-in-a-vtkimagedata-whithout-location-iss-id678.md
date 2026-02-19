@@ -1,3 +1,10 @@
+---
+topic_id: 678
+title: "How To Get A Segment In A Vtkimagedata Whithout Location Iss"
+date: 2017-07-12
+url: https://discourse.slicer.org/t/678
+---
+
 # How to get a segment in a vtkImageData whithout location issue
 
 **Topic ID**: 678

@@ -1,3 +1,10 @@
+---
+topic_id: 19938
+title: "Superbuild Extension Builds Failed When Python Was Installed"
+date: 2021-09-30
+url: https://discourse.slicer.org/t/19938
+---
+
 # Superbuild extension builds failed when Python was installed - good solution?
 
 **Topic ID**: 19938

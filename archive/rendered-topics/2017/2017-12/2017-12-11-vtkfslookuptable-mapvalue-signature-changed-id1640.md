@@ -1,3 +1,10 @@
+---
+topic_id: 1640
+title: "Vtkfslookuptable Mapvalue Signature Changed"
+date: 2017-12-11
+url: https://discourse.slicer.org/t/1640
+---
+
 # vtkFSLookupTable::MapValue signature changed
 
 **Topic ID**: 1640

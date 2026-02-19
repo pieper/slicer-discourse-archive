@@ -1,3 +1,10 @@
+---
+topic_id: 37118
+title: "Volume Rendering Colors Scheme Changes Automatically"
+date: 2024-07-01
+url: https://discourse.slicer.org/t/37118
+---
+
 # Volume rendering colors scheme changes automatically
 
 **Topic ID**: 37118

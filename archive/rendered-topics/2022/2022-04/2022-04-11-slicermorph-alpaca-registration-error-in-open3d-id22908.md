@@ -1,3 +1,10 @@
+---
+topic_id: 22908
+title: "Slicermorph Alpaca Registration Error In Open3D"
+date: 2022-04-11
+url: https://discourse.slicer.org/t/22908
+---
+
 # slicerMorph - ALPACA registration error in open3d
 
 **Topic ID**: 22908

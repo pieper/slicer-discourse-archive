@@ -1,3 +1,10 @@
+---
+topic_id: 15828
+title: "Slicer Build Takes Too Much Time To Compile Using Make Comma"
+date: 2021-02-04
+url: https://discourse.slicer.org/t/15828
+---
+
 # Slicer Build takes too much time to compile using make command
 
 **Topic ID**: 15828

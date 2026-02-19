@@ -1,3 +1,10 @@
+---
+topic_id: 34494
+title: "Trouble Reading Nrrd File"
+date: 2024-02-23
+url: https://discourse.slicer.org/t/34494
+---
+
 # Trouble reading NRRD file
 
 **Topic ID**: 34494

@@ -1,3 +1,10 @@
+---
+topic_id: 31054
+title: "Slicer On Wayland"
+date: 2023-08-08
+url: https://discourse.slicer.org/t/31054
+---
+
 # Slicer on Wayland
 
 **Topic ID**: 31054

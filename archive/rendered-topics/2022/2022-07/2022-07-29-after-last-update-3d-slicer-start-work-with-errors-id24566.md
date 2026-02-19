@@ -1,3 +1,10 @@
+---
+topic_id: 24566
+title: "After Last Update 3D Slicer Start Work With Errors"
+date: 2022-07-29
+url: https://discourse.slicer.org/t/24566
+---
+
 # After last update 3D Slicer start work with errors
 
 **Topic ID**: 24566

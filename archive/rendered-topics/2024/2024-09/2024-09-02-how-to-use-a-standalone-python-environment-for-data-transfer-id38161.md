@@ -1,3 +1,10 @@
+---
+topic_id: 38161
+title: "How To Use A Standalone Python Environment For Data Transfer"
+date: 2024-09-02
+url: https://discourse.slicer.org/t/38161
+---
+
 # How to use a standalone python environment for data transfer with 3Dslicer
 
 **Topic ID**: 38161

@@ -1,3 +1,10 @@
+---
+topic_id: 5083
+title: "Problems About Shapeanalysismancova Output Fdrp Vs Fdrp Orig"
+date: 2018-12-15
+url: https://discourse.slicer.org/t/5083
+---
+
 # Problems about ShapeAnalysisMANCOVA output——FDRP VS FDRP_original
 
 **Topic ID**: 5083

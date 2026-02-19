@@ -1,3 +1,10 @@
+---
+topic_id: 12152
+title: "My Qactions Hangs The Slicer Application"
+date: 2020-06-22
+url: https://discourse.slicer.org/t/12152
+---
+
 # My QActions hangs the Slicer application
 
 **Topic ID**: 12152

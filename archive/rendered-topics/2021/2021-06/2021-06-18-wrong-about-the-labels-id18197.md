@@ -1,3 +1,10 @@
+---
+topic_id: 18197
+title: "Wrong About The Labels"
+date: 2021-06-18
+url: https://discourse.slicer.org/t/18197
+---
+
 # Wrong about the Labels
 
 **Topic ID**: 18197

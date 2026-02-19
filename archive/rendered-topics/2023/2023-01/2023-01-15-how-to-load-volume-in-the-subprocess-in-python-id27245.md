@@ -1,3 +1,10 @@
+---
+topic_id: 27245
+title: "How To Load Volume In The Subprocess In Python"
+date: 2023-01-15
+url: https://discourse.slicer.org/t/27245
+---
+
 # How to load volume in the subprocess in python?
 
 **Topic ID**: 27245

@@ -1,3 +1,10 @@
+---
+topic_id: 25440
+title: "Curvature Of Bone"
+date: 2022-09-26
+url: https://discourse.slicer.org/t/25440
+---
+
 # Curvature of bone
 
 **Topic ID**: 25440

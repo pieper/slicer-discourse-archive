@@ -1,3 +1,10 @@
+---
+topic_id: 38459
+title: "Facing Issue While Installing Python Package"
+date: 2024-09-20
+url: https://discourse.slicer.org/t/38459
+---
+
 # Facing issue while installing python package
 
 **Topic ID**: 38459

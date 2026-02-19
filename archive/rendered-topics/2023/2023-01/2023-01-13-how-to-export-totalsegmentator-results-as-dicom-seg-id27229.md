@@ -1,3 +1,10 @@
+---
+topic_id: 27229
+title: "How To Export Totalsegmentator Results As Dicom Seg"
+date: 2023-01-13
+url: https://discourse.slicer.org/t/27229
+---
+
 # How to export TotalSegmentator results as DICOM SEG?
 
 **Topic ID**: 27229

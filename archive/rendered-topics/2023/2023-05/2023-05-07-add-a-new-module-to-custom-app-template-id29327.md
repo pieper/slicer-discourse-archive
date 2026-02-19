@@ -1,3 +1,10 @@
+---
+topic_id: 29327
+title: "Add A New Module To Custom App Template"
+date: 2023-05-07
+url: https://discourse.slicer.org/t/29327
+---
+
 # Add a new module to custom app template
 
 **Topic ID**: 29327

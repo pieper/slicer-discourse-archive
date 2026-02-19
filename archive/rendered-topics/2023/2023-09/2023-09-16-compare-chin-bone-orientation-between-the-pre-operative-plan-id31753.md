@@ -1,3 +1,10 @@
+---
+topic_id: 31753
+title: "Compare Chin Bone Orientation Between The Pre Operative Plan"
+date: 2023-09-16
+url: https://discourse.slicer.org/t/31753
+---
+
 # Compare chin bone orientation between the pre-operative planning and post operative result
 
 **Topic ID**: 31753

@@ -1,3 +1,10 @@
+---
+topic_id: 14807
+title: "Slicer 4 10 2 Vs Slicer 4 11 2 Volumes Rendering"
+date: 2020-11-29
+url: https://discourse.slicer.org/t/14807
+---
+
 # Slicer 4.10.2 vs Slicer 4.11.2 volumes rendering
 
 **Topic ID**: 14807

@@ -1,3 +1,10 @@
+---
+topic_id: 23307
+title: "Cannot Select A Volume In Input Lung Ct Manual"
+date: 2022-05-06
+url: https://discourse.slicer.org/t/23307
+---
+
 # Cannot select a volume in Input lung CT manual 
 
 **Topic ID**: 23307

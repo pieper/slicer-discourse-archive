@@ -1,3 +1,10 @@
+---
+topic_id: 16494
+title: "Abl Temporal Bone Segmentation Module"
+date: 2021-03-12
+url: https://discourse.slicer.org/t/16494
+---
+
 # ABL Temporal Bone Segmentation Module
 
 **Topic ID**: 16494

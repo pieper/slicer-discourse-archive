@@ -1,3 +1,10 @@
+---
+topic_id: 30839
+title: "Cardiac Modules Not Available Despite Installing The Slicer"
+date: 2023-07-28
+url: https://discourse.slicer.org/t/30839
+---
+
 # Cardiac modules not available despite installing the Slicer Heart extension 
 
 **Topic ID**: 30839

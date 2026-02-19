@@ -1,3 +1,10 @@
+---
+topic_id: 40180
+title: "Generated Stl File On Sample Ct Are All 1K In Size And Canno"
+date: 2024-11-13
+url: https://discourse.slicer.org/t/40180
+---
+
 # Generated stl file on sample ct are all 1k in size and cannot be opened using any 3d viewer applications. No error is generated while saving the stl files.Stl
 
 **Topic ID**: 40180

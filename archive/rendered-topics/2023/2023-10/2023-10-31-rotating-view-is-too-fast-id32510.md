@@ -1,3 +1,10 @@
+---
+topic_id: 32510
+title: "Rotating View Is Too Fast"
+date: 2023-10-31
+url: https://discourse.slicer.org/t/32510
+---
+
 # Rotating view is too fast
 
 **Topic ID**: 32510

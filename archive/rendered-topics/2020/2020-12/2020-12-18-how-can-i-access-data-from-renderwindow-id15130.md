@@ -1,3 +1,10 @@
+---
+topic_id: 15130
+title: "How Can I Access Data From Renderwindow"
+date: 2020-12-18
+url: https://discourse.slicer.org/t/15130
+---
+
 # How can I access data from renderWindow?
 
 **Topic ID**: 15130

@@ -1,3 +1,10 @@
+---
+topic_id: 27729
+title: "Plus Server Error When Connecting Ndi Aurora Tracker To Slic"
+date: 2023-02-09
+url: https://discourse.slicer.org/t/27729
+---
+
 # Plus Server error when connecting NDI Aurora tracker to Slicer
 
 **Topic ID**: 27729

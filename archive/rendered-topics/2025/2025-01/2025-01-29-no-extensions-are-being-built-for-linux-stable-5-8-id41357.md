@@ -1,3 +1,10 @@
+---
+topic_id: 41357
+title: "No Extensions Are Being Built For Linux Stable 5 8"
+date: 2025-01-29
+url: https://discourse.slicer.org/t/41357
+---
+
 # No extensions are being built for Linux stable (5.8)
 
 **Topic ID**: 41357

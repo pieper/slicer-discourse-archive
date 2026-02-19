@@ -1,3 +1,10 @@
+---
+topic_id: 42351
+title: "How Can I Get Rid Off A Terminology I Have Previously Import"
+date: 2025-03-28
+url: https://discourse.slicer.org/t/42351
+---
+
 # How can I get rid off a terminology i have previously imported
 
 **Topic ID**: 42351

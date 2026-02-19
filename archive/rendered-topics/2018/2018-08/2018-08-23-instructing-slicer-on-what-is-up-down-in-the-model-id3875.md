@@ -1,3 +1,10 @@
+---
+topic_id: 3875
+title: "Instructing Slicer On What Is Up Down In The Model"
+date: 2018-08-23
+url: https://discourse.slicer.org/t/3875
+---
+
 # Instructing Slicer on what is up/down in the model
 
 **Topic ID**: 3875

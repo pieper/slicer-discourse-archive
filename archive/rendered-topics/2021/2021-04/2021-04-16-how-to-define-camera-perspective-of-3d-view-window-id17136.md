@@ -1,3 +1,10 @@
+---
+topic_id: 17136
+title: "How To Define Camera Perspective Of 3D View Window"
+date: 2021-04-16
+url: https://discourse.slicer.org/t/17136
+---
+
 # How to define camera perspective of 3D view window
 
 **Topic ID**: 17136

@@ -1,3 +1,10 @@
+---
+topic_id: 24427
+title: "How To Judge Whether A Point In A Model Node 3D Model"
+date: 2022-07-21
+url: https://discourse.slicer.org/t/24427
+---
+
 # How to judge whether a point in a model node (3d model)
 
 **Topic ID**: 24427

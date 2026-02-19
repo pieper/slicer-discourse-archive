@@ -1,3 +1,10 @@
+---
+topic_id: 6383
+title: "Using 2Jpgs To Create A 3D Image"
+date: 2019-04-03
+url: https://discourse.slicer.org/t/6383
+---
+
 # Using 2JPGs to Create a 3D Image
 
 **Topic ID**: 6383

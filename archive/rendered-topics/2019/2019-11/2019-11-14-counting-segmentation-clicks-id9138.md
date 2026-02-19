@@ -1,3 +1,10 @@
+---
+topic_id: 9138
+title: "Counting Segmentation Clicks"
+date: 2019-11-14
+url: https://discourse.slicer.org/t/9138
+---
+
 # Counting segmentation clicks
 
 **Topic ID**: 9138

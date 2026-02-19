@@ -1,3 +1,10 @@
+---
+topic_id: 282
+title: "View Save Noddi Output"
+date: 2017-05-08
+url: https://discourse.slicer.org/t/282
+---
+
 # View/save NODDI output
 
 **Topic ID**: 282

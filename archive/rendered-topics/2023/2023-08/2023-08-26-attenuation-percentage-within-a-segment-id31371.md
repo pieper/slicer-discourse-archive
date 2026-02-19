@@ -1,3 +1,10 @@
+---
+topic_id: 31371
+title: "Attenuation Percentage Within A Segment"
+date: 2023-08-26
+url: https://discourse.slicer.org/t/31371
+---
+
 # Attenuation percentage within a segment
 
 **Topic ID**: 31371

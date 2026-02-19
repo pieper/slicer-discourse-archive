@@ -1,3 +1,10 @@
+---
+topic_id: 26475
+title: "Mice Brain Mri Or Ct"
+date: 2022-11-28
+url: https://discourse.slicer.org/t/26475
+---
+
 # Mice Brain MRI or CT
 
 **Topic ID**: 26475

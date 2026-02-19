@@ -1,3 +1,10 @@
+---
+topic_id: 46167
+title: "Totalsegmentator Install Problem Pytorch Version"
+date: 2026-02-15
+url: https://discourse.slicer.org/t/46167
+---
+
 # TotalSegmentator install problem - pytorch version?
 
 **Topic ID**: 46167

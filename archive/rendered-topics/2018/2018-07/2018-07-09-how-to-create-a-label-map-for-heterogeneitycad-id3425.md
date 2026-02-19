@@ -1,3 +1,10 @@
+---
+topic_id: 3425
+title: "How To Create A Label Map For Heterogeneitycad"
+date: 2018-07-09
+url: https://discourse.slicer.org/t/3425
+---
+
 # How to create a label map for heterogeneityCAD?
 
 **Topic ID**: 3425

@@ -1,3 +1,10 @@
+---
+topic_id: 5550
+title: "Refereces For Tractography Roi Seeding"
+date: 2019-01-29
+url: https://discourse.slicer.org/t/5550
+---
+
 # Refereces for Tractography ROI Seeding
 
 **Topic ID**: 5550

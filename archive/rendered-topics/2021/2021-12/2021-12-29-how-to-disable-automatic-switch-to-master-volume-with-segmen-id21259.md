@@ -1,3 +1,10 @@
+---
+topic_id: 21259
+title: "How To Disable Automatic Switch To Master Volume With Segmen"
+date: 2021-12-29
+url: https://discourse.slicer.org/t/21259
+---
+
 # How to disable automatic switch to master volume with Segment editor
 
 **Topic ID**: 21259

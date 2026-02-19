@@ -1,3 +1,10 @@
+---
+topic_id: 11228
+title: "Image Processing Steps Order When Using The Settings In The"
+date: 2020-04-21
+url: https://discourse.slicer.org/t/11228
+---
+
 # Image processing steps order when using the settings in the parameter file?
 
 **Topic ID**: 11228

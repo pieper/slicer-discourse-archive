@@ -1,3 +1,10 @@
+---
+topic_id: 6774
+title: "Nightly Build Does Not Run"
+date: 2019-05-13
+url: https://discourse.slicer.org/t/6774
+---
+
 # Nightly build does not run
 
 **Topic ID**: 6774

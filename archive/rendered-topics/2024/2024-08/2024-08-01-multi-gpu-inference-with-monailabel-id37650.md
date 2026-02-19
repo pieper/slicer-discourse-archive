@@ -1,3 +1,10 @@
+---
+topic_id: 37650
+title: "Multi Gpu Inference With Monailabel"
+date: 2024-08-01
+url: https://discourse.slicer.org/t/37650
+---
+
 # Multi-GPU inference with MONAILabel
 
 **Topic ID**: 37650

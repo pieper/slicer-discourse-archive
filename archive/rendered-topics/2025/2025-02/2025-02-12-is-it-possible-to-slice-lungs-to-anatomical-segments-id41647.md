@@ -1,3 +1,10 @@
+---
+topic_id: 41647
+title: "Is It Possible To Slice Lungs To Anatomical Segments"
+date: 2025-02-12
+url: https://discourse.slicer.org/t/41647
+---
+
 # Is it possible to slice lungs to anatomical segments?
 
 **Topic ID**: 41647

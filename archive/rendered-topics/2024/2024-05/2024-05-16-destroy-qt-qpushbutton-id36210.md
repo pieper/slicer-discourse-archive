@@ -1,3 +1,10 @@
+---
+topic_id: 36210
+title: "Destroy Qt Qpushbutton"
+date: 2024-05-16
+url: https://discourse.slicer.org/t/36210
+---
+
 # Destroy qt.QPushButton
 
 **Topic ID**: 36210

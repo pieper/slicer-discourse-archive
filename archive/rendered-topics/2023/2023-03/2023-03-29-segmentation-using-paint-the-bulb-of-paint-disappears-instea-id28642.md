@@ -1,3 +1,10 @@
+---
+topic_id: 28642
+title: "Segmentation Using Paint The Bulb Of Paint Disappears Instea"
+date: 2023-03-29
+url: https://discourse.slicer.org/t/28642
+---
+
 # Segmentation, using paint, the bulb of paint disappears instead of remaining
 
 **Topic ID**: 28642

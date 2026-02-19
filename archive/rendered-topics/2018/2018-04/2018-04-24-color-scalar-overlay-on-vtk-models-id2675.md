@@ -1,3 +1,10 @@
+---
+topic_id: 2675
+title: "Color Scalar Overlay On Vtk Models"
+date: 2018-04-24
+url: https://discourse.slicer.org/t/2675
+---
+
 # Color scalar overlay on VTK models
 
 **Topic ID**: 2675

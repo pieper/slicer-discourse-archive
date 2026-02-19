@@ -1,3 +1,10 @@
+---
+topic_id: 14135
+title: "Slicer Util Mrmlnodenotfoundexception Could Not Find Nodes I"
+date: 2020-10-19
+url: https://discourse.slicer.org/t/14135
+---
+
 # slicer.util.MRMLNodeNotFoundException: could not find nodes in the scene by name or id '' error
 
 **Topic ID**: 14135

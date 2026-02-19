@@ -1,3 +1,10 @@
+---
+topic_id: 30568
+title: "Cta Vessel Segmentation"
+date: 2023-07-12
+url: https://discourse.slicer.org/t/30568
+---
+
 # CTA Vessel Segmentation
 
 **Topic ID**: 30568

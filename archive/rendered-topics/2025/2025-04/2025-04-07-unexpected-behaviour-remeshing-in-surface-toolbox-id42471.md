@@ -1,3 +1,10 @@
+---
+topic_id: 42471
+title: "Unexpected Behaviour Remeshing In Surface Toolbox"
+date: 2025-04-07
+url: https://discourse.slicer.org/t/42471
+---
+
 # Unexpected behaviour remeshing in Surface Toolbox
 
 **Topic ID**: 42471

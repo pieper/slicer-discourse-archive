@@ -1,3 +1,10 @@
+---
+topic_id: 43226
+title: "Extensions Manager"
+date: 2025-06-05
+url: https://discourse.slicer.org/t/43226
+---
+
 # Extensions-manager
 
 **Topic ID**: 43226

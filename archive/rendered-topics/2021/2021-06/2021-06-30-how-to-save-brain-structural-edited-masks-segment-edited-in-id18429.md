@@ -1,3 +1,10 @@
+---
+topic_id: 18429
+title: "How To Save Brain Structural Edited Masks Segment Edited In"
+date: 2021-06-30
+url: https://discourse.slicer.org/t/18429
+---
+
 # How to save brain structural edited masks (segment edited) in nifti for freesurfer use?
 
 **Topic ID**: 18429

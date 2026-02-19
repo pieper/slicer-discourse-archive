@@ -1,3 +1,10 @@
+---
+topic_id: 45791
+title: "Decal Troubleshooting 3Dslicer Versions 5 9 5 10"
+date: 2026-01-15
+url: https://discourse.slicer.org/t/45791
+---
+
 # DeCAL troubleshooting (3DSlicer versions 5.9 & 5.10)
 
 **Topic ID**: 45791

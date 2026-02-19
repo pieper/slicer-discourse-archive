@@ -1,3 +1,10 @@
+---
+topic_id: 5146
+title: "Vtk Render To Target Texture"
+date: 2018-12-19
+url: https://discourse.slicer.org/t/5146
+---
+
 # [VTK] Render to target/texture?
 
 **Topic ID**: 5146

@@ -1,3 +1,10 @@
+---
+topic_id: 865
+title: "No Extensions For Latest Nightly"
+date: 2017-08-14
+url: https://discourse.slicer.org/t/865
+---
+
 # No extensions for latest nightly
 
 **Topic ID**: 865

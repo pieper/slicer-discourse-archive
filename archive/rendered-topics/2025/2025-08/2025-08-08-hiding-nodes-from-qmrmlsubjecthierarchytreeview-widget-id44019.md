@@ -1,3 +1,10 @@
+---
+topic_id: 44019
+title: "Hiding Nodes From Qmrmlsubjecthierarchytreeview Widget"
+date: 2025-08-08
+url: https://discourse.slicer.org/t/44019
+---
+
 # Hiding nodes from qMRMLSubjectHierarchyTreeView widget
 
 **Topic ID**: 44019

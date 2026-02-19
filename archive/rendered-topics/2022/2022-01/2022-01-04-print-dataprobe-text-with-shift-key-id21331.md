@@ -1,3 +1,10 @@
+---
+topic_id: 21331
+title: "Print Dataprobe Text With Shift Key"
+date: 2022-01-04
+url: https://discourse.slicer.org/t/21331
+---
+
 # Print dataprobe text with shift key
 
 **Topic ID**: 21331

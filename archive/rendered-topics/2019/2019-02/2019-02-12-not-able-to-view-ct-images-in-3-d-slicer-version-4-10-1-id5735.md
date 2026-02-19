@@ -1,3 +1,10 @@
+---
+topic_id: 5735
+title: "Not Able To View Ct Images In 3 D Slicer Version 4 10 1"
+date: 2019-02-12
+url: https://discourse.slicer.org/t/5735
+---
+
 # Not able to view CT images in 3 D slicer version 4.10.1
 
 **Topic ID**: 5735

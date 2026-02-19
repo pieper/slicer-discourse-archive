@@ -1,3 +1,10 @@
+---
+topic_id: 18383
+title: "Extracting The Three 2D Slices Of Data Shown By The 3 Planes"
+date: 2021-06-28
+url: https://discourse.slicer.org/t/18383
+---
+
 # Extracting the three 2d slices of data shown by the 3 planes defined in 3d Slicer
 
 **Topic ID**: 18383

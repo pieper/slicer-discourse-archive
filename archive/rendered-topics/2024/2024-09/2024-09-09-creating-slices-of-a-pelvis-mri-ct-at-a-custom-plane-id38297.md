@@ -1,3 +1,10 @@
+---
+topic_id: 38297
+title: "Creating Slices Of A Pelvis Mri Ct At A Custom Plane"
+date: 2024-09-09
+url: https://discourse.slicer.org/t/38297
+---
+
 # Creating slices of a pelvis MRI/CT at a custom plane
 
 **Topic ID**: 38297

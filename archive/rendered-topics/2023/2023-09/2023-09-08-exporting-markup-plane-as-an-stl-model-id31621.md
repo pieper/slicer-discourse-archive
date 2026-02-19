@@ -1,3 +1,10 @@
+---
+topic_id: 31621
+title: "Exporting Markup Plane As An Stl Model"
+date: 2023-09-08
+url: https://discourse.slicer.org/t/31621
+---
+
 # Exporting markup plane as an stl model
 
 **Topic ID**: 31621

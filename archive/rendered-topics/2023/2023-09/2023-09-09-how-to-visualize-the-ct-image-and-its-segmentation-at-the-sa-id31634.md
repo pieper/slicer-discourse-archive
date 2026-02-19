@@ -1,3 +1,10 @@
+---
+topic_id: 31634
+title: "How To Visualize The Ct Image And Its Segmentation At The Sa"
+date: 2023-09-09
+url: https://discourse.slicer.org/t/31634
+---
+
 # How to visualize the CT image and its segmentation at the same time?
 
 **Topic ID**: 31634

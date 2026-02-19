@@ -1,3 +1,10 @@
+---
+topic_id: 24621
+title: "Slicerfreesurfer In Slicer5 0 Not Present"
+date: 2022-08-03
+url: https://discourse.slicer.org/t/24621
+---
+
 # Slicerfreesurfer in slicer5.0 not present
 
 **Topic ID**: 24621

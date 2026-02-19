@@ -1,3 +1,10 @@
+---
+topic_id: 29229
+title: "Na Mic Project Week Project Week 39 Preparation Meetings Sta"
+date: 2023-05-01
+url: https://discourse.slicer.org/t/29229
+---
+
 # [Na-mic-project-week] Project Week 39 preparation meetings start this Tuesday (May 2nd)
 
 **Topic ID**: 29229

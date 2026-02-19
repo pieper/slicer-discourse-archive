@@ -1,3 +1,10 @@
+---
+topic_id: 1134
+title: "Calculating Volume Of Ct Images"
+date: 2017-09-27
+url: https://discourse.slicer.org/t/1134
+---
+
 # Calculating volume of CT images
 
 **Topic ID**: 1134

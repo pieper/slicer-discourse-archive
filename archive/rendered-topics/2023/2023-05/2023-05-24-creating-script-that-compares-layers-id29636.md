@@ -1,3 +1,10 @@
+---
+topic_id: 29636
+title: "Creating Script That Compares Layers"
+date: 2023-05-24
+url: https://discourse.slicer.org/t/29636
+---
+
 # Creating script that compares layers
 
 **Topic ID**: 29636

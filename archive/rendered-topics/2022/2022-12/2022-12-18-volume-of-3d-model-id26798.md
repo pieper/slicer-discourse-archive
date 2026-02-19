@@ -1,3 +1,10 @@
+---
+topic_id: 26798
+title: "Volume Of 3D Model"
+date: 2022-12-18
+url: https://discourse.slicer.org/t/26798
+---
+
 # Volume of 3D model
 
 **Topic ID**: 26798

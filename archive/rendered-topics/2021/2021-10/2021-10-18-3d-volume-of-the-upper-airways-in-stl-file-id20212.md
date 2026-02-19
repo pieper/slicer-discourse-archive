@@ -1,3 +1,10 @@
+---
+topic_id: 20212
+title: "3D Volume Of The Upper Airways In Stl File"
+date: 2021-10-18
+url: https://discourse.slicer.org/t/20212
+---
+
 # 3D volume of the upper airways in STL file
 
 **Topic ID**: 20212

@@ -1,3 +1,10 @@
+---
+topic_id: 7070
+title: "Python Non Ascii Char"
+date: 2019-06-07
+url: https://discourse.slicer.org/t/7070
+---
+
 # Python non ascii char
 
 **Topic ID**: 7070

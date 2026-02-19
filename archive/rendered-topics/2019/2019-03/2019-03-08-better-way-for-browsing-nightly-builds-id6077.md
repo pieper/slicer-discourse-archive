@@ -1,3 +1,10 @@
+---
+topic_id: 6077
+title: "Better Way For Browsing Nightly Builds"
+date: 2019-03-08
+url: https://discourse.slicer.org/t/6077
+---
+
 # Better way for browsing nightly builds?
 
 **Topic ID**: 6077

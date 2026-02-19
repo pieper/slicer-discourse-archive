@@ -1,3 +1,10 @@
+---
+topic_id: 44479
+title: "Applying Manipulations To All Volumes In A Study"
+date: 2025-09-15
+url: https://discourse.slicer.org/t/44479
+---
+
 # Applying manipulations to all volumes in a study
 
 **Topic ID**: 44479

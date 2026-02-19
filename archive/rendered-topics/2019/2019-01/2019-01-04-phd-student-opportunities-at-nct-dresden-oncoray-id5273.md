@@ -1,3 +1,10 @@
+---
+topic_id: 5273
+title: "Phd Student Opportunities At Nct Dresden Oncoray"
+date: 2019-01-04
+url: https://discourse.slicer.org/t/5273
+---
+
 # PhD student opportunities at NCT Dresden/Oncoray
 
 **Topic ID**: 5273

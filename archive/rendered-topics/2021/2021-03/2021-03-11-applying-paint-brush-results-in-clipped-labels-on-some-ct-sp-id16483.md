@@ -1,3 +1,10 @@
+---
+topic_id: 16483
+title: "Applying Paint Brush Results In Clipped Labels On Some Ct Sp"
+date: 2021-03-11
+url: https://discourse.slicer.org/t/16483
+---
+
 # Applying paint brush results in clipped labels on some CT spine volumes
 
 **Topic ID**: 16483

@@ -1,3 +1,10 @@
+---
+topic_id: 21159
+title: "Close Slicersalt After Processing In Commandline"
+date: 2021-12-21
+url: https://discourse.slicer.org/t/21159
+---
+
 # Close slicersalt after processing in commandline
 
 **Topic ID**: 21159

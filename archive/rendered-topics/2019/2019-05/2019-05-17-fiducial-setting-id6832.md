@@ -1,3 +1,10 @@
+---
+topic_id: 6832
+title: "Fiducial Setting"
+date: 2019-05-17
+url: https://discourse.slicer.org/t/6832
+---
+
 # Fiducial setting
 
 **Topic ID**: 6832

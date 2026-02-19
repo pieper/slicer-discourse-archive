@@ -1,3 +1,10 @@
+---
+topic_id: 31098
+title: "Camera Parenting To An Object"
+date: 2023-08-11
+url: https://discourse.slicer.org/t/31098
+---
+
 # Camera parenting to an object
 
 **Topic ID**: 31098

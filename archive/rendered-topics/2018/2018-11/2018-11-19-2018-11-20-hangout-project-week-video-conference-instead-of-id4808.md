@@ -1,3 +1,10 @@
+---
+topic_id: 4808
+title: "2018 11 20 Hangout Project Week Video Conference Instead Of"
+date: 2018-11-19
+url: https://discourse.slicer.org/t/4808
+---
+
 # 2018.11.20 Hangout (Project week video conference instead of regular Slicer meeting)
 
 **Topic ID**: 4808

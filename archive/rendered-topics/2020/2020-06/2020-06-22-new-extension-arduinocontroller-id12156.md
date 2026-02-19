@@ -1,3 +1,10 @@
+---
+topic_id: 12156
+title: "New Extension Arduinocontroller"
+date: 2020-06-22
+url: https://discourse.slicer.org/t/12156
+---
+
 # New extension: ArduinoController
 
 **Topic ID**: 12156

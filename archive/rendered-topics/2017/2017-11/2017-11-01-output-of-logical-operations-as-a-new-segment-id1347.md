@@ -1,3 +1,10 @@
+---
+topic_id: 1347
+title: "Output Of Logical Operations As A New Segment"
+date: 2017-11-01
+url: https://discourse.slicer.org/t/1347
+---
+
 # Output of logical operations as a new segment
 
 **Topic ID**: 1347

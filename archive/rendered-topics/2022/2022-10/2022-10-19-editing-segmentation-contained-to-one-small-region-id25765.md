@@ -1,3 +1,10 @@
+---
+topic_id: 25765
+title: "Editing Segmentation Contained To One Small Region"
+date: 2022-10-19
+url: https://discourse.slicer.org/t/25765
+---
+
 # Editing Segmentation contained to one small region
 
 **Topic ID**: 25765

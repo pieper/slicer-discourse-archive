@@ -1,3 +1,10 @@
+---
+topic_id: 8011
+title: "Remove Interaction Toolbar From Qmrmlslicewidget"
+date: 2019-08-13
+url: https://discourse.slicer.org/t/8011
+---
+
 # Remove Interaction toolbar from QMRMLSliceWidget
 
 **Topic ID**: 8011

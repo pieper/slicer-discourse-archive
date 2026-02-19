@@ -1,3 +1,10 @@
+---
+topic_id: 4072
+title: "Import Dicom Resolves Differently Across Platforms"
+date: 2018-09-11
+url: https://discourse.slicer.org/t/4072
+---
+
 # `import dicom` resolves differently across platforms
 
 **Topic ID**: 4072

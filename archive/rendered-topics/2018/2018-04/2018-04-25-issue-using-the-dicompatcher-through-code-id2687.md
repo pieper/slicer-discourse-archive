@@ -1,3 +1,10 @@
+---
+topic_id: 2687
+title: "Issue Using The Dicompatcher Through Code"
+date: 2018-04-25
+url: https://discourse.slicer.org/t/2687
+---
+
 # Issue using the dicomPatcher through code
 
 **Topic ID**: 2687

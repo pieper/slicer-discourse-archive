@@ -1,3 +1,10 @@
+---
+topic_id: 14590
+title: "Glyph Text Annotation Orientation"
+date: 2020-11-13
+url: https://discourse.slicer.org/t/14590
+---
+
 # Glyph text annotation orientation
 
 **Topic ID**: 14590

@@ -1,3 +1,10 @@
+---
+topic_id: 22881
+title: "Remove Unwanted Region From Slices To Create 3D Model"
+date: 2022-04-09
+url: https://discourse.slicer.org/t/22881
+---
+
 # Remove unwanted region from slices to create 3D Model
 
 **Topic ID**: 22881

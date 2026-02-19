@@ -1,3 +1,10 @@
+---
+topic_id: 19852
+title: "Getting Roi Bounds From Vtkmrmlmarkupsroinode"
+date: 2021-09-25
+url: https://discourse.slicer.org/t/19852
+---
+
 # Getting ROI bounds from vtkMRMLMarkupsROINode
 
 **Topic ID**: 19852

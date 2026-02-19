@@ -1,3 +1,10 @@
+---
+topic_id: 23396
+title: "Paint Tool Resolution"
+date: 2022-05-12
+url: https://discourse.slicer.org/t/23396
+---
+
 # Paint tool resolution
 
 **Topic ID**: 23396

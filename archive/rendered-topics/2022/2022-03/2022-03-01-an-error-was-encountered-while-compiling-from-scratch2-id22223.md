@@ -1,3 +1,10 @@
+---
+topic_id: 22223
+title: "An Error Was Encountered While Compiling From Scratch2"
+date: 2022-03-01
+url: https://discourse.slicer.org/t/22223
+---
+
 # An error was encountered while compiling from scratch2
 
 **Topic ID**: 22223

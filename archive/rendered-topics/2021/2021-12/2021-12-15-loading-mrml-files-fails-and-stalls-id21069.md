@@ -1,3 +1,10 @@
+---
+topic_id: 21069
+title: "Loading Mrml Files Fails And Stalls"
+date: 2021-12-15
+url: https://discourse.slicer.org/t/21069
+---
+
 # Loading mrml files fails and stalls
 
 **Topic ID**: 21069

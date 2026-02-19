@@ -1,3 +1,10 @@
+---
+topic_id: 941
+title: "Gpu Based Projective Texture Mapping In A Loadable Module"
+date: 2017-08-25
+url: https://discourse.slicer.org/t/941
+---
+
 # GPU-based Projective Texture Mapping in a Loadable Module
 
 **Topic ID**: 941

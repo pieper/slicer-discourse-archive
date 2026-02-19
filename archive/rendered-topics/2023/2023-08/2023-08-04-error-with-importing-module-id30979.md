@@ -1,3 +1,10 @@
+---
+topic_id: 30979
+title: "Error With Importing Module"
+date: 2023-08-04
+url: https://discourse.slicer.org/t/30979
+---
+
 # Error with importing module
 
 **Topic ID**: 30979

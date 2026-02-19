@@ -1,3 +1,10 @@
+---
+topic_id: 41492
+title: "Making Opacity Of A Volume Dependent On Other Volumes Object"
+date: 2025-02-04
+url: https://discourse.slicer.org/t/41492
+---
+
 # Making opacity of a volume dependent on other volumes/objects
 
 **Topic ID**: 41492

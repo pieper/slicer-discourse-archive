@@ -1,3 +1,10 @@
+---
+topic_id: 81
+title: "How Can I Pass A Mhd Or Mha Video To Slicer And Track Inform"
+date: 2017-04-12
+url: https://discourse.slicer.org/t/81
+---
+
 # How can I pass a .mhd or .mha video to Slicer and track information from the camera?
 
 **Topic ID**: 81

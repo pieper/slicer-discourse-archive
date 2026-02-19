@@ -1,3 +1,10 @@
+---
+topic_id: 11259
+title: "Authorization To Cite Articles"
+date: 2020-04-23
+url: https://discourse.slicer.org/t/11259
+---
+
 # Authorization to cite articles !!
 
 **Topic ID**: 11259

@@ -1,3 +1,10 @@
+---
+topic_id: 43109
+title: "For Creating Extensions Using Extension Index Repo"
+date: 2025-05-26
+url: https://discourse.slicer.org/t/43109
+---
+
 # For creating extensions using extension index repo
 
 **Topic ID**: 43109

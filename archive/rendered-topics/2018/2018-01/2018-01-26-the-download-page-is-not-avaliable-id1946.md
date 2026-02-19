@@ -1,3 +1,10 @@
+---
+topic_id: 1946
+title: "The Download Page Is Not Avaliable"
+date: 2018-01-26
+url: https://discourse.slicer.org/t/1946
+---
+
 # The Download page is not avaliable?
 
 **Topic ID**: 1946

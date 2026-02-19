@@ -1,3 +1,10 @@
+---
+topic_id: 9360
+title: "Can I Extract The Outline Of A Single Closed Segment"
+date: 2019-12-03
+url: https://discourse.slicer.org/t/9360
+---
+
 # Can I extract the outline of a single closed segment?
 
 **Topic ID**: 9360

@@ -1,3 +1,10 @@
+---
+topic_id: 16308
+title: "Savenode Doesnt Work Properly"
+date: 2021-03-02
+url: https://discourse.slicer.org/t/16308
+---
+
 # saveNode doesn't work properly
 
 **Topic ID**: 16308

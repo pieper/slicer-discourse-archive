@@ -1,3 +1,10 @@
+---
+topic_id: 29626
+title: "Execute Python Scripts Without Opening 3D Slicer Gui"
+date: 2023-05-24
+url: https://discourse.slicer.org/t/29626
+---
+
 # Execute python scripts without opening 3D-slicer GUI
 
 **Topic ID**: 29626

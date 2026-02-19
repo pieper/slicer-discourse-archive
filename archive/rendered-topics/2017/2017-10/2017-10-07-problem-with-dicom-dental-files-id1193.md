@@ -1,3 +1,10 @@
+---
+topic_id: 1193
+title: "Problem With Dicom Dental Files"
+date: 2017-10-07
+url: https://discourse.slicer.org/t/1193
+---
+
 # Problem with DICOM Dental files
 
 **Topic ID**: 1193

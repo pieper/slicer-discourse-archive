@@ -1,3 +1,10 @@
+---
+topic_id: 2204
+title: "No Slice Viewers With Nightly On Linux"
+date: 2018-02-28
+url: https://discourse.slicer.org/t/2204
+---
+
 # No slice viewers with nightly on Linux
 
 **Topic ID**: 2204

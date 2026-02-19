@@ -1,3 +1,10 @@
+---
+topic_id: 26805
+title: "Distance Height Between Two Landmarks"
+date: 2022-12-18
+url: https://discourse.slicer.org/t/26805
+---
+
 # Distance (height) between two landmarks
 
 **Topic ID**: 26805

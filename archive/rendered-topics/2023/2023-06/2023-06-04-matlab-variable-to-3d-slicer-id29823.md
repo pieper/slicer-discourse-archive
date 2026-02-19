@@ -1,3 +1,10 @@
+---
+topic_id: 29823
+title: "Matlab Variable To 3D Slicer"
+date: 2023-06-04
+url: https://discourse.slicer.org/t/29823
+---
+
 # MATLAB variable to 3D slicer
 
 **Topic ID**: 29823

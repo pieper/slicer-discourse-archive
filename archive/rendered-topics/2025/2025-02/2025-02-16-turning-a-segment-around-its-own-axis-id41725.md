@@ -1,3 +1,10 @@
+---
+topic_id: 41725
+title: "Turning A Segment Around Its Own Axis"
+date: 2025-02-16
+url: https://discourse.slicer.org/t/41725
+---
+
 # Turning a segment around it's own axis
 
 **Topic ID**: 41725

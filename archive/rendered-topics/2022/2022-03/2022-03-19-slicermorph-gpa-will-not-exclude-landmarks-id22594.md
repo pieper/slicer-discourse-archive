@@ -1,3 +1,10 @@
+---
+topic_id: 22594
+title: "Slicermorph Gpa Will Not Exclude Landmarks"
+date: 2022-03-19
+url: https://discourse.slicer.org/t/22594
+---
+
 # SlicerMorph GPA will not exclude landmarks
 
 **Topic ID**: 22594

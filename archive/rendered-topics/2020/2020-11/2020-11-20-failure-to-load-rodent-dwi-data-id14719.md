@@ -1,3 +1,10 @@
+---
+topic_id: 14719
+title: "Failure To Load Rodent Dwi Data"
+date: 2020-11-20
+url: https://discourse.slicer.org/t/14719
+---
+
 # Failure to load rodent DWI data
 
 **Topic ID**: 14719

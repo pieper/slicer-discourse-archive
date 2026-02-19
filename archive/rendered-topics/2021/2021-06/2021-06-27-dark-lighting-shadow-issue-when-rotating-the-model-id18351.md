@@ -1,3 +1,10 @@
+---
+topic_id: 18351
+title: "Dark Lighting Shadow Issue When Rotating The Model"
+date: 2021-06-27
+url: https://discourse.slicer.org/t/18351
+---
+
 # Dark lighting/shadow issue when rotating the model
 
 **Topic ID**: 18351

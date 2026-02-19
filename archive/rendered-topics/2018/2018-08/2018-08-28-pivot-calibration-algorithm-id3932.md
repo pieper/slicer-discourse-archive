@@ -1,3 +1,10 @@
+---
+topic_id: 3932
+title: "Pivot Calibration Algorithm"
+date: 2018-08-28
+url: https://discourse.slicer.org/t/3932
+---
+
 # Pivot Calibration Algorithm
 
 **Topic ID**: 3932

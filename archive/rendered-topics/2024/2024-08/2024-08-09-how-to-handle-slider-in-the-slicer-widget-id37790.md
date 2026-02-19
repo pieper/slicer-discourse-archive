@@ -1,3 +1,10 @@
+---
+topic_id: 37790
+title: "How To Handle Slider In The Slicer Widget"
+date: 2024-08-09
+url: https://discourse.slicer.org/t/37790
+---
+
 # How to handle slider in the slicer widget
 
 **Topic ID**: 37790

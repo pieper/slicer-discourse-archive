@@ -1,3 +1,10 @@
+---
+topic_id: 13591
+title: "How To Access Get To The Scale Space Particles"
+date: 2020-09-21
+url: https://discourse.slicer.org/t/13591
+---
+
 # How to access/get to the scale space particles?
 
 **Topic ID**: 13591

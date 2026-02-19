@@ -1,3 +1,10 @@
+---
+topic_id: 1861
+title: "Crashing When Saving Poly Data Like Stls Dealing With Big Mo"
+date: 2018-01-17
+url: https://discourse.slicer.org/t/1861
+---
+
 # Crashing when Saving Poly Data (like STLs), Dealing with Big Models
 
 **Topic ID**: 1861

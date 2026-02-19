@@ -1,3 +1,10 @@
+---
+topic_id: 34337
+title: "Can I Change The Color Of Only Certain Parts Of The Mesh"
+date: 2024-02-15
+url: https://discourse.slicer.org/t/34337
+---
+
 # Can I change the color of only certain parts of the mesh?
 
 **Topic ID**: 34337

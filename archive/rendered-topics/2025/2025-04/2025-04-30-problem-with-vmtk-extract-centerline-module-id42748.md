@@ -1,3 +1,10 @@
+---
+topic_id: 42748
+title: "Problem With Vmtk Extract Centerline Module"
+date: 2025-04-30
+url: https://discourse.slicer.org/t/42748
+---
+
 # Problem with VMTK extract centerline module
 
 **Topic ID**: 42748

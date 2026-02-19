@@ -1,3 +1,10 @@
+---
+topic_id: 15094
+title: "From Objective C To Python"
+date: 2020-12-16
+url: https://discourse.slicer.org/t/15094
+---
+
 # From objective-c to python
 
 **Topic ID**: 15094

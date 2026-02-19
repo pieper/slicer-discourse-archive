@@ -1,3 +1,10 @@
+---
+topic_id: 34384
+title: "Fat Infiltration Rate Calculate Please For My Thesis"
+date: 2024-02-18
+url: https://discourse.slicer.org/t/34384
+---
+
 # fat infiltration rate calculate please, for my thesis
 
 **Topic ID**: 34384

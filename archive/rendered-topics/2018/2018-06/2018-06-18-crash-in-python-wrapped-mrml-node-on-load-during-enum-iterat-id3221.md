@@ -1,3 +1,10 @@
+---
+topic_id: 3221
+title: "Crash In Python Wrapped Mrml Node On Load During Enum Iterat"
+date: 2018-06-18
+url: https://discourse.slicer.org/t/3221
+---
+
 # Crash in python wrapped MRML node on load during enum iterating
 
 **Topic ID**: 3221

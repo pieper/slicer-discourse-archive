@@ -1,3 +1,10 @@
+---
+topic_id: 11946
+title: "Extension Manager Problems"
+date: 2020-06-09
+url: https://discourse.slicer.org/t/11946
+---
+
 # Extension manager problems
 
 **Topic ID**: 11946

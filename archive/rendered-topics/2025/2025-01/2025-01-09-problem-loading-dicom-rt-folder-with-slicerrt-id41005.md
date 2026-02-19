@@ -1,3 +1,10 @@
+---
+topic_id: 41005
+title: "Problem Loading Dicom Rt Folder With Slicerrt"
+date: 2025-01-09
+url: https://discourse.slicer.org/t/41005
+---
+
 # Problem loading DICOM RT folder with SlicerRT
 
 **Topic ID**: 41005

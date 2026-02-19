@@ -1,3 +1,10 @@
+---
+topic_id: 29604
+title: "C1001 Internal Compiler Error"
+date: 2023-05-23
+url: https://discourse.slicer.org/t/29604
+---
+
 # C1001: Internal compiler error
 
 **Topic ID**: 29604

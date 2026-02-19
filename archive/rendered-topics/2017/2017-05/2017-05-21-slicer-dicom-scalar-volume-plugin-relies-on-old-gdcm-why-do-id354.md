@@ -1,3 +1,10 @@
+---
+topic_id: 354
+title: "Slicer Dicom Scalar Volume Plugin Relies On Old Gdcm Why Do"
+date: 2017-05-21
+url: https://discourse.slicer.org/t/354
+---
+
 # Slicer DICOM Scalar volume plugin relies on (old) GDCM: why do we not use DCMTK?
 
 **Topic ID**: 354

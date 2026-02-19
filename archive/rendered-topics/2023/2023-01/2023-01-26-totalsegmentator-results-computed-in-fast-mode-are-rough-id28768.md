@@ -1,3 +1,10 @@
+---
+topic_id: 28768
+title: "Totalsegmentator Results Computed In Fast Mode Are Rough"
+date: 2023-01-26
+url: https://discourse.slicer.org/t/28768
+---
+
 # TotalSegmentator results computed in fast mode are rough
 
 **Topic ID**: 28768

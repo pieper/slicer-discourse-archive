@@ -1,3 +1,10 @@
+---
+topic_id: 15867
+title: "Using Scissors To Make Mask On Mri"
+date: 2021-02-05
+url: https://discourse.slicer.org/t/15867
+---
+
 # Using Scissors to make mask on MRI
 
 **Topic ID**: 15867

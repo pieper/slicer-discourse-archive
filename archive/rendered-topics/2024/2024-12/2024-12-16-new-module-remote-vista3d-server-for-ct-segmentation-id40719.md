@@ -1,3 +1,10 @@
+---
+topic_id: 40719
+title: "New Module Remote Vista3D Server For Ct Segmentation"
+date: 2024-12-16
+url: https://discourse.slicer.org/t/40719
+---
+
 # New Module: Remote VISTA3D server for CT segmentation
 
 **Topic ID**: 40719

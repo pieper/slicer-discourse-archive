@@ -1,3 +1,10 @@
+---
+topic_id: 13142
+title: "How To Visualize 2D Xray And 3D Model Overlapped"
+date: 2020-08-24
+url: https://discourse.slicer.org/t/13142
+---
+
 # How to visualize 2d xray and 3d model overlapped
 
 **Topic ID**: 13142

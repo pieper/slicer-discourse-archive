@@ -1,3 +1,10 @@
+---
+topic_id: 9891
+title: "Display Vtkimage In 2D Views"
+date: 2020-01-21
+url: https://discourse.slicer.org/t/9891
+---
+
 # Display vtkimage in 2D views
 
 **Topic ID**: 9891

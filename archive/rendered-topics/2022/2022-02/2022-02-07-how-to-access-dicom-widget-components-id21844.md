@@ -1,3 +1,10 @@
+---
+topic_id: 21844
+title: "How To Access Dicom Widget Components"
+date: 2022-02-07
+url: https://discourse.slicer.org/t/21844
+---
+
 # How to access dicom widget components
 
 **Topic ID**: 21844

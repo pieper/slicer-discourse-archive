@@ -1,3 +1,10 @@
+---
+topic_id: 18717
+title: "Cannot Use Mpreviewpreprocessor To Convert Dicom To Nrrd In"
+date: 2021-07-14
+url: https://discourse.slicer.org/t/18717
+---
+
 # cannot use mpReviewpreprocessor to convert dicom to nrrd in batch mode 
 
 **Topic ID**: 18717

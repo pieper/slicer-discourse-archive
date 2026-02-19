@@ -1,3 +1,10 @@
+---
+topic_id: 34913
+title: "Open Igtlink Supported Modality Vendor List"
+date: 2024-03-15
+url: https://discourse.slicer.org/t/34913
+---
+
 # (Open)IGTlink supported modality vendor list
 
 **Topic ID**: 34913

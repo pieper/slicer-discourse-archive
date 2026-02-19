@@ -1,3 +1,10 @@
+---
+topic_id: 28068
+title: "3D Model Mri Scans Of A Mouse Head"
+date: 2023-02-27
+url: https://discourse.slicer.org/t/28068
+---
+
 # 3D Model/MRI Scans of a mouse head?
 
 **Topic ID**: 28068

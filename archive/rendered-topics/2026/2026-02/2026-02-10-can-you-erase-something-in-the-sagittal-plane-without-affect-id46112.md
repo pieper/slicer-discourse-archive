@@ -1,3 +1,10 @@
+---
+topic_id: 46112
+title: "Can You Erase Something In The Sagittal Plane Without Affect"
+date: 2026-02-10
+url: https://discourse.slicer.org/t/46112
+---
+
 # Can you erase something in the sagittal plane, without affecting segmentations made in the axial plane?
 
 **Topic ID**: 46112

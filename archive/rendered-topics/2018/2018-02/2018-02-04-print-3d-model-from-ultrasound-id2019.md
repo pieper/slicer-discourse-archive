@@ -1,3 +1,10 @@
+---
+topic_id: 2019
+title: "Print 3D Model From Ultrasound"
+date: 2018-02-04
+url: https://discourse.slicer.org/t/2019
+---
+
 # Print 3D model from ultrasound
 
 **Topic ID**: 2019

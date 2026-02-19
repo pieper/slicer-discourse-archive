@@ -1,3 +1,10 @@
+---
+topic_id: 21023
+title: "Working With Markups"
+date: 2021-12-12
+url: https://discourse.slicer.org/t/21023
+---
+
 # Working with markups
 
 **Topic ID**: 21023

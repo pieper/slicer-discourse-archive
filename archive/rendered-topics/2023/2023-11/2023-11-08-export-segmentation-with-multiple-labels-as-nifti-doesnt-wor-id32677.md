@@ -1,3 +1,10 @@
+---
+topic_id: 32677
+title: "Export Segmentation With Multiple Labels As Nifti Doesnt Wor"
+date: 2023-11-08
+url: https://discourse.slicer.org/t/32677
+---
+
 # Export segmentation with multiple labels as nifti doesn't work
 
 **Topic ID**: 32677

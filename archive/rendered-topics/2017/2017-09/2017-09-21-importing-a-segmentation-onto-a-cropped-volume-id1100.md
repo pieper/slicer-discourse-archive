@@ -1,3 +1,10 @@
+---
+topic_id: 1100
+title: "Importing A Segmentation Onto A Cropped Volume"
+date: 2017-09-21
+url: https://discourse.slicer.org/t/1100
+---
+
 # Importing a segmentation onto a cropped volume
 
 **Topic ID**: 1100

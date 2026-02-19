@@ -1,3 +1,10 @@
+---
+topic_id: 4883
+title: "Rpy2 Pip Installation Fails"
+date: 2018-11-27
+url: https://discourse.slicer.org/t/4883
+---
+
 # Rpy2 pip installation fails
 
 **Topic ID**: 4883

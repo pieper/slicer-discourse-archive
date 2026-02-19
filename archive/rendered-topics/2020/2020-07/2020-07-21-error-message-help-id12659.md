@@ -1,3 +1,10 @@
+---
+topic_id: 12659
+title: "Error Message Help"
+date: 2020-07-21
+url: https://discourse.slicer.org/t/12659
+---
+
 # Error message,help!
 
 **Topic ID**: 12659

@@ -1,3 +1,10 @@
+---
+topic_id: 4493
+title: "Mismatch Of Image And Segmentation Volume"
+date: 2018-10-23
+url: https://discourse.slicer.org/t/4493
+---
+
 # Mismatch of image and segmentation volume
 
 **Topic ID**: 4493

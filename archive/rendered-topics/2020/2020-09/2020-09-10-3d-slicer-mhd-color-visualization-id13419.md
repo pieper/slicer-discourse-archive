@@ -1,3 +1,10 @@
+---
+topic_id: 13419
+title: "3D Slicer Mhd Color Visualization"
+date: 2020-09-10
+url: https://discourse.slicer.org/t/13419
+---
+
 # 3D Slicer MHD Color Visualization
 
 **Topic ID**: 13419

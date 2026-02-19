@@ -1,3 +1,10 @@
+---
+topic_id: 1303
+title: "Cite The Software In A Course Completion Work"
+date: 2017-10-27
+url: https://discourse.slicer.org/t/1303
+---
+
 # Cite the software in a course completion work
 
 **Topic ID**: 1303

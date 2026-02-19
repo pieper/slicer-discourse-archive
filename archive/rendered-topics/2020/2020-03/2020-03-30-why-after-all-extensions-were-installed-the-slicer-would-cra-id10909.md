@@ -1,3 +1,10 @@
+---
+topic_id: 10909
+title: "Why After All Extensions Were Installed The Slicer Would Cra"
+date: 2020-03-30
+url: https://discourse.slicer.org/t/10909
+---
+
 # Why after all extensions were installed, the slicer would crash?
 
 **Topic ID**: 10909

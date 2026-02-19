@@ -1,3 +1,10 @@
+---
+topic_id: 18091
+title: "Slicer Black Screen On Opening Software"
+date: 2021-06-12
+url: https://discourse.slicer.org/t/18091
+---
+
 # Slicer Black screen on opening software
 
 **Topic ID**: 18091

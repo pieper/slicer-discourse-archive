@@ -1,3 +1,10 @@
+---
+topic_id: 12345
+title: "Python Library For Local Threshold Effect"
+date: 2020-07-02
+url: https://discourse.slicer.org/t/12345
+---
+
 # Python Library for Local Threshold Effect
 
 **Topic ID**: 12345

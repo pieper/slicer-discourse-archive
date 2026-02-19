@@ -1,3 +1,10 @@
+---
+topic_id: 11404
+title: "Adding Drop Down Menu"
+date: 2020-05-04
+url: https://discourse.slicer.org/t/11404
+---
+
 # Adding drop down menu
 
 **Topic ID**: 11404

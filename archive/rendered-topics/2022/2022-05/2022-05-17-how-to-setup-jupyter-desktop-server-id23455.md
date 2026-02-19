@@ -1,3 +1,10 @@
+---
+topic_id: 23455
+title: "How To Setup Jupyter Desktop Server"
+date: 2022-05-17
+url: https://discourse.slicer.org/t/23455
+---
+
 # How to setup Jupyter Desktop Server
 
 **Topic ID**: 23455

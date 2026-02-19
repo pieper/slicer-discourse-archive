@@ -1,3 +1,10 @@
+---
+topic_id: 11983
+title: "Updating Closed Surface Representation"
+date: 2020-06-10
+url: https://discourse.slicer.org/t/11983
+---
+
 # Updating Closed Surface Representation
 
 **Topic ID**: 11983

@@ -1,3 +1,10 @@
+---
+topic_id: 21361
+title: "How To Display A Volume In A Specific Slice View With Python"
+date: 2022-01-08
+url: https://discourse.slicer.org/t/21361
+---
+
 # How to display a volume in a specific slice view with Python
 
 **Topic ID**: 21361

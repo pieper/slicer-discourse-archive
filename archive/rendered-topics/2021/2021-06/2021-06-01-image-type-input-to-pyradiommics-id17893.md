@@ -1,3 +1,10 @@
+---
+topic_id: 17893
+title: "Image Type Input To Pyradiommics"
+date: 2021-06-01
+url: https://discourse.slicer.org/t/17893
+---
+
 # Image type input to pyRadiommics
 
 **Topic ID**: 17893

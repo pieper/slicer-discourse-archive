@@ -1,3 +1,10 @@
+---
+topic_id: 25309
+title: "Apply Deformation To The 3D Ct Image Volume From Mesh Displa"
+date: 2022-09-16
+url: https://discourse.slicer.org/t/25309
+---
+
 # Apply deformation to the 3D-CT image volume from mesh displacement
 
 **Topic ID**: 25309

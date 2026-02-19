@@ -1,3 +1,10 @@
+---
+topic_id: 14478
+title: "How To Overlap Ct Images"
+date: 2020-11-07
+url: https://discourse.slicer.org/t/14478
+---
+
 # How to overlap CT images
 
 **Topic ID**: 14478

@@ -1,3 +1,10 @@
+---
+topic_id: 6470
+title: "Build Error Libpython2 7 So Undefined Reference To Minor"
+date: 2019-04-11
+url: https://discourse.slicer.org/t/6470
+---
+
 # Build Error:libpython2.7.so: undefined reference to `minor
 
 **Topic ID**: 6470

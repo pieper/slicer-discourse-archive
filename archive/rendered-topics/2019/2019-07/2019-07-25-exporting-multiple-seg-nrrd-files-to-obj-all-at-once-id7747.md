@@ -1,3 +1,10 @@
+---
+topic_id: 7747
+title: "Exporting Multiple Seg Nrrd Files To Obj All At Once"
+date: 2019-07-25
+url: https://discourse.slicer.org/t/7747
+---
+
 # Exporting multiple seg.nrrd files to obj all at once
 
 **Topic ID**: 7747

@@ -1,3 +1,10 @@
+---
+topic_id: 13933
+title: "3D View Doesnt Change"
+date: 2020-10-08
+url: https://discourse.slicer.org/t/13933
+---
+
 # 3D view doesn't change
 
 **Topic ID**: 13933

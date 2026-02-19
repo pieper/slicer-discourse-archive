@@ -1,3 +1,10 @@
+---
+topic_id: 21152
+title: "Monailabel 3D Slicer For Cloud Computing Workshop Jan 12 202"
+date: 2021-12-20
+url: https://discourse.slicer.org/t/21152
+---
+
 # MONAILabel / 3D Slicer for cloud computing workshop Jan 12, 2022, 2-4 EST
 
 **Topic ID**: 21152

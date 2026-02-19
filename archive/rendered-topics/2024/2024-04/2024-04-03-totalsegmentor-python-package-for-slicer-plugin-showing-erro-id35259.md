@@ -1,3 +1,10 @@
+---
+topic_id: 35259
+title: "Totalsegmentor Python Package For Slicer Plugin Showing Erro"
+date: 2024-04-03
+url: https://discourse.slicer.org/t/35259
+---
+
 # TotalSegmentor python package for Slicer plugin showing error
 
 **Topic ID**: 35259

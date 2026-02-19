@@ -1,3 +1,10 @@
+---
+topic_id: 17931
+title: "How To Read Bimg File Format"
+date: 2021-06-03
+url: https://discourse.slicer.org/t/17931
+---
+
 # How to read .bimg file format?
 
 **Topic ID**: 17931

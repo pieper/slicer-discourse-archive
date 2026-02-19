@@ -1,3 +1,10 @@
+---
+topic_id: 26104
+title: "Model Registration As Measurement Of Displacement"
+date: 2022-11-07
+url: https://discourse.slicer.org/t/26104
+---
+
 # Model registration as measurement of displacement
 
 **Topic ID**: 26104

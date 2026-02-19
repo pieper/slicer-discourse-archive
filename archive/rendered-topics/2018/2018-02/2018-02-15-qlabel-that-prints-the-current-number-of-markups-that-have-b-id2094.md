@@ -1,3 +1,10 @@
+---
+topic_id: 2094
+title: "Qlabel That Prints The Current Number Of Markups That Have B"
+date: 2018-02-15
+url: https://discourse.slicer.org/t/2094
+---
+
 # QLabel that prints the current number of markups that have been placed
 
 **Topic ID**: 2094

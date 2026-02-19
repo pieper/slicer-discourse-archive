@@ -1,3 +1,10 @@
+---
+topic_id: 24416
+title: "New Feature Automatic Update Of Extensions"
+date: 2022-07-20
+url: https://discourse.slicer.org/t/24416
+---
+
 # New feature: Automatic update of extensions
 
 **Topic ID**: 24416

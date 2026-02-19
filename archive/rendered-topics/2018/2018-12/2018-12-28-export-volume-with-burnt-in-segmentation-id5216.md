@@ -1,3 +1,10 @@
+---
+topic_id: 5216
+title: "Export Volume With Burnt In Segmentation"
+date: 2018-12-28
+url: https://discourse.slicer.org/t/5216
+---
+
 # Export volume with burnt-in segmentation
 
 **Topic ID**: 5216

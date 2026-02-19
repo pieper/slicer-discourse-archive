@@ -1,3 +1,10 @@
+---
+topic_id: 45803
+title: "Auto3Dgm Landmark Placement On Invisible Parts Of Mesh"
+date: 2026-01-16
+url: https://discourse.slicer.org/t/45803
+---
+
 # Auto3dgm landmark placement on invisible parts of mesh 
 
 **Topic ID**: 45803

@@ -1,3 +1,10 @@
+---
+topic_id: 1087
+title: "How To Make The Surface Of Model Semi Transparent"
+date: 2017-09-20
+url: https://discourse.slicer.org/t/1087
+---
+
 # How to make the surface of model semi-transparent?
 
 **Topic ID**: 1087

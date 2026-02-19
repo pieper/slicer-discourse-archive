@@ -1,3 +1,10 @@
+---
+topic_id: 19882
+title: "How To Improve Optitrack Duo Tool Tracking Stability"
+date: 2021-09-27
+url: https://discourse.slicer.org/t/19882
+---
+
 # How to improve OptiTrack Duo tool tracking stability
 
 **Topic ID**: 19882

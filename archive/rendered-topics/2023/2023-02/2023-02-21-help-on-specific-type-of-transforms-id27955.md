@@ -1,3 +1,10 @@
+---
+topic_id: 27955
+title: "Help On Specific Type Of Transforms"
+date: 2023-02-21
+url: https://discourse.slicer.org/t/27955
+---
+
 # Help on specific type of transforms
 
 **Topic ID**: 27955

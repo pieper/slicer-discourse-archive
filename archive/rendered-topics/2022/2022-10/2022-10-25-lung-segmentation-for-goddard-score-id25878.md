@@ -1,3 +1,10 @@
+---
+topic_id: 25878
+title: "Lung Segmentation For Goddard Score"
+date: 2022-10-25
+url: https://discourse.slicer.org/t/25878
+---
+
 # Lung segmentation for Goddard Score
 
 **Topic ID**: 25878

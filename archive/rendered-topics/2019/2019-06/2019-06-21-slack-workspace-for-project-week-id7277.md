@@ -1,3 +1,10 @@
+---
+topic_id: 7277
+title: "Slack Workspace For Project Week"
+date: 2019-06-21
+url: https://discourse.slicer.org/t/7277
+---
+
 # Slack Workspace for Project Week!
 
 **Topic ID**: 7277

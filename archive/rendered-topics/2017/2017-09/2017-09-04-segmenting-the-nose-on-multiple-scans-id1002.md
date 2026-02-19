@@ -1,3 +1,10 @@
+---
+topic_id: 1002
+title: "Segmenting The Nose On Multiple Scans"
+date: 2017-09-04
+url: https://discourse.slicer.org/t/1002
+---
+
 # Segmenting the nose on multiple scans
 
 **Topic ID**: 1002

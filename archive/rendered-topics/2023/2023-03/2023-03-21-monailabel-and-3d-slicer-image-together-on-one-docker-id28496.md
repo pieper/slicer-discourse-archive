@@ -1,3 +1,10 @@
+---
+topic_id: 28496
+title: "Monailabel And 3D Slicer Image Together On One Docker"
+date: 2023-03-21
+url: https://discourse.slicer.org/t/28496
+---
+
 # MonaiLabel and 3D Slicer Image together on one docker.
 
 **Topic ID**: 28496

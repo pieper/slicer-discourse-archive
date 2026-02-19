@@ -1,3 +1,10 @@
+---
+topic_id: 18039
+title: "Elf Load Command Address Offset Not Properly Aligned"
+date: 2021-06-09
+url: https://discourse.slicer.org/t/18039
+---
+
 # ELF load command address/offset not properly aligned
 
 **Topic ID**: 18039

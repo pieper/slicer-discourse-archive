@@ -1,3 +1,10 @@
+---
+topic_id: 37027
+title: "Using 3D Slicer To Segment Intramyocardial Fat"
+date: 2024-06-26
+url: https://discourse.slicer.org/t/37027
+---
+
 # Using 3D slicer to segment intramyocardial fat
 
 **Topic ID**: 37027

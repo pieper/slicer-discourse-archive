@@ -1,3 +1,10 @@
+---
+topic_id: 37061
+title: "Segmenting T2 Mri Lesions"
+date: 2024-06-27
+url: https://discourse.slicer.org/t/37061
+---
+
 # Segmenting t2 mri lesions
 
 **Topic ID**: 37061

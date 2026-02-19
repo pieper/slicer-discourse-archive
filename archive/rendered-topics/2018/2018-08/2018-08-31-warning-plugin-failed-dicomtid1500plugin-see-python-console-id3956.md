@@ -1,3 +1,10 @@
+---
+topic_id: 3956
+title: "Warning Plugin Failed Dicomtid1500Plugin See Python Console"
+date: 2018-08-31
+url: https://discourse.slicer.org/t/3956
+---
+
 # Warning: Plugin failed: DICOMTID1500Plugin See python console for error message
 
 **Topic ID**: 3956

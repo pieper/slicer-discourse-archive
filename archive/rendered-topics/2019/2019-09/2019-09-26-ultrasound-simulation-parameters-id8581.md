@@ -1,3 +1,10 @@
+---
+topic_id: 8581
+title: "Ultrasound Simulation Parameters"
+date: 2019-09-26
+url: https://discourse.slicer.org/t/8581
+---
+
 # Ultrasound Simulation Parameters
 
 **Topic ID**: 8581

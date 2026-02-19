@@ -1,3 +1,10 @@
+---
+topic_id: 22732
+title: "Issue About Aruco Tracker"
+date: 2022-03-28
+url: https://discourse.slicer.org/t/22732
+---
+
 # Issue about Aruco tracker
 
 **Topic ID**: 22732

@@ -1,3 +1,10 @@
+---
+topic_id: 35733
+title: "Conversion To Binary Labelmap Freezes Slicer"
+date: 2024-04-25
+url: https://discourse.slicer.org/t/35733
+---
+
 # Conversion to binary labelmap freezes Slicer
 
 **Topic ID**: 35733

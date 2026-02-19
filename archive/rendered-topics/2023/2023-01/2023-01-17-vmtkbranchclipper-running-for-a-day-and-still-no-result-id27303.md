@@ -1,3 +1,10 @@
+---
+topic_id: 27303
+title: "Vmtkbranchclipper Running For A Day And Still No Result"
+date: 2023-01-17
+url: https://discourse.slicer.org/t/27303
+---
+
 # vmtkbranchclipper running for a day and still no result.
 
 **Topic ID**: 27303

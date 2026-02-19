@@ -1,3 +1,10 @@
+---
+topic_id: 10007
+title: "Median Image Fiter Command Line"
+date: 2020-01-29
+url: https://discourse.slicer.org/t/10007
+---
+
 # Median Image Fiter - command line
 
 **Topic ID**: 10007

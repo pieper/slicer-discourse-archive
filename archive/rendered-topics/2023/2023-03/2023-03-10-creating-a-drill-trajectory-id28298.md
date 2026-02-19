@@ -1,3 +1,10 @@
+---
+topic_id: 28298
+title: "Creating A Drill Trajectory"
+date: 2023-03-10
+url: https://discourse.slicer.org/t/28298
+---
+
 # Creating a drill trajectory
 
 **Topic ID**: 28298

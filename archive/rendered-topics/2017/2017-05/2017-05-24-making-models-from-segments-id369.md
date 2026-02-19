@@ -1,3 +1,10 @@
+---
+topic_id: 369
+title: "Making Models From Segments"
+date: 2017-05-24
+url: https://discourse.slicer.org/t/369
+---
+
 # Making models from segments
 
 **Topic ID**: 369

@@ -1,3 +1,10 @@
+---
+topic_id: 29425
+title: "How To Segment Muscle In Totalsegmentator"
+date: 2023-05-12
+url: https://discourse.slicer.org/t/29425
+---
+
 # How to segment muscle in TotalSegmentator
 
 **Topic ID**: 29425

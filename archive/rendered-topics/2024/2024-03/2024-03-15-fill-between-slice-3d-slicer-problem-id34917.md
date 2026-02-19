@@ -1,3 +1,10 @@
+---
+topic_id: 34917
+title: "Fill Between Slice 3D Slicer Problem"
+date: 2024-03-15
+url: https://discourse.slicer.org/t/34917
+---
+
 # Fill between slice 3D slicer problem
 
 **Topic ID**: 34917

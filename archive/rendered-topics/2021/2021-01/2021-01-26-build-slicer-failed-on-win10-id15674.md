@@ -1,3 +1,10 @@
+---
+topic_id: 15674
+title: "Build Slicer Failed On Win10"
+date: 2021-01-26
+url: https://discourse.slicer.org/t/15674
+---
+
 # Build Slicer failed on win10
 
 **Topic ID**: 15674

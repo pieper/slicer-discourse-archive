@@ -1,3 +1,10 @@
+---
+topic_id: 22020
+title: "How To Set Volume Rendering Color Same As In Slices"
+date: 2022-02-17
+url: https://discourse.slicer.org/t/22020
+---
+
 # How to set volume rendering color same as in slices?
 
 **Topic ID**: 22020

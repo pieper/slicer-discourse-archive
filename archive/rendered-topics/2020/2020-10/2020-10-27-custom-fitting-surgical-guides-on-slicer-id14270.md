@@ -1,3 +1,10 @@
+---
+topic_id: 14270
+title: "Custom Fitting Surgical Guides On Slicer"
+date: 2020-10-27
+url: https://discourse.slicer.org/t/14270
+---
+
 # Custom‐fitting Surgical Guides on Slicer
 
 **Topic ID**: 14270

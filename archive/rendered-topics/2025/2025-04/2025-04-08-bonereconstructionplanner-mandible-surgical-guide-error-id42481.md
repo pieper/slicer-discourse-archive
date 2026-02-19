@@ -1,3 +1,10 @@
+---
+topic_id: 42481
+title: "Bonereconstructionplanner Mandible Surgical Guide Error"
+date: 2025-04-08
+url: https://discourse.slicer.org/t/42481
+---
+
 # BoneReconstructionPlanner: Mandible surgical guide error
 
 **Topic ID**: 42481

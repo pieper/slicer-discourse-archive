@@ -1,3 +1,10 @@
+---
+topic_id: 2842
+title: "Moving Image In Red Window"
+date: 2018-05-17
+url: https://discourse.slicer.org/t/2842
+---
+
 # moving image in red window?
 
 **Topic ID**: 2842

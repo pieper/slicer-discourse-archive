@@ -1,3 +1,10 @@
+---
+topic_id: 41261
+title: "Dicom Files Not Displaying Different Views Properly"
+date: 2025-01-24
+url: https://discourse.slicer.org/t/41261
+---
+
 # DICOM Files not displaying different views properly
 
 **Topic ID**: 41261

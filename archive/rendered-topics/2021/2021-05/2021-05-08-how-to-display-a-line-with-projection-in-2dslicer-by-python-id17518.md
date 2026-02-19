@@ -1,3 +1,10 @@
+---
+topic_id: 17518
+title: "How To Display A Line With Projection In 2Dslicer By Python"
+date: 2021-05-08
+url: https://discourse.slicer.org/t/17518
+---
+
 # How to display a line with projection in 2Dslicer by python?
 
 **Topic ID**: 17518

@@ -1,3 +1,10 @@
+---
+topic_id: 19006
+title: "I Am New To Slicer After Applying Linear Transform To A 3D I"
+date: 2021-07-31
+url: https://discourse.slicer.org/t/19006
+---
+
 # I am new to slicer,  after applying linear transform to a 3D images and save it on my local computes the images seems to be same as untransformed or original image is there a way I can save a transformed images 
 
 **Topic ID**: 19006

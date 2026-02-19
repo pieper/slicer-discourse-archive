@@ -1,3 +1,10 @@
+---
+topic_id: 601
+title: "Exporting Transformed Data"
+date: 2017-06-29
+url: https://discourse.slicer.org/t/601
+---
+
 # Exporting transformed data
 
 **Topic ID**: 601

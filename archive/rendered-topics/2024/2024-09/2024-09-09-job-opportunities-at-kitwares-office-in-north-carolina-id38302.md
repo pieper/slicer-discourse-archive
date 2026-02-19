@@ -1,3 +1,10 @@
+---
+topic_id: 38302
+title: "Job Opportunities At Kitwares Office In North Carolina"
+date: 2024-09-09
+url: https://discourse.slicer.org/t/38302
+---
+
 # Job opportunities at Kitware's office in North Carolina
 
 **Topic ID**: 38302

@@ -1,3 +1,10 @@
+---
+topic_id: 7060
+title: "Move Object On Z Axis"
+date: 2019-06-06
+url: https://discourse.slicer.org/t/7060
+---
+
 # Move object on Z Axis
 
 **Topic ID**: 7060

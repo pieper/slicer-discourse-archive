@@ -1,3 +1,10 @@
+---
+topic_id: 7821
+title: "Matlab Module Step By Step Debugging Not Working"
+date: 2019-07-30
+url: https://discourse.slicer.org/t/7821
+---
+
 # Matlab Module step-by-step debugging not working
 
 **Topic ID**: 7821

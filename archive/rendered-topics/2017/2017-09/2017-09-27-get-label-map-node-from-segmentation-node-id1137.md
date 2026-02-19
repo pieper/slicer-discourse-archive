@@ -1,3 +1,10 @@
+---
+topic_id: 1137
+title: "Get Label Map Node From Segmentation Node"
+date: 2017-09-27
+url: https://discourse.slicer.org/t/1137
+---
+
 # Get label map node from segmentation node
 
 **Topic ID**: 1137

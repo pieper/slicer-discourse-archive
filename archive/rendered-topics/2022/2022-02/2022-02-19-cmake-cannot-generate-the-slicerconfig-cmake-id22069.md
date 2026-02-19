@@ -1,3 +1,10 @@
+---
+topic_id: 22069
+title: "Cmake Cannot Generate The Slicerconfig Cmake"
+date: 2022-02-19
+url: https://discourse.slicer.org/t/22069
+---
+
 # Cmake cannot generate the SlicerConfig.cmake
 
 **Topic ID**: 22069

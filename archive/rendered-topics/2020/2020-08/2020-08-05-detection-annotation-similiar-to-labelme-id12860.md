@@ -1,3 +1,10 @@
+---
+topic_id: 12860
+title: "Detection Annotation Similiar To Labelme"
+date: 2020-08-05
+url: https://discourse.slicer.org/t/12860
+---
+
 # Detection annotation similiar to labelme
 
 **Topic ID**: 12860

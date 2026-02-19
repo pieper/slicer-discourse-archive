@@ -1,3 +1,10 @@
+---
+topic_id: 23942
+title: "Re Installing Extensions"
+date: 2022-06-19
+url: https://discourse.slicer.org/t/23942
+---
+
 # Re installing extensions
 
 **Topic ID**: 23942

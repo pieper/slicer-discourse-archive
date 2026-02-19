@@ -1,3 +1,10 @@
+---
+topic_id: 3394
+title: "Get Total Slice Plane Positions And Orientation Of Ct Volume"
+date: 2018-07-06
+url: https://discourse.slicer.org/t/3394
+---
+
 # Get total slice plane positions and orientation of CT volume in RAS?
 
 **Topic ID**: 3394

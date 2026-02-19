@@ -1,3 +1,10 @@
+---
+topic_id: 9912
+title: "Loaded Files But With Blank Browser"
+date: 2020-01-23
+url: https://discourse.slicer.org/t/9912
+---
+
 # Loaded Files but with blank browser
 
 **Topic ID**: 9912

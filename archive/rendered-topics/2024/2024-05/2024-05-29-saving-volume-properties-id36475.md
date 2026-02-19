@@ -1,3 +1,10 @@
+---
+topic_id: 36475
+title: "Saving Volume Properties"
+date: 2024-05-29
+url: https://discourse.slicer.org/t/36475
+---
+
 # Saving volume properties
 
 **Topic ID**: 36475

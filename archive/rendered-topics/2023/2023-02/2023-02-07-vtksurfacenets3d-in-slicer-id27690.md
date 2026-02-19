@@ -1,3 +1,10 @@
+---
+topic_id: 27690
+title: "Vtksurfacenets3D In Slicer"
+date: 2023-02-07
+url: https://discourse.slicer.org/t/27690
+---
+
 # vtkSurfaceNets3D in Slicer?
 
 **Topic ID**: 27690

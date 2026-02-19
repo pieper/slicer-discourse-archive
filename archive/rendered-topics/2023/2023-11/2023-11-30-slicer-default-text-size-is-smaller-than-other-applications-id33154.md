@@ -1,3 +1,10 @@
+---
+topic_id: 33154
+title: "Slicer Default Text Size Is Smaller Than Other Applications"
+date: 2023-11-30
+url: https://discourse.slicer.org/t/33154
+---
+
 # Slicer default text-size is smaller than other applications (Windows)
 
 **Topic ID**: 33154

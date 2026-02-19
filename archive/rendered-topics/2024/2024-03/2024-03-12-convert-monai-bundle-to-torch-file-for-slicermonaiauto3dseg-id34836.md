@@ -1,3 +1,10 @@
+---
+topic_id: 34836
+title: "Convert Monai Bundle To Torch File For Slicermonaiauto3Dseg"
+date: 2024-03-12
+url: https://discourse.slicer.org/t/34836
+---
+
 # Convert Monai bundle to torch file for SlicerMONAIAuto3DSeg
 
 **Topic ID**: 34836

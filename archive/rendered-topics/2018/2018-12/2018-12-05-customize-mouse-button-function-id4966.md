@@ -1,3 +1,10 @@
+---
+topic_id: 4966
+title: "Customize Mouse Button Function"
+date: 2018-12-05
+url: https://discourse.slicer.org/t/4966
+---
+
 # Customize mouse button function
 
 **Topic ID**: 4966

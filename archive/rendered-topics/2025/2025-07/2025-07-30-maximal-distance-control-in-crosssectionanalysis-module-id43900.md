@@ -1,3 +1,10 @@
+---
+topic_id: 43900
+title: "Maximal Distance Control In Crosssectionanalysis Module"
+date: 2025-07-30
+url: https://discourse.slicer.org/t/43900
+---
+
 # Maximal distance control in CrossSectionAnalysis module
 
 **Topic ID**: 43900

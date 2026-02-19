@@ -1,3 +1,10 @@
+---
+topic_id: 11936
+title: "Sharing Exe File With A Friend"
+date: 2020-06-08
+url: https://discourse.slicer.org/t/11936
+---
+
 # Sharing .exe file with a friend
 
 **Topic ID**: 11936

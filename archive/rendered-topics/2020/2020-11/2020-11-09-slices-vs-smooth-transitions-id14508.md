@@ -1,3 +1,10 @@
+---
+topic_id: 14508
+title: "Slices Vs Smooth Transitions"
+date: 2020-11-09
+url: https://discourse.slicer.org/t/14508
+---
+
 # Slices vs smooth transitions
 
 **Topic ID**: 14508

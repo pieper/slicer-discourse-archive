@@ -1,3 +1,10 @@
+---
+topic_id: 34398
+title: "I Cant Use The Lung Lesion Analyzer Module Of Cip"
+date: 2024-02-19
+url: https://discourse.slicer.org/t/34398
+---
+
 # I can't use the lung lesion analyzer module of CIP
 
 **Topic ID**: 34398

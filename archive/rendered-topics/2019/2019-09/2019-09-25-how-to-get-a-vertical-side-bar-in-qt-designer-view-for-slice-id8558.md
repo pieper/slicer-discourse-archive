@@ -1,3 +1,10 @@
+---
+topic_id: 8558
+title: "How To Get A Vertical Side Bar In Qt Designer View For Slice"
+date: 2019-09-25
+url: https://discourse.slicer.org/t/8558
+---
+
 # How to get a vertical side bar in QT designer view for Slicer
 
 **Topic ID**: 8558

@@ -1,3 +1,10 @@
+---
+topic_id: 43760
+title: "Dicom Exporting After Hardened Transformation"
+date: 2025-07-17
+url: https://discourse.slicer.org/t/43760
+---
+
 # DICOM Exporting After Hardened Transformation
 
 **Topic ID**: 43760

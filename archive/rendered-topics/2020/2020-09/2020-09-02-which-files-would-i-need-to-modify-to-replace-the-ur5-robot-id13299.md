@@ -1,3 +1,10 @@
+---
+topic_id: 13299
+title: "Which Files Would I Need To Modify To Replace The Ur5 Robot"
+date: 2020-09-02
+url: https://discourse.slicer.org/t/13299
+---
+
 # Which files would I need to modify to replace the UR5 robot with my ABB IRB 120 robot?
 
 **Topic ID**: 13299

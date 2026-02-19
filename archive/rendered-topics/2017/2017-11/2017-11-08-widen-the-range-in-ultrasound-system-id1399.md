@@ -1,3 +1,10 @@
+---
+topic_id: 1399
+title: "Widen The Range In Ultrasound System"
+date: 2017-11-08
+url: https://discourse.slicer.org/t/1399
+---
+
 # Widen the range in ultrasound system
 
 **Topic ID**: 1399

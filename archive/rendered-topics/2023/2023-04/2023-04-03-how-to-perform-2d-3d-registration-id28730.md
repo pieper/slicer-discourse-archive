@@ -1,3 +1,10 @@
+---
+topic_id: 28730
+title: "How To Perform 2D 3D Registration"
+date: 2023-04-03
+url: https://discourse.slicer.org/t/28730
+---
+
 # How to perform 2d~3d registration
 
 **Topic ID**: 28730

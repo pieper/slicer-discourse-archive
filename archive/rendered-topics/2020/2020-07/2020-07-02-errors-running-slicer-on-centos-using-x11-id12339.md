@@ -1,3 +1,10 @@
+---
+topic_id: 12339
+title: "Errors Running Slicer On Centos Using X11"
+date: 2020-07-02
+url: https://discourse.slicer.org/t/12339
+---
+
 # Errors Running Slicer on CentOS using X11
 
 **Topic ID**: 12339

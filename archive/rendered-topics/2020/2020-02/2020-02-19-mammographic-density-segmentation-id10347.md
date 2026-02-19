@@ -1,3 +1,10 @@
+---
+topic_id: 10347
+title: "Mammographic Density Segmentation"
+date: 2020-02-19
+url: https://discourse.slicer.org/t/10347
+---
+
 # Mammographic density segmentation
 
 **Topic ID**: 10347

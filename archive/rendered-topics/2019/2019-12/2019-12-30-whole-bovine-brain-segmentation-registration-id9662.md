@@ -1,3 +1,10 @@
+---
+topic_id: 9662
+title: "Whole Bovine Brain Segmentation Registration"
+date: 2019-12-30
+url: https://discourse.slicer.org/t/9662
+---
+
 # Whole bovine brain segmentation/registration
 
 **Topic ID**: 9662

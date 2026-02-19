@@ -1,3 +1,10 @@
+---
+topic_id: 3723
+title: "Slicerdmri Tutorial At Miccai 2018"
+date: 2018-08-10
+url: https://discourse.slicer.org/t/3723
+---
+
 # SlicerDMRI tutorial at MICCAI 2018
 
 **Topic ID**: 3723

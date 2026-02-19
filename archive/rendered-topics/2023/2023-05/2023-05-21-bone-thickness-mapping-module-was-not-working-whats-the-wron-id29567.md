@@ -1,3 +1,10 @@
+---
+topic_id: 29567
+title: "Bone Thickness Mapping Module Was Not Working Whats The Wron"
+date: 2023-05-21
+url: https://discourse.slicer.org/t/29567
+---
+
 # Bone thickness mapping module was not working. what's the wrong?
 
 **Topic ID**: 29567

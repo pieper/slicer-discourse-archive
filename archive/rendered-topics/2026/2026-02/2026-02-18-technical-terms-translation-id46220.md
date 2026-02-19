@@ -1,3 +1,10 @@
+---
+topic_id: 46220
+title: "Technical Terms Translation"
+date: 2026-02-18
+url: https://discourse.slicer.org/t/46220
+---
+
 # Technical terms translation
 
 **Topic ID**: 46220

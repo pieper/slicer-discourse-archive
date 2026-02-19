@@ -1,3 +1,10 @@
+---
+topic_id: 4681
+title: "Wrong Size On The 3D Modell"
+date: 2018-11-08
+url: https://discourse.slicer.org/t/4681
+---
+
 # Wrong size on the 3D modell
 
 **Topic ID**: 4681

@@ -1,3 +1,10 @@
+---
+topic_id: 1580
+title: "Convert Dicom Rtstruct Format To Nifti Format"
+date: 2017-12-03
+url: https://discourse.slicer.org/t/1580
+---
+
 # Convert DICOM-RTSTRUCT format to Nifti format
 
 **Topic ID**: 1580

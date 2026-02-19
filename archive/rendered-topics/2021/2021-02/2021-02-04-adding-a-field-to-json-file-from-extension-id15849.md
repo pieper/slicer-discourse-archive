@@ -1,3 +1,10 @@
+---
+topic_id: 15849
+title: "Adding A Field To Json File From Extension"
+date: 2021-02-04
+url: https://discourse.slicer.org/t/15849
+---
+
 # Adding a field to JSON file from extension
 
 **Topic ID**: 15849

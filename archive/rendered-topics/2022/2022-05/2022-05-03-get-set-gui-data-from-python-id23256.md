@@ -1,3 +1,10 @@
+---
+topic_id: 23256
+title: "Get Set Gui Data From Python"
+date: 2022-05-03
+url: https://discourse.slicer.org/t/23256
+---
+
 # Get/Set GUI data from Python
 
 **Topic ID**: 23256

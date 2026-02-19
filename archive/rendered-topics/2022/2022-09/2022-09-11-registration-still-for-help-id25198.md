@@ -1,3 +1,10 @@
+---
+topic_id: 25198
+title: "Registration Still For Help"
+date: 2022-09-11
+url: https://discourse.slicer.org/t/25198
+---
+
 # Registration still for help
 
 **Topic ID**: 25198

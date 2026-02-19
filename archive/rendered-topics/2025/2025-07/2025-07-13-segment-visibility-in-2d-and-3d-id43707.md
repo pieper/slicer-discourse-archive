@@ -1,3 +1,10 @@
+---
+topic_id: 43707
+title: "Segment Visibility In 2D And 3D"
+date: 2025-07-13
+url: https://discourse.slicer.org/t/43707
+---
+
 # segment visibility in 2D and 3D
 
 **Topic ID**: 43707

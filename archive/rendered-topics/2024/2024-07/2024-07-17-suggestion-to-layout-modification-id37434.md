@@ -1,3 +1,10 @@
+---
+topic_id: 37434
+title: "Suggestion To Layout Modification"
+date: 2024-07-17
+url: https://discourse.slicer.org/t/37434
+---
+
 # Suggestion to layout modification
 
 **Topic ID**: 37434

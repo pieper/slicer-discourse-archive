@@ -1,3 +1,10 @@
+---
+topic_id: 34717
+title: "Adding A New Effect To The Segment Editor Module"
+date: 2024-03-05
+url: https://discourse.slicer.org/t/34717
+---
+
 # Adding a new effect to the Segment Editor module
 
 **Topic ID**: 34717

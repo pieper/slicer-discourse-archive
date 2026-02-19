@@ -1,3 +1,10 @@
+---
+topic_id: 13548
+title: "Scatter Plot Colour Each Point Differently"
+date: 2020-09-18
+url: https://discourse.slicer.org/t/13548
+---
+
 # Scatter Plot: Colour each point differently
 
 **Topic ID**: 13548

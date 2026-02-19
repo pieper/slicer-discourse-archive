@@ -1,3 +1,10 @@
+---
+topic_id: 8565
+title: "The Speed Of Import Dicom Files From Directory Is Very Slow"
+date: 2019-09-25
+url: https://discourse.slicer.org/t/8565
+---
+
 # The speed of import dicom files from directory is very slow. How to solve the problem?
 
 **Topic ID**: 8565

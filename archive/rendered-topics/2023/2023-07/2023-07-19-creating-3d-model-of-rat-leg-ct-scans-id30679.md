@@ -1,3 +1,10 @@
+---
+topic_id: 30679
+title: "Creating 3D Model Of Rat Leg Ct Scans"
+date: 2023-07-19
+url: https://discourse.slicer.org/t/30679
+---
+
 # Creating 3D model of rat leg µCT scans
 
 **Topic ID**: 30679

@@ -1,3 +1,10 @@
+---
+topic_id: 30070
+title: "Creating Holes Based On Cordinates"
+date: 2023-06-16
+url: https://discourse.slicer.org/t/30070
+---
+
 # Creating Holes Based on Cordinates
 
 **Topic ID**: 30070

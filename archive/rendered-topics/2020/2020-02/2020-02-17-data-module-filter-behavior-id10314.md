@@ -1,3 +1,10 @@
+---
+topic_id: 10314
+title: "Data Module Filter Behavior"
+date: 2020-02-17
+url: https://discourse.slicer.org/t/10314
+---
+
 # Data module filter behavior
 
 **Topic ID**: 10314

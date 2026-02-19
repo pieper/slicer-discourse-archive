@@ -1,3 +1,10 @@
+---
+topic_id: 30738
+title: "Bonethicknessmapping Does Not Work"
+date: 2023-07-22
+url: https://discourse.slicer.org/t/30738
+---
+
 # BoneThicknessMapping does not work
 
 **Topic ID**: 30738

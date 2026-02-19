@@ -1,3 +1,10 @@
+---
+topic_id: 22439
+title: "Slicer 4 Reaches 1 Million Downloads"
+date: 2022-03-10
+url: https://discourse.slicer.org/t/22439
+---
+
 # Slicer 4 reaches 1 million downloads
 
 **Topic ID**: 22439

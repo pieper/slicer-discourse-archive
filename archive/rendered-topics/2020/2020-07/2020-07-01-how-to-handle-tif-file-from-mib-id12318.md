@@ -1,3 +1,10 @@
+---
+topic_id: 12318
+title: "How To Handle Tif File From Mib"
+date: 2020-07-01
+url: https://discourse.slicer.org/t/12318
+---
+
 # How to handle .tif file from MIB
 
 **Topic ID**: 12318

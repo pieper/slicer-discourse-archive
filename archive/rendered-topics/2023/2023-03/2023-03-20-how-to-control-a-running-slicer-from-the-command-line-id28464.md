@@ -1,3 +1,10 @@
+---
+topic_id: 28464
+title: "How To Control A Running Slicer From The Command Line"
+date: 2023-03-20
+url: https://discourse.slicer.org/t/28464
+---
+
 # How to control a running slicer from the command line
 
 **Topic ID**: 28464

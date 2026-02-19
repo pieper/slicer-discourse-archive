@@ -1,3 +1,10 @@
+---
+topic_id: 21785
+title: "Can I Use Lmaps Generated From Cip To Extract Features With"
+date: 2022-02-03
+url: https://discourse.slicer.org/t/21785
+---
+
 # Can I use lmaps generated from CIP to extract features with Pyradiomics?
 
 **Topic ID**: 21785

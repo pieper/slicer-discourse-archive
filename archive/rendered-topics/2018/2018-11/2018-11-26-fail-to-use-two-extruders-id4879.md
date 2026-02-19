@@ -1,3 +1,10 @@
+---
+topic_id: 4879
+title: "Fail To Use Two Extruders"
+date: 2018-11-26
+url: https://discourse.slicer.org/t/4879
+---
+
 # Fail to use two extruders
 
 **Topic ID**: 4879

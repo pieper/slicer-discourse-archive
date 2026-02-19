@@ -1,3 +1,10 @@
+---
+topic_id: 20049
+title: "How To Enlarge Zoom In Out The Volume Of A Slice With Python"
+date: 2021-10-07
+url: https://discourse.slicer.org/t/20049
+---
+
 # How to enlarge(zoom in/out) the volume of a slice with python code?
 
 **Topic ID**: 20049

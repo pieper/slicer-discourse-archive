@@ -1,3 +1,10 @@
+---
+topic_id: 13509
+title: "Segmentation Size"
+date: 2020-09-16
+url: https://discourse.slicer.org/t/13509
+---
+
 # Segmentation size
 
 **Topic ID**: 13509

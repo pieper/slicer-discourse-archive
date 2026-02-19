@@ -1,3 +1,10 @@
+---
+topic_id: 43390
+title: "How To Dicom Stitching And Exporting"
+date: 2025-06-17
+url: https://discourse.slicer.org/t/43390
+---
+
 # How to: DICOM stitching and exporting
 
 **Topic ID**: 43390

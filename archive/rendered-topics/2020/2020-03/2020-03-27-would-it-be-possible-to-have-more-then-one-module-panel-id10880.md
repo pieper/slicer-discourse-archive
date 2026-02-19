@@ -1,3 +1,10 @@
+---
+topic_id: 10880
+title: "Would It Be Possible To Have More Then One Module Panel"
+date: 2020-03-27
+url: https://discourse.slicer.org/t/10880
+---
+
 # Would it be possible to have more then one module panel?
 
 **Topic ID**: 10880

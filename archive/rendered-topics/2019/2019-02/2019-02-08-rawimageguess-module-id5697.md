@@ -1,3 +1,10 @@
+---
+topic_id: 5697
+title: "Rawimageguess Module"
+date: 2019-02-08
+url: https://discourse.slicer.org/t/5697
+---
+
 # RawImageGuess module
 
 **Topic ID**: 5697

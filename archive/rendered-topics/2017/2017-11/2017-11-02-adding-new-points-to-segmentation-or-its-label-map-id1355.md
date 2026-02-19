@@ -1,3 +1,10 @@
+---
+topic_id: 1355
+title: "Adding New Points To Segmentation Or Its Label Map"
+date: 2017-11-02
+url: https://discourse.slicer.org/t/1355
+---
+
 # Adding new points to segmentation (or its label map)
 
 **Topic ID**: 1355

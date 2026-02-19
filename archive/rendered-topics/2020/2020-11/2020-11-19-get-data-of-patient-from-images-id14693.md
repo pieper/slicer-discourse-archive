@@ -1,3 +1,10 @@
+---
+topic_id: 14693
+title: "Get Data Of Patient From Images"
+date: 2020-11-19
+url: https://discourse.slicer.org/t/14693
+---
+
 # Get data of patient from images
 
 **Topic ID**: 14693

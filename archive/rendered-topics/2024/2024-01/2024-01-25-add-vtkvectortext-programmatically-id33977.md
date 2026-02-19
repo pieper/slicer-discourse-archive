@@ -1,3 +1,10 @@
+---
+topic_id: 33977
+title: "Add Vtkvectortext Programmatically"
+date: 2024-01-25
+url: https://discourse.slicer.org/t/33977
+---
+
 # Add vtkVectorText programmatically
 
 **Topic ID**: 33977

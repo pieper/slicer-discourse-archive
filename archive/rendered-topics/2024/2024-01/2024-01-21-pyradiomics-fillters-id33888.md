@@ -1,3 +1,10 @@
+---
+topic_id: 33888
+title: "Pyradiomics Fillters"
+date: 2024-01-21
+url: https://discourse.slicer.org/t/33888
+---
+
 # PyRadiomics. Fillters
 
 **Topic ID**: 33888

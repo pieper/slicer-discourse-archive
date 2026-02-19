@@ -1,3 +1,10 @@
+---
+topic_id: 10294
+title: "How To Extract Brain To Stl When I Have 3 Different Files Wi"
+date: 2020-02-16
+url: https://discourse.slicer.org/t/10294
+---
+
 # How to extract brain to STL when I have 3 different files with one HD resolution in one direction each?
 
 **Topic ID**: 10294

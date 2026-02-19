@@ -1,3 +1,10 @@
+---
+topic_id: 19242
+title: "Linux Visual Studio Code Single Step Debug"
+date: 2021-08-18
+url: https://discourse.slicer.org/t/19242
+---
+
 # Linux, visual Studio code, Single Step Debug,
 
 **Topic ID**: 19242

@@ -1,3 +1,10 @@
+---
+topic_id: 40211
+title: "How Does 3Dslicer Smooth The 3D Display Of The Tag Image"
+date: 2024-11-15
+url: https://discourse.slicer.org/t/40211
+---
+
 # How does 3dslicer smooth the 3d display of the tag image
 
 **Topic ID**: 40211

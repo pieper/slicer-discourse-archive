@@ -1,3 +1,10 @@
+---
+topic_id: 39920
+title: "Exporting A Contour In Bmp Jpg Png Formats From Of An Specif"
+date: 2024-10-29
+url: https://discourse.slicer.org/t/39920
+---
+
 # Exporting a contour in BMP, JPG, PNG formats from of an specific plane of a 3D phantom in an STL file
 
 **Topic ID**: 39920

@@ -1,3 +1,10 @@
+---
+topic_id: 43434
+title: "Setting Up Pyradiomics In Python3 Virtual Envt"
+date: 2025-06-20
+url: https://discourse.slicer.org/t/43434
+---
+
 # setting up pyradiomics in python3 virtual env't
 
 **Topic ID**: 43434

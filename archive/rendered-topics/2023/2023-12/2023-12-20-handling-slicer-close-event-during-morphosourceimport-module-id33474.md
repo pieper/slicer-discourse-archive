@@ -1,3 +1,10 @@
+---
+topic_id: 33474
+title: "Handling Slicer Close Event During Morphosourceimport Module"
+date: 2023-12-20
+url: https://discourse.slicer.org/t/33474
+---
+
 # Handling Slicer Close Event During MorphoSourceImport Module Download
 
 **Topic ID**: 33474

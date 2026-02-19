@@ -1,3 +1,10 @@
+---
+topic_id: 38487
+title: "Makemodeleffect Not Showing In Segmentation Editor And No Vt"
+date: 2024-09-22
+url: https://discourse.slicer.org/t/38487
+---
+
 # MakeModelEffect not showing in segmentation editor and no vtk file
 
 **Topic ID**: 38487

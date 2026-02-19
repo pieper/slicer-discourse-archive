@@ -1,3 +1,10 @@
+---
+topic_id: 13026
+title: "Slicerrt Batch Conversation Memory Issue"
+date: 2020-08-16
+url: https://discourse.slicer.org/t/13026
+---
+
 # SlicerRT Batch Conversation Memory issue
 
 **Topic ID**: 13026

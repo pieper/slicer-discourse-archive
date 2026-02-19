@@ -1,3 +1,10 @@
+---
+topic_id: 2735
+title: "How To Analyze The Thickness Of The Model"
+date: 2018-04-30
+url: https://discourse.slicer.org/t/2735
+---
+
 # How to analyze the thickness of the model
 
 **Topic ID**: 2735

@@ -1,3 +1,10 @@
+---
+topic_id: 29239
+title: "Frontal Bone Thickness Within Uniform Grid"
+date: 2023-05-02
+url: https://discourse.slicer.org/t/29239
+---
+
 # Frontal bone thickness within uniform grid
 
 **Topic ID**: 29239

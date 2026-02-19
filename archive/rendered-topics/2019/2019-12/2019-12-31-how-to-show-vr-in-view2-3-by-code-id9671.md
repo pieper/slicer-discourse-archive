@@ -1,3 +1,10 @@
+---
+topic_id: 9671
+title: "How To Show Vr In View2 3 By Code"
+date: 2019-12-31
+url: https://discourse.slicer.org/t/9671
+---
+
 # How to show VR in View2/3 by code?
 
 **Topic ID**: 9671

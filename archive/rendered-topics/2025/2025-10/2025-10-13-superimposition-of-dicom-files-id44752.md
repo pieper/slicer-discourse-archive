@@ -1,3 +1,10 @@
+---
+topic_id: 44752
+title: "Superimposition Of Dicom Files"
+date: 2025-10-13
+url: https://discourse.slicer.org/t/44752
+---
+
 # Superimposition of dicom files 
 
 **Topic ID**: 44752

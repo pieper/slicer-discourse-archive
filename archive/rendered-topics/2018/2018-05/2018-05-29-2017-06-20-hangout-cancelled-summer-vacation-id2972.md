@@ -1,3 +1,10 @@
+---
+topic_id: 2972
+title: "2017 06 20 Hangout Cancelled Summer Vacation"
+date: 2018-05-29
+url: https://discourse.slicer.org/t/2972
+---
+
 # 2017.06.20 Hangout [Cancelled - Summer vacation]
 
 **Topic ID**: 2972

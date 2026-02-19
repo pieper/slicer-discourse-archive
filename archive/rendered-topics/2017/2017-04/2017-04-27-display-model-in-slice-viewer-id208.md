@@ -1,3 +1,10 @@
+---
+topic_id: 208
+title: "Display Model In Slice Viewer"
+date: 2017-04-27
+url: https://discourse.slicer.org/t/208
+---
+
 # Display model in slice viewer
 
 **Topic ID**: 208

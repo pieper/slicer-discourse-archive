@@ -1,3 +1,10 @@
+---
+topic_id: 29383
+title: "Is There A Lasso Tool In The Segment Editor Module In Slicer"
+date: 2023-05-09
+url: https://discourse.slicer.org/t/29383
+---
+
 # Is there a Lasso tool in the Segment Editor module in Slicer?
 
 **Topic ID**: 29383

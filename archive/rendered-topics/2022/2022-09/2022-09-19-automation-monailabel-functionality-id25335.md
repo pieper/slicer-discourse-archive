@@ -1,3 +1,10 @@
+---
+topic_id: 25335
+title: "Automation Monailabel Functionality"
+date: 2022-09-19
+url: https://discourse.slicer.org/t/25335
+---
+
 # Automation MONAILabel functionality
 
 **Topic ID**: 25335

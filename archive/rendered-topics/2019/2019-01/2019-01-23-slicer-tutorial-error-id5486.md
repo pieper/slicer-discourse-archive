@@ -1,3 +1,10 @@
+---
+topic_id: 5486
+title: "Slicer Tutorial Error"
+date: 2019-01-23
+url: https://discourse.slicer.org/t/5486
+---
+
 # Slicer tutorial error
 
 **Topic ID**: 5486

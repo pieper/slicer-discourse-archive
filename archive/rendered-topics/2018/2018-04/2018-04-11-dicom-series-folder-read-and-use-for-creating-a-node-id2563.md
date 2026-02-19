@@ -1,3 +1,10 @@
+---
+topic_id: 2563
+title: "Dicom Series Folder Read And Use For Creating A Node"
+date: 2018-04-11
+url: https://discourse.slicer.org/t/2563
+---
+
 # Dicom series folder read and use for creating a node
 
 **Topic ID**: 2563

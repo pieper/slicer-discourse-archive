@@ -1,3 +1,10 @@
+---
+topic_id: 22701
+title: "Python Interactor Showing Message When Turned On"
+date: 2022-03-26
+url: https://discourse.slicer.org/t/22701
+---
+
 # Python interactor showing message when turned on
 
 **Topic ID**: 22701

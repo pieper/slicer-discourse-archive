@@ -1,3 +1,10 @@
+---
+topic_id: 25432
+title: "I Have A Trouble With Building Error Msb8066 Can You Help Me"
+date: 2022-09-26
+url: https://discourse.slicer.org/t/25432
+---
+
 # I have a trouble with building error MSB8066 , can you help me please?
 
 **Topic ID**: 25432

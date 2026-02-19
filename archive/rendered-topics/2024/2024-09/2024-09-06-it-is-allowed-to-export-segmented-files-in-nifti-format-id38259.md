@@ -1,3 +1,10 @@
+---
+topic_id: 38259
+title: "It Is Allowed To Export Segmented Files In Nifti Format"
+date: 2024-09-06
+url: https://discourse.slicer.org/t/38259
+---
+
 # It is allowed to export segmented files in NIfti format?
 
 **Topic ID**: 38259

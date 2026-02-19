@@ -1,3 +1,10 @@
+---
+topic_id: 3195
+title: "How To Pull Position And Focal Point Data From Default Scene"
+date: 2018-06-15
+url: https://discourse.slicer.org/t/3195
+---
+
 # How to pull Position and Focal Point data from default scene camera for camera angle extension
 
 **Topic ID**: 3195

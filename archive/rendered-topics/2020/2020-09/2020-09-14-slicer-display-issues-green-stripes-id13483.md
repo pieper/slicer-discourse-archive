@@ -1,3 +1,10 @@
+---
+topic_id: 13483
+title: "Slicer Display Issues Green Stripes"
+date: 2020-09-14
+url: https://discourse.slicer.org/t/13483
+---
+
 # Slicer display issues - green stripes
 
 **Topic ID**: 13483

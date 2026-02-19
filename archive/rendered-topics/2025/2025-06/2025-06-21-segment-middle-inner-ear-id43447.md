@@ -1,3 +1,10 @@
+---
+topic_id: 43447
+title: "Segment Middle Inner Ear"
+date: 2025-06-21
+url: https://discourse.slicer.org/t/43447
+---
+
 # Segment middle & inner ear
 
 **Topic ID**: 43447

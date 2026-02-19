@@ -1,3 +1,10 @@
+---
+topic_id: 18461
+title: "Connect Plus To The Polaris Vicra"
+date: 2021-07-01
+url: https://discourse.slicer.org/t/18461
+---
+
 # Connect Plus to the Polaris vicra
 
 **Topic ID**: 18461

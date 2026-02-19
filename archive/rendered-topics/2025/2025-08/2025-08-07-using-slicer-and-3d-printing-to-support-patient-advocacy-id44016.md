@@ -1,3 +1,10 @@
+---
+topic_id: 44016
+title: "Using Slicer And 3D Printing To Support Patient Advocacy"
+date: 2025-08-07
+url: https://discourse.slicer.org/t/44016
+---
+
 # Using Slicer and 3d printing to support patient advocacy
 
 **Topic ID**: 44016

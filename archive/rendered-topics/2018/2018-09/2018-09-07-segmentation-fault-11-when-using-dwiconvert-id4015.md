@@ -1,3 +1,10 @@
+---
+topic_id: 4015
+title: "Segmentation Fault 11 When Using Dwiconvert"
+date: 2018-09-07
+url: https://discourse.slicer.org/t/4015
+---
+
 # Segmentation fault: 11 when using DWIConvert
 
 **Topic ID**: 4015

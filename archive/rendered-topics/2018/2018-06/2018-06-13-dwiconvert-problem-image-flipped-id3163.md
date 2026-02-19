@@ -1,3 +1,10 @@
+---
+topic_id: 3163
+title: "Dwiconvert Problem Image Flipped"
+date: 2018-06-13
+url: https://discourse.slicer.org/t/3163
+---
+
 # DWIConvert problem - image flipped?
 
 **Topic ID**: 3163

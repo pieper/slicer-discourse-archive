@@ -1,3 +1,10 @@
+---
+topic_id: 1873
+title: "Updating Minimum Required Version Of Cmake To 3 9 5"
+date: 2018-01-19
+url: https://discourse.slicer.org/t/1873
+---
+
 # Updating minimum required version of CMake to 3.9.5
 
 **Topic ID**: 1873

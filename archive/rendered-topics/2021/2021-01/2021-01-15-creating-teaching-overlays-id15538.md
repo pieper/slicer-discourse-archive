@@ -1,3 +1,10 @@
+---
+topic_id: 15538
+title: "Creating Teaching Overlays"
+date: 2021-01-15
+url: https://discourse.slicer.org/t/15538
+---
+
 # Creating teaching overlays
 
 **Topic ID**: 15538

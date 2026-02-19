@@ -1,3 +1,10 @@
+---
+topic_id: 20197
+title: "Nvidia Aiaa Error When Using Auto Segmentation Modle Clara P"
+date: 2021-10-17
+url: https://discourse.slicer.org/t/20197
+---
+
 # NVIDIA AIAA error when using auto-segmentation (modle: clara_pt_liver_and_tumor_CT_segmentation)
 
 **Topic ID**: 20197

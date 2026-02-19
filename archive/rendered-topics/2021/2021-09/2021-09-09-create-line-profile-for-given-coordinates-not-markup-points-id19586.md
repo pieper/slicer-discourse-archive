@@ -1,3 +1,10 @@
+---
+topic_id: 19586
+title: "Create Line Profile For Given Coordinates Not Markup Points"
+date: 2021-09-09
+url: https://discourse.slicer.org/t/19586
+---
+
 # Create line profile for given coordinates not markup points
 
 **Topic ID**: 19586

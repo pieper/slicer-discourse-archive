@@ -1,3 +1,10 @@
+---
+topic_id: 7856
+title: "Modify Segment Directly Using Python"
+date: 2019-08-03
+url: https://discourse.slicer.org/t/7856
+---
+
 # Modify segment directly using Python
 
 **Topic ID**: 7856

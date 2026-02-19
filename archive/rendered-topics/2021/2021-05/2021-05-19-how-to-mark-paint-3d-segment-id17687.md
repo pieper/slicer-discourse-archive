@@ -1,3 +1,10 @@
+---
+topic_id: 17687
+title: "How To Mark Paint 3D Segment"
+date: 2021-05-19
+url: https://discourse.slicer.org/t/17687
+---
+
 # How to mark paint 3d segment?
 
 **Topic ID**: 17687

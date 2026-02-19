@@ -1,3 +1,10 @@
+---
+topic_id: 863
+title: "Edits Transferred To Multiple Files"
+date: 2017-08-14
+url: https://discourse.slicer.org/t/863
+---
+
 # Edits Transferred to Multiple Files
 
 **Topic ID**: 863

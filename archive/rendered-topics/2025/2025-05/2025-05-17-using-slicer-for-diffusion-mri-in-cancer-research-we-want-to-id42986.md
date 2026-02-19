@@ -1,3 +1,10 @@
+---
+topic_id: 42986
+title: "Using Slicer For Diffusion Mri In Cancer Research We Want To"
+date: 2025-05-17
+url: https://discourse.slicer.org/t/42986
+---
+
 # Using Slicer for Diffusion MRI in cancer research? We want to hear from you!
 
 **Topic ID**: 42986

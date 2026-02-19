@@ -1,3 +1,10 @@
+---
+topic_id: 6136
+title: "Geometry Of Master And Merge Volumes Do Not Match"
+date: 2019-03-13
+url: https://discourse.slicer.org/t/6136
+---
+
 # geometry of master and merge volumes do not match
 
 **Topic ID**: 6136

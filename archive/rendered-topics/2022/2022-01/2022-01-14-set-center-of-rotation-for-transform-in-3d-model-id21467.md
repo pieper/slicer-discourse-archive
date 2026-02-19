@@ -1,3 +1,10 @@
+---
+topic_id: 21467
+title: "Set Center Of Rotation For Transform In 3D Model"
+date: 2022-01-14
+url: https://discourse.slicer.org/t/21467
+---
+
 # Set center of rotation for transform in 3D model
 
 **Topic ID**: 21467

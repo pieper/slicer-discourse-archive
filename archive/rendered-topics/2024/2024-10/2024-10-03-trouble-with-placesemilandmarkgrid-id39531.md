@@ -1,3 +1,10 @@
+---
+topic_id: 39531
+title: "Trouble With Placesemilandmarkgrid"
+date: 2024-10-03
+url: https://discourse.slicer.org/t/39531
+---
+
 # Trouble with PlaceSemilandmarkGrid
 
 **Topic ID**: 39531

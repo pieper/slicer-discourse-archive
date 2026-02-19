@@ -1,3 +1,10 @@
+---
+topic_id: 19658
+title: "Unhide Slicer Interface"
+date: 2021-09-14
+url: https://discourse.slicer.org/t/19658
+---
+
 # Unhide slicer Interface
 
 **Topic ID**: 19658

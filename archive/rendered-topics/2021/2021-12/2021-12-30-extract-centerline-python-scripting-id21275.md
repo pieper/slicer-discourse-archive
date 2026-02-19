@@ -1,3 +1,10 @@
+---
+topic_id: 21275
+title: "Extract Centerline Python Scripting"
+date: 2021-12-30
+url: https://discourse.slicer.org/t/21275
+---
+
 # Extract centerline Python scripting
 
 **Topic ID**: 21275

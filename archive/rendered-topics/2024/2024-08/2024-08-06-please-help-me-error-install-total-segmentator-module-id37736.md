@@ -1,3 +1,10 @@
+---
+topic_id: 37736
+title: "Please Help Me Error Install Total Segmentator Module"
+date: 2024-08-06
+url: https://discourse.slicer.org/t/37736
+---
+
 # please help me！！error install total segmentator module！！
 
 **Topic ID**: 37736

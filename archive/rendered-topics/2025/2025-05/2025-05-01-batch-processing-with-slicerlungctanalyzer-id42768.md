@@ -1,3 +1,10 @@
+---
+topic_id: 42768
+title: "Batch Processing With Slicerlungctanalyzer"
+date: 2025-05-01
+url: https://discourse.slicer.org/t/42768
+---
+
 # Batch Processing with SlicerLungCTAnalyzer
 
 **Topic ID**: 42768

@@ -1,3 +1,10 @@
+---
+topic_id: 45473
+title: "Segmentation In Windows 11 Extremely Slow"
+date: 2025-12-13
+url: https://discourse.slicer.org/t/45473
+---
+
 # Segmentation in Windows 11 extremely slow
 
 **Topic ID**: 45473

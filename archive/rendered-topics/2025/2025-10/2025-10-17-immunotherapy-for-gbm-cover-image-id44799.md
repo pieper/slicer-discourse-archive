@@ -1,3 +1,10 @@
+---
+topic_id: 44799
+title: "Immunotherapy For Gbm Cover Image"
+date: 2025-10-17
+url: https://discourse.slicer.org/t/44799
+---
+
 # Immunotherapy for GBM cover image
 
 **Topic ID**: 44799

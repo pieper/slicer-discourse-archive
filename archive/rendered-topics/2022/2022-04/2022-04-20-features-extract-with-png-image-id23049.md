@@ -1,3 +1,10 @@
+---
+topic_id: 23049
+title: "Features Extract With Png Image"
+date: 2022-04-20
+url: https://discourse.slicer.org/t/23049
+---
+
 # features extract with .png image
 
 **Topic ID**: 23049

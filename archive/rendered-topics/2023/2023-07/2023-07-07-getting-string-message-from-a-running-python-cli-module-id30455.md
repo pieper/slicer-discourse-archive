@@ -1,3 +1,10 @@
+---
+topic_id: 30455
+title: "Getting String Message From A Running Python Cli Module"
+date: 2023-07-07
+url: https://discourse.slicer.org/t/30455
+---
+
 # Getting string message from a running python CLI module
 
 **Topic ID**: 30455

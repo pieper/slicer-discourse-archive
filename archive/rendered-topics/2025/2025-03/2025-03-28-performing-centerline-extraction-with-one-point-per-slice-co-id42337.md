@@ -1,3 +1,10 @@
+---
+topic_id: 42337
+title: "Performing Centerline Extraction With One Point Per Slice Co"
+date: 2025-03-28
+url: https://discourse.slicer.org/t/42337
+---
+
 # Performing Centerline Extraction with One Point Per Slice Constraint
 
 **Topic ID**: 42337

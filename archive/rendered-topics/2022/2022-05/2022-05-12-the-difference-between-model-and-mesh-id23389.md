@@ -1,3 +1,10 @@
+---
+topic_id: 23389
+title: "The Difference Between Model And Mesh"
+date: 2022-05-12
+url: https://discourse.slicer.org/t/23389
+---
+
 # The difference between model and mesh
 
 **Topic ID**: 23389

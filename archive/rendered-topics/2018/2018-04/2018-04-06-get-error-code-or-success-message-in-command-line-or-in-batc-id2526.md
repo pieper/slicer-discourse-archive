@@ -1,3 +1,10 @@
+---
+topic_id: 2526
+title: "Get Error Code Or Success Message In Command Line Or In Batc"
+date: 2018-04-06
+url: https://discourse.slicer.org/t/2526
+---
+
 # Get error code or success message in command line or in batch file or get a Log file
 
 **Topic ID**: 2526

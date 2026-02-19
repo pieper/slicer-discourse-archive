@@ -1,3 +1,10 @@
+---
+topic_id: 43391
+title: "Segmenting A Stomach After Gastric Sleeve"
+date: 2025-06-17
+url: https://discourse.slicer.org/t/43391
+---
+
 # Segmenting a stomach after gastric sleeve
 
 **Topic ID**: 43391

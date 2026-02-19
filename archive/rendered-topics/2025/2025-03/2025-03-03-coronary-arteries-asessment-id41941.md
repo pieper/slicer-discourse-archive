@@ -1,3 +1,10 @@
+---
+topic_id: 41941
+title: "Coronary Arteries Asessment"
+date: 2025-03-03
+url: https://discourse.slicer.org/t/41941
+---
+
 # Coronary arteries Asessment
 
 **Topic ID**: 41941

@@ -1,3 +1,10 @@
+---
+topic_id: 21142
+title: "Markups New Point Id Restart From 1 When Loaded From Saved S"
+date: 2021-12-20
+url: https://discourse.slicer.org/t/21142
+---
+
 # Markups : new point ID restart from 1 when loaded from saved scene
 
 **Topic ID**: 21142

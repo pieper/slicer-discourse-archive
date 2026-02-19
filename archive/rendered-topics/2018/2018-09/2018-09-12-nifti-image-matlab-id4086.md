@@ -1,3 +1,10 @@
+---
+topic_id: 4086
+title: "Nifti Image Matlab"
+date: 2018-09-12
+url: https://discourse.slicer.org/t/4086
+---
+
 # NIFTI image matlab
 
 **Topic ID**: 4086

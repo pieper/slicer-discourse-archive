@@ -1,3 +1,10 @@
+---
+topic_id: 15761
+title: "Loading Tiff Stack"
+date: 2021-02-01
+url: https://discourse.slicer.org/t/15761
+---
+
 # Loading Tiff Stack
 
 **Topic ID**: 15761

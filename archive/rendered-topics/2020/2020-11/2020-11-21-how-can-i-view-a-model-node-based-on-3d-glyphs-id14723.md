@@ -1,3 +1,10 @@
+---
+topic_id: 14723
+title: "How Can I View A Model Node Based On 3D Glyphs"
+date: 2020-11-21
+url: https://discourse.slicer.org/t/14723
+---
+
 # How can I view a model node based on 3D glyphs?
 
 **Topic ID**: 14723

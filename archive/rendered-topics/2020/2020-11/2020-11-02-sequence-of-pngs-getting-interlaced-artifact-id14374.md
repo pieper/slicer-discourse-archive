@@ -1,3 +1,10 @@
+---
+topic_id: 14374
+title: "Sequence Of Pngs Getting Interlaced Artifact"
+date: 2020-11-02
+url: https://discourse.slicer.org/t/14374
+---
+
 # Sequence of PNGs, getting interlaced artifact
 
 **Topic ID**: 14374

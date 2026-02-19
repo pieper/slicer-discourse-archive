@@ -1,3 +1,10 @@
+---
+topic_id: 4200
+title: "How To Implement An Extension With One Hidden Module And One"
+date: 2018-09-27
+url: https://discourse.slicer.org/t/4200
+---
+
 # How to implement an extension with one hidden module and one script module 
 
 **Topic ID**: 4200

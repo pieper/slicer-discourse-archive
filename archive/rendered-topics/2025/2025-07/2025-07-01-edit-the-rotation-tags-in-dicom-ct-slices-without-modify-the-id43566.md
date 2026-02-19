@@ -1,3 +1,10 @@
+---
+topic_id: 43566
+title: "Edit The Rotation Tags In Dicom Ct Slices Without Modify The"
+date: 2025-07-01
+url: https://discourse.slicer.org/t/43566
+---
+
 # Edit the rotation tags in DICOM CT slices without modify the image
 
 **Topic ID**: 43566

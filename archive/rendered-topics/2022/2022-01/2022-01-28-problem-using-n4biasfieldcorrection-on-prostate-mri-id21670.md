@@ -1,3 +1,10 @@
+---
+topic_id: 21670
+title: "Problem Using N4Biasfieldcorrection On Prostate Mri"
+date: 2022-01-28
+url: https://discourse.slicer.org/t/21670
+---
+
 # Problem using N4BiasFieldCorrection on prostate MRI
 
 **Topic ID**: 21670

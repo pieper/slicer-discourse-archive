@@ -1,3 +1,10 @@
+---
+topic_id: 9150
+title: "Transforming A Model Using 2D Views"
+date: 2019-11-15
+url: https://discourse.slicer.org/t/9150
+---
+
 # Transforming a model using 2D views
 
 **Topic ID**: 9150

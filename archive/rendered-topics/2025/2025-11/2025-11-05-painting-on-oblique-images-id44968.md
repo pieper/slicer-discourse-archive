@@ -1,3 +1,10 @@
+---
+topic_id: 44968
+title: "Painting On Oblique Images"
+date: 2025-11-05
+url: https://discourse.slicer.org/t/44968
+---
+
 # Painting on oblique images
 
 **Topic ID**: 44968

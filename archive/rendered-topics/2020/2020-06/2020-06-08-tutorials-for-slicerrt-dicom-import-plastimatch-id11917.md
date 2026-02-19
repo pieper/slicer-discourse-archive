@@ -1,3 +1,10 @@
+---
+topic_id: 11917
+title: "Tutorials For Slicerrt Dicom Import Plastimatch"
+date: 2020-06-08
+url: https://discourse.slicer.org/t/11917
+---
+
 # Tutorials for SlicerRT, DICOM import, Plastimatch
 
 **Topic ID**: 11917

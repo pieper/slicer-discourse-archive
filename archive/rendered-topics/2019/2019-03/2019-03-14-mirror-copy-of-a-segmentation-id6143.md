@@ -1,3 +1,10 @@
+---
+topic_id: 6143
+title: "Mirror Copy Of A Segmentation"
+date: 2019-03-14
+url: https://discourse.slicer.org/t/6143
+---
+
 # Mirror copy of a segmentation
 
 **Topic ID**: 6143

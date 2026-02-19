@@ -1,3 +1,10 @@
+---
+topic_id: 33988
+title: "Build Loadable Extension With My Own Shared Library"
+date: 2024-01-26
+url: https://discourse.slicer.org/t/33988
+---
+
 # Build loadable extension with my own shared library
 
 **Topic ID**: 33988

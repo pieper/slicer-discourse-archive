@@ -1,3 +1,10 @@
+---
+topic_id: 32735
+title: "Dose Comparison Parts In Rt Slicer"
+date: 2023-11-11
+url: https://discourse.slicer.org/t/32735
+---
+
 # Dose comparison parts in RT Slicer
 
 **Topic ID**: 32735

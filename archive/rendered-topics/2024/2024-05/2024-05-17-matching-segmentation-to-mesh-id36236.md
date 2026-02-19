@@ -1,3 +1,10 @@
+---
+topic_id: 36236
+title: "Matching Segmentation To Mesh"
+date: 2024-05-17
+url: https://discourse.slicer.org/t/36236
+---
+
 # matching segmentation to mesh
 
 **Topic ID**: 36236

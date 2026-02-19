@@ -1,3 +1,10 @@
+---
+topic_id: 16678
+title: "Reconstrct 3D Surface From A Set Of Ct Images Only Coronal P"
+date: 2021-03-21
+url: https://discourse.slicer.org/t/16678
+---
+
 # Reconstrct 3D surface from a set of CT images (only coronal planes)
 
 **Topic ID**: 16678

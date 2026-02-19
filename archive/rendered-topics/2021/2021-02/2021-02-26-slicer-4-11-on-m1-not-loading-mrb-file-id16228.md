@@ -1,3 +1,10 @@
+---
+topic_id: 16228
+title: "Slicer 4 11 On M1 Not Loading Mrb File"
+date: 2021-02-26
+url: https://discourse.slicer.org/t/16228
+---
+
 # Slicer 4.11 on M1 not loading .mrb file
 
 **Topic ID**: 16228

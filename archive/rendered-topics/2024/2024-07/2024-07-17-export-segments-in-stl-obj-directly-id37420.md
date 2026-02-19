@@ -1,3 +1,10 @@
+---
+topic_id: 37420
+title: "Export Segments In Stl Obj Directly"
+date: 2024-07-17
+url: https://discourse.slicer.org/t/37420
+---
+
 # Export segments in stl / obj directly
 
 **Topic ID**: 37420

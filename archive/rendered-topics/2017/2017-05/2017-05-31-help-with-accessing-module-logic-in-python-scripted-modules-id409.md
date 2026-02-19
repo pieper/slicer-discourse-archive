@@ -1,3 +1,10 @@
+---
+topic_id: 409
+title: "Help With Accessing Module Logic In Python Scripted Modules"
+date: 2017-05-31
+url: https://discourse.slicer.org/t/409
+---
+
 # Help with Accessing Module Logic in Python Scripted Modules
 
 **Topic ID**: 409

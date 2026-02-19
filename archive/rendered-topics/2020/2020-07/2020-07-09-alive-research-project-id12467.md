@@ -1,3 +1,10 @@
+---
+topic_id: 12467
+title: "Alive Research Project"
+date: 2020-07-09
+url: https://discourse.slicer.org/t/12467
+---
+
 # ALive research project
 
 **Topic ID**: 12467

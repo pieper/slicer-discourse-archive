@@ -1,3 +1,10 @@
+---
+topic_id: 18043
+title: "Segmentation Has Changed Images Resolution"
+date: 2021-06-09
+url: https://discourse.slicer.org/t/18043
+---
+
 # Segmentation has changed images resolution
 
 **Topic ID**: 18043

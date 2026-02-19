@@ -1,3 +1,10 @@
+---
+topic_id: 7297
+title: "Extensions In Mac Does Not Work"
+date: 2019-06-24
+url: https://discourse.slicer.org/t/7297
+---
+
 # Extensions in Mac does not work
 
 **Topic ID**: 7297

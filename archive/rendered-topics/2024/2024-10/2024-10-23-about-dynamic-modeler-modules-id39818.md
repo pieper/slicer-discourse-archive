@@ -1,3 +1,10 @@
+---
+topic_id: 39818
+title: "About Dynamic Modeler Modules"
+date: 2024-10-23
+url: https://discourse.slicer.org/t/39818
+---
+
 # About 'Dynamic modeler' modules
 
 **Topic ID**: 39818

@@ -1,3 +1,10 @@
+---
+topic_id: 19330
+title: "Modify Slicer Source Code Compile"
+date: 2021-08-24
+url: https://discourse.slicer.org/t/19330
+---
+
 # Modify slicer source code. compile,
 
 **Topic ID**: 19330

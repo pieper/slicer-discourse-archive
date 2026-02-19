@@ -1,3 +1,10 @@
+---
+topic_id: 14846
+title: "How To Call Simplefilters Logic In My Python Module"
+date: 2020-12-02
+url: https://discourse.slicer.org/t/14846
+---
+
 # How to call simpleFilters logic in my python module?
 
 **Topic ID**: 14846

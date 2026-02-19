@@ -1,3 +1,10 @@
+---
+topic_id: 36759
+title: "Fastsurfer Problem Running With Multiple Subjects"
+date: 2024-06-13
+url: https://discourse.slicer.org/t/36759
+---
+
 # FastSurfer: Problem running with multiple subjects
 
 **Topic ID**: 36759

@@ -1,3 +1,10 @@
+---
+topic_id: 4149
+title: "Creating A 3D Slicer Module That Keeps Running"
+date: 2018-09-19
+url: https://discourse.slicer.org/t/4149
+---
+
 # Creating a 3D slicer module that keeps running
 
 **Topic ID**: 4149

@@ -1,3 +1,10 @@
+---
+topic_id: 15776
+title: "Date Probe Collapsible Pane Is Transiently Visible"
+date: 2021-02-01
+url: https://discourse.slicer.org/t/15776
+---
+
 # Date Probe collapsible pane is transiently visible
 
 **Topic ID**: 15776

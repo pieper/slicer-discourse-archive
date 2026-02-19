@@ -1,3 +1,10 @@
+---
+topic_id: 13939
+title: "Multi Volume Rendering Bug"
+date: 2020-10-08
+url: https://discourse.slicer.org/t/13939
+---
+
 # Multi-volume rendering bug
 
 **Topic ID**: 13939

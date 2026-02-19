@@ -1,3 +1,10 @@
+---
+topic_id: 18960
+title: "Grow From Seeds"
+date: 2021-07-28
+url: https://discourse.slicer.org/t/18960
+---
+
 # Grow from seeds
 
 **Topic ID**: 18960

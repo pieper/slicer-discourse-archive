@@ -1,3 +1,10 @@
+---
+topic_id: 5953
+title: "Rfc Renaming Of Slicersegmenteditorextraeffects Extension"
+date: 2019-02-27
+url: https://discourse.slicer.org/t/5953
+---
+
 # RFC: Renaming of SlicerSegmentEditorExtraEffects extension
 
 **Topic ID**: 5953

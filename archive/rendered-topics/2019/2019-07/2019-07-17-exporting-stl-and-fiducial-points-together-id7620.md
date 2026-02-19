@@ -1,3 +1,10 @@
+---
+topic_id: 7620
+title: "Exporting Stl And Fiducial Points Together"
+date: 2019-07-17
+url: https://discourse.slicer.org/t/7620
+---
+
 # Exporting STL and Fiducial Points together
 
 **Topic ID**: 7620

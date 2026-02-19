@@ -1,3 +1,10 @@
+---
+topic_id: 16955
+title: "Is It Possible To Show Markups Propertieslabel In 2D But Not"
+date: 2021-04-06
+url: https://discourse.slicer.org/t/16955
+---
+
 # Is it possible to show Markups PropertiesLabel in 2D but not 3D?
 
 **Topic ID**: 16955

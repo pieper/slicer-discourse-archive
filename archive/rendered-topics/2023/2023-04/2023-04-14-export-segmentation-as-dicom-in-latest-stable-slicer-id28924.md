@@ -1,3 +1,10 @@
+---
+topic_id: 28924
+title: "Export Segmentation As Dicom In Latest Stable Slicer"
+date: 2023-04-14
+url: https://discourse.slicer.org/t/28924
+---
+
 # Export segmentation as DICOM in latest stable slicer
 
 **Topic ID**: 28924

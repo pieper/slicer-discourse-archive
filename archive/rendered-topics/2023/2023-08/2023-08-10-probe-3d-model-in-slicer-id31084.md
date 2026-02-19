@@ -1,3 +1,10 @@
+---
+topic_id: 31084
+title: "Probe 3D Model In Slicer"
+date: 2023-08-10
+url: https://discourse.slicer.org/t/31084
+---
+
 # Probe 3D Model in Slicer
 
 **Topic ID**: 31084

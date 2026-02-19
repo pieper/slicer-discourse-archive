@@ -1,3 +1,10 @@
+---
+topic_id: 4368
+title: "Improved Interactions In Virtual Reality"
+date: 2018-10-11
+url: https://discourse.slicer.org/t/4368
+---
+
 # Improved interactions in virtual reality
 
 **Topic ID**: 4368

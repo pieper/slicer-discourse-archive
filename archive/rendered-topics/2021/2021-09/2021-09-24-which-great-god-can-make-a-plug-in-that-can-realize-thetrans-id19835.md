@@ -1,3 +1,10 @@
+---
+topic_id: 19835
+title: "Which Great God Can Make A Plug In That Can Realize Thetrans"
+date: 2021-09-24
+url: https://discourse.slicer.org/t/19835
+---
+
 # Which great god can make a plug-in that can realize the'transform' and'translate' of the geometry in "3d_Slicer"?
 
 **Topic ID**: 19835

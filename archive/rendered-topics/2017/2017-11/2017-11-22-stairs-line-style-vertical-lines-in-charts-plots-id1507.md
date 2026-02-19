@@ -1,3 +1,10 @@
+---
+topic_id: 1507
+title: "Stairs Line Style Vertical Lines In Charts Plots"
+date: 2017-11-22
+url: https://discourse.slicer.org/t/1507
+---
+
 # Stairs line style, vertical lines in charts/plots
 
 **Topic ID**: 1507

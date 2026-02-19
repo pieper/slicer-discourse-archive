@@ -1,3 +1,10 @@
+---
+topic_id: 34417
+title: "Does The 3D Slicer Support Volume Measure"
+date: 2024-02-20
+url: https://discourse.slicer.org/t/34417
+---
+
 # Does the 3d slicer support volume measure?
 
 **Topic ID**: 34417

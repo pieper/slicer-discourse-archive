@@ -1,3 +1,10 @@
+---
+topic_id: 27222
+title: "Signal Intensity Of A Roi"
+date: 2023-01-13
+url: https://discourse.slicer.org/t/27222
+---
+
 # Signal intensity of a ROI
 
 **Topic ID**: 27222

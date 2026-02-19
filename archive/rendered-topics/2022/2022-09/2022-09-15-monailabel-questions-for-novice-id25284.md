@@ -1,3 +1,10 @@
+---
+topic_id: 25284
+title: "Monailabel Questions For Novice"
+date: 2022-09-15
+url: https://discourse.slicer.org/t/25284
+---
+
 # MonaiLabel Questions for Novice
 
 **Topic ID**: 25284

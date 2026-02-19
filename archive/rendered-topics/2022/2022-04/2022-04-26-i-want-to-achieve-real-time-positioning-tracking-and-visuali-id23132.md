@@ -1,3 +1,10 @@
+---
+topic_id: 23132
+title: "I Want To Achieve Real Time Positioning Tracking And Visuali"
+date: 2022-04-26
+url: https://discourse.slicer.org/t/23132
+---
+
 # I want to achieve real-time positioning tracking and visualization of the scalpel, but I don't know how to track the position of the scalpel in real time and achieve visualization
 
 **Topic ID**: 23132

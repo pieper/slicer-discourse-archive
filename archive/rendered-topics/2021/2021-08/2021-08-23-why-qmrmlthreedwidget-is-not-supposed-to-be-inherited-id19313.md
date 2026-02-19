@@ -1,3 +1,10 @@
+---
+topic_id: 19313
+title: "Why Qmrmlthreedwidget Is Not Supposed To Be Inherited"
+date: 2021-08-23
+url: https://discourse.slicer.org/t/19313
+---
+
 # Why `qMRMLThreeDWidget` is not supposed to be inherited
 
 **Topic ID**: 19313

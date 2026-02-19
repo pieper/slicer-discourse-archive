@@ -1,3 +1,10 @@
+---
+topic_id: 16989
+title: "Hepatic Vessels Segmentation"
+date: 2021-04-07
+url: https://discourse.slicer.org/t/16989
+---
+
 # Hepatic vessels segmentation
 
 **Topic ID**: 16989

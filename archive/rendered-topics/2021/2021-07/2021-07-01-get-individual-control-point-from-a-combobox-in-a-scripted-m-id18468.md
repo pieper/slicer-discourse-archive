@@ -1,3 +1,10 @@
+---
+topic_id: 18468
+title: "Get Individual Control Point From A Combobox In A Scripted M"
+date: 2021-07-01
+url: https://discourse.slicer.org/t/18468
+---
+
 # Get individual control point from a combobox in a scripted module
 
 **Topic ID**: 18468

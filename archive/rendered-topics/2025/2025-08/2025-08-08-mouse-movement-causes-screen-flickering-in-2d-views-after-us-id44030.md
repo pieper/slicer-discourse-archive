@@ -1,3 +1,10 @@
+---
+topic_id: 44030
+title: "Mouse Movement Causes Screen Flickering In 2D Views After Us"
+date: 2025-08-08
+url: https://discourse.slicer.org/t/44030
+---
+
 # Mouse movement causes screen flickering in 2D views after using slicer.modules.segmentations.logic().ImportLabelmapToSegmentationNodeWithTerminology()
 
 **Topic ID**: 44030

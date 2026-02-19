@@ -1,3 +1,10 @@
+---
+topic_id: 11867
+title: "Vessel Tree Centerline Branch Extraction Using Vmtk"
+date: 2020-06-04
+url: https://discourse.slicer.org/t/11867
+---
+
 # Vessel tree centerline branch extraction using VMTK
 
 **Topic ID**: 11867

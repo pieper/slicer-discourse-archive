@@ -1,3 +1,10 @@
+---
+topic_id: 16949
+title: "Cant Send Dicom Seg To Dicom Server"
+date: 2021-04-05
+url: https://discourse.slicer.org/t/16949
+---
+
 # Can't Send DICOM SEG to DICOM Server
 
 **Topic ID**: 16949

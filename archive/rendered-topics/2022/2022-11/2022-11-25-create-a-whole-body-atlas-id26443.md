@@ -1,3 +1,10 @@
+---
+topic_id: 26443
+title: "Create A Whole Body Atlas"
+date: 2022-11-25
+url: https://discourse.slicer.org/t/26443
+---
+
 # Create a whole body Atlas 
 
 **Topic ID**: 26443

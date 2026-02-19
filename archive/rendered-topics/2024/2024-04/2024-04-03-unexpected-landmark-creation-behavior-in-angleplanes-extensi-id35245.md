@@ -1,3 +1,10 @@
+---
+topic_id: 35245
+title: "Unexpected Landmark Creation Behavior In Angleplanes Extensi"
+date: 2024-04-03
+url: https://discourse.slicer.org/t/35245
+---
+
 # Unexpected landmark creation behavior in AnglePlanes extension
 
 **Topic ID**: 35245

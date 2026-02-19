@@ -1,3 +1,10 @@
+---
+topic_id: 21908
+title: "Some Words In The User Interface Cannot Be Translated"
+date: 2022-02-11
+url: https://discourse.slicer.org/t/21908
+---
+
 # Some words in the user interface cannot be translated
 
 **Topic ID**: 21908

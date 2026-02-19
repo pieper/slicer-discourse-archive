@@ -1,3 +1,10 @@
+---
+topic_id: 20199
+title: "Bad Alloc Error In Import Open3D"
+date: 2021-10-18
+url: https://discourse.slicer.org/t/20199
+---
+
 # Bad_alloc error in import open3d
 
 **Topic ID**: 20199

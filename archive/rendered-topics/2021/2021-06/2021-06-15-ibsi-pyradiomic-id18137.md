@@ -1,3 +1,10 @@
+---
+topic_id: 18137
+title: "Ibsi Pyradiomic"
+date: 2021-06-15
+url: https://discourse.slicer.org/t/18137
+---
+
 # IBSI & pyRadiomic
 
 **Topic ID**: 18137

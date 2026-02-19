@@ -1,3 +1,10 @@
+---
+topic_id: 4573
+title: "Slicer Training"
+date: 2018-10-29
+url: https://discourse.slicer.org/t/4573
+---
+
 # Slicer training
 
 **Topic ID**: 4573

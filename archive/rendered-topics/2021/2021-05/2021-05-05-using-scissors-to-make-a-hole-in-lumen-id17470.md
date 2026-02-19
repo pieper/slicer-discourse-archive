@@ -1,3 +1,10 @@
+---
+topic_id: 17470
+title: "Using Scissors To Make A Hole In Lumen"
+date: 2021-05-05
+url: https://discourse.slicer.org/t/17470
+---
+
 # Using Scissors to make a hole in lumen
 
 **Topic ID**: 17470

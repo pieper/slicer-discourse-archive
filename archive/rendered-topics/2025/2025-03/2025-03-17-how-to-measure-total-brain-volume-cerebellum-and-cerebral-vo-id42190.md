@@ -1,3 +1,10 @@
+---
+topic_id: 42190
+title: "How To Measure Total Brain Volume Cerebellum And Cerebral Vo"
+date: 2025-03-17
+url: https://discourse.slicer.org/t/42190
+---
+
 # How to measure total brain volume, cerebellum and cerebral volume in mri using slicer
 
 **Topic ID**: 42190

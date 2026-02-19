@@ -1,3 +1,10 @@
+---
+topic_id: 30982
+title: "Mandible Jawbone Geometry And Bone Specification"
+date: 2023-08-04
+url: https://discourse.slicer.org/t/30982
+---
+
 # Mandible jawbone geometry and bone specification  
 
 **Topic ID**: 30982

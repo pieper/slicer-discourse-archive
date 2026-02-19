@@ -1,3 +1,10 @@
+---
+topic_id: 28704
+title: "Na Mic Project Week Project Week 39 In Person Registration H"
+date: 2023-03-31
+url: https://discourse.slicer.org/t/28704
+---
+
 # [Na-mic-project-week] Project Week 39 - In-person registration + hotel booking
 
 **Topic ID**: 28704

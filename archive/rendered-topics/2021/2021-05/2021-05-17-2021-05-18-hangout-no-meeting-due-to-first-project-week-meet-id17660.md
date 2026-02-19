@@ -1,3 +1,10 @@
+---
+topic_id: 17660
+title: "2021 05 18 Hangout No Meeting Due To First Project Week Meet"
+date: 2021-05-17
+url: https://discourse.slicer.org/t/17660
+---
+
 # 2021.05.18 Hangout - NO meeting due to first project week meeting
 
 **Topic ID**: 17660

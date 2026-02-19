@@ -1,3 +1,10 @@
+---
+topic_id: 30158
+title: "Update 3D Visualization Programmatically"
+date: 2023-06-20
+url: https://discourse.slicer.org/t/30158
+---
+
 # Update 3D Visualization programmatically
 
 **Topic ID**: 30158

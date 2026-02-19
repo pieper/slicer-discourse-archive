@@ -1,3 +1,10 @@
+---
+topic_id: 16799
+title: "New Module Baffle Planner For Designing Surface Patches"
+date: 2021-03-28
+url: https://discourse.slicer.org/t/16799
+---
+
 # New module: Baffle planner - for designing surface patches
 
 **Topic ID**: 16799

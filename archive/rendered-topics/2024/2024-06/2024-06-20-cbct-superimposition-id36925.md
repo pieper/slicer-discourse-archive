@@ -1,3 +1,10 @@
+---
+topic_id: 36925
+title: "Cbct Superimposition"
+date: 2024-06-20
+url: https://discourse.slicer.org/t/36925
+---
+
 # CBCT superimposition
 
 **Topic ID**: 36925

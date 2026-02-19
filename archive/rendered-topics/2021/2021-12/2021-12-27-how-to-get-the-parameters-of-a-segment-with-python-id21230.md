@@ -1,3 +1,10 @@
+---
+topic_id: 21230
+title: "How To Get The Parameters Of A Segment With Python"
+date: 2021-12-27
+url: https://discourse.slicer.org/t/21230
+---
+
 # How to get the parameters of a segment with python?
 
 **Topic ID**: 21230

@@ -1,3 +1,10 @@
+---
+topic_id: 7836
+title: "Ophthalmic Plugin"
+date: 2019-08-01
+url: https://discourse.slicer.org/t/7836
+---
+
 # Ophthalmic plugin
 
 **Topic ID**: 7836

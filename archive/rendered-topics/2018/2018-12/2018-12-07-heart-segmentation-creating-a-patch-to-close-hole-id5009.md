@@ -1,3 +1,10 @@
+---
+topic_id: 5009
+title: "Heart Segmentation Creating A Patch To Close Hole"
+date: 2018-12-07
+url: https://discourse.slicer.org/t/5009
+---
+
 # Heart segmentation: Creating a Patch to close hole
 
 **Topic ID**: 5009

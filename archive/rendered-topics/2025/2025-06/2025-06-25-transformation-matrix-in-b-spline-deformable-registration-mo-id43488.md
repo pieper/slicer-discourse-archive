@@ -1,3 +1,10 @@
+---
+topic_id: 43488
+title: "Transformation Matrix In B Spline Deformable Registration Mo"
+date: 2025-06-25
+url: https://discourse.slicer.org/t/43488
+---
+
 # Transformation matrix in B spline Deformable registration module
 
 **Topic ID**: 43488

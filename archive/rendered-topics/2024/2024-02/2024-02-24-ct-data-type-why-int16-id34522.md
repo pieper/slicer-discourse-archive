@@ -1,3 +1,10 @@
+---
+topic_id: 34522
+title: "Ct Data Type Why Int16"
+date: 2024-02-24
+url: https://discourse.slicer.org/t/34522
+---
+
 # CT data type, why int16?
 
 **Topic ID**: 34522

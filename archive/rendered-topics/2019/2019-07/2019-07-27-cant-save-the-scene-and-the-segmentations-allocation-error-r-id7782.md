@@ -1,3 +1,10 @@
+---
+topic_id: 7782
+title: "Cant Save The Scene And The Segmentations Allocation Error R"
+date: 2019-07-27
+url: https://discourse.slicer.org/t/7782
+---
+
 # Can't save the scene and the segmentations - allocation ERROR, results undefined
 
 **Topic ID**: 7782

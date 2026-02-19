@@ -1,3 +1,10 @@
+---
+topic_id: 43681
+title: "Problems With A Microtomography And Growing From Seeds"
+date: 2025-07-10
+url: https://discourse.slicer.org/t/43681
+---
+
 # Problems with a microtomography and growing from seeds
 
 **Topic ID**: 43681

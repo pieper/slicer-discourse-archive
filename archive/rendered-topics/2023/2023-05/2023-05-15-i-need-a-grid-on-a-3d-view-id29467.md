@@ -1,3 +1,10 @@
+---
+topic_id: 29467
+title: "I Need A Grid On A 3D View"
+date: 2023-05-15
+url: https://discourse.slicer.org/t/29467
+---
+
 # I need a grid on a 3D view
 
 **Topic ID**: 29467

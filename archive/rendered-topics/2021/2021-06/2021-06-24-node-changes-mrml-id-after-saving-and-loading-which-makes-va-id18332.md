@@ -1,3 +1,10 @@
+---
+topic_id: 18332
+title: "Node Changes Mrml Id After Saving And Loading Which Makes Va"
+date: 2021-06-24
+url: https://discourse.slicer.org/t/18332
+---
+
 # Node changes MRML ID after saving and loading, which makes value saved in module parameter node invalid
 
 **Topic ID**: 18332

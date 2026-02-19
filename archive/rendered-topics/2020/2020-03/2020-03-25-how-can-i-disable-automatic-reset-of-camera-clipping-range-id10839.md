@@ -1,3 +1,10 @@
+---
+topic_id: 10839
+title: "How Can I Disable Automatic Reset Of Camera Clipping Range"
+date: 2020-03-25
+url: https://discourse.slicer.org/t/10839
+---
+
 # How can I disable automatic reset of camera clipping range?
 
 **Topic ID**: 10839

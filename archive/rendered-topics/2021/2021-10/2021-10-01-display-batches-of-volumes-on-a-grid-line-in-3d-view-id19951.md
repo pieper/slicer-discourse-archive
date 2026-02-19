@@ -1,3 +1,10 @@
+---
+topic_id: 19951
+title: "Display Batches Of Volumes On A Grid Line In 3D View"
+date: 2021-10-01
+url: https://discourse.slicer.org/t/19951
+---
+
 # Display batches of volumes on a grid/line in 3D view
 
 **Topic ID**: 19951

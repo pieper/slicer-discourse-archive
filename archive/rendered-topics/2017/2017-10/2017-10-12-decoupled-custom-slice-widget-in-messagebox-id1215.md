@@ -1,3 +1,10 @@
+---
+topic_id: 1215
+title: "Decoupled Custom Slice Widget In Messagebox"
+date: 2017-10-12
+url: https://discourse.slicer.org/t/1215
+---
+
 # Decoupled (custom) slice widget in messagebox
 
 **Topic ID**: 1215

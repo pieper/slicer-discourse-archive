@@ -1,3 +1,10 @@
+---
+topic_id: 45487
+title: "Auto Skeleton To Trajectory Mv3D File"
+date: 2025-12-15
+url: https://discourse.slicer.org/t/45487
+---
+
 # Auto skeleton to trajectory mv3d file
 
 **Topic ID**: 45487

@@ -1,3 +1,10 @@
+---
+topic_id: 7251
+title: "Loading Large Number Of Models"
+date: 2019-06-19
+url: https://discourse.slicer.org/t/7251
+---
+
 # Loading large number of models
 
 **Topic ID**: 7251

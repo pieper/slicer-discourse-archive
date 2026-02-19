@@ -1,3 +1,10 @@
+---
+topic_id: 11925
+title: "Build Slicer With Ubuntu 20 04 Qt5 15 Cmake 3 17 3"
+date: 2020-06-08
+url: https://discourse.slicer.org/t/11925
+---
+
 # Build Slicer with ubuntu 20.04, Qt5.15, cmake 3.17.3
 
 **Topic ID**: 11925

@@ -1,3 +1,10 @@
+---
+topic_id: 17736
+title: "Build Fails On Linux In Python Ensurepip"
+date: 2021-05-22
+url: https://discourse.slicer.org/t/17736
+---
+
 # Build fails on Linux in python-ensurepip
 
 **Topic ID**: 17736

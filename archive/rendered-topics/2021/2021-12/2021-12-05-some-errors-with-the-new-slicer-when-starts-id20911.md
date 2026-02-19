@@ -1,3 +1,10 @@
+---
+topic_id: 20911
+title: "Some Errors With The New Slicer When Starts"
+date: 2021-12-05
+url: https://discourse.slicer.org/t/20911
+---
+
 # Some errors with the new Slicer when starts
 
 **Topic ID**: 20911

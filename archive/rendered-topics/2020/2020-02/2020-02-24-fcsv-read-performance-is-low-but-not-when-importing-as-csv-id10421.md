@@ -1,3 +1,10 @@
+---
+topic_id: 10421
+title: "Fcsv Read Performance Is Low But Not When Importing As Csv"
+date: 2020-02-24
+url: https://discourse.slicer.org/t/10421
+---
+
 # Fcsv read performance is low (but not when importing as csv)
 
 **Topic ID**: 10421

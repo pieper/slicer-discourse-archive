@@ -1,3 +1,10 @@
+---
+topic_id: 13490
+title: "Split Scalar Volume Into Multiple Frames"
+date: 2020-09-15
+url: https://discourse.slicer.org/t/13490
+---
+
 # Split Scalar Volume into Multiple Frames
 
 **Topic ID**: 13490

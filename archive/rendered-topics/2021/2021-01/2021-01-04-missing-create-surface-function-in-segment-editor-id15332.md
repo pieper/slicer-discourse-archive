@@ -1,3 +1,10 @@
+---
+topic_id: 15332
+title: "Missing Create Surface Function In Segment Editor"
+date: 2021-01-04
+url: https://discourse.slicer.org/t/15332
+---
+
 # Missing Create surface function in segment editor
 
 **Topic ID**: 15332

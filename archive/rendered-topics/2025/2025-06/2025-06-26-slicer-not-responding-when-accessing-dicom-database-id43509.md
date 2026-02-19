@@ -1,3 +1,10 @@
+---
+topic_id: 43509
+title: "Slicer Not Responding When Accessing Dicom Database"
+date: 2025-06-26
+url: https://discourse.slicer.org/t/43509
+---
+
 # Slicer Not Responding when accessing DICOM Database
 
 **Topic ID**: 43509

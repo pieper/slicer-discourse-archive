@@ -1,3 +1,10 @@
+---
+topic_id: 35778
+title: "Generate Animations Easily Based On Keyframes In Slicer"
+date: 2024-04-28
+url: https://discourse.slicer.org/t/35778
+---
+
 # Generate animations easily based on keyframes in Slicer
 
 **Topic ID**: 35778

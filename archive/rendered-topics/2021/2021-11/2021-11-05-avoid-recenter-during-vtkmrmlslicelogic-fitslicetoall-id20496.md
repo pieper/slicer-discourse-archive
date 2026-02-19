@@ -1,3 +1,10 @@
+---
+topic_id: 20496
+title: "Avoid Recenter During Vtkmrmlslicelogic Fitslicetoall"
+date: 2021-11-05
+url: https://discourse.slicer.org/t/20496
+---
+
 # Avoid recenter during vtkMRMLSliceLogic::FitSliceToAll
 
 **Topic ID**: 20496

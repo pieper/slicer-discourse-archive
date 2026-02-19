@@ -1,3 +1,10 @@
+---
+topic_id: 1154
+title: "Odd Looking Hippocampus"
+date: 2017-10-02
+url: https://discourse.slicer.org/t/1154
+---
+
 # Odd looking hippocampus
 
 **Topic ID**: 1154

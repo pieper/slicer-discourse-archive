@@ -1,3 +1,10 @@
+---
+topic_id: 10651
+title: "Changing Node Name For Volume And Not Saving Nrrd File Overw"
+date: 2020-03-12
+url: https://discourse.slicer.org/t/10651
+---
+
 # Changing node name for volume and not saving .nrrd file overwrites file path in the scene
 
 **Topic ID**: 10651

@@ -1,3 +1,10 @@
+---
+topic_id: 19791
+title: "View Segments On Slices In 3D Window Before Generating Surfa"
+date: 2021-09-21
+url: https://discourse.slicer.org/t/19791
+---
+
 # View segments on slices in 3D window before generating surface
 
 **Topic ID**: 19791

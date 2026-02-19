@@ -1,3 +1,10 @@
+---
+topic_id: 26277
+title: "Distance From Point To Segment"
+date: 2022-11-17
+url: https://discourse.slicer.org/t/26277
+---
+
 # Distance from point to segment
 
 **Topic ID**: 26277

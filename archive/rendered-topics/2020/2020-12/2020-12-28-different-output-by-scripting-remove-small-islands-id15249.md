@@ -1,3 +1,10 @@
+---
+topic_id: 15249
+title: "Different Output By Scripting Remove Small Islands"
+date: 2020-12-28
+url: https://discourse.slicer.org/t/15249
+---
+
 # Different output by scripting 'REMOVE_SMALL_ISLANDS'
 
 **Topic ID**: 15249

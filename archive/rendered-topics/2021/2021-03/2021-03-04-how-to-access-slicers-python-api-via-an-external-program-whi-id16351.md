@@ -1,3 +1,10 @@
+---
+topic_id: 16351
+title: "How To Access Slicers Python Api Via An External Program Whi"
+date: 2021-03-04
+url: https://discourse.slicer.org/t/16351
+---
+
 # How to access Slicers Python API via an external program while slicer is running?
 
 **Topic ID**: 16351

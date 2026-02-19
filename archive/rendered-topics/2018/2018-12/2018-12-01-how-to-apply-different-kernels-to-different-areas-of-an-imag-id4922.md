@@ -1,3 +1,10 @@
+---
+topic_id: 4922
+title: "How To Apply Different Kernels To Different Areas Of An Imag"
+date: 2018-12-01
+url: https://discourse.slicer.org/t/4922
+---
+
 # How to apply different kernels to different areas of an image using deconvolution process?
 
 **Topic ID**: 4922

@@ -1,3 +1,10 @@
+---
+topic_id: 19787
+title: "Create Non Gui Module"
+date: 2021-09-21
+url: https://discourse.slicer.org/t/19787
+---
+
 # Create non GUI module
 
 **Topic ID**: 19787

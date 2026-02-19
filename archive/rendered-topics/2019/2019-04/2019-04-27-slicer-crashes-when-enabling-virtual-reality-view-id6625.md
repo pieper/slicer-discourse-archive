@@ -1,3 +1,10 @@
+---
+topic_id: 6625
+title: "Slicer Crashes When Enabling Virtual Reality View"
+date: 2019-04-27
+url: https://discourse.slicer.org/t/6625
+---
+
 # Slicer crashes when enabling virtual reality view
 
 **Topic ID**: 6625

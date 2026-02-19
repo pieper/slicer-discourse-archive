@@ -1,3 +1,10 @@
+---
+topic_id: 5155
+title: "Request For Suggestions For Image Informatics Tools"
+date: 2018-12-20
+url: https://discourse.slicer.org/t/5155
+---
+
 # Request for suggestions for image informatics tools
 
 **Topic ID**: 5155

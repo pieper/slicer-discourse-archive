@@ -1,3 +1,10 @@
+---
+topic_id: 18072
+title: "Change The Left Control Panel Size"
+date: 2021-06-11
+url: https://discourse.slicer.org/t/18072
+---
+
 # Change the left control panel size
 
 **Topic ID**: 18072

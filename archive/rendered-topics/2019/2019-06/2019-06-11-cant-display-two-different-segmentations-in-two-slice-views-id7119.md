@@ -1,3 +1,10 @@
+---
+topic_id: 7119
+title: "Cant Display Two Different Segmentations In Two Slice Views"
+date: 2019-06-11
+url: https://discourse.slicer.org/t/7119
+---
+
 # Can't display two different segmentations in two slice views
 
 **Topic ID**: 7119

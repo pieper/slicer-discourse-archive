@@ -1,3 +1,10 @@
+---
+topic_id: 35418
+title: "Slicer Could Not Load 3036 Linear Attenutaion As A Scaler Vo"
+date: 2024-04-10
+url: https://discourse.slicer.org/t/35418
+---
+
 # Slicer could not load: 3036: linear attenutaion as a scaler volume
 
 **Topic ID**: 35418

@@ -1,3 +1,10 @@
+---
+topic_id: 2320
+title: "Mantis Application Error 2800 Invalid Form Security Token"
+date: 2018-03-14
+url: https://discourse.slicer.org/t/2320
+---
+
 # Mantis: "APPLICATION ERROR #2800 Invalid form security token."
 
 **Topic ID**: 2320

@@ -1,3 +1,10 @@
+---
+topic_id: 44305
+title: "Can Monai Auto3Dseg Use Metal Mps On M Series Processors Run"
+date: 2025-09-02
+url: https://discourse.slicer.org/t/44305
+---
+
 # Can MONAI Auto3dSeg use metal (MPS) on M series processors running MacOS?
 
 **Topic ID**: 44305

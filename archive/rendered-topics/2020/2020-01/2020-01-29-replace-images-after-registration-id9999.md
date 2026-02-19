@@ -1,3 +1,10 @@
+---
+topic_id: 9999
+title: "Replace Images After Registration"
+date: 2020-01-29
+url: https://discourse.slicer.org/t/9999
+---
+
 # Replace images after registration
 
 **Topic ID**: 9999

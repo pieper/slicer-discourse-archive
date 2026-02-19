@@ -1,3 +1,10 @@
+---
+topic_id: 19956
+title: "How To Complete A Segmentation Where There Is No Image To Se"
+date: 2021-10-01
+url: https://discourse.slicer.org/t/19956
+---
+
 # How to complete a segmentation where there is no image to segment?
 
 **Topic ID**: 19956

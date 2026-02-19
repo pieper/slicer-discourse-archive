@@ -1,3 +1,10 @@
+---
+topic_id: 5449
+title: "Automatic Segmentation Of Multivolume Sequence"
+date: 2019-01-21
+url: https://discourse.slicer.org/t/5449
+---
+
 # Automatic Segmentation of Multivolume sequence
 
 **Topic ID**: 5449

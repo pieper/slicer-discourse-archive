@@ -1,3 +1,10 @@
+---
+topic_id: 16588
+title: "Unable To Install Extensions When Slicer Is Installed In Sys"
+date: 2021-03-16
+url: https://discourse.slicer.org/t/16588
+---
+
 # Unable to install extensions when Slicer is installed in system location
 
 **Topic ID**: 16588

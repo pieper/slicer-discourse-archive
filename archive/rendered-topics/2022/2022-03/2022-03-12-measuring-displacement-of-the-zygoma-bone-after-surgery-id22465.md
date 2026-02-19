@@ -1,3 +1,10 @@
+---
+topic_id: 22465
+title: "Measuring Displacement Of The Zygoma Bone After Surgery"
+date: 2022-03-12
+url: https://discourse.slicer.org/t/22465
+---
+
 # Measuring displacement of the zygoma bone after surgery
 
 **Topic ID**: 22465

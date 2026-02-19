@@ -1,3 +1,10 @@
+---
+topic_id: 25048
+title: "Grid Projection To Make Uniform Landmarks"
+date: 2022-09-02
+url: https://discourse.slicer.org/t/25048
+---
+
 # Grid projection to make uniform landmarks
 
 **Topic ID**: 25048

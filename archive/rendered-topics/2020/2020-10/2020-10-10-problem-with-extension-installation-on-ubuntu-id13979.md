@@ -1,3 +1,10 @@
+---
+topic_id: 13979
+title: "Problem With Extension Installation On Ubuntu"
+date: 2020-10-10
+url: https://discourse.slicer.org/t/13979
+---
+
 # Problem with extension installation on Ubuntu
 
 **Topic ID**: 13979

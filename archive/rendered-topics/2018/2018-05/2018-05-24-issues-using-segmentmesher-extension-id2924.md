@@ -1,3 +1,10 @@
+---
+topic_id: 2924
+title: "Issues Using Segmentmesher Extension"
+date: 2018-05-24
+url: https://discourse.slicer.org/t/2924
+---
+
 # Issues Using SegmentMesher Extension
 
 **Topic ID**: 2924

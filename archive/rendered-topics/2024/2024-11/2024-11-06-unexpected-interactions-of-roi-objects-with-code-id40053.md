@@ -1,3 +1,10 @@
+---
+topic_id: 40053
+title: "Unexpected Interactions Of Roi Objects With Code"
+date: 2024-11-06
+url: https://discourse.slicer.org/t/40053
+---
+
 # Unexpected interactions of ROI objects with code
 
 **Topic ID**: 40053

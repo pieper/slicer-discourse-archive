@@ -1,3 +1,10 @@
+---
+topic_id: 27774
+title: "Is There A Way To Fix This Model Quickly"
+date: 2023-02-12
+url: https://discourse.slicer.org/t/27774
+---
+
 # Is there a way to fix this model quickly
 
 **Topic ID**: 27774

@@ -1,3 +1,10 @@
+---
+topic_id: 41772
+title: "Totalsegmentator Update 2 6 Not Working"
+date: 2025-02-19
+url: https://discourse.slicer.org/t/41772
+---
+
 # TotalSegmentator update 2.6 Not Working
 
 **Topic ID**: 41772

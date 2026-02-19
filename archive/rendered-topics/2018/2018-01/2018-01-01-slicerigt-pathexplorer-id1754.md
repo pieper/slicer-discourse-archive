@@ -1,3 +1,10 @@
+---
+topic_id: 1754
+title: "Slicerigt Pathexplorer"
+date: 2018-01-01
+url: https://discourse.slicer.org/t/1754
+---
+
 # SlicerIGT pathexplorer
 
 **Topic ID**: 1754

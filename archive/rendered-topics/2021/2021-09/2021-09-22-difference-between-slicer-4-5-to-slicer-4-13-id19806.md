@@ -1,3 +1,10 @@
+---
+topic_id: 19806
+title: "Difference Between Slicer 4 5 To Slicer 4 13"
+date: 2021-09-22
+url: https://discourse.slicer.org/t/19806
+---
+
 # Difference between slicer 4.5 to slicer 4.13
 
 **Topic ID**: 19806

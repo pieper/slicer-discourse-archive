@@ -1,3 +1,10 @@
+---
+topic_id: 24018
+title: "Cant Find Module After Installing Extension"
+date: 2022-06-24
+url: https://discourse.slicer.org/t/24018
+---
+
 # Can't find module after installing extension
 
 **Topic ID**: 24018

@@ -1,3 +1,10 @@
+---
+topic_id: 12969
+title: "Achieve Click To Jump Slices Centered Programmatically"
+date: 2020-08-12
+url: https://discourse.slicer.org/t/12969
+---
+
 # Achieve "Click to jump Slices -> centered" programmatically
 
 **Topic ID**: 12969

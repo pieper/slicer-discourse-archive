@@ -1,3 +1,10 @@
+---
+topic_id: 4121
+title: "Installing Non Matching Extension From File Better Error Mes"
+date: 2018-09-14
+url: https://discourse.slicer.org/t/4121
+---
+
 # Installing non-matching extension from file - better error message is needed
 
 **Topic ID**: 4121

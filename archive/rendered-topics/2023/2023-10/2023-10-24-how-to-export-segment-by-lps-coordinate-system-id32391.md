@@ -1,3 +1,10 @@
+---
+topic_id: 32391
+title: "How To Export Segment By Lps Coordinate System"
+date: 2023-10-24
+url: https://discourse.slicer.org/t/32391
+---
+
 # How to export segment by LPS coordinate system?
 
 **Topic ID**: 32391

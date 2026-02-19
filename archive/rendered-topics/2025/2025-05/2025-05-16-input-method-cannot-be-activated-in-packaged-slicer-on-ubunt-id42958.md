@@ -1,3 +1,10 @@
+---
+topic_id: 42958
+title: "Input Method Cannot Be Activated In Packaged Slicer On Ubunt"
+date: 2025-05-16
+url: https://discourse.slicer.org/t/42958
+---
+
 # Input Method Cannot Be Activated in Packaged Slicer on Ubuntu
 
 **Topic ID**: 42958

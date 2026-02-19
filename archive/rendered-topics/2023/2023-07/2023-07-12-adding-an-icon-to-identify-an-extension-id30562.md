@@ -1,3 +1,10 @@
+---
+topic_id: 30562
+title: "Adding An Icon To Identify An Extension"
+date: 2023-07-12
+url: https://discourse.slicer.org/t/30562
+---
+
 # Adding an icon to identify an extension
 
 **Topic ID**: 30562

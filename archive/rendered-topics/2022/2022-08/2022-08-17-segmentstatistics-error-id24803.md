@@ -1,3 +1,10 @@
+---
+topic_id: 24803
+title: "Segmentstatistics Error"
+date: 2022-08-17
+url: https://discourse.slicer.org/t/24803
+---
+
 # SegmentStatistics error
 
 **Topic ID**: 24803

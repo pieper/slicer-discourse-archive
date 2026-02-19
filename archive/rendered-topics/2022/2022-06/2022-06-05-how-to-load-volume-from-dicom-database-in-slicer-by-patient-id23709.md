@@ -1,3 +1,10 @@
+---
+topic_id: 23709
+title: "How To Load Volume From Dicom Database In Slicer By Patient"
+date: 2022-06-05
+url: https://discourse.slicer.org/t/23709
+---
+
 # How to load volume from DICOM database in slicer by patient name by py script?
 
 **Topic ID**: 23709

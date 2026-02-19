@@ -1,3 +1,10 @@
+---
+topic_id: 8859
+title: "Get Cell Data Of A Mesh At Selected Point Positions"
+date: 2019-10-22
+url: https://discourse.slicer.org/t/8859
+---
+
 # Get cell data of a mesh at selected point positions
 
 **Topic ID**: 8859

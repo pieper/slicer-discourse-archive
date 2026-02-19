@@ -1,3 +1,10 @@
+---
+topic_id: 44978
+title: "Annotation Markups Disable Line Shading"
+date: 2025-11-06
+url: https://discourse.slicer.org/t/44978
+---
+
 # Annotation -> Markups: disable line shading?
 
 **Topic ID**: 44978

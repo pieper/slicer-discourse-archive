@@ -1,3 +1,10 @@
+---
+topic_id: 26625
+title: "Cannot Display 3D And Cannt Find Filter Element"
+date: 2022-12-07
+url: https://discourse.slicer.org/t/26625
+---
+
 # Cannot Display 3d and Cann't find filter element
 
 **Topic ID**: 26625

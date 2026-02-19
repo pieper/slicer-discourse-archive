@@ -1,3 +1,10 @@
+---
+topic_id: 29162
+title: "Imagestream Cropping Plus 3Dslicer"
+date: 2023-04-27
+url: https://discourse.slicer.org/t/29162
+---
+
 # ImageStream-Cropping Plus/3dSlicer
 
 **Topic ID**: 29162

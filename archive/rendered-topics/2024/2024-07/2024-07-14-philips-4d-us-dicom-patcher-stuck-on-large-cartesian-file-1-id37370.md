@@ -1,3 +1,10 @@
+---
+topic_id: 37370
+title: "Philips 4D Us Dicom Patcher Stuck On Large Cartesian File 1"
+date: 2024-07-14
+url: https://discourse.slicer.org/t/37370
+---
+
 # Philips 4D US Dicom Patcher stuck on large cartesian file (1.7GB)
 
 **Topic ID**: 37370

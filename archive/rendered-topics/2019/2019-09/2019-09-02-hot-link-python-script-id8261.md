@@ -1,3 +1,10 @@
+---
+topic_id: 8261
+title: "Hot Link Python Script"
+date: 2019-09-02
+url: https://discourse.slicer.org/t/8261
+---
+
 # Hot Link Python Script
 
 **Topic ID**: 8261

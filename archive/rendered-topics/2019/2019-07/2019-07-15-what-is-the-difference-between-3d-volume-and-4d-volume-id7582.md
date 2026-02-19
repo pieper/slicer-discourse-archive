@@ -1,3 +1,10 @@
+---
+topic_id: 7582
+title: "What Is The Difference Between 3D Volume And 4D Volume"
+date: 2019-07-15
+url: https://discourse.slicer.org/t/7582
+---
+
 # What is the difference between 3D volume and 4D volume?
 
 **Topic ID**: 7582

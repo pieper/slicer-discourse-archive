@@ -1,3 +1,10 @@
+---
+topic_id: 8723
+title: "Publicly Available Segmentations For The Eye"
+date: 2019-10-09
+url: https://discourse.slicer.org/t/8723
+---
+
 # Publicly available segmentations for the eye
 
 **Topic ID**: 8723

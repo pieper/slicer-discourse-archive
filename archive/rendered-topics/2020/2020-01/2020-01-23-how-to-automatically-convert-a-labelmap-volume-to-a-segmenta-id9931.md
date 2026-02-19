@@ -1,3 +1,10 @@
+---
+topic_id: 9931
+title: "How To Automatically Convert A Labelmap Volume To A Segmenta"
+date: 2020-01-23
+url: https://discourse.slicer.org/t/9931
+---
+
 # How to automatically convert a labelmap volume to a segmentation node upon loading labelmap volume
 
 **Topic ID**: 9931

@@ -1,3 +1,10 @@
+---
+topic_id: 35142
+title: "Amasss Error With Cbct Segmentation"
+date: 2024-03-27
+url: https://discourse.slicer.org/t/35142
+---
+
 # AMASSS error with cbct segmentation
 
 **Topic ID**: 35142

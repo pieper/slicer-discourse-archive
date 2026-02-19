@@ -1,3 +1,10 @@
+---
+topic_id: 42290
+title: "Morphosource Files Not Opening"
+date: 2025-03-25
+url: https://discourse.slicer.org/t/42290
+---
+
 # MorphoSource files not Opening
 
 **Topic ID**: 42290

@@ -1,3 +1,10 @@
+---
+topic_id: 9255
+title: "Converting A Surface In 3D Into A 2D Surface"
+date: 2019-11-21
+url: https://discourse.slicer.org/t/9255
+---
+
 # Converting a surface in 3D into a 2D surface
 
 **Topic ID**: 9255

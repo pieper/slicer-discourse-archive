@@ -1,3 +1,10 @@
+---
+topic_id: 37988
+title: "Seeking Assistance Developers Setting Up Needle Tracking For"
+date: 2024-08-21
+url: https://discourse.slicer.org/t/37988
+---
+
 # Seeking Assistance/Developers Setting Up Needle Tracking for Intel RealSense Camera
 
 **Topic ID**: 37988

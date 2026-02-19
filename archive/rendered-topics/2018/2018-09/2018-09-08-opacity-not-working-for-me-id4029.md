@@ -1,3 +1,10 @@
+---
+topic_id: 4029
+title: "Opacity Not Working For Me"
+date: 2018-09-08
+url: https://discourse.slicer.org/t/4029
+---
+
 # Opacity not working for me
 
 **Topic ID**: 4029

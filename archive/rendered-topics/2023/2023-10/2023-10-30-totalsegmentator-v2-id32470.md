@@ -1,3 +1,10 @@
+---
+topic_id: 32470
+title: "Totalsegmentator V2"
+date: 2023-10-30
+url: https://discourse.slicer.org/t/32470
+---
+
 # TotalSegmentator v2
 
 **Topic ID**: 32470

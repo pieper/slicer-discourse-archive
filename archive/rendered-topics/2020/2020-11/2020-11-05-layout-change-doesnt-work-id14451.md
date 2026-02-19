@@ -1,3 +1,10 @@
+---
+topic_id: 14451
+title: "Layout Change Doesnt Work"
+date: 2020-11-05
+url: https://discourse.slicer.org/t/14451
+---
+
 # Layout change doesn't work
 
 **Topic ID**: 14451

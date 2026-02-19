@@ -1,3 +1,10 @@
+---
+topic_id: 12689
+title: "How To Do Image Normalization In Radiomics"
+date: 2020-07-22
+url: https://discourse.slicer.org/t/12689
+---
+
 # How to do image normalization in Radiomics
 
 **Topic ID**: 12689

@@ -1,3 +1,10 @@
+---
+topic_id: 32350
+title: "Cube Segments Conversion Of Rois Into Segments"
+date: 2023-10-20
+url: https://discourse.slicer.org/t/32350
+---
+
 # Cube Segments / Conversion of ROIs into Segments
 
 **Topic ID**: 32350

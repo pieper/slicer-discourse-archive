@@ -1,3 +1,10 @@
+---
+topic_id: 1342
+title: "Showing Totally Different Content In Different Views"
+date: 2017-11-01
+url: https://discourse.slicer.org/t/1342
+---
+
 # Showing totally different content in different views
 
 **Topic ID**: 1342

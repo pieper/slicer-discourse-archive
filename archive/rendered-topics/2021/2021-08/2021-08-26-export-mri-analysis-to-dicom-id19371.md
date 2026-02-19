@@ -1,3 +1,10 @@
+---
+topic_id: 19371
+title: "Export Mri Analysis To Dicom"
+date: 2021-08-26
+url: https://discourse.slicer.org/t/19371
+---
+
 # Export MRI analysis to DICOM
 
 **Topic ID**: 19371

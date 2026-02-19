@@ -1,3 +1,10 @@
+---
+topic_id: 43059
+title: "Automated Dental Tools Ali Fail"
+date: 2025-05-23
+url: https://discourse.slicer.org/t/43059
+---
+
 # Automated Dental Tools ALI fail
 
 **Topic ID**: 43059

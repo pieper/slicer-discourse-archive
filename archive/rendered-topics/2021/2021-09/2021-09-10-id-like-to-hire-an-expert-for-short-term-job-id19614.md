@@ -1,3 +1,10 @@
+---
+topic_id: 19614
+title: "Id Like To Hire An Expert For Short Term Job"
+date: 2021-09-10
+url: https://discourse.slicer.org/t/19614
+---
+
 # I'd like to hire an expert for short term job
 
 **Topic ID**: 19614

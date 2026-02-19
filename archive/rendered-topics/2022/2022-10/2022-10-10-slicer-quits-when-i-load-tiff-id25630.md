@@ -1,3 +1,10 @@
+---
+topic_id: 25630
+title: "Slicer Quits When I Load Tiff"
+date: 2022-10-10
+url: https://discourse.slicer.org/t/25630
+---
+
 # Slicer quits when I load TIFF
 
 **Topic ID**: 25630

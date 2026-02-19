@@ -1,3 +1,10 @@
+---
+topic_id: 36005
+title: "Change Active Widget"
+date: 2024-05-08
+url: https://discourse.slicer.org/t/36005
+---
+
 # Change active widget
 
 **Topic ID**: 36005

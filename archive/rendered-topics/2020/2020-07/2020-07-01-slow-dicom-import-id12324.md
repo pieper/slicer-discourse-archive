@@ -1,3 +1,10 @@
+---
+topic_id: 12324
+title: "Slow Dicom Import"
+date: 2020-07-01
+url: https://discourse.slicer.org/t/12324
+---
+
 # Slow DICOM import
 
 **Topic ID**: 12324

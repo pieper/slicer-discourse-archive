@@ -1,3 +1,10 @@
+---
+topic_id: 29179
+title: "Min Max Intensity Normalization"
+date: 2023-04-27
+url: https://discourse.slicer.org/t/29179
+---
+
 # Min/max intensity normalization
 
 **Topic ID**: 29179

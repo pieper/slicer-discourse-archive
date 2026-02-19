@@ -1,3 +1,10 @@
+---
+topic_id: 17682
+title: "Have Sequence Of Steps Executed When Adding Data"
+date: 2021-05-18
+url: https://discourse.slicer.org/t/17682
+---
+
 # Have sequence of steps executed when adding data
 
 **Topic ID**: 17682

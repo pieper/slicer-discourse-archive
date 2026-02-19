@@ -1,3 +1,10 @@
+---
+topic_id: 37739
+title: "Cdash Shows No Mac Builds For Todays Preview"
+date: 2024-08-06
+url: https://discourse.slicer.org/t/37739
+---
+
 # Cdash shows no mac builds for todays preview
 
 **Topic ID**: 37739

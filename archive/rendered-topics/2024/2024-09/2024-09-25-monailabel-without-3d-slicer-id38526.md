@@ -1,3 +1,10 @@
+---
+topic_id: 38526
+title: "Monailabel Without 3D Slicer"
+date: 2024-09-25
+url: https://discourse.slicer.org/t/38526
+---
+
 # MONAILabel without 3D Slicer
 
 **Topic ID**: 38526

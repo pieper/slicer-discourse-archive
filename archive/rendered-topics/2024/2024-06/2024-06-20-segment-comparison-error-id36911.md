@@ -1,3 +1,10 @@
+---
+topic_id: 36911
+title: "Segment Comparison Error"
+date: 2024-06-20
+url: https://discourse.slicer.org/t/36911
+---
+
 # Segment comparison error
 
 **Topic ID**: 36911

@@ -1,3 +1,10 @@
+---
+topic_id: 35356
+title: "Taking Data From Ct Scan And Printing 3D Model"
+date: 2024-04-08
+url: https://discourse.slicer.org/t/35356
+---
+
 # Taking data from CT scan and printing 3D model
 
 **Topic ID**: 35356

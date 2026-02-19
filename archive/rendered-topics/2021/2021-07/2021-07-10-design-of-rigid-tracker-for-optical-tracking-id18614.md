@@ -1,3 +1,10 @@
+---
+topic_id: 18614
+title: "Design Of Rigid Tracker For Optical Tracking"
+date: 2021-07-10
+url: https://discourse.slicer.org/t/18614
+---
+
 # Design of rigid tracker for optical tracking
 
 **Topic ID**: 18614

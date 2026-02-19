@@ -1,3 +1,10 @@
+---
+topic_id: 28484
+title: "Export Vtkmrmlmodelnode As Obj"
+date: 2023-03-20
+url: https://discourse.slicer.org/t/28484
+---
+
 # Export "vtkMRMLModelNode" as .OBJ
 
 **Topic ID**: 28484

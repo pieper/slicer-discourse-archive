@@ -1,3 +1,10 @@
+---
+topic_id: 19186
+title: "Export Image Series In Different Projections From Nii File"
+date: 2021-08-13
+url: https://discourse.slicer.org/t/19186
+---
+
 # Export image series in different projections from .nii file
 
 **Topic ID**: 19186

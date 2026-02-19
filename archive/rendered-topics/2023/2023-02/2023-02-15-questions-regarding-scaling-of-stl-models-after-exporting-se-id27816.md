@@ -1,3 +1,10 @@
+---
+topic_id: 27816
+title: "Questions Regarding Scaling Of Stl Models After Exporting Se"
+date: 2023-02-15
+url: https://discourse.slicer.org/t/27816
+---
+
 # Questions regarding scaling of .stl models after exporting segmentation
 
 **Topic ID**: 27816

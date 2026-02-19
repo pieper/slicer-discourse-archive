@@ -1,3 +1,10 @@
+---
+topic_id: 4206
+title: "Ply File Colors Not Displayed"
+date: 2018-09-27
+url: https://discourse.slicer.org/t/4206
+---
+
 # PLY file colors not displayed
 
 **Topic ID**: 4206

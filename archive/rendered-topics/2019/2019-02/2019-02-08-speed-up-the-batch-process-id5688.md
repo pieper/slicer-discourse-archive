@@ -1,3 +1,10 @@
+---
+topic_id: 5688
+title: "Speed Up The Batch Process"
+date: 2019-02-08
+url: https://discourse.slicer.org/t/5688
+---
+
 # Speed up the batch process
 
 **Topic ID**: 5688

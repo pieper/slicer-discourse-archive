@@ -1,3 +1,10 @@
+---
+topic_id: 14115
+title: "Fatal Python Error Py Initialize Unable To Load The File Sys"
+date: 2020-10-18
+url: https://discourse.slicer.org/t/14115
+---
+
 # Fatal Python error: Py_Initialize: unable to load the file system codec
 
 **Topic ID**: 14115

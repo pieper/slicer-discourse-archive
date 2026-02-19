@@ -1,3 +1,10 @@
+---
+topic_id: 29723
+title: "Na Mic Project Week Reminder Next Pw39 Preparation Meeting N"
+date: 2023-05-30
+url: https://discourse.slicer.org/t/29723
+---
+
 # [Na-mic-project-week] Reminder: Next PW39 Preparation meeting NOW(Tuesday, May 30th)
 
 **Topic ID**: 29723

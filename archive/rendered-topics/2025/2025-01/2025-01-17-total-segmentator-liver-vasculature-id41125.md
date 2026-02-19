@@ -1,3 +1,10 @@
+---
+topic_id: 41125
+title: "Total Segmentator Liver Vasculature"
+date: 2025-01-17
+url: https://discourse.slicer.org/t/41125
+---
+
 # Total Segmentator liver vasculature?
 
 **Topic ID**: 41125

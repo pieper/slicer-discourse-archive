@@ -1,3 +1,10 @@
+---
+topic_id: 33506
+title: "Dicom Browser Does Not Show The Count Of Images In A Series"
+date: 2023-12-23
+url: https://discourse.slicer.org/t/33506
+---
+
 # DICOM browser does not show the count of images in a series
 
 **Topic ID**: 33506

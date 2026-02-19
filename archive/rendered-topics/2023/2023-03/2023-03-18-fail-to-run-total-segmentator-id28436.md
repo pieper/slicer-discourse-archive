@@ -1,3 +1,10 @@
+---
+topic_id: 28436
+title: "Fail To Run Total Segmentator"
+date: 2023-03-18
+url: https://discourse.slicer.org/t/28436
+---
+
 # Fail to Run Total Segmentator
 
 **Topic ID**: 28436

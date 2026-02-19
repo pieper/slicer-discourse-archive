@@ -1,3 +1,10 @@
+---
+topic_id: 21733
+title: "Re Defining The Axial Sagittal Or Coronal Slice Orientation"
+date: 2022-02-01
+url: https://discourse.slicer.org/t/21733
+---
+
 # Re-defining the axial, sagittal or coronal slice orientation using a markup-plane
 
 **Topic ID**: 21733

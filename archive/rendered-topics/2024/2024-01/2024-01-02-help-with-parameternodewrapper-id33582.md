@@ -1,3 +1,10 @@
+---
+topic_id: 33582
+title: "Help With Parameternodewrapper"
+date: 2024-01-02
+url: https://discourse.slicer.org/t/33582
+---
+
 # Help with parameterNodeWrapper
 
 **Topic ID**: 33582

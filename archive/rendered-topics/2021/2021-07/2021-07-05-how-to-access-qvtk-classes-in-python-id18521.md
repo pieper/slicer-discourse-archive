@@ -1,3 +1,10 @@
+---
+topic_id: 18521
+title: "How To Access Qvtk Classes In Python"
+date: 2021-07-05
+url: https://discourse.slicer.org/t/18521
+---
+
 # How to access QVTK... classes in Python
 
 **Topic ID**: 18521

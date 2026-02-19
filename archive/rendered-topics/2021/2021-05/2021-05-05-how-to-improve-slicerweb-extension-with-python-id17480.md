@@ -1,3 +1,10 @@
+---
+topic_id: 17480
+title: "How To Improve Slicerweb Extension With Python"
+date: 2021-05-05
+url: https://discourse.slicer.org/t/17480
+---
+
 # How to improve SlicerWeb extension with python?
 
 **Topic ID**: 17480

@@ -1,3 +1,10 @@
+---
+topic_id: 14662
+title: "Image Definition Spontaneous Problem"
+date: 2020-11-17
+url: https://discourse.slicer.org/t/14662
+---
+
 # Image definition spontaneous problem! 
 
 **Topic ID**: 14662

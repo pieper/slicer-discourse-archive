@@ -1,3 +1,10 @@
+---
+topic_id: 34573
+title: "Centerline Calculation Warning Vmtkcenterlineviewer"
+date: 2024-02-27
+url: https://discourse.slicer.org/t/34573
+---
+
 # Centerline calculation warning (vmtkcenterlineviewer)
 
 **Topic ID**: 34573

@@ -1,3 +1,10 @@
+---
+topic_id: 3079
+title: "Should We Delete Topics That End Up Not Containing Any Usefu"
+date: 2018-06-05
+url: https://discourse.slicer.org/t/3079
+---
+
 # Should we delete topics that end up not containing any useful information?
 
 **Topic ID**: 3079

@@ -1,3 +1,10 @@
+---
+topic_id: 35465
+title: "Overlay Of Coregistered Brain Mri And Ct"
+date: 2024-04-12
+url: https://discourse.slicer.org/t/35465
+---
+
 # Overlay of coregistered brain MRI and CT
 
 **Topic ID**: 35465

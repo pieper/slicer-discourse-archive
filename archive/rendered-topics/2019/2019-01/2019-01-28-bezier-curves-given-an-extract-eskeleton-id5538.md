@@ -1,3 +1,10 @@
+---
+topic_id: 5538
+title: "Bezier Curves Given An Extract Eskeleton"
+date: 2019-01-28
+url: https://discourse.slicer.org/t/5538
+---
+
 # Bezier curves given an extract eskeleton
 
 **Topic ID**: 5538

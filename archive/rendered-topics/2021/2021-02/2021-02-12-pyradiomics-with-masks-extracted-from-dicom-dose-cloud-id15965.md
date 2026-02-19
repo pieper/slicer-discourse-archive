@@ -1,3 +1,10 @@
+---
+topic_id: 15965
+title: "Pyradiomics With Masks Extracted From Dicom Dose Cloud"
+date: 2021-02-12
+url: https://discourse.slicer.org/t/15965
+---
+
 # Pyradiomics with masks extracted from DICOM dose cloud
 
 **Topic ID**: 15965

@@ -1,3 +1,10 @@
+---
+topic_id: 27279
+title: "Different Segmentation Export Function Produce Different Res"
+date: 2023-01-15
+url: https://discourse.slicer.org/t/27279
+---
+
 # Different segmentation export function produce different results
 
 **Topic ID**: 27279

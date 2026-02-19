@@ -1,3 +1,10 @@
+---
+topic_id: 16180
+title: "Dicom File Issue With Virtual Surgery Planning Software"
+date: 2021-02-24
+url: https://discourse.slicer.org/t/16180
+---
+
 # dicom file issue with virtual surgery planning software
 
 **Topic ID**: 16180

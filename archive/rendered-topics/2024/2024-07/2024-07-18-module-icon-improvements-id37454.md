@@ -1,3 +1,10 @@
+---
+topic_id: 37454
+title: "Module Icon Improvements"
+date: 2024-07-18
+url: https://discourse.slicer.org/t/37454
+---
+
 # Module icon improvements
 
 **Topic ID**: 37454

@@ -1,3 +1,10 @@
+---
+topic_id: 33427
+title: "Openslide Python Not Working When Trying To Use Monailabel"
+date: 2023-12-17
+url: https://discourse.slicer.org/t/33427
+---
+
 # Openslide-python not working when trying to use monailabel
 
 **Topic ID**: 33427

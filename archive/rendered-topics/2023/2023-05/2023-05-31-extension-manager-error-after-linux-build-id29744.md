@@ -1,3 +1,10 @@
+---
+topic_id: 29744
+title: "Extension Manager Error After Linux Build"
+date: 2023-05-31
+url: https://discourse.slicer.org/t/29744
+---
+
 # Extension manager error after linux build
 
 **Topic ID**: 29744

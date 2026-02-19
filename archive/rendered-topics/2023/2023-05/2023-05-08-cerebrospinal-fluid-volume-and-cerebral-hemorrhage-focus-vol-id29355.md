@@ -1,3 +1,10 @@
+---
+topic_id: 29355
+title: "Cerebrospinal Fluid Volume And Cerebral Hemorrhage Focus Vol"
+date: 2023-05-08
+url: https://discourse.slicer.org/t/29355
+---
+
 # Cerebrospinal fluid volume and cerebral hemorrhage focus volume were calculated using brain MRI
 
 **Topic ID**: 29355

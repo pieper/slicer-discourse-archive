@@ -1,3 +1,10 @@
+---
+topic_id: 1583
+title: "Superimpossion Of 2 Models In Stl Format"
+date: 2017-12-03
+url: https://discourse.slicer.org/t/1583
+---
+
 # Superimpossion of 2 models in STL format
 
 **Topic ID**: 1583

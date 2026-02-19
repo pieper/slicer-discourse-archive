@@ -1,3 +1,10 @@
+---
+topic_id: 5144
+title: "Creating A Volume From Stl"
+date: 2018-12-19
+url: https://discourse.slicer.org/t/5144
+---
+
 # Creating a Volume from STL
 
 **Topic ID**: 5144

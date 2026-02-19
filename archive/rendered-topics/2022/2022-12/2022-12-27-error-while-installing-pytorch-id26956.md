@@ -1,3 +1,10 @@
+---
+topic_id: 26956
+title: "Error While Installing Pytorch"
+date: 2022-12-27
+url: https://discourse.slicer.org/t/26956
+---
+
 # Error while installing pytorch
 
 **Topic ID**: 26956

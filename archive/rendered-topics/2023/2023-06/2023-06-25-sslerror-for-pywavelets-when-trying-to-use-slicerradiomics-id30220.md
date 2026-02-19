@@ -1,3 +1,10 @@
+---
+topic_id: 30220
+title: "Sslerror For Pywavelets When Trying To Use Slicerradiomics"
+date: 2023-06-25
+url: https://discourse.slicer.org/t/30220
+---
+
 # SSLError for pywavelets when trying to use slicerradiomics
 
 **Topic ID**: 30220

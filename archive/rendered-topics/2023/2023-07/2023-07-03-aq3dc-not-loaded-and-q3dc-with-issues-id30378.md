@@ -1,3 +1,10 @@
+---
+topic_id: 30378
+title: "Aq3Dc Not Loaded And Q3Dc With Issues"
+date: 2023-07-03
+url: https://discourse.slicer.org/t/30378
+---
+
 # AQ3DC not loaded and Q3DC with issues
 
 **Topic ID**: 30378

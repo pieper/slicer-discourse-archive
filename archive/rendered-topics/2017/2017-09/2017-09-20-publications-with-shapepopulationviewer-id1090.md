@@ -1,3 +1,10 @@
+---
+topic_id: 1090
+title: "Publications With Shapepopulationviewer"
+date: 2017-09-20
+url: https://discourse.slicer.org/t/1090
+---
+
 # Publications with ShapePopulationViewer
 
 **Topic ID**: 1090

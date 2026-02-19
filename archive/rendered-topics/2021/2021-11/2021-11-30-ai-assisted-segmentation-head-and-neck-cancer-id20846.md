@@ -1,3 +1,10 @@
+---
+topic_id: 20846
+title: "Ai Assisted Segmentation Head And Neck Cancer"
+date: 2021-11-30
+url: https://discourse.slicer.org/t/20846
+---
+
 # AI assisted segmentation-Head and Neck cancer
 
 **Topic ID**: 20846

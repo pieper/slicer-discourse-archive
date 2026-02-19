@@ -1,3 +1,10 @@
+---
+topic_id: 14929
+title: "How Can I Add Planes In 5Mm Intervals Along The Short Axis O"
+date: 2020-12-08
+url: https://discourse.slicer.org/t/14929
+---
+
 # How can I add planes in 5mm intervals along the short-axis of a heart from apex to base?
 
 **Topic ID**: 14929

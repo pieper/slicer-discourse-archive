@@ -1,3 +1,10 @@
+---
+topic_id: 33089
+title: "Erors Regarding Segmentation"
+date: 2023-11-28
+url: https://discourse.slicer.org/t/33089
+---
+
 # Erors regarding segmentation
 
 **Topic ID**: 33089

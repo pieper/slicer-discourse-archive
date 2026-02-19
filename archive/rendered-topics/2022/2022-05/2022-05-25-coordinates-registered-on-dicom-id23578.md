@@ -1,3 +1,10 @@
+---
+topic_id: 23578
+title: "Coordinates Registered On Dicom"
+date: 2022-05-25
+url: https://discourse.slicer.org/t/23578
+---
+
 # Coordinates registered on DICOM
 
 **Topic ID**: 23578

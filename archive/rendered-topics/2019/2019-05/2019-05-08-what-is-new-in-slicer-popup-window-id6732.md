@@ -1,3 +1,10 @@
+---
+topic_id: 6732
+title: "What Is New In Slicer Popup Window"
+date: 2019-05-08
+url: https://discourse.slicer.org/t/6732
+---
+
 # What is new in Slicer popup window
 
 **Topic ID**: 6732

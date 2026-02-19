@@ -1,3 +1,10 @@
+---
+topic_id: 16498
+title: "Is There Any Way To Go Back To The Generated Centerline Afte"
+date: 2021-03-12
+url: https://discourse.slicer.org/t/16498
+---
+
 # Is there any way to go back to the generated centerline after it has been modified?
 
 **Topic ID**: 16498

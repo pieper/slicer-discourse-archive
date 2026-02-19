@@ -1,3 +1,10 @@
+---
+topic_id: 33784
+title: "Difficulty With Totalsegmentator Update"
+date: 2024-01-15
+url: https://discourse.slicer.org/t/33784
+---
+
 # Difficulty with TotalSegmentator update 
 
 **Topic ID**: 33784

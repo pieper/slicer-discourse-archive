@@ -1,3 +1,10 @@
+---
+topic_id: 25747
+title: "Modify Transform Widget"
+date: 2022-10-18
+url: https://discourse.slicer.org/t/25747
+---
+
 # Modify transform widget
 
 **Topic ID**: 25747

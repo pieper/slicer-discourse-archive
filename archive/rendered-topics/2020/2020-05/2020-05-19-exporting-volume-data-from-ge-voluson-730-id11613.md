@@ -1,3 +1,10 @@
+---
+topic_id: 11613
+title: "Exporting Volume Data From Ge Voluson 730"
+date: 2020-05-19
+url: https://discourse.slicer.org/t/11613
+---
+
 # Exporting Volume data from GE Voluson 730
 
 **Topic ID**: 11613

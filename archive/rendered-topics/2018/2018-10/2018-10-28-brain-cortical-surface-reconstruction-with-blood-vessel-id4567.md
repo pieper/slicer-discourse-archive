@@ -1,3 +1,10 @@
+---
+topic_id: 4567
+title: "Brain Cortical Surface Reconstruction With Blood Vessel"
+date: 2018-10-28
+url: https://discourse.slicer.org/t/4567
+---
+
 # Brain cortical surface reconstruction with blood vessel
 
 **Topic ID**: 4567

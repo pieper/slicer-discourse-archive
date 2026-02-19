@@ -1,3 +1,10 @@
+---
+topic_id: 30293
+title: "Bug To Calculate Dice"
+date: 2023-06-29
+url: https://discourse.slicer.org/t/30293
+---
+
 # bug to calculate dice
 
 **Topic ID**: 30293

@@ -1,3 +1,10 @@
+---
+topic_id: 19632
+title: "How To Visualize Scipy Interpolate Rbf Object In Slicer 3D V"
+date: 2021-09-12
+url: https://discourse.slicer.org/t/19632
+---
+
 # How to visualize scipy.interpolate.rbf object in Slicer 3D view
 
 **Topic ID**: 19632

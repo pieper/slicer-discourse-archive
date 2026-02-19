@@ -1,3 +1,10 @@
+---
+topic_id: 2843
+title: "How To Build 3D Slicer For Raspberry"
+date: 2018-05-17
+url: https://discourse.slicer.org/t/2843
+---
+
 # How to build 3D Slicer for Raspberry?
 
 **Topic ID**: 2843

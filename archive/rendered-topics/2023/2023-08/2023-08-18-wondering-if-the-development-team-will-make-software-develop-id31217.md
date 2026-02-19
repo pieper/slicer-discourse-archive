@@ -1,3 +1,10 @@
+---
+topic_id: 31217
+title: "Wondering If The Development Team Will Make Software Develop"
+date: 2023-08-18
+url: https://discourse.slicer.org/t/31217
+---
+
 # Wondering if the development team will make software development based on the ipad's os system
 
 **Topic ID**: 31217

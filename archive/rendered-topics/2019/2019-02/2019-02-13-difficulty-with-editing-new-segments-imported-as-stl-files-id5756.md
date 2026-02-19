@@ -1,3 +1,10 @@
+---
+topic_id: 5756
+title: "Difficulty With Editing New Segments Imported As Stl Files"
+date: 2019-02-13
+url: https://discourse.slicer.org/t/5756
+---
+
 # Difficulty with editing new segments imported as stl files
 
 **Topic ID**: 5756

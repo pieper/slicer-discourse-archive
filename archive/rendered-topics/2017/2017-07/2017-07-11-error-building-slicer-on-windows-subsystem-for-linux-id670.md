@@ -1,3 +1,10 @@
+---
+topic_id: 670
+title: "Error Building Slicer On Windows Subsystem For Linux"
+date: 2017-07-11
+url: https://discourse.slicer.org/t/670
+---
+
 # Error Building Slicer on Windows Subsystem for Linux
 
 **Topic ID**: 670

@@ -1,3 +1,10 @@
+---
+topic_id: 17871
+title: "I Want To Generate A Roi Without A Background"
+date: 2021-05-31
+url: https://discourse.slicer.org/t/17871
+---
+
 # I want to generate a ROI without a background
 
 **Topic ID**: 17871

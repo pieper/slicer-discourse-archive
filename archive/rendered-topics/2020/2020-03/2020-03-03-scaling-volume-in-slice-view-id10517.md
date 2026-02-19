@@ -1,3 +1,10 @@
+---
+topic_id: 10517
+title: "Scaling Volume In Slice View"
+date: 2020-03-03
+url: https://discourse.slicer.org/t/10517
+---
+
 # Scaling volume in slice view
 
 **Topic ID**: 10517

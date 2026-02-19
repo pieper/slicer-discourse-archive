@@ -1,3 +1,10 @@
+---
+topic_id: 18226
+title: "My Segment Is Flipped When Exported When Opening In Mricron"
+date: 2021-06-19
+url: https://discourse.slicer.org/t/18226
+---
+
 # My segment is flipped when exported when opening in MRIcron
 
 **Topic ID**: 18226

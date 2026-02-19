@@ -1,3 +1,10 @@
+---
+topic_id: 26582
+title: "Circular Roi In Mri Image"
+date: 2022-12-05
+url: https://discourse.slicer.org/t/26582
+---
+
 # Circular ROI in MRI image
 
 **Topic ID**: 26582

@@ -1,3 +1,10 @@
+---
+topic_id: 35885
+title: "I Want To Count Number Of Voxel Pixel"
+date: 2024-05-03
+url: https://discourse.slicer.org/t/35885
+---
+
 # I want to count number of voxel/pixel
 
 **Topic ID**: 35885

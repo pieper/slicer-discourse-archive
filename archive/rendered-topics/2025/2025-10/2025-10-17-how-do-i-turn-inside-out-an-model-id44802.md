@@ -1,3 +1,10 @@
+---
+topic_id: 44802
+title: "How Do I Turn Inside Out An Model"
+date: 2025-10-17
+url: https://discourse.slicer.org/t/44802
+---
+
 # How do I "turn inside out" an model?
 
 **Topic ID**: 44802

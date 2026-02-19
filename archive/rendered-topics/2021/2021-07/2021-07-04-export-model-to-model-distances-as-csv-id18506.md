@@ -1,3 +1,10 @@
+---
+topic_id: 18506
+title: "Export Model To Model Distances As Csv"
+date: 2021-07-04
+url: https://discourse.slicer.org/t/18506
+---
+
 # Export model to model distances as.csv
 
 **Topic ID**: 18506

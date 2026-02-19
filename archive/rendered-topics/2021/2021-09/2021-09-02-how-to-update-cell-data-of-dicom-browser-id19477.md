@@ -1,3 +1,10 @@
+---
+topic_id: 19477
+title: "How To Update Cell Data Of Dicom Browser"
+date: 2021-09-02
+url: https://discourse.slicer.org/t/19477
+---
+
 # How to update cell data of dicom browser?
 
 **Topic ID**: 19477

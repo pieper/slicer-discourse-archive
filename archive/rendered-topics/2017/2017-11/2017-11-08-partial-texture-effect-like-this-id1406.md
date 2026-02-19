@@ -1,3 +1,10 @@
+---
+topic_id: 1406
+title: "Partial Texture Effect Like This"
+date: 2017-11-08
+url: https://discourse.slicer.org/t/1406
+---
+
 # Partial texture effect like this
 
 **Topic ID**: 1406

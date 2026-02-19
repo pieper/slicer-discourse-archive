@@ -1,3 +1,10 @@
+---
+topic_id: 44482
+title: "Applying B Spline Transform To Rtdose Rtstructre"
+date: 2025-09-15
+url: https://discourse.slicer.org/t/44482
+---
+
 # Applying B-spline Transform to RTDose/RTStructre
 
 **Topic ID**: 44482

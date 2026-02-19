@@ -1,3 +1,10 @@
+---
+topic_id: 6885
+title: "Support For Keyframe Based Animation"
+date: 2019-05-21
+url: https://discourse.slicer.org/t/6885
+---
+
 # Support for keyframe based animation
 
 **Topic ID**: 6885

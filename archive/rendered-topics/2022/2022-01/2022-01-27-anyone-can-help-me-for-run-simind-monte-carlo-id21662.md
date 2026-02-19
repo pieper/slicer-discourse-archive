@@ -1,3 +1,10 @@
+---
+topic_id: 21662
+title: "Anyone Can Help Me For Run Simind Monte Carlo"
+date: 2022-01-27
+url: https://discourse.slicer.org/t/21662
+---
+
 # Anyone can help me for run simind monte carlo?
 
 **Topic ID**: 21662

@@ -1,3 +1,10 @@
+---
+topic_id: 6868
+title: "Saggital And Coronal View Are Distorted Stretched Out"
+date: 2019-05-21
+url: https://discourse.slicer.org/t/6868
+---
+
 # Saggital and Coronal view are distorted (stretched out)
 
 **Topic ID**: 6868

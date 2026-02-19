@@ -1,3 +1,10 @@
+---
+topic_id: 28978
+title: "Warping Transform From Fiducial Registration Doesnt Work Wit"
+date: 2023-04-18
+url: https://discourse.slicer.org/t/28978
+---
+
 # Warping transform from fiducial registration doesnt work with volumes
 
 **Topic ID**: 28978

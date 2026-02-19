@@ -1,3 +1,10 @@
+---
+topic_id: 10478
+title: "Skeletal Representation"
+date: 2020-02-29
+url: https://discourse.slicer.org/t/10478
+---
+
 # Skeletal representation
 
 **Topic ID**: 10478

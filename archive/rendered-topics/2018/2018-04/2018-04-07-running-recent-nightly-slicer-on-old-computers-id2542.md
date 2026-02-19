@@ -1,3 +1,10 @@
+---
+topic_id: 2542
+title: "Running Recent Nightly Slicer On Old Computers"
+date: 2018-04-07
+url: https://discourse.slicer.org/t/2542
+---
+
 # Running recent nightly Slicer on old computers
 
 **Topic ID**: 2542

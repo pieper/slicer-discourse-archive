@@ -1,3 +1,10 @@
+---
+topic_id: 6895
+title: "Why The Slicerdmri Module Can Not Find In Latest Version 4 1"
+date: 2019-05-23
+url: https://discourse.slicer.org/t/6895
+---
+
 # Why the "slicerDMRI" module can not find in latest version(4.10.2)
 
 **Topic ID**: 6895

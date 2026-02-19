@@ -1,3 +1,10 @@
+---
+topic_id: 14829
+title: "Automatic Centerline"
+date: 2020-12-01
+url: https://discourse.slicer.org/t/14829
+---
+
 # Automatic centerline
 
 **Topic ID**: 14829

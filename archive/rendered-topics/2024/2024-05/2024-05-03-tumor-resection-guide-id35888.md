@@ -1,3 +1,10 @@
+---
+topic_id: 35888
+title: "Tumor Resection Guide"
+date: 2024-05-03
+url: https://discourse.slicer.org/t/35888
+---
+
 # Tumor resection guide
 
 **Topic ID**: 35888

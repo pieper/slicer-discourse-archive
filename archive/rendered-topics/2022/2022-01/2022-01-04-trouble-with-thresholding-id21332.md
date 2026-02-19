@@ -1,3 +1,10 @@
+---
+topic_id: 21332
+title: "Trouble With Thresholding"
+date: 2022-01-04
+url: https://discourse.slicer.org/t/21332
+---
+
 # Trouble with thresholding
 
 **Topic ID**: 21332

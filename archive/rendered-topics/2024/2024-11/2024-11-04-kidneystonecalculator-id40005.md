@@ -1,3 +1,10 @@
+---
+topic_id: 40005
+title: "Kidneystonecalculator"
+date: 2024-11-04
+url: https://discourse.slicer.org/t/40005
+---
+
 # KidneyStoneCalculator
 
 **Topic ID**: 40005

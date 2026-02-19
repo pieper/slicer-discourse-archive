@@ -1,3 +1,10 @@
+---
+topic_id: 37872
+title: "Failed To Build Slicer Cause The Ctk Build Exited With Code"
+date: 2024-08-14
+url: https://discourse.slicer.org/t/37872
+---
+
 # Failed to build Slicer cause the CTK.build exited with code 1
 
 **Topic ID**: 37872

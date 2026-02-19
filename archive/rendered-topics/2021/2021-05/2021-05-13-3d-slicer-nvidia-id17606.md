@@ -1,3 +1,10 @@
+---
+topic_id: 17606
+title: "3D Slicer Nvidia"
+date: 2021-05-13
+url: https://discourse.slicer.org/t/17606
+---
+
 # 3d slicer nvidia 
 
 **Topic ID**: 17606

@@ -1,3 +1,10 @@
+---
+topic_id: 6260
+title: "Sitk Can It Be Ignored While Building"
+date: 2019-03-24
+url: https://discourse.slicer.org/t/6260
+---
+
 # SITK : can it be ignored while building?
 
 **Topic ID**: 6260

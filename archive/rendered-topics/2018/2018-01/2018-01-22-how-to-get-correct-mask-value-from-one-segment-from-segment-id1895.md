@@ -1,3 +1,10 @@
+---
+topic_id: 1895
+title: "How To Get Correct Mask Value From One Segment From Segment"
+date: 2018-01-22
+url: https://discourse.slicer.org/t/1895
+---
+
 # How to get correct mask value from one segment from Segment Editor?
 
 **Topic ID**: 1895

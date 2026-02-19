@@ -1,3 +1,10 @@
+---
+topic_id: 8650
+title: "Problems Uploading Dicom Files"
+date: 2019-10-02
+url: https://discourse.slicer.org/t/8650
+---
+
 # Problems uploading DICOM files
 
 **Topic ID**: 8650

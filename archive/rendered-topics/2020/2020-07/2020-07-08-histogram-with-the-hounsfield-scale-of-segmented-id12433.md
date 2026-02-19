@@ -1,3 +1,10 @@
+---
+topic_id: 12433
+title: "Histogram With The Hounsfield Scale Of Segmented"
+date: 2020-07-08
+url: https://discourse.slicer.org/t/12433
+---
+
 # Histogram with the Hounsfield scale of segmented
 
 **Topic ID**: 12433

@@ -1,3 +1,10 @@
+---
+topic_id: 26715
+title: "Totalsegmentator Error At First Run Command Pip Install Git"
+date: 2022-12-13
+url: https://discourse.slicer.org/t/26715
+---
+
 # TotalSegmentator error at first run: "Command ‘pip’, ‘install’, ‘git+https://github.com/wasserth/TotalSegmentator.git’, ‘–no-deps’]’ returned non-zero exit status"
 
 **Topic ID**: 26715

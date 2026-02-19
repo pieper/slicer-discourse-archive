@@ -1,3 +1,10 @@
+---
+topic_id: 13212
+title: "Create Equidistant Curves On A Given Surface"
+date: 2020-08-28
+url: https://discourse.slicer.org/t/13212
+---
+
 # Create equidistant curves on a given surface
 
 **Topic ID**: 13212

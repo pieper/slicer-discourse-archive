@@ -1,3 +1,10 @@
+---
+topic_id: 29138
+title: "Delete Current Volume And Switch Next Volume"
+date: 2023-04-26
+url: https://discourse.slicer.org/t/29138
+---
+
 # delete current volume and switch next volume.
 
 **Topic ID**: 29138

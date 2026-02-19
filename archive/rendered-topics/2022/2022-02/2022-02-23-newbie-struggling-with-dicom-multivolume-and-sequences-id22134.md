@@ -1,3 +1,10 @@
+---
+topic_id: 22134
+title: "Newbie Struggling With Dicom Multivolume And Sequences"
+date: 2022-02-23
+url: https://discourse.slicer.org/t/22134
+---
+
 # [Newbie] Struggling with DICOM, MultiVolume and Sequences
 
 **Topic ID**: 22134

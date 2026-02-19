@@ -1,3 +1,10 @@
+---
+topic_id: 12830
+title: "Exporting Rigid Registration Result As Transform Results In"
+date: 2020-08-03
+url: https://discourse.slicer.org/t/12830
+---
+
 # Exporting Rigid Registration result as Transform results in strange errors
 
 **Topic ID**: 12830

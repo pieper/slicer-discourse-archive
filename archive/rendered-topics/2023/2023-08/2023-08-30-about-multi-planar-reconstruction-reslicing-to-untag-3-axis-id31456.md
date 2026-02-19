@@ -1,3 +1,10 @@
+---
+topic_id: 31456
+title: "About Multi Planar Reconstruction Reslicing To Untag 3 Axis"
+date: 2023-08-30
+url: https://discourse.slicer.org/t/31456
+---
+
 # About multi-planar reconstruction reslicing to untag 3 axis
 
 **Topic ID**: 31456

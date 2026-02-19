@@ -1,3 +1,10 @@
+---
+topic_id: 6753
+title: "Easier Sharing Of Projectweek Website Links"
+date: 2019-05-10
+url: https://discourse.slicer.org/t/6753
+---
+
 # Easier sharing of projectweek website links
 
 **Topic ID**: 6753

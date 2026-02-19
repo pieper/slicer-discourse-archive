@@ -1,3 +1,10 @@
+---
+topic_id: 27926
+title: "Curves Plane Without Straightening"
+date: 2023-02-20
+url: https://discourse.slicer.org/t/27926
+---
+
 # Curves plane without straightening
 
 **Topic ID**: 27926

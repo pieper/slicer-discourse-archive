@@ -1,3 +1,10 @@
+---
+topic_id: 30578
+title: "Cannot Perform Aruco Marker Tracking"
+date: 2023-07-13
+url: https://discourse.slicer.org/t/30578
+---
+
 # Cannot perform Aruco marker tracking
 
 **Topic ID**: 30578

@@ -1,3 +1,10 @@
+---
+topic_id: 31416
+title: "Change Default Threshold While Masking"
+date: 2023-08-29
+url: https://discourse.slicer.org/t/31416
+---
+
 # Change default threshold while masking
 
 **Topic ID**: 31416

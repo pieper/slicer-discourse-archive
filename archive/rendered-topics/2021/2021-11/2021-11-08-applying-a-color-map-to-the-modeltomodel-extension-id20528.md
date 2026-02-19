@@ -1,3 +1,10 @@
+---
+topic_id: 20528
+title: "Applying A Color Map To The Modeltomodel Extension"
+date: 2021-11-08
+url: https://discourse.slicer.org/t/20528
+---
+
 # Applying a Color Map to the ModeltoModel extension
 
 **Topic ID**: 20528

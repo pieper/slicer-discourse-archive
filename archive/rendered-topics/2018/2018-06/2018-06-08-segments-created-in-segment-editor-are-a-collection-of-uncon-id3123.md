@@ -1,3 +1,10 @@
+---
+topic_id: 3123
+title: "Segments Created In Segment Editor Are A Collection Of Uncon"
+date: 2018-06-08
+url: https://discourse.slicer.org/t/3123
+---
+
 # Segments created in segment editor are a collection of unconnected stripes
 
 **Topic ID**: 3123

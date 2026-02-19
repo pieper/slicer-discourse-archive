@@ -1,3 +1,10 @@
+---
+topic_id: 6414
+title: "How To Reduce Size Of The Stl File Generated Through Python"
+date: 2019-04-05
+url: https://discourse.slicer.org/t/6414
+---
+
 # How to reduce size of the stl file generated through python script?
 
 **Topic ID**: 6414

@@ -1,3 +1,10 @@
+---
+topic_id: 38084
+title: "How To Use Latest 3D Slicer In Machine Without Gpu"
+date: 2024-08-28
+url: https://discourse.slicer.org/t/38084
+---
+
 # How to use latest 3D Slicer in machine without GPU
 
 **Topic ID**: 38084

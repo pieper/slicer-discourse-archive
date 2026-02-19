@@ -1,3 +1,10 @@
+---
+topic_id: 24820
+title: "How To Keep Up With The Pace Of Learning"
+date: 2022-08-18
+url: https://discourse.slicer.org/t/24820
+---
+
 # How to keep up with the pace of learning
 
 **Topic ID**: 24820

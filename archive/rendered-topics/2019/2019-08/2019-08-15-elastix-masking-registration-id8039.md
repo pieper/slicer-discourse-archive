@@ -1,3 +1,10 @@
+---
+topic_id: 8039
+title: "Elastix Masking Registration"
+date: 2019-08-15
+url: https://discourse.slicer.org/t/8039
+---
+
 # Elastix masking registration
 
 **Topic ID**: 8039

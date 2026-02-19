@@ -1,3 +1,10 @@
+---
+topic_id: 43416
+title: "Biomedical Engineering Student Introduction"
+date: 2025-06-18
+url: https://discourse.slicer.org/t/43416
+---
+
 # Biomedical engineering student introduction
 
 **Topic ID**: 43416

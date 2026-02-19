@@ -1,3 +1,10 @@
+---
+topic_id: 7400
+title: "Only Black Slices Upon Importing Nrrd From 3Dslicer"
+date: 2019-07-03
+url: https://discourse.slicer.org/t/7400
+---
+
 # Only black slices upon importing nrrd from 3DSlicer
 
 **Topic ID**: 7400

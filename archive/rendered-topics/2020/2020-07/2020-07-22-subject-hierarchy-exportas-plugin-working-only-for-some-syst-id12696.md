@@ -1,3 +1,10 @@
+---
+topic_id: 12696
+title: "Subject Hierarchy Exportas Plugin Working Only For Some Syst"
+date: 2020-07-22
+url: https://discourse.slicer.org/t/12696
+---
+
 # Subject Hierarchy ExportAs plugin working only for some systems
 
 **Topic ID**: 12696

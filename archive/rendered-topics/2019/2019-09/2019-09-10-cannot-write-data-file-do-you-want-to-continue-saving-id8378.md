@@ -1,3 +1,10 @@
+---
+topic_id: 8378
+title: "Cannot Write Data File Do You Want To Continue Saving"
+date: 2019-09-10
+url: https://discourse.slicer.org/t/8378
+---
+
 # "Cannot write data file... Do you want to continue Saving?"
 
 **Topic ID**: 8378

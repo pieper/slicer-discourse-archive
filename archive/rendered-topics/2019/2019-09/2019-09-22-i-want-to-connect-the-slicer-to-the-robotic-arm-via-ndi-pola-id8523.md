@@ -1,3 +1,10 @@
+---
+topic_id: 8523
+title: "I Want To Connect The Slicer To The Robotic Arm Via Ndi Pola"
+date: 2019-09-22
+url: https://discourse.slicer.org/t/8523
+---
+
 # I want to connect the slicer to the robotic arm via NDI Polaris Vicra
 
 **Topic ID**: 8523

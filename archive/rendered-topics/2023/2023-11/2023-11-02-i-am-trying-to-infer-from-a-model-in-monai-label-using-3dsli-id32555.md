@@ -1,3 +1,10 @@
+---
+topic_id: 32555
+title: "I Am Trying To Infer From A Model In Monai Label Using 3Dsli"
+date: 2023-11-02
+url: https://discourse.slicer.org/t/32555
+---
+
 # I am trying to infer from a model in monai label using 3DSlicer but I am running out of GPU memory
 
 **Topic ID**: 32555

@@ -1,3 +1,10 @@
+---
+topic_id: 40420
+title: "Haemostatic Clips"
+date: 2024-11-28
+url: https://discourse.slicer.org/t/40420
+---
+
 # Haemostatic clips
 
 **Topic ID**: 40420

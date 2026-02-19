@@ -1,3 +1,10 @@
+---
+topic_id: 31977
+title: "How To Retraining The Whole Body Ct Segmentation In The Mona"
+date: 2023-10-01
+url: https://discourse.slicer.org/t/31977
+---
+
 # How to retraining the whole-body CT segmentation in the MONAI model zoo?
 
 **Topic ID**: 31977

@@ -1,3 +1,10 @@
+---
+topic_id: 2478
+title: "Fill Holes After Threshold Based Bone Segmentation In Ct"
+date: 2018-03-30
+url: https://discourse.slicer.org/t/2478
+---
+
 # Fill holes after threshold-based bone segmentation in CT
 
 **Topic ID**: 2478

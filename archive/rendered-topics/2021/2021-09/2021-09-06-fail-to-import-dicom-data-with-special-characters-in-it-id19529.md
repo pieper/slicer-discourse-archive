@@ -1,3 +1,10 @@
+---
+topic_id: 19529
+title: "Fail To Import Dicom Data With Special Characters In It"
+date: 2021-09-06
+url: https://discourse.slicer.org/t/19529
+---
+
 # Fail to import DICOM data with special characters in it
 
 **Topic ID**: 19529

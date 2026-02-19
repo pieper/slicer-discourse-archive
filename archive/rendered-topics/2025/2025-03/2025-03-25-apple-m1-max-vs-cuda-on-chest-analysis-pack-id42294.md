@@ -1,3 +1,10 @@
+---
+topic_id: 42294
+title: "Apple M1 Max Vs Cuda On Chest Analysis Pack"
+date: 2025-03-25
+url: https://discourse.slicer.org/t/42294
+---
+
 # Apple M1 Max vs CUDA on chest analysis pack
 
 **Topic ID**: 42294

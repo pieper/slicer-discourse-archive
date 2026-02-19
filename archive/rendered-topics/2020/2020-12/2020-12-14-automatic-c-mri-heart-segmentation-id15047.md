@@ -1,3 +1,10 @@
+---
+topic_id: 15047
+title: "Automatic C Mri Heart Segmentation"
+date: 2020-12-14
+url: https://discourse.slicer.org/t/15047
+---
+
 # Automatic c-MRI heart segmentation
 
 **Topic ID**: 15047

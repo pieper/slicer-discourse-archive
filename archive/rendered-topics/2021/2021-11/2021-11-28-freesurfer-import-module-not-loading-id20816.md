@@ -1,3 +1,10 @@
+---
+topic_id: 20816
+title: "Freesurfer Import Module Not Loading"
+date: 2021-11-28
+url: https://discourse.slicer.org/t/20816
+---
+
 # Freesurfer import module not loading
 
 **Topic ID**: 20816

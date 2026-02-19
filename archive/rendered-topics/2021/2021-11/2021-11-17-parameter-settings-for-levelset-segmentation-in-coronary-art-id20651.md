@@ -1,3 +1,10 @@
+---
+topic_id: 20651
+title: "Parameter Settings For Levelset Segmentation In Coronary Art"
+date: 2021-11-17
+url: https://discourse.slicer.org/t/20651
+---
+
 # Parameter settings for Levelset segmentation in coronary artery segmentation
 
 **Topic ID**: 20651

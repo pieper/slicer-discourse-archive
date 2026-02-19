@@ -1,3 +1,10 @@
+---
+topic_id: 17640
+title: "Smoothing Factor Always Reset To 0 5 On Reload"
+date: 2021-05-16
+url: https://discourse.slicer.org/t/17640
+---
+
 # Smoothing factor always reset to 0.5 on reload
 
 **Topic ID**: 17640

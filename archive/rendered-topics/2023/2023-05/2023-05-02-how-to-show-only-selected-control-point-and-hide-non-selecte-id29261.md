@@ -1,3 +1,10 @@
+---
+topic_id: 29261
+title: "How To Show Only Selected Control Point And Hide Non Selecte"
+date: 2023-05-02
+url: https://discourse.slicer.org/t/29261
+---
+
 # How to show only selected control point, and hide non selected in mark ups
 
 **Topic ID**: 29261

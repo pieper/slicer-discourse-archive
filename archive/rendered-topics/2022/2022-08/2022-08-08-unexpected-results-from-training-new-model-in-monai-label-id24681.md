@@ -1,3 +1,10 @@
+---
+topic_id: 24681
+title: "Unexpected Results From Training New Model In Monai Label"
+date: 2022-08-08
+url: https://discourse.slicer.org/t/24681
+---
+
 # Unexpected results from training new model in Monai Label
 
 **Topic ID**: 24681

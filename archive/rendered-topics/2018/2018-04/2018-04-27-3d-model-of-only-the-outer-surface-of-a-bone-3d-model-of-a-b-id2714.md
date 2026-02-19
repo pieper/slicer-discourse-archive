@@ -1,3 +1,10 @@
+---
+topic_id: 2714
+title: "3D Model Of Only The Outer Surface Of A Bone 3D Model Of A B"
+date: 2018-04-27
+url: https://discourse.slicer.org/t/2714
+---
+
 # 3D model of only the outer surface of a bone+ 3D model of a bone
 
 **Topic ID**: 2714

@@ -1,3 +1,10 @@
+---
+topic_id: 26138
+title: "Conversion From 7Z To Mrb File"
+date: 2022-11-08
+url: https://discourse.slicer.org/t/26138
+---
+
 # Conversion from 7z to mrb file
 
 **Topic ID**: 26138

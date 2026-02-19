@@ -1,3 +1,10 @@
+---
+topic_id: 36540
+title: "Load Data Header Modified By Pynrrd Without Writing"
+date: 2024-06-01
+url: https://discourse.slicer.org/t/36540
+---
+
 # Load data, header modified by pynrrd without writing
 
 **Topic ID**: 36540

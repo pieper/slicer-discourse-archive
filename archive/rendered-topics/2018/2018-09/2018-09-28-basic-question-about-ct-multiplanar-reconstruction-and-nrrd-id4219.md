@@ -1,3 +1,10 @@
+---
+topic_id: 4219
+title: "Basic Question About Ct Multiplanar Reconstruction And Nrrd"
+date: 2018-09-28
+url: https://discourse.slicer.org/t/4219
+---
+
 # Basic question about CT MultiPlanar Reconstruction and NRRD files
 
 **Topic ID**: 4219

@@ -1,3 +1,10 @@
+---
+topic_id: 13069
+title: "Enhance Fissures In Chest Ct Images"
+date: 2020-08-18
+url: https://discourse.slicer.org/t/13069
+---
+
 # Enhance fissures in Chest CT images
 
 **Topic ID**: 13069

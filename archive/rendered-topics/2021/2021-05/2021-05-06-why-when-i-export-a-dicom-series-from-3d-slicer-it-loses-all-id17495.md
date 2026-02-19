@@ -1,3 +1,10 @@
+---
+topic_id: 17495
+title: "Why When I Export A Dicom Series From 3D Slicer It Loses All"
+date: 2021-05-06
+url: https://discourse.slicer.org/t/17495
+---
+
 # Why when I export a DICOM series from 3D Slicer it loses all original DICOM tags?
 
 **Topic ID**: 17495

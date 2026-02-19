@@ -1,3 +1,10 @@
+---
+topic_id: 4054
+title: "Volume Model Has Black Box Around It"
+date: 2018-09-10
+url: https://discourse.slicer.org/t/4054
+---
+
 # Volume Model has Black box around it
 
 **Topic ID**: 4054

@@ -1,3 +1,10 @@
+---
+topic_id: 27376
+title: "Research Assistant Post Doc"
+date: 2023-01-20
+url: https://discourse.slicer.org/t/27376
+---
+
 # Research Assistant/Post Doc
 
 **Topic ID**: 27376

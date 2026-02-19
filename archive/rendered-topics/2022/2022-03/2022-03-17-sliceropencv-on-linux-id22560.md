@@ -1,3 +1,10 @@
+---
+topic_id: 22560
+title: "Sliceropencv On Linux"
+date: 2022-03-17
+url: https://discourse.slicer.org/t/22560
+---
+
 # SlicerOpenCV on Linux
 
 **Topic ID**: 22560

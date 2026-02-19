@@ -1,3 +1,10 @@
+---
+topic_id: 34
+title: "Forum Page Appearance"
+date: 2017-04-08
+url: https://discourse.slicer.org/t/34
+---
+
 # Forum page appearance
 
 **Topic ID**: 34

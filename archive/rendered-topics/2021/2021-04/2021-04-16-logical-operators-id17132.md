@@ -1,3 +1,10 @@
+---
+topic_id: 17132
+title: "Logical Operators"
+date: 2021-04-16
+url: https://discourse.slicer.org/t/17132
+---
+
 # Logical operators
 
 **Topic ID**: 17132

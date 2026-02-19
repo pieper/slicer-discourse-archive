@@ -1,3 +1,10 @@
+---
+topic_id: 41035
+title: "Questions About Sandbox Segment Cross Segment Area"
+date: 2025-01-11
+url: https://discourse.slicer.org/t/41035
+---
+
 # Questions about Sandbox/Segment Cross-segment Area
 
 **Topic ID**: 41035

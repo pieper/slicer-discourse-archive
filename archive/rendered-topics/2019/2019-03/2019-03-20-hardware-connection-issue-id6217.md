@@ -1,3 +1,10 @@
+---
+topic_id: 6217
+title: "Hardware Connection Issue"
+date: 2019-03-20
+url: https://discourse.slicer.org/t/6217
+---
+
 # Hardware connection issue
 
 **Topic ID**: 6217

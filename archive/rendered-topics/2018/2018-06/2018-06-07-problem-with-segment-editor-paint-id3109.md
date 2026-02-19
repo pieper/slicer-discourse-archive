@@ -1,3 +1,10 @@
+---
+topic_id: 3109
+title: "Problem With Segment Editor Paint"
+date: 2018-06-07
+url: https://discourse.slicer.org/t/3109
+---
+
 # Problem with segment editor paint
 
 **Topic ID**: 3109

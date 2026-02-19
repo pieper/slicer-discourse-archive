@@ -1,3 +1,10 @@
+---
+topic_id: 25517
+title: "Control Point Labels Show Through 3D Volume In Volume Render"
+date: 2022-10-03
+url: https://discourse.slicer.org/t/25517
+---
+
 # Control point labels show through 3D volume in volume rendering
 
 **Topic ID**: 25517

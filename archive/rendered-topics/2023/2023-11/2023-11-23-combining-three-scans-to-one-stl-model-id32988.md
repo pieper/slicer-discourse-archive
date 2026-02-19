@@ -1,3 +1,10 @@
+---
+topic_id: 32988
+title: "Combining Three Scans To One Stl Model"
+date: 2023-11-23
+url: https://discourse.slicer.org/t/32988
+---
+
 # Combining three scans to one stl/model
 
 **Topic ID**: 32988

@@ -1,3 +1,10 @@
+---
+topic_id: 41189
+title: "Is It Better To Integrate Settings From Module B Into Module"
+date: 2025-01-21
+url: https://discourse.slicer.org/t/41189
+---
+
 # Is it better to integrate settings from Module B into Module A for improved user workflow (or user convenience)?
 
 **Topic ID**: 41189

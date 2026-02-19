@@ -1,3 +1,10 @@
+---
+topic_id: 25156
+title: "Where To Refer For Common Development Setup Tools Used Stati"
+date: 2022-09-08
+url: https://discourse.slicer.org/t/25156
+---
+
 # Where to refer for common development setup, tools used (static code analysis, tests, debuggers, etc.), coding conventions and guidelines?
 
 **Topic ID**: 25156

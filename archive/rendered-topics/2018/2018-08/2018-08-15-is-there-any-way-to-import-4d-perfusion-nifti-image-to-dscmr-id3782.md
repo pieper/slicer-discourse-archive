@@ -1,3 +1,10 @@
+---
+topic_id: 3782
+title: "Is There Any Way To Import 4D Perfusion Nifti Image To Dscmr"
+date: 2018-08-15
+url: https://discourse.slicer.org/t/3782
+---
+
 # Is there any way to import 4D perfusion NIFTI image to DSCMRIAnalysis?
 
 **Topic ID**: 3782

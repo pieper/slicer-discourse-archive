@@ -1,3 +1,10 @@
+---
+topic_id: 2126
+title: "Multi Cpu Configurations"
+date: 2018-02-20
+url: https://discourse.slicer.org/t/2126
+---
+
 # Multi CPU configurations
 
 **Topic ID**: 2126

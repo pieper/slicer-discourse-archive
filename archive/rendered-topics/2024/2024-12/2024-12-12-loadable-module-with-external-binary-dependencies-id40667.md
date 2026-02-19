@@ -1,3 +1,10 @@
+---
+topic_id: 40667
+title: "Loadable Module With External Binary Dependencies"
+date: 2024-12-12
+url: https://discourse.slicer.org/t/40667
+---
+
 # Loadable module with external binary dependencies
 
 **Topic ID**: 40667

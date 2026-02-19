@@ -1,3 +1,10 @@
+---
+topic_id: 20032
+title: "Tool To Create Or Remove Surface"
+date: 2021-10-06
+url: https://discourse.slicer.org/t/20032
+---
+
 # Tool to create or remove surface
 
 **Topic ID**: 20032

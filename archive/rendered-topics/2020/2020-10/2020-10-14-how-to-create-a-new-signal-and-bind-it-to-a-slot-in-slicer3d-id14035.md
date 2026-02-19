@@ -1,3 +1,10 @@
+---
+topic_id: 14035
+title: "How To Create A New Signal And Bind It To A Slot In Slicer3D"
+date: 2020-10-14
+url: https://discourse.slicer.org/t/14035
+---
+
 # How to create a new signal and bind it to a slot in slicer3d?
 
 **Topic ID**: 14035

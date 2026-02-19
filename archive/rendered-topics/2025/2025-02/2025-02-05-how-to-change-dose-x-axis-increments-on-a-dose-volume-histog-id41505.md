@@ -1,3 +1,10 @@
+---
+topic_id: 41505
+title: "How To Change Dose X Axis Increments On A Dose Volume Histog"
+date: 2025-02-05
+url: https://discourse.slicer.org/t/41505
+---
+
 # How to change Dose (X-axis) increments on a Dose-Volume-Histogram?
 
 **Topic ID**: 41505

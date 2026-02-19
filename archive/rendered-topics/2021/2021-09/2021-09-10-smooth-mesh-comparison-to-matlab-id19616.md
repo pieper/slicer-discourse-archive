@@ -1,3 +1,10 @@
+---
+topic_id: 19616
+title: "Smooth Mesh Comparison To Matlab"
+date: 2021-09-10
+url: https://discourse.slicer.org/t/19616
+---
+
 # Smooth Mesh? Comparison to MATLAB
 
 **Topic ID**: 19616

@@ -1,3 +1,10 @@
+---
+topic_id: 23735
+title: "How To Use Linear Transform To Convert X Y Coordinate To Ras"
+date: 2022-06-06
+url: https://discourse.slicer.org/t/23735
+---
+
 # How to use linear transform to convert X,Y Coordinate to RAS coordinates
 
 **Topic ID**: 23735

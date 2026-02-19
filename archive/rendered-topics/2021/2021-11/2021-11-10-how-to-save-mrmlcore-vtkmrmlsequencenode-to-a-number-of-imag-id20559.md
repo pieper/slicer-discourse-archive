@@ -1,3 +1,10 @@
+---
+topic_id: 20559
+title: "How To Save Mrmlcore Vtkmrmlsequencenode To A Number Of Imag"
+date: 2021-11-10
+url: https://discourse.slicer.org/t/20559
+---
+
 # How to save MRMLCore.vtkMRMLSequenceNode to a number of images
 
 **Topic ID**: 20559

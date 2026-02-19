@@ -1,3 +1,10 @@
+---
+topic_id: 41619
+title: "Slicer Vmtk Centerline Network Model In Coronary Artery"
+date: 2025-02-11
+url: https://discourse.slicer.org/t/41619
+---
+
 # Slicer vmtk centerline network model in coronary artery
 
 **Topic ID**: 41619

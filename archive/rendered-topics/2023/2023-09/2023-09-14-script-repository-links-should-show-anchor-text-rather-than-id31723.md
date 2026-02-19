@@ -1,3 +1,10 @@
+---
+topic_id: 31723
+title: "Script Repository Links Should Show Anchor Text Rather Than"
+date: 2023-09-14
+url: https://discourse.slicer.org/t/31723
+---
+
 # Script repository links should show anchor text rather than generic text
 
 **Topic ID**: 31723

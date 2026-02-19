@@ -1,3 +1,10 @@
+---
+topic_id: 40539
+title: "Seeking Guidance Imu Based Tracking For Real Time 3D Ultraso"
+date: 2024-12-06
+url: https://discourse.slicer.org/t/40539
+---
+
 # Seeking Guidance: IMU-based Tracking for Real-time 3D Ultrasound Reconstruction using Plus Toolkit and Slicer
 
 **Topic ID**: 40539

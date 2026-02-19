@@ -1,3 +1,10 @@
+---
+topic_id: 40592
+title: "How To Extract 2D Flat Surface From Contour Planes"
+date: 2024-12-09
+url: https://discourse.slicer.org/t/40592
+---
+
 # How to extract 2d flat surface from contour planes 
 
 **Topic ID**: 40592

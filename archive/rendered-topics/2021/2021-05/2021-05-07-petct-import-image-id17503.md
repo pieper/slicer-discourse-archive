@@ -1,3 +1,10 @@
+---
+topic_id: 17503
+title: "Petct Import Image"
+date: 2021-05-07
+url: https://discourse.slicer.org/t/17503
+---
+
 # PETCT（Import image）
 
 **Topic ID**: 17503

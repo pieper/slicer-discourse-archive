@@ -1,3 +1,10 @@
+---
+topic_id: 35655
+title: "Segment Surface Calculation"
+date: 2024-04-22
+url: https://discourse.slicer.org/t/35655
+---
+
 # Segment surface calculation
 
 **Topic ID**: 35655

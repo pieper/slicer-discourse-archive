@@ -1,3 +1,10 @@
+---
+topic_id: 33607
+title: "Odd Clipping Artifact In 3D View When Opening Older Mrml Fil"
+date: 2024-01-03
+url: https://discourse.slicer.org/t/33607
+---
+
 # Odd clipping artifact in 3D view when opening older MRML file into 2023-12-31 preview
 
 **Topic ID**: 33607

@@ -1,3 +1,10 @@
+---
+topic_id: 33064
+title: "Clarius Cast Create 3D Volume With Plus"
+date: 2023-11-27
+url: https://discourse.slicer.org/t/33064
+---
+
 # Clarius Cast Create 3D Volume with Plus
 
 **Topic ID**: 33064

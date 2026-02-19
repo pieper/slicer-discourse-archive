@@ -1,3 +1,10 @@
+---
+topic_id: 35187
+title: "Fail To Install Itk 5 3Rc04 Post3 In 3D Slicer"
+date: 2024-03-31
+url: https://discourse.slicer.org/t/35187
+---
+
 # Fail to install itk 5.3rc04.post3 in 3D Slicer
 
 **Topic ID**: 35187

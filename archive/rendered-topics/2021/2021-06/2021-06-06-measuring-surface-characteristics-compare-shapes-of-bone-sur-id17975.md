@@ -1,3 +1,10 @@
+---
+topic_id: 17975
+title: "Measuring Surface Characteristics Compare Shapes Of Bone Sur"
+date: 2021-06-06
+url: https://discourse.slicer.org/t/17975
+---
+
 # Measuring surface characteristics/compare shapes of bone surfaces
 
 **Topic ID**: 17975

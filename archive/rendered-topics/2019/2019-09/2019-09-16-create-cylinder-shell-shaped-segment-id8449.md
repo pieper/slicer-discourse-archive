@@ -1,3 +1,10 @@
+---
+topic_id: 8449
+title: "Create Cylinder Shell Shaped Segment"
+date: 2019-09-16
+url: https://discourse.slicer.org/t/8449
+---
+
 # Create cylinder shell shaped segment
 
 **Topic ID**: 8449

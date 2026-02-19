@@ -1,3 +1,10 @@
+---
+topic_id: 42375
+title: "New Volumes Modules Changes"
+date: 2025-03-30
+url: https://discourse.slicer.org/t/42375
+---
+
 # New volumes modules changes
 
 **Topic ID**: 42375

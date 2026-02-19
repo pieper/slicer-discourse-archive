@@ -1,3 +1,10 @@
+---
+topic_id: 10385
+title: "Dti Statistics For A Specific Roi Of A Fiber"
+date: 2020-02-21
+url: https://discourse.slicer.org/t/10385
+---
+
 # DTI Statistics for a specific ROI of a fiber?
 
 **Topic ID**: 10385

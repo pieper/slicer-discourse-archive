@@ -1,3 +1,10 @@
+---
+topic_id: 8167
+title: "Can I Use A Spherical Brush To Select The Edges Of A Mesh In"
+date: 2019-08-25
+url: https://discourse.slicer.org/t/8167
+---
+
 # Can I use a spherical brush to select the edges of a mesh in a three-dimensional window?
 
 **Topic ID**: 8167

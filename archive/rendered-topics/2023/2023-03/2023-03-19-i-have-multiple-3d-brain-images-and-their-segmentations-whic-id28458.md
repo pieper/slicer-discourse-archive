@@ -1,3 +1,10 @@
+---
+topic_id: 28458
+title: "I Have Multiple 3D Brain Images And Their Segmentations Whic"
+date: 2023-03-19
+url: https://discourse.slicer.org/t/28458
+---
+
 # I have multiple 3D brain images and their segmentations. Which radiomics feature are relevant?
 
 **Topic ID**: 28458

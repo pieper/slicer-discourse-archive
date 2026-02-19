@@ -1,3 +1,10 @@
+---
+topic_id: 13681
+title: "Tree View Node Types And Subclassing"
+date: 2020-09-23
+url: https://discourse.slicer.org/t/13681
+---
+
 # Tree view node types and subclassing
 
 **Topic ID**: 13681

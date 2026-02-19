@@ -1,3 +1,10 @@
+---
+topic_id: 39609
+title: "Abl Temporal Bone Segmentation Module Error"
+date: 2024-10-09
+url: https://discourse.slicer.org/t/39609
+---
+
 # ABL Temporal Bone Segmentation Module ERROR
 
 **Topic ID**: 39609

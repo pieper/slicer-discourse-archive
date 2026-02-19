@@ -1,3 +1,10 @@
+---
+topic_id: 20124
+title: "How To Find And Install Anomalousfilters In 3D Slicer 4 13 0"
+date: 2021-10-13
+url: https://discourse.slicer.org/t/20124
+---
+
 # How to find and install AnomalousFilters in 3D Slicer 4.13.0?
 
 **Topic ID**: 20124

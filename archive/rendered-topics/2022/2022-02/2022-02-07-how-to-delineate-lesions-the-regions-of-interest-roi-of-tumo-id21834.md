@@ -1,3 +1,10 @@
+---
+topic_id: 21834
+title: "How To Delineate Lesions The Regions Of Interest Roi Of Tumo"
+date: 2022-02-07
+url: https://discourse.slicer.org/t/21834
+---
+
 # how to delineate lesions (the regions of interest “ROI” of tumor) in MRI automatically
 
 **Topic ID**: 21834

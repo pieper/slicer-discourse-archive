@@ -1,3 +1,10 @@
+---
+topic_id: 2337
+title: "Dcm Form Hangs Computer With Sql Failed Error Message"
+date: 2018-03-16
+url: https://discourse.slicer.org/t/2337
+---
+
 # DCM form, hangs computer with SQL Failed error message
 
 **Topic ID**: 2337

@@ -1,3 +1,10 @@
+---
+topic_id: 13763
+title: "Use Pyradiomics For Texture Analysis In Ultrasound Images"
+date: 2020-09-30
+url: https://discourse.slicer.org/t/13763
+---
+
 # Use Pyradiomics for texture analysis in ultrasound images
 
 **Topic ID**: 13763

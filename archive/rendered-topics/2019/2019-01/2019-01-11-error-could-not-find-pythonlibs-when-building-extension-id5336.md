@@ -1,3 +1,10 @@
+---
+topic_id: 5336
+title: "Error Could Not Find Pythonlibs When Building Extension"
+date: 2019-01-11
+url: https://discourse.slicer.org/t/5336
+---
+
 # Error "could not find PythonLibs" when building extension
 
 **Topic ID**: 5336

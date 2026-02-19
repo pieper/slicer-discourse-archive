@@ -1,3 +1,10 @@
+---
+topic_id: 31805
+title: "Change Default Location For Screenshots"
+date: 2023-09-20
+url: https://discourse.slicer.org/t/31805
+---
+
 # Change default location for screenshots
 
 **Topic ID**: 31805

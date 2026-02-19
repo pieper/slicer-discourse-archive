@@ -1,3 +1,10 @@
+---
+topic_id: 12536
+title: "Registration Of Mri Scans"
+date: 2020-07-14
+url: https://discourse.slicer.org/t/12536
+---
+
 # Registration of MRI Scans
 
 **Topic ID**: 12536

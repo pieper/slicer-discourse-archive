@@ -1,3 +1,10 @@
+---
+topic_id: 7607
+title: "Installed Extension Not Visible In The 3D Slicer Module"
+date: 2019-07-16
+url: https://discourse.slicer.org/t/7607
+---
+
 # Installed extension not visible in the 3d slicer module
 
 **Topic ID**: 7607

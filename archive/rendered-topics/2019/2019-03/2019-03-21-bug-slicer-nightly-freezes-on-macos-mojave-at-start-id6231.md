@@ -1,3 +1,10 @@
+---
+topic_id: 6231
+title: "Bug Slicer Nightly Freezes On Macos Mojave At Start"
+date: 2019-03-21
+url: https://discourse.slicer.org/t/6231
+---
+
 # Bug: Slicer nightly freezes on MacOS Mojave at start
 
 **Topic ID**: 6231

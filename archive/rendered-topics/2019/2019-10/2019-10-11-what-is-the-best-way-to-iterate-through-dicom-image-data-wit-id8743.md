@@ -1,3 +1,10 @@
+---
+topic_id: 8743
+title: "What Is The Best Way To Iterate Through Dicom Image Data Wit"
+date: 2019-10-11
+url: https://discourse.slicer.org/t/8743
+---
+
 # What is the best way to iterate through DICOM image data with RTSTRUCT contours in a loadable module?
 
 **Topic ID**: 8743

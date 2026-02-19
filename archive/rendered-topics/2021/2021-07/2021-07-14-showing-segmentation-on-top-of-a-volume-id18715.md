@@ -1,3 +1,10 @@
+---
+topic_id: 18715
+title: "Showing Segmentation On Top Of A Volume"
+date: 2021-07-14
+url: https://discourse.slicer.org/t/18715
+---
+
 # Showing Segmentation on Top of A Volume
 
 **Topic ID**: 18715

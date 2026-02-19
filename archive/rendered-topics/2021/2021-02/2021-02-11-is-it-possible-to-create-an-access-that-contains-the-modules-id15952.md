@@ -1,3 +1,10 @@
+---
+topic_id: 15952
+title: "Is It Possible To Create An Access That Contains The Modules"
+date: 2021-02-11
+url: https://discourse.slicer.org/t/15952
+---
+
 # Is it possible to create an access that contains the modules that we use the most?
 
 **Topic ID**: 15952

@@ -1,3 +1,10 @@
+---
+topic_id: 492
+title: "Including Header Files In An Extension Build"
+date: 2017-06-13
+url: https://discourse.slicer.org/t/492
+---
+
 # Including header files (in an extension build)
 
 **Topic ID**: 492

@@ -1,3 +1,10 @@
+---
+topic_id: 8747
+title: "Registration Ants Syn"
+date: 2019-10-11
+url: https://discourse.slicer.org/t/8747
+---
+
 # Registration ANTs SyN
 
 **Topic ID**: 8747

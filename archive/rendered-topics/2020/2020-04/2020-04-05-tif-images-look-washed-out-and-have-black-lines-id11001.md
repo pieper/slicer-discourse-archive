@@ -1,3 +1,10 @@
+---
+topic_id: 11001
+title: "Tif Images Look Washed Out And Have Black Lines"
+date: 2020-04-05
+url: https://discourse.slicer.org/t/11001
+---
+
 # Tif images look washed out and have black lines
 
 **Topic ID**: 11001

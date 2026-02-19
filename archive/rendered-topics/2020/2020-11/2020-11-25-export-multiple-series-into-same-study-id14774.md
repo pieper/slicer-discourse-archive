@@ -1,3 +1,10 @@
+---
+topic_id: 14774
+title: "Export Multiple Series Into Same Study"
+date: 2020-11-25
+url: https://discourse.slicer.org/t/14774
+---
+
 # Export multiple series into same study
 
 **Topic ID**: 14774

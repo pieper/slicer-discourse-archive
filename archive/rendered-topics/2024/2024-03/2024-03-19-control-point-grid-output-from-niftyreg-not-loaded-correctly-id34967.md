@@ -1,3 +1,10 @@
+---
+topic_id: 34967
+title: "Control Point Grid Output From Niftyreg Not Loaded Correctly"
+date: 2024-03-19
+url: https://discourse.slicer.org/t/34967
+---
+
 # Control point grid output from NiftyReg not loaded correctly
 
 **Topic ID**: 34967

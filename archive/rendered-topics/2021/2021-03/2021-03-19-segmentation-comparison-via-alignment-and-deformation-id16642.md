@@ -1,3 +1,10 @@
+---
+topic_id: 16642
+title: "Segmentation Comparison Via Alignment And Deformation"
+date: 2021-03-19
+url: https://discourse.slicer.org/t/16642
+---
+
 # Segmentation Comparison via alignment and deformation
 
 **Topic ID**: 16642

@@ -1,3 +1,10 @@
+---
+topic_id: 31262
+title: "Intersection Line Problem"
+date: 2023-08-21
+url: https://discourse.slicer.org/t/31262
+---
+
 # Intersection line problem
 
 **Topic ID**: 31262

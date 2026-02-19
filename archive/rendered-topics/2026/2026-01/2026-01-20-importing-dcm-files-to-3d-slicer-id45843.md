@@ -1,3 +1,10 @@
+---
+topic_id: 45843
+title: "Importing Dcm Files To 3D Slicer"
+date: 2026-01-20
+url: https://discourse.slicer.org/t/45843
+---
+
 # Importing dcm files to 3D slicer
 
 **Topic ID**: 45843

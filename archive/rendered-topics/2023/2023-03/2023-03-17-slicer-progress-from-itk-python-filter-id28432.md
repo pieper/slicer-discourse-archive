@@ -1,3 +1,10 @@
+---
+topic_id: 28432
+title: "Slicer Progress From Itk Python Filter"
+date: 2023-03-17
+url: https://discourse.slicer.org/t/28432
+---
+
 # Slicer progress from ITK Python filter
 
 **Topic ID**: 28432

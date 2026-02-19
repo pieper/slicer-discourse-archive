@@ -1,3 +1,10 @@
+---
+topic_id: 14069
+title: "Segmentation W Scissors Tool"
+date: 2020-10-16
+url: https://discourse.slicer.org/t/14069
+---
+
 # Segmentation w/ Scissors Tool
 
 **Topic ID**: 14069

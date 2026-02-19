@@ -1,3 +1,10 @@
+---
+topic_id: 23038
+title: "Slicerants In 3Dslicer"
+date: 2022-04-20
+url: https://discourse.slicer.org/t/23038
+---
+
 # SlicerANTs in 3DSlicer
 
 **Topic ID**: 23038

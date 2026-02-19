@@ -1,3 +1,10 @@
+---
+topic_id: 4159
+title: "Issues During Tbi Segmentation Using Abc"
+date: 2018-09-21
+url: https://discourse.slicer.org/t/4159
+---
+
 # Issues during TBI segmentation using ABC
 
 **Topic ID**: 4159

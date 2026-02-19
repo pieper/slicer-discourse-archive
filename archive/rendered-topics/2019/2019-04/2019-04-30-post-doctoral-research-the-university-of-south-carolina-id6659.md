@@ -1,3 +1,10 @@
+---
+topic_id: 6659
+title: "Post Doctoral Research The University Of South Carolina"
+date: 2019-04-30
+url: https://discourse.slicer.org/t/6659
+---
+
 # Post Doctoral Research @ The University of South Carolina
 
 **Topic ID**: 6659

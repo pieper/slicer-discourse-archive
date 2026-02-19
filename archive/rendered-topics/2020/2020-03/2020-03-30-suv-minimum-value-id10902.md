@@ -1,3 +1,10 @@
+---
+topic_id: 10902
+title: "Suv Minimum Value"
+date: 2020-03-30
+url: https://discourse.slicer.org/t/10902
+---
+
 # SUV minimum value
 
 **Topic ID**: 10902

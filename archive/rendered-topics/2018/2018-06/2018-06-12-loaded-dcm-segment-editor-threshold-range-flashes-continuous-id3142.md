@@ -1,3 +1,10 @@
+---
+topic_id: 3142
+title: "Loaded Dcm Segment Editor Threshold Range Flashes Continuous"
+date: 2018-06-12
+url: https://discourse.slicer.org/t/3142
+---
+
 # Loaded .dcm, Segment Editor, Threshold Range flashes continuously when selected
 
 **Topic ID**: 3142

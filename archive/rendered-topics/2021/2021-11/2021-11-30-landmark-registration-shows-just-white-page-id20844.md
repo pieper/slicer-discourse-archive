@@ -1,3 +1,10 @@
+---
+topic_id: 20844
+title: "Landmark Registration Shows Just White Page"
+date: 2021-11-30
+url: https://discourse.slicer.org/t/20844
+---
+
 # Landmark registration shows just white page
 
 **Topic ID**: 20844

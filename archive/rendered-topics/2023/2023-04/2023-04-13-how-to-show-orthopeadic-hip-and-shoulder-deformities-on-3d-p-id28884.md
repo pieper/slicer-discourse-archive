@@ -1,3 +1,10 @@
+---
+topic_id: 28884
+title: "How To Show Orthopeadic Hip And Shoulder Deformities On 3D P"
+date: 2023-04-13
+url: https://discourse.slicer.org/t/28884
+---
+
 # How to show Orthopeadic hip and shoulder Deformities on 3D prints
 
 **Topic ID**: 28884

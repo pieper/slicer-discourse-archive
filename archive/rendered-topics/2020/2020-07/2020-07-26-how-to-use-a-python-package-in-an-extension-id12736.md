@@ -1,3 +1,10 @@
+---
+topic_id: 12736
+title: "How To Use A Python Package In An Extension"
+date: 2020-07-26
+url: https://discourse.slicer.org/t/12736
+---
+
 # How to use a python package in an extension?
 
 **Topic ID**: 12736

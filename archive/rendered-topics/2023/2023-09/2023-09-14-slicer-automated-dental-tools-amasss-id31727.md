@@ -1,3 +1,10 @@
+---
+topic_id: 31727
+title: "Slicer Automated Dental Tools Amasss"
+date: 2023-09-14
+url: https://discourse.slicer.org/t/31727
+---
+
 # Slicer automated dental tools AMASSS
 
 **Topic ID**: 31727

@@ -1,3 +1,10 @@
+---
+topic_id: 2851
+title: "About Using Slicer With Command Line In Windows"
+date: 2018-05-18
+url: https://discourse.slicer.org/t/2851
+---
+
 # About using Slicer with command line in windows
 
 **Topic ID**: 2851

@@ -1,3 +1,10 @@
+---
+topic_id: 31698
+title: "Displacement Field Invertion And Mean Operation"
+date: 2023-09-14
+url: https://discourse.slicer.org/t/31698
+---
+
 # Displacement field invertion and mean operation
 
 **Topic ID**: 31698

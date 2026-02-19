@@ -1,3 +1,10 @@
+---
+topic_id: 15486
+title: "Mesh Parameterization"
+date: 2021-01-12
+url: https://discourse.slicer.org/t/15486
+---
+
 # Mesh Parameterization
 
 **Topic ID**: 15486

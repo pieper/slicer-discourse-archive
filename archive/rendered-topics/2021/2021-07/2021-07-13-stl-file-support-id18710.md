@@ -1,3 +1,10 @@
+---
+topic_id: 18710
+title: "Stl File Support"
+date: 2021-07-13
+url: https://discourse.slicer.org/t/18710
+---
+
 # STL file support
 
 **Topic ID**: 18710

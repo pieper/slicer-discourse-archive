@@ -1,3 +1,10 @@
+---
+topic_id: 23291
+title: "Show Ecg Curve Plot"
+date: 2022-05-05
+url: https://discourse.slicer.org/t/23291
+---
+
 # Show ECG curve plot
 
 **Topic ID**: 23291

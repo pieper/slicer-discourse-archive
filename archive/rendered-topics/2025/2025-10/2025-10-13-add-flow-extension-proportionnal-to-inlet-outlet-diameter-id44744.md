@@ -1,3 +1,10 @@
+---
+topic_id: 44744
+title: "Add Flow Extension Proportionnal To Inlet Outlet Diameter"
+date: 2025-10-13
+url: https://discourse.slicer.org/t/44744
+---
+
 # Add flow extension proportionnal to inlet/outlet diameter
 
 **Topic ID**: 44744

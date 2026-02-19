@@ -1,3 +1,10 @@
+---
+topic_id: 6801
+title: "Export Segmentation To Labelmap Using Python"
+date: 2019-05-15
+url: https://discourse.slicer.org/t/6801
+---
+
 # Export segmentation to labelmap using python
 
 **Topic ID**: 6801

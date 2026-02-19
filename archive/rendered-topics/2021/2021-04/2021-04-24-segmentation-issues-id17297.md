@@ -1,3 +1,10 @@
+---
+topic_id: 17297
+title: "Segmentation Issues"
+date: 2021-04-24
+url: https://discourse.slicer.org/t/17297
+---
+
 # segmentation issues 
 
 **Topic ID**: 17297

@@ -1,3 +1,10 @@
+---
+topic_id: 27356
+title: "Load Directory Leaves Off A File"
+date: 2023-01-19
+url: https://discourse.slicer.org/t/27356
+---
+
 # Load Directory Leaves Off a File
 
 **Topic ID**: 27356

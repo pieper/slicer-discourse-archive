@@ -1,3 +1,10 @@
+---
+topic_id: 16903
+title: "New Feature Surface Rendering With Ambient Shadows For Impro"
+date: 2021-04-01
+url: https://discourse.slicer.org/t/16903
+---
+
 # New feature: Surface rendering with ambient shadows for improved depth perception
 
 **Topic ID**: 16903

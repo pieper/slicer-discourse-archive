@@ -1,3 +1,10 @@
+---
+topic_id: 44476
+title: "Automated Atlas Alignment"
+date: 2025-09-15
+url: https://discourse.slicer.org/t/44476
+---
+
 # Automated Atlas Alignment
 
 **Topic ID**: 44476

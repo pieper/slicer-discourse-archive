@@ -1,3 +1,10 @@
+---
+topic_id: 23684
+title: "Mask Of Dicom Image"
+date: 2022-06-02
+url: https://discourse.slicer.org/t/23684
+---
+
 # Mask of dicom image
 
 **Topic ID**: 23684

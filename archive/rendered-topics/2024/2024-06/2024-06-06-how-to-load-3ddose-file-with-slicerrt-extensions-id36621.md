@@ -1,3 +1,10 @@
+---
+topic_id: 36621
+title: "How To Load 3Ddose File With Slicerrt Extensions"
+date: 2024-06-06
+url: https://discourse.slicer.org/t/36621
+---
+
 # How to load .3ddose file with SlicerRT extensions
 
 **Topic ID**: 36621

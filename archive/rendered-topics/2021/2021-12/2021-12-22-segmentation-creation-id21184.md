@@ -1,3 +1,10 @@
+---
+topic_id: 21184
+title: "Segmentation Creation"
+date: 2021-12-22
+url: https://discourse.slicer.org/t/21184
+---
+
 # Segmentation creation
 
 **Topic ID**: 21184

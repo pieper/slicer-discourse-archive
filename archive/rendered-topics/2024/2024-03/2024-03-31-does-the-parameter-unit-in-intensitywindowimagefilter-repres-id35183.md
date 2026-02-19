@@ -1,3 +1,10 @@
+---
+topic_id: 35183
+title: "Does The Parameter Unit In Intensitywindowimagefilter Repres"
+date: 2024-03-31
+url: https://discourse.slicer.org/t/35183
+---
+
 # Does the parameter unit in IntensityWindowImageFilter represent the Hounsfield unit?
 
 **Topic ID**: 35183

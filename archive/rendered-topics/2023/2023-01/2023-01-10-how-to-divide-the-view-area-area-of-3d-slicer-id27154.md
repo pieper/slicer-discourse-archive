@@ -1,3 +1,10 @@
+---
+topic_id: 27154
+title: "How To Divide The View Area Area Of 3D Slicer"
+date: 2023-01-10
+url: https://discourse.slicer.org/t/27154
+---
+
 # How to divide the view area area of 3d slicer
 
 **Topic ID**: 27154

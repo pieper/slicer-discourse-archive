@@ -1,3 +1,10 @@
+---
+topic_id: 13758
+title: "Scripted Module Interaction With Adjust Window Level Tool"
+date: 2020-09-29
+url: https://discourse.slicer.org/t/13758
+---
+
 # Scripted module interaction with "Adjust window level" tool
 
 **Topic ID**: 13758

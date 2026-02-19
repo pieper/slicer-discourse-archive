@@ -1,3 +1,10 @@
+---
+topic_id: 43560
+title: "Segmenting Lung Pet Ct"
+date: 2025-07-01
+url: https://discourse.slicer.org/t/43560
+---
+
 # Segmenting lung PET/CT
 
 **Topic ID**: 43560

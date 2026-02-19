@@ -1,3 +1,10 @@
+---
+topic_id: 11895
+title: "Nifti To Dicom Conversion"
+date: 2020-06-06
+url: https://discourse.slicer.org/t/11895
+---
+
 # NIfTI to DICOM conversion
 
 **Topic ID**: 11895

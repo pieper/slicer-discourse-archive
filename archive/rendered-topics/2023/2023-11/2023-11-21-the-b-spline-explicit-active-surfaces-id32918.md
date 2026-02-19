@@ -1,3 +1,10 @@
+---
+topic_id: 32918
+title: "The B Spline Explicit Active Surfaces"
+date: 2023-11-21
+url: https://discourse.slicer.org/t/32918
+---
+
 # The B-Spline Explicit Active Surfaces
 
 **Topic ID**: 32918

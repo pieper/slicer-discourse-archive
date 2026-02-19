@@ -1,3 +1,10 @@
+---
+topic_id: 8070
+title: "Dwi Convert Nifti To Nrrd Gives Extremely Small File Size Un"
+date: 2019-08-17
+url: https://discourse.slicer.org/t/8070
+---
+
 # DWI Convert: .Nifti to .nrrd gives extremely small file size, unable to run in UKF Tractography
 
 **Topic ID**: 8070

@@ -1,3 +1,10 @@
+---
+topic_id: 32167
+title: "Vtkmrmlsequencebrowsernode Playback Speed"
+date: 2023-10-11
+url: https://discourse.slicer.org/t/32167
+---
+
 # vtkMRMLSequenceBrowserNode Playback Speed
 
 **Topic ID**: 32167

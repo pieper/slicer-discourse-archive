@@ -1,3 +1,10 @@
+---
+topic_id: 29557
+title: "Easyclip 3Dslicer"
+date: 2023-05-20
+url: https://discourse.slicer.org/t/29557
+---
+
 # easyclip 3dslicer
 
 **Topic ID**: 29557

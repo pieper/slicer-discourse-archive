@@ -1,3 +1,10 @@
+---
+topic_id: 13827
+title: "How To Overwrite Part Of The Selected Label Map"
+date: 2020-10-02
+url: https://discourse.slicer.org/t/13827
+---
+
 # How to overwrite part of the selected label map
 
 **Topic ID**: 13827

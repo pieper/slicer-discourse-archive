@@ -1,3 +1,10 @@
+---
+topic_id: 20048
+title: "Help In Programming"
+date: 2021-10-07
+url: https://discourse.slicer.org/t/20048
+---
+
 # Help in programming
 
 **Topic ID**: 20048

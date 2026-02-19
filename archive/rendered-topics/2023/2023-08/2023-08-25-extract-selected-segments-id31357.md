@@ -1,3 +1,10 @@
+---
+topic_id: 31357
+title: "Extract Selected Segments"
+date: 2023-08-25
+url: https://discourse.slicer.org/t/31357
+---
+
 # Extract selected segments
 
 **Topic ID**: 31357

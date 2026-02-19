@@ -1,3 +1,10 @@
+---
+topic_id: 3503
+title: "Using The Openigtlink Library In A Loadable Module"
+date: 2018-07-17
+url: https://discourse.slicer.org/t/3503
+---
+
 # Using the OpenIGTLink library in a loadable module
 
 **Topic ID**: 3503

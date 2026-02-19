@@ -1,3 +1,10 @@
+---
+topic_id: 10773
+title: "Failed In Building 3D Slicer On Win10 With Vs2015X64"
+date: 2020-03-21
+url: https://discourse.slicer.org/t/10773
+---
+
 # Failed in building 3D Slicer on win10 with vs2015x64
 
 **Topic ID**: 10773

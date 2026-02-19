@@ -1,3 +1,10 @@
+---
+topic_id: 580
+title: "Problems With General Registration Brains Module"
+date: 2017-06-27
+url: https://discourse.slicer.org/t/580
+---
+
 # Problems with General Registration (BRAINS) module
 
 **Topic ID**: 580

@@ -1,3 +1,10 @@
+---
+topic_id: 40412
+title: "Extension For 2D X Ray Bone Segmentation"
+date: 2024-11-27
+url: https://discourse.slicer.org/t/40412
+---
+
 # Extension for 2D x-ray bone segmentation?
 
 **Topic ID**: 40412

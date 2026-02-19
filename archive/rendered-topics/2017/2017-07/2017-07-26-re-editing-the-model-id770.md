@@ -1,3 +1,10 @@
+---
+topic_id: 770
+title: "Re Editing The Model"
+date: 2017-07-26
+url: https://discourse.slicer.org/t/770
+---
+
 # Re-editing the model
 
 **Topic ID**: 770

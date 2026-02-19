@@ -1,3 +1,10 @@
+---
+topic_id: 36739
+title: "Totalsegmentator Errors On Mac Non Zero Exit Status 1 Then A"
+date: 2024-06-12
+url: https://discourse.slicer.org/t/36739
+---
+
 # TotalSegmentator Errors on Mac "...non-zero exit status 1" then "Application is required"
 
 **Topic ID**: 36739

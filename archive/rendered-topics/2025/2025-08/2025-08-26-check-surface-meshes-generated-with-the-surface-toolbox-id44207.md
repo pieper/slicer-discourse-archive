@@ -1,3 +1,10 @@
+---
+topic_id: 44207
+title: "Check Surface Meshes Generated With The Surface Toolbox"
+date: 2025-08-26
+url: https://discourse.slicer.org/t/44207
+---
+
 # Check surface meshes generated with the surface toolbox
 
 **Topic ID**: 44207

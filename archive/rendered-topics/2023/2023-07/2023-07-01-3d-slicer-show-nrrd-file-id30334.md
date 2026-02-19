@@ -1,3 +1,10 @@
+---
+topic_id: 30334
+title: "3D Slicer Show Nrrd File"
+date: 2023-07-01
+url: https://discourse.slicer.org/t/30334
+---
+
 # 3D Slicer show nrrd file
 
 **Topic ID**: 30334

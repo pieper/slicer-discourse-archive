@@ -1,3 +1,10 @@
+---
+topic_id: 19512
+title: "Nvidia Ai Assisted Segmentation Brain Tumor"
+date: 2021-09-05
+url: https://discourse.slicer.org/t/19512
+---
+
 # Nvidia AI-assisted segmentation (brain tumor)
 
 **Topic ID**: 19512

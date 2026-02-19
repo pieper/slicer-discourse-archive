@@ -1,3 +1,10 @@
+---
+topic_id: 28942
+title: "Printing Dicom Files"
+date: 2023-04-16
+url: https://discourse.slicer.org/t/28942
+---
+
 # Printing dicom files
 
 **Topic ID**: 28942

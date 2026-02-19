@@ -1,3 +1,10 @@
+---
+topic_id: 5197
+title: "Registration Deformation Export"
+date: 2018-12-27
+url: https://discourse.slicer.org/t/5197
+---
+
 # Registration Deformation Export
 
 **Topic ID**: 5197

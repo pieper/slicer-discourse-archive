@@ -1,3 +1,10 @@
+---
+topic_id: 26255
+title: "Segment Statistics Which Volume Most Accurate"
+date: 2022-11-15
+url: https://discourse.slicer.org/t/26255
+---
+
 # Segment statistics: which volume most accurate
 
 **Topic ID**: 26255

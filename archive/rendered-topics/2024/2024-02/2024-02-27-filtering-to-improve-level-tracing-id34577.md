@@ -1,3 +1,10 @@
+---
+topic_id: 34577
+title: "Filtering To Improve Level Tracing"
+date: 2024-02-27
+url: https://discourse.slicer.org/t/34577
+---
+
 # Filtering to improve level tracing
 
 **Topic ID**: 34577

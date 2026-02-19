@@ -1,3 +1,10 @@
+---
+topic_id: 18464
+title: "Inquiries About Module Types"
+date: 2021-07-01
+url: https://discourse.slicer.org/t/18464
+---
+
 # Inquiries about module types
 
 **Topic ID**: 18464

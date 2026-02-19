@@ -1,3 +1,10 @@
+---
+topic_id: 44649
+title: "Sudden Crash During Save"
+date: 2025-10-02
+url: https://discourse.slicer.org/t/44649
+---
+
 # Sudden crash during save
 
 **Topic ID**: 44649

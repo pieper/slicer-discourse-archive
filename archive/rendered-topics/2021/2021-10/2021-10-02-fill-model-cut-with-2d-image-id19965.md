@@ -1,3 +1,10 @@
+---
+topic_id: 19965
+title: "Fill Model Cut With 2D Image"
+date: 2021-10-02
+url: https://discourse.slicer.org/t/19965
+---
+
 # Fill model cut with 2D image
 
 **Topic ID**: 19965

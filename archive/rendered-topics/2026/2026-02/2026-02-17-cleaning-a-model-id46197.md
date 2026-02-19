@@ -1,3 +1,10 @@
+---
+topic_id: 46197
+title: "Cleaning A Model"
+date: 2026-02-17
+url: https://discourse.slicer.org/t/46197
+---
+
 # Cleaning a model
 
 **Topic ID**: 46197

@@ -1,3 +1,10 @@
+---
+topic_id: 17253
+title: "3D Surface Model Color"
+date: 2021-04-22
+url: https://discourse.slicer.org/t/17253
+---
+
 # 3D surface model color
 
 **Topic ID**: 17253

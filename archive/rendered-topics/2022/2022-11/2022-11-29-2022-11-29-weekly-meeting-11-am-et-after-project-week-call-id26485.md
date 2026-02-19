@@ -1,3 +1,10 @@
+---
+topic_id: 26485
+title: "2022 11 29 Weekly Meeting 11 Am Et After Project Week Call"
+date: 2022-11-29
+url: https://discourse.slicer.org/t/26485
+---
+
 # 2022.11.29 Weekly Meeting - @11 AM ET, after Project Week Call
 
 **Topic ID**: 26485

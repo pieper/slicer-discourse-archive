@@ -1,3 +1,10 @@
+---
+topic_id: 2325
+title: "Latest Build Vtkv9 Step Requires Git Lfs"
+date: 2018-03-15
+url: https://discourse.slicer.org/t/2325
+---
+
 # Latest build - VTKv9 step requires git-lfs
 
 **Topic ID**: 2325

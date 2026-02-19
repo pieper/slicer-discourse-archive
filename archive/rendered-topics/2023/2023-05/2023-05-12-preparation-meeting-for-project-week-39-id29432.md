@@ -1,3 +1,10 @@
+---
+topic_id: 29432
+title: "Preparation Meeting For Project Week 39"
+date: 2023-05-12
+url: https://discourse.slicer.org/t/29432
+---
+
 # Preparation meeting for project week 39
 
 **Topic ID**: 29432

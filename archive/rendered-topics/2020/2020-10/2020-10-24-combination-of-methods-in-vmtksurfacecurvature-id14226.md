@@ -1,3 +1,10 @@
+---
+topic_id: 14226
+title: "Combination Of Methods In Vmtksurfacecurvature"
+date: 2020-10-24
+url: https://discourse.slicer.org/t/14226
+---
+
 # Combination of methods in vmtkSurfaceCurvature
 
 **Topic ID**: 14226

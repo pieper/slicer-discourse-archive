@@ -1,3 +1,10 @@
+---
+topic_id: 5478
+title: "3D Model From Dicoms"
+date: 2019-01-23
+url: https://discourse.slicer.org/t/5478
+---
+
 # 3D model from dicoms
 
 **Topic ID**: 5478

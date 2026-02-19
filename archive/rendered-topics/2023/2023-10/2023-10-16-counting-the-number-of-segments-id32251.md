@@ -1,3 +1,10 @@
+---
+topic_id: 32251
+title: "Counting The Number Of Segments"
+date: 2023-10-16
+url: https://discourse.slicer.org/t/32251
+---
+
 # Counting the number of segments
 
 **Topic ID**: 32251

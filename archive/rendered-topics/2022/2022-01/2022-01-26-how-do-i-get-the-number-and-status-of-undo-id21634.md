@@ -1,3 +1,10 @@
+---
+topic_id: 21634
+title: "How Do I Get The Number And Status Of Undo"
+date: 2022-01-26
+url: https://discourse.slicer.org/t/21634
+---
+
 # How do I get the number and status of undo
 
 **Topic ID**: 21634

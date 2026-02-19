@@ -1,3 +1,10 @@
+---
+topic_id: 44889
+title: "Cant View Dicom In Native Plane"
+date: 2025-10-27
+url: https://discourse.slicer.org/t/44889
+---
+
 # Can't view DICOM in native plane
 
 **Topic ID**: 44889

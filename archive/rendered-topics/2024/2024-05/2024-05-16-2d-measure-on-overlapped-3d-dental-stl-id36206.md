@@ -1,3 +1,10 @@
+---
+topic_id: 36206
+title: "2D Measure On Overlapped 3D Dental Stl"
+date: 2024-05-16
+url: https://discourse.slicer.org/t/36206
+---
+
 # 2D measure on overlapped 3D dental STL 
 
 **Topic ID**: 36206

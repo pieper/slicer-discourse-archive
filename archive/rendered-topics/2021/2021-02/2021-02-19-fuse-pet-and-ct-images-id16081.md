@@ -1,3 +1,10 @@
+---
+topic_id: 16081
+title: "Fuse Pet And Ct Images"
+date: 2021-02-19
+url: https://discourse.slicer.org/t/16081
+---
+
 # FUSE PET and CT images
 
 **Topic ID**: 16081

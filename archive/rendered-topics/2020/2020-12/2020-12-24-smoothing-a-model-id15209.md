@@ -1,3 +1,10 @@
+---
+topic_id: 15209
+title: "Smoothing A Model"
+date: 2020-12-24
+url: https://discourse.slicer.org/t/15209
+---
+
 # Smoothing a model
 
 **Topic ID**: 15209

@@ -1,3 +1,10 @@
+---
+topic_id: 10414
+title: "Grow From Seeds Problem"
+date: 2020-02-24
+url: https://discourse.slicer.org/t/10414
+---
+
 # Grow from seeds problem
 
 **Topic ID**: 10414

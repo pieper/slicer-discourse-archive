@@ -1,3 +1,10 @@
+---
+topic_id: 32313
+title: "Change Order Of Rendering Of Multiple Volumes With Volume Re"
+date: 2023-10-18
+url: https://discourse.slicer.org/t/32313
+---
+
 # Change 'order' of rendering of multiple volumes with Volume Rendering module
 
 **Topic ID**: 32313

@@ -1,3 +1,10 @@
+---
+topic_id: 633
+title: "Calculating Relative Ct Perfusion"
+date: 2017-07-05
+url: https://discourse.slicer.org/t/633
+---
+
 # Calculating Relative CT Perfusion
 
 **Topic ID**: 633

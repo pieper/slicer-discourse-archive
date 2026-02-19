@@ -1,3 +1,10 @@
+---
+topic_id: 41971
+title: "Unable To Load Landmark Points From Dicom Surface Segmentati"
+date: 2025-03-05
+url: https://discourse.slicer.org/t/41971
+---
+
 # Unable to load landmark points from DICOM Surface Segmentation created by BrainLab Origin
 
 **Topic ID**: 41971

@@ -1,3 +1,10 @@
+---
+topic_id: 37880
+title: "How Can I Adjust Window Level Of Background Volume"
+date: 2024-08-14
+url: https://discourse.slicer.org/t/37880
+---
+
 # How can I adjust window level of background volume?
 
 **Topic ID**: 37880

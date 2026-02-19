@@ -1,3 +1,10 @@
+---
+topic_id: 28938
+title: "Saving A 3D Image"
+date: 2023-04-16
+url: https://discourse.slicer.org/t/28938
+---
+
 # Saving a 3D image
 
 **Topic ID**: 28938

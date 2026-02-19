@@ -1,3 +1,10 @@
+---
+topic_id: 18333
+title: "How To Do Volume Rendering With Original Intensity"
+date: 2021-06-24
+url: https://discourse.slicer.org/t/18333
+---
+
 # How to do volume rendering with original intensity
 
 **Topic ID**: 18333

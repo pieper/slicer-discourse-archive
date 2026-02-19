@@ -1,3 +1,10 @@
+---
+topic_id: 33998
+title: "What Is 3D Slicers Built In Time Sequence Capabilities"
+date: 2024-01-26
+url: https://discourse.slicer.org/t/33998
+---
+
 # What is 3D Slicer's "built in time sequence" capabilities?
 
 **Topic ID**: 33998

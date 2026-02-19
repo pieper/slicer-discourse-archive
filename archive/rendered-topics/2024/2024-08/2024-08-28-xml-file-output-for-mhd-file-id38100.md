@@ -1,3 +1,10 @@
+---
+topic_id: 38100
+title: "Xml File Output For Mhd File"
+date: 2024-08-28
+url: https://discourse.slicer.org/t/38100
+---
+
 # .xml file output for .mhd file
 
 **Topic ID**: 38100

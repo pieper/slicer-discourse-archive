@@ -1,3 +1,10 @@
+---
+topic_id: 16533
+title: "Keep Dicom Coordinate System When Exporting Segmentation"
+date: 2021-03-14
+url: https://discourse.slicer.org/t/16533
+---
+
 # Keep DICOM coordinate system when exporting segmentation
 
 **Topic ID**: 16533

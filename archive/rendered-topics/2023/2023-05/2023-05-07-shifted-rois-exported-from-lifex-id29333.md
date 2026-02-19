@@ -1,3 +1,10 @@
+---
+topic_id: 29333
+title: "Shifted Rois Exported From Lifex"
+date: 2023-05-07
+url: https://discourse.slicer.org/t/29333
+---
+
 # Shifted ROIs (exported from LifeX)
 
 **Topic ID**: 29333

@@ -1,3 +1,10 @@
+---
+topic_id: 8063
+title: "Compare Models Trouble Shooting"
+date: 2019-08-16
+url: https://discourse.slicer.org/t/8063
+---
+
 # Compare models trouble shooting
 
 **Topic ID**: 8063

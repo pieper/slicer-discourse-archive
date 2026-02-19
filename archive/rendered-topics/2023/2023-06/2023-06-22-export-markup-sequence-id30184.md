@@ -1,3 +1,10 @@
+---
+topic_id: 30184
+title: "Export Markup Sequence"
+date: 2023-06-22
+url: https://discourse.slicer.org/t/30184
+---
+
 # Export Markup sequence
 
 **Topic ID**: 30184

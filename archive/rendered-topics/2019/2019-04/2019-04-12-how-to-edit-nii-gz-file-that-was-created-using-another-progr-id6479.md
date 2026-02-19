@@ -1,3 +1,10 @@
+---
+topic_id: 6479
+title: "How To Edit Nii Gz File That Was Created Using Another Progr"
+date: 2019-04-12
+url: https://discourse.slicer.org/t/6479
+---
+
 # How to edit nii.gz file that was created using another program?
 
 **Topic ID**: 6479

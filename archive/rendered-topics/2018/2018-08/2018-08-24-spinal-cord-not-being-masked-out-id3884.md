@@ -1,3 +1,10 @@
+---
+topic_id: 3884
+title: "Spinal Cord Not Being Masked Out"
+date: 2018-08-24
+url: https://discourse.slicer.org/t/3884
+---
+
 # Spinal cord not being masked out
 
 **Topic ID**: 3884

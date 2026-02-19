@@ -1,3 +1,10 @@
+---
+topic_id: 9639
+title: "3D Slicer Hangs Most Times"
+date: 2019-12-29
+url: https://discourse.slicer.org/t/9639
+---
+
 # 3D slicer hangs most times
 
 **Topic ID**: 9639

@@ -1,3 +1,10 @@
+---
+topic_id: 8445
+title: "Unable To See Moving Segment On 3D View"
+date: 2019-09-16
+url: https://discourse.slicer.org/t/8445
+---
+
 # Unable to see moving segment on 3d view
 
 **Topic ID**: 8445

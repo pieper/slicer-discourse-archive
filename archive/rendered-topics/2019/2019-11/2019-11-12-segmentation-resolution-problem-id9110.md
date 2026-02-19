@@ -1,3 +1,10 @@
+---
+topic_id: 9110
+title: "Segmentation Resolution Problem"
+date: 2019-11-12
+url: https://discourse.slicer.org/t/9110
+---
+
 # Segmentation resolution... problem
 
 **Topic ID**: 9110

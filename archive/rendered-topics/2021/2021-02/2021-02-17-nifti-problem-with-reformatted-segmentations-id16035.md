@@ -1,3 +1,10 @@
+---
+topic_id: 16035
+title: "Nifti Problem With Reformatted Segmentations"
+date: 2021-02-17
+url: https://discourse.slicer.org/t/16035
+---
+
 # NIFTI Problem with Reformatted Segmentations
 
 **Topic ID**: 16035

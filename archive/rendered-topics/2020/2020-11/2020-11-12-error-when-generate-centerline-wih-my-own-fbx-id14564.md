@@ -1,3 +1,10 @@
+---
+topic_id: 14564
+title: "Error When Generate Centerline Wih My Own Fbx"
+date: 2020-11-12
+url: https://discourse.slicer.org/t/14564
+---
+
 # Error when generate centerline wih my own fbx.
 
 **Topic ID**: 14564

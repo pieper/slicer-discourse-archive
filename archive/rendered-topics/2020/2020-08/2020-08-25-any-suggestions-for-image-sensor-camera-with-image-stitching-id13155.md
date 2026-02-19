@@ -1,3 +1,10 @@
+---
+topic_id: 13155
+title: "Any Suggestions For Image Sensor Camera With Image Stitching"
+date: 2020-08-25
+url: https://discourse.slicer.org/t/13155
+---
+
 # Any suggestions for image sensor/camera with image stitching
 
 **Topic ID**: 13155

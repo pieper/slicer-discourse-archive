@@ -1,3 +1,10 @@
+---
+topic_id: 20098
+title: "Merge Ct And Rt Dose File"
+date: 2021-10-11
+url: https://discourse.slicer.org/t/20098
+---
+
 # Merge CT and RT Dose File
 
 **Topic ID**: 20098

@@ -1,3 +1,10 @@
+---
+topic_id: 32786
+title: "Integration Of Fast Growcut Extension For 3D Slicer"
+date: 2023-11-13
+url: https://discourse.slicer.org/t/32786
+---
+
 # Integration of Fast Growcut extension for 3D slicer
 
 **Topic ID**: 32786

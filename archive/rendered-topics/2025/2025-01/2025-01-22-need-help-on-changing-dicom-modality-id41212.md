@@ -1,3 +1,10 @@
+---
+topic_id: 41212
+title: "Need Help On Changing Dicom Modality"
+date: 2025-01-22
+url: https://discourse.slicer.org/t/41212
+---
+
 # Need help on changing dicom modality
 
 **Topic ID**: 41212

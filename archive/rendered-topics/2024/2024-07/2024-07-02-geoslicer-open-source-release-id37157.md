@@ -1,3 +1,10 @@
+---
+topic_id: 37157
+title: "Geoslicer Open Source Release"
+date: 2024-07-02
+url: https://discourse.slicer.org/t/37157
+---
+
 # GeoSlicer open source release
 
 **Topic ID**: 37157

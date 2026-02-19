@@ -1,3 +1,10 @@
+---
+topic_id: 3631
+title: "How Can I Convert Nifti Files To Nrrd Files In Command Lines"
+date: 2018-08-02
+url: https://discourse.slicer.org/t/3631
+---
+
 # How can I convert NIFTI files to NRRD files in command lines?
 
 **Topic ID**: 3631

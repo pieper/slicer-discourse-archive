@@ -1,3 +1,10 @@
+---
+topic_id: 23897
+title: "Spharm Pdm Correspondence Improvement"
+date: 2022-06-16
+url: https://discourse.slicer.org/t/23897
+---
+
 # SPHARM PDM Correspondence improvement
 
 **Topic ID**: 23897

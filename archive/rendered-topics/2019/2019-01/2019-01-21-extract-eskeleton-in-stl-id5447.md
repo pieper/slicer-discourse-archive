@@ -1,3 +1,10 @@
+---
+topic_id: 5447
+title: "Extract Eskeleton In Stl"
+date: 2019-01-21
+url: https://discourse.slicer.org/t/5447
+---
+
 # extract eskeleton in STL
 
 **Topic ID**: 5447

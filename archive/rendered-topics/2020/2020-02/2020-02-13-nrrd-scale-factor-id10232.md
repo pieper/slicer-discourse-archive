@@ -1,3 +1,10 @@
+---
+topic_id: 10232
+title: "Nrrd Scale Factor"
+date: 2020-02-13
+url: https://discourse.slicer.org/t/10232
+---
+
 # NRRD scale factor
 
 **Topic ID**: 10232

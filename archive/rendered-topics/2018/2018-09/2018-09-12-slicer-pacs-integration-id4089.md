@@ -1,3 +1,10 @@
+---
+topic_id: 4089
+title: "Slicer Pacs Integration"
+date: 2018-09-12
+url: https://discourse.slicer.org/t/4089
+---
+
 # Slicer PACS integration
 
 **Topic ID**: 4089

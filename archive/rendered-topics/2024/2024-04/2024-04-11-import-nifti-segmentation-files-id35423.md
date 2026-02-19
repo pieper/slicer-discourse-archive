@@ -1,3 +1,10 @@
+---
+topic_id: 35423
+title: "Import Nifti Segmentation Files"
+date: 2024-04-11
+url: https://discourse.slicer.org/t/35423
+---
+
 # Import nifti segmentation files
 
 **Topic ID**: 35423

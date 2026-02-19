@@ -1,3 +1,10 @@
+---
+topic_id: 2518
+title: "Analysis With Spharm Pdm"
+date: 2018-04-05
+url: https://discourse.slicer.org/t/2518
+---
+
 # Analysis with SPHARM-PDM
 
 **Topic ID**: 2518

@@ -1,3 +1,10 @@
+---
+topic_id: 9741
+title: "Cropping An Image In Jupyter Notebook Fails"
+date: 2020-01-08
+url: https://discourse.slicer.org/t/9741
+---
+
 # Cropping an image in Jupyter notebook fails
 
 **Topic ID**: 9741

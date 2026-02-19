@@ -1,3 +1,10 @@
+---
+topic_id: 20301
+title: "Reflect Markups Landmarks"
+date: 2021-10-22
+url: https://discourse.slicer.org/t/20301
+---
+
 # Reflect markups (landmarks)
 
 **Topic ID**: 20301

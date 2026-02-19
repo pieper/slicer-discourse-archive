@@ -1,3 +1,10 @@
+---
+topic_id: 43395
+title: "Error Vtk Input Port 0 Of Algorithm Vtkimagemaptowindowlevel"
+date: 2025-06-17
+url: https://discourse.slicer.org/t/43395
+---
+
 # Error: [VTK] Input port 0 of algorithm vtkImageMapToWindowLevelColors (000001A807D0A830) has 0 connections but is not optional. [VTK] Input port 0 of algorithm vtkImageThreshold (000001A86BF0BB60) has 0 connections but is not optional.
 
 **Topic ID**: 43395

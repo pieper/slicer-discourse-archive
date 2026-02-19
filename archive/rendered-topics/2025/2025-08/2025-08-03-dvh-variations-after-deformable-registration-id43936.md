@@ -1,3 +1,10 @@
+---
+topic_id: 43936
+title: "Dvh Variations After Deformable Registration"
+date: 2025-08-03
+url: https://discourse.slicer.org/t/43936
+---
+
 # DVH variations after Deformable Registration
 
 **Topic ID**: 43936

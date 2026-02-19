@@ -1,3 +1,10 @@
+---
+topic_id: 43584
+title: "How To Incorporate Fixedparameters In Manual Calculation Of"
+date: 2025-07-02
+url: https://discourse.slicer.org/t/43584
+---
+
 # How to incorporate FixedParameters in manual calculation of affine linear transformation
 
 **Topic ID**: 43584

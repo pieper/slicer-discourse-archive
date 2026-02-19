@@ -1,3 +1,10 @@
+---
+topic_id: 43726
+title: "Hu Ranges For Tissue Types In Totalsegmentator Visceral Fat"
+date: 2025-07-15
+url: https://discourse.slicer.org/t/43726
+---
+
 # HU ranges for tissue types in TotalSegmentator (visceral fat, subcutaneous fat, skeletal muscle, etc.)
 
 **Topic ID**: 43726

@@ -1,3 +1,10 @@
+---
+topic_id: 8058
+title: "Slicer Build Fails On All Platforms"
+date: 2019-08-16
+url: https://discourse.slicer.org/t/8058
+---
+
 # Slicer build fails on all platforms
 
 **Topic ID**: 8058

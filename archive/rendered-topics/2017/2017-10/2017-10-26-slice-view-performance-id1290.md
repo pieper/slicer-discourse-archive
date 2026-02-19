@@ -1,3 +1,10 @@
+---
+topic_id: 1290
+title: "Slice View Performance"
+date: 2017-10-26
+url: https://discourse.slicer.org/t/1290
+---
+
 # Slice view performance
 
 **Topic ID**: 1290

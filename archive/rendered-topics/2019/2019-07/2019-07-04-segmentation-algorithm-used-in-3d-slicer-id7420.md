@@ -1,3 +1,10 @@
+---
+topic_id: 7420
+title: "Segmentation Algorithm Used In 3D Slicer"
+date: 2019-07-04
+url: https://discourse.slicer.org/t/7420
+---
+
 # Segmentation algorithm used in 3D Slicer
 
 **Topic ID**: 7420

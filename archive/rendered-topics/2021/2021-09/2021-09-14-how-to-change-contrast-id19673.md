@@ -1,3 +1,10 @@
+---
+topic_id: 19673
+title: "How To Change Contrast"
+date: 2021-09-14
+url: https://discourse.slicer.org/t/19673
+---
+
 # How to change contrast
 
 **Topic ID**: 19673

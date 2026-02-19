@@ -1,3 +1,10 @@
+---
+topic_id: 35741
+title: "Is There Any Api Update In Slicer 5 7"
+date: 2024-04-26
+url: https://discourse.slicer.org/t/35741
+---
+
 # Is there any api update in Slicer 5.7?
 
 **Topic ID**: 35741

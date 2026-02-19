@@ -1,3 +1,10 @@
+---
+topic_id: 17552
+title: "Virtual Reconstruction Of A Brain"
+date: 2021-05-10
+url: https://discourse.slicer.org/t/17552
+---
+
 # Virtual reconstruction of a brain
 
 **Topic ID**: 17552

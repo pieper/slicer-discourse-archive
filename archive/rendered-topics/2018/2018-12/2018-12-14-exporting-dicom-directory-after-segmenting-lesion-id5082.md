@@ -1,3 +1,10 @@
+---
+topic_id: 5082
+title: "Exporting Dicom Directory After Segmenting Lesion"
+date: 2018-12-14
+url: https://discourse.slicer.org/t/5082
+---
+
 # Exporting DICOM directory after segmenting lesion
 
 **Topic ID**: 5082

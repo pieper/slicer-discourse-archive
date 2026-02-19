@@ -1,3 +1,10 @@
+---
+topic_id: 4168
+title: "Get World Coordinate Of Maximum Intensity Voxel"
+date: 2018-09-22
+url: https://discourse.slicer.org/t/4168
+---
+
 # Get world coordinate of maximum intensity voxel
 
 **Topic ID**: 4168

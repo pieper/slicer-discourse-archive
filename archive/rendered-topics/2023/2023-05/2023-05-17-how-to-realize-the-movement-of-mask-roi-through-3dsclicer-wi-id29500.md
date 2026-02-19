@@ -1,3 +1,10 @@
+---
+topic_id: 29500
+title: "How To Realize The Movement Of Mask Roi Through 3Dsclicer Wi"
+date: 2023-05-17
+url: https://discourse.slicer.org/t/29500
+---
+
 # How to realize the movement of mask/roi through 3dsclicer without changing the size and shape of mask/roi
 
 **Topic ID**: 29500

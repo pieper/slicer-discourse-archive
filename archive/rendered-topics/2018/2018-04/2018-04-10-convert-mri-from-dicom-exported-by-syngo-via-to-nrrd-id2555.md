@@ -1,3 +1,10 @@
+---
+topic_id: 2555
+title: "Convert Mri From Dicom Exported By Syngo Via To Nrrd"
+date: 2018-04-10
+url: https://discourse.slicer.org/t/2555
+---
+
 # Convert MRI from DICOM (exported by syngo.via) to NRRD
 
 **Topic ID**: 2555

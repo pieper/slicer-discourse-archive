@@ -1,3 +1,10 @@
+---
+topic_id: 26230
+title: "How Do I Take Linear Measurements On 3D Volume Rendered Surf"
+date: 2022-11-14
+url: https://discourse.slicer.org/t/26230
+---
+
 # How do I take linear measurements on 3D Volume rendered surface?
 
 **Topic ID**: 26230

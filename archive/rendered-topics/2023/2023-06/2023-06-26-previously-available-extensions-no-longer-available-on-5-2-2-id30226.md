@@ -1,3 +1,10 @@
+---
+topic_id: 30226
+title: "Previously Available Extensions No Longer Available On 5 2 2"
+date: 2023-06-26
+url: https://discourse.slicer.org/t/30226
+---
+
 # Previously available extensions no longer available on 5.2.2
 
 **Topic ID**: 30226

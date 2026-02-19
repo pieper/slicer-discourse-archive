@@ -1,3 +1,10 @@
+---
+topic_id: 19138
+title: "Slice View Control Using Slice Projection In Other Slice Vie"
+date: 2021-08-10
+url: https://discourse.slicer.org/t/19138
+---
+
 # Slice View Control using Slice Projection in other Slice View
 
 **Topic ID**: 19138

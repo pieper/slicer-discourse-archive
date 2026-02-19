@@ -1,3 +1,10 @@
+---
+topic_id: 11807
+title: "Vessel Segmentation"
+date: 2020-05-31
+url: https://discourse.slicer.org/t/11807
+---
+
 # Vessel segmentation
 
 **Topic ID**: 11807

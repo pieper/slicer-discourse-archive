@@ -1,3 +1,10 @@
+---
+topic_id: 32236
+title: "Reliability Of Extension Stats"
+date: 2023-10-16
+url: https://discourse.slicer.org/t/32236
+---
+
 # Reliability of extension stats
 
 **Topic ID**: 32236

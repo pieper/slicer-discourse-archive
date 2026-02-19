@@ -1,3 +1,10 @@
+---
+topic_id: 830
+title: "Segment Edit Creat Surface Does Work For Inner Ear Segmentat"
+date: 2017-08-05
+url: https://discourse.slicer.org/t/830
+---
+
 # Segment edit creat surface does work for inner ear segmentation
 
 **Topic ID**: 830

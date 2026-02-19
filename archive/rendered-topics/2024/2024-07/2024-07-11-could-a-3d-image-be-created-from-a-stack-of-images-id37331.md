@@ -1,3 +1,10 @@
+---
+topic_id: 37331
+title: "Could A 3D Image Be Created From A Stack Of Images"
+date: 2024-07-11
+url: https://discourse.slicer.org/t/37331
+---
+
 # Could a 3D image be created from a stack of images?
 
 **Topic ID**: 37331

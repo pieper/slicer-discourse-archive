@@ -1,3 +1,10 @@
+---
+topic_id: 11548
+title: "Reading And Writing Xml File For Slicer Vtkmrmlannotationroi"
+date: 2020-05-15
+url: https://discourse.slicer.org/t/11548
+---
+
 # Reading and writing xml file for slicer.vtkMRMLAnnotationROINode
 
 **Topic ID**: 11548

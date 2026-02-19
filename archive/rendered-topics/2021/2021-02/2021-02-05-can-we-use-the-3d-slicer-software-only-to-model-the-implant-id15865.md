@@ -1,3 +1,10 @@
+---
+topic_id: 15865
+title: "Can We Use The 3D Slicer Software Only To Model The Implant"
+date: 2021-02-05
+url: https://discourse.slicer.org/t/15865
+---
+
 # Can we use the 3D slicer software only to model the implant?
 
 **Topic ID**: 15865

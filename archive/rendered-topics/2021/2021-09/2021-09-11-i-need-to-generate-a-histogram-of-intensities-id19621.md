@@ -1,3 +1,10 @@
+---
+topic_id: 19621
+title: "I Need To Generate A Histogram Of Intensities"
+date: 2021-09-11
+url: https://discourse.slicer.org/t/19621
+---
+
 # I need to generate a histogram of intensities! 
 
 **Topic ID**: 19621

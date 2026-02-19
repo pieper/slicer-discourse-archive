@@ -1,3 +1,10 @@
+---
+topic_id: 28273
+title: "The Voxel Size In Igt Volume Reconstruction"
+date: 2023-03-10
+url: https://discourse.slicer.org/t/28273
+---
+
 # The voxel size in IGT Volume Reconstruction
 
 **Topic ID**: 28273

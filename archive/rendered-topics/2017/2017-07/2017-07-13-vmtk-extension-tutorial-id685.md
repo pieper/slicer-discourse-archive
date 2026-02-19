@@ -1,3 +1,10 @@
+---
+topic_id: 685
+title: "Vmtk Extension Tutorial"
+date: 2017-07-13
+url: https://discourse.slicer.org/t/685
+---
+
 # VMTK extension tutorial
 
 **Topic ID**: 685

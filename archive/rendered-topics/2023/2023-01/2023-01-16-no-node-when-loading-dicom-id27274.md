@@ -1,3 +1,10 @@
+---
+topic_id: 27274
+title: "No Node When Loading Dicom"
+date: 2023-01-16
+url: https://discourse.slicer.org/t/27274
+---
+
 # No Node when loading DICOM
 
 **Topic ID**: 27274

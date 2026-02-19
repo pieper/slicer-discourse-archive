@@ -1,3 +1,10 @@
+---
+topic_id: 37882
+title: "How To Make Vtkpolydatabooleanfilter Or Combinemodels Faster"
+date: 2024-08-14
+url: https://discourse.slicer.org/t/37882
+---
+
 # How to make vtkPolyDataBooleanFilter or CombineModels Faster?
 
 **Topic ID**: 37882

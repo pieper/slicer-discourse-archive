@@ -1,3 +1,10 @@
+---
+topic_id: 42704
+title: "What Happened To Ct Xray Preset In Volume Rendering Module"
+date: 2025-04-27
+url: https://discourse.slicer.org/t/42704
+---
+
 # What happened to CT Xray preset in Volume REndering Module?
 
 **Topic ID**: 42704

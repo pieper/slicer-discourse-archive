@@ -1,3 +1,10 @@
+---
+topic_id: 24376
+title: "Sending Error Messages From Python"
+date: 2022-07-18
+url: https://discourse.slicer.org/t/24376
+---
+
 # Sending error messages from python
 
 **Topic ID**: 24376

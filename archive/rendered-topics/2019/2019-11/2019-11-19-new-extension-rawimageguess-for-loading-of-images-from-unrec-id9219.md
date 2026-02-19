@@ -1,3 +1,10 @@
+---
+topic_id: 9219
+title: "New Extension Rawimageguess For Loading Of Images From Unrec"
+date: 2019-11-19
+url: https://discourse.slicer.org/t/9219
+---
+
 # New extension: RawImageGuess - for loading of images from unrecognized file format
 
 **Topic ID**: 9219

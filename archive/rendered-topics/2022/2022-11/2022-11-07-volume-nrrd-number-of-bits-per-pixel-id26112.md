@@ -1,3 +1,10 @@
+---
+topic_id: 26112
+title: "Volume Nrrd Number Of Bits Per Pixel"
+date: 2022-11-07
+url: https://discourse.slicer.org/t/26112
+---
+
 # Volume NRRD - Number of bits per pixel
 
 **Topic ID**: 26112

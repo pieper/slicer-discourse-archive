@@ -1,3 +1,10 @@
+---
+topic_id: 29306
+title: "Seg Nrrd And Nrrd To Dicom"
+date: 2023-05-05
+url: https://discourse.slicer.org/t/29306
+---
+
 # .seg.nrrd and .nrrd to dicom
 
 **Topic ID**: 29306

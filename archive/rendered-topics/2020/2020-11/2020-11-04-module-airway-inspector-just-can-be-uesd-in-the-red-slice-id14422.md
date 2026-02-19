@@ -1,3 +1,10 @@
+---
+topic_id: 14422
+title: "Module Airway Inspector Just Can Be Uesd In The Red Slice"
+date: 2020-11-04
+url: https://discourse.slicer.org/t/14422
+---
+
 # Module "Airway Inspector" just can be uesd in the red slice
 
 **Topic ID**: 14422

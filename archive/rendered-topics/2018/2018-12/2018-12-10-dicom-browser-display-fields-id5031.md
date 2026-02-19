@@ -1,3 +1,10 @@
+---
+topic_id: 5031
+title: "Dicom Browser Display Fields"
+date: 2018-12-10
+url: https://discourse.slicer.org/t/5031
+---
+
 # DICOM browser display fields
 
 **Topic ID**: 5031

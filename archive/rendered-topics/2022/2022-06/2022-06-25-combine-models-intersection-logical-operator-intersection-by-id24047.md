@@ -1,3 +1,10 @@
+---
+topic_id: 24047
+title: "Combine Models Intersection Logical Operator Intersection By"
+date: 2022-06-25
+url: https://discourse.slicer.org/t/24047
+---
+
 # Combine models intersection / logical operator intersection by script
 
 **Topic ID**: 24047

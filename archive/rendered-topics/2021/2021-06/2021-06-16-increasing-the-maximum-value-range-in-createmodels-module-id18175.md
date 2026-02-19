@@ -1,3 +1,10 @@
+---
+topic_id: 18175
+title: "Increasing The Maximum Value Range In Createmodels Module"
+date: 2021-06-16
+url: https://discourse.slicer.org/t/18175
+---
+
 # Increasing the maximum value range in CreateModels module
 
 **Topic ID**: 18175

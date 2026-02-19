@@ -1,3 +1,10 @@
+---
+topic_id: 17536
+title: "Spin 3D View In Certain Axis"
+date: 2021-05-09
+url: https://discourse.slicer.org/t/17536
+---
+
 # Spin 3D view in certain axis
 
 **Topic ID**: 17536

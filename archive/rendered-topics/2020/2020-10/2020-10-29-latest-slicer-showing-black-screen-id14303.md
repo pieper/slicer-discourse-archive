@@ -1,3 +1,10 @@
+---
+topic_id: 14303
+title: "Latest Slicer Showing Black Screen"
+date: 2020-10-29
+url: https://discourse.slicer.org/t/14303
+---
+
 # Latest Slicer showing black screen
 
 **Topic ID**: 14303

@@ -1,3 +1,10 @@
+---
+topic_id: 46117
+title: "Odd Behavior After Adding A Moving Mask In The Ants Extensio"
+date: 2026-02-10
+url: https://discourse.slicer.org/t/46117
+---
+
 # Odd behavior after adding a moving mask in the ANTs extension
 
 **Topic ID**: 46117

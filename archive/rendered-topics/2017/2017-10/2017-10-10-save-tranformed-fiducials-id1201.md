@@ -1,3 +1,10 @@
+---
+topic_id: 1201
+title: "Save Tranformed Fiducials"
+date: 2017-10-10
+url: https://discourse.slicer.org/t/1201
+---
+
 # Save tranformed fiducials
 
 **Topic ID**: 1201

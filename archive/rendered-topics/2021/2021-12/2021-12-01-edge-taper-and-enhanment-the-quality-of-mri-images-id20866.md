@@ -1,3 +1,10 @@
+---
+topic_id: 20866
+title: "Edge Taper And Enhanment The Quality Of Mri Images"
+date: 2021-12-01
+url: https://discourse.slicer.org/t/20866
+---
+
 # Edge taper and enhanment the quality of mri images
 
 **Topic ID**: 20866

@@ -1,3 +1,10 @@
+---
+topic_id: 23788
+title: "How Can Give More Than One Segments Different Color In The S"
+date: 2022-06-09
+url: https://discourse.slicer.org/t/23788
+---
+
 # How can give more than one segments different color in the same volume?
 
 **Topic ID**: 23788

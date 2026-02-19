@@ -1,3 +1,10 @@
+---
+topic_id: 13786
+title: "Marking And Exporting A Set Of Points"
+date: 2020-10-01
+url: https://discourse.slicer.org/t/13786
+---
+
 # Marking and exporting a set of points
 
 **Topic ID**: 13786

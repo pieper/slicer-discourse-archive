@@ -1,3 +1,10 @@
+---
+topic_id: 6968
+title: "How To Preserve The Direction Cosine Matrix"
+date: 2019-05-30
+url: https://discourse.slicer.org/t/6968
+---
+
 # How to preserve the direction cosine matrix
 
 **Topic ID**: 6968

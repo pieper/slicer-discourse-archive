@@ -1,3 +1,10 @@
+---
+topic_id: 31338
+title: "Cpr Transformation For Ct Cta Data In Slicer"
+date: 2023-08-24
+url: https://discourse.slicer.org/t/31338
+---
+
 # CPR transformation for CT/CTA data in Slicer
 
 **Topic ID**: 31338

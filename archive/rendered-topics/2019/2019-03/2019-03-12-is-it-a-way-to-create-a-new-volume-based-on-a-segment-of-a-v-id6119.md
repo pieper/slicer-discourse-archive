@@ -1,3 +1,10 @@
+---
+topic_id: 6119
+title: "Is It A Way To Create A New Volume Based On A Segment Of A V"
+date: 2019-03-12
+url: https://discourse.slicer.org/t/6119
+---
+
 # Is it a way to create a new volume based on a segment of a volume
 
 **Topic ID**: 6119

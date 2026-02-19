@@ -1,3 +1,10 @@
+---
+topic_id: 21304
+title: "Set Main Window Title To Name Of Opened Mrb File"
+date: 2022-01-01
+url: https://discourse.slicer.org/t/21304
+---
+
 # Set Main Window title to name of opened MRB file
 
 **Topic ID**: 21304

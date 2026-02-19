@@ -1,3 +1,10 @@
+---
+topic_id: 29919
+title: "Create Histogram Widget In The Gui"
+date: 2023-06-08
+url: https://discourse.slicer.org/t/29919
+---
+
 # Create histogram widget in the GUI
 
 **Topic ID**: 29919

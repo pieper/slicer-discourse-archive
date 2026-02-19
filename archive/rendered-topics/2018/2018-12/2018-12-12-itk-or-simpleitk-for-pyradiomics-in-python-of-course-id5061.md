@@ -1,3 +1,10 @@
+---
+topic_id: 5061
+title: "Itk Or Simpleitk For Pyradiomics In Python Of Course"
+date: 2018-12-12
+url: https://discourse.slicer.org/t/5061
+---
+
 # Itk or SimpleItk for PyRadiomics (in python, of course)
 
 **Topic ID**: 5061

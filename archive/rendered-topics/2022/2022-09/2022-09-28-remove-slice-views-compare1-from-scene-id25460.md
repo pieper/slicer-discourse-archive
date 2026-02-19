@@ -1,3 +1,10 @@
+---
+topic_id: 25460
+title: "Remove Slice Views Compare1 From Scene"
+date: 2022-09-28
+url: https://discourse.slicer.org/t/25460
+---
+
 # Remove Slice Views (Compare1, ...) from scene
 
 **Topic ID**: 25460

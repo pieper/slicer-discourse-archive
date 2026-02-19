@@ -1,3 +1,10 @@
+---
+topic_id: 27610
+title: "Is Communication Possible With The 3D Slicers Python Console"
+date: 2023-02-03
+url: https://discourse.slicer.org/t/27610
+---
+
 # Is communication possible with the 3D slicer's python console?
 
 **Topic ID**: 27610

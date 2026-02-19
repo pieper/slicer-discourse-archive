@@ -1,3 +1,10 @@
+---
+topic_id: 6930
+title: "Convert 3D Dose Distribution To Dicom Rt Dose"
+date: 2019-05-26
+url: https://discourse.slicer.org/t/6930
+---
+
 # Convert 3D dose distribution to DICOM RT dose
 
 **Topic ID**: 6930

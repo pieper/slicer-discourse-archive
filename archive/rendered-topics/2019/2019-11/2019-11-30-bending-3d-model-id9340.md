@@ -1,3 +1,10 @@
+---
+topic_id: 9340
+title: "Bending 3D Model"
+date: 2019-11-30
+url: https://discourse.slicer.org/t/9340
+---
+
 # Bending 3D model
 
 **Topic ID**: 9340

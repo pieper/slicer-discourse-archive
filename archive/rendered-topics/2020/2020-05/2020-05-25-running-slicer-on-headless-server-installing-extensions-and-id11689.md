@@ -1,3 +1,10 @@
+---
+topic_id: 11689
+title: "Running Slicer On Headless Server Installing Extensions And"
+date: 2020-05-25
+url: https://discourse.slicer.org/t/11689
+---
+
 # Running Slicer on headless server (Installing Extensions and more...)
 
 **Topic ID**: 11689

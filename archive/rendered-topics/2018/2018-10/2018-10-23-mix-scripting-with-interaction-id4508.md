@@ -1,3 +1,10 @@
+---
+topic_id: 4508
+title: "Mix Scripting With Interaction"
+date: 2018-10-23
+url: https://discourse.slicer.org/t/4508
+---
+
 # Mix scripting with interaction
 
 **Topic ID**: 4508

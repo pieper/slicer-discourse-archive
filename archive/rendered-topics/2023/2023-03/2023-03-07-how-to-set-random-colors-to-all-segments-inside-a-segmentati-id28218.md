@@ -1,3 +1,10 @@
+---
+topic_id: 28218
+title: "How To Set Random Colors To All Segments Inside A Segmentati"
+date: 2023-03-07
+url: https://discourse.slicer.org/t/28218
+---
+
 # How to set random colors to all segments inside a segmentation?
 
 **Topic ID**: 28218

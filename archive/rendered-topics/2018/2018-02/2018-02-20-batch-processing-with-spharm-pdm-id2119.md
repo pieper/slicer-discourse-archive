@@ -1,3 +1,10 @@
+---
+topic_id: 2119
+title: "Batch Processing With Spharm Pdm"
+date: 2018-02-20
+url: https://discourse.slicer.org/t/2119
+---
+
 # Batch processing with SPHARM-PDM
 
 **Topic ID**: 2119

@@ -1,3 +1,10 @@
+---
+topic_id: 41269
+title: "How To Convert Series Im Files To One File"
+date: 2025-01-24
+url: https://discourse.slicer.org/t/41269
+---
+
 # How to convert series (IM files) to one file
 
 **Topic ID**: 41269

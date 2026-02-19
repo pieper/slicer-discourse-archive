@@ -1,3 +1,10 @@
+---
+topic_id: 35604
+title: "Create A Segment With A List Of Points That Are Segment Boun"
+date: 2024-04-18
+url: https://discourse.slicer.org/t/35604
+---
+
 # Create a segment with a list of points that are segment boundaries
 
 **Topic ID**: 35604

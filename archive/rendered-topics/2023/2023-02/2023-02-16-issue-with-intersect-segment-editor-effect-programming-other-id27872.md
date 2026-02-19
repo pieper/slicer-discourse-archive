@@ -1,3 +1,10 @@
+---
+topic_id: 27872
+title: "Issue With Intersect Segment Editor Effect Programming Other"
+date: 2023-02-16
+url: https://discourse.slicer.org/t/27872
+---
+
 # Issue with "INTERSECT" segment editor effect programming (others are fine)
 
 **Topic ID**: 27872

@@ -1,3 +1,10 @@
+---
+topic_id: 1241
+title: "Determining Current File Name"
+date: 2017-10-18
+url: https://discourse.slicer.org/t/1241
+---
+
 # Determining current file name
 
 **Topic ID**: 1241

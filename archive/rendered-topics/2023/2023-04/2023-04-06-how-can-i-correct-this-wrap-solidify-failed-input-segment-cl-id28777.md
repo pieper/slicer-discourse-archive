@@ -1,3 +1,10 @@
+---
+topic_id: 28777
+title: "How Can I Correct This Wrap Solidify Failed Input Segment Cl"
+date: 2023-04-06
+url: https://discourse.slicer.org/t/28777
+---
+
 # How can I correct this "Wrap solidify failed: Input segment closed surface representation is empty"?
 
 **Topic ID**: 28777

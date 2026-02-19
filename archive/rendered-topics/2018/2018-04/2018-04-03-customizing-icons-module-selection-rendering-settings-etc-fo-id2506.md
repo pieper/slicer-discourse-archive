@@ -1,3 +1,10 @@
+---
+topic_id: 2506
+title: "Customizing Icons Module Selection Rendering Settings Etc Fo"
+date: 2018-04-03
+url: https://discourse.slicer.org/t/2506
+---
+
 # Customizing icons, module selection, Rendering settings etc for all users
 
 **Topic ID**: 2506

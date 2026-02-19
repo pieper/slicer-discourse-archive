@@ -1,3 +1,10 @@
+---
+topic_id: 24770
+title: "Reading Correct Orientations Of Analyze 7 5 Data Into 3D Sli"
+date: 2022-08-15
+url: https://discourse.slicer.org/t/24770
+---
+
 # Reading correct orientations of Analyze 7.5 data into 3D Slicer
 
 **Topic ID**: 24770

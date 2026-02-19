@@ -1,3 +1,10 @@
+---
+topic_id: 19068
+title: "How Do I Set Segmentation Resolution"
+date: 2021-08-05
+url: https://discourse.slicer.org/t/19068
+---
+
 # How do I set segmentation resolution
 
 **Topic ID**: 19068

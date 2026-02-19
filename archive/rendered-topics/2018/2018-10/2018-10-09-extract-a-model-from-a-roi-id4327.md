@@ -1,3 +1,10 @@
+---
+topic_id: 4327
+title: "Extract A Model From A Roi"
+date: 2018-10-09
+url: https://discourse.slicer.org/t/4327
+---
+
 # Extract a model from a ROI
 
 **Topic ID**: 4327

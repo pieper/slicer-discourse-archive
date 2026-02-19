@@ -1,3 +1,10 @@
+---
+topic_id: 29693
+title: "Extraction Of Profile Curve From An Epid Image"
+date: 2023-05-27
+url: https://discourse.slicer.org/t/29693
+---
+
 # extraction of profile curve from an EPID image
 
 **Topic ID**: 29693

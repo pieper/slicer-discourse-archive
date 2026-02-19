@@ -1,3 +1,10 @@
+---
+topic_id: 42094
+title: "Simpleitk Direction Matrix Behavior"
+date: 2025-03-12
+url: https://discourse.slicer.org/t/42094
+---
+
 # SimpleITK Direction Matrix Behavior
 
 **Topic ID**: 42094

@@ -1,3 +1,10 @@
+---
+topic_id: 711
+title: "Change Ct Intensity After Reslice"
+date: 2017-07-18
+url: https://discourse.slicer.org/t/711
+---
+
 # Change CT intensity after Reslice
 
 **Topic ID**: 711

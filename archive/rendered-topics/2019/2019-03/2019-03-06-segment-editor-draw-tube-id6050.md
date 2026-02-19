@@ -1,3 +1,10 @@
+---
+topic_id: 6050
+title: "Segment Editor Draw Tube"
+date: 2019-03-06
+url: https://discourse.slicer.org/t/6050
+---
+
 # Segment Editor: Draw Tube
 
 **Topic ID**: 6050

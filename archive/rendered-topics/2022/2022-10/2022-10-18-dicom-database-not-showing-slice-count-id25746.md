@@ -1,3 +1,10 @@
+---
+topic_id: 25746
+title: "Dicom Database Not Showing Slice Count"
+date: 2022-10-18
+url: https://discourse.slicer.org/t/25746
+---
+
 # DICOM database not showing slice count
 
 **Topic ID**: 25746

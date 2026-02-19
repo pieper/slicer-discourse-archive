@@ -1,3 +1,10 @@
+---
+topic_id: 21582
+title: "Specifying Dependencies Of A Custom Extension In The S4Ext F"
+date: 2022-01-23
+url: https://discourse.slicer.org/t/21582
+---
+
 # Specifying dependencies of a custom extension in the .s4ext file
 
 **Topic ID**: 21582

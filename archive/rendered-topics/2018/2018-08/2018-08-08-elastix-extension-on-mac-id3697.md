@@ -1,3 +1,10 @@
+---
+topic_id: 3697
+title: "Elastix Extension On Mac"
+date: 2018-08-08
+url: https://discourse.slicer.org/t/3697
+---
+
 # Elastix extension on Mac
 
 **Topic ID**: 3697

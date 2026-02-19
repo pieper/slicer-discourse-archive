@@ -1,3 +1,10 @@
+---
+topic_id: 19373
+title: "No Opengl Support On Nvidia A100 In Multiuser Mode"
+date: 2021-08-26
+url: https://discourse.slicer.org/t/19373
+---
+
 # No openGL support on Nvidia A100 in multiuser mode
 
 **Topic ID**: 19373

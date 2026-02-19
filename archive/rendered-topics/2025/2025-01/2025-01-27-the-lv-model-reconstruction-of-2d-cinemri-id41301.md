@@ -1,3 +1,10 @@
+---
+topic_id: 41301
+title: "The Lv Model Reconstruction Of 2D Cinemri"
+date: 2025-01-27
+url: https://discourse.slicer.org/t/41301
+---
+
 # The LV model reconstruction of 2D cineMRI
 
 **Topic ID**: 41301

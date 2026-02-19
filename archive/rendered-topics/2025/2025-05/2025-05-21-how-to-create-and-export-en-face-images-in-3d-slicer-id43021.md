@@ -1,3 +1,10 @@
+---
+topic_id: 43021
+title: "How To Create And Export En Face Images In 3D Slicer"
+date: 2025-05-21
+url: https://discourse.slicer.org/t/43021
+---
+
 # How to Create and Export En Face Images in 3D Slicer?
 
 **Topic ID**: 43021

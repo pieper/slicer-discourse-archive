@@ -1,3 +1,10 @@
+---
+topic_id: 2447
+title: "Color Module Continuous Display Is Greyed Out"
+date: 2018-03-27
+url: https://discourse.slicer.org/t/2447
+---
+
 # Color module: Continuous display is greyed out
 
 **Topic ID**: 2447

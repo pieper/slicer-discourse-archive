@@ -1,3 +1,10 @@
+---
+topic_id: 5050
+title: "Virtualgl Issue With Nightly"
+date: 2018-12-11
+url: https://discourse.slicer.org/t/5050
+---
+
 # virtualGL issue with nightly
 
 **Topic ID**: 5050

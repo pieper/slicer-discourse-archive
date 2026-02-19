@@ -1,3 +1,10 @@
+---
+topic_id: 38379
+title: "Cant Find Segmentcomparison In Slicerrt In The 3D Slicer 5 6"
+date: 2024-09-14
+url: https://discourse.slicer.org/t/38379
+---
+
 # Can't find segmentcomparison in SlicerRT in the 3d slicer 5.6.2
 
 **Topic ID**: 38379

@@ -1,3 +1,10 @@
+---
+topic_id: 8790
+title: "Etmoidal And Frontal Sinus Segmentation"
+date: 2019-10-15
+url: https://discourse.slicer.org/t/8790
+---
+
 # etmoidal and Frontal sinus segmentation 
 
 **Topic ID**: 8790

@@ -1,3 +1,10 @@
+---
+topic_id: 19899
+title: "Mac Preview Release Build Failed To Load Content In Extensio"
+date: 2021-09-28
+url: https://discourse.slicer.org/t/19899
+---
+
 # Mac preview release build failed to load content in extension manager
 
 **Topic ID**: 19899

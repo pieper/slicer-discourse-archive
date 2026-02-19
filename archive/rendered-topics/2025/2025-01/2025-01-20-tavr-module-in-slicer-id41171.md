@@ -1,3 +1,10 @@
+---
+topic_id: 41171
+title: "Tavr Module In Slicer"
+date: 2025-01-20
+url: https://discourse.slicer.org/t/41171
+---
+
 # TAVR module in Slicer
 
 **Topic ID**: 41171

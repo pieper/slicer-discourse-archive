@@ -1,3 +1,10 @@
+---
+topic_id: 12777
+title: "Need Help Saved Scene Will Not Load"
+date: 2020-07-29
+url: https://discourse.slicer.org/t/12777
+---
+
 # Need help! Saved scene will not load. 
 
 **Topic ID**: 12777

@@ -1,3 +1,10 @@
+---
+topic_id: 11333
+title: "Slicer Quits Unexpectedly"
+date: 2020-04-28
+url: https://discourse.slicer.org/t/11333
+---
+
 # Slicer quits unexpectedly
 
 **Topic ID**: 11333

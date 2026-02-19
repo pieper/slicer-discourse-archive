@@ -1,3 +1,10 @@
+---
+topic_id: 6582
+title: "Wiki Page Template"
+date: 2019-04-23
+url: https://discourse.slicer.org/t/6582
+---
+
 # Wiki page template
 
 **Topic ID**: 6582

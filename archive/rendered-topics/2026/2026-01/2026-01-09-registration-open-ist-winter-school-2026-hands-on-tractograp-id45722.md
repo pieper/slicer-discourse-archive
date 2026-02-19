@@ -1,3 +1,10 @@
+---
+topic_id: 45722
+title: "Registration Open Ist Winter School 2026 Hands On Tractograp"
+date: 2026-01-09
+url: https://discourse.slicer.org/t/45722
+---
+
 # Registration Open: IST Winter School 2026 (Hands-on Tractography) – Verona, Italy
 
 **Topic ID**: 45722

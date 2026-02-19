@@ -1,3 +1,10 @@
+---
+topic_id: 35282
+title: "Segment Registration Parameters"
+date: 2024-04-04
+url: https://discourse.slicer.org/t/35282
+---
+
 # Segment Registration: parameters
 
 **Topic ID**: 35282

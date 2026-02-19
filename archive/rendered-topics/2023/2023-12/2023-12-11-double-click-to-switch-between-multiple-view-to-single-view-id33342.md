@@ -1,3 +1,10 @@
+---
+topic_id: 33342
+title: "Double Click To Switch Between Multiple View To Single View"
+date: 2023-12-11
+url: https://discourse.slicer.org/t/33342
+---
+
 # Double click to switch between multiple view to single view of slice not working (Slicer 5.6.0 release)
 
 **Topic ID**: 33342

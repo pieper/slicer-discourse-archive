@@ -1,3 +1,10 @@
+---
+topic_id: 4030
+title: "Improve The Resolution Of Segment For Import A Model"
+date: 2018-09-09
+url: https://discourse.slicer.org/t/4030
+---
+
 # Improve the resolution of segment for "import a model"
 
 **Topic ID**: 4030

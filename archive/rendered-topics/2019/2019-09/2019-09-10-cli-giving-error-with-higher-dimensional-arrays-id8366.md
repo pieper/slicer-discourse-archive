@@ -1,3 +1,10 @@
+---
+topic_id: 8366
+title: "Cli Giving Error With Higher Dimensional Arrays"
+date: 2019-09-10
+url: https://discourse.slicer.org/t/8366
+---
+
 # CLI giving error with higher dimensional arrays
 
 **Topic ID**: 8366

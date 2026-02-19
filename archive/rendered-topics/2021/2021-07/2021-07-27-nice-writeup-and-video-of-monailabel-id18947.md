@@ -1,3 +1,10 @@
+---
+topic_id: 18947
+title: "Nice Writeup And Video Of Monailabel"
+date: 2021-07-27
+url: https://discourse.slicer.org/t/18947
+---
+
 # Nice writeup and video of MONAILabel
 
 **Topic ID**: 18947

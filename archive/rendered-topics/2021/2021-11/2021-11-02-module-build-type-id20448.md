@@ -1,3 +1,10 @@
+---
+topic_id: 20448
+title: "Module Build Type"
+date: 2021-11-02
+url: https://discourse.slicer.org/t/20448
+---
+
 # Module build type
 
 **Topic ID**: 20448

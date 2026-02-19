@@ -1,3 +1,10 @@
+---
+topic_id: 43236
+title: "Issue With Hdbrainextraction Tool Not Completing Error Messa"
+date: 2025-06-05
+url: https://discourse.slicer.org/t/43236
+---
+
 # Issue with HDBrainExtraction Tool Not Completing – Error Message Appears
 
 **Topic ID**: 43236

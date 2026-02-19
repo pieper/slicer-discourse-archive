@@ -1,3 +1,10 @@
+---
+topic_id: 41158
+title: "Cant Download Because The Source File Cannot Be Read"
+date: 2025-01-20
+url: https://discourse.slicer.org/t/41158
+---
+
 # Can't download because the source file cannot be read
 
 **Topic ID**: 41158

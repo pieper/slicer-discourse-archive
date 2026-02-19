@@ -1,3 +1,10 @@
+---
+topic_id: 23547
+title: "File Names And Download Of Sample Data"
+date: 2022-05-23
+url: https://discourse.slicer.org/t/23547
+---
+
 # File names and download of sample data
 
 **Topic ID**: 23547

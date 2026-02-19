@@ -1,3 +1,10 @@
+---
+topic_id: 33640
+title: "Save Model As Stl In Ras"
+date: 2024-01-05
+url: https://discourse.slicer.org/t/33640
+---
+
 # Save model as stl in RAS
 
 **Topic ID**: 33640

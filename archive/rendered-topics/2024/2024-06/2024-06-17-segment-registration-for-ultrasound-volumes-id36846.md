@@ -1,3 +1,10 @@
+---
+topic_id: 36846
+title: "Segment Registration For Ultrasound Volumes"
+date: 2024-06-17
+url: https://discourse.slicer.org/t/36846
+---
+
 # Segment registration for ultrasound volumes
 
 **Topic ID**: 36846

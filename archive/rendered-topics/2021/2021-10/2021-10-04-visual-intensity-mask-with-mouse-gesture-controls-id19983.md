@@ -1,3 +1,10 @@
+---
+topic_id: 19983
+title: "Visual Intensity Mask With Mouse Gesture Controls"
+date: 2021-10-04
+url: https://discourse.slicer.org/t/19983
+---
+
 # Visual intensity mask with mouse gesture controls
 
 **Topic ID**: 19983

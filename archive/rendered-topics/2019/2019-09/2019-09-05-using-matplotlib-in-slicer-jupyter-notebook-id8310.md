@@ -1,3 +1,10 @@
+---
+topic_id: 8310
+title: "Using Matplotlib In Slicer Jupyter Notebook"
+date: 2019-09-05
+url: https://discourse.slicer.org/t/8310
+---
+
 # Using matplotlib in Slicer jupyter notebook
 
 **Topic ID**: 8310

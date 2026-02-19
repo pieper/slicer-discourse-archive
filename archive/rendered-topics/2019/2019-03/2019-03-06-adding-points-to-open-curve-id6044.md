@@ -1,3 +1,10 @@
+---
+topic_id: 6044
+title: "Adding Points To Open Curve"
+date: 2019-03-06
+url: https://discourse.slicer.org/t/6044
+---
+
 # Adding points to open curve
 
 **Topic ID**: 6044

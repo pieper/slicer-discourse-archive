@@ -1,3 +1,10 @@
+---
+topic_id: 12460
+title: "Ignore Modules At Startup"
+date: 2020-07-09
+url: https://discourse.slicer.org/t/12460
+---
+
 # Ignore modules at startup
 
 **Topic ID**: 12460

@@ -1,3 +1,10 @@
+---
+topic_id: 16339
+title: "Create Volume Rendering Presets"
+date: 2021-03-03
+url: https://discourse.slicer.org/t/16339
+---
+
 # Create volume rendering presets
 
 **Topic ID**: 16339

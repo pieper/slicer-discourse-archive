@@ -1,3 +1,10 @@
+---
+topic_id: 16784
+title: "Load 3D Ultrasound From Samsung Mvl Or Dicom Files"
+date: 2021-03-21
+url: https://discourse.slicer.org/t/16784
+---
+
 # Load 3D ultrasound from Samsung .mvl or DICOM files
 
 **Topic ID**: 16784

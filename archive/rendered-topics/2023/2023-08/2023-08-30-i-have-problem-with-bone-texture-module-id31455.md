@@ -1,3 +1,10 @@
+---
+topic_id: 31455
+title: "I Have Problem With Bone Texture Module"
+date: 2023-08-30
+url: https://discourse.slicer.org/t/31455
+---
+
 # I have problem with bone texture module.
 
 **Topic ID**: 31455

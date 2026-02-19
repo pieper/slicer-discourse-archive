@@ -1,3 +1,10 @@
+---
+topic_id: 23753
+title: "Folder Visibility Confusing"
+date: 2022-06-07
+url: https://discourse.slicer.org/t/23753
+---
+
 # Folder visibility confusing
 
 **Topic ID**: 23753

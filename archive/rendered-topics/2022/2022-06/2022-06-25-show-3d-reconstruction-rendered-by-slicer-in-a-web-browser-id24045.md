@@ -1,3 +1,10 @@
+---
+topic_id: 24045
+title: "Show 3D Reconstruction Rendered By Slicer In A Web Browser"
+date: 2022-06-25
+url: https://discourse.slicer.org/t/24045
+---
+
 # Show 3D reconstruction rendered by Slicer in a web browser
 
 **Topic ID**: 24045

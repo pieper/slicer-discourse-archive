@@ -1,3 +1,10 @@
+---
+topic_id: 36280
+title: "Deep Learning Model For Segmenting Many Of Same Things"
+date: 2024-05-20
+url: https://discourse.slicer.org/t/36280
+---
+
 # Deep learning model for segmenting many of same things
 
 **Topic ID**: 36280

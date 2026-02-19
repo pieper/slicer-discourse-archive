@@ -1,3 +1,10 @@
+---
+topic_id: 29339
+title: "3D Slicer Only Showing One Slice"
+date: 2023-05-08
+url: https://discourse.slicer.org/t/29339
+---
+
 # 3D slicer only showing one slice
 
 **Topic ID**: 29339

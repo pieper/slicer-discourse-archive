@@ -1,3 +1,10 @@
+---
+topic_id: 25725
+title: "Linear Transform In Image Plane"
+date: 2022-10-16
+url: https://discourse.slicer.org/t/25725
+---
+
 # Linear transform in image plane
 
 **Topic ID**: 25725

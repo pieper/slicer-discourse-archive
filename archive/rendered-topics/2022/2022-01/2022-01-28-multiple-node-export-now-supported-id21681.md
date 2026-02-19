@@ -1,3 +1,10 @@
+---
+topic_id: 21681
+title: "Multiple Node Export Now Supported"
+date: 2022-01-28
+url: https://discourse.slicer.org/t/21681
+---
+
 # Multiple node export now supported
 
 **Topic ID**: 21681

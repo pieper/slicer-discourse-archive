@@ -1,3 +1,10 @@
+---
+topic_id: 10583
+title: "Problems Loading Dicom File"
+date: 2020-03-07
+url: https://discourse.slicer.org/t/10583
+---
+
 # Problems loading dicom file
 
 **Topic ID**: 10583

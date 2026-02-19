@@ -1,3 +1,10 @@
+---
+topic_id: 24553
+title: "What Is The Corresponding Matrix To The Transformation Rotat"
+date: 2022-07-29
+url: https://discourse.slicer.org/t/24553
+---
+
 # What is the corresponding matrix to the transformation/rotation I need?
 
 **Topic ID**: 24553

@@ -1,3 +1,10 @@
+---
+topic_id: 15996
+title: "Binwidth Optimization"
+date: 2021-02-15
+url: https://discourse.slicer.org/t/15996
+---
+
 # Binwidth Optimization
 
 **Topic ID**: 15996

@@ -1,3 +1,10 @@
+---
+topic_id: 37223
+title: "Dockable Qtwidgets"
+date: 2024-07-05
+url: https://discourse.slicer.org/t/37223
+---
+
 # Dockable qtWidgets
 
 **Topic ID**: 37223

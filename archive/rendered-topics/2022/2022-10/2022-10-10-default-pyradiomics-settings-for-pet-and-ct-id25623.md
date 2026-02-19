@@ -1,3 +1,10 @@
+---
+topic_id: 25623
+title: "Default Pyradiomics Settings For Pet And Ct"
+date: 2022-10-10
+url: https://discourse.slicer.org/t/25623
+---
+
 # Default pyradiomics settings for PET and CT
 
 **Topic ID**: 25623

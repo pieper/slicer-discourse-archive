@@ -1,3 +1,10 @@
+---
+topic_id: 9622
+title: "Deepinfer Issues"
+date: 2019-12-26
+url: https://discourse.slicer.org/t/9622
+---
+
 # DeepInfer issues
 
 **Topic ID**: 9622

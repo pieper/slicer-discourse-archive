@@ -1,3 +1,10 @@
+---
+topic_id: 10348
+title: "Slicer App Crashing When Segmenteditor Islands Effect Is Run"
+date: 2020-02-19
+url: https://discourse.slicer.org/t/10348
+---
+
 # Slicer app crashing when SegmentEditor Islands effect is run on an empty segment
 
 **Topic ID**: 10348

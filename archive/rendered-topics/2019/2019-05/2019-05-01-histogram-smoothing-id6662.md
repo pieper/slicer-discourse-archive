@@ -1,3 +1,10 @@
+---
+topic_id: 6662
+title: "Histogram Smoothing"
+date: 2019-05-01
+url: https://discourse.slicer.org/t/6662
+---
+
 # Histogram smoothing
 
 **Topic ID**: 6662

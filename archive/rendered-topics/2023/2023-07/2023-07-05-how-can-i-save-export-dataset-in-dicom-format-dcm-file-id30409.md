@@ -1,3 +1,10 @@
+---
+topic_id: 30409
+title: "How Can I Save Export Dataset In Dicom Format Dcm File"
+date: 2023-07-05
+url: https://discourse.slicer.org/t/30409
+---
+
 # How can I save(export)dataset in dicom format(.dcm file)?
 
 **Topic ID**: 30409

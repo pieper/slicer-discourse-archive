@@ -1,3 +1,10 @@
+---
+topic_id: 25648
+title: "How To Get The Eye Visibility Checkbox Widget In My Module"
+date: 2022-10-11
+url: https://discourse.slicer.org/t/25648
+---
+
 # How to get the eye visibility checkbox widget in my module
 
 **Topic ID**: 25648

@@ -1,3 +1,10 @@
+---
+topic_id: 19455
+title: "Setmatrixtransformtoparent Consume Much Time"
+date: 2021-09-01
+url: https://discourse.slicer.org/t/19455
+---
+
 # SetMatrixTransformToParent consume much time
 
 **Topic ID**: 19455

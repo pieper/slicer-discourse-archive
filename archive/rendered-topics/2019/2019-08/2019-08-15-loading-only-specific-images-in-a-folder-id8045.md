@@ -1,3 +1,10 @@
+---
+topic_id: 8045
+title: "Loading Only Specific Images In A Folder"
+date: 2019-08-15
+url: https://discourse.slicer.org/t/8045
+---
+
 # Loading only specific images in a folder. 
 
 **Topic ID**: 8045

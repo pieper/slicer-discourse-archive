@@ -1,3 +1,10 @@
+---
+topic_id: 39919
+title: "Avi To Dicom File"
+date: 2024-10-29
+url: https://discourse.slicer.org/t/39919
+---
+
 # AVI to DICOM file
 
 **Topic ID**: 39919

@@ -1,3 +1,10 @@
+---
+topic_id: 22320
+title: "Errors In Windows Build Of Preview Version"
+date: 2022-03-04
+url: https://discourse.slicer.org/t/22320
+---
+
 # Errors in Windows build of preview version
 
 **Topic ID**: 22320

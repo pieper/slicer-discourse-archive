@@ -1,3 +1,10 @@
+---
+topic_id: 35776
+title: "How To Perform Us Mri Ct Registration"
+date: 2024-04-28
+url: https://discourse.slicer.org/t/35776
+---
+
 # How to perform US MRI/CT registration?
 
 **Topic ID**: 35776

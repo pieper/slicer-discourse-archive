@@ -1,3 +1,10 @@
+---
+topic_id: 5241
+title: "Ultra Sound Scout Scan"
+date: 2019-01-01
+url: https://discourse.slicer.org/t/5241
+---
+
 # Ultra sound - scout scan
 
 **Topic ID**: 5241

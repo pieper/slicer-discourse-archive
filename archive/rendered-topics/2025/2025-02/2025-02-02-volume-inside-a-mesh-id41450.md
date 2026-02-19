@@ -1,3 +1,10 @@
+---
+topic_id: 41450
+title: "Volume Inside A Mesh"
+date: 2025-02-02
+url: https://discourse.slicer.org/t/41450
+---
+
 # Volume inside a mesh
 
 **Topic ID**: 41450

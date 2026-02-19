@@ -1,3 +1,10 @@
+---
+topic_id: 3544
+title: "Having Difficulty Getting Mri To Show Up"
+date: 2018-07-20
+url: https://discourse.slicer.org/t/3544
+---
+
 # Having difficulty getting MRI to show up
 
 **Topic ID**: 3544

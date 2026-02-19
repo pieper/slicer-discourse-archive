@@ -1,3 +1,10 @@
+---
+topic_id: 20474
+title: "Dicom Module Not Working When Used As Startup Module"
+date: 2021-11-03
+url: https://discourse.slicer.org/t/20474
+---
+
 # DICOM module not working when used as startup module
 
 **Topic ID**: 20474

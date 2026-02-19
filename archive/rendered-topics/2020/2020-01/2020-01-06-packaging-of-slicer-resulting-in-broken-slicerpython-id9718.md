@@ -1,3 +1,10 @@
+---
+topic_id: 9718
+title: "Packaging Of Slicer Resulting In Broken Slicerpython"
+date: 2020-01-06
+url: https://discourse.slicer.org/t/9718
+---
+
 # Packaging of Slicer resulting in broken SlicerPython
 
 **Topic ID**: 9718

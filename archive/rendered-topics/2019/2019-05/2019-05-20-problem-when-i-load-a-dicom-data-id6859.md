@@ -1,3 +1,10 @@
+---
+topic_id: 6859
+title: "Problem When I Load A Dicom Data"
+date: 2019-05-20
+url: https://discourse.slicer.org/t/6859
+---
+
 # Problem when I load a Dicom data
 
 **Topic ID**: 6859

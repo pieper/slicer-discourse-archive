@@ -1,3 +1,10 @@
+---
+topic_id: 25563
+title: "My Sliceview Is Only Updated After Scrolling The Mouse"
+date: 2022-10-05
+url: https://discourse.slicer.org/t/25563
+---
+
 # My SliceView is only updated after scrolling the mouse
 
 **Topic ID**: 25563

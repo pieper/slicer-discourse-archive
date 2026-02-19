@@ -1,3 +1,10 @@
+---
+topic_id: 39467
+title: "Combine Two Surface Meshes And Stitch Edges"
+date: 2024-10-01
+url: https://discourse.slicer.org/t/39467
+---
+
 # Combine two surface meshes and stitch edges
 
 **Topic ID**: 39467

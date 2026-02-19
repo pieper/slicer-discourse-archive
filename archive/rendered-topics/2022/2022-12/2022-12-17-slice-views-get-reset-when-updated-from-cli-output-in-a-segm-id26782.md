@@ -1,3 +1,10 @@
+---
+topic_id: 26782
+title: "Slice Views Get Reset When Updated From Cli Output In A Segm"
+date: 2022-12-17
+url: https://discourse.slicer.org/t/26782
+---
+
 # Slice views get reset when updated from cli output in a segment editor effect
 
 **Topic ID**: 26782

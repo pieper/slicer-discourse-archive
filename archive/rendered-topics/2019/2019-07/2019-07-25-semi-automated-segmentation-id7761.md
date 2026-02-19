@@ -1,3 +1,10 @@
+---
+topic_id: 7761
+title: "Semi Automated Segmentation"
+date: 2019-07-25
+url: https://discourse.slicer.org/t/7761
+---
+
 # Semi automated segmentation
 
 **Topic ID**: 7761

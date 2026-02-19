@@ -1,3 +1,10 @@
+---
+topic_id: 17441
+title: "How To Change The Transform Of My External Tracker Using Pyt"
+date: 2021-05-04
+url: https://discourse.slicer.org/t/17441
+---
+
 # How to change the transform of my external tracker using python?
 
 **Topic ID**: 17441

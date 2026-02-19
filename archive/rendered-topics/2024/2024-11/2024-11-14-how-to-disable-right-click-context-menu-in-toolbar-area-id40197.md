@@ -1,3 +1,10 @@
+---
+topic_id: 40197
+title: "How To Disable Right Click Context Menu In Toolbar Area"
+date: 2024-11-14
+url: https://discourse.slicer.org/t/40197
+---
+
 # How to Disable Right-Click Context Menu in Toolbar Area?
 
 **Topic ID**: 40197

@@ -1,3 +1,10 @@
+---
+topic_id: 22205
+title: "How To Determine The Center Point Coordinates Of The Modelin"
+date: 2022-02-28
+url: https://discourse.slicer.org/t/22205
+---
+
 # How to determine the center point coordinates of the modeling area?
 
 **Topic ID**: 22205

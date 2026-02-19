@@ -1,3 +1,10 @@
+---
+topic_id: 8194
+title: "Method To Remove Surrounding Body Parts"
+date: 2019-08-27
+url: https://discourse.slicer.org/t/8194
+---
+
 # Method to remove surrounding body parts
 
 **Topic ID**: 8194

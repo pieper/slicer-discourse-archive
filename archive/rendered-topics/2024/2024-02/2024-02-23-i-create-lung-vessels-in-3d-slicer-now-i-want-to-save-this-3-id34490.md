@@ -1,3 +1,10 @@
+---
+topic_id: 34490
+title: "I Create Lung Vessels In 3D Slicer Now I Want To Save This 3"
+date: 2024-02-23
+url: https://discourse.slicer.org/t/34490
+---
+
 # I create lung vessels in 3d slicer now i want to save this 3d lung vessels because after i will change this 3d lung vessels into stl file for 3d printing
 
 **Topic ID**: 34490

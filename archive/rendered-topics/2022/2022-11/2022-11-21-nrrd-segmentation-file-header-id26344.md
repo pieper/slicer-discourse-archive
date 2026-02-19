@@ -1,3 +1,10 @@
+---
+topic_id: 26344
+title: "Nrrd Segmentation File Header"
+date: 2022-11-21
+url: https://discourse.slicer.org/t/26344
+---
+
 # NRRD segmentation file header
 
 **Topic ID**: 26344

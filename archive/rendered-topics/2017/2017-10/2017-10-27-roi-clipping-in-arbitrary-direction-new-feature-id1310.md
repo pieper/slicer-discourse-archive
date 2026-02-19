@@ -1,3 +1,10 @@
+---
+topic_id: 1310
+title: "Roi Clipping In Arbitrary Direction New Feature"
+date: 2017-10-27
+url: https://discourse.slicer.org/t/1310
+---
+
 # ROI clipping in arbitrary direction (new feature)
 
 **Topic ID**: 1310

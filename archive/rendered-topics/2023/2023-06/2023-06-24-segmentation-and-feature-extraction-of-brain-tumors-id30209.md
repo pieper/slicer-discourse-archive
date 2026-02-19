@@ -1,3 +1,10 @@
+---
+topic_id: 30209
+title: "Segmentation And Feature Extraction Of Brain Tumors"
+date: 2023-06-24
+url: https://discourse.slicer.org/t/30209
+---
+
 # Segmentation and feature extraction of brain tumors
 
 **Topic ID**: 30209

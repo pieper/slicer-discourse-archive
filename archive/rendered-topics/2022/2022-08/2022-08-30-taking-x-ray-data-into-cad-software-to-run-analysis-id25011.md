@@ -1,3 +1,10 @@
+---
+topic_id: 25011
+title: "Taking X Ray Data Into Cad Software To Run Analysis"
+date: 2022-08-30
+url: https://discourse.slicer.org/t/25011
+---
+
 # Taking X-Ray Data into CAD Software to run analysis
 
 **Topic ID**: 25011

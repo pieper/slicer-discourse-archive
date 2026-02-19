@@ -1,3 +1,10 @@
+---
+topic_id: 41337
+title: "Placing Landmarks On 2D Images"
+date: 2025-01-28
+url: https://discourse.slicer.org/t/41337
+---
+
 # Placing Landmarks on 2D images
 
 **Topic ID**: 41337

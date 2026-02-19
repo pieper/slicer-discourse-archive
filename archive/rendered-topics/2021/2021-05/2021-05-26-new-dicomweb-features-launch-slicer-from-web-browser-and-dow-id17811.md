@@ -1,3 +1,10 @@
+---
+topic_id: 17811
+title: "New Dicomweb Features Launch Slicer From Web Browser And Dow"
+date: 2021-05-26
+url: https://discourse.slicer.org/t/17811
+---
+
 # New DICOMweb features: launch Slicer from web browser and download/upload data sets to the cloud using DICOMweb
 
 **Topic ID**: 17811

@@ -1,3 +1,10 @@
+---
+topic_id: 8929
+title: "Python Exits Abnormally When Using Spawn Method To Create A"
+date: 2019-10-28
+url: https://discourse.slicer.org/t/8929
+---
+
 # Python exits abnormally when using spawn method to create a new process in multiprocessing on Unix
 
 **Topic ID**: 8929

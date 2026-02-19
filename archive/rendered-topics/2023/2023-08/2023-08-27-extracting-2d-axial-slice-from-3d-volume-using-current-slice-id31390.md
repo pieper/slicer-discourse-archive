@@ -1,3 +1,10 @@
+---
+topic_id: 31390
+title: "Extracting 2D Axial Slice From 3D Volume Using Current Slice"
+date: 2023-08-27
+url: https://discourse.slicer.org/t/31390
+---
+
 # Extracting 2D axial slice from 3D volume using current slice view
 
 **Topic ID**: 31390

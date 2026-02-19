@@ -1,3 +1,10 @@
+---
+topic_id: 29868
+title: "Slicer 3D Line Widget"
+date: 2023-06-06
+url: https://discourse.slicer.org/t/29868
+---
+
 # Slicer 3d Line Widget
 
 **Topic ID**: 29868

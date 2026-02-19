@@ -1,3 +1,10 @@
+---
+topic_id: 27602
+title: "Edge Not Recovered Polygon Fill Suspect With Shortest Distan"
+date: 2023-02-02
+url: https://discourse.slicer.org/t/27602
+---
+
 # "Edge not recovered, polygon fill suspect" with "shortest distance on surface"
 
 **Topic ID**: 27602

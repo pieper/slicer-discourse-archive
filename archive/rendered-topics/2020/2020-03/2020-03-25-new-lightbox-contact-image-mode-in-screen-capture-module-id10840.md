@@ -1,3 +1,10 @@
+---
+topic_id: 10840
+title: "New Lightbox Contact Image Mode In Screen Capture Module"
+date: 2020-03-25
+url: https://discourse.slicer.org/t/10840
+---
+
 # New lightbox (contact image) mode in screen capture module
 
 **Topic ID**: 10840

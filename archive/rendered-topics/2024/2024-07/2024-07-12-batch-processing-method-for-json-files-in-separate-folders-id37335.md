@@ -1,3 +1,10 @@
+---
+topic_id: 37335
+title: "Batch Processing Method For Json Files In Separate Folders"
+date: 2024-07-12
+url: https://discourse.slicer.org/t/37335
+---
+
 # Batch Processing Method for Json Files in Separate Folders
 
 **Topic ID**: 37335

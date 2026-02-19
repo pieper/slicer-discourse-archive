@@ -1,3 +1,10 @@
+---
+topic_id: 15973
+title: "Clarification Re Rtstruct Display"
+date: 2021-02-12
+url: https://discourse.slicer.org/t/15973
+---
+
 # Clarification re RTSTRUCT display
 
 **Topic ID**: 15973

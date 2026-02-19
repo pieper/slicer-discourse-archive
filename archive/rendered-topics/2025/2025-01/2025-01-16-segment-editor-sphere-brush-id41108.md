@@ -1,3 +1,10 @@
+---
+topic_id: 41108
+title: "Segment Editor Sphere Brush"
+date: 2025-01-16
+url: https://discourse.slicer.org/t/41108
+---
+
 # Segment Editor Sphere Brush
 
 **Topic ID**: 41108

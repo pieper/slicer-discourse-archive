@@ -1,3 +1,10 @@
+---
+topic_id: 29379
+title: "Stitching Together Multiple Mris Into A Single Volume"
+date: 2023-05-09
+url: https://discourse.slicer.org/t/29379
+---
+
 # Stitching together multiple MRIs into a single volume
 
 **Topic ID**: 29379

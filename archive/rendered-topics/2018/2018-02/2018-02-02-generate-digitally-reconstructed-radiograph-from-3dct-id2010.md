@@ -1,3 +1,10 @@
+---
+topic_id: 2010
+title: "Generate Digitally Reconstructed Radiograph From 3Dct"
+date: 2018-02-02
+url: https://discourse.slicer.org/t/2010
+---
+
 # Generate digitally reconstructed radiograph from 3DCT
 
 **Topic ID**: 2010

@@ -1,3 +1,10 @@
+---
+topic_id: 28886
+title: "Unable To Download 3D Slicer 5 2 2 For Windows"
+date: 2023-04-13
+url: https://discourse.slicer.org/t/28886
+---
+
 # Unable to download 3D SLICER 5.2.2 for windows
 
 **Topic ID**: 28886

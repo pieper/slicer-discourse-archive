@@ -1,3 +1,10 @@
+---
+topic_id: 15369
+title: "Python Debugging In Visual Studio 2019"
+date: 2021-01-06
+url: https://discourse.slicer.org/t/15369
+---
+
 # Python debugging in Visual Studio 2019
 
 **Topic ID**: 15369

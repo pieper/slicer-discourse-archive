@@ -1,3 +1,10 @@
+---
+topic_id: 40798
+title: "Shapepopulationviewer Cant Open The Fiducial Files"
+date: 2024-12-19
+url: https://discourse.slicer.org/t/40798
+---
+
 # Shapepopulationviewer can't open the fiducial files
 
 **Topic ID**: 40798

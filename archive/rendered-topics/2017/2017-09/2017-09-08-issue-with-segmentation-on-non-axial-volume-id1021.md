@@ -1,3 +1,10 @@
+---
+topic_id: 1021
+title: "Issue With Segmentation On Non Axial Volume"
+date: 2017-09-08
+url: https://discourse.slicer.org/t/1021
+---
+
 # Issue with segmentation on non-axial volume
 
 **Topic ID**: 1021

@@ -1,3 +1,10 @@
+---
+topic_id: 575
+title: "Strange Behaviour Scripting With Curve Maker Extension Solve"
+date: 2017-06-26
+url: https://discourse.slicer.org/t/575
+---
+
 # Strange Behaviour Scripting with Curve Maker Extension [Solved]
 
 **Topic ID**: 575

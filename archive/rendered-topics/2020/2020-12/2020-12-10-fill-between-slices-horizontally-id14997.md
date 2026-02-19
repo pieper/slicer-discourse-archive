@@ -1,3 +1,10 @@
+---
+topic_id: 14997
+title: "Fill Between Slices Horizontally"
+date: 2020-12-10
+url: https://discourse.slicer.org/t/14997
+---
+
 # Fill between slices horizontally
 
 **Topic ID**: 14997

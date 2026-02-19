@@ -1,3 +1,10 @@
+---
+topic_id: 16474
+title: "Annoying Blinking Whenever Effect Is Applied"
+date: 2021-03-10
+url: https://discourse.slicer.org/t/16474
+---
+
 # Annoying blinking whenever effect is applied
 
 **Topic ID**: 16474

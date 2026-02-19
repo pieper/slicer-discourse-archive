@@ -1,3 +1,10 @@
+---
+topic_id: 16807
+title: "Merging Centrelines"
+date: 2021-03-28
+url: https://discourse.slicer.org/t/16807
+---
+
 # Merging Centrelines
 
 **Topic ID**: 16807

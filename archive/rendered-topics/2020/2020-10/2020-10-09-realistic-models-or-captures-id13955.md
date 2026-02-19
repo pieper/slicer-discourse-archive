@@ -1,3 +1,10 @@
+---
+topic_id: 13955
+title: "Realistic Models Or Captures"
+date: 2020-10-09
+url: https://discourse.slicer.org/t/13955
+---
+
 # Realistic Models, or captures
 
 **Topic ID**: 13955

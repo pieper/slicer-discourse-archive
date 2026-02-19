@@ -1,3 +1,10 @@
+---
+topic_id: 41031
+title: "More Efficient Alternative To While For Loop For Periodic Ac"
+date: 2025-01-10
+url: https://discourse.slicer.org/t/41031
+---
+
 # More efficient alternative to while/for loop for periodic action?
 
 **Topic ID**: 41031

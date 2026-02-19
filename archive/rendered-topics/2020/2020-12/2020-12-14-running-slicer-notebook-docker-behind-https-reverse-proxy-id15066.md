@@ -1,3 +1,10 @@
+---
+topic_id: 15066
+title: "Running Slicer Notebook Docker Behind Https Reverse Proxy"
+date: 2020-12-14
+url: https://discourse.slicer.org/t/15066
+---
+
 # Running slicer-notebook Docker behind HTTPS reverse proxy?
 
 **Topic ID**: 15066

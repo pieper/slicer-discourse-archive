@@ -1,3 +1,10 @@
+---
+topic_id: 21540
+title: "How To Get The Current Roinode Programmingly According To Th"
+date: 2022-01-20
+url: https://discourse.slicer.org/t/21540
+---
+
 # How to get the current ROINode programmingly according to the volume in the volume rendering module?
 
 **Topic ID**: 21540

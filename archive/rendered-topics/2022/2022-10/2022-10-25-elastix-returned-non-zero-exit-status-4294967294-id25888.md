@@ -1,3 +1,10 @@
+---
+topic_id: 25888
+title: "Elastix Returned Non Zero Exit Status 4294967294"
+date: 2022-10-25
+url: https://discourse.slicer.org/t/25888
+---
+
 # Elastix returned non-zero exit status 4294967294
 
 **Topic ID**: 25888

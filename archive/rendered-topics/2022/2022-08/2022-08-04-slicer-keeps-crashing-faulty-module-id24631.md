@@ -1,3 +1,10 @@
+---
+topic_id: 24631
+title: "Slicer Keeps Crashing Faulty Module"
+date: 2022-08-04
+url: https://discourse.slicer.org/t/24631
+---
+
 # Slicer keeps crashing "faulty module"
 
 **Topic ID**: 24631

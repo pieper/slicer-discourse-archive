@@ -1,3 +1,10 @@
+---
+topic_id: 661
+title: "Vmtk Issues In Slicer 4 6 2"
+date: 2017-07-10
+url: https://discourse.slicer.org/t/661
+---
+
 # VMTK issues in Slicer 4.6.2
 
 **Topic ID**: 661

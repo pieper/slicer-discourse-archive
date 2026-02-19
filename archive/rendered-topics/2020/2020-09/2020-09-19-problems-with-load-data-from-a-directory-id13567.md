@@ -1,3 +1,10 @@
+---
+topic_id: 13567
+title: "Problems With Load Data From A Directory"
+date: 2020-09-19
+url: https://discourse.slicer.org/t/13567
+---
+
 # Problems with Load Data from a directory
 
 **Topic ID**: 13567

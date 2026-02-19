@@ -1,3 +1,10 @@
+---
+topic_id: 34535
+title: "Workflow For Manual Ground Truth Segmentations In Vfss"
+date: 2024-02-26
+url: https://discourse.slicer.org/t/34535
+---
+
 # Workflow for (Manual, Ground Truth) Segmentations in VFSS
 
 **Topic ID**: 34535

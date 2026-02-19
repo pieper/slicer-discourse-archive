@@ -1,3 +1,10 @@
+---
+topic_id: 9382
+title: "Add Drag And Drop Import To Slicelet"
+date: 2019-12-04
+url: https://discourse.slicer.org/t/9382
+---
+
 # Add Drag and drop import to slicelet?
 
 **Topic ID**: 9382

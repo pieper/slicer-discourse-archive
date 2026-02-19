@@ -1,3 +1,10 @@
+---
+topic_id: 2585
+title: "Volume Cropping In Python Script"
+date: 2018-04-13
+url: https://discourse.slicer.org/t/2585
+---
+
 # Volume Cropping in Python Script
 
 **Topic ID**: 2585

@@ -1,3 +1,10 @@
+---
+topic_id: 18645
+title: "Segmentation Of Teeth"
+date: 2021-07-12
+url: https://discourse.slicer.org/t/18645
+---
+
 # Segmentation of teeth
 
 **Topic ID**: 18645

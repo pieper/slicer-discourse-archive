@@ -1,3 +1,10 @@
+---
+topic_id: 4352
+title: "Constrain Fiducials To Surface"
+date: 2018-10-10
+url: https://discourse.slicer.org/t/4352
+---
+
 # Constrain fiducials to surface
 
 **Topic ID**: 4352

@@ -1,3 +1,10 @@
+---
+topic_id: 35098
+title: "How To Debug Gdb Not Recognizing Source Files For 3D Slicer"
+date: 2024-03-26
+url: https://discourse.slicer.org/t/35098
+---
+
 # How to Debug? GDB Not Recognizing Source Files for 3D Slicer Debug Build
 
 **Topic ID**: 35098

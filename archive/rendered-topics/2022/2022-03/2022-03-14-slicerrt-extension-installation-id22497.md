@@ -1,3 +1,10 @@
+---
+topic_id: 22497
+title: "Slicerrt Extension Installation"
+date: 2022-03-14
+url: https://discourse.slicer.org/t/22497
+---
+
 # SlicerRT extension installation
 
 **Topic ID**: 22497

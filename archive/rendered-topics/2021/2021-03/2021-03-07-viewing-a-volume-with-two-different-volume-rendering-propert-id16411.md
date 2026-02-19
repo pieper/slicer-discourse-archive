@@ -1,3 +1,10 @@
+---
+topic_id: 16411
+title: "Viewing A Volume With Two Different Volume Rendering Propert"
+date: 2021-03-07
+url: https://discourse.slicer.org/t/16411
+---
+
 # Viewing a volume with two different volume rendering properties at same time
 
 **Topic ID**: 16411

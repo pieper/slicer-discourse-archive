@@ -1,3 +1,10 @@
+---
+topic_id: 6051
+title: "A Few Issues With The New Markups"
+date: 2019-03-06
+url: https://discourse.slicer.org/t/6051
+---
+
 # A few issues with the new Markups
 
 **Topic ID**: 6051

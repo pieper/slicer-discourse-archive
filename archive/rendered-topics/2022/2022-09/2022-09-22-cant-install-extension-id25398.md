@@ -1,3 +1,10 @@
+---
+topic_id: 25398
+title: "Cant Install Extension"
+date: 2022-09-22
+url: https://discourse.slicer.org/t/25398
+---
+
 # Can't install extension?
 
 **Topic ID**: 25398

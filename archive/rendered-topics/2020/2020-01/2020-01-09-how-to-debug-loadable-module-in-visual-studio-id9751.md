@@ -1,3 +1,10 @@
+---
+topic_id: 9751
+title: "How To Debug Loadable Module In Visual Studio"
+date: 2020-01-09
+url: https://discourse.slicer.org/t/9751
+---
+
 # How to debug loadable module in visual studio?
 
 **Topic ID**: 9751

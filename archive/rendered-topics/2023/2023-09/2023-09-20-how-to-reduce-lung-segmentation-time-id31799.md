@@ -1,3 +1,10 @@
+---
+topic_id: 31799
+title: "How To Reduce Lung Segmentation Time"
+date: 2023-09-20
+url: https://discourse.slicer.org/t/31799
+---
+
 # How to reduce lung segmentation time?
 
 **Topic ID**: 31799

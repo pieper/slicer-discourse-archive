@@ -1,3 +1,10 @@
+---
+topic_id: 46175
+title: "Endless Loading In The Dental Segmentator"
+date: 2026-02-16
+url: https://discourse.slicer.org/t/46175
+---
+
 # endless loading in the dental segmentator 
 
 **Topic ID**: 46175

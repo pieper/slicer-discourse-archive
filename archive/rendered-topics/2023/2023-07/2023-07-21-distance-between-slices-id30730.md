@@ -1,3 +1,10 @@
+---
+topic_id: 30730
+title: "Distance Between Slices"
+date: 2023-07-21
+url: https://discourse.slicer.org/t/30730
+---
+
 # Distance between slices 
 
 **Topic ID**: 30730

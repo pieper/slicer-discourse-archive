@@ -1,3 +1,10 @@
+---
+topic_id: 17426
+title: "Elastix Non Rigid Transform Displaying In The Wrong Area"
+date: 2021-05-03
+url: https://discourse.slicer.org/t/17426
+---
+
 # Elastix non-rigid transform displaying in the wrong area?
 
 **Topic ID**: 17426

@@ -1,3 +1,10 @@
+---
+topic_id: 19414
+title: "How To Erase All Segments With Eraser"
+date: 2021-08-30
+url: https://discourse.slicer.org/t/19414
+---
+
 # How to erase all segments with eraser?
 
 **Topic ID**: 19414

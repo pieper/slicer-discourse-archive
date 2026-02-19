@@ -1,3 +1,10 @@
+---
+topic_id: 176
+title: "Loading Volume From Dat File Format"
+date: 2017-04-23
+url: https://discourse.slicer.org/t/176
+---
+
 # Loading volume from .dat file format
 
 **Topic ID**: 176

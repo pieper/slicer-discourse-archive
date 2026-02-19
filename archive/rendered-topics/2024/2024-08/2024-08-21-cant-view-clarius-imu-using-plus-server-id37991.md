@@ -1,3 +1,10 @@
+---
+topic_id: 37991
+title: "Cant View Clarius Imu Using Plus Server"
+date: 2024-08-21
+url: https://discourse.slicer.org/t/37991
+---
+
 # Can't view Clarius IMU using PLUS server?
 
 **Topic ID**: 37991

@@ -1,3 +1,10 @@
+---
+topic_id: 35693
+title: "Monai Auto3Dsegmenta Error From Python Package Information"
+date: 2024-04-23
+url: https://discourse.slicer.org/t/35693
+---
+
 # Monai auto3dsegmenta - error from python package information
 
 **Topic ID**: 35693

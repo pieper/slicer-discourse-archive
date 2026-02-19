@@ -1,3 +1,10 @@
+---
+topic_id: 4343
+title: "Use Progress Bar From Python"
+date: 2018-10-10
+url: https://discourse.slicer.org/t/4343
+---
+
 # Use progress bar from python
 
 **Topic ID**: 4343

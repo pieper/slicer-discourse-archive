@@ -1,3 +1,10 @@
+---
+topic_id: 18267
+title: "Is There Any Way To Separate Bronchopulmonary Segments"
+date: 2021-06-22
+url: https://discourse.slicer.org/t/18267
+---
+
 # Is there any way to separate Bronchopulmonary segments
 
 **Topic ID**: 18267

@@ -1,3 +1,10 @@
+---
+topic_id: 29486
+title: "Gamma Calculation In Dose Comparison"
+date: 2023-05-16
+url: https://discourse.slicer.org/t/29486
+---
+
 # Gamma calculation in Dose Comparison
 
 **Topic ID**: 29486

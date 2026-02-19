@@ -1,3 +1,10 @@
+---
+topic_id: 45120
+title: "Slicerradiomics Pyradiomics In Slicer 5 10 0 On Macbook"
+date: 2025-11-17
+url: https://discourse.slicer.org/t/45120
+---
+
 # SlicerRadiomics/Pyradiomics in Slicer 5.10.0. on Macbook.
 
 **Topic ID**: 45120

@@ -1,3 +1,10 @@
+---
+topic_id: 20946
+title: "Set Orthogonal Vectors On Each Polygon Of A Polydata"
+date: 2021-12-07
+url: https://discourse.slicer.org/t/20946
+---
+
 # Set orthogonal vectors on each polygon of a polyData
 
 **Topic ID**: 20946

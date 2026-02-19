@@ -1,3 +1,10 @@
+---
+topic_id: 43499
+title: "Extension Manager Causing Freeze"
+date: 2025-06-26
+url: https://discourse.slicer.org/t/43499
+---
+
 # Extension manager causing freeze
 
 **Topic ID**: 43499

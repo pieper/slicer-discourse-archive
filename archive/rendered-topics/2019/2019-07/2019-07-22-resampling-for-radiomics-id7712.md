@@ -1,3 +1,10 @@
+---
+topic_id: 7712
+title: "Resampling For Radiomics"
+date: 2019-07-22
+url: https://discourse.slicer.org/t/7712
+---
+
 # Resampling for Radiomics
 
 **Topic ID**: 7712

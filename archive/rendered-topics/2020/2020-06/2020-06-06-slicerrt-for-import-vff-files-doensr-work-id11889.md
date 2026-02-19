@@ -1,3 +1,10 @@
+---
+topic_id: 11889
+title: "Slicerrt For Import Vff Files Doensr Work"
+date: 2020-06-06
+url: https://discourse.slicer.org/t/11889
+---
+
 # SlicerRT for import vff files doens'r work
 
 **Topic ID**: 11889

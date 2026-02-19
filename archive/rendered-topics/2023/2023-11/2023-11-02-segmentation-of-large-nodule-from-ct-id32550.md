@@ -1,3 +1,10 @@
+---
+topic_id: 32550
+title: "Segmentation Of Large Nodule From Ct"
+date: 2023-11-02
+url: https://discourse.slicer.org/t/32550
+---
+
 # Segmentation of large nodule from CT
 
 **Topic ID**: 32550

@@ -1,3 +1,10 @@
+---
+topic_id: 6923
+title: "I Cannot Change The Window Center Level With Left Click"
+date: 2019-05-25
+url: https://discourse.slicer.org/t/6923
+---
+
 # I cannot change the window/center level with left click
 
 **Topic ID**: 6923

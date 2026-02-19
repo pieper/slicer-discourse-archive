@@ -1,3 +1,10 @@
+---
+topic_id: 22154
+title: "Vessel Diameter From Centreline"
+date: 2022-02-24
+url: https://discourse.slicer.org/t/22154
+---
+
 # Vessel Diameter from Centreline
 
 **Topic ID**: 22154

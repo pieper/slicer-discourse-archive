@@ -1,3 +1,10 @@
+---
+topic_id: 9929
+title: "Dwi Epi Distortion Correction"
+date: 2020-01-23
+url: https://discourse.slicer.org/t/9929
+---
+
 # DWI EPI distortion correction
 
 **Topic ID**: 9929

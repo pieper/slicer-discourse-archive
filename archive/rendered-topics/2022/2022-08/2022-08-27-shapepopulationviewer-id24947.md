@@ -1,3 +1,10 @@
+---
+topic_id: 24947
+title: "Shapepopulationviewer"
+date: 2022-08-27
+url: https://discourse.slicer.org/t/24947
+---
+
 # ShapePopulationViewer
 
 **Topic ID**: 24947

@@ -1,3 +1,10 @@
+---
+topic_id: 25548
+title: "Install Pytorch Gpu Version In Slicer"
+date: 2022-10-04
+url: https://discourse.slicer.org/t/25548
+---
+
 # Install pytorch GPU version in Slicer
 
 **Topic ID**: 25548

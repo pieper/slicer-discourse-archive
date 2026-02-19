@@ -1,3 +1,10 @@
+---
+topic_id: 16349
+title: "Brain Volume Using Ct Images"
+date: 2021-03-04
+url: https://discourse.slicer.org/t/16349
+---
+
 # Brain volume using CT images
 
 **Topic ID**: 16349

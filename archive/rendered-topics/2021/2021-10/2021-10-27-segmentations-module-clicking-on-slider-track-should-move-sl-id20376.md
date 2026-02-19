@@ -1,3 +1,10 @@
+---
+topic_id: 20376
+title: "Segmentations Module Clicking On Slider Track Should Move Sl"
+date: 2021-10-27
+url: https://discourse.slicer.org/t/20376
+---
+
 # Segmentations module: clicking on slider track should move slider in steps; spinner should increment last digit
 
 **Topic ID**: 20376

@@ -1,3 +1,10 @@
+---
+topic_id: 23047
+title: "How To Run Pyradiomics"
+date: 2022-04-20
+url: https://discourse.slicer.org/t/23047
+---
+
 # How to run Pyradiomics
 
 **Topic ID**: 23047

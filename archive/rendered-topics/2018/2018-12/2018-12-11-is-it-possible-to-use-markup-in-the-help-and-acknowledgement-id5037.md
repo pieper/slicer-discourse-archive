@@ -1,3 +1,10 @@
+---
+topic_id: 5037
+title: "Is It Possible To Use Markup In The Help And Acknowledgement"
+date: 2018-12-11
+url: https://discourse.slicer.org/t/5037
+---
+
 # Is it possible to use markup in the Help and Acknowledgement sections
 
 **Topic ID**: 5037

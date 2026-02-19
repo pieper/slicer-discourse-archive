@@ -1,3 +1,10 @@
+---
+topic_id: 8431
+title: "Registration Of 2 Rt Dose From Tps And Monte Carlo Code"
+date: 2019-09-14
+url: https://discourse.slicer.org/t/8431
+---
+
 # Registration of 2 RT Dose from TPS and Monte Carlo code
 
 **Topic ID**: 8431

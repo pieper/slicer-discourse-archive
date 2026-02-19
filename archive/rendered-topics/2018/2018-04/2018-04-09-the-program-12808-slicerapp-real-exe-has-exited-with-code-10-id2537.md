@@ -1,3 +1,10 @@
+---
+topic_id: 2537
+title: "The Program 12808 Slicerapp Real Exe Has Exited With Code 10"
+date: 2018-04-09
+url: https://discourse.slicer.org/t/2537
+---
+
 # The program '[12808] SlicerApp-real.exe' has exited with code -1073741515 (0xc0000135) 'A dependent dll was not found'.
 
 **Topic ID**: 2537

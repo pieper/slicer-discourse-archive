@@ -1,3 +1,10 @@
+---
+topic_id: 42962
+title: "Ctk Axis Widget In 3Drendering"
+date: 2025-05-16
+url: https://discourse.slicer.org/t/42962
+---
+
 # CTK axis widget in 3Drendering
 
 **Topic ID**: 42962

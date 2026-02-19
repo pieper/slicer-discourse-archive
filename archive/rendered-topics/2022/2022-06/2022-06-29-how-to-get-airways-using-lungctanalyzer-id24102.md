@@ -1,3 +1,10 @@
+---
+topic_id: 24102
+title: "How To Get Airways Using Lungctanalyzer"
+date: 2022-06-29
+url: https://discourse.slicer.org/t/24102
+---
+
 # How to get airways using LungCTAnalyzer
 
 **Topic ID**: 24102

@@ -1,3 +1,10 @@
+---
+topic_id: 23371
+title: "Convert An Extension Into Standalone Application"
+date: 2022-05-11
+url: https://discourse.slicer.org/t/23371
+---
+
 # Convert an extension into standalone application
 
 **Topic ID**: 23371

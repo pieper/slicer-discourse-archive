@@ -1,3 +1,10 @@
+---
+topic_id: 18768
+title: "Checkerboard For Registered Mri And Ct Of Hip Bone"
+date: 2021-07-16
+url: https://discourse.slicer.org/t/18768
+---
+
 # Checkerboard for registered MRI and CT of hip bone
 
 **Topic ID**: 18768

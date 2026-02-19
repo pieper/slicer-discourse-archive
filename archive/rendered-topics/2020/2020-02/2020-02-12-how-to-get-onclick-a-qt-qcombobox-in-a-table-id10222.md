@@ -1,3 +1,10 @@
+---
+topic_id: 10222
+title: "How To Get Onclick A Qt Qcombobox In A Table"
+date: 2020-02-12
+url: https://discourse.slicer.org/t/10222
+---
+
 # How to get onClick a qt.QComboBox() in a table?
 
 **Topic ID**: 10222

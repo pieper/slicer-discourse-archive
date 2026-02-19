@@ -1,3 +1,10 @@
+---
+topic_id: 7114
+title: "Segmentation Overlay For Prostatecancer Ai"
+date: 2019-06-10
+url: https://discourse.slicer.org/t/7114
+---
+
 # Segmentation overlay for prostatecancer.ai
 
 **Topic ID**: 7114

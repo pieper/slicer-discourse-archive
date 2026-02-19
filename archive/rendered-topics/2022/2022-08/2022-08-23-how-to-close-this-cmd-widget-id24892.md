@@ -1,3 +1,10 @@
+---
+topic_id: 24892
+title: "How To Close This Cmd Widget"
+date: 2022-08-23
+url: https://discourse.slicer.org/t/24892
+---
+
 # how to close this cmd widget
 
 **Topic ID**: 24892

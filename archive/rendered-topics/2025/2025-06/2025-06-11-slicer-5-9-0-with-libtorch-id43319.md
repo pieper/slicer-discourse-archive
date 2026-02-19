@@ -1,3 +1,10 @@
+---
+topic_id: 43319
+title: "Slicer 5 9 0 With Libtorch"
+date: 2025-06-11
+url: https://discourse.slicer.org/t/43319
+---
+
 # Slicer 5.9.0 with libtorch
 
 **Topic ID**: 43319

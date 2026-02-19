@@ -1,3 +1,10 @@
+---
+topic_id: 23534
+title: "Problem With Slicer Built In Release Mode On Windows"
+date: 2022-05-23
+url: https://discourse.slicer.org/t/23534
+---
+
 # Problem with Slicer built in release mode on Windows
 
 **Topic ID**: 23534

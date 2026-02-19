@@ -1,3 +1,10 @@
+---
+topic_id: 533
+title: "3D Assessment Of Mandibular Asymmetry"
+date: 2017-06-19
+url: https://discourse.slicer.org/t/533
+---
+
 # 3D Assessment of Mandibular asymmetry
 
 **Topic ID**: 533

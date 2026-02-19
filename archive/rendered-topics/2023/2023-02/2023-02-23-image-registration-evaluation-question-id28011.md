@@ -1,3 +1,10 @@
+---
+topic_id: 28011
+title: "Image Registration Evaluation Question"
+date: 2023-02-23
+url: https://discourse.slicer.org/t/28011
+---
+
 # Image registration evaluation question
 
 **Topic ID**: 28011

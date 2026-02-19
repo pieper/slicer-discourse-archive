@@ -1,3 +1,10 @@
+---
+topic_id: 44998
+title: "Moose Extension Was Error"
+date: 2025-11-08
+url: https://discourse.slicer.org/t/44998
+---
+
 # Moose Extension was ERROR
 
 **Topic ID**: 44998

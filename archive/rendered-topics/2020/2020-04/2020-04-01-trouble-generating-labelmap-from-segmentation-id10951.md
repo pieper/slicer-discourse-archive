@@ -1,3 +1,10 @@
+---
+topic_id: 10951
+title: "Trouble Generating Labelmap From Segmentation"
+date: 2020-04-01
+url: https://discourse.slicer.org/t/10951
+---
+
 # Trouble generating Labelmap from segmentation
 
 **Topic ID**: 10951

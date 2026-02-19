@@ -1,3 +1,10 @@
+---
+topic_id: 12203
+title: "Vmtk Centreline And Metrics"
+date: 2020-06-24
+url: https://discourse.slicer.org/t/12203
+---
+
 # VMTK centreline and metrics
 
 **Topic ID**: 12203

@@ -1,3 +1,10 @@
+---
+topic_id: 30577
+title: "Custom App Compile Error Slicer Main Project Version Full Un"
+date: 2023-07-13
+url: https://discourse.slicer.org/t/30577
+---
+
 # Custom app compile error (Slicer_MAIN_PROJECT_VERSION_FULL undefined)
 
 **Topic ID**: 30577

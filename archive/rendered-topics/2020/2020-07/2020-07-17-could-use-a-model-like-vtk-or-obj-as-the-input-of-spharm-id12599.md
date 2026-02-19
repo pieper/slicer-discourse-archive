@@ -1,3 +1,10 @@
+---
+topic_id: 12599
+title: "Could Use A Model Like Vtk Or Obj As The Input Of Spharm"
+date: 2020-07-17
+url: https://discourse.slicer.org/t/12599
+---
+
 # Could use a model like *.vtk or *.obj as the input of SPHARM?
 
 **Topic ID**: 12599

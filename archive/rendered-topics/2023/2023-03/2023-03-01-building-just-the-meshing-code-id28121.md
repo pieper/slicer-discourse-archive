@@ -1,3 +1,10 @@
+---
+topic_id: 28121
+title: "Building Just The Meshing Code"
+date: 2023-03-01
+url: https://discourse.slicer.org/t/28121
+---
+
 # Building just the meshing code
 
 **Topic ID**: 28121

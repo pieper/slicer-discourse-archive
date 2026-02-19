@@ -1,3 +1,10 @@
+---
+topic_id: 29906
+title: "Slicervmtk Extract Centerlines Not Creating A Model"
+date: 2023-06-07
+url: https://discourse.slicer.org/t/29906
+---
+
 # SlicerVMTK Extract Centerlines Not Creating a Model
 
 **Topic ID**: 29906

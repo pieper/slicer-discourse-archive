@@ -1,3 +1,10 @@
+---
+topic_id: 2150
+title: "Trouble Opening Bin Files"
+date: 2018-02-22
+url: https://discourse.slicer.org/t/2150
+---
+
 # Trouble opening .bin files
 
 **Topic ID**: 2150

@@ -1,3 +1,10 @@
+---
+topic_id: 12417
+title: "Extract All 2D Slices From Binary Labelmap"
+date: 2020-07-07
+url: https://discourse.slicer.org/t/12417
+---
+
 # Extract all 2D slices from Binary labelMap
 
 **Topic ID**: 12417

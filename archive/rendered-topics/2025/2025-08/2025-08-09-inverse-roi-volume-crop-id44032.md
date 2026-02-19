@@ -1,3 +1,10 @@
+---
+topic_id: 44032
+title: "Inverse Roi Volume Crop"
+date: 2025-08-09
+url: https://discourse.slicer.org/t/44032
+---
+
 # Inverse ROI volume crop
 
 **Topic ID**: 44032

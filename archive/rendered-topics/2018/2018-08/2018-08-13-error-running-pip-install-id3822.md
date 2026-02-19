@@ -1,3 +1,10 @@
+---
+topic_id: 3822
+title: "Error Running Pip Install"
+date: 2018-08-13
+url: https://discourse.slicer.org/t/3822
+---
+
 # Error running pip install
 
 **Topic ID**: 3822

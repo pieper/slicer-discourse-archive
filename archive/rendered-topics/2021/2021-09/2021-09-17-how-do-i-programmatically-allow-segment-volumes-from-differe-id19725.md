@@ -1,3 +1,10 @@
+---
+topic_id: 19725
+title: "How Do I Programmatically Allow Segment Volumes From Differe"
+date: 2021-09-17
+url: https://discourse.slicer.org/t/19725
+---
+
 # How do I programmatically allow segment volumes from different segmentations to be shown in one table in the segment statistics module?
 
 **Topic ID**: 19725

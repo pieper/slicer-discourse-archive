@@ -1,3 +1,10 @@
+---
+topic_id: 26605
+title: "Dicom Not Loading"
+date: 2022-12-06
+url: https://discourse.slicer.org/t/26605
+---
+
 # DICOM not loading 
 
 **Topic ID**: 26605

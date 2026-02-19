@@ -1,3 +1,10 @@
+---
+topic_id: 1176
+title: "Stacking Ct Images"
+date: 2017-10-05
+url: https://discourse.slicer.org/t/1176
+---
+
 # Stacking CT images
 
 **Topic ID**: 1176

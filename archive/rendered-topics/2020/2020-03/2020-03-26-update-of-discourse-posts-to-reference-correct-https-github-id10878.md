@@ -1,3 +1,10 @@
+---
+topic_id: 10878
+title: "Update Of Discourse Posts To Reference Correct Https Github"
+date: 2020-03-26
+url: https://discourse.slicer.org/t/10878
+---
+
 # Update of Discourse posts to reference correct https://github.com/Slicer/Slicer/<sha> URL
 
 **Topic ID**: 10878

@@ -1,3 +1,10 @@
+---
+topic_id: 31933
+title: "Slicermorph Error When Excluding Landmarks"
+date: 2023-09-27
+url: https://discourse.slicer.org/t/31933
+---
+
 # Slicermorph: error when excluding landmarks
 
 **Topic ID**: 31933

@@ -1,3 +1,10 @@
+---
+topic_id: 23935
+title: "Lungctanalyzer Error Input Lung Ct Is Invalid"
+date: 2022-06-19
+url: https://discourse.slicer.org/t/23935
+---
+
 # LungCTAnalyzer error: Input lung CT is invalid
 
 **Topic ID**: 23935

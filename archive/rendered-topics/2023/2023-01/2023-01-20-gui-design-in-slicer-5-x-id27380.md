@@ -1,3 +1,10 @@
+---
+topic_id: 27380
+title: "Gui Design In Slicer 5 X"
+date: 2023-01-20
+url: https://discourse.slicer.org/t/27380
+---
+
 # GUI Design in Slicer 5.x
 
 **Topic ID**: 27380

@@ -1,3 +1,10 @@
+---
+topic_id: 16928
+title: "Changing Slice Thickness For Epicardial Adipose Tissue Analy"
+date: 2021-04-02
+url: https://discourse.slicer.org/t/16928
+---
+
 # Changing slice thickness for epicardial adipose tissue analysis
 
 **Topic ID**: 16928

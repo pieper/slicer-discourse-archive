@@ -1,3 +1,10 @@
+---
+topic_id: 24130
+title: "No Module Named Segmenteditormaskvolumelib"
+date: 2022-07-01
+url: https://discourse.slicer.org/t/24130
+---
+
 # No module named 'SegmentEditorMaskVolumeLib'
 
 **Topic ID**: 24130

@@ -1,3 +1,10 @@
+---
+topic_id: 29017
+title: "Threshold Segmentation Of Intracranial Hemorrhage Foci"
+date: 2023-04-20
+url: https://discourse.slicer.org/t/29017
+---
+
 # Threshold segmentation of intracranial hemorrhage foci
 
 **Topic ID**: 29017

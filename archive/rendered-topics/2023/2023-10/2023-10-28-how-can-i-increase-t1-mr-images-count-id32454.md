@@ -1,3 +1,10 @@
+---
+topic_id: 32454
+title: "How Can I Increase T1 Mr Images Count"
+date: 2023-10-28
+url: https://discourse.slicer.org/t/32454
+---
+
 # How can i increase t1 mr images count
 
 **Topic ID**: 32454

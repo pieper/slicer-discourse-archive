@@ -1,3 +1,10 @@
+---
+topic_id: 29916
+title: "Difference Between Vtk Widgets And 3D Slicer Widgets"
+date: 2023-06-08
+url: https://discourse.slicer.org/t/29916
+---
+
 # Difference between VTK widgets and 3D Slicer widgets
 
 **Topic ID**: 29916

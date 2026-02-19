@@ -1,3 +1,10 @@
+---
+topic_id: 5500
+title: "Importing Ply With Color"
+date: 2019-01-24
+url: https://discourse.slicer.org/t/5500
+---
+
 # Importing PLY with Color
 
 **Topic ID**: 5500

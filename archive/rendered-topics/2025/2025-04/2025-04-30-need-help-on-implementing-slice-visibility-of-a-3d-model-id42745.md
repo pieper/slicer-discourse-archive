@@ -1,3 +1,10 @@
+---
+topic_id: 42745
+title: "Need Help On Implementing Slice Visibility Of A 3D Model"
+date: 2025-04-30
+url: https://discourse.slicer.org/t/42745
+---
+
 # Need help on implementing slice visibility of a 3d model
 
 **Topic ID**: 42745

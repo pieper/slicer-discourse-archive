@@ -1,3 +1,10 @@
+---
+topic_id: 29718
+title: "Strange Conversion Between Planer Contours To Binary Labelma"
+date: 2023-05-30
+url: https://discourse.slicer.org/t/29718
+---
+
 # Strange conversion between planer contours to binary labelmap
 
 **Topic ID**: 29718

@@ -1,3 +1,10 @@
+---
+topic_id: 21212
+title: "Shapequantifier Module Is Not Loaded"
+date: 2021-12-26
+url: https://discourse.slicer.org/t/21212
+---
+
 # ShapeQuantifier module is not loaded
 
 **Topic ID**: 21212

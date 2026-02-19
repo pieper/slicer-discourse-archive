@@ -1,3 +1,10 @@
+---
+topic_id: 31595
+title: "What Would Be The Best Way To Let A User Select Scenes And C"
+date: 2023-09-06
+url: https://discourse.slicer.org/t/31595
+---
+
 # What would be the best way to let a user select scenes and channel colours in a microscopy oriented importer?
 
 **Topic ID**: 31595

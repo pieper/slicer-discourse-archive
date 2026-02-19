@@ -1,3 +1,10 @@
+---
+topic_id: 19188
+title: "Extract Features Using Segment Generated Labelmap"
+date: 2021-08-13
+url: https://discourse.slicer.org/t/19188
+---
+
 # Extract features using segment generated labelmap
 
 **Topic ID**: 19188

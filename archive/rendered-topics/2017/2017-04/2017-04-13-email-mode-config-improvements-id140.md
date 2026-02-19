@@ -1,3 +1,10 @@
+---
+topic_id: 140
+title: "Email Mode Config Improvements"
+date: 2017-04-13
+url: https://discourse.slicer.org/t/140
+---
+
 # Email mode config improvements
 
 **Topic ID**: 140

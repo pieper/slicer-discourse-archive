@@ -1,3 +1,10 @@
+---
+topic_id: 9059
+title: "Cant Hide Rulers From Specific 3D Views With Python"
+date: 2019-11-07
+url: https://discourse.slicer.org/t/9059
+---
+
 # Can't hide rulers from specific 3d Views (with python)
 
 **Topic ID**: 9059

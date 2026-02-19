@@ -1,3 +1,10 @@
+---
+topic_id: 846
+title: "Override Automatic Display Of Newly Loaded Volume"
+date: 2017-08-09
+url: https://discourse.slicer.org/t/846
+---
+
 # Override automatic display of newly-loaded volume?
 
 **Topic ID**: 846

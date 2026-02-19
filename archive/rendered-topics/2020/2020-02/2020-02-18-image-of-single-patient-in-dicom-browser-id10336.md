@@ -1,3 +1,10 @@
+---
+topic_id: 10336
+title: "Image Of Single Patient In Dicom Browser"
+date: 2020-02-18
+url: https://discourse.slicer.org/t/10336
+---
+
 # Image of single patient in dicom browser
 
 **Topic ID**: 10336

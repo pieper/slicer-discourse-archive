@@ -1,3 +1,10 @@
+---
+topic_id: 44601
+title: "Problem With Bone Texture Extension 2025"
+date: 2025-09-26
+url: https://discourse.slicer.org/t/44601
+---
+
 # Problem with bone texture extension 2025
 
 **Topic ID**: 44601

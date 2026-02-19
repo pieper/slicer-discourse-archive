@@ -1,3 +1,10 @@
+---
+topic_id: 29105
+title: "3D 2D Ct Fluoro Registration"
+date: 2023-04-25
+url: https://discourse.slicer.org/t/29105
+---
+
 # 3D-2D CT-Fluoro registration
 
 **Topic ID**: 29105

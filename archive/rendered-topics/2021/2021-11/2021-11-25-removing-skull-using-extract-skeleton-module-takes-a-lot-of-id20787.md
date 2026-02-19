@@ -1,3 +1,10 @@
+---
+topic_id: 20787
+title: "Removing Skull Using Extract Skeleton Module Takes A Lot Of"
+date: 2021-11-25
+url: https://discourse.slicer.org/t/20787
+---
+
 # Removing skull using Extract Skeleton module takes a lot of time
 
 **Topic ID**: 20787

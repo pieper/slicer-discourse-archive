@@ -1,3 +1,10 @@
+---
+topic_id: 3582
+title: "Remove Textual Information On The 2D Anatomical View"
+date: 2018-07-26
+url: https://discourse.slicer.org/t/3582
+---
+
 # Remove textual information on the 2D anatomical view
 
 **Topic ID**: 3582

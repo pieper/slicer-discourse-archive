@@ -1,3 +1,10 @@
+---
+topic_id: 15038
+title: "Fixed Bin Width Fixed Bin Count Resegmentation"
+date: 2020-12-14
+url: https://discourse.slicer.org/t/15038
+---
+
 # Fixed Bin Width / Fixed Bin Count + Resegmentation
 
 **Topic ID**: 15038

@@ -1,3 +1,10 @@
+---
+topic_id: 25669
+title: "Sitkutils Pullvolumefromslicer Does Not Create Sitk Image In"
+date: 2022-10-13
+url: https://discourse.slicer.org/t/25669
+---
+
 # sitkUtils.PullVolumeFromSlicer does not create sitk::Image in Slicer 5.1
 
 **Topic ID**: 25669

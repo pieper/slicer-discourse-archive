@@ -1,3 +1,10 @@
+---
+topic_id: 16913
+title: "Building Slicer On The Nvidia Jetsontx2 Not Working"
+date: 2021-04-01
+url: https://discourse.slicer.org/t/16913
+---
+
 # Building slicer on the NVIDIA Jetsontx2 not working
 
 **Topic ID**: 16913

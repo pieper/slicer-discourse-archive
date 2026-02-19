@@ -1,3 +1,10 @@
+---
+topic_id: 23181
+title: "Exporting Curvature Data"
+date: 2022-04-28
+url: https://discourse.slicer.org/t/23181
+---
+
 # Exporting Curvature Data
 
 **Topic ID**: 23181

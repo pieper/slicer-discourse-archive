@@ -1,3 +1,10 @@
+---
+topic_id: 34623
+title: "Exporting To As Gltf Changes Names"
+date: 2024-02-29
+url: https://discourse.slicer.org/t/34623
+---
+
 # Exporting to as GLTF changes names
 
 **Topic ID**: 34623

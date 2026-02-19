@@ -1,3 +1,10 @@
+---
+topic_id: 7171
+title: "Compare Two 3D Image"
+date: 2019-06-14
+url: https://discourse.slicer.org/t/7171
+---
+
 # Compare two 3d image
 
 **Topic ID**: 7171

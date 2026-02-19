@@ -1,3 +1,10 @@
+---
+topic_id: 28242
+title: "Using Segment Editor Programmatically To Perform Intersectio"
+date: 2023-03-09
+url: https://discourse.slicer.org/t/28242
+---
+
 # Using segment editor programmatically to perform intersection gives strange result
 
 **Topic ID**: 28242

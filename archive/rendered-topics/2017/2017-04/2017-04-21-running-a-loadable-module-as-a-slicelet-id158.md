@@ -1,3 +1,10 @@
+---
+topic_id: 158
+title: "Running A Loadable Module As A Slicelet"
+date: 2017-04-21
+url: https://discourse.slicer.org/t/158
+---
+
 # Running a loadable module as a slicelet
 
 **Topic ID**: 158

@@ -1,3 +1,10 @@
+---
+topic_id: 5799
+title: "Unable To Input Channel Id In Slicer Igt Plus Remote"
+date: 2019-02-16
+url: https://discourse.slicer.org/t/5799
+---
+
 # Unable to input channel Id in Slicer->IGT->Plus Remote
 
 **Topic ID**: 5799

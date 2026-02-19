@@ -1,3 +1,10 @@
+---
+topic_id: 35373
+title: "Which Is The Latest Slicer Version Compatible With Macos Cat"
+date: 2024-04-09
+url: https://discourse.slicer.org/t/35373
+---
+
 # Which is the latest Slicer version compatible with MacOS Catalina 10.15.7 ?
 
 **Topic ID**: 35373

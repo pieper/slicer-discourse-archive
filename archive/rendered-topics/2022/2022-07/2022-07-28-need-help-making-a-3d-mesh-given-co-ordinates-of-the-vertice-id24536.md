@@ -1,3 +1,10 @@
+---
+topic_id: 24536
+title: "Need Help Making A 3D Mesh Given Co Ordinates Of The Vertice"
+date: 2022-07-28
+url: https://discourse.slicer.org/t/24536
+---
+
 # Need help making a 3D mesh given co-ordinates of the vertices and vertex indices of each face for 3D Slicer - trimesh/vtkwrite/etc
 
 **Topic ID**: 24536

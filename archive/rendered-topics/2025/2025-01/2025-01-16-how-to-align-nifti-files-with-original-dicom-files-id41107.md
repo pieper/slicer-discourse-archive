@@ -1,3 +1,10 @@
+---
+topic_id: 41107
+title: "How To Align Nifti Files With Original Dicom Files"
+date: 2025-01-16
+url: https://discourse.slicer.org/t/41107
+---
+
 # How to align NIfTI files with original DICOM files?
 
 **Topic ID**: 41107

@@ -1,3 +1,10 @@
+---
+topic_id: 24940
+title: "How Do I Properly Connect The Qmrmlsegmenteditorwidget So Th"
+date: 2022-08-26
+url: https://discourse.slicer.org/t/24940
+---
+
 # How do I properly connect the qMRMLSegmentEditorWidget so that it properly updates?
 
 **Topic ID**: 24940

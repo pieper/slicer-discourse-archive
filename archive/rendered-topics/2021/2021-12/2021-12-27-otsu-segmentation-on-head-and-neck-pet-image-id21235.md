@@ -1,3 +1,10 @@
+---
+topic_id: 21235
+title: "Otsu Segmentation On Head And Neck Pet Image"
+date: 2021-12-27
+url: https://discourse.slicer.org/t/21235
+---
+
 # Otsu segmentation on Head and Neck PET image
 
 **Topic ID**: 21235

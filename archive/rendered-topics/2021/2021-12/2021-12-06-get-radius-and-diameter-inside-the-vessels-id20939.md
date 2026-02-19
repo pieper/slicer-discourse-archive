@@ -1,3 +1,10 @@
+---
+topic_id: 20939
+title: "Get Radius And Diameter Inside The Vessels"
+date: 2021-12-06
+url: https://discourse.slicer.org/t/20939
+---
+
 # Get radius and diameter inside the vessels
 
 **Topic ID**: 20939

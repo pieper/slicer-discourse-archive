@@ -1,3 +1,10 @@
+---
+topic_id: 22601
+title: "Import Cso Segmentation Into Slicer"
+date: 2022-03-19
+url: https://discourse.slicer.org/t/22601
+---
+
 # Import CSO segmentation into Slicer
 
 **Topic ID**: 22601

@@ -1,3 +1,10 @@
+---
+topic_id: 455
+title: "Block Nabble Forums"
+date: 2017-06-08
+url: https://discourse.slicer.org/t/455
+---
+
 # Block nabble forums
 
 **Topic ID**: 455

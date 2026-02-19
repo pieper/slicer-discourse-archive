@@ -1,3 +1,10 @@
+---
+topic_id: 38261
+title: "How To Add Ellipse Based Measurement In 2D Using Python"
+date: 2024-09-07
+url: https://discourse.slicer.org/t/38261
+---
+
 # How to add "ellipse" based measurement in 2D using Python?
 
 **Topic ID**: 38261

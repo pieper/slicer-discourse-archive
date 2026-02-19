@@ -1,3 +1,10 @@
+---
+topic_id: 18751
+title: "Slicermorph Paper"
+date: 2021-07-15
+url: https://discourse.slicer.org/t/18751
+---
+
 # SlicerMorph paper
 
 **Topic ID**: 18751

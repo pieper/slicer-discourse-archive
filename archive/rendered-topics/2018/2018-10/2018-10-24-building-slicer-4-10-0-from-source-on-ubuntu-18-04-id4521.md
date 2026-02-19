@@ -1,3 +1,10 @@
+---
+topic_id: 4521
+title: "Building Slicer 4 10 0 From Source On Ubuntu 18 04"
+date: 2018-10-24
+url: https://discourse.slicer.org/t/4521
+---
+
 # Building SLicer 4.10.0 from source on Ubuntu 18.04
 
 **Topic ID**: 4521

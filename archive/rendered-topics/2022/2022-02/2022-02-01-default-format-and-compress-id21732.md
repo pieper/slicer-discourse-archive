@@ -1,3 +1,10 @@
+---
+topic_id: 21732
+title: "Default Format And Compress"
+date: 2022-02-01
+url: https://discourse.slicer.org/t/21732
+---
+
 # Default format and compress
 
 **Topic ID**: 21732

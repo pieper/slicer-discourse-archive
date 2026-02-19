@@ -1,3 +1,10 @@
+---
+topic_id: 5704
+title: "Refine Brain Vessel Segmentation"
+date: 2019-02-08
+url: https://discourse.slicer.org/t/5704
+---
+
 # Refine brain vessel segmentation
 
 **Topic ID**: 5704

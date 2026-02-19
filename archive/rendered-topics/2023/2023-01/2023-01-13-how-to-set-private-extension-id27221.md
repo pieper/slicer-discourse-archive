@@ -1,3 +1,10 @@
+---
+topic_id: 27221
+title: "How To Set Private Extension"
+date: 2023-01-13
+url: https://discourse.slicer.org/t/27221
+---
+
 # How to set private extension?
 
 **Topic ID**: 27221

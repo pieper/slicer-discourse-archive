@@ -1,3 +1,10 @@
+---
+topic_id: 20369
+title: "Simpleitk Writeimage Fails Silently When Writing Dicom Why A"
+date: 2021-10-26
+url: https://discourse.slicer.org/t/20369
+---
+
 # SimpleITK WriteImage() fails *silently* when writing DICOM -- why? And what to do?
 
 **Topic ID**: 20369

@@ -1,3 +1,10 @@
+---
+topic_id: 25401
+title: "Send Dicom Data Using Dicomweb For Google Healthcare Api"
+date: 2022-09-22
+url: https://discourse.slicer.org/t/25401
+---
+
 # Send DICOM data using DICOMWeb for Google Healthcare API
 
 **Topic ID**: 25401

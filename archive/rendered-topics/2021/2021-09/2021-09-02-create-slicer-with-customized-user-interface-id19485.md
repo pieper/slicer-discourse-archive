@@ -1,3 +1,10 @@
+---
+topic_id: 19485
+title: "Create Slicer With Customized User Interface"
+date: 2021-09-02
+url: https://discourse.slicer.org/t/19485
+---
+
 # Create Slicer with customized user interface
 
 **Topic ID**: 19485

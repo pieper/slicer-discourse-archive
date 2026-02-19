@@ -1,3 +1,10 @@
+---
+topic_id: 14886
+title: "Moving Segmentation"
+date: 2020-12-04
+url: https://discourse.slicer.org/t/14886
+---
+
 # Moving segmentation
 
 **Topic ID**: 14886

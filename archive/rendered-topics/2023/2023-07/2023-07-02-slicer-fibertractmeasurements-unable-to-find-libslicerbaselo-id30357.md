@@ -1,3 +1,10 @@
+---
+topic_id: 30357
+title: "Slicer Fibertractmeasurements Unable To Find Libslicerbaselo"
+date: 2023-07-02
+url: https://discourse.slicer.org/t/30357
+---
+
 # Slicer FiberTractMeasurements unable to find libSlicerBaseLogic
 
 **Topic ID**: 30357

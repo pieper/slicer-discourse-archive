@@ -1,3 +1,10 @@
+---
+topic_id: 13712
+title: "Tensorflow V 2 3 0 Tf Config List Physical Devices Gpu Shows"
+date: 2020-09-26
+url: https://discourse.slicer.org/t/13712
+---
+
 # [Tensorflow v 2.3.0] tf.config.list_physical_devices('GPU') shows empty list in PythonSlicer.exe
 
 **Topic ID**: 13712

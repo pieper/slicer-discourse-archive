@@ -1,3 +1,10 @@
+---
+topic_id: 41194
+title: "Empty Voxels Upon Joint Smoothing"
+date: 2025-01-21
+url: https://discourse.slicer.org/t/41194
+---
+
 # Empty voxels upon joint smoothing
 
 **Topic ID**: 41194

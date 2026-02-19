@@ -1,3 +1,10 @@
+---
+topic_id: 15548
+title: "How To Remove The Bone In Volume Rendering"
+date: 2021-01-16
+url: https://discourse.slicer.org/t/15548
+---
+
 # How to remove the bone in volume rendering
 
 **Topic ID**: 15548

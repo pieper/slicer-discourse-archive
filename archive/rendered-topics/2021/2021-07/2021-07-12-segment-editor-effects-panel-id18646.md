@@ -1,3 +1,10 @@
+---
+topic_id: 18646
+title: "Segment Editor Effects Panel"
+date: 2021-07-12
+url: https://discourse.slicer.org/t/18646
+---
+
 # Segment Editor "Effects" Panel
 
 **Topic ID**: 18646

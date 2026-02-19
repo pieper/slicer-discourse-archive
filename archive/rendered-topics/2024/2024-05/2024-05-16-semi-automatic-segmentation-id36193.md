@@ -1,3 +1,10 @@
+---
+topic_id: 36193
+title: "Semi Automatic Segmentation"
+date: 2024-05-16
+url: https://discourse.slicer.org/t/36193
+---
+
 # Semi Automatic Segmentation 
 
 **Topic ID**: 36193

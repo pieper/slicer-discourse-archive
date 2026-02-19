@@ -1,3 +1,10 @@
+---
+topic_id: 24968
+title: "How To Get Mouse Ijk Coordinates"
+date: 2022-08-29
+url: https://discourse.slicer.org/t/24968
+---
+
 # How to get mouse IJK coordinates?
 
 **Topic ID**: 24968

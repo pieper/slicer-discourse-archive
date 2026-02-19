@@ -1,3 +1,10 @@
+---
+topic_id: 11278
+title: "Wrap Solidify Error"
+date: 2020-04-24
+url: https://discourse.slicer.org/t/11278
+---
+
 # Wrap Solidify error
 
 **Topic ID**: 11278

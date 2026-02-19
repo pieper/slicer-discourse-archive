@@ -1,3 +1,10 @@
+---
+topic_id: 39524
+title: "Synchronising 3D Slicer To Qualisys"
+date: 2024-10-03
+url: https://discourse.slicer.org/t/39524
+---
+
 # Synchronising 3d slicer to qualisys
 
 **Topic ID**: 39524

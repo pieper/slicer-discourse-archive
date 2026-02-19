@@ -1,3 +1,10 @@
+---
+topic_id: 14609
+title: "Phase Space File Dicom"
+date: 2020-11-15
+url: https://discourse.slicer.org/t/14609
+---
+
 # Phase Space file DICOM
 
 **Topic ID**: 14609

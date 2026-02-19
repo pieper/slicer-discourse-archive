@@ -1,3 +1,10 @@
+---
+topic_id: 2388
+title: "Ruler Right Click Event"
+date: 2018-03-21
+url: https://discourse.slicer.org/t/2388
+---
+
 # Ruler Right-click event
 
 **Topic ID**: 2388

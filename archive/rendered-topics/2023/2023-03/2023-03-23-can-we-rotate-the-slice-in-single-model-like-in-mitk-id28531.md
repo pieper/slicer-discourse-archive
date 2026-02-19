@@ -1,3 +1,10 @@
+---
+topic_id: 28531
+title: "Can We Rotate The Slice In Single Model Like In Mitk"
+date: 2023-03-23
+url: https://discourse.slicer.org/t/28531
+---
+
 # Can we rotate the slice in single model like in MITK
 
 **Topic ID**: 28531

@@ -1,3 +1,10 @@
+---
+topic_id: 8239
+title: "Imaging Data Commons Project Research Associate Job Opening"
+date: 2019-08-30
+url: https://discourse.slicer.org/t/8239
+---
+
 # Imaging Data Commons project - Research Associate job opening
 
 **Topic ID**: 8239

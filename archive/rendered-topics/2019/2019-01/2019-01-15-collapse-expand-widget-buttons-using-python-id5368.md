@@ -1,3 +1,10 @@
+---
+topic_id: 5368
+title: "Collapse Expand Widget Buttons Using Python"
+date: 2019-01-15
+url: https://discourse.slicer.org/t/5368
+---
+
 # Collapse/Expand Widget Buttons using Python
 
 **Topic ID**: 5368

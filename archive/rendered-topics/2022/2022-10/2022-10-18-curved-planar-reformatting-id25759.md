@@ -1,3 +1,10 @@
+---
+topic_id: 25759
+title: "Curved Planar Reformatting"
+date: 2022-10-18
+url: https://discourse.slicer.org/t/25759
+---
+
 # Curved planar reformatting
 
 **Topic ID**: 25759

@@ -1,3 +1,10 @@
+---
+topic_id: 27306
+title: "Na Mic Project Week Now Next Project Week Prep Meeting Tomor"
+date: 2023-01-17
+url: https://discourse.slicer.org/t/27306
+---
+
 # [Na-mic-project-week] NOW: next Project Week prep meeting tomorrow (Tuesday Jan 17th)
 
 **Topic ID**: 27306

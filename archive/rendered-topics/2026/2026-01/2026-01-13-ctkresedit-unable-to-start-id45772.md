@@ -1,3 +1,10 @@
+---
+topic_id: 45772
+title: "Ctkresedit Unable To Start"
+date: 2026-01-13
+url: https://discourse.slicer.org/t/45772
+---
+
 # CTKResEdit unable to start
 
 **Topic ID**: 45772

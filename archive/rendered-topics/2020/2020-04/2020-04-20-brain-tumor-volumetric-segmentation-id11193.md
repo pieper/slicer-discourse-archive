@@ -1,3 +1,10 @@
+---
+topic_id: 11193
+title: "Brain Tumor Volumetric Segmentation"
+date: 2020-04-20
+url: https://discourse.slicer.org/t/11193
+---
+
 # Brain tumor volumetric segmentation
 
 **Topic ID**: 11193

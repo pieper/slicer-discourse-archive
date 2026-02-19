@@ -1,3 +1,10 @@
+---
+topic_id: 21969
+title: "Segment Cannot Be Hidden By Eye Icon Off"
+date: 2022-02-14
+url: https://discourse.slicer.org/t/21969
+---
+
 # Segment cannot be hidden by eye icon off
 
 **Topic ID**: 21969

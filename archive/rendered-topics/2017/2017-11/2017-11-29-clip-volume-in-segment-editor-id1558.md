@@ -1,3 +1,10 @@
+---
+topic_id: 1558
+title: "Clip Volume In Segment Editor"
+date: 2017-11-29
+url: https://discourse.slicer.org/t/1558
+---
+
 # Clip volume in Segment editor
 
 **Topic ID**: 1558

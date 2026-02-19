@@ -1,3 +1,10 @@
+---
+topic_id: 30681
+title: "Automation Conversion To Mhd"
+date: 2023-07-19
+url: https://discourse.slicer.org/t/30681
+---
+
 # Automation: conversion to .mhd
 
 **Topic ID**: 30681

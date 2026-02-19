@@ -1,3 +1,10 @@
+---
+topic_id: 44342
+title: "Breaking Linux Downloads"
+date: 2025-09-04
+url: https://discourse.slicer.org/t/44342
+---
+
 # Breaking Linux downloads
 
 **Topic ID**: 44342

@@ -1,3 +1,10 @@
+---
+topic_id: 8450
+title: "Slicersalt 2 2 1 Release Summary And Changelog"
+date: 2019-09-16
+url: https://discourse.slicer.org/t/8450
+---
+
 # SlicerSALT 2.2.1 Release: Summary and Changelog
 
 **Topic ID**: 8450

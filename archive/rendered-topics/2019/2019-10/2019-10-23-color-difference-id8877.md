@@ -1,3 +1,10 @@
+---
+topic_id: 8877
+title: "Color Difference"
+date: 2019-10-23
+url: https://discourse.slicer.org/t/8877
+---
+
 # Color difference
 
 **Topic ID**: 8877

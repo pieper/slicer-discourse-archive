@@ -1,3 +1,10 @@
+---
+topic_id: 46135
+title: "3D Slicer And Totalsegmentator In Mac"
+date: 2026-02-12
+url: https://discourse.slicer.org/t/46135
+---
+
 # 3d slicer and totalsegmentator in mac
 
 **Topic ID**: 46135

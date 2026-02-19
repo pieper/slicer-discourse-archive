@@ -1,3 +1,10 @@
+---
+topic_id: 19743
+title: "3D Printer Extenstion"
+date: 2021-09-19
+url: https://discourse.slicer.org/t/19743
+---
+
 # 3d printer extenstion
 
 **Topic ID**: 19743

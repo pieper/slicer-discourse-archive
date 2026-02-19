@@ -1,3 +1,10 @@
+---
+topic_id: 26612
+title: "Wavelet Transformed Image With Pyradiomics Looks Similar To"
+date: 2022-12-06
+url: https://discourse.slicer.org/t/26612
+---
+
 # Wavelet transformed image with Pyradiomics looks similar to original Image
 
 **Topic ID**: 26612

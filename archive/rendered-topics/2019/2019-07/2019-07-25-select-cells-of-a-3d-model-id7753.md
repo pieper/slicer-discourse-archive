@@ -1,3 +1,10 @@
+---
+topic_id: 7753
+title: "Select Cells Of A 3D Model"
+date: 2019-07-25
+url: https://discourse.slicer.org/t/7753
+---
+
 # Select cells of a 3D model
 
 **Topic ID**: 7753

@@ -1,3 +1,10 @@
+---
+topic_id: 28301
+title: "Lungctanalyzer Input File Error"
+date: 2023-03-10
+url: https://discourse.slicer.org/t/28301
+---
+
 # LungCTAnalyzer input file error
 
 **Topic ID**: 28301

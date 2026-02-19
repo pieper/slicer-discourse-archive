@@ -1,3 +1,10 @@
+---
+topic_id: 2428
+title: "Save Segmentation Directly To Stl Or Obj Files"
+date: 2018-03-26
+url: https://discourse.slicer.org/t/2428
+---
+
 # Save segmentation directly to STL or OBJ files
 
 **Topic ID**: 2428

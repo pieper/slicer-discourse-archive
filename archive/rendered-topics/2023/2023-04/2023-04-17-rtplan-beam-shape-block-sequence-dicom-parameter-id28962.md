@@ -1,3 +1,10 @@
+---
+topic_id: 28962
+title: "Rtplan Beam Shape Block Sequence Dicom Parameter"
+date: 2023-04-17
+url: https://discourse.slicer.org/t/28962
+---
+
 # RTplan beam shape - "Block sequence" dicom parameter
 
 **Topic ID**: 28962

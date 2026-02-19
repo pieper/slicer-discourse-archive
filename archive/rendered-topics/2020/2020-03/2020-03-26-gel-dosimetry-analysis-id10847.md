@@ -1,3 +1,10 @@
+---
+topic_id: 10847
+title: "Gel Dosimetry Analysis"
+date: 2020-03-26
+url: https://discourse.slicer.org/t/10847
+---
+
 # Gel dosimetry analysis
 
 **Topic ID**: 10847

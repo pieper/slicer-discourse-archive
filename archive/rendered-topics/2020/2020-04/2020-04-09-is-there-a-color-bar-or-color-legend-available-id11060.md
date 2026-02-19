@@ -1,3 +1,10 @@
+---
+topic_id: 11060
+title: "Is There A Color Bar Or Color Legend Available"
+date: 2020-04-09
+url: https://discourse.slicer.org/t/11060
+---
+
 # Is there a color bar or color legend available?
 
 **Topic ID**: 11060

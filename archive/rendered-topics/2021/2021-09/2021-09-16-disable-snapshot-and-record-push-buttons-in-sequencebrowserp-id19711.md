@@ -1,3 +1,10 @@
+---
+topic_id: 19711
+title: "Disable Snapshot And Record Push Buttons In Sequencebrowserp"
+date: 2021-09-16
+url: https://discourse.slicer.org/t/19711
+---
+
 # Disable Snapshot and Record push buttons in SequenceBrowserPlayWidget while recordning
 
 **Topic ID**: 19711

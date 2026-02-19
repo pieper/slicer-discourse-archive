@@ -1,3 +1,10 @@
+---
+topic_id: 11017
+title: "Trouble Importing Dicom Files"
+date: 2020-04-06
+url: https://discourse.slicer.org/t/11017
+---
+
 # Trouble importing DICOM files
 
 **Topic ID**: 11017

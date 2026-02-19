@@ -1,3 +1,10 @@
+---
+topic_id: 34113
+title: "Troubles With Cardiac Mri"
+date: 2024-02-02
+url: https://discourse.slicer.org/t/34113
+---
+
 # Troubles with cardiac MRI
 
 **Topic ID**: 34113

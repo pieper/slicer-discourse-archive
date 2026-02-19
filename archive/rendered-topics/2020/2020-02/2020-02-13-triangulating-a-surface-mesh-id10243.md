@@ -1,3 +1,10 @@
+---
+topic_id: 10243
+title: "Triangulating A Surface Mesh"
+date: 2020-02-13
+url: https://discourse.slicer.org/t/10243
+---
+
 # Triangulating a Surface Mesh
 
 **Topic ID**: 10243

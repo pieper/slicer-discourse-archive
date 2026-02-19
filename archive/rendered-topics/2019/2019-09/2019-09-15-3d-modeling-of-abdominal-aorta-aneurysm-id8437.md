@@ -1,3 +1,10 @@
+---
+topic_id: 8437
+title: "3D Modeling Of Abdominal Aorta Aneurysm"
+date: 2019-09-15
+url: https://discourse.slicer.org/t/8437
+---
+
 # 3D modeling of abdominal aorta aneurysm 
 
 **Topic ID**: 8437

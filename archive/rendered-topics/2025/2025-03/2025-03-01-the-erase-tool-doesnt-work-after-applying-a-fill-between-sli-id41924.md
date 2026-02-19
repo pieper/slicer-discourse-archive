@@ -1,3 +1,10 @@
+---
+topic_id: 41924
+title: "The Erase Tool Doesnt Work After Applying A Fill Between Sli"
+date: 2025-03-01
+url: https://discourse.slicer.org/t/41924
+---
+
 # The erase tool doesn't work after applying a fill between slices.
 
 **Topic ID**: 41924

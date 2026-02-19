@@ -1,3 +1,10 @@
+---
+topic_id: 2327
+title: "Smoothing Only In One Direction"
+date: 2018-03-15
+url: https://discourse.slicer.org/t/2327
+---
+
 # Smoothing only in one direction
 
 **Topic ID**: 2327

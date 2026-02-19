@@ -1,3 +1,10 @@
+---
+topic_id: 19763
+title: "Cant Start New Slicer"
+date: 2021-09-20
+url: https://discourse.slicer.org/t/19763
+---
+
 # Can't start new Slicer
 
 **Topic ID**: 19763

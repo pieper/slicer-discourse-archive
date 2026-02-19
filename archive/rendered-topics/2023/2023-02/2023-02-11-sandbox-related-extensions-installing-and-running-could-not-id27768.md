@@ -1,3 +1,10 @@
+---
+topic_id: 27768
+title: "Sandbox Related Extensions Installing And Running Could Not"
+date: 2023-02-11
+url: https://discourse.slicer.org/t/27768
+---
+
 # Sandbox related extensions installing and running. Could not find Stitcher and could not run total segmentator
 
 **Topic ID**: 27768

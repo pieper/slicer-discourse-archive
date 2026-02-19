@@ -1,3 +1,10 @@
+---
+topic_id: 23757
+title: "Monai Server Launch Failing"
+date: 2022-06-07
+url: https://discourse.slicer.org/t/23757
+---
+
 # Monai server launch failing
 
 **Topic ID**: 23757

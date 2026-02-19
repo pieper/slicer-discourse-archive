@@ -1,3 +1,10 @@
+---
+topic_id: 736
+title: "Fsl Through Slicer"
+date: 2017-07-21
+url: https://discourse.slicer.org/t/736
+---
+
 # FSL through Slicer
 
 **Topic ID**: 736

@@ -1,3 +1,10 @@
+---
+topic_id: 12638
+title: "Newbie Question Combining Segmentations"
+date: 2020-07-20
+url: https://discourse.slicer.org/t/12638
+---
+
 # Newbie question - combining segmentations
 
 **Topic ID**: 12638

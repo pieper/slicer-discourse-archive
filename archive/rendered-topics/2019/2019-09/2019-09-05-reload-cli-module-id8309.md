@@ -1,3 +1,10 @@
+---
+topic_id: 8309
+title: "Reload Cli Module"
+date: 2019-09-05
+url: https://discourse.slicer.org/t/8309
+---
+
 # Reload CLI module
 
 **Topic ID**: 8309

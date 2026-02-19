@@ -1,3 +1,10 @@
+---
+topic_id: 39884
+title: "Curve Tool Not Producing Measurements"
+date: 2024-10-27
+url: https://discourse.slicer.org/t/39884
+---
+
 # Curve Tool Not Producing Measurements
 
 **Topic ID**: 39884

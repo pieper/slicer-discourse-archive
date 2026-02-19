@@ -1,3 +1,10 @@
+---
+topic_id: 44632
+title: "How To Understand Segmentmesher With Image Spacing And Image"
+date: 2025-09-30
+url: https://discourse.slicer.org/t/44632
+---
+
 # How to understand SegmentMesher with Image spacing and Image Dimensions
 
 **Topic ID**: 44632

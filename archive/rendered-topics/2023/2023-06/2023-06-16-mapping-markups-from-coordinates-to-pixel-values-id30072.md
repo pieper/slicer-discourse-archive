@@ -1,3 +1,10 @@
+---
+topic_id: 30072
+title: "Mapping Markups From Coordinates To Pixel Values"
+date: 2023-06-16
+url: https://discourse.slicer.org/t/30072
+---
+
 # Mapping markups from coordinates to pixel values
 
 **Topic ID**: 30072

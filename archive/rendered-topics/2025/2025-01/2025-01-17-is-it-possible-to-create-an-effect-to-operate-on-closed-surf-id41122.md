@@ -1,3 +1,10 @@
+---
+topic_id: 41122
+title: "Is It Possible To Create An Effect To Operate On Closed Surf"
+date: 2025-01-17
+url: https://discourse.slicer.org/t/41122
+---
+
 # Is it possible to create an effect to operate on closed surface objects?
 
 **Topic ID**: 41122

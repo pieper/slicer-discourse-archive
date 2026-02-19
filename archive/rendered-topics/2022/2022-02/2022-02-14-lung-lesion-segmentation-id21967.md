@@ -1,3 +1,10 @@
+---
+topic_id: 21967
+title: "Lung Lesion Segmentation"
+date: 2022-02-14
+url: https://discourse.slicer.org/t/21967
+---
+
 # Lung lesion segmentation
 
 **Topic ID**: 21967

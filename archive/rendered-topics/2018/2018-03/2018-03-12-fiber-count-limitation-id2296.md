@@ -1,3 +1,10 @@
+---
+topic_id: 2296
+title: "Fiber Count Limitation"
+date: 2018-03-12
+url: https://discourse.slicer.org/t/2296
+---
+
 # Fiber count limitation
 
 **Topic ID**: 2296

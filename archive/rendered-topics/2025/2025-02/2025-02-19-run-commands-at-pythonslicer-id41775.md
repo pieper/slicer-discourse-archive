@@ -1,3 +1,10 @@
+---
+topic_id: 41775
+title: "Run Commands At Pythonslicer"
+date: 2025-02-19
+url: https://discourse.slicer.org/t/41775
+---
+
 # Run commands at PythonSlicer
 
 **Topic ID**: 41775

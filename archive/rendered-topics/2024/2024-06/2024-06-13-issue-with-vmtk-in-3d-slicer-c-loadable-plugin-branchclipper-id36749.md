@@ -1,3 +1,10 @@
+---
+topic_id: 36749
+title: "Issue With Vmtk In 3D Slicer C Loadable Plugin Branchclipper"
+date: 2024-06-13
+url: https://discourse.slicer.org/t/36749
+---
+
 # Issue with VMTK in 3D Slicer C++ Loadable Plugin - BranchClipper Build
 
 **Topic ID**: 36749

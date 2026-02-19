@@ -1,3 +1,10 @@
+---
+topic_id: 12177
+title: "How To Create A Collapsible Button In A Python 3 7 Gui"
+date: 2020-06-23
+url: https://discourse.slicer.org/t/12177
+---
+
 # How to create a Collapsible button in a python 3.7 GUI
 
 **Topic ID**: 12177

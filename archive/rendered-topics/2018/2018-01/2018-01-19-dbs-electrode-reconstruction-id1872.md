@@ -1,3 +1,10 @@
+---
+topic_id: 1872
+title: "Dbs Electrode Reconstruction"
+date: 2018-01-19
+url: https://discourse.slicer.org/t/1872
+---
+
 # DBS electrode reconstruction
 
 **Topic ID**: 1872

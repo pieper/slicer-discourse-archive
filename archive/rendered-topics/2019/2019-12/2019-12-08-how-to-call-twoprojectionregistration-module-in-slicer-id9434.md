@@ -1,3 +1,10 @@
+---
+topic_id: 9434
+title: "How To Call Twoprojectionregistration Module In Slicer"
+date: 2019-12-08
+url: https://discourse.slicer.org/t/9434
+---
+
 # How to call twoprojectionregistration module in slicer?
 
 **Topic ID**: 9434

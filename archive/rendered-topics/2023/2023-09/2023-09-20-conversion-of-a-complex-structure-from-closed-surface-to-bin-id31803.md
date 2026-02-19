@@ -1,3 +1,10 @@
+---
+topic_id: 31803
+title: "Conversion Of A Complex Structure From Closed Surface To Bin"
+date: 2023-09-20
+url: https://discourse.slicer.org/t/31803
+---
+
 # Conversion of a complex structure from closed surface to binary labelmap
 
 **Topic ID**: 31803

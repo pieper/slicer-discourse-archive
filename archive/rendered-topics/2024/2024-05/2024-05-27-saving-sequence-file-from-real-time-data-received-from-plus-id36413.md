@@ -1,3 +1,10 @@
+---
+topic_id: 36413
+title: "Saving Sequence File From Real Time Data Received From Plus"
+date: 2024-05-27
+url: https://discourse.slicer.org/t/36413
+---
+
 # Saving sequence file from real-time data received from Plus Server
 
 **Topic ID**: 36413

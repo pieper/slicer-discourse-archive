@@ -1,3 +1,10 @@
+---
+topic_id: 30218
+title: "Does The Slicer Have A Cbct Reconstruction Module"
+date: 2023-06-25
+url: https://discourse.slicer.org/t/30218
+---
+
 # Does the slicer have a CBCT reconstruction module？
 
 **Topic ID**: 30218

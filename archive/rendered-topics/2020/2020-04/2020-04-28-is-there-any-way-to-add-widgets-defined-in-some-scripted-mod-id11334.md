@@ -1,3 +1,10 @@
+---
+topic_id: 11334
+title: "Is There Any Way To Add Widgets Defined In Some Scripted Mod"
+date: 2020-04-28
+url: https://discourse.slicer.org/t/11334
+---
+
 # Is there any way to add widgets defined in some scripted module to a new scripted module?
 
 **Topic ID**: 11334

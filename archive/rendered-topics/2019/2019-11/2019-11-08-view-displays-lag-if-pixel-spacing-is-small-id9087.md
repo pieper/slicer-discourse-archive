@@ -1,3 +1,10 @@
+---
+topic_id: 9087
+title: "View Displays Lag If Pixel Spacing Is Small"
+date: 2019-11-08
+url: https://discourse.slicer.org/t/9087
+---
+
 # View displays lag if pixel-spacing is small
 
 **Topic ID**: 9087

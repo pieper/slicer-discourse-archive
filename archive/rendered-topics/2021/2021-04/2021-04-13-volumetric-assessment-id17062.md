@@ -1,3 +1,10 @@
+---
+topic_id: 17062
+title: "Volumetric Assessment"
+date: 2021-04-13
+url: https://discourse.slicer.org/t/17062
+---
+
 # Volumetric assessment
 
 **Topic ID**: 17062

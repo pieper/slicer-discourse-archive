@@ -1,3 +1,10 @@
+---
+topic_id: 35054
+title: "Using Slicer As A Jupyter Kernel How To Set Up A Variable In"
+date: 2024-03-25
+url: https://discourse.slicer.org/t/35054
+---
+
 # Using slicer as a Jupyter kernel, how to set up a variable inspector
 
 **Topic ID**: 35054

@@ -1,3 +1,10 @@
+---
+topic_id: 27330
+title: "Using Module Pynrrd In Creation Of Extension"
+date: 2023-01-18
+url: https://discourse.slicer.org/t/27330
+---
+
 # Using module pynrrd in creation of extension
 
 **Topic ID**: 27330

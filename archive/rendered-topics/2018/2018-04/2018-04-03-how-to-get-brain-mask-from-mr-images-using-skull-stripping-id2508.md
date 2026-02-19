@@ -1,3 +1,10 @@
+---
+topic_id: 2508
+title: "How To Get Brain Mask From Mr Images Using Skull Stripping"
+date: 2018-04-03
+url: https://discourse.slicer.org/t/2508
+---
+
 # How to get brain mask from MR images using skull stripping?
 
 **Topic ID**: 2508

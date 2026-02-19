@@ -1,3 +1,10 @@
+---
+topic_id: 15654
+title: "Image Guided Surgery Too Slow"
+date: 2021-01-25
+url: https://discourse.slicer.org/t/15654
+---
+
 # Image Guided Surgery too slow
 
 **Topic ID**: 15654

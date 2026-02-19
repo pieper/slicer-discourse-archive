@@ -1,3 +1,10 @@
+---
+topic_id: 33394
+title: "Switching Between Ct Lung And Ct Abdomen In Segment Editor"
+date: 2023-12-14
+url: https://discourse.slicer.org/t/33394
+---
+
 # Switching between CT -lung and CT Abdomen in Segment Editor?
 
 **Topic ID**: 33394

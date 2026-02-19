@@ -1,3 +1,10 @@
+---
+topic_id: 16527
+title: "Adding Extension From Github"
+date: 2021-03-14
+url: https://discourse.slicer.org/t/16527
+---
+
 # Adding extension from GitHub
 
 **Topic ID**: 16527

@@ -1,3 +1,10 @@
+---
+topic_id: 24010
+title: "Questions For The Endoscopy Module In 3D Slicer"
+date: 2022-06-23
+url: https://discourse.slicer.org/t/24010
+---
+
 # Questions for the endoscopy module in 3D slicer
 
 **Topic ID**: 24010

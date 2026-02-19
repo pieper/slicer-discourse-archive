@@ -1,3 +1,10 @@
+---
+topic_id: 10796
+title: "Best Practices For Segment Mesher Cleaver"
+date: 2020-03-23
+url: https://discourse.slicer.org/t/10796
+---
+
 # Best Practices for Segment Mesher, Cleaver
 
 **Topic ID**: 10796

@@ -1,3 +1,10 @@
+---
+topic_id: 7051
+title: "Popup Table Selection Change"
+date: 2019-06-06
+url: https://discourse.slicer.org/t/7051
+---
+
 # Popup table selection change
 
 **Topic ID**: 7051

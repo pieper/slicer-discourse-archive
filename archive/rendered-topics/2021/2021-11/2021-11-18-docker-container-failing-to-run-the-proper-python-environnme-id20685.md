@@ -1,3 +1,10 @@
+---
+topic_id: 20685
+title: "Docker Container Failing To Run The Proper Python Environnme"
+date: 2021-11-18
+url: https://discourse.slicer.org/t/20685
+---
+
 # Docker Container - failing to run the proper Python Environnment
 
 **Topic ID**: 20685

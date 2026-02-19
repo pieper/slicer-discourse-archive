@@ -1,3 +1,10 @@
+---
+topic_id: 32488
+title: "Nifti Segmentation To Dicom Seg In A Batch With Python"
+date: 2023-10-30
+url: https://discourse.slicer.org/t/32488
+---
+
 # Nifti segmentation to dicom-seg in a batch with python
 
 **Topic ID**: 32488

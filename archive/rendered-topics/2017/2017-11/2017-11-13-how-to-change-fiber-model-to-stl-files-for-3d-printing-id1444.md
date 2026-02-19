@@ -1,3 +1,10 @@
+---
+topic_id: 1444
+title: "How To Change Fiber Model To Stl Files For 3D Printing"
+date: 2017-11-13
+url: https://discourse.slicer.org/t/1444
+---
+
 # How to change fiber model to STL files for 3D printing
 
 **Topic ID**: 1444

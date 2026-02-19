@@ -1,3 +1,10 @@
+---
+topic_id: 24062
+title: "The Slicerwthslicerrt Executable File Doesnt Work"
+date: 2022-06-27
+url: https://discourse.slicer.org/t/24062
+---
+
 # The SlicerWthSlicerRT executable file doesn't work
 
 **Topic ID**: 24062

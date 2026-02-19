@@ -1,3 +1,10 @@
+---
+topic_id: 31617
+title: "Segmenting 3D Printed Heartseg"
+date: 2023-09-08
+url: https://discourse.slicer.org/t/31617
+---
+
 # Segmenting 3D printed heartseg
 
 **Topic ID**: 31617

@@ -1,3 +1,10 @@
+---
+topic_id: 8104
+title: "T2 Signal Intensity Value From Dwi Image"
+date: 2019-08-20
+url: https://discourse.slicer.org/t/8104
+---
+
 # T2 Signal intensity value from DWI image
 
 **Topic ID**: 8104

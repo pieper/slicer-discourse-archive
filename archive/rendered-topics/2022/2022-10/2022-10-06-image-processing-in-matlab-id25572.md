@@ -1,3 +1,10 @@
+---
+topic_id: 25572
+title: "Image Processing In Matlab"
+date: 2022-10-06
+url: https://discourse.slicer.org/t/25572
+---
+
 # Image processing in Matlab
 
 **Topic ID**: 25572

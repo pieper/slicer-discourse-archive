@@ -1,3 +1,10 @@
+---
+topic_id: 41748
+title: "Do You Know How To Convert Real World Coordination To Image"
+date: 2025-02-17
+url: https://discourse.slicer.org/t/41748
+---
+
 # Do you know how to convert real world coordination to image coordination?
 
 **Topic ID**: 41748

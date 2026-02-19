@@ -1,3 +1,10 @@
+---
+topic_id: 26571
+title: "Extension Tests Fail On Cdash Why"
+date: 2022-12-04
+url: https://discourse.slicer.org/t/26571
+---
+
 # Extension tests fail on CDash, why?
 
 **Topic ID**: 26571

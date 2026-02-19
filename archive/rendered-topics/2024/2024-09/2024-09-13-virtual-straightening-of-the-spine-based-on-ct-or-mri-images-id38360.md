@@ -1,3 +1,10 @@
+---
+topic_id: 38360
+title: "Virtual Straightening Of The Spine Based On Ct Or Mri Images"
+date: 2024-09-13
+url: https://discourse.slicer.org/t/38360
+---
+
 # Virtual straightening of the spine based on CT (or MRI) images
 
 **Topic ID**: 38360

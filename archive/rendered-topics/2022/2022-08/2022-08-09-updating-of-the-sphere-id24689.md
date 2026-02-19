@@ -1,3 +1,10 @@
+---
+topic_id: 24689
+title: "Updating Of The Sphere"
+date: 2022-08-09
+url: https://discourse.slicer.org/t/24689
+---
+
 # Updating of the sphere
 
 **Topic ID**: 24689

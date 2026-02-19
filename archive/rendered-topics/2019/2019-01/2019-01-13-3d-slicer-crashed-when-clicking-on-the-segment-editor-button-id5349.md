@@ -1,3 +1,10 @@
+---
+topic_id: 5349
+title: "3D Slicer Crashed When Clicking On The Segment Editor Button"
+date: 2019-01-13
+url: https://discourse.slicer.org/t/5349
+---
+
 # 3D Slicer crashed when clicking on the Segment Editor button
 
 **Topic ID**: 5349

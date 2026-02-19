@@ -1,3 +1,10 @@
+---
+topic_id: 21544
+title: "Vmtkcenterlinegeometry Cant View Output File"
+date: 2022-01-20
+url: https://discourse.slicer.org/t/21544
+---
+
 # vmtkcenterlinegeometry - can't view output file
 
 **Topic ID**: 21544

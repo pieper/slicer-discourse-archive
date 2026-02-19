@@ -1,3 +1,10 @@
+---
+topic_id: 45460
+title: "Colorize Volume Of A Sequence Sandbox"
+date: 2025-12-12
+url: https://discourse.slicer.org/t/45460
+---
+
 # Colorize Volume of a Sequence (sandbox)
 
 **Topic ID**: 45460

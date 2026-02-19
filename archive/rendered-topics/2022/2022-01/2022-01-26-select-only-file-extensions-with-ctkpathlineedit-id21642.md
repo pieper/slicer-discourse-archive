@@ -1,3 +1,10 @@
+---
+topic_id: 21642
+title: "Select Only File Extensions With Ctkpathlineedit"
+date: 2022-01-26
+url: https://discourse.slicer.org/t/21642
+---
+
 # Select only file extensions with ctkPathLineEdit
 
 **Topic ID**: 21642

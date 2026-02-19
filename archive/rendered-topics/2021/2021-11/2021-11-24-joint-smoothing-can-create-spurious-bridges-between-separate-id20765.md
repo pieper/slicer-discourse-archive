@@ -1,3 +1,10 @@
+---
+topic_id: 20765
+title: "Joint Smoothing Can Create Spurious Bridges Between Separate"
+date: 2021-11-24
+url: https://discourse.slicer.org/t/20765
+---
+
 # Joint smoothing can create spurious bridges between separate parts of anatomy (in same segment)
 
 **Topic ID**: 20765

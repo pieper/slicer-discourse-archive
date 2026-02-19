@@ -1,3 +1,10 @@
+---
+topic_id: 28591
+title: "Slicer View Resets On Visibility Change Of Nodes"
+date: 2023-03-27
+url: https://discourse.slicer.org/t/28591
+---
+
 # Slicer view resets on visibility change of nodes
 
 **Topic ID**: 28591

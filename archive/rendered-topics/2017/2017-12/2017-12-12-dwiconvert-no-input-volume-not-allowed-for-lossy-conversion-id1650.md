@@ -1,3 +1,10 @@
+---
+topic_id: 1650
+title: "Dwiconvert No Input Volume Not Allowed For Lossy Conversion"
+date: 2017-12-12
+url: https://discourse.slicer.org/t/1650
+---
+
 # DWIConvert: no input volume not allowed for lossy conversion from NIFTI FSL to nrrd
 
 **Topic ID**: 1650

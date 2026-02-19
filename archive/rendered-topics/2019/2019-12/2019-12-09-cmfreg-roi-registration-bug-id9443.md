@@ -1,3 +1,10 @@
+---
+topic_id: 9443
+title: "Cmfreg Roi Registration Bug"
+date: 2019-12-09
+url: https://discourse.slicer.org/t/9443
+---
+
 # CMFReg - ROI registration Bug
 
 **Topic ID**: 9443

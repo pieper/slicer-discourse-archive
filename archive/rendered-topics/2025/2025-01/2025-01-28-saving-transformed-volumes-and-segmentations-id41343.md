@@ -1,3 +1,10 @@
+---
+topic_id: 41343
+title: "Saving Transformed Volumes And Segmentations"
+date: 2025-01-28
+url: https://discourse.slicer.org/t/41343
+---
+
 # Saving transformed volumes and segmentations
 
 **Topic ID**: 41343

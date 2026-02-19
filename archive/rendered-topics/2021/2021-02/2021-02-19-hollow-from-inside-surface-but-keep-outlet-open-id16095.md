@@ -1,3 +1,10 @@
+---
+topic_id: 16095
+title: "Hollow From Inside Surface But Keep Outlet Open"
+date: 2021-02-19
+url: https://discourse.slicer.org/t/16095
+---
+
 # Hollow from inside surface but keep outlet open
 
 **Topic ID**: 16095

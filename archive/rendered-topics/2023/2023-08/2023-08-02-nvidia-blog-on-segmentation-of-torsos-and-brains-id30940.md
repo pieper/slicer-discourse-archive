@@ -1,3 +1,10 @@
+---
+topic_id: 30940
+title: "Nvidia Blog On Segmentation Of Torsos And Brains"
+date: 2023-08-02
+url: https://discourse.slicer.org/t/30940
+---
+
 # Nvidia blog on segmentation of torsos and brains
 
 **Topic ID**: 30940

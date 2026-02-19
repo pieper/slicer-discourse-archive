@@ -1,3 +1,10 @@
+---
+topic_id: 22479
+title: "Slow Segment Editors Grow From Seeds Initialization For Live"
+date: 2022-03-12
+url: https://discourse.slicer.org/t/22479
+---
+
 # slow segment-editor's grow-from-seeds initialization for liver segmentation
 
 **Topic ID**: 22479

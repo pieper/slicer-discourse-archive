@@ -1,3 +1,10 @@
+---
+topic_id: 21857
+title: "Cannot Pull Activebrowsernode From Qmrmlsequencebrowsertoolb"
+date: 2022-02-08
+url: https://discourse.slicer.org/t/21857
+---
+
 # Cannot pull activeBrowserNode from qMRMLSequenceBrowserToolBar in Python
 
 **Topic ID**: 21857

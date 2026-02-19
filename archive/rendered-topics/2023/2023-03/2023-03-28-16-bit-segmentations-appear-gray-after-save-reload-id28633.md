@@ -1,3 +1,10 @@
+---
+topic_id: 28633
+title: "16 Bit Segmentations Appear Gray After Save Reload"
+date: 2023-03-28
+url: https://discourse.slicer.org/t/28633
+---
+
 # 16-bit segmentations appear gray after save + reload
 
 **Topic ID**: 28633

@@ -1,3 +1,10 @@
+---
+topic_id: 39993
+title: "Want To Get Exact Geometrical Features Includes Some Interna"
+date: 2024-11-03
+url: https://discourse.slicer.org/t/39993
+---
+
 # Want to get exact geometrical features (includes some internal voids in the CT-scanned volume) with mesh for FE analysis via Abaqus.
 
 **Topic ID**: 39993

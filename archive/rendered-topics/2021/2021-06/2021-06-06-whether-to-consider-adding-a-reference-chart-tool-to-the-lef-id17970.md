@@ -1,3 +1,10 @@
+---
+topic_id: 17970
+title: "Whether To Consider Adding A Reference Chart Tool To The Lef"
+date: 2021-06-06
+url: https://discourse.slicer.org/t/17970
+---
+
 # Whether to consider adding a reference chart tool to the left of the 3D view
 
 **Topic ID**: 17970

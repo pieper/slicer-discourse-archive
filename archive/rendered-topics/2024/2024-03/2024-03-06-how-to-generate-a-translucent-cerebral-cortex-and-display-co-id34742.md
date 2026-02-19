@@ -1,3 +1,10 @@
+---
+topic_id: 34742
+title: "How To Generate A Translucent Cerebral Cortex And Display Co"
+date: 2024-03-06
+url: https://discourse.slicer.org/t/34742
+---
+
 # How to generate a translucent cerebral cortex and display colored nuclei such as the hippocampus under the cortex?
 
 **Topic ID**: 34742

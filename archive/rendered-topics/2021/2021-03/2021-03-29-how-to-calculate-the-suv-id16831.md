@@ -1,3 +1,10 @@
+---
+topic_id: 16831
+title: "How To Calculate The Suv"
+date: 2021-03-29
+url: https://discourse.slicer.org/t/16831
+---
+
 # How To Calculate The SUV
 
 **Topic ID**: 16831

@@ -1,3 +1,10 @@
+---
+topic_id: 9010
+title: "Edit Existing Segmentation In 3D"
+date: 2019-11-04
+url: https://discourse.slicer.org/t/9010
+---
+
 # Edit existing segmentation in 3D
 
 **Topic ID**: 9010

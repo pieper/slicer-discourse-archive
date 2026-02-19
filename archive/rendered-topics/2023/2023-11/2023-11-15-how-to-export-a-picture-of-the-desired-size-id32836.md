@@ -1,3 +1,10 @@
+---
+topic_id: 32836
+title: "How To Export A Picture Of The Desired Size"
+date: 2023-11-15
+url: https://discourse.slicer.org/t/32836
+---
+
 # How to export a picture of the desired size
 
 **Topic ID**: 32836

@@ -1,3 +1,10 @@
+---
+topic_id: 16905
+title: "Alter Individual Image Slice Origins In A Node"
+date: 2021-04-01
+url: https://discourse.slicer.org/t/16905
+---
+
 # Alter Individual Image Slice Origins in a Node
 
 **Topic ID**: 16905

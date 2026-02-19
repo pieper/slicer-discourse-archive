@@ -1,3 +1,10 @@
+---
+topic_id: 25688
+title: "R Vessel X Node Position"
+date: 2022-10-13
+url: https://discourse.slicer.org/t/25688
+---
+
 # R-Vessel-X node position
 
 **Topic ID**: 25688

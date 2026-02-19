@@ -1,3 +1,10 @@
+---
+topic_id: 17814
+title: "Mask Volume Using Python Scripting"
+date: 2021-05-25
+url: https://discourse.slicer.org/t/17814
+---
+
 # Mask volume using Python scripting
 
 **Topic ID**: 17814

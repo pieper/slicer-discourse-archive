@@ -1,3 +1,10 @@
+---
+topic_id: 38481
+title: "Using Scissors In 3D Slicer By Python Script"
+date: 2024-09-22
+url: https://discourse.slicer.org/t/38481
+---
+
 # Using Scissors in 3D slicer by python script
 
 **Topic ID**: 38481

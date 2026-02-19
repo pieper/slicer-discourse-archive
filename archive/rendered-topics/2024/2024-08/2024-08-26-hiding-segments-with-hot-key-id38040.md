@@ -1,3 +1,10 @@
+---
+topic_id: 38040
+title: "Hiding Segments With Hot Key"
+date: 2024-08-26
+url: https://discourse.slicer.org/t/38040
+---
+
 # Hiding segments with hot key
 
 **Topic ID**: 38040

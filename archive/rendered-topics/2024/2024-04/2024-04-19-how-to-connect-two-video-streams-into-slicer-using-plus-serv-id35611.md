@@ -1,3 +1,10 @@
+---
+topic_id: 35611
+title: "How To Connect Two Video Streams Into Slicer Using Plus Serv"
+date: 2024-04-19
+url: https://discourse.slicer.org/t/35611
+---
+
 # How to connect two video streams into slicer using plus server
 
 **Topic ID**: 35611

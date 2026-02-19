@@ -1,3 +1,10 @@
+---
+topic_id: 21261
+title: "Mouse Over Of Control Points Very Slow If Control Point List"
+date: 2021-12-29
+url: https://discourse.slicer.org/t/21261
+---
+
 # Mouse over of control points very slow if control point list visible (segment with 20M+ polys)
 
 **Topic ID**: 21261

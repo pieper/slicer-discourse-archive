@@ -1,3 +1,10 @@
+---
+topic_id: 9829
+title: "Simpleitk Install Error On Mac"
+date: 2020-01-15
+url: https://discourse.slicer.org/t/9829
+---
+
 # SimpleITK install error on mac
 
 **Topic ID**: 9829

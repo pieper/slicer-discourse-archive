@@ -1,3 +1,10 @@
+---
+topic_id: 487
+title: "Resample Dtivolume Error"
+date: 2017-06-13
+url: https://discourse.slicer.org/t/487
+---
+
 # Resample DTIVolume error!
 
 **Topic ID**: 487

@@ -1,3 +1,10 @@
+---
+topic_id: 15211
+title: "How To Use Endoscopy In Python"
+date: 2020-12-24
+url: https://discourse.slicer.org/t/15211
+---
+
 # How to use endoscopy in python
 
 **Topic ID**: 15211

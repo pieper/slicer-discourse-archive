@@ -1,3 +1,10 @@
+---
+topic_id: 9554
+title: "Fiducial To Model Surface Distance"
+date: 2019-12-18
+url: https://discourse.slicer.org/t/9554
+---
+
 # Fiducial to Model Surface Distance
 
 **Topic ID**: 9554

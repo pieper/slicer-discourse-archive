@@ -1,3 +1,10 @@
+---
+topic_id: 5771
+title: "Exporting Outlines Of Segmented Objects"
+date: 2019-02-13
+url: https://discourse.slicer.org/t/5771
+---
+
 # Exporting outlines of segmented objects
 
 **Topic ID**: 5771

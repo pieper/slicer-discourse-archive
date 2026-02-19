@@ -1,3 +1,10 @@
+---
+topic_id: 12010
+title: "Can I Use Markup Angles To Edit A Segmentation"
+date: 2020-06-13
+url: https://discourse.slicer.org/t/12010
+---
+
 # Can I use markup angles to edit a segmentation?
 
 **Topic ID**: 12010

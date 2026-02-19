@@ -1,3 +1,10 @@
+---
+topic_id: 20300
+title: "Dicom 4D Dsc Mri Is Read As A Sequence Instead Of Multivolum"
+date: 2021-10-22
+url: https://discourse.slicer.org/t/20300
+---
+
 # DICOM 4D DSC MRI is read as a Sequence instead of MultiVolume
 
 **Topic ID**: 20300

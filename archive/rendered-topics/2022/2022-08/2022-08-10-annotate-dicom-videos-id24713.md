@@ -1,3 +1,10 @@
+---
+topic_id: 24713
+title: "Annotate Dicom Videos"
+date: 2022-08-10
+url: https://discourse.slicer.org/t/24713
+---
+
 # Annotate DICOM videos
 
 **Topic ID**: 24713

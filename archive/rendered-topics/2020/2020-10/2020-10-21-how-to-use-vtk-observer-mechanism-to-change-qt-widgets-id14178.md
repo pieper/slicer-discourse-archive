@@ -1,3 +1,10 @@
+---
+topic_id: 14178
+title: "How To Use Vtk Observer Mechanism To Change Qt Widgets"
+date: 2020-10-21
+url: https://discourse.slicer.org/t/14178
+---
+
 # How to use vtk observer mechanism to change qt widgets?
 
 **Topic ID**: 14178

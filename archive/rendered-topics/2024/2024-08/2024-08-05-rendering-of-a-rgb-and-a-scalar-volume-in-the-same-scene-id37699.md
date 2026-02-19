@@ -1,3 +1,10 @@
+---
+topic_id: 37699
+title: "Rendering Of A Rgb And A Scalar Volume In The Same Scene"
+date: 2024-08-05
+url: https://discourse.slicer.org/t/37699
+---
+
 # Rendering of a RGB and a scalar volume in the same scene
 
 **Topic ID**: 37699

@@ -1,3 +1,10 @@
+---
+topic_id: 8466
+title: "Vessel Segmentation Using Vmtk In Slicer"
+date: 2019-09-17
+url: https://discourse.slicer.org/t/8466
+---
+
 # Vessel Segmentation using VMTK in Slicer
 
 **Topic ID**: 8466

@@ -1,3 +1,10 @@
+---
+topic_id: 25544
+title: "Apply Oblique Reformat To Multiple Volumes"
+date: 2022-10-04
+url: https://discourse.slicer.org/t/25544
+---
+
 # Apply oblique reformat to multiple volumes
 
 **Topic ID**: 25544

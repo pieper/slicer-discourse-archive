@@ -1,3 +1,10 @@
+---
+topic_id: 22169
+title: "Place Fiducial At Centroid Of Current Slice"
+date: 2022-02-24
+url: https://discourse.slicer.org/t/22169
+---
+
 # Place fiducial at centroid of current slice
 
 **Topic ID**: 22169

@@ -1,3 +1,10 @@
+---
+topic_id: 9094
+title: "How To Export Segmentation Label From Volume To Surface Mesh"
+date: 2019-11-09
+url: https://discourse.slicer.org/t/9094
+---
+
 # How to export segmentation label from volume to surface mesh on the fly?
 
 **Topic ID**: 9094

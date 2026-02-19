@@ -1,3 +1,10 @@
+---
+topic_id: 33343
+title: "Cant Get My Extensions Icon To Appear"
+date: 2023-12-11
+url: https://discourse.slicer.org/t/33343
+---
+
 # Can't get my extension's icon to appear
 
 **Topic ID**: 33343

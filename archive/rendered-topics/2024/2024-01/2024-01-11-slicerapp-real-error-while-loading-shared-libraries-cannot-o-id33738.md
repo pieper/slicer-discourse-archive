@@ -1,3 +1,10 @@
+---
+topic_id: 33738
+title: "Slicerapp Real Error While Loading Shared Libraries Cannot O"
+date: 2024-01-11
+url: https://discourse.slicer.org/t/33738
+---
+
 # SlicerApp-real: error while loading shared libraries: * : cannot open shared object file: No such file or directory
 
 **Topic ID**: 33738

@@ -1,3 +1,10 @@
+---
+topic_id: 11203
+title: "Question About Patient Id"
+date: 2020-04-20
+url: https://discourse.slicer.org/t/11203
+---
+
 # Question about patient ID
 
 **Topic ID**: 11203

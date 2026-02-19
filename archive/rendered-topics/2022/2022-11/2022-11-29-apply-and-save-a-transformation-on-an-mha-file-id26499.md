@@ -1,3 +1,10 @@
+---
+topic_id: 26499
+title: "Apply And Save A Transformation On An Mha File"
+date: 2022-11-29
+url: https://discourse.slicer.org/t/26499
+---
+
 # Apply and save a transformation on an mha file
 
 **Topic ID**: 26499

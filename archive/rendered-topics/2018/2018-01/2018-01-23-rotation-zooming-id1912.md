@@ -1,3 +1,10 @@
+---
+topic_id: 1912
+title: "Rotation Zooming"
+date: 2018-01-23
+url: https://discourse.slicer.org/t/1912
+---
+
 # Rotation&zooming 
 
 **Topic ID**: 1912

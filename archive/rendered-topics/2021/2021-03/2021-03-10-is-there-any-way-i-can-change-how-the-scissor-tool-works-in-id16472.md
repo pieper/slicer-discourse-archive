@@ -1,3 +1,10 @@
+---
+topic_id: 16472
+title: "Is There Any Way I Can Change How The Scissor Tool Works In"
+date: 2021-03-10
+url: https://discourse.slicer.org/t/16472
+---
+
 # Is there any way I can change how the scissor tool works in segment editor?
 
 **Topic ID**: 16472

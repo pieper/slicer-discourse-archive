@@ -1,3 +1,10 @@
+---
+topic_id: 38483
+title: "Creating 3D Model From Large 90Gb Segmentation Nrrd Volume"
+date: 2024-09-22
+url: https://discourse.slicer.org/t/38483
+---
+
 # Creating 3D model from large (90GB) segmentation (NRRD volume)
 
 **Topic ID**: 38483

@@ -1,3 +1,10 @@
+---
+topic_id: 41758
+title: "Extracting The Physical Characteristics Of The Applicator In"
+date: 2025-02-18
+url: https://discourse.slicer.org/t/41758
+---
+
 # Extracting the physical characteristics of the applicator in the DRR image
 
 **Topic ID**: 41758

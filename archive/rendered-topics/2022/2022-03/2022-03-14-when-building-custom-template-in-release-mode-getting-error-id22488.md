@@ -1,3 +1,10 @@
+---
+topic_id: 22488
+title: "When Building Custom Template In Release Mode Getting Error"
+date: 2022-03-14
+url: https://discourse.slicer.org/t/22488
+---
+
 # When building custom template in release mode getting error
 
 **Topic ID**: 22488

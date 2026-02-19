@@ -1,3 +1,10 @@
+---
+topic_id: 16100
+title: "Slicer Classes Api Documentation In Code Editor"
+date: 2021-02-19
+url: https://discourse.slicer.org/t/16100
+---
+
 # Slicer classes API documentation in code editor
 
 **Topic ID**: 16100

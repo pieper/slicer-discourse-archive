@@ -1,3 +1,10 @@
+---
+topic_id: 42233
+title: "Slice Indicator Lines In Orthogonal Views"
+date: 2025-03-20
+url: https://discourse.slicer.org/t/42233
+---
+
 # Slice-indicator lines in orthogonal views?
 
 **Topic ID**: 42233

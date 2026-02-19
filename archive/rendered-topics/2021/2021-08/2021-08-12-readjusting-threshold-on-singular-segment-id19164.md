@@ -1,3 +1,10 @@
+---
+topic_id: 19164
+title: "Readjusting Threshold On Singular Segment"
+date: 2021-08-12
+url: https://discourse.slicer.org/t/19164
+---
+
 # Readjusting threshold on singular segment
 
 **Topic ID**: 19164

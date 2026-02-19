@@ -1,3 +1,10 @@
+---
+topic_id: 1916
+title: "Segmentation To Binary Label Map Through Python Console"
+date: 2018-01-23
+url: https://discourse.slicer.org/t/1916
+---
+
 # Segmentation to binary label map through python console
 
 **Topic ID**: 1916

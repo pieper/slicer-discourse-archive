@@ -1,3 +1,10 @@
+---
+topic_id: 11907
+title: "Extracting 2D Axial Dicom Slice From 3D Dicom Volume"
+date: 2020-06-06
+url: https://discourse.slicer.org/t/11907
+---
+
 # Extracting 2D axial DICOM slice from 3D DICOM volume
 
 **Topic ID**: 11907

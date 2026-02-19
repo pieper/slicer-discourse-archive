@@ -1,3 +1,10 @@
+---
+topic_id: 28422
+title: "What Does The Indicator Mean In The Final Output Result Of L"
+date: 2023-03-16
+url: https://discourse.slicer.org/t/28422
+---
+
 # What does the indicator mean in the final output result of LungCTAnalyzer
 
 **Topic ID**: 28422

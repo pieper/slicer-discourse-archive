@@ -1,3 +1,10 @@
+---
+topic_id: 43646
+title: "Difficulty Registering Pre And Post Surgery Cbct Datasets Wi"
+date: 2025-07-08
+url: https://discourse.slicer.org/t/43646
+---
+
 # Difficulty Registering Pre- and Post-Surgery CBCT Datasets without Fiducials
 
 **Topic ID**: 43646

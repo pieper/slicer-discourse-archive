@@ -1,3 +1,10 @@
+---
+topic_id: 904
+title: "Access Image Pixel Values In Loadable"
+date: 2017-08-20
+url: https://discourse.slicer.org/t/904
+---
+
 # Access image pixel values in LOADABLE
 
 **Topic ID**: 904

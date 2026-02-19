@@ -1,3 +1,10 @@
+---
+topic_id: 42300
+title: "Display Glyph Size Absolue"
+date: 2025-03-25
+url: https://discourse.slicer.org/t/42300
+---
+
 # Display Glyph Size absolue
 
 **Topic ID**: 42300

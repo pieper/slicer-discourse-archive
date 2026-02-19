@@ -1,3 +1,10 @@
+---
+topic_id: 2319
+title: "Segmentation Leaves Empty Vertical Lines"
+date: 2018-03-14
+url: https://discourse.slicer.org/t/2319
+---
+
 # Segmentation leaves empty vertical lines
 
 **Topic ID**: 2319

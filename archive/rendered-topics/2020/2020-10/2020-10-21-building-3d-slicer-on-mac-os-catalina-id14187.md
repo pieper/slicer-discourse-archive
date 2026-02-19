@@ -1,3 +1,10 @@
+---
+topic_id: 14187
+title: "Building 3D Slicer On Mac Os Catalina"
+date: 2020-10-21
+url: https://discourse.slicer.org/t/14187
+---
+
 # building 3D Slicer on Mac OS Catalina 
 
 **Topic ID**: 14187

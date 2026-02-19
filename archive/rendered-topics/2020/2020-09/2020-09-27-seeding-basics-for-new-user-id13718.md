@@ -1,3 +1,10 @@
+---
+topic_id: 13718
+title: "Seeding Basics For New User"
+date: 2020-09-27
+url: https://discourse.slicer.org/t/13718
+---
+
 # Seeding basics for new user
 
 **Topic ID**: 13718

@@ -1,3 +1,10 @@
+---
+topic_id: 10589
+title: "Development Of 3D Slicer Implant Planning Module"
+date: 2020-03-08
+url: https://discourse.slicer.org/t/10589
+---
+
 # Development of 3D Slicer Implant planning Module
 
 **Topic ID**: 10589

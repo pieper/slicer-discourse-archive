@@ -1,3 +1,10 @@
+---
+topic_id: 24817
+title: "Mask In Segmentation Editor Is Limited To Specific Roi How D"
+date: 2022-08-18
+url: https://discourse.slicer.org/t/24817
+---
+
 # Mask in segmentation editor is limited to specific ROI. How do I change this?
 
 **Topic ID**: 24817

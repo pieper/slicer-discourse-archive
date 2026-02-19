@@ -1,3 +1,10 @@
+---
+topic_id: 16008
+title: "Section For Posts Like Paulos"
+date: 2021-02-16
+url: https://discourse.slicer.org/t/16008
+---
+
 # Section for posts like Paulo's
 
 **Topic ID**: 16008

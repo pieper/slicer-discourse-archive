@@ -1,3 +1,10 @@
+---
+topic_id: 29461
+title: "Obtaining Creating 4X4 Transformation Matrix To The Location"
+date: 2023-05-14
+url: https://discourse.slicer.org/t/29461
+---
+
 # Obtaining/Creating 4x4 Transformation matrix to the location of a vtkMRMLCameraNode
 
 **Topic ID**: 29461

@@ -1,3 +1,10 @@
+---
+topic_id: 2802
+title: "How To Overlay A Dicom Volume On A Nii Gz Segmentation Image"
+date: 2018-05-11
+url: https://discourse.slicer.org/t/2802
+---
+
 # How to overlay a DICOM volume on a nii.gz segmentation image for editing in segment editor?
 
 **Topic ID**: 2802

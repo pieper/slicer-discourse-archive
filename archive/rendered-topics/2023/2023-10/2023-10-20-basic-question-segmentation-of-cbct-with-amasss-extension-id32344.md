@@ -1,3 +1,10 @@
+---
+topic_id: 32344
+title: "Basic Question Segmentation Of Cbct With Amasss Extension"
+date: 2023-10-20
+url: https://discourse.slicer.org/t/32344
+---
+
 # Basic question: Segmentation of CBCT with AMASSS extension
 
 **Topic ID**: 32344

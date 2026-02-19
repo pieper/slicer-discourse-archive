@@ -1,3 +1,10 @@
+---
+topic_id: 21606
+title: "Syncing Markups Edit State With Control Point Lock"
+date: 2022-01-24
+url: https://discourse.slicer.org/t/21606
+---
+
 # Syncing Markups edit state with control point lock
 
 **Topic ID**: 21606

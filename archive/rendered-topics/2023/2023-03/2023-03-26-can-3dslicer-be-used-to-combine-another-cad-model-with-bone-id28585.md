@@ -1,3 +1,10 @@
+---
+topic_id: 28585
+title: "Can 3Dslicer Be Used To Combine Another Cad Model With Bone"
+date: 2023-03-26
+url: https://discourse.slicer.org/t/28585
+---
+
 # Can 3DSlicer be used to combine another CAD model with bone?
 
 **Topic ID**: 28585

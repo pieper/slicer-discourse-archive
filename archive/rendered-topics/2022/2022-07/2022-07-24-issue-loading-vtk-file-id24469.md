@@ -1,3 +1,10 @@
+---
+topic_id: 24469
+title: "Issue Loading Vtk File"
+date: 2022-07-24
+url: https://discourse.slicer.org/t/24469
+---
+
 # Issue loading VTK file
 
 **Topic ID**: 24469

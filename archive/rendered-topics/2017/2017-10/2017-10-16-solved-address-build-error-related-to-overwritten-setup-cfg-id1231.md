@@ -1,3 +1,10 @@
+---
+topic_id: 1231
+title: "Solved Address Build Error Related To Overwritten Setup Cfg"
+date: 2017-10-16
+url: https://discourse.slicer.org/t/1231
+---
+
 # Solved: Address build error related to overwritten 'setup.cfg'
 
 **Topic ID**: 1231

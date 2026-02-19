@@ -1,3 +1,10 @@
+---
+topic_id: 29529
+title: "Nearest Neighbor Implementation"
+date: 2023-05-18
+url: https://discourse.slicer.org/t/29529
+---
+
 # Nearest Neighbor implementation
 
 **Topic ID**: 29529

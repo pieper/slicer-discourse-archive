@@ -1,3 +1,10 @@
+---
+topic_id: 14908
+title: "How To Calculate Spatial Coordinate In Image Coordinate Syst"
+date: 2020-12-06
+url: https://discourse.slicer.org/t/14908
+---
+
 # How to calculate spatial coordinate in Image coordinate system by having spatial coordinate in RAS coordiane ststem?
 
 **Topic ID**: 14908

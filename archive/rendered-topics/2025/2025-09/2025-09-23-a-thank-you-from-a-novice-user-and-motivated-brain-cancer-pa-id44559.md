@@ -1,3 +1,10 @@
+---
+topic_id: 44559
+title: "A Thank You From A Novice User And Motivated Brain Cancer Pa"
+date: 2025-09-23
+url: https://discourse.slicer.org/t/44559
+---
+
 # A thank you from a novice user and motivated brain cancer patient
 
 **Topic ID**: 44559

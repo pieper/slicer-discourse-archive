@@ -1,3 +1,10 @@
+---
+topic_id: 31565
+title: "Import Dcm File And Nrrd Segmentation File In 3D Slicer"
+date: 2023-09-05
+url: https://discourse.slicer.org/t/31565
+---
+
 # Import dcm file and nrrd segmentation file in 3D slicer
 
 **Topic ID**: 31565

@@ -1,3 +1,10 @@
+---
+topic_id: 45543
+title: "In 3D Slicer Is It Possible To Simulate Femur Cut In Real Ti"
+date: 2025-12-19
+url: https://discourse.slicer.org/t/45543
+---
+
 # In 3D Slicer, is it possible to simulate femur cut in real-time without iMSTK?
 
 **Topic ID**: 45543

@@ -1,3 +1,10 @@
+---
+topic_id: 9883
+title: "Acess Dicom Metadata"
+date: 2020-01-20
+url: https://discourse.slicer.org/t/9883
+---
+
 # Acess DICOM metadata
 
 **Topic ID**: 9883

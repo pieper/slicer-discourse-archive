@@ -1,3 +1,10 @@
+---
+topic_id: 12571
+title: "How To Extract 3D Vessels Segmentation Quickly And Accuratel"
+date: 2020-07-16
+url: https://discourse.slicer.org/t/12571
+---
+
 # How to extract 3D vessels segmentation quickly and accurately?
 
 **Topic ID**: 12571

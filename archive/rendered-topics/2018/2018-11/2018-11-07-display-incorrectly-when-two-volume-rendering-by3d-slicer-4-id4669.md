@@ -1,3 +1,10 @@
+---
+topic_id: 4669
+title: "Display Incorrectly When Two Volume Rendering By3D Slicer 4"
+date: 2018-11-07
+url: https://discourse.slicer.org/t/4669
+---
+
 # display incorrectly when two volume rendering  by3D slicer 4.10.0
 
 **Topic ID**: 4669

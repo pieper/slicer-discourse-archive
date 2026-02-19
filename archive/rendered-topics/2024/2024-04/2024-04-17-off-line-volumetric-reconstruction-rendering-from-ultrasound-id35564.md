@@ -1,3 +1,10 @@
+---
+topic_id: 35564
+title: "Off Line Volumetric Reconstruction Rendering From Ultrasound"
+date: 2024-04-17
+url: https://discourse.slicer.org/t/35564
+---
+
 # Off line volumetric reconstruction/rendering from ultrasound images
 
 **Topic ID**: 35564

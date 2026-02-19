@@ -1,3 +1,10 @@
+---
+topic_id: 23943
+title: "Slicer Doesnt Show Rotation Slider Value Corresponding To A"
+date: 2022-06-19
+url: https://discourse.slicer.org/t/23943
+---
+
 # Slicer doesn't show rotation slider value corresponding to a transform after rotation axis is not cannonical
 
 **Topic ID**: 23943

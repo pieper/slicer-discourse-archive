@@ -1,3 +1,10 @@
+---
+topic_id: 28146
+title: "Data Node Display Nodes Not Maintained When Creating A Seque"
+date: 2023-03-02
+url: https://discourse.slicer.org/t/28146
+---
+
 # Data node display nodes not maintained when creating a sequence
 
 **Topic ID**: 28146

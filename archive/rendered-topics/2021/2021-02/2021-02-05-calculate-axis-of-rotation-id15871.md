@@ -1,3 +1,10 @@
+---
+topic_id: 15871
+title: "Calculate Axis Of Rotation"
+date: 2021-02-05
+url: https://discourse.slicer.org/t/15871
+---
+
 # Calculate axis of rotation
 
 **Topic ID**: 15871

@@ -1,3 +1,10 @@
+---
+topic_id: 8637
+title: "What Are The Necessary Dicom Header Fields For Import Into 3"
+date: 2019-10-01
+url: https://discourse.slicer.org/t/8637
+---
+
 # What are the necessary DICOM header fields for import into 3D Slicer?
 
 **Topic ID**: 8637

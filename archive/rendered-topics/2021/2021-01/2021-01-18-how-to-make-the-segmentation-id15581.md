@@ -1,3 +1,10 @@
+---
+topic_id: 15581
+title: "How To Make The Segmentation"
+date: 2021-01-18
+url: https://discourse.slicer.org/t/15581
+---
+
 # How to make the segmentation
 
 **Topic ID**: 15581

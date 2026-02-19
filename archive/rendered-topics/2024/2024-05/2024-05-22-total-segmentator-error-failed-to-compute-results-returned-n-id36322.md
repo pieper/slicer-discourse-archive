@@ -1,3 +1,10 @@
+---
+topic_id: 36322
+title: "Total Segmentator Error Failed To Compute Results Returned N"
+date: 2024-05-22
+url: https://discourse.slicer.org/t/36322
+---
+
 # Total Segmentator error: Failed to compute results...returned non-zero exit status 1
 
 **Topic ID**: 36322

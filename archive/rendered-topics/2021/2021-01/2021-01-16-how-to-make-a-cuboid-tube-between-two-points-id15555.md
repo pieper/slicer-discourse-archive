@@ -1,3 +1,10 @@
+---
+topic_id: 15555
+title: "How To Make A Cuboid Tube Between Two Points"
+date: 2021-01-16
+url: https://discourse.slicer.org/t/15555
+---
+
 # How to make a cuboid tube between two points
 
 **Topic ID**: 15555

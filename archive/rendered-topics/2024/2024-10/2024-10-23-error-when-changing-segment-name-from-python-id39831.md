@@ -1,3 +1,10 @@
+---
+topic_id: 39831
+title: "Error When Changing Segment Name From Python"
+date: 2024-10-23
+url: https://discourse.slicer.org/t/39831
+---
+
 # Error when changing segment name from Python
 
 **Topic ID**: 39831

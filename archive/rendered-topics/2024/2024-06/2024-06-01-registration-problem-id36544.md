@@ -1,3 +1,10 @@
+---
+topic_id: 36544
+title: "Registration Problem"
+date: 2024-06-01
+url: https://discourse.slicer.org/t/36544
+---
+
 # Registration problem
 
 **Topic ID**: 36544

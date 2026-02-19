@@ -1,3 +1,10 @@
+---
+topic_id: 20036
+title: "Blood Flow Simulation From Cardiac Cine Mri"
+date: 2021-10-06
+url: https://discourse.slicer.org/t/20036
+---
+
 # Blood Flow Simulation from cardiac Cine-MRi
 
 **Topic ID**: 20036

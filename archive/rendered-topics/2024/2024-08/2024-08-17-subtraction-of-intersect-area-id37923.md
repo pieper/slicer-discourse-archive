@@ -1,3 +1,10 @@
+---
+topic_id: 37923
+title: "Subtraction Of Intersect Area"
+date: 2024-08-17
+url: https://discourse.slicer.org/t/37923
+---
+
 # Subtraction of intersect area
 
 **Topic ID**: 37923

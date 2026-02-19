@@ -1,3 +1,10 @@
+---
+topic_id: 36700
+title: "Improving Markup Quality In 2D Views"
+date: 2024-06-11
+url: https://discourse.slicer.org/t/36700
+---
+
 # Improving Markup Quality in 2D Views
 
 **Topic ID**: 36700

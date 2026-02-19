@@ -1,3 +1,10 @@
+---
+topic_id: 18063
+title: "Vmtk Centerline Extraction Vs Cgal Mesh Skeletonization"
+date: 2021-06-10
+url: https://discourse.slicer.org/t/18063
+---
+
 # VMTK Centerline extraction vs. CGAL mesh skeletonization
 
 **Topic ID**: 18063

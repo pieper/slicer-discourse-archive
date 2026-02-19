@@ -1,3 +1,10 @@
+---
+topic_id: 12717
+title: "Itk Image To Mesh To Vtk Polydata"
+date: 2020-07-24
+url: https://discourse.slicer.org/t/12717
+---
+
 # ITK image to mesh to vtk polydata
 
 **Topic ID**: 12717

@@ -1,3 +1,10 @@
+---
+topic_id: 15068
+title: "How To Fast Check If A Voxel Is Part Of A Visible Segment"
+date: 2020-12-15
+url: https://discourse.slicer.org/t/15068
+---
+
 # How to fast check if a voxel is part of a visible segment
 
 **Topic ID**: 15068

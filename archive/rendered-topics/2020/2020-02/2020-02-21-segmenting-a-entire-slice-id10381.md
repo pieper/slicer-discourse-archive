@@ -1,3 +1,10 @@
+---
+topic_id: 10381
+title: "Segmenting A Entire Slice"
+date: 2020-02-21
+url: https://discourse.slicer.org/t/10381
+---
+
 # Segmenting a Entire Slice!
 
 **Topic ID**: 10381

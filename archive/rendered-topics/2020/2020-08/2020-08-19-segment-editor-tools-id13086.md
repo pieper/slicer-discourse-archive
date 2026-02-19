@@ -1,3 +1,10 @@
+---
+topic_id: 13086
+title: "Segment Editor Tools"
+date: 2020-08-19
+url: https://discourse.slicer.org/t/13086
+---
+
 # Segment editor tools
 
 **Topic ID**: 13086

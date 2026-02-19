@@ -1,3 +1,10 @@
+---
+topic_id: 10803
+title: "Painteffect Doesnt Retain"
+date: 2020-03-23
+url: https://discourse.slicer.org/t/10803
+---
+
 # PaintEffect doesn't retain
 
 **Topic ID**: 10803

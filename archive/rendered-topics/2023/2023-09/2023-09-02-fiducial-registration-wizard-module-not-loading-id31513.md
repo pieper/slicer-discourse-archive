@@ -1,3 +1,10 @@
+---
+topic_id: 31513
+title: "Fiducial Registration Wizard Module Not Loading"
+date: 2023-09-02
+url: https://discourse.slicer.org/t/31513
+---
+
 # Fiducial Registration Wizard Module not loading
 
 **Topic ID**: 31513

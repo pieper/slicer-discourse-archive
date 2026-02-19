@@ -1,3 +1,10 @@
+---
+topic_id: 37309
+title: "Using Monai Label In 3Dslicer For Medical Student Research P"
+date: 2024-07-10
+url: https://discourse.slicer.org/t/37309
+---
+
 # Using Monai Label in 3DSlicer for Medical Student Research Project
 
 **Topic ID**: 37309

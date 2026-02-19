@@ -1,3 +1,10 @@
+---
+topic_id: 36817
+title: "Build Errors With Slicer"
+date: 2024-06-16
+url: https://discourse.slicer.org/t/36817
+---
+
 # Build errors with slicer
 
 **Topic ID**: 36817

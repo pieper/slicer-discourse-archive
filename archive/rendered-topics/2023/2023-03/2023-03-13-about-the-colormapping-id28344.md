@@ -1,3 +1,10 @@
+---
+topic_id: 28344
+title: "About The Colormapping"
+date: 2023-03-13
+url: https://discourse.slicer.org/t/28344
+---
+
 # About the colormapping
 
 **Topic ID**: 28344

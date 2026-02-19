@@ -1,3 +1,10 @@
+---
+topic_id: 16182
+title: "Curved Planar Reformat Resampling Transformation"
+date: 2021-02-24
+url: https://discourse.slicer.org/t/16182
+---
+
 # Curved planar Reformat Resampling transformation
 
 **Topic ID**: 16182

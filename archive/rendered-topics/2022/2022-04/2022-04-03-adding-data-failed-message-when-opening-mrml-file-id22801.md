@@ -1,3 +1,10 @@
+---
+topic_id: 22801
+title: "Adding Data Failed Message When Opening Mrml File"
+date: 2022-04-03
+url: https://discourse.slicer.org/t/22801
+---
+
 # "Adding data failed" message when opening MRML file
 
 **Topic ID**: 22801

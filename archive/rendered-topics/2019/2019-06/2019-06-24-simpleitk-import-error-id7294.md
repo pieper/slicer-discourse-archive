@@ -1,3 +1,10 @@
+---
+topic_id: 7294
+title: "Simpleitk Import Error"
+date: 2019-06-24
+url: https://discourse.slicer.org/t/7294
+---
+
 # SimpleITK import error
 
 **Topic ID**: 7294

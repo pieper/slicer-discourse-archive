@@ -1,3 +1,10 @@
+---
+topic_id: 36045
+title: "Opendose3D Module Is Not Loaded"
+date: 2024-05-10
+url: https://discourse.slicer.org/t/36045
+---
+
 # OpenDose3D module is not loaded
 
 **Topic ID**: 36045

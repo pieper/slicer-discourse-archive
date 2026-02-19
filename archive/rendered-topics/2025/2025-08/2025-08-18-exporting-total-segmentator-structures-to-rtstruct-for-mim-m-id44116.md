@@ -1,3 +1,10 @@
+---
+topic_id: 44116
+title: "Exporting Total Segmentator Structures To Rtstruct For Mim M"
+date: 2025-08-18
+url: https://discourse.slicer.org/t/44116
+---
+
 # Exporting Total Segmentator Structures to RTstruct for MIM Maestro/Monaco
 
 **Topic ID**: 44116

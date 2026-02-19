@@ -1,3 +1,10 @@
+---
+topic_id: 34669
+title: "The Roi Doesnt Work In Film Dosimetry"
+date: 2024-03-03
+url: https://discourse.slicer.org/t/34669
+---
+
 # The ROI doesn't work in Film Dosimetry
 
 **Topic ID**: 34669

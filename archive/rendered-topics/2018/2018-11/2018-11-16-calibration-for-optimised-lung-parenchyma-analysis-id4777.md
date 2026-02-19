@@ -1,3 +1,10 @@
+---
+topic_id: 4777
+title: "Calibration For Optimised Lung Parenchyma Analysis"
+date: 2018-11-16
+url: https://discourse.slicer.org/t/4777
+---
+
 # Calibration for optimised lung parenchyma analysis
 
 **Topic ID**: 4777

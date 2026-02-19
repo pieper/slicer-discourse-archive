@@ -1,3 +1,10 @@
+---
+topic_id: 17724
+title: "How Trigger Consecutive Fiducial Placements"
+date: 2021-05-21
+url: https://discourse.slicer.org/t/17724
+---
+
 # How trigger consecutive fiducial placements?
 
 **Topic ID**: 17724

@@ -1,3 +1,10 @@
+---
+topic_id: 42560
+title: "Cleaner Bone Segmentation"
+date: 2025-04-14
+url: https://discourse.slicer.org/t/42560
+---
+
 # Cleaner bone segmentation
 
 **Topic ID**: 42560

@@ -1,3 +1,10 @@
+---
+topic_id: 15380
+title: "Display Normal While Placing Fiducial"
+date: 2021-01-07
+url: https://discourse.slicer.org/t/15380
+---
+
 # Display normal while placing fiducial?
 
 **Topic ID**: 15380

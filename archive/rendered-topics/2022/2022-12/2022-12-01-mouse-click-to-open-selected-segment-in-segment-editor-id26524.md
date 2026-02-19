@@ -1,3 +1,10 @@
+---
+topic_id: 26524
+title: "Mouse Click To Open Selected Segment In Segment Editor"
+date: 2022-12-01
+url: https://discourse.slicer.org/t/26524
+---
+
 # Mouse click to open selected segment in Segment Editor
 
 **Topic ID**: 26524

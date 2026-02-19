@@ -1,3 +1,10 @@
+---
+topic_id: 15892
+title: "Segment Spheres Or Cubes"
+date: 2021-02-08
+url: https://discourse.slicer.org/t/15892
+---
+
 # Segment spheres or cubes
 
 **Topic ID**: 15892

@@ -1,3 +1,10 @@
+---
+topic_id: 38550
+title: "Importing Synthmorph Transform Deformation Field Output Nift"
+date: 2024-09-26
+url: https://discourse.slicer.org/t/38550
+---
+
 # Importing SynthMorph transform/deformation field output (NIFTI) into 3D Slicer
 
 **Topic ID**: 38550

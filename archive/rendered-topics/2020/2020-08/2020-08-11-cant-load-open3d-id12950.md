@@ -1,3 +1,10 @@
+---
+topic_id: 12950
+title: "Cant Load Open3D"
+date: 2020-08-11
+url: https://discourse.slicer.org/t/12950
+---
+
 # Can't load open3d
 
 **Topic ID**: 12950

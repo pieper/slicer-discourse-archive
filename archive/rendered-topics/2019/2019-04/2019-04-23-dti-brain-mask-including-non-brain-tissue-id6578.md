@@ -1,3 +1,10 @@
+---
+topic_id: 6578
+title: "Dti Brain Mask Including Non Brain Tissue"
+date: 2019-04-23
+url: https://discourse.slicer.org/t/6578
+---
+
 # DTI Brain Mask Including Non-Brain Tissue
 
 **Topic ID**: 6578

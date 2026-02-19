@@ -1,3 +1,10 @@
+---
+topic_id: 2515
+title: "Importing Segmentation Different Opacity"
+date: 2018-04-05
+url: https://discourse.slicer.org/t/2515
+---
+
 # Importing segmentation different opacity
 
 **Topic ID**: 2515

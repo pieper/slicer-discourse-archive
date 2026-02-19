@@ -1,3 +1,10 @@
+---
+topic_id: 1284
+title: "Linux Build Issues"
+date: 2017-10-25
+url: https://discourse.slicer.org/t/1284
+---
+
 # Linux build issues
 
 **Topic ID**: 1284

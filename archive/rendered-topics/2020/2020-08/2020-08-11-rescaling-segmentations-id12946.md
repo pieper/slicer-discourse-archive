@@ -1,3 +1,10 @@
+---
+topic_id: 12946
+title: "Rescaling Segmentations"
+date: 2020-08-11
+url: https://discourse.slicer.org/t/12946
+---
+
 # Rescaling Segmentations
 
 **Topic ID**: 12946

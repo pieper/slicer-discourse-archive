@@ -1,3 +1,10 @@
+---
+topic_id: 10852
+title: "Opening Nightly Saved Segmentation Files On Stable Version"
+date: 2020-03-26
+url: https://discourse.slicer.org/t/10852
+---
+
 # Opening nightly saved segmentation files on stable version
 
 **Topic ID**: 10852

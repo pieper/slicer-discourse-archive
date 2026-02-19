@@ -1,3 +1,10 @@
+---
+topic_id: 11421
+title: "Jump To Line Node And View Both Endpoints"
+date: 2020-05-05
+url: https://discourse.slicer.org/t/11421
+---
+
 # Jump to line node and view both endpoints
 
 **Topic ID**: 11421

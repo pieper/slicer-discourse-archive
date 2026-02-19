@@ -1,3 +1,10 @@
+---
+topic_id: 33493
+title: "Binded With Pythonqt Class Not Visible On Linux But Visible"
+date: 2023-12-21
+url: https://discourse.slicer.org/t/33493
+---
+
 # Binded with PythonQt class not visible on Linux but visible on Windows (SlicerCAT)
 
 **Topic ID**: 33493

@@ -1,3 +1,10 @@
+---
+topic_id: 9531
+title: "Annotations Panel"
+date: 2019-12-17
+url: https://discourse.slicer.org/t/9531
+---
+
 # Annotations panel
 
 **Topic ID**: 9531

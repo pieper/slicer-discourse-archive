@@ -1,3 +1,10 @@
+---
+topic_id: 35293
+title: "How To Get Aim For Whole Sample"
+date: 2024-04-04
+url: https://discourse.slicer.org/t/35293
+---
+
 # How to get AIM for whole sample?
 
 **Topic ID**: 35293

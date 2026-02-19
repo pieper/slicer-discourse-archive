@@ -1,3 +1,10 @@
+---
+topic_id: 15367
+title: "Harden Transformation In Batches"
+date: 2021-01-06
+url: https://discourse.slicer.org/t/15367
+---
+
 # Harden transformation in batches
 
 **Topic ID**: 15367

@@ -1,3 +1,10 @@
+---
+topic_id: 43947
+title: "Saving And Reloading Ultrasound Images Segmentation In Nifti"
+date: 2025-08-03
+url: https://discourse.slicer.org/t/43947
+---
+
 # Saving and reloading ultrasound images segmentation in NIFTI format
 
 **Topic ID**: 43947

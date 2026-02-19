@@ -1,3 +1,10 @@
+---
+topic_id: 40221
+title: "Exporting Nrrd Files As Tiff Image Stack"
+date: 2024-11-15
+url: https://discourse.slicer.org/t/40221
+---
+
 # Exporting NRRD files as TIFF image stack
 
 **Topic ID**: 40221

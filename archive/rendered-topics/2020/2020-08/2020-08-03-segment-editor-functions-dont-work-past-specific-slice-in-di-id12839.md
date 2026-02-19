@@ -1,3 +1,10 @@
+---
+topic_id: 12839
+title: "Segment Editor Functions Dont Work Past Specific Slice In Di"
+date: 2020-08-03
+url: https://discourse.slicer.org/t/12839
+---
+
 # Segment Editor functions don't work past specific slice in DICOM series
 
 **Topic ID**: 12839

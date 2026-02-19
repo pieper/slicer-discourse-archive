@@ -1,3 +1,10 @@
+---
+topic_id: 23092
+title: "Scientist Ii Computational Neuroanatomy Allen Institute For"
+date: 2022-04-23
+url: https://discourse.slicer.org/t/23092
+---
+
 # Scientist II - Computational Neuroanatomy @ Allen Institute for Brain Science
 
 **Topic ID**: 23092

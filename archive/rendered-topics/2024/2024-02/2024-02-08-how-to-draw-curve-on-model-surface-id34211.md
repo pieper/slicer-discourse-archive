@@ -1,3 +1,10 @@
+---
+topic_id: 34211
+title: "How To Draw Curve On Model Surface"
+date: 2024-02-08
+url: https://discourse.slicer.org/t/34211
+---
+
 # How to draw curve on model surface?
 
 **Topic ID**: 34211

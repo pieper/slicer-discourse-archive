@@ -1,3 +1,10 @@
+---
+topic_id: 14029
+title: "Cant Start Latest Stable On Ubuntu 20 04"
+date: 2020-10-14
+url: https://discourse.slicer.org/t/14029
+---
+
 # Can't start latest stable on ubuntu 20.04
 
 **Topic ID**: 14029

@@ -1,3 +1,10 @@
+---
+topic_id: 17365
+title: "Problems When Imported Rt Struct Dicom Folder Which Was Expo"
+date: 2021-04-28
+url: https://discourse.slicer.org/t/17365
+---
+
 # Problems when imported RT-Struct dicom folder which was exported by Slicer 3D into Varian Eclipse
 
 **Topic ID**: 17365

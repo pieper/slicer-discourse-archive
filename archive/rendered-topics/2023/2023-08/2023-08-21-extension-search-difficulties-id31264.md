@@ -1,3 +1,10 @@
+---
+topic_id: 31264
+title: "Extension Search Difficulties"
+date: 2023-08-21
+url: https://discourse.slicer.org/t/31264
+---
+
 # Extension search difficulties
 
 **Topic ID**: 31264

@@ -1,3 +1,10 @@
+---
+topic_id: 24153
+title: "Do You Know How To Exactly Extract Brain Tumor Using Nvidia"
+date: 2022-07-02
+url: https://discourse.slicer.org/t/24153
+---
+
 # Do you know how to exactly extract brain tumor using NVIDIA module?
 
 **Topic ID**: 24153

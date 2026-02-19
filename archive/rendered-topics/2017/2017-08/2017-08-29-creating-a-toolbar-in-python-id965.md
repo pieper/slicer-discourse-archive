@@ -1,3 +1,10 @@
+---
+topic_id: 965
+title: "Creating A Toolbar In Python"
+date: 2017-08-29
+url: https://discourse.slicer.org/t/965
+---
+
 # Creating a toolbar in Python
 
 **Topic ID**: 965

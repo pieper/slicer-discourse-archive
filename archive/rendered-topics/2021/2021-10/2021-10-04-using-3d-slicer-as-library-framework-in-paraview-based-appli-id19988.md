@@ -1,3 +1,10 @@
+---
+topic_id: 19988
+title: "Using 3D Slicer As Library Framework In Paraview Based Appli"
+date: 2021-10-04
+url: https://discourse.slicer.org/t/19988
+---
+
 # Using 3D Slicer as library/ Framework in Paraview based application
 
 **Topic ID**: 19988

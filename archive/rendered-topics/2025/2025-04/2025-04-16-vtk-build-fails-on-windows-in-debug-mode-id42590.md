@@ -1,3 +1,10 @@
+---
+topic_id: 42590
+title: "Vtk Build Fails On Windows In Debug Mode"
+date: 2025-04-16
+url: https://discourse.slicer.org/t/42590
+---
+
 # VTK build fails on Windows in Debug mode
 
 **Topic ID**: 42590

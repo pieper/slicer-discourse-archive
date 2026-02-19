@@ -1,3 +1,10 @@
+---
+topic_id: 19
+title: "2017 Summer Project Week"
+date: 2017-04-08
+url: https://discourse.slicer.org/t/19
+---
+
 # 2017 Summer Project Week
 
 **Topic ID**: 19

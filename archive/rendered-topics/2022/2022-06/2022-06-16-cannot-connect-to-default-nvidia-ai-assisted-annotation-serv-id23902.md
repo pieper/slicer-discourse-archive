@@ -1,3 +1,10 @@
+---
+topic_id: 23902
+title: "Cannot Connect To Default Nvidia Ai Assisted Annotation Serv"
+date: 2022-06-16
+url: https://discourse.slicer.org/t/23902
+---
+
 # Cannot connect to default NVIDIA AI-assisted annotation server
 
 **Topic ID**: 23902

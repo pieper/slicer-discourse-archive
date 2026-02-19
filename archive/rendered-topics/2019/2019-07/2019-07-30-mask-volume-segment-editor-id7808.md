@@ -1,3 +1,10 @@
+---
+topic_id: 7808
+title: "Mask Volume Segment Editor"
+date: 2019-07-30
+url: https://discourse.slicer.org/t/7808
+---
+
 # Mask volume- segment editor
 
 **Topic ID**: 7808

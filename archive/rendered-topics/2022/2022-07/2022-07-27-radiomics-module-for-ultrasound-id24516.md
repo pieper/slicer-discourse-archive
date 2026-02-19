@@ -1,3 +1,10 @@
+---
+topic_id: 24516
+title: "Radiomics Module For Ultrasound"
+date: 2022-07-27
+url: https://discourse.slicer.org/t/24516
+---
+
 # radiomics module for ultrasound
 
 **Topic ID**: 24516

@@ -1,3 +1,10 @@
+---
+topic_id: 28599
+title: "Creating Ear Model From Image"
+date: 2023-03-27
+url: https://discourse.slicer.org/t/28599
+---
+
 # Creating ear model from image
 
 **Topic ID**: 28599

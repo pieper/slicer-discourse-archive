@@ -1,3 +1,10 @@
+---
+topic_id: 18629
+title: "Slicer Dicom To Nrrd"
+date: 2021-07-11
+url: https://discourse.slicer.org/t/18629
+---
+
 # Slicer Dicom to NRRD
 
 **Topic ID**: 18629

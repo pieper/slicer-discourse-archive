@@ -1,3 +1,10 @@
+---
+topic_id: 16586
+title: "Error When Trying Simpleitk With Segmentations Conversion"
+date: 2021-03-16
+url: https://discourse.slicer.org/t/16586
+---
+
 # Error when trying SimpleITK with Segmentations / conversion
 
 **Topic ID**: 16586

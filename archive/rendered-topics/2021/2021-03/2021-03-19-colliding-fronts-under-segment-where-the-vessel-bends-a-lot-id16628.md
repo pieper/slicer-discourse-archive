@@ -1,3 +1,10 @@
+---
+topic_id: 16628
+title: "Colliding Fronts Under Segment Where The Vessel Bends A Lot"
+date: 2021-03-19
+url: https://discourse.slicer.org/t/16628
+---
+
 # Colliding fronts under-segment where the vessel bends a lot
 
 **Topic ID**: 16628

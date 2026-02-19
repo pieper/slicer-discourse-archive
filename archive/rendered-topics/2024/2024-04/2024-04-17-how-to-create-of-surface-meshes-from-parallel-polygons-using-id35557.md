@@ -1,3 +1,10 @@
+---
+topic_id: 35557
+title: "How To Create Of Surface Meshes From Parallel Polygons Using"
+date: 2024-04-17
+url: https://discourse.slicer.org/t/35557
+---
+
 # How to Create of Surface Meshes from Parallel Polygons using VTK and Python
 
 **Topic ID**: 35557

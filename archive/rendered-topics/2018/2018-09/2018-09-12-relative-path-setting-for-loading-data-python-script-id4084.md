@@ -1,3 +1,10 @@
+---
+topic_id: 4084
+title: "Relative Path Setting For Loading Data Python Script"
+date: 2018-09-12
+url: https://discourse.slicer.org/t/4084
+---
+
 # Relative path setting for loading data python script
 
 **Topic ID**: 4084

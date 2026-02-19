@@ -1,3 +1,10 @@
+---
+topic_id: 30936
+title: "About Hotkeys For Painting Easing"
+date: 2023-08-02
+url: https://discourse.slicer.org/t/30936
+---
+
 # About Hotkeys for painting & easing
 
 **Topic ID**: 30936

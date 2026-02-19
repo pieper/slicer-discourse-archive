@@ -1,3 +1,10 @@
+---
+topic_id: 1906
+title: "Slicer Main Ui Freezes During Python Scripted Module Executi"
+date: 2018-01-23
+url: https://discourse.slicer.org/t/1906
+---
+
 # Slicer main UI freezes during python scripted module execution
 
 **Topic ID**: 1906

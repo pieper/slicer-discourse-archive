@@ -1,3 +1,10 @@
+---
+topic_id: 16585
+title: "Autoshrink Lung Masks In Lung Ct Analyzer And Segmenter"
+date: 2021-03-16
+url: https://discourse.slicer.org/t/16585
+---
+
 # Autoshrink lung masks in Lung CT Analyzer and Segmenter
 
 **Topic ID**: 16585

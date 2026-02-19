@@ -1,3 +1,10 @@
+---
+topic_id: 9196
+title: "New Module Texts"
+date: 2019-11-18
+url: https://discourse.slicer.org/t/9196
+---
+
 # New module: Texts
 
 **Topic ID**: 9196

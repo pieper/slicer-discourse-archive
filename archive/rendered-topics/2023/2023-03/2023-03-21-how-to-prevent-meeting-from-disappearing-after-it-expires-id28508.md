@@ -1,3 +1,10 @@
+---
+topic_id: 28508
+title: "How To Prevent Meeting From Disappearing After It Expires"
+date: 2023-03-21
+url: https://discourse.slicer.org/t/28508
+---
+
 # How to prevent meeting from disappearing after it expires?
 
 **Topic ID**: 28508

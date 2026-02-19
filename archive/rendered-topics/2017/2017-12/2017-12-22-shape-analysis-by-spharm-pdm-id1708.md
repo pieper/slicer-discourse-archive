@@ -1,3 +1,10 @@
+---
+topic_id: 1708
+title: "Shape Analysis By Spharm Pdm"
+date: 2017-12-22
+url: https://discourse.slicer.org/t/1708
+---
+
 # Shape analysis by SPHARM-PDM
 
 **Topic ID**: 1708

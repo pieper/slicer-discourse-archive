@@ -1,3 +1,10 @@
+---
+topic_id: 8563
+title: "Resize Window To Fit Data"
+date: 2019-09-25
+url: https://discourse.slicer.org/t/8563
+---
+
 # Resize window to fit data
 
 **Topic ID**: 8563

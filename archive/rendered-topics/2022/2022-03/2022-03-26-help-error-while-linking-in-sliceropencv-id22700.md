@@ -1,3 +1,10 @@
+---
+topic_id: 22700
+title: "Help Error While Linking In Sliceropencv"
+date: 2022-03-26
+url: https://discourse.slicer.org/t/22700
+---
+
 # [help!] Error while linking in SlicerOpenCV
 
 **Topic ID**: 22700

@@ -1,3 +1,10 @@
+---
+topic_id: 6482
+title: "How Can I Clear Python Interactor"
+date: 2019-04-12
+url: https://discourse.slicer.org/t/6482
+---
+
 # How can I clear Python Interactor?
 
 **Topic ID**: 6482

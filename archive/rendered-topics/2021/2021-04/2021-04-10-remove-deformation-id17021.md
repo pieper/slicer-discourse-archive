@@ -1,3 +1,10 @@
+---
+topic_id: 17021
+title: "Remove Deformation"
+date: 2021-04-10
+url: https://discourse.slicer.org/t/17021
+---
+
 # Remove deformation
 
 **Topic ID**: 17021

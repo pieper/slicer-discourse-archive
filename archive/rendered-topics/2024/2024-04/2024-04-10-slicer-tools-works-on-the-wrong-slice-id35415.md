@@ -1,3 +1,10 @@
+---
+topic_id: 35415
+title: "Slicer Tools Works On The Wrong Slice"
+date: 2024-04-10
+url: https://discourse.slicer.org/t/35415
+---
+
 # Slicer tools works on the wrong slice
 
 **Topic ID**: 35415

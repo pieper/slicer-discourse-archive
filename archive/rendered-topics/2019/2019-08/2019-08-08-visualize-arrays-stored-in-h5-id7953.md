@@ -1,3 +1,10 @@
+---
+topic_id: 7953
+title: "Visualize Arrays Stored In H5"
+date: 2019-08-08
+url: https://discourse.slicer.org/t/7953
+---
+
 # Visualize arrays stored in h5
 
 **Topic ID**: 7953

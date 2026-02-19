@@ -1,3 +1,10 @@
+---
+topic_id: 18080
+title: "How To Color Franks Sign Part In The Ear Without Segmentatio"
+date: 2021-06-11
+url: https://discourse.slicer.org/t/18080
+---
+
 # How to color Frank's sign part in the ear without segmentation
 
 **Topic ID**: 18080

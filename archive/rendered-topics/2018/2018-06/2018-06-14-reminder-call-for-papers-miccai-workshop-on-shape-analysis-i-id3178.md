@@ -1,3 +1,10 @@
+---
+topic_id: 3178
+title: "Reminder Call For Papers Miccai Workshop On Shape Analysis I"
+date: 2018-06-14
+url: https://discourse.slicer.org/t/3178
+---
+
 # Reminder: ** Call for Papers - MICCAI Workshop on Shape Analysis in Medical Imaging (SHAPEMI) **
 
 **Topic ID**: 3178

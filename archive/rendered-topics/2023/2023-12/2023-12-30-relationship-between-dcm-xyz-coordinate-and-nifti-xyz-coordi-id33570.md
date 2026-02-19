@@ -1,3 +1,10 @@
+---
+topic_id: 33570
+title: "Relationship Between Dcm Xyz Coordinate And Nifti Xyz Coordi"
+date: 2023-12-30
+url: https://discourse.slicer.org/t/33570
+---
+
 # Relationship between dcm xyz coordinate and nifti xyz coordinate
 
 **Topic ID**: 33570

@@ -1,3 +1,10 @@
+---
+topic_id: 21562
+title: "Anyone Know How To Calculated The Lesion On Ct Corresponding"
+date: 2022-01-21
+url: https://discourse.slicer.org/t/21562
+---
+
 # Anyone know how to calculated the lesion on CT corresponding on SPECT images?
 
 **Topic ID**: 21562

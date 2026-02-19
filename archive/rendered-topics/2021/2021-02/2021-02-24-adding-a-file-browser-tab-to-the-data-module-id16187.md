@@ -1,3 +1,10 @@
+---
+topic_id: 16187
+title: "Adding A File Browser Tab To The Data Module"
+date: 2021-02-24
+url: https://discourse.slicer.org/t/16187
+---
+
 # Adding a file browser tab to the Data module
 
 **Topic ID**: 16187

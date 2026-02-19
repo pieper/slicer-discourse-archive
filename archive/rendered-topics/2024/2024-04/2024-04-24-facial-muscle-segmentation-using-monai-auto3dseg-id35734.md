@@ -1,3 +1,10 @@
+---
+topic_id: 35734
+title: "Facial Muscle Segmentation Using Monai Auto3Dseg"
+date: 2024-04-24
+url: https://discourse.slicer.org/t/35734
+---
+
 # Facial muscle segmentation using MONAI Auto3DSeg
 
 **Topic ID**: 35734

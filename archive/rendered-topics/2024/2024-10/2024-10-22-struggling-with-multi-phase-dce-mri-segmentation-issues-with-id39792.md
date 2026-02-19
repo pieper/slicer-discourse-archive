@@ -1,3 +1,10 @@
+---
+topic_id: 39792
+title: "Struggling With Multi Phase Dce Mri Segmentation Issues With"
+date: 2024-10-22
+url: https://discourse.slicer.org/t/39792
+---
+
 # Struggling with Multi-Phase DCE-MRI Segmentation: Issues with 3D Slicer Viewing and DICOM Reconstruction
 
 **Topic ID**: 39792

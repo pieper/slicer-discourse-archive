@@ -1,3 +1,10 @@
+---
+topic_id: 36757
+title: "Export 3D Model Into Stp File"
+date: 2024-06-13
+url: https://discourse.slicer.org/t/36757
+---
+
 # Export 3d model into stp file
 
 **Topic ID**: 36757

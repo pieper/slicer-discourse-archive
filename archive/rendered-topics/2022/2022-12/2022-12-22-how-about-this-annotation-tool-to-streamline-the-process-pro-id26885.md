@@ -1,3 +1,10 @@
+---
+topic_id: 26885
+title: "How About This Annotation Tool To Streamline The Process Pro"
+date: 2022-12-22
+url: https://discourse.slicer.org/t/26885
+---
+
 # How about this annotation tool to streamline the process ? (Prototype)
 
 **Topic ID**: 26885

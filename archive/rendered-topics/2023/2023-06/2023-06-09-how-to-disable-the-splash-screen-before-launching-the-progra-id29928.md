@@ -1,3 +1,10 @@
+---
+topic_id: 29928
+title: "How To Disable The Splash Screen Before Launching The Progra"
+date: 2023-06-09
+url: https://discourse.slicer.org/t/29928
+---
+
 # How to disable the splash screen before launching the program
 
 **Topic ID**: 29928

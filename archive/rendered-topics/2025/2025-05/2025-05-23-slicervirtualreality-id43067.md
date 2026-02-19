@@ -1,3 +1,10 @@
+---
+topic_id: 43067
+title: "Slicervirtualreality"
+date: 2025-05-23
+url: https://discourse.slicer.org/t/43067
+---
+
 # SlicerVirtualReality
 
 **Topic ID**: 43067

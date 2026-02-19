@@ -1,3 +1,10 @@
+---
+topic_id: 25963
+title: "Incorporate Cgal In 3D Slicer"
+date: 2022-10-29
+url: https://discourse.slicer.org/t/25963
+---
+
 # Incorporate CGAL in 3D Slicer
 
 **Topic ID**: 25963

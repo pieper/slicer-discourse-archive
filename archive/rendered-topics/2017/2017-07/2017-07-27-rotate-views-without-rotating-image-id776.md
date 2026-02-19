@@ -1,3 +1,10 @@
+---
+topic_id: 776
+title: "Rotate Views Without Rotating Image"
+date: 2017-07-27
+url: https://discourse.slicer.org/t/776
+---
+
 # Rotate Views Without Rotating Image
 
 **Topic ID**: 776

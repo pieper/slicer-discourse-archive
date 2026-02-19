@@ -1,3 +1,10 @@
+---
+topic_id: 39697
+title: "Segmentation Of Eustechian Tube From Ct"
+date: 2024-10-14
+url: https://discourse.slicer.org/t/39697
+---
+
 # Segmentation of Eustechian tube from CT
 
 **Topic ID**: 39697

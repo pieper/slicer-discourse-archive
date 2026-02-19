@@ -1,3 +1,10 @@
+---
+topic_id: 9374
+title: "How To Import Rois"
+date: 2019-12-03
+url: https://discourse.slicer.org/t/9374
+---
+
 # How to import ROIs
 
 **Topic ID**: 9374

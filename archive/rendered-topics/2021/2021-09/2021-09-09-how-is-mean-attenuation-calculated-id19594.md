@@ -1,3 +1,10 @@
+---
+topic_id: 19594
+title: "How Is Mean Attenuation Calculated"
+date: 2021-09-09
+url: https://discourse.slicer.org/t/19594
+---
+
 # How is mean attenuation calculated?
 
 **Topic ID**: 19594

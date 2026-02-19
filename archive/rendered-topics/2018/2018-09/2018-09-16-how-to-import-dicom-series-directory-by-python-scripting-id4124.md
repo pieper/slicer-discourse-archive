@@ -1,3 +1,10 @@
+---
+topic_id: 4124
+title: "How To Import Dicom Series Directory By Python Scripting"
+date: 2018-09-16
+url: https://discourse.slicer.org/t/4124
+---
+
 # How to import dicom series directory by python scripting?
 
 **Topic ID**: 4124

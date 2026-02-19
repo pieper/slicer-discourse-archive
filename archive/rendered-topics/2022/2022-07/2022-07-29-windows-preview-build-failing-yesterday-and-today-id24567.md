@@ -1,3 +1,10 @@
+---
+topic_id: 24567
+title: "Windows Preview Build Failing Yesterday And Today"
+date: 2022-07-29
+url: https://discourse.slicer.org/t/24567
+---
+
 # Windows preview build failing yesterday and today
 
 **Topic ID**: 24567

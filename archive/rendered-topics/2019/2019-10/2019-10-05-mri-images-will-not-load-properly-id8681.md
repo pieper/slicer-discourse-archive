@@ -1,3 +1,10 @@
+---
+topic_id: 8681
+title: "Mri Images Will Not Load Properly"
+date: 2019-10-05
+url: https://discourse.slicer.org/t/8681
+---
+
 # MRI Images will not load properly
 
 **Topic ID**: 8681

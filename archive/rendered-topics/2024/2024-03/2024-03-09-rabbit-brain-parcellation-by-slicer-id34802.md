@@ -1,3 +1,10 @@
+---
+topic_id: 34802
+title: "Rabbit Brain Parcellation By Slicer"
+date: 2024-03-09
+url: https://discourse.slicer.org/t/34802
+---
+
 # Rabbit brain parcellation by Slicer
 
 **Topic ID**: 34802

@@ -1,3 +1,10 @@
+---
+topic_id: 21204
+title: "Copying Segment Names Colors From One Segmentation To Anothe"
+date: 2021-12-25
+url: https://discourse.slicer.org/t/21204
+---
+
 # Copying segment names/colors from one segmentation to another
 
 **Topic ID**: 21204

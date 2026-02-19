@@ -1,3 +1,10 @@
+---
+topic_id: 45798
+title: "Varying Between Slices"
+date: 2026-01-16
+url: https://discourse.slicer.org/t/45798
+---
+
 # Varying between slices
 
 **Topic ID**: 45798

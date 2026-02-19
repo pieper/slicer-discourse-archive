@@ -1,3 +1,10 @@
+---
+topic_id: 44838
+title: "Bonereconstructionplanner Not Able To Make Hemimandibulectom"
+date: 2025-10-21
+url: https://discourse.slicer.org/t/44838
+---
+
 # BoneReconstructionPlanner: not able to make hemimandibulectomy
 
 **Topic ID**: 44838

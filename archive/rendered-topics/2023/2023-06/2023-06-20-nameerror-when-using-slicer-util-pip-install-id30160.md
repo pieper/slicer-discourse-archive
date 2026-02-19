@@ -1,3 +1,10 @@
+---
+topic_id: 30160
+title: "Nameerror When Using Slicer Util Pip Install"
+date: 2023-06-20
+url: https://discourse.slicer.org/t/30160
+---
+
 # nameError when using slicer.util.pip_install
 
 **Topic ID**: 30160

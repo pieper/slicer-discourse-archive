@@ -1,3 +1,10 @@
+---
+topic_id: 25291
+title: "Modify Slicer Default Home Module And Slicer Default Favorit"
+date: 2022-09-16
+url: https://discourse.slicer.org/t/25291
+---
+
 # Modify Slicer_DEFAULT_HOME_MODULE and Slicer_DEFAULT_FAVORITE_MODULES
 
 **Topic ID**: 25291

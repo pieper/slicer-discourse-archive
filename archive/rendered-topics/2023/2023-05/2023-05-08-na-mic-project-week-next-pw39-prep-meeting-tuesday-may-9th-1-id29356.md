@@ -1,3 +1,10 @@
+---
+topic_id: 29356
+title: "Na Mic Project Week Next Pw39 Prep Meeting Tuesday May 9Th 1"
+date: 2023-05-08
+url: https://discourse.slicer.org/t/29356
+---
+
 # [Na-mic-project-week] Next PW39 Prep meeting - Tuesday May 9th - 10am EST
 
 **Topic ID**: 29356

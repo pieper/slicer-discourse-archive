@@ -1,3 +1,10 @@
+---
+topic_id: 20729
+title: "Visualize The Difference Between Two Meshes"
+date: 2021-11-22
+url: https://discourse.slicer.org/t/20729
+---
+
 # Visualize the difference between two meshes
 
 **Topic ID**: 20729

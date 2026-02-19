@@ -1,3 +1,10 @@
+---
+topic_id: 27804
+title: "Combine Two Models With Some Strange Problems"
+date: 2023-02-14
+url: https://discourse.slicer.org/t/27804
+---
+
 # Combine two models with some strange problems
 
 **Topic ID**: 27804

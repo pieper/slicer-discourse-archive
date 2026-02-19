@@ -1,3 +1,10 @@
+---
+topic_id: 26663
+title: "Build Error Due To Python H File Cannot Be Opened"
+date: 2022-12-09
+url: https://discourse.slicer.org/t/26663
+---
+
 # Build error due to Python.h file cannot be opened 
 
 **Topic ID**: 26663

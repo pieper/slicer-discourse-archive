@@ -1,3 +1,10 @@
+---
+topic_id: 39853
+title: "Guidance On Creating A Simplified Python Based Version Of 3D"
+date: 2024-10-25
+url: https://discourse.slicer.org/t/39853
+---
+
 # Guidance on Creating a Simplified Python-Based Version of 3D Slicer with Custom Modules
 
 **Topic ID**: 39853

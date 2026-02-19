@@ -1,3 +1,10 @@
+---
+topic_id: 4688
+title: "Accuracy Assessment Of Stl Model"
+date: 2018-11-08
+url: https://discourse.slicer.org/t/4688
+---
+
 # Accuracy assessment of stl model
 
 **Topic ID**: 4688

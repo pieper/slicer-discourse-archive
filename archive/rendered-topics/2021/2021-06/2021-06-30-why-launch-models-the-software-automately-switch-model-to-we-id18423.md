@@ -1,3 +1,10 @@
+---
+topic_id: 18423
+title: "Why Launch Models The Software Automately Switch Model To We"
+date: 2021-06-30
+url: https://discourse.slicer.org/t/18423
+---
+
 # Why launch models, the software automately switch model to "Welcome"
 
 **Topic ID**: 18423

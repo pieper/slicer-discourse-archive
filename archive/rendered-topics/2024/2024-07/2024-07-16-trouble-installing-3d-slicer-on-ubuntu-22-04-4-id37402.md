@@ -1,3 +1,10 @@
+---
+topic_id: 37402
+title: "Trouble Installing 3D Slicer On Ubuntu 22 04 4"
+date: 2024-07-16
+url: https://discourse.slicer.org/t/37402
+---
+
 # Trouble Installing 3D Slicer on Ubuntu 22.04.4
 
 **Topic ID**: 37402

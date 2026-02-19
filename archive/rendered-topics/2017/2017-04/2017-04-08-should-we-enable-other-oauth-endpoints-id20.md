@@ -1,3 +1,10 @@
+---
+topic_id: 20
+title: "Should We Enable Other Oauth Endpoints"
+date: 2017-04-08
+url: https://discourse.slicer.org/t/20
+---
+
 # Should we enable other OAuth endpoints?
 
 **Topic ID**: 20

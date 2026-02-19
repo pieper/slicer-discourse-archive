@@ -1,3 +1,10 @@
+---
+topic_id: 20541
+title: "Is There A Way To View Just One Slice With One 3D View"
+date: 2021-11-09
+url: https://discourse.slicer.org/t/20541
+---
+
 # Is there a way to view just one slice with one 3D view?
 
 **Topic ID**: 20541

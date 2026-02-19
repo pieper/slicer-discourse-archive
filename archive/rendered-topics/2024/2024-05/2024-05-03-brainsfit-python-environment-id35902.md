@@ -1,3 +1,10 @@
+---
+topic_id: 35902
+title: "Brainsfit Python Environment"
+date: 2024-05-03
+url: https://discourse.slicer.org/t/35902
+---
+
 # BRAINSFit python environment
 
 **Topic ID**: 35902

@@ -1,3 +1,10 @@
+---
+topic_id: 1274
+title: "Extension Build Failures"
+date: 2017-10-24
+url: https://discourse.slicer.org/t/1274
+---
+
 # Extension build failures
 
 **Topic ID**: 1274

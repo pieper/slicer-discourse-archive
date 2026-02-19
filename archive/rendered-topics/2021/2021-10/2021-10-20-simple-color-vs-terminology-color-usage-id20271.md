@@ -1,3 +1,10 @@
+---
+topic_id: 20271
+title: "Simple Color Vs Terminology Color Usage"
+date: 2021-10-20
+url: https://discourse.slicer.org/t/20271
+---
+
 # Simple Color vs Terminology Color usage
 
 **Topic ID**: 20271

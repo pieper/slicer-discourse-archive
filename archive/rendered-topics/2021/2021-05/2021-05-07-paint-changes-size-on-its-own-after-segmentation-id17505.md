@@ -1,3 +1,10 @@
+---
+topic_id: 17505
+title: "Paint Changes Size On Its Own After Segmentation"
+date: 2021-05-07
+url: https://discourse.slicer.org/t/17505
+---
+
 # Paint changes size on its own after segmentation
 
 **Topic ID**: 17505

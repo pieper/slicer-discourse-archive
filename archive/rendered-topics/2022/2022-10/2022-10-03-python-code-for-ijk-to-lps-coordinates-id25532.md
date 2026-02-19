@@ -1,3 +1,10 @@
+---
+topic_id: 25532
+title: "Python Code For Ijk To Lps Coordinates"
+date: 2022-10-03
+url: https://discourse.slicer.org/t/25532
+---
+
 # Python code for ijk_to_lps coordinates?
 
 **Topic ID**: 25532

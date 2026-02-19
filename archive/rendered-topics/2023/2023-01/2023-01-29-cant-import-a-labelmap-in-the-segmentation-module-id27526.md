@@ -1,3 +1,10 @@
+---
+topic_id: 27526
+title: "Cant Import A Labelmap In The Segmentation Module"
+date: 2023-01-29
+url: https://discourse.slicer.org/t/27526
+---
+
 # Can't import a labelmap in the segmentation module
 
 **Topic ID**: 27526

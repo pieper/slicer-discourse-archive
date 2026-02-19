@@ -1,3 +1,10 @@
+---
+topic_id: 23903
+title: "How To Do The Segmentation Of Ribcage Including The Costal C"
+date: 2022-06-16
+url: https://discourse.slicer.org/t/23903
+---
+
 # How to do the segmentation of ribcage including the Costal cartilage? 
 
 **Topic ID**: 23903

@@ -1,3 +1,10 @@
+---
+topic_id: 14986
+title: "Problem With Paint Option And Does Not Save Segments Of Spec"
+date: 2020-12-10
+url: https://discourse.slicer.org/t/14986
+---
+
 # Problem with paint option and does not save segments of specific files
 
 **Topic ID**: 14986

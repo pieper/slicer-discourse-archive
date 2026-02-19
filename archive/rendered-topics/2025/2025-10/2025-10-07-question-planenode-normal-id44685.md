@@ -1,3 +1,10 @@
+---
+topic_id: 44685
+title: "Question Planenode Normal"
+date: 2025-10-07
+url: https://discourse.slicer.org/t/44685
+---
+
 # Question PlaneNode Normal
 
 **Topic ID**: 44685

@@ -1,3 +1,10 @@
+---
+topic_id: 41207
+title: "Temporary Disabling Of Stable Extension Builds In Preparatio"
+date: 2025-01-22
+url: https://discourse.slicer.org/t/41207
+---
+
 # Temporary disabling of Stable extension builds in preparation for Slicer 5.8 Release & Visual Studio update
 
 **Topic ID**: 41207

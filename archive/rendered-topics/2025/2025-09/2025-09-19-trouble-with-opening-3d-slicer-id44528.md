@@ -1,3 +1,10 @@
+---
+topic_id: 44528
+title: "Trouble With Opening 3D Slicer"
+date: 2025-09-19
+url: https://discourse.slicer.org/t/44528
+---
+
 # Trouble with opening 3D Slicer
 
 **Topic ID**: 44528

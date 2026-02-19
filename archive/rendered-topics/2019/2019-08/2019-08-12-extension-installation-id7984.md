@@ -1,3 +1,10 @@
+---
+topic_id: 7984
+title: "Extension Installation"
+date: 2019-08-12
+url: https://discourse.slicer.org/t/7984
+---
+
 # Extension installation
 
 **Topic ID**: 7984

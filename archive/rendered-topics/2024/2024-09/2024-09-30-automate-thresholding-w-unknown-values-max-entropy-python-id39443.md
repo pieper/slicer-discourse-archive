@@ -1,3 +1,10 @@
+---
+topic_id: 39443
+title: "Automate Thresholding W Unknown Values Max Entropy Python"
+date: 2024-09-30
+url: https://discourse.slicer.org/t/39443
+---
+
 # Automate thresholding w. unknown values - Max Entropy (Python)
 
 **Topic ID**: 39443

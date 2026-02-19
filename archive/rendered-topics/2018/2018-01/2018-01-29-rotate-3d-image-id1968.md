@@ -1,3 +1,10 @@
+---
+topic_id: 1968
+title: "Rotate 3D Image"
+date: 2018-01-29
+url: https://discourse.slicer.org/t/1968
+---
+
 # Rotate 3D image
 
 **Topic ID**: 1968

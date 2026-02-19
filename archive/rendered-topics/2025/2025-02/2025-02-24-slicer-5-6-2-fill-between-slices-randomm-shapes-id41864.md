@@ -1,3 +1,10 @@
+---
+topic_id: 41864
+title: "Slicer 5 6 2 Fill Between Slices Randomm Shapes"
+date: 2025-02-24
+url: https://discourse.slicer.org/t/41864
+---
+
 # Slicer 5.6.2 Fill Between Slices Randomm shapes
 
 **Topic ID**: 41864

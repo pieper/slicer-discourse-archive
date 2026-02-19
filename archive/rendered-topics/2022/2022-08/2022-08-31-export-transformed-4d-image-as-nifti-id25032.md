@@ -1,3 +1,10 @@
+---
+topic_id: 25032
+title: "Export Transformed 4D Image As Nifti"
+date: 2022-08-31
+url: https://discourse.slicer.org/t/25032
+---
+
 # Export transformed 4D image as nifti?
 
 **Topic ID**: 25032

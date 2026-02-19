@@ -1,3 +1,10 @@
+---
+topic_id: 7924
+title: "Changing Window Level And Index Slice For A Volume Loaded Fr"
+date: 2019-08-07
+url: https://discourse.slicer.org/t/7924
+---
+
 # Changing window/level and index slice for a volume loaded from the command line
 
 **Topic ID**: 7924

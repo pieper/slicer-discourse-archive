@@ -1,3 +1,10 @@
+---
+topic_id: 4672
+title: "Load Dicom Via Python And Ignore Warnings Detected During Lo"
+date: 2018-11-07
+url: https://discourse.slicer.org/t/4672
+---
+
 # Load DICOM via python and ignore 'Warnings detected during load' dialog
 
 **Topic ID**: 4672

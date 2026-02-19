@@ -1,3 +1,10 @@
+---
+topic_id: 29106
+title: "Apply Button For Threshold Computation"
+date: 2023-04-25
+url: https://discourse.slicer.org/t/29106
+---
+
 # Apply button for threshold computation
 
 **Topic ID**: 29106

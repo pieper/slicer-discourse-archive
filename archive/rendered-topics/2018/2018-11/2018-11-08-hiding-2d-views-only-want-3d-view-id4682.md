@@ -1,3 +1,10 @@
+---
+topic_id: 4682
+title: "Hiding 2D Views Only Want 3D View"
+date: 2018-11-08
+url: https://discourse.slicer.org/t/4682
+---
+
 # hiding 2D views; only want 3D view
 
 **Topic ID**: 4682

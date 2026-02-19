@@ -1,3 +1,10 @@
+---
+topic_id: 21853
+title: "Segment And Label Components"
+date: 2022-02-08
+url: https://discourse.slicer.org/t/21853
+---
+
 # segment and label components
 
 **Topic ID**: 21853

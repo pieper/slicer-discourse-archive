@@ -1,3 +1,10 @@
+---
+topic_id: 27921
+title: "Error Message Running Covariate Significiance Testing Module"
+date: 2023-02-20
+url: https://discourse.slicer.org/t/27921
+---
+
 # Error message running covariate significiance testing module
 
 **Topic ID**: 27921

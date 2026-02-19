@@ -1,3 +1,10 @@
+---
+topic_id: 24290
+title: "Segment Editor Liver Segmentation Issue"
+date: 2022-07-12
+url: https://discourse.slicer.org/t/24290
+---
+
 # Segment Editor - Liver segmentation issue
 
 **Topic ID**: 24290

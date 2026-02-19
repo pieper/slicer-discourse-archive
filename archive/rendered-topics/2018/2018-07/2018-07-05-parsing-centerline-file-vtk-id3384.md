@@ -1,3 +1,10 @@
+---
+topic_id: 3384
+title: "Parsing Centerline File Vtk"
+date: 2018-07-05
+url: https://discourse.slicer.org/t/3384
+---
+
 # Parsing CenterLine File (.vtk)
 
 **Topic ID**: 3384

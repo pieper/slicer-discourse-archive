@@ -1,3 +1,10 @@
+---
+topic_id: 31439
+title: "Install Extensions From The Command Line Using Slicer 5 2 2"
+date: 2023-08-29
+url: https://discourse.slicer.org/t/31439
+---
+
 # Install extensions from the command line using Slicer 5.2.2
 
 **Topic ID**: 31439

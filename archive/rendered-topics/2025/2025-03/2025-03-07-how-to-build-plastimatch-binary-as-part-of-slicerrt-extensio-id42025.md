@@ -1,3 +1,10 @@
+---
+topic_id: 42025
+title: "How To Build Plastimatch Binary As Part Of Slicerrt Extensio"
+date: 2025-03-07
+url: https://discourse.slicer.org/t/42025
+---
+
 # How to build plastimatch binary as part of SlicerRT extension?
 
 **Topic ID**: 42025

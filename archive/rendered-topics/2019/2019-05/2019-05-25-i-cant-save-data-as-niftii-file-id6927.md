@@ -1,3 +1,10 @@
+---
+topic_id: 6927
+title: "I Cant Save Data As Niftii File"
+date: 2019-05-25
+url: https://discourse.slicer.org/t/6927
+---
+
 # I can't save data as niftii file
 
 **Topic ID**: 6927

@@ -1,3 +1,10 @@
+---
+topic_id: 23221
+title: "Tip About Using Slices"
+date: 2022-05-01
+url: https://discourse.slicer.org/t/23221
+---
+
 # tip about using slices
 
 **Topic ID**: 23221

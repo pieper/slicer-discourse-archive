@@ -1,3 +1,10 @@
+---
+topic_id: 38011
+title: "Automatic Liver Segmentation In Mri"
+date: 2024-08-23
+url: https://discourse.slicer.org/t/38011
+---
+
 # Automatic liver segmentation in MRI
 
 **Topic ID**: 38011

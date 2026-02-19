@@ -1,3 +1,10 @@
+---
+topic_id: 5971
+title: "Saving Creates Multiple Copies Of Files"
+date: 2019-02-28
+url: https://discourse.slicer.org/t/5971
+---
+
 # Saving creates multiple copies of files
 
 **Topic ID**: 5971

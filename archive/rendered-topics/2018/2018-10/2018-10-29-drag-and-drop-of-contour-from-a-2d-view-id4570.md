@@ -1,3 +1,10 @@
+---
+topic_id: 4570
+title: "Drag And Drop Of Contour From A 2D View"
+date: 2018-10-29
+url: https://discourse.slicer.org/t/4570
+---
+
 # Drag and drop of contour from a 2D view
 
 **Topic ID**: 4570

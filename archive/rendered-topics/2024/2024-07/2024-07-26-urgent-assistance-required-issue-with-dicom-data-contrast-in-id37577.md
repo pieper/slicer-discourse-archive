@@ -1,3 +1,10 @@
+---
+topic_id: 37577
+title: "Urgent Assistance Required Issue With Dicom Data Contrast In"
+date: 2024-07-26
+url: https://discourse.slicer.org/t/37577
+---
+
 # Urgent Assistance Required: Issue with DICOM Data Contrast in 3D Slicer
 
 **Topic ID**: 37577

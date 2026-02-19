@@ -1,3 +1,10 @@
+---
+topic_id: 2354
+title: "Does Slicer Support This Kind Of Pet Ct Registration"
+date: 2018-03-19
+url: https://discourse.slicer.org/t/2354
+---
+
 # Does Slicer support this kind of PET-CT registration?
 
 **Topic ID**: 2354

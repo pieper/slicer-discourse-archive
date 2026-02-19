@@ -1,3 +1,10 @@
+---
+topic_id: 41741
+title: "Cross Segment Area With Angulation"
+date: 2025-02-17
+url: https://discourse.slicer.org/t/41741
+---
+
 # Cross segment area with angulation
 
 **Topic ID**: 41741

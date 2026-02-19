@@ -1,3 +1,10 @@
+---
+topic_id: 288
+title: "Zooming Into Microscopy Data Using 3D Slicer"
+date: 2017-05-10
+url: https://discourse.slicer.org/t/288
+---
+
 # Zooming into microscopy data using 3D Slicer
 
 **Topic ID**: 288

@@ -1,3 +1,10 @@
+---
+topic_id: 11387
+title: "Nifti File And Freesurfer Pial File Mismatch In Slicer"
+date: 2020-05-02
+url: https://discourse.slicer.org/t/11387
+---
+
 # Nifti file and freesurfer pial file mismatch in slicer
 
 **Topic ID**: 11387

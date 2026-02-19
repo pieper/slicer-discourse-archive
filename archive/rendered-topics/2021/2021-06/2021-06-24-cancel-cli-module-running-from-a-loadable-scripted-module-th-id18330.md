@@ -1,3 +1,10 @@
+---
+topic_id: 18330
+title: "Cancel Cli Module Running From A Loadable Scripted Module Th"
+date: 2021-06-24
+url: https://discourse.slicer.org/t/18330
+---
+
 # Cancel CLI module running from a loadable scripted module through clicking the cancel button of qProgressDialog
 
 **Topic ID**: 18330

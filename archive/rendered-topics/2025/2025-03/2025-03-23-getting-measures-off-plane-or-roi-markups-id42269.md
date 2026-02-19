@@ -1,3 +1,10 @@
+---
+topic_id: 42269
+title: "Getting Measures Off Plane Or Roi Markups"
+date: 2025-03-23
+url: https://discourse.slicer.org/t/42269
+---
+
 # Getting measures off plane or ROI markups
 
 **Topic ID**: 42269

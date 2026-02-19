@@ -1,3 +1,10 @@
+---
+topic_id: 17232
+title: "Issue On Slicer Ui In Windows10 Green Stripes"
+date: 2021-04-21
+url: https://discourse.slicer.org/t/17232
+---
+
 # Issue on Slicer UI in Windows10 - green stripes
 
 **Topic ID**: 17232

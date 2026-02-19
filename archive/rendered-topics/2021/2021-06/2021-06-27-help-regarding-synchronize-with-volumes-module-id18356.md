@@ -1,3 +1,10 @@
+---
+topic_id: 18356
+title: "Help Regarding Synchronize With Volumes Module"
+date: 2021-06-27
+url: https://discourse.slicer.org/t/18356
+---
+
 # Help regarding "Synchronize with Volumes module"
 
 **Topic ID**: 18356

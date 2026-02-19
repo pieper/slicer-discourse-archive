@@ -1,3 +1,10 @@
+---
+topic_id: 44650
+title: "How To Copy A Segmentation From One Slice To The Next In Seg"
+date: 2025-10-02
+url: https://discourse.slicer.org/t/44650
+---
+
 # How to copy a segmentation from one slice to the next in Segment Editor?
 
 **Topic ID**: 44650

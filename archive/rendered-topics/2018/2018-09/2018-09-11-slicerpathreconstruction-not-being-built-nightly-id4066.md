@@ -1,3 +1,10 @@
+---
+topic_id: 4066
+title: "Slicerpathreconstruction Not Being Built Nightly"
+date: 2018-09-11
+url: https://discourse.slicer.org/t/4066
+---
+
 # SlicerPathReconstruction not being built nightly?
 
 **Topic ID**: 4066

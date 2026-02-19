@@ -1,3 +1,10 @@
+---
+topic_id: 32394
+title: "Can I Transfer The Ras Coordinate System Back To Lps"
+date: 2023-10-24
+url: https://discourse.slicer.org/t/32394
+---
+
 # Can I transfer the RAS coordinate system back to LPS
 
 **Topic ID**: 32394

@@ -1,3 +1,10 @@
+---
+topic_id: 35458
+title: "Measuring Pore Diameter Automatically"
+date: 2024-04-12
+url: https://discourse.slicer.org/t/35458
+---
+
 # Measuring pore diameter automatically
 
 **Topic ID**: 35458

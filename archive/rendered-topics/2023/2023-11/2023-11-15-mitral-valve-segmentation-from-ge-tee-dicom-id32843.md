@@ -1,3 +1,10 @@
+---
+topic_id: 32843
+title: "Mitral Valve Segmentation From Ge Tee Dicom"
+date: 2023-11-15
+url: https://discourse.slicer.org/t/32843
+---
+
 # Mitral valve segmentation from Ge TEE Dicom
 
 **Topic ID**: 32843

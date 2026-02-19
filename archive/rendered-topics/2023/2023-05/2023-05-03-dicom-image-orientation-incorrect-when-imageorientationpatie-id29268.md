@@ -1,3 +1,10 @@
+---
+topic_id: 29268
+title: "Dicom Image Orientation Incorrect When Imageorientationpatie"
+date: 2023-05-03
+url: https://discourse.slicer.org/t/29268
+---
+
 # Dicom image orientation incorrect when imageorientationpatient is -1 0 0 0 -1 0
 
 **Topic ID**: 29268

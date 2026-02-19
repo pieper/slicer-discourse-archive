@@ -1,3 +1,10 @@
+---
+topic_id: 24210
+title: "Learning How To Use Pyigtl"
+date: 2022-07-06
+url: https://discourse.slicer.org/t/24210
+---
+
 # Learning how to use pyigtl
 
 **Topic ID**: 24210

@@ -1,3 +1,10 @@
+---
+topic_id: 8927
+title: "Importation Of Additional Data Into A Mrml Node From A Dicom"
+date: 2019-10-28
+url: https://discourse.slicer.org/t/8927
+---
+
 # Importation of additional data into a MRML node from a dicom
 
 **Topic ID**: 8927

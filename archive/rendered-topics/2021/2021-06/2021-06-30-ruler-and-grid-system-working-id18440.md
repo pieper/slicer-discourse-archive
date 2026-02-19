@@ -1,3 +1,10 @@
+---
+topic_id: 18440
+title: "Ruler And Grid System Working"
+date: 2021-06-30
+url: https://discourse.slicer.org/t/18440
+---
+
 # Ruler and grid system working
 
 **Topic ID**: 18440

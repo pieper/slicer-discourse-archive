@@ -1,3 +1,10 @@
+---
+topic_id: 20189
+title: "Team Needed To Develop A Magnetic Ressonance Segmentation Of"
+date: 2021-10-16
+url: https://discourse.slicer.org/t/20189
+---
+
 # Team needed to develop a Magnetic Ressonance segmentation of the spinal column
 
 **Topic ID**: 20189

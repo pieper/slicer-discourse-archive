@@ -1,3 +1,10 @@
+---
+topic_id: 34769
+title: "Looking For An Efficient Approach To Isolating A Petrosal"
+date: 2024-03-08
+url: https://discourse.slicer.org/t/34769
+---
+
 # Looking for an efficient approach to isolating a petrosal
 
 **Topic ID**: 34769

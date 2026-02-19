@@ -1,3 +1,10 @@
+---
+topic_id: 31486
+title: "Undo Button For Mistakes In Segmentation"
+date: 2023-08-31
+url: https://discourse.slicer.org/t/31486
+---
+
 # Undo button for mistakes in segmentation
 
 **Topic ID**: 31486

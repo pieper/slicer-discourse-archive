@@ -1,3 +1,10 @@
+---
+topic_id: 41702
+title: "Creating Animation With A Set Of Meshes Deforming Over Time"
+date: 2025-02-14
+url: https://discourse.slicer.org/t/41702
+---
+
 # Creating animation with a set of meshes deforming over time overlapped to ct-scan
 
 **Topic ID**: 41702

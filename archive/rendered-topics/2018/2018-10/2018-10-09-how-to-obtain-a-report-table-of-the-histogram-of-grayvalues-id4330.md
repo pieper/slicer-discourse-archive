@@ -1,3 +1,10 @@
+---
+topic_id: 4330
+title: "How To Obtain A Report Table Of The Histogram Of Grayvalues"
+date: 2018-10-09
+url: https://discourse.slicer.org/t/4330
+---
+
 # how to obtain a report/table of the histogram of grayvalues 
 
 **Topic ID**: 4330

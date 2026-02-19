@@ -1,3 +1,10 @@
+---
+topic_id: 19236
+title: "Slicer Igt Extension Build Errors In Visual Studio 2019"
+date: 2021-08-17
+url: https://discourse.slicer.org/t/19236
+---
+
 # Slicer IGT extension build errors in visual studio 2019
 
 **Topic ID**: 19236

@@ -1,3 +1,10 @@
+---
+topic_id: 8702
+title: "Endoscopy Module 3D View Is Always Zoomed In"
+date: 2019-10-07
+url: https://discourse.slicer.org/t/8702
+---
+
 # Endoscopy module: 3D view is always zoomed in
 
 **Topic ID**: 8702

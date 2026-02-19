@@ -1,3 +1,10 @@
+---
+topic_id: 37951
+title: "How To Compare 2 Time Point Volumes Stl With Color Map"
+date: 2024-08-20
+url: https://discourse.slicer.org/t/37951
+---
+
 # How to compare 2 time point volumes (STL) with color map
 
 **Topic ID**: 37951

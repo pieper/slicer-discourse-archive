@@ -1,3 +1,10 @@
+---
+topic_id: 8326
+title: "Get Volume Orientation After Hardening A Transformation"
+date: 2019-09-06
+url: https://discourse.slicer.org/t/8326
+---
+
 # Get volume orientation after hardening a transformation
 
 **Topic ID**: 8326

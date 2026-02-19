@@ -1,3 +1,10 @@
+---
+topic_id: 32964
+title: "Registering A Volume Rendering Default Presets Automatically"
+date: 2023-11-22
+url: https://discourse.slicer.org/t/32964
+---
+
 # Registering a volume rendering default presets automatically
 
 **Topic ID**: 32964

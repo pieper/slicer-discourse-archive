@@ -1,3 +1,10 @@
+---
+topic_id: 39872
+title: "Warning Detection 3D Slicer"
+date: 2024-10-26
+url: https://discourse.slicer.org/t/39872
+---
+
 # Warning detection 3d slicer
 
 **Topic ID**: 39872

@@ -1,3 +1,10 @@
+---
+topic_id: 35794
+title: "Preparing A Surface For Meshing"
+date: 2024-04-29
+url: https://discourse.slicer.org/t/35794
+---
+
 # Preparing a surface for meshing
 
 **Topic ID**: 35794

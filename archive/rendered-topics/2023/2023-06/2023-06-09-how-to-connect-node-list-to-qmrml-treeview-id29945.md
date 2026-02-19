@@ -1,3 +1,10 @@
+---
+topic_id: 29945
+title: "How To Connect Node List To Qmrml Treeview"
+date: 2023-06-09
+url: https://discourse.slicer.org/t/29945
+---
+
 # How to connect node list to qmrml Treeview ?
 
 **Topic ID**: 29945

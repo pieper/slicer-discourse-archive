@@ -1,3 +1,10 @@
+---
+topic_id: 24586
+title: "How To Set Fov Through Xml"
+date: 2022-08-01
+url: https://discourse.slicer.org/t/24586
+---
+
 # How to set FOV through XML
 
 **Topic ID**: 24586

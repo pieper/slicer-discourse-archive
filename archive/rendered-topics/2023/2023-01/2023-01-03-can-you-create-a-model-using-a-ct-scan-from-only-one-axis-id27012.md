@@ -1,3 +1,10 @@
+---
+topic_id: 27012
+title: "Can You Create A Model Using A Ct Scan From Only One Axis"
+date: 2023-01-03
+url: https://discourse.slicer.org/t/27012
+---
+
 # Can you create a model using a CT scan from only one axis?
 
 **Topic ID**: 27012

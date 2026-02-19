@@ -1,3 +1,10 @@
+---
+topic_id: 10774
+title: "Reducing Size Of Segmentation"
+date: 2020-03-21
+url: https://discourse.slicer.org/t/10774
+---
+
 # Reducing size of segmentation
 
 **Topic ID**: 10774

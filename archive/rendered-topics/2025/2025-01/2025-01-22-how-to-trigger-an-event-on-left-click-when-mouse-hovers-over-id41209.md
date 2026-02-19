@@ -1,3 +1,10 @@
+---
+topic_id: 41209
+title: "How To Trigger An Event On Left Click When Mouse Hovers Over"
+date: 2025-01-22
+url: https://discourse.slicer.org/t/41209
+---
+
 # How to Trigger an Event on Left-Click When Mouse Hovers Over a CurveNode?
 
 **Topic ID**: 41209

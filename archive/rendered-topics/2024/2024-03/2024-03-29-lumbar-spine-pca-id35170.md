@@ -1,3 +1,10 @@
+---
+topic_id: 35170
+title: "Lumbar Spine Pca"
+date: 2024-03-29
+url: https://discourse.slicer.org/t/35170
+---
+
 # Lumbar Spine PCA
 
 **Topic ID**: 35170

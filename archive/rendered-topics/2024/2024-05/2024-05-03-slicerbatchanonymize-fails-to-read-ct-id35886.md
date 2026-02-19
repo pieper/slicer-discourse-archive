@@ -1,3 +1,10 @@
+---
+topic_id: 35886
+title: "Slicerbatchanonymize Fails To Read Ct"
+date: 2024-05-03
+url: https://discourse.slicer.org/t/35886
+---
+
 # SlicerBatchAnonymize fails to read CT
 
 **Topic ID**: 35886

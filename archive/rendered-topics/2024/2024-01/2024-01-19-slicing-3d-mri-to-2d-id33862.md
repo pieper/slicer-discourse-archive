@@ -1,3 +1,10 @@
+---
+topic_id: 33862
+title: "Slicing 3D Mri To 2D"
+date: 2024-01-19
+url: https://discourse.slicer.org/t/33862
+---
+
 # Slicing 3D MRI to 2D
 
 **Topic ID**: 33862

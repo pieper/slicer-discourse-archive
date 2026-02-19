@@ -1,3 +1,10 @@
+---
+topic_id: 17066
+title: "Registration Mr And Ct Images"
+date: 2021-04-13
+url: https://discourse.slicer.org/t/17066
+---
+
 #  Registration MR and CT images
 
 **Topic ID**: 17066

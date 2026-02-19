@@ -1,3 +1,10 @@
+---
+topic_id: 4361
+title: "Compute Bounding Sphere"
+date: 2018-10-11
+url: https://discourse.slicer.org/t/4361
+---
+
 # Compute bounding sphere
 
 **Topic ID**: 4361

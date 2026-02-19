@@ -1,3 +1,10 @@
+---
+topic_id: 7687
+title: "Issue During Voxelization Of A Model Stl"
+date: 2019-07-19
+url: https://discourse.slicer.org/t/7687
+---
+
 # Issue during voxelization of a model stl
 
 **Topic ID**: 7687

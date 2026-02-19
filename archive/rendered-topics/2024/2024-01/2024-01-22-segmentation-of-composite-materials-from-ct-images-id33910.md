@@ -1,3 +1,10 @@
+---
+topic_id: 33910
+title: "Segmentation Of Composite Materials From Ct Images"
+date: 2024-01-22
+url: https://discourse.slicer.org/t/33910
+---
+
 # Segmentation of composite materials from CT images
 
 **Topic ID**: 33910

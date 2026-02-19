@@ -1,3 +1,10 @@
+---
+topic_id: 1207
+title: "Systemerror When Loading Custom Python Module Path"
+date: 2017-10-11
+url: https://discourse.slicer.org/t/1207
+---
+
 # SystemError when loading custom Python module path
 
 **Topic ID**: 1207

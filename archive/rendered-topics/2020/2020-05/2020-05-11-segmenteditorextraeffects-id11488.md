@@ -1,3 +1,10 @@
+---
+topic_id: 11488
+title: "Segmenteditorextraeffects"
+date: 2020-05-11
+url: https://discourse.slicer.org/t/11488
+---
+
 # « SegmentEditorExtraEffects »
 
 **Topic ID**: 11488

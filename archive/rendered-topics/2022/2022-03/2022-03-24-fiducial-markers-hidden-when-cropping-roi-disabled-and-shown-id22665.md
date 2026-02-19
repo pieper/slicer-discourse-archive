@@ -1,3 +1,10 @@
+---
+topic_id: 22665
+title: "Fiducial Markers Hidden When Cropping Roi Disabled And Shown"
+date: 2022-03-24
+url: https://discourse.slicer.org/t/22665
+---
+
 # Fiducial markers hidden when cropping ROI disabled, and shown when cropping ROI enabled
 
 **Topic ID**: 22665

@@ -1,3 +1,10 @@
+---
+topic_id: 12982
+title: "Text Overlayed On Slice"
+date: 2020-08-13
+url: https://discourse.slicer.org/t/12982
+---
+
 # Text overlayed on slice
 
 **Topic ID**: 12982

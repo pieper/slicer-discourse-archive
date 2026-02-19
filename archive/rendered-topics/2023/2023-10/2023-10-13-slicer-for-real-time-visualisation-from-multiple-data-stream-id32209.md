@@ -1,3 +1,10 @@
+---
+topic_id: 32209
+title: "Slicer For Real Time Visualisation From Multiple Data Stream"
+date: 2023-10-13
+url: https://discourse.slicer.org/t/32209
+---
+
 # Slicer for real-time visualisation from multiple data streams and sending control commands
 
 **Topic ID**: 32209

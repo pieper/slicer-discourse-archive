@@ -1,3 +1,10 @@
+---
+topic_id: 24686
+title: "How Do I Change The Thickness Of Line With Markupsroinode"
+date: 2022-08-09
+url: https://discourse.slicer.org/t/24686
+---
+
 # How do I change the thickness of line with MarkupsROINode
 
 **Topic ID**: 24686

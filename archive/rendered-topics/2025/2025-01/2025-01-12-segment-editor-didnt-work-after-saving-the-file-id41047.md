@@ -1,3 +1,10 @@
+---
+topic_id: 41047
+title: "Segment Editor Didnt Work After Saving The File"
+date: 2025-01-12
+url: https://discourse.slicer.org/t/41047
+---
+
 # segment editor didn't work after saving the file
 
 **Topic ID**: 41047

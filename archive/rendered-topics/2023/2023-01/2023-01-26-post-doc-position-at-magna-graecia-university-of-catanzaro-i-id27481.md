@@ -1,3 +1,10 @@
+---
+topic_id: 27481
+title: "Post Doc Position At Magna Graecia University Of Catanzaro I"
+date: 2023-01-26
+url: https://discourse.slicer.org/t/27481
+---
+
 # Post-doc position at Magna Graecia University of Catanzaro, Italy.
 
 **Topic ID**: 27481

@@ -1,3 +1,10 @@
+---
+topic_id: 11511
+title: "Save Files From Loaded Node Id In Batch Mode"
+date: 2020-05-12
+url: https://discourse.slicer.org/t/11511
+---
+
 # Save files from loaded node ID in batch mode
 
 **Topic ID**: 11511

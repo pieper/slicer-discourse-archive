@@ -1,3 +1,10 @@
+---
+topic_id: 4797
+title: "Simple Example To Add A Vtk Object To Slicer 3D View"
+date: 2018-11-19
+url: https://discourse.slicer.org/t/4797
+---
+
 # Simple example to add a vtk object to Slicer 3D view
 
 **Topic ID**: 4797

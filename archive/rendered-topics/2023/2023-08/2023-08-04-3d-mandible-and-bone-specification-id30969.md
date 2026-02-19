@@ -1,3 +1,10 @@
+---
+topic_id: 30969
+title: "3D Mandible And Bone Specification"
+date: 2023-08-04
+url: https://discourse.slicer.org/t/30969
+---
+
 # 3D mandible and bone specification
 
 **Topic ID**: 30969

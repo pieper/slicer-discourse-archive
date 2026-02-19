@@ -1,3 +1,10 @@
+---
+topic_id: 18232
+title: "Similarity Of Feature Classes Between 3D Slicer And Pyradiom"
+date: 2021-06-20
+url: https://discourse.slicer.org/t/18232
+---
+
 # Similarity of feature classes between 3D Slicer and PyRadiomics
 
 **Topic ID**: 18232

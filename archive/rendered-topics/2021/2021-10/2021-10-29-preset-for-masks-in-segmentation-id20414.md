@@ -1,3 +1,10 @@
+---
+topic_id: 20414
+title: "Preset For Masks In Segmentation"
+date: 2021-10-29
+url: https://discourse.slicer.org/t/20414
+---
+
 # Preset for masks in segmentation
 
 **Topic ID**: 20414

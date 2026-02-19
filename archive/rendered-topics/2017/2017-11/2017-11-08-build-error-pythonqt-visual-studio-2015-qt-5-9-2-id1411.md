@@ -1,3 +1,10 @@
+---
+topic_id: 1411
+title: "Build Error Pythonqt Visual Studio 2015 Qt 5 9 2"
+date: 2017-11-08
+url: https://discourse.slicer.org/t/1411
+---
+
 # Build Error PythonQt Visual Studio 2015 Qt 5.9.2
 
 **Topic ID**: 1411

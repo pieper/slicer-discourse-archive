@@ -1,3 +1,10 @@
+---
+topic_id: 4284
+title: "Dvt Import With Wrong Dimensions"
+date: 2018-10-04
+url: https://discourse.slicer.org/t/4284
+---
+
 # DVT import with wrong dimensions
 
 **Topic ID**: 4284

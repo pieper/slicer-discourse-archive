@@ -1,3 +1,10 @@
+---
+topic_id: 13163
+title: "Loading Philips 3D Us"
+date: 2020-08-25
+url: https://discourse.slicer.org/t/13163
+---
+
 # Loading Philips 3D US
 
 **Topic ID**: 13163

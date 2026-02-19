@@ -1,3 +1,10 @@
+---
+topic_id: 29271
+title: "Rt Structure Aide"
+date: 2023-05-03
+url: https://discourse.slicer.org/t/29271
+---
+
 # Rt structure aide
 
 **Topic ID**: 29271

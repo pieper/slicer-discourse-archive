@@ -1,3 +1,10 @@
+---
+topic_id: 34446
+title: "There Is No Total Segmentation In 3D Slicer"
+date: 2024-02-21
+url: https://discourse.slicer.org/t/34446
+---
+
 # There is no total segmentation in 3d slicer
 
 **Topic ID**: 34446

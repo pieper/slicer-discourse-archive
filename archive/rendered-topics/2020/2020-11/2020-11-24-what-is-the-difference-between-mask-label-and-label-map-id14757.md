@@ -1,3 +1,10 @@
+---
+topic_id: 14757
+title: "What Is The Difference Between Mask Label And Label Map"
+date: 2020-11-24
+url: https://discourse.slicer.org/t/14757
+---
+
 # What is the difference between mask, label and label map?
 
 **Topic ID**: 14757

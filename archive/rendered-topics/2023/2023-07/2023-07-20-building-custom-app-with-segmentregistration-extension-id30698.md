@@ -1,3 +1,10 @@
+---
+topic_id: 30698
+title: "Building Custom App With Segmentregistration Extension"
+date: 2023-07-20
+url: https://discourse.slicer.org/t/30698
+---
+
 # Building custom app with SegmentRegistration extension
 
 **Topic ID**: 30698

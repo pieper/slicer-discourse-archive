@@ -1,3 +1,10 @@
+---
+topic_id: 19866
+title: "Finding Landmark Pairing Information From Pseudolmgenerator"
+date: 2021-09-26
+url: https://discourse.slicer.org/t/19866
+---
+
 # Finding landmark pairing information from PseudoLMGenerator
 
 **Topic ID**: 19866

@@ -1,3 +1,10 @@
+---
+topic_id: 31688
+title: "Mask Volume In Segment Editor"
+date: 2023-09-14
+url: https://discourse.slicer.org/t/31688
+---
+
 # Mask volume in segment editor
 
 **Topic ID**: 31688

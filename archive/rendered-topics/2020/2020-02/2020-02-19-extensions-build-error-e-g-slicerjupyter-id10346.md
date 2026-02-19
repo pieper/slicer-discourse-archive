@@ -1,3 +1,10 @@
+---
+topic_id: 10346
+title: "Extensions Build Error E G Slicerjupyter"
+date: 2020-02-19
+url: https://discourse.slicer.org/t/10346
+---
+
 # Extensions build error (e.g. SlicerJupyter)
 
 **Topic ID**: 10346

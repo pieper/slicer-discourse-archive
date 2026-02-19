@@ -1,3 +1,10 @@
+---
+topic_id: 29080
+title: "Addsegment Error"
+date: 2023-04-24
+url: https://discourse.slicer.org/t/29080
+---
+
 # AddSegment error
 
 **Topic ID**: 29080

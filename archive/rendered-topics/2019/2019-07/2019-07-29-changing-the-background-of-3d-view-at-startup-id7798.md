@@ -1,3 +1,10 @@
+---
+topic_id: 7798
+title: "Changing The Background Of 3D View At Startup"
+date: 2019-07-29
+url: https://discourse.slicer.org/t/7798
+---
+
 # Changing the background of 3D view at startup
 
 **Topic ID**: 7798

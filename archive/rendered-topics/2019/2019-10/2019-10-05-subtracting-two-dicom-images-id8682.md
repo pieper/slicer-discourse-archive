@@ -1,3 +1,10 @@
+---
+topic_id: 8682
+title: "Subtracting Two Dicom Images"
+date: 2019-10-05
+url: https://discourse.slicer.org/t/8682
+---
+
 # Subtracting two dicom images
 
 **Topic ID**: 8682

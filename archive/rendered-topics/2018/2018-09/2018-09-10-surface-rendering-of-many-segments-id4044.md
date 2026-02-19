@@ -1,3 +1,10 @@
+---
+topic_id: 4044
+title: "Surface Rendering Of Many Segments"
+date: 2018-09-10
+url: https://discourse.slicer.org/t/4044
+---
+
 # surface rendering of many segments
 
 **Topic ID**: 4044

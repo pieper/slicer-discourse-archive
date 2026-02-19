@@ -1,3 +1,10 @@
+---
+topic_id: 3719
+title: "Cannot Download Slicer"
+date: 2018-08-09
+url: https://discourse.slicer.org/t/3719
+---
+
 # Cannot Download Slicer
 
 **Topic ID**: 3719

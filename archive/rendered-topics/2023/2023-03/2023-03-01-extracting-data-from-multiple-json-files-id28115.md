@@ -1,3 +1,10 @@
+---
+topic_id: 28115
+title: "Extracting Data From Multiple Json Files"
+date: 2023-03-01
+url: https://discourse.slicer.org/t/28115
+---
+
 # Extracting data from multiple JSON files.
 
 **Topic ID**: 28115

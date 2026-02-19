@@ -1,3 +1,10 @@
+---
+topic_id: 15687
+title: "Export Multiple Individual Segment Stl Files From One Segmen"
+date: 2021-01-27
+url: https://discourse.slicer.org/t/15687
+---
+
 # Export multiple individual segment .stl files from one segmented nii.gz file using python script
 
 **Topic ID**: 15687

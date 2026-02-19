@@ -1,3 +1,10 @@
+---
+topic_id: 36848
+title: "Is It Possible To Use Slicer As A Service"
+date: 2024-06-17
+url: https://discourse.slicer.org/t/36848
+---
+
 # Is it possible to use slicer as a service?
 
 **Topic ID**: 36848

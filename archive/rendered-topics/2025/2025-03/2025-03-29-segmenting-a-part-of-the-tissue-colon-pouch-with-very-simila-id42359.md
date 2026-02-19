@@ -1,3 +1,10 @@
+---
+topic_id: 42359
+title: "Segmenting A Part Of The Tissue Colon Pouch With Very Simila"
+date: 2025-03-29
+url: https://discourse.slicer.org/t/42359
+---
+
 # Segmenting a part of the tissue (colon, pouch) with very similar intensity to nearby structures
 
 **Topic ID**: 42359

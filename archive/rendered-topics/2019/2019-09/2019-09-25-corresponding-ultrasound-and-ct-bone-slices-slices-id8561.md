@@ -1,3 +1,10 @@
+---
+topic_id: 8561
+title: "Corresponding Ultrasound And Ct Bone Slices Slices"
+date: 2019-09-25
+url: https://discourse.slicer.org/t/8561
+---
+
 # Corresponding Ultrasound and CT (bone slices) slices
 
 **Topic ID**: 8561

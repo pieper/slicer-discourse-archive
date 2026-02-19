@@ -1,3 +1,10 @@
+---
+topic_id: 2123
+title: "Is Plus Compatible With Cygnus Pfs A Dc Magnetic Navigate"
+date: 2018-02-20
+url: https://discourse.slicer.org/t/2123
+---
+
 # Is PLUS compatible with Cygnus-PFS a DC magnetic navigate
 
 **Topic ID**: 2123

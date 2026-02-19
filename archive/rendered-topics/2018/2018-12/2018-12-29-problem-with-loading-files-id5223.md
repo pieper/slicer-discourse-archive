@@ -1,3 +1,10 @@
+---
+topic_id: 5223
+title: "Problem With Loading Files"
+date: 2018-12-29
+url: https://discourse.slicer.org/t/5223
+---
+
 # Problem with loading files
 
 **Topic ID**: 5223

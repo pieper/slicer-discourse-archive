@@ -1,3 +1,10 @@
+---
+topic_id: 12208
+title: "Why Does Slicer Lower Image Quality"
+date: 2020-06-24
+url: https://discourse.slicer.org/t/12208
+---
+
 # Why does Slicer lower image quality?
 
 **Topic ID**: 12208

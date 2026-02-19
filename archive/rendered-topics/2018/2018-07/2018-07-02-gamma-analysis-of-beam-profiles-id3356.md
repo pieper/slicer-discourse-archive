@@ -1,3 +1,10 @@
+---
+topic_id: 3356
+title: "Gamma Analysis Of Beam Profiles"
+date: 2018-07-02
+url: https://discourse.slicer.org/t/3356
+---
+
 # Gamma Analysis of beam profiles
 
 **Topic ID**: 3356

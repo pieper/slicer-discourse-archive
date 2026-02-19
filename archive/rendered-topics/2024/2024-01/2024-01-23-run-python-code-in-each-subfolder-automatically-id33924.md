@@ -1,3 +1,10 @@
+---
+topic_id: 33924
+title: "Run Python Code In Each Subfolder Automatically"
+date: 2024-01-23
+url: https://discourse.slicer.org/t/33924
+---
+
 # Run Python code in each subfolder automatically
 
 **Topic ID**: 33924

@@ -1,3 +1,10 @@
+---
+topic_id: 7055
+title: "Threshholding A Binary Image"
+date: 2019-06-06
+url: https://discourse.slicer.org/t/7055
+---
+
 # Threshholding a binary image
 
 **Topic ID**: 7055

@@ -1,3 +1,10 @@
+---
+topic_id: 38489
+title: "Lung Volume Measurement"
+date: 2024-09-23
+url: https://discourse.slicer.org/t/38489
+---
+
 # Lung volume measurement
 
 **Topic ID**: 38489

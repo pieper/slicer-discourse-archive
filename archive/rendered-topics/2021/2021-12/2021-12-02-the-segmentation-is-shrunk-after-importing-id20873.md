@@ -1,3 +1,10 @@
+---
+topic_id: 20873
+title: "The Segmentation Is Shrunk After Importing"
+date: 2021-12-02
+url: https://discourse.slicer.org/t/20873
+---
+
 # The segmentation is shrunk after importing 
 
 **Topic ID**: 20873

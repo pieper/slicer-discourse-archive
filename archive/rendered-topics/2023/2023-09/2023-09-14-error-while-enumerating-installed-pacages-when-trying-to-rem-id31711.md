@@ -1,3 +1,10 @@
+---
+topic_id: 31711
+title: "Error While Enumerating Installed Pacages When Trying To Rem"
+date: 2023-09-14
+url: https://discourse.slicer.org/t/31711
+---
+
 # Error while enumerating installed pacages when trying to remote attach from VS code
 
 **Topic ID**: 31711

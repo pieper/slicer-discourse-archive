@@ -1,3 +1,10 @@
+---
+topic_id: 10281
+title: "General Registration Elastix Problem"
+date: 2020-02-15
+url: https://discourse.slicer.org/t/10281
+---
+
 # General Registration(Elastix) problem!
 
 **Topic ID**: 10281

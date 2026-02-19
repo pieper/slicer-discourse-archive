@@ -1,3 +1,10 @@
+---
+topic_id: 37318
+title: "Is Output Curve From Curved Planar Reformat Available"
+date: 2024-07-11
+url: https://discourse.slicer.org/t/37318
+---
+
 # Is output curve from Curved Planar Reformat available?
 
 **Topic ID**: 37318

@@ -1,3 +1,10 @@
+---
+topic_id: 31220
+title: "Warning When Closing Scene"
+date: 2023-08-18
+url: https://discourse.slicer.org/t/31220
+---
+
 # Warning when closing scene
 
 **Topic ID**: 31220

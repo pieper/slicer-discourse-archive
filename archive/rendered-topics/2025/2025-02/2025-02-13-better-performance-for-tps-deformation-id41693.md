@@ -1,3 +1,10 @@
+---
+topic_id: 41693
+title: "Better Performance For Tps Deformation"
+date: 2025-02-13
+url: https://discourse.slicer.org/t/41693
+---
+
 # Better performance for TPS deformation?
 
 **Topic ID**: 41693

@@ -1,3 +1,10 @@
+---
+topic_id: 30995
+title: "Seperation Plane Following Closed Curve"
+date: 2023-08-05
+url: https://discourse.slicer.org/t/30995
+---
+
 # Seperation plane following closed curve
 
 **Topic ID**: 30995

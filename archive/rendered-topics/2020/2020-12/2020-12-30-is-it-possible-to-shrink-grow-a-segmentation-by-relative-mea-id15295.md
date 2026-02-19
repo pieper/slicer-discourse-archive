@@ -1,3 +1,10 @@
+---
+topic_id: 15295
+title: "Is It Possible To Shrink Grow A Segmentation By Relative Mea"
+date: 2020-12-30
+url: https://discourse.slicer.org/t/15295
+---
+
 # Is it possible to shrink/grow a segmentation by relative measure based on its volume?
 
 **Topic ID**: 15295

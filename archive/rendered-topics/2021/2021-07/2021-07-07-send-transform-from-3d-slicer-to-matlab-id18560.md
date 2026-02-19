@@ -1,3 +1,10 @@
+---
+topic_id: 18560
+title: "Send Transform From 3D Slicer To Matlab"
+date: 2021-07-07
+url: https://discourse.slicer.org/t/18560
+---
+
 # Send transform from 3D slicer to MAtlab
 
 **Topic ID**: 18560

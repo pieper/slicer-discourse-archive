@@ -1,3 +1,10 @@
+---
+topic_id: 35461
+title: "Running Totalsegmentator From Python Console"
+date: 2024-04-12
+url: https://discourse.slicer.org/t/35461
+---
+
 # Running TotalSegmentator from Python Console
 
 **Topic ID**: 35461

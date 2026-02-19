@@ -1,3 +1,10 @@
+---
+topic_id: 16377
+title: "Open3D Pip Install Issue"
+date: 2021-03-04
+url: https://discourse.slicer.org/t/16377
+---
+
 # Open3d pip_install issue
 
 **Topic ID**: 16377

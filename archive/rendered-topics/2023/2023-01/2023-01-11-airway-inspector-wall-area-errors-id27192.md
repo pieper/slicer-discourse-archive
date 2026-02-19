@@ -1,3 +1,10 @@
+---
+topic_id: 27192
+title: "Airway Inspector Wall Area Errors"
+date: 2023-01-11
+url: https://discourse.slicer.org/t/27192
+---
+
 # Airway Inspector Wall Area errors
 
 **Topic ID**: 27192

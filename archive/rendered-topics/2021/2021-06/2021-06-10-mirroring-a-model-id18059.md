@@ -1,3 +1,10 @@
+---
+topic_id: 18059
+title: "Mirroring A Model"
+date: 2021-06-10
+url: https://discourse.slicer.org/t/18059
+---
+
 # Mirroring a model
 
 **Topic ID**: 18059

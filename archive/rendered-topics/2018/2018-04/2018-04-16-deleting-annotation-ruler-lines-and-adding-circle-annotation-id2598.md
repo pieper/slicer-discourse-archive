@@ -1,3 +1,10 @@
+---
+topic_id: 2598
+title: "Deleting Annotation Ruler Lines And Adding Circle Annotation"
+date: 2018-04-16
+url: https://discourse.slicer.org/t/2598
+---
+
 # Deleting annotation ruler lines and adding circle annotations
 
 **Topic ID**: 2598

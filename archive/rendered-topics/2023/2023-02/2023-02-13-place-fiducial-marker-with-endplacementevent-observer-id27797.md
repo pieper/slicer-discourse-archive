@@ -1,3 +1,10 @@
+---
+topic_id: 27797
+title: "Place Fiducial Marker With Endplacementevent Observer"
+date: 2023-02-13
+url: https://discourse.slicer.org/t/27797
+---
+
 # Place Fiducial Marker with EndPlacementEvent observer
 
 **Topic ID**: 27797

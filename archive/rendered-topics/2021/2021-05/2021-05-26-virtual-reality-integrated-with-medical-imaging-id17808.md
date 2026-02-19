@@ -1,3 +1,10 @@
+---
+topic_id: 17808
+title: "Virtual Reality Integrated With Medical Imaging"
+date: 2021-05-26
+url: https://discourse.slicer.org/t/17808
+---
+
 # Virtual reality integrated with medical imaging
 
 **Topic ID**: 17808

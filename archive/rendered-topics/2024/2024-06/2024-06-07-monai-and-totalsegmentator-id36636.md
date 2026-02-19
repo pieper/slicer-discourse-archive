@@ -1,3 +1,10 @@
+---
+topic_id: 36636
+title: "Monai And Totalsegmentator"
+date: 2024-06-07
+url: https://discourse.slicer.org/t/36636
+---
+
 # MONAI and TotalSegmentator
 
 **Topic ID**: 36636

@@ -1,3 +1,10 @@
+---
+topic_id: 5404
+title: "Failed To Set Suffix Error Following Dicom Anonymization"
+date: 2019-01-17
+url: https://discourse.slicer.org/t/5404
+---
+
 # "failed to set suffix" error following DICOM anonymization 
 
 **Topic ID**: 5404

@@ -1,3 +1,10 @@
+---
+topic_id: 29664
+title: "Rtstruct Display In Slice View"
+date: 2023-05-26
+url: https://discourse.slicer.org/t/29664
+---
+
 # RTstruct display in Slice View
 
 **Topic ID**: 29664

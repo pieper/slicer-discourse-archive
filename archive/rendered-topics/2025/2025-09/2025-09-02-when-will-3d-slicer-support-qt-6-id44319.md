@@ -1,3 +1,10 @@
+---
+topic_id: 44319
+title: "When Will 3D Slicer Support Qt 6"
+date: 2025-09-02
+url: https://discourse.slicer.org/t/44319
+---
+
 # When will 3D Slicer support Qt 6?
 
 **Topic ID**: 44319

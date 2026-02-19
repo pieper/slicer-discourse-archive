@@ -1,3 +1,10 @@
+---
+topic_id: 15528
+title: "Connecting Ndi Polaris Vicra To Slicer"
+date: 2021-01-14
+url: https://discourse.slicer.org/t/15528
+---
+
 # Connecting NDI Polaris Vicra to Slicer
 
 **Topic ID**: 15528

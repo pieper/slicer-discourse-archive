@@ -1,3 +1,10 @@
+---
+topic_id: 9668
+title: "Cant Get It To Install On My Chromebook"
+date: 2019-12-31
+url: https://discourse.slicer.org/t/9668
+---
+
 # Can't get it to install on my Chromebook
 
 **Topic ID**: 9668

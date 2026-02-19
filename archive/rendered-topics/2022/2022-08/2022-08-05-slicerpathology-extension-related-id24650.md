@@ -1,3 +1,10 @@
+---
+topic_id: 24650
+title: "Slicerpathology Extension Related"
+date: 2022-08-05
+url: https://discourse.slicer.org/t/24650
+---
+
 # SlicerPathology extension related
 
 **Topic ID**: 24650

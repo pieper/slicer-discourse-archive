@@ -1,3 +1,10 @@
+---
+topic_id: 42209
+title: "Suggestion For Adding Ai Functions With Discourse Ai"
+date: 2025-03-18
+url: https://discourse.slicer.org/t/42209
+---
+
 # Suggestion for adding ai functions with discourse ai
 
 **Topic ID**: 42209

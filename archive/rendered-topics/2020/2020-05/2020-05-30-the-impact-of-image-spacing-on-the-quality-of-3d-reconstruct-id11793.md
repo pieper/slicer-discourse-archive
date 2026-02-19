@@ -1,3 +1,10 @@
+---
+topic_id: 11793
+title: "The Impact Of Image Spacing On The Quality Of 3D Reconstruct"
+date: 2020-05-30
+url: https://discourse.slicer.org/t/11793
+---
+
 # The impact of image spacing on the quality of 3D reconstruction
 
 **Topic ID**: 11793

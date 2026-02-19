@@ -1,3 +1,10 @@
+---
+topic_id: 3943
+title: "Error Message When Slicer 4 9 Starts"
+date: 2018-08-30
+url: https://discourse.slicer.org/t/3943
+---
+
 # Error message when Slicer 4.9 starts
 
 **Topic ID**: 3943

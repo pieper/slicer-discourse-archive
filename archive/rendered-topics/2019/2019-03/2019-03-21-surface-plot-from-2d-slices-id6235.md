@@ -1,3 +1,10 @@
+---
+topic_id: 6235
+title: "Surface Plot From 2D Slices"
+date: 2019-03-21
+url: https://discourse.slicer.org/t/6235
+---
+
 # surface plot from 2D slices
 
 **Topic ID**: 6235

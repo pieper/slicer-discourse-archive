@@ -1,3 +1,10 @@
+---
+topic_id: 33287
+title: "Textured Model Question"
+date: 2023-12-07
+url: https://discourse.slicer.org/t/33287
+---
+
 # Textured model question
 
 **Topic ID**: 33287

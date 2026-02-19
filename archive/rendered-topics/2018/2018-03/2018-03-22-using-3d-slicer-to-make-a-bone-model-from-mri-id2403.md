@@ -1,3 +1,10 @@
+---
+topic_id: 2403
+title: "Using 3D Slicer To Make A Bone Model From Mri"
+date: 2018-03-22
+url: https://discourse.slicer.org/t/2403
+---
+
 # Using 3D slicer to make a bone model from MRI
 
 **Topic ID**: 2403

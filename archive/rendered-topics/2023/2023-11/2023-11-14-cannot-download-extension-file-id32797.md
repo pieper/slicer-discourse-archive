@@ -1,3 +1,10 @@
+---
+topic_id: 32797
+title: "Cannot Download Extension File"
+date: 2023-11-14
+url: https://discourse.slicer.org/t/32797
+---
+
 # Cannot download extension file
 
 **Topic ID**: 32797

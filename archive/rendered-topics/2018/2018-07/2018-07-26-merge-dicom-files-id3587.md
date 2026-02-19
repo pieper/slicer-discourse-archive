@@ -1,3 +1,10 @@
+---
+topic_id: 3587
+title: "Merge Dicom Files"
+date: 2018-07-26
+url: https://discourse.slicer.org/t/3587
+---
+
 # Merge Dicom Files
 
 **Topic ID**: 3587

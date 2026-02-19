@@ -1,3 +1,10 @@
+---
+topic_id: 10641
+title: "Orientation Issue Loading Vtk Mesh"
+date: 2020-03-11
+url: https://discourse.slicer.org/t/10641
+---
+
 # Orientation issue loading vtk mesh
 
 **Topic ID**: 10641

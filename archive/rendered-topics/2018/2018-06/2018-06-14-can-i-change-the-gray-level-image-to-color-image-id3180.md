@@ -1,3 +1,10 @@
+---
+topic_id: 3180
+title: "Can I Change The Gray Level Image To Color Image"
+date: 2018-06-14
+url: https://discourse.slicer.org/t/3180
+---
+
 # Can I change the gray level image to color image
 
 **Topic ID**: 3180

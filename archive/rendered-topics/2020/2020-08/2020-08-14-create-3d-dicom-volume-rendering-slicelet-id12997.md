@@ -1,3 +1,10 @@
+---
+topic_id: 12997
+title: "Create 3D Dicom Volume Rendering Slicelet"
+date: 2020-08-14
+url: https://discourse.slicer.org/t/12997
+---
+
 # Create 3d dicom volume rendering slicelet
 
 **Topic ID**: 12997

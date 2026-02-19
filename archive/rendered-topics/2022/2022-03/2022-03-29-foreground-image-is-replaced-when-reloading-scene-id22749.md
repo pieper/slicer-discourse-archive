@@ -1,3 +1,10 @@
+---
+topic_id: 22749
+title: "Foreground Image Is Replaced When Reloading Scene"
+date: 2022-03-29
+url: https://discourse.slicer.org/t/22749
+---
+
 # Foreground image is replaced when reloading scene
 
 **Topic ID**: 22749

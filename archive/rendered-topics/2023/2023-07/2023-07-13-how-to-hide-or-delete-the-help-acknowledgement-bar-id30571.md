@@ -1,3 +1,10 @@
+---
+topic_id: 30571
+title: "How To Hide Or Delete The Help Acknowledgement Bar"
+date: 2023-07-13
+url: https://discourse.slicer.org/t/30571
+---
+
 # How to hide or delete the Help&Acknowledgement bar
 
 **Topic ID**: 30571

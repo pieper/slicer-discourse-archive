@@ -1,3 +1,10 @@
+---
+topic_id: 6057
+title: "Hanging Popup Some Times After Loading Dicom Files"
+date: 2019-03-07
+url: https://discourse.slicer.org/t/6057
+---
+
 # Hanging popup some times after loading DICOM files
 
 **Topic ID**: 6057

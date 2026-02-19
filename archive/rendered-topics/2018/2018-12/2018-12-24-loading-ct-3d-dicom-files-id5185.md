@@ -1,3 +1,10 @@
+---
+topic_id: 5185
+title: "Loading Ct 3D Dicom Files"
+date: 2018-12-24
+url: https://discourse.slicer.org/t/5185
+---
+
 # Loading CT 3d DICOM files-
 
 **Topic ID**: 5185

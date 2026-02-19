@@ -1,3 +1,10 @@
+---
+topic_id: 118
+title: "Hide Data Inside Roi When Volume Rendering"
+date: 2017-04-14
+url: https://discourse.slicer.org/t/118
+---
+
 # Hide data inside ROI when Volume Rendering
 
 **Topic ID**: 118

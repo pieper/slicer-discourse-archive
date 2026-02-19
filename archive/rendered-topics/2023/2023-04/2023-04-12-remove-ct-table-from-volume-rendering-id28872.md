@@ -1,3 +1,10 @@
+---
+topic_id: 28872
+title: "Remove Ct Table From Volume Rendering"
+date: 2023-04-12
+url: https://discourse.slicer.org/t/28872
+---
+
 # Remove CT table from volume rendering
 
 **Topic ID**: 28872

@@ -1,3 +1,10 @@
+---
+topic_id: 26324
+title: "Unity Tracking Bridge Client And Ultrasound Server Help Need"
+date: 2022-11-19
+url: https://discourse.slicer.org/t/26324
+---
+
 # Unity tracking bridge client and ultrasound server... help needed
 
 **Topic ID**: 26324

@@ -1,3 +1,10 @@
+---
+topic_id: 5435
+title: "Calculating Simple Areas"
+date: 2019-01-21
+url: https://discourse.slicer.org/t/5435
+---
+
 # Calculating Simple Areas
 
 **Topic ID**: 5435

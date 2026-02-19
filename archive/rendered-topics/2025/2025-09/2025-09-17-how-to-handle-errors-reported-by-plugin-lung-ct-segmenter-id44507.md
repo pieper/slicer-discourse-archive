@@ -1,3 +1,10 @@
+---
+topic_id: 44507
+title: "How To Handle Errors Reported By Plugin Lung Ct Segmenter"
+date: 2025-09-17
+url: https://discourse.slicer.org/t/44507
+---
+
 # How to handle errors reported by plugin Lung CT Segmenter？
 
 **Topic ID**: 44507

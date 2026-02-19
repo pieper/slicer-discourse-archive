@@ -1,3 +1,10 @@
+---
+topic_id: 8281
+title: "Working With Ge Medical Images And Corresponding Direction F"
+date: 2019-09-03
+url: https://discourse.slicer.org/t/8281
+---
+
 # Working with GE medical images and corresponding direction file
 
 **Topic ID**: 8281

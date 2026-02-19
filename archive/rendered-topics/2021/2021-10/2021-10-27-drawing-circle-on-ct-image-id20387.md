@@ -1,3 +1,10 @@
+---
+topic_id: 20387
+title: "Drawing Circle On Ct Image"
+date: 2021-10-27
+url: https://discourse.slicer.org/t/20387
+---
+
 # Drawing Circle on CT Image
 
 **Topic ID**: 20387

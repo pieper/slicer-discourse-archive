@@ -1,3 +1,10 @@
+---
+topic_id: 34285
+title: "Create Labelmap Nrrd File From Numpy Array"
+date: 2024-02-13
+url: https://discourse.slicer.org/t/34285
+---
+
 # Create labelmap nrrd file from numpy array
 
 **Topic ID**: 34285

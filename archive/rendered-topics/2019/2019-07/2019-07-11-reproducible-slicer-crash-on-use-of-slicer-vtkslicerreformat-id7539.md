@@ -1,3 +1,10 @@
+---
+topic_id: 7539
+title: "Reproducible Slicer Crash On Use Of Slicer Vtkslicerreformat"
+date: 2019-07-11
+url: https://discourse.slicer.org/t/7539
+---
+
 # Reproducible Slicer crash on use of slicer.vtkSlicerReformatLogic.SetSliceOrigin()
 
 **Topic ID**: 7539

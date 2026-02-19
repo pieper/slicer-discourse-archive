@@ -1,3 +1,10 @@
+---
+topic_id: 34197
+title: "Freesurfer Volumetric Analysis"
+date: 2024-02-07
+url: https://discourse.slicer.org/t/34197
+---
+
 # FreeSurfer volumetric analysis
 
 **Topic ID**: 34197

@@ -1,3 +1,10 @@
+---
+topic_id: 691
+title: "Ukf Fit Finishes Then Slicer Crashes"
+date: 2017-07-14
+url: https://discourse.slicer.org/t/691
+---
+
 # UKF fit finishes then slicer crashes
 
 **Topic ID**: 691

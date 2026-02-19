@@ -1,3 +1,10 @@
+---
+topic_id: 35948
+title: "Fill In Cavity Foot Segment"
+date: 2024-05-06
+url: https://discourse.slicer.org/t/35948
+---
+
 # Fill in Cavity - foot segment
 
 **Topic ID**: 35948

@@ -1,3 +1,10 @@
+---
+topic_id: 7410
+title: "Changing Label Images"
+date: 2019-07-04
+url: https://discourse.slicer.org/t/7410
+---
+
 # Changing label images
 
 **Topic ID**: 7410

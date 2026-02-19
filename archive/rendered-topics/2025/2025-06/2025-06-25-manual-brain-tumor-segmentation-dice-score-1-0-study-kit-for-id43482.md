@@ -1,3 +1,10 @@
+---
+topic_id: 43482
+title: "Manual Brain Tumor Segmentation Dice Score 1 0 Study Kit For"
+date: 2025-06-25
+url: https://discourse.slicer.org/t/43482
+---
+
 # Manual Brain Tumor Segmentation – Dice Score 1.0 – Study Kit for Learners (3D Slicer Project Included)
 
 **Topic ID**: 43482

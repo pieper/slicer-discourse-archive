@@ -1,3 +1,10 @@
+---
+topic_id: 24889
+title: "Change The Size Of Interaction Handles Programmatically"
+date: 2022-08-23
+url: https://discourse.slicer.org/t/24889
+---
+
 # Change the size of interaction handles programmatically
 
 **Topic ID**: 24889

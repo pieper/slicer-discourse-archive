@@ -1,3 +1,10 @@
+---
+topic_id: 12529
+title: "Transversal Dicom Image Distorted And Coronal Dicom Image We"
+date: 2020-07-14
+url: https://discourse.slicer.org/t/12529
+---
+
 # transversal DICOM image distorted and coronal DICOM image well
 
 **Topic ID**: 12529

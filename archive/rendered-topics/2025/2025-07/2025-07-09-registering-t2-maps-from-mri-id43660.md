@@ -1,3 +1,10 @@
+---
+topic_id: 43660
+title: "Registering T2 Maps From Mri"
+date: 2025-07-09
+url: https://discourse.slicer.org/t/43660
+---
+
 # Registering T2* Maps from MRI
 
 **Topic ID**: 43660

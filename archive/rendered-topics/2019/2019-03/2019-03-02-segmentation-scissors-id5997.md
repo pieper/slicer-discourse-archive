@@ -1,3 +1,10 @@
+---
+topic_id: 5997
+title: "Segmentation Scissors"
+date: 2019-03-02
+url: https://discourse.slicer.org/t/5997
+---
+
 # segmentation: scissors
 
 **Topic ID**: 5997

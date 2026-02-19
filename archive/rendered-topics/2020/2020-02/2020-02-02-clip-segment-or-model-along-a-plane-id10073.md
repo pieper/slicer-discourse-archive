@@ -1,3 +1,10 @@
+---
+topic_id: 10073
+title: "Clip Segment Or Model Along A Plane"
+date: 2020-02-02
+url: https://discourse.slicer.org/t/10073
+---
+
 # clip segment or model along a plane
 
 **Topic ID**: 10073

@@ -1,3 +1,10 @@
+---
+topic_id: 28808
+title: "Kidney Tumor Segmentation"
+date: 2023-04-07
+url: https://discourse.slicer.org/t/28808
+---
+
 # Kidney tumor segmentation
 
 **Topic ID**: 28808

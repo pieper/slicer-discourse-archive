@@ -1,3 +1,10 @@
+---
+topic_id: 8492
+title: "Switch To Editor Module By Command Line"
+date: 2019-09-19
+url: https://discourse.slicer.org/t/8492
+---
+
 # Switch to Editor module by command line
 
 **Topic ID**: 8492

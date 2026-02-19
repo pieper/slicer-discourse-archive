@@ -1,3 +1,10 @@
+---
+topic_id: 45413
+title: "Upper Airway Segmentator"
+date: 2025-12-09
+url: https://discourse.slicer.org/t/45413
+---
+
 # Upper airway segmentator
 
 **Topic ID**: 45413

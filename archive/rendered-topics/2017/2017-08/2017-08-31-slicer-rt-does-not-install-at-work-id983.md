@@ -1,3 +1,10 @@
+---
+topic_id: 983
+title: "Slicer Rt Does Not Install At Work"
+date: 2017-08-31
+url: https://discourse.slicer.org/t/983
+---
+
 # Slicer RT does not install at work
 
 **Topic ID**: 983

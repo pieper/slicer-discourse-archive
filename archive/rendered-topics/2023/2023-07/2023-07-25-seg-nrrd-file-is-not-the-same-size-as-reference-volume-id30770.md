@@ -1,3 +1,10 @@
+---
+topic_id: 30770
+title: "Seg Nrrd File Is Not The Same Size As Reference Volume"
+date: 2023-07-25
+url: https://discourse.slicer.org/t/30770
+---
+
 # .seg.nrrd file is not the same size as reference volume
 
 **Topic ID**: 30770

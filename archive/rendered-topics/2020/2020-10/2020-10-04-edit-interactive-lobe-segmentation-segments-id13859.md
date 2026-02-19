@@ -1,3 +1,10 @@
+---
+topic_id: 13859
+title: "Edit Interactive Lobe Segmentation Segments"
+date: 2020-10-04
+url: https://discourse.slicer.org/t/13859
+---
+
 # Edit Interactive Lobe Segmentation segments
 
 **Topic ID**: 13859

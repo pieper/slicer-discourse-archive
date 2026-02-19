@@ -1,3 +1,10 @@
+---
+topic_id: 30844
+title: "Need Help For A Basic Coding To Make Extension"
+date: 2023-07-28
+url: https://discourse.slicer.org/t/30844
+---
+
 # Need help for a basic coding to make extension
 
 **Topic ID**: 30844

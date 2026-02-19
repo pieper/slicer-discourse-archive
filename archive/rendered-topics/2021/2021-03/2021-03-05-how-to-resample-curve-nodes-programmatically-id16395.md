@@ -1,3 +1,10 @@
+---
+topic_id: 16395
+title: "How To Resample Curve Nodes Programmatically"
+date: 2021-03-05
+url: https://discourse.slicer.org/t/16395
+---
+
 # How to resample curve nodes programmatically?
 
 **Topic ID**: 16395

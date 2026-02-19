@@ -1,3 +1,10 @@
+---
+topic_id: 20242
+title: "Plotting The Signals"
+date: 2021-10-19
+url: https://discourse.slicer.org/t/20242
+---
+
 # Plotting the signals
 
 **Topic ID**: 20242

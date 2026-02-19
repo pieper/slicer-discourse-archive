@@ -1,3 +1,10 @@
+---
+topic_id: 2057
+title: "Crash On Exit Not Related To Charts"
+date: 2018-02-09
+url: https://discourse.slicer.org/t/2057
+---
+
 # Crash on exit (not related to charts)
 
 **Topic ID**: 2057

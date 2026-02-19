@@ -1,3 +1,10 @@
+---
+topic_id: 13494
+title: "Field Interpolation From Set Of 2D Slices 3D Volume"
+date: 2020-09-15
+url: https://discourse.slicer.org/t/13494
+---
+
 # Field interpolation from set of 2D slices (3D volume)
 
 **Topic ID**: 13494

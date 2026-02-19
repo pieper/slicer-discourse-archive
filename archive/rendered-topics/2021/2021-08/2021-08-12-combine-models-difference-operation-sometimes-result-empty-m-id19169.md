@@ -1,3 +1,10 @@
+---
+topic_id: 19169
+title: "Combine Models Difference Operation Sometimes Result Empty M"
+date: 2021-08-12
+url: https://discourse.slicer.org/t/19169
+---
+
 # Combine Models(difference operation) sometimes result empty mesh?
 
 **Topic ID**: 19169

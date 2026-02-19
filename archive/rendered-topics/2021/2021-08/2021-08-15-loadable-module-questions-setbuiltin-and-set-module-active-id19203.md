@@ -1,3 +1,10 @@
+---
+topic_id: 19203
+title: "Loadable Module Questions Setbuiltin And Set Module Active"
+date: 2021-08-15
+url: https://discourse.slicer.org/t/19203
+---
+
 # Loadable module questions: `setBuiltIn()` and set module active
 
 **Topic ID**: 19203

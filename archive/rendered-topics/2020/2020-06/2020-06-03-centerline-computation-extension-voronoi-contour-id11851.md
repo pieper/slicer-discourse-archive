@@ -1,3 +1,10 @@
+---
+topic_id: 11851
+title: "Centerline Computation Extension Voronoi Contour"
+date: 2020-06-03
+url: https://discourse.slicer.org/t/11851
+---
+
 # Centerline Computation Extension - Voronoi Contour
 
 **Topic ID**: 11851

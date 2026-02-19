@@ -1,3 +1,10 @@
+---
+topic_id: 28300
+title: "Total Segmentator Can Not Adjust Labels"
+date: 2023-03-10
+url: https://discourse.slicer.org/t/28300
+---
+
 # Total Segmentator can not adjust labels
 
 **Topic ID**: 28300

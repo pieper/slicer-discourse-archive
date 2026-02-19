@@ -1,3 +1,10 @@
+---
+topic_id: 26668
+title: "Feature Extraction From Mri Slices"
+date: 2022-12-09
+url: https://discourse.slicer.org/t/26668
+---
+
 # Feature extraction from MRI slices
 
 **Topic ID**: 26668

@@ -1,3 +1,10 @@
+---
+topic_id: 29128
+title: "Segmentation Using Paint The Bulb Of Paint Disappears After"
+date: 2023-04-26
+url: https://discourse.slicer.org/t/29128
+---
+
 # Segmentation, using paint, the bulb of paint disappears after the image is oriented in accordance with the anatomical axes
 
 **Topic ID**: 29128

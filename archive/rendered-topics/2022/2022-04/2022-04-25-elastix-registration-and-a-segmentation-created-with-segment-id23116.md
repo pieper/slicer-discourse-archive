@@ -1,3 +1,10 @@
+---
+topic_id: 23116
+title: "Elastix Registration And A Segmentation Created With Segment"
+date: 2022-04-25
+url: https://discourse.slicer.org/t/23116
+---
+
 # Elastix registration and a segmentation created with Segment Editor
 
 **Topic ID**: 23116

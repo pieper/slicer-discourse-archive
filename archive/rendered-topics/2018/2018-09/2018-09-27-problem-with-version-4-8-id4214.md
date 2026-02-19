@@ -1,3 +1,10 @@
+---
+topic_id: 4214
+title: "Problem With Version 4 8"
+date: 2018-09-27
+url: https://discourse.slicer.org/t/4214
+---
+
 # Problem with version 4.8
 
 **Topic ID**: 4214

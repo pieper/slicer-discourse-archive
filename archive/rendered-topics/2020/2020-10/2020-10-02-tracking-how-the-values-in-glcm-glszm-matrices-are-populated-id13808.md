@@ -1,3 +1,10 @@
+---
+topic_id: 13808
+title: "Tracking How The Values In Glcm Glszm Matrices Are Populated"
+date: 2020-10-02
+url: https://discourse.slicer.org/t/13808
+---
+
 # Tracking how the values in GLCM, GLSZM matrices are populated
 
 **Topic ID**: 13808

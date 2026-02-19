@@ -1,3 +1,10 @@
+---
+topic_id: 9176
+title: "White Sphere In Center Of 3D View"
+date: 2019-11-16
+url: https://discourse.slicer.org/t/9176
+---
+
 # White sphere in center of 3d view
 
 **Topic ID**: 9176

@@ -1,3 +1,10 @@
+---
+topic_id: 42605
+title: "Slicervmtk Not Building For Slicerpreview On Cdash"
+date: 2025-04-17
+url: https://discourse.slicer.org/t/42605
+---
+
 # SlicerVMTK not building for SlicerPreview on cdash
 
 **Topic ID**: 42605

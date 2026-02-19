@@ -1,3 +1,10 @@
+---
+topic_id: 27767
+title: "Radiomics Feature Extraction Of 2D Images"
+date: 2023-02-11
+url: https://discourse.slicer.org/t/27767
+---
+
 # Radiomics feature extraction of 2D images
 
 **Topic ID**: 27767

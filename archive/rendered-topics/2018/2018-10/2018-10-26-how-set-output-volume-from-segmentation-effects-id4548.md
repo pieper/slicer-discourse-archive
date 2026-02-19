@@ -1,3 +1,10 @@
+---
+topic_id: 4548
+title: "How Set Output Volume From Segmentation Effects"
+date: 2018-10-26
+url: https://discourse.slicer.org/t/4548
+---
+
 # How set output volume from segmentation effects
 
 **Topic ID**: 4548

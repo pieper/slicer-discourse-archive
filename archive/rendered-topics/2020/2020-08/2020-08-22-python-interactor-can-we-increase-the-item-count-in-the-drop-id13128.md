@@ -1,3 +1,10 @@
+---
+topic_id: 13128
+title: "Python Interactor Can We Increase The Item Count In The Drop"
+date: 2020-08-22
+url: https://discourse.slicer.org/t/13128
+---
+
 # Python interactor : can we increase the item count in the dropdown list?
 
 **Topic ID**: 13128

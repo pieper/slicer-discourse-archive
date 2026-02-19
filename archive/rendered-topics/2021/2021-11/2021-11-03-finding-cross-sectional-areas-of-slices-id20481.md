@@ -1,3 +1,10 @@
+---
+topic_id: 20481
+title: "Finding Cross Sectional Areas Of Slices"
+date: 2021-11-03
+url: https://discourse.slicer.org/t/20481
+---
+
 # Finding Cross-Sectional Areas of Slices
 
 **Topic ID**: 20481

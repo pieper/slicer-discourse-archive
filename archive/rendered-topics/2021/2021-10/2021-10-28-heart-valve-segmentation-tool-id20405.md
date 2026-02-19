@@ -1,3 +1,10 @@
+---
+topic_id: 20405
+title: "Heart Valve Segmentation Tool"
+date: 2021-10-28
+url: https://discourse.slicer.org/t/20405
+---
+
 # Heart valve segmentation tool
 
 **Topic ID**: 20405

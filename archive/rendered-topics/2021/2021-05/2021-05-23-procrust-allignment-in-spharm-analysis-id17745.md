@@ -1,3 +1,10 @@
+---
+topic_id: 17745
+title: "Procrust Allignment In Spharm Analysis"
+date: 2021-05-23
+url: https://discourse.slicer.org/t/17745
+---
+
 # Procrust allignment in Spharm analysis
 
 **Topic ID**: 17745

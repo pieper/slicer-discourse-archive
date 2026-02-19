@@ -1,3 +1,10 @@
+---
+topic_id: 18172
+title: "Blurry Image When Uploading Dicom Files Into Slicer"
+date: 2021-06-16
+url: https://discourse.slicer.org/t/18172
+---
+
 # Blurry Image When Uploading DICOM files into Slicer
 
 **Topic ID**: 18172

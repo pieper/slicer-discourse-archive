@@ -1,3 +1,10 @@
+---
+topic_id: 27145
+title: "Importing Multiple Json Files Of Semi Landmarks Into R For P"
+date: 2023-01-09
+url: https://discourse.slicer.org/t/27145
+---
+
 # Importing multiple json files of semi-landmarks into R for PCA analysis
 
 **Topic ID**: 27145

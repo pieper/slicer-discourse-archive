@@ -1,3 +1,10 @@
+---
+topic_id: 13456
+title: "Straighten The Vessel Segments In A Network"
+date: 2020-09-12
+url: https://discourse.slicer.org/t/13456
+---
+
 # Straighten the vessel segments in a network
 
 **Topic ID**: 13456

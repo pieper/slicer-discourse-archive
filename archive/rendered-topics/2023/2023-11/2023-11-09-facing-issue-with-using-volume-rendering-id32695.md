@@ -1,3 +1,10 @@
+---
+topic_id: 32695
+title: "Facing Issue With Using Volume Rendering"
+date: 2023-11-09
+url: https://discourse.slicer.org/t/32695
+---
+
 # Facing issue with using Volume Rendering
 
 **Topic ID**: 32695

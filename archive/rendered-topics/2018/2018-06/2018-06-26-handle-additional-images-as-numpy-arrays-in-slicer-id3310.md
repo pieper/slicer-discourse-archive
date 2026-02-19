@@ -1,3 +1,10 @@
+---
+topic_id: 3310
+title: "Handle Additional Images As Numpy Arrays In Slicer"
+date: 2018-06-26
+url: https://discourse.slicer.org/t/3310
+---
+
 # Handle additional images as numpy arrays in Slicer
 
 **Topic ID**: 3310

@@ -1,3 +1,10 @@
+---
+topic_id: 12076
+title: "Perimeter Of Model"
+date: 2020-06-17
+url: https://discourse.slicer.org/t/12076
+---
+
 # Perimeter of model
 
 **Topic ID**: 12076

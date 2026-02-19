@@ -1,3 +1,10 @@
+---
+topic_id: 309
+title: "Virtual Fragment Reconstruction Extension Help"
+date: 2017-05-14
+url: https://discourse.slicer.org/t/309
+---
+
 # Virtual Fragment Reconstruction Extension Help
 
 **Topic ID**: 309

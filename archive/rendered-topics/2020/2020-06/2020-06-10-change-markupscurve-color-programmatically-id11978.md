@@ -1,3 +1,10 @@
+---
+topic_id: 11978
+title: "Change Markupscurve Color Programmatically"
+date: 2020-06-10
+url: https://discourse.slicer.org/t/11978
+---
+
 # Change MarkupsCurve color programmatically
 
 **Topic ID**: 11978

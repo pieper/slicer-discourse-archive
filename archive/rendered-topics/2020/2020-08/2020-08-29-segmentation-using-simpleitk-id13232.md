@@ -1,3 +1,10 @@
+---
+topic_id: 13232
+title: "Segmentation Using Simpleitk"
+date: 2020-08-29
+url: https://discourse.slicer.org/t/13232
+---
+
 # Segmentation Using SimpleITK
 
 **Topic ID**: 13232

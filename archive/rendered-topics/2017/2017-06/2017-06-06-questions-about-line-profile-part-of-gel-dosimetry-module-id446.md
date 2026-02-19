@@ -1,3 +1,10 @@
+---
+topic_id: 446
+title: "Questions About Line Profile Part Of Gel Dosimetry Module"
+date: 2017-06-06
+url: https://discourse.slicer.org/t/446
+---
+
 # Questions about Line Profile (part of Gel Dosimetry module)
 
 **Topic ID**: 446

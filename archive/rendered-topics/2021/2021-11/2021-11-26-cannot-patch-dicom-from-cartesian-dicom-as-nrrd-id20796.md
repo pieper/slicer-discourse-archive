@@ -1,3 +1,10 @@
+---
+topic_id: 20796
+title: "Cannot Patch Dicom From Cartesian Dicom As Nrrd"
+date: 2021-11-26
+url: https://discourse.slicer.org/t/20796
+---
+
 # Cannot patch dicom from cartesian dicom as NRRD
 
 **Topic ID**: 20796

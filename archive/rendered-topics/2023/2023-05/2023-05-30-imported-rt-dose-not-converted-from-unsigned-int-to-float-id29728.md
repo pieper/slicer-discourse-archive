@@ -1,3 +1,10 @@
+---
+topic_id: 29728
+title: "Imported Rt Dose Not Converted From Unsigned Int To Float"
+date: 2023-05-30
+url: https://discourse.slicer.org/t/29728
+---
+
 # Imported RT dose not converted from unsigned int to float
 
 **Topic ID**: 29728

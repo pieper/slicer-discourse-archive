@@ -1,3 +1,10 @@
+---
+topic_id: 30747
+title: "Renamed Extension But Now Theres A Duplicate In The Extensio"
+date: 2023-07-23
+url: https://discourse.slicer.org/t/30747
+---
+
 # Renamed extension, but now there's a duplicate in the extensions manager
 
 **Topic ID**: 30747

@@ -1,3 +1,10 @@
+---
+topic_id: 36425
+title: "Use Sliceropenigtlink Module In Mainwindow Of Customized Sli"
+date: 2024-05-28
+url: https://discourse.slicer.org/t/36425
+---
+
 # Use SlicerOpenIGTLink module in mainwindow of customized Slicer
 
 **Topic ID**: 36425

@@ -1,3 +1,10 @@
+---
+topic_id: 7126
+title: "Import Of Itk Transform File Failed"
+date: 2019-06-11
+url: https://discourse.slicer.org/t/7126
+---
+
 # Import of ITK transform file failed
 
 **Topic ID**: 7126

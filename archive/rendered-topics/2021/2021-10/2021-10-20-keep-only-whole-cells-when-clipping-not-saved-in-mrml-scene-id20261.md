@@ -1,3 +1,10 @@
+---
+topic_id: 20261
+title: "Keep Only Whole Cells When Clipping Not Saved In Mrml Scene"
+date: 2021-10-20
+url: https://discourse.slicer.org/t/20261
+---
+
 # "Keep only whole cells when clipping" not saved in mrml scene file
 
 **Topic ID**: 20261

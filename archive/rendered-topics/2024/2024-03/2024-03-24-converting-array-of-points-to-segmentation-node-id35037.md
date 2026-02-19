@@ -1,3 +1,10 @@
+---
+topic_id: 35037
+title: "Converting Array Of Points To Segmentation Node"
+date: 2024-03-24
+url: https://discourse.slicer.org/t/35037
+---
+
 # Converting Array of Points to Segmentation Node
 
 **Topic ID**: 35037

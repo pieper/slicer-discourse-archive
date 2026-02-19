@@ -1,3 +1,10 @@
+---
+topic_id: 16679
+title: "How Can I Crop A Volume From New Vtkmrmlmarkupsroinode"
+date: 2021-03-21
+url: https://discourse.slicer.org/t/16679
+---
+
 # How can I crop a Volume from new vtkMRMLMarkupsROINode?
 
 **Topic ID**: 16679

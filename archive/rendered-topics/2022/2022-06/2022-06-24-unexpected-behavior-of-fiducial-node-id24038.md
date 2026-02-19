@@ -1,3 +1,10 @@
+---
+topic_id: 24038
+title: "Unexpected Behavior Of Fiducial Node"
+date: 2022-06-24
+url: https://discourse.slicer.org/t/24038
+---
+
 # Unexpected behavior of fiducial node
 
 **Topic ID**: 24038

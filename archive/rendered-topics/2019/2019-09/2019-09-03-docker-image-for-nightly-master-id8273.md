@@ -1,3 +1,10 @@
+---
+topic_id: 8273
+title: "Docker Image For Nightly Master"
+date: 2019-09-03
+url: https://discourse.slicer.org/t/8273
+---
+
 # Docker image for `nightly-master`
 
 **Topic ID**: 8273

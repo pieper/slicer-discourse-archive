@@ -1,3 +1,10 @@
+---
+topic_id: 34991
+title: "Custom Color Table At Specified Thresholds"
+date: 2024-03-20
+url: https://discourse.slicer.org/t/34991
+---
+
 # Custom Color Table at Specified Thresholds
 
 **Topic ID**: 34991

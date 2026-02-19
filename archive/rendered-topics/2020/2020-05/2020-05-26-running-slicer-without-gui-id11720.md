@@ -1,3 +1,10 @@
+---
+topic_id: 11720
+title: "Running Slicer Without Gui"
+date: 2020-05-26
+url: https://discourse.slicer.org/t/11720
+---
+
 # Running Slicer without GUI?
 
 **Topic ID**: 11720

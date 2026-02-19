@@ -1,3 +1,10 @@
+---
+topic_id: 29415
+title: "Methods Of Registration For Two Images"
+date: 2023-05-11
+url: https://discourse.slicer.org/t/29415
+---
+
 # Methods of Registration for Two Images 
 
 **Topic ID**: 29415

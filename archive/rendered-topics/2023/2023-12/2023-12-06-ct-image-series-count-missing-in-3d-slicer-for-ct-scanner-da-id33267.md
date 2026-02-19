@@ -1,3 +1,10 @@
+---
+topic_id: 33267
+title: "Ct Image Series Count Missing In 3D Slicer For Ct Scanner Da"
+date: 2023-12-06
+url: https://discourse.slicer.org/t/33267
+---
+
 # CT Image Series Count Missing in 3D Slicer for CT Scanner Data
 
 **Topic ID**: 33267

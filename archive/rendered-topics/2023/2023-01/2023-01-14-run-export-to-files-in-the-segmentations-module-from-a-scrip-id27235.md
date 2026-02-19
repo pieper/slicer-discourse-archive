@@ -1,3 +1,10 @@
+---
+topic_id: 27235
+title: "Run Export To Files In The Segmentations Module From A Scrip"
+date: 2023-01-14
+url: https://discourse.slicer.org/t/27235
+---
+
 # Run Export To Files in the Segmentations Module from a script
 
 **Topic ID**: 27235

@@ -1,3 +1,10 @@
+---
+topic_id: 15115
+title: "Updating Only Header Information For Metaimage Nrrd"
+date: 2020-12-17
+url: https://discourse.slicer.org/t/15115
+---
+
 # Updating only header information for MetaImage/NRRD
 
 **Topic ID**: 15115

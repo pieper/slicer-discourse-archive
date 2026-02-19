@@ -1,3 +1,10 @@
+---
+topic_id: 33839
+title: "How To Create A New Project"
+date: 2024-01-17
+url: https://discourse.slicer.org/t/33839
+---
+
 # How to create a new project
 
 **Topic ID**: 33839

@@ -1,3 +1,10 @@
+---
+topic_id: 30768
+title: "Aligned Spharm Models Flip Inside Out During Pca"
+date: 2023-07-25
+url: https://discourse.slicer.org/t/30768
+---
+
 # Aligned SPHARM models flip inside out during PCA
 
 **Topic ID**: 30768

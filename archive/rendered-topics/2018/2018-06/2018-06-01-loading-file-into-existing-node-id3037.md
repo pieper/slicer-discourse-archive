@@ -1,3 +1,10 @@
+---
+topic_id: 3037
+title: "Loading File Into Existing Node"
+date: 2018-06-01
+url: https://discourse.slicer.org/t/3037
+---
+
 # Loading file into existing node
 
 **Topic ID**: 3037

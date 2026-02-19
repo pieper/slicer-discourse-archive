@@ -1,3 +1,10 @@
+---
+topic_id: 43670
+title: "Getting The Preview Working On Newer Macos"
+date: 2025-07-09
+url: https://discourse.slicer.org/t/43670
+---
+
 # Getting the preview working on newer MacOS
 
 **Topic ID**: 43670

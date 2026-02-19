@@ -1,3 +1,10 @@
+---
+topic_id: 11307
+title: "Getting Hu Values From One Roi Applied To Two Different Imag"
+date: 2020-04-26
+url: https://discourse.slicer.org/t/11307
+---
+
 # Getting HU values from one ROI applied to two different images
 
 **Topic ID**: 11307

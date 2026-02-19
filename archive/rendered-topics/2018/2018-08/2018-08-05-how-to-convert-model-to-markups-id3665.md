@@ -1,3 +1,10 @@
+---
+topic_id: 3665
+title: "How To Convert Model To Markups"
+date: 2018-08-05
+url: https://discourse.slicer.org/t/3665
+---
+
 # How to convert model to markups?
 
 **Topic ID**: 3665

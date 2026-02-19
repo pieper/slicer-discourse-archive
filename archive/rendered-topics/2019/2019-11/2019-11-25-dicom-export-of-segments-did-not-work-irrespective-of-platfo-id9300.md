@@ -1,3 +1,10 @@
+---
+topic_id: 9300
+title: "Dicom Export Of Segments Did Not Work Irrespective Of Platfo"
+date: 2019-11-25
+url: https://discourse.slicer.org/t/9300
+---
+
 # Dicom export of segments did not work (irrespective of platform since 4.10)
 
 **Topic ID**: 9300

@@ -1,3 +1,10 @@
+---
+topic_id: 886
+title: "Copying A Volumes Scalar Type"
+date: 2017-08-16
+url: https://discourse.slicer.org/t/886
+---
+
 # Copying a volume's scalar type
 
 **Topic ID**: 886

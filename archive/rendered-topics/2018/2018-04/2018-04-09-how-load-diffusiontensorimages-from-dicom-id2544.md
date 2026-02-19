@@ -1,3 +1,10 @@
+---
+topic_id: 2544
+title: "How Load Diffusiontensorimages From Dicom"
+date: 2018-04-09
+url: https://discourse.slicer.org/t/2544
+---
+
 # How load diffusionTensorImages from Dicom? 
 
 **Topic ID**: 2544

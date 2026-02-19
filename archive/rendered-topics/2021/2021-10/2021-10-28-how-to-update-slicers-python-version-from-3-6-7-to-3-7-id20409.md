@@ -1,3 +1,10 @@
+---
+topic_id: 20409
+title: "How To Update Slicers Python Version From 3 6 7 To 3 7"
+date: 2021-10-28
+url: https://discourse.slicer.org/t/20409
+---
+
 # How to update Slicer's Python version from 3.6.7 to 3.7?
 
 **Topic ID**: 20409

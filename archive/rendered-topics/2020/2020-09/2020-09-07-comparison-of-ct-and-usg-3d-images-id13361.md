@@ -1,3 +1,10 @@
+---
+topic_id: 13361
+title: "Comparison Of Ct And Usg 3D Images"
+date: 2020-09-07
+url: https://discourse.slicer.org/t/13361
+---
+
 # Comparison of CT and USG 3D images
 
 **Topic ID**: 13361

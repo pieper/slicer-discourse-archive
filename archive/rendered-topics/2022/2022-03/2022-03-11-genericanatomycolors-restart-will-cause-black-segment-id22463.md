@@ -1,3 +1,10 @@
+---
+topic_id: 22463
+title: "Genericanatomycolors Restart Will Cause Black Segment"
+date: 2022-03-11
+url: https://discourse.slicer.org/t/22463
+---
+
 # GenericAnatomyColors restart will cause black segment
 
 **Topic ID**: 22463

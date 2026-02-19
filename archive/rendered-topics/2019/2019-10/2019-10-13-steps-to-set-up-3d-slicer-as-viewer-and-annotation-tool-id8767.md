@@ -1,3 +1,10 @@
+---
+topic_id: 8767
+title: "Steps To Set Up 3D Slicer As Viewer And Annotation Tool"
+date: 2019-10-13
+url: https://discourse.slicer.org/t/8767
+---
+
 # Steps to set up 3D slicer as viewer and annotation tool
 
 **Topic ID**: 8767

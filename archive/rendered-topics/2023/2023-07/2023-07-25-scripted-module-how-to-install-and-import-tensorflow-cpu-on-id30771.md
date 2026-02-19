@@ -1,3 +1,10 @@
+---
+topic_id: 30771
+title: "Scripted Module How To Install And Import Tensorflow Cpu On"
+date: 2023-07-25
+url: https://discourse.slicer.org/t/30771
+---
+
 # Scripted Module: How to install and import tensorflow-cpu on M2 Mac
 
 **Topic ID**: 30771

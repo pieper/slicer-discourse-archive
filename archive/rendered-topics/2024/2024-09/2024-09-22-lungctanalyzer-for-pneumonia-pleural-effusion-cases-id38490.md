@@ -1,3 +1,10 @@
+---
+topic_id: 38490
+title: "Lungctanalyzer For Pneumonia Pleural Effusion Cases"
+date: 2024-09-22
+url: https://discourse.slicer.org/t/38490
+---
+
 # LungCTAnalyzer for pneumonia + pleural effusion cases
 
 **Topic ID**: 38490

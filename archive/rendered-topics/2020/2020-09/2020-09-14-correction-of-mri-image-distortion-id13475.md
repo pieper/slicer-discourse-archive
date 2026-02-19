@@ -1,3 +1,10 @@
+---
+topic_id: 13475
+title: "Correction Of Mri Image Distortion"
+date: 2020-09-14
+url: https://discourse.slicer.org/t/13475
+---
+
 # Correction of MRI image distortion
 
 **Topic ID**: 13475

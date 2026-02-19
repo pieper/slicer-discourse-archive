@@ -1,3 +1,10 @@
+---
+topic_id: 20970
+title: "Clipping 2D Slices In An Arbitary Shape"
+date: 2021-12-08
+url: https://discourse.slicer.org/t/20970
+---
+
 # Clipping 2D slices in an arbitary shape
 
 **Topic ID**: 20970

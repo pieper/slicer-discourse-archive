@@ -1,3 +1,10 @@
+---
+topic_id: 14874
+title: "How Can I Make All 6 Views Link Together"
+date: 2020-12-04
+url: https://discourse.slicer.org/t/14874
+---
+
 # How can I make all 6 views Link together
 
 **Topic ID**: 14874

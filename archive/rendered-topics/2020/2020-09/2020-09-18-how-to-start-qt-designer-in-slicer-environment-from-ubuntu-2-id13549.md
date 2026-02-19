@@ -1,3 +1,10 @@
+---
+topic_id: 13549
+title: "How To Start Qt Designer In Slicer Environment From Ubuntu 2"
+date: 2020-09-18
+url: https://discourse.slicer.org/t/13549
+---
+
 # How to start Qt designer in Slicer environment from Ubuntu 20.04?
 
 **Topic ID**: 13549

@@ -1,3 +1,10 @@
+---
+topic_id: 28628
+title: "How To Display A Centered Airway By Airwayinspector"
+date: 2023-03-28
+url: https://discourse.slicer.org/t/28628
+---
+
 # How to display	a centered airway by airwayinspector?
 
 **Topic ID**: 28628

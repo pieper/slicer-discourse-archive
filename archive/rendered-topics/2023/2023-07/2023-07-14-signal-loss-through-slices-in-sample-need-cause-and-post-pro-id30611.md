@@ -1,3 +1,10 @@
+---
+topic_id: 30611
+title: "Signal Loss Through Slices In Sample Need Cause And Post Pro"
+date: 2023-07-14
+url: https://discourse.slicer.org/t/30611
+---
+
 # Signal loss through slices in sample. Need Cause and Post-Processing suggestions
 
 **Topic ID**: 30611

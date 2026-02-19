@@ -1,3 +1,10 @@
+---
+topic_id: 45943
+title: "Slicer3D Through Totalsegmentator Airway Segmentation Limite"
+date: 2026-01-27
+url: https://discourse.slicer.org/t/45943
+---
+
 # Slicer3d through TotalSegmentator airway segmentation limited to 1–2 generations – how to extend to distal bronchi (G4–G5)?
 
 **Topic ID**: 45943

@@ -1,3 +1,10 @@
+---
+topic_id: 10624
+title: "Mrb File Format Structure And Naming"
+date: 2020-03-10
+url: https://discourse.slicer.org/t/10624
+---
+
 # MRB File Format - Structure and Naming
 
 **Topic ID**: 10624

@@ -1,3 +1,10 @@
+---
+topic_id: 25307
+title: "Cant Upgrade Open3D"
+date: 2022-09-16
+url: https://discourse.slicer.org/t/25307
+---
+
 # Can't upgrade open3d
 
 **Topic ID**: 25307

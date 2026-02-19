@@ -1,3 +1,10 @@
+---
+topic_id: 44905
+title: "How To Generate A Cut Plane Using Markups"
+date: 2025-10-28
+url: https://discourse.slicer.org/t/44905
+---
+
 # How to generate a cut plane using markups
 
 **Topic ID**: 44905

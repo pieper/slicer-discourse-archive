@@ -1,3 +1,10 @@
+---
+topic_id: 26164
+title: "Extraxt Skeleton Module Impossible To Add Input Image"
+date: 2022-11-09
+url: https://discourse.slicer.org/t/26164
+---
+
 # Extraxt Skeleton Module: impossible to add input image
 
 **Topic ID**: 26164

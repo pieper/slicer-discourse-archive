@@ -1,3 +1,10 @@
+---
+topic_id: 21780
+title: "Open Two Python Interactors"
+date: 2022-02-03
+url: https://discourse.slicer.org/t/21780
+---
+
 # Open two python interactors
 
 **Topic ID**: 21780

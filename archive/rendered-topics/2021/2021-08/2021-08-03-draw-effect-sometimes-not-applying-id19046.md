@@ -1,3 +1,10 @@
+---
+topic_id: 19046
+title: "Draw Effect Sometimes Not Applying"
+date: 2021-08-03
+url: https://discourse.slicer.org/t/19046
+---
+
 # Draw effect sometimes not applying
 
 **Topic ID**: 19046

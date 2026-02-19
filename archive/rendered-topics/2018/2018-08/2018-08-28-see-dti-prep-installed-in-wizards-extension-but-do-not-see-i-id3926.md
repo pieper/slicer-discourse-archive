@@ -1,3 +1,10 @@
+---
+topic_id: 3926
+title: "See Dti Prep Installed In Wizards Extension But Do Not See I"
+date: 2018-08-28
+url: https://discourse.slicer.org/t/3926
+---
+
 # See DTI Prep Installed in Wizards Extension but do not see it as an option on 
 
 **Topic ID**: 3926

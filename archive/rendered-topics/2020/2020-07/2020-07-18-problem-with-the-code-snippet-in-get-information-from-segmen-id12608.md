@@ -1,3 +1,10 @@
+---
+topic_id: 12608
+title: "Problem With The Code Snippet In Get Information From Segmen"
+date: 2020-07-18
+url: https://discourse.slicer.org/t/12608
+---
+
 # Problem with the code snippet in “Get information from segmentation nrrd file header” of ScriptRepository
 
 **Topic ID**: 12608

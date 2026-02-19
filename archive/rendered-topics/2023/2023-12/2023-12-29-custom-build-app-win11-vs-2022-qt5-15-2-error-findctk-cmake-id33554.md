@@ -1,3 +1,10 @@
+---
+topic_id: 33554
+title: "Custom Build App Win11 Vs 2022 Qt5 15 2 Error Findctk Cmake"
+date: 2023-12-29
+url: https://discourse.slicer.org/t/33554
+---
+
 # Custom Build App Win11 VS 2022 Qt5.15.2 Error FindCTK.cmake
 
 **Topic ID**: 33554

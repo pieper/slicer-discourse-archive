@@ -1,3 +1,10 @@
+---
+topic_id: 31613
+title: "Stitching Adjacent But Not Overlapping Ct Volumes"
+date: 2023-09-08
+url: https://discourse.slicer.org/t/31613
+---
+
 # Stitching adjacent but not overlapping CT volumes
 
 **Topic ID**: 31613

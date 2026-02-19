@@ -1,3 +1,10 @@
+---
+topic_id: 7760
+title: "Threshold Range In 3D Slicer Is 0 99"
+date: 2019-07-25
+url: https://discourse.slicer.org/t/7760
+---
+
 # Threshold range in 3D Slicer is [0, 99]
 
 **Topic ID**: 7760

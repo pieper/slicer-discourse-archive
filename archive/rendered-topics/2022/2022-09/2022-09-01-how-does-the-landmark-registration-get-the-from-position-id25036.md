@@ -1,3 +1,10 @@
+---
+topic_id: 25036
+title: "How Does The Landmark Registration Get The From Position"
+date: 2022-09-01
+url: https://discourse.slicer.org/t/25036
+---
+
 # How does the Landmark registration get the "from" position
 
 **Topic ID**: 25036

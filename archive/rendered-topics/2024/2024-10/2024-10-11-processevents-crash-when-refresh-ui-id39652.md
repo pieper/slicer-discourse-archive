@@ -1,3 +1,10 @@
+---
+topic_id: 39652
+title: "Processevents Crash When Refresh Ui"
+date: 2024-10-11
+url: https://discourse.slicer.org/t/39652
+---
+
 # ProcessEvents crash when refresh UI
 
 **Topic ID**: 39652

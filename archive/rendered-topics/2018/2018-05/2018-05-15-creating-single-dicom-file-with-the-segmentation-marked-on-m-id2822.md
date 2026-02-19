@@ -1,3 +1,10 @@
+---
+topic_id: 2822
+title: "Creating Single Dicom File With The Segmentation Marked On M"
+date: 2018-05-15
+url: https://discourse.slicer.org/t/2822
+---
+
 # Creating single DICOM file with the segmentation marked on MRI
 
 **Topic ID**: 2822

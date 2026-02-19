@@ -1,3 +1,10 @@
+---
+topic_id: 33829
+title: "Create A Point Based On The Distance Of Different Models"
+date: 2024-01-17
+url: https://discourse.slicer.org/t/33829
+---
+
 # Create a point based on the distance of different models
 
 **Topic ID**: 33829

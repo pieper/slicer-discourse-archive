@@ -1,3 +1,10 @@
+---
+topic_id: 19454
+title: "Nvidia Ai Assisted Segmentation Extension"
+date: 2021-09-01
+url: https://discourse.slicer.org/t/19454
+---
+
 # Nvidia AI-assisted segmentation extension
 
 **Topic ID**: 19454

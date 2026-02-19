@@ -1,3 +1,10 @@
+---
+topic_id: 19271
+title: "Save Load Scalar Opacity Scalar Color Gradient Opacity Mappi"
+date: 2021-08-19
+url: https://discourse.slicer.org/t/19271
+---
+
 # Save & load (scalar opacity | Scalar color | gradient opacity) mapping settings from volume rendering?
 
 **Topic ID**: 19271

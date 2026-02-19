@@ -1,3 +1,10 @@
+---
+topic_id: 40343
+title: "Lost Segmentation Data"
+date: 2024-11-23
+url: https://discourse.slicer.org/t/40343
+---
+
 # Lost segmentation data
 
 **Topic ID**: 40343

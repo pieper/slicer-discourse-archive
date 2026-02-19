@@ -1,3 +1,10 @@
+---
+topic_id: 18410
+title: "Release Date For 3D Slicer 5 0"
+date: 2021-06-29
+url: https://discourse.slicer.org/t/18410
+---
+
 # Release date for 3D Slicer 5.0?
 
 **Topic ID**: 18410

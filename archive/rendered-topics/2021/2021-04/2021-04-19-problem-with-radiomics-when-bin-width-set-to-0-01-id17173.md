@@ -1,3 +1,10 @@
+---
+topic_id: 17173
+title: "Problem With Radiomics When Bin Width Set To 0 01"
+date: 2021-04-19
+url: https://discourse.slicer.org/t/17173
+---
+
 # Problem with Radiomics when Bin Width set to 0.01
 
 **Topic ID**: 17173

@@ -1,3 +1,10 @@
+---
+topic_id: 36549
+title: "Cuda Issue With Dentalsegmentator"
+date: 2024-06-02
+url: https://discourse.slicer.org/t/36549
+---
+
 # Cuda issue with dentalsegmentator
 
 **Topic ID**: 36549

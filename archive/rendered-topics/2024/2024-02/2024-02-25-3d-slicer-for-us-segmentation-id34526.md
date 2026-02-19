@@ -1,3 +1,10 @@
+---
+topic_id: 34526
+title: "3D Slicer For Us Segmentation"
+date: 2024-02-25
+url: https://discourse.slicer.org/t/34526
+---
+
 # 3D slicer for US segmentation
 
 **Topic ID**: 34526

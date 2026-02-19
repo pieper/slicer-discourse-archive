@@ -1,3 +1,10 @@
+---
+topic_id: 35144
+title: "Bump Vtk Minimum Opengl Version To 4 1"
+date: 2024-03-27
+url: https://discourse.slicer.org/t/35144
+---
+
 # Bump VTK minimum OpenGL version to 4.1
 
 **Topic ID**: 35144

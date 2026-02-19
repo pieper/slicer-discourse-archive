@@ -1,3 +1,10 @@
+---
+topic_id: 16252
+title: "Correlation Analysis Of Shape Parameters With A Continuous V"
+date: 2021-02-27
+url: https://discourse.slicer.org/t/16252
+---
+
 # Correlation analysis of shape parameters with a continuous variable
 
 **Topic ID**: 16252

@@ -1,3 +1,10 @@
+---
+topic_id: 17711
+title: "Help Installing Slicervmtk Extension"
+date: 2021-05-20
+url: https://discourse.slicer.org/t/17711
+---
+
 # Help installing SlicerVMTK Extension
 
 **Topic ID**: 17711

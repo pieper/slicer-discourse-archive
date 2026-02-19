@@ -1,3 +1,10 @@
+---
+topic_id: 10978
+title: "Qt For Python Thoughts"
+date: 2020-04-03
+url: https://discourse.slicer.org/t/10978
+---
+
 # Qt for Python - Thoughts?
 
 **Topic ID**: 10978

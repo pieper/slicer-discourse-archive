@@ -1,3 +1,10 @@
+---
+topic_id: 10082
+title: "Loading 3Ddose Files Dicom Image In 3D Slicer"
+date: 2020-02-03
+url: https://discourse.slicer.org/t/10082
+---
+
 # Loading 3ddose files & DICOM image in 3D slicer
 
 **Topic ID**: 10082

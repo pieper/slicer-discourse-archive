@@ -1,3 +1,10 @@
+---
+topic_id: 9319
+title: "Segmenting Narrow Bone Structures"
+date: 2019-11-28
+url: https://discourse.slicer.org/t/9319
+---
+
 # Segmenting narrow bone structures
 
 **Topic ID**: 9319

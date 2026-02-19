@@ -1,3 +1,10 @@
+---
+topic_id: 20567
+title: "Segmentation Of 4D Sequence Volumes Using Sequence Registrat"
+date: 2021-11-10
+url: https://discourse.slicer.org/t/20567
+---
+
 # Segmentation of 4D sequence volumes using Sequence Registration
 
 **Topic ID**: 20567

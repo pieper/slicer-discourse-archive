@@ -1,3 +1,10 @@
+---
+topic_id: 34487
+title: "Fixing Image Spacing For Ultrasound Images"
+date: 2024-02-23
+url: https://discourse.slicer.org/t/34487
+---
+
 # Fixing image spacing for ultrasound images
 
 **Topic ID**: 34487

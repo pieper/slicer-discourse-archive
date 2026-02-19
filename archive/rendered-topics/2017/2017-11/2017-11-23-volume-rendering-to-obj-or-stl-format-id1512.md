@@ -1,3 +1,10 @@
+---
+topic_id: 1512
+title: "Volume Rendering To Obj Or Stl Format"
+date: 2017-11-23
+url: https://discourse.slicer.org/t/1512
+---
+
 # Volume rendering to obj or stl format
 
 **Topic ID**: 1512

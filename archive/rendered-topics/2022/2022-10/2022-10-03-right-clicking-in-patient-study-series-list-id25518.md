@@ -1,3 +1,10 @@
+---
+topic_id: 25518
+title: "Right Clicking In Patient Study Series List"
+date: 2022-10-03
+url: https://discourse.slicer.org/t/25518
+---
+
 # Right-clicking in patient/study/series list
 
 **Topic ID**: 25518

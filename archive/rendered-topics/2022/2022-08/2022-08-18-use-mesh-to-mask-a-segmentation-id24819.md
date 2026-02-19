@@ -1,3 +1,10 @@
+---
+topic_id: 24819
+title: "Use Mesh To Mask A Segmentation"
+date: 2022-08-18
+url: https://discourse.slicer.org/t/24819
+---
+
 # Use Mesh to Mask a Segmentation
 
 **Topic ID**: 24819

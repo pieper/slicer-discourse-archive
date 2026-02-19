@@ -1,3 +1,10 @@
+---
+topic_id: 1131
+title: "How To Show The 2D Dimensions"
+date: 2017-09-27
+url: https://discourse.slicer.org/t/1131
+---
+
 # How to show the 2D dimensions
 
 **Topic ID**: 1131

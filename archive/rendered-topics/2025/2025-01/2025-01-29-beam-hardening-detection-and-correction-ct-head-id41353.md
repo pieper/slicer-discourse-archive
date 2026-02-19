@@ -1,3 +1,10 @@
+---
+topic_id: 41353
+title: "Beam Hardening Detection And Correction Ct Head"
+date: 2025-01-29
+url: https://discourse.slicer.org/t/41353
+---
+
 # Beam Hardening Detection and Correction - CT Head
 
 **Topic ID**: 41353

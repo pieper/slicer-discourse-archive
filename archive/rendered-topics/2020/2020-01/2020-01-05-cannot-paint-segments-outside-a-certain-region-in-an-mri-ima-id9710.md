@@ -1,3 +1,10 @@
+---
+topic_id: 9710
+title: "Cannot Paint Segments Outside A Certain Region In An Mri Ima"
+date: 2020-01-05
+url: https://discourse.slicer.org/t/9710
+---
+
 # Cannot paint segments outside a certain region in an MRI image
 
 **Topic ID**: 9710

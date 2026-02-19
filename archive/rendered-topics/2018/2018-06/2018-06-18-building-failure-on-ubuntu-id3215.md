@@ -1,3 +1,10 @@
+---
+topic_id: 3215
+title: "Building Failure On Ubuntu"
+date: 2018-06-18
+url: https://discourse.slicer.org/t/3215
+---
+
 # Building failure on Ubuntu
 
 **Topic ID**: 3215

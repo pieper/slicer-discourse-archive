@@ -1,3 +1,10 @@
+---
+topic_id: 9113
+title: "Where Could I Get Ct Scans And Mri Scans"
+date: 2019-11-12
+url: https://discourse.slicer.org/t/9113
+---
+
 # Where could I get CT scans and MRI scans
 
 **Topic ID**: 9113

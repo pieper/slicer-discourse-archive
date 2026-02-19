@@ -1,3 +1,10 @@
+---
+topic_id: 24073
+title: "Slicercustomapptemplate Build Failed"
+date: 2022-06-28
+url: https://discourse.slicer.org/t/24073
+---
+
 # SlicerCustomAppTemplate Build failed
 
 **Topic ID**: 24073

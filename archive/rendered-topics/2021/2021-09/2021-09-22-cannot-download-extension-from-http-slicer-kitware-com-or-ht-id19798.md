@@ -1,3 +1,10 @@
+---
+topic_id: 19798
+title: "Cannot Download Extension From Http Slicer Kitware Com Or Ht"
+date: 2021-09-22
+url: https://discourse.slicer.org/t/19798
+---
+
 # Cannot download extension from http://slicer.kitware.com or https://extensions.slicer.org
 
 **Topic ID**: 19798

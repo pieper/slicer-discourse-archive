@@ -1,3 +1,10 @@
+---
+topic_id: 24821
+title: "Creating A Slicer Binary For Apple Silicon M1"
+date: 2022-08-18
+url: https://discourse.slicer.org/t/24821
+---
+
 # Creating a Slicer binary for Apple Silicon M1
 
 **Topic ID**: 24821

@@ -1,3 +1,10 @@
+---
+topic_id: 40509
+title: "Explodemodels Action In Animator Creates No Effect And Pytho"
+date: 2024-12-04
+url: https://discourse.slicer.org/t/40509
+---
+
 # ExplodeModels Action in Animator Creates no effect, and Python code does not run an error message
 
 **Topic ID**: 40509

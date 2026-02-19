@@ -1,3 +1,10 @@
+---
+topic_id: 17578
+title: "Setslicetorasbyntp"
+date: 2021-05-11
+url: https://discourse.slicer.org/t/17578
+---
+
 # SetSliceToRASByNTP
 
 **Topic ID**: 17578

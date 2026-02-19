@@ -1,3 +1,10 @@
+---
+topic_id: 35556
+title: "Change Subjecthierarchy Name"
+date: 2024-04-17
+url: https://discourse.slicer.org/t/35556
+---
+
 # Change SubjectHierarchy name
 
 **Topic ID**: 35556

@@ -1,3 +1,10 @@
+---
+topic_id: 25776
+title: "How To Segment Brain Tumor In Offline Enviroment"
+date: 2022-10-19
+url: https://discourse.slicer.org/t/25776
+---
+
 # How to segment brain tumor in offline enviroment?
 
 **Topic ID**: 25776

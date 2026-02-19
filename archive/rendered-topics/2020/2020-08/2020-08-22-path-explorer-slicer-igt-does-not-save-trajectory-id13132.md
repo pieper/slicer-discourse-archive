@@ -1,3 +1,10 @@
+---
+topic_id: 13132
+title: "Path Explorer Slicer Igt Does Not Save Trajectory"
+date: 2020-08-22
+url: https://discourse.slicer.org/t/13132
+---
+
 # Path explorer (Slicer IGT) does not save Trajectory
 
 **Topic ID**: 13132

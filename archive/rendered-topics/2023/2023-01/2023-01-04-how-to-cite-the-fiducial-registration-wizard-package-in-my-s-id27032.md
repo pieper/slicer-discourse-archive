@@ -1,3 +1,10 @@
+---
+topic_id: 27032
+title: "How To Cite The Fiducial Registration Wizard Package In My S"
+date: 2023-01-04
+url: https://discourse.slicer.org/t/27032
+---
+
 # How to cite the Fiducial Registration Wizard package in my scientific paper
 
 **Topic ID**: 27032

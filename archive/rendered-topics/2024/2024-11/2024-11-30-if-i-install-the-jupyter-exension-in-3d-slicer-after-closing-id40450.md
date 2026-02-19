@@ -1,3 +1,10 @@
+---
+topic_id: 40450
+title: "If I Install The Jupyter Exension In 3D Slicer After Closing"
+date: 2024-11-30
+url: https://discourse.slicer.org/t/40450
+---
+
 # If I install the jupyter exension in 3D Slicer, After closing the software, it crashes when reopened.
 
 **Topic ID**: 40450

@@ -1,3 +1,10 @@
+---
+topic_id: 40923
+title: "Population Analysis"
+date: 2025-01-02
+url: https://discourse.slicer.org/t/40923
+---
+
 # Population analysis
 
 **Topic ID**: 40923

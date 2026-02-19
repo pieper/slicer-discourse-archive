@@ -1,3 +1,10 @@
+---
+topic_id: 16531
+title: "Slicer Opens With Black Screen On Windows With Slicer 4 11 2"
+date: 2021-03-14
+url: https://discourse.slicer.org/t/16531
+---
+
 # Slicer opens with black screen on Windows with Slicer-4.11.20210226
 
 **Topic ID**: 16531

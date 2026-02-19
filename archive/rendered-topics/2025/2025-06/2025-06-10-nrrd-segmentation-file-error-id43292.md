@@ -1,3 +1,10 @@
+---
+topic_id: 43292
+title: "Nrrd Segmentation File Error"
+date: 2025-06-10
+url: https://discourse.slicer.org/t/43292
+---
+
 # nrrd segmentation file error
 
 **Topic ID**: 43292

@@ -1,3 +1,10 @@
+---
+topic_id: 13032
+title: "Compute The Related Data Of Lung Airway By Vmtk"
+date: 2020-08-17
+url: https://discourse.slicer.org/t/13032
+---
+
 # Compute the related data of lung airway by VMTK
 
 **Topic ID**: 13032

@@ -1,3 +1,10 @@
+---
+topic_id: 34985
+title: "Crop Volume Resample Scalar Slowness For Large Image"
+date: 2024-03-19
+url: https://discourse.slicer.org/t/34985
+---
+
 # Crop volume / resample scalar slowness for large image
 
 **Topic ID**: 34985

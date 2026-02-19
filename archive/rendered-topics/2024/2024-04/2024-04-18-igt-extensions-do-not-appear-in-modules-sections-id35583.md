@@ -1,3 +1,10 @@
+---
+topic_id: 35583
+title: "Igt Extensions Do Not Appear In Modules Sections"
+date: 2024-04-18
+url: https://discourse.slicer.org/t/35583
+---
+
 # IGT Extensions do not appear in modules sections
 
 **Topic ID**: 35583

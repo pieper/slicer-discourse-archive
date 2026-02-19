@@ -1,3 +1,10 @@
+---
+topic_id: 7005
+title: "Segmentation Export Nrrd Data Open Python"
+date: 2019-06-03
+url: https://discourse.slicer.org/t/7005
+---
+
 # Segmentation(export nrrd) Data Open python
 
 **Topic ID**: 7005

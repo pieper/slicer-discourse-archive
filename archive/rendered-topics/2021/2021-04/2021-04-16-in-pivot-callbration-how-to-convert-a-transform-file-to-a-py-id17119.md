@@ -1,3 +1,10 @@
+---
+topic_id: 17119
+title: "In Pivot Callbration How To Convert A Transform File To A Py"
+date: 2021-04-16
+url: https://discourse.slicer.org/t/17119
+---
+
 # In Pivot Callbration, how to convert a transform file to a Python script file?
 
 **Topic ID**: 17119

@@ -1,3 +1,10 @@
+---
+topic_id: 10686
+title: "Question About Spharm Pdm Module In 3Dslicer"
+date: 2020-03-14
+url: https://discourse.slicer.org/t/10686
+---
+
 # Question about spharm-pdm module in 3DSlicer
 
 **Topic ID**: 10686

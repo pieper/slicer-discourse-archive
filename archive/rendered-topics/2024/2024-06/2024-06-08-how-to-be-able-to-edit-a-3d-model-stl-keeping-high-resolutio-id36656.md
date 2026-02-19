@@ -1,3 +1,10 @@
+---
+topic_id: 36656
+title: "How To Be Able To Edit A 3D Model Stl Keeping High Resolutio"
+date: 2024-06-08
+url: https://discourse.slicer.org/t/36656
+---
+
 # How to be able to edit a 3D Model (.stl) keeping high resolution of the output
 
 **Topic ID**: 36656

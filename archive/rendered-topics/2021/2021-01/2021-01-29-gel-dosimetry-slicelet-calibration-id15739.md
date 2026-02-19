@@ -1,3 +1,10 @@
+---
+topic_id: 15739
+title: "Gel Dosimetry Slicelet Calibration"
+date: 2021-01-29
+url: https://discourse.slicer.org/t/15739
+---
+
 # Gel Dosimetry Slicelet - Calibration
 
 **Topic ID**: 15739

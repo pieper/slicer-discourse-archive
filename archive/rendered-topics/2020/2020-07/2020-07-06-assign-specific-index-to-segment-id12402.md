@@ -1,3 +1,10 @@
+---
+topic_id: 12402
+title: "Assign Specific Index To Segment"
+date: 2020-07-06
+url: https://discourse.slicer.org/t/12402
+---
+
 # Assign specific index to segment
 
 **Topic ID**: 12402

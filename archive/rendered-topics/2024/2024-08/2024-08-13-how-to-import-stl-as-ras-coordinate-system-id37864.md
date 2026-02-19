@@ -1,3 +1,10 @@
+---
+topic_id: 37864
+title: "How To Import Stl As Ras Coordinate System"
+date: 2024-08-13
+url: https://discourse.slicer.org/t/37864
+---
+
 # How to import STL as RAS coordinate system?
 
 **Topic ID**: 37864

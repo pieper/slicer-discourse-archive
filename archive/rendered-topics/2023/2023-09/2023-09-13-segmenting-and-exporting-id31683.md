@@ -1,3 +1,10 @@
+---
+topic_id: 31683
+title: "Segmenting And Exporting"
+date: 2023-09-13
+url: https://discourse.slicer.org/t/31683
+---
+
 # Segmenting and Exporting
 
 **Topic ID**: 31683

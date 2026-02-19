@@ -1,3 +1,10 @@
+---
+topic_id: 13322
+title: "Creating Two Green Slice Nodes In Slicer Layoutmanager"
+date: 2020-09-03
+url: https://discourse.slicer.org/t/13322
+---
+
 # Creating two green slice nodes in slicer layoutmanager
 
 **Topic ID**: 13322

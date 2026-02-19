@@ -1,3 +1,10 @@
+---
+topic_id: 44533
+title: "Implementation Of Pivot And Spin Calibration"
+date: 2025-09-19
+url: https://discourse.slicer.org/t/44533
+---
+
 # Implementation of Pivot and Spin Calibration
 
 **Topic ID**: 44533

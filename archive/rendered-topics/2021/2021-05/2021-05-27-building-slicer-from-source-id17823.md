@@ -1,3 +1,10 @@
+---
+topic_id: 17823
+title: "Building Slicer From Source"
+date: 2021-05-27
+url: https://discourse.slicer.org/t/17823
+---
+
 # Building Slicer from source
 
 **Topic ID**: 17823

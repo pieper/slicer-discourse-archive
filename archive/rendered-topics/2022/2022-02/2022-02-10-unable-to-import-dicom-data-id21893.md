@@ -1,3 +1,10 @@
+---
+topic_id: 21893
+title: "Unable To Import Dicom Data"
+date: 2022-02-10
+url: https://discourse.slicer.org/t/21893
+---
+
 # Unable to import Dicom data
 
 **Topic ID**: 21893

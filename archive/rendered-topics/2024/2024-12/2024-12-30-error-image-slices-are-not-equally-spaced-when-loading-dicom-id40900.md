@@ -1,3 +1,10 @@
+---
+topic_id: 40900
+title: "Error Image Slices Are Not Equally Spaced When Loading Dicom"
+date: 2024-12-30
+url: https://discourse.slicer.org/t/40900
+---
+
 # Error: Image Slices Are Not Equally Spaced When Loading DICOM Files in 3D Slicer
 
 **Topic ID**: 40900

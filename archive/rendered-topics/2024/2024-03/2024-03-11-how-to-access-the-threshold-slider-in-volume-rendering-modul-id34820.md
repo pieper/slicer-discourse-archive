@@ -1,3 +1,10 @@
+---
+topic_id: 34820
+title: "How To Access The Threshold Slider In Volume Rendering Modul"
+date: 2024-03-11
+url: https://discourse.slicer.org/t/34820
+---
+
 # How to access the threshold slider in volume rendering module through python?
 
 **Topic ID**: 34820

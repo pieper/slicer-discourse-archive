@@ -1,3 +1,10 @@
+---
+topic_id: 19741
+title: "Vmtk Module Centerline Curve Properties Breaks"
+date: 2021-09-18
+url: https://discourse.slicer.org/t/19741
+---
+
 # Vmtk Module - Centerline curve/properties Breaks
 
 **Topic ID**: 19741

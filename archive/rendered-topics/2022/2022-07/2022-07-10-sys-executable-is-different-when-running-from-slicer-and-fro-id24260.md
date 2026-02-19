@@ -1,3 +1,10 @@
+---
+topic_id: 24260
+title: "Sys Executable Is Different When Running From Slicer And Fro"
+date: 2022-07-10
+url: https://discourse.slicer.org/t/24260
+---
+
 # `sys.executable` is different when running from Slicer and from PythonSlicer
 
 **Topic ID**: 24260

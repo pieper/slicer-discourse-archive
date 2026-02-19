@@ -1,3 +1,10 @@
+---
+topic_id: 3766
+title: "Error Importing Multi Frame Image Exported From Simplicit90Y"
+date: 2018-08-13
+url: https://discourse.slicer.org/t/3766
+---
+
 # Error importing multi frame image exported from Simplicit90Y (Mirada)
 
 **Topic ID**: 3766

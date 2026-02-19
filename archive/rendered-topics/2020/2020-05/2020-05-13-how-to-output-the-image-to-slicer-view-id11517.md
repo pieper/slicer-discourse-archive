@@ -1,3 +1,10 @@
+---
+topic_id: 11517
+title: "How To Output The Image To Slicer View"
+date: 2020-05-13
+url: https://discourse.slicer.org/t/11517
+---
+
 # How to output the image to slicer view?
 
 **Topic ID**: 11517

@@ -1,3 +1,10 @@
+---
+topic_id: 24717
+title: "How To Export Segmentation To Step Or Iges Format"
+date: 2022-08-11
+url: https://discourse.slicer.org/t/24717
+---
+
 # How to export segmentation to STEP or IGES format?
 
 **Topic ID**: 24717

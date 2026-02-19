@@ -1,3 +1,10 @@
+---
+topic_id: 7997
+title: "Export Deformable Transform To Dicom"
+date: 2019-08-13
+url: https://discourse.slicer.org/t/7997
+---
+
 # Export deformable transform to DICOM
 
 **Topic ID**: 7997

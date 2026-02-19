@@ -1,3 +1,10 @@
+---
+topic_id: 17194
+title: "Cannot Load Large Ultrasound Dicom File"
+date: 2021-04-20
+url: https://discourse.slicer.org/t/17194
+---
+
 # Cannot load large Ultrasound DICOM file
 
 **Topic ID**: 17194

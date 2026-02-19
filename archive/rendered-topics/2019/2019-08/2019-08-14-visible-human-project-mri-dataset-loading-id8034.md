@@ -1,3 +1,10 @@
+---
+topic_id: 8034
+title: "Visible Human Project Mri Dataset Loading"
+date: 2019-08-14
+url: https://discourse.slicer.org/t/8034
+---
+
 # Visible human project MRI dataset loading
 
 **Topic ID**: 8034

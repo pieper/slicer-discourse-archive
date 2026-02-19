@@ -1,3 +1,10 @@
+---
+topic_id: 5023
+title: "Documentation Of Qt Element Connect Strings"
+date: 2018-12-10
+url: https://discourse.slicer.org/t/5023
+---
+
 # Documentation of qt element connect strings
 
 **Topic ID**: 5023

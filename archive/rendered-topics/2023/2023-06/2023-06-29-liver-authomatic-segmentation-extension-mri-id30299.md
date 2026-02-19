@@ -1,3 +1,10 @@
+---
+topic_id: 30299
+title: "Liver Authomatic Segmentation Extension Mri"
+date: 2023-06-29
+url: https://discourse.slicer.org/t/30299
+---
+
 # Liver authomatic segmentation extension MRi
 
 **Topic ID**: 30299

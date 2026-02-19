@@ -1,3 +1,10 @@
+---
+topic_id: 27329
+title: "How Can We Integrate Hololense2 To Slicer"
+date: 2023-01-18
+url: https://discourse.slicer.org/t/27329
+---
+
 # how can we integrate hololense2 to slicer
 
 **Topic ID**: 27329

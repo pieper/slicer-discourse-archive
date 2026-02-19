@@ -1,3 +1,10 @@
+---
+topic_id: 13911
+title: "3Dslicer Coming To Mac Ios"
+date: 2020-10-07
+url: https://discourse.slicer.org/t/13911
+---
+
 # 3DSlicer coming to  Mac iOS? 
 
 **Topic ID**: 13911

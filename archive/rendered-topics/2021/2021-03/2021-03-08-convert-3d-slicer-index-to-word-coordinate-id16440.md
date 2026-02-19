@@ -1,3 +1,10 @@
+---
+topic_id: 16440
+title: "Convert 3D Slicer Index To Word Coordinate"
+date: 2021-03-08
+url: https://discourse.slicer.org/t/16440
+---
+
 # Convert 3D Slicer index to word coordinate
 
 **Topic ID**: 16440

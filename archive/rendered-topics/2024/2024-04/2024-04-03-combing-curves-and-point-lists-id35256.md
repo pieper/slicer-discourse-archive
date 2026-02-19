@@ -1,3 +1,10 @@
+---
+topic_id: 35256
+title: "Combing Curves And Point Lists"
+date: 2024-04-03
+url: https://discourse.slicer.org/t/35256
+---
+
 # Combing curves and point lists
 
 **Topic ID**: 35256

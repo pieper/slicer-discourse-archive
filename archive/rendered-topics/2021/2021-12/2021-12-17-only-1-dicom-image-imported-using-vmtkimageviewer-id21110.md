@@ -1,3 +1,10 @@
+---
+topic_id: 21110
+title: "Only 1 Dicom Image Imported Using Vmtkimageviewer"
+date: 2021-12-17
+url: https://discourse.slicer.org/t/21110
+---
+
 # Only 1 DICOM image imported using vmtkimageviewer
 
 **Topic ID**: 21110

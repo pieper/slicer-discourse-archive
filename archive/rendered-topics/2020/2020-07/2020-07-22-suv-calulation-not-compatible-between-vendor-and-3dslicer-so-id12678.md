@@ -1,3 +1,10 @@
+---
+topic_id: 12678
+title: "Suv Calulation Not Compatible Between Vendor And 3Dslicer So"
+date: 2020-07-22
+url: https://discourse.slicer.org/t/12678
+---
+
 # Suv calulation not compatible between vendor and 3dslicer software
 
 **Topic ID**: 12678

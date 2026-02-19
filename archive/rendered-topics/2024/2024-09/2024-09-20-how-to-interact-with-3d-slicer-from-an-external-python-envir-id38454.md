@@ -1,3 +1,10 @@
+---
+topic_id: 38454
+title: "How To Interact With 3D Slicer From An External Python Envir"
+date: 2024-09-20
+url: https://discourse.slicer.org/t/38454
+---
+
 # How to interact with 3D Slicer from an external Python environment?
 
 **Topic ID**: 38454

@@ -1,3 +1,10 @@
+---
+topic_id: 9194
+title: "Compressed Video Support In Slicer"
+date: 2019-11-18
+url: https://discourse.slicer.org/t/9194
+---
+
 # Compressed video support in Slicer
 
 **Topic ID**: 9194

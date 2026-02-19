@@ -1,3 +1,10 @@
+---
+topic_id: 33587
+title: "Error Of New Releases Of 3D Slicer"
+date: 2024-01-02
+url: https://discourse.slicer.org/t/33587
+---
+
 # Error of new releases of 3D slicer
 
 **Topic ID**: 33587

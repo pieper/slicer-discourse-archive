@@ -1,3 +1,10 @@
+---
+topic_id: 31167
+title: "How To Link Node To Drop Down Box"
+date: 2023-08-16
+url: https://discourse.slicer.org/t/31167
+---
+
 # How to link node to drop-down box
 
 **Topic ID**: 31167

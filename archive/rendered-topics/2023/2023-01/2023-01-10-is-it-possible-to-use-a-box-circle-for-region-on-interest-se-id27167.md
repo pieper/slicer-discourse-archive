@@ -1,3 +1,10 @@
+---
+topic_id: 27167
+title: "Is It Possible To Use A Box Circle For Region On Interest Se"
+date: 2023-01-10
+url: https://discourse.slicer.org/t/27167
+---
+
 # Is it possible to use a box/circle for region on interest segmentation on CT-scans?
 
 **Topic ID**: 27167

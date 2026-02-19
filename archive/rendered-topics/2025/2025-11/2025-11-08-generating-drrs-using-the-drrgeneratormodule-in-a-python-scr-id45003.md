@@ -1,3 +1,10 @@
+---
+topic_id: 45003
+title: "Generating Drrs Using The Drrgeneratormodule In A Python Scr"
+date: 2025-11-08
+url: https://discourse.slicer.org/t/45003
+---
+
 # Generating DRRs using the DRRGeneratorModule in a Python Script
 
 **Topic ID**: 45003

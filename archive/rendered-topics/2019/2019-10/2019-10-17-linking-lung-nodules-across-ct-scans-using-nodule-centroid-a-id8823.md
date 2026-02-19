@@ -1,3 +1,10 @@
+---
+topic_id: 8823
+title: "Linking Lung Nodules Across Ct Scans Using Nodule Centroid A"
+date: 2019-10-17
+url: https://discourse.slicer.org/t/8823
+---
+
 # Linking lung nodules across CT scans using nodule centroid anatomical coordinates
 
 **Topic ID**: 8823

@@ -1,3 +1,10 @@
+---
+topic_id: 5514
+title: "Machine Learning Best Practices Breakout Session"
+date: 2019-01-25
+url: https://discourse.slicer.org/t/5514
+---
+
 # Machine learning best practices breakout session
 
 **Topic ID**: 5514

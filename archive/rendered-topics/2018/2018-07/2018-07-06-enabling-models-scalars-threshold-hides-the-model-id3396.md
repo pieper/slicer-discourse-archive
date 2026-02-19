@@ -1,3 +1,10 @@
+---
+topic_id: 3396
+title: "Enabling Models Scalars Threshold Hides The Model"
+date: 2018-07-06
+url: https://discourse.slicer.org/t/3396
+---
+
 # Enabling models scalars threshold hides the model
 
 **Topic ID**: 3396

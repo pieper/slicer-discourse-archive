@@ -1,3 +1,10 @@
+---
+topic_id: 33039
+title: "Combining Different Segmentations"
+date: 2023-11-26
+url: https://discourse.slicer.org/t/33039
+---
+
 # Combining different segmentations
 
 **Topic ID**: 33039

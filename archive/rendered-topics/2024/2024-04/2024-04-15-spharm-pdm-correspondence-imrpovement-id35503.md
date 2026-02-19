@@ -1,3 +1,10 @@
+---
+topic_id: 35503
+title: "Spharm Pdm Correspondence Imrpovement"
+date: 2024-04-15
+url: https://discourse.slicer.org/t/35503
+---
+
 # SPHARM-PDM correspondence imrpovement
 
 **Topic ID**: 35503

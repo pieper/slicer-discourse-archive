@@ -1,3 +1,10 @@
+---
+topic_id: 29685
+title: "Load Nii Volumes From 3D Slicer To Matlab"
+date: 2023-05-27
+url: https://discourse.slicer.org/t/29685
+---
+
 # Load nii volumes from 3d Slicer to Matlab
 
 **Topic ID**: 29685

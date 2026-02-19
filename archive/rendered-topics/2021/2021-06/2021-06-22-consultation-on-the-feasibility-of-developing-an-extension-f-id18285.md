@@ -1,3 +1,10 @@
+---
+topic_id: 18285
+title: "Consultation On The Feasibility Of Developing An Extension F"
+date: 2021-06-22
+url: https://discourse.slicer.org/t/18285
+---
+
 # Consultation on the feasibility of developing an extension for 3DSlicer
 
 **Topic ID**: 18285

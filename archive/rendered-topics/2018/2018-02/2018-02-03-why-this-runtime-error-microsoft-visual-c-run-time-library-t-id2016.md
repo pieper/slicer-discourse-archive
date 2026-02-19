@@ -1,3 +1,10 @@
+---
+topic_id: 2016
+title: "Why This Runtime Error Microsoft Visual C Run Time Library T"
+date: 2018-02-03
+url: https://discourse.slicer.org/t/2016
+---
+
 # Why this Runtime Error (microsoft visual c++ run time library) thappen?
 
 **Topic ID**: 2016

@@ -1,3 +1,10 @@
+---
+topic_id: 42561
+title: "Ct Perfusion Coregistration To Atlas"
+date: 2025-04-14
+url: https://discourse.slicer.org/t/42561
+---
+
 # CT perfusion coregistration to atlas
 
 **Topic ID**: 42561

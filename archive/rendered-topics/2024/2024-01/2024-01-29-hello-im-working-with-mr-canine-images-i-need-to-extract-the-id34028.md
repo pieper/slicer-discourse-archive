@@ -1,3 +1,10 @@
+---
+topic_id: 34028
+title: "Hello Im Working With Mr Canine Images I Need To Extract The"
+date: 2024-01-29
+url: https://discourse.slicer.org/t/34028
+---
+
 # Hello, I'm working with MR canine images. I need to extract the total intracranial volume of the patient, is there any extension that does the same as SwissSkullStriper that I can use?
 
 **Topic ID**: 34028

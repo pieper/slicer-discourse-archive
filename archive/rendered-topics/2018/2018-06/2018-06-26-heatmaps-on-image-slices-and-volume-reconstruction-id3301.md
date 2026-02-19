@@ -1,3 +1,10 @@
+---
+topic_id: 3301
+title: "Heatmaps On Image Slices And Volume Reconstruction"
+date: 2018-06-26
+url: https://discourse.slicer.org/t/3301
+---
+
 # Heatmaps on image slices and volume reconstruction
 
 **Topic ID**: 3301

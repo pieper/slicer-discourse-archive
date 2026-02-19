@@ -1,3 +1,10 @@
+---
+topic_id: 39663
+title: "Totalsegmentator Install Fails At Nnunetv2 Installation"
+date: 2024-10-11
+url: https://discourse.slicer.org/t/39663
+---
+
 # TotalSegmentator install fails at nnunetv2 installation
 
 **Topic ID**: 39663

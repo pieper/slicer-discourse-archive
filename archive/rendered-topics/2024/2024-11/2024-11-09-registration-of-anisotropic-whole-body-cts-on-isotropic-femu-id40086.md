@@ -1,3 +1,10 @@
+---
+topic_id: 40086
+title: "Registration Of Anisotropic Whole Body Cts On Isotropic Femu"
+date: 2024-11-09
+url: https://discourse.slicer.org/t/40086
+---
+
 # Registration of anisotropic whole-body CTs on isotropic femur CTs
 
 **Topic ID**: 40086

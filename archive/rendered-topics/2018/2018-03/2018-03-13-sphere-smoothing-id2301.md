@@ -1,3 +1,10 @@
+---
+topic_id: 2301
+title: "Sphere Smoothing"
+date: 2018-03-13
+url: https://discourse.slicer.org/t/2301
+---
+
 # Sphere smoothing
 
 **Topic ID**: 2301

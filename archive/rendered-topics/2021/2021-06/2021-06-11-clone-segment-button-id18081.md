@@ -1,3 +1,10 @@
+---
+topic_id: 18081
+title: "Clone Segment Button"
+date: 2021-06-11
+url: https://discourse.slicer.org/t/18081
+---
+
 # Clone Segment Button
 
 **Topic ID**: 18081

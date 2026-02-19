@@ -1,3 +1,10 @@
+---
+topic_id: 2252
+title: "Registration Errors"
+date: 2018-03-06
+url: https://discourse.slicer.org/t/2252
+---
+
 # Registration errors
 
 **Topic ID**: 2252

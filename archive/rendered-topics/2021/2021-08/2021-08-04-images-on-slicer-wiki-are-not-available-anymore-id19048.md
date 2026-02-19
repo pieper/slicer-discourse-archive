@@ -1,3 +1,10 @@
+---
+topic_id: 19048
+title: "Images On Slicer Wiki Are Not Available Anymore"
+date: 2021-08-04
+url: https://discourse.slicer.org/t/19048
+---
+
 # Images on Slicer wiki are not available anymore
 
 **Topic ID**: 19048

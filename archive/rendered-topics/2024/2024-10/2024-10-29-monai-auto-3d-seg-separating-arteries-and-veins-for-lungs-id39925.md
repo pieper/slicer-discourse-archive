@@ -1,3 +1,10 @@
+---
+topic_id: 39925
+title: "Monai Auto 3D Seg Separating Arteries And Veins For Lungs"
+date: 2024-10-29
+url: https://discourse.slicer.org/t/39925
+---
+
 # Monai auto 3D seg : Separating arteries and veins for lungs
 
 **Topic ID**: 39925

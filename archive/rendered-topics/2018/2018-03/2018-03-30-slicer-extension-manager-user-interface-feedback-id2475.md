@@ -1,3 +1,10 @@
+---
+topic_id: 2475
+title: "Slicer Extension Manager User Interface Feedback"
+date: 2018-03-30
+url: https://discourse.slicer.org/t/2475
+---
+
 # Slicer Extension Manager: User Interface Feedback
 
 **Topic ID**: 2475

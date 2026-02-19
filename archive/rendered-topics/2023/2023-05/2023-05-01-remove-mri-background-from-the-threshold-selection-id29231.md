@@ -1,3 +1,10 @@
+---
+topic_id: 29231
+title: "Remove Mri Background From The Threshold Selection"
+date: 2023-05-01
+url: https://discourse.slicer.org/t/29231
+---
+
 # Remove MRI background from the threshold selection
 
 **Topic ID**: 29231

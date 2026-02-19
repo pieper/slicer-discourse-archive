@@ -1,3 +1,10 @@
+---
+topic_id: 41951
+title: "Pytomography Extension"
+date: 2025-03-04
+url: https://discourse.slicer.org/t/41951
+---
+
 # PyTomography Extension
 
 **Topic ID**: 41951

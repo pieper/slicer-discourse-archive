@@ -1,3 +1,10 @@
+---
+topic_id: 14060
+title: "How To Creat A Video With Code"
+date: 2020-10-15
+url: https://discourse.slicer.org/t/14060
+---
+
 # How to creat a video with code
 
 **Topic ID**: 14060

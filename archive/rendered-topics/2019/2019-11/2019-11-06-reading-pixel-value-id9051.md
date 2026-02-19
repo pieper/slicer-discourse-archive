@@ -1,3 +1,10 @@
+---
+topic_id: 9051
+title: "Reading Pixel Value"
+date: 2019-11-06
+url: https://discourse.slicer.org/t/9051
+---
+
 # reading pixel value 
 
 **Topic ID**: 9051

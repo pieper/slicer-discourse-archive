@@ -1,3 +1,10 @@
+---
+topic_id: 5198
+title: "Is There Any Way To Export Annotations In Json Format In 3D"
+date: 2018-12-27
+url: https://discourse.slicer.org/t/5198
+---
+
 # Is there any way to export annotations in Json format in 3D slicer?
 
 **Topic ID**: 5198

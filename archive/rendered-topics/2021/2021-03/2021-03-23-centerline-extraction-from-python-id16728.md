@@ -1,3 +1,10 @@
+---
+topic_id: 16728
+title: "Centerline Extraction From Python"
+date: 2021-03-23
+url: https://discourse.slicer.org/t/16728
+---
+
 # Centerline extraction from python
 
 **Topic ID**: 16728

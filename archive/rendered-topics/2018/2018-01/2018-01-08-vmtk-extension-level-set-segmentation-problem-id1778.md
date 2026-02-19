@@ -1,3 +1,10 @@
+---
+topic_id: 1778
+title: "Vmtk Extension Level Set Segmentation Problem"
+date: 2018-01-08
+url: https://discourse.slicer.org/t/1778
+---
+
 # VMTK extension- Level Set Segmentation problem
 
 **Topic ID**: 1778

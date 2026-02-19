@@ -1,3 +1,10 @@
+---
+topic_id: 8052
+title: "How To Show Models In Certain Views Only"
+date: 2019-08-16
+url: https://discourse.slicer.org/t/8052
+---
+
 # How to show models in certain views only
 
 **Topic ID**: 8052

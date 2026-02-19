@@ -1,3 +1,10 @@
+---
+topic_id: 29505
+title: "Markups Angle Measurement Numerical Value"
+date: 2023-05-17
+url: https://discourse.slicer.org/t/29505
+---
+
 # MarkUps Angle measurement numerical value
 
 **Topic ID**: 29505

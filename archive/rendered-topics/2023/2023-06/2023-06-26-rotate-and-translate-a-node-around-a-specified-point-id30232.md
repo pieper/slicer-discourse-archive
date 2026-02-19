@@ -1,3 +1,10 @@
+---
+topic_id: 30232
+title: "Rotate And Translate A Node Around A Specified Point"
+date: 2023-06-26
+url: https://discourse.slicer.org/t/30232
+---
+
 # Rotate and translate a node around a specified point
 
 **Topic ID**: 30232

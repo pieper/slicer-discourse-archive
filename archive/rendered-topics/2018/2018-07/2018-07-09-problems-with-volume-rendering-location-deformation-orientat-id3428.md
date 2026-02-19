@@ -1,3 +1,10 @@
+---
+topic_id: 3428
+title: "Problems With Volume Rendering Location Deformation Orientat"
+date: 2018-07-09
+url: https://discourse.slicer.org/t/3428
+---
+
 # Problems with volume rendering (location/deformation/orientation)
 
 **Topic ID**: 3428

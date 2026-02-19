@@ -1,3 +1,10 @@
+---
+topic_id: 3924
+title: "Programming A Script To Automate Slicer Extension Module For"
+date: 2018-08-28
+url: https://discourse.slicer.org/t/3924
+---
+
 # Programming a script to automate Slicer Extension Module for DiceComputation (CLI)
 
 **Topic ID**: 3924

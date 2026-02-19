@@ -1,3 +1,10 @@
+---
+topic_id: 13944
+title: "How Do You Find Minimum And Maximum Diameters Using The Clos"
+date: 2020-10-08
+url: https://discourse.slicer.org/t/13944
+---
+
 # How do you find minimum and maximum diameters using the closed curve function?
 
 **Topic ID**: 13944

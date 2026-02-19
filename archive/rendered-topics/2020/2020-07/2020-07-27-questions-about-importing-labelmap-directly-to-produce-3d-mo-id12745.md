@@ -1,3 +1,10 @@
+---
+topic_id: 12745
+title: "Questions About Importing Labelmap Directly To Produce 3D Mo"
+date: 2020-07-27
+url: https://discourse.slicer.org/t/12745
+---
+
 # Questions about importing labelmap directly to produce 3D model
 
 **Topic ID**: 12745

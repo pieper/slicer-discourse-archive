@@ -1,3 +1,10 @@
+---
+topic_id: 9072
+title: "3D Volume Appears Distorted Jaw Looks Elongated"
+date: 2019-11-07
+url: https://discourse.slicer.org/t/9072
+---
+
 # 3D volume appears distorted - jaw looks elongated
 
 **Topic ID**: 9072

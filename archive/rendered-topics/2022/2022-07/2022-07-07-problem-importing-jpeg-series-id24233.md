@@ -1,3 +1,10 @@
+---
+topic_id: 24233
+title: "Problem Importing Jpeg Series"
+date: 2022-07-07
+url: https://discourse.slicer.org/t/24233
+---
+
 # Problem importing JPEG series 
 
 **Topic ID**: 24233

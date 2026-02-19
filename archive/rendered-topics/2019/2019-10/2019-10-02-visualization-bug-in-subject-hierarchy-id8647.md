@@ -1,3 +1,10 @@
+---
+topic_id: 8647
+title: "Visualization Bug In Subject Hierarchy"
+date: 2019-10-02
+url: https://discourse.slicer.org/t/8647
+---
+
 # Visualization bug in subject hierarchy
 
 **Topic ID**: 8647

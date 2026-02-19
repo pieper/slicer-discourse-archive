@@ -1,3 +1,10 @@
+---
+topic_id: 36564
+title: "Display Node Full Fill View"
+date: 2024-06-03
+url: https://discourse.slicer.org/t/36564
+---
+
 # Display node full fill view
 
 **Topic ID**: 36564

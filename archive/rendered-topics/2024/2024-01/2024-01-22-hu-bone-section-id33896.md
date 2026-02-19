@@ -1,3 +1,10 @@
+---
+topic_id: 33896
+title: "Hu Bone Section"
+date: 2024-01-22
+url: https://discourse.slicer.org/t/33896
+---
+
 # HU bone section
 
 **Topic ID**: 33896

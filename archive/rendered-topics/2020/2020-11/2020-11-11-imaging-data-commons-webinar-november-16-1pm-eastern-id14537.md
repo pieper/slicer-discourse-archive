@@ -1,3 +1,10 @@
+---
+topic_id: 14537
+title: "Imaging Data Commons Webinar November 16 1Pm Eastern"
+date: 2020-11-11
+url: https://discourse.slicer.org/t/14537
+---
+
 # Imaging Data Commons Webinar: November 16 @ 1pm Eastern
 
 **Topic ID**: 14537

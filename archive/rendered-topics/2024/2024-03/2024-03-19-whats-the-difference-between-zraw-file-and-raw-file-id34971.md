@@ -1,3 +1,10 @@
+---
+topic_id: 34971
+title: "Whats The Difference Between Zraw File And Raw File"
+date: 2024-03-19
+url: https://discourse.slicer.org/t/34971
+---
+
 # What's the difference between .zraw file and .raw file
 
 **Topic ID**: 34971

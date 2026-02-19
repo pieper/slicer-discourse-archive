@@ -1,3 +1,10 @@
+---
+topic_id: 1217
+title: "Cmf Slicer Org Still Points To Old Mailing List"
+date: 2017-10-13
+url: https://discourse.slicer.org/t/1217
+---
+
 # Cmf.slicer.org still points to old mailing list
 
 **Topic ID**: 1217

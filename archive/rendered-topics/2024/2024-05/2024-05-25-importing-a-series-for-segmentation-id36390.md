@@ -1,3 +1,10 @@
+---
+topic_id: 36390
+title: "Importing A Series For Segmentation"
+date: 2024-05-25
+url: https://discourse.slicer.org/t/36390
+---
+
 # Importing A Series for Segmentation
 
 **Topic ID**: 36390

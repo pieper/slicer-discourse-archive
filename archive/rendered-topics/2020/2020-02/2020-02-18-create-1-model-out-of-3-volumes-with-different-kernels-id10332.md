@@ -1,3 +1,10 @@
+---
+topic_id: 10332
+title: "Create 1 Model Out Of 3 Volumes With Different Kernels"
+date: 2020-02-18
+url: https://discourse.slicer.org/t/10332
+---
+
 # Create 1 model out of 3 volumes with different kernels
 
 **Topic ID**: 10332

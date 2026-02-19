@@ -1,3 +1,10 @@
+---
+topic_id: 42153
+title: "Information Regarding 3D Slicer For A Literature Review Pape"
+date: 2025-03-15
+url: https://discourse.slicer.org/t/42153
+---
+
 # Information regarding 3D Slicer for a literature review paper
 
 **Topic ID**: 42153

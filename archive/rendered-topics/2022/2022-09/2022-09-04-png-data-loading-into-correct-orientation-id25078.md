@@ -1,3 +1,10 @@
+---
+topic_id: 25078
+title: "Png Data Loading Into Correct Orientation"
+date: 2022-09-04
+url: https://discourse.slicer.org/t/25078
+---
+
 # PNG data loading into correct orientation
 
 **Topic ID**: 25078

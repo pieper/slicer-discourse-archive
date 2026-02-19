@@ -1,3 +1,10 @@
+---
+topic_id: 9518
+title: "Slicer Crash When Try To Save"
+date: 2019-12-16
+url: https://discourse.slicer.org/t/9518
+---
+
 # Slicer crash when try to save.
 
 **Topic ID**: 9518

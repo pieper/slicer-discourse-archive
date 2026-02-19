@@ -1,3 +1,10 @@
+---
+topic_id: 27858
+title: "Input Files For Rigidalignment Module"
+date: 2023-02-16
+url: https://discourse.slicer.org/t/27858
+---
+
 # Input files for RigidAlignment module ?
 
 **Topic ID**: 27858

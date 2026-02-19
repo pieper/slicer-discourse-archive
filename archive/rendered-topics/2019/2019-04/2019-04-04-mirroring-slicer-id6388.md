@@ -1,3 +1,10 @@
+---
+topic_id: 6388
+title: "Mirroring Slicer"
+date: 2019-04-04
+url: https://discourse.slicer.org/t/6388
+---
+
 # mirroring Slicer
 
 **Topic ID**: 6388

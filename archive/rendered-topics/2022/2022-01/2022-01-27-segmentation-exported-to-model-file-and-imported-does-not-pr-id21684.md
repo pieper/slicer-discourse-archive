@@ -1,3 +1,10 @@
+---
+topic_id: 21684
+title: "Segmentation Exported To Model File And Imported Does Not Pr"
+date: 2022-01-27
+url: https://discourse.slicer.org/t/21684
+---
+
 # Segmentation exported to model file and imported does not preserve transparency
 
 **Topic ID**: 21684

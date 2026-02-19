@@ -1,3 +1,10 @@
+---
+topic_id: 7698
+title: "Are Mrml Attributes Saved In Sequences"
+date: 2019-07-20
+url: https://discourse.slicer.org/t/7698
+---
+
 # Are MRML attributes saved in Sequences?
 
 **Topic ID**: 7698

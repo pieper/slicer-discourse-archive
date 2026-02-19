@@ -1,3 +1,10 @@
+---
+topic_id: 2554
+title: "Dwiconvert Issue"
+date: 2018-04-10
+url: https://discourse.slicer.org/t/2554
+---
+
 # DWIConvert Issue
 
 **Topic ID**: 2554

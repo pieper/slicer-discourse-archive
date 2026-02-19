@@ -1,3 +1,10 @@
+---
+topic_id: 215
+title: "Iterate Over Slicer Modules"
+date: 2017-04-27
+url: https://discourse.slicer.org/t/215
+---
+
 # Iterate over slicer modules
 
 **Topic ID**: 215

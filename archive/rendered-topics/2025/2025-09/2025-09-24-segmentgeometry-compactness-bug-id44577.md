@@ -1,3 +1,10 @@
+---
+topic_id: 44577
+title: "Segmentgeometry Compactness Bug"
+date: 2025-09-24
+url: https://discourse.slicer.org/t/44577
+---
+
 # SegmentGeometry compactness bug?
 
 **Topic ID**: 44577

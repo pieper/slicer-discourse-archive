@@ -1,3 +1,10 @@
+---
+topic_id: 27560
+title: "Line Profile In Mri Image"
+date: 2023-01-31
+url: https://discourse.slicer.org/t/27560
+---
+
 # Line profile in MRI image
 
 **Topic ID**: 27560

@@ -1,3 +1,10 @@
+---
+topic_id: 38519
+title: "Bad Allocation Errors When Placing Closed Curves"
+date: 2024-09-24
+url: https://discourse.slicer.org/t/38519
+---
+
 # Bad allocation errors when placing closed curves
 
 **Topic ID**: 38519

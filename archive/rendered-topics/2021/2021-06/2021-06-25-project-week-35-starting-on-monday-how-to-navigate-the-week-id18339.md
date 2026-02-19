@@ -1,3 +1,10 @@
+---
+topic_id: 18339
+title: "Project Week 35 Starting On Monday How To Navigate The Week"
+date: 2021-06-25
+url: https://discourse.slicer.org/t/18339
+---
+
 # Project Week 35 starting on Monday - how to navigate the week
 
 **Topic ID**: 18339

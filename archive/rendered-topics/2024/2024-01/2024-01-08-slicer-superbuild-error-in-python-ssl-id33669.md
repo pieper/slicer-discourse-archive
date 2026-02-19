@@ -1,3 +1,10 @@
+---
+topic_id: 33669
+title: "Slicer Superbuild Error In Python Ssl"
+date: 2024-01-08
+url: https://discourse.slicer.org/t/33669
+---
+
 # Slicer superbuild error in Python/SSL
 
 **Topic ID**: 33669

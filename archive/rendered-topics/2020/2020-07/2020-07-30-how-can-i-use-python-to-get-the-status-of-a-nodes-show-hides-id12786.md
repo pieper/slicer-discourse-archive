@@ -1,3 +1,10 @@
+---
+topic_id: 12786
+title: "How Can I Use Python To Get The Status Of A Nodes Show Hides"
+date: 2020-07-30
+url: https://discourse.slicer.org/t/12786
+---
+
 # How Can I use python to get the status of a node's show/hides status in the "data" or "DICOM" module in the Subject hierarchy area?
 
 **Topic ID**: 12786

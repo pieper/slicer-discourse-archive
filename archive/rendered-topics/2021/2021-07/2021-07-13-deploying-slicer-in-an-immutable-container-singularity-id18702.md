@@ -1,3 +1,10 @@
+---
+topic_id: 18702
+title: "Deploying Slicer In An Immutable Container Singularity"
+date: 2021-07-13
+url: https://discourse.slicer.org/t/18702
+---
+
 # Deploying slicer in an immutable container (Singularity)
 
 **Topic ID**: 18702

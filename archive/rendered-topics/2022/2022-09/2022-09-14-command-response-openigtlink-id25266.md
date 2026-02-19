@@ -1,3 +1,10 @@
+---
+topic_id: 25266
+title: "Command Response Openigtlink"
+date: 2022-09-14
+url: https://discourse.slicer.org/t/25266
+---
+
 # Command response openigtlink
 
 **Topic ID**: 25266

@@ -1,3 +1,10 @@
+---
+topic_id: 2579
+title: "Smoothing Kernel Size Margin Size In Segment Editor"
+date: 2018-04-13
+url: https://discourse.slicer.org/t/2579
+---
+
 # Smoothing kernel size, Margin size in Segment editor
 
 **Topic ID**: 2579

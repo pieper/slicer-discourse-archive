@@ -1,3 +1,10 @@
+---
+topic_id: 14283
+title: "Open Vinno E35 Ultrasound In 3Dslicer"
+date: 2020-10-27
+url: https://discourse.slicer.org/t/14283
+---
+
 # Open Vinno E35 Ultrasound in 3DSlicer
 
 **Topic ID**: 14283

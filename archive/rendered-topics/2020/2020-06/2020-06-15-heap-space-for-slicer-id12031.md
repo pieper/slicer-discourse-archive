@@ -1,3 +1,10 @@
+---
+topic_id: 12031
+title: "Heap Space For Slicer"
+date: 2020-06-15
+url: https://discourse.slicer.org/t/12031
+---
+
 # Heap space for Slicer
 
 **Topic ID**: 12031

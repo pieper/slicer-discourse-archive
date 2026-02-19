@@ -1,3 +1,10 @@
+---
+topic_id: 44700
+title: "Curved Planar Reconstruction Segmentation"
+date: 2025-10-09
+url: https://discourse.slicer.org/t/44700
+---
+
 # curved planar reconstruction segmentation
 
 **Topic ID**: 44700

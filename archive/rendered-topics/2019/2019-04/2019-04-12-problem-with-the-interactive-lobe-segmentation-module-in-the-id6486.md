@@ -1,3 +1,10 @@
+---
+topic_id: 6486
+title: "Problem With The Interactive Lobe Segmentation Module In The"
+date: 2019-04-12
+url: https://discourse.slicer.org/t/6486
+---
+
 # Problem with the Interactive lobe segmentation module in the CIP
 
 **Topic ID**: 6486

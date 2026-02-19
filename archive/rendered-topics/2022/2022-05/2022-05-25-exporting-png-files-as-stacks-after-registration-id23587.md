@@ -1,3 +1,10 @@
+---
+topic_id: 23587
+title: "Exporting Png Files As Stacks After Registration"
+date: 2022-05-25
+url: https://discourse.slicer.org/t/23587
+---
+
 # Exporting png-files as stacks after registration
 
 **Topic ID**: 23587

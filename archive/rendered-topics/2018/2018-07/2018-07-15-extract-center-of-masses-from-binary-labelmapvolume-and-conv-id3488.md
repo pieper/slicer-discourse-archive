@@ -1,3 +1,10 @@
+---
+topic_id: 3488
+title: "Extract Center Of Masses From Binary Labelmapvolume And Conv"
+date: 2018-07-15
+url: https://discourse.slicer.org/t/3488
+---
+
 # Extract Center of masses from binary LabelMapVolume and convert to Fiducials?
 
 **Topic ID**: 3488

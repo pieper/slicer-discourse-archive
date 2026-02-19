@@ -1,3 +1,10 @@
+---
+topic_id: 1161
+title: "Problem Running Slicer In Batch Mode"
+date: 2017-10-03
+url: https://discourse.slicer.org/t/1161
+---
+
 # Problem running slicer in Batch mode
 
 **Topic ID**: 1161

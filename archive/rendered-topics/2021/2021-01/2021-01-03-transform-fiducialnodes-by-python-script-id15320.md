@@ -1,3 +1,10 @@
+---
+topic_id: 15320
+title: "Transform Fiducialnodes By Python Script"
+date: 2021-01-03
+url: https://discourse.slicer.org/t/15320
+---
+
 # Transform fiducialNodes by python script
 
 **Topic ID**: 15320

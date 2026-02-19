@@ -1,3 +1,10 @@
+---
+topic_id: 28037
+title: "Fcal Lego Phantom Configuration File And 3D Model"
+date: 2023-02-24
+url: https://discourse.slicer.org/t/28037
+---
+
 # Fcal Lego phantom: configuration file and 3D model
 
 **Topic ID**: 28037

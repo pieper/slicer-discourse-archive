@@ -1,3 +1,10 @@
+---
+topic_id: 21453
+title: "Dicom Export Issue To Treatment Planning System"
+date: 2022-01-13
+url: https://discourse.slicer.org/t/21453
+---
+
 # DICOM Export Issue to Treatment Planning System
 
 **Topic ID**: 21453

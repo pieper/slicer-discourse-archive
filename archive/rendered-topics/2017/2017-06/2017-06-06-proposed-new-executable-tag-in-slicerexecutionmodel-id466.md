@@ -1,3 +1,10 @@
+---
+topic_id: 466
+title: "Proposed New Executable Tag In Slicerexecutionmodel"
+date: 2017-06-06
+url: https://discourse.slicer.org/t/466
+---
+
 # Proposed new "executable" tag in SlicerExecutionModel
 
 **Topic ID**: 466

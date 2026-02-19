@@ -1,3 +1,10 @@
+---
+topic_id: 44405
+title: "New Extension Modalityconverter Bringing Ai Medical Image To"
+date: 2025-09-09
+url: https://discourse.slicer.org/t/44405
+---
+
 # New extension: ModalityConverter - bringing AI medical image-to-image translation to 3D Slicer
 
 **Topic ID**: 44405

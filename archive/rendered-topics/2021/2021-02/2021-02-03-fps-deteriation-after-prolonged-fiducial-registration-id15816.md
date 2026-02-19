@@ -1,3 +1,10 @@
+---
+topic_id: 15816
+title: "Fps Deteriation After Prolonged Fiducial Registration"
+date: 2021-02-03
+url: https://discourse.slicer.org/t/15816
+---
+
 # FPS deteriation after prolonged fiducial registration
 
 **Topic ID**: 15816

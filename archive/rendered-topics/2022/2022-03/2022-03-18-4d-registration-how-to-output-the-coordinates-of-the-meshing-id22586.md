@@ -1,3 +1,10 @@
+---
+topic_id: 22586
+title: "4D Registration How To Output The Coordinates Of The Meshing"
+date: 2022-03-18
+url: https://discourse.slicer.org/t/22586
+---
+
 # 4D Registration: How to output the coordinates of the meshing points?
 
 **Topic ID**: 22586

@@ -1,3 +1,10 @@
+---
+topic_id: 3238
+title: "Combining Segmentations Of Different Mri Files"
+date: 2018-06-19
+url: https://discourse.slicer.org/t/3238
+---
+
 # Combining Segmentations of Different MRI files
 
 **Topic ID**: 3238

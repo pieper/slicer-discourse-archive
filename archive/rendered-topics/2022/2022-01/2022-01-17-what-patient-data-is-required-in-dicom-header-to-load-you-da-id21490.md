@@ -1,3 +1,10 @@
+---
+topic_id: 21490
+title: "What Patient Data Is Required In Dicom Header To Load You Da"
+date: 2022-01-17
+url: https://discourse.slicer.org/t/21490
+---
+
 # What patient data is required in DICOM header to load you data with "Load DICOM Data"?
 
 **Topic ID**: 21490

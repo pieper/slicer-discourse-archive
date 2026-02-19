@@ -1,3 +1,10 @@
+---
+topic_id: 33735
+title: "Error Running Elastix"
+date: 2024-01-11
+url: https://discourse.slicer.org/t/33735
+---
+
 # Error running Elastix
 
 **Topic ID**: 33735

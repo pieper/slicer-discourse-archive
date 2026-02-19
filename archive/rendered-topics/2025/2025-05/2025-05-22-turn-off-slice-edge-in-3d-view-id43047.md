@@ -1,3 +1,10 @@
+---
+topic_id: 43047
+title: "Turn Off Slice Edge In 3D View"
+date: 2025-05-22
+url: https://discourse.slicer.org/t/43047
+---
+
 # Turn off Slice edge in 3d view
 
 **Topic ID**: 43047

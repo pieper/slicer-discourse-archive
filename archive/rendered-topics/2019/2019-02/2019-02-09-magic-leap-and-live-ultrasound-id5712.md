@@ -1,3 +1,10 @@
+---
+topic_id: 5712
+title: "Magic Leap And Live Ultrasound"
+date: 2019-02-09
+url: https://discourse.slicer.org/t/5712
+---
+
 # Magic leap and LIVE ULTRASOUND
 
 **Topic ID**: 5712

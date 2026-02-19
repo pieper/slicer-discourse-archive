@@ -1,3 +1,10 @@
+---
+topic_id: 28343
+title: "Interactive Lobe Segmentation Not Working Properly"
+date: 2023-03-13
+url: https://discourse.slicer.org/t/28343
+---
+
 # Interactive lobe segmentation not working properly
 
 **Topic ID**: 28343

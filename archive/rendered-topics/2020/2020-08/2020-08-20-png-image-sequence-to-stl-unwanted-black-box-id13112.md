@@ -1,3 +1,10 @@
+---
+topic_id: 13112
+title: "Png Image Sequence To Stl Unwanted Black Box"
+date: 2020-08-20
+url: https://discourse.slicer.org/t/13112
+---
+
 # PNG image sequence to STL - Unwanted Black Box
 
 **Topic ID**: 13112

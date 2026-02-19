@@ -1,3 +1,10 @@
+---
+topic_id: 11360
+title: "How To Get Volume And Model In The Scene In The Python Code"
+date: 2020-04-30
+url: https://discourse.slicer.org/t/11360
+---
+
 # How to get volume and model in the scene in the python code？
 
 **Topic ID**: 11360

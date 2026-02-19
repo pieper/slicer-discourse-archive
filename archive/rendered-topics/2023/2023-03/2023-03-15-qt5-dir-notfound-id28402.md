@@ -1,3 +1,10 @@
+---
+topic_id: 28402
+title: "Qt5 Dir Notfound"
+date: 2023-03-15
+url: https://discourse.slicer.org/t/28402
+---
+
 # Qt5_DIR-NOTFOUND
 
 **Topic ID**: 28402

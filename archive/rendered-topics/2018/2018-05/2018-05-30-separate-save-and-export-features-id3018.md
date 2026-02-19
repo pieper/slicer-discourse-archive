@@ -1,3 +1,10 @@
+---
+topic_id: 3018
+title: "Separate Save And Export Features"
+date: 2018-05-30
+url: https://discourse.slicer.org/t/3018
+---
+
 # Separate Save and Export features
 
 **Topic ID**: 3018

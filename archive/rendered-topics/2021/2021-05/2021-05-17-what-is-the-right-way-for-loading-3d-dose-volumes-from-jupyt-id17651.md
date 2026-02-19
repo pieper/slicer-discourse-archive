@@ -1,3 +1,10 @@
+---
+topic_id: 17651
+title: "What Is The Right Way For Loading 3D Dose Volumes From Jupyt"
+date: 2021-05-17
+url: https://discourse.slicer.org/t/17651
+---
+
 # What is the right way for loading 3D dose volumes from jupyter kernel
 
 **Topic ID**: 17651

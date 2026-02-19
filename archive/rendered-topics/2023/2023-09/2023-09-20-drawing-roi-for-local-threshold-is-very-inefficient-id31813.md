@@ -1,3 +1,10 @@
+---
+topic_id: 31813
+title: "Drawing Roi For Local Threshold Is Very Inefficient"
+date: 2023-09-20
+url: https://discourse.slicer.org/t/31813
+---
+
 # Drawing ROI for local threshold is very inefficient?
 
 **Topic ID**: 31813

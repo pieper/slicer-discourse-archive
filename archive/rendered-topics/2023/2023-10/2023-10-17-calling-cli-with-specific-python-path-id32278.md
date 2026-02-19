@@ -1,3 +1,10 @@
+---
+topic_id: 32278
+title: "Calling Cli With Specific Python Path"
+date: 2023-10-17
+url: https://discourse.slicer.org/t/32278
+---
+
 # Calling cli with specific python path
 
 **Topic ID**: 32278

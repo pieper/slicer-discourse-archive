@@ -1,3 +1,10 @@
+---
+topic_id: 44184
+title: "Removing Below Threshold Data From Segment"
+date: 2025-08-24
+url: https://discourse.slicer.org/t/44184
+---
+
 # Removing below threshold data from segment
 
 **Topic ID**: 44184

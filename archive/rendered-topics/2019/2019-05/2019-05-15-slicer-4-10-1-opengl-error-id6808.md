@@ -1,3 +1,10 @@
+---
+topic_id: 6808
+title: "Slicer 4 10 1 Opengl Error"
+date: 2019-05-15
+url: https://discourse.slicer.org/t/6808
+---
+
 # Slicer 4.10.1 OpenGL error
 
 **Topic ID**: 6808

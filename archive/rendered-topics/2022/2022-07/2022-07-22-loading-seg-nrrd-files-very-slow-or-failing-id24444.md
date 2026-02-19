@@ -1,3 +1,10 @@
+---
+topic_id: 24444
+title: "Loading Seg Nrrd Files Very Slow Or Failing"
+date: 2022-07-22
+url: https://discourse.slicer.org/t/24444
+---
+
 # Loading seg.nrrd files very slow or failing
 
 **Topic ID**: 24444

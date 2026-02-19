@@ -1,3 +1,10 @@
+---
+topic_id: 28445
+title: "Not Reading The Binary Image"
+date: 2023-03-18
+url: https://discourse.slicer.org/t/28445
+---
+
 # Not reading the binary image
 
 **Topic ID**: 28445

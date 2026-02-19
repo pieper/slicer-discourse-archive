@@ -1,3 +1,10 @@
+---
+topic_id: 20063
+title: "Save Segmentation As Ply File"
+date: 2021-10-08
+url: https://discourse.slicer.org/t/20063
+---
+
 # Save segmentation as PLY file
 
 **Topic ID**: 20063

@@ -1,3 +1,10 @@
+---
+topic_id: 3144
+title: "Procrustes Alignment"
+date: 2018-06-12
+url: https://discourse.slicer.org/t/3144
+---
+
 # Procrustes alignment 
 
 **Topic ID**: 3144

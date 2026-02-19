@@ -1,3 +1,10 @@
+---
+topic_id: 19732
+title: "Color Rgb Volume Rendering"
+date: 2021-09-17
+url: https://discourse.slicer.org/t/19732
+---
+
 # Color (RGB) volume rendering
 
 **Topic ID**: 19732

@@ -1,3 +1,10 @@
+---
+topic_id: 20033
+title: "Problem During Segmentation Of Mri Scans And Image Spacing"
+date: 2021-10-06
+url: https://discourse.slicer.org/t/20033
+---
+
 # Problem during segmentation of MRI scans and image spacing
 
 **Topic ID**: 20033

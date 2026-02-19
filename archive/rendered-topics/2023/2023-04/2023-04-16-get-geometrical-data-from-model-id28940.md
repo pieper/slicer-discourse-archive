@@ -1,3 +1,10 @@
+---
+topic_id: 28940
+title: "Get Geometrical Data From Model"
+date: 2023-04-16
+url: https://discourse.slicer.org/t/28940
+---
+
 # Get geometrical data from model
 
 **Topic ID**: 28940

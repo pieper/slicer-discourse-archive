@@ -1,3 +1,10 @@
+---
+topic_id: 21679
+title: "Data Copied From Windows To Mac"
+date: 2022-01-28
+url: https://discourse.slicer.org/t/21679
+---
+
 # Data copied from Windows to Mac
 
 **Topic ID**: 21679

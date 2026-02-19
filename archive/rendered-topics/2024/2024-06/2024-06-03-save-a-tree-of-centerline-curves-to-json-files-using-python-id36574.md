@@ -1,3 +1,10 @@
+---
+topic_id: 36574
+title: "Save A Tree Of Centerline Curves To Json Files Using Python"
+date: 2024-06-03
+url: https://discourse.slicer.org/t/36574
+---
+
 # Save a tree of centerline curves to json files using Python
 
 **Topic ID**: 36574

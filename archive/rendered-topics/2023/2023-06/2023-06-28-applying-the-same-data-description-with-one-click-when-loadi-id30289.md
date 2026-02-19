@@ -1,3 +1,10 @@
+---
+topic_id: 30289
+title: "Applying The Same Data Description With One Click When Loadi"
+date: 2023-06-28
+url: https://discourse.slicer.org/t/30289
+---
+
 # Applying the same data description with one click when loading multiple files
 
 **Topic ID**: 30289

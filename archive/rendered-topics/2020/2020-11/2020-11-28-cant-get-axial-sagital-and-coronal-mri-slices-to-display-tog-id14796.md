@@ -1,3 +1,10 @@
+---
+topic_id: 14796
+title: "Cant Get Axial Sagital And Coronal Mri Slices To Display Tog"
+date: 2020-11-28
+url: https://discourse.slicer.org/t/14796
+---
+
 # Can't get axial, sagital, and coronal MRI slices to display together like in tutorial
 
 **Topic ID**: 14796

@@ -1,3 +1,10 @@
+---
+topic_id: 35374
+title: "Painting Function Being Clipped"
+date: 2024-04-09
+url: https://discourse.slicer.org/t/35374
+---
+
 # painting function being clipped
 
 **Topic ID**: 35374

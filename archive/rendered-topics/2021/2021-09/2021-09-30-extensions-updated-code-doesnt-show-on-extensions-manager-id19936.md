@@ -1,3 +1,10 @@
+---
+topic_id: 19936
+title: "Extensions Updated Code Doesnt Show On Extensions Manager"
+date: 2021-09-30
+url: https://discourse.slicer.org/t/19936
+---
+
 # Extension's updated code doesn't show on Extensions Manager
 
 **Topic ID**: 19936

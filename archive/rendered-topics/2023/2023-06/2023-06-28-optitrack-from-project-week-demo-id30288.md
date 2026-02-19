@@ -1,3 +1,10 @@
+---
+topic_id: 30288
+title: "Optitrack From Project Week Demo"
+date: 2023-06-28
+url: https://discourse.slicer.org/t/30288
+---
+
 # OptiTrack from project week demo
 
 **Topic ID**: 30288

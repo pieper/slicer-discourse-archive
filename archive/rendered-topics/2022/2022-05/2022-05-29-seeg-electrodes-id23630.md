@@ -1,3 +1,10 @@
+---
+topic_id: 23630
+title: "Seeg Electrodes"
+date: 2022-05-29
+url: https://discourse.slicer.org/t/23630
+---
+
 # SEEG electrodes
 
 **Topic ID**: 23630

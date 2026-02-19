@@ -1,3 +1,10 @@
+---
+topic_id: 22147
+title: "Tutorial About How To Wriite A Segmentation Editor Effects P"
+date: 2022-02-24
+url: https://discourse.slicer.org/t/22147
+---
+
 # Tutorial about how to wriite a segmentation Editor Effects plugin
 
 **Topic ID**: 22147

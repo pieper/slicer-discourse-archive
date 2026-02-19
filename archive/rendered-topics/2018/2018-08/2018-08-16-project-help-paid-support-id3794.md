@@ -1,3 +1,10 @@
+---
+topic_id: 3794
+title: "Project Help Paid Support"
+date: 2018-08-16
+url: https://discourse.slicer.org/t/3794
+---
+
 # Project help - paid support
 
 **Topic ID**: 3794

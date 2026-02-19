@@ -1,3 +1,10 @@
+---
+topic_id: 40928
+title: "Reformat Mode In 2D Views When Loadind A Head Mri"
+date: 2025-01-02
+url: https://discourse.slicer.org/t/40928
+---
+
 # Reformat mode in 2D views when loadind a head mri
 
 **Topic ID**: 40928

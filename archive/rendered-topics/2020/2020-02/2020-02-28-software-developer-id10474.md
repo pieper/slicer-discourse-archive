@@ -1,3 +1,10 @@
+---
+topic_id: 10474
+title: "Software Developer"
+date: 2020-02-28
+url: https://discourse.slicer.org/t/10474
+---
+
 # Software developer
 
 **Topic ID**: 10474

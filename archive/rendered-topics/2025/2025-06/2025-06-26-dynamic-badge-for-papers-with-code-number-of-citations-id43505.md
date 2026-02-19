@@ -1,3 +1,10 @@
+---
+topic_id: 43505
+title: "Dynamic Badge For Papers With Code Number Of Citations"
+date: 2025-06-26
+url: https://discourse.slicer.org/t/43505
+---
+
 # Dynamic badge for papers with code, number of citations
 
 **Topic ID**: 43505

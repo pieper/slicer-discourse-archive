@@ -1,3 +1,10 @@
+---
+topic_id: 9909
+title: "Why Are My Segmentations Being Saved As Only The Bounding Bo"
+date: 2020-01-22
+url: https://discourse.slicer.org/t/9909
+---
+
 # Why are my segmentations being saved as only the bounding box size rather than the size of the original image?
 
 **Topic ID**: 9909

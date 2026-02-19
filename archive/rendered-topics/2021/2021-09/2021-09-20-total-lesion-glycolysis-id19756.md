@@ -1,3 +1,10 @@
+---
+topic_id: 19756
+title: "Total Lesion Glycolysis"
+date: 2021-09-20
+url: https://discourse.slicer.org/t/19756
+---
+
 # Total Lesion glycolysis
 
 **Topic ID**: 19756

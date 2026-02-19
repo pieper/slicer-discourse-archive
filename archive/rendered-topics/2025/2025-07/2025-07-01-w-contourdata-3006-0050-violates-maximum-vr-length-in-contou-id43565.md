@@ -1,3 +1,10 @@
+---
+topic_id: 43565
+title: "W Contourdata 3006 0050 Violates Maximum Vr Length In Contou"
+date: 2025-07-01
+url: https://discourse.slicer.org/t/43565
+---
+
 # W: ContourData (3006,0050) violates maximum VR length in ContourSequence
 
 **Topic ID**: 43565

@@ -1,3 +1,10 @@
+---
+topic_id: 25762
+title: "Problem With Elastix"
+date: 2022-10-18
+url: https://discourse.slicer.org/t/25762
+---
+
 # Problem with Elastix
 
 **Topic ID**: 25762

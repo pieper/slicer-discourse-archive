@@ -1,3 +1,10 @@
+---
+topic_id: 26554
+title: "Tls For Dicom Connections"
+date: 2022-12-02
+url: https://discourse.slicer.org/t/26554
+---
+
 # TLS for DICOM Connections?
 
 **Topic ID**: 26554

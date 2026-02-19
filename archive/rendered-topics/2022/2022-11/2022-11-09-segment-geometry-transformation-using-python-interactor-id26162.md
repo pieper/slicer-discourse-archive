@@ -1,3 +1,10 @@
+---
+topic_id: 26162
+title: "Segment Geometry Transformation Using Python Interactor"
+date: 2022-11-09
+url: https://discourse.slicer.org/t/26162
+---
+
 # Segment Geometry Transformation using python interactor
 
 **Topic ID**: 26162

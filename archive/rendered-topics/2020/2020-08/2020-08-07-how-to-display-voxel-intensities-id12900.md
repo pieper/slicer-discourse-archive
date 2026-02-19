@@ -1,3 +1,10 @@
+---
+topic_id: 12900
+title: "How To Display Voxel Intensities"
+date: 2020-08-07
+url: https://discourse.slicer.org/t/12900
+---
+
 # How to display voxel intensities
 
 **Topic ID**: 12900

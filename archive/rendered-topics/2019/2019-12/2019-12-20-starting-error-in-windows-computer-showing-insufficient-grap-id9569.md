@@ -1,3 +1,10 @@
+---
+topic_id: 9569
+title: "Starting Error In Windows Computer Showing Insufficient Grap"
+date: 2019-12-20
+url: https://discourse.slicer.org/t/9569
+---
+
 # Starting Error in Windows computer showing Insufficient Graphics capability
 
 **Topic ID**: 9569

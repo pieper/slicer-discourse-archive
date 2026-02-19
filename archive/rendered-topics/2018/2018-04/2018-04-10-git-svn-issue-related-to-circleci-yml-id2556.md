@@ -1,3 +1,10 @@
+---
+topic_id: 2556
+title: "Git Svn Issue Related To Circleci Yml"
+date: 2018-04-10
+url: https://discourse.slicer.org/t/2556
+---
+
 # Git svn issue related to circleci.yml
 
 **Topic ID**: 2556

@@ -1,3 +1,10 @@
+---
+topic_id: 28566
+title: "Min Distance Between A Curvenode And Another Node"
+date: 2023-03-24
+url: https://discourse.slicer.org/t/28566
+---
+
 # Min distance between a curveNode and another node?
 
 **Topic ID**: 28566

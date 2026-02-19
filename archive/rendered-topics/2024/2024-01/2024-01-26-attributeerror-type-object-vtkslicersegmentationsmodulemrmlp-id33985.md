@@ -1,3 +1,10 @@
+---
+topic_id: 33985
+title: "Attributeerror Type Object Vtkslicersegmentationsmodulemrmlp"
+date: 2024-01-26
+url: https://discourse.slicer.org/t/33985
+---
+
 # AttributeError: type object 'vtkSlicerSegmentationsModuleMRMLPython.vtkMRMLSegm' has no attribute 'PaintAllowedEverywhere'
 
 **Topic ID**: 33985

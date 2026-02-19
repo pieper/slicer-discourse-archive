@@ -1,3 +1,10 @@
+---
+topic_id: 10775
+title: "Sequence Browser Proxy Node Data Types"
+date: 2020-03-22
+url: https://discourse.slicer.org/t/10775
+---
+
 # Sequence browser - proxy node data types?
 
 **Topic ID**: 10775

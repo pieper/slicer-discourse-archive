@@ -1,3 +1,10 @@
+---
+topic_id: 19154
+title: "Export Fiducials And 3D Models"
+date: 2021-08-11
+url: https://discourse.slicer.org/t/19154
+---
+
 # export fiducials and 3d models
 
 **Topic ID**: 19154

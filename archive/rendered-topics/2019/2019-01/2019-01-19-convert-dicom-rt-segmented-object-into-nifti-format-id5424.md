@@ -1,3 +1,10 @@
+---
+topic_id: 5424
+title: "Convert Dicom Rt Segmented Object Into Nifti Format"
+date: 2019-01-19
+url: https://discourse.slicer.org/t/5424
+---
+
 # Convert DICOM-RT segmented object into NIFTI format
 
 **Topic ID**: 5424

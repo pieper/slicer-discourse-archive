@@ -1,3 +1,10 @@
+---
+topic_id: 36071
+title: "Slicer Crashing Before Running Out Of Memory"
+date: 2024-05-10
+url: https://discourse.slicer.org/t/36071
+---
+
 # Slicer crashing before running out of memory
 
 **Topic ID**: 36071

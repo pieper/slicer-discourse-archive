@@ -1,3 +1,10 @@
+---
+topic_id: 12193
+title: "Shape Analysis Interpretation"
+date: 2020-06-24
+url: https://discourse.slicer.org/t/12193
+---
+
 # Shape analysis interpretation
 
 **Topic ID**: 12193

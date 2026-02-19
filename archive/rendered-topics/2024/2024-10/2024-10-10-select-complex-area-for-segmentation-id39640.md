@@ -1,3 +1,10 @@
+---
+topic_id: 39640
+title: "Select Complex Area For Segmentation"
+date: 2024-10-10
+url: https://discourse.slicer.org/t/39640
+---
+
 # Select complex area for segmentation
 
 **Topic ID**: 39640

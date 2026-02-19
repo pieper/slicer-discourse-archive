@@ -1,3 +1,10 @@
+---
+topic_id: 20948
+title: "Can Python Interpretor Be Used To Call Slicer Igt Create Mod"
+date: 2021-12-07
+url: https://discourse.slicer.org/t/20948
+---
+
 # Can Python interpretor be used to call Slicer IGT "create models" ?
 
 **Topic ID**: 20948

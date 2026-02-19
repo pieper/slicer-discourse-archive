@@ -1,3 +1,10 @@
+---
+topic_id: 4133
+title: "How To Handle Images Defined In Left Handed Coordinate Syste"
+date: 2018-09-17
+url: https://discourse.slicer.org/t/4133
+---
+
 # How to handle images defined in left-handed coordinate system
 
 **Topic ID**: 4133

@@ -1,3 +1,10 @@
+---
+topic_id: 3257
+title: "Load Dicom Series Using Python"
+date: 2018-06-21
+url: https://discourse.slicer.org/t/3257
+---
+
 # Load DICOM series using python
 
 **Topic ID**: 3257

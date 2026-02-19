@@ -1,3 +1,10 @@
+---
+topic_id: 8364
+title: "Stl Models Alignment And Volume Measurement"
+date: 2019-09-10
+url: https://discourse.slicer.org/t/8364
+---
+
 # STL models - Alignment and Volume measurement
 
 **Topic ID**: 8364

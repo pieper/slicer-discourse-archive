@@ -1,3 +1,10 @@
+---
+topic_id: 40730
+title: "Data Format Of The Probabilistic Segmentation Map For Ukf Tr"
+date: 2024-12-17
+url: https://discourse.slicer.org/t/40730
+---
+
 # Data format of the probabilistic segmentation map for UKF Tractography module?
 
 **Topic ID**: 40730

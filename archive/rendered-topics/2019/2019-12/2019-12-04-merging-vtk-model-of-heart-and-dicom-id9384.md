@@ -1,3 +1,10 @@
+---
+topic_id: 9384
+title: "Merging Vtk Model Of Heart And Dicom"
+date: 2019-12-04
+url: https://discourse.slicer.org/t/9384
+---
+
 # Merging VTK model of Heart and DICOM
 
 **Topic ID**: 9384

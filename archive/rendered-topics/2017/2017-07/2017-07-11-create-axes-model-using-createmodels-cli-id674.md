@@ -1,3 +1,10 @@
+---
+topic_id: 674
+title: "Create Axes Model Using Createmodels Cli"
+date: 2017-07-11
+url: https://discourse.slicer.org/t/674
+---
+
 # Create Axes Model using CreateModels CLI
 
 **Topic ID**: 674

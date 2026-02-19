@@ -1,3 +1,10 @@
+---
+topic_id: 19281
+title: "How To Prevent Slicer From Getting Could Not Load 997 Dose R"
+date: 2021-08-20
+url: https://discourse.slicer.org/t/19281
+---
+
 # How to prevent Slicer from getting "Could not load: 997 Dose record as a scalar volume" error and having black screen with white dots?
 
 **Topic ID**: 19281

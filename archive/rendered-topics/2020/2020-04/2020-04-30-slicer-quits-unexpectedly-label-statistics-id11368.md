@@ -1,3 +1,10 @@
+---
+topic_id: 11368
+title: "Slicer Quits Unexpectedly Label Statistics"
+date: 2020-04-30
+url: https://discourse.slicer.org/t/11368
+---
+
 # Slicer quits unexpectedly - Label statistics
 
 **Topic ID**: 11368

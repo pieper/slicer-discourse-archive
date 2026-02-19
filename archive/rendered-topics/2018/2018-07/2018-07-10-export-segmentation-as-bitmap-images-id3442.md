@@ -1,3 +1,10 @@
+---
+topic_id: 3442
+title: "Export Segmentation As Bitmap Images"
+date: 2018-07-10
+url: https://discourse.slicer.org/t/3442
+---
+
 # Export segmentation as bitmap images
 
 **Topic ID**: 3442

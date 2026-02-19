@@ -1,3 +1,10 @@
+---
+topic_id: 18442
+title: "Typing Custom Coordinates To Edit A Fiducial"
+date: 2021-06-30
+url: https://discourse.slicer.org/t/18442
+---
+
 # Typing custom coordinates to edit a fiducial
 
 **Topic ID**: 18442

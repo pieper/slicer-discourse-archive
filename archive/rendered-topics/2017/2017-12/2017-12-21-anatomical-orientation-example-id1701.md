@@ -1,3 +1,10 @@
+---
+topic_id: 1701
+title: "Anatomical Orientation Example"
+date: 2017-12-21
+url: https://discourse.slicer.org/t/1701
+---
+
 # Anatomical Orientation Example
 
 **Topic ID**: 1701

@@ -1,3 +1,10 @@
+---
+topic_id: 9536
+title: "Ai Assisted Segmentation Extension"
+date: 2019-12-17
+url: https://discourse.slicer.org/t/9536
+---
+
 # AI-assisted segmentation extension
 
 **Topic ID**: 9536

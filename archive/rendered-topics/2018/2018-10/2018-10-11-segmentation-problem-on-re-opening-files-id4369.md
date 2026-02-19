@@ -1,3 +1,10 @@
+---
+topic_id: 4369
+title: "Segmentation Problem On Re Opening Files"
+date: 2018-10-11
+url: https://discourse.slicer.org/t/4369
+---
+
 # Segmentation, problem on re-opening files
 
 **Topic ID**: 4369

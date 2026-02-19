@@ -1,3 +1,10 @@
+---
+topic_id: 15250
+title: "Dicom Information Table With No Complete Information"
+date: 2020-12-28
+url: https://discourse.slicer.org/t/15250
+---
+
 # DICOM information table with no complete information
 
 **Topic ID**: 15250

@@ -1,3 +1,10 @@
+---
+topic_id: 11860
+title: "Editing Roi Through Segment Editor"
+date: 2020-06-04
+url: https://discourse.slicer.org/t/11860
+---
+
 # Editing ROI through segment editor
 
 **Topic ID**: 11860

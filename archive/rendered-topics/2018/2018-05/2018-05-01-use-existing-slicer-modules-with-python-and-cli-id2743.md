@@ -1,3 +1,10 @@
+---
+topic_id: 2743
+title: "Use Existing Slicer Modules With Python And Cli"
+date: 2018-05-01
+url: https://discourse.slicer.org/t/2743
+---
+
 # Use existing slicer modules with python and cli
 
 **Topic ID**: 2743

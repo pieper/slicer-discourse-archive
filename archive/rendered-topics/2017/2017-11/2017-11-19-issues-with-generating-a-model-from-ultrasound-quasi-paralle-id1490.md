@@ -1,3 +1,10 @@
+---
+topic_id: 1490
+title: "Issues With Generating A Model From Ultrasound Quasi Paralle"
+date: 2017-11-19
+url: https://discourse.slicer.org/t/1490
+---
+
 # Issues with generating a model from ultrasound quasi-parallel slices
 
 **Topic ID**: 1490

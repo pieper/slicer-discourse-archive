@@ -1,3 +1,10 @@
+---
+topic_id: 1788
+title: "Calculating Margin Between Two Superimposed Segments"
+date: 2018-01-08
+url: https://discourse.slicer.org/t/1788
+---
+
 # Calculating margin between two superimposed segments
 
 **Topic ID**: 1788

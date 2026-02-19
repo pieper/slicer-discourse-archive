@@ -1,3 +1,10 @@
+---
+topic_id: 16643
+title: "Nvidia Aiaa Default Server Error When Running Auto Segmentat"
+date: 2021-03-19
+url: https://discourse.slicer.org/t/16643
+---
+
 # NVIDIA AIAA default server error when running auto-segmentation
 
 **Topic ID**: 16643

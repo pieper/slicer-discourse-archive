@@ -1,3 +1,10 @@
+---
+topic_id: 16805
+title: "Export Segmentation In Dicom Rt Format"
+date: 2021-03-28
+url: https://discourse.slicer.org/t/16805
+---
+
 # Export Segmentation in DICOM-RT format
 
 **Topic ID**: 16805

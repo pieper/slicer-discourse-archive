@@ -1,3 +1,10 @@
+---
+topic_id: 15566
+title: "How To Split The Segmentation Into Two"
+date: 2021-01-17
+url: https://discourse.slicer.org/t/15566
+---
+
 # How to split the segmentation into two
 
 **Topic ID**: 15566

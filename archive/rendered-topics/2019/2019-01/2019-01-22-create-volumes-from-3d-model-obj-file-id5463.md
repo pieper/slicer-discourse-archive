@@ -1,3 +1,10 @@
+---
+topic_id: 5463
+title: "Create Volumes From 3D Model Obj File"
+date: 2019-01-22
+url: https://discourse.slicer.org/t/5463
+---
+
 # Create volumes from 3D model (*.obj file)
 
 **Topic ID**: 5463

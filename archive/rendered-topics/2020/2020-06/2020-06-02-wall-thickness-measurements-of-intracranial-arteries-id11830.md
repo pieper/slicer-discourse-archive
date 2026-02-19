@@ -1,3 +1,10 @@
+---
+topic_id: 11830
+title: "Wall Thickness Measurements Of Intracranial Arteries"
+date: 2020-06-02
+url: https://discourse.slicer.org/t/11830
+---
+
 # wall thickness measurements of intracranial arteries
 
 **Topic ID**: 11830

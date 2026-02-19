@@ -1,3 +1,10 @@
+---
+topic_id: 3518
+title: "Slicer 4 9 0 Build Error"
+date: 2018-07-19
+url: https://discourse.slicer.org/t/3518
+---
+
 # Slicer 4.9.0 build error
 
 **Topic ID**: 3518

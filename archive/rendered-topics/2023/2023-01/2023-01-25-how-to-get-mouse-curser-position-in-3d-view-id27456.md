@@ -1,3 +1,10 @@
+---
+topic_id: 27456
+title: "How To Get Mouse Curser Position In 3D View"
+date: 2023-01-25
+url: https://discourse.slicer.org/t/27456
+---
+
 # How to get mouse curser position in 3D view?
 
 **Topic ID**: 27456

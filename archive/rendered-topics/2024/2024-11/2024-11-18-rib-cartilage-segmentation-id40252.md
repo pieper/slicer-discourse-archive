@@ -1,3 +1,10 @@
+---
+topic_id: 40252
+title: "Rib Cartilage Segmentation"
+date: 2024-11-18
+url: https://discourse.slicer.org/t/40252
+---
+
 # rib cartilage segmentation
 
 **Topic ID**: 40252

@@ -1,3 +1,10 @@
+---
+topic_id: 10808
+title: "How To Get Informationpane From Models Module In Python"
+date: 2020-03-24
+url: https://discourse.slicer.org/t/10808
+---
+
 # How to get InformationPane from Models Module in Python
 
 **Topic ID**: 10808

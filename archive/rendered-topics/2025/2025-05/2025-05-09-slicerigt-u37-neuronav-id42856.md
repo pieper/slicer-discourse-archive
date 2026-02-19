@@ -1,3 +1,10 @@
+---
+topic_id: 42856
+title: "Slicerigt U37 Neuronav"
+date: 2025-05-09
+url: https://discourse.slicer.org/t/42856
+---
+
 # SlicerIGT-U37_NeuroNav
 
 **Topic ID**: 42856

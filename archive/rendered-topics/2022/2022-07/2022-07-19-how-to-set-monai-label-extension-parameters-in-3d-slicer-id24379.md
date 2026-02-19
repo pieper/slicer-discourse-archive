@@ -1,3 +1,10 @@
+---
+topic_id: 24379
+title: "How To Set Monai Label Extension Parameters In 3D Slicer"
+date: 2022-07-19
+url: https://discourse.slicer.org/t/24379
+---
+
 # How to set MONAI Label extension parameters in 3D Slicer
 
 **Topic ID**: 24379

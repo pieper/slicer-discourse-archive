@@ -1,3 +1,10 @@
+---
+topic_id: 39783
+title: "Control Point Modified Event Is Not Fired"
+date: 2024-10-21
+url: https://discourse.slicer.org/t/39783
+---
+
 # Control point modified event is not fired
 
 **Topic ID**: 39783

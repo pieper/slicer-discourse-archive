@@ -1,3 +1,10 @@
+---
+topic_id: 13178
+title: "Problem Upgrading Extension"
+date: 2020-08-26
+url: https://discourse.slicer.org/t/13178
+---
+
 # Problem upgrading extension
 
 **Topic ID**: 13178

@@ -1,3 +1,10 @@
+---
+topic_id: 20458
+title: "Exporting Planned Trajectories From Slicer To Stealth System"
+date: 2021-11-02
+url: https://discourse.slicer.org/t/20458
+---
+
 # Exporting planned trajectories from Slicer to Stealth System
 
 **Topic ID**: 20458

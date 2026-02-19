@@ -1,3 +1,10 @@
+---
+topic_id: 9673
+title: "Create Curve From Many Input Points"
+date: 2019-12-31
+url: https://discourse.slicer.org/t/9673
+---
+
 # Create curve from many input points
 
 **Topic ID**: 9673

@@ -1,3 +1,10 @@
+---
+topic_id: 33419
+title: "A Problem About Window Leveling Mapping Issues"
+date: 2023-12-17
+url: https://discourse.slicer.org/t/33419
+---
+
 # A problem about  window_leveling mapping issues
 
 **Topic ID**: 33419

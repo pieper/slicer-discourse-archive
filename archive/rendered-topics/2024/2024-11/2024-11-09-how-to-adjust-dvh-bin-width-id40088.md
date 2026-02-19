@@ -1,3 +1,10 @@
+---
+topic_id: 40088
+title: "How To Adjust Dvh Bin Width"
+date: 2024-11-09
+url: https://discourse.slicer.org/t/40088
+---
+
 # How to adjust DVH bin width?
 
 **Topic ID**: 40088

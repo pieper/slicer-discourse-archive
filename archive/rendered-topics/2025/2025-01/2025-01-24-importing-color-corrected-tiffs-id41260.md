@@ -1,3 +1,10 @@
+---
+topic_id: 41260
+title: "Importing Color Corrected Tiffs"
+date: 2025-01-24
+url: https://discourse.slicer.org/t/41260
+---
+
 # Importing Color-Corrected TIFFs
 
 **Topic ID**: 41260

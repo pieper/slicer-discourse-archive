@@ -1,3 +1,10 @@
+---
+topic_id: 25404
+title: "3Rd Proxy Works Only In Sequencebrowser 1 But Not In Seqbrow"
+date: 2022-09-22
+url: https://discourse.slicer.org/t/25404
+---
+
 # 3rd Proxy works only in SequenceBrowser 1, but not in SeqBrowser 2. What happened with the Scene file?
 
 **Topic ID**: 25404

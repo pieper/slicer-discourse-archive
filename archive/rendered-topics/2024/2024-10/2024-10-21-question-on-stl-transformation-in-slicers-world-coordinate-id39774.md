@@ -1,3 +1,10 @@
+---
+topic_id: 39774
+title: "Question On Stl Transformation In Slicers World Coordinate"
+date: 2024-10-21
+url: https://discourse.slicer.org/t/39774
+---
+
 # Question on STL transformation in slicer's world coordinate
 
 **Topic ID**: 39774

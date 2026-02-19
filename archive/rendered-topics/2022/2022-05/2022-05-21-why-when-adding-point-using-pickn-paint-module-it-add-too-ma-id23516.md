@@ -1,3 +1,10 @@
+---
+topic_id: 23516
+title: "Why When Adding Point Using Pickn Paint Module It Add Too Ma"
+date: 2022-05-21
+url: https://discourse.slicer.org/t/23516
+---
+
 # Why when adding point using Pick'n paint module it add too many points?
 
 **Topic ID**: 23516

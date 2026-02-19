@@ -1,3 +1,10 @@
+---
+topic_id: 15254
+title: "Mammographic Tumer Identification"
+date: 2020-12-28
+url: https://discourse.slicer.org/t/15254
+---
+
 # Mammographic tumer identification
 
 **Topic ID**: 15254

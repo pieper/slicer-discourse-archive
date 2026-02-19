@@ -1,3 +1,10 @@
+---
+topic_id: 19142
+title: "Is There A Way To Segment Stenotic Coronary Arteries"
+date: 2021-08-10
+url: https://discourse.slicer.org/t/19142
+---
+
 # Is there a way to segment stenotic coronary arteries?
 
 **Topic ID**: 19142

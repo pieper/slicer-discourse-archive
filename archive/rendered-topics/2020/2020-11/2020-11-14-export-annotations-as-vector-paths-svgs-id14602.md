@@ -1,3 +1,10 @@
+---
+topic_id: 14602
+title: "Export Annotations As Vector Paths Svgs"
+date: 2020-11-14
+url: https://discourse.slicer.org/t/14602
+---
+
 # Export annotations as vector paths / svgs
 
 **Topic ID**: 14602

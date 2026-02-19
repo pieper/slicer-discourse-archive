@@ -1,3 +1,10 @@
+---
+topic_id: 23597
+title: "Elastix License Information"
+date: 2022-05-26
+url: https://discourse.slicer.org/t/23597
+---
+
 # Elastix License Information
 
 **Topic ID**: 23597

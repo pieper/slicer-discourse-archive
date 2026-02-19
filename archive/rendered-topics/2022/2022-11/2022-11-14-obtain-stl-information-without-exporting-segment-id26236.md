@@ -1,3 +1,10 @@
+---
+topic_id: 26236
+title: "Obtain Stl Information Without Exporting Segment"
+date: 2022-11-14
+url: https://discourse.slicer.org/t/26236
+---
+
 # Obtain STL information without exporting segment
 
 **Topic ID**: 26236

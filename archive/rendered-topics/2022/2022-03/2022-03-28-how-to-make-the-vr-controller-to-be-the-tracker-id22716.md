@@ -1,3 +1,10 @@
+---
+topic_id: 22716
+title: "How To Make The Vr Controller To Be The Tracker"
+date: 2022-03-28
+url: https://discourse.slicer.org/t/22716
+---
+
 # How to make the VR controller to be the tracker
 
 **Topic ID**: 22716

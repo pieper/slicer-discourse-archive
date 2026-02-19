@@ -1,3 +1,10 @@
+---
+topic_id: 22384
+title: "Slicer Throwing Error When Selecting Jump Slices From Segmen"
+date: 2022-03-08
+url: https://discourse.slicer.org/t/22384
+---
+
 # Slicer throwing error when selecting jump slices from segment table view
 
 **Topic ID**: 22384

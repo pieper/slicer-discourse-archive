@@ -1,3 +1,10 @@
+---
+topic_id: 26519
+title: "Dscmri Analysis Parameter Question"
+date: 2022-11-30
+url: https://discourse.slicer.org/t/26519
+---
+
 # DSCMRI Analysis parameter question
 
 **Topic ID**: 26519

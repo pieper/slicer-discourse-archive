@@ -1,3 +1,10 @@
+---
+topic_id: 7298
+title: "Cuda Version For Build Machines"
+date: 2019-06-24
+url: https://discourse.slicer.org/t/7298
+---
+
 # CUDA version for build machines
 
 **Topic ID**: 7298

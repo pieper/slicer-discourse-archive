@@ -1,3 +1,10 @@
+---
+topic_id: 40318
+title: "Struggling With Suv Quantification In Roi"
+date: 2024-11-21
+url: https://discourse.slicer.org/t/40318
+---
+
 # Struggling with SUV quantification in ROI
 
 **Topic ID**: 40318

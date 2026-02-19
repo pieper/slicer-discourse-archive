@@ -1,3 +1,10 @@
+---
+topic_id: 3100
+title: "Project Pages For Pw28"
+date: 2018-06-07
+url: https://discourse.slicer.org/t/3100
+---
+
 # Project pages for PW28
 
 **Topic ID**: 3100

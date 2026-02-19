@@ -1,3 +1,10 @@
+---
+topic_id: 512
+title: "Transformation Does Not Match Registration"
+date: 2017-06-15
+url: https://discourse.slicer.org/t/512
+---
+
 # Transformation does not match registration
 
 **Topic ID**: 512

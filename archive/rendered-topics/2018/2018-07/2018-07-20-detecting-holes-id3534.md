@@ -1,3 +1,10 @@
+---
+topic_id: 3534
+title: "Detecting Holes"
+date: 2018-07-20
+url: https://discourse.slicer.org/t/3534
+---
+
 # Detecting holes
 
 **Topic ID**: 3534

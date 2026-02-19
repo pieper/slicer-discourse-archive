@@ -1,3 +1,10 @@
+---
+topic_id: 6073
+title: "Identify Dicom Image Contrast"
+date: 2019-03-08
+url: https://discourse.slicer.org/t/6073
+---
+
 # Identify Dicom image contrast
 
 **Topic ID**: 6073

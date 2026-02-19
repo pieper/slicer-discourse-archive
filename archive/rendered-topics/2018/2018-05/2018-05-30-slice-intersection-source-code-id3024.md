@@ -1,3 +1,10 @@
+---
+topic_id: 3024
+title: "Slice Intersection Source Code"
+date: 2018-05-30
+url: https://discourse.slicer.org/t/3024
+---
+
 # Slice intersection source code
 
 **Topic ID**: 3024

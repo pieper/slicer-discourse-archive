@@ -1,3 +1,10 @@
+---
+topic_id: 36481
+title: "Testing For Extension Automated Ci Cd And Self Test"
+date: 2024-05-30
+url: https://discourse.slicer.org/t/36481
+---
+
 # Testing for Extension: Automated CI/CD and Self Test
 
 **Topic ID**: 36481

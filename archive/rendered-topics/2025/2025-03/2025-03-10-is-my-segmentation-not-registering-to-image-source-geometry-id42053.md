@@ -1,3 +1,10 @@
+---
+topic_id: 42053
+title: "Is My Segmentation Not Registering To Image Source Geometry"
+date: 2025-03-10
+url: https://discourse.slicer.org/t/42053
+---
+
 # Is my segmentation not registering to image (source geometry) properly?
 
 **Topic ID**: 42053

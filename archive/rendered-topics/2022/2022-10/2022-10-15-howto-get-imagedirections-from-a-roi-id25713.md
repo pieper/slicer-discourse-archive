@@ -1,3 +1,10 @@
+---
+topic_id: 25713
+title: "Howto Get Imagedirections From A Roi"
+date: 2022-10-15
+url: https://discourse.slicer.org/t/25713
+---
+
 # Howto get imageDirections from a ROI?
 
 **Topic ID**: 25713

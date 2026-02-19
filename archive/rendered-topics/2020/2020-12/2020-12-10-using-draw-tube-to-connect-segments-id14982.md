@@ -1,3 +1,10 @@
+---
+topic_id: 14982
+title: "Using Draw Tube To Connect Segments"
+date: 2020-12-10
+url: https://discourse.slicer.org/t/14982
+---
+
 # Using draw tube to connect segments
 
 **Topic ID**: 14982

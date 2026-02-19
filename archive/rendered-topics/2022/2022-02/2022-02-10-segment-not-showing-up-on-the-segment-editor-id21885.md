@@ -1,3 +1,10 @@
+---
+topic_id: 21885
+title: "Segment Not Showing Up On The Segment Editor"
+date: 2022-02-10
+url: https://discourse.slicer.org/t/21885
+---
+
 # Segment not showing up on the segment editor
 
 **Topic ID**: 21885

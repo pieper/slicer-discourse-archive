@@ -1,3 +1,10 @@
+---
+topic_id: 38059
+title: "Hi Everyone How To Calculate Bone Mineral Density"
+date: 2024-08-27
+url: https://discourse.slicer.org/t/38059
+---
+
 # Hi Everyone, how to calculate bone mineral density
 
 **Topic ID**: 38059

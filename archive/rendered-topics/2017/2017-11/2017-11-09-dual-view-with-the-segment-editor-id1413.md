@@ -1,3 +1,10 @@
+---
+topic_id: 1413
+title: "Dual View With The Segment Editor"
+date: 2017-11-09
+url: https://discourse.slicer.org/t/1413
+---
+
 # Dual view with the segment editor
 
 **Topic ID**: 1413

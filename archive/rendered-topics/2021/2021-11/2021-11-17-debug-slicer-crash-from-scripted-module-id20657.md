@@ -1,3 +1,10 @@
+---
+topic_id: 20657
+title: "Debug Slicer Crash From Scripted Module"
+date: 2021-11-17
+url: https://discourse.slicer.org/t/20657
+---
+
 # Debug Slicer crash from scripted module
 
 **Topic ID**: 20657

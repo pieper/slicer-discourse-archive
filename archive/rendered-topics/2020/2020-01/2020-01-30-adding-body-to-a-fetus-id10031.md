@@ -1,3 +1,10 @@
+---
+topic_id: 10031
+title: "Adding Body To A Fetus"
+date: 2020-01-30
+url: https://discourse.slicer.org/t/10031
+---
+
 # Adding body to a Fetus
 
 **Topic ID**: 10031

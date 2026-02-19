@@ -1,3 +1,10 @@
+---
+topic_id: 13198
+title: "Fiducial Spheres Are Distorted Near The Edge Of 3D Views In"
+date: 2020-08-27
+url: https://discourse.slicer.org/t/13198
+---
+
 # Fiducial spheres are distorted near the edge of 3D views in orthographic display
 
 **Topic ID**: 13198

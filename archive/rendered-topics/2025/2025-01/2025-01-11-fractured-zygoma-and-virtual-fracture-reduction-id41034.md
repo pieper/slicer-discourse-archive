@@ -1,3 +1,10 @@
+---
+topic_id: 41034
+title: "Fractured Zygoma And Virtual Fracture Reduction"
+date: 2025-01-11
+url: https://discourse.slicer.org/t/41034
+---
+
 # Fractured zygoma and virtual fracture reduction
 
 **Topic ID**: 41034

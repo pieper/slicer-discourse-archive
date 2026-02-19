@@ -1,3 +1,10 @@
+---
+topic_id: 16401
+title: "How To Run Slicer On The Cloud And Access In A Web Browser"
+date: 2021-03-06
+url: https://discourse.slicer.org/t/16401
+---
+
 # How to run Slicer on the cloud and access in a web browser
 
 **Topic ID**: 16401

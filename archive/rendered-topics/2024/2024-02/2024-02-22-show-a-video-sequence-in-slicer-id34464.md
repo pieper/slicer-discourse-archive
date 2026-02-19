@@ -1,3 +1,10 @@
+---
+topic_id: 34464
+title: "Show A Video Sequence In Slicer"
+date: 2024-02-22
+url: https://discourse.slicer.org/t/34464
+---
+
 # Show a video sequence in Slicer
 
 **Topic ID**: 34464

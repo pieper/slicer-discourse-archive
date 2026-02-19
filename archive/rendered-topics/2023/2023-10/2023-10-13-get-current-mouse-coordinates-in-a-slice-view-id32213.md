@@ -1,3 +1,10 @@
+---
+topic_id: 32213
+title: "Get Current Mouse Coordinates In A Slice View"
+date: 2023-10-13
+url: https://discourse.slicer.org/t/32213
+---
+
 # Get current mouse coordinates in a slice view
 
 **Topic ID**: 32213

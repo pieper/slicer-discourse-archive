@@ -1,3 +1,10 @@
+---
+topic_id: 13780
+title: "Multi Segment Workflow"
+date: 2020-09-30
+url: https://discourse.slicer.org/t/13780
+---
+
 # Multi-segment workflow?
 
 **Topic ID**: 13780

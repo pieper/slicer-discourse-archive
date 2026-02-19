@@ -1,3 +1,10 @@
+---
+topic_id: 18494
+title: "Enable Markup Plane Visibility Programmatically"
+date: 2021-07-02
+url: https://discourse.slicer.org/t/18494
+---
+
 # Enable markup plane visibility programmatically
 
 **Topic ID**: 18494

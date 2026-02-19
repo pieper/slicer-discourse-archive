@@ -1,3 +1,10 @@
+---
+topic_id: 8910
+title: "Project Annotation Ruler Text In Slice View"
+date: 2019-10-26
+url: https://discourse.slicer.org/t/8910
+---
+
 # Project annotation ruler text in slice view
 
 **Topic ID**: 8910

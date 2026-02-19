@@ -1,3 +1,10 @@
+---
+topic_id: 20187
+title: "Exporting 2 Volumes As A Stack Of Image Files Png"
+date: 2021-10-16
+url: https://discourse.slicer.org/t/20187
+---
+
 # Exporting 2 volumes as a stack of image files (PNG).
 
 **Topic ID**: 20187

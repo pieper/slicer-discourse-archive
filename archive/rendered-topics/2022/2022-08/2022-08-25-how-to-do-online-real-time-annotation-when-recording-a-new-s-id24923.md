@@ -1,3 +1,10 @@
+---
+topic_id: 24923
+title: "How To Do Online Real Time Annotation When Recording A New S"
+date: 2022-08-25
+url: https://discourse.slicer.org/t/24923
+---
+
 # How to do online (real-time) annotation when recording a new sequence of ultrasound stream using the module "Sequences"?
 
 **Topic ID**: 24923

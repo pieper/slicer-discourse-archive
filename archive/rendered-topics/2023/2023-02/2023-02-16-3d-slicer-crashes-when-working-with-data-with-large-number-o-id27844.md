@@ -1,3 +1,10 @@
+---
+topic_id: 27844
+title: "3D Slicer Crashes When Working With Data With Large Number O"
+date: 2023-02-16
+url: https://discourse.slicer.org/t/27844
+---
+
 # 3D Slicer Crashes When Working With Data With Large Number of Slices
 
 **Topic ID**: 27844

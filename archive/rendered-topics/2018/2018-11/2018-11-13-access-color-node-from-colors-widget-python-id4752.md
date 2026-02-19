@@ -1,3 +1,10 @@
+---
+topic_id: 4752
+title: "Access Color Node From Colors Widget Python"
+date: 2018-11-13
+url: https://discourse.slicer.org/t/4752
+---
+
 # Access Color Node from Colors Widget (python)
 
 **Topic ID**: 4752

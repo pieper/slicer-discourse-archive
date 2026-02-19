@@ -1,3 +1,10 @@
+---
+topic_id: 40639
+title: "What Is The Advantage Of Radiomics Features Over Deeplearnin"
+date: 2024-12-11
+url: https://discourse.slicer.org/t/40639
+---
+
 # What is the advantage of Radiomics features over Deeplearning features?
 
 **Topic ID**: 40639

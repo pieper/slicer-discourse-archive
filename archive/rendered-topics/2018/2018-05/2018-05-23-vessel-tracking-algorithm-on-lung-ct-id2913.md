@@ -1,3 +1,10 @@
+---
+topic_id: 2913
+title: "Vessel Tracking Algorithm On Lung Ct"
+date: 2018-05-23
+url: https://discourse.slicer.org/t/2913
+---
+
 # Vessel tracking algorithm on lung CT
 
 **Topic ID**: 2913

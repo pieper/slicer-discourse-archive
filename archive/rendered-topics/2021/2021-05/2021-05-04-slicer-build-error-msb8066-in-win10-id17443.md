@@ -1,3 +1,10 @@
+---
+topic_id: 17443
+title: "Slicer Build Error Msb8066 In Win10"
+date: 2021-05-04
+url: https://discourse.slicer.org/t/17443
+---
+
 # Slicer Build error:MSB8066  in Win10
 
 **Topic ID**: 17443

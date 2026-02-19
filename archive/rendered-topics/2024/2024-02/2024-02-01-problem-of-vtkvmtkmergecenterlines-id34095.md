@@ -1,3 +1,10 @@
+---
+topic_id: 34095
+title: "Problem Of Vtkvmtkmergecenterlines"
+date: 2024-02-01
+url: https://discourse.slicer.org/t/34095
+---
+
 # Problem of vtkvmtkMergeCenterlines
 
 **Topic ID**: 34095

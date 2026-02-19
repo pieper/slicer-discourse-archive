@@ -1,3 +1,10 @@
+---
+topic_id: 17512
+title: "Vtkaddon With Vtk 8 2 0 Build Fails With C 17"
+date: 2021-05-07
+url: https://discourse.slicer.org/t/17512
+---
+
 # vtkAddon with VTK 8.2.0 build fails with C++17
 
 **Topic ID**: 17512

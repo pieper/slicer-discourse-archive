@@ -1,3 +1,10 @@
+---
+topic_id: 34618
+title: "Str Converted File To Labelmap Is Erroneous"
+date: 2024-02-29
+url: https://discourse.slicer.org/t/34618
+---
+
 # str-converted file to labelmap is erroneous
 
 **Topic ID**: 34618

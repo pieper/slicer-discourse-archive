@@ -1,3 +1,10 @@
+---
+topic_id: 45830
+title: "Unable To Read The Dicom Scalar Volume"
+date: 2026-01-19
+url: https://discourse.slicer.org/t/45830
+---
+
 # Unable to read the DICOM "scalar volume" 
 
 **Topic ID**: 45830

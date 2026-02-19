@@ -1,3 +1,10 @@
+---
+topic_id: 1556
+title: "Tip For Manual Downloading Of Extensions"
+date: 2017-11-29
+url: https://discourse.slicer.org/t/1556
+---
+
 # Tip for manual downloading of Extensions
 
 **Topic ID**: 1556

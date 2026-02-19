@@ -1,3 +1,10 @@
+---
+topic_id: 35788
+title: "Pulmonary Vessels Segmentation With Monai"
+date: 2024-04-29
+url: https://discourse.slicer.org/t/35788
+---
+
 # Pulmonary vessels segmentation with MONAI
 
 **Topic ID**: 35788

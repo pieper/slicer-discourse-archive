@@ -1,3 +1,10 @@
+---
+topic_id: 40967
+title: "Need Help On Slice Interaction"
+date: 2025-01-06
+url: https://discourse.slicer.org/t/40967
+---
+
 # Need help on Slice Interaction
 
 **Topic ID**: 40967

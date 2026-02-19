@@ -1,3 +1,10 @@
+---
+topic_id: 15943
+title: "Spharm Pdm Alignment"
+date: 2021-02-10
+url: https://discourse.slicer.org/t/15943
+---
+
 # SPHARM-PDM alignment 
 
 **Topic ID**: 15943

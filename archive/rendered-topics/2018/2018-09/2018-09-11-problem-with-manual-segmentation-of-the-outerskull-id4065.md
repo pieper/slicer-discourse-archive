@@ -1,3 +1,10 @@
+---
+topic_id: 4065
+title: "Problem With Manual Segmentation Of The Outerskull"
+date: 2018-09-11
+url: https://discourse.slicer.org/t/4065
+---
+
 # Problem with manual segmentation of the outerskull
 
 **Topic ID**: 4065

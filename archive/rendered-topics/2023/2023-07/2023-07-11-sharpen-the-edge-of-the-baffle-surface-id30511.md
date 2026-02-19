@@ -1,3 +1,10 @@
+---
+topic_id: 30511
+title: "Sharpen The Edge Of The Baffle Surface"
+date: 2023-07-11
+url: https://discourse.slicer.org/t/30511
+---
+
 # Sharpen the edge of the baffle surface
 
 **Topic ID**: 30511

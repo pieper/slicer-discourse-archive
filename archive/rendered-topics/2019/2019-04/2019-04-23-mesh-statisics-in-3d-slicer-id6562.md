@@ -1,3 +1,10 @@
+---
+topic_id: 6562
+title: "Mesh Statisics In 3D Slicer"
+date: 2019-04-23
+url: https://discourse.slicer.org/t/6562
+---
+
 # Mesh statisics in 3D Slicer
 
 **Topic ID**: 6562

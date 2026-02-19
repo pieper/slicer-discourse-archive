@@ -1,3 +1,10 @@
+---
+topic_id: 22186
+title: "Save Image With New Window Level"
+date: 2022-02-25
+url: https://discourse.slicer.org/t/22186
+---
+
 # Save image with new window level
 
 **Topic ID**: 22186

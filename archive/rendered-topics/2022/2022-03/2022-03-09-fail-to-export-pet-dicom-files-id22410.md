@@ -1,3 +1,10 @@
+---
+topic_id: 22410
+title: "Fail To Export Pet Dicom Files"
+date: 2022-03-09
+url: https://discourse.slicer.org/t/22410
+---
+
 # Fail to export PET dicom files
 
 **Topic ID**: 22410

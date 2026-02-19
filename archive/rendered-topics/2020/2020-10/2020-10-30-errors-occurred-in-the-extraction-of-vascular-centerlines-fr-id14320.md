@@ -1,3 +1,10 @@
+---
+topic_id: 14320
+title: "Errors Occurred In The Extraction Of Vascular Centerlines Fr"
+date: 2020-10-30
+url: https://discourse.slicer.org/t/14320
+---
+
 # Errors occurred in the extraction of vascular centerlines from CT images
 
 **Topic ID**: 14320

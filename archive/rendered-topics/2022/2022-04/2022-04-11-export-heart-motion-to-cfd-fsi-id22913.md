@@ -1,3 +1,10 @@
+---
+topic_id: 22913
+title: "Export Heart Motion To Cfd Fsi"
+date: 2022-04-11
+url: https://discourse.slicer.org/t/22913
+---
+
 # Export heart motion to CFD/FSI
 
 **Topic ID**: 22913

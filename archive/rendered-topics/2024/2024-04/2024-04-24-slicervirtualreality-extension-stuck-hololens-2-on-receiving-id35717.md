@@ -1,3 +1,10 @@
+---
+topic_id: 35717
+title: "Slicervirtualreality Extension Stuck Hololens 2 On Receiving"
+date: 2024-04-24
+url: https://discourse.slicer.org/t/35717
+---
+
 # SlicerVirtualReality extension stuck hololens 2 on "Receiving..."
 
 **Topic ID**: 35717

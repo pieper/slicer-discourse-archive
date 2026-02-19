@@ -1,3 +1,10 @@
+---
+topic_id: 22571
+title: "Simple Filters Node Selector Doesnt Accept Scalar Volume Chi"
+date: 2022-03-17
+url: https://discourse.slicer.org/t/22571
+---
+
 # Simple Filters: node selector doesn't accept Scalar Volume child nodes
 
 **Topic ID**: 22571

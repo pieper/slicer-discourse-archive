@@ -1,3 +1,10 @@
+---
+topic_id: 20144
+title: "How To Measure Parameters Quantitative Chest Ct Using 3D Sli"
+date: 2021-10-14
+url: https://discourse.slicer.org/t/20144
+---
+
 # How to measure parameters Quantitative Chest CT using 3D Slicers version 4.11
 
 **Topic ID**: 20144

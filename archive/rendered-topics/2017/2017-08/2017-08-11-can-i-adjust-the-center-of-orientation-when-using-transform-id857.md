@@ -1,3 +1,10 @@
+---
+topic_id: 857
+title: "Can I Adjust The Center Of Orientation When Using Transform"
+date: 2017-08-11
+url: https://discourse.slicer.org/t/857
+---
+
 # Can I adjust the center of orientation when using 'transform module'?
 
 **Topic ID**: 857

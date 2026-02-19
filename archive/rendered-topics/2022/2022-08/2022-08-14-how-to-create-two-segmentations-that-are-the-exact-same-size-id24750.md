@@ -1,3 +1,10 @@
+---
+topic_id: 24750
+title: "How To Create Two Segmentations That Are The Exact Same Size"
+date: 2022-08-14
+url: https://discourse.slicer.org/t/24750
+---
+
 # How to create two segmentations that are the exact same size?
 
 **Topic ID**: 24750

@@ -1,3 +1,10 @@
+---
+topic_id: 40186
+title: "Create Drr Of A Stl File"
+date: 2024-11-13
+url: https://discourse.slicer.org/t/40186
+---
+
 # Create DRR of a STL file
 
 **Topic ID**: 40186

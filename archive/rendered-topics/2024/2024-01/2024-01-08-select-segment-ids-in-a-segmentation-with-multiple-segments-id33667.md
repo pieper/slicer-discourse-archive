@@ -1,3 +1,10 @@
+---
+topic_id: 33667
+title: "Select Segment Ids In A Segmentation With Multiple Segments"
+date: 2024-01-08
+url: https://discourse.slicer.org/t/33667
+---
+
 # Select segment IDs in a Segmentation with multiple segments
 
 **Topic ID**: 33667

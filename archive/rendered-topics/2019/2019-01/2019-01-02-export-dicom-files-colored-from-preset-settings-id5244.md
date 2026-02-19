@@ -1,3 +1,10 @@
+---
+topic_id: 5244
+title: "Export Dicom Files Colored From Preset Settings"
+date: 2019-01-02
+url: https://discourse.slicer.org/t/5244
+---
+
 # Export dicom files colored from preset settings
 
 **Topic ID**: 5244

@@ -1,3 +1,10 @@
+---
+topic_id: 29255
+title: "Adding Near Real Time Collaborative Manual Segmentation"
+date: 2023-05-02
+url: https://discourse.slicer.org/t/29255
+---
+
 # Adding near-real time collaborative manual segmentation
 
 **Topic ID**: 29255

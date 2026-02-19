@@ -1,3 +1,10 @@
+---
+topic_id: 45582
+title: "The Gui Of Slicer 5 10 0 Seems To Be Unexpectedly Scaled"
+date: 2025-12-22
+url: https://discourse.slicer.org/t/45582
+---
+
 # The GUI of Slicer 5.10.0 seems to be unexpectedly scaled.
 
 **Topic ID**: 45582

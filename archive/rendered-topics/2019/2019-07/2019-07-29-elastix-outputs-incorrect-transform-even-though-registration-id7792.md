@@ -1,3 +1,10 @@
+---
+topic_id: 7792
+title: "Elastix Outputs Incorrect Transform Even Though Registration"
+date: 2019-07-29
+url: https://discourse.slicer.org/t/7792
+---
+
 # Elastix outputs incorrect transform even though registration is successful
 
 **Topic ID**: 7792

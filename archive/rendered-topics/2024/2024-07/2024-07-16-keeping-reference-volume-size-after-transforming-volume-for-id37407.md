@@ -1,3 +1,10 @@
+---
+topic_id: 37407
+title: "Keeping Reference Volume Size After Transforming Volume For"
+date: 2024-07-16
+url: https://discourse.slicer.org/t/37407
+---
+
 # Keeping reference volume size after transforming volume for very large images
 
 **Topic ID**: 37407

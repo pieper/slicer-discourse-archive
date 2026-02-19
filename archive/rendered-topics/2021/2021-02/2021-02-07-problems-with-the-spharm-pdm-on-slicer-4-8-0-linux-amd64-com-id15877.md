@@ -1,3 +1,10 @@
+---
+topic_id: 15877
+title: "Problems With The Spharm Pdm On Slicer 4 8 0 Linux Amd64 Com"
+date: 2021-02-07
+url: https://discourse.slicer.org/t/15877
+---
+
 # Problems with the SPHARM-PDM on Slicer-4.8.0-linux-amd64 (Command-Line Tool, the step GenParaMesh)
 
 **Topic ID**: 15877

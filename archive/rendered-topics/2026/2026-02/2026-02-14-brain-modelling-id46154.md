@@ -1,3 +1,10 @@
+---
+topic_id: 46154
+title: "Brain Modelling"
+date: 2026-02-14
+url: https://discourse.slicer.org/t/46154
+---
+
 # Brain Modelling
 
 **Topic ID**: 46154

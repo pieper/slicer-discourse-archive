@@ -1,3 +1,10 @@
+---
+topic_id: 30373
+title: "Triggering Main Window Exit When Exiting From Qdialog Window"
+date: 2023-07-03
+url: https://discourse.slicer.org/t/30373
+---
+
 # triggering main window exit when exiting from qdialog window
 
 **Topic ID**: 30373

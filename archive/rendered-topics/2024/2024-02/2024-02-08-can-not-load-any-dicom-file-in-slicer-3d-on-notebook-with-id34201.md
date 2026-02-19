@@ -1,3 +1,10 @@
+---
+topic_id: 34201
+title: "Can Not Load Any Dicom File In Slicer 3D On Notebook With"
+date: 2024-02-08
+url: https://discourse.slicer.org/t/34201
+---
+
 # Can not load any DICOM file in SLicer 3D on notebook with
 
 **Topic ID**: 34201

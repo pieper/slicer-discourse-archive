@@ -1,3 +1,10 @@
+---
+topic_id: 9085
+title: "Segmentation Gaps Fill In For Bone Model"
+date: 2019-11-08
+url: https://discourse.slicer.org/t/9085
+---
+
 # Segmentation gaps fill in for bone model
 
 **Topic ID**: 9085

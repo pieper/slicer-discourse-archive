@@ -1,3 +1,10 @@
+---
+topic_id: 33746
+title: "Segmenting Fractured Bones"
+date: 2024-01-03
+url: https://discourse.slicer.org/t/33746
+---
+
 # Segmenting fractured bones
 
 **Topic ID**: 33746

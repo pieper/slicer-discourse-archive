@@ -1,3 +1,10 @@
+---
+topic_id: 33642
+title: "Mouse Focus Issue When Using Keyboard Shortcuts In 2023 12 3"
+date: 2024-01-05
+url: https://discourse.slicer.org/t/33642
+---
+
 # Mouse Focus issue when using keyboard shortcuts in 2023-12-31 preview
 
 **Topic ID**: 33642

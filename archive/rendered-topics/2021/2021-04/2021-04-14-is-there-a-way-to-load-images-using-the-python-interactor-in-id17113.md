@@ -1,3 +1,10 @@
+---
+topic_id: 17113
+title: "Is There A Way To Load Images Using The Python Interactor In"
+date: 2021-04-14
+url: https://discourse.slicer.org/t/17113
+---
+
 # Is there a way to load images using the Python Interactor in Slicer?
 
 **Topic ID**: 17113

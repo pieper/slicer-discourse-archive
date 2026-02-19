@@ -1,3 +1,10 @@
+---
+topic_id: 10639
+title: "Image Visualization"
+date: 2020-03-11
+url: https://discourse.slicer.org/t/10639
+---
+
 # Image Visualization
 
 **Topic ID**: 10639

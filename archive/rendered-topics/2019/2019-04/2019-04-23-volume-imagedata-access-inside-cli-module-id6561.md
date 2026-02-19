@@ -1,3 +1,10 @@
+---
+topic_id: 6561
+title: "Volume Imagedata Access Inside Cli Module"
+date: 2019-04-23
+url: https://discourse.slicer.org/t/6561
+---
+
 # Volume ImageData access inside CLI module
 
 **Topic ID**: 6561

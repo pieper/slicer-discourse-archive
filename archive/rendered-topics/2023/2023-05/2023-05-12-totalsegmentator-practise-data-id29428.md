@@ -1,3 +1,10 @@
+---
+topic_id: 29428
+title: "Totalsegmentator Practise Data"
+date: 2023-05-12
+url: https://discourse.slicer.org/t/29428
+---
+
 # Totalsegmentator --- practise data
 
 **Topic ID**: 29428

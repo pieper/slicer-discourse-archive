@@ -1,3 +1,10 @@
+---
+topic_id: 19217
+title: "Change Memory Layout Of Images"
+date: 2021-08-16
+url: https://discourse.slicer.org/t/19217
+---
+
 # Change memory layout of images
 
 **Topic ID**: 19217

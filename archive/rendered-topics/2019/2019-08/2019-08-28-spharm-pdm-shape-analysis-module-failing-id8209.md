@@ -1,3 +1,10 @@
+---
+topic_id: 8209
+title: "Spharm Pdm Shape Analysis Module Failing"
+date: 2019-08-28
+url: https://discourse.slicer.org/t/8209
+---
+
 # SPHARM-PDM Shape Analysis Module Failing
 
 **Topic ID**: 8209

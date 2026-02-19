@@ -1,3 +1,10 @@
+---
+topic_id: 21815
+title: "Subject Hierarchy Throws Error Message When Creating Item In"
+date: 2022-02-05
+url: https://discourse.slicer.org/t/21815
+---
+
 # Subject hierarchy throws error message when creating item in the folder
 
 **Topic ID**: 21815

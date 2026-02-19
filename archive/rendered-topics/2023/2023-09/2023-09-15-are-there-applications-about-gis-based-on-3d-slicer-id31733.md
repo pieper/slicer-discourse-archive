@@ -1,3 +1,10 @@
+---
+topic_id: 31733
+title: "Are There Applications About Gis Based On 3D Slicer"
+date: 2023-09-15
+url: https://discourse.slicer.org/t/31733
+---
+
 # Are there applications about GIS based on 3D Slicer?
 
 **Topic ID**: 31733

@@ -1,3 +1,10 @@
+---
+topic_id: 85
+title: "Problems To Connect To The Discourse Forum From Uofm"
+date: 2017-04-12
+url: https://discourse.slicer.org/t/85
+---
+
 # Problems to connect to the discourse forum from UofM
 
 **Topic ID**: 85

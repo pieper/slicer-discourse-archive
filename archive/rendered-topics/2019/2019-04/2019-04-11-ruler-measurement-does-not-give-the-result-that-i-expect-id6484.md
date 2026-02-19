@@ -1,3 +1,10 @@
+---
+topic_id: 6484
+title: "Ruler Measurement Does Not Give The Result That I Expect"
+date: 2019-04-11
+url: https://discourse.slicer.org/t/6484
+---
+
 # Ruler measurement does not give the result that I expect
 
 **Topic ID**: 6484

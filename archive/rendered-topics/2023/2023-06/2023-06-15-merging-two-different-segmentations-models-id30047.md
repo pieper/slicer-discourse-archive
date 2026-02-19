@@ -1,3 +1,10 @@
+---
+topic_id: 30047
+title: "Merging Two Different Segmentations Models"
+date: 2023-06-15
+url: https://discourse.slicer.org/t/30047
+---
+
 # Merging two different segmentations/models
 
 **Topic ID**: 30047

@@ -1,3 +1,10 @@
+---
+topic_id: 14979
+title: "Stl From Dicom Files Samsung Hs50"
+date: 2020-12-10
+url: https://discourse.slicer.org/t/14979
+---
+
 # STL from DICOM Files Samsung HS50
 
 **Topic ID**: 14979

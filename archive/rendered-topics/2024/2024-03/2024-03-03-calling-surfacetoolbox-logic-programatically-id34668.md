@@ -1,3 +1,10 @@
+---
+topic_id: 34668
+title: "Calling Surfacetoolbox Logic Programatically"
+date: 2024-03-03
+url: https://discourse.slicer.org/t/34668
+---
+
 # Calling SurfaceToolBox Logic Programatically
 
 **Topic ID**: 34668

@@ -1,3 +1,10 @@
+---
+topic_id: 17131
+title: "Prostatic Manual Segmentation And Mask Extraction"
+date: 2021-04-16
+url: https://discourse.slicer.org/t/17131
+---
+
 # prostatic manual segmentation and mask extraction
 
 **Topic ID**: 17131

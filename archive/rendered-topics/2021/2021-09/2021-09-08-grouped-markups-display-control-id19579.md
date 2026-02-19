@@ -1,3 +1,10 @@
+---
+topic_id: 19579
+title: "Grouped Markups Display Control"
+date: 2021-09-08
+url: https://discourse.slicer.org/t/19579
+---
+
 # Grouped markups display control
 
 **Topic ID**: 19579

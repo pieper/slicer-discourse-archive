@@ -1,3 +1,10 @@
+---
+topic_id: 3821
+title: "Importing Of Obj To Export Slices To Svg"
+date: 2018-08-18
+url: https://discourse.slicer.org/t/3821
+---
+
 # Importing of OBJ to Export slices to SVG 
 
 **Topic ID**: 3821

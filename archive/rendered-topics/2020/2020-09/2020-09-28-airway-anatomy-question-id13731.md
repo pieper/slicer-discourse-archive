@@ -1,3 +1,10 @@
+---
+topic_id: 13731
+title: "Airway Anatomy Question"
+date: 2020-09-28
+url: https://discourse.slicer.org/t/13731
+---
+
 # Airway anatomy question
 
 **Topic ID**: 13731

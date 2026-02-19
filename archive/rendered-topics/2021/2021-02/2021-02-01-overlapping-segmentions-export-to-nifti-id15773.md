@@ -1,3 +1,10 @@
+---
+topic_id: 15773
+title: "Overlapping Segmentions Export To Nifti"
+date: 2021-02-01
+url: https://discourse.slicer.org/t/15773
+---
+
 # Overlapping Segmentions Export to NIFTI
 
 **Topic ID**: 15773

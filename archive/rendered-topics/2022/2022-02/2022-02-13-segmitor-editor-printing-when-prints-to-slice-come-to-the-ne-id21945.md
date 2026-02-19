@@ -1,3 +1,10 @@
+---
+topic_id: 21945
+title: "Segmitor Editor Printing When Prints To Slice Come To The Ne"
+date: 2022-02-13
+url: https://discourse.slicer.org/t/21945
+---
+
 # Segmitor editor  printing when prints to slice come to the next slice so distribute the segmentation 
 
 **Topic ID**: 21945

@@ -1,3 +1,10 @@
+---
+topic_id: 34978
+title: "Change Segment Name In Python"
+date: 2024-03-19
+url: https://discourse.slicer.org/t/34978
+---
+
 # Change segment name in python
 
 **Topic ID**: 34978

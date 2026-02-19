@@ -1,3 +1,10 @@
+---
+topic_id: 29111
+title: "Parametric Response Mapping Chest Ct"
+date: 2023-04-25
+url: https://discourse.slicer.org/t/29111
+---
+
 # Parametric response mapping, chest CT
 
 **Topic ID**: 29111

@@ -1,3 +1,10 @@
+---
+topic_id: 15918
+title: "Use Scala Script In 3D Slicer"
+date: 2021-02-09
+url: https://discourse.slicer.org/t/15918
+---
+
 # Use scala script in 3d Slicer
 
 **Topic ID**: 15918

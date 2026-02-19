@@ -1,3 +1,10 @@
+---
+topic_id: 18772
+title: "Resampled Segmentation Limited By A Bounding Box Not The Who"
+date: 2021-07-17
+url: https://discourse.slicer.org/t/18772
+---
+
 # Resampled segmentation limited by a bounding box (not the whole volume)
 
 **Topic ID**: 18772

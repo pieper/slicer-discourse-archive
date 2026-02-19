@@ -1,3 +1,10 @@
+---
+topic_id: 9071
+title: "Slicer Crashes When Adding 2 Custom Layouts In Startup Scrip"
+date: 2019-11-07
+url: https://discourse.slicer.org/t/9071
+---
+
 # Slicer crashes when adding 2 custom layouts in startup script
 
 **Topic ID**: 9071

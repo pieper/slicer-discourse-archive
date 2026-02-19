@@ -1,3 +1,10 @@
+---
+topic_id: 21338
+title: "Editing Segmentation Of Model And Saving It"
+date: 2022-01-05
+url: https://discourse.slicer.org/t/21338
+---
+
 # Editing segmentation of model and saving it
 
 **Topic ID**: 21338

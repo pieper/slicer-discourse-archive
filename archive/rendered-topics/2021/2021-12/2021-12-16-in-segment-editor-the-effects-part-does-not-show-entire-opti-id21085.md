@@ -1,3 +1,10 @@
+---
+topic_id: 21085
+title: "In Segment Editor The Effects Part Does Not Show Entire Opti"
+date: 2021-12-16
+url: https://discourse.slicer.org/t/21085
+---
+
 # In segment editor, the  *Effects* part does not show entire options. How can i add more options to Effects part?
 
 **Topic ID**: 21085

@@ -1,3 +1,10 @@
+---
+topic_id: 23245
+title: "Availability Of Slicer 5 0 On Archlinux"
+date: 2022-05-02
+url: https://discourse.slicer.org/t/23245
+---
+
 # Availability of Slicer 5.0 on ArchLinux
 
 **Topic ID**: 23245

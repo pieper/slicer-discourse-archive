@@ -1,3 +1,10 @@
+---
+topic_id: 1246
+title: "Is It Possible To Segment One Organ From Multiple Volumes"
+date: 2017-10-19
+url: https://discourse.slicer.org/t/1246
+---
+
 # Is it possible to segment one organ from multiple volumes?
 
 **Topic ID**: 1246

@@ -1,3 +1,10 @@
+---
+topic_id: 45919
+title: "Volume Calculations Are Inconsistent On Bone Cts"
+date: 2026-01-26
+url: https://discourse.slicer.org/t/45919
+---
+
 # Volume calculations are inconsistent on Bone CTs
 
 **Topic ID**: 45919

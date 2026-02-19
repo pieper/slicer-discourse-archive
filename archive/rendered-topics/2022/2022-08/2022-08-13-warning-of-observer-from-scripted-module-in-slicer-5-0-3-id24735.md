@@ -1,3 +1,10 @@
+---
+topic_id: 24735
+title: "Warning Of Observer From Scripted Module In Slicer 5 0 3"
+date: 2022-08-13
+url: https://discourse.slicer.org/t/24735
+---
+
 # Warning of observer from scripted module in Slicer 5.0.3
 
 **Topic ID**: 24735

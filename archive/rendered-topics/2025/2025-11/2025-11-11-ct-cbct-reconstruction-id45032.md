@@ -1,3 +1,10 @@
+---
+topic_id: 45032
+title: "Ct Cbct Reconstruction"
+date: 2025-11-11
+url: https://discourse.slicer.org/t/45032
+---
+
 # CT/CBCT reconstruction
 
 **Topic ID**: 45032

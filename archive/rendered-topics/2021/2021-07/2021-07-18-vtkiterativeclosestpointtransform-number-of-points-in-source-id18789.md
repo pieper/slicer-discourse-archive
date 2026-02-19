@@ -1,3 +1,10 @@
+---
+topic_id: 18789
+title: "Vtkiterativeclosestpointtransform Number Of Points In Source"
+date: 2021-07-18
+url: https://discourse.slicer.org/t/18789
+---
+
 # vtkIterativeClosestPointTransform - number of points in source and target
 
 **Topic ID**: 18789

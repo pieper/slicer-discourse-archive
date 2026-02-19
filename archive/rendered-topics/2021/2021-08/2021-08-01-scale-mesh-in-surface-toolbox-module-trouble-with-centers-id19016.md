@@ -1,3 +1,10 @@
+---
+topic_id: 19016
+title: "Scale Mesh In Surface Toolbox Module Trouble With Centers"
+date: 2021-08-01
+url: https://discourse.slicer.org/t/19016
+---
+
 # Scale Mesh in Surface Toolbox Module trouble with centers
 
 **Topic ID**: 19016

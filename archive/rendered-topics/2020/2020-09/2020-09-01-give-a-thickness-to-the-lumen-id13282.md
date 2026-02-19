@@ -1,3 +1,10 @@
+---
+topic_id: 13282
+title: "Give A Thickness To The Lumen"
+date: 2020-09-01
+url: https://discourse.slicer.org/t/13282
+---
+
 # Give a thickness to the lumen
 
 **Topic ID**: 13282

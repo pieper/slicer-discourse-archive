@@ -1,3 +1,10 @@
+---
+topic_id: 2009
+title: "Filament Trace Length Of A Curved Filament"
+date: 2018-02-02
+url: https://discourse.slicer.org/t/2009
+---
+
 # Filament trace / Length of a curved filament
 
 **Topic ID**: 2009

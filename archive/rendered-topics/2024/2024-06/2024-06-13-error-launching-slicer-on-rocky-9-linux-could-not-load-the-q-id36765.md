@@ -1,3 +1,10 @@
+---
+topic_id: 36765
+title: "Error Launching Slicer On Rocky 9 Linux Could Not Load The Q"
+date: 2024-06-13
+url: https://discourse.slicer.org/t/36765
+---
+
 # Error launching Slicer on Rocky 9 linux: `Could not load the Qt platform plugin "xcb" in "" even though it was found`
 
 **Topic ID**: 36765

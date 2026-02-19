@@ -1,3 +1,10 @@
+---
+topic_id: 11507
+title: "Misalignment Between Nifti Image And Mask"
+date: 2020-05-12
+url: https://discourse.slicer.org/t/11507
+---
+
 # Misalignment between Nifti image and mask
 
 **Topic ID**: 11507

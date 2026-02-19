@@ -1,3 +1,10 @@
+---
+topic_id: 40260
+title: "Slices In 3D Views Are Blended With The Slice View Colour On"
+date: 2024-11-19
+url: https://discourse.slicer.org/t/40260
+---
+
 # Slices in 3D views are blended with the slice view colour on one side
 
 **Topic ID**: 40260

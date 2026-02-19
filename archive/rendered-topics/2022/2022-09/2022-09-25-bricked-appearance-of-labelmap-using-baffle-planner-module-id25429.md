@@ -1,3 +1,10 @@
+---
+topic_id: 25429
+title: "Bricked Appearance Of Labelmap Using Baffle Planner Module"
+date: 2022-09-25
+url: https://discourse.slicer.org/t/25429
+---
+
 # "Bricked- appearance" of Labelmap using Baffle Planner module
 
 **Topic ID**: 25429

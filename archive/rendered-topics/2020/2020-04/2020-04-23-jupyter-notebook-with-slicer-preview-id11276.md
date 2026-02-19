@@ -1,3 +1,10 @@
+---
+topic_id: 11276
+title: "Jupyter Notebook With Slicer Preview"
+date: 2020-04-23
+url: https://discourse.slicer.org/t/11276
+---
+
 # Jupyter notebook with Slicer Preview
 
 **Topic ID**: 11276

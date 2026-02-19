@@ -1,3 +1,10 @@
+---
+topic_id: 4291
+title: "Link To Module Library Not Logic Mrml Widgets"
+date: 2018-10-04
+url: https://discourse.slicer.org/t/4291
+---
+
 # Link to module library (not logic, mrml, widgets)
 
 **Topic ID**: 4291

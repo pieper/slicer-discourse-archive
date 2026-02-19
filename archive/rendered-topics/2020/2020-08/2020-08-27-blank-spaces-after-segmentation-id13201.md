@@ -1,3 +1,10 @@
+---
+topic_id: 13201
+title: "Blank Spaces After Segmentation"
+date: 2020-08-27
+url: https://discourse.slicer.org/t/13201
+---
+
 # Blank spaces after segmentation
 
 **Topic ID**: 13201

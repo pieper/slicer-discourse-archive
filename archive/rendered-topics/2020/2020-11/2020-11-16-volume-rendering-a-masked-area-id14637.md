@@ -1,3 +1,10 @@
+---
+topic_id: 14637
+title: "Volume Rendering A Masked Area"
+date: 2020-11-16
+url: https://discourse.slicer.org/t/14637
+---
+
 # Volume rendering a masked area
 
 **Topic ID**: 14637

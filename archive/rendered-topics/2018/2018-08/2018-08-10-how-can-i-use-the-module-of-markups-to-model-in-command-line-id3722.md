@@ -1,3 +1,10 @@
+---
+topic_id: 3722
+title: "How Can I Use The Module Of Markups To Model In Command Line"
+date: 2018-08-10
+url: https://discourse.slicer.org/t/3722
+---
+
 # How can I use the module of "Markups to Model" in command line?
 
 **Topic ID**: 3722

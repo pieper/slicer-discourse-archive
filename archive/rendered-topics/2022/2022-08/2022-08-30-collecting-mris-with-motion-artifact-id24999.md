@@ -1,3 +1,10 @@
+---
+topic_id: 24999
+title: "Collecting Mris With Motion Artifact"
+date: 2022-08-30
+url: https://discourse.slicer.org/t/24999
+---
+
 # Collecting MRIs with motion artifact
 
 **Topic ID**: 24999

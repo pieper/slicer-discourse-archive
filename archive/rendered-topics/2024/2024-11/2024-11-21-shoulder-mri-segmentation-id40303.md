@@ -1,3 +1,10 @@
+---
+topic_id: 40303
+title: "Shoulder Mri Segmentation"
+date: 2024-11-21
+url: https://discourse.slicer.org/t/40303
+---
+
 # Shoulder mri segmentation
 
 **Topic ID**: 40303

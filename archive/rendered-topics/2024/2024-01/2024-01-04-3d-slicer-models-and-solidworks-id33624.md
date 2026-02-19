@@ -1,3 +1,10 @@
+---
+topic_id: 33624
+title: "3D Slicer Models And Solidworks"
+date: 2024-01-04
+url: https://discourse.slicer.org/t/33624
+---
+
 # 3D Slicer models and solidworks
 
 **Topic ID**: 33624

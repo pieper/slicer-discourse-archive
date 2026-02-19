@@ -1,3 +1,10 @@
+---
+topic_id: 41445
+title: "Build Slicer With Slicerrt"
+date: 2025-02-02
+url: https://discourse.slicer.org/t/41445
+---
+
 # Build Slicer with SlicerRT
 
 **Topic ID**: 41445

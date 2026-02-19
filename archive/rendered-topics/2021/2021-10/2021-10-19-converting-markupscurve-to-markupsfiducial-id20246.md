@@ -1,3 +1,10 @@
+---
+topic_id: 20246
+title: "Converting Markupscurve To Markupsfiducial"
+date: 2021-10-19
+url: https://discourse.slicer.org/t/20246
+---
+
 # Converting MarkupsCurve to MarkupsFiducial
 
 **Topic ID**: 20246

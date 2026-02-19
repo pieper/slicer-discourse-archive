@@ -1,3 +1,10 @@
+---
+topic_id: 22323
+title: "How To Find The Projection Or Vertical Foot Of A Point On A"
+date: 2022-03-05
+url: https://discourse.slicer.org/t/22323
+---
+
 # How to find the projection or vertical foot of a point on a line?
 
 **Topic ID**: 22323

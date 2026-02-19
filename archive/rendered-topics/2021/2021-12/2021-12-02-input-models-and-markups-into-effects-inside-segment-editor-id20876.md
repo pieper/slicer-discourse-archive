@@ -1,3 +1,10 @@
+---
+topic_id: 20876
+title: "Input Models And Markups Into Effects Inside Segment Editor"
+date: 2021-12-02
+url: https://discourse.slicer.org/t/20876
+---
+
 # Input Models and Markups into Effects inside Segment Editor
 
 **Topic ID**: 20876

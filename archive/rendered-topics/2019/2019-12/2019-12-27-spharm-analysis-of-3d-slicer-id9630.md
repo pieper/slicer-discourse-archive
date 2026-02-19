@@ -1,3 +1,10 @@
+---
+topic_id: 9630
+title: "Spharm Analysis Of 3D Slicer"
+date: 2019-12-27
+url: https://discourse.slicer.org/t/9630
+---
+
 # SPHARM analysis of 3D slicer
 
 **Topic ID**: 9630

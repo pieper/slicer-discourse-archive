@@ -1,3 +1,10 @@
+---
+topic_id: 33011
+title: "How To Customize The Segment Editor Effects Paint Erase Opti"
+date: 2023-11-24
+url: https://discourse.slicer.org/t/33011
+---
+
 # How to customize the Segment Editor effects - Paint/Erase options in Python?
 
 **Topic ID**: 33011

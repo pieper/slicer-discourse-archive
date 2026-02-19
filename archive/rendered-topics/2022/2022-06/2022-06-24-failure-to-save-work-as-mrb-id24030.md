@@ -1,3 +1,10 @@
+---
+topic_id: 24030
+title: "Failure To Save Work As Mrb"
+date: 2022-06-24
+url: https://discourse.slicer.org/t/24030
+---
+
 # Failure to save work as .mrb
 
 **Topic ID**: 24030

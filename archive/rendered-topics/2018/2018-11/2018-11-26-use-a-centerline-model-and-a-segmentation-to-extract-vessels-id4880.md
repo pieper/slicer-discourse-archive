@@ -1,3 +1,10 @@
+---
+topic_id: 4880
+title: "Use A Centerline Model And A Segmentation To Extract Vessels"
+date: 2018-11-26
+url: https://discourse.slicer.org/t/4880
+---
+
 # Use a centerline model and a segmentation to extract vessels from an image set
 
 **Topic ID**: 4880

@@ -1,3 +1,10 @@
+---
+topic_id: 42482
+title: "How To Measure Angle Between A Line And A Plane"
+date: 2025-04-08
+url: https://discourse.slicer.org/t/42482
+---
+
 # How to Measure Angle between a Line and a Plane
 
 **Topic ID**: 42482

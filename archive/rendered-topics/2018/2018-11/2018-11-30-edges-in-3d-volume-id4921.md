@@ -1,3 +1,10 @@
+---
+topic_id: 4921
+title: "Edges In 3D Volume"
+date: 2018-11-30
+url: https://discourse.slicer.org/t/4921
+---
+
 # Edges in 3d volume
 
 **Topic ID**: 4921

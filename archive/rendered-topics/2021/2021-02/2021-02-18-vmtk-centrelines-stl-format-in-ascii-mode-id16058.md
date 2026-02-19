@@ -1,3 +1,10 @@
+---
+topic_id: 16058
+title: "Vmtk Centrelines Stl Format In Ascii Mode"
+date: 2021-02-18
+url: https://discourse.slicer.org/t/16058
+---
+
 # VMTK centrelines - stl format in ascii mode
 
 **Topic ID**: 16058

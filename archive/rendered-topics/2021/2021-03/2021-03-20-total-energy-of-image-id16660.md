@@ -1,3 +1,10 @@
+---
+topic_id: 16660
+title: "Total Energy Of Image"
+date: 2021-03-20
+url: https://discourse.slicer.org/t/16660
+---
+
 # Total energy of image
 
 **Topic ID**: 16660

@@ -1,3 +1,10 @@
+---
+topic_id: 21548
+title: "Exporting A Ruler As An Obj File"
+date: 2022-01-20
+url: https://discourse.slicer.org/t/21548
+---
+
 # Exporting a ruler as an .obj file
 
 **Topic ID**: 21548

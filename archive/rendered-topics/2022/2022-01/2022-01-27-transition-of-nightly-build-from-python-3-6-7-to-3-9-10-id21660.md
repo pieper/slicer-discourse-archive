@@ -1,3 +1,10 @@
+---
+topic_id: 21660
+title: "Transition Of Nightly Build From Python 3 6 7 To 3 9 10"
+date: 2022-01-27
+url: https://discourse.slicer.org/t/21660
+---
+
 # Transition of nightly build from Python 3.6.7 to 3.9.10
 
 **Topic ID**: 21660

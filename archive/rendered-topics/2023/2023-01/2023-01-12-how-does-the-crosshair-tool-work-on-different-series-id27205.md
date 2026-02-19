@@ -1,3 +1,10 @@
+---
+topic_id: 27205
+title: "How Does The Crosshair Tool Work On Different Series"
+date: 2023-01-12
+url: https://discourse.slicer.org/t/27205
+---
+
 # How does the crosshair tool work on different series?
 
 **Topic ID**: 27205

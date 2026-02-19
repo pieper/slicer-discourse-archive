@@ -1,3 +1,10 @@
+---
+topic_id: 30416
+title: "Vtk Export Misalignment With Ct Scans"
+date: 2023-07-05
+url: https://discourse.slicer.org/t/30416
+---
+
 # .vtk export misalignment with CT scans
 
 **Topic ID**: 30416

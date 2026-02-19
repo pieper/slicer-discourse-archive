@@ -1,3 +1,10 @@
+---
+topic_id: 1222
+title: "Side By Side Separate Segmentation Editing"
+date: 2017-10-13
+url: https://discourse.slicer.org/t/1222
+---
+
 # Side-by-side separate segmentation editing
 
 **Topic ID**: 1222

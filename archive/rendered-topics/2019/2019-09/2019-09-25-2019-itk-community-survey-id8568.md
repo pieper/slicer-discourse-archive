@@ -1,3 +1,10 @@
+---
+topic_id: 8568
+title: "2019 Itk Community Survey"
+date: 2019-09-25
+url: https://discourse.slicer.org/t/8568
+---
+
 # 2019 ITK Community Survey
 
 **Topic ID**: 8568

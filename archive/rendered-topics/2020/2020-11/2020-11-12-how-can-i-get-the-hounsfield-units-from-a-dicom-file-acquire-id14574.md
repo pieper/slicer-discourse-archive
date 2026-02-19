@@ -1,3 +1,10 @@
+---
+topic_id: 14574
+title: "How Can I Get The Hounsfield Units From A Dicom File Acquire"
+date: 2020-11-12
+url: https://discourse.slicer.org/t/14574
+---
+
 # how can I get the Hounsfield Units from a DICOM file acquired by CB. The purpose of knowing this, it this is to analyze the bone density of both jaws for the correct planning of dental implants. Thank you.
 
 **Topic ID**: 14574

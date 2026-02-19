@@ -1,3 +1,10 @@
+---
+topic_id: 34672
+title: "Slicer Caught An Application Error"
+date: 2024-03-03
+url: https://discourse.slicer.org/t/34672
+---
+
 # Slicer caught an application error
 
 **Topic ID**: 34672

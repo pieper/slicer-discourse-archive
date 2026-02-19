@@ -1,3 +1,10 @@
+---
+topic_id: 13259
+title: "How To Include Qwidgets In Slicer Qml Layout"
+date: 2020-08-31
+url: https://discourse.slicer.org/t/13259
+---
+
 # How to include qwidgets in slicer qml layout
 
 **Topic ID**: 13259

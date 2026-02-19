@@ -1,3 +1,10 @@
+---
+topic_id: 3650
+title: "Changing Visibility Of 3D Cube And 3D Axis Label Through Pyt"
+date: 2018-08-03
+url: https://discourse.slicer.org/t/3650
+---
+
 # Changing visibility of 3D Cube and 3D Axis Label through Python
 
 **Topic ID**: 3650

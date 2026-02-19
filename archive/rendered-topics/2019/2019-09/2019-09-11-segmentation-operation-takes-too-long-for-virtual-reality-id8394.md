@@ -1,3 +1,10 @@
+---
+topic_id: 8394
+title: "Segmentation Operation Takes Too Long For Virtual Reality"
+date: 2019-09-11
+url: https://discourse.slicer.org/t/8394
+---
+
 # Segmentation operation takes too long for virtual reality
 
 **Topic ID**: 8394

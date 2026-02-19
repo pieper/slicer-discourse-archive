@@ -1,3 +1,10 @@
+---
+topic_id: 916
+title: "Rotating Slice Around Axis Of Model"
+date: 2017-08-21
+url: https://discourse.slicer.org/t/916
+---
+
 # Rotating Slice around Axis of Model
 
 **Topic ID**: 916

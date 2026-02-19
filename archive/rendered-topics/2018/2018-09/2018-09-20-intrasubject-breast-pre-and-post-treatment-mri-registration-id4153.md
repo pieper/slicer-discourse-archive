@@ -1,3 +1,10 @@
+---
+topic_id: 4153
+title: "Intrasubject Breast Pre And Post Treatment Mri Registration"
+date: 2018-09-20
+url: https://discourse.slicer.org/t/4153
+---
+
 # Intrasubject Breast pre- and post-treatment MRI registration
 
 **Topic ID**: 4153

@@ -1,3 +1,10 @@
+---
+topic_id: 31886
+title: "Revisit Github Actions For Slicer Ci"
+date: 2023-09-25
+url: https://discourse.slicer.org/t/31886
+---
+
 # Revisit GitHub Actions for Slicer CI?
 
 **Topic ID**: 31886

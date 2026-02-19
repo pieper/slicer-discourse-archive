@@ -1,3 +1,10 @@
+---
+topic_id: 18600
+title: "Python Called Qslicersubjecthierarchyparselocaldataplugin Fu"
+date: 2021-07-09
+url: https://discourse.slicer.org/t/18600
+---
+
 # Python called qSlicerSubjectHierarchyParseLocalDataPlugin function
 
 **Topic ID**: 18600

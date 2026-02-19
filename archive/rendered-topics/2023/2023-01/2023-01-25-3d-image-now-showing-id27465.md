@@ -1,3 +1,10 @@
+---
+topic_id: 27465
+title: "3D Image Now Showing"
+date: 2023-01-25
+url: https://discourse.slicer.org/t/27465
+---
+
 # 3d image now showing
 
 **Topic ID**: 27465

@@ -1,3 +1,10 @@
+---
+topic_id: 4062
+title: "Error In Show 3D Function Of Segment Editor Module Of Slicer"
+date: 2018-09-11
+url: https://discourse.slicer.org/t/4062
+---
+
 # error in show 3D function of segment editor module of slicer 4.8.1  
 
 **Topic ID**: 4062

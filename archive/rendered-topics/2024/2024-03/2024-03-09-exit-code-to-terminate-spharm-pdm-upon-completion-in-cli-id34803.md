@@ -1,3 +1,10 @@
+---
+topic_id: 34803
+title: "Exit Code To Terminate Spharm Pdm Upon Completion In Cli"
+date: 2024-03-09
+url: https://discourse.slicer.org/t/34803
+---
+
 # Exit code to terminate SPHARM-PDM upon completion in CLI?
 
 **Topic ID**: 34803

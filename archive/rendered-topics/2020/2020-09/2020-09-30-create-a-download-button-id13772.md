@@ -1,3 +1,10 @@
+---
+topic_id: 13772
+title: "Create A Download Button"
+date: 2020-09-30
+url: https://discourse.slicer.org/t/13772
+---
+
 # Create a download button
 
 **Topic ID**: 13772

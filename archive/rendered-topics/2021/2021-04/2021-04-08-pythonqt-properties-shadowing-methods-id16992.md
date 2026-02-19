@@ -1,3 +1,10 @@
+---
+topic_id: 16992
+title: "Pythonqt Properties Shadowing Methods"
+date: 2021-04-08
+url: https://discourse.slicer.org/t/16992
+---
+
 # PythonQt properties shadowing methods
 
 **Topic ID**: 16992

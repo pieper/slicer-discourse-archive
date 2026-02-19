@@ -1,3 +1,10 @@
+---
+topic_id: 3613
+title: "Ultrasound Mindray Dc 70"
+date: 2018-07-31
+url: https://discourse.slicer.org/t/3613
+---
+
 # Ultrasound Mindray DC-70
 
 **Topic ID**: 3613

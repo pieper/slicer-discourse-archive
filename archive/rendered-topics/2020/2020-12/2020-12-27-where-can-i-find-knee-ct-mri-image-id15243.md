@@ -1,3 +1,10 @@
+---
+topic_id: 15243
+title: "Where Can I Find Knee Ct Mri Image"
+date: 2020-12-27
+url: https://discourse.slicer.org/t/15243
+---
+
 # Where can I find knee CT/MRI image?
 
 **Topic ID**: 15243

@@ -1,3 +1,10 @@
+---
+topic_id: 31437
+title: "Dicom Drag And Drop Loads All The Dicoms In The Same Folder"
+date: 2023-08-29
+url: https://discourse.slicer.org/t/31437
+---
+
 # DICOM drag and drop loads all the dicoms in the same folder instead of just the dragged one
 
 **Topic ID**: 31437

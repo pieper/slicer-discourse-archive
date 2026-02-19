@@ -1,3 +1,10 @@
+---
+topic_id: 30841
+title: "Automatic Centerline Generation And Post Processing Steps"
+date: 2023-07-28
+url: https://discourse.slicer.org/t/30841
+---
+
 # Automatic centerline generation and post processing steps
 
 **Topic ID**: 30841

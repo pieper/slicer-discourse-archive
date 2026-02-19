@@ -1,3 +1,10 @@
+---
+topic_id: 40671
+title: "Local Threshold Bugs Or Features"
+date: 2024-12-13
+url: https://discourse.slicer.org/t/40671
+---
+
 # local threshold: bugs or features?
 
 **Topic ID**: 40671

@@ -1,3 +1,10 @@
+---
+topic_id: 23595
+title: "Multiprocessing Is Not Working When Pyqt Widgets Dataprobe A"
+date: 2022-05-26
+url: https://discourse.slicer.org/t/23595
+---
+
 # Multiprocessing is not working when PyQt widgets , DataProbe and DicomLib are used.
 
 **Topic ID**: 23595

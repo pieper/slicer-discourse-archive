@@ -1,3 +1,10 @@
+---
+topic_id: 31624
+title: "Sublobar Pulmonary Reconstruction"
+date: 2023-09-08
+url: https://discourse.slicer.org/t/31624
+---
+
 # Sublobar pulmonary reconstruction
 
 **Topic ID**: 31624

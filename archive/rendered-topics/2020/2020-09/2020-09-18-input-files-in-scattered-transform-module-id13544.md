@@ -1,3 +1,10 @@
+---
+topic_id: 13544
+title: "Input Files In Scattered Transform Module"
+date: 2020-09-18
+url: https://discourse.slicer.org/t/13544
+---
+
 # Input files in Scattered Transform module
 
 **Topic ID**: 13544

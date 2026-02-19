@@ -1,3 +1,10 @@
+---
+topic_id: 1527
+title: "Could Not Load 1 Unnamed Series As A Scalar Volume"
+date: 2017-11-27
+url: https://discourse.slicer.org/t/1527
+---
+
 # Could not load: 1: Unnamed Series as a Scalar Volume
 
 **Topic ID**: 1527

@@ -1,3 +1,10 @@
+---
+topic_id: 22524
+title: "3D Gel Dosimetry Slicelets Calibration Issue"
+date: 2022-03-15
+url: https://discourse.slicer.org/t/22524
+---
+
 # 3D gel dosimetry - Slicelets: Calibration issue
 
 **Topic ID**: 22524

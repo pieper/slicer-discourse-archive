@@ -1,3 +1,10 @@
+---
+topic_id: 44011
+title: "Surfacemarkups Extension Is Failing To Build On Preview"
+date: 2025-08-07
+url: https://discourse.slicer.org/t/44011
+---
+
 # surfaceMarkups extension is failing to build on Preview
 
 **Topic ID**: 44011

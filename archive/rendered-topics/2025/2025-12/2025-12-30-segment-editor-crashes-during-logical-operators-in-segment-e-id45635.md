@@ -1,3 +1,10 @@
+---
+topic_id: 45635
+title: "Segment Editor Crashes During Logical Operators In Segment E"
+date: 2025-12-30
+url: https://discourse.slicer.org/t/45635
+---
+
 # Segment Editor crashes during Logical Operators in segment editor (Intersect) - Windows 10 - Lenovo LOQ 5.10.0
 
 **Topic ID**: 45635

@@ -1,3 +1,10 @@
+---
+topic_id: 25816
+title: "Merge Fiber Tracts And A T1 Volume"
+date: 2022-10-20
+url: https://discourse.slicer.org/t/25816
+---
+
 # Merge fiber tracts and a T1 volume
 
 **Topic ID**: 25816

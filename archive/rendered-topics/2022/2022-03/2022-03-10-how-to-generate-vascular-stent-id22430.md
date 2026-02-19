@@ -1,3 +1,10 @@
+---
+topic_id: 22430
+title: "How To Generate Vascular Stent"
+date: 2022-03-10
+url: https://discourse.slicer.org/t/22430
+---
+
 # How to generate Vascular stent?
 
 **Topic ID**: 22430

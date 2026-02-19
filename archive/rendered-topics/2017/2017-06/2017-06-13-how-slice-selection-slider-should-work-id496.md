@@ -1,3 +1,10 @@
+---
+topic_id: 496
+title: "How Slice Selection Slider Should Work"
+date: 2017-06-13
+url: https://discourse.slicer.org/t/496
+---
+
 # How slice selection slider should work?
 
 **Topic ID**: 496

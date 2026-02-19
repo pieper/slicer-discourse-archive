@@ -1,3 +1,10 @@
+---
+topic_id: 36483
+title: "Change Slice Offset Automatically"
+date: 2024-05-30
+url: https://discourse.slicer.org/t/36483
+---
+
 # Change slice offset automatically
 
 **Topic ID**: 36483

@@ -1,3 +1,10 @@
+---
+topic_id: 4660
+title: "Slicer Hangs Any Time I Open A File Dialogue Menu"
+date: 2018-11-06
+url: https://discourse.slicer.org/t/4660
+---
+
 # Slicer hangs any time I open a file dialogue menu
 
 **Topic ID**: 4660

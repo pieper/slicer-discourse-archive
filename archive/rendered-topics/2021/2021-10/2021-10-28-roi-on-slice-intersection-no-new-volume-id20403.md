@@ -1,3 +1,10 @@
+---
+topic_id: 20403
+title: "Roi On Slice Intersection No New Volume"
+date: 2021-10-28
+url: https://discourse.slicer.org/t/20403
+---
+
 # ROI on slice intersection - no new volume
 
 **Topic ID**: 20403

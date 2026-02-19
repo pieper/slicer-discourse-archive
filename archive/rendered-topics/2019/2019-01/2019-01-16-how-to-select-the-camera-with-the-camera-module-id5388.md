@@ -1,3 +1,10 @@
+---
+topic_id: 5388
+title: "How To Select The Camera With The Camera Module"
+date: 2019-01-16
+url: https://discourse.slicer.org/t/5388
+---
+
 # How to select the camera with the camera module
 
 **Topic ID**: 5388

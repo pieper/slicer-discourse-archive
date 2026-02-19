@@ -1,3 +1,10 @@
+---
+topic_id: 17208
+title: "Creating A 3D Slicer Extension With Minimal Programming Skil"
+date: 2021-04-20
+url: https://discourse.slicer.org/t/17208
+---
+
 # Creating a 3D Slicer extension with minimal programming skills
 
 **Topic ID**: 17208

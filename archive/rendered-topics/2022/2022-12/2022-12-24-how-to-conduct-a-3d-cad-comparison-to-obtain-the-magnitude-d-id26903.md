@@ -1,3 +1,10 @@
+---
+topic_id: 26903
+title: "How To Conduct A 3D Cad Comparison To Obtain The Magnitude D"
+date: 2022-12-24
+url: https://discourse.slicer.org/t/26903
+---
+
 # How to conduct a 3D CAD comparison to obtain the magnitude deviations with a pre-alignment?
 
 **Topic ID**: 26903

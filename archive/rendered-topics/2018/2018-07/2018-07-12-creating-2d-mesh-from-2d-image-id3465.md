@@ -1,3 +1,10 @@
+---
+topic_id: 3465
+title: "Creating 2D Mesh From 2D Image"
+date: 2018-07-12
+url: https://discourse.slicer.org/t/3465
+---
+
 # Creating 2D mesh from 2D image
 
 **Topic ID**: 3465

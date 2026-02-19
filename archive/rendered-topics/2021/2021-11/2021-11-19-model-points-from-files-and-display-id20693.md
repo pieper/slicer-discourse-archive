@@ -1,3 +1,10 @@
+---
+topic_id: 20693
+title: "Model Points From Files And Display"
+date: 2021-11-19
+url: https://discourse.slicer.org/t/20693
+---
+
 # Model Points from files and display
 
 **Topic ID**: 20693

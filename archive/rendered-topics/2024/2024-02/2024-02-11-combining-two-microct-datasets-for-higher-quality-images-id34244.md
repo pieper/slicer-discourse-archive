@@ -1,3 +1,10 @@
+---
+topic_id: 34244
+title: "Combining Two Microct Datasets For Higher Quality Images"
+date: 2024-02-11
+url: https://discourse.slicer.org/t/34244
+---
+
 # Combining two microCT Datasets for higher Quality images
 
 **Topic ID**: 34244

@@ -1,3 +1,10 @@
+---
+topic_id: 43336
+title: "Tutorial On Creating Rcbv Map From Perfusion Mri"
+date: 2025-06-12
+url: https://discourse.slicer.org/t/43336
+---
+
 # Tutorial on creating rCBV map from Perfusion MRI?
 
 **Topic ID**: 43336

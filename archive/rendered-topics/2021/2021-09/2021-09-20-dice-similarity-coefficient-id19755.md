@@ -1,3 +1,10 @@
+---
+topic_id: 19755
+title: "Dice Similarity Coefficient"
+date: 2021-09-20
+url: https://discourse.slicer.org/t/19755
+---
+
 # Dice similarity coefficient
 
 **Topic ID**: 19755

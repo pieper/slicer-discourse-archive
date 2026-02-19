@@ -1,3 +1,10 @@
+---
+topic_id: 15333
+title: "How To Calculate Bmd"
+date: 2021-01-04
+url: https://discourse.slicer.org/t/15333
+---
+
 # How to calculate BMD
 
 **Topic ID**: 15333

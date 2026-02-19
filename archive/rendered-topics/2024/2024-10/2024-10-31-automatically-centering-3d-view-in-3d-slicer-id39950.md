@@ -1,3 +1,10 @@
+---
+topic_id: 39950
+title: "Automatically Centering 3D View In 3D Slicer"
+date: 2024-10-31
+url: https://discourse.slicer.org/t/39950
+---
+
 # Automatically Centering 3D View in 3D Slicer
 
 **Topic ID**: 39950

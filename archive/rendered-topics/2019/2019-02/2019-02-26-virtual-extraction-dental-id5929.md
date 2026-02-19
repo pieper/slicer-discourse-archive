@@ -1,3 +1,10 @@
+---
+topic_id: 5929
+title: "Virtual Extraction Dental"
+date: 2019-02-26
+url: https://discourse.slicer.org/t/5929
+---
+
 # Virtual extraction (dental)
 
 **Topic ID**: 5929

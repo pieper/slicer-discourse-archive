@@ -1,3 +1,10 @@
+---
+topic_id: 31940
+title: "Rotate Slice View Up Interactively"
+date: 2023-09-27
+url: https://discourse.slicer.org/t/31940
+---
+
 # Rotate slice view up interactively
 
 **Topic ID**: 31940

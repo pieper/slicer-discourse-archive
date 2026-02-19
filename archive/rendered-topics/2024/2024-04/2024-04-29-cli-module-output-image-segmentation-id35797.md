@@ -1,3 +1,10 @@
+---
+topic_id: 35797
+title: "Cli Module Output Image Segmentation"
+date: 2024-04-29
+url: https://discourse.slicer.org/t/35797
+---
+
 # CLI module output image segmentation
 
 **Topic ID**: 35797

@@ -1,3 +1,10 @@
+---
+topic_id: 15605
+title: "Pixelated 3D View In Volume Rendering"
+date: 2021-01-20
+url: https://discourse.slicer.org/t/15605
+---
+
 # Pixelated 3D view in Volume Rendering 
 
 **Topic ID**: 15605

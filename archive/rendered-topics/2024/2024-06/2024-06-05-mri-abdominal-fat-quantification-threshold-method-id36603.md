@@ -1,3 +1,10 @@
+---
+topic_id: 36603
+title: "Mri Abdominal Fat Quantification Threshold Method"
+date: 2024-06-05
+url: https://discourse.slicer.org/t/36603
+---
+
 # MRI Abdominal Fat Quantification - Threshold Method
 
 **Topic ID**: 36603

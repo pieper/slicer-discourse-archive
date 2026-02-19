@@ -1,3 +1,10 @@
+---
+topic_id: 46041
+title: "Dental Segmentator Not Working With M1 Mac"
+date: 2026-02-03
+url: https://discourse.slicer.org/t/46041
+---
+
 # Dental Segmentator not working with M1 Mac
 
 **Topic ID**: 46041

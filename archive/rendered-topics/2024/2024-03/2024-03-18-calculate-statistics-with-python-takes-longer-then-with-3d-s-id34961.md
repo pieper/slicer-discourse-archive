@@ -1,3 +1,10 @@
+---
+topic_id: 34961
+title: "Calculate Statistics With Python Takes Longer Then With 3D S"
+date: 2024-03-18
+url: https://discourse.slicer.org/t/34961
+---
+
 # Calculate Statistics with Python takes longer then with 3D Slicer GUI
 
 **Topic ID**: 34961

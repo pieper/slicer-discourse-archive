@@ -1,3 +1,10 @@
+---
+topic_id: 28536
+title: "Get Mean Intensities From Closed Curve"
+date: 2023-03-23
+url: https://discourse.slicer.org/t/28536
+---
+
 # Get mean intensities from "Closed Curve"
 
 **Topic ID**: 28536

@@ -1,3 +1,10 @@
+---
+topic_id: 39956
+title: "Two Markupsroi Cropping Module"
+date: 2024-10-31
+url: https://discourse.slicer.org/t/39956
+---
+
 # Two markupsROI (Cropping module)
 
 **Topic ID**: 39956

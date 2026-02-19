@@ -1,3 +1,10 @@
+---
+topic_id: 8223
+title: "Multiframe Dicom Problem With Dicomscalarvolumplugin Proglem"
+date: 2019-08-29
+url: https://discourse.slicer.org/t/8223
+---
+
 # MultiFrame DICOM: problem with DicomScalarVolumPlugin proglem
 
 **Topic ID**: 8223

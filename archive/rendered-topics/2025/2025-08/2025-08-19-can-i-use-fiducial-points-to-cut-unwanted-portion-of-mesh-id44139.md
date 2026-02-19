@@ -1,3 +1,10 @@
+---
+topic_id: 44139
+title: "Can I Use Fiducial Points To Cut Unwanted Portion Of Mesh"
+date: 2025-08-19
+url: https://discourse.slicer.org/t/44139
+---
+
 # Can I use fiducial points to cut unwanted portion of mesh?
 
 **Topic ID**: 44139

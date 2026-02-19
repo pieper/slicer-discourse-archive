@@ -1,3 +1,10 @@
+---
+topic_id: 30956
+title: "Some Menu Items Not Being Sorted Alphabetically"
+date: 2023-08-03
+url: https://discourse.slicer.org/t/30956
+---
+
 # Some menu items not being sorted alphabetically?
 
 **Topic ID**: 30956

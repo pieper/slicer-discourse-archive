@@ -1,3 +1,10 @@
+---
+topic_id: 7705
+title: "Isbi 2020 In Iowa City April 3 7"
+date: 2019-07-22
+url: https://discourse.slicer.org/t/7705
+---
+
 # ISBI 2020 in Iowa City April 3-7
 
 **Topic ID**: 7705

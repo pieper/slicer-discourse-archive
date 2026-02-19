@@ -1,3 +1,10 @@
+---
+topic_id: 16292
+title: "Alignment Of Two Images In Physical Space Prior To Landmark"
+date: 2021-03-01
+url: https://discourse.slicer.org/t/16292
+---
+
 # Alignment of two images in physical space prior to landmark registration
 
 **Topic ID**: 16292

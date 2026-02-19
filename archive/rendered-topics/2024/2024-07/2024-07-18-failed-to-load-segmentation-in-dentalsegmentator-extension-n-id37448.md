@@ -1,3 +1,10 @@
+---
+topic_id: 37448
+title: "Failed To Load Segmentation In Dentalsegmentator Extension N"
+date: 2024-07-18
+url: https://discourse.slicer.org/t/37448
+---
+
 # Failed to load segmentation in DentalSegmentator extension - nnUNet processing error
 
 **Topic ID**: 37448

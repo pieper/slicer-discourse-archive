@@ -1,3 +1,10 @@
+---
+topic_id: 16200
+title: "Metal Artifact Reduction Mar Of Ct Development"
+date: 2021-02-25
+url: https://discourse.slicer.org/t/16200
+---
+
 # Metal artifact reduction (MAR) of CT development
 
 **Topic ID**: 16200

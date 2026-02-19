@@ -1,3 +1,10 @@
+---
+topic_id: 12399
+title: "Model Generation"
+date: 2020-07-06
+url: https://discourse.slicer.org/t/12399
+---
+
 # Model Generation
 
 **Topic ID**: 12399

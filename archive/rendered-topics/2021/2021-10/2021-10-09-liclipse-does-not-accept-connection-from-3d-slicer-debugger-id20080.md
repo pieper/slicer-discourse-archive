@@ -1,3 +1,10 @@
+---
+topic_id: 20080
+title: "Liclipse Does Not Accept Connection From 3D Slicer Debugger"
+date: 2021-10-09
+url: https://discourse.slicer.org/t/20080
+---
+
 # Liclipse does not accept connection from 3D Slicer debugger
 
 **Topic ID**: 20080

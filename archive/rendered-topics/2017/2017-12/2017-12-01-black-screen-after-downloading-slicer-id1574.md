@@ -1,3 +1,10 @@
+---
+topic_id: 1574
+title: "Black Screen After Downloading Slicer"
+date: 2017-12-01
+url: https://discourse.slicer.org/t/1574
+---
+
 # Black screen after downloading Slicer
 
 **Topic ID**: 1574

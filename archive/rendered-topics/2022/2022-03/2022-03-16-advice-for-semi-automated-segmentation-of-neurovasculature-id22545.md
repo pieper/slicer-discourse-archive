@@ -1,3 +1,10 @@
+---
+topic_id: 22545
+title: "Advice For Semi Automated Segmentation Of Neurovasculature"
+date: 2022-03-16
+url: https://discourse.slicer.org/t/22545
+---
+
 # Advice for (Semi-) Automated Segmentation of Neurovasculature
 
 **Topic ID**: 22545

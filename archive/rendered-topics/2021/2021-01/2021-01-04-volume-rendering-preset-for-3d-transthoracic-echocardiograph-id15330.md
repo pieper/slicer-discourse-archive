@@ -1,3 +1,10 @@
+---
+topic_id: 15330
+title: "Volume Rendering Preset For 3D Transthoracic Echocardiograph"
+date: 2021-01-04
+url: https://discourse.slicer.org/t/15330
+---
+
 # Volume rendering preset for 3D transthoracic echocardiography
 
 **Topic ID**: 15330

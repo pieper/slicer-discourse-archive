@@ -1,3 +1,10 @@
+---
+topic_id: 18241
+title: "How To Use Python Script To Judge Whether A Node Exists Or N"
+date: 2021-06-21
+url: https://discourse.slicer.org/t/18241
+---
+
 # How to use Python script to judge whether a node exists or not
 
 **Topic ID**: 18241

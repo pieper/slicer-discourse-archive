@@ -1,3 +1,10 @@
+---
+topic_id: 18921
+title: "How To Open A Centerline 3D Image In 3Dslicer"
+date: 2021-07-25
+url: https://discourse.slicer.org/t/18921
+---
+
 # How to open a centerline 3d image in 3dslicer?
 
 **Topic ID**: 18921

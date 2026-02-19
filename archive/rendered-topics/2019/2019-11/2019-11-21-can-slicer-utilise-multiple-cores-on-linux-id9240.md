@@ -1,3 +1,10 @@
+---
+topic_id: 9240
+title: "Can Slicer Utilise Multiple Cores On Linux"
+date: 2019-11-21
+url: https://discourse.slicer.org/t/9240
+---
+
 # Can Slicer utilise multiple cores on linux?
 
 **Topic ID**: 9240

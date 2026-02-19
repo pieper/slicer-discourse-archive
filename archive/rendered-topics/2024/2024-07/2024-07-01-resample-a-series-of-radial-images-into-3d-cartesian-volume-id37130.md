@@ -1,3 +1,10 @@
+---
+topic_id: 37130
+title: "Resample A Series Of Radial Images Into 3D Cartesian Volume"
+date: 2024-07-01
+url: https://discourse.slicer.org/t/37130
+---
+
 # resample a series of radial images into 3D cartesian volume
 
 **Topic ID**: 37130

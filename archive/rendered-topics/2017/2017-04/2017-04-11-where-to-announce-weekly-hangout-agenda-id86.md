@@ -1,3 +1,10 @@
+---
+topic_id: 86
+title: "Where To Announce Weekly Hangout Agenda"
+date: 2017-04-11
+url: https://discourse.slicer.org/t/86
+---
+
 # Where to announce weekly hangout / agenda?
 
 **Topic ID**: 86

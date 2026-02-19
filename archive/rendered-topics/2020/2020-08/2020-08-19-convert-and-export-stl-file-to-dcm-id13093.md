@@ -1,3 +1,10 @@
+---
+topic_id: 13093
+title: "Convert And Export Stl File To Dcm"
+date: 2020-08-19
+url: https://discourse.slicer.org/t/13093
+---
+
 # Convert and export .stl file to .dcm
 
 **Topic ID**: 13093

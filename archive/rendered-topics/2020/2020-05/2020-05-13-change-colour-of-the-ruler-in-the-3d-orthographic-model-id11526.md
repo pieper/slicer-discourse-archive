@@ -1,3 +1,10 @@
+---
+topic_id: 11526
+title: "Change Colour Of The Ruler In The 3D Orthographic Model"
+date: 2020-05-13
+url: https://discourse.slicer.org/t/11526
+---
+
 # Change colour of the ruler in the 3D orthographic model
 
 **Topic ID**: 11526

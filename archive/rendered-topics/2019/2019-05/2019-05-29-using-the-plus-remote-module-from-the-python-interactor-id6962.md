@@ -1,3 +1,10 @@
+---
+topic_id: 6962
+title: "Using The Plus Remote Module From The Python Interactor"
+date: 2019-05-29
+url: https://discourse.slicer.org/t/6962
+---
+
 # Using the Plus Remote Module from the Python Interactor
 
 **Topic ID**: 6962

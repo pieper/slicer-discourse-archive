@@ -1,3 +1,10 @@
+---
+topic_id: 6503
+title: "Selecting Compiler"
+date: 2019-04-15
+url: https://discourse.slicer.org/t/6503
+---
+
 # Selecting Compiler
 
 **Topic ID**: 6503

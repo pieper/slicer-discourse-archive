@@ -1,3 +1,10 @@
+---
+topic_id: 13046
+title: "Connect Slicers Built In Python To Python Ide"
+date: 2020-08-17
+url: https://discourse.slicer.org/t/13046
+---
+
 # Connect Slicer's built-in Python to Python IDE
 
 **Topic ID**: 13046

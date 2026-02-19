@@ -1,3 +1,10 @@
+---
+topic_id: 29702
+title: "Combining 3 Scalarvolume Dicom Files Into One"
+date: 2023-05-29
+url: https://discourse.slicer.org/t/29702
+---
+
 # Combining 3 ScalarVolume/DICOM Files into One?
 
 **Topic ID**: 29702

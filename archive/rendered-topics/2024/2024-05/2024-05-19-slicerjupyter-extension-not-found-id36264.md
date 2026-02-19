@@ -1,3 +1,10 @@
+---
+topic_id: 36264
+title: "Slicerjupyter Extension Not Found"
+date: 2024-05-19
+url: https://discourse.slicer.org/t/36264
+---
+
 # SlicerJupyter extension Not Found
 
 **Topic ID**: 36264

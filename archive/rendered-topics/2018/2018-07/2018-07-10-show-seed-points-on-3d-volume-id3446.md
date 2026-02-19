@@ -1,3 +1,10 @@
+---
+topic_id: 3446
+title: "Show Seed Points On 3D Volume"
+date: 2018-07-10
+url: https://discourse.slicer.org/t/3446
+---
+
 # Show seed points on 3D volume
 
 **Topic ID**: 3446

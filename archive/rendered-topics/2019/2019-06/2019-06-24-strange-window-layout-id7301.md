@@ -1,3 +1,10 @@
+---
+topic_id: 7301
+title: "Strange Window Layout"
+date: 2019-06-24
+url: https://discourse.slicer.org/t/7301
+---
+
 # Strange Window Layout
 
 **Topic ID**: 7301

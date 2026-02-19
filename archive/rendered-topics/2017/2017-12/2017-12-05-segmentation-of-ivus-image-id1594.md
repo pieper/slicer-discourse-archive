@@ -1,3 +1,10 @@
+---
+topic_id: 1594
+title: "Segmentation Of Ivus Image"
+date: 2017-12-05
+url: https://discourse.slicer.org/t/1594
+---
+
 # segmentation of ivus image
 
 **Topic ID**: 1594

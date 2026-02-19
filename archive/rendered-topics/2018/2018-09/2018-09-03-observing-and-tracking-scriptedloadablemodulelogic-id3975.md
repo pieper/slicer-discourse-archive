@@ -1,3 +1,10 @@
+---
+topic_id: 3975
+title: "Observing And Tracking Scriptedloadablemodulelogic"
+date: 2018-09-03
+url: https://discourse.slicer.org/t/3975
+---
+
 # Observing and tracking ScriptedLoadableModuleLogic
 
 **Topic ID**: 3975

@@ -1,3 +1,10 @@
+---
+topic_id: 36107
+title: "How To Sum Or Average Scalar Volumes Of A Dynamic Pet Study"
+date: 2024-05-13
+url: https://discourse.slicer.org/t/36107
+---
+
 # How to sum (or average) scalar volumes of a dynamic PET study?
 
 **Topic ID**: 36107

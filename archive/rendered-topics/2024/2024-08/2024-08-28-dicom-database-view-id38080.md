@@ -1,3 +1,10 @@
+---
+topic_id: 38080
+title: "Dicom Database View"
+date: 2024-08-28
+url: https://discourse.slicer.org/t/38080
+---
+
 # DICOM Database View 
 
 **Topic ID**: 38080

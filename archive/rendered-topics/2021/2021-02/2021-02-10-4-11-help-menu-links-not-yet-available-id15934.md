@@ -1,3 +1,10 @@
+---
+topic_id: 15934
+title: "4 11 Help Menu Links Not Yet Available"
+date: 2021-02-10
+url: https://discourse.slicer.org/t/15934
+---
+
 # 4.11 help menu links not yet available
 
 **Topic ID**: 15934

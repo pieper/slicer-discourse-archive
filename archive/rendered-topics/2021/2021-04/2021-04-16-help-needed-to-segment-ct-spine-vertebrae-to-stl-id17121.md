@@ -1,3 +1,10 @@
+---
+topic_id: 17121
+title: "Help Needed To Segment Ct Spine Vertebrae To Stl"
+date: 2021-04-16
+url: https://discourse.slicer.org/t/17121
+---
+
 # Help needed to segment CT spine vertebrae to stl
 
 **Topic ID**: 17121

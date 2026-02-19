@@ -1,3 +1,10 @@
+---
+topic_id: 34455
+title: "Directly Interacting With Python Console"
+date: 2024-02-21
+url: https://discourse.slicer.org/t/34455
+---
+
 # Directly interacting with python console
 
 **Topic ID**: 34455

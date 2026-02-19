@@ -1,3 +1,10 @@
+---
+topic_id: 10265
+title: "Radiomics In Dicom And Nrrd"
+date: 2020-02-14
+url: https://discourse.slicer.org/t/10265
+---
+
 # Radiomics in dicom and nrrd
 
 **Topic ID**: 10265

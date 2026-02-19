@@ -1,3 +1,10 @@
+---
+topic_id: 19724
+title: "Faild Build Slicer In Windows10 With Visual Studio 2017 Qt 5"
+date: 2021-09-17
+url: https://discourse.slicer.org/t/19724
+---
+
 # Faild build Slicer in Windows10 with Visual Studio 2017,Qt 5.10.1
 
 **Topic ID**: 19724

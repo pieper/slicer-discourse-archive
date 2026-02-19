@@ -1,3 +1,10 @@
+---
+topic_id: 4536
+title: "Gaussian Blur Multi Volume"
+date: 2018-10-26
+url: https://discourse.slicer.org/t/4536
+---
+
 # Gaussian blur multi-volume
 
 **Topic ID**: 4536

@@ -1,3 +1,10 @@
+---
+topic_id: 8333
+title: "Identifying Empty Segments"
+date: 2019-09-08
+url: https://discourse.slicer.org/t/8333
+---
+
 # Identifying empty segments?
 
 **Topic ID**: 8333

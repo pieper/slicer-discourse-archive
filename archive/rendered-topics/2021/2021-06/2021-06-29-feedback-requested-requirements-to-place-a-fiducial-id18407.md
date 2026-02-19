@@ -1,3 +1,10 @@
+---
+topic_id: 18407
+title: "Feedback Requested Requirements To Place A Fiducial"
+date: 2021-06-29
+url: https://discourse.slicer.org/t/18407
+---
+
 # Feedback requested: Requirements to place a fiducial
 
 **Topic ID**: 18407

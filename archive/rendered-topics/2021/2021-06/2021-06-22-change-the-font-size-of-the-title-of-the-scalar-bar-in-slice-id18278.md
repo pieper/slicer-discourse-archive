@@ -1,3 +1,10 @@
+---
+topic_id: 18278
+title: "Change The Font Size Of The Title Of The Scalar Bar In Slice"
+date: 2021-06-22
+url: https://discourse.slicer.org/t/18278
+---
+
 # Change the font size of the title of the scalar bar in SlicerRT Isodose module
 
 **Topic ID**: 18278

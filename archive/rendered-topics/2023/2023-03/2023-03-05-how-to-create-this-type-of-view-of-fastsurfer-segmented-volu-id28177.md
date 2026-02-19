@@ -1,3 +1,10 @@
+---
+topic_id: 28177
+title: "How To Create This Type Of View Of Fastsurfer Segmented Volu"
+date: 2023-03-05
+url: https://discourse.slicer.org/t/28177
+---
+
 # How to create this type of view of Fastsurfer segmented volume
 
 **Topic ID**: 28177

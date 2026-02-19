@@ -1,3 +1,10 @@
+---
+topic_id: 21868
+title: "Access Dicom Metadata Dialog"
+date: 2022-02-09
+url: https://discourse.slicer.org/t/21868
+---
+
 # Access Dicom metadata dialog
 
 **Topic ID**: 21868

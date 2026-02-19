@@ -1,3 +1,10 @@
+---
+topic_id: 284
+title: "File Add Volume"
+date: 2017-05-08
+url: https://discourse.slicer.org/t/284
+---
+
 # File add volume
 
 **Topic ID**: 284

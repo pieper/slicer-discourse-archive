@@ -1,3 +1,10 @@
+---
+topic_id: 37527
+title: "Batch Registration Using Elastix"
+date: 2024-07-23
+url: https://discourse.slicer.org/t/37527
+---
+
 # batch registration using Elastix
 
 **Topic ID**: 37527

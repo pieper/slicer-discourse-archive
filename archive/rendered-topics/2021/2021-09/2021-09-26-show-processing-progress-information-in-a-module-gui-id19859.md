@@ -1,3 +1,10 @@
+---
+topic_id: 19859
+title: "Show Processing Progress Information In A Module Gui"
+date: 2021-09-26
+url: https://discourse.slicer.org/t/19859
+---
+
 # Show processing progress information in a module GUI
 
 **Topic ID**: 19859

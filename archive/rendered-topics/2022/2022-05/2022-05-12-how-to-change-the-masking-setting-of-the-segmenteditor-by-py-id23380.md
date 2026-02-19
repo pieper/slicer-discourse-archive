@@ -1,3 +1,10 @@
+---
+topic_id: 23380
+title: "How To Change The Masking Setting Of The Segmenteditor By Py"
+date: 2022-05-12
+url: https://discourse.slicer.org/t/23380
+---
+
 # How to change the masking setting of the segmenteditor by python?
 
 **Topic ID**: 23380

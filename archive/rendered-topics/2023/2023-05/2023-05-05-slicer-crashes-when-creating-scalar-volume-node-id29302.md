@@ -1,3 +1,10 @@
+---
+topic_id: 29302
+title: "Slicer Crashes When Creating Scalar Volume Node"
+date: 2023-05-05
+url: https://discourse.slicer.org/t/29302
+---
+
 # Slicer crashes when creating scalar volume node
 
 **Topic ID**: 29302

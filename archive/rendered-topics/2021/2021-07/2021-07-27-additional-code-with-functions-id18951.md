@@ -1,3 +1,10 @@
+---
+topic_id: 18951
+title: "Additional Code With Functions"
+date: 2021-07-27
+url: https://discourse.slicer.org/t/18951
+---
+
 # Additional code with functions
 
 **Topic ID**: 18951

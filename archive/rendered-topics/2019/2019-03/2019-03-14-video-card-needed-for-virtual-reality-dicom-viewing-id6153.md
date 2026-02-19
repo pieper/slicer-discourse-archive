@@ -1,3 +1,10 @@
+---
+topic_id: 6153
+title: "Video Card Needed For Virtual Reality Dicom Viewing"
+date: 2019-03-14
+url: https://discourse.slicer.org/t/6153
+---
+
 # Video Card needed for Virtual Reality DICOM viewing
 
 **Topic ID**: 6153

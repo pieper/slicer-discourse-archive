@@ -1,3 +1,10 @@
+---
+topic_id: 2482
+title: "Why Do I Get Build Error Class Vtkobjexporter Has No Member"
+date: 2018-03-30
+url: https://discourse.slicer.org/t/2482
+---
+
 # Why do I get build error "class vtkOBJExporter has no member named SetOBJFileComment" when building Slicer against Qt4?
 
 **Topic ID**: 2482

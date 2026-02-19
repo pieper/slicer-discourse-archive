@@ -1,3 +1,10 @@
+---
+topic_id: 32954
+title: "How Can I Find Midsagittal Slice From Dicom File"
+date: 2023-11-22
+url: https://discourse.slicer.org/t/32954
+---
+
 # How can I find midsagittal slice from dicom file
 
 **Topic ID**: 32954

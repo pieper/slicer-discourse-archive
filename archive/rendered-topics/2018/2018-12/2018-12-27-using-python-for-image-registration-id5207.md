@@ -1,3 +1,10 @@
+---
+topic_id: 5207
+title: "Using Python For Image Registration"
+date: 2018-12-27
+url: https://discourse.slicer.org/t/5207
+---
+
 # Using Python for image registration
 
 **Topic ID**: 5207

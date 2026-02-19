@@ -1,3 +1,10 @@
+---
+topic_id: 4125
+title: "2018 09 16 Expect Delayed Nightly Slicer Installers And Exte"
+date: 2018-09-16
+url: https://discourse.slicer.org/t/4125
+---
+
 # 2018.09.16: Expect delayed nightly Slicer installers and extensions
 
 **Topic ID**: 4125

@@ -1,3 +1,10 @@
+---
+topic_id: 14624
+title: "In Segment Editor Module Some Parts Can Not Be Marked"
+date: 2020-11-16
+url: https://discourse.slicer.org/t/14624
+---
+
 # In Segment Editor module some parts can not be marked
 
 **Topic ID**: 14624

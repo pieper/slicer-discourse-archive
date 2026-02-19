@@ -1,3 +1,10 @@
+---
+topic_id: 29577
+title: "Call For Papers Miccai23 Workshop On Shape Analysis In Medic"
+date: 2023-05-22
+url: https://discourse.slicer.org/t/29577
+---
+
 # Call for Papers: MICCAI'23 Workshop on Shape Analysis in Medical Imaging (SHAPEMI)
 
 **Topic ID**: 29577

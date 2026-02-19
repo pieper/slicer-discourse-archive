@@ -1,3 +1,10 @@
+---
+topic_id: 14378
+title: "How To Get Hu Values At Each Fiducial Points"
+date: 2020-11-02
+url: https://discourse.slicer.org/t/14378
+---
+
 # How to get HU values at each fiducial points
 
 **Topic ID**: 14378

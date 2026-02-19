@@ -1,3 +1,10 @@
+---
+topic_id: 4358
+title: "Slice Number Change"
+date: 2018-10-11
+url: https://discourse.slicer.org/t/4358
+---
+
 # Slice number change
 
 **Topic ID**: 4358

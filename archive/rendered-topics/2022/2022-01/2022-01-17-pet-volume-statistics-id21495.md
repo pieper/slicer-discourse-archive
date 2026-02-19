@@ -1,3 +1,10 @@
+---
+topic_id: 21495
+title: "Pet Volume Statistics"
+date: 2022-01-17
+url: https://discourse.slicer.org/t/21495
+---
+
 # PET Volume statistics
 
 **Topic ID**: 21495

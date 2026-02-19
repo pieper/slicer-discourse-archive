@@ -1,3 +1,10 @@
+---
+topic_id: 27989
+title: "How To Properly Create A Volumenode After Registration Using"
+date: 2023-02-22
+url: https://discourse.slicer.org/t/27989
+---
+
 # How to properly create a volumeNode after registration using SITK ?
 
 **Topic ID**: 27989

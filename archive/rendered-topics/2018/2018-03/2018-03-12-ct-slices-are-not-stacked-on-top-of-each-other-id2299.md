@@ -1,3 +1,10 @@
+---
+topic_id: 2299
+title: "Ct Slices Are Not Stacked On Top Of Each Other"
+date: 2018-03-12
+url: https://discourse.slicer.org/t/2299
+---
+
 # CT slices are not stacked on top of each other
 
 **Topic ID**: 2299

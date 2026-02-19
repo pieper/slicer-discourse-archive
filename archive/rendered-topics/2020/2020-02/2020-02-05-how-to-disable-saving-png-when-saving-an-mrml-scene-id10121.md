@@ -1,3 +1,10 @@
+---
+topic_id: 10121
+title: "How To Disable Saving Png When Saving An Mrml Scene"
+date: 2020-02-05
+url: https://discourse.slicer.org/t/10121
+---
+
 # How to disable saving PNG when saving an mrml scene
 
 **Topic ID**: 10121

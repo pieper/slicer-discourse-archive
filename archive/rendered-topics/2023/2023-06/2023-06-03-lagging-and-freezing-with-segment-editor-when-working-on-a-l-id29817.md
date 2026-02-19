@@ -1,3 +1,10 @@
+---
+topic_id: 29817
+title: "Lagging And Freezing With Segment Editor When Working On A L"
+date: 2023-06-03
+url: https://discourse.slicer.org/t/29817
+---
+
 # Lagging and Freezing with Segment Editor when working on a large (10GB) CT image
 
 **Topic ID**: 29817

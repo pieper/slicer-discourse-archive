@@ -1,3 +1,10 @@
+---
+topic_id: 36323
+title: "Save Names Of Single Segmentations Within One File"
+date: 2024-05-22
+url: https://discourse.slicer.org/t/36323
+---
+
 # Save names of single segmentations within one file
 
 **Topic ID**: 36323

@@ -1,3 +1,10 @@
+---
+topic_id: 9697
+title: "So Weirdly Slicer Always Erases 1 Slice Lower Why"
+date: 2020-01-03
+url: https://discourse.slicer.org/t/9697
+---
+
 # So weirdly slicer always erases 1 slice lower... WHY?!
 
 **Topic ID**: 9697

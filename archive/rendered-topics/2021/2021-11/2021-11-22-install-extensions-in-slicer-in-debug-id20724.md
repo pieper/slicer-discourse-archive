@@ -1,3 +1,10 @@
+---
+topic_id: 20724
+title: "Install Extensions In Slicer In Debug"
+date: 2021-11-22
+url: https://discourse.slicer.org/t/20724
+---
+
 # Install extensions in Slicer in Debug
 
 **Topic ID**: 20724

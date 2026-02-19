@@ -1,3 +1,10 @@
+---
+topic_id: 11998
+title: "How Can I Speed Up The Registration Process In The Elastix M"
+date: 2020-06-12
+url: https://discourse.slicer.org/t/11998
+---
+
 # How can I speed up the registration process in the Elastix module?
 
 **Topic ID**: 11998

@@ -1,3 +1,10 @@
+---
+topic_id: 31633
+title: "Script To Add Curve From Control Points"
+date: 2023-09-09
+url: https://discourse.slicer.org/t/31633
+---
+
 # Script to add curve from control points
 
 **Topic ID**: 31633

@@ -1,3 +1,10 @@
+---
+topic_id: 9192
+title: "Installing Slicerfab Problems"
+date: 2019-11-18
+url: https://discourse.slicer.org/t/9192
+---
+
 # Installing SlicerFab 'problems'
 
 **Topic ID**: 9192

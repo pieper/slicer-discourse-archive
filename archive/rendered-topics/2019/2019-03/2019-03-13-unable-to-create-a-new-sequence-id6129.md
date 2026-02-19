@@ -1,3 +1,10 @@
+---
+topic_id: 6129
+title: "Unable To Create A New Sequence"
+date: 2019-03-13
+url: https://discourse.slicer.org/t/6129
+---
+
 # Unable to create a new sequence
 
 **Topic ID**: 6129

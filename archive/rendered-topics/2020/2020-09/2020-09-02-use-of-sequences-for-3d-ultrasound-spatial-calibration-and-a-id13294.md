@@ -1,3 +1,10 @@
+---
+topic_id: 13294
+title: "Use Of Sequences For 3D Ultrasound Spatial Calibration And A"
+date: 2020-09-02
+url: https://discourse.slicer.org/t/13294
+---
+
 # Use of 'sequences' for 3D ultrasound spatial calibration and acquisition
 
 **Topic ID**: 13294

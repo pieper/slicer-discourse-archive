@@ -1,3 +1,10 @@
+---
+topic_id: 28096
+title: "Implementing Pytest Qt"
+date: 2023-02-28
+url: https://discourse.slicer.org/t/28096
+---
+
 # Implementing PyTest-qt
 
 **Topic ID**: 28096

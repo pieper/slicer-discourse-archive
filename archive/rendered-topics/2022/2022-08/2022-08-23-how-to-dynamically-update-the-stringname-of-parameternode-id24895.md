@@ -1,3 +1,10 @@
+---
+topic_id: 24895
+title: "How To Dynamically Update The Stringname Of Parameternode"
+date: 2022-08-23
+url: https://discourse.slicer.org/t/24895
+---
+
 # How to dynamically update the StringName of ParameterNode?
 
 **Topic ID**: 24895

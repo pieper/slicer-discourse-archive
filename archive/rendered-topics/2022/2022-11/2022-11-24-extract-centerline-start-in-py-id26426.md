@@ -1,3 +1,10 @@
+---
+topic_id: 26426
+title: "Extract Centerline Start In Py"
+date: 2022-11-24
+url: https://discourse.slicer.org/t/26426
+---
+
 # Extract CenterLine - Start in py
 
 **Topic ID**: 26426

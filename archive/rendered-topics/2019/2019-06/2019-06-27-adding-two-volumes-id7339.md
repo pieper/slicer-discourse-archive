@@ -1,3 +1,10 @@
+---
+topic_id: 7339
+title: "Adding Two Volumes"
+date: 2019-06-27
+url: https://discourse.slicer.org/t/7339
+---
+
 # Adding two volumes
 
 **Topic ID**: 7339

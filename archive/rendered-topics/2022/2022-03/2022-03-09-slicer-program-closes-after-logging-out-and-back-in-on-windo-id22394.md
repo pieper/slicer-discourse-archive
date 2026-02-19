@@ -1,3 +1,10 @@
+---
+topic_id: 22394
+title: "Slicer Program Closes After Logging Out And Back In On Windo"
+date: 2022-03-09
+url: https://discourse.slicer.org/t/22394
+---
+
 # Slicer program closes after logging out and back in on Windows 10
 
 **Topic ID**: 22394

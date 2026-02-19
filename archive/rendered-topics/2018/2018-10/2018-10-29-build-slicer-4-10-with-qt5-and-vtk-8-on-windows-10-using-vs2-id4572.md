@@ -1,3 +1,10 @@
+---
+topic_id: 4572
+title: "Build Slicer 4 10 With Qt5 And Vtk 8 On Windows 10 Using Vs2"
+date: 2018-10-29
+url: https://discourse.slicer.org/t/4572
+---
+
 # Build Slicer 4.10 with Qt5 and VTK 8 on WIndows 10 using VS2015
 
 **Topic ID**: 4572

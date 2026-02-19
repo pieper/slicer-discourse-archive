@@ -1,3 +1,10 @@
+---
+topic_id: 24757
+title: "Using Vmtk Scripts Within Slicer With Vmtk Extension"
+date: 2022-08-15
+url: https://discourse.slicer.org/t/24757
+---
+
 # Using vmtk scripts within Slicer with vmtk-extension
 
 **Topic ID**: 24757

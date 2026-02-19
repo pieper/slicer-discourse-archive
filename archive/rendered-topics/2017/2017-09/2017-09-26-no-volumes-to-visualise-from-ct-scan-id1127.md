@@ -1,3 +1,10 @@
+---
+topic_id: 1127
+title: "No Volumes To Visualise From Ct Scan"
+date: 2017-09-26
+url: https://discourse.slicer.org/t/1127
+---
+
 # No volumes to visualise from CT scan
 
 **Topic ID**: 1127

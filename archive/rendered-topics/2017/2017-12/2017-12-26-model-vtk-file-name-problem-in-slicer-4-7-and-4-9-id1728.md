@@ -1,3 +1,10 @@
+---
+topic_id: 1728
+title: "Model Vtk File Name Problem In Slicer 4 7 And 4 9"
+date: 2017-12-26
+url: https://discourse.slicer.org/t/1728
+---
+
 # Model vtk file name problem in Slicer 4.7 and 4.9
 
 **Topic ID**: 1728

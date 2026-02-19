@@ -1,3 +1,10 @@
+---
+topic_id: 41588
+title: "Segment Comparison How To Interpret True Negatives Precision"
+date: 2025-02-09
+url: https://discourse.slicer.org/t/41588
+---
+
 # Segment comparison: how to interpret true negatives? Precision and recall
 
 **Topic ID**: 41588

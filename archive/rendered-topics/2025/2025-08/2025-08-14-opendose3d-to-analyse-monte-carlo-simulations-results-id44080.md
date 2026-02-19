@@ -1,3 +1,10 @@
+---
+topic_id: 44080
+title: "Opendose3D To Analyse Monte Carlo Simulations Results"
+date: 2025-08-14
+url: https://discourse.slicer.org/t/44080
+---
+
 # OpenDose3D to analyse monte carlo simulations results
 
 **Topic ID**: 44080

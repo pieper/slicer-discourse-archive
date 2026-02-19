@@ -1,3 +1,10 @@
+---
+topic_id: 29808
+title: "Tracked Ultrasound Using Slicerigt"
+date: 2023-06-02
+url: https://discourse.slicer.org/t/29808
+---
+
 # Tracked ultrasound using SlicerIGT 
 
 **Topic ID**: 29808

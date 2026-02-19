@@ -1,3 +1,10 @@
+---
+topic_id: 1563
+title: "Project Page Hosting On Github"
+date: 2017-11-30
+url: https://discourse.slicer.org/t/1563
+---
+
 # Project page hosting on GitHub?
 
 **Topic ID**: 1563

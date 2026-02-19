@@ -1,3 +1,10 @@
+---
+topic_id: 12926
+title: "Compute Consistent Normal Vectors From Triangle Strips"
+date: 2020-08-10
+url: https://discourse.slicer.org/t/12926
+---
+
 # Compute consistent normal vectors from triangle strips
 
 **Topic ID**: 12926

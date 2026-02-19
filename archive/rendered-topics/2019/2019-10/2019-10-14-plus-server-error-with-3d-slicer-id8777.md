@@ -1,3 +1,10 @@
+---
+topic_id: 8777
+title: "Plus Server Error With 3D Slicer"
+date: 2019-10-14
+url: https://discourse.slicer.org/t/8777
+---
+
 # Plus Server Error with 3D Slicer
 
 **Topic ID**: 8777

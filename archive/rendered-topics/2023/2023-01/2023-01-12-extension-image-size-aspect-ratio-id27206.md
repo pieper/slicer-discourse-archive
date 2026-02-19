@@ -1,3 +1,10 @@
+---
+topic_id: 27206
+title: "Extension Image Size Aspect Ratio"
+date: 2023-01-12
+url: https://discourse.slicer.org/t/27206
+---
+
 # Extension image size / aspect ratio
 
 **Topic ID**: 27206

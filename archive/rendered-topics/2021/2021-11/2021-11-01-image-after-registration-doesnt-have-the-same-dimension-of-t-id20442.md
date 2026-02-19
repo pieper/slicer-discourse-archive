@@ -1,3 +1,10 @@
+---
+topic_id: 20442
+title: "Image After Registration Doesnt Have The Same Dimension Of T"
+date: 2021-11-01
+url: https://discourse.slicer.org/t/20442
+---
+
 # Image after registration doesn't have the same dimension of the fixed image
 
 **Topic ID**: 20442

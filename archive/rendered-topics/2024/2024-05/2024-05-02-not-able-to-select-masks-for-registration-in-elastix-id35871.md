@@ -1,3 +1,10 @@
+---
+topic_id: 35871
+title: "Not Able To Select Masks For Registration In Elastix"
+date: 2024-05-02
+url: https://discourse.slicer.org/t/35871
+---
+
 # Not able to select masks for registration in elastix
 
 **Topic ID**: 35871

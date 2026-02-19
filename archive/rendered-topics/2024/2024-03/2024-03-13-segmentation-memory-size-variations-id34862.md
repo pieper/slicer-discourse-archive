@@ -1,3 +1,10 @@
+---
+topic_id: 34862
+title: "Segmentation Memory Size Variations"
+date: 2024-03-13
+url: https://discourse.slicer.org/t/34862
+---
+
 # Segmentation memory size variations
 
 **Topic ID**: 34862

@@ -1,3 +1,10 @@
+---
+topic_id: 19299
+title: "How To Adjust The Diameter Of Lines"
+date: 2021-08-22
+url: https://discourse.slicer.org/t/19299
+---
+
 # How to adjust the diameter of lines
 
 **Topic ID**: 19299

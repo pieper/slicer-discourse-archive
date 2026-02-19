@@ -1,3 +1,10 @@
+---
+topic_id: 7163
+title: "Convert Matlab Coordinates To Slicer"
+date: 2019-06-13
+url: https://discourse.slicer.org/t/7163
+---
+
 # Convert Matlab coordinates to Slicer
 
 **Topic ID**: 7163

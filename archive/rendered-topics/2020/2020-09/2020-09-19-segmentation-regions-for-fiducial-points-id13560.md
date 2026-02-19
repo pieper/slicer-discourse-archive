@@ -1,3 +1,10 @@
+---
+topic_id: 13560
+title: "Segmentation Regions For Fiducial Points"
+date: 2020-09-19
+url: https://discourse.slicer.org/t/13560
+---
+
 # Segmentation regions for Fiducial Points
 
 **Topic ID**: 13560

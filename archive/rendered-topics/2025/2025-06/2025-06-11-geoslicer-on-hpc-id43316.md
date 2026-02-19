@@ -1,3 +1,10 @@
+---
+topic_id: 43316
+title: "Geoslicer On Hpc"
+date: 2025-06-11
+url: https://discourse.slicer.org/t/43316
+---
+
 # GeoSlicer on HPC
 
 **Topic ID**: 43316

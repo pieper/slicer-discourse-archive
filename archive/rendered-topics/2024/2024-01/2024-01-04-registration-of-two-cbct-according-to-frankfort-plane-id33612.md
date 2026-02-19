@@ -1,3 +1,10 @@
+---
+topic_id: 33612
+title: "Registration Of Two Cbct According To Frankfort Plane"
+date: 2024-01-04
+url: https://discourse.slicer.org/t/33612
+---
+
 # Registration of two CBCT according to Frankfort plane
 
 **Topic ID**: 33612

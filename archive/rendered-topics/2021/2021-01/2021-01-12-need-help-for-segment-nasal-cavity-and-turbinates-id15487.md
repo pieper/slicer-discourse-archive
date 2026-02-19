@@ -1,3 +1,10 @@
+---
+topic_id: 15487
+title: "Need Help For Segment Nasal Cavity And Turbinates"
+date: 2021-01-12
+url: https://discourse.slicer.org/t/15487
+---
+
 # Need help for segment nasal cavity and turbinates
 
 **Topic ID**: 15487

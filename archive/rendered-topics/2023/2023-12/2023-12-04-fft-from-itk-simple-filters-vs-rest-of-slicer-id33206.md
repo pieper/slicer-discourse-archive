@@ -1,3 +1,10 @@
+---
+topic_id: 33206
+title: "Fft From Itk Simple Filters Vs Rest Of Slicer"
+date: 2023-12-04
+url: https://discourse.slicer.org/t/33206
+---
+
 # FFT from ITK Simple Filters (vs rest of Slicer)
 
 **Topic ID**: 33206

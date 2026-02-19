@@ -1,3 +1,10 @@
+---
+topic_id: 7332
+title: "Sequences Extension With Custom Build"
+date: 2019-06-27
+url: https://discourse.slicer.org/t/7332
+---
+
 # Sequences extension with custom build
 
 **Topic ID**: 7332

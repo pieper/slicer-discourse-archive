@@ -1,3 +1,10 @@
+---
+topic_id: 25493
+title: "The Modified Parameters In Drr Generator"
+date: 2022-09-30
+url: https://discourse.slicer.org/t/25493
+---
+
 # The modified parameters in DRR Generator
 
 **Topic ID**: 25493

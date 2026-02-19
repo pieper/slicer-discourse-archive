@@ -1,3 +1,10 @@
+---
+topic_id: 11764
+title: "Place Fiducial Every N Seconds"
+date: 2020-05-29
+url: https://discourse.slicer.org/t/11764
+---
+
 # Place fiducial every n seconds
 
 **Topic ID**: 11764

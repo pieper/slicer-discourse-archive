@@ -1,3 +1,10 @@
+---
+topic_id: 2546
+title: "Slicerrt Import Dose Cube"
+date: 2018-04-09
+url: https://discourse.slicer.org/t/2546
+---
+
 # SlicerRT Import Dose Cube
 
 **Topic ID**: 2546

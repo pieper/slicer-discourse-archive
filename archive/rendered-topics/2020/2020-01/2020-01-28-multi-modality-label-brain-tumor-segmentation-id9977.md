@@ -1,3 +1,10 @@
+---
+topic_id: 9977
+title: "Multi Modality Label Brain Tumor Segmentation"
+date: 2020-01-28
+url: https://discourse.slicer.org/t/9977
+---
+
 # Multi-modality/label Brain Tumor segmentation
 
 **Topic ID**: 9977

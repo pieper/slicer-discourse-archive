@@ -1,3 +1,10 @@
+---
+topic_id: 5013
+title: "Fiducials Specify Segment In 3D View"
+date: 2018-12-07
+url: https://discourse.slicer.org/t/5013
+---
+
 # Fiducials - specify segment in 3D view?
 
 **Topic ID**: 5013

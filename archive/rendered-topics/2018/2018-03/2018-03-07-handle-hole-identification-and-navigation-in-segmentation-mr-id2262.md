@@ -1,3 +1,10 @@
+---
+topic_id: 2262
+title: "Handle Hole Identification And Navigation In Segmentation Mr"
+date: 2018-03-07
+url: https://discourse.slicer.org/t/2262
+---
+
 # Handle/hole identification and navigation in segmentation MRI volume
 
 **Topic ID**: 2262

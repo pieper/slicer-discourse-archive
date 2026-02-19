@@ -1,3 +1,10 @@
+---
+topic_id: 3452
+title: "Segment Editor Effect Fill Between Slices Does Not Recognize"
+date: 2018-07-10
+url: https://discourse.slicer.org/t/3452
+---
+
 # Segment Editor Effect: Fill Between Slices does not recognize existing contour
 
 **Topic ID**: 3452

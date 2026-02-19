@@ -1,3 +1,10 @@
+---
+topic_id: 8028
+title: "Error Building Slicer On Windows 10 Ctk Problem"
+date: 2019-08-14
+url: https://discourse.slicer.org/t/8028
+---
+
 # Error building slicer on Windows 10 (CTK problem?)
 
 **Topic ID**: 8028

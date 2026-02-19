@@ -1,3 +1,10 @@
+---
+topic_id: 8066
+title: "Why Neighboured Slices Got Overlaid In The Red Slice View Af"
+date: 2019-08-16
+url: https://discourse.slicer.org/t/8066
+---
+
 # Why neighboured slices got overlaid in the Red-Slice-view after I get into the module of Screen-Capture?
 
 **Topic ID**: 8066

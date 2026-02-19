@@ -1,3 +1,10 @@
+---
+topic_id: 38271
+title: "Using Resample Scalar Vector Dwi Volume In Python"
+date: 2024-09-08
+url: https://discourse.slicer.org/t/38271
+---
+
 # Using Resample Scalar/Vector/DWI Volume in python
 
 **Topic ID**: 38271

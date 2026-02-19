@@ -1,3 +1,10 @@
+---
+topic_id: 16563
+title: "Set Work Directory In Vmtk Pypes"
+date: 2021-03-16
+url: https://discourse.slicer.org/t/16563
+---
+
 # set work directory in VMTK/Pypes?
 
 **Topic ID**: 16563

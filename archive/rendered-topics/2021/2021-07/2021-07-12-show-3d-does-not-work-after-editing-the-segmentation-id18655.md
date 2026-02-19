@@ -1,3 +1,10 @@
+---
+topic_id: 18655
+title: "Show 3D Does Not Work After Editing The Segmentation"
+date: 2021-07-12
+url: https://discourse.slicer.org/t/18655
+---
+
 # Show 3D does not work after editing the segmentation
 
 **Topic ID**: 18655

@@ -1,3 +1,10 @@
+---
+topic_id: 2895
+title: "Looping Through Ctk Ctkcollapsiblebutton Widgets"
+date: 2018-05-23
+url: https://discourse.slicer.org/t/2895
+---
+
 # Looping through ctk.ctkCollapsibleButton widgets
 
 **Topic ID**: 2895

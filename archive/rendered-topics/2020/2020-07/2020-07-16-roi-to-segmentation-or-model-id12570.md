@@ -1,3 +1,10 @@
+---
+topic_id: 12570
+title: "Roi To Segmentation Or Model"
+date: 2020-07-16
+url: https://discourse.slicer.org/t/12570
+---
+
 # ROI to Segmentation or Model?
 
 **Topic ID**: 12570

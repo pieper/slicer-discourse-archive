@@ -1,3 +1,10 @@
+---
+topic_id: 1986
+title: "Ctkcheckableheaderview Missing In Slicer Python"
+date: 2018-01-31
+url: https://discourse.slicer.org/t/1986
+---
+
 # ctkCheckableHeaderView missing in Slicer python
 
 **Topic ID**: 1986

@@ -1,3 +1,10 @@
+---
+topic_id: 15631
+title: "Imported Dicom Image Appears Blurred In 2 Out Of 3 Slice Vie"
+date: 2021-01-22
+url: https://discourse.slicer.org/t/15631
+---
+
 # Imported DICOM image appears blurred in 2 out of 3 slice views
 
 **Topic ID**: 15631

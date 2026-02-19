@@ -1,3 +1,10 @@
+---
+topic_id: 41360
+title: "Interaction In 3D Viewer To Align Orthogonal Planes Missing"
+date: 2025-01-29
+url: https://discourse.slicer.org/t/41360
+---
+
 # "Interaction in 3D Viewer" to align orthogonal planes missing in 5.8.0 update?
 
 **Topic ID**: 41360

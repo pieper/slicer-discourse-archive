@@ -1,3 +1,10 @@
+---
+topic_id: 16322
+title: "Ubuntu Dockerbuild Environment"
+date: 2021-03-03
+url: https://discourse.slicer.org/t/16322
+---
+
 # Ubuntu dockerbuild environment
 
 **Topic ID**: 16322

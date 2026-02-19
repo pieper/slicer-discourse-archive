@@ -1,3 +1,10 @@
+---
+topic_id: 28311
+title: "New Feature Install Modules By Drag And Drop Python Files"
+date: 2023-03-11
+url: https://discourse.slicer.org/t/28311
+---
+
 # New feature: Install modules by drag-and-drop Python files
 
 **Topic ID**: 28311

@@ -1,3 +1,10 @@
+---
+topic_id: 6787
+title: "Simple Filters Module Do Not Have Any Filters In Latest Nigh"
+date: 2019-05-14
+url: https://discourse.slicer.org/t/6787
+---
+
 # Simple Filters module do not have any filters in latest nightly version
 
 **Topic ID**: 6787

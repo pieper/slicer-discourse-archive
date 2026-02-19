@@ -1,3 +1,10 @@
+---
+topic_id: 611
+title: "Low Frame Rate Of Real Time Ultrasound Image Display"
+date: 2017-07-01
+url: https://discourse.slicer.org/t/611
+---
+
 # Low frame rate of real-time ultrasound image display
 
 **Topic ID**: 611

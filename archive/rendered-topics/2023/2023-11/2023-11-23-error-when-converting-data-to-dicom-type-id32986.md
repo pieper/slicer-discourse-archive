@@ -1,3 +1,10 @@
+---
+topic_id: 32986
+title: "Error When Converting Data To Dicom Type"
+date: 2023-11-23
+url: https://discourse.slicer.org/t/32986
+---
+
 # Error when converting data to DICOM type
 
 **Topic ID**: 32986

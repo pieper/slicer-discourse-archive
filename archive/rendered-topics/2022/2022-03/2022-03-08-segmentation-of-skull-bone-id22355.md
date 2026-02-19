@@ -1,3 +1,10 @@
+---
+topic_id: 22355
+title: "Segmentation Of Skull Bone"
+date: 2022-03-08
+url: https://discourse.slicer.org/t/22355
+---
+
 # Segmentation of skull bone
 
 **Topic ID**: 22355

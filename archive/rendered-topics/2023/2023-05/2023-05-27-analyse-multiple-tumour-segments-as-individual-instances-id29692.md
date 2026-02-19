@@ -1,3 +1,10 @@
+---
+topic_id: 29692
+title: "Analyse Multiple Tumour Segments As Individual Instances"
+date: 2023-05-27
+url: https://discourse.slicer.org/t/29692
+---
+
 # Analyse multiple tumour segments as individual instances
 
 **Topic ID**: 29692

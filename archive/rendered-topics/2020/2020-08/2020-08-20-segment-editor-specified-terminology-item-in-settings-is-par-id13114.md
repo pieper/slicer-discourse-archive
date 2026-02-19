@@ -1,3 +1,10 @@
+---
+topic_id: 13114
+title: "Segment Editor Specified Terminology Item In Settings Is Par"
+date: 2020-08-20
+url: https://discourse.slicer.org/t/13114
+---
+
 # Segment editor : specified terminology item in settings is partially taken into account
 
 **Topic ID**: 13114

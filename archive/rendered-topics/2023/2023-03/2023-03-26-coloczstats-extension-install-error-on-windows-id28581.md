@@ -1,3 +1,10 @@
+---
+topic_id: 28581
+title: "Coloczstats Extension Install Error On Windows"
+date: 2023-03-26
+url: https://discourse.slicer.org/t/28581
+---
+
 # 'ColocZStats' extension install error on Windows
 
 **Topic ID**: 28581

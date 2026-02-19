@@ -1,3 +1,10 @@
+---
+topic_id: 36942
+title: "Is It Possible To Have The Segment Name Fields In The Segmen"
+date: 2024-06-21
+url: https://discourse.slicer.org/t/36942
+---
+
 # Is it possible to have the segment name fields in the segment editor be like a combobox?
 
 **Topic ID**: 36942

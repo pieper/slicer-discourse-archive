@@ -1,3 +1,10 @@
+---
+topic_id: 9834
+title: "Modifying Metadata"
+date: 2020-01-16
+url: https://discourse.slicer.org/t/9834
+---
+
 # Modifying metadata
 
 **Topic ID**: 9834

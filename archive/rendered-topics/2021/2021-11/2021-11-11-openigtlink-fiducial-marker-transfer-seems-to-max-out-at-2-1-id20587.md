@@ -1,3 +1,10 @@
+---
+topic_id: 20587
+title: "Openigtlink Fiducial Marker Transfer Seems To Max Out At 2 1"
+date: 2021-11-11
+url: https://discourse.slicer.org/t/20587
+---
+
 # OpenIGTLink Fiducial Marker Transfer seems to max out at 2^16 bytes
 
 **Topic ID**: 20587

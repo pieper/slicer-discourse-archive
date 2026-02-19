@@ -1,3 +1,10 @@
+---
+topic_id: 9488
+title: "Reading Mni Tag Point File In Slicer"
+date: 2019-12-13
+url: https://discourse.slicer.org/t/9488
+---
+
 # Reading MNI Tag point file in Slicer
 
 **Topic ID**: 9488

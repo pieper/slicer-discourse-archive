@@ -1,3 +1,10 @@
+---
+topic_id: 27802
+title: "Using 3D Slicer As A Background Service"
+date: 2023-02-14
+url: https://discourse.slicer.org/t/27802
+---
+
 # Using 3D Slicer as a background service
 
 **Topic ID**: 27802

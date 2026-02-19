@@ -1,3 +1,10 @@
+---
+topic_id: 15025
+title: "I Have Lots Of Questions Can I Write You An Email"
+date: 2020-12-12
+url: https://discourse.slicer.org/t/15025
+---
+
 # I have lots of questions. Can I write you an email?
 
 **Topic ID**: 15025

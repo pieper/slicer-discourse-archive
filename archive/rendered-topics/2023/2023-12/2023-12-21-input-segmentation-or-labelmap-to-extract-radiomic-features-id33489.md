@@ -1,3 +1,10 @@
+---
+topic_id: 33489
+title: "Input Segmentation Or Labelmap To Extract Radiomic Features"
+date: 2023-12-21
+url: https://discourse.slicer.org/t/33489
+---
+
 # Input segmentation or labelmap to extract radiomic features through 3D slicer
 
 **Topic ID**: 33489

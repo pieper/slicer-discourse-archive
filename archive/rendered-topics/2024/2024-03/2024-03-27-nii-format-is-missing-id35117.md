@@ -1,3 +1,10 @@
+---
+topic_id: 35117
+title: "Nii Format Is Missing"
+date: 2024-03-27
+url: https://discourse.slicer.org/t/35117
+---
+
 # .nii format is missing
 
 **Topic ID**: 35117

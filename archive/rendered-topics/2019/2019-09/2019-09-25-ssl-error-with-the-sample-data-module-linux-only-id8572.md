@@ -1,3 +1,10 @@
+---
+topic_id: 8572
+title: "Ssl Error With The Sample Data Module Linux Only"
+date: 2019-09-25
+url: https://discourse.slicer.org/t/8572
+---
+
 # SSL error with the sample data module (Linux only)
 
 **Topic ID**: 8572

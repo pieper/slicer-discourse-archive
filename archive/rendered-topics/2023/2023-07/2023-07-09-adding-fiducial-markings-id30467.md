@@ -1,3 +1,10 @@
+---
+topic_id: 30467
+title: "Adding Fiducial Markings"
+date: 2023-07-09
+url: https://discourse.slicer.org/t/30467
+---
+
 # Adding Fiducial Markings
 
 **Topic ID**: 30467

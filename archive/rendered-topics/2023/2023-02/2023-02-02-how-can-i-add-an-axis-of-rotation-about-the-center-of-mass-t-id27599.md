@@ -1,3 +1,10 @@
+---
+topic_id: 27599
+title: "How Can I Add An Axis Of Rotation About The Center Of Mass T"
+date: 2023-02-02
+url: https://discourse.slicer.org/t/27599
+---
+
 # How can I add an axis of rotation about the center of mass to the model?
 
 **Topic ID**: 27599

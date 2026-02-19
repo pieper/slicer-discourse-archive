@@ -1,3 +1,10 @@
+---
+topic_id: 40320
+title: "Planecnntrainer"
+date: 2024-11-21
+url: https://discourse.slicer.org/t/40320
+---
+
 # PlaneCNNTrainer
 
 **Topic ID**: 40320

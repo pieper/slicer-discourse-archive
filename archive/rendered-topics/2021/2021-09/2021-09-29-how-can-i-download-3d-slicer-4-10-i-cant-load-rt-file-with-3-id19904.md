@@ -1,3 +1,10 @@
+---
+topic_id: 19904
+title: "How Can I Download 3D Slicer 4 10 I Cant Load Rt File With 3"
+date: 2021-09-29
+url: https://discourse.slicer.org/t/19904
+---
+
 # How can I download 3D slicer 4.10, I can't load RT file with 3D slicer 4.11 for CT scan
 
 **Topic ID**: 19904

@@ -1,3 +1,10 @@
+---
+topic_id: 33305
+title: "Overlay Model With Original Image In Slicer"
+date: 2023-12-08
+url: https://discourse.slicer.org/t/33305
+---
+
 # Overlay model with original image in slicer
 
 **Topic ID**: 33305

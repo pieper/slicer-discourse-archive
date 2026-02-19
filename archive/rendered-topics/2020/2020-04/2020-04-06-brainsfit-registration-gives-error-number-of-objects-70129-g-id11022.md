@@ -1,3 +1,10 @@
+---
+topic_id: 11022
+title: "Brainsfit Registration Gives Error Number Of Objects 70129 G"
+date: 2020-04-06
+url: https://discourse.slicer.org/t/11022
+---
+
 # BRAINSfit Registration gives error "Number of objects (70129) greater than maximum of output pixel type (65535)"?
 
 **Topic ID**: 11022

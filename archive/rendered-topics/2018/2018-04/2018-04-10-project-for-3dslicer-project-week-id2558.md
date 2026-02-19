@@ -1,3 +1,10 @@
+---
+topic_id: 2558
+title: "Project For 3Dslicer Project Week"
+date: 2018-04-10
+url: https://discourse.slicer.org/t/2558
+---
+
 # Project for 3DSlicer project week
 
 **Topic ID**: 2558

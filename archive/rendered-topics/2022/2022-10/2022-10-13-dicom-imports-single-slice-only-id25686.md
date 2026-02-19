@@ -1,3 +1,10 @@
+---
+topic_id: 25686
+title: "Dicom Imports Single Slice Only"
+date: 2022-10-13
+url: https://discourse.slicer.org/t/25686
+---
+
 # DICOM imports single slice only
 
 **Topic ID**: 25686

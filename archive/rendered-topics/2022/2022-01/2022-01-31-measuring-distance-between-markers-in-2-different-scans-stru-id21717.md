@@ -1,3 +1,10 @@
+---
+topic_id: 21717
+title: "Measuring Distance Between Markers In 2 Different Scans Stru"
+date: 2022-01-31
+url: https://discourse.slicer.org/t/21717
+---
+
 # Measuring distance between markers in 2 different scans, struggling with transform because of unknown segment origins?
 
 **Topic ID**: 21717

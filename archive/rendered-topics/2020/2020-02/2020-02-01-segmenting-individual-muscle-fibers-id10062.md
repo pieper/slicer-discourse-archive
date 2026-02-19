@@ -1,3 +1,10 @@
+---
+topic_id: 10062
+title: "Segmenting Individual Muscle Fibers"
+date: 2020-02-01
+url: https://discourse.slicer.org/t/10062
+---
+
 # Segmenting individual muscle fibers
 
 **Topic ID**: 10062

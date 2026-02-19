@@ -1,3 +1,10 @@
+---
+topic_id: 5232
+title: "Model Does Not Close After Hollowing"
+date: 2018-12-30
+url: https://discourse.slicer.org/t/5232
+---
+
 # Model does not close after hollowing
 
 **Topic ID**: 5232

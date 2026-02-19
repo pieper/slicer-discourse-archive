@@ -1,3 +1,10 @@
+---
+topic_id: 35935
+title: "Ctrl Z Crashes Slicer Sometimes"
+date: 2024-05-06
+url: https://discourse.slicer.org/t/35935
+---
+
 # Ctrl+Z crashes Slicer sometimes
 
 **Topic ID**: 35935

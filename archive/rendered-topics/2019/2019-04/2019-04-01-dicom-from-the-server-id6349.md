@@ -1,3 +1,10 @@
+---
+topic_id: 6349
+title: "Dicom From The Server"
+date: 2019-04-01
+url: https://discourse.slicer.org/t/6349
+---
+
 # Dicom from the server
 
 **Topic ID**: 6349

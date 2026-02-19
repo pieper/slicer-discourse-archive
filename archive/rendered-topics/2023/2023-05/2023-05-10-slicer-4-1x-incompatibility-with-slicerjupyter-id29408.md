@@ -1,3 +1,10 @@
+---
+topic_id: 29408
+title: "Slicer 4 1X Incompatibility With Slicerjupyter"
+date: 2023-05-10
+url: https://discourse.slicer.org/t/29408
+---
+
 # Slicer 4.1x incompatibility with SlicerJupyter
 
 **Topic ID**: 29408

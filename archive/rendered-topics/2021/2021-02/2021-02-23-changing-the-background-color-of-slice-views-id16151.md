@@ -1,3 +1,10 @@
+---
+topic_id: 16151
+title: "Changing The Background Color Of Slice Views"
+date: 2021-02-23
+url: https://discourse.slicer.org/t/16151
+---
+
 # Changing the background color of slice views
 
 **Topic ID**: 16151

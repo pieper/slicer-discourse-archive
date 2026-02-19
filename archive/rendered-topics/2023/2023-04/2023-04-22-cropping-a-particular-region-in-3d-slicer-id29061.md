@@ -1,3 +1,10 @@
+---
+topic_id: 29061
+title: "Cropping A Particular Region In 3D Slicer"
+date: 2023-04-22
+url: https://discourse.slicer.org/t/29061
+---
+
 # Cropping a particular region in 3D slicer
 
 **Topic ID**: 29061

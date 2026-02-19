@@ -1,3 +1,10 @@
+---
+topic_id: 10526
+title: "Volume Confounded Variables"
+date: 2020-03-03
+url: https://discourse.slicer.org/t/10526
+---
+
 # Volume confounded variables
 
 **Topic ID**: 10526

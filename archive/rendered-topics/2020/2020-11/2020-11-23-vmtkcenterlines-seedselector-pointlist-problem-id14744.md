@@ -1,3 +1,10 @@
+---
+topic_id: 14744
+title: "Vmtkcenterlines Seedselector Pointlist Problem"
+date: 2020-11-23
+url: https://discourse.slicer.org/t/14744
+---
+
 # Vmtkcenterlines -seedselector pointlist problem
 
 **Topic ID**: 14744

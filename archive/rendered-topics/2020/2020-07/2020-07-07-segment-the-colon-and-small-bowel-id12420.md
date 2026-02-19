@@ -1,3 +1,10 @@
+---
+topic_id: 12420
+title: "Segment The Colon And Small Bowel"
+date: 2020-07-07
+url: https://discourse.slicer.org/t/12420
+---
+
 # Segment the colon and small bowel
 
 **Topic ID**: 12420

@@ -1,3 +1,10 @@
+---
+topic_id: 18260
+title: "Changing The Image Scrolling Direction Using The Sliders"
+date: 2021-06-22
+url: https://discourse.slicer.org/t/18260
+---
+
 # Changing the image scrolling direction using the sliders
 
 **Topic ID**: 18260

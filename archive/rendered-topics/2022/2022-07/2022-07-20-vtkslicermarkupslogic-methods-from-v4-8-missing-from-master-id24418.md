@@ -1,3 +1,10 @@
+---
+topic_id: 24418
+title: "Vtkslicermarkupslogic Methods From V4 8 Missing From Master"
+date: 2022-07-20
+url: https://discourse.slicer.org/t/24418
+---
+
 # vtkSlicerMarkupsLogic methods from v4.8 missing from master version
 
 **Topic ID**: 24418

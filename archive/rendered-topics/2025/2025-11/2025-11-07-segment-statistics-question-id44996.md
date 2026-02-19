@@ -1,3 +1,10 @@
+---
+topic_id: 44996
+title: "Segment Statistics Question"
+date: 2025-11-07
+url: https://discourse.slicer.org/t/44996
+---
+
 # Segment Statistics Question
 
 **Topic ID**: 44996

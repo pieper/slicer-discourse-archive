@@ -1,3 +1,10 @@
+---
+topic_id: 8878
+title: "Factory Status Late Extensions Today"
+date: 2019-10-23
+url: https://discourse.slicer.org/t/8878
+---
+
 # Factory status: Late extensions today
 
 **Topic ID**: 8878

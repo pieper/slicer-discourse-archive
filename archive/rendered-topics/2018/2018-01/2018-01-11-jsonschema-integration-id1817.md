@@ -1,3 +1,10 @@
+---
+topic_id: 1817
+title: "Jsonschema Integration"
+date: 2018-01-11
+url: https://discourse.slicer.org/t/1817
+---
+
 # Jsonschema integration
 
 **Topic ID**: 1817

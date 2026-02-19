@@ -1,3 +1,10 @@
+---
+topic_id: 15119
+title: "Error Could Not Load 801 Unnamed Series As A Scalar Volume"
+date: 2020-12-17
+url: https://discourse.slicer.org/t/15119
+---
+
 # Error: Could not load: 801: Unnamed Series as a Scalar Volume
 
 **Topic ID**: 15119

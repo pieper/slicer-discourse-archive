@@ -1,3 +1,10 @@
+---
+topic_id: 8101
+title: "Boundary Deviation Bd And Dice Similarity Coefficient Dsc"
+date: 2019-08-20
+url: https://discourse.slicer.org/t/8101
+---
+
 # Boundary deviation (BD) and Dice Similarity Coefficient (DSC)
 
 **Topic ID**: 8101

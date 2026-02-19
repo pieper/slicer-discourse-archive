@@ -1,3 +1,10 @@
+---
+topic_id: 21290
+title: "Raise Only Add Files Gui"
+date: 2021-12-31
+url: https://discourse.slicer.org/t/21290
+---
+
 # Raise only Add Files GUI
 
 **Topic ID**: 21290

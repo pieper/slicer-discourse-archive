@@ -1,3 +1,10 @@
+---
+topic_id: 22233
+title: "Fast Share S4 Sources Between Two Development Computers On W"
+date: 2022-03-01
+url: https://discourse.slicer.org/t/22233
+---
+
 # Fast share S4 sources between two development computers on Windows
 
 **Topic ID**: 22233

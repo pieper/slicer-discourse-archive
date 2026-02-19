@@ -1,3 +1,10 @@
+---
+topic_id: 34286
+title: "Principal Moments In 3D Slicer"
+date: 2024-02-13
+url: https://discourse.slicer.org/t/34286
+---
+
 # Principal moments in 3D Slicer
 
 **Topic ID**: 34286

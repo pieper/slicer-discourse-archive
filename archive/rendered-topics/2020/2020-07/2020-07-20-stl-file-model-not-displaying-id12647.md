@@ -1,3 +1,10 @@
+---
+topic_id: 12647
+title: "Stl File Model Not Displaying"
+date: 2020-07-20
+url: https://discourse.slicer.org/t/12647
+---
+
 # STL file model not displaying
 
 **Topic ID**: 12647

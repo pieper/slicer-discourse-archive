@@ -1,3 +1,10 @@
+---
+topic_id: 1785
+title: "Load Pictures From Layerqam"
+date: 2018-01-08
+url: https://discourse.slicer.org/t/1785
+---
+
 # Load pictures from LayerQam 
 
 **Topic ID**: 1785

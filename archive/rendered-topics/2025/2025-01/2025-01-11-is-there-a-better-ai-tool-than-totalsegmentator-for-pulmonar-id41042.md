@@ -1,3 +1,10 @@
+---
+topic_id: 41042
+title: "Is There A Better Ai Tool Than Totalsegmentator For Pulmonar"
+date: 2025-01-11
+url: https://discourse.slicer.org/t/41042
+---
+
 # Is there a better AI tool than totalsegmentator for pulmonary vessel segmentation?
 
 **Topic ID**: 41042

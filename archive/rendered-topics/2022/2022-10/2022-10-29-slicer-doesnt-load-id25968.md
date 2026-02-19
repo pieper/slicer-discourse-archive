@@ -1,3 +1,10 @@
+---
+topic_id: 25968
+title: "Slicer Doesnt Load"
+date: 2022-10-29
+url: https://discourse.slicer.org/t/25968
+---
+
 # Slicer doesn't load
 
 **Topic ID**: 25968

@@ -1,3 +1,10 @@
+---
+topic_id: 11301
+title: "Accessing Slicers Transform Module Through Terminal"
+date: 2020-04-26
+url: https://discourse.slicer.org/t/11301
+---
+
 # Accessing Slicer's Transform Module through terminal
 
 **Topic ID**: 11301

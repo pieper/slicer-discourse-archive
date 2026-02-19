@@ -1,3 +1,10 @@
+---
+topic_id: 44408
+title: "Is It Possible To Create A New Segment From A Fiducial Point"
+date: 2025-09-09
+url: https://discourse.slicer.org/t/44408
+---
+
 # Is it possible to create a new segment from a fiducial point cloud?
 
 **Topic ID**: 44408

@@ -1,3 +1,10 @@
+---
+topic_id: 33494
+title: "Extension Deepinfer"
+date: 2023-12-21
+url: https://discourse.slicer.org/t/33494
+---
+
 # Extension Deepinfer
 
 **Topic ID**: 33494

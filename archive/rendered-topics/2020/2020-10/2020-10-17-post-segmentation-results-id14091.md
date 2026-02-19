@@ -1,3 +1,10 @@
+---
+topic_id: 14091
+title: "Post Segmentation Results"
+date: 2020-10-17
+url: https://discourse.slicer.org/t/14091
+---
+
 # Post segmentation results
 
 **Topic ID**: 14091

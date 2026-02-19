@@ -1,3 +1,10 @@
+---
+topic_id: 26880
+title: "Accuracy Measurement Between Two Stl Model T1 Immediate Afte"
+date: 2022-12-22
+url: https://discourse.slicer.org/t/26880
+---
+
 # Accuracy measurement between two STL model T1 - immediate after surgery T2 one year after surgery
 
 **Topic ID**: 26880

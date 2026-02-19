@@ -1,3 +1,10 @@
+---
+topic_id: 1949
+title: "Create A 3D Model From A Series Of Dicom Images"
+date: 2018-01-26
+url: https://discourse.slicer.org/t/1949
+---
+
 # Create a 3D model from a series of DICOM images
 
 **Topic ID**: 1949

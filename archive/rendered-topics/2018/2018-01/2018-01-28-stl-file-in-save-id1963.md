@@ -1,3 +1,10 @@
+---
+topic_id: 1963
+title: "Stl File In Save"
+date: 2018-01-28
+url: https://discourse.slicer.org/t/1963
+---
+
 # STL File in save
 
 **Topic ID**: 1963

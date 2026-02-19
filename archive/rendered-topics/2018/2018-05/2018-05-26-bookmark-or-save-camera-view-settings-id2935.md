@@ -1,3 +1,10 @@
+---
+topic_id: 2935
+title: "Bookmark Or Save Camera View Settings"
+date: 2018-05-26
+url: https://discourse.slicer.org/t/2935
+---
+
 # "Bookmark" or save camera view settings
 
 **Topic ID**: 2935

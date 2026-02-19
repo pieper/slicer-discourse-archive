@@ -1,3 +1,10 @@
+---
+topic_id: 10745
+title: "Pet Ct Dicom Data For Radiomics"
+date: 2020-03-19
+url: https://discourse.slicer.org/t/10745
+---
+
 # PET/CT DICOM data for radiomics
 
 **Topic ID**: 10745

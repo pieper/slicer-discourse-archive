@@ -1,3 +1,10 @@
+---
+topic_id: 19646
+title: "Export Segmentation To Osirix"
+date: 2021-09-13
+url: https://discourse.slicer.org/t/19646
+---
+
 # Export segmentation to Osirix
 
 **Topic ID**: 19646

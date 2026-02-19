@@ -1,3 +1,10 @@
+---
+topic_id: 8698
+title: "Slicerrt Could Not Export Rtplan"
+date: 2019-10-07
+url: https://discourse.slicer.org/t/8698
+---
+
 # SlicerRT: could not export RTPLAN
 
 **Topic ID**: 8698

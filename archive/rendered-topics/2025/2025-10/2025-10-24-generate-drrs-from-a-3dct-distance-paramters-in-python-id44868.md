@@ -1,3 +1,10 @@
+---
+topic_id: 44868
+title: "Generate Drrs From A 3Dct Distance Paramters In Python"
+date: 2025-10-24
+url: https://discourse.slicer.org/t/44868
+---
+
 # Generate DRRs from a 3DCT. Distance paramters in Python
 
 **Topic ID**: 44868

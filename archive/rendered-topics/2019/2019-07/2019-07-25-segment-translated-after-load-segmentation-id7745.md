@@ -1,3 +1,10 @@
+---
+topic_id: 7745
+title: "Segment Translated After Load Segmentation"
+date: 2019-07-25
+url: https://discourse.slicer.org/t/7745
+---
+
 # Segment Translated after Load segmentation
 
 **Topic ID**: 7745

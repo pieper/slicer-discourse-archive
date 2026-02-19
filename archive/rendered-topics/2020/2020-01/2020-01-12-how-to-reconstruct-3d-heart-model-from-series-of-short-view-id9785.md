@@ -1,3 +1,10 @@
+---
+topic_id: 9785
+title: "How To Reconstruct 3D Heart Model From Series Of Short View"
+date: 2020-01-12
+url: https://discourse.slicer.org/t/9785
+---
+
 # How to reconstruct 3d heart model from series of short view axis .png files.
 
 **Topic ID**: 9785

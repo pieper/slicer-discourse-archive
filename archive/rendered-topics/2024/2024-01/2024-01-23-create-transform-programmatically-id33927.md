@@ -1,3 +1,10 @@
+---
+topic_id: 33927
+title: "Create Transform Programmatically"
+date: 2024-01-23
+url: https://discourse.slicer.org/t/33927
+---
+
 # Create transform programmatically
 
 **Topic ID**: 33927

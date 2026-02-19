@@ -1,3 +1,10 @@
+---
+topic_id: 29391
+title: "Dicom Rt Save And Load"
+date: 2023-05-10
+url: https://discourse.slicer.org/t/29391
+---
+
 # Dicom rt save and load
 
 **Topic ID**: 29391

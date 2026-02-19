@@ -1,3 +1,10 @@
+---
+topic_id: 11248
+title: "Fill Or Extract Cavities In Segmentations Using The New Wrap"
+date: 2020-04-22
+url: https://discourse.slicer.org/t/11248
+---
+
 # Fill or extract cavities in segmentations using the new "Wrap Solidify" effect
 
 **Topic ID**: 11248

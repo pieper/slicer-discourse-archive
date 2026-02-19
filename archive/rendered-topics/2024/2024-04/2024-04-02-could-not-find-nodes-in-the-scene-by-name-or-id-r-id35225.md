@@ -1,3 +1,10 @@
+---
+topic_id: 35225
+title: "Could Not Find Nodes In The Scene By Name Or Id R"
+date: 2024-04-02
+url: https://discourse.slicer.org/t/35225
+---
+
 # Could not find nodes in the scene by name or id 'R'
 
 **Topic ID**: 35225

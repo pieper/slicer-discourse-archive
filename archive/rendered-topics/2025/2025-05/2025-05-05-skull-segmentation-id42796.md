@@ -1,3 +1,10 @@
+---
+topic_id: 42796
+title: "Skull Segmentation"
+date: 2025-05-05
+url: https://discourse.slicer.org/t/42796
+---
+
 # Skull Segmentation
 
 **Topic ID**: 42796

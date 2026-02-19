@@ -1,3 +1,10 @@
+---
+topic_id: 15663
+title: "Seeg Assistant For Epileptosurgery"
+date: 2021-01-25
+url: https://discourse.slicer.org/t/15663
+---
+
 # SEEG Assistant for epileptosurgery
 
 **Topic ID**: 15663

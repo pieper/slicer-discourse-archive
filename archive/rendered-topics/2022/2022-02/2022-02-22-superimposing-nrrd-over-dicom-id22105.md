@@ -1,3 +1,10 @@
+---
+topic_id: 22105
+title: "Superimposing Nrrd Over Dicom"
+date: 2022-02-22
+url: https://discourse.slicer.org/t/22105
+---
+
 # Superimposing nrrd over DICOM
 
 **Topic ID**: 22105

@@ -1,3 +1,10 @@
+---
+topic_id: 40041
+title: "Slicer Closes When Opening Already Known Datasets With Raw I"
+date: 2024-11-05
+url: https://discourse.slicer.org/t/40041
+---
+
 # Slicer closes when opening (already known) datasets with "Raw Image Guess" Module
 
 **Topic ID**: 40041

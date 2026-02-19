@@ -1,3 +1,10 @@
+---
+topic_id: 10324
+title: "Slicer Training Course In Lyon France"
+date: 2020-02-18
+url: https://discourse.slicer.org/t/10324
+---
+
 # Slicer Training course in Lyon, France
 
 **Topic ID**: 10324

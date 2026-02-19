@@ -1,3 +1,10 @@
+---
+topic_id: 27939
+title: "Slicer Fails To Start On Windows With Api Ms Win Crt Runtime"
+date: 2023-02-20
+url: https://discourse.slicer.org/t/27939
+---
+
 # Slicer fails to start on Windows with "api-ms-win-crt-runtime-l1-1-0.dll is missing" error popup
 
 **Topic ID**: 27939

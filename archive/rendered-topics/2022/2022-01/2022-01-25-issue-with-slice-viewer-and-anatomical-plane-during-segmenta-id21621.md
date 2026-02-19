@@ -1,3 +1,10 @@
+---
+topic_id: 21621
+title: "Issue With Slice Viewer And Anatomical Plane During Segmenta"
+date: 2022-01-25
+url: https://discourse.slicer.org/t/21621
+---
+
 # Issue with Slice viewer and anatomical plane during segmentations
 
 **Topic ID**: 21621

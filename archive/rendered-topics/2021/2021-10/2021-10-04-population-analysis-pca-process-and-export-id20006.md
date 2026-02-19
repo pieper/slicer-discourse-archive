@@ -1,3 +1,10 @@
+---
+topic_id: 20006
+title: "Population Analysis Pca Process And Export"
+date: 2021-10-04
+url: https://discourse.slicer.org/t/20006
+---
+
 # Population Analysis PCA Process and Export
 
 **Topic ID**: 20006

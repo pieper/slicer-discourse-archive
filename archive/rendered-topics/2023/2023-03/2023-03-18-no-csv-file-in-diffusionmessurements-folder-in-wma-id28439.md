@@ -1,3 +1,10 @@
+---
+topic_id: 28439
+title: "No Csv File In Diffusionmessurements Folder In Wma"
+date: 2023-03-18
+url: https://discourse.slicer.org/t/28439
+---
+
 # No CSV file in DiffusionMessurements folder in WMA
 
 **Topic ID**: 28439

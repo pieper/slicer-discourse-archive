@@ -1,3 +1,10 @@
+---
+topic_id: 37805
+title: "Semi Automatic Annotation Of 2D Image Based On Specific Feat"
+date: 2024-08-09
+url: https://discourse.slicer.org/t/37805
+---
+
 # Semi automatic annotation of 2D image based on specific features
 
 **Topic ID**: 37805

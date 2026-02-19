@@ -1,3 +1,10 @@
+---
+topic_id: 46214
+title: "Scissor Tool Not Working"
+date: 2026-02-18
+url: https://discourse.slicer.org/t/46214
+---
+
 # Scissor Tool Not Working
 
 **Topic ID**: 46214

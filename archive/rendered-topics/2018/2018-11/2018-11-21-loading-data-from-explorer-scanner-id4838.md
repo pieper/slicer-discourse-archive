@@ -1,3 +1,10 @@
+---
+topic_id: 4838
+title: "Loading Data From Explorer Scanner"
+date: 2018-11-21
+url: https://discourse.slicer.org/t/4838
+---
+
 # Loading data from Explorer scanner?
 
 **Topic ID**: 4838

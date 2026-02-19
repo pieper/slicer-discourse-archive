@@ -1,3 +1,10 @@
+---
+topic_id: 9297
+title: "Create New Vector Volume"
+date: 2019-11-25
+url: https://discourse.slicer.org/t/9297
+---
+
 # Create new vector volume
 
 **Topic ID**: 9297

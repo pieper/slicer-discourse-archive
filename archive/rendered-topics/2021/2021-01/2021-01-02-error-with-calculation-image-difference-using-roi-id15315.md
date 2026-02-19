@@ -1,3 +1,10 @@
+---
+topic_id: 15315
+title: "Error With Calculation Image Difference Using Roi"
+date: 2021-01-02
+url: https://discourse.slicer.org/t/15315
+---
+
 # Error with calculation image difference using ROI
 
 **Topic ID**: 15315

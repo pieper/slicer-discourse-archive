@@ -1,3 +1,10 @@
+---
+topic_id: 3880
+title: "Import Cbct Image Volume From Dicom"
+date: 2018-08-24
+url: https://discourse.slicer.org/t/3880
+---
+
 # Import CBCT image volume from DICOM
 
 **Topic ID**: 3880

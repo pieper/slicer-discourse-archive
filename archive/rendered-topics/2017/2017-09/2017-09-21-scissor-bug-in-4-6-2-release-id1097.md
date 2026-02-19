@@ -1,3 +1,10 @@
+---
+topic_id: 1097
+title: "Scissor Bug In 4 6 2 Release"
+date: 2017-09-21
+url: https://discourse.slicer.org/t/1097
+---
+
 # Scissor bug in 4.6.2 release
 
 **Topic ID**: 1097

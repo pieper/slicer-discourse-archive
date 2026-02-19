@@ -1,3 +1,10 @@
+---
+topic_id: 22851
+title: "Using Python To Automate Pseudolmgenerator And Alpaca Proces"
+date: 2022-04-06
+url: https://discourse.slicer.org/t/22851
+---
+
 # Using python to automate pseudoLMGenerator and ALPACA processes
 
 **Topic ID**: 22851

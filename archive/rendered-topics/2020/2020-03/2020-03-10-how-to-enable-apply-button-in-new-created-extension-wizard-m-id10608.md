@@ -1,3 +1,10 @@
+---
+topic_id: 10608
+title: "How To Enable Apply Button In New Created Extension Wizard M"
+date: 2020-03-10
+url: https://discourse.slicer.org/t/10608
+---
+
 # How to enable apply button in new created Extension Wizard module?
 
 **Topic ID**: 10608

@@ -1,3 +1,10 @@
+---
+topic_id: 30286
+title: "Slicerimstk Build Question"
+date: 2023-06-28
+url: https://discourse.slicer.org/t/30286
+---
+
 # SlicerIMSTK build question
 
 **Topic ID**: 30286

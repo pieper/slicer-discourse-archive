@@ -1,3 +1,10 @@
+---
+topic_id: 10117
+title: "Is There A Keystroke To Cycle Through Effects In Segment Edi"
+date: 2020-02-05
+url: https://discourse.slicer.org/t/10117
+---
+
 # Is there a keystroke to cycle through effects in segment editor
 
 **Topic ID**: 10117

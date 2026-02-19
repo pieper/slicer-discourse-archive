@@ -1,3 +1,10 @@
+---
+topic_id: 40733
+title: "100 Usage Of Cpu And 0 Of Gpu While Editing Models In 3D"
+date: 2024-12-17
+url: https://discourse.slicer.org/t/40733
+---
+
 # 100% usage of CPU and 0% of GPU while editing models in 3D
 
 **Topic ID**: 40733

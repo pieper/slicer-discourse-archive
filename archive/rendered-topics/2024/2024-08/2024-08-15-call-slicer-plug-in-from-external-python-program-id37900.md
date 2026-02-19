@@ -1,3 +1,10 @@
+---
+topic_id: 37900
+title: "Call Slicer Plug In From External Python Program"
+date: 2024-08-15
+url: https://discourse.slicer.org/t/37900
+---
+
 # Call Slicer plug-in from external python program
 
 **Topic ID**: 37900

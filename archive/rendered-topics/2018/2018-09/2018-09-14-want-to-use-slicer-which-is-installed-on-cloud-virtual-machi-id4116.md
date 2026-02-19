@@ -1,3 +1,10 @@
+---
+topic_id: 4116
+title: "Want To Use Slicer Which Is Installed On Cloud Virtual Machi"
+date: 2018-09-14
+url: https://discourse.slicer.org/t/4116
+---
+
 # Want to use , slicer which is installed on cloud virtual machine
 
 **Topic ID**: 4116

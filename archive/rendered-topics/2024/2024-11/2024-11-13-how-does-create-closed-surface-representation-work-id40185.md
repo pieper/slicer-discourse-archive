@@ -1,3 +1,10 @@
+---
+topic_id: 40185
+title: "How Does Create Closed Surface Representation Work"
+date: 2024-11-13
+url: https://discourse.slicer.org/t/40185
+---
+
 # How does create closed surface representation work ?
 
 **Topic ID**: 40185

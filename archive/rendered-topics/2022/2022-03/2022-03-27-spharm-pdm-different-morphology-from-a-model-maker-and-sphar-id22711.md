@@ -1,3 +1,10 @@
+---
+topic_id: 22711
+title: "Spharm Pdm Different Morphology From A Model Maker And Sphar"
+date: 2022-03-27
+url: https://discourse.slicer.org/t/22711
+---
+
 # SPHARM-PDM: Different morphology from a model maker and SPHARM
 
 **Topic ID**: 22711

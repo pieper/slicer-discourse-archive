@@ -1,3 +1,10 @@
+---
+topic_id: 1307
+title: "Convert 3D Slicer Into 3D Solid Body"
+date: 2017-10-27
+url: https://discourse.slicer.org/t/1307
+---
+
 # Convert 3D slicer into 3D solid body
 
 **Topic ID**: 1307

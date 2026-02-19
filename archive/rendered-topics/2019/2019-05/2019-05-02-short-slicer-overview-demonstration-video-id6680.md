@@ -1,3 +1,10 @@
+---
+topic_id: 6680
+title: "Short Slicer Overview Demonstration Video"
+date: 2019-05-02
+url: https://discourse.slicer.org/t/6680
+---
+
 # Short Slicer overview demonstration video?
 
 **Topic ID**: 6680

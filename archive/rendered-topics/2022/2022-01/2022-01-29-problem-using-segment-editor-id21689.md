@@ -1,3 +1,10 @@
+---
+topic_id: 21689
+title: "Problem Using Segment Editor"
+date: 2022-01-29
+url: https://discourse.slicer.org/t/21689
+---
+
 # Problem using Segment editor
 
 **Topic ID**: 21689

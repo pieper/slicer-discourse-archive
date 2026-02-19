@@ -1,3 +1,10 @@
+---
+topic_id: 23607
+title: "Transfrom Parralel To A Line"
+date: 2022-05-27
+url: https://discourse.slicer.org/t/23607
+---
+
 # Transfrom parralel to a line
 
 **Topic ID**: 23607

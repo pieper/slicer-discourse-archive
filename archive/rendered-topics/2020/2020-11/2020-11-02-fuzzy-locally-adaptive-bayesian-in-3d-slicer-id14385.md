@@ -1,3 +1,10 @@
+---
+topic_id: 14385
+title: "Fuzzy Locally Adaptive Bayesian In 3D Slicer"
+date: 2020-11-02
+url: https://discourse.slicer.org/t/14385
+---
+
 # Fuzzy Locally Adaptive Bayesian in 3D Slicer
 
 **Topic ID**: 14385

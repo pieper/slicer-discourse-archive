@@ -1,3 +1,10 @@
+---
+topic_id: 36994
+title: "Total Segmentor Ribs Are Incomplete"
+date: 2024-06-25
+url: https://discourse.slicer.org/t/36994
+---
+
 # Total segmentor: ribs are incomplete
 
 **Topic ID**: 36994

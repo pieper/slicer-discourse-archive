@@ -1,3 +1,10 @@
+---
+topic_id: 7398
+title: "Scaling Model Calculating Transform"
+date: 2019-07-03
+url: https://discourse.slicer.org/t/7398
+---
+
 # Scaling Model & Calculating transform
 
 **Topic ID**: 7398

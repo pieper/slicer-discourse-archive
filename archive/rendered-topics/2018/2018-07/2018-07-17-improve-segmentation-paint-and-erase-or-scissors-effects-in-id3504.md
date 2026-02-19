@@ -1,3 +1,10 @@
+---
+topic_id: 3504
+title: "Improve Segmentation Paint And Erase Or Scissors Effects In"
+date: 2018-07-17
+url: https://discourse.slicer.org/t/3504
+---
+
 # Improve segmentation : "Paint" and "Erase" (or "Scissors") effects in Segment Editor or Sphere brush?
 
 **Topic ID**: 3504

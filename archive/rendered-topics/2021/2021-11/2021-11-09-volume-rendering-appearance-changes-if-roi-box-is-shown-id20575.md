@@ -1,3 +1,10 @@
+---
+topic_id: 20575
+title: "Volume Rendering Appearance Changes If Roi Box Is Shown"
+date: 2021-11-09
+url: https://discourse.slicer.org/t/20575
+---
+
 # Volume rendering appearance changes if ROI box is shown
 
 **Topic ID**: 20575

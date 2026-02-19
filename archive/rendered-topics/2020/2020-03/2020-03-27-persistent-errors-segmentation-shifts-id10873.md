@@ -1,3 +1,10 @@
+---
+topic_id: 10873
+title: "Persistent Errors Segmentation Shifts"
+date: 2020-03-27
+url: https://discourse.slicer.org/t/10873
+---
+
 # persistent errors - segmentation shifts
 
 **Topic ID**: 10873

@@ -1,3 +1,10 @@
+---
+topic_id: 40548
+title: "Toggling Parallel Projection Programmatically Not Updating T"
+date: 2024-12-06
+url: https://discourse.slicer.org/t/40548
+---
+
 # Toggling Parallel Projection programmatically not updating the 3D viewer
 
 **Topic ID**: 40548

@@ -1,3 +1,10 @@
+---
+topic_id: 28774
+title: "Ssl Error When Lung Ct Segmenter Is Trying To Instal Light T"
+date: 2023-04-06
+url: https://discourse.slicer.org/t/28774
+---
+
 # SSL error when Lung CT segmenter is trying to instal light-the-torch
 
 **Topic ID**: 28774

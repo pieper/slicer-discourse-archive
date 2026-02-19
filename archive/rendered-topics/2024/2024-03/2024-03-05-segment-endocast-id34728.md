@@ -1,3 +1,10 @@
+---
+topic_id: 34728
+title: "Segment Endocast"
+date: 2024-03-05
+url: https://discourse.slicer.org/t/34728
+---
+
 # Segment endocast
 
 **Topic ID**: 34728

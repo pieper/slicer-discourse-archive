@@ -1,3 +1,10 @@
+---
+topic_id: 22159
+title: "Missing Module Hausdorff Distances Dice Similarity Metrics"
+date: 2022-02-24
+url: https://discourse.slicer.org/t/22159
+---
+
 # Missing module: Hausdorff distances, Dice similarity metrics
 
 **Topic ID**: 22159

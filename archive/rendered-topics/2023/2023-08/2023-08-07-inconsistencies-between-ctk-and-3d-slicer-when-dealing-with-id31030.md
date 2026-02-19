@@ -1,3 +1,10 @@
+---
+topic_id: 31030
+title: "Inconsistencies Between Ctk And 3D Slicer When Dealing With"
+date: 2023-08-07
+url: https://discourse.slicer.org/t/31030
+---
+
 # Inconsistencies between CTK and 3D Slicer when dealing with missing Patient information
 
 **Topic ID**: 31030

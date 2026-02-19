@@ -1,3 +1,10 @@
+---
+topic_id: 13557
+title: "Is It Possible To Know What Nodes Have Elements Displayed In"
+date: 2020-09-18
+url: https://discourse.slicer.org/t/13557
+---
+
 # Is it possible to know what nodes have elements displayed in a slice view? And where?
 
 **Topic ID**: 13557

@@ -1,3 +1,10 @@
+---
+topic_id: 1770
+title: "Sync Volumes Color Look Up Table With Volume Rendering"
+date: 2018-01-06
+url: https://discourse.slicer.org/t/1770
+---
+
 # Sync “Volumes” color look-up table with “Volume Rendering”
 
 **Topic ID**: 1770

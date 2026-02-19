@@ -1,3 +1,10 @@
+---
+topic_id: 42422
+title: "The Obj Model File Is Offset Far From The World Origin Howev"
+date: 2025-04-03
+url: https://discourse.slicer.org/t/42422
+---
+
 # The .obj model file is offset far from the world origin,However, it is still possible to achieve position-based interaction between the image and the model 
 
 **Topic ID**: 42422

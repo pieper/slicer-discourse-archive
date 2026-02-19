@@ -1,3 +1,10 @@
+---
+topic_id: 21605
+title: "Noise Measurement"
+date: 2022-01-24
+url: https://discourse.slicer.org/t/21605
+---
+
 # Noise measurement 
 
 **Topic ID**: 21605

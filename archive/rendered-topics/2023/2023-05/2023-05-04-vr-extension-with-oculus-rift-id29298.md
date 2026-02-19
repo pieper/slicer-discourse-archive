@@ -1,3 +1,10 @@
+---
+topic_id: 29298
+title: "Vr Extension With Oculus Rift"
+date: 2023-05-04
+url: https://discourse.slicer.org/t/29298
+---
+
 # VR extension with oculus rift
 
 **Topic ID**: 29298

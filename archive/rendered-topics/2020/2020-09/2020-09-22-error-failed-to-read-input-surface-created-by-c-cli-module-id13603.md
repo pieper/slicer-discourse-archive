@@ -1,3 +1,10 @@
+---
+topic_id: 13603
+title: "Error Failed To Read Input Surface Created By C Cli Module"
+date: 2020-09-22
+url: https://discourse.slicer.org/t/13603
+---
+
 # Error: failed to read input surface created by C++ CLI module
 
 **Topic ID**: 13603

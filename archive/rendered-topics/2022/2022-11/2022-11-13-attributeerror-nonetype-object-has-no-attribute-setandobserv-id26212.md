@@ -1,3 +1,10 @@
+---
+topic_id: 26212
+title: "Attributeerror Nonetype Object Has No Attribute Setandobserv"
+date: 2022-11-13
+url: https://discourse.slicer.org/t/26212
+---
+
 # AttributeError: 'NoneType' object has no attribute 'SetAndObserveTransformNodeID'
 
 **Topic ID**: 26212

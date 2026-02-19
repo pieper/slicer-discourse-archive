@@ -1,3 +1,10 @@
+---
+topic_id: 4931
+title: "Request For Tutorial For Developing Loadable Module In Slice"
+date: 2018-12-03
+url: https://discourse.slicer.org/t/4931
+---
+
 # Request for Tutorial for Developing Loadable Module in Slicer
 
 **Topic ID**: 4931

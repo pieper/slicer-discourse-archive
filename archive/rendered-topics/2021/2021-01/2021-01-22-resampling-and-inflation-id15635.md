@@ -1,3 +1,10 @@
+---
+topic_id: 15635
+title: "Resampling And Inflation"
+date: 2021-01-22
+url: https://discourse.slicer.org/t/15635
+---
+
 # Resampling and inflation
 
 **Topic ID**: 15635

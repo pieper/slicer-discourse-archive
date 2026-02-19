@@ -1,3 +1,10 @@
+---
+topic_id: 5849
+title: "Segmentation Of Bones Automatic"
+date: 2019-02-20
+url: https://discourse.slicer.org/t/5849
+---
+
 # Segmentation of bones- Automatic
 
 **Topic ID**: 5849

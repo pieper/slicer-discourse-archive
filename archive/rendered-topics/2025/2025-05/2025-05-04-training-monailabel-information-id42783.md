@@ -1,3 +1,10 @@
+---
+topic_id: 42783
+title: "Training Monailabel Information"
+date: 2025-05-04
+url: https://discourse.slicer.org/t/42783
+---
+
 # Training MonaiLabel Information
 
 **Topic ID**: 42783

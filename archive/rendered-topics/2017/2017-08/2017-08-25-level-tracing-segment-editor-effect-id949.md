@@ -1,3 +1,10 @@
+---
+topic_id: 949
+title: "Level Tracing Segment Editor Effect"
+date: 2017-08-25
+url: https://discourse.slicer.org/t/949
+---
+
 # Level tracing segment editor effect
 
 **Topic ID**: 949

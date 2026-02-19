@@ -1,3 +1,10 @@
+---
+topic_id: 13435
+title: "How To Create Mip Images From The Command Line"
+date: 2020-09-11
+url: https://discourse.slicer.org/t/13435
+---
+
 # How to create MIP images from the command line?
 
 **Topic ID**: 13435

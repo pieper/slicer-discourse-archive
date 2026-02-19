@@ -1,3 +1,10 @@
+---
+topic_id: 22277
+title: "Slicer Does Not Respond While Working On A Code And After Fi"
+date: 2022-03-03
+url: https://discourse.slicer.org/t/22277
+---
+
 # Slicer does not respond while working on a code and after finishing the loop prints everything
 
 **Topic ID**: 22277

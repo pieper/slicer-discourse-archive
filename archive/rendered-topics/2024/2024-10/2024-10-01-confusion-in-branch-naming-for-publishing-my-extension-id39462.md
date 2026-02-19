@@ -1,3 +1,10 @@
+---
+topic_id: 39462
+title: "Confusion In Branch Naming For Publishing My Extension"
+date: 2024-10-01
+url: https://discourse.slicer.org/t/39462
+---
+
 # Confusion in branch naming for publishing my extension
 
 **Topic ID**: 39462

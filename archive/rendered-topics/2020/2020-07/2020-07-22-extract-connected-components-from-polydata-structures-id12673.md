@@ -1,3 +1,10 @@
+---
+topic_id: 12673
+title: "Extract Connected Components From Polydata Structures"
+date: 2020-07-22
+url: https://discourse.slicer.org/t/12673
+---
+
 # Extract connected components from polydata structures
 
 **Topic ID**: 12673

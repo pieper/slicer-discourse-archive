@@ -1,3 +1,10 @@
+---
+topic_id: 42963
+title: "When Creating A Extension Using Slicer5 9 Ive Found That The"
+date: 2025-05-16
+url: https://discourse.slicer.org/t/42963
+---
+
 # When creating a extension using Slicer5.9, I've found that the only available type options are "default" and "superbuild".
 
 **Topic ID**: 42963

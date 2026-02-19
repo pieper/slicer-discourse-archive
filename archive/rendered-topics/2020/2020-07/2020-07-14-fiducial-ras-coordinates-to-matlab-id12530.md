@@ -1,3 +1,10 @@
+---
+topic_id: 12530
+title: "Fiducial Ras Coordinates To Matlab"
+date: 2020-07-14
+url: https://discourse.slicer.org/t/12530
+---
+
 # Fiducial RAS Coordinates to MATLAB
 
 **Topic ID**: 12530

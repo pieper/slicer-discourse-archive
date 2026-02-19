@@ -1,3 +1,10 @@
+---
+topic_id: 8048
+title: "Using Dicom Module From Script"
+date: 2019-08-15
+url: https://discourse.slicer.org/t/8048
+---
+
 # Using Dicom Module from Script
 
 **Topic ID**: 8048

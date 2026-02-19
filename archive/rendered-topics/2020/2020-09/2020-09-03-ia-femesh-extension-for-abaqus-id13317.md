@@ -1,3 +1,10 @@
+---
+topic_id: 13317
+title: "Ia Femesh Extension For Abaqus"
+date: 2020-09-03
+url: https://discourse.slicer.org/t/13317
+---
+
 # IA-FEMesh extension for Abaqus
 
 **Topic ID**: 13317

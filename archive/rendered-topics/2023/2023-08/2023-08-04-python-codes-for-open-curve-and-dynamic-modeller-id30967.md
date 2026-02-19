@@ -1,3 +1,10 @@
+---
+topic_id: 30967
+title: "Python Codes For Open Curve And Dynamic Modeller"
+date: 2023-08-04
+url: https://discourse.slicer.org/t/30967
+---
+
 # Python codes for open curve and dynamic modeller
 
 **Topic ID**: 30967

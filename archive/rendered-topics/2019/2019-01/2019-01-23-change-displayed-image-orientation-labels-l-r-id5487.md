@@ -1,3 +1,10 @@
+---
+topic_id: 5487
+title: "Change Displayed Image Orientation Labels L R"
+date: 2019-01-23
+url: https://discourse.slicer.org/t/5487
+---
+
 # Change displayed image orientation labels (L, R, ...)
 
 **Topic ID**: 5487

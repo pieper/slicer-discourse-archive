@@ -1,3 +1,10 @@
+---
+topic_id: 2254
+title: "Zoom In Or Out Via Python Interactor Version 4 8 0 On Mac"
+date: 2018-03-06
+url: https://discourse.slicer.org/t/2254
+---
+
 # Zoom in or out via python interactor version 4.8.0 on MAC
 
 **Topic ID**: 2254

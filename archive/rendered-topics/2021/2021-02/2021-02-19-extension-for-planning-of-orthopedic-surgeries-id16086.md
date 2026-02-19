@@ -1,3 +1,10 @@
+---
+topic_id: 16086
+title: "Extension For Planning Of Orthopedic Surgeries"
+date: 2021-02-19
+url: https://discourse.slicer.org/t/16086
+---
+
 # Extension for planning of orthopedic surgeries?
 
 **Topic ID**: 16086

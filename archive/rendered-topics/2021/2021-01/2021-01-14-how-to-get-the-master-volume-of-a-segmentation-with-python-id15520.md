@@ -1,3 +1,10 @@
+---
+topic_id: 15520
+title: "How To Get The Master Volume Of A Segmentation With Python"
+date: 2021-01-14
+url: https://discourse.slicer.org/t/15520
+---
+
 # How to get the master volume of a segmentation with Python
 
 **Topic ID**: 15520

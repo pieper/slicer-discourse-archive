@@ -1,3 +1,10 @@
+---
+topic_id: 8865
+title: "Question Regarding Threshold And Segmenting Bone"
+date: 2019-10-22
+url: https://discourse.slicer.org/t/8865
+---
+
 # Question regarding threshold and segmenting bone
 
 **Topic ID**: 8865

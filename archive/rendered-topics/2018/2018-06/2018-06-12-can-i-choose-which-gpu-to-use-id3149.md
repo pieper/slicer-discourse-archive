@@ -1,3 +1,10 @@
+---
+topic_id: 3149
+title: "Can I Choose Which Gpu To Use"
+date: 2018-06-12
+url: https://discourse.slicer.org/t/3149
+---
+
 # Can I choose which GPU to use?
 
 **Topic ID**: 3149

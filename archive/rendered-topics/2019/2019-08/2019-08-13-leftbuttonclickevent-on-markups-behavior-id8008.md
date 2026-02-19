@@ -1,3 +1,10 @@
+---
+topic_id: 8008
+title: "Leftbuttonclickevent On Markups Behavior"
+date: 2019-08-13
+url: https://discourse.slicer.org/t/8008
+---
+
 # LeftButtonClickEvent on Markups behavior
 
 **Topic ID**: 8008

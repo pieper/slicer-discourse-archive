@@ -1,3 +1,10 @@
+---
+topic_id: 12944
+title: "Many Core Experiment"
+date: 2020-08-11
+url: https://discourse.slicer.org/t/12944
+---
+
 # Many core experiment
 
 **Topic ID**: 12944

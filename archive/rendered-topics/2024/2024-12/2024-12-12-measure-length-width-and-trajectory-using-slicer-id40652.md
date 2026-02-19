@@ -1,3 +1,10 @@
+---
+topic_id: 40652
+title: "Measure Length Width And Trajectory Using Slicer"
+date: 2024-12-12
+url: https://discourse.slicer.org/t/40652
+---
+
 # Measure length, width and trajectory Using slicer
 
 **Topic ID**: 40652

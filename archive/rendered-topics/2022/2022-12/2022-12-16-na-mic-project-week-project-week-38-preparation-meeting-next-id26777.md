@@ -1,3 +1,10 @@
+---
+topic_id: 26777
+title: "Na Mic Project Week Project Week 38 Preparation Meeting Next"
+date: 2022-12-16
+url: https://discourse.slicer.org/t/26777
+---
+
 # [Na-mic-project-week] Project week 38 preparation meeting next Tuesday (Dec 20th)
 
 **Topic ID**: 26777

@@ -1,3 +1,10 @@
+---
+topic_id: 27114
+title: "Multiple Monitors Drawing Tablet"
+date: 2023-01-08
+url: https://discourse.slicer.org/t/27114
+---
+
 # multiple monitors, drawing tablet
 
 **Topic ID**: 27114

@@ -1,3 +1,10 @@
+---
+topic_id: 31379
+title: "Why Is Segmentstatistics Slower In Python Console"
+date: 2023-08-26
+url: https://discourse.slicer.org/t/31379
+---
+
 # Why is SegmentStatistics slower in Python console?
 
 **Topic ID**: 31379

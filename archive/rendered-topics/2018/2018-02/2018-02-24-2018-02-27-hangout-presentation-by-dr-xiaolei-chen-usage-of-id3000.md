@@ -1,3 +1,10 @@
+---
+topic_id: 3000
+title: "2018 02 27 Hangout Presentation By Dr Xiaolei Chen Usage Of"
+date: 2018-02-24
+url: https://discourse.slicer.org/t/3000
+---
+
 # 2018.02.27 Hangout - Presentation by Dr. Xiaolei Chen "Usage of 3D Slicer for neurosurgeries in China"
 
 **Topic ID**: 3000

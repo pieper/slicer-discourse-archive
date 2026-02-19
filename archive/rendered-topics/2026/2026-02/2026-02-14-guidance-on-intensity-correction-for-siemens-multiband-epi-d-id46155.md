@@ -1,3 +1,10 @@
+---
+topic_id: 46155
+title: "Guidance On Intensity Correction For Siemens Multiband Epi D"
+date: 2026-02-14
+url: https://discourse.slicer.org/t/46155
+---
+
 # Guidance on Intensity Correction for Siemens Multiband EPI Data
 
 **Topic ID**: 46155

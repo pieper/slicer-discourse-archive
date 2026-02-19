@@ -1,3 +1,10 @@
+---
+topic_id: 23893
+title: "Display Vectors Arrows To Represent A Velocity Field On A Se"
+date: 2022-06-15
+url: https://discourse.slicer.org/t/23893
+---
+
 # Display vectors (arrows) to represent a velocity field on a section plane using python
 
 **Topic ID**: 23893

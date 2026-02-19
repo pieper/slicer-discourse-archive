@@ -1,3 +1,10 @@
+---
+topic_id: 38568
+title: "Synchronizing Different Mri Sequences"
+date: 2024-09-27
+url: https://discourse.slicer.org/t/38568
+---
+
 # Synchronizing different MRI sequences
 
 **Topic ID**: 38568

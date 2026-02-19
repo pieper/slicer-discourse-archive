@@ -1,3 +1,10 @@
+---
+topic_id: 19241
+title: "Programatically Install Extensions"
+date: 2021-08-18
+url: https://discourse.slicer.org/t/19241
+---
+
 # Programatically install extensions
 
 **Topic ID**: 19241

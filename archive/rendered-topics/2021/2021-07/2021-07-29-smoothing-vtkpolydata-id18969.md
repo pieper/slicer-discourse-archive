@@ -1,3 +1,10 @@
+---
+topic_id: 18969
+title: "Smoothing Vtkpolydata"
+date: 2021-07-29
+url: https://discourse.slicer.org/t/18969
+---
+
 # Smoothing vtkPolyData
 
 **Topic ID**: 18969

@@ -1,3 +1,10 @@
+---
+topic_id: 9534
+title: "Is The Sandbox Extension Failing For Windows"
+date: 2019-12-17
+url: https://discourse.slicer.org/t/9534
+---
+
 # Is the sandbox extension failing for windows
 
 **Topic ID**: 9534

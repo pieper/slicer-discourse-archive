@@ -1,3 +1,10 @@
+---
+topic_id: 42347
+title: "Lights Module In Sandbox And Shadows"
+date: 2025-03-28
+url: https://discourse.slicer.org/t/42347
+---
+
 # Lights module in Sandbox and Shadows
 
 **Topic ID**: 42347

@@ -1,3 +1,10 @@
+---
+topic_id: 40416
+title: "Segment Color Bug"
+date: 2024-11-28
+url: https://discourse.slicer.org/t/40416
+---
+
 # Segment color bug
 
 **Topic ID**: 40416

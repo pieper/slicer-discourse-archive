@@ -1,3 +1,10 @@
+---
+topic_id: 33995
+title: "How To Change Icon Size In Qmenu Action"
+date: 2024-01-26
+url: https://discourse.slicer.org/t/33995
+---
+
 # How to change icon size in QMenu action?
 
 **Topic ID**: 33995

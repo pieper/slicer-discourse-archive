@@ -1,3 +1,10 @@
+---
+topic_id: 45829
+title: "How Do I Convert Dcm Files In Segment Editor I M Getting A L"
+date: 2026-01-19
+url: https://discourse.slicer.org/t/45829
+---
+
 # How do i convert dcm files in segment editor..i m getting a lot of errors..i need this for my cbct analysis of tooth n pulp volume
 
 **Topic ID**: 45829

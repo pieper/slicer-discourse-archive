@@ -1,3 +1,10 @@
+---
+topic_id: 6328
+title: "Create An Image Volume From A Vtk Model"
+date: 2019-03-28
+url: https://discourse.slicer.org/t/6328
+---
+
 # Create an Image Volume from a vtk model
 
 **Topic ID**: 6328

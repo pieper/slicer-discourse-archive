@@ -1,3 +1,10 @@
+---
+topic_id: 25901
+title: "Hi I Need To Segment Each Lung Volume Into 6 Segments Using"
+date: 2022-10-25
+url: https://discourse.slicer.org/t/25901
+---
+
 # Hi I need to segment each lung volume into 6 segments using well-defined landmarks but I do not know how to create these additional segments
 
 **Topic ID**: 25901

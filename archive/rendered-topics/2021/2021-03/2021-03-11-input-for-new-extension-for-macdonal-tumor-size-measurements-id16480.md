@@ -1,3 +1,10 @@
+---
+topic_id: 16480
+title: "Input For New Extension For Macdonal Tumor Size Measurements"
+date: 2021-03-11
+url: https://discourse.slicer.org/t/16480
+---
+
 # Input for new extension for Macdonal tumor size measurements
 
 **Topic ID**: 16480

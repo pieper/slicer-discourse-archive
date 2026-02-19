@@ -1,3 +1,10 @@
+---
+topic_id: 7078
+title: "Automatic Install Of Python Packages"
+date: 2019-06-07
+url: https://discourse.slicer.org/t/7078
+---
+
 # Automatic install of Python packages
 
 **Topic ID**: 7078

@@ -1,3 +1,10 @@
+---
+topic_id: 12481
+title: "Overlay Color Onto Vtkmrmlscalarvolumenode Image"
+date: 2020-07-10
+url: https://discourse.slicer.org/t/12481
+---
+
 # Overlay color onto vtkMRMLScalarVolumeNode image
 
 **Topic ID**: 12481

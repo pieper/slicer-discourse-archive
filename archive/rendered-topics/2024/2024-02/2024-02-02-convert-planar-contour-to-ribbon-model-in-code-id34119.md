@@ -1,3 +1,10 @@
+---
+topic_id: 34119
+title: "Convert Planar Contour To Ribbon Model In Code"
+date: 2024-02-02
+url: https://discourse.slicer.org/t/34119
+---
+
 # Convert planar contour to ribbon model in code
 
 **Topic ID**: 34119

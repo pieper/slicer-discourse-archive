@@ -1,3 +1,10 @@
+---
+topic_id: 1353
+title: "Reformat View From Fiducial Points Ac Pc"
+date: 2017-11-02
+url: https://discourse.slicer.org/t/1353
+---
+
 # Reformat view from fiducial points (AC-PC)
 
 **Topic ID**: 1353

@@ -1,3 +1,10 @@
+---
+topic_id: 41760
+title: "Vmtk Centerline Tree Model Implementation Problem"
+date: 2025-02-18
+url: https://discourse.slicer.org/t/41760
+---
+
 # VMTK Centerline Tree Model Implementation Problem
 
 **Topic ID**: 41760

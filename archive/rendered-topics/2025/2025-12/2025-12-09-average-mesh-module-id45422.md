@@ -1,3 +1,10 @@
+---
+topic_id: 45422
+title: "Average Mesh Module"
+date: 2025-12-09
+url: https://discourse.slicer.org/t/45422
+---
+
 # Average mesh module
 
 **Topic ID**: 45422

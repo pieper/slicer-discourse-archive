@@ -1,3 +1,10 @@
+---
+topic_id: 43540
+title: "Help Integrating Vtku3Dexporter Module In Slicer"
+date: 2025-06-30
+url: https://discourse.slicer.org/t/43540
+---
+
 # Help integrating vtkU3DExporter module in Slicer
 
 **Topic ID**: 43540

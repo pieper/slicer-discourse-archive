@@ -1,3 +1,10 @@
+---
+topic_id: 20034
+title: "Make Double Click In Data Module Jump To Associated Module"
+date: 2021-10-06
+url: https://discourse.slicer.org/t/20034
+---
+
 # Make double-click in Data module jump to associated module
 
 **Topic ID**: 20034

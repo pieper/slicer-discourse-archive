@@ -1,3 +1,10 @@
+---
+topic_id: 83
+title: "Adc Map Registration From Slicer Users"
+date: 2017-04-12
+url: https://discourse.slicer.org/t/83
+---
+
 # "ADC map registration" (from slicer-users)
 
 **Topic ID**: 83

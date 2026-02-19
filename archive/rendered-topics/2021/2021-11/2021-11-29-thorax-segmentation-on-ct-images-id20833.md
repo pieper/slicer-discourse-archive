@@ -1,3 +1,10 @@
+---
+topic_id: 20833
+title: "Thorax Segmentation On Ct Images"
+date: 2021-11-29
+url: https://discourse.slicer.org/t/20833
+---
+
 # Thorax Segmentation on CT images
 
 **Topic ID**: 20833

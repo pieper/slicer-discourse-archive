@@ -1,3 +1,10 @@
+---
+topic_id: 7136
+title: "Canon Aplio 500 And Vicon Bonita System Nexus"
+date: 2019-06-12
+url: https://discourse.slicer.org/t/7136
+---
+
 # Canon aplio 500 and vicon bonita system (nexus)
 
 **Topic ID**: 7136

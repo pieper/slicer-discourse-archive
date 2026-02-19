@@ -1,3 +1,10 @@
+---
+topic_id: 9318
+title: "Assessing Average Displacement Resulting From A Linear Trans"
+date: 2019-11-27
+url: https://discourse.slicer.org/t/9318
+---
+
 # Assessing average displacement resulting from a linear transform
 
 **Topic ID**: 9318

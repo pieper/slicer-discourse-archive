@@ -1,3 +1,10 @@
+---
+topic_id: 13928
+title: "Extension Compatibility With Python 2 And 3"
+date: 2020-10-07
+url: https://discourse.slicer.org/t/13928
+---
+
 # Extension compatibility with Python 2 and 3
 
 **Topic ID**: 13928

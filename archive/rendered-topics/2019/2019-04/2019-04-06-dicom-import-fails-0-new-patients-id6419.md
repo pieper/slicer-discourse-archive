@@ -1,3 +1,10 @@
+---
+topic_id: 6419
+title: "Dicom Import Fails 0 New Patients"
+date: 2019-04-06
+url: https://discourse.slicer.org/t/6419
+---
+
 # DICOM import fails - 0 New Patients
 
 **Topic ID**: 6419

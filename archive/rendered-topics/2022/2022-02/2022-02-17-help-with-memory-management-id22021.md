@@ -1,3 +1,10 @@
+---
+topic_id: 22021
+title: "Help With Memory Management"
+date: 2022-02-17
+url: https://discourse.slicer.org/t/22021
+---
+
 # Help with memory management
 
 **Topic ID**: 22021

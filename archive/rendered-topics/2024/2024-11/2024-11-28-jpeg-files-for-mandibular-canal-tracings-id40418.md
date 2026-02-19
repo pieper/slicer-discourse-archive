@@ -1,3 +1,10 @@
+---
+topic_id: 40418
+title: "Jpeg Files For Mandibular Canal Tracings"
+date: 2024-11-28
+url: https://discourse.slicer.org/t/40418
+---
+
 # JPEG Files for mandibular canal tracings
 
 **Topic ID**: 40418

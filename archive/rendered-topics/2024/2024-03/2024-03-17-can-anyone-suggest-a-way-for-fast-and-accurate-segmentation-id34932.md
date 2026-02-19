@@ -1,3 +1,10 @@
+---
+topic_id: 34932
+title: "Can Anyone Suggest A Way For Fast And Accurate Segmentation"
+date: 2024-03-17
+url: https://discourse.slicer.org/t/34932
+---
+
 # Can anyone suggest a way for fast and accurate segmentation of teeth in CBCT volumes?
 
 **Topic ID**: 34932

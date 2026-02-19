@@ -1,3 +1,10 @@
+---
+topic_id: 7867
+title: "Adding Vp File In Scene"
+date: 2019-08-04
+url: https://discourse.slicer.org/t/7867
+---
+
 # Adding .VP file in scene
 
 **Topic ID**: 7867

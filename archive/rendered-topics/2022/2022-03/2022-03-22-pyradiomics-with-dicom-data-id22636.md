@@ -1,3 +1,10 @@
+---
+topic_id: 22636
+title: "Pyradiomics With Dicom Data"
+date: 2022-03-22
+url: https://discourse.slicer.org/t/22636
+---
+
 #  pyradiomics with DICOM data
 
 **Topic ID**: 22636

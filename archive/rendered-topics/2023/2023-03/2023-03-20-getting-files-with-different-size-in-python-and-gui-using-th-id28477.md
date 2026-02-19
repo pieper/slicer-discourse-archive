@@ -1,3 +1,10 @@
+---
+topic_id: 28477
+title: "Getting Files With Different Size In Python And Gui Using Th"
+date: 2023-03-20
+url: https://discourse.slicer.org/t/28477
+---
+
 # Getting files with different size in Python and GUI using the same decimation method
 
 **Topic ID**: 28477

@@ -1,3 +1,10 @@
+---
+topic_id: 17549
+title: "Script To Compute Voronoi Diagrams Largest Aorta Diameter Us"
+date: 2021-05-10
+url: https://discourse.slicer.org/t/17549
+---
+
 # Script to compute Voronoi diagrams/largest aorta diameter using VMTK
 
 **Topic ID**: 17549

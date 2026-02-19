@@ -1,3 +1,10 @@
+---
+topic_id: 7331
+title: "Rat Lungs Trouble"
+date: 2019-06-27
+url: https://discourse.slicer.org/t/7331
+---
+
 # Rat Lungs Trouble
 
 **Topic ID**: 7331

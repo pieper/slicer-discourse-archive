@@ -1,3 +1,10 @@
+---
+topic_id: 37284
+title: "Understanding Fibertractmeasurements Output"
+date: 2024-07-09
+url: https://discourse.slicer.org/t/37284
+---
+
 # Understanding FiberTractMeasurements output
 
 **Topic ID**: 37284

@@ -1,3 +1,10 @@
+---
+topic_id: 42936
+title: "Increasing Latency Issues Using Plus Server"
+date: 2025-05-15
+url: https://discourse.slicer.org/t/42936
+---
+
 # Increasing latency issues using Plus Server
 
 **Topic ID**: 42936

@@ -1,3 +1,10 @@
+---
+topic_id: 2426
+title: "Access Point And Cell Data Of Surface Mesh"
+date: 2018-03-26
+url: https://discourse.slicer.org/t/2426
+---
+
 # Access point and cell data of surface mesh
 
 **Topic ID**: 2426

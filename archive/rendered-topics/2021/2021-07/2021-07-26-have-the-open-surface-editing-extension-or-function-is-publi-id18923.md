@@ -1,3 +1,10 @@
+---
+topic_id: 18923
+title: "Have The Open Surface Editing Extension Or Function Is Publi"
+date: 2021-07-26
+url: https://discourse.slicer.org/t/18923
+---
+
 # Have the "open surface editing" extension or function is published?
 
 **Topic ID**: 18923

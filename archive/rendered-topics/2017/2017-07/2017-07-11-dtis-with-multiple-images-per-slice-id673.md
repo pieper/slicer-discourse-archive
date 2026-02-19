@@ -1,3 +1,10 @@
+---
+topic_id: 673
+title: "Dtis With Multiple Images Per Slice"
+date: 2017-07-11
+url: https://discourse.slicer.org/t/673
+---
+
 # DTIs with multiple images per slice
 
 **Topic ID**: 673

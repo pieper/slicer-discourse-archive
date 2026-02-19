@@ -1,3 +1,10 @@
+---
+topic_id: 38078
+title: "Request For Assistance Fixing Paint Tool Size Independently"
+date: 2024-08-28
+url: https://discourse.slicer.org/t/38078
+---
+
 # Request for Assistance: Fixing Paint Tool Size Independently of Zoom
 
 **Topic ID**: 38078

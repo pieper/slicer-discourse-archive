@@ -1,3 +1,10 @@
+---
+topic_id: 31697
+title: "How To Add Custom Widget In 3D Slicer Just Like 2D Slice Wid"
+date: 2023-09-14
+url: https://discourse.slicer.org/t/31697
+---
+
 # How to add custom widget in 3d slicer? just like 2D Slice Widget、3D View Widget、Plot Widget、Table Widget
 
 **Topic ID**: 31697

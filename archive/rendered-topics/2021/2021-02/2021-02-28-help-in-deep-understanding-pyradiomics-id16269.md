@@ -1,3 +1,10 @@
+---
+topic_id: 16269
+title: "Help In Deep Understanding Pyradiomics"
+date: 2021-02-28
+url: https://discourse.slicer.org/t/16269
+---
+
 # Help in deep understanding pyRadiomics
 
 **Topic ID**: 16269

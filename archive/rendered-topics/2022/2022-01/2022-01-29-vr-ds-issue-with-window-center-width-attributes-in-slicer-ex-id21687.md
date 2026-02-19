@@ -1,3 +1,10 @@
+---
+topic_id: 21687
+title: "Vr Ds Issue With Window Center Width Attributes In Slicer Ex"
+date: 2022-01-29
+url: https://discourse.slicer.org/t/21687
+---
+
 # VR DS issue with window center/width attributes in Slicer export
 
 **Topic ID**: 21687

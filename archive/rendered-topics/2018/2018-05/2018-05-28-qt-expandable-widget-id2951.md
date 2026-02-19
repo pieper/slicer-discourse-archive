@@ -1,3 +1,10 @@
+---
+topic_id: 2951
+title: "Qt Expandable Widget"
+date: 2018-05-28
+url: https://discourse.slicer.org/t/2951
+---
+
 # Qt Expandable Widget
 
 **Topic ID**: 2951

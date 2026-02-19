@@ -1,3 +1,10 @@
+---
+topic_id: 23054
+title: "New User Loading Non Dicom Data"
+date: 2022-04-20
+url: https://discourse.slicer.org/t/23054
+---
+
 # New user: Loading non-dicom data
 
 **Topic ID**: 23054

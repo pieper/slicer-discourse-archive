@@ -1,3 +1,10 @@
+---
+topic_id: 8055
+title: "Transforms Tool"
+date: 2019-08-16
+url: https://discourse.slicer.org/t/8055
+---
+
 # Transforms tool
 
 **Topic ID**: 8055

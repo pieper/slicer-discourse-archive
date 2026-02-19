@@ -1,3 +1,10 @@
+---
+topic_id: 42541
+title: "Help Needed Removing Phi From Raw Dicom 3D Tee Files For Res"
+date: 2025-04-12
+url: https://discourse.slicer.org/t/42541
+---
+
 # Help Needed: Removing PHI from Raw DICOM (3D TEE) Files for Research Collaboration. De-identification
 
 **Topic ID**: 42541

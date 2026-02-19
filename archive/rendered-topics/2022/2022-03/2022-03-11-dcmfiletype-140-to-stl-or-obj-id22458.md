@@ -1,3 +1,10 @@
+---
+topic_id: 22458
+title: "Dcmfiletype 140 To Stl Or Obj"
+date: 2022-03-11
+url: https://discourse.slicer.org/t/22458
+---
+
 # Dcmfiletype.140 to stl or obj
 
 **Topic ID**: 22458

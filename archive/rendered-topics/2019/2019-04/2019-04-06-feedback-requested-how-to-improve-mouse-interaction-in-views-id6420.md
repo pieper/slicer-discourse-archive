@@ -1,3 +1,10 @@
+---
+topic_id: 6420
+title: "Feedback Requested How To Improve Mouse Interaction In Views"
+date: 2019-04-06
+url: https://discourse.slicer.org/t/6420
+---
+
 # Feedback requested: How to improve mouse interaction in views?
 
 **Topic ID**: 6420

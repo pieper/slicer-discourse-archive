@@ -1,3 +1,10 @@
+---
+topic_id: 31296
+title: "How To Determine Rmse In Thinplate Registration Mode"
+date: 2023-08-22
+url: https://discourse.slicer.org/t/31296
+---
+
 # How to determine RMSE in Thinplate Registration Mode?
 
 **Topic ID**: 31296

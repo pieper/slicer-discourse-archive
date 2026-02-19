@@ -1,3 +1,10 @@
+---
+topic_id: 35083
+title: "Export File As Stl"
+date: 2024-03-26
+url: https://discourse.slicer.org/t/35083
+---
+
 # Export file as stl
 
 **Topic ID**: 35083

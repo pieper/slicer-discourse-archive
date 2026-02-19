@@ -1,3 +1,10 @@
+---
+topic_id: 16943
+title: "Running Slicercat With User Defined Toolbars And Menues"
+date: 2021-04-05
+url: https://discourse.slicer.org/t/16943
+---
+
 # Running SlicerCAT with user defined toolbars and menues
 
 **Topic ID**: 16943

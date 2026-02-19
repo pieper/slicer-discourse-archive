@@ -1,3 +1,10 @@
+---
+topic_id: 34253
+title: "Igt Volume Reconstruction Output Spacing"
+date: 2024-02-12
+url: https://discourse.slicer.org/t/34253
+---
+
 # IGT volume reconstruction: Output spacing
 
 **Topic ID**: 34253

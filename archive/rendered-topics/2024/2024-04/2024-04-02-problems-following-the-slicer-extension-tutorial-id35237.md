@@ -1,3 +1,10 @@
+---
+topic_id: 35237
+title: "Problems Following The Slicer Extension Tutorial"
+date: 2024-04-02
+url: https://discourse.slicer.org/t/35237
+---
+
 # Problems following the Slicer extension tutorial
 
 **Topic ID**: 35237

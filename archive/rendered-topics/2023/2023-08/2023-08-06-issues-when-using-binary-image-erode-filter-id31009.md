@@ -1,3 +1,10 @@
+---
+topic_id: 31009
+title: "Issues When Using Binary Image Erode Filter"
+date: 2023-08-06
+url: https://discourse.slicer.org/t/31009
+---
+
 # Issues when using Binary Image Erode Filter
 
 **Topic ID**: 31009

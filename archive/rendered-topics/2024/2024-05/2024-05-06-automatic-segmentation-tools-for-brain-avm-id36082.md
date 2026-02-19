@@ -1,3 +1,10 @@
+---
+topic_id: 36082
+title: "Automatic Segmentation Tools For Brain Avm"
+date: 2024-05-06
+url: https://discourse.slicer.org/t/36082
+---
+
 # Automatic segmentation tools for brain AVM?
 
 **Topic ID**: 36082

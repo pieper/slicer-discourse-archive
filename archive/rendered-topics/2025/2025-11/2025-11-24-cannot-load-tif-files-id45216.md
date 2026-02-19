@@ -1,3 +1,10 @@
+---
+topic_id: 45216
+title: "Cannot Load Tif Files"
+date: 2025-11-24
+url: https://discourse.slicer.org/t/45216
+---
+
 # Cannot load tif files
 
 **Topic ID**: 45216

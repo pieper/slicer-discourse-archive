@@ -1,3 +1,10 @@
+---
+topic_id: 17677
+title: "Scripted Loadable Modules Accessing Eachothers Logic"
+date: 2021-05-18
+url: https://discourse.slicer.org/t/17677
+---
+
 # Scripted Loadable Modules Accessing Eachother's Logic
 
 **Topic ID**: 17677

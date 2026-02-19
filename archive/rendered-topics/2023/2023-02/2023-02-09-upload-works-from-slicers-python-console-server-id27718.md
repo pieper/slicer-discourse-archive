@@ -1,3 +1,10 @@
+---
+topic_id: 27718
+title: "Upload Works From Slicers Python Console Server"
+date: 2023-02-09
+url: https://discourse.slicer.org/t/27718
+---
+
 # Upload works from slicer's python console (server)
 
 **Topic ID**: 27718

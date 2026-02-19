@@ -1,3 +1,10 @@
+---
+topic_id: 946
+title: "Export Nrrd Image To Dicom"
+date: 2017-08-25
+url: https://discourse.slicer.org/t/946
+---
+
 # Export NRRD image to DICOM
 
 **Topic ID**: 946

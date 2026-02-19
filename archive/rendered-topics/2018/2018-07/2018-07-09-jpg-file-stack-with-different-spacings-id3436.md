@@ -1,3 +1,10 @@
+---
+topic_id: 3436
+title: "Jpg File Stack With Different Spacings"
+date: 2018-07-09
+url: https://discourse.slicer.org/t/3436
+---
+
 # JPG file stack with different spacings
 
 **Topic ID**: 3436

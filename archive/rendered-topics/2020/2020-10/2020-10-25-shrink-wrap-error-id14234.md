@@ -1,3 +1,10 @@
+---
+topic_id: 14234
+title: "Shrink Wrap Error"
+date: 2020-10-25
+url: https://discourse.slicer.org/t/14234
+---
+
 # Shrink wrap error
 
 **Topic ID**: 14234

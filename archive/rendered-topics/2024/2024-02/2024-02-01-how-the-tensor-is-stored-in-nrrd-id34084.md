@@ -1,3 +1,10 @@
+---
+topic_id: 34084
+title: "How The Tensor Is Stored In Nrrd"
+date: 2024-02-01
+url: https://discourse.slicer.org/t/34084
+---
+
 # How the tensor is stored in NRRD
 
 **Topic ID**: 34084

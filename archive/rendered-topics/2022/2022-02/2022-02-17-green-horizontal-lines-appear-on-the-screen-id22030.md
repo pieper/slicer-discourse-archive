@@ -1,3 +1,10 @@
+---
+topic_id: 22030
+title: "Green Horizontal Lines Appear On The Screen"
+date: 2022-02-17
+url: https://discourse.slicer.org/t/22030
+---
+
 # Green horizontal lines appear on the screen
 
 **Topic ID**: 22030

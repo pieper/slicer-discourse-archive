@@ -1,3 +1,10 @@
+---
+topic_id: 18605
+title: "Volume Rendering Preset To Dicom Or Nifti"
+date: 2021-07-09
+url: https://discourse.slicer.org/t/18605
+---
+
 # Volume rendering preset to dicom or NIFTI
 
 **Topic ID**: 18605

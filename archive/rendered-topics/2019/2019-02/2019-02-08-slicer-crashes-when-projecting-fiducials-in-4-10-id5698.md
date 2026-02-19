@@ -1,3 +1,10 @@
+---
+topic_id: 5698
+title: "Slicer Crashes When Projecting Fiducials In 4 10"
+date: 2019-02-08
+url: https://discourse.slicer.org/t/5698
+---
+
 # Slicer Crashes when projecting fiducials in 4.10
 
 **Topic ID**: 5698

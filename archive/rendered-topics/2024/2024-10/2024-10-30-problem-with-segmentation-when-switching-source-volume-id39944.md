@@ -1,3 +1,10 @@
+---
+topic_id: 39944
+title: "Problem With Segmentation When Switching Source Volume"
+date: 2024-10-30
+url: https://discourse.slicer.org/t/39944
+---
+
 # Problem with segmentation when switching source volume
 
 **Topic ID**: 39944

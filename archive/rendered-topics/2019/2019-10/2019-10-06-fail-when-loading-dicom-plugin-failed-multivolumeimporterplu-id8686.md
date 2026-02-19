@@ -1,3 +1,10 @@
+---
+topic_id: 8686
+title: "Fail When Loading Dicom Plugin Failed Multivolumeimporterplu"
+date: 2019-10-06
+url: https://discourse.slicer.org/t/8686
+---
+
 # Fail when loading DICOM: Plugin failed: MultiVolumeImporterPlugin
 
 **Topic ID**: 8686

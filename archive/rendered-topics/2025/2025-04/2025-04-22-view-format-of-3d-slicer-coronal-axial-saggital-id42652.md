@@ -1,3 +1,10 @@
+---
+topic_id: 42652
+title: "View Format Of 3D Slicer Coronal Axial Saggital"
+date: 2025-04-22
+url: https://discourse.slicer.org/t/42652
+---
+
 # View Format of 3D Slicer (Coronal, Axial, Saggital)
 
 **Topic ID**: 42652

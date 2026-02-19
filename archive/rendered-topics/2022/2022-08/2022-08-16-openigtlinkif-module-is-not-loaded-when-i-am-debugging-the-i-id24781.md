@@ -1,3 +1,10 @@
+---
+topic_id: 24781
+title: "Openigtlinkif Module Is Not Loaded When I Am Debugging The I"
+date: 2022-08-16
+url: https://discourse.slicer.org/t/24781
+---
+
 # OpenIGTLinkIF module is not loaded, when I am debugging the IGT
 
 **Topic ID**: 24781

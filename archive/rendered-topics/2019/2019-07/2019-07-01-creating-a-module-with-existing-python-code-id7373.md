@@ -1,3 +1,10 @@
+---
+topic_id: 7373
+title: "Creating A Module With Existing Python Code"
+date: 2019-07-01
+url: https://discourse.slicer.org/t/7373
+---
+
 # Creating a module with existing python code
 
 **Topic ID**: 7373

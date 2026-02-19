@@ -1,3 +1,10 @@
+---
+topic_id: 35266
+title: "How To Export Position Parameters Like Slice Center And The"
+date: 2024-04-03
+url: https://discourse.slicer.org/t/35266
+---
+
 # How to export position parameters like slice center and the normal vector for the slice plane?
 
 **Topic ID**: 35266

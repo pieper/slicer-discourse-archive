@@ -1,3 +1,10 @@
+---
+topic_id: 38003
+title: "Segment Misalignment"
+date: 2024-08-22
+url: https://discourse.slicer.org/t/38003
+---
+
 # Segment misalignment
 
 **Topic ID**: 38003

@@ -1,3 +1,10 @@
+---
+topic_id: 9504
+title: "Encode Volume Rendering Preset In Single Mrml File"
+date: 2019-12-15
+url: https://discourse.slicer.org/t/9504
+---
+
 # Encode volume rendering preset in single mrml file
 
 **Topic ID**: 9504

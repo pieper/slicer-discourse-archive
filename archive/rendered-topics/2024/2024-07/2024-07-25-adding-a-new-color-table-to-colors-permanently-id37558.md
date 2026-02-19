@@ -1,3 +1,10 @@
+---
+topic_id: 37558
+title: "Adding A New Color Table To Colors Permanently"
+date: 2024-07-25
+url: https://discourse.slicer.org/t/37558
+---
+
 # Adding a new color table to Colors, permanently
 
 **Topic ID**: 37558

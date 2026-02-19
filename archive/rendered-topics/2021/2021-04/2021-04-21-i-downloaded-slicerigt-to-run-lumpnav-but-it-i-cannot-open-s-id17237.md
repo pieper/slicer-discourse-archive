@@ -1,3 +1,10 @@
+---
+topic_id: 17237
+title: "I Downloaded Slicerigt To Run Lumpnav But It I Cannot Open S"
+date: 2021-04-21
+url: https://discourse.slicer.org/t/17237
+---
+
 # I downloaded SlicerIGT to run LumpNav but it I cannot open slicelets
 
 **Topic ID**: 17237

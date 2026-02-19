@@ -1,3 +1,10 @@
+---
+topic_id: 33954
+title: "Vmtk Extract Centerline Extracts Centerline Curves With Both"
+date: 2024-01-24
+url: https://discourse.slicer.org/t/33954
+---
+
 # VMTK Extract Centerline extracts centerline curves with both a curve and a straight line
 
 **Topic ID**: 33954

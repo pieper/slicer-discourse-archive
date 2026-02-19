@@ -1,3 +1,10 @@
+---
+topic_id: 1378
+title: "How To Display 2 Volumes With Transparences"
+date: 2017-11-04
+url: https://discourse.slicer.org/t/1378
+---
+
 # How to display 2 volumes with transparences
 
 **Topic ID**: 1378

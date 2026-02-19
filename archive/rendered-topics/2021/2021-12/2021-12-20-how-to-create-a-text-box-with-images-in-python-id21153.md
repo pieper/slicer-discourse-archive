@@ -1,3 +1,10 @@
+---
+topic_id: 21153
+title: "How To Create A Text Box With Images In Python"
+date: 2021-12-20
+url: https://discourse.slicer.org/t/21153
+---
+
 # How to create a text box with images in python
 
 **Topic ID**: 21153

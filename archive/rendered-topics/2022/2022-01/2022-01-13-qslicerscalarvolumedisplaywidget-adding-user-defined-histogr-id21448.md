@@ -1,3 +1,10 @@
+---
+topic_id: 21448
+title: "Qslicerscalarvolumedisplaywidget Adding User Defined Histogr"
+date: 2022-01-13
+url: https://discourse.slicer.org/t/21448
+---
+
 # [qSlicerScalarVolumeDisplayWidget] Adding user-defined histogram to this
 
 **Topic ID**: 21448

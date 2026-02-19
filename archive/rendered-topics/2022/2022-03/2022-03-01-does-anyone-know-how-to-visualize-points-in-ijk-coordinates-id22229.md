@@ -1,3 +1,10 @@
+---
+topic_id: 22229
+title: "Does Anyone Know How To Visualize Points In Ijk Coordinates"
+date: 2022-03-01
+url: https://discourse.slicer.org/t/22229
+---
+
 # Does anyone know how to visualize points in IJK coordinates in RAS coordinates?
 
 **Topic ID**: 22229

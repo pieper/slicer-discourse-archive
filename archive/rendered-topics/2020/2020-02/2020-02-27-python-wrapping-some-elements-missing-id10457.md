@@ -1,3 +1,10 @@
+---
+topic_id: 10457
+title: "Python Wrapping Some Elements Missing"
+date: 2020-02-27
+url: https://discourse.slicer.org/t/10457
+---
+
 # Python wrapping (some elements missing)
 
 **Topic ID**: 10457

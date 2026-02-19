@@ -1,3 +1,10 @@
+---
+topic_id: 6291
+title: "Color Bar In Slice Viewers"
+date: 2019-03-26
+url: https://discourse.slicer.org/t/6291
+---
+
 # Color bar in slice viewers
 
 **Topic ID**: 6291

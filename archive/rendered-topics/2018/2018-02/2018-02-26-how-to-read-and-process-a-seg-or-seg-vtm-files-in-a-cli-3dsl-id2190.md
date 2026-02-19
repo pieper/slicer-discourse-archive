@@ -1,3 +1,10 @@
+---
+topic_id: 2190
+title: "How To Read And Process A Seg Or Seg Vtm Files In A Cli 3Dsl"
+date: 2018-02-26
+url: https://discourse.slicer.org/t/2190
+---
+
 # How to read and process a '.seg' or '.seg.vtm' files in a CLI 3DSlicer module
 
 **Topic ID**: 2190

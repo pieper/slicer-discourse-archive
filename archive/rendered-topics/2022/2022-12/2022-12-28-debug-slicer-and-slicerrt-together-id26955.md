@@ -1,3 +1,10 @@
+---
+topic_id: 26955
+title: "Debug Slicer And Slicerrt Together"
+date: 2022-12-28
+url: https://discourse.slicer.org/t/26955
+---
+
 # Debug Slicer and SlicerRT Together
 
 **Topic ID**: 26955

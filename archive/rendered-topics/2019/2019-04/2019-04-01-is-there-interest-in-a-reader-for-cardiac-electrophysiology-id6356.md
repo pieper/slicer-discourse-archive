@@ -1,3 +1,10 @@
+---
+topic_id: 6356
+title: "Is There Interest In A Reader For Cardiac Electrophysiology"
+date: 2019-04-01
+url: https://discourse.slicer.org/t/6356
+---
+
 # Is there interest in a reader for cardiac electrophysiology electronanatomic maps?
 
 **Topic ID**: 6356

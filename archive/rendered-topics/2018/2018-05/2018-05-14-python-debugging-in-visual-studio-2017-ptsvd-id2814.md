@@ -1,3 +1,10 @@
+---
+topic_id: 2814
+title: "Python Debugging In Visual Studio 2017 Ptsvd"
+date: 2018-05-14
+url: https://discourse.slicer.org/t/2814
+---
+
 # Python Debugging in Visual Studio 2017 (ptsvd)
 
 **Topic ID**: 2814

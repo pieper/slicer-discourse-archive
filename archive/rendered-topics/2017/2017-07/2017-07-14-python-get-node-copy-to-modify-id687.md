@@ -1,3 +1,10 @@
+---
+topic_id: 687
+title: "Python Get Node Copy To Modify"
+date: 2017-07-14
+url: https://discourse.slicer.org/t/687
+---
+
 # Python - Get Node copy to Modify
 
 **Topic ID**: 687

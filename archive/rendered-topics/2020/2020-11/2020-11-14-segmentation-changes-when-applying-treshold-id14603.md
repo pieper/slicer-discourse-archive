@@ -1,3 +1,10 @@
+---
+topic_id: 14603
+title: "Segmentation Changes When Applying Treshold"
+date: 2020-11-14
+url: https://discourse.slicer.org/t/14603
+---
+
 # Segmentation changes when applying Treshold
 
 **Topic ID**: 14603

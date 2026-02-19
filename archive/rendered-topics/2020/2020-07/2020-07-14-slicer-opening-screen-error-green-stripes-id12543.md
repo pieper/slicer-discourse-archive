@@ -1,3 +1,10 @@
+---
+topic_id: 12543
+title: "Slicer Opening Screen Error Green Stripes"
+date: 2020-07-14
+url: https://discourse.slicer.org/t/12543
+---
+
 # Slicer opening screen error - Green Stripes
 
 **Topic ID**: 12543

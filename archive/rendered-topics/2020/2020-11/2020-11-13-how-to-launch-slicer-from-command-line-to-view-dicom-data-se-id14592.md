@@ -1,3 +1,10 @@
+---
+topic_id: 14592
+title: "How To Launch Slicer From Command Line To View Dicom Data Se"
+date: 2020-11-13
+url: https://discourse.slicer.org/t/14592
+---
+
 # How to launch Slicer from command line to view DICOM data sets
 
 **Topic ID**: 14592

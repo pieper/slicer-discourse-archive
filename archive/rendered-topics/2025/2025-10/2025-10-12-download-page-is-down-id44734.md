@@ -1,3 +1,10 @@
+---
+topic_id: 44734
+title: "Download Page Is Down"
+date: 2025-10-12
+url: https://discourse.slicer.org/t/44734
+---
+
 # Download page is down
 
 **Topic ID**: 44734

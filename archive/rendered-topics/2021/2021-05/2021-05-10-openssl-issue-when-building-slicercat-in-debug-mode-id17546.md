@@ -1,3 +1,10 @@
+---
+topic_id: 17546
+title: "Openssl Issue When Building Slicercat In Debug Mode"
+date: 2021-05-10
+url: https://discourse.slicer.org/t/17546
+---
+
 # OpenSSL issue when building SlicerCAT in Debug mode
 
 **Topic ID**: 17546

@@ -1,3 +1,10 @@
+---
+topic_id: 2396
+title: "Dtiprep Nrrd To Nifti Conversion And Header Info"
+date: 2018-03-22
+url: https://discourse.slicer.org/t/2396
+---
+
 # DTIPrep, Nrrd to Nifti conversion, and header info
 
 **Topic ID**: 2396

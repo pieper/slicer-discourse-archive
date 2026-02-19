@@ -1,3 +1,10 @@
+---
+topic_id: 2644
+title: "Gen Registration Brains Fails Despite Overlap Of Series"
+date: 2018-04-20
+url: https://discourse.slicer.org/t/2644
+---
+
 # Gen Registration (Brains) fails despite overlap of series
 
 **Topic ID**: 2644

@@ -1,3 +1,10 @@
+---
+topic_id: 20928
+title: "How Can I Record Multiple Video Inputs At The Same Time From"
+date: 2021-12-06
+url: https://discourse.slicer.org/t/20928
+---
+
 # How can I record multiple video inputs at the same time from Slicer?
 
 **Topic ID**: 20928

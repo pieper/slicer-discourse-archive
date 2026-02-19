@@ -1,3 +1,10 @@
+---
+topic_id: 23773
+title: "Visualization Of Aorta Thickness"
+date: 2022-06-08
+url: https://discourse.slicer.org/t/23773
+---
+
 # Visualization of Aorta thickness
 
 **Topic ID**: 23773

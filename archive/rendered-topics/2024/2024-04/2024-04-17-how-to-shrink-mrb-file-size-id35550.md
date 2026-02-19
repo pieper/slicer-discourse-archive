@@ -1,3 +1,10 @@
+---
+topic_id: 35550
+title: "How To Shrink Mrb File Size"
+date: 2024-04-17
+url: https://discourse.slicer.org/t/35550
+---
+
 # How to shrink mrb file size?
 
 **Topic ID**: 35550

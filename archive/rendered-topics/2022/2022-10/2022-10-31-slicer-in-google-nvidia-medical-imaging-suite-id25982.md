@@ -1,3 +1,10 @@
+---
+topic_id: 25982
+title: "Slicer In Google Nvidia Medical Imaging Suite"
+date: 2022-10-31
+url: https://discourse.slicer.org/t/25982
+---
+
 # Slicer in Google/Nvidia medical imaging suite
 
 **Topic ID**: 25982

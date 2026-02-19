@@ -1,3 +1,10 @@
+---
+topic_id: 4616
+title: "Radiomics Extension Build Errors On Windows"
+date: 2018-10-25
+url: https://discourse.slicer.org/t/4616
+---
+
 # Radiomics extension build errors on Windows
 
 **Topic ID**: 4616

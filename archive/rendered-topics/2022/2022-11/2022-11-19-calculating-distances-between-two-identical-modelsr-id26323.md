@@ -1,3 +1,10 @@
+---
+topic_id: 26323
+title: "Calculating Distances Between Two Identical Modelsr"
+date: 2022-11-19
+url: https://discourse.slicer.org/t/26323
+---
+
 # Calculating distances between two identical modelsr
 
 **Topic ID**: 26323

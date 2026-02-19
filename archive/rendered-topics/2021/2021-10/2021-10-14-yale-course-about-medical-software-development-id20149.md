@@ -1,3 +1,10 @@
+---
+topic_id: 20149
+title: "Yale Course About Medical Software Development"
+date: 2021-10-14
+url: https://discourse.slicer.org/t/20149
+---
+
 # Yale course about medical software development
 
 **Topic ID**: 20149

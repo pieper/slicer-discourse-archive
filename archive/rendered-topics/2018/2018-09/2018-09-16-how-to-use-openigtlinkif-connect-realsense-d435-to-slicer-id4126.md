@@ -1,3 +1,10 @@
+---
+topic_id: 4126
+title: "How To Use Openigtlinkif Connect Realsense D435 To Slicer"
+date: 2018-09-16
+url: https://discourse.slicer.org/t/4126
+---
+
 # How to use OpenIGTlinkIF connect RealSense D435 to slicer?
 
 **Topic ID**: 4126

@@ -1,3 +1,10 @@
+---
+topic_id: 20524
+title: "Merging Joining Two Open Semi Landmark Curves"
+date: 2021-11-08
+url: https://discourse.slicer.org/t/20524
+---
+
 # Merging/Joining two open semi-landmark curves
 
 **Topic ID**: 20524

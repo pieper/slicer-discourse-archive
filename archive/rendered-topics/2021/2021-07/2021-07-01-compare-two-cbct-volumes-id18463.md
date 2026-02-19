@@ -1,3 +1,10 @@
+---
+topic_id: 18463
+title: "Compare Two Cbct Volumes"
+date: 2021-07-01
+url: https://discourse.slicer.org/t/18463
+---
+
 # Compare two CBCT volumes
 
 **Topic ID**: 18463

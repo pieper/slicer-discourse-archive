@@ -1,3 +1,10 @@
+---
+topic_id: 25589
+title: "Where Is The Igt Plus Model Catalog Browser Module In Slicer"
+date: 2022-10-07
+url: https://discourse.slicer.org/t/25589
+---
+
 # Where is the "IGT / Plus model catalog browser module" in Slicer5?
 
 **Topic ID**: 25589

@@ -1,3 +1,10 @@
+---
+topic_id: 4318
+title: "Import Contours Dicom From Medis Into Slicer"
+date: 2018-10-08
+url: https://discourse.slicer.org/t/4318
+---
+
 # Import contours/dicom from Medis into Slicer
 
 **Topic ID**: 4318

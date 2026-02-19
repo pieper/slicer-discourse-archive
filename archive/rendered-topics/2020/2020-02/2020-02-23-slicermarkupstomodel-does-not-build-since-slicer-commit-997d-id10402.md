@@ -1,3 +1,10 @@
+---
+topic_id: 10402
+title: "Slicermarkupstomodel Does Not Build Since Slicer Commit 997D"
+date: 2020-02-23
+url: https://discourse.slicer.org/t/10402
+---
+
 # SlicerMarkupsToModel does not build : since Slicer commit 997de030a6
 
 **Topic ID**: 10402

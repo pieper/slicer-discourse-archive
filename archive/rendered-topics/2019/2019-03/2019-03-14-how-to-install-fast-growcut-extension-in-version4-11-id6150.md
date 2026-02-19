@@ -1,3 +1,10 @@
+---
+topic_id: 6150
+title: "How To Install Fast Growcut Extension In Version4 11"
+date: 2019-03-14
+url: https://discourse.slicer.org/t/6150
+---
+
 # How to install Fast growcut extension in version4.11
 
 **Topic ID**: 6150

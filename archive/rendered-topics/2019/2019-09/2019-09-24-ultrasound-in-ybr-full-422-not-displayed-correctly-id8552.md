@@ -1,3 +1,10 @@
+---
+topic_id: 8552
+title: "Ultrasound In Ybr Full 422 Not Displayed Correctly"
+date: 2019-09-24
+url: https://discourse.slicer.org/t/8552
+---
+
 # Ultrasound in YBR_Full_422 not displayed correctly?
 
 **Topic ID**: 8552

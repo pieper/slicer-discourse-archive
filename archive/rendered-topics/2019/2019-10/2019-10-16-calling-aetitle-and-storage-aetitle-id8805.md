@@ -1,3 +1,10 @@
+---
+topic_id: 8805
+title: "Calling Aetitle And Storage Aetitle"
+date: 2019-10-16
+url: https://discourse.slicer.org/t/8805
+---
+
 # Calling AETITLE and storage AETITLE
 
 **Topic ID**: 8805

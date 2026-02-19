@@ -1,3 +1,10 @@
+---
+topic_id: 31304
+title: "Is It Possible To Make Crosshair Node Invisible In Yellow Sl"
+date: 2023-08-23
+url: https://discourse.slicer.org/t/31304
+---
+
 # Is it possible to make crosshair node invisible in yellow slice view window?
 
 **Topic ID**: 31304

@@ -1,3 +1,10 @@
+---
+topic_id: 1637
+title: "Cant Find The Segmentation Wizard"
+date: 2017-12-11
+url: https://discourse.slicer.org/t/1637
+---
+
 # Can't find the segmentation wizard
 
 **Topic ID**: 1637

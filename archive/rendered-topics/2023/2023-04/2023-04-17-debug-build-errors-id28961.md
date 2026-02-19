@@ -1,3 +1,10 @@
+---
+topic_id: 28961
+title: "Debug Build Errors"
+date: 2023-04-17
+url: https://discourse.slicer.org/t/28961
+---
+
 # Debug Build errors 
 
 **Topic ID**: 28961

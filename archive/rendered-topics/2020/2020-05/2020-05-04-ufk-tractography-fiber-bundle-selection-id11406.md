@@ -1,3 +1,10 @@
+---
+topic_id: 11406
+title: "Ufk Tractography Fiber Bundle Selection"
+date: 2020-05-04
+url: https://discourse.slicer.org/t/11406
+---
+
 # UFK Tractography - Fiber Bundle Selection
 
 **Topic ID**: 11406

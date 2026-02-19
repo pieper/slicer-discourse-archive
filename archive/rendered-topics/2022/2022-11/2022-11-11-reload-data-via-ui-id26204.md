@@ -1,3 +1,10 @@
+---
+topic_id: 26204
+title: "Reload Data Via Ui"
+date: 2022-11-11
+url: https://discourse.slicer.org/t/26204
+---
+
 # Reload data via UI
 
 **Topic ID**: 26204

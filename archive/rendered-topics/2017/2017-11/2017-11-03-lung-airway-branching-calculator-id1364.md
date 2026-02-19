@@ -1,3 +1,10 @@
+---
+topic_id: 1364
+title: "Lung Airway Branching Calculator"
+date: 2017-11-03
+url: https://discourse.slicer.org/t/1364
+---
+
 # Lung airway branching calculator
 
 **Topic ID**: 1364

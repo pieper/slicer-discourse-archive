@@ -1,3 +1,10 @@
+---
+topic_id: 858
+title: "Tubetk Build With Slicer"
+date: 2017-08-11
+url: https://discourse.slicer.org/t/858
+---
+
 # TubeTK build with Slicer
 
 **Topic ID**: 858

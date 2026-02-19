@@ -1,3 +1,10 @@
+---
+topic_id: 25262
+title: "How To Improve The Accuracy Of Alpaca Slicermorph"
+date: 2022-09-14
+url: https://discourse.slicer.org/t/25262
+---
+
 # How to improve the accuracy of ALPACA @slicerMorph?
 
 **Topic ID**: 25262

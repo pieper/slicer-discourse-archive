@@ -1,3 +1,10 @@
+---
+topic_id: 1537
+title: "Can I Use Multiprocessing In A Python Module"
+date: 2017-11-28
+url: https://discourse.slicer.org/t/1537
+---
+
 # Can I use multiprocessing in a Python module
 
 **Topic ID**: 1537

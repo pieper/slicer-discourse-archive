@@ -1,3 +1,10 @@
+---
+topic_id: 34937
+title: "3D Coordinate Of Input 3D Matrix"
+date: 2024-03-17
+url: https://discourse.slicer.org/t/34937
+---
+
 # 3D coordinate of input 3D matrix
 
 **Topic ID**: 34937

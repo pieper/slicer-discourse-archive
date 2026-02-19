@@ -1,3 +1,10 @@
+---
+topic_id: 7520
+title: "Help With Grow From Seeds Command"
+date: 2019-07-11
+url: https://discourse.slicer.org/t/7520
+---
+
 # Help with "Grow From Seeds" command
 
 **Topic ID**: 7520

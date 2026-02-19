@@ -1,3 +1,10 @@
+---
+topic_id: 12533
+title: "Texts Module Does Not Observe Changed Nodes"
+date: 2020-07-14
+url: https://discourse.slicer.org/t/12533
+---
+
 # Texts module does not observe changed nodes
 
 **Topic ID**: 12533

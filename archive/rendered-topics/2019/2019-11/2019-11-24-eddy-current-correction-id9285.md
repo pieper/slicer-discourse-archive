@@ -1,3 +1,10 @@
+---
+topic_id: 9285
+title: "Eddy Current Correction"
+date: 2019-11-24
+url: https://discourse.slicer.org/t/9285
+---
+
 # Eddy Current Correction
 
 **Topic ID**: 9285

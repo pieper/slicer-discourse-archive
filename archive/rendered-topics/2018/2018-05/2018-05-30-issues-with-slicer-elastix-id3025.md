@@ -1,3 +1,10 @@
+---
+topic_id: 3025
+title: "Issues With Slicer Elastix"
+date: 2018-05-30
+url: https://discourse.slicer.org/t/3025
+---
+
 # Issues with Slicer Elastix
 
 **Topic ID**: 3025

@@ -1,3 +1,10 @@
+---
+topic_id: 14712
+title: "Yaw Pitch Roll Measurements With Q3Dc"
+date: 2020-11-20
+url: https://discourse.slicer.org/t/14712
+---
+
 # Yaw, pitch, roll measurements with Q3DC
 
 **Topic ID**: 14712

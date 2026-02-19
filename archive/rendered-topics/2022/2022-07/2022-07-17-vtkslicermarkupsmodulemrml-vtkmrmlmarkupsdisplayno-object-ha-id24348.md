@@ -1,3 +1,10 @@
+---
+topic_id: 24348
+title: "Vtkslicermarkupsmodulemrml Vtkmrmlmarkupsdisplayno Object Ha"
+date: 2022-07-17
+url: https://discourse.slicer.org/t/24348
+---
+
 # 'vtkSlicerMarkupsModuleMRML.vtkMRMLMarkupsDisplayNo' object has no attribute 'SetSliceDisplayModeToProjection'
 
 **Topic ID**: 24348

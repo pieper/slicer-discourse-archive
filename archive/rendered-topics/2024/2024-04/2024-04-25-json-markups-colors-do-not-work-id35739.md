@@ -1,3 +1,10 @@
+---
+topic_id: 35739
+title: "Json Markups Colors Do Not Work"
+date: 2024-04-25
+url: https://discourse.slicer.org/t/35739
+---
+
 # Json markups colors do not work
 
 **Topic ID**: 35739

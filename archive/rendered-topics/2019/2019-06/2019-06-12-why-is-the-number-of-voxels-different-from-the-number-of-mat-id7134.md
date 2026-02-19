@@ -1,3 +1,10 @@
+---
+topic_id: 7134
+title: "Why Is The Number Of Voxels Different From The Number Of Mat"
+date: 2019-06-12
+url: https://discourse.slicer.org/t/7134
+---
+
 # Why is the number of voxels different from the number of matrices?
 
 **Topic ID**: 7134

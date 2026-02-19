@@ -1,3 +1,10 @@
+---
+topic_id: 16415
+title: "Need Help With Segmentation Of Image Stack"
+date: 2021-03-07
+url: https://discourse.slicer.org/t/16415
+---
+
 # Need help with segmentation of image stack
 
 **Topic ID**: 16415

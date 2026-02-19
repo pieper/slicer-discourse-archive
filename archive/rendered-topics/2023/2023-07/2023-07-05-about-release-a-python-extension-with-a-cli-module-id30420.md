@@ -1,3 +1,10 @@
+---
+topic_id: 30420
+title: "About Release A Python Extension With A Cli Module"
+date: 2023-07-05
+url: https://discourse.slicer.org/t/30420
+---
+
 # About release a python extension with a CLI module
 
 **Topic ID**: 30420

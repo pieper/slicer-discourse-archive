@@ -1,3 +1,10 @@
+---
+topic_id: 19435
+title: "Hounsfields Units For Axial Slices Of Proximal Humerus"
+date: 2021-08-31
+url: https://discourse.slicer.org/t/19435
+---
+
 # hounsfields units for axial slices of proximal humerus
 
 **Topic ID**: 19435

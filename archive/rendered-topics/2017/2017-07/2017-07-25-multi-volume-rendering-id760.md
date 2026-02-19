@@ -1,3 +1,10 @@
+---
+topic_id: 760
+title: "Multi Volume Rendering"
+date: 2017-07-25
+url: https://discourse.slicer.org/t/760
+---
+
 # Multi volume rendering
 
 **Topic ID**: 760

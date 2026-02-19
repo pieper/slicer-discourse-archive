@@ -1,3 +1,10 @@
+---
+topic_id: 14773
+title: "Mutli Texture Rendering With Obj Mlt Multiple Jpgs"
+date: 2020-11-25
+url: https://discourse.slicer.org/t/14773
+---
+
 # Mutli texture rendering with obj + mlt + multiple jpgs
 
 **Topic ID**: 14773

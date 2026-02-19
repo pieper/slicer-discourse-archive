@@ -1,3 +1,10 @@
+---
+topic_id: 9139
+title: "Radiomics Extension"
+date: 2019-11-14
+url: https://discourse.slicer.org/t/9139
+---
+
 # Radiomics extension
 
 **Topic ID**: 9139

@@ -1,3 +1,10 @@
+---
+topic_id: 26191
+title: "How To Load Dicom Into Volumes From A Folder"
+date: 2022-11-11
+url: https://discourse.slicer.org/t/26191
+---
+
 # How to load dicom into volumes from a folder?
 
 **Topic ID**: 26191

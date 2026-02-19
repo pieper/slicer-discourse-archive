@@ -1,3 +1,10 @@
+---
+topic_id: 4509
+title: "Accessing Modules From Python"
+date: 2018-10-23
+url: https://discourse.slicer.org/t/4509
+---
+
 # Accessing modules from Python
 
 **Topic ID**: 4509

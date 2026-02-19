@@ -1,3 +1,10 @@
+---
+topic_id: 35646
+title: "Cine Cardiac Mri Image Short Axis View"
+date: 2024-04-21
+url: https://discourse.slicer.org/t/35646
+---
+
 # Cine Cardiac MRI image - short axis view
 
 **Topic ID**: 35646

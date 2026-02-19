@@ -1,3 +1,10 @@
+---
+topic_id: 8026
+title: "Dcm Contour Propagation"
+date: 2019-08-14
+url: https://discourse.slicer.org/t/8026
+---
+
 # dcm contour propagation
 
 **Topic ID**: 8026

@@ -1,3 +1,10 @@
+---
+topic_id: 34368
+title: "Dicom Patient Name Not Showing In Database Module"
+date: 2024-02-16
+url: https://discourse.slicer.org/t/34368
+---
+
 # DICOM patient name not showing in database module
 
 **Topic ID**: 34368

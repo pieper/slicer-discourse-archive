@@ -1,3 +1,10 @@
+---
+topic_id: 3393
+title: "Residual Paint On 3D View"
+date: 2018-07-05
+url: https://discourse.slicer.org/t/3393
+---
+
 # Residual paint on 3D view
 
 **Topic ID**: 3393

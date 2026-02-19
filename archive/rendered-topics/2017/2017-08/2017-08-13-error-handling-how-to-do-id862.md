@@ -1,3 +1,10 @@
+---
+topic_id: 862
+title: "Error Handling How To Do"
+date: 2017-08-13
+url: https://discourse.slicer.org/t/862
+---
+
 # Error handling, how to do?
 
 **Topic ID**: 862

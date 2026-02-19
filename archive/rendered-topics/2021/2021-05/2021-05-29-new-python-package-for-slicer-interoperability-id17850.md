@@ -1,3 +1,10 @@
+---
+topic_id: 17850
+title: "New Python Package For Slicer Interoperability"
+date: 2021-05-29
+url: https://discourse.slicer.org/t/17850
+---
+
 # New Python package for Slicer interoperability
 
 **Topic ID**: 17850

@@ -1,3 +1,10 @@
+---
+topic_id: 20275
+title: "Change Interaction Speed In 3D View"
+date: 2021-10-20
+url: https://discourse.slicer.org/t/20275
+---
+
 # Change interaction speed in 3D view
 
 **Topic ID**: 20275

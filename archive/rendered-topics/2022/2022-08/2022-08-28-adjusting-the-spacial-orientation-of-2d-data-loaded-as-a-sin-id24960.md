@@ -1,3 +1,10 @@
+---
+topic_id: 24960
+title: "Adjusting The Spacial Orientation Of 2D Data Loaded As A Sin"
+date: 2022-08-28
+url: https://discourse.slicer.org/t/24960
+---
+
 # Adjusting the spacial orientation of 2D data loaded as a single slice
 
 **Topic ID**: 24960

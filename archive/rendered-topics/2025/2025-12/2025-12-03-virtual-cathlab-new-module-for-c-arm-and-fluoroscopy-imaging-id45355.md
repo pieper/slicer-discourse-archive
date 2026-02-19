@@ -1,3 +1,10 @@
+---
+topic_id: 45355
+title: "Virtual Cathlab New Module For C Arm And Fluoroscopy Imaging"
+date: 2025-12-03
+url: https://discourse.slicer.org/t/45355
+---
+
 # Virtual CathLab: new module for C-arm and fluoroscopy imaging simulation
 
 **Topic ID**: 45355

@@ -1,3 +1,10 @@
+---
+topic_id: 39880
+title: "Error In Pytorch Installation"
+date: 2024-10-27
+url: https://discourse.slicer.org/t/39880
+---
+
 # Error in PyTorch installation
 
 **Topic ID**: 39880

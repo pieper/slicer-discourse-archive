@@ -1,3 +1,10 @@
+---
+topic_id: 8908
+title: "Inconsistent Incorrect Volume Value Of Segments"
+date: 2019-10-25
+url: https://discourse.slicer.org/t/8908
+---
+
 # Inconsistent / Incorrect volume value of segments
 
 **Topic ID**: 8908

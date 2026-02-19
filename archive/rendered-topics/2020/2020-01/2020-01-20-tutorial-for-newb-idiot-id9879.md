@@ -1,3 +1,10 @@
+---
+topic_id: 9879
+title: "Tutorial For Newb Idiot"
+date: 2020-01-20
+url: https://discourse.slicer.org/t/9879
+---
+
 # Tutorial for newb idiot?
 
 **Topic ID**: 9879

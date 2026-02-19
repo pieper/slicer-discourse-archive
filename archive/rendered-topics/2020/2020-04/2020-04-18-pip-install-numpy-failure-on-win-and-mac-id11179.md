@@ -1,3 +1,10 @@
+---
+topic_id: 11179
+title: "Pip Install Numpy Failure On Win And Mac"
+date: 2020-04-18
+url: https://discourse.slicer.org/t/11179
+---
+
 # Pip install numpy failure on Win and MAC
 
 **Topic ID**: 11179

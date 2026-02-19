@@ -1,3 +1,10 @@
+---
+topic_id: 19042
+title: "Command Line Interface Cli Much Slower Compared To Starting"
+date: 2021-08-03
+url: https://discourse.slicer.org/t/19042
+---
+
 # Command Line Interface (CLI) much slower compared to starting in separate python environment
 
 **Topic ID**: 19042

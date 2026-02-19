@@ -1,3 +1,10 @@
+---
+topic_id: 31532
+title: "About Compile Errors"
+date: 2023-09-04
+url: https://discourse.slicer.org/t/31532
+---
+
 # About compile errors
 
 **Topic ID**: 31532

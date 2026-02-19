@@ -1,3 +1,10 @@
+---
+topic_id: 16073
+title: "Edit Ui File For Segmentation Editor Effect"
+date: 2021-02-19
+url: https://discourse.slicer.org/t/16073
+---
+
 # Edit UI file for segmentation editor effect
 
 **Topic ID**: 16073

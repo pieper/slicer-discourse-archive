@@ -1,3 +1,10 @@
+---
+topic_id: 38116
+title: "Is It Possible To Use Slicerrt Delineate The Target And Oar"
+date: 2024-08-29
+url: https://discourse.slicer.org/t/38116
+---
+
 # Is it possible to use slicerRT delineate the target and OAR?
 
 **Topic ID**: 38116

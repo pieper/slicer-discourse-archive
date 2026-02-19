@@ -1,3 +1,10 @@
+---
+topic_id: 24428
+title: "Feature Error In Python"
+date: 2022-07-21
+url: https://discourse.slicer.org/t/24428
+---
+
 # Feature Error in python
 
 **Topic ID**: 24428

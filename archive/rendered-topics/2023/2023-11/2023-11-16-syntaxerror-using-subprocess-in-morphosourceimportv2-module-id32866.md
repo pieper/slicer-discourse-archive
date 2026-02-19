@@ -1,3 +1,10 @@
+---
+topic_id: 32866
+title: "Syntaxerror Using Subprocess In Morphosourceimportv2 Module"
+date: 2023-11-16
+url: https://discourse.slicer.org/t/32866
+---
+
 # SyntaxError Using subprocess in MorphoSourceImportV2 Module
 
 **Topic ID**: 32866

@@ -1,3 +1,10 @@
+---
+topic_id: 2763
+title: "How Does Slicer Finds The Optimal Viewing Window Min Max Val"
+date: 2018-05-06
+url: https://discourse.slicer.org/t/2763
+---
+
 # How does Slicer finds the optimal viewing window (min/max values) when importing nifti file?
 
 **Topic ID**: 2763

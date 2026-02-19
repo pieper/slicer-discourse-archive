@@ -1,3 +1,10 @@
+---
+topic_id: 31420
+title: "Questions About Comparing Segments With The Segment Comparis"
+date: 2023-08-29
+url: https://discourse.slicer.org/t/31420
+---
+
 # Questions about comparing segments with the Segment Comparison module
 
 **Topic ID**: 31420

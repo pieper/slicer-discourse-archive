@@ -1,3 +1,10 @@
+---
+topic_id: 18320
+title: "Convert Csv Files To Be Loadable As Fiducials Or As Sequence"
+date: 2021-06-24
+url: https://discourse.slicer.org/t/18320
+---
+
 # Convert CSV files to be loadable as Fiducials or as Sequence of Fiducials (JSON)
 
 **Topic ID**: 18320

@@ -1,3 +1,10 @@
+---
+topic_id: 5293
+title: "Showing Grids In The Viewer"
+date: 2019-01-07
+url: https://discourse.slicer.org/t/5293
+---
+
 # Showing grids in the viewer
 
 **Topic ID**: 5293

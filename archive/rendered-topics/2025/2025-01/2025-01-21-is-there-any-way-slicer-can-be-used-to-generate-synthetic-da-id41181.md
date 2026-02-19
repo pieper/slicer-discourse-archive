@@ -1,3 +1,10 @@
+---
+topic_id: 41181
+title: "Is There Any Way Slicer Can Be Used To Generate Synthetic Da"
+date: 2025-01-21
+url: https://discourse.slicer.org/t/41181
+---
+
 # Is there any way slicer can be used to generate synthetic data
 
 **Topic ID**: 41181

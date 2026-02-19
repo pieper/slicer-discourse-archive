@@ -1,3 +1,10 @@
+---
+topic_id: 9614
+title: "Occlusion Registration"
+date: 2019-12-25
+url: https://discourse.slicer.org/t/9614
+---
+
 # Occlusion Registration
 
 **Topic ID**: 9614

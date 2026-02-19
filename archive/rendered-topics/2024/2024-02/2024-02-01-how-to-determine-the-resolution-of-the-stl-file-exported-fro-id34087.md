@@ -1,3 +1,10 @@
+---
+topic_id: 34087
+title: "How To Determine The Resolution Of The Stl File Exported Fro"
+date: 2024-02-01
+url: https://discourse.slicer.org/t/34087
+---
+
 # How to determine the resolution of the STL file exported from the 3D slicer?
 
 **Topic ID**: 34087

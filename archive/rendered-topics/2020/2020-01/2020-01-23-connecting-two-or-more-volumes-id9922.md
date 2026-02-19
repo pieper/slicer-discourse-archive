@@ -1,3 +1,10 @@
+---
+topic_id: 9922
+title: "Connecting Two Or More Volumes"
+date: 2020-01-23
+url: https://discourse.slicer.org/t/9922
+---
+
 # Connecting two or more volumes
 
 **Topic ID**: 9922

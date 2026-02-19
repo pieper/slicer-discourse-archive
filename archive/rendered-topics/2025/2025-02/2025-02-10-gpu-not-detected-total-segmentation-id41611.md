@@ -1,3 +1,10 @@
+---
+topic_id: 41611
+title: "Gpu Not Detected Total Segmentation"
+date: 2025-02-10
+url: https://discourse.slicer.org/t/41611
+---
+
 # GPU not detected Total Segmentation
 
 **Topic ID**: 41611

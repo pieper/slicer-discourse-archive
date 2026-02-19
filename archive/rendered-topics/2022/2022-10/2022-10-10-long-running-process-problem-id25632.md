@@ -1,3 +1,10 @@
+---
+topic_id: 25632
+title: "Long Running Process Problem"
+date: 2022-10-10
+url: https://discourse.slicer.org/t/25632
+---
+
 # Long running process problem
 
 **Topic ID**: 25632

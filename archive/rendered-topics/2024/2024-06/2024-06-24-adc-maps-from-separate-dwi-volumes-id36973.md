@@ -1,3 +1,10 @@
+---
+topic_id: 36973
+title: "Adc Maps From Separate Dwi Volumes"
+date: 2024-06-24
+url: https://discourse.slicer.org/t/36973
+---
+
 # ADC maps from separate DWI volumes?
 
 **Topic ID**: 36973

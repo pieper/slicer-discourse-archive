@@ -1,3 +1,10 @@
+---
+topic_id: 27460
+title: "Unexpected Behaviour With Control Point Coordinates Outside"
+date: 2023-01-25
+url: https://discourse.slicer.org/t/27460
+---
+
 # Unexpected behaviour with control point coordinates outside of Slicer
 
 **Topic ID**: 27460

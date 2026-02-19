@@ -1,3 +1,10 @@
+---
+topic_id: 9964
+title: "Dicom Not Viewed In Layout"
+date: 2020-01-27
+url: https://discourse.slicer.org/t/9964
+---
+
 # DICOM not viewed in Layout
 
 **Topic ID**: 9964

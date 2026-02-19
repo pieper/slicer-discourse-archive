@@ -1,3 +1,10 @@
+---
+topic_id: 1921
+title: "Dicom Loading Patcher General Problems"
+date: 2018-01-24
+url: https://discourse.slicer.org/t/1921
+---
+
 # DICOM loading, patcher, general problems. 
 
 **Topic ID**: 1921

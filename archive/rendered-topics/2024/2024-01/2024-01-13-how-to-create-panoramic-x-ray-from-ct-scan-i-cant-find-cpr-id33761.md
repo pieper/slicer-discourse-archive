@@ -1,3 +1,10 @@
+---
+topic_id: 33761
+title: "How To Create Panoramic X Ray From Ct Scan I Cant Find Cpr"
+date: 2024-01-13
+url: https://discourse.slicer.org/t/33761
+---
+
 # How to Create panoramic X-ray from Ct scan , I can't find CPR
 
 **Topic ID**: 33761

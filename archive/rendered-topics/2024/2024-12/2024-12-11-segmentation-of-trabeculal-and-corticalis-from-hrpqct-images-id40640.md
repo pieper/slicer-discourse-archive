@@ -1,3 +1,10 @@
+---
+topic_id: 40640
+title: "Segmentation Of Trabeculal And Corticalis From Hrpqct Images"
+date: 2024-12-11
+url: https://discourse.slicer.org/t/40640
+---
+
 # Segmentation of trabeculal and corticalis from HRpQCT images
 
 **Topic ID**: 40640

@@ -1,3 +1,10 @@
+---
+topic_id: 40637
+title: "Segmenting Upper Airway Difficulty With Thresholding"
+date: 2024-12-11
+url: https://discourse.slicer.org/t/40637
+---
+
 # Segmenting upper airway, difficulty with thresholding
 
 **Topic ID**: 40637

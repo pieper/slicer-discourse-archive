@@ -1,3 +1,10 @@
+---
+topic_id: 13117
+title: "Cannot Run Gpa Phyton Warning"
+date: 2020-08-20
+url: https://discourse.slicer.org/t/13117
+---
+
 # Cannot run GPA phyton warning
 
 **Topic ID**: 13117

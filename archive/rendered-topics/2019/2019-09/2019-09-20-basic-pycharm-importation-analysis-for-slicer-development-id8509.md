@@ -1,3 +1,10 @@
+---
+topic_id: 8509
+title: "Basic Pycharm Importation Analysis For Slicer Development"
+date: 2019-09-20
+url: https://discourse.slicer.org/t/8509
+---
+
 # Basic PyCharm Importation Analysis for Slicer Development
 
 **Topic ID**: 8509

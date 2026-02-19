@@ -1,3 +1,10 @@
+---
+topic_id: 45645
+title: "Downloading Older Releases Is Problematic"
+date: 2025-12-30
+url: https://discourse.slicer.org/t/45645
+---
+
 # Downloading older releases is problematic
 
 **Topic ID**: 45645

@@ -1,3 +1,10 @@
+---
+topic_id: 9610
+title: "Heat Maps For Two Structures"
+date: 2019-12-25
+url: https://discourse.slicer.org/t/9610
+---
+
 # Heat maps for two structures
 
 **Topic ID**: 9610

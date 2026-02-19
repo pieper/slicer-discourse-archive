@@ -1,3 +1,10 @@
+---
+topic_id: 31300
+title: "Suggestion For Module Extension Development With Simpleitk A"
+date: 2023-08-22
+url: https://discourse.slicer.org/t/31300
+---
+
 # Suggestion for Module Extension Development with SimpleITK and ITK-elastix
 
 **Topic ID**: 31300

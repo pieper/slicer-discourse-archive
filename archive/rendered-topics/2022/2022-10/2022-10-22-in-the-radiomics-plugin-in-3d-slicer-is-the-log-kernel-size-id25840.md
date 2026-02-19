@@ -1,3 +1,10 @@
+---
+topic_id: 25840
+title: "In The Radiomics Plugin In 3D Slicer Is The Log Kernel Size"
+date: 2022-10-22
+url: https://discourse.slicer.org/t/25840
+---
+
 # In the radiomics plugin in 3d slicer, is the Log kernel size filled in 3,5,7? And for CT images with layer thickness of 2-5mm, should  use 3,3,3 or 1,1,1 for resampling?
 
 **Topic ID**: 25840

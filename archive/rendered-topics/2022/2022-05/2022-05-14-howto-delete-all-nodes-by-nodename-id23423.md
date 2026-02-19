@@ -1,3 +1,10 @@
+---
+topic_id: 23423
+title: "Howto Delete All Nodes By Nodename"
+date: 2022-05-14
+url: https://discourse.slicer.org/t/23423
+---
+
 # Howto delete all nodes by 'nodeName*'?
 
 **Topic ID**: 23423

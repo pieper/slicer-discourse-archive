@@ -1,3 +1,10 @@
+---
+topic_id: 19747
+title: "How To Do Custom Rotation Sliders And Transformation Buttons"
+date: 2021-09-19
+url: https://discourse.slicer.org/t/19747
+---
+
 # How to do custom rotation sliders and transformation buttons with python?
 
 **Topic ID**: 19747

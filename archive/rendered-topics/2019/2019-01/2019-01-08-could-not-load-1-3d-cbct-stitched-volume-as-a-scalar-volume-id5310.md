@@ -1,3 +1,10 @@
+---
+topic_id: 5310
+title: "Could Not Load 1 3D Cbct Stitched Volume As A Scalar Volume"
+date: 2019-01-08
+url: https://discourse.slicer.org/t/5310
+---
+
 # Could not load: 1: 3D CBCT Stitched Volume as a Scalar Volume
 
 **Topic ID**: 5310

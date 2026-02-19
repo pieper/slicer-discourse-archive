@@ -1,3 +1,10 @@
+---
+topic_id: 24257
+title: "Lungctsegmenter Error Failed To Start Segmentation"
+date: 2022-07-10
+url: https://discourse.slicer.org/t/24257
+---
+
 # LungCTSegmenter error:Failed to start segmentation
 
 **Topic ID**: 24257

@@ -1,3 +1,10 @@
+---
+topic_id: 42195
+title: "Slice By Slice Local Thresholding"
+date: 2025-03-18
+url: https://discourse.slicer.org/t/42195
+---
+
 # Slice by Slice local Thresholding
 
 **Topic ID**: 42195

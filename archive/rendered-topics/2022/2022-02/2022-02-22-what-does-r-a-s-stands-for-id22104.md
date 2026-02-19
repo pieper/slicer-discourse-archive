@@ -1,3 +1,10 @@
+---
+topic_id: 22104
+title: "What Does R A S Stands For"
+date: 2022-02-22
+url: https://discourse.slicer.org/t/22104
+---
+
 # What does R,A,S stands for?
 
 **Topic ID**: 22104

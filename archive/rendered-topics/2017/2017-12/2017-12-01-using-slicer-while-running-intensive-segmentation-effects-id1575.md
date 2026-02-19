@@ -1,3 +1,10 @@
+---
+topic_id: 1575
+title: "Using Slicer While Running Intensive Segmentation Effects"
+date: 2017-12-01
+url: https://discourse.slicer.org/t/1575
+---
+
 # Using Slicer while running intensive Segmentation effects
 
 **Topic ID**: 1575

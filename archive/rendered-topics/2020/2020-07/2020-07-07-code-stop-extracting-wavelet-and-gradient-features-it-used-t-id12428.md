@@ -1,3 +1,10 @@
+---
+topic_id: 12428
+title: "Code Stop Extracting Wavelet And Gradient Features It Used T"
+date: 2020-07-07
+url: https://discourse.slicer.org/t/12428
+---
+
 # Code stop extracting wavelet and gradient features (it used to do so)
 
 **Topic ID**: 12428

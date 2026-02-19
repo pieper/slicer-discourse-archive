@@ -1,3 +1,10 @@
+---
+topic_id: 955
+title: "Measurements Module"
+date: 2017-08-28
+url: https://discourse.slicer.org/t/955
+---
+
 # Measurements Module
 
 **Topic ID**: 955

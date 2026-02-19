@@ -1,3 +1,10 @@
+---
+topic_id: 16717
+title: "Mapping Electromagnetic Tracking Error"
+date: 2021-03-23
+url: https://discourse.slicer.org/t/16717
+---
+
 # Mapping electromagnetic tracking error
 
 **Topic ID**: 16717

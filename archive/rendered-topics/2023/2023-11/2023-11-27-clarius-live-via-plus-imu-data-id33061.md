@@ -1,3 +1,10 @@
+---
+topic_id: 33061
+title: "Clarius Live Via Plus Imu Data"
+date: 2023-11-27
+url: https://discourse.slicer.org/t/33061
+---
+
 # Clarius Live via Plus IMU Data
 
 **Topic ID**: 33061

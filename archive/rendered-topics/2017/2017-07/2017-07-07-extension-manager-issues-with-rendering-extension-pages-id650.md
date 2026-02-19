@@ -1,3 +1,10 @@
+---
+topic_id: 650
+title: "Extension Manager Issues With Rendering Extension Pages"
+date: 2017-07-07
+url: https://discourse.slicer.org/t/650
+---
+
 # Extension manager issues with rendering extension pages
 
 **Topic ID**: 650

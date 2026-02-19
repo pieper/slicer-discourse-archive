@@ -1,3 +1,10 @@
+---
+topic_id: 27486
+title: "Event On Double Right Click In A Given View"
+date: 2023-01-26
+url: https://discourse.slicer.org/t/27486
+---
+
 # Event on double right click in a given view
 
 **Topic ID**: 27486

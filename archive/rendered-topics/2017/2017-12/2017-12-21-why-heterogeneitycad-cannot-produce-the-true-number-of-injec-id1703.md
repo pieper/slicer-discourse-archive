@@ -1,3 +1,10 @@
+---
+topic_id: 1703
+title: "Why Heterogeneitycad Cannot Produce The True Number Of Injec"
+date: 2017-12-21
+url: https://discourse.slicer.org/t/1703
+---
+
 # Why HeterogeneityCAD cannot produce the true number of % injected dose value and gray levels in a normalized PET image?
 
 **Topic ID**: 1703

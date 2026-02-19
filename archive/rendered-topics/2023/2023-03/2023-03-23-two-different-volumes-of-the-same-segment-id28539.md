@@ -1,3 +1,10 @@
+---
+topic_id: 28539
+title: "Two Different Volumes Of The Same Segment"
+date: 2023-03-23
+url: https://discourse.slicer.org/t/28539
+---
+
 # Two different volumes of the same segment
 
 **Topic ID**: 28539

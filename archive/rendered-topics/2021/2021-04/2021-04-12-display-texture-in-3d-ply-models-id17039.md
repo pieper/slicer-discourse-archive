@@ -1,3 +1,10 @@
+---
+topic_id: 17039
+title: "Display Texture In 3D Ply Models"
+date: 2021-04-12
+url: https://discourse.slicer.org/t/17039
+---
+
 # Display texture in 3D PLY models
 
 **Topic ID**: 17039

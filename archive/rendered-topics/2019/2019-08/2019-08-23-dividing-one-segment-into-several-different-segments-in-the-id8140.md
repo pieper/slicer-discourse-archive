@@ -1,3 +1,10 @@
+---
+topic_id: 8140
+title: "Dividing One Segment Into Several Different Segments In The"
+date: 2019-08-23
+url: https://discourse.slicer.org/t/8140
+---
+
 # Dividing one segment into several different segments in the same segmentation
 
 **Topic ID**: 8140

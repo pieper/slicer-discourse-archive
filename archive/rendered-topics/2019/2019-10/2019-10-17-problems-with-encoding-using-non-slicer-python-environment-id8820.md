@@ -1,3 +1,10 @@
+---
+topic_id: 8820
+title: "Problems With Encoding Using Non Slicer Python Environment"
+date: 2019-10-17
+url: https://discourse.slicer.org/t/8820
+---
+
 # Problems with encoding using non-Slicer Python environment
 
 **Topic ID**: 8820

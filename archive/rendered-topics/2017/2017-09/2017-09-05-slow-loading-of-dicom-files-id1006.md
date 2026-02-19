@@ -1,3 +1,10 @@
+---
+topic_id: 1006
+title: "Slow Loading Of Dicom Files"
+date: 2017-09-05
+url: https://discourse.slicer.org/t/1006
+---
+
 # Slow loading of DICOM files
 
 **Topic ID**: 1006

@@ -1,3 +1,10 @@
+---
+topic_id: 27074
+title: "How To Access Image Properties Imported Into 3D Slicer"
+date: 2023-01-06
+url: https://discourse.slicer.org/t/27074
+---
+
 # How to access image properties imported into 3D slicer
 
 **Topic ID**: 27074

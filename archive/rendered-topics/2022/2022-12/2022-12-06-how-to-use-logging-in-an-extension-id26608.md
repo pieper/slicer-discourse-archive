@@ -1,3 +1,10 @@
+---
+topic_id: 26608
+title: "How To Use Logging In An Extension"
+date: 2022-12-06
+url: https://discourse.slicer.org/t/26608
+---
+
 # How to use logging in an extension?
 
 **Topic ID**: 26608

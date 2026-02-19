@@ -1,3 +1,10 @@
+---
+topic_id: 23090
+title: "How To Use Resample Scalar Vector Dwi Volume"
+date: 2022-04-22
+url: https://discourse.slicer.org/t/23090
+---
+
 # How to use Resample Scalar/Vector/DWI Volume
 
 **Topic ID**: 23090

@@ -1,3 +1,10 @@
+---
+topic_id: 6905
+title: "Display And Interact With Fiducials In Vr"
+date: 2019-05-23
+url: https://discourse.slicer.org/t/6905
+---
+
 # Display and interact with fiducials in VR
 
 **Topic ID**: 6905

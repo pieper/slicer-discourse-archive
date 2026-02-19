@@ -1,3 +1,10 @@
+---
+topic_id: 9781
+title: "Sitkutils Pullvolumefromslicer Makes Slicer Crash"
+date: 2020-01-12
+url: https://discourse.slicer.org/t/9781
+---
+
 # sitkUtils.PullVolumeFromSlicer makes Slicer crash
 
 **Topic ID**: 9781

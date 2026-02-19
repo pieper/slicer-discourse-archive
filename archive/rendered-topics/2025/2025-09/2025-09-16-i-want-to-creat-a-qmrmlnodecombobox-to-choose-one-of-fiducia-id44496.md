@@ -1,3 +1,10 @@
+---
+topic_id: 44496
+title: "I Want To Creat A Qmrmlnodecombobox To Choose One Of Fiducia"
+date: 2025-09-16
+url: https://discourse.slicer.org/t/44496
+---
+
 # I want to creat a qMRMLNodeCombobox to choose one of fiducial node
 
 **Topic ID**: 44496

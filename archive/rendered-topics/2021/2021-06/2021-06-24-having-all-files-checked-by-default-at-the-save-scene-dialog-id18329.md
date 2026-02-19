@@ -1,3 +1,10 @@
+---
+topic_id: 18329
+title: "Having All Files Checked By Default At The Save Scene Dialog"
+date: 2021-06-24
+url: https://discourse.slicer.org/t/18329
+---
+
 # Having all files checked by default at the Save Scene dialog
 
 **Topic ID**: 18329

@@ -1,3 +1,10 @@
+---
+topic_id: 21014
+title: "How To Avoid Duplicate Names In Node Setname"
+date: 2021-12-11
+url: https://discourse.slicer.org/t/21014
+---
+
 # How to avoid duplicate names in node.SetName()?
 
 **Topic ID**: 21014

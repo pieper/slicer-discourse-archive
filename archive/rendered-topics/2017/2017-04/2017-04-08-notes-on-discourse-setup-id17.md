@@ -1,3 +1,10 @@
+---
+topic_id: 17
+title: "Notes On Discourse Setup"
+date: 2017-04-08
+url: https://discourse.slicer.org/t/17
+---
+
 # Notes on Discourse setup
 
 **Topic ID**: 17

@@ -1,3 +1,10 @@
+---
+topic_id: 17507
+title: "Draw Multiple Tubes"
+date: 2021-05-07
+url: https://discourse.slicer.org/t/17507
+---
+
 # Draw multiple tubes
 
 **Topic ID**: 17507

@@ -1,3 +1,10 @@
+---
+topic_id: 25250
+title: "Rewrite Qmrmlsubjecthierarchytreeview"
+date: 2022-09-14
+url: https://discourse.slicer.org/t/25250
+---
+
 # Rewrite qMRMLSubjectHierarchyTreeView
 
 **Topic ID**: 25250

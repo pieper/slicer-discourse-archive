@@ -1,3 +1,10 @@
+---
+topic_id: 33164
+title: "How Do I Know What Bin Length I Should Be Using"
+date: 2023-12-01
+url: https://discourse.slicer.org/t/33164
+---
+
 # How do I know what bin length I should be using?
 
 **Topic ID**: 33164

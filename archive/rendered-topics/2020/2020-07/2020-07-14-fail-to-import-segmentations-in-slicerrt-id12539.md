@@ -1,3 +1,10 @@
+---
+topic_id: 12539
+title: "Fail To Import Segmentations In Slicerrt"
+date: 2020-07-14
+url: https://discourse.slicer.org/t/12539
+---
+
 # Fail to import segmentations in SlicerRT
 
 **Topic ID**: 12539

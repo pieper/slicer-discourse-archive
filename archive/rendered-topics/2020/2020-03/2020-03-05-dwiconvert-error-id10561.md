@@ -1,3 +1,10 @@
+---
+topic_id: 10561
+title: "Dwiconvert Error"
+date: 2020-03-05
+url: https://discourse.slicer.org/t/10561
+---
+
 # DWIconvert error
 
 **Topic ID**: 10561

@@ -1,3 +1,10 @@
+---
+topic_id: 19615
+title: "Import Position Data Tracking For Images"
+date: 2021-09-10
+url: https://discourse.slicer.org/t/19615
+---
+
 # Import position data (tracking) for images
 
 **Topic ID**: 19615

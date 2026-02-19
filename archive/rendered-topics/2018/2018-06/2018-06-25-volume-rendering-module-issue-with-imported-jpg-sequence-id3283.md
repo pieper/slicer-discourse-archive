@@ -1,3 +1,10 @@
+---
+topic_id: 3283
+title: "Volume Rendering Module Issue With Imported Jpg Sequence"
+date: 2018-06-25
+url: https://discourse.slicer.org/t/3283
+---
+
 # Volume rendering module issue with imported JPG sequence
 
 **Topic ID**: 3283

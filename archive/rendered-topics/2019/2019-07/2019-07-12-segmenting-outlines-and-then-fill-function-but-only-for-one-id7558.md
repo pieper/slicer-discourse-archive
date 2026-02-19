@@ -1,3 +1,10 @@
+---
+topic_id: 7558
+title: "Segmenting Outlines And Then Fill Function But Only For One"
+date: 2019-07-12
+url: https://discourse.slicer.org/t/7558
+---
+
 # Segmenting outlines and then >> Fill function but only for one active slice
 
 **Topic ID**: 7558

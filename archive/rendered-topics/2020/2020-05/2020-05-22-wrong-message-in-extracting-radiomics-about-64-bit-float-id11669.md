@@ -1,3 +1,10 @@
+---
+topic_id: 11669
+title: "Wrong Message In Extracting Radiomics About 64 Bit Float"
+date: 2020-05-22
+url: https://discourse.slicer.org/t/11669
+---
+
 # Wrong message in extracting radiomics about 64-bit float
 
 **Topic ID**: 11669

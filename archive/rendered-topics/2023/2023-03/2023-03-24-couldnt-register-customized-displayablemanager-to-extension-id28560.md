@@ -1,3 +1,10 @@
+---
+topic_id: 28560
+title: "Couldnt Register Customized Displayablemanager To Extension"
+date: 2023-03-24
+url: https://discourse.slicer.org/t/28560
+---
+
 # Couldn't Register customized DisplayableManager to extension module
 
 **Topic ID**: 28560

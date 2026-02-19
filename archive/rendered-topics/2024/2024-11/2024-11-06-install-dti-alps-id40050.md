@@ -1,3 +1,10 @@
+---
+topic_id: 40050
+title: "Install Dti Alps"
+date: 2024-11-06
+url: https://discourse.slicer.org/t/40050
+---
+
 # Install DTI-ALPS
 
 **Topic ID**: 40050

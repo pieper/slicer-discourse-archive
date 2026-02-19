@@ -1,3 +1,10 @@
+---
+topic_id: 37089
+title: "Build Extension That Depends On Other Extensions"
+date: 2024-06-28
+url: https://discourse.slicer.org/t/37089
+---
+
 # Build extension that depends on other extensions
 
 **Topic ID**: 37089

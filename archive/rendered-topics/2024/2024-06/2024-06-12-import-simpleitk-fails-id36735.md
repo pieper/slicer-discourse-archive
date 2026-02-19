@@ -1,3 +1,10 @@
+---
+topic_id: 36735
+title: "Import Simpleitk Fails"
+date: 2024-06-12
+url: https://discourse.slicer.org/t/36735
+---
+
 # Import SimpleITK fails
 
 **Topic ID**: 36735

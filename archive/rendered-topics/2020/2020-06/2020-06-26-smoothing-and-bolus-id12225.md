@@ -1,3 +1,10 @@
+---
+topic_id: 12225
+title: "Smoothing And Bolus"
+date: 2020-06-26
+url: https://discourse.slicer.org/t/12225
+---
+
 # Smoothing and bolus
 
 **Topic ID**: 12225

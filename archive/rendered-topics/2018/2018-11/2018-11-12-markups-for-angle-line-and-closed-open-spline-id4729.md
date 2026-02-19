@@ -1,3 +1,10 @@
+---
+topic_id: 4729
+title: "Markups For Angle Line And Closed Open Spline"
+date: 2018-11-12
+url: https://discourse.slicer.org/t/4729
+---
+
 # Markups for angle, line and closed/open spline
 
 **Topic ID**: 4729

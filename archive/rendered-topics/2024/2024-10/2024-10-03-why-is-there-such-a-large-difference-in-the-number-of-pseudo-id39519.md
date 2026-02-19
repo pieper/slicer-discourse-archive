@@ -1,3 +1,10 @@
+---
+topic_id: 39519
+title: "Why Is There Such A Large Difference In The Number Of Pseudo"
+date: 2024-10-03
+url: https://discourse.slicer.org/t/39519
+---
+
 # Why is there such a large difference in the number of pseudo-landmarks projected to the ascending branches on either side? What can be done to solve this problem?
 
 **Topic ID**: 39519

@@ -1,3 +1,10 @@
+---
+topic_id: 25174
+title: "Remove Transformed Node From The Active Transformed List Via"
+date: 2022-09-09
+url: https://discourse.slicer.org/t/25174
+---
+
 # Remove transformed node from the active transformed list via python script
 
 **Topic ID**: 25174

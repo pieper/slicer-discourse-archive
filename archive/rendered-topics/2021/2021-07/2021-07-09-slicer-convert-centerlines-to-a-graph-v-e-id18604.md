@@ -1,3 +1,10 @@
+---
+topic_id: 18604
+title: "Slicer Convert Centerlines To A Graph V E"
+date: 2021-07-09
+url: https://discourse.slicer.org/t/18604
+---
+
 # Slicer - Convert centerlines to a graph {V,E}
 
 **Topic ID**: 18604

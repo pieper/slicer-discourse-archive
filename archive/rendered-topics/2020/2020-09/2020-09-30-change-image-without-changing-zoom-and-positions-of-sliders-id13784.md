@@ -1,3 +1,10 @@
+---
+topic_id: 13784
+title: "Change Image Without Changing Zoom And Positions Of Sliders"
+date: 2020-09-30
+url: https://discourse.slicer.org/t/13784
+---
+
 # Change image without changing zoom and positions of sliders
 
 **Topic ID**: 13784

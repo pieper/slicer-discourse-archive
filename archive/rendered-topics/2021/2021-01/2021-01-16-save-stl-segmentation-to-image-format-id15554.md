@@ -1,3 +1,10 @@
+---
+topic_id: 15554
+title: "Save Stl Segmentation To Image Format"
+date: 2021-01-16
+url: https://discourse.slicer.org/t/15554
+---
+
 # Save stl segmentation to image format
 
 **Topic ID**: 15554

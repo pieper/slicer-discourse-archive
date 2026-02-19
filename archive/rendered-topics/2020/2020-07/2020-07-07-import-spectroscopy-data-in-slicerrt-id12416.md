@@ -1,3 +1,10 @@
+---
+topic_id: 12416
+title: "Import Spectroscopy Data In Slicerrt"
+date: 2020-07-07
+url: https://discourse.slicer.org/t/12416
+---
+
 # Import spectroscopy data in SlicerRT
 
 **Topic ID**: 12416

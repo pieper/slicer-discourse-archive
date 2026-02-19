@@ -1,3 +1,10 @@
+---
+topic_id: 15855
+title: "Fail To Convert Dicom To Nrrd"
+date: 2021-02-05
+url: https://discourse.slicer.org/t/15855
+---
+
 # Fail to convert DICOM to nrrd
 
 **Topic ID**: 15855

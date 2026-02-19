@@ -1,3 +1,10 @@
+---
+topic_id: 327
+title: "Error With Dce Mri Loading In Dicom Browser"
+date: 2017-05-16
+url: https://discourse.slicer.org/t/327
+---
+
 # ERROR with DCE MRI loading in DICOM Browser
 
 **Topic ID**: 327

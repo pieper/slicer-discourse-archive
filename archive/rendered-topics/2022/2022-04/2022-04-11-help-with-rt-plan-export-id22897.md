@@ -1,3 +1,10 @@
+---
+topic_id: 22897
+title: "Help With Rt Plan Export"
+date: 2022-04-11
+url: https://discourse.slicer.org/t/22897
+---
+
 # Help with RT Plan export
 
 **Topic ID**: 22897

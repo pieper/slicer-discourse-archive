@@ -1,3 +1,10 @@
+---
+topic_id: 24899
+title: "Draw Persistent Line"
+date: 2022-08-24
+url: https://discourse.slicer.org/t/24899
+---
+
 # Draw persistent line
 
 **Topic ID**: 24899

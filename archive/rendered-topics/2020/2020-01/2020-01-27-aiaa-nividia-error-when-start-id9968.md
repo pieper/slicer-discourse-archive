@@ -1,3 +1,10 @@
+---
+topic_id: 9968
+title: "Aiaa Nividia Error When Start"
+date: 2020-01-27
+url: https://discourse.slicer.org/t/9968
+---
+
 # AIAA NIVIDIA error when start
 
 **Topic ID**: 9968

@@ -1,3 +1,10 @@
+---
+topic_id: 30527
+title: "Scissors Move To Another Segment Volume Rendering Roi"
+date: 2023-07-11
+url: https://discourse.slicer.org/t/30527
+---
+
 # Scissors, move to another segment, volume rendering ROI
 
 **Topic ID**: 30527

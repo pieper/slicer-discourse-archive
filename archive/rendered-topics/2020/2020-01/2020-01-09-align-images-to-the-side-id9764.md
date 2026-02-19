@@ -1,3 +1,10 @@
+---
+topic_id: 9764
+title: "Align Images To The Side"
+date: 2020-01-09
+url: https://discourse.slicer.org/t/9764
+---
+
 # Align images to the side
 
 **Topic ID**: 9764

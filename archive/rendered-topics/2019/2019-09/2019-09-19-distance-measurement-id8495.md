@@ -1,3 +1,10 @@
+---
+topic_id: 8495
+title: "Distance Measurement"
+date: 2019-09-19
+url: https://discourse.slicer.org/t/8495
+---
+
 # Distance measurement
 
 **Topic ID**: 8495

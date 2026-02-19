@@ -1,3 +1,10 @@
+---
+topic_id: 12280
+title: "All Module View Doesnt Fit On The Screen"
+date: 2020-06-29
+url: https://discourse.slicer.org/t/12280
+---
+
 # All module view doesn't fit on the screen
 
 **Topic ID**: 12280

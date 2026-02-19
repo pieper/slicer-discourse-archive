@@ -1,3 +1,10 @@
+---
+topic_id: 15571
+title: "Segmenteditorextraeffects Extension"
+date: 2021-01-17
+url: https://discourse.slicer.org/t/15571
+---
+
 # SegmentEditorExtraEffects extension
 
 **Topic ID**: 15571

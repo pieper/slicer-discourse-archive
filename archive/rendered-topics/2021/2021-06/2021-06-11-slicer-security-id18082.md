@@ -1,3 +1,10 @@
+---
+topic_id: 18082
+title: "Slicer Security"
+date: 2021-06-11
+url: https://discourse.slicer.org/t/18082
+---
+
 # Slicer Security
 
 **Topic ID**: 18082

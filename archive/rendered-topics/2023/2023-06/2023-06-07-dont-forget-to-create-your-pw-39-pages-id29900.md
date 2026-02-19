@@ -1,3 +1,10 @@
+---
+topic_id: 29900
+title: "Dont Forget To Create Your Pw 39 Pages"
+date: 2023-06-07
+url: https://discourse.slicer.org/t/29900
+---
+
 # Don't forget to create your PW 39 pages!
 
 **Topic ID**: 29900

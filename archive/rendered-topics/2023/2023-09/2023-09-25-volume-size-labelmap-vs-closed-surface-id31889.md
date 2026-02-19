@@ -1,3 +1,10 @@
+---
+topic_id: 31889
+title: "Volume Size Labelmap Vs Closed Surface"
+date: 2023-09-25
+url: https://discourse.slicer.org/t/31889
+---
+
 # Volume size - labelmap vs closed surface
 
 **Topic ID**: 31889

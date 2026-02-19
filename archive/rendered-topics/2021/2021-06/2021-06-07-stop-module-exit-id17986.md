@@ -1,3 +1,10 @@
+---
+topic_id: 17986
+title: "Stop Module Exit"
+date: 2021-06-07
+url: https://discourse.slicer.org/t/17986
+---
+
 # Stop module exit
 
 **Topic ID**: 17986

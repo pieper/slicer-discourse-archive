@@ -1,3 +1,10 @@
+---
+topic_id: 33
+title: "Poll How Do You Like Discourse So Far"
+date: 2017-04-11
+url: https://discourse.slicer.org/t/33
+---
+
 # Poll: how do you like discourse so far?
 
 **Topic ID**: 33

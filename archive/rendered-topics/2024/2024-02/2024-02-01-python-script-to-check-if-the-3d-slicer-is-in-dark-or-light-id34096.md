@@ -1,3 +1,10 @@
+---
+topic_id: 34096
+title: "Python Script To Check If The 3D Slicer Is In Dark Or Light"
+date: 2024-02-01
+url: https://discourse.slicer.org/t/34096
+---
+
 # Python Script to check if the 3D Slicer is in dark or light mode?
 
 **Topic ID**: 34096

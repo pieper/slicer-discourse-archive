@@ -1,3 +1,10 @@
+---
+topic_id: 837
+title: "Show Hide Segment Surface In 3D View"
+date: 2017-08-07
+url: https://discourse.slicer.org/t/837
+---
+
 # Show/hide segment surface in 3D view
 
 **Topic ID**: 837

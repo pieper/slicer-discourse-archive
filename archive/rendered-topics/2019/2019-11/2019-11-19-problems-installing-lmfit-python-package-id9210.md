@@ -1,3 +1,10 @@
+---
+topic_id: 9210
+title: "Problems Installing Lmfit Python Package"
+date: 2019-11-19
+url: https://discourse.slicer.org/t/9210
+---
+
 # Problems installing lmfit python package
 
 **Topic ID**: 9210

@@ -1,3 +1,10 @@
+---
+topic_id: 25317
+title: "Having Difficulty Saving A Segmentation As Nii Gz Format"
+date: 2022-09-18
+url: https://discourse.slicer.org/t/25317
+---
+
 # having difficulty saving a segmentation as nii.gz format
 
 **Topic ID**: 25317

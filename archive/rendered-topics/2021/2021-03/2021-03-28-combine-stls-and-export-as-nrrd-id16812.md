@@ -1,3 +1,10 @@
+---
+topic_id: 16812
+title: "Combine Stls And Export As Nrrd"
+date: 2021-03-28
+url: https://discourse.slicer.org/t/16812
+---
+
 # Combine STLs and export as NRRD
 
 **Topic ID**: 16812

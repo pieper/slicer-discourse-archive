@@ -1,3 +1,10 @@
+---
+topic_id: 26767
+title: "Matching Cbct Scans And Calculating The Volume Difference Af"
+date: 2022-12-16
+url: https://discourse.slicer.org/t/26767
+---
+
 # Matching CBCT scans and calculating the volume difference after bone augmentation
 
 **Topic ID**: 26767

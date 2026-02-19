@@ -1,3 +1,10 @@
+---
+topic_id: 36685
+title: "Osteolytic Lesions Due To Polyethylene Wear"
+date: 2024-06-10
+url: https://discourse.slicer.org/t/36685
+---
+
 # Osteolytic lesions due to polyethylene wear
 
 **Topic ID**: 36685

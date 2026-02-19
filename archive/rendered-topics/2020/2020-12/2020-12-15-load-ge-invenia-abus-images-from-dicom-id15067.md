@@ -1,3 +1,10 @@
+---
+topic_id: 15067
+title: "Load Ge Invenia Abus Images From Dicom"
+date: 2020-12-15
+url: https://discourse.slicer.org/t/15067
+---
+
 # Load GE Invenia ABUS images from DICOM
 
 **Topic ID**: 15067

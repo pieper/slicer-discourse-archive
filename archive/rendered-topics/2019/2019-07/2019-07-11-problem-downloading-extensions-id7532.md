@@ -1,3 +1,10 @@
+---
+topic_id: 7532
+title: "Problem Downloading Extensions"
+date: 2019-07-11
+url: https://discourse.slicer.org/t/7532
+---
+
 # Problem downloading extensions
 
 **Topic ID**: 7532

@@ -1,3 +1,10 @@
+---
+topic_id: 22503
+title: "Saving Overlayed Images"
+date: 2022-03-14
+url: https://discourse.slicer.org/t/22503
+---
+
 # Saving overlayed images 
 
 **Topic ID**: 22503

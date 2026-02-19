@@ -1,3 +1,10 @@
+---
+topic_id: 14646
+title: "Minimum Distance Between Segmentations"
+date: 2020-11-16
+url: https://discourse.slicer.org/t/14646
+---
+
 # Minimum Distance Between Segmentations
 
 **Topic ID**: 14646

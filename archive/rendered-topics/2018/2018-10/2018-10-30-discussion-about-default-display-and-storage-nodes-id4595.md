@@ -1,3 +1,10 @@
+---
+topic_id: 4595
+title: "Discussion About Default Display And Storage Nodes"
+date: 2018-10-30
+url: https://discourse.slicer.org/t/4595
+---
+
 # Discussion about default display and storage nodes
 
 **Topic ID**: 4595

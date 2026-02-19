@@ -1,3 +1,10 @@
+---
+topic_id: 22251
+title: "Bounding Box Correction"
+date: 2022-03-01
+url: https://discourse.slicer.org/t/22251
+---
+
 # Bounding box correction
 
 **Topic ID**: 22251

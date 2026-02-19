@@ -1,3 +1,10 @@
+---
+topic_id: 44177
+title: "3D Rendering Of Segmentations Without Slicer Gui"
+date: 2025-08-23
+url: https://discourse.slicer.org/t/44177
+---
+
 # 3D rendering of segmentations without Slicer GUI
 
 **Topic ID**: 44177

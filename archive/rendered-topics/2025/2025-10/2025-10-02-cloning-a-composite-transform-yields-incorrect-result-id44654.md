@@ -1,3 +1,10 @@
+---
+topic_id: 44654
+title: "Cloning A Composite Transform Yields Incorrect Result"
+date: 2025-10-02
+url: https://discourse.slicer.org/t/44654
+---
+
 # Cloning a composite transform yields incorrect result
 
 **Topic ID**: 44654

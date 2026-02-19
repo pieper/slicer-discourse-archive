@@ -1,3 +1,10 @@
+---
+topic_id: 18450
+title: "Horizontal And Vertical Distances"
+date: 2021-07-01
+url: https://discourse.slicer.org/t/18450
+---
+
 # Horizontal and vertical distances
 
 **Topic ID**: 18450

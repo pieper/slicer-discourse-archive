@@ -1,3 +1,10 @@
+---
+topic_id: 20778
+title: "Tangent Plane To A Centerline"
+date: 2021-11-24
+url: https://discourse.slicer.org/t/20778
+---
+
 # Tangent plane to a centerline
 
 **Topic ID**: 20778

@@ -1,3 +1,10 @@
+---
+topic_id: 17338
+title: "Merge Cad File With Segmentation"
+date: 2021-04-26
+url: https://discourse.slicer.org/t/17338
+---
+
 # Merge CAD file with segmentation
 
 **Topic ID**: 17338

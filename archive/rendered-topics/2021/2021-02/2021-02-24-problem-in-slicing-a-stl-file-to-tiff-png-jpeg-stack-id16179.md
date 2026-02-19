@@ -1,3 +1,10 @@
+---
+topic_id: 16179
+title: "Problem In Slicing A Stl File To Tiff Png Jpeg Stack"
+date: 2021-02-24
+url: https://discourse.slicer.org/t/16179
+---
+
 # Problem in slicing a stl file to tiff/PNG/jpeg stack
 
 **Topic ID**: 16179

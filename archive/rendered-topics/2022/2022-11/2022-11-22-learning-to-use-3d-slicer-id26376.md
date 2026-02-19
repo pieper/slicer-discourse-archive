@@ -1,3 +1,10 @@
+---
+topic_id: 26376
+title: "Learning To Use 3D Slicer"
+date: 2022-11-22
+url: https://discourse.slicer.org/t/26376
+---
+
 # Learning to use 3D Slicer
 
 **Topic ID**: 26376

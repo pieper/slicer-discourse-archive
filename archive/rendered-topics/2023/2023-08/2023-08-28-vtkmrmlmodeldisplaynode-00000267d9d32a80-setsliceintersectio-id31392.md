@@ -1,3 +1,10 @@
+---
+topic_id: 31392
+title: "Vtkmrmlmodeldisplaynode 00000267D9D32A80 Setsliceintersectio"
+date: 2023-08-28
+url: https://discourse.slicer.org/t/31392
+---
+
 # vtkMRMLModelDisplayNode (00000267D9D32A80): SetSliceIntersectionVisibility method is deprecated, please use SetVisibility2D instead
 
 **Topic ID**: 31392

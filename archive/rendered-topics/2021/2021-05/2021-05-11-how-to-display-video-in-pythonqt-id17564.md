@@ -1,3 +1,10 @@
+---
+topic_id: 17564
+title: "How To Display Video In Pythonqt"
+date: 2021-05-11
+url: https://discourse.slicer.org/t/17564
+---
+
 # How to display video in PythonQt?
 
 **Topic ID**: 17564

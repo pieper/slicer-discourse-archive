@@ -1,3 +1,10 @@
+---
+topic_id: 2072
+title: "Python Qt Library Is Missing From Todays Mac Nightly"
+date: 2018-02-12
+url: https://discourse.slicer.org/t/2072
+---
+
 # Python qt library is missing from today's mac nightly
 
 **Topic ID**: 2072

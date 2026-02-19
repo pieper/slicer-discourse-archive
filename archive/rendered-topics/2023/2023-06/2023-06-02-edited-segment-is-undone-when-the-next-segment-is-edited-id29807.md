@@ -1,3 +1,10 @@
+---
+topic_id: 29807
+title: "Edited Segment Is Undone When The Next Segment Is Edited"
+date: 2023-06-02
+url: https://discourse.slicer.org/t/29807
+---
+
 # Edited segment is undone when the next segment is edited
 
 **Topic ID**: 29807

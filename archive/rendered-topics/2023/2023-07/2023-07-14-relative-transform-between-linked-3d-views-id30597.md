@@ -1,3 +1,10 @@
+---
+topic_id: 30597
+title: "Relative Transform Between Linked 3D Views"
+date: 2023-07-14
+url: https://discourse.slicer.org/t/30597
+---
+
 # Relative transform between linked 3D views
 
 **Topic ID**: 30597

@@ -1,3 +1,10 @@
+---
+topic_id: 34993
+title: "Creating A Volumetric Mesh From A Surface Model"
+date: 2024-03-20
+url: https://discourse.slicer.org/t/34993
+---
+
 # Creating a volumetric mesh from a surface model
 
 **Topic ID**: 34993

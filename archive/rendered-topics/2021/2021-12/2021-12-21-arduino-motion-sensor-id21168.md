@@ -1,3 +1,10 @@
+---
+topic_id: 21168
+title: "Arduino Motion Sensor"
+date: 2021-12-21
+url: https://discourse.slicer.org/t/21168
+---
+
 # Arduino motion sensor
 
 **Topic ID**: 21168

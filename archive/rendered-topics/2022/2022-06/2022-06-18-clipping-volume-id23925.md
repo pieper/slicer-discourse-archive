@@ -1,3 +1,10 @@
+---
+topic_id: 23925
+title: "Clipping Volume"
+date: 2022-06-18
+url: https://discourse.slicer.org/t/23925
+---
+
 # Clipping volume
 
 **Topic ID**: 23925

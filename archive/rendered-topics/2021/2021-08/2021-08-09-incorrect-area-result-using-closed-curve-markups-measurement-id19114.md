@@ -1,3 +1,10 @@
+---
+topic_id: 19114
+title: "Incorrect Area Result Using Closed Curve Markups Measurement"
+date: 2021-08-09
+url: https://discourse.slicer.org/t/19114
+---
+
 # Incorrect area result using closed curve markups measurement
 
 **Topic ID**: 19114

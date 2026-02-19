@@ -1,3 +1,10 @@
+---
+topic_id: 30872
+title: "Save Patients Id In A List From Database With Python"
+date: 2023-07-29
+url: https://discourse.slicer.org/t/30872
+---
+
 # Save patients ID in a list from Database with Python
 
 **Topic ID**: 30872

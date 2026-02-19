@@ -1,3 +1,10 @@
+---
+topic_id: 24335
+title: "Limit Computation Only To Current Slices"
+date: 2022-07-15
+url: https://discourse.slicer.org/t/24335
+---
+
 # Limit computation only to current slices
 
 **Topic ID**: 24335

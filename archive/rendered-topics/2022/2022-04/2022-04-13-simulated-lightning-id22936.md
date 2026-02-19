@@ -1,3 +1,10 @@
+---
+topic_id: 22936
+title: "Simulated Lightning"
+date: 2022-04-13
+url: https://discourse.slicer.org/t/22936
+---
+
 # Simulated Lightning
 
 **Topic ID**: 22936

@@ -1,3 +1,10 @@
+---
+topic_id: 25711
+title: "Stl Saving As Dicom Standard Compliant"
+date: 2022-10-14
+url: https://discourse.slicer.org/t/25711
+---
+
 # Stl saving as DICOM (standard compliant)
 
 **Topic ID**: 25711

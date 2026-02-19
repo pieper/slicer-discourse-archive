@@ -1,3 +1,10 @@
+---
+topic_id: 17685
+title: "Trying To Diagnose An Issue With Virtualgl And Slicer"
+date: 2021-05-19
+url: https://discourse.slicer.org/t/17685
+---
+
 # Trying to diagnose an issue with VirtualGL and Slicer
 
 **Topic ID**: 17685

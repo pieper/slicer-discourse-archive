@@ -1,3 +1,10 @@
+---
+topic_id: 28564
+title: "Totalsegmentator Install Fails Due To Certificate Issue"
+date: 2023-03-24
+url: https://discourse.slicer.org/t/28564
+---
+
 # Totalsegmentator install fails due to certificate issue
 
 **Topic ID**: 28564

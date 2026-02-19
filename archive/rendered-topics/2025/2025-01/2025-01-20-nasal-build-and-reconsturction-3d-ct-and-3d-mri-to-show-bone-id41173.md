@@ -1,3 +1,10 @@
+---
+topic_id: 41173
+title: "Nasal Build And Reconsturction 3D Ct And 3D Mri To Show Bone"
+date: 2025-01-20
+url: https://discourse.slicer.org/t/41173
+---
+
 # Nasal Build and Reconsturction; 3D CT and 3D MRI to show bone and soft tissue interaction.
 
 **Topic ID**: 41173

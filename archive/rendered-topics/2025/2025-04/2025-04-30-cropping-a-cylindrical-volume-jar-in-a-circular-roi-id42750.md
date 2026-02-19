@@ -1,3 +1,10 @@
+---
+topic_id: 42750
+title: "Cropping A Cylindrical Volume Jar In A Circular Roi"
+date: 2025-04-30
+url: https://discourse.slicer.org/t/42750
+---
+
 # Cropping a Cylindrical Volume (Jar) in a Circular ROI
 
 **Topic ID**: 42750

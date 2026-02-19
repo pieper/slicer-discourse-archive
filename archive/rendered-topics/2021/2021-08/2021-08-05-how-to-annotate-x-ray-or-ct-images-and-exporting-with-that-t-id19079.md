@@ -1,3 +1,10 @@
+---
+topic_id: 19079
+title: "How To Annotate X Ray Or Ct Images And Exporting With That T"
+date: 2021-08-05
+url: https://discourse.slicer.org/t/19079
+---
+
 # How to annotate X-Ray or CT images and exporting with that/these annotation information(s) ? 
 
 **Topic ID**: 19079

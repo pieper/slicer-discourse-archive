@@ -1,3 +1,10 @@
+---
+topic_id: 2739
+title: "Problem With Saving Segmentation With Fractional Labelmap As"
+date: 2018-04-30
+url: https://discourse.slicer.org/t/2739
+---
+
 # Problem with saving segmentation with Fractional Labelmap as Master in Representations
 
 **Topic ID**: 2739

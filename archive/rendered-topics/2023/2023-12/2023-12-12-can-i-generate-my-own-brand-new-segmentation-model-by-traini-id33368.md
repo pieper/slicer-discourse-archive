@@ -1,3 +1,10 @@
+---
+topic_id: 33368
+title: "Can I Generate My Own Brand New Segmentation Model By Traini"
+date: 2023-12-12
+url: https://discourse.slicer.org/t/33368
+---
+
 # Can I generate my own brand new segmentation model by training without loading the pre trained model?
 
 **Topic ID**: 33368

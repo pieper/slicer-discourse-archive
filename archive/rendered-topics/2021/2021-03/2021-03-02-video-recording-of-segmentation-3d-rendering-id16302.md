@@ -1,3 +1,10 @@
+---
+topic_id: 16302
+title: "Video Recording Of Segmentation 3D Rendering"
+date: 2021-03-02
+url: https://discourse.slicer.org/t/16302
+---
+
 # Video recording of segmentation / 3D rendering
 
 **Topic ID**: 16302

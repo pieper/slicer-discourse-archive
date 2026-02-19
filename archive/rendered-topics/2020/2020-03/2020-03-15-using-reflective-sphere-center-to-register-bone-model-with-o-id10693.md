@@ -1,3 +1,10 @@
+---
+topic_id: 10693
+title: "Using Reflective Sphere Center To Register Bone Model With O"
+date: 2020-03-15
+url: https://discourse.slicer.org/t/10693
+---
+
 # Using reflective sphere center to register bone model with Optitrack pre-recorded data
 
 **Topic ID**: 10693

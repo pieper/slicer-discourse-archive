@@ -1,3 +1,10 @@
+---
+topic_id: 938
+title: "Major Slice Scrolling Performance Degradation With Volume Re"
+date: 2017-08-24
+url: https://discourse.slicer.org/t/938
+---
+
 # Major slice scrolling performance degradation with volume rendering on
 
 **Topic ID**: 938

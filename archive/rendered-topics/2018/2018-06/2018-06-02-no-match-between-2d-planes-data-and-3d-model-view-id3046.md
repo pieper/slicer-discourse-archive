@@ -1,3 +1,10 @@
+---
+topic_id: 3046
+title: "No Match Between 2D Planes Data And 3D Model View"
+date: 2018-06-02
+url: https://discourse.slicer.org/t/3046
+---
+
 # No match between 2D planes data and 3D model view
 
 **Topic ID**: 3046

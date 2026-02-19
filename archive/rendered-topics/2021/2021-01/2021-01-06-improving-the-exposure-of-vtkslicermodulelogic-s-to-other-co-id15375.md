@@ -1,3 +1,10 @@
+---
+topic_id: 15375
+title: "Improving The Exposure Of Vtkslicermodulelogic S To Other Co"
+date: 2021-01-06
+url: https://discourse.slicer.org/t/15375
+---
+
 # Improving the exposure of `vtkSlicerModuleLogic`s to other components
 
 **Topic ID**: 15375

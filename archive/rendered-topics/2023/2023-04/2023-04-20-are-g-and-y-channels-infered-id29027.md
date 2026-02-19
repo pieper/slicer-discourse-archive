@@ -1,3 +1,10 @@
+---
+topic_id: 29027
+title: "Are G And Y Channels Infered"
+date: 2023-04-20
+url: https://discourse.slicer.org/t/29027
+---
+
 # Are G and Y channels infered?
 
 **Topic ID**: 29027

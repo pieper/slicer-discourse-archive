@@ -1,3 +1,10 @@
+---
+topic_id: 34520
+title: "How To Generate Cross Sectional View In Dicom Dentistry Usin"
+date: 2024-02-24
+url: https://discourse.slicer.org/t/34520
+---
+
 # How to generate cross sectional view in dicom dentistry using python ?
 
 **Topic ID**: 34520

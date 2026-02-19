@@ -1,3 +1,10 @@
+---
+topic_id: 41202
+title: "Bone Recontruction Planner Help"
+date: 2025-01-22
+url: https://discourse.slicer.org/t/41202
+---
+
 # Bone recontruction planner help
 
 **Topic ID**: 41202

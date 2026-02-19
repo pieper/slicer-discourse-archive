@@ -1,3 +1,10 @@
+---
+topic_id: 16485
+title: "Segmentation Mri Rat"
+date: 2021-03-12
+url: https://discourse.slicer.org/t/16485
+---
+
 # Segmentation MRI rat
 
 **Topic ID**: 16485

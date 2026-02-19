@@ -1,3 +1,10 @@
+---
+topic_id: 5569
+title: "Displacement Vector From A Deformable Reg Warning Inverse In"
+date: 2019-01-29
+url: https://discourse.slicer.org/t/5569
+---
+
 # Displacement vector from a deformable reg; WARNING inverse innaccuate
 
 **Topic ID**: 5569

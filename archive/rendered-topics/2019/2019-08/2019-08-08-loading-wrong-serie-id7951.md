@@ -1,3 +1,10 @@
+---
+topic_id: 7951
+title: "Loading Wrong Serie"
+date: 2019-08-08
+url: https://discourse.slicer.org/t/7951
+---
+
 # Loading wrong serie
 
 **Topic ID**: 7951

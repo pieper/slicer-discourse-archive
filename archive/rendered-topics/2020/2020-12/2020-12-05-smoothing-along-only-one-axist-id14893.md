@@ -1,3 +1,10 @@
+---
+topic_id: 14893
+title: "Smoothing Along Only One Axist"
+date: 2020-12-05
+url: https://discourse.slicer.org/t/14893
+---
+
 # smoothing along only one axist
 
 **Topic ID**: 14893

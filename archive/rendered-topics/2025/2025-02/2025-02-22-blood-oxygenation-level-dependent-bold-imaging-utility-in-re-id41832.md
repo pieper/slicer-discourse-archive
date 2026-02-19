@@ -1,3 +1,10 @@
+---
+topic_id: 41832
+title: "Blood Oxygenation Level Dependent Bold Imaging Utility In Re"
+date: 2025-02-22
+url: https://discourse.slicer.org/t/41832
+---
+
 # Blood Oxygenation Level-Dependent (BOLD) Imaging Utility in Renal Evaluation
 
 **Topic ID**: 41832

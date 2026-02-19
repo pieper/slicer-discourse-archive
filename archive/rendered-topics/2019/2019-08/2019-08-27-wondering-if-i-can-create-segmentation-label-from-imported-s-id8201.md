@@ -1,3 +1,10 @@
+---
+topic_id: 8201
+title: "Wondering If I Can Create Segmentation Label From Imported S"
+date: 2019-08-27
+url: https://discourse.slicer.org/t/8201
+---
+
 # Wondering if I can create segmentation label from imported STL object?
 
 **Topic ID**: 8201

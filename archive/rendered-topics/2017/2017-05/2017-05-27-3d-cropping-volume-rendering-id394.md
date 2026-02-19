@@ -1,3 +1,10 @@
+---
+topic_id: 394
+title: "3D Cropping Volume Rendering"
+date: 2017-05-27
+url: https://discourse.slicer.org/t/394
+---
+
 # 3D Cropping Volume Rendering
 
 **Topic ID**: 394

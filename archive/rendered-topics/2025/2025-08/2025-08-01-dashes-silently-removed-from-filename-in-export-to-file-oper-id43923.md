@@ -1,3 +1,10 @@
+---
+topic_id: 43923
+title: "Dashes Silently Removed From Filename In Export To File Oper"
+date: 2025-08-01
+url: https://discourse.slicer.org/t/43923
+---
+
 # Dashes silently removed from filename in "export to file" operation
 
 **Topic ID**: 43923

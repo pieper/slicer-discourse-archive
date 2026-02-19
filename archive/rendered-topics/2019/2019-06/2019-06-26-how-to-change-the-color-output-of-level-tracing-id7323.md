@@ -1,3 +1,10 @@
+---
+topic_id: 7323
+title: "How To Change The Color Output Of Level Tracing"
+date: 2019-06-26
+url: https://discourse.slicer.org/t/7323
+---
+
 # How to change the color output of Level tracing
 
 **Topic ID**: 7323

@@ -1,3 +1,10 @@
+---
+topic_id: 22588
+title: "There Is No Elastix Module In The Current Version"
+date: 2022-03-18
+url: https://discourse.slicer.org/t/22588
+---
+
 # There is no Elastix module in the current version
 
 **Topic ID**: 22588

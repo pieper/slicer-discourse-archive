@@ -1,3 +1,10 @@
+---
+topic_id: 12452
+title: "Samsung Sonoace 4D Ultrasound Mvl File Loading"
+date: 2020-07-09
+url: https://discourse.slicer.org/t/12452
+---
+
 # Samsung SonoAce 4D ultrasound mvl file loading
 
 **Topic ID**: 12452

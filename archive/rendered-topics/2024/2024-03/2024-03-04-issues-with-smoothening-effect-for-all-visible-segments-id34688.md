@@ -1,3 +1,10 @@
+---
+topic_id: 34688
+title: "Issues With Smoothening Effect For All Visible Segments"
+date: 2024-03-04
+url: https://discourse.slicer.org/t/34688
+---
+
 # Issues with smoothening effect for all visible segments
 
 **Topic ID**: 34688

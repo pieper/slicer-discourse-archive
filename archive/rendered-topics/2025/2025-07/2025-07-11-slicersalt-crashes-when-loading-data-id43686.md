@@ -1,3 +1,10 @@
+---
+topic_id: 43686
+title: "Slicersalt Crashes When Loading Data"
+date: 2025-07-11
+url: https://discourse.slicer.org/t/43686
+---
+
 # SlicerSALT crashes when loading data
 
 **Topic ID**: 43686

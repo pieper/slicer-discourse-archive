@@ -1,3 +1,10 @@
+---
+topic_id: 33447
+title: "180 Degree Flip In Stl Ply When Imported"
+date: 2023-12-18
+url: https://discourse.slicer.org/t/33447
+---
+
 # 180 degree Flip in STL/PLY when imported
 
 **Topic ID**: 33447

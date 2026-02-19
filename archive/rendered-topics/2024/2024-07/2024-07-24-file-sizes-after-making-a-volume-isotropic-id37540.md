@@ -1,3 +1,10 @@
+---
+topic_id: 37540
+title: "File Sizes After Making A Volume Isotropic"
+date: 2024-07-24
+url: https://discourse.slicer.org/t/37540
+---
+
 # File sizes after making a volume isotropic
 
 **Topic ID**: 37540

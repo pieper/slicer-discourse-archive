@@ -1,3 +1,10 @@
+---
+topic_id: 19688
+title: "Why My 3D Printed Model Doesnt Match The Real Size"
+date: 2021-09-15
+url: https://discourse.slicer.org/t/19688
+---
+
 # Why my 3D-printed model doesn't match the real size?
 
 **Topic ID**: 19688

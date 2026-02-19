@@ -1,3 +1,10 @@
+---
+topic_id: 22619
+title: "Show Color Images In Slicer"
+date: 2022-03-21
+url: https://discourse.slicer.org/t/22619
+---
+
 # Show color images in Slicer
 
 **Topic ID**: 22619

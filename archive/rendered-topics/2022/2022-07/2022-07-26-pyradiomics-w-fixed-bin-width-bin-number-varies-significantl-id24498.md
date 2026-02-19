@@ -1,3 +1,10 @@
+---
+topic_id: 24498
+title: "Pyradiomics W Fixed Bin Width Bin Number Varies Significantl"
+date: 2022-07-26
+url: https://discourse.slicer.org/t/24498
+---
+
 # pyradiomics w/ fixed bin width: bin number varies significantly across derived images
 
 **Topic ID**: 24498

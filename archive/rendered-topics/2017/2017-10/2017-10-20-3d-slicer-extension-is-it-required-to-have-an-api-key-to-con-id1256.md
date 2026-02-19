@@ -1,3 +1,10 @@
+---
+topic_id: 1256
+title: "3D Slicer Extension Is It Required To Have An Api Key To Con"
+date: 2017-10-20
+url: https://discourse.slicer.org/t/1256
+---
+
 # 3D Slicer Extension: Is it required to have an API key to contribute an extension?
 
 **Topic ID**: 1256

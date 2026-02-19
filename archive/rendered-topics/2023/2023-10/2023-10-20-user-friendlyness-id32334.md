@@ -1,3 +1,10 @@
+---
+topic_id: 32334
+title: "User Friendlyness"
+date: 2023-10-20
+url: https://discourse.slicer.org/t/32334
+---
+
 # User-friendlyness
 
 **Topic ID**: 32334

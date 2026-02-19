@@ -1,3 +1,10 @@
+---
+topic_id: 13523
+title: "Is 3Dslicer Working With Gpu"
+date: 2020-09-17
+url: https://discourse.slicer.org/t/13523
+---
+
 # Is 3Dslicer working with GPU ?
 
 **Topic ID**: 13523

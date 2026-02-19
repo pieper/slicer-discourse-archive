@@ -1,3 +1,10 @@
+---
+topic_id: 31241
+title: "How To Achieve Split Screen Development Using Slicer"
+date: 2023-08-19
+url: https://discourse.slicer.org/t/31241
+---
+
 # How to achieve split-screen development using Slicer
 
 **Topic ID**: 31241

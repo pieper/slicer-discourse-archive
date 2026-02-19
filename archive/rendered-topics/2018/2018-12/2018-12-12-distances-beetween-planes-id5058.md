@@ -1,3 +1,10 @@
+---
+topic_id: 5058
+title: "Distances Beetween Planes"
+date: 2018-12-12
+url: https://discourse.slicer.org/t/5058
+---
+
 # Distances beetween planes
 
 **Topic ID**: 5058

@@ -1,3 +1,10 @@
+---
+topic_id: 5676
+title: "Mesh To Mesh Intersection 3D Slicer"
+date: 2019-02-07
+url: https://discourse.slicer.org/t/5676
+---
+
 # Mesh to mesh intersection 3D Slicer
 
 **Topic ID**: 5676

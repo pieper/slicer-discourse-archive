@@ -1,3 +1,10 @@
+---
+topic_id: 43644
+title: "Population Analysis Output"
+date: 2025-07-08
+url: https://discourse.slicer.org/t/43644
+---
+
 # Population Analysis Output
 
 **Topic ID**: 43644

@@ -1,3 +1,10 @@
+---
+topic_id: 17559
+title: "How To Edit An Stl File Using Segment Editor"
+date: 2021-05-03
+url: https://discourse.slicer.org/t/17559
+---
+
 # How to edit an STL file using Segment Editor
 
 **Topic ID**: 17559

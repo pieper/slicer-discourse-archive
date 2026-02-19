@@ -1,3 +1,10 @@
+---
+topic_id: 14613
+title: "Smoothing Effect Only In 1 Axis"
+date: 2020-11-15
+url: https://discourse.slicer.org/t/14613
+---
+
 # Smoothing effect only in 1 axis
 
 **Topic ID**: 14613

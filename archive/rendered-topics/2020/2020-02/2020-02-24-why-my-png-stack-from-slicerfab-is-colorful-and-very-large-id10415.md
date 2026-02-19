@@ -1,3 +1,10 @@
+---
+topic_id: 10415
+title: "Why My Png Stack From Slicerfab Is Colorful And Very Large"
+date: 2020-02-24
+url: https://discourse.slicer.org/t/10415
+---
+
 # why my PNG stack from SlicerFab is colorful and very large?
 
 **Topic ID**: 10415

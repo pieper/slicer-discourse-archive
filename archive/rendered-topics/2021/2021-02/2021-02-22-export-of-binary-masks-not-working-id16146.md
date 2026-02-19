@@ -1,3 +1,10 @@
+---
+topic_id: 16146
+title: "Export Of Binary Masks Not Working"
+date: 2021-02-22
+url: https://discourse.slicer.org/t/16146
+---
+
 # Export of binary masks not working
 
 **Topic ID**: 16146

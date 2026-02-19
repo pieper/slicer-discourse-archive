@@ -1,3 +1,10 @@
+---
+topic_id: 34219
+title: "Are Shadows Enabled By Default For Volume Rendering In New P"
+date: 2024-02-09
+url: https://discourse.slicer.org/t/34219
+---
+
 # Are shadows enabled by default for Volume Rendering in new previews
 
 **Topic ID**: 34219

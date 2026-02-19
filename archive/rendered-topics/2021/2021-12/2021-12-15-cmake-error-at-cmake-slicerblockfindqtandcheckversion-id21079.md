@@ -1,3 +1,10 @@
+---
+topic_id: 21079
+title: "Cmake Error At Cmake Slicerblockfindqtandcheckversion"
+date: 2021-12-15
+url: https://discourse.slicer.org/t/21079
+---
+
 # CMake Error at CMake/SlicerBlockFindQtAndCheckVersion
 
 **Topic ID**: 21079

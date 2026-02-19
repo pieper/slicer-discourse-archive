@@ -1,3 +1,10 @@
+---
+topic_id: 6182
+title: "Creating A Sicer Module Overlap Rgb Arrays"
+date: 2019-03-18
+url: https://discourse.slicer.org/t/6182
+---
+
 # Creating a sicer module: Overlap RGB arrays
 
 **Topic ID**: 6182

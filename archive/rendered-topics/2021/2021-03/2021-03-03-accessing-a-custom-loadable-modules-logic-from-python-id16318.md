@@ -1,3 +1,10 @@
+---
+topic_id: 16318
+title: "Accessing A Custom Loadable Modules Logic From Python"
+date: 2021-03-03
+url: https://discourse.slicer.org/t/16318
+---
+
 # Accessing a custom loadable module's logic from python
 
 **Topic ID**: 16318

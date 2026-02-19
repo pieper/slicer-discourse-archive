@@ -1,3 +1,10 @@
+---
+topic_id: 13345
+title: "Customizing 3D Views With Qt Widgets Not Working Properly"
+date: 2020-09-05
+url: https://discourse.slicer.org/t/13345
+---
+
 # Customizing 3d views with qt widgets not working properly
 
 **Topic ID**: 13345

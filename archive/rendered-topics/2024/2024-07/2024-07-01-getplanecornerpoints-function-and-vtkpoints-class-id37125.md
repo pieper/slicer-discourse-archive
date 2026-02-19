@@ -1,3 +1,10 @@
+---
+topic_id: 37125
+title: "Getplanecornerpoints Function And Vtkpoints Class"
+date: 2024-07-01
+url: https://discourse.slicer.org/t/37125
+---
+
 # GetPlaneCornerPoints function and vtkPoints Class
 
 **Topic ID**: 37125

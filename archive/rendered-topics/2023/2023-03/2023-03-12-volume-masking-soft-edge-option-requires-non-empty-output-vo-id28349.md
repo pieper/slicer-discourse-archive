@@ -1,3 +1,10 @@
+---
+topic_id: 28349
+title: "Volume Masking Soft Edge Option Requires Non Empty Output Vo"
+date: 2023-03-12
+url: https://discourse.slicer.org/t/28349
+---
+
 # Volume masking "soft edge" option requires non-empty output volume
 
 **Topic ID**: 28349

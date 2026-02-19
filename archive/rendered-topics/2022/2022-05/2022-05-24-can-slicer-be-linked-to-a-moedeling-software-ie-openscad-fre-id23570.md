@@ -1,3 +1,10 @@
+---
+topic_id: 23570
+title: "Can Slicer Be Linked To A Moedeling Software Ie Openscad Fre"
+date: 2022-05-24
+url: https://discourse.slicer.org/t/23570
+---
+
 # Can Slicer be linked to a moedeling software (ie : openscad, freecad...) and how?
 
 **Topic ID**: 23570

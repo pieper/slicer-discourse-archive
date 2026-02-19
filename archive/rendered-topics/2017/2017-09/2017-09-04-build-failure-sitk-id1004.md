@@ -1,3 +1,10 @@
+---
+topic_id: 1004
+title: "Build Failure Sitk"
+date: 2017-09-04
+url: https://discourse.slicer.org/t/1004
+---
+
 # Build failure SITK
 
 **Topic ID**: 1004

@@ -1,3 +1,10 @@
+---
+topic_id: 33337
+title: "Can Not Draw The Segment"
+date: 2023-12-11
+url: https://discourse.slicer.org/t/33337
+---
+
 # Can not draw the segment
 
 **Topic ID**: 33337

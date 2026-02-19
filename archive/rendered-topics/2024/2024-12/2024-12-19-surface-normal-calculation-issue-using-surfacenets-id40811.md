@@ -1,3 +1,10 @@
+---
+topic_id: 40811
+title: "Surface Normal Calculation Issue Using Surfacenets"
+date: 2024-12-19
+url: https://discourse.slicer.org/t/40811
+---
+
 # Surface Normal Calculation Issue Using SurfaceNets
 
 **Topic ID**: 40811

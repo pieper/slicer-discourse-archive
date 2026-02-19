@@ -1,3 +1,10 @@
+---
+topic_id: 25546
+title: "Extract Centerline Fails When Calculating The Centerline Wit"
+date: 2022-10-04
+url: https://discourse.slicer.org/t/25546
+---
+
 # Extract Centerline fails when calculating the centerline with "Tree" window
 
 **Topic ID**: 25546

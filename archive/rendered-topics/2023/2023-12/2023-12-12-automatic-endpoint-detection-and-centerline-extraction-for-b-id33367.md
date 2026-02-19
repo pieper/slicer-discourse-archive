@@ -1,3 +1,10 @@
+---
+topic_id: 33367
+title: "Automatic Endpoint Detection And Centerline Extraction For B"
+date: 2023-12-12
+url: https://discourse.slicer.org/t/33367
+---
+
 # Automatic Endpoint Detection and Centerline Extraction for Bronchoscopy
 
 **Topic ID**: 33367

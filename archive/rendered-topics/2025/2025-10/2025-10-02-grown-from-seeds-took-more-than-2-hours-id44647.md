@@ -1,3 +1,10 @@
+---
+topic_id: 44647
+title: "Grown From Seeds Took More Than 2 Hours"
+date: 2025-10-02
+url: https://discourse.slicer.org/t/44647
+---
+
 # Grown from seeds took more than 2 hours
 
 **Topic ID**: 44647

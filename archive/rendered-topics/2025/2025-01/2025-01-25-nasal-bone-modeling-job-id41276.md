@@ -1,3 +1,10 @@
+---
+topic_id: 41276
+title: "Nasal Bone Modeling Job"
+date: 2025-01-25
+url: https://discourse.slicer.org/t/41276
+---
+
 # Nasal bone modeling job
 
 **Topic ID**: 41276

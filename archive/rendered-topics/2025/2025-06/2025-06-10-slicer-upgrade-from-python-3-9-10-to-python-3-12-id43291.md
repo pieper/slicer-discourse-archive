@@ -1,3 +1,10 @@
+---
+topic_id: 43291
+title: "Slicer Upgrade From Python 3 9 10 To Python 3 12"
+date: 2025-06-10
+url: https://discourse.slicer.org/t/43291
+---
+
 # Slicer upgrade from Python 3.9.10 to Python 3.12
 
 **Topic ID**: 43291

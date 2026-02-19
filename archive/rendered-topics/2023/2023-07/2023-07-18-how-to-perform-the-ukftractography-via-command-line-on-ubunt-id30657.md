@@ -1,3 +1,10 @@
+---
+topic_id: 30657
+title: "How To Perform The Ukftractography Via Command Line On Ubunt"
+date: 2023-07-18
+url: https://discourse.slicer.org/t/30657
+---
+
 # How to perform the UKFTractography via command line on ubuntu 20.04?
 
 **Topic ID**: 30657

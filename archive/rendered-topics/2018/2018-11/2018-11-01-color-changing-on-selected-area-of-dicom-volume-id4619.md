@@ -1,3 +1,10 @@
+---
+topic_id: 4619
+title: "Color Changing On Selected Area Of Dicom Volume"
+date: 2018-11-01
+url: https://discourse.slicer.org/t/4619
+---
+
 # Color changing on selected area of DICOM volume
 
 **Topic ID**: 4619

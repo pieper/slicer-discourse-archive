@@ -1,3 +1,10 @@
+---
+topic_id: 41706
+title: "Dental Segmentator Keeps Getting Error Even After Multiple R"
+date: 2025-02-14
+url: https://discourse.slicer.org/t/41706
+---
+
 # Dental segmentator keeps getting error even after multiple reinstallation
 
 **Topic ID**: 41706

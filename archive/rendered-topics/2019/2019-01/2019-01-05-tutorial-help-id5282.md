@@ -1,3 +1,10 @@
+---
+topic_id: 5282
+title: "Tutorial Help"
+date: 2019-01-05
+url: https://discourse.slicer.org/t/5282
+---
+
 # Tutorial help
 
 **Topic ID**: 5282

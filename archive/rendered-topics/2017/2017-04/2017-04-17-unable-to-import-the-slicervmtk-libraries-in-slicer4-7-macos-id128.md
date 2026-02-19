@@ -1,3 +1,10 @@
+---
+topic_id: 128
+title: "Unable To Import The Slicervmtk Libraries In Slicer4 7 Macos"
+date: 2017-04-17
+url: https://discourse.slicer.org/t/128
+---
+
 # Unable to import the SlicerVmtk libraries` in	Slicer4.7, macOS
 
 **Topic ID**: 128

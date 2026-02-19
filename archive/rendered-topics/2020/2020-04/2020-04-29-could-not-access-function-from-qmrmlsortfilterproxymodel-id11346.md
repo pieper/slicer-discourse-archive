@@ -1,3 +1,10 @@
+---
+topic_id: 11346
+title: "Could Not Access Function From Qmrmlsortfilterproxymodel"
+date: 2020-04-29
+url: https://discourse.slicer.org/t/11346
+---
+
 # Could not access function from qMRMLSortFilterProxyModel
 
 **Topic ID**: 11346

@@ -1,3 +1,10 @@
+---
+topic_id: 14716
+title: "Patient Identifiers In Scans"
+date: 2020-11-20
+url: https://discourse.slicer.org/t/14716
+---
+
 # Patient Identifiers in Scans
 
 **Topic ID**: 14716

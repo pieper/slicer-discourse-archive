@@ -1,3 +1,10 @@
+---
+topic_id: 33779
+title: "Transform In Ijk"
+date: 2024-01-15
+url: https://discourse.slicer.org/t/33779
+---
+
 # Transform in ijk
 
 **Topic ID**: 33779

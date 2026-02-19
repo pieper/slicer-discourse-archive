@@ -1,3 +1,10 @@
+---
+topic_id: 3161
+title: "Automated Spinal Cord Segmentation"
+date: 2018-06-12
+url: https://discourse.slicer.org/t/3161
+---
+
 # Automated Spinal Cord Segmentation
 
 **Topic ID**: 3161

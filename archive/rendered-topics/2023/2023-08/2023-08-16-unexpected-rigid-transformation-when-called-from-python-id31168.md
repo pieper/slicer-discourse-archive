@@ -1,3 +1,10 @@
+---
+topic_id: 31168
+title: "Unexpected Rigid Transformation When Called From Python"
+date: 2023-08-16
+url: https://discourse.slicer.org/t/31168
+---
+
 # Unexpected rigid transformation when called from python
 
 **Topic ID**: 31168

@@ -1,3 +1,10 @@
+---
+topic_id: 32210
+title: "Cannot Load Dicom File Segmentation"
+date: 2023-10-13
+url: https://discourse.slicer.org/t/32210
+---
+
 # Cannot load dicom file segmentation
 
 **Topic ID**: 32210

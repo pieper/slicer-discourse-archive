@@ -1,3 +1,10 @@
+---
+topic_id: 32066
+title: "Skin Segmentation In 3D Slicer"
+date: 2023-10-06
+url: https://discourse.slicer.org/t/32066
+---
+
 # Skin segmentation in 3D slicer
 
 **Topic ID**: 32066

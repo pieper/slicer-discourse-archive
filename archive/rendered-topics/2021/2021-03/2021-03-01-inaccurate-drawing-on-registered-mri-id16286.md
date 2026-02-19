@@ -1,3 +1,10 @@
+---
+topic_id: 16286
+title: "Inaccurate Drawing On Registered Mri"
+date: 2021-03-01
+url: https://discourse.slicer.org/t/16286
+---
+
 # Inaccurate drawing on registered MRI
 
 **Topic ID**: 16286

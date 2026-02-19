@@ -1,3 +1,10 @@
+---
+topic_id: 1012
+title: "Adding An Icon To A Button"
+date: 2017-09-06
+url: https://discourse.slicer.org/t/1012
+---
+
 # Adding an icon to a button
 
 **Topic ID**: 1012

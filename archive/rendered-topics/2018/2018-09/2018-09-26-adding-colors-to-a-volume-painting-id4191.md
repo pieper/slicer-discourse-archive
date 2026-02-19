@@ -1,3 +1,10 @@
+---
+topic_id: 4191
+title: "Adding Colors To A Volume Painting"
+date: 2018-09-26
+url: https://discourse.slicer.org/t/4191
+---
+
 # Adding colors to a volume (painting)
 
 **Topic ID**: 4191

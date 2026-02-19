@@ -1,3 +1,10 @@
+---
+topic_id: 30581
+title: "Macbook Pro M2 Pro M2 Max"
+date: 2023-07-13
+url: https://discourse.slicer.org/t/30581
+---
+
 # MacBook Pro M2 Pro/ M2 Max
 
 **Topic ID**: 30581

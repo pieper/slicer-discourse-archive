@@ -1,3 +1,10 @@
+---
+topic_id: 10403
+title: "Simplefilters Binarythinningimagefilter Not Working In Lates"
+date: 2020-02-23
+url: https://discourse.slicer.org/t/10403
+---
+
 # SimpleFilters (BinaryThinningImageFilter) not working in latest MacOS build?
 
 **Topic ID**: 10403

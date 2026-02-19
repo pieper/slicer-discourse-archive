@@ -1,3 +1,10 @@
+---
+topic_id: 23151
+title: "Segmentation On 3D Ultrasound Data From Raw Images"
+date: 2022-04-27
+url: https://discourse.slicer.org/t/23151
+---
+
 # Segmentation on 3D ultrasound data from raw images?
 
 **Topic ID**: 23151

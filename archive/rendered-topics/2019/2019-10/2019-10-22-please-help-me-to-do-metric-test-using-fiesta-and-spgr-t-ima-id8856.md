@@ -1,3 +1,10 @@
+---
+topic_id: 8856
+title: "Please Help Me To Do Metric Test Using Fiesta And Spgr T Ima"
+date: 2019-10-22
+url: https://discourse.slicer.org/t/8856
+---
+
 # Please help me To do metric test using fiesta and SPGR T! images
 
 **Topic ID**: 8856

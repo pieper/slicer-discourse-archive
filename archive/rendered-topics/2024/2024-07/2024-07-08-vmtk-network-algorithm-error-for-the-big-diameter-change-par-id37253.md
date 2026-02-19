@@ -1,3 +1,10 @@
+---
+topic_id: 37253
+title: "Vmtk Network Algorithm Error For The Big Diameter Change Par"
+date: 2024-07-08
+url: https://discourse.slicer.org/t/37253
+---
+
 # Vmtk Network algorithm error for the big diameter change part
 
 **Topic ID**: 37253

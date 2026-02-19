@@ -1,3 +1,10 @@
+---
+topic_id: 31158
+title: "Unable To Load Previous Pca Results"
+date: 2023-08-16
+url: https://discourse.slicer.org/t/31158
+---
+
 # Unable to load previous PCA results
 
 **Topic ID**: 31158

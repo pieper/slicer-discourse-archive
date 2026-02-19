@@ -1,3 +1,10 @@
+---
+topic_id: 25798
+title: "Thoracic Cavity And Vessel Mask In Lung Ct Segmenter"
+date: 2022-10-20
+url: https://discourse.slicer.org/t/25798
+---
+
 # Thoracic cavity and vessel mask in Lung CT Segmenter
 
 **Topic ID**: 25798

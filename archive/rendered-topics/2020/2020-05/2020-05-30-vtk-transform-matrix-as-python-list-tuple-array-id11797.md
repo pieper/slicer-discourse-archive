@@ -1,3 +1,10 @@
+---
+topic_id: 11797
+title: "Vtk Transform Matrix As Python List Tuple Array"
+date: 2020-05-30
+url: https://discourse.slicer.org/t/11797
+---
+
 # Vtk transform matrix as python list/tuple array
 
 **Topic ID**: 11797

@@ -1,3 +1,10 @@
+---
+topic_id: 24577
+title: "Histogram Using Phyton"
+date: 2022-07-30
+url: https://discourse.slicer.org/t/24577
+---
+
 # Histogram using Phyton 
 
 **Topic ID**: 24577

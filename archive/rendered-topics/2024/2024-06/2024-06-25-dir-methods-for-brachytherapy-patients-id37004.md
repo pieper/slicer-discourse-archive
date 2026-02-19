@@ -1,3 +1,10 @@
+---
+topic_id: 37004
+title: "Dir Methods For Brachytherapy Patients"
+date: 2024-06-25
+url: https://discourse.slicer.org/t/37004
+---
+
 # DIR methods for Brachytherapy patients
 
 **Topic ID**: 37004

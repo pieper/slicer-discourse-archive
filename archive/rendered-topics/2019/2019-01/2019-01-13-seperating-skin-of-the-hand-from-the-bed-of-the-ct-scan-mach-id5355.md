@@ -1,3 +1,10 @@
+---
+topic_id: 5355
+title: "Seperating Skin Of The Hand From The Bed Of The Ct Scan Mach"
+date: 2019-01-13
+url: https://discourse.slicer.org/t/5355
+---
+
 # seperating skin of the hand from the bed of the ct scan machine. 
 
 **Topic ID**: 5355

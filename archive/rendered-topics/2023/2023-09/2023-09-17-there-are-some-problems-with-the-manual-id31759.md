@@ -1,3 +1,10 @@
+---
+topic_id: 31759
+title: "There Are Some Problems With The Manual"
+date: 2023-09-17
+url: https://discourse.slicer.org/t/31759
+---
+
 # There are some problems with the manual
 
 **Topic ID**: 31759

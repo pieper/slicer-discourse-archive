@@ -1,3 +1,10 @@
+---
+topic_id: 4382
+title: "Should We Do Something About Em Segmenter"
+date: 2018-10-06
+url: https://discourse.slicer.org/t/4382
+---
+
 # Should we do something about EM segmenter?
 
 **Topic ID**: 4382

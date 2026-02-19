@@ -1,3 +1,10 @@
+---
+topic_id: 15908
+title: "Support Freesurfer"
+date: 2021-02-08
+url: https://discourse.slicer.org/t/15908
+---
+
 # Support freesurfer
 
 **Topic ID**: 15908

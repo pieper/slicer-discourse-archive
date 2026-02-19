@@ -1,3 +1,10 @@
+---
+topic_id: 29727
+title: "Problems Replicating An Exported Sequence"
+date: 2023-05-30
+url: https://discourse.slicer.org/t/29727
+---
+
 # Problems replicating an exported sequence
 
 **Topic ID**: 29727

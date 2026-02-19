@@ -1,3 +1,10 @@
+---
+topic_id: 44410
+title: "Sandbox Extension And Slicer Version 5 8 1"
+date: 2025-09-09
+url: https://discourse.slicer.org/t/44410
+---
+
 # Sandbox extension and Slicer version 5.8.1
 
 **Topic ID**: 44410

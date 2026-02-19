@@ -1,3 +1,10 @@
+---
+topic_id: 12484
+title: "There Are Some Problems With The Windows Version"
+date: 2020-07-11
+url: https://discourse.slicer.org/t/12484
+---
+
 # There are some problems with the Windows version
 
 **Topic ID**: 12484

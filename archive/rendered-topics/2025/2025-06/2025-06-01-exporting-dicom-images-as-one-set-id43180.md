@@ -1,3 +1,10 @@
+---
+topic_id: 43180
+title: "Exporting Dicom Images As One Set"
+date: 2025-06-01
+url: https://discourse.slicer.org/t/43180
+---
+
 # Exporting dicom images as one set
 
 **Topic ID**: 43180

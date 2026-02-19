@@ -1,3 +1,10 @@
+---
+topic_id: 12147
+title: "Other Brush Shapes For Paint Effect"
+date: 2020-06-22
+url: https://discourse.slicer.org/t/12147
+---
+
 # Other brush shapes for paint effect
 
 **Topic ID**: 12147

@@ -1,3 +1,10 @@
+---
+topic_id: 3769
+title: "Slicer Extension With Custom Itk"
+date: 2018-08-14
+url: https://discourse.slicer.org/t/3769
+---
+
 # Slicer Extension With Custom ITK
 
 **Topic ID**: 3769

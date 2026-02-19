@@ -1,3 +1,10 @@
+---
+topic_id: 13852
+title: "Artist Need Help"
+date: 2020-10-04
+url: https://discourse.slicer.org/t/13852
+---
+
 # Artist need help
 
 **Topic ID**: 13852

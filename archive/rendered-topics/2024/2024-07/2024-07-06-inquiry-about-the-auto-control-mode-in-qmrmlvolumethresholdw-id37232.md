@@ -1,3 +1,10 @@
+---
+topic_id: 37232
+title: "Inquiry About The Auto Control Mode In Qmrmlvolumethresholdw"
+date: 2024-07-06
+url: https://discourse.slicer.org/t/37232
+---
+
 # Inquiry about the 'Auto' Control Mode in qMRMLVolumeThresholdWidget
 
 **Topic ID**: 37232

@@ -1,3 +1,10 @@
+---
+topic_id: 3191
+title: "Tractography Export By Color"
+date: 2018-06-15
+url: https://discourse.slicer.org/t/3191
+---
+
 # Tractography export by color 
 
 **Topic ID**: 3191

@@ -1,3 +1,10 @@
+---
+topic_id: 9735
+title: "Vertical Section View Of 3D Model To Save As Stl"
+date: 2020-01-08
+url: https://discourse.slicer.org/t/9735
+---
+
 # Vertical section view of 3D model to save as STL
 
 **Topic ID**: 9735

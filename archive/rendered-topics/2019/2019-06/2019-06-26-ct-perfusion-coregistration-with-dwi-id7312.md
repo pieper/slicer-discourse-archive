@@ -1,3 +1,10 @@
+---
+topic_id: 7312
+title: "Ct Perfusion Coregistration With Dwi"
+date: 2019-06-26
+url: https://discourse.slicer.org/t/7312
+---
+
 # CT Perfusion coregistration with DWI
 
 **Topic ID**: 7312

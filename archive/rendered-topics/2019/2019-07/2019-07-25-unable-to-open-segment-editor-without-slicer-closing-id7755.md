@@ -1,3 +1,10 @@
+---
+topic_id: 7755
+title: "Unable To Open Segment Editor Without Slicer Closing"
+date: 2019-07-25
+url: https://discourse.slicer.org/t/7755
+---
+
 # Unable to open segment editor without slicer closing
 
 **Topic ID**: 7755

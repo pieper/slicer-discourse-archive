@@ -1,3 +1,10 @@
+---
+topic_id: 2502
+title: "Building Running 3D Slicer With Slicer Superbuild Off"
+date: 2018-04-03
+url: https://discourse.slicer.org/t/2502
+---
+
 # Building/Running 3D slicer with Slicer_SUPERBUILD=OFF
 
 **Topic ID**: 2502

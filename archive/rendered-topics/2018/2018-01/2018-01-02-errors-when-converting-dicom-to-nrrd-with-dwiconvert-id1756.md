@@ -1,3 +1,10 @@
+---
+topic_id: 1756
+title: "Errors When Converting Dicom To Nrrd With Dwiconvert"
+date: 2018-01-02
+url: https://discourse.slicer.org/t/1756
+---
+
 # Errors when converting DICOM to NRRD with DWIConvert
 
 **Topic ID**: 1756

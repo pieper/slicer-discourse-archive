@@ -1,3 +1,10 @@
+---
+topic_id: 12557
+title: "Why Slicer Automatically Scales A Multivolume By A Factor"
+date: 2020-07-15
+url: https://discourse.slicer.org/t/12557
+---
+
 # Why Slicer automatically scales a MultiVolume by a factor
 
 **Topic ID**: 12557

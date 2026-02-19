@@ -1,3 +1,10 @@
+---
+topic_id: 17326
+title: "Calculating The Rmse"
+date: 2021-04-26
+url: https://discourse.slicer.org/t/17326
+---
+
 # Calculating the RMSE
 
 **Topic ID**: 17326

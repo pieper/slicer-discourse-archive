@@ -1,3 +1,10 @@
+---
+topic_id: 43317
+title: "Problem About Bone Microstructural Analysis On A Microct Dat"
+date: 2025-06-11
+url: https://discourse.slicer.org/t/43317
+---
+
 # Problem About Bone Microstructural Analysis on a  MicroCt Data
 
 **Topic ID**: 43317

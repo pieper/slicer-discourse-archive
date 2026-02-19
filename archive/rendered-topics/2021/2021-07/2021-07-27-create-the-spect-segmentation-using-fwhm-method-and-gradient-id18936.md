@@ -1,3 +1,10 @@
+---
+topic_id: 18936
+title: "Create The Spect Segmentation Using Fwhm Method And Gradient"
+date: 2021-07-27
+url: https://discourse.slicer.org/t/18936
+---
+
 # Create the SPECT segmentation using fwhm method and gradientweight function (Matlab)
 
 **Topic ID**: 18936

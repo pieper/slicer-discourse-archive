@@ -1,3 +1,10 @@
+---
+topic_id: 28951
+title: "Measurement On Segmented Volume"
+date: 2023-04-17
+url: https://discourse.slicer.org/t/28951
+---
+
 # Measurement on segmented volume
 
 **Topic ID**: 28951

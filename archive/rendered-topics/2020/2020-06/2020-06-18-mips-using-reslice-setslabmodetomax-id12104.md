@@ -1,3 +1,10 @@
+---
+topic_id: 12104
+title: "Mips Using Reslice Setslabmodetomax"
+date: 2020-06-18
+url: https://discourse.slicer.org/t/12104
+---
+
 # MIPs using reslice.SetSlabModeToMax()
 
 **Topic ID**: 12104

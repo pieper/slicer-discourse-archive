@@ -1,3 +1,10 @@
+---
+topic_id: 35323
+title: "Low Resolution Brain"
+date: 2024-04-06
+url: https://discourse.slicer.org/t/35323
+---
+
 # Low Resolution Brain
 
 **Topic ID**: 35323

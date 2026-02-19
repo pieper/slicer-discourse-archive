@@ -1,3 +1,10 @@
+---
+topic_id: 42424
+title: "Cant Access Installed Extension Surfacesolidify 6006814 In 3"
+date: 2025-04-03
+url: https://discourse.slicer.org/t/42424
+---
+
 # Can't access installed extension SurfaceSolidify 6006814 in 3D slicer 5.8.1
 
 **Topic ID**: 42424

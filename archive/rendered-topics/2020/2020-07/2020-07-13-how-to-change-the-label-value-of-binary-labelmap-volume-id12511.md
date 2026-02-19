@@ -1,3 +1,10 @@
+---
+topic_id: 12511
+title: "How To Change The Label Value Of Binary Labelmap Volume"
+date: 2020-07-13
+url: https://discourse.slicer.org/t/12511
+---
+
 # How to change the label value of binary labelmap volume?
 
 **Topic ID**: 12511

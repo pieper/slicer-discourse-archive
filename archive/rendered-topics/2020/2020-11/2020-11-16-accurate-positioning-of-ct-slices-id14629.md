@@ -1,3 +1,10 @@
+---
+topic_id: 14629
+title: "Accurate Positioning Of Ct Slices"
+date: 2020-11-16
+url: https://discourse.slicer.org/t/14629
+---
+
 # Accurate positioning of CT slices
 
 **Topic ID**: 14629

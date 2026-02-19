@@ -1,3 +1,10 @@
+---
+topic_id: 5758
+title: "Micro Ct Scanned Bees And Slicer"
+date: 2019-02-13
+url: https://discourse.slicer.org/t/5758
+---
+
 # micro-CT scanned bees and Slicer
 
 **Topic ID**: 5758

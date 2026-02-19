@@ -1,3 +1,10 @@
+---
+topic_id: 6613
+title: "How To Determine The Temporal Resolution Using Dicom Header"
+date: 2019-04-26
+url: https://discourse.slicer.org/t/6613
+---
+
 # How to determine the temporal resolution using DICOM Header Information in perfusion MRI ?
 
 **Topic ID**: 6613

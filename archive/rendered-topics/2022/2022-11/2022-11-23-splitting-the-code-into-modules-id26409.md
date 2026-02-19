@@ -1,3 +1,10 @@
+---
+topic_id: 26409
+title: "Splitting The Code Into Modules"
+date: 2022-11-23
+url: https://discourse.slicer.org/t/26409
+---
+
 # Splitting the code into modules
 
 **Topic ID**: 26409

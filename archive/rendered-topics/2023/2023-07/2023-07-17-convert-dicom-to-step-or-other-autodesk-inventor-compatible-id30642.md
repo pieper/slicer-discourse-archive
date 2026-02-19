@@ -1,3 +1,10 @@
+---
+topic_id: 30642
+title: "Convert Dicom To Step Or Other Autodesk Inventor Compatible"
+date: 2023-07-17
+url: https://discourse.slicer.org/t/30642
+---
+
 # Convert DICOM to STEP or other Autodesk inventor compatible format
 
 **Topic ID**: 30642

@@ -1,3 +1,10 @@
+---
+topic_id: 45717
+title: "Is There Any Way To Know If A Vtkmrmlnode Has Been Renamed"
+date: 2026-01-09
+url: https://discourse.slicer.org/t/45717
+---
+
 # Is there any way to know if a vtkMRMLNode has been renamed?
 
 **Topic ID**: 45717

@@ -1,3 +1,10 @@
+---
+topic_id: 25127
+title: "How To Load Custom Presets When Slicer Starts Up"
+date: 2022-09-07
+url: https://discourse.slicer.org/t/25127
+---
+
 # How to load custom presets when Slicer starts up
 
 **Topic ID**: 25127

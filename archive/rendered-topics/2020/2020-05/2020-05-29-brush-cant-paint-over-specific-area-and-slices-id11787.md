@@ -1,3 +1,10 @@
+---
+topic_id: 11787
+title: "Brush Cant Paint Over Specific Area And Slices"
+date: 2020-05-29
+url: https://discourse.slicer.org/t/11787
+---
+
 # Brush can't paint over specific area and slices
 
 **Topic ID**: 11787

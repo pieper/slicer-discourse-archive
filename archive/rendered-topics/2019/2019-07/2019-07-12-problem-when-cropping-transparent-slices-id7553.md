@@ -1,3 +1,10 @@
+---
+topic_id: 7553
+title: "Problem When Cropping Transparent Slices"
+date: 2019-07-12
+url: https://discourse.slicer.org/t/7553
+---
+
 # Problem when cropping! >> Transparent slices
 
 **Topic ID**: 7553

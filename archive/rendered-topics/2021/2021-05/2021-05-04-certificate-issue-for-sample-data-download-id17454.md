@@ -1,3 +1,10 @@
+---
+topic_id: 17454
+title: "Certificate Issue For Sample Data Download"
+date: 2021-05-04
+url: https://discourse.slicer.org/t/17454
+---
+
 # Certificate issue for sample data download
 
 **Topic ID**: 17454

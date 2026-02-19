@@ -1,3 +1,10 @@
+---
+topic_id: 954
+title: "Issue With Vtk Leaks"
+date: 2017-08-27
+url: https://discourse.slicer.org/t/954
+---
+
 # Issue with VTK leaks
 
 **Topic ID**: 954

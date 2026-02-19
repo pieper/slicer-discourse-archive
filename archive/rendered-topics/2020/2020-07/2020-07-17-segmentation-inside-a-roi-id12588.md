@@ -1,3 +1,10 @@
+---
+topic_id: 12588
+title: "Segmentation Inside A Roi"
+date: 2020-07-17
+url: https://discourse.slicer.org/t/12588
+---
+
 # Segmentation inside a ROI
 
 **Topic ID**: 12588

@@ -1,3 +1,10 @@
+---
+topic_id: 13935
+title: "Slicer And Video Projector Issue"
+date: 2020-10-08
+url: https://discourse.slicer.org/t/13935
+---
+
 # Slicer and video projector issue
 
 **Topic ID**: 13935

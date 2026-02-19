@@ -1,3 +1,10 @@
+---
+topic_id: 10084
+title: "Create A Set Of Planar Contours From Irm Images"
+date: 2020-02-03
+url: https://discourse.slicer.org/t/10084
+---
+
 # Create a set of planar contours from IRM images
 
 **Topic ID**: 10084

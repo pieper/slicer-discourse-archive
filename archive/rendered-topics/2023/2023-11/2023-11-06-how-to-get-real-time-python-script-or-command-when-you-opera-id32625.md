@@ -1,3 +1,10 @@
+---
+topic_id: 32625
+title: "How To Get Real Time Python Script Or Command When You Opera"
+date: 2023-11-06
+url: https://discourse.slicer.org/t/32625
+---
+
 # How to get real-time python script or command when you operate in 3D slicer
 
 **Topic ID**: 32625

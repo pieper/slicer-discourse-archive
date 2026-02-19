@@ -1,3 +1,10 @@
+---
+topic_id: 38391
+title: "Extracting Dose To Target Volume And Organs At Risk From Mr"
+date: 2024-09-15
+url: https://discourse.slicer.org/t/38391
+---
+
 # Extracting dose to target volume and organs at risk from MR images
 
 **Topic ID**: 38391

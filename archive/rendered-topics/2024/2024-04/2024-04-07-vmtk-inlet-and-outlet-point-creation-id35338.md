@@ -1,3 +1,10 @@
+---
+topic_id: 35338
+title: "Vmtk Inlet And Outlet Point Creation"
+date: 2024-04-07
+url: https://discourse.slicer.org/t/35338
+---
+
 # VMTK Inlet and Outlet Point Creation
 
 **Topic ID**: 35338

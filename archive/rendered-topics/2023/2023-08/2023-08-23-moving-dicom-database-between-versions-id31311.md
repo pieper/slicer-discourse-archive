@@ -1,3 +1,10 @@
+---
+topic_id: 31311
+title: "Moving Dicom Database Between Versions"
+date: 2023-08-23
+url: https://discourse.slicer.org/t/31311
+---
+
 # Moving DICOM Database between Versions
 
 **Topic ID**: 31311

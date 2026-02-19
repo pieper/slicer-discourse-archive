@@ -1,3 +1,10 @@
+---
+topic_id: 41060
+title: "Dicom Voi Lut Vs Volume Rendering"
+date: 2025-01-13
+url: https://discourse.slicer.org/t/41060
+---
+
 # DICOM "VOI LUT" vs. Volume Rendering
 
 **Topic ID**: 41060

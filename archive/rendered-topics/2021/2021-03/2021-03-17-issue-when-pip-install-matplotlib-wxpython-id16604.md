@@ -1,3 +1,10 @@
+---
+topic_id: 16604
+title: "Issue When Pip Install Matplotlib Wxpython"
+date: 2021-03-17
+url: https://discourse.slicer.org/t/16604
+---
+
 # Issue when pip_install("matplotlib wxPython")
 
 **Topic ID**: 16604

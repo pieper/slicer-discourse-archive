@@ -1,3 +1,10 @@
+---
+topic_id: 2399
+title: "Drawing Shapes In Volume Node"
+date: 2018-03-22
+url: https://discourse.slicer.org/t/2399
+---
+
 # Drawing shapes in Volume Node
 
 **Topic ID**: 2399

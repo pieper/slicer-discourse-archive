@@ -1,3 +1,10 @@
+---
+topic_id: 4840
+title: "Ct Resampling And Registration Order"
+date: 2018-11-21
+url: https://discourse.slicer.org/t/4840
+---
+
 # CT Resampling and Registration order
 
 **Topic ID**: 4840

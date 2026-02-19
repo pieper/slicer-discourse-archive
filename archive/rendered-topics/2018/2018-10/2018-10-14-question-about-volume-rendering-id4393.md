@@ -1,3 +1,10 @@
+---
+topic_id: 4393
+title: "Question About Volume Rendering"
+date: 2018-10-14
+url: https://discourse.slicer.org/t/4393
+---
+
 # Question about volume rendering
 
 **Topic ID**: 4393

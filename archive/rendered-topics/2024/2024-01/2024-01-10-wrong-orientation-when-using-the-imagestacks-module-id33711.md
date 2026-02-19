@@ -1,3 +1,10 @@
+---
+topic_id: 33711
+title: "Wrong Orientation When Using The Imagestacks Module"
+date: 2024-01-10
+url: https://discourse.slicer.org/t/33711
+---
+
 # Wrong orientation when using the ImageStacks module
 
 **Topic ID**: 33711

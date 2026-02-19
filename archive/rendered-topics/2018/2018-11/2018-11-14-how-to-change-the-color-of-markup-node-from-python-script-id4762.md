@@ -1,3 +1,10 @@
+---
+topic_id: 4762
+title: "How To Change The Color Of Markup Node From Python Script"
+date: 2018-11-14
+url: https://discourse.slicer.org/t/4762
+---
+
 # How to change the color of markup node from python script?
 
 **Topic ID**: 4762

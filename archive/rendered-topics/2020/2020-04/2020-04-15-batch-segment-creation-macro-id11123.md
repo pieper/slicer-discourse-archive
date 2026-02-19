@@ -1,3 +1,10 @@
+---
+topic_id: 11123
+title: "Batch Segment Creation Macro"
+date: 2020-04-15
+url: https://discourse.slicer.org/t/11123
+---
+
 # Batch segment creation - macro
 
 **Topic ID**: 11123

@@ -1,3 +1,10 @@
+---
+topic_id: 4173
+title: "Where Is Slicerconfig Cmake"
+date: 2018-09-23
+url: https://discourse.slicer.org/t/4173
+---
+
 # Where is Slicerconfig.cmake
 
 **Topic ID**: 4173

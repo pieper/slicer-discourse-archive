@@ -1,3 +1,10 @@
+---
+topic_id: 10623
+title: "How To Understand Feature Shift In Module Volume Rendering"
+date: 2020-03-10
+url: https://discourse.slicer.org/t/10623
+---
+
 # How to understand feature "Shift" in module "Volume Rendering"?
 
 **Topic ID**: 10623

@@ -1,3 +1,10 @@
+---
+topic_id: 4662
+title: "Updating Slicer To Work With Python 3"
+date: 2018-11-06
+url: https://discourse.slicer.org/t/4662
+---
+
 # Updating slicer to work with python 3
 
 **Topic ID**: 4662

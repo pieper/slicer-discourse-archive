@@ -1,3 +1,10 @@
+---
+topic_id: 6520
+title: "Show Position Cursor When Scrolling Slices To Mouse Location"
+date: 2019-04-17
+url: https://discourse.slicer.org/t/6520
+---
+
 # Show position cursor when scrolling slices to mouse location
 
 **Topic ID**: 6520

@@ -1,3 +1,10 @@
+---
+topic_id: 664
+title: "Rendering Method"
+date: 2017-07-11
+url: https://discourse.slicer.org/t/664
+---
+
 # Rendering method
 
 **Topic ID**: 664

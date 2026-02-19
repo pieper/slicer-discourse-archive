@@ -1,3 +1,10 @@
+---
+topic_id: 11325
+title: "How To Get Current Volume And Model Selection Using Python"
+date: 2020-04-28
+url: https://discourse.slicer.org/t/11325
+---
+
 # How to get current volume and model selection using Python
 
 **Topic ID**: 11325

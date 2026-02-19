@@ -1,3 +1,10 @@
+---
+topic_id: 30789
+title: "Resampling In The Direction Where Labelmap Spans Only One Sl"
+date: 2023-07-25
+url: https://discourse.slicer.org/t/30789
+---
+
 # Resampling in the direction where labelmap spans only one slice
 
 **Topic ID**: 30789

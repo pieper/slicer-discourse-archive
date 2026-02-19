@@ -1,3 +1,10 @@
+---
+topic_id: 9555
+title: "Spharm Pdm Command Line Running Does Not Generate Procalign"
+date: 2019-12-18
+url: https://discourse.slicer.org/t/9555
+---
+
 # SPHARM-PDM command line running does not generate procalign files
 
 **Topic ID**: 9555

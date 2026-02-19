@@ -1,3 +1,10 @@
+---
+topic_id: 25044
+title: "Adding Observer Within C Loadable Crashes Slicer"
+date: 2022-09-01
+url: https://discourse.slicer.org/t/25044
+---
+
 # Adding Observer within c++ loadable crashes Slicer
 
 **Topic ID**: 25044

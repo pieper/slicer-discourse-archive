@@ -1,3 +1,10 @@
+---
+topic_id: 4129
+title: "Automate Loading Editing And Exporting With No User Interact"
+date: 2018-09-17
+url: https://discourse.slicer.org/t/4129
+---
+
 # Automate loading, editing and exporting with no user interaction
 
 **Topic ID**: 4129

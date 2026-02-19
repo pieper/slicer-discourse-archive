@@ -1,3 +1,10 @@
+---
+topic_id: 2749
+title: "Volume Rendering Crop Not Working In Latest Nightlies When L"
+date: 2018-05-02
+url: https://discourse.slicer.org/t/2749
+---
+
 # Volume rendering - crop not working in latest nightlies when loading older file
 
 **Topic ID**: 2749

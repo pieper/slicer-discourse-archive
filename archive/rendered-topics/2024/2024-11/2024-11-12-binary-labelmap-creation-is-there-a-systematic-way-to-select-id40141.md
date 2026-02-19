@@ -1,3 +1,10 @@
+---
+topic_id: 40141
+title: "Binary Labelmap Creation Is There A Systematic Way To Select"
+date: 2024-11-12
+url: https://discourse.slicer.org/t/40141
+---
+
 # Binary Labelmap Creation - Is there a systematic way to select optimal segment conversion parameters to reduce artefacting?
 
 **Topic ID**: 40141

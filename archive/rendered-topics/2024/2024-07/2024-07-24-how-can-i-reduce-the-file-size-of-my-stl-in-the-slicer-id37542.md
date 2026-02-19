@@ -1,3 +1,10 @@
+---
+topic_id: 37542
+title: "How Can I Reduce The File Size Of My Stl In The Slicer"
+date: 2024-07-24
+url: https://discourse.slicer.org/t/37542
+---
+
 # How can I reduce the file size of my STL in the slicer?
 
 **Topic ID**: 37542

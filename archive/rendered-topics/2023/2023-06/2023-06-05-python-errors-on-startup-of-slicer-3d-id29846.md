@@ -1,3 +1,10 @@
+---
+topic_id: 29846
+title: "Python Errors On Startup Of Slicer 3D"
+date: 2023-06-05
+url: https://discourse.slicer.org/t/29846
+---
+
 # Python Errors on startup of Slicer 3D
 
 **Topic ID**: 29846

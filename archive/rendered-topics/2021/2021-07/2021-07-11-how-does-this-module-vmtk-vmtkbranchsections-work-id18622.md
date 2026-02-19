@@ -1,3 +1,10 @@
+---
+topic_id: 18622
+title: "How Does This Module Vmtk Vmtkbranchsections Work"
+date: 2021-07-11
+url: https://discourse.slicer.org/t/18622
+---
+
 #   How does this module  VMTK vmtkbranchsections work?
 
 **Topic ID**: 18622

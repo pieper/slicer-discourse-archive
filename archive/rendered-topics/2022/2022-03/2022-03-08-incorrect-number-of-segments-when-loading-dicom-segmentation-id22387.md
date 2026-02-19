@@ -1,3 +1,10 @@
+---
+topic_id: 22387
+title: "Incorrect Number Of Segments When Loading Dicom Segmentation"
+date: 2022-03-08
+url: https://discourse.slicer.org/t/22387
+---
+
 # Incorrect number of segments when loading DICOM segmentation file
 
 **Topic ID**: 22387

@@ -1,3 +1,10 @@
+---
+topic_id: 33525
+title: "Dicomdir File Conversion"
+date: 2023-12-26
+url: https://discourse.slicer.org/t/33525
+---
+
 # DICOMDIR file conversion
 
 **Topic ID**: 33525

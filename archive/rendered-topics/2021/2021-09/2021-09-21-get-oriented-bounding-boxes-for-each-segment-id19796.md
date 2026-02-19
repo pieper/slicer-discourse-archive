@@ -1,3 +1,10 @@
+---
+topic_id: 19796
+title: "Get Oriented Bounding Boxes For Each Segment"
+date: 2021-09-21
+url: https://discourse.slicer.org/t/19796
+---
+
 # Get oriented bounding boxes for each segment
 
 **Topic ID**: 19796

@@ -1,3 +1,10 @@
+---
+topic_id: 6966
+title: "How Can I Calculate The Total Intracranial Contents Icc Volu"
+date: 2019-05-30
+url: https://discourse.slicer.org/t/6966
+---
+
 # How can I calculate the total intracranial contents (ICC) volume using 3D slicer modules?
 
 **Topic ID**: 6966

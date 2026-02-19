@@ -1,3 +1,10 @@
+---
+topic_id: 28638
+title: "Markup Script Misplacing Control Points"
+date: 2023-03-28
+url: https://discourse.slicer.org/t/28638
+---
+
 # Markup script misplacing control points
 
 **Topic ID**: 28638

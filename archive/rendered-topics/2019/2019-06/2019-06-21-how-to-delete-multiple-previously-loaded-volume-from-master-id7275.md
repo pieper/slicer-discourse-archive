@@ -1,3 +1,10 @@
+---
+topic_id: 7275
+title: "How To Delete Multiple Previously Loaded Volume From Master"
+date: 2019-06-21
+url: https://discourse.slicer.org/t/7275
+---
+
 #  How to delete multiple previously loaded “volume” from “Master volume”
 
 **Topic ID**: 7275

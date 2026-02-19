@@ -1,3 +1,10 @@
+---
+topic_id: 12752
+title: "Using Variables From Module1 In Module2"
+date: 2020-07-27
+url: https://discourse.slicer.org/t/12752
+---
+
 # Using variables from module1 in module2
 
 **Topic ID**: 12752

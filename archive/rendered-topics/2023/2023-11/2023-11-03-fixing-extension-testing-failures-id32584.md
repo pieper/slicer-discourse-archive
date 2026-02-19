@@ -1,3 +1,10 @@
+---
+topic_id: 32584
+title: "Fixing Extension Testing Failures"
+date: 2023-11-03
+url: https://discourse.slicer.org/t/32584
+---
+
 # Fixing extension testing failures
 
 **Topic ID**: 32584

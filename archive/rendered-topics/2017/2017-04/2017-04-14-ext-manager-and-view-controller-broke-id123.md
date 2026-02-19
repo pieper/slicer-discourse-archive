@@ -1,3 +1,10 @@
+---
+topic_id: 123
+title: "Ext Manager And View Controller Broke"
+date: 2017-04-14
+url: https://discourse.slicer.org/t/123
+---
+
 # Ext manager and view controller broke
 
 **Topic ID**: 123

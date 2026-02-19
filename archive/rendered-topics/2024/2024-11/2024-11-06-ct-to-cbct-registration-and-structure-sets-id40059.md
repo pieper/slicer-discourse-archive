@@ -1,3 +1,10 @@
+---
+topic_id: 40059
+title: "Ct To Cbct Registration And Structure Sets"
+date: 2024-11-06
+url: https://discourse.slicer.org/t/40059
+---
+
 # CT to CBCT registration and structure sets
 
 **Topic ID**: 40059

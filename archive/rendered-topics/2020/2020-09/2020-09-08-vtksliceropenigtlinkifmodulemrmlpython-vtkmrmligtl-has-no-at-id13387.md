@@ -1,3 +1,10 @@
+---
+topic_id: 13387
+title: "Vtksliceropenigtlinkifmodulemrmlpython Vtkmrmligtl Has No At"
+date: 2020-09-08
+url: https://discourse.slicer.org/t/13387
+---
+
 # 'vtkSlicerOpenIGTLinkIFModuleMRMLPython.vtkMRMLIGTL' has no attribute 'ReceiveEvent'
 
 **Topic ID**: 13387

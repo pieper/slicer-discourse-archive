@@ -1,3 +1,10 @@
+---
+topic_id: 33465
+title: "What Are The Advantages Of 3D Slicer Version 5 4 0"
+date: 2023-12-20
+url: https://discourse.slicer.org/t/33465
+---
+
 # What are the advantages of 3D-slicer version 5.4.0?
 
 **Topic ID**: 33465

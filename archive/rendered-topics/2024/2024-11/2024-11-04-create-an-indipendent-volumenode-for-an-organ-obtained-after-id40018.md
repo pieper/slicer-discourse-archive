@@ -1,3 +1,10 @@
+---
+topic_id: 40018
+title: "Create An Indipendent Volumenode For An Organ Obtained After"
+date: 2024-11-04
+url: https://discourse.slicer.org/t/40018
+---
+
 # Create an indipendent volumeNode for an organ obtained after segmentation
 
 **Topic ID**: 40018

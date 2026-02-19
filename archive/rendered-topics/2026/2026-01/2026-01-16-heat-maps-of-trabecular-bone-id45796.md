@@ -1,3 +1,10 @@
+---
+topic_id: 45796
+title: "Heat Maps Of Trabecular Bone"
+date: 2026-01-16
+url: https://discourse.slicer.org/t/45796
+---
+
 # Heat maps of trabecular bone
 
 **Topic ID**: 45796

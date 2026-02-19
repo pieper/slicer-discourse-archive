@@ -1,3 +1,10 @@
+---
+topic_id: 33601
+title: "Custom Undo Redo Function For All Process"
+date: 2024-01-03
+url: https://discourse.slicer.org/t/33601
+---
+
 # Custom undo/redo function for all process
 
 **Topic ID**: 33601

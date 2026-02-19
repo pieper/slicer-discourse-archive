@@ -1,3 +1,10 @@
+---
+topic_id: 27517
+title: "Detect Subject Hierarchy Node Deletion Before Its Children G"
+date: 2023-01-28
+url: https://discourse.slicer.org/t/27517
+---
+
 # Detect subject hierarchy node deletion before its children get deleted
 
 **Topic ID**: 27517

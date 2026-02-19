@@ -1,3 +1,10 @@
+---
+topic_id: 12120
+title: "How Do We Extract The Features For Each Independent Object I"
+date: 2020-06-19
+url: https://discourse.slicer.org/t/12120
+---
+
 # How do we extract the features for each independent object in an image?
 
 **Topic ID**: 12120

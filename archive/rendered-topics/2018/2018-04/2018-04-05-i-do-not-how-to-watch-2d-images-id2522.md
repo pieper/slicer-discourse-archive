@@ -1,3 +1,10 @@
+---
+topic_id: 2522
+title: "I Do Not How To Watch 2D Images"
+date: 2018-04-05
+url: https://discourse.slicer.org/t/2522
+---
+
 # I do not how to watch 2D images
 
 **Topic ID**: 2522

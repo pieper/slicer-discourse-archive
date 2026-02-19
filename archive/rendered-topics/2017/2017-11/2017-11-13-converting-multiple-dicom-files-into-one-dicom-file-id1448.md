@@ -1,3 +1,10 @@
+---
+topic_id: 1448
+title: "Converting Multiple Dicom Files Into One Dicom File"
+date: 2017-11-13
+url: https://discourse.slicer.org/t/1448
+---
+
 # Converting multiple DICOM files into one DICOM file
 
 **Topic ID**: 1448

@@ -1,3 +1,10 @@
+---
+topic_id: 10924
+title: "Pick And Paint Syntaxerror"
+date: 2020-03-31
+url: https://discourse.slicer.org/t/10924
+---
+
 # Pick and Paint SyntaxError
 
 **Topic ID**: 10924

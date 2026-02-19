@@ -1,3 +1,10 @@
+---
+topic_id: 23666
+title: "Opening Extensionmanager While Running Slicer As Root Crashe"
+date: 2022-06-01
+url: https://discourse.slicer.org/t/23666
+---
+
 # Opening ExtensionManager while running Slicer as root crashes the app
 
 **Topic ID**: 23666

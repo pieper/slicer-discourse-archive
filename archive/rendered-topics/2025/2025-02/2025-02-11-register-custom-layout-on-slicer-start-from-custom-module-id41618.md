@@ -1,3 +1,10 @@
+---
+topic_id: 41618
+title: "Register Custom Layout On Slicer Start From Custom Module"
+date: 2025-02-11
+url: https://discourse.slicer.org/t/41618
+---
+
 # Register custom layout on Slicer start from custom module
 
 **Topic ID**: 41618

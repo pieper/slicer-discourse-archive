@@ -1,3 +1,10 @@
+---
+topic_id: 764
+title: "Build Error Ctk Custombuild Failed"
+date: 2017-07-25
+url: https://discourse.slicer.org/t/764
+---
+
 # Build error - CTK CustomBuild failed
 
 **Topic ID**: 764

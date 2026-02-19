@@ -1,3 +1,10 @@
+---
+topic_id: 37001
+title: "I Want To Branch Extract Remove"
+date: 2024-06-25
+url: https://discourse.slicer.org/t/37001
+---
+
 # I want to branch extract(remove)
 
 **Topic ID**: 37001

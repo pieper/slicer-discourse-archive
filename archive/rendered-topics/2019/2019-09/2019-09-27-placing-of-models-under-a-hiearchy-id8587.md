@@ -1,3 +1,10 @@
+---
+topic_id: 8587
+title: "Placing Of Models Under A Hiearchy"
+date: 2019-09-27
+url: https://discourse.slicer.org/t/8587
+---
+
 # Placing of models under a hiearchy
 
 **Topic ID**: 8587

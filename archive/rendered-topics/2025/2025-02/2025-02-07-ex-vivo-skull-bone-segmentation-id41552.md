@@ -1,3 +1,10 @@
+---
+topic_id: 41552
+title: "Ex Vivo Skull Bone Segmentation"
+date: 2025-02-07
+url: https://discourse.slicer.org/t/41552
+---
+
 # Ex-vivo skull bone segmentation
 
 **Topic ID**: 41552

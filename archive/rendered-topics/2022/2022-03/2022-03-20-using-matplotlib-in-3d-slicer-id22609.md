@@ -1,3 +1,10 @@
+---
+topic_id: 22609
+title: "Using Matplotlib In 3D Slicer"
+date: 2022-03-20
+url: https://discourse.slicer.org/t/22609
+---
+
 # Using matplotlib in 3D Slicer
 
 **Topic ID**: 22609

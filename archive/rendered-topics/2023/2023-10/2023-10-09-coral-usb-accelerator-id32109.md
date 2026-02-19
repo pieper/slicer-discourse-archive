@@ -1,3 +1,10 @@
+---
+topic_id: 32109
+title: "Coral Usb Accelerator"
+date: 2023-10-09
+url: https://discourse.slicer.org/t/32109
+---
+
 # Coral USB accelerator
 
 **Topic ID**: 32109

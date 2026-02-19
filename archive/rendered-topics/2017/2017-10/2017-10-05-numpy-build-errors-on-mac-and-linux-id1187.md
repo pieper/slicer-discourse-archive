@@ -1,3 +1,10 @@
+---
+topic_id: 1187
+title: "Numpy Build Errors On Mac And Linux"
+date: 2017-10-05
+url: https://discourse.slicer.org/t/1187
+---
+
 # NUMPY build errors on mac and linux
 
 **Topic ID**: 1187

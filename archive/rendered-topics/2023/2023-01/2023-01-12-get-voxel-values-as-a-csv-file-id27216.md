@@ -1,3 +1,10 @@
+---
+topic_id: 27216
+title: "Get Voxel Values As A Csv File"
+date: 2023-01-12
+url: https://discourse.slicer.org/t/27216
+---
+
 # Get voxel values as a CSV file
 
 **Topic ID**: 27216

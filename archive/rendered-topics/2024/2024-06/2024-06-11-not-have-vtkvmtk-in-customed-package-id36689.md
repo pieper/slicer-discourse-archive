@@ -1,3 +1,10 @@
+---
+topic_id: 36689
+title: "Not Have Vtkvmtk In Customed Package"
+date: 2024-06-11
+url: https://discourse.slicer.org/t/36689
+---
+
 # Not have vtkvmtk in customed package
 
 **Topic ID**: 36689

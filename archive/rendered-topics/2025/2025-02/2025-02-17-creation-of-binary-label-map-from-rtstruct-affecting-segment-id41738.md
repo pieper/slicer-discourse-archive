@@ -1,3 +1,10 @@
+---
+topic_id: 41738
+title: "Creation Of Binary Label Map From Rtstruct Affecting Segment"
+date: 2025-02-17
+url: https://discourse.slicer.org/t/41738
+---
+
 # Creation of binary label map from RTSTRUCT affecting segmentations
 
 **Topic ID**: 41738

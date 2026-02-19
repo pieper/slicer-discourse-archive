@@ -1,3 +1,10 @@
+---
+topic_id: 217
+title: "Import Class With Python"
+date: 2017-04-27
+url: https://discourse.slicer.org/t/217
+---
+
 # Import Class with Python
 
 **Topic ID**: 217

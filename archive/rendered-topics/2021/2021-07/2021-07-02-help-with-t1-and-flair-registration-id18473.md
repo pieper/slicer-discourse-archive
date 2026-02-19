@@ -1,3 +1,10 @@
+---
+topic_id: 18473
+title: "Help With T1 And Flair Registration"
+date: 2021-07-02
+url: https://discourse.slicer.org/t/18473
+---
+
 # Help with T1 and FLAIR registration
 
 **Topic ID**: 18473

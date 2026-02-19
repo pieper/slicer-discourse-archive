@@ -1,3 +1,10 @@
+---
+topic_id: 5642
+title: "Mr To Ct Registration Bone Removal"
+date: 2019-02-05
+url: https://discourse.slicer.org/t/5642
+---
+
 # MR to CT registration, bone removal
 
 **Topic ID**: 5642

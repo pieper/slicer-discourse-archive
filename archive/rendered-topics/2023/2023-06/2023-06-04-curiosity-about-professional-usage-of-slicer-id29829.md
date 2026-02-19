@@ -1,3 +1,10 @@
+---
+topic_id: 29829
+title: "Curiosity About Professional Usage Of Slicer"
+date: 2023-06-04
+url: https://discourse.slicer.org/t/29829
+---
+
 # Curiosity about Professional Usage of Slicer
 
 **Topic ID**: 29829

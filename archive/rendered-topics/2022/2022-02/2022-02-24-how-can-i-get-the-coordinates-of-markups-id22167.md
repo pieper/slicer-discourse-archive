@@ -1,3 +1,10 @@
+---
+topic_id: 22167
+title: "How Can I Get The Coordinates Of Markups"
+date: 2022-02-24
+url: https://discourse.slicer.org/t/22167
+---
+
 # How can I get the coordinates of markups?
 
 **Topic ID**: 22167

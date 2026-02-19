@@ -1,3 +1,10 @@
+---
+topic_id: 32427
+title: "Creating A Hemisphere Mask"
+date: 2023-10-26
+url: https://discourse.slicer.org/t/32427
+---
+
 # Creating a hemisphere mask
 
 **Topic ID**: 32427

@@ -1,3 +1,10 @@
+---
+topic_id: 13031
+title: "Setting Fixed And Moving Landmarks For Fiducial Registration"
+date: 2020-08-17
+url: https://discourse.slicer.org/t/13031
+---
+
 # Setting fixed and moving landmarks for fiducial registration
 
 **Topic ID**: 13031

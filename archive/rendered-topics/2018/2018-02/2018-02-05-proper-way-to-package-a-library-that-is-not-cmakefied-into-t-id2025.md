@@ -1,3 +1,10 @@
+---
+topic_id: 2025
+title: "Proper Way To Package A Library That Is Not Cmakefied Into T"
+date: 2018-02-05
+url: https://discourse.slicer.org/t/2025
+---
+
 # Proper way to package a library that is not cmakefied into the extension
 
 **Topic ID**: 2025

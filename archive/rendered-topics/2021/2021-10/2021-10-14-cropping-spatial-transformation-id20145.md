@@ -1,3 +1,10 @@
+---
+topic_id: 20145
+title: "Cropping Spatial Transformation"
+date: 2021-10-14
+url: https://discourse.slicer.org/t/20145
+---
+
 # Cropping spatial transformation
 
 **Topic ID**: 20145

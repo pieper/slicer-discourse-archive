@@ -1,3 +1,10 @@
+---
+topic_id: 7370
+title: "Determine Performance Metrics"
+date: 2019-07-01
+url: https://discourse.slicer.org/t/7370
+---
+
 # Determine performance metrics
 
 **Topic ID**: 7370

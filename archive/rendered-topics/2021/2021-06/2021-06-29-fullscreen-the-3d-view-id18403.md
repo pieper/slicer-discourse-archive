@@ -1,3 +1,10 @@
+---
+topic_id: 18403
+title: "Fullscreen The 3D View"
+date: 2021-06-29
+url: https://discourse.slicer.org/t/18403
+---
+
 # Fullscreen the 3D view
 
 **Topic ID**: 18403

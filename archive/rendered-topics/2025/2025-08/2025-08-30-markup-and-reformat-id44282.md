@@ -1,3 +1,10 @@
+---
+topic_id: 44282
+title: "Markup And Reformat"
+date: 2025-08-30
+url: https://discourse.slicer.org/t/44282
+---
+
 # Markup and Reformat
 
 **Topic ID**: 44282

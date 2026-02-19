@@ -1,3 +1,10 @@
+---
+topic_id: 43808
+title: "Patch Analysis In Slicermorph"
+date: 2025-07-22
+url: https://discourse.slicer.org/t/43808
+---
+
 # Patch Analysis in SlicerMorph
 
 **Topic ID**: 43808

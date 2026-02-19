@@ -1,3 +1,10 @@
+---
+topic_id: 20084
+title: "Some Regions Of Loaded Ct Data Are Not Showing In 3D Slicer"
+date: 2021-10-09
+url: https://discourse.slicer.org/t/20084
+---
+
 # Some regions of loaded CT data are not showing in 3d slicer
 
 **Topic ID**: 20084

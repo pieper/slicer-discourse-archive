@@ -1,3 +1,10 @@
+---
+topic_id: 7387
+title: "Abdominal Ct Registration Using Elastix"
+date: 2019-07-02
+url: https://discourse.slicer.org/t/7387
+---
+
 # Abdominal CT registration using Elastix
 
 **Topic ID**: 7387

@@ -1,3 +1,10 @@
+---
+topic_id: 35115
+title: "Converting An Roi To A Binary Mask"
+date: 2024-03-27
+url: https://discourse.slicer.org/t/35115
+---
+
 # Converting an ROI to a binary mask
 
 **Topic ID**: 35115

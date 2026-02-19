@@ -1,3 +1,10 @@
+---
+topic_id: 17282
+title: "Fiducial Awol Under 2D View But Not 3D"
+date: 2021-04-23
+url: https://discourse.slicer.org/t/17282
+---
+
 # Fiducial awol under 2D view but not 3D
 
 **Topic ID**: 17282

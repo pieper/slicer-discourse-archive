@@ -1,3 +1,10 @@
+---
+topic_id: 263
+title: "New Release Nightlies Stability"
+date: 2017-05-04
+url: https://discourse.slicer.org/t/263
+---
+
 # New release / Nightlies stability
 
 **Topic ID**: 263

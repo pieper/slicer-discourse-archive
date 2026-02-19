@@ -1,3 +1,10 @@
+---
+topic_id: 9770
+title: "How To Launcher Slicer With On Desktop On Ubuntu Command Lin"
+date: 2020-01-10
+url: https://discourse.slicer.org/t/9770
+---
+
 # How to launcher Slicer with on desktop on Ubuntu command line?
 
 **Topic ID**: 9770

@@ -1,3 +1,10 @@
+---
+topic_id: 4918
+title: "Issues With Downloading Slicer Heart On 3D Slicer"
+date: 2018-11-30
+url: https://discourse.slicer.org/t/4918
+---
+
 # Issues with downloading slicer heart on 3D slicer
 
 **Topic ID**: 4918

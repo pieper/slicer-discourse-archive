@@ -1,3 +1,10 @@
+---
+topic_id: 7330
+title: "Interpolation Between Slices"
+date: 2019-06-27
+url: https://discourse.slicer.org/t/7330
+---
+
 # Interpolation Between Slices
 
 **Topic ID**: 7330

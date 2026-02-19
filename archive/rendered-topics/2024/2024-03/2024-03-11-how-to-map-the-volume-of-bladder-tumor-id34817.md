@@ -1,3 +1,10 @@
+---
+topic_id: 34817
+title: "How To Map The Volume Of Bladder Tumor"
+date: 2024-03-11
+url: https://discourse.slicer.org/t/34817
+---
+
 # How to map the volume of bladder tumor
 
 **Topic ID**: 34817

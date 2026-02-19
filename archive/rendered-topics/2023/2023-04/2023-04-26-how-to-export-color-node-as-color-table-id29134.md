@@ -1,3 +1,10 @@
+---
+topic_id: 29134
+title: "How To Export Color Node As Color Table"
+date: 2023-04-26
+url: https://discourse.slicer.org/t/29134
+---
+
 # How to export color node as color table
 
 **Topic ID**: 29134

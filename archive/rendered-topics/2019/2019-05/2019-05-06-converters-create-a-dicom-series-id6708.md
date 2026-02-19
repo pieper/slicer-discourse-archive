@@ -1,3 +1,10 @@
+---
+topic_id: 6708
+title: "Converters Create A Dicom Series"
+date: 2019-05-06
+url: https://discourse.slicer.org/t/6708
+---
+
 # Converters -> Create a DICOM Series
 
 **Topic ID**: 6708

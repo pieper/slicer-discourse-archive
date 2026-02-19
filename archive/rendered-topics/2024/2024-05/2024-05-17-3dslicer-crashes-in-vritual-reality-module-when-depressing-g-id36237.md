@@ -1,3 +1,10 @@
+---
+topic_id: 36237
+title: "3Dslicer Crashes In Vritual Reality Module When Depressing G"
+date: 2024-05-17
+url: https://discourse.slicer.org/t/36237
+---
+
 # 3DSlicer crashes in Vritual Reality module when depressing grip buttons on both controllers
 
 **Topic ID**: 36237

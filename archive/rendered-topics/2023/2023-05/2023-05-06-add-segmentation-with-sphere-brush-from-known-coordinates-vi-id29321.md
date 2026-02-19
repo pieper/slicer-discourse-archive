@@ -1,3 +1,10 @@
+---
+topic_id: 29321
+title: "Add Segmentation With Sphere Brush From Known Coordinates Vi"
+date: 2023-05-06
+url: https://discourse.slicer.org/t/29321
+---
+
 # Add segmentation with sphere brush from known coordinates via scripts
 
 **Topic ID**: 29321

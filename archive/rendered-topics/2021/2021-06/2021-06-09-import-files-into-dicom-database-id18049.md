@@ -1,3 +1,10 @@
+---
+topic_id: 18049
+title: "Import Files Into Dicom Database"
+date: 2021-06-09
+url: https://discourse.slicer.org/t/18049
+---
+
 # Import files into DICOM database
 
 **Topic ID**: 18049

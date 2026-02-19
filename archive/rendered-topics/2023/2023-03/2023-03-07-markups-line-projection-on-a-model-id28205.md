@@ -1,3 +1,10 @@
+---
+topic_id: 28205
+title: "Markups Line Projection On A Model"
+date: 2023-03-07
+url: https://discourse.slicer.org/t/28205
+---
+
 # Markups line projection on a model
 
 **Topic ID**: 28205

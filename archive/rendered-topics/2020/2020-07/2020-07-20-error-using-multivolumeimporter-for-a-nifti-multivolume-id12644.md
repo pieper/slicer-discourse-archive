@@ -1,3 +1,10 @@
+---
+topic_id: 12644
+title: "Error Using Multivolumeimporter For A Nifti Multivolume"
+date: 2020-07-20
+url: https://discourse.slicer.org/t/12644
+---
+
 # Error using MultiVolumeImporter for a nifti multivolume
 
 **Topic ID**: 12644

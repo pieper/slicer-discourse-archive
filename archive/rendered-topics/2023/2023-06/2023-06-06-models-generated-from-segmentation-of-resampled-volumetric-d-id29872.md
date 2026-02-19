@@ -1,3 +1,10 @@
+---
+topic_id: 29872
+title: "Models Generated From Segmentation Of Resampled Volumetric D"
+date: 2023-06-06
+url: https://discourse.slicer.org/t/29872
+---
+
 # Models generated from segmentation of "resampled" volumetric data do not seem to inherit the parent data's transform
 
 **Topic ID**: 29872

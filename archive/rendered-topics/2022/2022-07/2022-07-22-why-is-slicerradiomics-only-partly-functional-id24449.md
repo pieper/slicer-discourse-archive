@@ -1,3 +1,10 @@
+---
+topic_id: 24449
+title: "Why Is Slicerradiomics Only Partly Functional"
+date: 2022-07-22
+url: https://discourse.slicer.org/t/24449
+---
+
 # Why is SlicerRadiomics only partly functional?
 
 **Topic ID**: 24449

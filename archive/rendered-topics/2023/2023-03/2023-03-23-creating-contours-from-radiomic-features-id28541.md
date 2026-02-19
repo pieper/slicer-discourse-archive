@@ -1,3 +1,10 @@
+---
+topic_id: 28541
+title: "Creating Contours From Radiomic Features"
+date: 2023-03-23
+url: https://discourse.slicer.org/t/28541
+---
+
 # Creating contours from radiomic features
 
 **Topic ID**: 28541

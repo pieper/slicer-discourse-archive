@@ -1,3 +1,10 @@
+---
+topic_id: 29144
+title: "How To Change Placeholder Text In Ctkcheckablecombobox"
+date: 2023-04-26
+url: https://discourse.slicer.org/t/29144
+---
+
 # How to change placeholder text in ctkCheckableComboBox
 
 **Topic ID**: 29144

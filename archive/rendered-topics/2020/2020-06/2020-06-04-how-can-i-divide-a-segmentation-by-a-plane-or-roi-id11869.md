@@ -1,3 +1,10 @@
+---
+topic_id: 11869
+title: "How Can I Divide A Segmentation By A Plane Or Roi"
+date: 2020-06-04
+url: https://discourse.slicer.org/t/11869
+---
+
 # How can I divide a segmentation by a plane or ROI?
 
 **Topic ID**: 11869

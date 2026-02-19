@@ -1,3 +1,10 @@
+---
+topic_id: 26007
+title: "Flip Normal Primitive"
+date: 2022-11-01
+url: https://discourse.slicer.org/t/26007
+---
+
 # Flip normal / primitive
 
 **Topic ID**: 26007

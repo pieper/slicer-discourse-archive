@@ -1,3 +1,10 @@
+---
+topic_id: 28572
+title: "How To Get Axes Vtp"
+date: 2023-03-25
+url: https://discourse.slicer.org/t/28572
+---
+
 # How to get 'Axes.vtp'?
 
 **Topic ID**: 28572

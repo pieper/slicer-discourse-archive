@@ -1,3 +1,10 @@
+---
+topic_id: 31483
+title: "Click On Segment In 3D View"
+date: 2023-08-31
+url: https://discourse.slicer.org/t/31483
+---
+
 # Click on Segment in 3D View
 
 **Topic ID**: 31483

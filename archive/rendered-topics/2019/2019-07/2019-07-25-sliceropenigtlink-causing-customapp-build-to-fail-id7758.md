@@ -1,3 +1,10 @@
+---
+topic_id: 7758
+title: "Sliceropenigtlink Causing Customapp Build To Fail"
+date: 2019-07-25
+url: https://discourse.slicer.org/t/7758
+---
+
 # SlicerOpenIGTLink causing CustomApp build to fail
 
 **Topic ID**: 7758

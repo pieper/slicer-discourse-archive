@@ -1,3 +1,10 @@
+---
+topic_id: 29925
+title: "How To Edit The Segmentation Masks Generated After Sequence"
+date: 2023-06-08
+url: https://discourse.slicer.org/t/29925
+---
+
 # How to edit the segmentation masks generated after sequence registration
 
 **Topic ID**: 29925

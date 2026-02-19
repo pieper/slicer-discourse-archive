@@ -1,3 +1,10 @@
+---
+topic_id: 8602
+title: "Detailed Threshold And Smoothing Documentation"
+date: 2019-09-27
+url: https://discourse.slicer.org/t/8602
+---
+
 # detailed threshold and smoothing documentation
 
 **Topic ID**: 8602

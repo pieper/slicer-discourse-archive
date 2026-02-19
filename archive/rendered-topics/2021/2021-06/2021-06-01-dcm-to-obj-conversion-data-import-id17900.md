@@ -1,3 +1,10 @@
+---
+topic_id: 17900
+title: "Dcm To Obj Conversion Data Import"
+date: 2021-06-01
+url: https://discourse.slicer.org/t/17900
+---
+
 # .dcm to .obj conversion - data import
 
 **Topic ID**: 17900

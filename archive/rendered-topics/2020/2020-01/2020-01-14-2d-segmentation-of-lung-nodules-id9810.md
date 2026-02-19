@@ -1,3 +1,10 @@
+---
+topic_id: 9810
+title: "2D Segmentation Of Lung Nodules"
+date: 2020-01-14
+url: https://discourse.slicer.org/t/9810
+---
+
 # 2D Segmentation of lung nodules
 
 **Topic ID**: 9810

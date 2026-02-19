@@ -1,3 +1,10 @@
+---
+topic_id: 26950
+title: "Stl Extraction From Ct Scans"
+date: 2022-12-27
+url: https://discourse.slicer.org/t/26950
+---
+
 # STL Extraction from CT scans
 
 **Topic ID**: 26950

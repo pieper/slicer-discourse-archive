@@ -1,3 +1,10 @@
+---
+topic_id: 23393
+title: "Wrong Openssl Include Dir During Slicercat Build On Windows"
+date: 2022-05-12
+url: https://discourse.slicer.org/t/23393
+---
+
 # Wrong OPENSSL_INCLUDE_DIR during SlicerCAT build on WIndows
 
 **Topic ID**: 23393

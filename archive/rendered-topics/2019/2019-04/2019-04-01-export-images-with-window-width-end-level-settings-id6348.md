@@ -1,3 +1,10 @@
+---
+topic_id: 6348
+title: "Export Images With Window Width End Level Settings"
+date: 2019-04-01
+url: https://discourse.slicer.org/t/6348
+---
+
 # Export images with window width end level settings
 
 **Topic ID**: 6348

@@ -1,3 +1,10 @@
+---
+topic_id: 8679
+title: "Create A Vtkmrmlmodelnode From A Polydata"
+date: 2019-10-05
+url: https://discourse.slicer.org/t/8679
+---
+
 # Create a vtkMRMLModelNode from a polyData
 
 **Topic ID**: 8679

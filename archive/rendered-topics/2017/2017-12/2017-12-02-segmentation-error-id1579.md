@@ -1,3 +1,10 @@
+---
+topic_id: 1579
+title: "Segmentation Error"
+date: 2017-12-02
+url: https://discourse.slicer.org/t/1579
+---
+
 # Segmentation error
 
 **Topic ID**: 1579

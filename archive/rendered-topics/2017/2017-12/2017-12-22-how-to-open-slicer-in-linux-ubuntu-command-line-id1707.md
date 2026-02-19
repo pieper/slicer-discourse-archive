@@ -1,3 +1,10 @@
+---
+topic_id: 1707
+title: "How To Open Slicer In Linux Ubuntu Command Line"
+date: 2017-12-22
+url: https://discourse.slicer.org/t/1707
+---
+
 # how to open slicer in linux ubuntu command line
 
 **Topic ID**: 1707

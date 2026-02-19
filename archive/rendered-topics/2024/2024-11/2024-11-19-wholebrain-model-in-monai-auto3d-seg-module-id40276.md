@@ -1,3 +1,10 @@
+---
+topic_id: 40276
+title: "Wholebrain Model In Monai Auto3D Seg Module"
+date: 2024-11-19
+url: https://discourse.slicer.org/t/40276
+---
+
 # WholeBrain Model in MONAI Auto3D Seg Module
 
 **Topic ID**: 40276

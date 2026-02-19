@@ -1,3 +1,10 @@
+---
+topic_id: 34851
+title: "Is There Any Demo For Plug In Development Based On 3Dslicer"
+date: 2024-03-12
+url: https://discourse.slicer.org/t/34851
+---
+
 # Is there any demo for plug-in development based on 3dslicer?
 
 **Topic ID**: 34851

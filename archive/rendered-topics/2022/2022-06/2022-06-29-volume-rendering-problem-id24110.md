@@ -1,3 +1,10 @@
+---
+topic_id: 24110
+title: "Volume Rendering Problem"
+date: 2022-06-29
+url: https://discourse.slicer.org/t/24110
+---
+
 # Volume Rendering Problem
 
 **Topic ID**: 24110

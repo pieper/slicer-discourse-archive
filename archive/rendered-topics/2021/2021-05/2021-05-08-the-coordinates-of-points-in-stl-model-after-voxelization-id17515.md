@@ -1,3 +1,10 @@
+---
+topic_id: 17515
+title: "The Coordinates Of Points In Stl Model After Voxelization"
+date: 2021-05-08
+url: https://discourse.slicer.org/t/17515
+---
+
 # The coordinates of points in stl model after voxelization
 
 **Topic ID**: 17515

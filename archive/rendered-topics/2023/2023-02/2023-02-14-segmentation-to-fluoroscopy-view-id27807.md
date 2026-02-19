@@ -1,3 +1,10 @@
+---
+topic_id: 27807
+title: "Segmentation To Fluoroscopy View"
+date: 2023-02-14
+url: https://discourse.slicer.org/t/27807
+---
+
 # Segmentation to Fluoroscopy View
 
 **Topic ID**: 27807

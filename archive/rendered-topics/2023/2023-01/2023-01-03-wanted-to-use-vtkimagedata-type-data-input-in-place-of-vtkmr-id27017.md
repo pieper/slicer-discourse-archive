@@ -1,3 +1,10 @@
+---
+topic_id: 27017
+title: "Wanted To Use Vtkimagedata Type Data Input In Place Of Vtkmr"
+date: 2023-01-03
+url: https://discourse.slicer.org/t/27017
+---
+
 # Wanted to use vtkImageData type data input, in place of vtkMRMLScalarVolumeNode/vtkMRMLSegmentationNode type input in lungCt analyzer code
 
 **Topic ID**: 27017

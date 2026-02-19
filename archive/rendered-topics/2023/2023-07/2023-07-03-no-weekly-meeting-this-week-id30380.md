@@ -1,3 +1,10 @@
+---
+topic_id: 30380
+title: "No Weekly Meeting This Week"
+date: 2023-07-03
+url: https://discourse.slicer.org/t/30380
+---
+
 # No weekly meeting this week
 
 **Topic ID**: 30380

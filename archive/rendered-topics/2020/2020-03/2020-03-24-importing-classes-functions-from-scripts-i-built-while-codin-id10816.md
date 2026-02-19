@@ -1,3 +1,10 @@
+---
+topic_id: 10816
+title: "Importing Classes Functions From Scripts I Built While Codin"
+date: 2020-03-24
+url: https://discourse.slicer.org/t/10816
+---
+
 # Importing classes/functions from scripts I built while coding a new module crashes it 
 
 **Topic ID**: 10816

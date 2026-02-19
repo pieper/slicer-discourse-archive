@@ -1,3 +1,10 @@
+---
+topic_id: 27200
+title: "Trying To Writing A Module For Cross Sectional Image Reconst"
+date: 2023-01-12
+url: https://discourse.slicer.org/t/27200
+---
+
 # Trying to writing a module for cross-sectional image reconstruction
 
 **Topic ID**: 27200

@@ -1,3 +1,10 @@
+---
+topic_id: 2373
+title: "Objexporter Issue"
+date: 2018-03-20
+url: https://discourse.slicer.org/t/2373
+---
+
 # ObjExporter issue
 
 **Topic ID**: 2373

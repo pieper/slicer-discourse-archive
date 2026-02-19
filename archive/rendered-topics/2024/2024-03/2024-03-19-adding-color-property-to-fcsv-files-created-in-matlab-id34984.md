@@ -1,3 +1,10 @@
+---
+topic_id: 34984
+title: "Adding Color Property To Fcsv Files Created In Matlab"
+date: 2024-03-19
+url: https://discourse.slicer.org/t/34984
+---
+
 # Adding color property to fcsv files created in matlab
 
 **Topic ID**: 34984

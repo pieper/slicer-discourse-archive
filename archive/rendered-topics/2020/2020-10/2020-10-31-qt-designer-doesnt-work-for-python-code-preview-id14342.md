@@ -1,3 +1,10 @@
+---
+topic_id: 14342
+title: "Qt Designer Doesnt Work For Python Code Preview"
+date: 2020-10-31
+url: https://discourse.slicer.org/t/14342
+---
+
 # Qt Designer doesn't work for Python code preview
 
 **Topic ID**: 14342

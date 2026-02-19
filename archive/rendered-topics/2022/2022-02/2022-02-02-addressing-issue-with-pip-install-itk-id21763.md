@@ -1,3 +1,10 @@
+---
+topic_id: 21763
+title: "Addressing Issue With Pip Install Itk"
+date: 2022-02-02
+url: https://discourse.slicer.org/t/21763
+---
+
 # Addressing issue with "pip install itk"
 
 **Topic ID**: 21763

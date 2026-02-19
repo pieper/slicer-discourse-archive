@@ -1,3 +1,10 @@
+---
+topic_id: 2415
+title: "Slicer Extension Index Update Procedure"
+date: 2018-03-24
+url: https://discourse.slicer.org/t/2415
+---
+
 # Slicer extension index update procedure
 
 **Topic ID**: 2415

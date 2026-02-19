@@ -1,3 +1,10 @@
+---
+topic_id: 29084
+title: "Covariate Significance Testing Shape For P Value"
+date: 2023-04-24
+url: https://discourse.slicer.org/t/29084
+---
+
 # Covariate Significance Testing - shape for p-value?
 
 **Topic ID**: 29084

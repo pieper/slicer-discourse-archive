@@ -1,3 +1,10 @@
+---
+topic_id: 42743
+title: "Modify The Label From Markupsnode"
+date: 2025-04-30
+url: https://discourse.slicer.org/t/42743
+---
+
 # Modify the Label from markupsNode
 
 **Topic ID**: 42743

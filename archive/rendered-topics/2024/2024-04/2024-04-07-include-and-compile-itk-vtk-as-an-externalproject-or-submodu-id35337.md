@@ -1,3 +1,10 @@
+---
+topic_id: 35337
+title: "Include And Compile Itk Vtk As An Externalproject Or Submodu"
+date: 2024-04-07
+url: https://discourse.slicer.org/t/35337
+---
+
 # Include and compile itk, vtk as an ExternalProject or Submodule
 
 **Topic ID**: 35337

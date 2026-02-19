@@ -1,3 +1,10 @@
+---
+topic_id: 1531
+title: "Nightly Binaries Qt5 Vtk9"
+date: 2017-11-27
+url: https://discourse.slicer.org/t/1531
+---
+
 # Nightly binaries Qt5/VTK9?
 
 **Topic ID**: 1531

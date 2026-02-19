@@ -1,3 +1,10 @@
+---
+topic_id: 32492
+title: "Failed To Get Totalsegmentator Package Version On Macos"
+date: 2023-10-30
+url: https://discourse.slicer.org/t/32492
+---
+
 # Failed to get TotalSegmentator package version on macOS
 
 **Topic ID**: 32492

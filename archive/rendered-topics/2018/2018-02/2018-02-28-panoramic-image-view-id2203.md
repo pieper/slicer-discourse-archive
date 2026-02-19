@@ -1,3 +1,10 @@
+---
+topic_id: 2203
+title: "Panoramic Image View"
+date: 2018-02-28
+url: https://discourse.slicer.org/t/2203
+---
+
 # Panoramic image/view
 
 **Topic ID**: 2203

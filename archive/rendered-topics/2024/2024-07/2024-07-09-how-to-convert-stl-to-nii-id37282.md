@@ -1,3 +1,10 @@
+---
+topic_id: 37282
+title: "How To Convert Stl To Nii"
+date: 2024-07-09
+url: https://discourse.slicer.org/t/37282
+---
+
 # How to convert stl to nii
 
 **Topic ID**: 37282

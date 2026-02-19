@@ -1,3 +1,10 @@
+---
+topic_id: 4786
+title: "Error With Dscmrianalysis Extension"
+date: 2018-11-18
+url: https://discourse.slicer.org/t/4786
+---
+
 # Error with DSCMRIanalysis extension
 
 **Topic ID**: 4786

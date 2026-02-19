@@ -1,3 +1,10 @@
+---
+topic_id: 40172
+title: "Trouble With Createsemilmpatches"
+date: 2024-11-13
+url: https://discourse.slicer.org/t/40172
+---
+
 # Trouble with CreateSemiLMPatches 
 
 **Topic ID**: 40172

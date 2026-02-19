@@ -1,3 +1,10 @@
+---
+topic_id: 9941
+title: "How To Set Editable Intensity Range For Individual Segmentat"
+date: 2020-01-25
+url: https://discourse.slicer.org/t/9941
+---
+
 # How to set editable intensity range for individual segmentation components (each individual segment)
 
 **Topic ID**: 9941

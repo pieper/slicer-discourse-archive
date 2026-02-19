@@ -1,3 +1,10 @@
+---
+topic_id: 33457
+title: "What The Loading Order Of Scripted Modules"
+date: 2023-12-19
+url: https://discourse.slicer.org/t/33457
+---
+
 # What the loading order of scripted modules
 
 **Topic ID**: 33457

@@ -1,3 +1,10 @@
+---
+topic_id: 32975
+title: "Issues With Loading Must Segmenter Module In 3Dslicer"
+date: 2023-11-23
+url: https://discourse.slicer.org/t/32975
+---
+
 # Issues with Loading MUST-Segmenter Module in 3DSlicer
 
 **Topic ID**: 32975

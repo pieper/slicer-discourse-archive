@@ -1,3 +1,10 @@
+---
+topic_id: 32123
+title: "Cant Load Dicom Data Properly Loads Very Small In Corner"
+date: 2023-10-09
+url: https://discourse.slicer.org/t/32123
+---
+
 # Cant load dicom data properly, loads very small in corner
 
 **Topic ID**: 32123

@@ -1,3 +1,10 @@
+---
+topic_id: 4357
+title: "Choosing A Infrared Hardware Option For Navigation"
+date: 2018-10-11
+url: https://discourse.slicer.org/t/4357
+---
+
 # Choosing a infrared hardware option for navigation
 
 **Topic ID**: 4357

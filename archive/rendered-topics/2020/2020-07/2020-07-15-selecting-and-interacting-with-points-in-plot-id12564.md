@@ -1,3 +1,10 @@
+---
+topic_id: 12564
+title: "Selecting And Interacting With Points In Plot"
+date: 2020-07-15
+url: https://discourse.slicer.org/t/12564
+---
+
 # Selecting and interacting with points in plot
 
 **Topic ID**: 12564

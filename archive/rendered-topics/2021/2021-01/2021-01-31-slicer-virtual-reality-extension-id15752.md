@@ -1,3 +1,10 @@
+---
+topic_id: 15752
+title: "Slicer Virtual Reality Extension"
+date: 2021-01-31
+url: https://discourse.slicer.org/t/15752
+---
+
 # Slicer Virtual Reality extension
 
 **Topic ID**: 15752

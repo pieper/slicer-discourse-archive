@@ -1,3 +1,10 @@
+---
+topic_id: 20023
+title: "Python Planar Contours To Closed Surface"
+date: 2021-10-05
+url: https://discourse.slicer.org/t/20023
+---
+
 # Python Planar Contours to Closed Surface
 
 **Topic ID**: 20023

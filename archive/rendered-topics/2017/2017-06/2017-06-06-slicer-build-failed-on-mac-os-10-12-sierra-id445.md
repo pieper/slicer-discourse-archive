@@ -1,3 +1,10 @@
+---
+topic_id: 445
+title: "Slicer Build Failed On Mac Os 10 12 Sierra"
+date: 2017-06-06
+url: https://discourse.slicer.org/t/445
+---
+
 # Slicer build failed on Mac OS 10.12 Sierra
 
 **Topic ID**: 445

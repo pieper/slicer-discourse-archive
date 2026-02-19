@@ -1,3 +1,10 @@
+---
+topic_id: 34529
+title: "Obj File Segmentation"
+date: 2024-02-25
+url: https://discourse.slicer.org/t/34529
+---
+
 # Obj file segmentation
 
 **Topic ID**: 34529

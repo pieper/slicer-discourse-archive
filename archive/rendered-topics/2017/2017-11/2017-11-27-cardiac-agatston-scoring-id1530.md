@@ -1,3 +1,10 @@
+---
+topic_id: 1530
+title: "Cardiac Agatston Scoring"
+date: 2017-11-27
+url: https://discourse.slicer.org/t/1530
+---
+
 # Cardiac agatston scoring
 
 **Topic ID**: 1530

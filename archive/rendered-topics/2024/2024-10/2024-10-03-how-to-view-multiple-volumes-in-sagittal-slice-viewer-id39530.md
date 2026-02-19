@@ -1,3 +1,10 @@
+---
+topic_id: 39530
+title: "How To View Multiple Volumes In Sagittal Slice Viewer"
+date: 2024-10-03
+url: https://discourse.slicer.org/t/39530
+---
+
 # How to view multiple volumes in sagittal slice viewer
 
 **Topic ID**: 39530

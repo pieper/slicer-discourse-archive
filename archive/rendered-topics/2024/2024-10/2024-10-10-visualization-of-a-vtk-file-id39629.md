@@ -1,3 +1,10 @@
+---
+topic_id: 39629
+title: "Visualization Of A Vtk File"
+date: 2024-10-10
+url: https://discourse.slicer.org/t/39629
+---
+
 # Visualization of a vtk file
 
 **Topic ID**: 39629

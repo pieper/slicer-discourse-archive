@@ -1,3 +1,10 @@
+---
+topic_id: 23441
+title: "Extracting Coordinates Of Muscle Segmented On All Slices Fro"
+date: 2022-05-16
+url: https://discourse.slicer.org/t/23441
+---
+
 # Extracting coordinates of muscle segmented on all slices from MRI scans
 
 **Topic ID**: 23441

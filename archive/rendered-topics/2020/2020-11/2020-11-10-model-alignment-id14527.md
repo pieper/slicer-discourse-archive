@@ -1,3 +1,10 @@
+---
+topic_id: 14527
+title: "Model Alignment"
+date: 2020-11-10
+url: https://discourse.slicer.org/t/14527
+---
+
 # Model alignment 
 
 **Topic ID**: 14527

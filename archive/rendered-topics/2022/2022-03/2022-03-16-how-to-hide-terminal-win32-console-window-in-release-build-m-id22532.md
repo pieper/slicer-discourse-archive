@@ -1,3 +1,10 @@
+---
+topic_id: 22532
+title: "How To Hide Terminal Win32 Console Window In Release Build M"
+date: 2022-03-16
+url: https://discourse.slicer.org/t/22532
+---
+
 # How to hide terminal(WIN32_CONSOLE) window in release build mode?
 
 **Topic ID**: 22532

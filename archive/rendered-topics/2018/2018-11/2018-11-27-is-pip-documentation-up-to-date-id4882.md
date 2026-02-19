@@ -1,3 +1,10 @@
+---
+topic_id: 4882
+title: "Is Pip Documentation Up To Date"
+date: 2018-11-27
+url: https://discourse.slicer.org/t/4882
+---
+
 # Is pip documentation up to date
 
 **Topic ID**: 4882

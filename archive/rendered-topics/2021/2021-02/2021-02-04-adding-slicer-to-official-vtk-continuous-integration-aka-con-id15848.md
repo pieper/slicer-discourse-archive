@@ -1,3 +1,10 @@
+---
+topic_id: 15848
+title: "Adding Slicer To Official Vtk Continuous Integration Aka Con"
+date: 2021-02-04
+url: https://discourse.slicer.org/t/15848
+---
+
 # Adding Slicer to official VTK Continuous Integration aka "Contract Testing"
 
 **Topic ID**: 15848

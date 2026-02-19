@@ -1,3 +1,10 @@
+---
+topic_id: 29386
+title: "Markups Jump Slices Feature Changed In Slicer 5 2 2"
+date: 2023-05-10
+url: https://discourse.slicer.org/t/29386
+---
+
 # Markups "jump slices" feature changed in Slicer-5.2.2
 
 **Topic ID**: 29386

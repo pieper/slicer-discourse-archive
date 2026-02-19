@@ -1,3 +1,10 @@
+---
+topic_id: 2524
+title: "Minc2 Reader And Ras Coordinate System"
+date: 2018-04-05
+url: https://discourse.slicer.org/t/2524
+---
+
 # MINC2 Reader and RAS coordinate system
 
 **Topic ID**: 2524

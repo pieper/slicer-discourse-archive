@@ -1,3 +1,10 @@
+---
+topic_id: 23187
+title: "Release Of Slicer 5 0 In Progress Regular Builds Are Disable"
+date: 2022-04-28
+url: https://discourse.slicer.org/t/23187
+---
+
 # Release of Slicer 5.0 in progress: Regular builds are disabled
 
 **Topic ID**: 23187

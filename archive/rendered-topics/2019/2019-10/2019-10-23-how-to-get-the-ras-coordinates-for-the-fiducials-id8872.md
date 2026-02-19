@@ -1,3 +1,10 @@
+---
+topic_id: 8872
+title: "How To Get The Ras Coordinates For The Fiducials"
+date: 2019-10-23
+url: https://discourse.slicer.org/t/8872
+---
+
 # How to get the RAS coordinates for the fiducials
 
 **Topic ID**: 8872

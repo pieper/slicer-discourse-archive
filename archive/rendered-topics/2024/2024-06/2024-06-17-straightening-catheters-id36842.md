@@ -1,3 +1,10 @@
+---
+topic_id: 36842
+title: "Straightening Catheters"
+date: 2024-06-17
+url: https://discourse.slicer.org/t/36842
+---
+
 # Straightening Catheters
 
 **Topic ID**: 36842

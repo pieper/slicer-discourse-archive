@@ -1,3 +1,10 @@
+---
+topic_id: 14046
+title: "Volume Representation Without Noise And Garbage"
+date: 2020-10-14
+url: https://discourse.slicer.org/t/14046
+---
+
 # Volume representation without noise and garbage
 
 **Topic ID**: 14046

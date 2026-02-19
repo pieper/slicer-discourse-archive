@@ -1,3 +1,10 @@
+---
+topic_id: 24183
+title: "A Problem Of Showing Up The Segmentation When Loading"
+date: 2022-07-05
+url: https://discourse.slicer.org/t/24183
+---
+
 # A problem of showing up the segmentation when loading
 
 **Topic ID**: 24183

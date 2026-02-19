@@ -1,3 +1,10 @@
+---
+topic_id: 44976
+title: "Can You Set Scissor To A Specific Size"
+date: 2025-11-06
+url: https://discourse.slicer.org/t/44976
+---
+
 # Can you set scissor to a specific size?
 
 **Topic ID**: 44976

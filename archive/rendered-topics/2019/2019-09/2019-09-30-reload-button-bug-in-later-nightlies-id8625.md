@@ -1,3 +1,10 @@
+---
+topic_id: 8625
+title: "Reload Button Bug In Later Nightlies"
+date: 2019-09-30
+url: https://discourse.slicer.org/t/8625
+---
+
 # Reload button bug in later nightlies
 
 **Topic ID**: 8625

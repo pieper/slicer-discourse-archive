@@ -1,3 +1,10 @@
+---
+topic_id: 43751
+title: "Seeking Tips For Slicer Python Autocompletion And Debugging"
+date: 2025-07-17
+url: https://discourse.slicer.org/t/43751
+---
+
 # Seeking Tips for Slicer Python Autocompletion and Debugging in VS Code
 
 **Topic ID**: 43751

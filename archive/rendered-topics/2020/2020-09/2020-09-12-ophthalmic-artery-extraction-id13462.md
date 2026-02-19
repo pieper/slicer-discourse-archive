@@ -1,3 +1,10 @@
+---
+topic_id: 13462
+title: "Ophthalmic Artery Extraction"
+date: 2020-09-12
+url: https://discourse.slicer.org/t/13462
+---
+
 # ophthalmic artery extraction
 
 **Topic ID**: 13462

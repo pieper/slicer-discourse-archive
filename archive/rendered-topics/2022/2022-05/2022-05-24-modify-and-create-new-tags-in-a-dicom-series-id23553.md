@@ -1,3 +1,10 @@
+---
+topic_id: 23553
+title: "Modify And Create New Tags In A Dicom Series"
+date: 2022-05-24
+url: https://discourse.slicer.org/t/23553
+---
+
 # Modify and create new Tags in a dicom series
 
 **Topic ID**: 23553

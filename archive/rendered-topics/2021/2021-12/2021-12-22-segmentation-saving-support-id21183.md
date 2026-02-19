@@ -1,3 +1,10 @@
+---
+topic_id: 21183
+title: "Segmentation Saving Support"
+date: 2021-12-22
+url: https://discourse.slicer.org/t/21183
+---
+
 # Segmentation saving support
 
 **Topic ID**: 21183

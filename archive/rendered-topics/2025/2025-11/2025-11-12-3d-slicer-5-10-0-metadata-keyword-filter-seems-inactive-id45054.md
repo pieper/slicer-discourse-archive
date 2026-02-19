@@ -1,3 +1,10 @@
+---
+topic_id: 45054
+title: "3D Slicer 5 10 0 Metadata Keyword Filter Seems Inactive"
+date: 2025-11-12
+url: https://discourse.slicer.org/t/45054
+---
+
 # 3D Slicer 5.10.0: Metadata keyword filter seems inactive
 
 **Topic ID**: 45054

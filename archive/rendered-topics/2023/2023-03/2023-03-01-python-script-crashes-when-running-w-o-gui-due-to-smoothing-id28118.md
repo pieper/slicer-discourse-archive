@@ -1,3 +1,10 @@
+---
+topic_id: 28118
+title: "Python Script Crashes When Running W O Gui Due To Smoothing"
+date: 2023-03-01
+url: https://discourse.slicer.org/t/28118
+---
+
 # Python script crashes when running w/o GUI due to smoothing effect
 
 **Topic ID**: 28118

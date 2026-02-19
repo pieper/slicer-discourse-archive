@@ -1,3 +1,10 @@
+---
+topic_id: 20272
+title: "Difference Between Unselected Control Point And Skipped Cont"
+date: 2021-10-20
+url: https://discourse.slicer.org/t/20272
+---
+
 # Difference between unselected control point and skipped control point
 
 **Topic ID**: 20272

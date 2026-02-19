@@ -1,3 +1,10 @@
+---
+topic_id: 7952
+title: "Can I Display A Binary Numpy Array On Slicer As A Segmentati"
+date: 2019-08-08
+url: https://discourse.slicer.org/t/7952
+---
+
 # Can I display a binary numpy array on Slicer as a segmentation volume?
 
 **Topic ID**: 7952

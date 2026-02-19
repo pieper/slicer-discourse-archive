@@ -1,3 +1,10 @@
+---
+topic_id: 7347
+title: "Problem Loading Us Data"
+date: 2019-06-28
+url: https://discourse.slicer.org/t/7347
+---
+
 # Problem loading US data
 
 **Topic ID**: 7347

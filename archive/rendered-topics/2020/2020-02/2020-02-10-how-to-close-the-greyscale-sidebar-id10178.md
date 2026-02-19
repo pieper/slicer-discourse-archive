@@ -1,3 +1,10 @@
+---
+topic_id: 10178
+title: "How To Close The Greyscale Sidebar"
+date: 2020-02-10
+url: https://discourse.slicer.org/t/10178
+---
+
 # How to close the greyscale sidebar
 
 **Topic ID**: 10178

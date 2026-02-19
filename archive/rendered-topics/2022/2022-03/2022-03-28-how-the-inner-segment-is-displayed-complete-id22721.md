@@ -1,3 +1,10 @@
+---
+topic_id: 22721
+title: "How The Inner Segment Is Displayed Complete"
+date: 2022-03-28
+url: https://discourse.slicer.org/t/22721
+---
+
 # How the inner segment is displayed complete
 
 **Topic ID**: 22721

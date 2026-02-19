@@ -1,3 +1,10 @@
+---
+topic_id: 12731
+title: "Metal Artefact Reduction On Ct"
+date: 2020-07-25
+url: https://discourse.slicer.org/t/12731
+---
+
 # Metal artefact reduction on CT
 
 **Topic ID**: 12731

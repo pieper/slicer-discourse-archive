@@ -1,3 +1,10 @@
+---
+topic_id: 23174
+title: "Slicer Custom Building Msb8066 Error"
+date: 2022-04-28
+url: https://discourse.slicer.org/t/23174
+---
+
 # Slicer custom building MSB8066 Error
 
 **Topic ID**: 23174

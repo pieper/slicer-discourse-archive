@@ -1,3 +1,10 @@
+---
+topic_id: 2028
+title: "Configuring Vtkmrmlslicenode"
+date: 2018-02-05
+url: https://discourse.slicer.org/t/2028
+---
+
 # Configuring vtkMRMLSliceNode
 
 **Topic ID**: 2028

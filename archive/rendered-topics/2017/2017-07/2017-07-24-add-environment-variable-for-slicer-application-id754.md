@@ -1,3 +1,10 @@
+---
+topic_id: 754
+title: "Add Environment Variable For Slicer Application"
+date: 2017-07-24
+url: https://discourse.slicer.org/t/754
+---
+
 # Add environment variable for Slicer application
 
 **Topic ID**: 754

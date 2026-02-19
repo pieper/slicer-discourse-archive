@@ -1,3 +1,10 @@
+---
+topic_id: 30406
+title: "How To Create Shadows Of The Segments"
+date: 2023-07-05
+url: https://discourse.slicer.org/t/30406
+---
+
 # How to Create shadows of the segments?
 
 **Topic ID**: 30406

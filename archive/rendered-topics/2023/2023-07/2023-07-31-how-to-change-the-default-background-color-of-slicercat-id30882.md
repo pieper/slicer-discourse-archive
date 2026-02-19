@@ -1,3 +1,10 @@
+---
+topic_id: 30882
+title: "How To Change The Default Background Color Of Slicercat"
+date: 2023-07-31
+url: https://discourse.slicer.org/t/30882
+---
+
 # How to change the default background color of slicerCAT
 
 **Topic ID**: 30882

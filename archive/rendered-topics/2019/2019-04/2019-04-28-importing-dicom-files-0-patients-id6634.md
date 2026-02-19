@@ -1,3 +1,10 @@
+---
+topic_id: 6634
+title: "Importing Dicom Files 0 Patients"
+date: 2019-04-28
+url: https://discourse.slicer.org/t/6634
+---
+
 # Importing DICOM files- 0 Patients
 
 **Topic ID**: 6634

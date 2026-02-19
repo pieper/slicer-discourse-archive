@@ -1,3 +1,10 @@
+---
+topic_id: 42082
+title: "Seeking Assistance The Download Of The Itk Dependency Cannot"
+date: 2025-03-12
+url: https://discourse.slicer.org/t/42082
+---
+
 # Seeking assistance：the download of the ITK dependency cannot be completed
 
 **Topic ID**: 42082

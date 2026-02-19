@@ -1,3 +1,10 @@
+---
+topic_id: 32374
+title: "Exporting Segments Without The Total Volume Of The Ct Scan"
+date: 2023-10-22
+url: https://discourse.slicer.org/t/32374
+---
+
 # Exporting segments without the total volume of the CT scan
 
 **Topic ID**: 32374

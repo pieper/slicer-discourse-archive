@@ -1,3 +1,10 @@
+---
+topic_id: 17138
+title: "Trouble Loading Open Sound Control Module"
+date: 2021-04-16
+url: https://discourse.slicer.org/t/17138
+---
+
 # Trouble loading Open Sound Control Module
 
 **Topic ID**: 17138

@@ -1,3 +1,10 @@
+---
+topic_id: 6055
+title: "Poll Which Version Of Macos Do You Use To Run Slicer"
+date: 2019-03-07
+url: https://discourse.slicer.org/t/6055
+---
+
 # Poll: Which version of macOS do you use to run Slicer?
 
 **Topic ID**: 6055

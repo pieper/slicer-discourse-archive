@@ -1,3 +1,10 @@
+---
+topic_id: 666
+title: "Model To Model Distance Crashing In Slicercmf4 1"
+date: 2017-07-11
+url: https://discourse.slicer.org/t/666
+---
+
 # Model to Model Distance crashing in SlicerCMF4.1
 
 **Topic ID**: 666

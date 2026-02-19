@@ -1,3 +1,10 @@
+---
+topic_id: 20086
+title: "Modifying Vtkmrmlabstractviewnode Reset Function From Mrmlco"
+date: 2021-10-09
+url: https://discourse.slicer.org/t/20086
+---
+
 # Modifying `vtkMRMLAbstractViewNode::Reset(...)` function from MRMLCore
 
 **Topic ID**: 20086

@@ -1,3 +1,10 @@
+---
+topic_id: 35621
+title: "Vmtk Module How To Calculate The Parameters"
+date: 2024-04-19
+url: https://discourse.slicer.org/t/35621
+---
+
 # VMTK Module - How to calculate the parameters?
 
 **Topic ID**: 35621

@@ -1,3 +1,10 @@
+---
+topic_id: 31520
+title: "Abnormal Segmentation Behavior"
+date: 2023-09-02
+url: https://discourse.slicer.org/t/31520
+---
+
 # Abnormal segmentation behavior
 
 **Topic ID**: 31520

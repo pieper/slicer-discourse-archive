@@ -1,3 +1,10 @@
+---
+topic_id: 30524
+title: "Path Of The Loaded Fiber Bundle"
+date: 2023-07-11
+url: https://discourse.slicer.org/t/30524
+---
+
 # Path of the loaded fiber bundle
 
 **Topic ID**: 30524

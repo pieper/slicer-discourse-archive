@@ -1,3 +1,10 @@
+---
+topic_id: 18542
+title: "Unexpected Behavior Of Color When Using Lut With Color Count"
+date: 2021-07-06
+url: https://discourse.slicer.org/t/18542
+---
+
 # Unexpected behavior of color when using LUT with color count < 255
 
 **Topic ID**: 18542

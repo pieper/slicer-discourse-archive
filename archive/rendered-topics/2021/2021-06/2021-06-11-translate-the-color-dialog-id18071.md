@@ -1,3 +1,10 @@
+---
+topic_id: 18071
+title: "Translate The Color Dialog"
+date: 2021-06-11
+url: https://discourse.slicer.org/t/18071
+---
+
 # Translate the color dialog
 
 **Topic ID**: 18071

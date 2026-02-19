@@ -1,3 +1,10 @@
+---
+topic_id: 20244
+title: "Reloading A Texturized Model Into Slicer With Textures"
+date: 2021-10-19
+url: https://discourse.slicer.org/t/20244
+---
+
 # Reloading a texturized model into Slicer with textures
 
 **Topic ID**: 20244

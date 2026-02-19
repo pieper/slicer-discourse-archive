@@ -1,3 +1,10 @@
+---
+topic_id: 20472
+title: "Add A Menu To Slicecontroller"
+date: 2021-11-03
+url: https://discourse.slicer.org/t/20472
+---
+
 # Add a menu to sliceController
 
 **Topic ID**: 20472

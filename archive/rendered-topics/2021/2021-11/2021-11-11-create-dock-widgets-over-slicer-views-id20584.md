@@ -1,3 +1,10 @@
+---
+topic_id: 20584
+title: "Create Dock Widgets Over Slicer Views"
+date: 2021-11-11
+url: https://discourse.slicer.org/t/20584
+---
+
 # Create dock widgets over Slicer views
 
 **Topic ID**: 20584

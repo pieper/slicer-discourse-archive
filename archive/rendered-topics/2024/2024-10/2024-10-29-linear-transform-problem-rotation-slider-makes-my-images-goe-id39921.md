@@ -1,3 +1,10 @@
+---
+topic_id: 39921
+title: "Linear Transform Problem Rotation Slider Makes My Images Goe"
+date: 2024-10-29
+url: https://discourse.slicer.org/t/39921
+---
+
 # Linear transform problem. Rotation slider makes my images goes away.
 
 **Topic ID**: 39921

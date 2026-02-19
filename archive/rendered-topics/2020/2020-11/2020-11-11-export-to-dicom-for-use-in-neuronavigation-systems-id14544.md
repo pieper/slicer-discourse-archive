@@ -1,3 +1,10 @@
+---
+topic_id: 14544
+title: "Export To Dicom For Use In Neuronavigation Systems"
+date: 2020-11-11
+url: https://discourse.slicer.org/t/14544
+---
+
 # Export to dicom for use in neuronavigation systems
 
 **Topic ID**: 14544

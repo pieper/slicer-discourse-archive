@@ -1,3 +1,10 @@
+---
+topic_id: 43415
+title: "Opening Alpaca For The First Time And Stuck On Installing Al"
+date: 2025-06-18
+url: https://discourse.slicer.org/t/43415
+---
+
 # Opening ALPACA for the first time and stuck on "Installing ALPACA Python Packages...."
 
 **Topic ID**: 43415

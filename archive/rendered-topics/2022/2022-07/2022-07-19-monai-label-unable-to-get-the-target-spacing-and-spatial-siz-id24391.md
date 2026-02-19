@@ -1,3 +1,10 @@
+---
+topic_id: 24391
+title: "Monai Label Unable To Get The Target Spacing And Spatial Siz"
+date: 2022-07-19
+url: https://discourse.slicer.org/t/24391
+---
+
 # MONAI Label - unable to get the target_spacing and spatial_size using heuristic_planner
 
 **Topic ID**: 24391

@@ -1,3 +1,10 @@
+---
+topic_id: 35538
+title: "Running Alpaca From Python Console"
+date: 2024-04-16
+url: https://discourse.slicer.org/t/35538
+---
+
 # Running ALPACA from Python Console
 
 **Topic ID**: 35538

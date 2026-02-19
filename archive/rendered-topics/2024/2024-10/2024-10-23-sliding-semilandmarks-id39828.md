@@ -1,3 +1,10 @@
+---
+topic_id: 39828
+title: "Sliding Semilandmarks"
+date: 2024-10-23
+url: https://discourse.slicer.org/t/39828
+---
+
 # Sliding semilandmarks
 
 **Topic ID**: 39828

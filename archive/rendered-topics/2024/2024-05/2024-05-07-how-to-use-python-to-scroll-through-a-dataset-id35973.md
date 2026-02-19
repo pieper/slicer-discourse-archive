@@ -1,3 +1,10 @@
+---
+topic_id: 35973
+title: "How To Use Python To Scroll Through A Dataset"
+date: 2024-05-07
+url: https://discourse.slicer.org/t/35973
+---
+
 # How to use python to scroll through a dataset
 
 **Topic ID**: 35973

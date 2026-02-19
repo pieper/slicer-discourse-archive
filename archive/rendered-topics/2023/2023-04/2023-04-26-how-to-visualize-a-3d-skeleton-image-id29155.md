@@ -1,3 +1,10 @@
+---
+topic_id: 29155
+title: "How To Visualize A 3D Skeleton Image"
+date: 2023-04-26
+url: https://discourse.slicer.org/t/29155
+---
+
 # How to visualize a 3D skeleton image
 
 **Topic ID**: 29155

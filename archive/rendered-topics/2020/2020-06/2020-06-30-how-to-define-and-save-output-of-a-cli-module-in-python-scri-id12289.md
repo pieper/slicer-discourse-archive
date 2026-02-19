@@ -1,3 +1,10 @@
+---
+topic_id: 12289
+title: "How To Define And Save Output Of A Cli Module In Python Scri"
+date: 2020-06-30
+url: https://discourse.slicer.org/t/12289
+---
+
 # How to define and save output of a cli module in Python script?
 
 **Topic ID**: 12289

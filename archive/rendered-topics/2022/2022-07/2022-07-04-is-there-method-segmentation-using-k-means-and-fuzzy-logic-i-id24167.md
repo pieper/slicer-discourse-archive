@@ -1,3 +1,10 @@
+---
+topic_id: 24167
+title: "Is There Method Segmentation Using K Means And Fuzzy Logic I"
+date: 2022-07-04
+url: https://discourse.slicer.org/t/24167
+---
+
 # Is there method segmentation using K-means and Fuzzy logic in 3D Slicer
 
 **Topic ID**: 24167

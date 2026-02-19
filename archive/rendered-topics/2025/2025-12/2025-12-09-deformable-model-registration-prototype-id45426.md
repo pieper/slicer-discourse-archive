@@ -1,3 +1,10 @@
+---
+topic_id: 45426
+title: "Deformable Model Registration Prototype"
+date: 2025-12-09
+url: https://discourse.slicer.org/t/45426
+---
+
 # Deformable model registration prototype
 
 **Topic ID**: 45426

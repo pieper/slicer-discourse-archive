@@ -1,3 +1,10 @@
+---
+topic_id: 4824
+title: "Model Doesnt Show Colors Of Scalars"
+date: 2018-11-20
+url: https://discourse.slicer.org/t/4824
+---
+
 # Model doesn't show colors of scalars
 
 **Topic ID**: 4824

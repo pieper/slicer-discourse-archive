@@ -1,3 +1,10 @@
+---
+topic_id: 7413
+title: "Bug During 3Dslicer Installation"
+date: 2019-07-04
+url: https://discourse.slicer.org/t/7413
+---
+
 # Bug during 3DSlicer installation
 
 **Topic ID**: 7413

@@ -1,3 +1,10 @@
+---
+topic_id: 9856
+title: "Manual Segmentation Of Interpolated Mri Images"
+date: 2020-01-17
+url: https://discourse.slicer.org/t/9856
+---
+
 # Manual segmentation of interpolated (MRI) images
 
 **Topic ID**: 9856

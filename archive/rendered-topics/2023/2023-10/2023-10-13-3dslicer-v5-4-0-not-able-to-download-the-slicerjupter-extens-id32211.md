@@ -1,3 +1,10 @@
+---
+topic_id: 32211
+title: "3Dslicer V5 4 0 Not Able To Download The Slicerjupter Extens"
+date: 2023-10-13
+url: https://discourse.slicer.org/t/32211
+---
+
 # 3dslicer v5.4.0, not able to download the slicerjupter-extension from developer tools
 
 **Topic ID**: 32211

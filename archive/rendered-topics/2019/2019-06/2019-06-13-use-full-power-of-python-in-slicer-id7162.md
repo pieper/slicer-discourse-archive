@@ -1,3 +1,10 @@
+---
+topic_id: 7162
+title: "Use Full Power Of Python In Slicer"
+date: 2019-06-13
+url: https://discourse.slicer.org/t/7162
+---
+
 # Use full power of Python in Slicer
 
 **Topic ID**: 7162

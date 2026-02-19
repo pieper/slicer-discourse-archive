@@ -1,3 +1,10 @@
+---
+topic_id: 2723
+title: "How To Make The Edge Of The Segment Smoother"
+date: 2018-04-27
+url: https://discourse.slicer.org/t/2723
+---
+
 # How to make the edge of the segment smoother?
 
 **Topic ID**: 2723

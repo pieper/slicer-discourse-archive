@@ -1,3 +1,10 @@
+---
+topic_id: 2056
+title: "Certain Hierarchy To Import Dicom Data"
+date: 2018-02-09
+url: https://discourse.slicer.org/t/2056
+---
+
 # Certain hierarchy to import DICOM data?
 
 **Topic ID**: 2056

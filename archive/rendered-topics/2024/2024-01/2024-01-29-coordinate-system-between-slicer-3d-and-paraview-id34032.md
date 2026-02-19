@@ -1,3 +1,10 @@
+---
+topic_id: 34032
+title: "Coordinate System Between Slicer 3D And Paraview"
+date: 2024-01-29
+url: https://discourse.slicer.org/t/34032
+---
+
 # Coordinate system between slicer 3d and paraview
 
 **Topic ID**: 34032

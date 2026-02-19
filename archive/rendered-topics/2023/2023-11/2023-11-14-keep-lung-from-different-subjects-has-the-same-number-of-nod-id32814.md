@@ -1,3 +1,10 @@
+---
+topic_id: 32814
+title: "Keep Lung From Different Subjects Has The Same Number Of Nod"
+date: 2023-11-14
+url: https://discourse.slicer.org/t/32814
+---
+
 # Keep lung from different subjects has the same number of nodes/ landmarks
 
 **Topic ID**: 32814

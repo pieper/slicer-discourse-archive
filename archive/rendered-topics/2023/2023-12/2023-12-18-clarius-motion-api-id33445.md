@@ -1,3 +1,10 @@
+---
+topic_id: 33445
+title: "Clarius Motion Api"
+date: 2023-12-18
+url: https://discourse.slicer.org/t/33445
+---
+
 # Clarius motion API
 
 **Topic ID**: 33445

@@ -1,3 +1,10 @@
+---
+topic_id: 14261
+title: "Problem In Using Segmentmesher"
+date: 2020-10-27
+url: https://discourse.slicer.org/t/14261
+---
+
 # Problem in using segmentmesher
 
 **Topic ID**: 14261

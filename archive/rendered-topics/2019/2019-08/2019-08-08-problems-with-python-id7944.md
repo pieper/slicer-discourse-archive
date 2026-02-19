@@ -1,3 +1,10 @@
+---
+topic_id: 7944
+title: "Problems With Python"
+date: 2019-08-08
+url: https://discourse.slicer.org/t/7944
+---
+
 # Problems with python
 
 **Topic ID**: 7944

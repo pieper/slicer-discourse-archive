@@ -1,3 +1,10 @@
+---
+topic_id: 2507
+title: "Slicer Transform Vs Elastix Transform"
+date: 2018-04-03
+url: https://discourse.slicer.org/t/2507
+---
+
 # Slicer Transform vs elastix Transform
 
 **Topic ID**: 2507

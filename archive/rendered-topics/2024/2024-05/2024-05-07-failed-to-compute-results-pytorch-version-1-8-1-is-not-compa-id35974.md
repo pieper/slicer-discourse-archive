@@ -1,3 +1,10 @@
+---
+topic_id: 35974
+title: "Failed To Compute Results Pytorch Version 1 8 1 Is Not Compa"
+date: 2024-05-07
+url: https://discourse.slicer.org/t/35974
+---
+
 # Failed to compute results: PyTorch version 1.8.1 is not compatible with this module. Minimum required version is 2. You can use "PyTorch Util" module to install PyTorch with version requirement set to: >=2
 
 **Topic ID**: 35974

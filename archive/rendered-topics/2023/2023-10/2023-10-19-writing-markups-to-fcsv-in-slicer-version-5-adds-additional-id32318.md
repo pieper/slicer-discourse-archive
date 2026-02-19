@@ -1,3 +1,10 @@
+---
+topic_id: 32318
+title: "Writing Markups To Fcsv In Slicer Version 5 Adds Additional"
+date: 2023-10-19
+url: https://discourse.slicer.org/t/32318
+---
+
 # Writing markups to FCSV in Slicer version 5+ adds additional columns
 
 **Topic ID**: 32318

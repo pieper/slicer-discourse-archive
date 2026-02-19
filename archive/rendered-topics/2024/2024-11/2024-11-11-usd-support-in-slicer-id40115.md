@@ -1,3 +1,10 @@
+---
+topic_id: 40115
+title: "Usd Support In Slicer"
+date: 2024-11-11
+url: https://discourse.slicer.org/t/40115
+---
+
 # USD support in Slicer
 
 **Topic ID**: 40115

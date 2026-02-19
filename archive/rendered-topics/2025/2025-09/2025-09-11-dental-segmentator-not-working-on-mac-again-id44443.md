@@ -1,3 +1,10 @@
+---
+topic_id: 44443
+title: "Dental Segmentator Not Working On Mac Again"
+date: 2025-09-11
+url: https://discourse.slicer.org/t/44443
+---
+
 # Dental segmentator not working on mac again
 
 **Topic ID**: 44443

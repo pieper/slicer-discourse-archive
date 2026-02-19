@@ -1,3 +1,10 @@
+---
+topic_id: 29147
+title: "Segmenting In A Rotated Volume"
+date: 2023-04-26
+url: https://discourse.slicer.org/t/29147
+---
+
 # Segmenting in a rotated volume
 
 **Topic ID**: 29147

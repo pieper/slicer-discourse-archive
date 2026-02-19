@@ -1,3 +1,10 @@
+---
+topic_id: 32317
+title: "How To Create 3D Binary Mask From 3D Ct Image"
+date: 2023-10-19
+url: https://discourse.slicer.org/t/32317
+---
+
 # How to create 3D binary mask from 3D CT image? 
 
 **Topic ID**: 32317

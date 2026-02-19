@@ -1,3 +1,10 @@
+---
+topic_id: 36367
+title: "Methods For Thin Skull Bone Segmentation"
+date: 2024-05-24
+url: https://discourse.slicer.org/t/36367
+---
+
 # Methods for thin skull bone segmentation
 
 **Topic ID**: 36367

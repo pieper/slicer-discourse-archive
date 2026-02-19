@@ -1,3 +1,10 @@
+---
+topic_id: 11558
+title: "Text Annotations"
+date: 2020-05-15
+url: https://discourse.slicer.org/t/11558
+---
+
 # Text annotations
 
 **Topic ID**: 11558

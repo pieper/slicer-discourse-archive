@@ -1,3 +1,10 @@
+---
+topic_id: 40524
+title: "Ct Of Skull Appearing Outside Of Box When I Zoom In The Imag"
+date: 2024-12-05
+url: https://discourse.slicer.org/t/40524
+---
+
 # CT of Skull appearing outside of box. When I zoom in,the image is not centered
 
 **Topic ID**: 40524

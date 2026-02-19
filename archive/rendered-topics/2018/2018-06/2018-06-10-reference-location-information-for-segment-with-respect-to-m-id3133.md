@@ -1,3 +1,10 @@
+---
+topic_id: 3133
+title: "Reference Location Information For Segment With Respect To M"
+date: 2018-06-10
+url: https://discourse.slicer.org/t/3133
+---
+
 # Reference location information for segment with respect to master volume
 
 **Topic ID**: 3133

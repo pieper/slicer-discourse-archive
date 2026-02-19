@@ -1,3 +1,10 @@
+---
+topic_id: 37200
+title: "Optimal C Arm Angulation Along A Plane From Ct"
+date: 2024-07-04
+url: https://discourse.slicer.org/t/37200
+---
+
 # Optimal C-arm angulation along a plane from CT
 
 **Topic ID**: 37200

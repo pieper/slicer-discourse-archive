@@ -1,3 +1,10 @@
+---
+topic_id: 44182
+title: "Animal Automatic Segmentation"
+date: 2025-08-23
+url: https://discourse.slicer.org/t/44182
+---
+
 # Animal automatic segmentation
 
 **Topic ID**: 44182

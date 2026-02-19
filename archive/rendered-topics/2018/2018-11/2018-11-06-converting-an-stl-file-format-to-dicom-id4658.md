@@ -1,3 +1,10 @@
+---
+topic_id: 4658
+title: "Converting An Stl File Format To Dicom"
+date: 2018-11-06
+url: https://discourse.slicer.org/t/4658
+---
+
 # Converting an STL file format to DICOM
 
 **Topic ID**: 4658

@@ -1,3 +1,10 @@
+---
+topic_id: 1468
+title: "Osx Slicer Qt5 Packaging Error"
+date: 2017-11-16
+url: https://discourse.slicer.org/t/1468
+---
+
 # OSX Slicer Qt5 packaging error
 
 **Topic ID**: 1468

@@ -1,3 +1,10 @@
+---
+topic_id: 27661
+title: "Is There A Web Based Plug In For Project Management Of Annot"
+date: 2023-02-06
+url: https://discourse.slicer.org/t/27661
+---
+
 # Is there a Web-based plug-in for project management of annotators/labelers?
 
 **Topic ID**: 27661

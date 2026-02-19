@@ -1,3 +1,10 @@
+---
+topic_id: 18290
+title: "Getting Voxel Values"
+date: 2021-06-23
+url: https://discourse.slicer.org/t/18290
+---
+
 # Getting Voxel Values
 
 **Topic ID**: 18290

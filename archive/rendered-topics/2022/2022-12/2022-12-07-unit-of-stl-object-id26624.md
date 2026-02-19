@@ -1,3 +1,10 @@
+---
+topic_id: 26624
+title: "Unit Of Stl Object"
+date: 2022-12-07
+url: https://discourse.slicer.org/t/26624
+---
+
 # Unit of stl object
 
 **Topic ID**: 26624

@@ -1,3 +1,10 @@
+---
+topic_id: 313
+title: "Dicom Export Of Segmentation Node"
+date: 2017-05-15
+url: https://discourse.slicer.org/t/313
+---
+
 # DICOM export of segmentation node
 
 **Topic ID**: 313

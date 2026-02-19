@@ -1,3 +1,10 @@
+---
+topic_id: 33145
+title: "Apple Silicon Gpu Support Via Pytorch Nightly"
+date: 2023-11-30
+url: https://discourse.slicer.org/t/33145
+---
+
 # Apple Silicon GPU support via Pytorch Nightly ?
 
 **Topic ID**: 33145

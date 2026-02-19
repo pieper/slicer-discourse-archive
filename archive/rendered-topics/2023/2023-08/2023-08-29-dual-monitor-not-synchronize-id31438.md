@@ -1,3 +1,10 @@
+---
+topic_id: 31438
+title: "Dual Monitor Not Synchronize"
+date: 2023-08-29
+url: https://discourse.slicer.org/t/31438
+---
+
 # Dual monitor not synchronize
 
 **Topic ID**: 31438

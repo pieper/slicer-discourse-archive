@@ -1,3 +1,10 @@
+---
+topic_id: 19258
+title: "Screenshotting A Hidden External View Widget"
+date: 2021-08-18
+url: https://discourse.slicer.org/t/19258
+---
+
 # Screenshotting a hidden external view widget
 
 **Topic ID**: 19258

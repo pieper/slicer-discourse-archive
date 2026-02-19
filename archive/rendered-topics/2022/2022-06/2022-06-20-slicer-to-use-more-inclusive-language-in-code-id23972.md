@@ -1,3 +1,10 @@
+---
+topic_id: 23972
+title: "Slicer To Use More Inclusive Language In Code"
+date: 2022-06-20
+url: https://discourse.slicer.org/t/23972
+---
+
 # Slicer to use more inclusive language in code
 
 **Topic ID**: 23972

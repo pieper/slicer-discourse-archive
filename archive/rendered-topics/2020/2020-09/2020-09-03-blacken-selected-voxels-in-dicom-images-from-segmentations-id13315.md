@@ -1,3 +1,10 @@
+---
+topic_id: 13315
+title: "Blacken Selected Voxels In Dicom Images From Segmentations"
+date: 2020-09-03
+url: https://discourse.slicer.org/t/13315
+---
+
 # "Blacken" selected voxels in DICOM images (from Segmentations)
 
 **Topic ID**: 13315

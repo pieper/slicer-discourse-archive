@@ -1,3 +1,10 @@
+---
+topic_id: 29677
+title: "Can You Turn A Video Into A 3D Model"
+date: 2023-05-26
+url: https://discourse.slicer.org/t/29677
+---
+
 # Can you turn a video into a 3d model
 
 **Topic ID**: 29677

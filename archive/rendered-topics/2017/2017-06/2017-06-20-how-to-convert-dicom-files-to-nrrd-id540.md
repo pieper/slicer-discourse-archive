@@ -1,3 +1,10 @@
+---
+topic_id: 540
+title: "How To Convert Dicom Files To Nrrd"
+date: 2017-06-20
+url: https://discourse.slicer.org/t/540
+---
+
 # How to convert dicom files to nrrd
 
 **Topic ID**: 540

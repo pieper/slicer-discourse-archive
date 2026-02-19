@@ -1,3 +1,10 @@
+---
+topic_id: 7785
+title: "Importing To 3Ds Max Or Zbrush Or Maya Surfaces Flip And Bec"
+date: 2019-07-28
+url: https://discourse.slicer.org/t/7785
+---
+
 # Importing to 3Ds max or Zbrush or Maya surfaces flip and become unvisible
 
 **Topic ID**: 7785

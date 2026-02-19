@@ -1,3 +1,10 @@
+---
+topic_id: 13694
+title: "Tensorflow Gpu On Slicer 4 8 1"
+date: 2020-09-25
+url: https://discourse.slicer.org/t/13694
+---
+
 # Tensorflow-gpu on Slicer 4.8.1
 
 **Topic ID**: 13694

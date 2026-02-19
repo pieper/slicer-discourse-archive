@@ -1,3 +1,10 @@
+---
+topic_id: 9419
+title: "3D Viewer Stops Working After Segmentation"
+date: 2019-12-06
+url: https://discourse.slicer.org/t/9419
+---
+
 # 3D viewer stops working after segmentation
 
 **Topic ID**: 9419

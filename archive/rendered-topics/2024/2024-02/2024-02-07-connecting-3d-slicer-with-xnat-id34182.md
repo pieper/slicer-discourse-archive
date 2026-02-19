@@ -1,3 +1,10 @@
+---
+topic_id: 34182
+title: "Connecting 3D Slicer With Xnat"
+date: 2024-02-07
+url: https://discourse.slicer.org/t/34182
+---
+
 # Connecting 3D Slicer with XNAT
 
 **Topic ID**: 34182

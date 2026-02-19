@@ -1,3 +1,10 @@
+---
+topic_id: 10519
+title: "Slicer Error When Using Nvidia Aiaa"
+date: 2020-03-03
+url: https://discourse.slicer.org/t/10519
+---
+
 # Slicer error when using  Nvidia AIAA
 
 **Topic ID**: 10519

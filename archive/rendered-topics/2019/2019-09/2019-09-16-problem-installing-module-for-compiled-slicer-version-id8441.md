@@ -1,3 +1,10 @@
+---
+topic_id: 8441
+title: "Problem Installing Module For Compiled Slicer Version"
+date: 2019-09-16
+url: https://discourse.slicer.org/t/8441
+---
+
 # Problem installing module for compiled slicer version
 
 **Topic ID**: 8441

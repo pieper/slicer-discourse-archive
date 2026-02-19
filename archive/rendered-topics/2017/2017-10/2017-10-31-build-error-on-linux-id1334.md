@@ -1,3 +1,10 @@
+---
+topic_id: 1334
+title: "Build Error On Linux"
+date: 2017-10-31
+url: https://discourse.slicer.org/t/1334
+---
+
 # Build error on linux
 
 **Topic ID**: 1334

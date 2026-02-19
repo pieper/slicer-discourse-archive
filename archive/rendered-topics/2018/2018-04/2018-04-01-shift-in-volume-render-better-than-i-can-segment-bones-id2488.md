@@ -1,3 +1,10 @@
+---
+topic_id: 2488
+title: "Shift In Volume Render Better Than I Can Segment Bones"
+date: 2018-04-01
+url: https://discourse.slicer.org/t/2488
+---
+
 # Shift in Volume Render - Better than I can segment bones
 
 **Topic ID**: 2488

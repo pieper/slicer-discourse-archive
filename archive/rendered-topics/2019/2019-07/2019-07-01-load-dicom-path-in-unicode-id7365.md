@@ -1,3 +1,10 @@
+---
+topic_id: 7365
+title: "Load Dicom Path In Unicode"
+date: 2019-07-01
+url: https://discourse.slicer.org/t/7365
+---
+
 # Load dicom path in unicode
 
 **Topic ID**: 7365

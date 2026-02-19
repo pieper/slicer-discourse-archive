@@ -1,3 +1,10 @@
+---
+topic_id: 32955
+title: "How To Export A Lung Segmentation Neoplasm Primary To Separa"
+date: 2023-11-22
+url: https://discourse.slicer.org/t/32955
+---
+
 # How to export a lung segmentation neoplasm primary to separately image files
 
 **Topic ID**: 32955

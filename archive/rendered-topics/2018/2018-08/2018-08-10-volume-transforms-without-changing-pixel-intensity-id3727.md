@@ -1,3 +1,10 @@
+---
+topic_id: 3727
+title: "Volume Transforms Without Changing Pixel Intensity"
+date: 2018-08-10
+url: https://discourse.slicer.org/t/3727
+---
+
 # Volume transforms without changing pixel intensity?
 
 **Topic ID**: 3727

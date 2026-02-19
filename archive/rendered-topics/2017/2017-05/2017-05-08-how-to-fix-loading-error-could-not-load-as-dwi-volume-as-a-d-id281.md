@@ -1,3 +1,10 @@
+---
+topic_id: 281
+title: "How To Fix Loading Error Could Not Load As Dwi Volume As A D"
+date: 2017-05-08
+url: https://discourse.slicer.org/t/281
+---
+
 # How to fix loading error: Could not load as DWI Volume as a Diffusion Volume
 
 **Topic ID**: 281

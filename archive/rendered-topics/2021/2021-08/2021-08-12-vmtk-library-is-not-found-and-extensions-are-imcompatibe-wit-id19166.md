@@ -1,3 +1,10 @@
+---
+topic_id: 19166
+title: "Vmtk Library Is Not Found And Extensions Are Imcompatibe Wit"
+date: 2021-08-12
+url: https://discourse.slicer.org/t/19166
+---
+
 # VMTK library is not found and extensions are imcompatibe with slicer (MAC and Win, 4.13.0 built 2021-08-11 )
 
 **Topic ID**: 19166

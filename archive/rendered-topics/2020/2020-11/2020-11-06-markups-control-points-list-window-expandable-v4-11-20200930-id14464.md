@@ -1,3 +1,10 @@
+---
+topic_id: 14464
+title: "Markups Control Points List Window Expandable V4 11 20200930"
+date: 2020-11-06
+url: https://discourse.slicer.org/t/14464
+---
+
 # Markups control points list window expandable? (v4.11.20200930)
 
 **Topic ID**: 14464

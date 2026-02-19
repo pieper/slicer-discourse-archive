@@ -1,3 +1,10 @@
+---
+topic_id: 31792
+title: "Issue With Nifti Image Orientation After Dicom Conversion"
+date: 2023-09-19
+url: https://discourse.slicer.org/t/31792
+---
+
 # Issue with NIfTI Image Orientation After DICOM Conversion
 
 **Topic ID**: 31792

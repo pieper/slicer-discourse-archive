@@ -1,3 +1,10 @@
+---
+topic_id: 45638
+title: "No Meeting This Week Dec 30Th"
+date: 2025-12-30
+url: https://discourse.slicer.org/t/45638
+---
+
 # No meeting this week (Dec 30th)
 
 **Topic ID**: 45638

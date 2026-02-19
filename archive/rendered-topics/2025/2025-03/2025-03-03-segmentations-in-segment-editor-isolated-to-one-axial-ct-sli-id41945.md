@@ -1,3 +1,10 @@
+---
+topic_id: 41945
+title: "Segmentations In Segment Editor Isolated To One Axial Ct Sli"
+date: 2025-03-03
+url: https://discourse.slicer.org/t/41945
+---
+
 # Segmentations in segment editor isolated to one axial CT slice
 
 **Topic ID**: 41945

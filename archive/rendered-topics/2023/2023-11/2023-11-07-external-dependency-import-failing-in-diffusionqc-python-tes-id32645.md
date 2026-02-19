@@ -1,3 +1,10 @@
+---
+topic_id: 32645
+title: "External Dependency Import Failing In Diffusionqc Python Tes"
+date: 2023-11-07
+url: https://discourse.slicer.org/t/32645
+---
+
 # External dependency import failing in DiffusionQC Python test
 
 **Topic ID**: 32645

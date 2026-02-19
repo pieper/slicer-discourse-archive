@@ -1,3 +1,10 @@
+---
+topic_id: 31313
+title: "Segmented Section Does Not Align With Transformed Dicom Afte"
+date: 2023-08-23
+url: https://discourse.slicer.org/t/31313
+---
+
 # Segmented Section does not align with transformed DICOM after export
 
 **Topic ID**: 31313

@@ -1,3 +1,10 @@
+---
+topic_id: 18343
+title: "Change Segment Editor Button Layout"
+date: 2021-06-25
+url: https://discourse.slicer.org/t/18343
+---
+
 # Change segment editor button layout
 
 **Topic ID**: 18343

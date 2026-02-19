@@ -1,3 +1,10 @@
+---
+topic_id: 40488
+title: "Slicer Preview Crashes On Slicer Util Resetsliceviews"
+date: 2024-12-03
+url: https://discourse.slicer.org/t/40488
+---
+
 # Slicer Preview crashes on slicer.util.resetSliceViews()
 
 **Topic ID**: 40488

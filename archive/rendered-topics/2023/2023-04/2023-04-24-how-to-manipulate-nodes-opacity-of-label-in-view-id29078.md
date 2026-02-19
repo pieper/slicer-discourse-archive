@@ -1,3 +1,10 @@
+---
+topic_id: 29078
+title: "How To Manipulate Nodes Opacity Of Label In View"
+date: 2023-04-24
+url: https://discourse.slicer.org/t/29078
+---
+
 # How to manipulate node's opacity of label in view?
 
 **Topic ID**: 29078

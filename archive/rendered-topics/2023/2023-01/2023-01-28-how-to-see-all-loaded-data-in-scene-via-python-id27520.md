@@ -1,3 +1,10 @@
+---
+topic_id: 27520
+title: "How To See All Loaded Data In Scene Via Python"
+date: 2023-01-28
+url: https://discourse.slicer.org/t/27520
+---
+
 # How to see all loaded data in Scene via Python
 
 **Topic ID**: 27520

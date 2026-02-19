@@ -1,3 +1,10 @@
+---
+topic_id: 17154
+title: "Edited Segmentation Mask Has Different Transformation Matrix"
+date: 2021-04-18
+url: https://discourse.slicer.org/t/17154
+---
+
 # Edited segmentation mask has different transformation matrix to original segmentation
 
 **Topic ID**: 17154

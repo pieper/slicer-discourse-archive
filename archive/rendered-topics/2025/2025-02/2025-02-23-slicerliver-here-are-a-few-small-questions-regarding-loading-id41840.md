@@ -1,3 +1,10 @@
+---
+topic_id: 41840
+title: "Slicerliver Here Are A Few Small Questions Regarding Loading"
+date: 2025-02-23
+url: https://discourse.slicer.org/t/41840
+---
+
 # slicerliver：Here are a few small questions regarding loading Sample Data
 
 **Topic ID**: 41840

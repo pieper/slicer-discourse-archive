@@ -1,3 +1,10 @@
+---
+topic_id: 43374
+title: "Nnunet Failed To Load Segmentation In Dentalsegmentator Tota"
+date: 2025-06-16
+url: https://discourse.slicer.org/t/43374
+---
+
 # nnUNET failed to load segmentation in DentalSegmentator & totalSegmentator
 
 **Topic ID**: 43374

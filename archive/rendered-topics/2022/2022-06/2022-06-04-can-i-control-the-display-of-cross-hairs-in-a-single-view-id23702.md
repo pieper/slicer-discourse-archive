@@ -1,3 +1,10 @@
+---
+topic_id: 23702
+title: "Can I Control The Display Of Cross Hairs In A Single View"
+date: 2022-06-04
+url: https://discourse.slicer.org/t/23702
+---
+
 # Can I control the display of cross hairs in a single view?
 
 **Topic ID**: 23702

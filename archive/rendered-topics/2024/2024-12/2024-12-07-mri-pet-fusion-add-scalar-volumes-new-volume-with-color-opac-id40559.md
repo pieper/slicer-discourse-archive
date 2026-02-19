@@ -1,3 +1,10 @@
+---
+topic_id: 40559
+title: "Mri Pet Fusion Add Scalar Volumes New Volume With Color Opac"
+date: 2024-12-07
+url: https://discourse.slicer.org/t/40559
+---
+
 # MRI PET fusion "add scalar volumes" new volume with color & opacity settings
 
 **Topic ID**: 40559

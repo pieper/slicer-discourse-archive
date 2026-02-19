@@ -1,3 +1,10 @@
+---
+topic_id: 8391
+title: "How To Import Dicom Images And Corresponding Rt Structure Se"
+date: 2019-09-11
+url: https://discourse.slicer.org/t/8391
+---
+
 # How to import DICOM images and corresponding RT structure set for radiomic analysis
 
 **Topic ID**: 8391

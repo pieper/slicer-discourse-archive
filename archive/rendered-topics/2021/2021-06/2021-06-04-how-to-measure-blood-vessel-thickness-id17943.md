@@ -1,3 +1,10 @@
+---
+topic_id: 17943
+title: "How To Measure Blood Vessel Thickness"
+date: 2021-06-04
+url: https://discourse.slicer.org/t/17943
+---
+
 # How to measure blood vessel thickness
 
 **Topic ID**: 17943

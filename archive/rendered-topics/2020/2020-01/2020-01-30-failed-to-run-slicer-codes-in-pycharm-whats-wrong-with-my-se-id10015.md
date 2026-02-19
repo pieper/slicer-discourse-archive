@@ -1,3 +1,10 @@
+---
+topic_id: 10015
+title: "Failed To Run Slicer Codes In Pycharm Whats Wrong With My Se"
+date: 2020-01-30
+url: https://discourse.slicer.org/t/10015
+---
+
 # Failed to run slicer codes in PyCharm, what's wrong with my settings?
 
 **Topic ID**: 10015

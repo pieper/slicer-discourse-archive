@@ -1,3 +1,10 @@
+---
+topic_id: 14831
+title: "Slice View Freeze When Using Tablet"
+date: 2020-12-01
+url: https://discourse.slicer.org/t/14831
+---
+
 # Slice view freeze when using tablet
 
 **Topic ID**: 14831

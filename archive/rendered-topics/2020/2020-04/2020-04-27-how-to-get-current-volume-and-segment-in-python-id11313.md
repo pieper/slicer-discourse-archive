@@ -1,3 +1,10 @@
+---
+topic_id: 11313
+title: "How To Get Current Volume And Segment In Python"
+date: 2020-04-27
+url: https://discourse.slicer.org/t/11313
+---
+
 # How to get current volume and segment in Python
 
 **Topic ID**: 11313

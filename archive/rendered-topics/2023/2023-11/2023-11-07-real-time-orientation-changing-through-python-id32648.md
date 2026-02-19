@@ -1,3 +1,10 @@
+---
+topic_id: 32648
+title: "Real Time Orientation Changing Through Python"
+date: 2023-11-07
+url: https://discourse.slicer.org/t/32648
+---
+
 # Real Time Orientation Changing Through Python
 
 **Topic ID**: 32648

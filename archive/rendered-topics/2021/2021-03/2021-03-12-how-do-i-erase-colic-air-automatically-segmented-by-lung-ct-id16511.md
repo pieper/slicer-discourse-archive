@@ -1,3 +1,10 @@
+---
+topic_id: 16511
+title: "How Do I Erase Colic Air Automatically Segmented By Lung Ct"
+date: 2021-03-12
+url: https://discourse.slicer.org/t/16511
+---
+
 # How do I erase colic air automatically segmented by Lung CT Analyzer?
 
 **Topic ID**: 16511

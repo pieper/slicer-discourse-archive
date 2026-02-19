@@ -1,3 +1,10 @@
+---
+topic_id: 7038
+title: "Bug When Reading Mha File With Anatomicalorientation"
+date: 2019-06-05
+url: https://discourse.slicer.org/t/7038
+---
+
 # BUG when reading mha file with AnatomicalOrientation
 
 **Topic ID**: 7038

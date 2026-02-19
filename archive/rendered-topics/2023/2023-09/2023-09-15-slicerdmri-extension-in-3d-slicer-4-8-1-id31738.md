@@ -1,3 +1,10 @@
+---
+topic_id: 31738
+title: "Slicerdmri Extension In 3D Slicer 4 8 1"
+date: 2023-09-15
+url: https://discourse.slicer.org/t/31738
+---
+
 # SlicerDMRI extension in 3D Slicer 4.8.1
 
 **Topic ID**: 31738

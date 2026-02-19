@@ -1,3 +1,10 @@
+---
+topic_id: 44760
+title: "Why Slicer Core Is Written In C"
+date: 2025-10-14
+url: https://discourse.slicer.org/t/44760
+---
+
 # Why Slicer core is written in C++?
 
 **Topic ID**: 44760

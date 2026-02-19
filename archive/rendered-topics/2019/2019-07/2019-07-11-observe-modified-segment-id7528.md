@@ -1,3 +1,10 @@
+---
+topic_id: 7528
+title: "Observe Modified Segment"
+date: 2019-07-11
+url: https://discourse.slicer.org/t/7528
+---
+
 # Observe modified segment
 
 **Topic ID**: 7528

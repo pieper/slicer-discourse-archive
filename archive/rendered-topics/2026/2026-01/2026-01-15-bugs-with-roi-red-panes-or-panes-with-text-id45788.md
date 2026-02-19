@@ -1,3 +1,10 @@
+---
+topic_id: 45788
+title: "Bugs With Roi Red Panes Or Panes With Text"
+date: 2026-01-15
+url: https://discourse.slicer.org/t/45788
+---
+
 # Bugs with ROI - Red panes or panes with text
 
 **Topic ID**: 45788

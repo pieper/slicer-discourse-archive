@@ -1,3 +1,10 @@
+---
+topic_id: 4010
+title: "Visualizing 3D Polydata Of The Model In 2D Slice View"
+date: 2018-09-06
+url: https://discourse.slicer.org/t/4010
+---
+
 # Visualizing 3D polydata of the model in 2D slice view
 
 **Topic ID**: 4010

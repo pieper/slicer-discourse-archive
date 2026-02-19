@@ -1,3 +1,10 @@
+---
+topic_id: 36588
+title: "Discontinuity And Sharp Edges In Total Segmentator Output"
+date: 2024-06-04
+url: https://discourse.slicer.org/t/36588
+---
+
 # Discontinuity and sharp edges in Total Segmentator output
 
 **Topic ID**: 36588

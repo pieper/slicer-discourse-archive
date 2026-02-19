@@ -1,3 +1,10 @@
+---
+topic_id: 26861
+title: "5 Mm Slices With Segmentation Reload Out Of Place"
+date: 2022-12-20
+url: https://discourse.slicer.org/t/26861
+---
+
 # 5 mm slices with segmentation reload out of place
 
 **Topic ID**: 26861

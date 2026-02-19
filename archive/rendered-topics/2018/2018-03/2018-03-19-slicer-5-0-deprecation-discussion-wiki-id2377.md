@@ -1,3 +1,10 @@
+---
+topic_id: 2377
+title: "Slicer 5 0 Deprecation Discussion Wiki"
+date: 2018-03-19
+url: https://discourse.slicer.org/t/2377
+---
+
 # Slicer 5.0 deprecation discussion/wiki
 
 **Topic ID**: 2377

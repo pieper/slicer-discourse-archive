@@ -1,3 +1,10 @@
+---
+topic_id: 35420
+title: "Module For Manual Segmentation Monai Label Like"
+date: 2024-04-10
+url: https://discourse.slicer.org/t/35420
+---
+
 # Module for manual segmentation (MONAI Label-like)
 
 **Topic ID**: 35420

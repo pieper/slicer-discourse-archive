@@ -1,3 +1,10 @@
+---
+topic_id: 26629
+title: "How To Create A New Volume For Volume Rendering"
+date: 2022-12-07
+url: https://discourse.slicer.org/t/26629
+---
+
 # How to Create a new Volume for Volume Rendering
 
 **Topic ID**: 26629

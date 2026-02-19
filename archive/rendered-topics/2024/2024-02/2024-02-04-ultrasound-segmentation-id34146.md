@@ -1,3 +1,10 @@
+---
+topic_id: 34146
+title: "Ultrasound Segmentation"
+date: 2024-02-04
+url: https://discourse.slicer.org/t/34146
+---
+
 # ultrasound segmentation
 
 **Topic ID**: 34146

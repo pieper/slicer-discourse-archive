@@ -1,3 +1,10 @@
+---
+topic_id: 17628
+title: "Could Not Load The Dicom Data As A Scalar Volume"
+date: 2021-05-15
+url: https://discourse.slicer.org/t/17628
+---
+
 # Could not load the dicom data as a Scalar Volume
 
 **Topic ID**: 17628

@@ -1,3 +1,10 @@
+---
+topic_id: 33072
+title: "Multi Scan Stitching"
+date: 2023-11-27
+url: https://discourse.slicer.org/t/33072
+---
+
 # Multi-scan stitching
 
 **Topic ID**: 33072

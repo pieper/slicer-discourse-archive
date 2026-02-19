@@ -1,3 +1,10 @@
+---
+topic_id: 25161
+title: "Slicer Python Interpreter Virtual Environment"
+date: 2022-09-08
+url: https://discourse.slicer.org/t/25161
+---
+
 # Slicer Python Interpreter - Virtual Environment
 
 **Topic ID**: 25161

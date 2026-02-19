@@ -1,3 +1,10 @@
+---
+topic_id: 16515
+title: "Issue With Exporting Roi"
+date: 2021-03-12
+url: https://discourse.slicer.org/t/16515
+---
+
 # Issue with exporting ROI
 
 **Topic ID**: 16515

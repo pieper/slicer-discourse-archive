@@ -1,3 +1,10 @@
+---
+topic_id: 6612
+title: "Eigenvectors And Eigenvalues"
+date: 2019-04-26
+url: https://discourse.slicer.org/t/6612
+---
+
 # Eigenvectors and eigenvalues
 
 **Topic ID**: 6612

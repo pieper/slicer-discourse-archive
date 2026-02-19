@@ -1,3 +1,10 @@
+---
+topic_id: 17987
+title: "Some Loss For Convert The Stl Model To The Editable Binary L"
+date: 2021-06-07
+url: https://discourse.slicer.org/t/17987
+---
+
 # Some loss for convert the stl model to the editable binary labelmap
 
 **Topic ID**: 17987

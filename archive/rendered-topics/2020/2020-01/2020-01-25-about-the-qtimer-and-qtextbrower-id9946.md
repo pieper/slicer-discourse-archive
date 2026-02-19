@@ -1,3 +1,10 @@
+---
+topic_id: 9946
+title: "About The Qtimer And Qtextbrower"
+date: 2020-01-25
+url: https://discourse.slicer.org/t/9946
+---
+
 # About the Qtimer and QTextBrower
 
 **Topic ID**: 9946

@@ -1,3 +1,10 @@
+---
+topic_id: 17792
+title: "Slicer Does Not Open"
+date: 2021-05-25
+url: https://discourse.slicer.org/t/17792
+---
+
 # slicer does not open
 
 **Topic ID**: 17792

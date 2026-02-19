@@ -1,3 +1,10 @@
+---
+topic_id: 4012
+title: "Calculating The Displacement Between Two Models"
+date: 2018-09-07
+url: https://discourse.slicer.org/t/4012
+---
+
 # Calculating the displacement between two models
 
 **Topic ID**: 4012

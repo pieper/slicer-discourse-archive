@@ -1,3 +1,10 @@
+---
+topic_id: 21532
+title: "Msc Project Using 3Dslicer Registration Of Brain Scans"
+date: 2022-01-19
+url: https://discourse.slicer.org/t/21532
+---
+
 # MSc Project using 3dSlicer Registration of Brain Scans
 
 **Topic ID**: 21532

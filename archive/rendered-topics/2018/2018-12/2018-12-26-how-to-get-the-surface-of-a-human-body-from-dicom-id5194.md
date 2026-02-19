@@ -1,3 +1,10 @@
+---
+topic_id: 5194
+title: "How To Get The Surface Of A Human Body From Dicom"
+date: 2018-12-26
+url: https://discourse.slicer.org/t/5194
+---
+
 # How to get the surface of a human body from DICOM
 
 **Topic ID**: 5194

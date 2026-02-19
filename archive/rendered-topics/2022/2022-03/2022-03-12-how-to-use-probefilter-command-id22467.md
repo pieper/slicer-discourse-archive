@@ -1,3 +1,10 @@
+---
+topic_id: 22467
+title: "How To Use Probefilter Command"
+date: 2022-03-12
+url: https://discourse.slicer.org/t/22467
+---
+
 # How to use ProbeFilter command?
 
 **Topic ID**: 22467

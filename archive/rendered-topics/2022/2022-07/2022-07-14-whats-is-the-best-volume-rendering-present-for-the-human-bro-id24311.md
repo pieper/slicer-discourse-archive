@@ -1,3 +1,10 @@
+---
+topic_id: 24311
+title: "Whats Is The Best Volume Rendering Present For The Human Bro"
+date: 2022-07-14
+url: https://discourse.slicer.org/t/24311
+---
+
 # Whats is the best volume rendering present for the human bronchus
 
 **Topic ID**: 24311

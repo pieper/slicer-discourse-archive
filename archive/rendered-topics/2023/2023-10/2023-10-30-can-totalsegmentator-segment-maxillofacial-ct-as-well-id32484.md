@@ -1,3 +1,10 @@
+---
+topic_id: 32484
+title: "Can Totalsegmentator Segment Maxillofacial Ct As Well"
+date: 2023-10-30
+url: https://discourse.slicer.org/t/32484
+---
+
 # Can TotalSegmentator segment maxillofacial CT as well?
 
 **Topic ID**: 32484

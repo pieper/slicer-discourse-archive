@@ -1,3 +1,10 @@
+---
+topic_id: 30691
+title: "Existing Module For Segmenting Grey Matter"
+date: 2023-07-19
+url: https://discourse.slicer.org/t/30691
+---
+
 # existing module for segmenting grey matter
 
 **Topic ID**: 30691

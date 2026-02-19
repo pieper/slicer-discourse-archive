@@ -1,3 +1,10 @@
+---
+topic_id: 20366
+title: "Rt Struct Available Would Like To Try A Different Segmentati"
+date: 2021-10-26
+url: https://discourse.slicer.org/t/20366
+---
+
 # RT STRUCT available. Would like to try a different segmentation on the CT images.
 
 **Topic ID**: 20366

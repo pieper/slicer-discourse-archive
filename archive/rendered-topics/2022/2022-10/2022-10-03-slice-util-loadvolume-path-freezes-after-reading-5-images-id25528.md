@@ -1,3 +1,10 @@
+---
+topic_id: 25528
+title: "Slice Util Loadvolume Path Freezes After Reading 5 Images"
+date: 2022-10-03
+url: https://discourse.slicer.org/t/25528
+---
+
 # slice.util.loadVolume(path) freezes after reading 5 images
 
 **Topic ID**: 25528

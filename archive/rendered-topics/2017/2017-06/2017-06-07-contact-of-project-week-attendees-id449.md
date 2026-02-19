@@ -1,3 +1,10 @@
+---
+topic_id: 449
+title: "Contact Of Project Week Attendees"
+date: 2017-06-07
+url: https://discourse.slicer.org/t/449
+---
+
 # Contact of project week attendees
 
 **Topic ID**: 449

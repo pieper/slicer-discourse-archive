@@ -1,3 +1,10 @@
+---
+topic_id: 10697
+title: "Exporting Csv With Parenchyma Analysis Module"
+date: 2020-03-16
+url: https://discourse.slicer.org/t/10697
+---
+
 # Exporting CSV with parenchyma analysis module
 
 **Topic ID**: 10697

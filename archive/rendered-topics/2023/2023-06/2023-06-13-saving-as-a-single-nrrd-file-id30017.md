@@ -1,3 +1,10 @@
+---
+topic_id: 30017
+title: "Saving As A Single Nrrd File"
+date: 2023-06-13
+url: https://discourse.slicer.org/t/30017
+---
+
 # Saving as a single NRRD File
 
 **Topic ID**: 30017

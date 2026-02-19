@@ -1,3 +1,10 @@
+---
+topic_id: 31808
+title: "Dillation Of A Specific Label And Pushing Other Label"
+date: 2023-09-20
+url: https://discourse.slicer.org/t/31808
+---
+
 # Dillation of a specific label, and pushing other label?
 
 **Topic ID**: 31808

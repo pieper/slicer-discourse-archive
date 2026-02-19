@@ -1,3 +1,10 @@
+---
+topic_id: 19173
+title: "Separating Centerline Metrics"
+date: 2021-08-12
+url: https://discourse.slicer.org/t/19173
+---
+
 # Separating centerline metrics
 
 **Topic ID**: 19173

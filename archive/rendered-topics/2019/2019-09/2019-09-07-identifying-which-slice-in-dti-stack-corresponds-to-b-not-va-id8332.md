@@ -1,3 +1,10 @@
+---
+topic_id: 8332
+title: "Identifying Which Slice In Dti Stack Corresponds To B Not Va"
+date: 2019-09-07
+url: https://discourse.slicer.org/t/8332
+---
+
 # Identifying which slice in DTI stack corresponds to b(not) value
 
 **Topic ID**: 8332

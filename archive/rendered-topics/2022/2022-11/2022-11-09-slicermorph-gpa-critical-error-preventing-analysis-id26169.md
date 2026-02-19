@@ -1,3 +1,10 @@
+---
+topic_id: 26169
+title: "Slicermorph Gpa Critical Error Preventing Analysis"
+date: 2022-11-09
+url: https://discourse.slicer.org/t/26169
+---
+
 # Slicermorph GPA: Critical Error preventing analysis
 
 **Topic ID**: 26169

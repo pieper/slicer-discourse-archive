@@ -1,3 +1,10 @@
+---
+topic_id: 12893
+title: "Issue On Exporting Dicom Images"
+date: 2020-08-07
+url: https://discourse.slicer.org/t/12893
+---
+
 # Issue on exporting DICOM images
 
 **Topic ID**: 12893

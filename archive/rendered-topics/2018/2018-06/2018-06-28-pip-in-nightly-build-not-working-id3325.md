@@ -1,3 +1,10 @@
+---
+topic_id: 3325
+title: "Pip In Nightly Build Not Working"
+date: 2018-06-28
+url: https://discourse.slicer.org/t/3325
+---
+
 # Pip in nightly build not working
 
 **Topic ID**: 3325

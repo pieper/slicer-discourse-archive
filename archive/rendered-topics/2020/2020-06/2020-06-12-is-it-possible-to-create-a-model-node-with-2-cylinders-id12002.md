@@ -1,3 +1,10 @@
+---
+topic_id: 12002
+title: "Is It Possible To Create A Model Node With 2 Cylinders"
+date: 2020-06-12
+url: https://discourse.slicer.org/t/12002
+---
+
 # Is it possible to create a Model Node with 2 cylinders?
 
 **Topic ID**: 12002

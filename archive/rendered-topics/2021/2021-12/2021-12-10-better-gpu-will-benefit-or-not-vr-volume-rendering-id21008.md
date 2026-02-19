@@ -1,3 +1,10 @@
+---
+topic_id: 21008
+title: "Better Gpu Will Benefit Or Not Vr Volume Rendering"
+date: 2021-12-10
+url: https://discourse.slicer.org/t/21008
+---
+
 # Better GPU will benefit or not VR volume rendering
 
 **Topic ID**: 21008

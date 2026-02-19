@@ -1,3 +1,10 @@
+---
+topic_id: 9189
+title: "Longitudinal Registration Image Changes And Standardisation"
+date: 2019-11-18
+url: https://discourse.slicer.org/t/9189
+---
+
 # Longitudinal registration image changes and standardisation
 
 **Topic ID**: 9189

@@ -1,3 +1,10 @@
+---
+topic_id: 45071
+title: "Musculoskeletalanalysis Extension"
+date: 2025-11-13
+url: https://discourse.slicer.org/t/45071
+---
+
 # MusculoskeletalAnalysis Extension
 
 **Topic ID**: 45071

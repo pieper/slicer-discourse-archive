@@ -1,3 +1,10 @@
+---
+topic_id: 12418
+title: "Vmtk Centerline Display By Centerlineid"
+date: 2020-07-07
+url: https://discourse.slicer.org/t/12418
+---
+
 # VMTK Centerline Display by CenterlineId
 
 **Topic ID**: 12418

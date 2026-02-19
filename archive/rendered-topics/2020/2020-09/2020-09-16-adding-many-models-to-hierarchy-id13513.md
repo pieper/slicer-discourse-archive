@@ -1,3 +1,10 @@
+---
+topic_id: 13513
+title: "Adding Many Models To Hierarchy"
+date: 2020-09-16
+url: https://discourse.slicer.org/t/13513
+---
+
 # Adding many models to hierarchy
 
 **Topic ID**: 13513

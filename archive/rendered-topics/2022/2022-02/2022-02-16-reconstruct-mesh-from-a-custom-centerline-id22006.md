@@ -1,3 +1,10 @@
+---
+topic_id: 22006
+title: "Reconstruct Mesh From A Custom Centerline"
+date: 2022-02-16
+url: https://discourse.slicer.org/t/22006
+---
+
 # Reconstruct Mesh from a custom centerline
 
 **Topic ID**: 22006

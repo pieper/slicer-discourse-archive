@@ -1,3 +1,10 @@
+---
+topic_id: 98
+title: "Firefox Discourse Shown As Blank Page Tweak Privacy Badger E"
+date: 2017-04-13
+url: https://discourse.slicer.org/t/98
+---
+
 # Firefox: Discourse shown as blank page -> Tweak "Privacy Badger" extension settings
 
 **Topic ID**: 98

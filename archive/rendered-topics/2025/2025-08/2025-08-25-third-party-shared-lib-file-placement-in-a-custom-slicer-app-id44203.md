@@ -1,3 +1,10 @@
+---
+topic_id: 44203
+title: "Third Party Shared Lib File Placement In A Custom Slicer App"
+date: 2025-08-25
+url: https://discourse.slicer.org/t/44203
+---
+
 # Third party shared LIB file placement in a custom Slicer application
 
 **Topic ID**: 44203

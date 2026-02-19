@@ -1,3 +1,10 @@
+---
+topic_id: 7488
+title: "How To Show Two Nii Gz Image Volume In Same Scene"
+date: 2019-07-09
+url: https://discourse.slicer.org/t/7488
+---
+
 # How to show two .nii.gz image volume in same scene
 
 **Topic ID**: 7488

@@ -1,3 +1,10 @@
+---
+topic_id: 34474
+title: "Is There A Module To Help Localize Lesions"
+date: 2024-02-22
+url: https://discourse.slicer.org/t/34474
+---
+
 # Is there a module to help localize lesions？
 
 **Topic ID**: 34474

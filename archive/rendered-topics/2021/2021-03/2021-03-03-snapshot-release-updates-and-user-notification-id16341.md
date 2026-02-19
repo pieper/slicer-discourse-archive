@@ -1,3 +1,10 @@
+---
+topic_id: 16341
+title: "Snapshot Release Updates And User Notification"
+date: 2021-03-03
+url: https://discourse.slicer.org/t/16341
+---
+
 # Snapshot release updates and user notification
 
 **Topic ID**: 16341

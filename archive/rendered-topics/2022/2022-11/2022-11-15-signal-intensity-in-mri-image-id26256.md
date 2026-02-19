@@ -1,3 +1,10 @@
+---
+topic_id: 26256
+title: "Signal Intensity In Mri Image"
+date: 2022-11-15
+url: https://discourse.slicer.org/t/26256
+---
+
 # Signal intensity in mri image
 
 **Topic ID**: 26256

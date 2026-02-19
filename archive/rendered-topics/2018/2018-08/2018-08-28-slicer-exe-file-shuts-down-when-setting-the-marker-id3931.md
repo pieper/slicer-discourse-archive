@@ -1,3 +1,10 @@
+---
+topic_id: 3931
+title: "Slicer Exe File Shuts Down When Setting The Marker"
+date: 2018-08-28
+url: https://discourse.slicer.org/t/3931
+---
+
 # Slicer.exe file shuts down when setting the marker
 
 **Topic ID**: 3931

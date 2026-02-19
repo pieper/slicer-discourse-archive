@@ -1,3 +1,10 @@
+---
+topic_id: 6392
+title: "Light Direction In Volume Rendering"
+date: 2019-04-04
+url: https://discourse.slicer.org/t/6392
+---
+
 # Light direction in volume rendering
 
 **Topic ID**: 6392

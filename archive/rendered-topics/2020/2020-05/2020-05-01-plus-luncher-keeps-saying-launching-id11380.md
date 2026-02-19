@@ -1,3 +1,10 @@
+---
+topic_id: 11380
+title: "Plus Luncher Keeps Saying Launching"
+date: 2020-05-01
+url: https://discourse.slicer.org/t/11380
+---
+
 # Plus Luncher keeps saying "Launching"?
 
 **Topic ID**: 11380

@@ -1,3 +1,10 @@
+---
+topic_id: 23795
+title: "Can I Get A Specific Vertex Number Surface Model From Lung C"
+date: 2022-06-09
+url: https://discourse.slicer.org/t/23795
+---
+
 # Can I get a specific vertex number surface model from lung CT and its segmentation？
 
 **Topic ID**: 23795

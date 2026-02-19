@@ -1,3 +1,10 @@
+---
+topic_id: 37836
+title: "3D Brain Modeling Question From Flair Mri"
+date: 2024-08-11
+url: https://discourse.slicer.org/t/37836
+---
+
 # 3d Brain modeling question from Flair MRI
 
 **Topic ID**: 37836

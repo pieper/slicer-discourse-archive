@@ -1,3 +1,10 @@
+---
+topic_id: 1566
+title: "Merge Dicom Or Nrrd Or Nii Images"
+date: 2017-11-30
+url: https://discourse.slicer.org/t/1566
+---
+
 # Merge dicom or nrrd or nii images
 
 **Topic ID**: 1566

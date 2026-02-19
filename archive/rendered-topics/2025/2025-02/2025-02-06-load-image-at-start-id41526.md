@@ -1,3 +1,10 @@
+---
+topic_id: 41526
+title: "Load Image At Start"
+date: 2025-02-06
+url: https://discourse.slicer.org/t/41526
+---
+
 # Load image at Start
 
 **Topic ID**: 41526

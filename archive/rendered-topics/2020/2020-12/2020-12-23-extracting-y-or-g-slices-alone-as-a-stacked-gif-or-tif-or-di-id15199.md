@@ -1,3 +1,10 @@
+---
+topic_id: 15199
+title: "Extracting Y Or G Slices Alone As A Stacked Gif Or Tif Or Di"
+date: 2020-12-23
+url: https://discourse.slicer.org/t/15199
+---
+
 # Extracting Y or G slices alone as a stacked GIF or TIF or DICOM files
 
 **Topic ID**: 15199

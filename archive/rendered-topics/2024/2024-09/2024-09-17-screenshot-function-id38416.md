@@ -1,3 +1,10 @@
+---
+topic_id: 38416
+title: "Screenshot Function"
+date: 2024-09-17
+url: https://discourse.slicer.org/t/38416
+---
+
 # Screenshot function
 
 **Topic ID**: 38416

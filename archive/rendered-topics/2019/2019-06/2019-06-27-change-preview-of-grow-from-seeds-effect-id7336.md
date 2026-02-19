@@ -1,3 +1,10 @@
+---
+topic_id: 7336
+title: "Change Preview Of Grow From Seeds Effect"
+date: 2019-06-27
+url: https://discourse.slicer.org/t/7336
+---
+
 # Change preview of Grow from seeds effect
 
 **Topic ID**: 7336

@@ -1,3 +1,10 @@
+---
+topic_id: 28521
+title: "Subdural Electrodes"
+date: 2023-03-22
+url: https://discourse.slicer.org/t/28521
+---
+
 # Subdural electrodes
 
 **Topic ID**: 28521

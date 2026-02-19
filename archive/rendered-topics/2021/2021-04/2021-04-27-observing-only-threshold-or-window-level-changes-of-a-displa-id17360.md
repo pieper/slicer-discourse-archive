@@ -1,3 +1,10 @@
+---
+topic_id: 17360
+title: "Observing Only Threshold Or Window Level Changes Of A Displa"
+date: 2021-04-27
+url: https://discourse.slicer.org/t/17360
+---
+
 # Observing Only Threshold or Window/Level changes of a display node
 
 **Topic ID**: 17360

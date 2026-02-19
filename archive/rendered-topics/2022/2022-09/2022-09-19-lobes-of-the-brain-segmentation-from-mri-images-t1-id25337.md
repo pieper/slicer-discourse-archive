@@ -1,3 +1,10 @@
+---
+topic_id: 25337
+title: "Lobes Of The Brain Segmentation From Mri Images T1"
+date: 2022-09-19
+url: https://discourse.slicer.org/t/25337
+---
+
 # Lobes of the brain segmentation from MRI images (T1)
 
 **Topic ID**: 25337

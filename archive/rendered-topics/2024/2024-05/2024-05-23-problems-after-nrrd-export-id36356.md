@@ -1,3 +1,10 @@
+---
+topic_id: 36356
+title: "Problems After Nrrd Export"
+date: 2024-05-23
+url: https://discourse.slicer.org/t/36356
+---
+
 # Problems After nrrd Export
 
 **Topic ID**: 36356

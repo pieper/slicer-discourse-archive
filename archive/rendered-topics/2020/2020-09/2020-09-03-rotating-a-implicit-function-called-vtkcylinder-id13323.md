@@ -1,3 +1,10 @@
+---
+topic_id: 13323
+title: "Rotating A Implicit Function Called Vtkcylinder"
+date: 2020-09-03
+url: https://discourse.slicer.org/t/13323
+---
+
 # Rotating a implicit function called vtkCylinder
 
 **Topic ID**: 13323

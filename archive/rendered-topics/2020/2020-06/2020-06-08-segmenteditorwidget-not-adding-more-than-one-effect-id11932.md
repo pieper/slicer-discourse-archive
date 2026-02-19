@@ -1,3 +1,10 @@
+---
+topic_id: 11932
+title: "Segmenteditorwidget Not Adding More Than One Effect"
+date: 2020-06-08
+url: https://discourse.slicer.org/t/11932
+---
+
 # SegmentEditorWidget not adding more than one effect
 
 **Topic ID**: 11932

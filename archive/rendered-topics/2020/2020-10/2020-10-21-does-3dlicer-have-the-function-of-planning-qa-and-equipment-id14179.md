@@ -1,3 +1,10 @@
+---
+topic_id: 14179
+title: "Does 3Dlicer Have The Function Of Planning Qa And Equipment"
+date: 2020-10-21
+url: https://discourse.slicer.org/t/14179
+---
+
 # Does 3dlicer have the function of planning QA and equipment QA for some RT data?
 
 **Topic ID**: 14179

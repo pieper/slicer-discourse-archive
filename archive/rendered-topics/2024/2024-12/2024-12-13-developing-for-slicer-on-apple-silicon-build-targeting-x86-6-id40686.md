@@ -1,3 +1,10 @@
+---
+topic_id: 40686
+title: "Developing For Slicer On Apple Silicon Build Targeting X86 6"
+date: 2024-12-13
+url: https://discourse.slicer.org/t/40686
+---
+
 # Developing for Slicer on Apple Silicon (build targeting x86_64)
 
 **Topic ID**: 40686

@@ -1,3 +1,10 @@
+---
+topic_id: 31291
+title: "Can 3D Slicer Be Installed On Nvidia Jetson"
+date: 2023-08-22
+url: https://discourse.slicer.org/t/31291
+---
+
 # Can 3D Slicer be installed on NVIDIA Jetson?
 
 **Topic ID**: 31291

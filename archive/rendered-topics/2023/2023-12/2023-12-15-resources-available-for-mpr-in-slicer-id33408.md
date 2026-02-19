@@ -1,3 +1,10 @@
+---
+topic_id: 33408
+title: "Resources Available For Mpr In Slicer"
+date: 2023-12-15
+url: https://discourse.slicer.org/t/33408
+---
+
 # Resources available for MPR in Slicer
 
 **Topic ID**: 33408

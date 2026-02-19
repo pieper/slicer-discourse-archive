@@ -1,3 +1,10 @@
+---
+topic_id: 43873
+title: "Body Analysis Smi And Adipose Tissue"
+date: 2025-07-28
+url: https://discourse.slicer.org/t/43873
+---
+
 # Body analysis (smi and adipose tissue)
 
 **Topic ID**: 43873

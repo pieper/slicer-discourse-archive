@@ -1,3 +1,10 @@
+---
+topic_id: 24387
+title: "Issues With Combine Models Module"
+date: 2022-07-19
+url: https://discourse.slicer.org/t/24387
+---
+
 # Issues with Combine models module
 
 **Topic ID**: 24387

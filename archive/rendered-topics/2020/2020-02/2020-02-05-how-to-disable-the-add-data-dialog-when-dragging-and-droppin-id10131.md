@@ -1,3 +1,10 @@
+---
+topic_id: 10131
+title: "How To Disable The Add Data Dialog When Dragging And Droppin"
+date: 2020-02-05
+url: https://discourse.slicer.org/t/10131
+---
+
 # How to disable the Add Data Dialog when dragging and dropping an .mrml file into Slicer?
 
 **Topic ID**: 10131

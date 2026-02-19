@@ -1,3 +1,10 @@
+---
+topic_id: 22369
+title: "Slicer Memory Leak"
+date: 2022-03-08
+url: https://discourse.slicer.org/t/22369
+---
+
 # Slicer Memory Leak
 
 **Topic ID**: 22369

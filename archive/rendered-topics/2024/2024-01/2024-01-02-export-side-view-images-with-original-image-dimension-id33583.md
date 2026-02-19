@@ -1,3 +1,10 @@
+---
+topic_id: 33583
+title: "Export Side View Images With Original Image Dimension"
+date: 2024-01-02
+url: https://discourse.slicer.org/t/33583
+---
+
 # Export side view images with Original image dimension
 
 **Topic ID**: 33583

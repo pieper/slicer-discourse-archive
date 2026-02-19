@@ -1,3 +1,10 @@
+---
+topic_id: 13833
+title: "Converting Labelmapvolume Node With Only One Label To Segmen"
+date: 2020-10-02
+url: https://discourse.slicer.org/t/13833
+---
+
 # Converting labelmapvolume node with only one label to segmentation node does not use colour table
 
 **Topic ID**: 13833

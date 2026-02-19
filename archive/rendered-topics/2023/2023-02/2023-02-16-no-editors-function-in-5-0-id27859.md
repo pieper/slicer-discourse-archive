@@ -1,3 +1,10 @@
+---
+topic_id: 27859
+title: "No Editors Function In 5 0"
+date: 2023-02-16
+url: https://discourse.slicer.org/t/27859
+---
+
 # No 'editor's function in 5.0
 
 **Topic ID**: 27859

@@ -1,3 +1,10 @@
+---
+topic_id: 13327
+title: "Alignment Of 2 Models For Landmark Recognition"
+date: 2020-09-03
+url: https://discourse.slicer.org/t/13327
+---
+
 # Alignment of 2 models for landmark recognition
 
 **Topic ID**: 13327

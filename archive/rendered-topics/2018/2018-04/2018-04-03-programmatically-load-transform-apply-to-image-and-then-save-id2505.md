@@ -1,3 +1,10 @@
+---
+topic_id: 2505
+title: "Programmatically Load Transform Apply To Image And Then Save"
+date: 2018-04-03
+url: https://discourse.slicer.org/t/2505
+---
+
 # Programmatically load transform apply to image and then save
 
 **Topic ID**: 2505

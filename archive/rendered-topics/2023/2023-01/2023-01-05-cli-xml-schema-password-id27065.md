@@ -1,3 +1,10 @@
+---
+topic_id: 27065
+title: "Cli Xml Schema Password"
+date: 2023-01-05
+url: https://discourse.slicer.org/t/27065
+---
+
 # CLI XML schema password
 
 **Topic ID**: 27065

@@ -1,3 +1,10 @@
+---
+topic_id: 19761
+title: "Vtkvmtkcenterlinebranchextractorfunction Bug"
+date: 2021-09-20
+url: https://discourse.slicer.org/t/19761
+---
+
 # vtkvmtkCenterlineBranchExtractorfunction bug
 
 **Topic ID**: 19761

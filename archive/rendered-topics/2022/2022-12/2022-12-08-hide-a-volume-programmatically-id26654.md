@@ -1,3 +1,10 @@
+---
+topic_id: 26654
+title: "Hide A Volume Programmatically"
+date: 2022-12-08
+url: https://discourse.slicer.org/t/26654
+---
+
 # Hide a volume programmatically
 
 **Topic ID**: 26654

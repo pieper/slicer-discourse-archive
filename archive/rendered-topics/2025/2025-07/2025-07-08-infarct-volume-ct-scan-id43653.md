@@ -1,3 +1,10 @@
+---
+topic_id: 43653
+title: "Infarct Volume Ct Scan"
+date: 2025-07-08
+url: https://discourse.slicer.org/t/43653
+---
+
 # Infarct volume CT scan
 
 **Topic ID**: 43653

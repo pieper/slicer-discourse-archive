@@ -1,3 +1,10 @@
+---
+topic_id: 30821
+title: "Cannot Import Dicom Files"
+date: 2023-07-27
+url: https://discourse.slicer.org/t/30821
+---
+
 # Cannot Import DICOM files
 
 **Topic ID**: 30821

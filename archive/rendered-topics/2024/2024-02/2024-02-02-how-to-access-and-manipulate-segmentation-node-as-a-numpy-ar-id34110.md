@@ -1,3 +1,10 @@
+---
+topic_id: 34110
+title: "How To Access And Manipulate Segmentation Node As A Numpy Ar"
+date: 2024-02-02
+url: https://discourse.slicer.org/t/34110
+---
+
 # How to access and manipulate segmentation node as a numpy array?
 
 **Topic ID**: 34110

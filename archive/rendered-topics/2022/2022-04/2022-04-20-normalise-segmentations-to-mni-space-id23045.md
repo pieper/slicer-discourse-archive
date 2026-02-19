@@ -1,3 +1,10 @@
+---
+topic_id: 23045
+title: "Normalise Segmentations To Mni Space"
+date: 2022-04-20
+url: https://discourse.slicer.org/t/23045
+---
+
 # Normalise segmentations to MNI space
 
 **Topic ID**: 23045

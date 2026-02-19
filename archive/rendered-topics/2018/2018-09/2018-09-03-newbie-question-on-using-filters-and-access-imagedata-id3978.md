@@ -1,3 +1,10 @@
+---
+topic_id: 3978
+title: "Newbie Question On Using Filters And Access Imagedata"
+date: 2018-09-03
+url: https://discourse.slicer.org/t/3978
+---
+
 # Newbie question on using filters and access imagedata
 
 **Topic ID**: 3978

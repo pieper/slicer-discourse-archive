@@ -1,3 +1,10 @@
+---
+topic_id: 40238
+title: "Surface Smoothing In Volume Rendering Sparkling Artifacts On"
+date: 2024-11-18
+url: https://discourse.slicer.org/t/40238
+---
+
 # "Surface Smoothing" in Volume Rendering - Sparkling Artifacts on Rendered Images
 
 **Topic ID**: 40238

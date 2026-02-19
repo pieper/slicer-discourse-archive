@@ -1,3 +1,10 @@
+---
+topic_id: 1466
+title: "Unable To Build Ctk Sitk"
+date: 2017-11-15
+url: https://discourse.slicer.org/t/1466
+---
+
 # Unable to Build CTK & SITK
 
 **Topic ID**: 1466

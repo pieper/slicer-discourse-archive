@@ -1,3 +1,10 @@
+---
+topic_id: 39564
+title: "Productivity Boosts For Slicer My Top Suggestions"
+date: 2024-10-07
+url: https://discourse.slicer.org/t/39564
+---
+
 # Productivity Boosts for Slicer: My Top Suggestions
 
 **Topic ID**: 39564

@@ -1,3 +1,10 @@
+---
+topic_id: 614
+title: "Non Functional Subject Hierarchy Button In The Toolbar"
+date: 2017-07-02
+url: https://discourse.slicer.org/t/614
+---
+
 # Non-functional "Subject hierarchy" button in the toolbar
 
 **Topic ID**: 614

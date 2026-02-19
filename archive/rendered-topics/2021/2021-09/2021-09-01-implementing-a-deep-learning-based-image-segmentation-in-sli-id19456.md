@@ -1,3 +1,10 @@
+---
+topic_id: 19456
+title: "Implementing A Deep Learning Based Image Segmentation In Sli"
+date: 2021-09-01
+url: https://discourse.slicer.org/t/19456
+---
+
 # Implementing a deep learning based image segmentation in Slicer3D
 
 **Topic ID**: 19456

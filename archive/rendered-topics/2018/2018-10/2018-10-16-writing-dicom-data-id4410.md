@@ -1,3 +1,10 @@
+---
+topic_id: 4410
+title: "Writing Dicom Data"
+date: 2018-10-16
+url: https://discourse.slicer.org/t/4410
+---
+
 # Writing dicom data
 
 **Topic ID**: 4410

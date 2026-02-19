@@ -1,3 +1,10 @@
+---
+topic_id: 21130
+title: "C Debugging Slicercat Takes About 10 Minutes To Start On Ubu"
+date: 2021-12-18
+url: https://discourse.slicer.org/t/21130
+---
+
 # C++ debugging SlicerCAT takes about 10 minutes to start on Ubuntu
 
 **Topic ID**: 21130

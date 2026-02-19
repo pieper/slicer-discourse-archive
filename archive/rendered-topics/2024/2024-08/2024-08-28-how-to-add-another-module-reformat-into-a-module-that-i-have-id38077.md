@@ -1,3 +1,10 @@
+---
+topic_id: 38077
+title: "How To Add Another Module Reformat Into A Module That I Have"
+date: 2024-08-28
+url: https://discourse.slicer.org/t/38077
+---
+
 # How to add another module (Reformat) into a module that I have created?
 
 **Topic ID**: 38077

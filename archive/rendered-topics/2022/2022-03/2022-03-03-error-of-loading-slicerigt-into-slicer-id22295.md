@@ -1,3 +1,10 @@
+---
+topic_id: 22295
+title: "Error Of Loading Slicerigt Into Slicer"
+date: 2022-03-03
+url: https://discourse.slicer.org/t/22295
+---
+
 # Error of loading SlicerIGT into Slicer
 
 **Topic ID**: 22295

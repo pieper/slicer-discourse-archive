@@ -1,3 +1,10 @@
+---
+topic_id: 25176
+title: "Cutting Planes In 3D Slicer 4 6"
+date: 2022-09-09
+url: https://discourse.slicer.org/t/25176
+---
+
 # Cutting planes in 3D Slicer 4.6
 
 **Topic ID**: 25176

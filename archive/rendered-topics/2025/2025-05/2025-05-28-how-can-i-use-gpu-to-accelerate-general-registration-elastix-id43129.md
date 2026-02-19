@@ -1,3 +1,10 @@
+---
+topic_id: 43129
+title: "How Can I Use Gpu To Accelerate General Registration Elastix"
+date: 2025-05-28
+url: https://discourse.slicer.org/t/43129
+---
+
 # How can I use GPU to accelerate General Registration (Elastix) module?
 
 **Topic ID**: 43129

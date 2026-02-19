@@ -1,3 +1,10 @@
+---
+topic_id: 23514
+title: "Dcmtk Error When Building Slicer For Arm64 Macos Monterey"
+date: 2022-05-20
+url: https://discourse.slicer.org/t/23514
+---
+
 # DCMTK error when building Slicer for arm64 MacOS Monterey
 
 **Topic ID**: 23514

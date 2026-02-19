@@ -1,3 +1,10 @@
+---
+topic_id: 37019
+title: "Archaeological Artefact Studys"
+date: 2024-06-25
+url: https://discourse.slicer.org/t/37019
+---
+
 # Archaeological Artefact Studys
 
 **Topic ID**: 37019

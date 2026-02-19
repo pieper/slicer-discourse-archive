@@ -1,3 +1,10 @@
+---
+topic_id: 40025
+title: "Further Simplifying A Custom 3D Slicer Application Removing"
+date: 2024-11-04
+url: https://discourse.slicer.org/t/40025
+---
+
 #  Further Simplifying a Custom 3D Slicer Application: Removing Unneeded Modules and Adding Custom Modules
 
 **Topic ID**: 40025

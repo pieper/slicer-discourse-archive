@@ -1,3 +1,10 @@
+---
+topic_id: 2620
+title: "Cant Find Batch Processing"
+date: 2018-04-18
+url: https://discourse.slicer.org/t/2620
+---
+
 # can't find batch processing
 
 **Topic ID**: 2620

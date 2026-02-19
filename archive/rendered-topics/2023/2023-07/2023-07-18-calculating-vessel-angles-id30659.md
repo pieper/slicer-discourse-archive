@@ -1,3 +1,10 @@
+---
+topic_id: 30659
+title: "Calculating Vessel Angles"
+date: 2023-07-18
+url: https://discourse.slicer.org/t/30659
+---
+
 # calculating vessel angles
 
 **Topic ID**: 30659

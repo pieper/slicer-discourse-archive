@@ -1,3 +1,10 @@
+---
+topic_id: 545
+title: "Segmentations Can Get Big"
+date: 2017-06-21
+url: https://discourse.slicer.org/t/545
+---
+
 # Segmentations can get big!
 
 **Topic ID**: 545

@@ -1,3 +1,10 @@
+---
+topic_id: 27225
+title: "How To Convert A Model To A Segment"
+date: 2023-01-13
+url: https://discourse.slicer.org/t/27225
+---
+
 # How to convert a model to a segment?
 
 **Topic ID**: 27225

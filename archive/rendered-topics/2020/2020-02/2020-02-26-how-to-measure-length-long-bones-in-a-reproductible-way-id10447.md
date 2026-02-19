@@ -1,3 +1,10 @@
+---
+topic_id: 10447
+title: "How To Measure Length Long Bones In A Reproductible Way"
+date: 2020-02-26
+url: https://discourse.slicer.org/t/10447
+---
+
 # How to measure length long bones in a reproductible way?
 
 **Topic ID**: 10447

@@ -1,3 +1,10 @@
+---
+topic_id: 27794
+title: "Ct Colonography"
+date: 2023-02-13
+url: https://discourse.slicer.org/t/27794
+---
+
 # CT Colonography
 
 **Topic ID**: 27794

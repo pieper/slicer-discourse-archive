@@ -1,3 +1,10 @@
+---
+topic_id: 35594
+title: "Appimage For Linux Systems"
+date: 2024-04-18
+url: https://discourse.slicer.org/t/35594
+---
+
 # Appimage - for linux systems
 
 **Topic ID**: 35594

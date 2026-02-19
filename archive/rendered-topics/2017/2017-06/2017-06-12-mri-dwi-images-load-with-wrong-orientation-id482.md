@@ -1,3 +1,10 @@
+---
+topic_id: 482
+title: "Mri Dwi Images Load With Wrong Orientation"
+date: 2017-06-12
+url: https://discourse.slicer.org/t/482
+---
+
 # MRI DWI images load with wrong orientation
 
 **Topic ID**: 482

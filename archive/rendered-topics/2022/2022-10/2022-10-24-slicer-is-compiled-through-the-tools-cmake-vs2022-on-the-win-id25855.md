@@ -1,3 +1,10 @@
+---
+topic_id: 25855
+title: "Slicer Is Compiled Through The Tools Cmake Vs2022 On The Win"
+date: 2022-10-24
+url: https://discourse.slicer.org/t/25855
+---
+
 # Slicer is compiled through the tools cmake, VS2022 on the Win10 platform, and the compiled project can be directly developed on other Windows 10 platforms? If so, how do you need to configure it?
 
 **Topic ID**: 25855

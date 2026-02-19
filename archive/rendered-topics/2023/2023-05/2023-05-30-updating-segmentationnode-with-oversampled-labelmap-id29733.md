@@ -1,3 +1,10 @@
+---
+topic_id: 29733
+title: "Updating Segmentationnode With Oversampled Labelmap"
+date: 2023-05-30
+url: https://discourse.slicer.org/t/29733
+---
+
 # Updating segmentationNode with oversampled labelmap
 
 **Topic ID**: 29733

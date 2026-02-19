@@ -1,3 +1,10 @@
+---
+topic_id: 13139
+title: "Issue Creating Binder Repository To Share Slicer Notebooks W"
+date: 2020-08-24
+url: https://discourse.slicer.org/t/13139
+---
+
 # Issue creating binder repository to share Slicer notebooks (Wrong Kernel)
 
 **Topic ID**: 13139

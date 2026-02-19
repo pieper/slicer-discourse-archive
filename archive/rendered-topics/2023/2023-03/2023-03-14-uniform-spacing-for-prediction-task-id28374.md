@@ -1,3 +1,10 @@
+---
+topic_id: 28374
+title: "Uniform Spacing For Prediction Task"
+date: 2023-03-14
+url: https://discourse.slicer.org/t/28374
+---
+
 # Uniform spacing for prediction task
 
 **Topic ID**: 28374

@@ -1,3 +1,10 @@
+---
+topic_id: 21442
+title: "Replace Voxel Values With Probabilities"
+date: 2022-01-13
+url: https://discourse.slicer.org/t/21442
+---
+
 # Replace voxel values with probabilities
 
 **Topic ID**: 21442

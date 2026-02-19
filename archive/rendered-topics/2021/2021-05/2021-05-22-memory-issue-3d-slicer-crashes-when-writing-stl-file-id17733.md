@@ -1,3 +1,10 @@
+---
+topic_id: 17733
+title: "Memory Issue 3D Slicer Crashes When Writing Stl File"
+date: 2021-05-22
+url: https://discourse.slicer.org/t/17733
+---
+
 # Memory issue (3d Slicer crashes when writing STL file)
 
 **Topic ID**: 17733

@@ -1,3 +1,10 @@
+---
+topic_id: 14173
+title: "How To Get The Boundaries Of A Model"
+date: 2020-10-20
+url: https://discourse.slicer.org/t/14173
+---
+
 # How to get the boundaries of a model
 
 **Topic ID**: 14173

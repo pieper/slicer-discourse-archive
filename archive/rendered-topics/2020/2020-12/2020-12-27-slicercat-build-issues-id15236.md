@@ -1,3 +1,10 @@
+---
+topic_id: 15236
+title: "Slicercat Build Issues"
+date: 2020-12-27
+url: https://discourse.slicer.org/t/15236
+---
+
 # SlicerCAT build issues.
 
 **Topic ID**: 15236

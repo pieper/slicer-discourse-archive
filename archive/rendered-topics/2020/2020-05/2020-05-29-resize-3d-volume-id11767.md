@@ -1,3 +1,10 @@
+---
+topic_id: 11767
+title: "Resize 3D Volume"
+date: 2020-05-29
+url: https://discourse.slicer.org/t/11767
+---
+
 # Resize 3d volume
 
 **Topic ID**: 11767

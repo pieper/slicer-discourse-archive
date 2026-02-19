@@ -1,3 +1,10 @@
+---
+topic_id: 351
+title: "Slicer Crash On Fresh Build"
+date: 2017-05-20
+url: https://discourse.slicer.org/t/351
+---
+
 # Slicer crash on fresh build
 
 **Topic ID**: 351

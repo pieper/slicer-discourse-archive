@@ -1,3 +1,10 @@
+---
+topic_id: 34331
+title: "Slicermorph Semilandmarks"
+date: 2024-02-14
+url: https://discourse.slicer.org/t/34331
+---
+
 # SlicerMorph - semilandmarks
 
 **Topic ID**: 34331

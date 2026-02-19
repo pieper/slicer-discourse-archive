@@ -1,3 +1,10 @@
+---
+topic_id: 36664
+title: "3D Object Color Map Creation"
+date: 2024-06-08
+url: https://discourse.slicer.org/t/36664
+---
+
 # 3D object color map creation
 
 **Topic ID**: 36664

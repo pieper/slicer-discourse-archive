@@ -1,3 +1,10 @@
+---
+topic_id: 40586
+title: "Is There A Module For The Measurement Of Structural Paramete"
+date: 2024-12-09
+url: https://discourse.slicer.org/t/40586
+---
+
 # Is there a module for the measurement of structural parameters of X-CTs of the proximal femur?
 
 **Topic ID**: 40586

@@ -1,3 +1,10 @@
+---
+topic_id: 33150
+title: "No Stable Linux Extension Packages Since Nov 26Th"
+date: 2023-11-30
+url: https://discourse.slicer.org/t/33150
+---
+
 # No "Stable" Linux extension packages since Nov 26th
 
 **Topic ID**: 33150

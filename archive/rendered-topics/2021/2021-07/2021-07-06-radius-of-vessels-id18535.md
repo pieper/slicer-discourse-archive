@@ -1,3 +1,10 @@
+---
+topic_id: 18535
+title: "Radius Of Vessels"
+date: 2021-07-06
+url: https://discourse.slicer.org/t/18535
+---
+
 # Radius of vessels
 
 **Topic ID**: 18535

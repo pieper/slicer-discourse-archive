@@ -1,3 +1,10 @@
+---
+topic_id: 41371
+title: "I Want To Save From Dicom To Vtk Format For Comparision T1 T"
+date: 2025-01-30
+url: https://discourse.slicer.org/t/41371
+---
+
 # I want to save : from dicom to VTK format for comparision T1, T2 Face image
 
 **Topic ID**: 41371

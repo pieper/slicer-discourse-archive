@@ -1,3 +1,10 @@
+---
+topic_id: 28381
+title: "External Gpu To Speed Up Slicer Running On An Imac"
+date: 2023-03-14
+url: https://discourse.slicer.org/t/28381
+---
+
 # External GPU to speed up slicer running on an Imac
 
 **Topic ID**: 28381

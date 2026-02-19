@@ -1,3 +1,10 @@
+---
+topic_id: 23861
+title: "How To Create A 3D Model Of A Uterus With Fibroids"
+date: 2022-06-13
+url: https://discourse.slicer.org/t/23861
+---
+
 # how to create a 3d model of a uterus with fibroids?
 
 **Topic ID**: 23861

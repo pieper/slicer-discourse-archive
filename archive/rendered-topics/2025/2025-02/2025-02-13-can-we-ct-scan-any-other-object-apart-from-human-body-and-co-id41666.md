@@ -1,3 +1,10 @@
+---
+topic_id: 41666
+title: "Can We Ct Scan Any Other Object Apart From Human Body And Co"
+date: 2025-02-13
+url: https://discourse.slicer.org/t/41666
+---
+
 # Can we CT scan any other object apart from human body and convert it into stl
 
 **Topic ID**: 41666

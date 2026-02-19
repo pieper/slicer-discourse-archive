@@ -1,3 +1,10 @@
+---
+topic_id: 26834
+title: "Na Mic Project Week Reminder Project Week 38 Preparation Mee"
+date: 2022-12-19
+url: https://discourse.slicer.org/t/26834
+---
+
 # [Na-mic-project-week] Reminder: Project Week 38 preparation meeting tomorrow (Dec 20th)
 
 **Topic ID**: 26834

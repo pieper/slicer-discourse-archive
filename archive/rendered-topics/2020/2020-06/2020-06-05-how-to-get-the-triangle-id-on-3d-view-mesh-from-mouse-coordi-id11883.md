@@ -1,3 +1,10 @@
+---
+topic_id: 11883
+title: "How To Get The Triangle Id On 3D View Mesh From Mouse Coordi"
+date: 2020-06-05
+url: https://discourse.slicer.org/t/11883
+---
+
 # How to get the triangle ID on 3D view (mesh) from mouse coordinates in slice view
 
 **Topic ID**: 11883

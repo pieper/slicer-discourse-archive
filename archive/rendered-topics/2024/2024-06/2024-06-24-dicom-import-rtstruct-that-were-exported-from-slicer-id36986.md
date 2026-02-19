@@ -1,3 +1,10 @@
+---
+topic_id: 36986
+title: "Dicom Import Rtstruct That Were Exported From Slicer"
+date: 2024-06-24
+url: https://discourse.slicer.org/t/36986
+---
+
 # Dicom import RTSTRUCT that were exported from slicer
 
 **Topic ID**: 36986

@@ -1,3 +1,10 @@
+---
+topic_id: 970
+title: "Slicer Using Slicer Rt Module Crashes When Saving Mrmlcore D"
+date: 2017-08-30
+url: https://discourse.slicer.org/t/970
+---
+
 # Slicer (using Slicer RT module) crashes when saving. 'MRMLcore.dll' error from Windows event log
 
 **Topic ID**: 970

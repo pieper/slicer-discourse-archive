@@ -1,3 +1,10 @@
+---
+topic_id: 497
+title: "What Scene Views Are Supposed To Do"
+date: 2017-06-13
+url: https://discourse.slicer.org/t/497
+---
+
 # What scene views are supposed to do?
 
 **Topic ID**: 497

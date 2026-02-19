@@ -1,3 +1,10 @@
+---
+topic_id: 16811
+title: "Nvidia Aiaa Segment Editor Effect Returns Url Not Found Erro"
+date: 2021-03-28
+url: https://discourse.slicer.org/t/16811
+---
+
 # NVidia AIAA segment editor effect returns "URL not found" error
 
 **Topic ID**: 16811

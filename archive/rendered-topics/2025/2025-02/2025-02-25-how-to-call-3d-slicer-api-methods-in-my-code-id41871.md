@@ -1,3 +1,10 @@
+---
+topic_id: 41871
+title: "How To Call 3D Slicer Api Methods In My Code"
+date: 2025-02-25
+url: https://discourse.slicer.org/t/41871
+---
+
 # How to Call 3D Slicer API Methods in My Code?
 
 **Topic ID**: 41871

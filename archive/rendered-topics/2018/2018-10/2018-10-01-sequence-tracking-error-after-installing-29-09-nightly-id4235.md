@@ -1,3 +1,10 @@
+---
+topic_id: 4235
+title: "Sequence Tracking Error After Installing 29 09 Nightly"
+date: 2018-10-01
+url: https://discourse.slicer.org/t/4235
+---
+
 # Sequence tracking error after installing 29/09 nightly
 
 **Topic ID**: 4235

@@ -1,3 +1,10 @@
+---
+topic_id: 8315
+title: "Segmentation Of Muscles"
+date: 2019-09-05
+url: https://discourse.slicer.org/t/8315
+---
+
 # Segmentation of muscles
 
 **Topic ID**: 8315

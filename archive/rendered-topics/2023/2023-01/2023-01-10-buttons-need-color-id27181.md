@@ -1,3 +1,10 @@
+---
+topic_id: 27181
+title: "Buttons Need Color"
+date: 2023-01-10
+url: https://discourse.slicer.org/t/27181
+---
+
 # Buttons need color
 
 **Topic ID**: 27181

@@ -1,3 +1,10 @@
+---
+topic_id: 437
+title: "Update Of Slicer Issue Tracker"
+date: 2017-06-02
+url: https://discourse.slicer.org/t/437
+---
+
 # Update of Slicer issue tracker
 
 **Topic ID**: 437

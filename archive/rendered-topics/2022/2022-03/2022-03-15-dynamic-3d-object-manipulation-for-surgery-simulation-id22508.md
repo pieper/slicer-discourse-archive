@@ -1,3 +1,10 @@
+---
+topic_id: 22508
+title: "Dynamic 3D Object Manipulation For Surgery Simulation"
+date: 2022-03-15
+url: https://discourse.slicer.org/t/22508
+---
+
 # Dynamic 3D Object Manipulation for surgery simulation
 
 **Topic ID**: 22508

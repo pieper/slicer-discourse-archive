@@ -1,3 +1,10 @@
+---
+topic_id: 23279
+title: "Use Of Python Interactor And Already Built In Functions For"
+date: 2022-05-04
+url: https://discourse.slicer.org/t/23279
+---
+
 # Use of python interactor and already built-in functions for workflow efficiency
 
 **Topic ID**: 23279

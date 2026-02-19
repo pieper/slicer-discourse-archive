@@ -1,3 +1,10 @@
+---
+topic_id: 20773
+title: "No Segmenteditorextraeffects In V4 13"
+date: 2021-11-24
+url: https://discourse.slicer.org/t/20773
+---
+
 # No segmentEditorExtraEffects in v4.13
 
 **Topic ID**: 20773

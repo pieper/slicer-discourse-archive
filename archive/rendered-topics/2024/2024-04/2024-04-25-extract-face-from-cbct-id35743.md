@@ -1,3 +1,10 @@
+---
+topic_id: 35743
+title: "Extract Face From Cbct"
+date: 2024-04-25
+url: https://discourse.slicer.org/t/35743
+---
+
 # Extract face from CBCT
 
 **Topic ID**: 35743

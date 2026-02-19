@@ -1,3 +1,10 @@
+---
+topic_id: 24640
+title: "Funtion Or Equation Of Centreline"
+date: 2022-08-04
+url: https://discourse.slicer.org/t/24640
+---
+
 # Funtion or Equation of centreline
 
 **Topic ID**: 24640

@@ -1,3 +1,10 @@
+---
+topic_id: 13877
+title: "Validity Of Radiomics Fractional Bin Width"
+date: 2020-10-06
+url: https://discourse.slicer.org/t/13877
+---
+
 # Validity of Radiomics Fractional Bin Width
 
 **Topic ID**: 13877

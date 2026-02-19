@@ -1,3 +1,10 @@
+---
+topic_id: 44899
+title: "Manual Surface Registration"
+date: 2025-10-28
+url: https://discourse.slicer.org/t/44899
+---
+
 # Manual Surface Registration
 
 **Topic ID**: 44899

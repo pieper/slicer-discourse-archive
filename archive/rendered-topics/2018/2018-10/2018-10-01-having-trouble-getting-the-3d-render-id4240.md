@@ -1,3 +1,10 @@
+---
+topic_id: 4240
+title: "Having Trouble Getting The 3D Render"
+date: 2018-10-01
+url: https://discourse.slicer.org/t/4240
+---
+
 # having trouble getting the 3d render.
 
 **Topic ID**: 4240

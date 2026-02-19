@@ -1,3 +1,10 @@
+---
+topic_id: 20238
+title: "Markups Draw Curve"
+date: 2021-10-19
+url: https://discourse.slicer.org/t/20238
+---
+
 # Markups draw curve
 
 **Topic ID**: 20238

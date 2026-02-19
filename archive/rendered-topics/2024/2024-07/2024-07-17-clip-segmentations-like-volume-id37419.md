@@ -1,3 +1,10 @@
+---
+topic_id: 37419
+title: "Clip Segmentations Like Volume"
+date: 2024-07-17
+url: https://discourse.slicer.org/t/37419
+---
+
 # Clip segmentations like volume
 
 **Topic ID**: 37419

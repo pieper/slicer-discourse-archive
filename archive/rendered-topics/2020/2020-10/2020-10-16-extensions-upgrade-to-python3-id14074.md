@@ -1,3 +1,10 @@
+---
+topic_id: 14074
+title: "Extensions Upgrade To Python3"
+date: 2020-10-16
+url: https://discourse.slicer.org/t/14074
+---
+
 # Extensions upgrade to Python3
 
 **Topic ID**: 14074

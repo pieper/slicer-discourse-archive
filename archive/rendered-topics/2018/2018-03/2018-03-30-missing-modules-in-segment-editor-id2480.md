@@ -1,3 +1,10 @@
+---
+topic_id: 2480
+title: "Missing Modules In Segment Editor"
+date: 2018-03-30
+url: https://discourse.slicer.org/t/2480
+---
+
 # Missing Modules in Segment Editor
 
 **Topic ID**: 2480

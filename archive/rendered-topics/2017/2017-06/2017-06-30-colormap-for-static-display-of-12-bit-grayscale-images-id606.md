@@ -1,3 +1,10 @@
+---
+topic_id: 606
+title: "Colormap For Static Display Of 12 Bit Grayscale Images"
+date: 2017-06-30
+url: https://discourse.slicer.org/t/606
+---
+
 # Colormap for static display of 12 bit grayscale images
 
 **Topic ID**: 606

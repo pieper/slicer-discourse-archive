@@ -1,3 +1,10 @@
+---
+topic_id: 27658
+title: "How To Display A Transformed Single Image In 3D View"
+date: 2023-02-06
+url: https://discourse.slicer.org/t/27658
+---
+
 # How to display a transformed single image in 3D view?
 
 **Topic ID**: 27658

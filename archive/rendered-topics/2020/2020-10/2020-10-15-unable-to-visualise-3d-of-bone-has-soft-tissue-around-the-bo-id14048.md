@@ -1,3 +1,10 @@
+---
+topic_id: 14048
+title: "Unable To Visualise 3D Of Bone Has Soft Tissue Around The Bo"
+date: 2020-10-15
+url: https://discourse.slicer.org/t/14048
+---
+
 # Unable to visualise 3D of bone. Has soft tissue around the bone
 
 **Topic ID**: 14048

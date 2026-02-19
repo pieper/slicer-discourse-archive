@@ -1,3 +1,10 @@
+---
+topic_id: 1648
+title: "Segmentation Wizard Segmentation To Model"
+date: 2017-12-12
+url: https://discourse.slicer.org/t/1648
+---
+
 # Segmentation Wizard; segmentation to model
 
 **Topic ID**: 1648

@@ -1,3 +1,10 @@
+---
+topic_id: 17727
+title: "Numpy Array What Is That"
+date: 2021-05-21
+url: https://discourse.slicer.org/t/17727
+---
+
 # Numpy array, what is that?
 
 **Topic ID**: 17727

@@ -1,3 +1,10 @@
+---
+topic_id: 5835
+title: "Copy Specific Slices From Existing Segments To Single Binary"
+date: 2019-02-19
+url: https://discourse.slicer.org/t/5835
+---
+
 # Copy specific slices from existing segments to single Binary Map
 
 **Topic ID**: 5835

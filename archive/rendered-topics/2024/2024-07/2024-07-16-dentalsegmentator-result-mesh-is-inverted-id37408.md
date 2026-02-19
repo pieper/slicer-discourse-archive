@@ -1,3 +1,10 @@
+---
+topic_id: 37408
+title: "Dentalsegmentator Result Mesh Is Inverted"
+date: 2024-07-16
+url: https://discourse.slicer.org/t/37408
+---
+
 # DentalSegmentator result mesh is inverted
 
 **Topic ID**: 37408

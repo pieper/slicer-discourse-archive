@@ -1,3 +1,10 @@
+---
+topic_id: 20486
+title: "Set Specific Lookup Table Depending On Volume"
+date: 2021-11-04
+url: https://discourse.slicer.org/t/20486
+---
+
 # Set Specific Lookup Table depending on volume
 
 **Topic ID**: 20486

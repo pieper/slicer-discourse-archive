@@ -1,3 +1,10 @@
+---
+topic_id: 30711
+title: "How To Slice Along A Curve And Display It In 2D View In Real"
+date: 2023-07-20
+url: https://discourse.slicer.org/t/30711
+---
+
 # How to slice along a curve and display it in 2D view in real time
 
 **Topic ID**: 30711

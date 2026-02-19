@@ -1,3 +1,10 @@
+---
+topic_id: 37702
+title: "Loading A Png Image To The View Mode Of 3D Slicer"
+date: 2024-08-05
+url: https://discourse.slicer.org/t/37702
+---
+
 # Loading a PNG Image to the view mode of 3D slicer
 
 **Topic ID**: 37702

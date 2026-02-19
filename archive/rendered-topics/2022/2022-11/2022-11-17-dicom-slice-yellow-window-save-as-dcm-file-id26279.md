@@ -1,3 +1,10 @@
+---
+topic_id: 26279
+title: "Dicom Slice Yellow Window Save As Dcm File"
+date: 2022-11-17
+url: https://discourse.slicer.org/t/26279
+---
+
 # DICOM Slice (yellow window) save as .dcm file?
 
 **Topic ID**: 26279

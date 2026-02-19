@@ -1,3 +1,10 @@
+---
+topic_id: 26452
+title: "The Slice Views Orientation Are Not Aligned With Segmentatio"
+date: 2022-11-26
+url: https://discourse.slicer.org/t/26452
+---
+
 # The slice views orientation are not aligned with segmentation
 
 **Topic ID**: 26452

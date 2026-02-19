@@ -1,3 +1,10 @@
+---
+topic_id: 44495
+title: "Draw Tube Scripting"
+date: 2025-09-16
+url: https://discourse.slicer.org/t/44495
+---
+
 # Draw tube scripting
 
 **Topic ID**: 44495

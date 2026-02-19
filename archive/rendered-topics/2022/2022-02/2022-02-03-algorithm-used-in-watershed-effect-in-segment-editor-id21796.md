@@ -1,3 +1,10 @@
+---
+topic_id: 21796
+title: "Algorithm Used In Watershed Effect In Segment Editor"
+date: 2022-02-03
+url: https://discourse.slicer.org/t/21796
+---
+
 # Algorithm used in Watershed effect in Segment Editor
 
 **Topic ID**: 21796

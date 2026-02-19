@@ -1,3 +1,10 @@
+---
+topic_id: 11848
+title: "Rendering Bug With Non Simple Polygons"
+date: 2020-06-03
+url: https://discourse.slicer.org/t/11848
+---
+
 # Rendering bug with non-simple polygons
 
 **Topic ID**: 11848

@@ -1,3 +1,10 @@
+---
+topic_id: 23552
+title: "Extension Dependencies In Custom Apps"
+date: 2022-05-24
+url: https://discourse.slicer.org/t/23552
+---
+
 # Extension dependencies in custom apps
 
 **Topic ID**: 23552

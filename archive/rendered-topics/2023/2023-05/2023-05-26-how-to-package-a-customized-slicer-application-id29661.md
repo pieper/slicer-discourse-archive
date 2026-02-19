@@ -1,3 +1,10 @@
+---
+topic_id: 29661
+title: "How To Package A Customized Slicer Application"
+date: 2023-05-26
+url: https://discourse.slicer.org/t/29661
+---
+
 # How to package a Customized Slicer Application?
 
 **Topic ID**: 29661

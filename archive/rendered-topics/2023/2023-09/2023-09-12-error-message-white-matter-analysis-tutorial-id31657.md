@@ -1,3 +1,10 @@
+---
+topic_id: 31657
+title: "Error Message White Matter Analysis Tutorial"
+date: 2023-09-12
+url: https://discourse.slicer.org/t/31657
+---
+
 # Error message white matter analysis tutorial
 
 **Topic ID**: 31657

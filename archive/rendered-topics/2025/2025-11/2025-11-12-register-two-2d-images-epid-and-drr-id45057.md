@@ -1,3 +1,10 @@
+---
+topic_id: 45057
+title: "Register Two 2D Images Epid And Drr"
+date: 2025-11-12
+url: https://discourse.slicer.org/t/45057
+---
+
 # Register two 2D images (EPID and DRR)
 
 **Topic ID**: 45057

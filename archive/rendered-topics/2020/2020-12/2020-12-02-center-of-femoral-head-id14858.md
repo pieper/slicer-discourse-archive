@@ -1,3 +1,10 @@
+---
+topic_id: 14858
+title: "Center Of Femoral Head"
+date: 2020-12-02
+url: https://discourse.slicer.org/t/14858
+---
+
 # Center of femoral head
 
 **Topic ID**: 14858

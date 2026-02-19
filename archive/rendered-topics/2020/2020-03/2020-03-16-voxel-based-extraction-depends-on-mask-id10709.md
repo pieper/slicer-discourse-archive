@@ -1,3 +1,10 @@
+---
+topic_id: 10709
+title: "Voxel Based Extraction Depends On Mask"
+date: 2020-03-16
+url: https://discourse.slicer.org/t/10709
+---
+
 # Voxel-based extraction depends on mask
 
 **Topic ID**: 10709

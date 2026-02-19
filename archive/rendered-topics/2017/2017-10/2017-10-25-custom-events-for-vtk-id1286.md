@@ -1,3 +1,10 @@
+---
+topic_id: 1286
+title: "Custom Events For Vtk"
+date: 2017-10-25
+url: https://discourse.slicer.org/t/1286
+---
+
 # Custom Events for VTK
 
 **Topic ID**: 1286

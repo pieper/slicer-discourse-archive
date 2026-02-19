@@ -1,3 +1,10 @@
+---
+topic_id: 19604
+title: "How To Handle Ct Intensity Contrast Differences"
+date: 2021-09-10
+url: https://discourse.slicer.org/t/19604
+---
+
 # How to handle CT intensity / contrast differences
 
 **Topic ID**: 19604

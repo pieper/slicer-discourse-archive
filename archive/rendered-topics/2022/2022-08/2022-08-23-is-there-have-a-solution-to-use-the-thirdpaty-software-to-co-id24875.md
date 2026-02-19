@@ -1,3 +1,10 @@
+---
+topic_id: 24875
+title: "Is There Have A Solution To Use The Thirdpaty Software To Co"
+date: 2022-08-23
+url: https://discourse.slicer.org/t/24875
+---
+
 # Is there have a solution to use the thirdpaty software to convert dicom files to nifti files?
 
 **Topic ID**: 24875

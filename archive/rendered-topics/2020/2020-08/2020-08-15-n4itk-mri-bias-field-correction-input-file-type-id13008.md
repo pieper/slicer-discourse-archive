@@ -1,3 +1,10 @@
+---
+topic_id: 13008
+title: "N4Itk Mri Bias Field Correction Input File Type"
+date: 2020-08-15
+url: https://discourse.slicer.org/t/13008
+---
+
 # N4ITK MRI Bias Field Correction input file type?
 
 **Topic ID**: 13008

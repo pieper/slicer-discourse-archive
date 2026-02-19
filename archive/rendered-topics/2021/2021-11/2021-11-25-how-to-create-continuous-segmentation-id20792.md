@@ -1,3 +1,10 @@
+---
+topic_id: 20792
+title: "How To Create Continuous Segmentation"
+date: 2021-11-25
+url: https://discourse.slicer.org/t/20792
+---
+
 # How to create continuous segmentation
 
 **Topic ID**: 20792

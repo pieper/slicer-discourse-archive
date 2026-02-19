@@ -1,3 +1,10 @@
+---
+topic_id: 8774
+title: "Segmenteditor Holloweffect Shell Thickness"
+date: 2019-10-14
+url: https://discourse.slicer.org/t/8774
+---
+
 # SegmentEditor HollowEffect - Shell thickness
 
 **Topic ID**: 8774

@@ -1,3 +1,10 @@
+---
+topic_id: 4529
+title: "Open Igt Link For Plus"
+date: 2018-10-25
+url: https://discourse.slicer.org/t/4529
+---
+
 # Open IGT Link for PLUS
 
 **Topic ID**: 4529

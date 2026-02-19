@@ -1,3 +1,10 @@
+---
+topic_id: 23002
+title: "Render 3D Us Volume With 2D Images And Tracking Data"
+date: 2022-04-18
+url: https://discourse.slicer.org/t/23002
+---
+
 # Render 3D US Volume with 2D images and tracking data
 
 **Topic ID**: 23002

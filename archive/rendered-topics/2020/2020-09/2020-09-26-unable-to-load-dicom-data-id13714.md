@@ -1,3 +1,10 @@
+---
+topic_id: 13714
+title: "Unable To Load Dicom Data"
+date: 2020-09-26
+url: https://discourse.slicer.org/t/13714
+---
+
 # Unable to Load DICOM data
 
 **Topic ID**: 13714

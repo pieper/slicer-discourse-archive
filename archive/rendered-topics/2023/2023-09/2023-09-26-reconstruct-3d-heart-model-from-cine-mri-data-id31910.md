@@ -1,3 +1,10 @@
+---
+topic_id: 31910
+title: "Reconstruct 3D Heart Model From Cine Mri Data"
+date: 2023-09-26
+url: https://discourse.slicer.org/t/31910
+---
+
 # Reconstruct 3d heart model from cine-MRI data
 
 **Topic ID**: 31910

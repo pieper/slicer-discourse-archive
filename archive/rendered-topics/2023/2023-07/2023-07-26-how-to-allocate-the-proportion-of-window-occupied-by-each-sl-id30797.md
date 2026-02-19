@@ -1,3 +1,10 @@
+---
+topic_id: 30797
+title: "How To Allocate The Proportion Of Window Occupied By Each Sl"
+date: 2023-07-26
+url: https://discourse.slicer.org/t/30797
+---
+
 # How to allocate the proportion of window occupied by each slicewidget?
 
 **Topic ID**: 30797

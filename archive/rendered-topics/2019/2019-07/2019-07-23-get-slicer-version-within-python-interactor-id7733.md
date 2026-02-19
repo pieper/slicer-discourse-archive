@@ -1,3 +1,10 @@
+---
+topic_id: 7733
+title: "Get Slicer Version Within Python Interactor"
+date: 2019-07-23
+url: https://discourse.slicer.org/t/7733
+---
+
 # Get slicer version within Python Interactor
 
 **Topic ID**: 7733

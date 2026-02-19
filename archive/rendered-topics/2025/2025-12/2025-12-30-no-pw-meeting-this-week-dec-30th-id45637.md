@@ -1,3 +1,10 @@
+---
+topic_id: 45637
+title: "No Pw Meeting This Week Dec 30Th"
+date: 2025-12-30
+url: https://discourse.slicer.org/t/45637
+---
+
 # No PW Meeting this week (Dec 30th)
 
 **Topic ID**: 45637

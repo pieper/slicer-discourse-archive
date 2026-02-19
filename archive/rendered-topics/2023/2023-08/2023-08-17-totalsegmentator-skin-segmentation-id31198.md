@@ -1,3 +1,10 @@
+---
+topic_id: 31198
+title: "Totalsegmentator Skin Segmentation"
+date: 2023-08-17
+url: https://discourse.slicer.org/t/31198
+---
+
 # TotalSegmentator "skin segmentation"
 
 **Topic ID**: 31198

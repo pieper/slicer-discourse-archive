@@ -1,3 +1,10 @@
+---
+topic_id: 21035
+title: "Using Slicer From Command Line Singularity Container"
+date: 2021-12-13
+url: https://discourse.slicer.org/t/21035
+---
+
 # Using Slicer from Command-Line - Singularity container
 
 **Topic ID**: 21035

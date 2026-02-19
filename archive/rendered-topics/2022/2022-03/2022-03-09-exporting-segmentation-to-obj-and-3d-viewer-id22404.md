@@ -1,3 +1,10 @@
+---
+topic_id: 22404
+title: "Exporting Segmentation To Obj And 3D Viewer"
+date: 2022-03-09
+url: https://discourse.slicer.org/t/22404
+---
+
 # Exporting Segmentation to OBJ and 3D Viewer
 
 **Topic ID**: 22404

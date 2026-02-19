@@ -1,3 +1,10 @@
+---
+topic_id: 35154
+title: "Edit Segmentation Locally"
+date: 2024-03-28
+url: https://discourse.slicer.org/t/35154
+---
+
 # Edit Segmentation Locally
 
 **Topic ID**: 35154

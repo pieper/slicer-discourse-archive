@@ -1,3 +1,10 @@
+---
+topic_id: 1451
+title: "How To Create A Color Table That Doesnt Include 0"
+date: 2017-11-13
+url: https://discourse.slicer.org/t/1451
+---
+
 # How to create a color table that doesn't include 0
 
 **Topic ID**: 1451

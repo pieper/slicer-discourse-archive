@@ -1,3 +1,10 @@
+---
+topic_id: 7980
+title: "Inconsistency Between Slicer 3 6 And Slicer 4 10 2 In Mhd He"
+date: 2019-08-11
+url: https://discourse.slicer.org/t/7980
+---
+
 # Inconsistency between Slicer 3.6 and Slicer 4.10.2 in mhd header
 
 **Topic ID**: 7980

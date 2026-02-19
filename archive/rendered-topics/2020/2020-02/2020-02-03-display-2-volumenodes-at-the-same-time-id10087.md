@@ -1,3 +1,10 @@
+---
+topic_id: 10087
+title: "Display 2 Volumenodes At The Same Time"
+date: 2020-02-03
+url: https://discourse.slicer.org/t/10087
+---
+
 # Display 2 VolumeNodes at the same time
 
 **Topic ID**: 10087

@@ -1,3 +1,10 @@
+---
+topic_id: 3980
+title: "Creating 3D Surface Models From Slice Image Sets"
+date: 2018-09-04
+url: https://discourse.slicer.org/t/3980
+---
+
 # Creating 3D surface models from slice image sets
 
 **Topic ID**: 3980

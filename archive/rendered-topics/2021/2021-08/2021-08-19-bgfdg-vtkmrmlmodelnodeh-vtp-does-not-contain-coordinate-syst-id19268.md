@@ -1,3 +1,10 @@
+---
+topic_id: 19268
+title: "Bgfdg Vtkmrmlmodelnodeh Vtp Does Not Contain Coordinate Syst"
+date: 2021-08-19
+url: https://discourse.slicer.org/t/19268
+---
+
 # BGFDG_vtkMRMLModelNodeH.vtp does not contain coordinate system information. Assuming LPS
 
 **Topic ID**: 19268

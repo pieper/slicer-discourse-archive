@@ -1,3 +1,10 @@
+---
+topic_id: 30576
+title: "Model Clone Python Code"
+date: 2023-07-13
+url: https://discourse.slicer.org/t/30576
+---
+
 # Model Clone (Python Code)
 
 **Topic ID**: 30576

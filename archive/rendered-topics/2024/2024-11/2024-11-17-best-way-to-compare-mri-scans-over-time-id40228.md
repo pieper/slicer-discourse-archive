@@ -1,3 +1,10 @@
+---
+topic_id: 40228
+title: "Best Way To Compare Mri Scans Over Time"
+date: 2024-11-17
+url: https://discourse.slicer.org/t/40228
+---
+
 # Best Way to Compare MRI Scans Over Time?
 
 **Topic ID**: 40228

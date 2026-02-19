@@ -1,3 +1,10 @@
+---
+topic_id: 34068
+title: "Internationalization Of Slicer"
+date: 2024-01-31
+url: https://discourse.slicer.org/t/34068
+---
+
 # Internationalization of Slicer
 
 **Topic ID**: 34068

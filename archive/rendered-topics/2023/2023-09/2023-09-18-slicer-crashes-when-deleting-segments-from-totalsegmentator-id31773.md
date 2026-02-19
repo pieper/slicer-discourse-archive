@@ -1,3 +1,10 @@
+---
+topic_id: 31773
+title: "Slicer Crashes When Deleting Segments From Totalsegmentator"
+date: 2023-09-18
+url: https://discourse.slicer.org/t/31773
+---
+
 # Slicer crashes when deleting segments from TotalSegmentator segmentation result
 
 **Topic ID**: 31773

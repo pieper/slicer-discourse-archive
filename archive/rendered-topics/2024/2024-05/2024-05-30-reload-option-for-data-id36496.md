@@ -1,3 +1,10 @@
+---
+topic_id: 36496
+title: "Reload Option For Data"
+date: 2024-05-30
+url: https://discourse.slicer.org/t/36496
+---
+
 # Reload option for data
 
 **Topic ID**: 36496

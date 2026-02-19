@@ -1,3 +1,10 @@
+---
+topic_id: 25739
+title: "New Feature Python Console Displays More Log Messages"
+date: 2022-10-17
+url: https://discourse.slicer.org/t/25739
+---
+
 # New feature: Python console displays more log messages
 
 **Topic ID**: 25739

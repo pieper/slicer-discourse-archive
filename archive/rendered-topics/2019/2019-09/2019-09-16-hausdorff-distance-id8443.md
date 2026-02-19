@@ -1,3 +1,10 @@
+---
+topic_id: 8443
+title: "Hausdorff Distance"
+date: 2019-09-16
+url: https://discourse.slicer.org/t/8443
+---
+
 # Hausdorff Distance
 
 **Topic ID**: 8443

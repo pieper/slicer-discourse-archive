@@ -1,3 +1,10 @@
+---
+topic_id: 20862
+title: "Save Change The Orientation Matrix Of A Slice"
+date: 2021-12-01
+url: https://discourse.slicer.org/t/20862
+---
+
 # Save & change the orientation matrix of a slice
 
 **Topic ID**: 20862

@@ -1,3 +1,10 @@
+---
+topic_id: 23613
+title: "Windows Defender Quarantined Slicer Exe"
+date: 2022-05-27
+url: https://discourse.slicer.org/t/23613
+---
+
 # Windows Defender quarantined Slicer.exe
 
 **Topic ID**: 23613

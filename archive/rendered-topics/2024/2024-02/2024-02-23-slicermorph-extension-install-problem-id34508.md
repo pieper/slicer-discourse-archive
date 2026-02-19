@@ -1,3 +1,10 @@
+---
+topic_id: 34508
+title: "Slicermorph Extension Install Problem"
+date: 2024-02-23
+url: https://discourse.slicer.org/t/34508
+---
+
 # SlicerMorph extension install problem
 
 **Topic ID**: 34508

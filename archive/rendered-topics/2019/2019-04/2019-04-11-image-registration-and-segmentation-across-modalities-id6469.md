@@ -1,3 +1,10 @@
+---
+topic_id: 6469
+title: "Image Registration And Segmentation Across Modalities"
+date: 2019-04-11
+url: https://discourse.slicer.org/t/6469
+---
+
 # Image Registration and Segmentation Across Modalities
 
 **Topic ID**: 6469

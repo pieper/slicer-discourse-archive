@@ -1,3 +1,10 @@
+---
+topic_id: 4248
+title: "Segmentations Module Exporting Labelmaps Using A Transformed"
+date: 2018-10-01
+url: https://discourse.slicer.org/t/4248
+---
+
 # Segmentations Module: Exporting labelmaps using a transformed Reference volume
 
 **Topic ID**: 4248

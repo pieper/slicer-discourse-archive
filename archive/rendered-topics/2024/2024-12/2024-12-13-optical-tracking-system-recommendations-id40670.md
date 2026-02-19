@@ -1,3 +1,10 @@
+---
+topic_id: 40670
+title: "Optical Tracking System Recommendations"
+date: 2024-12-13
+url: https://discourse.slicer.org/t/40670
+---
+
 # Optical Tracking System Recommendations
 
 **Topic ID**: 40670

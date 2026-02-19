@@ -1,3 +1,10 @@
+---
+topic_id: 30314
+title: "Multiple Tractography File Selection For Visualization And 2"
+date: 2023-06-29
+url: https://discourse.slicer.org/t/30314
+---
+
 # Multiple tractography file selection for visualization and 2D vs 3D visualization toggles
 
 **Topic ID**: 30314

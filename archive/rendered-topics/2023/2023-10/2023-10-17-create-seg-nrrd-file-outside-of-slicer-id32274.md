@@ -1,3 +1,10 @@
+---
+topic_id: 32274
+title: "Create Seg Nrrd File Outside Of Slicer"
+date: 2023-10-17
+url: https://discourse.slicer.org/t/32274
+---
+
 # Create .seg.nrrd file outside of slicer
 
 **Topic ID**: 32274

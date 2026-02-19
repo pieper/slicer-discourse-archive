@@ -1,3 +1,10 @@
+---
+topic_id: 20611
+title: "How To Set The Title And Name Of The Module"
+date: 2021-11-14
+url: https://discourse.slicer.org/t/20611
+---
+
 # How to set the title and name of the module
 
 **Topic ID**: 20611

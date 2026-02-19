@@ -1,3 +1,10 @@
+---
+topic_id: 9877
+title: "Registration Lining Up Fiducials Into The Same Plane"
+date: 2020-01-20
+url: https://discourse.slicer.org/t/9877
+---
+
 # Registration - lining up fiducials into the same plane
 
 **Topic ID**: 9877

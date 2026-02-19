@@ -1,3 +1,10 @@
+---
+topic_id: 44453
+title: "Detecting Which Segments Have Been Modified"
+date: 2025-09-11
+url: https://discourse.slicer.org/t/44453
+---
+
 # Detecting which segments have been modified
 
 **Topic ID**: 44453

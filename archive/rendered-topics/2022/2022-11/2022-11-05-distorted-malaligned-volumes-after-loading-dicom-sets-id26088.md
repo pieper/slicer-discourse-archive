@@ -1,3 +1,10 @@
+---
+topic_id: 26088
+title: "Distorted Malaligned Volumes After Loading Dicom Sets"
+date: 2022-11-05
+url: https://discourse.slicer.org/t/26088
+---
+
 # Distorted & malaligned volumes after loading DICOM sets
 
 **Topic ID**: 26088

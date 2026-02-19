@@ -1,3 +1,10 @@
+---
+topic_id: 12229
+title: "How To Stitch Two Dicom X Ray Files To Form A Full Length In"
+date: 2020-06-26
+url: https://discourse.slicer.org/t/12229
+---
+
 # How to stitch two DICOM X-ray files to form a full length integrated DICOM file
 
 **Topic ID**: 12229

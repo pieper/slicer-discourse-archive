@@ -1,3 +1,10 @@
+---
+topic_id: 44005
+title: "Dicom To Nrrd Converter A Python 3 Based Script For Converti"
+date: 2025-08-07
+url: https://discourse.slicer.org/t/44005
+---
+
 # [DICOM to NRRD Converter] A Python 3 - based script for converting DICOM to nrrd
 
 **Topic ID**: 44005

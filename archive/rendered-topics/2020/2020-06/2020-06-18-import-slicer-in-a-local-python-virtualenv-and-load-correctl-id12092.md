@@ -1,3 +1,10 @@
+---
+topic_id: 12092
+title: "Import Slicer In A Local Python Virtualenv And Load Correctl"
+date: 2020-06-18
+url: https://discourse.slicer.org/t/12092
+---
+
 # import slicer in a local python/virtualenv and load correctly image orientation
 
 **Topic ID**: 12092

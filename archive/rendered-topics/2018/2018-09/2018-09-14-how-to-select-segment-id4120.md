@@ -1,3 +1,10 @@
+---
+topic_id: 4120
+title: "How To Select Segment"
+date: 2018-09-14
+url: https://discourse.slicer.org/t/4120
+---
+
 # How to select segment
 
 **Topic ID**: 4120

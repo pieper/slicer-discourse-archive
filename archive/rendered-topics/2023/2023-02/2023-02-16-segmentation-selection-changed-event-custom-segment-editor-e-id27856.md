@@ -1,3 +1,10 @@
+---
+topic_id: 27856
+title: "Segmentation Selection Changed Event Custom Segment Editor E"
+date: 2023-02-16
+url: https://discourse.slicer.org/t/27856
+---
+
 # Segmentation selection changed event (custom segment editor effect)
 
 **Topic ID**: 27856

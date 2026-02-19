@@ -1,3 +1,10 @@
+---
+topic_id: 28674
+title: "Slicer As A Python Library Web Based Application"
+date: 2023-03-30
+url: https://discourse.slicer.org/t/28674
+---
+
 # Slicer as a python library / web based application?
 
 **Topic ID**: 28674

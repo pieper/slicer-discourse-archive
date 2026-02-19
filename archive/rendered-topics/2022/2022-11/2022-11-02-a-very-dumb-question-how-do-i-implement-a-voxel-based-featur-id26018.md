@@ -1,3 +1,10 @@
+---
+topic_id: 26018
+title: "A Very Dumb Question How Do I Implement A Voxel Based Featur"
+date: 2022-11-02
+url: https://discourse.slicer.org/t/26018
+---
+
 # A very dumb question: how do I implement a voxel-based feature extraction?
 
 **Topic ID**: 26018

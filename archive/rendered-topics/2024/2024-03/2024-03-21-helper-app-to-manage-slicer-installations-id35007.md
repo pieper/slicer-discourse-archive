@@ -1,3 +1,10 @@
+---
+topic_id: 35007
+title: "Helper App To Manage Slicer Installations"
+date: 2024-03-21
+url: https://discourse.slicer.org/t/35007
+---
+
 # Helper app to manage slicer installations
 
 **Topic ID**: 35007

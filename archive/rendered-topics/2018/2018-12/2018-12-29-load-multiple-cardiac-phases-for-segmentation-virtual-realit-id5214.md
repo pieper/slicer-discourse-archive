@@ -1,3 +1,10 @@
+---
+topic_id: 5214
+title: "Load Multiple Cardiac Phases For Segmentation Virtual Realit"
+date: 2018-12-29
+url: https://discourse.slicer.org/t/5214
+---
+
 # Load multiple cardiac phases for segmentation/virtual reality
 
 **Topic ID**: 5214

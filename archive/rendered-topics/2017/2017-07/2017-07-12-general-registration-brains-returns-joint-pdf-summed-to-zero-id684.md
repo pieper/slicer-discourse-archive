@@ -1,3 +1,10 @@
+---
+topic_id: 684
+title: "General Registration Brains Returns Joint Pdf Summed To Zero"
+date: 2017-07-12
+url: https://discourse.slicer.org/t/684
+---
+
 # General registration (BRAINS) returns "Joint PDF summed to zero" error
 
 **Topic ID**: 684

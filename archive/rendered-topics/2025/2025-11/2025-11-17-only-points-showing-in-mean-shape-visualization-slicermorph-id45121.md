@@ -1,3 +1,10 @@
+---
+topic_id: 45121
+title: "Only Points Showing In Mean Shape Visualization Slicermorph"
+date: 2025-11-17
+url: https://discourse.slicer.org/t/45121
+---
+
 # Only points showing in Mean Shape Visualization - Slicermorph
 
 **Topic ID**: 45121

@@ -1,3 +1,10 @@
+---
+topic_id: 43652
+title: "General Registration"
+date: 2025-07-08
+url: https://discourse.slicer.org/t/43652
+---
+
 # general registration
 
 **Topic ID**: 43652

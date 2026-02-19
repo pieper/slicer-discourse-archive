@@ -1,3 +1,10 @@
+---
+topic_id: 43648
+title: "Repeated Segment Comparison Metric Calculations"
+date: 2025-07-08
+url: https://discourse.slicer.org/t/43648
+---
+
 # Repeated Segment Comparison Metric Calculations
 
 **Topic ID**: 43648

@@ -1,3 +1,10 @@
+---
+topic_id: 9457
+title: "Merge Ct Volume Node With A Model Node In Python"
+date: 2019-12-10
+url: https://discourse.slicer.org/t/9457
+---
+
 # Merge CT volume node with a model node in python
 
 **Topic ID**: 9457

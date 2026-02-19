@@ -1,3 +1,10 @@
+---
+topic_id: 4184
+title: "Slicer Logging Architecture And Flexibility"
+date: 2018-09-25
+url: https://discourse.slicer.org/t/4184
+---
+
 # Slicer logging architecture and flexibility
 
 **Topic ID**: 4184

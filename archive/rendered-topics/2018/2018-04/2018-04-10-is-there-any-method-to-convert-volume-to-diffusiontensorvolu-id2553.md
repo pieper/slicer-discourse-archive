@@ -1,3 +1,10 @@
+---
+topic_id: 2553
+title: "Is There Any Method To Convert Volume To Diffusiontensorvolu"
+date: 2018-04-10
+url: https://discourse.slicer.org/t/2553
+---
+
 # Is there any method to convert volume to DiffusionTensorvolume?
 
 **Topic ID**: 2553

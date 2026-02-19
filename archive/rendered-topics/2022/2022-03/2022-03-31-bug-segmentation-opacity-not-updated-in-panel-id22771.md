@@ -1,3 +1,10 @@
+---
+topic_id: 22771
+title: "Bug Segmentation Opacity Not Updated In Panel"
+date: 2022-03-31
+url: https://discourse.slicer.org/t/22771
+---
+
 # Bug? Segmentation opacity not updated in panel
 
 **Topic ID**: 22771

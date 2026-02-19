@@ -1,3 +1,10 @@
+---
+topic_id: 8618
+title: "Infinite Mouse Scroll"
+date: 2019-09-30
+url: https://discourse.slicer.org/t/8618
+---
+
 # Infinite Mouse Scroll
 
 **Topic ID**: 8618

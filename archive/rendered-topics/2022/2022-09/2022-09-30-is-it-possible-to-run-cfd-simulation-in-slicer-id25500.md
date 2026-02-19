@@ -1,3 +1,10 @@
+---
+topic_id: 25500
+title: "Is It Possible To Run Cfd Simulation In Slicer"
+date: 2022-09-30
+url: https://discourse.slicer.org/t/25500
+---
+
 # Is it possible to run CFD simulation in Slicer?
 
 **Topic ID**: 25500

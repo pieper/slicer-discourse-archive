@@ -1,3 +1,10 @@
+---
+topic_id: 11254
+title: "How To Change Segmentid Of Existing Segmentations"
+date: 2020-04-22
+url: https://discourse.slicer.org/t/11254
+---
+
 # How to change segmentID of existing segmentations
 
 **Topic ID**: 11254

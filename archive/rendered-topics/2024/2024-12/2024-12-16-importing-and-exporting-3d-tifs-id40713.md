@@ -1,3 +1,10 @@
+---
+topic_id: 40713
+title: "Importing And Exporting 3D Tifs"
+date: 2024-12-16
+url: https://discourse.slicer.org/t/40713
+---
+
 # Importing and exporting 3D TIFs
 
 **Topic ID**: 40713

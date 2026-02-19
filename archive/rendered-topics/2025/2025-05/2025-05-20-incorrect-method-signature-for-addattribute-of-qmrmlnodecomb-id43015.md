@@ -1,3 +1,10 @@
+---
+topic_id: 43015
+title: "Incorrect Method Signature For Addattribute Of Qmrmlnodecomb"
+date: 2025-05-20
+url: https://discourse.slicer.org/t/43015
+---
+
 # Incorrect method signature for addAttribute of qMRMLNodeComboBox?
 
 **Topic ID**: 43015

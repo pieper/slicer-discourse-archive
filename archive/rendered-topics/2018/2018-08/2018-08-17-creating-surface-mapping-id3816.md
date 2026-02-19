@@ -1,3 +1,10 @@
+---
+topic_id: 3816
+title: "Creating Surface Mapping"
+date: 2018-08-17
+url: https://discourse.slicer.org/t/3816
+---
+
 # creating surface mapping
 
 **Topic ID**: 3816

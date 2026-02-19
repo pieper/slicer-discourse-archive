@@ -1,3 +1,10 @@
+---
+topic_id: 26996
+title: "Loss Of Model Resolution Upon Applying Threshold To Segmenta"
+date: 2023-01-01
+url: https://discourse.slicer.org/t/26996
+---
+
 # Loss of model resolution upon applying threshold to segmentation in 5.0.3 version
 
 **Topic ID**: 26996

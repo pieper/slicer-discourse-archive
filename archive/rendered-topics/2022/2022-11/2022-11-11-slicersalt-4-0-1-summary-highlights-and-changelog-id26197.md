@@ -1,3 +1,10 @@
+---
+topic_id: 26197
+title: "Slicersalt 4 0 1 Summary Highlights And Changelog"
+date: 2022-11-11
+url: https://discourse.slicer.org/t/26197
+---
+
 # SlicerSALT 4.0.1: Summary, Highlights and Changelog
 
 **Topic ID**: 26197

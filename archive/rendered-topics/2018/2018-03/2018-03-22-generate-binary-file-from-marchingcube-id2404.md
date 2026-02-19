@@ -1,3 +1,10 @@
+---
+topic_id: 2404
+title: "Generate Binary File From Marchingcube"
+date: 2018-03-22
+url: https://discourse.slicer.org/t/2404
+---
+
 # Generate binary file from MarchingCube
 
 **Topic ID**: 2404

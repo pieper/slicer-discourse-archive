@@ -1,3 +1,10 @@
+---
+topic_id: 17983
+title: "How To Change The Size Of The Cube In 3D Views"
+date: 2021-06-06
+url: https://discourse.slicer.org/t/17983
+---
+
 # How to change the size of the cube in 3D views
 
 **Topic ID**: 17983

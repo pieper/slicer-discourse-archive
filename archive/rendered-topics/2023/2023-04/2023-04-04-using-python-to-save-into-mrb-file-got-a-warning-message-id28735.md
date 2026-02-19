@@ -1,3 +1,10 @@
+---
+topic_id: 28735
+title: "Using Python To Save Into Mrb File Got A Warning Message"
+date: 2023-04-04
+url: https://discourse.slicer.org/t/28735
+---
+
 # Using python to save into .mrb file, got a warning message
 
 **Topic ID**: 28735

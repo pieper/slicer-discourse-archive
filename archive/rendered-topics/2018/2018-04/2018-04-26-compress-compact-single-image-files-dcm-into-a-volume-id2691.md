@@ -1,3 +1,10 @@
+---
+topic_id: 2691
+title: "Compress Compact Single Image Files Dcm Into A Volume"
+date: 2018-04-26
+url: https://discourse.slicer.org/t/2691
+---
+
 # Compress/Compact single image files .dcm into a volume.
 
 **Topic ID**: 2691

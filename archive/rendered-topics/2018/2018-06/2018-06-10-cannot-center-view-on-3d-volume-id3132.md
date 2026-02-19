@@ -1,3 +1,10 @@
+---
+topic_id: 3132
+title: "Cannot Center View On 3D Volume"
+date: 2018-06-10
+url: https://discourse.slicer.org/t/3132
+---
+
 # Cannot “Center view” on 3D volume
 
 **Topic ID**: 3132

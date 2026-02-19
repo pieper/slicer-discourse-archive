@@ -1,3 +1,10 @@
+---
+topic_id: 23655
+title: "Stable Update Notification"
+date: 2022-05-31
+url: https://discourse.slicer.org/t/23655
+---
+
 # Stable update notification
 
 **Topic ID**: 23655

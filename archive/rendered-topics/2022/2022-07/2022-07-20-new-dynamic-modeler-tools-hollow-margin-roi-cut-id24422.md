@@ -1,3 +1,10 @@
+---
+topic_id: 24422
+title: "New Dynamic Modeler Tools Hollow Margin Roi Cut"
+date: 2022-07-20
+url: https://discourse.slicer.org/t/24422
+---
+
 # New Dynamic Modeler tools: Hollow, Margin, ROI cut
 
 **Topic ID**: 24422

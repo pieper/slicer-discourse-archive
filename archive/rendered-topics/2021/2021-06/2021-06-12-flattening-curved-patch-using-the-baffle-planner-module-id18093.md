@@ -1,3 +1,10 @@
+---
+topic_id: 18093
+title: "Flattening Curved Patch Using The Baffle Planner Module"
+date: 2021-06-12
+url: https://discourse.slicer.org/t/18093
+---
+
 # Flattening Curved Patch using the Baffle Planner Module
 
 **Topic ID**: 18093

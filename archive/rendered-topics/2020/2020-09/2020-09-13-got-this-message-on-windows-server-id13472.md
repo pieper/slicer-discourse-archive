@@ -1,3 +1,10 @@
+---
+topic_id: 13472
+title: "Got This Message On Windows Server"
+date: 2020-09-13
+url: https://discourse.slicer.org/t/13472
+---
+
 # Got this message on Windows Server
 
 **Topic ID**: 13472

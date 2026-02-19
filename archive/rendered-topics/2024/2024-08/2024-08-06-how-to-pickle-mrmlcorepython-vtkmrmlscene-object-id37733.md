@@ -1,3 +1,10 @@
+---
+topic_id: 37733
+title: "How To Pickle Mrmlcorepython Vtkmrmlscene Object"
+date: 2024-08-06
+url: https://discourse.slicer.org/t/37733
+---
+
 # How to pickle 'MRMLCorePython.vtkMRMLScene' object
 
 **Topic ID**: 37733

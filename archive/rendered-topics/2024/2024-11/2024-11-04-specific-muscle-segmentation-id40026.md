@@ -1,3 +1,10 @@
+---
+topic_id: 40026
+title: "Specific Muscle Segmentation"
+date: 2024-11-04
+url: https://discourse.slicer.org/t/40026
+---
+
 # Specific Muscle Segmentation
 
 **Topic ID**: 40026

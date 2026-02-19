@@ -1,3 +1,10 @@
+---
+topic_id: 16229
+title: "Linear Transform Documentation Clarification"
+date: 2021-02-26
+url: https://discourse.slicer.org/t/16229
+---
+
 # Linear transform documentation clarification?
 
 **Topic ID**: 16229

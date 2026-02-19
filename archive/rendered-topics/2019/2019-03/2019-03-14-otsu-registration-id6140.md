@@ -1,3 +1,10 @@
+---
+topic_id: 6140
+title: "Otsu Registration"
+date: 2019-03-14
+url: https://discourse.slicer.org/t/6140
+---
+
 # otsu registration
 
 **Topic ID**: 6140

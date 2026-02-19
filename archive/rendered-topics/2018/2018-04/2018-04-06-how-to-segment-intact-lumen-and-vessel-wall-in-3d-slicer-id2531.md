@@ -1,3 +1,10 @@
+---
+topic_id: 2531
+title: "How To Segment Intact Lumen And Vessel Wall In 3D Slicer"
+date: 2018-04-06
+url: https://discourse.slicer.org/t/2531
+---
+
 # how to segment intact lumen and vessel wall in 3d slicer?
 
 **Topic ID**: 2531

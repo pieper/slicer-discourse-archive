@@ -1,3 +1,10 @@
+---
+topic_id: 34120
+title: "How To Replace Viewer Layout With A Png Image"
+date: 2024-02-02
+url: https://discourse.slicer.org/t/34120
+---
+
 # How to replace viewer layout with a png image
 
 **Topic ID**: 34120

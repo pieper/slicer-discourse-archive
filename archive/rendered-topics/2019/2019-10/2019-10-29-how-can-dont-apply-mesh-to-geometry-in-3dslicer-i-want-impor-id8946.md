@@ -1,3 +1,10 @@
+---
+topic_id: 8946
+title: "How Can Dont Apply Mesh To Geometry In 3Dslicer I Want Impor"
+date: 2019-10-29
+url: https://discourse.slicer.org/t/8946
+---
+
 # How can dont apply mesh to geometry in 3Dslicer , i want import my software without mesh
 
 **Topic ID**: 8946

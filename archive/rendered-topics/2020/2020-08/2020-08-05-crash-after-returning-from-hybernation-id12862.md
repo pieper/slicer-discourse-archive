@@ -1,3 +1,10 @@
+---
+topic_id: 12862
+title: "Crash After Returning From Hybernation"
+date: 2020-08-05
+url: https://discourse.slicer.org/t/12862
+---
+
 # Crash after returning from hybernation
 
 **Topic ID**: 12862

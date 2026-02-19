@@ -1,3 +1,10 @@
+---
+topic_id: 6775
+title: "Registration Mri"
+date: 2019-05-13
+url: https://discourse.slicer.org/t/6775
+---
+
 # Registration MRI
 
 **Topic ID**: 6775

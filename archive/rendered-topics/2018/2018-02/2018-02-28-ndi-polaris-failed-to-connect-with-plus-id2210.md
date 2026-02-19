@@ -1,3 +1,10 @@
+---
+topic_id: 2210
+title: "Ndi Polaris Failed To Connect With Plus"
+date: 2018-02-28
+url: https://discourse.slicer.org/t/2210
+---
+
 # Ndi polaris failed to connect with plus
 
 **Topic ID**: 2210

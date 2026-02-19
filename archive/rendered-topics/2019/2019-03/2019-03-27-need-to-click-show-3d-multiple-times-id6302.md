@@ -1,3 +1,10 @@
+---
+topic_id: 6302
+title: "Need To Click Show 3D Multiple Times"
+date: 2019-03-27
+url: https://discourse.slicer.org/t/6302
+---
+
 # Need to click "Show 3D" multiple times
 
 **Topic ID**: 6302

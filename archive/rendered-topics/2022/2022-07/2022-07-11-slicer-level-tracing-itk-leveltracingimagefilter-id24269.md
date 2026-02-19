@@ -1,3 +1,10 @@
+---
+topic_id: 24269
+title: "Slicer Level Tracing Itk Leveltracingimagefilter"
+date: 2022-07-11
+url: https://discourse.slicer.org/t/24269
+---
+
 # Slicer level tracing, itk::LevelTracingImageFilter
 
 **Topic ID**: 24269

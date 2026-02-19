@@ -1,3 +1,10 @@
+---
+topic_id: 7348
+title: "Select Vtkmrmlmodelnode On Mouse Click"
+date: 2019-06-28
+url: https://discourse.slicer.org/t/7348
+---
+
 # Select vtkMRMLModelNode on mouse click
 
 **Topic ID**: 7348

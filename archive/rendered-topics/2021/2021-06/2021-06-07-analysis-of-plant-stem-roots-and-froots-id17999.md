@@ -1,3 +1,10 @@
+---
+topic_id: 17999
+title: "Analysis Of Plant Stem Roots And Froots"
+date: 2021-06-07
+url: https://discourse.slicer.org/t/17999
+---
+
 # Analysis of plant stem, roots and froots
 
 **Topic ID**: 17999

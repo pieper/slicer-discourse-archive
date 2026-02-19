@@ -1,3 +1,10 @@
+---
+topic_id: 23099
+title: "Locking Scroll Across Slicer Windows To Scroll On Multiple S"
+date: 2022-04-24
+url: https://discourse.slicer.org/t/23099
+---
+
 # Locking scroll across slicer windows - to scroll on multiple scans concurrently
 
 **Topic ID**: 23099

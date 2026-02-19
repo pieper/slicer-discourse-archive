@@ -1,3 +1,10 @@
+---
+topic_id: 829
+title: "Extensionwizard Not Uploading My Extension"
+date: 2017-08-05
+url: https://discourse.slicer.org/t/829
+---
+
 # ExtensionWizard not uploading my extension
 
 **Topic ID**: 829

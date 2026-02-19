@@ -1,3 +1,10 @@
+---
+topic_id: 34903
+title: "My 3D Image Dissapeared How Do I Get It Back"
+date: 2024-03-15
+url: https://discourse.slicer.org/t/34903
+---
+
 # My 3D Image dissapeared, how do I get it back?
 
 **Topic ID**: 34903

@@ -1,3 +1,10 @@
+---
+topic_id: 3111
+title: "Renamed Is There Redirect Link Created After Renaming A Topi"
+date: 2018-06-07
+url: https://discourse.slicer.org/t/3111
+---
+
 # [renamed] Is there redirect link created after renaming a topic?
 
 **Topic ID**: 3111

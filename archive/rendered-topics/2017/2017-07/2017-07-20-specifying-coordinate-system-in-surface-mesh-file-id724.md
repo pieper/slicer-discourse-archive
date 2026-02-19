@@ -1,3 +1,10 @@
+---
+topic_id: 724
+title: "Specifying Coordinate System In Surface Mesh File"
+date: 2017-07-20
+url: https://discourse.slicer.org/t/724
+---
+
 # Specifying coordinate system in surface mesh file
 
 **Topic ID**: 724

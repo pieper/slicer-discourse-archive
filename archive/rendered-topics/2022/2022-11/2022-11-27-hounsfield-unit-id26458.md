@@ -1,3 +1,10 @@
+---
+topic_id: 26458
+title: "Hounsfield Unit"
+date: 2022-11-27
+url: https://discourse.slicer.org/t/26458
+---
+
 # Hounsfield unit
 
 **Topic ID**: 26458

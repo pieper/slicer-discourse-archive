@@ -1,3 +1,10 @@
+---
+topic_id: 3505
+title: "Resample A 3D Ct Image"
+date: 2018-07-17
+url: https://discourse.slicer.org/t/3505
+---
+
 # Resample a 3D CT Image
 
 **Topic ID**: 3505

@@ -1,3 +1,10 @@
+---
+topic_id: 41791
+title: "Slicerjupyter Not Available For Latest Version"
+date: 2025-02-20
+url: https://discourse.slicer.org/t/41791
+---
+
 # SlicerJupyter not available for latest version?
 
 **Topic ID**: 41791

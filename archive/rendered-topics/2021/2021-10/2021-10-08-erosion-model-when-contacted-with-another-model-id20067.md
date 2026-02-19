@@ -1,3 +1,10 @@
+---
+topic_id: 20067
+title: "Erosion Model When Contacted With Another Model"
+date: 2021-10-08
+url: https://discourse.slicer.org/t/20067
+---
+
 # Erosion model, when contacted with another model
 
 **Topic ID**: 20067

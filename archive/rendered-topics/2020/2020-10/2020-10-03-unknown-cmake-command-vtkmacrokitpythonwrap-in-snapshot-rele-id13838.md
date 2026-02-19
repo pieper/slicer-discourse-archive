@@ -1,3 +1,10 @@
+---
+topic_id: 13838
+title: "Unknown Cmake Command Vtkmacrokitpythonwrap In Snapshot Rele"
+date: 2020-10-03
+url: https://discourse.slicer.org/t/13838
+---
+
 # Unknown CMake command "vtkMacroKitPythonWrap" in snapshot release for vtkTeem
 
 **Topic ID**: 13838

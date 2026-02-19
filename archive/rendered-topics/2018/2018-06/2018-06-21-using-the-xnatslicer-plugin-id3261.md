@@ -1,3 +1,10 @@
+---
+topic_id: 3261
+title: "Using The Xnatslicer Plugin"
+date: 2018-06-21
+url: https://discourse.slicer.org/t/3261
+---
+
 # Using the XNATSlicer plugin
 
 **Topic ID**: 3261

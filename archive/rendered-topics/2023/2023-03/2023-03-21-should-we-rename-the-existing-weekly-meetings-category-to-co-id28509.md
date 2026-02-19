@@ -1,3 +1,10 @@
+---
+topic_id: 28509
+title: "Should We Rename The Existing Weekly Meetings Category To Co"
+date: 2023-03-21
+url: https://discourse.slicer.org/t/28509
+---
+
 # Should we rename the existing "Weekly meetings" category to “Community events”?
 
 **Topic ID**: 28509

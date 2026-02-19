@@ -1,3 +1,10 @@
+---
+topic_id: 15499
+title: "Watershed Segmentation"
+date: 2021-01-13
+url: https://discourse.slicer.org/t/15499
+---
+
 # Watershed segmentation
 
 **Topic ID**: 15499

@@ -1,3 +1,10 @@
+---
+topic_id: 560
+title: "Simplifying The Use Of Vtknew"
+date: 2017-06-23
+url: https://discourse.slicer.org/t/560
+---
+
 # Simplifying the use of vtkNew
 
 **Topic ID**: 560

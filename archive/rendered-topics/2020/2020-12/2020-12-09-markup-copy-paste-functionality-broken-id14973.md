@@ -1,3 +1,10 @@
+---
+topic_id: 14973
+title: "Markup Copy Paste Functionality Broken"
+date: 2020-12-09
+url: https://discourse.slicer.org/t/14973
+---
+
 # Markup copy/paste functionality broken
 
 **Topic ID**: 14973

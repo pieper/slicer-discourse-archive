@@ -1,3 +1,10 @@
+---
+topic_id: 32774
+title: "Make Launcher With Extension Module"
+date: 2023-11-13
+url: https://discourse.slicer.org/t/32774
+---
+
 # Make launcher with extension module
 
 **Topic ID**: 32774

@@ -1,3 +1,10 @@
+---
+topic_id: 42235
+title: "Imported Volumes Are Not Aligned"
+date: 2025-03-20
+url: https://discourse.slicer.org/t/42235
+---
+
 # Imported volumes are not aligned
 
 **Topic ID**: 42235

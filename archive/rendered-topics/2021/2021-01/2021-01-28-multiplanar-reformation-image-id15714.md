@@ -1,3 +1,10 @@
+---
+topic_id: 15714
+title: "Multiplanar Reformation Image"
+date: 2021-01-28
+url: https://discourse.slicer.org/t/15714
+---
+
 # Multiplanar reformation image
 
 **Topic ID**: 15714

@@ -1,3 +1,10 @@
+---
+topic_id: 1331
+title: "General Registration Brains Descriptors Or Features Used To"
+date: 2017-10-31
+url: https://discourse.slicer.org/t/1331
+---
+
 # General Registration (BRAINS) descriptors or features used to make Affine Registration (12 DOF)
 
 **Topic ID**: 1331

@@ -1,3 +1,10 @@
+---
+topic_id: 24372
+title: "Sequence Get Set Current Frame"
+date: 2022-07-18
+url: https://discourse.slicer.org/t/24372
+---
+
 # Sequence Get & Set Current Frame
 
 **Topic ID**: 24372

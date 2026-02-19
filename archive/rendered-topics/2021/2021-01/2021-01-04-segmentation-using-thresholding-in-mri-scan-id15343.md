@@ -1,3 +1,10 @@
+---
+topic_id: 15343
+title: "Segmentation Using Thresholding In Mri Scan"
+date: 2021-01-04
+url: https://discourse.slicer.org/t/15343
+---
+
 # Segmentation using Thresholding in MRI Scan
 
 **Topic ID**: 15343

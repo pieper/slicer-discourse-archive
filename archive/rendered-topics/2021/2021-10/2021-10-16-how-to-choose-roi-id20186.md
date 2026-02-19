@@ -1,3 +1,10 @@
+---
+topic_id: 20186
+title: "How To Choose Roi"
+date: 2021-10-16
+url: https://discourse.slicer.org/t/20186
+---
+
 # How to choose ROI?
 
 **Topic ID**: 20186

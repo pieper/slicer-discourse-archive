@@ -1,3 +1,10 @@
+---
+topic_id: 18099
+title: "Angle Planes No Model For Projection Option"
+date: 2021-06-13
+url: https://discourse.slicer.org/t/18099
+---
+
 # Angle Planes - No "Model for Projection" Option
 
 **Topic ID**: 18099

@@ -1,3 +1,10 @@
+---
+topic_id: 20245
+title: "Computing Skull Symmetry From Dicom"
+date: 2021-10-19
+url: https://discourse.slicer.org/t/20245
+---
+
 # Computing skull symmetry from DICOM
 
 **Topic ID**: 20245

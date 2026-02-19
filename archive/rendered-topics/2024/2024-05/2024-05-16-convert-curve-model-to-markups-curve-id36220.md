@@ -1,3 +1,10 @@
+---
+topic_id: 36220
+title: "Convert Curve Model To Markups Curve"
+date: 2024-05-16
+url: https://discourse.slicer.org/t/36220
+---
+
 # Convert curve model to markups curve
 
 **Topic ID**: 36220

@@ -1,3 +1,10 @@
+---
+topic_id: 28655
+title: "Grow From Seeds Algorithm"
+date: 2023-03-29
+url: https://discourse.slicer.org/t/28655
+---
+
 # Grow from seeds algorithm
 
 **Topic ID**: 28655

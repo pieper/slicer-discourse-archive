@@ -1,3 +1,10 @@
+---
+topic_id: 11638
+title: "Steps To Convert A Stl File To Dicom"
+date: 2020-05-20
+url: https://discourse.slicer.org/t/11638
+---
+
 # Steps to convert a STL file to DICOM
 
 **Topic ID**: 11638

@@ -1,3 +1,10 @@
+---
+topic_id: 1024
+title: "Building Cli Extension Copies To Wrong Output Directories Cm"
+date: 2017-09-08
+url: https://discourse.slicer.org/t/1024
+---
+
 # Building CLI Extension copies to wrong output directories (cmake issue)
 
 **Topic ID**: 1024

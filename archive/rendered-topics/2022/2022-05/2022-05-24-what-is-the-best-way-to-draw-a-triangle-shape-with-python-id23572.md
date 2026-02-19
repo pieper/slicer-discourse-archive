@@ -1,3 +1,10 @@
+---
+topic_id: 23572
+title: "What Is The Best Way To Draw A Triangle Shape With Python"
+date: 2022-05-24
+url: https://discourse.slicer.org/t/23572
+---
+
 # What is the best way to draw a triangle shape with Python
 
 **Topic ID**: 23572

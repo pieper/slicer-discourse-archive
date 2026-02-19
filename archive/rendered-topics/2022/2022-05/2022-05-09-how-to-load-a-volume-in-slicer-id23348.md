@@ -1,3 +1,10 @@
+---
+topic_id: 23348
+title: "How To Load A Volume In Slicer"
+date: 2022-05-09
+url: https://discourse.slicer.org/t/23348
+---
+
 # How to Load a Volume in Slicer
 
 **Topic ID**: 23348

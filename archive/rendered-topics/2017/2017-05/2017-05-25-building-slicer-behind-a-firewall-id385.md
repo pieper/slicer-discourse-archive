@@ -1,3 +1,10 @@
+---
+topic_id: 385
+title: "Building Slicer Behind A Firewall"
+date: 2017-05-25
+url: https://discourse.slicer.org/t/385
+---
+
 # Building Slicer behind a firewall
 
 **Topic ID**: 385

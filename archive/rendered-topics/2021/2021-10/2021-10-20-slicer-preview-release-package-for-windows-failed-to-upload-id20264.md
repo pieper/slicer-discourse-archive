@@ -1,3 +1,10 @@
+---
+topic_id: 20264
+title: "Slicer Preview Release Package For Windows Failed To Upload"
+date: 2021-10-20
+url: https://discourse.slicer.org/t/20264
+---
+
 # Slicer Preview Release package for Windows failed to upload
 
 **Topic ID**: 20264

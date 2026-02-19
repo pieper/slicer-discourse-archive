@@ -1,3 +1,10 @@
+---
+topic_id: 5036
+title: "Histology Slides To 3D Volume"
+date: 2018-12-11
+url: https://discourse.slicer.org/t/5036
+---
+
 # histology slides to 3D volume
 
 **Topic ID**: 5036

@@ -1,3 +1,10 @@
+---
+topic_id: 12680
+title: "Cannot Load Dicom Rt Structure Set Object"
+date: 2020-07-22
+url: https://discourse.slicer.org/t/12680
+---
+
 # cannot load DICOM RT structure set object
 
 **Topic ID**: 12680

@@ -1,3 +1,10 @@
+---
+topic_id: 38097
+title: "Fill Between Slices For Line Roi"
+date: 2024-08-28
+url: https://discourse.slicer.org/t/38097
+---
+
 # Fill between slices for line ROI
 
 **Topic ID**: 38097

@@ -1,3 +1,10 @@
+---
+topic_id: 13410
+title: "Knee Segmentation Can I Do It Faster"
+date: 2020-09-09
+url: https://discourse.slicer.org/t/13410
+---
+
 # Knee segmentation - Can I do it faster?
 
 **Topic ID**: 13410

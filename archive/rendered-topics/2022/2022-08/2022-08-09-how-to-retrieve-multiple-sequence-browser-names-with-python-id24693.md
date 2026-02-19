@@ -1,3 +1,10 @@
+---
+topic_id: 24693
+title: "How To Retrieve Multiple Sequence Browser Names With Python"
+date: 2022-08-09
+url: https://discourse.slicer.org/t/24693
+---
+
 # How to retrieve multiple Sequence browser names with python
 
 **Topic ID**: 24693

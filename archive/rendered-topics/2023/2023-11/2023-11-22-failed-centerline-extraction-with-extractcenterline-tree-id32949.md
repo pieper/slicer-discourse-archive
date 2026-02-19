@@ -1,3 +1,10 @@
+---
+topic_id: 32949
+title: "Failed Centerline Extraction With Extractcenterline Tree"
+date: 2023-11-22
+url: https://discourse.slicer.org/t/32949
+---
+
 # Failed Centerline Extraction with ExtractCenterline Tree
 
 **Topic ID**: 32949

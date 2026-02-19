@@ -1,3 +1,10 @@
+---
+topic_id: 15355
+title: "Segmenteditor Error"
+date: 2021-01-05
+url: https://discourse.slicer.org/t/15355
+---
+
 # SegmentEditor error
 
 **Topic ID**: 15355

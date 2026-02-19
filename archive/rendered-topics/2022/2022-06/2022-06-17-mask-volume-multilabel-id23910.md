@@ -1,3 +1,10 @@
+---
+topic_id: 23910
+title: "Mask Volume Multilabel"
+date: 2022-06-17
+url: https://discourse.slicer.org/t/23910
+---
+
 # Mask volume multilabel
 
 **Topic ID**: 23910

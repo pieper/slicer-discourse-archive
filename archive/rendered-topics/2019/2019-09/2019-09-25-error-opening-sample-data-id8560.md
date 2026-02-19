@@ -1,3 +1,10 @@
+---
+topic_id: 8560
+title: "Error Opening Sample Data"
+date: 2019-09-25
+url: https://discourse.slicer.org/t/8560
+---
+
 # Error opening sample data
 
 **Topic ID**: 8560

@@ -1,3 +1,10 @@
+---
+topic_id: 1590
+title: "In Master Branch Build Subjecthierarchy Failded To Be Loaded"
+date: 2017-12-05
+url: https://discourse.slicer.org/t/1590
+---
+
 # In master branch build,SubjectHierarchy failded to be loaded
 
 **Topic ID**: 1590

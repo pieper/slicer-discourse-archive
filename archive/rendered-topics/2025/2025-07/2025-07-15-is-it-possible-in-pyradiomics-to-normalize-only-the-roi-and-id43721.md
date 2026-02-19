@@ -1,3 +1,10 @@
+---
+topic_id: 43721
+title: "Is It Possible In Pyradiomics To Normalize Only The Roi And"
+date: 2025-07-15
+url: https://discourse.slicer.org/t/43721
+---
+
 # Is it possible in pyradiomics to normalize only the ROI and not the entire image?
 
 **Topic ID**: 43721

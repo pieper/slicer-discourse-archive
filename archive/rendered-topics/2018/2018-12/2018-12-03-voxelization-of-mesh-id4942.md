@@ -1,3 +1,10 @@
+---
+topic_id: 4942
+title: "Voxelization Of Mesh"
+date: 2018-12-03
+url: https://discourse.slicer.org/t/4942
+---
+
 # Voxelization of mesh
 
 **Topic ID**: 4942

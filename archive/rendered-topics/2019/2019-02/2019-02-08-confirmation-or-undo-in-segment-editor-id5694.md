@@ -1,3 +1,10 @@
+---
+topic_id: 5694
+title: "Confirmation Or Undo In Segment Editor"
+date: 2019-02-08
+url: https://discourse.slicer.org/t/5694
+---
+
 # Confirmation or undo in Segment Editor?
 
 **Topic ID**: 5694

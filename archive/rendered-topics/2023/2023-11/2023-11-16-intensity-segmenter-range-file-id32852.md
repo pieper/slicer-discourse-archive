@@ -1,3 +1,10 @@
+---
+topic_id: 32852
+title: "Intensity Segmenter Range File"
+date: 2023-11-16
+url: https://discourse.slicer.org/t/32852
+---
+
 # Intensity Segmenter; Range file
 
 **Topic ID**: 32852

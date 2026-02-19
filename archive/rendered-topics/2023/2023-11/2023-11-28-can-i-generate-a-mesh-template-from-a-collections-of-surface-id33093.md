@@ -1,3 +1,10 @@
+---
+topic_id: 33093
+title: "Can I Generate A Mesh Template From A Collections Of Surface"
+date: 2023-11-28
+url: https://discourse.slicer.org/t/33093
+---
+
 # Can I generate a mesh template from a collections of surface meshes in slicer?
 
 **Topic ID**: 33093

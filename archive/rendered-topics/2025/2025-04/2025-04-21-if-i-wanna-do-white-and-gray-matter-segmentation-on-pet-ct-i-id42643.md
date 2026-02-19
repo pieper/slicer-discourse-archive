@@ -1,3 +1,10 @@
+---
+topic_id: 42643
+title: "If I Wanna Do White And Gray Matter Segmentation On Pet Ct I"
+date: 2025-04-21
+url: https://discourse.slicer.org/t/42643
+---
+
 # If I wanna do white and gray matter segmentation on PET-CT images, how could I 
 
 **Topic ID**: 42643

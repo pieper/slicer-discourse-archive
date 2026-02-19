@@ -1,3 +1,10 @@
+---
+topic_id: 39523
+title: "Deleting Slices Keep Every N Th Slice"
+date: 2024-10-03
+url: https://discourse.slicer.org/t/39523
+---
+
 # Deleting slices - keep every n-th slice
 
 **Topic ID**: 39523

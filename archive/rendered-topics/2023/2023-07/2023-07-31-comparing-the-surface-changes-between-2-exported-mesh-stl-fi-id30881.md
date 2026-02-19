@@ -1,3 +1,10 @@
+---
+topic_id: 30881
+title: "Comparing The Surface Changes Between 2 Exported Mesh Stl Fi"
+date: 2023-07-31
+url: https://discourse.slicer.org/t/30881
+---
+
 # Comparing the surface changes between 2 exported mesh (.stl file or.vtk file) and showing its color map
 
 **Topic ID**: 30881

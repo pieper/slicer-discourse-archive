@@ -1,3 +1,10 @@
+---
+topic_id: 20252
+title: "Notification When Qmrmlslicewidget Added"
+date: 2021-10-20
+url: https://discourse.slicer.org/t/20252
+---
+
 # Notification when `qMRMLSliceWidget` added
 
 **Topic ID**: 20252

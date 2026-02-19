@@ -1,3 +1,10 @@
+---
+topic_id: 37995
+title: "Subtraction Of Bone From Soft Tissue From Same Model"
+date: 2024-08-22
+url: https://discourse.slicer.org/t/37995
+---
+
 # Subtraction of bone from soft tissue from same model
 
 **Topic ID**: 37995

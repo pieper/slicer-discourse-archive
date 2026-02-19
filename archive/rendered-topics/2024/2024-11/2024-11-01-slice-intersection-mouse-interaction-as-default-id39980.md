@@ -1,3 +1,10 @@
+---
+topic_id: 39980
+title: "Slice Intersection Mouse Interaction As Default"
+date: 2024-11-01
+url: https://discourse.slicer.org/t/39980
+---
+
 # Slice intersection mouse interaction as default
 
 **Topic ID**: 39980

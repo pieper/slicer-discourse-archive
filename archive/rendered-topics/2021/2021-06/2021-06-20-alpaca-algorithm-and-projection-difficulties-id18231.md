@@ -1,3 +1,10 @@
+---
+topic_id: 18231
+title: "Alpaca Algorithm And Projection Difficulties"
+date: 2021-06-20
+url: https://discourse.slicer.org/t/18231
+---
+
 # ALPACA algorithm, and projection difficulties
 
 **Topic ID**: 18231

@@ -1,3 +1,10 @@
+---
+topic_id: 6624
+title: "Cant Change The Windowing Of Ct"
+date: 2019-04-27
+url: https://discourse.slicer.org/t/6624
+---
+
 # Can't change the windowing of CT
 
 **Topic ID**: 6624

@@ -1,3 +1,10 @@
+---
+topic_id: 29616
+title: "Lungctanalyzer Error Nonetype Oject Has No Attribute"
+date: 2023-05-23
+url: https://discourse.slicer.org/t/29616
+---
+
 # LungCTAnalyzer error: NoneType oject has no attribute
 
 **Topic ID**: 29616

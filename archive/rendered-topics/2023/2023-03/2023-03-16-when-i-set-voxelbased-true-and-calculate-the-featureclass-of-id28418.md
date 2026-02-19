@@ -1,3 +1,10 @@
+---
+topic_id: 28418
+title: "When I Set Voxelbased True And Calculate The Featureclass Of"
+date: 2023-03-16
+url: https://discourse.slicer.org/t/28418
+---
+
 # When I set voxelBased=True and calculate the featureclass of glcm,I meet some problems
 
 **Topic ID**: 28418

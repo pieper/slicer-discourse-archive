@@ -1,3 +1,10 @@
+---
+topic_id: 29475
+title: "Radiation Therapy And Ai Assisted Segmentation"
+date: 2023-05-15
+url: https://discourse.slicer.org/t/29475
+---
+
 # Radiation Therapy and AI assisted segmentation?
 
 **Topic ID**: 29475

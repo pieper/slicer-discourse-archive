@@ -1,3 +1,10 @@
+---
+topic_id: 21643
+title: "Exported Nrrd File Segmentation Misaligned With The Original"
+date: 2022-01-26
+url: https://discourse.slicer.org/t/21643
+---
+
 # Exported NRRD file (segmentation) misaligned with the original DICOM file (MRI).
 
 **Topic ID**: 21643

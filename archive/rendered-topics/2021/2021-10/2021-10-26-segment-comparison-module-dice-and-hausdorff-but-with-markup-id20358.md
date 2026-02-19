@@ -1,3 +1,10 @@
+---
+topic_id: 20358
+title: "Segment Comparison Module Dice And Hausdorff But With Markup"
+date: 2021-10-26
+url: https://discourse.slicer.org/t/20358
+---
+
 # Segment comparison module (Dice and Hausdorff) - but with markup points
 
 **Topic ID**: 20358

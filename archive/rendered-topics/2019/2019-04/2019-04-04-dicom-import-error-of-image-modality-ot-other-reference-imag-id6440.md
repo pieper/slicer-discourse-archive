@@ -1,3 +1,10 @@
+---
+topic_id: 6440
+title: "Dicom Import Error Of Image Modality Ot Other Reference Imag"
+date: 2019-04-04
+url: https://discourse.slicer.org/t/6440
+---
+
 # DICOM import error of image modality OT ("other"): ‘Reference image in series does not contain geometry information.’
 
 **Topic ID**: 6440

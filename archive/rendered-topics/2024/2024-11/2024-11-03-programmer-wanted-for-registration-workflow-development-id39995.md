@@ -1,3 +1,10 @@
+---
+topic_id: 39995
+title: "Programmer Wanted For Registration Workflow Development"
+date: 2024-11-03
+url: https://discourse.slicer.org/t/39995
+---
+
 # Programmer wanted for Registration workflow Development
 
 **Topic ID**: 39995

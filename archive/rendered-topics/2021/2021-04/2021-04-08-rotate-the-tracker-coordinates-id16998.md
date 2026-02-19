@@ -1,3 +1,10 @@
+---
+topic_id: 16998
+title: "Rotate The Tracker Coordinates"
+date: 2021-04-08
+url: https://discourse.slicer.org/t/16998
+---
+
 # Rotate the tracker coordinates
 
 **Topic ID**: 16998

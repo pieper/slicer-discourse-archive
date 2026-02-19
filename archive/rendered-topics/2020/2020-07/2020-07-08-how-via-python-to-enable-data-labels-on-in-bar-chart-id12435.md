@@ -1,3 +1,10 @@
+---
+topic_id: 12435
+title: "How Via Python To Enable Data Labels On In Bar Chart"
+date: 2020-07-08
+url: https://discourse.slicer.org/t/12435
+---
+
 # How, via python, to enable "data labels" on in bar-chart?
 
 **Topic ID**: 12435

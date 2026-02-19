@@ -1,3 +1,10 @@
+---
+topic_id: 11079
+title: "Radiomics Doesnt Work On Macos Catalina"
+date: 2020-04-11
+url: https://discourse.slicer.org/t/11079
+---
+
 # Radiomics doesn't work on macOS Catalina
 
 **Topic ID**: 11079

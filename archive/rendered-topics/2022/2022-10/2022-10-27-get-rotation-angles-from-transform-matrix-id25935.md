@@ -1,3 +1,10 @@
+---
+topic_id: 25935
+title: "Get Rotation Angles From Transform Matrix"
+date: 2022-10-27
+url: https://discourse.slicer.org/t/25935
+---
+
 # Get rotation angles from transform matrix
 
 **Topic ID**: 25935

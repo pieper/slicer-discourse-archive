@@ -1,3 +1,10 @@
+---
+topic_id: 20089
+title: "Reformat Keyboard Shorcuts"
+date: 2021-10-10
+url: https://discourse.slicer.org/t/20089
+---
+
 # Reformat keyboard shorcuts?
 
 **Topic ID**: 20089

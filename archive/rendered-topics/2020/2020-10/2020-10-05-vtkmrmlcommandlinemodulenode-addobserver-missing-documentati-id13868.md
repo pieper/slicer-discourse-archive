@@ -1,3 +1,10 @@
+---
+topic_id: 13868
+title: "Vtkmrmlcommandlinemodulenode Addobserver Missing Documentati"
+date: 2020-10-05
+url: https://discourse.slicer.org/t/13868
+---
+
 # [vtkMRMLCommandLineModuleNode.AddObserver()] Missing Documentation
 
 **Topic ID**: 13868

@@ -1,3 +1,10 @@
+---
+topic_id: 40251
+title: "Total Segmentator In 3D Slicer With Python Script"
+date: 2024-11-18
+url: https://discourse.slicer.org/t/40251
+---
+
 # Total segmentator in 3d Slicer with python script
 
 **Topic ID**: 40251

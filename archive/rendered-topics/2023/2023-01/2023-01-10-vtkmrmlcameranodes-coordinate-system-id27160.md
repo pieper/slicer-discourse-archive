@@ -1,3 +1,10 @@
+---
+topic_id: 27160
+title: "Vtkmrmlcameranodes Coordinate System"
+date: 2023-01-10
+url: https://discourse.slicer.org/t/27160
+---
+
 # vtkMRMLCameraNode's coordinate system
 
 **Topic ID**: 27160

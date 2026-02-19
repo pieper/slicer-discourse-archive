@@ -1,3 +1,10 @@
+---
+topic_id: 35665
+title: "Dose Comparison Module"
+date: 2024-04-23
+url: https://discourse.slicer.org/t/35665
+---
+
 # Dose comparison module
 
 **Topic ID**: 35665

@@ -1,3 +1,10 @@
+---
+topic_id: 37810
+title: "Matching Monai Orientation With Arrayfromvolume Output"
+date: 2024-08-09
+url: https://discourse.slicer.org/t/37810
+---
+
 # Matching Monai orientation with "arrayFromVolume" output
 
 **Topic ID**: 37810

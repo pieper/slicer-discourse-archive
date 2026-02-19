@@ -1,3 +1,10 @@
+---
+topic_id: 7035
+title: "Merge Rtstructures With Dicom"
+date: 2019-06-05
+url: https://discourse.slicer.org/t/7035
+---
+
 # Merge RTstructures with Dicom
 
 **Topic ID**: 7035

@@ -1,3 +1,10 @@
+---
+topic_id: 27995
+title: "Create Parallel Coordinates Chart"
+date: 2023-02-22
+url: https://discourse.slicer.org/t/27995
+---
+
 # Create Parallel Coordinates Chart
 
 **Topic ID**: 27995

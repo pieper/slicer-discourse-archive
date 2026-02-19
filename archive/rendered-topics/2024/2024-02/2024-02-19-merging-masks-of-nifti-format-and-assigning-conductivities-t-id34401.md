@@ -1,3 +1,10 @@
+---
+topic_id: 34401
+title: "Merging Masks Of Nifti Format And Assigning Conductivities T"
+date: 2024-02-19
+url: https://discourse.slicer.org/t/34401
+---
+
 # Merging masks of nifti format and assigning conductivities to each
 
 **Topic ID**: 34401

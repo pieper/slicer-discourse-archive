@@ -1,3 +1,10 @@
+---
+topic_id: 19421
+title: "Inhs Module Unable To Import Image From Table"
+date: 2021-08-30
+url: https://discourse.slicer.org/t/19421
+---
+
 # INHS module: unable to import image from table. 
 
 **Topic ID**: 19421

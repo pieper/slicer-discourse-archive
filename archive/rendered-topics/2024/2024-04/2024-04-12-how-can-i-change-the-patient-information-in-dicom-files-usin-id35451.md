@@ -1,3 +1,10 @@
+---
+topic_id: 35451
+title: "How Can I Change The Patient Information In Dicom Files Usin"
+date: 2024-04-12
+url: https://discourse.slicer.org/t/35451
+---
+
 # How can i change the patient information in DICOM files using 3D Slicer during import?
 
 **Topic ID**: 35451

@@ -1,3 +1,10 @@
+---
+topic_id: 27234
+title: "Rfc Branch Clipper Module"
+date: 2023-01-13
+url: https://discourse.slicer.org/t/27234
+---
+
 # RFC: Branch clipper module
 
 **Topic ID**: 27234

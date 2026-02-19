@@ -1,3 +1,10 @@
+---
+topic_id: 2872
+title: "Convert Dicom Rt Structure"
+date: 2018-05-22
+url: https://discourse.slicer.org/t/2872
+---
+
 # convert dicom rt structure
 
 **Topic ID**: 2872

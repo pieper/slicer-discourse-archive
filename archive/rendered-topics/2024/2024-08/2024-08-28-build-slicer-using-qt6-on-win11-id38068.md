@@ -1,3 +1,10 @@
+---
+topic_id: 38068
+title: "Build Slicer Using Qt6 On Win11"
+date: 2024-08-28
+url: https://discourse.slicer.org/t/38068
+---
+
 # Build Slicer using Qt6 on Win11
 
 **Topic ID**: 38068

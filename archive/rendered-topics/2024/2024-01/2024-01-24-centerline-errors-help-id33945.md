@@ -1,3 +1,10 @@
+---
+topic_id: 33945
+title: "Centerline Errors Help"
+date: 2024-01-24
+url: https://discourse.slicer.org/t/33945
+---
+
 # Centerline errors - help
 
 **Topic ID**: 33945

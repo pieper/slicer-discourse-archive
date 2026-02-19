@@ -1,3 +1,10 @@
+---
+topic_id: 27021
+title: "Malicious Code In Pytorch"
+date: 2023-01-04
+url: https://discourse.slicer.org/t/27021
+---
+
 # Malicious code in pyTorch
 
 **Topic ID**: 27021

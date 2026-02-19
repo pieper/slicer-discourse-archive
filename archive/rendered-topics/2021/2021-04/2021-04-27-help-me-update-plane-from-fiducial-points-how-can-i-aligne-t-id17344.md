@@ -1,3 +1,10 @@
+---
+topic_id: 17344
+title: "Help Me Update Plane From Fiducial Points How Can I Aligne T"
+date: 2021-04-27
+url: https://discourse.slicer.org/t/17344
+---
+
 # Help me! Update plane from fiducial points...How can I aligne the red plane with Coordinate axis?
 
 **Topic ID**: 17344

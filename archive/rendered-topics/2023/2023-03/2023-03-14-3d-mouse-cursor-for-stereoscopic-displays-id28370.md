@@ -1,3 +1,10 @@
+---
+topic_id: 28370
+title: "3D Mouse Cursor For Stereoscopic Displays"
+date: 2023-03-14
+url: https://discourse.slicer.org/t/28370
+---
+
 # 3D mouse cursor for stereoscopic displays
 
 **Topic ID**: 28370

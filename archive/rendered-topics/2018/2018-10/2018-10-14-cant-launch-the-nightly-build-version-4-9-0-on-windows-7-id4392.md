@@ -1,3 +1,10 @@
+---
+topic_id: 4392
+title: "Cant Launch The Nightly Build Version 4 9 0 On Windows 7"
+date: 2018-10-14
+url: https://discourse.slicer.org/t/4392
+---
+
 # Can't launch the nightly build version 4.9.0 on windows 7
 
 **Topic ID**: 4392

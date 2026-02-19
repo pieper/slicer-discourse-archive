@@ -1,3 +1,10 @@
+---
+topic_id: 2283
+title: "Python Interactor Process"
+date: 2018-03-10
+url: https://discourse.slicer.org/t/2283
+---
+
 # Python Interactor process
 
 **Topic ID**: 2283

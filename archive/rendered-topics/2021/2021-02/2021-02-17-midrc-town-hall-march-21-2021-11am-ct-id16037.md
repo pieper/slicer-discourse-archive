@@ -1,3 +1,10 @@
+---
+topic_id: 16037
+title: "Midrc Town Hall March 21 2021 11Am Ct"
+date: 2021-02-17
+url: https://discourse.slicer.org/t/16037
+---
+
 # MIDRC Town Hall - March 21, 2021 - 11AM CT
 
 **Topic ID**: 16037

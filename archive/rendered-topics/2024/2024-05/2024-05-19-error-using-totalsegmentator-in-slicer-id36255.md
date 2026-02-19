@@ -1,3 +1,10 @@
+---
+topic_id: 36255
+title: "Error Using Totalsegmentator In Slicer"
+date: 2024-05-19
+url: https://discourse.slicer.org/t/36255
+---
+
 # Error using TotalSegmentator in Slicer
 
 **Topic ID**: 36255

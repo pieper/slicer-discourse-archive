@@ -1,3 +1,10 @@
+---
+topic_id: 37555
+title: "Liver Blood Vessel Segmentation"
+date: 2024-07-25
+url: https://discourse.slicer.org/t/37555
+---
+
 # Liver blood vessel segmentation
 
 **Topic ID**: 37555

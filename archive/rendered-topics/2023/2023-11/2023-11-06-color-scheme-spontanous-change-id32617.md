@@ -1,3 +1,10 @@
+---
+topic_id: 32617
+title: "Color Scheme Spontanous Change"
+date: 2023-11-06
+url: https://discourse.slicer.org/t/32617
+---
+
 # Color scheme spontanous change
 
 **Topic ID**: 32617

@@ -1,3 +1,10 @@
+---
+topic_id: 14084
+title: "Medical Record Integration"
+date: 2020-10-16
+url: https://discourse.slicer.org/t/14084
+---
+
 # Medical record integration
 
 **Topic ID**: 14084

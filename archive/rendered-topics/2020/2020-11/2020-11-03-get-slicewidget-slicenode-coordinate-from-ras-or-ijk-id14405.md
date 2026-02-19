@@ -1,3 +1,10 @@
+---
+topic_id: 14405
+title: "Get Slicewidget Slicenode Coordinate From Ras Or Ijk"
+date: 2020-11-03
+url: https://discourse.slicer.org/t/14405
+---
+
 # Get SliceWidget / SliceNode Coordinate From RAS or IJK
 
 **Topic ID**: 14405

@@ -1,3 +1,10 @@
+---
+topic_id: 35105
+title: "Error Installing Pyradiomics"
+date: 2024-03-26
+url: https://discourse.slicer.org/t/35105
+---
+
 # Error installing PyRadiomics
 
 **Topic ID**: 35105

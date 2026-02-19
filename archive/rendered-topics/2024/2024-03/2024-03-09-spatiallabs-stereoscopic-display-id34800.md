@@ -1,3 +1,10 @@
+---
+topic_id: 34800
+title: "Spatiallabs Stereoscopic Display"
+date: 2024-03-09
+url: https://discourse.slicer.org/t/34800
+---
+
 # SpatialLabs stereoscopic display
 
 **Topic ID**: 34800

@@ -1,3 +1,10 @@
+---
+topic_id: 35610
+title: "Thresholding Series Of 2D Images"
+date: 2024-04-19
+url: https://discourse.slicer.org/t/35610
+---
+
 # Thresholding series of 2D images
 
 **Topic ID**: 35610

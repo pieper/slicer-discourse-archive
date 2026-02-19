@@ -1,3 +1,10 @@
+---
+topic_id: 8678
+title: "How Could I Do That I Can Connect Another Linux Computer Ser"
+date: 2019-10-05
+url: https://discourse.slicer.org/t/8678
+---
+
 # How could I do that I can connect another linux computer(server) via OpenIGTLink?
 
 **Topic ID**: 8678

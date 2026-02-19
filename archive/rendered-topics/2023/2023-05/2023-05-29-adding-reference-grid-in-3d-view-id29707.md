@@ -1,3 +1,10 @@
+---
+topic_id: 29707
+title: "Adding Reference Grid In 3D View"
+date: 2023-05-29
+url: https://discourse.slicer.org/t/29707
+---
+
 # Adding reference grid in 3D view
 
 **Topic ID**: 29707

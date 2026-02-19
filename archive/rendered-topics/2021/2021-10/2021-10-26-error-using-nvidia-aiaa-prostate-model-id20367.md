@@ -1,3 +1,10 @@
+---
+topic_id: 20367
+title: "Error Using Nvidia Aiaa Prostate Model"
+date: 2021-10-26
+url: https://discourse.slicer.org/t/20367
+---
+
 # Error Using nVIDIA AIAA - Prostate Model 
 
 **Topic ID**: 20367

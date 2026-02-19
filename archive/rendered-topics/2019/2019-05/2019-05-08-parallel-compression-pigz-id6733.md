@@ -1,3 +1,10 @@
+---
+topic_id: 6733
+title: "Parallel Compression Pigz"
+date: 2019-05-08
+url: https://discourse.slicer.org/t/6733
+---
+
 # Parallel compression pigz
 
 **Topic ID**: 6733

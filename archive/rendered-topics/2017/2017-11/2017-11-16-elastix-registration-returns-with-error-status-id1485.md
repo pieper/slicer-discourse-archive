@@ -1,3 +1,10 @@
+---
+topic_id: 1485
+title: "Elastix Registration Returns With Error Status"
+date: 2017-11-16
+url: https://discourse.slicer.org/t/1485
+---
+
 # Elastix registration returns with error status
 
 **Topic ID**: 1485

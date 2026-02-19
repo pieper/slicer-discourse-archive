@@ -1,3 +1,10 @@
+---
+topic_id: 29167
+title: "Create A Segmentation From A Contour File Using Python"
+date: 2023-04-27
+url: https://discourse.slicer.org/t/29167
+---
+
 # Create a segmentation from a contour file using python
 
 **Topic ID**: 29167

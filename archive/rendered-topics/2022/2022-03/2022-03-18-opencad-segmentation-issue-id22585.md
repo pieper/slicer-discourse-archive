@@ -1,3 +1,10 @@
+---
+topic_id: 22585
+title: "Opencad Segmentation Issue"
+date: 2022-03-18
+url: https://discourse.slicer.org/t/22585
+---
+
 # OpenCAD segmentation issue
 
 **Topic ID**: 22585

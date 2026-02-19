@@ -1,3 +1,10 @@
+---
+topic_id: 13390
+title: "Creating An Rtstruct File With Contour Data"
+date: 2020-09-08
+url: https://discourse.slicer.org/t/13390
+---
+
 # Creating an RTStruct file with contour data
 
 **Topic ID**: 13390

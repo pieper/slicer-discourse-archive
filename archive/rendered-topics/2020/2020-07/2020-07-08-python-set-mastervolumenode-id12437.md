@@ -1,3 +1,10 @@
+---
+topic_id: 12437
+title: "Python Set Mastervolumenode"
+date: 2020-07-08
+url: https://discourse.slicer.org/t/12437
+---
+
 # Python Set MasterVolumeNode
 
 **Topic ID**: 12437

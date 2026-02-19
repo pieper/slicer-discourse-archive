@@ -1,3 +1,10 @@
+---
+topic_id: 2607
+title: "Is There Any Way To Use 3D Slicer Libraries And Make My Own"
+date: 2018-04-17
+url: https://discourse.slicer.org/t/2607
+---
+
 # Is there any way to use 3d slicer libraries and make my own GUI
 
 **Topic ID**: 2607

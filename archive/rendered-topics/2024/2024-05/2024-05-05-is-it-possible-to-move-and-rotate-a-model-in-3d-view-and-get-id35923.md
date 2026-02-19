@@ -1,3 +1,10 @@
+---
+topic_id: 35923
+title: "Is It Possible To Move And Rotate A Model In 3D View And Get"
+date: 2024-05-05
+url: https://discourse.slicer.org/t/35923
+---
+
 # Is it possible to move and rotate a model in 3d view and get the transformtion matrix?
 
 **Topic ID**: 35923

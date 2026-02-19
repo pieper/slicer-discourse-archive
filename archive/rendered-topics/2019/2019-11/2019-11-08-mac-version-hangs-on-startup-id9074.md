@@ -1,3 +1,10 @@
+---
+topic_id: 9074
+title: "Mac Version Hangs On Startup"
+date: 2019-11-08
+url: https://discourse.slicer.org/t/9074
+---
+
 # Mac version hangs on startup
 
 **Topic ID**: 9074

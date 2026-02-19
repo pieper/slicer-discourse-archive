@@ -1,3 +1,10 @@
+---
+topic_id: 16158
+title: "Markups Creating A Single File Including Landmarks Fixed And"
+date: 2021-02-23
+url: https://discourse.slicer.org/t/16158
+---
+
 # Markups - Creating a SINGLE file including Landmarks (fixed) and Curves (semilandmarks) - problem while resampling
 
 **Topic ID**: 16158

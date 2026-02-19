@@ -1,3 +1,10 @@
+---
+topic_id: 19412
+title: "Opening File Consumes Large Amount Of Memory"
+date: 2021-08-30
+url: https://discourse.slicer.org/t/19412
+---
+
 # Opening file consumes large amount of memory
 
 **Topic ID**: 19412

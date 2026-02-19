@@ -1,3 +1,10 @@
+---
+topic_id: 10248
+title: "Curved Planar Reformat Module Reslicing Error"
+date: 2020-02-13
+url: https://discourse.slicer.org/t/10248
+---
+
 # Curved Planar Reformat module reslicing error
 
 **Topic ID**: 10248

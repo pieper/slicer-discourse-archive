@@ -1,3 +1,10 @@
+---
+topic_id: 2257
+title: "Using Numpy Reslice To Get Slices Of Segment"
+date: 2018-03-07
+url: https://discourse.slicer.org/t/2257
+---
+
 # Using numpy reslice to get slices of segment
 
 **Topic ID**: 2257

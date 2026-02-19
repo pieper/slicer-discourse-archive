@@ -1,3 +1,10 @@
+---
+topic_id: 45964
+title: "How To Use The Extension Slicerheart"
+date: 2026-01-28
+url: https://discourse.slicer.org/t/45964
+---
+
 # How to use the extension SlicerHeart
 
 **Topic ID**: 45964

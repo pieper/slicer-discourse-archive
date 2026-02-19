@@ -1,3 +1,10 @@
+---
+topic_id: 1542
+title: "Qt5 Build Recompiles On Linux"
+date: 2017-11-27
+url: https://discourse.slicer.org/t/1542
+---
+
 # Qt5 build recompiles on Linux?
 
 **Topic ID**: 1542

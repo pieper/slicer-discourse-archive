@@ -1,3 +1,10 @@
+---
+topic_id: 16164
+title: "Setting An Mni Origo To A Volume"
+date: 2021-02-23
+url: https://discourse.slicer.org/t/16164
+---
+
 # Setting an MNI origo to a volume
 
 **Topic ID**: 16164

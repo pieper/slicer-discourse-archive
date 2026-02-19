@@ -1,3 +1,10 @@
+---
+topic_id: 37975
+title: "Custom Module Does Not Appear In Modules Section In Settings"
+date: 2024-08-21
+url: https://discourse.slicer.org/t/37975
+---
+
 # Custom module does not appear in 'modules' section in Settings
 
 **Topic ID**: 37975

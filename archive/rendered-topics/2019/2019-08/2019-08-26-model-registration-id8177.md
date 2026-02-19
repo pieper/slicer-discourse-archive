@@ -1,3 +1,10 @@
+---
+topic_id: 8177
+title: "Model Registration"
+date: 2019-08-26
+url: https://discourse.slicer.org/t/8177
+---
+
 # Model registration
 
 **Topic ID**: 8177

@@ -1,3 +1,10 @@
+---
+topic_id: 401
+title: "Create New Vtkmrmlmodelhierarchynode And Add Models"
+date: 2017-05-30
+url: https://discourse.slicer.org/t/401
+---
+
 # Create new vtkMRMLModelHierarchyNode() and add models
 
 **Topic ID**: 401

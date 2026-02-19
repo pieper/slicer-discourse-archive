@@ -1,3 +1,10 @@
+---
+topic_id: 8670
+title: "How To Measure The Upper Airway Length And Volume"
+date: 2019-10-04
+url: https://discourse.slicer.org/t/8670
+---
+
 # How to measure the upper airway length and volume?
 
 **Topic ID**: 8670

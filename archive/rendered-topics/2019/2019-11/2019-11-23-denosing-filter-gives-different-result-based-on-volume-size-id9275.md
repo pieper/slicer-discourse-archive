@@ -1,3 +1,10 @@
+---
+topic_id: 9275
+title: "Denosing Filter Gives Different Result Based On Volume Size"
+date: 2019-11-23
+url: https://discourse.slicer.org/t/9275
+---
+
 # Denosing filter gives different result based on volume size
 
 **Topic ID**: 9275

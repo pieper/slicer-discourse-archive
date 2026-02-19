@@ -1,3 +1,10 @@
+---
+topic_id: 13791
+title: "How Top Crop The Volume Using Python"
+date: 2020-10-01
+url: https://discourse.slicer.org/t/13791
+---
+
 # How top crop the volume using python?
 
 **Topic ID**: 13791

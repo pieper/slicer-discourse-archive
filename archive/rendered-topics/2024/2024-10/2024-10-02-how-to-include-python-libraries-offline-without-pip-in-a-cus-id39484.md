@@ -1,3 +1,10 @@
+---
+topic_id: 39484
+title: "How To Include Python Libraries Offline Without Pip In A Cus"
+date: 2024-10-02
+url: https://discourse.slicer.org/t/39484
+---
+
 # How to Include Python Libraries Offline (without pip) in a Custom Slicer Application?
 
 **Topic ID**: 39484

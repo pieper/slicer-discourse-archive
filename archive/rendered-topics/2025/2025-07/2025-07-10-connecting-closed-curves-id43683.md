@@ -1,3 +1,10 @@
+---
+topic_id: 43683
+title: "Connecting Closed Curves"
+date: 2025-07-10
+url: https://discourse.slicer.org/t/43683
+---
+
 # Connecting Closed Curves
 
 **Topic ID**: 43683

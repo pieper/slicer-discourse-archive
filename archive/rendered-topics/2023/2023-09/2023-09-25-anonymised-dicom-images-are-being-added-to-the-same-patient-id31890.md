@@ -1,3 +1,10 @@
+---
+topic_id: 31890
+title: "Anonymised Dicom Images Are Being Added To The Same Patient"
+date: 2023-09-25
+url: https://discourse.slicer.org/t/31890
+---
+
 # Anonymised DICOM images are being added to the same patient
 
 **Topic ID**: 31890

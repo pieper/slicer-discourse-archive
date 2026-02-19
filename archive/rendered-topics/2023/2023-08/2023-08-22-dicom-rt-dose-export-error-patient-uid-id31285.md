@@ -1,3 +1,10 @@
+---
+topic_id: 31285
+title: "Dicom Rt Dose Export Error Patient Uid"
+date: 2023-08-22
+url: https://discourse.slicer.org/t/31285
+---
+
 # Dicom RT dose export error: patient UID
 
 **Topic ID**: 31285

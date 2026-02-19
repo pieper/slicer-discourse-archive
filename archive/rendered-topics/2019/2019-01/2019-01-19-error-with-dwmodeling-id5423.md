@@ -1,3 +1,10 @@
+---
+topic_id: 5423
+title: "Error With Dwmodeling"
+date: 2019-01-19
+url: https://discourse.slicer.org/t/5423
+---
+
 # Error with DWmodeling
 
 **Topic ID**: 5423

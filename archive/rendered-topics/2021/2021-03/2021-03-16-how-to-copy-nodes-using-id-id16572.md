@@ -1,3 +1,10 @@
+---
+topic_id: 16572
+title: "How To Copy Nodes Using Id"
+date: 2021-03-16
+url: https://discourse.slicer.org/t/16572
+---
+
 # How to copy Nodes using id?
 
 **Topic ID**: 16572

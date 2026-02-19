@@ -1,3 +1,10 @@
+---
+topic_id: 25329
+title: "Change The Slicers Name And Icon"
+date: 2022-09-19
+url: https://discourse.slicer.org/t/25329
+---
+
 # Change the Slicer's name and icon
 
 **Topic ID**: 25329

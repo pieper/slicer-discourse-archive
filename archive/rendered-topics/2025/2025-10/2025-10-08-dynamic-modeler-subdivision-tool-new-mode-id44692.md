@@ -1,3 +1,10 @@
+---
+topic_id: 44692
+title: "Dynamic Modeler Subdivision Tool New Mode"
+date: 2025-10-08
+url: https://discourse.slicer.org/t/44692
+---
+
 # Dynamic Modeler Subdivision tool new mode
 
 **Topic ID**: 44692

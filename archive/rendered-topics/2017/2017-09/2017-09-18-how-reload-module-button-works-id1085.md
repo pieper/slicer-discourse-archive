@@ -1,3 +1,10 @@
+---
+topic_id: 1085
+title: "How Reload Module Button Works"
+date: 2017-09-18
+url: https://discourse.slicer.org/t/1085
+---
+
 # How reload module button works?
 
 **Topic ID**: 1085

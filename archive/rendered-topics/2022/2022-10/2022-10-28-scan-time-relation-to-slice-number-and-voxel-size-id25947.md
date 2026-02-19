@@ -1,3 +1,10 @@
+---
+topic_id: 25947
+title: "Scan Time Relation To Slice Number And Voxel Size"
+date: 2022-10-28
+url: https://discourse.slicer.org/t/25947
+---
+
 # Scan time relation to slice number and voxel size
 
 **Topic ID**: 25947

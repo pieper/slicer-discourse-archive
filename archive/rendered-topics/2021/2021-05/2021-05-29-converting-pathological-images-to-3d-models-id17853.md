@@ -1,3 +1,10 @@
+---
+topic_id: 17853
+title: "Converting Pathological Images To 3D Models"
+date: 2021-05-29
+url: https://discourse.slicer.org/t/17853
+---
+
 # Converting Pathological Images to 3D Models
 
 **Topic ID**: 17853

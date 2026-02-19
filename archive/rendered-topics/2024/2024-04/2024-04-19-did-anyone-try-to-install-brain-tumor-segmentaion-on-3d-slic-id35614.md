@@ -1,3 +1,10 @@
+---
+topic_id: 35614
+title: "Did Anyone Try To Install Brain Tumor Segmentaion On 3D Slic"
+date: 2024-04-19
+url: https://discourse.slicer.org/t/35614
+---
+
 # Did anyone try to install  Brain-Tumor-Segmentaion-on-3D-Slicer Extension?
 
 **Topic ID**: 35614

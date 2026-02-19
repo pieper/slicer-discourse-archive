@@ -1,3 +1,10 @@
+---
+topic_id: 19822
+title: "Whats Wrong With This Code Of Intersect To 2 Segmentations"
+date: 2021-09-23
+url: https://discourse.slicer.org/t/19822
+---
+
 # What's wrong with this code of 'INTERSECT' to 2 segmentations?
 
 **Topic ID**: 19822

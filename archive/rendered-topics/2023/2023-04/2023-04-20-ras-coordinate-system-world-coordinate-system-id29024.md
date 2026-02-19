@@ -1,3 +1,10 @@
+---
+topic_id: 29024
+title: "Ras Coordinate System World Coordinate System"
+date: 2023-04-20
+url: https://discourse.slicer.org/t/29024
+---
+
 # RAS Coordinate system != World Coordinate system?
 
 **Topic ID**: 29024

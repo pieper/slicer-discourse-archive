@@ -1,3 +1,10 @@
+---
+topic_id: 15117
+title: "Convert Mhd File From Rpi To Rai"
+date: 2020-12-17
+url: https://discourse.slicer.org/t/15117
+---
+
 # Convert mhd file from RPI to RAI
 
 **Topic ID**: 15117

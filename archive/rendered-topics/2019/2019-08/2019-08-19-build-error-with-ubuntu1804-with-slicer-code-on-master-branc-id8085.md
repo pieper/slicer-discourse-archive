@@ -1,3 +1,10 @@
+---
+topic_id: 8085
+title: "Build Error With Ubuntu1804 With Slicer Code On Master Branc"
+date: 2019-08-19
+url: https://discourse.slicer.org/t/8085
+---
+
 # Build error with ubuntu1804 with slicer code on master branch
 
 **Topic ID**: 8085

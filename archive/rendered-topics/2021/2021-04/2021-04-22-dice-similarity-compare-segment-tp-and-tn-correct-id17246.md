@@ -1,3 +1,10 @@
+---
+topic_id: 17246
+title: "Dice Similarity Compare Segment Tp And Tn Correct"
+date: 2021-04-22
+url: https://discourse.slicer.org/t/17246
+---
+
 # Dice Similarity compare segment TP and TN correct?
 
 **Topic ID**: 17246

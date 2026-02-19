@@ -1,3 +1,10 @@
+---
+topic_id: 5952
+title: "Why Did My Python Slicer Extension Module Loading Fail"
+date: 2019-02-27
+url: https://discourse.slicer.org/t/5952
+---
+
 # Why did my python slicer extension module loading fail?
 
 **Topic ID**: 5952

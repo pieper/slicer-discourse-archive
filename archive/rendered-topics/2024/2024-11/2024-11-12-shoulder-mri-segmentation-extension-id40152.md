@@ -1,3 +1,10 @@
+---
+topic_id: 40152
+title: "Shoulder Mri Segmentation Extension"
+date: 2024-11-12
+url: https://discourse.slicer.org/t/40152
+---
+
 # Shoulder MRI segmentation extension
 
 **Topic ID**: 40152

@@ -1,3 +1,10 @@
+---
+topic_id: 2876
+title: "Vtk Merge To Create 3D Image"
+date: 2018-05-22
+url: https://discourse.slicer.org/t/2876
+---
+
 # VTK merge to create 3D image
 
 **Topic ID**: 2876

@@ -1,3 +1,10 @@
+---
+topic_id: 6251
+title: "The Problem With Images Are Not Equally Spaced"
+date: 2019-03-22
+url: https://discourse.slicer.org/t/6251
+---
+
 # The problem with images are not equally spaced
 
 **Topic ID**: 6251

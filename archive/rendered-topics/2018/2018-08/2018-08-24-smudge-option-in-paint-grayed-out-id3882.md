@@ -1,3 +1,10 @@
+---
+topic_id: 3882
+title: "Smudge Option In Paint Grayed Out"
+date: 2018-08-24
+url: https://discourse.slicer.org/t/3882
+---
+
 # Smudge option in paint grayed out
 
 **Topic ID**: 3882

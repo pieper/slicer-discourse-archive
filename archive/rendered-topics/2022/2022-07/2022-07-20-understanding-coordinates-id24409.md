@@ -1,3 +1,10 @@
+---
+topic_id: 24409
+title: "Understanding Coordinates"
+date: 2022-07-20
+url: https://discourse.slicer.org/t/24409
+---
+
 # Understanding coordinates
 
 **Topic ID**: 24409

@@ -1,3 +1,10 @@
+---
+topic_id: 7517
+title: "How To Calibrate And Track The Movement Of A Non Stylus Mode"
+date: 2019-07-11
+url: https://discourse.slicer.org/t/7517
+---
+
 # How to calibrate and track the movement of a non-stylus model in IGT
 
 **Topic ID**: 7517

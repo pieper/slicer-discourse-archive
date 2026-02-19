@@ -1,3 +1,10 @@
+---
+topic_id: 19623
+title: "Assign Multiple Segment To Specific Area Roi"
+date: 2021-09-11
+url: https://discourse.slicer.org/t/19623
+---
+
 # Assign multiple segment to specific area / ROI
 
 **Topic ID**: 19623

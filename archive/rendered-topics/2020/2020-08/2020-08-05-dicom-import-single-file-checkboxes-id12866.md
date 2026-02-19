@@ -1,3 +1,10 @@
+---
+topic_id: 12866
+title: "Dicom Import Single File Checkboxes"
+date: 2020-08-05
+url: https://discourse.slicer.org/t/12866
+---
+
 # DICOM import "single file" checkboxes
 
 **Topic ID**: 12866

@@ -1,3 +1,10 @@
+---
+topic_id: 25894
+title: "Registration Discussion"
+date: 2022-10-25
+url: https://discourse.slicer.org/t/25894
+---
+
 # Registration discussion
 
 **Topic ID**: 25894

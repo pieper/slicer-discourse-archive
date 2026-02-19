@@ -1,3 +1,10 @@
+---
+topic_id: 27184
+title: "Slicer Sample Data"
+date: 2023-01-11
+url: https://discourse.slicer.org/t/27184
+---
+
 # Slicer sample data
 
 **Topic ID**: 27184

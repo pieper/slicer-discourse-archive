@@ -1,3 +1,10 @@
+---
+topic_id: 17399
+title: "Load Python Script From Harddisk In Slicers S Python Interac"
+date: 2021-04-30
+url: https://discourse.slicer.org/t/17399
+---
+
 # Load python script from harddisk in Slicers´s Python Interactor?
 
 **Topic ID**: 17399

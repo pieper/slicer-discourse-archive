@@ -1,3 +1,10 @@
+---
+topic_id: 16000
+title: "3D Segmentation Different Thresholding Across Different Slic"
+date: 2021-02-15
+url: https://discourse.slicer.org/t/16000
+---
+
 # 3D-segmentation + different thresholding across different slices
 
 **Topic ID**: 16000

@@ -1,3 +1,10 @@
+---
+topic_id: 7155
+title: "Load Labelmap Volume"
+date: 2019-06-13
+url: https://discourse.slicer.org/t/7155
+---
+
 # Load LabelMap volume
 
 **Topic ID**: 7155

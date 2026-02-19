@@ -1,3 +1,10 @@
+---
+topic_id: 21444
+title: "How To Find The Source Code Of The Interface Design Of 3D Sl"
+date: 2022-01-13
+url: https://discourse.slicer.org/t/21444
+---
+
 # How to find the source code of the interface design of 3d-slicer ？
 
 **Topic ID**: 21444

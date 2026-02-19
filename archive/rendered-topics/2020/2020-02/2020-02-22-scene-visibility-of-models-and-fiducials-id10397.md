@@ -1,3 +1,10 @@
+---
+topic_id: 10397
+title: "Scene Visibility Of Models And Fiducials"
+date: 2020-02-22
+url: https://discourse.slicer.org/t/10397
+---
+
 # Scene, Visibility of models and fiducials
 
 **Topic ID**: 10397

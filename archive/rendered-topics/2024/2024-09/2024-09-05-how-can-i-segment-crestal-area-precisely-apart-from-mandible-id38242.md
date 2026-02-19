@@ -1,3 +1,10 @@
+---
+topic_id: 38242
+title: "How Can I Segment Crestal Area Precisely Apart From Mandible"
+date: 2024-09-05
+url: https://discourse.slicer.org/t/38242
+---
+
 # How can I segment crestal area precisely apart from mandible because of its variability?
 
 **Topic ID**: 38242

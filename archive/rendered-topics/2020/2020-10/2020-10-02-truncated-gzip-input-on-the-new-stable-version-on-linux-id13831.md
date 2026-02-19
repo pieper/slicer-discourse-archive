@@ -1,3 +1,10 @@
+---
+topic_id: 13831
+title: "Truncated Gzip Input On The New Stable Version On Linux"
+date: 2020-10-02
+url: https://discourse.slicer.org/t/13831
+---
+
 # Truncated gzip input on the new Stable version (on Linux)
 
 **Topic ID**: 13831

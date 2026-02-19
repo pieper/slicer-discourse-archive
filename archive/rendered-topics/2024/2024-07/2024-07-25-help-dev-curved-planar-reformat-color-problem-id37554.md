@@ -1,3 +1,10 @@
+---
+topic_id: 37554
+title: "Help Dev Curved Planar Reformat Color Problem"
+date: 2024-07-25
+url: https://discourse.slicer.org/t/37554
+---
+
 # Help dev)"curved planar reformat" color problem
 
 **Topic ID**: 37554

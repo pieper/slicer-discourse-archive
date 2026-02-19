@@ -1,3 +1,10 @@
+---
+topic_id: 1388
+title: "Registration Of Animated Model Against 4D Multi Volume Seque"
+date: 2017-11-06
+url: https://discourse.slicer.org/t/1388
+---
+
 # Registration of animated model against 4D multi-volume sequence
 
 **Topic ID**: 1388

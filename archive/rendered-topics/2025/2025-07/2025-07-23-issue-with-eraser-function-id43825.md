@@ -1,3 +1,10 @@
+---
+topic_id: 43825
+title: "Issue With Eraser Function"
+date: 2025-07-23
+url: https://discourse.slicer.org/t/43825
+---
+
 # Issue with eraser function
 
 **Topic ID**: 43825

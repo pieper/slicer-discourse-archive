@@ -1,3 +1,10 @@
+---
+topic_id: 30273
+title: "Run 3D Slicer On Images Stored On Pacs"
+date: 2023-06-28
+url: https://discourse.slicer.org/t/30273
+---
+
 # Run 3D Slicer on images stored on PACS
 
 **Topic ID**: 30273

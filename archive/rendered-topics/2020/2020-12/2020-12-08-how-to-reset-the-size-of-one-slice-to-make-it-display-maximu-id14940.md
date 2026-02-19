@@ -1,3 +1,10 @@
+---
+topic_id: 14940
+title: "How To Reset The Size Of One Slice To Make It Display Maximu"
+date: 2020-12-08
+url: https://discourse.slicer.org/t/14940
+---
+
 # How to reset the size of one slice to make it display maximum
 
 **Topic ID**: 14940

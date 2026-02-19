@@ -1,3 +1,10 @@
+---
+topic_id: 38213
+title: "Edit Labels Of Dicom Images"
+date: 2024-09-04
+url: https://discourse.slicer.org/t/38213
+---
+
 # Edit labels of DICOM images
 
 **Topic ID**: 38213

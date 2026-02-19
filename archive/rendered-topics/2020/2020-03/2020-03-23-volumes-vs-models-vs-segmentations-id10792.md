@@ -1,3 +1,10 @@
+---
+topic_id: 10792
+title: "Volumes Vs Models Vs Segmentations"
+date: 2020-03-23
+url: https://discourse.slicer.org/t/10792
+---
+
 # Volumes vs models vs segmentations
 
 **Topic ID**: 10792

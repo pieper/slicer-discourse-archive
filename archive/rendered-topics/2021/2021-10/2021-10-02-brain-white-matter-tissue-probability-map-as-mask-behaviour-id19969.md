@@ -1,3 +1,10 @@
+---
+topic_id: 19969
+title: "Brain White Matter Tissue Probability Map As Mask Behaviour"
+date: 2021-10-02
+url: https://discourse.slicer.org/t/19969
+---
+
 # brain white matter tissue probability map as mask - behaviour of pyradiomics
 
 **Topic ID**: 19969

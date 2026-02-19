@@ -1,3 +1,10 @@
+---
+topic_id: 22373
+title: "Opening Segmentation Without Mastervolume"
+date: 2022-03-08
+url: https://discourse.slicer.org/t/22373
+---
+
 # Opening segmentation without mastervolume
 
 **Topic ID**: 22373

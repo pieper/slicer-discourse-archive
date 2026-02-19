@@ -1,3 +1,10 @@
+---
+topic_id: 20068
+title: "Volumes Registration Takes Too Long"
+date: 2021-10-08
+url: https://discourse.slicer.org/t/20068
+---
+
 # Volumes registration takes too long
 
 **Topic ID**: 20068

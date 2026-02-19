@@ -1,3 +1,10 @@
+---
+topic_id: 847
+title: "Vtk Failure And Segment Editor Failure"
+date: 2017-08-09
+url: https://discourse.slicer.org/t/847
+---
+
 # VTK failure and Segment Editor failure
 
 **Topic ID**: 847

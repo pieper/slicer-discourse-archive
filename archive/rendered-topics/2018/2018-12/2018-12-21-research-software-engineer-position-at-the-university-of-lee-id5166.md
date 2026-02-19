@@ -1,3 +1,10 @@
+---
+topic_id: 5166
+title: "Research Software Engineer Position At The University Of Lee"
+date: 2018-12-21
+url: https://discourse.slicer.org/t/5166
+---
+
 # Research Software Engineer position at the University of Leeds
 
 **Topic ID**: 5166

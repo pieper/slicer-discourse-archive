@@ -1,3 +1,10 @@
+---
+topic_id: 5064
+title: "Input Segments In New Module"
+date: 2018-12-12
+url: https://discourse.slicer.org/t/5064
+---
+
 # Input segments in new module
 
 **Topic ID**: 5064

@@ -1,3 +1,10 @@
+---
+topic_id: 2363
+title: "Generate A 3D Reconstruction From Histology Sections"
+date: 2018-03-19
+url: https://discourse.slicer.org/t/2363
+---
+
 # Generate a 3D reconstruction from histology sections
 
 **Topic ID**: 2363

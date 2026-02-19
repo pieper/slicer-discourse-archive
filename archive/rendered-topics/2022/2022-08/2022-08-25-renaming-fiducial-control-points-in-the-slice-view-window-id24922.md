@@ -1,3 +1,10 @@
+---
+topic_id: 24922
+title: "Renaming Fiducial Control Points In The Slice View Window"
+date: 2022-08-25
+url: https://discourse.slicer.org/t/24922
+---
+
 # Renaming fiducial control points in the slice view window
 
 **Topic ID**: 24922

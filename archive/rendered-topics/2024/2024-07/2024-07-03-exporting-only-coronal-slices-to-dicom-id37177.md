@@ -1,3 +1,10 @@
+---
+topic_id: 37177
+title: "Exporting Only Coronal Slices To Dicom"
+date: 2024-07-03
+url: https://discourse.slicer.org/t/37177
+---
+
 # Exporting only coronal slices to DICOM?
 
 **Topic ID**: 37177

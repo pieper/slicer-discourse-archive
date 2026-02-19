@@ -1,3 +1,10 @@
+---
+topic_id: 4432
+title: "Cannot Run The Registration In Python Interactor"
+date: 2018-10-17
+url: https://discourse.slicer.org/t/4432
+---
+
 # Cannot run the registration in python interactor
 
 **Topic ID**: 4432

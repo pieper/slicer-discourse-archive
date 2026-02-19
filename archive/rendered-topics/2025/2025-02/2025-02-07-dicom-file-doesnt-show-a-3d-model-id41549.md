@@ -1,3 +1,10 @@
+---
+topic_id: 41549
+title: "Dicom File Doesnt Show A 3D Model"
+date: 2025-02-07
+url: https://discourse.slicer.org/t/41549
+---
+
 # DICOM file doesn't show a 3D Model
 
 **Topic ID**: 41549

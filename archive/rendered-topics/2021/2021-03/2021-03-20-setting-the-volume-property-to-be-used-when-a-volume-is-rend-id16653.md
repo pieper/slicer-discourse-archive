@@ -1,3 +1,10 @@
+---
+topic_id: 16653
+title: "Setting The Volume Property To Be Used When A Volume Is Rend"
+date: 2021-03-20
+url: https://discourse.slicer.org/t/16653
+---
+
 # Setting the volume property to be used when a volume is rendered automatically
 
 **Topic ID**: 16653

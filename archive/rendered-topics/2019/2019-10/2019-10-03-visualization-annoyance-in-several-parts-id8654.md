@@ -1,3 +1,10 @@
+---
+topic_id: 8654
+title: "Visualization Annoyance In Several Parts"
+date: 2019-10-03
+url: https://discourse.slicer.org/t/8654
+---
+
 # Visualization annoyance in several parts
 
 **Topic ID**: 8654

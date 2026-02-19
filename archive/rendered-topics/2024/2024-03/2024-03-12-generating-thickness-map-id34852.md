@@ -1,3 +1,10 @@
+---
+topic_id: 34852
+title: "Generating Thickness Map"
+date: 2024-03-12
+url: https://discourse.slicer.org/t/34852
+---
+
 # Generating thickness map
 
 **Topic ID**: 34852

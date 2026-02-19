@@ -1,3 +1,10 @@
+---
+topic_id: 44863
+title: "Help Locating Legacy Expand 2D Grow Tool For Subdural Segmen"
+date: 2025-10-23
+url: https://discourse.slicer.org/t/44863
+---
+
 # Help locating legacy “Expand” / 2D Grow tool for subdural segmentation
 
 **Topic ID**: 44863

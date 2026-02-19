@@ -1,3 +1,10 @@
+---
+topic_id: 28865
+title: "Exporting Volume Model And Hu For Fea Issue With Vtk Export"
+date: 2023-04-12
+url: https://discourse.slicer.org/t/28865
+---
+
 # Exporting Volume Model and HU for FEA (issue with vtk export)
 
 **Topic ID**: 28865

@@ -1,3 +1,10 @@
+---
+topic_id: 36298
+title: "How To Display Markups Node Only In A Specific Slice View"
+date: 2024-05-21
+url: https://discourse.slicer.org/t/36298
+---
+
 # How to display markups node only in a specific slice view?
 
 **Topic ID**: 36298

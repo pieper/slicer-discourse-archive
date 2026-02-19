@@ -1,3 +1,10 @@
+---
+topic_id: 23991
+title: "Input Option From Command Line"
+date: 2022-06-21
+url: https://discourse.slicer.org/t/23991
+---
+
 # Input option from command line
 
 **Topic ID**: 23991

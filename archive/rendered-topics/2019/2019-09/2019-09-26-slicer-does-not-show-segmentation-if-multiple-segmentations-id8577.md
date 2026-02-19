@@ -1,3 +1,10 @@
+---
+topic_id: 8577
+title: "Slicer Does Not Show Segmentation If Multiple Segmentations"
+date: 2019-09-26
+url: https://discourse.slicer.org/t/8577
+---
+
 # Slicer does not show segmentation if multiple segmentations exists
 
 **Topic ID**: 8577

@@ -1,3 +1,10 @@
+---
+topic_id: 22828
+title: "Dosxyznrc 3D Dose 3Ddose"
+date: 2022-04-04
+url: https://discourse.slicer.org/t/22828
+---
+
 # DOSXYZnrc 3D dose (.3ddose)
 
 **Topic ID**: 22828

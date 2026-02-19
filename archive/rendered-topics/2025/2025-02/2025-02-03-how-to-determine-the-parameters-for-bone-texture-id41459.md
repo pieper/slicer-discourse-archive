@@ -1,3 +1,10 @@
+---
+topic_id: 41459
+title: "How To Determine The Parameters For Bone Texture"
+date: 2025-02-03
+url: https://discourse.slicer.org/t/41459
+---
+
 # How to determine the parameters for bone texture
 
 **Topic ID**: 41459

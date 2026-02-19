@@ -1,3 +1,10 @@
+---
+topic_id: 42698
+title: "Dti Alps Results Are Low Below 1"
+date: 2025-04-26
+url: https://discourse.slicer.org/t/42698
+---
+
 # DTI Alps results are low, below 1
 
 **Topic ID**: 42698

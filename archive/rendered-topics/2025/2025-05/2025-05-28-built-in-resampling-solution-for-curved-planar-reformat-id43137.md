@@ -1,3 +1,10 @@
+---
+topic_id: 43137
+title: "Built In Resampling Solution For Curved Planar Reformat"
+date: 2025-05-28
+url: https://discourse.slicer.org/t/43137
+---
+
 # Built-in Resampling Solution for Curved Planar Reformat
 
 **Topic ID**: 43137

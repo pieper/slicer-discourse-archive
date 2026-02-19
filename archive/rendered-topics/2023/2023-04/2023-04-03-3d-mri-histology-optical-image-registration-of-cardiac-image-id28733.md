@@ -1,3 +1,10 @@
+---
+topic_id: 28733
+title: "3D Mri Histology Optical Image Registration Of Cardiac Image"
+date: 2023-04-03
+url: https://discourse.slicer.org/t/28733
+---
+
 # 3D MRI / histology / optical image registration of cardiac images for tissue thickness analysis
 
 **Topic ID**: 28733

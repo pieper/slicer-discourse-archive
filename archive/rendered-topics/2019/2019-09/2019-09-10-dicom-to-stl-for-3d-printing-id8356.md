@@ -1,3 +1,10 @@
+---
+topic_id: 8356
+title: "Dicom To Stl For 3D Printing"
+date: 2019-09-10
+url: https://discourse.slicer.org/t/8356
+---
+
 # DICOM to STL for 3D printing
 
 **Topic ID**: 8356

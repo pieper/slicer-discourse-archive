@@ -1,3 +1,10 @@
+---
+topic_id: 27889
+title: "Extract Centerline Module Omits A Branch"
+date: 2023-02-17
+url: https://discourse.slicer.org/t/27889
+---
+
 # Extract Centerline module omits a branch
 
 **Topic ID**: 27889

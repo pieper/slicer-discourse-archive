@@ -1,3 +1,10 @@
+---
+topic_id: 44879
+title: "Total Segmentation Issue"
+date: 2025-10-25
+url: https://discourse.slicer.org/t/44879
+---
+
 # total segmentation issue
 
 **Topic ID**: 44879

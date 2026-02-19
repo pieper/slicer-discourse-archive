@@ -1,3 +1,10 @@
+---
+topic_id: 42609
+title: "Bonetexture Extension Understanding"
+date: 2025-04-17
+url: https://discourse.slicer.org/t/42609
+---
+
 # BoneTexture Extension Understanding
 
 **Topic ID**: 42609

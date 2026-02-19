@@ -1,3 +1,10 @@
+---
+topic_id: 22850
+title: "Segmenteditor How To Keep The Outline Size The Same"
+date: 2022-04-06
+url: https://discourse.slicer.org/t/22850
+---
+
 # SegmentEditor: How to keep the outline size the same？
 
 **Topic ID**: 22850

@@ -1,3 +1,10 @@
+---
+topic_id: 26424
+title: "How To Export A Curve Made With Markupstomodel As Stl"
+date: 2022-11-24
+url: https://discourse.slicer.org/t/26424
+---
+
 # How to export a curve made with MarkupstoModel as STL?
 
 **Topic ID**: 26424

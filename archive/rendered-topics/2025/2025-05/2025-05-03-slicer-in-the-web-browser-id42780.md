@@ -1,3 +1,10 @@
+---
+topic_id: 42780
+title: "Slicer In The Web Browser"
+date: 2025-05-03
+url: https://discourse.slicer.org/t/42780
+---
+
 # Slicer in the web browser
 
 **Topic ID**: 42780

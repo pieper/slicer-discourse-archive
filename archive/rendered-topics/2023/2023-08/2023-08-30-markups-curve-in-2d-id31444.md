@@ -1,3 +1,10 @@
+---
+topic_id: 31444
+title: "Markups Curve In 2D"
+date: 2023-08-30
+url: https://discourse.slicer.org/t/31444
+---
+
 # Markups curve in 2D
 
 **Topic ID**: 31444

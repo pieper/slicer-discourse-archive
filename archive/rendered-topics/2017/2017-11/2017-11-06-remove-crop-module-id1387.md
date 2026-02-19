@@ -1,3 +1,10 @@
+---
+topic_id: 1387
+title: "Remove Crop Module"
+date: 2017-11-06
+url: https://discourse.slicer.org/t/1387
+---
+
 # Remove Crop module
 
 **Topic ID**: 1387

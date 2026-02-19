@@ -1,3 +1,10 @@
+---
+topic_id: 7205
+title: "Extracting Data From Vmtk Centerline"
+date: 2019-06-17
+url: https://discourse.slicer.org/t/7205
+---
+
 # Extracting Data from VMTK Centerline
 
 **Topic ID**: 7205

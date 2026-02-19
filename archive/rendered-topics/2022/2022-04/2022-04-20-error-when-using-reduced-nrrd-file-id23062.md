@@ -1,3 +1,10 @@
+---
+topic_id: 23062
+title: "Error When Using Reduced Nrrd File"
+date: 2022-04-20
+url: https://discourse.slicer.org/t/23062
+---
+
 # Error when using reduced nrrd file
 
 **Topic ID**: 23062

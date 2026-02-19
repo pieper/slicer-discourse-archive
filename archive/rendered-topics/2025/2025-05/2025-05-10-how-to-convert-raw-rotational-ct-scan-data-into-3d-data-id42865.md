@@ -1,3 +1,10 @@
+---
+topic_id: 42865
+title: "How To Convert Raw Rotational Ct Scan Data Into 3D Data"
+date: 2025-05-10
+url: https://discourse.slicer.org/t/42865
+---
+
 # How to convert raw rotational CT scan data into 3d data
 
 **Topic ID**: 42865

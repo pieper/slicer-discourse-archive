@@ -1,3 +1,10 @@
+---
+topic_id: 12348
+title: "Publish An Extension Without Building Slicer"
+date: 2020-07-02
+url: https://discourse.slicer.org/t/12348
+---
+
 # Publish an extension without building Slicer
 
 **Topic ID**: 12348

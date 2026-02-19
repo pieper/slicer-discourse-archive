@@ -1,3 +1,10 @@
+---
+topic_id: 4242
+title: "Segment Comparison And Mesh Statistics"
+date: 2018-10-01
+url: https://discourse.slicer.org/t/4242
+---
+
 # segment comparison and mesh statistics
 
 **Topic ID**: 4242

@@ -1,3 +1,10 @@
+---
+topic_id: 29726
+title: "Add A Type Of Two Points For Creating A Plane"
+date: 2023-05-30
+url: https://discourse.slicer.org/t/29726
+---
+
 # Add a type of two points for creating a plane
 
 **Topic ID**: 29726

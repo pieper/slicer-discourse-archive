@@ -1,3 +1,10 @@
+---
+topic_id: 23264
+title: "3D Model Annotation At Original Resolution"
+date: 2022-05-03
+url: https://discourse.slicer.org/t/23264
+---
+
 # 3D model annotation at original resolution
 
 **Topic ID**: 23264

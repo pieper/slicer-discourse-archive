@@ -1,3 +1,10 @@
+---
+topic_id: 41857
+title: "Registration Of Ct Images Based On Voxel Intensity"
+date: 2025-02-24
+url: https://discourse.slicer.org/t/41857
+---
+
 # Registration of CT images based on voxel intensity
 
 **Topic ID**: 41857

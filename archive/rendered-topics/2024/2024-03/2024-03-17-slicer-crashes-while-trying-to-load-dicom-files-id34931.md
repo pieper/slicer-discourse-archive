@@ -1,3 +1,10 @@
+---
+topic_id: 34931
+title: "Slicer Crashes While Trying To Load Dicom Files"
+date: 2024-03-17
+url: https://discourse.slicer.org/t/34931
+---
+
 # Slicer crashes while trying to load DICOM files
 
 **Topic ID**: 34931

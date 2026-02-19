@@ -1,3 +1,10 @@
+---
+topic_id: 1935
+title: "3D Slicer View Window Python Names"
+date: 2018-01-25
+url: https://discourse.slicer.org/t/1935
+---
+
 # 3D Slicer View Window Python Names
 
 **Topic ID**: 1935

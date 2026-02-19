@@ -1,3 +1,10 @@
+---
+topic_id: 2828
+title: "Cleaning Up Local Dicom Database Files"
+date: 2018-05-16
+url: https://discourse.slicer.org/t/2828
+---
+
 # Cleaning up local Dicom Database files
 
 **Topic ID**: 2828

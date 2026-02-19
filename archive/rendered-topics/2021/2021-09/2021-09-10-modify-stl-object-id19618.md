@@ -1,3 +1,10 @@
+---
+topic_id: 19618
+title: "Modify Stl Object"
+date: 2021-09-10
+url: https://discourse.slicer.org/t/19618
+---
+
 # Modify stl object
 
 **Topic ID**: 19618

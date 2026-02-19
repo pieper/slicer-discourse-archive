@@ -1,3 +1,10 @@
+---
+topic_id: 24779
+title: "Search For The Ultrasound Device That Can Connect To Plus Sl"
+date: 2022-08-16
+url: https://discourse.slicer.org/t/24779
+---
+
 # Search for the Ultrasound device that can connect to Plus（Slicer）
 
 **Topic ID**: 24779

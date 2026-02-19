@@ -1,3 +1,10 @@
+---
+topic_id: 3284
+title: "Need Help With Volumetric Analysis On Dental Cbcts"
+date: 2018-06-25
+url: https://discourse.slicer.org/t/3284
+---
+
 # Need help with volumetric analysis on dental CBCT's
 
 **Topic ID**: 3284

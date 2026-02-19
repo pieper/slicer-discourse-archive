@@ -1,3 +1,10 @@
+---
+topic_id: 11356
+title: "How To Get The Color Of Segments From The Segmentation Node"
+date: 2020-04-29
+url: https://discourse.slicer.org/t/11356
+---
+
 # How to get the color of segments from the segmentation node
 
 **Topic ID**: 11356

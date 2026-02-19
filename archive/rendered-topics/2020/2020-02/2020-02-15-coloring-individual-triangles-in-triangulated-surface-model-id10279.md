@@ -1,3 +1,10 @@
+---
+topic_id: 10279
+title: "Coloring Individual Triangles In Triangulated Surface Model"
+date: 2020-02-15
+url: https://discourse.slicer.org/t/10279
+---
+
 # Coloring individual triangles in triangulated surface model of segmentation
 
 **Topic ID**: 10279

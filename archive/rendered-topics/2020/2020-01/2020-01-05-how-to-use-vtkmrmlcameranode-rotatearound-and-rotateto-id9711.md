@@ -1,3 +1,10 @@
+---
+topic_id: 9711
+title: "How To Use Vtkmrmlcameranode Rotatearound And Rotateto"
+date: 2020-01-05
+url: https://discourse.slicer.org/t/9711
+---
+
 # How to use vtkMRMLCameraNode RotateAround and RotateTo?
 
 **Topic ID**: 9711

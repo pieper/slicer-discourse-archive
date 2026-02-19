@@ -1,3 +1,10 @@
+---
+topic_id: 8473
+title: "Remove Unrelated Objects When Fat Segmentation"
+date: 2019-09-17
+url: https://discourse.slicer.org/t/8473
+---
+
 # Remove unrelated objects when fat segmentation
 
 **Topic ID**: 8473

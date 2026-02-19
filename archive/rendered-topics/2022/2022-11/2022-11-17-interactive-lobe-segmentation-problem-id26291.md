@@ -1,3 +1,10 @@
+---
+topic_id: 26291
+title: "Interactive Lobe Segmentation Problem"
+date: 2022-11-17
+url: https://discourse.slicer.org/t/26291
+---
+
 # Interactive lobe segmentation problem
 
 **Topic ID**: 26291

@@ -1,3 +1,10 @@
+---
+topic_id: 21180
+title: "Sequence Registration For 4D Ct"
+date: 2021-12-22
+url: https://discourse.slicer.org/t/21180
+---
+
 # Sequence Registration for 4D CT
 
 **Topic ID**: 21180

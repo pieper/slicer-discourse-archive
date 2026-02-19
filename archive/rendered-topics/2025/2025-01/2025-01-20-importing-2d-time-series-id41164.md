@@ -1,3 +1,10 @@
+---
+topic_id: 41164
+title: "Importing 2D Time Series"
+date: 2025-01-20
+url: https://discourse.slicer.org/t/41164
+---
+
 # Importing 2D-time series 
 
 **Topic ID**: 41164

@@ -1,3 +1,10 @@
+---
+topic_id: 1354
+title: "Two Problems On Segmentation And Radiomics"
+date: 2017-11-02
+url: https://discourse.slicer.org/t/1354
+---
+
 # Two problems on segmentation and radiomics
 
 **Topic ID**: 1354

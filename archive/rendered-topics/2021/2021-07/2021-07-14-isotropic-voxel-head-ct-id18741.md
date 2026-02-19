@@ -1,3 +1,10 @@
+---
+topic_id: 18741
+title: "Isotropic Voxel Head Ct"
+date: 2021-07-14
+url: https://discourse.slicer.org/t/18741
+---
+
 # Isotropic voxel head CT
 
 **Topic ID**: 18741

@@ -1,3 +1,10 @@
+---
+topic_id: 27522
+title: "Make Dynamic Ui"
+date: 2023-01-29
+url: https://discourse.slicer.org/t/27522
+---
+
 # Make dynamic UI
 
 **Topic ID**: 27522

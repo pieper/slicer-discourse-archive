@@ -1,3 +1,10 @@
+---
+topic_id: 10753
+title: "Import Data Automatically To A Volume Node From A Folder Usi"
+date: 2020-03-19
+url: https://discourse.slicer.org/t/10753
+---
+
 # Import data automatically to a volume node from a folder using command line
 
 **Topic ID**: 10753

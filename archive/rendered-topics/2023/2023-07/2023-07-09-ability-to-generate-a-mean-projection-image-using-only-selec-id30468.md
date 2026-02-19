@@ -1,3 +1,10 @@
+---
+topic_id: 30468
+title: "Ability To Generate A Mean Projection Image Using Only Selec"
+date: 2023-07-09
+url: https://discourse.slicer.org/t/30468
+---
+
 # Ability to Generate a Mean Projection Image Using only Selected Slices Based on Fiducial Markups
 
 **Topic ID**: 30468

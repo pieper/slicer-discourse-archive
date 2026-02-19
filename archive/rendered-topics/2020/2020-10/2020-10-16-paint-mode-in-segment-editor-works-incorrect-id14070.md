@@ -1,3 +1,10 @@
+---
+topic_id: 14070
+title: "Paint Mode In Segment Editor Works Incorrect"
+date: 2020-10-16
+url: https://discourse.slicer.org/t/14070
+---
+
 # Paint mode in segment editor works incorrect
 
 **Topic ID**: 14070

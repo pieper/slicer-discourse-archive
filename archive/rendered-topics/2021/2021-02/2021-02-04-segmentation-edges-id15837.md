@@ -1,3 +1,10 @@
+---
+topic_id: 15837
+title: "Segmentation Edges"
+date: 2021-02-04
+url: https://discourse.slicer.org/t/15837
+---
+
 # Segmentation edges
 
 **Topic ID**: 15837

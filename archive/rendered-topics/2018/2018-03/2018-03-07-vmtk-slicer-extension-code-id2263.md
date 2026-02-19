@@ -1,3 +1,10 @@
+---
+topic_id: 2263
+title: "Vmtk Slicer Extension Code"
+date: 2018-03-07
+url: https://discourse.slicer.org/t/2263
+---
+
 # VMTK Slicer extension code
 
 **Topic ID**: 2263

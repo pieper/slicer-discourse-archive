@@ -1,3 +1,10 @@
+---
+topic_id: 5187
+title: "Segmentation Of Multi Volume Sequence"
+date: 2018-12-25
+url: https://discourse.slicer.org/t/5187
+---
+
 # Segmentation of multi volume sequence
 
 **Topic ID**: 5187

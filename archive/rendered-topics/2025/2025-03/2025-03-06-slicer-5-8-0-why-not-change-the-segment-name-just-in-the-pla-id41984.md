@@ -1,3 +1,10 @@
+---
+topic_id: 41984
+title: "Slicer 5 8 0 Why Not Change The Segment Name Just In The Pla"
+date: 2025-03-06
+url: https://discourse.slicer.org/t/41984
+---
+
 # Slicer 5.8.0, why not change the segment name just in the place by double click without popup
 
 **Topic ID**: 41984

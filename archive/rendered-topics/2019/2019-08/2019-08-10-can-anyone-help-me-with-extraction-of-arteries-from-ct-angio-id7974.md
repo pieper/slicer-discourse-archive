@@ -1,3 +1,10 @@
+---
+topic_id: 7974
+title: "Can Anyone Help Me With Extraction Of Arteries From Ct Angio"
+date: 2019-08-10
+url: https://discourse.slicer.org/t/7974
+---
+
 # Can anyone help me with extraction of arteries from CT angiography of brain?
 
 **Topic ID**: 7974

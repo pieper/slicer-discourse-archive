@@ -1,3 +1,10 @@
+---
+topic_id: 11850
+title: "Hiding Patient In Hierarchy"
+date: 2020-06-03
+url: https://discourse.slicer.org/t/11850
+---
+
 # Hiding patient in hierarchy
 
 **Topic ID**: 11850

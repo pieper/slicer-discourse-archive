@@ -1,3 +1,10 @@
+---
+topic_id: 7361
+title: "Maintenance Of Slicer Kitware Com Planned On June 28Th Aroun"
+date: 2019-06-28
+url: https://discourse.slicer.org/t/7361
+---
+
 # Maintenance of slicer.kitware.com planned on June 28th around 3.30pm
 
 **Topic ID**: 7361

@@ -1,3 +1,10 @@
+---
+topic_id: 12246
+title: "Brightness And Contrast With Mouse Pad Not Working"
+date: 2020-06-27
+url: https://discourse.slicer.org/t/12246
+---
+
 # Brightness and contrast with mouse pad not working
 
 **Topic ID**: 12246

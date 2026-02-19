@@ -1,3 +1,10 @@
+---
+topic_id: 35180
+title: "Default Terminology Entry In Application Settings"
+date: 2024-03-30
+url: https://discourse.slicer.org/t/35180
+---
+
 # Default terminology entry in Application Settings
 
 **Topic ID**: 35180

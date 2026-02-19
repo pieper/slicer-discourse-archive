@@ -1,3 +1,10 @@
+---
+topic_id: 27683
+title: "Installation Problem On Windows 11"
+date: 2023-02-07
+url: https://discourse.slicer.org/t/27683
+---
+
 # Installation problem on Windows 11
 
 **Topic ID**: 27683

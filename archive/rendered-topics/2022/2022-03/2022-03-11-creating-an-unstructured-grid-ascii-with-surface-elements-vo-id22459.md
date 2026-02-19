@@ -1,3 +1,10 @@
+---
+topic_id: 22459
+title: "Creating An Unstructured Grid Ascii With Surface Elements Vo"
+date: 2022-03-11
+url: https://discourse.slicer.org/t/22459
+---
+
 # creating an unstructured grid (ascii) with surface elements, volume and points
 
 **Topic ID**: 22459

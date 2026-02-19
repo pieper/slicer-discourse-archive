@@ -1,3 +1,10 @@
+---
+topic_id: 9737
+title: "Whats Is The Different Between Default Type Extension And Su"
+date: 2020-01-08
+url: https://discourse.slicer.org/t/9737
+---
+
 # What's is the different between default type extension and superbuild type extension?
 
 **Topic ID**: 9737

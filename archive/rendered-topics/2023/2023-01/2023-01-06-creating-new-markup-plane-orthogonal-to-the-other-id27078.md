@@ -1,3 +1,10 @@
+---
+topic_id: 27078
+title: "Creating New Markup Plane Orthogonal To The Other"
+date: 2023-01-06
+url: https://discourse.slicer.org/t/27078
+---
+
 # Creating new markup plane orthogonal to the other
 
 **Topic ID**: 27078

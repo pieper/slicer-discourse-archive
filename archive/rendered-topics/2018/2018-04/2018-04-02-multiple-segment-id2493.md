@@ -1,3 +1,10 @@
+---
+topic_id: 2493
+title: "Multiple Segment"
+date: 2018-04-02
+url: https://discourse.slicer.org/t/2493
+---
+
 # Multiple segment
 
 **Topic ID**: 2493

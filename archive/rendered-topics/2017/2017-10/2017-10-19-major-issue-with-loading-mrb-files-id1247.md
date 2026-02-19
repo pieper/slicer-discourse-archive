@@ -1,3 +1,10 @@
+---
+topic_id: 1247
+title: "Major Issue With Loading Mrb Files"
+date: 2017-10-19
+url: https://discourse.slicer.org/t/1247
+---
+
 # Major Issue with loading .mrb files
 
 **Topic ID**: 1247

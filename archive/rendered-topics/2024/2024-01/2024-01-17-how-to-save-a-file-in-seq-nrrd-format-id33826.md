@@ -1,3 +1,10 @@
+---
+topic_id: 33826
+title: "How To Save A File In Seq Nrrd Format"
+date: 2024-01-17
+url: https://discourse.slicer.org/t/33826
+---
+
 # How to save a file in. seq.nrrd format？
 
 **Topic ID**: 33826

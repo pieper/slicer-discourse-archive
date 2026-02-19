@@ -1,3 +1,10 @@
+---
+topic_id: 25786
+title: "Multiple Partial Volumes Reconstruction"
+date: 2022-10-20
+url: https://discourse.slicer.org/t/25786
+---
+
 # Multiple partial volumes reconstruction
 
 **Topic ID**: 25786

@@ -1,3 +1,10 @@
+---
+topic_id: 9815
+title: "Filling Holes In A Skull"
+date: 2020-01-14
+url: https://discourse.slicer.org/t/9815
+---
+
 # Filling Holes in a Skull
 
 **Topic ID**: 9815

@@ -1,3 +1,10 @@
+---
+topic_id: 27507
+title: "Extension Name Vs Repo Name"
+date: 2023-01-27
+url: https://discourse.slicer.org/t/27507
+---
+
 # Extension name vs repo name
 
 **Topic ID**: 27507

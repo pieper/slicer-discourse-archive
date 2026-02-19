@@ -1,3 +1,10 @@
+---
+topic_id: 10268
+title: "Saved Pial Surface Model Reloads As Invalid"
+date: 2020-02-14
+url: https://discourse.slicer.org/t/10268
+---
+
 # Saved pial surface model reloads as invalid
 
 **Topic ID**: 10268

@@ -1,3 +1,10 @@
+---
+topic_id: 17524
+title: "Lung Airway Diameter Quantification"
+date: 2021-05-08
+url: https://discourse.slicer.org/t/17524
+---
+
 # Lung airway diameter quantification
 
 **Topic ID**: 17524

@@ -1,3 +1,10 @@
+---
+topic_id: 33055
+title: "Update To Endoscopy Flythrough"
+date: 2023-11-27
+url: https://discourse.slicer.org/t/33055
+---
+
 # Update to Endoscopy flythrough
 
 **Topic ID**: 33055

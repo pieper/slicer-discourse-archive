@@ -1,3 +1,10 @@
+---
+topic_id: 23330
+title: "Model Linewidth"
+date: 2022-05-08
+url: https://discourse.slicer.org/t/23330
+---
+
 # Model LineWidth
 
 **Topic ID**: 23330

@@ -1,3 +1,10 @@
+---
+topic_id: 19471
+title: "Assessing Accuracy Of Mr Ct Registration"
+date: 2021-09-01
+url: https://discourse.slicer.org/t/19471
+---
+
 # Assessing accuracy of MR/CT registration 
 
 **Topic ID**: 19471

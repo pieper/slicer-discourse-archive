@@ -1,3 +1,10 @@
+---
+topic_id: 43997
+title: "Webassembly Version"
+date: 2025-08-07
+url: https://discourse.slicer.org/t/43997
+---
+
 # WebAssembly version
 
 **Topic ID**: 43997

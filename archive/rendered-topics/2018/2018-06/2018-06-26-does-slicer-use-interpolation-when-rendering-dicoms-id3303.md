@@ -1,3 +1,10 @@
+---
+topic_id: 3303
+title: "Does Slicer Use Interpolation When Rendering Dicoms"
+date: 2018-06-26
+url: https://discourse.slicer.org/t/3303
+---
+
 # Does Slicer use Interpolation when rendering DICOMs
 
 **Topic ID**: 3303

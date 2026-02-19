@@ -1,3 +1,10 @@
+---
+topic_id: 5410
+title: "How To Use The Command Code Of Extractskeleton"
+date: 2019-01-18
+url: https://discourse.slicer.org/t/5410
+---
+
 # How to use the command code of ExtractSkeleton
 
 **Topic ID**: 5410

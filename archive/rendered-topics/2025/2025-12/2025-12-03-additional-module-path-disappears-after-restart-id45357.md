@@ -1,3 +1,10 @@
+---
+topic_id: 45357
+title: "Additional Module Path Disappears After Restart"
+date: 2025-12-03
+url: https://discourse.slicer.org/t/45357
+---
+
 # Additional module path disappears after restart
 
 **Topic ID**: 45357

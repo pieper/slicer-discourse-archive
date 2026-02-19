@@ -1,3 +1,10 @@
+---
+topic_id: 14792
+title: "Automate Tasks In Python"
+date: 2020-11-27
+url: https://discourse.slicer.org/t/14792
+---
+
 # Automate tasks in Python
 
 **Topic ID**: 14792

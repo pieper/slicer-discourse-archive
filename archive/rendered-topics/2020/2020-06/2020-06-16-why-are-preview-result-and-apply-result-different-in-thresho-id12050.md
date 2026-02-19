@@ -1,3 +1,10 @@
+---
+topic_id: 12050
+title: "Why Are Preview Result And Apply Result Different In Thresho"
+date: 2020-06-16
+url: https://discourse.slicer.org/t/12050
+---
+
 # why are preview result and apply result different in threshold segmentation？ 
 
 **Topic ID**: 12050

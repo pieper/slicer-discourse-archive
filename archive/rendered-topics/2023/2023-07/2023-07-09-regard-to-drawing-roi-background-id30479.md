@@ -1,3 +1,10 @@
+---
+topic_id: 30479
+title: "Regard To Drawing Roi Background"
+date: 2023-07-09
+url: https://discourse.slicer.org/t/30479
+---
+
 # Regard to drawing ROI & background.
 
 **Topic ID**: 30479

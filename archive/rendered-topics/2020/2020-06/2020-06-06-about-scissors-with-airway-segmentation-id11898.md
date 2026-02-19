@@ -1,3 +1,10 @@
+---
+topic_id: 11898
+title: "About Scissors With Airway Segmentation"
+date: 2020-06-06
+url: https://discourse.slicer.org/t/11898
+---
+
 # About scissors with airway segmentation
 
 **Topic ID**: 11898

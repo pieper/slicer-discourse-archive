@@ -1,3 +1,10 @@
+---
+topic_id: 16192
+title: "Get Normal Vector Of A Model Mesh At Fiducial Marker"
+date: 2021-02-24
+url: https://discourse.slicer.org/t/16192
+---
+
 # Get normal vector of a model mesh at fiducial marker
 
 **Topic ID**: 16192

@@ -1,3 +1,10 @@
+---
+topic_id: 31934
+title: "Correct Registration In Slicer Output To Freesurfer"
+date: 2023-09-27
+url: https://discourse.slicer.org/t/31934
+---
+
 # Correct registration in Slicer output to Freesurfer
 
 **Topic ID**: 31934

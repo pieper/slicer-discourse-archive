@@ -1,3 +1,10 @@
+---
+topic_id: 3494
+title: "Python Unit Test No Startupcompleted Signal"
+date: 2018-07-16
+url: https://discourse.slicer.org/t/3494
+---
+
 # Python unit test: no startupCompleted signal
 
 **Topic ID**: 3494

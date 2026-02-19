@@ -1,3 +1,10 @@
+---
+topic_id: 3404
+title: "Using Python Nlopt On Slicer"
+date: 2018-07-06
+url: https://discourse.slicer.org/t/3404
+---
+
 # Using Python nlopt on Slicer
 
 **Topic ID**: 3404

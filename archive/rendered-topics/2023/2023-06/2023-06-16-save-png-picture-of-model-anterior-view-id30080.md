@@ -1,3 +1,10 @@
+---
+topic_id: 30080
+title: "Save Png Picture Of Model Anterior View"
+date: 2023-06-16
+url: https://discourse.slicer.org/t/30080
+---
+
 # Save PNG picture of model anterior view
 
 **Topic ID**: 30080

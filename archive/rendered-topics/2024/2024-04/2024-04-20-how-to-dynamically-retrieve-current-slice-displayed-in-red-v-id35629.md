@@ -1,3 +1,10 @@
+---
+topic_id: 35629
+title: "How To Dynamically Retrieve Current Slice Displayed In Red V"
+date: 2024-04-20
+url: https://discourse.slicer.org/t/35629
+---
+
 # How to Dynamically Retrieve Current Slice Displayed in Red View as Independent Volume Node in 3D Slicer?
 
 **Topic ID**: 35629

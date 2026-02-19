@@ -1,3 +1,10 @@
+---
+topic_id: 17561
+title: "Tips To Circumvent Not Having Pre Contrast Injection Images"
+date: 2021-05-11
+url: https://discourse.slicer.org/t/17561
+---
+
 # Tips to circumvent not having pre-contrast injection images for the purpose of bone subtraction
 
 **Topic ID**: 17561

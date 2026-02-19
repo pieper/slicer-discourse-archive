@@ -1,3 +1,10 @@
+---
+topic_id: 19326
+title: "Get Popup Widget Of A 3D View"
+date: 2021-08-23
+url: https://discourse.slicer.org/t/19326
+---
+
 # Get popup widget of a 3D view
 
 **Topic ID**: 19326

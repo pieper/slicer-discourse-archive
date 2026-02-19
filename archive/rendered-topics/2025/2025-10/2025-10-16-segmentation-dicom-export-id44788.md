@@ -1,3 +1,10 @@
+---
+topic_id: 44788
+title: "Segmentation Dicom Export"
+date: 2025-10-16
+url: https://discourse.slicer.org/t/44788
+---
+
 # Segmentation DICOM export
 
 **Topic ID**: 44788

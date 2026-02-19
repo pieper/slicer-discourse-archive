@@ -1,3 +1,10 @@
+---
+topic_id: 11930
+title: "Difference Of Spacing Was Detected During Dicom Loading"
+date: 2020-06-08
+url: https://discourse.slicer.org/t/11930
+---
+
 # Difference of spacing was detected during DICOM loading
 
 **Topic ID**: 11930

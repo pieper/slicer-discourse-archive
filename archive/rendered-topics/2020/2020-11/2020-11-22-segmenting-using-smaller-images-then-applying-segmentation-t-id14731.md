@@ -1,3 +1,10 @@
+---
+topic_id: 14731
+title: "Segmenting Using Smaller Images Then Applying Segmentation T"
+date: 2020-11-22
+url: https://discourse.slicer.org/t/14731
+---
+
 # Segmenting using smaller images then applying segmentation to the original
 
 **Topic ID**: 14731

@@ -1,3 +1,10 @@
+---
+topic_id: 18302
+title: "Cannot Start Slicer On Linux Cannot Connect To X Server"
+date: 2021-06-23
+url: https://discourse.slicer.org/t/18302
+---
+
 # Cannot start Slicer on LInux - cannot connect to X server
 
 **Topic ID**: 18302

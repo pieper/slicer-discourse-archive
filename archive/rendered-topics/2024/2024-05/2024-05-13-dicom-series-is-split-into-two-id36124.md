@@ -1,3 +1,10 @@
+---
+topic_id: 36124
+title: "Dicom Series Is Split Into Two"
+date: 2024-05-13
+url: https://discourse.slicer.org/t/36124
+---
+
 # DICOM series is split into two
 
 **Topic ID**: 36124

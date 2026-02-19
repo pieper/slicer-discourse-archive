@@ -1,3 +1,10 @@
+---
+topic_id: 7556
+title: "Problems With General Registration Elastix"
+date: 2019-07-12
+url: https://discourse.slicer.org/t/7556
+---
+
 # Problems with general registration elastix
 
 **Topic ID**: 7556

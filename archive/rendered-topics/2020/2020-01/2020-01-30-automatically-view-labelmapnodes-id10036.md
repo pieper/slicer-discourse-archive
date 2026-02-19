@@ -1,3 +1,10 @@
+---
+topic_id: 10036
+title: "Automatically View Labelmapnodes"
+date: 2020-01-30
+url: https://discourse.slicer.org/t/10036
+---
+
 # Automatically view LabelMapNodes
 
 **Topic ID**: 10036

@@ -1,3 +1,10 @@
+---
+topic_id: 18481
+title: "How To Display Color Scalar Bar By Hounsfield Unit In 3D Vie"
+date: 2021-07-02
+url: https://discourse.slicer.org/t/18481
+---
+
 # How to display color scalar bar (by Hounsfield Unit) in 3D views?
 
 **Topic ID**: 18481

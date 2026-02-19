@@ -1,3 +1,10 @@
+---
+topic_id: 42182
+title: "Disabling Surface Constraints Snap For Activated Markups Nod"
+date: 2025-03-17
+url: https://discourse.slicer.org/t/42182
+---
+
 # Disabling Surface Constraints Snap for Activated Markups Node
 
 **Topic ID**: 42182

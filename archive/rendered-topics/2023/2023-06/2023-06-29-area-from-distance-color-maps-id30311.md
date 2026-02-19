@@ -1,3 +1,10 @@
+---
+topic_id: 30311
+title: "Area From Distance Color Maps"
+date: 2023-06-29
+url: https://discourse.slicer.org/t/30311
+---
+
 # Area from Distance Color Maps
 
 **Topic ID**: 30311

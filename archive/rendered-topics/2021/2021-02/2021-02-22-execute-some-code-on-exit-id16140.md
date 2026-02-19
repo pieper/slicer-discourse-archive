@@ -1,3 +1,10 @@
+---
+topic_id: 16140
+title: "Execute Some Code On Exit"
+date: 2021-02-22
+url: https://discourse.slicer.org/t/16140
+---
+
 # Execute some code on exit
 
 **Topic ID**: 16140

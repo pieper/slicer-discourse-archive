@@ -1,3 +1,10 @@
+---
+topic_id: 42449
+title: "3D Slicer For Confocal Microscopy Z Stack Tiffs"
+date: 2025-04-06
+url: https://discourse.slicer.org/t/42449
+---
+
 # 3D slicer for confocal microscopy Z stack tiffs
 
 **Topic ID**: 42449

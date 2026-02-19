@@ -1,3 +1,10 @@
+---
+topic_id: 24956
+title: "How To Understand The Difference Among Or When To Use Getnod"
+date: 2022-08-28
+url: https://discourse.slicer.org/t/24956
+---
+
 # How to understand the difference among (or when to use) getNode byName(), byRenferenceRole(), byID()?
 
 **Topic ID**: 24956

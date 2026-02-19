@@ -1,3 +1,10 @@
+---
+topic_id: 19625
+title: "Rt Structure Set Has Holes After Exporting To Labelmap"
+date: 2021-09-11
+url: https://discourse.slicer.org/t/19625
+---
+
 # RT structure set has holes after exporting to labelmap
 
 **Topic ID**: 19625

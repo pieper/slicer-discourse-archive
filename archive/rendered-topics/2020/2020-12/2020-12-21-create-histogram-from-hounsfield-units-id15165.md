@@ -1,3 +1,10 @@
+---
+topic_id: 15165
+title: "Create Histogram From Hounsfield Units"
+date: 2020-12-21
+url: https://discourse.slicer.org/t/15165
+---
+
 # Create Histogram from Hounsfield Units
 
 **Topic ID**: 15165

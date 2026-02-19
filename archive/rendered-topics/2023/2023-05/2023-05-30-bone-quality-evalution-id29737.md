@@ -1,3 +1,10 @@
+---
+topic_id: 29737
+title: "Bone Quality Evalution"
+date: 2023-05-30
+url: https://discourse.slicer.org/t/29737
+---
+
 # Bone quality EVALUTION
 
 **Topic ID**: 29737

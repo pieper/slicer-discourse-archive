@@ -1,3 +1,10 @@
+---
+topic_id: 457
+title: "Convert Rt Struct To A Label Map Volume"
+date: 2017-06-08
+url: https://discourse.slicer.org/t/457
+---
+
 # Convert RT struct to a label map volume
 
 **Topic ID**: 457

@@ -1,3 +1,10 @@
+---
+topic_id: 45358
+title: "Slicer Build Factory Speed"
+date: 2025-12-03
+url: https://discourse.slicer.org/t/45358
+---
+
 # Slicer build factory speed
 
 **Topic ID**: 45358

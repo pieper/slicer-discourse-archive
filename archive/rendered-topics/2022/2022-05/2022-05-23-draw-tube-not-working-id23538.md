@@ -1,3 +1,10 @@
+---
+topic_id: 23538
+title: "Draw Tube Not Working"
+date: 2022-05-23
+url: https://discourse.slicer.org/t/23538
+---
+
 # Draw tube not working?
 
 **Topic ID**: 23538

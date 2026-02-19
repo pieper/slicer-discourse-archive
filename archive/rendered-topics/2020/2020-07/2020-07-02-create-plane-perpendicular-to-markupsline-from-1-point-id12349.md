@@ -1,3 +1,10 @@
+---
+topic_id: 12349
+title: "Create Plane Perpendicular To Markupsline From 1 Point"
+date: 2020-07-02
+url: https://discourse.slicer.org/t/12349
+---
+
 # Create plane perpendicular to MarkupsLine from 1º point
 
 **Topic ID**: 12349

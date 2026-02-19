@@ -1,3 +1,10 @@
+---
+topic_id: 40852
+title: "Equalizing The Number Of Slices Of Volumes"
+date: 2024-12-25
+url: https://discourse.slicer.org/t/40852
+---
+
 # Equalizing the number of slices of volumes
 
 **Topic ID**: 40852

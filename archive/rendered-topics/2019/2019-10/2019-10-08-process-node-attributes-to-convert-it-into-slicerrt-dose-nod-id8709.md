@@ -1,3 +1,10 @@
+---
+topic_id: 8709
+title: "Process Node Attributes To Convert It Into Slicerrt Dose Nod"
+date: 2019-10-08
+url: https://discourse.slicer.org/t/8709
+---
+
 # Process Node attributes to convert it into SlicerRT dose node
 
 **Topic ID**: 8709

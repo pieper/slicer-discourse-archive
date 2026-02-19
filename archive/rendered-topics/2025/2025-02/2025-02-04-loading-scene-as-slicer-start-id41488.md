@@ -1,3 +1,10 @@
+---
+topic_id: 41488
+title: "Loading Scene As Slicer Start"
+date: 2025-02-04
+url: https://discourse.slicer.org/t/41488
+---
+
 # Loading scene as slicer start
 
 **Topic ID**: 41488

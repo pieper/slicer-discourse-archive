@@ -1,3 +1,10 @@
+---
+topic_id: 35639
+title: "Gamma Index In 3D Slicer"
+date: 2024-04-21
+url: https://discourse.slicer.org/t/35639
+---
+
 # Gamma index in 3D slicer
 
 **Topic ID**: 35639

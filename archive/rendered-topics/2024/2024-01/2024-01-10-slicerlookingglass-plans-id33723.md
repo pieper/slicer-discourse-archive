@@ -1,3 +1,10 @@
+---
+topic_id: 33723
+title: "Slicerlookingglass Plans"
+date: 2024-01-10
+url: https://discourse.slicer.org/t/33723
+---
+
 # SlicerLookingGlass plans
 
 **Topic ID**: 33723

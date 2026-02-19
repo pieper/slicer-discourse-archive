@@ -1,3 +1,10 @@
+---
+topic_id: 36006
+title: "How To Solve Issue Of Exporting"
+date: 2024-05-08
+url: https://discourse.slicer.org/t/36006
+---
+
 # How to solve issue of exporting 
 
 **Topic ID**: 36006

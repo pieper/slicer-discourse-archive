@@ -1,3 +1,10 @@
+---
+topic_id: 22934
+title: "Draw Specific Dimension"
+date: 2022-04-13
+url: https://discourse.slicer.org/t/22934
+---
+
 # Draw specific dimension
 
 **Topic ID**: 22934

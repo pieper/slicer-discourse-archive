@@ -1,3 +1,10 @@
+---
+topic_id: 28184
+title: "Slice Spacing In Fluoroscopic Angiography"
+date: 2023-03-06
+url: https://discourse.slicer.org/t/28184
+---
+
 # slice spacing in fluoroscopic angiography
 
 **Topic ID**: 28184

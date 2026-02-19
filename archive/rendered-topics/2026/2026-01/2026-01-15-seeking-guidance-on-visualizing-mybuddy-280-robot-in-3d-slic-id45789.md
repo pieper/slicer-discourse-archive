@@ -1,3 +1,10 @@
+---
+topic_id: 45789
+title: "Seeking Guidance On Visualizing Mybuddy 280 Robot In 3D Slic"
+date: 2026-01-15
+url: https://discourse.slicer.org/t/45789
+---
+
 # Seeking guidance on visualizing MyBuddy 280 robot in 3D Slicer with WLAN connection
 
 **Topic ID**: 45789

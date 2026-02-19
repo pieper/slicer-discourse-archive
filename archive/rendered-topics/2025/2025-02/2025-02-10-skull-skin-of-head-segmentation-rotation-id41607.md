@@ -1,3 +1,10 @@
+---
+topic_id: 41607
+title: "Skull Skin Of Head Segmentation Rotation"
+date: 2025-02-10
+url: https://discourse.slicer.org/t/41607
+---
+
 # Skull / Skin of head segmentation rotation
 
 **Topic ID**: 41607

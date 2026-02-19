@@ -1,3 +1,10 @@
+---
+topic_id: 18321
+title: "Import Issue Of Vmtk Libraries"
+date: 2021-06-24
+url: https://discourse.slicer.org/t/18321
+---
+
 # Import issue of vmtk libraries
 
 **Topic ID**: 18321

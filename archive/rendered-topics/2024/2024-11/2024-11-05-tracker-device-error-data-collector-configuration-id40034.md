@@ -1,3 +1,10 @@
+---
+topic_id: 40034
+title: "Tracker Device Error Data Collector Configuration"
+date: 2024-11-05
+url: https://discourse.slicer.org/t/40034
+---
+
 # Tracker device error - Data collector configuration
 
 **Topic ID**: 40034

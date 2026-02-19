@@ -1,3 +1,10 @@
+---
+topic_id: 10719
+title: "Import Osirix Roi As Segmentation"
+date: 2020-03-17
+url: https://discourse.slicer.org/t/10719
+---
+
 # Import OsiriX ROI as segmentation
 
 **Topic ID**: 10719

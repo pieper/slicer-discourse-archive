@@ -1,3 +1,10 @@
+---
+topic_id: 34348
+title: "Total Segmentator Error Log"
+date: 2024-02-15
+url: https://discourse.slicer.org/t/34348
+---
+
 # Total segmentator error log
 
 **Topic ID**: 34348

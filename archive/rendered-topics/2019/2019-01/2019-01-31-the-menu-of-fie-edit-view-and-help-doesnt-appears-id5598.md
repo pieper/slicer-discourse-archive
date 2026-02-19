@@ -1,3 +1,10 @@
+---
+topic_id: 5598
+title: "The Menu Of Fie Edit View And Help Doesnt Appears"
+date: 2019-01-31
+url: https://discourse.slicer.org/t/5598
+---
+
 # The menu of Fie, Edit, View and Help doesn't appears
 
 **Topic ID**: 5598

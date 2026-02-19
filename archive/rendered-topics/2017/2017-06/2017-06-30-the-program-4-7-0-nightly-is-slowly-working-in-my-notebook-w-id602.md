@@ -1,3 +1,10 @@
+---
+topic_id: 602
+title: "The Program 4 7 0 Nightly Is Slowly Working In My Notebook W"
+date: 2017-06-30
+url: https://discourse.slicer.org/t/602
+---
+
 # The program (4.7.0 nightly) is slowly working in my notebook. What sould I do?
 
 **Topic ID**: 602

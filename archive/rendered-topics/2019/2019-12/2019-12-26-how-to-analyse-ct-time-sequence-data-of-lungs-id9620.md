@@ -1,3 +1,10 @@
+---
+topic_id: 9620
+title: "How To Analyse Ct Time Sequence Data Of Lungs"
+date: 2019-12-26
+url: https://discourse.slicer.org/t/9620
+---
+
 # How to analyse CT time sequence data of lungs?
 
 **Topic ID**: 9620

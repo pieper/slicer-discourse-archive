@@ -1,3 +1,10 @@
+---
+topic_id: 17548
+title: "Link Slices Orientation"
+date: 2021-05-10
+url: https://discourse.slicer.org/t/17548
+---
+
 # Link slices orientation
 
 **Topic ID**: 17548

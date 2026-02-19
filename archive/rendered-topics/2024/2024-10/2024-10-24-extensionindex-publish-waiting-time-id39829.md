@@ -1,3 +1,10 @@
+---
+topic_id: 39829
+title: "Extensionindex Publish Waiting Time"
+date: 2024-10-24
+url: https://discourse.slicer.org/t/39829
+---
+
 # ExtensionIndex Publish Waiting Time
 
 **Topic ID**: 39829

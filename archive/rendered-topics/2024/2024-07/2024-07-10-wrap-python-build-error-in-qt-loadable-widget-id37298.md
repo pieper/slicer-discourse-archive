@@ -1,3 +1,10 @@
+---
+topic_id: 37298
+title: "Wrap Python Build Error In Qt Loadable Widget"
+date: 2024-07-10
+url: https://discourse.slicer.org/t/37298
+---
+
 # Wrap_python build error in qt loadable widget
 
 **Topic ID**: 37298

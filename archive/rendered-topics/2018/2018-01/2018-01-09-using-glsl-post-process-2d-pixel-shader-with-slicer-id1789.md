@@ -1,3 +1,10 @@
+---
+topic_id: 1789
+title: "Using Glsl Post Process 2D Pixel Shader With Slicer"
+date: 2018-01-09
+url: https://discourse.slicer.org/t/1789
+---
+
 # Using GLSL post-process (2D) pixel shader with Slicer
 
 **Topic ID**: 1789

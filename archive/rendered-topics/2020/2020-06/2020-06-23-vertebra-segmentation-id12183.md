@@ -1,3 +1,10 @@
+---
+topic_id: 12183
+title: "Vertebra Segmentation"
+date: 2020-06-23
+url: https://discourse.slicer.org/t/12183
+---
+
 # Vertebra Segmentation
 
 **Topic ID**: 12183

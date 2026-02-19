@@ -1,3 +1,10 @@
+---
+topic_id: 19974
+title: "Logo Area Cannot Be Reclaimed"
+date: 2021-10-03
+url: https://discourse.slicer.org/t/19974
+---
+
 # Logo area cannot be reclaimed
 
 **Topic ID**: 19974

@@ -1,3 +1,10 @@
+---
+topic_id: 34698
+title: "Paint Tool Cant Not Used Properly"
+date: 2024-03-04
+url: https://discourse.slicer.org/t/34698
+---
+
 # paint tool can't not used properly
 
 **Topic ID**: 34698

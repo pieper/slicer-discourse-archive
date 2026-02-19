@@ -1,3 +1,10 @@
+---
+topic_id: 22720
+title: "An Error Occurred When I Imported The Folder Could I Ask For"
+date: 2022-03-28
+url: https://discourse.slicer.org/t/22720
+---
+
 # An error occurred when I imported the folder. Could I ask for help?
 
 **Topic ID**: 22720

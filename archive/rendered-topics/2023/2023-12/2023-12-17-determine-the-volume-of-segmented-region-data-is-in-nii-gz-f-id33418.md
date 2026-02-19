@@ -1,3 +1,10 @@
+---
+topic_id: 33418
+title: "Determine The Volume Of Segmented Region Data Is In Nii Gz F"
+date: 2023-12-17
+url: https://discourse.slicer.org/t/33418
+---
+
 # Determine the volume of segmented region . Data is in .nii.gz format
 
 **Topic ID**: 33418

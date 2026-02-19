@@ -1,3 +1,10 @@
+---
+topic_id: 11759
+title: "New Module Dynamic Modeler Parametric Surface Editing For Bi"
+date: 2020-05-28
+url: https://discourse.slicer.org/t/11759
+---
+
 # New module: Dynamic Modeler - parametric surface editing for biomedical applications
 
 **Topic ID**: 11759

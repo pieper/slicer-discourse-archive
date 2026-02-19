@@ -1,3 +1,10 @@
+---
+topic_id: 8744
+title: "Segmentation Volume 1 And Volume 2"
+date: 2019-10-11
+url: https://discourse.slicer.org/t/8744
+---
+
 # Segmentation: Volume (1) and Volume (2)
 
 **Topic ID**: 8744

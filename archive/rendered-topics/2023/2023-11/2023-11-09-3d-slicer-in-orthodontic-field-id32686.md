@@ -1,3 +1,10 @@
+---
+topic_id: 32686
+title: "3D Slicer In Orthodontic Field"
+date: 2023-11-09
+url: https://discourse.slicer.org/t/32686
+---
+
 # 3d slicer in Orthodontic field
 
 **Topic ID**: 32686

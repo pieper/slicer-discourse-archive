@@ -1,3 +1,10 @@
+---
+topic_id: 12326
+title: "Comparing Density Without A Known Phantom"
+date: 2020-07-01
+url: https://discourse.slicer.org/t/12326
+---
+
 # Comparing Density without a known phantom
 
 **Topic ID**: 12326

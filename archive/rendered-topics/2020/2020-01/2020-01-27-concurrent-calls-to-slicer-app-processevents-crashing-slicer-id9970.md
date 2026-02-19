@@ -1,3 +1,10 @@
+---
+topic_id: 9970
+title: "Concurrent Calls To Slicer App Processevents Crashing Slicer"
+date: 2020-01-27
+url: https://discourse.slicer.org/t/9970
+---
+
 # Concurrent calls to slicer app processEvents() crashing slicer
 
 **Topic ID**: 9970

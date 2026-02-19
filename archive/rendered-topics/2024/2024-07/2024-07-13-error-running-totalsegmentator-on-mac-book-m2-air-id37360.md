@@ -1,3 +1,10 @@
+---
+topic_id: 37360
+title: "Error Running Totalsegmentator On Mac Book M2 Air"
+date: 2024-07-13
+url: https://discourse.slicer.org/t/37360
+---
+
 # Error running TotalSegmentator on Mac book m2 air
 
 **Topic ID**: 37360

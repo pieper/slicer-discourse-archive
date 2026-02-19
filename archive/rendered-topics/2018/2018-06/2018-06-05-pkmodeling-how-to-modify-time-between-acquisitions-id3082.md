@@ -1,3 +1,10 @@
+---
+topic_id: 3082
+title: "Pkmodeling How To Modify Time Between Acquisitions"
+date: 2018-06-05
+url: https://discourse.slicer.org/t/3082
+---
+
 # Pkmodeling: How to modify time between acquisitions
 
 **Topic ID**: 3082

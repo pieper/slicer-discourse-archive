@@ -1,3 +1,10 @@
+---
+topic_id: 20953
+title: "Opendose 3D Extension"
+date: 2021-12-07
+url: https://discourse.slicer.org/t/20953
+---
+
 # OpenDose 3D Extension
 
 **Topic ID**: 20953

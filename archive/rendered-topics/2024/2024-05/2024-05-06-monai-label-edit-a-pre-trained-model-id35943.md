@@ -1,3 +1,10 @@
+---
+topic_id: 35943
+title: "Monai Label Edit A Pre Trained Model"
+date: 2024-05-06
+url: https://discourse.slicer.org/t/35943
+---
+
 # Monai label - edit a pre-trained model
 
 **Topic ID**: 35943

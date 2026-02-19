@@ -1,3 +1,10 @@
+---
+topic_id: 20438
+title: "Extension Build Failing For Macos"
+date: 2021-11-01
+url: https://discourse.slicer.org/t/20438
+---
+
 # Extension build failing for macos
 
 **Topic ID**: 20438

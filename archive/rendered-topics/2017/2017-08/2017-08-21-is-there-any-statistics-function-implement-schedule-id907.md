@@ -1,3 +1,10 @@
+---
+topic_id: 907
+title: "Is There Any Statistics Function Implement Schedule"
+date: 2017-08-21
+url: https://discourse.slicer.org/t/907
+---
+
 # Is there any statistics function implement schedule?
 
 **Topic ID**: 907

@@ -1,3 +1,10 @@
+---
+topic_id: 9236
+title: "Slicer Wiki Edit Permissions Reset"
+date: 2019-11-20
+url: https://discourse.slicer.org/t/9236
+---
+
 # Slicer wiki edit permissions reset
 
 **Topic ID**: 9236

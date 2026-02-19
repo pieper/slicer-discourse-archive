@@ -1,3 +1,10 @@
+---
+topic_id: 35409
+title: "New Icons For Slicer Styling To Include Monochromatic Design"
+date: 2024-04-10
+url: https://discourse.slicer.org/t/35409
+---
+
 # New icons for Slicer: styling to include monochromatic designs and optional accent colors
 
 **Topic ID**: 35409

@@ -1,3 +1,10 @@
+---
+topic_id: 42386
+title: "Totalsegmentator Slicer 5 8 1 Modulenotfounderror No Module"
+date: 2025-03-31
+url: https://discourse.slicer.org/t/42386
+---
+
 # TotalSegmentator + Slicer 5.8.1 - "ModuleNotFoundError: No module named 'pydicom.pixels'"
 
 **Topic ID**: 42386

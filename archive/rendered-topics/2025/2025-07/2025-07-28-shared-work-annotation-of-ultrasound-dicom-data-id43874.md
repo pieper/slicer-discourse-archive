@@ -1,3 +1,10 @@
+---
+topic_id: 43874
+title: "Shared Work Annotation Of Ultrasound Dicom Data"
+date: 2025-07-28
+url: https://discourse.slicer.org/t/43874
+---
+
 # Shared Work/Annotation of Ultrasound DICOM Data
 
 **Topic ID**: 43874

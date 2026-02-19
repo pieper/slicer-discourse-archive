@@ -1,3 +1,10 @@
+---
+topic_id: 44273
+title: "Is Branch Splitting Like Vmtk Tutorial Possible In Slicer"
+date: 2025-08-29
+url: https://discourse.slicer.org/t/44273
+---
+
 # Is branch splitting like VMTK tutorial possible in Slicer?
 
 **Topic ID**: 44273

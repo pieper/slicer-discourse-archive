@@ -1,3 +1,10 @@
+---
+topic_id: 10039
+title: "All About Registration"
+date: 2020-01-30
+url: https://discourse.slicer.org/t/10039
+---
+
 # All about Registration
 
 **Topic ID**: 10039

@@ -1,3 +1,10 @@
+---
+topic_id: 3711
+title: "Dicom Tutorial At Miccai 2018"
+date: 2018-08-08
+url: https://discourse.slicer.org/t/3711
+---
+
 # DICOM tutorial at MICCAI 2018
 
 **Topic ID**: 3711

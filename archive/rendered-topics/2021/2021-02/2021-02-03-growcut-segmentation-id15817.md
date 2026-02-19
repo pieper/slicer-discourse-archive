@@ -1,3 +1,10 @@
+---
+topic_id: 15817
+title: "Growcut Segmentation"
+date: 2021-02-03
+url: https://discourse.slicer.org/t/15817
+---
+
 # GrowCut segmentation
 
 **Topic ID**: 15817

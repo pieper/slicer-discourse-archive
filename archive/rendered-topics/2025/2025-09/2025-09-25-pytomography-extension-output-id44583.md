@@ -1,3 +1,10 @@
+---
+topic_id: 44583
+title: "Pytomography Extension Output"
+date: 2025-09-25
+url: https://discourse.slicer.org/t/44583
+---
+
 # Pytomography Extension output
 
 **Topic ID**: 44583

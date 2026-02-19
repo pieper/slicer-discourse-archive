@@ -1,3 +1,10 @@
+---
+topic_id: 21341
+title: "Unable To Add Scalars To Vtkmrmlmarkupscurvenode"
+date: 2022-01-06
+url: https://discourse.slicer.org/t/21341
+---
+
 # Unable to add scalars to `vtkMRMLMarkupsCurveNode`
 
 **Topic ID**: 21341

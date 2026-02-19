@@ -1,3 +1,10 @@
+---
+topic_id: 11187
+title: "Non Uniform Sampling"
+date: 2020-04-19
+url: https://discourse.slicer.org/t/11187
+---
+
 # Non-uniform sampling
 
 **Topic ID**: 11187

@@ -1,3 +1,10 @@
+---
+topic_id: 15759
+title: "How To Adjust The Width Of The Module Panel"
+date: 2021-02-01
+url: https://discourse.slicer.org/t/15759
+---
+
 # How to adjust the width of the "module panel"
 
 **Topic ID**: 15759

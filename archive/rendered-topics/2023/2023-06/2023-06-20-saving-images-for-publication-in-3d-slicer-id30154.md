@@ -1,3 +1,10 @@
+---
+topic_id: 30154
+title: "Saving Images For Publication In 3D Slicer"
+date: 2023-06-20
+url: https://discourse.slicer.org/t/30154
+---
+
 # saving images for publication in 3d slicer
 
 **Topic ID**: 30154

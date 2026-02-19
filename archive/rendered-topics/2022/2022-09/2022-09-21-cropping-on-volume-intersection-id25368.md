@@ -1,3 +1,10 @@
+---
+topic_id: 25368
+title: "Cropping On Volume Intersection"
+date: 2022-09-21
+url: https://discourse.slicer.org/t/25368
+---
+
 # Cropping on volume intersection
 
 **Topic ID**: 25368

@@ -1,3 +1,10 @@
+---
+topic_id: 39446
+title: "Question On Marching Cube Algorithm"
+date: 2024-09-30
+url: https://discourse.slicer.org/t/39446
+---
+
 # Question on marching cube algorithm
 
 **Topic ID**: 39446

@@ -1,3 +1,10 @@
+---
+topic_id: 19025
+title: "Change Segmentation Oversampling Factor"
+date: 2021-08-02
+url: https://discourse.slicer.org/t/19025
+---
+
 # Change segmentation oversampling factor
 
 **Topic ID**: 19025

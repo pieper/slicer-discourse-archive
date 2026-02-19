@@ -1,3 +1,10 @@
+---
+topic_id: 23593
+title: "How To Display Crosshairs In A Single Window For Example The"
+date: 2022-05-26
+url: https://discourse.slicer.org/t/23593
+---
+
 # How to display crosshairs in a single window. For example: the crosshair disappears when a single window is enlarged
 
 **Topic ID**: 23593

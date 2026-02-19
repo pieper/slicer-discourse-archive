@@ -1,3 +1,10 @@
+---
+topic_id: 8821
+title: "Display An Image In A Separate Window"
+date: 2019-10-17
+url: https://discourse.slicer.org/t/8821
+---
+
 # Display an image in a separate window
 
 **Topic ID**: 8821

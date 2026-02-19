@@ -1,3 +1,10 @@
+---
+topic_id: 33955
+title: "2D Position Different From 3D Position"
+date: 2024-01-24
+url: https://discourse.slicer.org/t/33955
+---
+
 # 2D position different from 3D position
 
 **Topic ID**: 33955

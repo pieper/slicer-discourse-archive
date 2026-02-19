@@ -1,3 +1,10 @@
+---
+topic_id: 8904
+title: "Resample Pet Image"
+date: 2019-10-25
+url: https://discourse.slicer.org/t/8904
+---
+
 # Resample PET image
 
 **Topic ID**: 8904

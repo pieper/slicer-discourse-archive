@@ -1,3 +1,10 @@
+---
+topic_id: 37983
+title: "Unable To Install Totalsegmentator On 5 2 2 Windows"
+date: 2024-08-21
+url: https://discourse.slicer.org/t/37983
+---
+
 # Unable to install TotalSegmentator on 5.2.2 Windows
 
 **Topic ID**: 37983

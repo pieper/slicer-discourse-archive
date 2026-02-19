@@ -1,3 +1,10 @@
+---
+topic_id: 1062
+title: "Crop In Harden Transform Of Labels"
+date: 2017-09-15
+url: https://discourse.slicer.org/t/1062
+---
+
 # Crop in harden transform of labels
 
 **Topic ID**: 1062

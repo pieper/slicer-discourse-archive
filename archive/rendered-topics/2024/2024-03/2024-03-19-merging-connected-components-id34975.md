@@ -1,3 +1,10 @@
+---
+topic_id: 34975
+title: "Merging Connected Components"
+date: 2024-03-19
+url: https://discourse.slicer.org/t/34975
+---
+
 # Merging Connected Components
 
 **Topic ID**: 34975

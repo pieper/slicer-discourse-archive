@@ -1,3 +1,10 @@
+---
+topic_id: 41321
+title: "Clear Aligner Planning Module"
+date: 2025-01-27
+url: https://discourse.slicer.org/t/41321
+---
+
 # Clear Aligner Planning Module
 
 **Topic ID**: 41321

@@ -1,3 +1,10 @@
+---
+topic_id: 30166
+title: "Why Sagittal Yellow Bar Direction Is L"
+date: 2023-06-20
+url: https://discourse.slicer.org/t/30166
+---
+
 # Why sagittal yellow bar direction is "L"?
 
 **Topic ID**: 30166

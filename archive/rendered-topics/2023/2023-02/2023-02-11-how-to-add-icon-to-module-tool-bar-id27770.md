@@ -1,3 +1,10 @@
+---
+topic_id: 27770
+title: "How To Add Icon To Module Tool Bar"
+date: 2023-02-11
+url: https://discourse.slicer.org/t/27770
+---
+
 # How to add icon to Module Tool Bar
 
 **Topic ID**: 27770

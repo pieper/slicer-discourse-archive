@@ -1,3 +1,10 @@
+---
+topic_id: 13729
+title: "Moduleexport H Not Found"
+date: 2020-09-28
+url: https://discourse.slicer.org/t/13729
+---
+
 # ModuleExport.h not found
 
 **Topic ID**: 13729

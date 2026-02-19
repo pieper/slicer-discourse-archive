@@ -1,3 +1,10 @@
+---
+topic_id: 17950
+title: "Perform Cortical And Trabecular Bone Segmentation Of A Talus"
+date: 2021-06-04
+url: https://discourse.slicer.org/t/17950
+---
+
 # Perform cortical and  trabecular bone segmentation of a Talus bone to generate a 2body STL file
 
 **Topic ID**: 17950

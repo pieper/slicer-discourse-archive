@@ -1,3 +1,10 @@
+---
+topic_id: 9878
+title: "How Can I Automatically Generate Files Like Ui Xxx H Moc Xxx"
+date: 2020-01-20
+url: https://discourse.slicer.org/t/9878
+---
+
 # How can I automatically generate files like ui_xxx.h、moc_xxx.h form *.ui?
 
 **Topic ID**: 9878

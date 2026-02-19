@@ -1,3 +1,10 @@
+---
+topic_id: 42240
+title: "Making Hollow Object Solid"
+date: 2025-03-21
+url: https://discourse.slicer.org/t/42240
+---
+
 # Making hollow object solid 
 
 **Topic ID**: 42240

@@ -1,3 +1,10 @@
+---
+topic_id: 45365
+title: "Reconstructing A Skull Fragment With Ssm Pdm"
+date: 2025-12-04
+url: https://discourse.slicer.org/t/45365
+---
+
 # Reconstructing a skull fragment with SSM/PDM
 
 **Topic ID**: 45365

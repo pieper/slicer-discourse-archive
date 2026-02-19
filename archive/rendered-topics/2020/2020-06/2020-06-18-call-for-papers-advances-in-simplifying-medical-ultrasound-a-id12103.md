@@ -1,3 +1,10 @@
+---
+topic_id: 12103
+title: "Call For Papers Advances In Simplifying Medical Ultrasound A"
+date: 2020-06-18
+url: https://discourse.slicer.org/t/12103
+---
+
 # Call for Papers - Advances in Simplifying Medical UltraSound (ASMUS) – an inaugural workshop at MICCAI 2020
 
 **Topic ID**: 12103

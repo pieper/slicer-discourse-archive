@@ -1,3 +1,10 @@
+---
+topic_id: 22686
+title: "Changing Default Graphics Card"
+date: 2022-03-25
+url: https://discourse.slicer.org/t/22686
+---
+
 # Changing default graphics card
 
 **Topic ID**: 22686

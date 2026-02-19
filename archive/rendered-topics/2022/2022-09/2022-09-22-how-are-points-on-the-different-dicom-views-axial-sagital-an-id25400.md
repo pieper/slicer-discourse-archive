@@ -1,3 +1,10 @@
+---
+topic_id: 25400
+title: "How Are Points On The Different Dicom Views Axial Sagital An"
+date: 2022-09-22
+url: https://discourse.slicer.org/t/25400
+---
+
 # How are points on the different Dicom views(axial, sagital, and coronal) synced?
 
 **Topic ID**: 25400

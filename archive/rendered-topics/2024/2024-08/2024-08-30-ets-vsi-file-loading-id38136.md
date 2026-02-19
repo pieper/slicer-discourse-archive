@@ -1,3 +1,10 @@
+---
+topic_id: 38136
+title: "Ets Vsi File Loading"
+date: 2024-08-30
+url: https://discourse.slicer.org/t/38136
+---
+
 # .ets .vsi File loading
 
 **Topic ID**: 38136

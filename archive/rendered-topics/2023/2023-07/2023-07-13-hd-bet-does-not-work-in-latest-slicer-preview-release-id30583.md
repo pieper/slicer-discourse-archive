@@ -1,3 +1,10 @@
+---
+topic_id: 30583
+title: "Hd Bet Does Not Work In Latest Slicer Preview Release"
+date: 2023-07-13
+url: https://discourse.slicer.org/t/30583
+---
+
 # HD_BET does not work in latest Slicer Preview Release
 
 **Topic ID**: 30583

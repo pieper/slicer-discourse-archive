@@ -1,3 +1,10 @@
+---
+topic_id: 8795
+title: "Loading Dicom Data Failed"
+date: 2019-10-16
+url: https://discourse.slicer.org/t/8795
+---
+
 # Loading DICOM data failed
 
 **Topic ID**: 8795

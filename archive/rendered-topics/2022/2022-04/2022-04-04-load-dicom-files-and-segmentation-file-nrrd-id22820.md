@@ -1,3 +1,10 @@
+---
+topic_id: 22820
+title: "Load Dicom Files And Segmentation File Nrrd"
+date: 2022-04-04
+url: https://discourse.slicer.org/t/22820
+---
+
 # Load DICOM files and segmentation file (.nrrd)
 
 **Topic ID**: 22820

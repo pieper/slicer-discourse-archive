@@ -1,3 +1,10 @@
+---
+topic_id: 13120
+title: "How Can I Convert Vtk Vtkimagedata To An Opencv Image"
+date: 2020-08-21
+url: https://discourse.slicer.org/t/13120
+---
+
 # How can I convert vtk.vtkImageData() to an OpenCv Image?
 
 **Topic ID**: 13120

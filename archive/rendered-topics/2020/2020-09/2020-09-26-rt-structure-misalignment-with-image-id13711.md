@@ -1,3 +1,10 @@
+---
+topic_id: 13711
+title: "Rt Structure Misalignment With Image"
+date: 2020-09-26
+url: https://discourse.slicer.org/t/13711
+---
+
 # Rt structure misalignment with image
 
 **Topic ID**: 13711

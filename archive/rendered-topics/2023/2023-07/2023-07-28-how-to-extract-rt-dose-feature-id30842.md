@@ -1,3 +1,10 @@
+---
+topic_id: 30842
+title: "How To Extract Rt Dose Feature"
+date: 2023-07-28
+url: https://discourse.slicer.org/t/30842
+---
+
 # How to extract RT dose feature
 
 **Topic ID**: 30842

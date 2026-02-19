@@ -1,3 +1,10 @@
+---
+topic_id: 35977
+title: "Missing Reference Volume Option In Freesurfer Importer It Lo"
+date: 2024-05-07
+url: https://discourse.slicer.org/t/35977
+---
+
 # Missing “Reference Volume” option in FreeSurfer Importer (it looks like version 5.6 onwards)
 
 **Topic ID**: 35977

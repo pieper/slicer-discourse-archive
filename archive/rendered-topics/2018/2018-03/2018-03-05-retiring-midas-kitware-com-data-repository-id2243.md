@@ -1,3 +1,10 @@
+---
+topic_id: 2243
+title: "Retiring Midas Kitware Com Data Repository"
+date: 2018-03-05
+url: https://discourse.slicer.org/t/2243
+---
+
 # Retiring midas.kitware.com data repository
 
 **Topic ID**: 2243

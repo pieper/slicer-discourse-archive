@@ -1,3 +1,10 @@
+---
+topic_id: 42348
+title: "Any Way To Reduce Image Stacks Size"
+date: 2025-03-28
+url: https://discourse.slicer.org/t/42348
+---
+
 # Any way to reduce image stacks size?
 
 **Topic ID**: 42348

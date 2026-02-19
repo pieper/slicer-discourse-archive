@@ -1,3 +1,10 @@
+---
+topic_id: 17377
+title: "Stl File Import Edit And Volume Measurment"
+date: 2021-04-28
+url: https://discourse.slicer.org/t/17377
+---
+
 # STL file import, edit and volume measurment
 
 **Topic ID**: 17377

@@ -1,3 +1,10 @@
+---
+topic_id: 7494
+title: "Can You Explain The Cmake Variables Slicer Moduletype Module"
+date: 2019-07-10
+url: https://discourse.slicer.org/t/7494
+---
+
 # Can you explain the CMake variables Slicer_<moduleType>MODULES_DISABLED|ENABLED?
 
 **Topic ID**: 7494

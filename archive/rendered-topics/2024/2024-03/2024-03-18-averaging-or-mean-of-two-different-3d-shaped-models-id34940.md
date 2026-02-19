@@ -1,3 +1,10 @@
+---
+topic_id: 34940
+title: "Averaging Or Mean Of Two Different 3D Shaped Models"
+date: 2024-03-18
+url: https://discourse.slicer.org/t/34940
+---
+
 # Averaging or Mean of two different 3D shaped models 
 
 **Topic ID**: 34940

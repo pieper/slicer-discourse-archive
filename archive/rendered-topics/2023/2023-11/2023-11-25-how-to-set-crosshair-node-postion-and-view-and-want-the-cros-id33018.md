@@ -1,3 +1,10 @@
+---
+topic_id: 33018
+title: "How To Set Crosshair Node Postion And View And Want The Cros"
+date: 2023-11-25
+url: https://discourse.slicer.org/t/33018
+---
+
 # How to set crosshair node postion and view and want the crosshairs to follow a point
 
 **Topic ID**: 33018

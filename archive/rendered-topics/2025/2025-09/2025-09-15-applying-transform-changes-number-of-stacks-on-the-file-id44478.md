@@ -1,3 +1,10 @@
+---
+topic_id: 44478
+title: "Applying Transform Changes Number Of Stacks On The File"
+date: 2025-09-15
+url: https://discourse.slicer.org/t/44478
+---
+
 # Applying Transform Changes number of stacks on the file
 
 **Topic ID**: 44478

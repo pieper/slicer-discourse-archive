@@ -1,3 +1,10 @@
+---
+topic_id: 8829
+title: "Cannot Save Binary Mask Of Annottated Images From Segmentati"
+date: 2019-10-18
+url: https://discourse.slicer.org/t/8829
+---
+
 # Cannot save binary mask of annottated images from Segmentation module
 
 **Topic ID**: 8829

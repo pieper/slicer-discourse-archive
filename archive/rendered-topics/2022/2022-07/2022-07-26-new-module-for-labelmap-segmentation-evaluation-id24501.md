@@ -1,3 +1,10 @@
+---
+topic_id: 24501
+title: "New Module For Labelmap Segmentation Evaluation"
+date: 2022-07-26
+url: https://discourse.slicer.org/t/24501
+---
+
 # New Module for Labelmap/Segmentation Evaluation
 
 **Topic ID**: 24501

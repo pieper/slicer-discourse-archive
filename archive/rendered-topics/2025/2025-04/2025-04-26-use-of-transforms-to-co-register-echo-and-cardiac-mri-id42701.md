@@ -1,3 +1,10 @@
+---
+topic_id: 42701
+title: "Use Of Transforms To Co Register Echo And Cardiac Mri"
+date: 2025-04-26
+url: https://discourse.slicer.org/t/42701
+---
+
 # Use of transforms to co-register echo and cardiac mri
 
 **Topic ID**: 42701

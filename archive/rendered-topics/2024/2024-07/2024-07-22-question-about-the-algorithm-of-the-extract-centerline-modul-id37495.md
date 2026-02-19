@@ -1,3 +1,10 @@
+---
+topic_id: 37495
+title: "Question About The Algorithm Of The Extract Centerline Modul"
+date: 2024-07-22
+url: https://discourse.slicer.org/t/37495
+---
+
 # Question about the algorithm of the extract centerline module (VMTK)
 
 **Topic ID**: 37495

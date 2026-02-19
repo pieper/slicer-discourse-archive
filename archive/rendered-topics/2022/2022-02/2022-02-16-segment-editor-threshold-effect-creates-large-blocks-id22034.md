@@ -1,3 +1,10 @@
+---
+topic_id: 22034
+title: "Segment Editor Threshold Effect Creates Large Blocks"
+date: 2022-02-16
+url: https://discourse.slicer.org/t/22034
+---
+
 # Segment Editor Threshold effect creates large blocks
 
 **Topic ID**: 22034

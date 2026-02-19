@@ -1,3 +1,10 @@
+---
+topic_id: 20253
+title: "Resize Scaling Models"
+date: 2021-10-20
+url: https://discourse.slicer.org/t/20253
+---
+
 # Resize / Scaling Models
 
 **Topic ID**: 20253

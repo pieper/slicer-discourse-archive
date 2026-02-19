@@ -1,3 +1,10 @@
+---
+topic_id: 36822
+title: "Best Way To Flip Entire Scene"
+date: 2024-06-16
+url: https://discourse.slicer.org/t/36822
+---
+
 # Best way to flip entire scene
 
 **Topic ID**: 36822

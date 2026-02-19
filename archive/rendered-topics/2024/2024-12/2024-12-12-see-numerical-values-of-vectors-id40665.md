@@ -1,3 +1,10 @@
+---
+topic_id: 40665
+title: "See Numerical Values Of Vectors"
+date: 2024-12-12
+url: https://discourse.slicer.org/t/40665
+---
+
 # See numerical values of vectors
 
 **Topic ID**: 40665

@@ -1,3 +1,10 @@
+---
+topic_id: 3597
+title: "Scripting Dicom Load"
+date: 2018-07-28
+url: https://discourse.slicer.org/t/3597
+---
+
 # Scripting Dicom load
 
 **Topic ID**: 3597

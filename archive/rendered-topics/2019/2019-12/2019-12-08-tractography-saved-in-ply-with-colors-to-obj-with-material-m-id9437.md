@@ -1,3 +1,10 @@
+---
+topic_id: 9437
+title: "Tractography Saved In Ply With Colors To Obj With Material M"
+date: 2019-12-08
+url: https://discourse.slicer.org/t/9437
+---
+
 # Tractography saved in PLY with colors to OBJ with material (MTL)
 
 **Topic ID**: 9437

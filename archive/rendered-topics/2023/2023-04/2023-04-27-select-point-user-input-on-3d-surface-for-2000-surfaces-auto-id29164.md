@@ -1,3 +1,10 @@
+---
+topic_id: 29164
+title: "Select Point User Input On 3D Surface For 2000 Surfaces Auto"
+date: 2023-04-27
+url: https://discourse.slicer.org/t/29164
+---
+
 # Select point (user input) on 3D surface for 2000 surfaces automatically opening after user selects a point
 
 **Topic ID**: 29164

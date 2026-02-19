@@ -1,3 +1,10 @@
+---
+topic_id: 40609
+title: "Combining Multiple Dicom Volumes Into A Single High Quality"
+date: 2024-12-10
+url: https://discourse.slicer.org/t/40609
+---
+
 # Combining Multiple DICOM Volumes into a Single High-Quality Volume for Segmentation
 
 **Topic ID**: 40609

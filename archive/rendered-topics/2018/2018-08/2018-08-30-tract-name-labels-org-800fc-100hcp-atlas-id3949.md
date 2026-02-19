@@ -1,3 +1,10 @@
+---
+topic_id: 3949
+title: "Tract Name Labels Org 800Fc 100Hcp Atlas"
+date: 2018-08-30
+url: https://discourse.slicer.org/t/3949
+---
+
 # Tract name labels - ORG-800FC-100HCP atlas
 
 **Topic ID**: 3949

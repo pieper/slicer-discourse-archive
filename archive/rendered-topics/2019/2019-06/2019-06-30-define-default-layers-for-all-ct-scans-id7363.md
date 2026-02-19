@@ -1,3 +1,10 @@
+---
+topic_id: 7363
+title: "Define Default Layers For All Ct Scans"
+date: 2019-06-30
+url: https://discourse.slicer.org/t/7363
+---
+
 # define default layers for all CT scans 
 
 **Topic ID**: 7363

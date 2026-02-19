@@ -1,3 +1,10 @@
+---
+topic_id: 34254
+title: "How Can I Effectively Separate Upper And Lower Teeth That Ar"
+date: 2024-02-12
+url: https://discourse.slicer.org/t/34254
+---
+
 # How can I effectively separate upper and lower teeth that are in contact with each other?
 
 **Topic ID**: 34254

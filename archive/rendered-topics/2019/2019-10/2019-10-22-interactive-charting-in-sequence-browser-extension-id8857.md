@@ -1,3 +1,10 @@
+---
+topic_id: 8857
+title: "Interactive Charting In Sequence Browser Extension"
+date: 2019-10-22
+url: https://discourse.slicer.org/t/8857
+---
+
 # Interactive charting in sequence Browser extension
 
 **Topic ID**: 8857

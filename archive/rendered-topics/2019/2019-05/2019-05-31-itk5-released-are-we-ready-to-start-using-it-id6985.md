@@ -1,3 +1,10 @@
+---
+topic_id: 6985
+title: "Itk5 Released Are We Ready To Start Using It"
+date: 2019-05-31
+url: https://discourse.slicer.org/t/6985
+---
+
 # ITK5 released, are we ready to start using it?
 
 **Topic ID**: 6985

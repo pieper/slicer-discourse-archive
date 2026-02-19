@@ -1,3 +1,10 @@
+---
+topic_id: 35295
+title: "Transform Visualizer Extension"
+date: 2024-04-04
+url: https://discourse.slicer.org/t/35295
+---
+
 # Transform Visualizer Extension
 
 **Topic ID**: 35295

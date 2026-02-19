@@ -1,3 +1,10 @@
+---
+topic_id: 29341
+title: "Adding Offscreen Rendering For High Resolution Screenshots"
+date: 2023-05-08
+url: https://discourse.slicer.org/t/29341
+---
+
 # Adding Offscreen Rendering for High-Resolution Screenshots
 
 **Topic ID**: 29341

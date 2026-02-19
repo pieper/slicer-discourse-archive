@@ -1,3 +1,10 @@
+---
+topic_id: 2290
+title: "Measure Tumor And Edema Volume"
+date: 2018-03-11
+url: https://discourse.slicer.org/t/2290
+---
+
 # Measure tumor and edema volume
 
 **Topic ID**: 2290

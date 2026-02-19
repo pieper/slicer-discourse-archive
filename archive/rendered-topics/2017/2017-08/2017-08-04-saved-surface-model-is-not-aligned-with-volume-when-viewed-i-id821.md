@@ -1,3 +1,10 @@
+---
+topic_id: 821
+title: "Saved Surface Model Is Not Aligned With Volume When Viewed I"
+date: 2017-08-04
+url: https://discourse.slicer.org/t/821
+---
+
 # Saved surface model is not aligned with volume when viewed in external software
 
 **Topic ID**: 821

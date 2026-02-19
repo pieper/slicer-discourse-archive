@@ -1,3 +1,10 @@
+---
+topic_id: 31715
+title: "Slow To Open Dicom Data Particularly Checking Plugins"
+date: 2023-09-14
+url: https://discourse.slicer.org/t/31715
+---
+
 # Slow to open DICOM data, particularly Checking Plugins
 
 **Topic ID**: 31715

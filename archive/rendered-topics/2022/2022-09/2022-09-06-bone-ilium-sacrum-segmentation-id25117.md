@@ -1,3 +1,10 @@
+---
+topic_id: 25117
+title: "Bone Ilium Sacrum Segmentation"
+date: 2022-09-06
+url: https://discourse.slicer.org/t/25117
+---
+
 # Bone (ilium, sacrum) segmentation
 
 **Topic ID**: 25117

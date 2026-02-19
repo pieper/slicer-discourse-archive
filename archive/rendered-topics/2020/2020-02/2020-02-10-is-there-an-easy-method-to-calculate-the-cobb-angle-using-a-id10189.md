@@ -1,3 +1,10 @@
+---
+topic_id: 10189
+title: "Is There An Easy Method To Calculate The Cobb Angle Using A"
+date: 2020-02-10
+url: https://discourse.slicer.org/t/10189
+---
+
 # Is there an easy method to calculate the Cobb Angle using a 3D Slicer module?
 
 **Topic ID**: 10189

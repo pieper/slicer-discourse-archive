@@ -1,3 +1,10 @@
+---
+topic_id: 27571
+title: "Add Data Fails In Linux Wayland"
+date: 2023-01-31
+url: https://discourse.slicer.org/t/27571
+---
+
 # Add data fails in linux (wayland).
 
 **Topic ID**: 27571

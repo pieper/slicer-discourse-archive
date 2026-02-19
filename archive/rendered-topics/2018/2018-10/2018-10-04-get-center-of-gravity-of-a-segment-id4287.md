@@ -1,3 +1,10 @@
+---
+topic_id: 4287
+title: "Get Center Of Gravity Of A Segment"
+date: 2018-10-04
+url: https://discourse.slicer.org/t/4287
+---
+
 # Get center of gravity of a segment
 
 **Topic ID**: 4287

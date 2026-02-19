@@ -1,3 +1,10 @@
+---
+topic_id: 41204
+title: "Activate Fill In Mode"
+date: 2025-01-22
+url: https://discourse.slicer.org/t/41204
+---
+
 # Activate Fill in mode
 
 **Topic ID**: 41204

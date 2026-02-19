@@ -1,3 +1,10 @@
+---
+topic_id: 36325
+title: "Straightening 3D Dataset"
+date: 2024-05-22
+url: https://discourse.slicer.org/t/36325
+---
+
 # Straightening 3D dataset
 
 **Topic ID**: 36325

@@ -1,3 +1,10 @@
+---
+topic_id: 4359
+title: "Creating Volumenode With Scalars As Rgb"
+date: 2018-10-11
+url: https://discourse.slicer.org/t/4359
+---
+
 # Creating volumeNode with scalars as RGB
 
 **Topic ID**: 4359

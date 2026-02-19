@@ -1,3 +1,10 @@
+---
+topic_id: 19035
+title: "3D View Screen Capture"
+date: 2021-08-03
+url: https://discourse.slicer.org/t/19035
+---
+
 # 3D view screen capture
 
 **Topic ID**: 19035

@@ -1,3 +1,10 @@
+---
+topic_id: 23645
+title: "Export Scene As Dicom"
+date: 2022-05-30
+url: https://discourse.slicer.org/t/23645
+---
+
 # Export scene as dicom
 
 **Topic ID**: 23645

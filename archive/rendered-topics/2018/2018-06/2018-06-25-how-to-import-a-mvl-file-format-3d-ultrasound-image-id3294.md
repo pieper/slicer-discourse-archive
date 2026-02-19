@@ -1,3 +1,10 @@
+---
+topic_id: 3294
+title: "How To Import A Mvl File Format 3D Ultrasound Image"
+date: 2018-06-25
+url: https://discourse.slicer.org/t/3294
+---
+
 # How to import a .mvl file format (3D Ultrasound image)
 
 **Topic ID**: 3294

@@ -1,3 +1,10 @@
+---
+topic_id: 33203
+title: "Liver Vessel Task"
+date: 2023-12-04
+url: https://discourse.slicer.org/t/33203
+---
+
 # "Liver vessel" task
 
 **Topic ID**: 33203

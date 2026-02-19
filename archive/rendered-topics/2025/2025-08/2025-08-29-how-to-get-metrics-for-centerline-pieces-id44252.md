@@ -1,3 +1,10 @@
+---
+topic_id: 44252
+title: "How To Get Metrics For Centerline Pieces"
+date: 2025-08-29
+url: https://discourse.slicer.org/t/44252
+---
+
 # How to get metrics for centerline pieces?
 
 **Topic ID**: 44252

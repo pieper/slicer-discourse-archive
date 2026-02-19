@@ -1,3 +1,10 @@
+---
+topic_id: 3171
+title: "Fail To Export Geometry Based On Dti Images To Stl File"
+date: 2018-06-13
+url: https://discourse.slicer.org/t/3171
+---
+
 # Fail to export geometry based on DTI images to .stl file
 
 **Topic ID**: 3171

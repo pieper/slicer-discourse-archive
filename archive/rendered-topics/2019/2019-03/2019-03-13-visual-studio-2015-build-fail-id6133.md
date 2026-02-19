@@ -1,3 +1,10 @@
+---
+topic_id: 6133
+title: "Visual Studio 2015 Build Fail"
+date: 2019-03-13
+url: https://discourse.slicer.org/t/6133
+---
+
 # Visual Studio 2015 Build Fail
 
 **Topic ID**: 6133

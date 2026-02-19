@@ -1,3 +1,10 @@
+---
+topic_id: 9401
+title: "Model Maker Mesh Generation Algorithm"
+date: 2019-12-05
+url: https://discourse.slicer.org/t/9401
+---
+
 # "Model Maker" mesh generation algorithm
 
 **Topic ID**: 9401

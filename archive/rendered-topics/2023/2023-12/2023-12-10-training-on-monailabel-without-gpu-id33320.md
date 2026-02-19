@@ -1,3 +1,10 @@
+---
+topic_id: 33320
+title: "Training On Monailabel Without Gpu"
+date: 2023-12-10
+url: https://discourse.slicer.org/t/33320
+---
+
 # Training on MONAILabel without GPU
 
 **Topic ID**: 33320

@@ -1,3 +1,10 @@
+---
+topic_id: 43183
+title: "How To Make Ai Software To Mapping Cortical Bone Thickness"
+date: 2025-06-01
+url: https://discourse.slicer.org/t/43183
+---
+
 # How to make AI software to mapping cortical bone thickness
 
 **Topic ID**: 43183

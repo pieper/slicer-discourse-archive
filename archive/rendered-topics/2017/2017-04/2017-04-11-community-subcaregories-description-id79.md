@@ -1,3 +1,10 @@
+---
+topic_id: 79
+title: "Community Subcaregories Description"
+date: 2017-04-11
+url: https://discourse.slicer.org/t/79
+---
+
 # Community subcaregories description
 
 **Topic ID**: 79

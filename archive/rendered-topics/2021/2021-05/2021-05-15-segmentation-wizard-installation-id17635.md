@@ -1,3 +1,10 @@
+---
+topic_id: 17635
+title: "Segmentation Wizard Installation"
+date: 2021-05-15
+url: https://discourse.slicer.org/t/17635
+---
+
 # Segmentation wizard installation
 
 **Topic ID**: 17635

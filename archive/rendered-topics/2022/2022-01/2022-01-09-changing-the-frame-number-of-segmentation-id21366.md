@@ -1,3 +1,10 @@
+---
+topic_id: 21366
+title: "Changing The Frame Number Of Segmentation"
+date: 2022-01-09
+url: https://discourse.slicer.org/t/21366
+---
+
 # Changing the frame number of segmentation
 
 **Topic ID**: 21366

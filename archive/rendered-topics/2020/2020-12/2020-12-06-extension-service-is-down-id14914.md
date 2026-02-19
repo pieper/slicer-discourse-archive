@@ -1,3 +1,10 @@
+---
+topic_id: 14914
+title: "Extension Service Is Down"
+date: 2020-12-06
+url: https://discourse.slicer.org/t/14914
+---
+
 # Extension service is down
 
 **Topic ID**: 14914

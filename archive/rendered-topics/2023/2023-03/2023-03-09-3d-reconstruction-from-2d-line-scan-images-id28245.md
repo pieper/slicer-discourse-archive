@@ -1,3 +1,10 @@
+---
+topic_id: 28245
+title: "3D Reconstruction From 2D Line Scan Images"
+date: 2023-03-09
+url: https://discourse.slicer.org/t/28245
+---
+
 # 3D reconstruction from 2D line scan images
 
 **Topic ID**: 28245

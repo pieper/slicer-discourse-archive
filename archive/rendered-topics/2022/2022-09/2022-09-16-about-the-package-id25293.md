@@ -1,3 +1,10 @@
+---
+topic_id: 25293
+title: "About The Package"
+date: 2022-09-16
+url: https://discourse.slicer.org/t/25293
+---
+
 # About the package
 
 **Topic ID**: 25293

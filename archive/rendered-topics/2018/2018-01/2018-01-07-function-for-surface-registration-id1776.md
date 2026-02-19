@@ -1,3 +1,10 @@
+---
+topic_id: 1776
+title: "Function For Surface Registration"
+date: 2018-01-07
+url: https://discourse.slicer.org/t/1776
+---
+
 # Function for surface registration
 
 **Topic ID**: 1776

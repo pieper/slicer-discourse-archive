@@ -1,3 +1,10 @@
+---
+topic_id: 19256
+title: "Downloading Extensions For Older Releases"
+date: 2021-08-30
+url: https://discourse.slicer.org/t/19256
+---
+
 # Downloading extensions for older releases
 
 **Topic ID**: 19256

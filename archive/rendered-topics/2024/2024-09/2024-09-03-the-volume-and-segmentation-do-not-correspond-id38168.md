@@ -1,3 +1,10 @@
+---
+topic_id: 38168
+title: "The Volume And Segmentation Do Not Correspond"
+date: 2024-09-03
+url: https://discourse.slicer.org/t/38168
+---
+
 # The volume and segmentation do not correspond
 
 **Topic ID**: 38168

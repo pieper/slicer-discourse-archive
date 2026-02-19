@@ -1,3 +1,10 @@
+---
+topic_id: 26086
+title: "How To Create A Color Map Based On The Coordinate Of Pixels"
+date: 2022-11-05
+url: https://discourse.slicer.org/t/26086
+---
+
 # How to create a color map based on the coordinate of pixels
 
 **Topic ID**: 26086

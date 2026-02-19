@@ -1,3 +1,10 @@
+---
+topic_id: 5890
+title: "Fractal Dimension"
+date: 2019-02-22
+url: https://discourse.slicer.org/t/5890
+---
+
 # Fractal dimension
 
 **Topic ID**: 5890

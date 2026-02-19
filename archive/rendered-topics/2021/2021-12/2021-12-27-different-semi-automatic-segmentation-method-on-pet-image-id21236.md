@@ -1,3 +1,10 @@
+---
+topic_id: 21236
+title: "Different Semi Automatic Segmentation Method On Pet Image"
+date: 2021-12-27
+url: https://discourse.slicer.org/t/21236
+---
+
 # Different semi-automatic segmentation method on PET image
 
 **Topic ID**: 21236

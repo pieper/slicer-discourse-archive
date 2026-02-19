@@ -1,3 +1,10 @@
+---
+topic_id: 11732
+title: "New Good First Issue Label In Slicer Issue Tracker"
+date: 2020-05-27
+url: https://discourse.slicer.org/t/11732
+---
+
 # New "good first issue" label in Slicer issue tracker
 
 **Topic ID**: 11732

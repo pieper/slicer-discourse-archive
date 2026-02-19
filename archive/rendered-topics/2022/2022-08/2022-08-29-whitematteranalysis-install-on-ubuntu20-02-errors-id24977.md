@@ -1,3 +1,10 @@
+---
+topic_id: 24977
+title: "Whitematteranalysis Install On Ubuntu20 02 Errors"
+date: 2022-08-29
+url: https://discourse.slicer.org/t/24977
+---
+
 # Whitematteranalysis install on Ubuntu20.02 errors
 
 **Topic ID**: 24977

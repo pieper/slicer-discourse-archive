@@ -1,3 +1,10 @@
+---
+topic_id: 24350
+title: "Change Color Box Within 3D View"
+date: 2022-07-17
+url: https://discourse.slicer.org/t/24350
+---
+
 # Change color box within 3D view
 
 **Topic ID**: 24350

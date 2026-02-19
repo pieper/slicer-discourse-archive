@@ -1,3 +1,10 @@
+---
+topic_id: 10656
+title: "Segment Initialization"
+date: 2020-03-12
+url: https://discourse.slicer.org/t/10656
+---
+
 # Segment initialization
 
 **Topic ID**: 10656

@@ -1,3 +1,10 @@
+---
+topic_id: 42912
+title: "Hide Slice Rectangles In 3D View"
+date: 2025-05-13
+url: https://discourse.slicer.org/t/42912
+---
+
 # Hide slice rectangles in 3D view
 
 **Topic ID**: 42912

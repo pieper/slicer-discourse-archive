@@ -1,3 +1,10 @@
+---
+topic_id: 11994
+title: "Cannot Rename Markupsfiducial In Load Data Window"
+date: 2020-06-11
+url: https://discourse.slicer.org/t/11994
+---
+
 # Cannot rename MarkupsFiducial in load data window
 
 **Topic ID**: 11994

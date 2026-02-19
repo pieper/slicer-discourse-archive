@@ -1,3 +1,10 @@
+---
+topic_id: 14926
+title: "3D Slicer No Reaction After Clicked Install"
+date: 2020-12-07
+url: https://discourse.slicer.org/t/14926
+---
+
 # 3D slicer No reaction after clicked INSTALL
 
 **Topic ID**: 14926

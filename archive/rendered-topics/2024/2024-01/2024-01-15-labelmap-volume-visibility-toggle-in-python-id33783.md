@@ -1,3 +1,10 @@
+---
+topic_id: 33783
+title: "Labelmap Volume Visibility Toggle In Python"
+date: 2024-01-15
+url: https://discourse.slicer.org/t/33783
+---
+
 # Labelmap volume visibility toggle in Python
 
 **Topic ID**: 33783

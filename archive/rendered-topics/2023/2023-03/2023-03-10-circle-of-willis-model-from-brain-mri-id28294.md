@@ -1,3 +1,10 @@
+---
+topic_id: 28294
+title: "Circle Of Willis Model From Brain Mri"
+date: 2023-03-10
+url: https://discourse.slicer.org/t/28294
+---
+
 # Circle of WIllis model from Brain MRI
 
 **Topic ID**: 28294

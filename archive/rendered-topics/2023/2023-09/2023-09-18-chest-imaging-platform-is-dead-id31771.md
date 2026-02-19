@@ -1,3 +1,10 @@
+---
+topic_id: 31771
+title: "Chest Imaging Platform Is Dead"
+date: 2023-09-18
+url: https://discourse.slicer.org/t/31771
+---
+
 # Chest Imaging Platform is dead?
 
 **Topic ID**: 31771

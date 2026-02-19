@@ -1,3 +1,10 @@
+---
+topic_id: 2397
+title: "Slicerexecutionmodel Build System And Infrastructure Updated"
+date: 2018-03-22
+url: https://discourse.slicer.org/t/2397
+---
+
 # SlicerExecutionModel build system and infrastructure updated
 
 **Topic ID**: 2397

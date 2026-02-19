@@ -1,3 +1,10 @@
+---
+topic_id: 22561
+title: "Diameter Reduction Using Centerline"
+date: 2022-03-17
+url: https://discourse.slicer.org/t/22561
+---
+
 # Diameter reduction using Centerline
 
 **Topic ID**: 22561

@@ -1,3 +1,10 @@
+---
+topic_id: 28726
+title: "Run A 3D Slicer Module Multiple Times On Different Scans"
+date: 2023-04-03
+url: https://discourse.slicer.org/t/28726
+---
+
 # Run a 3D Slicer module multiple times on different scans
 
 **Topic ID**: 28726

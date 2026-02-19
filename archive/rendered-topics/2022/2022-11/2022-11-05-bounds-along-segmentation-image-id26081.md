@@ -1,3 +1,10 @@
+---
+topic_id: 26081
+title: "Bounds Along Segmentation Image"
+date: 2022-11-05
+url: https://discourse.slicer.org/t/26081
+---
+
 # Bounds along segmentation image
 
 **Topic ID**: 26081

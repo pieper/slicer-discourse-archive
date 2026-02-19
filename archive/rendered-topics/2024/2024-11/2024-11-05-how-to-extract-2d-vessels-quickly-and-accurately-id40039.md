@@ -1,3 +1,10 @@
+---
+topic_id: 40039
+title: "How To Extract 2D Vessels Quickly And Accurately"
+date: 2024-11-05
+url: https://discourse.slicer.org/t/40039
+---
+
 # How to extract 2D vessels quickly and accurately?
 
 **Topic ID**: 40039

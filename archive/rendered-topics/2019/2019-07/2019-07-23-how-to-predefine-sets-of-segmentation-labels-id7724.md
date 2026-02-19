@@ -1,3 +1,10 @@
+---
+topic_id: 7724
+title: "How To Predefine Sets Of Segmentation Labels"
+date: 2019-07-23
+url: https://discourse.slicer.org/t/7724
+---
+
 # How to predefine sets of segmentation labels?
 
 **Topic ID**: 7724

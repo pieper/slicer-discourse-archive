@@ -1,3 +1,10 @@
+---
+topic_id: 12824
+title: "Centerline Problem"
+date: 2020-08-03
+url: https://discourse.slicer.org/t/12824
+---
+
 # Centerline problem
 
 **Topic ID**: 12824

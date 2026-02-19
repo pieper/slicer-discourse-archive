@@ -1,3 +1,10 @@
+---
+topic_id: 19636
+title: "Resizing Slice View Doesnt Preserve Field Of View"
+date: 2021-09-13
+url: https://discourse.slicer.org/t/19636
+---
+
 # Resizing slice view doesn't preserve field of view
 
 **Topic ID**: 19636

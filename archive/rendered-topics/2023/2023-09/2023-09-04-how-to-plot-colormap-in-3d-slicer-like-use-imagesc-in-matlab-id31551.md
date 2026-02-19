@@ -1,3 +1,10 @@
+---
+topic_id: 31551
+title: "How To Plot Colormap In 3D Slicer Like Use Imagesc In Matlab"
+date: 2023-09-04
+url: https://discourse.slicer.org/t/31551
+---
+
 # How to plot colormap in 3D SLICER，like use imagesc in matlab
 
 **Topic ID**: 31551

@@ -1,3 +1,10 @@
+---
+topic_id: 24331
+title: "Vascular Modeling Toolkit Centerline The Format Of Exported"
+date: 2022-07-15
+url: https://discourse.slicer.org/t/24331
+---
+
 # Vascular Modeling Toolkit: Centerline. The format of exported centerline.
 
 **Topic ID**: 24331

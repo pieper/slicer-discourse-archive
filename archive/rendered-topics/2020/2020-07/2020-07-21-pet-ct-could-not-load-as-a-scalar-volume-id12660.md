@@ -1,3 +1,10 @@
+---
+topic_id: 12660
+title: "Pet Ct Could Not Load As A Scalar Volume"
+date: 2020-07-21
+url: https://discourse.slicer.org/t/12660
+---
+
 # PET/CT "Could not load: ... as a Scalar Volume"
 
 **Topic ID**: 12660

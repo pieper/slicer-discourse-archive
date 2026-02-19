@@ -1,3 +1,10 @@
+---
+topic_id: 6332
+title: "Handle Markups Events From An External Module"
+date: 2019-03-28
+url: https://discourse.slicer.org/t/6332
+---
+
 # Handle Markups events from an external module
 
 **Topic ID**: 6332

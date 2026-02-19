@@ -1,3 +1,10 @@
+---
+topic_id: 25896
+title: "How To Rotate Or Change Orientation Of Plane Node"
+date: 2022-10-25
+url: https://discourse.slicer.org/t/25896
+---
+
 # How to rotate or change orientation of plane node
 
 **Topic ID**: 25896

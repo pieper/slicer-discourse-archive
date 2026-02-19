@@ -1,3 +1,10 @@
+---
+topic_id: 4051
+title: "Volume Rendering Issues With High Resolution Data In 4 9 Nig"
+date: 2018-09-10
+url: https://discourse.slicer.org/t/4051
+---
+
 # Volume rendering issues with high-resolution data in 4.9 nightlies continues with new hardware
 
 **Topic ID**: 4051

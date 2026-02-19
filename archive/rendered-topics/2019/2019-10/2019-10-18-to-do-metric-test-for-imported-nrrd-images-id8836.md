@@ -1,3 +1,10 @@
+---
+topic_id: 8836
+title: "To Do Metric Test For Imported Nrrd Images"
+date: 2019-10-18
+url: https://discourse.slicer.org/t/8836
+---
+
 # To do metric test for imported .nrrd images
 
 **Topic ID**: 8836

@@ -1,3 +1,10 @@
+---
+topic_id: 34837
+title: "Segment Registration And Measure Distance With Heat Map"
+date: 2024-03-12
+url: https://discourse.slicer.org/t/34837
+---
+
 # Segment registration and measure distance with heat map
 
 **Topic ID**: 34837

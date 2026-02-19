@@ -1,3 +1,10 @@
+---
+topic_id: 42788
+title: "3D Print Shoulder Muscles Based On Mri"
+date: 2025-05-04
+url: https://discourse.slicer.org/t/42788
+---
+
 # 3D print shoulder muscles based on MRI
 
 **Topic ID**: 42788

@@ -1,3 +1,10 @@
+---
+topic_id: 20307
+title: "Can We Navigate Through Markups Control Points With Keyboard"
+date: 2021-10-22
+url: https://discourse.slicer.org/t/20307
+---
+
 # Can we navigate through markups control points with keyboard?
 
 **Topic ID**: 20307

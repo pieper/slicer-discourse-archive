@@ -1,3 +1,10 @@
+---
+topic_id: 30556
+title: "Model Plane Cutting"
+date: 2023-07-12
+url: https://discourse.slicer.org/t/30556
+---
+
 # Model Plane Cutting
 
 **Topic ID**: 30556

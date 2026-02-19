@@ -1,3 +1,10 @@
+---
+topic_id: 43824
+title: "Scalar Volumes Loading As Sequences Is There A Way To Fix"
+date: 2025-07-23
+url: https://discourse.slicer.org/t/43824
+---
+
 # Scalar volumes loading as sequences, is there a way to fix?
 
 **Topic ID**: 43824

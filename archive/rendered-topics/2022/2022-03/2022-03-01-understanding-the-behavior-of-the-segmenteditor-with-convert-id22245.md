@@ -1,3 +1,10 @@
+---
+topic_id: 22245
+title: "Understanding The Behavior Of The Segmenteditor With Convert"
+date: 2022-03-01
+url: https://discourse.slicer.org/t/22245
+---
+
 # Understanding the Behavior of the SegmentEditor with converted models
 
 **Topic ID**: 22245

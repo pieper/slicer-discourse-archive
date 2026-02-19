@@ -1,3 +1,10 @@
+---
+topic_id: 11556
+title: "Plastimatch And Python Interactor"
+date: 2020-05-15
+url: https://discourse.slicer.org/t/11556
+---
+
 # Plastimatch and Python Interactor
 
 **Topic ID**: 11556

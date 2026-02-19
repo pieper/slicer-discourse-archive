@@ -1,3 +1,10 @@
+---
+topic_id: 44060
+title: "Shaped Based Or Label Gaussian Interpolator For Segmentation"
+date: 2025-08-12
+url: https://discourse.slicer.org/t/44060
+---
+
 # Shaped-based or label gaussian interpolator for segmentation upsampling
 
 **Topic ID**: 44060

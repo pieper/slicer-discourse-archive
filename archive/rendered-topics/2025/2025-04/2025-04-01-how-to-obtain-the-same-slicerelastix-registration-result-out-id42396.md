@@ -1,3 +1,10 @@
+---
+topic_id: 42396
+title: "How To Obtain The Same Slicerelastix Registration Result Out"
+date: 2025-04-01
+url: https://discourse.slicer.org/t/42396
+---
+
 # How to obtain the same SlicerElastix registration result outside 3DSlicer?
 
 **Topic ID**: 42396

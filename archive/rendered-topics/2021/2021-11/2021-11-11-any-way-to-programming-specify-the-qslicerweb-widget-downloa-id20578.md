@@ -1,3 +1,10 @@
+---
+topic_id: 20578
+title: "Any Way To Programming Specify The Qslicerweb Widget Downloa"
+date: 2021-11-11
+url: https://discourse.slicer.org/t/20578
+---
+
 # Any way to programming specify the qSlicerWeb Widget download file location?
 
 **Topic ID**: 20578

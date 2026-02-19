@@ -1,3 +1,10 @@
+---
+topic_id: 25175
+title: "Upside Down Views From Dental Dicom Images"
+date: 2022-09-09
+url: https://discourse.slicer.org/t/25175
+---
+
 # Upside down views from Dental Dicom images
 
 **Topic ID**: 25175

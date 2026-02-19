@@ -1,3 +1,10 @@
+---
+topic_id: 11569
+title: "Run Slicer In Your Web Browser As A Jupyter Notebook Or As A"
+date: 2020-05-16
+url: https://discourse.slicer.org/t/11569
+---
+
 # Run Slicer in your web browser - as a Jupyter notebook or as a full application
 
 **Topic ID**: 11569

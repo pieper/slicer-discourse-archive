@@ -1,3 +1,10 @@
+---
+topic_id: 6481
+title: "Slicer No Main Window Python Script In Windows Command Promp"
+date: 2019-04-12
+url: https://discourse.slicer.org/t/6481
+---
+
 # Slicer --no-main-window --python-script in windows command prompt not working
 
 **Topic ID**: 6481

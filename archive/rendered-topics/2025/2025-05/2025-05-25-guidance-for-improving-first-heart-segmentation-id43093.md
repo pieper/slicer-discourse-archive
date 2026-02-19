@@ -1,3 +1,10 @@
+---
+topic_id: 43093
+title: "Guidance For Improving First Heart Segmentation"
+date: 2025-05-25
+url: https://discourse.slicer.org/t/43093
+---
+
 # Guidance for improving first heart segmentation
 
 **Topic ID**: 43093

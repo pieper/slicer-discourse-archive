@@ -1,3 +1,10 @@
+---
+topic_id: 19364
+title: "Segment Editor On Large Template"
+date: 2021-08-26
+url: https://discourse.slicer.org/t/19364
+---
+
 # Segment editor on large template
 
 **Topic ID**: 19364

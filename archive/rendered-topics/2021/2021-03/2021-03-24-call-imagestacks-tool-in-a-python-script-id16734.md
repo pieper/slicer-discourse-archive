@@ -1,3 +1,10 @@
+---
+topic_id: 16734
+title: "Call Imagestacks Tool In A Python Script"
+date: 2021-03-24
+url: https://discourse.slicer.org/t/16734
+---
+
 # Call ImageStacks tool in a Python script
 
 **Topic ID**: 16734

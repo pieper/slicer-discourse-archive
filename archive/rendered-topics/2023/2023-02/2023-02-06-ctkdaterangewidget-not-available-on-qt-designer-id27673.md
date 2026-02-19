@@ -1,3 +1,10 @@
+---
+topic_id: 27673
+title: "Ctkdaterangewidget Not Available On Qt Designer"
+date: 2023-02-06
+url: https://discourse.slicer.org/t/27673
+---
+
 # ctkDateRangeWidget not available on Qt Designer
 
 **Topic ID**: 27673

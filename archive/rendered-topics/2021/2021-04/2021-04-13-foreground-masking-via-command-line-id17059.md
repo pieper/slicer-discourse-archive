@@ -1,3 +1,10 @@
+---
+topic_id: 17059
+title: "Foreground Masking Via Command Line"
+date: 2021-04-13
+url: https://discourse.slicer.org/t/17059
+---
+
 # Foreground Masking via command line
 
 **Topic ID**: 17059

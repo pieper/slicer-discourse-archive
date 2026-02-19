@@ -1,3 +1,10 @@
+---
+topic_id: 14474
+title: "Different Between Crop Volume And Segmentation Geometry"
+date: 2020-11-07
+url: https://discourse.slicer.org/t/14474
+---
+
 # Different between Crop Volume and Segmentation geometry
 
 **Topic ID**: 14474

@@ -1,3 +1,10 @@
+---
+topic_id: 30564
+title: "Displaying A Colorbar Across Viewers For Diffusion Scalar Ma"
+date: 2023-07-12
+url: https://discourse.slicer.org/t/30564
+---
+
 # Displaying a colorbar across viewers for diffusion scalar maps on tractography data
 
 **Topic ID**: 30564

@@ -1,3 +1,10 @@
+---
+topic_id: 33347
+title: "How Can I Lengthen Cylinder Model By Long Axis Z Axis"
+date: 2023-12-12
+url: https://discourse.slicer.org/t/33347
+---
+
 # How can i lengthen cylinder model by Long axis(Z axis)
 
 **Topic ID**: 33347

@@ -1,3 +1,10 @@
+---
+topic_id: 28117
+title: "Save Mha And Segmentation Into 1 Tiff File"
+date: 2023-03-01
+url: https://discourse.slicer.org/t/28117
+---
+
 # Save MHA and segmentation into 1 tiff file
 
 **Topic ID**: 28117

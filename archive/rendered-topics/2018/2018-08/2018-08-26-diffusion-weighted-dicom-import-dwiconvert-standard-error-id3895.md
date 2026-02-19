@@ -1,3 +1,10 @@
+---
+topic_id: 3895
+title: "Diffusion Weighted Dicom Import Dwiconvert Standard Error"
+date: 2018-08-26
+url: https://discourse.slicer.org/t/3895
+---
+
 # Diffusion-weighted DICOM Import (DWIConvert) standard error?
 
 **Topic ID**: 3895

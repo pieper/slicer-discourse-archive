@@ -1,3 +1,10 @@
+---
+topic_id: 17873
+title: "Extract Jpg From Dicom File"
+date: 2021-05-31
+url: https://discourse.slicer.org/t/17873
+---
+
 # Extract .jpg from DICOM file
 
 **Topic ID**: 17873

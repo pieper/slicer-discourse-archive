@@ -1,3 +1,10 @@
+---
+topic_id: 30487
+title: "Improving Skeleton And Organ Segmentation Using Python And T"
+date: 2023-07-10
+url: https://discourse.slicer.org/t/30487
+---
+
 # Improving Skeleton and Organ Segmentation Using Python and TotalSegmentator
 
 **Topic ID**: 30487

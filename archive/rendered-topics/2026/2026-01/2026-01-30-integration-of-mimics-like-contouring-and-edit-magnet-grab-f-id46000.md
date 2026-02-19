@@ -1,3 +1,10 @@
+---
+topic_id: 46000
+title: "Integration Of Mimics Like Contouring And Edit Magnet Grab F"
+date: 2026-01-30
+url: https://discourse.slicer.org/t/46000
+---
+
 # Integration of Mimics-like contouring and edit (magnet + grab) functionality into 3D Slicer for segmentation of CT Lumbar bones
 
 **Topic ID**: 46000

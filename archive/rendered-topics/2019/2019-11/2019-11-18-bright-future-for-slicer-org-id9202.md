@@ -1,3 +1,10 @@
+---
+topic_id: 9202
+title: "Bright Future For Slicer Org"
+date: 2019-11-18
+url: https://discourse.slicer.org/t/9202
+---
+
 # Bright future for slicer.org
 
 **Topic ID**: 9202

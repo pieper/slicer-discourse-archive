@@ -1,3 +1,10 @@
+---
+topic_id: 4832
+title: "Fail To Load A Big Tiff Stack"
+date: 2018-11-21
+url: https://discourse.slicer.org/t/4832
+---
+
 # Fail to load a big tiff stack 
 
 **Topic ID**: 4832

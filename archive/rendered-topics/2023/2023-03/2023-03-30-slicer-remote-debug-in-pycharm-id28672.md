@@ -1,3 +1,10 @@
+---
+topic_id: 28672
+title: "Slicer Remote Debug In Pycharm"
+date: 2023-03-30
+url: https://discourse.slicer.org/t/28672
+---
+
 # Slicer remote debug in pycharm
 
 **Topic ID**: 28672

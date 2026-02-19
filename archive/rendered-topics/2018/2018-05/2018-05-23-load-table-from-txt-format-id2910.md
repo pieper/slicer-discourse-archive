@@ -1,3 +1,10 @@
+---
+topic_id: 2910
+title: "Load Table From Txt Format"
+date: 2018-05-23
+url: https://discourse.slicer.org/t/2910
+---
+
 # Load table from txt format
 
 **Topic ID**: 2910

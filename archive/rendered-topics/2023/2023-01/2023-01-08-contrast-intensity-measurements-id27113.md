@@ -1,3 +1,10 @@
+---
+topic_id: 27113
+title: "Contrast Intensity Measurements"
+date: 2023-01-08
+url: https://discourse.slicer.org/t/27113
+---
+
 # Contrast intensity measurements
 
 **Topic ID**: 27113

@@ -1,3 +1,10 @@
+---
+topic_id: 25271
+title: "Remove Annotations Module"
+date: 2022-09-14
+url: https://discourse.slicer.org/t/25271
+---
+
 # Remove Annotations module
 
 **Topic ID**: 25271

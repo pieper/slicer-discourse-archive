@@ -1,3 +1,10 @@
+---
+topic_id: 23094
+title: "Saved Dicom To Nii With Savenode Changes Range Of Intensitie"
+date: 2022-04-23
+url: https://discourse.slicer.org/t/23094
+---
+
 # Saved dicom to nii with saveNode, changes range of intensities and image volume
 
 **Topic ID**: 23094

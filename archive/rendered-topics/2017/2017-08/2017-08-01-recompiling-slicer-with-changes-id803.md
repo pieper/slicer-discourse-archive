@@ -1,3 +1,10 @@
+---
+topic_id: 803
+title: "Recompiling Slicer With Changes"
+date: 2017-08-01
+url: https://discourse.slicer.org/t/803
+---
+
 # Recompiling Slicer with changes
 
 **Topic ID**: 803

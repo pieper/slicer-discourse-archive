@@ -1,3 +1,10 @@
+---
+topic_id: 22985
+title: "No Module Named Xeus Python Shell When Installing Slicerjupy"
+date: 2022-04-16
+url: https://discourse.slicer.org/t/22985
+---
+
 # No module named 'xeus_python_shell' when installing SlicerJupyter on SlicerCAT
 
 **Topic ID**: 22985

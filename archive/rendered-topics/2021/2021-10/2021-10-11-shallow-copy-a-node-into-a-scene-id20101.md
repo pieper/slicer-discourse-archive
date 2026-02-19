@@ -1,3 +1,10 @@
+---
+topic_id: 20101
+title: "Shallow Copy A Node Into A Scene"
+date: 2021-10-11
+url: https://discourse.slicer.org/t/20101
+---
+
 # Shallow copy a node into a scene
 
 **Topic ID**: 20101

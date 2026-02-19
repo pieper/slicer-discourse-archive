@@ -1,3 +1,10 @@
+---
+topic_id: 27147
+title: "Cylinder Fit In The Superior Facies Of The Trochlea Tali For"
+date: 2023-01-09
+url: https://discourse.slicer.org/t/27147
+---
+
 # Cylinder fit in the superior facies of the trochlea tali for local coordinate system
 
 **Topic ID**: 27147

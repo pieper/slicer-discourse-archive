@@ -1,3 +1,10 @@
+---
+topic_id: 5831
+title: "Xml Style For Custom Layout"
+date: 2019-02-19
+url: https://discourse.slicer.org/t/5831
+---
+
 # XML style for custom layout
 
 **Topic ID**: 5831

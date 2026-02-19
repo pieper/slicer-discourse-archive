@@ -1,3 +1,10 @@
+---
+topic_id: 7625
+title: "How To Import Transformed Dicom Data"
+date: 2019-07-17
+url: https://discourse.slicer.org/t/7625
+---
+
 # How to import transformed DICOM data
 
 **Topic ID**: 7625

@@ -1,3 +1,10 @@
+---
+topic_id: 591
+title: "Label Selection"
+date: 2017-06-28
+url: https://discourse.slicer.org/t/591
+---
+
 # Label Selection
 
 **Topic ID**: 591

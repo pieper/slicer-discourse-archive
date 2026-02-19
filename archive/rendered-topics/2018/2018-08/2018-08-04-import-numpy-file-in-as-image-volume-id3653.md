@@ -1,3 +1,10 @@
+---
+topic_id: 3653
+title: "Import Numpy File In As Image Volume"
+date: 2018-08-04
+url: https://discourse.slicer.org/t/3653
+---
+
 # Import Numpy File in as image volume
 
 **Topic ID**: 3653

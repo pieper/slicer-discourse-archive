@@ -1,3 +1,10 @@
+---
+topic_id: 16841
+title: "How To Superimpose And Colour Amp Digital Dental Models In S"
+date: 2021-03-30
+url: https://discourse.slicer.org/t/16841
+---
+
 # how to superimpose and colour amp digital dental models in STL files
 
 **Topic ID**: 16841

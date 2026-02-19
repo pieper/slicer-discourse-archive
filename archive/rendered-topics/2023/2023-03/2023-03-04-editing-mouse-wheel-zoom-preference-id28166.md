@@ -1,3 +1,10 @@
+---
+topic_id: 28166
+title: "Editing Mouse Wheel Zoom Preference"
+date: 2023-03-04
+url: https://discourse.slicer.org/t/28166
+---
+
 # Editing Mouse Wheel Zoom Preference
 
 **Topic ID**: 28166

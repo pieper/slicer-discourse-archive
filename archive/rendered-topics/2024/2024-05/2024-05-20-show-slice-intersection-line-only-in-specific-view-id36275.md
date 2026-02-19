@@ -1,3 +1,10 @@
+---
+topic_id: 36275
+title: "Show Slice Intersection Line Only In Specific View"
+date: 2024-05-20
+url: https://discourse.slicer.org/t/36275
+---
+
 # Show slice intersection line only in specific view
 
 **Topic ID**: 36275

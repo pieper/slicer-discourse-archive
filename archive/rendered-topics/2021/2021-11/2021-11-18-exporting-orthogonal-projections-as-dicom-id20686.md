@@ -1,3 +1,10 @@
+---
+topic_id: 20686
+title: "Exporting Orthogonal Projections As Dicom"
+date: 2021-11-18
+url: https://discourse.slicer.org/t/20686
+---
+
 # Exporting orthogonal projections as DICOM
 
 **Topic ID**: 20686

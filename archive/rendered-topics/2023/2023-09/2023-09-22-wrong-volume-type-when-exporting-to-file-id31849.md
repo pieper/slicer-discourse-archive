@@ -1,3 +1,10 @@
+---
+topic_id: 31849
+title: "Wrong Volume Type When Exporting To File"
+date: 2023-09-22
+url: https://discourse.slicer.org/t/31849
+---
+
 # Wrong volume type when exporting to file
 
 **Topic ID**: 31849

@@ -1,3 +1,10 @@
+---
+topic_id: 39498
+title: "How To Observe Save Button Event"
+date: 2024-10-02
+url: https://discourse.slicer.org/t/39498
+---
+
 # How to observe save button event
 
 **Topic ID**: 39498

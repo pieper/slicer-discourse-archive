@@ -1,3 +1,10 @@
+---
+topic_id: 8999
+title: "How To Calculate An Angle"
+date: 2019-11-03
+url: https://discourse.slicer.org/t/8999
+---
+
 # How to calculate an angle?
 
 **Topic ID**: 8999

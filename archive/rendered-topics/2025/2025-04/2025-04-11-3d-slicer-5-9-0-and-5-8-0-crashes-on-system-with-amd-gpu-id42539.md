@@ -1,3 +1,10 @@
+---
+topic_id: 42539
+title: "3D Slicer 5 9 0 And 5 8 0 Crashes On System With Amd Gpu"
+date: 2025-04-11
+url: https://discourse.slicer.org/t/42539
+---
+
 # 3d slicer 5.9.0 and 5.8.0 crashes on system with amd GPU.
 
 **Topic ID**: 42539

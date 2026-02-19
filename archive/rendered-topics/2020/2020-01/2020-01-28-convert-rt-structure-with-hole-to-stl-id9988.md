@@ -1,3 +1,10 @@
+---
+topic_id: 9988
+title: "Convert Rt Structure With Hole To Stl"
+date: 2020-01-28
+url: https://discourse.slicer.org/t/9988
+---
+
 # Convert rt structure with hole to stl
 
 **Topic ID**: 9988

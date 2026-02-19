@@ -1,3 +1,10 @@
+---
+topic_id: 28082
+title: "Non Linear Transformation Is Ignored In Volume Rendering"
+date: 2023-02-28
+url: https://discourse.slicer.org/t/28082
+---
+
 # Non-linear transformation is ignored in volume rendering
 
 **Topic ID**: 28082

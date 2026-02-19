@@ -1,3 +1,10 @@
+---
+topic_id: 19054
+title: "Dicom Too Large And Upside Down"
+date: 2021-08-04
+url: https://discourse.slicer.org/t/19054
+---
+
 # Dicom too large and upside down
 
 **Topic ID**: 19054

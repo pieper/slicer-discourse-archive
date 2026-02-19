@@ -1,3 +1,10 @@
+---
+topic_id: 40694
+title: "Getting Longest Dimension Of Surface Mesh With Svd"
+date: 2024-12-14
+url: https://discourse.slicer.org/t/40694
+---
+
 # Getting longest dimension of surface mesh with SVD
 
 **Topic ID**: 40694

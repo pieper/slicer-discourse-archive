@@ -1,3 +1,10 @@
+---
+topic_id: 23180
+title: "Multiple Overlapping Centerlines Created By Vmtkcenterlinesn"
+date: 2022-04-28
+url: https://discourse.slicer.org/t/23180
+---
+
 # Multiple overlapping centerlines created by vmtkcenterlinesnetwork
 
 **Topic ID**: 23180

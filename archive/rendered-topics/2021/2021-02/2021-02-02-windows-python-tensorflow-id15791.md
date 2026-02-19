@@ -1,3 +1,10 @@
+---
+topic_id: 15791
+title: "Windows Python Tensorflow"
+date: 2021-02-02
+url: https://discourse.slicer.org/t/15791
+---
+
 # Windows python tensorflow
 
 **Topic ID**: 15791

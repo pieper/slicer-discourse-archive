@@ -1,3 +1,10 @@
+---
+topic_id: 36371
+title: "Is There Recommended Parameters For Breast Mammography In Ya"
+date: 2024-05-24
+url: https://discourse.slicer.org/t/36371
+---
+
 # Is there recommended parameters for breast mammography in .yaml file?
 
 **Topic ID**: 36371

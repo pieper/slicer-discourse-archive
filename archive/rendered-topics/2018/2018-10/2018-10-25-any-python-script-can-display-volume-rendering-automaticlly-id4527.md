@@ -1,3 +1,10 @@
+---
+topic_id: 4527
+title: "Any Python Script Can Display Volume Rendering Automaticlly"
+date: 2018-10-25
+url: https://discourse.slicer.org/t/4527
+---
+
 # Any python script can display volume rendering automaticlly after load the DICOM files?
 
 **Topic ID**: 4527

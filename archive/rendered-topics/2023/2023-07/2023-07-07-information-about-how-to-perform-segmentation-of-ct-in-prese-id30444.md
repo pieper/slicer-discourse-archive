@@ -1,3 +1,10 @@
+---
+topic_id: 30444
+title: "Information About How To Perform Segmentation Of Ct In Prese"
+date: 2023-07-07
+url: https://discourse.slicer.org/t/30444
+---
+
 # Information about how to perform segmentation of CT in presence of pacemaker
 
 **Topic ID**: 30444

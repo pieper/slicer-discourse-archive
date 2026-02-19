@@ -1,3 +1,10 @@
+---
+topic_id: 21927
+title: "Matching Segmentations To Input Volumes"
+date: 2022-02-11
+url: https://discourse.slicer.org/t/21927
+---
+
 # Matching segmentations to input volumes
 
 **Topic ID**: 21927

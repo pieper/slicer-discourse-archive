@@ -1,3 +1,10 @@
+---
+topic_id: 42214
+title: "Issue With Installing Extensions In Slicer Custom App"
+date: 2025-03-19
+url: https://discourse.slicer.org/t/42214
+---
+
 # Issue with Installing Extensions in Slicer Custom App
 
 **Topic ID**: 42214

@@ -1,3 +1,10 @@
+---
+topic_id: 22980
+title: "How To Add The Subject Hierarchy Tree To A Custom Extension"
+date: 2022-04-15
+url: https://discourse.slicer.org/t/22980
+---
+
 # How to add the Subject hierarchy tree to a custom extension
 
 **Topic ID**: 22980

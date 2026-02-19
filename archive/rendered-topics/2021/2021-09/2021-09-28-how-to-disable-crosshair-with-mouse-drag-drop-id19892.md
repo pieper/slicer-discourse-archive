@@ -1,3 +1,10 @@
+---
+topic_id: 19892
+title: "How To Disable Crosshair With Mouse Drag Drop"
+date: 2021-09-28
+url: https://discourse.slicer.org/t/19892
+---
+
 # How to disable Crosshair with mouse drag&drop?
 
 **Topic ID**: 19892

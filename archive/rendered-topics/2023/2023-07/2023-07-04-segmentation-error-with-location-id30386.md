@@ -1,3 +1,10 @@
+---
+topic_id: 30386
+title: "Segmentation Error With Location"
+date: 2023-07-04
+url: https://discourse.slicer.org/t/30386
+---
+
 # Segmentation error with location
 
 **Topic ID**: 30386

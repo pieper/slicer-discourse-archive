@@ -1,3 +1,10 @@
+---
+topic_id: 8538
+title: "Error When Opening Slicer Many Instances Trying To Run"
+date: 2019-09-23
+url: https://discourse.slicer.org/t/8538
+---
+
 # Error when opening slicer - many instances trying to run
 
 **Topic ID**: 8538

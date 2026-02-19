@@ -1,3 +1,10 @@
+---
+topic_id: 43329
+title: "Axial Slice Colour Suddenly Pink How To Reset"
+date: 2025-06-12
+url: https://discourse.slicer.org/t/43329
+---
+
 # Axial slice colour suddenly pink - how to reset?
 
 **Topic ID**: 43329

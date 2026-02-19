@@ -1,3 +1,10 @@
+---
+topic_id: 44255
+title: "Cant Open A Local File On Web Ui"
+date: 2025-08-29
+url: https://discourse.slicer.org/t/44255
+---
+
 # Can't open a local file on web UI?
 
 **Topic ID**: 44255

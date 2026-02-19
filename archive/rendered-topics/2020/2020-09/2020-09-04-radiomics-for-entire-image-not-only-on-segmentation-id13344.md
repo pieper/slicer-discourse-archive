@@ -1,3 +1,10 @@
+---
+topic_id: 13344
+title: "Radiomics For Entire Image Not Only On Segmentation"
+date: 2020-09-04
+url: https://discourse.slicer.org/t/13344
+---
+
 # Radiomics for entire image- not only on segmentation
 
 **Topic ID**: 13344

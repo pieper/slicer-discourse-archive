@@ -1,3 +1,10 @@
+---
+topic_id: 19022
+title: "How To Only Expand One Qformlayout Of The Collapsiblebutton"
+date: 2021-08-02
+url: https://discourse.slicer.org/t/19022
+---
+
 # How to only expand one QFormLayout of the CollapsibleButton which is operating?
 
 **Topic ID**: 19022

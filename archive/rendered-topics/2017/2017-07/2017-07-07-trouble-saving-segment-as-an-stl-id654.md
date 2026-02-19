@@ -1,3 +1,10 @@
+---
+topic_id: 654
+title: "Trouble Saving Segment As An Stl"
+date: 2017-07-07
+url: https://discourse.slicer.org/t/654
+---
+
 # Trouble saving segment as an STL
 
 **Topic ID**: 654

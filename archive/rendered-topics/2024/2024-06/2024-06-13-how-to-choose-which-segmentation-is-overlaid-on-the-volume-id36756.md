@@ -1,3 +1,10 @@
+---
+topic_id: 36756
+title: "How To Choose Which Segmentation Is Overlaid On The Volume"
+date: 2024-06-13
+url: https://discourse.slicer.org/t/36756
+---
+
 # How to choose which segmentation is overlaid on the volume
 
 **Topic ID**: 36756

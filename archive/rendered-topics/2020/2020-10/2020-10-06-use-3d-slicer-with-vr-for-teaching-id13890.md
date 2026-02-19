@@ -1,3 +1,10 @@
+---
+topic_id: 13890
+title: "Use 3D Slicer With Vr For Teaching"
+date: 2020-10-06
+url: https://discourse.slicer.org/t/13890
+---
+
 # Use 3D slicer with VR for teaching
 
 **Topic ID**: 13890

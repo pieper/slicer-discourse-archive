@@ -1,3 +1,10 @@
+---
+topic_id: 6374
+title: "Dental Models Superimposition"
+date: 2019-04-02
+url: https://discourse.slicer.org/t/6374
+---
+
 # Dental models superimposition
 
 **Topic ID**: 6374

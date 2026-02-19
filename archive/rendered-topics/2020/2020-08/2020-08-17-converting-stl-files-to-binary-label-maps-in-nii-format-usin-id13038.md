@@ -1,3 +1,10 @@
+---
+topic_id: 13038
+title: "Converting Stl Files To Binary Label Maps In Nii Format Usin"
+date: 2020-08-17
+url: https://discourse.slicer.org/t/13038
+---
+
 # Converting .stl files to binary label maps in .nii format using Python
 
 **Topic ID**: 13038

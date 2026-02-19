@@ -1,3 +1,10 @@
+---
+topic_id: 10389
+title: "How To Make Segments From Vtkmrmlmodelnode By Code"
+date: 2020-02-22
+url: https://discourse.slicer.org/t/10389
+---
+
 # How to make segments from vtkMRMLModelNode by code
 
 **Topic ID**: 10389

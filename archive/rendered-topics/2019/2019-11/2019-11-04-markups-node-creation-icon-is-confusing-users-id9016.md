@@ -1,3 +1,10 @@
+---
+topic_id: 9016
+title: "Markups Node Creation Icon Is Confusing Users"
+date: 2019-11-04
+url: https://discourse.slicer.org/t/9016
+---
+
 # Markups node creation icon is confusing users
 
 **Topic ID**: 9016

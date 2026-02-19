@@ -1,3 +1,10 @@
+---
+topic_id: 31793
+title: "Segmentation Editor Painting Raises Vtk Error No Input Data"
+date: 2023-09-19
+url: https://discourse.slicer.org/t/31793
+---
+
 # Segmentation Editor: Painting raises VTK error: no input data
 
 **Topic ID**: 31793

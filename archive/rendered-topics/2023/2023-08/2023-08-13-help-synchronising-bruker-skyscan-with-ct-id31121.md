@@ -1,3 +1,10 @@
+---
+topic_id: 31121
+title: "Help Synchronising Bruker Skyscan With Ct"
+date: 2023-08-13
+url: https://discourse.slicer.org/t/31121
+---
+
 # Help synchronising Bruker SkyScan with CT
 
 **Topic ID**: 31121

@@ -1,3 +1,10 @@
+---
+topic_id: 6961
+title: "Matching Two Cranial Mris And Quantify Translations Rotation"
+date: 2019-05-29
+url: https://discourse.slicer.org/t/6961
+---
+
 # Matching two cranial MRIs and quantify translations & rotations between them?
 
 **Topic ID**: 6961

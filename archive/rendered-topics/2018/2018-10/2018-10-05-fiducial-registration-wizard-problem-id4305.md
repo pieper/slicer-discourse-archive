@@ -1,3 +1,10 @@
+---
+topic_id: 4305
+title: "Fiducial Registration Wizard Problem"
+date: 2018-10-05
+url: https://discourse.slicer.org/t/4305
+---
+
 # Fiducial Registration Wizard Problem
 
 **Topic ID**: 4305

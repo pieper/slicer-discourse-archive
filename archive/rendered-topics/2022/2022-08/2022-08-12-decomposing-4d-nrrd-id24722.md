@@ -1,3 +1,10 @@
+---
+topic_id: 24722
+title: "Decomposing 4D Nrrd"
+date: 2022-08-12
+url: https://discourse.slicer.org/t/24722
+---
+
 # Decomposing 4d nrrd
 
 **Topic ID**: 24722

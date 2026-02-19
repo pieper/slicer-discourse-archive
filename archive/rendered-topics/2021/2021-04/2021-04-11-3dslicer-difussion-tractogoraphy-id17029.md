@@ -1,3 +1,10 @@
+---
+topic_id: 17029
+title: "3Dslicer Difussion Tractogoraphy"
+date: 2021-04-11
+url: https://discourse.slicer.org/t/17029
+---
+
 # 3Dslicer Difussion Tractogoraphy
 
 **Topic ID**: 17029

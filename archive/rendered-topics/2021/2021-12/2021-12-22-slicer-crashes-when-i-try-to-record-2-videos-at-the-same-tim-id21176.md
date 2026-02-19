@@ -1,3 +1,10 @@
+---
+topic_id: 21176
+title: "Slicer Crashes When I Try To Record 2 Videos At The Same Tim"
+date: 2021-12-22
+url: https://discourse.slicer.org/t/21176
+---
+
 # Slicer crashes when I try to record 2 videos at the same time
 
 **Topic ID**: 21176

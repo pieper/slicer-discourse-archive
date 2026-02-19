@@ -1,3 +1,10 @@
+---
+topic_id: 7207
+title: "Build Slicer Error Need Your Help"
+date: 2019-06-17
+url: https://discourse.slicer.org/t/7207
+---
+
 # Build slicer error,need your help
 
 **Topic ID**: 7207

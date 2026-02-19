@@ -1,3 +1,10 @@
+---
+topic_id: 16578
+title: "Slicer Jupyter In Slicer 4 11 20210226 Linux"
+date: 2021-03-16
+url: https://discourse.slicer.org/t/16578
+---
+
 # Slicer Jupyter in Slicer 4.11-20210226 Linux
 
 **Topic ID**: 16578

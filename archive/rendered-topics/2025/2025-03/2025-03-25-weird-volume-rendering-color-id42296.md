@@ -1,3 +1,10 @@
+---
+topic_id: 42296
+title: "Weird Volume Rendering Color"
+date: 2025-03-25
+url: https://discourse.slicer.org/t/42296
+---
+
 # Weird volume rendering color
 
 **Topic ID**: 42296

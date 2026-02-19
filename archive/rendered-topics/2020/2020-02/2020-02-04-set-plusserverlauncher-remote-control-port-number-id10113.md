@@ -1,3 +1,10 @@
+---
+topic_id: 10113
+title: "Set Plusserverlauncher Remote Control Port Number"
+date: 2020-02-04
+url: https://discourse.slicer.org/t/10113
+---
+
 # Set PlusServerLauncher remote control port number
 
 **Topic ID**: 10113

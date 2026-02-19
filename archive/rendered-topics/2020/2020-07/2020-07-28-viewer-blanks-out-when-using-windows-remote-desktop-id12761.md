@@ -1,3 +1,10 @@
+---
+topic_id: 12761
+title: "Viewer Blanks Out When Using Windows Remote Desktop"
+date: 2020-07-28
+url: https://discourse.slicer.org/t/12761
+---
+
 # Viewer blanks out when using windows remote desktop 
 
 **Topic ID**: 12761

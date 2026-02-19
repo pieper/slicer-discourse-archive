@@ -1,3 +1,10 @@
+---
+topic_id: 41719
+title: "Syncronize 2D Slices With 3D Camera Focal Point Position In"
+date: 2025-02-15
+url: https://discourse.slicer.org/t/41719
+---
+
 # Syncronize 2d slices with 3d camera focal point position in Endoscopy module
 
 **Topic ID**: 41719

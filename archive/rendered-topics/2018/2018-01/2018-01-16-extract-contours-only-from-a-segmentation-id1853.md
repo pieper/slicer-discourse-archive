@@ -1,3 +1,10 @@
+---
+topic_id: 1853
+title: "Extract Contours Only From A Segmentation"
+date: 2018-01-16
+url: https://discourse.slicer.org/t/1853
+---
+
 # Extract contours only from a segmentation
 
 **Topic ID**: 1853

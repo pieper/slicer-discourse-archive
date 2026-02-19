@@ -1,3 +1,10 @@
+---
+topic_id: 28277
+title: "Add Data Dialog Box Appears Black The Second Time Its Opened"
+date: 2023-03-10
+url: https://discourse.slicer.org/t/28277
+---
+
 # Add Data dialog box appears black the second time it's opened
 
 **Topic ID**: 28277

@@ -1,3 +1,10 @@
+---
+topic_id: 4004
+title: "Import Nifti Tensor"
+date: 2018-09-06
+url: https://discourse.slicer.org/t/4004
+---
+
 # Import NIFTI tensor
 
 **Topic ID**: 4004

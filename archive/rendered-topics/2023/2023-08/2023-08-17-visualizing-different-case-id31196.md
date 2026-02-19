@@ -1,3 +1,10 @@
+---
+topic_id: 31196
+title: "Visualizing Different Case"
+date: 2023-08-17
+url: https://discourse.slicer.org/t/31196
+---
+
 # Visualizing different case
 
 **Topic ID**: 31196

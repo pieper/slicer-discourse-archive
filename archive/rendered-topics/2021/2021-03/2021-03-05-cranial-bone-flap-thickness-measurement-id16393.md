@@ -1,3 +1,10 @@
+---
+topic_id: 16393
+title: "Cranial Bone Flap Thickness Measurement"
+date: 2021-03-05
+url: https://discourse.slicer.org/t/16393
+---
+
 # Cranial Bone flap Thickness Measurement
 
 **Topic ID**: 16393

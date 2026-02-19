@@ -1,3 +1,10 @@
+---
+topic_id: 5489
+title: "Extract Transfer Function From Color Table"
+date: 2019-01-23
+url: https://discourse.slicer.org/t/5489
+---
+
 # Extract Transfer Function from Color Table
 
 **Topic ID**: 5489

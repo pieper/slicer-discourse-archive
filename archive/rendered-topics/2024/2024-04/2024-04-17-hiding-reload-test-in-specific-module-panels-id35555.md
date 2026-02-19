@@ -1,3 +1,10 @@
+---
+topic_id: 35555
+title: "Hiding Reload Test In Specific Module Panels"
+date: 2024-04-17
+url: https://discourse.slicer.org/t/35555
+---
+
 # Hiding "Reload & Test" in Specific Module Panels
 
 **Topic ID**: 35555

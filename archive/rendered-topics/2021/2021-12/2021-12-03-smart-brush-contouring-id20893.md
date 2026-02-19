@@ -1,3 +1,10 @@
+---
+topic_id: 20893
+title: "Smart Brush Contouring"
+date: 2021-12-03
+url: https://discourse.slicer.org/t/20893
+---
+
 # Smart Brush contouring
 
 **Topic ID**: 20893

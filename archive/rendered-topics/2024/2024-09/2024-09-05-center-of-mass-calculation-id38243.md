@@ -1,3 +1,10 @@
+---
+topic_id: 38243
+title: "Center Of Mass Calculation"
+date: 2024-09-05
+url: https://discourse.slicer.org/t/38243
+---
+
 # Center of mass calculation
 
 **Topic ID**: 38243

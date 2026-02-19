@@ -1,3 +1,10 @@
+---
+topic_id: 5304
+title: "Relationship Between Segmenteditorwidget And Segmenteditorno"
+date: 2019-01-07
+url: https://discourse.slicer.org/t/5304
+---
+
 # Relationship between SegmentEditorWidget and SegmentEditorNode?
 
 **Topic ID**: 5304

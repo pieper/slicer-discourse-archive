@@ -1,3 +1,10 @@
+---
+topic_id: 2049
+title: "Siemens Pet Ct Files"
+date: 2018-02-07
+url: https://discourse.slicer.org/t/2049
+---
+
 # Siemens PET/CT files
 
 **Topic ID**: 2049

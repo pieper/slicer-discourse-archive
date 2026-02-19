@@ -1,3 +1,10 @@
+---
+topic_id: 21799
+title: "How To Add 3D Slicer Extension Manually"
+date: 2022-02-04
+url: https://discourse.slicer.org/t/21799
+---
+
 # How to add 3D Slicer extension manually?
 
 **Topic ID**: 21799

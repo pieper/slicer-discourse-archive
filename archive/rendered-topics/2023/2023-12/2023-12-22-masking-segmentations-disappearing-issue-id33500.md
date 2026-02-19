@@ -1,3 +1,10 @@
+---
+topic_id: 33500
+title: "Masking Segmentations Disappearing Issue"
+date: 2023-12-22
+url: https://discourse.slicer.org/t/33500
+---
+
 # Masking/segmentations disappearing issue
 
 **Topic ID**: 33500

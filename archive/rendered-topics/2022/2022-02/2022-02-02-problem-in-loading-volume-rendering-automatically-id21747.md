@@ -1,3 +1,10 @@
+---
+topic_id: 21747
+title: "Problem In Loading Volume Rendering Automatically"
+date: 2022-02-02
+url: https://discourse.slicer.org/t/21747
+---
+
 # Problem in loading volume rendering automatically
 
 **Topic ID**: 21747

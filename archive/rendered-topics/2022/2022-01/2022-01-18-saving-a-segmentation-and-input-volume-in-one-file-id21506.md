@@ -1,3 +1,10 @@
+---
+topic_id: 21506
+title: "Saving A Segmentation And Input Volume In One File"
+date: 2022-01-18
+url: https://discourse.slicer.org/t/21506
+---
+
 # Saving a segmentation and input volume in one file
 
 **Topic ID**: 21506

@@ -1,3 +1,10 @@
+---
+topic_id: 43190
+title: "Incorrect Values When Converting Segmentation To Binary Labe"
+date: 2025-06-02
+url: https://discourse.slicer.org/t/43190
+---
+
 # Incorrect values when converting segmentation to binary labelmap
 
 **Topic ID**: 43190

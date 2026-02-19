@@ -1,3 +1,10 @@
+---
+topic_id: 10850
+title: "No Mac Extensions Today 2020 03 26"
+date: 2020-03-26
+url: https://discourse.slicer.org/t/10850
+---
+
 # No mac extensions today - 2020-03-26
 
 **Topic ID**: 10850

@@ -1,3 +1,10 @@
+---
+topic_id: 43017
+title: "Make It Possible To Pan In Flood Fill"
+date: 2025-05-21
+url: https://discourse.slicer.org/t/43017
+---
+
 # Make it possible to pan in Flood Fill
 
 **Topic ID**: 43017

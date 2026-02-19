@@ -1,3 +1,10 @@
+---
+topic_id: 7094
+title: "Import Segmentation Nodes Seperately"
+date: 2019-06-09
+url: https://discourse.slicer.org/t/7094
+---
+
 # Import segmentation nodes seperately
 
 **Topic ID**: 7094

@@ -1,3 +1,10 @@
+---
+topic_id: 3732
+title: "Multivolume Explorer And Segment Editor Error"
+date: 2018-08-11
+url: https://discourse.slicer.org/t/3732
+---
+
 # MultiVolume Explorer and Segment Editor Error
 
 **Topic ID**: 3732

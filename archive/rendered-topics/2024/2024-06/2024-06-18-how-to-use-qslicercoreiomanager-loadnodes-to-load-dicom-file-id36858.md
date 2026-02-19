@@ -1,3 +1,10 @@
+---
+topic_id: 36858
+title: "How To Use Qslicercoreiomanager Loadnodes To Load Dicom File"
+date: 2024-06-18
+url: https://discourse.slicer.org/t/36858
+---
+
 # How to use qSlicerCoreIOManager::loadNodes to load dicom files by cpp
 
 **Topic ID**: 36858

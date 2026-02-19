@@ -1,3 +1,10 @@
+---
+topic_id: 24282
+title: "Current Tbb 2021 Is Not Supported By Gcc 9 Or 10 With Std Ex"
+date: 2022-07-12
+url: https://discourse.slicer.org/t/24282
+---
+
 # Current TBB 2021 is not supported by GCC 9 or 10 with `std::execution`
 
 **Topic ID**: 24282

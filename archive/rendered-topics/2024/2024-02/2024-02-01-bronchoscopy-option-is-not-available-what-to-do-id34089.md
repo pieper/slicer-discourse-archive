@@ -1,3 +1,10 @@
+---
+topic_id: 34089
+title: "Bronchoscopy Option Is Not Available What To Do"
+date: 2024-02-01
+url: https://discourse.slicer.org/t/34089
+---
+
 # bronchoscopy option is not available? what to do?
 
 **Topic ID**: 34089

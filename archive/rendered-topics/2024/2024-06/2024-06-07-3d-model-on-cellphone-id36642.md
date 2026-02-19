@@ -1,3 +1,10 @@
+---
+topic_id: 36642
+title: "3D Model On Cellphone"
+date: 2024-06-07
+url: https://discourse.slicer.org/t/36642
+---
+
 # 3D model on cellphone 
 
 **Topic ID**: 36642

@@ -1,3 +1,10 @@
+---
+topic_id: 27365
+title: "Markupsline Not Showing Length Measurement"
+date: 2023-01-19
+url: https://discourse.slicer.org/t/27365
+---
+
 # MarkupsLine not showing length measurement?
 
 **Topic ID**: 27365

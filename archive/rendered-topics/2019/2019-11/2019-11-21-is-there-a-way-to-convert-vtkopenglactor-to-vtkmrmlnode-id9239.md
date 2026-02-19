@@ -1,3 +1,10 @@
+---
+topic_id: 9239
+title: "Is There A Way To Convert Vtkopenglactor To Vtkmrmlnode"
+date: 2019-11-21
+url: https://discourse.slicer.org/t/9239
+---
+
 # Is there a way to convert vtkOpenGLActor to vtkMrmlNode?
 
 **Topic ID**: 9239

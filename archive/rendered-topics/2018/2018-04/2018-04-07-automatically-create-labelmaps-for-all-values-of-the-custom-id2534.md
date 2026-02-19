@@ -1,3 +1,10 @@
+---
+topic_id: 2534
+title: "Automatically Create Labelmaps For All Values Of The Custom"
+date: 2018-04-07
+url: https://discourse.slicer.org/t/2534
+---
+
 # Automatically create labelmaps for all values of the custom LUT
 
 **Topic ID**: 2534

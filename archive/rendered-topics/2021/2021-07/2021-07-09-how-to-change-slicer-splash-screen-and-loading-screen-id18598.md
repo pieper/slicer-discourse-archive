@@ -1,3 +1,10 @@
+---
+topic_id: 18598
+title: "How To Change Slicer Splash Screen And Loading Screen"
+date: 2021-07-09
+url: https://discourse.slicer.org/t/18598
+---
+
 # How to change slicer splash screen and loading screen?
 
 **Topic ID**: 18598

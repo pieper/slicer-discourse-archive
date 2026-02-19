@@ -1,3 +1,10 @@
+---
+topic_id: 12918
+title: "No Mac Extensions"
+date: 2020-08-09
+url: https://discourse.slicer.org/t/12918
+---
+
 # No Mac extensions
 
 **Topic ID**: 12918

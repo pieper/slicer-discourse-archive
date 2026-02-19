@@ -1,3 +1,10 @@
+---
+topic_id: 3618
+title: "How Can I Convert Nifti Files To Nrrd Files Without Bvec Nor"
+date: 2018-07-31
+url: https://discourse.slicer.org/t/3618
+---
+
 # How can I convert NIFTI files to NRRD files without .bvec nor .bval files?
 
 **Topic ID**: 3618

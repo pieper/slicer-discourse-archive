@@ -1,3 +1,10 @@
+---
+topic_id: 18327
+title: "Add Signature To Segmentation"
+date: 2021-06-24
+url: https://discourse.slicer.org/t/18327
+---
+
 # Add signature to segmentation
 
 **Topic ID**: 18327

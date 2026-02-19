@@ -1,3 +1,10 @@
+---
+topic_id: 27898
+title: "Stl File Stores The Annotation Results Of Ct Data And I Want"
+date: 2023-02-18
+url: https://discourse.slicer.org/t/27898
+---
+
 # stl file stores the annotation results of CT data, and I want to convert it to nii format for deep learning.
 
 **Topic ID**: 27898

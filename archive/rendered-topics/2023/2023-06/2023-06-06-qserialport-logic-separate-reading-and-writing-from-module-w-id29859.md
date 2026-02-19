@@ -1,3 +1,10 @@
+---
+topic_id: 29859
+title: "Qserialport Logic Separate Reading And Writing From Module W"
+date: 2023-06-06
+url: https://discourse.slicer.org/t/29859
+---
+
 # QSerialPort logic (separate reading and writing from module widget)
 
 **Topic ID**: 29859

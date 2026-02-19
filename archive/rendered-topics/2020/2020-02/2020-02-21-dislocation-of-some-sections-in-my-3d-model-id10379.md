@@ -1,3 +1,10 @@
+---
+topic_id: 10379
+title: "Dislocation Of Some Sections In My 3D Model"
+date: 2020-02-21
+url: https://discourse.slicer.org/t/10379
+---
+
 # Dislocation of some sections in my 3D model
 
 **Topic ID**: 10379

@@ -1,3 +1,10 @@
+---
+topic_id: 40583
+title: "Automatic Segmentation For Thyroid Cancer With I 131 In 3D S"
+date: 2024-12-09
+url: https://discourse.slicer.org/t/40583
+---
+
 # Automatic Segmentation for Thyroid Cancer with I-131 in 3D Slicer
 
 **Topic ID**: 40583

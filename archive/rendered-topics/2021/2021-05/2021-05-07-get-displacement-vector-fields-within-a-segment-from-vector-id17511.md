@@ -1,3 +1,10 @@
+---
+topic_id: 17511
+title: "Get Displacement Vector Fields Within A Segment From Vector"
+date: 2021-05-07
+url: https://discourse.slicer.org/t/17511
+---
+
 # Get displacement vector fields within a segment from vector volume
 
 **Topic ID**: 17511

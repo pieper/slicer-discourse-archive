@@ -1,3 +1,10 @@
+---
+topic_id: 5940
+title: "Improvement Display 3D"
+date: 2019-02-27
+url: https://discourse.slicer.org/t/5940
+---
+
 # Improvement display 3d
 
 **Topic ID**: 5940

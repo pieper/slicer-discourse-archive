@@ -1,3 +1,10 @@
+---
+topic_id: 2580
+title: "Merging Volumes What To Do After Landmark Registration"
+date: 2018-04-13
+url: https://discourse.slicer.org/t/2580
+---
+
 # Merging volumes - what to do after landmark registration
 
 **Topic ID**: 2580

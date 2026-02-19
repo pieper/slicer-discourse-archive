@@ -1,3 +1,10 @@
+---
+topic_id: 42123
+title: "Simulating Ultrasound From Ct"
+date: 2025-03-14
+url: https://discourse.slicer.org/t/42123
+---
+
 # Simulating ultrasound from CT
 
 **Topic ID**: 42123

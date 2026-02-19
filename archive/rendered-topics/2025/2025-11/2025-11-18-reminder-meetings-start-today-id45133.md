@@ -1,3 +1,10 @@
+---
+topic_id: 45133
+title: "Reminder Meetings Start Today"
+date: 2025-11-18
+url: https://discourse.slicer.org/t/45133
+---
+
 # Reminder: Meetings start today!
 
 **Topic ID**: 45133

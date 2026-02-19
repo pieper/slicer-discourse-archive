@@ -1,3 +1,10 @@
+---
+topic_id: 10670
+title: "Dependent Extension Vtkslicermarkupsmodulemrml Cannot Be Fou"
+date: 2020-03-13
+url: https://discourse.slicer.org/t/10670
+---
+
 # Dependent extension vtkSlicerMarkupsModuleMRML cannot be found by CMake
 
 **Topic ID**: 10670

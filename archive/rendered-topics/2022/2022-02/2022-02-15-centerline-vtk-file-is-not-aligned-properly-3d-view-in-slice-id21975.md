@@ -1,3 +1,10 @@
+---
+topic_id: 21975
+title: "Centerline Vtk File Is Not Aligned Properly 3D View In Slice"
+date: 2022-02-15
+url: https://discourse.slicer.org/t/21975
+---
+
 # CenterLine.vtk file is not aligned properly 3D view in slicer4.13
 
 **Topic ID**: 21975

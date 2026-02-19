@@ -1,3 +1,10 @@
+---
+topic_id: 23143
+title: "Loading A Nifti Dicom Changes All The Other Windows"
+date: 2022-04-27
+url: https://discourse.slicer.org/t/23143
+---
+
 # Loading a nifti/dicom changes all the other windows
 
 **Topic ID**: 23143

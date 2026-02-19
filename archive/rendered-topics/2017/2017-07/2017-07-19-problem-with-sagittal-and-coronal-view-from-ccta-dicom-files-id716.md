@@ -1,3 +1,10 @@
+---
+topic_id: 716
+title: "Problem With Sagittal And Coronal View From Ccta Dicom Files"
+date: 2017-07-19
+url: https://discourse.slicer.org/t/716
+---
+
 # Problem with sagittal and coronal view from CCTA DICOM files
 
 **Topic ID**: 716

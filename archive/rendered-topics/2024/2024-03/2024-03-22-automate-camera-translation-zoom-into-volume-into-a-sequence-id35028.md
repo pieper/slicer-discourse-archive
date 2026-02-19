@@ -1,3 +1,10 @@
+---
+topic_id: 35028
+title: "Automate Camera Translation Zoom Into Volume Into A Sequence"
+date: 2024-03-22
+url: https://discourse.slicer.org/t/35028
+---
+
 # Automate camera translation (zoom into volume) into a sequence
 
 **Topic ID**: 35028

@@ -1,3 +1,10 @@
+---
+topic_id: 45239
+title: "Trouble Loading Nrrd File In Slicer 5 10 0 As Sequence"
+date: 2025-11-26
+url: https://discourse.slicer.org/t/45239
+---
+
 # Trouble loading .nrrd file in Slicer 5.10.0 as sequence
 
 **Topic ID**: 45239

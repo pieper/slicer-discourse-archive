@@ -1,3 +1,10 @@
+---
+topic_id: 34825
+title: "Converting A 2D Numpy Array To A Vtk Image"
+date: 2024-03-11
+url: https://discourse.slicer.org/t/34825
+---
+
 # Converting a 2D numpy array to a VTK image
 
 **Topic ID**: 34825

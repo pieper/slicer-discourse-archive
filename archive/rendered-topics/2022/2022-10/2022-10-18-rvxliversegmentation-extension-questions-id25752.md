@@ -1,3 +1,10 @@
+---
+topic_id: 25752
+title: "Rvxliversegmentation Extension Questions"
+date: 2022-10-18
+url: https://discourse.slicer.org/t/25752
+---
+
 # RVXLiverSegmentation extension questions
 
 **Topic ID**: 25752

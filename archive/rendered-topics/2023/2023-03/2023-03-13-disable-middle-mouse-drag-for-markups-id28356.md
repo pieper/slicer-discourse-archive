@@ -1,3 +1,10 @@
+---
+topic_id: 28356
+title: "Disable Middle Mouse Drag For Markups"
+date: 2023-03-13
+url: https://discourse.slicer.org/t/28356
+---
+
 # Disable middle-mouse drag for markups
 
 **Topic ID**: 28356

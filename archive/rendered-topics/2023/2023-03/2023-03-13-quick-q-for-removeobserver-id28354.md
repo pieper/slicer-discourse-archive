@@ -1,3 +1,10 @@
+---
+topic_id: 28354
+title: "Quick Q For Removeobserver"
+date: 2023-03-13
+url: https://discourse.slicer.org/t/28354
+---
+
 # Quick Q for RemoveObserver
 
 **Topic ID**: 28354

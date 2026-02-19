@@ -1,3 +1,10 @@
+---
+topic_id: 17251
+title: "Convert Nrrd To Dicom"
+date: 2021-04-22
+url: https://discourse.slicer.org/t/17251
+---
+
 # Convert NRRD to DICOM
 
 **Topic ID**: 17251

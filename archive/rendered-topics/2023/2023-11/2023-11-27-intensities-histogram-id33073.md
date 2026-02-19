@@ -1,3 +1,10 @@
+---
+topic_id: 33073
+title: "Intensities Histogram"
+date: 2023-11-27
+url: https://discourse.slicer.org/t/33073
+---
+
 # Intensities histogram
 
 **Topic ID**: 33073

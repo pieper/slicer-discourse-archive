@@ -1,3 +1,10 @@
+---
+topic_id: 36245
+title: "How To Computer Normals From A Model"
+date: 2024-05-18
+url: https://discourse.slicer.org/t/36245
+---
+
 # How to computer normals from a Model
 
 **Topic ID**: 36245

@@ -1,3 +1,10 @@
+---
+topic_id: 43318
+title: "Cranial Implant Reconstruction"
+date: 2025-06-11
+url: https://discourse.slicer.org/t/43318
+---
+
 # Cranial Implant Reconstruction
 
 **Topic ID**: 43318

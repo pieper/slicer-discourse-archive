@@ -1,3 +1,10 @@
+---
+topic_id: 15850
+title: "Features Value Mean And Variance"
+date: 2021-02-04
+url: https://discourse.slicer.org/t/15850
+---
+
 # Features value (mean and variance)
 
 **Topic ID**: 15850

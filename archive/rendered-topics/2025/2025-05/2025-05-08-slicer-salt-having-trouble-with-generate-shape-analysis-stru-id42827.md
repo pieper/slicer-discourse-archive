@@ -1,3 +1,10 @@
+---
+topic_id: 42827
+title: "Slicer Salt Having Trouble With Generate Shape Analysis Stru"
+date: 2025-05-08
+url: https://discourse.slicer.org/t/42827
+---
+
 # SLICER SALT .... having trouble with "Generate Shape Analysis Structure"
 
 **Topic ID**: 42827

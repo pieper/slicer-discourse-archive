@@ -1,3 +1,10 @@
+---
+topic_id: 11010
+title: "Bone Mineral Density Bmd Measurement Method"
+date: 2020-04-06
+url: https://discourse.slicer.org/t/11010
+---
+
 # Bone Mineral Density (BMD) measurement method
 
 **Topic ID**: 11010

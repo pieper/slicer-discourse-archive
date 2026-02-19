@@ -1,3 +1,10 @@
+---
+topic_id: 27075
+title: "How Can I Use Slicer Python Functions In My Docker Python Pr"
+date: 2023-01-06
+url: https://discourse.slicer.org/t/27075
+---
+
 # How can I use slicer python functions in my docker python programs?
 
 **Topic ID**: 27075

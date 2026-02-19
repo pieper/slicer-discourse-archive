@@ -1,3 +1,10 @@
+---
+topic_id: 4663
+title: "Is Xcode Required To Use Slicer On Mac"
+date: 2018-11-06
+url: https://discourse.slicer.org/t/4663
+---
+
 # Is XCode required to use Slicer on mac?
 
 **Topic ID**: 4663

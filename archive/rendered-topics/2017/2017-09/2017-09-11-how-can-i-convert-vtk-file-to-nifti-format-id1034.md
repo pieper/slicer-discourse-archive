@@ -1,3 +1,10 @@
+---
+topic_id: 1034
+title: "How Can I Convert Vtk File To Nifti Format"
+date: 2017-09-11
+url: https://discourse.slicer.org/t/1034
+---
+
 # How Can I Convert VTK file to nifti format?
 
 **Topic ID**: 1034

@@ -1,3 +1,10 @@
+---
+topic_id: 4496
+title: "Radiomics Extension And Butterworth Filter"
+date: 2018-10-23
+url: https://discourse.slicer.org/t/4496
+---
+
 # Radiomics Extension and Butterworth Filter
 
 **Topic ID**: 4496

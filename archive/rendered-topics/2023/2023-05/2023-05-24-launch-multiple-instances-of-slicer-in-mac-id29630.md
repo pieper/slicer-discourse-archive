@@ -1,3 +1,10 @@
+---
+topic_id: 29630
+title: "Launch Multiple Instances Of Slicer In Mac"
+date: 2023-05-24
+url: https://discourse.slicer.org/t/29630
+---
+
 # Launch multiple instances of Slicer in Mac
 
 **Topic ID**: 29630

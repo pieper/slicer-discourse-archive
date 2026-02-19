@@ -1,3 +1,10 @@
+---
+topic_id: 23845
+title: "Some Problems About Segpostprocess"
+date: 2022-06-13
+url: https://discourse.slicer.org/t/23845
+---
+
 # Some problems about SegPostProcess
 
 **Topic ID**: 23845

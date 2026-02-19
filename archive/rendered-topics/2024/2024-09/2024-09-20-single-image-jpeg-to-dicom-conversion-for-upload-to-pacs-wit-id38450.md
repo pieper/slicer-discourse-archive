@@ -1,3 +1,10 @@
+---
+topic_id: 38450
+title: "Single Image Jpeg To Dicom Conversion For Upload To Pacs Wit"
+date: 2024-09-20
+url: https://discourse.slicer.org/t/38450
+---
+
 # Single image JPEG to DICOM conversion for upload to PACS with patient information
 
 **Topic ID**: 38450

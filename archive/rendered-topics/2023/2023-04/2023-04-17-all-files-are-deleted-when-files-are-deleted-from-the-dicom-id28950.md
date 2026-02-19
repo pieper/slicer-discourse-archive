@@ -1,3 +1,10 @@
+---
+topic_id: 28950
+title: "All Files Are Deleted When Files Are Deleted From The Dicom"
+date: 2023-04-17
+url: https://discourse.slicer.org/t/28950
+---
+
 # All files are deleted when files are deleted from the DICOM database
 
 **Topic ID**: 28950

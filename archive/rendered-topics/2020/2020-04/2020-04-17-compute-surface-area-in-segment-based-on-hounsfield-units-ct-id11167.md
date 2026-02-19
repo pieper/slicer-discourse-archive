@@ -1,3 +1,10 @@
+---
+topic_id: 11167
+title: "Compute Surface Area In Segment Based On Hounsfield Units Ct"
+date: 2020-04-17
+url: https://discourse.slicer.org/t/11167
+---
+
 # Compute surface area in segment based on Hounsfield units (CT-images)
 
 **Topic ID**: 11167

@@ -1,3 +1,10 @@
+---
+topic_id: 44822
+title: "How To Anonymize A Scene"
+date: 2025-10-20
+url: https://discourse.slicer.org/t/44822
+---
+
 # How to anonymize a scene
 
 **Topic ID**: 44822

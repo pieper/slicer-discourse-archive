@@ -1,3 +1,10 @@
+---
+topic_id: 15985
+title: "Define Borders Between Bones"
+date: 2021-02-14
+url: https://discourse.slicer.org/t/15985
+---
+
 # Define borders between bones
 
 **Topic ID**: 15985

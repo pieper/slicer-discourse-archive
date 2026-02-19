@@ -1,3 +1,10 @@
+---
+topic_id: 11324
+title: "Drr Generation From 3D Ct Volume"
+date: 2020-04-28
+url: https://discourse.slicer.org/t/11324
+---
+
 # DRR Generation from 3D CT Volume
 
 **Topic ID**: 11324

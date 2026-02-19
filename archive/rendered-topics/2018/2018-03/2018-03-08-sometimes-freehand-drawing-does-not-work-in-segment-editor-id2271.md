@@ -1,3 +1,10 @@
+---
+topic_id: 2271
+title: "Sometimes Freehand Drawing Does Not Work In Segment Editor"
+date: 2018-03-08
+url: https://discourse.slicer.org/t/2271
+---
+
 # Sometimes freehand drawing does not work in Segment editor
 
 **Topic ID**: 2271

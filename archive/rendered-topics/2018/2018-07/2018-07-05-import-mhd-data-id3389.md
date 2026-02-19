@@ -1,3 +1,10 @@
+---
+topic_id: 3389
+title: "Import Mhd Data"
+date: 2018-07-05
+url: https://discourse.slicer.org/t/3389
+---
+
 # Import mhd data
 
 **Topic ID**: 3389

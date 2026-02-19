@@ -1,3 +1,10 @@
+---
+topic_id: 31635
+title: "How To Make A Translucent Model Suitable For Scientific Publ"
+date: 2023-09-09
+url: https://discourse.slicer.org/t/31635
+---
+
 # How to make a translucent model suitable for scientific publication
 
 **Topic ID**: 31635

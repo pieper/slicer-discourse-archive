@@ -1,3 +1,10 @@
+---
+topic_id: 16107
+title: "Robust Icp Alignment Tool"
+date: 2021-02-20
+url: https://discourse.slicer.org/t/16107
+---
+
 # Robust ICP alignment tool
 
 **Topic ID**: 16107

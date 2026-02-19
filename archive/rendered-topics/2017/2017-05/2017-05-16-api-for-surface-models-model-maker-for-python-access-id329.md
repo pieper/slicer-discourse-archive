@@ -1,3 +1,10 @@
+---
+topic_id: 329
+title: "Api For Surface Models Model Maker For Python Access"
+date: 2017-05-16
+url: https://discourse.slicer.org/t/329
+---
+
 # API for Surface Models -> Model Maker for Python Access?
 
 **Topic ID**: 329

@@ -1,3 +1,10 @@
+---
+topic_id: 8158
+title: "Fail To Load Pet Ct Gemini"
+date: 2019-08-24
+url: https://discourse.slicer.org/t/8158
+---
+
 # Fail to load pet/ct Gemini
 
 **Topic ID**: 8158

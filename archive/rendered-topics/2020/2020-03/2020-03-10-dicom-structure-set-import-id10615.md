@@ -1,3 +1,10 @@
+---
+topic_id: 10615
+title: "Dicom Structure Set Import"
+date: 2020-03-10
+url: https://discourse.slicer.org/t/10615
+---
+
 # DICOM structure set import
 
 **Topic ID**: 10615

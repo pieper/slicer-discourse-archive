@@ -1,3 +1,10 @@
+---
+topic_id: 20204
+title: "How To Create Trabecular Porous Structure"
+date: 2021-10-18
+url: https://discourse.slicer.org/t/20204
+---
+
 # How to create trabecular-porous structure
 
 **Topic ID**: 20204

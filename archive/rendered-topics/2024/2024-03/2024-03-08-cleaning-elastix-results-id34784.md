@@ -1,3 +1,10 @@
+---
+topic_id: 34784
+title: "Cleaning Elastix Results"
+date: 2024-03-08
+url: https://discourse.slicer.org/t/34784
+---
+
 # Cleaning elastix results
 
 **Topic ID**: 34784

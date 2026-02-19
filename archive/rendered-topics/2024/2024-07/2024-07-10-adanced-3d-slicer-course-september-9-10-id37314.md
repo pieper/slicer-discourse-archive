@@ -1,3 +1,10 @@
+---
+topic_id: 37314
+title: "Adanced 3D Slicer Course September 9 10"
+date: 2024-07-10
+url: https://discourse.slicer.org/t/37314
+---
+
 # Adanced 3D Slicer Course : September 9-10
 
 **Topic ID**: 37314

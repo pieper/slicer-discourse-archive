@@ -1,3 +1,10 @@
+---
+topic_id: 43237
+title: "Loading Deca Module"
+date: 2025-06-05
+url: https://discourse.slicer.org/t/43237
+---
+
 # Loading DeCA module
 
 **Topic ID**: 43237

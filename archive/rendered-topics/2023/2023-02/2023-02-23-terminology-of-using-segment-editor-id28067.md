@@ -1,3 +1,10 @@
+---
+topic_id: 28067
+title: "Terminology Of Using Segment Editor"
+date: 2023-02-23
+url: https://discourse.slicer.org/t/28067
+---
+
 # Terminology of using Segment Editor
 
 **Topic ID**: 28067

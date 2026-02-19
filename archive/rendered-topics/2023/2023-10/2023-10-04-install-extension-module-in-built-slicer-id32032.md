@@ -1,3 +1,10 @@
+---
+topic_id: 32032
+title: "Install Extension Module In Built Slicer"
+date: 2023-10-04
+url: https://discourse.slicer.org/t/32032
+---
+
 # Install extension module in built Slicer
 
 **Topic ID**: 32032

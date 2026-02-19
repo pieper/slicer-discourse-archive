@@ -1,3 +1,10 @@
+---
+topic_id: 10034
+title: "Is Possible To Change The Color Of The Roi Bounding Box From"
+date: 2020-01-30
+url: https://discourse.slicer.org/t/10034
+---
+
 # Is possible to change the color of the ROI bounding box from white to something else
 
 **Topic ID**: 10034

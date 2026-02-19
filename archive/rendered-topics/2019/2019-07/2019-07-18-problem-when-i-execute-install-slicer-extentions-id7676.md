@@ -1,3 +1,10 @@
+---
+topic_id: 7676
+title: "Problem When I Execute Install Slicer Extentions"
+date: 2019-07-18
+url: https://discourse.slicer.org/t/7676
+---
+
 # Problem when i execute "Install Slicer Extentions "
 
 **Topic ID**: 7676

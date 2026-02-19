@@ -1,3 +1,10 @@
+---
+topic_id: 23690
+title: "Load Mha Dataset"
+date: 2022-06-03
+url: https://discourse.slicer.org/t/23690
+---
+
 # Load MHA dataset
 
 **Topic ID**: 23690

@@ -1,3 +1,10 @@
+---
+topic_id: 18824
+title: "Export Dicom As Tif 16Bit Problems"
+date: 2021-07-20
+url: https://discourse.slicer.org/t/18824
+---
+
 # Export DICOM as tif 16bit problems
 
 **Topic ID**: 18824

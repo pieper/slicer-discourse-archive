@@ -1,3 +1,10 @@
+---
+topic_id: 40940
+title: "Airway Analysis Computing Cross Sectional Area"
+date: 2025-01-03
+url: https://discourse.slicer.org/t/40940
+---
+
 # Airway analysis, computing cross-sectional area
 
 **Topic ID**: 40940

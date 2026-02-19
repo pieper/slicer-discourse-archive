@@ -1,3 +1,10 @@
+---
+topic_id: 33963
+title: "Slicer And Saas"
+date: 2024-01-25
+url: https://discourse.slicer.org/t/33963
+---
+
 # Slicer and SaaS?
 
 **Topic ID**: 33963

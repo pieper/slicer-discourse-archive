@@ -1,3 +1,10 @@
+---
+topic_id: 21700
+title: "Crosshair Vs Slice Intersections"
+date: 2022-01-29
+url: https://discourse.slicer.org/t/21700
+---
+
 # Crosshair vs Slice Intersections
 
 **Topic ID**: 21700

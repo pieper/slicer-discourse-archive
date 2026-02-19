@@ -1,3 +1,10 @@
+---
+topic_id: 26178
+title: "Cuda Requirement For Monailabel In 3D Slicer 5 0 3 Stable Ve"
+date: 2022-11-10
+url: https://discourse.slicer.org/t/26178
+---
+
 # CUDA requirement for MONAILabel in 3D Slicer 5.0.3 stable version
 
 **Topic ID**: 26178

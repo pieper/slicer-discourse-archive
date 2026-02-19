@@ -1,3 +1,10 @@
+---
+topic_id: 21445
+title: "Add Flow Extension To Irregularly Shaped Outlet"
+date: 2022-01-13
+url: https://discourse.slicer.org/t/21445
+---
+
 # add flow extension to irregularly shaped outlet
 
 **Topic ID**: 21445

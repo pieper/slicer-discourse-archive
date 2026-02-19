@@ -1,3 +1,10 @@
+---
+topic_id: 39797
+title: "Question On Export Segments To Models"
+date: 2024-10-22
+url: https://discourse.slicer.org/t/39797
+---
+
 # Question on "export segments to models"
 
 **Topic ID**: 39797

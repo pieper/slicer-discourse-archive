@@ -1,3 +1,10 @@
+---
+topic_id: 29087
+title: "Exporting Saving Transformed Dicom Volumes"
+date: 2023-04-24
+url: https://discourse.slicer.org/t/29087
+---
+
 # Exporting/Saving Transformed DICOM Volumes
 
 **Topic ID**: 29087

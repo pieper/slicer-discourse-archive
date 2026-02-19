@@ -1,3 +1,10 @@
+---
+topic_id: 36803
+title: "Segmentation Using Confocal Microscope Images"
+date: 2024-06-15
+url: https://discourse.slicer.org/t/36803
+---
+
 # Segmentation using confocal microscope images
 
 **Topic ID**: 36803

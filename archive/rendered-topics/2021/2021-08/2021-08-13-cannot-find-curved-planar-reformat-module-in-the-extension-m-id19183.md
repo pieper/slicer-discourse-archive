@@ -1,3 +1,10 @@
+---
+topic_id: 19183
+title: "Cannot Find Curved Planar Reformat Module In The Extension M"
+date: 2021-08-13
+url: https://discourse.slicer.org/t/19183
+---
+
 # Cannot find Curved Planar reformat Module in the Extension Manager
 
 **Topic ID**: 19183

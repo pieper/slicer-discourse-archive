@@ -1,3 +1,10 @@
+---
+topic_id: 5030
+title: "2D Ultrasound Dicom Measurement Units"
+date: 2018-12-10
+url: https://discourse.slicer.org/t/5030
+---
+
 # 2D Ultrasound Dicom Measurement Units
 
 **Topic ID**: 5030

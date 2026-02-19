@@ -1,3 +1,10 @@
+---
+topic_id: 22289
+title: "Import Dicomsegmentationplugin Does Not Work In Preview Rele"
+date: 2022-03-03
+url: https://discourse.slicer.org/t/22289
+---
+
 # Import DICOMSegmentationPlugin does not work in preview release
 
 **Topic ID**: 22289

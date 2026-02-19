@@ -1,3 +1,10 @@
+---
+topic_id: 5663
+title: "Plotting 2D Line Segments"
+date: 2019-02-06
+url: https://discourse.slicer.org/t/5663
+---
+
 # Plotting 2D line segments
 
 **Topic ID**: 5663

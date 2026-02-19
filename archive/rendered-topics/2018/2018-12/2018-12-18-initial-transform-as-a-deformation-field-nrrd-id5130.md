@@ -1,3 +1,10 @@
+---
+topic_id: 5130
+title: "Initial Transform As A Deformation Field Nrrd"
+date: 2018-12-18
+url: https://discourse.slicer.org/t/5130
+---
+
 # Initial transform as a deformation field (.nrrd)
 
 **Topic ID**: 5130

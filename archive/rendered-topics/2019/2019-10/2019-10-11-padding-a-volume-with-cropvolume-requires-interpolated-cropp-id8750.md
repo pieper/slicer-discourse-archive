@@ -1,3 +1,10 @@
+---
+topic_id: 8750
+title: "Padding A Volume With Cropvolume Requires Interpolated Cropp"
+date: 2019-10-11
+url: https://discourse.slicer.org/t/8750
+---
+
 # Padding a volume with CropVolume requires "Interpolated Cropping"
 
 **Topic ID**: 8750

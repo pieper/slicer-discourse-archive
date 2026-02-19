@@ -1,3 +1,10 @@
+---
+topic_id: 22770
+title: "What Algorithm Formula Was Used To Calculate The Signal Inte"
+date: 2022-03-31
+url: https://discourse.slicer.org/t/22770
+---
+
 # What algorithm/formula was used to calculate the signal intensity mean and SD in the module segment statistics?
 
 **Topic ID**: 22770

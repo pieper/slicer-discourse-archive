@@ -1,3 +1,10 @@
+---
+topic_id: 27402
+title: "Moving Objects In Virtual Reality"
+date: 2023-01-22
+url: https://discourse.slicer.org/t/27402
+---
+
 # Moving objects in virtual reality
 
 **Topic ID**: 27402

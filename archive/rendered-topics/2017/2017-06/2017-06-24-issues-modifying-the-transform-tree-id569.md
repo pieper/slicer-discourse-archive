@@ -1,3 +1,10 @@
+---
+topic_id: 569
+title: "Issues Modifying The Transform Tree"
+date: 2017-06-24
+url: https://discourse.slicer.org/t/569
+---
+
 # Issues Modifying the Transform Tree
 
 **Topic ID**: 569

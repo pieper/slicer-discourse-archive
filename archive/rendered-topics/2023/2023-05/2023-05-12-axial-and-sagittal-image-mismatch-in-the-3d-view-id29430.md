@@ -1,3 +1,10 @@
+---
+topic_id: 29430
+title: "Axial And Sagittal Image Mismatch In The 3D View"
+date: 2023-05-12
+url: https://discourse.slicer.org/t/29430
+---
+
 # Axial and sagittal image mismatch in the 3D view
 
 **Topic ID**: 29430

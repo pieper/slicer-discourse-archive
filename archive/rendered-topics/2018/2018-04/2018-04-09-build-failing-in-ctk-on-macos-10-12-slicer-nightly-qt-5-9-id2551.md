@@ -1,3 +1,10 @@
+---
+topic_id: 2551
+title: "Build Failing In Ctk On Macos 10 12 Slicer Nightly Qt 5 9"
+date: 2018-04-09
+url: https://discourse.slicer.org/t/2551
+---
+
 # Build failing in CTK on MacOS 10.12, Slicer nightly, Qt 5.9
 
 **Topic ID**: 2551

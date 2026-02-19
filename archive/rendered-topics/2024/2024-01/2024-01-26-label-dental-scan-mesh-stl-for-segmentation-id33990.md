@@ -1,3 +1,10 @@
+---
+topic_id: 33990
+title: "Label Dental Scan Mesh Stl For Segmentation"
+date: 2024-01-26
+url: https://discourse.slicer.org/t/33990
+---
+
 #  label dental scan mesh(stl) for segmentation
 
 **Topic ID**: 33990

@@ -1,3 +1,10 @@
+---
+topic_id: 16888
+title: "How Can I Crop Some Dicom Data Into Same Shape"
+date: 2021-04-01
+url: https://discourse.slicer.org/t/16888
+---
+
 # How can I crop some DICOM data into same shape?
 
 **Topic ID**: 16888

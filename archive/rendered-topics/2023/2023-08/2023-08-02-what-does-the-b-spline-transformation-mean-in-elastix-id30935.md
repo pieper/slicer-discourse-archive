@@ -1,3 +1,10 @@
+---
+topic_id: 30935
+title: "What Does The B Spline Transformation Mean In Elastix"
+date: 2023-08-02
+url: https://discourse.slicer.org/t/30935
+---
+
 # What does the B-spline transformation mean in Elastix?
 
 **Topic ID**: 30935

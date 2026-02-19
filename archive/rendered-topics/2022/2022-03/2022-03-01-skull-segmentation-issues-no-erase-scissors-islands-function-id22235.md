@@ -1,3 +1,10 @@
+---
+topic_id: 22235
+title: "Skull Segmentation Issues No Erase Scissors Islands Function"
+date: 2022-03-01
+url: https://discourse.slicer.org/t/22235
+---
+
 # Skull segmentation issues (no Erase, Scissors, Islands functions working)
 
 **Topic ID**: 22235

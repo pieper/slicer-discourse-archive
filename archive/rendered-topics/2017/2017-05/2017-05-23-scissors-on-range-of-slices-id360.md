@@ -1,3 +1,10 @@
+---
+topic_id: 360
+title: "Scissors On Range Of Slices"
+date: 2017-05-23
+url: https://discourse.slicer.org/t/360
+---
+
 # Scissors on range of slices
 
 **Topic ID**: 360

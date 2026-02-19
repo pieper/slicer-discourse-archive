@@ -1,3 +1,10 @@
+---
+topic_id: 2382
+title: "Not Able To Save In Jpg Format And Perform Volumetric Segmen"
+date: 2018-03-21
+url: https://discourse.slicer.org/t/2382
+---
+
 # Not able to save in jpg format and perform volumetric segmentation
 
 **Topic ID**: 2382

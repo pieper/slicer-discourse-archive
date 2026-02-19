@@ -1,3 +1,10 @@
+---
+topic_id: 34746
+title: "Slicer And Monailabel Installations Best Practices For Non A"
+date: 2024-03-06
+url: https://discourse.slicer.org/t/34746
+---
+
 # Slicer and MonaiLabel installations - best practices for non admin user
 
 **Topic ID**: 34746

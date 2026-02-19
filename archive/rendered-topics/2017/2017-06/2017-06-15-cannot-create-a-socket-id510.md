@@ -1,3 +1,10 @@
+---
+topic_id: 510
+title: "Cannot Create A Socket"
+date: 2017-06-15
+url: https://discourse.slicer.org/t/510
+---
+
 # Cannot create a socket
 
 **Topic ID**: 510

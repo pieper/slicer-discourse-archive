@@ -1,3 +1,10 @@
+---
+topic_id: 21628
+title: "3D View Loading Files"
+date: 2022-01-26
+url: https://discourse.slicer.org/t/21628
+---
+
 # 3D view / Loading files
 
 **Topic ID**: 21628

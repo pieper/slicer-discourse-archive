@@ -1,3 +1,10 @@
+---
+topic_id: 8074
+title: "How To Match Two Dose Distributions Tps And Monte Carlo Resu"
+date: 2019-08-18
+url: https://discourse.slicer.org/t/8074
+---
+
 # How to match two dose distributions (TPS and Monte Carlo results) and CT images automatically (editing metadata tags)?
 
 **Topic ID**: 8074

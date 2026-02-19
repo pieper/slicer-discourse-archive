@@ -1,3 +1,10 @@
+---
+topic_id: 19889
+title: "Extracting The Centerline Of A Tunnel Point Cloud"
+date: 2021-09-27
+url: https://discourse.slicer.org/t/19889
+---
+
 # Extracting the centerline of a tunnel point cloud 
 
 **Topic ID**: 19889

@@ -1,3 +1,10 @@
+---
+topic_id: 5440
+title: "How To Get Slicerrt Runing On My Developer Installation"
+date: 2019-01-21
+url: https://discourse.slicer.org/t/5440
+---
+
 # How to get SlicerRT runing on my Developer Installation?
 
 **Topic ID**: 5440

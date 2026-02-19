@@ -1,3 +1,10 @@
+---
+topic_id: 43271
+title: "Isocontour Between Three Classes For Orbital Reconstruction"
+date: 2025-06-09
+url: https://discourse.slicer.org/t/43271
+---
+
 # Isocontour between three classes for orbital reconstruction
 
 **Topic ID**: 43271

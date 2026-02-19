@@ -1,3 +1,10 @@
+---
+topic_id: 21758
+title: "Profile Of Hounsfield Units For Each Pixel"
+date: 2022-02-02
+url: https://discourse.slicer.org/t/21758
+---
+
 # Profile of Hounsfield Units for each pixel
 
 **Topic ID**: 21758

@@ -1,3 +1,10 @@
+---
+topic_id: 6244
+title: "Colormap And Mesh Statistics"
+date: 2019-03-22
+url: https://discourse.slicer.org/t/6244
+---
+
 # Colormap and mesh statistics
 
 **Topic ID**: 6244

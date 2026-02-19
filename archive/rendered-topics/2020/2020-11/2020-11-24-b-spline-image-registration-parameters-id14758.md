@@ -1,3 +1,10 @@
+---
+topic_id: 14758
+title: "B Spline Image Registration Parameters"
+date: 2020-11-24
+url: https://discourse.slicer.org/t/14758
+---
+
 # B-spline image registration parameters
 
 **Topic ID**: 14758

@@ -1,3 +1,10 @@
+---
+topic_id: 24617
+title: "Createclosedsurfacerepresentation Does Not Work When Closing"
+date: 2022-08-03
+url: https://discourse.slicer.org/t/24617
+---
+
 # `CreateClosedSurfaceRepresentation()` does not work when closing a segmentation surfaces
 
 **Topic ID**: 24617

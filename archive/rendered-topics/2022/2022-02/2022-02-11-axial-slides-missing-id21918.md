@@ -1,3 +1,10 @@
+---
+topic_id: 21918
+title: "Axial Slides Missing"
+date: 2022-02-11
+url: https://discourse.slicer.org/t/21918
+---
+
 # Axial slides missing
 
 **Topic ID**: 21918

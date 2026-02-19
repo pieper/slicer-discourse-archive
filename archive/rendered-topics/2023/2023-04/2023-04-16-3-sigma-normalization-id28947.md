@@ -1,3 +1,10 @@
+---
+topic_id: 28947
+title: "3 Sigma Normalization"
+date: 2023-04-16
+url: https://discourse.slicer.org/t/28947
+---
+
 # -/+ 3 sigma normalization
 
 **Topic ID**: 28947

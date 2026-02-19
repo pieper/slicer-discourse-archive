@@ -1,3 +1,10 @@
+---
+topic_id: 22056
+title: "Best Data Import Practices For Microscopy"
+date: 2022-02-18
+url: https://discourse.slicer.org/t/22056
+---
+
 # Best data import practices for microscopy
 
 **Topic ID**: 22056

@@ -1,3 +1,10 @@
+---
+topic_id: 1988
+title: "In Person Meeting June 25 29 2018"
+date: 2018-01-31
+url: https://discourse.slicer.org/t/1988
+---
+
 # In-person meeting, June 25-29, 2018
 
 **Topic ID**: 1988

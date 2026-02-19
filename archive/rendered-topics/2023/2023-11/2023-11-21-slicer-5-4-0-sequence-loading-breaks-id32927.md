@@ -1,3 +1,10 @@
+---
+topic_id: 32927
+title: "Slicer 5 4 0 Sequence Loading Breaks"
+date: 2023-11-21
+url: https://discourse.slicer.org/t/32927
+---
+
 # Slicer 5.4.0 Sequence Loading Breaks
 
 **Topic ID**: 32927

@@ -1,3 +1,10 @@
+---
+topic_id: 19638
+title: "Python Viewing Two Volumes Side By Side Four Over Four"
+date: 2021-09-13
+url: https://discourse.slicer.org/t/19638
+---
+
 # Python viewing two volumes side by side (four over four)
 
 **Topic ID**: 19638

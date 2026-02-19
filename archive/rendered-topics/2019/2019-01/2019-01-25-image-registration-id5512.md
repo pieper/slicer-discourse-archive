@@ -1,3 +1,10 @@
+---
+topic_id: 5512
+title: "Image Registration"
+date: 2019-01-25
+url: https://discourse.slicer.org/t/5512
+---
+
 # Image registration
 
 **Topic ID**: 5512

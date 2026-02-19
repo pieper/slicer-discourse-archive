@@ -1,3 +1,10 @@
+---
+topic_id: 23985
+title: "Texture Features"
+date: 2022-06-21
+url: https://discourse.slicer.org/t/23985
+---
+
 # Texture features
 
 **Topic ID**: 23985

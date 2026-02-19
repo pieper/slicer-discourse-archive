@@ -1,3 +1,10 @@
+---
+topic_id: 13743
+title: "How To Get Scale Particles"
+date: 2020-09-29
+url: https://discourse.slicer.org/t/13743
+---
+
 # How to get scale particles?
 
 **Topic ID**: 13743

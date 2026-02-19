@@ -1,3 +1,10 @@
+---
+topic_id: 37119
+title: "How Two Stream 2 Different Threed Views Via Web Server"
+date: 2024-07-01
+url: https://discourse.slicer.org/t/37119
+---
+
 # How two stream 2 different threeD views (via Web Server)?
 
 **Topic ID**: 37119

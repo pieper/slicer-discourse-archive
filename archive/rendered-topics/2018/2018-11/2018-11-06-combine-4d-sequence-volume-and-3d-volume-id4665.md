@@ -1,3 +1,10 @@
+---
+topic_id: 4665
+title: "Combine 4D Sequence Volume And 3D Volume"
+date: 2018-11-06
+url: https://discourse.slicer.org/t/4665
+---
+
 # Combine 4D sequence volume and 3D volume
 
 **Topic ID**: 4665

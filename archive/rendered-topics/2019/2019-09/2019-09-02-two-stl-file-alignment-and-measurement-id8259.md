@@ -1,3 +1,10 @@
+---
+topic_id: 8259
+title: "Two Stl File Alignment And Measurement"
+date: 2019-09-02
+url: https://discourse.slicer.org/t/8259
+---
+
 # TWO .stl file alignment and measurement
 
 **Topic ID**: 8259

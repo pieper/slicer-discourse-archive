@@ -1,3 +1,10 @@
+---
+topic_id: 31330
+title: "Segments Not Showing In 3D"
+date: 2023-08-24
+url: https://discourse.slicer.org/t/31330
+---
+
 # Segments not showing in 3d
 
 **Topic ID**: 31330

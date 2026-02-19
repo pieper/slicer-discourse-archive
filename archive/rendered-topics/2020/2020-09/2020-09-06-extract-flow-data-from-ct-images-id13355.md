@@ -1,3 +1,10 @@
+---
+topic_id: 13355
+title: "Extract Flow Data From Ct Images"
+date: 2020-09-06
+url: https://discourse.slicer.org/t/13355
+---
+
 # Extract flow data from CT images
 
 **Topic ID**: 13355

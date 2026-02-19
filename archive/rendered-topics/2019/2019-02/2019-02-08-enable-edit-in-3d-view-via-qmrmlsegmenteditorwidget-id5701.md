@@ -1,3 +1,10 @@
+---
+topic_id: 5701
+title: "Enable Edit In 3D View Via Qmrmlsegmenteditorwidget"
+date: 2019-02-08
+url: https://discourse.slicer.org/t/5701
+---
+
 # Enable "Edit in 3D View" Via qMRMLSegmentEditorWidget
 
 **Topic ID**: 5701

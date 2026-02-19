@@ -1,3 +1,10 @@
+---
+topic_id: 14586
+title: "Automatic Segmentation Based On Rgb"
+date: 2020-11-13
+url: https://discourse.slicer.org/t/14586
+---
+
 # Automatic segmentation based on rgb
 
 **Topic ID**: 14586

@@ -1,3 +1,10 @@
+---
+topic_id: 9989
+title: "Progamatically Get Slice View Bounding Box In Ras"
+date: 2020-01-28
+url: https://discourse.slicer.org/t/9989
+---
+
 # Progamatically get slice view bounding box in RAS
 
 **Topic ID**: 9989

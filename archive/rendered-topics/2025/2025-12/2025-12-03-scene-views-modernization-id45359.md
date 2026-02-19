@@ -1,3 +1,10 @@
+---
+topic_id: 45359
+title: "Scene Views Modernization"
+date: 2025-12-03
+url: https://discourse.slicer.org/t/45359
+---
+
 # Scene Views Modernization
 
 **Topic ID**: 45359

@@ -1,3 +1,10 @@
+---
+topic_id: 11467
+title: "Force2D Parameter When Input Is A 3D Voi"
+date: 2020-05-08
+url: https://discourse.slicer.org/t/11467
+---
+
 # Force2D parameter when input is a 3D VOI
 
 **Topic ID**: 11467

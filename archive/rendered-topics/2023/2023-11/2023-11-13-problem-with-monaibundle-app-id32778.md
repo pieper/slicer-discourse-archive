@@ -1,3 +1,10 @@
+---
+topic_id: 32778
+title: "Problem With Monaibundle App"
+date: 2023-11-13
+url: https://discourse.slicer.org/t/32778
+---
+
 # Problem with Monaibundle app
 
 **Topic ID**: 32778

@@ -1,3 +1,10 @@
+---
+topic_id: 37552
+title: "Artefacts In Ct Analysis"
+date: 2024-07-25
+url: https://discourse.slicer.org/t/37552
+---
+
 # Artefacts in CT analysis
 
 **Topic ID**: 37552

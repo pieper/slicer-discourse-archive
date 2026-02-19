@@ -1,3 +1,10 @@
+---
+topic_id: 42801
+title: "Method Voxel Analysis Comparing The Same Segment On Two Scan"
+date: 2025-05-05
+url: https://discourse.slicer.org/t/42801
+---
+
 # Method-Voxel Analysis comparing the same segment on two scans
 
 **Topic ID**: 42801

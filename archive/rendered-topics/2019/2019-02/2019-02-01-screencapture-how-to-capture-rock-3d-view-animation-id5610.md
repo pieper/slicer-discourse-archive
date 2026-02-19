@@ -1,3 +1,10 @@
+---
+topic_id: 5610
+title: "Screencapture How To Capture Rock 3D View Animation"
+date: 2019-02-01
+url: https://discourse.slicer.org/t/5610
+---
+
 # ScreenCapture: how to capture "Rock 3D view" animation
 
 **Topic ID**: 5610

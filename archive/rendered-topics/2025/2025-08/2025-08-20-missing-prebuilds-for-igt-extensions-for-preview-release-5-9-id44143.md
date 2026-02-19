@@ -1,3 +1,10 @@
+---
+topic_id: 44143
+title: "Missing Prebuilds For Igt Extensions For Preview Release 5 9"
+date: 2025-08-20
+url: https://discourse.slicer.org/t/44143
+---
+
 # Missing prebuilds for IGT extensions for Preview Release 5.9
 
 **Topic ID**: 44143

@@ -1,3 +1,10 @@
+---
+topic_id: 25547
+title: "Filter Scan Only In Roi Segment"
+date: 2022-10-04
+url: https://discourse.slicer.org/t/25547
+---
+
 # Filter scan only in ROI / segment
 
 **Topic ID**: 25547

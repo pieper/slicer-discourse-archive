@@ -1,3 +1,10 @@
+---
+topic_id: 18510
+title: "Markuppoints To Freesurferoutput Segment Parcellation Correl"
+date: 2021-07-05
+url: https://discourse.slicer.org/t/18510
+---
+
 # Markuppoints to freesurferoutput segment/parcellation correlations on 2dslicer viewer
 
 **Topic ID**: 18510

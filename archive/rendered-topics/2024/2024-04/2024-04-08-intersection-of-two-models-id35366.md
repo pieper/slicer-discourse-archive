@@ -1,3 +1,10 @@
+---
+topic_id: 35366
+title: "Intersection Of Two Models"
+date: 2024-04-08
+url: https://discourse.slicer.org/t/35366
+---
+
 # Intersection of two models
 
 **Topic ID**: 35366

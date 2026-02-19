@@ -1,3 +1,10 @@
+---
+topic_id: 34448
+title: "How To Load One Specific Series Of A Dicom Scanning In Pytho"
+date: 2024-02-21
+url: https://discourse.slicer.org/t/34448
+---
+
 # How to load one specific series of a DICOM scanning in Python
 
 **Topic ID**: 34448

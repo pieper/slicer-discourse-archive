@@ -1,3 +1,10 @@
+---
+topic_id: 17390
+title: "How To Programmatically Export Data From Segment Statistics"
+date: 2021-04-30
+url: https://discourse.slicer.org/t/17390
+---
+
 # How to programmatically export data from segment statistics?
 
 **Topic ID**: 17390

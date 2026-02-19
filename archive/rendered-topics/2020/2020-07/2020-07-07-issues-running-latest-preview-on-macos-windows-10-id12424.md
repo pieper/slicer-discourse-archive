@@ -1,3 +1,10 @@
+---
+topic_id: 12424
+title: "Issues Running Latest Preview On Macos Windows 10"
+date: 2020-07-07
+url: https://discourse.slicer.org/t/12424
+---
+
 # Issues running latest preview on macOS/Windows 10
 
 **Topic ID**: 12424

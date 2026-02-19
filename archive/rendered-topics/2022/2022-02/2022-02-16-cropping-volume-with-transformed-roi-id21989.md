@@ -1,3 +1,10 @@
+---
+topic_id: 21989
+title: "Cropping Volume With Transformed Roi"
+date: 2022-02-16
+url: https://discourse.slicer.org/t/21989
+---
+
 # Cropping volume with transformed ROI
 
 **Topic ID**: 21989

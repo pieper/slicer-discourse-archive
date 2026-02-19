@@ -1,3 +1,10 @@
+---
+topic_id: 11855
+title: "Filtering Vessels In 3D Volume"
+date: 2020-06-04
+url: https://discourse.slicer.org/t/11855
+---
+
 # Filtering vessels in 3D volume
 
 **Topic ID**: 11855

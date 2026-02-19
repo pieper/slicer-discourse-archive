@@ -1,3 +1,10 @@
+---
+topic_id: 45002
+title: "Nninteractive With Gpu 5090"
+date: 2025-11-08
+url: https://discourse.slicer.org/t/45002
+---
+
 # nnInteractive with GPU 5090
 
 **Topic ID**: 45002

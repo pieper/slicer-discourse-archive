@@ -1,3 +1,10 @@
+---
+topic_id: 32240
+title: "3D Ultrasound Reconstruction With Openigtl Verasonics Polhem"
+date: 2023-10-16
+url: https://discourse.slicer.org/t/32240
+---
+
 # 3D Ultrasound Reconstruction with openIGTL (Verasonics & Polhemus)
 
 **Topic ID**: 32240

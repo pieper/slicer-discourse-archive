@@ -1,3 +1,10 @@
+---
+topic_id: 33193
+title: "Is It Possible To Change Roi To A Labelmap"
+date: 2023-12-04
+url: https://discourse.slicer.org/t/33193
+---
+
 # Is it possible to change ROI to a labelmap?
 
 **Topic ID**: 33193

@@ -1,3 +1,10 @@
+---
+topic_id: 44330
+title: "Trouble Opening The Load Data"
+date: 2025-09-03
+url: https://discourse.slicer.org/t/44330
+---
+
 # Trouble Opening the Load Data
 
 **Topic ID**: 44330

@@ -1,3 +1,10 @@
+---
+topic_id: 39901
+title: "Unable To Save Segmentation Scene"
+date: 2024-10-28
+url: https://discourse.slicer.org/t/39901
+---
+
 # Unable to save segmentation/scene
 
 **Topic ID**: 39901

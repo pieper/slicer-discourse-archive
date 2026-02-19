@@ -1,3 +1,10 @@
+---
+topic_id: 2300
+title: "Invoke N4Itk Bias Correction Programmatically"
+date: 2018-03-12
+url: https://discourse.slicer.org/t/2300
+---
+
 # Invoke N4ITK Bias Correction Programmatically
 
 **Topic ID**: 2300

@@ -1,3 +1,10 @@
+---
+topic_id: 39927
+title: "Auto3Dseg With Model Trained Using Monailabel"
+date: 2024-10-29
+url: https://discourse.slicer.org/t/39927
+---
+
 # Auto3DSeg with model trained using MONAILabel
 
 **Topic ID**: 39927

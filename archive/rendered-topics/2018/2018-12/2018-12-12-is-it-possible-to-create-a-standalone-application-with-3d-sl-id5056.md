@@ -1,3 +1,10 @@
+---
+topic_id: 5056
+title: "Is It Possible To Create A Standalone Application With 3D Sl"
+date: 2018-12-12
+url: https://discourse.slicer.org/t/5056
+---
+
 # Is it possible to create a standalone application with 3D slicer and run it without 3D Slicer launching?
 
 **Topic ID**: 5056

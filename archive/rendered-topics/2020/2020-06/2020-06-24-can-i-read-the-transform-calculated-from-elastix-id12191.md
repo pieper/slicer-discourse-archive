@@ -1,3 +1,10 @@
+---
+topic_id: 12191
+title: "Can I Read The Transform Calculated From Elastix"
+date: 2020-06-24
+url: https://discourse.slicer.org/t/12191
+---
+
 # Can I read the transform calculated from elastix
 
 **Topic ID**: 12191

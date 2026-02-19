@@ -1,3 +1,10 @@
+---
+topic_id: 14857
+title: "Masking Overwrite Visible Allowing Overlap Instead Of Overwr"
+date: 2020-12-02
+url: https://discourse.slicer.org/t/14857
+---
+
 # Masking: "Overwrite visible" allowing overlap instead of overwriting
 
 **Topic ID**: 14857

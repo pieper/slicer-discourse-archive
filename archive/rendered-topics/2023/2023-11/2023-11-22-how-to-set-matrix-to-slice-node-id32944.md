@@ -1,3 +1,10 @@
+---
+topic_id: 32944
+title: "How To Set Matrix To Slice Node"
+date: 2023-11-22
+url: https://discourse.slicer.org/t/32944
+---
+
 # How to set matrix to slice node?
 
 **Topic ID**: 32944

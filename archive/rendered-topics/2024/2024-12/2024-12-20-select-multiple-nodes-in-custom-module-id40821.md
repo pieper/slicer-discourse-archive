@@ -1,3 +1,10 @@
+---
+topic_id: 40821
+title: "Select Multiple Nodes In Custom Module"
+date: 2024-12-20
+url: https://discourse.slicer.org/t/40821
+---
+
 # Select Multiple Nodes in custom module
 
 **Topic ID**: 40821

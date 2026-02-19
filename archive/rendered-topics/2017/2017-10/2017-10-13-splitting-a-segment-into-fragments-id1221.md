@@ -1,3 +1,10 @@
+---
+topic_id: 1221
+title: "Splitting A Segment Into Fragments"
+date: 2017-10-13
+url: https://discourse.slicer.org/t/1221
+---
+
 # Splitting a segment into fragments
 
 **Topic ID**: 1221

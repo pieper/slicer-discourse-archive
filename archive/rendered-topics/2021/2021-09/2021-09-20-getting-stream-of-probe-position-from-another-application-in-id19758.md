@@ -1,3 +1,10 @@
+---
+topic_id: 19758
+title: "Getting Stream Of Probe Position From Another Application In"
+date: 2021-09-20
+url: https://discourse.slicer.org/t/19758
+---
+
 # Getting stream of probe position from another application into Slicer/SlicerIGT
 
 **Topic ID**: 19758

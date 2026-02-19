@@ -1,3 +1,10 @@
+---
+topic_id: 17444
+title: "Upcoming Downtime For Download Slicer Org And Extension Mana"
+date: 2021-05-04
+url: https://discourse.slicer.org/t/17444
+---
+
 # Upcoming downtime for download.slicer.org and extension manager due to package server transition
 
 **Topic ID**: 17444

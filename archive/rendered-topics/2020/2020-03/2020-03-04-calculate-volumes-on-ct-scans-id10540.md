@@ -1,3 +1,10 @@
+---
+topic_id: 10540
+title: "Calculate Volumes On Ct Scans"
+date: 2020-03-04
+url: https://discourse.slicer.org/t/10540
+---
+
 # Calculate volumes on ct scans
 
 **Topic ID**: 10540

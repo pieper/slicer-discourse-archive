@@ -1,3 +1,10 @@
+---
+topic_id: 28179
+title: "Elastix Why Applying A Transform On Image Does Not Produce S"
+date: 2023-03-05
+url: https://discourse.slicer.org/t/28179
+---
+
 # Elastix, why applying a transform on image does not produce same image as the generated output at registration time?
 
 **Topic ID**: 28179

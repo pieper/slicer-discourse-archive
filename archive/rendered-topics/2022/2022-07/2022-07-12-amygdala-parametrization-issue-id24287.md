@@ -1,3 +1,10 @@
+---
+topic_id: 24287
+title: "Amygdala Parametrization Issue"
+date: 2022-07-12
+url: https://discourse.slicer.org/t/24287
+---
+
 # Amygdala Parametrization Issue
 
 **Topic ID**: 24287

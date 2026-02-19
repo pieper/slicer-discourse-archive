@@ -1,3 +1,10 @@
+---
+topic_id: 17050
+title: "Creating A Basic Paint Foreground And Paint Background Tool"
+date: 2021-04-13
+url: https://discourse.slicer.org/t/17050
+---
+
 # Creating a basic Paint Foreground and Paint Background Tool
 
 **Topic ID**: 17050

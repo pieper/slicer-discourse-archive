@@ -1,3 +1,10 @@
+---
+topic_id: 21992
+title: "Hardware Is Apple M1 Much Faster As Intel Cpu S"
+date: 2022-02-16
+url: https://discourse.slicer.org/t/21992
+---
+
 # Hardware: Is Apple M1 much faster as Intel CPU´s?
 
 **Topic ID**: 21992

@@ -1,3 +1,10 @@
+---
+topic_id: 4426
+title: "Transformnode Setname Some String Gives Typeerror Str Object"
+date: 2018-10-17
+url: https://discourse.slicer.org/t/4426
+---
+
 # transformNode.SetName('some_string') gives TypeError: 'str' object is not callable
 
 **Topic ID**: 4426

@@ -1,3 +1,10 @@
+---
+topic_id: 4954
+title: "Save Nrrd File Into Stl File"
+date: 2018-12-04
+url: https://discourse.slicer.org/t/4954
+---
+
 # Save .nrrd file into STL file
 
 **Topic ID**: 4954

@@ -1,3 +1,10 @@
+---
+topic_id: 14598
+title: "Segmentation Of Mitral Valve"
+date: 2020-11-14
+url: https://discourse.slicer.org/t/14598
+---
+
 # Segmentation of Mitral valve
 
 **Topic ID**: 14598

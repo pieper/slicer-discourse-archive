@@ -1,3 +1,10 @@
+---
+topic_id: 18980
+title: "Fiducial Registration Wizard Automatic And Manual Registrati"
+date: 2021-07-29
+url: https://discourse.slicer.org/t/18980
+---
+
 # Fiducial registration wizard automatic and manual registration
 
 **Topic ID**: 18980

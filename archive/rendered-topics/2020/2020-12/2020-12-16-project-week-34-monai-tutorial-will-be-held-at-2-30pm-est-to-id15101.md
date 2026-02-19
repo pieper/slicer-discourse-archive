@@ -1,3 +1,10 @@
+---
+topic_id: 15101
+title: "Project Week 34 Monai Tutorial Will Be Held At 2 30Pm Est To"
+date: 2020-12-16
+url: https://discourse.slicer.org/t/15101
+---
+
 # Project Week 34 : MONAI tutorial WILL be held at 2.30PM EST today
 
 **Topic ID**: 15101

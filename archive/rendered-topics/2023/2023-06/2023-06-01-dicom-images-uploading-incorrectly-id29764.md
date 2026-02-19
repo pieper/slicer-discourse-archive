@@ -1,3 +1,10 @@
+---
+topic_id: 29764
+title: "Dicom Images Uploading Incorrectly"
+date: 2023-06-01
+url: https://discourse.slicer.org/t/29764
+---
+
 # DICOM Images Uploading Incorrectly
 
 **Topic ID**: 29764

@@ -1,3 +1,10 @@
+---
+topic_id: 18566
+title: "Edit And Modify The Geometry"
+date: 2021-07-07
+url: https://discourse.slicer.org/t/18566
+---
+
 # Edit and modify the geometry
 
 **Topic ID**: 18566

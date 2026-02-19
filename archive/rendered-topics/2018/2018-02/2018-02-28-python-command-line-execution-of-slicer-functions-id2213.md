@@ -1,3 +1,10 @@
+---
+topic_id: 2213
+title: "Python Command Line Execution Of Slicer Functions"
+date: 2018-02-28
+url: https://discourse.slicer.org/t/2213
+---
+
 # Python command line execution of Slicer functions
 
 **Topic ID**: 2213

@@ -1,3 +1,10 @@
+---
+topic_id: 28744
+title: "How To Scale Dimensions Of The Segmentations To Match New Vo"
+date: 2023-04-04
+url: https://discourse.slicer.org/t/28744
+---
+
 # How to scale dimensions of the segmentations to match new volume image spacing
 
 **Topic ID**: 28744

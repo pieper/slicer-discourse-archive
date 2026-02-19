@@ -1,3 +1,10 @@
+---
+topic_id: 8701
+title: "Segmentation Tools Very Slow For File Above A Few Hundred Mb"
+date: 2019-10-07
+url: https://discourse.slicer.org/t/8701
+---
+
 # Segmentation tools very slow for file above a few hundred Mb
 
 **Topic ID**: 8701

@@ -1,3 +1,10 @@
+---
+topic_id: 21457
+title: "Working Between Datasets Slices And Reanalyzing Saved Data"
+date: 2022-01-14
+url: https://discourse.slicer.org/t/21457
+---
+
 # Working between datasets/slices and reanalyzing saved data
 
 **Topic ID**: 21457

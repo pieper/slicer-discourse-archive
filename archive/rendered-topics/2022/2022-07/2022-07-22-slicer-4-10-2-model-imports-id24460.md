@@ -1,3 +1,10 @@
+---
+topic_id: 24460
+title: "Slicer 4 10 2 Model Imports"
+date: 2022-07-22
+url: https://discourse.slicer.org/t/24460
+---
+
 # Slicer 4.10.2 Model Imports
 
 **Topic ID**: 24460

@@ -1,3 +1,10 @@
+---
+topic_id: 35979
+title: "Totalsegmentator Failed To Compute Results Returned Non Zero"
+date: 2024-05-07
+url: https://discourse.slicer.org/t/35979
+---
+
 # TotalSegmentator "Failed to compute results." , "returned non-zero exit status 120"
 
 **Topic ID**: 35979

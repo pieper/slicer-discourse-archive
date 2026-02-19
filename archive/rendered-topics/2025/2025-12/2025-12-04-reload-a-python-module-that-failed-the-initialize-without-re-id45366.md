@@ -1,3 +1,10 @@
+---
+topic_id: 45366
+title: "Reload A Python Module That Failed The Initialize Without Re"
+date: 2025-12-04
+url: https://discourse.slicer.org/t/45366
+---
+
 # Reload a python module that failed the initialize without restarting Slicer
 
 **Topic ID**: 45366

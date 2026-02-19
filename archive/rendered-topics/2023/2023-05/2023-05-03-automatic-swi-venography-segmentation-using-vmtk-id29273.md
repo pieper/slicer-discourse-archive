@@ -1,3 +1,10 @@
+---
+topic_id: 29273
+title: "Automatic Swi Venography Segmentation Using Vmtk"
+date: 2023-05-03
+url: https://discourse.slicer.org/t/29273
+---
+
 # Automatic SWI venography segmentation using VMTK
 
 **Topic ID**: 29273

@@ -1,3 +1,10 @@
+---
+topic_id: 27096
+title: "How To Set The X Axis Of The Graph To 2000 Of In Lung Parenc"
+date: 2023-01-07
+url: https://discourse.slicer.org/t/27096
+---
+
 # How to set the x-axis of the graph to -2000 of in lung parenchyma analysis?
 
 **Topic ID**: 27096

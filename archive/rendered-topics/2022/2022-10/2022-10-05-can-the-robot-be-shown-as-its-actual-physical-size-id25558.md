@@ -1,3 +1,10 @@
+---
+topic_id: 25558
+title: "Can The Robot Be Shown As Its Actual Physical Size"
+date: 2022-10-05
+url: https://discourse.slicer.org/t/25558
+---
+
 # Can the robot be shown as its actual physical size？
 
 **Topic ID**: 25558

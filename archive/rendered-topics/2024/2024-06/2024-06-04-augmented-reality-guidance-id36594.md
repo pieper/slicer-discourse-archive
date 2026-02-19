@@ -1,3 +1,10 @@
+---
+topic_id: 36594
+title: "Augmented Reality Guidance"
+date: 2024-06-04
+url: https://discourse.slicer.org/t/36594
+---
+
 # Augmented reality guidance
 
 **Topic ID**: 36594

@@ -1,3 +1,10 @@
+---
+topic_id: 34681
+title: "Volumetric Measurement Of The Root Canal Space Before And Af"
+date: 2024-03-04
+url: https://discourse.slicer.org/t/34681
+---
+
 # Volumetric measurement of the root canal space before and after root canal treatment
 
 **Topic ID**: 34681

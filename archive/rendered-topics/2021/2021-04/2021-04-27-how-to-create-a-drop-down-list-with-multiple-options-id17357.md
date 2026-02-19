@@ -1,3 +1,10 @@
+---
+topic_id: 17357
+title: "How To Create A Drop Down List With Multiple Options"
+date: 2021-04-27
+url: https://discourse.slicer.org/t/17357
+---
+
 # How to create a drop down list with multiple options
 
 **Topic ID**: 17357

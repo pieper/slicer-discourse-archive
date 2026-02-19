@@ -1,3 +1,10 @@
+---
+topic_id: 33311
+title: "Pixel Spacing For Volume Reconstruction Of Ultrasound Images"
+date: 2023-12-09
+url: https://discourse.slicer.org/t/33311
+---
+
 # Pixel Spacing for volume reconstruction of ultrasound images
 
 **Topic ID**: 33311

@@ -1,3 +1,10 @@
+---
+topic_id: 13706
+title: "Can I Open A Single Raw File Without The Mhd File"
+date: 2020-09-26
+url: https://discourse.slicer.org/t/13706
+---
+
 # Can I open a single .raw file without the .mhd file? 
 
 **Topic ID**: 13706

@@ -1,3 +1,10 @@
+---
+topic_id: 32345
+title: "Segmentation Not Working With 2 Sets Of Dicom Images"
+date: 2023-10-20
+url: https://discourse.slicer.org/t/32345
+---
+
 # Segmentation not working with 2 sets of DICOM images
 
 **Topic ID**: 32345

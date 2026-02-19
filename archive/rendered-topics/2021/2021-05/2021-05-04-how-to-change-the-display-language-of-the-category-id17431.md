@@ -1,3 +1,10 @@
+---
+topic_id: 17431
+title: "How To Change The Display Language Of The Category"
+date: 2021-05-04
+url: https://discourse.slicer.org/t/17431
+---
+
 # How to change the display language of the category
 
 **Topic ID**: 17431

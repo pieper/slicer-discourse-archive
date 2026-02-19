@@ -1,3 +1,10 @@
+---
+topic_id: 13176
+title: "Edit Ui Raies Designer Cannot Be Opened Because Of A Problem"
+date: 2020-08-26
+url: https://discourse.slicer.org/t/13176
+---
+
 # Edit UI raies 'Designer cannot be opened because of a problem' 
 
 **Topic ID**: 13176

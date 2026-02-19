@@ -1,3 +1,10 @@
+---
+topic_id: 12528
+title: "Generating An Opaque Volume Using Volume Rendering"
+date: 2020-07-14
+url: https://discourse.slicer.org/t/12528
+---
+
 # Generating an opaque volume using volume rendering
 
 **Topic ID**: 12528

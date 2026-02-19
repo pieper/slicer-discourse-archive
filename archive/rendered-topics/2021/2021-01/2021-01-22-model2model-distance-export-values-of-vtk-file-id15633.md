@@ -1,3 +1,10 @@
+---
+topic_id: 15633
+title: "Model2Model Distance Export Values Of Vtk File"
+date: 2021-01-22
+url: https://discourse.slicer.org/t/15633
+---
+
 # Model2model distance: export values of vtk file
 
 **Topic ID**: 15633

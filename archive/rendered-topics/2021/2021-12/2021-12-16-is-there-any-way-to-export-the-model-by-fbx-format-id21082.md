@@ -1,3 +1,10 @@
+---
+topic_id: 21082
+title: "Is There Any Way To Export The Model By Fbx Format"
+date: 2021-12-16
+url: https://discourse.slicer.org/t/21082
+---
+
 # Is there any way to export the model by FBX format?
 
 **Topic ID**: 21082

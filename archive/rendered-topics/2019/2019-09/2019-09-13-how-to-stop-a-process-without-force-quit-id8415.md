@@ -1,3 +1,10 @@
+---
+topic_id: 8415
+title: "How To Stop A Process Without Force Quit"
+date: 2019-09-13
+url: https://discourse.slicer.org/t/8415
+---
+
 # How to stop a process without "Force Quit"
 
 **Topic ID**: 8415

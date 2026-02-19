@@ -1,3 +1,10 @@
+---
+topic_id: 35698
+title: "How Can I Create A 4D Segmentation Sequence"
+date: 2024-04-23
+url: https://discourse.slicer.org/t/35698
+---
+
 # How can I create a 4D segmentation sequence?
 
 **Topic ID**: 35698

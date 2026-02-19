@@ -1,3 +1,10 @@
+---
+topic_id: 25009
+title: "Malpaca Only Runs On The First Target Model"
+date: 2022-08-30
+url: https://discourse.slicer.org/t/25009
+---
+
 # MALPACA only runs on the first target model. 
 
 **Topic ID**: 25009

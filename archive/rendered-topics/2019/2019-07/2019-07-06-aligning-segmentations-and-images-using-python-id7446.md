@@ -1,3 +1,10 @@
+---
+topic_id: 7446
+title: "Aligning Segmentations And Images Using Python"
+date: 2019-07-06
+url: https://discourse.slicer.org/t/7446
+---
+
 # Aligning Segmentations and images using python
 
 **Topic ID**: 7446

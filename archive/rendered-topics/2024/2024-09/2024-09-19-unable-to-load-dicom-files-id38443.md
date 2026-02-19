@@ -1,3 +1,10 @@
+---
+topic_id: 38443
+title: "Unable To Load Dicom Files"
+date: 2024-09-19
+url: https://discourse.slicer.org/t/38443
+---
+
 # Unable to load DICOM files
 
 **Topic ID**: 38443

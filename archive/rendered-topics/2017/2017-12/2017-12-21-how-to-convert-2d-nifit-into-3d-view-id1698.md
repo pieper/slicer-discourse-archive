@@ -1,3 +1,10 @@
+---
+topic_id: 1698
+title: "How To Convert 2D Nifit Into 3D View"
+date: 2017-12-21
+url: https://discourse.slicer.org/t/1698
+---
+
 # How to convert 2D nifit into 3D view?
 
 **Topic ID**: 1698

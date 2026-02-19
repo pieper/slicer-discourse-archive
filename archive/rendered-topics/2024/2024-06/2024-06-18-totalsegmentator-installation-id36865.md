@@ -1,3 +1,10 @@
+---
+topic_id: 36865
+title: "Totalsegmentator Installation"
+date: 2024-06-18
+url: https://discourse.slicer.org/t/36865
+---
+
 # TotalSegmentator installation
 
 **Topic ID**: 36865

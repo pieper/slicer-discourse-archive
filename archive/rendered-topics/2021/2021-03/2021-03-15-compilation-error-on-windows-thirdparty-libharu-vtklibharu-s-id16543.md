@@ -1,3 +1,10 @@
+---
+topic_id: 16543
+title: "Compilation Error On Windows Thirdparty Libharu Vtklibharu S"
+date: 2021-03-15
+url: https://discourse.slicer.org/t/16543
+---
+
 # Compilation error on windows - ThirdParty/libharu/vtklibharu/src/hpdf_doc.c: No such file or directory
 
 **Topic ID**: 16543

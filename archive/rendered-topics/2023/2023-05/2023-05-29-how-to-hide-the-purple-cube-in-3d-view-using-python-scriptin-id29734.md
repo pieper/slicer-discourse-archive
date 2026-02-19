@@ -1,3 +1,10 @@
+---
+topic_id: 29734
+title: "How To Hide The Purple Cube In 3D View Using Python Scriptin"
+date: 2023-05-29
+url: https://discourse.slicer.org/t/29734
+---
+
 # How to hide the purple cube in 3D view using Python scripting?
 
 **Topic ID**: 29734

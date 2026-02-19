@@ -1,3 +1,10 @@
+---
+topic_id: 170
+title: "Elastix Registration Returns With Failure"
+date: 2017-04-21
+url: https://discourse.slicer.org/t/170
+---
+
 # Elastix registration returns with failure
 
 **Topic ID**: 170

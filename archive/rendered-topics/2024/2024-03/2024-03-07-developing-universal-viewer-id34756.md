@@ -1,3 +1,10 @@
+---
+topic_id: 34756
+title: "Developing Universal Viewer"
+date: 2024-03-07
+url: https://discourse.slicer.org/t/34756
+---
+
 # Developing Universal Viewer
 
 **Topic ID**: 34756

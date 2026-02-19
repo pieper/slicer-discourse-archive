@@ -1,3 +1,10 @@
+---
+topic_id: 28664
+title: "Proposal Add The Slicer License To Spdx License List"
+date: 2023-03-29
+url: https://discourse.slicer.org/t/28664
+---
+
 # Proposal: Add the Slicer license to SPDX license list
 
 **Topic ID**: 28664

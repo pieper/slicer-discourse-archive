@@ -1,3 +1,10 @@
+---
+topic_id: 30899
+title: "Write Read Mrb And Acsv Files In Custom Application"
+date: 2023-08-01
+url: https://discourse.slicer.org/t/30899
+---
+
 # Write/Read MRB and ACSV files in custom application
 
 **Topic ID**: 30899

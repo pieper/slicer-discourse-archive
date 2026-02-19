@@ -1,3 +1,10 @@
+---
+topic_id: 21426
+title: "Loading Annotation Ruler As Markups Line"
+date: 2022-01-12
+url: https://discourse.slicer.org/t/21426
+---
+
 # Loading Annotation Ruler as Markups Line
 
 **Topic ID**: 21426

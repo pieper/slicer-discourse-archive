@@ -1,3 +1,10 @@
+---
+topic_id: 8255
+title: "How Can I Call Slicer Util Getnode Function In Cpp Code"
+date: 2019-09-02
+url: https://discourse.slicer.org/t/8255
+---
+
 # How can I call Slicer.util.getNode function in cpp code?
 
 **Topic ID**: 8255

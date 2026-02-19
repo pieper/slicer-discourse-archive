@@ -1,3 +1,10 @@
+---
+topic_id: 16075
+title: "Correctly Reconstructed Surface Mesh From The Dicom Seg Form"
+date: 2021-02-19
+url: https://discourse.slicer.org/t/16075
+---
+
 # Correctly reconstructed surface mesh from the DICOM-seg format
 
 **Topic ID**: 16075

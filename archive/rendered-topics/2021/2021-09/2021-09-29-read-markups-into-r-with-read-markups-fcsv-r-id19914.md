@@ -1,3 +1,10 @@
+---
+topic_id: 19914
+title: "Read Markups Into R With Read Markups Fcsv R"
+date: 2021-09-29
+url: https://discourse.slicer.org/t/19914
+---
+
 # Read markups into R with read.markups.fcsv.R
 
 **Topic ID**: 19914

@@ -1,3 +1,10 @@
+---
+topic_id: 37878
+title: "How To Make Lib File For Use In Ue5 Engine"
+date: 2024-08-14
+url: https://discourse.slicer.org/t/37878
+---
+
 # How to make lib file for use in ue5 engine
 
 **Topic ID**: 37878

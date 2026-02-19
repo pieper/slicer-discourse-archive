@@ -1,3 +1,10 @@
+---
+topic_id: 13080
+title: "How To Measure Minimun Diameter"
+date: 2020-08-19
+url: https://discourse.slicer.org/t/13080
+---
+
 # How to measure minimun diameter?
 
 **Topic ID**: 13080

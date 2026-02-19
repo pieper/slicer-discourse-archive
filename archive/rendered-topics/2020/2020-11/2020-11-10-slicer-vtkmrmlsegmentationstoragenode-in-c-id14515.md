@@ -1,3 +1,10 @@
+---
+topic_id: 14515
+title: "Slicer Vtkmrmlsegmentationstoragenode In C"
+date: 2020-11-10
+url: https://discourse.slicer.org/t/14515
+---
+
 # Slicer vtkMRMLSegmentationStorageNode in C++
 
 **Topic ID**: 14515

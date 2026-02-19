@@ -1,3 +1,10 @@
+---
+topic_id: 19429
+title: "Open 3D Slicer Application With Qtcreator"
+date: 2021-08-31
+url: https://discourse.slicer.org/t/19429
+---
+
 # Open 3d slicer application with qtcreator
 
 **Topic ID**: 19429

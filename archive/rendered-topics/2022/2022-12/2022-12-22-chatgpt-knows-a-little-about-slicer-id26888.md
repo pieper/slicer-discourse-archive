@@ -1,3 +1,10 @@
+---
+topic_id: 26888
+title: "Chatgpt Knows A Little About Slicer"
+date: 2022-12-22
+url: https://discourse.slicer.org/t/26888
+---
+
 # ChatGPT knows a little about Slicer
 
 **Topic ID**: 26888

@@ -1,3 +1,10 @@
+---
+topic_id: 22678
+title: "Monailabel Optimization"
+date: 2022-03-24
+url: https://discourse.slicer.org/t/22678
+---
+
 # MONAILABEL optimization
 
 **Topic ID**: 22678

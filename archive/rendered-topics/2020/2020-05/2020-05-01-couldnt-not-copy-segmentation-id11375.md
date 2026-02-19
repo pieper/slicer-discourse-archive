@@ -1,3 +1,10 @@
+---
+topic_id: 11375
+title: "Couldnt Not Copy Segmentation"
+date: 2020-05-01
+url: https://discourse.slicer.org/t/11375
+---
+
 # Couldn't not copy segmentation
 
 **Topic ID**: 11375

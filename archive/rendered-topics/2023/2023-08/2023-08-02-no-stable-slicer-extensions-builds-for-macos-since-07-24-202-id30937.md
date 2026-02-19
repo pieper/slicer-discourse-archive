@@ -1,3 +1,10 @@
+---
+topic_id: 30937
+title: "No Stable Slicer Extensions Builds For Macos Since 07 24 202"
+date: 2023-08-02
+url: https://discourse.slicer.org/t/30937
+---
+
 # No Stable Slicer Extensions builds for MacOS since 07/24/2023
 
 **Topic ID**: 30937

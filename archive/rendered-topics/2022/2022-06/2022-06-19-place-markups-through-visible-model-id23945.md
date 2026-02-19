@@ -1,3 +1,10 @@
+---
+topic_id: 23945
+title: "Place Markups Through Visible Model"
+date: 2022-06-19
+url: https://discourse.slicer.org/t/23945
+---
+
 # Place markups through visible model
 
 **Topic ID**: 23945

@@ -1,3 +1,10 @@
+---
+topic_id: 43314
+title: "3D Visualization Of Varying Bmd"
+date: 2025-06-11
+url: https://discourse.slicer.org/t/43314
+---
+
 # 3D visualization of varying BMD
 
 **Topic ID**: 43314

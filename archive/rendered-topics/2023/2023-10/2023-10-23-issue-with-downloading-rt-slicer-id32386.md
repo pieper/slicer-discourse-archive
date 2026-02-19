@@ -1,3 +1,10 @@
+---
+topic_id: 32386
+title: "Issue With Downloading Rt Slicer"
+date: 2023-10-23
+url: https://discourse.slicer.org/t/32386
+---
+
 # Issue with downloading RT slicer
 
 **Topic ID**: 32386

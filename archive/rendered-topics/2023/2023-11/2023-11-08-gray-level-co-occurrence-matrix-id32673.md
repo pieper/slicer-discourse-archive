@@ -1,3 +1,10 @@
+---
+topic_id: 32673
+title: "Gray Level Co Occurrence Matrix"
+date: 2023-11-08
+url: https://discourse.slicer.org/t/32673
+---
+
 # Gray Level Co-occurrence Matrix
 
 **Topic ID**: 32673

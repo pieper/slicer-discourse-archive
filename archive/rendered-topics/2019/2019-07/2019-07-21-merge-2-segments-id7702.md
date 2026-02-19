@@ -1,3 +1,10 @@
+---
+topic_id: 7702
+title: "Merge 2 Segments"
+date: 2019-07-21
+url: https://discourse.slicer.org/t/7702
+---
+
 # Merge 2 segments
 
 **Topic ID**: 7702

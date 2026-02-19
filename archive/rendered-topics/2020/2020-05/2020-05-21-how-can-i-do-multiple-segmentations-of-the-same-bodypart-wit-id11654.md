@@ -1,3 +1,10 @@
+---
+topic_id: 11654
+title: "How Can I Do Multiple Segmentations Of The Same Bodypart Wit"
+date: 2020-05-21
+url: https://discourse.slicer.org/t/11654
+---
+
 # How can I do multiple segmentations of the same bodypart without automatically transferring the setup from one to the other?
 
 **Topic ID**: 11654

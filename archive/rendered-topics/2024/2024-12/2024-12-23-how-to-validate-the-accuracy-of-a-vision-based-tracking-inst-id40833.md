@@ -1,3 +1,10 @@
+---
+topic_id: 40833
+title: "How To Validate The Accuracy Of A Vision Based Tracking Inst"
+date: 2024-12-23
+url: https://discourse.slicer.org/t/40833
+---
+
 # How to validate the accuracy of a vision-based tracking instrument in 3D Slicer navigation?
 
 **Topic ID**: 40833

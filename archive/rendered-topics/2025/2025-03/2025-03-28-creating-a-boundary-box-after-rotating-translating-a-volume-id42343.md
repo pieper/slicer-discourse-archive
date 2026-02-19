@@ -1,3 +1,10 @@
+---
+topic_id: 42343
+title: "Creating A Boundary Box After Rotating Translating A Volume"
+date: 2025-03-28
+url: https://discourse.slicer.org/t/42343
+---
+
 # Creating a boundary box after rotating/translating a volume
 
 **Topic ID**: 42343

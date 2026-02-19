@@ -1,3 +1,10 @@
+---
+topic_id: 34532
+title: "Troubleshooting Image Corruption In Nrrd Files When Concaten"
+date: 2024-02-25
+url: https://discourse.slicer.org/t/34532
+---
+
 # Troubleshooting Image Corruption in NRRD Files When Concatenating Multiple Raw Files into a Single Volume
 
 **Topic ID**: 34532

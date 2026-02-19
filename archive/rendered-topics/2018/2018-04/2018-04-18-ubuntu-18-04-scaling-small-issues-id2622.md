@@ -1,3 +1,10 @@
+---
+topic_id: 2622
+title: "Ubuntu 18 04 Scaling Small Issues"
+date: 2018-04-18
+url: https://discourse.slicer.org/t/2622
+---
+
 # Ubuntu 18.04 scaling small issues
 
 **Topic ID**: 2622

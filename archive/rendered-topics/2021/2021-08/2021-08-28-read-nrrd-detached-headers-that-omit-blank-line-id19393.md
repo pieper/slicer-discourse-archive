@@ -1,3 +1,10 @@
+---
+topic_id: 19393
+title: "Read Nrrd Detached Headers That Omit Blank Line"
+date: 2021-08-28
+url: https://discourse.slicer.org/t/19393
+---
+
 # Read NRRD detached headers that omit blank line
 
 **Topic ID**: 19393

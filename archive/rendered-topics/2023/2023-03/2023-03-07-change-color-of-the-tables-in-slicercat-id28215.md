@@ -1,3 +1,10 @@
+---
+topic_id: 28215
+title: "Change Color Of The Tables In Slicercat"
+date: 2023-03-07
+url: https://discourse.slicer.org/t/28215
+---
+
 # Change color of the tables in SlicerCAT
 
 **Topic ID**: 28215

@@ -1,3 +1,10 @@
+---
+topic_id: 4901
+title: "How To Export Volumetric Files From Ge Ultrasound"
+date: 2018-11-28
+url: https://discourse.slicer.org/t/4901
+---
+
 # How to export volumetric files from GE ultrasound
 
 **Topic ID**: 4901

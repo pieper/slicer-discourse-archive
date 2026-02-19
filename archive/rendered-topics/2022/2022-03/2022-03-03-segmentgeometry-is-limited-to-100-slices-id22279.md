@@ -1,3 +1,10 @@
+---
+topic_id: 22279
+title: "Segmentgeometry Is Limited To 100 Slices"
+date: 2022-03-03
+url: https://discourse.slicer.org/t/22279
+---
+
 # SegmentGeometry is limited to 100 slices
 
 **Topic ID**: 22279

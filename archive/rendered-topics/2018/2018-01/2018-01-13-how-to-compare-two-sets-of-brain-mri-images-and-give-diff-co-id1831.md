@@ -1,3 +1,10 @@
+---
+topic_id: 1831
+title: "How To Compare Two Sets Of Brain Mri Images And Give Diff Co"
+date: 2018-01-13
+url: https://discourse.slicer.org/t/1831
+---
+
 # How to compare two sets of brain MRI images and give diff color in the different parts?
 
 **Topic ID**: 1831

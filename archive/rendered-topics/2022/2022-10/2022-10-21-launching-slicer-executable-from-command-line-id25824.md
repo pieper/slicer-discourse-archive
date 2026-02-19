@@ -1,3 +1,10 @@
+---
+topic_id: 25824
+title: "Launching Slicer Executable From Command Line"
+date: 2022-10-21
+url: https://discourse.slicer.org/t/25824
+---
+
 # Launching slicer executable from command line
 
 **Topic ID**: 25824

@@ -1,3 +1,10 @@
+---
+topic_id: 14785
+title: "Obtaining The Curve Of Intersection Between Two Polydata"
+date: 2020-11-26
+url: https://discourse.slicer.org/t/14785
+---
+
 # Obtaining the curve of intersection between two polydata
 
 **Topic ID**: 14785

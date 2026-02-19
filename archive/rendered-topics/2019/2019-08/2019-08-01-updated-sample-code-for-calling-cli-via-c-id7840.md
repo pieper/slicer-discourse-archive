@@ -1,3 +1,10 @@
+---
+topic_id: 7840
+title: "Updated Sample Code For Calling Cli Via C"
+date: 2019-08-01
+url: https://discourse.slicer.org/t/7840
+---
+
 # Updated sample code for calling CLI via C++
 
 **Topic ID**: 7840

@@ -1,3 +1,10 @@
+---
+topic_id: 42203
+title: "Tutorial Maker Extension Issues"
+date: 2025-03-18
+url: https://discourse.slicer.org/t/42203
+---
+
 # Tutorial maker extension issues
 
 **Topic ID**: 42203

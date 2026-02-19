@@ -1,3 +1,10 @@
+---
+topic_id: 4962
+title: "Customization Vr Enviornment"
+date: 2018-12-04
+url: https://discourse.slicer.org/t/4962
+---
+
 # Customization VR enviornment
 
 **Topic ID**: 4962

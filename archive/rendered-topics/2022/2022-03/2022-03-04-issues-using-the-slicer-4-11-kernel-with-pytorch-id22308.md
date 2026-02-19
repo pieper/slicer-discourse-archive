@@ -1,3 +1,10 @@
+---
+topic_id: 22308
+title: "Issues Using The Slicer 4 11 Kernel With Pytorch"
+date: 2022-03-04
+url: https://discourse.slicer.org/t/22308
+---
+
 # Issues using the Slicer 4.11 kernel with Pytorch
 
 **Topic ID**: 22308

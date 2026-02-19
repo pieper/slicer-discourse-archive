@@ -1,3 +1,10 @@
+---
+topic_id: 29761
+title: "Custom Color Map Txt File Implementation Via Code"
+date: 2023-05-31
+url: https://discourse.slicer.org/t/29761
+---
+
 # Custom Color Map .txt file Implementation via code
 
 **Topic ID**: 29761

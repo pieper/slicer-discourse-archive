@@ -1,3 +1,10 @@
+---
+topic_id: 1720
+title: "In Documentation Wiki Refering To Undocking Docking What Is"
+date: 2017-12-26
+url: https://discourse.slicer.org/t/1720
+---
+
 # In Documentation Wiki, refering to undocking/docking, what is the 'panel chrome'?
 
 **Topic ID**: 1720

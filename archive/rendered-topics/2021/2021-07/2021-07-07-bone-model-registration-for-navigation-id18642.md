@@ -1,3 +1,10 @@
+---
+topic_id: 18642
+title: "Bone Model Registration For Navigation"
+date: 2021-07-07
+url: https://discourse.slicer.org/t/18642
+---
+
 # Bone model registration for navigation
 
 **Topic ID**: 18642

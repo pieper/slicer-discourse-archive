@@ -1,3 +1,10 @@
+---
+topic_id: 589
+title: "Dicom Image Loading Fails"
+date: 2017-06-28
+url: https://discourse.slicer.org/t/589
+---
+
 # DICOM image loading fails
 
 **Topic ID**: 589

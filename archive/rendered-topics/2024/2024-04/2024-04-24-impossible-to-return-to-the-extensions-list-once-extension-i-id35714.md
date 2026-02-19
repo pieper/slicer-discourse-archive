@@ -1,3 +1,10 @@
+---
+topic_id: 35714
+title: "Impossible To Return To The Extensions List Once Extension I"
+date: 2024-04-24
+url: https://discourse.slicer.org/t/35714
+---
+
 # Impossible to return to the extensions list once extension is opened
 
 **Topic ID**: 35714

@@ -1,3 +1,10 @@
+---
+topic_id: 15197
+title: "Extract Green Or Yellow Slices As A Stacked Tif Or Gif Or Di"
+date: 2020-12-23
+url: https://discourse.slicer.org/t/15197
+---
+
 # Extract Green or Yellow slices as a stacked tif or gif or DICOM files
 
 **Topic ID**: 15197

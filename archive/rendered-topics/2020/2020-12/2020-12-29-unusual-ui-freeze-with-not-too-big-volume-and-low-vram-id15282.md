@@ -1,3 +1,10 @@
+---
+topic_id: 15282
+title: "Unusual Ui Freeze With Not Too Big Volume And Low Vram"
+date: 2020-12-29
+url: https://discourse.slicer.org/t/15282
+---
+
 # Unusual UI freeze with not too big volume and low VRAM
 
 **Topic ID**: 15282

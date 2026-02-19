@@ -1,3 +1,10 @@
+---
+topic_id: 26190
+title: "Registration Request For 3D Objects"
+date: 2022-11-11
+url: https://discourse.slicer.org/t/26190
+---
+
 # Registration request for 3D objects
 
 **Topic ID**: 26190

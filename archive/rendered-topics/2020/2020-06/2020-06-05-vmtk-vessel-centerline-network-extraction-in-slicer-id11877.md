@@ -1,3 +1,10 @@
+---
+topic_id: 11877
+title: "Vmtk Vessel Centerline Network Extraction In Slicer"
+date: 2020-06-05
+url: https://discourse.slicer.org/t/11877
+---
+
 # VMTK vessel centerline network extraction in Slicer
 
 **Topic ID**: 11877

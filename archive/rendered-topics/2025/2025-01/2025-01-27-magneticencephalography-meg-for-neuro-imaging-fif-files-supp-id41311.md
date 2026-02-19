@@ -1,3 +1,10 @@
+---
+topic_id: 41311
+title: "Magneticencephalography Meg For Neuro Imaging Fif Files Supp"
+date: 2025-01-27
+url: https://discourse.slicer.org/t/41311
+---
+
 # Magneticencephalography(MEG) for neuro-imaging fif files supportive in 3D slicer 5.0version
 
 **Topic ID**: 41311

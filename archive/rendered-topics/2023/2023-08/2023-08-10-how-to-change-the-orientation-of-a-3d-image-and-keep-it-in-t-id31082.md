@@ -1,3 +1,10 @@
+---
+topic_id: 31082
+title: "How To Change The Orientation Of A 3D Image And Keep It In T"
+date: 2023-08-10
+url: https://discourse.slicer.org/t/31082
+---
+
 # How to change the orientation of a 3d image and keep it in the scene
 
 **Topic ID**: 31082

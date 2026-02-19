@@ -1,3 +1,10 @@
+---
+topic_id: 18319
+title: "Regarding Image Stacking"
+date: 2021-06-24
+url: https://discourse.slicer.org/t/18319
+---
+
 # Regarding image stacking
 
 **Topic ID**: 18319

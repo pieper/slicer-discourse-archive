@@ -1,3 +1,10 @@
+---
+topic_id: 21803
+title: "An Error Occurs During Installation Of Shapevariationanalyze"
+date: 2022-02-04
+url: https://discourse.slicer.org/t/21803
+---
+
 # An error occurs during installation of ShapeVariationAnalyzer extension
 
 **Topic ID**: 21803

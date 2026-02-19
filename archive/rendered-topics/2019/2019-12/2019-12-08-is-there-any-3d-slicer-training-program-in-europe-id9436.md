@@ -1,3 +1,10 @@
+---
+topic_id: 9436
+title: "Is There Any 3D Slicer Training Program In Europe"
+date: 2019-12-08
+url: https://discourse.slicer.org/t/9436
+---
+
 # Is there any 3D Slicer Training program in Europe?
 
 **Topic ID**: 9436

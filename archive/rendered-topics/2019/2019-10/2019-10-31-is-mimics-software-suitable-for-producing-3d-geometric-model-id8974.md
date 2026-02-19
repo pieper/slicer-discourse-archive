@@ -1,3 +1,10 @@
+---
+topic_id: 8974
+title: "Is Mimics Software Suitable For Producing 3D Geometric Model"
+date: 2019-10-31
+url: https://discourse.slicer.org/t/8974
+---
+
 # Is Mimics Software Suitable for Producing 3D Geometric Modeling of MRI Files?
 
 **Topic ID**: 8974

@@ -1,3 +1,10 @@
+---
+topic_id: 22222
+title: "Can You Help Me To Segment The Vertebral Body Of This Lumbar"
+date: 2022-02-28
+url: https://discourse.slicer.org/t/22222
+---
+
 # Can you help me to segment the vertebral body of this lumbar spine?
 
 **Topic ID**: 22222

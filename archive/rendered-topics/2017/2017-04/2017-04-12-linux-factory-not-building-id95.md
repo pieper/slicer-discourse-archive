@@ -1,3 +1,10 @@
+---
+topic_id: 95
+title: "Linux Factory Not Building"
+date: 2017-04-12
+url: https://discourse.slicer.org/t/95
+---
+
 # Linux factory not building
 
 **Topic ID**: 95

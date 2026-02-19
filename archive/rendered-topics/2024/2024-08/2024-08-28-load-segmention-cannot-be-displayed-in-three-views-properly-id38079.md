@@ -1,3 +1,10 @@
+---
+topic_id: 38079
+title: "Load Segmention Cannot Be Displayed In Three Views Properly"
+date: 2024-08-28
+url: https://discourse.slicer.org/t/38079
+---
+
 # Load segmention cannot be displayed in three views properly
 
 **Topic ID**: 38079

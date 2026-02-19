@@ -1,3 +1,10 @@
+---
+topic_id: 35975
+title: "Updating Segmentation Using Numpy And Transforms"
+date: 2024-05-07
+url: https://discourse.slicer.org/t/35975
+---
+
 # Updating segmentation using numpy and transforms
 
 **Topic ID**: 35975

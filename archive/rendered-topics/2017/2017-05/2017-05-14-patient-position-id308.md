@@ -1,3 +1,10 @@
+---
+topic_id: 308
+title: "Patient Position"
+date: 2017-05-14
+url: https://discourse.slicer.org/t/308
+---
+
 # Patient position
 
 **Topic ID**: 308

@@ -1,3 +1,10 @@
+---
+topic_id: 39713
+title: "Question About The Minor And Major Axes Length Formulas"
+date: 2024-10-15
+url: https://discourse.slicer.org/t/39713
+---
+
 # Question about the minor and major axes' length formulas
 
 **Topic ID**: 39713

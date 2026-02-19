@@ -1,3 +1,10 @@
+---
+topic_id: 7686
+title: "Running Multiple Clis At Once"
+date: 2019-07-19
+url: https://discourse.slicer.org/t/7686
+---
+
 # Running multiple CLIs at once
 
 **Topic ID**: 7686

@@ -1,3 +1,10 @@
+---
+topic_id: 15956
+title: "Parts Of A Module User Interface Are Unreadable In Dark Mode"
+date: 2021-02-11
+url: https://discourse.slicer.org/t/15956
+---
+
 # Parts of a module user interface are unreadable in dark mode on macOS
 
 **Topic ID**: 15956

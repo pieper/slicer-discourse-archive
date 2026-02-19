@@ -1,3 +1,10 @@
+---
+topic_id: 39605
+title: "How To Interpolate Ct Scan Slices So I Can Plot It In 3D"
+date: 2024-10-09
+url: https://discourse.slicer.org/t/39605
+---
+
 # How to interpolate CT scan slices so i can plot it in 3D 
 
 **Topic ID**: 39605

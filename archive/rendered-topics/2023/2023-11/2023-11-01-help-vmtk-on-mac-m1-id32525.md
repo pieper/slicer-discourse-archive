@@ -1,3 +1,10 @@
+---
+topic_id: 32525
+title: "Help Vmtk On Mac M1"
+date: 2023-11-01
+url: https://discourse.slicer.org/t/32525
+---
+
 # HELP VMTK on Mac M1
 
 **Topic ID**: 32525

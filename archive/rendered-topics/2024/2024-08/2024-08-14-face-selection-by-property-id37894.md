@@ -1,3 +1,10 @@
+---
+topic_id: 37894
+title: "Face Selection By Property"
+date: 2024-08-14
+url: https://discourse.slicer.org/t/37894
+---
+
 # Face Selection by Property
 
 **Topic ID**: 37894

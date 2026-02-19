@@ -1,3 +1,10 @@
+---
+topic_id: 43791
+title: "Request For Evidence Supporting The Use Of Totalsegmentators"
+date: 2025-07-21
+url: https://discourse.slicer.org/t/43791
+---
+
 # Request for evidence supporting the use of TotalSegmentator's tissue types task for body composition research
 
 **Topic ID**: 43791

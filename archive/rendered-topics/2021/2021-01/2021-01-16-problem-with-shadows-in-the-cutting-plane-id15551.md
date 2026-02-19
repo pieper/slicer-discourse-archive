@@ -1,3 +1,10 @@
+---
+topic_id: 15551
+title: "Problem With Shadows In The Cutting Plane"
+date: 2021-01-16
+url: https://discourse.slicer.org/t/15551
+---
+
 # Problem with shadows in the cutting plane
 
 **Topic ID**: 15551

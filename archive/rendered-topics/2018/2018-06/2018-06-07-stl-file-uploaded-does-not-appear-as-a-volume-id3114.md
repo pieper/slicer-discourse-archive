@@ -1,3 +1,10 @@
+---
+topic_id: 3114
+title: "Stl File Uploaded Does Not Appear As A Volume"
+date: 2018-06-07
+url: https://discourse.slicer.org/t/3114
+---
+
 # .stl file uploaded does not appear as a "volume"
 
 **Topic ID**: 3114

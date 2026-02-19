@@ -1,3 +1,10 @@
+---
+topic_id: 34979
+title: "How To Cut Ultrasound Image From Interface"
+date: 2024-03-19
+url: https://discourse.slicer.org/t/34979
+---
+
 # How to cut ultrasound image from interface
 
 **Topic ID**: 34979

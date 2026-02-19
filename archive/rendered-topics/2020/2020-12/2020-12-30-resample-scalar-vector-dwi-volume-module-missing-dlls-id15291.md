@@ -1,3 +1,10 @@
+---
+topic_id: 15291
+title: "Resample Scalar Vector Dwi Volume Module Missing Dlls"
+date: 2020-12-30
+url: https://discourse.slicer.org/t/15291
+---
+
 # Resample Scalar/Vector/DWI Volume Module missing DLLs
 
 **Topic ID**: 15291

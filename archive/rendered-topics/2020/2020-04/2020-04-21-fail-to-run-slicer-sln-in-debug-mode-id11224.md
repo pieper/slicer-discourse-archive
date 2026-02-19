@@ -1,3 +1,10 @@
+---
+topic_id: 11224
+title: "Fail To Run Slicer Sln In Debug Mode"
+date: 2020-04-21
+url: https://discourse.slicer.org/t/11224
+---
+
 # Fail to Run Slicer.sln in debug mode
 
 **Topic ID**: 11224

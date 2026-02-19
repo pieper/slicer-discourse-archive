@@ -1,3 +1,10 @@
+---
+topic_id: 25392
+title: "Segmentation Of All Teeth And Its Components"
+date: 2022-09-22
+url: https://discourse.slicer.org/t/25392
+---
+
 # Segmentation of all teeth and its components
 
 **Topic ID**: 25392

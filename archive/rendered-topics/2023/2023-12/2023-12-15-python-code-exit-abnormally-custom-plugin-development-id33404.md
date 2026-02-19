@@ -1,3 +1,10 @@
+---
+topic_id: 33404
+title: "Python Code Exit Abnormally Custom Plugin Development"
+date: 2023-12-15
+url: https://discourse.slicer.org/t/33404
+---
+
 # Python code exit abnormally. custom plugin development
 
 **Topic ID**: 33404

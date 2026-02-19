@@ -1,3 +1,10 @@
+---
+topic_id: 34860
+title: "Segmenting Outer Heart Walls Septum"
+date: 2024-03-13
+url: https://discourse.slicer.org/t/34860
+---
+
 # Segmenting outer heart walls + septum
 
 **Topic ID**: 34860

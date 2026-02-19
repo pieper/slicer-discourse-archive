@@ -1,3 +1,10 @@
+---
+topic_id: 25300
+title: "How To Modify Slicers Style"
+date: 2022-09-16
+url: https://discourse.slicer.org/t/25300
+---
+
 # How to modify Slicer's style
 
 **Topic ID**: 25300

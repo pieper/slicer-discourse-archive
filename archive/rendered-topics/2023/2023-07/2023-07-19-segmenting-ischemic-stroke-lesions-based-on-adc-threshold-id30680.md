@@ -1,3 +1,10 @@
+---
+topic_id: 30680
+title: "Segmenting Ischemic Stroke Lesions Based On Adc Threshold"
+date: 2023-07-19
+url: https://discourse.slicer.org/t/30680
+---
+
 # Segmenting ischemic stroke lesions based on ADC threshold
 
 **Topic ID**: 30680

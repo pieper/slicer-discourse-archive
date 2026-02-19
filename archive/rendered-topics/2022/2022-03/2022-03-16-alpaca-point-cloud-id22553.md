@@ -1,3 +1,10 @@
+---
+topic_id: 22553
+title: "Alpaca Point Cloud"
+date: 2022-03-16
+url: https://discourse.slicer.org/t/22553
+---
+
 # ALPACA point cloud 
 
 **Topic ID**: 22553

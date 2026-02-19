@@ -1,3 +1,10 @@
+---
+topic_id: 28332
+title: "Rfc Should This Method Be Generally Available"
+date: 2023-03-12
+url: https://discourse.slicer.org/t/28332
+---
+
 # RFC: should this method be generally available?
 
 **Topic ID**: 28332

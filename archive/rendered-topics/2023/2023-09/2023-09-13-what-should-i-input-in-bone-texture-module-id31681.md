@@ -1,3 +1,10 @@
+---
+topic_id: 31681
+title: "What Should I Input In Bone Texture Module"
+date: 2023-09-13
+url: https://discourse.slicer.org/t/31681
+---
+
 # What should I input  in Bone texture module?
 
 **Topic ID**: 31681

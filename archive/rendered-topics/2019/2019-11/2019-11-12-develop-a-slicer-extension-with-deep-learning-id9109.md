@@ -1,3 +1,10 @@
+---
+topic_id: 9109
+title: "Develop A Slicer Extension With Deep Learning"
+date: 2019-11-12
+url: https://discourse.slicer.org/t/9109
+---
+
 # Develop a slicer extension with Deep Learning
 
 **Topic ID**: 9109

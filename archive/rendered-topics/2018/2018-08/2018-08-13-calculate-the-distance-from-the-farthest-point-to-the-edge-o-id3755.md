@@ -1,3 +1,10 @@
+---
+topic_id: 3755
+title: "Calculate The Distance From The Farthest Point To The Edge O"
+date: 2018-08-13
+url: https://discourse.slicer.org/t/3755
+---
+
 # Calculate the distance from the farthest point to the edge of the radiation field
 
 **Topic ID**: 3755

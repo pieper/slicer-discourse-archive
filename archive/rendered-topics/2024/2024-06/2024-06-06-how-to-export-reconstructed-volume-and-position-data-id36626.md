@@ -1,3 +1,10 @@
+---
+topic_id: 36626
+title: "How To Export Reconstructed Volume And Position Data"
+date: 2024-06-06
+url: https://discourse.slicer.org/t/36626
+---
+
 # How to Export Reconstructed Volume and Position Data
 
 **Topic ID**: 36626

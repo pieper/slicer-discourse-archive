@@ -1,3 +1,10 @@
+---
+topic_id: 24707
+title: "Exporting Multiple Markup Points"
+date: 2022-08-10
+url: https://discourse.slicer.org/t/24707
+---
+
 # Exporting multiple markup points
 
 **Topic ID**: 24707

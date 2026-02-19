@@ -1,3 +1,10 @@
+---
+topic_id: 21792
+title: "Loaded Models Are Sometimes In Different Coordinate System A"
+date: 2022-02-03
+url: https://discourse.slicer.org/t/21792
+---
+
 # Loaded models are sometimes in different coordinate system, and sometimes not. What exactly is going on?
 
 **Topic ID**: 21792

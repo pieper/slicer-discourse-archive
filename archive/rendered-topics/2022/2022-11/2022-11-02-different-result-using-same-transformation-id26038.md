@@ -1,3 +1,10 @@
+---
+topic_id: 26038
+title: "Different Result Using Same Transformation"
+date: 2022-11-02
+url: https://discourse.slicer.org/t/26038
+---
+
 # Different result using same transformation
 
 **Topic ID**: 26038

@@ -1,3 +1,10 @@
+---
+topic_id: 13162
+title: "How To Activate Slice Intersections From Python Module"
+date: 2020-08-25
+url: https://discourse.slicer.org/t/13162
+---
+
 # How to activate slice intersections from python module?
 
 **Topic ID**: 13162

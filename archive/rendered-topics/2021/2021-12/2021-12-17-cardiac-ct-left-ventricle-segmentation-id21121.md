@@ -1,3 +1,10 @@
+---
+topic_id: 21121
+title: "Cardiac Ct Left Ventricle Segmentation"
+date: 2021-12-17
+url: https://discourse.slicer.org/t/21121
+---
+
 # Cardiac CT left ventricle segmentation
 
 **Topic ID**: 21121

@@ -1,3 +1,10 @@
+---
+topic_id: 21234
+title: "Understand How Volume Rendering Presets Meet Specific Dicom"
+date: 2021-12-27
+url: https://discourse.slicer.org/t/21234
+---
+
 # Understand how volume rendering presets meet specific dicom viewer usage
 
 **Topic ID**: 21234

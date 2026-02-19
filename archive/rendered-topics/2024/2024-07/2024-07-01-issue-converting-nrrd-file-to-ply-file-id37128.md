@@ -1,3 +1,10 @@
+---
+topic_id: 37128
+title: "Issue Converting Nrrd File To Ply File"
+date: 2024-07-01
+url: https://discourse.slicer.org/t/37128
+---
+
 # Issue converting NRRD file to PLY file
 
 **Topic ID**: 37128

@@ -1,3 +1,10 @@
+---
+topic_id: 1391
+title: "Remove Selected Island In 3D View"
+date: 2017-11-07
+url: https://discourse.slicer.org/t/1391
+---
+
 # Remove Selected Island in 3D view?
 
 **Topic ID**: 1391

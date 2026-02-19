@@ -1,3 +1,10 @@
+---
+topic_id: 30205
+title: "Generate A 3D Model From Ct Scan Of A Population"
+date: 2023-06-24
+url: https://discourse.slicer.org/t/30205
+---
+
 # Generate a 3D model from CT scan of a population
 
 **Topic ID**: 30205

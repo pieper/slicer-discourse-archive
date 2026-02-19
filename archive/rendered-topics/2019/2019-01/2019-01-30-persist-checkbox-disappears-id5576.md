@@ -1,3 +1,10 @@
+---
+topic_id: 5576
+title: "Persist Checkbox Disappears"
+date: 2019-01-30
+url: https://discourse.slicer.org/t/5576
+---
+
 # Persist checkbox disappears
 
 **Topic ID**: 5576

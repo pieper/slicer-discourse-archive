@@ -1,3 +1,10 @@
+---
+topic_id: 10245
+title: "Cannot Store Multivolumeexplorer Chart To Svg"
+date: 2020-02-13
+url: https://discourse.slicer.org/t/10245
+---
+
 # Cannot store MultiVolumeExplorer chart to .svg
 
 **Topic ID**: 10245

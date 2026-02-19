@@ -1,3 +1,10 @@
+---
+topic_id: 9137
+title: "Perk Tutor Return More Than One Value In Custom Metric Funct"
+date: 2019-11-13
+url: https://discourse.slicer.org/t/9137
+---
+
 # Perk Tutor - Return more than one value in custom metric function
 
 **Topic ID**: 9137

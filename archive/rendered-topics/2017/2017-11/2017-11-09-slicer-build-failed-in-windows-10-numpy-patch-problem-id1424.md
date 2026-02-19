@@ -1,3 +1,10 @@
+---
+topic_id: 1424
+title: "Slicer Build Failed In Windows 10 Numpy Patch Problem"
+date: 2017-11-09
+url: https://discourse.slicer.org/t/1424
+---
+
 # Slicer build failed in windows 10, numpy patch problem
 
 **Topic ID**: 1424

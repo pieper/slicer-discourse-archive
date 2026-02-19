@@ -1,3 +1,10 @@
+---
+topic_id: 29779
+title: "How To Access A Package Declared In Slicer Extension From Th"
+date: 2023-06-01
+url: https://discourse.slicer.org/t/29779
+---
+
 # How to access a package declared in Slicer extension from the python console?
 
 **Topic ID**: 29779

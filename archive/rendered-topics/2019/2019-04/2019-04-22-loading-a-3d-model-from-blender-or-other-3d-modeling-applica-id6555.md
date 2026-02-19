@@ -1,3 +1,10 @@
+---
+topic_id: 6555
+title: "Loading A 3D Model From Blender Or Other 3D Modeling Applica"
+date: 2019-04-22
+url: https://discourse.slicer.org/t/6555
+---
+
 # Loading a 3D model from Blender or other 3D modeling applications (STL, 3DS, FBX file format) into the scene programmatically using Python
 
 **Topic ID**: 6555

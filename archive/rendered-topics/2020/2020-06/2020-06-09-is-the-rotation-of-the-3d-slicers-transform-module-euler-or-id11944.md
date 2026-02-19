@@ -1,3 +1,10 @@
+---
+topic_id: 11944
+title: "Is The Rotation Of The 3D Slicers Transform Module Euler Or"
+date: 2020-06-09
+url: https://discourse.slicer.org/t/11944
+---
+
 # Is the rotation of the 3D Slicer's Transform module Euler or Quaternion?
 
 **Topic ID**: 11944

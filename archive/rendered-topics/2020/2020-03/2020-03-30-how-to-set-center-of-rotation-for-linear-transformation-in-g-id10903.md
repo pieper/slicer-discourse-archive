@@ -1,3 +1,10 @@
+---
+topic_id: 10903
+title: "How To Set Center Of Rotation For Linear Transformation In G"
+date: 2020-03-30
+url: https://discourse.slicer.org/t/10903
+---
+
 # How to set center of rotation for linear transformation in GUI
 
 **Topic ID**: 10903

@@ -1,3 +1,10 @@
+---
+topic_id: 1367
+title: "Error Running Cli Modules On Multi User Linux System"
+date: 2017-11-03
+url: https://discourse.slicer.org/t/1367
+---
+
 # Error running CLI modules on multi-user linux system
 
 **Topic ID**: 1367

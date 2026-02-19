@@ -1,3 +1,10 @@
+---
+topic_id: 5466
+title: "Problem With Rt Dose"
+date: 2019-01-22
+url: https://discourse.slicer.org/t/5466
+---
+
 # Problem with RT dose
 
 **Topic ID**: 5466

@@ -1,3 +1,10 @@
+---
+topic_id: 18853
+title: "Anyone Know Of Any Good Databases For Knee Ct Scans"
+date: 2021-07-21
+url: https://discourse.slicer.org/t/18853
+---
+
 # anyone know of any good databases for knee ct scans
 
 **Topic ID**: 18853

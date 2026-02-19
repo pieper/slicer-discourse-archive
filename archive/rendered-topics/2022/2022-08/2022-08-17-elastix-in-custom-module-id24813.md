@@ -1,3 +1,10 @@
+---
+topic_id: 24813
+title: "Elastix In Custom Module"
+date: 2022-08-17
+url: https://discourse.slicer.org/t/24813
+---
+
 # Elastix in custom module
 
 **Topic ID**: 24813

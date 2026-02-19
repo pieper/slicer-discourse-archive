@@ -1,3 +1,10 @@
+---
+topic_id: 25684
+title: "Markups Roi Adjust Line Thickness Not Worked"
+date: 2022-10-13
+url: https://discourse.slicer.org/t/25684
+---
+
 # Markups ROI, adjust line thickness not worked?
 
 **Topic ID**: 25684

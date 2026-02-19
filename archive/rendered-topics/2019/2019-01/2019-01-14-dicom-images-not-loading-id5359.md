@@ -1,3 +1,10 @@
+---
+topic_id: 5359
+title: "Dicom Images Not Loading"
+date: 2019-01-14
+url: https://discourse.slicer.org/t/5359
+---
+
 # DICOM Images not loading
 
 **Topic ID**: 5359

@@ -1,3 +1,10 @@
+---
+topic_id: 17288
+title: "Showing Arteries"
+date: 2021-04-24
+url: https://discourse.slicer.org/t/17288
+---
+
 # Showing Arteries
 
 **Topic ID**: 17288

@@ -1,3 +1,10 @@
+---
+topic_id: 29040
+title: "Beginner Issues Segmenting Brain To Stl For 3D Print"
+date: 2023-04-21
+url: https://discourse.slicer.org/t/29040
+---
+
 # Beginner issues segmenting brain to stl for 3d print
 
 **Topic ID**: 29040

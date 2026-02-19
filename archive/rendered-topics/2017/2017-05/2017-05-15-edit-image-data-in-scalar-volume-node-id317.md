@@ -1,3 +1,10 @@
+---
+topic_id: 317
+title: "Edit Image Data In Scalar Volume Node"
+date: 2017-05-15
+url: https://discourse.slicer.org/t/317
+---
+
 # Edit Image Data in Scalar Volume Node
 
 **Topic ID**: 317

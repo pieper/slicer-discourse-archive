@@ -1,3 +1,10 @@
+---
+topic_id: 32130
+title: "Save As Nrrd File From Segmentation"
+date: 2023-10-10
+url: https://discourse.slicer.org/t/32130
+---
+
 # Save as nrrd file from segmentation
 
 **Topic ID**: 32130

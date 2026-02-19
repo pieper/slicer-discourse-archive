@@ -1,3 +1,10 @@
+---
+topic_id: 26755
+title: "Totalsegmentator Error At First Run Command Python Scripts T"
+date: 2022-12-15
+url: https://discourse.slicer.org/t/26755
+---
+
 # TotalSegmentator error at first run: Command ...Python\Scripts\TotalSegmentator... returned non-zero exit status 120
 
 **Topic ID**: 26755

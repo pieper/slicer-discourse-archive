@@ -1,3 +1,10 @@
+---
+topic_id: 14305
+title: "Automate Converting Model To Segmentation"
+date: 2020-10-29
+url: https://discourse.slicer.org/t/14305
+---
+
 # Automate converting model to segmentation
 
 **Topic ID**: 14305

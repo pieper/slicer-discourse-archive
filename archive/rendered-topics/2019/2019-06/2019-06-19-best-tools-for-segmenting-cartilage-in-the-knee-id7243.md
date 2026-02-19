@@ -1,3 +1,10 @@
+---
+topic_id: 7243
+title: "Best Tools For Segmenting Cartilage In The Knee"
+date: 2019-06-19
+url: https://discourse.slicer.org/t/7243
+---
+
 # Best Tools for Segmenting Cartilage in the Knee
 
 **Topic ID**: 7243

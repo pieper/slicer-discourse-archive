@@ -1,3 +1,10 @@
+---
+topic_id: 260
+title: "Google Docs Users Hit With Sophisticated Phishing Attack"
+date: 2017-05-03
+url: https://discourse.slicer.org/t/260
+---
+
 # Google Docs users hit with sophisticated phishing attack
 
 **Topic ID**: 260

@@ -1,3 +1,10 @@
+---
+topic_id: 30840
+title: "Problem With Data Bases"
+date: 2023-07-28
+url: https://discourse.slicer.org/t/30840
+---
+
 # Problem with data bases 
 
 **Topic ID**: 30840

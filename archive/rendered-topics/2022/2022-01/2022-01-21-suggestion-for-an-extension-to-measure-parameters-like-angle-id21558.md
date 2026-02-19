@@ -1,3 +1,10 @@
+---
+topic_id: 21558
+title: "Suggestion For An Extension To Measure Parameters Like Angle"
+date: 2022-01-21
+url: https://discourse.slicer.org/t/21558
+---
+
 # Suggestion for an extension to measure parameters (Like angle in 2d plane, drawing straight and curved line) or is there any other DICOM viewer like slicer with these features available for windows
 
 **Topic ID**: 21558

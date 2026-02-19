@@ -1,3 +1,10 @@
+---
+topic_id: 31355
+title: "Using Monai Label With Imports"
+date: 2023-08-25
+url: https://discourse.slicer.org/t/31355
+---
+
 # Using Monai Label with Imports
 
 **Topic ID**: 31355

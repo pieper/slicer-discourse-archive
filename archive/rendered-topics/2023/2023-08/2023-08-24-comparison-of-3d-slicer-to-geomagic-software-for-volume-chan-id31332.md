@@ -1,3 +1,10 @@
+---
+topic_id: 31332
+title: "Comparison Of 3D Slicer To Geomagic Software For Volume Chan"
+date: 2023-08-24
+url: https://discourse.slicer.org/t/31332
+---
+
 # Comparison of 3D slicer to geomagic software for volume change
 
 **Topic ID**: 31332

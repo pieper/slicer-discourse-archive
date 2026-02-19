@@ -1,3 +1,10 @@
+---
+topic_id: 15774
+title: "Crash On Slicer Startup On Qt5 Linux Mint"
+date: 2021-02-01
+url: https://discourse.slicer.org/t/15774
+---
+
 # Crash on Slicer Startup on Qt5 Linux Mint
 
 **Topic ID**: 15774

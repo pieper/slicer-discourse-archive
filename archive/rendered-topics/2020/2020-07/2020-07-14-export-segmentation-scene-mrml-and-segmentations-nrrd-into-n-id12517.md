@@ -1,3 +1,10 @@
+---
+topic_id: 12517
+title: "Export Segmentation Scene Mrml And Segmentations Nrrd Into N"
+date: 2020-07-14
+url: https://discourse.slicer.org/t/12517
+---
+
 # Export segmentation scene (mrml) and segmentations (nrrd) into Nifti format for dropbox viewing
 
 **Topic ID**: 12517

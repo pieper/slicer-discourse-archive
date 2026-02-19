@@ -1,3 +1,10 @@
+---
+topic_id: 8784
+title: "Tests Failed On Circleci"
+date: 2019-10-15
+url: https://discourse.slicer.org/t/8784
+---
+
 # Tests failed on CircleCI
 
 **Topic ID**: 8784

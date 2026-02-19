@@ -1,3 +1,10 @@
+---
+topic_id: 29711
+title: "Loading Patient Dicom Files Containing Multiple Volume Seque"
+date: 2023-05-29
+url: https://discourse.slicer.org/t/29711
+---
+
 # Loading patient DICOM files containing multiple Volume Sequences
 
 **Topic ID**: 29711

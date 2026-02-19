@@ -1,3 +1,10 @@
+---
+topic_id: 8143
+title: "Obtain Outside Contour"
+date: 2019-08-23
+url: https://discourse.slicer.org/t/8143
+---
+
 # Obtain outside contour
 
 **Topic ID**: 8143

@@ -1,3 +1,10 @@
+---
+topic_id: 5059
+title: "Make Slicer Simpler To Use For New Users"
+date: 2018-12-12
+url: https://discourse.slicer.org/t/5059
+---
+
 # Make Slicer simpler to use for new users
 
 **Topic ID**: 5059

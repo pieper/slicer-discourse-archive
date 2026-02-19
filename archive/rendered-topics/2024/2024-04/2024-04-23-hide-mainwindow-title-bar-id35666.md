@@ -1,3 +1,10 @@
+---
+topic_id: 35666
+title: "Hide Mainwindow Title Bar"
+date: 2024-04-23
+url: https://discourse.slicer.org/t/35666
+---
+
 # Hide mainWindow title bar
 
 **Topic ID**: 35666

@@ -1,3 +1,10 @@
+---
+topic_id: 20176
+title: "Slicer Becomes Slower Over Time During Surgical Navigation C"
+date: 2021-10-15
+url: https://discourse.slicer.org/t/20176
+---
+
 # Slicer becomes slower over time during surgical navigation cases
 
 **Topic ID**: 20176

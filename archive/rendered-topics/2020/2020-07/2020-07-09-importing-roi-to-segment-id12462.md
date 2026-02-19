@@ -1,3 +1,10 @@
+---
+topic_id: 12462
+title: "Importing Roi To Segment"
+date: 2020-07-09
+url: https://discourse.slicer.org/t/12462
+---
+
 # Importing ROI to Segment
 
 **Topic ID**: 12462

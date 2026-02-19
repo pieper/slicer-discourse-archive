@@ -1,3 +1,10 @@
+---
+topic_id: 32971
+title: "Change Models Color"
+date: 2023-11-22
+url: https://discourse.slicer.org/t/32971
+---
+
 # Change models color
 
 **Topic ID**: 32971

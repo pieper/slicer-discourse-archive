@@ -1,3 +1,10 @@
+---
+topic_id: 32036
+title: "More Precision Of Totalsegmentator"
+date: 2023-10-04
+url: https://discourse.slicer.org/t/32036
+---
+
 # More precision of TotalSegmentator?
 
 **Topic ID**: 32036

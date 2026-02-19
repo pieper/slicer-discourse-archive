@@ -1,3 +1,10 @@
+---
+topic_id: 40063
+title: "Slicermorph 3D Morphometrics Short Course In Sao Paulo Brazi"
+date: 2024-11-07
+url: https://discourse.slicer.org/t/40063
+---
+
 # SlicerMorph 3D Morphometrics short course in Sao Paulo Brazil in December
 
 **Topic ID**: 40063

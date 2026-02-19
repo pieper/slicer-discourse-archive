@@ -1,3 +1,10 @@
+---
+topic_id: 19143
+title: "Vertebra Segmentation For Volume Masking"
+date: 2021-08-10
+url: https://discourse.slicer.org/t/19143
+---
+
 # Vertebra segmentation for volume masking
 
 **Topic ID**: 19143

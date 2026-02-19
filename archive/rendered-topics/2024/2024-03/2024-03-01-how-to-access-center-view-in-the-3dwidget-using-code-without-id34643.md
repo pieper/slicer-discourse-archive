@@ -1,3 +1,10 @@
+---
+topic_id: 34643
+title: "How To Access Center View In The 3Dwidget Using Code Without"
+date: 2024-03-01
+url: https://discourse.slicer.org/t/34643
+---
+
 # How to access center view in the 3dwidget using code without pressing the center view option?
 
 **Topic ID**: 34643

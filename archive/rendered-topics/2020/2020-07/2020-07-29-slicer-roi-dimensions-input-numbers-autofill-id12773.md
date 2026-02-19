@@ -1,3 +1,10 @@
+---
+topic_id: 12773
+title: "Slicer Roi Dimensions Input Numbers Autofill"
+date: 2020-07-29
+url: https://discourse.slicer.org/t/12773
+---
+
 # Slicer ROI dimensions Input numbers autofill
 
 **Topic ID**: 12773

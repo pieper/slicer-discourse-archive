@@ -1,3 +1,10 @@
+---
+topic_id: 7833
+title: "Segmentation Using Thresholding Using Python"
+date: 2019-07-31
+url: https://discourse.slicer.org/t/7833
+---
+
 # Segmentation using thresholding using Python
 
 **Topic ID**: 7833

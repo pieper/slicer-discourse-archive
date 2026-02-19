@@ -1,3 +1,10 @@
+---
+topic_id: 12040
+title: "Problem Loading Png In Coronal And Sagital Vindows Editor Se"
+date: 2020-06-15
+url: https://discourse.slicer.org/t/12040
+---
+
 # Problem loading png. in coronal and sagital vindows + Editor segmentation diabeled 
 
 **Topic ID**: 12040

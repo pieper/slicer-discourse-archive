@@ -1,3 +1,10 @@
+---
+topic_id: 18420
+title: "Creating Sub Segments"
+date: 2021-06-30
+url: https://discourse.slicer.org/t/18420
+---
+
 # Creating sub-segments
 
 **Topic ID**: 18420

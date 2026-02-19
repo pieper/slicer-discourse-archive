@@ -1,3 +1,10 @@
+---
+topic_id: 11117
+title: "Apply A Smooth Dense Deformation"
+date: 2020-04-15
+url: https://discourse.slicer.org/t/11117
+---
+
 # Apply a smooth dense deformation
 
 **Topic ID**: 11117

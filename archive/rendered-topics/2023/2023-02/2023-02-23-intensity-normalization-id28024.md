@@ -1,3 +1,10 @@
+---
+topic_id: 28024
+title: "Intensity Normalization"
+date: 2023-02-23
+url: https://discourse.slicer.org/t/28024
+---
+
 # Intensity normalization
 
 **Topic ID**: 28024

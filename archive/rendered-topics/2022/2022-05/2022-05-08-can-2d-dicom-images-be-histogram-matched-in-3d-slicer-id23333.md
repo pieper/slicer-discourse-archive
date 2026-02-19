@@ -1,3 +1,10 @@
+---
+topic_id: 23333
+title: "Can 2D Dicom Images Be Histogram Matched In 3D Slicer"
+date: 2022-05-08
+url: https://discourse.slicer.org/t/23333
+---
+
 # Can 2D dicom images be histogram matched in 3D slicer?
 
 **Topic ID**: 23333

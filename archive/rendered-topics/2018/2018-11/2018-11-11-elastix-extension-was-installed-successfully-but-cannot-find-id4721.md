@@ -1,3 +1,10 @@
+---
+topic_id: 4721
+title: "Elastix Extension Was Installed Successfully But Cannot Find"
+date: 2018-11-11
+url: https://discourse.slicer.org/t/4721
+---
+
 # Elastix extension was installed successfully but cannot find in the modules file.
 
 **Topic ID**: 4721

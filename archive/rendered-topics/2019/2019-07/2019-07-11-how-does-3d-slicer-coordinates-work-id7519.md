@@ -1,3 +1,10 @@
+---
+topic_id: 7519
+title: "How Does 3D Slicer Coordinates Work"
+date: 2019-07-11
+url: https://discourse.slicer.org/t/7519
+---
+
 # How does 3D Slicer coordinates work?
 
 **Topic ID**: 7519

@@ -1,3 +1,10 @@
+---
+topic_id: 10858
+title: "Error When Building The Latest Build 2020 03 25"
+date: 2020-03-26
+url: https://discourse.slicer.org/t/10858
+---
+
 # Error when building the latest build (2020-03-25)
 
 **Topic ID**: 10858

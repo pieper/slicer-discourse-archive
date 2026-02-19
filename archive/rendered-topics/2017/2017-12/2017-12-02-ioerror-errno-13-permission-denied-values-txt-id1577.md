@@ -1,3 +1,10 @@
+---
+topic_id: 1577
+title: "Ioerror Errno 13 Permission Denied Values Txt"
+date: 2017-12-02
+url: https://discourse.slicer.org/t/1577
+---
+
 # IOError: [Errno 13] Permission denied: 'Values.txt'
 
 **Topic ID**: 1577

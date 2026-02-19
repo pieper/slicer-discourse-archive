@@ -1,3 +1,10 @@
+---
+topic_id: 22566
+title: "Projection Of Interpolated Points On Open Curve Markup"
+date: 2022-03-17
+url: https://discourse.slicer.org/t/22566
+---
+
 # Projection of interpolated points on open curve markup
 
 **Topic ID**: 22566

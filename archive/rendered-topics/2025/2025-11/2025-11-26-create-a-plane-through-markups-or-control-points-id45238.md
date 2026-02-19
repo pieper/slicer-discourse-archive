@@ -1,3 +1,10 @@
+---
+topic_id: 45238
+title: "Create A Plane Through Markups Or Control Points"
+date: 2025-11-26
+url: https://discourse.slicer.org/t/45238
+---
+
 # Create a plane through markups or control points
 
 **Topic ID**: 45238

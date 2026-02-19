@@ -1,3 +1,10 @@
+---
+topic_id: 37317
+title: "2D Slice 3D View Interactions For Plot And Table Views"
+date: 2024-07-10
+url: https://discourse.slicer.org/t/37317
+---
+
 # 2D Slice/3D View interactions for Plot and Table views
 
 **Topic ID**: 37317

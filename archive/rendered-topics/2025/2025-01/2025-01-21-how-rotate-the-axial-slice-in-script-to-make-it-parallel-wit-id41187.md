@@ -1,3 +1,10 @@
+---
+topic_id: 41187
+title: "How Rotate The Axial Slice In Script To Make It Parallel Wit"
+date: 2025-01-21
+url: https://discourse.slicer.org/t/41187
+---
+
 # How rotate the axial slice in script to make it parallel with the plane across 3 specified points?
 
 **Topic ID**: 41187

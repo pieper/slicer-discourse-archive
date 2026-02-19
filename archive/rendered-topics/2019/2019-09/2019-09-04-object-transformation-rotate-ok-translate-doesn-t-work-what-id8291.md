@@ -1,3 +1,10 @@
+---
+topic_id: 8291
+title: "Object Transformation Rotate Ok Translate Doesn T Work What"
+date: 2019-09-04
+url: https://discourse.slicer.org/t/8291
+---
+
 # Object-transformation rotate = OK translate doesn´t work, what´s wrong
 
 **Topic ID**: 8291

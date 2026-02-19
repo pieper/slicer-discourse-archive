@@ -1,3 +1,10 @@
+---
+topic_id: 34788
+title: "Wayland Vtk Glew Could Not Be Initialized Unknown Error"
+date: 2024-03-08
+url: https://discourse.slicer.org/t/34788
+---
+
 # Wayland: [VTK] GLEW could not be initialized: Unknown error
 
 **Topic ID**: 34788

@@ -1,3 +1,10 @@
+---
+topic_id: 2033
+title: "Regarding Distorted Sagittal And Coronal Image"
+date: 2018-02-06
+url: https://discourse.slicer.org/t/2033
+---
+
 # Regarding distorted sagittal and coronal image
 
 **Topic ID**: 2033

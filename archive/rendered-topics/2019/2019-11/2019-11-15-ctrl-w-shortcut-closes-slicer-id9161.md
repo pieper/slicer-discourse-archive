@@ -1,3 +1,10 @@
+---
+topic_id: 9161
+title: "Ctrl W Shortcut Closes Slicer"
+date: 2019-11-15
+url: https://discourse.slicer.org/t/9161
+---
+
 # Ctrl + W Shortcut Closes Slicer 
 
 **Topic ID**: 9161

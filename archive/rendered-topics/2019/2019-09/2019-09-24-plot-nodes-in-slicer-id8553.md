@@ -1,3 +1,10 @@
+---
+topic_id: 8553
+title: "Plot Nodes In Slicer"
+date: 2019-09-24
+url: https://discourse.slicer.org/t/8553
+---
+
 # Plot Nodes in Slicer
 
 **Topic ID**: 8553

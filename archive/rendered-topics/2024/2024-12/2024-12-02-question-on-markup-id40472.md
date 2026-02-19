@@ -1,3 +1,10 @@
+---
+topic_id: 40472
+title: "Question On Markup"
+date: 2024-12-02
+url: https://discourse.slicer.org/t/40472
+---
+
 # Question on Markup
 
 **Topic ID**: 40472

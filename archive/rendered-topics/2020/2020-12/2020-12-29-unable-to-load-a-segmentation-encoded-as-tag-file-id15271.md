@@ -1,3 +1,10 @@
+---
+topic_id: 15271
+title: "Unable To Load A Segmentation Encoded As Tag File"
+date: 2020-12-29
+url: https://discourse.slicer.org/t/15271
+---
+
 # Unable to load a segmentation encoded as .tag file
 
 **Topic ID**: 15271

@@ -1,3 +1,10 @@
+---
+topic_id: 31021
+title: "Is There Any Code To Control Specify Geometry In Segment Edi"
+date: 2023-08-07
+url: https://discourse.slicer.org/t/31021
+---
+
 # Is there any code to control 'specify geometry in Segment editor?
 
 **Topic ID**: 31021

@@ -1,3 +1,10 @@
+---
+topic_id: 3460
+title: "Dentalscan Reformat Slices"
+date: 2018-07-11
+url: https://discourse.slicer.org/t/3460
+---
+
 # Dentalscan reformat/slices
 
 **Topic ID**: 3460

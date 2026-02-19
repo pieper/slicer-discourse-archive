@@ -1,3 +1,10 @@
+---
+topic_id: 12262
+title: "Question Regarding 3D Extraction"
+date: 2020-06-29
+url: https://discourse.slicer.org/t/12262
+---
+
 # Question regarding 3D extraction 
 
 **Topic ID**: 12262

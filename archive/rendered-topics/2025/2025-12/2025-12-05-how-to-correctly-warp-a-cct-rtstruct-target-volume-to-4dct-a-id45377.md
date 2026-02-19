@@ -1,3 +1,10 @@
+---
+topic_id: 45377
+title: "How To Correctly Warp A Cct Rtstruct Target Volume To 4Dct A"
+date: 2025-12-05
+url: https://discourse.slicer.org/t/45377
+---
+
 # How to correctly warp a CCT RTSTRUCT target volume to 4DCT after CCT→4DCT registration?
 
 **Topic ID**: 45377

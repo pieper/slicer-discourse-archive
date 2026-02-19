@@ -1,3 +1,10 @@
+---
+topic_id: 21625
+title: "How Can I Export A Brain Tumor 3D Model With Brains Opacity"
+date: 2022-01-25
+url: https://discourse.slicer.org/t/21625
+---
+
 # How can I export a brain tumor 3d model with brains opacity?
 
 **Topic ID**: 21625

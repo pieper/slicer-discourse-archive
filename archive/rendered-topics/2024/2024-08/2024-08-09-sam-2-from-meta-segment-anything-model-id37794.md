@@ -1,3 +1,10 @@
+---
+topic_id: 37794
+title: "Sam 2 From Meta Segment Anything Model"
+date: 2024-08-09
+url: https://discourse.slicer.org/t/37794
+---
+
 # SAM 2 from Meta (Segment Anything Model)
 
 **Topic ID**: 37794

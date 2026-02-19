@@ -1,3 +1,10 @@
+---
+topic_id: 44401
+title: "Markups Control Points 2D Views Projections On Reformat Mode"
+date: 2025-09-09
+url: https://discourse.slicer.org/t/44401
+---
+
 # Markups control Points 2D Views projections on Reformat Mode
 
 **Topic ID**: 44401

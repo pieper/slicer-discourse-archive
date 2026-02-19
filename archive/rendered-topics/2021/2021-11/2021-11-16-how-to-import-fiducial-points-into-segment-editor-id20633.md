@@ -1,3 +1,10 @@
+---
+topic_id: 20633
+title: "How To Import Fiducial Points Into Segment Editor"
+date: 2021-11-16
+url: https://discourse.slicer.org/t/20633
+---
+
 # How to import Fiducial points into Segment Editor?
 
 **Topic ID**: 20633

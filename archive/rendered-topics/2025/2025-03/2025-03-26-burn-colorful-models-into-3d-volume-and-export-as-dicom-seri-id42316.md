@@ -1,3 +1,10 @@
+---
+topic_id: 42316
+title: "Burn Colorful Models Into 3D Volume And Export As Dicom Seri"
+date: 2025-03-26
+url: https://discourse.slicer.org/t/42316
+---
+
 # Burn colorful models into 3d volume and export as DICOM series
 
 **Topic ID**: 42316

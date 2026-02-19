@@ -1,3 +1,10 @@
+---
+topic_id: 14050
+title: "Failed To Build 3D Slicer In Ubuntu 18 04"
+date: 2020-10-15
+url: https://discourse.slicer.org/t/14050
+---
+
 # failed to build 3D Slicer in Ubuntu 18.04
 
 **Topic ID**: 14050

@@ -1,3 +1,10 @@
+---
+topic_id: 23921
+title: "Is There Anyway To Use Monai Label On A Macbook"
+date: 2022-06-17
+url: https://discourse.slicer.org/t/23921
+---
+
 # Is there anyway to use MONAI LABEL on a Macbook?
 
 **Topic ID**: 23921

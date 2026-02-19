@@ -1,3 +1,10 @@
+---
+topic_id: 18296
+title: "Export Hounsfield Unit Values As A Table From Each Segmentat"
+date: 2021-06-23
+url: https://discourse.slicer.org/t/18296
+---
+
 # Export Hounsfield Unit values as a table from each segmentation
 
 **Topic ID**: 18296

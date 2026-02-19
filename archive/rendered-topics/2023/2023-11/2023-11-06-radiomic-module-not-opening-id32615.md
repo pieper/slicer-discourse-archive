@@ -1,3 +1,10 @@
+---
+topic_id: 32615
+title: "Radiomic Module Not Opening"
+date: 2023-11-06
+url: https://discourse.slicer.org/t/32615
+---
+
 # Radiomic module not opening
 
 **Topic ID**: 32615

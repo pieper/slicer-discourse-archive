@@ -1,3 +1,10 @@
+---
+topic_id: 12833
+title: "Dicom Rtstruct Changed After Segment Editor"
+date: 2020-08-03
+url: https://discourse.slicer.org/t/12833
+---
+
 # DICOM RTSTRUCT changed after segment editor
 
 **Topic ID**: 12833

@@ -1,3 +1,10 @@
+---
+topic_id: 12039
+title: "Computational Centerline Error"
+date: 2020-06-15
+url: https://discourse.slicer.org/t/12039
+---
+
 # Computational Centerline Error
 
 **Topic ID**: 12039

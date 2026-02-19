@@ -1,3 +1,10 @@
+---
+topic_id: 26023
+title: "Get Projection Plane In 2D 3D Registration"
+date: 2022-11-02
+url: https://discourse.slicer.org/t/26023
+---
+
 # Get projection plane in 2D-3D Registration
 
 **Topic ID**: 26023

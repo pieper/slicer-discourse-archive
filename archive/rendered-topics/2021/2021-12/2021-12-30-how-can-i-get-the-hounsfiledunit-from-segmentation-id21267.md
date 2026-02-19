@@ -1,3 +1,10 @@
+---
+topic_id: 21267
+title: "How Can I Get The Hounsfiledunit From Segmentation"
+date: 2021-12-30
+url: https://discourse.slicer.org/t/21267
+---
+
 # How Can I get the HounsFiledUnit from Segmentation?
 
 **Topic ID**: 21267

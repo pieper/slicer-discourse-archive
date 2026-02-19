@@ -1,3 +1,10 @@
+---
+topic_id: 10106
+title: "Mr Image Loaded From Dicom Format Is Not 3D"
+date: 2020-02-04
+url: https://discourse.slicer.org/t/10106
+---
+
 # MR image loaded from DICOM format is not 3D
 
 **Topic ID**: 10106

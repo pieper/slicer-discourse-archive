@@ -1,3 +1,10 @@
+---
+topic_id: 22196
+title: "Extract Surface Of A Volumetric Region Of Interest"
+date: 2022-02-26
+url: https://discourse.slicer.org/t/22196
+---
+
 # Extract surface of a volumetric region of interest
 
 **Topic ID**: 22196

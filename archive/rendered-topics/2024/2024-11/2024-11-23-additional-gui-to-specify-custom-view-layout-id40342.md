@@ -1,3 +1,10 @@
+---
+topic_id: 40342
+title: "Additional Gui To Specify Custom View Layout"
+date: 2024-11-23
+url: https://discourse.slicer.org/t/40342
+---
+
 # Additional GUI to specify custom view layout
 
 **Topic ID**: 40342

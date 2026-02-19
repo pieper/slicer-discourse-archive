@@ -1,3 +1,10 @@
+---
+topic_id: 2232
+title: "Build Slicer On Windows 10 Failed"
+date: 2018-03-02
+url: https://discourse.slicer.org/t/2232
+---
+
 # Build Slicer on Windows 10 Failed
 
 **Topic ID**: 2232

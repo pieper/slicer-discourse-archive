@@ -1,3 +1,10 @@
+---
+topic_id: 14138
+title: "How To Make My Module Available In The Extension Manager"
+date: 2020-10-19
+url: https://discourse.slicer.org/t/14138
+---
+
 # How to make my module available in the Extension manager?
 
 **Topic ID**: 14138

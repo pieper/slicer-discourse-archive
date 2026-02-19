@@ -1,3 +1,10 @@
+---
+topic_id: 11101
+title: "Segment Comparison Hausdorff"
+date: 2020-04-13
+url: https://discourse.slicer.org/t/11101
+---
+
 # Segment Comparison - Hausdorff
 
 **Topic ID**: 11101

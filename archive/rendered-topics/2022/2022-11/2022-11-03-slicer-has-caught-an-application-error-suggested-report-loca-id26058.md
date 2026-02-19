@@ -1,3 +1,10 @@
+---
+topic_id: 26058
+title: "Slicer Has Caught An Application Error Suggested Report Loca"
+date: 2022-11-03
+url: https://discourse.slicer.org/t/26058
+---
+
 # "Slicer has caught an application error" suggested report location
 
 **Topic ID**: 26058

@@ -1,3 +1,10 @@
+---
+topic_id: 24512
+title: "Rotate A Vtkmrmlmodelnode In A Specific Direction"
+date: 2022-07-27
+url: https://discourse.slicer.org/t/24512
+---
+
 # Rotate a vtkMRMLModelNode() in a specific direction
 
 **Topic ID**: 24512

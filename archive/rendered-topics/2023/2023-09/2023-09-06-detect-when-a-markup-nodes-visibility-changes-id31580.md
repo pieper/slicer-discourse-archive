@@ -1,3 +1,10 @@
+---
+topic_id: 31580
+title: "Detect When A Markup Nodes Visibility Changes"
+date: 2023-09-06
+url: https://discourse.slicer.org/t/31580
+---
+
 # Detect when a markup node's visibility changes
 
 **Topic ID**: 31580

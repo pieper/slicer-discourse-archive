@@ -1,3 +1,10 @@
+---
+topic_id: 12394
+title: "Partial Correlation"
+date: 2020-07-06
+url: https://discourse.slicer.org/t/12394
+---
+
 # Partial correlation
 
 **Topic ID**: 12394

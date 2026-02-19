@@ -1,3 +1,10 @@
+---
+topic_id: 11246
+title: "Can Slicer Be Used To Segment Radially Orientated Dicom Imag"
+date: 2020-04-22
+url: https://discourse.slicer.org/t/11246
+---
+
 # Can slicer be used to segment radially orientated DICOM images?
 
 **Topic ID**: 11246

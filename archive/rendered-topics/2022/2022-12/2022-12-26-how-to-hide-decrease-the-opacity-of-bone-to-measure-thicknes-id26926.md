@@ -1,3 +1,10 @@
+---
+topic_id: 26926
+title: "How To Hide Decrease The Opacity Of Bone To Measure Thicknes"
+date: 2022-12-26
+url: https://discourse.slicer.org/t/26926
+---
+
 # how to hide/ decrease the opacity of bone to measure thickness of metatarsal bone?
 
 **Topic ID**: 26926

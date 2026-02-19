@@ -1,3 +1,10 @@
+---
+topic_id: 34276
+title: "How Can I Reshape A Nrrd Segmentation File To A Reference Vo"
+date: 2024-02-13
+url: https://discourse.slicer.org/t/34276
+---
+
 # How can I reshape a nrrd segmentation file to a reference volume shape?
 
 **Topic ID**: 34276

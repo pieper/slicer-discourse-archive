@@ -1,3 +1,10 @@
+---
+topic_id: 37066
+title: "Synthetic Pet From Ct"
+date: 2024-06-27
+url: https://discourse.slicer.org/t/37066
+---
+
 # Synthetic PET from CT 
 
 **Topic ID**: 37066

@@ -1,3 +1,10 @@
+---
+topic_id: 29999
+title: "Find Cli Modules Path"
+date: 2023-06-13
+url: https://discourse.slicer.org/t/29999
+---
+
 # find cli-modules path
 
 **Topic ID**: 29999

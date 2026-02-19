@@ -1,3 +1,10 @@
+---
+topic_id: 23271
+title: "Problem About Building Slicercustomapptemplate"
+date: 2022-05-04
+url: https://discourse.slicer.org/t/23271
+---
+
 # Problem about building SlicerCustomAppTemplate
 
 **Topic ID**: 23271

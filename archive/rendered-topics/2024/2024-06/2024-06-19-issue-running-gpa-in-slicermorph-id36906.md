@@ -1,3 +1,10 @@
+---
+topic_id: 36906
+title: "Issue Running Gpa In Slicermorph"
+date: 2024-06-19
+url: https://discourse.slicer.org/t/36906
+---
+
 # Issue running GPA in Slicermorph
 
 **Topic ID**: 36906

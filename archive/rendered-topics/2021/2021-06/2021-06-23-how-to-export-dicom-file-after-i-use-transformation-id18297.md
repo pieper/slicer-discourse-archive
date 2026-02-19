@@ -1,3 +1,10 @@
+---
+topic_id: 18297
+title: "How To Export Dicom File After I Use Transformation"
+date: 2021-06-23
+url: https://discourse.slicer.org/t/18297
+---
+
 # How to export dicom file after I use transformation?
 
 **Topic ID**: 18297

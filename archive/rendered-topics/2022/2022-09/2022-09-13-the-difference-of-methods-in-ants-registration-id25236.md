@@ -1,3 +1,10 @@
+---
+topic_id: 25236
+title: "The Difference Of Methods In Ants Registration"
+date: 2022-09-13
+url: https://discourse.slicer.org/t/25236
+---
+
 # The difference of methods in ANTs Registration
 
 **Topic ID**: 25236

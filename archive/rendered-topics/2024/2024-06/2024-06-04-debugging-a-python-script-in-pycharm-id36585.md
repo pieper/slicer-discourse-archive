@@ -1,3 +1,10 @@
+---
+topic_id: 36585
+title: "Debugging A Python Script In Pycharm"
+date: 2024-06-04
+url: https://discourse.slicer.org/t/36585
+---
+
 # Debugging a python script in pycharm
 
 **Topic ID**: 36585

@@ -1,3 +1,10 @@
+---
+topic_id: 26816
+title: "Can Customized Layouts Such As 5 By 4 Be Possible"
+date: 2022-12-19
+url: https://discourse.slicer.org/t/26816
+---
+
 # Can customized layouts, such as 5 by 4, be possible?
 
 **Topic ID**: 26816

@@ -1,3 +1,10 @@
+---
+topic_id: 19244
+title: "Read Data File From Disk And Convert Displayable Node To Vtk"
+date: 2021-08-18
+url: https://discourse.slicer.org/t/19244
+---
+
 # Read data file from disk and convert displayable node to vtkActor or vtkProp
 
 **Topic ID**: 19244

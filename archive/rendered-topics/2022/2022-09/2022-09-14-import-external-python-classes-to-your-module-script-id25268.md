@@ -1,3 +1,10 @@
+---
+topic_id: 25268
+title: "Import External Python Classes To Your Module Script"
+date: 2022-09-14
+url: https://discourse.slicer.org/t/25268
+---
+
 # Import External Python classes to your module script
 
 **Topic ID**: 25268

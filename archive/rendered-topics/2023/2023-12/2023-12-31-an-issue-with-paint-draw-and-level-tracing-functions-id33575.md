@@ -1,3 +1,10 @@
+---
+topic_id: 33575
+title: "An Issue With Paint Draw And Level Tracing Functions"
+date: 2023-12-31
+url: https://discourse.slicer.org/t/33575
+---
+
 # An issue with (Paint), (Draw), and (Level tracing) functions
 
 **Topic ID**: 33575

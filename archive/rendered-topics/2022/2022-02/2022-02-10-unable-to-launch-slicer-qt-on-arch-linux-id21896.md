@@ -1,3 +1,10 @@
+---
+topic_id: 21896
+title: "Unable To Launch Slicer Qt On Arch Linux"
+date: 2022-02-10
+url: https://discourse.slicer.org/t/21896
+---
+
 # Unable to launch Slicer QT on Arch Linux
 
 **Topic ID**: 21896

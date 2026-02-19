@@ -1,3 +1,10 @@
+---
+topic_id: 20680
+title: "The Latest Slicer Prerelease Linux Version Is Empty"
+date: 2021-11-18
+url: https://discourse.slicer.org/t/20680
+---
+
 # The latest Slicer PreRelease Linux version is empty
 
 **Topic ID**: 20680

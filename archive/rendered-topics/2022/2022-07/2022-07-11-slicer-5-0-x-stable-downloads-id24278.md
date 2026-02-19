@@ -1,3 +1,10 @@
+---
+topic_id: 24278
+title: "Slicer 5 0 X Stable Downloads"
+date: 2022-07-11
+url: https://discourse.slicer.org/t/24278
+---
+
 # Slicer-5.0.x stable downloads
 
 **Topic ID**: 24278

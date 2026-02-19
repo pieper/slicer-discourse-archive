@@ -1,3 +1,10 @@
+---
+topic_id: 26050
+title: "B Matrix Rotation"
+date: 2022-11-03
+url: https://discourse.slicer.org/t/26050
+---
+
 # B-matrix rotation
 
 **Topic ID**: 26050

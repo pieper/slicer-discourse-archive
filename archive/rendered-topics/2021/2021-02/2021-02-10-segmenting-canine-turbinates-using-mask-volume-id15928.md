@@ -1,3 +1,10 @@
+---
+topic_id: 15928
+title: "Segmenting Canine Turbinates Using Mask Volume"
+date: 2021-02-10
+url: https://discourse.slicer.org/t/15928
+---
+
 # Segmenting canine turbinates using mask volume
 
 **Topic ID**: 15928

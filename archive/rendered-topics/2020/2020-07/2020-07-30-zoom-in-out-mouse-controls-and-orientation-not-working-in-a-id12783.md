@@ -1,3 +1,10 @@
+---
+topic_id: 12783
+title: "Zoom In Out Mouse Controls And Orientation Not Working In A"
+date: 2020-07-30
+url: https://discourse.slicer.org/t/12783
+---
+
 # Zoom in/out mouse controls and orientation not working in a a slice view outside the view layout
 
 **Topic ID**: 12783

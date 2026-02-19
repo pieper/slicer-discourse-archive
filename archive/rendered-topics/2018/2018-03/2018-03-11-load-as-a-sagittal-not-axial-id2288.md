@@ -1,3 +1,10 @@
+---
+topic_id: 2288
+title: "Load As A Sagittal Not Axial"
+date: 2018-03-11
+url: https://discourse.slicer.org/t/2288
+---
+
 # Load as a sagittal not axial
 
 **Topic ID**: 2288

@@ -1,3 +1,10 @@
+---
+topic_id: 15590
+title: "Extension Builds Failing For Windows Amd Mac But Succeeding"
+date: 2021-01-19
+url: https://discourse.slicer.org/t/15590
+---
+
 # Extension builds failing for Windows amd mac, but succeeding for linux
 
 **Topic ID**: 15590

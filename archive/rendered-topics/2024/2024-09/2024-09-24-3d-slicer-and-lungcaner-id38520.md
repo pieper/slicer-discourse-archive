@@ -1,3 +1,10 @@
+---
+topic_id: 38520
+title: "3D Slicer And Lungcaner"
+date: 2024-09-24
+url: https://discourse.slicer.org/t/38520
+---
+
 # 3D Slicer and lungcaner
 
 **Topic ID**: 38520

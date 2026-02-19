@@ -1,3 +1,10 @@
+---
+topic_id: 32387
+title: "3D Slicer Does Not Accept The Dose File That I Add As A Dose"
+date: 2023-10-23
+url: https://discourse.slicer.org/t/32387
+---
+
 # 3d slicer does not accept the dose file that I add as a dose file
 
 **Topic ID**: 32387

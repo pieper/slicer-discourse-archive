@@ -1,3 +1,10 @@
+---
+topic_id: 41247
+title: "No Images Of Tool Buttons Or Menus Appear Completely White S"
+date: 2025-01-23
+url: https://discourse.slicer.org/t/41247
+---
+
 # No images of tool buttons or menus appear. Completely white screen
 
 **Topic ID**: 41247

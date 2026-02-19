@@ -1,3 +1,10 @@
+---
+topic_id: 20897
+title: "Resources Guidance To Incorporate Tensorflow Model To Slicer"
+date: 2021-12-03
+url: https://discourse.slicer.org/t/20897
+---
+
 # Resources/Guidance to incorporate tensorflow model to slicer scripted module
 
 **Topic ID**: 20897

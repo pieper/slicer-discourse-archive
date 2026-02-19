@@ -1,3 +1,10 @@
+---
+topic_id: 35634
+title: "New Module To Manually Align 3D Views"
+date: 2024-04-20
+url: https://discourse.slicer.org/t/35634
+---
+
 # New module to manually align 3D views
 
 **Topic ID**: 35634

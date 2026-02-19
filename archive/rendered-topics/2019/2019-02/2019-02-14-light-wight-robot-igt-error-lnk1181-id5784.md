@@ -1,3 +1,10 @@
+---
+topic_id: 5784
+title: "Light Wight Robot Igt Error Lnk1181"
+date: 2019-02-14
+url: https://discourse.slicer.org/t/5784
+---
+
 # Light Wight Robot IGT Error LNK1181
 
 **Topic ID**: 5784

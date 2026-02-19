@@ -1,3 +1,10 @@
+---
+topic_id: 8322
+title: "Settings And Extension Install Location"
+date: 2019-09-06
+url: https://discourse.slicer.org/t/8322
+---
+
 # Settings and extension install location
 
 **Topic ID**: 8322

@@ -1,3 +1,10 @@
+---
+topic_id: 30442
+title: "Load Vtp Files In Slicer"
+date: 2023-07-07
+url: https://discourse.slicer.org/t/30442
+---
+
 # Load vtp files in slicer
 
 **Topic ID**: 30442

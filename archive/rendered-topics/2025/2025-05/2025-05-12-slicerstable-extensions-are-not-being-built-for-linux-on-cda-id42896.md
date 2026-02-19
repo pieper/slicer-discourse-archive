@@ -1,3 +1,10 @@
+---
+topic_id: 42896
+title: "Slicerstable Extensions Are Not Being Built For Linux On Cda"
+date: 2025-05-12
+url: https://discourse.slicer.org/t/42896
+---
+
 # SlicerStable - extensions are not being built for Linux on cdash
 
 **Topic ID**: 42896

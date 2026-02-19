@@ -1,3 +1,10 @@
+---
+topic_id: 35367
+title: "Loading Mri Image Issues"
+date: 2024-04-08
+url: https://discourse.slicer.org/t/35367
+---
+
 # Loading MRI image issues
 
 **Topic ID**: 35367

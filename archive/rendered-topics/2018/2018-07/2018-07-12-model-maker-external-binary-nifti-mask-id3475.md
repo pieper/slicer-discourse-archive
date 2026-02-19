@@ -1,3 +1,10 @@
+---
+topic_id: 3475
+title: "Model Maker External Binary Nifti Mask"
+date: 2018-07-12
+url: https://discourse.slicer.org/t/3475
+---
+
 # model maker- external (binary) nifti mask
 
 **Topic ID**: 3475

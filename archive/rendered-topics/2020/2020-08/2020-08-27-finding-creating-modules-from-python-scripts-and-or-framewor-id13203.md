@@ -1,3 +1,10 @@
+---
+topic_id: 13203
+title: "Finding Creating Modules From Python Scripts And Or Framewor"
+date: 2020-08-27
+url: https://discourse.slicer.org/t/13203
+---
+
 # Finding & creating modules from python scripts and/or frameworks
 
 **Topic ID**: 13203

@@ -1,3 +1,10 @@
+---
+topic_id: 24285
+title: "Batch Co Registration Using Brainsfit Script"
+date: 2022-07-12
+url: https://discourse.slicer.org/t/24285
+---
+
 # Batch co-registration using BRAINSfit (script)
 
 **Topic ID**: 24285

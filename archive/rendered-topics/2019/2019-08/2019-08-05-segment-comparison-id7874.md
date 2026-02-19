@@ -1,3 +1,10 @@
+---
+topic_id: 7874
+title: "Segment Comparison"
+date: 2019-08-05
+url: https://discourse.slicer.org/t/7874
+---
+
 # Segment Comparison
 
 **Topic ID**: 7874

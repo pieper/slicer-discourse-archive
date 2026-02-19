@@ -1,3 +1,10 @@
+---
+topic_id: 10920
+title: "Improving Slice Overlay Functionality To Visualize Registrat"
+date: 2020-03-30
+url: https://discourse.slicer.org/t/10920
+---
+
 # Improving Slice overlay functionality to visualize registration differences using different color "channel" for fixed and moving
 
 **Topic ID**: 10920

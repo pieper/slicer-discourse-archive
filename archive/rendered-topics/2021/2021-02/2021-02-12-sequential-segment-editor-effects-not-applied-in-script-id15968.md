@@ -1,3 +1,10 @@
+---
+topic_id: 15968
+title: "Sequential Segment Editor Effects Not Applied In Script"
+date: 2021-02-12
+url: https://discourse.slicer.org/t/15968
+---
+
 # Sequential Segment Editor Effects not applied in script
 
 **Topic ID**: 15968

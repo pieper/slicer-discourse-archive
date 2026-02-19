@@ -1,3 +1,10 @@
+---
+topic_id: 12030
+title: "Remove Orthopedic Cast With Segmentation"
+date: 2020-06-15
+url: https://discourse.slicer.org/t/12030
+---
+
 # Remove Orthopedic cast with segmentation
 
 **Topic ID**: 12030

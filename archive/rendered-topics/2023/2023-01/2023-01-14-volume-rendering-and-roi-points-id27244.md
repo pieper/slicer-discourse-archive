@@ -1,3 +1,10 @@
+---
+topic_id: 27244
+title: "Volume Rendering And Roi Points"
+date: 2023-01-14
+url: https://discourse.slicer.org/t/27244
+---
+
 # Volume rendering and ROI points
 
 **Topic ID**: 27244

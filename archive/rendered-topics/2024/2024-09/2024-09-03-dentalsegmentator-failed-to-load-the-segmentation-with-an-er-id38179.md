@@ -1,3 +1,10 @@
+---
+topic_id: 38179
+title: "Dentalsegmentator Failed To Load The Segmentation With An Er"
+date: 2024-09-03
+url: https://discourse.slicer.org/t/38179
+---
+
 # DentalSegmentator failed to load the segmentation with an error occurred during install : nnunetv2
 
 **Topic ID**: 38179

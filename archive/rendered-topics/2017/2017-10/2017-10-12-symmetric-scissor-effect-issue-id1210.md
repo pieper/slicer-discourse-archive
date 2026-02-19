@@ -1,3 +1,10 @@
+---
+topic_id: 1210
+title: "Symmetric Scissor Effect Issue"
+date: 2017-10-12
+url: https://discourse.slicer.org/t/1210
+---
+
 # Symmetric scissor effect issue
 
 **Topic ID**: 1210

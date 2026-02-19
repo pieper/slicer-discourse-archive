@@ -1,3 +1,10 @@
+---
+topic_id: 31558
+title: "How To Import 3D Structured Data Into 3D Slicer"
+date: 2023-09-05
+url: https://discourse.slicer.org/t/31558
+---
+
 # How to import 3D Structured Data into 3D Slicer?
 
 **Topic ID**: 31558

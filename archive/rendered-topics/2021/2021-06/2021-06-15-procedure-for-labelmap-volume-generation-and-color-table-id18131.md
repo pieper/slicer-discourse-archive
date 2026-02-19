@@ -1,3 +1,10 @@
+---
+topic_id: 18131
+title: "Procedure For Labelmap Volume Generation And Color Table"
+date: 2021-06-15
+url: https://discourse.slicer.org/t/18131
+---
+
 # Procedure for labelmap volume generation and color table
 
 **Topic ID**: 18131

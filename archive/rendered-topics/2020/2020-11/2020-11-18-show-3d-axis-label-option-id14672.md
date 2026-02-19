@@ -1,3 +1,10 @@
+---
+topic_id: 14672
+title: "Show 3D Axis Label Option"
+date: 2020-11-18
+url: https://discourse.slicer.org/t/14672
+---
+
 # Show 3D axis label option
 
 **Topic ID**: 14672

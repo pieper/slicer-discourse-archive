@@ -1,3 +1,10 @@
+---
+topic_id: 45914
+title: "Nninteractive Module No Longer Segments Properly"
+date: 2026-01-26
+url: https://discourse.slicer.org/t/45914
+---
+
 # nnInteractive module no longer segments properly
 
 **Topic ID**: 45914

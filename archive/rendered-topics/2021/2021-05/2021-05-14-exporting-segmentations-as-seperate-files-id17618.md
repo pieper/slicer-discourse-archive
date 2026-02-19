@@ -1,3 +1,10 @@
+---
+topic_id: 17618
+title: "Exporting Segmentations As Seperate Files"
+date: 2021-05-14
+url: https://discourse.slicer.org/t/17618
+---
+
 # Exporting segmentations as seperate files
 
 **Topic ID**: 17618

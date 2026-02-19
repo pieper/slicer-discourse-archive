@@ -1,3 +1,10 @@
+---
+topic_id: 21587
+title: "Can I Extract Only 1 Slice From 3D Input Use 2D Param"
+date: 2022-01-24
+url: https://discourse.slicer.org/t/21587
+---
+
 # Can I extract only 1 slice from 3d input (use 2d param)
 
 **Topic ID**: 21587

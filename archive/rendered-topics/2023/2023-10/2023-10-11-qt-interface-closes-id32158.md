@@ -1,3 +1,10 @@
+---
+topic_id: 32158
+title: "Qt Interface Closes"
+date: 2023-10-11
+url: https://discourse.slicer.org/t/32158
+---
+
 # Qt interface closes
 
 **Topic ID**: 32158

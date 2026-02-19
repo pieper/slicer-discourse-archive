@@ -1,3 +1,10 @@
+---
+topic_id: 5789
+title: "Project Week Mit"
+date: 2019-02-15
+url: https://discourse.slicer.org/t/5789
+---
+
 # Project week MIT
 
 **Topic ID**: 5789

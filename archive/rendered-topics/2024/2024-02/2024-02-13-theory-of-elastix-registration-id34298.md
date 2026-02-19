@@ -1,3 +1,10 @@
+---
+topic_id: 34298
+title: "Theory Of Elastix Registration"
+date: 2024-02-13
+url: https://discourse.slicer.org/t/34298
+---
+
 # Theory of elastix registration
 
 **Topic ID**: 34298

@@ -1,3 +1,10 @@
+---
+topic_id: 32734
+title: "Issue In Dose Comparison In Rt Slicer"
+date: 2023-11-11
+url: https://discourse.slicer.org/t/32734
+---
+
 # Issue in dose comparison in RT slicer
 
 **Topic ID**: 32734

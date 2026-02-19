@@ -1,3 +1,10 @@
+---
+topic_id: 14776
+title: "3D View Of Vector Image"
+date: 2020-11-25
+url: https://discourse.slicer.org/t/14776
+---
+
 # 3D view of vector image
 
 **Topic ID**: 14776

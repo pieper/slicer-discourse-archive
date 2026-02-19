@@ -1,3 +1,10 @@
+---
+topic_id: 33361
+title: "Segmentation Corner Detection Of Grid Intersection Points In"
+date: 2023-12-12
+url: https://discourse.slicer.org/t/33361
+---
+
 # Segmentation / corner detection of grid intersection points in 3D image
 
 **Topic ID**: 33361

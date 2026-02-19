@@ -1,3 +1,10 @@
+---
+topic_id: 10751
+title: "Copy Paste Fiducial Control Points Coordinates"
+date: 2020-03-19
+url: https://discourse.slicer.org/t/10751
+---
+
 # Copy/paste fiducial control points coordinates
 
 **Topic ID**: 10751

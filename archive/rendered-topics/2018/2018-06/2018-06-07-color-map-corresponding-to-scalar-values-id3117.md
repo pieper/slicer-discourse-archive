@@ -1,3 +1,10 @@
+---
+topic_id: 3117
+title: "Color Map Corresponding To Scalar Values"
+date: 2018-06-07
+url: https://discourse.slicer.org/t/3117
+---
+
 # Color Map corresponding to Scalar Values
 
 **Topic ID**: 3117

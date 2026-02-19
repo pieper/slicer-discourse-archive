@@ -1,3 +1,10 @@
+---
+topic_id: 3576
+title: "Can You Use Grow From Seeds On A Thresholded Segment"
+date: 2018-07-25
+url: https://discourse.slicer.org/t/3576
+---
+
 # Can you use grow from seeds on a thresholded segment
 
 **Topic ID**: 3576

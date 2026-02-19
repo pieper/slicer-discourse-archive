@@ -1,3 +1,10 @@
+---
+topic_id: 30016
+title: "Philips4Dusdicompatcher"
+date: 2023-06-13
+url: https://discourse.slicer.org/t/30016
+---
+
 # Philips4DUSDicomPatcher
 
 **Topic ID**: 30016

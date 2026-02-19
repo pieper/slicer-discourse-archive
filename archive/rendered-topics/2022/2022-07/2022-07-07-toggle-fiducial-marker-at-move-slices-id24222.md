@@ -1,3 +1,10 @@
+---
+topic_id: 24222
+title: "Toggle Fiducial Marker At Move Slices"
+date: 2022-07-07
+url: https://discourse.slicer.org/t/24222
+---
+
 # Toggle fiducial marker at move slices
 
 **Topic ID**: 24222

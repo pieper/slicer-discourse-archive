@@ -1,3 +1,10 @@
+---
+topic_id: 28057
+title: "Exporting Jpgs Of Mri Slices"
+date: 2023-02-27
+url: https://discourse.slicer.org/t/28057
+---
+
 # Exporting jpgs of MRI slices
 
 **Topic ID**: 28057

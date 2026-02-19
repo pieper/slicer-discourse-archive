@@ -1,3 +1,10 @@
+---
+topic_id: 10358
+title: "Transition To Github"
+date: 2020-02-20
+url: https://discourse.slicer.org/t/10358
+---
+
 # Transition to GitHub
 
 **Topic ID**: 10358

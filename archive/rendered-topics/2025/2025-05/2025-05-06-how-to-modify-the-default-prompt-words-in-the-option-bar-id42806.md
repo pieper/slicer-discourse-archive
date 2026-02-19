@@ -1,3 +1,10 @@
+---
+topic_id: 42806
+title: "How To Modify The Default Prompt Words In The Option Bar"
+date: 2025-05-06
+url: https://discourse.slicer.org/t/42806
+---
+
 # How to modify the default prompt words in the option bar
 
 **Topic ID**: 42806

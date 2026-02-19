@@ -1,3 +1,10 @@
+---
+topic_id: 14368
+title: "Using Slicer Via Web Service Api"
+date: 2020-11-01
+url: https://discourse.slicer.org/t/14368
+---
+
 # Using Slicer via web service API
 
 **Topic ID**: 14368

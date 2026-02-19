@@ -1,3 +1,10 @@
+---
+topic_id: 11171
+title: "Seg Nrrd Versus Nrrd"
+date: 2020-04-18
+url: https://discourse.slicer.org/t/11171
+---
+
 # .seg.nrrd versus .nrrd
 
 **Topic ID**: 11171

@@ -1,3 +1,10 @@
+---
+topic_id: 24166
+title: "Converting Nrrd File To Stl Using Python"
+date: 2022-07-03
+url: https://discourse.slicer.org/t/24166
+---
+
 # Converting .nrrd file to .stl (using python)
 
 **Topic ID**: 24166

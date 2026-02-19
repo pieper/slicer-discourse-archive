@@ -1,3 +1,10 @@
+---
+topic_id: 5765
+title: "How To Get Segmentationnode From Segment Name"
+date: 2019-02-13
+url: https://discourse.slicer.org/t/5765
+---
+
 # How to get segmentationNode from segment name
 
 **Topic ID**: 5765

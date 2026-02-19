@@ -1,3 +1,10 @@
+---
+topic_id: 3645
+title: "How Can I Import Nifti Files To Dscmrianalysis Module"
+date: 2018-08-03
+url: https://discourse.slicer.org/t/3645
+---
+
 # How can I import NIFTI files to DSCMRIAnalysis module?
 
 **Topic ID**: 3645

@@ -1,3 +1,10 @@
+---
+topic_id: 43519
+title: "How Can I Easily Process Aorta Branch Segmentation And Measu"
+date: 2025-06-27
+url: https://discourse.slicer.org/t/43519
+---
+
 # How can i easily process aorta & branch segmentation and measure the x, y, and z axes of each part
 
 **Topic ID**: 43519

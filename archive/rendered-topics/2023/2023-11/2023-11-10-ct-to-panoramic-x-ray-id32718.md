@@ -1,3 +1,10 @@
+---
+topic_id: 32718
+title: "Ct To Panoramic X Ray"
+date: 2023-11-10
+url: https://discourse.slicer.org/t/32718
+---
+
 # CT to Panoramic X-ray
 
 **Topic ID**: 32718

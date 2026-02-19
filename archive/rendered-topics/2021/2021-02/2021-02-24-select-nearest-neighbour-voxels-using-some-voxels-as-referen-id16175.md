@@ -1,3 +1,10 @@
+---
+topic_id: 16175
+title: "Select Nearest Neighbour Voxels Using Some Voxels As Referen"
+date: 2021-02-24
+url: https://discourse.slicer.org/t/16175
+---
+
 # Select nearest neighbour voxels using some voxels as reference?
 
 **Topic ID**: 16175

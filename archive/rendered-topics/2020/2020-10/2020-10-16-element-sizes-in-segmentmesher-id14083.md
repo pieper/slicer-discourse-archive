@@ -1,3 +1,10 @@
+---
+topic_id: 14083
+title: "Element Sizes In Segmentmesher"
+date: 2020-10-16
+url: https://discourse.slicer.org/t/14083
+---
+
 # Element sizes in segmentmesher
 
 **Topic ID**: 14083

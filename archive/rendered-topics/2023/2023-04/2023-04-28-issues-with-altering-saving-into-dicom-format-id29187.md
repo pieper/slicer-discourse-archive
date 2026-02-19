@@ -1,3 +1,10 @@
+---
+topic_id: 29187
+title: "Issues With Altering Saving Into Dicom Format"
+date: 2023-04-28
+url: https://discourse.slicer.org/t/29187
+---
+
 # Issues with altering/saving into DICOM format
 
 **Topic ID**: 29187

@@ -1,3 +1,10 @@
+---
+topic_id: 6455
+title: "Single Markup Fiducial Event Listener"
+date: 2019-04-10
+url: https://discourse.slicer.org/t/6455
+---
+
 # Single markup fiducial event listener
 
 **Topic ID**: 6455

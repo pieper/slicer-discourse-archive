@@ -1,3 +1,10 @@
+---
+topic_id: 25246
+title: "Xyz Coordinates"
+date: 2022-09-13
+url: https://discourse.slicer.org/t/25246
+---
+
 # Xyz coordinates
 
 **Topic ID**: 25246

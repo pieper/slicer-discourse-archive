@@ -1,3 +1,10 @@
+---
+topic_id: 9768
+title: "Problem Exporting Colorized Tractography To Ply Mesh"
+date: 2020-01-10
+url: https://discourse.slicer.org/t/9768
+---
+
 # Problem exporting Colorized tractography to PLY mesh
 
 **Topic ID**: 9768

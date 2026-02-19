@@ -1,3 +1,10 @@
+---
+topic_id: 39670
+title: "Need Help With Downloading Weights For Dental Segmentator"
+date: 2024-10-12
+url: https://discourse.slicer.org/t/39670
+---
+
 # Need help with downloading weights for dental segmentator
 
 **Topic ID**: 39670

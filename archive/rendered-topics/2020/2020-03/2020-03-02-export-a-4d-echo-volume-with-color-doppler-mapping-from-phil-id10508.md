@@ -1,3 +1,10 @@
+---
+topic_id: 10508
+title: "Export A 4D Echo Volume With Color Doppler Mapping From Phil"
+date: 2020-03-02
+url: https://discourse.slicer.org/t/10508
+---
+
 # Export a 4D echo volume with color doppler mapping from philips
 
 **Topic ID**: 10508

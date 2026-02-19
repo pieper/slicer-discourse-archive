@@ -1,3 +1,10 @@
+---
+topic_id: 19289
+title: "Bone Reconstruction Planner"
+date: 2021-08-21
+url: https://discourse.slicer.org/t/19289
+---
+
 # Bone Reconstruction Planner
 
 **Topic ID**: 19289

@@ -1,3 +1,10 @@
+---
+topic_id: 495
+title: "Who Uses Lightbox View"
+date: 2017-06-13
+url: https://discourse.slicer.org/t/495
+---
+
 # Who uses Lightbox view?
 
 **Topic ID**: 495

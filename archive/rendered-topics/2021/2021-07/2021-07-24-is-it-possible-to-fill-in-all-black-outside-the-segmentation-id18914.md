@@ -1,3 +1,10 @@
+---
+topic_id: 18914
+title: "Is It Possible To Fill In All Black Outside The Segmentation"
+date: 2021-07-24
+url: https://discourse.slicer.org/t/18914
+---
+
 # Is it possible to fill in all black outside the segmentation?
 
 **Topic ID**: 18914

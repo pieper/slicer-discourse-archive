@@ -1,3 +1,10 @@
+---
+topic_id: 37056
+title: "How To Perfectly Align Two Stl Files From Segmentation For D"
+date: 2024-06-26
+url: https://discourse.slicer.org/t/37056
+---
+
 # How to Perfectly Align Two STL Files from Segmentation for Dual Extrusion 3D Printing ?
 
 **Topic ID**: 37056

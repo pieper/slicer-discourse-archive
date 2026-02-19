@@ -1,3 +1,10 @@
+---
+topic_id: 26096
+title: "Use Orient Scaler Volume In Python Interactor For Batch Proc"
+date: 2022-11-06
+url: https://discourse.slicer.org/t/26096
+---
+
 # Use orient scaler volume in python interactor for batch processing
 
 **Topic ID**: 26096

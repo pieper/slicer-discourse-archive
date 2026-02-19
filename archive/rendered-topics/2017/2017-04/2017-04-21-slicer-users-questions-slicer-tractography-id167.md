@@ -1,3 +1,10 @@
+---
+topic_id: 167
+title: "Slicer Users Questions Slicer Tractography"
+date: 2017-04-21
+url: https://discourse.slicer.org/t/167
+---
+
 # [slicer-users] questions Slicer Tractography
 
 **Topic ID**: 167

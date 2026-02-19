@@ -1,3 +1,10 @@
+---
+topic_id: 23322
+title: "About Segmentation And Three Dimensional Reconstruction For"
+date: 2022-05-07
+url: https://discourse.slicer.org/t/23322
+---
+
 # About segmentation and three-dimensional reconstruction for CT
 
 **Topic ID**: 23322

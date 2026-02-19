@@ -1,3 +1,10 @@
+---
+topic_id: 20050
+title: "How To Find The Largest Area Of A 3D Structure"
+date: 2021-10-07
+url: https://discourse.slicer.org/t/20050
+---
+
 # How to find the largest area of a 3d structure
 
 **Topic ID**: 20050

@@ -1,3 +1,10 @@
+---
+topic_id: 31191
+title: "Resolution Of Segmentations Change After Saving"
+date: 2023-08-17
+url: https://discourse.slicer.org/t/31191
+---
+
 # Resolution of segmentations change after saving. 
 
 **Topic ID**: 31191

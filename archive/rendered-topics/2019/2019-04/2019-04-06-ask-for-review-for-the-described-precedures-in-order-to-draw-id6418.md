@@ -1,3 +1,10 @@
+---
+topic_id: 6418
+title: "Ask For Review For The Described Precedures In Order To Draw"
+date: 2019-04-06
+url: https://discourse.slicer.org/t/6418
+---
+
 # Ask for review for the described precedures in order to draw ROIs and measure volumes.
 
 **Topic ID**: 6418

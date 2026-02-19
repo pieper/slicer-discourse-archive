@@ -1,3 +1,10 @@
+---
+topic_id: 31917
+title: "Click And Drag To Draw Temporary Rectangle On Slice"
+date: 2023-09-26
+url: https://discourse.slicer.org/t/31917
+---
+
 # Click-and-Drag to draw temporary rectangle on slice
 
 **Topic ID**: 31917

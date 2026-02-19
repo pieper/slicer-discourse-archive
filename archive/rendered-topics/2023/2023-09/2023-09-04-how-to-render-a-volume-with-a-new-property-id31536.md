@@ -1,3 +1,10 @@
+---
+topic_id: 31536
+title: "How To Render A Volume With A New Property"
+date: 2023-09-04
+url: https://discourse.slicer.org/t/31536
+---
+
 # How to render a volume with a new property
 
 **Topic ID**: 31536

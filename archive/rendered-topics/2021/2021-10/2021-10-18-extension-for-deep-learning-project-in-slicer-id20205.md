@@ -1,3 +1,10 @@
+---
+topic_id: 20205
+title: "Extension For Deep Learning Project In Slicer"
+date: 2021-10-18
+url: https://discourse.slicer.org/t/20205
+---
+
 # Extension for deep learning project in Slicer
 
 **Topic ID**: 20205

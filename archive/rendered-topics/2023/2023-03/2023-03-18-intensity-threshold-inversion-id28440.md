@@ -1,3 +1,10 @@
+---
+topic_id: 28440
+title: "Intensity Threshold Inversion"
+date: 2023-03-18
+url: https://discourse.slicer.org/t/28440
+---
+
 # Intensity threshold inversion
 
 **Topic ID**: 28440

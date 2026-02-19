@@ -1,3 +1,10 @@
+---
+topic_id: 27405
+title: "Segmentation Terminology To Labelmap Indices"
+date: 2023-01-22
+url: https://discourse.slicer.org/t/27405
+---
+
 # Segmentation terminology to labelmap indices
 
 **Topic ID**: 27405

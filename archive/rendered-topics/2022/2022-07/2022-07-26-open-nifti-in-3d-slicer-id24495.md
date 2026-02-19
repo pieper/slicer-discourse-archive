@@ -1,3 +1,10 @@
+---
+topic_id: 24495
+title: "Open Nifti In 3D Slicer"
+date: 2022-07-26
+url: https://discourse.slicer.org/t/24495
+---
+
 # Open Nifti in 3D Slicer
 
 **Topic ID**: 24495

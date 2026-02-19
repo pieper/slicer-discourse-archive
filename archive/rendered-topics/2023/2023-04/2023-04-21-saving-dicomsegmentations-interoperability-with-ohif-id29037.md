@@ -1,3 +1,10 @@
+---
+topic_id: 29037
+title: "Saving Dicomsegmentations Interoperability With Ohif"
+date: 2023-04-21
+url: https://discourse.slicer.org/t/29037
+---
+
 # Saving DICOMsegmentations - Interoperability with OHIF
 
 **Topic ID**: 29037

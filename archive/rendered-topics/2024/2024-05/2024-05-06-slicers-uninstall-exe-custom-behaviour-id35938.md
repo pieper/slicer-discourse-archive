@@ -1,3 +1,10 @@
+---
+topic_id: 35938
+title: "Slicers Uninstall Exe Custom Behaviour"
+date: 2024-05-06
+url: https://discourse.slicer.org/t/35938
+---
+
 # Slicer's Uninstall.exe custom behaviour
 
 **Topic ID**: 35938

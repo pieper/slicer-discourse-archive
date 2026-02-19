@@ -1,3 +1,10 @@
+---
+topic_id: 24356
+title: "Running Python File In Slicer On Mac"
+date: 2022-07-18
+url: https://discourse.slicer.org/t/24356
+---
+
 # Running python file in Slicer on Mac 
 
 **Topic ID**: 24356

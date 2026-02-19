@@ -1,3 +1,10 @@
+---
+topic_id: 11197
+title: "Real Time 3D Ultrasound Volume Reconstruction Using Slicerig"
+date: 2020-04-20
+url: https://discourse.slicer.org/t/11197
+---
+
 # Real-time 3D ultrasound volume reconstruction using SlicerIGT extension
 
 **Topic ID**: 11197

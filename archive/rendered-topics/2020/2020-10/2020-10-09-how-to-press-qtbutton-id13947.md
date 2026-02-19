@@ -1,3 +1,10 @@
+---
+topic_id: 13947
+title: "How To Press Qtbutton"
+date: 2020-10-09
+url: https://discourse.slicer.org/t/13947
+---
+
 # How to press qtButton?
 
 **Topic ID**: 13947

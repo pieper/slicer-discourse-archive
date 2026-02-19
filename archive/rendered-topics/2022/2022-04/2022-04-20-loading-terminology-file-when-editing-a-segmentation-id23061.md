@@ -1,3 +1,10 @@
+---
+topic_id: 23061
+title: "Loading Terminology File When Editing A Segmentation"
+date: 2022-04-20
+url: https://discourse.slicer.org/t/23061
+---
+
 # Loading terminology file when editing a segmentation
 
 **Topic ID**: 23061

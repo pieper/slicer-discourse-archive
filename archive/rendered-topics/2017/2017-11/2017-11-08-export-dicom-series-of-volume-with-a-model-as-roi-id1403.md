@@ -1,3 +1,10 @@
+---
+topic_id: 1403
+title: "Export Dicom Series Of Volume With A Model As Roi"
+date: 2017-11-08
+url: https://discourse.slicer.org/t/1403
+---
+
 # Export DICOM series of volume with a model as ROI
 
 **Topic ID**: 1403

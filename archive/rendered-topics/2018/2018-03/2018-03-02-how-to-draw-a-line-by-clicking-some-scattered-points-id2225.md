@@ -1,3 +1,10 @@
+---
+topic_id: 2225
+title: "How To Draw A Line By Clicking Some Scattered Points"
+date: 2018-03-02
+url: https://discourse.slicer.org/t/2225
+---
+
 # How to draw a line by clicking some scattered points
 
 **Topic ID**: 2225

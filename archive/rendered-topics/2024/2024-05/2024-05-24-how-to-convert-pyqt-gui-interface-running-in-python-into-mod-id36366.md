@@ -1,3 +1,10 @@
+---
+topic_id: 36366
+title: "How To Convert Pyqt Gui Interface Running In Python Into Mod"
+date: 2024-05-24
+url: https://discourse.slicer.org/t/36366
+---
+
 # How to convert PyQt Gui interface running in python into module in 3D slicer
 
 **Topic ID**: 36366

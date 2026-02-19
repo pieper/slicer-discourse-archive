@@ -1,3 +1,10 @@
+---
+topic_id: 24992
+title: "How To Get Leap Motion Data By Using The Puls App"
+date: 2022-08-30
+url: https://discourse.slicer.org/t/24992
+---
+
 # How to get Leap motion data by using the puls app
 
 **Topic ID**: 24992

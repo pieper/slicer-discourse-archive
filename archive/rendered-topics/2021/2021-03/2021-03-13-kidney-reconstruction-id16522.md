@@ -1,3 +1,10 @@
+---
+topic_id: 16522
+title: "Kidney Reconstruction"
+date: 2021-03-13
+url: https://discourse.slicer.org/t/16522
+---
+
 # Kidney reconstruction
 
 **Topic ID**: 16522

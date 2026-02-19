@@ -1,3 +1,10 @@
+---
+topic_id: 41994
+title: "New Feature Generalized Clipping"
+date: 2025-03-06
+url: https://discourse.slicer.org/t/41994
+---
+
 # New Feature: Generalized Clipping
 
 **Topic ID**: 41994

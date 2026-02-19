@@ -1,3 +1,10 @@
+---
+topic_id: 2231
+title: "Volume Rendering Slow In Latest Nightlies For Macos"
+date: 2018-03-02
+url: https://discourse.slicer.org/t/2231
+---
+
 # Volume rendering slow in latest nightlies for MacOS
 
 **Topic ID**: 2231

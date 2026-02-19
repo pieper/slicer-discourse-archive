@@ -1,3 +1,10 @@
+---
+topic_id: 21374
+title: "Windows Registry"
+date: 2022-01-10
+url: https://discourse.slicer.org/t/21374
+---
+
 # Windows registry
 
 **Topic ID**: 21374

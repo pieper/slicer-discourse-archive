@@ -1,3 +1,10 @@
+---
+topic_id: 1641
+title: "Interpreting Segmentation Nrrd Files"
+date: 2017-12-12
+url: https://discourse.slicer.org/t/1641
+---
+
 # Interpreting segmentation nrrd files
 
 **Topic ID**: 1641

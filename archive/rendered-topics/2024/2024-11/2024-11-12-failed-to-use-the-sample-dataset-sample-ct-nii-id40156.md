@@ -1,3 +1,10 @@
+---
+topic_id: 40156
+title: "Failed To Use The Sample Dataset Sample Ct Nii"
+date: 2024-11-12
+url: https://discourse.slicer.org/t/40156
+---
+
 # Failed to use the sample dataset (sample_ct.nii )
 
 **Topic ID**: 40156

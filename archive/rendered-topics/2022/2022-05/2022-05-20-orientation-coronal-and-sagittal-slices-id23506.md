@@ -1,3 +1,10 @@
+---
+topic_id: 23506
+title: "Orientation Coronal And Sagittal Slices"
+date: 2022-05-20
+url: https://discourse.slicer.org/t/23506
+---
+
 # Orientation coronal and sagittal slices
 
 **Topic ID**: 23506

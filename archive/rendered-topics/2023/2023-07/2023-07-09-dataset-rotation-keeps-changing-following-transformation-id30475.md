@@ -1,3 +1,10 @@
+---
+topic_id: 30475
+title: "Dataset Rotation Keeps Changing Following Transformation"
+date: 2023-07-09
+url: https://discourse.slicer.org/t/30475
+---
+
 # Dataset rotation keeps changing following transformation
 
 **Topic ID**: 30475

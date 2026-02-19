@@ -1,3 +1,10 @@
+---
+topic_id: 41295
+title: "Use Python To Turn On Visibility For Model To Model Distance"
+date: 2025-01-26
+url: https://discourse.slicer.org/t/41295
+---
+
 # Use python to turn on visibility for model to model distance scalars and color bars
 
 **Topic ID**: 41295

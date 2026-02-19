@@ -1,3 +1,10 @@
+---
+topic_id: 27447
+title: "Cli For Processing Markdown Based Project Pages"
+date: 2023-01-24
+url: https://discourse.slicer.org/t/27447
+---
+
 # CLI for processing markdown-based project pages
 
 **Topic ID**: 27447

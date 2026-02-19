@@ -1,3 +1,10 @@
+---
+topic_id: 19208
+title: "Organization Of Segment Editor Effects Into Categories"
+date: 2021-08-16
+url: https://discourse.slicer.org/t/19208
+---
+
 # Organization of Segment Editor effects into Categories
 
 **Topic ID**: 19208

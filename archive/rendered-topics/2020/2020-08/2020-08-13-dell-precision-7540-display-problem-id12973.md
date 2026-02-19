@@ -1,3 +1,10 @@
+---
+topic_id: 12973
+title: "Dell Precision 7540 Display Problem"
+date: 2020-08-13
+url: https://discourse.slicer.org/t/12973
+---
+
 # Dell Precision 7540 display problem
 
 **Topic ID**: 12973

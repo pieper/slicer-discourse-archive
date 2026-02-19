@@ -1,3 +1,10 @@
+---
+topic_id: 6946
+title: "Is 3D Slicer Software Used For Only For Human Heads Or Suita"
+date: 2019-05-28
+url: https://discourse.slicer.org/t/6946
+---
+
 # Is 3D slicer software used for only for human heads or suitable for all human parts?
 
 **Topic ID**: 6946

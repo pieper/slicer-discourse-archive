@@ -1,3 +1,10 @@
+---
+topic_id: 42027
+title: "Pet Ct Scan Dicom Files Show Reference Image In Series Does"
+date: 2025-03-08
+url: https://discourse.slicer.org/t/42027
+---
+
 # Pet/CT Scan DICOM files show "Reference image in series does not contain geometry information" error
 
 **Topic ID**: 42027

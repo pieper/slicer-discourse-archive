@@ -1,3 +1,10 @@
+---
+topic_id: 25050
+title: "Create Closed Curve From Existing Point List In Markups"
+date: 2022-09-02
+url: https://discourse.slicer.org/t/25050
+---
+
 # Create Closed Curve from existing Point List in Markups
 
 **Topic ID**: 25050

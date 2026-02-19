@@ -1,3 +1,10 @@
+---
+topic_id: 34329
+title: "Pet Lymph Node Automated Segmentation"
+date: 2024-02-14
+url: https://discourse.slicer.org/t/34329
+---
+
 # PET lymph node automated segmentation 
 
 **Topic ID**: 34329

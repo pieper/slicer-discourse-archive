@@ -1,3 +1,10 @@
+---
+topic_id: 13704
+title: "Surface Semilandmarks Created Inadequately"
+date: 2020-09-26
+url: https://discourse.slicer.org/t/13704
+---
+
 # Surface semilandmarks created inadequately
 
 **Topic ID**: 13704

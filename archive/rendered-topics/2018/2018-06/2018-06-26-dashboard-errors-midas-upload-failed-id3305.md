@@ -1,3 +1,10 @@
+---
+topic_id: 3305
+title: "Dashboard Errors Midas Upload Failed"
+date: 2018-06-26
+url: https://discourse.slicer.org/t/3305
+---
+
 # Dashboard errors: midas upload failed
 
 **Topic ID**: 3305

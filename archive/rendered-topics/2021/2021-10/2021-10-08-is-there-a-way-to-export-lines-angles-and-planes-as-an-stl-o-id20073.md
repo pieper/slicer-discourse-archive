@@ -1,3 +1,10 @@
+---
+topic_id: 20073
+title: "Is There A Way To Export Lines Angles And Planes As An Stl O"
+date: 2021-10-08
+url: https://discourse.slicer.org/t/20073
+---
+
 # Is there a way to export lines, angles, and planes as an STL? Or other 3d object file type?
 
 **Topic ID**: 20073

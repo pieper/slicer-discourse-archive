@@ -1,3 +1,10 @@
+---
+topic_id: 4025
+title: "Using Slicer Plot View Signal"
+date: 2018-09-08
+url: https://discourse.slicer.org/t/4025
+---
+
 # Using Slicer plot view signal
 
 **Topic ID**: 4025

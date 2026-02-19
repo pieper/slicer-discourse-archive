@@ -1,3 +1,10 @@
+---
+topic_id: 38464
+title: "Trouble Saving Fcsv File As Part Of Scene"
+date: 2024-09-20
+url: https://discourse.slicer.org/t/38464
+---
+
 # Trouble saving .fcsv file as part of scene
 
 **Topic ID**: 38464

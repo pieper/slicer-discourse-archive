@@ -1,3 +1,10 @@
+---
+topic_id: 36519
+title: "How To View Rtstruct Dicom File"
+date: 2024-05-31
+url: https://discourse.slicer.org/t/36519
+---
+
 # How to View RTSTRUCT DICOM file
 
 **Topic ID**: 36519

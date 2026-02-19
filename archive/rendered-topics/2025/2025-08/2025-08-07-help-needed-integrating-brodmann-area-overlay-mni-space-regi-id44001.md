@@ -1,3 +1,10 @@
+---
+topic_id: 44001
+title: "Help Needed Integrating Brodmann Area Overlay Mni Space Regi"
+date: 2025-08-07
+url: https://discourse.slicer.org/t/44001
+---
+
 # Help Needed – Integrating Brodmann Area Overlay & MNI Space Registration Module into Custom Application
 
 **Topic ID**: 44001

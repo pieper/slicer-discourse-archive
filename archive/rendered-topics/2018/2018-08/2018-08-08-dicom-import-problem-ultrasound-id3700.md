@@ -1,3 +1,10 @@
+---
+topic_id: 3700
+title: "Dicom Import Problem Ultrasound"
+date: 2018-08-08
+url: https://discourse.slicer.org/t/3700
+---
+
 # Dicom import problem (ultrasound)
 
 **Topic ID**: 3700

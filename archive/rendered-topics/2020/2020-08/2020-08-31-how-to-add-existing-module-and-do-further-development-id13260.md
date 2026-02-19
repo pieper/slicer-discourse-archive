@@ -1,3 +1,10 @@
+---
+topic_id: 13260
+title: "How To Add Existing Module And Do Further Development"
+date: 2020-08-31
+url: https://discourse.slicer.org/t/13260
+---
+
 # How to add existing module and do further development
 
 **Topic ID**: 13260

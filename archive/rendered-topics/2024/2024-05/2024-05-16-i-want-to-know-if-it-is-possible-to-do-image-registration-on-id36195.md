@@ -1,3 +1,10 @@
+---
+topic_id: 36195
+title: "I Want To Know If It Is Possible To Do Image Registration On"
+date: 2024-05-16
+url: https://discourse.slicer.org/t/36195
+---
+
 # i want to know if it is possible to do image registration on images of different anatomical orientations 
 
 **Topic ID**: 36195

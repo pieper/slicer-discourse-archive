@@ -1,3 +1,10 @@
+---
+topic_id: 5406
+title: "Fix The Location And Combined Data In Virtual Space"
+date: 2019-01-17
+url: https://discourse.slicer.org/t/5406
+---
+
 # Fix the location and combined data in virtual space
 
 **Topic ID**: 5406

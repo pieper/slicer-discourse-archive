@@ -1,3 +1,10 @@
+---
+topic_id: 32238
+title: "How Can I Update The Contents Of The Warning Window In Slice"
+date: 2023-10-16
+url: https://discourse.slicer.org/t/32238
+---
+
 # How can I update the contents of the warning window in Slicer?
 
 **Topic ID**: 32238

@@ -1,3 +1,10 @@
+---
+topic_id: 28767
+title: "Convert Totalsegmentator Results To Rt Structure Set"
+date: 2023-01-17
+url: https://discourse.slicer.org/t/28767
+---
+
 # Convert TotalSegmentator results to RT structure set
 
 **Topic ID**: 28767

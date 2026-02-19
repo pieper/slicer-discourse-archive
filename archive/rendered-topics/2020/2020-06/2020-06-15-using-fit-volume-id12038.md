@@ -1,3 +1,10 @@
+---
+topic_id: 12038
+title: "Using Fit Volume"
+date: 2020-06-15
+url: https://discourse.slicer.org/t/12038
+---
+
 # Using fit volume
 
 **Topic ID**: 12038

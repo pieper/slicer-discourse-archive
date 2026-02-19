@@ -1,3 +1,10 @@
+---
+topic_id: 3482
+title: "3D Slicer Python Xeus And Jupyter Lightning Talk At Scipy 20"
+date: 2018-07-14
+url: https://discourse.slicer.org/t/3482
+---
+
 # "3D Slicer, Python, Xeus and Jupyter" lightning talk at SciPy 2018 conference
 
 **Topic ID**: 3482

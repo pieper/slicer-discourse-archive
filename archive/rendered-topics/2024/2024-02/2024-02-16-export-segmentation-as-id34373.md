@@ -1,3 +1,10 @@
+---
+topic_id: 34373
+title: "Export Segmentation As"
+date: 2024-02-16
+url: https://discourse.slicer.org/t/34373
+---
+
 # Export segmentation as
 
 **Topic ID**: 34373

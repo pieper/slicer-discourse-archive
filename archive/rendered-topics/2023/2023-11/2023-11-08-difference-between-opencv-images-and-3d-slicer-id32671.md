@@ -1,3 +1,10 @@
+---
+topic_id: 32671
+title: "Difference Between Opencv Images And 3D Slicer"
+date: 2023-11-08
+url: https://discourse.slicer.org/t/32671
+---
+
 # Difference between opencv images and 3D slicer 
 
 **Topic ID**: 32671

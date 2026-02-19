@@ -1,3 +1,10 @@
+---
+topic_id: 31976
+title: "Create Heatmap In Slicer"
+date: 2023-10-01
+url: https://discourse.slicer.org/t/31976
+---
+
 # Create "heatmap" in slicer
 
 **Topic ID**: 31976

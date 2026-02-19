@@ -1,3 +1,10 @@
+---
+topic_id: 5211
+title: "Calculate Harmonic Energy Of Displacement Vector Field Dvf"
+date: 2018-12-28
+url: https://discourse.slicer.org/t/5211
+---
+
 # Calculate harmonic energy of displacement vector field (DVF)
 
 **Topic ID**: 5211

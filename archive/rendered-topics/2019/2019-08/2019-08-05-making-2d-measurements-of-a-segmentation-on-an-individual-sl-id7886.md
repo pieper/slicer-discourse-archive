@@ -1,3 +1,10 @@
+---
+topic_id: 7886
+title: "Making 2D Measurements Of A Segmentation On An Individual Sl"
+date: 2019-08-05
+url: https://discourse.slicer.org/t/7886
+---
+
 # Making 2D measurements of a segmentation on an individual slice
 
 **Topic ID**: 7886

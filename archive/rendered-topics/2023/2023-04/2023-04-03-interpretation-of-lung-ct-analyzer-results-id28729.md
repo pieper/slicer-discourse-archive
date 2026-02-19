@@ -1,3 +1,10 @@
+---
+topic_id: 28729
+title: "Interpretation Of Lung Ct Analyzer Results"
+date: 2023-04-03
+url: https://discourse.slicer.org/t/28729
+---
+
 # Interpretation of Lung CT Analyzer results
 
 **Topic ID**: 28729

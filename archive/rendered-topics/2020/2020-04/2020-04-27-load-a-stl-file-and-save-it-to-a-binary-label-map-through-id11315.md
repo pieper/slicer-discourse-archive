@@ -1,3 +1,10 @@
+---
+topic_id: 11315
+title: "Load A Stl File And Save It To A Binary Label Map Through"
+date: 2020-04-27
+url: https://discourse.slicer.org/t/11315
+---
+
 # Load a .stl file and save it to a binary label map through
 
 **Topic ID**: 11315

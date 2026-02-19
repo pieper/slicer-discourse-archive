@@ -1,3 +1,10 @@
+---
+topic_id: 14413
+title: "Problem Running Slicer On Centos8"
+date: 2020-11-03
+url: https://discourse.slicer.org/t/14413
+---
+
 # Problem running Slicer on CentOS8
 
 **Topic ID**: 14413

@@ -1,3 +1,10 @@
+---
+topic_id: 31971
+title: "Markup Renaming Error Loses Numbering"
+date: 2023-09-30
+url: https://discourse.slicer.org/t/31971
+---
+
 # Markup renaming error loses numbering
 
 **Topic ID**: 31971

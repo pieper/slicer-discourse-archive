@@ -1,3 +1,10 @@
+---
+topic_id: 18040
+title: "Will Slicer Automatically Update The Main Program"
+date: 2021-06-09
+url: https://discourse.slicer.org/t/18040
+---
+
 # Will Slicer automatically update the main program?
 
 **Topic ID**: 18040

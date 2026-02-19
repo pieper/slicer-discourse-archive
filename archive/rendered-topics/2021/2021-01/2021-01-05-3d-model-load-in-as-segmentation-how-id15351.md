@@ -1,3 +1,10 @@
+---
+topic_id: 15351
+title: "3D Model Load In As Segmentation How"
+date: 2021-01-05
+url: https://discourse.slicer.org/t/15351
+---
+
 # 3D model load in as segmentation, how?
 
 **Topic ID**: 15351

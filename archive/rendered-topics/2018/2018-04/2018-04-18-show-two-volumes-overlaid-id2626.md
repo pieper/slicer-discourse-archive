@@ -1,3 +1,10 @@
+---
+topic_id: 2626
+title: "Show Two Volumes Overlaid"
+date: 2018-04-18
+url: https://discourse.slicer.org/t/2626
+---
+
 # Show two volumes overlaid
 
 **Topic ID**: 2626

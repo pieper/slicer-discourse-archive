@@ -1,3 +1,10 @@
+---
+topic_id: 27652
+title: "Create A Paint Brush"
+date: 2023-02-06
+url: https://discourse.slicer.org/t/27652
+---
+
 # Create a paint brush
 
 **Topic ID**: 27652

@@ -1,3 +1,10 @@
+---
+topic_id: 25376
+title: "Slicer Build Error On Windows Dashboard"
+date: 2022-09-21
+url: https://discourse.slicer.org/t/25376
+---
+
 # Slicer build error on Windows dashboard
 
 **Topic ID**: 25376

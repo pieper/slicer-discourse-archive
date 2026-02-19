@@ -1,3 +1,10 @@
+---
+topic_id: 41557
+title: "Run Slicer From Console Bash"
+date: 2025-02-07
+url: https://discourse.slicer.org/t/41557
+---
+
 # Run Slicer from console (bash)
 
 **Topic ID**: 41557

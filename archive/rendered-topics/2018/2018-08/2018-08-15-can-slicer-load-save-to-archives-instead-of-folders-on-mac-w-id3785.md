@@ -1,3 +1,10 @@
+---
+topic_id: 3785
+title: "Can Slicer Load Save To Archives Instead Of Folders On Mac W"
+date: 2018-08-15
+url: https://discourse.slicer.org/t/3785
+---
+
 # Can Slicer load/save to archives instead of folders, on Mac/Windows?
 
 **Topic ID**: 3785

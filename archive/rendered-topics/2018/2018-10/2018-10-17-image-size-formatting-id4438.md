@@ -1,3 +1,10 @@
+---
+topic_id: 4438
+title: "Image Size Formatting"
+date: 2018-10-17
+url: https://discourse.slicer.org/t/4438
+---
+
 # Image size/formatting
 
 **Topic ID**: 4438

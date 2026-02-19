@@ -1,3 +1,10 @@
+---
+topic_id: 19958
+title: "Failing Pip Install Scikit Image On Slicer 4 13 0 2021 09 26"
+date: 2021-10-01
+url: https://discourse.slicer.org/t/19958
+---
+
 # Failing pip_install('scikit-image') on Slicer 4.13.0-2021-09-26 due to missing python-real.exe
 
 **Topic ID**: 19958

@@ -1,3 +1,10 @@
+---
+topic_id: 7613
+title: "Radiotherapy Contours Compare"
+date: 2019-07-16
+url: https://discourse.slicer.org/t/7613
+---
+
 # Radiotherapy Contours compare
 
 **Topic ID**: 7613

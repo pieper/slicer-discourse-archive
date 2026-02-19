@@ -1,3 +1,10 @@
+---
+topic_id: 22687
+title: "Dentistry Segmentation"
+date: 2022-03-25
+url: https://discourse.slicer.org/t/22687
+---
+
 # Dentistry segmentation
 
 **Topic ID**: 22687

@@ -1,3 +1,10 @@
+---
+topic_id: 35460
+title: "Run Custom Module In Virtual Environment"
+date: 2024-04-12
+url: https://discourse.slicer.org/t/35460
+---
+
 # Run custom module in virtual environment
 
 **Topic ID**: 35460

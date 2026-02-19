@@ -1,3 +1,10 @@
+---
+topic_id: 5625
+title: "Import Dcm Files From Ecube Alpinion"
+date: 2019-02-03
+url: https://discourse.slicer.org/t/5625
+---
+
 # Import DCM files from Ecube Alpinion
 
 **Topic ID**: 5625

@@ -1,3 +1,10 @@
+---
+topic_id: 12249
+title: "Transform Matrix And Image Coordinates For Fcsv Files"
+date: 2020-06-27
+url: https://discourse.slicer.org/t/12249
+---
+
 # Transform matrix and image coordinates for .fcsv files
 
 **Topic ID**: 12249

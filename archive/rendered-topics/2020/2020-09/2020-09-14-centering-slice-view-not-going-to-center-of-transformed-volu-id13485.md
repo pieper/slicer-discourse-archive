@@ -1,3 +1,10 @@
+---
+topic_id: 13485
+title: "Centering Slice View Not Going To Center Of Transformed Volu"
+date: 2020-09-14
+url: https://discourse.slicer.org/t/13485
+---
+
 # Centering slice view not going to center of transformed volume
 
 **Topic ID**: 13485

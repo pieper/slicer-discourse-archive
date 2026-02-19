@@ -1,3 +1,10 @@
+---
+topic_id: 32916
+title: "Remove Unwanted Areas Hip And Knee Joint Model"
+date: 2023-11-20
+url: https://discourse.slicer.org/t/32916
+---
+
 # Remove Unwanted Areas - Hip and Knee Joint Model
 
 **Topic ID**: 32916

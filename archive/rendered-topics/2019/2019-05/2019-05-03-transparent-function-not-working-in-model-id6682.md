@@ -1,3 +1,10 @@
+---
+topic_id: 6682
+title: "Transparent Function Not Working In Model"
+date: 2019-05-03
+url: https://discourse.slicer.org/t/6682
+---
+
 # Transparent function not working in model
 
 **Topic ID**: 6682

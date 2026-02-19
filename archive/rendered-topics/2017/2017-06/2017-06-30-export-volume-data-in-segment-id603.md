@@ -1,3 +1,10 @@
+---
+topic_id: 603
+title: "Export Volume Data In Segment"
+date: 2017-06-30
+url: https://discourse.slicer.org/t/603
+---
+
 # Export volume data in segment?
 
 **Topic ID**: 603

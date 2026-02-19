@@ -1,3 +1,10 @@
+---
+topic_id: 18955
+title: "Help Submitting Extension Breast Dce Mri Ftv"
+date: 2021-07-28
+url: https://discourse.slicer.org/t/18955
+---
+
 # Help submitting extension Breast DCE-MRI FTV
 
 **Topic ID**: 18955

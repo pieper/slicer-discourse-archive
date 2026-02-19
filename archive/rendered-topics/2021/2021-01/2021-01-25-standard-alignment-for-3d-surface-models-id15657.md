@@ -1,3 +1,10 @@
+---
+topic_id: 15657
+title: "Standard Alignment For 3D Surface Models"
+date: 2021-01-25
+url: https://discourse.slicer.org/t/15657
+---
+
 # Standard alignment for 3D surface models
 
 **Topic ID**: 15657

@@ -1,3 +1,10 @@
+---
+topic_id: 34178
+title: "Spharm Pdm Coefficient"
+date: 2024-02-06
+url: https://discourse.slicer.org/t/34178
+---
+
 # Spharm PDM Coefficient
 
 **Topic ID**: 34178

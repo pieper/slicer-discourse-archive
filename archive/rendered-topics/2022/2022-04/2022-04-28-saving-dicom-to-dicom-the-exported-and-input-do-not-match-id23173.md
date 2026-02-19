@@ -1,3 +1,10 @@
+---
+topic_id: 23173
+title: "Saving Dicom To Dicom The Exported And Input Do Not Match"
+date: 2022-04-28
+url: https://discourse.slicer.org/t/23173
+---
+
 # Saving dicom to dicom, the exported and input do not match
 
 **Topic ID**: 23173

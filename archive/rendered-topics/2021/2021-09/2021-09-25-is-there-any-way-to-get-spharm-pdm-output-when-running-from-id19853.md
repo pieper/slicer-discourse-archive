@@ -1,3 +1,10 @@
+---
+topic_id: 19853
+title: "Is There Any Way To Get Spharm Pdm Output When Running From"
+date: 2021-09-25
+url: https://discourse.slicer.org/t/19853
+---
+
 # Is there any way to get SPHARM-PDM output when running from cmd?
 
 **Topic ID**: 19853

@@ -1,3 +1,10 @@
+---
+topic_id: 1549
+title: "How Can I Calculate An Area On A Ct Image I Can Calculate Vo"
+date: 2017-11-28
+url: https://discourse.slicer.org/t/1549
+---
+
 # How can I calculate an area on a CT image. I can calculate volumes (mm^3) but not areas (mm^2)
 
 **Topic ID**: 1549

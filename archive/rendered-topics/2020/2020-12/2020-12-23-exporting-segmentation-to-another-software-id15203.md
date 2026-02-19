@@ -1,3 +1,10 @@
+---
+topic_id: 15203
+title: "Exporting Segmentation To Another Software"
+date: 2020-12-23
+url: https://discourse.slicer.org/t/15203
+---
+
 # Exporting segmentation to another software
 
 **Topic ID**: 15203

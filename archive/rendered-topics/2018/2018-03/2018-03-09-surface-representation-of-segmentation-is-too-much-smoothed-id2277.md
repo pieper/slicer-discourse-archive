@@ -1,3 +1,10 @@
+---
+topic_id: 2277
+title: "Surface Representation Of Segmentation Is Too Much Smoothed"
+date: 2018-03-09
+url: https://discourse.slicer.org/t/2277
+---
+
 # Surface representation of segmentation is too much smoothed
 
 **Topic ID**: 2277

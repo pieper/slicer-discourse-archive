@@ -1,3 +1,10 @@
+---
+topic_id: 33916
+title: "Get 3D Model Segmentations For 2D Tracked Images"
+date: 2024-01-22
+url: https://discourse.slicer.org/t/33916
+---
+
 # Get 3d model segmentations for 2d tracked images
 
 **Topic ID**: 33916

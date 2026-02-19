@@ -1,3 +1,10 @@
+---
+topic_id: 39561
+title: "Run Cross Section Analysis With Models"
+date: 2024-10-07
+url: https://discourse.slicer.org/t/39561
+---
+
 # Run Cross-Section Analysis with models
 
 **Topic ID**: 39561

@@ -1,3 +1,10 @@
+---
+topic_id: 22798
+title: "Dicoms In Blender And Realtime Segmentation"
+date: 2022-04-02
+url: https://discourse.slicer.org/t/22798
+---
+
 # .dicoms in Blender and realtime segmentation
 
 **Topic ID**: 22798

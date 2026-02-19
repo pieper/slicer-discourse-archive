@@ -1,3 +1,10 @@
+---
+topic_id: 6318
+title: "Center A Volume In 3D Scene"
+date: 2019-03-28
+url: https://discourse.slicer.org/t/6318
+---
+
 # Center a volume in 3D scene
 
 **Topic ID**: 6318

@@ -1,3 +1,10 @@
+---
+topic_id: 25566
+title: "Spharm Pdm Segpostprocess Produces Errors"
+date: 2022-10-05
+url: https://discourse.slicer.org/t/25566
+---
+
 # SPHARM-PDM SegPostProcess produces errors
 
 **Topic ID**: 25566

@@ -1,3 +1,10 @@
+---
+topic_id: 7324
+title: "New Segment Editor Feature Added Split Volume"
+date: 2019-06-26
+url: https://discourse.slicer.org/t/7324
+---
+
 # New segment editor feature added: Split volume
 
 **Topic ID**: 7324

@@ -1,3 +1,10 @@
+---
+topic_id: 14170
+title: "Quantifying Mouse Lung Microct Scans"
+date: 2020-10-20
+url: https://discourse.slicer.org/t/14170
+---
+
 # Quantifying Mouse Lung microCT Scans
 
 **Topic ID**: 14170

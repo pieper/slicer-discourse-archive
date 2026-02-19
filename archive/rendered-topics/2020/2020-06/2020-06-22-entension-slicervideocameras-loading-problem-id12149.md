@@ -1,3 +1,10 @@
+---
+topic_id: 12149
+title: "Entension Slicervideocameras Loading Problem"
+date: 2020-06-22
+url: https://discourse.slicer.org/t/12149
+---
+
 # Entension "SlicerVideoCameras" Loading problem
 
 **Topic ID**: 12149

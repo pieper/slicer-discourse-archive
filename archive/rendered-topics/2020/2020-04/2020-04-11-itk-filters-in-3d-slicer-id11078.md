@@ -1,3 +1,10 @@
+---
+topic_id: 11078
+title: "Itk Filters In 3D Slicer"
+date: 2020-04-11
+url: https://discourse.slicer.org/t/11078
+---
+
 # Itk Filters in 3D slicer
 
 **Topic ID**: 11078

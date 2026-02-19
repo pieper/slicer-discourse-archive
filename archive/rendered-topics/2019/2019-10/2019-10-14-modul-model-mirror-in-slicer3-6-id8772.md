@@ -1,3 +1,10 @@
+---
+topic_id: 8772
+title: "Modul Model Mirror In Slicer3 6"
+date: 2019-10-14
+url: https://discourse.slicer.org/t/8772
+---
+
 # Modul: model mirror-> in slicer3.6
 
 **Topic ID**: 8772

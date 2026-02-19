@@ -1,3 +1,10 @@
+---
+topic_id: 39722
+title: "Issue With Saving Files"
+date: 2024-10-16
+url: https://discourse.slicer.org/t/39722
+---
+
 # Issue with Saving Files
 
 **Topic ID**: 39722

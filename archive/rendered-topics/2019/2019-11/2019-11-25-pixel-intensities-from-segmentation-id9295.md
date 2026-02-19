@@ -1,3 +1,10 @@
+---
+topic_id: 9295
+title: "Pixel Intensities From Segmentation"
+date: 2019-11-25
+url: https://discourse.slicer.org/t/9295
+---
+
 # Pixel intensities from segmentation?
 
 **Topic ID**: 9295

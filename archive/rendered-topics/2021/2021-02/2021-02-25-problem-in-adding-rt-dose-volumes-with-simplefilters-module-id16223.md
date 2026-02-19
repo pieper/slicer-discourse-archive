@@ -1,3 +1,10 @@
+---
+topic_id: 16223
+title: "Problem In Adding Rt Dose Volumes With Simplefilters Module"
+date: 2021-02-25
+url: https://discourse.slicer.org/t/16223
+---
+
 # Problem in adding RT Dose volumes with SimpleFilters module
 
 **Topic ID**: 16223

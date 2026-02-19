@@ -1,3 +1,10 @@
+---
+topic_id: 29607
+title: "Build When Git Commit Is Changed"
+date: 2023-05-23
+url: https://discourse.slicer.org/t/29607
+---
+
 # Build when git commit is changed
 
 **Topic ID**: 29607

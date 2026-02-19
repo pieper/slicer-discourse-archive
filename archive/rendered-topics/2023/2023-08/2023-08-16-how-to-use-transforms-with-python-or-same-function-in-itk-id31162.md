@@ -1,3 +1,10 @@
+---
+topic_id: 31162
+title: "How To Use Transforms With Python Or Same Function In Itk"
+date: 2023-08-16
+url: https://discourse.slicer.org/t/31162
+---
+
 # How to use Transforms with python or same function in itk
 
 **Topic ID**: 31162

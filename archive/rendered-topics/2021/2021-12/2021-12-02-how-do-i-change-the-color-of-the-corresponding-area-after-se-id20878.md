@@ -1,3 +1,10 @@
+---
+topic_id: 20878
+title: "How Do I Change The Color Of The Corresponding Area After Se"
+date: 2021-12-02
+url: https://discourse.slicer.org/t/20878
+---
+
 # How do I change the color of the corresponding area after setting the threshold？
 
 **Topic ID**: 20878

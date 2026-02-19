@@ -1,3 +1,10 @@
+---
+topic_id: 40622
+title: "Applying Transform Matrix In Python"
+date: 2024-12-10
+url: https://discourse.slicer.org/t/40622
+---
+
 # Applying Transform Matrix in python
 
 **Topic ID**: 40622

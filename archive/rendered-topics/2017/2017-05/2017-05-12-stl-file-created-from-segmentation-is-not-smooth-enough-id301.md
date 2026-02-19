@@ -1,3 +1,10 @@
+---
+topic_id: 301
+title: "Stl File Created From Segmentation Is Not Smooth Enough"
+date: 2017-05-12
+url: https://discourse.slicer.org/t/301
+---
+
 # STL file created from segmentation is not smooth enough
 
 **Topic ID**: 301

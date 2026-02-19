@@ -1,3 +1,10 @@
+---
+topic_id: 4980
+title: "Other Dicom Listeners Running On Startup"
+date: 2018-12-05
+url: https://discourse.slicer.org/t/4980
+---
+
 # "other DICOM listeners running" on startup
 
 **Topic ID**: 4980

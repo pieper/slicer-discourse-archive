@@ -1,3 +1,10 @@
+---
+topic_id: 12013
+title: "New Text Engrave Emboss Effect In Segment Editor"
+date: 2020-06-14
+url: https://discourse.slicer.org/t/12013
+---
+
 # New text engrave/emboss effect in Segment Editor
 
 **Topic ID**: 12013

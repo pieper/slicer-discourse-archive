@@ -1,3 +1,10 @@
+---
+topic_id: 447
+title: "Is It Possible To Fuse A Coregistered Mri And Ct Scan Into O"
+date: 2017-06-06
+url: https://discourse.slicer.org/t/447
+---
+
 # Is it possible to fuse a coregistered MRI and CT scan into one nii file on 3D Slicer?
 
 **Topic ID**: 447

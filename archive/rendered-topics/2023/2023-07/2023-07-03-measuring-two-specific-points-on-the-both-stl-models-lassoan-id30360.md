@@ -1,3 +1,10 @@
+---
+topic_id: 30360
+title: "Measuring Two Specific Points On The Both Stl Models Lassoan"
+date: 2023-07-03
+url: https://discourse.slicer.org/t/30360
+---
+
 # Measuring two specific points on the both STL models @lassoan
 
 **Topic ID**: 30360

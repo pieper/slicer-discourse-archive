@@ -1,3 +1,10 @@
+---
+topic_id: 5779
+title: "Use Masking Module In Segmentation"
+date: 2019-02-14
+url: https://discourse.slicer.org/t/5779
+---
+
 # Use masking module in segmentation
 
 **Topic ID**: 5779

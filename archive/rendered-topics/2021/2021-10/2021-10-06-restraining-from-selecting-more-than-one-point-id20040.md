@@ -1,3 +1,10 @@
+---
+topic_id: 20040
+title: "Restraining From Selecting More Than One Point"
+date: 2021-10-06
+url: https://discourse.slicer.org/t/20040
+---
+
 # Restraining from selecting more than one point
 
 **Topic ID**: 20040

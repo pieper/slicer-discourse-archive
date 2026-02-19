@@ -1,3 +1,10 @@
+---
+topic_id: 1433
+title: "No Extensions Built On Linux"
+date: 2017-11-10
+url: https://discourse.slicer.org/t/1433
+---
+
 # No extensions built on Linux
 
 **Topic ID**: 1433

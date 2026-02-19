@@ -1,3 +1,10 @@
+---
+topic_id: 35695
+title: "Superimposition Of Stl Files Segmentation"
+date: 2024-04-23
+url: https://discourse.slicer.org/t/35695
+---
+
 # Superimposition of STL files / segmentation
 
 **Topic ID**: 35695

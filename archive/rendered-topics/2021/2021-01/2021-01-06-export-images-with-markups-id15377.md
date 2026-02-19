@@ -1,3 +1,10 @@
+---
+topic_id: 15377
+title: "Export Images With Markups"
+date: 2021-01-06
+url: https://discourse.slicer.org/t/15377
+---
+
 # Export images with markups
 
 **Topic ID**: 15377

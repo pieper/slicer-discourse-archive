@@ -1,3 +1,10 @@
+---
+topic_id: 4110
+title: "Broken Mrb File After Saving Fiducial List With Character In"
+date: 2018-09-13
+url: https://discourse.slicer.org/t/4110
+---
+
 # Broken .mrb file after saving fiducial list with "&" character in title
 
 **Topic ID**: 4110

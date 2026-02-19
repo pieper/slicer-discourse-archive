@@ -1,3 +1,10 @@
+---
+topic_id: 27233
+title: "Supporting Obj With Texture Maps Without Texturemodel Module"
+date: 2023-01-13
+url: https://discourse.slicer.org/t/27233
+---
+
 # Supporting OBJ with texture maps (without textureModel module)
 
 **Topic ID**: 27233

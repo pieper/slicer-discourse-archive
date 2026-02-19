@@ -1,3 +1,10 @@
+---
+topic_id: 37712
+title: "How Can I Draw Tube"
+date: 2024-08-05
+url: https://discourse.slicer.org/t/37712
+---
+
 # How can i draw tube?
 
 **Topic ID**: 37712

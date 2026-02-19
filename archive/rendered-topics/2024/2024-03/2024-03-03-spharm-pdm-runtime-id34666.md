@@ -1,3 +1,10 @@
+---
+topic_id: 34666
+title: "Spharm Pdm Runtime"
+date: 2024-03-03
+url: https://discourse.slicer.org/t/34666
+---
+
 # SPHARM-PDM runtime
 
 **Topic ID**: 34666

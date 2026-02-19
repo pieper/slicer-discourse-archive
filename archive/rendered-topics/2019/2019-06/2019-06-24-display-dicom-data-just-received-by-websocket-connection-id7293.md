@@ -1,3 +1,10 @@
+---
+topic_id: 7293
+title: "Display Dicom Data Just Received By Websocket Connection"
+date: 2019-06-24
+url: https://discourse.slicer.org/t/7293
+---
+
 # Display Dicom data just received by websocket connection
 
 **Topic ID**: 7293

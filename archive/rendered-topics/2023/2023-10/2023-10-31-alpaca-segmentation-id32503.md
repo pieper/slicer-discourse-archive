@@ -1,3 +1,10 @@
+---
+topic_id: 32503
+title: "Alpaca Segmentation"
+date: 2023-10-31
+url: https://discourse.slicer.org/t/32503
+---
+
 # ALPACA & segmentation
 
 **Topic ID**: 32503

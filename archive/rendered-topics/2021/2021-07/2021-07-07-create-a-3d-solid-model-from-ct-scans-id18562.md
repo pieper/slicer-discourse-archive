@@ -1,3 +1,10 @@
+---
+topic_id: 18562
+title: "Create A 3D Solid Model From Ct Scans"
+date: 2021-07-07
+url: https://discourse.slicer.org/t/18562
+---
+
 # Create a 3D solid model from CT scans
 
 **Topic ID**: 18562

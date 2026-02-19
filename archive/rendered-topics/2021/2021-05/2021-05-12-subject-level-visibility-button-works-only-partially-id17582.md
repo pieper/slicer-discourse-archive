@@ -1,3 +1,10 @@
+---
+topic_id: 17582
+title: "Subject Level Visibility Button Works Only Partially"
+date: 2021-05-12
+url: https://discourse.slicer.org/t/17582
+---
+
 # Subject Level visibility button works only partially
 
 **Topic ID**: 17582

@@ -1,3 +1,10 @@
+---
+topic_id: 507
+title: "Ask An Installation Problem"
+date: 2017-06-15
+url: https://discourse.slicer.org/t/507
+---
+
 # Ask an installation problem
 
 **Topic ID**: 507

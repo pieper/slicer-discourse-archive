@@ -1,3 +1,10 @@
+---
+topic_id: 12221
+title: "Python Code For User To Select Point On Image"
+date: 2020-06-25
+url: https://discourse.slicer.org/t/12221
+---
+
 # Python Code for User to Select Point on Image
 
 **Topic ID**: 12221

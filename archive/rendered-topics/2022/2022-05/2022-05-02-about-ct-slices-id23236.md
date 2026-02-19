@@ -1,3 +1,10 @@
+---
+topic_id: 23236
+title: "About Ct Slices"
+date: 2022-05-02
+url: https://discourse.slicer.org/t/23236
+---
+
 # About CT slices
 
 **Topic ID**: 23236

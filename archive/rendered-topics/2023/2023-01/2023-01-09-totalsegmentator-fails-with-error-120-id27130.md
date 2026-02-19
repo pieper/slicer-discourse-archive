@@ -1,3 +1,10 @@
+---
+topic_id: 27130
+title: "Totalsegmentator Fails With Error 120"
+date: 2023-01-09
+url: https://discourse.slicer.org/t/27130
+---
+
 # TotalSegmentator fails with error 120
 
 **Topic ID**: 27130

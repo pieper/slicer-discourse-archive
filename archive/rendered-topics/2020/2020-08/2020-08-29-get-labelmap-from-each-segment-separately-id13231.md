@@ -1,3 +1,10 @@
+---
+topic_id: 13231
+title: "Get Labelmap From Each Segment Separately"
+date: 2020-08-29
+url: https://discourse.slicer.org/t/13231
+---
+
 # Get labelmap from each segment separately?
 
 **Topic ID**: 13231

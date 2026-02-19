@@ -1,3 +1,10 @@
+---
+topic_id: 163
+title: "How To Go To Cumulative Histogram From Lung Density Histogra"
+date: 2017-04-21
+url: https://discourse.slicer.org/t/163
+---
+
 # How to go to cumulative histogram from lung density histogram in parenchyma analysis module?
 
 **Topic ID**: 163

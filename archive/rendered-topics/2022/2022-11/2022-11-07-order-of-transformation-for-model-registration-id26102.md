@@ -1,3 +1,10 @@
+---
+topic_id: 26102
+title: "Order Of Transformation For Model Registration"
+date: 2022-11-07
+url: https://discourse.slicer.org/t/26102
+---
+
 # Order of transformation for model registration
 
 **Topic ID**: 26102

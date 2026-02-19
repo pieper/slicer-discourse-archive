@@ -1,3 +1,10 @@
+---
+topic_id: 45241
+title: "Configure Qmrmlsubjecthierarchytreeview"
+date: 2025-11-26
+url: https://discourse.slicer.org/t/45241
+---
+
 # Configure qMRMLSubjectHierarchyTreeView?
 
 **Topic ID**: 45241

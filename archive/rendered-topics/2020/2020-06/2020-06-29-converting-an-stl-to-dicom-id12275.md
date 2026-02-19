@@ -1,3 +1,10 @@
+---
+topic_id: 12275
+title: "Converting An Stl To Dicom"
+date: 2020-06-29
+url: https://discourse.slicer.org/t/12275
+---
+
 # Converting an STL to DICOM 
 
 **Topic ID**: 12275

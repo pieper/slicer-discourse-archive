@@ -1,3 +1,10 @@
+---
+topic_id: 37732
+title: "Load Raw Microct Data With Vgi Metadata"
+date: 2024-08-06
+url: https://discourse.slicer.org/t/37732
+---
+
 # Load .raw microCT data with .vgi metadata
 
 **Topic ID**: 37732

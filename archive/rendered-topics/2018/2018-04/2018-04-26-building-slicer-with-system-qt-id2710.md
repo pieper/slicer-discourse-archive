@@ -1,3 +1,10 @@
+---
+topic_id: 2710
+title: "Building Slicer With System Qt"
+date: 2018-04-26
+url: https://discourse.slicer.org/t/2710
+---
+
 # Building slicer with system QT
 
 **Topic ID**: 2710

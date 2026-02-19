@@ -1,3 +1,10 @@
+---
+topic_id: 587
+title: "Pyzmq In Slicer Python"
+date: 2017-06-28
+url: https://discourse.slicer.org/t/587
+---
+
 # Pyzmq in slicer python
 
 **Topic ID**: 587

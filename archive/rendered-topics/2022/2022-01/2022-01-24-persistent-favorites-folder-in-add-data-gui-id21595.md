@@ -1,3 +1,10 @@
+---
+topic_id: 21595
+title: "Persistent Favorites Folder In Add Data Gui"
+date: 2022-01-24
+url: https://discourse.slicer.org/t/21595
+---
+
 # Persistent favorites folder in Add Data GUI
 
 **Topic ID**: 21595

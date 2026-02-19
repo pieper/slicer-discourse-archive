@@ -1,3 +1,10 @@
+---
+topic_id: 22444
+title: "How To Segment One More Organs Using 3Dslicer And Add To The"
+date: 2022-03-11
+url: https://discourse.slicer.org/t/22444
+---
+
 # How to segment one/more organs using 3DSlicer and add to the existing segmentation file?
 
 **Topic ID**: 22444

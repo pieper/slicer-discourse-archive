@@ -1,3 +1,10 @@
+---
+topic_id: 29929
+title: "How To Add Setup File In 3D Slicers Site Package"
+date: 2023-06-09
+url: https://discourse.slicer.org/t/29929
+---
+
 # How to add Setup file in 3D slicer's site-package?
 
 **Topic ID**: 29929

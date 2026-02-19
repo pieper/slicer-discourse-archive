@@ -1,3 +1,10 @@
+---
+topic_id: 14681
+title: "Ai Segmentation Extension With Gpu"
+date: 2020-11-19
+url: https://discourse.slicer.org/t/14681
+---
+
 # AI segmentation extension with GPU
 
 **Topic ID**: 14681

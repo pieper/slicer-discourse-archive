@@ -1,3 +1,10 @@
+---
+topic_id: 44835
+title: "Show 3D But Not Shading In Red Window"
+date: 2025-10-21
+url: https://discourse.slicer.org/t/44835
+---
+
 # Show 3D but not shading in red window
 
 **Topic ID**: 44835

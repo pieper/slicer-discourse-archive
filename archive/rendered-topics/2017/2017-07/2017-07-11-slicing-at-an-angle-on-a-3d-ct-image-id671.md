@@ -1,3 +1,10 @@
+---
+topic_id: 671
+title: "Slicing At An Angle On A 3D Ct Image"
+date: 2017-07-11
+url: https://discourse.slicer.org/t/671
+---
+
 # Slicing at an angle on a 3D CT image
 
 **Topic ID**: 671

@@ -1,3 +1,10 @@
+---
+topic_id: 27562
+title: "Support For Applying Settings To Updated Slicer Application"
+date: 2022-10-13
+url: https://discourse.slicer.org/t/27562
+---
+
 # Support for applying settings to updated Slicer application
 
 **Topic ID**: 27562

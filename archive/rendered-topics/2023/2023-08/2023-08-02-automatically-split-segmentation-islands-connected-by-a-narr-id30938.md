@@ -1,3 +1,10 @@
+---
+topic_id: 30938
+title: "Automatically Split Segmentation Islands Connected By A Narr"
+date: 2023-08-02
+url: https://discourse.slicer.org/t/30938
+---
+
 # Automatically split segmentation islands connected by a narrow path
 
 **Topic ID**: 30938

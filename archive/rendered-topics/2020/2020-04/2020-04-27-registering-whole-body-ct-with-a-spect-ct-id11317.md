@@ -1,3 +1,10 @@
+---
+topic_id: 11317
+title: "Registering Whole Body Ct With A Spect Ct"
+date: 2020-04-27
+url: https://discourse.slicer.org/t/11317
+---
+
 # Registering whole body CT with a SPECT/CT
 
 **Topic ID**: 11317

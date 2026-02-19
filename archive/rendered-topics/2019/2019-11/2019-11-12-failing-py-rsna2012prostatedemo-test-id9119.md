@@ -1,3 +1,10 @@
+---
+topic_id: 9119
+title: "Failing Py Rsna2012Prostatedemo Test"
+date: 2019-11-12
+url: https://discourse.slicer.org/t/9119
+---
+
 # Failing py_RSNA2012ProstateDemo test
 
 **Topic ID**: 9119

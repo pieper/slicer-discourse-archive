@@ -1,3 +1,10 @@
+---
+topic_id: 41834
+title: "Slimplify The Software And A Way To Change The Dicom To A St"
+date: 2025-02-22
+url: https://discourse.slicer.org/t/41834
+---
+
 # slimplify the software and a way to change the dicom to a stl file.
 
 **Topic ID**: 41834

@@ -1,3 +1,10 @@
+---
+topic_id: 40474
+title: "Possible Regression In Events Triggered By Plane And Roi Mar"
+date: 2024-12-02
+url: https://discourse.slicer.org/t/40474
+---
+
 # Possible regression in events triggered by plane and ROI markups
 
 **Topic ID**: 40474

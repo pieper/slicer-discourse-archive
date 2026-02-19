@@ -1,3 +1,10 @@
+---
+topic_id: 4707
+title: "Model Opacity Change In Single View"
+date: 2018-11-09
+url: https://discourse.slicer.org/t/4707
+---
+
 # Model opacity change in single view
 
 **Topic ID**: 4707

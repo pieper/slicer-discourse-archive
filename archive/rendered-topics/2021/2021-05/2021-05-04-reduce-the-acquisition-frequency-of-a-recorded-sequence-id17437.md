@@ -1,3 +1,10 @@
+---
+topic_id: 17437
+title: "Reduce The Acquisition Frequency Of A Recorded Sequence"
+date: 2021-05-04
+url: https://discourse.slicer.org/t/17437
+---
+
 # Reduce the acquisition frequency of a recorded sequence
 
 **Topic ID**: 17437

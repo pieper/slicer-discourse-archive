@@ -1,3 +1,10 @@
+---
+topic_id: 30554
+title: "Import Dicom Multiple Acquisitionnumber Instead Of One Serie"
+date: 2023-07-12
+url: https://discourse.slicer.org/t/30554
+---
+
 # Import DICOM multiple AcquisitionNumber instead of one series
 
 **Topic ID**: 30554

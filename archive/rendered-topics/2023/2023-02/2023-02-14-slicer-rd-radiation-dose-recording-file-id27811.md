@@ -1,3 +1,10 @@
+---
+topic_id: 27811
+title: "Slicer Rd Radiation Dose Recording File"
+date: 2023-02-14
+url: https://discourse.slicer.org/t/27811
+---
+
 # Slicer RD (radiation dose) recording file
 
 **Topic ID**: 27811

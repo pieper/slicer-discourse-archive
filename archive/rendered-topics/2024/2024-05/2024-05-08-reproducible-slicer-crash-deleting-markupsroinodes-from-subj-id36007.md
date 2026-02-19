@@ -1,3 +1,10 @@
+---
+topic_id: 36007
+title: "Reproducible Slicer Crash Deleting Markupsroinodes From Subj"
+date: 2024-05-08
+url: https://discourse.slicer.org/t/36007
+---
+
 # Reproducible Slicer crash deleting MarkupsROINodes from subject hierarchy
 
 **Topic ID**: 36007

@@ -1,3 +1,10 @@
+---
+topic_id: 39682
+title: "Non Manifold Of Vtk Delaunay"
+date: 2024-10-14
+url: https://discourse.slicer.org/t/39682
+---
+
 # Non-manifold of vtk delaunay
 
 **Topic ID**: 39682

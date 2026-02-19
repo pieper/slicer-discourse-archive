@@ -1,3 +1,10 @@
+---
+topic_id: 19996
+title: "Unable To Install Monai Label Plugin From Slicer Extension M"
+date: 2021-10-04
+url: https://discourse.slicer.org/t/19996
+---
+
 # unable to install MONAI Label plugin from Slicer Extension Manager
 
 **Topic ID**: 19996

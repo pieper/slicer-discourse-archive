@@ -1,3 +1,10 @@
+---
+topic_id: 3242
+title: "Rotate 90 A Stack Of Dicom Images"
+date: 2018-06-20
+url: https://discourse.slicer.org/t/3242
+---
+
 # Rotate 90° a stack of DICOM images
 
 **Topic ID**: 3242

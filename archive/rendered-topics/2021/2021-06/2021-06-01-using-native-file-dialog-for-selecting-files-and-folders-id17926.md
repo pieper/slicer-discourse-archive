@@ -1,3 +1,10 @@
+---
+topic_id: 17926
+title: "Using Native File Dialog For Selecting Files And Folders"
+date: 2021-06-01
+url: https://discourse.slicer.org/t/17926
+---
+
 # Using native file dialog for selecting files and folders
 
 **Topic ID**: 17926

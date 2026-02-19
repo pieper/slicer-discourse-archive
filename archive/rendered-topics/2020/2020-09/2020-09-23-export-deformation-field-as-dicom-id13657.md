@@ -1,3 +1,10 @@
+---
+topic_id: 13657
+title: "Export Deformation Field As Dicom"
+date: 2020-09-23
+url: https://discourse.slicer.org/t/13657
+---
+
 # Export Deformation Field as Dicom
 
 **Topic ID**: 13657

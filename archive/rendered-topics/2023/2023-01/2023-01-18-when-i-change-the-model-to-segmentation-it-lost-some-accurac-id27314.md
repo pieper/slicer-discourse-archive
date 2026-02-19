@@ -1,3 +1,10 @@
+---
+topic_id: 27314
+title: "When I Change The Model To Segmentation It Lost Some Accurac"
+date: 2023-01-18
+url: https://discourse.slicer.org/t/27314
+---
+
 # When i change the model to segmentation , it lost some accuracy
 
 **Topic ID**: 27314

@@ -1,3 +1,10 @@
+---
+topic_id: 35394
+title: "Extract Aortic Arch Arteries From Cta Scan"
+date: 2024-04-09
+url: https://discourse.slicer.org/t/35394
+---
+
 # Extract aortic arch arteries from CTA scan
 
 **Topic ID**: 35394

@@ -1,3 +1,10 @@
+---
+topic_id: 23625
+title: "Slicer Build Maybe Python Problem"
+date: 2022-05-29
+url: https://discourse.slicer.org/t/23625
+---
+
 # Slicer build;maybe python problem
 
 **Topic ID**: 23625

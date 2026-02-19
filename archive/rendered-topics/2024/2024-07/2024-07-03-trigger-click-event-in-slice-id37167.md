@@ -1,3 +1,10 @@
+---
+topic_id: 37167
+title: "Trigger Click Event In Slice"
+date: 2024-07-03
+url: https://discourse.slicer.org/t/37167
+---
+
 # Trigger Click Event in Slice
 
 **Topic ID**: 37167

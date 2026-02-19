@@ -1,3 +1,10 @@
+---
+topic_id: 23354
+title: "Slicer Modules Dicomwidget Browserwidget Dicombrowser Does N"
+date: 2022-05-10
+url: https://discourse.slicer.org/t/23354
+---
+
 # slicer.modules.DICOMWidget.browserWidget.dicomBrowser does not work in preview release
 
 **Topic ID**: 23354

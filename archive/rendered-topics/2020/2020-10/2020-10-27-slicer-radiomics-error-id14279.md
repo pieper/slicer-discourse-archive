@@ -1,3 +1,10 @@
+---
+topic_id: 14279
+title: "Slicer Radiomics Error"
+date: 2020-10-27
+url: https://discourse.slicer.org/t/14279
+---
+
 # Slicer Radiomics error 
 
 **Topic ID**: 14279

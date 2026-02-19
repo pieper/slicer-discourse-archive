@@ -1,3 +1,10 @@
+---
+topic_id: 14027
+title: "Deep Vein Segmentation And 3D Reconstruction"
+date: 2020-10-14
+url: https://discourse.slicer.org/t/14027
+---
+
 # Deep Vein Segmentation And 3D Reconstruction
 
 **Topic ID**: 14027

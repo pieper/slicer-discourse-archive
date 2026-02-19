@@ -1,3 +1,10 @@
+---
+topic_id: 13971
+title: "Segmenting Ge Voluson Ultrasound Image"
+date: 2020-10-09
+url: https://discourse.slicer.org/t/13971
+---
+
 # Segmenting GE Voluson ultrasound image
 
 **Topic ID**: 13971

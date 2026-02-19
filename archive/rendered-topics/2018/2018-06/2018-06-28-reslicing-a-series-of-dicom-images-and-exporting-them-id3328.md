@@ -1,3 +1,10 @@
+---
+topic_id: 3328
+title: "Reslicing A Series Of Dicom Images And Exporting Them"
+date: 2018-06-28
+url: https://discourse.slicer.org/t/3328
+---
+
 # Reslicing a series of DICOM images and exporting them
 
 **Topic ID**: 3328

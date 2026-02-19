@@ -1,3 +1,10 @@
+---
+topic_id: 5669
+title: "3D Slicer Source Build Failed In Visual Studio 2017 And 2013"
+date: 2019-02-07
+url: https://discourse.slicer.org/t/5669
+---
+
 # 3D Slicer source Build failed in Visual studio 2017 and 2013
 
 **Topic ID**: 5669

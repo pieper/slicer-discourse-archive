@@ -1,3 +1,10 @@
+---
+topic_id: 33163
+title: "How To Install Omero Py With Slicer Util Pip Install"
+date: 2023-12-01
+url: https://discourse.slicer.org/t/33163
+---
+
 # How to install omero-py with slicer.util.pip_install
 
 **Topic ID**: 33163

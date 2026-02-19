@@ -1,3 +1,10 @@
+---
+topic_id: 23676
+title: "Fibre Length Measurements"
+date: 2022-06-01
+url: https://discourse.slicer.org/t/23676
+---
+
 # Fibre length measurements
 
 **Topic ID**: 23676

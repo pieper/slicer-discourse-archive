@@ -1,3 +1,10 @@
+---
+topic_id: 31935
+title: "Improving Vmtk Centerline Detection"
+date: 2023-09-27
+url: https://discourse.slicer.org/t/31935
+---
+
 # Improving vmtk-centerline detection
 
 **Topic ID**: 31935

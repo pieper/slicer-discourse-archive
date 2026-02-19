@@ -1,3 +1,10 @@
+---
+topic_id: 738
+title: "Loading A Dicom And Changing It To Nrrd In The Background"
+date: 2017-07-21
+url: https://discourse.slicer.org/t/738
+---
+
 # Loading a DICOM and changing it to nrrd in the background
 
 **Topic ID**: 738

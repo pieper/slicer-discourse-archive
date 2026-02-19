@@ -1,3 +1,10 @@
+---
+topic_id: 42218
+title: "Module In Different Category In Slicer Than In Documentation"
+date: 2025-03-19
+url: https://discourse.slicer.org/t/42218
+---
+
 # Module in different category in Slicer than in documentation
 
 **Topic ID**: 42218

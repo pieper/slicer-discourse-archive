@@ -1,3 +1,10 @@
+---
+topic_id: 3970
+title: "Importing Jpeg Series"
+date: 2018-09-02
+url: https://discourse.slicer.org/t/3970
+---
+
 # Importing jpeg series
 
 **Topic ID**: 3970

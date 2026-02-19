@@ -1,3 +1,10 @@
+---
+topic_id: 28431
+title: "Draw On A 3D Surface"
+date: 2023-03-17
+url: https://discourse.slicer.org/t/28431
+---
+
 # Draw on a 3D Surface
 
 **Topic ID**: 28431

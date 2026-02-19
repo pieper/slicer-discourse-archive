@@ -1,3 +1,10 @@
+---
+topic_id: 40582
+title: "How To Work On Vmtk"
+date: 2024-12-09
+url: https://discourse.slicer.org/t/40582
+---
+
 # How to work on vmtk
 
 **Topic ID**: 40582

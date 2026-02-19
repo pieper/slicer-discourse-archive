@@ -1,3 +1,10 @@
+---
+topic_id: 28896
+title: "Logical Operators Intersect Function Causes Selected Segment"
+date: 2023-04-14
+url: https://discourse.slicer.org/t/28896
+---
+
 # Logical operators intersect function causes selected segment to disappear
 
 **Topic ID**: 28896

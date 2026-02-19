@@ -1,3 +1,10 @@
+---
+topic_id: 14708
+title: "Use Python To Run Toolbar Function"
+date: 2020-11-20
+url: https://discourse.slicer.org/t/14708
+---
+
 # Use python to run toolbar function
 
 **Topic ID**: 14708

@@ -1,3 +1,10 @@
+---
+topic_id: 22336
+title: "Stable Version Of Slicervr"
+date: 2022-03-06
+url: https://discourse.slicer.org/t/22336
+---
+
 # Stable version of SlicerVR
 
 **Topic ID**: 22336

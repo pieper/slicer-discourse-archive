@@ -1,3 +1,10 @@
+---
+topic_id: 33833
+title: "How To Split A Fractured Bone Into Different Parts For Surgi"
+date: 2024-01-17
+url: https://discourse.slicer.org/t/33833
+---
+
 # How to Split a fractured bone into different parts for surgical planning?
 
 **Topic ID**: 33833

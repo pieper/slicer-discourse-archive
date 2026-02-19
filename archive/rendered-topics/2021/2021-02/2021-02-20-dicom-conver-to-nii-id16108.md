@@ -1,3 +1,10 @@
+---
+topic_id: 16108
+title: "Dicom Conver To Nii"
+date: 2021-02-20
+url: https://discourse.slicer.org/t/16108
+---
+
 # Dicom conver to Nii
 
 **Topic ID**: 16108

@@ -1,3 +1,10 @@
+---
+topic_id: 24966
+title: "Special Issue Of Frontiers In Virtual Reality Journal Medica"
+date: 2022-08-28
+url: https://discourse.slicer.org/t/24966
+---
+
 # Special Issue of Frontiers in Virtual Reality journal - Medical Simulation and Visualization
 
 **Topic ID**: 24966

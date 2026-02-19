@@ -1,3 +1,10 @@
+---
+topic_id: 8372
+title: "Lab And Lecture Materials From First 3D Imaging And Morphome"
+date: 2019-09-10
+url: https://discourse.slicer.org/t/8372
+---
+
 # Lab and lecture materials from first 3D imaging and morphometrics workshops for SlicerMorph
 
 **Topic ID**: 8372

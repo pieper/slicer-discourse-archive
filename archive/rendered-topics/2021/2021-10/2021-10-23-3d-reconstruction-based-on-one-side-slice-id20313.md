@@ -1,3 +1,10 @@
+---
+topic_id: 20313
+title: "3D Reconstruction Based On One Side Slice"
+date: 2021-10-23
+url: https://discourse.slicer.org/t/20313
+---
+
 # 3D reconstruction based on ONE side slice!?
 
 **Topic ID**: 20313

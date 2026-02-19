@@ -1,3 +1,10 @@
+---
+topic_id: 28721
+title: "Alps Index Calculation Dti Sequence"
+date: 2023-04-03
+url: https://discourse.slicer.org/t/28721
+---
+
 # ALPS index calculation- DTI sequence
 
 **Topic ID**: 28721

@@ -1,3 +1,10 @@
+---
+topic_id: 21968
+title: "Teeth Ct And Segmentation"
+date: 2022-02-14
+url: https://discourse.slicer.org/t/21968
+---
+
 # Teeth CT and segmentation
 
 **Topic ID**: 21968

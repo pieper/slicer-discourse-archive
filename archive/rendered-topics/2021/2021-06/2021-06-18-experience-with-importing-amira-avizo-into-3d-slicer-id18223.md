@@ -1,3 +1,10 @@
+---
+topic_id: 18223
+title: "Experience With Importing Amira Avizo Into 3D Slicer"
+date: 2021-06-18
+url: https://discourse.slicer.org/t/18223
+---
+
 # Experience with importing amira/avizo into 3D Slicer
 
 **Topic ID**: 18223

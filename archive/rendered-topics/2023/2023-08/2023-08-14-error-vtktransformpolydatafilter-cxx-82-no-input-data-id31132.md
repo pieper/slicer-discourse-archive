@@ -1,3 +1,10 @@
+---
+topic_id: 31132
+title: "Error Vtktransformpolydatafilter Cxx 82 No Input Data"
+date: 2023-08-14
+url: https://discourse.slicer.org/t/31132
+---
+
 # Error: vtkTransformPolyDataFilter.cxx:82 - No input data
 
 **Topic ID**: 31132

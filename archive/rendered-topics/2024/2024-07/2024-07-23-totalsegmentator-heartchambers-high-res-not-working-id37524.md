@@ -1,3 +1,10 @@
+---
+topic_id: 37524
+title: "Totalsegmentator Heartchambers High Res Not Working"
+date: 2024-07-23
+url: https://discourse.slicer.org/t/37524
+---
+
 # TotalSegmentator heartchambers high res not working
 
 **Topic ID**: 37524

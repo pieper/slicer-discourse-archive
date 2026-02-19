@@ -1,3 +1,10 @@
+---
+topic_id: 27612
+title: "3D Slicer And Emblism"
+date: 2023-02-03
+url: https://discourse.slicer.org/t/27612
+---
+
 # 3d slicer and emblism
 
 **Topic ID**: 27612

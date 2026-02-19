@@ -1,3 +1,10 @@
+---
+topic_id: 21635
+title: "Add Center All Cameras To Control Point Right Click Menu"
+date: 2022-01-26
+url: https://discourse.slicer.org/t/21635
+---
+
 # Add "Center all cameras" to control point right-click menu?
 
 **Topic ID**: 21635

@@ -1,3 +1,10 @@
+---
+topic_id: 28329
+title: "How To Select A Qcombobox Programmatically In Simple Filters"
+date: 2023-03-12
+url: https://discourse.slicer.org/t/28329
+---
+
 # How to select a qComboBox programmatically in Simple Filters module
 
 **Topic ID**: 28329

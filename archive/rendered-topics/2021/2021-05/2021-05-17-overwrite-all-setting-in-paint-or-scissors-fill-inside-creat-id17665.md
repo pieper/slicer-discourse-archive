@@ -1,3 +1,10 @@
+---
+topic_id: 17665
+title: "Overwrite All Setting In Paint Or Scissors Fill Inside Creat"
+date: 2021-05-17
+url: https://discourse.slicer.org/t/17665
+---
+
 # "Overwrite all" setting in paint or scissors (fill inside) creates large gaps between segments that should be connected
 
 **Topic ID**: 17665

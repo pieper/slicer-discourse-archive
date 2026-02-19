@@ -1,3 +1,10 @@
+---
+topic_id: 28087
+title: "Extract Segment Labelmap As 2D Slices"
+date: 2023-02-28
+url: https://discourse.slicer.org/t/28087
+---
+
 # Extract segment labelmap as 2D slices
 
 **Topic ID**: 28087

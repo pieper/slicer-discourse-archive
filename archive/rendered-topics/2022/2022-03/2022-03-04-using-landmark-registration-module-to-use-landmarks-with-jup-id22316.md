@@ -1,3 +1,10 @@
+---
+topic_id: 22316
+title: "Using Landmark Registration Module To Use Landmarks With Jup"
+date: 2022-03-04
+url: https://discourse.slicer.org/t/22316
+---
+
 # Using landmark registration module to use landmarks with Jupyter
 
 **Topic ID**: 22316

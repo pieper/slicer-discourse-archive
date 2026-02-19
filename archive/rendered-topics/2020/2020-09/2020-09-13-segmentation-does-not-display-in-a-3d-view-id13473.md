@@ -1,3 +1,10 @@
+---
+topic_id: 13473
+title: "Segmentation Does Not Display In A 3D View"
+date: 2020-09-13
+url: https://discourse.slicer.org/t/13473
+---
+
 # Segmentation does not display in a 3D view
 
 **Topic ID**: 13473

@@ -1,3 +1,10 @@
+---
+topic_id: 37213
+title: "Non Orthogonal Reslice"
+date: 2024-07-05
+url: https://discourse.slicer.org/t/37213
+---
+
 # Non Orthogonal reslice
 
 **Topic ID**: 37213

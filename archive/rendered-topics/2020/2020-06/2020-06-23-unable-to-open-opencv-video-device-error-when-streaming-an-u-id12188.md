@@ -1,3 +1,10 @@
+---
+topic_id: 12188
+title: "Unable To Open Opencv Video Device Error When Streaming An U"
+date: 2020-06-23
+url: https://discourse.slicer.org/t/12188
+---
+
 # "Unable to open OpenCV video device" error when streaming an URL using PLUS Toolkit
 
 **Topic ID**: 12188

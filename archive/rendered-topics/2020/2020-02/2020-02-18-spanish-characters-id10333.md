@@ -1,3 +1,10 @@
+---
+topic_id: 10333
+title: "Spanish Characters"
+date: 2020-02-18
+url: https://discourse.slicer.org/t/10333
+---
+
 # Spanish Characters
 
 **Topic ID**: 10333

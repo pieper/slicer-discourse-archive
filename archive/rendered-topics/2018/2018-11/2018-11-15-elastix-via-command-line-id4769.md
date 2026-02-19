@@ -1,3 +1,10 @@
+---
+topic_id: 4769
+title: "Elastix Via Command Line"
+date: 2018-11-15
+url: https://discourse.slicer.org/t/4769
+---
+
 # Elastix via command line
 
 **Topic ID**: 4769

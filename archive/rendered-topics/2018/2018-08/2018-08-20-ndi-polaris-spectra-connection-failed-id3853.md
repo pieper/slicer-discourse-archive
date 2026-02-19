@@ -1,3 +1,10 @@
+---
+topic_id: 3853
+title: "Ndi Polaris Spectra Connection Failed"
+date: 2018-08-20
+url: https://discourse.slicer.org/t/3853
+---
+
 # NDI Polaris Spectra connection failed
 
 **Topic ID**: 3853

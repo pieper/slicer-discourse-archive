@@ -1,3 +1,10 @@
+---
+topic_id: 45117
+title: "How To Measure Skeletal Muscle Index In The Application"
+date: 2025-11-17
+url: https://discourse.slicer.org/t/45117
+---
+
 # how to measure skeletal muscle index in the application
 
 **Topic ID**: 45117

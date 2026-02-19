@@ -1,3 +1,10 @@
+---
+topic_id: 1609
+title: "Quantification Of A Straight Line In The Editor Tool"
+date: 2017-12-07
+url: https://discourse.slicer.org/t/1609
+---
+
 # Quantification of a straight line in the editor tool?
 
 **Topic ID**: 1609

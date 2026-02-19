@@ -1,3 +1,10 @@
+---
+topic_id: 8718
+title: "Vtklookuptable Bad Table Range 0 1"
+date: 2019-10-09
+url: https://discourse.slicer.org/t/8718
+---
+
 # vtkLookUpTable. Bad table range: [0, -1]
 
 **Topic ID**: 8718

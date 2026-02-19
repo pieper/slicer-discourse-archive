@@ -1,3 +1,10 @@
+---
+topic_id: 17597
+title: "Slicer Is Not Starting After Installing Itk Vtkglue On Last"
+date: 2021-05-12
+url: https://discourse.slicer.org/t/17597
+---
+
 # Slicer is not starting after installing itk-vtkglue on Last Stable Release
 
 **Topic ID**: 17597

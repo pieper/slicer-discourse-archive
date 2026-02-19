@@ -1,3 +1,10 @@
+---
+topic_id: 45967
+title: "Slice Resample And Export Along An Oblique Plane"
+date: 2026-01-28
+url: https://discourse.slicer.org/t/45967
+---
+
 # Slice, resample and export along an oblique plane
 
 **Topic ID**: 45967

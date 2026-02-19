@@ -1,3 +1,10 @@
+---
+topic_id: 4584
+title: "3D Slicer 4 10 0 Gui Can Not Display Correctly"
+date: 2018-10-30
+url: https://discourse.slicer.org/t/4584
+---
+
 # 3d slicer 4.10.0 GUI can not display correctly
 
 **Topic ID**: 4584

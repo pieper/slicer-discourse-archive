@@ -1,3 +1,10 @@
+---
+topic_id: 21324
+title: "Developer Tools For Extensions Is Failing For Preview"
+date: 2022-01-04
+url: https://discourse.slicer.org/t/21324
+---
+
 # Developer tools for extensions is failing for preview
 
 **Topic ID**: 21324

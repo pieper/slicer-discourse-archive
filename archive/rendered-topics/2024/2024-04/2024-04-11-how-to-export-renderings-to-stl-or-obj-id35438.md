@@ -1,3 +1,10 @@
+---
+topic_id: 35438
+title: "How To Export Renderings To Stl Or Obj"
+date: 2024-04-11
+url: https://discourse.slicer.org/t/35438
+---
+
 # How to export renderings to .stl or .obj
 
 **Topic ID**: 35438

@@ -1,3 +1,10 @@
+---
+topic_id: 5627
+title: "Building Slicer On A Freshly Installed Ubuntu 18 04"
+date: 2019-02-03
+url: https://discourse.slicer.org/t/5627
+---
+
 # Building Slicer on a freshly installed Ubuntu 18.04
 
 **Topic ID**: 5627

@@ -1,3 +1,10 @@
+---
+topic_id: 3189
+title: "Segmentation Is Clipped When Exporting To Rtstruct"
+date: 2018-06-14
+url: https://discourse.slicer.org/t/3189
+---
+
 # Segmentation is clipped when exporting to RTstruct
 
 **Topic ID**: 3189

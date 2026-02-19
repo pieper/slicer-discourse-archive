@@ -1,3 +1,10 @@
+---
+topic_id: 28921
+title: "One Of The Studies As Background How To Do It"
+date: 2023-04-14
+url: https://discourse.slicer.org/t/28921
+---
+
 # One of the studies as background? How to do it?
 
 **Topic ID**: 28921

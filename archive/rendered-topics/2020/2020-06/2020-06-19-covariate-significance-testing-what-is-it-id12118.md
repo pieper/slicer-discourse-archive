@@ -1,3 +1,10 @@
+---
+topic_id: 12118
+title: "Covariate Significance Testing What Is It"
+date: 2020-06-19
+url: https://discourse.slicer.org/t/12118
+---
+
 # Covariate significance testing - What is it?
 
 **Topic ID**: 12118

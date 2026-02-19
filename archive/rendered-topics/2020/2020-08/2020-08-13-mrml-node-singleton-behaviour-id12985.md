@@ -1,3 +1,10 @@
+---
+topic_id: 12985
+title: "Mrml Node Singleton Behaviour"
+date: 2020-08-13
+url: https://discourse.slicer.org/t/12985
+---
+
 # MRML Node Singleton Behaviour
 
 **Topic ID**: 12985

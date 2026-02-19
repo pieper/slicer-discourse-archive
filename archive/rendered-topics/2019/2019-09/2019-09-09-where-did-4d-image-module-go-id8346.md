@@ -1,3 +1,10 @@
+---
+topic_id: 8346
+title: "Where Did 4D Image Module Go"
+date: 2019-09-09
+url: https://discourse.slicer.org/t/8346
+---
+
 # Where did 4D image module go?
 
 **Topic ID**: 8346

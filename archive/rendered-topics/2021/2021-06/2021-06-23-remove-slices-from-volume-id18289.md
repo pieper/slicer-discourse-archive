@@ -1,3 +1,10 @@
+---
+topic_id: 18289
+title: "Remove Slices From Volume"
+date: 2021-06-23
+url: https://discourse.slicer.org/t/18289
+---
+
 # Remove slices from volume
 
 **Topic ID**: 18289

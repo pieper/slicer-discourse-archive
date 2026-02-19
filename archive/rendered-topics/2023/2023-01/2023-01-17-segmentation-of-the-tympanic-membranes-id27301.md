@@ -1,3 +1,10 @@
+---
+topic_id: 27301
+title: "Segmentation Of The Tympanic Membranes"
+date: 2023-01-17
+url: https://discourse.slicer.org/t/27301
+---
+
 # Segmentation of the tympanic membranes
 
 **Topic ID**: 27301

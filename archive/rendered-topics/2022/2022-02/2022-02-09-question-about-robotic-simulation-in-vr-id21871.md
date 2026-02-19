@@ -1,3 +1,10 @@
+---
+topic_id: 21871
+title: "Question About Robotic Simulation In Vr"
+date: 2022-02-09
+url: https://discourse.slicer.org/t/21871
+---
+
 # Question about robotic simulation in VR
 
 **Topic ID**: 21871

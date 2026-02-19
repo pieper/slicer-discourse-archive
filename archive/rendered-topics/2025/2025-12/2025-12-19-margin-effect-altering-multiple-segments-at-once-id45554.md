@@ -1,3 +1,10 @@
+---
+topic_id: 45554
+title: "Margin Effect Altering Multiple Segments At Once"
+date: 2025-12-19
+url: https://discourse.slicer.org/t/45554
+---
+
 # Margin effect altering multiple segments at once
 
 **Topic ID**: 45554

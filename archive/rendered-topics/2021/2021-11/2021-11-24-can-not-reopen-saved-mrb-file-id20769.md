@@ -1,3 +1,10 @@
+---
+topic_id: 20769
+title: "Can Not Reopen Saved Mrb File"
+date: 2021-11-24
+url: https://discourse.slicer.org/t/20769
+---
+
 # Can not reopen saved mrb file
 
 **Topic ID**: 20769

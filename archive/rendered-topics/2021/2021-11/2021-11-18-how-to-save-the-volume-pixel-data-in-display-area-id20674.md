@@ -1,3 +1,10 @@
+---
+topic_id: 20674
+title: "How To Save The Volume Pixel Data In Display Area"
+date: 2021-11-18
+url: https://discourse.slicer.org/t/20674
+---
+
 # How to save the volume pixel data in display area?
 
 **Topic ID**: 20674

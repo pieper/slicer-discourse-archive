@@ -1,3 +1,10 @@
+---
+topic_id: 12298
+title: "Python Api Documentation"
+date: 2020-06-30
+url: https://discourse.slicer.org/t/12298
+---
+
 # Python API documentation?
 
 **Topic ID**: 12298

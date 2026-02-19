@@ -1,3 +1,10 @@
+---
+topic_id: 37455
+title: "3D Slicer Nighttime Queueing"
+date: 2024-07-18
+url: https://discourse.slicer.org/t/37455
+---
+
 # 3D Slicer Nighttime Queueing
 
 **Topic ID**: 37455

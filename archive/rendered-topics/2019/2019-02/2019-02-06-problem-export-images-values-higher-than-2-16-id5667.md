@@ -1,3 +1,10 @@
+---
+topic_id: 5667
+title: "Problem Export Images Values Higher Than 2 16"
+date: 2019-02-06
+url: https://discourse.slicer.org/t/5667
+---
+
 # Problem export images, values higher than 2^16
 
 **Topic ID**: 5667

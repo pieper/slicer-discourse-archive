@@ -1,3 +1,10 @@
+---
+topic_id: 30823
+title: "Import Vdb File Into 3D Slicer"
+date: 2023-07-27
+url: https://discourse.slicer.org/t/30823
+---
+
 # Import VDB File into 3D Slicer
 
 **Topic ID**: 30823

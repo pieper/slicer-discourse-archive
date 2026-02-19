@@ -1,3 +1,10 @@
+---
+topic_id: 5659
+title: "Display And Export Dicom Image"
+date: 2019-02-06
+url: https://discourse.slicer.org/t/5659
+---
+
 # Display and export DICOM image.
 
 **Topic ID**: 5659

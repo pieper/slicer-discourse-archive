@@ -1,3 +1,10 @@
+---
+topic_id: 26292
+title: "Display Two Sagittal Views"
+date: 2022-11-17
+url: https://discourse.slicer.org/t/26292
+---
+
 # Display two sagittal views
 
 **Topic ID**: 26292

@@ -1,3 +1,10 @@
+---
+topic_id: 8336
+title: "Segment And Volume Rendering Views Get Misaligned Upon Re Cr"
+date: 2019-09-08
+url: https://discourse.slicer.org/t/8336
+---
+
 # Segment and Volume Rendering views get misaligned upon re-Crop input volume
 
 **Topic ID**: 8336

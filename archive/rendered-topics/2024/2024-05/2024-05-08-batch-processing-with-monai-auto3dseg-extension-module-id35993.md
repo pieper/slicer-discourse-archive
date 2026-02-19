@@ -1,3 +1,10 @@
+---
+topic_id: 35993
+title: "Batch Processing With Monai Auto3Dseg Extension Module"
+date: 2024-05-08
+url: https://discourse.slicer.org/t/35993
+---
+
 # Batch processing with MONAI Auto3DSeg extension module
 
 **Topic ID**: 35993

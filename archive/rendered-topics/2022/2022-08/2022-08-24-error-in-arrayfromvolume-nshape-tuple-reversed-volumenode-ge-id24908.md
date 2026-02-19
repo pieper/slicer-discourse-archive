@@ -1,3 +1,10 @@
+---
+topic_id: 24908
+title: "Error In Arrayfromvolume Nshape Tuple Reversed Volumenode Ge"
+date: 2022-08-24
+url: https://discourse.slicer.org/t/24908
+---
+
 # Error: in arrayFromVolume nshape = tuple(reversed(volumeNode.GetImageData().GetDimensions())) AttributeError: 'NoneType' object has no attribute 'GetDimensions'
 
 **Topic ID**: 24908

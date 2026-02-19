@@ -1,3 +1,10 @@
+---
+topic_id: 16798
+title: "Cant Upload Files When Selecting The Option Uncheck Single F"
+date: 2021-03-28
+url: https://discourse.slicer.org/t/16798
+---
+
 # Can't upload files when selecting the “Option” -> Uncheck “Single File”
 
 **Topic ID**: 16798

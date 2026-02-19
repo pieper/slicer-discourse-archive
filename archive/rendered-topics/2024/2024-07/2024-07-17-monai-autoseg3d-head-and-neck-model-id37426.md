@@ -1,3 +1,10 @@
+---
+topic_id: 37426
+title: "Monai Autoseg3D Head And Neck Model"
+date: 2024-07-17
+url: https://discourse.slicer.org/t/37426
+---
+
 # MONAI AutoSeg3D head and neck Model 
 
 **Topic ID**: 37426

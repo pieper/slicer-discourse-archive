@@ -1,3 +1,10 @@
+---
+topic_id: 4569
+title: "Problem With Dvh Calculation"
+date: 2018-10-29
+url: https://discourse.slicer.org/t/4569
+---
+
 # Problem With DVH Calculation
 
 **Topic ID**: 4569

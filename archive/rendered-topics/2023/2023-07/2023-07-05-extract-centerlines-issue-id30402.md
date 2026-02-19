@@ -1,3 +1,10 @@
+---
+topic_id: 30402
+title: "Extract Centerlines Issue"
+date: 2023-07-05
+url: https://discourse.slicer.org/t/30402
+---
+
 # Extract Centerlines Issue
 
 **Topic ID**: 30402

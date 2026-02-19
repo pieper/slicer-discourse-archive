@@ -1,3 +1,10 @@
+---
+topic_id: 3467
+title: "Pial Surface Visualization"
+date: 2018-07-12
+url: https://discourse.slicer.org/t/3467
+---
+
 # Pial surface visualization
 
 **Topic ID**: 3467

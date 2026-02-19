@@ -1,3 +1,10 @@
+---
+topic_id: 29884
+title: "Customslicer Build Error Libarchive"
+date: 2023-06-07
+url: https://discourse.slicer.org/t/29884
+---
+
 # CustomSlicer build error ( LibArchive )
 
 **Topic ID**: 29884

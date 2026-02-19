@@ -1,3 +1,10 @@
+---
+topic_id: 44152
+title: "Can Qslicersimplemarkupsnodes Edit Markupslinenodes"
+date: 2025-08-20
+url: https://discourse.slicer.org/t/44152
+---
+
 # Can qSlicerSimpleMarkupsNodes edit MarkupsLineNodes?
 
 **Topic ID**: 44152

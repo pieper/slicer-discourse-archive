@@ -1,3 +1,10 @@
+---
+topic_id: 36695
+title: "Modulenotfounderror No Module Named Vmtk While Running Vmtki"
+date: 2024-06-11
+url: https://discourse.slicer.org/t/36695
+---
+
 # ModuleNotFoundError: No module named 'vmtk' while running ./vmtkimagereader in Ubuntu
 
 **Topic ID**: 36695

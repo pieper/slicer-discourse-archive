@@ -1,3 +1,10 @@
+---
+topic_id: 16204
+title: "Change Handle Property Of Markups Node Like Implant"
+date: 2021-02-25
+url: https://discourse.slicer.org/t/16204
+---
+
 # Change handle property of markups node like implant
 
 **Topic ID**: 16204

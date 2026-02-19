@@ -1,3 +1,10 @@
+---
+topic_id: 34416
+title: "Colliding Fronts Output Near A Side Branch"
+date: 2024-02-20
+url: https://discourse.slicer.org/t/34416
+---
+
 # Colliding fronts output near a side branch
 
 **Topic ID**: 34416

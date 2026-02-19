@@ -1,3 +1,10 @@
+---
+topic_id: 7967
+title: "How To Add Modify An Icon Of A Module Scriptedloadablemodule"
+date: 2019-08-09
+url: https://discourse.slicer.org/t/7967
+---
+
 # How to add/modify an icon of a module (ScriptedLoadableModule)?
 
 **Topic ID**: 7967

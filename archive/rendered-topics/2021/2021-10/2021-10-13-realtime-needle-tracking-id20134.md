@@ -1,3 +1,10 @@
+---
+topic_id: 20134
+title: "Realtime Needle Tracking"
+date: 2021-10-13
+url: https://discourse.slicer.org/t/20134
+---
+
 # Realtime needle tracking
 
 **Topic ID**: 20134

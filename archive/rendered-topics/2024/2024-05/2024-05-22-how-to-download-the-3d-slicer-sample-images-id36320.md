@@ -1,3 +1,10 @@
+---
+topic_id: 36320
+title: "How To Download The 3D Slicer Sample Images"
+date: 2024-05-22
+url: https://discourse.slicer.org/t/36320
+---
+
 # How to download the 3D Slicer Sample Images?
 
 **Topic ID**: 36320

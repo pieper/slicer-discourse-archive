@@ -1,3 +1,10 @@
+---
+topic_id: 37859
+title: "Can You Change The Size Of The Segmentation"
+date: 2024-08-13
+url: https://discourse.slicer.org/t/37859
+---
+
 # Can you change the size of the segmentation?
 
 **Topic ID**: 37859

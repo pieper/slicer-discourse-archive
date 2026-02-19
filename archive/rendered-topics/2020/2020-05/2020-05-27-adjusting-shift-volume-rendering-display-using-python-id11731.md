@@ -1,3 +1,10 @@
+---
+topic_id: 11731
+title: "Adjusting Shift Volume Rendering Display Using Python"
+date: 2020-05-27
+url: https://discourse.slicer.org/t/11731
+---
+
 # Adjusting "Shift" Volume Rendering Display using Python
 
 **Topic ID**: 11731

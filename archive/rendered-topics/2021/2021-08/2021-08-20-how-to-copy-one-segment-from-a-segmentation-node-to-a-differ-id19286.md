@@ -1,3 +1,10 @@
+---
+topic_id: 19286
+title: "How To Copy One Segment From A Segmentation Node To A Differ"
+date: 2021-08-20
+url: https://discourse.slicer.org/t/19286
+---
+
 # How to copy one segment from a segmentation node to a different segmentation with code?
 
 **Topic ID**: 19286

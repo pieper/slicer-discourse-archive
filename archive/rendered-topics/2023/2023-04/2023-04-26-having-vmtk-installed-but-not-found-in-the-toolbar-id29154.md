@@ -1,3 +1,10 @@
+---
+topic_id: 29154
+title: "Having Vmtk Installed But Not Found In The Toolbar"
+date: 2023-04-26
+url: https://discourse.slicer.org/t/29154
+---
+
 # having vmtk installed but not found in the toolbar
 
 **Topic ID**: 29154

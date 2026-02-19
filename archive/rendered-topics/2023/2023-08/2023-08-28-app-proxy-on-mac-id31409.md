@@ -1,3 +1,10 @@
+---
+topic_id: 31409
+title: "App Proxy On Mac"
+date: 2023-08-28
+url: https://discourse.slicer.org/t/31409
+---
+
 # App Proxy on Mac
 
 **Topic ID**: 31409

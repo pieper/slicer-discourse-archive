@@ -1,3 +1,10 @@
+---
+topic_id: 11026
+title: "Increased Loading Time For Multiple Segments From Numpy Arra"
+date: 2020-04-07
+url: https://discourse.slicer.org/t/11026
+---
+
 # Increased loading time for multiple segments from numpy array
 
 **Topic ID**: 11026

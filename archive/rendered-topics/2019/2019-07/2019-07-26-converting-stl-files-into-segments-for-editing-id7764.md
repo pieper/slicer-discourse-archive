@@ -1,3 +1,10 @@
+---
+topic_id: 7764
+title: "Converting Stl Files Into Segments For Editing"
+date: 2019-07-26
+url: https://discourse.slicer.org/t/7764
+---
+
 # Converting .stl files into segments for editing
 
 **Topic ID**: 7764

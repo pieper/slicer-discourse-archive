@@ -1,3 +1,10 @@
+---
+topic_id: 24565
+title: "Resize An Image By Averaging"
+date: 2022-07-29
+url: https://discourse.slicer.org/t/24565
+---
+
 # Resize an image by averaging?
 
 **Topic ID**: 24565

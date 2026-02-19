@@ -1,3 +1,10 @@
+---
+topic_id: 17449
+title: "How To Programmatically Add Create New Segmentation As Butto"
+date: 2021-05-04
+url: https://discourse.slicer.org/t/17449
+---
+
 # How to programmatically add create new segmentation as button?
 
 **Topic ID**: 17449

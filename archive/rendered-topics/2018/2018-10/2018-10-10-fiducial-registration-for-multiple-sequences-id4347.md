@@ -1,3 +1,10 @@
+---
+topic_id: 4347
+title: "Fiducial Registration For Multiple Sequences"
+date: 2018-10-10
+url: https://discourse.slicer.org/t/4347
+---
+
 # Fiducial registration for multiple sequences
 
 **Topic ID**: 4347

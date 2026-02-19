@@ -1,3 +1,10 @@
+---
+topic_id: 18077
+title: "Zoom In And Out Button From The Standard Toolbar"
+date: 2021-06-11
+url: https://discourse.slicer.org/t/18077
+---
+
 # Zoom in and out button from the standard toolbar
 
 **Topic ID**: 18077

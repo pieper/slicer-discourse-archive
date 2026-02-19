@@ -1,3 +1,10 @@
+---
+topic_id: 31154
+title: "Vtk Wheels For Python 3 6 And 3 7 Will Not Available With Ne"
+date: 2023-08-15
+url: https://discourse.slicer.org/t/31154
+---
+
 # VTK wheels for Python 3.6 and 3.7 will not available with next VTK release, support for 3.12 is being added
 
 **Topic ID**: 31154

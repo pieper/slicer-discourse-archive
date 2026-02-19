@@ -1,3 +1,10 @@
+---
+topic_id: 31646
+title: "How Can I Access The Source Code For Expanding Margin Method"
+date: 2023-09-11
+url: https://discourse.slicer.org/t/31646
+---
+
 # How can I access the source code for expanding margin method?
 
 **Topic ID**: 31646

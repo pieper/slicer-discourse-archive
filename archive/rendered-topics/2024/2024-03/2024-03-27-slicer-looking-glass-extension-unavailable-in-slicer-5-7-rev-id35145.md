@@ -1,3 +1,10 @@
+---
+topic_id: 35145
+title: "Slicer Looking Glass Extension Unavailable In Slicer 5 7 Rev"
+date: 2024-03-27
+url: https://discourse.slicer.org/t/35145
+---
+
 # Slicer Looking Glass extension unavailable in Slicer 5.7 revision 32785
 
 **Topic ID**: 35145

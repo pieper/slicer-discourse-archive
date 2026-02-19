@@ -1,3 +1,10 @@
+---
+topic_id: 36832
+title: "Midpoint And Perpendicular Line"
+date: 2024-06-17
+url: https://discourse.slicer.org/t/36832
+---
+
 # Midpoint and perpendicular line
 
 **Topic ID**: 36832

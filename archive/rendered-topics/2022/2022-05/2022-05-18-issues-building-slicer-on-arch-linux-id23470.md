@@ -1,3 +1,10 @@
+---
+topic_id: 23470
+title: "Issues Building Slicer On Arch Linux"
+date: 2022-05-18
+url: https://discourse.slicer.org/t/23470
+---
+
 # Issues building Slicer on Arch Linux
 
 **Topic ID**: 23470

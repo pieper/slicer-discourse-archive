@@ -1,3 +1,10 @@
+---
+topic_id: 44332
+title: "Tumor Segmentation Spine"
+date: 2025-09-03
+url: https://discourse.slicer.org/t/44332
+---
+
 # Tumor segmentation-spine
 
 **Topic ID**: 44332

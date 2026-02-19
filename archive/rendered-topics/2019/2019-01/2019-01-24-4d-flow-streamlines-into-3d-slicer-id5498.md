@@ -1,3 +1,10 @@
+---
+topic_id: 5498
+title: "4D Flow Streamlines Into 3D Slicer"
+date: 2019-01-24
+url: https://discourse.slicer.org/t/5498
+---
+
 # 4D Flow Streamlines into 3D slicer
 
 **Topic ID**: 5498

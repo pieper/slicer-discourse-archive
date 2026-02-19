@@ -1,3 +1,10 @@
+---
+topic_id: 40804
+title: "Automatically Generated Reformat Planes In 3D Slicer"
+date: 2024-12-19
+url: https://discourse.slicer.org/t/40804
+---
+
 # Automatically Generated Reformat Planes in 3D Slicer
 
 **Topic ID**: 40804

@@ -1,3 +1,10 @@
+---
+topic_id: 7565
+title: "Move Or Deplace A Segment"
+date: 2019-07-14
+url: https://discourse.slicer.org/t/7565
+---
+
 # Move or deplace a segment
 
 **Topic ID**: 7565

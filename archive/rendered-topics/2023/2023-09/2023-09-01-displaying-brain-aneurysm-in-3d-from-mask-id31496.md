@@ -1,3 +1,10 @@
+---
+topic_id: 31496
+title: "Displaying Brain Aneurysm In 3D From Mask"
+date: 2023-09-01
+url: https://discourse.slicer.org/t/31496
+---
+
 # Displaying Brain Aneurysm in 3D from Mask
 
 **Topic ID**: 31496

@@ -1,3 +1,10 @@
+---
+topic_id: 4280
+title: "Marching Cubes Poly Result Is Scaled"
+date: 2018-10-04
+url: https://discourse.slicer.org/t/4280
+---
+
 # Marching cubes poly result is scaled
 
 **Topic ID**: 4280

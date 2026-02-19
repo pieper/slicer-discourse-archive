@@ -1,3 +1,10 @@
+---
+topic_id: 8582
+title: "Portable Installation Of Slicer With Extension On Usb"
+date: 2019-09-26
+url: https://discourse.slicer.org/t/8582
+---
+
 # Portable installation of Slicer with extension on USB
 
 **Topic ID**: 8582

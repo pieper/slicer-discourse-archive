@@ -1,3 +1,10 @@
+---
+topic_id: 6013
+title: "Slicer Does Not Start On Fedora 29 Due To Missing Libnsl"
+date: 2019-03-04
+url: https://discourse.slicer.org/t/6013
+---
+
 # Slicer does not start on Fedora 29 due to missing libnsl
 
 **Topic ID**: 6013

@@ -1,3 +1,10 @@
+---
+topic_id: 45639
+title: "Is It Possible To Update Closed Surface Of A Segment Instead"
+date: 2025-12-30
+url: https://discourse.slicer.org/t/45639
+---
+
 # Is it possible to update closed surface of a segment instead of removing closed surface when underlying vtkImageData is modified?
 
 **Topic ID**: 45639

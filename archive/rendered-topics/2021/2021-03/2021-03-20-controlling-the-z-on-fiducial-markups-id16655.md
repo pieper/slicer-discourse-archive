@@ -1,3 +1,10 @@
+---
+topic_id: 16655
+title: "Controlling The Z On Fiducial Markups"
+date: 2021-03-20
+url: https://discourse.slicer.org/t/16655
+---
+
 # Controlling the z on fiducial markups
 
 **Topic ID**: 16655

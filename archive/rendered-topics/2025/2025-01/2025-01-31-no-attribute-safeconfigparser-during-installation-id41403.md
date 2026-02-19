@@ -1,3 +1,10 @@
+---
+topic_id: 41403
+title: "No Attribute Safeconfigparser During Installation"
+date: 2025-01-31
+url: https://discourse.slicer.org/t/41403
+---
+
 #  "no attribute 'SafeConfigParser'" during installation.
 
 **Topic ID**: 41403

@@ -1,3 +1,10 @@
+---
+topic_id: 41358
+title: "Cant See My Segment Colors On The 2D Ct Scan Images"
+date: 2025-01-29
+url: https://discourse.slicer.org/t/41358
+---
+
 # Can't see my segment colors on the 2D CT scan images
 
 **Topic ID**: 41358

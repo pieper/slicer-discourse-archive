@@ -1,3 +1,10 @@
+---
+topic_id: 37082
+title: "3D Reconstructed Object Proportions And Element Spacing"
+date: 2024-06-28
+url: https://discourse.slicer.org/t/37082
+---
+
 # 3D Reconstructed Object Proportions and Element Spacing
 
 **Topic ID**: 37082

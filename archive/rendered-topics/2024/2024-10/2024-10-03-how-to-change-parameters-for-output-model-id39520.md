@@ -1,3 +1,10 @@
+---
+topic_id: 39520
+title: "How To Change Parameters For Output Model"
+date: 2024-10-03
+url: https://discourse.slicer.org/t/39520
+---
+
 # How to change parameters for output model?
 
 **Topic ID**: 39520

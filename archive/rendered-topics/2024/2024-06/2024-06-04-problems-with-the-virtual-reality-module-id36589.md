@@ -1,3 +1,10 @@
+---
+topic_id: 36589
+title: "Problems With The Virtual Reality Module"
+date: 2024-06-04
+url: https://discourse.slicer.org/t/36589
+---
+
 # Problems with the Virtual Reality Module
 
 **Topic ID**: 36589

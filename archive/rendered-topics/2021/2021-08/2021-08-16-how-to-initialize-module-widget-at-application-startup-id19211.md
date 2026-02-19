@@ -1,3 +1,10 @@
+---
+topic_id: 19211
+title: "How To Initialize Module Widget At Application Startup"
+date: 2021-08-16
+url: https://discourse.slicer.org/t/19211
+---
+
 # How to initialize module widget at application startup
 
 **Topic ID**: 19211

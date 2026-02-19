@@ -1,3 +1,10 @@
+---
+topic_id: 17708
+title: "Error Importing Endoscopy Image Snapshots"
+date: 2021-05-20
+url: https://discourse.slicer.org/t/17708
+---
+
 # Error importing endoscopy image snapshots
 
 **Topic ID**: 17708

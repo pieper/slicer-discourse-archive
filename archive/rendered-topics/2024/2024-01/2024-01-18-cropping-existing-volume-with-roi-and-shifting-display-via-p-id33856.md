@@ -1,3 +1,10 @@
+---
+topic_id: 33856
+title: "Cropping Existing Volume With Roi And Shifting Display Via P"
+date: 2024-01-18
+url: https://discourse.slicer.org/t/33856
+---
+
 # Cropping existing volume with ROI and shifting display via Python scripting
 
 **Topic ID**: 33856

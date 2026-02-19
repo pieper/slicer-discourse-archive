@@ -1,3 +1,10 @@
+---
+topic_id: 46042
+title: "How Can I Call 3D Slicer Fully Externally And Automate A Wor"
+date: 2026-02-03
+url: https://discourse.slicer.org/t/46042
+---
+
 # How can I call 3D Slicer fully externally and automate a workflow? 
 
 **Topic ID**: 46042

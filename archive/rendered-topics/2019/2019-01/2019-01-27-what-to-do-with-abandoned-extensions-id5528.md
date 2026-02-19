@@ -1,3 +1,10 @@
+---
+topic_id: 5528
+title: "What To Do With Abandoned Extensions"
+date: 2019-01-27
+url: https://discourse.slicer.org/t/5528
+---
+
 # What to do with abandoned extensions?
 
 **Topic ID**: 5528

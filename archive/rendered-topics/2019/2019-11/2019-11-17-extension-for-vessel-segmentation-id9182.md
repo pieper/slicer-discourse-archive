@@ -1,3 +1,10 @@
+---
+topic_id: 9182
+title: "Extension For Vessel Segmentation"
+date: 2019-11-17
+url: https://discourse.slicer.org/t/9182
+---
+
 # Extension for Vessel Segmentation
 
 **Topic ID**: 9182

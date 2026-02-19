@@ -1,3 +1,10 @@
+---
+topic_id: 18616
+title: "Loss Of Contours After Applying Rotation"
+date: 2021-07-10
+url: https://discourse.slicer.org/t/18616
+---
+
 # Loss of contours after Applying Rotation
 
 **Topic ID**: 18616

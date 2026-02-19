@@ -1,3 +1,10 @@
+---
+topic_id: 16118
+title: "Drag And Drop Feature For Adding Modules To Favourites Isnt"
+date: 2021-02-21
+url: https://discourse.slicer.org/t/16118
+---
+
 # 'Drag and Drop' feature for adding modules to 'favourites' isn't working
 
 **Topic ID**: 16118

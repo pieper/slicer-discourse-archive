@@ -1,3 +1,10 @@
+---
+topic_id: 18228
+title: "Brains Registration Error"
+date: 2021-06-20
+url: https://discourse.slicer.org/t/18228
+---
+
 # Brains registration error
 
 **Topic ID**: 18228

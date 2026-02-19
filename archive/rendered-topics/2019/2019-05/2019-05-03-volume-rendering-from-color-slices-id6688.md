@@ -1,3 +1,10 @@
+---
+topic_id: 6688
+title: "Volume Rendering From Color Slices"
+date: 2019-05-03
+url: https://discourse.slicer.org/t/6688
+---
+
 # Volume rendering from color slices
 
 **Topic ID**: 6688

@@ -1,3 +1,10 @@
+---
+topic_id: 45933
+title: "Apakah Gopay Punya Wa"
+date: 2026-01-26
+url: https://discourse.slicer.org/t/45933
+---
+
 # Apakah gopay punya wa
 
 **Topic ID**: 45933

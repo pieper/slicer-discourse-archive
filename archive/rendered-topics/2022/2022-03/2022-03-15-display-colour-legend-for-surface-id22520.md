@@ -1,3 +1,10 @@
+---
+topic_id: 22520
+title: "Display Colour Legend For Surface"
+date: 2022-03-15
+url: https://discourse.slicer.org/t/22520
+---
+
 # Display Colour Legend for Surface
 
 **Topic ID**: 22520

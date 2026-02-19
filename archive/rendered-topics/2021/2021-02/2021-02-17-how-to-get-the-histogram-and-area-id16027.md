@@ -1,3 +1,10 @@
+---
+topic_id: 16027
+title: "How To Get The Histogram And Area"
+date: 2021-02-17
+url: https://discourse.slicer.org/t/16027
+---
+
 # How to get the histogram and area
 
 **Topic ID**: 16027

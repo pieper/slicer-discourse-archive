@@ -1,3 +1,10 @@
+---
+topic_id: 24250
+title: "Feedback About Other Algorithm Improving The Efficiency Of S"
+date: 2022-07-09
+url: https://discourse.slicer.org/t/24250
+---
+
 # Feedback about other algorithm improving the efficiency of Slicer
 
 **Topic ID**: 24250

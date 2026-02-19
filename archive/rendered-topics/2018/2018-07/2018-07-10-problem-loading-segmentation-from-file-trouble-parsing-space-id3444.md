@@ -1,3 +1,10 @@
+---
+topic_id: 3444
+title: "Problem Loading Segmentation From File Trouble Parsing Space"
+date: 2018-07-10
+url: https://discourse.slicer.org/t/3444
+---
+
 # Problem loading segmentation from file (trouble parsing space directions info)
 
 **Topic ID**: 3444

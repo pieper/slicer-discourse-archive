@@ -1,3 +1,10 @@
+---
+topic_id: 33700
+title: "Fiducial Based Bspline"
+date: 2024-01-09
+url: https://discourse.slicer.org/t/33700
+---
+
 # Fiducial based bspline
 
 **Topic ID**: 33700

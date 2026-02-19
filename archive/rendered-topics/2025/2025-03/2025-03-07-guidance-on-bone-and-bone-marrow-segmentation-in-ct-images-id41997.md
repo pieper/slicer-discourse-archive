@@ -1,3 +1,10 @@
+---
+topic_id: 41997
+title: "Guidance On Bone And Bone Marrow Segmentation In Ct Images"
+date: 2025-03-07
+url: https://discourse.slicer.org/t/41997
+---
+
 # Guidance on Bone and Bone Marrow Segmentation in CT Images
 
 **Topic ID**: 41997

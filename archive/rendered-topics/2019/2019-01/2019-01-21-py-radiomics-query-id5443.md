@@ -1,3 +1,10 @@
+---
+topic_id: 5443
+title: "Py Radiomics Query"
+date: 2019-01-21
+url: https://discourse.slicer.org/t/5443
+---
+
 # Py RADIOMICS query
 
 **Topic ID**: 5443

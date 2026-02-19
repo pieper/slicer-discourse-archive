@@ -1,3 +1,10 @@
+---
+topic_id: 27178
+title: "Reading Masks Made By A Different Software"
+date: 2023-01-10
+url: https://discourse.slicer.org/t/27178
+---
+
 # Reading Masks made by a different software
 
 **Topic ID**: 27178

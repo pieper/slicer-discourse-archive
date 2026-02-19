@@ -1,3 +1,10 @@
+---
+topic_id: 41632
+title: "No Extensions For Preview In Linux"
+date: 2025-02-11
+url: https://discourse.slicer.org/t/41632
+---
+
 # No extensions for preview in Linux
 
 **Topic ID**: 41632

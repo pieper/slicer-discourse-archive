@@ -1,3 +1,10 @@
+---
+topic_id: 29286
+title: "Critical Issues With Binwidth Setting In Parameters File For"
+date: 2023-05-04
+url: https://discourse.slicer.org/t/29286
+---
+
 # Critical issues with binWidth setting in PARAMETERS file for Pyradiomics
 
 **Topic ID**: 29286

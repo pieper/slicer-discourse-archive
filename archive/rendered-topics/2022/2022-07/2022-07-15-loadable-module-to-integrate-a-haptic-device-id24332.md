@@ -1,3 +1,10 @@
+---
+topic_id: 24332
+title: "Loadable Module To Integrate A Haptic Device"
+date: 2022-07-15
+url: https://discourse.slicer.org/t/24332
+---
+
 # loadable module to integrate a haptic device 
 
 **Topic ID**: 24332

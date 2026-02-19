@@ -1,3 +1,10 @@
+---
+topic_id: 1230
+title: "How To Segment The Ligaments Of Lumbar Vertebrae Region"
+date: 2017-10-15
+url: https://discourse.slicer.org/t/1230
+---
+
 # How to segment the ligaments of lumbar vertebrae region?
 
 **Topic ID**: 1230

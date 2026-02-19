@@ -1,3 +1,10 @@
+---
+topic_id: 10864
+title: "Change Of The Sign Of Space Directions And Space Origin Due"
+date: 2020-03-26
+url: https://discourse.slicer.org/t/10864
+---
+
 # Change of the sign of space directions and space origin due to interpolation / cropping
 
 **Topic ID**: 10864

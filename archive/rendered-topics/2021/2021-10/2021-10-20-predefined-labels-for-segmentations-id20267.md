@@ -1,3 +1,10 @@
+---
+topic_id: 20267
+title: "Predefined Labels For Segmentations"
+date: 2021-10-20
+url: https://discourse.slicer.org/t/20267
+---
+
 # Predefined Labels for segmentations
 
 **Topic ID**: 20267

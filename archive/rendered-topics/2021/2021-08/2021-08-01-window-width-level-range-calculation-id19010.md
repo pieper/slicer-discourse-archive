@@ -1,3 +1,10 @@
+---
+topic_id: 19010
+title: "Window Width Level Range Calculation"
+date: 2021-08-01
+url: https://discourse.slicer.org/t/19010
+---
+
 # Window width/level range calculation
 
 **Topic ID**: 19010

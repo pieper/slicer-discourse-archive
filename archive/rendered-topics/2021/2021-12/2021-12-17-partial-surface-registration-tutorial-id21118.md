@@ -1,3 +1,10 @@
+---
+topic_id: 21118
+title: "Partial Surface Registration Tutorial"
+date: 2021-12-17
+url: https://discourse.slicer.org/t/21118
+---
+
 # Partial Surface Registration Tutorial
 
 **Topic ID**: 21118

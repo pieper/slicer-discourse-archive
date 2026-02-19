@@ -1,3 +1,10 @@
+---
+topic_id: 2914
+title: "Import Segmentation From Model Is Too Coarse"
+date: 2018-05-23
+url: https://discourse.slicer.org/t/2914
+---
+
 # Import segmentation from model is too coarse
 
 **Topic ID**: 2914

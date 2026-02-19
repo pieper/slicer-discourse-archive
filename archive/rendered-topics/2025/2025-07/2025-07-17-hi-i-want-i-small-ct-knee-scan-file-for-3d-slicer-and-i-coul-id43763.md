@@ -1,3 +1,10 @@
+---
+topic_id: 43763
+title: "Hi I Want I Small Ct Knee Scan File For 3D Slicer And I Coul"
+date: 2025-07-17
+url: https://discourse.slicer.org/t/43763
+---
+
 # hi i want i small CT Knee scan file for 3d slicer and i couldn t find one 
 
 **Topic ID**: 43763

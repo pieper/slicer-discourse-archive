@@ -1,3 +1,10 @@
+---
+topic_id: 23679
+title: "What Are Logics In Slicer"
+date: 2022-06-01
+url: https://discourse.slicer.org/t/23679
+---
+
 # What are 'logics' in Slicer
 
 **Topic ID**: 23679

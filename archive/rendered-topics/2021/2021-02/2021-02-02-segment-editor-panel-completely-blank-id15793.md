@@ -1,3 +1,10 @@
+---
+topic_id: 15793
+title: "Segment Editor Panel Completely Blank"
+date: 2021-02-02
+url: https://discourse.slicer.org/t/15793
+---
+
 # "Segment Editor" Panel Completely Blank
 
 **Topic ID**: 15793

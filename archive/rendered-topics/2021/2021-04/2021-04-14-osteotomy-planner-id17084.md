@@ -1,3 +1,10 @@
+---
+topic_id: 17084
+title: "Osteotomy Planner"
+date: 2021-04-14
+url: https://discourse.slicer.org/t/17084
+---
+
 # Osteotomy Planner
 
 **Topic ID**: 17084

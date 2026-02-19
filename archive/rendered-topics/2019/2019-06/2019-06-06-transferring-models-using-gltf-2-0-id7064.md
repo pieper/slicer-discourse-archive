@@ -1,3 +1,10 @@
+---
+topic_id: 7064
+title: "Transferring Models Using Gltf 2 0"
+date: 2019-06-06
+url: https://discourse.slicer.org/t/7064
+---
+
 # Transferring models using glTF 2.0
 
 **Topic ID**: 7064

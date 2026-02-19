@@ -1,3 +1,10 @@
+---
+topic_id: 11291
+title: "Line Profile Intensity Matching"
+date: 2020-04-24
+url: https://discourse.slicer.org/t/11291
+---
+
 # Line profile : Intensity matching
 
 **Topic ID**: 11291

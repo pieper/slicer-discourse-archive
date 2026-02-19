@@ -1,3 +1,10 @@
+---
+topic_id: 1389
+title: "Request For Feature Polygon Based Segmentation Effect"
+date: 2017-11-06
+url: https://discourse.slicer.org/t/1389
+---
+
 # Request for feature: polygon based segmentation effect
 
 **Topic ID**: 1389

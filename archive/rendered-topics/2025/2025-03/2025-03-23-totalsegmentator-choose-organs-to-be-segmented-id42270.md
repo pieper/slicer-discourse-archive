@@ -1,3 +1,10 @@
+---
+topic_id: 42270
+title: "Totalsegmentator Choose Organs To Be Segmented"
+date: 2025-03-23
+url: https://discourse.slicer.org/t/42270
+---
+
 # TotalSegmentator choose organs to be segmented
 
 **Topic ID**: 42270

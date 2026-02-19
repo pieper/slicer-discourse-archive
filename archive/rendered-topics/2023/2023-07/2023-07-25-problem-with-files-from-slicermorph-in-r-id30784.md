@@ -1,3 +1,10 @@
+---
+topic_id: 30784
+title: "Problem With Files From Slicermorph In R"
+date: 2023-07-25
+url: https://discourse.slicer.org/t/30784
+---
+
 # Problem with files from SlicerMorph in R
 
 **Topic ID**: 30784

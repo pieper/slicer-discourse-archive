@@ -1,3 +1,10 @@
+---
+topic_id: 521
+title: "Diffusion Tensor Imaging Tutorial Volume Masking Module Nigh"
+date: 2017-06-18
+url: https://discourse.slicer.org/t/521
+---
+
 # Diffusion Tensor Imaging tutorial - volume masking module nightly build (posterior to 2/23/2016)
 
 **Topic ID**: 521

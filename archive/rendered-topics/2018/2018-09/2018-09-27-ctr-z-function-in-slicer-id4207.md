@@ -1,3 +1,10 @@
+---
+topic_id: 4207
+title: "Ctr Z Function In Slicer"
+date: 2018-09-27
+url: https://discourse.slicer.org/t/4207
+---
+
 # Ctr-Z-function in Slicer
 
 **Topic ID**: 4207

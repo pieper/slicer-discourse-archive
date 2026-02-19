@@ -1,3 +1,10 @@
+---
+topic_id: 10985
+title: "Rtstruct Export Missing Segmentation Names"
+date: 2020-04-03
+url: https://discourse.slicer.org/t/10985
+---
+
 # RTStruct Export Missing Segmentation Names
 
 **Topic ID**: 10985

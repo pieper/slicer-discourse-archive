@@ -1,3 +1,10 @@
+---
+topic_id: 18274
+title: "Transform Widget"
+date: 2021-06-22
+url: https://discourse.slicer.org/t/18274
+---
+
 # Transform Widget
 
 **Topic ID**: 18274

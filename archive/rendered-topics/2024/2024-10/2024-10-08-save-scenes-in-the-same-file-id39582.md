@@ -1,3 +1,10 @@
+---
+topic_id: 39582
+title: "Save Scenes In The Same File"
+date: 2024-10-08
+url: https://discourse.slicer.org/t/39582
+---
+
 # Save Scenes in the same file
 
 **Topic ID**: 39582

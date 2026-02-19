@@ -1,3 +1,10 @@
+---
+topic_id: 39461
+title: "Problem With Uploading Jpeg Files Pc"
+date: 2024-10-01
+url: https://discourse.slicer.org/t/39461
+---
+
 # Problem with uploading .JPEG Files (PC)
 
 **Topic ID**: 39461

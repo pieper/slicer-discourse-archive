@@ -1,3 +1,10 @@
+---
+topic_id: 44542
+title: "3D Slicer Virtual Reality Experience With Meta Quest 3"
+date: 2025-09-21
+url: https://discourse.slicer.org/t/44542
+---
+
 # 3D Slicer Virtual Reality Experience with Meta Quest 3
 
 **Topic ID**: 44542

@@ -1,3 +1,10 @@
+---
+topic_id: 23006
+title: "Compute Dice Score Hausdorff Distance For Multi Region Segme"
+date: 2022-04-19
+url: https://discourse.slicer.org/t/23006
+---
+
 # Compute Dice score, Hausdorff distance for Multi-Region segmentation
 
 **Topic ID**: 23006

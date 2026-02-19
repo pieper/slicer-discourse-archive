@@ -1,3 +1,10 @@
+---
+topic_id: 23740
+title: "Capture 3D View Into Png File With Transparent Background No"
+date: 2022-06-07
+url: https://discourse.slicer.org/t/23740
+---
+
 # Capture 3D view into PNG file with transparent background not working as expected
 
 **Topic ID**: 23740

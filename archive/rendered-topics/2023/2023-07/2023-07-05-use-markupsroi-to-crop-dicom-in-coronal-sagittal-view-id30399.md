@@ -1,3 +1,10 @@
+---
+topic_id: 30399
+title: "Use Markupsroi To Crop Dicom In Coronal Sagittal View"
+date: 2023-07-05
+url: https://discourse.slicer.org/t/30399
+---
+
 # Use MarkupsROI to crop DICOM in coronal / sagittal view
 
 **Topic ID**: 30399

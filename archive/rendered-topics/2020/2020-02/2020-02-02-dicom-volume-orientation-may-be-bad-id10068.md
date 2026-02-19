@@ -1,3 +1,10 @@
+---
+topic_id: 10068
+title: "Dicom Volume Orientation May Be Bad"
+date: 2020-02-02
+url: https://discourse.slicer.org/t/10068
+---
+
 # DICOM volume orientation may be bad
 
 **Topic ID**: 10068

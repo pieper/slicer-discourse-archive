@@ -1,3 +1,10 @@
+---
+topic_id: 10744
+title: "Release Opendose4D Need Help To Finish Integration"
+date: 2020-03-19
+url: https://discourse.slicer.org/t/10744
+---
+
 # Release: OpenDose4D, (need help to finish integration)
 
 **Topic ID**: 10744

@@ -1,3 +1,10 @@
+---
+topic_id: 1514
+title: "Aligning Segmentation Volume With Image Volume In Code Using"
+date: 2017-11-24
+url: https://discourse.slicer.org/t/1514
+---
+
 # Aligning segmentation volume with image volume in code using nrrd headers
 
 **Topic ID**: 1514

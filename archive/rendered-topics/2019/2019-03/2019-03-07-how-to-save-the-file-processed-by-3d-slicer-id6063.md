@@ -1,3 +1,10 @@
+---
+topic_id: 6063
+title: "How To Save The File Processed By 3D Slicer"
+date: 2019-03-07
+url: https://discourse.slicer.org/t/6063
+---
+
 # How to save the file processed by 3D slicer
 
 **Topic ID**: 6063

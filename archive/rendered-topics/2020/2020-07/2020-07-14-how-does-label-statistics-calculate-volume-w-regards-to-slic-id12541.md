@@ -1,3 +1,10 @@
+---
+topic_id: 12541
+title: "How Does Label Statistics Calculate Volume W Regards To Slic"
+date: 2020-07-14
+url: https://discourse.slicer.org/t/12541
+---
+
 # How does Label Statistics Calculate Volume w/ regards to Slice Thickness/Spacing
 
 **Topic ID**: 12541

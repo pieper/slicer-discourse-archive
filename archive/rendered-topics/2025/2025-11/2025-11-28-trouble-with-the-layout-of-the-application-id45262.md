@@ -1,3 +1,10 @@
+---
+topic_id: 45262
+title: "Trouble With The Layout Of The Application"
+date: 2025-11-28
+url: https://discourse.slicer.org/t/45262
+---
+
 # Trouble with the layout of the application
 
 **Topic ID**: 45262

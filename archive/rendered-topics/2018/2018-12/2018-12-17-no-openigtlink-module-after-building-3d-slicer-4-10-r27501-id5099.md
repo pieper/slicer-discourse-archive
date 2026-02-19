@@ -1,3 +1,10 @@
+---
+topic_id: 5099
+title: "No Openigtlink Module After Building 3D Slicer 4 10 R27501"
+date: 2018-12-17
+url: https://discourse.slicer.org/t/5099
+---
+
 # No openIGTlink module after building 3D Slicer 4.10 (r27501)
 
 **Topic ID**: 5099

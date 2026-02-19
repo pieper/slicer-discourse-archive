@@ -1,3 +1,10 @@
+---
+topic_id: 7902
+title: "Prevent Transformix Running In Slicer Elastix"
+date: 2019-08-06
+url: https://discourse.slicer.org/t/7902
+---
+
 # Prevent transformix running in Slicer Elastix
 
 **Topic ID**: 7902

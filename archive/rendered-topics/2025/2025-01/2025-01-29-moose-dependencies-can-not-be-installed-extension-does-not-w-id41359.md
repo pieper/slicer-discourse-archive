@@ -1,3 +1,10 @@
+---
+topic_id: 41359
+title: "Moose Dependencies Can Not Be Installed Extension Does Not W"
+date: 2025-01-29
+url: https://discourse.slicer.org/t/41359
+---
+
 # MOOSE dependencies can not be installed - extension does not work
 
 **Topic ID**: 41359

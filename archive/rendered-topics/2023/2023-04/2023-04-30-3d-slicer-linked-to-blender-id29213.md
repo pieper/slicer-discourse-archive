@@ -1,3 +1,10 @@
+---
+topic_id: 29213
+title: "3D Slicer Linked To Blender"
+date: 2023-04-30
+url: https://discourse.slicer.org/t/29213
+---
+
 # 3D Slicer linked to Blender
 
 **Topic ID**: 29213

@@ -1,3 +1,10 @@
+---
+topic_id: 25426
+title: "Ik Solution Failed And The Robot Cant Move To The Entry Poin"
+date: 2022-09-25
+url: https://discourse.slicer.org/t/25426
+---
+
 # IK solution failed and the robot can't move to the Entry point
 
 **Topic ID**: 25426

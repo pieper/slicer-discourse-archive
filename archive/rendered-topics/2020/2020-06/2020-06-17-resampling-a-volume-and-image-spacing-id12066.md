@@ -1,3 +1,10 @@
+---
+topic_id: 12066
+title: "Resampling A Volume And Image Spacing"
+date: 2020-06-17
+url: https://discourse.slicer.org/t/12066
+---
+
 # Resampling a volume and Image Spacing
 
 **Topic ID**: 12066

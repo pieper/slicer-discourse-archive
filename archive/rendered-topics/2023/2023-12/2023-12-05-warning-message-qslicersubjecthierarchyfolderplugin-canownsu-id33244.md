@@ -1,3 +1,10 @@
+---
+topic_id: 33244
+title: "Warning Message Qslicersubjecthierarchyfolderplugin Canownsu"
+date: 2023-12-05
+url: https://discourse.slicer.org/t/33244
+---
+
 # Warning message: qSlicerSubjectHierarchyFolderPlugin::canOwnSubjectHierarchyItem - Input item is invalid
 
 **Topic ID**: 33244

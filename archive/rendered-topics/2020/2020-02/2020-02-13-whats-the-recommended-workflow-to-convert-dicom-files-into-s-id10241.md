@@ -1,3 +1,10 @@
+---
+topic_id: 10241
+title: "Whats The Recommended Workflow To Convert Dicom Files Into S"
+date: 2020-02-13
+url: https://discourse.slicer.org/t/10241
+---
+
 # What's the recommended workflow to convert DICOM files into slices?
 
 **Topic ID**: 10241

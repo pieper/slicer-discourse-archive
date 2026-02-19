@@ -1,3 +1,10 @@
+---
+topic_id: 26126
+title: "Multi Raw Image Loading Using Rawimageguess Extension"
+date: 2022-11-08
+url: https://discourse.slicer.org/t/26126
+---
+
 # Multi-raw image loading using RawImageGuess extension
 
 **Topic ID**: 26126

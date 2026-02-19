@@ -1,3 +1,10 @@
+---
+topic_id: 5262
+title: "Separate Arterial Phase And Venous Phase Into Two Series"
+date: 2019-01-03
+url: https://discourse.slicer.org/t/5262
+---
+
 # Separate arterial phase and venous phase into two series
 
 **Topic ID**: 5262

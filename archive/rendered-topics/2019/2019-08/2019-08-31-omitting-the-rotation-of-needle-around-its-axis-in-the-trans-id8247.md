@@ -1,3 +1,10 @@
+---
+topic_id: 8247
+title: "Omitting The Rotation Of Needle Around Its Axis In The Trans"
+date: 2019-08-31
+url: https://discourse.slicer.org/t/8247
+---
+
 # Omitting the rotation of needle around its axis in the transformation module
 
 **Topic ID**: 8247

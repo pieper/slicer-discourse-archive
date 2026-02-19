@@ -1,3 +1,10 @@
+---
+topic_id: 5757
+title: "Python Display Result Table After Calculation"
+date: 2019-02-13
+url: https://discourse.slicer.org/t/5757
+---
+
 # Python: display result Table after calculation
 
 **Topic ID**: 5757

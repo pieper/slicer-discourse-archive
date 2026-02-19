@@ -1,3 +1,10 @@
+---
+topic_id: 10527
+title: "General Questions About Microscopy Image Processing And Visu"
+date: 2020-03-03
+url: https://discourse.slicer.org/t/10527
+---
+
 # General questions about Microscopy image processing and & visualization using 3D Slicer
 
 **Topic ID**: 10527

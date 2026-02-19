@@ -1,3 +1,10 @@
+---
+topic_id: 20417
+title: "Can T Cut Away Unwanted Tissue"
+date: 2021-10-30
+url: https://discourse.slicer.org/t/20417
+---
+
 # Can’t cut away unwanted tissue
 
 **Topic ID**: 20417

@@ -1,3 +1,10 @@
+---
+topic_id: 21861
+title: "How To Properly Use The Segment Editor With Transformed Volu"
+date: 2022-02-08
+url: https://discourse.slicer.org/t/21861
+---
+
 # How to properly use the segment editor with transformed volumes
 
 **Topic ID**: 21861

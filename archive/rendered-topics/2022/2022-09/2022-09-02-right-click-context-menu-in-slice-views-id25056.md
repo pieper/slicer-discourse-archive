@@ -1,3 +1,10 @@
+---
+topic_id: 25056
+title: "Right Click Context Menu In Slice Views"
+date: 2022-09-02
+url: https://discourse.slicer.org/t/25056
+---
+
 # Right-click context menu in slice views
 
 **Topic ID**: 25056

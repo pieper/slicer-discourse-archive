@@ -1,3 +1,10 @@
+---
+topic_id: 15675
+title: "Programmer Sought Slicer Gui Modification"
+date: 2021-01-26
+url: https://discourse.slicer.org/t/15675
+---
+
 # Programmer sought: Slicer GUI modification.
 
 **Topic ID**: 15675

@@ -1,3 +1,10 @@
+---
+topic_id: 38148
+title: "Rotation In Plane Created By Api Is It Normal"
+date: 2024-09-01
+url: https://discourse.slicer.org/t/38148
+---
+
 # Rotation in plane created by API : is it normal?
 
 **Topic ID**: 38148

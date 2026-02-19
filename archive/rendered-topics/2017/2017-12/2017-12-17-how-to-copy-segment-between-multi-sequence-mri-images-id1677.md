@@ -1,3 +1,10 @@
+---
+topic_id: 1677
+title: "How To Copy Segment Between Multi Sequence Mri Images"
+date: 2017-12-17
+url: https://discourse.slicer.org/t/1677
+---
+
 # How to copy segment between multi-Sequence MRI images
 
 **Topic ID**: 1677

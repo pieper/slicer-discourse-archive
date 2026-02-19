@@ -1,3 +1,10 @@
+---
+topic_id: 12507
+title: "Calculate Ice And Jacobian Of Displacement Vector Field"
+date: 2020-07-13
+url: https://discourse.slicer.org/t/12507
+---
+
 # Calculate ICE and jacobian of displacement vector field
 
 **Topic ID**: 12507

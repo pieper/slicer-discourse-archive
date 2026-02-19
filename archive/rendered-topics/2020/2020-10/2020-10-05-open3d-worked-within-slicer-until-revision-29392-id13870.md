@@ -1,3 +1,10 @@
+---
+topic_id: 13870
+title: "Open3D Worked Within Slicer Until Revision 29392"
+date: 2020-10-05
+url: https://discourse.slicer.org/t/13870
+---
+
 # Open3d worked within slicer until revision 29392
 
 **Topic ID**: 13870

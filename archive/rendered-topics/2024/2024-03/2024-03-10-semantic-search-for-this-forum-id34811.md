@@ -1,3 +1,10 @@
+---
+topic_id: 34811
+title: "Semantic Search For This Forum"
+date: 2024-03-10
+url: https://discourse.slicer.org/t/34811
+---
+
 # Semantic search for this forum
 
 **Topic ID**: 34811

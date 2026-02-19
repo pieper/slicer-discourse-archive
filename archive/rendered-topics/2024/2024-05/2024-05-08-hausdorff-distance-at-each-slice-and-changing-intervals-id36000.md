@@ -1,3 +1,10 @@
+---
+topic_id: 36000
+title: "Hausdorff Distance At Each Slice And Changing Intervals"
+date: 2024-05-08
+url: https://discourse.slicer.org/t/36000
+---
+
 # Hausdorff distance at each slice and changing intervals
 
 **Topic ID**: 36000

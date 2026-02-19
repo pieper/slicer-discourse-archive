@@ -1,3 +1,10 @@
+---
+topic_id: 2861
+title: "Saving Series Of Images From A Slice View"
+date: 2018-05-21
+url: https://discourse.slicer.org/t/2861
+---
+
 # Saving series of images from a Slice View
 
 **Topic ID**: 2861

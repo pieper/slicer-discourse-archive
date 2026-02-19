@@ -1,3 +1,10 @@
+---
+topic_id: 8301
+title: "Programmatically Set Camera Position"
+date: 2019-09-04
+url: https://discourse.slicer.org/t/8301
+---
+
 # Programmatically set camera position
 
 **Topic ID**: 8301

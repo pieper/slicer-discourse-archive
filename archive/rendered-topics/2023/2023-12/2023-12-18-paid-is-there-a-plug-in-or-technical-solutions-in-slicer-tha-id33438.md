@@ -1,3 +1,10 @@
+---
+topic_id: 33438
+title: "Paid Is There A Plug In Or Technical Solutions In Slicer Tha"
+date: 2023-12-18
+url: https://discourse.slicer.org/t/33438
+---
+
 # 【Paid】Is there a plug-in or Technical solutions in Slicer that can provide temperature measurement function using ultrasonic equipment?
 
 **Topic ID**: 33438

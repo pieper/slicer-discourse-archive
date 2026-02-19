@@ -1,3 +1,10 @@
+---
+topic_id: 6363
+title: "Python Scripted Module Development Reload Feature For Multip"
+date: 2019-04-02
+url: https://discourse.slicer.org/t/6363
+---
+
 # Python scripted module development reload feature for multiple files
 
 **Topic ID**: 6363

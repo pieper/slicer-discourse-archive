@@ -1,3 +1,10 @@
+---
+topic_id: 1060
+title: "Entry And Exit Events From Mrml Slice Views"
+date: 2017-09-15
+url: https://discourse.slicer.org/t/1060
+---
+
 # Entry and exit events from MRML slice views
 
 **Topic ID**: 1060

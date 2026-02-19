@@ -1,3 +1,10 @@
+---
+topic_id: 11126
+title: "Can 3D Slicer Modules Be Used In Python Code External To 3D"
+date: 2020-04-15
+url: https://discourse.slicer.org/t/11126
+---
+
 # Can 3d slicer modules be used in python code external to 3d slicer?
 
 **Topic ID**: 11126

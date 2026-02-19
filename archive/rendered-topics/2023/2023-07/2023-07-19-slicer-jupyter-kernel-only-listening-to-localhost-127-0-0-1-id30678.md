@@ -1,3 +1,10 @@
+---
+topic_id: 30678
+title: "Slicer Jupyter Kernel Only Listening To Localhost 127 0 0 1"
+date: 2023-07-19
+url: https://discourse.slicer.org/t/30678
+---
+
 # Slicer Jupyter Kernel only listening to localhost(127.0.0.1)
 
 **Topic ID**: 30678

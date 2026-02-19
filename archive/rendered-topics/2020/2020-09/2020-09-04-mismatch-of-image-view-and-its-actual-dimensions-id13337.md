@@ -1,3 +1,10 @@
+---
+topic_id: 13337
+title: "Mismatch Of Image View And Its Actual Dimensions"
+date: 2020-09-04
+url: https://discourse.slicer.org/t/13337
+---
+
 # Mismatch of image view and its actual dimensions
 
 **Topic ID**: 13337

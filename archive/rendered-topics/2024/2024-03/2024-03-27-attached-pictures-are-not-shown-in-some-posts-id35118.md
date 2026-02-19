@@ -1,3 +1,10 @@
+---
+topic_id: 35118
+title: "Attached Pictures Are Not Shown In Some Posts"
+date: 2024-03-27
+url: https://discourse.slicer.org/t/35118
+---
+
 # Attached pictures are not shown in some posts
 
 **Topic ID**: 35118

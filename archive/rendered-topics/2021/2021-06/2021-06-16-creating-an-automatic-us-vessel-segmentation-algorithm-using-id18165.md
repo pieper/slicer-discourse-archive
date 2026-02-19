@@ -1,3 +1,10 @@
+---
+topic_id: 18165
+title: "Creating An Automatic Us Vessel Segmentation Algorithm Using"
+date: 2021-06-16
+url: https://discourse.slicer.org/t/18165
+---
+
 # Creating an automatic US vessel segmentation algorithm using the Python interactor 
 
 **Topic ID**: 18165

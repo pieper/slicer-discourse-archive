@@ -1,3 +1,10 @@
+---
+topic_id: 18112
+title: "Cannot Obtain The Center Line"
+date: 2021-06-14
+url: https://discourse.slicer.org/t/18112
+---
+
 # Cannot obtain the center line.
 
 **Topic ID**: 18112

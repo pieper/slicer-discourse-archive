@@ -1,3 +1,10 @@
+---
+topic_id: 10372
+title: "Surface Generation From Label Map Volume"
+date: 2020-02-20
+url: https://discourse.slicer.org/t/10372
+---
+
 # Surface generation from label map volume
 
 **Topic ID**: 10372

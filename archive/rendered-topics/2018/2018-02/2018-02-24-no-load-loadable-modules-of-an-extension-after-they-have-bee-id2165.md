@@ -1,3 +1,10 @@
+---
+topic_id: 2165
+title: "No Load Loadable Modules Of An Extension After They Have Bee"
+date: 2018-02-24
+url: https://discourse.slicer.org/t/2165
+---
+
 # No load loadable modules of an extension after they have been installed from slicer extension catalog (Compiled Slicer 4.8.1 )
 
 **Topic ID**: 2165

@@ -1,3 +1,10 @@
+---
+topic_id: 1501
+title: "Can We Measure Angles On The 3Dslicer"
+date: 2017-11-21
+url: https://discourse.slicer.org/t/1501
+---
+
 # Can we measure angles on the 3Dslicer
 
 **Topic ID**: 1501

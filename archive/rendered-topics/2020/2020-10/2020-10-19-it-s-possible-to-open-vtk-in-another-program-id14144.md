@@ -1,3 +1,10 @@
+---
+topic_id: 14144
+title: "It S Possible To Open Vtk In Another Program"
+date: 2020-10-19
+url: https://discourse.slicer.org/t/14144
+---
+
 # It´s possible to open vtk in another program
 
 **Topic ID**: 14144

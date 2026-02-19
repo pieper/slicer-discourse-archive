@@ -1,3 +1,10 @@
+---
+topic_id: 37170
+title: "Adding Scale And Removing Noise From Volume Rendering Of Tif"
+date: 2024-07-03
+url: https://discourse.slicer.org/t/37170
+---
+
 # Adding scale and removing noise from volume rendering of TIFF stacks
 
 **Topic ID**: 37170

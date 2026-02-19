@@ -1,3 +1,10 @@
+---
+topic_id: 42121
+title: "Vtk Collection 1 Instance Memory Leak"
+date: 2025-03-14
+url: https://discourse.slicer.org/t/42121
+---
+
 # Vtk collection 1 instance memory leak
 
 **Topic ID**: 42121

@@ -1,3 +1,10 @@
+---
+topic_id: 19124
+title: "Export Segmentation As Image Sequence Tif For Imagej"
+date: 2021-08-09
+url: https://discourse.slicer.org/t/19124
+---
+
 # Export segmentation as image sequence (tif. for ImageJ)
 
 **Topic ID**: 19124

@@ -1,3 +1,10 @@
+---
+topic_id: 37149
+title: "Selecting Input Nodes In Slicer Rts Segment Comparison"
+date: 2024-07-02
+url: https://discourse.slicer.org/t/37149
+---
+
 # Selecting input nodes in Slicer RT's Segment Comparison
 
 **Topic ID**: 37149

@@ -1,3 +1,10 @@
+---
+topic_id: 4678
+title: "Setting New Active Scalar Does Not Always Show"
+date: 2018-11-08
+url: https://discourse.slicer.org/t/4678
+---
+
 # Setting new active scalar does not always show
 
 **Topic ID**: 4678

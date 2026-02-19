@@ -1,3 +1,10 @@
+---
+topic_id: 4224
+title: "Radiomics Wont Work With A Label Volume From Segmentation Wi"
+date: 2018-09-29
+url: https://discourse.slicer.org/t/4224
+---
+
 # Radiomics won't work with a label volume from Segmentation Wizard
 
 **Topic ID**: 4224

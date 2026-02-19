@@ -1,3 +1,10 @@
+---
+topic_id: 4975
+title: "Extension Contribution Checklist"
+date: 2018-12-05
+url: https://discourse.slicer.org/t/4975
+---
+
 # Extension contribution checklist
 
 **Topic ID**: 4975

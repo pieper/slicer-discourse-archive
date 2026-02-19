@@ -1,3 +1,10 @@
+---
+topic_id: 6433
+title: "How To Call A Function From The Logic"
+date: 2019-04-08
+url: https://discourse.slicer.org/t/6433
+---
+
 # How to call a function from the logic
 
 **Topic ID**: 6433

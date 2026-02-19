@@ -1,3 +1,10 @@
+---
+topic_id: 22646
+title: "Tracheal Wall Segmentation"
+date: 2022-03-23
+url: https://discourse.slicer.org/t/22646
+---
+
 # Tracheal wall segmentation
 
 **Topic ID**: 22646

@@ -1,3 +1,10 @@
+---
+topic_id: 31943
+title: "How To Input And Output Segments In Mhd Format In 3D Slicers"
+date: 2023-09-28
+url: https://discourse.slicer.org/t/31943
+---
+
 # How to input and output segments in mhd format in 3D slicers.
 
 **Topic ID**: 31943

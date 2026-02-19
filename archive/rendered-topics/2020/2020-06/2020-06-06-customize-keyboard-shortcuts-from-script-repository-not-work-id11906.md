@@ -1,3 +1,10 @@
+---
+topic_id: 11906
+title: "Customize Keyboard Shortcuts From Script Repository Not Work"
+date: 2020-06-06
+url: https://discourse.slicer.org/t/11906
+---
+
 # "Customize keyboard shortcuts" from script repository not working?
 
 **Topic ID**: 11906

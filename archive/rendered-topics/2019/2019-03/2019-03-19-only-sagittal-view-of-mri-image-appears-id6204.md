@@ -1,3 +1,10 @@
+---
+topic_id: 6204
+title: "Only Sagittal View Of Mri Image Appears"
+date: 2019-03-19
+url: https://discourse.slicer.org/t/6204
+---
+
 # Only sagittal view of MRI image appears
 
 **Topic ID**: 6204

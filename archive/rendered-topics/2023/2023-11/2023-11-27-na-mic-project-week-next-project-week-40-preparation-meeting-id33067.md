@@ -1,3 +1,10 @@
+---
+topic_id: 33067
+title: "Na Mic Project Week Next Project Week 40 Preparation Meeting"
+date: 2023-11-27
+url: https://discourse.slicer.org/t/33067
+---
+
 # [Na-mic-project-week] Next Project Week 40 preparation meeting - Tuesday Nov 28th
 
 **Topic ID**: 33067

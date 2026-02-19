@@ -1,3 +1,10 @@
+---
+topic_id: 11794
+title: "Create Invoke And Observe Vtk Custom Event"
+date: 2020-05-30
+url: https://discourse.slicer.org/t/11794
+---
+
 # Create, invoke and observe vtk custom event
 
 **Topic ID**: 11794

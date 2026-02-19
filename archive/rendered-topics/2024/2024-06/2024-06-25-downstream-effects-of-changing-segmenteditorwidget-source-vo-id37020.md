@@ -1,3 +1,10 @@
+---
+topic_id: 37020
+title: "Downstream Effects Of Changing Segmenteditorwidget Source Vo"
+date: 2024-06-25
+url: https://discourse.slicer.org/t/37020
+---
+
 # Downstream Effects of Changing SegmentEditorWidget Source Volume
 
 **Topic ID**: 37020

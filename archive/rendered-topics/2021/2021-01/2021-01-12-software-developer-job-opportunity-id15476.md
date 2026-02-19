@@ -1,3 +1,10 @@
+---
+topic_id: 15476
+title: "Software Developer Job Opportunity"
+date: 2021-01-12
+url: https://discourse.slicer.org/t/15476
+---
+
 # Software Developer Job Opportunity
 
 **Topic ID**: 15476

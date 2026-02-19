@@ -1,3 +1,10 @@
+---
+topic_id: 1043
+title: "Problem With 3D Visualization Control Of Transform When Fidu"
+date: 2017-09-13
+url: https://discourse.slicer.org/t/1043
+---
+
 # Problem with 3D visualization/control of transform when fiducial have been placed in scene
 
 **Topic ID**: 1043

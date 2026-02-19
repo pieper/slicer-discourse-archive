@@ -1,3 +1,10 @@
+---
+topic_id: 28434
+title: "Roi Cropping And Segmentation"
+date: 2023-03-17
+url: https://discourse.slicer.org/t/28434
+---
+
 # ROI cropping and segmentation
 
 **Topic ID**: 28434

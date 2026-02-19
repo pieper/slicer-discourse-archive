@@ -1,3 +1,10 @@
+---
+topic_id: 37011
+title: "Filters And Parameters Used In Export Visible Segments To Mo"
+date: 2024-06-25
+url: https://discourse.slicer.org/t/37011
+---
+
 # Filters and parameters used in "export visible segments to model"
 
 **Topic ID**: 37011

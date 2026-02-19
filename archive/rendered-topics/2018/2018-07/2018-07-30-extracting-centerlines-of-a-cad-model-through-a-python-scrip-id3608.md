@@ -1,3 +1,10 @@
+---
+topic_id: 3608
+title: "Extracting Centerlines Of A Cad Model Through A Python Scrip"
+date: 2018-07-30
+url: https://discourse.slicer.org/t/3608
+---
+
 # Extracting Centerlines of a CAD Model Through a Python Script in Slicer
 
 **Topic ID**: 3608

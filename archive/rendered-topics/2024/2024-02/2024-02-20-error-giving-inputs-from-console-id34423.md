@@ -1,3 +1,10 @@
+---
+topic_id: 34423
+title: "Error Giving Inputs From Console"
+date: 2024-02-20
+url: https://discourse.slicer.org/t/34423
+---
+
 # Error giving inputs from console
 
 **Topic ID**: 34423

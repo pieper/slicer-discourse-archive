@@ -1,3 +1,10 @@
+---
+topic_id: 31768
+title: "Python Automation Of Constrain To Model For Markups Curve"
+date: 2023-09-18
+url: https://discourse.slicer.org/t/31768
+---
+
 # Python automation of 'constrain to model' for markups curve
 
 **Topic ID**: 31768

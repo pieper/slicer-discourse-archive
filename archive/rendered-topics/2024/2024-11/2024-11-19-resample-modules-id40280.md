@@ -1,3 +1,10 @@
+---
+topic_id: 40280
+title: "Resample Modules"
+date: 2024-11-19
+url: https://discourse.slicer.org/t/40280
+---
+
 # Resample Modules
 
 **Topic ID**: 40280

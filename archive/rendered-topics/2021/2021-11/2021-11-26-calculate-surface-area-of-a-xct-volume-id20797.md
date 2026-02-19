@@ -1,3 +1,10 @@
+---
+topic_id: 20797
+title: "Calculate Surface Area Of A Xct Volume"
+date: 2021-11-26
+url: https://discourse.slicer.org/t/20797
+---
+
 # Calculate surface area of a XCT Volume
 
 **Topic ID**: 20797

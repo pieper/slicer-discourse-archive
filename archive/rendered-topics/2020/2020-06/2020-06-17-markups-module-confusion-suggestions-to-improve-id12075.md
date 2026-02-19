@@ -1,3 +1,10 @@
+---
+topic_id: 12075
+title: "Markups Module Confusion Suggestions To Improve"
+date: 2020-06-17
+url: https://discourse.slicer.org/t/12075
+---
+
 # Markups module confusion - suggestions to improve
 
 **Topic ID**: 12075

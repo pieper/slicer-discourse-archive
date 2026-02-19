@@ -1,3 +1,10 @@
+---
+topic_id: 11474
+title: "N4Itk Mri Bias Correction Standard Error The Number Of Contr"
+date: 2020-05-09
+url: https://discourse.slicer.org/t/11474
+---
+
 # N4ITK MRI Bias correction standard error:  The number of control points must be greater than the spline order.
 
 **Topic ID**: 11474

@@ -1,3 +1,10 @@
+---
+topic_id: 11899
+title: "Module Jupyternotebookslib Has No Attribute Appwindow"
+date: 2020-06-06
+url: https://discourse.slicer.org/t/11899
+---
+
 # Module 'JupyterNotebooksLib' has no attribute 'AppWindow'
 
 **Topic ID**: 11899

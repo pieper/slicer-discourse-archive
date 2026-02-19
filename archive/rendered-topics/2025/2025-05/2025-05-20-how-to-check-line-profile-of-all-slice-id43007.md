@@ -1,3 +1,10 @@
+---
+topic_id: 43007
+title: "How To Check Line Profile Of All Slice"
+date: 2025-05-20
+url: https://discourse.slicer.org/t/43007
+---
+
 # How to check line profile of all slice
 
 **Topic ID**: 43007

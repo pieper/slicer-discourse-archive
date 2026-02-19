@@ -1,3 +1,10 @@
+---
+topic_id: 9181
+title: "Ideas For Wiki Improvement Topic Build Instructions"
+date: 2019-11-17
+url: https://discourse.slicer.org/t/9181
+---
+
 # Ideas for Wiki Improvement - Topic: Build Instructions
 
 **Topic ID**: 9181

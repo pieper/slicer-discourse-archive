@@ -1,3 +1,10 @@
+---
+topic_id: 42189
+title: "Can I Export The Data For Multiple Points At Once"
+date: 2025-03-17
+url: https://discourse.slicer.org/t/42189
+---
+
 # Can I export the data for multiple points at once?
 
 **Topic ID**: 42189

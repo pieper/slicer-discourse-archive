@@ -1,3 +1,10 @@
+---
+topic_id: 4424
+title: "Calculating The Dose Of A Segment After Displacing In Radiat"
+date: 2018-10-17
+url: https://discourse.slicer.org/t/4424
+---
+
 # Calculating the dose of a segment after displacing in radiation fields
 
 **Topic ID**: 4424

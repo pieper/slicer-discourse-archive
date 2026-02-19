@@ -1,3 +1,10 @@
+---
+topic_id: 37682
+title: "Seek Advice On Merge Surfaces"
+date: 2024-08-03
+url: https://discourse.slicer.org/t/37682
+---
+
 # Seek advice on merge surfaces
 
 **Topic ID**: 37682

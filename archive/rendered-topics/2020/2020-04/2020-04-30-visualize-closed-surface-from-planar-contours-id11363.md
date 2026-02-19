@@ -1,3 +1,10 @@
+---
+topic_id: 11363
+title: "Visualize Closed Surface From Planar Contours"
+date: 2020-04-30
+url: https://discourse.slicer.org/t/11363
+---
+
 # Visualize closed surface from planar contours
 
 **Topic ID**: 11363

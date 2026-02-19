@@ -1,3 +1,10 @@
+---
+topic_id: 44880
+title: "Saved Stl Files Are Very Big And Fail To Load Into Win11 3D"
+date: 2025-10-25
+url: https://discourse.slicer.org/t/44880
+---
+
 # Saved stl files are very big and fail to load into win11 3D viewer
 
 **Topic ID**: 44880

@@ -1,3 +1,10 @@
+---
+topic_id: 18519
+title: "Adjust Opacity Of Scalar Value"
+date: 2021-07-05
+url: https://discourse.slicer.org/t/18519
+---
+
 # Adjust opacity of scalar value
 
 **Topic ID**: 18519

@@ -1,3 +1,10 @@
+---
+topic_id: 3151
+title: "Locator Shape Of A Transform"
+date: 2018-06-12
+url: https://discourse.slicer.org/t/3151
+---
+
 # Locator shape of a transform
 
 **Topic ID**: 3151

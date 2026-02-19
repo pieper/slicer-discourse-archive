@@ -1,3 +1,10 @@
+---
+topic_id: 24057
+title: "I Build From Scratch Follew The Doc For Ten Times But Failed"
+date: 2022-06-27
+url: https://discourse.slicer.org/t/24057
+---
+
 # I build from scratch follew the doc for ten times ,but failed again and again
 
 **Topic ID**: 24057

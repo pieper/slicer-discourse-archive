@@ -1,3 +1,10 @@
+---
+topic_id: 16452
+title: "Segmentation Getbounds"
+date: 2021-03-09
+url: https://discourse.slicer.org/t/16452
+---
+
 # Segmentation getBounds
 
 **Topic ID**: 16452

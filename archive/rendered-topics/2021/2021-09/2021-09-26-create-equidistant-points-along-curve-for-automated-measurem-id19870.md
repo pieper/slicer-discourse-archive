@@ -1,3 +1,10 @@
+---
+topic_id: 19870
+title: "Create Equidistant Points Along Curve For Automated Measurem"
+date: 2021-09-26
+url: https://discourse.slicer.org/t/19870
+---
+
 # Create equidistant points along curve for automated measurements
 
 **Topic ID**: 19870

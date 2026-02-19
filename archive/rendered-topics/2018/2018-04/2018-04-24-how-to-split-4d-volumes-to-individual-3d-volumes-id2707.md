@@ -1,3 +1,10 @@
+---
+topic_id: 2707
+title: "How To Split 4D Volumes To Individual 3D Volumes"
+date: 2018-04-24
+url: https://discourse.slicer.org/t/2707
+---
+
 # How to split 4D volumes to individual 3D volumes?
 
 **Topic ID**: 2707

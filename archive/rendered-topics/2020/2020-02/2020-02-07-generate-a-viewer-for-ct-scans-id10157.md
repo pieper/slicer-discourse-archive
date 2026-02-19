@@ -1,3 +1,10 @@
+---
+topic_id: 10157
+title: "Generate A Viewer For Ct Scans"
+date: 2020-02-07
+url: https://discourse.slicer.org/t/10157
+---
+
 # Generate a "Viewer" for CT scans
 
 **Topic ID**: 10157

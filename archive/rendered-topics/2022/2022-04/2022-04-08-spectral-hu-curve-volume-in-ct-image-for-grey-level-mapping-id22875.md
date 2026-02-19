@@ -1,3 +1,10 @@
+---
+topic_id: 22875
+title: "Spectral Hu Curve Volume In Ct Image For Grey Level Mapping"
+date: 2022-04-08
+url: https://discourse.slicer.org/t/22875
+---
+
 # Spectral HU Curve Volume in CT image for grey level mapping
 
 **Topic ID**: 22875

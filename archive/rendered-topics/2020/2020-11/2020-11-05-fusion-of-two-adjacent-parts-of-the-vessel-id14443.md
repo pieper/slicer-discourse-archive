@@ -1,3 +1,10 @@
+---
+topic_id: 14443
+title: "Fusion Of Two Adjacent Parts Of The Vessel"
+date: 2020-11-05
+url: https://discourse.slicer.org/t/14443
+---
+
 # Fusion of two adjacent parts of the vessel
 
 **Topic ID**: 14443

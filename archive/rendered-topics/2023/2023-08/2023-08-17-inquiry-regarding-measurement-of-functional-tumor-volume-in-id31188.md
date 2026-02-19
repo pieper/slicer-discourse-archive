@@ -1,3 +1,10 @@
+---
+topic_id: 31188
+title: "Inquiry Regarding Measurement Of Functional Tumor Volume In"
+date: 2023-08-17
+url: https://discourse.slicer.org/t/31188
+---
+
 # Inquiry Regarding Measurement of Functional Tumor Volume in Breast using 3D Slicer
 
 **Topic ID**: 31188

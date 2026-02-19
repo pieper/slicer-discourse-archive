@@ -1,3 +1,10 @@
+---
+topic_id: 31541
+title: "How To Get The Convexhull Of A Segment"
+date: 2023-09-04
+url: https://discourse.slicer.org/t/31541
+---
+
 # How to get the convexHull of a segment
 
 **Topic ID**: 31541

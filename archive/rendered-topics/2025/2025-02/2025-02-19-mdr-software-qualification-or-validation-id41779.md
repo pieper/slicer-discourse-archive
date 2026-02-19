@@ -1,3 +1,10 @@
+---
+topic_id: 41779
+title: "Mdr Software Qualification Or Validation"
+date: 2025-02-19
+url: https://discourse.slicer.org/t/41779
+---
+
 # MDR software qualification or validation 
 
 **Topic ID**: 41779

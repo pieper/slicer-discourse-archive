@@ -1,3 +1,10 @@
+---
+topic_id: 6170
+title: "Remove Small Artifacts From 3D Model"
+date: 2019-03-17
+url: https://discourse.slicer.org/t/6170
+---
+
 # Remove small artifacts from 3d model
 
 **Topic ID**: 6170

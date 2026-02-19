@@ -1,3 +1,10 @@
+---
+topic_id: 8651
+title: "How To Getijktorasdirections From A Volume Node"
+date: 2019-10-02
+url: https://discourse.slicer.org/t/8651
+---
+
 # How to GetIJKToRASDirections from a volume node
 
 **Topic ID**: 8651

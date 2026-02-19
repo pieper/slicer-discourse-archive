@@ -1,3 +1,10 @@
+---
+topic_id: 28173
+title: "Organization Name And Domain Changed From Na Mic To Slicer"
+date: 2023-03-04
+url: https://discourse.slicer.org/t/28173
+---
+
 # Organization name and domain changed from NA-MIC to Slicer
 
 **Topic ID**: 28173

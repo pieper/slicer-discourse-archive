@@ -1,3 +1,10 @@
+---
+topic_id: 24920
+title: "The Brain I Stripped From T1 Volume Can Render In 3D Window"
+date: 2022-08-25
+url: https://discourse.slicer.org/t/24920
+---
+
 # The brain i stripped from T1 volume can render in 3D window,but can't see any info in 2D window
 
 **Topic ID**: 24920

@@ -1,3 +1,10 @@
+---
+topic_id: 31110
+title: "Aapm Tg 18 Tests Not Rendering Correct Luminance Values"
+date: 2023-08-11
+url: https://discourse.slicer.org/t/31110
+---
+
 # AAPM TG-18 tests not rendering correct luminance values
 
 **Topic ID**: 31110

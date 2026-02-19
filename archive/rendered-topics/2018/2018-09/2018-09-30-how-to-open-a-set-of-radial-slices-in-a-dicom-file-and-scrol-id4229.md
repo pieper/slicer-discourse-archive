@@ -1,3 +1,10 @@
+---
+topic_id: 4229
+title: "How To Open A Set Of Radial Slices In A Dicom File And Scrol"
+date: 2018-09-30
+url: https://discourse.slicer.org/t/4229
+---
+
 # How to open a set of radial slices in a DICOM file and scroll through them
 
 **Topic ID**: 4229

@@ -1,3 +1,10 @@
+---
+topic_id: 19055
+title: "Is There An Event Detecting The Change Of The Time In Time S"
+date: 2021-08-04
+url: https://discourse.slicer.org/t/19055
+---
+
 # Is there an event detecting the change of the time in time sequence browser?
 
 **Topic ID**: 19055

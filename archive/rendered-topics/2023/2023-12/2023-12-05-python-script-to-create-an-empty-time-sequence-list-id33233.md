@@ -1,3 +1,10 @@
+---
+topic_id: 33233
+title: "Python Script To Create An Empty Time Sequence List"
+date: 2023-12-05
+url: https://discourse.slicer.org/t/33233
+---
+
 # Python script to create an empty time sequence list
 
 **Topic ID**: 33233

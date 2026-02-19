@@ -1,3 +1,10 @@
+---
+topic_id: 45371
+title: "There Is An Error When Create A Segment From Numpy Array"
+date: 2025-12-05
+url: https://discourse.slicer.org/t/45371
+---
+
 # There is an error when create a segment from numpy array
 
 **Topic ID**: 45371

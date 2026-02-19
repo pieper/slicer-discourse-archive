@@ -1,3 +1,10 @@
+---
+topic_id: 43638
+title: "Connect Slicer With Blender"
+date: 2025-07-08
+url: https://discourse.slicer.org/t/43638
+---
+
 # Connect slicer with blender
 
 **Topic ID**: 43638

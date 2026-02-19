@@ -1,3 +1,10 @@
+---
+topic_id: 20483
+title: "New Transform Widget For Slicer"
+date: 2021-11-04
+url: https://discourse.slicer.org/t/20483
+---
+
 # New transform widget for Slicer
 
 **Topic ID**: 20483

@@ -1,3 +1,10 @@
+---
+topic_id: 10630
+title: "How To Understand The Slicetoras Matrix"
+date: 2020-03-10
+url: https://discourse.slicer.org/t/10630
+---
+
 # How to understand the SliceToRAS matrix?
 
 **Topic ID**: 10630

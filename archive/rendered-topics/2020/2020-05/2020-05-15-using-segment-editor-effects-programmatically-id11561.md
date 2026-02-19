@@ -1,3 +1,10 @@
+---
+topic_id: 11561
+title: "Using Segment Editor Effects Programmatically"
+date: 2020-05-15
+url: https://discourse.slicer.org/t/11561
+---
+
 # Using Segment Editor effects programmatically
 
 **Topic ID**: 11561

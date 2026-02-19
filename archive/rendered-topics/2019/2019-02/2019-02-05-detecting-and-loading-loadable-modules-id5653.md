@@ -1,3 +1,10 @@
+---
+topic_id: 5653
+title: "Detecting And Loading Loadable Modules"
+date: 2019-02-05
+url: https://discourse.slicer.org/t/5653
+---
+
 # Detecting and loading Loadable modules
 
 **Topic ID**: 5653

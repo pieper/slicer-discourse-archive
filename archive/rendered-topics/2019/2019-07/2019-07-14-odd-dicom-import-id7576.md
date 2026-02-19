@@ -1,3 +1,10 @@
+---
+topic_id: 7576
+title: "Odd Dicom Import"
+date: 2019-07-14
+url: https://discourse.slicer.org/t/7576
+---
+
 # Odd DICOM import
 
 **Topic ID**: 7576

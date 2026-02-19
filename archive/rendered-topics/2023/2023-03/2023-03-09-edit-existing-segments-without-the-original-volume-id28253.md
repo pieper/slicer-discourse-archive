@@ -1,3 +1,10 @@
+---
+topic_id: 28253
+title: "Edit Existing Segments Without The Original Volume"
+date: 2023-03-09
+url: https://discourse.slicer.org/t/28253
+---
+
 # Edit existing segments without the original volume
 
 **Topic ID**: 28253

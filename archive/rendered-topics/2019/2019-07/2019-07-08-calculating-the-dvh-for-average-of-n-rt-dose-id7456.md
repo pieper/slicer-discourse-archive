@@ -1,3 +1,10 @@
+---
+topic_id: 7456
+title: "Calculating The Dvh For Average Of N Rt Dose"
+date: 2019-07-08
+url: https://discourse.slicer.org/t/7456
+---
+
 # Calculating the DVH for average of n RT Dose
 
 **Topic ID**: 7456

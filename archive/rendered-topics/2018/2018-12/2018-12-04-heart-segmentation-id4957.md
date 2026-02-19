@@ -1,3 +1,10 @@
+---
+topic_id: 4957
+title: "Heart Segmentation"
+date: 2018-12-04
+url: https://discourse.slicer.org/t/4957
+---
+
 # Heart segmentation
 
 **Topic ID**: 4957

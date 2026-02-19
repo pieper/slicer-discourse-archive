@@ -1,3 +1,10 @@
+---
+topic_id: 2633
+title: "How To Remove An Organ Hands Or Foot In Dicom Image Of Phant"
+date: 2018-04-19
+url: https://discourse.slicer.org/t/2633
+---
+
 # How to remove an organ (Hands or foot) in DICOM Image of Phantom with 3D Slicer
 
 **Topic ID**: 2633

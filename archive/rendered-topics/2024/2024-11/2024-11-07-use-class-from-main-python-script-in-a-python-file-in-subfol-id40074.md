@@ -1,3 +1,10 @@
+---
+topic_id: 40074
+title: "Use Class From Main Python Script In A Python File In Subfol"
+date: 2024-11-07
+url: https://discourse.slicer.org/t/40074
+---
+
 # Use Class from Main Python Script in a python file in subfolder
 
 **Topic ID**: 40074

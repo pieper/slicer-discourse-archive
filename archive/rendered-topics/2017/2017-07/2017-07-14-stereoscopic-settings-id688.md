@@ -1,3 +1,10 @@
+---
+topic_id: 688
+title: "Stereoscopic Settings"
+date: 2017-07-14
+url: https://discourse.slicer.org/t/688
+---
+
 # Stereoscopic settings
 
 **Topic ID**: 688

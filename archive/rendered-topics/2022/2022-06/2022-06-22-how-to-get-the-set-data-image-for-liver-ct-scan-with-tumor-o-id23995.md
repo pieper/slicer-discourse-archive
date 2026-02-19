@@ -1,3 +1,10 @@
+---
+topic_id: 23995
+title: "How To Get The Set Data Image For Liver Ct Scan With Tumor O"
+date: 2022-06-22
+url: https://discourse.slicer.org/t/23995
+---
+
 # How to get the set data image for liver ct scan (with tumor on it)
 
 **Topic ID**: 23995

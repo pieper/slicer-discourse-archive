@@ -1,3 +1,10 @@
+---
+topic_id: 8922
+title: "How Does Dicompyler Overlay The Rtdose And Image Data In The"
+date: 2019-10-28
+url: https://discourse.slicer.org/t/8922
+---
+
 # How does dicompyler overlay the RTDOSE and Image data in the correct position?
 
 **Topic ID**: 8922

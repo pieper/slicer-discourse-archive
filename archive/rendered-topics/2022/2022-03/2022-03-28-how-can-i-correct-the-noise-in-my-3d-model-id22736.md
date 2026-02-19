@@ -1,3 +1,10 @@
+---
+topic_id: 22736
+title: "How Can I Correct The Noise In My 3D Model"
+date: 2022-03-28
+url: https://discourse.slicer.org/t/22736
+---
+
 # How can I correct the noise in my 3d model?
 
 **Topic ID**: 22736

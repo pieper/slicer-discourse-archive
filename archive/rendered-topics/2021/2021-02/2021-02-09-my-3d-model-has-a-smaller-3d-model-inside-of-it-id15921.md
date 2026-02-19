@@ -1,3 +1,10 @@
+---
+topic_id: 15921
+title: "My 3D Model Has A Smaller 3D Model Inside Of It"
+date: 2021-02-09
+url: https://discourse.slicer.org/t/15921
+---
+
 # My 3D model has a smaller 3D model inside of it???
 
 **Topic ID**: 15921

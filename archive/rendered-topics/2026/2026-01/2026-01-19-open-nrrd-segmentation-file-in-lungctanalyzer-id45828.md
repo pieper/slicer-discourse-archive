@@ -1,3 +1,10 @@
+---
+topic_id: 45828
+title: "Open Nrrd Segmentation File In Lungctanalyzer"
+date: 2026-01-19
+url: https://discourse.slicer.org/t/45828
+---
+
 # open nrrd segmentation file in lungctanalyzer
 
 **Topic ID**: 45828

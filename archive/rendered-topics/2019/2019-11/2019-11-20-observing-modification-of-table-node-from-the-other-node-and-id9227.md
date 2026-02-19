@@ -1,3 +1,10 @@
+---
+topic_id: 9227
+title: "Observing Modification Of Table Node From The Other Node And"
+date: 2019-11-20
+url: https://discourse.slicer.org/t/9227
+---
+
 # Observing modification of table node from the other node and logic
 
 **Topic ID**: 9227

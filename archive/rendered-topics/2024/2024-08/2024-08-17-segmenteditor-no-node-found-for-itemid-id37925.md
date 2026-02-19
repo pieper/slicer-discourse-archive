@@ -1,3 +1,10 @@
+---
+topic_id: 37925
+title: "Segmenteditor No Node Found For Itemid"
+date: 2024-08-17
+url: https://discourse.slicer.org/t/37925
+---
+
 # SegmentEditor: No node found for itemID
 
 **Topic ID**: 37925

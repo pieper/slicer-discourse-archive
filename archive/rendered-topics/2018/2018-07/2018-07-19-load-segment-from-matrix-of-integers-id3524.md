@@ -1,3 +1,10 @@
+---
+topic_id: 3524
+title: "Load Segment From Matrix Of Integers"
+date: 2018-07-19
+url: https://discourse.slicer.org/t/3524
+---
+
 # Load segment from matrix of integers
 
 **Topic ID**: 3524

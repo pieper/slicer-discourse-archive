@@ -1,3 +1,10 @@
+---
+topic_id: 23107
+title: "Color And Opacity Rendered Volumes"
+date: 2022-04-24
+url: https://discourse.slicer.org/t/23107
+---
+
 # Color and opacity rendered volumes
 
 **Topic ID**: 23107

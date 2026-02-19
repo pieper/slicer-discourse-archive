@@ -1,3 +1,10 @@
+---
+topic_id: 15142
+title: "Build Error Centos 7 Undefined Reference To Pthread"
+date: 2020-12-19
+url: https://discourse.slicer.org/t/15142
+---
+
 # [Build Error] [CentOS 7] undefined reference to pthread_*
 
 **Topic ID**: 15142

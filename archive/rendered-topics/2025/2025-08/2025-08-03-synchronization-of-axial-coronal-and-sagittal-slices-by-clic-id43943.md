@@ -1,3 +1,10 @@
+---
+topic_id: 43943
+title: "Synchronization Of Axial Coronal And Sagittal Slices By Clic"
+date: 2025-08-03
+url: https://discourse.slicer.org/t/43943
+---
+
 # Synchronization of Axial, Coronal, and Sagittal slices by clicking on a pixel from one of the views
 
 **Topic ID**: 43943

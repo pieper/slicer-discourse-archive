@@ -1,3 +1,10 @@
+---
+topic_id: 12294
+title: "Retain Image Color In Volume Rendering"
+date: 2020-06-30
+url: https://discourse.slicer.org/t/12294
+---
+
 # Retain Image Color in Volume Rendering
 
 **Topic ID**: 12294

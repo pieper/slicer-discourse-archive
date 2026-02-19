@@ -1,3 +1,10 @@
+---
+topic_id: 34992
+title: "Deforming With Niftyreg Is Different Than Deforming In Slice"
+date: 2024-03-20
+url: https://discourse.slicer.org/t/34992
+---
+
 # Deforming with NiftyReg is different than deforming in Slicer
 
 **Topic ID**: 34992

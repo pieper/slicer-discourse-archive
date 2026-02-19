@@ -1,3 +1,10 @@
+---
+topic_id: 1319
+title: "Error With Converting Ras To Ijk Coordinates"
+date: 2017-10-30
+url: https://discourse.slicer.org/t/1319
+---
+
 # Error With Converting RAS to IJK coordinates
 
 **Topic ID**: 1319

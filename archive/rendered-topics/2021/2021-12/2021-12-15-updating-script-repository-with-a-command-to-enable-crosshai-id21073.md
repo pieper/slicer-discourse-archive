@@ -1,3 +1,10 @@
+---
+topic_id: 21073
+title: "Updating Script Repository With A Command To Enable Crosshai"
+date: 2021-12-15
+url: https://discourse.slicer.org/t/21073
+---
+
 # Updating script repository with a command to enable crosshair visibility
 
 **Topic ID**: 21073

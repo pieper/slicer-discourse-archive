@@ -1,3 +1,10 @@
+---
+topic_id: 9129
+title: "Label Map To Model Export Issue"
+date: 2019-11-13
+url: https://discourse.slicer.org/t/9129
+---
+
 # Label Map to Model-Export issue
 
 **Topic ID**: 9129

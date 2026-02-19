@@ -1,3 +1,10 @@
+---
+topic_id: 24649
+title: "Best Easiest Web Service To Run 3D Slicer"
+date: 2022-08-05
+url: https://discourse.slicer.org/t/24649
+---
+
 # Best & easiest web service to run 3d slicer.
 
 **Topic ID**: 24649

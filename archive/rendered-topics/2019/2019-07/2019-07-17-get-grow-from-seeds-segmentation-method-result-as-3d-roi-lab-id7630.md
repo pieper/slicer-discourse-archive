@@ -1,3 +1,10 @@
+---
+topic_id: 7630
+title: "Get Grow From Seeds Segmentation Method Result As 3D Roi Lab"
+date: 2019-07-17
+url: https://discourse.slicer.org/t/7630
+---
+
 # Get grow from seeds segmentation method result as "3D ROI label" (segmentation-label.nrrd)
 
 **Topic ID**: 7630

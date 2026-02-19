@@ -1,3 +1,10 @@
+---
+topic_id: 15237
+title: "Intra Operative Mri Geometry Distortion Correction"
+date: 2020-12-27
+url: https://discourse.slicer.org/t/15237
+---
+
 # Intra-operative MRI geometry distortion correction
 
 **Topic ID**: 15237

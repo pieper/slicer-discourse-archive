@@ -1,3 +1,10 @@
+---
+topic_id: 21795
+title: "How To Save Thinplatesplinetransform From Igt Fiducial Regis"
+date: 2022-02-04
+url: https://discourse.slicer.org/t/21795
+---
+
 # How to save ThinPlateSplineTransform (from IGT Fiducial registration) as a deformation field?
 
 **Topic ID**: 21795

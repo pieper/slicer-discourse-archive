@@ -1,3 +1,10 @@
+---
+topic_id: 18436
+title: "Converting Pathological Results To 3D"
+date: 2021-06-30
+url: https://discourse.slicer.org/t/18436
+---
+
 # Converting Pathological Results to 3D
 
 **Topic ID**: 18436

@@ -1,3 +1,10 @@
+---
+topic_id: 1110
+title: "My Plug In Load Failed"
+date: 2017-09-24
+url: https://discourse.slicer.org/t/1110
+---
+
 # My Plug-in load failed
 
 **Topic ID**: 1110

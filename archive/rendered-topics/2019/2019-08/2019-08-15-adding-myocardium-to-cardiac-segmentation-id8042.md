@@ -1,3 +1,10 @@
+---
+topic_id: 8042
+title: "Adding Myocardium To Cardiac Segmentation"
+date: 2019-08-15
+url: https://discourse.slicer.org/t/8042
+---
+
 # Adding myocardium to cardiac segmentation
 
 **Topic ID**: 8042

@@ -1,3 +1,10 @@
+---
+topic_id: 25519
+title: "Transform Model Segments"
+date: 2022-10-03
+url: https://discourse.slicer.org/t/25519
+---
+
 # Transform model / segments
 
 **Topic ID**: 25519

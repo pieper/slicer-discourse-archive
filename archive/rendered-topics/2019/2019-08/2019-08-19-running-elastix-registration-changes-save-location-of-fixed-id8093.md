@@ -1,3 +1,10 @@
+---
+topic_id: 8093
+title: "Running Elastix Registration Changes Save Location Of Fixed"
+date: 2019-08-19
+url: https://discourse.slicer.org/t/8093
+---
+
 # Running Elastix registration changes save location of "fixed" and "moving" volumes
 
 **Topic ID**: 8093

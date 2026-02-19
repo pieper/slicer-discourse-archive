@@ -1,3 +1,10 @@
+---
+topic_id: 35254
+title: "Blood Vessel Stl Model Shows Error When I Used Mesh In Ansys"
+date: 2024-04-03
+url: https://discourse.slicer.org/t/35254
+---
+
 # Blood Vessel stl. model shows error when I used mesh in Ansys Fluent
 
 **Topic ID**: 35254

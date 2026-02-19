@@ -1,3 +1,10 @@
+---
+topic_id: 13645
+title: "Registration And Contour Comparison"
+date: 2020-09-23
+url: https://discourse.slicer.org/t/13645
+---
+
 # Registration and contour comparison
 
 **Topic ID**: 13645

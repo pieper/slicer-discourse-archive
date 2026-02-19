@@ -1,3 +1,10 @@
+---
+topic_id: 24623
+title: "Inconsistent Handling Of Multiprocessing By Slicer"
+date: 2022-08-03
+url: https://discourse.slicer.org/t/24623
+---
+
 # Inconsistent handling of multiprocessing by slicer
 
 **Topic ID**: 24623

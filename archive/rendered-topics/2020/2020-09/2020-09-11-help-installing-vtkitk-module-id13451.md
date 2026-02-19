@@ -1,3 +1,10 @@
+---
+topic_id: 13451
+title: "Help Installing Vtkitk Module"
+date: 2020-09-11
+url: https://discourse.slicer.org/t/13451
+---
+
 # Help Installing vtkITK module
 
 **Topic ID**: 13451

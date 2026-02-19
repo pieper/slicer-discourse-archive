@@ -1,3 +1,10 @@
+---
+topic_id: 7212
+title: "Visualization Of Mri S Of The Lumbar And Sacral Vertebra"
+date: 2019-06-18
+url: https://discourse.slicer.org/t/7212
+---
+
 # Visualization of MRI’s of the lumbar and sacral vertebra
 
 **Topic ID**: 7212

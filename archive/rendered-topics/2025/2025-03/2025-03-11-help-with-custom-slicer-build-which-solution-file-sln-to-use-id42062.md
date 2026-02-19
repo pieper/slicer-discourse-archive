@@ -1,3 +1,10 @@
+---
+topic_id: 42062
+title: "Help With Custom Slicer Build Which Solution File Sln To Use"
+date: 2025-03-11
+url: https://discourse.slicer.org/t/42062
+---
+
 # Help with Custom Slicer Build – Which Solution File (.sln) to Use in Visual Studio?
 
 **Topic ID**: 42062

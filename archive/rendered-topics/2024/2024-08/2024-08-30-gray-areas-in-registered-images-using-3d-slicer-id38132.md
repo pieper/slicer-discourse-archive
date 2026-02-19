@@ -1,3 +1,10 @@
+---
+topic_id: 38132
+title: "Gray Areas In Registered Images Using 3D Slicer"
+date: 2024-08-30
+url: https://discourse.slicer.org/t/38132
+---
+
 # Gray areas in registered images using 3D Slicer
 
 **Topic ID**: 38132

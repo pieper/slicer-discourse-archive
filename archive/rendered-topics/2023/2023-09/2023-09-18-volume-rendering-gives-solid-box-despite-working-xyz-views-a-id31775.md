@@ -1,3 +1,10 @@
+---
+topic_id: 31775
+title: "Volume Rendering Gives Solid Box Despite Working Xyz Views A"
+date: 2023-09-18
+url: https://discourse.slicer.org/t/31775
+---
+
 # Volume rendering gives solid box despite working XYZ views and adjusting preset/shift
 
 **Topic ID**: 31775

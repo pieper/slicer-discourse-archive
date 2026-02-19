@@ -1,3 +1,10 @@
+---
+topic_id: 27377
+title: "Quantitative Analysis Of Deviation With Superimposed Dental"
+date: 2023-01-20
+url: https://discourse.slicer.org/t/27377
+---
+
 # Quantitative analysis of deviation with superimposed dental arches
 
 **Topic ID**: 27377

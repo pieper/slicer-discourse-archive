@@ -1,3 +1,10 @@
+---
+topic_id: 29917
+title: "Possible Memory Leak Segmentation Editor And Show In 3D"
+date: 2023-06-08
+url: https://discourse.slicer.org/t/29917
+---
+
 # Possible Memory Leak - Segmentation Editor and Show in 3D
 
 **Topic ID**: 29917

@@ -1,3 +1,10 @@
+---
+topic_id: 13396
+title: "Problem With Segment Editor"
+date: 2020-09-09
+url: https://discourse.slicer.org/t/13396
+---
+
 # Problem with Segment Editor
 
 **Topic ID**: 13396

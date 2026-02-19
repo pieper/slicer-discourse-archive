@@ -1,3 +1,10 @@
+---
+topic_id: 19049
+title: "Separating Cortical And Trabecular Region Of Talus Bone"
+date: 2021-08-04
+url: https://discourse.slicer.org/t/19049
+---
+
 # Separating Cortical and trabecular region of Talus bone
 
 **Topic ID**: 19049

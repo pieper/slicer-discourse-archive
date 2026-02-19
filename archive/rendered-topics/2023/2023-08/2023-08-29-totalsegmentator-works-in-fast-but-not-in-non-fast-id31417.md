@@ -1,3 +1,10 @@
+---
+topic_id: 31417
+title: "Totalsegmentator Works In Fast But Not In Non Fast"
+date: 2023-08-29
+url: https://discourse.slicer.org/t/31417
+---
+
 # Totalsegmentator works in fast but not in non-fast
 
 **Topic ID**: 31417

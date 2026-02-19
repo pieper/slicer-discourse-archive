@@ -1,3 +1,10 @@
+---
+topic_id: 20629
+title: "How To Debug Memory Leaks In Scripted Modules"
+date: 2021-11-15
+url: https://discourse.slicer.org/t/20629
+---
+
 # How to debug memory leaks in scripted modules
 
 **Topic ID**: 20629

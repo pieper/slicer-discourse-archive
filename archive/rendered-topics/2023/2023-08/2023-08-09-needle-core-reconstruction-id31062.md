@@ -1,3 +1,10 @@
+---
+topic_id: 31062
+title: "Needle Core Reconstruction"
+date: 2023-08-09
+url: https://discourse.slicer.org/t/31062
+---
+
 # Needle Core Reconstruction
 
 **Topic ID**: 31062

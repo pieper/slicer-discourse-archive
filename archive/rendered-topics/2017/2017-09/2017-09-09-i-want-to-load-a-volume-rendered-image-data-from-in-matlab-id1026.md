@@ -1,3 +1,10 @@
+---
+topic_id: 1026
+title: "I Want To Load A Volume Rendered Image Data From In Matlab"
+date: 2017-09-09
+url: https://discourse.slicer.org/t/1026
+---
+
 # I want to load a volume rendered image data from in matlab
 
 **Topic ID**: 1026

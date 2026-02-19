@@ -1,3 +1,10 @@
+---
+topic_id: 41448
+title: "Error Loading Project Files With Missing Nrrd Files"
+date: 2025-02-02
+url: https://discourse.slicer.org/t/41448
+---
+
 # Error Loading Project Files with Missing .NRRD Files
 
 **Topic ID**: 41448

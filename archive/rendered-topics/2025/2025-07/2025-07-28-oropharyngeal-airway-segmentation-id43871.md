@@ -1,3 +1,10 @@
+---
+topic_id: 43871
+title: "Oropharyngeal Airway Segmentation"
+date: 2025-07-28
+url: https://discourse.slicer.org/t/43871
+---
+
 # Oropharyngeal airway segmentation
 
 **Topic ID**: 43871

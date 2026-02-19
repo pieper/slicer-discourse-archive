@@ -1,3 +1,10 @@
+---
+topic_id: 44247
+title: "Annoying Frame After Slice View On 3D"
+date: 2025-08-29
+url: https://discourse.slicer.org/t/44247
+---
+
 # Annoying frame after slice view on 3d
 
 **Topic ID**: 44247

@@ -1,3 +1,10 @@
+---
+topic_id: 34126
+title: "Importing Unstructured Point Cloud Data From Filesystem"
+date: 2024-02-02
+url: https://discourse.slicer.org/t/34126
+---
+
 # Importing unstructured point cloud data from filesystem
 
 **Topic ID**: 34126

@@ -1,3 +1,10 @@
+---
+topic_id: 6429
+title: "Non Orthogonal Slices"
+date: 2019-04-08
+url: https://discourse.slicer.org/t/6429
+---
+
 # Non orthogonal slices
 
 **Topic ID**: 6429

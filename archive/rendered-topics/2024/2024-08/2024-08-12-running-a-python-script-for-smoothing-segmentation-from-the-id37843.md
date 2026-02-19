@@ -1,3 +1,10 @@
+---
+topic_id: 37843
+title: "Running A Python Script For Smoothing Segmentation From The"
+date: 2024-08-12
+url: https://discourse.slicer.org/t/37843
+---
+
 # Running a Python script for smoothing segmentation from the terminal
 
 **Topic ID**: 37843

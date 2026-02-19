@@ -1,3 +1,10 @@
+---
+topic_id: 4437
+title: "Python Called From Subprocess Is Unable To Import Simpleitk"
+date: 2018-10-17
+url: https://discourse.slicer.org/t/4437
+---
+
 # Python -called from subprocess- is unable to import SimpleITK
 
 **Topic ID**: 4437

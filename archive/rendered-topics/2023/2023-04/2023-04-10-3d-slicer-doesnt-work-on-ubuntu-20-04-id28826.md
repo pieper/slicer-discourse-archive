@@ -1,3 +1,10 @@
+---
+topic_id: 28826
+title: "3D Slicer Doesnt Work On Ubuntu 20 04"
+date: 2023-04-10
+url: https://discourse.slicer.org/t/28826
+---
+
 # 3D slicer doesn't work on ubuntu 20.04
 
 **Topic ID**: 28826

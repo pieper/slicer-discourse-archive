@@ -1,3 +1,10 @@
+---
+topic_id: 26201
+title: "Slicer Crashes When Cropping And Segment Editing A Micro Ct"
+date: 2022-11-11
+url: https://discourse.slicer.org/t/26201
+---
+
 # Slicer crashes when cropping and segment editing a micro-CT image
 
 **Topic ID**: 26201

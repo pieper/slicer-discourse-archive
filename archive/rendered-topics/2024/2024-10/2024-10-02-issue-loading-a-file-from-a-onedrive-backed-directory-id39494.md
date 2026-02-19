@@ -1,3 +1,10 @@
+---
+topic_id: 39494
+title: "Issue Loading A File From A Onedrive Backed Directory"
+date: 2024-10-02
+url: https://discourse.slicer.org/t/39494
+---
+
 # Issue loading a file from a onedrive backed directory
 
 **Topic ID**: 39494

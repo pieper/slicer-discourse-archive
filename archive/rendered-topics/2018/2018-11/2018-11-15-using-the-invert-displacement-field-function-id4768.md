@@ -1,3 +1,10 @@
+---
+topic_id: 4768
+title: "Using The Invert Displacement Field Function"
+date: 2018-11-15
+url: https://discourse.slicer.org/t/4768
+---
+
 # Using the invert displacement field function
 
 **Topic ID**: 4768

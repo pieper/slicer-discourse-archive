@@ -1,3 +1,10 @@
+---
+topic_id: 14573
+title: "Exporting Matlab Data For Gel Dosimetry"
+date: 2020-11-12
+url: https://discourse.slicer.org/t/14573
+---
+
 # Exporting MATLAB data for gel dosimetry
 
 **Topic ID**: 14573

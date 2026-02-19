@@ -1,3 +1,10 @@
+---
+topic_id: 29240
+title: "Issue With Hardentransform"
+date: 2023-05-02
+url: https://discourse.slicer.org/t/29240
+---
+
 # Issue with HardenTransform
 
 **Topic ID**: 29240

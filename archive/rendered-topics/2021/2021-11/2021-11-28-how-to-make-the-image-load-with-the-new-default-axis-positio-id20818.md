@@ -1,3 +1,10 @@
+---
+topic_id: 20818
+title: "How To Make The Image Load With The New Default Axis Positio"
+date: 2021-11-28
+url: https://discourse.slicer.org/t/20818
+---
+
 # How to make the image load with the new default axis position
 
 **Topic ID**: 20818

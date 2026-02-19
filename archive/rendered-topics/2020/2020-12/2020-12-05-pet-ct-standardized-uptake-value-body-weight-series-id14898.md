@@ -1,3 +1,10 @@
+---
+topic_id: 14898
+title: "Pet Ct Standardized Uptake Value Body Weight Series"
+date: 2020-12-05
+url: https://discourse.slicer.org/t/14898
+---
+
 # PET/CT Standardized_uptake_value_body_weight series
 
 **Topic ID**: 14898

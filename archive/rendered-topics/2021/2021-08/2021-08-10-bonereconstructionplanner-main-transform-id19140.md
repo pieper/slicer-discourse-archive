@@ -1,3 +1,10 @@
+---
+topic_id: 19140
+title: "Bonereconstructionplanner Main Transform"
+date: 2021-08-10
+url: https://discourse.slicer.org/t/19140
+---
+
 # BoneReconstructionPlanner main transform
 
 **Topic ID**: 19140

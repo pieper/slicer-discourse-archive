@@ -1,3 +1,10 @@
+---
+topic_id: 8064
+title: "Get Relative Translation And Rotation Of Two Models"
+date: 2019-08-16
+url: https://discourse.slicer.org/t/8064
+---
+
 # Get relative translation and rotation of two models
 
 **Topic ID**: 8064

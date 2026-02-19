@@ -1,3 +1,10 @@
+---
+topic_id: 32682
+title: "Custom Application Launcher With Modules"
+date: 2023-11-09
+url: https://discourse.slicer.org/t/32682
+---
+
 # Custom application launcher with modules
 
 **Topic ID**: 32682

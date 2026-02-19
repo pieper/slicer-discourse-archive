@@ -1,3 +1,10 @@
+---
+topic_id: 19233
+title: "Finding The Displacement Of A Bone Between Neutral And Condi"
+date: 2021-08-17
+url: https://discourse.slicer.org/t/19233
+---
+
 # Finding the displacement of a bone between neutral and condition
 
 **Topic ID**: 19233

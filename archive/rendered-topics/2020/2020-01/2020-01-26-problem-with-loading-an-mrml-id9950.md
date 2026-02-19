@@ -1,3 +1,10 @@
+---
+topic_id: 9950
+title: "Problem With Loading An Mrml"
+date: 2020-01-26
+url: https://discourse.slicer.org/t/9950
+---
+
 # Problem with loading an mrml
 
 **Topic ID**: 9950

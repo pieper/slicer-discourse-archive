@@ -1,3 +1,10 @@
+---
+topic_id: 2571
+title: "Cerebral Vessel Segmentation"
+date: 2018-04-12
+url: https://discourse.slicer.org/t/2571
+---
+
 # Cerebral vessel segmentation
 
 **Topic ID**: 2571

@@ -1,3 +1,10 @@
+---
+topic_id: 8812
+title: "Creating Single Nrrd File"
+date: 2019-10-17
+url: https://discourse.slicer.org/t/8812
+---
+
 # creating single nrrd file
 
 **Topic ID**: 8812

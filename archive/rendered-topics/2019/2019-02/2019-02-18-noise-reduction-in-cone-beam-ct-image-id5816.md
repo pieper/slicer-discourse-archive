@@ -1,3 +1,10 @@
+---
+topic_id: 5816
+title: "Noise Reduction In Cone Beam Ct Image"
+date: 2019-02-18
+url: https://discourse.slicer.org/t/5816
+---
+
 # Noise reduction in cone-beam CT image
 
 **Topic ID**: 5816

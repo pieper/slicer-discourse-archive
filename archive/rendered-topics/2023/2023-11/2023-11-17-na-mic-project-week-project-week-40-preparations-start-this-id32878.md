@@ -1,3 +1,10 @@
+---
+topic_id: 32878
+title: "Na Mic Project Week Project Week 40 Preparations Start This"
+date: 2023-11-17
+url: https://discourse.slicer.org/t/32878
+---
+
 # [Na-mic-project-week] Project Week 40 preparations start this Tuesday (Nov 21st)!
 
 **Topic ID**: 32878

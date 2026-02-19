@@ -1,3 +1,10 @@
+---
+topic_id: 41392
+title: "Opendose3D Dicomerror Attribute Acquisition Is Empty Siemens"
+date: 2025-01-31
+url: https://discourse.slicer.org/t/41392
+---
+
 # OpenDose3D: DICOMError - Attribute 'acquisition' is empty (Siemens SPECT-CT)
 
 **Topic ID**: 41392

@@ -1,3 +1,10 @@
+---
+topic_id: 25936
+title: "Vtk Code Location"
+date: 2022-10-27
+url: https://discourse.slicer.org/t/25936
+---
+
 # Vtk code location
 
 **Topic ID**: 25936

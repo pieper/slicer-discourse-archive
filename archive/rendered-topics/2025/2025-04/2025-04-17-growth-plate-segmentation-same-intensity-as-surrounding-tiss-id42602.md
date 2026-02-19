@@ -1,3 +1,10 @@
+---
+topic_id: 42602
+title: "Growth Plate Segmentation Same Intensity As Surrounding Tiss"
+date: 2025-04-17
+url: https://discourse.slicer.org/t/42602
+---
+
 # Growth plate segmentation - same intensity as surrounding tissues
 
 **Topic ID**: 42602

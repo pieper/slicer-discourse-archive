@@ -1,3 +1,10 @@
+---
+topic_id: 37879
+title: "Install Error With Dentalsegmentator Returned Non Zero Exit"
+date: 2024-08-14
+url: https://discourse.slicer.org/t/37879
+---
+
 # Install error with dentalsegmentator (returned non-zero exit status 1)
 
 **Topic ID**: 37879

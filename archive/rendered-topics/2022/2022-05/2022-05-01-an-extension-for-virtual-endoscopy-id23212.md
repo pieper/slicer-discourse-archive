@@ -1,3 +1,10 @@
+---
+topic_id: 23212
+title: "An Extension For Virtual Endoscopy"
+date: 2022-05-01
+url: https://discourse.slicer.org/t/23212
+---
+
 # An extension for virtual endoscopy
 
 **Topic ID**: 23212

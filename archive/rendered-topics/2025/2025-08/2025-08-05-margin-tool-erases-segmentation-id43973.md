@@ -1,3 +1,10 @@
+---
+topic_id: 43973
+title: "Margin Tool Erases Segmentation"
+date: 2025-08-05
+url: https://discourse.slicer.org/t/43973
+---
+
 # Margin Tool Erases Segmentation
 
 **Topic ID**: 43973

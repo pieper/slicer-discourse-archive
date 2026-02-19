@@ -1,3 +1,10 @@
+---
+topic_id: 11990
+title: "Best Way To Delete Nodes"
+date: 2020-06-11
+url: https://discourse.slicer.org/t/11990
+---
+
 # Best way to delete nodes
 
 **Topic ID**: 11990

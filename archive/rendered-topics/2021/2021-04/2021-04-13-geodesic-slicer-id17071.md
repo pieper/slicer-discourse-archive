@@ -1,3 +1,10 @@
+---
+topic_id: 17071
+title: "Geodesic Slicer"
+date: 2021-04-13
+url: https://discourse.slicer.org/t/17071
+---
+
 # Geodesic Slicer
 
 **Topic ID**: 17071

@@ -1,3 +1,10 @@
+---
+topic_id: 28522
+title: "Monailabel Module Should Allow User To Select Different Volu"
+date: 2023-03-22
+url: https://discourse.slicer.org/t/28522
+---
+
 # MONAILabel module should allow user to select different volumes in current scene
 
 **Topic ID**: 28522

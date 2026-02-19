@@ -1,3 +1,10 @@
+---
+topic_id: 31603
+title: "Problem With General Registration Elastix"
+date: 2023-09-07
+url: https://discourse.slicer.org/t/31603
+---
+
 # Problem with General Registration (Elastix)
 
 **Topic ID**: 31603

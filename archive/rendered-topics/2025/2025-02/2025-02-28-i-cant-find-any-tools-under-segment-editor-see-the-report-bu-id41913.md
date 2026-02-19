@@ -1,3 +1,10 @@
+---
+topic_id: 41913
+title: "I Cant Find Any Tools Under Segment Editor See The Report Bu"
+date: 2025-02-28
+url: https://discourse.slicer.org/t/41913
+---
+
 # I can't find any tools under segment editor. See the report bug below
 
 **Topic ID**: 41913

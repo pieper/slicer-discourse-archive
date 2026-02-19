@@ -1,3 +1,10 @@
+---
+topic_id: 2124
+title: "Ukf Tractography Vtkextractselectedpolydata Error"
+date: 2018-02-20
+url: https://discourse.slicer.org/t/2124
+---
+
 # UKF_tractography_vtkExtractSelectedPolyData error
 
 **Topic ID**: 2124

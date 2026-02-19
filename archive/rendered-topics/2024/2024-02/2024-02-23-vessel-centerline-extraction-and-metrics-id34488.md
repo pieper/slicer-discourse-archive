@@ -1,3 +1,10 @@
+---
+topic_id: 34488
+title: "Vessel Centerline Extraction And Metrics"
+date: 2024-02-23
+url: https://discourse.slicer.org/t/34488
+---
+
 # Vessel centerline extraction and metrics
 
 **Topic ID**: 34488

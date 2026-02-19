@@ -1,3 +1,10 @@
+---
+topic_id: 21100
+title: "Best Way To Record A Video Of Live Use Of Slicer"
+date: 2021-12-16
+url: https://discourse.slicer.org/t/21100
+---
+
 # Best way to record a video of live use of Slicer
 
 **Topic ID**: 21100

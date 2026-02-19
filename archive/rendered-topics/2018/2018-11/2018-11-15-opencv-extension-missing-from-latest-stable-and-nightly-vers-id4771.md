@@ -1,3 +1,10 @@
+---
+topic_id: 4771
+title: "Opencv Extension Missing From Latest Stable And Nightly Vers"
+date: 2018-11-15
+url: https://discourse.slicer.org/t/4771
+---
+
 # OpenCV extension missing from latest stable and nightly versions
 
 **Topic ID**: 4771

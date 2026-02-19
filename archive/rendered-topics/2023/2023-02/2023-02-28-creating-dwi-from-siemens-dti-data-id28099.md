@@ -1,3 +1,10 @@
+---
+topic_id: 28099
+title: "Creating Dwi From Siemens Dti Data"
+date: 2023-02-28
+url: https://discourse.slicer.org/t/28099
+---
+
 # Creating DWI from siemens DTI data
 
 **Topic ID**: 28099

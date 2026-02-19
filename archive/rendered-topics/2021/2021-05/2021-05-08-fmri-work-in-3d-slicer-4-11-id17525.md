@@ -1,3 +1,10 @@
+---
+topic_id: 17525
+title: "Fmri Work In 3D Slicer 4 11"
+date: 2021-05-08
+url: https://discourse.slicer.org/t/17525
+---
+
 # fMRI work in 3D Slicer 4.11
 
 **Topic ID**: 17525

@@ -1,3 +1,10 @@
+---
+topic_id: 6981
+title: "Export Description From 3D Data"
+date: 2019-05-31
+url: https://discourse.slicer.org/t/6981
+---
+
 # Export description from 3d data
 
 **Topic ID**: 6981

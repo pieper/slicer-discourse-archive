@@ -1,3 +1,10 @@
+---
+topic_id: 20399
+title: "Mean Radius Per Branch Plot Radius Along Branch"
+date: 2021-10-28
+url: https://discourse.slicer.org/t/20399
+---
+
 # Mean radius per branch + plot radius along branch
 
 **Topic ID**: 20399

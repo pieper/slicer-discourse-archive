@@ -1,3 +1,10 @@
+---
+topic_id: 6538
+title: "Models Not Transparent In Slicer 4 10 1"
+date: 2019-04-18
+url: https://discourse.slicer.org/t/6538
+---
+
 # Models not Transparent in Slicer 4.10.1
 
 **Topic ID**: 6538

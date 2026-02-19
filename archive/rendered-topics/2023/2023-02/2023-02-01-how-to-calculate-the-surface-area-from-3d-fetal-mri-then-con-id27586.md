@@ -1,3 +1,10 @@
+---
+topic_id: 27586
+title: "How To Calculate The Surface Area From 3D Fetal Mri Then Con"
+date: 2023-02-01
+url: https://discourse.slicer.org/t/27586
+---
+
 # How to calculate the surface area from 3D fetal MRI, then convert to Python
 
 **Topic ID**: 27586

@@ -1,3 +1,10 @@
+---
+topic_id: 28012
+title: "Crop Volume With Specified Roi E G 5Mm X 5Mm X 5Mm"
+date: 2023-02-23
+url: https://discourse.slicer.org/t/28012
+---
+
 # Crop volume with specified ROI e.g. 5mm x 5mm x 5mm
 
 **Topic ID**: 28012

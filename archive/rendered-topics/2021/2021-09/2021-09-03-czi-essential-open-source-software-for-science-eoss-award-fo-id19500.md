@@ -1,3 +1,10 @@
+---
+topic_id: 19500
+title: "Czi Essential Open Source Software For Science Eoss Award Fo"
+date: 2021-09-03
+url: https://discourse.slicer.org/t/19500
+---
+
 # CZI Essential Open Source Software for Science (EOSS) Award for 3D Slicer Internationalization
 
 **Topic ID**: 19500

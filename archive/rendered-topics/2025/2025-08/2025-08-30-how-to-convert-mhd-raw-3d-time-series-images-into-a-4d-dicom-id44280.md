@@ -1,3 +1,10 @@
+---
+topic_id: 44280
+title: "How To Convert Mhd Raw 3D Time Series Images Into A 4D Dicom"
+date: 2025-08-30
+url: https://discourse.slicer.org/t/44280
+---
+
 # How to Convert .mhd + .raw 3D Time-Series Images into a 4D DICOM in 3D Slicer?
 
 **Topic ID**: 44280

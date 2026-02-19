@@ -1,3 +1,10 @@
+---
+topic_id: 24751
+title: "How To Generate A Surface Mesh From Segmentation"
+date: 2022-08-14
+url: https://discourse.slicer.org/t/24751
+---
+
 # How to generate a surface mesh from segmentation
 
 **Topic ID**: 24751

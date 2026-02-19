@@ -1,3 +1,10 @@
+---
+topic_id: 31073
+title: "Run Totalsegmentator On Multivolume"
+date: 2023-08-03
+url: https://discourse.slicer.org/t/31073
+---
+
 # Run TotalSegmentator on MultiVolume
 
 **Topic ID**: 31073

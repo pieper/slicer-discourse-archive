@@ -1,3 +1,10 @@
+---
+topic_id: 21140
+title: "Antialiasing In In Slice Mpr Views"
+date: 2021-12-20
+url: https://discourse.slicer.org/t/21140
+---
+
 # Antialiasing in in slice (MPR) views
 
 **Topic ID**: 21140

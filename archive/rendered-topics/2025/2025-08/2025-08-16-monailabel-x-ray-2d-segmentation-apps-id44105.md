@@ -1,3 +1,10 @@
+---
+topic_id: 44105
+title: "Monailabel X Ray 2D Segmentation Apps"
+date: 2025-08-16
+url: https://discourse.slicer.org/t/44105
+---
+
 # Monailabel X-ray 2D Segmentation Apps
 
 **Topic ID**: 44105

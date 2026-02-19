@@ -1,3 +1,10 @@
+---
+topic_id: 12575
+title: "Extracting Muscle Cross Sectional Area And Its Centroid Loca"
+date: 2020-07-16
+url: https://discourse.slicer.org/t/12575
+---
+
 # Extracting muscle cross-sectional area and its centroid locatation from MRI/CT scans
 
 **Topic ID**: 12575

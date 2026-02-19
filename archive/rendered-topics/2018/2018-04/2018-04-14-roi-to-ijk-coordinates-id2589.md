@@ -1,3 +1,10 @@
+---
+topic_id: 2589
+title: "Roi To Ijk Coordinates"
+date: 2018-04-14
+url: https://discourse.slicer.org/t/2589
+---
+
 # ROI to IJK coordinates
 
 **Topic ID**: 2589

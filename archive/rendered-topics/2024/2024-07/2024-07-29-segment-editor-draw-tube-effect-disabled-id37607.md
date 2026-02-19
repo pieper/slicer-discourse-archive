@@ -1,3 +1,10 @@
+---
+topic_id: 37607
+title: "Segment Editor Draw Tube Effect Disabled"
+date: 2024-07-29
+url: https://discourse.slicer.org/t/37607
+---
+
 # Segment Editor Draw Tube effect disabled
 
 **Topic ID**: 37607

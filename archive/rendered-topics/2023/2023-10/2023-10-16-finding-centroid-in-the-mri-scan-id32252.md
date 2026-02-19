@@ -1,3 +1,10 @@
+---
+topic_id: 32252
+title: "Finding Centroid In The Mri Scan"
+date: 2023-10-16
+url: https://discourse.slicer.org/t/32252
+---
+
 # Finding centroid in the MRI scan
 
 **Topic ID**: 32252

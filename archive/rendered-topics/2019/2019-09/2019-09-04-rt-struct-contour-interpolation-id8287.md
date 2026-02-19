@@ -1,3 +1,10 @@
+---
+topic_id: 8287
+title: "Rt Struct Contour Interpolation"
+date: 2019-09-04
+url: https://discourse.slicer.org/t/8287
+---
+
 # RT struct contour interpolation
 
 **Topic ID**: 8287

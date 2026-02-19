@@ -1,3 +1,10 @@
+---
+topic_id: 11009
+title: "Coundnt Not Enable Correctmask"
+date: 2020-04-06
+url: https://discourse.slicer.org/t/11009
+---
+
 # Coundn't not enable correctMask
 
 **Topic ID**: 11009

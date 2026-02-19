@@ -1,3 +1,10 @@
+---
+topic_id: 31108
+title: "Error Exporting Images And Structures In Dicom Format"
+date: 2023-08-11
+url: https://discourse.slicer.org/t/31108
+---
+
 # Error exporting Images and Structures in DICOM format
 
 **Topic ID**: 31108

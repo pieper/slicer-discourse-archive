@@ -1,3 +1,10 @@
+---
+topic_id: 17528
+title: "Export What Is Seen In The Viewport As A Png Shot"
+date: 2021-05-08
+url: https://discourse.slicer.org/t/17528
+---
+
 # Export what is seen in the viewport as a PNG shot?
 
 **Topic ID**: 17528

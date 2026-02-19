@@ -1,3 +1,10 @@
+---
+topic_id: 24639
+title: "Terminate Dicomretrieve Move Get Following An Event"
+date: 2022-08-04
+url: https://discourse.slicer.org/t/24639
+---
+
 # Terminate DICOMRetrieve move/get following an event
 
 **Topic ID**: 24639

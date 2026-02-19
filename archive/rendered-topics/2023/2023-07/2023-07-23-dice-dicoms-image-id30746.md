@@ -1,3 +1,10 @@
+---
+topic_id: 30746
+title: "Dice Dicoms Image"
+date: 2023-07-23
+url: https://discourse.slicer.org/t/30746
+---
+
 # Dice dicom's image
 
 **Topic ID**: 30746

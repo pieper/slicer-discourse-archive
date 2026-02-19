@@ -1,3 +1,10 @@
+---
+topic_id: 332
+title: "Problem When Using Split Merge Volume In Editor Module"
+date: 2017-05-17
+url: https://discourse.slicer.org/t/332
+---
+
 # Problem when using "Split Merge Volume" in "Editor" module
 
 **Topic ID**: 332

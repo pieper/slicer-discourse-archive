@@ -1,3 +1,10 @@
+---
+topic_id: 16293
+title: "How To Display All Points In A Centerline Curve At The Same"
+date: 2021-03-01
+url: https://discourse.slicer.org/t/16293
+---
+
 # How to display all points in a centerline curve at the same time in sagittal view? And how to display them?
 
 **Topic ID**: 16293

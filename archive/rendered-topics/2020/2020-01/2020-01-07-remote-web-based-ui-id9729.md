@@ -1,3 +1,10 @@
+---
+topic_id: 9729
+title: "Remote Web Based Ui"
+date: 2020-01-07
+url: https://discourse.slicer.org/t/9729
+---
+
 # Remote web based UI
 
 **Topic ID**: 9729

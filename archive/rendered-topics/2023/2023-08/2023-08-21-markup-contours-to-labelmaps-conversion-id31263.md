@@ -1,3 +1,10 @@
+---
+topic_id: 31263
+title: "Markup Contours To Labelmaps Conversion"
+date: 2023-08-21
+url: https://discourse.slicer.org/t/31263
+---
+
 # Markup contours to labelmaps conversion
 
 **Topic ID**: 31263

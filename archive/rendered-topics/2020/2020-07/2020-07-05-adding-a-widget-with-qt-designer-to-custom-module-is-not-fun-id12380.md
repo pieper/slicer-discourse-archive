@@ -1,3 +1,10 @@
+---
+topic_id: 12380
+title: "Adding A Widget With Qt Designer To Custom Module Is Not Fun"
+date: 2020-07-05
+url: https://discourse.slicer.org/t/12380
+---
+
 # Adding a widget with Qt Designer to custom module is not functional
 
 **Topic ID**: 12380

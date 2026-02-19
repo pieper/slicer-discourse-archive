@@ -1,3 +1,10 @@
+---
+topic_id: 19735
+title: "Vtkm Extension Cannot Place Fiducial"
+date: 2021-09-18
+url: https://discourse.slicer.org/t/19735
+---
+
 # vtkm Extension: Cannot Place Fiducial
 
 **Topic ID**: 19735

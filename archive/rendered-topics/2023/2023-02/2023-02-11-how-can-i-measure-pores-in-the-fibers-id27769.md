@@ -1,3 +1,10 @@
+---
+topic_id: 27769
+title: "How Can I Measure Pores In The Fibers"
+date: 2023-02-11
+url: https://discourse.slicer.org/t/27769
+---
+
 # How Can I measure Pores in the fibers?
 
 **Topic ID**: 27769

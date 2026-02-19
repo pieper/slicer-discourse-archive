@@ -1,3 +1,10 @@
+---
+topic_id: 30810
+title: "Smooth Capping Method In Vmtk"
+date: 2023-07-26
+url: https://discourse.slicer.org/t/30810
+---
+
 # Smooth Capping Method in VMTK
 
 **Topic ID**: 30810

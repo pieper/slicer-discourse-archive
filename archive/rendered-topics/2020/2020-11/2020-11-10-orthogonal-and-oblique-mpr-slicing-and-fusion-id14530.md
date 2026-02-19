@@ -1,3 +1,10 @@
+---
+topic_id: 14530
+title: "Orthogonal And Oblique Mpr Slicing And Fusion"
+date: 2020-11-10
+url: https://discourse.slicer.org/t/14530
+---
+
 # Orthogonal and Oblique MPR Slicing and Fusion
 
 **Topic ID**: 14530

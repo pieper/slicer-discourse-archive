@@ -1,3 +1,10 @@
+---
+topic_id: 29760
+title: "The Volume Of Segmentation Changes"
+date: 2023-05-31
+url: https://discourse.slicer.org/t/29760
+---
+
 # The volume of segmentation changes
 
 **Topic ID**: 29760

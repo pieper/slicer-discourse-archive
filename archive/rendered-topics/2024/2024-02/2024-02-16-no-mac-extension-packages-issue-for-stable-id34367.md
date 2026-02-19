@@ -1,3 +1,10 @@
+---
+topic_id: 34367
+title: "No Mac Extension Packages Issue For Stable"
+date: 2024-02-16
+url: https://discourse.slicer.org/t/34367
+---
+
 # No Mac Extension packages issue for Stable
 
 **Topic ID**: 34367

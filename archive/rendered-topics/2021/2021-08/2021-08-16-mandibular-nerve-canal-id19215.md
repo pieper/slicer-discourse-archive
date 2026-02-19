@@ -1,3 +1,10 @@
+---
+topic_id: 19215
+title: "Mandibular Nerve Canal"
+date: 2021-08-16
+url: https://discourse.slicer.org/t/19215
+---
+
 # Mandibular nerve canal
 
 **Topic ID**: 19215

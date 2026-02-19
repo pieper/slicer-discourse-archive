@@ -1,3 +1,10 @@
+---
+topic_id: 35281
+title: "Save Volume Node With Display Node Charateristics Window Lev"
+date: 2024-04-04
+url: https://discourse.slicer.org/t/35281
+---
+
 # Save volume node with display node charateristics (window/level)
 
 **Topic ID**: 35281

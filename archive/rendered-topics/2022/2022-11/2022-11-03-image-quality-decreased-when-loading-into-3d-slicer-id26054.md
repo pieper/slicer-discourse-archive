@@ -1,3 +1,10 @@
+---
+topic_id: 26054
+title: "Image Quality Decreased When Loading Into 3D Slicer"
+date: 2022-11-03
+url: https://discourse.slicer.org/t/26054
+---
+
 # Image quality decreased when loading into 3D slicer
 
 **Topic ID**: 26054

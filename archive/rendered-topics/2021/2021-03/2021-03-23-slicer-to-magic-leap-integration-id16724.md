@@ -1,3 +1,10 @@
+---
+topic_id: 16724
+title: "Slicer To Magic Leap Integration"
+date: 2021-03-23
+url: https://discourse.slicer.org/t/16724
+---
+
 # Slicer to Magic Leap Integration
 
 **Topic ID**: 16724

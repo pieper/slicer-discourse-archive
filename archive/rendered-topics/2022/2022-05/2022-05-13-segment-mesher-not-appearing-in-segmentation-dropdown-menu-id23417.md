@@ -1,3 +1,10 @@
+---
+topic_id: 23417
+title: "Segment Mesher Not Appearing In Segmentation Dropdown Menu"
+date: 2022-05-13
+url: https://discourse.slicer.org/t/23417
+---
+
 # Segment mesher not appearing in Segmentation dropdown menu
 
 **Topic ID**: 23417

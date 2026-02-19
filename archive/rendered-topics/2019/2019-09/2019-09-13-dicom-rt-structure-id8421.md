@@ -1,3 +1,10 @@
+---
+topic_id: 8421
+title: "Dicom Rt Structure"
+date: 2019-09-13
+url: https://discourse.slicer.org/t/8421
+---
+
 # Dicom RT structure
 
 **Topic ID**: 8421

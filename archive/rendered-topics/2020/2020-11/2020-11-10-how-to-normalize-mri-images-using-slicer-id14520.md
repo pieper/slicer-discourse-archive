@@ -1,3 +1,10 @@
+---
+topic_id: 14520
+title: "How To Normalize Mri Images Using Slicer"
+date: 2020-11-10
+url: https://discourse.slicer.org/t/14520
+---
+
 # How to normalize MRI images using Slicer?
 
 **Topic ID**: 14520

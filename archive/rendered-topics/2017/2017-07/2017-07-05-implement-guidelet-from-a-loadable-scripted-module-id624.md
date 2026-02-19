@@ -1,3 +1,10 @@
+---
+topic_id: 624
+title: "Implement Guidelet From A Loadable Scripted Module"
+date: 2017-07-05
+url: https://discourse.slicer.org/t/624
+---
+
 # Implement Guidelet from a Loadable Scripted Module
 
 **Topic ID**: 624

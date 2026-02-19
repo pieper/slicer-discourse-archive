@@ -1,3 +1,10 @@
+---
+topic_id: 18090
+title: "How To Disable The Clone Button"
+date: 2021-06-12
+url: https://discourse.slicer.org/t/18090
+---
+
 # How to disable the clone button?
 
 **Topic ID**: 18090

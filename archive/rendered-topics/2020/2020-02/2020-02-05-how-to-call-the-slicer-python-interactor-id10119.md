@@ -1,3 +1,10 @@
+---
+topic_id: 10119
+title: "How To Call The Slicer Python Interactor"
+date: 2020-02-05
+url: https://discourse.slicer.org/t/10119
+---
+
 # How to call the slicer python interactor?
 
 **Topic ID**: 10119

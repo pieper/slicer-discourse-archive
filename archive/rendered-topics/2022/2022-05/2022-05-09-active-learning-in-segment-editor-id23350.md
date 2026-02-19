@@ -1,3 +1,10 @@
+---
+topic_id: 23350
+title: "Active Learning In Segment Editor"
+date: 2022-05-09
+url: https://discourse.slicer.org/t/23350
+---
+
 # Active Learning in segment editor
 
 **Topic ID**: 23350

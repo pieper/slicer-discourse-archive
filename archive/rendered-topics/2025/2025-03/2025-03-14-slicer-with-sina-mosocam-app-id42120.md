@@ -1,3 +1,10 @@
+---
+topic_id: 42120
+title: "Slicer With Sina Mosocam App"
+date: 2025-03-14
+url: https://discourse.slicer.org/t/42120
+---
+
 # Slicer with Sina/MosoCam app
 
 **Topic ID**: 42120

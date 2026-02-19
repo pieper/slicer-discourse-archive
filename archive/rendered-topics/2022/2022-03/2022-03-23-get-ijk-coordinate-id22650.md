@@ -1,3 +1,10 @@
+---
+topic_id: 22650
+title: "Get Ijk Coordinate"
+date: 2022-03-23
+url: https://discourse.slicer.org/t/22650
+---
+
 # Get IJK coordinate
 
 **Topic ID**: 22650

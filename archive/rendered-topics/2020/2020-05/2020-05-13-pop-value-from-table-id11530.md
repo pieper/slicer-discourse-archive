@@ -1,3 +1,10 @@
+---
+topic_id: 11530
+title: "Pop Value From Table"
+date: 2020-05-13
+url: https://discourse.slicer.org/t/11530
+---
+
 # Pop value from table
 
 **Topic ID**: 11530

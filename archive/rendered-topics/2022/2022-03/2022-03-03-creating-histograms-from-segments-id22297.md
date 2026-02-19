@@ -1,3 +1,10 @@
+---
+topic_id: 22297
+title: "Creating Histograms From Segments"
+date: 2022-03-03
+url: https://discourse.slicer.org/t/22297
+---
+
 # Creating Histograms From Segments 
 
 **Topic ID**: 22297

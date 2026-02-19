@@ -1,3 +1,10 @@
+---
+topic_id: 9731
+title: "Parametric Color Map Corresponding To Particular Morphology"
+date: 2020-01-07
+url: https://discourse.slicer.org/t/9731
+---
+
 # Parametric color map corresponding to particular morphology
 
 **Topic ID**: 9731

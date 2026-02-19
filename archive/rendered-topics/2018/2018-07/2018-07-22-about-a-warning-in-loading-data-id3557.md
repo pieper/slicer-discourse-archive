@@ -1,3 +1,10 @@
+---
+topic_id: 3557
+title: "About A Warning In Loading Data"
+date: 2018-07-22
+url: https://discourse.slicer.org/t/3557
+---
+
 # About a warning in loading data
 
 **Topic ID**: 3557

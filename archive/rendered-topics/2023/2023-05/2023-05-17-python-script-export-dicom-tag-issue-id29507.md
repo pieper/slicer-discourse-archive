@@ -1,3 +1,10 @@
+---
+topic_id: 29507
+title: "Python Script Export Dicom Tag Issue"
+date: 2023-05-17
+url: https://discourse.slicer.org/t/29507
+---
+
 # Python Script - Export DICOM Tag issue
 
 **Topic ID**: 29507

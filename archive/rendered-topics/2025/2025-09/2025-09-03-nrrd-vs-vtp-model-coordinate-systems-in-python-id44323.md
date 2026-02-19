@@ -1,3 +1,10 @@
+---
+topic_id: 44323
+title: "Nrrd Vs Vtp Model Coordinate Systems In Python"
+date: 2025-09-03
+url: https://discourse.slicer.org/t/44323
+---
+
 # Nrrd vs vtp model coordinate systems in Python
 
 **Topic ID**: 44323

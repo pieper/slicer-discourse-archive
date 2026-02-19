@@ -1,3 +1,10 @@
+---
+topic_id: 38343
+title: "Create 3D Volume From 2D Ultrasound With Imu"
+date: 2024-09-08
+url: https://discourse.slicer.org/t/38343
+---
+
 # Create 3D volume from 2D ultrasound with IMU
 
 **Topic ID**: 38343

@@ -1,3 +1,10 @@
+---
+topic_id: 10912
+title: "Using Paint Function Results In Segmentation On Adjacent Sli"
+date: 2020-03-30
+url: https://discourse.slicer.org/t/10912
+---
+
 # Using paint function results in segmentation on adjacent slice
 
 **Topic ID**: 10912

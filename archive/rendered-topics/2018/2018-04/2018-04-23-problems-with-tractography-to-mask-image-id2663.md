@@ -1,3 +1,10 @@
+---
+topic_id: 2663
+title: "Problems With Tractography To Mask Image"
+date: 2018-04-23
+url: https://discourse.slicer.org/t/2663
+---
+
 # Problems with Tractography to mask image 
 
 **Topic ID**: 2663

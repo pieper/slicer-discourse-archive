@@ -1,3 +1,10 @@
+---
+topic_id: 41119
+title: "Error When Saving Nrrd Files"
+date: 2025-01-16
+url: https://discourse.slicer.org/t/41119
+---
+
 # Error when saving .nrrd files
 
 **Topic ID**: 41119

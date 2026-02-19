@@ -1,3 +1,10 @@
+---
+topic_id: 23886
+title: "Howto Get A Patientuid From Dicom Database"
+date: 2022-06-15
+url: https://discourse.slicer.org/t/23886
+---
+
 # Howto get a patientUID from DICOM database?
 
 **Topic ID**: 23886

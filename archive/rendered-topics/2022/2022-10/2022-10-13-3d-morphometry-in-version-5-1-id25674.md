@@ -1,3 +1,10 @@
+---
+topic_id: 25674
+title: "3D Morphometry In Version 5 1"
+date: 2022-10-13
+url: https://discourse.slicer.org/t/25674
+---
+
 # 3d morphometry in Version 5.1
 
 **Topic ID**: 25674

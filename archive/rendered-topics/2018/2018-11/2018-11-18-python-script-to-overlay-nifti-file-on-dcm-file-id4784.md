@@ -1,3 +1,10 @@
+---
+topic_id: 4784
+title: "Python Script To Overlay Nifti File On Dcm File"
+date: 2018-11-18
+url: https://discourse.slicer.org/t/4784
+---
+
 # Python script to overlay nifti file on dcm file
 
 **Topic ID**: 4784

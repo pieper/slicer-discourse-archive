@@ -1,3 +1,10 @@
+---
+topic_id: 28079
+title: "Caseiterator How To Input Source Data"
+date: 2023-02-27
+url: https://discourse.slicer.org/t/28079
+---
+
 # CaseIterator - how to input source data
 
 **Topic ID**: 28079

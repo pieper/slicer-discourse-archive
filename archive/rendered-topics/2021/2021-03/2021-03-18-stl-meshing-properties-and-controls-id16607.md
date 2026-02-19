@@ -1,3 +1,10 @@
+---
+topic_id: 16607
+title: "Stl Meshing Properties And Controls"
+date: 2021-03-18
+url: https://discourse.slicer.org/t/16607
+---
+
 # STL Meshing properties and controls
 
 **Topic ID**: 16607

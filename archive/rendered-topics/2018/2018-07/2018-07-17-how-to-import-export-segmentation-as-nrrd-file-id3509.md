@@ -1,3 +1,10 @@
+---
+topic_id: 3509
+title: "How To Import Export Segmentation As Nrrd File"
+date: 2018-07-17
+url: https://discourse.slicer.org/t/3509
+---
+
 # How to import/export segmentation as nrrd file?
 
 **Topic ID**: 3509

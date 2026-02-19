@@ -1,3 +1,10 @@
+---
+topic_id: 21966
+title: "Importing A 3D Segmentation From Matlab Into 3D Slicer"
+date: 2022-02-14
+url: https://discourse.slicer.org/t/21966
+---
+
 # Importing a 3d Segmentation from Matlab into 3d Slicer
 
 **Topic ID**: 21966

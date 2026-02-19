@@ -1,3 +1,10 @@
+---
+topic_id: 33094
+title: "Compute Bone Morphometry Help"
+date: 2023-11-28
+url: https://discourse.slicer.org/t/33094
+---
+
 # Compute Bone Morphometry Help
 
 **Topic ID**: 33094

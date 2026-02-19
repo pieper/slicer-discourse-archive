@@ -1,3 +1,10 @@
+---
+topic_id: 2140
+title: "Using Segmentstatistics Module In Python Script"
+date: 2018-02-21
+url: https://discourse.slicer.org/t/2140
+---
+
 # Using segmentstatistics module in python script
 
 **Topic ID**: 2140

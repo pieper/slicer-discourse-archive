@@ -1,3 +1,10 @@
+---
+topic_id: 21052
+title: "How To Import Dsi Studio Trk Gz Files"
+date: 2021-12-14
+url: https://discourse.slicer.org/t/21052
+---
+
 # How to import DSI Studio trk.gz files
 
 **Topic ID**: 21052

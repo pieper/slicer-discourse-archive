@@ -1,3 +1,10 @@
+---
+topic_id: 42692
+title: "Citing Modeltomodel Distance Module"
+date: 2025-04-25
+url: https://discourse.slicer.org/t/42692
+---
+
 # Citing ModelToModel Distance module
 
 **Topic ID**: 42692

@@ -1,3 +1,10 @@
+---
+topic_id: 19314
+title: "Overlay A Segmentation Over A Grayscale Volume"
+date: 2021-08-23
+url: https://discourse.slicer.org/t/19314
+---
+
 # Overlay a segmentation over a grayscale volume
 
 **Topic ID**: 19314

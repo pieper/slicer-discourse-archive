@@ -1,3 +1,10 @@
+---
+topic_id: 44712
+title: "Controlling Volume Reslice Driver To Follow 5Dof Inplane Vie"
+date: 2025-10-09
+url: https://discourse.slicer.org/t/44712
+---
+
 # Controlling Volume Reslice Driver to follow 5DOF inplane view of tool
 
 **Topic ID**: 44712

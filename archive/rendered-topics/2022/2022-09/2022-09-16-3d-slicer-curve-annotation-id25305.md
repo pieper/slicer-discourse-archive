@@ -1,3 +1,10 @@
+---
+topic_id: 25305
+title: "3D Slicer Curve Annotation"
+date: 2022-09-16
+url: https://discourse.slicer.org/t/25305
+---
+
 # 3D Slicer Curve Annotation
 
 **Topic ID**: 25305

@@ -1,3 +1,10 @@
+---
+topic_id: 5984
+title: "Airway Tree Bronchial Trees"
+date: 2019-03-01
+url: https://discourse.slicer.org/t/5984
+---
+
 # Airway tree (Bronchial Trees)
 
 **Topic ID**: 5984

@@ -1,3 +1,10 @@
+---
+topic_id: 37517
+title: "Axial Rotation For Segmentation"
+date: 2024-07-23
+url: https://discourse.slicer.org/t/37517
+---
+
 # Axial rotation for segmentation
 
 **Topic ID**: 37517

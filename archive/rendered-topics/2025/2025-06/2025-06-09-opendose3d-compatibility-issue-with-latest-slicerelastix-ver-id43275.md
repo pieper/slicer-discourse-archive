@@ -1,3 +1,10 @@
+---
+topic_id: 43275
+title: "Opendose3D Compatibility Issue With Latest Slicerelastix Ver"
+date: 2025-06-09
+url: https://discourse.slicer.org/t/43275
+---
+
 # OpenDose3D Compatibility Issue with Latest SlicerElastix Version (AttributeError on Registration)
 
 **Topic ID**: 43275

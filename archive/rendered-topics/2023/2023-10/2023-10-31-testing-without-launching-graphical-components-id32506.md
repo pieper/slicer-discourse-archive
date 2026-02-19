@@ -1,3 +1,10 @@
+---
+topic_id: 32506
+title: "Testing Without Launching Graphical Components"
+date: 2023-10-31
+url: https://discourse.slicer.org/t/32506
+---
+
 # Testing without launching graphical components
 
 **Topic ID**: 32506

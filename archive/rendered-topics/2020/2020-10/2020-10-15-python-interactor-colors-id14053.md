@@ -1,3 +1,10 @@
+---
+topic_id: 14053
+title: "Python Interactor Colors"
+date: 2020-10-15
+url: https://discourse.slicer.org/t/14053
+---
+
 # Python Interactor colors
 
 **Topic ID**: 14053

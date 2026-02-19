@@ -1,3 +1,10 @@
+---
+topic_id: 11400
+title: "Open Terarecon Segmentations On Slicer"
+date: 2020-05-04
+url: https://discourse.slicer.org/t/11400
+---
+
 # Open TeraRecon segmentations on Slicer
 
 **Topic ID**: 11400

@@ -1,3 +1,10 @@
+---
+topic_id: 42926
+title: "How To Bypass The Git Clone Operations During The 3D Slicer"
+date: 2025-05-14
+url: https://discourse.slicer.org/t/42926
+---
+
 # How to bypass the git clone operations during the 3D Slicer build?
 
 **Topic ID**: 42926

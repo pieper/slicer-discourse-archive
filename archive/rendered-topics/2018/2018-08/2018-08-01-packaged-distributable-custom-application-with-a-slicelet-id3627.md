@@ -1,3 +1,10 @@
+---
+topic_id: 3627
+title: "Packaged Distributable Custom Application With A Slicelet"
+date: 2018-08-01
+url: https://discourse.slicer.org/t/3627
+---
+
 # Packaged, distributable custom application with a slicelet
 
 **Topic ID**: 3627

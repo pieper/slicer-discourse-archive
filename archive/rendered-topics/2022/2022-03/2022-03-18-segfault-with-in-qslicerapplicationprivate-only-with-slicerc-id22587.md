@@ -1,3 +1,10 @@
+---
+topic_id: 22587
+title: "Segfault With In Qslicerapplicationprivate Only With Slicerc"
+date: 2022-03-18
+url: https://discourse.slicer.org/t/22587
+---
+
 # SegFault with in `~qSlicerApplicationPrivate` only with SlicerCAT
 
 **Topic ID**: 22587

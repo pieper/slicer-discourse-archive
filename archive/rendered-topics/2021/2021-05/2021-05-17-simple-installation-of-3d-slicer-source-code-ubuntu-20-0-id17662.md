@@ -1,3 +1,10 @@
+---
+topic_id: 17662
+title: "Simple Installation Of 3D Slicer Source Code Ubuntu 20 0"
+date: 2021-05-17
+url: https://discourse.slicer.org/t/17662
+---
+
 # Simple installation of 3D Slicer (Source code ubuntu 20.0)
 
 **Topic ID**: 17662

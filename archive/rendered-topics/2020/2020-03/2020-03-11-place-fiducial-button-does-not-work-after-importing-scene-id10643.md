@@ -1,3 +1,10 @@
+---
+topic_id: 10643
+title: "Place Fiducial Button Does Not Work After Importing Scene"
+date: 2020-03-11
+url: https://discourse.slicer.org/t/10643
+---
+
 # Place fiducial button does not work after importing scene
 
 **Topic ID**: 10643

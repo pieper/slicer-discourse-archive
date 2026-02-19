@@ -1,3 +1,10 @@
+---
+topic_id: 16243
+title: "Cbct Too Slow To Segment"
+date: 2021-02-26
+url: https://discourse.slicer.org/t/16243
+---
+
 # CBCT too slow to segment
 
 **Topic ID**: 16243

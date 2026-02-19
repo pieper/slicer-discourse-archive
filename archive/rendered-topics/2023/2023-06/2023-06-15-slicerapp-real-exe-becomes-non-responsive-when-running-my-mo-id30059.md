@@ -1,3 +1,10 @@
+---
+topic_id: 30059
+title: "Slicerapp Real Exe Becomes Non Responsive When Running My Mo"
+date: 2023-06-15
+url: https://discourse.slicer.org/t/30059
+---
+
 # SlicerApp-real.exe becomes non responsive when running my module
 
 **Topic ID**: 30059

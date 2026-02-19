@@ -1,3 +1,10 @@
+---
+topic_id: 12690
+title: "Creating Output Master Volume"
+date: 2020-07-22
+url: https://discourse.slicer.org/t/12690
+---
+
 # Creating Output Master Volume
 
 **Topic ID**: 12690

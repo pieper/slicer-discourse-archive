@@ -1,3 +1,10 @@
+---
+topic_id: 42377
+title: "Slicer Build Error"
+date: 2025-03-31
+url: https://discourse.slicer.org/t/42377
+---
+
 # Slicer build Error
 
 **Topic ID**: 42377

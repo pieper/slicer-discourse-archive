@@ -1,3 +1,10 @@
+---
+topic_id: 34969
+title: "Unable To Build Slicer Stopped By Ctk With Error Msb8066"
+date: 2024-03-19
+url: https://discourse.slicer.org/t/34969
+---
+
 # Unable to build Slicer: stopped by CTK with error MSB8066
 
 **Topic ID**: 34969

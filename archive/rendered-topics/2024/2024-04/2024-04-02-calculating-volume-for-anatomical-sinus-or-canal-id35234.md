@@ -1,3 +1,10 @@
+---
+topic_id: 35234
+title: "Calculating Volume For Anatomical Sinus Or Canal"
+date: 2024-04-02
+url: https://discourse.slicer.org/t/35234
+---
+
 # Calculating volume for anatomical sinus or canal
 
 **Topic ID**: 35234

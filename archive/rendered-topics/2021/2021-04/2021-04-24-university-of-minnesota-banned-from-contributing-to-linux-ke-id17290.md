@@ -1,3 +1,10 @@
+---
+topic_id: 17290
+title: "University Of Minnesota Banned From Contributing To Linux Ke"
+date: 2021-04-24
+url: https://discourse.slicer.org/t/17290
+---
+
 # University of Minnesota banned from contributing to Linux kernel
 
 **Topic ID**: 17290

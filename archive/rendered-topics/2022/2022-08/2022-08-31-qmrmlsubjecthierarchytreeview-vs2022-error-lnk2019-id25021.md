@@ -1,3 +1,10 @@
+---
+topic_id: 25021
+title: "Qmrmlsubjecthierarchytreeview Vs2022 Error Lnk2019"
+date: 2022-08-31
+url: https://discourse.slicer.org/t/25021
+---
+
 # qMRMLSubjectHierarchyTreeView vs2022 error LNK2019
 
 **Topic ID**: 25021

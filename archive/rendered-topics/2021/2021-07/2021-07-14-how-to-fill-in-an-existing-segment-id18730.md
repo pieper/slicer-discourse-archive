@@ -1,3 +1,10 @@
+---
+topic_id: 18730
+title: "How To Fill In An Existing Segment"
+date: 2021-07-14
+url: https://discourse.slicer.org/t/18730
+---
+
 # how to fill in an existing segment
 
 **Topic ID**: 18730

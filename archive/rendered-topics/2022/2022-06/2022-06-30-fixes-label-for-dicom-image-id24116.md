@@ -1,3 +1,10 @@
+---
+topic_id: 24116
+title: "Fixes Label For Dicom Image"
+date: 2022-06-30
+url: https://discourse.slicer.org/t/24116
+---
+
 # Fixes label for dicom image
 
 **Topic ID**: 24116

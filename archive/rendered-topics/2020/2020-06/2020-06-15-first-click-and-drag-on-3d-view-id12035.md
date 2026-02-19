@@ -1,3 +1,10 @@
+---
+topic_id: 12035
+title: "First Click And Drag On 3D View"
+date: 2020-06-15
+url: https://discourse.slicer.org/t/12035
+---
+
 # First click-and-drag on 3D view
 
 **Topic ID**: 12035

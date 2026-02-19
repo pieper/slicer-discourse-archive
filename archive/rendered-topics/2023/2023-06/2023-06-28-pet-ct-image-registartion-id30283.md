@@ -1,3 +1,10 @@
+---
+topic_id: 30283
+title: "Pet Ct Image Registartion"
+date: 2023-06-28
+url: https://discourse.slicer.org/t/30283
+---
+
 # PET/CT image registartion
 
 **Topic ID**: 30283

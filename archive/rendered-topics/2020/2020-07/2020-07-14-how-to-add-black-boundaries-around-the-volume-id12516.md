@@ -1,3 +1,10 @@
+---
+topic_id: 12516
+title: "How To Add Black Boundaries Around The Volume"
+date: 2020-07-14
+url: https://discourse.slicer.org/t/12516
+---
+
 # How to add black boundaries around the Volume?
 
 **Topic ID**: 12516

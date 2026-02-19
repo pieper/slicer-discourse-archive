@@ -1,3 +1,10 @@
+---
+topic_id: 16914
+title: "3Dslicer Gui All Bugged And With Green Stripes On Windows 10"
+date: 2021-04-01
+url: https://discourse.slicer.org/t/16914
+---
+
 # 3DSlicer GUI all bugged and with green stripes on Windows 10
 
 **Topic ID**: 16914

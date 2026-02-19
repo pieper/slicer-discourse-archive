@@ -1,3 +1,10 @@
+---
+topic_id: 24236
+title: "How To Change The Icon Slicereditcut Png"
+date: 2022-07-08
+url: https://discourse.slicer.org/t/24236
+---
+
 # How to change the icon[SlicerEditCut.png]
 
 **Topic ID**: 24236

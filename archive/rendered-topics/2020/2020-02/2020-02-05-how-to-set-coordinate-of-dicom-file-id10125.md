@@ -1,3 +1,10 @@
+---
+topic_id: 10125
+title: "How To Set Coordinate Of Dicom File"
+date: 2020-02-05
+url: https://discourse.slicer.org/t/10125
+---
+
 # How to set coordinate of Dicom file?
 
 **Topic ID**: 10125

@@ -1,3 +1,10 @@
+---
+topic_id: 13762
+title: "Converting Slicer Python Code To C"
+date: 2020-09-30
+url: https://discourse.slicer.org/t/13762
+---
+
 # Converting Slicer Python code to C++
 
 **Topic ID**: 13762

@@ -1,3 +1,10 @@
+---
+topic_id: 12799
+title: "Problem With Volume Rendering"
+date: 2020-07-31
+url: https://discourse.slicer.org/t/12799
+---
+
 # problem with volume rendering
 
 **Topic ID**: 12799

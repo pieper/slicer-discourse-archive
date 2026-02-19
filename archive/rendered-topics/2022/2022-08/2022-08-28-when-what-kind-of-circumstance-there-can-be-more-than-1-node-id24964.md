@@ -1,3 +1,10 @@
+---
+topic_id: 24964
+title: "When What Kind Of Circumstance There Can Be More Than 1 Node"
+date: 2022-08-28
+url: https://discourse.slicer.org/t/24964
+---
+
 # When (what kind of circumstance) there can be more than 1 NodeReference with the same ReferenceRole?
 
 **Topic ID**: 24964

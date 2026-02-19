@@ -1,3 +1,10 @@
+---
+topic_id: 30058
+title: "Sqlite3 Query In Python Returns Less Data Than What Appears"
+date: 2023-06-15
+url: https://discourse.slicer.org/t/30058
+---
+
 # SQLite3 query in Python returns less data than what appears in the Slicer DICOM module
 
 **Topic ID**: 30058

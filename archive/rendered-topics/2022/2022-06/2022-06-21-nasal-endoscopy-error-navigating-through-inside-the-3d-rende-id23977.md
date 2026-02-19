@@ -1,3 +1,10 @@
+---
+topic_id: 23977
+title: "Nasal Endoscopy Error Navigating Through Inside The 3D Rende"
+date: 2022-06-21
+url: https://discourse.slicer.org/t/23977
+---
+
 # Nasal Endoscopy Error (Navigating through/inside the 3D rendering) :(
 
 **Topic ID**: 23977

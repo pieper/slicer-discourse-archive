@@ -1,3 +1,10 @@
+---
+topic_id: 13521
+title: "How To Change The Application Name Of Slicer"
+date: 2020-09-17
+url: https://discourse.slicer.org/t/13521
+---
+
 # How to change the application name of Slicer?
 
 **Topic ID**: 13521

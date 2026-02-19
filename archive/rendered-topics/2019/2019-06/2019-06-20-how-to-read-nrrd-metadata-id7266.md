@@ -1,3 +1,10 @@
+---
+topic_id: 7266
+title: "How To Read Nrrd Metadata"
+date: 2019-06-20
+url: https://discourse.slicer.org/t/7266
+---
+
 # How to read NRRD metadata
 
 **Topic ID**: 7266

@@ -1,3 +1,10 @@
+---
+topic_id: 1909
+title: "Get Filename Of Model"
+date: 2018-01-23
+url: https://discourse.slicer.org/t/1909
+---
+
 # Get filename of model
 
 **Topic ID**: 1909

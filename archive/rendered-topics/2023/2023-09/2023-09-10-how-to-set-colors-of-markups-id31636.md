@@ -1,3 +1,10 @@
+---
+topic_id: 31636
+title: "How To Set Colors Of Markups"
+date: 2023-09-10
+url: https://discourse.slicer.org/t/31636
+---
+
 # How to set colors of markups?
 
 **Topic ID**: 31636

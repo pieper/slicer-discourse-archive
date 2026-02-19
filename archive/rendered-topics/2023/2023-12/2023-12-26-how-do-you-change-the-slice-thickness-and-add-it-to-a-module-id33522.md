@@ -1,3 +1,10 @@
+---
+topic_id: 33522
+title: "How Do You Change The Slice Thickness And Add It To A Module"
+date: 2023-12-26
+url: https://discourse.slicer.org/t/33522
+---
+
 # How do you change the slice thickness and add it to a module panel?
 
 **Topic ID**: 33522

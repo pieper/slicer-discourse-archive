@@ -1,3 +1,10 @@
+---
+topic_id: 7928
+title: "Adding A New Slice To A Scene"
+date: 2019-08-07
+url: https://discourse.slicer.org/t/7928
+---
+
 # Adding a new slice to a scene
 
 **Topic ID**: 7928

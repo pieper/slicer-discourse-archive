@@ -1,3 +1,10 @@
+---
+topic_id: 6904
+title: "Disabling Object Transforms By Vr Controllers"
+date: 2019-05-23
+url: https://discourse.slicer.org/t/6904
+---
+
 # Disabling object transforms by VR controllers
 
 **Topic ID**: 6904

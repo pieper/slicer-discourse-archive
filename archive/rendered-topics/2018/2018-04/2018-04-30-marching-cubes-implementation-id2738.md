@@ -1,3 +1,10 @@
+---
+topic_id: 2738
+title: "Marching Cubes Implementation"
+date: 2018-04-30
+url: https://discourse.slicer.org/t/2738
+---
+
 # Marching Cubes implementation
 
 **Topic ID**: 2738

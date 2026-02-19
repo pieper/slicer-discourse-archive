@@ -1,3 +1,10 @@
+---
+topic_id: 34198
+title: "A Lost Beginner To 3D Printing"
+date: 2024-02-07
+url: https://discourse.slicer.org/t/34198
+---
+
 # A lost beginner to 3D printing
 
 **Topic ID**: 34198

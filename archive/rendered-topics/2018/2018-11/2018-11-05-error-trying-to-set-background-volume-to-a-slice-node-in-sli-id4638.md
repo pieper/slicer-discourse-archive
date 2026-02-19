@@ -1,3 +1,10 @@
+---
+topic_id: 4638
+title: "Error Trying To Set Background Volume To A Slice Node In Sli"
+date: 2018-11-05
+url: https://discourse.slicer.org/t/4638
+---
+
 # Error Trying to Set Background Volume to a Slice Node in Slicelet
 
 **Topic ID**: 4638

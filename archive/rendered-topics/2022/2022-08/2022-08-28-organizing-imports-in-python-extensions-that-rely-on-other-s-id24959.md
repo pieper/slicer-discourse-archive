@@ -1,3 +1,10 @@
+---
+topic_id: 24959
+title: "Organizing Imports In Python Extensions That Rely On Other S"
+date: 2022-08-28
+url: https://discourse.slicer.org/t/24959
+---
+
 # Organizing imports in python extensions that rely on other slicer extensions
 
 **Topic ID**: 24959

@@ -1,3 +1,10 @@
+---
+topic_id: 28622
+title: "How To Export Individual Slices Or Calculate A Centroid For"
+date: 2023-03-28
+url: https://discourse.slicer.org/t/28622
+---
+
 # How to export individual slices or calculate a centroid for each slice of a segmentation?
 
 **Topic ID**: 28622

@@ -1,3 +1,10 @@
+---
+topic_id: 31193
+title: "Nonetype Object Has No Attribute Getpointdata Error In Expor"
+date: 2023-08-17
+url: https://discourse.slicer.org/t/31193
+---
+
 # 'NoneType' object has no attribute 'GetPointData' error in exporting RTSTRUCT object into DICOM-SEG
 
 **Topic ID**: 31193

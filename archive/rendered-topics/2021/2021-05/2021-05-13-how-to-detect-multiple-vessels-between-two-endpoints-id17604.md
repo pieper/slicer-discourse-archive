@@ -1,3 +1,10 @@
+---
+topic_id: 17604
+title: "How To Detect Multiple Vessels Between Two Endpoints"
+date: 2021-05-13
+url: https://discourse.slicer.org/t/17604
+---
+
 # How to detect multiple vessels between two endpoints
 
 **Topic ID**: 17604

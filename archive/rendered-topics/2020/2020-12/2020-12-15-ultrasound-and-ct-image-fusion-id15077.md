@@ -1,3 +1,10 @@
+---
+topic_id: 15077
+title: "Ultrasound And Ct Image Fusion"
+date: 2020-12-15
+url: https://discourse.slicer.org/t/15077
+---
+
 # Ultrasound and CT image fusion
 
 **Topic ID**: 15077

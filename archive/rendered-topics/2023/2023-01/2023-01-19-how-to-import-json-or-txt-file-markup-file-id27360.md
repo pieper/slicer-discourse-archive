@@ -1,3 +1,10 @@
+---
+topic_id: 27360
+title: "How To Import Json Or Txt File Markup File"
+date: 2023-01-19
+url: https://discourse.slicer.org/t/27360
+---
+
 # How to import .json or .txt file markup file
 
 **Topic ID**: 27360

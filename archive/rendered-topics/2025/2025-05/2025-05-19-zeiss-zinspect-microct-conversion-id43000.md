@@ -1,3 +1,10 @@
+---
+topic_id: 43000
+title: "Zeiss Zinspect Microct Conversion"
+date: 2025-05-19
+url: https://discourse.slicer.org/t/43000
+---
+
 # ZEISS .zinspect microCT conversion
 
 **Topic ID**: 43000

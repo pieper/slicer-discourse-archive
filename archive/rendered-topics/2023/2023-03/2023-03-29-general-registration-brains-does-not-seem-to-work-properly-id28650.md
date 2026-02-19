@@ -1,3 +1,10 @@
+---
+topic_id: 28650
+title: "General Registration Brains Does Not Seem To Work Properly"
+date: 2023-03-29
+url: https://discourse.slicer.org/t/28650
+---
+
 # General Registration (BRAINS) does not seem to work properly
 
 **Topic ID**: 28650

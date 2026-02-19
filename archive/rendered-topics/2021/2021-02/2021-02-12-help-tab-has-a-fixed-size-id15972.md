@@ -1,3 +1,10 @@
+---
+topic_id: 15972
+title: "Help Tab Has A Fixed Size"
+date: 2021-02-12
+url: https://discourse.slicer.org/t/15972
+---
+
 # Help tab has a fixed size
 
 **Topic ID**: 15972

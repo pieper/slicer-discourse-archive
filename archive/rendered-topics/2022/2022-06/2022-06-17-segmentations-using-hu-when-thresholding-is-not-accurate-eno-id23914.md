@@ -1,3 +1,10 @@
+---
+topic_id: 23914
+title: "Segmentations Using Hu When Thresholding Is Not Accurate Eno"
+date: 2022-06-17
+url: https://discourse.slicer.org/t/23914
+---
+
 # Segmentations using HU when Thresholding is not accurate enough
 
 **Topic ID**: 23914

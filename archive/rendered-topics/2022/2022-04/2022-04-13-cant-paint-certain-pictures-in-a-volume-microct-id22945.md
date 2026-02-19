@@ -1,3 +1,10 @@
+---
+topic_id: 22945
+title: "Cant Paint Certain Pictures In A Volume Microct"
+date: 2022-04-13
+url: https://discourse.slicer.org/t/22945
+---
+
 # can't paint certain pictures in a volume-microCT
 
 **Topic ID**: 22945

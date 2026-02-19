@@ -1,3 +1,10 @@
+---
+topic_id: 28784
+title: "How To Change Log Message Prefix"
+date: 2023-04-06
+url: https://discourse.slicer.org/t/28784
+---
+
 # How to change log message prefix
 
 **Topic ID**: 28784

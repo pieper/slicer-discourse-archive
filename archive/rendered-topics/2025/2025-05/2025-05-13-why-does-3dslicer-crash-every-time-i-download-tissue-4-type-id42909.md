@@ -1,3 +1,10 @@
+---
+topic_id: 42909
+title: "Why Does 3Dslicer Crash Every Time I Download Tissue 4 Type"
+date: 2025-05-13
+url: https://discourse.slicer.org/t/42909
+---
+
 # Why does 3dslicer crash every time I download tissue_4_type to 2.88mb
 
 **Topic ID**: 42909

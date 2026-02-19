@@ -1,3 +1,10 @@
+---
+topic_id: 12086
+title: "Segmented Using Deep Learning"
+date: 2020-06-18
+url: https://discourse.slicer.org/t/12086
+---
+
 # Segmented using deep learning
 
 **Topic ID**: 12086

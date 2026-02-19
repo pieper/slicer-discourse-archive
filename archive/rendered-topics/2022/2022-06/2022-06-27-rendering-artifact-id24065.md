@@ -1,3 +1,10 @@
+---
+topic_id: 24065
+title: "Rendering Artifact"
+date: 2022-06-27
+url: https://discourse.slicer.org/t/24065
+---
+
 # Rendering artifact
 
 **Topic ID**: 24065

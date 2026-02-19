@@ -1,3 +1,10 @@
+---
+topic_id: 8596
+title: "Slicer Crashes When Using Qthreadpool To Start Qrunnable In"
+date: 2019-09-27
+url: https://discourse.slicer.org/t/8596
+---
+
 # Slicer crashes when using QThreadPool to start QRunnable in python module
 
 **Topic ID**: 8596

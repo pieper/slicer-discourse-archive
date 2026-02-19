@@ -1,3 +1,10 @@
+---
+topic_id: 36977
+title: "How To Use My Own Gui"
+date: 2024-06-24
+url: https://discourse.slicer.org/t/36977
+---
+
 # How to use my own GUI
 
 **Topic ID**: 36977

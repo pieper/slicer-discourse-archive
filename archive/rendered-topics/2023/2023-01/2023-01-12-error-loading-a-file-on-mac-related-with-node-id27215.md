@@ -1,3 +1,10 @@
+---
+topic_id: 27215
+title: "Error Loading A File On Mac Related With Node"
+date: 2023-01-12
+url: https://discourse.slicer.org/t/27215
+---
+
 # ERROR loading a file on Mac related with Node
 
 **Topic ID**: 27215

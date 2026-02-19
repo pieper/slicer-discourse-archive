@@ -1,3 +1,10 @@
+---
+topic_id: 33758
+title: "New Python Notebook Library"
+date: 2024-01-13
+url: https://discourse.slicer.org/t/33758
+---
+
 # New python notebook library
 
 **Topic ID**: 33758

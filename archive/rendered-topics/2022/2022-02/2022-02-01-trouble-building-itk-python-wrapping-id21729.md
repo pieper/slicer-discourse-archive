@@ -1,3 +1,10 @@
+---
+topic_id: 21729
+title: "Trouble Building Itk Python Wrapping"
+date: 2022-02-01
+url: https://discourse.slicer.org/t/21729
+---
+
 # Trouble building ITK python wrapping
 
 **Topic ID**: 21729

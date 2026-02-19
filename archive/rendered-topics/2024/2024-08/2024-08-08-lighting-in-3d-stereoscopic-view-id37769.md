@@ -1,3 +1,10 @@
+---
+topic_id: 37769
+title: "Lighting In 3D Stereoscopic View"
+date: 2024-08-08
+url: https://discourse.slicer.org/t/37769
+---
+
 # Lighting in 3D stereoscopic view
 
 **Topic ID**: 37769

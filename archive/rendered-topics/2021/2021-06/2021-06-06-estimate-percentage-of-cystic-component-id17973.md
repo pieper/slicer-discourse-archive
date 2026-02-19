@@ -1,3 +1,10 @@
+---
+topic_id: 17973
+title: "Estimate Percentage Of Cystic Component"
+date: 2021-06-06
+url: https://discourse.slicer.org/t/17973
+---
+
 # Estimate percentage of cystic component
 
 **Topic ID**: 17973

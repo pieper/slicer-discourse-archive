@@ -1,3 +1,10 @@
+---
+topic_id: 25873
+title: "Optimizing Resolution And Spacing Parameters In Plastimatch"
+date: 2022-10-24
+url: https://discourse.slicer.org/t/25873
+---
+
 # Optimizing resolution and spacing parameters in Plastimatch DRR
 
 **Topic ID**: 25873

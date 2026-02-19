@@ -1,3 +1,10 @@
+---
+topic_id: 18013
+title: "What Tool Was Used To Place Landmarks In Slicermorph Alpaca"
+date: 2021-06-08
+url: https://discourse.slicer.org/t/18013
+---
+
 # What tool was used to place landmarks in slicermorph ALPACA video?
 
 **Topic ID**: 18013

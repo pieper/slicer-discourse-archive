@@ -1,3 +1,10 @@
+---
+topic_id: 27098
+title: "How To Access An Already Rendered Object"
+date: 2023-01-07
+url: https://discourse.slicer.org/t/27098
+---
+
 # How to access an already rendered object?
 
 **Topic ID**: 27098

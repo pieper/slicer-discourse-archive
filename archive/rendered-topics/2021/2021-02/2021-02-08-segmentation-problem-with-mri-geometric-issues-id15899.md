@@ -1,3 +1,10 @@
+---
+topic_id: 15899
+title: "Segmentation Problem With Mri Geometric Issues"
+date: 2021-02-08
+url: https://discourse.slicer.org/t/15899
+---
+
 # Segmentation problem with MRI (geometric issues)
 
 **Topic ID**: 15899

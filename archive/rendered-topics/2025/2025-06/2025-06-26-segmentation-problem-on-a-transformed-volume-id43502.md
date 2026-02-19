@@ -1,3 +1,10 @@
+---
+topic_id: 43502
+title: "Segmentation Problem On A Transformed Volume"
+date: 2025-06-26
+url: https://discourse.slicer.org/t/43502
+---
+
 # Segmentation problem on a transformed volume
 
 **Topic ID**: 43502

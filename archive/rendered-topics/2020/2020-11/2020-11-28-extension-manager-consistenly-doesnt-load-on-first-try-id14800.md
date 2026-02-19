@@ -1,3 +1,10 @@
+---
+topic_id: 14800
+title: "Extension Manager Consistenly Doesnt Load On First Try"
+date: 2020-11-28
+url: https://discourse.slicer.org/t/14800
+---
+
 # Extension manager consistenly doesn't load on first try
 
 **Topic ID**: 14800

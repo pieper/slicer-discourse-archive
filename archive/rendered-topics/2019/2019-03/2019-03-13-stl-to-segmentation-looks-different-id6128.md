@@ -1,3 +1,10 @@
+---
+topic_id: 6128
+title: "Stl To Segmentation Looks Different"
+date: 2019-03-13
+url: https://discourse.slicer.org/t/6128
+---
+
 # STL to Segmentation Looks different
 
 **Topic ID**: 6128

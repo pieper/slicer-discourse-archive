@@ -1,3 +1,10 @@
+---
+topic_id: 10572
+title: "Volume Rendering Produces Block Of White Noise"
+date: 2020-03-06
+url: https://discourse.slicer.org/t/10572
+---
+
 # Volume rendering produces block of "white noise"
 
 **Topic ID**: 10572

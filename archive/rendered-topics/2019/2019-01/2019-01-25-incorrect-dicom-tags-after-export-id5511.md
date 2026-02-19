@@ -1,3 +1,10 @@
+---
+topic_id: 5511
+title: "Incorrect Dicom Tags After Export"
+date: 2019-01-25
+url: https://discourse.slicer.org/t/5511
+---
+
 # Incorrect DICOM tags after export
 
 **Topic ID**: 5511

@@ -1,3 +1,10 @@
+---
+topic_id: 2261
+title: "How Can I Subscribe To Monitor Individual Extensions On Slic"
+date: 2018-03-07
+url: https://discourse.slicer.org/t/2261
+---
+
 # How can I subscribe to monitor individual extensions on Slicer dashboard?
 
 **Topic ID**: 2261

@@ -1,3 +1,10 @@
+---
+topic_id: 10948
+title: "Screencapture Png Stack Looks Flattened"
+date: 2020-03-31
+url: https://discourse.slicer.org/t/10948
+---
+
 # ScreenCapture - PNG stack looks flattened
 
 **Topic ID**: 10948

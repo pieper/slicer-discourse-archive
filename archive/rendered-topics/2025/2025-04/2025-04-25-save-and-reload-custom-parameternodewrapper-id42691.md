@@ -1,3 +1,10 @@
+---
+topic_id: 42691
+title: "Save And Reload Custom Parameternodewrapper"
+date: 2025-04-25
+url: https://discourse.slicer.org/t/42691
+---
+
 # save and reload custom parameterNodeWrapper 
 
 **Topic ID**: 42691

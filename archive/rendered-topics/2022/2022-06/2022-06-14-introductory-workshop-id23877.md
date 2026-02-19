@@ -1,3 +1,10 @@
+---
+topic_id: 23877
+title: "Introductory Workshop"
+date: 2022-06-14
+url: https://discourse.slicer.org/t/23877
+---
+
 # Introductory workshop
 
 **Topic ID**: 23877

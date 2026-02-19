@@ -1,3 +1,10 @@
+---
+topic_id: 9386
+title: "Correct Image And Mask Using Command Line"
+date: 2019-12-04
+url: https://discourse.slicer.org/t/9386
+---
+
 # Correct image and mask using command line
 
 **Topic ID**: 9386

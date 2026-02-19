@@ -1,3 +1,10 @@
+---
+topic_id: 41831
+title: "Having Issues With My Dicom File While Segmenting"
+date: 2025-02-22
+url: https://discourse.slicer.org/t/41831
+---
+
 # Having issues with my DICOM file while segmenting
 
 **Topic ID**: 41831

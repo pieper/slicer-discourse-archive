@@ -1,3 +1,10 @@
+---
+topic_id: 18186
+title: "Origin Of Painted Object Is Modified When The Object Is Save"
+date: 2021-06-17
+url: https://discourse.slicer.org/t/18186
+---
+
 # Origin of painted object is modified when the object is saved to dicom and loaded into Slicer
 
 **Topic ID**: 18186

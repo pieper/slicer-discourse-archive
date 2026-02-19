@@ -1,3 +1,10 @@
+---
+topic_id: 5076
+title: "Erase Effect Inactive"
+date: 2018-12-14
+url: https://discourse.slicer.org/t/5076
+---
+
 # Erase effect inactive
 
 **Topic ID**: 5076

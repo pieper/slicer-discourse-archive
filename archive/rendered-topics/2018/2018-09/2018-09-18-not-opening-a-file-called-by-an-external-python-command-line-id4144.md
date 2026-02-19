@@ -1,3 +1,10 @@
+---
+topic_id: 4144
+title: "Not Opening A File Called By An External Python Command Line"
+date: 2018-09-18
+url: https://discourse.slicer.org/t/4144
+---
+
 # Not Opening a File - Called by an external python Command line
 
 **Topic ID**: 4144

@@ -1,3 +1,10 @@
+---
+topic_id: 12158
+title: "Nvidiaaiassistedannotation Extension For Macos"
+date: 2020-06-22
+url: https://discourse.slicer.org/t/12158
+---
+
 # NvidiaAIAssistedAnnotation extension for macOS
 
 **Topic ID**: 12158

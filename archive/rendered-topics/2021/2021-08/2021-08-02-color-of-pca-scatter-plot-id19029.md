@@ -1,3 +1,10 @@
+---
+topic_id: 19029
+title: "Color Of Pca Scatter Plot"
+date: 2021-08-02
+url: https://discourse.slicer.org/t/19029
+---
+
 # Color of PCA Scatter Plot
 
 **Topic ID**: 19029

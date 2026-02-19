@@ -1,3 +1,10 @@
+---
+topic_id: 9414
+title: "Why My Computer Bug When I Start Parenchyma Analysis After S"
+date: 2019-12-06
+url: https://discourse.slicer.org/t/9414
+---
+
 # Why my computer bug when I start parenchyma analysis after segmentation?
 
 **Topic ID**: 9414

@@ -1,3 +1,10 @@
+---
+topic_id: 31177
+title: "Mrb Optimization File Size And Loading Time"
+date: 2023-08-16
+url: https://discourse.slicer.org/t/31177
+---
+
 # .mrb optimization (file size and loading time)
 
 **Topic ID**: 31177

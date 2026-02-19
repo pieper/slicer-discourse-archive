@@ -1,3 +1,10 @@
+---
+topic_id: 23340
+title: "Configuring Slicer Fails C Compiler Not Found"
+date: 2022-05-09
+url: https://discourse.slicer.org/t/23340
+---
+
 # Configuring Slicer fails - C compiler not found
 
 **Topic ID**: 23340

@@ -1,3 +1,10 @@
+---
+topic_id: 41848
+title: "After Changing Volume Geometry A Function Fill Between Slice"
+date: 2025-02-23
+url: https://discourse.slicer.org/t/41848
+---
+
 # After changing volume geometry, a function "fill between slices" does not work
 
 **Topic ID**: 41848

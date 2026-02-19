@@ -1,3 +1,10 @@
+---
+topic_id: 18918
+title: "How To Measure Volumes In Structural Brain Mri"
+date: 2021-07-25
+url: https://discourse.slicer.org/t/18918
+---
+
 # How to measure volumes in structural brain MRI?
 
 **Topic ID**: 18918

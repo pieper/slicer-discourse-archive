@@ -1,3 +1,10 @@
+---
+topic_id: 4048
+title: "After Saving And Re Opening Files I Cannot Re Edit The Label"
+date: 2018-09-10
+url: https://discourse.slicer.org/t/4048
+---
+
 # After saving and re-opening files, I cannot re-edit the labels using Editor
 
 **Topic ID**: 4048

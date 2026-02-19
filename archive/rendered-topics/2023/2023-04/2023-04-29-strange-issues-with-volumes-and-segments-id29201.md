@@ -1,3 +1,10 @@
+---
+topic_id: 29201
+title: "Strange Issues With Volumes And Segments"
+date: 2023-04-29
+url: https://discourse.slicer.org/t/29201
+---
+
 # Strange Issues with volumes and segments
 
 **Topic ID**: 29201

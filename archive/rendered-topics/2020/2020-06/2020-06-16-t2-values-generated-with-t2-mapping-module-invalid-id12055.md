@@ -1,3 +1,10 @@
+---
+topic_id: 12055
+title: "T2 Values Generated With T2 Mapping Module Invalid"
+date: 2020-06-16
+url: https://discourse.slicer.org/t/12055
+---
+
 # T2-values generated with T2-mapping module invalid?
 
 **Topic ID**: 12055

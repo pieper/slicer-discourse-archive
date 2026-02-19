@@ -1,3 +1,10 @@
+---
+topic_id: 32432
+title: "New Feature Thick Slab Reconstruction From Slice Controllers"
+date: 2023-10-26
+url: https://discourse.slicer.org/t/32432
+---
+
 # New feature: Thick slab reconstruction from slice controllers and views
 
 **Topic ID**: 32432

@@ -1,3 +1,10 @@
+---
+topic_id: 7198
+title: "Macos Python Problem"
+date: 2019-06-17
+url: https://discourse.slicer.org/t/7198
+---
+
 # MacOS Python Problem
 
 **Topic ID**: 7198

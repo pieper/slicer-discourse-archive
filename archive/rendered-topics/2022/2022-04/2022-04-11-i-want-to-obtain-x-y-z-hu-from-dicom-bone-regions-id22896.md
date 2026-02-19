@@ -1,3 +1,10 @@
+---
+topic_id: 22896
+title: "I Want To Obtain X Y Z Hu From Dicom Bone Regions"
+date: 2022-04-11
+url: https://discourse.slicer.org/t/22896
+---
+
 # I want to obtain x,y,z,HU from DICOM(bone regions)
 
 **Topic ID**: 22896

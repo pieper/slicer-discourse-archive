@@ -1,3 +1,10 @@
+---
+topic_id: 33021
+title: "Finding The Relevant Label For Extracting Radiomics Features"
+date: 2023-11-25
+url: https://discourse.slicer.org/t/33021
+---
+
 # Finding the relevant label for extracting radiomics features
 
 **Topic ID**: 33021

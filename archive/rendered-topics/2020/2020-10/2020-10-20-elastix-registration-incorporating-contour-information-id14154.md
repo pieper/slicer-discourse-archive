@@ -1,3 +1,10 @@
+---
+topic_id: 14154
+title: "Elastix Registration Incorporating Contour Information"
+date: 2020-10-20
+url: https://discourse.slicer.org/t/14154
+---
+
 # Elastix registration incorporating contour information
 
 **Topic ID**: 14154

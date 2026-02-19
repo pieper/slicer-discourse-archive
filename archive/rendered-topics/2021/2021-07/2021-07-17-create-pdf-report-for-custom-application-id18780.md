@@ -1,3 +1,10 @@
+---
+topic_id: 18780
+title: "Create Pdf Report For Custom Application"
+date: 2021-07-17
+url: https://discourse.slicer.org/t/18780
+---
+
 # Create pdf report for custom application
 
 **Topic ID**: 18780

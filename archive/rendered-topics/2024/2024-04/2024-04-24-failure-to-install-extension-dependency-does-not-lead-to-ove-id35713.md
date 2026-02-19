@@ -1,3 +1,10 @@
+---
+topic_id: 35713
+title: "Failure To Install Extension Dependency Does Not Lead To Ove"
+date: 2024-04-24
+url: https://discourse.slicer.org/t/35713
+---
+
 # Failure to install extension dependency does not lead to overall install failure
 
 **Topic ID**: 35713

@@ -1,3 +1,10 @@
+---
+topic_id: 29376
+title: "3D Slicer And Monai Receive Recognition At The Gta Digital S"
+date: 2023-05-09
+url: https://discourse.slicer.org/t/29376
+---
+
 # 3D Slicer and MONAI receive recognition at the GTA Digital September 2022
 
 **Topic ID**: 29376

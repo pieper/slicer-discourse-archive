@@ -1,3 +1,10 @@
+---
+topic_id: 20305
+title: "How To Have Vessels With Real Wall Thickness After Using The"
+date: 2021-10-22
+url: https://discourse.slicer.org/t/20305
+---
+
 # how to have vessels with real wall thickness after using the hollow?
 
 **Topic ID**: 20305

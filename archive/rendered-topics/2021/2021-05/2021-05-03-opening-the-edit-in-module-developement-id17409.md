@@ -1,3 +1,10 @@
+---
+topic_id: 17409
+title: "Opening The Edit In Module Developement"
+date: 2021-05-03
+url: https://discourse.slicer.org/t/17409
+---
+
 # Opening the edit in module developement
 
 **Topic ID**: 17409

@@ -1,3 +1,10 @@
+---
+topic_id: 36421
+title: "Measure Length And Width In 2D Mri Slice"
+date: 2024-05-27
+url: https://discourse.slicer.org/t/36421
+---
+
 # Measure length and width in 2D MRI slice
 
 **Topic ID**: 36421

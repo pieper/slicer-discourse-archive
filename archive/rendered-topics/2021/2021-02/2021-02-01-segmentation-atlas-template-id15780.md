@@ -1,3 +1,10 @@
+---
+topic_id: 15780
+title: "Segmentation Atlas Template"
+date: 2021-02-01
+url: https://discourse.slicer.org/t/15780
+---
+
 # Segmentation_atlas_template
 
 **Topic ID**: 15780

@@ -1,3 +1,10 @@
+---
+topic_id: 40805
+title: "Modul Export Tractography To Ply Mesh Doesnt Work In Slicer"
+date: 2024-12-19
+url: https://discourse.slicer.org/t/40805
+---
+
 # Modul "Export Tractography to PLY (mesh)" doesn't work in Slicer 5.7.0
 
 **Topic ID**: 40805

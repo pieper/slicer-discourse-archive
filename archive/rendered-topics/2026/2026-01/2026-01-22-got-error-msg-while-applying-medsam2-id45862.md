@@ -1,3 +1,10 @@
+---
+topic_id: 45862
+title: "Got Error Msg While Applying Medsam2"
+date: 2026-01-22
+url: https://discourse.slicer.org/t/45862
+---
+
 # Got error msg while applying MedSam2
 
 **Topic ID**: 45862

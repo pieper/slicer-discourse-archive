@@ -1,3 +1,10 @@
+---
+topic_id: 26358
+title: "Picking Centerline Endpoints Via Command Line"
+date: 2022-11-21
+url: https://discourse.slicer.org/t/26358
+---
+
 # Picking centerline endpoints via command line
 
 **Topic ID**: 26358

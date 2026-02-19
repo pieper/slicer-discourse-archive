@@ -1,3 +1,10 @@
+---
+topic_id: 38514
+title: "Question On Segments Invisibility In 3D"
+date: 2024-09-24
+url: https://discourse.slicer.org/t/38514
+---
+
 # Question on segments invisibility in 3D
 
 **Topic ID**: 38514

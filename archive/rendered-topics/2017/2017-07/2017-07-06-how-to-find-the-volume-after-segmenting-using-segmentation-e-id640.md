@@ -1,3 +1,10 @@
+---
+topic_id: 640
+title: "How To Find The Volume After Segmenting Using Segmentation E"
+date: 2017-07-06
+url: https://discourse.slicer.org/t/640
+---
+
 # How to find the volume after segmenting using "Segmentation Editor"
 
 **Topic ID**: 640

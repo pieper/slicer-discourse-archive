@@ -1,3 +1,10 @@
+---
+topic_id: 35679
+title: "Dosimetry Analysis On Neuroendocrine Tumor Using Lu177"
+date: 2024-04-23
+url: https://discourse.slicer.org/t/35679
+---
+
 # Dosimetry Analysis on Neuroendocrine Tumor using Lu177
 
 **Topic ID**: 35679

@@ -1,3 +1,10 @@
+---
+topic_id: 13840
+title: "Vmtk Extension Build Fails With Vtk9"
+date: 2020-10-03
+url: https://discourse.slicer.org/t/13840
+---
+
 # VMTK extension : build fails with VTK9
 
 **Topic ID**: 13840

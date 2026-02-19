@@ -1,3 +1,10 @@
+---
+topic_id: 24881
+title: "Qslicerscriptedloadablemodule Object Is Not Subscriptable"
+date: 2022-08-23
+url: https://discourse.slicer.org/t/24881
+---
+
 # 'qSlicerScriptedLoadableModule' object is not subscriptable
 
 **Topic ID**: 24881

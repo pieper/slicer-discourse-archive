@@ -1,3 +1,10 @@
+---
+topic_id: 14860
+title: "Screen Capture Features"
+date: 2020-12-03
+url: https://discourse.slicer.org/t/14860
+---
+
 # Screen Capture features
 
 **Topic ID**: 14860

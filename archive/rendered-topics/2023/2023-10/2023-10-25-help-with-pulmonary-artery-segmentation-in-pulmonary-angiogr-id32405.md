@@ -1,3 +1,10 @@
+---
+topic_id: 32405
+title: "Help With Pulmonary Artery Segmentation In Pulmonary Angiogr"
+date: 2023-10-25
+url: https://discourse.slicer.org/t/32405
+---
+
 # Help with pulmonary artery segmentation in pulmonary angiograms
 
 **Topic ID**: 32405

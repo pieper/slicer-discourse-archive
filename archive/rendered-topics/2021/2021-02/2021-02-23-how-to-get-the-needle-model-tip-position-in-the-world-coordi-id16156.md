@@ -1,3 +1,10 @@
+---
+topic_id: 16156
+title: "How To Get The Needle Model Tip Position In The World Coordi"
+date: 2021-02-23
+url: https://discourse.slicer.org/t/16156
+---
+
 # How to get the Needle model tip position in the World coordinate？
 
 **Topic ID**: 16156

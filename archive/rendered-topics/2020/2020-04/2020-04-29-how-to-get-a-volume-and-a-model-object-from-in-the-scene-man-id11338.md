@@ -1,3 +1,10 @@
+---
+topic_id: 11338
+title: "How To Get A Volume And A Model Object From In The Scene Man"
+date: 2020-04-29
+url: https://discourse.slicer.org/t/11338
+---
+
 # How to get a volume and a model object from in the scene management node?
 
 **Topic ID**: 11338

@@ -1,3 +1,10 @@
+---
+topic_id: 24939
+title: "Slicercustomapptemplate Build Fails On Loadable Module"
+date: 2022-08-26
+url: https://discourse.slicer.org/t/24939
+---
+
 # SlicerCustomAppTemplate build fails on Loadable Module
 
 **Topic ID**: 24939

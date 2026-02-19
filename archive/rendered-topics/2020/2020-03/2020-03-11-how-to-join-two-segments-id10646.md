@@ -1,3 +1,10 @@
+---
+topic_id: 10646
+title: "How To Join Two Segments"
+date: 2020-03-11
+url: https://discourse.slicer.org/t/10646
+---
+
 # How to join two segments?
 
 **Topic ID**: 10646

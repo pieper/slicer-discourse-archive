@@ -1,3 +1,10 @@
+---
+topic_id: 18386
+title: "Method Requires Vtk Object Error"
+date: 2021-06-29
+url: https://discourse.slicer.org/t/18386
+---
+
 # Method Requires VTK Object Error
 
 **Topic ID**: 18386

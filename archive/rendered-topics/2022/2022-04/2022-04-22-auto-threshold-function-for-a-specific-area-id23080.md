@@ -1,3 +1,10 @@
+---
+topic_id: 23080
+title: "Auto Threshold Function For A Specific Area"
+date: 2022-04-22
+url: https://discourse.slicer.org/t/23080
+---
+
 # Auto threshold function for a specific area?
 
 **Topic ID**: 23080

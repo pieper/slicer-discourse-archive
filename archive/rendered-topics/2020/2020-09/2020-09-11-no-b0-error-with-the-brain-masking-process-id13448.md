@@ -1,3 +1,10 @@
+---
+topic_id: 13448
+title: "No B0 Error With The Brain Masking Process"
+date: 2020-09-11
+url: https://discourse.slicer.org/t/13448
+---
+
 # No b0! Error with the brain masking process
 
 **Topic ID**: 13448

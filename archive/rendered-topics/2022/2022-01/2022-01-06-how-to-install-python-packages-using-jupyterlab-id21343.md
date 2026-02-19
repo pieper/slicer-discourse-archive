@@ -1,3 +1,10 @@
+---
+topic_id: 21343
+title: "How To Install Python Packages Using Jupyterlab"
+date: 2022-01-06
+url: https://discourse.slicer.org/t/21343
+---
+
 # How to install python packages using jupyterlab?
 
 **Topic ID**: 21343

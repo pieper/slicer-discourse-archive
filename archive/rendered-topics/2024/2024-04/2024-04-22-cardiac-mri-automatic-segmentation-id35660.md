@@ -1,3 +1,10 @@
+---
+topic_id: 35660
+title: "Cardiac Mri Automatic Segmentation"
+date: 2024-04-22
+url: https://discourse.slicer.org/t/35660
+---
+
 # Cardiac MRI automatic segmentation
 
 **Topic ID**: 35660

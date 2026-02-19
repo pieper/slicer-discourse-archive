@@ -1,3 +1,10 @@
+---
+topic_id: 14491
+title: "Create A Markups Plane Programmatically"
+date: 2020-11-08
+url: https://discourse.slicer.org/t/14491
+---
+
 # Create a markups plane programmatically
 
 **Topic ID**: 14491

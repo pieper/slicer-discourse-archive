@@ -1,3 +1,10 @@
+---
+topic_id: 7368
+title: "Transform Single Segment In Python Module"
+date: 2019-07-01
+url: https://discourse.slicer.org/t/7368
+---
+
 # Transform single segment in python module
 
 **Topic ID**: 7368

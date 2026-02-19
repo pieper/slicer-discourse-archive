@@ -1,3 +1,10 @@
+---
+topic_id: 2209
+title: "Cross Sectional Area And Line Profile"
+date: 2018-02-28
+url: https://discourse.slicer.org/t/2209
+---
+
 # Cross-sectional area and line profile
 
 **Topic ID**: 2209

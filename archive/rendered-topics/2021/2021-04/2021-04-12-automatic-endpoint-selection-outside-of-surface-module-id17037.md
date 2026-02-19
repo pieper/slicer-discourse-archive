@@ -1,3 +1,10 @@
+---
+topic_id: 17037
+title: "Automatic Endpoint Selection Outside Of Surface Module"
+date: 2021-04-12
+url: https://discourse.slicer.org/t/17037
+---
+
 # Automatic endpoint selection outside of surface module
 
 **Topic ID**: 17037

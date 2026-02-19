@@ -1,3 +1,10 @@
+---
+topic_id: 2952
+title: "How To Save Nrrd As A Dicom File"
+date: 2018-05-28
+url: https://discourse.slicer.org/t/2952
+---
+
 # How to save nrrd as a dicom file?
 
 **Topic ID**: 2952

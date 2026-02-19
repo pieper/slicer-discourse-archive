@@ -1,3 +1,10 @@
+---
+topic_id: 12483
+title: "Update Slicers Icon Set"
+date: 2020-07-11
+url: https://discourse.slicer.org/t/12483
+---
+
 # Update Slicer's icon set
 
 **Topic ID**: 12483

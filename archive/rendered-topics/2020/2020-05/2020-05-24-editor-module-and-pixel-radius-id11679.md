@@ -1,3 +1,10 @@
+---
+topic_id: 11679
+title: "Editor Module And Pixel Radius"
+date: 2020-05-24
+url: https://discourse.slicer.org/t/11679
+---
+
 # Editor module and pixel radius
 
 **Topic ID**: 11679

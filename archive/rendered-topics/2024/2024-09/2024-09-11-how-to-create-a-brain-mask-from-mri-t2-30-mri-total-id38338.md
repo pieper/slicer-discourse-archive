@@ -1,3 +1,10 @@
+---
+topic_id: 38338
+title: "How To Create A Brain Mask From Mri T2 30 Mri Total"
+date: 2024-09-11
+url: https://discourse.slicer.org/t/38338
+---
+
 # How to create a brain mask from MRI T2 (30 MRI total)
 
 **Topic ID**: 38338

@@ -1,3 +1,10 @@
+---
+topic_id: 22065
+title: "Lung Ct Segmenter With Local Threshold Airway Segmentation"
+date: 2022-02-19
+url: https://discourse.slicer.org/t/22065
+---
+
 # Lung CT Segmenter with 'Local Threshold' airway segmentation
 
 **Topic ID**: 22065

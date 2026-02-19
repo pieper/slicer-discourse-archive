@@ -1,3 +1,10 @@
+---
+topic_id: 28502
+title: "Whats Wrong After Upgrading To The New Version Of The Mac Op"
+date: 2023-03-21
+url: https://discourse.slicer.org/t/28502
+---
+
 # What's wrong, after upgrading to the new version of the Mac, opening the Slicer reported '[FD]' error?
 
 **Topic ID**: 28502

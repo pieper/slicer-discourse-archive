@@ -1,3 +1,10 @@
+---
+topic_id: 14193
+title: "Segment Area Calculation"
+date: 2020-10-21
+url: https://discourse.slicer.org/t/14193
+---
+
 # Segment - Area Calculation
 
 **Topic ID**: 14193

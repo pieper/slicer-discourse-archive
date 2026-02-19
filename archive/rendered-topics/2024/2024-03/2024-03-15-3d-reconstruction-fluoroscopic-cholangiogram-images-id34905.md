@@ -1,3 +1,10 @@
+---
+topic_id: 34905
+title: "3D Reconstruction Fluoroscopic Cholangiogram Images"
+date: 2024-03-15
+url: https://discourse.slicer.org/t/34905
+---
+
 # 3D reconstruction fluoroscopic cholangiogram images
 
 **Topic ID**: 34905

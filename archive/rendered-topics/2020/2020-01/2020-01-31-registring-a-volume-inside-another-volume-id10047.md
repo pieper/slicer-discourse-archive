@@ -1,3 +1,10 @@
+---
+topic_id: 10047
+title: "Registring A Volume Inside Another Volume"
+date: 2020-01-31
+url: https://discourse.slicer.org/t/10047
+---
+
 # Registring a volume inside another volume
 
 **Topic ID**: 10047

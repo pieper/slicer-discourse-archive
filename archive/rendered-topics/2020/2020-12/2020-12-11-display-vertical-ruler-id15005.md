@@ -1,3 +1,10 @@
+---
+topic_id: 15005
+title: "Display Vertical Ruler"
+date: 2020-12-11
+url: https://discourse.slicer.org/t/15005
+---
+
 # Display vertical ruler
 
 **Topic ID**: 15005

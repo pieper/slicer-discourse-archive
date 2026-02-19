@@ -1,3 +1,10 @@
+---
+topic_id: 39813
+title: "Blank Screen On Ubuntu 24 10"
+date: 2024-10-23
+url: https://discourse.slicer.org/t/39813
+---
+
 # Blank screen on Ubuntu 24.10
 
 **Topic ID**: 39813

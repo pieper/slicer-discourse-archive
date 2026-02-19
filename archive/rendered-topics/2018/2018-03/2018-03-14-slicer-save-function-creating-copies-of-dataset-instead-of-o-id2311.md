@@ -1,3 +1,10 @@
+---
+topic_id: 2311
+title: "Slicer Save Function Creating Copies Of Dataset Instead Of O"
+date: 2018-03-14
+url: https://discourse.slicer.org/t/2311
+---
+
 # Slicer save function creating copies of dataset instead of overwrite
 
 **Topic ID**: 2311

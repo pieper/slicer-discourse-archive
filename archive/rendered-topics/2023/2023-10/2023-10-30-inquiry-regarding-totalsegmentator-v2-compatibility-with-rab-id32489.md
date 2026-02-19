@@ -1,3 +1,10 @@
+---
+topic_id: 32489
+title: "Inquiry Regarding Totalsegmentator V2 Compatibility With Rab"
+date: 2023-10-30
+url: https://discourse.slicer.org/t/32489
+---
+
 # Inquiry Regarding TotalSegmentator V2 Compatibility with Rabbit Micro-CT Images for Lung Segmentation
 
 **Topic ID**: 32489

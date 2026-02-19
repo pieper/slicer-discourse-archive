@@ -1,3 +1,10 @@
+---
+topic_id: 25757
+title: "Models Scalar Display Display Defined Color For Areas Below"
+date: 2022-10-18
+url: https://discourse.slicer.org/t/25757
+---
+
 # Models / Scalar Display: Display defined color for areas below threshold
 
 **Topic ID**: 25757

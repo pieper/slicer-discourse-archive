@@ -1,3 +1,10 @@
+---
+topic_id: 7699
+title: "How Many Seg Nrrd Files Can Be Loaded At Once In Slicer"
+date: 2019-07-21
+url: https://discourse.slicer.org/t/7699
+---
+
 # How many seg.nrrd files can be loaded at once in Slicer?
 
 **Topic ID**: 7699

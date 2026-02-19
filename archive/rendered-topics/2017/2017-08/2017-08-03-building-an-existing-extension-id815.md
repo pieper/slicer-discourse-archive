@@ -1,3 +1,10 @@
+---
+topic_id: 815
+title: "Building An Existing Extension"
+date: 2017-08-03
+url: https://discourse.slicer.org/t/815
+---
+
 # Building an existing extension
 
 **Topic ID**: 815

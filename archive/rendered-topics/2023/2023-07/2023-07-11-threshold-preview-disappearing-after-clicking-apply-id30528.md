@@ -1,3 +1,10 @@
+---
+topic_id: 30528
+title: "Threshold Preview Disappearing After Clicking Apply"
+date: 2023-07-11
+url: https://discourse.slicer.org/t/30528
+---
+
 # Threshold preview disappearing after clicking "apply"
 
 **Topic ID**: 30528

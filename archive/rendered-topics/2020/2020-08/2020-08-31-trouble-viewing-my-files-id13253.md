@@ -1,3 +1,10 @@
+---
+topic_id: 13253
+title: "Trouble Viewing My Files"
+date: 2020-08-31
+url: https://discourse.slicer.org/t/13253
+---
+
 # trouble viewing my files
 
 **Topic ID**: 13253

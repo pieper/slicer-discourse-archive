@@ -1,3 +1,10 @@
+---
+topic_id: 34325
+title: "Curved Planar Reformat"
+date: 2024-02-14
+url: https://discourse.slicer.org/t/34325
+---
+
 # Curved Planar Reformat
 
 **Topic ID**: 34325

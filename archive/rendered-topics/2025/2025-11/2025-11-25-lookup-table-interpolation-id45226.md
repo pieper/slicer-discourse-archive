@@ -1,3 +1,10 @@
+---
+topic_id: 45226
+title: "Lookup Table Interpolation"
+date: 2025-11-25
+url: https://discourse.slicer.org/t/45226
+---
+
 # Lookup Table Interpolation
 
 **Topic ID**: 45226

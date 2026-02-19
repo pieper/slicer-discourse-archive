@@ -1,3 +1,10 @@
+---
+topic_id: 20712
+title: "Clipping Effect"
+date: 2021-11-20
+url: https://discourse.slicer.org/t/20712
+---
+
 # Clipping effect
 
 **Topic ID**: 20712

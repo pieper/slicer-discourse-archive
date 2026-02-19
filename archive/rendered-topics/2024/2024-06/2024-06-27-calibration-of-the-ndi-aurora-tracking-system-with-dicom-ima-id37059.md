@@ -1,3 +1,10 @@
+---
+topic_id: 37059
+title: "Calibration Of The Ndi Aurora Tracking System With Dicom Ima"
+date: 2024-06-27
+url: https://discourse.slicer.org/t/37059
+---
+
 # Calibration of the NDI aurora tracking system with DICOM images and respective segmentations
 
 **Topic ID**: 37059

@@ -1,3 +1,10 @@
+---
+topic_id: 29792
+title: "Wrong Value Displayed In Deformation Vector Field"
+date: 2023-06-02
+url: https://discourse.slicer.org/t/29792
+---
+
 # Wrong value displayed in deformation vector field
 
 **Topic ID**: 29792

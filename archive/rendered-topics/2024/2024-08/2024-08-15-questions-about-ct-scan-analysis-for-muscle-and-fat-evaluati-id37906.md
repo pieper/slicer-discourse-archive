@@ -1,3 +1,10 @@
+---
+topic_id: 37906
+title: "Questions About Ct Scan Analysis For Muscle And Fat Evaluati"
+date: 2024-08-15
+url: https://discourse.slicer.org/t/37906
+---
+
 # Questions about CT Scan Analysis for Muscle and Fat Evaluation Using 3D Slicer
 
 **Topic ID**: 37906

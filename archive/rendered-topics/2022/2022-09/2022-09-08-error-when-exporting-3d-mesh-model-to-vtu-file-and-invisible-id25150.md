@@ -1,3 +1,10 @@
+---
+topic_id: 25150
+title: "Error When Exporting 3D Mesh Model To Vtu File And Invisible"
+date: 2022-09-08
+url: https://discourse.slicer.org/t/25150
+---
+
 # Error when exporting 3d mesh model to VTU file, and invisible VTK file in Paraview
 
 **Topic ID**: 25150

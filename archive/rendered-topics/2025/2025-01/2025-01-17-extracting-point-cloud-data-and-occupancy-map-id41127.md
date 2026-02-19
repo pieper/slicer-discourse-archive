@@ -1,3 +1,10 @@
+---
+topic_id: 41127
+title: "Extracting Point Cloud Data And Occupancy Map"
+date: 2025-01-17
+url: https://discourse.slicer.org/t/41127
+---
+
 # Extracting point cloud data and occupancy map
 
 **Topic ID**: 41127

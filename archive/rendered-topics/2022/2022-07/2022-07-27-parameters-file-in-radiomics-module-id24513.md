@@ -1,3 +1,10 @@
+---
+topic_id: 24513
+title: "Parameters File In Radiomics Module"
+date: 2022-07-27
+url: https://discourse.slicer.org/t/24513
+---
+
 # Parameters file in Radiomics module
 
 **Topic ID**: 24513

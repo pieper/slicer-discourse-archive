@@ -1,3 +1,10 @@
+---
+topic_id: 45211
+title: "3D Slicer Not Loading Images"
+date: 2025-11-24
+url: https://discourse.slicer.org/t/45211
+---
+
 # 3D slicer not loading images
 
 **Topic ID**: 45211

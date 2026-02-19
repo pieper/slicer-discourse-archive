@@ -1,3 +1,10 @@
+---
+topic_id: 17376
+title: "Volumetric Mesh Of Vertebrae Difficulty With Meshing The Int"
+date: 2021-04-28
+url: https://discourse.slicer.org/t/17376
+---
+
 # Volumetric mesh of vertebrae - difficulty with meshing the interior
 
 **Topic ID**: 17376

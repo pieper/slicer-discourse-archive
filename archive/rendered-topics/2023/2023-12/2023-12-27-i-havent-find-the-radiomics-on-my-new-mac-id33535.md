@@ -1,3 +1,10 @@
+---
+topic_id: 33535
+title: "I Havent Find The Radiomics On My New Mac"
+date: 2023-12-27
+url: https://discourse.slicer.org/t/33535
+---
+
 # I haven't find the Radiomics on my new Mac
 
 **Topic ID**: 33535

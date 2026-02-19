@@ -1,3 +1,10 @@
+---
+topic_id: 7982
+title: "How To Set Up Shortcuts From Module On Startup"
+date: 2019-08-11
+url: https://discourse.slicer.org/t/7982
+---
+
 # How to set up shortcuts from module on startup?
 
 **Topic ID**: 7982

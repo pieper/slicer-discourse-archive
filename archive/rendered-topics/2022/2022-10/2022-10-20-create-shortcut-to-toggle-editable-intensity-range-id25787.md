@@ -1,3 +1,10 @@
+---
+topic_id: 25787
+title: "Create Shortcut To Toggle Editable Intensity Range"
+date: 2022-10-20
+url: https://discourse.slicer.org/t/25787
+---
+
 # Create shortcut to toggle editable intensity range
 
 **Topic ID**: 25787

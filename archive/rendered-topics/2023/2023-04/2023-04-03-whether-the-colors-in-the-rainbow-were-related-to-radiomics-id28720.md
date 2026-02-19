@@ -1,3 +1,10 @@
+---
+topic_id: 28720
+title: "Whether The Colors In The Rainbow Were Related To Radiomics"
+date: 2023-04-03
+url: https://discourse.slicer.org/t/28720
+---
+
 # Whether the colors in the Rainbow were related to radiomics features
 
 **Topic ID**: 28720

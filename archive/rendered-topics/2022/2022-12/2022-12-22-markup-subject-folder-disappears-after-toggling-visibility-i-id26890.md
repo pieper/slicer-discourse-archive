@@ -1,3 +1,10 @@
+---
+topic_id: 26890
+title: "Markup Subject Folder Disappears After Toggling Visibility I"
+date: 2022-12-22
+url: https://discourse.slicer.org/t/26890
+---
+
 # Markup subject/folder disappears after toggling visibility in data module
 
 **Topic ID**: 26890

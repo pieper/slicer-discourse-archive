@@ -1,3 +1,10 @@
+---
+topic_id: 5472
+title: "Multiple Postdoc Positions In Machine Learning Medical Imagi"
+date: 2019-01-22
+url: https://discourse.slicer.org/t/5472
+---
+
 # Multiple Postdoc Positions in Machine Learning / Medical Imaging at Massachusetts General Hospital
 
 **Topic ID**: 5472

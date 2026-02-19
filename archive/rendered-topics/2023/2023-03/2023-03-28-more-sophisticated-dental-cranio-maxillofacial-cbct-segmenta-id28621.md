@@ -1,3 +1,10 @@
+---
+topic_id: 28621
+title: "More Sophisticated Dental Cranio Maxillofacial Cbct Segmenta"
+date: 2023-03-28
+url: https://discourse.slicer.org/t/28621
+---
+
 # More sophisticated dental/cranio-maxillofacial CBCT segmentation methods
 
 **Topic ID**: 28621

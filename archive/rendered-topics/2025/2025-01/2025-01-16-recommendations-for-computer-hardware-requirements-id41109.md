@@ -1,3 +1,10 @@
+---
+topic_id: 41109
+title: "Recommendations For Computer Hardware Requirements"
+date: 2025-01-16
+url: https://discourse.slicer.org/t/41109
+---
+
 # Recommendations for Computer/Hardware Requirements?
 
 **Topic ID**: 41109

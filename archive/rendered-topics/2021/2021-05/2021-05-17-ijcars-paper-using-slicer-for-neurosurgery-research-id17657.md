@@ -1,3 +1,10 @@
+---
+topic_id: 17657
+title: "Ijcars Paper Using Slicer For Neurosurgery Research"
+date: 2021-05-17
+url: https://discourse.slicer.org/t/17657
+---
+
 # IJCARS paper using Slicer for neurosurgery research
 
 **Topic ID**: 17657

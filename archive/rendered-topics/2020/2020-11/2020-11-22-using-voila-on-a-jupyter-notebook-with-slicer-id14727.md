@@ -1,3 +1,10 @@
+---
+topic_id: 14727
+title: "Using Voila On A Jupyter Notebook With Slicer"
+date: 2020-11-22
+url: https://discourse.slicer.org/t/14727
+---
+
 # Using Voilà on a Jupyter notebook with slicer
 
 **Topic ID**: 14727

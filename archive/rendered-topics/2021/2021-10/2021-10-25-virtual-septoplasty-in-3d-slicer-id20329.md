@@ -1,3 +1,10 @@
+---
+topic_id: 20329
+title: "Virtual Septoplasty In 3D Slicer"
+date: 2021-10-25
+url: https://discourse.slicer.org/t/20329
+---
+
 # Virtual septoplasty in 3D slicer
 
 **Topic ID**: 20329

@@ -1,3 +1,10 @@
+---
+topic_id: 27598
+title: "Image Slices Are Scrambled"
+date: 2023-02-02
+url: https://discourse.slicer.org/t/27598
+---
+
 # Image slices are scrambled
 
 **Topic ID**: 27598

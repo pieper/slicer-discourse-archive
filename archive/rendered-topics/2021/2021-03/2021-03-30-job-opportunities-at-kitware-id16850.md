@@ -1,3 +1,10 @@
+---
+topic_id: 16850
+title: "Job Opportunities At Kitware"
+date: 2021-03-30
+url: https://discourse.slicer.org/t/16850
+---
+
 # Job opportunities at Kitware
 
 **Topic ID**: 16850

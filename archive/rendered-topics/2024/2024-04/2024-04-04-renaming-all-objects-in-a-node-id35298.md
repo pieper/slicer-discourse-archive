@@ -1,3 +1,10 @@
+---
+topic_id: 35298
+title: "Renaming All Objects In A Node"
+date: 2024-04-04
+url: https://discourse.slicer.org/t/35298
+---
+
 # Renaming all objects in a node
 
 **Topic ID**: 35298

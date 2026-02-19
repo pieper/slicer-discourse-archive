@@ -1,3 +1,10 @@
+---
+topic_id: 15481
+title: "Image Contrast Adjustment"
+date: 2021-01-12
+url: https://discourse.slicer.org/t/15481
+---
+
 # Image contrast adjustment
 
 **Topic ID**: 15481

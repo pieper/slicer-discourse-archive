@@ -1,3 +1,10 @@
+---
+topic_id: 25675
+title: "Missing Dots When Drawing"
+date: 2022-10-13
+url: https://discourse.slicer.org/t/25675
+---
+
 # Missing dots when drawing
 
 **Topic ID**: 25675

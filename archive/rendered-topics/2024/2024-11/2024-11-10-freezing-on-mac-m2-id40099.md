@@ -1,3 +1,10 @@
+---
+topic_id: 40099
+title: "Freezing On Mac M2"
+date: 2024-11-10
+url: https://discourse.slicer.org/t/40099
+---
+
 # Freezing on Mac M2
 
 **Topic ID**: 40099

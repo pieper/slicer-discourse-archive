@@ -1,3 +1,10 @@
+---
+topic_id: 5386
+title: "Customizing Layout"
+date: 2019-01-16
+url: https://discourse.slicer.org/t/5386
+---
+
 # Customizing layout
 
 **Topic ID**: 5386

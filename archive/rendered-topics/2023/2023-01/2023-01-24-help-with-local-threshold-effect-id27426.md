@@ -1,3 +1,10 @@
+---
+topic_id: 27426
+title: "Help With Local Threshold Effect"
+date: 2023-01-24
+url: https://discourse.slicer.org/t/27426
+---
+
 # Help with Local Threshold effect
 
 **Topic ID**: 27426

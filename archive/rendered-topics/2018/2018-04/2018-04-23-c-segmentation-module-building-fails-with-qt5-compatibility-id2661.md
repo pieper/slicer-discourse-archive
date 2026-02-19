@@ -1,3 +1,10 @@
+---
+topic_id: 2661
+title: "C Segmentation Module Building Fails With Qt5 Compatibility"
+date: 2018-04-23
+url: https://discourse.slicer.org/t/2661
+---
+
 # C++ segmentation Module building fails with Qt5 - compatibility with Qt4/Qt5 of ui files?
 
 **Topic ID**: 2661

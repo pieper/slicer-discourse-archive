@@ -1,3 +1,10 @@
+---
+topic_id: 8850
+title: "Igt Volume Reslice Driver Saving Images"
+date: 2019-10-21
+url: https://discourse.slicer.org/t/8850
+---
+
 # IGT Volume Reslice Driver - saving images
 
 **Topic ID**: 8850

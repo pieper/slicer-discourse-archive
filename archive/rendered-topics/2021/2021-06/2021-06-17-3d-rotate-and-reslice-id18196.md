@@ -1,3 +1,10 @@
+---
+topic_id: 18196
+title: "3D Rotate And Reslice"
+date: 2021-06-17
+url: https://discourse.slicer.org/t/18196
+---
+
 # 3D rotate and reslice
 
 **Topic ID**: 18196

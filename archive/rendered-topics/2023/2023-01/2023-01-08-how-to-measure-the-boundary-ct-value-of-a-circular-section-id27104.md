@@ -1,3 +1,10 @@
+---
+topic_id: 27104
+title: "How To Measure The Boundary Ct Value Of A Circular Section"
+date: 2023-01-08
+url: https://discourse.slicer.org/t/27104
+---
+
 # How to measure the boundary CT value of a circular section?
 
 **Topic ID**: 27104

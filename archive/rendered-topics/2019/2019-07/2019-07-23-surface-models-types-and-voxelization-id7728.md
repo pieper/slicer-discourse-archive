@@ -1,3 +1,10 @@
+---
+topic_id: 7728
+title: "Surface Models Types And Voxelization"
+date: 2019-07-23
+url: https://discourse.slicer.org/t/7728
+---
+
 # Surface models types and voxelization
 
 **Topic ID**: 7728

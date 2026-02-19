@@ -1,3 +1,10 @@
+---
+topic_id: 34111
+title: "N4Itk Module On 3D Slicer"
+date: 2024-02-02
+url: https://discourse.slicer.org/t/34111
+---
+
 # N4ITK module on 3D slicer
 
 **Topic ID**: 34111

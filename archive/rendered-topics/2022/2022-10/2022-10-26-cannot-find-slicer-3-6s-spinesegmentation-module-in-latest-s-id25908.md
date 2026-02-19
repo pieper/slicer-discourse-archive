@@ -1,3 +1,10 @@
+---
+topic_id: 25908
+title: "Cannot Find Slicer 3 6S Spinesegmentation Module In Latest S"
+date: 2022-10-26
+url: https://discourse.slicer.org/t/25908
+---
+
 # Cannot find Slicer-3.6's SpineSegmentation module in latest Slicer version
 
 **Topic ID**: 25908

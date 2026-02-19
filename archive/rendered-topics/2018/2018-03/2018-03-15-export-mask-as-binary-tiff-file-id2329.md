@@ -1,3 +1,10 @@
+---
+topic_id: 2329
+title: "Export Mask As Binary Tiff File"
+date: 2018-03-15
+url: https://discourse.slicer.org/t/2329
+---
+
 # Export Mask as binary tiff file 
 
 **Topic ID**: 2329

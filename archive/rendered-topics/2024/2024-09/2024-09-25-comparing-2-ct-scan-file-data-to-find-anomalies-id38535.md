@@ -1,3 +1,10 @@
+---
+topic_id: 38535
+title: "Comparing 2 Ct Scan File Data To Find Anomalies"
+date: 2024-09-25
+url: https://discourse.slicer.org/t/38535
+---
+
 # Comparing 2 CT scan file data to find anomalies
 
 **Topic ID**: 38535

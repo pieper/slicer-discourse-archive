@@ -1,3 +1,10 @@
+---
+topic_id: 13660
+title: "Elastix Components Not Installed"
+date: 2020-09-23
+url: https://discourse.slicer.org/t/13660
+---
+
 # Elastix components not installed
 
 **Topic ID**: 13660

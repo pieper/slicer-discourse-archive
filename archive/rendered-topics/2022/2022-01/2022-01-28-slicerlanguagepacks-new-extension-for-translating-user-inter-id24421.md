@@ -1,3 +1,10 @@
+---
+topic_id: 24421
+title: "Slicerlanguagepacks New Extension For Translating User Inter"
+date: 2022-01-28
+url: https://discourse.slicer.org/t/24421
+---
+
 # SlicerLanguagePacks: New extension for translating user interface of Slicer to various languages
 
 **Topic ID**: 24421

@@ -1,3 +1,10 @@
+---
+topic_id: 19647
+title: "Change Roi Box Color Python"
+date: 2021-09-13
+url: https://discourse.slicer.org/t/19647
+---
+
 # Change ROI box color? (Python?)
 
 **Topic ID**: 19647

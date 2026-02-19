@@ -1,3 +1,10 @@
+---
+topic_id: 9249
+title: "Surface Cut And Fiducial Placement Issue"
+date: 2019-11-21
+url: https://discourse.slicer.org/t/9249
+---
+
 # Surface Cut and Fiducial Placement Issue
 
 **Topic ID**: 9249

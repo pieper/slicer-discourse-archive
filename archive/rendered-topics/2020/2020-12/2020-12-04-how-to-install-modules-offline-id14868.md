@@ -1,3 +1,10 @@
+---
+topic_id: 14868
+title: "How To Install Modules Offline"
+date: 2020-12-04
+url: https://discourse.slicer.org/t/14868
+---
+
 # How to install modules offline
 
 **Topic ID**: 14868

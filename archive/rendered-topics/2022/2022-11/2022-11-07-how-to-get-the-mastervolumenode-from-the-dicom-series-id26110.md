@@ -1,3 +1,10 @@
+---
+topic_id: 26110
+title: "How To Get The Mastervolumenode From The Dicom Series"
+date: 2022-11-07
+url: https://discourse.slicer.org/t/26110
+---
+
 # How to get the masterVolumeNode from the dicom series
 
 **Topic ID**: 26110

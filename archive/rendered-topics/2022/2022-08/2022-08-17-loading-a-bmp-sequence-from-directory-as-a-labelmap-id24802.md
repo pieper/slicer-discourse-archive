@@ -1,3 +1,10 @@
+---
+topic_id: 24802
+title: "Loading A Bmp Sequence From Directory As A Labelmap"
+date: 2022-08-17
+url: https://discourse.slicer.org/t/24802
+---
+
 # Loading a .bmp sequence from directory as a LabelMap
 
 **Topic ID**: 24802

@@ -1,3 +1,10 @@
+---
+topic_id: 32647
+title: "Uniformity Always Is 1"
+date: 2023-11-07
+url: https://discourse.slicer.org/t/32647
+---
+
 # Uniformity always is 1
 
 **Topic ID**: 32647

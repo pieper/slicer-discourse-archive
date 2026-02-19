@@ -1,3 +1,10 @@
+---
+topic_id: 35920
+title: "My Understanding Of Steps For 3D Slicer Radiomics And Deep L"
+date: 2024-05-05
+url: https://discourse.slicer.org/t/35920
+---
+
 # My understanding of steps for 3D Slicer Radiomics and Deep learning
 
 **Topic ID**: 35920

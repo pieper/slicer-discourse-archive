@@ -1,3 +1,10 @@
+---
+topic_id: 16752
+title: "Wrong Lines Of Dicom Rt Structure Set For Heart Radiosurgery"
+date: 2021-03-24
+url: https://discourse.slicer.org/t/16752
+---
+
 # Wrong lines of DICOM RT Structure Set for heart radiosurgery
 
 **Topic ID**: 16752

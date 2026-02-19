@@ -1,3 +1,10 @@
+---
+topic_id: 24221
+title: "Save The Reformat Image In Slicer"
+date: 2022-07-07
+url: https://discourse.slicer.org/t/24221
+---
+
 # Save the reformat image in Slicer
 
 **Topic ID**: 24221

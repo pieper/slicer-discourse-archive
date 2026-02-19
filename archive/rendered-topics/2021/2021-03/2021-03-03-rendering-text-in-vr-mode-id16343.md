@@ -1,3 +1,10 @@
+---
+topic_id: 16343
+title: "Rendering Text In Vr Mode"
+date: 2021-03-03
+url: https://discourse.slicer.org/t/16343
+---
+
 # Rendering Text in VR mode
 
 **Topic ID**: 16343

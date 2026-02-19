@@ -1,3 +1,10 @@
+---
+topic_id: 24085
+title: "How To Convert A Segmentation Back Into A Stack Of Images"
+date: 2022-06-28
+url: https://discourse.slicer.org/t/24085
+---
+
 # How to convert a segmentation back into a stack of images 
 
 **Topic ID**: 24085

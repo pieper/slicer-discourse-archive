@@ -1,3 +1,10 @@
+---
+topic_id: 40836
+title: "Moving Segment From A Segmentation To Another Causes Crash"
+date: 2024-12-23
+url: https://discourse.slicer.org/t/40836
+---
+
 # Moving segment from a segmentation to another causes crash
 
 **Topic ID**: 40836

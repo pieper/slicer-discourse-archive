@@ -1,3 +1,10 @@
+---
+topic_id: 3946
+title: "Saving A Vtk Model In A Certain Directory Using Python"
+date: 2018-08-30
+url: https://discourse.slicer.org/t/3946
+---
+
 # Saving a VTK model in a certain directory using Python
 
 **Topic ID**: 3946

@@ -1,3 +1,10 @@
+---
+topic_id: 19843
+title: "How To Save And Read Annotation Information For 2D Images"
+date: 2021-09-24
+url: https://discourse.slicer.org/t/19843
+---
+
 # How to save and read annotation information for 2D images
 
 **Topic ID**: 19843

@@ -1,3 +1,10 @@
+---
+topic_id: 44950
+title: "Maintenance Of Macos Dashboard In Progress Upgrading From Ve"
+date: 2025-11-03
+url: https://discourse.slicer.org/t/44950
+---
+
 # Maintenance of macOS dashboard in progress - upgrading from Ventura to Sequoia
 
 **Topic ID**: 44950

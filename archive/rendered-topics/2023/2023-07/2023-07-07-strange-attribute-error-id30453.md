@@ -1,3 +1,10 @@
+---
+topic_id: 30453
+title: "Strange Attribute Error"
+date: 2023-07-07
+url: https://discourse.slicer.org/t/30453
+---
+
 # Strange attribute error
 
 **Topic ID**: 30453

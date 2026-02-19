@@ -1,3 +1,10 @@
+---
+topic_id: 3246
+title: "Sharedobject Module Instead Of Commandline Module"
+date: 2018-06-20
+url: https://discourse.slicer.org/t/3246
+---
+
 # SharedObject Module instead of CommandLine Module
 
 **Topic ID**: 3246

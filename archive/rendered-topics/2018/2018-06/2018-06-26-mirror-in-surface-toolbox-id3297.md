@@ -1,3 +1,10 @@
+---
+topic_id: 3297
+title: "Mirror In Surface Toolbox"
+date: 2018-06-26
+url: https://discourse.slicer.org/t/3297
+---
+
 # Mirror in surface toolbox
 
 **Topic ID**: 3297

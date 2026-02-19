@@ -1,3 +1,10 @@
+---
+topic_id: 25135
+title: "Build Failed On Window10 When Performing Install Step For Py"
+date: 2022-09-07
+url: https://discourse.slicer.org/t/25135
+---
+
 # Build failed on Window10 when "Performing install step for 'python-scipy'"
 
 **Topic ID**: 25135

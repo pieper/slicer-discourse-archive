@@ -1,3 +1,10 @@
+---
+topic_id: 22045
+title: "Automatic Registration Of Segmentation"
+date: 2022-02-18
+url: https://discourse.slicer.org/t/22045
+---
+
 # Automatic registration of segmentation
 
 **Topic ID**: 22045

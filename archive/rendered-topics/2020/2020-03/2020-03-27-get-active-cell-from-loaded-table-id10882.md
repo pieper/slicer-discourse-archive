@@ -1,3 +1,10 @@
+---
+topic_id: 10882
+title: "Get Active Cell From Loaded Table"
+date: 2020-03-27
+url: https://discourse.slicer.org/t/10882
+---
+
 # Get active cell from loaded table
 
 **Topic ID**: 10882

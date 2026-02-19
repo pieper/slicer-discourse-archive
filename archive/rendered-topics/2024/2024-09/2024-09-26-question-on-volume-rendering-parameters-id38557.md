@@ -1,3 +1,10 @@
+---
+topic_id: 38557
+title: "Question On Volume Rendering Parameters"
+date: 2024-09-26
+url: https://discourse.slicer.org/t/38557
+---
+
 # Question on volume rendering parameters
 
 **Topic ID**: 38557

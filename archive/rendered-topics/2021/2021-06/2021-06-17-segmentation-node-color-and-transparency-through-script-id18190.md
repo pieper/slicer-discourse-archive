@@ -1,3 +1,10 @@
+---
+topic_id: 18190
+title: "Segmentation Node Color And Transparency Through Script"
+date: 2021-06-17
+url: https://discourse.slicer.org/t/18190
+---
+
 # Segmentation node color and transparency through script
 
 **Topic ID**: 18190

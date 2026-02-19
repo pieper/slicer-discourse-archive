@@ -1,3 +1,10 @@
+---
+topic_id: 16034
+title: "Taking A Screen Capture Of A Bisected 3D Segmentation"
+date: 2021-02-17
+url: https://discourse.slicer.org/t/16034
+---
+
 # Taking a screen capture of a bisected 3D segmentation
 
 **Topic ID**: 16034

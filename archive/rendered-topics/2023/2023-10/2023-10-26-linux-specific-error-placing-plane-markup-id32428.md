@@ -1,3 +1,10 @@
+---
+topic_id: 32428
+title: "Linux Specific Error Placing Plane Markup"
+date: 2023-10-26
+url: https://discourse.slicer.org/t/32428
+---
+
 # Linux specific error placing plane markup
 
 **Topic ID**: 32428

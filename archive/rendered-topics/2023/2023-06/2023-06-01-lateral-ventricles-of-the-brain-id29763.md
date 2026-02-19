@@ -1,3 +1,10 @@
+---
+topic_id: 29763
+title: "Lateral Ventricles Of The Brain"
+date: 2023-06-01
+url: https://discourse.slicer.org/t/29763
+---
+
 # Lateral Ventricles of the Brain
 
 **Topic ID**: 29763

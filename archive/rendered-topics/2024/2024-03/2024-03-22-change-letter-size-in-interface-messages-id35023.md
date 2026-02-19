@@ -1,3 +1,10 @@
+---
+topic_id: 35023
+title: "Change Letter Size In Interface Messages"
+date: 2024-03-22
+url: https://discourse.slicer.org/t/35023
+---
+
 # Change letter size in interface messages
 
 **Topic ID**: 35023

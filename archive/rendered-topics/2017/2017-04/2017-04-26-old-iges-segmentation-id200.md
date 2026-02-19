@@ -1,3 +1,10 @@
+---
+topic_id: 200
+title: "Old Iges Segmentation"
+date: 2017-04-26
+url: https://discourse.slicer.org/t/200
+---
+
 # Old IGES segmentation
 
 **Topic ID**: 200

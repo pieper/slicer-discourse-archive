@@ -1,3 +1,10 @@
+---
+topic_id: 16435
+title: "Automatic Vessel Endpoints Detection"
+date: 2021-03-08
+url: https://discourse.slicer.org/t/16435
+---
+
 # Automatic vessel endpoints detection
 
 **Topic ID**: 16435

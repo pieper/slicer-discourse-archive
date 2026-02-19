@@ -1,3 +1,10 @@
+---
+topic_id: 26525
+title: "Hide Main Window Show Only External View"
+date: 2022-12-01
+url: https://discourse.slicer.org/t/26525
+---
+
 # Hide main window - Show only external view
 
 **Topic ID**: 26525

@@ -1,3 +1,10 @@
+---
+topic_id: 11452
+title: "Quantitative Analysis In Critical Care Lung Ct"
+date: 2020-05-07
+url: https://discourse.slicer.org/t/11452
+---
+
 # Quantitative analysis in critical Care Lung CT
 
 **Topic ID**: 11452

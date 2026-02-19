@@ -1,3 +1,10 @@
+---
+topic_id: 44497
+title: "Segment Paint Did Not Remain Just Disappear"
+date: 2025-09-16
+url: https://discourse.slicer.org/t/44497
+---
+
 # Segment paint did not remain. just disappear
 
 **Topic ID**: 44497

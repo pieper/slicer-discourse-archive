@@ -1,3 +1,10 @@
+---
+topic_id: 34107
+title: "Progress Bar Windows Inside Is Transparent When Displaying I"
+date: 2024-02-02
+url: https://discourse.slicer.org/t/34107
+---
+
 # Progress bar window's inside is transparent when displaying it
 
 **Topic ID**: 34107

@@ -1,3 +1,10 @@
+---
+topic_id: 27438
+title: "Tag 0018 0050 Slice Thickness Does Not Correspond To What I"
+date: 2023-01-24
+url: https://discourse.slicer.org/t/27438
+---
+
 # Tag (0018,0050) Slice Thickness does not correspond to what I calculate in the image
 
 **Topic ID**: 27438

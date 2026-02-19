@@ -1,3 +1,10 @@
+---
+topic_id: 27189
+title: "3D Model Does Not Show Up"
+date: 2023-01-11
+url: https://discourse.slicer.org/t/27189
+---
+
 # 3D model does not show up
 
 **Topic ID**: 27189

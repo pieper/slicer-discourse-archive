@@ -1,3 +1,10 @@
+---
+topic_id: 44949
+title: "Fcsv Landmark Verileri Ile Grup Bazli Pca"
+date: 2025-11-03
+url: https://discourse.slicer.org/t/44949
+---
+
 # Fcsv Landmark Verileri ile Grup Bazlı PCA
 
 **Topic ID**: 44949

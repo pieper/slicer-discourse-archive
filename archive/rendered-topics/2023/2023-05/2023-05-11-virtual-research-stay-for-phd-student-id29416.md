@@ -1,3 +1,10 @@
+---
+topic_id: 29416
+title: "Virtual Research Stay For Phd Student"
+date: 2023-05-11
+url: https://discourse.slicer.org/t/29416
+---
+
 # Virtual research stay for PhD student
 
 **Topic ID**: 29416

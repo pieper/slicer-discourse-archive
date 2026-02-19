@@ -1,3 +1,10 @@
+---
+topic_id: 168
+title: "Na Mic Website And So Mantis Is Down"
+date: 2017-04-21
+url: https://discourse.slicer.org/t/168
+---
+
 # NA-MIC website and so Mantis is down
 
 **Topic ID**: 168

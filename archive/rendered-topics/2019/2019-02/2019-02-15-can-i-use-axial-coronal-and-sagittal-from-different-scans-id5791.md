@@ -1,3 +1,10 @@
+---
+topic_id: 5791
+title: "Can I Use Axial Coronal And Sagittal From Different Scans"
+date: 2019-02-15
+url: https://discourse.slicer.org/t/5791
+---
+
 # Can I Use Axial Coronal and Sagittal from Different Scans?
 
 **Topic ID**: 5791

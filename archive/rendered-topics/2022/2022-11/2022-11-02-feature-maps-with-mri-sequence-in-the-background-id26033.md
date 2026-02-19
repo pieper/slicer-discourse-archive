@@ -1,3 +1,10 @@
+---
+topic_id: 26033
+title: "Feature Maps With Mri Sequence In The Background"
+date: 2022-11-02
+url: https://discourse.slicer.org/t/26033
+---
+
 # Feature maps with MRI sequence in the background
 
 **Topic ID**: 26033

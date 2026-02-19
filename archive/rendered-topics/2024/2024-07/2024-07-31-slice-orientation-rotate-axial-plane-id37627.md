@@ -1,3 +1,10 @@
+---
+topic_id: 37627
+title: "Slice Orientation Rotate Axial Plane"
+date: 2024-07-31
+url: https://discourse.slicer.org/t/37627
+---
+
 # Slice orientation Rotate Axial plane
 
 **Topic ID**: 37627

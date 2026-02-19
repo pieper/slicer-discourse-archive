@@ -1,3 +1,10 @@
+---
+topic_id: 22367
+title: "Mailing List Mode Turned Itself On"
+date: 2022-03-08
+url: https://discourse.slicer.org/t/22367
+---
+
 # Mailing list mode turned itself on?
 
 **Topic ID**: 22367

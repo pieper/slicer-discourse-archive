@@ -1,3 +1,10 @@
+---
+topic_id: 19165
+title: "Is It Possible To Segment Image Data In The View Of Volume R"
+date: 2021-08-12
+url: https://discourse.slicer.org/t/19165
+---
+
 # Is it possible to segment image data in the view of volume rendering?
 
 **Topic ID**: 19165

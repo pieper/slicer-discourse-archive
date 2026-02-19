@@ -1,3 +1,10 @@
+---
+topic_id: 21822
+title: "Mesh Statistics Does Not Appear In 4 13 0 Version"
+date: 2022-02-06
+url: https://discourse.slicer.org/t/21822
+---
+
 # Mesh Statistics does not appear in 4.13.0 version?
 
 **Topic ID**: 21822

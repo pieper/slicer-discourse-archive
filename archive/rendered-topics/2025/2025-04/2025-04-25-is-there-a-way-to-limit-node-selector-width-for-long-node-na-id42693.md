@@ -1,3 +1,10 @@
+---
+topic_id: 42693
+title: "Is There A Way To Limit Node Selector Width For Long Node Na"
+date: 2025-04-25
+url: https://discourse.slicer.org/t/42693
+---
+
 # Is there a way to limit node selector width for long node names?
 
 **Topic ID**: 42693

@@ -1,3 +1,10 @@
+---
+topic_id: 13747
+title: "Liver Visualization In 3D"
+date: 2020-09-29
+url: https://discourse.slicer.org/t/13747
+---
+
 # Liver visualization in 3D
 
 **Topic ID**: 13747

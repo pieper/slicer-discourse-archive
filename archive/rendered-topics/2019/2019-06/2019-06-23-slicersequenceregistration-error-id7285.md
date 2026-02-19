@@ -1,3 +1,10 @@
+---
+topic_id: 7285
+title: "Slicersequenceregistration Error"
+date: 2019-06-23
+url: https://discourse.slicer.org/t/7285
+---
+
 # SlicerSequenceRegistration error
 
 **Topic ID**: 7285

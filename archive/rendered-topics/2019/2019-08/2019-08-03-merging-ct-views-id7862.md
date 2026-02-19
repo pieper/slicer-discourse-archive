@@ -1,3 +1,10 @@
+---
+topic_id: 7862
+title: "Merging Ct Views"
+date: 2019-08-03
+url: https://discourse.slicer.org/t/7862
+---
+
 # Merging CT-views 
 
 **Topic ID**: 7862

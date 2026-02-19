@@ -1,3 +1,10 @@
+---
+topic_id: 2529
+title: "Does Slicer Support The Batch Processing"
+date: 2018-04-06
+url: https://discourse.slicer.org/t/2529
+---
+
 # Does Slicer support the batch processing?
 
 **Topic ID**: 2529

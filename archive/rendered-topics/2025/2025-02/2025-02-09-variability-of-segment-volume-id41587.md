@@ -1,3 +1,10 @@
+---
+topic_id: 41587
+title: "Variability Of Segment Volume"
+date: 2025-02-09
+url: https://discourse.slicer.org/t/41587
+---
+
 # Variability of segment volume
 
 **Topic ID**: 41587

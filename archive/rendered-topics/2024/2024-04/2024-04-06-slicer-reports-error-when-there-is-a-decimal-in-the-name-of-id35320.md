@@ -1,3 +1,10 @@
+---
+topic_id: 35320
+title: "Slicer Reports Error When There Is A Decimal In The Name Of"
+date: 2024-04-06
+url: https://discourse.slicer.org/t/35320
+---
+
 # Slicer reports error when there is a decimal in the name of the nrrd file.
 
 **Topic ID**: 35320

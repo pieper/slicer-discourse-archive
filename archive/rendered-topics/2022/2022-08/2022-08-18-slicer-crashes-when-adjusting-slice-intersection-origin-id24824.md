@@ -1,3 +1,10 @@
+---
+topic_id: 24824
+title: "Slicer Crashes When Adjusting Slice Intersection Origin"
+date: 2022-08-18
+url: https://discourse.slicer.org/t/24824
+---
+
 # Slicer crashes when adjusting slice intersection origin
 
 **Topic ID**: 24824

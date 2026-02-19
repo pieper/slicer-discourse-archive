@@ -1,3 +1,10 @@
+---
+topic_id: 11435
+title: "Connecting To A Remote Dicom Server Through Proxy"
+date: 2020-05-06
+url: https://discourse.slicer.org/t/11435
+---
+
 # Connecting to a remote DICOM server through proxy
 
 **Topic ID**: 11435

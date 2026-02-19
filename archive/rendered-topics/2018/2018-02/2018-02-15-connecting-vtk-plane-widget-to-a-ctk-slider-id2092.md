@@ -1,3 +1,10 @@
+---
+topic_id: 2092
+title: "Connecting Vtk Plane Widget To A Ctk Slider"
+date: 2018-02-15
+url: https://discourse.slicer.org/t/2092
+---
+
 # Connecting vtk plane widget to a ctk slider
 
 **Topic ID**: 2092

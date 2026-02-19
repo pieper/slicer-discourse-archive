@@ -1,3 +1,10 @@
+---
+topic_id: 25864
+title: "Create Volume Node From Dcm List"
+date: 2022-10-24
+url: https://discourse.slicer.org/t/25864
+---
+
 # Create volume node from dcm list
 
 **Topic ID**: 25864

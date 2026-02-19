@@ -1,3 +1,10 @@
+---
+topic_id: 37072
+title: "Loading Scriptedcli Python Cli Modules With The Extension"
+date: 2024-06-27
+url: https://discourse.slicer.org/t/37072
+---
+
 # Loading scriptedCLI (python cli) modules with the extension
 
 **Topic ID**: 37072

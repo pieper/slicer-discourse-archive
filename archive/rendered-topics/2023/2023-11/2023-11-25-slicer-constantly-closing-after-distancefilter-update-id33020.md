@@ -1,3 +1,10 @@
+---
+topic_id: 33020
+title: "Slicer Constantly Closing After Distancefilter Update"
+date: 2023-11-25
+url: https://discourse.slicer.org/t/33020
+---
+
 # Slicer constantly closing after distanceFilter.Update()
 
 **Topic ID**: 33020

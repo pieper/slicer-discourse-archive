@@ -1,3 +1,10 @@
+---
+topic_id: 21854
+title: "No Module Named Vtkmodules Vtkcommoncore"
+date: 2022-02-08
+url: https://discourse.slicer.org/t/21854
+---
+
 # No module named vtkmodules.vtkCommonCore
 
 **Topic ID**: 21854

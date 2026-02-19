@@ -1,3 +1,10 @@
+---
+topic_id: 10503
+title: "Nviaa Aiaa Segmentation Error"
+date: 2020-03-02
+url: https://discourse.slicer.org/t/10503
+---
+
 # NVIAA AIAA segmentation error
 
 **Topic ID**: 10503

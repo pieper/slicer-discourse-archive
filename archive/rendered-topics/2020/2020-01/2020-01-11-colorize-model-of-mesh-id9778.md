@@ -1,3 +1,10 @@
+---
+topic_id: 9778
+title: "Colorize Model Of Mesh"
+date: 2020-01-11
+url: https://discourse.slicer.org/t/9778
+---
+
 # Colorize Model of Mesh
 
 **Topic ID**: 9778

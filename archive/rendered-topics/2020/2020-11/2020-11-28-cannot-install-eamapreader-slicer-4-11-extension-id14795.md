@@ -1,3 +1,10 @@
+---
+topic_id: 14795
+title: "Cannot Install Eamapreader Slicer 4 11 Extension"
+date: 2020-11-28
+url: https://discourse.slicer.org/t/14795
+---
+
 # Cannot install EAMapReader-Slicer-4.11 extension 
 
 **Topic ID**: 14795

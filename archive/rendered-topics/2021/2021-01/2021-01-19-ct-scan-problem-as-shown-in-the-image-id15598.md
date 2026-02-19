@@ -1,3 +1,10 @@
+---
+topic_id: 15598
+title: "Ct Scan Problem As Shown In The Image"
+date: 2021-01-19
+url: https://discourse.slicer.org/t/15598
+---
+
 # CT scan problem, as shown in the image
 
 **Topic ID**: 15598

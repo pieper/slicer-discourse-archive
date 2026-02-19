@@ -1,3 +1,10 @@
+---
+topic_id: 4071
+title: "Displaying Hounsfield Units Finding Average"
+date: 2018-09-11
+url: https://discourse.slicer.org/t/4071
+---
+
 # Displaying Hounsfield Units / Finding Average
 
 **Topic ID**: 4071

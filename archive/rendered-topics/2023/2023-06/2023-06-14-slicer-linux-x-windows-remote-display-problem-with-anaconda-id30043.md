@@ -1,3 +1,10 @@
+---
+topic_id: 30043
+title: "Slicer Linux X Windows Remote Display Problem With Anaconda"
+date: 2023-06-14
+url: https://discourse.slicer.org/t/30043
+---
+
 # Slicer Linux X Windows remote display problem with Anaconda .bashrc setup
 
 **Topic ID**: 30043

@@ -1,3 +1,10 @@
+---
+topic_id: 28346
+title: "Parameters File If The Default Normalisation Z Score Narrows"
+date: 2023-03-13
+url: https://discourse.slicer.org/t/28346
+---
+
 # Parameters file: If the default normalisation (z-score) narrows the pixel intensity range to -3/+3 this should mean that binWidth cannot be lower than 6? And that is for only one bin?
 
 **Topic ID**: 28346

@@ -1,3 +1,10 @@
+---
+topic_id: 34762
+title: "Slicer Segmentation Inverted Normals For Closed Surface Repr"
+date: 2024-03-07
+url: https://discourse.slicer.org/t/34762
+---
+
 # Slicer Segmentation inverted normals for closed surface representation
 
 **Topic ID**: 34762

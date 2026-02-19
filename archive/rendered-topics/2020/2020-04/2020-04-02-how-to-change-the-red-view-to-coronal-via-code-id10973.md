@@ -1,3 +1,10 @@
+---
+topic_id: 10973
+title: "How To Change The Red View To Coronal Via Code"
+date: 2020-04-02
+url: https://discourse.slicer.org/t/10973
+---
+
 # How to change the Red View to coronal via code?
 
 **Topic ID**: 10973

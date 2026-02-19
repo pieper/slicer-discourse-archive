@@ -1,3 +1,10 @@
+---
+topic_id: 13756
+title: "Get A Flipped And Rotated Segmentation Label Image Using Pyt"
+date: 2020-09-29
+url: https://discourse.slicer.org/t/13756
+---
+
 # Get a flipped and rotated segmentation label image using python script
 
 **Topic ID**: 13756

@@ -1,3 +1,10 @@
+---
+topic_id: 16918
+title: "How Do I Find The Qslicertransformsmodulewidget Ui File"
+date: 2021-04-02
+url: https://discourse.slicer.org/t/16918
+---
+
 # How do i find the qslicerTransformsModuleWidget.ui file
 
 **Topic ID**: 16918

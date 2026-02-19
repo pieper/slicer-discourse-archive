@@ -1,3 +1,10 @@
+---
+topic_id: 28149
+title: "Slicers Hangs While Running A Scripted Module"
+date: 2023-03-03
+url: https://discourse.slicer.org/t/28149
+---
+
 # Slicers hangs while running a scripted module
 
 **Topic ID**: 28149

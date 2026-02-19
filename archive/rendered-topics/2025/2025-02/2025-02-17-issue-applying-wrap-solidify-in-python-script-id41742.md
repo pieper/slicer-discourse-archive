@@ -1,3 +1,10 @@
+---
+topic_id: 41742
+title: "Issue Applying Wrap Solidify In Python Script"
+date: 2025-02-17
+url: https://discourse.slicer.org/t/41742
+---
+
 # Issue Applying Wrap Solidify in Python Script
 
 **Topic ID**: 41742

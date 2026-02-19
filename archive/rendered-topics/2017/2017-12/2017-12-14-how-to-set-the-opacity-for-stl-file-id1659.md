@@ -1,3 +1,10 @@
+---
+topic_id: 1659
+title: "How To Set The Opacity For Stl File"
+date: 2017-12-14
+url: https://discourse.slicer.org/t/1659
+---
+
 # How to set the opacity for stl file?
 
 **Topic ID**: 1659

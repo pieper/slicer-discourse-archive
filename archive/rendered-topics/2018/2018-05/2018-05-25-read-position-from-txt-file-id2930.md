@@ -1,3 +1,10 @@
+---
+topic_id: 2930
+title: "Read Position From Txt File"
+date: 2018-05-25
+url: https://discourse.slicer.org/t/2930
+---
+
 # Read position from txt file
 
 **Topic ID**: 2930

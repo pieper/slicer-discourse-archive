@@ -1,3 +1,10 @@
+---
+topic_id: 254
+title: "Centralize Loaded Volume In 3D View"
+date: 2017-05-03
+url: https://discourse.slicer.org/t/254
+---
+
 # Centralize loaded volume in 3d View
 
 **Topic ID**: 254

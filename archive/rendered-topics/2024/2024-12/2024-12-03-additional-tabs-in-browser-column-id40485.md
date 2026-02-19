@@ -1,3 +1,10 @@
+---
+topic_id: 40485
+title: "Additional Tabs In Browser Column"
+date: 2024-12-03
+url: https://discourse.slicer.org/t/40485
+---
+
 # Additional tabs in browser column
 
 **Topic ID**: 40485

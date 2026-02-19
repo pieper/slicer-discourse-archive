@@ -1,3 +1,10 @@
+---
+topic_id: 8087
+title: "When Saving A Table To A File That Is Opened No Error Is Sho"
+date: 2019-08-19
+url: https://discourse.slicer.org/t/8087
+---
+
 # When saving a table to a file that is opened, no error is shown
 
 **Topic ID**: 8087

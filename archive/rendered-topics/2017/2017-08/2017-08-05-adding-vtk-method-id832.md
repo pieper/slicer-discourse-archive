@@ -1,3 +1,10 @@
+---
+topic_id: 832
+title: "Adding Vtk Method"
+date: 2017-08-05
+url: https://discourse.slicer.org/t/832
+---
+
 # Adding VTK method?
 
 **Topic ID**: 832

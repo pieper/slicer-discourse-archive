@@ -1,3 +1,10 @@
+---
+topic_id: 36162
+title: "Retrieve The Segmentation And Source Volume From Segment Edi"
+date: 2024-05-15
+url: https://discourse.slicer.org/t/36162
+---
+
 # Retrieve the segmentation and source volume from Segment Editor (segmentEditorWidget)
 
 **Topic ID**: 36162

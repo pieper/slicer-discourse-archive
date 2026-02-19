@@ -1,3 +1,10 @@
+---
+topic_id: 23490
+title: "Signed Distance From Mean Shape And Output Csv Txt File For"
+date: 2022-05-19
+url: https://discourse.slicer.org/t/23490
+---
+
 # Signed distance from mean shape and output csv/txt file for 400 subjects
 
 **Topic ID**: 23490

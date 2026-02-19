@@ -1,3 +1,10 @@
+---
+topic_id: 14788
+title: "Segmentation Is Cropped To Minimum Extent"
+date: 2020-11-27
+url: https://discourse.slicer.org/t/14788
+---
+
 # Segmentation is cropped to minimum extent
 
 **Topic ID**: 14788

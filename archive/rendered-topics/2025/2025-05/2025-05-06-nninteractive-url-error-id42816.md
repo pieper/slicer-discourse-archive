@@ -1,3 +1,10 @@
+---
+topic_id: 42816
+title: "Nninteractive Url Error"
+date: 2025-05-06
+url: https://discourse.slicer.org/t/42816
+---
+
 # NNinteractive URL error
 
 **Topic ID**: 42816

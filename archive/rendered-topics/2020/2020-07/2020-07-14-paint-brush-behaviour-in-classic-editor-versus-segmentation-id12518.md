@@ -1,3 +1,10 @@
+---
+topic_id: 12518
+title: "Paint Brush Behaviour In Classic Editor Versus Segmentation"
+date: 2020-07-14
+url: https://discourse.slicer.org/t/12518
+---
+
 # Paint brush behaviour in Classic Editor versus Segmentation Editor
 
 **Topic ID**: 12518

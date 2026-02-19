@@ -1,3 +1,10 @@
+---
+topic_id: 25638
+title: "Cannot Drag And Drop Segmentation To The Application Window"
+date: 2022-10-11
+url: https://discourse.slicer.org/t/25638
+---
+
 # Cannot drag-and-drop segmentation to the application window and unequal view width on Windows11
 
 **Topic ID**: 25638

@@ -1,3 +1,10 @@
+---
+topic_id: 42009
+title: "How To Save The Image After Add Dicom Attribute"
+date: 2025-03-07
+url: https://discourse.slicer.org/t/42009
+---
+
 # How to save the image after add DICOM attribute
 
 **Topic ID**: 42009

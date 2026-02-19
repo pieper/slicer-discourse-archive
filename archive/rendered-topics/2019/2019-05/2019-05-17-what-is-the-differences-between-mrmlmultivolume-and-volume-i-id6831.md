@@ -1,3 +1,10 @@
+---
+topic_id: 6831
+title: "What Is The Differences Between Mrmlmultivolume And Volume I"
+date: 2019-05-17
+url: https://discourse.slicer.org/t/6831
+---
+
 # What is the differences between MRMLMultiVolume and Volume in Node Type of 3D slicer
 
 **Topic ID**: 6831

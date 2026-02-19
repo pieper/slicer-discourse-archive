@@ -1,3 +1,10 @@
+---
+topic_id: 32704
+title: "Lung Segmentation With Lungctsegmenter"
+date: 2023-11-09
+url: https://discourse.slicer.org/t/32704
+---
+
 # Lung segmentation with LungCTSegmenter
 
 **Topic ID**: 32704

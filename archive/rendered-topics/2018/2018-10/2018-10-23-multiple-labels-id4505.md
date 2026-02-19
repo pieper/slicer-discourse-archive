@@ -1,3 +1,10 @@
+---
+topic_id: 4505
+title: "Multiple Labels"
+date: 2018-10-23
+url: https://discourse.slicer.org/t/4505
+---
+
 # Multiple labels
 
 **Topic ID**: 4505

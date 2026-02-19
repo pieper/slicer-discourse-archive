@@ -1,3 +1,10 @@
+---
+topic_id: 9218
+title: "Slicer Segmentation Statistics Values"
+date: 2019-11-19
+url: https://discourse.slicer.org/t/9218
+---
+
 # Slicer Segmentation Statistics Values
 
 **Topic ID**: 9218

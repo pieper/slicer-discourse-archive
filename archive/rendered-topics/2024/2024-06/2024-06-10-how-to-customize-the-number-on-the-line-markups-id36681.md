@@ -1,3 +1,10 @@
+---
+topic_id: 36681
+title: "How To Customize The Number On The Line Markups"
+date: 2024-06-10
+url: https://discourse.slicer.org/t/36681
+---
+
 # How to customize the number on the line markups?
 
 **Topic ID**: 36681

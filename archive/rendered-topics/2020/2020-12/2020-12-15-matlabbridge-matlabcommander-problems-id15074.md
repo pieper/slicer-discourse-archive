@@ -1,3 +1,10 @@
+---
+topic_id: 15074
+title: "Matlabbridge Matlabcommander Problems"
+date: 2020-12-15
+url: https://discourse.slicer.org/t/15074
+---
+
 # MatlabBridge, MatlabCommander problems
 
 **Topic ID**: 15074

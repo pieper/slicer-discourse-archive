@@ -1,3 +1,10 @@
+---
+topic_id: 453
+title: "Slicer Loads Wrong Image Spacing"
+date: 2017-06-07
+url: https://discourse.slicer.org/t/453
+---
+
 # Slicer loads wrong image spacing
 
 **Topic ID**: 453

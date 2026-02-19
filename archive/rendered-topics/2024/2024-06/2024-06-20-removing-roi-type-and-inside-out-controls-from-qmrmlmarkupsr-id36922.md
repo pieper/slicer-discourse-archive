@@ -1,3 +1,10 @@
+---
+topic_id: 36922
+title: "Removing Roi Type And Inside Out Controls From Qmrmlmarkupsr"
+date: 2024-06-20
+url: https://discourse.slicer.org/t/36922
+---
+
 # Removing "ROI type" and "Inside Out" controls from qMRMLMarkupsROIWidget
 
 **Topic ID**: 36922

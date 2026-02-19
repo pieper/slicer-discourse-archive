@@ -1,3 +1,10 @@
+---
+topic_id: 15175
+title: "Automatic Lung Lobe Segmentation"
+date: 2020-12-21
+url: https://discourse.slicer.org/t/15175
+---
+
 # Automatic lung lobe segmentation
 
 **Topic ID**: 15175

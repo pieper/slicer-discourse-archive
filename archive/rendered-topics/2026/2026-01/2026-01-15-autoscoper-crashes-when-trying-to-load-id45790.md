@@ -1,3 +1,10 @@
+---
+topic_id: 45790
+title: "Autoscoper Crashes When Trying To Load"
+date: 2026-01-15
+url: https://discourse.slicer.org/t/45790
+---
+
 # Autoscoper crashes when trying to load
 
 **Topic ID**: 45790

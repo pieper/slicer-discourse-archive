@@ -1,3 +1,10 @@
+---
+topic_id: 2074
+title: "Adding Widgets To Layout"
+date: 2018-02-12
+url: https://discourse.slicer.org/t/2074
+---
+
 # Adding Widgets to Layout
 
 **Topic ID**: 2074

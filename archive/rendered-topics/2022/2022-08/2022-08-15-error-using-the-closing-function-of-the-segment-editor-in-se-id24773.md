@@ -1,3 +1,10 @@
+---
+topic_id: 24773
+title: "Error Using The Closing Function Of The Segment Editor In Se"
+date: 2022-08-15
+url: https://discourse.slicer.org/t/24773
+---
+
 # Error using the closing function of the segment editor in semi-automated segmentation using python
 
 **Topic ID**: 24773

@@ -1,3 +1,10 @@
+---
+topic_id: 6783
+title: "Schedule For Slicer 4 10 2 Patch Release"
+date: 2019-05-14
+url: https://discourse.slicer.org/t/6783
+---
+
 # Schedule for Slicer 4.10.2 patch release
 
 **Topic ID**: 6783

@@ -1,3 +1,10 @@
+---
+topic_id: 12122
+title: "Debugging A Loadable Extension Linux"
+date: 2020-06-19
+url: https://discourse.slicer.org/t/12122
+---
+
 # Debugging a Loadable Extension (Linux)
 
 **Topic ID**: 12122

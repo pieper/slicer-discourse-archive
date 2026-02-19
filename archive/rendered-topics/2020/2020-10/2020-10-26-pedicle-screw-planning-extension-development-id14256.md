@@ -1,3 +1,10 @@
+---
+topic_id: 14256
+title: "Pedicle Screw Planning Extension Development"
+date: 2020-10-26
+url: https://discourse.slicer.org/t/14256
+---
+
 # Pedicle screw planning extension development
 
 **Topic ID**: 14256

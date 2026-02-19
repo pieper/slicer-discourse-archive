@@ -1,3 +1,10 @@
+---
+topic_id: 15806
+title: "Feature Class Image Original Mask Original Image Interpolate"
+date: 2021-02-03
+url: https://discourse.slicer.org/t/15806
+---
+
 # Feature class (Image original, Mask original, Image interpolated, Mask interpolated)
 
 **Topic ID**: 15806

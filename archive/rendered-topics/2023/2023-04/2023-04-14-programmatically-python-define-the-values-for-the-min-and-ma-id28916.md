@@ -1,3 +1,10 @@
+---
+topic_id: 28916
+title: "Programmatically Python Define The Values For The Min And Ma"
+date: 2023-04-14
+url: https://discourse.slicer.org/t/28916
+---
+
 # Programmatically (python) define the values for the min and max of the slider in the volume widget (not the min-max of the window/level)
 
 **Topic ID**: 28916

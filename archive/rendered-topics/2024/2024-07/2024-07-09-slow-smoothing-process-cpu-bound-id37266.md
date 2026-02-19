@@ -1,3 +1,10 @@
+---
+topic_id: 37266
+title: "Slow Smoothing Process Cpu Bound"
+date: 2024-07-09
+url: https://discourse.slicer.org/t/37266
+---
+
 # Slow smoothing process, CPU bound
 
 **Topic ID**: 37266

@@ -1,3 +1,10 @@
+---
+topic_id: 33873
+title: "How To Develop 3D Slicer On A Website"
+date: 2024-01-19
+url: https://discourse.slicer.org/t/33873
+---
+
 # How to develop 3D slicer on a website
 
 **Topic ID**: 33873

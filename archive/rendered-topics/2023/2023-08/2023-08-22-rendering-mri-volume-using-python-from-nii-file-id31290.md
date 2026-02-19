@@ -1,3 +1,10 @@
+---
+topic_id: 31290
+title: "Rendering Mri Volume Using Python From Nii File"
+date: 2023-08-22
+url: https://discourse.slicer.org/t/31290
+---
+
 # Rendering MRI Volume using python from .nii file
 
 **Topic ID**: 31290

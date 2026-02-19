@@ -1,3 +1,10 @@
+---
+topic_id: 7696
+title: "How To Measure Cartilage Volume And Thickness"
+date: 2019-07-20
+url: https://discourse.slicer.org/t/7696
+---
+
 # How to measure cartilage volume and thickness
 
 **Topic ID**: 7696

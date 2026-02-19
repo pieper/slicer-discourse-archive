@@ -1,3 +1,10 @@
+---
+topic_id: 31423
+title: "Extra Planes In 5 4 0 In Segment Editor"
+date: 2023-08-29
+url: https://discourse.slicer.org/t/31423
+---
+
 # Extra planes in 5.4.0 in Segment Editor
 
 **Topic ID**: 31423

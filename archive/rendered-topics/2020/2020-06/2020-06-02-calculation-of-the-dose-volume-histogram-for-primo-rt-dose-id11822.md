@@ -1,3 +1,10 @@
+---
+topic_id: 11822
+title: "Calculation Of The Dose Volume Histogram For Primo Rt Dose"
+date: 2020-06-02
+url: https://discourse.slicer.org/t/11822
+---
+
 # Calculation of the Dose Volume Histogram for Primo RT Dose
 
 **Topic ID**: 11822

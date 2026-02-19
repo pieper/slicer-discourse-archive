@@ -1,3 +1,10 @@
+---
+topic_id: 34886
+title: "Shortcut To Go To Markup"
+date: 2024-03-14
+url: https://discourse.slicer.org/t/34886
+---
+
 # Shortcut to go to markup?
 
 **Topic ID**: 34886

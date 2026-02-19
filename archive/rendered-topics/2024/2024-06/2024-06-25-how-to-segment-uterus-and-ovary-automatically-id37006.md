@@ -1,3 +1,10 @@
+---
+topic_id: 37006
+title: "How To Segment Uterus And Ovary Automatically"
+date: 2024-06-25
+url: https://discourse.slicer.org/t/37006
+---
+
 # How to segment uterus and ovary automatically
 
 **Topic ID**: 37006

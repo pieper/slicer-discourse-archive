@@ -1,3 +1,10 @@
+---
+topic_id: 1324
+title: "How To Show The Vtk Object Which Links 3X Ranges In 3X Diffe"
+date: 2017-10-31
+url: https://discourse.slicer.org/t/1324
+---
+
 # How to show the vtk object which links 3x ranges in 3x different slices?
 
 **Topic ID**: 1324

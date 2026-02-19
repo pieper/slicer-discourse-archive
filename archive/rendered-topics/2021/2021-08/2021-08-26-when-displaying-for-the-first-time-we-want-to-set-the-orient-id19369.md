@@ -1,3 +1,10 @@
+---
+topic_id: 19369
+title: "When Displaying For The First Time We Want To Set The Orient"
+date: 2021-08-26
+url: https://discourse.slicer.org/t/19369
+---
+
 # When displaying for the first time, we want to set the orientation of the Anatomical plane
 
 **Topic ID**: 19369

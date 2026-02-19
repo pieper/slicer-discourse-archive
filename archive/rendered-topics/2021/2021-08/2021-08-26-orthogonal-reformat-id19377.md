@@ -1,3 +1,10 @@
+---
+topic_id: 19377
+title: "Orthogonal Reformat"
+date: 2021-08-26
+url: https://discourse.slicer.org/t/19377
+---
+
 # Orthogonal reformat
 
 **Topic ID**: 19377

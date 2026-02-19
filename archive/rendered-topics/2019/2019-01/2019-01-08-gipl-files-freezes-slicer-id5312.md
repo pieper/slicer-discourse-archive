@@ -1,3 +1,10 @@
+---
+topic_id: 5312
+title: "Gipl Files Freezes Slicer"
+date: 2019-01-08
+url: https://discourse.slicer.org/t/5312
+---
+
 # Gipl files freezes slicer
 
 **Topic ID**: 5312

@@ -1,3 +1,10 @@
+---
+topic_id: 45983
+title: "Missing Menu Items From Slicer Application Macos Ventura"
+date: 2026-01-29
+url: https://discourse.slicer.org/t/45983
+---
+
 # Missing menu items from Slicer Application macOS Ventura
 
 **Topic ID**: 45983

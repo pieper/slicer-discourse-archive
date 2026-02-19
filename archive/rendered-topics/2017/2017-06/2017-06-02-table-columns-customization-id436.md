@@ -1,3 +1,10 @@
+---
+topic_id: 436
+title: "Table Columns Customization"
+date: 2017-06-02
+url: https://discourse.slicer.org/t/436
+---
+
 # Table columns customization
 
 **Topic ID**: 436

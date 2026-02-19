@@ -1,3 +1,10 @@
+---
+topic_id: 28981
+title: "Cmake Setting In Vscode"
+date: 2023-04-18
+url: https://discourse.slicer.org/t/28981
+---
+
 # Cmake setting in vscode
 
 **Topic ID**: 28981

@@ -1,3 +1,10 @@
+---
+topic_id: 28071
+title: "Exceptions When Trying To Compute Center Lines Using Vtkvmtk"
+date: 2023-02-27
+url: https://discourse.slicer.org/t/28071
+---
+
 # Exceptions when trying to compute center lines using vtkvmtkPolyDataCenterlines
 
 **Topic ID**: 28071

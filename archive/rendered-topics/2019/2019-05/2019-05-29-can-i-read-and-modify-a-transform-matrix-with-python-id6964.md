@@ -1,3 +1,10 @@
+---
+topic_id: 6964
+title: "Can I Read And Modify A Transform Matrix With Python"
+date: 2019-05-29
+url: https://discourse.slicer.org/t/6964
+---
+
 # Can I read and modify a transform matrix with python
 
 **Topic ID**: 6964

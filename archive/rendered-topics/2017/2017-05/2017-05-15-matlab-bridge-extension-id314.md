@@ -1,3 +1,10 @@
+---
+topic_id: 314
+title: "Matlab Bridge Extension"
+date: 2017-05-15
+url: https://discourse.slicer.org/t/314
+---
+
 # Matlab Bridge Extension
 
 **Topic ID**: 314

@@ -1,3 +1,10 @@
+---
+topic_id: 5496
+title: "Designer Will Not Load With Slicer Widgets"
+date: 2019-01-24
+url: https://discourse.slicer.org/t/5496
+---
+
 # Designer will not load with slicer widgets
 
 **Topic ID**: 5496

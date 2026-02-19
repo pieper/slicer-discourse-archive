@@ -1,3 +1,10 @@
+---
+topic_id: 20991
+title: "Computationally Intensive Tasks Delay Invocation Allow User"
+date: 2021-12-10
+url: https://discourse.slicer.org/t/20991
+---
+
 # Computationally intensive tasks: delay invocation; allow user to abort
 
 **Topic ID**: 20991

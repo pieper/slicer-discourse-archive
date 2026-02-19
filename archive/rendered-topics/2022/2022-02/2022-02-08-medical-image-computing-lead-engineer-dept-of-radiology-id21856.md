@@ -1,3 +1,10 @@
+---
+topic_id: 21856
+title: "Medical Image Computing Lead Engineer Dept Of Radiology"
+date: 2022-02-08
+url: https://discourse.slicer.org/t/21856
+---
+
 # Medical Image Computing Lead Engineer Dept. of Radiology
 
 **Topic ID**: 21856

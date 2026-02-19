@@ -1,3 +1,10 @@
+---
+topic_id: 5139
+title: "Best Viewer To See Your Exported Models"
+date: 2018-12-19
+url: https://discourse.slicer.org/t/5139
+---
+
 # Best viewer to see your exported models
 
 **Topic ID**: 5139

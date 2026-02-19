@@ -1,3 +1,10 @@
+---
+topic_id: 24771
+title: "Problem How Can I Transform Nifti Files Forever"
+date: 2022-08-15
+url: https://discourse.slicer.org/t/24771
+---
+
 # Problem: How can i transform nifti files forever?
 
 **Topic ID**: 24771

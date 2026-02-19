@@ -1,3 +1,10 @@
+---
+topic_id: 12538
+title: "How To Get Current Segmentation Master Volume"
+date: 2020-07-14
+url: https://discourse.slicer.org/t/12538
+---
+
 # How to get current segmentation master volume?
 
 **Topic ID**: 12538

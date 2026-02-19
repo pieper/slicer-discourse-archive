@@ -1,3 +1,10 @@
+---
+topic_id: 29684
+title: "After Importmodeltosegmentationnode Some Segments Are Cubica"
+date: 2023-05-27
+url: https://discourse.slicer.org/t/29684
+---
+
 # After ImportModelToSegmentationNode some segments are cubical
 
 **Topic ID**: 29684

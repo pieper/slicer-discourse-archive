@@ -1,3 +1,10 @@
+---
+topic_id: 31063
+title: "Seeg Plugin Software Or Extension"
+date: 2023-08-09
+url: https://discourse.slicer.org/t/31063
+---
+
 # SEEG plugin software or extension
 
 **Topic ID**: 31063

@@ -1,3 +1,10 @@
+---
+topic_id: 17643
+title: "Slicer Cmake Configuration Fails With Vtk 9 On Ubuntu 20 04"
+date: 2021-05-16
+url: https://discourse.slicer.org/t/17643
+---
+
 # Slicer cmake-configuration fails with VTK 9 on Ubuntu 20.04
 
 **Topic ID**: 17643

@@ -1,3 +1,10 @@
+---
+topic_id: 8401
+title: "How To Save 3D Slicer Model Into Step File"
+date: 2019-09-12
+url: https://discourse.slicer.org/t/8401
+---
+
 # How to save 3D slicer model into .step file
 
 **Topic ID**: 8401

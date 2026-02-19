@@ -1,3 +1,10 @@
+---
+topic_id: 30929
+title: "Pytorch Extension Installation"
+date: 2023-08-02
+url: https://discourse.slicer.org/t/30929
+---
+
 # Pytorch extension installation
 
 **Topic ID**: 30929

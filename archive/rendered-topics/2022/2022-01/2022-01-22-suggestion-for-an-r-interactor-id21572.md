@@ -1,3 +1,10 @@
+---
+topic_id: 21572
+title: "Suggestion For An R Interactor"
+date: 2022-01-22
+url: https://discourse.slicer.org/t/21572
+---
+
 # Suggestion for an R interactor
 
 **Topic ID**: 21572

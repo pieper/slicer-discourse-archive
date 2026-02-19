@@ -1,3 +1,10 @@
+---
+topic_id: 35177
+title: "How To Change Height For Editing Mode For Qmrmlsubjecthierar"
+date: 2024-03-30
+url: https://discourse.slicer.org/t/35177
+---
+
 # How to change height for editing mode for qMRMLSubjectHierarchyTreeView
 
 **Topic ID**: 35177

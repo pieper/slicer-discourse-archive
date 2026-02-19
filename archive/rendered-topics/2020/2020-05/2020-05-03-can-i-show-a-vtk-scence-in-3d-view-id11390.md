@@ -1,3 +1,10 @@
+---
+topic_id: 11390
+title: "Can I Show A Vtk Scence In 3D View"
+date: 2020-05-03
+url: https://discourse.slicer.org/t/11390
+---
+
 # Can I show a VTK scence in 3d view?
 
 **Topic ID**: 11390

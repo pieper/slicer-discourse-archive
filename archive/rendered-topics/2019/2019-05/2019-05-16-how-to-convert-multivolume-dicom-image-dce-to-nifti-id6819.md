@@ -1,3 +1,10 @@
+---
+topic_id: 6819
+title: "How To Convert Multivolume Dicom Image Dce To Nifti"
+date: 2019-05-16
+url: https://discourse.slicer.org/t/6819
+---
+
 # How to convert multivolume(dicom)image(DCE)to nifti 
 
 **Topic ID**: 6819

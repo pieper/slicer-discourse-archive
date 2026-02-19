@@ -1,3 +1,10 @@
+---
+topic_id: 7592
+title: "Dicom Database Re Indexing Between Preview And 4 10 2"
+date: 2019-07-15
+url: https://discourse.slicer.org/t/7592
+---
+
 # DICOM database re-indexing between preview and 4.10.2
 
 **Topic ID**: 7592

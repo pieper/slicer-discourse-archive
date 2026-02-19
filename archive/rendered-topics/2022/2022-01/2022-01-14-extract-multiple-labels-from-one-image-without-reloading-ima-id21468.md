@@ -1,3 +1,10 @@
+---
+topic_id: 21468
+title: "Extract Multiple Labels From One Image Without Reloading Ima"
+date: 2022-01-14
+url: https://discourse.slicer.org/t/21468
+---
+
 # Extract multiple labels from one image without reloading image and mask data? 
 
 **Topic ID**: 21468

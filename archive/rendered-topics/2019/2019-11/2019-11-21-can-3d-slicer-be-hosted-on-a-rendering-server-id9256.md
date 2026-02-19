@@ -1,3 +1,10 @@
+---
+topic_id: 9256
+title: "Can 3D Slicer Be Hosted On A Rendering Server"
+date: 2019-11-21
+url: https://discourse.slicer.org/t/9256
+---
+
 # Can 3D Slicer be hosted on a rendering server?
 
 **Topic ID**: 9256

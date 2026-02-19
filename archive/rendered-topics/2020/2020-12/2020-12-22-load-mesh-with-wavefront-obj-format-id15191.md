@@ -1,3 +1,10 @@
+---
+topic_id: 15191
+title: "Load Mesh With Wavefront Obj Format"
+date: 2020-12-22
+url: https://discourse.slicer.org/t/15191
+---
+
 # Load mesh with wavefront (obj) format
 
 **Topic ID**: 15191

@@ -1,3 +1,10 @@
+---
+topic_id: 18483
+title: "Project Week Results Presentations Starting Shortly 10Am Et"
+date: 2021-07-02
+url: https://discourse.slicer.org/t/18483
+---
+
 # Project Week Results Presentations Starting Shortly (10am ET on Friday July 2nd)
 
 **Topic ID**: 18483

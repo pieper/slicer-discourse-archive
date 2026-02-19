@@ -1,3 +1,10 @@
+---
+topic_id: 15574
+title: "Smoothing Factor"
+date: 2021-01-18
+url: https://discourse.slicer.org/t/15574
+---
+
 # Smoothing factor?
 
 **Topic ID**: 15574

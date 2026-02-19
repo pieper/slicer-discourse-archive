@@ -1,3 +1,10 @@
+---
+topic_id: 23680
+title: "Rotational Transformation Matrix Surface Registration Of Mod"
+date: 2022-06-02
+url: https://discourse.slicer.org/t/23680
+---
+
 # Rotational transformation matrix & surface registration of models
 
 **Topic ID**: 23680

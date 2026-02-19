@@ -1,3 +1,10 @@
+---
+topic_id: 1744
+title: "Model Created From Skull Ct Looks Lacy With Many Bony Holes"
+date: 2017-12-30
+url: https://discourse.slicer.org/t/1744
+---
+
 # Model created from skull CT looks lacy with many bony holes
 
 **Topic ID**: 1744

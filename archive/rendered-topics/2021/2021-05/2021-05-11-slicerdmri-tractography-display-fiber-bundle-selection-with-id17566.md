@@ -1,3 +1,10 @@
+---
+topic_id: 17566
+title: "Slicerdmri Tractography Display Fiber Bundle Selection With"
+date: 2021-05-11
+url: https://discourse.slicer.org/t/17566
+---
+
 # SlicerDMRI Tractography Display, Fiber bundle selection with custom function
 
 **Topic ID**: 17566

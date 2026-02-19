@@ -1,3 +1,10 @@
+---
+topic_id: 29312
+title: "How To Configure Vr Controls Interactions In Python"
+date: 2023-05-06
+url: https://discourse.slicer.org/t/29312
+---
+
 # How to configure VR controls interactions in Python?
 
 **Topic ID**: 29312

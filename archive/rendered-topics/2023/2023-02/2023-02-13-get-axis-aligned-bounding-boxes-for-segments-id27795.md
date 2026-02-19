@@ -1,3 +1,10 @@
+---
+topic_id: 27795
+title: "Get Axis Aligned Bounding Boxes For Segments"
+date: 2023-02-13
+url: https://discourse.slicer.org/t/27795
+---
+
 # Get axis-aligned bounding boxes for segments
 
 **Topic ID**: 27795

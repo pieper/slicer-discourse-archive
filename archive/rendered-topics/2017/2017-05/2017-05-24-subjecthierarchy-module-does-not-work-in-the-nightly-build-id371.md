@@ -1,3 +1,10 @@
+---
+topic_id: 371
+title: "Subjecthierarchy Module Does Not Work In The Nightly Build"
+date: 2017-05-24
+url: https://discourse.slicer.org/t/371
+---
+
 # SubjectHierarchy Module does not work in the nightly build
 
 **Topic ID**: 371

@@ -1,3 +1,10 @@
+---
+topic_id: 6718
+title: "Enable View Synchronization In Real Time Between 3D View On"
+date: 2019-05-07
+url: https://discourse.slicer.org/t/6718
+---
+
 # Enable view synchronization in real-time between 3D View on Slicer and VR view on HTC vive
 
 **Topic ID**: 6718

@@ -1,3 +1,10 @@
+---
+topic_id: 45801
+title: "Aligning Cbct Intraoral Scan"
+date: 2026-01-16
+url: https://discourse.slicer.org/t/45801
+---
+
 # Aligning CBCT & intraoral scan
 
 **Topic ID**: 45801

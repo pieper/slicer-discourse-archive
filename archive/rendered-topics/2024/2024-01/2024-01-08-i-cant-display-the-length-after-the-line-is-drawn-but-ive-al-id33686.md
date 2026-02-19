@@ -1,3 +1,10 @@
+---
+topic_id: 33686
+title: "I Cant Display The Length After The Line Is Drawn But Ive Al"
+date: 2024-01-08
+url: https://discourse.slicer.org/t/33686
+---
+
 # I can't display the length after the line is drawn, but I've already checked the "length" option
 
 **Topic ID**: 33686

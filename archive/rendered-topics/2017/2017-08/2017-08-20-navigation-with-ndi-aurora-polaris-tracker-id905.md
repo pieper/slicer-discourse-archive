@@ -1,3 +1,10 @@
+---
+topic_id: 905
+title: "Navigation With Ndi Aurora Polaris Tracker"
+date: 2017-08-20
+url: https://discourse.slicer.org/t/905
+---
+
 # Navigation with NDI Aurora/Polaris tracker
 
 **Topic ID**: 905

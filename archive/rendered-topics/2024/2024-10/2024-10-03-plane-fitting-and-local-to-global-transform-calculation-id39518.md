@@ -1,3 +1,10 @@
+---
+topic_id: 39518
+title: "Plane Fitting And Local To Global Transform Calculation"
+date: 2024-10-03
+url: https://discourse.slicer.org/t/39518
+---
+
 # Plane Fitting and Local to Global Transform Calculation
 
 **Topic ID**: 39518

@@ -1,3 +1,10 @@
+---
+topic_id: 25802
+title: "Cropping A Roi In A Sequence Node Using Python"
+date: 2022-10-20
+url: https://discourse.slicer.org/t/25802
+---
+
 # Cropping a ROI in a sequence node using python
 
 **Topic ID**: 25802

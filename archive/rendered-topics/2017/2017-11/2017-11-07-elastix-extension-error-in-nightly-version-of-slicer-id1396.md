@@ -1,3 +1,10 @@
+---
+topic_id: 1396
+title: "Elastix Extension Error In Nightly Version Of Slicer"
+date: 2017-11-07
+url: https://discourse.slicer.org/t/1396
+---
+
 # Elastix extension error in Nightly version of Slicer
 
 **Topic ID**: 1396

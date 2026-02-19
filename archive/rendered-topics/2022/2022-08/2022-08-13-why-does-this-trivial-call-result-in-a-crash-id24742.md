@@ -1,3 +1,10 @@
+---
+topic_id: 24742
+title: "Why Does This Trivial Call Result In A Crash"
+date: 2022-08-13
+url: https://discourse.slicer.org/t/24742
+---
+
 # Why does this trivial call result in a crash?
 
 **Topic ID**: 24742

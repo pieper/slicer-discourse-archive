@@ -1,3 +1,10 @@
+---
+topic_id: 40139
+title: "Run Python Script In Thread Cause Crash"
+date: 2024-11-12
+url: https://discourse.slicer.org/t/40139
+---
+
 # Run python script in thread cause crash
 
 **Topic ID**: 40139

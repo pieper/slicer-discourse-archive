@@ -1,3 +1,10 @@
+---
+topic_id: 27176
+title: "Conversion Nii To Nrrd Segmentation"
+date: 2023-01-10
+url: https://discourse.slicer.org/t/27176
+---
+
 # conversion NII to NRRD segmentation
 
 **Topic ID**: 27176

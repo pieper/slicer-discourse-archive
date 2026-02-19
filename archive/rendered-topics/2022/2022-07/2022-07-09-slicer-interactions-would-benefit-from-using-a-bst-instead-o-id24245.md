@@ -1,3 +1,10 @@
+---
+topic_id: 24245
+title: "Slicer Interactions Would Benefit From Using A Bst Instead O"
+date: 2022-07-09
+url: https://discourse.slicer.org/t/24245
+---
+
 # Slicer interactions would benefit from using a BST instead of linear search
 
 **Topic ID**: 24245

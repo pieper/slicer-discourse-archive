@@ -1,3 +1,10 @@
+---
+topic_id: 37497
+title: "How To Enable Nvidia Gpu Support For Various Operations"
+date: 2024-07-22
+url: https://discourse.slicer.org/t/37497
+---
+
 # How to enable NVidia GPU support for various operations
 
 **Topic ID**: 37497

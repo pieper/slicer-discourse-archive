@@ -1,3 +1,10 @@
+---
+topic_id: 36223
+title: "There Is No Search Bar In 3D Slicer I Have"
+date: 2024-05-17
+url: https://discourse.slicer.org/t/36223
+---
+
 # There is no search bar in 3d slicer i have
 
 **Topic ID**: 36223

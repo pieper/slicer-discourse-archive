@@ -1,3 +1,10 @@
+---
+topic_id: 18954
+title: "How To Perform Rigid Registration And Copy Roi From Moving I"
+date: 2021-07-28
+url: https://discourse.slicer.org/t/18954
+---
+
 # How to perform rigid registration, and copy roi from moving image to fixed image?
 
 **Topic ID**: 18954

@@ -1,3 +1,10 @@
+---
+topic_id: 12367
+title: "Vtk Streamlines Not Aligning With Reference Image"
+date: 2020-07-03
+url: https://discourse.slicer.org/t/12367
+---
+
 # Vtk streamlines not aligning with reference image
 
 **Topic ID**: 12367

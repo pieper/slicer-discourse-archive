@@ -1,3 +1,10 @@
+---
+topic_id: 40316
+title: "Slicer On A Cluster Using A Virtual Desktop"
+date: 2024-11-21
+url: https://discourse.slicer.org/t/40316
+---
+
 # Slicer on a cluster using a virtual desktop
 
 **Topic ID**: 40316

@@ -1,3 +1,10 @@
+---
+topic_id: 18477
+title: "Real Time Image Guided Surgery"
+date: 2021-07-02
+url: https://discourse.slicer.org/t/18477
+---
+
 # Real-time Image Guided Surgery
 
 **Topic ID**: 18477

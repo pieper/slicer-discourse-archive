@@ -1,3 +1,10 @@
+---
+topic_id: 11658
+title: "Radiomics Feature Extraction Is Very Slow"
+date: 2020-05-21
+url: https://discourse.slicer.org/t/11658
+---
+
 # Radiomics feature extraction is very slow. 
 
 **Topic ID**: 11658

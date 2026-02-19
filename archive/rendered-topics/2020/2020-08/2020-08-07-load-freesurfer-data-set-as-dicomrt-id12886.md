@@ -1,3 +1,10 @@
+---
+topic_id: 12886
+title: "Load Freesurfer Data Set As Dicomrt"
+date: 2020-08-07
+url: https://discourse.slicer.org/t/12886
+---
+
 # Load FreeSurfer data set as DICOMRT
 
 **Topic ID**: 12886

@@ -1,3 +1,10 @@
+---
+topic_id: 9000
+title: "Virtual Reality Recording"
+date: 2019-11-03
+url: https://discourse.slicer.org/t/9000
+---
+
 # Virtual reality recording
 
 **Topic ID**: 9000

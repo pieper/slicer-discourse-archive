@@ -1,3 +1,10 @@
+---
+topic_id: 28399
+title: "Totalsegmentator Error At First Run Dummyfile Object Has No"
+date: 2023-03-15
+url: https://discourse.slicer.org/t/28399
+---
+
 # TotalSegmentator error at first run: ‘DummyFile’ object has no attribute ‘flush’
 
 **Topic ID**: 28399

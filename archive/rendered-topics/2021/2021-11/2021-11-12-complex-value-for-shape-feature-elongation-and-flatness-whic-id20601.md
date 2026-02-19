@@ -1,3 +1,10 @@
+---
+topic_id: 20601
+title: "Complex Value For Shape Feature Elongation And Flatness Whic"
+date: 2021-11-12
+url: https://discourse.slicer.org/t/20601
+---
+
 # complex value for shape feature elongation and flatness which involves two PCA components 
 
 **Topic ID**: 20601

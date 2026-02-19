@@ -1,3 +1,10 @@
+---
+topic_id: 11229
+title: "Automating Thresholding Of Existing Segments"
+date: 2020-04-21
+url: https://discourse.slicer.org/t/11229
+---
+
 # Automating thresholding of existing segments
 
 **Topic ID**: 11229

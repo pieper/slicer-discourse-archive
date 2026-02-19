@@ -1,3 +1,10 @@
+---
+topic_id: 10541
+title: "Position And To Move X Y Z Object In 3D Scene"
+date: 2020-03-04
+url: https://discourse.slicer.org/t/10541
+---
+
 # position and to move (x,y,z)  object in 3D Scene
 
 **Topic ID**: 10541

@@ -1,3 +1,10 @@
+---
+topic_id: 14203
+title: "Import Dicom Files"
+date: 2020-10-22
+url: https://discourse.slicer.org/t/14203
+---
+
 # Import DICOM files
 
 **Topic ID**: 14203

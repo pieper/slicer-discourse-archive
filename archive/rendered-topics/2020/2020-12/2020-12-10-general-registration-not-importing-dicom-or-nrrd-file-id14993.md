@@ -1,3 +1,10 @@
+---
+topic_id: 14993
+title: "General Registration Not Importing Dicom Or Nrrd File"
+date: 2020-12-10
+url: https://discourse.slicer.org/t/14993
+---
+
 # General registration not importing dicom or nrrd file
 
 **Topic ID**: 14993

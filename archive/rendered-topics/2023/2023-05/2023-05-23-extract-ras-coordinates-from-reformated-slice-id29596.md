@@ -1,3 +1,10 @@
+---
+topic_id: 29596
+title: "Extract Ras Coordinates From Reformated Slice"
+date: 2023-05-23
+url: https://discourse.slicer.org/t/29596
+---
+
 # Extract RAS coordinates from reformated slice
 
 **Topic ID**: 29596

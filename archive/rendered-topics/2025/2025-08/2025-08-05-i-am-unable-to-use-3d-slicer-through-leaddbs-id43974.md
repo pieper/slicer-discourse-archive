@@ -1,3 +1,10 @@
+---
+topic_id: 43974
+title: "I Am Unable To Use 3D Slicer Through Leaddbs"
+date: 2025-08-05
+url: https://discourse.slicer.org/t/43974
+---
+
 # I am unable to use 3D slicer through leaddbs
 
 **Topic ID**: 43974

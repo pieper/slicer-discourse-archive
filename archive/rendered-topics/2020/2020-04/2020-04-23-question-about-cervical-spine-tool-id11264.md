@@ -1,3 +1,10 @@
+---
+topic_id: 11264
+title: "Question About Cervical Spine Tool"
+date: 2020-04-23
+url: https://discourse.slicer.org/t/11264
+---
+
 # Question about cervical spine tool
 
 **Topic ID**: 11264

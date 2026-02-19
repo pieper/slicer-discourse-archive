@@ -1,3 +1,10 @@
+---
+topic_id: 23223
+title: "Why Slice View Can Not Be Updated Changed With One By One Im"
+date: 2022-05-01
+url: https://discourse.slicer.org/t/23223
+---
+
 # Why slice-view can not be updated/changed with one-by-one image dimension with a small pixel-spacing?
 
 **Topic ID**: 23223

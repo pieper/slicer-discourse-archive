@@ -1,3 +1,10 @@
+---
+topic_id: 12004
+title: "Add A Button To Switch To Another Module"
+date: 2020-06-12
+url: https://discourse.slicer.org/t/12004
+---
+
 # Add a button to switch to another module
 
 **Topic ID**: 12004

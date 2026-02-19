@@ -1,3 +1,10 @@
+---
+topic_id: 31446
+title: "Extensionindex Can The Scmurl Field Point To Anywhere"
+date: 2023-08-30
+url: https://discourse.slicer.org/t/31446
+---
+
 # ExtensionIndex : can the scmurl field point to anywhere?
 
 **Topic ID**: 31446

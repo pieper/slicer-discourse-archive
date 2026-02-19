@@ -1,3 +1,10 @@
+---
+topic_id: 30348
+title: "How To Rotate Images In 3D Slicer"
+date: 2023-07-02
+url: https://discourse.slicer.org/t/30348
+---
+
 # How to rotate images in 3D slicer?
 
 **Topic ID**: 30348

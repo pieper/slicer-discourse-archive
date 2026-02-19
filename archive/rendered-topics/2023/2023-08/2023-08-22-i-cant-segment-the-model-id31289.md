@@ -1,3 +1,10 @@
+---
+topic_id: 31289
+title: "I Cant Segment The Model"
+date: 2023-08-22
+url: https://discourse.slicer.org/t/31289
+---
+
 #  I can't segment the model
 
 **Topic ID**: 31289

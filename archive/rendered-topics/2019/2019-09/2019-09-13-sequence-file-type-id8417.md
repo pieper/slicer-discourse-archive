@@ -1,3 +1,10 @@
+---
+topic_id: 8417
+title: "Sequence File Type"
+date: 2019-09-13
+url: https://discourse.slicer.org/t/8417
+---
+
 # Sequence file type
 
 **Topic ID**: 8417

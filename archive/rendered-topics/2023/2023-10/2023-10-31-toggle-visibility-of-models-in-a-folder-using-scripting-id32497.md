@@ -1,3 +1,10 @@
+---
+topic_id: 32497
+title: "Toggle Visibility Of Models In A Folder Using Scripting"
+date: 2023-10-31
+url: https://discourse.slicer.org/t/32497
+---
+
 # Toggle visibility of models in a folder using scripting
 
 **Topic ID**: 32497

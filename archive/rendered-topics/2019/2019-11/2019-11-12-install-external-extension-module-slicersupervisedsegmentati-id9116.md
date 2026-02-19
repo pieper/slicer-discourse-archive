@@ -1,3 +1,10 @@
+---
+topic_id: 9116
+title: "Install External Extension Module Slicersupervisedsegmentati"
+date: 2019-11-12
+url: https://discourse.slicer.org/t/9116
+---
+
 # Install external extension/module SlicerSupervisedSegmentation
 
 **Topic ID**: 9116

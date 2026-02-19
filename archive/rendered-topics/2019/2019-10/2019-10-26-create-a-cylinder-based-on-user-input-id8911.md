@@ -1,3 +1,10 @@
+---
+topic_id: 8911
+title: "Create A Cylinder Based On User Input"
+date: 2019-10-26
+url: https://discourse.slicer.org/t/8911
+---
+
 # Create a cylinder based on user input
 
 **Topic ID**: 8911

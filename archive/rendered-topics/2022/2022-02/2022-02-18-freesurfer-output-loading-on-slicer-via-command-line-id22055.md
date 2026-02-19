@@ -1,3 +1,10 @@
+---
+topic_id: 22055
+title: "Freesurfer Output Loading On Slicer Via Command Line"
+date: 2022-02-18
+url: https://discourse.slicer.org/t/22055
+---
+
 # FreeSurfer output loading on slicer via command line
 
 **Topic ID**: 22055

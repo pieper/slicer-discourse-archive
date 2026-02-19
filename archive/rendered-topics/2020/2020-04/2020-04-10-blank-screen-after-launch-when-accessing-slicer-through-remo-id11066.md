@@ -1,3 +1,10 @@
+---
+topic_id: 11066
+title: "Blank Screen After Launch When Accessing Slicer Through Remo"
+date: 2020-04-10
+url: https://discourse.slicer.org/t/11066
+---
+
 # Blank Screen after launch when accessing Slicer through remote desktop
 
 **Topic ID**: 11066

@@ -1,3 +1,10 @@
+---
+topic_id: 17068
+title: "Cannot See 3D Viewer And Segmentation Apply Button Not Worki"
+date: 2021-04-13
+url: https://discourse.slicer.org/t/17068
+---
+
 # cannot see 3D viewer and segmentation apply button not working.
 
 **Topic ID**: 17068

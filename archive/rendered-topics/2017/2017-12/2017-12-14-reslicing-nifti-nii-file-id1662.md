@@ -1,3 +1,10 @@
+---
+topic_id: 1662
+title: "Reslicing Nifti Nii File"
+date: 2017-12-14
+url: https://discourse.slicer.org/t/1662
+---
+
 # reslicing nifti(.nii) file
 
 **Topic ID**: 1662

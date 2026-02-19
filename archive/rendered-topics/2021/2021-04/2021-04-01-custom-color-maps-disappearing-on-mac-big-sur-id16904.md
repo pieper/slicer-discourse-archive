@@ -1,3 +1,10 @@
+---
+topic_id: 16904
+title: "Custom Color Maps Disappearing On Mac Big Sur"
+date: 2021-04-01
+url: https://discourse.slicer.org/t/16904
+---
+
 # Custom color maps disappearing (on MAC big sur)
 
 **Topic ID**: 16904

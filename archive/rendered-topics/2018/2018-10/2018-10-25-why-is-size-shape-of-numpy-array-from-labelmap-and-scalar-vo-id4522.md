@@ -1,3 +1,10 @@
+---
+topic_id: 4522
+title: "Why Is Size Shape Of Numpy Array From Labelmap And Scalar Vo"
+date: 2018-10-25
+url: https://discourse.slicer.org/t/4522
+---
+
 # Why is size/shape of numpy array from labelmap and scalar volume not the same?
 
 **Topic ID**: 4522

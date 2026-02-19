@@ -1,3 +1,10 @@
+---
+topic_id: 4178
+title: "How To Use Dicom Export Without Changing Removing Tags Of Di"
+date: 2018-09-24
+url: https://discourse.slicer.org/t/4178
+---
+
 # How to use "DICOM Export" without changing/removing tags of DICOM?
 
 **Topic ID**: 4178

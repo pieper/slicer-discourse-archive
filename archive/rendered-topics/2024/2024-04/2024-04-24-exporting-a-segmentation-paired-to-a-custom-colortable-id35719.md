@@ -1,3 +1,10 @@
+---
+topic_id: 35719
+title: "Exporting A Segmentation Paired To A Custom Colortable"
+date: 2024-04-24
+url: https://discourse.slicer.org/t/35719
+---
+
 # Exporting a segmentation paired to a custom colortable
 
 **Topic ID**: 35719

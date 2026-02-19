@@ -1,3 +1,10 @@
+---
+topic_id: 24215
+title: "Difference Between Py And Ipynb Code Execution"
+date: 2022-07-06
+url: https://discourse.slicer.org/t/24215
+---
+
 # Difference between .py and .ipynb code execution
 
 **Topic ID**: 24215

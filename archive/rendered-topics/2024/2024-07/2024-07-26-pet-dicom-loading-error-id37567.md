@@ -1,3 +1,10 @@
+---
+topic_id: 37567
+title: "Pet Dicom Loading Error"
+date: 2024-07-26
+url: https://discourse.slicer.org/t/37567
+---
+
 # PET DICOM loading error
 
 **Topic ID**: 37567

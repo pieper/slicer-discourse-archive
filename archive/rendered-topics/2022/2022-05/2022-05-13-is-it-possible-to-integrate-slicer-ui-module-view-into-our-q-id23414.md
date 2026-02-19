@@ -1,3 +1,10 @@
+---
+topic_id: 23414
+title: "Is It Possible To Integrate Slicer Ui Module View Into Our Q"
+date: 2022-05-13
+url: https://discourse.slicer.org/t/23414
+---
+
 # Is it possible to integrate Slicer UI module/view into our Qt 6 QML application?
 
 **Topic ID**: 23414

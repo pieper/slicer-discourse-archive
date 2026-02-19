@@ -1,3 +1,10 @@
+---
+topic_id: 43025
+title: "Slicerultrasound Extension When Might It Be Updated Through"
+date: 2025-05-21
+url: https://discourse.slicer.org/t/43025
+---
+
 # SlicerUltrasound extension - when might it be updated through the manager?
 
 **Topic ID**: 43025

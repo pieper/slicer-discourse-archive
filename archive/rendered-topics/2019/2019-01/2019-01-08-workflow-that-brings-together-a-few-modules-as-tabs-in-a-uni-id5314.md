@@ -1,3 +1,10 @@
+---
+topic_id: 5314
+title: "Workflow That Brings Together A Few Modules As Tabs In A Uni"
+date: 2019-01-08
+url: https://discourse.slicer.org/t/5314
+---
+
 # Workflow that brings together a few modules as tabs in a unifying parent module.
 
 **Topic ID**: 5314

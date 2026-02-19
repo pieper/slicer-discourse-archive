@@ -1,3 +1,10 @@
+---
+topic_id: 33188
+title: "How To Change Color Of Text And Bar Of Rgb Slice View"
+date: 2023-12-03
+url: https://discourse.slicer.org/t/33188
+---
+
 # How to change color of text and Bar of RGB slice view?
 
 **Topic ID**: 33188

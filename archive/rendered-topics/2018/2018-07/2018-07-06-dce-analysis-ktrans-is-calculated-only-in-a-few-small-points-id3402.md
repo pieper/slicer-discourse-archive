@@ -1,3 +1,10 @@
+---
+topic_id: 3402
+title: "Dce Analysis Ktrans Is Calculated Only In A Few Small Points"
+date: 2018-07-06
+url: https://discourse.slicer.org/t/3402
+---
+
 # DCE analysis - Ktrans is calculated only in a few small points
 
 **Topic ID**: 3402

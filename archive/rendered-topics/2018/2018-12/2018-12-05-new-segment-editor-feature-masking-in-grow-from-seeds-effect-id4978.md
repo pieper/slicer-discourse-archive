@@ -1,3 +1,10 @@
+---
+topic_id: 4978
+title: "New Segment Editor Feature Masking In Grow From Seeds Effect"
+date: 2018-12-05
+url: https://discourse.slicer.org/t/4978
+---
+
 # New Segment Editor feature: masking in Grow from seeds effect
 
 **Topic ID**: 4978

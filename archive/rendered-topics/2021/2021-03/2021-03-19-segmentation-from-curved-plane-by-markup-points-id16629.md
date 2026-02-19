@@ -1,3 +1,10 @@
+---
+topic_id: 16629
+title: "Segmentation From Curved Plane By Markup Points"
+date: 2021-03-19
+url: https://discourse.slicer.org/t/16629
+---
+
 # Segmentation from curved plane by markup points
 
 **Topic ID**: 16629

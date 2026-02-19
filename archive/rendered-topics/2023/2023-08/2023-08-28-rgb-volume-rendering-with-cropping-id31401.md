@@ -1,3 +1,10 @@
+---
+topic_id: 31401
+title: "Rgb Volume Rendering With Cropping"
+date: 2023-08-28
+url: https://discourse.slicer.org/t/31401
+---
+
 # RGB volume rendering with cropping
 
 **Topic ID**: 31401

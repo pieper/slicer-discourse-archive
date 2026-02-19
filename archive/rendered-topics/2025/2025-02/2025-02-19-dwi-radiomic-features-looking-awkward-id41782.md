@@ -1,3 +1,10 @@
+---
+topic_id: 41782
+title: "Dwi Radiomic Features Looking Awkward"
+date: 2025-02-19
+url: https://discourse.slicer.org/t/41782
+---
+
 # DWI radiomic features looking awkward?
 
 **Topic ID**: 41782

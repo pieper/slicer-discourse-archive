@@ -1,3 +1,10 @@
+---
+topic_id: 37877
+title: "Dcm File Registration Using Segmentation As Mask Vtk Type Ch"
+date: 2024-08-14
+url: https://discourse.slicer.org/t/37877
+---
+
 # dcm file registration using segmentation as mask (vtk type changing)
 
 **Topic ID**: 37877

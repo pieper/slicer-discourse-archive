@@ -1,3 +1,10 @@
+---
+topic_id: 38099
+title: "Visualizing The Neutral Axis On Segment Geometry"
+date: 2024-08-28
+url: https://discourse.slicer.org/t/38099
+---
+
 # Visualizing the neutral axis on segment geometry
 
 **Topic ID**: 38099

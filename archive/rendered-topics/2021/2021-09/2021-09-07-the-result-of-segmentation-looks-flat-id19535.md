@@ -1,3 +1,10 @@
+---
+topic_id: 19535
+title: "The Result Of Segmentation Looks Flat"
+date: 2021-09-07
+url: https://discourse.slicer.org/t/19535
+---
+
 # The result of segmentation looks flat
 
 **Topic ID**: 19535

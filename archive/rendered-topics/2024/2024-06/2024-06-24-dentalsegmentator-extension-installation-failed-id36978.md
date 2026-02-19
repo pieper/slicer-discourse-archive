@@ -1,3 +1,10 @@
+---
+topic_id: 36978
+title: "Dentalsegmentator Extension Installation Failed"
+date: 2024-06-24
+url: https://discourse.slicer.org/t/36978
+---
+
 # DentalSegmentator extension installation failed
 
 **Topic ID**: 36978

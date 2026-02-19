@@ -1,3 +1,10 @@
+---
+topic_id: 15986
+title: "Dedine Borders Between Bones"
+date: 2021-02-14
+url: https://discourse.slicer.org/t/15986
+---
+
 # Dedine  borders between bones
 
 **Topic ID**: 15986

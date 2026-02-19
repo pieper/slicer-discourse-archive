@@ -1,3 +1,10 @@
+---
+topic_id: 12817
+title: "How To Solve The Error When Swiss Skull Stripper Is Running"
+date: 2020-08-01
+url: https://discourse.slicer.org/t/12817
+---
+
 # How to solve the error when swiss skull stripper is running in windows system
 
 **Topic ID**: 12817

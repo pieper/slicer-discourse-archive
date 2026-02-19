@@ -1,3 +1,10 @@
+---
+topic_id: 19648
+title: "Creating A Line Between Already Made Mark Up Points"
+date: 2021-09-13
+url: https://discourse.slicer.org/t/19648
+---
+
 # Creating a line between already made mark up points
 
 **Topic ID**: 19648

@@ -1,3 +1,10 @@
+---
+topic_id: 5493
+title: "Hide Segments During Segmentation"
+date: 2019-01-24
+url: https://discourse.slicer.org/t/5493
+---
+
 # Hide segments during segmentation
 
 **Topic ID**: 5493

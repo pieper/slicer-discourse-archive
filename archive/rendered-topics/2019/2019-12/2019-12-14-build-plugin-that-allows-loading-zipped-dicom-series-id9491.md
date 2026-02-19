@@ -1,3 +1,10 @@
+---
+topic_id: 9491
+title: "Build Plugin That Allows Loading Zipped Dicom Series"
+date: 2019-12-14
+url: https://discourse.slicer.org/t/9491
+---
+
 # build plugin that allows loading zipped dicom series
 
 **Topic ID**: 9491

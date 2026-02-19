@@ -1,3 +1,10 @@
+---
+topic_id: 39978
+title: "Messed Up Semi Landmark Names After Resampling"
+date: 2024-11-01
+url: https://discourse.slicer.org/t/39978
+---
+
 # Messed up semi-landmark names after resampling
 
 **Topic ID**: 39978

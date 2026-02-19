@@ -1,3 +1,10 @@
+---
+topic_id: 31288
+title: "I Have Problem With Local Treshold"
+date: 2023-08-22
+url: https://discourse.slicer.org/t/31288
+---
+
 # I have problem with local treshold 
 
 **Topic ID**: 31288

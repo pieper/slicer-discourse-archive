@@ -1,3 +1,10 @@
+---
+topic_id: 28383
+title: "Wrap Solidify Error Mesh Empty"
+date: 2023-03-14
+url: https://discourse.slicer.org/t/28383
+---
+
 # Wrap Solidify error "mesh empty"
 
 **Topic ID**: 28383

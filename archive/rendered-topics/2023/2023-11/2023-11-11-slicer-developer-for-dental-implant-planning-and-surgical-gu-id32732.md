@@ -1,3 +1,10 @@
+---
+topic_id: 32732
+title: "Slicer Developer For Dental Implant Planning And Surgical Gu"
+date: 2023-11-11
+url: https://discourse.slicer.org/t/32732
+---
+
 # Slicer Developer for Dental Implant Planning and Surgical Guide Creation
 
 **Topic ID**: 32732

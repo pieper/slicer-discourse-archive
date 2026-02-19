@@ -1,3 +1,10 @@
+---
+topic_id: 4656
+title: "Ruler In Orthographic 3D View"
+date: 2018-11-06
+url: https://discourse.slicer.org/t/4656
+---
+
 # Ruler in (orthographic) 3D view
 
 **Topic ID**: 4656

@@ -1,3 +1,10 @@
+---
+topic_id: 42844
+title: "We Have Completed The Development Of The Instance Segmentati"
+date: 2025-05-09
+url: https://discourse.slicer.org/t/42844
+---
+
 # We have completed the development of the instance segmentation plugin for individual teeth, and it supports batch operations
 
 **Topic ID**: 42844

@@ -1,3 +1,10 @@
+---
+topic_id: 37913
+title: "Regression In The Dicom Data Base"
+date: 2024-08-16
+url: https://discourse.slicer.org/t/37913
+---
+
 # Regression in the DICOM data base
 
 **Topic ID**: 37913

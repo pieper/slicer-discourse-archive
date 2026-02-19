@@ -1,3 +1,10 @@
+---
+topic_id: 16277
+title: "Grey Values Gv To Hu Units Conversion"
+date: 2021-03-01
+url: https://discourse.slicer.org/t/16277
+---
+
 # Grey values (GV) to HU units conversion
 
 **Topic ID**: 16277

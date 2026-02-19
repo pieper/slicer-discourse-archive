@@ -1,3 +1,10 @@
+---
+topic_id: 45052
+title: "Qmrmlsubjecthierarchycombobox Setting Nonedisplay From Pytho"
+date: 2025-11-12
+url: https://discourse.slicer.org/t/45052
+---
+
 # qMRMLSubjectHierarchyComboBox: Setting noneDisplay from Python segfaults
 
 **Topic ID**: 45052

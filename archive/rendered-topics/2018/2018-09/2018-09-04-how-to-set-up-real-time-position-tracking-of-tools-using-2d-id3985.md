@@ -1,3 +1,10 @@
+---
+topic_id: 3985
+title: "How To Set Up Real Time Position Tracking Of Tools Using 2D"
+date: 2018-09-04
+url: https://discourse.slicer.org/t/3985
+---
+
 # How to set up real-time position tracking of tools using 2D barcodes
 
 **Topic ID**: 3985

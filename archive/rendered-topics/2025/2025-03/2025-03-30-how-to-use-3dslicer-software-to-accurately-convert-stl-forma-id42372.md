@@ -1,3 +1,10 @@
+---
+topic_id: 42372
+title: "How To Use 3Dslicer Software To Accurately Convert Stl Forma"
+date: 2025-03-30
+url: https://discourse.slicer.org/t/42372
+---
+
 # How to use 3dslicer software to accurately convert STL format files into nii format files
 
 **Topic ID**: 42372

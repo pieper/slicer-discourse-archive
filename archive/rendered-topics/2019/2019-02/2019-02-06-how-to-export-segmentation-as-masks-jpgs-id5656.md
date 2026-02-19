@@ -1,3 +1,10 @@
+---
+topic_id: 5656
+title: "How To Export Segmentation As Masks Jpgs"
+date: 2019-02-06
+url: https://discourse.slicer.org/t/5656
+---
+
 # How to export segmentation as masks (.jpgs?)
 
 **Topic ID**: 5656

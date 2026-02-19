@@ -1,3 +1,10 @@
+---
+topic_id: 141
+title: "Explicitly Add New Lines In Message Content"
+date: 2017-04-18
+url: https://discourse.slicer.org/t/141
+---
+
 # Explicitly add new lines in message content
 
 **Topic ID**: 141

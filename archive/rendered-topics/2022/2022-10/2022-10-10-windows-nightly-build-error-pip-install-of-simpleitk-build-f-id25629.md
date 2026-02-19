@@ -1,3 +1,10 @@
+---
+topic_id: 25629
+title: "Windows Nightly Build Error Pip Install Of Simpleitk Build F"
+date: 2022-10-10
+url: https://discourse.slicer.org/t/25629
+---
+
 # Windows Nightly build error: pip install of SimpleITK build failing
 
 **Topic ID**: 25629

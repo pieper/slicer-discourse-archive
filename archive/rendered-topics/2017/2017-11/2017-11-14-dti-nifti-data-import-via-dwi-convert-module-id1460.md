@@ -1,3 +1,10 @@
+---
+topic_id: 1460
+title: "Dti Nifti Data Import Via Dwi Convert Module"
+date: 2017-11-14
+url: https://discourse.slicer.org/t/1460
+---
+
 # DTI Nifti data import via DWI Convert Module
 
 **Topic ID**: 1460

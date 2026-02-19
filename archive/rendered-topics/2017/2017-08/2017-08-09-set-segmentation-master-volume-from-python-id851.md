@@ -1,3 +1,10 @@
+---
+topic_id: 851
+title: "Set Segmentation Master Volume From Python"
+date: 2017-08-09
+url: https://discourse.slicer.org/t/851
+---
+
 # Set segmentation master volume from Python
 
 **Topic ID**: 851

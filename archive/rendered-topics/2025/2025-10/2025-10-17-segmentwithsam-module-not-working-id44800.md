@@ -1,3 +1,10 @@
+---
+topic_id: 44800
+title: "Segmentwithsam Module Not Working"
+date: 2025-10-17
+url: https://discourse.slicer.org/t/44800
+---
+
 # SegmentWithSAM module not working
 
 **Topic ID**: 44800

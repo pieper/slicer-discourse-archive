@@ -1,3 +1,10 @@
+---
+topic_id: 38074
+title: "Publication Of Updated Segmentations Tutorial"
+date: 2024-08-28
+url: https://discourse.slicer.org/t/38074
+---
+
 # Publication of updated segmentations tutorial
 
 **Topic ID**: 38074

@@ -1,3 +1,10 @@
+---
+topic_id: 21607
+title: "Translation Of Scene And Node To Different Languages"
+date: 2022-01-24
+url: https://discourse.slicer.org/t/21607
+---
+
 # Translation of "scene" and "node" to different languages
 
 **Topic ID**: 21607

@@ -1,3 +1,10 @@
+---
+topic_id: 31502
+title: "Monailabel And Slicer Segmentation Label Number"
+date: 2023-09-01
+url: https://discourse.slicer.org/t/31502
+---
+
 # Monailabel and slicer segmentation label number
 
 **Topic ID**: 31502

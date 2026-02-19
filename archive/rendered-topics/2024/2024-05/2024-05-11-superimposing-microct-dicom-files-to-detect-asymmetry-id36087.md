@@ -1,3 +1,10 @@
+---
+topic_id: 36087
+title: "Superimposing Microct Dicom Files To Detect Asymmetry"
+date: 2024-05-11
+url: https://discourse.slicer.org/t/36087
+---
+
 # Superimposing MicroCT DICOM files to detect Asymmetry 
 
 **Topic ID**: 36087

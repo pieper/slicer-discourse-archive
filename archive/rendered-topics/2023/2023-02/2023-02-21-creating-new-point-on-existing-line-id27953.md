@@ -1,3 +1,10 @@
+---
+topic_id: 27953
+title: "Creating New Point On Existing Line"
+date: 2023-02-21
+url: https://discourse.slicer.org/t/27953
+---
+
 # Creating new point on existing line
 
 **Topic ID**: 27953

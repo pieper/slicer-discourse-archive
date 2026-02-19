@@ -1,3 +1,10 @@
+---
+topic_id: 43523
+title: "Totalsegmentator Licensed Tasks Not Appearing In 3D Slicer I"
+date: 2025-06-27
+url: https://discourse.slicer.org/t/43523
+---
+
 # TotalSegmentator Licensed Tasks Not Appearing in 3D Slicer Interface
 
 **Topic ID**: 43523

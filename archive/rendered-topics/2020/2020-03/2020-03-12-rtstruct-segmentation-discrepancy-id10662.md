@@ -1,3 +1,10 @@
+---
+topic_id: 10662
+title: "Rtstruct Segmentation Discrepancy"
+date: 2020-03-12
+url: https://discourse.slicer.org/t/10662
+---
+
 # RTSTRUCT segmentation discrepancy
 
 **Topic ID**: 10662

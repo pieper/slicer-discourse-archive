@@ -1,3 +1,10 @@
+---
+topic_id: 1740
+title: "Emsegmenter With Atlas Problem"
+date: 2017-12-29
+url: https://discourse.slicer.org/t/1740
+---
+
 # EMSegmenter with Atlas problem
 
 **Topic ID**: 1740

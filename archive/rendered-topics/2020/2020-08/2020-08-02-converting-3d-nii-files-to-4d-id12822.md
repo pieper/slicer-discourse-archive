@@ -1,3 +1,10 @@
+---
+topic_id: 12822
+title: "Converting 3D Nii Files To 4D"
+date: 2020-08-02
+url: https://discourse.slicer.org/t/12822
+---
+
 # converting 3D nii files to 4D
 
 **Topic ID**: 12822

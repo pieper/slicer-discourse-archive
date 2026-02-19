@@ -1,3 +1,10 @@
+---
+topic_id: 43799
+title: "Real Time Mesh Deformation Within Plus Server"
+date: 2025-07-21
+url: https://discourse.slicer.org/t/43799
+---
+
 # Real-time mesh deformation within PLUS Server
 
 **Topic ID**: 43799

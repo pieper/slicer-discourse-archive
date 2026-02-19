@@ -1,3 +1,10 @@
+---
+topic_id: 9344
+title: "Lay Person Guide"
+date: 2019-12-01
+url: https://discourse.slicer.org/t/9344
+---
+
 # Lay person guide?
 
 **Topic ID**: 9344

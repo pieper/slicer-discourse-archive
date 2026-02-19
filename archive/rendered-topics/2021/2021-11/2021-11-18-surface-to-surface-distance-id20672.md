@@ -1,3 +1,10 @@
+---
+topic_id: 20672
+title: "Surface To Surface Distance"
+date: 2021-11-18
+url: https://discourse.slicer.org/t/20672
+---
+
 # Surface to surface distance
 
 **Topic ID**: 20672

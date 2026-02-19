@@ -1,3 +1,10 @@
+---
+topic_id: 19230
+title: "4D Ultrasound Extract 3D Data To Use In Other Applications"
+date: 2021-08-17
+url: https://discourse.slicer.org/t/19230
+---
+
 # 4D ultrasound - extract 3D data to use in other applications?
 
 **Topic ID**: 19230

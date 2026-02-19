@@ -1,3 +1,10 @@
+---
+topic_id: 5680
+title: "Is It Possible To Combine Label Maps And Images Into A Singl"
+date: 2019-02-07
+url: https://discourse.slicer.org/t/5680
+---
+
 # Is it possible to combine Label Maps and Images into a single file?
 
 **Topic ID**: 5680

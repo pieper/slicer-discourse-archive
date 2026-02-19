@@ -1,3 +1,10 @@
+---
+topic_id: 25601
+title: "Skin Marker Segmentation"
+date: 2022-10-08
+url: https://discourse.slicer.org/t/25601
+---
+
 # Skin marker segmentation
 
 **Topic ID**: 25601

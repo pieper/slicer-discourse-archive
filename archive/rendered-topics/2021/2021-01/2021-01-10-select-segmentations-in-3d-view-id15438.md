@@ -1,3 +1,10 @@
+---
+topic_id: 15438
+title: "Select Segmentations In 3D View"
+date: 2021-01-10
+url: https://discourse.slicer.org/t/15438
+---
+
 # select segmentations in 3D view
 
 **Topic ID**: 15438

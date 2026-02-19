@@ -1,3 +1,10 @@
+---
+topic_id: 19034
+title: "Converting Open Surface Model Into Segmentation"
+date: 2021-08-03
+url: https://discourse.slicer.org/t/19034
+---
+
 # Converting open surface model into segmentation
 
 **Topic ID**: 19034

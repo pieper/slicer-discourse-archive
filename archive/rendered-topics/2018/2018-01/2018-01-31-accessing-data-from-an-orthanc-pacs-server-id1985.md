@@ -1,3 +1,10 @@
+---
+topic_id: 1985
+title: "Accessing Data From An Orthanc Pacs Server"
+date: 2018-01-31
+url: https://discourse.slicer.org/t/1985
+---
+
 # Accessing data from an Orthanc PACS server
 
 **Topic ID**: 1985

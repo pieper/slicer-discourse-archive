@@ -1,3 +1,10 @@
+---
+topic_id: 29627
+title: "How To Load The Segmentation With Dcm Format"
+date: 2023-05-24
+url: https://discourse.slicer.org/t/29627
+---
+
 # How to load the segmentation with dcm format?
 
 **Topic ID**: 29627

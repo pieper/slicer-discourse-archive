@@ -1,3 +1,10 @@
+---
+topic_id: 2452
+title: "I Want To Analysis The Bone Using Bone Texture Module What S"
+date: 2018-03-28
+url: https://discourse.slicer.org/t/2452
+---
+
 # I want to analysis the bone using "bone texture" module, what should i do ?
 
 **Topic ID**: 2452

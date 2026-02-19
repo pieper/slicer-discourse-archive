@@ -1,3 +1,10 @@
+---
+topic_id: 1876
+title: "Issue Using Swiss Skull Stripper Module"
+date: 2018-01-19
+url: https://discourse.slicer.org/t/1876
+---
+
 # Issue using Swiss Skull Stripper Module
 
 **Topic ID**: 1876

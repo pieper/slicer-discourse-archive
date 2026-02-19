@@ -1,3 +1,10 @@
+---
+topic_id: 359
+title: "Knee Bones Segmentation"
+date: 2017-05-22
+url: https://discourse.slicer.org/t/359
+---
+
 # Knee bones segmentation
 
 **Topic ID**: 359

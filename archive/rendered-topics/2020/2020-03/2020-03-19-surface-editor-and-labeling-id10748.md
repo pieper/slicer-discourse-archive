@@ -1,3 +1,10 @@
+---
+topic_id: 10748
+title: "Surface Editor And Labeling"
+date: 2020-03-19
+url: https://discourse.slicer.org/t/10748
+---
+
 # Surface editor and labeling
 
 **Topic ID**: 10748

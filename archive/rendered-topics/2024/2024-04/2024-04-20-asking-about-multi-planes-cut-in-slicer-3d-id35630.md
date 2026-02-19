@@ -1,3 +1,10 @@
+---
+topic_id: 35630
+title: "Asking About Multi Planes Cut In Slicer 3D"
+date: 2024-04-20
+url: https://discourse.slicer.org/t/35630
+---
+
 # Asking about multi planes cut in SLicer 3D
 
 **Topic ID**: 35630

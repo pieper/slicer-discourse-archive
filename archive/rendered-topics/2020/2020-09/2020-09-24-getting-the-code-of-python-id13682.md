@@ -1,3 +1,10 @@
+---
+topic_id: 13682
+title: "Getting The Code Of Python"
+date: 2020-09-24
+url: https://discourse.slicer.org/t/13682
+---
+
 # getting the code of Python
 
 **Topic ID**: 13682

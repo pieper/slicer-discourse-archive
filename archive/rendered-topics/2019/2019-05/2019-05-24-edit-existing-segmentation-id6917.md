@@ -1,3 +1,10 @@
+---
+topic_id: 6917
+title: "Edit Existing Segmentation"
+date: 2019-05-24
+url: https://discourse.slicer.org/t/6917
+---
+
 # Edit existing segmentation
 
 **Topic ID**: 6917

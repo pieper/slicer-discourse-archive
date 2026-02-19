@@ -1,3 +1,10 @@
+---
+topic_id: 13414
+title: "3D Binary Mask From Both Sagittal Frontal Axial Segments"
+date: 2020-09-10
+url: https://discourse.slicer.org/t/13414
+---
+
 # 3D binary mask from both sagittal frontal axial segments
 
 **Topic ID**: 13414

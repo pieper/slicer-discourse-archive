@@ -1,3 +1,10 @@
+---
+topic_id: 2233
+title: "Are Qt4 And Qt5 Still Supported"
+date: 2018-03-03
+url: https://discourse.slicer.org/t/2233
+---
+
 # Are Qt4 and Qt5 still supported?
 
 **Topic ID**: 2233

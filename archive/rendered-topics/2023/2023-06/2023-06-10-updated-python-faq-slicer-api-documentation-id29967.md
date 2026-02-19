@@ -1,3 +1,10 @@
+---
+topic_id: 29967
+title: "Updated Python Faq Slicer Api Documentation"
+date: 2023-06-10
+url: https://discourse.slicer.org/t/29967
+---
+
 # Updated Python FAQ & Slicer API documentation
 
 **Topic ID**: 29967

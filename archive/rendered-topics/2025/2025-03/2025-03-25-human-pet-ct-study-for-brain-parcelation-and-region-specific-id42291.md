@@ -1,3 +1,10 @@
+---
+topic_id: 42291
+title: "Human Pet Ct Study For Brain Parcelation And Region Specific"
+date: 2025-03-25
+url: https://discourse.slicer.org/t/42291
+---
+
 # Human PET/CT Study for Brain Parcelation and Region-Specific PET Quantification
 
 **Topic ID**: 42291

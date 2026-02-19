@@ -1,3 +1,10 @@
+---
+topic_id: 20525
+title: "How Do I Integrate These Installed Extensions Into The Exe I"
+date: 2021-11-08
+url: https://discourse.slicer.org/t/20525
+---
+
 # How do I integrate these installed extensions into the EXE installation package?  
 
 **Topic ID**: 20525

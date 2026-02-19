@@ -1,3 +1,10 @@
+---
+topic_id: 24556
+title: "How To Access Realtime Outside Signs"
+date: 2022-07-29
+url: https://discourse.slicer.org/t/24556
+---
+
 # How to access realtime outside signs?
 
 **Topic ID**: 24556

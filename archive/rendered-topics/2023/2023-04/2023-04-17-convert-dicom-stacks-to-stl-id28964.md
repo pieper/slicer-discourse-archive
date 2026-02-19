@@ -1,3 +1,10 @@
+---
+topic_id: 28964
+title: "Convert Dicom Stacks To Stl"
+date: 2023-04-17
+url: https://discourse.slicer.org/t/28964
+---
+
 # Convert DICOM stacks to STL
 
 **Topic ID**: 28964

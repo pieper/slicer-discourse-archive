@@ -1,3 +1,10 @@
+---
+topic_id: 42594
+title: "Monai Auto3Dseg Segmentation Error"
+date: 2025-04-17
+url: https://discourse.slicer.org/t/42594
+---
+
 # MONAI Auto3DSeg Segmentation Error
 
 **Topic ID**: 42594

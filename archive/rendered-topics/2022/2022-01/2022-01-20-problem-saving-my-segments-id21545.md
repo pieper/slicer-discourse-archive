@@ -1,3 +1,10 @@
+---
+topic_id: 21545
+title: "Problem Saving My Segments"
+date: 2022-01-20
+url: https://discourse.slicer.org/t/21545
+---
+
 # Problem Saving my segments
 
 **Topic ID**: 21545

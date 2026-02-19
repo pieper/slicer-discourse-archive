@@ -1,3 +1,10 @@
+---
+topic_id: 2523
+title: "Offline Reconstruction With Other Devices"
+date: 2018-04-05
+url: https://discourse.slicer.org/t/2523
+---
+
 # Offline reconstruction with other devices
 
 **Topic ID**: 2523

@@ -1,3 +1,10 @@
+---
+topic_id: 12062
+title: "Compliance With Ibsi"
+date: 2020-06-17
+url: https://discourse.slicer.org/t/12062
+---
+
 # Compliance with IBSI
 
 **Topic ID**: 12062

@@ -1,3 +1,10 @@
+---
+topic_id: 12117
+title: "New Module Extract Centerline In Slicervmtk Extension"
+date: 2020-06-19
+url: https://discourse.slicer.org/t/12117
+---
+
 # New module: Extract Centerline (in SlicerVMTK extension)
 
 **Topic ID**: 12117

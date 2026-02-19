@@ -1,3 +1,10 @@
+---
+topic_id: 21883
+title: "3D Ct Backprojection Based On Flat X Ray Images"
+date: 2022-02-09
+url: https://discourse.slicer.org/t/21883
+---
+
 # 3D CT Backprojection based on flat X-ray images
 
 **Topic ID**: 21883

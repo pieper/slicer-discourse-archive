@@ -1,3 +1,10 @@
+---
+topic_id: 18360
+title: "Individual Muscle Manual Segmentation"
+date: 2021-06-28
+url: https://discourse.slicer.org/t/18360
+---
+
 # individual muscle - manual segmentation
 
 **Topic ID**: 18360

@@ -1,3 +1,10 @@
+---
+topic_id: 4136
+title: "Dual Energy Series Reconstruction"
+date: 2018-09-18
+url: https://discourse.slicer.org/t/4136
+---
+
 # Dual energy series reconstruction
 
 **Topic ID**: 4136

@@ -1,3 +1,10 @@
+---
+topic_id: 20133
+title: "Calculating Volumes From Image Stacks Scale Does Not Match U"
+date: 2021-10-13
+url: https://discourse.slicer.org/t/20133
+---
+
 # Calculating volumes from image stacks, scale does not match up.
 
 **Topic ID**: 20133

@@ -1,3 +1,10 @@
+---
+topic_id: 562
+title: "Multi Layer Segmenting"
+date: 2017-06-23
+url: https://discourse.slicer.org/t/562
+---
+
 # Multi layer segmenting
 
 **Topic ID**: 562

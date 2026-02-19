@@ -1,3 +1,10 @@
+---
+topic_id: 24127
+title: "Release Announcements"
+date: 2022-06-30
+url: https://discourse.slicer.org/t/24127
+---
+
 # Release announcements?
 
 **Topic ID**: 24127

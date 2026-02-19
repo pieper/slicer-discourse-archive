@@ -1,3 +1,10 @@
+---
+topic_id: 9592
+title: "Point Inside A Closed Surface Centre"
+date: 2019-12-23
+url: https://discourse.slicer.org/t/9592
+---
+
 # Point inside a closed surface/centre
 
 **Topic ID**: 9592

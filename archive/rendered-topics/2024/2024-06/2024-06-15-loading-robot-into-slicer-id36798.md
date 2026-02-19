@@ -1,3 +1,10 @@
+---
+topic_id: 36798
+title: "Loading Robot Into Slicer"
+date: 2024-06-15
+url: https://discourse.slicer.org/t/36798
+---
+
 # Loading Robot into Slicer
 
 **Topic ID**: 36798

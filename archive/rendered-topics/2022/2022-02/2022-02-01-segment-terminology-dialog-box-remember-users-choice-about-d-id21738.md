@@ -1,3 +1,10 @@
+---
+topic_id: 21738
+title: "Segment Terminology Dialog Box Remember Users Choice About D"
+date: 2022-02-01
+url: https://discourse.slicer.org/t/21738
+---
+
 # Segment terminology dialog box: remember user's choice about displaying advanced terminology
 
 **Topic ID**: 21738

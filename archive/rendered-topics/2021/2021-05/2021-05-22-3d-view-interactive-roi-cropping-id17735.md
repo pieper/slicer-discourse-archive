@@ -1,3 +1,10 @@
+---
+topic_id: 17735
+title: "3D View Interactive Roi Cropping"
+date: 2021-05-22
+url: https://discourse.slicer.org/t/17735
+---
+
 # 3D View interactive ROI Cropping
 
 **Topic ID**: 17735

@@ -1,3 +1,10 @@
+---
+topic_id: 40123
+title: "Why Did The Segment Created By Threshold Masking Contain Vox"
+date: 2024-11-11
+url: https://discourse.slicer.org/t/40123
+---
+
 # Why did the segment created by threshold masking contain voxels beyond the threshold?
 
 **Topic ID**: 40123

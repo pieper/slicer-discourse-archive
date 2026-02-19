@@ -1,3 +1,10 @@
+---
+topic_id: 39922
+title: "Create New Study Case Or Patient"
+date: 2024-10-29
+url: https://discourse.slicer.org/t/39922
+---
+
 # Create new study case or patient
 
 **Topic ID**: 39922

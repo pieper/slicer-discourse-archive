@@ -1,3 +1,10 @@
+---
+topic_id: 25596
+title: "Carma Extension Not Installing"
+date: 2022-10-07
+url: https://discourse.slicer.org/t/25596
+---
+
 # CARMA extension not installing
 
 **Topic ID**: 25596

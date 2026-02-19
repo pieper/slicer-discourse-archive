@@ -1,3 +1,10 @@
+---
+topic_id: 14489
+title: "Help With Lung Fibrosis Measurement"
+date: 2020-11-08
+url: https://discourse.slicer.org/t/14489
+---
+
 # Help with lung fibrosis measurement
 
 **Topic ID**: 14489

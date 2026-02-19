@@ -1,3 +1,10 @@
+---
+topic_id: 8569
+title: "Disabling Compression For All Volumes Including Segmentation"
+date: 2019-09-25
+url: https://discourse.slicer.org/t/8569
+---
+
 # Disabling compression for all volumes (including segmentations)
 
 **Topic ID**: 8569

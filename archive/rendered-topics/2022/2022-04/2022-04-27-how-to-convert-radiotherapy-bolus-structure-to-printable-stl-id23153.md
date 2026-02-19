@@ -1,3 +1,10 @@
+---
+topic_id: 23153
+title: "How To Convert Radiotherapy Bolus Structure To Printable Stl"
+date: 2022-04-27
+url: https://discourse.slicer.org/t/23153
+---
+
 # How to convert radiotherapy bolus structure to printable STL file?
 
 **Topic ID**: 23153

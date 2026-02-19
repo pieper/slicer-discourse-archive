@@ -1,3 +1,10 @@
+---
+topic_id: 31873
+title: "How To Convert The Result Of Gpa Into 3D Model"
+date: 2023-09-25
+url: https://discourse.slicer.org/t/31873
+---
+
 # How to convert the result of GPA into 3D model?
 
 **Topic ID**: 31873

@@ -1,3 +1,10 @@
+---
+topic_id: 25002
+title: "Running External Python File From"
+date: 2022-08-30
+url: https://discourse.slicer.org/t/25002
+---
+
 # Running external python file from
 
 **Topic ID**: 25002

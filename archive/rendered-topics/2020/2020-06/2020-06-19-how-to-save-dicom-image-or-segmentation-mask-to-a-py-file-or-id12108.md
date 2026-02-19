@@ -1,3 +1,10 @@
+---
+topic_id: 12108
+title: "How To Save Dicom Image Or Segmentation Mask To A Py File Or"
+date: 2020-06-19
+url: https://discourse.slicer.org/t/12108
+---
+
 # How to save dicom image or segmentation mask to a .py file or .nii file?
 
 **Topic ID**: 12108

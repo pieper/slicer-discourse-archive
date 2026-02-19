@@ -1,3 +1,10 @@
+---
+topic_id: 11114
+title: "3D Element Is Not Filling Out The Whole Cube"
+date: 2020-04-14
+url: https://discourse.slicer.org/t/11114
+---
+
 # 3D element is not filling out the whole cube
 
 **Topic ID**: 11114

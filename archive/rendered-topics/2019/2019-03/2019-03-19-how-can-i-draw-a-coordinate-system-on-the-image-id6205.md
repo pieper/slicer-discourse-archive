@@ -1,3 +1,10 @@
+---
+topic_id: 6205
+title: "How Can I Draw A Coordinate System On The Image"
+date: 2019-03-19
+url: https://discourse.slicer.org/t/6205
+---
+
 # How can I draw a coordinate system on the image?
 
 **Topic ID**: 6205

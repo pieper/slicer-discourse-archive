@@ -1,3 +1,10 @@
+---
+topic_id: 8977
+title: "Extension Manager For Comparing Before And After Drill Holes"
+date: 2019-10-31
+url: https://discourse.slicer.org/t/8977
+---
+
 # Extension manager for comparing before and after drill holes in bone
 
 **Topic ID**: 8977

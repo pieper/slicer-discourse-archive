@@ -1,3 +1,10 @@
+---
+topic_id: 12869
+title: "How To Setup A Chart Range Of X Y Axies Via Python Scripts"
+date: 2020-08-06
+url: https://discourse.slicer.org/t/12869
+---
+
 # How to setup a chart range of X/Y axies, via python scripts?
 
 **Topic ID**: 12869

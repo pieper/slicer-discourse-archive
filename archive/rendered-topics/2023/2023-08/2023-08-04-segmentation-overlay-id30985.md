@@ -1,3 +1,10 @@
+---
+topic_id: 30985
+title: "Segmentation Overlay"
+date: 2023-08-04
+url: https://discourse.slicer.org/t/30985
+---
+
 # Segmentation overlay
 
 **Topic ID**: 30985

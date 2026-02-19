@@ -1,3 +1,10 @@
+---
+topic_id: 29834
+title: "How To Select Python Interpreter In Slicer On Vscode"
+date: 2023-06-05
+url: https://discourse.slicer.org/t/29834
+---
+
 # How to select python interpreter in Slicer on VSCode?
 
 **Topic ID**: 29834

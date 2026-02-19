@@ -1,3 +1,10 @@
+---
+topic_id: 6626
+title: "Resetting Of Splitted Segments In Virtual Reality"
+date: 2019-04-27
+url: https://discourse.slicer.org/t/6626
+---
+
 # Resetting of splitted segments in virtual reality
 
 **Topic ID**: 6626

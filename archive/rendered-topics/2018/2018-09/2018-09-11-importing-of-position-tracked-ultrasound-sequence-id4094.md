@@ -1,3 +1,10 @@
+---
+topic_id: 4094
+title: "Importing Of Position Tracked Ultrasound Sequence"
+date: 2018-09-11
+url: https://discourse.slicer.org/t/4094
+---
+
 # Importing of position-tracked ultrasound sequence
 
 **Topic ID**: 4094

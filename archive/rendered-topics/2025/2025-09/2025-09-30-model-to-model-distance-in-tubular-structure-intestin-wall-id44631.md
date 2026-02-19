@@ -1,3 +1,10 @@
+---
+topic_id: 44631
+title: "Model To Model Distance In Tubular Structure Intestin Wall"
+date: 2025-09-30
+url: https://discourse.slicer.org/t/44631
+---
+
 # Model to Model Distance in tubular structure - Intestin wall
 
 **Topic ID**: 44631

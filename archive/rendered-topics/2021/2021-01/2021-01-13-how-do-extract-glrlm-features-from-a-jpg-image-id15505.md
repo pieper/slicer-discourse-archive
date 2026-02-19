@@ -1,3 +1,10 @@
+---
+topic_id: 15505
+title: "How Do Extract Glrlm Features From A Jpg Image"
+date: 2021-01-13
+url: https://discourse.slicer.org/t/15505
+---
+
 # How do extract GLRLM features from a .jpg image
 
 **Topic ID**: 15505

@@ -1,3 +1,10 @@
+---
+topic_id: 40649
+title: "Cannot Decrease The Width Of My Module"
+date: 2024-12-12
+url: https://discourse.slicer.org/t/40649
+---
+
 # Cannot decrease the width of my module
 
 **Topic ID**: 40649

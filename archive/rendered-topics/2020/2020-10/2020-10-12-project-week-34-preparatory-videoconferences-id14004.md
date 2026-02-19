@@ -1,3 +1,10 @@
+---
+topic_id: 14004
+title: "Project Week 34 Preparatory Videoconferences"
+date: 2020-10-12
+url: https://discourse.slicer.org/t/14004
+---
+
 # Project Week 34 Preparatory Videoconferences
 
 **Topic ID**: 14004

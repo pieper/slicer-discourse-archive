@@ -1,3 +1,10 @@
+---
+topic_id: 37377
+title: "Getting A Qt 5 15 Was Not Found On Your System Error"
+date: 2024-07-15
+url: https://discourse.slicer.org/t/37377
+---
+
 # Getting a "Qt 5.15 was not found on your system" error
 
 **Topic ID**: 37377

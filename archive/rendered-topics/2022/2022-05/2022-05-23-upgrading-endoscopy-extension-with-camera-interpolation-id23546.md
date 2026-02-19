@@ -1,3 +1,10 @@
+---
+topic_id: 23546
+title: "Upgrading Endoscopy Extension With Camera Interpolation"
+date: 2022-05-23
+url: https://discourse.slicer.org/t/23546
+---
+
 # Upgrading Endoscopy extension with camera interpolation
 
 **Topic ID**: 23546

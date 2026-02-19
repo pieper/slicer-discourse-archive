@@ -1,3 +1,10 @@
+---
+topic_id: 590
+title: "Dicom Files No Loading Slicer Nightly 4 7 0"
+date: 2017-06-28
+url: https://discourse.slicer.org/t/590
+---
+
 # DICOM files no loading Slicer nightly 4.7.0
 
 **Topic ID**: 590

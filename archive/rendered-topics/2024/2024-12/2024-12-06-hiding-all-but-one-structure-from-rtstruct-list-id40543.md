@@ -1,3 +1,10 @@
+---
+topic_id: 40543
+title: "Hiding All But One Structure From Rtstruct List"
+date: 2024-12-06
+url: https://discourse.slicer.org/t/40543
+---
+
 # Hiding all but one structure from RTSTRUCT list
 
 **Topic ID**: 40543

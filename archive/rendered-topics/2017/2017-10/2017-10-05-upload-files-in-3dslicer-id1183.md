@@ -1,3 +1,10 @@
+---
+topic_id: 1183
+title: "Upload Files In 3Dslicer"
+date: 2017-10-05
+url: https://discourse.slicer.org/t/1183
+---
+
 # Upload files in 3Dslicer
 
 **Topic ID**: 1183

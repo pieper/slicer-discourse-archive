@@ -1,3 +1,10 @@
+---
+topic_id: 15508
+title: "Multivolumeexplorer Labeling Chart Error"
+date: 2021-01-13
+url: https://discourse.slicer.org/t/15508
+---
+
 # MultiVolumeExplorer - labeling chart error
 
 **Topic ID**: 15508

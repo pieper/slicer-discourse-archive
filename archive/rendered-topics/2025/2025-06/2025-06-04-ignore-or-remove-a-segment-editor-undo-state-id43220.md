@@ -1,3 +1,10 @@
+---
+topic_id: 43220
+title: "Ignore Or Remove A Segment Editor Undo State"
+date: 2025-06-04
+url: https://discourse.slicer.org/t/43220
+---
+
 # Ignore or remove a Segment Editor undo state
 
 **Topic ID**: 43220

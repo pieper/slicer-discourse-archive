@@ -1,3 +1,10 @@
+---
+topic_id: 36381
+title: "Bone Segmentation For Mri Scans"
+date: 2024-05-25
+url: https://discourse.slicer.org/t/36381
+---
+
 # Bone Segmentation for MRI scans
 
 **Topic ID**: 36381

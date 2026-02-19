@@ -1,3 +1,10 @@
+---
+topic_id: 11931
+title: "Ruler And Angle Measurement In 2D View"
+date: 2020-06-08
+url: https://discourse.slicer.org/t/11931
+---
+
 # Ruler and angle measurement in 2D view
 
 **Topic ID**: 11931

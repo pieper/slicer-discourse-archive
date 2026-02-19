@@ -1,3 +1,10 @@
+---
+topic_id: 33293
+title: "Issue Importing Tcia Dicom Files"
+date: 2023-12-08
+url: https://discourse.slicer.org/t/33293
+---
+
 # Issue importing TCIA Dicom files
 
 **Topic ID**: 33293

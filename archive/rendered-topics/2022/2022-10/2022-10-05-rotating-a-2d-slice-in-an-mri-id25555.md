@@ -1,3 +1,10 @@
+---
+topic_id: 25555
+title: "Rotating A 2D Slice In An Mri"
+date: 2022-10-05
+url: https://discourse.slicer.org/t/25555
+---
+
 # Rotating a 2D slice in an MRI
 
 **Topic ID**: 25555

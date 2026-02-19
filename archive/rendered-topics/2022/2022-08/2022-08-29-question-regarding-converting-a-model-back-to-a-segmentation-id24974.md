@@ -1,3 +1,10 @@
+---
+topic_id: 24974
+title: "Question Regarding Converting A Model Back To A Segmentation"
+date: 2022-08-29
+url: https://discourse.slicer.org/t/24974
+---
+
 # Question regarding converting a model back to a segmentation node
 
 **Topic ID**: 24974

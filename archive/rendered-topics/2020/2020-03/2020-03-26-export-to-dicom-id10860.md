@@ -1,3 +1,10 @@
+---
+topic_id: 10860
+title: "Export To Dicom"
+date: 2020-03-26
+url: https://discourse.slicer.org/t/10860
+---
+
 # Export to DICOM
 
 **Topic ID**: 10860

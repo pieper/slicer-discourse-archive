@@ -1,3 +1,10 @@
+---
+topic_id: 31542
+title: "Orthodontic Analysis Exporting Report Issue"
+date: 2023-09-04
+url: https://discourse.slicer.org/t/31542
+---
+
 # Orthodontic analysis exporting report issue
 
 **Topic ID**: 31542

@@ -1,3 +1,10 @@
+---
+topic_id: 14483
+title: "Interaction Handle For One Fiducial Connected To A Model"
+date: 2020-11-07
+url: https://discourse.slicer.org/t/14483
+---
+
 # Interaction Handle for one Fiducial connected to a Model
 
 **Topic ID**: 14483

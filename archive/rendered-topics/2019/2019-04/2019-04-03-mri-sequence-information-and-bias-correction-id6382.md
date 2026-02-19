@@ -1,3 +1,10 @@
+---
+topic_id: 6382
+title: "Mri Sequence Information And Bias Correction"
+date: 2019-04-03
+url: https://discourse.slicer.org/t/6382
+---
+
 # MRI sequence information and bias correction
 
 **Topic ID**: 6382

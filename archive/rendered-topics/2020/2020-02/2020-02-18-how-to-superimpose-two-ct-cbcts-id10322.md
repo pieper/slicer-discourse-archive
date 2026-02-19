@@ -1,3 +1,10 @@
+---
+topic_id: 10322
+title: "How To Superimpose Two Ct Cbcts"
+date: 2020-02-18
+url: https://discourse.slicer.org/t/10322
+---
+
 # How to superimpose two CT/CBCTs?
 
 **Topic ID**: 10322

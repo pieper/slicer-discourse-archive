@@ -1,3 +1,10 @@
+---
+topic_id: 1722
+title: "How To Creat A Plane By 3 Fiducials And Then Used In Modelcl"
+date: 2017-12-26
+url: https://discourse.slicer.org/t/1722
+---
+
 # How to creat a plane by 3 fiducials and then used in "modelclip"?
 
 **Topic ID**: 1722

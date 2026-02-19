@@ -1,3 +1,10 @@
+---
+topic_id: 24488
+title: "How To Distinguish Between Skeletal Muscle And Adipose Tissu"
+date: 2022-07-25
+url: https://discourse.slicer.org/t/24488
+---
+
 # How to distinguish between skeletal muscle and adipose tissue
 
 **Topic ID**: 24488

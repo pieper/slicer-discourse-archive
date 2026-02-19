@@ -1,3 +1,10 @@
+---
+topic_id: 24833
+title: "How To Forbidden Left And Right Mouse Event On Vtkmrmlmarkup"
+date: 2022-08-19
+url: https://discourse.slicer.org/t/24833
+---
+
 # How to forbidden left and right mouse event on vtkMRMLMarkupsLineNode
 
 **Topic ID**: 24833

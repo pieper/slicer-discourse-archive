@@ -1,3 +1,10 @@
+---
+topic_id: 26289
+title: "How To Release An Extension"
+date: 2022-11-17
+url: https://discourse.slicer.org/t/26289
+---
+
 # How to release an extension
 
 **Topic ID**: 26289

@@ -1,3 +1,10 @@
+---
+topic_id: 11190
+title: "Registration Ct Mri"
+date: 2020-04-19
+url: https://discourse.slicer.org/t/11190
+---
+
 # Registration CT MRI
 
 **Topic ID**: 11190

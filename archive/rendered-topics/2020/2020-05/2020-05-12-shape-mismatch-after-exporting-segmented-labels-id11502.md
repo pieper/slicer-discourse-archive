@@ -1,3 +1,10 @@
+---
+topic_id: 11502
+title: "Shape Mismatch After Exporting Segmented Labels"
+date: 2020-05-12
+url: https://discourse.slicer.org/t/11502
+---
+
 # Shape mismatch after exporting segmented labels
 
 **Topic ID**: 11502

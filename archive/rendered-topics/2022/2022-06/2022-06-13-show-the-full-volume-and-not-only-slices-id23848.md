@@ -1,3 +1,10 @@
+---
+topic_id: 23848
+title: "Show The Full Volume And Not Only Slices"
+date: 2022-06-13
+url: https://discourse.slicer.org/t/23848
+---
+
 # Show the full volume and not only slices
 
 **Topic ID**: 23848

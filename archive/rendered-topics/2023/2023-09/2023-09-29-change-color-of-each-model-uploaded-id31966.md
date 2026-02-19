@@ -1,3 +1,10 @@
+---
+topic_id: 31966
+title: "Change Color Of Each Model Uploaded"
+date: 2023-09-29
+url: https://discourse.slicer.org/t/31966
+---
+
 # Change color of each model uploaded
 
 **Topic ID**: 31966

@@ -1,3 +1,10 @@
+---
+topic_id: 9270
+title: "Segmentation Via Web Browser"
+date: 2019-11-22
+url: https://discourse.slicer.org/t/9270
+---
+
 # Segmentation via web-browser
 
 **Topic ID**: 9270

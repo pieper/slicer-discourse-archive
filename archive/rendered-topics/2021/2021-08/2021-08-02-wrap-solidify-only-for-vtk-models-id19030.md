@@ -1,3 +1,10 @@
+---
+topic_id: 19030
+title: "Wrap Solidify Only For Vtk Models"
+date: 2021-08-02
+url: https://discourse.slicer.org/t/19030
+---
+
 # Wrap Solidify only for vtk models
 
 **Topic ID**: 19030

@@ -1,3 +1,10 @@
+---
+topic_id: 17152
+title: "Nvidia Clara Deepgrow Model"
+date: 2021-04-18
+url: https://discourse.slicer.org/t/17152
+---
+
 # NVIDIA Clara deepgrow model
 
 **Topic ID**: 17152

@@ -1,3 +1,10 @@
+---
+topic_id: 37197
+title: "Pyradiomics Voxel Based Extraction Adds Empty Slices When Us"
+date: 2024-07-04
+url: https://discourse.slicer.org/t/37197
+---
+
 # Pyradiomics voxel-based extraction adds empty slices when using rectangular mask
 
 **Topic ID**: 37197

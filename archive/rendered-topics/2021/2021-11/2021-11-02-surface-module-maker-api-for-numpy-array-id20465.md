@@ -1,3 +1,10 @@
+---
+topic_id: 20465
+title: "Surface Module Maker Api For Numpy Array"
+date: 2021-11-02
+url: https://discourse.slicer.org/t/20465
+---
+
 # Surface module maker API for numpy array
 
 **Topic ID**: 20465

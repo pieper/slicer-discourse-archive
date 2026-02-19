@@ -1,3 +1,10 @@
+---
+topic_id: 2917
+title: "Convert Loaded Dcm File To Stl Export Stl"
+date: 2018-05-24
+url: https://discourse.slicer.org/t/2917
+---
+
 # Convert loaded DCM file to stl, export stl
 
 **Topic ID**: 2917

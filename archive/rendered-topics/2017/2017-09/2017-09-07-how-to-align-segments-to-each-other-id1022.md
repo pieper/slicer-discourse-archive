@@ -1,3 +1,10 @@
+---
+topic_id: 1022
+title: "How To Align Segments To Each Other"
+date: 2017-09-07
+url: https://discourse.slicer.org/t/1022
+---
+
 # How to align segments to each other
 
 **Topic ID**: 1022

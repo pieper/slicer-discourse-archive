@@ -1,3 +1,10 @@
+---
+topic_id: 25483
+title: "Lassoan Slicer Notebook"
+date: 2022-09-29
+url: https://discourse.slicer.org/t/25483
+---
+
 # Lassoan/slicer-notebook
 
 **Topic ID**: 25483

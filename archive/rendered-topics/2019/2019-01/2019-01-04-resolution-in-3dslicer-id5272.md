@@ -1,3 +1,10 @@
+---
+topic_id: 5272
+title: "Resolution In 3Dslicer"
+date: 2019-01-04
+url: https://discourse.slicer.org/t/5272
+---
+
 # Resolution in 3dslicer
 
 **Topic ID**: 5272

@@ -1,3 +1,10 @@
+---
+topic_id: 6951
+title: "Camera Linking Broken"
+date: 2019-05-28
+url: https://discourse.slicer.org/t/6951
+---
+
 # Camera linking broken
 
 **Topic ID**: 6951

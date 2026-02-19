@@ -1,3 +1,10 @@
+---
+topic_id: 20082
+title: "How To Collapse A Folder By Code"
+date: 2021-10-09
+url: https://discourse.slicer.org/t/20082
+---
+
 # How to collapse a folder by code?
 
 **Topic ID**: 20082

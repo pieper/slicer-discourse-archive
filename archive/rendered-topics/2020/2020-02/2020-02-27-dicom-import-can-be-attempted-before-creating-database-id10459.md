@@ -1,3 +1,10 @@
+---
+topic_id: 10459
+title: "Dicom Import Can Be Attempted Before Creating Database"
+date: 2020-02-27
+url: https://discourse.slicer.org/t/10459
+---
+
 # DICOM import can be attempted before creating database
 
 **Topic ID**: 10459

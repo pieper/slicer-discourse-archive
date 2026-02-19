@@ -1,3 +1,10 @@
+---
+topic_id: 18281
+title: "How To Change Feature Filters In 3D Slicer"
+date: 2021-06-22
+url: https://discourse.slicer.org/t/18281
+---
+
 # How to change Feature Filters in 3D Slicer?
 
 **Topic ID**: 18281

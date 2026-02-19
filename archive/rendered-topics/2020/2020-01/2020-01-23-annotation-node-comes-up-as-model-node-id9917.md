@@ -1,3 +1,10 @@
+---
+topic_id: 9917
+title: "Annotation Node Comes Up As Model Node"
+date: 2020-01-23
+url: https://discourse.slicer.org/t/9917
+---
+
 # Annotation Node comes up as Model Node
 
 **Topic ID**: 9917

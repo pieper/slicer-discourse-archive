@@ -1,3 +1,10 @@
+---
+topic_id: 46002
+title: "Margin Tool Does Not Change Anything"
+date: 2026-01-30
+url: https://discourse.slicer.org/t/46002
+---
+
 # Margin Tool does not change anything
 
 **Topic ID**: 46002

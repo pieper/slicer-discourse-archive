@@ -1,3 +1,10 @@
+---
+topic_id: 42603
+title: "How To Add Shortcut To Delete Item In Subject Hierarchy"
+date: 2025-04-17
+url: https://discourse.slicer.org/t/42603
+---
+
 # How to add shortcut to delete item in subject hierarchy
 
 **Topic ID**: 42603

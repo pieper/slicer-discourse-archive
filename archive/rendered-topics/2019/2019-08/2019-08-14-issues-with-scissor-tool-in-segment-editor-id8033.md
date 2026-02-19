@@ -1,3 +1,10 @@
+---
+topic_id: 8033
+title: "Issues With Scissor Tool In Segment Editor"
+date: 2019-08-14
+url: https://discourse.slicer.org/t/8033
+---
+
 # Issues With Scissor Tool in Segment Editor
 
 **Topic ID**: 8033

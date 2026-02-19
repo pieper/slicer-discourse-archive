@@ -1,3 +1,10 @@
+---
+topic_id: 33934
+title: "Smoothing Is Causing Crashes Help"
+date: 2024-01-23
+url: https://discourse.slicer.org/t/33934
+---
+
 # Smoothing is causing crashes - help!!
 
 **Topic ID**: 33934

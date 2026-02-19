@@ -1,3 +1,10 @@
+---
+topic_id: 17846
+title: "Absolute Or Iterative Relative Fuzzy Connectedness Extension"
+date: 2021-05-28
+url: https://discourse.slicer.org/t/17846
+---
+
 # (Absolute or Iterative Relative) Fuzzy Connectedness Extension?
 
 **Topic ID**: 17846

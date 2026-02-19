@@ -1,3 +1,10 @@
+---
+topic_id: 44036
+title: "Any Help To Do Simple Tractography By Simple Easy Steps"
+date: 2025-08-09
+url: https://discourse.slicer.org/t/44036
+---
+
 # Any help to do simple tractography by simple easy steps?@
 
 **Topic ID**: 44036

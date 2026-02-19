@@ -1,3 +1,10 @@
+---
+topic_id: 27686
+title: "Fuse And Register 2 Mr Sequences Covering Different Anatomic"
+date: 2023-02-07
+url: https://discourse.slicer.org/t/27686
+---
+
 # Fuse and register 2 MR Sequences covering different anatomical regions
 
 **Topic ID**: 27686

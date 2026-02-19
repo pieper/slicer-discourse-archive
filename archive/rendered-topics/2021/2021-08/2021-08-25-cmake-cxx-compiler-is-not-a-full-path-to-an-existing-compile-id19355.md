@@ -1,3 +1,10 @@
+---
+topic_id: 19355
+title: "Cmake Cxx Compiler Is Not A Full Path To An Existing Compile"
+date: 2021-08-25
+url: https://discourse.slicer.org/t/19355
+---
+
 # CMAKE_CXX_COMPILER is not a full path to an existing compiler tool when configure an extension
 
 **Topic ID**: 19355

@@ -1,3 +1,10 @@
+---
+topic_id: 1964
+title: "Loading Freesurfer Aseg Label Map"
+date: 2018-01-29
+url: https://discourse.slicer.org/t/1964
+---
+
 # Loading FreeSurfer aseg label map
 
 **Topic ID**: 1964

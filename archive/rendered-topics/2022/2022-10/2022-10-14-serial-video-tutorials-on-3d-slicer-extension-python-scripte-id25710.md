@@ -1,3 +1,10 @@
+---
+topic_id: 25710
+title: "Serial Video Tutorials On 3D Slicer Extension Python Scripte"
+date: 2022-10-14
+url: https://discourse.slicer.org/t/25710
+---
+
 # Serial video tutorials on 3D Slicer extension (Python scripted modules) development with GitHub source codes
 
 **Topic ID**: 25710

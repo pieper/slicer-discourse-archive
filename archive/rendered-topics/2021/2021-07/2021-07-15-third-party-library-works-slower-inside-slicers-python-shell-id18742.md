@@ -1,3 +1,10 @@
+---
+topic_id: 18742
+title: "Third Party Library Works Slower Inside Slicers Python Shell"
+date: 2021-07-15
+url: https://discourse.slicer.org/t/18742
+---
+
 # Third party library works slower inside Slicer's Python shell - why? how to do performance profiling?
 
 **Topic ID**: 18742

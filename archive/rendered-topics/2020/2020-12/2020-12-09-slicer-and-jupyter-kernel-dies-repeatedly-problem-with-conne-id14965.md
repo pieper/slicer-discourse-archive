@@ -1,3 +1,10 @@
+---
+topic_id: 14965
+title: "Slicer And Jupyter Kernel Dies Repeatedly Problem With Conne"
+date: 2020-12-09
+url: https://discourse.slicer.org/t/14965
+---
+
 # Slicer and jupyter kernel dies repeatedly, problem with connection.
 
 **Topic ID**: 14965

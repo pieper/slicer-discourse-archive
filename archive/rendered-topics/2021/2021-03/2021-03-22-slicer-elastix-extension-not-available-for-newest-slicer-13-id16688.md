@@ -1,3 +1,10 @@
+---
+topic_id: 16688
+title: "Slicer Elastix Extension Not Available For Newest Slicer 13"
+date: 2021-03-22
+url: https://discourse.slicer.org/t/16688
+---
+
 # Slicer Elastix extension not available for newest Slicer 13.0. 2021.03.19
 
 **Topic ID**: 16688

@@ -1,3 +1,10 @@
+---
+topic_id: 35072
+title: "Deletion Of Vtkmrmlfolderdisplaynode"
+date: 2024-03-25
+url: https://discourse.slicer.org/t/35072
+---
+
 # Deletion of "vtkMRMLFolderDisplayNode"
 
 **Topic ID**: 35072

@@ -1,3 +1,10 @@
+---
+topic_id: 38388
+title: "Fusion Mri And Pet"
+date: 2024-09-15
+url: https://discourse.slicer.org/t/38388
+---
+
 # Fusion MRI and PET
 
 **Topic ID**: 38388

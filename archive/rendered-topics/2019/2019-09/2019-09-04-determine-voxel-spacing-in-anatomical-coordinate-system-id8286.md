@@ -1,3 +1,10 @@
+---
+topic_id: 8286
+title: "Determine Voxel Spacing In Anatomical Coordinate System"
+date: 2019-09-04
+url: https://discourse.slicer.org/t/8286
+---
+
 # Determine voxel spacing in anatomical coordinate system
 
 **Topic ID**: 8286

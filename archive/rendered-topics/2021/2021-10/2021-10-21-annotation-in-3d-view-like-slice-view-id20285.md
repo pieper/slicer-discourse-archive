@@ -1,3 +1,10 @@
+---
+topic_id: 20285
+title: "Annotation In 3D View Like Slice View"
+date: 2021-10-21
+url: https://discourse.slicer.org/t/20285
+---
+
 # Annotation in 3D view (like slice view)?
 
 **Topic ID**: 20285

@@ -1,3 +1,10 @@
+---
+topic_id: 30861
+title: "How To Save Dicom Files Optimized By 3D Slicer"
+date: 2023-07-28
+url: https://discourse.slicer.org/t/30861
+---
+
 # How to save dicom files optimized by 3D Slicer
 
 **Topic ID**: 30861

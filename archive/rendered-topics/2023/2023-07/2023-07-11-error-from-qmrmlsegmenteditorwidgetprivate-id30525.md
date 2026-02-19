@@ -1,3 +1,10 @@
+---
+topic_id: 30525
+title: "Error From Qmrmlsegmenteditorwidgetprivate"
+date: 2023-07-11
+url: https://discourse.slicer.org/t/30525
+---
+
 # Error from qMRMLSegmentEditorWidgetPrivate
 
 **Topic ID**: 30525

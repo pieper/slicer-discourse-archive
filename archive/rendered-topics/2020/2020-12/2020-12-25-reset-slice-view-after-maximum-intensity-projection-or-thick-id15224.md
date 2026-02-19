@@ -1,3 +1,10 @@
+---
+topic_id: 15224
+title: "Reset Slice View After Maximum Intensity Projection Or Thick"
+date: 2020-12-25
+url: https://discourse.slicer.org/t/15224
+---
+
 # Reset Slice view after Maximum intensity projection or Thick slab reconstruction
 
 **Topic ID**: 15224

@@ -1,3 +1,10 @@
+---
+topic_id: 36806
+title: "Automated Pyradiomics Feature Work With Dicom Input Image Vo"
+date: 2024-06-15
+url: https://discourse.slicer.org/t/36806
+---
+
 # Automated PyRadiomics Feature work with DICOM(input image volume) and DICOM RT structure (input regions)
 
 **Topic ID**: 36806

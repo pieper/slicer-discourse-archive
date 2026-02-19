@@ -1,3 +1,10 @@
+---
+topic_id: 9935
+title: "Getting More Information From Mouse Pointer In 3D View"
+date: 2020-01-24
+url: https://discourse.slicer.org/t/9935
+---
+
 # Getting more information from mouse pointer in 3D view
 
 **Topic ID**: 9935

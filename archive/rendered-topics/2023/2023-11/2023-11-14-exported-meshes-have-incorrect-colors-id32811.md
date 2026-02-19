@@ -1,3 +1,10 @@
+---
+topic_id: 32811
+title: "Exported Meshes Have Incorrect Colors"
+date: 2023-11-14
+url: https://discourse.slicer.org/t/32811
+---
+
 # Exported meshes have incorrect colors
 
 **Topic ID**: 32811

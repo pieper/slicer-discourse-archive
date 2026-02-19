@@ -1,3 +1,10 @@
+---
+topic_id: 15691
+title: "Cbct Noise Removal"
+date: 2021-01-27
+url: https://discourse.slicer.org/t/15691
+---
+
 # CBCT noise removal
 
 **Topic ID**: 15691

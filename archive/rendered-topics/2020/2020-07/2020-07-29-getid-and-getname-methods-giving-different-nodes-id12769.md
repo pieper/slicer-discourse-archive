@@ -1,3 +1,10 @@
+---
+topic_id: 12769
+title: "Getid And Getname Methods Giving Different Nodes"
+date: 2020-07-29
+url: https://discourse.slicer.org/t/12769
+---
+
 # GetID() and GetName() methods giving different nodes
 
 **Topic ID**: 12769

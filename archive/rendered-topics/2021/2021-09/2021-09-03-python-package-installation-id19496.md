@@ -1,3 +1,10 @@
+---
+topic_id: 19496
+title: "Python Package Installation"
+date: 2021-09-03
+url: https://discourse.slicer.org/t/19496
+---
+
 # Python package installation
 
 **Topic ID**: 19496

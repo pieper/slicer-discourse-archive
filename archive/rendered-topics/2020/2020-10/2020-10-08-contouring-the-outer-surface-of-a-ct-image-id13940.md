@@ -1,3 +1,10 @@
+---
+topic_id: 13940
+title: "Contouring The Outer Surface Of A Ct Image"
+date: 2020-10-08
+url: https://discourse.slicer.org/t/13940
+---
+
 # Contouring the outer surface of a CT image
 
 **Topic ID**: 13940

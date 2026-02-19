@@ -1,3 +1,10 @@
+---
+topic_id: 31709
+title: "Set Transform Origin To Markup With Gui"
+date: 2023-09-14
+url: https://discourse.slicer.org/t/31709
+---
+
 # Set transform origin to markup with GUI
 
 **Topic ID**: 31709

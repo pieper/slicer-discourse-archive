@@ -1,3 +1,10 @@
+---
+topic_id: 2676
+title: "Inaccurate Segmentation Effect Result When Run With Certain"
+date: 2018-04-24
+url: https://discourse.slicer.org/t/2676
+---
+
 # Inaccurate segmentation effect result when run with certain effects together
 
 **Topic ID**: 2676

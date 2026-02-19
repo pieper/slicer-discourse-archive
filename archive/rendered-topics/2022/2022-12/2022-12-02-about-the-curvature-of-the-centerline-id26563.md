@@ -1,3 +1,10 @@
+---
+topic_id: 26563
+title: "About The Curvature Of The Centerline"
+date: 2022-12-02
+url: https://discourse.slicer.org/t/26563
+---
+
 # About The Curvature of the Centerline
 
 **Topic ID**: 26563

@@ -1,3 +1,10 @@
+---
+topic_id: 20325
+title: "Volume Rendering Save As Stl"
+date: 2021-10-24
+url: https://discourse.slicer.org/t/20325
+---
+
 # Volume rendering - save as stl?
 
 **Topic ID**: 20325

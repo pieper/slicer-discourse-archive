@@ -1,3 +1,10 @@
+---
+topic_id: 22658
+title: "Export Segmentation Or Np Array From 3D Bounding Box"
+date: 2022-03-23
+url: https://discourse.slicer.org/t/22658
+---
+
 # Export segmentation or np.array from 3d bounding box
 
 **Topic ID**: 22658

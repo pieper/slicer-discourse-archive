@@ -1,3 +1,10 @@
+---
+topic_id: 44286
+title: "How To Import Slicer Transfoms H5 Files Into Blender"
+date: 2025-08-31
+url: https://discourse.slicer.org/t/44286
+---
+
 # How to import slicer transfoms (.h5 files) into Blender?
 
 **Topic ID**: 44286

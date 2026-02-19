@@ -1,3 +1,10 @@
+---
+topic_id: 36032
+title: "Free Live Webinar Pioneering The Future Of Digital Pathology"
+date: 2024-05-09
+url: https://discourse.slicer.org/t/36032
+---
+
 # Free Live Webinar: Pioneering the Future of Digital Pathology with Open Source Software 
 
 **Topic ID**: 36032

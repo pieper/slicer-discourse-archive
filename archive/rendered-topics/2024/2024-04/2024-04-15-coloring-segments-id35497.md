@@ -1,3 +1,10 @@
+---
+topic_id: 35497
+title: "Coloring Segments"
+date: 2024-04-15
+url: https://discourse.slicer.org/t/35497
+---
+
 # Coloring Segments
 
 **Topic ID**: 35497

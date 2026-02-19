@@ -1,3 +1,10 @@
+---
+topic_id: 31287
+title: "Question Bout Radiotherapy Gamma Comarsion"
+date: 2023-08-22
+url: https://discourse.slicer.org/t/31287
+---
+
 # Question bout Radiotherapy Gamma comarsion
 
 **Topic ID**: 31287

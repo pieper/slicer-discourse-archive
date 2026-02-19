@@ -1,3 +1,10 @@
+---
+topic_id: 11581
+title: "Extract The 3 Componenets X Y Z Of Gradiant Filter"
+date: 2020-05-16
+url: https://discourse.slicer.org/t/11581
+---
+
 # Extract the 3 componenets x,y,z of gradiant filter
 
 **Topic ID**: 11581

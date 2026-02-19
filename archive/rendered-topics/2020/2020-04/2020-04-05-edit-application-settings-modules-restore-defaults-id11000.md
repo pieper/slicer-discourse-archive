@@ -1,3 +1,10 @@
+---
+topic_id: 11000
+title: "Edit Application Settings Modules Restore Defaults"
+date: 2020-04-05
+url: https://discourse.slicer.org/t/11000
+---
+
 # Edit/Application Settings/Modules/Restore defaults
 
 **Topic ID**: 11000

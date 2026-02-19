@@ -1,3 +1,10 @@
+---
+topic_id: 14363
+title: "Set Center Of Rotation For Transform In 3D View"
+date: 2020-11-01
+url: https://discourse.slicer.org/t/14363
+---
+
 # Set center of rotation for transform in 3D view
 
 **Topic ID**: 14363

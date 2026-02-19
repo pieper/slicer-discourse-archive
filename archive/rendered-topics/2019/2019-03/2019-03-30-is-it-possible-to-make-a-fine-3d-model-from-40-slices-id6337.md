@@ -1,3 +1,10 @@
+---
+topic_id: 6337
+title: "Is It Possible To Make A Fine 3D Model From 40 Slices"
+date: 2019-03-30
+url: https://discourse.slicer.org/t/6337
+---
+
 # Is it possible to make a fine 3d model from 40 slices
 
 **Topic ID**: 6337

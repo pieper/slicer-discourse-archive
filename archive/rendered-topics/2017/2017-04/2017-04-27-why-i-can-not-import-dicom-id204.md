@@ -1,3 +1,10 @@
+---
+topic_id: 204
+title: "Why I Can Not Import Dicom"
+date: 2017-04-27
+url: https://discourse.slicer.org/t/204
+---
+
 # Why I can not import DICOM?
 
 **Topic ID**: 204

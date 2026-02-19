@@ -1,3 +1,10 @@
+---
+topic_id: 1064
+title: "A Single 3Dra Dicom Image"
+date: 2017-09-16
+url: https://discourse.slicer.org/t/1064
+---
+
 # A single 3DRA DICOM image
 
 **Topic ID**: 1064

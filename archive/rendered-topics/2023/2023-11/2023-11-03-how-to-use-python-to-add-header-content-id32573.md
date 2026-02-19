@@ -1,3 +1,10 @@
+---
+topic_id: 32573
+title: "How To Use Python To Add Header Content"
+date: 2023-11-03
+url: https://discourse.slicer.org/t/32573
+---
+
 # How to use Python to add header content
 
 **Topic ID**: 32573

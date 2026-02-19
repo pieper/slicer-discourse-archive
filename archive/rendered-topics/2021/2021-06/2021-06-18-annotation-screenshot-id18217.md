@@ -1,3 +1,10 @@
+---
+topic_id: 18217
+title: "Annotation Screenshot"
+date: 2021-06-18
+url: https://discourse.slicer.org/t/18217
+---
+
 # Annotation Screenshot
 
 **Topic ID**: 18217

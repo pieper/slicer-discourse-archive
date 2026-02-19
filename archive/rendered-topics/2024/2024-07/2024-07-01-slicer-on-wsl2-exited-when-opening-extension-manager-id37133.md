@@ -1,3 +1,10 @@
+---
+topic_id: 37133
+title: "Slicer On Wsl2 Exited When Opening Extension Manager"
+date: 2024-07-01
+url: https://discourse.slicer.org/t/37133
+---
+
 # Slicer on WSL2 exited when opening Extension Manager
 
 **Topic ID**: 37133

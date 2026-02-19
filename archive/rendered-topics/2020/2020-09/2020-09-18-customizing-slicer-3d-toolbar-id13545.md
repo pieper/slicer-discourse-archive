@@ -1,3 +1,10 @@
+---
+topic_id: 13545
+title: "Customizing Slicer 3D Toolbar"
+date: 2020-09-18
+url: https://discourse.slicer.org/t/13545
+---
+
 # Customizing Slicer 3d toolbar
 
 **Topic ID**: 13545

@@ -1,3 +1,10 @@
+---
+topic_id: 15177
+title: "Problems Opening The Saved Segmentation"
+date: 2020-12-22
+url: https://discourse.slicer.org/t/15177
+---
+
 # Problems opening the saved segmentation
 
 **Topic ID**: 15177

@@ -1,3 +1,10 @@
+---
+topic_id: 20966
+title: "Pixelated Views And 3D Segmentations From A Cbct Dicom Data"
+date: 2021-12-08
+url: https://discourse.slicer.org/t/20966
+---
+
 # Pixelated views and 3D segmentations from a cbct dicom data
 
 **Topic ID**: 20966

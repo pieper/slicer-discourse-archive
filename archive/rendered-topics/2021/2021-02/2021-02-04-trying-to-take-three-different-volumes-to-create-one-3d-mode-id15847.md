@@ -1,3 +1,10 @@
+---
+topic_id: 15847
+title: "Trying To Take Three Different Volumes To Create One 3D Mode"
+date: 2021-02-04
+url: https://discourse.slicer.org/t/15847
+---
+
 # Trying to take three different volumes to create one 3d model (beginner of 3d slicer)
 
 **Topic ID**: 15847

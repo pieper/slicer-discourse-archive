@@ -1,3 +1,10 @@
+---
+topic_id: 21486
+title: "Plots Axes Not Shown In Slicer 4 13 But Works With 4 11"
+date: 2022-01-16
+url: https://discourse.slicer.org/t/21486
+---
+
 # Plot's axes not shown in Slicer 4.13 (but works with 4.11)
 
 **Topic ID**: 21486

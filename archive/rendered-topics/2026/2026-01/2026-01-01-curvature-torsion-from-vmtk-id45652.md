@@ -1,3 +1,10 @@
+---
+topic_id: 45652
+title: "Curvature Torsion From Vmtk"
+date: 2026-01-01
+url: https://discourse.slicer.org/t/45652
+---
+
 # Curvature, torsion from VMTK
 
 **Topic ID**: 45652

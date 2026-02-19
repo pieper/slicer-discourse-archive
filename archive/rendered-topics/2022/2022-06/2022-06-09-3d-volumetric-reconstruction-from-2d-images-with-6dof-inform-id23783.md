@@ -1,3 +1,10 @@
+---
+topic_id: 23783
+title: "3D Volumetric Reconstruction From 2D Images With 6Dof Inform"
+date: 2022-06-09
+url: https://discourse.slicer.org/t/23783
+---
+
 # 3D volumetric reconstruction from 2D images with 6DOF information offline
 
 **Topic ID**: 23783

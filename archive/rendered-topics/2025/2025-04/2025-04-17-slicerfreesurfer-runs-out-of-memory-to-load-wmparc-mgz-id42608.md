@@ -1,3 +1,10 @@
+---
+topic_id: 42608
+title: "Slicerfreesurfer Runs Out Of Memory To Load Wmparc Mgz"
+date: 2025-04-17
+url: https://discourse.slicer.org/t/42608
+---
+
 # SlicerFreeSurfer runs out of memory to load wmparc.mgz
 
 **Topic ID**: 42608

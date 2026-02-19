@@ -1,3 +1,10 @@
+---
+topic_id: 24252
+title: "Fast Marching Effect In 3D Slicer 5 0 1"
+date: 2022-07-09
+url: https://discourse.slicer.org/t/24252
+---
+
 # Fast Marching effect in 3D Slicer 5.0.1
 
 **Topic ID**: 24252

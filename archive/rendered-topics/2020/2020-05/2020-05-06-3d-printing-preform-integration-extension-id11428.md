@@ -1,3 +1,10 @@
+---
+topic_id: 11428
+title: "3D Printing Preform Integration Extension"
+date: 2020-05-06
+url: https://discourse.slicer.org/t/11428
+---
+
 # 3D printing - PreForm integration extension
 
 **Topic ID**: 11428

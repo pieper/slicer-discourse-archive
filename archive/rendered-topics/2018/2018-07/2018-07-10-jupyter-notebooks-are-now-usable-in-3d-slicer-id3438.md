@@ -1,3 +1,10 @@
+---
+topic_id: 3438
+title: "Jupyter Notebooks Are Now Usable In 3D Slicer"
+date: 2018-07-10
+url: https://discourse.slicer.org/t/3438
+---
+
 # Jupyter notebooks are now usable in 3D Slicer
 
 **Topic ID**: 3438

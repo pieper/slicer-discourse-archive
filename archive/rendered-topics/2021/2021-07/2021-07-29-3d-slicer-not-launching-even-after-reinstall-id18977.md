@@ -1,3 +1,10 @@
+---
+topic_id: 18977
+title: "3D Slicer Not Launching Even After Reinstall"
+date: 2021-07-29
+url: https://discourse.slicer.org/t/18977
+---
+
 # 3D Slicer not launching even after reinstall
 
 **Topic ID**: 18977

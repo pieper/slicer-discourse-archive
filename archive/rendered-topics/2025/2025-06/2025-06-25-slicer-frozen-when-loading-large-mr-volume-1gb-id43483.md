@@ -1,3 +1,10 @@
+---
+topic_id: 43483
+title: "Slicer Frozen When Loading Large Mr Volume 1Gb"
+date: 2025-06-25
+url: https://discourse.slicer.org/t/43483
+---
+
 # Slicer frozen when loading large MR volume (>1GB)
 
 **Topic ID**: 43483

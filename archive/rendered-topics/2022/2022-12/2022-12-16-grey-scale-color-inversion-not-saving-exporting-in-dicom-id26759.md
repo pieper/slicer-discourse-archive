@@ -1,3 +1,10 @@
+---
+topic_id: 26759
+title: "Grey Scale Color Inversion Not Saving Exporting In Dicom"
+date: 2022-12-16
+url: https://discourse.slicer.org/t/26759
+---
+
 # Grey Scale Color Inversion not Saving/Exporting in DICOM
 
 **Topic ID**: 26759

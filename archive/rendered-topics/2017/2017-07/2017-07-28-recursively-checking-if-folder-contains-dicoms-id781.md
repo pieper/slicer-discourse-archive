@@ -1,3 +1,10 @@
+---
+topic_id: 781
+title: "Recursively Checking If Folder Contains Dicoms"
+date: 2017-07-28
+url: https://discourse.slicer.org/t/781
+---
+
 # Recursively checking if folder contains DICOMs
 
 **Topic ID**: 781

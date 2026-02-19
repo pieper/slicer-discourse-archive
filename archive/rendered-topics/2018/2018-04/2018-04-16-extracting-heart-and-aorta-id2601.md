@@ -1,3 +1,10 @@
+---
+topic_id: 2601
+title: "Extracting Heart And Aorta"
+date: 2018-04-16
+url: https://discourse.slicer.org/t/2601
+---
+
 # Extracting Heart and Aorta
 
 **Topic ID**: 2601

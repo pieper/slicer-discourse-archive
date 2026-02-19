@@ -1,3 +1,10 @@
+---
+topic_id: 19827
+title: "Slicer Nrrd Coordinate Systems"
+date: 2021-09-23
+url: https://discourse.slicer.org/t/19827
+---
+
 # Slicer/.nrrd Coordinate Systems
 
 **Topic ID**: 19827

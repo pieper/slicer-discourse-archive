@@ -1,3 +1,10 @@
+---
+topic_id: 44129
+title: "3Dview Side By Side Half"
+date: 2025-08-19
+url: https://discourse.slicer.org/t/44129
+---
+
 # 3DView side-by-side half
 
 **Topic ID**: 44129

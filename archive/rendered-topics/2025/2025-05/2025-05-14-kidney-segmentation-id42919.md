@@ -1,3 +1,10 @@
+---
+topic_id: 42919
+title: "Kidney Segmentation"
+date: 2025-05-14
+url: https://discourse.slicer.org/t/42919
+---
+
 # Kidney segmentation 
 
 **Topic ID**: 42919

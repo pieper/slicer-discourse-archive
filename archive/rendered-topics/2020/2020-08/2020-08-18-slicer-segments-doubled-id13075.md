@@ -1,3 +1,10 @@
+---
+topic_id: 13075
+title: "Slicer Segments Doubled"
+date: 2020-08-18
+url: https://discourse.slicer.org/t/13075
+---
+
 # Slicer segments doubled
 
 **Topic ID**: 13075

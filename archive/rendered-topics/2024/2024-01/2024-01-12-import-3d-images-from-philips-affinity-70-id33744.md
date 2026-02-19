@@ -1,3 +1,10 @@
+---
+topic_id: 33744
+title: "Import 3D Images From Philips Affinity 70"
+date: 2024-01-12
+url: https://discourse.slicer.org/t/33744
+---
+
 # Import 3D images from Philips Affinity 70
 
 **Topic ID**: 33744

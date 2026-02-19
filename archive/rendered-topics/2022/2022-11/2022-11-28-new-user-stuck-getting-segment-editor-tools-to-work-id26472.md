@@ -1,3 +1,10 @@
+---
+topic_id: 26472
+title: "New User Stuck Getting Segment Editor Tools To Work"
+date: 2022-11-28
+url: https://discourse.slicer.org/t/26472
+---
+
 # New user-stuck getting segment editor tools to work
 
 **Topic ID**: 26472

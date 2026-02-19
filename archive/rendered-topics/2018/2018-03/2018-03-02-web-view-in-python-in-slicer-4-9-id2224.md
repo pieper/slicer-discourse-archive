@@ -1,3 +1,10 @@
+---
+topic_id: 2224
+title: "Web View In Python In Slicer 4 9"
+date: 2018-03-02
+url: https://discourse.slicer.org/t/2224
+---
+
 # Web view in Python in Slicer-4.9
 
 **Topic ID**: 2224

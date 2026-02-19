@@ -1,3 +1,10 @@
+---
+topic_id: 9519
+title: "Additional Segments Appearing In Segment Representations"
+date: 2019-12-16
+url: https://discourse.slicer.org/t/9519
+---
+
 # Additional segments appearing in segment representations
 
 **Topic ID**: 9519

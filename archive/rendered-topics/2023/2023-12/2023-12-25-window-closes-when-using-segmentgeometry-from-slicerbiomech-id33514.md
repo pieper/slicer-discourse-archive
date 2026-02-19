@@ -1,3 +1,10 @@
+---
+topic_id: 33514
+title: "Window Closes When Using Segmentgeometry From Slicerbiomech"
+date: 2023-12-25
+url: https://discourse.slicer.org/t/33514
+---
+
 # Window closes when using SegmentGeometry (from SlicerBiomech), some timer after hiting the "apply" button
 
 **Topic ID**: 33514

@@ -1,3 +1,10 @@
+---
+topic_id: 8962
+title: "Slicersalt Community Survey"
+date: 2019-10-30
+url: https://discourse.slicer.org/t/8962
+---
+
 # SlicerSALT Community Survey
 
 **Topic ID**: 8962

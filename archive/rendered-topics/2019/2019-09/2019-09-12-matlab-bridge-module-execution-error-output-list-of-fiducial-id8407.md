@@ -1,3 +1,10 @@
+---
+topic_id: 8407
+title: "Matlab Bridge Module Execution Error Output List Of Fiducial"
+date: 2019-09-12
+url: https://discourse.slicer.org/t/8407
+---
+
 # Matlab Bridge - module execution error - output list of fiducial points
 
 **Topic ID**: 8407

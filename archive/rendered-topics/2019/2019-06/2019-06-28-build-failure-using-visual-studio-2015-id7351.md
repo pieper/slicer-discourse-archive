@@ -1,3 +1,10 @@
+---
+topic_id: 7351
+title: "Build Failure Using Visual Studio 2015"
+date: 2019-06-28
+url: https://discourse.slicer.org/t/7351
+---
+
 # Build failure  using Visual Studio 2015  
 
 **Topic ID**: 7351

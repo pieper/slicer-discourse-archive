@@ -1,3 +1,10 @@
+---
+topic_id: 6545
+title: "Using Slicer Behind Proxy"
+date: 2019-04-19
+url: https://discourse.slicer.org/t/6545
+---
+
 # Using slicer behind proxy
 
 **Topic ID**: 6545

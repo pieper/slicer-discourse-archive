@@ -1,3 +1,10 @@
+---
+topic_id: 25813
+title: "Stack Several Images Along Channel Dimension To Create Multi"
+date: 2022-10-20
+url: https://discourse.slicer.org/t/25813
+---
+
 # Stack several images along channel dimension to create multichannel images (e.g. 4D volume)
 
 **Topic ID**: 25813

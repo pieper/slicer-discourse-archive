@@ -1,3 +1,10 @@
+---
+topic_id: 33606
+title: "Please Critique My Script Sequences Merged Sequences Cine Co"
+date: 2024-01-03
+url: https://discourse.slicer.org/t/33606
+---
+
 # Please critique my script : sequences, merged sequences, CINE, color, opacity, .mrb
 
 **Topic ID**: 33606

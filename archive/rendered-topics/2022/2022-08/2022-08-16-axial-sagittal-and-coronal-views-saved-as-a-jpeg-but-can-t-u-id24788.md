@@ -1,3 +1,10 @@
+---
+topic_id: 24788
+title: "Axial Sagittal And Coronal Views Saved As A Jpeg But Can T U"
+date: 2022-08-16
+url: https://discourse.slicer.org/t/24788
+---
+
 # Axial, Sagittal, and Coronal views saved as a JPEG, but can’t upload all.
 
 **Topic ID**: 24788

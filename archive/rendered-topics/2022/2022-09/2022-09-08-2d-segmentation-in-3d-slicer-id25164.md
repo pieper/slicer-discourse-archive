@@ -1,3 +1,10 @@
+---
+topic_id: 25164
+title: "2D Segmentation In 3D Slicer"
+date: 2022-09-08
+url: https://discourse.slicer.org/t/25164
+---
+
 # 2d segmentation in 3d slicer 
 
 **Topic ID**: 25164

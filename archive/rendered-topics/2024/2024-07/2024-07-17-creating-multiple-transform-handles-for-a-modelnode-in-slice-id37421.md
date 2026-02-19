@@ -1,3 +1,10 @@
+---
+topic_id: 37421
+title: "Creating Multiple Transform Handles For A Modelnode In Slice"
+date: 2024-07-17
+url: https://discourse.slicer.org/t/37421
+---
+
 # Creating Multiple Transform Handles for a ModelNode in Slicer 5.7
 
 **Topic ID**: 37421

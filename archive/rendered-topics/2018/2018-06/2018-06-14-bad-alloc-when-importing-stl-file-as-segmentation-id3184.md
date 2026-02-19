@@ -1,3 +1,10 @@
+---
+topic_id: 3184
+title: "Bad Alloc When Importing Stl File As Segmentation"
+date: 2018-06-14
+url: https://discourse.slicer.org/t/3184
+---
+
 # Bad alloc when importing STL file as segmentation
 
 **Topic ID**: 3184

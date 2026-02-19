@@ -1,3 +1,10 @@
+---
+topic_id: 15468
+title: "Move 3D Focal Point Using Mouse Or Keyboard"
+date: 2021-01-12
+url: https://discourse.slicer.org/t/15468
+---
+
 # Move 3D focal point using mouse or keyboard
 
 **Topic ID**: 15468

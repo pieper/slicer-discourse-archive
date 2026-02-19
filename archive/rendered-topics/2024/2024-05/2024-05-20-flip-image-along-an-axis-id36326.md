@@ -1,3 +1,10 @@
+---
+topic_id: 36326
+title: "Flip Image Along An Axis"
+date: 2024-05-20
+url: https://discourse.slicer.org/t/36326
+---
+
 # Flip image along an axis
 
 **Topic ID**: 36326

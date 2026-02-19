@@ -1,3 +1,10 @@
+---
+topic_id: 21277
+title: "Training Using 3D Slicer For Ai Segmentation"
+date: 2021-12-30
+url: https://discourse.slicer.org/t/21277
+---
+
 # Training using 3D Slicer for AI Segmentation
 
 **Topic ID**: 21277

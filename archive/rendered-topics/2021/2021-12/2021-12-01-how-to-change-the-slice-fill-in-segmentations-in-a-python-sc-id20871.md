@@ -1,3 +1,10 @@
+---
+topic_id: 20871
+title: "How To Change The Slice Fill In Segmentations In A Python Sc"
+date: 2021-12-01
+url: https://discourse.slicer.org/t/20871
+---
+
 # How to change the slice fill in 'Segmentations' in a python script
 
 **Topic ID**: 20871

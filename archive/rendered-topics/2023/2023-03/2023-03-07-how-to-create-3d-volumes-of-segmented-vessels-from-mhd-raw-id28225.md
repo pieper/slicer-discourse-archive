@@ -1,3 +1,10 @@
+---
+topic_id: 28225
+title: "How To Create 3D Volumes Of Segmented Vessels From Mhd Raw"
+date: 2023-03-07
+url: https://discourse.slicer.org/t/28225
+---
+
 # How to create 3D volumes of segmented vessels from .mhd/.raw?
 
 **Topic ID**: 28225

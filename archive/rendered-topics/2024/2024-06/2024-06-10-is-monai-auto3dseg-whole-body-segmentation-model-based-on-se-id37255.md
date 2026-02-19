@@ -1,3 +1,10 @@
+---
+topic_id: 37255
+title: "Is Monai Auto3Dseg Whole Body Segmentation Model Based On Se"
+date: 2024-06-10
+url: https://discourse.slicer.org/t/37255
+---
+
 # Is MONAI Auto3DSeg Whole body segmentation model based on SegResNet?
 
 **Topic ID**: 37255

@@ -1,3 +1,10 @@
+---
+topic_id: 392
+title: "Mri Image Loading Problems Nothing Visible On Any Of The Sli"
+date: 2017-05-26
+url: https://discourse.slicer.org/t/392
+---
+
 # MRI image loading problems: nothing visible on any of the slicer windows/scenes after loading
 
 **Topic ID**: 392

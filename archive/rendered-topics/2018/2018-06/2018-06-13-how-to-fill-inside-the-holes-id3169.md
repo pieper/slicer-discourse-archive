@@ -1,3 +1,10 @@
+---
+topic_id: 3169
+title: "How To Fill Inside The Holes"
+date: 2018-06-13
+url: https://discourse.slicer.org/t/3169
+---
+
 # How to fill inside the holes
 
 **Topic ID**: 3169

@@ -1,3 +1,10 @@
+---
+topic_id: 9404
+title: "Dicom Database Problem"
+date: 2019-12-05
+url: https://discourse.slicer.org/t/9404
+---
+
 # DICOM database problem
 
 **Topic ID**: 9404

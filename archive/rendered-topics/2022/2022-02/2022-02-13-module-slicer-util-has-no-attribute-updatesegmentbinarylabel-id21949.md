@@ -1,3 +1,10 @@
+---
+topic_id: 21949
+title: "Module Slicer Util Has No Attribute Updatesegmentbinarylabel"
+date: 2022-02-13
+url: https://discourse.slicer.org/t/21949
+---
+
 # Module 'slicer.util' has no attribute 'updateSegmentBinaryLabelmapFromArray'
 
 **Topic ID**: 21949

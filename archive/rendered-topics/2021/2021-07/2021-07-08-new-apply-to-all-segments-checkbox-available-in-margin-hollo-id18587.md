@@ -1,3 +1,10 @@
+---
+topic_id: 18587
+title: "New Apply To All Segments Checkbox Available In Margin Hollo"
+date: 2021-07-08
+url: https://discourse.slicer.org/t/18587
+---
+
 # New "Apply to all segments" checkbox available in "Margin", "Hollow", "Smoothing" and "Scissors" effect
 
 **Topic ID**: 18587

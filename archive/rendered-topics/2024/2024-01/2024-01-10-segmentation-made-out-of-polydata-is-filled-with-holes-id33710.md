@@ -1,3 +1,10 @@
+---
+topic_id: 33710
+title: "Segmentation Made Out Of Polydata Is Filled With Holes"
+date: 2024-01-10
+url: https://discourse.slicer.org/t/33710
+---
+
 # Segmentation made out of polydata is filled with holes
 
 **Topic ID**: 33710

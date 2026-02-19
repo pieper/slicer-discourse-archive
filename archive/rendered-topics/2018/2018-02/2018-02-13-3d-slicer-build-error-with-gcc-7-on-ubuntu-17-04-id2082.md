@@ -1,3 +1,10 @@
+---
+topic_id: 2082
+title: "3D Slicer Build Error With Gcc 7 On Ubuntu 17 04"
+date: 2018-02-13
+url: https://discourse.slicer.org/t/2082
+---
+
 # 3D Slicer Build Error with GCC 7 on Ubuntu 17.04
 
 **Topic ID**: 2082

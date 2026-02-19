@@ -1,3 +1,10 @@
+---
+topic_id: 28616
+title: "Markup Shortkeys And Model Interaction"
+date: 2023-03-28
+url: https://discourse.slicer.org/t/28616
+---
+
 # Markup shortkeys and model interaction
 
 **Topic ID**: 28616

@@ -1,3 +1,10 @@
+---
+topic_id: 876
+title: "How To Open A File As A Labelmap From Command Line"
+date: 2017-08-15
+url: https://discourse.slicer.org/t/876
+---
+
 # How to open a file as a LabelMap from command line?
 
 **Topic ID**: 876

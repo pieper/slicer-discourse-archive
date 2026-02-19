@@ -1,3 +1,10 @@
+---
+topic_id: 12160
+title: "Recover 2D Curve From 2D Slices"
+date: 2020-06-22
+url: https://discourse.slicer.org/t/12160
+---
+
 # Recover 2d curve from 2d slices
 
 **Topic ID**: 12160

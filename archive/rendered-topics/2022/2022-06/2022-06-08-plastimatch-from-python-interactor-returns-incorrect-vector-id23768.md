@@ -1,3 +1,10 @@
+---
+topic_id: 23768
+title: "Plastimatch From Python Interactor Returns Incorrect Vector"
+date: 2022-06-08
+url: https://discourse.slicer.org/t/23768
+---
+
 # Plastimatch from Python Interactor returns incorrect vector field
 
 **Topic ID**: 23768

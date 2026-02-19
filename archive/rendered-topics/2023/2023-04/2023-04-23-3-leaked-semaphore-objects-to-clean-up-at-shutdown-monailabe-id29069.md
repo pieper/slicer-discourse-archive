@@ -1,3 +1,10 @@
+---
+topic_id: 29069
+title: "3 Leaked Semaphore Objects To Clean Up At Shutdown Monailabe"
+date: 2023-04-23
+url: https://discourse.slicer.org/t/29069
+---
+
 # 3 leaked semaphore objects to clean up at shutdown_MONAILabel
 
 **Topic ID**: 29069

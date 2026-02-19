@@ -1,3 +1,10 @@
+---
+topic_id: 28316
+title: "Install Extensions Is Not Working On Latest Preview Release"
+date: 2023-03-11
+url: https://discourse.slicer.org/t/28316
+---
+
 # Install extensions is not working on latest preview release
 
 **Topic ID**: 28316

@@ -1,3 +1,10 @@
+---
+topic_id: 27249
+title: "Ctliver Dataset Size"
+date: 2023-01-15
+url: https://discourse.slicer.org/t/27249
+---
+
 # CTLiver dataset size
 
 **Topic ID**: 27249

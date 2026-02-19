@@ -1,3 +1,10 @@
+---
+topic_id: 1184
+title: "Slicerapp Real Exe Has Stopped Working"
+date: 2017-10-05
+url: https://discourse.slicer.org/t/1184
+---
+
 # slicerApp-real.exe has stopped working
 
 **Topic ID**: 1184

@@ -1,3 +1,10 @@
+---
+topic_id: 39724
+title: "Is A Return Statement Missing In The Parameter Node Wrapper"
+date: 2024-10-16
+url: https://discourse.slicer.org/t/39724
+---
+
 # Is a return statement missing in the parameter node wrapper?
 
 **Topic ID**: 39724

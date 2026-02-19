@@ -1,3 +1,10 @@
+---
+topic_id: 41346
+title: "Two Exciting Open Positions With An Ai Imaging Startup"
+date: 2025-01-28
+url: https://discourse.slicer.org/t/41346
+---
+
 # Two exciting open positions with an AI imaging startup.
 
 **Topic ID**: 41346

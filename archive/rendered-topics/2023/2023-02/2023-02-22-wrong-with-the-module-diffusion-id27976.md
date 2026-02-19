@@ -1,3 +1,10 @@
+---
+topic_id: 27976
+title: "Wrong With The Module Diffusion"
+date: 2023-02-22
+url: https://discourse.slicer.org/t/27976
+---
+
 # Wrong with the module Diffusion
 
 **Topic ID**: 27976

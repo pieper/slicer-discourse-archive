@@ -1,3 +1,10 @@
+---
+topic_id: 26111
+title: "Mri Image Matching Knee Joint"
+date: 2022-11-07
+url: https://discourse.slicer.org/t/26111
+---
+
 # MRI-image matching knee joint
 
 **Topic ID**: 26111

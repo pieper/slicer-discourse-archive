@@ -1,3 +1,10 @@
+---
+topic_id: 2284
+title: "Sending Commands To Python Interactor From Microsoft Kinect"
+date: 2018-03-10
+url: https://discourse.slicer.org/t/2284
+---
+
 # Sending commands to python interactor from Microsoft kinect
 
 **Topic ID**: 2284

@@ -1,3 +1,10 @@
+---
+topic_id: 763
+title: "Qmrmlsubjecthierarchycombobox Usage"
+date: 2017-07-25
+url: https://discourse.slicer.org/t/763
+---
+
 # qMRMLSubjectHierarchyComboBox usage
 
 **Topic ID**: 763

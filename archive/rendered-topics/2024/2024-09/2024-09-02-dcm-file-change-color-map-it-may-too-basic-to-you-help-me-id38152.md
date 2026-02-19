@@ -1,3 +1,10 @@
+---
+topic_id: 38152
+title: "Dcm File Change Color Map It May Too Basic To You Help Me"
+date: 2024-09-02
+url: https://discourse.slicer.org/t/38152
+---
+
 # DCM file (change color map) It may too basic to you. help me!
 
 **Topic ID**: 38152

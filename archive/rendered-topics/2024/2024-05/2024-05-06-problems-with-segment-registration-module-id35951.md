@@ -1,3 +1,10 @@
+---
+topic_id: 35951
+title: "Problems With Segment Registration Module"
+date: 2024-05-06
+url: https://discourse.slicer.org/t/35951
+---
+
 # Problems with Segment Registration Module
 
 **Topic ID**: 35951

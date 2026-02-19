@@ -1,3 +1,10 @@
+---
+topic_id: 27585
+title: "Fixing Saving Slice Relations From The Interactive Slice Int"
+date: 2023-02-01
+url: https://discourse.slicer.org/t/27585
+---
+
 # Fixing/Saving slice relations from the interactive slice intersection tool
 
 **Topic ID**: 27585

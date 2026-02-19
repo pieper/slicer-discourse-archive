@@ -1,3 +1,10 @@
+---
+topic_id: 6938
+title: "Spharm Pdm From Triangular Meshes"
+date: 2019-05-27
+url: https://discourse.slicer.org/t/6938
+---
+
 # SPHARM-PDM from triangular meshes
 
 **Topic ID**: 6938

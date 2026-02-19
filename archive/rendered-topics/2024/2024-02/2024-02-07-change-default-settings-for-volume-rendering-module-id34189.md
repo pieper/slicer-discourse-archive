@@ -1,3 +1,10 @@
+---
+topic_id: 34189
+title: "Change Default Settings For Volume Rendering Module"
+date: 2024-02-07
+url: https://discourse.slicer.org/t/34189
+---
+
 # Change default settings for Volume Rendering module
 
 **Topic ID**: 34189

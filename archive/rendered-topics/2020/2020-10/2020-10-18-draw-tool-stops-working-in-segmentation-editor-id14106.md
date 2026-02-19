@@ -1,3 +1,10 @@
+---
+topic_id: 14106
+title: "Draw Tool Stops Working In Segmentation Editor"
+date: 2020-10-18
+url: https://discourse.slicer.org/t/14106
+---
+
 # Draw tool stops working in segmentation editor
 
 **Topic ID**: 14106

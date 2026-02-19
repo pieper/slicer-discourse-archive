@@ -1,3 +1,10 @@
+---
+topic_id: 1120
+title: "Upcoming Slicer 4 8 Release"
+date: 2017-09-26
+url: https://discourse.slicer.org/t/1120
+---
+
 # Upcoming Slicer 4.8 release
 
 **Topic ID**: 1120

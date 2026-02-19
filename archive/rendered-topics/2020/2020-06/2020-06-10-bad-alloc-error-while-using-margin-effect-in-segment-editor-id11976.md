@@ -1,3 +1,10 @@
+---
+topic_id: 11976
+title: "Bad Alloc Error While Using Margin Effect In Segment Editor"
+date: 2020-06-10
+url: https://discourse.slicer.org/t/11976
+---
+
 # Bad_alloc error while using margin effect in Segment editor module
 
 **Topic ID**: 11976

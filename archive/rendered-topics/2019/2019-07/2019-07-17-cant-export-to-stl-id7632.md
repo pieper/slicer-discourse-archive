@@ -1,3 +1,10 @@
+---
+topic_id: 7632
+title: "Cant Export To Stl"
+date: 2019-07-17
+url: https://discourse.slicer.org/t/7632
+---
+
 # Can't Export to STL
 
 **Topic ID**: 7632

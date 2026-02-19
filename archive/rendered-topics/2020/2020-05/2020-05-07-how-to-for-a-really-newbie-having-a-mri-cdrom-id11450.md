@@ -1,3 +1,10 @@
+---
+topic_id: 11450
+title: "How To For A Really Newbie Having A Mri Cdrom"
+date: 2020-05-07
+url: https://discourse.slicer.org/t/11450
+---
+
 # "How to" for a really newbie having a MRI CDRom?
 
 **Topic ID**: 11450

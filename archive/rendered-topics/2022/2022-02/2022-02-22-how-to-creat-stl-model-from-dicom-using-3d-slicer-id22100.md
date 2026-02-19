@@ -1,3 +1,10 @@
+---
+topic_id: 22100
+title: "How To Creat Stl Model From Dicom Using 3D Slicer"
+date: 2022-02-22
+url: https://discourse.slicer.org/t/22100
+---
+
 # How to creat .stl model from DICOM USING 3D Slicer?
 
 **Topic ID**: 22100

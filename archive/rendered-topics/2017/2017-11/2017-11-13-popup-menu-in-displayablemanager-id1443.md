@@ -1,3 +1,10 @@
+---
+topic_id: 1443
+title: "Popup Menu In Displayablemanager"
+date: 2017-11-13
+url: https://discourse.slicer.org/t/1443
+---
+
 # Popup menu in displayablemanager
 
 **Topic ID**: 1443

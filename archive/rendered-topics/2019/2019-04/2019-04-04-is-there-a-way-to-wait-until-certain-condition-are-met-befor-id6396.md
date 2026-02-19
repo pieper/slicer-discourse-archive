@@ -1,3 +1,10 @@
+---
+topic_id: 6396
+title: "Is There A Way To Wait Until Certain Condition Are Met Befor"
+date: 2019-04-04
+url: https://discourse.slicer.org/t/6396
+---
+
 # Is there a way to wait until certain condition are met before continuing and deleting nodes in using a python script
 
 **Topic ID**: 6396

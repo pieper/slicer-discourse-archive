@@ -1,3 +1,10 @@
+---
+topic_id: 30526
+title: "Export 3D Stl File From Volume Rendering"
+date: 2023-07-11
+url: https://discourse.slicer.org/t/30526
+---
+
 # Export 3D stl file from Volume Rendering
 
 **Topic ID**: 30526

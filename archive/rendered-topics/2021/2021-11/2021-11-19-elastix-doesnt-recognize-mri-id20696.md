@@ -1,3 +1,10 @@
+---
+topic_id: 20696
+title: "Elastix Doesnt Recognize Mri"
+date: 2021-11-19
+url: https://discourse.slicer.org/t/20696
+---
+
 # Elastix doesn't recognize MRI
 
 **Topic ID**: 20696

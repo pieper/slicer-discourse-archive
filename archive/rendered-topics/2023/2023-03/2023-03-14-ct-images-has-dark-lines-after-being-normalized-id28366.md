@@ -1,3 +1,10 @@
+---
+topic_id: 28366
+title: "Ct Images Has Dark Lines After Being Normalized"
+date: 2023-03-14
+url: https://discourse.slicer.org/t/28366
+---
+
 # CT images has dark lines after being normalized
 
 **Topic ID**: 28366

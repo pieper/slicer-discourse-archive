@@ -1,3 +1,10 @@
+---
+topic_id: 12726
+title: "Having Trouble Understanding Model Types"
+date: 2020-07-24
+url: https://discourse.slicer.org/t/12726
+---
+
 # Having trouble understanding model types
 
 **Topic ID**: 12726

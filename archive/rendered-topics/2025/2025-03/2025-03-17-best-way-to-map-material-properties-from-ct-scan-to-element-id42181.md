@@ -1,3 +1,10 @@
+---
+topic_id: 42181
+title: "Best Way To Map Material Properties From Ct Scan To Element"
+date: 2025-03-17
+url: https://discourse.slicer.org/t/42181
+---
+
 # Best way to map material properties from CT scan to Element
 
 **Topic ID**: 42181

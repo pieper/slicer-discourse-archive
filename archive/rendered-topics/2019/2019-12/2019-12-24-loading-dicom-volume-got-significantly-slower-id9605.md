@@ -1,3 +1,10 @@
+---
+topic_id: 9605
+title: "Loading Dicom Volume Got Significantly Slower"
+date: 2019-12-24
+url: https://discourse.slicer.org/t/9605
+---
+
 # Loading DICOM volume got significantly slower
 
 **Topic ID**: 9605

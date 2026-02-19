@@ -1,3 +1,10 @@
+---
+topic_id: 6079
+title: "Extensions How To Create Package File"
+date: 2019-03-08
+url: https://discourse.slicer.org/t/6079
+---
+
 # Extensions: How to create package file
 
 **Topic ID**: 6079

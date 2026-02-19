@@ -1,3 +1,10 @@
+---
+topic_id: 13546
+title: "Cast Scalar Volume"
+date: 2020-09-18
+url: https://discourse.slicer.org/t/13546
+---
+
 # cast scalar volume
 
 **Topic ID**: 13546

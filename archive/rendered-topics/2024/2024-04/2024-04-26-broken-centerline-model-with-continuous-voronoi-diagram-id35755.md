@@ -1,3 +1,10 @@
+---
+topic_id: 35755
+title: "Broken Centerline Model With Continuous Voronoi Diagram"
+date: 2024-04-26
+url: https://discourse.slicer.org/t/35755
+---
+
 # Broken centerline model with continuous voronoi diagram
 
 **Topic ID**: 35755

@@ -1,3 +1,10 @@
+---
+topic_id: 35686
+title: "Extension Download Fails Complaining About Https"
+date: 2024-04-23
+url: https://discourse.slicer.org/t/35686
+---
+
 # Extension download fails complaining about HTTPS
 
 **Topic ID**: 35686

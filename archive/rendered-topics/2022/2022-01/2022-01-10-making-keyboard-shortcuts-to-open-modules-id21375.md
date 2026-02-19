@@ -1,3 +1,10 @@
+---
+topic_id: 21375
+title: "Making Keyboard Shortcuts To Open Modules"
+date: 2022-01-10
+url: https://discourse.slicer.org/t/21375
+---
+
 # Making keyboard shortcuts to open modules
 
 **Topic ID**: 21375

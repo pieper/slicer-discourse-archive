@@ -1,3 +1,10 @@
+---
+topic_id: 44832
+title: "Binary Is Missing From The Extension Package"
+date: 2025-10-20
+url: https://discourse.slicer.org/t/44832
+---
+
 # Binary is missing from the extension package
 
 **Topic ID**: 44832

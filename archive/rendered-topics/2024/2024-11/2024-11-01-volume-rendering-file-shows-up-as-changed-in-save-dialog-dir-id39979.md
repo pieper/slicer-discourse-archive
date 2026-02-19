@@ -1,3 +1,10 @@
+---
+topic_id: 39979
+title: "Volume Rendering File Shows Up As Changed In Save Dialog Dir"
+date: 2024-11-01
+url: https://discourse.slicer.org/t/39979
+---
+
 # Volume rendering file shows up as changed in Save dialog directly after opening an mrml scene
 
 **Topic ID**: 39979

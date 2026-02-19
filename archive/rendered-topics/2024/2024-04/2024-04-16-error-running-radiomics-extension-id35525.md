@@ -1,3 +1,10 @@
+---
+topic_id: 35525
+title: "Error Running Radiomics Extension"
+date: 2024-04-16
+url: https://discourse.slicer.org/t/35525
+---
+
 # Error running radiomics extension
 
 **Topic ID**: 35525

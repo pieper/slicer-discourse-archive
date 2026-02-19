@@ -1,3 +1,10 @@
+---
+topic_id: 11943
+title: "Chest Imaging Platform Cip Installation In Linus Ubuntu Pyth"
+date: 2020-06-09
+url: https://discourse.slicer.org/t/11943
+---
+
 # Chest Imaging Platform (CIP) installation in Linus Ubuntu & python
 
 **Topic ID**: 11943

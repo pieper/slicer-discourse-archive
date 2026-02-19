@@ -1,3 +1,10 @@
+---
+topic_id: 43828
+title: "Transform Translation Trouble Step Up Down 10Mm"
+date: 2025-07-23
+url: https://discourse.slicer.org/t/43828
+---
+
 # Transform Translation Trouble--Step up/down 10mm
 
 **Topic ID**: 43828

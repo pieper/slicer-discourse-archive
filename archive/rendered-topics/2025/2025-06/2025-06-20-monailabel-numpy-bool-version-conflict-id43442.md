@@ -1,3 +1,10 @@
+---
+topic_id: 43442
+title: "Monailabel Numpy Bool Version Conflict"
+date: 2025-06-20
+url: https://discourse.slicer.org/t/43442
+---
+
 # Monailabel numpy.bool version conflict
 
 **Topic ID**: 43442

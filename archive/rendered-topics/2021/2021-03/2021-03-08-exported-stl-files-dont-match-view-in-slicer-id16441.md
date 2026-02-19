@@ -1,3 +1,10 @@
+---
+topic_id: 16441
+title: "Exported Stl Files Dont Match View In Slicer"
+date: 2021-03-08
+url: https://discourse.slicer.org/t/16441
+---
+
 # Exported STL files dont match view in Slicer
 
 **Topic ID**: 16441

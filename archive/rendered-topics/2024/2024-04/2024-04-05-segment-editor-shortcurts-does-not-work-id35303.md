@@ -1,3 +1,10 @@
+---
+topic_id: 35303
+title: "Segment Editor Shortcurts Does Not Work"
+date: 2024-04-05
+url: https://discourse.slicer.org/t/35303
+---
+
 # Segment Editor shortcurts does not work
 
 **Topic ID**: 35303

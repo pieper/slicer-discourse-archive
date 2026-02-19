@@ -1,3 +1,10 @@
+---
+topic_id: 19187
+title: "Feedbacks Updating Segment Editor Node After Each Paint Eras"
+date: 2021-08-13
+url: https://discourse.slicer.org/t/19187
+---
+
 # Feedbacks / Updating segment editor node after each paint/erase effect
 
 **Topic ID**: 19187

@@ -1,3 +1,10 @@
+---
+topic_id: 24302
+title: "The Curve Cut Tool In Dynamic Modeler Cuts Off The Jagged Ed"
+date: 2022-07-14
+url: https://discourse.slicer.org/t/24302
+---
+
 # The curve cut tool in dynamic modeler cuts off the jagged edges of the model
 
 **Topic ID**: 24302

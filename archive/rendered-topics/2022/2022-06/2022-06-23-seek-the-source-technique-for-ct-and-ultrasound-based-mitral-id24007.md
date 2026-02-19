@@ -1,3 +1,10 @@
+---
+topic_id: 24007
+title: "Seek The Source Technique For Ct And Ultrasound Based Mitral"
+date: 2022-06-23
+url: https://discourse.slicer.org/t/24007
+---
+
 # Seek the source technique for CT and Ultrasound based Mitral Valve/ Annulus
 
 **Topic ID**: 24007

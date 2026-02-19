@@ -1,3 +1,10 @@
+---
+topic_id: 24
+title: "Slicer Api Documentation"
+date: 2017-04-08
+url: https://discourse.slicer.org/t/24
+---
+
 # Slicer API documentation
 
 **Topic ID**: 24

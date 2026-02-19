@@ -1,3 +1,10 @@
+---
+topic_id: 42450
+title: "Finding The Resolution Of The Data Set"
+date: 2025-04-06
+url: https://discourse.slicer.org/t/42450
+---
+
 # Finding the resolution of the data set
 
 **Topic ID**: 42450

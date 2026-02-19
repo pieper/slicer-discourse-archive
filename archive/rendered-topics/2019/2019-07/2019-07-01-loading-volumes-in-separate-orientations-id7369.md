@@ -1,3 +1,10 @@
+---
+topic_id: 7369
+title: "Loading Volumes In Separate Orientations"
+date: 2019-07-01
+url: https://discourse.slicer.org/t/7369
+---
+
 # Loading Volumes in separate orientations
 
 **Topic ID**: 7369

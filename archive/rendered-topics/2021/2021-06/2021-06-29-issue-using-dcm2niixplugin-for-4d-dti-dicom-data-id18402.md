@@ -1,3 +1,10 @@
+---
+topic_id: 18402
+title: "Issue Using Dcm2Niixplugin For 4D Dti Dicom Data"
+date: 2021-06-29
+url: https://discourse.slicer.org/t/18402
+---
+
 # Issue using Dcm2niixPlugin for 4D DTI Dicom data
 
 **Topic ID**: 18402

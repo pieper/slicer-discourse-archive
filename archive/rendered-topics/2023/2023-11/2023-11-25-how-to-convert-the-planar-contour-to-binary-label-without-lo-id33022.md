@@ -1,3 +1,10 @@
+---
+topic_id: 33022
+title: "How To Convert The Planar Contour To Binary Label Without Lo"
+date: 2023-11-25
+url: https://discourse.slicer.org/t/33022
+---
+
 # How to convert the planar contour to binary label without losing resolution?
 
 **Topic ID**: 33022

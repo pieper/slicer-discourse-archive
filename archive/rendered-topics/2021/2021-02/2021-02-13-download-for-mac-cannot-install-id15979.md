@@ -1,3 +1,10 @@
+---
+topic_id: 15979
+title: "Download For Mac Cannot Install"
+date: 2021-02-13
+url: https://discourse.slicer.org/t/15979
+---
+
 # download for Mac cannot install
 
 **Topic ID**: 15979

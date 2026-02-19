@@ -1,3 +1,10 @@
+---
+topic_id: 35810
+title: "Project Week 41 Preparation Meetings Start This Tuesday Apri"
+date: 2024-04-29
+url: https://discourse.slicer.org/t/35810
+---
+
 # Project Week 41 preparation meetings start this Tuesday (April 30th)
 
 **Topic ID**: 35810

@@ -1,3 +1,10 @@
+---
+topic_id: 23592
+title: "Dicom Sort Method"
+date: 2022-05-26
+url: https://discourse.slicer.org/t/23592
+---
+
 # DICOM sort method
 
 **Topic ID**: 23592

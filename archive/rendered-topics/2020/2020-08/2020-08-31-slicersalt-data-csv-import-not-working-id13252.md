@@ -1,3 +1,10 @@
+---
+topic_id: 13252
+title: "Slicersalt Data Csv Import Not Working"
+date: 2020-08-31
+url: https://discourse.slicer.org/t/13252
+---
+
 # SlicerSalt Data CSV Import Not Working
 
 **Topic ID**: 13252

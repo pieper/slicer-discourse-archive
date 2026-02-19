@@ -1,3 +1,10 @@
+---
+topic_id: 18431
+title: "Smoothing With Gaussian Standard Deviation Changed At Some P"
+date: 2021-06-30
+url: https://discourse.slicer.org/t/18431
+---
+
 # Smoothing with Gaussian standard deviation changed at some point
 
 **Topic ID**: 18431

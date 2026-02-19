@@ -1,3 +1,10 @@
+---
+topic_id: 2259
+title: "No 4 8 1 Extensions Builds On Mac Since Feb 22"
+date: 2018-03-07
+url: https://discourse.slicer.org/t/2259
+---
+
 # No 4.8.1 extensions builds on Mac since Feb 22
 
 **Topic ID**: 2259

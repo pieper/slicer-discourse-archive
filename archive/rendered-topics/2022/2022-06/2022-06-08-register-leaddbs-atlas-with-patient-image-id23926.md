@@ -1,3 +1,10 @@
+---
+topic_id: 23926
+title: "Register Leaddbs Atlas With Patient Image"
+date: 2022-06-08
+url: https://discourse.slicer.org/t/23926
+---
+
 # Register LeadDBS atlas with patient image
 
 **Topic ID**: 23926

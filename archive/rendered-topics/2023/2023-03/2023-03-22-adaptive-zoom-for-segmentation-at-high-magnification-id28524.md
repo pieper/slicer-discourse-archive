@@ -1,3 +1,10 @@
+---
+topic_id: 28524
+title: "Adaptive Zoom For Segmentation At High Magnification"
+date: 2023-03-22
+url: https://discourse.slicer.org/t/28524
+---
+
 # Adaptive zoom for segmentation at high magnification
 
 **Topic ID**: 28524

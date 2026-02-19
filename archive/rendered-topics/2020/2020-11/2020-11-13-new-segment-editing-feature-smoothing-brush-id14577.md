@@ -1,3 +1,10 @@
+---
+topic_id: 14577
+title: "New Segment Editing Feature Smoothing Brush"
+date: 2020-11-13
+url: https://discourse.slicer.org/t/14577
+---
+
 # New segment editing feature: Smoothing brush
 
 **Topic ID**: 14577

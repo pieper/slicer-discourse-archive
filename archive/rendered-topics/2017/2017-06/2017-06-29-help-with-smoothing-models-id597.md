@@ -1,3 +1,10 @@
+---
+topic_id: 597
+title: "Help With Smoothing Models"
+date: 2017-06-29
+url: https://discourse.slicer.org/t/597
+---
+
 # Help with smoothing models
 
 **Topic ID**: 597

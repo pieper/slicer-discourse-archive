@@ -1,3 +1,10 @@
+---
+topic_id: 5348
+title: "Tutorial For Doing Segmentation"
+date: 2019-01-13
+url: https://discourse.slicer.org/t/5348
+---
+
 # Tutorial for doing Segmentation
 
 **Topic ID**: 5348

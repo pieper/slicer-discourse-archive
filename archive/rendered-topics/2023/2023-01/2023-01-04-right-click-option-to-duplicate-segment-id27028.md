@@ -1,3 +1,10 @@
+---
+topic_id: 27028
+title: "Right Click Option To Duplicate Segment"
+date: 2023-01-04
+url: https://discourse.slicer.org/t/27028
+---
+
 # Right click option to duplicate segment
 
 **Topic ID**: 27028

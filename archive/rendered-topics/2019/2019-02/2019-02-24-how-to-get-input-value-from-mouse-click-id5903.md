@@ -1,3 +1,10 @@
+---
+topic_id: 5903
+title: "How To Get Input Value From Mouse Click"
+date: 2019-02-24
+url: https://discourse.slicer.org/t/5903
+---
+
 # How to get input value from mouse click?
 
 **Topic ID**: 5903

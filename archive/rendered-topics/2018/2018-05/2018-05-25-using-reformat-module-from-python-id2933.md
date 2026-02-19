@@ -1,3 +1,10 @@
+---
+topic_id: 2933
+title: "Using Reformat Module From Python"
+date: 2018-05-25
+url: https://discourse.slicer.org/t/2933
+---
+
 # Using Reformat module from Python
 
 **Topic ID**: 2933

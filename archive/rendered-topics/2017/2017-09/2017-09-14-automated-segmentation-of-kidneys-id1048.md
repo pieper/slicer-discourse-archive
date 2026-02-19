@@ -1,3 +1,10 @@
+---
+topic_id: 1048
+title: "Automated Segmentation Of Kidneys"
+date: 2017-09-14
+url: https://discourse.slicer.org/t/1048
+---
+
 # Automated Segmentation of Kidneys
 
 **Topic ID**: 1048

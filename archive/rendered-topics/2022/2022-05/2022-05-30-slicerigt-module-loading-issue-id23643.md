@@ -1,3 +1,10 @@
+---
+topic_id: 23643
+title: "Slicerigt Module Loading Issue"
+date: 2022-05-30
+url: https://discourse.slicer.org/t/23643
+---
+
 # SlicerIGT module loading issue
 
 **Topic ID**: 23643

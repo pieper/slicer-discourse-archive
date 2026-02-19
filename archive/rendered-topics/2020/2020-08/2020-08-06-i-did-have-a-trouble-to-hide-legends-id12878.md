@@ -1,3 +1,10 @@
+---
+topic_id: 12878
+title: "I Did Have A Trouble To Hide Legends"
+date: 2020-08-06
+url: https://discourse.slicer.org/t/12878
+---
+
 # I did have a trouble to hide legends
 
 **Topic ID**: 12878

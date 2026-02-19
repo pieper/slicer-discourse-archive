@@ -1,3 +1,10 @@
+---
+topic_id: 16675
+title: "How To Render The Model By An Image"
+date: 2021-03-21
+url: https://discourse.slicer.org/t/16675
+---
+
 # How to render the model by an image
 
 **Topic ID**: 16675

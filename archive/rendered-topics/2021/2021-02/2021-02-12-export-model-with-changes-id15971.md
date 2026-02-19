@@ -1,3 +1,10 @@
+---
+topic_id: 15971
+title: "Export Model With Changes"
+date: 2021-02-12
+url: https://discourse.slicer.org/t/15971
+---
+
 # Export model with changes
 
 **Topic ID**: 15971

@@ -1,3 +1,10 @@
+---
+topic_id: 8659
+title: "Inconsistency In Attributes"
+date: 2019-10-03
+url: https://discourse.slicer.org/t/8659
+---
+
 # Inconsistency in "Attributes"?
 
 **Topic ID**: 8659

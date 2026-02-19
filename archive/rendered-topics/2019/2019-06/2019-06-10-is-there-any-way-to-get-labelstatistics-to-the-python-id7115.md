@@ -1,3 +1,10 @@
+---
+topic_id: 7115
+title: "Is There Any Way To Get Labelstatistics To The Python"
+date: 2019-06-10
+url: https://discourse.slicer.org/t/7115
+---
+
 # Is there any way to get LabelStatistics to the python?
 
 **Topic ID**: 7115

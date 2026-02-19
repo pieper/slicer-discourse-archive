@@ -1,3 +1,10 @@
+---
+topic_id: 16160
+title: "Dose Accumulation From Rt Slicer To Eclipce Tps"
+date: 2021-02-23
+url: https://discourse.slicer.org/t/16160
+---
+
 # Dose accumulation from RT Slicer to Eclipce TPS
 
 **Topic ID**: 16160

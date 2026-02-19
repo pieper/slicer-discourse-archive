@@ -1,3 +1,10 @@
+---
+topic_id: 24559
+title: "Angle Between Planes"
+date: 2022-07-29
+url: https://discourse.slicer.org/t/24559
+---
+
 # Angle between planes
 
 **Topic ID**: 24559

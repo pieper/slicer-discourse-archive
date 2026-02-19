@@ -1,3 +1,10 @@
+---
+topic_id: 19490
+title: "Qmrmllistwidget Lists Nodes Of One Type"
+date: 2021-09-03
+url: https://discourse.slicer.org/t/19490
+---
+
 # qMRMLListWidget lists nodes of one type
 
 **Topic ID**: 19490

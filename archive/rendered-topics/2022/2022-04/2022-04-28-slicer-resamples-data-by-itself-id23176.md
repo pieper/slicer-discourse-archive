@@ -1,3 +1,10 @@
+---
+topic_id: 23176
+title: "Slicer Resamples Data By Itself"
+date: 2022-04-28
+url: https://discourse.slicer.org/t/23176
+---
+
 # slicer resamples data by itself
 
 **Topic ID**: 23176

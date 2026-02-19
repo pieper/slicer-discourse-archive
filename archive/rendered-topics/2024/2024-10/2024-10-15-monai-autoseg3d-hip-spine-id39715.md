@@ -1,3 +1,10 @@
+---
+topic_id: 39715
+title: "Monai Autoseg3D Hip Spine"
+date: 2024-10-15
+url: https://discourse.slicer.org/t/39715
+---
+
 # MONAI AutoSeg3D_Hip & spine
 
 **Topic ID**: 39715

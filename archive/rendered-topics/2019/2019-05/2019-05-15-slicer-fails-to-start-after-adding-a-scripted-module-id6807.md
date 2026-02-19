@@ -1,3 +1,10 @@
+---
+topic_id: 6807
+title: "Slicer Fails To Start After Adding A Scripted Module"
+date: 2019-05-15
+url: https://discourse.slicer.org/t/6807
+---
+
 # Slicer fails to start after adding a scripted module
 
 **Topic ID**: 6807

@@ -1,3 +1,10 @@
+---
+topic_id: 5843
+title: "Extracting Slices From A 3D Mri Volume Using Reformat Module"
+date: 2019-02-20
+url: https://discourse.slicer.org/t/5843
+---
+
 # Extracting Slices from a 3D MRI volume using Reformat Module
 
 **Topic ID**: 5843

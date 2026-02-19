@@ -1,3 +1,10 @@
+---
+topic_id: 16622
+title: "Python Io For Dwi Nrrd"
+date: 2021-03-18
+url: https://discourse.slicer.org/t/16622
+---
+
 # Python IO for DWI nrrd
 
 **Topic ID**: 16622

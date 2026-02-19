@@ -1,3 +1,10 @@
+---
+topic_id: 39588
+title: "View Two Models Stl Side By Side In 3D Slicer"
+date: 2024-10-08
+url: https://discourse.slicer.org/t/39588
+---
+
 # View two models(stl) side by side in 3d slicer
 
 **Topic ID**: 39588

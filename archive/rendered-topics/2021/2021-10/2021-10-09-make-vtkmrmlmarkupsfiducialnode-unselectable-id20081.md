@@ -1,3 +1,10 @@
+---
+topic_id: 20081
+title: "Make Vtkmrmlmarkupsfiducialnode Unselectable"
+date: 2021-10-09
+url: https://discourse.slicer.org/t/20081
+---
+
 # Make vtkMRMLMarkupsFiducialNode unselectable
 
 **Topic ID**: 20081

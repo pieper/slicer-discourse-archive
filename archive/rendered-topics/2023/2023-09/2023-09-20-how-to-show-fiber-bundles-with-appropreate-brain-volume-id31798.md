@@ -1,3 +1,10 @@
+---
+topic_id: 31798
+title: "How To Show Fiber Bundles With Appropreate Brain Volume"
+date: 2023-09-20
+url: https://discourse.slicer.org/t/31798
+---
+
 # How to show fiber bundles with appropreate brain volume?
 
 **Topic ID**: 31798

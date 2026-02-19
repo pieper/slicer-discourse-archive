@@ -1,3 +1,10 @@
+---
+topic_id: 23885
+title: "Question About Instancing Efficiency Between Vtk8 2 And Vtk9"
+date: 2022-06-15
+url: https://discourse.slicer.org/t/23885
+---
+
 # Question about instancing efficiency between vtk8.2 and vtk9.0
 
 **Topic ID**: 23885

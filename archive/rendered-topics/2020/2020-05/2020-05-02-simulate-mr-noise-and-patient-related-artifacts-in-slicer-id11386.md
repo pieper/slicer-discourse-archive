@@ -1,3 +1,10 @@
+---
+topic_id: 11386
+title: "Simulate Mr Noise And Patient Related Artifacts In Slicer"
+date: 2020-05-02
+url: https://discourse.slicer.org/t/11386
+---
+
 # Simulate mr noise and patient related artifacts in slicer
 
 **Topic ID**: 11386

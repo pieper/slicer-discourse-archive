@@ -1,3 +1,10 @@
+---
+topic_id: 11500
+title: "Cardiac Ct Evaluation"
+date: 2020-05-12
+url: https://discourse.slicer.org/t/11500
+---
+
 # Cardiac CT evaluation
 
 **Topic ID**: 11500

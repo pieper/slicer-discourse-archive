@@ -1,3 +1,10 @@
+---
+topic_id: 32273
+title: "Oct B Scan Thickness Is Not Being Found On Load"
+date: 2023-10-17
+url: https://discourse.slicer.org/t/32273
+---
+
 # OCT b-scan thickness is not being found on load
 
 **Topic ID**: 32273

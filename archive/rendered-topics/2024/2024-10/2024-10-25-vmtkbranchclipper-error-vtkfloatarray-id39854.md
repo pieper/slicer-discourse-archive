@@ -1,3 +1,10 @@
+---
+topic_id: 39854
+title: "Vmtkbranchclipper Error Vtkfloatarray"
+date: 2024-10-25
+url: https://discourse.slicer.org/t/39854
+---
+
 # vmtkbranchclipper error:vtkFloatArray
 
 **Topic ID**: 39854

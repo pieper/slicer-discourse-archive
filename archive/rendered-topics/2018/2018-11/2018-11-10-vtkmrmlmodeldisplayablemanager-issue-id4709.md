@@ -1,3 +1,10 @@
+---
+topic_id: 4709
+title: "Vtkmrmlmodeldisplayablemanager Issue"
+date: 2018-11-10
+url: https://discourse.slicer.org/t/4709
+---
+
 # vtkMRMLModelDisplayableManager issue
 
 **Topic ID**: 4709

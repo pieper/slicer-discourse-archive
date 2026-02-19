@@ -1,3 +1,10 @@
+---
+topic_id: 41223
+title: "Apidocs Broken Because Of Master Main Rename"
+date: 2025-01-22
+url: https://discourse.slicer.org/t/41223
+---
+
 # Apidocs "broken" because of master->main rename
 
 **Topic ID**: 41223

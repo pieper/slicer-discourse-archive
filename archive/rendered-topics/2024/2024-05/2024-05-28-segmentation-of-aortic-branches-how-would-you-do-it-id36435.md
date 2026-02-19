@@ -1,3 +1,10 @@
+---
+topic_id: 36435
+title: "Segmentation Of Aortic Branches How Would You Do It"
+date: 2024-05-28
+url: https://discourse.slicer.org/t/36435
+---
+
 # Segmentation of aortic branches : how would you do it?
 
 **Topic ID**: 36435

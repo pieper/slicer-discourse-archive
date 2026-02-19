@@ -1,3 +1,10 @@
+---
+topic_id: 2617
+title: "Using Vtk Remote Module In Python Scripted Slicer Module"
+date: 2018-04-17
+url: https://discourse.slicer.org/t/2617
+---
+
 # Using VTK Remote module in Python scripted Slicer module
 
 **Topic ID**: 2617

@@ -1,3 +1,10 @@
+---
+topic_id: 4661
+title: "Slicer Vr Problems"
+date: 2018-11-06
+url: https://discourse.slicer.org/t/4661
+---
+
 # Slicer VR problems
 
 **Topic ID**: 4661

@@ -1,3 +1,10 @@
+---
+topic_id: 19282
+title: "How To Display A Line With Interaction Handles By Python"
+date: 2021-08-20
+url: https://discourse.slicer.org/t/19282
+---
+
 # How to display a line with interaction handles by python?
 
 **Topic ID**: 19282

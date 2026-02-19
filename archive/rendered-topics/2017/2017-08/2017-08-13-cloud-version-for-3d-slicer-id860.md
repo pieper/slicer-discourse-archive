@@ -1,3 +1,10 @@
+---
+topic_id: 860
+title: "Cloud Version For 3D Slicer"
+date: 2017-08-13
+url: https://discourse.slicer.org/t/860
+---
+
 # Cloud version for 3D Slicer
 
 **Topic ID**: 860

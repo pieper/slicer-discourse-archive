@@ -1,3 +1,10 @@
+---
+topic_id: 32566
+title: "When Tracing Tissues On Mri Sometimes The Segment Goes Past"
+date: 2023-11-02
+url: https://discourse.slicer.org/t/32566
+---
+
 # When tracing tissues on MRI sometimes the segment goes past the desired layer onto the next level
 
 **Topic ID**: 32566

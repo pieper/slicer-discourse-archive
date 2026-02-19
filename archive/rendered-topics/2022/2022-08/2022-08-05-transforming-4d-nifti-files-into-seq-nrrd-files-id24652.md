@@ -1,3 +1,10 @@
+---
+topic_id: 24652
+title: "Transforming 4D Nifti Files Into Seq Nrrd Files"
+date: 2022-08-05
+url: https://discourse.slicer.org/t/24652
+---
+
 # Transforming 4D Nifti files into .seq.nrrd files
 
 **Topic ID**: 24652

@@ -1,3 +1,10 @@
+---
+topic_id: 42186
+title: "Problem Importing Points And Trajectories From Brainlab"
+date: 2025-03-17
+url: https://discourse.slicer.org/t/42186
+---
+
 # Problem importing points and trajectories from BrainLab
 
 **Topic ID**: 42186

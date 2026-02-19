@@ -1,3 +1,10 @@
+---
+topic_id: 17501
+title: "Disable Histogram Brush In Segment Editor Threshold Effect"
+date: 2021-05-07
+url: https://discourse.slicer.org/t/17501
+---
+
 # Disable Histogram Brush in Segment Editor Threshold effect
 
 **Topic ID**: 17501

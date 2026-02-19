@@ -1,3 +1,10 @@
+---
+topic_id: 32093
+title: "Text Annotations In Multiple 3D Viewers"
+date: 2023-10-07
+url: https://discourse.slicer.org/t/32093
+---
+
 # Text annotations in multiple 3D viewers
 
 **Topic ID**: 32093

@@ -1,3 +1,10 @@
+---
+topic_id: 35413
+title: "Creat Smooth Model"
+date: 2024-04-10
+url: https://discourse.slicer.org/t/35413
+---
+
 # Creat smooth model
 
 **Topic ID**: 35413

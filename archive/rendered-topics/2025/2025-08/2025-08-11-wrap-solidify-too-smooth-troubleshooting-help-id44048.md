@@ -1,3 +1,10 @@
+---
+topic_id: 44048
+title: "Wrap Solidify Too Smooth Troubleshooting Help"
+date: 2025-08-11
+url: https://discourse.slicer.org/t/44048
+---
+
 # Wrap Solidify Too Smooth - Troubleshooting help
 
 **Topic ID**: 44048

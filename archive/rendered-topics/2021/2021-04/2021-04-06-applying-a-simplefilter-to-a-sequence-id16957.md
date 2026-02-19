@@ -1,3 +1,10 @@
+---
+topic_id: 16957
+title: "Applying A Simplefilter To A Sequence"
+date: 2021-04-06
+url: https://discourse.slicer.org/t/16957
+---
+
 # Applying a SimpleFilter to a sequence
 
 **Topic ID**: 16957

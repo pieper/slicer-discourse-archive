@@ -1,3 +1,10 @@
+---
+topic_id: 2462
+title: "Extension Not Built By Build System"
+date: 2018-03-29
+url: https://discourse.slicer.org/t/2462
+---
+
 # Extension not built by build system
 
 **Topic ID**: 2462

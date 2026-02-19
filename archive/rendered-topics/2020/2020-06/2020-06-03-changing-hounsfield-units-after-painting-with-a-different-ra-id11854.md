@@ -1,3 +1,10 @@
+---
+topic_id: 11854
+title: "Changing Hounsfield Units After Painting With A Different Ra"
+date: 2020-06-03
+url: https://discourse.slicer.org/t/11854
+---
+
 # Changing hounsfield units after painting with a different range of masking
 
 **Topic ID**: 11854

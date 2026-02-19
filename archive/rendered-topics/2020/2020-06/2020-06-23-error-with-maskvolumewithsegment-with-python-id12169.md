@@ -1,3 +1,10 @@
+---
+topic_id: 12169
+title: "Error With Maskvolumewithsegment With Python"
+date: 2020-06-23
+url: https://discourse.slicer.org/t/12169
+---
+
 # Error with maskvolumewithsegment with python
 
 **Topic ID**: 12169

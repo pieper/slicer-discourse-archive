@@ -1,3 +1,10 @@
+---
+topic_id: 26669
+title: "Error When Pip Installing In Slicers Python Console"
+date: 2022-12-09
+url: https://discourse.slicer.org/t/26669
+---
+
 # Error when pip installing in Slicer's python console
 
 **Topic ID**: 26669

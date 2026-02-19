@@ -1,3 +1,10 @@
+---
+topic_id: 2441
+title: "3D Rigid Registraion"
+date: 2018-03-27
+url: https://discourse.slicer.org/t/2441
+---
+
 # 3D Rigid Registraion
 
 **Topic ID**: 2441

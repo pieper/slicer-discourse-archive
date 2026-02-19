@@ -1,3 +1,10 @@
+---
+topic_id: 30035
+title: "How To Include Other Modules In Plugins"
+date: 2023-06-14
+url: https://discourse.slicer.org/t/30035
+---
+
 # How to include other modules in plugins
 
 **Topic ID**: 30035

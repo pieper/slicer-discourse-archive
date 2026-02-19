@@ -1,3 +1,10 @@
+---
+topic_id: 12837
+title: "N4 Bias Field Correction In Sitk"
+date: 2020-08-03
+url: https://discourse.slicer.org/t/12837
+---
+
 # N4 Bias Field Correction in sitk
 
 **Topic ID**: 12837

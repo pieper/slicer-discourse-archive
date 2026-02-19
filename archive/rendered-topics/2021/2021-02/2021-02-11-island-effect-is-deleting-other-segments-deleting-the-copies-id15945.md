@@ -1,3 +1,10 @@
+---
+topic_id: 15945
+title: "Island Effect Is Deleting Other Segments Deleting The Copies"
+date: 2021-02-11
+url: https://discourse.slicer.org/t/15945
+---
+
 # Island Effect is deleting other segments (deleting the copies of my original segment)
 
 **Topic ID**: 15945

@@ -1,3 +1,10 @@
+---
+topic_id: 26689
+title: "Volume Rendering Colorized With Segmentation"
+date: 2021-01-18
+url: https://discourse.slicer.org/t/26689
+---
+
 # Volume rendering colorized with segmentation
 
 **Topic ID**: 26689

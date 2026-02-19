@@ -1,3 +1,10 @@
+---
+topic_id: 43325
+title: "Segmentation Of Swim Bladders In Micro Ct Scans"
+date: 2025-06-11
+url: https://discourse.slicer.org/t/43325
+---
+
 # Segmentation of swim bladders in micro-CT scans
 
 **Topic ID**: 43325

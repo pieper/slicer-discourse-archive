@@ -1,3 +1,10 @@
+---
+topic_id: 30814
+title: "Save And Import Roi For Multiple Mri Series"
+date: 2023-07-26
+url: https://discourse.slicer.org/t/30814
+---
+
 # Save and import ROI for multiple MRI series
 
 **Topic ID**: 30814

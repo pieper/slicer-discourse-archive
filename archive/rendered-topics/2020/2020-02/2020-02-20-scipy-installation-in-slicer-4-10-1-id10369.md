@@ -1,3 +1,10 @@
+---
+topic_id: 10369
+title: "Scipy Installation In Slicer 4 10 1"
+date: 2020-02-20
+url: https://discourse.slicer.org/t/10369
+---
+
 # Scipy installation in slicer 4.10.1
 
 **Topic ID**: 10369

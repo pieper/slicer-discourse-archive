@@ -1,3 +1,10 @@
+---
+topic_id: 22412
+title: "Fsl Transfer To Nrrd Have No Output File"
+date: 2022-03-09
+url: https://discourse.slicer.org/t/22412
+---
+
 # FSL transfer to nrrd have no output file
 
 **Topic ID**: 22412

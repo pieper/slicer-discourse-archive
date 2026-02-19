@@ -1,3 +1,10 @@
+---
+topic_id: 31846
+title: "Obtaining Volume Information For Brain Segmentation Using Cl"
+date: 2023-09-22
+url: https://discourse.slicer.org/t/31846
+---
+
 # Obtaining Volume Information for Brain Segmentation Using Closed-Loop Markups in 3D Slicer
 
 **Topic ID**: 31846

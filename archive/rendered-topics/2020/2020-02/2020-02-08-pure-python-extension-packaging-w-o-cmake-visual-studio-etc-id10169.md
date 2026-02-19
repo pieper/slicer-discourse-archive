@@ -1,3 +1,10 @@
+---
+topic_id: 10169
+title: "Pure Python Extension Packaging W O Cmake Visual Studio Etc"
+date: 2020-02-08
+url: https://discourse.slicer.org/t/10169
+---
+
 # Pure python extension: Packaging w/o CMAKE/Visual Studio, etc?
 
 **Topic ID**: 10169

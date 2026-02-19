@@ -1,3 +1,10 @@
+---
+topic_id: 1329
+title: "What Is The Slicer Discourse E Mail Address"
+date: 2017-10-31
+url: https://discourse.slicer.org/t/1329
+---
+
 # What is the slicer discourse e-mail address?
 
 **Topic ID**: 1329

@@ -1,3 +1,10 @@
+---
+topic_id: 45027
+title: "Estimation Of Vocal Tract Area Function From Rt Mri Images"
+date: 2025-11-10
+url: https://discourse.slicer.org/t/45027
+---
+
 # Estimation of vocal tract area function from rt MRI images
 
 **Topic ID**: 45027

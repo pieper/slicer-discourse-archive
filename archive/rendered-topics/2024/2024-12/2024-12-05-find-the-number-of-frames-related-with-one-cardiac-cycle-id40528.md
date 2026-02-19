@@ -1,3 +1,10 @@
+---
+topic_id: 40528
+title: "Find The Number Of Frames Related With One Cardiac Cycle"
+date: 2024-12-05
+url: https://discourse.slicer.org/t/40528
+---
+
 # Find the number of frames related with one cardiac cycle
 
 **Topic ID**: 40528

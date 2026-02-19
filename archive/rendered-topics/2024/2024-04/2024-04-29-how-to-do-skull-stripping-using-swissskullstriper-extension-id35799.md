@@ -1,3 +1,10 @@
+---
+topic_id: 35799
+title: "How To Do Skull Stripping Using Swissskullstriper Extension"
+date: 2024-04-29
+url: https://discourse.slicer.org/t/35799
+---
+
 # How to do skull stripping using SwissSkullStriper Extension
 
 **Topic ID**: 35799

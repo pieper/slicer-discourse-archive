@@ -1,3 +1,10 @@
+---
+topic_id: 17307
+title: "2D Fetal Ultrasound To 3D Print"
+date: 2021-04-25
+url: https://discourse.slicer.org/t/17307
+---
+
 # 2D fetal ultrasound to 3D print
 
 **Topic ID**: 17307

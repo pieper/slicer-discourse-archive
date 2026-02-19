@@ -1,3 +1,10 @@
+---
+topic_id: 36141
+title: "Customizing 3Dslicer For Video Stream Rendering Combining Sc"
+date: 2024-05-14
+url: https://discourse.slicer.org/t/36141
+---
+
 # Customizing 3DSlicer for Video Stream Rendering: Combining ScriptModule for GUI and LoadableModule for Stream Display Without GUI
 
 **Topic ID**: 36141

@@ -1,3 +1,10 @@
+---
+topic_id: 19218
+title: "Registering Only One Branch Of A Segment"
+date: 2021-08-16
+url: https://discourse.slicer.org/t/19218
+---
+
 # Registering only one branch of a segment
 
 **Topic ID**: 19218

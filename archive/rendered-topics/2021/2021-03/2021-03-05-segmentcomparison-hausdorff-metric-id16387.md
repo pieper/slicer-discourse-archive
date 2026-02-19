@@ -1,3 +1,10 @@
+---
+topic_id: 16387
+title: "Segmentcomparison Hausdorff Metric"
+date: 2021-03-05
+url: https://discourse.slicer.org/t/16387
+---
+
 # SegmentComparison hausdorff metric
 
 **Topic ID**: 16387

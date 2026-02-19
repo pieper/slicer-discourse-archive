@@ -1,3 +1,10 @@
+---
+topic_id: 2316
+title: "Source Of Sample Data Full Head Mri Scan"
+date: 2018-03-14
+url: https://discourse.slicer.org/t/2316
+---
+
 # Source of sample data  "Full head MRI scan"
 
 **Topic ID**: 2316

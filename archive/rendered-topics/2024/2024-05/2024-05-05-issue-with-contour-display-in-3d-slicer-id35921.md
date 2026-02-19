@@ -1,3 +1,10 @@
+---
+topic_id: 35921
+title: "Issue With Contour Display In 3D Slicer"
+date: 2024-05-05
+url: https://discourse.slicer.org/t/35921
+---
+
 # Issue with Contour Display in 3D Slicer
 
 **Topic ID**: 35921

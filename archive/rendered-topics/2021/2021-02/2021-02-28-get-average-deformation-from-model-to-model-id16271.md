@@ -1,3 +1,10 @@
+---
+topic_id: 16271
+title: "Get Average Deformation From Model To Model"
+date: 2021-02-28
+url: https://discourse.slicer.org/t/16271
+---
+
 # Get average deformation from model to model
 
 **Topic ID**: 16271

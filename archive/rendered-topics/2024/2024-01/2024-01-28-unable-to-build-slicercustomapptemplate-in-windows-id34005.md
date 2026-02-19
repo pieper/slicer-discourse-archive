@@ -1,3 +1,10 @@
+---
+topic_id: 34005
+title: "Unable To Build Slicercustomapptemplate In Windows"
+date: 2024-01-28
+url: https://discourse.slicer.org/t/34005
+---
+
 # Unable to build SlicerCustomAppTemplate in Windows
 
 **Topic ID**: 34005

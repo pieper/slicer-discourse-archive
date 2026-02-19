@@ -1,3 +1,10 @@
+---
+topic_id: 8906
+title: "How To Get The Coordinates Of Fiducials With C"
+date: 2019-10-25
+url: https://discourse.slicer.org/t/8906
+---
+
 # How to get the coordinates of fiducials with C++
 
 **Topic ID**: 8906

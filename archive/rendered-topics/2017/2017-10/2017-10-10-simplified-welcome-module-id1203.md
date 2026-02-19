@@ -1,3 +1,10 @@
+---
+topic_id: 1203
+title: "Simplified Welcome Module"
+date: 2017-10-10
+url: https://discourse.slicer.org/t/1203
+---
+
 # Simplified welcome module
 
 **Topic ID**: 1203

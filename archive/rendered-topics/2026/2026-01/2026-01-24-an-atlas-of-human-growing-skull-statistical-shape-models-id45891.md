@@ -1,3 +1,10 @@
+---
+topic_id: 45891
+title: "An Atlas Of Human Growing Skull Statistical Shape Models"
+date: 2026-01-24
+url: https://discourse.slicer.org/t/45891
+---
+
 # An Atlas of Human Growing Skull Statistical Shape Models
 
 **Topic ID**: 45891

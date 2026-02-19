@@ -1,3 +1,10 @@
+---
+topic_id: 12748
+title: "Slicersalt 3 0 Release Summary And Changelog"
+date: 2020-07-27
+url: https://discourse.slicer.org/t/12748
+---
+
 # SlicerSALT 3.0 Release: Summary and Changelog
 
 **Topic ID**: 12748

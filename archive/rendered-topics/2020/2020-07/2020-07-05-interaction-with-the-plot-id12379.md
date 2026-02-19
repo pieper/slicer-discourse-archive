@@ -1,3 +1,10 @@
+---
+topic_id: 12379
+title: "Interaction With The Plot"
+date: 2020-07-05
+url: https://discourse.slicer.org/t/12379
+---
+
 # Interaction with the plot
 
 **Topic ID**: 12379

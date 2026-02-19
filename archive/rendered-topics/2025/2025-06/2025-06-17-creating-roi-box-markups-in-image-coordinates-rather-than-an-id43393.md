@@ -1,3 +1,10 @@
+---
+topic_id: 43393
+title: "Creating Roi Box Markups In Image Coordinates Rather Than An"
+date: 2025-06-17
+url: https://discourse.slicer.org/t/43393
+---
+
 # Creating ROI box markups in image coordinates (rather than anatomical coordinates)
 
 **Topic ID**: 43393

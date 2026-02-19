@@ -1,3 +1,10 @@
+---
+topic_id: 38558
+title: "Call For Participation In The Sofa Week 2024"
+date: 2024-09-26
+url: https://discourse.slicer.org/t/38558
+---
+
 # Call for participation in the SOFA Week 2024
 
 **Topic ID**: 38558

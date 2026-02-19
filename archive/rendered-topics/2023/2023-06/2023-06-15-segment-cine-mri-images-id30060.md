@@ -1,3 +1,10 @@
+---
+topic_id: 30060
+title: "Segment Cine Mri Images"
+date: 2023-06-15
+url: https://discourse.slicer.org/t/30060
+---
+
 # Segment cine MRI images
 
 **Topic ID**: 30060

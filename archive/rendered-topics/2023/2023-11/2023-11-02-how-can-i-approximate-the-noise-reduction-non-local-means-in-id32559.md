@@ -1,3 +1,10 @@
+---
+topic_id: 32559
+title: "How Can I Approximate The Noise Reduction Non Local Means In"
+date: 2023-11-02
+url: https://discourse.slicer.org/t/32559
+---
+
 # How can I approximate the Noise Reduction Non-Local Means in Amira?
 
 **Topic ID**: 32559

@@ -1,3 +1,10 @@
+---
+topic_id: 8704
+title: "Registration Nii Volumes"
+date: 2019-10-08
+url: https://discourse.slicer.org/t/8704
+---
+
 # Registration nii volumes
 
 **Topic ID**: 8704

@@ -1,3 +1,10 @@
+---
+topic_id: 42370
+title: "Changing The Hounsfield Unit In A Dicom Ct Image"
+date: 2025-03-30
+url: https://discourse.slicer.org/t/42370
+---
+
 # Changing the Hounsfield unit in a DICOM CT image
 
 **Topic ID**: 42370

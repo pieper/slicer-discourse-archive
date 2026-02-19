@@ -1,3 +1,10 @@
+---
+topic_id: 45550
+title: "Segmentation Tooth In Jaw"
+date: 2025-12-19
+url: https://discourse.slicer.org/t/45550
+---
+
 # Segmentation tooth in jaw
 
 **Topic ID**: 45550

@@ -1,3 +1,10 @@
+---
+topic_id: 23718
+title: "Brain Mri Gray Matter Segmentation"
+date: 2022-06-05
+url: https://discourse.slicer.org/t/23718
+---
+
 # Brain MRI Gray Matter Segmentation
 
 **Topic ID**: 23718

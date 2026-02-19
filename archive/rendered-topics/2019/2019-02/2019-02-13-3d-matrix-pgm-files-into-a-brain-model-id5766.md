@@ -1,3 +1,10 @@
+---
+topic_id: 5766
+title: "3D Matrix Pgm Files Into A Brain Model"
+date: 2019-02-13
+url: https://discourse.slicer.org/t/5766
+---
+
 # 3d matrix/ pgm files into a brain model
 
 **Topic ID**: 5766

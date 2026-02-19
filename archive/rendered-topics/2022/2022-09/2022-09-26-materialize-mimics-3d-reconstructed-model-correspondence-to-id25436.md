@@ -1,3 +1,10 @@
+---
+topic_id: 25436
+title: "Materialize Mimics 3D Reconstructed Model Correspondence To"
+date: 2022-09-26
+url: https://discourse.slicer.org/t/25436
+---
+
 # Materialize Mimics 3d reconstructed model correspondence to CT
 
 **Topic ID**: 25436

@@ -1,3 +1,10 @@
+---
+topic_id: 42475
+title: "Centre Line In Two Separated Structures"
+date: 2025-04-07
+url: https://discourse.slicer.org/t/42475
+---
+
 # Centre line in two separated structures
 
 **Topic ID**: 42475

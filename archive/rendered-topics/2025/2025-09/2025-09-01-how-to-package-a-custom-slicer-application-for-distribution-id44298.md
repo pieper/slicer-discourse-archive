@@ -1,3 +1,10 @@
+---
+topic_id: 44298
+title: "How To Package A Custom Slicer Application For Distribution"
+date: 2025-09-01
+url: https://discourse.slicer.org/t/44298
+---
+
 # How to Package a Custom Slicer Application for Distribution
 
 **Topic ID**: 44298

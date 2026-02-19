@@ -1,3 +1,10 @@
+---
+topic_id: 42243
+title: "Drr Generation From Projection Matrix"
+date: 2025-03-21
+url: https://discourse.slicer.org/t/42243
+---
+
 # DRR generation from Projection matrix
 
 **Topic ID**: 42243

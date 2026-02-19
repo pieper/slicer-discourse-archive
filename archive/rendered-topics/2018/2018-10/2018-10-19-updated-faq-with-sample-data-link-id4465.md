@@ -1,3 +1,10 @@
+---
+topic_id: 4465
+title: "Updated Faq With Sample Data Link"
+date: 2018-10-19
+url: https://discourse.slicer.org/t/4465
+---
+
 # Updated FAQ with sample data link
 
 **Topic ID**: 4465

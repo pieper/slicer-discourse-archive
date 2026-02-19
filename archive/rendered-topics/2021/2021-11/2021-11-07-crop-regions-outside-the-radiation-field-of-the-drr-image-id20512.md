@@ -1,3 +1,10 @@
+---
+topic_id: 20512
+title: "Crop Regions Outside The Radiation Field Of The Drr Image"
+date: 2021-11-07
+url: https://discourse.slicer.org/t/20512
+---
+
 # Crop regions outside the radiation field of the DRR image
 
 **Topic ID**: 20512

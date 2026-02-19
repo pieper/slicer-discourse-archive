@@ -1,3 +1,10 @@
+---
+topic_id: 16645
+title: "Got The Wrong Color On The Cell"
+date: 2021-03-19
+url: https://discourse.slicer.org/t/16645
+---
+
 # Got the wrong color on the cell
 
 **Topic ID**: 16645

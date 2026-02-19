@@ -1,3 +1,10 @@
+---
+topic_id: 21211
+title: "Lessons On Slicer"
+date: 2021-12-26
+url: https://discourse.slicer.org/t/21211
+---
+
 # Lessons on slicer
 
 **Topic ID**: 21211

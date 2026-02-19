@@ -1,3 +1,10 @@
+---
+topic_id: 15358
+title: "Need To Get Numeric Data From Comparing Two Different Segmen"
+date: 2021-01-05
+url: https://discourse.slicer.org/t/15358
+---
+
 # Need to get numeric data from comparing two different segmentations
 
 **Topic ID**: 15358

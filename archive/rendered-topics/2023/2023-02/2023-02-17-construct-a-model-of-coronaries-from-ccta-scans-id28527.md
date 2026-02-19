@@ -1,3 +1,10 @@
+---
+topic_id: 28527
+title: "Construct A Model Of Coronaries From Ccta Scans"
+date: 2023-02-17
+url: https://discourse.slicer.org/t/28527
+---
+
 # Construct a model of coronaries from CCTA scans
 
 **Topic ID**: 28527

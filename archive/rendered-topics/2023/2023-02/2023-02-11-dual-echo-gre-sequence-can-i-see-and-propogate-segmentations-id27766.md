@@ -1,3 +1,10 @@
+---
+topic_id: 27766
+title: "Dual Echo Gre Sequence Can I See And Propogate Segmentations"
+date: 2023-02-11
+url: https://discourse.slicer.org/t/27766
+---
+
 # Dual echo GRE sequence. Can I see and propogate segmentations in both IP and OOP images?
 
 **Topic ID**: 27766

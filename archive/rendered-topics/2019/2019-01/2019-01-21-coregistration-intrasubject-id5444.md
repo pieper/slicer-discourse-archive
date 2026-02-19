@@ -1,3 +1,10 @@
+---
+topic_id: 5444
+title: "Coregistration Intrasubject"
+date: 2019-01-21
+url: https://discourse.slicer.org/t/5444
+---
+
 # Coregistration - intrasubject
 
 **Topic ID**: 5444

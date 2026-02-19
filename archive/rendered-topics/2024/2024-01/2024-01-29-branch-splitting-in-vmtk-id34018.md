@@ -1,3 +1,10 @@
+---
+topic_id: 34018
+title: "Branch Splitting In Vmtk"
+date: 2024-01-29
+url: https://discourse.slicer.org/t/34018
+---
+
 # branch splitting in vmtk
 
 **Topic ID**: 34018

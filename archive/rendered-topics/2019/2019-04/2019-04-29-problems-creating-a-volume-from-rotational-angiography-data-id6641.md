@@ -1,3 +1,10 @@
+---
+topic_id: 6641
+title: "Problems Creating A Volume From Rotational Angiography Data"
+date: 2019-04-29
+url: https://discourse.slicer.org/t/6641
+---
+
 # Problems creating a volume from rotational angiography data
 
 **Topic ID**: 6641

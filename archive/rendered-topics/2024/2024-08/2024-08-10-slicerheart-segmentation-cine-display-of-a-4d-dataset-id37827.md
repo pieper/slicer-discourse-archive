@@ -1,3 +1,10 @@
+---
+topic_id: 37827
+title: "Slicerheart Segmentation Cine Display Of A 4D Dataset"
+date: 2024-08-10
+url: https://discourse.slicer.org/t/37827
+---
+
 # SlicerHeart segmentation / cine-display of a 4D dataset
 
 **Topic ID**: 37827

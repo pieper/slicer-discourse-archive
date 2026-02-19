@@ -1,3 +1,10 @@
+---
+topic_id: 28065
+title: "How To Segment The Tibia Using Totalsegmentator"
+date: 2023-02-27
+url: https://discourse.slicer.org/t/28065
+---
+
 # How to segment the tibia using TotalSegmentator?
 
 **Topic ID**: 28065

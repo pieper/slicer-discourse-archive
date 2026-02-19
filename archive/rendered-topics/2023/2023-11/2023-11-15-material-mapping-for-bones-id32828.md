@@ -1,3 +1,10 @@
+---
+topic_id: 32828
+title: "Material Mapping For Bones"
+date: 2023-11-15
+url: https://discourse.slicer.org/t/32828
+---
+
 # Material mapping for bones
 
 **Topic ID**: 32828

@@ -1,3 +1,10 @@
+---
+topic_id: 3921
+title: "Conerting Rtstruct File To Nrrd Getting A Meaningful Result"
+date: 2018-08-28
+url: https://discourse.slicer.org/t/3921
+---
+
 # Conerting RTstruct file to nrrd : Getting a meaningful result with correct dimensions?
 
 **Topic ID**: 3921

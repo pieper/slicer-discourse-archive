@@ -1,3 +1,10 @@
+---
+topic_id: 10380
+title: "Flickering When Using Segmentation Effects"
+date: 2020-02-21
+url: https://discourse.slicer.org/t/10380
+---
+
 # Flickering when using segmentation effects
 
 **Topic ID**: 10380

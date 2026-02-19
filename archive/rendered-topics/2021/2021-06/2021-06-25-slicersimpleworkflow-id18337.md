@@ -1,3 +1,10 @@
+---
+topic_id: 18337
+title: "Slicersimpleworkflow"
+date: 2021-06-25
+url: https://discourse.slicer.org/t/18337
+---
+
 # SlicerSimpleWorkflow
 
 **Topic ID**: 18337

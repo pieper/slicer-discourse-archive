@@ -1,3 +1,10 @@
+---
+topic_id: 41082
+title: "Osteotomy Planner Does Not Work"
+date: 2025-01-14
+url: https://discourse.slicer.org/t/41082
+---
+
 # Osteotomy planner does not work
 
 **Topic ID**: 41082

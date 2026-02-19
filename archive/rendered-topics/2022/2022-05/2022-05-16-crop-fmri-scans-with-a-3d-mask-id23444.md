@@ -1,3 +1,10 @@
+---
+topic_id: 23444
+title: "Crop Fmri Scans With A 3D Mask"
+date: 2022-05-16
+url: https://discourse.slicer.org/t/23444
+---
+
 # Crop fMRI scans with a 3D mask
 
 **Topic ID**: 23444

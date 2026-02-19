@@ -1,3 +1,10 @@
+---
+topic_id: 36331
+title: "Combining Multiple Segments By Name Python"
+date: 2024-05-22
+url: https://discourse.slicer.org/t/36331
+---
+
 # Combining multiple segments by name (python)
 
 **Topic ID**: 36331

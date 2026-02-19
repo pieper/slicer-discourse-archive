@@ -1,3 +1,10 @@
+---
+topic_id: 14033
+title: "Downsampling Nrrds"
+date: 2020-10-14
+url: https://discourse.slicer.org/t/14033
+---
+
 # Downsampling NRRDs
 
 **Topic ID**: 14033

@@ -1,3 +1,10 @@
+---
+topic_id: 7013
+title: "Using Multiple Markers With Plots"
+date: 2019-06-03
+url: https://discourse.slicer.org/t/7013
+---
+
 # Using multiple markers with Plots
 
 **Topic ID**: 7013

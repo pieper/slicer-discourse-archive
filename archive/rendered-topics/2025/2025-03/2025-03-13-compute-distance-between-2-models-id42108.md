@@ -1,3 +1,10 @@
+---
+topic_id: 42108
+title: "Compute Distance Between 2 Models"
+date: 2025-03-13
+url: https://discourse.slicer.org/t/42108
+---
+
 # Compute distance between 2 models
 
 **Topic ID**: 42108

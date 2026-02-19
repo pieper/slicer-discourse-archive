@@ -1,3 +1,10 @@
+---
+topic_id: 27475
+title: "Module From Console With Arguments"
+date: 2023-01-26
+url: https://discourse.slicer.org/t/27475
+---
+
 # Module from console with arguments
 
 **Topic ID**: 27475

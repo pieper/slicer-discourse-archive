@@ -1,3 +1,10 @@
+---
+topic_id: 42510
+title: "How To Export All My Json Markup Files Into One Table Withou"
+date: 2025-04-09
+url: https://discourse.slicer.org/t/42510
+---
+
 # How to export all my JSON markup files into one table without running a GPA on it
 
 **Topic ID**: 42510

@@ -1,3 +1,10 @@
+---
+topic_id: 13774
+title: "Rendering Windows"
+date: 2020-09-30
+url: https://discourse.slicer.org/t/13774
+---
+
 # Rendering windows
 
 **Topic ID**: 13774

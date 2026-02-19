@@ -1,3 +1,10 @@
+---
+topic_id: 44753
+title: "Workflow Questions On Swm Analysis With Ukftractography And"
+date: 2025-10-13
+url: https://discourse.slicer.org/t/44753
+---
+
 # Workflow Questions on SWM Analysis with UKFtractography and whitematteranalysis
 
 **Topic ID**: 44753

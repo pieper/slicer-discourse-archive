@@ -1,3 +1,10 @@
+---
+topic_id: 15045
+title: "Using Getcursorpositionras And Ignore A Model"
+date: 2020-12-14
+url: https://discourse.slicer.org/t/15045
+---
+
 # Using GetCursorPositionRAS and ignore a model
 
 **Topic ID**: 15045

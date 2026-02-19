@@ -1,3 +1,10 @@
+---
+topic_id: 26097
+title: "Motion And Eddy Currents Correction"
+date: 2022-11-06
+url: https://discourse.slicer.org/t/26097
+---
+
 # motion and eddy currents correction
 
 **Topic ID**: 26097

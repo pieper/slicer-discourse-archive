@@ -1,3 +1,10 @@
+---
+topic_id: 5103
+title: "How To Create 3D Surface Rendering Of 3D Echocardiogram"
+date: 2018-12-17
+url: https://discourse.slicer.org/t/5103
+---
+
 # how to create 3d surface rendering of 3D echocardiogram
 
 **Topic ID**: 5103

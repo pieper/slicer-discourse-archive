@@ -1,3 +1,10 @@
+---
+topic_id: 30131
+title: "How To Fetch Dicom File As Next Sample In Monai Label Extens"
+date: 2023-06-20
+url: https://discourse.slicer.org/t/30131
+---
+
 # How to fetch dicom file as next sample in MONAI Label extension in 3D Slicer
 
 **Topic ID**: 30131

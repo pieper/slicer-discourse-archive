@@ -1,3 +1,10 @@
+---
+topic_id: 2413
+title: "March 24 2018 Nightly Build Manually Re Triggered After Fixi"
+date: 2018-03-24
+url: https://discourse.slicer.org/t/2413
+---
+
 # March 24, 2018: Nightly build manually re-triggered after fixing regression due to rename of vtkNRRDReader, vtkNRRDWriter to vtkTeemNRRD{R,W}
 
 **Topic ID**: 2413

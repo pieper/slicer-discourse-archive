@@ -1,3 +1,10 @@
+---
+topic_id: 19141
+title: "Rgy Views From Numpy Array"
+date: 2021-08-10
+url: https://discourse.slicer.org/t/19141
+---
+
 # RGY views from numpy array
 
 **Topic ID**: 19141

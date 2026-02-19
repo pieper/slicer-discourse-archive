@@ -1,3 +1,10 @@
+---
+topic_id: 22928
+title: "Please Provide A Working Parameters Yml File"
+date: 2022-04-13
+url: https://discourse.slicer.org/t/22928
+---
+
 # Please provide a working parameters.yml file
 
 **Topic ID**: 22928

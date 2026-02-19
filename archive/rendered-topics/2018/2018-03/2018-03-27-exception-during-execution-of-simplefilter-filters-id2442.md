@@ -1,3 +1,10 @@
+---
+topic_id: 2442
+title: "Exception During Execution Of Simplefilter Filters"
+date: 2018-03-27
+url: https://discourse.slicer.org/t/2442
+---
+
 # Exception during execution of SimpleFilter filters
 
 **Topic ID**: 2442

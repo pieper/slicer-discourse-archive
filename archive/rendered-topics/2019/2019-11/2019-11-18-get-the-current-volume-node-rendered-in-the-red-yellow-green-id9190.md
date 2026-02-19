@@ -1,3 +1,10 @@
+---
+topic_id: 9190
+title: "Get The Current Volume Node Rendered In The Red Yellow Green"
+date: 2019-11-18
+url: https://discourse.slicer.org/t/9190
+---
+
 # Get the current volume node rendered in the Red Yellow Green view
 
 **Topic ID**: 9190

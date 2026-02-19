@@ -1,3 +1,10 @@
+---
+topic_id: 18573
+title: "No Such Module Minimalpathextraction Itk Module Not Found"
+date: 2021-07-08
+url: https://discourse.slicer.org/t/18573
+---
+
 # No such module "MinimalPathExtraction" ITK module not found
 
 **Topic ID**: 18573

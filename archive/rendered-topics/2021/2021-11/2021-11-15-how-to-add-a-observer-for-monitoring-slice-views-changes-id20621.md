@@ -1,3 +1,10 @@
+---
+topic_id: 20621
+title: "How To Add A Observer For Monitoring Slice Views Changes"
+date: 2021-11-15
+url: https://discourse.slicer.org/t/20621
+---
+
 # How to add a observer for monitoring slice views changes?
 
 **Topic ID**: 20621

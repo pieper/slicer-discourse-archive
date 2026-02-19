@@ -1,3 +1,10 @@
+---
+topic_id: 24486
+title: "Setting Up The Qmrml Segment Editor Widget In Ui"
+date: 2022-07-25
+url: https://discourse.slicer.org/t/24486
+---
+
 # Setting up the qMRML Segment editor Widget in ui
 
 **Topic ID**: 24486

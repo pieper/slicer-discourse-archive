@@ -1,3 +1,10 @@
+---
+topic_id: 17865
+title: "Tickmarks On Markups Line"
+date: 2021-05-30
+url: https://discourse.slicer.org/t/17865
+---
+
 # Tickmarks on markups line
 
 **Topic ID**: 17865

@@ -1,3 +1,10 @@
+---
+topic_id: 4444
+title: "Trouble Saving And Loading 3D Segmentations"
+date: 2018-10-17
+url: https://discourse.slicer.org/t/4444
+---
+
 # Trouble saving and loading 3d segmentations
 
 **Topic ID**: 4444

@@ -1,3 +1,10 @@
+---
+topic_id: 12403
+title: "Oversampling Memory Usage"
+date: 2020-07-06
+url: https://discourse.slicer.org/t/12403
+---
+
 # Oversampling memory usage
 
 **Topic ID**: 12403

@@ -1,3 +1,10 @@
+---
+topic_id: 27024
+title: "How To Put Annotations In Picture"
+date: 2023-01-04
+url: https://discourse.slicer.org/t/27024
+---
+
 # How to put annotations in picture
 
 **Topic ID**: 27024

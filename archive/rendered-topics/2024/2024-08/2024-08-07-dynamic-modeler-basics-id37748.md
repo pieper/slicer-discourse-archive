@@ -1,3 +1,10 @@
+---
+topic_id: 37748
+title: "Dynamic Modeler Basics"
+date: 2024-08-07
+url: https://discourse.slicer.org/t/37748
+---
+
 # Dynamic Modeler Basics
 
 **Topic ID**: 37748

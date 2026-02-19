@@ -1,3 +1,10 @@
+---
+topic_id: 33907
+title: "Incorrect Volume Information When Loading Nrrd"
+date: 2024-01-22
+url: https://discourse.slicer.org/t/33907
+---
+
 # Incorrect volume information when loading .nrrd
 
 **Topic ID**: 33907

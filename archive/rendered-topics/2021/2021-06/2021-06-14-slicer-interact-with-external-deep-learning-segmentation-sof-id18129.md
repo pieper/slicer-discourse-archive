@@ -1,3 +1,10 @@
+---
+topic_id: 18129
+title: "Slicer Interact With External Deep Learning Segmentation Sof"
+date: 2021-06-14
+url: https://discourse.slicer.org/t/18129
+---
+
 # Slicer interact with external deep learning segmentation software
 
 **Topic ID**: 18129

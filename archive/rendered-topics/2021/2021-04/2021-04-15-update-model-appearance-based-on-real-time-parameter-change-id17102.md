@@ -1,3 +1,10 @@
+---
+topic_id: 17102
+title: "Update Model Appearance Based On Real Time Parameter Change"
+date: 2021-04-15
+url: https://discourse.slicer.org/t/17102
+---
+
 # Update model appearance based on real-time parameter change
 
 **Topic ID**: 17102

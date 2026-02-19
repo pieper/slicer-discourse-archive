@@ -1,3 +1,10 @@
+---
+topic_id: 32561
+title: "Creation Of Models With The Module Modelmaker From The Pytho"
+date: 2023-11-02
+url: https://discourse.slicer.org/t/32561
+---
+
 # Creation of Models with the Module ModelMaker from the Python console
 
 **Topic ID**: 32561

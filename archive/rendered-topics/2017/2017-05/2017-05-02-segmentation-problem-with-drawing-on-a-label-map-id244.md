@@ -1,3 +1,10 @@
+---
+topic_id: 244
+title: "Segmentation Problem With Drawing On A Label Map"
+date: 2017-05-02
+url: https://discourse.slicer.org/t/244
+---
+
 # Segmentation (problem with drawing on a label map)
 
 **Topic ID**: 244

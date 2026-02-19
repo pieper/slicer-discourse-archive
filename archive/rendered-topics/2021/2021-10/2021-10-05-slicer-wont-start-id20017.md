@@ -1,3 +1,10 @@
+---
+topic_id: 20017
+title: "Slicer Wont Start"
+date: 2021-10-05
+url: https://discourse.slicer.org/t/20017
+---
+
 # Slicer won't start
 
 **Topic ID**: 20017

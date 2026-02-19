@@ -1,3 +1,10 @@
+---
+topic_id: 45416
+title: "How To Cut A Model Using A Grid Surface Markup"
+date: 2025-12-09
+url: https://discourse.slicer.org/t/45416
+---
+
 # How to cut a Model using a Grid Surface markup?
 
 **Topic ID**: 45416

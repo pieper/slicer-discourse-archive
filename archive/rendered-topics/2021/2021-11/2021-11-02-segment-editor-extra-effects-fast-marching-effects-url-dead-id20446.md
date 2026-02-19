@@ -1,3 +1,10 @@
+---
+topic_id: 20446
+title: "Segment Editor Extra Effects Fast Marching Effects Url Dead"
+date: 2021-11-02
+url: https://discourse.slicer.org/t/20446
+---
+
 # Segment Editor : Extra Effects — Fast Marching effect's URL dead
 
 **Topic ID**: 20446

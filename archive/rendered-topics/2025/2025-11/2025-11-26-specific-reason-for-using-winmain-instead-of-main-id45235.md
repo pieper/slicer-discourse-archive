@@ -1,3 +1,10 @@
+---
+topic_id: 45235
+title: "Specific Reason For Using Winmain Instead Of Main"
+date: 2025-11-26
+url: https://discourse.slicer.org/t/45235
+---
+
 # Specific reason for using WinMain instead of main?
 
 **Topic ID**: 45235

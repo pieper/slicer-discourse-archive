@@ -1,3 +1,10 @@
+---
+topic_id: 21598
+title: "Interactively Adding Control Point With A Given Label"
+date: 2022-01-24
+url: https://discourse.slicer.org/t/21598
+---
+
 # Interactively adding control point with a given label
 
 **Topic ID**: 21598

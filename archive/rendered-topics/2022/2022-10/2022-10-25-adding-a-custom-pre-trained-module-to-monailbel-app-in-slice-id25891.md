@@ -1,3 +1,10 @@
+---
+topic_id: 25891
+title: "Adding A Custom Pre Trained Module To Monailbel App In Slice"
+date: 2022-10-25
+url: https://discourse.slicer.org/t/25891
+---
+
 # Adding a custom pre-trained module to monailbel app in Slicer
 
 **Topic ID**: 25891

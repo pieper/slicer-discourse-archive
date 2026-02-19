@@ -1,3 +1,10 @@
+---
+topic_id: 33161
+title: "Click And Connect Two Separated Segments Of A Vessel Segment"
+date: 2023-12-01
+url: https://discourse.slicer.org/t/33161
+---
+
 # Click and connect two separated segments of a vessel segmentation
 
 **Topic ID**: 33161

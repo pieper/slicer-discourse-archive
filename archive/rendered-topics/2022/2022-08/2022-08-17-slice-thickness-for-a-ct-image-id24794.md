@@ -1,3 +1,10 @@
+---
+topic_id: 24794
+title: "Slice Thickness For A Ct Image"
+date: 2022-08-17
+url: https://discourse.slicer.org/t/24794
+---
+
 # Slice thickness for a CT image
 
 **Topic ID**: 24794

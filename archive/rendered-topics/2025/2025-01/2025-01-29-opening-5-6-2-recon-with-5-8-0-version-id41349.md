@@ -1,3 +1,10 @@
+---
+topic_id: 41349
+title: "Opening 5 6 2 Recon With 5 8 0 Version"
+date: 2025-01-29
+url: https://discourse.slicer.org/t/41349
+---
+
 # Opening 5.6.2 recon with 5.8.0 version
 
 **Topic ID**: 41349

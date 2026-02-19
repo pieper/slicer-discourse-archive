@@ -1,3 +1,10 @@
+---
+topic_id: 11881
+title: "Slicerrt Dicom Rt Import Issue"
+date: 2020-06-05
+url: https://discourse.slicer.org/t/11881
+---
+
 # SlicerRT DICOM RT import issue
 
 **Topic ID**: 11881

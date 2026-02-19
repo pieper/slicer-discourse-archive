@@ -1,3 +1,10 @@
+---
+topic_id: 6107
+title: "Building A New Sequence"
+date: 2019-03-11
+url: https://discourse.slicer.org/t/6107
+---
+
 # Building a new sequence
 
 **Topic ID**: 6107

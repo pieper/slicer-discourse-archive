@@ -1,3 +1,10 @@
+---
+topic_id: 14663
+title: "How To Measure Left Atrial Wall Thickness Use Ct Hounsfield"
+date: 2020-11-17
+url: https://discourse.slicer.org/t/14663
+---
+
 # How to measure left atrial wall thickness use CT Hounsfield Units
 
 **Topic ID**: 14663

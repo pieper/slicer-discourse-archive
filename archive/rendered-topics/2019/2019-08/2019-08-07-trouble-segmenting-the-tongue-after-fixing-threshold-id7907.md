@@ -1,3 +1,10 @@
+---
+topic_id: 7907
+title: "Trouble Segmenting The Tongue After Fixing Threshold"
+date: 2019-08-07
+url: https://discourse.slicer.org/t/7907
+---
+
 # Trouble segmenting the Tongue, after fixing threshold
 
 **Topic ID**: 7907

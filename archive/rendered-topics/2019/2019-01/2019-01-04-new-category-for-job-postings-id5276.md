@@ -1,3 +1,10 @@
+---
+topic_id: 5276
+title: "New Category For Job Postings"
+date: 2019-01-04
+url: https://discourse.slicer.org/t/5276
+---
+
 # New category for job postings?
 
 **Topic ID**: 5276

@@ -1,3 +1,10 @@
+---
+topic_id: 23294
+title: "Error Reporting In Lungct Segmenter Module"
+date: 2022-05-06
+url: https://discourse.slicer.org/t/23294
+---
+
 # Error reporting in LungCT segmenter module
 
 **Topic ID**: 23294

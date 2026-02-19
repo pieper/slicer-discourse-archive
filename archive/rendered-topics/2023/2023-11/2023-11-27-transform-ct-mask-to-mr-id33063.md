@@ -1,3 +1,10 @@
+---
+topic_id: 33063
+title: "Transform Ct Mask To Mr"
+date: 2023-11-27
+url: https://discourse.slicer.org/t/33063
+---
+
 # Transform CT mask to MR
 
 **Topic ID**: 33063

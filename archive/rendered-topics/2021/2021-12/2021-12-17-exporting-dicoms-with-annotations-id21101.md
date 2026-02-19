@@ -1,3 +1,10 @@
+---
+topic_id: 21101
+title: "Exporting Dicoms With Annotations"
+date: 2021-12-17
+url: https://discourse.slicer.org/t/21101
+---
+
 # Exporting DICOMS with annotations
 
 **Topic ID**: 21101

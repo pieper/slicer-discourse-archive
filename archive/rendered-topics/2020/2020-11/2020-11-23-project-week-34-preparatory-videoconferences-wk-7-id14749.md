@@ -1,3 +1,10 @@
+---
+topic_id: 14749
+title: "Project Week 34 Preparatory Videoconferences Wk 7"
+date: 2020-11-23
+url: https://discourse.slicer.org/t/14749
+---
+
 # Project Week 34 Preparatory Videoconferences - Wk 7
 
 **Topic ID**: 14749

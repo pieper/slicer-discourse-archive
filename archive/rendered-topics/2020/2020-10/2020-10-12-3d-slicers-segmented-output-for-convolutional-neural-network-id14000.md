@@ -1,3 +1,10 @@
+---
+topic_id: 14000
+title: "3D Slicers Segmented Output For Convolutional Neural Network"
+date: 2020-10-12
+url: https://discourse.slicer.org/t/14000
+---
+
 # 3D slicer's segmented output for convolutional neural network training 
 
 **Topic ID**: 14000

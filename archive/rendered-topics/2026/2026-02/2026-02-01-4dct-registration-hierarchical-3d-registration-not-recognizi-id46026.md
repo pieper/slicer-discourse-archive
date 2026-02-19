@@ -1,3 +1,10 @@
+---
+topic_id: 46026
+title: "4Dct Registration Hierarchical 3D Registration Not Recognizi"
+date: 2026-02-01
+url: https://discourse.slicer.org/t/46026
+---
+
 # 4DCT registration - Hierarchical 3D Registration not recognizing "Sequence"
 
 **Topic ID**: 46026

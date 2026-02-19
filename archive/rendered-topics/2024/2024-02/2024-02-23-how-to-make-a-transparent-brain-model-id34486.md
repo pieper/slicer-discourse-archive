@@ -1,3 +1,10 @@
+---
+topic_id: 34486
+title: "How To Make A Transparent Brain Model"
+date: 2024-02-23
+url: https://discourse.slicer.org/t/34486
+---
+
 # How to make a transparent brain model?
 
 **Topic ID**: 34486

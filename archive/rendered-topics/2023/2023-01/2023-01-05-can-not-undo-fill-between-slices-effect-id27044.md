@@ -1,3 +1,10 @@
+---
+topic_id: 27044
+title: "Can Not Undo Fill Between Slices Effect"
+date: 2023-01-05
+url: https://discourse.slicer.org/t/27044
+---
+
 # Can not undo Fill Between Slices effect
 
 **Topic ID**: 27044

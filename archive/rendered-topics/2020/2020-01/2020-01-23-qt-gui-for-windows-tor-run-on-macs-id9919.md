@@ -1,3 +1,10 @@
+---
+topic_id: 9919
+title: "Qt Gui For Windows Tor Run On Macs"
+date: 2020-01-23
+url: https://discourse.slicer.org/t/9919
+---
+
 # Qt GUI for windows tor run on macs
 
 **Topic ID**: 9919

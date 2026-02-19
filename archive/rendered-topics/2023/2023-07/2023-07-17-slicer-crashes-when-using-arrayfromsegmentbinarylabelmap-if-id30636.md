@@ -1,3 +1,10 @@
+---
+topic_id: 30636
+title: "Slicer Crashes When Using Arrayfromsegmentbinarylabelmap If"
+date: 2023-07-17
+url: https://discourse.slicer.org/t/30636
+---
+
 # Slicer crashes when using arrayFromSegmentBinaryLabelmap if segment is too small
 
 **Topic ID**: 30636

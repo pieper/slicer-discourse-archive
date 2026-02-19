@@ -1,3 +1,10 @@
+---
+topic_id: 28575
+title: "Applying N4 Bias Field Correction On Tcia Breast Dce Mri Ima"
+date: 2023-03-25
+url: https://discourse.slicer.org/t/28575
+---
+
 # Applying N4 bias field correction on TCIA breast DCE-MRI images
 
 **Topic ID**: 28575

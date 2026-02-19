@@ -1,3 +1,10 @@
+---
+topic_id: 35821
+title: "Dicom Database Update Is Requested After New Slicer Version"
+date: 2024-04-29
+url: https://discourse.slicer.org/t/35821
+---
+
 # DICOM database update is requested after new Slicer version, but appears to be impossible
 
 **Topic ID**: 35821

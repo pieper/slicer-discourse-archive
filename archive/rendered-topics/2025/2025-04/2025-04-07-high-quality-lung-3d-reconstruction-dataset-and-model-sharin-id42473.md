@@ -1,3 +1,10 @@
+---
+topic_id: 42473
+title: "High Quality Lung 3D Reconstruction Dataset And Model Sharin"
+date: 2025-04-07
+url: https://discourse.slicer.org/t/42473
+---
+
 # High-Quality Lung 3D Reconstruction Dataset and Model Sharing
 
 **Topic ID**: 42473

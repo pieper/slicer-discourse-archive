@@ -1,3 +1,10 @@
+---
+topic_id: 21011
+title: "Can We Create A Virtual Reality Valve Segmentation Using Han"
+date: 2021-12-10
+url: https://discourse.slicer.org/t/21011
+---
+
 # can we create a Virtual reality valve segmentation using hand controllers without headset
 
 **Topic ID**: 21011

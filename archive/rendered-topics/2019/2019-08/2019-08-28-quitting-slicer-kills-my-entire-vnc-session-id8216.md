@@ -1,3 +1,10 @@
+---
+topic_id: 8216
+title: "Quitting Slicer Kills My Entire Vnc Session"
+date: 2019-08-28
+url: https://discourse.slicer.org/t/8216
+---
+
 # Quitting Slicer kills my entire VNC session
 
 **Topic ID**: 8216

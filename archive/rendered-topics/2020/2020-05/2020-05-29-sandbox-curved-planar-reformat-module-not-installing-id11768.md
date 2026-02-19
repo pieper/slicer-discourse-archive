@@ -1,3 +1,10 @@
+---
+topic_id: 11768
+title: "Sandbox Curved Planar Reformat Module Not Installing"
+date: 2020-05-29
+url: https://discourse.slicer.org/t/11768
+---
+
 # Sandbox - Curved Planar Reformat module not installing?
 
 **Topic ID**: 11768

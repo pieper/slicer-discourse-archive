@@ -1,3 +1,10 @@
+---
+topic_id: 19690
+title: "Livewire Tool In 3D Slicer"
+date: 2021-09-15
+url: https://discourse.slicer.org/t/19690
+---
+
 # Livewire tool in 3D slicer
 
 **Topic ID**: 19690

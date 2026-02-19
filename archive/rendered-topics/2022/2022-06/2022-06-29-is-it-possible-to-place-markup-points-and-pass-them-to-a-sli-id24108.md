@@ -1,3 +1,10 @@
+---
+topic_id: 24108
+title: "Is It Possible To Place Markup Points And Pass Them To A Sli"
+date: 2022-06-29
+url: https://discourse.slicer.org/t/24108
+---
+
 # Is it possible to place markup points and pass them to a slicer executable module I have created?
 
 **Topic ID**: 24108

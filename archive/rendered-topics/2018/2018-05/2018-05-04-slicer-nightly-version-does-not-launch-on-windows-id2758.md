@@ -1,3 +1,10 @@
+---
+topic_id: 2758
+title: "Slicer Nightly Version Does Not Launch On Windows"
+date: 2018-05-04
+url: https://discourse.slicer.org/t/2758
+---
+
 # Slicer nightly version does not launch on windows
 
 **Topic ID**: 2758

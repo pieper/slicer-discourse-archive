@@ -1,3 +1,10 @@
+---
+topic_id: 26671
+title: "Seeking Help On Fish Bone Density Measurement"
+date: 2022-12-10
+url: https://discourse.slicer.org/t/26671
+---
+
 # Seeking help on fish bone density measurement
 
 **Topic ID**: 26671

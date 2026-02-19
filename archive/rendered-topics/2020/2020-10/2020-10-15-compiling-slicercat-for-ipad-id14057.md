@@ -1,3 +1,10 @@
+---
+topic_id: 14057
+title: "Compiling Slicercat For Ipad"
+date: 2020-10-15
+url: https://discourse.slicer.org/t/14057
+---
+
 # Compiling SlicerCAT for IPad
 
 **Topic ID**: 14057

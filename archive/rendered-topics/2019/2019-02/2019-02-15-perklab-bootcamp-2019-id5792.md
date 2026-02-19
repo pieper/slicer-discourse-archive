@@ -1,3 +1,10 @@
+---
+topic_id: 5792
+title: "Perklab Bootcamp 2019"
+date: 2019-02-15
+url: https://discourse.slicer.org/t/5792
+---
+
 # PerkLab bootcamp 2019
 
 **Topic ID**: 5792

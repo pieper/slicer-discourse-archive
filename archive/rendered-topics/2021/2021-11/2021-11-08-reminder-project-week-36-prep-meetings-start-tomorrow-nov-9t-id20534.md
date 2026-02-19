@@ -1,3 +1,10 @@
+---
+topic_id: 20534
+title: "Reminder Project Week 36 Prep Meetings Start Tomorrow Nov 9T"
+date: 2021-11-08
+url: https://discourse.slicer.org/t/20534
+---
+
 # Reminder: Project Week 36 prep meetings start tomorrow (Nov 9th)
 
 **Topic ID**: 20534

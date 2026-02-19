@@ -1,3 +1,10 @@
+---
+topic_id: 25007
+title: "Collecting 5000 Mri Images With Motion Artifact"
+date: 2022-08-30
+url: https://discourse.slicer.org/t/25007
+---
+
 # Collecting 5000 MRI images with motion artifact
 
 **Topic ID**: 25007

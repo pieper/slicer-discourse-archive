@@ -1,3 +1,10 @@
+---
+topic_id: 21393
+title: "Import Slicer Doesnt Work In Python Script"
+date: 2022-01-10
+url: https://discourse.slicer.org/t/21393
+---
+
 # import slicer doesn't work in python script
 
 **Topic ID**: 21393

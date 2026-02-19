@@ -1,3 +1,10 @@
+---
+topic_id: 6375
+title: "Groups Tutorial Sample Data Guidance"
+date: 2019-04-03
+url: https://discourse.slicer.org/t/6375
+---
+
 # Groups tutorial - sample data / guidance?
 
 **Topic ID**: 6375

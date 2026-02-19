@@ -1,3 +1,10 @@
+---
+topic_id: 14222
+title: "Select Contour From The Mrml Scene"
+date: 2020-10-24
+url: https://discourse.slicer.org/t/14222
+---
+
 # Select contour from the mrml scene
 
 **Topic ID**: 14222

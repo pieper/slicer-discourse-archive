@@ -1,3 +1,10 @@
+---
+topic_id: 45319
+title: "Problem Reopening Mrml"
+date: 2025-12-02
+url: https://discourse.slicer.org/t/45319
+---
+
 # Problem Reopening mrml
 
 **Topic ID**: 45319

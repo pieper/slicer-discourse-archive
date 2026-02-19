@@ -1,3 +1,10 @@
+---
+topic_id: 13452
+title: "Long Delay After Disk Activity Stops When Loading Very Large"
+date: 2020-09-11
+url: https://discourse.slicer.org/t/13452
+---
+
 # Long delay after disk activity stops when loading very large data
 
 **Topic ID**: 13452

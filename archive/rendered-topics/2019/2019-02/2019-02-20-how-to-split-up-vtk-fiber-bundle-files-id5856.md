@@ -1,3 +1,10 @@
+---
+topic_id: 5856
+title: "How To Split Up Vtk Fiber Bundle Files"
+date: 2019-02-20
+url: https://discourse.slicer.org/t/5856
+---
+
 # How to Split Up VTK Fiber Bundle Files
 
 **Topic ID**: 5856

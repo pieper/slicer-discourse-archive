@@ -1,3 +1,10 @@
+---
+topic_id: 2818
+title: "Saggital And Coronal Views Not Loading"
+date: 2018-05-14
+url: https://discourse.slicer.org/t/2818
+---
+
 # saggital and coronal views not loading 
 
 **Topic ID**: 2818

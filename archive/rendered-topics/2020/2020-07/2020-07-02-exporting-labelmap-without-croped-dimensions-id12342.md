@@ -1,3 +1,10 @@
+---
+topic_id: 12342
+title: "Exporting Labelmap Without Croped Dimensions"
+date: 2020-07-02
+url: https://discourse.slicer.org/t/12342
+---
+
 # Exporting labelmap without croped dimensions
 
 **Topic ID**: 12342

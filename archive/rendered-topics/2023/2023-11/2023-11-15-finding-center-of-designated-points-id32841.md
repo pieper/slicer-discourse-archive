@@ -1,3 +1,10 @@
+---
+topic_id: 32841
+title: "Finding Center Of Designated Points"
+date: 2023-11-15
+url: https://discourse.slicer.org/t/32841
+---
+
 # Finding center of designated points
 
 **Topic ID**: 32841

@@ -1,3 +1,10 @@
+---
+topic_id: 24927
+title: "Window Display Problem"
+date: 2022-08-25
+url: https://discourse.slicer.org/t/24927
+---
+
 # window display problem
 
 **Topic ID**: 24927

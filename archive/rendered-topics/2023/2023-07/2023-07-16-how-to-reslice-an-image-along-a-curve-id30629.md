@@ -1,3 +1,10 @@
+---
+topic_id: 30629
+title: "How To Reslice An Image Along A Curve"
+date: 2023-07-16
+url: https://discourse.slicer.org/t/30629
+---
+
 # How to reslice an image along a curve?
 
 **Topic ID**: 30629

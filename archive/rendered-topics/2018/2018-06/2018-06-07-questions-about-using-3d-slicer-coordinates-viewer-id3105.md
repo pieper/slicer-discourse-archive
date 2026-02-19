@@ -1,3 +1,10 @@
+---
+topic_id: 3105
+title: "Questions About Using 3D Slicer Coordinates Viewer"
+date: 2018-06-07
+url: https://discourse.slicer.org/t/3105
+---
+
 # Questions about using 3D Slicer. ( coordinates , viewer )
 
 **Topic ID**: 3105

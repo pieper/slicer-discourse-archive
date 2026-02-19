@@ -1,3 +1,10 @@
+---
+topic_id: 3115
+title: "How To Know The Dimensions Of A 3D Model Using Slicer"
+date: 2018-06-07
+url: https://discourse.slicer.org/t/3115
+---
+
 # How to know the dimensions of a 3D model using Slicer?
 
 **Topic ID**: 3115

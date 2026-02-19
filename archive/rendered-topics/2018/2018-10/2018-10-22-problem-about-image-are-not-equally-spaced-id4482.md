@@ -1,3 +1,10 @@
+---
+topic_id: 4482
+title: "Problem About Image Are Not Equally Spaced"
+date: 2018-10-22
+url: https://discourse.slicer.org/t/4482
+---
+
 # Problem about image are not equally spaced
 
 **Topic ID**: 4482

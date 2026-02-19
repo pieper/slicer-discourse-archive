@@ -1,3 +1,10 @@
+---
+topic_id: 19344
+title: "Is There A Way To Get A List Of All Child Segments Of A Segm"
+date: 2021-08-24
+url: https://discourse.slicer.org/t/19344
+---
+
 # Is there a way to get a list of all child segments of a segmentation programmatically?
 
 **Topic ID**: 19344

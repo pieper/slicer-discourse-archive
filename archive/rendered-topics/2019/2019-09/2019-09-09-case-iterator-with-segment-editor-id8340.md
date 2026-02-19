@@ -1,3 +1,10 @@
+---
+topic_id: 8340
+title: "Case Iterator With Segment Editor"
+date: 2019-09-09
+url: https://discourse.slicer.org/t/8340
+---
+
 # Case Iterator with segment editor
 
 **Topic ID**: 8340

@@ -1,3 +1,10 @@
+---
+topic_id: 16589
+title: "Can We Build Some Advanced Tools For Automatic Pipline Like"
+date: 2021-03-17
+url: https://discourse.slicer.org/t/16589
+---
+
 # Can we build some advanced tools for automatic pipline like mimics?
 
 **Topic ID**: 16589

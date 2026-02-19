@@ -1,3 +1,10 @@
+---
+topic_id: 1826
+title: "Converting Volume To Segment"
+date: 2018-01-12
+url: https://discourse.slicer.org/t/1826
+---
+
 # Converting volume to segment?
 
 **Topic ID**: 1826

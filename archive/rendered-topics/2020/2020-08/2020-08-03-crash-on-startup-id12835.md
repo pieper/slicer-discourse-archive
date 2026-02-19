@@ -1,3 +1,10 @@
+---
+topic_id: 12835
+title: "Crash On Startup"
+date: 2020-08-03
+url: https://discourse.slicer.org/t/12835
+---
+
 # Crash on startup
 
 **Topic ID**: 12835

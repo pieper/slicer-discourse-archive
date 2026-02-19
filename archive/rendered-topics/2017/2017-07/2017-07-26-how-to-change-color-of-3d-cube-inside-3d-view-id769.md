@@ -1,3 +1,10 @@
+---
+topic_id: 769
+title: "How To Change Color Of 3D Cube Inside 3D View"
+date: 2017-07-26
+url: https://discourse.slicer.org/t/769
+---
+
 # How to change color of 3d-cube inside 3D-View?
 
 **Topic ID**: 769

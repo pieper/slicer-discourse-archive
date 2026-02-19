@@ -1,3 +1,10 @@
+---
+topic_id: 6943
+title: "Segmentation Reverting Back To Slices"
+date: 2019-05-28
+url: https://discourse.slicer.org/t/6943
+---
+
 # Segmentation- Reverting back to Slices
 
 **Topic ID**: 6943

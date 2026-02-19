@@ -1,3 +1,10 @@
+---
+topic_id: 2498
+title: "Simple Region Splitting"
+date: 2018-04-03
+url: https://discourse.slicer.org/t/2498
+---
+
 # Simple Region Splitting
 
 **Topic ID**: 2498

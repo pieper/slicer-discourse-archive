@@ -1,3 +1,10 @@
+---
+topic_id: 44259
+title: "Unable To Load Wrist Knee Or Ankle Data For Autoscoper Tutor"
+date: 2025-08-29
+url: https://discourse.slicer.org/t/44259
+---
+
 # Unable to load wrist, knee or ankle data for autoscoper tutorial 1
 
 **Topic ID**: 44259

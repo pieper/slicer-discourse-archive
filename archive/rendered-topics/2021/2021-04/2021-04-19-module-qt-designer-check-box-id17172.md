@@ -1,3 +1,10 @@
+---
+topic_id: 17172
+title: "Module Qt Designer Check Box"
+date: 2021-04-19
+url: https://discourse.slicer.org/t/17172
+---
+
 # Module Qt Designer Check Box
 
 **Topic ID**: 17172

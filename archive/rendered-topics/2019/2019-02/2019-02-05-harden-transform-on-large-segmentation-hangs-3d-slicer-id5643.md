@@ -1,3 +1,10 @@
+---
+topic_id: 5643
+title: "Harden Transform On Large Segmentation Hangs 3D Slicer"
+date: 2019-02-05
+url: https://discourse.slicer.org/t/5643
+---
+
 # Harden transform on large segmentation hangs 3D Slicer
 
 **Topic ID**: 5643

@@ -1,3 +1,10 @@
+---
+topic_id: 9156
+title: "Problems With Conversion Dicom Files To Nrrd With Dti"
+date: 2019-11-15
+url: https://discourse.slicer.org/t/9156
+---
+
 # Problems with conversion DICOM files to NRRD with DTI
 
 **Topic ID**: 9156

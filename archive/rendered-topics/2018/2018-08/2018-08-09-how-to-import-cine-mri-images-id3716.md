@@ -1,3 +1,10 @@
+---
+topic_id: 3716
+title: "How To Import Cine Mri Images"
+date: 2018-08-09
+url: https://discourse.slicer.org/t/3716
+---
+
 # How to Import cine-MRI Images
 
 **Topic ID**: 3716

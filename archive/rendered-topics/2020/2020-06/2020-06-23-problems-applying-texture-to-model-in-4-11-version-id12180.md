@@ -1,3 +1,10 @@
+---
+topic_id: 12180
+title: "Problems Applying Texture To Model In 4 11 Version"
+date: 2020-06-23
+url: https://discourse.slicer.org/t/12180
+---
+
 # Problems applying texture to model in 4.11 version
 
 **Topic ID**: 12180

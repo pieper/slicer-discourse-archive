@@ -1,3 +1,10 @@
+---
+topic_id: 21823
+title: "Maxillary Bone Segmentation Model"
+date: 2022-02-06
+url: https://discourse.slicer.org/t/21823
+---
+
 # maxillary bone segmentation model
 
 **Topic ID**: 21823

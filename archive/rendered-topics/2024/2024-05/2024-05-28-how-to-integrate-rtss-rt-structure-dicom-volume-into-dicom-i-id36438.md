@@ -1,3 +1,10 @@
+---
+topic_id: 36438
+title: "How To Integrate Rtss Rt Structure Dicom Volume Into Dicom I"
+date: 2024-05-28
+url: https://discourse.slicer.org/t/36438
+---
+
 # How to Integrate RTSS(RT structure)-DICOM Volume into DICOM Images for Segmentation
 
 **Topic ID**: 36438

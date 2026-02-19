@@ -1,3 +1,10 @@
+---
+topic_id: 36607
+title: "Image Guided Surgical Nav Developer Position In Pittsburgh P"
+date: 2024-06-05
+url: https://discourse.slicer.org/t/36607
+---
+
 # Image-Guided Surgical Nav developer position in Pittsburgh, PA
 
 **Topic ID**: 36607

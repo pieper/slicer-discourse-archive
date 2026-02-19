@@ -1,3 +1,10 @@
+---
+topic_id: 1863
+title: "Slicer Batch Processing Question No Main Window Python Scrip"
+date: 2018-01-17
+url: https://discourse.slicer.org/t/1863
+---
+
 # Slicer batch processing question (--no-main-window --python-script)
 
 **Topic ID**: 1863

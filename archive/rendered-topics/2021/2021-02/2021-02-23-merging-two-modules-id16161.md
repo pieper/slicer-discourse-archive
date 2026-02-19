@@ -1,3 +1,10 @@
+---
+topic_id: 16161
+title: "Merging Two Modules"
+date: 2021-02-23
+url: https://discourse.slicer.org/t/16161
+---
+
 # Merging two modules
 
 **Topic ID**: 16161

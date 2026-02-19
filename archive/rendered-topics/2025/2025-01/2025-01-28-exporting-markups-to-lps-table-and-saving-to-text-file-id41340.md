@@ -1,3 +1,10 @@
+---
+topic_id: 41340
+title: "Exporting Markups To Lps Table And Saving To Text File"
+date: 2025-01-28
+url: https://discourse.slicer.org/t/41340
+---
+
 # Exporting markups to LPS table and saving to text file?
 
 **Topic ID**: 41340

@@ -1,3 +1,10 @@
+---
+topic_id: 27122
+title: "Issues With Starting 3D Slicer After Installing Slicer Heart"
+date: 2023-01-09
+url: https://discourse.slicer.org/t/27122
+---
+
 # Issues with starting 3D slicer after installing slicer heart module
 
 **Topic ID**: 27122

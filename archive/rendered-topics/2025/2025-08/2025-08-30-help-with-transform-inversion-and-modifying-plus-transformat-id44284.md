@@ -1,3 +1,10 @@
+---
+topic_id: 44284
+title: "Help With Transform Inversion And Modifying Plus Transformat"
+date: 2025-08-30
+url: https://discourse.slicer.org/t/44284
+---
+
 # Help with Transform Inversion and Modifying PLUS Transformation in Slicer
 
 **Topic ID**: 44284

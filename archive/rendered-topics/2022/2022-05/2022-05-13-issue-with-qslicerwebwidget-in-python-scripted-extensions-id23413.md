@@ -1,3 +1,10 @@
+---
+topic_id: 23413
+title: "Issue With Qslicerwebwidget In Python Scripted Extensions"
+date: 2022-05-13
+url: https://discourse.slicer.org/t/23413
+---
+
 # Issue with qSlicerWebWidget in python scripted extensions
 
 **Topic ID**: 23413

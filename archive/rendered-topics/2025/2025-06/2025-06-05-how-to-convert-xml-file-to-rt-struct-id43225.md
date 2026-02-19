@@ -1,3 +1,10 @@
+---
+topic_id: 43225
+title: "How To Convert Xml File To Rt Struct"
+date: 2025-06-05
+url: https://discourse.slicer.org/t/43225
+---
+
 # How to convert xml file to RT Struct
 
 **Topic ID**: 43225

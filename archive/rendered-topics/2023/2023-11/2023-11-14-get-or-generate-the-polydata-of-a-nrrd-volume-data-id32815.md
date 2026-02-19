@@ -1,3 +1,10 @@
+---
+topic_id: 32815
+title: "Get Or Generate The Polydata Of A Nrrd Volume Data"
+date: 2023-11-14
+url: https://discourse.slicer.org/t/32815
+---
+
 # Get or Generate the polydata of a nrrd volume data
 
 **Topic ID**: 32815

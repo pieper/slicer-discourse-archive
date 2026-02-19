@@ -1,3 +1,10 @@
+---
+topic_id: 25905
+title: "Interpolation Of Gradient Opacity Function"
+date: 2022-10-26
+url: https://discourse.slicer.org/t/25905
+---
+
 # Interpolation of gradient opacity function
 
 **Topic ID**: 25905

@@ -1,3 +1,10 @@
+---
+topic_id: 16877
+title: "How To Add Slice Intersection Button In Gui"
+date: 2021-03-31
+url: https://discourse.slicer.org/t/16877
+---
+
 # How to add slice intersection button in gui?
 
 **Topic ID**: 16877

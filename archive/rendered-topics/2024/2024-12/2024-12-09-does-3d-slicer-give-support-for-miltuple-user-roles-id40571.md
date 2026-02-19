@@ -1,3 +1,10 @@
+---
+topic_id: 40571
+title: "Does 3D Slicer Give Support For Miltuple User Roles"
+date: 2024-12-09
+url: https://discourse.slicer.org/t/40571
+---
+
 # Does 3D slicer give support for miltuple user roles
 
 **Topic ID**: 40571

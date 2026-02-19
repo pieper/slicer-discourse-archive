@@ -1,3 +1,10 @@
+---
+topic_id: 11835
+title: "Visualize Igs Mha Tracked Ultrasound Sequence In 3D"
+date: 2020-06-02
+url: https://discourse.slicer.org/t/11835
+---
+
 # Visualize .igs.mha tracked ultrasound sequence in 3D
 
 **Topic ID**: 11835

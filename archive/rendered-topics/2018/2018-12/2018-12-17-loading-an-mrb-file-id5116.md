@@ -1,3 +1,10 @@
+---
+topic_id: 5116
+title: "Loading An Mrb File"
+date: 2018-12-17
+url: https://discourse.slicer.org/t/5116
+---
+
 # Loading an MRB file
 
 **Topic ID**: 5116

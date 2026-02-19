@@ -1,3 +1,10 @@
+---
+topic_id: 26588
+title: "Should We Enable The New Discourse Sidebar"
+date: 2022-12-06
+url: https://discourse.slicer.org/t/26588
+---
+
 # Should we enable the new discourse sidebar?
 
 **Topic ID**: 26588

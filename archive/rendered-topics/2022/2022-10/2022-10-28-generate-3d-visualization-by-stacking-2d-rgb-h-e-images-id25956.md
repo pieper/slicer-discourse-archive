@@ -1,3 +1,10 @@
+---
+topic_id: 25956
+title: "Generate 3D Visualization By Stacking 2D Rgb H E Images"
+date: 2022-10-28
+url: https://discourse.slicer.org/t/25956
+---
+
 # Generate 3D visualization by Stacking 2D RGB H&E Images
 
 **Topic ID**: 25956

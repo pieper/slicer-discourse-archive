@@ -1,3 +1,10 @@
+---
+topic_id: 41944
+title: "Difficulty With Dicom File Suv Calculation"
+date: 2025-03-03
+url: https://discourse.slicer.org/t/41944
+---
+
 # Difficulty with Dicom file SUV calculation
 
 **Topic ID**: 41944

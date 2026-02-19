@@ -1,3 +1,10 @@
+---
+topic_id: 34797
+title: "How To Access Labelmap Indexes And Change Them"
+date: 2024-03-09
+url: https://discourse.slicer.org/t/34797
+---
+
 # How to access Labelmap indexes and change them?
 
 **Topic ID**: 34797

@@ -1,3 +1,10 @@
+---
+topic_id: 4820
+title: "Changing Orientation Of Slices In Dicom Files"
+date: 2018-11-20
+url: https://discourse.slicer.org/t/4820
+---
+
 # Changing orientation of slices in DICOM files
 
 **Topic ID**: 4820

@@ -1,3 +1,10 @@
+---
+topic_id: 38295
+title: "Manipulating Volume Rendering Ct X Ray Preset"
+date: 2024-09-09
+url: https://discourse.slicer.org/t/38295
+---
+
 # Manipulating volume rendering CT-X-ray preset 
 
 **Topic ID**: 38295

@@ -1,3 +1,10 @@
+---
+topic_id: 3592
+title: "Single Slice Nifti Loaded As 2 Slice Volume"
+date: 2018-07-27
+url: https://discourse.slicer.org/t/3592
+---
+
 # Single slice nifti loaded as 2 slice volume
 
 **Topic ID**: 3592

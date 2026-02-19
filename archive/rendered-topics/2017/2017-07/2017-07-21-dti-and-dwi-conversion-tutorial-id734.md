@@ -1,3 +1,10 @@
+---
+topic_id: 734
+title: "Dti And Dwi Conversion Tutorial"
+date: 2017-07-21
+url: https://discourse.slicer.org/t/734
+---
+
 # DTI and DWI conversion tutorial
 
 **Topic ID**: 734

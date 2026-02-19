@@ -1,3 +1,10 @@
+---
+topic_id: 28931
+title: "Negative Values In Nrrd Field Segmentation Referenceimageext"
+date: 2023-04-15
+url: https://discourse.slicer.org/t/28931
+---
+
 # Negative values in nrrd field 'Segmentation_ReferenceImageExtentOffset' 
 
 **Topic ID**: 28931

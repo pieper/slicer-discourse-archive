@@ -1,3 +1,10 @@
+---
+topic_id: 9444
+title: "Required Extension Not Being Installed In Tests"
+date: 2019-12-09
+url: https://discourse.slicer.org/t/9444
+---
+
 # Required extension not being installed in tests
 
 **Topic ID**: 9444

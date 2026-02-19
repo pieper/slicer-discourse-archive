@@ -1,3 +1,10 @@
+---
+topic_id: 5186
+title: "How To Measure The Adc Value Dwi And Rcbv In Brain Mri Is Th"
+date: 2018-12-24
+url: https://discourse.slicer.org/t/5186
+---
+
 # How to measure the ADC value(DWI) and rCBV in brain MRI？（is there a guideline?）
 
 **Topic ID**: 5186

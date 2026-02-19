@@ -1,3 +1,10 @@
+---
+topic_id: 5369
+title: "Where To Store Slicer Tutorial Slides"
+date: 2019-01-15
+url: https://discourse.slicer.org/t/5369
+---
+
 # Where to store Slicer tutorial slides?
 
 **Topic ID**: 5369

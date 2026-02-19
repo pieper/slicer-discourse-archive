@@ -1,3 +1,10 @@
+---
+topic_id: 4641
+title: "Smoothing Without Decreasing Size"
+date: 2018-11-05
+url: https://discourse.slicer.org/t/4641
+---
+
 # Smoothing without decreasing size
 
 **Topic ID**: 4641

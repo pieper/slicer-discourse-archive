@@ -1,3 +1,10 @@
+---
+topic_id: 17335
+title: "Elastix Registration Error"
+date: 2021-04-26
+url: https://discourse.slicer.org/t/17335
+---
+
 # Elastix registration error
 
 **Topic ID**: 17335

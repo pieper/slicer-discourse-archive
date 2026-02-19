@@ -1,3 +1,10 @@
+---
+topic_id: 908
+title: "Using Simpleitk In Loadable Modules"
+date: 2017-08-21
+url: https://discourse.slicer.org/t/908
+---
+
 # Using SimpleItk in loadable modules
 
 **Topic ID**: 908

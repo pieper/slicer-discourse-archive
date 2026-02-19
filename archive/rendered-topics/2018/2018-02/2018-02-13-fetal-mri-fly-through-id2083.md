@@ -1,3 +1,10 @@
+---
+topic_id: 2083
+title: "Fetal Mri Fly Through"
+date: 2018-02-13
+url: https://discourse.slicer.org/t/2083
+---
+
 # Fetal MRI fly-through
 
 **Topic ID**: 2083

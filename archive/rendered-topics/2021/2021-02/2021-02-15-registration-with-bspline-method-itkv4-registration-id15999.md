@@ -1,3 +1,10 @@
+---
+topic_id: 15999
+title: "Registration With Bspline Method Itkv4 Registration"
+date: 2021-02-15
+url: https://discourse.slicer.org/t/15999
+---
+
 # Registration with BSpline method, ITKv4 registration
 
 **Topic ID**: 15999

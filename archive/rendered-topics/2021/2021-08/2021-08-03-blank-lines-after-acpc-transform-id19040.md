@@ -1,3 +1,10 @@
+---
+topic_id: 19040
+title: "Blank Lines After Acpc Transform"
+date: 2021-08-03
+url: https://discourse.slicer.org/t/19040
+---
+
 # Blank lines after ACPC transform
 
 **Topic ID**: 19040

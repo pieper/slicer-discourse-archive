@@ -1,3 +1,10 @@
+---
+topic_id: 35463
+title: "How To Reconstruct The Whole Vertebrae Using The Reconstruct"
+date: 2024-04-12
+url: https://discourse.slicer.org/t/35463
+---
+
 # How to reconstruct the whole vertebrae using the reconstructed volume
 
 **Topic ID**: 35463

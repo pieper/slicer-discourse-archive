@@ -1,3 +1,10 @@
+---
+topic_id: 22008
+title: "In Version 4 13 The Script Doesnt Work"
+date: 2022-02-17
+url: https://discourse.slicer.org/t/22008
+---
+
 # In version 4.13 ，the script doesn't work
 
 **Topic ID**: 22008

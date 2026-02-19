@@ -1,3 +1,10 @@
+---
+topic_id: 1250
+title: "Extension Download Statistics"
+date: 2017-10-19
+url: https://discourse.slicer.org/t/1250
+---
+
 # Extension download statistics
 
 **Topic ID**: 1250

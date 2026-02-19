@@ -1,3 +1,10 @@
+---
+topic_id: 464
+title: "From Adc Fa Back To Dwi"
+date: 2017-06-09
+url: https://discourse.slicer.org/t/464
+---
+
 # From ADC/FA back to DWI
 
 **Topic ID**: 464

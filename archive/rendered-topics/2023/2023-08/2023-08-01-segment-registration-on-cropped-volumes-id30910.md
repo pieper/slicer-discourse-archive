@@ -1,3 +1,10 @@
+---
+topic_id: 30910
+title: "Segment Registration On Cropped Volumes"
+date: 2023-08-01
+url: https://discourse.slicer.org/t/30910
+---
+
 # Segment registration on cropped volumes
 
 **Topic ID**: 30910

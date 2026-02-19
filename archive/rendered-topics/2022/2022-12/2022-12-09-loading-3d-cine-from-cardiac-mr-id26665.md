@@ -1,3 +1,10 @@
+---
+topic_id: 26665
+title: "Loading 3D Cine From Cardiac Mr"
+date: 2022-12-09
+url: https://discourse.slicer.org/t/26665
+---
+
 # Loading 3d cine from cardiac MR
 
 **Topic ID**: 26665

@@ -1,3 +1,10 @@
+---
+topic_id: 36754
+title: "Averaging Models Again And Again"
+date: 2024-06-13
+url: https://discourse.slicer.org/t/36754
+---
+
 # Averaging models (again and again)
 
 **Topic ID**: 36754

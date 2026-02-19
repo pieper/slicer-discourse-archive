@@ -1,3 +1,10 @@
+---
+topic_id: 5931
+title: "Registration Qa Extension"
+date: 2019-02-26
+url: https://discourse.slicer.org/t/5931
+---
+
 # Registration QA extension
 
 **Topic ID**: 5931

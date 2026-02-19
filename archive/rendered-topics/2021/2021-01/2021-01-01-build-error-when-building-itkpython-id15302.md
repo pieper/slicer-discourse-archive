@@ -1,3 +1,10 @@
+---
+topic_id: 15302
+title: "Build Error When Building Itkpython"
+date: 2021-01-01
+url: https://discourse.slicer.org/t/15302
+---
+
 # Build error when building ITKPython
 
 **Topic ID**: 15302

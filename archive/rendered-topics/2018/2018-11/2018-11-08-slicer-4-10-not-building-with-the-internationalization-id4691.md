@@ -1,3 +1,10 @@
+---
+topic_id: 4691
+title: "Slicer 4 10 Not Building With The Internationalization"
+date: 2018-11-08
+url: https://discourse.slicer.org/t/4691
+---
+
 # Slicer 4.10 not building with the internationalization
 
 **Topic ID**: 4691

@@ -1,3 +1,10 @@
+---
+topic_id: 21037
+title: "Slicer Radiomics With Vtksegment"
+date: 2021-12-13
+url: https://discourse.slicer.org/t/21037
+---
+
 # Slicer radiomics with vtkSegment
 
 **Topic ID**: 21037

@@ -1,3 +1,10 @@
+---
+topic_id: 3061
+title: "Automate Fiducial Registration"
+date: 2018-06-03
+url: https://discourse.slicer.org/t/3061
+---
+
 # Automate Fiducial Registration
 
 **Topic ID**: 3061

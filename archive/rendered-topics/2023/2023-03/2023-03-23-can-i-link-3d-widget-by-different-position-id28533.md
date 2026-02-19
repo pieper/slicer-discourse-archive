@@ -1,3 +1,10 @@
+---
+topic_id: 28533
+title: "Can I Link 3D Widget By Different Position"
+date: 2023-03-23
+url: https://discourse.slicer.org/t/28533
+---
+
 # Can I Link 3D widget by different position?
 
 **Topic ID**: 28533

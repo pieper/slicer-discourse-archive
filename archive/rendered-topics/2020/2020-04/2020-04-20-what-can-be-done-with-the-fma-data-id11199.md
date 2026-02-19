@@ -1,3 +1,10 @@
+---
+topic_id: 11199
+title: "What Can Be Done With The Fma Data"
+date: 2020-04-20
+url: https://discourse.slicer.org/t/11199
+---
+
 # What can be done with the FMA data?
 
 **Topic ID**: 11199

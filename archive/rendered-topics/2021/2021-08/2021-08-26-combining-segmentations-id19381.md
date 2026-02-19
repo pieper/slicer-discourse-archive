@@ -1,3 +1,10 @@
+---
+topic_id: 19381
+title: "Combining Segmentations"
+date: 2021-08-26
+url: https://discourse.slicer.org/t/19381
+---
+
 # Combining Segmentations
 
 **Topic ID**: 19381

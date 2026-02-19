@@ -1,3 +1,10 @@
+---
+topic_id: 20395
+title: "Add Subdirectory Fails With Features No Anachronisms"
+date: 2021-10-27
+url: https://discourse.slicer.org/t/20395
+---
+
 # Add_subdirectory() fails with ‘-features=no%anachronisms’
 
 **Topic ID**: 20395

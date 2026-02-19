@@ -1,3 +1,10 @@
+---
+topic_id: 2080
+title: "Scripted Module Initialization After Application Startup Is"
+date: 2018-02-13
+url: https://discourse.slicer.org/t/2080
+---
+
 # Scripted module initialization after application startup is completed
 
 **Topic ID**: 2080

@@ -1,3 +1,10 @@
+---
+topic_id: 715
+title: "X Y Z Coordinates And Updated 3 D Mpr Capability"
+date: 2017-07-19
+url: https://discourse.slicer.org/t/715
+---
+
 # X, Y, Z Coordinates and Updated 3-D MPR Capability
 
 **Topic ID**: 715

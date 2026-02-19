@@ -1,3 +1,10 @@
+---
+topic_id: 7284
+title: "Recent Improvements In Window Level Management"
+date: 2019-06-23
+url: https://discourse.slicer.org/t/7284
+---
+
 # Recent improvements in window/level management
 
 **Topic ID**: 7284

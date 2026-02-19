@@ -1,3 +1,10 @@
+---
+topic_id: 25333
+title: "Crosshair Sto Stay On Slice After Scrolling And Slice Inters"
+date: 2022-09-19
+url: https://discourse.slicer.org/t/25333
+---
+
 # Crosshair sto stay on slice after scrolling and slice intersections bug
 
 **Topic ID**: 25333

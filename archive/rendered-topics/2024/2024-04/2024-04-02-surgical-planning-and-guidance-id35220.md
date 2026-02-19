@@ -1,3 +1,10 @@
+---
+topic_id: 35220
+title: "Surgical Planning And Guidance"
+date: 2024-04-02
+url: https://discourse.slicer.org/t/35220
+---
+
 # Surgical planning and guidance
 
 **Topic ID**: 35220

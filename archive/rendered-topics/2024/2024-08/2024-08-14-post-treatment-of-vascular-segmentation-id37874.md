@@ -1,3 +1,10 @@
+---
+topic_id: 37874
+title: "Post Treatment Of Vascular Segmentation"
+date: 2024-08-14
+url: https://discourse.slicer.org/t/37874
+---
+
 # Post-treatment of vascular segmentation
 
 **Topic ID**: 37874

@@ -1,3 +1,10 @@
+---
+topic_id: 33395
+title: "Can 3D Slicer Be Used To Image Process And Compute 2D Strain"
+date: 2023-12-14
+url: https://discourse.slicer.org/t/33395
+---
+
 # Can 3D slicer be used to image process and compute 2D strain on a bare metal substrate
 
 **Topic ID**: 33395

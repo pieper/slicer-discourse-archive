@@ -1,3 +1,10 @@
+---
+topic_id: 2581
+title: "Set Pivot Value To The Model"
+date: 2018-04-13
+url: https://discourse.slicer.org/t/2581
+---
+
 # Set Pivot value to the model
 
 **Topic ID**: 2581

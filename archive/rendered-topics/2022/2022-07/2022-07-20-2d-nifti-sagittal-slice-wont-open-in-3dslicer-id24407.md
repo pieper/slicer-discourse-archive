@@ -1,3 +1,10 @@
+---
+topic_id: 24407
+title: "2D Nifti Sagittal Slice Wont Open In 3Dslicer"
+date: 2022-07-20
+url: https://discourse.slicer.org/t/24407
+---
+
 # 2D nifti sagittal slice won't open in 3DSlicer
 
 **Topic ID**: 24407

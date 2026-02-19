@@ -1,3 +1,10 @@
+---
+topic_id: 15717
+title: "Too Many Slices To Segment"
+date: 2021-01-28
+url: https://discourse.slicer.org/t/15717
+---
+
 # Too many slices to segment
 
 **Topic ID**: 15717

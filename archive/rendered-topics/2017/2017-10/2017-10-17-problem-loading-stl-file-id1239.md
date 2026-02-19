@@ -1,3 +1,10 @@
+---
+topic_id: 1239
+title: "Problem Loading Stl File"
+date: 2017-10-17
+url: https://discourse.slicer.org/t/1239
+---
+
 # Problem loading STL file
 
 **Topic ID**: 1239

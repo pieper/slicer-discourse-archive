@@ -1,3 +1,10 @@
+---
+topic_id: 35108
+title: "Get Contour Of Dicom Data"
+date: 2024-03-26
+url: https://discourse.slicer.org/t/35108
+---
+
 # Get contour of dicom data
 
 **Topic ID**: 35108

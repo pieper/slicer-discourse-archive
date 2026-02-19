@@ -1,3 +1,10 @@
+---
+topic_id: 32800
+title: "Connect 3D Slicer With Oculus Quest 2"
+date: 2023-11-14
+url: https://discourse.slicer.org/t/32800
+---
+
 # Connect 3D Slicer with Oculus Quest 2
 
 **Topic ID**: 32800

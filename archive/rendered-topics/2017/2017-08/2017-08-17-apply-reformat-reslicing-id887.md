@@ -1,3 +1,10 @@
+---
+topic_id: 887
+title: "Apply Reformat Reslicing"
+date: 2017-08-17
+url: https://discourse.slicer.org/t/887
+---
+
 # Apply reformat reslicing
 
 **Topic ID**: 887

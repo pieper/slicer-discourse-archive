@@ -1,3 +1,10 @@
+---
+topic_id: 7873
+title: "Could I See Different Staff In Different 3D Window"
+date: 2019-08-05
+url: https://discourse.slicer.org/t/7873
+---
+
 # Could I see different staff in different 3D window？
 
 **Topic ID**: 7873

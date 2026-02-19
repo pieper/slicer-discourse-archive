@@ -1,3 +1,10 @@
+---
+topic_id: 8938
+title: "Convert Nrrd Segment Contour To Dicom Structure"
+date: 2019-10-29
+url: https://discourse.slicer.org/t/8938
+---
+
 # Convert .NRRD segment/contour to Dicom structure.  
 
 **Topic ID**: 8938

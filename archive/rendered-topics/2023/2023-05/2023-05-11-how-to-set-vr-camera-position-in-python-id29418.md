@@ -1,3 +1,10 @@
+---
+topic_id: 29418
+title: "How To Set Vr Camera Position In Python"
+date: 2023-05-11
+url: https://discourse.slicer.org/t/29418
+---
+
 # How to set VR camera position in Python?
 
 **Topic ID**: 29418

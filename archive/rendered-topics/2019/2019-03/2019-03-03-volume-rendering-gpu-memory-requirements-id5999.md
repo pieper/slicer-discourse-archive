@@ -1,3 +1,10 @@
+---
+topic_id: 5999
+title: "Volume Rendering Gpu Memory Requirements"
+date: 2019-03-03
+url: https://discourse.slicer.org/t/5999
+---
+
 # Volume rendering GPU memory requirements
 
 **Topic ID**: 5999

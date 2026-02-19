@@ -1,3 +1,10 @@
+---
+topic_id: 21154
+title: "Pyradiomics Glcm Calculation"
+date: 2021-12-20
+url: https://discourse.slicer.org/t/21154
+---
+
 # Pyradiomics (GLCM) calculation
 
 **Topic ID**: 21154

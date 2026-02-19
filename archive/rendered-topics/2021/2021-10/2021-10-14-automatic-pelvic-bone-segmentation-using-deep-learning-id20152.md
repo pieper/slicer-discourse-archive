@@ -1,3 +1,10 @@
+---
+topic_id: 20152
+title: "Automatic Pelvic Bone Segmentation Using Deep Learning"
+date: 2021-10-14
+url: https://discourse.slicer.org/t/20152
+---
+
 # Automatic Pelvic bone segmentation using deep learning
 
 **Topic ID**: 20152

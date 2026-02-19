@@ -1,3 +1,10 @@
+---
+topic_id: 31286
+title: "Question About Drr"
+date: 2023-08-22
+url: https://discourse.slicer.org/t/31286
+---
+
 # Question about DRR
 
 **Topic ID**: 31286

@@ -1,3 +1,10 @@
+---
+topic_id: 31460
+title: "Mri Image Segmentation And Export"
+date: 2023-08-31
+url: https://discourse.slicer.org/t/31460
+---
+
 # MRI image segmentation and export
 
 **Topic ID**: 31460

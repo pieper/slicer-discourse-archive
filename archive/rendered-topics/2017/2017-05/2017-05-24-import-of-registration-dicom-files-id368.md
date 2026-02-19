@@ -1,3 +1,10 @@
+---
+topic_id: 368
+title: "Import Of Registration Dicom Files"
+date: 2017-05-24
+url: https://discourse.slicer.org/t/368
+---
+
 # Import of registration DICOM files
 
 **Topic ID**: 368

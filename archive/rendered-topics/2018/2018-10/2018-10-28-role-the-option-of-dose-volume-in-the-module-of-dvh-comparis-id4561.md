@@ -1,3 +1,10 @@
+---
+topic_id: 4561
+title: "Role The Option Of Dose Volume In The Module Of Dvh Comparis"
+date: 2018-10-28
+url: https://discourse.slicer.org/t/4561
+---
+
 # Role the option of “Dose Volume” in the module of “DVH Comparison”?
 
 **Topic ID**: 4561

@@ -1,3 +1,10 @@
+---
+topic_id: 29717
+title: "Parenchyma Analysis In Cip"
+date: 2023-05-30
+url: https://discourse.slicer.org/t/29717
+---
+
 # Parenchyma Analysis in CIP
 
 **Topic ID**: 29717

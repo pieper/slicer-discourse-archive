@@ -1,3 +1,10 @@
+---
+topic_id: 16476
+title: "Error Configuring 3D Slicer Cmake Does Not Support The Https"
+date: 2021-03-10
+url: https://discourse.slicer.org/t/16476
+---
+
 # Error configuring 3D Slicer - CMake does not support the HTTPS protocol
 
 **Topic ID**: 16476

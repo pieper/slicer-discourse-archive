@@ -1,3 +1,10 @@
+---
+topic_id: 4653
+title: "Front View Desugned"
+date: 2018-11-06
+url: https://discourse.slicer.org/t/4653
+---
+
 # front view desugned
 
 **Topic ID**: 4653

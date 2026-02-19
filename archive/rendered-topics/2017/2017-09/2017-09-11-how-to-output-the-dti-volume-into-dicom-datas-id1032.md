@@ -1,3 +1,10 @@
+---
+topic_id: 1032
+title: "How To Output The Dti Volume Into Dicom Datas"
+date: 2017-09-11
+url: https://discourse.slicer.org/t/1032
+---
+
 # How to output the DTI volume into DICOM datas?
 
 **Topic ID**: 1032

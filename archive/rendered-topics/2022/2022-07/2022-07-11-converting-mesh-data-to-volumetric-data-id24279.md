@@ -1,3 +1,10 @@
+---
+topic_id: 24279
+title: "Converting Mesh Data To Volumetric Data"
+date: 2022-07-11
+url: https://discourse.slicer.org/t/24279
+---
+
 # Converting mesh data to volumetric data
 
 **Topic ID**: 24279

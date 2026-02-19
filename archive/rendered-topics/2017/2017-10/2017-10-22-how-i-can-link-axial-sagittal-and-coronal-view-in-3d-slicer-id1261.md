@@ -1,3 +1,10 @@
+---
+topic_id: 1261
+title: "How I Can Link Axial Sagittal And Coronal View In 3D Slicer"
+date: 2017-10-22
+url: https://discourse.slicer.org/t/1261
+---
+
 # How I can link axial, sagittal, and coronal view in 3d slicer
 
 **Topic ID**: 1261

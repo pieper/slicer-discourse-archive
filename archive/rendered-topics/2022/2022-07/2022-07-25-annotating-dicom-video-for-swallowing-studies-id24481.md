@@ -1,3 +1,10 @@
+---
+topic_id: 24481
+title: "Annotating Dicom Video For Swallowing Studies"
+date: 2022-07-25
+url: https://discourse.slicer.org/t/24481
+---
+
 # Annotating DICOM video for swallowing studies
 
 **Topic ID**: 24481

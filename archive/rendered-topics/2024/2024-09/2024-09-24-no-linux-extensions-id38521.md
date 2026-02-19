@@ -1,3 +1,10 @@
+---
+topic_id: 38521
+title: "No Linux Extensions"
+date: 2024-09-24
+url: https://discourse.slicer.org/t/38521
+---
+
 # No Linux extensions
 
 **Topic ID**: 38521

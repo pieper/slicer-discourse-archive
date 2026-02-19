@@ -1,3 +1,10 @@
+---
+topic_id: 35477
+title: "Slicer Error In Getting Segmentation When Using Monai Label"
+date: 2024-04-13
+url: https://discourse.slicer.org/t/35477
+---
+
 # Slicer error in getting segmentation when using monai label
 
 **Topic ID**: 35477

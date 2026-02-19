@@ -1,3 +1,10 @@
+---
+topic_id: 32128
+title: "How To Enable Disable The Option Of Interpolated Cropped Ins"
+date: 2023-10-10
+url: https://discourse.slicer.org/t/32128
+---
+
 # How to enable/disable the option of "interpolated cropped" inside "cropvolume" via python coding?
 
 **Topic ID**: 32128

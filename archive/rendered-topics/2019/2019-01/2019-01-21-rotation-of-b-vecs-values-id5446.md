@@ -1,3 +1,10 @@
+---
+topic_id: 5446
+title: "Rotation Of B Vecs Values"
+date: 2019-01-21
+url: https://discourse.slicer.org/t/5446
+---
+
 # Rotation of b vecs values
 
 **Topic ID**: 5446

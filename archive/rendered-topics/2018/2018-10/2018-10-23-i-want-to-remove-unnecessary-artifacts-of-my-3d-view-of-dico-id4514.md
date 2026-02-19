@@ -1,3 +1,10 @@
+---
+topic_id: 4514
+title: "I Want To Remove Unnecessary Artifacts Of My 3D View Of Dico"
+date: 2018-10-23
+url: https://discourse.slicer.org/t/4514
+---
+
 # I want to remove unnecessary artifacts of my 3D view of DICOM volume. I used segment editor but it does not work ( version 4.9)
 
 **Topic ID**: 4514

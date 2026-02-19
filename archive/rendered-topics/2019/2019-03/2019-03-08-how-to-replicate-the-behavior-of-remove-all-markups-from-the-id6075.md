@@ -1,3 +1,10 @@
+---
+topic_id: 6075
+title: "How To Replicate The Behavior Of Remove All Markups From The"
+date: 2019-03-08
+url: https://discourse.slicer.org/t/6075
+---
+
 # How to replicate the behavior of "remove all markups from the active list" from the module "markups"
 
 **Topic ID**: 6075

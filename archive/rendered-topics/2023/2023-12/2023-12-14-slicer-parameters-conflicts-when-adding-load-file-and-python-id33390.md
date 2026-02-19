@@ -1,3 +1,10 @@
+---
+topic_id: 33390
+title: "Slicer Parameters Conflicts When Adding Load File And Python"
+date: 2023-12-14
+url: https://discourse.slicer.org/t/33390
+---
+
 # Slicer parameters conflicts when adding "--load-file" and "--python-script"
 
 **Topic ID**: 33390

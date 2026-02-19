@@ -1,3 +1,10 @@
+---
+topic_id: 5434
+title: "Slicer Elastix On Mac"
+date: 2019-01-21
+url: https://discourse.slicer.org/t/5434
+---
+
 # Slicer elastix on Mac
 
 **Topic ID**: 5434

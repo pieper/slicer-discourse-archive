@@ -1,3 +1,10 @@
+---
+topic_id: 142
+title: "Scripted Module Dependency Loaded Too Late For One Module Bu"
+date: 2017-04-19
+url: https://discourse.slicer.org/t/142
+---
+
 # Scripted module dependency loaded too late for one module but for another one not
 
 **Topic ID**: 142

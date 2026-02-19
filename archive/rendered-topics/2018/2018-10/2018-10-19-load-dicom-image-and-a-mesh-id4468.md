@@ -1,3 +1,10 @@
+---
+topic_id: 4468
+title: "Load Dicom Image And A Mesh"
+date: 2018-10-19
+url: https://discourse.slicer.org/t/4468
+---
+
 # Load Dicom Image and a mesh
 
 **Topic ID**: 4468

@@ -1,3 +1,10 @@
+---
+topic_id: 2973
+title: "2017 07 27 Hangout Cancelled 25Th Project Week"
+date: 2017-06-27
+url: https://discourse.slicer.org/t/2973
+---
+
 # 2017.07.27 Hangout [Cancelled - 25th Project Week]
 
 **Topic ID**: 2973

@@ -1,3 +1,10 @@
+---
+topic_id: 8708
+title: "Slicerigt Transform To Markup For Real Time Patient Tracking"
+date: 2019-10-08
+url: https://discourse.slicer.org/t/8708
+---
+
 # SlicerIGT: Transform to Markup for real-time patient tracking using the Fiducial Registration Wizard
 
 **Topic ID**: 8708

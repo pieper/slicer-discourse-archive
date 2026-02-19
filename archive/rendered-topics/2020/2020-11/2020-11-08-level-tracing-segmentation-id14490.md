@@ -1,3 +1,10 @@
+---
+topic_id: 14490
+title: "Level Tracing Segmentation"
+date: 2020-11-08
+url: https://discourse.slicer.org/t/14490
+---
+
 # Level tracing segmentation
 
 **Topic ID**: 14490

@@ -1,3 +1,10 @@
+---
+topic_id: 32972
+title: "How To Modify Ctkapplauncherlib"
+date: 2023-11-23
+url: https://discourse.slicer.org/t/32972
+---
+
 # How to modify CTKAppLauncherLib?
 
 **Topic ID**: 32972

@@ -1,3 +1,10 @@
+---
+topic_id: 28789
+title: "Embedding The Text In 3D Model"
+date: 2023-04-07
+url: https://discourse.slicer.org/t/28789
+---
+
 # Embedding the text in 3D model
 
 **Topic ID**: 28789

@@ -1,3 +1,10 @@
+---
+topic_id: 1576
+title: "Threading Cli Commands"
+date: 2017-12-01
+url: https://discourse.slicer.org/t/1576
+---
+
 # Threading CLI commands
 
 **Topic ID**: 1576

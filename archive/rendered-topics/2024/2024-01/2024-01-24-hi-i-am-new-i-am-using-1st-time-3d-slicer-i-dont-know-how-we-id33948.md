@@ -1,3 +1,10 @@
+---
+topic_id: 33948
+title: "Hi I Am New I Am Using 1St Time 3D Slicer I Dont Know How We"
+date: 2024-01-24
+url: https://discourse.slicer.org/t/33948
+---
+
 # Hi i am new , i am using 1st time 3D slicer i dont know how we use this app , can you provide me any link of youtube video where i can learn how we use 3d slicer , actually i need lung vessels model for my research
 
 **Topic ID**: 33948

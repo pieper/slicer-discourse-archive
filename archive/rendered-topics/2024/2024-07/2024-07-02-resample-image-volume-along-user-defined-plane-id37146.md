@@ -1,3 +1,10 @@
+---
+topic_id: 37146
+title: "Resample Image Volume Along User Defined Plane"
+date: 2024-07-02
+url: https://discourse.slicer.org/t/37146
+---
+
 # Resample image volume along user-defined plane
 
 **Topic ID**: 37146

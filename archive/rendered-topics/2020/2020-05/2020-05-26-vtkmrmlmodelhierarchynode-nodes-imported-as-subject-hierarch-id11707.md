@@ -1,3 +1,10 @@
+---
+topic_id: 11707
+title: "Vtkmrmlmodelhierarchynode Nodes Imported As Subject Hierarch"
+date: 2020-05-26
+url: https://discourse.slicer.org/t/11707
+---
+
 # vtkMRMLModelHierarchyNode nodes imported as subject hierarchies
 
 **Topic ID**: 11707

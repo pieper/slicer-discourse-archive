@@ -1,3 +1,10 @@
+---
+topic_id: 15037
+title: "Extract Centerlines With Radius Variation For Coronary Steno"
+date: 2020-12-13
+url: https://discourse.slicer.org/t/15037
+---
+
 # Extract centerlines with radius variation for coronary stenosis
 
 **Topic ID**: 15037

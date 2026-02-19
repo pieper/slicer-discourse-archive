@@ -1,3 +1,10 @@
+---
+topic_id: 15939
+title: "Increasing Segmentation Resolution"
+date: 2021-02-10
+url: https://discourse.slicer.org/t/15939
+---
+
 # Increasing segmentation resolution
 
 **Topic ID**: 15939

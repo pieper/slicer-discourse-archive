@@ -1,3 +1,10 @@
+---
+topic_id: 27259
+title: "Export 3D Model To Hololens 2 Device"
+date: 2023-01-16
+url: https://discourse.slicer.org/t/27259
+---
+
 # Export 3d model to Hololens 2 device
 
 **Topic ID**: 27259

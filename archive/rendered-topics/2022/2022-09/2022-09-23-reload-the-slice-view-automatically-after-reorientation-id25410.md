@@ -1,3 +1,10 @@
+---
+topic_id: 25410
+title: "Reload The Slice View Automatically After Reorientation"
+date: 2022-09-23
+url: https://discourse.slicer.org/t/25410
+---
+
 # Reload the slice view automatically after reorientation
 
 **Topic ID**: 25410

@@ -1,3 +1,10 @@
+---
+topic_id: 1684
+title: "Comparing Vector Images In My Tests Using Itktestmain H"
+date: 2017-12-19
+url: https://discourse.slicer.org/t/1684
+---
+
 # Comparing Vector Images in my Tests (using itkTestMain.h)
 
 **Topic ID**: 1684

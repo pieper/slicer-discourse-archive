@@ -1,3 +1,10 @@
+---
+topic_id: 18705
+title: "How To Show A Particular Segment In The Image Highlighted"
+date: 2021-07-13
+url: https://discourse.slicer.org/t/18705
+---
+
 # How to Show a particular segment in the image highlighted
 
 **Topic ID**: 18705

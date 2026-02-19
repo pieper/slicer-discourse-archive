@@ -1,3 +1,10 @@
+---
+topic_id: 25726
+title: "Double Barrel Fibula Flap Mandible Reconstruction On Slicer"
+date: 2022-10-16
+url: https://discourse.slicer.org/t/25726
+---
+
 # Double-barrel fibula flap mandible reconstruction on Slicer
 
 **Topic ID**: 25726

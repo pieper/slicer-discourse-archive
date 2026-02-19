@@ -1,3 +1,10 @@
+---
+topic_id: 14323
+title: "Masking Settings From A Script On A Segment Editor Effect In"
+date: 2020-10-30
+url: https://discourse.slicer.org/t/14323
+---
+
 # Masking settings from a script on a segment editor effect in python
 
 **Topic ID**: 14323

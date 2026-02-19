@@ -1,3 +1,10 @@
+---
+topic_id: 42385
+title: "Changing Image Spacing Of Image Segmentations"
+date: 2025-03-31
+url: https://discourse.slicer.org/t/42385
+---
+
 # Changing image spacing of image segmentations
 
 **Topic ID**: 42385

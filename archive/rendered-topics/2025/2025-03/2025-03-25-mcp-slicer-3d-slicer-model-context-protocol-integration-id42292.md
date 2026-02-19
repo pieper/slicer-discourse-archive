@@ -1,3 +1,10 @@
+---
+topic_id: 42292
+title: "Mcp Slicer 3D Slicer Model Context Protocol Integration"
+date: 2025-03-25
+url: https://discourse.slicer.org/t/42292
+---
+
 # MCP-Slicer: 3D Slicer Model Context Protocol Integration
 
 **Topic ID**: 42292

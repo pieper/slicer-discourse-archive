@@ -1,3 +1,10 @@
+---
+topic_id: 25907
+title: "About Surface Rendering Algorithm"
+date: 2022-10-26
+url: https://discourse.slicer.org/t/25907
+---
+
 # About Surface Rendering Algorithm
 
 **Topic ID**: 25907

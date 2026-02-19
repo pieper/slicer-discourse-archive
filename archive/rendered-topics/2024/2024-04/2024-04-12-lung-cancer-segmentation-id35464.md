@@ -1,3 +1,10 @@
+---
+topic_id: 35464
+title: "Lung Cancer Segmentation"
+date: 2024-04-12
+url: https://discourse.slicer.org/t/35464
+---
+
 # Lung cancer segmentation 
 
 **Topic ID**: 35464

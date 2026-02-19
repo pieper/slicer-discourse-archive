@@ -1,3 +1,10 @@
+---
+topic_id: 12042
+title: "Vicon Bonita And Canon Xario200G"
+date: 2020-06-15
+url: https://discourse.slicer.org/t/12042
+---
+
 # vicon bonita and canon xario200g
 
 **Topic ID**: 12042

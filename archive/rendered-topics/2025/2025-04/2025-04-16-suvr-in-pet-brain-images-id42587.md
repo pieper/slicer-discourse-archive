@@ -1,3 +1,10 @@
+---
+topic_id: 42587
+title: "Suvr In Pet Brain Images"
+date: 2025-04-16
+url: https://discourse.slicer.org/t/42587
+---
+
 # SUVR in PET brain images
 
 **Topic ID**: 42587

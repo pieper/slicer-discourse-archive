@@ -1,3 +1,10 @@
+---
+topic_id: 14575
+title: "Clip Crop Segment With Roi In Segment Editor"
+date: 2020-11-12
+url: https://discourse.slicer.org/t/14575
+---
+
 # Clip/crop segment with ROI in segment editor?
 
 **Topic ID**: 14575

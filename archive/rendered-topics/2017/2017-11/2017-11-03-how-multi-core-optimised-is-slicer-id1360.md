@@ -1,3 +1,10 @@
+---
+topic_id: 1360
+title: "How Multi Core Optimised Is Slicer"
+date: 2017-11-03
+url: https://discourse.slicer.org/t/1360
+---
+
 # How multi-core optimised is Slicer?
 
 **Topic ID**: 1360

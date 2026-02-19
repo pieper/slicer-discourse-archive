@@ -1,3 +1,10 @@
+---
+topic_id: 6642
+title: "Slicer Build Errors On Window 7"
+date: 2019-04-29
+url: https://discourse.slicer.org/t/6642
+---
+
 # Slicer build errors on Window 7
 
 **Topic ID**: 6642

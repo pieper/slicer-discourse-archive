@@ -1,3 +1,10 @@
+---
+topic_id: 18164
+title: "Reorientate Register Align Two Segmentation Models Stl Files"
+date: 2021-06-16
+url: https://discourse.slicer.org/t/18164
+---
+
 # Reorientate/Register/Align two segmentation models/STL Files
 
 **Topic ID**: 18164

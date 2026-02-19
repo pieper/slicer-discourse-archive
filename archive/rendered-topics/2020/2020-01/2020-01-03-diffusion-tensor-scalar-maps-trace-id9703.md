@@ -1,3 +1,10 @@
+---
+topic_id: 9703
+title: "Diffusion Tensor Scalar Maps Trace"
+date: 2020-01-03
+url: https://discourse.slicer.org/t/9703
+---
+
 # Diffusion tensor scalar maps - Trace
 
 **Topic ID**: 9703

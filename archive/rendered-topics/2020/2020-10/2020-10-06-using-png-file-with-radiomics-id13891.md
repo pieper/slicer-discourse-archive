@@ -1,3 +1,10 @@
+---
+topic_id: 13891
+title: "Using Png File With Radiomics"
+date: 2020-10-06
+url: https://discourse.slicer.org/t/13891
+---
+
 # Using png file with radiomics
 
 **Topic ID**: 13891

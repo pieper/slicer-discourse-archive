@@ -1,3 +1,10 @@
+---
+topic_id: 30919
+title: "Nrrd Files With 4 Dimensions Are Incompatible For Processing"
+date: 2023-08-01
+url: https://discourse.slicer.org/t/30919
+---
+
 # .nrrd files with 4 dimensions are incompatible for processing in other software
 
 **Topic ID**: 30919

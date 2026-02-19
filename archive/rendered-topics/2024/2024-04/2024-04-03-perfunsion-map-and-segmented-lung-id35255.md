@@ -1,3 +1,10 @@
+---
+topic_id: 35255
+title: "Perfunsion Map And Segmented Lung"
+date: 2024-04-03
+url: https://discourse.slicer.org/t/35255
+---
+
 # Perfunsion Map and Segmented Lung
 
 **Topic ID**: 35255

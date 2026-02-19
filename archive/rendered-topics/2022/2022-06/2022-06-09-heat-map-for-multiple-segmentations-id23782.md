@@ -1,3 +1,10 @@
+---
+topic_id: 23782
+title: "Heat Map For Multiple Segmentations"
+date: 2022-06-09
+url: https://discourse.slicer.org/t/23782
+---
+
 # Heat Map for multiple segmentations
 
 **Topic ID**: 23782

@@ -1,3 +1,10 @@
+---
+topic_id: 19901
+title: "Cant Update Extensions On The Current Stable"
+date: 2021-09-28
+url: https://discourse.slicer.org/t/19901
+---
+
 # Can't update extensions on the current stable
 
 **Topic ID**: 19901

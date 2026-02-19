@@ -1,3 +1,10 @@
+---
+topic_id: 8241
+title: "Simplify Ruler To A Straight Line"
+date: 2019-08-30
+url: https://discourse.slicer.org/t/8241
+---
+
 # Simplify ruler to a straight line
 
 **Topic ID**: 8241

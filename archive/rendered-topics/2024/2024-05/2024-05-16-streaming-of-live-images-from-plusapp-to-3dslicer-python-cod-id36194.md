@@ -1,3 +1,10 @@
+---
+topic_id: 36194
+title: "Streaming Of Live Images From Plusapp To 3Dslicer Python Cod"
+date: 2024-05-16
+url: https://discourse.slicer.org/t/36194
+---
+
 # Streaming of live images from PlusApp to 3DSlicer/Python code (TELEMED Probe)
 
 **Topic ID**: 36194

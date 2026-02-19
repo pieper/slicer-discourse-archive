@@ -1,3 +1,10 @@
+---
+topic_id: 21285
+title: "Feature Extraction From Anisotropic 3D Vois Should We Apply"
+date: 2021-12-31
+url: https://discourse.slicer.org/t/21285
+---
+
 # Feature extraction from anisotropic 3D VOIs: should we apply Force2D potion?
 
 **Topic ID**: 21285

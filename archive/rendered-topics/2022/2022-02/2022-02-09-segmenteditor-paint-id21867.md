@@ -1,3 +1,10 @@
+---
+topic_id: 21867
+title: "Segmenteditor Paint"
+date: 2022-02-09
+url: https://discourse.slicer.org/t/21867
+---
+
 # segmentEditor paint
 
 **Topic ID**: 21867

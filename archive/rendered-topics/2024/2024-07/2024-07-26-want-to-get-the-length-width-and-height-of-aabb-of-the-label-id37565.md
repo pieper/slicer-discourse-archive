@@ -1,3 +1,10 @@
+---
+topic_id: 37565
+title: "Want To Get The Length Width And Height Of Aabb Of The Label"
+date: 2024-07-26
+url: https://discourse.slicer.org/t/37565
+---
+
 # Want to get the length width and height of AABB of the labels
 
 **Topic ID**: 37565

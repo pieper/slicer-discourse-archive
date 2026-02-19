@@ -1,3 +1,10 @@
+---
+topic_id: 44045
+title: "Abnormal Stomach Or Reconstruction Error In The Total Segmen"
+date: 2025-08-11
+url: https://discourse.slicer.org/t/44045
+---
+
 # Abnormal stomach or reconstruction error in the total segmentation extension?
 
 **Topic ID**: 44045

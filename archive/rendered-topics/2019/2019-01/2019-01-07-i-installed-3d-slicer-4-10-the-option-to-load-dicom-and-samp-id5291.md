@@ -1,3 +1,10 @@
+---
+topic_id: 5291
+title: "I Installed 3D Slicer 4 10 The Option To Load Dicom And Samp"
+date: 2019-01-07
+url: https://discourse.slicer.org/t/5291
+---
+
 # i installed 3d slicer 4.10. the option to load DICOM and sample data do not work
 
 **Topic ID**: 5291

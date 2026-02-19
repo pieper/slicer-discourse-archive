@@ -1,3 +1,10 @@
+---
+topic_id: 34049
+title: "How To Get The Segmentation Data"
+date: 2024-01-30
+url: https://discourse.slicer.org/t/34049
+---
+
 # How to get the segmentation data?
 
 **Topic ID**: 34049

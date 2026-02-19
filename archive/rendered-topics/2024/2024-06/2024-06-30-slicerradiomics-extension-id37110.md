@@ -1,3 +1,10 @@
+---
+topic_id: 37110
+title: "Slicerradiomics Extension"
+date: 2024-06-30
+url: https://discourse.slicer.org/t/37110
+---
+
 # SlicerRadiomics extension
 
 **Topic ID**: 37110

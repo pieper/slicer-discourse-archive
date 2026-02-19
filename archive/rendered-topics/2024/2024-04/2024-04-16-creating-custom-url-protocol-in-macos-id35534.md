@@ -1,3 +1,10 @@
+---
+topic_id: 35534
+title: "Creating Custom Url Protocol In Macos"
+date: 2024-04-16
+url: https://discourse.slicer.org/t/35534
+---
+
 # Creating Custom URL protocol in macOS
 
 **Topic ID**: 35534

@@ -1,3 +1,10 @@
+---
+topic_id: 27943
+title: "Error While Trying To Create Mesh"
+date: 2023-02-21
+url: https://discourse.slicer.org/t/27943
+---
+
 # Error while trying to create mesh
 
 **Topic ID**: 27943

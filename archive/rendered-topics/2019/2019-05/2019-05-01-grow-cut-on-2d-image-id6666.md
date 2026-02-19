@@ -1,3 +1,10 @@
+---
+topic_id: 6666
+title: "Grow Cut On 2D Image"
+date: 2019-05-01
+url: https://discourse.slicer.org/t/6666
+---
+
 # Grow-cut on 2D image
 
 **Topic ID**: 6666

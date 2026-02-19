@@ -1,3 +1,10 @@
+---
+topic_id: 6692
+title: "Exported Stl Files From The Segmentation Has Intersection Pe"
+date: 2019-05-04
+url: https://discourse.slicer.org/t/6692
+---
+
 # Exported STL files from the segmentation has intersection/penetration
 
 **Topic ID**: 6692

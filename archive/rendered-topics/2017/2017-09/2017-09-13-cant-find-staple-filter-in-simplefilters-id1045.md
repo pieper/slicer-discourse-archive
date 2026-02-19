@@ -1,3 +1,10 @@
+---
+topic_id: 1045
+title: "Cant Find Staple Filter In Simplefilters"
+date: 2017-09-13
+url: https://discourse.slicer.org/t/1045
+---
+
 # Can't find STAPLE filter in SimpleFilters
 
 **Topic ID**: 1045

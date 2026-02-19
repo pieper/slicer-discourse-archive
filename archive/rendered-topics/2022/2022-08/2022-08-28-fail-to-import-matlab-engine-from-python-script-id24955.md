@@ -1,3 +1,10 @@
+---
+topic_id: 24955
+title: "Fail To Import Matlab Engine From Python Script"
+date: 2022-08-28
+url: https://discourse.slicer.org/t/24955
+---
+
 # Fail to import matlab.engine from python script
 
 **Topic ID**: 24955

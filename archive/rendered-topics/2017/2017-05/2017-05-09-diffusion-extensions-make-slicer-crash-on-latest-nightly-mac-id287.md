@@ -1,3 +1,10 @@
+---
+topic_id: 287
+title: "Diffusion Extensions Make Slicer Crash On Latest Nightly Mac"
+date: 2017-05-09
+url: https://discourse.slicer.org/t/287
+---
+
 # Diffusion extensions make Slicer crash on latest nightly Mac version
 
 **Topic ID**: 287

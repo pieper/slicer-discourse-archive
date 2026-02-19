@@ -1,3 +1,10 @@
+---
+topic_id: 20579
+title: "Fileformaterror When Loading Pet Ct"
+date: 2021-11-11
+url: https://discourse.slicer.org/t/20579
+---
+
 # FileFormatError when loading PET CT
 
 **Topic ID**: 20579

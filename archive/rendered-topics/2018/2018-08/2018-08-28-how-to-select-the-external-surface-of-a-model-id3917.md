@@ -1,3 +1,10 @@
+---
+topic_id: 3917
+title: "How To Select The External Surface Of A Model"
+date: 2018-08-28
+url: https://discourse.slicer.org/t/3917
+---
+
 # How to select the external surface of a model
 
 **Topic ID**: 3917

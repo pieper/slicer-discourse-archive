@@ -1,3 +1,10 @@
+---
+topic_id: 40465
+title: "Segmentation As Dicom Format"
+date: 2024-12-01
+url: https://discourse.slicer.org/t/40465
+---
+
 # Segmentation as dicom format
 
 **Topic ID**: 40465

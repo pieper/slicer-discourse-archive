@@ -1,3 +1,10 @@
+---
+topic_id: 17234
+title: "Screen Capture Problem With Ffmpeg Version"
+date: 2021-04-21
+url: https://discourse.slicer.org/t/17234
+---
+
 # Screen capture problem with FFmpeg version
 
 **Topic ID**: 17234

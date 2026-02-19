@@ -1,3 +1,10 @@
+---
+topic_id: 15873
+title: "Reformat Module Values Not Resetting"
+date: 2021-02-06
+url: https://discourse.slicer.org/t/15873
+---
+
 # Reformat module Values not resetting
 
 **Topic ID**: 15873

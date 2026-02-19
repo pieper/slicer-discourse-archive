@@ -1,3 +1,10 @@
+---
+topic_id: 4053
+title: "Internal Compiler Error In Simpleitk While Building Slicer W"
+date: 2018-09-10
+url: https://discourse.slicer.org/t/4053
+---
+
 # Internal compiler error in SimpleITK while building Slicer with latest VS2015 compiler
 
 **Topic ID**: 4053

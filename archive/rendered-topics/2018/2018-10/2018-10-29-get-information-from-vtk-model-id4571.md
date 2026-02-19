@@ -1,3 +1,10 @@
+---
+topic_id: 4571
+title: "Get Information From Vtk Model"
+date: 2018-10-29
+url: https://discourse.slicer.org/t/4571
+---
+
 # Get information from vtk model
 
 **Topic ID**: 4571

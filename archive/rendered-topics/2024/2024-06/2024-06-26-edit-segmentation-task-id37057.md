@@ -1,3 +1,10 @@
+---
+topic_id: 37057
+title: "Edit Segmentation Task"
+date: 2024-06-26
+url: https://discourse.slicer.org/t/37057
+---
+
 # Edit Segmentation Task
 
 **Topic ID**: 37057

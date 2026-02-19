@@ -1,3 +1,10 @@
+---
+topic_id: 13699
+title: "Vmtk Extension Problem"
+date: 2020-09-25
+url: https://discourse.slicer.org/t/13699
+---
+
 # VMTK Extension Problem
 
 **Topic ID**: 13699

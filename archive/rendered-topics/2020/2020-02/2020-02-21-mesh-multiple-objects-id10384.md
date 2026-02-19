@@ -1,3 +1,10 @@
+---
+topic_id: 10384
+title: "Mesh Multiple Objects"
+date: 2020-02-21
+url: https://discourse.slicer.org/t/10384
+---
+
 # Mesh multiple objects
 
 **Topic ID**: 10384

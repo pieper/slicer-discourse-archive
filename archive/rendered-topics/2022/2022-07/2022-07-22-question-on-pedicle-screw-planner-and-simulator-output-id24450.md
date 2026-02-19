@@ -1,3 +1,10 @@
+---
+topic_id: 24450
+title: "Question On Pedicle Screw Planner And Simulator Output"
+date: 2022-07-22
+url: https://discourse.slicer.org/t/24450
+---
+
 # Question on pedicle screw planner and simulator output
 
 **Topic ID**: 24450

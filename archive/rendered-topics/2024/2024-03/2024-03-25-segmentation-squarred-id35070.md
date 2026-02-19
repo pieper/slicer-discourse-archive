@@ -1,3 +1,10 @@
+---
+topic_id: 35070
+title: "Segmentation Squarred"
+date: 2024-03-25
+url: https://discourse.slicer.org/t/35070
+---
+
 # Segmentation squarred
 
 **Topic ID**: 35070

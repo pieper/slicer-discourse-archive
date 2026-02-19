@@ -1,3 +1,10 @@
+---
+topic_id: 7530
+title: "Update 3D View If Node Changes"
+date: 2019-07-11
+url: https://discourse.slicer.org/t/7530
+---
+
 # Update 3D view if node changes
 
 **Topic ID**: 7530

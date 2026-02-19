@@ -1,3 +1,10 @@
+---
+topic_id: 19013
+title: "Slicerpacsconnector Available For Testing"
+date: 2021-08-01
+url: https://discourse.slicer.org/t/19013
+---
+
 # SlicerPACSConnector available for testing
 
 **Topic ID**: 19013

@@ -1,3 +1,10 @@
+---
+topic_id: 33532
+title: "Stop Code Execution Until Event"
+date: 2023-12-27
+url: https://discourse.slicer.org/t/33532
+---
+
 # Stop code execution until Event
 
 **Topic ID**: 33532

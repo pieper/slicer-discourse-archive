@@ -1,3 +1,10 @@
+---
+topic_id: 6559
+title: "Labels For Fudicial Markups Not Appearing Until 5Th 6Th Fidu"
+date: 2019-04-22
+url: https://discourse.slicer.org/t/6559
+---
+
 # Labels for Fudicial Markups Not Appearing Until 5th-6th Fiducial Is Placed 4.11.0
 
 **Topic ID**: 6559

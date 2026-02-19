@@ -1,3 +1,10 @@
+---
+topic_id: 12306
+title: "Angleplanes Extension Not Working Properly"
+date: 2020-06-30
+url: https://discourse.slicer.org/t/12306
+---
+
 # AnglePlanes Extension not working properly
 
 **Topic ID**: 12306

@@ -1,3 +1,10 @@
+---
+topic_id: 40007
+title: "Cannot Import Dicom Data Required Information Patient Name P"
+date: 2024-11-04
+url: https://discourse.slicer.org/t/40007
+---
+
 # Cannot import DICOM data - Required information (patient name, patient ID, study instance UID) is missing from dataset
 
 **Topic ID**: 40007

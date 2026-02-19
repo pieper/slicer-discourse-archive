@@ -1,3 +1,10 @@
+---
+topic_id: 5772
+title: "Get Image Data From Reformatted Ct Volume Slice"
+date: 2019-02-13
+url: https://discourse.slicer.org/t/5772
+---
+
 # Get image data from reformatted CT volume slice
 
 **Topic ID**: 5772

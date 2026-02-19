@@ -1,3 +1,10 @@
+---
+topic_id: 5906
+title: "Convert Vessel Centerline Model To Image Volume"
+date: 2019-02-25
+url: https://discourse.slicer.org/t/5906
+---
+
 # Convert vessel centerline model to image volume
 
 **Topic ID**: 5906

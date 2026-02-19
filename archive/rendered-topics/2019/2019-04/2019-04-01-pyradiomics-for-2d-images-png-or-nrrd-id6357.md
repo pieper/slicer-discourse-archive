@@ -1,3 +1,10 @@
+---
+topic_id: 6357
+title: "Pyradiomics For 2D Images Png Or Nrrd"
+date: 2019-04-01
+url: https://discourse.slicer.org/t/6357
+---
+
 # PyRadiomics for 2D images (png or nrrd)
 
 **Topic ID**: 6357

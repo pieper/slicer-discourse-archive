@@ -1,3 +1,10 @@
+---
+topic_id: 17372
+title: "Relicensing Slicer Source For Itk"
+date: 2021-04-28
+url: https://discourse.slicer.org/t/17372
+---
+
 # Relicensing Slicer source for ITK
 
 **Topic ID**: 17372

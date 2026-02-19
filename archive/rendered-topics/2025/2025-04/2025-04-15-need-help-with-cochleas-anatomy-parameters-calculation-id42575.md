@@ -1,3 +1,10 @@
+---
+topic_id: 42575
+title: "Need Help With Cochleas Anatomy Parameters Calculation"
+date: 2025-04-15
+url: https://discourse.slicer.org/t/42575
+---
+
 # Need help with Cochlea's anatomy parameters calculation
 
 **Topic ID**: 42575

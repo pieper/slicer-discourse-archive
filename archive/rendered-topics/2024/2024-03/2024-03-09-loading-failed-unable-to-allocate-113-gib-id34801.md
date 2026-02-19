@@ -1,3 +1,10 @@
+---
+topic_id: 34801
+title: "Loading Failed Unable To Allocate 113 Gib"
+date: 2024-03-09
+url: https://discourse.slicer.org/t/34801
+---
+
 # loading failed: Unable to allocate 113 GiB
 
 **Topic ID**: 34801

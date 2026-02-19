@@ -1,3 +1,10 @@
+---
+topic_id: 2496
+title: "Python Real Different From Python Interpreter"
+date: 2018-04-02
+url: https://discourse.slicer.org/t/2496
+---
+
 # python-real different from python interpreter
 
 **Topic ID**: 2496

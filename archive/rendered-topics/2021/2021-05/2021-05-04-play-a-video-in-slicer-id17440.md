@@ -1,3 +1,10 @@
+---
+topic_id: 17440
+title: "Play A Video In Slicer"
+date: 2021-05-04
+url: https://discourse.slicer.org/t/17440
+---
+
 # Play a video in slicer
 
 **Topic ID**: 17440

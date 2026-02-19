@@ -1,3 +1,10 @@
+---
+topic_id: 10220
+title: "Python How To Centre Volume On Load"
+date: 2020-02-12
+url: https://discourse.slicer.org/t/10220
+---
+
 # Python : how to centre volume on load?
 
 **Topic ID**: 10220

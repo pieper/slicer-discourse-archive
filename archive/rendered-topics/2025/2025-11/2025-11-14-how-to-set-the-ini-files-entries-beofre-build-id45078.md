@@ -1,3 +1,10 @@
+---
+topic_id: 45078
+title: "How To Set The Ini Files Entries Beofre Build"
+date: 2025-11-14
+url: https://discourse.slicer.org/t/45078
+---
+
 # How to set the .ini file's entries beofre build?
 
 **Topic ID**: 45078

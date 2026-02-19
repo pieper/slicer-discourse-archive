@@ -1,3 +1,10 @@
+---
+topic_id: 42763
+title: "Slicervmtk Not Building On Cdash For Stable"
+date: 2025-05-01
+url: https://discourse.slicer.org/t/42763
+---
+
 # SlicerVMTK not building on cdash for stable
 
 **Topic ID**: 42763

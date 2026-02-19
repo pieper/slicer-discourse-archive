@@ -1,3 +1,10 @@
+---
+topic_id: 32860
+title: "Trying To Save Edits To A Dicom File"
+date: 2023-11-16
+url: https://discourse.slicer.org/t/32860
+---
+
 # Trying to save edits to a DICOM file
 
 **Topic ID**: 32860

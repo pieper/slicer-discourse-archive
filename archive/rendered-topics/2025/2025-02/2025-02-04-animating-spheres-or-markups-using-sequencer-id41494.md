@@ -1,3 +1,10 @@
+---
+topic_id: 41494
+title: "Animating Spheres Or Markups Using Sequencer"
+date: 2025-02-04
+url: https://discourse.slicer.org/t/41494
+---
+
 # Animating Spheres (or markups) Using Sequencer
 
 **Topic ID**: 41494

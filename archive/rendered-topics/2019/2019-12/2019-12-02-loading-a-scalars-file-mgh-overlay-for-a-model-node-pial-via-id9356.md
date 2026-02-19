@@ -1,3 +1,10 @@
+---
+topic_id: 9356
+title: "Loading A Scalars File Mgh Overlay For A Model Node Pial Via"
+date: 2019-12-02
+url: https://discourse.slicer.org/t/9356
+---
+
 # Loading a Scalars file (.mgh) Overlay for a Model Node (.pial) via Python
 
 **Topic ID**: 9356

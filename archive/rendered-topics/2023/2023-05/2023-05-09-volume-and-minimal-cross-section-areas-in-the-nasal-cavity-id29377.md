@@ -1,3 +1,10 @@
+---
+topic_id: 29377
+title: "Volume And Minimal Cross Section Areas In The Nasal Cavity"
+date: 2023-05-09
+url: https://discourse.slicer.org/t/29377
+---
+
 # Volume and minimal cross section areas in the nasal cavity
 
 **Topic ID**: 29377

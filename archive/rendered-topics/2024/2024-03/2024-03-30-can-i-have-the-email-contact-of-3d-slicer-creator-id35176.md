@@ -1,3 +1,10 @@
+---
+topic_id: 35176
+title: "Can I Have The Email Contact Of 3D Slicer Creator"
+date: 2024-03-30
+url: https://discourse.slicer.org/t/35176
+---
+
 # Can I have the email Contact of 3D slicer creator?
 
 **Topic ID**: 35176

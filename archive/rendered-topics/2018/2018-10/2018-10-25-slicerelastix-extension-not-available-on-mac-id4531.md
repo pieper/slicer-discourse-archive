@@ -1,3 +1,10 @@
+---
+topic_id: 4531
+title: "Slicerelastix Extension Not Available On Mac"
+date: 2018-10-25
+url: https://discourse.slicer.org/t/4531
+---
+
 # SlicerElastix extension not available on Mac
 
 **Topic ID**: 4531

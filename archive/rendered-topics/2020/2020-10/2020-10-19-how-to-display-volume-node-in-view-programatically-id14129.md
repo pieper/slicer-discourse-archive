@@ -1,3 +1,10 @@
+---
+topic_id: 14129
+title: "How To Display Volume Node In View Programatically"
+date: 2020-10-19
+url: https://discourse.slicer.org/t/14129
+---
+
 # How to display volume node in view programatically
 
 **Topic ID**: 14129

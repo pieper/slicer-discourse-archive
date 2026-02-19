@@ -1,3 +1,10 @@
+---
+topic_id: 14390
+title: "Great Developer For Slicer Alex Vergara"
+date: 2020-11-02
+url: https://discourse.slicer.org/t/14390
+---
+
 # Great developer for SLICER >> Alex Vergara
 
 **Topic ID**: 14390

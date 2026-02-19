@@ -1,3 +1,10 @@
+---
+topic_id: 27413
+title: "Local Threshold Restrict Threshold Operation To User Defined"
+date: 2023-01-23
+url: https://discourse.slicer.org/t/27413
+---
+
 # Local Threshold --> restrict threshold operation to user-defined 3D region --> how to?
 
 **Topic ID**: 27413

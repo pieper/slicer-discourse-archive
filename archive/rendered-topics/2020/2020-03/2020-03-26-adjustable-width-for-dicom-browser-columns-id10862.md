@@ -1,3 +1,10 @@
+---
+topic_id: 10862
+title: "Adjustable Width For Dicom Browser Columns"
+date: 2020-03-26
+url: https://discourse.slicer.org/t/10862
+---
+
 # Adjustable width for DICOM browser columns
 
 **Topic ID**: 10862

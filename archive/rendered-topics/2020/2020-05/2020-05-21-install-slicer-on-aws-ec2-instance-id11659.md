@@ -1,3 +1,10 @@
+---
+topic_id: 11659
+title: "Install Slicer On Aws Ec2 Instance"
+date: 2020-05-21
+url: https://discourse.slicer.org/t/11659
+---
+
 # Install Slicer on AWS EC2 instance
 
 **Topic ID**: 11659

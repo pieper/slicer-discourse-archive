@@ -1,3 +1,10 @@
+---
+topic_id: 29353
+title: "Freesurfer Skull Stripping Inside 3D Slicer"
+date: 2023-05-08
+url: https://discourse.slicer.org/t/29353
+---
+
 # FreeSurfer skull stripping inside 3D Slicer
 
 **Topic ID**: 29353

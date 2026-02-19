@@ -1,3 +1,10 @@
+---
+topic_id: 29811
+title: "Cardiac Electrophysiology Module Not Shown"
+date: 2023-06-02
+url: https://discourse.slicer.org/t/29811
+---
+
 # Cardiac Electrophysiology module not shown
 
 **Topic ID**: 29811

@@ -1,3 +1,10 @@
+---
+topic_id: 10422
+title: "Getting Vtkmrmlslicenodegreen Vtkmrmlslicenodered Vtkmrmlsli"
+date: 2020-02-24
+url: https://discourse.slicer.org/t/10422
+---
+
 # Getting vtkMRMLSliceNodeGreen, vtkMRMLSliceNodeRed, vtkMRMLSliceNodeYellow data into numpy array
 
 **Topic ID**: 10422

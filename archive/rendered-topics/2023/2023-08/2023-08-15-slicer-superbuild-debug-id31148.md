@@ -1,3 +1,10 @@
+---
+topic_id: 31148
+title: "Slicer Superbuild Debug"
+date: 2023-08-15
+url: https://discourse.slicer.org/t/31148
+---
+
 # Slicer-SuperBuild-Debug
 
 **Topic ID**: 31148

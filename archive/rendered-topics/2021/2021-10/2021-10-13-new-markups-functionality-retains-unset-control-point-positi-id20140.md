@@ -1,3 +1,10 @@
+---
+topic_id: 20140
+title: "New Markups Functionality Retains Unset Control Point Positi"
+date: 2021-10-13
+url: https://discourse.slicer.org/t/20140
+---
+
 # New Markups functionality retains unset control point positions
 
 **Topic ID**: 20140

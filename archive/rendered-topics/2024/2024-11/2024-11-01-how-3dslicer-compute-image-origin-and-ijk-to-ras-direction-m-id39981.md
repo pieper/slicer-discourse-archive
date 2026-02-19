@@ -1,3 +1,10 @@
+---
+topic_id: 39981
+title: "How 3Dslicer Compute Image Origin And Ijk To Ras Direction M"
+date: 2024-11-01
+url: https://discourse.slicer.org/t/39981
+---
+
 # How 3DSlicer compute image origin and IJK to RAS direction matrix.
 
 **Topic ID**: 39981

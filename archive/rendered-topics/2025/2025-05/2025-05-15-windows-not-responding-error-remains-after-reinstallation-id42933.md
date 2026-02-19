@@ -1,3 +1,10 @@
+---
+topic_id: 42933
+title: "Windows Not Responding Error Remains After Reinstallation"
+date: 2025-05-15
+url: https://discourse.slicer.org/t/42933
+---
+
 # Windows "not responding" error remains after reinstallation
 
 **Topic ID**: 42933

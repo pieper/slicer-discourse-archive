@@ -1,3 +1,10 @@
+---
+topic_id: 14013
+title: "How To Use Signals And Slots In Slicer 3D"
+date: 2020-10-13
+url: https://discourse.slicer.org/t/14013
+---
+
 # How to use signals and slots in Slicer 3d?
 
 **Topic ID**: 14013

@@ -1,3 +1,10 @@
+---
+topic_id: 15998
+title: "Update Markups Once Placed In Landmark Registration"
+date: 2021-02-15
+url: https://discourse.slicer.org/t/15998
+---
+
 # Update markups once placed in Landmark registration
 
 **Topic ID**: 15998

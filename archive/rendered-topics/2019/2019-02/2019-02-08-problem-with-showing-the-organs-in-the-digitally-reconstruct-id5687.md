@@ -1,3 +1,10 @@
+---
+topic_id: 5687
+title: "Problem With Showing The Organs In The Digitally Reconstruct"
+date: 2019-02-08
+url: https://discourse.slicer.org/t/5687
+---
+
 # Problem with showing the organs in the Digitally Reconstructed Radiographs(DRR)
 
 **Topic ID**: 5687

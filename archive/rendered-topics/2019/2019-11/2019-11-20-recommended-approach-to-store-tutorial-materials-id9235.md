@@ -1,3 +1,10 @@
+---
+topic_id: 9235
+title: "Recommended Approach To Store Tutorial Materials"
+date: 2019-11-20
+url: https://discourse.slicer.org/t/9235
+---
+
 # Recommended approach to store tutorial materials
 
 **Topic ID**: 9235

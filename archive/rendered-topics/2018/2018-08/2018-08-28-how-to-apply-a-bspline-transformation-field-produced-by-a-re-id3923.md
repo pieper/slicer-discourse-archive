@@ -1,3 +1,10 @@
+---
+topic_id: 3923
+title: "How To Apply A Bspline Transformation Field Produced By A Re"
+date: 2018-08-28
+url: https://discourse.slicer.org/t/3923
+---
+
 # How to apply a BSpline Transformation Field(produced by a registration) to another volume image(for DeepLearning Data Augmentation)? 
 
 **Topic ID**: 3923

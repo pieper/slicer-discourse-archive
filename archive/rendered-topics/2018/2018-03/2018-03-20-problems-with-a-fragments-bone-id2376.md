@@ -1,3 +1,10 @@
+---
+topic_id: 2376
+title: "Problems With A Fragments Bone"
+date: 2018-03-20
+url: https://discourse.slicer.org/t/2376
+---
+
 # Problems with a fragments bone
 
 **Topic ID**: 2376

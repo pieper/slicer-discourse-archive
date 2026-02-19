@@ -1,3 +1,10 @@
+---
+topic_id: 28787
+title: "Integration Of Segment Anything Model"
+date: 2023-04-07
+url: https://discourse.slicer.org/t/28787
+---
+
 # Integration of “Segment Anything Model”?
 
 **Topic ID**: 28787

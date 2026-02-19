@@ -1,3 +1,10 @@
+---
+topic_id: 7542
+title: "Segmentation And Quantification Validated Publications For 3"
+date: 2019-07-11
+url: https://discourse.slicer.org/t/7542
+---
+
 # Segmentation and Quantification : validated publications for 3D Slicer
 
 **Topic ID**: 7542

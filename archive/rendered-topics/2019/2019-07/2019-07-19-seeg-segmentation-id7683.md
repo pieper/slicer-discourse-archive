@@ -1,3 +1,10 @@
+---
+topic_id: 7683
+title: "Seeg Segmentation"
+date: 2019-07-19
+url: https://discourse.slicer.org/t/7683
+---
+
 # SEEG segmentation
 
 **Topic ID**: 7683

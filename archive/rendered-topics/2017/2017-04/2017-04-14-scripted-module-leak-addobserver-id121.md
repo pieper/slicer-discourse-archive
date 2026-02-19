@@ -1,3 +1,10 @@
+---
+topic_id: 121
+title: "Scripted Module Leak Addobserver"
+date: 2017-04-14
+url: https://discourse.slicer.org/t/121
+---
+
 # Scripted Module Leak - Addobserver
 
 **Topic ID**: 121

@@ -1,3 +1,10 @@
+---
+topic_id: 12834
+title: "Volume Measurement Of The Vessel Model"
+date: 2020-08-03
+url: https://discourse.slicer.org/t/12834
+---
+
 # Volume measurement of the vessel model
 
 **Topic ID**: 12834

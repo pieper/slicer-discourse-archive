@@ -1,3 +1,10 @@
+---
+topic_id: 35307
+title: "Fiducial Registration Wizard Only Fiducials Move Not Segment"
+date: 2024-04-05
+url: https://discourse.slicer.org/t/35307
+---
+
 # Fiducial Registration Wizard:only fiducials move, not segmentation
 
 **Topic ID**: 35307

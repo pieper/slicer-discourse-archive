@@ -1,3 +1,10 @@
+---
+topic_id: 9760
+title: "Slicer 4 11 0 Missing Modules After Crash"
+date: 2020-01-09
+url: https://discourse.slicer.org/t/9760
+---
+
 # Slicer 4.11.0 missing modules after crash
 
 **Topic ID**: 9760

@@ -1,3 +1,10 @@
+---
+topic_id: 22236
+title: "Improving Segmentation Procedure"
+date: 2022-03-01
+url: https://discourse.slicer.org/t/22236
+---
+
 # Improving segmentation procedure
 
 **Topic ID**: 22236

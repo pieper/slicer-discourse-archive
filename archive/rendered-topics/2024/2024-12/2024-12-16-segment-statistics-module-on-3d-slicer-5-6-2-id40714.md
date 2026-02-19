@@ -1,3 +1,10 @@
+---
+topic_id: 40714
+title: "Segment Statistics Module On 3D Slicer 5 6 2"
+date: 2024-12-16
+url: https://discourse.slicer.org/t/40714
+---
+
 # Segment Statistics Module on 3D Slicer 5.6.2
 
 **Topic ID**: 40714

@@ -1,3 +1,10 @@
+---
+topic_id: 8512
+title: "Improvements In Atlas Management Model Hierarchy Refactoring"
+date: 2019-09-20
+url: https://discourse.slicer.org/t/8512
+---
+
 # Improvements in atlas management: model hierarchy refactoring
 
 **Topic ID**: 8512

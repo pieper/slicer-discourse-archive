@@ -1,3 +1,10 @@
+---
+topic_id: 29442
+title: "Dti Measurements Spherical And Linear"
+date: 2023-05-13
+url: https://discourse.slicer.org/t/29442
+---
+
 # DTI measurements: spherical and linear
 
 **Topic ID**: 29442

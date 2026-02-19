@@ -1,3 +1,10 @@
+---
+topic_id: 34713
+title: "Plane And Model Intersection"
+date: 2024-03-05
+url: https://discourse.slicer.org/t/34713
+---
+
 # Plane and model intersection
 
 **Topic ID**: 34713

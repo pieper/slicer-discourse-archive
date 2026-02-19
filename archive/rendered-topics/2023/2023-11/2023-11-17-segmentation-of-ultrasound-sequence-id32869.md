@@ -1,3 +1,10 @@
+---
+topic_id: 32869
+title: "Segmentation Of Ultrasound Sequence"
+date: 2023-11-17
+url: https://discourse.slicer.org/t/32869
+---
+
 # Segmentation of ultrasound sequence
 
 **Topic ID**: 32869

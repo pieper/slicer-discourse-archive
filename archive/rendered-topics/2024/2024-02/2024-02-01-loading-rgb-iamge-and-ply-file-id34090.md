@@ -1,3 +1,10 @@
+---
+topic_id: 34090
+title: "Loading Rgb Iamge And Ply File"
+date: 2024-02-01
+url: https://discourse.slicer.org/t/34090
+---
+
 # Loading rgb iamge and .ply file
 
 **Topic ID**: 34090

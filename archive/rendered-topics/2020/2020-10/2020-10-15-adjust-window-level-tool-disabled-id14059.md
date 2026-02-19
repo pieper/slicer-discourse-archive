@@ -1,3 +1,10 @@
+---
+topic_id: 14059
+title: "Adjust Window Level Tool Disabled"
+date: 2020-10-15
+url: https://discourse.slicer.org/t/14059
+---
+
 # Adjust Window Level Tool disabled
 
 **Topic ID**: 14059

@@ -1,3 +1,10 @@
+---
+topic_id: 13455
+title: "Segment Registration"
+date: 2020-09-12
+url: https://discourse.slicer.org/t/13455
+---
+
 # Segment registration
 
 **Topic ID**: 13455

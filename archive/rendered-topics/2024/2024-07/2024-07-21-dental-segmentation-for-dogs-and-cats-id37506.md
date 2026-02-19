@@ -1,3 +1,10 @@
+---
+topic_id: 37506
+title: "Dental Segmentation For Dogs And Cats"
+date: 2024-07-21
+url: https://discourse.slicer.org/t/37506
+---
+
 # Dental segmentation for dogs and cats
 
 **Topic ID**: 37506

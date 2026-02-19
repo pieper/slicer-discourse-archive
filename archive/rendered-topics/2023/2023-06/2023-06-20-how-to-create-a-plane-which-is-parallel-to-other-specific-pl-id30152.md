@@ -1,3 +1,10 @@
+---
+topic_id: 30152
+title: "How To Create A Plane Which Is Parallel To Other Specific Pl"
+date: 2023-06-20
+url: https://discourse.slicer.org/t/30152
+---
+
 # How to create a plane which is parallel to other specific plane in Slicer 3D
 
 **Topic ID**: 30152

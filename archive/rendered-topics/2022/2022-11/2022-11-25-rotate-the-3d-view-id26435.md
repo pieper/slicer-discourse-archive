@@ -1,3 +1,10 @@
+---
+topic_id: 26435
+title: "Rotate The 3D View"
+date: 2022-11-25
+url: https://discourse.slicer.org/t/26435
+---
+
 # Rotate the 3D View
 
 **Topic ID**: 26435

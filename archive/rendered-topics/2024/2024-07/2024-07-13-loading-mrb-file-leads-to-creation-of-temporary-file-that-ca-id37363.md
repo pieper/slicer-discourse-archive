@@ -1,3 +1,10 @@
+---
+topic_id: 37363
+title: "Loading Mrb File Leads To Creation Of Temporary File That Ca"
+date: 2024-07-13
+url: https://discourse.slicer.org/t/37363
+---
+
 # Loading MRB file Leads to Creation of Temporary File that Cannot be Deleted
 
 **Topic ID**: 37363

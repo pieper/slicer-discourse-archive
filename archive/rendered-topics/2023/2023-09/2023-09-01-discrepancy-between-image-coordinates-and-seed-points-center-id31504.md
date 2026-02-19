@@ -1,3 +1,10 @@
+---
+topic_id: 31504
+title: "Discrepancy Between Image Coordinates And Seed Points Center"
+date: 2023-09-01
+url: https://discourse.slicer.org/t/31504
+---
+
 # Discrepancy between image coordinates and seed points centerline extraction
 
 **Topic ID**: 31504

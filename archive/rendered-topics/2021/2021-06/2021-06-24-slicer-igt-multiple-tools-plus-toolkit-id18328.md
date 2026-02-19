@@ -1,3 +1,10 @@
+---
+topic_id: 18328
+title: "Slicer Igt Multiple Tools Plus Toolkit"
+date: 2021-06-24
+url: https://discourse.slicer.org/t/18328
+---
+
 # Slicer IGT Multiple Tools, Plus ToolKit
 
 **Topic ID**: 18328

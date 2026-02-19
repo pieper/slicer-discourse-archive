@@ -1,3 +1,10 @@
+---
+topic_id: 34386
+title: "Addnewnodebyclass Basename Does Not Increment"
+date: 2024-02-18
+url: https://discourse.slicer.org/t/34386
+---
+
 # AddNewNodeByClass: basename does not increment
 
 **Topic ID**: 34386

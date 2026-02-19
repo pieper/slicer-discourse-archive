@@ -1,3 +1,10 @@
+---
+topic_id: 11784
+title: "I Cant Select Rt When I Select Export Type"
+date: 2020-05-29
+url: https://discourse.slicer.org/t/11784
+---
+
 # I can't select RT when I select export type
 
 **Topic ID**: 11784

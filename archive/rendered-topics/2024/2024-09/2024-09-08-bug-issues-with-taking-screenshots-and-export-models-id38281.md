@@ -1,3 +1,10 @@
+---
+topic_id: 38281
+title: "Bug Issues With Taking Screenshots And Export Models"
+date: 2024-09-08
+url: https://discourse.slicer.org/t/38281
+---
+
 # Bug, issues with taking screenshots and export models
 
 **Topic ID**: 38281

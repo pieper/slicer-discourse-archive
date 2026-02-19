@@ -1,3 +1,10 @@
+---
+topic_id: 11788
+title: "I Cannot Dicom Image Export With A Segment"
+date: 2020-05-29
+url: https://discourse.slicer.org/t/11788
+---
+
 # I cannot DICOM image export with a segment
 
 **Topic ID**: 11788

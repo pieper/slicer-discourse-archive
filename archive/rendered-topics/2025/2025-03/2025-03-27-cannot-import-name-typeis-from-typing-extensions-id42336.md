@@ -1,3 +1,10 @@
+---
+topic_id: 42336
+title: "Cannot Import Name Typeis From Typing Extensions"
+date: 2025-03-27
+url: https://discourse.slicer.org/t/42336
+---
+
 # Cannot import name 'TypeIs' from 'typing_extensions'
 
 **Topic ID**: 42336

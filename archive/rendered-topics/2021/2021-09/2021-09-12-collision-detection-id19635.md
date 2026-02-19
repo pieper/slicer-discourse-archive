@@ -1,3 +1,10 @@
+---
+topic_id: 19635
+title: "Collision Detection"
+date: 2021-09-12
+url: https://discourse.slicer.org/t/19635
+---
+
 # Collision Detection
 
 **Topic ID**: 19635

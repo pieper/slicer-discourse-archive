@@ -1,3 +1,10 @@
+---
+topic_id: 29340
+title: "How To Export The Overlap Mr Images In The Slice View"
+date: 2023-05-08
+url: https://discourse.slicer.org/t/29340
+---
+
 # How to export the overlap MR images in the slice view
 
 **Topic ID**: 29340

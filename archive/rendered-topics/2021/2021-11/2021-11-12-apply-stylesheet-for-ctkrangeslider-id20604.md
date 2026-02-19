@@ -1,3 +1,10 @@
+---
+topic_id: 20604
+title: "Apply Stylesheet For Ctkrangeslider"
+date: 2021-11-12
+url: https://discourse.slicer.org/t/20604
+---
+
 # Apply stylesheet for `ctkRangeSlider`
 
 **Topic ID**: 20604

@@ -1,3 +1,10 @@
+---
+topic_id: 7322
+title: "Build Failure Windows"
+date: 2019-06-26
+url: https://discourse.slicer.org/t/7322
+---
+
 # Build failure windows
 
 **Topic ID**: 7322

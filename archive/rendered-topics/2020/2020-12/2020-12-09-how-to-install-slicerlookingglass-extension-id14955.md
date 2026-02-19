@@ -1,3 +1,10 @@
+---
+topic_id: 14955
+title: "How To Install Slicerlookingglass Extension"
+date: 2020-12-09
+url: https://discourse.slicer.org/t/14955
+---
+
 # How to install SlicerLookingGlass extension
 
 **Topic ID**: 14955

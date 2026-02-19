@@ -1,3 +1,10 @@
+---
+topic_id: 4061
+title: "Exporting Fibre Vector To Other Softwares"
+date: 2018-09-11
+url: https://discourse.slicer.org/t/4061
+---
+
 # Exporting fibre vector to other softwares
 
 **Topic ID**: 4061

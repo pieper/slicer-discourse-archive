@@ -1,3 +1,10 @@
+---
+topic_id: 29618
+title: "Coordinate Systems And Transformations In 3D Object Manipula"
+date: 2023-05-24
+url: https://discourse.slicer.org/t/29618
+---
+
 # Coordinate Systems and Transformations in 3D Object Manipulation
 
 **Topic ID**: 29618

@@ -1,3 +1,10 @@
+---
+topic_id: 25676
+title: "Quantification Based On Centerline Curve Or Centerline Model"
+date: 2022-10-13
+url: https://discourse.slicer.org/t/25676
+---
+
 # Quantification based on centerline curve or centerline model?
 
 **Topic ID**: 25676

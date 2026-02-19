@@ -1,3 +1,10 @@
+---
+topic_id: 23819
+title: "On Ubuntu 22 04 It Is Not Possible To Install Extensions Usi"
+date: 2022-06-10
+url: https://discourse.slicer.org/t/23819
+---
+
 # On Ubuntu 22.04, it is not possible to install extensions using either stable or preview build
 
 **Topic ID**: 23819

@@ -1,3 +1,10 @@
+---
+topic_id: 6536
+title: "Sample Data Download Failure"
+date: 2019-04-18
+url: https://discourse.slicer.org/t/6536
+---
+
 # Sample data download failure
 
 **Topic ID**: 6536

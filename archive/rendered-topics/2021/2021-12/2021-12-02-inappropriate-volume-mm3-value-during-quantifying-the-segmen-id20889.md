@@ -1,3 +1,10 @@
+---
+topic_id: 20889
+title: "Inappropriate Volume Mm3 Value During Quantifying The Segmen"
+date: 2021-12-02
+url: https://discourse.slicer.org/t/20889
+---
+
 # Inappropriate volume mm3 value during quantifying the segments
 
 **Topic ID**: 20889

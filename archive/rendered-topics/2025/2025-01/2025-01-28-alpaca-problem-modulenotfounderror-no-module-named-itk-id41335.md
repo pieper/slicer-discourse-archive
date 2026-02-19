@@ -1,3 +1,10 @@
+---
+topic_id: 41335
+title: "Alpaca Problem Modulenotfounderror No Module Named Itk"
+date: 2025-01-28
+url: https://discourse.slicer.org/t/41335
+---
+
 # ALPACA problem: ModuleNotFoundError: No module named 'itk'
 
 **Topic ID**: 41335

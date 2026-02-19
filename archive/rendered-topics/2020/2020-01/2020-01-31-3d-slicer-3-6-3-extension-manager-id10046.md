@@ -1,3 +1,10 @@
+---
+topic_id: 10046
+title: "3D Slicer 3 6 3 Extension Manager"
+date: 2020-01-31
+url: https://discourse.slicer.org/t/10046
+---
+
 # 3D Slicer 3.6.3. extension manager
 
 **Topic ID**: 10046

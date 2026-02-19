@@ -1,3 +1,10 @@
+---
+topic_id: 10091
+title: "Slicerfab Incomplete Export Of Volume"
+date: 2020-02-03
+url: https://discourse.slicer.org/t/10091
+---
+
 # SlicerFab - Incomplete Export of Volume
 
 **Topic ID**: 10091

@@ -1,3 +1,10 @@
+---
+topic_id: 12765
+title: "Pet Normalisation Before Radiomics"
+date: 2020-07-29
+url: https://discourse.slicer.org/t/12765
+---
+
 # PET normalisation before Radiomics
 
 **Topic ID**: 12765

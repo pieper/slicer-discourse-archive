@@ -1,3 +1,10 @@
+---
+topic_id: 1596
+title: "What Spec Gpu Is Required For Gpu Volumentric Rendering"
+date: 2017-12-05
+url: https://discourse.slicer.org/t/1596
+---
+
 # What spec GPU is required for GPU volumentric rendering?
 
 **Topic ID**: 1596

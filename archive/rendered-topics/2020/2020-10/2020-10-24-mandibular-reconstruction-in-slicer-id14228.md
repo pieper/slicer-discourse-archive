@@ -1,3 +1,10 @@
+---
+topic_id: 14228
+title: "Mandibular Reconstruction In Slicer"
+date: 2020-10-24
+url: https://discourse.slicer.org/t/14228
+---
+
 # Mandibular reconstruction in Slicer
 
 **Topic ID**: 14228

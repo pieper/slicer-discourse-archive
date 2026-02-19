@@ -1,3 +1,10 @@
+---
+topic_id: 11753
+title: "Toggle Off Volume Names"
+date: 2020-05-28
+url: https://discourse.slicer.org/t/11753
+---
+
 # Toggle off volume names
 
 **Topic ID**: 11753

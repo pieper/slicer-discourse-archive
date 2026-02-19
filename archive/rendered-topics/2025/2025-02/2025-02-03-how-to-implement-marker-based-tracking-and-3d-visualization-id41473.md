@@ -1,3 +1,10 @@
+---
+topic_id: 41473
+title: "How To Implement Marker Based Tracking And 3D Visualization"
+date: 2025-02-03
+url: https://discourse.slicer.org/t/41473
+---
+
 # How to Implement Marker-Based Tracking and 3D Visualization in 3D Slicer (Similar to Video Example)
 
 **Topic ID**: 41473

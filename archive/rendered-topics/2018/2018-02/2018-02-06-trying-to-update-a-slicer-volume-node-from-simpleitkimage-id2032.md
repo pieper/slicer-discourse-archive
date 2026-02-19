@@ -1,3 +1,10 @@
+---
+topic_id: 2032
+title: "Trying To Update A Slicer Volume Node From Simpleitkimage"
+date: 2018-02-06
+url: https://discourse.slicer.org/t/2032
+---
+
 # Trying to update a slicer volume node from SimpleITKImage
 
 **Topic ID**: 2032

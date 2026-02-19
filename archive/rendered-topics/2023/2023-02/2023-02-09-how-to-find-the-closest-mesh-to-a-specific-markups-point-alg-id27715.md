@@ -1,3 +1,10 @@
+---
+topic_id: 27715
+title: "How To Find The Closest Mesh To A Specific Markups Point Alg"
+date: 2023-02-09
+url: https://discourse.slicer.org/t/27715
+---
+
 # How to find the closest mesh to a specific markups point (algorithm , idea )
 
 **Topic ID**: 27715

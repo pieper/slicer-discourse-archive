@@ -1,3 +1,10 @@
+---
+topic_id: 995
+title: "How To Do Volumetric Segmentationin Sllicer 4 6 2"
+date: 2017-09-01
+url: https://discourse.slicer.org/t/995
+---
+
 # How to do volumetric segmentationin SLlicer 4.6.2?
 
 **Topic ID**: 995

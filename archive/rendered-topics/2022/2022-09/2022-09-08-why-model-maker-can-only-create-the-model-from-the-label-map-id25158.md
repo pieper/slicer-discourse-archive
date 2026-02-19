@@ -1,3 +1,10 @@
+---
+topic_id: 25158
+title: "Why Model Maker Can Only Create The Model From The Label Map"
+date: 2022-09-08
+url: https://discourse.slicer.org/t/25158
+---
+
 # Why model maker can only create the model from the label map in range 0 to 255?
 
 **Topic ID**: 25158

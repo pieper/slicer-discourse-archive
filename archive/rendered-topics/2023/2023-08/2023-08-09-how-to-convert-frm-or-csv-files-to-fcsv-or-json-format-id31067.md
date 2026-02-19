@@ -1,3 +1,10 @@
+---
+topic_id: 31067
+title: "How To Convert Frm Or Csv Files To Fcsv Or Json Format"
+date: 2023-08-09
+url: https://discourse.slicer.org/t/31067
+---
+
 # How to convert FRM or CSV files to FCSV or JSON format
 
 **Topic ID**: 31067

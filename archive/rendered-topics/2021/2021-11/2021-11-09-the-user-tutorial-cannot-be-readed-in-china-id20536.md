@@ -1,3 +1,10 @@
+---
+topic_id: 20536
+title: "The User Tutorial Cannot Be Readed In China"
+date: 2021-11-09
+url: https://discourse.slicer.org/t/20536
+---
+
 # The user-tutorial cannot be readed in China
 
 **Topic ID**: 20536

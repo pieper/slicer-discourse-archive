@@ -1,3 +1,10 @@
+---
+topic_id: 6211
+title: "Create Extension As Existing Module With Additional Function"
+date: 2019-03-19
+url: https://discourse.slicer.org/t/6211
+---
+
 # Create extension as existing module with additional functions
 
 **Topic ID**: 6211

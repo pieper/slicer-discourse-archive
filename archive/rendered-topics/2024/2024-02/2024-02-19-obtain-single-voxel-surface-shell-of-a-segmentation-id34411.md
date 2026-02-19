@@ -1,3 +1,10 @@
+---
+topic_id: 34411
+title: "Obtain Single Voxel Surface Shell Of A Segmentation"
+date: 2024-02-19
+url: https://discourse.slicer.org/t/34411
+---
+
 # Obtain single-voxel surface/shell of a segmentation
 
 **Topic ID**: 34411

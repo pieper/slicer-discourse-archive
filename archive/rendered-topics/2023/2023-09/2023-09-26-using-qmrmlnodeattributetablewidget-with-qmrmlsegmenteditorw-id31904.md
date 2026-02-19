@@ -1,3 +1,10 @@
+---
+topic_id: 31904
+title: "Using Qmrmlnodeattributetablewidget With Qmrmlsegmenteditorw"
+date: 2023-09-26
+url: https://discourse.slicer.org/t/31904
+---
+
 # Using qMRMLNodeAttributeTableWidget with qMRMLSegmentEditorWidget
 
 **Topic ID**: 31904

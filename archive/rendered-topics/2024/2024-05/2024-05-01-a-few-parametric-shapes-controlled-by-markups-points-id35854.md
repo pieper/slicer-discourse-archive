@@ -1,3 +1,10 @@
+---
+topic_id: 35854
+title: "A Few Parametric Shapes Controlled By Markups Points"
+date: 2024-05-01
+url: https://discourse.slicer.org/t/35854
+---
+
 # A few parametric shapes controlled by markups points
 
 **Topic ID**: 35854

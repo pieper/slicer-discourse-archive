@@ -1,3 +1,10 @@
+---
+topic_id: 10846
+title: "Error While Building 3D Slicer"
+date: 2020-03-26
+url: https://discourse.slicer.org/t/10846
+---
+
 # Error while building 3D Slicer
 
 **Topic ID**: 10846

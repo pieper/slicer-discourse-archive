@@ -1,3 +1,10 @@
+---
+topic_id: 434
+title: "Example Post Pyradiomics 2017 Winter"
+date: 2017-06-02
+url: https://discourse.slicer.org/t/434
+---
+
 # Example post: PyRadiomics (2017 Winter)
 
 **Topic ID**: 434

@@ -1,3 +1,10 @@
+---
+topic_id: 19768
+title: "Move Effects From Segmenteditorextraeffects Into Slicer Core"
+date: 2021-09-20
+url: https://discourse.slicer.org/t/19768
+---
+
 # Move effects from SegmentEditorExtraEffects into Slicer core
 
 **Topic ID**: 19768

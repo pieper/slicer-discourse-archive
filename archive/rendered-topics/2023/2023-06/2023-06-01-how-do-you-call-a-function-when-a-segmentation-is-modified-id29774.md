@@ -1,3 +1,10 @@
+---
+topic_id: 29774
+title: "How Do You Call A Function When A Segmentation Is Modified"
+date: 2023-06-01
+url: https://discourse.slicer.org/t/29774
+---
+
 # How do you call a function when a segmentation is modified?
 
 **Topic ID**: 29774

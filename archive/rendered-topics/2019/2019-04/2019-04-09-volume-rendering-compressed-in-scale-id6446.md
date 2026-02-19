@@ -1,3 +1,10 @@
+---
+topic_id: 6446
+title: "Volume Rendering Compressed In Scale"
+date: 2019-04-09
+url: https://discourse.slicer.org/t/6446
+---
+
 # Volume Rendering Compressed in Scale
 
 **Topic ID**: 6446

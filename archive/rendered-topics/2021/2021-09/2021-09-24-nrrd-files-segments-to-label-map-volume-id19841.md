@@ -1,3 +1,10 @@
+---
+topic_id: 19841
+title: "Nrrd Files Segments To Label Map Volume"
+date: 2021-09-24
+url: https://discourse.slicer.org/t/19841
+---
+
 # .nrrd files segments to label map volume
 
 **Topic ID**: 19841

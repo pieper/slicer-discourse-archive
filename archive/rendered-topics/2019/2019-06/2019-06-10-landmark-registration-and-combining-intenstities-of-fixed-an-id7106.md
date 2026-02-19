@@ -1,3 +1,10 @@
+---
+topic_id: 7106
+title: "Landmark Registration And Combining Intenstities Of Fixed An"
+date: 2019-06-10
+url: https://discourse.slicer.org/t/7106
+---
+
 # Landmark registration and combining intenstities of fixed and moving volume
 
 **Topic ID**: 7106

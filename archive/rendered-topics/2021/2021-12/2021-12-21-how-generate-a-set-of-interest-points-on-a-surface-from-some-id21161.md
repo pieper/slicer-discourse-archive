@@ -1,3 +1,10 @@
+---
+topic_id: 21161
+title: "How Generate A Set Of Interest Points On A Surface From Some"
+date: 2021-12-21
+url: https://discourse.slicer.org/t/21161
+---
+
 # How generate a set of interest points on a surface from some points.
 
 **Topic ID**: 21161

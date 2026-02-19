@@ -1,3 +1,10 @@
+---
+topic_id: 23584
+title: "Resolving Gap Between Centerline And Control Point In Center"
+date: 2022-05-25
+url: https://discourse.slicer.org/t/23584
+---
+
 # Resolving gap between centerline and control point in centerline extraction
 
 **Topic ID**: 23584

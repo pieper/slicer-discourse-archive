@@ -1,3 +1,10 @@
+---
+topic_id: 13374
+title: "Segmentation Different Structure Of Individual Tooth"
+date: 2020-09-07
+url: https://discourse.slicer.org/t/13374
+---
+
 # segmentation different structure of individual tooth
 
 **Topic ID**: 13374

@@ -1,3 +1,10 @@
+---
+topic_id: 42272
+title: "Warning Information About Gyroguide"
+date: 2025-03-24
+url: https://discourse.slicer.org/t/42272
+---
+
 # Warning information about “Gyroguide“
 
 **Topic ID**: 42272

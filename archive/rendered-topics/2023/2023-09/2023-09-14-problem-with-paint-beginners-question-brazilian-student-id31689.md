@@ -1,3 +1,10 @@
+---
+topic_id: 31689
+title: "Problem With Paint Beginners Question Brazilian Student"
+date: 2023-09-14
+url: https://discourse.slicer.org/t/31689
+---
+
 # Problem with paint (beginner's question), brazilian student
 
 **Topic ID**: 31689

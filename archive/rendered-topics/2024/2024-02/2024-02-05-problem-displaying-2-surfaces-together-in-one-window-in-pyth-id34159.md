@@ -1,3 +1,10 @@
+---
+topic_id: 34159
+title: "Problem Displaying 2 Surfaces Together In One Window In Pyth"
+date: 2024-02-05
+url: https://discourse.slicer.org/t/34159
+---
+
 # Problem displaying 2 surfaces together in one window, in Python way
 
 **Topic ID**: 34159

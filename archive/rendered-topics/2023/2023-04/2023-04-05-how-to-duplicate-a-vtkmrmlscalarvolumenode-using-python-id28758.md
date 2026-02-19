@@ -1,3 +1,10 @@
+---
+topic_id: 28758
+title: "How To Duplicate A Vtkmrmlscalarvolumenode Using Python"
+date: 2023-04-05
+url: https://discourse.slicer.org/t/28758
+---
+
 # How to duplicate a vtkMRMLScalarVolumeNode using Python?
 
 **Topic ID**: 28758

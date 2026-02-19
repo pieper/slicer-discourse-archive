@@ -1,3 +1,10 @@
+---
+topic_id: 222
+title: "Notifications Dont Go Away"
+date: 2017-04-28
+url: https://discourse.slicer.org/t/222
+---
+
 # Notifications don't go away
 
 **Topic ID**: 222

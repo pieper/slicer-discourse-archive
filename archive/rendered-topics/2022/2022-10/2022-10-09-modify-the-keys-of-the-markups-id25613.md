@@ -1,3 +1,10 @@
+---
+topic_id: 25613
+title: "Modify The Keys Of The Markups"
+date: 2022-10-09
+url: https://discourse.slicer.org/t/25613
+---
+
 # Modify the keys of the Markups
 
 **Topic ID**: 25613

@@ -1,3 +1,10 @@
+---
+topic_id: 31719
+title: "Question About Threshold Of Pixel Value And Hiding The File"
+date: 2023-09-14
+url: https://discourse.slicer.org/t/31719
+---
+
 # Question about threshold of pixel value and hiding the file name while saving 
 
 **Topic ID**: 31719

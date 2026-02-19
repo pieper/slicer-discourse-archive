@@ -1,3 +1,10 @@
+---
+topic_id: 15427
+title: "Brain Tissues Extension Not Found Separating Brain Tissues"
+date: 2021-01-09
+url: https://discourse.slicer.org/t/15427
+---
+
 # Brain Tissues Extension not found/Separating Brain Tissues
 
 **Topic ID**: 15427

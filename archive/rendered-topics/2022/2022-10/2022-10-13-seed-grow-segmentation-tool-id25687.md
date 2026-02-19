@@ -1,3 +1,10 @@
+---
+topic_id: 25687
+title: "Seed Grow Segmentation Tool"
+date: 2022-10-13
+url: https://discourse.slicer.org/t/25687
+---
+
 # Seed Grow Segmentation tool
 
 **Topic ID**: 25687

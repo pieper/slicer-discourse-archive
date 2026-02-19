@@ -1,3 +1,10 @@
+---
+topic_id: 26215
+title: "How To Use Slicer To Open Dixon Mri Series Lt Have Four Imag"
+date: 2022-11-13
+url: https://discourse.slicer.org/t/26215
+---
+
 # how to use slicer to open  Dixon mri series ?lt have four images but l only see one of them
 
 **Topic ID**: 26215

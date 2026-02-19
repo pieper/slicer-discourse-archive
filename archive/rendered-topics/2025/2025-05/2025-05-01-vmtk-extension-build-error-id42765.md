@@ -1,3 +1,10 @@
+---
+topic_id: 42765
+title: "Vmtk Extension Build Error"
+date: 2025-05-01
+url: https://discourse.slicer.org/t/42765
+---
+
 # VMTK extension build error
 
 **Topic ID**: 42765

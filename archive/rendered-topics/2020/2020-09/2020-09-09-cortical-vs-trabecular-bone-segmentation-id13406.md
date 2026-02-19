@@ -1,3 +1,10 @@
+---
+topic_id: 13406
+title: "Cortical Vs Trabecular Bone Segmentation"
+date: 2020-09-09
+url: https://discourse.slicer.org/t/13406
+---
+
 # Cortical vs Trabecular Bone Segmentation
 
 **Topic ID**: 13406

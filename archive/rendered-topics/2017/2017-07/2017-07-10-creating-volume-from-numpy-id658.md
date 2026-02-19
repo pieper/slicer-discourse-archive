@@ -1,3 +1,10 @@
+---
+topic_id: 658
+title: "Creating Volume From Numpy"
+date: 2017-07-10
+url: https://discourse.slicer.org/t/658
+---
+
 # Creating Volume from Numpy
 
 **Topic ID**: 658

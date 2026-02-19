@@ -1,3 +1,10 @@
+---
+topic_id: 39910
+title: "Is There Any Python Script Recorder In 3D Slicer"
+date: 2024-10-29
+url: https://discourse.slicer.org/t/39910
+---
+
 # Is there any python script recorder in 3D slicer?
 
 **Topic ID**: 39910

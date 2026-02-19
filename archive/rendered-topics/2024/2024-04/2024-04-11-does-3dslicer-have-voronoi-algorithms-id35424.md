@@ -1,3 +1,10 @@
+---
+topic_id: 35424
+title: "Does 3Dslicer Have Voronoi Algorithms"
+date: 2024-04-11
+url: https://discourse.slicer.org/t/35424
+---
+
 # Does 3DSlicer have voronoi algorithms?
 
 **Topic ID**: 35424

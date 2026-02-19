@@ -1,3 +1,10 @@
+---
+topic_id: 10533
+title: "Referring To Slicer As A Resource In Company Documentation"
+date: 2020-03-04
+url: https://discourse.slicer.org/t/10533
+---
+
 # Referring to Slicer as a resource in company documentation
 
 **Topic ID**: 10533

@@ -1,3 +1,10 @@
+---
+topic_id: 16520
+title: "How Do You Update The Software With My Favorites Extensions"
+date: 2021-03-13
+url: https://discourse.slicer.org/t/16520
+---
+
 # How do you update the software with my favorites extensions
 
 **Topic ID**: 16520

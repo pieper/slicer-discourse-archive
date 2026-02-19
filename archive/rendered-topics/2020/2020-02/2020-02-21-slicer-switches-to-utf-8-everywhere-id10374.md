@@ -1,3 +1,10 @@
+---
+topic_id: 10374
+title: "Slicer Switches To Utf 8 Everywhere"
+date: 2020-02-21
+url: https://discourse.slicer.org/t/10374
+---
+
 # Slicer switches to UTF-8 everywhere
 
 **Topic ID**: 10374

@@ -1,3 +1,10 @@
+---
+topic_id: 41670
+title: "Help With 3D Model Registration To Patient S Face For Image"
+date: 2025-02-13
+url: https://discourse.slicer.org/t/41670
+---
+
 # Help with 3D Model Registration to Patient’s Face for Image-Guided Surgery in 3D Slicer
 
 **Topic ID**: 41670

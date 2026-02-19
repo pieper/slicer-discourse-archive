@@ -1,3 +1,10 @@
+---
+topic_id: 3017
+title: "Printing Volume Renderings In Plastic"
+date: 2018-05-30
+url: https://discourse.slicer.org/t/3017
+---
+
 # Printing volume renderings in plastic
 
 **Topic ID**: 3017

@@ -1,3 +1,10 @@
+---
+topic_id: 22643
+title: "Editing Landmarks Between Auto3Dgm Phases"
+date: 2022-03-22
+url: https://discourse.slicer.org/t/22643
+---
+
 # Editing landmarks between auto3DGM phases
 
 **Topic ID**: 22643

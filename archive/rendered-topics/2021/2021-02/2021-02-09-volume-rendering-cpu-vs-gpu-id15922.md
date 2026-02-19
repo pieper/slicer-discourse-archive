@@ -1,3 +1,10 @@
+---
+topic_id: 15922
+title: "Volume Rendering Cpu Vs Gpu"
+date: 2021-02-09
+url: https://discourse.slicer.org/t/15922
+---
+
 # Volume Rendering CPU VS GPU
 
 **Topic ID**: 15922

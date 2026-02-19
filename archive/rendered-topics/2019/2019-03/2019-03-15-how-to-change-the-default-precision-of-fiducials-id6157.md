@@ -1,3 +1,10 @@
+---
+topic_id: 6157
+title: "How To Change The Default Precision Of Fiducials"
+date: 2019-03-15
+url: https://discourse.slicer.org/t/6157
+---
+
 # How to change the default precision of fiducials?
 
 **Topic ID**: 6157

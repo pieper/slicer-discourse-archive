@@ -1,3 +1,10 @@
+---
+topic_id: 30531
+title: "Cardiac Mri Data"
+date: 2023-07-11
+url: https://discourse.slicer.org/t/30531
+---
+
 # Cardiac MRI data
 
 **Topic ID**: 30531

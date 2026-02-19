@@ -1,3 +1,10 @@
+---
+topic_id: 37642
+title: "Creating Multiple Modules From A Single Module Code"
+date: 2024-07-31
+url: https://discourse.slicer.org/t/37642
+---
+
 # Creating Multiple Modules from a Single Module Code
 
 **Topic ID**: 37642

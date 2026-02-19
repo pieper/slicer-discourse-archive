@@ -1,3 +1,10 @@
+---
+topic_id: 6974
+title: "Slicer 4 10 2 Summary Highlights And Changelog"
+date: 2019-05-30
+url: https://discourse.slicer.org/t/6974
+---
+
 # Slicer 4.10.2: Summary, Highlights and Changelog
 
 **Topic ID**: 6974

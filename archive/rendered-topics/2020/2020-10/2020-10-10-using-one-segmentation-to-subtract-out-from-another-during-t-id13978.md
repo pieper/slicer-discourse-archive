@@ -1,3 +1,10 @@
+---
+topic_id: 13978
+title: "Using One Segmentation To Subtract Out From Another During T"
+date: 2020-10-10
+url: https://discourse.slicer.org/t/13978
+---
+
 # Using one segmentation to subtract out from another during thresholding
 
 **Topic ID**: 13978

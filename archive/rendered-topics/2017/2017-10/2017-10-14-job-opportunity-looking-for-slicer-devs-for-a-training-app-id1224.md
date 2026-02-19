@@ -1,3 +1,10 @@
+---
+topic_id: 1224
+title: "Job Opportunity Looking For Slicer Devs For A Training App"
+date: 2017-10-14
+url: https://discourse.slicer.org/t/1224
+---
+
 # Job opportunity: Looking for Slicer devs for a training app
 
 **Topic ID**: 1224

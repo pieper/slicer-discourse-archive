@@ -1,3 +1,10 @@
+---
+topic_id: 25215
+title: "Extracting Stl From Dicom Images To Generate Brain Arteries"
+date: 2022-09-12
+url: https://discourse.slicer.org/t/25215
+---
+
 # Extracting STL from DICOM images to generate Brain Arteries geometry
 
 **Topic ID**: 25215

@@ -1,3 +1,10 @@
+---
+topic_id: 16792
+title: "Changing The Name Of The Fiducial And Getting The Updated Na"
+date: 2021-03-28
+url: https://discourse.slicer.org/t/16792
+---
+
 # Changing the name of the fiducial and getting the updated names of the fiducial
 
 **Topic ID**: 16792

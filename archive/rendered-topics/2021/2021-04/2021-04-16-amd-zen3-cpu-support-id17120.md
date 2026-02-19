@@ -1,3 +1,10 @@
+---
+topic_id: 17120
+title: "Amd Zen3 Cpu Support"
+date: 2021-04-16
+url: https://discourse.slicer.org/t/17120
+---
+
 # AMD zen3 CPU Support
 
 **Topic ID**: 17120

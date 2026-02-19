@@ -1,3 +1,10 @@
+---
+topic_id: 23644
+title: "The Saved Segmentation File Size Is Different From The Origi"
+date: 2022-05-30
+url: https://discourse.slicer.org/t/23644
+---
+
 # The saved segmentation file size is different from the original volume nrrd file size
 
 **Topic ID**: 23644

@@ -1,3 +1,10 @@
+---
+topic_id: 28447
+title: "3D Slicer Build Error"
+date: 2023-03-19
+url: https://discourse.slicer.org/t/28447
+---
+
 # 3D slicer build error
 
 **Topic ID**: 28447

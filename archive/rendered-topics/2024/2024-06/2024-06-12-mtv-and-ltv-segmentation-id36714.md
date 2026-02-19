@@ -1,3 +1,10 @@
+---
+topic_id: 36714
+title: "Mtv And Ltv Segmentation"
+date: 2024-06-12
+url: https://discourse.slicer.org/t/36714
+---
+
 # MTV and LTV Segmentation
 
 **Topic ID**: 36714

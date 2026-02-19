@@ -1,3 +1,10 @@
+---
+topic_id: 22212
+title: "Mice Ct Data Dicom File"
+date: 2022-02-28
+url: https://discourse.slicer.org/t/22212
+---
+
 # Mice CT data (dicom file)
 
 **Topic ID**: 22212

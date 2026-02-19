@@ -1,3 +1,10 @@
+---
+topic_id: 4545
+title: "Custom Build Crash Macos 10 12"
+date: 2018-10-26
+url: https://discourse.slicer.org/t/4545
+---
+
 # Custom build crash - MacOS 10.12
 
 **Topic ID**: 4545

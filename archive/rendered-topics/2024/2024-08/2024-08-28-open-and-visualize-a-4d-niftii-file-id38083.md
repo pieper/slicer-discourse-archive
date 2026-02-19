@@ -1,3 +1,10 @@
+---
+topic_id: 38083
+title: "Open And Visualize A 4D Niftii File"
+date: 2024-08-28
+url: https://discourse.slicer.org/t/38083
+---
+
 # Open and visualize a 4D niftii file?
 
 **Topic ID**: 38083

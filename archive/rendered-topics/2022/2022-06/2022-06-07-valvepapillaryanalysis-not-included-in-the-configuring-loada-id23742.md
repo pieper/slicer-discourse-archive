@@ -1,3 +1,10 @@
+---
+topic_id: 23742
+title: "Valvepapillaryanalysis Not Included In The Configuring Loada"
+date: 2022-06-07
+url: https://discourse.slicer.org/t/23742
+---
+
 # ValvePapillaryAnalysis not included in the Configuring Loadable module:
 
 **Topic ID**: 23742

@@ -1,3 +1,10 @@
+---
+topic_id: 23608
+title: "What Is Fcsv File"
+date: 2022-05-27
+url: https://discourse.slicer.org/t/23608
+---
+
 # What is fcsv file?
 
 **Topic ID**: 23608

@@ -1,3 +1,10 @@
+---
+topic_id: 37155
+title: "Total Segmentator Fast Mode Cant Be Turned Off"
+date: 2024-07-02
+url: https://discourse.slicer.org/t/37155
+---
+
 # Total Segmentator "fast mode" cant be turned off
 
 **Topic ID**: 37155

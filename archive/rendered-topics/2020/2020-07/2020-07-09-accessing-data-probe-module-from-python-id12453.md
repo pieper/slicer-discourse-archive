@@ -1,3 +1,10 @@
+---
+topic_id: 12453
+title: "Accessing Data Probe Module From Python"
+date: 2020-07-09
+url: https://discourse.slicer.org/t/12453
+---
+
 # Accessing Data Probe Module from Python
 
 **Topic ID**: 12453

@@ -1,3 +1,10 @@
+---
+topic_id: 4218
+title: "What Ct File Format Can Be Uploaded To 3Dslicer"
+date: 2018-09-28
+url: https://discourse.slicer.org/t/4218
+---
+
 # What CT file format can be uploaded to 3DSlicer?
 
 **Topic ID**: 4218

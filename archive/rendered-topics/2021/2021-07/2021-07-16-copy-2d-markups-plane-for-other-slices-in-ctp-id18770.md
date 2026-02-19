@@ -1,3 +1,10 @@
+---
+topic_id: 18770
+title: "Copy 2D Markups Plane For Other Slices In Ctp"
+date: 2021-07-16
+url: https://discourse.slicer.org/t/18770
+---
+
 # Copy 2D Markups Plane for other slices in CTP
 
 **Topic ID**: 18770

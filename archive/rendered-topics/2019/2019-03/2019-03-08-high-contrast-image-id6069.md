@@ -1,3 +1,10 @@
+---
+topic_id: 6069
+title: "High Contrast Image"
+date: 2019-03-08
+url: https://discourse.slicer.org/t/6069
+---
+
 # High contrast image
 
 **Topic ID**: 6069

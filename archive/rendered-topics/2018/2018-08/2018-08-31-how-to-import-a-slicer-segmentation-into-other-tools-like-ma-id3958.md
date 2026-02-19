@@ -1,3 +1,10 @@
+---
+topic_id: 3958
+title: "How To Import A Slicer Segmentation Into Other Tools Like Ma"
+date: 2018-08-31
+url: https://discourse.slicer.org/t/3958
+---
+
 # How to import a slicer segmentation into other tools like matlab?
 
 **Topic ID**: 3958

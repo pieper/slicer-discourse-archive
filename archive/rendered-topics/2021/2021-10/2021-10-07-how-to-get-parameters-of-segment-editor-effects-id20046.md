@@ -1,3 +1,10 @@
+---
+topic_id: 20046
+title: "How To Get Parameters Of Segment Editor Effects"
+date: 2021-10-07
+url: https://discourse.slicer.org/t/20046
+---
+
 # How to get parameters of Segment Editor effects
 
 **Topic ID**: 20046

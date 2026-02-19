@@ -1,3 +1,10 @@
+---
+topic_id: 3655
+title: "Visualization Of Segmentations In Lightbox View"
+date: 2018-08-04
+url: https://discourse.slicer.org/t/3655
+---
+
 # Visualization of segmentations in lightbox view
 
 **Topic ID**: 3655

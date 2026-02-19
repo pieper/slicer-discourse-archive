@@ -1,3 +1,10 @@
+---
+topic_id: 11607
+title: "Convert Binary Mask From Matlab To Segmentation In 3Dslicer"
+date: 2020-05-18
+url: https://discourse.slicer.org/t/11607
+---
+
 # Convert binary mask from MATLAB to segmentation in 3DSlicer
 
 **Topic ID**: 11607

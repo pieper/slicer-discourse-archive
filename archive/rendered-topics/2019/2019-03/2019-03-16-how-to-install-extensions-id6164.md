@@ -1,3 +1,10 @@
+---
+topic_id: 6164
+title: "How To Install Extensions"
+date: 2019-03-16
+url: https://discourse.slicer.org/t/6164
+---
+
 # How to install extensions?
 
 **Topic ID**: 6164

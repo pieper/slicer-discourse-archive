@@ -1,3 +1,10 @@
+---
+topic_id: 20193
+title: "Creating A Roi Within A Roi Based On Hu"
+date: 2021-10-17
+url: https://discourse.slicer.org/t/20193
+---
+
 # Creating a ROI within a ROI based on HU
 
 **Topic ID**: 20193

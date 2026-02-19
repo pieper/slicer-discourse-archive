@@ -1,3 +1,10 @@
+---
+topic_id: 26235
+title: "Lungctsegmenter File Size And Lung Segmentation Preview"
+date: 2022-11-14
+url: https://discourse.slicer.org/t/26235
+---
+
 # LungCTSegmenter: File Size and "Lung segmentation preview "
 
 **Topic ID**: 26235

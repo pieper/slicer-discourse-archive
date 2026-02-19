@@ -1,3 +1,10 @@
+---
+topic_id: 24224
+title: "Mean Diameter For Slicervmtk Module"
+date: 2022-07-07
+url: https://discourse.slicer.org/t/24224
+---
+
 # Mean diameter for SlicerVMTK module
 
 **Topic ID**: 24224

@@ -1,3 +1,10 @@
+---
+topic_id: 24561
+title: "Export To Volume To Dicom And Edit Exported Data Tags"
+date: 2022-07-29
+url: https://discourse.slicer.org/t/24561
+---
+
 # Export to Volume to DICOM and Edit Exported Data Tags
 
 **Topic ID**: 24561

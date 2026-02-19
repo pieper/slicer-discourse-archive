@@ -1,3 +1,10 @@
+---
+topic_id: 24150
+title: "Jupyter Notebook"
+date: 2022-07-01
+url: https://discourse.slicer.org/t/24150
+---
+
 # Jupyter notebook
 
 **Topic ID**: 24150

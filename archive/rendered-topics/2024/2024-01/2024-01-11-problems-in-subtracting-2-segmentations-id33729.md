@@ -1,3 +1,10 @@
+---
+topic_id: 33729
+title: "Problems In Subtracting 2 Segmentations"
+date: 2024-01-11
+url: https://discourse.slicer.org/t/33729
+---
+
 # Problems in subtracting 2 segmentations
 
 **Topic ID**: 33729

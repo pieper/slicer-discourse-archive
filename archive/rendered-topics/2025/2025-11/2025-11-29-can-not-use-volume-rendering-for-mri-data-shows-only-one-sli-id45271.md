@@ -1,3 +1,10 @@
+---
+topic_id: 45271
+title: "Can Not Use Volume Rendering For Mri Data Shows Only One Sli"
+date: 2025-11-29
+url: https://discourse.slicer.org/t/45271
+---
+
 # Can not use volume rendering for MRI data, shows only one slice
 
 **Topic ID**: 45271

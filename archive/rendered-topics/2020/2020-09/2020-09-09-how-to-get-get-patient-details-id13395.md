@@ -1,3 +1,10 @@
+---
+topic_id: 13395
+title: "How To Get Get Patient Details"
+date: 2020-09-09
+url: https://discourse.slicer.org/t/13395
+---
+
 # How to get Get Patient Details
 
 **Topic ID**: 13395

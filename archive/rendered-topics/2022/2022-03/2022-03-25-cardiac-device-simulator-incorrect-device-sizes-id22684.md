@@ -1,3 +1,10 @@
+---
+topic_id: 22684
+title: "Cardiac Device Simulator Incorrect Device Sizes"
+date: 2022-03-25
+url: https://discourse.slicer.org/t/22684
+---
+
 # Cardiac Device Simulator - incorrect device sizes
 
 **Topic ID**: 22684

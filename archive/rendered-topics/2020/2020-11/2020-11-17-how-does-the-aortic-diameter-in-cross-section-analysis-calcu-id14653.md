@@ -1,3 +1,10 @@
+---
+topic_id: 14653
+title: "How Does The Aortic Diameter In Cross Section Analysis Calcu"
+date: 2020-11-17
+url: https://discourse.slicer.org/t/14653
+---
+
 # How does the aortic diameter in cross-section analysis calculated?
 
 **Topic ID**: 14653

@@ -1,3 +1,10 @@
+---
+topic_id: 25838
+title: "Vmtk Error Executing Vmtkcenterlines"
+date: 2022-10-22
+url: https://discourse.slicer.org/t/25838
+---
+
 # VMTK error: executing vmtkcenterlines
 
 **Topic ID**: 25838

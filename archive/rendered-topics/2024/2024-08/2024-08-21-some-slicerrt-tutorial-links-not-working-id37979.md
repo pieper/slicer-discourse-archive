@@ -1,3 +1,10 @@
+---
+topic_id: 37979
+title: "Some Slicerrt Tutorial Links Not Working"
+date: 2024-08-21
+url: https://discourse.slicer.org/t/37979
+---
+
 # Some SlicerRT tutorial links not working
 
 **Topic ID**: 37979

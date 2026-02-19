@@ -1,3 +1,10 @@
+---
+topic_id: 17201
+title: "How To Rewrite Shift Function Development"
+date: 2021-04-20
+url: https://discourse.slicer.org/t/17201
+---
+
 # How to rewrite shift function Development
 
 **Topic ID**: 17201

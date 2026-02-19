@@ -1,3 +1,10 @@
+---
+topic_id: 25233
+title: "Gradient Opacity In Volume Rendering"
+date: 2022-09-13
+url: https://discourse.slicer.org/t/25233
+---
+
 # Gradient Opacity in Volume Rendering
 
 **Topic ID**: 25233

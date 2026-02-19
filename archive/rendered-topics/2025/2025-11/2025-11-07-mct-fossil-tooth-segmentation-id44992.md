@@ -1,3 +1,10 @@
+---
+topic_id: 44992
+title: "Mct Fossil Tooth Segmentation"
+date: 2025-11-07
+url: https://discourse.slicer.org/t/44992
+---
+
 # mCT fossil tooth segmentation
 
 **Topic ID**: 44992

@@ -1,3 +1,10 @@
+---
+topic_id: 32912
+title: "Slicer Crashes During Alpaca Fastmodelalign"
+date: 2023-11-20
+url: https://discourse.slicer.org/t/32912
+---
+
 # Slicer Crashes During ALPACA/FastModelAlign
 
 **Topic ID**: 32912

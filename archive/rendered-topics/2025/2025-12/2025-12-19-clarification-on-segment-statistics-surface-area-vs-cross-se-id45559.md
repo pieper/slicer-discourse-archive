@@ -1,3 +1,10 @@
+---
+topic_id: 45559
+title: "Clarification On Segment Statistics Surface Area Vs Cross Se"
+date: 2025-12-19
+url: https://discourse.slicer.org/t/45559
+---
+
 # Clarification on Segment Statistics: Surface Area vs. Cross-Sectional Area (CSA) for Muscle Analysis
 
 **Topic ID**: 45559

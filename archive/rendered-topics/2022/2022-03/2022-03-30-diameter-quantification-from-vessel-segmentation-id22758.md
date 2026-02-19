@@ -1,3 +1,10 @@
+---
+topic_id: 22758
+title: "Diameter Quantification From Vessel Segmentation"
+date: 2022-03-30
+url: https://discourse.slicer.org/t/22758
+---
+
 # Diameter quantification From vessel segmentation
 
 **Topic ID**: 22758

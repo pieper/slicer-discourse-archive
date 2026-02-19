@@ -1,3 +1,10 @@
+---
+topic_id: 20628
+title: "Avi To Dicom To Single Usuable Dicom File"
+date: 2021-11-15
+url: https://discourse.slicer.org/t/20628
+---
+
 # AVI to DICOM to single usuable DICOM file
 
 **Topic ID**: 20628

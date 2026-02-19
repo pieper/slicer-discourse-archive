@@ -1,3 +1,10 @@
+---
+topic_id: 5065
+title: "Problem Importing A Volumen With A Phillips Affinity 50"
+date: 2018-12-13
+url: https://discourse.slicer.org/t/5065
+---
+
 # Problem importing a Volumen With a Phillips affinity 50
 
 **Topic ID**: 5065

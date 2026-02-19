@@ -1,3 +1,10 @@
+---
+topic_id: 9244
+title: "Register Mri Dwi To Ct"
+date: 2019-11-21
+url: https://discourse.slicer.org/t/9244
+---
+
 # Register MRI-DWI to CT
 
 **Topic ID**: 9244

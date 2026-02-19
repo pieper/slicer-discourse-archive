@@ -1,3 +1,10 @@
+---
+topic_id: 45950
+title: "Project Tumor Model Onto Skull Surface For Craniotomy Planni"
+date: 2026-01-27
+url: https://discourse.slicer.org/t/45950
+---
+
 # Project tumor model onto skull surface for craniotomy planning / Extension "Trackerless Craniotomy Planning based on 3D Slicer "
 
 **Topic ID**: 45950

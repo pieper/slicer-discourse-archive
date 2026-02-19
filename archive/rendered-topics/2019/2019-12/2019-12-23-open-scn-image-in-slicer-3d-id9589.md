@@ -1,3 +1,10 @@
+---
+topic_id: 9589
+title: "Open Scn Image In Slicer 3D"
+date: 2019-12-23
+url: https://discourse.slicer.org/t/9589
+---
+
 # open .scn image in slicer 3D.
 
 **Topic ID**: 9589

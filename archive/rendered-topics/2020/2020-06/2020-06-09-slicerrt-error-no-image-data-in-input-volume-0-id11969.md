@@ -1,3 +1,10 @@
+---
+topic_id: 11969
+title: "Slicerrt Error No Image Data In Input Volume 0"
+date: 2020-06-09
+url: https://discourse.slicer.org/t/11969
+---
+
 # SlicerRT ERROR No image data in input volume #0
 
 **Topic ID**: 11969

@@ -1,3 +1,10 @@
+---
+topic_id: 42116
+title: "Capture Slice Data At Rendered In The 3D View"
+date: 2025-03-13
+url: https://discourse.slicer.org/t/42116
+---
+
 # Capture slice data at rendered in the 3D view
 
 **Topic ID**: 42116

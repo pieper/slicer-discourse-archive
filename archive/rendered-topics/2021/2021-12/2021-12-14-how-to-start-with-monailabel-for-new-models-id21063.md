@@ -1,3 +1,10 @@
+---
+topic_id: 21063
+title: "How To Start With Monailabel For New Models"
+date: 2021-12-14
+url: https://discourse.slicer.org/t/21063
+---
+
 # How to start with monailabel for new models
 
 **Topic ID**: 21063

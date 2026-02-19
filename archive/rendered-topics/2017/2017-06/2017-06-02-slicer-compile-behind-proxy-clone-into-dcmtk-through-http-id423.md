@@ -1,3 +1,10 @@
+---
+topic_id: 423
+title: "Slicer Compile Behind Proxy Clone Into Dcmtk Through Http"
+date: 2017-06-02
+url: https://discourse.slicer.org/t/423
+---
+
 # Slicer compile behind proxy (clone into dcmtk through http)
 
 **Topic ID**: 423

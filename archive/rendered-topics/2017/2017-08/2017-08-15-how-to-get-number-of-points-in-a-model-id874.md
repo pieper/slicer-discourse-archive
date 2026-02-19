@@ -1,3 +1,10 @@
+---
+topic_id: 874
+title: "How To Get Number Of Points In A Model"
+date: 2017-08-15
+url: https://discourse.slicer.org/t/874
+---
+
 # How to get number of points in a model
 
 **Topic ID**: 874

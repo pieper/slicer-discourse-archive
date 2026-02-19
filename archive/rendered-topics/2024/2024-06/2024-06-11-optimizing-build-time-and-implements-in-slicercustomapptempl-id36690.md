@@ -1,3 +1,10 @@
+---
+topic_id: 36690
+title: "Optimizing Build Time And Implements In Slicercustomapptempl"
+date: 2024-06-11
+url: https://discourse.slicer.org/t/36690
+---
+
 # Optimizing Build Time and Implements in SlicerCustomAppTemplate
 
 **Topic ID**: 36690

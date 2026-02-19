@@ -1,3 +1,10 @@
+---
+topic_id: 6355
+title: "Minimum Header Information For Loading Dicom Into Same Serie"
+date: 2019-04-01
+url: https://discourse.slicer.org/t/6355
+---
+
 # Minimum header information for loading DICOM into same series
 
 **Topic ID**: 6355

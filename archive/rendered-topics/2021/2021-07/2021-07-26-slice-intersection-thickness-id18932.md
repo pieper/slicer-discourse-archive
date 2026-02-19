@@ -1,3 +1,10 @@
+---
+topic_id: 18932
+title: "Slice Intersection Thickness"
+date: 2021-07-26
+url: https://discourse.slicer.org/t/18932
+---
+
 # Slice Intersection Thickness
 
 **Topic ID**: 18932

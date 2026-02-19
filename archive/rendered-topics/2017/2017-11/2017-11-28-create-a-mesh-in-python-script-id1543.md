@@ -1,3 +1,10 @@
+---
+topic_id: 1543
+title: "Create A Mesh In Python Script"
+date: 2017-11-28
+url: https://discourse.slicer.org/t/1543
+---
+
 # Create a mesh in python script
 
 **Topic ID**: 1543

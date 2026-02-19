@@ -1,3 +1,10 @@
+---
+topic_id: 32393
+title: "How Can I Save A 2D Cropped Image And Remove The Black Backg"
+date: 2023-10-24
+url: https://discourse.slicer.org/t/32393
+---
+
 # How can I save a 2D cropped image and remove the black background?
 
 **Topic ID**: 32393

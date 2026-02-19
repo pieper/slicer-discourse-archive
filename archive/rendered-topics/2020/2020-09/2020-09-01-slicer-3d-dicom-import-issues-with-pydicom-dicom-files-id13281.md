@@ -1,3 +1,10 @@
+---
+topic_id: 13281
+title: "Slicer 3D Dicom Import Issues With Pydicom Dicom Files"
+date: 2020-09-01
+url: https://discourse.slicer.org/t/13281
+---
+
 # Slicer 3D DICOM Import Issues with pydicom DICOM files
 
 **Topic ID**: 13281

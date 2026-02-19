@@ -1,3 +1,10 @@
+---
+topic_id: 2837
+title: "Subprocess Call Does Not Work"
+date: 2018-05-17
+url: https://discourse.slicer.org/t/2837
+---
+
 # Subprocess.call does not work!
 
 **Topic ID**: 2837

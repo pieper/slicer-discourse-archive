@@ -1,3 +1,10 @@
+---
+topic_id: 25925
+title: "Export Red Slice As Array With Specific Zoom"
+date: 2022-10-27
+url: https://discourse.slicer.org/t/25925
+---
+
 # Export red slice as array with specific zoom
 
 **Topic ID**: 25925

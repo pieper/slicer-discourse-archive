@@ -1,3 +1,10 @@
+---
+topic_id: 700
+title: "New Video Tutorial For Segment Editor Lumbar Spine Segmentat"
+date: 2017-07-17
+url: https://discourse.slicer.org/t/700
+---
+
 # New video tutorial for Segment editor - lumbar spine segmentation for 3D printing
 
 **Topic ID**: 700

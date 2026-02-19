@@ -1,3 +1,10 @@
+---
+topic_id: 5614
+title: "Sending Fiducial Points Via Openigtlinkif"
+date: 2019-02-01
+url: https://discourse.slicer.org/t/5614
+---
+
 # Sending fiducial points via OpenIGTLinkIF
 
 **Topic ID**: 5614

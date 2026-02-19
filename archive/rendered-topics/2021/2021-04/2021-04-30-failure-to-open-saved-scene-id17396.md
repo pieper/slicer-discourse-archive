@@ -1,3 +1,10 @@
+---
+topic_id: 17396
+title: "Failure To Open Saved Scene"
+date: 2021-04-30
+url: https://discourse.slicer.org/t/17396
+---
+
 # Failure to open saved scene
 
 **Topic ID**: 17396

@@ -1,3 +1,10 @@
+---
+topic_id: 36934
+title: "Slicermorph Orientation Issue With Warped Average Model Afte"
+date: 2024-06-21
+url: https://discourse.slicer.org/t/36934
+---
+
 # Slicermorph orientation issue with warped/average model after GPA
 
 **Topic ID**: 36934

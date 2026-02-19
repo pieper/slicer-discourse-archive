@@ -1,3 +1,10 @@
+---
+topic_id: 22098
+title: "How To Programmatically Create The Master Volume For A Segme"
+date: 2022-02-22
+url: https://discourse.slicer.org/t/22098
+---
+
 # How to programmatically create the Master Volume for a segmentation node with multiple segments
 
 **Topic ID**: 22098

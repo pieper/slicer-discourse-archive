@@ -1,3 +1,10 @@
+---
+topic_id: 32099
+title: "How To Hide Angle Lines In Other Slices"
+date: 2023-10-08
+url: https://discourse.slicer.org/t/32099
+---
+
 # How to hide Angle lines in other slices
 
 **Topic ID**: 32099

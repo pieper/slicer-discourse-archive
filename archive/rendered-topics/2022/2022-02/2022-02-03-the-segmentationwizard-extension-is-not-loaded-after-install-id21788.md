@@ -1,3 +1,10 @@
+---
+topic_id: 21788
+title: "The Segmentationwizard Extension Is Not Loaded After Install"
+date: 2022-02-03
+url: https://discourse.slicer.org/t/21788
+---
+
 # The SegmentationWizard extension is not loaded after install
 
 **Topic ID**: 21788

@@ -1,3 +1,10 @@
+---
+topic_id: 9707
+title: "Converting Fiducial Coordinates From Ras To Lps"
+date: 2020-01-03
+url: https://discourse.slicer.org/t/9707
+---
+
 # Converting fiducial coordinates from RAS to LPS
 
 **Topic ID**: 9707

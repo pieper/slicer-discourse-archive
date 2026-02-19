@@ -1,3 +1,10 @@
+---
+topic_id: 29160
+title: "Show Only Selected Jump Slice Control Point Hide Other Other"
+date: 2023-04-27
+url: https://discourse.slicer.org/t/29160
+---
+
 # Show only selected 'jump slice' control point , hide other other control points
 
 **Topic ID**: 29160

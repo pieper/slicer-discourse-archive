@@ -1,3 +1,10 @@
+---
+topic_id: 23239
+title: "How To Join Two Sets Of Ct Slices And Change The Volume"
+date: 2022-05-02
+url: https://discourse.slicer.org/t/23239
+---
+
 # How to join two sets of CT slices and change the volume?
 
 **Topic ID**: 23239

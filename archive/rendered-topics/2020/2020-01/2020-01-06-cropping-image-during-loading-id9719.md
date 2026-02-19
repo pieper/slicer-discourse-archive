@@ -1,3 +1,10 @@
+---
+topic_id: 9719
+title: "Cropping Image During Loading"
+date: 2020-01-06
+url: https://discourse.slicer.org/t/9719
+---
+
 # Cropping image during loading
 
 **Topic ID**: 9719

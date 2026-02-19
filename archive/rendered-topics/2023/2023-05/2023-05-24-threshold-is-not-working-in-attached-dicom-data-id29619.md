@@ -1,3 +1,10 @@
+---
+topic_id: 29619
+title: "Threshold Is Not Working In Attached Dicom Data"
+date: 2023-05-24
+url: https://discourse.slicer.org/t/29619
+---
+
 # Threshold is not working in attached DICOM data
 
 **Topic ID**: 29619

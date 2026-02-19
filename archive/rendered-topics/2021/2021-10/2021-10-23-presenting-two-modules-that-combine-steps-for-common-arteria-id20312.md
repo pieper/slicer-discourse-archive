@@ -1,3 +1,10 @@
+---
+topic_id: 20312
+title: "Presenting Two Modules That Combine Steps For Common Arteria"
+date: 2021-10-23
+url: https://discourse.slicer.org/t/20312
+---
+
 # Presenting two modules that combine steps for *common* arterial segmentation
 
 **Topic ID**: 20312

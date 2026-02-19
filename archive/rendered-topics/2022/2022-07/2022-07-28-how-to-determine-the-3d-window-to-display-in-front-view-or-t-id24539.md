@@ -1,3 +1,10 @@
+---
+topic_id: 24539
+title: "How To Determine The 3D Window To Display In Front View Or T"
+date: 2022-07-28
+url: https://discourse.slicer.org/t/24539
+---
+
 # How to determine the 3D window to display in front view or top view based on the nodule position in each generated volume
 
 **Topic ID**: 24539

@@ -1,3 +1,10 @@
+---
+topic_id: 45593
+title: "Can Tumor Volume Be Accurately Measured"
+date: 2025-12-24
+url: https://discourse.slicer.org/t/45593
+---
+
 # Can tumor volume be accurately measured?
 
 **Topic ID**: 45593

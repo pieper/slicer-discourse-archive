@@ -1,3 +1,10 @@
+---
+topic_id: 13237
+title: "Segment Editor Split Volume Fill Value Is Ignored"
+date: 2020-08-30
+url: https://discourse.slicer.org/t/13237
+---
+
 # Segment editor / Split volume : Fill value is ignored
 
 **Topic ID**: 13237

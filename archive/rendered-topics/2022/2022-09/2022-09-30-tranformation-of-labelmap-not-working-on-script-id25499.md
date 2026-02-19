@@ -1,3 +1,10 @@
+---
+topic_id: 25499
+title: "Tranformation Of Labelmap Not Working On Script"
+date: 2022-09-30
+url: https://discourse.slicer.org/t/25499
+---
+
 # Tranformation of labelmap not working on script
 
 **Topic ID**: 25499

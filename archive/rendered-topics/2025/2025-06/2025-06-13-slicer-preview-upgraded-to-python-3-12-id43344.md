@@ -1,3 +1,10 @@
+---
+topic_id: 43344
+title: "Slicer Preview Upgraded To Python 3 12"
+date: 2025-06-13
+url: https://discourse.slicer.org/t/43344
+---
+
 # Slicer Preview upgraded to Python 3.12
 
 **Topic ID**: 43344

@@ -1,3 +1,10 @@
+---
+topic_id: 28761
+title: "Volume Rendering Property Lock"
+date: 2023-04-05
+url: https://discourse.slicer.org/t/28761
+---
+
 # Volume rendering property lock
 
 **Topic ID**: 28761

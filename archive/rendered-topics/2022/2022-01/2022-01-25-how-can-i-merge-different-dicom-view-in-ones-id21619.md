@@ -1,3 +1,10 @@
+---
+topic_id: 21619
+title: "How Can I Merge Different Dicom View In Ones"
+date: 2022-01-25
+url: https://discourse.slicer.org/t/21619
+---
+
 # How can I merge different DICOM view in ones? 
 
 **Topic ID**: 21619

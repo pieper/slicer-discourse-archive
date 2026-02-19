@@ -1,3 +1,10 @@
+---
+topic_id: 1614
+title: "System Requirements"
+date: 2017-12-07
+url: https://discourse.slicer.org/t/1614
+---
+
 # System requirements
 
 **Topic ID**: 1614

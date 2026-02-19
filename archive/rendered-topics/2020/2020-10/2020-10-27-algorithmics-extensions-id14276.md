@@ -1,3 +1,10 @@
+---
+topic_id: 14276
+title: "Algorithmics Extensions"
+date: 2020-10-27
+url: https://discourse.slicer.org/t/14276
+---
+
 # Algorithmics' extensions
 
 **Topic ID**: 14276

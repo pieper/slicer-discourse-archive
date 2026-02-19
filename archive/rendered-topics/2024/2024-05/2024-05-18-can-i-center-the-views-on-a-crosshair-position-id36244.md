@@ -1,3 +1,10 @@
+---
+topic_id: 36244
+title: "Can I Center The Views On A Crosshair Position"
+date: 2024-05-18
+url: https://discourse.slicer.org/t/36244
+---
+
 # Can I center the views on a crosshair position?
 
 **Topic ID**: 36244

@@ -1,3 +1,10 @@
+---
+topic_id: 2671
+title: "Unable To Load Dicom Into Slicer"
+date: 2018-04-24
+url: https://discourse.slicer.org/t/2671
+---
+
 # Unable to load dicom into slicer
 
 **Topic ID**: 2671

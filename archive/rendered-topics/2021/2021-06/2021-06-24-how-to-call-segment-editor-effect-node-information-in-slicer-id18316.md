@@ -1,3 +1,10 @@
+---
+topic_id: 18316
+title: "How To Call Segment Editor Effect Node Information In Slicer"
+date: 2021-06-24
+url: https://discourse.slicer.org/t/18316
+---
+
 # How to call segment editor effect node information in slicer main window
 
 **Topic ID**: 18316

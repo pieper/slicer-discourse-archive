@@ -1,3 +1,10 @@
+---
+topic_id: 18644
+title: "Vmtk Extract Centerline Fails With Vmtk Using Vtk9"
+date: 2021-07-12
+url: https://discourse.slicer.org/t/18644
+---
+
 # VMTK extract centerline fails with VMTK using VTK9
 
 **Topic ID**: 18644

@@ -1,3 +1,10 @@
+---
+topic_id: 24027
+title: "An Error During The Extension Distribution"
+date: 2022-06-24
+url: https://discourse.slicer.org/t/24027
+---
+
 # An error during the extension distribution
 
 **Topic ID**: 24027

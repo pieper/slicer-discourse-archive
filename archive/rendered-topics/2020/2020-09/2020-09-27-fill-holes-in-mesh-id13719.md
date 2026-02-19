@@ -1,3 +1,10 @@
+---
+topic_id: 13719
+title: "Fill Holes In Mesh"
+date: 2020-09-27
+url: https://discourse.slicer.org/t/13719
+---
+
 # Fill holes in mesh
 
 **Topic ID**: 13719

@@ -1,3 +1,10 @@
+---
+topic_id: 29650
+title: "Building 3D Slicer For Use In Another C Project"
+date: 2023-05-25
+url: https://discourse.slicer.org/t/29650
+---
+
 # Building 3D Slicer for use in another C++ project
 
 **Topic ID**: 29650

@@ -1,3 +1,10 @@
+---
+topic_id: 28804
+title: "How Can I Fill A Hollow Area Present In A Femur Head"
+date: 2023-04-07
+url: https://discourse.slicer.org/t/28804
+---
+
 # How can I fill a hollow area present in a femur head?
 
 **Topic ID**: 28804

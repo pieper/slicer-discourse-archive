@@ -1,3 +1,10 @@
+---
+topic_id: 4254
+title: "Calculate Dvh Or Dose Distribution Based On Rt Plan Protocol"
+date: 2018-10-02
+url: https://discourse.slicer.org/t/4254
+---
+
 # Calculate DVH or dose distribution based on RT plan protocol and structure set
 
 **Topic ID**: 4254

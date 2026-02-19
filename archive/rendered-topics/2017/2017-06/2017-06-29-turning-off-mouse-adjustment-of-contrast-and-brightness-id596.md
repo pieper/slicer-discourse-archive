@@ -1,3 +1,10 @@
+---
+topic_id: 596
+title: "Turning Off Mouse Adjustment Of Contrast And Brightness"
+date: 2017-06-29
+url: https://discourse.slicer.org/t/596
+---
+
 # Turning off mouse adjustment of contrast and brightness
 
 **Topic ID**: 596

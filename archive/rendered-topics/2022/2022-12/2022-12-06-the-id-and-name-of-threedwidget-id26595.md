@@ -1,3 +1,10 @@
+---
+topic_id: 26595
+title: "The Id And Name Of Threedwidget"
+date: 2022-12-06
+url: https://discourse.slicer.org/t/26595
+---
+
 # The id and name of ThreeDWidget
 
 **Topic ID**: 26595

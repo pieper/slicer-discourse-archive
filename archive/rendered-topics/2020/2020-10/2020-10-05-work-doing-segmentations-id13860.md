@@ -1,3 +1,10 @@
+---
+topic_id: 13860
+title: "Work Doing Segmentations"
+date: 2020-10-05
+url: https://discourse.slicer.org/t/13860
+---
+
 # Work doing segmentations 
 
 **Topic ID**: 13860

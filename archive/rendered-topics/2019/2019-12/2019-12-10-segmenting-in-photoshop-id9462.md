@@ -1,3 +1,10 @@
+---
+topic_id: 9462
+title: "Segmenting In Photoshop"
+date: 2019-12-10
+url: https://discourse.slicer.org/t/9462
+---
+
 # Segmenting in Photoshop?
 
 **Topic ID**: 9462

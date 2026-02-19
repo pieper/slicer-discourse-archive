@@ -1,3 +1,10 @@
+---
+topic_id: 23693
+title: "Segmentation To Cfd Mesh"
+date: 2022-06-03
+url: https://discourse.slicer.org/t/23693
+---
+
 # Segmentation to CFD Mesh
 
 **Topic ID**: 23693

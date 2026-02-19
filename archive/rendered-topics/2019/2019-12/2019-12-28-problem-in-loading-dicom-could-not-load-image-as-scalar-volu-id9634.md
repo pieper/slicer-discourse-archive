@@ -1,3 +1,10 @@
+---
+topic_id: 9634
+title: "Problem In Loading Dicom Could Not Load Image As Scalar Volu"
+date: 2019-12-28
+url: https://discourse.slicer.org/t/9634
+---
+
 # Problem in loading dicom ("Could NOT load image as Scalar Volume")
 
 **Topic ID**: 9634

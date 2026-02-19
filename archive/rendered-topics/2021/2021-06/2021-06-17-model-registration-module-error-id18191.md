@@ -1,3 +1,10 @@
+---
+topic_id: 18191
+title: "Model Registration Module Error"
+date: 2021-06-17
+url: https://discourse.slicer.org/t/18191
+---
+
 # Model Registration Module Error
 
 **Topic ID**: 18191

@@ -1,3 +1,10 @@
+---
+topic_id: 24941
+title: "Local Threshold Mouse Cursor Is Never Restored"
+date: 2022-08-26
+url: https://discourse.slicer.org/t/24941
+---
+
 # Local threshold : mouse cursor is never restored
 
 **Topic ID**: 24941

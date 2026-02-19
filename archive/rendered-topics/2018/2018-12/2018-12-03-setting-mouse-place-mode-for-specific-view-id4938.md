@@ -1,3 +1,10 @@
+---
+topic_id: 4938
+title: "Setting Mouse Place Mode For Specific View"
+date: 2018-12-03
+url: https://discourse.slicer.org/t/4938
+---
+
 # Setting mouse place mode for specific view
 
 **Topic ID**: 4938

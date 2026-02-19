@@ -1,3 +1,10 @@
+---
+topic_id: 21527
+title: "Segmentation Of Ct Dicoms"
+date: 2022-01-19
+url: https://discourse.slicer.org/t/21527
+---
+
 # Segmentation of CT Dicoms
 
 **Topic ID**: 21527

@@ -1,3 +1,10 @@
+---
+topic_id: 31027
+title: "Validation Set Accuracy In Monailabel"
+date: 2023-08-07
+url: https://discourse.slicer.org/t/31027
+---
+
 # Validation_set_Accuracy in MONAILabel
 
 **Topic ID**: 31027

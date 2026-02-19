@@ -1,3 +1,10 @@
+---
+topic_id: 43204
+title: "Alpaca Malpaca Tutorial K Means Templates Selection"
+date: 2025-06-03
+url: https://discourse.slicer.org/t/43204
+---
+
 # ALPACA (MALPACA) TUTORIAL: K-means_templates_selection
 
 **Topic ID**: 43204

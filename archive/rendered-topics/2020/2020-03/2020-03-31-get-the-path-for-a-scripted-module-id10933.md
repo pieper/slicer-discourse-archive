@@ -1,3 +1,10 @@
+---
+topic_id: 10933
+title: "Get The Path For A Scripted Module"
+date: 2020-03-31
+url: https://discourse.slicer.org/t/10933
+---
+
 # Get the path for a scripted module
 
 **Topic ID**: 10933

@@ -1,3 +1,10 @@
+---
+topic_id: 19921
+title: "Detect The Collosion Of Models And Change Model Outlook Real"
+date: 2021-09-30
+url: https://discourse.slicer.org/t/19921
+---
+
 # Detect the collosion of models, and change model outlook realtime
 
 **Topic ID**: 19921

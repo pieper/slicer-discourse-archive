@@ -1,3 +1,10 @@
+---
+topic_id: 33443
+title: "Seeking Help Could Not Load As A Scalar Volume Error Opening"
+date: 2023-12-18
+url: https://discourse.slicer.org/t/33443
+---
+
 # Seeking Help: "Could not load as a Scalar Volume" Error Opening DICOM X-ray Files (Bone, ML, and AP Views) with 3D Slicer
 
 **Topic ID**: 33443

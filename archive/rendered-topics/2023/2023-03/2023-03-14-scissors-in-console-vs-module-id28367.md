@@ -1,3 +1,10 @@
+---
+topic_id: 28367
+title: "Scissors In Console Vs Module"
+date: 2023-03-14
+url: https://discourse.slicer.org/t/28367
+---
+
 # Scissors in console vs module
 
 **Topic ID**: 28367

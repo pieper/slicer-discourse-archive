@@ -1,3 +1,10 @@
+---
+topic_id: 21402
+title: "Registration And Rendering"
+date: 2022-01-11
+url: https://discourse.slicer.org/t/21402
+---
+
 # Registration and rendering
 
 **Topic ID**: 21402

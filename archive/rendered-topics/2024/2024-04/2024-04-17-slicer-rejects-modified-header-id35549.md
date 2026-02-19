@@ -1,3 +1,10 @@
+---
+topic_id: 35549
+title: "Slicer Rejects Modified Header"
+date: 2024-04-17
+url: https://discourse.slicer.org/t/35549
+---
+
 # Slicer rejects modified Header
 
 **Topic ID**: 35549

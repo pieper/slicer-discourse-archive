@@ -1,3 +1,10 @@
+---
+topic_id: 17595
+title: "How To Run Cast Scalar Volume Module From Command Line"
+date: 2021-05-12
+url: https://discourse.slicer.org/t/17595
+---
+
 # How to run cast scalar volume module from command line
 
 **Topic ID**: 17595

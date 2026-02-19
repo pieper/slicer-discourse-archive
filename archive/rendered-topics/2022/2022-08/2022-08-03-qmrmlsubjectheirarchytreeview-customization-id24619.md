@@ -1,3 +1,10 @@
+---
+topic_id: 24619
+title: "Qmrmlsubjectheirarchytreeview Customization"
+date: 2022-08-03
+url: https://discourse.slicer.org/t/24619
+---
+
 # qMRMLSubjectHeirarchyTreeView customization
 
 **Topic ID**: 24619

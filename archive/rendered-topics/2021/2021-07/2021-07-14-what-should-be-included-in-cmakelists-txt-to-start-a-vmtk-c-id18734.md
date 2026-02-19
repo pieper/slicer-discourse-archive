@@ -1,3 +1,10 @@
+---
+topic_id: 18734
+title: "What Should Be Included In Cmakelists Txt To Start A Vmtk C"
+date: 2021-07-14
+url: https://discourse.slicer.org/t/18734
+---
+
 # What should be included in CMakeLists.txt to start a VMTK C++ project?
 
 **Topic ID**: 18734

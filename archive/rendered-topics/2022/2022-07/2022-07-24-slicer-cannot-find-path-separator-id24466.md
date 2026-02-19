@@ -1,3 +1,10 @@
+---
+topic_id: 24466
+title: "Slicer Cannot Find Path Separator"
+date: 2022-07-24
+url: https://discourse.slicer.org/t/24466
+---
+
 # slicer cannot find path separator
 
 **Topic ID**: 24466

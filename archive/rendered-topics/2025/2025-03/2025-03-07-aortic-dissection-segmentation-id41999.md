@@ -1,3 +1,10 @@
+---
+topic_id: 41999
+title: "Aortic Dissection Segmentation"
+date: 2025-03-07
+url: https://discourse.slicer.org/t/41999
+---
+
 # Aortic Dissection Segmentation
 
 **Topic ID**: 41999

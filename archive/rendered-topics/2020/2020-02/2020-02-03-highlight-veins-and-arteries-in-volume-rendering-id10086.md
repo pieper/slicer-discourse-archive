@@ -1,3 +1,10 @@
+---
+topic_id: 10086
+title: "Highlight Veins And Arteries In Volume Rendering"
+date: 2020-02-03
+url: https://discourse.slicer.org/t/10086
+---
+
 # Highlight veins and arteries in volume rendering
 
 **Topic ID**: 10086

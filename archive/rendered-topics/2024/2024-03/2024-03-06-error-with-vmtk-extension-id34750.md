@@ -1,3 +1,10 @@
+---
+topic_id: 34750
+title: "Error With Vmtk Extension"
+date: 2024-03-06
+url: https://discourse.slicer.org/t/34750
+---
+
 # Error with vmtk extension
 
 **Topic ID**: 34750

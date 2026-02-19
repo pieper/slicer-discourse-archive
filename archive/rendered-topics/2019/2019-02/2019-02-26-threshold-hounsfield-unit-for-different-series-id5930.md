@@ -1,3 +1,10 @@
+---
+topic_id: 5930
+title: "Threshold Hounsfield Unit For Different Series"
+date: 2019-02-26
+url: https://discourse.slicer.org/t/5930
+---
+
 # Threshold/Hounsfield unit For different series
 
 **Topic ID**: 5930

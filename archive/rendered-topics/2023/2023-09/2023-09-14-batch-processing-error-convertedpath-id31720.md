@@ -1,3 +1,10 @@
+---
+topic_id: 31720
+title: "Batch Processing Error Convertedpath"
+date: 2023-09-14
+url: https://discourse.slicer.org/t/31720
+---
+
 # Batch Processing Error - convertedPath
 
 **Topic ID**: 31720

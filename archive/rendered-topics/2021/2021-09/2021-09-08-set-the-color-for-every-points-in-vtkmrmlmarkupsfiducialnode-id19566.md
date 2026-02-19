@@ -1,3 +1,10 @@
+---
+topic_id: 19566
+title: "Set The Color For Every Points In Vtkmrmlmarkupsfiducialnode"
+date: 2021-09-08
+url: https://discourse.slicer.org/t/19566
+---
+
 # Set the color for every points in vtkMRMLMarkupsFiducialNode
 
 **Topic ID**: 19566

@@ -1,3 +1,10 @@
+---
+topic_id: 44194
+title: "Custom 3D Slicer Does Not Accept Url Functions"
+date: 2025-08-25
+url: https://discourse.slicer.org/t/44194
+---
+
 # Custom 3D Slicer does not accept url functions
 
 **Topic ID**: 44194

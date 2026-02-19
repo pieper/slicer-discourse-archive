@@ -1,3 +1,10 @@
+---
+topic_id: 33138
+title: "Linking External C Project Against Slicer Loadable Module"
+date: 2023-11-30
+url: https://discourse.slicer.org/t/33138
+---
+
 # Linking external C++ project against Slicer loadable-module
 
 **Topic ID**: 33138

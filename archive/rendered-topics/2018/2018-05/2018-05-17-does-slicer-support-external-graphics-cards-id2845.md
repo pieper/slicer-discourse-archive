@@ -1,3 +1,10 @@
+---
+topic_id: 2845
+title: "Does Slicer Support External Graphics Cards"
+date: 2018-05-17
+url: https://discourse.slicer.org/t/2845
+---
+
 # Does Slicer support external graphics cards?
 
 **Topic ID**: 2845

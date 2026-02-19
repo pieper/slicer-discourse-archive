@@ -1,3 +1,10 @@
+---
+topic_id: 37604
+title: "Get Segment Node Contour By Drr Metrix"
+date: 2024-07-29
+url: https://discourse.slicer.org/t/37604
+---
+
 # Get Segment Node contour by DRR metrix
 
 **Topic ID**: 37604

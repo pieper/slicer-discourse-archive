@@ -1,3 +1,10 @@
+---
+topic_id: 17938
+title: "Can I Update The Contours On A Dicom Structure File"
+date: 2021-06-03
+url: https://discourse.slicer.org/t/17938
+---
+
 # Can I update the contours on a DICOM structure file?
 
 **Topic ID**: 17938

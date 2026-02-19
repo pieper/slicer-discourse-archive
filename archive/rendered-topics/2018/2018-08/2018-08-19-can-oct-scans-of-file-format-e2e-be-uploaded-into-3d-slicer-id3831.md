@@ -1,3 +1,10 @@
+---
+topic_id: 3831
+title: "Can Oct Scans Of File Format E2E Be Uploaded Into 3D Slicer"
+date: 2018-08-19
+url: https://discourse.slicer.org/t/3831
+---
+
 # Can OCT scans (of file format .E2E) be uploaded into 3D slicer
 
 **Topic ID**: 3831

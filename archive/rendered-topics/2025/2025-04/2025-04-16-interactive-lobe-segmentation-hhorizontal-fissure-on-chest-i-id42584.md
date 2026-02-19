@@ -1,3 +1,10 @@
+---
+topic_id: 42584
+title: "Interactive Lobe Segmentation Hhorizontal Fissure On Chest I"
+date: 2025-04-16
+url: https://discourse.slicer.org/t/42584
+---
+
 # Interactive Lobe Segmentation hhorizontal fissure on Chest Imaging Platform
 
 **Topic ID**: 42584

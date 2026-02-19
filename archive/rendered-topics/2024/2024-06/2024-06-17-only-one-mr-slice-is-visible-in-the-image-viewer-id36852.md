@@ -1,3 +1,10 @@
+---
+topic_id: 36852
+title: "Only One Mr Slice Is Visible In The Image Viewer"
+date: 2024-06-17
+url: https://discourse.slicer.org/t/36852
+---
+
 # Only one MR slice is visible in the image viewer
 
 **Topic ID**: 36852

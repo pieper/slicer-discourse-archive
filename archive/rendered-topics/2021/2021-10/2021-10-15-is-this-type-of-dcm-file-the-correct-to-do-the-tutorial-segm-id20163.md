@@ -1,3 +1,10 @@
+---
+topic_id: 20163
+title: "Is This Type Of Dcm File The Correct To Do The Tutorial Segm"
+date: 2021-10-15
+url: https://discourse.slicer.org/t/20163
+---
+
 # Is this type of.dcm file the correct to do the tutorial 'Segmentation for 3D printing'
 
 **Topic ID**: 20163

@@ -1,3 +1,10 @@
+---
+topic_id: 22228
+title: "How Do I Clear All The Nodes So That It Looks Like It Just S"
+date: 2022-03-01
+url: https://discourse.slicer.org/t/22228
+---
+
 # How do I clear all the nodes so that it looks like it just started to run?
 
 **Topic ID**: 22228

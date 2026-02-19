@@ -1,3 +1,10 @@
+---
+topic_id: 45227
+title: "Removal Of Lightbox Mode"
+date: 2025-11-25
+url: https://discourse.slicer.org/t/45227
+---
+
 # Removal of Lightbox Mode
 
 **Topic ID**: 45227

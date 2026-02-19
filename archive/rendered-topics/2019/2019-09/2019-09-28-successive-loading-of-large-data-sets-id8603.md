@@ -1,3 +1,10 @@
+---
+topic_id: 8603
+title: "Successive Loading Of Large Data Sets"
+date: 2019-09-28
+url: https://discourse.slicer.org/t/8603
+---
+
 # Successive loading of large data sets
 
 **Topic ID**: 8603

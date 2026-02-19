@@ -1,3 +1,10 @@
+---
+topic_id: 29608
+title: "Windows 11 Wsl2 Floating View Widgets Bug"
+date: 2023-05-23
+url: https://discourse.slicer.org/t/29608
+---
+
 # Windows 11 WSL2 floating View Widgets bug
 
 **Topic ID**: 29608

@@ -1,3 +1,10 @@
+---
+topic_id: 16649
+title: "Rgb Or Rgba Rendering Of Single 2D Image In 3D Not Working"
+date: 2021-03-19
+url: https://discourse.slicer.org/t/16649
+---
+
 # RGB or RGBA rendering of single 2D image in 3D not working
 
 **Topic ID**: 16649

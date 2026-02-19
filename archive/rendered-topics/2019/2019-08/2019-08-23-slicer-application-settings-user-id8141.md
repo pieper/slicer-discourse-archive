@@ -1,3 +1,10 @@
+---
+topic_id: 8141
+title: "Slicer Application Settings User"
+date: 2019-08-23
+url: https://discourse.slicer.org/t/8141
+---
+
 # Slicer Application Settings: User
 
 **Topic ID**: 8141

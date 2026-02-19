@@ -1,3 +1,10 @@
+---
+topic_id: 3635
+title: "Cannot Open Slicer After Os Crash"
+date: 2018-08-02
+url: https://discourse.slicer.org/t/3635
+---
+
 # Cannot open slicer after OS crash
 
 **Topic ID**: 3635

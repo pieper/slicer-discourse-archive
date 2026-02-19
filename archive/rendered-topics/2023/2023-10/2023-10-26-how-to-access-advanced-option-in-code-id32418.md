@@ -1,3 +1,10 @@
+---
+topic_id: 32418
+title: "How To Access Advanced Option In Code"
+date: 2023-10-26
+url: https://discourse.slicer.org/t/32418
+---
+
 # How to access advanced option in code?
 
 **Topic ID**: 32418

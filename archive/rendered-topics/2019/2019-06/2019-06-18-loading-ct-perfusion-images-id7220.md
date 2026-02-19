@@ -1,3 +1,10 @@
+---
+topic_id: 7220
+title: "Loading Ct Perfusion Images"
+date: 2019-06-18
+url: https://discourse.slicer.org/t/7220
+---
+
 # Loading CT Perfusion images
 
 **Topic ID**: 7220

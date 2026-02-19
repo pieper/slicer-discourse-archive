@@ -1,3 +1,10 @@
+---
+topic_id: 46081
+title: "Monai Auto3Dseg Inconsistent Performance For Vertebral Body"
+date: 2026-02-06
+url: https://discourse.slicer.org/t/46081
+---
+
 # MONAI Auto3DSeg – inconsistent performance for vertebral body segmentation
 
 **Topic ID**: 46081

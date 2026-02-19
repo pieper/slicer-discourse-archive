@@ -1,3 +1,10 @@
+---
+topic_id: 8488
+title: "Save Subject Hierarchy"
+date: 2019-09-18
+url: https://discourse.slicer.org/t/8488
+---
+
 # Save subject hierarchy
 
 **Topic ID**: 8488

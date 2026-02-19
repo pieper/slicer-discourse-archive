@@ -1,3 +1,10 @@
+---
+topic_id: 19115
+title: "Looking For 3D Slicer Workshop"
+date: 2021-08-09
+url: https://discourse.slicer.org/t/19115
+---
+
 # Looking for 3D Slicer Workshop
 
 **Topic ID**: 19115

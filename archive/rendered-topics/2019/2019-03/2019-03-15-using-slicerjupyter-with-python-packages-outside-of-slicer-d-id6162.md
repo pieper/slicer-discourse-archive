@@ -1,3 +1,10 @@
+---
+topic_id: 6162
+title: "Using Slicerjupyter With Python Packages Outside Of Slicer D"
+date: 2019-03-15
+url: https://discourse.slicer.org/t/6162
+---
+
 # Using SlicerJupyter with python packages outside of Slicer distribution
 
 **Topic ID**: 6162

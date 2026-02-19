@@ -1,3 +1,10 @@
+---
+topic_id: 27533
+title: "Total Segmentor Error Slow Segmentation Mode"
+date: 2023-01-30
+url: https://discourse.slicer.org/t/27533
+---
+
 # Total Segmentor error ( slow segmentation mode)
 
 **Topic ID**: 27533

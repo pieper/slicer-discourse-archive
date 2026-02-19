@@ -1,3 +1,10 @@
+---
+topic_id: 1352
+title: "Adc Values On A Dwi Scan"
+date: 2017-11-02
+url: https://discourse.slicer.org/t/1352
+---
+
 # ADC values on a DWI scan
 
 **Topic ID**: 1352

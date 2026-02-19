@@ -1,3 +1,10 @@
+---
+topic_id: 10663
+title: "Measure Image Intensity Profile Along Markups Curve"
+date: 2020-03-12
+url: https://discourse.slicer.org/t/10663
+---
+
 # Measure image intensity profile along markups curve
 
 **Topic ID**: 10663

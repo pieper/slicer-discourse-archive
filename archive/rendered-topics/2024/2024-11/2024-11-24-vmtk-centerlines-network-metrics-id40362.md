@@ -1,3 +1,10 @@
+---
+topic_id: 40362
+title: "Vmtk Centerlines Network Metrics"
+date: 2024-11-24
+url: https://discourse.slicer.org/t/40362
+---
+
 # Vmtk centerlines/network metrics
 
 **Topic ID**: 40362

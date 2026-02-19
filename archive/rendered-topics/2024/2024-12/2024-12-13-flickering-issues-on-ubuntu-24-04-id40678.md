@@ -1,3 +1,10 @@
+---
+topic_id: 40678
+title: "Flickering Issues On Ubuntu 24 04"
+date: 2024-12-13
+url: https://discourse.slicer.org/t/40678
+---
+
 # Flickering Issues on Ubuntu 24.04
 
 **Topic ID**: 40678

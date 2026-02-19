@@ -1,3 +1,10 @@
+---
+topic_id: 845
+title: "Can I Superimpose Two Different Ct Data Not Two Models"
+date: 2017-08-09
+url: https://discourse.slicer.org/t/845
+---
+
 # Can I superimpose two different CT data (not two models)?
 
 **Topic ID**: 845

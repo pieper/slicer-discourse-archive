@@ -1,3 +1,10 @@
+---
+topic_id: 36380
+title: "Combine 2 Dental Cbct Scans Maxilla And Mandible"
+date: 2024-05-25
+url: https://discourse.slicer.org/t/36380
+---
+
 # Combine 2 dental cbct scans (maxilla and mandible)
 
 **Topic ID**: 36380

@@ -1,3 +1,10 @@
+---
+topic_id: 17022
+title: "Improve Markups Label Visibility"
+date: 2021-04-10
+url: https://discourse.slicer.org/t/17022
+---
+
 # Improve markups label visibility
 
 **Topic ID**: 17022

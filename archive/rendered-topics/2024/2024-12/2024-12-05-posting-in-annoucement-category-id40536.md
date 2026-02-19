@@ -1,3 +1,10 @@
+---
+topic_id: 40536
+title: "Posting In Annoucement Category"
+date: 2024-12-05
+url: https://discourse.slicer.org/t/40536
+---
+
 # Posting in annoucement category
 
 **Topic ID**: 40536

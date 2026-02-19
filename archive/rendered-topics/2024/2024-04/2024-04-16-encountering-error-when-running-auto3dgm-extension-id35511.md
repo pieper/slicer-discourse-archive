@@ -1,3 +1,10 @@
+---
+topic_id: 35511
+title: "Encountering Error When Running Auto3Dgm Extension"
+date: 2024-04-16
+url: https://discourse.slicer.org/t/35511
+---
+
 # Encountering error when running Auto3dgm extension
 
 **Topic ID**: 35511

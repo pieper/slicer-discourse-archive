@@ -1,3 +1,10 @@
+---
+topic_id: 29798
+title: "Threshold Standarization"
+date: 2023-06-02
+url: https://discourse.slicer.org/t/29798
+---
+
 # Threshold standarization
 
 **Topic ID**: 29798

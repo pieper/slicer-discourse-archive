@@ -1,3 +1,10 @@
+---
+topic_id: 39541
+title: "3D Reconstruction Of Collagen Structure"
+date: 2024-10-04
+url: https://discourse.slicer.org/t/39541
+---
+
 # 3D reconstruction of collagen structure
 
 **Topic ID**: 39541

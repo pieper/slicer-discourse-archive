@@ -1,3 +1,10 @@
+---
+topic_id: 44395
+title: "Using Markups Planes As A Bone Cut Planning For Navigation M"
+date: 2025-09-09
+url: https://discourse.slicer.org/t/44395
+---
+
 # Using Markups planes as a bone cut planning for navigation machine
 
 **Topic ID**: 44395

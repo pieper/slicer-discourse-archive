@@ -1,3 +1,10 @@
+---
+topic_id: 9411
+title: "Stl File Conversion"
+date: 2019-12-06
+url: https://discourse.slicer.org/t/9411
+---
+
 # Stl file conversion
 
 **Topic ID**: 9411

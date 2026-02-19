@@ -1,3 +1,10 @@
+---
+topic_id: 41167
+title: "Assertionerror In Distutils While Installing Torch With Pyto"
+date: 2025-01-20
+url: https://discourse.slicer.org/t/41167
+---
+
 # AssertionError in distutils while installing Torch with PytorchUtils for Segment Anything Model-based extension
 
 **Topic ID**: 41167

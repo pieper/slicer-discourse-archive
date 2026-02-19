@@ -1,3 +1,10 @@
+---
+topic_id: 24211
+title: "Lung Vessels Diameters Using Vmtk"
+date: 2022-07-06
+url: https://discourse.slicer.org/t/24211
+---
+
 # Lung Vessels Diameters using VMTK
 
 **Topic ID**: 24211

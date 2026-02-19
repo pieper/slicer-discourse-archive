@@ -1,3 +1,10 @@
+---
+topic_id: 20727
+title: "How Can I Use Vmtk Using Python Without 3D Slicer Gui"
+date: 2021-11-22
+url: https://discourse.slicer.org/t/20727
+---
+
 # How can I use vmtk using python without 3D slicer GUI?
 
 **Topic ID**: 20727

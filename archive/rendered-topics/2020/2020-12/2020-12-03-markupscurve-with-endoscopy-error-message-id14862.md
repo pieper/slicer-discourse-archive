@@ -1,3 +1,10 @@
+---
+topic_id: 14862
+title: "Markupscurve With Endoscopy Error Message"
+date: 2020-12-03
+url: https://discourse.slicer.org/t/14862
+---
+
 # MarkupsCurve with Endoscopy error message
 
 **Topic ID**: 14862

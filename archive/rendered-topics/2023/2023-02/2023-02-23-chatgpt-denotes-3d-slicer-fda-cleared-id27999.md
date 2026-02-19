@@ -1,3 +1,10 @@
+---
+topic_id: 27999
+title: "Chatgpt Denotes 3D Slicer Fda Cleared"
+date: 2023-02-23
+url: https://discourse.slicer.org/t/27999
+---
+
 # ChatGPT denotes 3D Slicer FDA-cleared?
 
 **Topic ID**: 27999

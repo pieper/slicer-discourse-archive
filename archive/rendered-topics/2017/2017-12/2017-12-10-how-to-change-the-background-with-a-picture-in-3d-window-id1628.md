@@ -1,3 +1,10 @@
+---
+topic_id: 1628
+title: "How To Change The Background With A Picture In 3D Window"
+date: 2017-12-10
+url: https://discourse.slicer.org/t/1628
+---
+
 # How to change the background with a picture in 3d window?
 
 **Topic ID**: 1628

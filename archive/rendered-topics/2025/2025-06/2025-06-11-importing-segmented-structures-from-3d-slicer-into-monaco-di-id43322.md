@@ -1,3 +1,10 @@
+---
+topic_id: 43322
+title: "Importing Segmented Structures From 3D Slicer Into Monaco Di"
+date: 2025-06-11
+url: https://discourse.slicer.org/t/43322
+---
+
 # Importing Segmented Structures from 3D Slicer into Monaco (DICOM Format)
 
 **Topic ID**: 43322

@@ -1,3 +1,10 @@
+---
+topic_id: 10431
+title: "New Feature Draw Curve On Surface"
+date: 2020-02-25
+url: https://discourse.slicer.org/t/10431
+---
+
 # New feature: draw curve on surface
 
 **Topic ID**: 10431

@@ -1,3 +1,10 @@
+---
+topic_id: 1604
+title: "What Is The Underlying Function Of Interpolate Option Of Vol"
+date: 2017-12-06
+url: https://discourse.slicer.org/t/1604
+---
+
 # What is the underlying function of 'interpolate' option of Volumes module
 
 **Topic ID**: 1604

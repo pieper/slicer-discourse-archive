@@ -1,3 +1,10 @@
+---
+topic_id: 26826
+title: "My Dicom File Isnt Loaded With Proper View"
+date: 2022-12-19
+url: https://discourse.slicer.org/t/26826
+---
+
 # My DICOM file isn't loaded with proper view
 
 **Topic ID**: 26826

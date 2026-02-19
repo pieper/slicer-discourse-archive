@@ -1,3 +1,10 @@
+---
+topic_id: 18235
+title: "How To Get 3D Heat Map Model From Petct"
+date: 2021-06-20
+url: https://discourse.slicer.org/t/18235
+---
+
 # How to get 3d heat map model from petct?
 
 **Topic ID**: 18235

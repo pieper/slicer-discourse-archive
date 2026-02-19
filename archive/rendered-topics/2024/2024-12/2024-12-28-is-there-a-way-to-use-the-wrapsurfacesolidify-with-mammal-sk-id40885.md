@@ -1,3 +1,10 @@
+---
+topic_id: 40885
+title: "Is There A Way To Use The Wrapsurfacesolidify With Mammal Sk"
+date: 2024-12-28
+url: https://discourse.slicer.org/t/40885
+---
+
 # Is there a way to use the WrapSurfaceSolidify with mammal skulls successfully
 
 **Topic ID**: 40885

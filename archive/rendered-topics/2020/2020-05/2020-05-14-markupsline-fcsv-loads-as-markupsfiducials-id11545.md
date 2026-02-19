@@ -1,3 +1,10 @@
+---
+topic_id: 11545
+title: "Markupsline Fcsv Loads As Markupsfiducials"
+date: 2020-05-14
+url: https://discourse.slicer.org/t/11545
+---
+
 # MarkupsLine .fcsv loads as MarkupsFiducials
 
 **Topic ID**: 11545

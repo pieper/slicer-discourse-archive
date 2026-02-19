@@ -1,3 +1,10 @@
+---
+topic_id: 29181
+title: "Link Dual Views With Relative Camera Position"
+date: 2023-04-28
+url: https://discourse.slicer.org/t/29181
+---
+
 # Link dual views with relative camera position
 
 **Topic ID**: 29181

@@ -1,3 +1,10 @@
+---
+topic_id: 30758
+title: "Subregion Analysis Pyradiomics"
+date: 2023-07-24
+url: https://discourse.slicer.org/t/30758
+---
+
 # subregion analysis pyradiomics
 
 **Topic ID**: 30758

@@ -1,3 +1,10 @@
+---
+topic_id: 31232
+title: "Saving Control Point Phase"
+date: 2023-08-18
+url: https://discourse.slicer.org/t/31232
+---
+
 # Saving control point phase
 
 **Topic ID**: 31232

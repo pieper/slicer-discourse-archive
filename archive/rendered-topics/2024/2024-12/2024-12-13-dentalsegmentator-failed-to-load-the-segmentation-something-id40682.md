@@ -1,3 +1,10 @@
+---
+topic_id: 40682
+title: "Dentalsegmentator Failed To Load The Segmentation Something"
+date: 2024-12-13
+url: https://discourse.slicer.org/t/40682
+---
+
 # dentalsegmentator Failed to load the segmentation, Something went wrong during the nnUNet processing.
 
 **Topic ID**: 40682

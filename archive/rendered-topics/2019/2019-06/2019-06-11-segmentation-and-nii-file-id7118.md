@@ -1,3 +1,10 @@
+---
+topic_id: 7118
+title: "Segmentation And Nii File"
+date: 2019-06-11
+url: https://discourse.slicer.org/t/7118
+---
+
 # Segmentation and nii file
 
 **Topic ID**: 7118

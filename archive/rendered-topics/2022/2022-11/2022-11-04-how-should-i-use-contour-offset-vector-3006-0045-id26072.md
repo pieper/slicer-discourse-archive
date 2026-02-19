@@ -1,3 +1,10 @@
+---
+topic_id: 26072
+title: "How Should I Use Contour Offset Vector 3006 0045"
+date: 2022-11-04
+url: https://discourse.slicer.org/t/26072
+---
+
 # How should I use Contour Offset Vector (3006,0045)?
 
 **Topic ID**: 26072

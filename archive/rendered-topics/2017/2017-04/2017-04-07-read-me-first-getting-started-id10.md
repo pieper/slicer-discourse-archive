@@ -1,3 +1,10 @@
+---
+topic_id: 10
+title: "Read Me First Getting Started"
+date: 2017-04-07
+url: https://discourse.slicer.org/t/10
+---
+
 # READ ME FIRST: Getting Started
 
 **Topic ID**: 10

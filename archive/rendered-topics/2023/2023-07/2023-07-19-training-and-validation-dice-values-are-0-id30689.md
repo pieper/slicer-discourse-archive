@@ -1,3 +1,10 @@
+---
+topic_id: 30689
+title: "Training And Validation Dice Values Are 0"
+date: 2023-07-19
+url: https://discourse.slicer.org/t/30689
+---
+
 # Training and Validation Dice Values are 0
 
 **Topic ID**: 30689

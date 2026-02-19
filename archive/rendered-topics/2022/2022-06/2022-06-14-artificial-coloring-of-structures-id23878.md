@@ -1,3 +1,10 @@
+---
+topic_id: 23878
+title: "Artificial Coloring Of Structures"
+date: 2022-06-14
+url: https://discourse.slicer.org/t/23878
+---
+
 # Artificial Coloring of Structures
 
 **Topic ID**: 23878

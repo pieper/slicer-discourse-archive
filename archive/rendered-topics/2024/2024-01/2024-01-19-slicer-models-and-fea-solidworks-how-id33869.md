@@ -1,3 +1,10 @@
+---
+topic_id: 33869
+title: "Slicer Models And Fea Solidworks How"
+date: 2024-01-19
+url: https://discourse.slicer.org/t/33869
+---
+
 # Slicer models and FEA solidworks. How?
 
 **Topic ID**: 33869

@@ -1,3 +1,10 @@
+---
+topic_id: 6539
+title: "Calculating The Average Deformations From Model To Model Dis"
+date: 2019-04-19
+url: https://discourse.slicer.org/t/6539
+---
+
 # Calculating the average deformations from Model to Model Distance
 
 **Topic ID**: 6539

@@ -1,3 +1,10 @@
+---
+topic_id: 1278
+title: "Bonetextureextension Texture Analysis Work In Slicer"
+date: 2017-10-24
+url: https://discourse.slicer.org/t/1278
+---
+
 # BoneTextureExtension: Texture Analysis Work in Slicer
 
 **Topic ID**: 1278

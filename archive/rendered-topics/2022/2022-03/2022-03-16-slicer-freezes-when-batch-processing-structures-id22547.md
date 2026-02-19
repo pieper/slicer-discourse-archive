@@ -1,3 +1,10 @@
+---
+topic_id: 22547
+title: "Slicer Freezes When Batch Processing Structures"
+date: 2022-03-16
+url: https://discourse.slicer.org/t/22547
+---
+
 # Slicer freezes when batch processing structures
 
 **Topic ID**: 22547

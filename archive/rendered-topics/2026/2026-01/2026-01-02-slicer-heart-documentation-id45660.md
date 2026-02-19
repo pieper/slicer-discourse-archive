@@ -1,3 +1,10 @@
+---
+topic_id: 45660
+title: "Slicer Heart Documentation"
+date: 2026-01-02
+url: https://discourse.slicer.org/t/45660
+---
+
 # Slicer Heart documentation
 
 **Topic ID**: 45660

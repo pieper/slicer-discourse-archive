@@ -1,3 +1,10 @@
+---
+topic_id: 9715
+title: "Postdoc Position Available Immediately In Magnetics Electrom"
+date: 2020-01-05
+url: https://discourse.slicer.org/t/9715
+---
+
 # postdoc position available immediately in magnetics (electromagnetic tracking)
 
 **Topic ID**: 9715

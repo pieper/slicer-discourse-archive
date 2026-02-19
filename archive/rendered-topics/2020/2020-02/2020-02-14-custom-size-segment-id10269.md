@@ -1,3 +1,10 @@
+---
+topic_id: 10269
+title: "Custom Size Segment"
+date: 2020-02-14
+url: https://discourse.slicer.org/t/10269
+---
+
 # Custom Size Segment
 
 **Topic ID**: 10269

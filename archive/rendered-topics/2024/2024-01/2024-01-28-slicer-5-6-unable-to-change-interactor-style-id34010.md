@@ -1,3 +1,10 @@
+---
+topic_id: 34010
+title: "Slicer 5 6 Unable To Change Interactor Style"
+date: 2024-01-28
+url: https://discourse.slicer.org/t/34010
+---
+
 # Slicer 5.6: unable to change interactor style
 
 **Topic ID**: 34010

@@ -1,3 +1,10 @@
+---
+topic_id: 35111
+title: "Should Slicer Dicom Storage Listener Respond To C Echo"
+date: 2024-03-27
+url: https://discourse.slicer.org/t/35111
+---
+
 # Should Slicer DICOM storage listener respond to C-ECHO?
 
 **Topic ID**: 35111

@@ -1,3 +1,10 @@
+---
+topic_id: 3045
+title: "Measure Thigh Muscle Volume"
+date: 2018-06-01
+url: https://discourse.slicer.org/t/3045
+---
+
 # Measure thigh muscle volume
 
 **Topic ID**: 3045

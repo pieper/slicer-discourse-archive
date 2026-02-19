@@ -1,3 +1,10 @@
+---
+topic_id: 36943
+title: "Become A Member Of The International Society For Tractograph"
+date: 2024-06-21
+url: https://discourse.slicer.org/t/36943
+---
+
 # Become a member of the International Society for Tractography (IST)
 
 **Topic ID**: 36943

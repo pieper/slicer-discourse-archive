@@ -1,3 +1,10 @@
+---
+topic_id: 24400
+title: "Starting Slicer From Github Actions Workflow"
+date: 2022-07-19
+url: https://discourse.slicer.org/t/24400
+---
+
 # Starting Slicer from GitHub Actions workflow
 
 **Topic ID**: 24400

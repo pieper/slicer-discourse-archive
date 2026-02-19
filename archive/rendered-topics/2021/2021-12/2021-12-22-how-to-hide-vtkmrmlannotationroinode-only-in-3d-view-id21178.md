@@ -1,3 +1,10 @@
+---
+topic_id: 21178
+title: "How To Hide Vtkmrmlannotationroinode Only In 3D View"
+date: 2021-12-22
+url: https://discourse.slicer.org/t/21178
+---
+
 # How to hide vtkMRMLAnnotationROINode only in 3d view?
 
 **Topic ID**: 21178

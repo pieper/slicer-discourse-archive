@@ -1,3 +1,10 @@
+---
+topic_id: 5325
+title: "Using External Qml For Slicer Custom Application"
+date: 2019-01-10
+url: https://discourse.slicer.org/t/5325
+---
+
 # Using external QML for Slicer custom application?
 
 **Topic ID**: 5325

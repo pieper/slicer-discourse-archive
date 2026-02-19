@@ -1,3 +1,10 @@
+---
+topic_id: 17001
+title: "Export Dicom Or Nifti Images In Different Slicing Plane"
+date: 2021-04-08
+url: https://discourse.slicer.org/t/17001
+---
+
 # Export Dicom or Nifti images in different Slicing Plane
 
 **Topic ID**: 17001

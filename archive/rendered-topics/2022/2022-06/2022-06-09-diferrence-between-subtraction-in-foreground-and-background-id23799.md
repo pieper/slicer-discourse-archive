@@ -1,3 +1,10 @@
+---
+topic_id: 23799
+title: "Diferrence Between Subtraction In Foreground And Background"
+date: 2022-06-09
+url: https://discourse.slicer.org/t/23799
+---
+
 # Diferrence Between Subtraction in ForeGround and Background and Subtract Scalar Volumes
 
 **Topic ID**: 23799

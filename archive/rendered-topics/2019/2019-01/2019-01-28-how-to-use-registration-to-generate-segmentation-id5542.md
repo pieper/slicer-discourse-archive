@@ -1,3 +1,10 @@
+---
+topic_id: 5542
+title: "How To Use Registration To Generate Segmentation"
+date: 2019-01-28
+url: https://discourse.slicer.org/t/5542
+---
+
 # How to Use Registration to Generate Segmentation
 
 **Topic ID**: 5542

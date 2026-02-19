@@ -1,3 +1,10 @@
+---
+topic_id: 5104
+title: "Calculating The Total Volume Of Organ Which Is Placed In Two"
+date: 2018-12-17
+url: https://discourse.slicer.org/t/5104
+---
+
 # Calculating the total volume of organ which is placed in two radiation fields
 
 **Topic ID**: 5104

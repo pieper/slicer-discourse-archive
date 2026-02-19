@@ -1,3 +1,10 @@
+---
+topic_id: 24818
+title: "How Can I Segment T1W Mri And Produce Its Image Mask"
+date: 2022-08-18
+url: https://discourse.slicer.org/t/24818
+---
+
 # How can I segment T1W MRI and produce its image mask?
 
 **Topic ID**: 24818

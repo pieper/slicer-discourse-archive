@@ -1,3 +1,10 @@
+---
+topic_id: 28513
+title: "3Dslicer And Unity Communication To Use Registration Algorit"
+date: 2023-03-22
+url: https://discourse.slicer.org/t/28513
+---
+
 # 3dslicer and unity communication to use registration algorithms
 
 **Topic ID**: 28513

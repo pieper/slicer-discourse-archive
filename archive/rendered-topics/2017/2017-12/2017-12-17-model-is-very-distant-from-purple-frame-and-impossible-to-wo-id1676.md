@@ -1,3 +1,10 @@
+---
+topic_id: 1676
+title: "Model Is Very Distant From Purple Frame And Impossible To Wo"
+date: 2017-12-17
+url: https://discourse.slicer.org/t/1676
+---
+
 # Model is very distant from purple frame and impossible to work with. 
 
 **Topic ID**: 1676

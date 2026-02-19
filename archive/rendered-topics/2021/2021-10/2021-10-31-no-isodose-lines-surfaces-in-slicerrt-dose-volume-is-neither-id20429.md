@@ -1,3 +1,10 @@
+---
+topic_id: 20429
+title: "No Isodose Lines Surfaces In Slicerrt Dose Volume Is Neither"
+date: 2021-10-31
+url: https://discourse.slicer.org/t/20429
+---
+
 # No isodose lines/surfaces in SlicerRT - dose volume is neither "GY" nor "RELATIVE"
 
 **Topic ID**: 20429

@@ -1,3 +1,10 @@
+---
+topic_id: 27270
+title: "Use Amd Rocm For Totalsegmentator"
+date: 2023-01-16
+url: https://discourse.slicer.org/t/27270
+---
+
 # Use AMD ROCm for TotalSegmentator
 
 **Topic ID**: 27270

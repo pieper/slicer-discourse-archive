@@ -1,3 +1,10 @@
+---
+topic_id: 14192
+title: "Translate An Input Data Such As Ct In Cli Module"
+date: 2020-10-21
+url: https://discourse.slicer.org/t/14192
+---
+
 # Translate an input data (such as CT) in CLI module
 
 **Topic ID**: 14192

@@ -1,3 +1,10 @@
+---
+topic_id: 28441
+title: "Parenchyma Analysis Series And Variability"
+date: 2023-03-18
+url: https://discourse.slicer.org/t/28441
+---
+
 # Parenchyma Analysis, series and variability
 
 **Topic ID**: 28441

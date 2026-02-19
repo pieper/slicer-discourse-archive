@@ -1,3 +1,10 @@
+---
+topic_id: 12099
+title: "Bone Texture Extension Errors"
+date: 2020-06-18
+url: https://discourse.slicer.org/t/12099
+---
+
 # Bone texture extension errors
 
 **Topic ID**: 12099

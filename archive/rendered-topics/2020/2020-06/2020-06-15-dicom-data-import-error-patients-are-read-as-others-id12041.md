@@ -1,3 +1,10 @@
+---
+topic_id: 12041
+title: "Dicom Data Import Error Patients Are Read As Others"
+date: 2020-06-15
+url: https://discourse.slicer.org/t/12041
+---
+
 # DICOM data import error: patients are read as others
 
 **Topic ID**: 12041

@@ -1,3 +1,10 @@
+---
+topic_id: 19360
+title: "Is There Any Way To Programmatically Change Scissor Operatio"
+date: 2021-08-25
+url: https://discourse.slicer.org/t/19360
+---
+
 # Is there any way to programmatically change scissor operation in segment editor?
 
 **Topic ID**: 19360

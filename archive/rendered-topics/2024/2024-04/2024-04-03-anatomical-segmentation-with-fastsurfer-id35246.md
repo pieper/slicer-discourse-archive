@@ -1,3 +1,10 @@
+---
+topic_id: 35246
+title: "Anatomical Segmentation With Fastsurfer"
+date: 2024-04-03
+url: https://discourse.slicer.org/t/35246
+---
+
 # Anatomical segmentation with Fastsurfer
 
 **Topic ID**: 35246

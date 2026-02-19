@@ -1,3 +1,10 @@
+---
+topic_id: 41477
+title: "Saving Files Have To Add File Name Each Time"
+date: 2025-02-04
+url: https://discourse.slicer.org/t/41477
+---
+
 # Saving files. Have to add file name each time
 
 **Topic ID**: 41477

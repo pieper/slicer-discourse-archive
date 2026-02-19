@@ -1,3 +1,10 @@
+---
+topic_id: 13045
+title: "Crosshair With Mouse Drag Drop Navigation"
+date: 2020-08-17
+url: https://discourse.slicer.org/t/13045
+---
+
 # Crosshair with mouse drag&drop navigation
 
 **Topic ID**: 13045

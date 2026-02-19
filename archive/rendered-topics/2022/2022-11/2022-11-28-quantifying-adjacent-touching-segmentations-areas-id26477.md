@@ -1,3 +1,10 @@
+---
+topic_id: 26477
+title: "Quantifying Adjacent Touching Segmentations Areas"
+date: 2022-11-28
+url: https://discourse.slicer.org/t/26477
+---
+
 # Quantifying adjacent/touching segmentations-areas
 
 **Topic ID**: 26477

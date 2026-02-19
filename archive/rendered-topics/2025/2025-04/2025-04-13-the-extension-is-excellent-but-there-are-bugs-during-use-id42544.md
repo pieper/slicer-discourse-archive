@@ -1,3 +1,10 @@
+---
+topic_id: 42544
+title: "The Extension Is Excellent But There Are Bugs During Use"
+date: 2025-04-13
+url: https://discourse.slicer.org/t/42544
+---
+
 # The extension is excellent, but there are bugs during use!
 
 **Topic ID**: 42544

@@ -1,3 +1,10 @@
+---
+topic_id: 2825
+title: "Small Differences"
+date: 2018-05-16
+url: https://discourse.slicer.org/t/2825
+---
+
 # Small differences
 
 **Topic ID**: 2825

@@ -1,3 +1,10 @@
+---
+topic_id: 10729
+title: "How To Improve The Efficiency Of Data Import When Labeling A"
+date: 2020-03-18
+url: https://discourse.slicer.org/t/10729
+---
+
 # How to improve the efficiency of data import when labeling a large amount of data?
 
 **Topic ID**: 10729

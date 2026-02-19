@@ -1,3 +1,10 @@
+---
+topic_id: 22226
+title: "Join Image Series Together"
+date: 2022-03-01
+url: https://discourse.slicer.org/t/22226
+---
+
 # Join image series together
 
 **Topic ID**: 22226

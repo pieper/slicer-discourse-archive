@@ -1,3 +1,10 @@
+---
+topic_id: 14895
+title: "Model Maker Crashes Slicer"
+date: 2020-12-05
+url: https://discourse.slicer.org/t/14895
+---
+
 # Model Maker crashes Slicer
 
 **Topic ID**: 14895

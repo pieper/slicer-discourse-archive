@@ -1,3 +1,10 @@
+---
+topic_id: 14674
+title: "Delayed Callback When Segmentationnode Is Added To The Scene"
+date: 2020-11-18
+url: https://discourse.slicer.org/t/14674
+---
+
 # Delayed callback when SegmentationNode is added to the scene
 
 **Topic ID**: 14674

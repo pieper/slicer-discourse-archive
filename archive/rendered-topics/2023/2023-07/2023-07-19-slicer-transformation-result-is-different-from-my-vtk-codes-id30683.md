@@ -1,3 +1,10 @@
+---
+topic_id: 30683
+title: "Slicer Transformation Result Is Different From My Vtk Codes"
+date: 2023-07-19
+url: https://discourse.slicer.org/t/30683
+---
+
 # Slicer transformation result is different from my vtk codes
 
 **Topic ID**: 30683

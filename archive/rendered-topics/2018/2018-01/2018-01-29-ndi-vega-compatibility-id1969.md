@@ -1,3 +1,10 @@
+---
+topic_id: 1969
+title: "Ndi Vega Compatibility"
+date: 2018-01-29
+url: https://discourse.slicer.org/t/1969
+---
+
 # NDI Vega compatibility
 
 **Topic ID**: 1969

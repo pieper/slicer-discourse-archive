@@ -1,3 +1,10 @@
+---
+topic_id: 21696
+title: "Loading Dicom Ct Rt Structure Is Incomplete"
+date: 2022-01-29
+url: https://discourse.slicer.org/t/21696
+---
+
 # Loading DICOM CT+RT Structure is incomplete
 
 **Topic ID**: 21696

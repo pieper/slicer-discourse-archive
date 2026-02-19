@@ -1,3 +1,10 @@
+---
+topic_id: 7093
+title: "Image Sets Keep Losing Relationship On 3D Model Generation"
+date: 2019-06-08
+url: https://discourse.slicer.org/t/7093
+---
+
 # Image sets keep losing relationship on 3d model generation
 
 **Topic ID**: 7093

@@ -1,3 +1,10 @@
+---
+topic_id: 26051
+title: "Segmentation Smooth"
+date: 2022-11-03
+url: https://discourse.slicer.org/t/26051
+---
+
 # Segmentation smooth
 
 **Topic ID**: 26051

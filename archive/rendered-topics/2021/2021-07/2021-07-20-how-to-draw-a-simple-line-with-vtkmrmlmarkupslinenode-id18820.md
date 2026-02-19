@@ -1,3 +1,10 @@
+---
+topic_id: 18820
+title: "How To Draw A Simple Line With Vtkmrmlmarkupslinenode"
+date: 2021-07-20
+url: https://discourse.slicer.org/t/18820
+---
+
 # How to draw a simple line with vtkMRMLMarkupsLineNode?
 
 **Topic ID**: 18820

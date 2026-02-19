@@ -1,3 +1,10 @@
+---
+topic_id: 25902
+title: "Segmentation Object Naming Scheme Inconsistency"
+date: 2022-10-25
+url: https://discourse.slicer.org/t/25902
+---
+
 # Segmentation object naming scheme inconsistency
 
 **Topic ID**: 25902

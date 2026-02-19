@@ -1,3 +1,10 @@
+---
+topic_id: 28251
+title: "Extension Settings In C Code"
+date: 2023-03-09
+url: https://discourse.slicer.org/t/28251
+---
+
 # Extension settings in C++ code
 
 **Topic ID**: 28251

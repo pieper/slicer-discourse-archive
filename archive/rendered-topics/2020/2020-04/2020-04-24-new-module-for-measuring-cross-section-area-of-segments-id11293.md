@@ -1,3 +1,10 @@
+---
+topic_id: 11293
+title: "New Module For Measuring Cross Section Area Of Segments"
+date: 2020-04-24
+url: https://discourse.slicer.org/t/11293
+---
+
 # New module for measuring cross-section area of segments
 
 **Topic ID**: 11293

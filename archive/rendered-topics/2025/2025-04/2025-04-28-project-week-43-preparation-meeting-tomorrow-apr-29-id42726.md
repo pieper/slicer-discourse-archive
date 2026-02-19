@@ -1,3 +1,10 @@
+---
+topic_id: 42726
+title: "Project Week 43 Preparation Meeting Tomorrow Apr 29"
+date: 2025-04-28
+url: https://discourse.slicer.org/t/42726
+---
+
 # Project Week 43 preparation meeting tomorrow (Apr 29)
 
 **Topic ID**: 42726

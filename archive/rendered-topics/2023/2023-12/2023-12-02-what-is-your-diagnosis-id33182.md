@@ -1,3 +1,10 @@
+---
+topic_id: 33182
+title: "What Is Your Diagnosis"
+date: 2023-12-02
+url: https://discourse.slicer.org/t/33182
+---
+
 # What is your diagnosis?
 
 **Topic ID**: 33182

@@ -1,3 +1,10 @@
+---
+topic_id: 17032
+title: "Enabling Volume Rendering For A Large Volume Makes The Appli"
+date: 2021-04-12
+url: https://discourse.slicer.org/t/17032
+---
+
 # Enabling volume rendering for a large volume makes the application crash
 
 **Topic ID**: 17032

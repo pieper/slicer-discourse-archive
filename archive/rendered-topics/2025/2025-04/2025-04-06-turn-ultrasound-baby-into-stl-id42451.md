@@ -1,3 +1,10 @@
+---
+topic_id: 42451
+title: "Turn Ultrasound Baby Into Stl"
+date: 2025-04-06
+url: https://discourse.slicer.org/t/42451
+---
+
 # Turn ultrasound baby into stl
 
 **Topic ID**: 42451

@@ -1,3 +1,10 @@
+---
+topic_id: 935
+title: "Extension Build Failure On Mac Due To Error Copying Files"
+date: 2017-08-24
+url: https://discourse.slicer.org/t/935
+---
+
 # Extension build failure on Mac due to error copying files
 
 **Topic ID**: 935

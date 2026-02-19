@@ -1,3 +1,10 @@
+---
+topic_id: 17464
+title: "Include A Manual Segment Editor Effect In A Module"
+date: 2021-05-05
+url: https://discourse.slicer.org/t/17464
+---
+
 # Include a manual Segment Editor effect in a module
 
 **Topic ID**: 17464

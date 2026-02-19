@@ -1,3 +1,10 @@
+---
+topic_id: 44783
+title: "Applying Semi Landmarks Obtained With Pseudolmgenerator To O"
+date: 2025-10-16
+url: https://discourse.slicer.org/t/44783
+---
+
 # Applying semi-landmarks obtained with PseudoLMGenerator to other models
 
 **Topic ID**: 44783

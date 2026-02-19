@@ -1,3 +1,10 @@
+---
+topic_id: 6916
+title: "Read Pixel Data Of Dicom Rt Files"
+date: 2019-05-24
+url: https://discourse.slicer.org/t/6916
+---
+
 # Read pixel data of DICOM RT files
 
 **Topic ID**: 6916

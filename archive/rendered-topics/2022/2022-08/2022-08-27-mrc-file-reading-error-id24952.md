@@ -1,3 +1,10 @@
+---
+topic_id: 24952
+title: "Mrc File Reading Error"
+date: 2022-08-27
+url: https://discourse.slicer.org/t/24952
+---
+
 # mrc file- reading error 
 
 **Topic ID**: 24952

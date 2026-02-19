@@ -1,3 +1,10 @@
+---
+topic_id: 23360
+title: "How To Change The Name Of A Folder In The Subject Hierarchy"
+date: 2022-05-10
+url: https://discourse.slicer.org/t/23360
+---
+
 # How to change the name of a folder in the subject hierarchy
 
 **Topic ID**: 23360

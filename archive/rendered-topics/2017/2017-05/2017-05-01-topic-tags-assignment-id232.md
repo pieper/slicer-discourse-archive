@@ -1,3 +1,10 @@
+---
+topic_id: 232
+title: "Topic Tags Assignment"
+date: 2017-05-01
+url: https://discourse.slicer.org/t/232
+---
+
 # Topic tags assignment
 
 **Topic ID**: 232

@@ -1,3 +1,10 @@
+---
+topic_id: 12256
+title: "Getting Sketchfab Data Into Slicer"
+date: 2020-06-28
+url: https://discourse.slicer.org/t/12256
+---
+
 # Getting sketchfab data into Slicer
 
 **Topic ID**: 12256

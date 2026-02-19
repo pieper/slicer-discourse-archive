@@ -1,3 +1,10 @@
+---
+topic_id: 10665
+title: "Window Level Manual Min Max"
+date: 2020-03-12
+url: https://discourse.slicer.org/t/10665
+---
+
 # Window Level Manual Min/Max
 
 **Topic ID**: 10665

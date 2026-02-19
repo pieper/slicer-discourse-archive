@@ -1,3 +1,10 @@
+---
+topic_id: 35312
+title: "Set Scale Bar In A 3D Scan"
+date: 2024-04-05
+url: https://discourse.slicer.org/t/35312
+---
+
 # Set Scale Bar in a 3D scan
 
 **Topic ID**: 35312

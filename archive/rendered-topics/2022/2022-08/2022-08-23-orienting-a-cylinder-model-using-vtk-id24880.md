@@ -1,3 +1,10 @@
+---
+topic_id: 24880
+title: "Orienting A Cylinder Model Using Vtk"
+date: 2022-08-23
+url: https://discourse.slicer.org/t/24880
+---
+
 # Orienting a cylinder model using vtk
 
 **Topic ID**: 24880

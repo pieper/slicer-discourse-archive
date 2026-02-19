@@ -1,3 +1,10 @@
+---
+topic_id: 3671
+title: "Resample Overlaid Volume"
+date: 2018-08-06
+url: https://discourse.slicer.org/t/3671
+---
+
 # Resample overlaid volume
 
 **Topic ID**: 3671

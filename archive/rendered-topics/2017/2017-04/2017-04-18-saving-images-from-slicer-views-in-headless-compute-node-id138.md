@@ -1,3 +1,10 @@
+---
+topic_id: 138
+title: "Saving Images From Slicer Views In Headless Compute Node"
+date: 2017-04-18
+url: https://discourse.slicer.org/t/138
+---
+
 # Saving images from slicer views in headless compute node
 
 **Topic ID**: 138

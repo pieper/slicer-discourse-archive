@@ -1,3 +1,10 @@
+---
+topic_id: 23933
+title: "Groups Instructions Pdf Is Not Inconsistent With The Slicers"
+date: 2022-06-19
+url: https://discourse.slicer.org/t/23933
+---
+
 # Groups’instructions PDF is not inconsistent with the slicersalt’s option bar
 
 **Topic ID**: 23933

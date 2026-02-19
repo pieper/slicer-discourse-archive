@@ -1,3 +1,10 @@
+---
+topic_id: 2993
+title: "2017 11 14 To 2017 12 19 Hangouts For Planning 27Th Project"
+date: 2017-11-14
+url: https://discourse.slicer.org/t/2993
+---
+
 # 2017.11.14 to 2017.12.19 Hangouts for planning 27th Project Week
 
 **Topic ID**: 2993

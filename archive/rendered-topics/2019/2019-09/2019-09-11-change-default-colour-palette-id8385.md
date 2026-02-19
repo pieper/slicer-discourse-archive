@@ -1,3 +1,10 @@
+---
+topic_id: 8385
+title: "Change Default Colour Palette"
+date: 2019-09-11
+url: https://discourse.slicer.org/t/8385
+---
+
 # Change default colour palette
 
 **Topic ID**: 8385

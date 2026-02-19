@@ -1,3 +1,10 @@
+---
+topic_id: 16501
+title: "How To Get Name Of Loaded Mrb File With Python"
+date: 2021-03-12
+url: https://discourse.slicer.org/t/16501
+---
+
 # How to get name of loaded mrb file with python?
 
 **Topic ID**: 16501

@@ -1,3 +1,10 @@
+---
+topic_id: 17300
+title: "R6034 Error Using 3Dslicer"
+date: 2021-04-24
+url: https://discourse.slicer.org/t/17300
+---
+
 # R6034 Error using 3dSlicer
 
 **Topic ID**: 17300

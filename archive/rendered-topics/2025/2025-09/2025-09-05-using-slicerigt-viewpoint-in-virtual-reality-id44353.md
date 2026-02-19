@@ -1,3 +1,10 @@
+---
+topic_id: 44353
+title: "Using Slicerigt Viewpoint In Virtual Reality"
+date: 2025-09-05
+url: https://discourse.slicer.org/t/44353
+---
+
 # Using SlicerIGT viewpoint in Virtual Reality
 
 **Topic ID**: 44353

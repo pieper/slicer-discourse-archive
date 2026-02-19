@@ -1,3 +1,10 @@
+---
+topic_id: 41896
+title: "Issues Building Slicerigsio"
+date: 2025-02-27
+url: https://discourse.slicer.org/t/41896
+---
+
 # Issues building SlicerIGSIO
 
 **Topic ID**: 41896

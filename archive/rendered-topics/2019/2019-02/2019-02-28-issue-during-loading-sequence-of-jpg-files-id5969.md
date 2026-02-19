@@ -1,3 +1,10 @@
+---
+topic_id: 5969
+title: "Issue During Loading Sequence Of Jpg Files"
+date: 2019-02-28
+url: https://discourse.slicer.org/t/5969
+---
+
 # Issue during loading sequence of jpg files
 
 **Topic ID**: 5969

@@ -1,3 +1,10 @@
+---
+topic_id: 21238
+title: "Tool Similar To Remove Islands For This Scenario"
+date: 2021-12-27
+url: https://discourse.slicer.org/t/21238
+---
+
 # Tool similar to "remove islands" for this scenario
 
 **Topic ID**: 21238

@@ -1,3 +1,10 @@
+---
+topic_id: 22837
+title: "Locally Execute Pre Commit Linting Locally"
+date: 2022-04-05
+url: https://discourse.slicer.org/t/22837
+---
+
 # Locally execute pre-commit linting locally
 
 **Topic ID**: 22837

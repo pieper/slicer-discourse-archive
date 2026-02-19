@@ -1,3 +1,10 @@
+---
+topic_id: 21597
+title: "Deformation Automatically Inverted After Centering Volume"
+date: 2022-01-24
+url: https://discourse.slicer.org/t/21597
+---
+
 # Deformation automatically inverted after centering volume
 
 **Topic ID**: 21597

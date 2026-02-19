@@ -1,3 +1,10 @@
+---
+topic_id: 14588
+title: "A Challenge Named Diaphragm"
+date: 2020-11-13
+url: https://discourse.slicer.org/t/14588
+---
+
 # A challenge named diaphragm
 
 **Topic ID**: 14588

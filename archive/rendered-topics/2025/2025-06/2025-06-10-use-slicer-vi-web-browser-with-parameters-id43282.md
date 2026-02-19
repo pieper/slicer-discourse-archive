@@ -1,3 +1,10 @@
+---
+topic_id: 43282
+title: "Use Slicer Vi Web Browser With Parameters"
+date: 2025-06-10
+url: https://discourse.slicer.org/t/43282
+---
+
 # Use slicer vi@ web browser with parameters
 
 **Topic ID**: 43282

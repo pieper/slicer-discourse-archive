@@ -1,3 +1,10 @@
+---
+topic_id: 23102
+title: "Interpolator Pyradiomics"
+date: 2022-04-24
+url: https://discourse.slicer.org/t/23102
+---
+
 # Interpolator pyradiomics
 
 **Topic ID**: 23102

@@ -1,3 +1,10 @@
+---
+topic_id: 27106
+title: "Slicer Plus Server Connection Error"
+date: 2023-01-08
+url: https://discourse.slicer.org/t/27106
+---
+
 # Slicer + Plus Server Connection Error
 
 **Topic ID**: 27106

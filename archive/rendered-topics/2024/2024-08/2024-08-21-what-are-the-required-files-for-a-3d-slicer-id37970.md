@@ -1,3 +1,10 @@
+---
+topic_id: 37970
+title: "What Are The Required Files For A 3D Slicer"
+date: 2024-08-21
+url: https://discourse.slicer.org/t/37970
+---
+
 # What are the required files for a 3d slicer
 
 **Topic ID**: 37970

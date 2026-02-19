@@ -1,3 +1,10 @@
+---
+topic_id: 1211
+title: "Screen Capture 600 Frame Limit"
+date: 2017-10-12
+url: https://discourse.slicer.org/t/1211
+---
+
 # Screen capture - 600 frame limit?
 
 **Topic ID**: 1211

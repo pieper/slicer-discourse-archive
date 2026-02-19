@@ -1,3 +1,10 @@
+---
+topic_id: 22811
+title: "Algorithm Used In Grow From Seeds"
+date: 2022-04-04
+url: https://discourse.slicer.org/t/22811
+---
+
 # Algorithm used in grow from seeds
 
 **Topic ID**: 22811

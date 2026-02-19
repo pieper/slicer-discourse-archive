@@ -1,3 +1,10 @@
+---
+topic_id: 813
+title: "Improving Performance To Manage Thousands Of Models"
+date: 2017-08-03
+url: https://discourse.slicer.org/t/813
+---
+
 # Improving performance to manage thousands of models
 
 **Topic ID**: 813

@@ -1,3 +1,10 @@
+---
+topic_id: 17169
+title: "Brain Volume Mri"
+date: 2021-04-19
+url: https://discourse.slicer.org/t/17169
+---
+
 # Brain volume MRI
 
 **Topic ID**: 17169

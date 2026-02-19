@@ -1,3 +1,10 @@
+---
+topic_id: 7390
+title: "Autocomplete Code Lines For Slicer In An Ide"
+date: 2019-07-02
+url: https://discourse.slicer.org/t/7390
+---
+
 # Autocomplete code lines for slicer in an IDE?
 
 **Topic ID**: 7390

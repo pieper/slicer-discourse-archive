@@ -1,3 +1,10 @@
+---
+topic_id: 18844
+title: "Slicer On A Surface Hub 2S"
+date: 2021-07-20
+url: https://discourse.slicer.org/t/18844
+---
+
 # Slicer on a Surface Hub 2S
 
 **Topic ID**: 18844

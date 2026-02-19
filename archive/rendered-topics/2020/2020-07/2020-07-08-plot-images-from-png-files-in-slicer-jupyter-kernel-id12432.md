@@ -1,3 +1,10 @@
+---
+topic_id: 12432
+title: "Plot Images From Png Files In Slicer Jupyter Kernel"
+date: 2020-07-08
+url: https://discourse.slicer.org/t/12432
+---
+
 # Plot images from PNG files in slicer jupyter kernel
 
 **Topic ID**: 12432

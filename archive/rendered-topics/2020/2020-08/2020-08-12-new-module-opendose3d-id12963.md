@@ -1,3 +1,10 @@
+---
+topic_id: 12963
+title: "New Module Opendose3D"
+date: 2020-08-12
+url: https://discourse.slicer.org/t/12963
+---
+
 # New module: OpenDose3D
 
 **Topic ID**: 12963

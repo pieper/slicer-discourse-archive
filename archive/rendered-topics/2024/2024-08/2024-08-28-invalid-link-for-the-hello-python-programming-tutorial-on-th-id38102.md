@@ -1,3 +1,10 @@
+---
+topic_id: 38102
+title: "Invalid Link For The Hello Python Programming Tutorial On Th"
+date: 2024-08-28
+url: https://discourse.slicer.org/t/38102
+---
+
 # Invalid link for the "Hello Python Programming" tutorial on the official SlicerIGT page
 
 **Topic ID**: 38102

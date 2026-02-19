@@ -1,3 +1,10 @@
+---
+topic_id: 17446
+title: "Induce Deformation"
+date: 2021-05-04
+url: https://discourse.slicer.org/t/17446
+---
+
 # Induce deformation
 
 **Topic ID**: 17446

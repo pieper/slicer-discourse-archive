@@ -1,3 +1,10 @@
+---
+topic_id: 39606
+title: "How To Use Rokae Robot With Python 3 8 Library In Slicer"
+date: 2024-10-09
+url: https://discourse.slicer.org/t/39606
+---
+
 # How to use ROKAE robot with Python 3.8 library in Slicer?
 
 **Topic ID**: 39606

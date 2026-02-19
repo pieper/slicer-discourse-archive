@@ -1,3 +1,10 @@
+---
+topic_id: 22256
+title: "Running A Custom Extension On Start"
+date: 2022-03-02
+url: https://discourse.slicer.org/t/22256
+---
+
 # Running a custom extension on start
 
 **Topic ID**: 22256

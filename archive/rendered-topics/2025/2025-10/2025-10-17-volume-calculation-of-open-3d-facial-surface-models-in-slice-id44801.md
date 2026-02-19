@@ -1,3 +1,10 @@
+---
+topic_id: 44801
+title: "Volume Calculation Of Open 3D Facial Surface Models In Slice"
+date: 2025-10-17
+url: https://discourse.slicer.org/t/44801
+---
+
 # Volume calculation of open 3D facial surface models in Slicer
 
 **Topic ID**: 44801

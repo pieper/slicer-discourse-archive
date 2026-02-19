@@ -1,3 +1,10 @@
+---
+topic_id: 37598
+title: "Newbie Frustration Trying To Learn How To Use Slicer And Sli"
+date: 2024-07-28
+url: https://discourse.slicer.org/t/37598
+---
+
 # Newbie frustration trying to learn how to use Slicer and SlicerMorph
 
 **Topic ID**: 37598

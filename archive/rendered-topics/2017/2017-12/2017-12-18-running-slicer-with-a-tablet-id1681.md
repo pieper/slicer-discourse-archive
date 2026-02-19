@@ -1,3 +1,10 @@
+---
+topic_id: 1681
+title: "Running Slicer With A Tablet"
+date: 2017-12-18
+url: https://discourse.slicer.org/t/1681
+---
+
 # Running Slicer with a Tablet
 
 **Topic ID**: 1681

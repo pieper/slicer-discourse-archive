@@ -1,3 +1,10 @@
+---
+topic_id: 11176
+title: "Error When Importing Cv2 Aruco In Python File"
+date: 2020-04-18
+url: https://discourse.slicer.org/t/11176
+---
+
 # Error when importing cv2.aruco in python file
 
 **Topic ID**: 11176

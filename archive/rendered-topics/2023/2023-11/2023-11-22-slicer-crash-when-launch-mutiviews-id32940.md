@@ -1,3 +1,10 @@
+---
+topic_id: 32940
+title: "Slicer Crash When Launch Mutiviews"
+date: 2023-11-22
+url: https://discourse.slicer.org/t/32940
+---
+
 # Slicer crash when launch mutiviews
 
 **Topic ID**: 32940

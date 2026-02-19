@@ -1,3 +1,10 @@
+---
+topic_id: 32620
+title: "Report A Problem With Converting Stl To Nrrd"
+date: 2023-11-06
+url: https://discourse.slicer.org/t/32620
+---
+
 # Report a problem with converting stl to nrrd
 
 **Topic ID**: 32620

@@ -1,3 +1,10 @@
+---
+topic_id: 518
+title: "Quantitative Features With Heterogeneitycad"
+date: 2017-06-16
+url: https://discourse.slicer.org/t/518
+---
+
 # Quantitative features with HeterogeneityCad
 
 **Topic ID**: 518

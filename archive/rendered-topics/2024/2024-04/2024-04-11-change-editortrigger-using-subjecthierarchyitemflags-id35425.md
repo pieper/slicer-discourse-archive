@@ -1,3 +1,10 @@
+---
+topic_id: 35425
+title: "Change Editortrigger Using Subjecthierarchyitemflags"
+date: 2024-04-11
+url: https://discourse.slicer.org/t/35425
+---
+
 # Change editortrigger using subjectHierarchyItemFlags()
 
 **Topic ID**: 35425

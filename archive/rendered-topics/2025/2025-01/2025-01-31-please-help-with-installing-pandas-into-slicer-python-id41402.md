@@ -1,3 +1,10 @@
+---
+topic_id: 41402
+title: "Please Help With Installing Pandas Into Slicer Python"
+date: 2025-01-31
+url: https://discourse.slicer.org/t/41402
+---
+
 # Please help with installing Pandas into Slicer Python
 
 **Topic ID**: 41402

@@ -1,3 +1,10 @@
+---
+topic_id: 2945
+title: "3D Slicer For Mac Cannot Install Slicer Extensions"
+date: 2018-05-27
+url: https://discourse.slicer.org/t/2945
+---
+
 # 3D slicer for MAC cannot install slicer extensions
 
 **Topic ID**: 2945

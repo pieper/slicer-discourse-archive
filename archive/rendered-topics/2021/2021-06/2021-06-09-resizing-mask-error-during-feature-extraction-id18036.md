@@ -1,3 +1,10 @@
+---
+topic_id: 18036
+title: "Resizing Mask Error During Feature Extraction"
+date: 2021-06-09
+url: https://discourse.slicer.org/t/18036
+---
+
 # Resizing Mask - Error during Feature extraction
 
 **Topic ID**: 18036

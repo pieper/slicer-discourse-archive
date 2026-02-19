@@ -1,3 +1,10 @@
+---
+topic_id: 25732
+title: "Wrong Resolution After Segmentation Geometry"
+date: 2022-10-17
+url: https://discourse.slicer.org/t/25732
+---
+
 # Wrong resolution after 'Segmentation geometry'
 
 **Topic ID**: 25732

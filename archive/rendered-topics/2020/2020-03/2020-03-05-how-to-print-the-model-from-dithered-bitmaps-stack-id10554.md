@@ -1,3 +1,10 @@
+---
+topic_id: 10554
+title: "How To Print The Model From Dithered Bitmaps Stack"
+date: 2020-03-05
+url: https://discourse.slicer.org/t/10554
+---
+
 # How to print the model from dithered bitmaps stack?
 
 **Topic ID**: 10554

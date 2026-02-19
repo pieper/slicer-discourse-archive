@@ -1,3 +1,10 @@
+---
+topic_id: 14832
+title: "Json File Contents Questions"
+date: 2020-12-01
+url: https://discourse.slicer.org/t/14832
+---
+
 # JSON file contents questions
 
 **Topic ID**: 14832

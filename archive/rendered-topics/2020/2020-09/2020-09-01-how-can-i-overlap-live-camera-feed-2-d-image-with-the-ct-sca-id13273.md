@@ -1,3 +1,10 @@
+---
+topic_id: 13273
+title: "How Can I Overlap Live Camera Feed 2 D Image With The Ct Sca"
+date: 2020-09-01
+url: https://discourse.slicer.org/t/13273
+---
+
 # How can I overlap live camera feed (2-D image) with the CT scan model for an Augmented Reality feel?
 
 **Topic ID**: 13273

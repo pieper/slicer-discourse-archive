@@ -1,3 +1,10 @@
+---
+topic_id: 31858
+title: "Why Is Slicer Very Slow To Start The First Time But Fast To"
+date: 2023-09-23
+url: https://discourse.slicer.org/t/31858
+---
+
 # Why is slicer very slow to start the first time，but fast to start the second time？
 
 **Topic ID**: 31858

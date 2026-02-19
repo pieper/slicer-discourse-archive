@@ -1,3 +1,10 @@
+---
+topic_id: 31619
+title: "Clone Markups Node Fails During Custom Module Cleanup"
+date: 2023-09-08
+url: https://discourse.slicer.org/t/31619
+---
+
 # Clone markups node fails during custom module cleanup
 
 **Topic ID**: 31619

@@ -1,3 +1,10 @@
+---
+topic_id: 21270
+title: "How To Install Slicerrt Extension In Docker Slicerdocker Con"
+date: 2021-12-30
+url: https://discourse.slicer.org/t/21270
+---
+
 # How to install SlicerRT extension in docker (slicerDocker) container?
 
 **Topic ID**: 21270

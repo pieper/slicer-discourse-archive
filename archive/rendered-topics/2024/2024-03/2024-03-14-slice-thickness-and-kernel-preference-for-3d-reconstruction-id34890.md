@@ -1,3 +1,10 @@
+---
+topic_id: 34890
+title: "Slice Thickness And Kernel Preference For 3D Reconstruction"
+date: 2024-03-14
+url: https://discourse.slicer.org/t/34890
+---
+
 # Slice thickness and kernel preference for 3D reconstruction
 
 **Topic ID**: 34890

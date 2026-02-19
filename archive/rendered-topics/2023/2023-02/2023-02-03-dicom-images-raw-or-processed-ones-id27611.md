@@ -1,3 +1,10 @@
+---
+topic_id: 27611
+title: "Dicom Images Raw Or Processed Ones"
+date: 2023-02-03
+url: https://discourse.slicer.org/t/27611
+---
+
 # DICOM images, raw or processed ones
 
 **Topic ID**: 27611

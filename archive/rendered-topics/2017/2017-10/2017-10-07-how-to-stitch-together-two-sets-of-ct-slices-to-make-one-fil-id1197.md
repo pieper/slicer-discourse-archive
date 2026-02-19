@@ -1,3 +1,10 @@
+---
+topic_id: 1197
+title: "How To Stitch Together Two Sets Of Ct Slices To Make One Fil"
+date: 2017-10-07
+url: https://discourse.slicer.org/t/1197
+---
+
 # How to stitch together two sets of CT slices to make one file
 
 **Topic ID**: 1197

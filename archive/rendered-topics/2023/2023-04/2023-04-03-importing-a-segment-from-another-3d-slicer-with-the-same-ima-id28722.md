@@ -1,3 +1,10 @@
+---
+topic_id: 28722
+title: "Importing A Segment From Another 3D Slicer With The Same Ima"
+date: 2023-04-03
+url: https://discourse.slicer.org/t/28722
+---
+
 # importing a segment from another 3d slicer with the same image
 
 **Topic ID**: 28722

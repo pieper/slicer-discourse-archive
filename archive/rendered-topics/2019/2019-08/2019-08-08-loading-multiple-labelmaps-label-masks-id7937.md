@@ -1,3 +1,10 @@
+---
+topic_id: 7937
+title: "Loading Multiple Labelmaps Label Masks"
+date: 2019-08-08
+url: https://discourse.slicer.org/t/7937
+---
+
 # Loading multiple labelmaps (label masks)
 
 **Topic ID**: 7937

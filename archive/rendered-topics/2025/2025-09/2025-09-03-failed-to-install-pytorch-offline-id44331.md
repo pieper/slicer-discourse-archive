@@ -1,3 +1,10 @@
+---
+topic_id: 44331
+title: "Failed To Install Pytorch Offline"
+date: 2025-09-03
+url: https://discourse.slicer.org/t/44331
+---
+
 # Failed to Install PyTorch Offline
 
 **Topic ID**: 44331

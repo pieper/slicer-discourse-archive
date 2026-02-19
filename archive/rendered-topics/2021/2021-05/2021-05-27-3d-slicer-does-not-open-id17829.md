@@ -1,3 +1,10 @@
+---
+topic_id: 17829
+title: "3D Slicer Does Not Open"
+date: 2021-05-27
+url: https://discourse.slicer.org/t/17829
+---
+
 # 3D Slicer Does Not Open
 
 **Topic ID**: 17829

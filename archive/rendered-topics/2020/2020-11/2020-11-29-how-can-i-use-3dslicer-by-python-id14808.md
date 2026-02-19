@@ -1,3 +1,10 @@
+---
+topic_id: 14808
+title: "How Can I Use 3Dslicer By Python"
+date: 2020-11-29
+url: https://discourse.slicer.org/t/14808
+---
+
 # How can I use 3DSlicer by python?
 
 **Topic ID**: 14808

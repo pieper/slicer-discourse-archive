@@ -1,3 +1,10 @@
+---
+topic_id: 1891
+title: "Seperating A Femur From The Plevis"
+date: 2018-01-22
+url: https://discourse.slicer.org/t/1891
+---
+
 # seperating a femur from the plevis
 
 **Topic ID**: 1891

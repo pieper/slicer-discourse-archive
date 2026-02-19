@@ -1,3 +1,10 @@
+---
+topic_id: 29732
+title: "Trouble With Creating A Custom Module"
+date: 2023-05-30
+url: https://discourse.slicer.org/t/29732
+---
+
 # Trouble with creating a custom module
 
 **Topic ID**: 29732

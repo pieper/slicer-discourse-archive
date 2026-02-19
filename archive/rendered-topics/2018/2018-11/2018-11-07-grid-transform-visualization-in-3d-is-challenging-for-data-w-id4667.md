@@ -1,3 +1,10 @@
+---
+topic_id: 4667
+title: "Grid Transform Visualization In 3D Is Challenging For Data W"
+date: 2018-11-07
+url: https://discourse.slicer.org/t/4667
+---
+
 # Grid transform visualization in 3D is challenging for data with small voxel size
 
 **Topic ID**: 4667

@@ -1,3 +1,10 @@
+---
+topic_id: 9644
+title: "Not All Modules Are Enabled After Build"
+date: 2019-12-29
+url: https://discourse.slicer.org/t/9644
+---
+
 # Not all modules are enabled after build
 
 **Topic ID**: 9644

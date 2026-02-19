@@ -1,3 +1,10 @@
+---
+topic_id: 12687
+title: "Running A Scripted Cli Module In Parallel"
+date: 2020-07-22
+url: https://discourse.slicer.org/t/12687
+---
+
 # Running a Scripted CLI Module in Parallel
 
 **Topic ID**: 12687

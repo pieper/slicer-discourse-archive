@@ -1,3 +1,10 @@
+---
+topic_id: 28805
+title: "Is It Possible To Override Default Stack Behavior Of Slicer"
+date: 2023-04-07
+url: https://discourse.slicer.org/t/28805
+---
+
 # Is it possible to override default stack behavior of slicer viewport?
 
 **Topic ID**: 28805

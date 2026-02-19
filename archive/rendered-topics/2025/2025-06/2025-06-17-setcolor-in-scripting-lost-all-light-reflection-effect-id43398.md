@@ -1,3 +1,10 @@
+---
+topic_id: 43398
+title: "Setcolor In Scripting Lost All Light Reflection Effect"
+date: 2025-06-17
+url: https://discourse.slicer.org/t/43398
+---
+
 # SetColor() in scripting lost all light reflection effect
 
 **Topic ID**: 43398

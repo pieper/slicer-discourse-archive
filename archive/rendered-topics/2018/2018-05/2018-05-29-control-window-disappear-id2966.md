@@ -1,3 +1,10 @@
+---
+topic_id: 2966
+title: "Control Window Disappear"
+date: 2018-05-29
+url: https://discourse.slicer.org/t/2966
+---
+
 # Control window disappear
 
 **Topic ID**: 2966

@@ -1,3 +1,10 @@
+---
+topic_id: 45841
+title: "Brain Modelling From Mri Images Help"
+date: 2026-01-20
+url: https://discourse.slicer.org/t/45841
+---
+
 # Brain Modelling from MRI images // Help
 
 **Topic ID**: 45841

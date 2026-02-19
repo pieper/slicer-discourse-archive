@@ -1,3 +1,10 @@
+---
+topic_id: 38559
+title: "Getting Started With Monailabel"
+date: 2024-09-26
+url: https://discourse.slicer.org/t/38559
+---
+
 # Getting started with MONAIlabel
 
 **Topic ID**: 38559

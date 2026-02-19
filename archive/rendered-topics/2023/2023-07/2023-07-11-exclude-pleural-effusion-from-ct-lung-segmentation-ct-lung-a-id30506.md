@@ -1,3 +1,10 @@
+---
+topic_id: 30506
+title: "Exclude Pleural Effusion From Ct Lung Segmentation Ct Lung A"
+date: 2023-07-11
+url: https://discourse.slicer.org/t/30506
+---
+
 # Exclude pleural effusion from CT lung segmentation (CT lung analyzer)
 
 **Topic ID**: 30506

@@ -1,3 +1,10 @@
+---
+topic_id: 21050
+title: "How To Correctly Export Overlapping Segmentations"
+date: 2021-12-14
+url: https://discourse.slicer.org/t/21050
+---
+
 # How to correctly export overlapping segmentations?
 
 **Topic ID**: 21050

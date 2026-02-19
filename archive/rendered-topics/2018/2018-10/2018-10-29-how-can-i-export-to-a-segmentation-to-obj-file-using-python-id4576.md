@@ -1,3 +1,10 @@
+---
+topic_id: 4576
+title: "How Can I Export To A Segmentation To Obj File Using Python"
+date: 2018-10-29
+url: https://discourse.slicer.org/t/4576
+---
+
 # How can I export to a segmentation to OBJ file using Python?
 
 **Topic ID**: 4576

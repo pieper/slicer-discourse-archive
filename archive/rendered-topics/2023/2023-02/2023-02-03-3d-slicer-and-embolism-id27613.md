@@ -1,3 +1,10 @@
+---
+topic_id: 27613
+title: "3D Slicer And Embolism"
+date: 2023-02-03
+url: https://discourse.slicer.org/t/27613
+---
+
 # 3d slicer and embolism
 
 **Topic ID**: 27613

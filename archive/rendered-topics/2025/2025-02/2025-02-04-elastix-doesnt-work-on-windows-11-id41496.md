@@ -1,3 +1,10 @@
+---
+topic_id: 41496
+title: "Elastix Doesnt Work On Windows 11"
+date: 2025-02-04
+url: https://discourse.slicer.org/t/41496
+---
+
 # Elastix doesn't work on windows 11
 
 **Topic ID**: 41496

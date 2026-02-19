@@ -1,3 +1,10 @@
+---
+topic_id: 16662
+title: "How To Get Image That Requested Scale From 3D Slicer Save As"
+date: 2021-03-20
+url: https://discourse.slicer.org/t/16662
+---
+
 # How to get image that requested scale from 3d slicer (save as NITFI)? 
 
 **Topic ID**: 16662

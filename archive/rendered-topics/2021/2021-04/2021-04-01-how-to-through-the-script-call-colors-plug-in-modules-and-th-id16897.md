@@ -1,3 +1,10 @@
+---
+topic_id: 16897
+title: "How To Through The Script Call Colors Plug In Modules And Th"
+date: 2021-04-01
+url: https://discourse.slicer.org/t/16897
+---
+
 # How to through the script call "Colors" plug-in modules and the API?
 
 **Topic ID**: 16897

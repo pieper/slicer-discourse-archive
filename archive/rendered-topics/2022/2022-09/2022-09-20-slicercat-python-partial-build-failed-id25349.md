@@ -1,3 +1,10 @@
+---
+topic_id: 25349
+title: "Slicercat Python Partial Build Failed"
+date: 2022-09-20
+url: https://discourse.slicer.org/t/25349
+---
+
 # SLicerCAT Python partial build failed
 
 **Topic ID**: 25349

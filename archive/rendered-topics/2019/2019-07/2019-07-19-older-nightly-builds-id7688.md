@@ -1,3 +1,10 @@
+---
+topic_id: 7688
+title: "Older Nightly Builds"
+date: 2019-07-19
+url: https://discourse.slicer.org/t/7688
+---
+
 # Older nightly builds
 
 **Topic ID**: 7688

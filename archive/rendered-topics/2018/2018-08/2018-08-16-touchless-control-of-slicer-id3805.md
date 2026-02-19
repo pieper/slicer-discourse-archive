@@ -1,3 +1,10 @@
+---
+topic_id: 3805
+title: "Touchless Control Of Slicer"
+date: 2018-08-16
+url: https://discourse.slicer.org/t/3805
+---
+
 # Touchless control of slicer
 
 **Topic ID**: 3805

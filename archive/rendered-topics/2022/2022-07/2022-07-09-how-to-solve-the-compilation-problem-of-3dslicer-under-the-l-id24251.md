@@ -1,3 +1,10 @@
+---
+topic_id: 24251
+title: "How To Solve The Compilation Problem Of 3Dslicer Under The L"
+date: 2022-07-09
+url: https://discourse.slicer.org/t/24251
+---
+
 # How to solve the compilation problem of 3dslicer under the Linux system and arm64 architecture. Need help urgently!!!
 
 **Topic ID**: 24251

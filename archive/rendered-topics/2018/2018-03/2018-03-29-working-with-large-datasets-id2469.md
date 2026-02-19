@@ -1,3 +1,10 @@
+---
+topic_id: 2469
+title: "Working With Large Datasets"
+date: 2018-03-29
+url: https://discourse.slicer.org/t/2469
+---
+
 # Working with large datasets
 
 **Topic ID**: 2469

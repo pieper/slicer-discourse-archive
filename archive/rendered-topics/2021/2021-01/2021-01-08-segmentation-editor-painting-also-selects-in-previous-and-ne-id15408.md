@@ -1,3 +1,10 @@
+---
+topic_id: 15408
+title: "Segmentation Editor Painting Also Selects In Previous And Ne"
+date: 2021-01-08
+url: https://discourse.slicer.org/t/15408
+---
+
 # Segmentation Editor - painting also selects in previous and next image
 
 **Topic ID**: 15408

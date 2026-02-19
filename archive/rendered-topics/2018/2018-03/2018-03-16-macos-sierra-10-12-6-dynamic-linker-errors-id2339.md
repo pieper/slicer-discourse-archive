@@ -1,3 +1,10 @@
+---
+topic_id: 2339
+title: "Macos Sierra 10 12 6 Dynamic Linker Errors"
+date: 2018-03-16
+url: https://discourse.slicer.org/t/2339
+---
+
 # MacOS Sierra (10.12.6) dynamic linker errors
 
 **Topic ID**: 2339

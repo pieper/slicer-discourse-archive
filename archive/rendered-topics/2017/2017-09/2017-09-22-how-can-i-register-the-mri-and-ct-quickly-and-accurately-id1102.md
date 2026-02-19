@@ -1,3 +1,10 @@
+---
+topic_id: 1102
+title: "How Can I Register The Mri And Ct Quickly And Accurately"
+date: 2017-09-22
+url: https://discourse.slicer.org/t/1102
+---
+
 # How can I register the MRI and CT quickly and accurately?
 
 **Topic ID**: 1102

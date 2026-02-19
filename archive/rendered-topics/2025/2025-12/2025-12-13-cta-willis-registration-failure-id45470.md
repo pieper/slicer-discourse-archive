@@ -1,3 +1,10 @@
+---
+topic_id: 45470
+title: "Cta Willis Registration Failure"
+date: 2025-12-13
+url: https://discourse.slicer.org/t/45470
+---
+
 # CTA Willis registration failure
 
 **Topic ID**: 45470

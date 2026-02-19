@@ -1,3 +1,10 @@
+---
+topic_id: 22957
+title: "Create A Smooth Segmented 3D Model From Png Images"
+date: 2022-04-14
+url: https://discourse.slicer.org/t/22957
+---
+
 # Create a smooth segmented 3D model from PNG images
 
 **Topic ID**: 22957

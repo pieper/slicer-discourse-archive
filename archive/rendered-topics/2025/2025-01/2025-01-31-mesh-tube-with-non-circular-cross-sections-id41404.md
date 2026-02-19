@@ -1,3 +1,10 @@
+---
+topic_id: 41404
+title: "Mesh Tube With Non Circular Cross Sections"
+date: 2025-01-31
+url: https://discourse.slicer.org/t/41404
+---
+
 # Mesh tube with non circular cross sections
 
 **Topic ID**: 41404

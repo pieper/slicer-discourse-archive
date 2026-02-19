@@ -1,3 +1,10 @@
+---
+topic_id: 41463
+title: "Slicerjupyter Not Found In Slicer 5 7 And 5 8"
+date: 2025-02-03
+url: https://discourse.slicer.org/t/41463
+---
+
 # SlicerJupyter Not Found in Slicer 5.7 and 5.8
 
 **Topic ID**: 41463

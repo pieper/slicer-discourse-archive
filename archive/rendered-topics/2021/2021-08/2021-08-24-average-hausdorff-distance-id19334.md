@@ -1,3 +1,10 @@
+---
+topic_id: 19334
+title: "Average Hausdorff Distance"
+date: 2021-08-24
+url: https://discourse.slicer.org/t/19334
+---
+
 # Average Hausdorff Distance
 
 **Topic ID**: 19334

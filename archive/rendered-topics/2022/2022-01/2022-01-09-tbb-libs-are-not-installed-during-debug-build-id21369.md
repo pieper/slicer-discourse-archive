@@ -1,3 +1,10 @@
+---
+topic_id: 21369
+title: "Tbb Libs Are Not Installed During Debug Build"
+date: 2022-01-09
+url: https://discourse.slicer.org/t/21369
+---
+
 # TBB libs are not installed during Debug build
 
 **Topic ID**: 21369

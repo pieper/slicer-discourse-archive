@@ -1,3 +1,10 @@
+---
+topic_id: 41898
+title: "Ct Image Import Issue"
+date: 2025-02-27
+url: https://discourse.slicer.org/t/41898
+---
+
 # CT image import issue
 
 **Topic ID**: 41898

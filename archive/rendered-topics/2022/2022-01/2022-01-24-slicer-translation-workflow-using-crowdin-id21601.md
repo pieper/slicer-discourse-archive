@@ -1,3 +1,10 @@
+---
+topic_id: 21601
+title: "Slicer Translation Workflow Using Crowdin"
+date: 2022-01-24
+url: https://discourse.slicer.org/t/21601
+---
+
 # Slicer translation workflow using crowdin
 
 **Topic ID**: 21601

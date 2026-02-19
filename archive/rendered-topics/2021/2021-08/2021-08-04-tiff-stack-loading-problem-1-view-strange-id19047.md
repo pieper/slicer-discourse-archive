@@ -1,3 +1,10 @@
+---
+topic_id: 19047
+title: "Tiff Stack Loading Problem 1 View Strange"
+date: 2021-08-04
+url: https://discourse.slicer.org/t/19047
+---
+
 # Tiff Stack Loading Problem - 1 view strange
 
 **Topic ID**: 19047

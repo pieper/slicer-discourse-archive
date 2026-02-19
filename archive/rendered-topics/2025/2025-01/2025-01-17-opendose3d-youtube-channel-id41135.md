@@ -1,3 +1,10 @@
+---
+topic_id: 41135
+title: "Opendose3D Youtube Channel"
+date: 2025-01-17
+url: https://discourse.slicer.org/t/41135
+---
+
 # OpenDose3D YouTube channel
 
 **Topic ID**: 41135

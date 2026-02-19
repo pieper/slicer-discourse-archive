@@ -1,3 +1,10 @@
+---
+topic_id: 7653
+title: "New Segment For Every Colour"
+date: 2019-07-18
+url: https://discourse.slicer.org/t/7653
+---
+
 # New segment for every colour
 
 **Topic ID**: 7653

@@ -1,3 +1,10 @@
+---
+topic_id: 12751
+title: "New Extension Slicerfreesurfer"
+date: 2020-07-27
+url: https://discourse.slicer.org/t/12751
+---
+
 # New Extension: SlicerFreeSurfer
 
 **Topic ID**: 12751

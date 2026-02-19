@@ -1,3 +1,10 @@
+---
+topic_id: 37891
+title: "How To Display The Obb Of A Nrrd File In 3D Slicer"
+date: 2024-08-14
+url: https://discourse.slicer.org/t/37891
+---
+
 # How to display the OBB of a nrrd file in 3d slicer?
 
 **Topic ID**: 37891

@@ -1,3 +1,10 @@
+---
+topic_id: 6790
+title: "Toronto Image Processing And Visualization Web Dev"
+date: 2019-05-14
+url: https://discourse.slicer.org/t/6790
+---
+
 # Toronto, Image processing and visualization, web/dev
 
 **Topic ID**: 6790

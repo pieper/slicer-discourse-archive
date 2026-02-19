@@ -1,3 +1,10 @@
+---
+topic_id: 10419
+title: "Install Python Packages With Extension Manager"
+date: 2020-02-24
+url: https://discourse.slicer.org/t/10419
+---
+
 # Install Python packages with extension manager
 
 **Topic ID**: 10419

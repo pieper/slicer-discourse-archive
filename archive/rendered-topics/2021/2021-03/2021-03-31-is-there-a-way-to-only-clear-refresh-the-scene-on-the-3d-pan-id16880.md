@@ -1,3 +1,10 @@
+---
+topic_id: 16880
+title: "Is There A Way To Only Clear Refresh The Scene On The 3D Pan"
+date: 2021-03-31
+url: https://discourse.slicer.org/t/16880
+---
+
 # Is there a way to only clear/refresh the scene on the 3D panel?
 
 **Topic ID**: 16880

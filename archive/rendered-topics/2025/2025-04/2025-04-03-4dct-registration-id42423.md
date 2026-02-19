@@ -1,3 +1,10 @@
+---
+topic_id: 42423
+title: "4Dct Registration"
+date: 2025-04-03
+url: https://discourse.slicer.org/t/42423
+---
+
 # 4DCT registration
 
 **Topic ID**: 42423

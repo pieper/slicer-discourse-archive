@@ -1,3 +1,10 @@
+---
+topic_id: 24091
+title: "3D Slicer Crashes When Using Vmtk Extensions Extract Centerl"
+date: 2022-06-28
+url: https://discourse.slicer.org/t/24091
+---
+
 # 3D slicer crashes when using VMTK extension's extract centerline in Slicer-5.2
 
 **Topic ID**: 24091

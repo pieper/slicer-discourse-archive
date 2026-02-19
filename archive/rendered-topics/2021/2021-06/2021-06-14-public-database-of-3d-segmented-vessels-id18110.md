@@ -1,3 +1,10 @@
+---
+topic_id: 18110
+title: "Public Database Of 3D Segmented Vessels"
+date: 2021-06-14
+url: https://discourse.slicer.org/t/18110
+---
+
 # Public database of 3D segmented vessels
 
 **Topic ID**: 18110

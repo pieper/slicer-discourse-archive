@@ -1,3 +1,10 @@
+---
+topic_id: 21404
+title: "Visualisation Of Spectroscopy Data In 3Dslicer"
+date: 2022-01-11
+url: https://discourse.slicer.org/t/21404
+---
+
 # Visualisation of spectroscopy data in 3dslicer
 
 **Topic ID**: 21404

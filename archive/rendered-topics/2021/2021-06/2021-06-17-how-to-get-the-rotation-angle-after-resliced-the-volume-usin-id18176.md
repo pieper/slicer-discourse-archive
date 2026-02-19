@@ -1,3 +1,10 @@
+---
+topic_id: 18176
+title: "How To Get The Rotation Angle After Resliced The Volume Usin"
+date: 2021-06-17
+url: https://discourse.slicer.org/t/18176
+---
+
 # How to get the rotation angle after resliced the volume using two rotating orthogonal planes?
 
 **Topic ID**: 18176

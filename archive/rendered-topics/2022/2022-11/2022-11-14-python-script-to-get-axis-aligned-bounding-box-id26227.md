@@ -1,3 +1,10 @@
+---
+topic_id: 26227
+title: "Python Script To Get Axis Aligned Bounding Box"
+date: 2022-11-14
+url: https://discourse.slicer.org/t/26227
+---
+
 # Python script to get axis-aligned bounding box
 
 **Topic ID**: 26227

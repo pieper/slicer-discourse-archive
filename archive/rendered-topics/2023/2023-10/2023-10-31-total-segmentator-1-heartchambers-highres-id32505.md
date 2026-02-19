@@ -1,3 +1,10 @@
+---
+topic_id: 32505
+title: "Total Segmentator 1 Heartchambers Highres"
+date: 2023-10-31
+url: https://discourse.slicer.org/t/32505
+---
+
 # Total Segmentator 1 - heartchambers highres
 
 **Topic ID**: 32505

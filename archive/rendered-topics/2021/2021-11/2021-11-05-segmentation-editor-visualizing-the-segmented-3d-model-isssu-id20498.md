@@ -1,3 +1,10 @@
+---
+topic_id: 20498
+title: "Segmentation Editor Visualizing The Segmented 3D Model Isssu"
+date: 2021-11-05
+url: https://discourse.slicer.org/t/20498
+---
+
 # Segmentation Editor - visualizing the segmented 3D model isssue
 
 **Topic ID**: 20498

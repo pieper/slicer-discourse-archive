@@ -1,3 +1,10 @@
+---
+topic_id: 30460
+title: "Load Additional Packages In Extension"
+date: 2023-07-08
+url: https://discourse.slicer.org/t/30460
+---
+
 # Load additional packages in Extension
 
 **Topic ID**: 30460

@@ -1,3 +1,10 @@
+---
+topic_id: 21418
+title: "Issue With Installation Of Slicer On Windows"
+date: 2022-01-11
+url: https://discourse.slicer.org/t/21418
+---
+
 # Issue with installation of Slicer on Windows
 
 **Topic ID**: 21418

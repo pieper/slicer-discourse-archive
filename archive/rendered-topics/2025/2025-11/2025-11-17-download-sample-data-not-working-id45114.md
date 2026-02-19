@@ -1,3 +1,10 @@
+---
+topic_id: 45114
+title: "Download Sample Data Not Working"
+date: 2025-11-17
+url: https://discourse.slicer.org/t/45114
+---
+
 # Download sample data not working
 
 **Topic ID**: 45114

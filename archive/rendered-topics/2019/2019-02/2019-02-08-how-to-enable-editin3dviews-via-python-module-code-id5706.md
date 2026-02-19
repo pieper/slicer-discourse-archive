@@ -1,3 +1,10 @@
+---
+topic_id: 5706
+title: "How To Enable Editin3Dviews Via Python Module Code"
+date: 2019-02-08
+url: https://discourse.slicer.org/t/5706
+---
+
 # How to Enable "Editin3DViews" via python module code
 
 **Topic ID**: 5706

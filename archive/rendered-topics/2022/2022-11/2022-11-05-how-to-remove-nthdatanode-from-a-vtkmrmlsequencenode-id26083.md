@@ -1,3 +1,10 @@
+---
+topic_id: 26083
+title: "How To Remove Nthdatanode From A Vtkmrmlsequencenode"
+date: 2022-11-05
+url: https://discourse.slicer.org/t/26083
+---
+
 # How to remove NthDataNode from a vtkMRMLSequenceNode?
 
 **Topic ID**: 26083

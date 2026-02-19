@@ -1,3 +1,10 @@
+---
+topic_id: 41398
+title: "Slicer Does Not Accept Certain Transform Values"
+date: 2025-01-31
+url: https://discourse.slicer.org/t/41398
+---
+
 # Slicer does not accept certain transform values
 
 **Topic ID**: 41398

@@ -1,3 +1,10 @@
+---
+topic_id: 5136
+title: "Custom Default Name For Volume Created From Qmrmlnodecombobo"
+date: 2018-12-18
+url: https://discourse.slicer.org/t/5136
+---
+
 # Custom default name for volume created from qMRMLNodeComboBox
 
 **Topic ID**: 5136

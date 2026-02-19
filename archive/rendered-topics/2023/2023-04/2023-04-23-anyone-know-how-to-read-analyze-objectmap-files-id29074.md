@@ -1,3 +1,10 @@
+---
+topic_id: 29074
+title: "Anyone Know How To Read Analyze Objectmap Files"
+date: 2023-04-23
+url: https://discourse.slicer.org/t/29074
+---
+
 # Anyone know how to read Analyze ObjectMap files?
 
 **Topic ID**: 29074

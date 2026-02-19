@@ -1,3 +1,10 @@
+---
+topic_id: 960
+title: "Bone Segmentation To Create 3D Printable Stl"
+date: 2017-08-28
+url: https://discourse.slicer.org/t/960
+---
+
 # Bone segmentation to create 3D-printable STL
 
 **Topic ID**: 960

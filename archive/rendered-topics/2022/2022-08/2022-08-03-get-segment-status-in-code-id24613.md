@@ -1,3 +1,10 @@
+---
+topic_id: 24613
+title: "Get Segment Status In Code"
+date: 2022-08-03
+url: https://discourse.slicer.org/t/24613
+---
+
 # Get segment status in code
 
 **Topic ID**: 24613

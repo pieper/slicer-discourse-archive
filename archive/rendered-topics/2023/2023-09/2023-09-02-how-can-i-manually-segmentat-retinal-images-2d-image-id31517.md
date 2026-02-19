@@ -1,3 +1,10 @@
+---
+topic_id: 31517
+title: "How Can I Manually Segmentat Retinal Images 2D Image"
+date: 2023-09-02
+url: https://discourse.slicer.org/t/31517
+---
+
 # How can I manually segmentat retinal images (2D-image)?
 
 **Topic ID**: 31517

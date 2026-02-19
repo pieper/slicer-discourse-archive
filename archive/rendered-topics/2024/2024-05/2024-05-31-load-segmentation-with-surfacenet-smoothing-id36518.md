@@ -1,3 +1,10 @@
+---
+topic_id: 36518
+title: "Load Segmentation With Surfacenet Smoothing"
+date: 2024-05-31
+url: https://discourse.slicer.org/t/36518
+---
+
 # Load segmentation with surfacenet smoothing
 
 **Topic ID**: 36518

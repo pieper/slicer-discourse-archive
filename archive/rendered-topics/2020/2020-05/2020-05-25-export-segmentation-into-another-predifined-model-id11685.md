@@ -1,3 +1,10 @@
+---
+topic_id: 11685
+title: "Export Segmentation Into Another Predifined Model"
+date: 2020-05-25
+url: https://discourse.slicer.org/t/11685
+---
+
 # Export segmentation Into another predifined model
 
 **Topic ID**: 11685

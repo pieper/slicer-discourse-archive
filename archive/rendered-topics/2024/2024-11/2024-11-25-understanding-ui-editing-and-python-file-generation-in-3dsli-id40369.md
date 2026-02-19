@@ -1,3 +1,10 @@
+---
+topic_id: 40369
+title: "Understanding Ui Editing And Python File Generation In 3Dsli"
+date: 2024-11-25
+url: https://discourse.slicer.org/t/40369
+---
+
 # Understanding UI Editing and Python File Generation in 3DSlicer with Qt Designer
 
 **Topic ID**: 40369

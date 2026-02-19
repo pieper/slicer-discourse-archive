@@ -1,3 +1,10 @@
+---
+topic_id: 19526
+title: "Hyphen Dash In Cli Command Long Flag Argument"
+date: 2021-09-06
+url: https://discourse.slicer.org/t/19526
+---
+
 # Hyphen/dash in CLI command long flag argument
 
 **Topic ID**: 19526

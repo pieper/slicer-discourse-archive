@@ -1,3 +1,10 @@
+---
+topic_id: 1967
+title: "Fiducial Markups Cursor"
+date: 2018-01-29
+url: https://discourse.slicer.org/t/1967
+---
+
 # Fiducial Markups cursor 
 
 **Topic ID**: 1967

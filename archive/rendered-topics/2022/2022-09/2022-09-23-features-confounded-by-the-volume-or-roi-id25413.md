@@ -1,3 +1,10 @@
+---
+topic_id: 25413
+title: "Features Confounded By The Volume Or Roi"
+date: 2022-09-23
+url: https://discourse.slicer.org/t/25413
+---
+
 # Features confounded by the volume or ROI
 
 **Topic ID**: 25413

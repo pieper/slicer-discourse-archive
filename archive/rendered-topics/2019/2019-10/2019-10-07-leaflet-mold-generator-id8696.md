@@ -1,3 +1,10 @@
+---
+topic_id: 8696
+title: "Leaflet Mold Generator"
+date: 2019-10-07
+url: https://discourse.slicer.org/t/8696
+---
+
 # Leaflet mold generator
 
 **Topic ID**: 8696

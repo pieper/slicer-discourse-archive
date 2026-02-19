@@ -1,3 +1,10 @@
+---
+topic_id: 35770
+title: "Point On 2D Ct Slice Image To Ras Coordinate Transformation"
+date: 2024-04-27
+url: https://discourse.slicer.org/t/35770
+---
+
 # Point on 2D CT slice image to RAS coordinate transformation
 
 **Topic ID**: 35770

@@ -1,3 +1,10 @@
+---
+topic_id: 7964
+title: "Dicom Not Opening Properly In Coronal View"
+date: 2019-08-09
+url: https://discourse.slicer.org/t/7964
+---
+
 # DICOM not opening properly in coronal view
 
 **Topic ID**: 7964

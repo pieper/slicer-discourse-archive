@@ -1,3 +1,10 @@
+---
+topic_id: 27545
+title: "Centerline Model Has Duplicate Points"
+date: 2023-01-30
+url: https://discourse.slicer.org/t/27545
+---
+
 # Centerline model has duplicate points
 
 **Topic ID**: 27545

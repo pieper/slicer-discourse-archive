@@ -1,3 +1,10 @@
+---
+topic_id: 7436
+title: "Slicer With Cuda Integration"
+date: 2019-07-05
+url: https://discourse.slicer.org/t/7436
+---
+
 # Slicer with CUDA integration
 
 **Topic ID**: 7436

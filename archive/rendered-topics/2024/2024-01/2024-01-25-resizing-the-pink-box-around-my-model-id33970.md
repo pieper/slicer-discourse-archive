@@ -1,3 +1,10 @@
+---
+topic_id: 33970
+title: "Resizing The Pink Box Around My Model"
+date: 2024-01-25
+url: https://discourse.slicer.org/t/33970
+---
+
 # Resizing the pink box around my model
 
 **Topic ID**: 33970

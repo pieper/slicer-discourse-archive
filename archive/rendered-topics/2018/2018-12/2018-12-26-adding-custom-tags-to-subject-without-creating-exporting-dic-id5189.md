@@ -1,3 +1,10 @@
+---
+topic_id: 5189
+title: "Adding Custom Tags To Subject Without Creating Exporting Dic"
+date: 2018-12-26
+url: https://discourse.slicer.org/t/5189
+---
+
 # Adding custom tags to subject without creating/exporting DICOMs
 
 **Topic ID**: 5189

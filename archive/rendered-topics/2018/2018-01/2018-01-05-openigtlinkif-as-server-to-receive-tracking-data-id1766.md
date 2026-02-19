@@ -1,3 +1,10 @@
+---
+topic_id: 1766
+title: "Openigtlinkif As Server To Receive Tracking Data"
+date: 2018-01-05
+url: https://discourse.slicer.org/t/1766
+---
+
 # OpenIGTLinkIF as server to receive tracking data
 
 **Topic ID**: 1766

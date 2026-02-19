@@ -1,3 +1,10 @@
+---
+topic_id: 30159
+title: "How Can One Check If Slicers Dicom Database Already Exists"
+date: 2023-06-20
+url: https://discourse.slicer.org/t/30159
+---
+
 # How can one check if Slicer's DICOM database already exists?
 
 **Topic ID**: 30159

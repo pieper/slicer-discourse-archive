@@ -1,3 +1,10 @@
+---
+topic_id: 40883
+title: "Windows Font Scaling Issue On Laptop Screens"
+date: 2024-12-28
+url: https://discourse.slicer.org/t/40883
+---
+
 # Windows font scaling issue on laptop screens
 
 **Topic ID**: 40883

@@ -1,3 +1,10 @@
+---
+topic_id: 6398
+title: "Problem With The Fiducials Registry"
+date: 2019-04-04
+url: https://discourse.slicer.org/t/6398
+---
+
 # Problem with the fiducials registry
 
 **Topic ID**: 6398

@@ -1,3 +1,10 @@
+---
+topic_id: 25875
+title: "How To Save Database In A Different Location Than Files Were"
+date: 2022-10-24
+url: https://discourse.slicer.org/t/25875
+---
+
 # How to save database in a different location than files were uploaded from?
 
 **Topic ID**: 25875

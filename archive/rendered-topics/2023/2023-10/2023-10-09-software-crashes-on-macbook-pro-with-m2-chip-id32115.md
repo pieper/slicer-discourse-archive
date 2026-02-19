@@ -1,3 +1,10 @@
+---
+topic_id: 32115
+title: "Software Crashes On Macbook Pro With M2 Chip"
+date: 2023-10-09
+url: https://discourse.slicer.org/t/32115
+---
+
 # Software crashes on MacBook Pro with m2 chip
 
 **Topic ID**: 32115

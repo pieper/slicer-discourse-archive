@@ -1,3 +1,10 @@
+---
+topic_id: 37838
+title: "Which Algorithm Is Used To Make 3D Model By Default"
+date: 2024-08-12
+url: https://discourse.slicer.org/t/37838
+---
+
 # Which algorithm is used to make 3d model by default？
 
 **Topic ID**: 37838

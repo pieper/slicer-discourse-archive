@@ -1,3 +1,10 @@
+---
+topic_id: 24583
+title: "Usage Of Slicer App Processevents For Dicomdatabase Operatio"
+date: 2022-07-31
+url: https://discourse.slicer.org/t/24583
+---
+
 # Usage of slicer.app.processEvents() for dicomDatabase operations
 
 **Topic ID**: 24583

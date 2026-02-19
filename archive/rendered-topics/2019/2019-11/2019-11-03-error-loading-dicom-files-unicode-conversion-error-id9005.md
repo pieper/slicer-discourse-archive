@@ -1,3 +1,10 @@
+---
+topic_id: 9005
+title: "Error Loading Dicom Files Unicode Conversion Error"
+date: 2019-11-03
+url: https://discourse.slicer.org/t/9005
+---
+
 # Error loading DICOM files - unicode conversion error
 
 **Topic ID**: 9005

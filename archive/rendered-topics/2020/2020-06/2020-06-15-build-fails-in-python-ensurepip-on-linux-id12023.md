@@ -1,3 +1,10 @@
+---
+topic_id: 12023
+title: "Build Fails In Python Ensurepip On Linux"
+date: 2020-06-15
+url: https://discourse.slicer.org/t/12023
+---
+
 # Build fails in python-ensurepip on Linux
 
 **Topic ID**: 12023

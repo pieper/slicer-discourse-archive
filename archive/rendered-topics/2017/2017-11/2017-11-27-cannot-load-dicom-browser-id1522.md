@@ -1,3 +1,10 @@
+---
+topic_id: 1522
+title: "Cannot Load Dicom Browser"
+date: 2017-11-27
+url: https://discourse.slicer.org/t/1522
+---
+
 # cannot load DICOM browser
 
 **Topic ID**: 1522

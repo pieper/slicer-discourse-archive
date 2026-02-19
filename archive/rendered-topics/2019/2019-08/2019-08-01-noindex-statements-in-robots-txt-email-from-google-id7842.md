@@ -1,3 +1,10 @@
+---
+topic_id: 7842
+title: "Noindex Statements In Robots Txt Email From Google"
+date: 2019-08-01
+url: https://discourse.slicer.org/t/7842
+---
+
 # Noindex statements in robots.txt (email from Google)
 
 **Topic ID**: 7842

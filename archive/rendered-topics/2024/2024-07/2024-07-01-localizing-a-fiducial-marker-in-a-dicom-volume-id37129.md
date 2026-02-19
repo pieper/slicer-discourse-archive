@@ -1,3 +1,10 @@
+---
+topic_id: 37129
+title: "Localizing A Fiducial Marker In A Dicom Volume"
+date: 2024-07-01
+url: https://discourse.slicer.org/t/37129
+---
+
 # Localizing a Fiducial Marker in a DICOM Volume
 
 **Topic ID**: 37129

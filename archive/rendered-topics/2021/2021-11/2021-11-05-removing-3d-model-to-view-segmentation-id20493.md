@@ -1,3 +1,10 @@
+---
+topic_id: 20493
+title: "Removing 3D Model To View Segmentation"
+date: 2021-11-05
+url: https://discourse.slicer.org/t/20493
+---
+
 # Removing 3D model to view segmentation
 
 **Topic ID**: 20493

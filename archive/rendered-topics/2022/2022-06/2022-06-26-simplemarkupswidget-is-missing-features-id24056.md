@@ -1,3 +1,10 @@
+---
+topic_id: 24056
+title: "Simplemarkupswidget Is Missing Features"
+date: 2022-06-26
+url: https://discourse.slicer.org/t/24056
+---
+
 # SimpleMarkupsWidget is missing features
 
 **Topic ID**: 24056

@@ -1,3 +1,10 @@
+---
+topic_id: 17619
+title: "Usage Rights To Sample Data"
+date: 2021-05-14
+url: https://discourse.slicer.org/t/17619
+---
+
 # Usage Rights to Sample Data
 
 **Topic ID**: 17619

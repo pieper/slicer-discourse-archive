@@ -1,3 +1,10 @@
+---
+topic_id: 30792
+title: "Segmentation Seg Nrrd Merges Labels Instead Of One Layer Per"
+date: 2023-07-25
+url: https://discourse.slicer.org/t/30792
+---
+
 # Segmentation (.seg.nrrd) merges labels instead of one-layer-per-label representation
 
 **Topic ID**: 30792

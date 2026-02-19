@@ -1,3 +1,10 @@
+---
+topic_id: 17457
+title: "Multiple Errors About Simpleitk Libarchive Python When I Bui"
+date: 2021-05-04
+url: https://discourse.slicer.org/t/17457
+---
+
 # Multiple errors about SimpleITK, LibArchive, python when I build Slicer
 
 **Topic ID**: 17457

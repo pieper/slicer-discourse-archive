@@ -1,3 +1,10 @@
+---
+topic_id: 17379
+title: "How To Use Cmf Registration"
+date: 2021-04-29
+url: https://discourse.slicer.org/t/17379
+---
+
 # How to use CMF registration
 
 **Topic ID**: 17379

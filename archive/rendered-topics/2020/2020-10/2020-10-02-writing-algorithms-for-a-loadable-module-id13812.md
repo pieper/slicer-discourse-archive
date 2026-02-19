@@ -1,3 +1,10 @@
+---
+topic_id: 13812
+title: "Writing Algorithms For A Loadable Module"
+date: 2020-10-02
+url: https://discourse.slicer.org/t/13812
+---
+
 # Writing Algorithms for a loadable Module
 
 **Topic ID**: 13812

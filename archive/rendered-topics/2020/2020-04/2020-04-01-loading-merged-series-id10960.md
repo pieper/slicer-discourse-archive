@@ -1,3 +1,10 @@
+---
+topic_id: 10960
+title: "Loading Merged Series"
+date: 2020-04-01
+url: https://discourse.slicer.org/t/10960
+---
+
 # Loading merged series
 
 **Topic ID**: 10960

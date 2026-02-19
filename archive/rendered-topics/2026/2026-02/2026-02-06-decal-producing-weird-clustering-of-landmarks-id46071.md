@@ -1,3 +1,10 @@
+---
+topic_id: 46071
+title: "Decal Producing Weird Clustering Of Landmarks"
+date: 2026-02-06
+url: https://discourse.slicer.org/t/46071
+---
+
 # DeCAL producing weird clustering of landmarks
 
 **Topic ID**: 46071

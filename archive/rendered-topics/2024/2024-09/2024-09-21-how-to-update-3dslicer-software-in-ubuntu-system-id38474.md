@@ -1,3 +1,10 @@
+---
+topic_id: 38474
+title: "How To Update 3Dslicer Software In Ubuntu System"
+date: 2024-09-21
+url: https://discourse.slicer.org/t/38474
+---
+
 # How to update 3Dslicer software in ubuntu system
 
 **Topic ID**: 38474

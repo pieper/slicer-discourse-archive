@@ -1,3 +1,10 @@
+---
+topic_id: 431
+title: "Image With Hardened Transform Returns To Original When Opene"
+date: 2017-06-02
+url: https://discourse.slicer.org/t/431
+---
+
 # Image with hardened transform returns to original when opened outside Slicer
 
 **Topic ID**: 431

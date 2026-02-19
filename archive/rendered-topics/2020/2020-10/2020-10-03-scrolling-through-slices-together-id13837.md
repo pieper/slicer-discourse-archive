@@ -1,3 +1,10 @@
+---
+topic_id: 13837
+title: "Scrolling Through Slices Together"
+date: 2020-10-03
+url: https://discourse.slicer.org/t/13837
+---
+
 # Scrolling through slices together?
 
 **Topic ID**: 13837

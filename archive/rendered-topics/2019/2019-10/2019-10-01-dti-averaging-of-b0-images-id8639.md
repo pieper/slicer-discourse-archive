@@ -1,3 +1,10 @@
+---
+topic_id: 8639
+title: "Dti Averaging Of B0 Images"
+date: 2019-10-01
+url: https://discourse.slicer.org/t/8639
+---
+
 # DTI, averaging of b0 images
 
 **Topic ID**: 8639

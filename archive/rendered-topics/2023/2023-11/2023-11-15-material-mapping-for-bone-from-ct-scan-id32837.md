@@ -1,3 +1,10 @@
+---
+topic_id: 32837
+title: "Material Mapping For Bone From Ct Scan"
+date: 2023-11-15
+url: https://discourse.slicer.org/t/32837
+---
+
 # Material mapping for bone from CT scan
 
 **Topic ID**: 32837

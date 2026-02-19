@@ -1,3 +1,10 @@
+---
+topic_id: 11269
+title: "Problem Uploading Mri Image"
+date: 2020-04-23
+url: https://discourse.slicer.org/t/11269
+---
+
 # Problem uploading MRI image
 
 **Topic ID**: 11269

@@ -1,3 +1,10 @@
+---
+topic_id: 19553
+title: "How To Obtain Coordinates Of The Bounding Box"
+date: 2021-09-07
+url: https://discourse.slicer.org/t/19553
+---
+
 # How to obtain Coordinates of the Bounding Box
 
 **Topic ID**: 19553

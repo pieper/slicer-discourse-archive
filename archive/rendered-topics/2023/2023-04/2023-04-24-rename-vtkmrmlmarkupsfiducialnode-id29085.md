@@ -1,3 +1,10 @@
+---
+topic_id: 29085
+title: "Rename Vtkmrmlmarkupsfiducialnode"
+date: 2023-04-24
+url: https://discourse.slicer.org/t/29085
+---
+
 # Rename vtkMRMLMarkupsFiducialNode
 
 **Topic ID**: 29085

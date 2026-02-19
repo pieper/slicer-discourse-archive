@@ -1,3 +1,10 @@
+---
+topic_id: 8384
+title: "Surface Opacity Jump"
+date: 2019-09-11
+url: https://discourse.slicer.org/t/8384
+---
+
 # Surface opacity jump
 
 **Topic ID**: 8384

@@ -1,3 +1,10 @@
+---
+topic_id: 44511
+title: "How To Create Fixed 60 90 Wedge Overlays For Aha17 Segmentat"
+date: 2025-09-17
+url: https://discourse.slicer.org/t/44511
+---
+
 # How to create fixed 60°/90° wedge overlays for AHA17 segmentation on myocardium masks
 
 **Topic ID**: 44511

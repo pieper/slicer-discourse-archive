@@ -1,3 +1,10 @@
+---
+topic_id: 2048
+title: "Sequences Module Question"
+date: 2018-02-07
+url: https://discourse.slicer.org/t/2048
+---
+
 # Sequences module question
 
 **Topic ID**: 2048

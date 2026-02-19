@@ -1,3 +1,10 @@
+---
+topic_id: 16258
+title: "Combining Segmentation Hierarchies"
+date: 2021-02-27
+url: https://discourse.slicer.org/t/16258
+---
+
 # Combining segmentation hierarchies
 
 **Topic ID**: 16258

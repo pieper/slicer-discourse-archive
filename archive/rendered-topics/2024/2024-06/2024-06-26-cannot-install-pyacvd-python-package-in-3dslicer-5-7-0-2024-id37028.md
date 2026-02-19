@@ -1,3 +1,10 @@
+---
+topic_id: 37028
+title: "Cannot Install Pyacvd Python Package In 3Dslicer 5 7 0 2024"
+date: 2024-06-26
+url: https://discourse.slicer.org/t/37028
+---
+
 # Cannot install pyacvd Python package in 3Dslicer 5.7.0-2024-06-24
 
 **Topic ID**: 37028

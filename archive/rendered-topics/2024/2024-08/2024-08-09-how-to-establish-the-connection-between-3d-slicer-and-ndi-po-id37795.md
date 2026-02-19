@@ -1,3 +1,10 @@
+---
+topic_id: 37795
+title: "How To Establish The Connection Between 3D Slicer And Ndi Po"
+date: 2024-08-09
+url: https://discourse.slicer.org/t/37795
+---
+
 # How to establish the connection between 3D slicer and NDI Polaris Vega ST?
 
 **Topic ID**: 37795

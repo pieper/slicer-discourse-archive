@@ -1,3 +1,10 @@
+---
+topic_id: 31172
+title: "Segmentmesher Error Command Cleaver Cli Exe Returned Non Zer"
+date: 2023-08-16
+url: https://discourse.slicer.org/t/31172
+---
+
 # SegmentMesher, Error: Command 'cleaver-cli.exe' returned non-zero exit status 3221226505
 
 **Topic ID**: 31172

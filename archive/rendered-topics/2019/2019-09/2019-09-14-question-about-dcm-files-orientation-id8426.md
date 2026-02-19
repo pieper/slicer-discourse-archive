@@ -1,3 +1,10 @@
+---
+topic_id: 8426
+title: "Question About Dcm Files Orientation"
+date: 2019-09-14
+url: https://discourse.slicer.org/t/8426
+---
+
 # Question about DCM files orientation
 
 **Topic ID**: 8426

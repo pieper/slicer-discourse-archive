@@ -1,3 +1,10 @@
+---
+topic_id: 31610
+title: "Merging 2 Network Curves Into One"
+date: 2023-09-07
+url: https://discourse.slicer.org/t/31610
+---
+
 # Merging 2 Network Curves into One
 
 **Topic ID**: 31610

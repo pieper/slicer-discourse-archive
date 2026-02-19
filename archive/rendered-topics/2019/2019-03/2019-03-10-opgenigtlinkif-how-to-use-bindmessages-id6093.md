@@ -1,3 +1,10 @@
+---
+topic_id: 6093
+title: "Opgenigtlinkif How To Use Bindmessages"
+date: 2019-03-10
+url: https://discourse.slicer.org/t/6093
+---
+
 # OpgenIGTLinkIF: How to use BindMessages
 
 **Topic ID**: 6093

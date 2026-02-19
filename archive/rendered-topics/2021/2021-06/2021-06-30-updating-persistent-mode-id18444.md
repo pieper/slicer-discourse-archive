@@ -1,3 +1,10 @@
+---
+topic_id: 18444
+title: "Updating Persistent Mode"
+date: 2021-06-30
+url: https://discourse.slicer.org/t/18444
+---
+
 # Updating persistent mode
 
 **Topic ID**: 18444

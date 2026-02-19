@@ -1,3 +1,10 @@
+---
+topic_id: 155
+title: "Extensions Download Fails"
+date: 2017-04-20
+url: https://discourse.slicer.org/t/155
+---
+
 # Extensions Download fails?
 
 **Topic ID**: 155

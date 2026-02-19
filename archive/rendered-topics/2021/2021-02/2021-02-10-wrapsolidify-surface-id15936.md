@@ -1,3 +1,10 @@
+---
+topic_id: 15936
+title: "Wrapsolidify Surface"
+date: 2021-02-10
+url: https://discourse.slicer.org/t/15936
+---
+
 # WrapSolidify surface
 
 **Topic ID**: 15936

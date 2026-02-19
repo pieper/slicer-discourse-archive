@@ -1,3 +1,10 @@
+---
+topic_id: 30280
+title: "Best Solution For Existing Medical Application"
+date: 2023-06-28
+url: https://discourse.slicer.org/t/30280
+---
+
 # Best solution for existing medical application
 
 **Topic ID**: 30280

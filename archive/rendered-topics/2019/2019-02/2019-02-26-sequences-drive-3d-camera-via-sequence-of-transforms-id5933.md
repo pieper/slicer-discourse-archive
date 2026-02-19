@@ -1,3 +1,10 @@
+---
+topic_id: 5933
+title: "Sequences Drive 3D Camera Via Sequence Of Transforms"
+date: 2019-02-26
+url: https://discourse.slicer.org/t/5933
+---
+
 # [Sequences] Drive 3D camera via sequence of transforms
 
 **Topic ID**: 5933

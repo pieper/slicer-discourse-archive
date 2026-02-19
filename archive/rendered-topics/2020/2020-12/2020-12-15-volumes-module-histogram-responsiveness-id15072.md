@@ -1,3 +1,10 @@
+---
+topic_id: 15072
+title: "Volumes Module Histogram Responsiveness"
+date: 2020-12-15
+url: https://discourse.slicer.org/t/15072
+---
+
 # Volumes module Histogram responsiveness
 
 **Topic ID**: 15072

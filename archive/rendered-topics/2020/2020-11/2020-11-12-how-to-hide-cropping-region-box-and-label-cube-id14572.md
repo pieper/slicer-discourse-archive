@@ -1,3 +1,10 @@
+---
+topic_id: 14572
+title: "How To Hide Cropping Region Box And Label Cube"
+date: 2020-11-12
+url: https://discourse.slicer.org/t/14572
+---
+
 # How to hide cropping region box and label cube
 
 **Topic ID**: 14572

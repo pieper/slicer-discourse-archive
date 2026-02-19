@@ -1,3 +1,10 @@
+---
+topic_id: 3864
+title: "To Install Extension Sequence Registration"
+date: 2018-08-22
+url: https://discourse.slicer.org/t/3864
+---
+
 # To install extension "Sequence registration"
 
 **Topic ID**: 3864

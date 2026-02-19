@@ -1,3 +1,10 @@
+---
+topic_id: 7534
+title: "Cant Input Boolean Into Module Being Wrong As A Cli"
+date: 2019-07-11
+url: https://discourse.slicer.org/t/7534
+---
+
 # Can't input boolean into module being wrong as a cli
 
 **Topic ID**: 7534

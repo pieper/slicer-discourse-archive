@@ -1,3 +1,10 @@
+---
+topic_id: 35520
+title: "Importing A Template With Empty Segmentation"
+date: 2024-04-16
+url: https://discourse.slicer.org/t/35520
+---
+
 # Importing a template with empty segmentation
 
 **Topic ID**: 35520

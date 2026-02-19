@@ -1,3 +1,10 @@
+---
+topic_id: 25580
+title: "Accessing Volumenode In Loadable"
+date: 2022-10-06
+url: https://discourse.slicer.org/t/25580
+---
+
 # Accessing VolumeNode in loadable
 
 **Topic ID**: 25580

@@ -1,3 +1,10 @@
+---
+topic_id: 38244
+title: "Quesition About 3D Slicer Capacity"
+date: 2024-09-05
+url: https://discourse.slicer.org/t/38244
+---
+
 # Quesition about 3D slicer capacity
 
 **Topic ID**: 38244

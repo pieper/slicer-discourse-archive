@@ -1,3 +1,10 @@
+---
+topic_id: 27717
+title: "Slicercustomapptemplate Build Error"
+date: 2023-02-09
+url: https://discourse.slicer.org/t/27717
+---
+
 # SlicerCustomAppTemplate Build Error
 
 **Topic ID**: 27717

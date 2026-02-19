@@ -1,3 +1,10 @@
+---
+topic_id: 8785
+title: "Change Active Markup List Open Curve From Another Module And"
+date: 2019-10-15
+url: https://discourse.slicer.org/t/8785
+---
+
 # Change active markup list (open curve) from another module, and control-click to add new points
 
 **Topic ID**: 8785

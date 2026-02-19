@@ -1,3 +1,10 @@
+---
+topic_id: 20055
+title: "Ctk Ctkdoublerangeslider Unable To Use Setrange On This Clas"
+date: 2021-10-07
+url: https://discourse.slicer.org/t/20055
+---
+
 # [ctk.ctkDoubleRangeSlider()] Unable to use setRange() on this class
 
 **Topic ID**: 20055

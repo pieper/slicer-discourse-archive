@@ -1,3 +1,10 @@
+---
+topic_id: 6505
+title: "Slicerelastix Not Compatible With Nightly"
+date: 2019-04-15
+url: https://discourse.slicer.org/t/6505
+---
+
 # SlicerElastix not compatible with nightly
 
 **Topic ID**: 6505

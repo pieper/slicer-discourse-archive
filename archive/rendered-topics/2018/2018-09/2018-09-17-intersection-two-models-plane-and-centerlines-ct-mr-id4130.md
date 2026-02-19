@@ -1,3 +1,10 @@
+---
+topic_id: 4130
+title: "Intersection Two Models Plane And Centerlines Ct Mr"
+date: 2018-09-17
+url: https://discourse.slicer.org/t/4130
+---
+
 # Intersection two models (Plane and centerlines CT/MR)
 
 **Topic ID**: 4130

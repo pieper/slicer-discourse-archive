@@ -1,3 +1,10 @@
+---
+topic_id: 36729
+title: "Deface Mri Data"
+date: 2024-06-12
+url: https://discourse.slicer.org/t/36729
+---
+
 # Deface MRI data
 
 **Topic ID**: 36729

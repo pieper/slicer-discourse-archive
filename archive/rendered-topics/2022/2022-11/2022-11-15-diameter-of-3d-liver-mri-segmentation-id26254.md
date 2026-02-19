@@ -1,3 +1,10 @@
+---
+topic_id: 26254
+title: "Diameter Of 3D Liver Mri Segmentation"
+date: 2022-11-15
+url: https://discourse.slicer.org/t/26254
+---
+
 # Diameter of 3d liver mri segmentation
 
 **Topic ID**: 26254

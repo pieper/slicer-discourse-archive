@@ -1,3 +1,10 @@
+---
+topic_id: 15937
+title: "Sandbox Extension Is Not Building For Linux"
+date: 2021-02-10
+url: https://discourse.slicer.org/t/15937
+---
+
 # Sandbox extension is not building for linux
 
 **Topic ID**: 15937

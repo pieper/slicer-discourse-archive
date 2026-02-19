@@ -1,3 +1,10 @@
+---
+topic_id: 14697
+title: "Dicom File From Slicer Viewed Differently In Materialise Mim"
+date: 2020-11-20
+url: https://discourse.slicer.org/t/14697
+---
+
 # DICOM file from Slicer viewed differently in Materialise Mimics
 
 **Topic ID**: 14697

@@ -1,3 +1,10 @@
+---
+topic_id: 24074
+title: "Report A Bug In Function Dicomutils Loadpatientbypatientid P"
+date: 2022-06-28
+url: https://discourse.slicer.org/t/24074
+---
+
 # Report a bug in function " DICOMUtils.loadPatientByPatientID(patientID); "
 
 **Topic ID**: 24074

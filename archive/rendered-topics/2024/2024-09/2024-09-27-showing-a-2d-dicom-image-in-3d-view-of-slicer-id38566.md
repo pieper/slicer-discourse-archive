@@ -1,3 +1,10 @@
+---
+topic_id: 38566
+title: "Showing A 2D Dicom Image In 3D View Of Slicer"
+date: 2024-09-27
+url: https://discourse.slicer.org/t/38566
+---
+
 # Showing a 2D dicom image in 3d view of slicer
 
 **Topic ID**: 38566

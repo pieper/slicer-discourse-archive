@@ -1,3 +1,10 @@
+---
+topic_id: 38211
+title: "How To Cut Segment Using Closed Curve"
+date: 2024-09-04
+url: https://discourse.slicer.org/t/38211
+---
+
 # How to cut segment using closed curve
 
 **Topic ID**: 38211

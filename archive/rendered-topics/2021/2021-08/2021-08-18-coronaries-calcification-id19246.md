@@ -1,3 +1,10 @@
+---
+topic_id: 19246
+title: "Coronaries Calcification"
+date: 2021-08-18
+url: https://discourse.slicer.org/t/19246
+---
+
 # Coronaries Calcification
 
 **Topic ID**: 19246

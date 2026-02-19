@@ -1,3 +1,10 @@
+---
+topic_id: 14216
+title: "Substract A 3D Model From Another Model"
+date: 2020-10-23
+url: https://discourse.slicer.org/t/14216
+---
+
 # Substract a 3d model from another model
 
 **Topic ID**: 14216

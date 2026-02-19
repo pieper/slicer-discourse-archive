@@ -1,3 +1,10 @@
+---
+topic_id: 20600
+title: "Approximate Anatomical Axis Curve Of Long Bone"
+date: 2021-11-12
+url: https://discourse.slicer.org/t/20600
+---
+
 # Approximate anatomical axis (curve) of long bone
 
 **Topic ID**: 20600

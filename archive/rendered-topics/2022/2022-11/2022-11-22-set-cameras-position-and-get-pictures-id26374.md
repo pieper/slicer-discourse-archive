@@ -1,3 +1,10 @@
+---
+topic_id: 26374
+title: "Set Cameras Position And Get Pictures"
+date: 2022-11-22
+url: https://discourse.slicer.org/t/26374
+---
+
 # Set cameras position and get pictures
 
 **Topic ID**: 26374

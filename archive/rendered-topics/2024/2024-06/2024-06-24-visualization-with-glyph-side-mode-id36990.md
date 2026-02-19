@@ -1,3 +1,10 @@
+---
+topic_id: 36990
+title: "Visualization With Glyph Side Mode"
+date: 2024-06-24
+url: https://discourse.slicer.org/t/36990
+---
+
 # Visualization with Glyph Side mode
 
 **Topic ID**: 36990

@@ -1,3 +1,10 @@
+---
+topic_id: 25306
+title: "Use Same Mouse Event As Segment Editor Paint Effect"
+date: 2022-09-16
+url: https://discourse.slicer.org/t/25306
+---
+
 # Use same mouse event as segment editor paint effect
 
 **Topic ID**: 25306

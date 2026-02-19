@@ -1,3 +1,10 @@
+---
+topic_id: 31243
+title: "What Do The Results By Model To Model Distance Means"
+date: 2023-08-19
+url: https://discourse.slicer.org/t/31243
+---
+
 # What do the results by Model-to-Model Distance means?
 
 **Topic ID**: 31243

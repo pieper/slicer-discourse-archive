@@ -1,3 +1,10 @@
+---
+topic_id: 28840
+title: "Local Dicom Folder Query"
+date: 2023-04-11
+url: https://discourse.slicer.org/t/28840
+---
+
 # Local DICOM folder query
 
 **Topic ID**: 28840

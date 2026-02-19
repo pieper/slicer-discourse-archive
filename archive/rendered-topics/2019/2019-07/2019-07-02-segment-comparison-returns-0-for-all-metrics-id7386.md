@@ -1,3 +1,10 @@
+---
+topic_id: 7386
+title: "Segment Comparison Returns 0 For All Metrics"
+date: 2019-07-02
+url: https://discourse.slicer.org/t/7386
+---
+
 # Segment comparison returns 0 for all metrics
 
 **Topic ID**: 7386

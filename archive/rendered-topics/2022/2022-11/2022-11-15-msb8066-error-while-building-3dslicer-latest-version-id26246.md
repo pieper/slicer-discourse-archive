@@ -1,3 +1,10 @@
+---
+topic_id: 26246
+title: "Msb8066 Error While Building 3Dslicer Latest Version"
+date: 2022-11-15
+url: https://discourse.slicer.org/t/26246
+---
+
 # MSB8066 error while building 3DSlicer latest version
 
 **Topic ID**: 26246

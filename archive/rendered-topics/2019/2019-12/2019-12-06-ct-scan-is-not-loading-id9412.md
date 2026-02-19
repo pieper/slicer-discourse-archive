@@ -1,3 +1,10 @@
+---
+topic_id: 9412
+title: "Ct Scan Is Not Loading"
+date: 2019-12-06
+url: https://discourse.slicer.org/t/9412
+---
+
 # CT scan is not loading
 
 **Topic ID**: 9412

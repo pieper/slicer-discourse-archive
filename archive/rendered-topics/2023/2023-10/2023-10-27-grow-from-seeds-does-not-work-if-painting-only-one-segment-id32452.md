@@ -1,3 +1,10 @@
+---
+topic_id: 32452
+title: "Grow From Seeds Does Not Work If Painting Only One Segment"
+date: 2023-10-27
+url: https://discourse.slicer.org/t/32452
+---
+
 # Grow from seeds does not work if painting only one segment
 
 **Topic ID**: 32452

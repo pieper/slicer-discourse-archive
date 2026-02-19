@@ -1,3 +1,10 @@
+---
+topic_id: 6876
+title: "Problem With Mri Data Classification"
+date: 2019-05-22
+url: https://discourse.slicer.org/t/6876
+---
+
 # Problem with MRI data classification
 
 **Topic ID**: 6876

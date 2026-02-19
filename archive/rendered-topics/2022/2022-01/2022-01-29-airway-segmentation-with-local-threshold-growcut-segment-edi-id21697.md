@@ -1,3 +1,10 @@
+---
+topic_id: 21697
+title: "Airway Segmentation With Local Threshold Growcut Segment Edi"
+date: 2022-01-29
+url: https://discourse.slicer.org/t/21697
+---
+
 # Airway segmentation with Local Threshold (Growcut) Segment Editor Extra Effect
 
 **Topic ID**: 21697

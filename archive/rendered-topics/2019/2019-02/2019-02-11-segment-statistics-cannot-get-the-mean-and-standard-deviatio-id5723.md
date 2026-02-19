@@ -1,3 +1,10 @@
+---
+topic_id: 5723
+title: "Segment Statistics Cannot Get The Mean And Standard Deviatio"
+date: 2019-02-11
+url: https://discourse.slicer.org/t/5723
+---
+
 # Segment statistics-- cannot get the mean and standard deviation
 
 **Topic ID**: 5723

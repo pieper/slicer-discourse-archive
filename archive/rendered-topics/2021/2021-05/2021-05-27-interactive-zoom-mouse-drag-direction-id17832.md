@@ -1,3 +1,10 @@
+---
+topic_id: 17832
+title: "Interactive Zoom Mouse Drag Direction"
+date: 2021-05-27
+url: https://discourse.slicer.org/t/17832
+---
+
 # Interactive Zoom Mouse Drag Direction
 
 **Topic ID**: 17832

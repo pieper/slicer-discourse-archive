@@ -1,3 +1,10 @@
+---
+topic_id: 4475
+title: "Looking To Install Virtual Reality Extension On Slicer 4 9 0"
+date: 2018-10-20
+url: https://discourse.slicer.org/t/4475
+---
+
 # Looking to install virtual reality extension on slicer 4.9.0
 
 **Topic ID**: 4475

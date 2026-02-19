@@ -1,3 +1,10 @@
+---
+topic_id: 40177
+title: "Slicerrt Build Fails With New Dcmtk"
+date: 2024-11-13
+url: https://discourse.slicer.org/t/40177
+---
+
 # SlicerRT build fails with new DCMTK
 
 **Topic ID**: 40177

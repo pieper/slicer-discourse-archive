@@ -1,3 +1,10 @@
+---
+topic_id: 7056
+title: "Track Images Using Polhemus Fastrak Electromagnetic Tracker"
+date: 2019-06-06
+url: https://discourse.slicer.org/t/7056
+---
+
 # Track images using Polhemus Fastrak electromagnetic tracker
 
 **Topic ID**: 7056

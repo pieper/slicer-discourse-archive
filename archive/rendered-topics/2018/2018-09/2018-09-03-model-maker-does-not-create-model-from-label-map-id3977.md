@@ -1,3 +1,10 @@
+---
+topic_id: 3977
+title: "Model Maker Does Not Create Model From Label Map"
+date: 2018-09-03
+url: https://discourse.slicer.org/t/3977
+---
+
 # Model Maker does not create model from label map
 
 **Topic ID**: 3977

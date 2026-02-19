@@ -1,3 +1,10 @@
+---
+topic_id: 44210
+title: "Maintenance Of Windows Dashboard Planned For August 26Th"
+date: 2025-08-26
+url: https://discourse.slicer.org/t/44210
+---
+
 # Maintenance of Windows dashboard planned for August 26th
 
 **Topic ID**: 44210

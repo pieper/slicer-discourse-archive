@@ -1,3 +1,10 @@
+---
+topic_id: 6407
+title: "Collaborative Surgery Planning In Virtual Reality"
+date: 2019-04-05
+url: https://discourse.slicer.org/t/6407
+---
+
 # Collaborative surgery planning in virtual reality
 
 **Topic ID**: 6407

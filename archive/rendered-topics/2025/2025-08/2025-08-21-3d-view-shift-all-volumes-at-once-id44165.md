@@ -1,3 +1,10 @@
+---
+topic_id: 44165
+title: "3D View Shift All Volumes At Once"
+date: 2025-08-21
+url: https://discourse.slicer.org/t/44165
+---
+
 # 3D View - shift all volumes at once
 
 **Topic ID**: 44165

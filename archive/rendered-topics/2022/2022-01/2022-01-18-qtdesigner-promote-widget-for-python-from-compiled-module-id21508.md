@@ -1,3 +1,10 @@
+---
+topic_id: 21508
+title: "Qtdesigner Promote Widget For Python From Compiled Module"
+date: 2022-01-18
+url: https://discourse.slicer.org/t/21508
+---
+
 # QtDesigner: promote widget for python from compiled module
 
 **Topic ID**: 21508

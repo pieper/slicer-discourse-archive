@@ -1,3 +1,10 @@
+---
+topic_id: 15208
+title: "Panoramic 3D Image"
+date: 2020-12-24
+url: https://discourse.slicer.org/t/15208
+---
+
 # Panoramic 3D image
 
 **Topic ID**: 15208

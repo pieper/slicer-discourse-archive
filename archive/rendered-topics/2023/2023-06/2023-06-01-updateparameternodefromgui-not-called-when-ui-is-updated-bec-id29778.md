@@ -1,3 +1,10 @@
+---
+topic_id: 29778
+title: "Updateparameternodefromgui Not Called When Ui Is Updated Bec"
+date: 2023-06-01
+url: https://discourse.slicer.org/t/29778
+---
+
 # updateParameterNodeFromGUI not called when ui is updated because connect() don't work
 
 **Topic ID**: 29778

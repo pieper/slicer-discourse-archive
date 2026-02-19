@@ -1,3 +1,10 @@
+---
+topic_id: 14041
+title: "Using Observer Tags"
+date: 2020-10-14
+url: https://discourse.slicer.org/t/14041
+---
+
 # Using observer tags
 
 **Topic ID**: 14041

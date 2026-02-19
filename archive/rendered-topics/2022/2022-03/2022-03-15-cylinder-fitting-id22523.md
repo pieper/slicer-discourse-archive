@@ -1,3 +1,10 @@
+---
+topic_id: 22523
+title: "Cylinder Fitting"
+date: 2022-03-15
+url: https://discourse.slicer.org/t/22523
+---
+
 # Cylinder fitting
 
 **Topic ID**: 22523

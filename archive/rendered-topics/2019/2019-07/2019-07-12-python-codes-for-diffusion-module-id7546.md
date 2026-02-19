@@ -1,3 +1,10 @@
+---
+topic_id: 7546
+title: "Python Codes For Diffusion Module"
+date: 2019-07-12
+url: https://discourse.slicer.org/t/7546
+---
+
 # Python codes for diffusion module
 
 **Topic ID**: 7546

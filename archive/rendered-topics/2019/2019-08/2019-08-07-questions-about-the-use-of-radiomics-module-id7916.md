@@ -1,3 +1,10 @@
+---
+topic_id: 7916
+title: "Questions About The Use Of Radiomics Module"
+date: 2019-08-07
+url: https://discourse.slicer.org/t/7916
+---
+
 #  questions about the use of radiomics module
 
 **Topic ID**: 7916

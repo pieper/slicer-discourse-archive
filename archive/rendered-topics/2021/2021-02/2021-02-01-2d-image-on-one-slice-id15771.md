@@ -1,3 +1,10 @@
+---
+topic_id: 15771
+title: "2D Image On One Slice"
+date: 2021-02-01
+url: https://discourse.slicer.org/t/15771
+---
+
 # 2D image on one slice
 
 **Topic ID**: 15771

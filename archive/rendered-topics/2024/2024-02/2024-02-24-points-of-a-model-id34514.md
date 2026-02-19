@@ -1,3 +1,10 @@
+---
+topic_id: 34514
+title: "Points Of A Model"
+date: 2024-02-24
+url: https://discourse.slicer.org/t/34514
+---
+
 # Points of a model
 
 **Topic ID**: 34514

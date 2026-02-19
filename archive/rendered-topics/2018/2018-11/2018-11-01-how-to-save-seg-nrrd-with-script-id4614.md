@@ -1,3 +1,10 @@
+---
+topic_id: 4614
+title: "How To Save Seg Nrrd With Script"
+date: 2018-11-01
+url: https://discourse.slicer.org/t/4614
+---
+
 # How to save .seg.nrrd with script?
 
 **Topic ID**: 4614

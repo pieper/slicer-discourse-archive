@@ -1,3 +1,10 @@
+---
+topic_id: 11873
+title: "How To Crop A Dicom 3D Dose File And Save It In A Dicom 3D D"
+date: 2020-06-05
+url: https://discourse.slicer.org/t/11873
+---
+
 # How to crop a DICOM 3D dose file and save it in a DICOM 3D dose file (not DICOM series)
 
 **Topic ID**: 11873

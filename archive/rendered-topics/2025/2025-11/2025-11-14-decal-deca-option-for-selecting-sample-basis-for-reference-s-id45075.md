@@ -1,3 +1,10 @@
+---
+topic_id: 45075
+title: "Decal Deca Option For Selecting Sample Basis For Reference S"
+date: 2025-11-14
+url: https://discourse.slicer.org/t/45075
+---
+
 # DeCAL & DeCA —> option for selecting sample basis for reference shape
 
 **Topic ID**: 45075

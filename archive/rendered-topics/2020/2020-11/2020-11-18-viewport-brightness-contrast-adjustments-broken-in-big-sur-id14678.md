@@ -1,3 +1,10 @@
+---
+topic_id: 14678
+title: "Viewport Brightness Contrast Adjustments Broken In Big Sur"
+date: 2020-11-18
+url: https://discourse.slicer.org/t/14678
+---
+
 # Viewport brightness/contrast adjustments broken in Big Sur?
 
 **Topic ID**: 14678

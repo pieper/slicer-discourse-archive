@@ -1,3 +1,10 @@
+---
+topic_id: 12463
+title: "Slicer Local Threshold Scripted Effect Error"
+date: 2020-07-09
+url: https://discourse.slicer.org/t/12463
+---
+
 # Slicer Local Threshold Scripted Effect Error
 
 **Topic ID**: 12463

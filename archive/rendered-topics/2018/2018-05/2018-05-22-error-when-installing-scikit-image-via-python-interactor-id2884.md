@@ -1,3 +1,10 @@
+---
+topic_id: 2884
+title: "Error When Installing Scikit Image Via Python Interactor"
+date: 2018-05-22
+url: https://discourse.slicer.org/t/2884
+---
+
 # Error when installing scikit-image via Python Interactor
 
 **Topic ID**: 2884

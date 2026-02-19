@@ -1,3 +1,10 @@
+---
+topic_id: 23327
+title: "Error To Visualize Polydata In Slicer 4 10 2"
+date: 2022-05-08
+url: https://discourse.slicer.org/t/23327
+---
+
 # Error to visualize polydata in slicer 4.10.2
 
 **Topic ID**: 23327

@@ -1,3 +1,10 @@
+---
+topic_id: 45679
+title: "Problems Related To Features Between Theory Of Radiomics And"
+date: 2026-01-05
+url: https://discourse.slicer.org/t/45679
+---
+
 # Problems related to features between theory of radiomics and pyradiomics 
 
 **Topic ID**: 45679

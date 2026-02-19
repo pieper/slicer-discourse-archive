@@ -1,3 +1,10 @@
+---
+topic_id: 26087
+title: "Slicer Kernel For Jupyter Notebook And Python Debugger Setup"
+date: 2022-11-05
+url: https://discourse.slicer.org/t/26087
+---
+
 # Slicer kernel for jupyter notebook and python debugger setup in vscode
 
 **Topic ID**: 26087

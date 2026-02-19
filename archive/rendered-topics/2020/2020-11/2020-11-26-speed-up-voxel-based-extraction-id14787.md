@@ -1,3 +1,10 @@
+---
+topic_id: 14787
+title: "Speed Up Voxel Based Extraction"
+date: 2020-11-26
+url: https://discourse.slicer.org/t/14787
+---
+
 # Speed up Voxel based extraction
 
 **Topic ID**: 14787

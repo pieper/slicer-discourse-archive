@@ -1,3 +1,10 @@
+---
+topic_id: 13196
+title: "Slicerjupyter Extension"
+date: 2020-08-27
+url: https://discourse.slicer.org/t/13196
+---
+
 # SlicerJupyter Extension
 
 **Topic ID**: 13196

@@ -1,3 +1,10 @@
+---
+topic_id: 4951
+title: "4D Non Rigid Registration Of Bones"
+date: 2018-12-04
+url: https://discourse.slicer.org/t/4951
+---
+
 # 4D non-rigid registration of bones
 
 **Topic ID**: 4951

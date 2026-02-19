@@ -1,3 +1,10 @@
+---
+topic_id: 19794
+title: "Sandbox Segment Cross Section Area"
+date: 2021-09-21
+url: https://discourse.slicer.org/t/19794
+---
+
 # Sandbox/Segment Cross-section area
 
 **Topic ID**: 19794

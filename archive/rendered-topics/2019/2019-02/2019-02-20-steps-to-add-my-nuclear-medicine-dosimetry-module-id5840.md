@@ -1,3 +1,10 @@
+---
+topic_id: 5840
+title: "Steps To Add My Nuclear Medicine Dosimetry Module"
+date: 2019-02-20
+url: https://discourse.slicer.org/t/5840
+---
+
 # Steps to add my Nuclear Medicine Dosimetry module
 
 **Topic ID**: 5840

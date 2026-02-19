@@ -1,3 +1,10 @@
+---
+topic_id: 37771
+title: "How To Build Nvidia Nvapi In Slicer Environment"
+date: 2024-08-08
+url: https://discourse.slicer.org/t/37771
+---
+
 # How to build NVidia NVAPI in slicer environment
 
 **Topic ID**: 37771

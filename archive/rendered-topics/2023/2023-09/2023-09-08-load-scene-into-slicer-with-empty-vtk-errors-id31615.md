@@ -1,3 +1,10 @@
+---
+topic_id: 31615
+title: "Load Scene Into Slicer With Empty Vtk Errors"
+date: 2023-09-08
+url: https://discourse.slicer.org/t/31615
+---
+
 # Load scene into Slicer with empty vtk errors
 
 **Topic ID**: 31615

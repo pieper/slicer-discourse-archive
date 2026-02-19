@@ -1,3 +1,10 @@
+---
+topic_id: 22568
+title: "No Longer Receiving Posts By Mail"
+date: 2022-03-17
+url: https://discourse.slicer.org/t/22568
+---
+
 # No longer receiving posts by mail
 
 **Topic ID**: 22568

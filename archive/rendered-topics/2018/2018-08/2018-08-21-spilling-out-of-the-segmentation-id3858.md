@@ -1,3 +1,10 @@
+---
+topic_id: 3858
+title: "Spilling Out Of The Segmentation"
+date: 2018-08-21
+url: https://discourse.slicer.org/t/3858
+---
+
 # Spilling out of the segmentation
 
 **Topic ID**: 3858

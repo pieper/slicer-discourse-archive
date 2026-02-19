@@ -1,3 +1,10 @@
+---
+topic_id: 14579
+title: "Best Computer For Running Slicer"
+date: 2020-11-13
+url: https://discourse.slicer.org/t/14579
+---
+
 # Best computer for running Slicer
 
 **Topic ID**: 14579

@@ -1,3 +1,10 @@
+---
+topic_id: 34537
+title: "How To Use The Functionality Im Interested In 3D Slicer As A"
+date: 2024-02-26
+url: https://discourse.slicer.org/t/34537
+---
+
 # How to use the functionality I'm interested in 3D Slicer as a library for my own program?
 
 **Topic ID**: 34537

@@ -1,3 +1,10 @@
+---
+topic_id: 18729
+title: "Vmtkcenterlinesections Doesnt Work Sometime"
+date: 2021-07-14
+url: https://discourse.slicer.org/t/18729
+---
+
 # vmtkcenterlinesections doesn't work sometime
 
 **Topic ID**: 18729

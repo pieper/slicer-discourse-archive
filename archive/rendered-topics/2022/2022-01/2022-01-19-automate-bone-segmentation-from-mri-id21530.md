@@ -1,3 +1,10 @@
+---
+topic_id: 21530
+title: "Automate Bone Segmentation From Mri"
+date: 2022-01-19
+url: https://discourse.slicer.org/t/21530
+---
+
 # Automate bone segmentation from MRI
 
 **Topic ID**: 21530

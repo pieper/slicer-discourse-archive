@@ -1,3 +1,10 @@
+---
+topic_id: 42463
+title: "Getting Centre Line Without Endpoints"
+date: 2025-04-07
+url: https://discourse.slicer.org/t/42463
+---
+
 # Getting centre line without endpoints 
 
 **Topic ID**: 42463

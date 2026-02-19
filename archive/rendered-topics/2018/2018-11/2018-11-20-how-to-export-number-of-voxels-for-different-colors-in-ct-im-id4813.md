@@ -1,3 +1,10 @@
+---
+topic_id: 4813
+title: "How To Export Number Of Voxels For Different Colors In Ct Im"
+date: 2018-11-20
+url: https://discourse.slicer.org/t/4813
+---
+
 # How to export number of voxels for different colors in CT images after segmentation?
 
 **Topic ID**: 4813

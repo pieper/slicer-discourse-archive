@@ -1,3 +1,10 @@
+---
+topic_id: 502
+title: "Tractography Through Rois From Tms Dicom Data Anyone Experie"
+date: 2017-06-14
+url: https://discourse.slicer.org/t/502
+---
+
 # Tractography through ROIs from TMS-DICOM-Data - anyone experience?
 
 **Topic ID**: 502

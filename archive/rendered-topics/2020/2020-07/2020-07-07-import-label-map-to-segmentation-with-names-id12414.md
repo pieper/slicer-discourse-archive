@@ -1,3 +1,10 @@
+---
+topic_id: 12414
+title: "Import Label Map To Segmentation With Names"
+date: 2020-07-07
+url: https://discourse.slicer.org/t/12414
+---
+
 # Import label map to segmentation with names
 
 **Topic ID**: 12414

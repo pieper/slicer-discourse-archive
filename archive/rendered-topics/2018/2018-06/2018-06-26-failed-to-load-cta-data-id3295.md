@@ -1,3 +1,10 @@
+---
+topic_id: 3295
+title: "Failed To Load Cta Data"
+date: 2018-06-26
+url: https://discourse.slicer.org/t/3295
+---
+
 # Failed to load CTA data
 
 **Topic ID**: 3295

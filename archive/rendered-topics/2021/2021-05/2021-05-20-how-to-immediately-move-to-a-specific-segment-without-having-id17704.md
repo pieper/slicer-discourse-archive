@@ -1,3 +1,10 @@
+---
+topic_id: 17704
+title: "How To Immediately Move To A Specific Segment Without Having"
+date: 2021-05-20
+url: https://discourse.slicer.org/t/17704
+---
+
 # How to immediately move to a specific segment without having to search for it by scrolling the volume?
 
 **Topic ID**: 17704

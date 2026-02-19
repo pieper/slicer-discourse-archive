@@ -1,3 +1,10 @@
+---
+topic_id: 40463
+title: "Issue With Importing Dicom Files In Slicer"
+date: 2024-12-01
+url: https://discourse.slicer.org/t/40463
+---
+
 # Issue with Importing DICOM Files in Slicer
 
 **Topic ID**: 40463

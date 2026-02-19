@@ -1,3 +1,10 @@
+---
+topic_id: 2893
+title: "Export Segmentation To Fea Software"
+date: 2018-05-23
+url: https://discourse.slicer.org/t/2893
+---
+
 # Export segmentation to FEA software
 
 **Topic ID**: 2893

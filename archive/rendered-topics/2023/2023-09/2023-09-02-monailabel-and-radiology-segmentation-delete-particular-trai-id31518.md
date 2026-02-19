@@ -1,3 +1,10 @@
+---
+topic_id: 31518
+title: "Monailabel And Radiology Segmentation Delete Particular Trai"
+date: 2023-09-02
+url: https://discourse.slicer.org/t/31518
+---
+
 # Monailabel and radiology/segmentation delete particular training / model
 
 **Topic ID**: 31518

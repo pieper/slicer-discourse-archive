@@ -1,3 +1,10 @@
+---
+topic_id: 5729
+title: "Slicer 4 10 1 Interpolation Slicing Issue With Segmentation"
+date: 2019-02-11
+url: https://discourse.slicer.org/t/5729
+---
+
 # Slicer 4.10.1 Interpolation/Slicing Issue with Segmentation on MRI Dicom files
 
 **Topic ID**: 5729

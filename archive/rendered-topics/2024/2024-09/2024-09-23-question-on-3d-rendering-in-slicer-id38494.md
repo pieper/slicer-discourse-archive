@@ -1,3 +1,10 @@
+---
+topic_id: 38494
+title: "Question On 3D Rendering In Slicer"
+date: 2024-09-23
+url: https://discourse.slicer.org/t/38494
+---
+
 # Question on 3D rendering in Slicer
 
 **Topic ID**: 38494

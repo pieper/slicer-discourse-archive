@@ -1,3 +1,10 @@
+---
+topic_id: 25064
+title: "Howto Find The Largest Empty Circle Amid A Set Of Points And"
+date: 2022-09-03
+url: https://discourse.slicer.org/t/25064
+---
+
 # Howto find the largest empty circle amid a set of points, and in an enclosing polygon?
 
 **Topic ID**: 25064

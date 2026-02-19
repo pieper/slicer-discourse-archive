@@ -1,3 +1,10 @@
+---
+topic_id: 20905
+title: "Failed To Run Inference In Monai Label Server"
+date: 2021-12-03
+url: https://discourse.slicer.org/t/20905
+---
+
 # Failed to run inference in MONAI Label Server
 
 **Topic ID**: 20905

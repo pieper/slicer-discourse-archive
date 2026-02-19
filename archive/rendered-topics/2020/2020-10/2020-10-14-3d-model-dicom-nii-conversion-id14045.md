@@ -1,3 +1,10 @@
+---
+topic_id: 14045
+title: "3D Model Dicom Nii Conversion"
+date: 2020-10-14
+url: https://discourse.slicer.org/t/14045
+---
+
 # 3D model -> DICOM/nii conversion
 
 **Topic ID**: 14045

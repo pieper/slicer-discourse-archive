@@ -1,3 +1,10 @@
+---
+topic_id: 5010
+title: "Web Based Viewer"
+date: 2018-12-07
+url: https://discourse.slicer.org/t/5010
+---
+
 # Web based viewer
 
 **Topic ID**: 5010

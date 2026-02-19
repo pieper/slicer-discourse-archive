@@ -1,3 +1,10 @@
+---
+topic_id: 43810
+title: "Automatize Model Remeshing Using Python"
+date: 2025-07-22
+url: https://discourse.slicer.org/t/43810
+---
+
 # Automatize model remeshing using python
 
 **Topic ID**: 43810

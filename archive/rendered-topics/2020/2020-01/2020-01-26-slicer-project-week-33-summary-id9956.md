@@ -1,3 +1,10 @@
+---
+topic_id: 9956
+title: "Slicer Project Week 33 Summary"
+date: 2020-01-26
+url: https://discourse.slicer.org/t/9956
+---
+
 # Slicer project week #33 - summary
 
 **Topic ID**: 9956

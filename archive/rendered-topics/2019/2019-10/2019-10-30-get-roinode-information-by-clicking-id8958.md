@@ -1,3 +1,10 @@
+---
+topic_id: 8958
+title: "Get Roinode Information By Clicking"
+date: 2019-10-30
+url: https://discourse.slicer.org/t/8958
+---
+
 # Get ROINode Information by clicking
 
 **Topic ID**: 8958

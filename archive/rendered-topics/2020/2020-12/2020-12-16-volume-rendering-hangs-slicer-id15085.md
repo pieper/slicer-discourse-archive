@@ -1,3 +1,10 @@
+---
+topic_id: 15085
+title: "Volume Rendering Hangs Slicer"
+date: 2020-12-16
+url: https://discourse.slicer.org/t/15085
+---
+
 # Volume rendering hangs Slicer
 
 **Topic ID**: 15085

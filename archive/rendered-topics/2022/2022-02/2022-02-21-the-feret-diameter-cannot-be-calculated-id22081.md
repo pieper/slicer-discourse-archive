@@ -1,3 +1,10 @@
+---
+topic_id: 22081
+title: "The Feret Diameter Cannot Be Calculated"
+date: 2022-02-21
+url: https://discourse.slicer.org/t/22081
+---
+
 # The feret diameter cannot be calculated
 
 **Topic ID**: 22081

@@ -1,3 +1,10 @@
+---
+topic_id: 31835
+title: "Failed To Save A Scene To External Exfat Usb Volume On Macos"
+date: 2023-09-21
+url: https://discourse.slicer.org/t/31835
+---
+
 # Failed to save a scene to external ExFAT usb volume on MacOS
 
 **Topic ID**: 31835

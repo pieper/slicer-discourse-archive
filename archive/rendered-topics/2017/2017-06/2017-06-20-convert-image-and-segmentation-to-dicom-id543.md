@@ -1,3 +1,10 @@
+---
+topic_id: 543
+title: "Convert Image And Segmentation To Dicom"
+date: 2017-06-20
+url: https://discourse.slicer.org/t/543
+---
+
 # Convert image and segmentation to DICOM
 
 **Topic ID**: 543

@@ -1,3 +1,10 @@
+---
+topic_id: 7538
+title: "Qmrmlplotview Embedded In Ui"
+date: 2019-07-11
+url: https://discourse.slicer.org/t/7538
+---
+
 # qMRMLPlotView embedded in UI
 
 **Topic ID**: 7538

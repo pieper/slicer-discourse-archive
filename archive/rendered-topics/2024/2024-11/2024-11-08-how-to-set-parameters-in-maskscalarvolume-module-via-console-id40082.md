@@ -1,3 +1,10 @@
+---
+topic_id: 40082
+title: "How To Set Parameters In Maskscalarvolume Module Via Console"
+date: 2024-11-08
+url: https://discourse.slicer.org/t/40082
+---
+
 # How to set parameters in "MaskScalarVolume" module via console
 
 **Topic ID**: 40082

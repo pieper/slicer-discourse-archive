@@ -1,3 +1,10 @@
+---
+topic_id: 5451
+title: "Open Positions Freelancer For A Project"
+date: 2019-01-21
+url: https://discourse.slicer.org/t/5451
+---
+
 # Open positions/ freelancer for a project
 
 **Topic ID**: 5451

@@ -1,3 +1,10 @@
+---
+topic_id: 17272
+title: "Python Script Time Series Of 4D Volume Loading Synchronized"
+date: 2021-04-23
+url: https://discourse.slicer.org/t/17272
+---
+
 # Python script : Time series of 4D volume & loading synchronized nodes
 
 **Topic ID**: 17272

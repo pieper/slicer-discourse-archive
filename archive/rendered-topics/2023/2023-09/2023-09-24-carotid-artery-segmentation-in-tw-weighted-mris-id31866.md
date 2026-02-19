@@ -1,3 +1,10 @@
+---
+topic_id: 31866
+title: "Carotid Artery Segmentation In Tw Weighted Mris"
+date: 2023-09-24
+url: https://discourse.slicer.org/t/31866
+---
+
 # Carotid Artery Segmentation in tw weighted MRI's
 
 **Topic ID**: 31866

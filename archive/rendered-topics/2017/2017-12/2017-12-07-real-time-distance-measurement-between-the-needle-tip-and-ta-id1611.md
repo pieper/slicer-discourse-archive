@@ -1,3 +1,10 @@
+---
+topic_id: 1611
+title: "Real Time Distance Measurement Between The Needle Tip And Ta"
+date: 2017-12-07
+url: https://discourse.slicer.org/t/1611
+---
+
 # Real-time distance measurement between the needle tip and target with PlusToolkit and 3D Slicer
 
 **Topic ID**: 1611

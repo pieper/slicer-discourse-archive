@@ -1,3 +1,10 @@
+---
+topic_id: 15430
+title: "Segment Mesher Meshing Parameters For Older Version"
+date: 2021-01-10
+url: https://discourse.slicer.org/t/15430
+---
+
 # Segment Mesher - meshing parameters for older version
 
 **Topic ID**: 15430

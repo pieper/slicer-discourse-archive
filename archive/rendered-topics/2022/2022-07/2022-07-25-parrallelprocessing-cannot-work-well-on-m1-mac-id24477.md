@@ -1,3 +1,10 @@
+---
+topic_id: 24477
+title: "Parrallelprocessing Cannot Work Well On M1 Mac"
+date: 2022-07-25
+url: https://discourse.slicer.org/t/24477
+---
+
 # ParrallelProcessing cannot work well on M1 Mac
 
 **Topic ID**: 24477

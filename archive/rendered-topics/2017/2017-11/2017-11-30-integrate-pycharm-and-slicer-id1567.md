@@ -1,3 +1,10 @@
+---
+topic_id: 1567
+title: "Integrate Pycharm And Slicer"
+date: 2017-11-30
+url: https://discourse.slicer.org/t/1567
+---
+
 # Integrate pycharm and Slicer
 
 **Topic ID**: 1567

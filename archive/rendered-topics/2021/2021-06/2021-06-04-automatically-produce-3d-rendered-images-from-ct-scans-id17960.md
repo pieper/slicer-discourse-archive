@@ -1,3 +1,10 @@
+---
+topic_id: 17960
+title: "Automatically Produce 3D Rendered Images From Ct Scans"
+date: 2021-06-04
+url: https://discourse.slicer.org/t/17960
+---
+
 # Automatically produce 3D rendered images from CT scans
 
 **Topic ID**: 17960

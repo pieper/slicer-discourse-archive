@@ -1,3 +1,10 @@
+---
+topic_id: 32271
+title: "Filtering Out Shadows Due To High Dence Material"
+date: 2023-10-17
+url: https://discourse.slicer.org/t/32271
+---
+
 # Filtering out shadows due to high dence material
 
 **Topic ID**: 32271

@@ -1,3 +1,10 @@
+---
+topic_id: 31770
+title: "3D Coordinates From Points Equidistance Along A Curved Path"
+date: 2023-09-18
+url: https://discourse.slicer.org/t/31770
+---
+
 # 3D coordinates from points equidistance along a curved path 
 
 **Topic ID**: 31770

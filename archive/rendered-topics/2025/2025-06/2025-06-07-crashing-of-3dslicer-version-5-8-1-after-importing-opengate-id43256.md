@@ -1,3 +1,10 @@
+---
+topic_id: 43256
+title: "Crashing Of 3Dslicer Version 5 8 1 After Importing Opengate"
+date: 2025-06-07
+url: https://discourse.slicer.org/t/43256
+---
+
 # Crashing of 3DSlicer version 5.8.1 after importing openGate Python package
 
 **Topic ID**: 43256

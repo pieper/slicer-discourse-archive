@@ -1,3 +1,10 @@
+---
+topic_id: 35454
+title: "Howto Totalsegment Vertebrae Body With Python"
+date: 2024-04-12
+url: https://discourse.slicer.org/t/35454
+---
+
 # Howto `totalSegment` vertebrae_body with python?
 
 **Topic ID**: 35454

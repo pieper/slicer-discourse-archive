@@ -1,3 +1,10 @@
+---
+topic_id: 21224
+title: "Import Displacement Field From Matlab"
+date: 2021-12-27
+url: https://discourse.slicer.org/t/21224
+---
+
 # Import displacement field from Matlab
 
 **Topic ID**: 21224

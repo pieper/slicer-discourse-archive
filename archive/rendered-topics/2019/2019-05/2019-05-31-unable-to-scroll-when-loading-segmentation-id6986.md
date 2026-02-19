@@ -1,3 +1,10 @@
+---
+topic_id: 6986
+title: "Unable To Scroll When Loading Segmentation"
+date: 2019-05-31
+url: https://discourse.slicer.org/t/6986
+---
+
 # Unable to scroll when loading segmentation
 
 **Topic ID**: 6986

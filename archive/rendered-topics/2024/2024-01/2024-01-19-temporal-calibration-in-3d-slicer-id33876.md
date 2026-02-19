@@ -1,3 +1,10 @@
+---
+topic_id: 33876
+title: "Temporal Calibration In 3D Slicer"
+date: 2024-01-19
+url: https://discourse.slicer.org/t/33876
+---
+
 # Temporal calibration in 3D slicer
 
 **Topic ID**: 33876

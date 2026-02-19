@@ -1,3 +1,10 @@
+---
+topic_id: 2775
+title: "Not Getting Poly Data"
+date: 2018-05-08
+url: https://discourse.slicer.org/t/2775
+---
+
 # Not getting poly data
 
 **Topic ID**: 2775

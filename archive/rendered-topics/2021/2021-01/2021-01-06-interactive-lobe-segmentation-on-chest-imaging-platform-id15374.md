@@ -1,3 +1,10 @@
+---
+topic_id: 15374
+title: "Interactive Lobe Segmentation On Chest Imaging Platform"
+date: 2021-01-06
+url: https://discourse.slicer.org/t/15374
+---
+
 # Interactive lobe segmentation on Chest Imaging Platform
 
 **Topic ID**: 15374

@@ -1,3 +1,10 @@
+---
+topic_id: 2929
+title: "Slicer Not Loading Properly"
+date: 2018-05-25
+url: https://discourse.slicer.org/t/2929
+---
+
 # slicer not loading properly
 
 **Topic ID**: 2929

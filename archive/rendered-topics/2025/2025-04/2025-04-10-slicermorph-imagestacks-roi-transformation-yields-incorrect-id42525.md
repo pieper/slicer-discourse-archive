@@ -1,3 +1,10 @@
+---
+topic_id: 42525
+title: "Slicermorph Imagestacks Roi Transformation Yields Incorrect"
+date: 2025-04-10
+url: https://discourse.slicer.org/t/42525
+---
+
 # SlicerMorph ImageStacks ROI transformation yields incorrect cropping
 
 **Topic ID**: 42525

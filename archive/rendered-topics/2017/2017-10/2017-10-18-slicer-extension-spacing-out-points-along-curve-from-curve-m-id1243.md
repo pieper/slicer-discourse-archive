@@ -1,3 +1,10 @@
+---
+topic_id: 1243
+title: "Slicer Extension Spacing Out Points Along Curve From Curve M"
+date: 2017-10-18
+url: https://discourse.slicer.org/t/1243
+---
+
 # Slicer Extension: Spacing out points along curve from Curve Maker
 
 **Topic ID**: 1243

@@ -1,3 +1,10 @@
+---
+topic_id: 23056
+title: "Slicer Cli Starts Before The Last Cli Ends"
+date: 2022-04-20
+url: https://discourse.slicer.org/t/23056
+---
+
 # Slicer cli starts before the last cli ends
 
 **Topic ID**: 23056

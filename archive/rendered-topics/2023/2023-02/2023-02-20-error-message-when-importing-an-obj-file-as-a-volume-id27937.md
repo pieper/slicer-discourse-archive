@@ -1,3 +1,10 @@
+---
+topic_id: 27937
+title: "Error Message When Importing An Obj File As A Volume"
+date: 2023-02-20
+url: https://discourse.slicer.org/t/27937
+---
+
 # Error message when importing an .obj file as a volume 
 
 **Topic ID**: 27937

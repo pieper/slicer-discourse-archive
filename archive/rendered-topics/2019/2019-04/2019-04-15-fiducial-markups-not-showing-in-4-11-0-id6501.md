@@ -1,3 +1,10 @@
+---
+topic_id: 6501
+title: "Fiducial Markups Not Showing In 4 11 0"
+date: 2019-04-15
+url: https://discourse.slicer.org/t/6501
+---
+
 # Fiducial markups not showing in 4.11.0
 
 **Topic ID**: 6501

@@ -1,3 +1,10 @@
+---
+topic_id: 622
+title: "How To Analyze Dce Mri Data"
+date: 2017-07-04
+url: https://discourse.slicer.org/t/622
+---
+
 # How to analyze DCE-MRI data
 
 **Topic ID**: 622

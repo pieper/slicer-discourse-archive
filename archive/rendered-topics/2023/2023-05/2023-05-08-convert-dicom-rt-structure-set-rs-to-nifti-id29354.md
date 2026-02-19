@@ -1,3 +1,10 @@
+---
+topic_id: 29354
+title: "Convert Dicom Rt Structure Set Rs To Nifti"
+date: 2023-05-08
+url: https://discourse.slicer.org/t/29354
+---
+
 # Convert DICOM RT structure set (RS) to NIFTI
 
 **Topic ID**: 29354

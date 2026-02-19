@@ -1,3 +1,10 @@
+---
+topic_id: 13174
+title: "Created An Stl File From Numpy Array But Unable To Get This"
+date: 2020-08-26
+url: https://discourse.slicer.org/t/13174
+---
+
 # Created an STL file from numpy array but unable to get this aligned with dicom volume after loading
 
 **Topic ID**: 13174

@@ -1,3 +1,10 @@
+---
+topic_id: 41115
+title: "The Markups To Model Is Displayed As A Radius Not A Sphere"
+date: 2025-01-16
+url: https://discourse.slicer.org/t/41115
+---
+
 # The"Markups to Model" is displayed as a radius, not a sphere
 
 **Topic ID**: 41115

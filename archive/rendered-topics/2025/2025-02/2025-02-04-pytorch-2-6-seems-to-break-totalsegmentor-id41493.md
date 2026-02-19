@@ -1,3 +1,10 @@
+---
+topic_id: 41493
+title: "Pytorch 2 6 Seems To Break Totalsegmentor"
+date: 2025-02-04
+url: https://discourse.slicer.org/t/41493
+---
+
 # PyTorch 2.6 seems to break TotalSegmentor 
 
 **Topic ID**: 41493

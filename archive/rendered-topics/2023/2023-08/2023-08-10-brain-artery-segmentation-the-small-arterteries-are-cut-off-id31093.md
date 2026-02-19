@@ -1,3 +1,10 @@
+---
+topic_id: 31093
+title: "Brain Artery Segmentation The Small Arterteries Are Cut Off"
+date: 2023-08-10
+url: https://discourse.slicer.org/t/31093
+---
+
 # Brain Artery Segmentation - The Small Arterteries are cut off/incomplete
 
 **Topic ID**: 31093

@@ -1,3 +1,10 @@
+---
+topic_id: 15157
+title: "Nice Leg Dataset Could Be Used For Atlas"
+date: 2020-12-20
+url: https://discourse.slicer.org/t/15157
+---
+
 # Nice leg dataset - could be used for atlas
 
 **Topic ID**: 15157

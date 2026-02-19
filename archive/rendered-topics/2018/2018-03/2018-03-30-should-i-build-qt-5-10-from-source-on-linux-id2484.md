@@ -1,3 +1,10 @@
+---
+topic_id: 2484
+title: "Should I Build Qt 5 10 From Source On Linux"
+date: 2018-03-30
+url: https://discourse.slicer.org/t/2484
+---
+
 # Should I build Qt 5.10 from source on Linux?
 
 **Topic ID**: 2484

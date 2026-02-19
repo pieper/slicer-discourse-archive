@@ -1,3 +1,10 @@
+---
+topic_id: 45043
+title: "Macos And Linux Extensions For Stable Is Delayed"
+date: 2025-11-11
+url: https://discourse.slicer.org/t/45043
+---
+
 # MacOS and Linux extensions for stable is delayed?
 
 **Topic ID**: 45043

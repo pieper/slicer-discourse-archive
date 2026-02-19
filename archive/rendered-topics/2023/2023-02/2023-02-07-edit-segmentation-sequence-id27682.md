@@ -1,3 +1,10 @@
+---
+topic_id: 27682
+title: "Edit Segmentation Sequence"
+date: 2023-02-07
+url: https://discourse.slicer.org/t/27682
+---
+
 # Edit segmentation sequence
 
 **Topic ID**: 27682

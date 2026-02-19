@@ -1,3 +1,10 @@
+---
+topic_id: 5405
+title: "New Extension Release Geodesicslicer"
+date: 2019-01-17
+url: https://discourse.slicer.org/t/5405
+---
+
 # New extension release: GeodesicSlicer
 
 **Topic ID**: 5405

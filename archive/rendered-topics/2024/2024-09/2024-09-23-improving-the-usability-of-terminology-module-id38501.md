@@ -1,3 +1,10 @@
+---
+topic_id: 38501
+title: "Improving The Usability Of Terminology Module"
+date: 2024-09-23
+url: https://discourse.slicer.org/t/38501
+---
+
 # Improving the usability of terminology module
 
 **Topic ID**: 38501

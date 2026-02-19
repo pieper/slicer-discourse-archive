@@ -1,3 +1,10 @@
+---
+topic_id: 35954
+title: "Shapepopulationviewer Cannot Open Spharm Output"
+date: 2024-05-06
+url: https://discourse.slicer.org/t/35954
+---
+
 # ShapePopulationViewer cannot open spharm output
 
 **Topic ID**: 35954

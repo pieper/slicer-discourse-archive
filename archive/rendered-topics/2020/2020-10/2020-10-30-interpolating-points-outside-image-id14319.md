@@ -1,3 +1,10 @@
+---
+topic_id: 14319
+title: "Interpolating Points Outside Image"
+date: 2020-10-30
+url: https://discourse.slicer.org/t/14319
+---
+
 # Interpolating points outside image
 
 **Topic ID**: 14319

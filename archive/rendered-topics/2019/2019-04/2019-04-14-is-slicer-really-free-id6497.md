@@ -1,3 +1,10 @@
+---
+topic_id: 6497
+title: "Is Slicer Really Free"
+date: 2019-04-14
+url: https://discourse.slicer.org/t/6497
+---
+
 # Is slicer really free?
 
 **Topic ID**: 6497

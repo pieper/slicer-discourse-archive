@@ -1,3 +1,10 @@
+---
+topic_id: 44679
+title: "Im Beginner And I Want Help"
+date: 2025-10-06
+url: https://discourse.slicer.org/t/44679
+---
+
 # I'm Beginner and i want help
 
 **Topic ID**: 44679

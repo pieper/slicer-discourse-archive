@@ -1,3 +1,10 @@
+---
+topic_id: 30144
+title: "Applying The Centerline Extraction To A Batch Of Models"
+date: 2023-06-20
+url: https://discourse.slicer.org/t/30144
+---
+
 # Applying the centerline extraction to a batch of models
 
 **Topic ID**: 30144

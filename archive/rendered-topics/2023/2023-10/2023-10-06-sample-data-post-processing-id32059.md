@@ -1,3 +1,10 @@
+---
+topic_id: 32059
+title: "Sample Data Post Processing"
+date: 2023-10-06
+url: https://discourse.slicer.org/t/32059
+---
+
 # Sample data post-processing
 
 **Topic ID**: 32059

@@ -1,3 +1,10 @@
+---
+topic_id: 20388
+title: "Svd Modeltomodel Registration Idea"
+date: 2021-10-27
+url: https://discourse.slicer.org/t/20388
+---
+
 # SVD ModelToModel Registration Idea
 
 **Topic ID**: 20388

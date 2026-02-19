@@ -1,3 +1,10 @@
+---
+topic_id: 18903
+title: "How To Obtain Slicermorph"
+date: 2021-07-23
+url: https://discourse.slicer.org/t/18903
+---
+
 # How to obtain SlicerMorph?
 
 **Topic ID**: 18903

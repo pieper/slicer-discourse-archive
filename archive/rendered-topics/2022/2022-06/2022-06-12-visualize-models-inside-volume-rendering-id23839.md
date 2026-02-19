@@ -1,3 +1,10 @@
+---
+topic_id: 23839
+title: "Visualize Models Inside Volume Rendering"
+date: 2022-06-12
+url: https://discourse.slicer.org/t/23839
+---
+
 # Visualize models inside volume rendering?
 
 **Topic ID**: 23839

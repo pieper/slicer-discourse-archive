@@ -1,3 +1,10 @@
+---
+topic_id: 21092
+title: "How To Select An Entire Region From The Slice"
+date: 2021-12-16
+url: https://discourse.slicer.org/t/21092
+---
+
 # How to select an entire region from the slice
 
 **Topic ID**: 21092

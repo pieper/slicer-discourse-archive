@@ -1,3 +1,10 @@
+---
+topic_id: 13661
+title: "Install Pyradiomics Via Conda"
+date: 2020-09-23
+url: https://discourse.slicer.org/t/13661
+---
+
 # install pyradiomics via conda
 
 **Topic ID**: 13661

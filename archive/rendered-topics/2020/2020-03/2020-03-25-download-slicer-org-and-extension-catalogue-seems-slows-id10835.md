@@ -1,3 +1,10 @@
+---
+topic_id: 10835
+title: "Download Slicer Org And Extension Catalogue Seems Slows"
+date: 2020-03-25
+url: https://discourse.slicer.org/t/10835
+---
+
 # Download.slicer.org and extension catalogue seems slows
 
 **Topic ID**: 10835

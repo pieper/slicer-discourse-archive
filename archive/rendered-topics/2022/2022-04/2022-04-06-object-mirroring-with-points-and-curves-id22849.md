@@ -1,3 +1,10 @@
+---
+topic_id: 22849
+title: "Object Mirroring With Points And Curves"
+date: 2022-04-06
+url: https://discourse.slicer.org/t/22849
+---
+
 # Object mirroring with points and curves
 
 **Topic ID**: 22849

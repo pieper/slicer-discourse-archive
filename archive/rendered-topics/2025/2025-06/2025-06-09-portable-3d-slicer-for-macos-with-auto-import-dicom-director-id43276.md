@@ -1,3 +1,10 @@
+---
+topic_id: 43276
+title: "Portable 3D Slicer For Macos With Auto Import Dicom Director"
+date: 2025-06-09
+url: https://discourse.slicer.org/t/43276
+---
+
 # Portable 3D Slicer for macOS with Auto-Import DICOM Directory
 
 **Topic ID**: 43276

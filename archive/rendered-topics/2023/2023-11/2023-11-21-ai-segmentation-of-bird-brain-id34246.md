@@ -1,3 +1,10 @@
+---
+topic_id: 34246
+title: "Ai Segmentation Of Bird Brain"
+date: 2023-11-21
+url: https://discourse.slicer.org/t/34246
+---
+
 # AI segmentation of bird brain
 
 **Topic ID**: 34246

@@ -1,3 +1,10 @@
+---
+topic_id: 24633
+title: "Dvf As Numerical Data"
+date: 2022-08-04
+url: https://discourse.slicer.org/t/24633
+---
+
 # DVF as numerical data
 
 **Topic ID**: 24633

@@ -1,3 +1,10 @@
+---
+topic_id: 11535
+title: "Bug Screencapture Always Deletes Temp Files With Fix And Pul"
+date: 2020-05-14
+url: https://discourse.slicer.org/t/11535
+---
+
 # BUG - ScreenCapture always deletes temp files (with fix and pull request)
 
 **Topic ID**: 11535

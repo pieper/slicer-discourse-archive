@@ -1,3 +1,10 @@
+---
+topic_id: 4604
+title: "Generating 3D Segmentation From Mr Or Ct Images"
+date: 2018-10-31
+url: https://discourse.slicer.org/t/4604
+---
+
 # Generating 3D segmentation from MR or CT images
 
 **Topic ID**: 4604

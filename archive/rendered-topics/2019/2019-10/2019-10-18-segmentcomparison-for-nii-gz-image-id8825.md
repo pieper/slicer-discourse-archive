@@ -1,3 +1,10 @@
+---
+topic_id: 8825
+title: "Segmentcomparison For Nii Gz Image"
+date: 2019-10-18
+url: https://discourse.slicer.org/t/8825
+---
+
 # SegmentComparison for nii.gz image
 
 **Topic ID**: 8825

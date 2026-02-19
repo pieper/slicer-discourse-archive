@@ -1,3 +1,10 @@
+---
+topic_id: 12563
+title: "Viewing Side By Side"
+date: 2020-07-15
+url: https://discourse.slicer.org/t/12563
+---
+
 # Viewing Side by Side
 
 **Topic ID**: 12563

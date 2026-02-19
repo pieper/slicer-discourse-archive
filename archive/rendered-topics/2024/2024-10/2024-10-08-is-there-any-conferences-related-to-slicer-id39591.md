@@ -1,3 +1,10 @@
+---
+topic_id: 39591
+title: "Is There Any Conferences Related To Slicer"
+date: 2024-10-08
+url: https://discourse.slicer.org/t/39591
+---
+
 # Is there any conferences related to Slicer?
 
 **Topic ID**: 39591

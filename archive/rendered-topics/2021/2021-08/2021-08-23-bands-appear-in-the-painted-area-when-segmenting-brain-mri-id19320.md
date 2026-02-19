@@ -1,3 +1,10 @@
+---
+topic_id: 19320
+title: "Bands Appear In The Painted Area When Segmenting Brain Mri"
+date: 2021-08-23
+url: https://discourse.slicer.org/t/19320
+---
+
 # Bands appear in the painted area when segmenting brain MRI
 
 **Topic ID**: 19320

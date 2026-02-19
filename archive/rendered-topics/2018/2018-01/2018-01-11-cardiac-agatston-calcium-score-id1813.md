@@ -1,3 +1,10 @@
+---
+topic_id: 1813
+title: "Cardiac Agatston Calcium Score"
+date: 2018-01-11
+url: https://discourse.slicer.org/t/1813
+---
+
 # Cardiac Agatston calcium score
 
 **Topic ID**: 1813

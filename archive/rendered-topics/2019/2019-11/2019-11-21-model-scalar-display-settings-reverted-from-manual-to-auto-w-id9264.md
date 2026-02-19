@@ -1,3 +1,10 @@
+---
+topic_id: 9264
+title: "Model Scalar Display Settings Reverted From Manual To Auto W"
+date: 2019-11-21
+url: https://discourse.slicer.org/t/9264
+---
+
 # Model scalar display settings reverted from "manual" to "auto" when saving/loading scene
 
 **Topic ID**: 9264

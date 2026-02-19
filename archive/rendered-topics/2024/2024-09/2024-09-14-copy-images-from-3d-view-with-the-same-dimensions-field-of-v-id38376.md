@@ -1,3 +1,10 @@
+---
+topic_id: 38376
+title: "Copy Images From 3D View With The Same Dimensions Field Of V"
+date: 2024-09-14
+url: https://discourse.slicer.org/t/38376
+---
+
 # Copy images from 3D view with the same dimensions/field-of-views
 
 **Topic ID**: 38376

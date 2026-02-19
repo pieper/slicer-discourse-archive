@@ -1,3 +1,10 @@
+---
+topic_id: 6828
+title: "Incorrect Overlay Of Vti And Stl From The Same Dicom Series"
+date: 2019-05-17
+url: https://discourse.slicer.org/t/6828
+---
+
 # Incorrect overlay of vti and stl from the same dicom series
 
 **Topic ID**: 6828

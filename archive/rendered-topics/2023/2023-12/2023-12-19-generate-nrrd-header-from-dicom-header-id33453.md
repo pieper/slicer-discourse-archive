@@ -1,3 +1,10 @@
+---
+topic_id: 33453
+title: "Generate Nrrd Header From Dicom Header"
+date: 2023-12-19
+url: https://discourse.slicer.org/t/33453
+---
+
 # Generate NRRD header from DICOM header
 
 **Topic ID**: 33453

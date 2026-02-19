@@ -1,3 +1,10 @@
+---
+topic_id: 25946
+title: "Interaction Handles For A Model Node"
+date: 2022-10-28
+url: https://discourse.slicer.org/t/25946
+---
+
 # Interaction Handles for a Model Node
 
 **Topic ID**: 25946

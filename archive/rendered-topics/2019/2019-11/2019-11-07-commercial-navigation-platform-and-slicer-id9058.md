@@ -1,3 +1,10 @@
+---
+topic_id: 9058
+title: "Commercial Navigation Platform And Slicer"
+date: 2019-11-07
+url: https://discourse.slicer.org/t/9058
+---
+
 # Commercial navigation platform and slicer
 
 **Topic ID**: 9058

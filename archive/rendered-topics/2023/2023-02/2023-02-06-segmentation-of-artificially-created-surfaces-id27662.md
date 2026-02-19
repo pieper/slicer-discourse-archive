@@ -1,3 +1,10 @@
+---
+topic_id: 27662
+title: "Segmentation Of Artificially Created Surfaces"
+date: 2023-02-06
+url: https://discourse.slicer.org/t/27662
+---
+
 # Segmentation of artificially created surfaces
 
 **Topic ID**: 27662

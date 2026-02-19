@@ -1,3 +1,10 @@
+---
+topic_id: 45374
+title: "Split Multiframe Dicom To Series Dicom Code Problem"
+date: 2025-12-05
+url: https://discourse.slicer.org/t/45374
+---
+
 # Split multiframe dicom to series dicom code problem
 
 **Topic ID**: 45374

@@ -1,3 +1,10 @@
+---
+topic_id: 11215
+title: "Cannot Load Import Dicom Data"
+date: 2020-04-20
+url: https://discourse.slicer.org/t/11215
+---
+
 # Cannot load/import Dicom data
 
 **Topic ID**: 11215

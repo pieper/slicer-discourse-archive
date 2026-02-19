@@ -1,3 +1,10 @@
+---
+topic_id: 7736
+title: "Diffusion Mri Brain Extraction"
+date: 2019-07-24
+url: https://discourse.slicer.org/t/7736
+---
+
 # Diffusion MRI brain extraction
 
 **Topic ID**: 7736

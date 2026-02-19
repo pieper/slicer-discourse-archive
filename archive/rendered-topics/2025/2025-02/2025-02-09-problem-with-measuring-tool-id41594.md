@@ -1,3 +1,10 @@
+---
+topic_id: 41594
+title: "Problem With Measuring Tool"
+date: 2025-02-09
+url: https://discourse.slicer.org/t/41594
+---
+
 # Problem with measuring tool
 
 **Topic ID**: 41594

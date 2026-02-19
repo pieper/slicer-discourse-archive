@@ -1,3 +1,10 @@
+---
+topic_id: 17935
+title: "Scissors Effect For Models"
+date: 2021-06-03
+url: https://discourse.slicer.org/t/17935
+---
+
 # Scissors effect for models
 
 **Topic ID**: 17935

@@ -1,3 +1,10 @@
+---
+topic_id: 34842
+title: "Generate A 3D Model Point Cloud From Ct Scan Of Abdomen"
+date: 2024-03-12
+url: https://discourse.slicer.org/t/34842
+---
+
 # Generate a 3d model/point cloud from CT scan of abdomen
 
 **Topic ID**: 34842

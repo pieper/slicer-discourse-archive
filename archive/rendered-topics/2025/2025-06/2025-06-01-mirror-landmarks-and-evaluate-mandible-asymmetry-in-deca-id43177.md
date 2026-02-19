@@ -1,3 +1,10 @@
+---
+topic_id: 43177
+title: "Mirror Landmarks And Evaluate Mandible Asymmetry In Deca"
+date: 2025-06-01
+url: https://discourse.slicer.org/t/43177
+---
+
 # Mirror landmarks and evaluate mandible asymmetry in DeCA
 
 **Topic ID**: 43177

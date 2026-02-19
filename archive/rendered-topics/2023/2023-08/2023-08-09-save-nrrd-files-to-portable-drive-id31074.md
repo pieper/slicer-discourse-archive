@@ -1,3 +1,10 @@
+---
+topic_id: 31074
+title: "Save Nrrd Files To Portable Drive"
+date: 2023-08-09
+url: https://discourse.slicer.org/t/31074
+---
+
 # Save nrrd files to portable drive
 
 **Topic ID**: 31074

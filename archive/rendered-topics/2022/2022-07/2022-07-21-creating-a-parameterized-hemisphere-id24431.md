@@ -1,3 +1,10 @@
+---
+topic_id: 24431
+title: "Creating A Parameterized Hemisphere"
+date: 2022-07-21
+url: https://discourse.slicer.org/t/24431
+---
+
 # Creating a parameterized hemisphere
 
 **Topic ID**: 24431

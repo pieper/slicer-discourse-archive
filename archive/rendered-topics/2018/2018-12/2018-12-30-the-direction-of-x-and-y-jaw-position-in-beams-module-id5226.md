@@ -1,3 +1,10 @@
+---
+topic_id: 5226
+title: "The Direction Of X And Y Jaw Position In Beams Module"
+date: 2018-12-30
+url: https://discourse.slicer.org/t/5226
+---
+
 # The direction of x and y jaw position in Beams Module
 
 **Topic ID**: 5226

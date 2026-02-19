@@ -1,3 +1,10 @@
+---
+topic_id: 13449
+title: "Segmentation Alignment"
+date: 2020-09-11
+url: https://discourse.slicer.org/t/13449
+---
+
 # Segmentation Alignment
 
 **Topic ID**: 13449

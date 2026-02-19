@@ -1,3 +1,10 @@
+---
+topic_id: 31104
+title: "Info Behind Dicom Tag Decay Corrected 0018 9758"
+date: 2023-08-11
+url: https://discourse.slicer.org/t/31104
+---
+
 # Info behind Dicom tag - Decay Corrected(0018,9758)
 
 **Topic ID**: 31104

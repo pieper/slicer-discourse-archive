@@ -1,3 +1,10 @@
+---
+topic_id: 25014
+title: "Add Two Surfaces To Vtmkscripts Vmtksurfaceviewer"
+date: 2022-08-30
+url: https://discourse.slicer.org/t/25014
+---
+
 # Add two surfaces to vtmkscripts.vmtkSurfaceViewer
 
 **Topic ID**: 25014

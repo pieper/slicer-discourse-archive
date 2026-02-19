@@ -1,3 +1,10 @@
+---
+topic_id: 42500
+title: "Display The Shortest Surface To Surface Distance Using Pytho"
+date: 2025-04-09
+url: https://discourse.slicer.org/t/42500
+---
+
 # Display the shortest surface to surface distance using python
 
 **Topic ID**: 42500

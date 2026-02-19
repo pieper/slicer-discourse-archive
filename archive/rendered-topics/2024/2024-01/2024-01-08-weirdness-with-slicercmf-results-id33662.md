@@ -1,3 +1,10 @@
+---
+topic_id: 33662
+title: "Weirdness With Slicercmf Results"
+date: 2024-01-08
+url: https://discourse.slicer.org/t/33662
+---
+
 # Weirdness with SlicerCMF results
 
 **Topic ID**: 33662

@@ -1,3 +1,10 @@
+---
+topic_id: 26045
+title: "How To Disable Double Click When Placing Markups"
+date: 2022-11-03
+url: https://discourse.slicer.org/t/26045
+---
+
 # How to disable double click when placing markups
 
 **Topic ID**: 26045

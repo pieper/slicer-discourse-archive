@@ -1,3 +1,10 @@
+---
+topic_id: 37655
+title: "Unable To Build An Extension"
+date: 2024-08-01
+url: https://discourse.slicer.org/t/37655
+---
+
 # Unable to build an extension
 
 **Topic ID**: 37655

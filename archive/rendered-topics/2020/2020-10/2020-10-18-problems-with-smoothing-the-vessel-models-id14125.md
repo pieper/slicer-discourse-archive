@@ -1,3 +1,10 @@
+---
+topic_id: 14125
+title: "Problems With Smoothing The Vessel Models"
+date: 2020-10-18
+url: https://discourse.slicer.org/t/14125
+---
+
 # Problems with smoothing the vessel models
 
 **Topic ID**: 14125

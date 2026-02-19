@@ -1,3 +1,10 @@
+---
+topic_id: 28129
+title: "Edit The Ijk To Ras Matrix In 3D Slicer"
+date: 2023-03-01
+url: https://discourse.slicer.org/t/28129
+---
+
 # Edit the IJK to RAS Matrix in 3D Slicer
 
 **Topic ID**: 28129

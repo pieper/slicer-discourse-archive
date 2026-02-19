@@ -1,3 +1,10 @@
+---
+topic_id: 1245
+title: "Cannot Adjust Data Hierarchy In Datamodule"
+date: 2017-10-19
+url: https://discourse.slicer.org/t/1245
+---
+
 # Cannot adjust data hierarchy in DataModule
 
 **Topic ID**: 1245

@@ -1,3 +1,10 @@
+---
+topic_id: 30883
+title: "Multi Direction Rotation Lock"
+date: 2023-07-31
+url: https://discourse.slicer.org/t/30883
+---
+
 # Multi direction rotation lock
 
 **Topic ID**: 30883

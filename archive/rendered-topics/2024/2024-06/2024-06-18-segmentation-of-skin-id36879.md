@@ -1,3 +1,10 @@
+---
+topic_id: 36879
+title: "Segmentation Of Skin"
+date: 2024-06-18
+url: https://discourse.slicer.org/t/36879
+---
+
 # Segmentation of skin
 
 **Topic ID**: 36879

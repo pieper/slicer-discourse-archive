@@ -1,3 +1,10 @@
+---
+topic_id: 987
+title: "Exporting A Dti Object As A 3D File"
+date: 2017-09-01
+url: https://discourse.slicer.org/t/987
+---
+
 # Exporting a DTI object as a 3D File
 
 **Topic ID**: 987

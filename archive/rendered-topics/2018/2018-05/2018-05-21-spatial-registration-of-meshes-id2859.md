@@ -1,3 +1,10 @@
+---
+topic_id: 2859
+title: "Spatial Registration Of Meshes"
+date: 2018-05-21
+url: https://discourse.slicer.org/t/2859
+---
+
 # Spatial registration of meshes
 
 **Topic ID**: 2859

@@ -1,3 +1,10 @@
+---
+topic_id: 27897
+title: "Load Noad From File"
+date: 2023-02-18
+url: https://discourse.slicer.org/t/27897
+---
+
 # load noad from file
 
 **Topic ID**: 27897

@@ -1,3 +1,10 @@
+---
+topic_id: 33236
+title: "Drawing 3D Objects"
+date: 2023-12-05
+url: https://discourse.slicer.org/t/33236
+---
+
 # Drawing 3D objects
 
 **Topic ID**: 33236

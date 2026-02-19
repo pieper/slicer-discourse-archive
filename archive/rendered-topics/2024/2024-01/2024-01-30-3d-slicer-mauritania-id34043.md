@@ -1,3 +1,10 @@
+---
+topic_id: 34043
+title: "3D Slicer Mauritania"
+date: 2024-01-30
+url: https://discourse.slicer.org/t/34043
+---
+
 # 3D Slicer Mauritania
 
 **Topic ID**: 34043

@@ -1,3 +1,10 @@
+---
+topic_id: 36196
+title: "Problems With Segmentation Of Bone Muscle And Fat"
+date: 2024-05-16
+url: https://discourse.slicer.org/t/36196
+---
+
 # Problems with segmentation of bone, muscle and fat 
 
 **Topic ID**: 36196

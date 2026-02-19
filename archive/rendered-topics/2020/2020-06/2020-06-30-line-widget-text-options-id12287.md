@@ -1,3 +1,10 @@
+---
+topic_id: 12287
+title: "Line Widget Text Options"
+date: 2020-06-30
+url: https://discourse.slicer.org/t/12287
+---
+
 # Line widget text options
 
 **Topic ID**: 12287

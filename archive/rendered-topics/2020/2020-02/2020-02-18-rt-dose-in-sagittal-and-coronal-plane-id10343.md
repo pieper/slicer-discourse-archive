@@ -1,3 +1,10 @@
+---
+topic_id: 10343
+title: "Rt Dose In Sagittal And Coronal Plane"
+date: 2020-02-18
+url: https://discourse.slicer.org/t/10343
+---
+
 # Rt dose in Sagittal and Coronal plane
 
 **Topic ID**: 10343

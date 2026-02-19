@@ -1,3 +1,10 @@
+---
+topic_id: 20130
+title: "Ctk And Slicer Warnings While Building Slicercustomapp Templ"
+date: 2021-10-13
+url: https://discourse.slicer.org/t/20130
+---
+
 # CTK and SLICER Warnings while building SlicerCustomApp Templete, then after it its creating error after modification
 
 **Topic ID**: 20130

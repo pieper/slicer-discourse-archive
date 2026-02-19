@@ -1,3 +1,10 @@
+---
+topic_id: 14593
+title: "4 11 And 4 10 Show Differences On Loaded Stl Model And Fiduc"
+date: 2020-11-14
+url: https://discourse.slicer.org/t/14593
+---
+
 # 4.11 and 4.10 show differences on loaded STL model and fiducial
 
 **Topic ID**: 14593

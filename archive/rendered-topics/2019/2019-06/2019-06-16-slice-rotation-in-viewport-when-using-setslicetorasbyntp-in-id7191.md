@@ -1,3 +1,10 @@
+---
+topic_id: 7191
+title: "Slice Rotation In Viewport When Using Setslicetorasbyntp In"
+date: 2019-06-16
+url: https://discourse.slicer.org/t/7191
+---
+
 # Slice rotation in viewport when using SetSliceToRASByNTP in python
 
 **Topic ID**: 7191

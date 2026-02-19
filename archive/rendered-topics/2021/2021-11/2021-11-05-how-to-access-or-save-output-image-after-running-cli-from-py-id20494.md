@@ -1,3 +1,10 @@
+---
+topic_id: 20494
+title: "How To Access Or Save Output Image After Running Cli From Py"
+date: 2021-11-05
+url: https://discourse.slicer.org/t/20494
+---
+
 # How to access or save output image after running CLI from Python
 
 **Topic ID**: 20494

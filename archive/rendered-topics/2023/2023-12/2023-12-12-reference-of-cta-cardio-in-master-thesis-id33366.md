@@ -1,3 +1,10 @@
+---
+topic_id: 33366
+title: "Reference Of Cta Cardio In Master Thesis"
+date: 2023-12-12
+url: https://discourse.slicer.org/t/33366
+---
+
 # Reference of CTA cardio in master thesis 
 
 **Topic ID**: 33366

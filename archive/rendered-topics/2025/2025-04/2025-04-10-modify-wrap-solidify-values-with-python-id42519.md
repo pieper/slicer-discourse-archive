@@ -1,3 +1,10 @@
+---
+topic_id: 42519
+title: "Modify Wrap Solidify Values With Python"
+date: 2025-04-10
+url: https://discourse.slicer.org/t/42519
+---
+
 # Modify Wrap Solidify values with Python
 
 **Topic ID**: 42519

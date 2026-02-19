@@ -1,3 +1,10 @@
+---
+topic_id: 1063
+title: "Slicers Python Module Picks Up System Numpy"
+date: 2017-09-15
+url: https://discourse.slicer.org/t/1063
+---
+
 # Slicer's Python module picks up system numpy
 
 **Topic ID**: 1063

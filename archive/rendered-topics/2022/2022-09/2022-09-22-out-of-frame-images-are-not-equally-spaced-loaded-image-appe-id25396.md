@@ -1,3 +1,10 @@
+---
+topic_id: 25396
+title: "Out Of Frame Images Are Not Equally Spaced Loaded Image Appe"
+date: 2022-09-22
+url: https://discourse.slicer.org/t/25396
+---
+
 # Out of frame, Images are not equally spaced, loaded image appears distorted
 
 **Topic ID**: 25396

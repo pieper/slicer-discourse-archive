@@ -1,3 +1,10 @@
+---
+topic_id: 13932
+title: "Test Errors In Cdash"
+date: 2020-10-08
+url: https://discourse.slicer.org/t/13932
+---
+
 # Test errors in CDash
 
 **Topic ID**: 13932

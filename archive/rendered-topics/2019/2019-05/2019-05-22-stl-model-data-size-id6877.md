@@ -1,3 +1,10 @@
+---
+topic_id: 6877
+title: "Stl Model Data Size"
+date: 2019-05-22
+url: https://discourse.slicer.org/t/6877
+---
+
 # STL Model Data size
 
 **Topic ID**: 6877

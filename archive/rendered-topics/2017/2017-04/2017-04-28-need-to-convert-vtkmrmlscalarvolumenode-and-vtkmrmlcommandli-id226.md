@@ -1,3 +1,10 @@
+---
+topic_id: 226
+title: "Need To Convert Vtkmrmlscalarvolumenode And Vtkmrmlcommandli"
+date: 2017-04-28
+url: https://discourse.slicer.org/t/226
+---
+
 # Need to convert vtkMRMLScalarVolumeNode and vtkMRMLCommandLineVolumeNode to Numpy Array
 
 **Topic ID**: 226

@@ -1,3 +1,10 @@
+---
+topic_id: 34172
+title: "Hausdorff And Dice Calculation Principle"
+date: 2024-02-06
+url: https://discourse.slicer.org/t/34172
+---
+
 # Hausdorff and Dice calculation principle
 
 **Topic ID**: 34172

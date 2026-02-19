@@ -1,3 +1,10 @@
+---
+topic_id: 14664
+title: "Textnode Changes Not Saved With Scene"
+date: 2020-11-17
+url: https://discourse.slicer.org/t/14664
+---
+
 # TextNode changes not saved with scene
 
 **Topic ID**: 14664

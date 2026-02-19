@@ -1,3 +1,10 @@
+---
+topic_id: 11475
+title: "Using Open3D Within Slicer"
+date: 2020-05-09
+url: https://discourse.slicer.org/t/11475
+---
+
 # Using open3d within Slicer
 
 **Topic ID**: 11475

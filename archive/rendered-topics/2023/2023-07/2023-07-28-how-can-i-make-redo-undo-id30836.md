@@ -1,3 +1,10 @@
+---
+topic_id: 30836
+title: "How Can I Make Redo Undo"
+date: 2023-07-28
+url: https://discourse.slicer.org/t/30836
+---
+
 # How can i make 'redo' & 'undo'?
 
 **Topic ID**: 30836

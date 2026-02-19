@@ -1,3 +1,10 @@
+---
+topic_id: 1129
+title: "Building From Source On Ubuntu 16 04 Openssl"
+date: 2017-09-26
+url: https://discourse.slicer.org/t/1129
+---
+
 # Building From Source on Ubuntu 16.04 - OpenSSL
 
 **Topic ID**: 1129

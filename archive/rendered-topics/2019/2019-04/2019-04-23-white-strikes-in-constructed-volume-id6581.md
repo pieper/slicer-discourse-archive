@@ -1,3 +1,10 @@
+---
+topic_id: 6581
+title: "White Strikes In Constructed Volume"
+date: 2019-04-23
+url: https://discourse.slicer.org/t/6581
+---
+
 # White strikes in constructed volume
 
 **Topic ID**: 6581

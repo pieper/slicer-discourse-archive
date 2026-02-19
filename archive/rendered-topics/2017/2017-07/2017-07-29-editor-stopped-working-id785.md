@@ -1,3 +1,10 @@
+---
+topic_id: 785
+title: "Editor Stopped Working"
+date: 2017-07-29
+url: https://discourse.slicer.org/t/785
+---
+
 # Editor stopped working
 
 **Topic ID**: 785

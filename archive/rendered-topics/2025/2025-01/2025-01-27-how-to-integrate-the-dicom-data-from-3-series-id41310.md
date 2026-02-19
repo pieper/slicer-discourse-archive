@@ -1,3 +1,10 @@
+---
+topic_id: 41310
+title: "How To Integrate The Dicom Data From 3 Series"
+date: 2025-01-27
+url: https://discourse.slicer.org/t/41310
+---
+
 # How to integrate the dicom data from 3 series
 
 **Topic ID**: 41310

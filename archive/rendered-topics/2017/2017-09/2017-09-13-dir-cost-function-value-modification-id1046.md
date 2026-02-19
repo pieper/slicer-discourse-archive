@@ -1,3 +1,10 @@
+---
+topic_id: 1046
+title: "Dir Cost Function Value Modification"
+date: 2017-09-13
+url: https://discourse.slicer.org/t/1046
+---
+
 # DIR: Cost function value modification
 
 **Topic ID**: 1046

@@ -1,3 +1,10 @@
+---
+topic_id: 38405
+title: "Totalsegmentator Failed To Install Required Packages"
+date: 2024-09-17
+url: https://discourse.slicer.org/t/38405
+---
+
 # TotalSegmentator: Failed to install required packages 
 
 **Topic ID**: 38405

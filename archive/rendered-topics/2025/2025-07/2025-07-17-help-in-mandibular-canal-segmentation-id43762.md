@@ -1,3 +1,10 @@
+---
+topic_id: 43762
+title: "Help In Mandibular Canal Segmentation"
+date: 2025-07-17
+url: https://discourse.slicer.org/t/43762
+---
+
 # Help in Mandibular Canal Segmentation 
 
 **Topic ID**: 43762

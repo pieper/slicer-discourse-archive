@@ -1,3 +1,10 @@
+---
+topic_id: 18256
+title: "Markupstomodel Can It Strictly Follow The Placed Points"
+date: 2021-06-21
+url: https://discourse.slicer.org/t/18256
+---
+
 # MarkupsToModel : can it strictly follow the placed points?
 
 **Topic ID**: 18256

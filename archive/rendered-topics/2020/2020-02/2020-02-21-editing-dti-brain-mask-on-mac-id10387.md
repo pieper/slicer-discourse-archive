@@ -1,3 +1,10 @@
+---
+topic_id: 10387
+title: "Editing Dti Brain Mask On Mac"
+date: 2020-02-21
+url: https://discourse.slicer.org/t/10387
+---
+
 # Editing DTI brain mask on Mac
 
 **Topic ID**: 10387

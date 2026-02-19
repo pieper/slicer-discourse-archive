@@ -1,3 +1,10 @@
+---
+topic_id: 16517
+title: "Issue With Mask Exported From Slicer"
+date: 2021-03-12
+url: https://discourse.slicer.org/t/16517
+---
+
 # Issue with mask exported from Slicer 
 
 **Topic ID**: 16517

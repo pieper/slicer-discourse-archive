@@ -1,3 +1,10 @@
+---
+topic_id: 31718
+title: "Looking For Private Tutor"
+date: 2023-09-14
+url: https://discourse.slicer.org/t/31718
+---
+
 # Looking for private tutor
 
 **Topic ID**: 31718

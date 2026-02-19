@@ -1,3 +1,10 @@
+---
+topic_id: 228
+title: "Need To Update Extensions That Other Extensions May Depend O"
+date: 2017-04-29
+url: https://discourse.slicer.org/t/228
+---
+
 # Need to update extensions that other extensions may depend on
 
 **Topic ID**: 228

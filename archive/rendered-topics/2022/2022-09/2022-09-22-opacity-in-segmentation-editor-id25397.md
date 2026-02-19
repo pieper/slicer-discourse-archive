@@ -1,3 +1,10 @@
+---
+topic_id: 25397
+title: "Opacity In Segmentation Editor"
+date: 2022-09-22
+url: https://discourse.slicer.org/t/25397
+---
+
 # opacity in segmentation editor
 
 **Topic ID**: 25397

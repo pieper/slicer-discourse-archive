@@ -1,3 +1,10 @@
+---
+topic_id: 23114
+title: "Build Process Failed With Errors"
+date: 2022-04-25
+url: https://discourse.slicer.org/t/23114
+---
+
 # Build process failed with errors
 
 **Topic ID**: 23114

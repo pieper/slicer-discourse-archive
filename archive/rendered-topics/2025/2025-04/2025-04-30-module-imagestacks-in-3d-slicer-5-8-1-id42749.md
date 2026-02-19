@@ -1,3 +1,10 @@
+---
+topic_id: 42749
+title: "Module Imagestacks In 3D Slicer 5 8 1"
+date: 2025-04-30
+url: https://discourse.slicer.org/t/42749
+---
+
 # Module ImageStacks in 3D Slicer 5.8.1
 
 **Topic ID**: 42749

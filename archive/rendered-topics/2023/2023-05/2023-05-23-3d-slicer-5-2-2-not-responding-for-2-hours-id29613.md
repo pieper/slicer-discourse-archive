@@ -1,3 +1,10 @@
+---
+topic_id: 29613
+title: "3D Slicer 5 2 2 Not Responding For 2 Hours"
+date: 2023-05-23
+url: https://discourse.slicer.org/t/29613
+---
+
 # 3D Slicer 5.2.2 not responding for 2 hours
 
 **Topic ID**: 29613

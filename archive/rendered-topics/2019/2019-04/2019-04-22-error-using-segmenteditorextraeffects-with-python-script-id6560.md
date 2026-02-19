@@ -1,3 +1,10 @@
+---
+topic_id: 6560
+title: "Error Using Segmenteditorextraeffects With Python Script"
+date: 2019-04-22
+url: https://discourse.slicer.org/t/6560
+---
+
 # Error using SegmentEditorExtraEffects with Python script
 
 **Topic ID**: 6560

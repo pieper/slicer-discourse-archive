@@ -1,3 +1,10 @@
+---
+topic_id: 4671
+title: "Data Probe Auto Resize Issue"
+date: 2018-11-07
+url: https://discourse.slicer.org/t/4671
+---
+
 # Data probe auto-resize issue
 
 **Topic ID**: 4671

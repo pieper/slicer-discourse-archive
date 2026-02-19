@@ -1,3 +1,10 @@
+---
+topic_id: 10546
+title: "Geodesicslicer Extension Published"
+date: 2020-03-04
+url: https://discourse.slicer.org/t/10546
+---
+
 # GeodesicSlicer extension published
 
 **Topic ID**: 10546

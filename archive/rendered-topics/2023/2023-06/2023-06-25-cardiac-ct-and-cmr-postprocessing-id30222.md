@@ -1,3 +1,10 @@
+---
+topic_id: 30222
+title: "Cardiac Ct And Cmr Postprocessing"
+date: 2023-06-25
+url: https://discourse.slicer.org/t/30222
+---
+
 # Cardiac CT and CMR postprocessing
 
 **Topic ID**: 30222

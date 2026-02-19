@@ -1,3 +1,10 @@
+---
+topic_id: 26750
+title: "Scaling Radiographs"
+date: 2022-12-15
+url: https://discourse.slicer.org/t/26750
+---
+
 # Scaling radiographs
 
 **Topic ID**: 26750

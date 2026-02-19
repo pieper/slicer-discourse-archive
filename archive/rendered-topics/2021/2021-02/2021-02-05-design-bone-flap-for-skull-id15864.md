@@ -1,3 +1,10 @@
+---
+topic_id: 15864
+title: "Design Bone Flap For Skull"
+date: 2021-02-05
+url: https://discourse.slicer.org/t/15864
+---
+
 # Design bone flap for skull
 
 **Topic ID**: 15864

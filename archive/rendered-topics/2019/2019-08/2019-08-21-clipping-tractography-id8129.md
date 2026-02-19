@@ -1,3 +1,10 @@
+---
+topic_id: 8129
+title: "Clipping Tractography"
+date: 2019-08-21
+url: https://discourse.slicer.org/t/8129
+---
+
 # Clipping Tractography
 
 **Topic ID**: 8129

@@ -1,3 +1,10 @@
+---
+topic_id: 12085
+title: "How Via Python Scripts To Hide The Image Name"
+date: 2020-06-18
+url: https://discourse.slicer.org/t/12085
+---
+
 # How, via python scripts, to hide the image name?
 
 **Topic ID**: 12085

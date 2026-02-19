@@ -1,3 +1,10 @@
+---
+topic_id: 14730
+title: "Prevent Occlusion Of Model Inside Volume Rendered Image"
+date: 2020-11-22
+url: https://discourse.slicer.org/t/14730
+---
+
 # Prevent occlusion of model inside volume rendered image
 
 **Topic ID**: 14730

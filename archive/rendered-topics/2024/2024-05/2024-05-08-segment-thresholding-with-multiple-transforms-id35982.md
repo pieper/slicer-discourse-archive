@@ -1,3 +1,10 @@
+---
+topic_id: 35982
+title: "Segment Thresholding With Multiple Transforms"
+date: 2024-05-08
+url: https://discourse.slicer.org/t/35982
+---
+
 # Segment thresholding with multiple transforms
 
 **Topic ID**: 35982

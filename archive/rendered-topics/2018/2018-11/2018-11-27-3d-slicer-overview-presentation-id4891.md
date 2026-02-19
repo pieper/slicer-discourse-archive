@@ -1,3 +1,10 @@
+---
+topic_id: 4891
+title: "3D Slicer Overview Presentation"
+date: 2018-11-27
+url: https://discourse.slicer.org/t/4891
+---
+
 # 3D Slicer Overview Presentation
 
 **Topic ID**: 4891

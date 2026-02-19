@@ -1,3 +1,10 @@
+---
+topic_id: 43546
+title: "Chunky Results From Wrapsolidify"
+date: 2025-06-30
+url: https://discourse.slicer.org/t/43546
+---
+
 # Chunky results from WrapSolidify
 
 **Topic ID**: 43546

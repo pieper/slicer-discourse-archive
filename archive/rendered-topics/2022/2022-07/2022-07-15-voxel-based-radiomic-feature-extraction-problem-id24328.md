@@ -1,3 +1,10 @@
+---
+topic_id: 24328
+title: "Voxel Based Radiomic Feature Extraction Problem"
+date: 2022-07-15
+url: https://discourse.slicer.org/t/24328
+---
+
 # Voxel-based radiomic feature extraction problem
 
 **Topic ID**: 24328

@@ -1,3 +1,10 @@
+---
+topic_id: 21078
+title: "How To Show Hide Volume Node From Python Script"
+date: 2021-12-15
+url: https://discourse.slicer.org/t/21078
+---
+
 # How to show/hide volume node from python script
 
 **Topic ID**: 21078

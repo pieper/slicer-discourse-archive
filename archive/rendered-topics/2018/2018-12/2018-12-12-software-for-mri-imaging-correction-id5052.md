@@ -1,3 +1,10 @@
+---
+topic_id: 5052
+title: "Software For Mri Imaging Correction"
+date: 2018-12-12
+url: https://discourse.slicer.org/t/5052
+---
+
 # Software for mri imaging correction!
 
 **Topic ID**: 5052

@@ -1,3 +1,10 @@
+---
+topic_id: 13446
+title: "How To Get Boundary Coordinate Of The Markup Plane In Ijk"
+date: 2020-09-11
+url: https://discourse.slicer.org/t/13446
+---
+
 # How to get boundary coordinate of the markup plane in IJK
 
 **Topic ID**: 13446

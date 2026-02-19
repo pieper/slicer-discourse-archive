@@ -1,3 +1,10 @@
+---
+topic_id: 35137
+title: "Request For Guidance On Accessing Heart Automated Segmentati"
+date: 2024-03-27
+url: https://discourse.slicer.org/t/35137
+---
+
 # Request for Guidance on Accessing Heart Automated Segmentation Tool License
 
 **Topic ID**: 35137

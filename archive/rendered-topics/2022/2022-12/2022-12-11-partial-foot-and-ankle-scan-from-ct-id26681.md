@@ -1,3 +1,10 @@
+---
+topic_id: 26681
+title: "Partial Foot And Ankle Scan From Ct"
+date: 2022-12-11
+url: https://discourse.slicer.org/t/26681
+---
+
 # Partial Foot and Ankle scan from CT
 
 **Topic ID**: 26681

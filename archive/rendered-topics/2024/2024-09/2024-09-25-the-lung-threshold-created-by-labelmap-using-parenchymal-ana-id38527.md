@@ -1,3 +1,10 @@
+---
+topic_id: 38527
+title: "The Lung Threshold Created By Labelmap Using Parenchymal Ana"
+date: 2024-09-25
+url: https://discourse.slicer.org/t/38527
+---
+
 # The lung threshold created by labelmap using parenchymal analysis
 
 **Topic ID**: 38527

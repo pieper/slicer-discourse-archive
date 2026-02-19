@@ -1,3 +1,10 @@
+---
+topic_id: 29833
+title: "How To Remove Staircase Artifacts In Modelnode Like Mimics F"
+date: 2023-06-05
+url: https://discourse.slicer.org/t/29833
+---
+
 # How to remove staircase artifacts in ModelNode like mimics fill hole mode?
 
 **Topic ID**: 29833

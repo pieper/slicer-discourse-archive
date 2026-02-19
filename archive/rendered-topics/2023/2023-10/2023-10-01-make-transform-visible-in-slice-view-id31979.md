@@ -1,3 +1,10 @@
+---
+topic_id: 31979
+title: "Make Transform Visible In Slice View"
+date: 2023-10-01
+url: https://discourse.slicer.org/t/31979
+---
+
 # Make transform visible in slice view
 
 **Topic ID**: 31979

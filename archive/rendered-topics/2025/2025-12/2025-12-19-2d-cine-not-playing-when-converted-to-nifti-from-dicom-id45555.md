@@ -1,3 +1,10 @@
+---
+topic_id: 45555
+title: "2D Cine Not Playing When Converted To Nifti From Dicom"
+date: 2025-12-19
+url: https://discourse.slicer.org/t/45555
+---
+
 # 2D cine not playing when converted to nifti from dicom
 
 **Topic ID**: 45555

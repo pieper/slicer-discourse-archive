@@ -1,3 +1,10 @@
+---
+topic_id: 26586
+title: "Mac Stable 5 2 1 Reports A Crash Everytime It Is Closed"
+date: 2022-12-05
+url: https://discourse.slicer.org/t/26586
+---
+
 # Mac Stable (5.2.1.) reports a crash everytime it is closed
 
 **Topic ID**: 26586

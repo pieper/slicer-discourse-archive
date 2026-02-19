@@ -1,3 +1,10 @@
+---
+topic_id: 29178
+title: "Shift Scale Image Filter"
+date: 2023-04-27
+url: https://discourse.slicer.org/t/29178
+---
+
 # Shift scale image filter
 
 **Topic ID**: 29178

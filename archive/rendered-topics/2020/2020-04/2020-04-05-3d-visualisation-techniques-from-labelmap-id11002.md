@@ -1,3 +1,10 @@
+---
+topic_id: 11002
+title: "3D Visualisation Techniques From Labelmap"
+date: 2020-04-05
+url: https://discourse.slicer.org/t/11002
+---
+
 # 3D visualisation techniques from labelMap
 
 **Topic ID**: 11002

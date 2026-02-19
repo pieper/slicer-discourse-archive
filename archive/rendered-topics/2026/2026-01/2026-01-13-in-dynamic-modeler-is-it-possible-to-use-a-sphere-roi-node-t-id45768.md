@@ -1,3 +1,10 @@
+---
+topic_id: 45768
+title: "In Dynamic Modeler Is It Possible To Use A Sphere Roi Node T"
+date: 2026-01-13
+url: https://discourse.slicer.org/t/45768
+---
+
 # In Dynamic Modeler, is it possible to use a sphere ROI node to perform ROI cut?
 
 **Topic ID**: 45768

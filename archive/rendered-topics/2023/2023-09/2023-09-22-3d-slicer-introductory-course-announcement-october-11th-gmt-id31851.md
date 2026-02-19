@@ -1,3 +1,10 @@
+---
+topic_id: 31851
+title: "3D Slicer Introductory Course Announcement October 11Th Gmt"
+date: 2023-09-22
+url: https://discourse.slicer.org/t/31851
+---
+
 # 3D Slicer Introductory Course Announcement: October 11th GMT+1h
 
 **Topic ID**: 31851

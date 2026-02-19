@@ -1,3 +1,10 @@
+---
+topic_id: 21676
+title: "Errors With Building Slicercat Template"
+date: 2022-01-28
+url: https://discourse.slicer.org/t/21676
+---
+
 # Errors with building slicercat template
 
 **Topic ID**: 21676

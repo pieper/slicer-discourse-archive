@@ -1,3 +1,10 @@
+---
+topic_id: 5090
+title: "Accessing Segmentation Layer Visibility By View"
+date: 2018-12-16
+url: https://discourse.slicer.org/t/5090
+---
+
 # Accessing Segmentation Layer Visibility By View
 
 **Topic ID**: 5090

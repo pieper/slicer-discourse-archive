@@ -1,3 +1,10 @@
+---
+topic_id: 31256
+title: "How To Export Segments As One Object With Colors"
+date: 2023-08-21
+url: https://discourse.slicer.org/t/31256
+---
+
 # How to export segments as one object with colors
 
 **Topic ID**: 31256

@@ -1,3 +1,10 @@
+---
+topic_id: 2922
+title: "Modifying Surface Model"
+date: 2018-05-24
+url: https://discourse.slicer.org/t/2922
+---
+
 # Modifying Surface Model
 
 **Topic ID**: 2922

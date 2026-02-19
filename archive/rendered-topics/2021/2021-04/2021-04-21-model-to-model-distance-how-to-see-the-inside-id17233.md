@@ -1,3 +1,10 @@
+---
+topic_id: 17233
+title: "Model To Model Distance How To See The Inside"
+date: 2021-04-21
+url: https://discourse.slicer.org/t/17233
+---
+
 # Model-to-Model Distance - How to see the Inside
 
 **Topic ID**: 17233

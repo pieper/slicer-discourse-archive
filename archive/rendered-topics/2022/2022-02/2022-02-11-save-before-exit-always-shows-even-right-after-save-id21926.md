@@ -1,3 +1,10 @@
+---
+topic_id: 21926
+title: "Save Before Exit Always Shows Even Right After Save"
+date: 2022-02-11
+url: https://discourse.slicer.org/t/21926
+---
+
 # "Save before exit?" always shows, even right after save
 
 **Topic ID**: 21926

@@ -1,3 +1,10 @@
+---
+topic_id: 15826
+title: "Show 3D Only Meshing Outside Of Roi"
+date: 2021-02-04
+url: https://discourse.slicer.org/t/15826
+---
+
 # "Show 3D" only meshing outside of ROI
 
 **Topic ID**: 15826

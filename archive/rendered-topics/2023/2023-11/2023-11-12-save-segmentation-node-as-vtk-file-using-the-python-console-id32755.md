@@ -1,3 +1,10 @@
+---
+topic_id: 32755
+title: "Save Segmentation Node As Vtk File Using The Python Console"
+date: 2023-11-12
+url: https://discourse.slicer.org/t/32755
+---
+
 # Save Segmentation Node as VTK file using the Python Console
 
 **Topic ID**: 32755

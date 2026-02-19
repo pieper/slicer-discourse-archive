@@ -1,3 +1,10 @@
+---
+topic_id: 5827
+title: "Make Automatic Seedpoints"
+date: 2019-02-19
+url: https://discourse.slicer.org/t/5827
+---
+
 # Make automatic Seedpoints
 
 **Topic ID**: 5827

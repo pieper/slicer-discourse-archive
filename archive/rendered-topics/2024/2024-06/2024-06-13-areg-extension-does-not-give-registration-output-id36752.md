@@ -1,3 +1,10 @@
+---
+topic_id: 36752
+title: "Areg Extension Does Not Give Registration Output"
+date: 2024-06-13
+url: https://discourse.slicer.org/t/36752
+---
+
 # AReg extension does not give registration output
 
 **Topic ID**: 36752

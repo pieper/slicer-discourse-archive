@@ -1,3 +1,10 @@
+---
+topic_id: 22776
+title: "Separate Segmentation"
+date: 2022-03-31
+url: https://discourse.slicer.org/t/22776
+---
+
 # Separate Segmentation
 
 **Topic ID**: 22776

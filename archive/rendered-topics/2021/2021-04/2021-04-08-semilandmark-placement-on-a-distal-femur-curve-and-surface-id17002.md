@@ -1,3 +1,10 @@
+---
+topic_id: 17002
+title: "Semilandmark Placement On A Distal Femur Curve And Surface"
+date: 2021-04-08
+url: https://discourse.slicer.org/t/17002
+---
+
 # Semilandmark placement on a distal femur (curve and surface)
 
 **Topic ID**: 17002

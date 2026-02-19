@@ -1,3 +1,10 @@
+---
+topic_id: 5525
+title: "Sivic Slicer Plugin For Siemens Mrsi"
+date: 2019-01-26
+url: https://discourse.slicer.org/t/5525
+---
+
 # SIVIC Slicer plugin for Siemens MRSI
 
 **Topic ID**: 5525

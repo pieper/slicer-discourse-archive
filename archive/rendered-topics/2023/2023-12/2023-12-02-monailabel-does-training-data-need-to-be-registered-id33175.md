@@ -1,3 +1,10 @@
+---
+topic_id: 33175
+title: "Monailabel Does Training Data Need To Be Registered"
+date: 2023-12-02
+url: https://discourse.slicer.org/t/33175
+---
+
 # MonaiLabel-does training data need to be registered?
 
 **Topic ID**: 33175

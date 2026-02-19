@@ -1,3 +1,10 @@
+---
+topic_id: 3262
+title: "What Library Is Being Used To Import Dicom"
+date: 2018-06-21
+url: https://discourse.slicer.org/t/3262
+---
+
 # What library is being used to import dicom?
 
 **Topic ID**: 3262

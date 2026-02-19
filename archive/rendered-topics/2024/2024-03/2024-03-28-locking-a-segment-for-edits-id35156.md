@@ -1,3 +1,10 @@
+---
+topic_id: 35156
+title: "Locking A Segment For Edits"
+date: 2024-03-28
+url: https://discourse.slicer.org/t/35156
+---
+
 # Locking a segment for edits
 
 **Topic ID**: 35156

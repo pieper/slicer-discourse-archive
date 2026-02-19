@@ -1,3 +1,10 @@
+---
+topic_id: 12606
+title: "Dicom Loading Planes Problems"
+date: 2020-07-17
+url: https://discourse.slicer.org/t/12606
+---
+
 # DICOM Loading Planes Problems 
 
 **Topic ID**: 12606

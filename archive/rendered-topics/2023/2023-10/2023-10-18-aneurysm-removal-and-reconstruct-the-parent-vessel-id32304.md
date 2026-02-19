@@ -1,3 +1,10 @@
+---
+topic_id: 32304
+title: "Aneurysm Removal And Reconstruct The Parent Vessel"
+date: 2023-10-18
+url: https://discourse.slicer.org/t/32304
+---
+
 # aneurysm removal and reconstruct the parent vessel
 
 **Topic ID**: 32304

@@ -1,3 +1,10 @@
+---
+topic_id: 2003
+title: "Labelmap At Wrong Position After Saving If Loaded With Cente"
+date: 2018-02-01
+url: https://discourse.slicer.org/t/2003
+---
+
 # Labelmap at wrong position after saving if loaded with Centered option
 
 **Topic ID**: 2003

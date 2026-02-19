@@ -1,3 +1,10 @@
+---
+topic_id: 789
+title: "Capturing Mouse Input"
+date: 2017-07-31
+url: https://discourse.slicer.org/t/789
+---
+
 # Capturing Mouse Input
 
 **Topic ID**: 789

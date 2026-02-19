@@ -1,3 +1,10 @@
+---
+topic_id: 20233
+title: "How Can I Configure Slicer To Open Automatically With My Pre"
+date: 2021-10-19
+url: https://discourse.slicer.org/t/20233
+---
+
 # How can I configure Slicer to open automatically with my preferred settings for the View Controllers module?
 
 **Topic ID**: 20233

@@ -1,3 +1,10 @@
+---
+topic_id: 16827
+title: "Slicer Compatible And 3D Capable Pacs Viewer In Clinical Set"
+date: 2021-03-29
+url: https://discourse.slicer.org/t/16827
+---
+
 # Slicer compatible and 3D capable PACS Viewer in clinical setting?
 
 **Topic ID**: 16827

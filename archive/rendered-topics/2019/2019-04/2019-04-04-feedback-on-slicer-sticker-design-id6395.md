@@ -1,3 +1,10 @@
+---
+topic_id: 6395
+title: "Feedback On Slicer Sticker Design"
+date: 2019-04-04
+url: https://discourse.slicer.org/t/6395
+---
+
 # Feedback on Slicer Sticker design
 
 **Topic ID**: 6395

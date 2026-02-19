@@ -1,3 +1,10 @@
+---
+topic_id: 17879
+title: "Observe Camera Node Events In A Loadable Module Logic"
+date: 2021-05-31
+url: https://discourse.slicer.org/t/17879
+---
+
 # Observe camera node events in a loadable module logic
 
 **Topic ID**: 17879

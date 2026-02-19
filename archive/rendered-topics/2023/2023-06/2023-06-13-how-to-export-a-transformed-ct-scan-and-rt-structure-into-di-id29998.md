@@ -1,3 +1,10 @@
+---
+topic_id: 29998
+title: "How To Export A Transformed Ct Scan And Rt Structure Into Di"
+date: 2023-06-13
+url: https://discourse.slicer.org/t/29998
+---
+
 # How to export a transformed CT scan and RT structure into DICOM format
 
 **Topic ID**: 29998

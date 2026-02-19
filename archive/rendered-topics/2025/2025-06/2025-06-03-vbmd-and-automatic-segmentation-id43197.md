@@ -1,3 +1,10 @@
+---
+topic_id: 43197
+title: "Vbmd And Automatic Segmentation"
+date: 2025-06-03
+url: https://discourse.slicer.org/t/43197
+---
+
 # vBMD and automatic segmentation 
 
 **Topic ID**: 43197

@@ -1,3 +1,10 @@
+---
+topic_id: 27354
+title: "Problem In Extensions Manager"
+date: 2023-01-19
+url: https://discourse.slicer.org/t/27354
+---
+
 # Problem in Extensions Manager
 
 **Topic ID**: 27354

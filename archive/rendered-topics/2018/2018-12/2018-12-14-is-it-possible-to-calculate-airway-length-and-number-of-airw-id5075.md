@@ -1,3 +1,10 @@
+---
+topic_id: 5075
+title: "Is It Possible To Calculate Airway Length And Number Of Airw"
+date: 2018-12-14
+url: https://discourse.slicer.org/t/5075
+---
+
 # Is it possible to calculate airway length and number of airway tree generation with the help of slicer
 
 **Topic ID**: 5075

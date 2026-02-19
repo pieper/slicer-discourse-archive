@@ -1,3 +1,10 @@
+---
+topic_id: 20172
+title: "Combine 3 Scalar Volumes Into A Vector"
+date: 2021-10-15
+url: https://discourse.slicer.org/t/20172
+---
+
 # Combine 3 scalar volumes into a vector
 
 **Topic ID**: 20172

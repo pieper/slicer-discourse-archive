@@ -1,3 +1,10 @@
+---
+topic_id: 9601
+title: "Double Images When Loading A Dicom File"
+date: 2019-12-24
+url: https://discourse.slicer.org/t/9601
+---
+
 # Double Images when loading a DICOM file
 
 **Topic ID**: 9601

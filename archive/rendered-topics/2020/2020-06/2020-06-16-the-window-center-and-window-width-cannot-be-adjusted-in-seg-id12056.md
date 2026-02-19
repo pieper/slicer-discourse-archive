@@ -1,3 +1,10 @@
+---
+topic_id: 12056
+title: "The Window Center And Window Width Cannot Be Adjusted In Seg"
+date: 2020-06-16
+url: https://discourse.slicer.org/t/12056
+---
+
 # The window center and window width cannot be adjusted in Segment editor in 6.11(2020.6.15)
 
 **Topic ID**: 12056

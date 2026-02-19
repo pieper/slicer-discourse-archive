@@ -1,3 +1,10 @@
+---
+topic_id: 35308
+title: "Accessing Button Icon Using Reload Button In The 3D Slicer"
+date: 2024-04-05
+url: https://discourse.slicer.org/t/35308
+---
+
 # Accessing button icon using reload button in the 3d slicer
 
 **Topic ID**: 35308

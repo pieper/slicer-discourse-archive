@@ -1,3 +1,10 @@
+---
+topic_id: 28348
+title: "Volume Generation In A Different Plane Coordinates"
+date: 2023-03-13
+url: https://discourse.slicer.org/t/28348
+---
+
 # Volume generation in a different plane/coordinates
 
 **Topic ID**: 28348

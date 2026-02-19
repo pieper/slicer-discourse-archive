@@ -1,3 +1,10 @@
+---
+topic_id: 18500
+title: "How To Best Measure Thigh Muscle Volume In At Least Three Di"
+date: 2021-07-03
+url: https://discourse.slicer.org/t/18500
+---
+
 # How to best measure thigh muscle volume in (at least) three different ways
 
 **Topic ID**: 18500

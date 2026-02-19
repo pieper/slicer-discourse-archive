@@ -1,3 +1,10 @@
+---
+topic_id: 40975
+title: "Exporting Segmentation As 2D Image Stack"
+date: 2025-01-07
+url: https://discourse.slicer.org/t/40975
+---
+
 # Exporting segmentation as 2D image stack
 
 **Topic ID**: 40975

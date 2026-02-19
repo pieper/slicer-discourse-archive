@@ -1,3 +1,10 @@
+---
+topic_id: 13141
+title: "Remeshing Segmented Model"
+date: 2020-08-24
+url: https://discourse.slicer.org/t/13141
+---
+
 # Remeshing segmented model
 
 **Topic ID**: 13141

@@ -1,3 +1,10 @@
+---
+topic_id: 22542
+title: "Save A Binary Segmentation Of The Surface Voxels Of A Segmen"
+date: 2022-03-16
+url: https://discourse.slicer.org/t/22542
+---
+
 # Save a binary segmentation of the surface voxels of a segment.
 
 **Topic ID**: 22542

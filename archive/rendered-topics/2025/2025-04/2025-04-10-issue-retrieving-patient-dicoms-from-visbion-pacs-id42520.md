@@ -1,3 +1,10 @@
+---
+topic_id: 42520
+title: "Issue Retrieving Patient Dicoms From Visbion Pacs"
+date: 2025-04-10
+url: https://discourse.slicer.org/t/42520
+---
+
 # Issue Retrieving Patient DICOMS from Visbion PACS
 
 **Topic ID**: 42520

@@ -1,3 +1,10 @@
+---
+topic_id: 12316
+title: "Question About Color Lookup Tables"
+date: 2020-07-01
+url: https://discourse.slicer.org/t/12316
+---
+
 # Question about color lookup tables
 
 **Topic ID**: 12316

@@ -1,3 +1,10 @@
+---
+topic_id: 39742
+title: "In Volume Rendering How To Set The Rendering Result To Not B"
+date: 2024-10-17
+url: https://discourse.slicer.org/t/39742
+---
+
 # In volume rendering, how to set the rendering result to not blur when rotating the camera
 
 **Topic ID**: 39742

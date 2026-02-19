@@ -1,3 +1,10 @@
+---
+topic_id: 18536
+title: "Drive Letter Mappings In Slicer Python"
+date: 2021-07-06
+url: https://discourse.slicer.org/t/18536
+---
+
 # Drive letter mappings in Slicer Python
 
 **Topic ID**: 18536

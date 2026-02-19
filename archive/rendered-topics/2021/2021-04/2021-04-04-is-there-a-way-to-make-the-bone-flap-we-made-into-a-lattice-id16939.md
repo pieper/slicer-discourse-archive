@@ -1,3 +1,10 @@
+---
+topic_id: 16939
+title: "Is There A Way To Make The Bone Flap We Made Into A Lattice"
+date: 2021-04-04
+url: https://discourse.slicer.org/t/16939
+---
+
 # Is there a way to make the bone flap we made into a lattice pattern
 
 **Topic ID**: 16939

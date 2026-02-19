@@ -1,3 +1,10 @@
+---
+topic_id: 15363
+title: "Programmatic Conversion Of Rt Struct To Nrrd"
+date: 2021-01-05
+url: https://discourse.slicer.org/t/15363
+---
+
 # Programmatic Conversion of RT Struct to nrrd
 
 **Topic ID**: 15363

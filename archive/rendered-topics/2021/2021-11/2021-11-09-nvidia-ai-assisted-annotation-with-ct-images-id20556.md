@@ -1,3 +1,10 @@
+---
+topic_id: 20556
+title: "Nvidia Ai Assisted Annotation With Ct Images"
+date: 2021-11-09
+url: https://discourse.slicer.org/t/20556
+---
+
 # Nvidia AI Assisted Annotation with CT images
 
 **Topic ID**: 20556

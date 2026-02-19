@@ -1,3 +1,10 @@
+---
+topic_id: 10601
+title: "Unable To Show The Result From Filter Simpleitk"
+date: 2020-03-09
+url: https://discourse.slicer.org/t/10601
+---
+
 # Unable to show the result from filter - SimpleITK
 
 **Topic ID**: 10601

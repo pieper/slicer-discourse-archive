@@ -1,3 +1,10 @@
+---
+topic_id: 27887
+title: "Smoothing In Surface Toolbox Has Issues Working With Obj Fil"
+date: 2023-02-17
+url: https://discourse.slicer.org/t/27887
+---
+
 # Smoothing in Surface toolbox has issues working with OBJ file with texture coordinates
 
 **Topic ID**: 27887

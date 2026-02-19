@@ -1,3 +1,10 @@
+---
+topic_id: 3501
+title: "Import Nrrd Segmentation"
+date: 2018-07-17
+url: https://discourse.slicer.org/t/3501
+---
+
 # import nrrd segmentation
 
 **Topic ID**: 3501

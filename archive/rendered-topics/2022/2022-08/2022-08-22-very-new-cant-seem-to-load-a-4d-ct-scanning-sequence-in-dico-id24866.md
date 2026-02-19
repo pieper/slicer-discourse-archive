@@ -1,3 +1,10 @@
+---
+topic_id: 24866
+title: "Very New Cant Seem To Load A 4D Ct Scanning Sequence In Dico"
+date: 2022-08-22
+url: https://discourse.slicer.org/t/24866
+---
+
 # Very new, Can't seem to load a 4D CT scanning sequence in DICOM format
 
 **Topic ID**: 24866

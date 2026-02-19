@@ -1,3 +1,10 @@
+---
+topic_id: 12604
+title: "2020 07 28 Hangout Early Posting For Project Week Brainstorm"
+date: 2020-07-17
+url: https://discourse.slicer.org/t/12604
+---
+
 # 2020.07.28 Hangout - Early Posting for Project Week Brainstorming
 
 **Topic ID**: 12604

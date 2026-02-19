@@ -1,3 +1,10 @@
+---
+topic_id: 4734
+title: "Importing Us Works For Data Import But Not As Dicom Import"
+date: 2018-11-12
+url: https://discourse.slicer.org/t/4734
+---
+
 # Importing US works for data import but not as dicom import?
 
 **Topic ID**: 4734

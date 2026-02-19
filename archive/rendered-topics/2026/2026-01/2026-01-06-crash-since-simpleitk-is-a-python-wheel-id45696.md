@@ -1,3 +1,10 @@
+---
+topic_id: 45696
+title: "Crash Since Simpleitk Is A Python Wheel"
+date: 2026-01-06
+url: https://discourse.slicer.org/t/45696
+---
+
 # Crash since SimpleITK is a python wheel
 
 **Topic ID**: 45696

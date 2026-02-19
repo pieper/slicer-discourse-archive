@@ -1,3 +1,10 @@
+---
+topic_id: 20511
+title: "How To Change Pixel Size Image Spacing Without Changing Of M"
+date: 2021-11-07
+url: https://discourse.slicer.org/t/20511
+---
+
 # How to change pixel size (Image Spacing) without changing of matrix size
 
 **Topic ID**: 20511

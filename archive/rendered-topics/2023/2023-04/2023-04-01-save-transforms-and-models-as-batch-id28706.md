@@ -1,3 +1,10 @@
+---
+topic_id: 28706
+title: "Save Transforms And Models As Batch"
+date: 2023-04-01
+url: https://discourse.slicer.org/t/28706
+---
+
 # Save transforms and models as batch
 
 **Topic ID**: 28706

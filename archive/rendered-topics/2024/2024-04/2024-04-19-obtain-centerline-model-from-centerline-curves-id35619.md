@@ -1,3 +1,10 @@
+---
+topic_id: 35619
+title: "Obtain Centerline Model From Centerline Curves"
+date: 2024-04-19
+url: https://discourse.slicer.org/t/35619
+---
+
 # Obtain Centerline model from centerline curves
 
 **Topic ID**: 35619

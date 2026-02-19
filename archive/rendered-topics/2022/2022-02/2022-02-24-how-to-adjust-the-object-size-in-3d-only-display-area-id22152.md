@@ -1,3 +1,10 @@
+---
+topic_id: 22152
+title: "How To Adjust The Object Size In 3D Only Display Area"
+date: 2022-02-24
+url: https://discourse.slicer.org/t/22152
+---
+
 # How to adjust the object size in 3D only display area?
 
 **Topic ID**: 22152

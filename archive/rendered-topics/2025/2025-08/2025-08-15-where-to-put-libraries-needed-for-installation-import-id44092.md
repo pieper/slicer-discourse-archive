@@ -1,3 +1,10 @@
+---
+topic_id: 44092
+title: "Where To Put Libraries Needed For Installation Import"
+date: 2025-08-15
+url: https://discourse.slicer.org/t/44092
+---
+
 # Where to put libraries needed for installation/import?
 
 **Topic ID**: 44092

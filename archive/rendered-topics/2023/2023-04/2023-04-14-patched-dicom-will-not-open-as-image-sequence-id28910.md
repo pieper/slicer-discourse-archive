@@ -1,3 +1,10 @@
+---
+topic_id: 28910
+title: "Patched Dicom Will Not Open As Image Sequence"
+date: 2023-04-14
+url: https://discourse.slicer.org/t/28910
+---
+
 # Patched DICOM will not open as Image Sequence
 
 **Topic ID**: 28910

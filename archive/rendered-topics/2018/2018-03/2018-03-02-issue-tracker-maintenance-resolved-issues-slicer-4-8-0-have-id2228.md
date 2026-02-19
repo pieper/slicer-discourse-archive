@@ -1,3 +1,10 @@
+---
+topic_id: 2228
+title: "Issue Tracker Maintenance Resolved Issues Slicer 4 8 0 Have"
+date: 2018-03-02
+url: https://discourse.slicer.org/t/2228
+---
+
 # Issue tracker maintenance: Resolved issues <= Slicer 4.8.0 have been closed
 
 **Topic ID**: 2228

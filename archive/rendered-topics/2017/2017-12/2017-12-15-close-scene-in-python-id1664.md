@@ -1,3 +1,10 @@
+---
+topic_id: 1664
+title: "Close Scene In Python"
+date: 2017-12-15
+url: https://discourse.slicer.org/t/1664
+---
+
 # "Close Scene" in python
 
 **Topic ID**: 1664

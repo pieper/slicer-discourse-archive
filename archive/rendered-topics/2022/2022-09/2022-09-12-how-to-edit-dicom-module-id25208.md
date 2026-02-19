@@ -1,3 +1,10 @@
+---
+topic_id: 25208
+title: "How To Edit Dicom Module"
+date: 2022-09-12
+url: https://discourse.slicer.org/t/25208
+---
+
 # How to edit DICOM module
 
 **Topic ID**: 25208

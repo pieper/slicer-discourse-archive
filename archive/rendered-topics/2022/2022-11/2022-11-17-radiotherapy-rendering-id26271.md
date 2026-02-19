@@ -1,3 +1,10 @@
+---
+topic_id: 26271
+title: "Radiotherapy Rendering"
+date: 2022-11-17
+url: https://discourse.slicer.org/t/26271
+---
+
 # Radiotherapy Rendering
 
 **Topic ID**: 26271

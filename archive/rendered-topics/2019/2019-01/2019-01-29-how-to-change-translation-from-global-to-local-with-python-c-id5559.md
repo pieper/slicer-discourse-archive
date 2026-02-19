@@ -1,3 +1,10 @@
+---
+topic_id: 5559
+title: "How To Change Translation From Global To Local With Python C"
+date: 2019-01-29
+url: https://discourse.slicer.org/t/5559
+---
+
 # How to change translation from global to Local with python code?
 
 **Topic ID**: 5559

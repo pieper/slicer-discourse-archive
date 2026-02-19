@@ -1,3 +1,10 @@
+---
+topic_id: 30783
+title: "Slicer Preview Build Crashes When First Opening Extension Ma"
+date: 2023-07-25
+url: https://discourse.slicer.org/t/30783
+---
+
 # Slicer preview build crashes when first opening extension manager
 
 **Topic ID**: 30783

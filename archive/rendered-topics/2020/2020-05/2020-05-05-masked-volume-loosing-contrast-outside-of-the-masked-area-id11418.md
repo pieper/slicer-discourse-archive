@@ -1,3 +1,10 @@
+---
+topic_id: 11418
+title: "Masked Volume Loosing Contrast Outside Of The Masked Area"
+date: 2020-05-05
+url: https://discourse.slicer.org/t/11418
+---
+
 # Masked volume loosing contrast outside of the masked area
 
 **Topic ID**: 11418

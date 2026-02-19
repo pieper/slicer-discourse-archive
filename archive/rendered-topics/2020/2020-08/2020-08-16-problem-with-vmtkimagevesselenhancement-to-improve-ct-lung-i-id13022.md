@@ -1,3 +1,10 @@
+---
+topic_id: 13022
+title: "Problem With Vmtkimagevesselenhancement To Improve Ct Lung I"
+date: 2020-08-16
+url: https://discourse.slicer.org/t/13022
+---
+
 # Problem with vmtkimagevesselenhancement to improve CT lung images and detect fissures locations?
 
 **Topic ID**: 13022

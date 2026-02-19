@@ -1,3 +1,10 @@
+---
+topic_id: 11395
+title: "How Do I Add Robot Arm Stl Into A Scene"
+date: 2020-05-04
+url: https://discourse.slicer.org/t/11395
+---
+
 # How do I add robot arm STL into a scene?
 
 **Topic ID**: 11395

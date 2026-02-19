@@ -1,3 +1,10 @@
+---
+topic_id: 27498
+title: "Quilt Displays On Laptop But Not On Looking Glass"
+date: 2023-01-27
+url: https://discourse.slicer.org/t/27498
+---
+
 # Quilt Displays on Laptop but not on Looking Glass
 
 **Topic ID**: 27498

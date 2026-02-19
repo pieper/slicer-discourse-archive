@@ -1,3 +1,10 @@
+---
+topic_id: 8100
+title: "Vr Connection With Acer Windows Mixed Reality"
+date: 2019-08-19
+url: https://discourse.slicer.org/t/8100
+---
+
 # VR connection with Acer Windows Mixed Reality
 
 **Topic ID**: 8100

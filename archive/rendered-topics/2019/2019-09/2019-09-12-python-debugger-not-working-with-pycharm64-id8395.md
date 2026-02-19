@@ -1,3 +1,10 @@
+---
+topic_id: 8395
+title: "Python Debugger Not Working With Pycharm64"
+date: 2019-09-12
+url: https://discourse.slicer.org/t/8395
+---
+
 # Python debugger not working with pycharm64
 
 **Topic ID**: 8395

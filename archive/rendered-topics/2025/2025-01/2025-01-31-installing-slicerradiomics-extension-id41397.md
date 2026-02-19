@@ -1,3 +1,10 @@
+---
+topic_id: 41397
+title: "Installing Slicerradiomics Extension"
+date: 2025-01-31
+url: https://discourse.slicer.org/t/41397
+---
+
 # Installing SlicerRadiomics Extension
 
 **Topic ID**: 41397

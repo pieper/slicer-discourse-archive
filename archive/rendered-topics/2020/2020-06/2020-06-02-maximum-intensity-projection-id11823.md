@@ -1,3 +1,10 @@
+---
+topic_id: 11823
+title: "Maximum Intensity Projection"
+date: 2020-06-02
+url: https://discourse.slicer.org/t/11823
+---
+
 # Maximum Intensity Projection
 
 **Topic ID**: 11823

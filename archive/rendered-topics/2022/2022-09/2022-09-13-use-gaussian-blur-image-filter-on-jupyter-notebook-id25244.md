@@ -1,3 +1,10 @@
+---
+topic_id: 25244
+title: "Use Gaussian Blur Image Filter On Jupyter Notebook"
+date: 2022-09-13
+url: https://discourse.slicer.org/t/25244
+---
+
 # Use Gaussian Blur Image Filter on Jupyter notebook
 
 **Topic ID**: 25244

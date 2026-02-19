@@ -1,3 +1,10 @@
+---
+topic_id: 17404
+title: "Segmentation From Landmark Registration Images Not Aligned"
+date: 2021-05-01
+url: https://discourse.slicer.org/t/17404
+---
+
 # Segmentation from Landmark Registration images not aligned
 
 **Topic ID**: 17404

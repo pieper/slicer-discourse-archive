@@ -1,3 +1,10 @@
+---
+topic_id: 18766
+title: "Distance From Fiducial To A Plane"
+date: 2021-07-16
+url: https://discourse.slicer.org/t/18766
+---
+
 # Distance from fiducial to a plane
 
 **Topic ID**: 18766

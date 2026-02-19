@@ -1,3 +1,10 @@
+---
+topic_id: 23571
+title: "Old Version Of 3D Slicer"
+date: 2022-05-24
+url: https://discourse.slicer.org/t/23571
+---
+
 # Old version of 3d Slicer
 
 **Topic ID**: 23571

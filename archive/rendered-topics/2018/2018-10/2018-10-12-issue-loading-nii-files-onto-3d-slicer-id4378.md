@@ -1,3 +1,10 @@
+---
+topic_id: 4378
+title: "Issue Loading Nii Files Onto 3D Slicer"
+date: 2018-10-12
+url: https://discourse.slicer.org/t/4378
+---
+
 # Issue loading .nii files onto 3D slicer 
 
 **Topic ID**: 4378

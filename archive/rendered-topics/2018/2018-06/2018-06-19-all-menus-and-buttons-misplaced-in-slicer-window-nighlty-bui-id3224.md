@@ -1,3 +1,10 @@
+---
+topic_id: 3224
+title: "All Menus And Buttons Misplaced In Slicer Window Nighlty Bui"
+date: 2018-06-19
+url: https://discourse.slicer.org/t/3224
+---
+
 # All menus and buttons misplaced in Slicer window (nighlty build version)
 
 **Topic ID**: 3224

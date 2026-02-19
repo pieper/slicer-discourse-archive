@@ -1,3 +1,10 @@
+---
+topic_id: 25245
+title: "Nrrd File Version"
+date: 2022-09-13
+url: https://discourse.slicer.org/t/25245
+---
+
 # NRRD File Version
 
 **Topic ID**: 25245

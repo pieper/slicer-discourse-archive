@@ -1,3 +1,10 @@
+---
+topic_id: 36801
+title: "Display Ct Image Of Bones In 3D"
+date: 2024-06-15
+url: https://discourse.slicer.org/t/36801
+---
+
 # Display CT image of bones in 3D
 
 **Topic ID**: 36801

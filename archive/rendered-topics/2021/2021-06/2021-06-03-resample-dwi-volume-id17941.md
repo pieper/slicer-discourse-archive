@@ -1,3 +1,10 @@
+---
+topic_id: 17941
+title: "Resample Dwi Volume"
+date: 2021-06-03
+url: https://discourse.slicer.org/t/17941
+---
+
 # Resample DWI Volume
 
 **Topic ID**: 17941

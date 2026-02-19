@@ -1,3 +1,10 @@
+---
+topic_id: 20776
+title: "Slicerrt Defining Margins"
+date: 2021-11-24
+url: https://discourse.slicer.org/t/20776
+---
+
 # SlicerRT Defining Margins
 
 **Topic ID**: 20776

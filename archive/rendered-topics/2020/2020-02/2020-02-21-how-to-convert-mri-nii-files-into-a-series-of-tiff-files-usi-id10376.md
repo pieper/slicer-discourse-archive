@@ -1,3 +1,10 @@
+---
+topic_id: 10376
+title: "How To Convert Mri Nii Files Into A Series Of Tiff Files Usi"
+date: 2020-02-21
+url: https://discourse.slicer.org/t/10376
+---
+
 # How to Convert MRI nii files into a series of tiff files using 3D Slicer 4.10?
 
 **Topic ID**: 10376

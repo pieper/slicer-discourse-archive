@@ -1,3 +1,10 @@
+---
+topic_id: 6726
+title: "Qmrmlcolortablenode Causing Slicer To Exit Abnormally"
+date: 2019-05-08
+url: https://discourse.slicer.org/t/6726
+---
+
 # qMRMLColorTableNode causing Slicer to exit abnormally
 
 **Topic ID**: 6726

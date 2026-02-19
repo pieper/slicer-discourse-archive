@@ -1,3 +1,10 @@
+---
+topic_id: 231
+title: "Multiple Startup Errors And No Simpleitk In May 1 Nightly On"
+date: 2017-05-01
+url: https://discourse.slicer.org/t/231
+---
+
 # Multiple startup errors and no SimpleITK in May 1 nightly on mac
 
 **Topic ID**: 231

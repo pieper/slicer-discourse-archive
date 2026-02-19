@@ -1,3 +1,10 @@
+---
+topic_id: 7551
+title: "Qt Qformbuilder"
+date: 2019-07-12
+url: https://discourse.slicer.org/t/7551
+---
+
 # qt.QFormBuilder?
 
 **Topic ID**: 7551

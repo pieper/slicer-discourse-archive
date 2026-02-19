@@ -1,3 +1,10 @@
+---
+topic_id: 25695
+title: "Is There Any Callback For The Mouse Click When Adding A New"
+date: 2022-10-14
+url: https://discourse.slicer.org/t/25695
+---
+
 # Is there any callback for the mouse click when adding a new markup?
 
 **Topic ID**: 25695

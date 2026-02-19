@@ -1,3 +1,10 @@
+---
+topic_id: 24301
+title: "Error In Discharge Of Images"
+date: 2022-07-13
+url: https://discourse.slicer.org/t/24301
+---
+
 # Error in discharge of images
 
 **Topic ID**: 24301

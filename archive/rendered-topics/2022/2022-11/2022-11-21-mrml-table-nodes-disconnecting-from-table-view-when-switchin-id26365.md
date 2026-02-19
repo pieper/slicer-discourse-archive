@@ -1,3 +1,10 @@
+---
+topic_id: 26365
+title: "Mrml Table Nodes Disconnecting From Table View When Switchin"
+date: 2022-11-21
+url: https://discourse.slicer.org/t/26365
+---
+
 # MRML table nodes disconnecting from table view when switching layouts
 
 **Topic ID**: 26365

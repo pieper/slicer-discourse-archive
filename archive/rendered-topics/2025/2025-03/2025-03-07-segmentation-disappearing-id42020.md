@@ -1,3 +1,10 @@
+---
+topic_id: 42020
+title: "Segmentation Disappearing"
+date: 2025-03-07
+url: https://discourse.slicer.org/t/42020
+---
+
 # Segmentation disappearing
 
 **Topic ID**: 42020

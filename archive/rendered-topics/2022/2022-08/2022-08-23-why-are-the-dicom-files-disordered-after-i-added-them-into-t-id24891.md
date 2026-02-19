@@ -1,3 +1,10 @@
+---
+topic_id: 24891
+title: "Why Are The Dicom Files Disordered After I Added Them Into T"
+date: 2022-08-23
+url: https://discourse.slicer.org/t/24891
+---
+
 # Why are the dicom files disordered after I added them into the DICOM database?
 
 **Topic ID**: 24891

@@ -1,3 +1,10 @@
+---
+topic_id: 14185
+title: "Bspline Transform Multiresolution Type Mismatch"
+date: 2020-10-21
+url: https://discourse.slicer.org/t/14185
+---
+
 # Bspline transform multiresolution type mismatch
 
 **Topic ID**: 14185

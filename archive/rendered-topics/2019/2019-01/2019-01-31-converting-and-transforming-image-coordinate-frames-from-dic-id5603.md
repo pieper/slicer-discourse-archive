@@ -1,3 +1,10 @@
+---
+topic_id: 5603
+title: "Converting And Transforming Image Coordinate Frames From Dic"
+date: 2019-01-31
+url: https://discourse.slicer.org/t/5603
+---
+
 # Converting and Transforming Image Coordinate Frames from DICOM to PNG
 
 **Topic ID**: 5603

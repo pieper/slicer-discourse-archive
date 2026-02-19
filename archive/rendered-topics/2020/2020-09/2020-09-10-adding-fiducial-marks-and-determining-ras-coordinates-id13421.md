@@ -1,3 +1,10 @@
+---
+topic_id: 13421
+title: "Adding Fiducial Marks And Determining Ras Coordinates"
+date: 2020-09-10
+url: https://discourse.slicer.org/t/13421
+---
+
 # Adding fiducial marks and determining RAS coordinates
 
 **Topic ID**: 13421

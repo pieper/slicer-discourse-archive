@@ -1,3 +1,10 @@
+---
+topic_id: 42389
+title: "Display Heatmap Of Hounsfield Values On Registered Surface O"
+date: 2025-04-01
+url: https://discourse.slicer.org/t/42389
+---
+
 # Display heatmap of Hounsfield values on registered surface object for cortical bone contact
 
 **Topic ID**: 42389

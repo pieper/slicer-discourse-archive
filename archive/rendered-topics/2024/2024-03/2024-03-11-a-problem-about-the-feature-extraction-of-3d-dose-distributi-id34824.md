@@ -1,3 +1,10 @@
+---
+topic_id: 34824
+title: "A Problem About The Feature Extraction Of 3D Dose Distributi"
+date: 2024-03-11
+url: https://discourse.slicer.org/t/34824
+---
+
 # A problem about the feature extraction of 3D dose distribution
 
 **Topic ID**: 34824

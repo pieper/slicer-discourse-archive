@@ -1,3 +1,10 @@
+---
+topic_id: 5377
+title: "Bug In Nigthly Version"
+date: 2019-01-15
+url: https://discourse.slicer.org/t/5377
+---
+
 # Bug in nigthly version
 
 **Topic ID**: 5377

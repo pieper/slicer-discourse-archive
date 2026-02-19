@@ -1,3 +1,10 @@
+---
+topic_id: 31128
+title: "Viewing Ge Vivid E95 Exported Dicoms"
+date: 2023-08-13
+url: https://discourse.slicer.org/t/31128
+---
+
 # Viewing GE vivid e95 exported dicoms
 
 **Topic ID**: 31128

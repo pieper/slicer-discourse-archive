@@ -1,3 +1,10 @@
+---
+topic_id: 11694
+title: "Exporting Values Of Angle Between Two Lines Q3Dc Doesnt Work"
+date: 2020-05-25
+url: https://discourse.slicer.org/t/11694
+---
+
 # Exporting values of "angle between two lines" (Q3DC) doesn't work
 
 **Topic ID**: 11694

@@ -1,3 +1,10 @@
+---
+topic_id: 9794
+title: "Automated Rigid 6 Dof Registration"
+date: 2020-01-13
+url: https://discourse.slicer.org/t/9794
+---
+
 # Automated rigid (6 DOF) registration
 
 **Topic ID**: 9794

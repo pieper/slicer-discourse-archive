@@ -1,3 +1,10 @@
+---
+topic_id: 16375
+title: "How To Set Different Control Point Sizes In Different Views"
+date: 2021-03-04
+url: https://discourse.slicer.org/t/16375
+---
+
 # How to set different control point sizes in different views?
 
 **Topic ID**: 16375

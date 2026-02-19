@@ -1,3 +1,10 @@
+---
+topic_id: 40102
+title: "File Errors Importing Dicom Into Slicer"
+date: 2024-11-10
+url: https://discourse.slicer.org/t/40102
+---
+
 # File errors Importing Dicom into slicer
 
 **Topic ID**: 40102

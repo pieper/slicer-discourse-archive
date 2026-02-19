@@ -1,3 +1,10 @@
+---
+topic_id: 12698
+title: "Segments Disappeared"
+date: 2020-07-22
+url: https://discourse.slicer.org/t/12698
+---
+
 # Segments disappeared!
 
 **Topic ID**: 12698

@@ -1,3 +1,10 @@
+---
+topic_id: 23967
+title: "Na Mic Project Week Reminder Last Project Week 37 Preparatio"
+date: 2022-06-20
+url: https://discourse.slicer.org/t/23967
+---
+
 # [Na-mic-project-week] Reminder: last Project Week 37 preparation meeting tomorrow!
 
 **Topic ID**: 23967

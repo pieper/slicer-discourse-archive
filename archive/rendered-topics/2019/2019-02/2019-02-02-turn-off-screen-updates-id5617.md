@@ -1,3 +1,10 @@
+---
+topic_id: 5617
+title: "Turn Off Screen Updates"
+date: 2019-02-02
+url: https://discourse.slicer.org/t/5617
+---
+
 # Turn off screen updates
 
 **Topic ID**: 5617

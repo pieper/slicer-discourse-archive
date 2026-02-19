@@ -1,3 +1,10 @@
+---
+topic_id: 40144
+title: "Cross Sectional Area Of Muscle On Ct Scan"
+date: 2024-11-12
+url: https://discourse.slicer.org/t/40144
+---
+
 # Cross-sectional area of muscle on CT Scan
 
 **Topic ID**: 40144

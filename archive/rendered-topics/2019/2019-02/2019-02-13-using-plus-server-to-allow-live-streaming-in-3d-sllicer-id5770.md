@@ -1,3 +1,10 @@
+---
+topic_id: 5770
+title: "Using Plus Server To Allow Live Streaming In 3D Sllicer"
+date: 2019-02-13
+url: https://discourse.slicer.org/t/5770
+---
+
 # Using Plus Server to allow live streaming in 3D sllicer
 
 **Topic ID**: 5770

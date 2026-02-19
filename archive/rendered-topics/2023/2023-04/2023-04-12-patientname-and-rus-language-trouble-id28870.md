@@ -1,3 +1,10 @@
+---
+topic_id: 28870
+title: "Patientname And Rus Language Trouble"
+date: 2023-04-12
+url: https://discourse.slicer.org/t/28870
+---
+
 # PatientName and rus language - trouble
 
 **Topic ID**: 28870

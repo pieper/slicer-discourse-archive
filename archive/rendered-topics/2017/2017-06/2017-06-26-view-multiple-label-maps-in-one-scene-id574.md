@@ -1,3 +1,10 @@
+---
+topic_id: 574
+title: "View Multiple Label Maps In One Scene"
+date: 2017-06-26
+url: https://discourse.slicer.org/t/574
+---
+
 # View multiple label maps in one scene
 
 **Topic ID**: 574

@@ -1,3 +1,10 @@
+---
+topic_id: 31097
+title: "Seeg 3D Slicer Extension Or Open Source Software"
+date: 2023-08-11
+url: https://discourse.slicer.org/t/31097
+---
+
 # SEEG 3D slicer extension or open-source software
 
 **Topic ID**: 31097

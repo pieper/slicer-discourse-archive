@@ -1,3 +1,10 @@
+---
+topic_id: 45985
+title: "How To Improve Surface Model Quality When Visualizing Brain"
+date: 2026-01-29
+url: https://discourse.slicer.org/t/45985
+---
+
 # How to improve surface model quality when visualizing brain ROI masks in 3D Slicer
 
 **Topic ID**: 45985

@@ -1,3 +1,10 @@
+---
+topic_id: 32552
+title: "How To Color Volume Node Use Lookup Table Or Other Method"
+date: 2023-11-02
+url: https://discourse.slicer.org/t/32552
+---
+
 # How to color volume node use lookup table or other method?
 
 **Topic ID**: 32552

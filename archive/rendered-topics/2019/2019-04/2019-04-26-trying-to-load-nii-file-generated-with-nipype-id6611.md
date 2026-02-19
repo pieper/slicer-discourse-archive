@@ -1,3 +1,10 @@
+---
+topic_id: 6611
+title: "Trying To Load Nii File Generated With Nipype"
+date: 2019-04-26
+url: https://discourse.slicer.org/t/6611
+---
+
 # Trying to load .nii file generated with Nipype
 
 **Topic ID**: 6611

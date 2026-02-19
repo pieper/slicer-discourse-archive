@@ -1,3 +1,10 @@
+---
+topic_id: 12190
+title: "Image Is Not Aligned With Segmentation"
+date: 2020-06-23
+url: https://discourse.slicer.org/t/12190
+---
+
 # Image is not aligned with segmentation
 
 **Topic ID**: 12190

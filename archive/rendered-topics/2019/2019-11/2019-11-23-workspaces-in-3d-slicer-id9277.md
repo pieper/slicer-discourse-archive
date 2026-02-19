@@ -1,3 +1,10 @@
+---
+topic_id: 9277
+title: "Workspaces In 3D Slicer"
+date: 2019-11-23
+url: https://discourse.slicer.org/t/9277
+---
+
 # Workspaces in 3D Slicer
 
 **Topic ID**: 9277

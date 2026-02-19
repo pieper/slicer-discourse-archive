@@ -1,3 +1,10 @@
+---
+topic_id: 36638
+title: "Export Nrrd File From Mhd File For 600 Patients"
+date: 2024-06-07
+url: https://discourse.slicer.org/t/36638
+---
+
 # Export nrrd file from mhd file for 600 patients
 
 **Topic ID**: 36638

@@ -1,3 +1,10 @@
+---
+topic_id: 21309
+title: "Models Always Shaded Flat Regardless Of Interpolation"
+date: 2022-01-02
+url: https://discourse.slicer.org/t/21309
+---
+
 # Models always shaded flat regardless of interpolation
 
 **Topic ID**: 21309

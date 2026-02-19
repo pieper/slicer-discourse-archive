@@ -1,3 +1,10 @@
+---
+topic_id: 12554
+title: "Slicer App Store Extensions Down"
+date: 2020-07-15
+url: https://discourse.slicer.org/t/12554
+---
+
 # Slicer App Store (extensions) down?
 
 **Topic ID**: 12554

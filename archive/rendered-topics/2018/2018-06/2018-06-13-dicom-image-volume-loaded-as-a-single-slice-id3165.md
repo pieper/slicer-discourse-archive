@@ -1,3 +1,10 @@
+---
+topic_id: 3165
+title: "Dicom Image Volume Loaded As A Single Slice"
+date: 2018-06-13
+url: https://discourse.slicer.org/t/3165
+---
+
 # DICOM image volume loaded as a single slice
 
 **Topic ID**: 3165

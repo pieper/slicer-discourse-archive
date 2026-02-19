@@ -1,3 +1,10 @@
+---
+topic_id: 45030
+title: "Two Itk Packages In Slicer"
+date: 2025-11-10
+url: https://discourse.slicer.org/t/45030
+---
+
 # Two ITK packages in Slicer
 
 **Topic ID**: 45030

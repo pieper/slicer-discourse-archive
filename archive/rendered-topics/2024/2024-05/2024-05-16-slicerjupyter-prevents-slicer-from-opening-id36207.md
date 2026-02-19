@@ -1,3 +1,10 @@
+---
+topic_id: 36207
+title: "Slicerjupyter Prevents Slicer From Opening"
+date: 2024-05-16
+url: https://discourse.slicer.org/t/36207
+---
+
 # SlicerJupyter prevents Slicer from opening
 
 **Topic ID**: 36207

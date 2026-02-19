@@ -1,3 +1,10 @@
+---
+topic_id: 10468
+title: "New Highdicom Python Library"
+date: 2020-02-28
+url: https://discourse.slicer.org/t/10468
+---
+
 # New `highdicom` python library
 
 **Topic ID**: 10468

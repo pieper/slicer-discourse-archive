@@ -1,3 +1,10 @@
+---
+topic_id: 8145
+title: "Select Color Lookup Table From Python"
+date: 2019-08-23
+url: https://discourse.slicer.org/t/8145
+---
+
 # Select color lookup table from python
 
 **Topic ID**: 8145

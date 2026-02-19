@@ -1,3 +1,10 @@
+---
+topic_id: 25615
+title: "Bar Charts With Categorical Data"
+date: 2022-10-09
+url: https://discourse.slicer.org/t/25615
+---
+
 # Bar charts with categorical data
 
 **Topic ID**: 25615

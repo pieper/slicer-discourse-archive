@@ -1,3 +1,10 @@
+---
+topic_id: 41277
+title: "How Can I Download Interactive Charting Of Sequence Module"
+date: 2025-01-25
+url: https://discourse.slicer.org/t/41277
+---
+
 # How can I download interactive charting of sequence module :(
 
 **Topic ID**: 41277

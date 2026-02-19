@@ -1,3 +1,10 @@
+---
+topic_id: 14208
+title: "Problem With Data Loading"
+date: 2020-10-23
+url: https://discourse.slicer.org/t/14208
+---
+
 # Problem with data loading
 
 **Topic ID**: 14208

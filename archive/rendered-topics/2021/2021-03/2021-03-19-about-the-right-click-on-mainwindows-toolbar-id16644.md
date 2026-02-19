@@ -1,3 +1,10 @@
+---
+topic_id: 16644
+title: "About The Right Click On Mainwindows Toolbar"
+date: 2021-03-19
+url: https://discourse.slicer.org/t/16644
+---
+
 # About the right click on mainwindow's toolbar
 
 **Topic ID**: 16644

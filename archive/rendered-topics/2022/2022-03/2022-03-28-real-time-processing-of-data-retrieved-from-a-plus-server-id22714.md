@@ -1,3 +1,10 @@
+---
+topic_id: 22714
+title: "Real Time Processing Of Data Retrieved From A Plus Server"
+date: 2022-03-28
+url: https://discourse.slicer.org/t/22714
+---
+
 # Real-time processing of data retrieved from a Plus Server
 
 **Topic ID**: 22714

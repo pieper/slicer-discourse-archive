@@ -1,3 +1,10 @@
+---
+topic_id: 18411
+title: "How To Compute Oriented Bounding Box For A Model And Display"
+date: 2021-06-30
+url: https://discourse.slicer.org/t/18411
+---
+
 # How to compute oriented bounding box for a model and display it using annotation ROI?
 
 **Topic ID**: 18411

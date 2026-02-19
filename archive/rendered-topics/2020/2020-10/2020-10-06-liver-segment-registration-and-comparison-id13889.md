@@ -1,3 +1,10 @@
+---
+topic_id: 13889
+title: "Liver Segment Registration And Comparison"
+date: 2020-10-06
+url: https://discourse.slicer.org/t/13889
+---
+
 # Liver segment registration and comparison
 
 **Topic ID**: 13889

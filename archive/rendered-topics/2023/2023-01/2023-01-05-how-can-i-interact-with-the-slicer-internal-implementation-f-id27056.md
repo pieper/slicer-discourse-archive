@@ -1,3 +1,10 @@
+---
+topic_id: 27056
+title: "How Can I Interact With The Slicer Internal Implementation F"
+date: 2023-01-05
+url: https://discourse.slicer.org/t/27056
+---
+
 # How can I interact with the slicer internal implementation functions?
 
 **Topic ID**: 27056

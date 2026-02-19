@@ -1,3 +1,10 @@
+---
+topic_id: 2797
+title: "Openigtlinkif Doesnt Show Up In Slicer Linux"
+date: 2018-05-10
+url: https://discourse.slicer.org/t/2797
+---
+
 # OpenIGTLinkIF doesn't show up in slicer linux
 
 **Topic ID**: 2797

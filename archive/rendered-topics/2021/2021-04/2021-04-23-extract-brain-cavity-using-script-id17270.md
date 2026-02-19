@@ -1,3 +1,10 @@
+---
+topic_id: 17270
+title: "Extract Brain Cavity Using Script"
+date: 2021-04-23
+url: https://discourse.slicer.org/t/17270
+---
+
 # Extract brain cavity using script
 
 **Topic ID**: 17270

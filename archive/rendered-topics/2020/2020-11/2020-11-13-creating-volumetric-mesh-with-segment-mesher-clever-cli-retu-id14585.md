@@ -1,3 +1,10 @@
+---
+topic_id: 14585
+title: "Creating Volumetric Mesh With Segment Mesher Clever Cli Retu"
+date: 2020-11-13
+url: https://discourse.slicer.org/t/14585
+---
+
 # Creating volumetric mesh with Segment Mesher - Clever-cli returned non-zero exit status
 
 **Topic ID**: 14585

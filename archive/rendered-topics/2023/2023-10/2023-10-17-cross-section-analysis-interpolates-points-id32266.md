@@ -1,3 +1,10 @@
+---
+topic_id: 32266
+title: "Cross Section Analysis Interpolates Points"
+date: 2023-10-17
+url: https://discourse.slicer.org/t/32266
+---
+
 # Cross section analysis interpolates points
 
 **Topic ID**: 32266

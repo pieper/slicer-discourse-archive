@@ -1,3 +1,10 @@
+---
+topic_id: 1690
+title: "How To Apply Intensity Normalization To Mri Mha With Slicer"
+date: 2017-12-19
+url: https://discourse.slicer.org/t/1690
+---
+
 # How to apply intensity normalization to MRI(.mha) with Slicer
 
 **Topic ID**: 1690

@@ -1,3 +1,10 @@
+---
+topic_id: 1013
+title: "Landmark Registration For Registering Models"
+date: 2017-09-06
+url: https://discourse.slicer.org/t/1013
+---
+
 # Landmark registration for registering models
 
 **Topic ID**: 1013

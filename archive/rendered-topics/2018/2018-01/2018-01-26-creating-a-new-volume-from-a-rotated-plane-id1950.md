@@ -1,3 +1,10 @@
+---
+topic_id: 1950
+title: "Creating A New Volume From A Rotated Plane"
+date: 2018-01-26
+url: https://discourse.slicer.org/t/1950
+---
+
 # Creating a new volume from a rotated plane
 
 **Topic ID**: 1950

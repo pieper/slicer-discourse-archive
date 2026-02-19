@@ -1,3 +1,10 @@
+---
+topic_id: 35134
+title: "Multiple Tubes Segmentation"
+date: 2024-03-27
+url: https://discourse.slicer.org/t/35134
+---
+
 # Multiple Tubes Segmentation
 
 **Topic ID**: 35134

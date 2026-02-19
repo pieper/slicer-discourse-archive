@@ -1,3 +1,10 @@
+---
+topic_id: 14382
+title: "Problem With Bone Texture Analysis Extension"
+date: 2020-11-02
+url: https://discourse.slicer.org/t/14382
+---
+
 # Problem with Bone texture analysis extension
 
 **Topic ID**: 14382

@@ -1,3 +1,10 @@
+---
+topic_id: 42559
+title: "Nvidia Geforce Setting And Relative 3D Slicer Setting"
+date: 2025-04-14
+url: https://discourse.slicer.org/t/42559
+---
+
 # Nvidia GeForce setting (and relative 3d Slicer setting)
 
 **Topic ID**: 42559

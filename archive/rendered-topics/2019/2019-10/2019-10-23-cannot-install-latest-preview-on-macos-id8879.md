@@ -1,3 +1,10 @@
+---
+topic_id: 8879
+title: "Cannot Install Latest Preview On Macos"
+date: 2019-10-23
+url: https://discourse.slicer.org/t/8879
+---
+
 # Cannot install latest Preview on macOS
 
 **Topic ID**: 8879

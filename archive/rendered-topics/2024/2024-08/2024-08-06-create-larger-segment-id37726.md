@@ -1,3 +1,10 @@
+---
+topic_id: 37726
+title: "Create Larger Segment"
+date: 2024-08-06
+url: https://discourse.slicer.org/t/37726
+---
+
 # Create Larger Segment
 
 **Topic ID**: 37726

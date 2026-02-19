@@ -1,3 +1,10 @@
+---
+topic_id: 197
+title: "Build Failure On Ubuntu"
+date: 2017-04-26
+url: https://discourse.slicer.org/t/197
+---
+
 # Build failure on Ubuntu
 
 **Topic ID**: 197

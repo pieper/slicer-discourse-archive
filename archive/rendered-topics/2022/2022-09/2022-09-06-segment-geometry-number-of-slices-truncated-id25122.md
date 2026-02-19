@@ -1,3 +1,10 @@
+---
+topic_id: 25122
+title: "Segment Geometry Number Of Slices Truncated"
+date: 2022-09-06
+url: https://discourse.slicer.org/t/25122
+---
+
 # Segment Geometry - number of slices truncated?
 
 **Topic ID**: 25122

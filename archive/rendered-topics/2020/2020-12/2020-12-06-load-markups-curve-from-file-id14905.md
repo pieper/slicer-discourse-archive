@@ -1,3 +1,10 @@
+---
+topic_id: 14905
+title: "Load Markups Curve From File"
+date: 2020-12-06
+url: https://discourse.slicer.org/t/14905
+---
+
 # Load markups curve from file
 
 **Topic ID**: 14905

@@ -1,3 +1,10 @@
+---
+topic_id: 12331
+title: "Load A Scene From Mnc File"
+date: 2020-07-01
+url: https://discourse.slicer.org/t/12331
+---
+
 # Load a scene from .mnc file
 
 **Topic ID**: 12331

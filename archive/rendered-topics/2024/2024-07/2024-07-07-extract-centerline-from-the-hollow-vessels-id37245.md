@@ -1,3 +1,10 @@
+---
+topic_id: 37245
+title: "Extract Centerline From The Hollow Vessels"
+date: 2024-07-07
+url: https://discourse.slicer.org/t/37245
+---
+
 # Extract centerline from the hollow vessels
 
 **Topic ID**: 37245

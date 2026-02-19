@@ -1,3 +1,10 @@
+---
+topic_id: 29659
+title: "Paintbrush In Segment Editor Not Leaving A Trace Of My Brush"
+date: 2023-05-26
+url: https://discourse.slicer.org/t/29659
+---
+
 # Paintbrush in Segment Editor not leaving a trace of my brush stroke
 
 **Topic ID**: 29659

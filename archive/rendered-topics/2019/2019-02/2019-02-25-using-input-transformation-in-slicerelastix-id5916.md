@@ -1,3 +1,10 @@
+---
+topic_id: 5916
+title: "Using Input Transformation In Slicerelastix"
+date: 2019-02-25
+url: https://discourse.slicer.org/t/5916
+---
+
 # Using input transformation in SlicerElastix
 
 **Topic ID**: 5916

@@ -1,3 +1,10 @@
+---
+topic_id: 20115
+title: "Isodose Generation"
+date: 2021-10-12
+url: https://discourse.slicer.org/t/20115
+---
+
 # Isodose Generation
 
 **Topic ID**: 20115

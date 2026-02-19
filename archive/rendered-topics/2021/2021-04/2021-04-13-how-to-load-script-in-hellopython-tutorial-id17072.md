@@ -1,3 +1,10 @@
+---
+topic_id: 17072
+title: "How To Load Script In Hellopython Tutorial"
+date: 2021-04-13
+url: https://discourse.slicer.org/t/17072
+---
+
 # How to load script in HelloPython tutorial?
 
 **Topic ID**: 17072

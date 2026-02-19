@@ -1,3 +1,10 @@
+---
+topic_id: 18612
+title: "How Do Figure Out Superficial Area Of The Green Part Which I"
+date: 2021-07-10
+url: https://discourse.slicer.org/t/18612
+---
+
 # How do figure out superficial area of the green part which is covered by red?
 
 **Topic ID**: 18612

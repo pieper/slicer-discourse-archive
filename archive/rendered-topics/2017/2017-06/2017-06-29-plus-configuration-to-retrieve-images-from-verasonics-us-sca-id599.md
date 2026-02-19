@@ -1,3 +1,10 @@
+---
+topic_id: 599
+title: "Plus Configuration To Retrieve Images From Verasonics Us Sca"
+date: 2017-06-29
+url: https://discourse.slicer.org/t/599
+---
+
 # Plus configuration to retrieve images from Verasonics US scanner and perform 3D reconstruction
 
 **Topic ID**: 599

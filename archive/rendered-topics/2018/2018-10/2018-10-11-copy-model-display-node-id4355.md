@@ -1,3 +1,10 @@
+---
+topic_id: 4355
+title: "Copy Model Display Node"
+date: 2018-10-11
+url: https://discourse.slicer.org/t/4355
+---
+
 # Copy model display node
 
 **Topic ID**: 4355

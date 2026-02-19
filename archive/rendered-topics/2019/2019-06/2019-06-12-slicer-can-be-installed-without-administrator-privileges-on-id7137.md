@@ -1,3 +1,10 @@
+---
+topic_id: 7137
+title: "Slicer Can Be Installed Without Administrator Privileges On"
+date: 2019-06-12
+url: https://discourse.slicer.org/t/7137
+---
+
 # Slicer can be installed without administrator privileges on Windows
 
 **Topic ID**: 7137

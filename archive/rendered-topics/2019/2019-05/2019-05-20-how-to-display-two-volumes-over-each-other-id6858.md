@@ -1,3 +1,10 @@
+---
+topic_id: 6858
+title: "How To Display Two Volumes Over Each Other"
+date: 2019-05-20
+url: https://discourse.slicer.org/t/6858
+---
+
 # How to display two volumes over each other
 
 **Topic ID**: 6858

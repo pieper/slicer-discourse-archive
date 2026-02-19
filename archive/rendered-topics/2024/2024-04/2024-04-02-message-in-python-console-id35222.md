@@ -1,3 +1,10 @@
+---
+topic_id: 35222
+title: "Message In Python Console"
+date: 2024-04-02
+url: https://discourse.slicer.org/t/35222
+---
+
 # Message in python console
 
 **Topic ID**: 35222

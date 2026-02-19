@@ -1,3 +1,10 @@
+---
+topic_id: 17007
+title: "Sliceview Crash"
+date: 2021-04-08
+url: https://discourse.slicer.org/t/17007
+---
+
 # Sliceview crash?
 
 **Topic ID**: 17007

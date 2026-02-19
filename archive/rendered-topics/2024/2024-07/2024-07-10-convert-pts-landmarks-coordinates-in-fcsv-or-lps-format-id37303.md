@@ -1,3 +1,10 @@
+---
+topic_id: 37303
+title: "Convert Pts Landmarks Coordinates In Fcsv Or Lps Format"
+date: 2024-07-10
+url: https://discourse.slicer.org/t/37303
+---
+
 # Convert .PTS landmarks coordinates in .fcsv or .LPS format
 
 **Topic ID**: 37303

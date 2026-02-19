@@ -1,3 +1,10 @@
+---
+topic_id: 3517
+title: "Slicer Crashes When Applying A Rigid Transform To A Structur"
+date: 2018-07-18
+url: https://discourse.slicer.org/t/3517
+---
+
 # Slicer crashes when applying a rigid transform to a structure set
 
 **Topic ID**: 3517

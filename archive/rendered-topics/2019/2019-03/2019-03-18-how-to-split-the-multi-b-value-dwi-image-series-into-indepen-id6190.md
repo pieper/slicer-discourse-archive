@@ -1,3 +1,10 @@
+---
+topic_id: 6190
+title: "How To Split The Multi B Value Dwi Image Series Into Indepen"
+date: 2019-03-18
+url: https://discourse.slicer.org/t/6190
+---
+
 # How to split the Multi-b value DWI image series into independent images with high b value and low B value
 
 **Topic ID**: 6190

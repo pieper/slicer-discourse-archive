@@ -1,3 +1,10 @@
+---
+topic_id: 1553
+title: "How To Analysis Fmri Data"
+date: 2017-11-29
+url: https://discourse.slicer.org/t/1553
+---
+
 # How to analysis fmri data?
 
 **Topic ID**: 1553

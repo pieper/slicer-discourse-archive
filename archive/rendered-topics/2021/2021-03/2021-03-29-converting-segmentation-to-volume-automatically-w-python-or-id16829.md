@@ -1,3 +1,10 @@
+---
+topic_id: 16829
+title: "Converting Segmentation To Volume Automatically W Python Or"
+date: 2021-03-29
+url: https://discourse.slicer.org/t/16829
+---
+
 # Converting Segmentation to Volume automatically w/ Python or Matlab
 
 **Topic ID**: 16829

@@ -1,3 +1,10 @@
+---
+topic_id: 27994
+title: "Dicom Files Exported From Mimics Do Not Work Properly With 3"
+date: 2023-02-22
+url: https://discourse.slicer.org/t/27994
+---
+
 # Dicom files exported from mimics do not work properly with 3Dslicer
 
 **Topic ID**: 27994

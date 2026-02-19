@@ -1,3 +1,10 @@
+---
+topic_id: 24363
+title: "How To Run A Python File On 3D Slicer And Generate Output"
+date: 2022-07-18
+url: https://discourse.slicer.org/t/24363
+---
+
 # How to run a python file on 3D slicer and generate output
 
 **Topic ID**: 24363

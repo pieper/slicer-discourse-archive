@@ -1,3 +1,10 @@
+---
+topic_id: 9811
+title: "Visible Sides Parameter Of An Imported Model By Code"
+date: 2020-01-14
+url: https://discourse.slicer.org/t/9811
+---
+
 # "Visible Sides" parameter of an imported model by code
 
 **Topic ID**: 9811

@@ -1,3 +1,10 @@
+---
+topic_id: 39786
+title: "Conversion Of Dicom Segmentation Object To Seg Nrrd"
+date: 2024-10-21
+url: https://discourse.slicer.org/t/39786
+---
+
 # Conversion of DICOM Segmentation object to .seg.nrrd
 
 **Topic ID**: 39786

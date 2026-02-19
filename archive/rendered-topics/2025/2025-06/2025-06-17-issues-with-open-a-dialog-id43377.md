@@ -1,3 +1,10 @@
+---
+topic_id: 43377
+title: "Issues With Open A Dialog"
+date: 2025-06-17
+url: https://discourse.slicer.org/t/43377
+---
+
 # Issues with “open a dialog”
 
 **Topic ID**: 43377

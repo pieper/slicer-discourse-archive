@@ -1,3 +1,10 @@
+---
+topic_id: 1167
+title: "Autmatic Airway Segmentation"
+date: 2017-10-03
+url: https://discourse.slicer.org/t/1167
+---
+
 # Autmatic airway segmentation
 
 **Topic ID**: 1167

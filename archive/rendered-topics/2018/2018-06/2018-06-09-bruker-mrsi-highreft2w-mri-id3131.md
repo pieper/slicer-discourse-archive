@@ -1,3 +1,10 @@
+---
+topic_id: 3131
+title: "Bruker Mrsi Highreft2W Mri"
+date: 2018-06-09
+url: https://discourse.slicer.org/t/3131
+---
+
 # Bruker MRSI / HighRefT2w MRI
 
 **Topic ID**: 3131

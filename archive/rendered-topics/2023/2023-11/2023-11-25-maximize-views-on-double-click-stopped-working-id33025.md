@@ -1,3 +1,10 @@
+---
+topic_id: 33025
+title: "Maximize Views On Double Click Stopped Working"
+date: 2023-11-25
+url: https://discourse.slicer.org/t/33025
+---
+
 # Maximize views on double click stopped working
 
 **Topic ID**: 33025

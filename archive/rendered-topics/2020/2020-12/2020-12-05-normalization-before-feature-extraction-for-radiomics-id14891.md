@@ -1,3 +1,10 @@
+---
+topic_id: 14891
+title: "Normalization Before Feature Extraction For Radiomics"
+date: 2020-12-05
+url: https://discourse.slicer.org/t/14891
+---
+
 # Normalization before feature extraction for Radiomics
 
 **Topic ID**: 14891

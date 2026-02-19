@@ -1,3 +1,10 @@
+---
+topic_id: 4401
+title: "Scalar Subtraction"
+date: 2018-10-15
+url: https://discourse.slicer.org/t/4401
+---
+
 # Scalar subtraction
 
 **Topic ID**: 4401

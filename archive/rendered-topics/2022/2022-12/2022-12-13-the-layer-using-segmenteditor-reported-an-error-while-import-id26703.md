@@ -1,3 +1,10 @@
+---
+topic_id: 26703
+title: "The Layer Using Segmenteditor Reported An Error While Import"
+date: 2022-12-13
+url: https://discourse.slicer.org/t/26703
+---
+
 # The layer using segmentEditor reported an error while importing dicom data
 
 **Topic ID**: 26703

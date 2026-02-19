@@ -1,3 +1,10 @@
+---
+topic_id: 22257
+title: "Segmentgeometry Not Able To Create Table On Linux"
+date: 2022-03-02
+url: https://discourse.slicer.org/t/22257
+---
+
 # SegmentGeometry not able to create table on Linux
 
 **Topic ID**: 22257

@@ -1,3 +1,10 @@
+---
+topic_id: 10506
+title: "Problem In Point Orientation"
+date: 2020-03-02
+url: https://discourse.slicer.org/t/10506
+---
+
 # Problem in Point Orientation
 
 **Topic ID**: 10506

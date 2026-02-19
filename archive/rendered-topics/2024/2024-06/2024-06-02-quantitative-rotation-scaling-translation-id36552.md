@@ -1,3 +1,10 @@
+---
+topic_id: 36552
+title: "Quantitative Rotation Scaling Translation"
+date: 2024-06-02
+url: https://discourse.slicer.org/t/36552
+---
+
 # Quantitative Rotation, Scaling, Translation
 
 **Topic ID**: 36552

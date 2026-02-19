@@ -1,3 +1,10 @@
+---
+topic_id: 30529
+title: "Obtaining Surface Area From Volume Shape"
+date: 2023-07-11
+url: https://discourse.slicer.org/t/30529
+---
+
 # Obtaining Surface Area from Volume Shape
 
 **Topic ID**: 30529

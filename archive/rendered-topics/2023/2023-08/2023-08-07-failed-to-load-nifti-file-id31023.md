@@ -1,3 +1,10 @@
+---
+topic_id: 31023
+title: "Failed To Load Nifti File"
+date: 2023-08-07
+url: https://discourse.slicer.org/t/31023
+---
+
 # Failed to load nifti file
 
 **Topic ID**: 31023

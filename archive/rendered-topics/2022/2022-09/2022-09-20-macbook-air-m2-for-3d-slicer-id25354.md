@@ -1,3 +1,10 @@
+---
+topic_id: 25354
+title: "Macbook Air M2 For 3D Slicer"
+date: 2022-09-20
+url: https://discourse.slicer.org/t/25354
+---
+
 # MacBook Air M2 for 3D Slicer
 
 **Topic ID**: 25354

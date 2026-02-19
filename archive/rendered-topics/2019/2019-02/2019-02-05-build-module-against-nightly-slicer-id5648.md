@@ -1,3 +1,10 @@
+---
+topic_id: 5648
+title: "Build Module Against Nightly Slicer"
+date: 2019-02-05
+url: https://discourse.slicer.org/t/5648
+---
+
 # Build module against Nightly Slicer
 
 **Topic ID**: 5648

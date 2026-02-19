@@ -1,3 +1,10 @@
+---
+topic_id: 29939
+title: "Question Extension Wizard With Cmakelist Txt"
+date: 2023-06-09
+url: https://discourse.slicer.org/t/29939
+---
+
 # Question : extension wizard with CmakeList.txt
 
 **Topic ID**: 29939

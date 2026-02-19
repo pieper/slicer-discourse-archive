@@ -1,3 +1,10 @@
+---
+topic_id: 10005
+title: "Rebuild Tvtk In Slicer"
+date: 2020-01-29
+url: https://discourse.slicer.org/t/10005
+---
+
 # Rebuild? TVTK in Slicer
 
 **Topic ID**: 10005

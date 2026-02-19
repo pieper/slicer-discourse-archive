@@ -1,3 +1,10 @@
+---
+topic_id: 41649
+title: "Viewing Dicom Rt Structure Sets Created In Slicer"
+date: 2025-02-12
+url: https://discourse.slicer.org/t/41649
+---
+
 # Viewing DICOM RT Structure sets created in Slicer
 
 **Topic ID**: 41649

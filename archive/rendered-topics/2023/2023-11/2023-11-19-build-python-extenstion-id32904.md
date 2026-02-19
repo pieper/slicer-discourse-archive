@@ -1,3 +1,10 @@
+---
+topic_id: 32904
+title: "Build Python Extenstion"
+date: 2023-11-19
+url: https://discourse.slicer.org/t/32904
+---
+
 # Build Python extenstion
 
 **Topic ID**: 32904

@@ -1,3 +1,10 @@
+---
+topic_id: 37286
+title: "Cant Add Measurements To The Closed Curve"
+date: 2024-07-09
+url: https://discourse.slicer.org/t/37286
+---
+
 # Can't add measurements to the closed curve
 
 **Topic ID**: 37286

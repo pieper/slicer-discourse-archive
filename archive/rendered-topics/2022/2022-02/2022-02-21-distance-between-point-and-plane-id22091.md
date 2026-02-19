@@ -1,3 +1,10 @@
+---
+topic_id: 22091
+title: "Distance Between Point And Plane"
+date: 2022-02-21
+url: https://discourse.slicer.org/t/22091
+---
+
 # Distance between point and plane
 
 **Topic ID**: 22091

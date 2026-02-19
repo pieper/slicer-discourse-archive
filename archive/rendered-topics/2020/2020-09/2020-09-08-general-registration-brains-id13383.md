@@ -1,3 +1,10 @@
+---
+topic_id: 13383
+title: "General Registration Brains"
+date: 2020-09-08
+url: https://discourse.slicer.org/t/13383
+---
+
 # General Registration (BRAINS)
 
 **Topic ID**: 13383

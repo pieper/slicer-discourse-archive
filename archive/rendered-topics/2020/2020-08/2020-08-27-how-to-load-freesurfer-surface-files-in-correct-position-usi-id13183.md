@@ -1,3 +1,10 @@
+---
+topic_id: 13183
+title: "How To Load Freesurfer Surface Files In Correct Position Usi"
+date: 2020-08-27
+url: https://discourse.slicer.org/t/13183
+---
+
 # How to load FreeSurfer surface files in correct position using Python script
 
 **Topic ID**: 13183

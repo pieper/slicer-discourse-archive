@@ -1,3 +1,10 @@
+---
+topic_id: 13527
+title: "Extraction Of Artery Radius Along The Centerline"
+date: 2020-09-17
+url: https://discourse.slicer.org/t/13527
+---
+
 # Extraction of artery radius along the centerline 
 
 **Topic ID**: 13527

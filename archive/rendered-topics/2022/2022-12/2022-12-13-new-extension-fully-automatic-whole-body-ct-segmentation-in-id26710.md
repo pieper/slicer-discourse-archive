@@ -1,3 +1,10 @@
+---
+topic_id: 26710
+title: "New Extension Fully Automatic Whole Body Ct Segmentation In"
+date: 2022-12-13
+url: https://discourse.slicer.org/t/26710
+---
+
 # New extension: Fully automatic whole-body CT segmentation in 2 minutes using TotalSegmentator
 
 **Topic ID**: 26710

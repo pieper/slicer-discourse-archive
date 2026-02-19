@@ -1,3 +1,10 @@
+---
+topic_id: 10356
+title: "3D Label Map And The 3D View Of Segmentation Mismatch"
+date: 2020-02-19
+url: https://discourse.slicer.org/t/10356
+---
+
 # 3D label map and the 3D view of segmentation mismatch
 
 **Topic ID**: 10356

@@ -1,3 +1,10 @@
+---
+topic_id: 8711
+title: "Model Registration Using Singular Points"
+date: 2019-10-08
+url: https://discourse.slicer.org/t/8711
+---
+
 # Model Registration Using Singular Points
 
 **Topic ID**: 8711

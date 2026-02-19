@@ -1,3 +1,10 @@
+---
+topic_id: 29301
+title: "How Do I Create Gridlines In 3D View"
+date: 2023-05-05
+url: https://discourse.slicer.org/t/29301
+---
+
 # How do I create gridlines in 3D view
 
 **Topic ID**: 29301

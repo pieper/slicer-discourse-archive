@@ -1,3 +1,10 @@
+---
+topic_id: 345
+title: "Building Slicer On El Capitan"
+date: 2017-05-19
+url: https://discourse.slicer.org/t/345
+---
+
 # Building Slicer on El Capitan
 
 **Topic ID**: 345

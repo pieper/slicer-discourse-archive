@@ -1,3 +1,10 @@
+---
+topic_id: 23400
+title: "Tutorial On Terminologies"
+date: 2022-05-13
+url: https://discourse.slicer.org/t/23400
+---
+
 # Tutorial on terminologies
 
 **Topic ID**: 23400

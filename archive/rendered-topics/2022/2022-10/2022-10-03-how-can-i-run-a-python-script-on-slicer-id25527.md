@@ -1,3 +1,10 @@
+---
+topic_id: 25527
+title: "How Can I Run A Python Script On Slicer"
+date: 2022-10-03
+url: https://discourse.slicer.org/t/25527
+---
+
 # How can I run a python script on slicer?
 
 **Topic ID**: 25527

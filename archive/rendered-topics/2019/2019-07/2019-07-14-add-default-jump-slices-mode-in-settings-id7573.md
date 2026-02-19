@@ -1,3 +1,10 @@
+---
+topic_id: 7573
+title: "Add Default Jump Slices Mode In Settings"
+date: 2019-07-14
+url: https://discourse.slicer.org/t/7573
+---
+
 # Add default jump slices mode in settings
 
 **Topic ID**: 7573

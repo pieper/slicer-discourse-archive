@@ -1,3 +1,10 @@
+---
+topic_id: 41482
+title: "2025 02 04 Weekly Meeting Back To Regular Time"
+date: 2025-02-04
+url: https://discourse.slicer.org/t/41482
+---
+
 # 2025.02.04 Weekly Meeting - Back to regular time
 
 **Topic ID**: 41482

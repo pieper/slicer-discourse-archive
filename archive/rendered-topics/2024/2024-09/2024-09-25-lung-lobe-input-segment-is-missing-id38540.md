@@ -1,3 +1,10 @@
+---
+topic_id: 38540
+title: "Lung Lobe Input Segment Is Missing"
+date: 2024-09-25
+url: https://discourse.slicer.org/t/38540
+---
+
 # Lung lobe input segment is missing
 
 **Topic ID**: 38540

@@ -1,3 +1,10 @@
+---
+topic_id: 29580
+title: "Dti Maxeigenvalueprojectionx Y Z In Slicer 5 0 3 Or 4 11"
+date: 2023-05-22
+url: https://discourse.slicer.org/t/29580
+---
+
 # DTI maxEigenValueProjectionX ,Y ,Z in Slicer 5.0.3 or (4.11)
 
 **Topic ID**: 29580

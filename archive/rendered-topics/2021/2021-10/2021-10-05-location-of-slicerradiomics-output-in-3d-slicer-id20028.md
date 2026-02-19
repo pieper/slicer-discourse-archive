@@ -1,3 +1,10 @@
+---
+topic_id: 20028
+title: "Location Of Slicerradiomics Output In 3D Slicer"
+date: 2021-10-05
+url: https://discourse.slicer.org/t/20028
+---
+
 # Location of "SlicerRadiomics" output in 3D Slicer
 
 **Topic ID**: 20028

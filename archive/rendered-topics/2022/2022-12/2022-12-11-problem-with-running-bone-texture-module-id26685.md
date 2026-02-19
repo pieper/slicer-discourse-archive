@@ -1,3 +1,10 @@
+---
+topic_id: 26685
+title: "Problem With Running Bone Texture Module"
+date: 2022-12-11
+url: https://discourse.slicer.org/t/26685
+---
+
 # Problem with Running Bone Texture Module
 
 **Topic ID**: 26685

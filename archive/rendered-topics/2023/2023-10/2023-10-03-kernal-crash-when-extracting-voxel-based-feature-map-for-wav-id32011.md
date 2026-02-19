@@ -1,3 +1,10 @@
+---
+topic_id: 32011
+title: "Kernal Crash When Extracting Voxel Based Feature Map For Wav"
+date: 2023-10-03
+url: https://discourse.slicer.org/t/32011
+---
+
 # Kernal Crash when extracting voxel based feature map for Wavelet filtered images
 
 **Topic ID**: 32011

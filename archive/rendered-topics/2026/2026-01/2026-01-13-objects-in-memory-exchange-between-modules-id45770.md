@@ -1,3 +1,10 @@
+---
+topic_id: 45770
+title: "Objects In Memory Exchange Between Modules"
+date: 2026-01-13
+url: https://discourse.slicer.org/t/45770
+---
+
 # Objects in-memory exchange between modules
 
 **Topic ID**: 45770

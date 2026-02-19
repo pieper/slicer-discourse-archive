@@ -1,3 +1,10 @@
+---
+topic_id: 35873
+title: "How Can I Segment The Brain Arteries"
+date: 2024-05-02
+url: https://discourse.slicer.org/t/35873
+---
+
 # How can I segment the brain arteries?
 
 **Topic ID**: 35873

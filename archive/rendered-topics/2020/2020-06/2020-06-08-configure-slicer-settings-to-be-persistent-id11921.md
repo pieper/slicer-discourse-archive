@@ -1,3 +1,10 @@
+---
+topic_id: 11921
+title: "Configure Slicer Settings To Be Persistent"
+date: 2020-06-08
+url: https://discourse.slicer.org/t/11921
+---
+
 # Configure Slicer settings to be persistent
 
 **Topic ID**: 11921

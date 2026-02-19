@@ -1,3 +1,10 @@
+---
+topic_id: 26498
+title: "Composite Transform From Antsr Is Read Incorrectly Into Slic"
+date: 2022-11-29
+url: https://discourse.slicer.org/t/26498
+---
+
 # Composite transform from ANTsR is read incorrectly into Slicer
 
 **Topic ID**: 26498

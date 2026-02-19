@@ -1,3 +1,10 @@
+---
+topic_id: 8799
+title: "Applications For The Winter Slicermorph Workshop Is Now Open"
+date: 2019-10-16
+url: https://discourse.slicer.org/t/8799
+---
+
 # Applications for the winter SlicerMorph workshop is now open
 
 **Topic ID**: 8799

@@ -1,3 +1,10 @@
+---
+topic_id: 43125
+title: "Leg Ct Scan Data Set"
+date: 2025-05-27
+url: https://discourse.slicer.org/t/43125
+---
+
 # Leg CT Scan Data set?
 
 **Topic ID**: 43125

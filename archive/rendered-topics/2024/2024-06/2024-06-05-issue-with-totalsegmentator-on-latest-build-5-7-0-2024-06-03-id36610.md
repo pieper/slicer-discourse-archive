@@ -1,3 +1,10 @@
+---
+topic_id: 36610
+title: "Issue With Totalsegmentator On Latest Build 5 7 0 2024 06 03"
+date: 2024-06-05
+url: https://discourse.slicer.org/t/36610
+---
+
 # Issue with totalSegmentator on latest build (5.7.0-2024-06-03) Window
 
 **Topic ID**: 36610

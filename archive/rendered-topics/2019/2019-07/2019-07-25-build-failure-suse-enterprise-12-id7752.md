@@ -1,3 +1,10 @@
+---
+topic_id: 7752
+title: "Build Failure Suse Enterprise 12"
+date: 2019-07-25
+url: https://discourse.slicer.org/t/7752
+---
+
 # Build Failure Suse Enterprise 12
 
 **Topic ID**: 7752

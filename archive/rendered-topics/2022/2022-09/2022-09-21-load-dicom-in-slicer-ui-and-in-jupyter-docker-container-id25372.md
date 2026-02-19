@@ -1,3 +1,10 @@
+---
+topic_id: 25372
+title: "Load Dicom In Slicer Ui And In Jupyter Docker Container"
+date: 2022-09-21
+url: https://discourse.slicer.org/t/25372
+---
+
 # Load DICOM in Slicer UI and in Jupyter Docker container
 
 **Topic ID**: 25372

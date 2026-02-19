@@ -1,3 +1,10 @@
+---
+topic_id: 29865
+title: "Converting View Coordinates To Image Coordinates"
+date: 2023-06-06
+url: https://discourse.slicer.org/t/29865
+---
+
 # Converting view coordinates to image coordinates
 
 **Topic ID**: 29865

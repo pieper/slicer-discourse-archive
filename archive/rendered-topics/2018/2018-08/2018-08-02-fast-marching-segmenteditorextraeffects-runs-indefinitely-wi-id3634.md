@@ -1,3 +1,10 @@
+---
+topic_id: 3634
+title: "Fast Marching Segmenteditorextraeffects Runs Indefinitely Wi"
+date: 2018-08-02
+url: https://discourse.slicer.org/t/3634
+---
+
 # Fast marching (SegmentEditorExtraEffects) runs indefinitely without result
 
 **Topic ID**: 3634

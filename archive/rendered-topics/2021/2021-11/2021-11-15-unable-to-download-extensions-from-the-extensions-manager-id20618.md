@@ -1,3 +1,10 @@
+---
+topic_id: 20618
+title: "Unable To Download Extensions From The Extensions Manager"
+date: 2021-11-15
+url: https://discourse.slicer.org/t/20618
+---
+
 # Unable to download extensions from the extensions manager
 
 **Topic ID**: 20618

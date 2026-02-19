@@ -1,3 +1,10 @@
+---
+topic_id: 4298
+title: "Merging Overlaying Ct And Mri Dicom Into One File"
+date: 2018-10-05
+url: https://discourse.slicer.org/t/4298
+---
+
 # Merging/Overlaying CT and MRI DICOM into one file
 
 **Topic ID**: 4298

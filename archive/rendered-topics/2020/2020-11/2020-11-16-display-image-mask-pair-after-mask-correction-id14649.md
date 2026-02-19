@@ -1,3 +1,10 @@
+---
+topic_id: 14649
+title: "Display Image Mask Pair After Mask Correction"
+date: 2020-11-16
+url: https://discourse.slicer.org/t/14649
+---
+
 # Display image/mask pair after mask correction?
 
 **Topic ID**: 14649

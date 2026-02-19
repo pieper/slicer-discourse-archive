@@ -1,3 +1,10 @@
+---
+topic_id: 8409
+title: "Subprocess Using Conda Python"
+date: 2019-09-12
+url: https://discourse.slicer.org/t/8409
+---
+
 # Subprocess using conda python
 
 **Topic ID**: 8409

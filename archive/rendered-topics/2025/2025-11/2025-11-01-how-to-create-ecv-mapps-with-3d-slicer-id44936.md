@@ -1,3 +1,10 @@
+---
+topic_id: 44936
+title: "How To Create Ecv Mapps With 3D Slicer"
+date: 2025-11-01
+url: https://discourse.slicer.org/t/44936
+---
+
 # How to create ECV mapps with 3D slicer 
 
 **Topic ID**: 44936

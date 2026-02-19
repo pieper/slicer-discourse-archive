@@ -1,3 +1,10 @@
+---
+topic_id: 10134
+title: "Using Surface Cut With Curves"
+date: 2020-02-06
+url: https://discourse.slicer.org/t/10134
+---
+
 # Using surface cut with curves
 
 **Topic ID**: 10134

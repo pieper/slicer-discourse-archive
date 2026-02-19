@@ -1,3 +1,10 @@
+---
+topic_id: 44215
+title: "Strange Issue In Slicer 5 9 Revision 33881 That Set Qmrmlsub"
+date: 2025-08-27
+url: https://discourse.slicer.org/t/44215
+---
+
 # Strange issue in Slicer 5.9 (revision 33881) that set qMRMLSubjectHierarchyComboBox to None
 
 **Topic ID**: 44215

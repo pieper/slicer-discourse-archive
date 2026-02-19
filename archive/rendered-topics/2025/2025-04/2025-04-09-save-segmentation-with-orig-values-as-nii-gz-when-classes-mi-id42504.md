@@ -1,3 +1,10 @@
+---
+topic_id: 42504
+title: "Save Segmentation With Orig Values As Nii Gz When Classes Mi"
+date: 2025-04-09
+url: https://discourse.slicer.org/t/42504
+---
+
 # Save segmentation with orig values as nii.gz when classes missing
 
 **Topic ID**: 42504

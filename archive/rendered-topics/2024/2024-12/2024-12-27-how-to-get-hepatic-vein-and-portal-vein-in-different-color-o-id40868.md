@@ -1,3 +1,10 @@
+---
+topic_id: 40868
+title: "How To Get Hepatic Vein And Portal Vein In Different Color O"
+date: 2024-12-27
+url: https://discourse.slicer.org/t/40868
+---
+
 # How to get hepatic vein and portal vein in different color or in different segment?
 
 **Topic ID**: 40868

@@ -1,3 +1,10 @@
+---
+topic_id: 28292
+title: "Using Segment Statistics Outside Of 3D Slicer"
+date: 2023-03-10
+url: https://discourse.slicer.org/t/28292
+---
+
 # Using segment statistics outside of 3D Slicer
 
 **Topic ID**: 28292

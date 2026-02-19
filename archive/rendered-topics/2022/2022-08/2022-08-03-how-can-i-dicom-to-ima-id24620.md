@@ -1,3 +1,10 @@
+---
+topic_id: 24620
+title: "How Can I Dicom To Ima"
+date: 2022-08-03
+url: https://discourse.slicer.org/t/24620
+---
+
 # How can I "dicom to .ima"
 
 **Topic ID**: 24620

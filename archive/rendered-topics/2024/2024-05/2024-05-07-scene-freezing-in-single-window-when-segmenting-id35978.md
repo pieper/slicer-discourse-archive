@@ -1,3 +1,10 @@
+---
+topic_id: 35978
+title: "Scene Freezing In Single Window When Segmenting"
+date: 2024-05-07
+url: https://discourse.slicer.org/t/35978
+---
+
 # Scene freezing in single window when segmenting
 
 **Topic ID**: 35978

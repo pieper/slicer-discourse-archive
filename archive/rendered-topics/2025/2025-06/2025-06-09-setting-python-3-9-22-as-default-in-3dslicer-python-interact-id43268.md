@@ -1,3 +1,10 @@
+---
+topic_id: 43268
+title: "Setting Python 3 9 22 As Default In 3Dslicer Python Interact"
+date: 2025-06-09
+url: https://discourse.slicer.org/t/43268
+---
+
 # Setting Python 3.9.22 as Default in 3DSlicer Python Interactor
 
 **Topic ID**: 43268

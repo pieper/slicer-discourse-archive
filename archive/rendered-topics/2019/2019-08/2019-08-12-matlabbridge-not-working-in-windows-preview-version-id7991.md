@@ -1,3 +1,10 @@
+---
+topic_id: 7991
+title: "Matlabbridge Not Working In Windows Preview Version"
+date: 2019-08-12
+url: https://discourse.slicer.org/t/7991
+---
+
 # MatlabBridge not working in Windows Preview version
 
 **Topic ID**: 7991

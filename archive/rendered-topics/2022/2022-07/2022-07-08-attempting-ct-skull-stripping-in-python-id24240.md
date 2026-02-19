@@ -1,3 +1,10 @@
+---
+topic_id: 24240
+title: "Attempting Ct Skull Stripping In Python"
+date: 2022-07-08
+url: https://discourse.slicer.org/t/24240
+---
+
 # Attempting CT skull stripping in python
 
 **Topic ID**: 24240

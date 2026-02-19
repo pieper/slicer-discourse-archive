@@ -1,3 +1,10 @@
+---
+topic_id: 5485
+title: "Disable Editing Of Posts For New Users"
+date: 2019-01-23
+url: https://discourse.slicer.org/t/5485
+---
+
 # Disable editing of posts for new users
 
 **Topic ID**: 5485

@@ -1,3 +1,10 @@
+---
+topic_id: 25860
+title: "Move The Segmentation"
+date: 2022-10-24
+url: https://discourse.slicer.org/t/25860
+---
+
 # Move the segmentation
 
 **Topic ID**: 25860

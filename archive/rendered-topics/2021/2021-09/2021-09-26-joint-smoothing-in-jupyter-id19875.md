@@ -1,3 +1,10 @@
+---
+topic_id: 19875
+title: "Joint Smoothing In Jupyter"
+date: 2021-09-26
+url: https://discourse.slicer.org/t/19875
+---
+
 # Joint smoothing in jupyter
 
 **Topic ID**: 19875

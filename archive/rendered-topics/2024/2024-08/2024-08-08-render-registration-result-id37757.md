@@ -1,3 +1,10 @@
+---
+topic_id: 37757
+title: "Render Registration Result"
+date: 2024-08-08
+url: https://discourse.slicer.org/t/37757
+---
+
 # Render registration result
 
 **Topic ID**: 37757

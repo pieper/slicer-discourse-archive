@@ -1,3 +1,10 @@
+---
+topic_id: 44432
+title: "Creating Macos Installer For Custom Slicer App"
+date: 2025-09-10
+url: https://discourse.slicer.org/t/44432
+---
+
 # Creating macOS Installer for Custom Slicer App
 
 **Topic ID**: 44432

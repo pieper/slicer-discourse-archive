@@ -1,3 +1,10 @@
+---
+topic_id: 14243
+title: "Changing Intensity"
+date: 2020-10-25
+url: https://discourse.slicer.org/t/14243
+---
+
 # Changing Intensity
 
 **Topic ID**: 14243

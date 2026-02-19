@@ -1,3 +1,10 @@
+---
+topic_id: 40268
+title: "Remove Small Islands Voxel Size"
+date: 2024-11-19
+url: https://discourse.slicer.org/t/40268
+---
+
 # Remove small islands voxel size
 
 **Topic ID**: 40268

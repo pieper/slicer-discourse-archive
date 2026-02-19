@@ -1,3 +1,10 @@
+---
+topic_id: 36802
+title: "Dentalsegmentator Error Modulenotfounderror No Module Named"
+date: 2024-06-15
+url: https://discourse.slicer.org/t/36802
+---
+
 # DentalSegmentator error: "ModuleNotFoundError: No module named ‘threadpoolctl’"
 
 **Topic ID**: 36802

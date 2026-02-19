@@ -1,3 +1,10 @@
+---
+topic_id: 2920
+title: "2D Views And 3D Model Transformation"
+date: 2018-05-24
+url: https://discourse.slicer.org/t/2920
+---
+
 # 2D views and 3D model transformation
 
 **Topic ID**: 2920

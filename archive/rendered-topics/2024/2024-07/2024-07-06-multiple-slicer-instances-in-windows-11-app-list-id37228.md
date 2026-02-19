@@ -1,3 +1,10 @@
+---
+topic_id: 37228
+title: "Multiple Slicer Instances In Windows 11 App List"
+date: 2024-07-06
+url: https://discourse.slicer.org/t/37228
+---
+
 # Multiple Slicer instances in Windows 11 App list
 
 **Topic ID**: 37228

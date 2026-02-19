@@ -1,3 +1,10 @@
+---
+topic_id: 31050
+title: "Model Registration Thin Plate Spline B Spline"
+date: 2023-08-08
+url: https://discourse.slicer.org/t/31050
+---
+
 # Model Registration - Thin plate spline / B-spline
 
 **Topic ID**: 31050

@@ -1,3 +1,10 @@
+---
+topic_id: 23077
+title: "Scene Loading Line And Node Error"
+date: 2022-04-21
+url: https://discourse.slicer.org/t/23077
+---
+
 # Scene Loading Line and Node Error
 
 **Topic ID**: 23077

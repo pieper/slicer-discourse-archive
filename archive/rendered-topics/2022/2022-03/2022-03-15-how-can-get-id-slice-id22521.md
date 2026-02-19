@@ -1,3 +1,10 @@
+---
+topic_id: 22521
+title: "How Can Get Id Slice"
+date: 2022-03-15
+url: https://discourse.slicer.org/t/22521
+---
+
 # How can get id slice?
 
 **Topic ID**: 22521

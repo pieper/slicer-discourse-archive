@@ -1,3 +1,10 @@
+---
+topic_id: 21838
+title: "Qt Scripted Modules Are Not Recognising Using Python Interac"
+date: 2022-02-07
+url: https://discourse.slicer.org/t/21838
+---
+
 # Qt-scripted-modules are not recognising using python interacter in slicer
 
 **Topic ID**: 21838

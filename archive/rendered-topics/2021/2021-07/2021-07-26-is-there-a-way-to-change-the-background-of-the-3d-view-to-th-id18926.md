@@ -1,3 +1,10 @@
+---
+topic_id: 18926
+title: "Is There A Way To Change The Background Of The 3D View To Th"
+date: 2021-07-26
+url: https://discourse.slicer.org/t/18926
+---
+
 # Is there a way to change the background of the 3D view to the dynamic content of the computer camera?
 
 **Topic ID**: 18926

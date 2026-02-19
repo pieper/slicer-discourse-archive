@@ -1,3 +1,10 @@
+---
+topic_id: 10316
+title: "Simple Solution For Mri Navigation"
+date: 2020-02-17
+url: https://discourse.slicer.org/t/10316
+---
+
 # Simple solution for MRI navigation
 
 **Topic ID**: 10316

@@ -1,3 +1,10 @@
+---
+topic_id: 25526
+title: "How To Use Deepinfer Module In 3Dslicer"
+date: 2022-10-03
+url: https://discourse.slicer.org/t/25526
+---
+
 # how to use “”deepinfer module” in 3dslicer
 
 **Topic ID**: 25526

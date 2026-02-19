@@ -1,3 +1,10 @@
+---
+topic_id: 299
+title: "About Using The Code Of Exporting A Model With Colors To Ble"
+date: 2017-05-11
+url: https://discourse.slicer.org/t/299
+---
+
 # About using the code of exporting a model with colors to Blender
 
 **Topic ID**: 299

@@ -1,3 +1,10 @@
+---
+topic_id: 24731
+title: "Segment Mesher Module In Slicer 5 0 3"
+date: 2022-08-12
+url: https://discourse.slicer.org/t/24731
+---
+
 # Segment Mesher Module in Slicer 5.0.3
 
 **Topic ID**: 24731

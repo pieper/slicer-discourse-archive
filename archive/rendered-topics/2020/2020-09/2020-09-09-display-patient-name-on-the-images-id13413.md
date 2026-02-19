@@ -1,3 +1,10 @@
+---
+topic_id: 13413
+title: "Display Patient Name On The Images"
+date: 2020-09-09
+url: https://discourse.slicer.org/t/13413
+---
+
 # Display Patient Name on the Images
 
 **Topic ID**: 13413

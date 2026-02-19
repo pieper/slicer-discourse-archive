@@ -1,3 +1,10 @@
+---
+topic_id: 28018
+title: "How Do I Know That Measurement Tools Markups Give Me The Cor"
+date: 2023-02-23
+url: https://discourse.slicer.org/t/28018
+---
+
 # How do I know that measurement tools (markups) give me the correct value?
 
 **Topic ID**: 28018

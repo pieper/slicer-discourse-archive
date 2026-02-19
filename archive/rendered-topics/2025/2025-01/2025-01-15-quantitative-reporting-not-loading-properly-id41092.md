@@ -1,3 +1,10 @@
+---
+topic_id: 41092
+title: "Quantitative Reporting Not Loading Properly"
+date: 2025-01-15
+url: https://discourse.slicer.org/t/41092
+---
+
 # Quantitative reporting not loading properly
 
 **Topic ID**: 41092

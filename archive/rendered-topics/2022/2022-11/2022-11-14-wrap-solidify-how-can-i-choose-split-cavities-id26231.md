@@ -1,3 +1,10 @@
+---
+topic_id: 26231
+title: "Wrap Solidify How Can I Choose Split Cavities"
+date: 2022-11-14
+url: https://discourse.slicer.org/t/26231
+---
+
 # Wrap Solidify: How can I choose "split cavities"?
 
 **Topic ID**: 26231

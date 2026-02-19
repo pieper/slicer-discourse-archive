@@ -1,3 +1,10 @@
+---
+topic_id: 27482
+title: "Changed The Format Resolution Of Volume Now I Cant See My Se"
+date: 2023-01-26
+url: https://discourse.slicer.org/t/27482
+---
+
 # Changed the format /resolution of volume, now I cant see my segmentations
 
 **Topic ID**: 27482

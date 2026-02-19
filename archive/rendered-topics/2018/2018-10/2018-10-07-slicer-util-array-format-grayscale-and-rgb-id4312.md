@@ -1,3 +1,10 @@
+---
+topic_id: 4312
+title: "Slicer Util Array Format Grayscale And Rgb"
+date: 2018-10-07
+url: https://discourse.slicer.org/t/4312
+---
+
 # Slicer.util.array: format, grayscale and RGB
 
 **Topic ID**: 4312

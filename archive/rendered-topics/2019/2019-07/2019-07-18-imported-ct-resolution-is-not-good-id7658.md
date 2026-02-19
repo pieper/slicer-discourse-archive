@@ -1,3 +1,10 @@
+---
+topic_id: 7658
+title: "Imported Ct Resolution Is Not Good"
+date: 2019-07-18
+url: https://discourse.slicer.org/t/7658
+---
+
 # imported ct resolution is not good
 
 **Topic ID**: 7658

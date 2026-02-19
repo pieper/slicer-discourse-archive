@@ -1,3 +1,10 @@
+---
+topic_id: 26049
+title: "Calculating Rmse In Landmarks Registration"
+date: 2022-11-03
+url: https://discourse.slicer.org/t/26049
+---
+
 # Calculating RMSE in Landmarks Registration
 
 **Topic ID**: 26049

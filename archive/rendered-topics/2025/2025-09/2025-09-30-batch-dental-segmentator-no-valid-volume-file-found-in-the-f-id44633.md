@@ -1,3 +1,10 @@
+---
+topic_id: 44633
+title: "Batch Dental Segmentator No Valid Volume File Found In The F"
+date: 2025-09-30
+url: https://discourse.slicer.org/t/44633
+---
+
 # Batch dental segmentator: No valid volume file found in the folder
 
 **Topic ID**: 44633

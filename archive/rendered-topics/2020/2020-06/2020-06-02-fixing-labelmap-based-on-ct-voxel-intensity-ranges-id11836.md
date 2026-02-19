@@ -1,3 +1,10 @@
+---
+topic_id: 11836
+title: "Fixing Labelmap Based On Ct Voxel Intensity Ranges"
+date: 2020-06-02
+url: https://discourse.slicer.org/t/11836
+---
+
 # Fixing labelmap based on CT voxel intensity ranges
 
 **Topic ID**: 11836

@@ -1,3 +1,10 @@
+---
+topic_id: 38460
+title: "How To Install Python Dev"
+date: 2024-09-20
+url: https://discourse.slicer.org/t/38460
+---
+
 # How to install python_dev
 
 **Topic ID**: 38460

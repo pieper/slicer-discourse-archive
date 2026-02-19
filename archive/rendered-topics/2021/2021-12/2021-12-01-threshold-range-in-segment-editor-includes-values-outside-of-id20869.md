@@ -1,3 +1,10 @@
+---
+topic_id: 20869
+title: "Threshold Range In Segment Editor Includes Values Outside Of"
+date: 2021-12-01
+url: https://discourse.slicer.org/t/20869
+---
+
 # Threshold range in Segment Editor includes values outside of range
 
 **Topic ID**: 20869

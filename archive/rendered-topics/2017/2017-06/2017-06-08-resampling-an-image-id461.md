@@ -1,3 +1,10 @@
+---
+topic_id: 461
+title: "Resampling An Image"
+date: 2017-06-08
+url: https://discourse.slicer.org/t/461
+---
+
 # Resampling an Image
 
 **Topic ID**: 461

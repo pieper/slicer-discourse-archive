@@ -1,3 +1,10 @@
+---
+topic_id: 26899
+title: "Getting Started With Python For Creating Custom Modules"
+date: 2022-12-23
+url: https://discourse.slicer.org/t/26899
+---
+
 # Getting started with python for creating custom modules
 
 **Topic ID**: 26899

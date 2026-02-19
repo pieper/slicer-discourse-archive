@@ -1,3 +1,10 @@
+---
+topic_id: 20825
+title: "Segmentation Size Measurements Craniocaudal Length And Max D"
+date: 2021-11-29
+url: https://discourse.slicer.org/t/20825
+---
+
 # Segmentation size measurements (craniocaudal length and max diameter) to table
 
 **Topic ID**: 20825

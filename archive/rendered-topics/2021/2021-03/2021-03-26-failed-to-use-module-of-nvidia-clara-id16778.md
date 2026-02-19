@@ -1,3 +1,10 @@
+---
+topic_id: 16778
+title: "Failed To Use Module Of Nvidia Clara"
+date: 2021-03-26
+url: https://discourse.slicer.org/t/16778
+---
+
 # Failed to use module of NVidia clara
 
 **Topic ID**: 16778

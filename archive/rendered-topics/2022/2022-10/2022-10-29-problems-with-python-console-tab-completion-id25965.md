@@ -1,3 +1,10 @@
+---
+topic_id: 25965
+title: "Problems With Python Console Tab Completion"
+date: 2022-10-29
+url: https://discourse.slicer.org/t/25965
+---
+
 # Problems with Python console tab completion
 
 **Topic ID**: 25965

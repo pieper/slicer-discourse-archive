@@ -1,3 +1,10 @@
+---
+topic_id: 2669
+title: "Project Week 28 Preparatory Videoconfereces"
+date: 2018-04-24
+url: https://discourse.slicer.org/t/2669
+---
+
 # Project Week 28 Preparatory videoconfereces
 
 **Topic ID**: 2669

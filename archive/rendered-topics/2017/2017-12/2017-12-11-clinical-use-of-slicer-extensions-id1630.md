@@ -1,3 +1,10 @@
+---
+topic_id: 1630
+title: "Clinical Use Of Slicer Extensions"
+date: 2017-12-11
+url: https://discourse.slicer.org/t/1630
+---
+
 # Clinical use of Slicer extensions?
 
 **Topic ID**: 1630

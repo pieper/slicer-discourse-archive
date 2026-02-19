@@ -1,3 +1,10 @@
+---
+topic_id: 21348
+title: "How To Segment Gray White And Tumor Region Using Nvidia Clar"
+date: 2022-01-06
+url: https://discourse.slicer.org/t/21348
+---
+
 # How to segment gray, white and tumor region using NVIDIA clara.
 
 **Topic ID**: 21348

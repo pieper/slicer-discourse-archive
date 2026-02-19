@@ -1,3 +1,10 @@
+---
+topic_id: 23559
+title: "Does Slicer Support Ge Voldicom Format Data"
+date: 2022-05-24
+url: https://discourse.slicer.org/t/23559
+---
+
 # Does Slicer support GE VolDICOM format data?
 
 **Topic ID**: 23559

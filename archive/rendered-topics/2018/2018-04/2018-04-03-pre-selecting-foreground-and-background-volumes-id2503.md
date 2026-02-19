@@ -1,3 +1,10 @@
+---
+topic_id: 2503
+title: "Pre Selecting Foreground And Background Volumes"
+date: 2018-04-03
+url: https://discourse.slicer.org/t/2503
+---
+
 # Pre-selecting Foreground and Background Volumes
 
 **Topic ID**: 2503

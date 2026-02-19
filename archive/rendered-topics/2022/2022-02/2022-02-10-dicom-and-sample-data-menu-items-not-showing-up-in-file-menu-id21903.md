@@ -1,3 +1,10 @@
+---
+topic_id: 21903
+title: "Dicom And Sample Data Menu Items Not Showing Up In File Menu"
+date: 2022-02-10
+url: https://discourse.slicer.org/t/21903
+---
+
 # DICOM and Sample Data menu items not showing up in file menu in translated application (Chinese)
 
 **Topic ID**: 21903

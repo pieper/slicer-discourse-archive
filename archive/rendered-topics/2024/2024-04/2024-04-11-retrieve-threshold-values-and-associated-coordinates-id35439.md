@@ -1,3 +1,10 @@
+---
+topic_id: 35439
+title: "Retrieve Threshold Values And Associated Coordinates"
+date: 2024-04-11
+url: https://discourse.slicer.org/t/35439
+---
+
 # Retrieve threshold values and associated coordinates
 
 **Topic ID**: 35439

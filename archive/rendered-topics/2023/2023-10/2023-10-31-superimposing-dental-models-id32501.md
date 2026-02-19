@@ -1,3 +1,10 @@
+---
+topic_id: 32501
+title: "Superimposing Dental Models"
+date: 2023-10-31
+url: https://discourse.slicer.org/t/32501
+---
+
 # Superimposing Dental Models
 
 **Topic ID**: 32501

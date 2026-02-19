@@ -1,3 +1,10 @@
+---
+topic_id: 39855
+title: "Converting Stl File To Tiff Stack"
+date: 2024-10-25
+url: https://discourse.slicer.org/t/39855
+---
+
 # Converting STL file to TIFF stack
 
 **Topic ID**: 39855

@@ -1,3 +1,10 @@
+---
+topic_id: 31163
+title: "Import Dicom To Dicom Database Problem"
+date: 2023-08-16
+url: https://discourse.slicer.org/t/31163
+---
+
 # Import dicom to dicom database problem
 
 **Topic ID**: 31163

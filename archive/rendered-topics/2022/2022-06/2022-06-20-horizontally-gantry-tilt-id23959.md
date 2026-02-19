@@ -1,3 +1,10 @@
+---
+topic_id: 23959
+title: "Horizontally Gantry Tilt"
+date: 2022-06-20
+url: https://discourse.slicer.org/t/23959
+---
+
 # Horizontally Gantry Tilt
 
 **Topic ID**: 23959

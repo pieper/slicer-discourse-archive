@@ -1,3 +1,10 @@
+---
+topic_id: 11361
+title: "Ct Scans Into Jpg Images"
+date: 2020-04-30
+url: https://discourse.slicer.org/t/11361
+---
+
 # CT scans into jpg images
 
 **Topic ID**: 11361

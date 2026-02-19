@@ -1,3 +1,10 @@
+---
+topic_id: 11242
+title: "Wrap Solidify Segment Editor Effect For Filling Smaller Hole"
+date: 2020-04-22
+url: https://discourse.slicer.org/t/11242
+---
+
 # Wrap Solidify segment editor effect for filling smaller holes
 
 **Topic ID**: 11242

@@ -1,3 +1,10 @@
+---
+topic_id: 22013
+title: "Clear Mask Popup In Segmentation"
+date: 2022-02-17
+url: https://discourse.slicer.org/t/22013
+---
+
 # Clear mask popup in segmentation
 
 **Topic ID**: 22013

@@ -1,3 +1,10 @@
+---
+topic_id: 38453
+title: "Totalsegmentator Failed To Install Required Packages Win10"
+date: 2024-09-20
+url: https://discourse.slicer.org/t/38453
+---
+
 # TotalSegmentator: Failed to install required packages (win10)
 
 **Topic ID**: 38453

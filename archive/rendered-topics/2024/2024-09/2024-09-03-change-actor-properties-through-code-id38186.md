@@ -1,3 +1,10 @@
+---
+topic_id: 38186
+title: "Change Actor Properties Through Code"
+date: 2024-09-03
+url: https://discourse.slicer.org/t/38186
+---
+
 # Change actor properties through code?
 
 **Topic ID**: 38186

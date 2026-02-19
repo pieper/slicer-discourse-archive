@@ -1,3 +1,10 @@
+---
+topic_id: 9195
+title: "Screen Capture Of Chart"
+date: 2019-11-18
+url: https://discourse.slicer.org/t/9195
+---
+
 # Screen capture of chart
 
 **Topic ID**: 9195

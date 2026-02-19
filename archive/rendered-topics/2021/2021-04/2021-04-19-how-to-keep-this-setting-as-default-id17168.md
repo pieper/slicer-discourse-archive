@@ -1,3 +1,10 @@
+---
+topic_id: 17168
+title: "How To Keep This Setting As Default"
+date: 2021-04-19
+url: https://discourse.slicer.org/t/17168
+---
+
 # How to keep this setting as default
 
 **Topic ID**: 17168

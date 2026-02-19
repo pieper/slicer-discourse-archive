@@ -1,3 +1,10 @@
+---
+topic_id: 28592
+title: "How To Export Volume Rendering From Slicer To Hololens 2"
+date: 2023-03-27
+url: https://discourse.slicer.org/t/28592
+---
+
 # How to export volume rendering from slicer to Hololens 2
 
 **Topic ID**: 28592

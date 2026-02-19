@@ -1,3 +1,10 @@
+---
+topic_id: 34052
+title: "Adjusting Segment Threshold"
+date: 2024-01-30
+url: https://discourse.slicer.org/t/34052
+---
+
 # Adjusting Segment Threshold
 
 **Topic ID**: 34052

@@ -1,3 +1,10 @@
+---
+topic_id: 14427
+title: "How Can I Find A Voxel Value From A Ct"
+date: 2020-11-04
+url: https://discourse.slicer.org/t/14427
+---
+
 # How can I find a voxel value from a CT
 
 **Topic ID**: 14427

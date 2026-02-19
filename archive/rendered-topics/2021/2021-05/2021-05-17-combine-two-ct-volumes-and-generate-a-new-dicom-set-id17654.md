@@ -1,3 +1,10 @@
+---
+topic_id: 17654
+title: "Combine Two Ct Volumes And Generate A New Dicom Set"
+date: 2021-05-17
+url: https://discourse.slicer.org/t/17654
+---
+
 # Combine two CT volumes and generate a new dicom set
 
 **Topic ID**: 17654

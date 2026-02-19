@@ -1,3 +1,10 @@
+---
+topic_id: 36460
+title: "Layout Manager Cannot Get The Right Qmrmlslicewidget"
+date: 2024-05-29
+url: https://discourse.slicer.org/t/36460
+---
+
 # Layout Manager cannot get the right qMRMLSliceWidget
 
 **Topic ID**: 36460

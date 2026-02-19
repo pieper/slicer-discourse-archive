@@ -1,3 +1,10 @@
+---
+topic_id: 6622
+title: "Nightly Buildly Install Dicom Importer Window Not Opening"
+date: 2019-04-26
+url: https://discourse.slicer.org/t/6622
+---
+
 # Nightly Buildly Install- Dicom Importer Window not opening
 
 **Topic ID**: 6622

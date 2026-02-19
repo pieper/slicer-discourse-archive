@@ -1,3 +1,10 @@
+---
+topic_id: 19664
+title: "Atlas To Dicom Convertion"
+date: 2021-09-14
+url: https://discourse.slicer.org/t/19664
+---
+
 # Atlas to DICOM convertion
 
 **Topic ID**: 19664

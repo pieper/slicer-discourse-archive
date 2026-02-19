@@ -1,3 +1,10 @@
+---
+topic_id: 4857
+title: "There Is One Problem When I Convert The Data From Nifti To N"
+date: 2018-11-23
+url: https://discourse.slicer.org/t/4857
+---
+
 # There is one problem when i convert the data from nifti to nrrd
 
 **Topic ID**: 4857

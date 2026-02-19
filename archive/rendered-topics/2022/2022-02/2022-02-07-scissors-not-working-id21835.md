@@ -1,3 +1,10 @@
+---
+topic_id: 21835
+title: "Scissors Not Working"
+date: 2022-02-07
+url: https://discourse.slicer.org/t/21835
+---
+
 # Scissors Not Working
 
 **Topic ID**: 21835

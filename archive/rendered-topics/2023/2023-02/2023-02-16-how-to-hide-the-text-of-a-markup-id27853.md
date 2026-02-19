@@ -1,3 +1,10 @@
+---
+topic_id: 27853
+title: "How To Hide The Text Of A Markup"
+date: 2023-02-16
+url: https://discourse.slicer.org/t/27853
+---
+
 # How to hide the text of a markup
 
 **Topic ID**: 27853

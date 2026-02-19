@@ -1,3 +1,10 @@
+---
+topic_id: 9021
+title: "Export 3D Distance Information Form Model To Model Distance"
+date: 2019-11-05
+url: https://discourse.slicer.org/t/9021
+---
+
 # Export 3D distance information form model to model distance 
 
 **Topic ID**: 9021

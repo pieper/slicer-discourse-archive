@@ -1,3 +1,10 @@
+---
+topic_id: 25098
+title: "Embedding Url In Mrml Format File"
+date: 2022-09-05
+url: https://discourse.slicer.org/t/25098
+---
+
 # Embedding URL in MRML format file
 
 **Topic ID**: 25098

@@ -1,3 +1,10 @@
+---
+topic_id: 24101
+title: "Calculating Variability Using Vmtksurfacedistance"
+date: 2022-06-29
+url: https://discourse.slicer.org/t/24101
+---
+
 # Calculating variability using vmtksurfacedistance
 
 **Topic ID**: 24101

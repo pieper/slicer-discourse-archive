@@ -1,3 +1,10 @@
+---
+topic_id: 19977
+title: "Editing Of Segmentation On Slices Of Arbitrary Orientation"
+date: 2021-10-03
+url: https://discourse.slicer.org/t/19977
+---
+
 # Editing of segmentation on slices of arbitrary orientation
 
 **Topic ID**: 19977

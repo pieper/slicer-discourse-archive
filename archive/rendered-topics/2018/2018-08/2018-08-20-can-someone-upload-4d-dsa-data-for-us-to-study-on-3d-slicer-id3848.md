@@ -1,3 +1,10 @@
+---
+topic_id: 3848
+title: "Can Someone Upload 4D Dsa Data For Us To Study On 3D Slicer"
+date: 2018-08-20
+url: https://discourse.slicer.org/t/3848
+---
+
 # Can someone upload 4d-dsa data for us to study on 3d slicer?
 
 **Topic ID**: 3848

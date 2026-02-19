@@ -1,3 +1,10 @@
+---
+topic_id: 13246
+title: "How To Hold The Imagewidget Display"
+date: 2020-08-31
+url: https://discourse.slicer.org/t/13246
+---
+
 # How to hold the imageWidget display
 
 **Topic ID**: 13246

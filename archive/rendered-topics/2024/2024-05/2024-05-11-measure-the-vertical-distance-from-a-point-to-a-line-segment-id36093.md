@@ -1,3 +1,10 @@
+---
+topic_id: 36093
+title: "Measure The Vertical Distance From A Point To A Line Segment"
+date: 2024-05-11
+url: https://discourse.slicer.org/t/36093
+---
+
 # Measure the vertical distance from a point to a line segment
 
 **Topic ID**: 36093

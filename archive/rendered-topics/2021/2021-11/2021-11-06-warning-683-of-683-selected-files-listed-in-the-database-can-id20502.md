@@ -1,3 +1,10 @@
+---
+topic_id: 20502
+title: "Warning 683 Of 683 Selected Files Listed In The Database Can"
+date: 2021-11-06
+url: https://discourse.slicer.org/t/20502
+---
+
 # Warning: 683 of 683 selected files listed in the database cannot be found on disk. see python console for error message Is there anything I can do?
 
 **Topic ID**: 20502

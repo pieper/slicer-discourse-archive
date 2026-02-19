@@ -1,3 +1,10 @@
+---
+topic_id: 24638
+title: "Calling Transform Function In Python Module"
+date: 2022-08-04
+url: https://discourse.slicer.org/t/24638
+---
+
 # Calling transform function in python module
 
 **Topic ID**: 24638

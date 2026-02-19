@@ -1,3 +1,10 @@
+---
+topic_id: 16621
+title: "Occluded Visibility Cannot Be Set For Markups Labels"
+date: 2021-03-18
+url: https://discourse.slicer.org/t/16621
+---
+
 # Occluded visibility cannot be set for Markups labels
 
 **Topic ID**: 16621

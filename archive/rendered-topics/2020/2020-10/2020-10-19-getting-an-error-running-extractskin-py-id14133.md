@@ -1,3 +1,10 @@
+---
+topic_id: 14133
+title: "Getting An Error Running Extractskin Py"
+date: 2020-10-19
+url: https://discourse.slicer.org/t/14133
+---
+
 # Getting an error running ExtractSkin.py
 
 **Topic ID**: 14133

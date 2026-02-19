@@ -1,3 +1,10 @@
+---
+topic_id: 1810
+title: "Conversion Of Dicom To Stl Using 3D Slicer"
+date: 2018-01-10
+url: https://discourse.slicer.org/t/1810
+---
+
 # Conversion of DICOM to STL using 3D Slicer
 
 **Topic ID**: 1810

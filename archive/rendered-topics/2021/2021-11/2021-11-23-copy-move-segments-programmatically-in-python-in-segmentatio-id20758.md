@@ -1,3 +1,10 @@
+---
+topic_id: 20758
+title: "Copy Move Segments Programmatically In Python In Segmentatio"
+date: 2021-11-23
+url: https://discourse.slicer.org/t/20758
+---
+
 # Copy/move segments programmatically in Python in Segmentations module
 
 **Topic ID**: 20758

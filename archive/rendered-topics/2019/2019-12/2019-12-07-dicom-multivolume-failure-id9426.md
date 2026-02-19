@@ -1,3 +1,10 @@
+---
+topic_id: 9426
+title: "Dicom Multivolume Failure"
+date: 2019-12-07
+url: https://discourse.slicer.org/t/9426
+---
+
 # Dicom multivolume failure
 
 **Topic ID**: 9426

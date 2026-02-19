@@ -1,3 +1,10 @@
+---
+topic_id: 14235
+title: "Can Not Launch Nighty Build In Ubuntu"
+date: 2020-10-25
+url: https://discourse.slicer.org/t/14235
+---
+
 # Can not launch nighty build in ubuntu
 
 **Topic ID**: 14235

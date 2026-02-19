@@ -1,3 +1,10 @@
+---
+topic_id: 2430
+title: "Observe Gui Table Updates In Python"
+date: 2018-03-26
+url: https://discourse.slicer.org/t/2430
+---
+
 # Observe GUI table updates in Python
 
 **Topic ID**: 2430

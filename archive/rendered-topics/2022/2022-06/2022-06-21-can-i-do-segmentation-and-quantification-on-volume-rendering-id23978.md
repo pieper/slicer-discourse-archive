@@ -1,3 +1,10 @@
+---
+topic_id: 23978
+title: "Can I Do Segmentation And Quantification On Volume Rendering"
+date: 2022-06-21
+url: https://discourse.slicer.org/t/23978
+---
+
 # Can I do segmentation and quantification on volume-rendering image?
 
 **Topic ID**: 23978

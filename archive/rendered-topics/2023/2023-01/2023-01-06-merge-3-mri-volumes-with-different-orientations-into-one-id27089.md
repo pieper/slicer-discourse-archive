@@ -1,3 +1,10 @@
+---
+topic_id: 27089
+title: "Merge 3 Mri Volumes With Different Orientations Into One"
+date: 2023-01-06
+url: https://discourse.slicer.org/t/27089
+---
+
 # Merge 3 MRI volumes with different orientations into one
 
 **Topic ID**: 27089

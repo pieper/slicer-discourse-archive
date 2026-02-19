@@ -1,3 +1,10 @@
+---
+topic_id: 5039
+title: "Observe Annotation Ruler Size Change"
+date: 2018-12-11
+url: https://discourse.slicer.org/t/5039
+---
+
 # Observe annotation ruler size change
 
 **Topic ID**: 5039

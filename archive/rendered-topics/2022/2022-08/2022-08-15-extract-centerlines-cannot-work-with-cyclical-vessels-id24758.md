@@ -1,3 +1,10 @@
+---
+topic_id: 24758
+title: "Extract Centerlines Cannot Work With Cyclical Vessels"
+date: 2022-08-15
+url: https://discourse.slicer.org/t/24758
+---
+
 # Extract Centerlines cannot work with cyclical vessels?
 
 **Topic ID**: 24758

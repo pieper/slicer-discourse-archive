@@ -1,3 +1,10 @@
+---
+topic_id: 12590
+title: "Slicer Opening Screen Error Horizontal Green Lines"
+date: 2020-07-17
+url: https://discourse.slicer.org/t/12590
+---
+
 # Slicer opening screen error horizontal green lines
 
 **Topic ID**: 12590

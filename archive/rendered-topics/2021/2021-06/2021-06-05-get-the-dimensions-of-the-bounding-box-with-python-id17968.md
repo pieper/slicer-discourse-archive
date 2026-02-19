@@ -1,3 +1,10 @@
+---
+topic_id: 17968
+title: "Get The Dimensions Of The Bounding Box With Python"
+date: 2021-06-05
+url: https://discourse.slicer.org/t/17968
+---
+
 # Get the dimensions of the bounding box with python
 
 **Topic ID**: 17968

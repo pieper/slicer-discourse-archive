@@ -1,3 +1,10 @@
+---
+topic_id: 35022
+title: "Using Drrgeneratormodule In A Python Script"
+date: 2024-03-22
+url: https://discourse.slicer.org/t/35022
+---
+
 # Using DRRGeneratorModule in a Python script
 
 **Topic ID**: 35022

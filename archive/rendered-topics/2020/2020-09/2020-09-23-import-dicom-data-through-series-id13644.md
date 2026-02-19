@@ -1,3 +1,10 @@
+---
+topic_id: 13644
+title: "Import Dicom Data Through Series"
+date: 2020-09-23
+url: https://discourse.slicer.org/t/13644
+---
+
 # Import DICOM Data through series
 
 **Topic ID**: 13644

@@ -1,3 +1,10 @@
+---
+topic_id: 15981
+title: "How Can I Make A Plane From 3 Midsagittal Fiducials"
+date: 2021-02-13
+url: https://discourse.slicer.org/t/15981
+---
+
 # How can I make a plane from 3 midsagittal fiducials?
 
 **Topic ID**: 15981

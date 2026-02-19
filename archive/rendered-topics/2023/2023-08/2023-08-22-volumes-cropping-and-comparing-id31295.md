@@ -1,3 +1,10 @@
+---
+topic_id: 31295
+title: "Volumes Cropping And Comparing"
+date: 2023-08-22
+url: https://discourse.slicer.org/t/31295
+---
+
 # Volumes cropping and comparing
 
 **Topic ID**: 31295

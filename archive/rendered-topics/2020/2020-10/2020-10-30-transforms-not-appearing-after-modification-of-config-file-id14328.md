@@ -1,3 +1,10 @@
+---
+topic_id: 14328
+title: "Transforms Not Appearing After Modification Of Config File"
+date: 2020-10-30
+url: https://discourse.slicer.org/t/14328
+---
+
 # Transforms not appearing after modification of config file
 
 **Topic ID**: 14328

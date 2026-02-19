@@ -1,3 +1,10 @@
+---
+topic_id: 20960
+title: "Display Text Near Points"
+date: 2021-12-08
+url: https://discourse.slicer.org/t/20960
+---
+
 # Display text near points
 
 **Topic ID**: 20960

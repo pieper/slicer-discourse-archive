@@ -1,3 +1,10 @@
+---
+topic_id: 24612
+title: "Segmentation Scheme"
+date: 2022-08-03
+url: https://discourse.slicer.org/t/24612
+---
+
 # Segmentation scheme
 
 **Topic ID**: 24612

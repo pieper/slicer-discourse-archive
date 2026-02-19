@@ -1,3 +1,10 @@
+---
+topic_id: 24520
+title: "Gpa 3D Model And Landmarks Not Lining Up"
+date: 2022-07-27
+url: https://discourse.slicer.org/t/24520
+---
+
 # GPA 3D model and Landmarks not lining up
 
 **Topic ID**: 24520

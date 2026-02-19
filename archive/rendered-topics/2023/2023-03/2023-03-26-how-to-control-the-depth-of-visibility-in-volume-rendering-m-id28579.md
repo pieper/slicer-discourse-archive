@@ -1,3 +1,10 @@
+---
+topic_id: 28579
+title: "How To Control The Depth Of Visibility In Volume Rendering M"
+date: 2023-03-26
+url: https://discourse.slicer.org/t/28579
+---
+
 # How to control the depth of visibility in volume rendering mode?
 
 **Topic ID**: 28579

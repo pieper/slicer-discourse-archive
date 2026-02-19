@@ -1,3 +1,10 @@
+---
+topic_id: 29048
+title: "Unable To Run Placesemilmpatches Due To Missing Function"
+date: 2023-04-21
+url: https://discourse.slicer.org/t/29048
+---
+
 # Unable to run PlaceSemiLMPatches due to missing function?
 
 **Topic ID**: 29048

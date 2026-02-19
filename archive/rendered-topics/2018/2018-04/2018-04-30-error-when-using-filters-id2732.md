@@ -1,3 +1,10 @@
+---
+topic_id: 2732
+title: "Error When Using Filters"
+date: 2018-04-30
+url: https://discourse.slicer.org/t/2732
+---
+
 # Error when using filters
 
 **Topic ID**: 2732

@@ -1,3 +1,10 @@
+---
+topic_id: 17118
+title: "Ctkpathlineedit Cant Find Setcurrentfileextension Function"
+date: 2021-04-16
+url: https://discourse.slicer.org/t/17118
+---
+
 # ctkPathLineEdit can't find setCurrentFileExtension function?
 
 **Topic ID**: 17118

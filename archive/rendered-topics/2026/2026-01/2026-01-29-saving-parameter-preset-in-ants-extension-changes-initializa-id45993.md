@@ -1,3 +1,10 @@
+---
+topic_id: 45993
+title: "Saving Parameter Preset In Ants Extension Changes Initializa"
+date: 2026-01-29
+url: https://discourse.slicer.org/t/45993
+---
+
 # Saving parameter preset in ANTs extension changes initialization value
 
 **Topic ID**: 45993

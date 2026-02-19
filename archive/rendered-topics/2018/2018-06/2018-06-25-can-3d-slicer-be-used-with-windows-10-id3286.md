@@ -1,3 +1,10 @@
+---
+topic_id: 3286
+title: "Can 3D Slicer Be Used With Windows 10"
+date: 2018-06-25
+url: https://discourse.slicer.org/t/3286
+---
+
 # Can 3D slicer be used with Windows 10
 
 **Topic ID**: 3286

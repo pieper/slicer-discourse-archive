@@ -1,3 +1,10 @@
+---
+topic_id: 16650
+title: "How To Update Python Version From 3 67 To 3 8"
+date: 2021-03-19
+url: https://discourse.slicer.org/t/16650
+---
+
 # How to update Python version from 3.67 to 3.8
 
 **Topic ID**: 16650

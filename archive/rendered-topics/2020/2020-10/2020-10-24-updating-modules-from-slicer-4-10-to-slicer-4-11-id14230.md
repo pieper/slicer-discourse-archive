@@ -1,3 +1,10 @@
+---
+topic_id: 14230
+title: "Updating Modules From Slicer 4 10 To Slicer 4 11"
+date: 2020-10-24
+url: https://discourse.slicer.org/t/14230
+---
+
 # Updating modules from Slicer-4.10 to Slicer-4.11
 
 **Topic ID**: 14230

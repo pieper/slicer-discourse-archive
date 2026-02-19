@@ -1,3 +1,10 @@
+---
+topic_id: 11941
+title: "Can Not Find Modules In Slicer"
+date: 2020-06-09
+url: https://discourse.slicer.org/t/11941
+---
+
 # Can not find modules in Slicer
 
 **Topic ID**: 11941

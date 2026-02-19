@@ -1,3 +1,10 @@
+---
+topic_id: 1099
+title: "Slice By Slice Statistics"
+date: 2017-09-21
+url: https://discourse.slicer.org/t/1099
+---
+
 # Slice-by-slice statistics
 
 **Topic ID**: 1099

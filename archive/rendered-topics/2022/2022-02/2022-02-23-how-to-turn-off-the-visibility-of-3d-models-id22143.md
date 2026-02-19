@@ -1,3 +1,10 @@
+---
+topic_id: 22143
+title: "How To Turn Off The Visibility Of 3D Models"
+date: 2022-02-23
+url: https://discourse.slicer.org/t/22143
+---
+
 # How to turn off the visibility of 3D models
 
 **Topic ID**: 22143

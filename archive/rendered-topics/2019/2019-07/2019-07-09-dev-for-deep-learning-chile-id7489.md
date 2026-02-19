@@ -1,3 +1,10 @@
+---
+topic_id: 7489
+title: "Dev For Deep Learning Chile"
+date: 2019-07-09
+url: https://discourse.slicer.org/t/7489
+---
+
 # Dev for deep learning, Chile.
 
 **Topic ID**: 7489

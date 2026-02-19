@@ -1,3 +1,10 @@
+---
+topic_id: 21272
+title: "Python Console How To Do These Special Tasks"
+date: 2021-12-30
+url: https://discourse.slicer.org/t/21272
+---
+
 # Python console : how to do these special tasks?
 
 **Topic ID**: 21272

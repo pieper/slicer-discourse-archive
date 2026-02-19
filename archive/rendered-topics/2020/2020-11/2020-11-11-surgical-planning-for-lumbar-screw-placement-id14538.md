@@ -1,3 +1,10 @@
+---
+topic_id: 14538
+title: "Surgical Planning For Lumbar Screw Placement"
+date: 2020-11-11
+url: https://discourse.slicer.org/t/14538
+---
+
 # Surgical planning for lumbar screw placement.
 
 **Topic ID**: 14538

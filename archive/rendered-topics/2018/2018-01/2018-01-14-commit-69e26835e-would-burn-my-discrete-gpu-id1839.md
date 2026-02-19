@@ -1,3 +1,10 @@
+---
+topic_id: 1839
+title: "Commit 69E26835E Would Burn My Discrete Gpu"
+date: 2018-01-14
+url: https://discourse.slicer.org/t/1839
+---
+
 # Commit 69e26835e would burn my discrete GPU!
 
 **Topic ID**: 1839

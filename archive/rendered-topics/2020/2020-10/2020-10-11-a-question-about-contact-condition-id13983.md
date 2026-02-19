@@ -1,3 +1,10 @@
+---
+topic_id: 13983
+title: "A Question About Contact Condition"
+date: 2020-10-11
+url: https://discourse.slicer.org/t/13983
+---
+
 # A question about contact condition
 
 **Topic ID**: 13983

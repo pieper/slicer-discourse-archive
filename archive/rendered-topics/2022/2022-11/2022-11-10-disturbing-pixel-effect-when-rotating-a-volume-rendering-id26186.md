@@ -1,3 +1,10 @@
+---
+topic_id: 26186
+title: "Disturbing Pixel Effect When Rotating A Volume Rendering"
+date: 2022-11-10
+url: https://discourse.slicer.org/t/26186
+---
+
 # Disturbing pixel effect when rotating a volume rendering
 
 **Topic ID**: 26186

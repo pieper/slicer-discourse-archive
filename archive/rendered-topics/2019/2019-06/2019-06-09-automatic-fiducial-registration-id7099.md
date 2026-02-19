@@ -1,3 +1,10 @@
+---
+topic_id: 7099
+title: "Automatic Fiducial Registration"
+date: 2019-06-09
+url: https://discourse.slicer.org/t/7099
+---
+
 # Automatic Fiducial Registration
 
 **Topic ID**: 7099

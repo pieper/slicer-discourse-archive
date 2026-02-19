@@ -1,3 +1,10 @@
+---
+topic_id: 3476
+title: "Pig Spinal Vertebrae Segmentation"
+date: 2018-07-12
+url: https://discourse.slicer.org/t/3476
+---
+
 # Pig Spinal Vertebrae Segmentation
 
 **Topic ID**: 3476

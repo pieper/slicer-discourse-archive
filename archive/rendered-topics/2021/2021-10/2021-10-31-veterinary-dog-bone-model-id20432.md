@@ -1,3 +1,10 @@
+---
+topic_id: 20432
+title: "Veterinary Dog Bone Model"
+date: 2021-10-31
+url: https://discourse.slicer.org/t/20432
+---
+
 # veterinary dog bone model
 
 **Topic ID**: 20432

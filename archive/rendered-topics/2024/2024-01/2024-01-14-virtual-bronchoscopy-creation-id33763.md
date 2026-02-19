@@ -1,3 +1,10 @@
+---
+topic_id: 33763
+title: "Virtual Bronchoscopy Creation"
+date: 2024-01-14
+url: https://discourse.slicer.org/t/33763
+---
+
 # Virtual Bronchoscopy Creation
 
 **Topic ID**: 33763

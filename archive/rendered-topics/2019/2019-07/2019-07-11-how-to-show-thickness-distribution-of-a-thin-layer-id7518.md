@@ -1,3 +1,10 @@
+---
+topic_id: 7518
+title: "How To Show Thickness Distribution Of A Thin Layer"
+date: 2019-07-11
+url: https://discourse.slicer.org/t/7518
+---
+
 # How to show thickness distribution of a thin layer
 
 **Topic ID**: 7518

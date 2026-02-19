@@ -1,3 +1,10 @@
+---
+topic_id: 23602
+title: "Normalisation Or Scaling With Spharm"
+date: 2022-05-26
+url: https://discourse.slicer.org/t/23602
+---
+
 # Normalisation or scaling with SPHARM
 
 **Topic ID**: 23602

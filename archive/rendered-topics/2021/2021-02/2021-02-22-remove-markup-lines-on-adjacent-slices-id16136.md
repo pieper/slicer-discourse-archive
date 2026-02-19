@@ -1,3 +1,10 @@
+---
+topic_id: 16136
+title: "Remove Markup Lines On Adjacent Slices"
+date: 2021-02-22
+url: https://discourse.slicer.org/t/16136
+---
+
 # Remove markup lines on adjacent slices
 
 **Topic ID**: 16136

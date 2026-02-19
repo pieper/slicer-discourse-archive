@@ -1,3 +1,10 @@
+---
+topic_id: 35746
+title: "Move A Qt Dockwidget"
+date: 2024-04-26
+url: https://discourse.slicer.org/t/35746
+---
+
 # Move a Qt Dockwidget
 
 **Topic ID**: 35746

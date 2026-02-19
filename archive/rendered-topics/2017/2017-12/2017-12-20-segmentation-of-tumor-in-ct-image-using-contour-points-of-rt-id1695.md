@@ -1,3 +1,10 @@
+---
+topic_id: 1695
+title: "Segmentation Of Tumor In Ct Image Using Contour Points Of Rt"
+date: 2017-12-20
+url: https://discourse.slicer.org/t/1695
+---
+
 # Segmentation of tumor in CT image using contour points of RT Struct
 
 **Topic ID**: 1695

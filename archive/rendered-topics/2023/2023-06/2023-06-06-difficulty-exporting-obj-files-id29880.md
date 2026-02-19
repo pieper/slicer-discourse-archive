@@ -1,3 +1,10 @@
+---
+topic_id: 29880
+title: "Difficulty Exporting Obj Files"
+date: 2023-06-06
+url: https://discourse.slicer.org/t/29880
+---
+
 # Difficulty exporting .obj files
 
 **Topic ID**: 29880

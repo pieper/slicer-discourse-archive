@@ -1,3 +1,10 @@
+---
+topic_id: 8217
+title: "How Should I Pass Arguments When Running Slicer In Batch Mod"
+date: 2019-08-28
+url: https://discourse.slicer.org/t/8217
+---
+
 # How should I pass arguments when running Slicer in batch mode?
 
 **Topic ID**: 8217

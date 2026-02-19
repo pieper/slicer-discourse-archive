@@ -1,3 +1,10 @@
+---
+topic_id: 33278
+title: "In Slicer 5 4 Where To Check The Reformatlogics New Method R"
+date: 2023-12-07
+url: https://discourse.slicer.org/t/33278
+---
+
 # In Slicer 5.4, where to check the reformatLogic's new method RotateSlice()'s parameters?
 
 **Topic ID**: 33278

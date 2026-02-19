@@ -1,3 +1,10 @@
+---
+topic_id: 20569
+title: "Scoliosis Module"
+date: 2021-11-10
+url: https://discourse.slicer.org/t/20569
+---
+
 # Scoliosis Module
 
 **Topic ID**: 20569

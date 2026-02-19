@@ -1,3 +1,10 @@
+---
+topic_id: 37018
+title: "Increase Width Of Segments After Totalsegmentor Autosegmenta"
+date: 2024-06-25
+url: https://discourse.slicer.org/t/37018
+---
+
 # Increase Width of segments after TotalSegmentor autosegmentation
 
 **Topic ID**: 37018

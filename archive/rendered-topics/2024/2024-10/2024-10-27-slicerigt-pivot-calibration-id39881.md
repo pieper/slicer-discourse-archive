@@ -1,3 +1,10 @@
+---
+topic_id: 39881
+title: "Slicerigt Pivot Calibration"
+date: 2024-10-27
+url: https://discourse.slicer.org/t/39881
+---
+
 # SlicerIGT pivot calibration
 
 **Topic ID**: 39881

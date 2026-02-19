@@ -1,3 +1,10 @@
+---
+topic_id: 37911
+title: "Seeking Advice On Creating A 3D Mask With Colored Cell Annot"
+date: 2024-08-16
+url: https://discourse.slicer.org/t/37911
+---
+
 # Seeking Advice on Creating a 3D Mask with Colored Cell Annotations for Stardist 3D Training
 
 **Topic ID**: 37911

@@ -1,3 +1,10 @@
+---
+topic_id: 16059
+title: "How To Describe The Position Relationship Between Lung Tumor"
+date: 2021-02-18
+url: https://discourse.slicer.org/t/16059
+---
+
 # How to describe the position relationship between lung tumor and trachea
 
 **Topic ID**: 16059

@@ -1,3 +1,10 @@
+---
+topic_id: 37556
+title: "Elastix Registration With Masking"
+date: 2024-07-25
+url: https://discourse.slicer.org/t/37556
+---
+
 # Elastix registration with Masking
 
 **Topic ID**: 37556

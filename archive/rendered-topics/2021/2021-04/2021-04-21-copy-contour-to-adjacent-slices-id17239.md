@@ -1,3 +1,10 @@
+---
+topic_id: 17239
+title: "Copy Contour To Adjacent Slices"
+date: 2021-04-21
+url: https://discourse.slicer.org/t/17239
+---
+
 # Copy contour to adjacent slices
 
 **Topic ID**: 17239

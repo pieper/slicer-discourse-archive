@@ -1,3 +1,10 @@
+---
+topic_id: 36829
+title: "Automated Pyradiomics Feature Work With Dicom And Dicom Rt S"
+date: 2024-06-17
+url: https://discourse.slicer.org/t/36829
+---
+
 # Automated PyRadiomics Feature work with DICOM and DICOM RT structure
 
 **Topic ID**: 36829

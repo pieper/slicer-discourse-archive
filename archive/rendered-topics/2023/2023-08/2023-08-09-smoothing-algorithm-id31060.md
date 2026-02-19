@@ -1,3 +1,10 @@
+---
+topic_id: 31060
+title: "Smoothing Algorithm"
+date: 2023-08-09
+url: https://discourse.slicer.org/t/31060
+---
+
 # Smoothing algorithm 
 
 **Topic ID**: 31060

@@ -1,3 +1,10 @@
+---
+topic_id: 17363
+title: "Export Markups Data Distance Angle"
+date: 2021-04-28
+url: https://discourse.slicer.org/t/17363
+---
+
 # Export Markups Data (Distance, Angle)?
 
 **Topic ID**: 17363

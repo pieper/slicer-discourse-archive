@@ -1,3 +1,10 @@
+---
+topic_id: 14449
+title: "How To Document Control Command Modifier For Keyboard Shortc"
+date: 2020-11-05
+url: https://discourse.slicer.org/t/14449
+---
+
 # How to document Control/Command modifier for keyboard shortcuts?
 
 **Topic ID**: 14449

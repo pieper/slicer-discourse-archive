@@ -1,3 +1,10 @@
+---
+topic_id: 40597
+title: "Slicer Invitation Modeling And Simulation In Medicine Worksh"
+date: 2024-12-09
+url: https://discourse.slicer.org/t/40597
+---
+
 # Slicer invitation: Modeling and Simulation in Medicine Workshop at ANNSIM 2025
 
 **Topic ID**: 40597

@@ -1,3 +1,10 @@
+---
+topic_id: 9896
+title: "Extension Brainstructuressegmenter"
+date: 2020-01-21
+url: https://discourse.slicer.org/t/9896
+---
+
 # Extension BrainStructuresSegmenter
 
 **Topic ID**: 9896

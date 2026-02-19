@@ -1,3 +1,10 @@
+---
+topic_id: 181
+title: "Paint Effect Util With Loadable Module"
+date: 2017-04-24
+url: https://discourse.slicer.org/t/181
+---
+
 # Paint Effect Util with loadable module
 
 **Topic ID**: 181

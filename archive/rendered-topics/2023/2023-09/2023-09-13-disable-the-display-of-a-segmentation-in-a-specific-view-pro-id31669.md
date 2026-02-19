@@ -1,3 +1,10 @@
+---
+topic_id: 31669
+title: "Disable The Display Of A Segmentation In A Specific View Pro"
+date: 2023-09-13
+url: https://discourse.slicer.org/t/31669
+---
+
 # Disable the display of a segmentation in a specific view programmatically.
 
 **Topic ID**: 31669

@@ -1,3 +1,10 @@
+---
+topic_id: 12704
+title: "Update Model Node Color Once The Node Is Selected"
+date: 2020-07-23
+url: https://discourse.slicer.org/t/12704
+---
+
 # Update model node color once the node is selected
 
 **Topic ID**: 12704

@@ -1,3 +1,10 @@
+---
+topic_id: 24671
+title: "I Cant Find One Preset Called Ct Mr Based Pseudo Ct Pelvis P"
+date: 2022-08-08
+url: https://discourse.slicer.org/t/24671
+---
+
 # I can't find one preset called "CT/MR-based pseudo-CT(pelvis prostate)" in elastix
 
 **Topic ID**: 24671

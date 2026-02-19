@@ -1,3 +1,10 @@
+---
+topic_id: 9237
+title: "Broken Link For Uploaded File On Slicer Wiki"
+date: 2019-11-20
+url: https://discourse.slicer.org/t/9237
+---
+
 # Broken link for uploaded file on Slicer wiki
 
 **Topic ID**: 9237

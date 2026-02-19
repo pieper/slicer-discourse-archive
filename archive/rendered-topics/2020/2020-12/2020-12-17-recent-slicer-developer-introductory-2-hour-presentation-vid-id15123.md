@@ -1,3 +1,10 @@
+---
+topic_id: 15123
+title: "Recent Slicer Developer Introductory 2 Hour Presentation Vid"
+date: 2020-12-17
+url: https://discourse.slicer.org/t/15123
+---
+
 # Recent slicer developer introductory 2 hour presentation video
 
 **Topic ID**: 15123

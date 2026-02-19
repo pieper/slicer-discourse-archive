@@ -1,3 +1,10 @@
+---
+topic_id: 44720
+title: "Optitrack Trio V120 With Plusserver"
+date: 2025-10-10
+url: https://discourse.slicer.org/t/44720
+---
+
 # Optitrack Trio V120 with PlusServer
 
 **Topic ID**: 44720

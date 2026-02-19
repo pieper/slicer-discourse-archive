@@ -1,3 +1,10 @@
+---
+topic_id: 28246
+title: "Invert Transformation Python Command"
+date: 2023-03-09
+url: https://discourse.slicer.org/t/28246
+---
+
 # Invert transformation Python Command?
 
 **Topic ID**: 28246

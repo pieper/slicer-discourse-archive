@@ -1,3 +1,10 @@
+---
+topic_id: 19394
+title: "Getselectionnode Getactivevolumeid Always Returns None"
+date: 2021-08-28
+url: https://discourse.slicer.org/t/19394
+---
+
 # `GetSelectionNode().GetActiveVolumeID()` always returns None
 
 **Topic ID**: 19394

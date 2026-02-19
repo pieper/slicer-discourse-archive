@@ -1,3 +1,10 @@
+---
+topic_id: 30169
+title: "Slowly Rendering Widget From 3D Slicer In Wasm"
+date: 2023-06-21
+url: https://discourse.slicer.org/t/30169
+---
+
 # Slowly rendering widget from 3D Slicer in wasm
 
 **Topic ID**: 30169

@@ -1,3 +1,10 @@
+---
+topic_id: 28178
+title: "Msb8066 Building Error While Building Slicer Latest Version"
+date: 2023-03-05
+url: https://discourse.slicer.org/t/28178
+---
+
 # MSB8066 Building Error while building slicer latest version in Win11 22h2
 
 **Topic ID**: 28178

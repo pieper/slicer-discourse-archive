@@ -1,3 +1,10 @@
+---
+topic_id: 8547
+title: "Showviewcontrollers False Removes Annotations"
+date: 2019-09-24
+url: https://discourse.slicer.org/t/8547
+---
+
 # showViewControllers(False) removes annotations
 
 **Topic ID**: 8547

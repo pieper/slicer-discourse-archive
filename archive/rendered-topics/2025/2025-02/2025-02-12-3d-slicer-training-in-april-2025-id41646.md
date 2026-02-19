@@ -1,3 +1,10 @@
+---
+topic_id: 41646
+title: "3D Slicer Training In April 2025"
+date: 2025-02-12
+url: https://discourse.slicer.org/t/41646
+---
+
 # 3D Slicer Training in April 2025
 
 **Topic ID**: 41646

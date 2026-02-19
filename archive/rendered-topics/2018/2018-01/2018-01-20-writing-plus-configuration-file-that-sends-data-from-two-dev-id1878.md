@@ -1,3 +1,10 @@
+---
+topic_id: 1878
+title: "Writing Plus Configuration File That Sends Data From Two Dev"
+date: 2018-01-20
+url: https://discourse.slicer.org/t/1878
+---
+
 # Writing Plus configuration file that sends data from two devices
 
 **Topic ID**: 1878

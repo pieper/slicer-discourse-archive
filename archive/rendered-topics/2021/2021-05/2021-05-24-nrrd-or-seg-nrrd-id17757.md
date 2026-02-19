@@ -1,3 +1,10 @@
+---
+topic_id: 17757
+title: "Nrrd Or Seg Nrrd"
+date: 2021-05-24
+url: https://discourse.slicer.org/t/17757
+---
+
 # NRRD or SEG.NRRD 
 
 **Topic ID**: 17757

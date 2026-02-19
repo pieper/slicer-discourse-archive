@@ -1,3 +1,10 @@
+---
+topic_id: 11202
+title: "Coloring Surfaces In Slicer"
+date: 2020-04-20
+url: https://discourse.slicer.org/t/11202
+---
+
 # Coloring surfaces in slicer
 
 **Topic ID**: 11202

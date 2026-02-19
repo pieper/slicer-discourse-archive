@@ -1,3 +1,10 @@
+---
+topic_id: 14308
+title: "Online Talks Women In 3D Printing For Biomedical Application"
+date: 2020-10-29
+url: https://discourse.slicer.org/t/14308
+---
+
 # Online Talks - Women in 3D Printing for biomedical applications: Oct 29, 2020
 
 **Topic ID**: 14308

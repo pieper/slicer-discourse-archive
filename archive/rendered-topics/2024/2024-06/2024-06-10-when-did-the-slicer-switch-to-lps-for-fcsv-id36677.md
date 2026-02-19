@@ -1,3 +1,10 @@
+---
+topic_id: 36677
+title: "When Did The Slicer Switch To Lps For Fcsv"
+date: 2024-06-10
+url: https://discourse.slicer.org/t/36677
+---
+
 # When did the Slicer switch to LPS for fcsv?
 
 **Topic ID**: 36677

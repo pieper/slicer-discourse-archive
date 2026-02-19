@@ -1,3 +1,10 @@
+---
+topic_id: 43029
+title: "Error Writing Mrml And Mrb Files On Mapped Drive"
+date: 2025-05-21
+url: https://discourse.slicer.org/t/43029
+---
+
 # Error writing MRML and MRB files on mapped drive
 
 **Topic ID**: 43029

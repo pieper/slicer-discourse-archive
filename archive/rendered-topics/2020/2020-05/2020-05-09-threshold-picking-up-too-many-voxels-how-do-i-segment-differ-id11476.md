@@ -1,3 +1,10 @@
+---
+topic_id: 11476
+title: "Threshold Picking Up Too Many Voxels How Do I Segment Differ"
+date: 2020-05-09
+url: https://discourse.slicer.org/t/11476
+---
+
 # Threshold picking up too many voxels. How do I segment different areas with same voxels without having to manually paint it? 
 
 **Topic ID**: 11476

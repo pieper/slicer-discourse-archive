@@ -1,3 +1,10 @@
+---
+topic_id: 34595
+title: "Reconstruct 4D Cine Mri From Different Groups"
+date: 2024-02-28
+url: https://discourse.slicer.org/t/34595
+---
+
 # Reconstruct 4D cine-MRI from different groups
 
 **Topic ID**: 34595

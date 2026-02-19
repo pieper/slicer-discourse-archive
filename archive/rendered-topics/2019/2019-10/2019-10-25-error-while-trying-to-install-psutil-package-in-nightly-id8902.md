@@ -1,3 +1,10 @@
+---
+topic_id: 8902
+title: "Error While Trying To Install Psutil Package In Nightly"
+date: 2019-10-25
+url: https://discourse.slicer.org/t/8902
+---
+
 # Error while trying to install psutil package in nightly
 
 **Topic ID**: 8902

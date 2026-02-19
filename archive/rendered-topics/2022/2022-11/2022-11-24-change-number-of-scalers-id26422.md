@@ -1,3 +1,10 @@
+---
+topic_id: 26422
+title: "Change Number Of Scalers"
+date: 2022-11-24
+url: https://discourse.slicer.org/t/26422
+---
+
 # Change number of scalers
 
 **Topic ID**: 26422

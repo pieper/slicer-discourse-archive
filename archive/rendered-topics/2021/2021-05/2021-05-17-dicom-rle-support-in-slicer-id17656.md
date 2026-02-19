@@ -1,3 +1,10 @@
+---
+topic_id: 17656
+title: "Dicom Rle Support In Slicer"
+date: 2021-05-17
+url: https://discourse.slicer.org/t/17656
+---
+
 # DICOM RLE Support in Slicer
 
 **Topic ID**: 17656

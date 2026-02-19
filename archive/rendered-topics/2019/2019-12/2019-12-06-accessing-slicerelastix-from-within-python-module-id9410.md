@@ -1,3 +1,10 @@
+---
+topic_id: 9410
+title: "Accessing Slicerelastix From Within Python Module"
+date: 2019-12-06
+url: https://discourse.slicer.org/t/9410
+---
+
 # Accessing SlicerElastix from within python module
 
 **Topic ID**: 9410

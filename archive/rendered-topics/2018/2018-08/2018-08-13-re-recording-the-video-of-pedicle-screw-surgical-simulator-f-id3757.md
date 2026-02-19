@@ -1,3 +1,10 @@
+---
+topic_id: 3757
+title: "Re Recording The Video Of Pedicle Screw Surgical Simulator F"
+date: 2018-08-13
+url: https://discourse.slicer.org/t/3757
+---
+
 # Re-recording the video of " Pedicle Screw Surgical Simulator " from Youtube for users of 3d slicer in China
 
 **Topic ID**: 3757

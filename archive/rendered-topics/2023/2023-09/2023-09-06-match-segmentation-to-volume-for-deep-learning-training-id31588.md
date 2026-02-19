@@ -1,3 +1,10 @@
+---
+topic_id: 31588
+title: "Match Segmentation To Volume For Deep Learning Training"
+date: 2023-09-06
+url: https://discourse.slicer.org/t/31588
+---
+
 # Match segmentation to volume for deep learning training
 
 **Topic ID**: 31588

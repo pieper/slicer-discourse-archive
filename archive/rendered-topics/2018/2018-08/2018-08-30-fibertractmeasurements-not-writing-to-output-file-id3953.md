@@ -1,3 +1,10 @@
+---
+topic_id: 3953
+title: "Fibertractmeasurements Not Writing To Output File"
+date: 2018-08-30
+url: https://discourse.slicer.org/t/3953
+---
+
 # FiberTractMeasurements not writing to output file
 
 **Topic ID**: 3953

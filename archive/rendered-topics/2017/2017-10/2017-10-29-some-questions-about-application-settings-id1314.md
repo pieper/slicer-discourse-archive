@@ -1,3 +1,10 @@
+---
+topic_id: 1314
+title: "Some Questions About Application Settings"
+date: 2017-10-29
+url: https://discourse.slicer.org/t/1314
+---
+
 # Some questions about Application settings
 
 **Topic ID**: 1314

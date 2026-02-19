@@ -1,3 +1,10 @@
+---
+topic_id: 17225
+title: "More Rois In One Mask"
+date: 2021-04-21
+url: https://discourse.slicer.org/t/17225
+---
+
 # More ROIs in one mask
 
 **Topic ID**: 17225

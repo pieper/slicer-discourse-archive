@@ -1,3 +1,10 @@
+---
+topic_id: 1431
+title: "Windows Build Scripts And Simplification"
+date: 2017-11-10
+url: https://discourse.slicer.org/t/1431
+---
+
 # Windows build scripts and simplification
 
 **Topic ID**: 1431

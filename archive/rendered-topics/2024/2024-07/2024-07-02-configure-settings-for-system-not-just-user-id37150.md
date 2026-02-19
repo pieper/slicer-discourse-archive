@@ -1,3 +1,10 @@
+---
+topic_id: 37150
+title: "Configure Settings For System Not Just User"
+date: 2024-07-02
+url: https://discourse.slicer.org/t/37150
+---
+
 # Configure Settings for System (not just User)
 
 **Topic ID**: 37150

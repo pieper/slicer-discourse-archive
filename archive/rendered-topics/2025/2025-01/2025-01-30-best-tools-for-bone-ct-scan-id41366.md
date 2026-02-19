@@ -1,3 +1,10 @@
+---
+topic_id: 41366
+title: "Best Tools For Bone Ct Scan"
+date: 2025-01-30
+url: https://discourse.slicer.org/t/41366
+---
+
 # Best Tools for Bone CT scan
 
 **Topic ID**: 41366

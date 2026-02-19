@@ -1,3 +1,10 @@
+---
+topic_id: 42585
+title: "Oculomotor Muscles Segmentation In Total Segmentator"
+date: 2025-04-16
+url: https://discourse.slicer.org/t/42585
+---
+
 # Oculomotor muscles segmentation in Total Segmentator
 
 **Topic ID**: 42585

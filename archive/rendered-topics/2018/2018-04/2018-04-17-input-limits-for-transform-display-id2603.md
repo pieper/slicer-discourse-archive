@@ -1,3 +1,10 @@
+---
+topic_id: 2603
+title: "Input Limits For Transform Display"
+date: 2018-04-17
+url: https://discourse.slicer.org/t/2603
+---
+
 # Input limits for transform display
 
 **Topic ID**: 2603

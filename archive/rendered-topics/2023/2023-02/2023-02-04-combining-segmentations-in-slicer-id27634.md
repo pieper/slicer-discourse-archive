@@ -1,3 +1,10 @@
+---
+topic_id: 27634
+title: "Combining Segmentations In Slicer"
+date: 2023-02-04
+url: https://discourse.slicer.org/t/27634
+---
+
 # Combining Segmentations in Slicer
 
 **Topic ID**: 27634

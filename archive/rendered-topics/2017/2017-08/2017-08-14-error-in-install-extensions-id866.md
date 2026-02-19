@@ -1,3 +1,10 @@
+---
+topic_id: 866
+title: "Error In Install Extensions"
+date: 2017-08-14
+url: https://discourse.slicer.org/t/866
+---
+
 # Error in install extensions
 
 **Topic ID**: 866

@@ -1,3 +1,10 @@
+---
+topic_id: 44456
+title: "Extract Center Line From Ct Empty Snail Shell"
+date: 2025-09-12
+url: https://discourse.slicer.org/t/44456
+---
+
 # Extract center line from CT empty snail shell
 
 **Topic ID**: 44456

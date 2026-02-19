@@ -1,3 +1,10 @@
+---
+topic_id: 40458
+title: "Troubleshooting Pycharm Debug Egg File Path Configuration In"
+date: 2024-12-01
+url: https://discourse.slicer.org/t/40458
+---
+
 # Troubleshooting PyCharm Debug Egg File Path Configuration in 3DSlicer
 
 **Topic ID**: 40458

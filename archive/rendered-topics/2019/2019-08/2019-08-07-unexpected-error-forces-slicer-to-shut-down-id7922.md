@@ -1,3 +1,10 @@
+---
+topic_id: 7922
+title: "Unexpected Error Forces Slicer To Shut Down"
+date: 2019-08-07
+url: https://discourse.slicer.org/t/7922
+---
+
 # Unexpected error forces Slicer to shut-down
 
 **Topic ID**: 7922

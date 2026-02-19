@@ -1,3 +1,10 @@
+---
+topic_id: 36301
+title: "Calculate Mean Sd"
+date: 2024-05-21
+url: https://discourse.slicer.org/t/36301
+---
+
 # Calculate MEAN, SD
 
 **Topic ID**: 36301

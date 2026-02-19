@@ -1,3 +1,10 @@
+---
+topic_id: 33477
+title: "Save Each Section Of The Pet Ct Image With A Tiff Extension"
+date: 2023-12-20
+url: https://discourse.slicer.org/t/33477
+---
+
 # Save each section of the pet/ct image with a tiff extension
 
 **Topic ID**: 33477

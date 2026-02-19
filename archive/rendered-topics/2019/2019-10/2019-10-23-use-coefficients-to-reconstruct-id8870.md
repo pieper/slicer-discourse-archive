@@ -1,3 +1,10 @@
+---
+topic_id: 8870
+title: "Use Coefficients To Reconstruct"
+date: 2019-10-23
+url: https://discourse.slicer.org/t/8870
+---
+
 # Use coefficients to reconstruct 
 
 **Topic ID**: 8870

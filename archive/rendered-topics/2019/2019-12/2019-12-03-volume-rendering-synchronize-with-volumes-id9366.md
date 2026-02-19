@@ -1,3 +1,10 @@
+---
+topic_id: 9366
+title: "Volume Rendering Synchronize With Volumes"
+date: 2019-12-03
+url: https://discourse.slicer.org/t/9366
+---
+
 # Volume rendering synchronize with volumes
 
 **Topic ID**: 9366

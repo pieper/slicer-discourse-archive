@@ -1,3 +1,10 @@
+---
+topic_id: 29122
+title: "Nrrd Segmentation To Numpy Problem"
+date: 2023-04-25
+url: https://discourse.slicer.org/t/29122
+---
+
 # NRRD Segmentation To Numpy problem
 
 **Topic ID**: 29122

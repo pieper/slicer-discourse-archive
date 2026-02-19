@@ -1,3 +1,10 @@
+---
+topic_id: 21189
+title: "Rt Phantom Drawing"
+date: 2021-12-22
+url: https://discourse.slicer.org/t/21189
+---
+
 # RT phantom drawing
 
 **Topic ID**: 21189

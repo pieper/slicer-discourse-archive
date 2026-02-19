@@ -1,3 +1,10 @@
+---
+topic_id: 27304
+title: "Osteotomy Planner In Slicer Pw38Th In Gran Canaria"
+date: 2023-01-17
+url: https://discourse.slicer.org/t/27304
+---
+
 # Osteotomy Planner in Slicer PW38th in Gran Canaria
 
 **Topic ID**: 27304

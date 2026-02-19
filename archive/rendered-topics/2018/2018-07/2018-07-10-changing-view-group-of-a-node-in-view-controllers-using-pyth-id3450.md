@@ -1,3 +1,10 @@
+---
+topic_id: 3450
+title: "Changing View Group Of A Node In View Controllers Using Pyth"
+date: 2018-07-10
+url: https://discourse.slicer.org/t/3450
+---
+
 # Changing View Group of a Node in View Controllers using Python
 
 **Topic ID**: 3450

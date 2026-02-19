@@ -1,3 +1,10 @@
+---
+topic_id: 13099
+title: "Assign A Dicom Volume Node To 3D Widget"
+date: 2020-08-20
+url: https://discourse.slicer.org/t/13099
+---
+
 # Assign a DICOM volume node to 3d widget
 
 **Topic ID**: 13099

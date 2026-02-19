@@ -1,3 +1,10 @@
+---
+topic_id: 11125
+title: "How To Get The Relevant Information After Dicom Loading Is C"
+date: 2020-04-15
+url: https://discourse.slicer.org/t/11125
+---
+
 # How to get the relevant information after dicom loading is completed?
 
 **Topic ID**: 11125

@@ -1,3 +1,10 @@
+---
+topic_id: 4780
+title: "Dicom Network Retrieval From Pacs Automated Approach Possibl"
+date: 2018-11-17
+url: https://discourse.slicer.org/t/4780
+---
+
 # DICOM network retrieval from PACS - automated approach possible?
 
 **Topic ID**: 4780

@@ -1,3 +1,10 @@
+---
+topic_id: 12781
+title: "Slicer Crashes When Loading Segmentation Editor"
+date: 2020-07-29
+url: https://discourse.slicer.org/t/12781
+---
+
 # Slicer crashes when loading segmentation editor
 
 **Topic ID**: 12781

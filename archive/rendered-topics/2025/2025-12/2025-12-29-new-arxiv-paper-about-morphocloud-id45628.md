@@ -1,3 +1,10 @@
+---
+topic_id: 45628
+title: "New Arxiv Paper About Morphocloud"
+date: 2025-12-29
+url: https://discourse.slicer.org/t/45628
+---
+
 # New arxiv paper about MorphoCloud
 
 **Topic ID**: 45628

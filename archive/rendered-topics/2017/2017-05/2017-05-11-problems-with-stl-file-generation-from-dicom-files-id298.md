@@ -1,3 +1,10 @@
+---
+topic_id: 298
+title: "Problems With Stl File Generation From Dicom Files"
+date: 2017-05-11
+url: https://discourse.slicer.org/t/298
+---
+
 # Problems with stl file generation from Dicom files
 
 **Topic ID**: 298

@@ -1,3 +1,10 @@
+---
+topic_id: 42778
+title: "How Can I Correct A Segmentation Made By Total Segmentator"
+date: 2025-05-03
+url: https://discourse.slicer.org/t/42778
+---
+
 # How can i correct a segmentation made by Total Segmentator ?
 
 **Topic ID**: 42778

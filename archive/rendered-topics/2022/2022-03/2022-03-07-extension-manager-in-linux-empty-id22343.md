@@ -1,3 +1,10 @@
+---
+topic_id: 22343
+title: "Extension Manager In Linux Empty"
+date: 2022-03-07
+url: https://discourse.slicer.org/t/22343
+---
+
 # Extension manager in linux empty
 
 **Topic ID**: 22343
