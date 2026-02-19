@@ -1,3 +1,10 @@
+---
+topic_id: 25851
+title: "Automate Extract Centerline With Unconnected Segment"
+date: 2022-10-23
+url: https://discourse.slicer.org/t/25851
+---
+
 # Automate extract centerline with unconnected segment
 
 **Topic ID**: 25851

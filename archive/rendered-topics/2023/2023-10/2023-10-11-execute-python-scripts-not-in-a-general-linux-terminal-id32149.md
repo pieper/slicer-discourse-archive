@@ -1,3 +1,10 @@
+---
+topic_id: 32149
+title: "Execute Python Scripts Not In A General Linux Terminal"
+date: 2023-10-11
+url: https://discourse.slicer.org/t/32149
+---
+
 # Execute python scripts not in a general linux terminal
 
 **Topic ID**: 32149

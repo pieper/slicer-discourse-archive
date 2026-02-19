@@ -1,3 +1,10 @@
+---
+topic_id: 2686
+title: "Export Multivolume 3D Slicer"
+date: 2018-04-25
+url: https://discourse.slicer.org/t/2686
+---
+
 # Export multivolume 3D Slicer.
 
 **Topic ID**: 2686

@@ -1,3 +1,10 @@
+---
+topic_id: 9148
+title: "Cant Open This File In Slicer Please Help"
+date: 2019-11-14
+url: https://discourse.slicer.org/t/9148
+---
+
 # Can't open this file in slicer. please help
 
 **Topic ID**: 9148

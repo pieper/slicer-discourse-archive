@@ -1,3 +1,10 @@
+---
+topic_id: 18140
+title: "Add Recently Loaded Files"
+date: 2021-06-15
+url: https://discourse.slicer.org/t/18140
+---
+
 # Add Recently Loaded Files
 
 **Topic ID**: 18140

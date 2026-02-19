@@ -1,3 +1,10 @@
+---
+topic_id: 6843
+title: "How To Integrate External Libraries Such As Cgal With Slicer"
+date: 2019-05-18
+url: https://discourse.slicer.org/t/6843
+---
+
 # How to integrate external libraries such as CGAL with slicer 3D?
 
 **Topic ID**: 6843

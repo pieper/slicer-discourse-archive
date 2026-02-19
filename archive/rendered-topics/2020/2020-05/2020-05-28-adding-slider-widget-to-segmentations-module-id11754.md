@@ -1,3 +1,10 @@
+---
+topic_id: 11754
+title: "Adding Slider Widget To Segmentations Module"
+date: 2020-05-28
+url: https://discourse.slicer.org/t/11754
+---
+
 # Adding slider widget to Segmentations module
 
 **Topic ID**: 11754

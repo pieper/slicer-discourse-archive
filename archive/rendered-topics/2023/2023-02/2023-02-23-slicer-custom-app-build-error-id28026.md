@@ -1,3 +1,10 @@
+---
+topic_id: 28026
+title: "Slicer Custom App Build Error"
+date: 2023-02-23
+url: https://discourse.slicer.org/t/28026
+---
+
 # Slicer custom app build error
 
 **Topic ID**: 28026

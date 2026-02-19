@@ -1,3 +1,10 @@
+---
+topic_id: 1893
+title: "Implementing This Research Paper To Automate Cbct Bone Segme"
+date: 2018-01-22
+url: https://discourse.slicer.org/t/1893
+---
+
 # Implementing this research paper to automate CBCT bone segmentation
 
 **Topic ID**: 1893

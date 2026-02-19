@@ -1,3 +1,10 @@
+---
+topic_id: 25557
+title: "Finding The Center Line Of The Femoral Shaft Creating New Co"
+date: 2022-10-05
+url: https://discourse.slicer.org/t/25557
+---
+
 # Finding the center line of the femoral shaft (creating new coordinate system)
 
 **Topic ID**: 25557

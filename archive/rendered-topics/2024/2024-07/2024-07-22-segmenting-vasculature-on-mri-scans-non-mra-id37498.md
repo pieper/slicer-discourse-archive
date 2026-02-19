@@ -1,3 +1,10 @@
+---
+topic_id: 37498
+title: "Segmenting Vasculature On Mri Scans Non Mra"
+date: 2024-07-22
+url: https://discourse.slicer.org/t/37498
+---
+
 # Segmenting vasculature on MRI scans (non MRA)
 
 **Topic ID**: 37498

@@ -1,3 +1,10 @@
+---
+topic_id: 33699
+title: "Slicer Salt Attribute To Measure Bone Resorption"
+date: 2024-01-09
+url: https://discourse.slicer.org/t/33699
+---
+
 # Slicer SALT attribute to measure bone resorption
 
 **Topic ID**: 33699

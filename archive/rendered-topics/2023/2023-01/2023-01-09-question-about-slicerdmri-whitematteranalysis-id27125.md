@@ -1,3 +1,10 @@
+---
+topic_id: 27125
+title: "Question About Slicerdmri Whitematteranalysis"
+date: 2023-01-09
+url: https://discourse.slicer.org/t/27125
+---
+
 # Question about SlicerDMRI / whitematteranalysis
 
 **Topic ID**: 27125

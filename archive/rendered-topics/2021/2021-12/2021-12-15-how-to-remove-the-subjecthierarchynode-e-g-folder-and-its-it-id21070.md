@@ -1,3 +1,10 @@
+---
+topic_id: 21070
+title: "How To Remove The Subjecthierarchynode E G Folder And Its It"
+date: 2021-12-15
+url: https://discourse.slicer.org/t/21070
+---
+
 # How to remove the SubjectHierarchyNode (e.g. folder)and its items?
 
 **Topic ID**: 21070

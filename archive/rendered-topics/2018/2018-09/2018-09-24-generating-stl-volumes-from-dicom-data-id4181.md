@@ -1,3 +1,10 @@
+---
+topic_id: 4181
+title: "Generating Stl Volumes From Dicom Data"
+date: 2018-09-24
+url: https://discourse.slicer.org/t/4181
+---
+
 # Generating STL volumes from DICOM data
 
 **Topic ID**: 4181

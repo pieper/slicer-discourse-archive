@@ -1,3 +1,10 @@
+---
+topic_id: 24843
+title: "Saving Rtstruct Nodes As Nifti Files"
+date: 2022-08-20
+url: https://discourse.slicer.org/t/24843
+---
+
 # Saving RTSTRUCT Nodes as Nifti Files
 
 **Topic ID**: 24843

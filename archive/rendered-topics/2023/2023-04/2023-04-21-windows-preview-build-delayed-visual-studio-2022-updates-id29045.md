@@ -1,3 +1,10 @@
+---
+topic_id: 29045
+title: "Windows Preview Build Delayed Visual Studio 2022 Updates"
+date: 2023-04-21
+url: https://discourse.slicer.org/t/29045
+---
+
 # Windows preview build delayed & Visual Studio 2022 updates
 
 **Topic ID**: 29045

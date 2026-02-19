@@ -1,3 +1,10 @@
+---
+topic_id: 25636
+title: "Installing Itk Python Package In Slicer 5 1 And Above"
+date: 2022-10-11
+url: https://discourse.slicer.org/t/25636
+---
+
 # Installing ITK Python package in Slicer 5.1 and above
 
 **Topic ID**: 25636

@@ -1,3 +1,10 @@
+---
+topic_id: 20620
+title: "How To Cut Multi Segments In A Segmentation Node With Scisso"
+date: 2021-11-15
+url: https://discourse.slicer.org/t/20620
+---
+
 # How to cut multi-segments in a segmentation node with scissors at the same time?
 
 **Topic ID**: 20620

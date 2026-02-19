@@ -1,3 +1,10 @@
+---
+topic_id: 9679
+title: "How To Load Tiff Image Stacks That Dont Have Scalar Overlay"
+date: 2020-01-01
+url: https://discourse.slicer.org/t/9679
+---
+
 # How to load TIFF image stacks that don't have scalar overlay already associated?
 
 **Topic ID**: 9679

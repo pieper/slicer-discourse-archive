@@ -1,3 +1,10 @@
+---
+topic_id: 16284
+title: "Issue With Level Tracing"
+date: 2021-03-01
+url: https://discourse.slicer.org/t/16284
+---
+
 # Issue with level tracing
 
 **Topic ID**: 16284

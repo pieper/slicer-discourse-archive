@@ -1,3 +1,10 @@
+---
+topic_id: 23070
+title: "Artery Tumor Intersection Points"
+date: 2022-04-21
+url: https://discourse.slicer.org/t/23070
+---
+
 # Artery-tumor intersection points
 
 **Topic ID**: 23070

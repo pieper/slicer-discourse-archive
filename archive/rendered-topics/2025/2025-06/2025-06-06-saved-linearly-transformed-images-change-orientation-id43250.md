@@ -1,3 +1,10 @@
+---
+topic_id: 43250
+title: "Saved Linearly Transformed Images Change Orientation"
+date: 2025-06-06
+url: https://discourse.slicer.org/t/43250
+---
+
 # Saved linearly transformed images change orientation
 
 **Topic ID**: 43250

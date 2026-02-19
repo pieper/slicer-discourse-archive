@@ -1,3 +1,10 @@
+---
+topic_id: 21939
+title: "Weird Error But Everything Looks Okay"
+date: 2022-02-12
+url: https://discourse.slicer.org/t/21939
+---
+
 # Weird Error but everything looks okay
 
 **Topic ID**: 21939

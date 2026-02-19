@@ -1,3 +1,10 @@
+---
+topic_id: 23649
+title: "Create Volume From Slices Dicom"
+date: 2022-05-31
+url: https://discourse.slicer.org/t/23649
+---
+
 # Create volume from Slices DICOM
 
 **Topic ID**: 23649

@@ -1,3 +1,10 @@
+---
+topic_id: 17020
+title: "Tips For Semi Automatic Segmentation Of Fetal Brain Mri"
+date: 2021-04-10
+url: https://discourse.slicer.org/t/17020
+---
+
 # Tips for semi-automatic segmentation of fetal brain MRI
 
 **Topic ID**: 17020

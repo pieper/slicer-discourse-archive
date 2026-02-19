@@ -1,3 +1,10 @@
+---
+topic_id: 20196
+title: "Extract Sub Segment From Segmentation Based On Seed And Volu"
+date: 2021-10-17
+url: https://discourse.slicer.org/t/20196
+---
+
 # Extract sub-segment from segmentation based on seed and volume (in Python)
 
 **Topic ID**: 20196

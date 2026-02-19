@@ -1,3 +1,10 @@
+---
+topic_id: 29643
+title: "Multi Pointclouds To One Model"
+date: 2023-05-25
+url: https://discourse.slicer.org/t/29643
+---
+
 # Multi PointClouds to one MODEL
 
 **Topic ID**: 29643

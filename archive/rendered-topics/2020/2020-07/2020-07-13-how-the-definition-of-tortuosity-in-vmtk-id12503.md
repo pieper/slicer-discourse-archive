@@ -1,3 +1,10 @@
+---
+topic_id: 12503
+title: "How The Definition Of Tortuosity In Vmtk"
+date: 2020-07-13
+url: https://discourse.slicer.org/t/12503
+---
+
 # How the definition of tortuosity in VMTK?
 
 **Topic ID**: 12503

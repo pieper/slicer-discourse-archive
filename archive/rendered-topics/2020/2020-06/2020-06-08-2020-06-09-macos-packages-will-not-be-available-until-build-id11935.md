@@ -1,3 +1,10 @@
+---
+topic_id: 11935
+title: "2020 06 09 Macos Packages Will Not Be Available Until Build"
+date: 2020-06-08
+url: https://discourse.slicer.org/t/11935
+---
+
 # 2020.06.09: macOS packages will *not* be available until build machine is updated to macOS 10.13.6
 
 **Topic ID**: 11935

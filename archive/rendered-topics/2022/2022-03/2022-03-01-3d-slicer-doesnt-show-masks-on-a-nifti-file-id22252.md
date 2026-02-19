@@ -1,3 +1,10 @@
+---
+topic_id: 22252
+title: "3D Slicer Doesnt Show Masks On A Nifti File"
+date: 2022-03-01
+url: https://discourse.slicer.org/t/22252
+---
+
 # 3D slicer doesn't show masks on a NIfTI file
 
 **Topic ID**: 22252

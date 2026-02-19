@@ -1,3 +1,10 @@
+---
+topic_id: 20001
+title: "Curved Planar Reformat Creates Empty Volume"
+date: 2021-10-04
+url: https://discourse.slicer.org/t/20001
+---
+
 # Curved planar reformat creates empty volume?
 
 **Topic ID**: 20001

@@ -1,3 +1,10 @@
+---
+topic_id: 38113
+title: "Batchprocessing Rt Structure To Label Maps"
+date: 2024-08-29
+url: https://discourse.slicer.org/t/38113
+---
+
 # BatchProcessing RT structure to label maps
 
 **Topic ID**: 38113

@@ -1,3 +1,10 @@
+---
+topic_id: 26459
+title: "Color Changed In A Display But Not In Data Box While Loaded"
+date: 2022-11-27
+url: https://discourse.slicer.org/t/26459
+---
+
 # Color changed in a display but not in data box while loaded by Python script
 
 **Topic ID**: 26459

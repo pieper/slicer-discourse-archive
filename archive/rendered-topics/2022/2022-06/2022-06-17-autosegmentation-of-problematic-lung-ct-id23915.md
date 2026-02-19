@@ -1,3 +1,10 @@
+---
+topic_id: 23915
+title: "Autosegmentation Of Problematic Lung Ct"
+date: 2022-06-17
+url: https://discourse.slicer.org/t/23915
+---
+
 # Autosegmentation of problematic Lung CT
 
 **Topic ID**: 23915

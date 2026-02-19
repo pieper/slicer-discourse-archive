@@ -1,3 +1,10 @@
+---
+topic_id: 12054
+title: "Question On Using Decimated Model In Vmtk Plugin"
+date: 2020-06-16
+url: https://discourse.slicer.org/t/12054
+---
+
 # Question on using decimated model in VMTK plugin
 
 **Topic ID**: 12054

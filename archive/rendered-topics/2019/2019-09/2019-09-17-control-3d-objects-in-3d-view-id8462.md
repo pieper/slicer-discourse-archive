@@ -1,3 +1,10 @@
+---
+topic_id: 8462
+title: "Control 3D Objects In 3D View"
+date: 2019-09-17
+url: https://discourse.slicer.org/t/8462
+---
+
 # Control 3D objects in 3D view
 
 **Topic ID**: 8462

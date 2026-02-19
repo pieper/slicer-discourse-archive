@@ -1,3 +1,10 @@
+---
+topic_id: 23677
+title: "Nameerror Name Slicer Is Not Defined"
+date: 2022-06-01
+url: https://discourse.slicer.org/t/23677
+---
+
 # NameError: name 'slicer' is not defined
 
 **Topic ID**: 23677

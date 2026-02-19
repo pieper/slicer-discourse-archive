@@ -1,3 +1,10 @@
+---
+topic_id: 42772
+title: "Using Customized 3D Slicer On Mobile Devices App Or Web Host"
+date: 2025-05-02
+url: https://discourse.slicer.org/t/42772
+---
+
 # Using Customized 3D Slicer on Mobile Devices (App or Web Hosting)
 
 **Topic ID**: 42772

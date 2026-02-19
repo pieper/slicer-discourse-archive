@@ -1,3 +1,10 @@
+---
+topic_id: 42918
+title: "Trouble Loading Custom Scripted Module Hallerindex In Slicer"
+date: 2025-05-14
+url: https://discourse.slicer.org/t/42918
+---
+
 # Trouble loading custom scripted module (HallerIndex) in Slicer 5.8.1 on macOS
 
 **Topic ID**: 42918

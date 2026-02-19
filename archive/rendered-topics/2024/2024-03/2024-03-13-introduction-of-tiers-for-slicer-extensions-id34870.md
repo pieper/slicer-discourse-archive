@@ -1,3 +1,10 @@
+---
+topic_id: 34870
+title: "Introduction Of Tiers For Slicer Extensions"
+date: 2024-03-13
+url: https://discourse.slicer.org/t/34870
+---
+
 # Introduction of "tiers" for Slicer extensions
 
 **Topic ID**: 34870

@@ -1,3 +1,10 @@
+---
+topic_id: 40521
+title: "Totalsegmentator Failed To Compute Results Status 1 Error"
+date: 2024-12-05
+url: https://discourse.slicer.org/t/40521
+---
+
 # TotalSegmentator: Failed to Compute Results: Status 1 Error
 
 **Topic ID**: 40521

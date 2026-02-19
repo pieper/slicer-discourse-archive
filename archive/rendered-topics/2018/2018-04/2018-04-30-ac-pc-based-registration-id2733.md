@@ -1,3 +1,10 @@
+---
+topic_id: 2733
+title: "Ac Pc Based Registration"
+date: 2018-04-30
+url: https://discourse.slicer.org/t/2733
+---
+
 # Ac-pc based registration
 
 **Topic ID**: 2733

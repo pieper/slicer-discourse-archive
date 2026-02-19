@@ -1,3 +1,10 @@
+---
+topic_id: 1654
+title: "How To Crop And Save A Cropped Volume As One File"
+date: 2017-12-12
+url: https://discourse.slicer.org/t/1654
+---
+
 # How to crop and save a cropped volume as one file?
 
 **Topic ID**: 1654

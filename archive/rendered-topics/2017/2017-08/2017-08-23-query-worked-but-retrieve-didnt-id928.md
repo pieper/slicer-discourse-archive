@@ -1,3 +1,10 @@
+---
+topic_id: 928
+title: "Query Worked But Retrieve Didnt"
+date: 2017-08-23
+url: https://discourse.slicer.org/t/928
+---
+
 # Query worked but retrieve didn't
 
 **Topic ID**: 928

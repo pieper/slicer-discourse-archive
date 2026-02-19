@@ -1,3 +1,10 @@
+---
+topic_id: 7931
+title: "How To Reformat Slice With Python Interator"
+date: 2019-08-08
+url: https://discourse.slicer.org/t/7931
+---
+
 # How to Reformat slice with Python Interator?
 
 **Topic ID**: 7931

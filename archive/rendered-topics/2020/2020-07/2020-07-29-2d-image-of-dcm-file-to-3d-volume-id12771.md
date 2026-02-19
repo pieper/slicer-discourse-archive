@@ -1,3 +1,10 @@
+---
+topic_id: 12771
+title: "2D Image Of Dcm File To 3D Volume"
+date: 2020-07-29
+url: https://discourse.slicer.org/t/12771
+---
+
 # 2D image of .dcm file to 3D Volume
 
 **Topic ID**: 12771

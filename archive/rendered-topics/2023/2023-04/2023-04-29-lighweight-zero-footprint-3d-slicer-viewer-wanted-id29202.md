@@ -1,3 +1,10 @@
+---
+topic_id: 29202
+title: "Lighweight Zero Footprint 3D Slicer Viewer Wanted"
+date: 2023-04-29
+url: https://discourse.slicer.org/t/29202
+---
+
 # Lighweight "zero footprint" 3D Slicer viewer wanted
 
 **Topic ID**: 29202

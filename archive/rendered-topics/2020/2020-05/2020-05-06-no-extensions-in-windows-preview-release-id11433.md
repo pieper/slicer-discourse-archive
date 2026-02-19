@@ -1,3 +1,10 @@
+---
+topic_id: 11433
+title: "No Extensions In Windows Preview Release"
+date: 2020-05-06
+url: https://discourse.slicer.org/t/11433
+---
+
 # No extensions in Windows preview release
 
 **Topic ID**: 11433

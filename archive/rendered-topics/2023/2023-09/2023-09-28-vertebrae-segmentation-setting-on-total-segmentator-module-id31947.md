@@ -1,3 +1,10 @@
+---
+topic_id: 31947
+title: "Vertebrae Segmentation Setting On Total Segmentator Module"
+date: 2023-09-28
+url: https://discourse.slicer.org/t/31947
+---
+
 # Vertebrae Segmentation Setting on Total Segmentator Module
 
 **Topic ID**: 31947

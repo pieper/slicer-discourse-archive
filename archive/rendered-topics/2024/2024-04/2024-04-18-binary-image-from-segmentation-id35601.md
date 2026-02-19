@@ -1,3 +1,10 @@
+---
+topic_id: 35601
+title: "Binary Image From Segmentation"
+date: 2024-04-18
+url: https://discourse.slicer.org/t/35601
+---
+
 # Binary image from segmentation
 
 **Topic ID**: 35601

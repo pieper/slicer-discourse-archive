@@ -1,3 +1,10 @@
+---
+topic_id: 12939
+title: "How To Clean Up Temp File After Cropping Volume"
+date: 2020-08-11
+url: https://discourse.slicer.org/t/12939
+---
+
 # How to clean up temp file after cropping volume
 
 **Topic ID**: 12939

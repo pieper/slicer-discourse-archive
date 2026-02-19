@@ -1,3 +1,10 @@
+---
+topic_id: 34131
+title: "Generating Surface Area From A 3D Region"
+date: 2024-02-03
+url: https://discourse.slicer.org/t/34131
+---
+
 # Generating surface area from a 3D region
 
 **Topic ID**: 34131

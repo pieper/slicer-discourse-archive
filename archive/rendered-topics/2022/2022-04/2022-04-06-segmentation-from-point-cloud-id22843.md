@@ -1,3 +1,10 @@
+---
+topic_id: 22843
+title: "Segmentation From Point Cloud"
+date: 2022-04-06
+url: https://discourse.slicer.org/t/22843
+---
+
 # Segmentation from point cloud
 
 **Topic ID**: 22843

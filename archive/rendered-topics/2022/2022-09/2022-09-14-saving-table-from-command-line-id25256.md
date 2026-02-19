@@ -1,3 +1,10 @@
+---
+topic_id: 25256
+title: "Saving Table From Command Line"
+date: 2022-09-14
+url: https://discourse.slicer.org/t/25256
+---
+
 # Saving table from command line
 
 **Topic ID**: 25256

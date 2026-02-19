@@ -1,3 +1,10 @@
+---
+topic_id: 3644
+title: "Python Debugging In Eclipse"
+date: 2018-08-03
+url: https://discourse.slicer.org/t/3644
+---
+
 # Python debugging in Eclipse
 
 **Topic ID**: 3644

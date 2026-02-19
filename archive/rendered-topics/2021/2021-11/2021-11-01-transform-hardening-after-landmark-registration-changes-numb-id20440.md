@@ -1,3 +1,10 @@
+---
+topic_id: 20440
+title: "Transform Hardening After Landmark Registration Changes Numb"
+date: 2021-11-01
+url: https://discourse.slicer.org/t/20440
+---
+
 # Transform hardening after landmark registration changes number of slices
 
 **Topic ID**: 20440

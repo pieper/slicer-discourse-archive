@@ -1,3 +1,10 @@
+---
+topic_id: 14485
+title: "Help With Segmentation Of Mri"
+date: 2020-11-08
+url: https://discourse.slicer.org/t/14485
+---
+
 # Help with Segmentation of MRI
 
 **Topic ID**: 14485

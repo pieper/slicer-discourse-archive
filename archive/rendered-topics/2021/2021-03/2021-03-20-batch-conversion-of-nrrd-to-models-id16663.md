@@ -1,3 +1,10 @@
+---
+topic_id: 16663
+title: "Batch Conversion Of Nrrd To Models"
+date: 2021-03-20
+url: https://discourse.slicer.org/t/16663
+---
+
 # Batch conversion of .nrrd to models
 
 **Topic ID**: 16663

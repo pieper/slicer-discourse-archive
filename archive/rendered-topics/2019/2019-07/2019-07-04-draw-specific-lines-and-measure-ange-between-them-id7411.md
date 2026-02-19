@@ -1,3 +1,10 @@
+---
+topic_id: 7411
+title: "Draw Specific Lines And Measure Ange Between Them"
+date: 2019-07-04
+url: https://discourse.slicer.org/t/7411
+---
+
 # Draw specific lines and measure ange between them
 
 **Topic ID**: 7411

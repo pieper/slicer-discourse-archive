@@ -1,3 +1,10 @@
+---
+topic_id: 17653
+title: "Slicermorph Animator Yellow Highlight On Gif Images"
+date: 2021-05-17
+url: https://discourse.slicer.org/t/17653
+---
+
 # SlicerMorph Animator yellow highlight on gif images
 
 **Topic ID**: 17653

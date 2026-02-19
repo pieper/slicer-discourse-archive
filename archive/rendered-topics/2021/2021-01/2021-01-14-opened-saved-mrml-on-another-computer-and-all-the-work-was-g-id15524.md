@@ -1,3 +1,10 @@
+---
+topic_id: 15524
+title: "Opened Saved Mrml On Another Computer And All The Work Was G"
+date: 2021-01-14
+url: https://discourse.slicer.org/t/15524
+---
+
 # Opened saved mrml on another computer and all the work was gone
 
 **Topic ID**: 15524

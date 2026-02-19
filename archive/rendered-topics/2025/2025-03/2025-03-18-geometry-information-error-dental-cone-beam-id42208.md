@@ -1,3 +1,10 @@
+---
+topic_id: 42208
+title: "Geometry Information Error Dental Cone Beam"
+date: 2025-03-18
+url: https://discourse.slicer.org/t/42208
+---
+
 # Geometry information error - Dental Cone Beam
 
 **Topic ID**: 42208

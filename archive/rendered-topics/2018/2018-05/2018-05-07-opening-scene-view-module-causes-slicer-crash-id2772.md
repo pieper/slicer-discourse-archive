@@ -1,3 +1,10 @@
+---
+topic_id: 2772
+title: "Opening Scene View Module Causes Slicer Crash"
+date: 2018-05-07
+url: https://discourse.slicer.org/t/2772
+---
+
 # Opening Scene View module causes Slicer Crash
 
 **Topic ID**: 2772

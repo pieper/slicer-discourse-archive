@@ -1,3 +1,10 @@
+---
+topic_id: 19645
+title: "Prevent Extra Folder On Dicom Export"
+date: 2021-09-13
+url: https://discourse.slicer.org/t/19645
+---
+
 # Prevent extra folder on dicom export
 
 **Topic ID**: 19645

@@ -1,3 +1,10 @@
+---
+topic_id: 9520
+title: "Weve Lost A Slicer Founder"
+date: 2019-12-17
+url: https://discourse.slicer.org/t/9520
+---
+
 # We've lost a Slicer founder
 
 **Topic ID**: 9520

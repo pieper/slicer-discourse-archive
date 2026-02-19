@@ -1,3 +1,10 @@
+---
+topic_id: 2148
+title: "Import List Of Coordinates In 3Dslicer Like Fiducials"
+date: 2018-02-22
+url: https://discourse.slicer.org/t/2148
+---
+
 # Import list of coordinates in 3dslicer like fiducials
 
 **Topic ID**: 2148

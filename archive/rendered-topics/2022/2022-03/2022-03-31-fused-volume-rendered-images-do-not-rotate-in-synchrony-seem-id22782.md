@@ -1,3 +1,10 @@
+---
+topic_id: 22782
+title: "Fused Volume Rendered Images Do Not Rotate In Synchrony Seem"
+date: 2022-03-31
+url: https://discourse.slicer.org/t/22782
+---
+
 # Fused volume rendered images do not rotate in synchrony, seemingly don't reflect reality
 
 **Topic ID**: 22782

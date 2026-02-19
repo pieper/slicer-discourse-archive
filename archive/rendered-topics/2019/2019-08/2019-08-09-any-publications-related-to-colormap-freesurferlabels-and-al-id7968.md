@@ -1,3 +1,10 @@
+---
+topic_id: 7968
+title: "Any Publications Related To Colormap Freesurferlabels And Al"
+date: 2019-08-09
+url: https://discourse.slicer.org/t/7968
+---
+
 # Any publications related to colormap 'FreeSurferLabels' and algorithm of 'interpolate' checkbox?
 
 **Topic ID**: 7968

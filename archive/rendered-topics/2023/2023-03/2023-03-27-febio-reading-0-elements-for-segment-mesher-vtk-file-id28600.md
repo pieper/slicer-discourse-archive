@@ -1,3 +1,10 @@
+---
+topic_id: 28600
+title: "Febio Reading 0 Elements For Segment Mesher Vtk File"
+date: 2023-03-27
+url: https://discourse.slicer.org/t/28600
+---
+
 # FEbio reading 0 elements for Segment Mesher vtk file
 
 **Topic ID**: 28600

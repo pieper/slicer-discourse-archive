@@ -1,3 +1,10 @@
+---
+topic_id: 32746
+title: "Obb Not Aligned With Segmentde"
+date: 2023-11-11
+url: https://discourse.slicer.org/t/32746
+---
+
 # OBB Not Aligned with Segmentde
 
 **Topic ID**: 32746

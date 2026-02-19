@@ -1,3 +1,10 @@
+---
+topic_id: 27817
+title: "Create Derived Segments With Aapm Nomenclature Form Totalseg"
+date: 2023-02-15
+url: https://discourse.slicer.org/t/27817
+---
+
 # Create derived segments with AAPM nomenclature form TotalSegmentator output
 
 **Topic ID**: 27817

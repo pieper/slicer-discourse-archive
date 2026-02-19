@@ -1,3 +1,10 @@
+---
+topic_id: 3791
+title: "General Registration Elastix Extension Mac"
+date: 2018-08-16
+url: https://discourse.slicer.org/t/3791
+---
+
 # General Registration Elastix extension Mac
 
 **Topic ID**: 3791

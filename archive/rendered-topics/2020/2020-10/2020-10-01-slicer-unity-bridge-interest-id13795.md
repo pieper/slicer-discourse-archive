@@ -1,3 +1,10 @@
+---
+topic_id: 13795
+title: "Slicer Unity Bridge Interest"
+date: 2020-10-01
+url: https://discourse.slicer.org/t/13795
+---
+
 # Slicer/Unity bridge, interest?
 
 **Topic ID**: 13795

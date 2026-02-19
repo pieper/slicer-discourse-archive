@@ -1,3 +1,10 @@
+---
+topic_id: 15457
+title: "Error With Export Rt Dicom"
+date: 2021-01-11
+url: https://discourse.slicer.org/t/15457
+---
+
 # Error with export rt dicom
 
 **Topic ID**: 15457

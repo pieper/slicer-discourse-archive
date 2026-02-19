@@ -1,3 +1,10 @@
+---
+topic_id: 37068
+title: "Convert Sequence File Mha To A Video Mp4 Avi Etc"
+date: 2024-06-27
+url: https://discourse.slicer.org/t/37068
+---
+
 # Convert sequence file .mha to a video (mp4, avi, etc.)
 
 **Topic ID**: 37068

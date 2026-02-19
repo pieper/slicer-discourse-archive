@@ -1,3 +1,10 @@
+---
+topic_id: 13530
+title: "Im Getting Not A Useful Error When I Try To Start Slicer Jup"
+date: 2020-09-17
+url: https://discourse.slicer.org/t/13530
+---
+
 # I'm getting not a useful error when I try to start Slicer Jupyter kernel, how to debug?
 
 **Topic ID**: 13530

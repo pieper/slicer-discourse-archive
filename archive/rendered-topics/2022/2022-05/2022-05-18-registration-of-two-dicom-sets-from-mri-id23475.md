@@ -1,3 +1,10 @@
+---
+topic_id: 23475
+title: "Registration Of Two Dicom Sets From Mri"
+date: 2022-05-18
+url: https://discourse.slicer.org/t/23475
+---
+
 # Registration of two DICOM-Sets from MRI
 
 **Topic ID**: 23475

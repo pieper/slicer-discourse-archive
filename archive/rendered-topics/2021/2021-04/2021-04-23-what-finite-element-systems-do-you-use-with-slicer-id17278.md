@@ -1,3 +1,10 @@
+---
+topic_id: 17278
+title: "What Finite Element Systems Do You Use With Slicer"
+date: 2021-04-23
+url: https://discourse.slicer.org/t/17278
+---
+
 # What finite element systems do you use with Slicer?
 
 **Topic ID**: 17278

@@ -1,3 +1,10 @@
+---
+topic_id: 645
+title: "Vtkmrmlscalarvolumenode To Simpleitk Image"
+date: 2017-07-07
+url: https://discourse.slicer.org/t/645
+---
+
 # vtkMRMLScalarVolumeNode to SimpleITK image
 
 **Topic ID**: 645

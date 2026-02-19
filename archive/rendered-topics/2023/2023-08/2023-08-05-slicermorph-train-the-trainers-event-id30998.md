@@ -1,3 +1,10 @@
+---
+topic_id: 30998
+title: "Slicermorph Train The Trainers Event"
+date: 2023-08-05
+url: https://discourse.slicer.org/t/30998
+---
+
 # SlicerMorph Train the Trainers event
 
 **Topic ID**: 30998

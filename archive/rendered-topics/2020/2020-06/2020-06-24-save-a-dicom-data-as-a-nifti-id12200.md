@@ -1,3 +1,10 @@
+---
+topic_id: 12200
+title: "Save A Dicom Data As A Nifti"
+date: 2020-06-24
+url: https://discourse.slicer.org/t/12200
+---
+
 # Save a DICOM Data as a Nifti
 
 **Topic ID**: 12200

@@ -1,3 +1,10 @@
+---
+topic_id: 43075
+title: "Evolutionary S Rep Fitting"
+date: 2025-05-24
+url: https://discourse.slicer.org/t/43075
+---
+
 # Evolutionary S-rep fitting
 
 **Topic ID**: 43075

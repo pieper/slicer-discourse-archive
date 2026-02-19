@@ -1,3 +1,10 @@
+---
+topic_id: 28845
+title: "How To Export Files That Pyradiomics Need"
+date: 2023-04-11
+url: https://discourse.slicer.org/t/28845
+---
+
 # How to export files that pyradiomics need?
 
 **Topic ID**: 28845

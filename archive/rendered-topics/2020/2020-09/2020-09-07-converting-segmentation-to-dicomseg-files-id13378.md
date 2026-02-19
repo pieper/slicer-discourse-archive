@@ -1,3 +1,10 @@
+---
+topic_id: 13378
+title: "Converting Segmentation To Dicomseg Files"
+date: 2020-09-07
+url: https://discourse.slicer.org/t/13378
+---
+
 # Converting segmentation to DICOMSeg files
 
 **Topic ID**: 13378

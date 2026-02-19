@@ -1,3 +1,10 @@
+---
+topic_id: 5624
+title: "Loading Vtk Files Not The Same In Latest Nightly Version Onl"
+date: 2019-02-03
+url: https://discourse.slicer.org/t/5624
+---
+
 # Loading VTK files not the same in latest nightly version (only loading as model available)?
 
 **Topic ID**: 5624

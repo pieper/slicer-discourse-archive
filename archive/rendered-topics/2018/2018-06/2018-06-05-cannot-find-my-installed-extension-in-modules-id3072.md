@@ -1,3 +1,10 @@
+---
+topic_id: 3072
+title: "Cannot Find My Installed Extension In Modules"
+date: 2018-06-05
+url: https://discourse.slicer.org/t/3072
+---
+
 # Cannot find my installed extension in modules
 
 **Topic ID**: 3072

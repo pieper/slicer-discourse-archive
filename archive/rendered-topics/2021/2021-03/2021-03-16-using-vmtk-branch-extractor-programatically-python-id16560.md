@@ -1,3 +1,10 @@
+---
+topic_id: 16560
+title: "Using Vmtk Branch Extractor Programatically Python"
+date: 2021-03-16
+url: https://discourse.slicer.org/t/16560
+---
+
 # Using VMTK Branch Extractor Programatically (Python)
 
 **Topic ID**: 16560

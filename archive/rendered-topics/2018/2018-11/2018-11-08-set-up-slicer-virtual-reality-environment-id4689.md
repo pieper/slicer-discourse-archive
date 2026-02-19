@@ -1,3 +1,10 @@
+---
+topic_id: 4689
+title: "Set Up Slicer Virtual Reality Environment"
+date: 2018-11-08
+url: https://discourse.slicer.org/t/4689
+---
+
 # Set Up Slicer Virtual reality environment
 
 **Topic ID**: 4689

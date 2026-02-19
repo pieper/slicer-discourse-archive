@@ -1,3 +1,10 @@
+---
+topic_id: 8766
+title: "Cannot Import Pydicom"
+date: 2019-10-13
+url: https://discourse.slicer.org/t/8766
+---
+
 # Cannot import pydicom
 
 **Topic ID**: 8766

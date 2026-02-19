@@ -1,3 +1,10 @@
+---
+topic_id: 30269
+title: "How To Create A Line Profile In 3D Slicer"
+date: 2023-06-28
+url: https://discourse.slicer.org/t/30269
+---
+
 # How to create a line profile in 3D slicer
 
 **Topic ID**: 30269

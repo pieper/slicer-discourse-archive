@@ -1,3 +1,10 @@
+---
+topic_id: 15137
+title: "Extract Images From Cd"
+date: 2020-12-18
+url: https://discourse.slicer.org/t/15137
+---
+
 # Extract images from CD
 
 **Topic ID**: 15137

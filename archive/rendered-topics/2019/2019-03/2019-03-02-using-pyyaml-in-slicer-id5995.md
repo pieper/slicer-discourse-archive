@@ -1,3 +1,10 @@
+---
+topic_id: 5995
+title: "Using Pyyaml In Slicer"
+date: 2019-03-02
+url: https://discourse.slicer.org/t/5995
+---
+
 # Using pyyaml in Slicer?
 
 **Topic ID**: 5995

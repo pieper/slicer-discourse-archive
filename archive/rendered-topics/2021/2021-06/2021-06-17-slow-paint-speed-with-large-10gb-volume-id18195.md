@@ -1,3 +1,10 @@
+---
+topic_id: 18195
+title: "Slow Paint Speed With Large 10Gb Volume"
+date: 2021-06-17
+url: https://discourse.slicer.org/t/18195
+---
+
 # Slow paint speed with large (10GB) volume
 
 **Topic ID**: 18195

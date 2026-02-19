@@ -1,3 +1,10 @@
+---
+topic_id: 15944
+title: "Troubleshooting Imported Segmentations Appear In A Wrong Loc"
+date: 2021-02-10
+url: https://discourse.slicer.org/t/15944
+---
+
 # Troubleshooting: Imported segmentations appear in a wrong location
 
 **Topic ID**: 15944

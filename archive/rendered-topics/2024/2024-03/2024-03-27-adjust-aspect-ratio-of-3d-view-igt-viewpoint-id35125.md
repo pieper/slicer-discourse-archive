@@ -1,3 +1,10 @@
+---
+topic_id: 35125
+title: "Adjust Aspect Ratio Of 3D View Igt Viewpoint"
+date: 2024-03-27
+url: https://discourse.slicer.org/t/35125
+---
+
 # Adjust Aspect Ratio of 3D-View / IGT-Viewpoint
 
 **Topic ID**: 35125

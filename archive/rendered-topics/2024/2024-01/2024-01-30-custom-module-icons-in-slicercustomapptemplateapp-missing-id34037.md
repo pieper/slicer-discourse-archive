@@ -1,3 +1,10 @@
+---
+topic_id: 34037
+title: "Custom Module Icons In Slicercustomapptemplateapp Missing"
+date: 2024-01-30
+url: https://discourse.slicer.org/t/34037
+---
+
 # Custom module icons in SlicerCustomAppTemplateApp missing
 
 **Topic ID**: 34037

@@ -1,3 +1,10 @@
+---
+topic_id: 11582
+title: "How To Block The User Selection Of A Node In A Qmrmlnodecomb"
+date: 2020-05-16
+url: https://discourse.slicer.org/t/11582
+---
+
 # How to block the user selection of a node in a qMRMLNodeComboBox?
 
 **Topic ID**: 11582

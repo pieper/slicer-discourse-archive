@@ -1,3 +1,10 @@
+---
+topic_id: 1956
+title: "Unable To Import Data"
+date: 2018-01-27
+url: https://discourse.slicer.org/t/1956
+---
+
 # unable to import data
 
 **Topic ID**: 1956

@@ -1,3 +1,10 @@
+---
+topic_id: 14267
+title: "Only Black Image Shown In Red Green Yellow View"
+date: 2020-10-27
+url: https://discourse.slicer.org/t/14267
+---
+
 # Only black image shown in red/green/yellow view
 
 **Topic ID**: 14267

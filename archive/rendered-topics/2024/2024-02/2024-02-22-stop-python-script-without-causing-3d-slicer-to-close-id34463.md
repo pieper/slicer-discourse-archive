@@ -1,3 +1,10 @@
+---
+topic_id: 34463
+title: "Stop Python Script Without Causing 3D Slicer To Close"
+date: 2024-02-22
+url: https://discourse.slicer.org/t/34463
+---
+
 # Stop python script without causing 3D Slicer to close
 
 **Topic ID**: 34463

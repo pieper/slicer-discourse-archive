@@ -1,3 +1,10 @@
+---
+topic_id: 14746
+title: "Abdominal Mri Image Library"
+date: 2020-11-23
+url: https://discourse.slicer.org/t/14746
+---
+
 # Abdominal MRI image library
 
 **Topic ID**: 14746

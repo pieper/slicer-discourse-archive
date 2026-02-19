@@ -1,3 +1,10 @@
+---
+topic_id: 43706
+title: "Volume Or Surface Area For 2D Ultrasound Segmentation"
+date: 2025-07-13
+url: https://discourse.slicer.org/t/43706
+---
+
 # Volume or Surface Area for 2D Ultrasound Segmentation?
 
 **Topic ID**: 43706

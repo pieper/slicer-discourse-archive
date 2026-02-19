@@ -1,3 +1,10 @@
+---
+topic_id: 20669
+title: "3D View Ruler Doesnt Change Units Suffix"
+date: 2021-11-17
+url: https://discourse.slicer.org/t/20669
+---
+
 # 3D view ruler doesn't change units suffix
 
 **Topic ID**: 20669

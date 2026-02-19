@@ -1,3 +1,10 @@
+---
+topic_id: 22193
+title: "Internalerror In Findedge Tetgen Problem"
+date: 2022-02-26
+url: https://discourse.slicer.org/t/22193
+---
+
 # Internalerror in findedge() TetGen Problem
 
 **Topic ID**: 22193

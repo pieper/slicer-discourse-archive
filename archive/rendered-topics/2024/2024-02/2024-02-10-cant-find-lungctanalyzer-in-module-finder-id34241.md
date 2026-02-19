@@ -1,3 +1,10 @@
+---
+topic_id: 34241
+title: "Cant Find Lungctanalyzer In Module Finder"
+date: 2024-02-10
+url: https://discourse.slicer.org/t/34241
+---
+
 # cant find LungCTanalyzer in module finder
 
 **Topic ID**: 34241

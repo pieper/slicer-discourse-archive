@@ -1,3 +1,10 @@
+---
+topic_id: 31593
+title: "Physical Distances In The Slice View Via Python"
+date: 2023-09-06
+url: https://discourse.slicer.org/t/31593
+---
+
 # Physical distances in the slice view via python
 
 **Topic ID**: 31593

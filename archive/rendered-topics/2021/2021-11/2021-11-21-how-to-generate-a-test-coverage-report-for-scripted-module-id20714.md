@@ -1,3 +1,10 @@
+---
+topic_id: 20714
+title: "How To Generate A Test Coverage Report For Scripted Module"
+date: 2021-11-21
+url: https://discourse.slicer.org/t/20714
+---
+
 # How to generate a test coverage report for scripted module?
 
 **Topic ID**: 20714

@@ -1,3 +1,10 @@
+---
+topic_id: 16754
+title: "The Affect Of Smoothing On The Model Size"
+date: 2021-03-24
+url: https://discourse.slicer.org/t/16754
+---
+
 # The affect of smoothing on the model size
 
 **Topic ID**: 16754

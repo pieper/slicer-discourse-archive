@@ -1,3 +1,10 @@
+---
+topic_id: 4413
+title: "Segmenting Calcaneus Bone From The Crop Created"
+date: 2018-10-16
+url: https://discourse.slicer.org/t/4413
+---
+
 # Segmenting Calcaneus bone from the crop created
 
 **Topic ID**: 4413

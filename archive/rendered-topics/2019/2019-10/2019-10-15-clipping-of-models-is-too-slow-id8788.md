@@ -1,3 +1,10 @@
+---
+topic_id: 8788
+title: "Clipping Of Models Is Too Slow"
+date: 2019-10-15
+url: https://discourse.slicer.org/t/8788
+---
+
 # Clipping of models is too slow
 
 **Topic ID**: 8788

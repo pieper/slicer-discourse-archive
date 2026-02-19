@@ -1,3 +1,10 @@
+---
+topic_id: 10953
+title: "Change Color Map And Add Color Scale"
+date: 2020-04-01
+url: https://discourse.slicer.org/t/10953
+---
+
 # Change Color map and add color scale
 
 **Topic ID**: 10953

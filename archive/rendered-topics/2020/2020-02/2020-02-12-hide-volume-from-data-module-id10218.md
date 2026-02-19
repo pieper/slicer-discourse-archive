@@ -1,3 +1,10 @@
+---
+topic_id: 10218
+title: "Hide Volume From Data Module"
+date: 2020-02-12
+url: https://discourse.slicer.org/t/10218
+---
+
 # Hide volume from data module
 
 **Topic ID**: 10218

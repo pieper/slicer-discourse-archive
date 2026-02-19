@@ -1,3 +1,10 @@
+---
+topic_id: 10642
+title: "Compute Gradient"
+date: 2020-03-11
+url: https://discourse.slicer.org/t/10642
+---
+
 # Compute Gradient
 
 **Topic ID**: 10642

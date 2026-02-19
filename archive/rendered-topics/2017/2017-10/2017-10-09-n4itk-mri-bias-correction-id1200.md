@@ -1,3 +1,10 @@
+---
+topic_id: 1200
+title: "N4Itk Mri Bias Correction"
+date: 2017-10-09
+url: https://discourse.slicer.org/t/1200
+---
+
 # N4ITK MRI Bias correction
 
 **Topic ID**: 1200

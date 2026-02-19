@@ -1,3 +1,10 @@
+---
+topic_id: 35964
+title: "Is It Possible To Scroll By Dragging The Mouse In The Curren"
+date: 2024-05-07
+url: https://discourse.slicer.org/t/35964
+---
+
 # Is it possible to scroll by dragging the mouse in the current view?
 
 **Topic ID**: 35964

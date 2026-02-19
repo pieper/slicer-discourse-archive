@@ -1,3 +1,10 @@
+---
+topic_id: 6523
+title: "Custom Build Slicer Failed"
+date: 2019-04-17
+url: https://discourse.slicer.org/t/6523
+---
+
 # Custom build Slicer failed
 
 **Topic ID**: 6523

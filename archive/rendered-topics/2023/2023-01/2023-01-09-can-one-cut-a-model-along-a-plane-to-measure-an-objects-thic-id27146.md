@@ -1,3 +1,10 @@
+---
+topic_id: 27146
+title: "Can One Cut A Model Along A Plane To Measure An Objects Thic"
+date: 2023-01-09
+url: https://discourse.slicer.org/t/27146
+---
+
 # Can one cut a model along a Plane to measure an object's thickness?
 
 **Topic ID**: 27146

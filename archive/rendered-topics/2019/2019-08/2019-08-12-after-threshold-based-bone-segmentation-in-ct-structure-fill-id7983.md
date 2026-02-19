@@ -1,3 +1,10 @@
+---
+topic_id: 7983
+title: "After Threshold Based Bone Segmentation In Ct Structure Fill"
+date: 2019-08-12
+url: https://discourse.slicer.org/t/7983
+---
+
 # After threshold-based bone segmentation in CT structure filled with holes
 
 **Topic ID**: 7983

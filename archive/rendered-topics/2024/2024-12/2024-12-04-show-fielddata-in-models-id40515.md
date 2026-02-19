@@ -1,3 +1,10 @@
+---
+topic_id: 40515
+title: "Show Fielddata In Models"
+date: 2024-12-04
+url: https://discourse.slicer.org/t/40515
+---
+
 # Show FieldData in Models
 
 **Topic ID**: 40515

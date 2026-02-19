@@ -1,3 +1,10 @@
+---
+topic_id: 26837
+title: "Interpolate Between Two Segmentations"
+date: 2022-12-20
+url: https://discourse.slicer.org/t/26837
+---
+
 # Interpolate between two segmentations
 
 **Topic ID**: 26837

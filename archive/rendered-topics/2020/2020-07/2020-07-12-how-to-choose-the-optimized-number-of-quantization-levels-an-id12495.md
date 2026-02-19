@@ -1,3 +1,10 @@
+---
+topic_id: 12495
+title: "How To Choose The Optimized Number Of Quantization Levels An"
+date: 2020-07-12
+url: https://discourse.slicer.org/t/12495
+---
+
 # How to choose the optimized number of quantization levels and the voxel size of the images in CT texture analysis?
 
 **Topic ID**: 12495

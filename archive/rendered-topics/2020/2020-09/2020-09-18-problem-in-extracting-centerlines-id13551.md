@@ -1,3 +1,10 @@
+---
+topic_id: 13551
+title: "Problem In Extracting Centerlines"
+date: 2020-09-18
+url: https://discourse.slicer.org/t/13551
+---
+
 # Problem in extracting centerlines
 
 **Topic ID**: 13551

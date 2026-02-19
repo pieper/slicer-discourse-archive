@@ -1,3 +1,10 @@
+---
+topic_id: 43781
+title: "Build Error In Windows In Debug Mode Due To Python312 D Lib"
+date: 2025-07-20
+url: https://discourse.slicer.org/t/43781
+---
+
 # Build error in Windows in debug mode due to python312_d.lib
 
 **Topic ID**: 43781

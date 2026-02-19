@@ -1,3 +1,10 @@
+---
+topic_id: 35130
+title: "How To Save Segmentation Data As It Appears In Slicer Data P"
+date: 2024-03-27
+url: https://discourse.slicer.org/t/35130
+---
+
 # How to save segmentation data as it appears in slicer data probe?
 
 **Topic ID**: 35130

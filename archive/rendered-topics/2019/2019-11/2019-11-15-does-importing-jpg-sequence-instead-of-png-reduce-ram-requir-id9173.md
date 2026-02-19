@@ -1,3 +1,10 @@
+---
+topic_id: 9173
+title: "Does Importing Jpg Sequence Instead Of Png Reduce Ram Requir"
+date: 2019-11-15
+url: https://discourse.slicer.org/t/9173
+---
+
 # Does importing .jpg sequence instead of .png reduce ram requirements?
 
 **Topic ID**: 9173

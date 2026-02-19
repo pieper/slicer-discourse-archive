@@ -1,3 +1,10 @@
+---
+topic_id: 43651
+title: "T1 T2 Mr Registration"
+date: 2025-07-08
+url: https://discourse.slicer.org/t/43651
+---
+
 # t1 t2 mr registration
 
 **Topic ID**: 43651

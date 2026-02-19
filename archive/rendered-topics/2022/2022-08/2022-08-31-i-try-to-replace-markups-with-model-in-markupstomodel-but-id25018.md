@@ -1,3 +1,10 @@
+---
+topic_id: 25018
+title: "I Try To Replace Markups With Model In Markupstomodel But"
+date: 2022-08-31
+url: https://discourse.slicer.org/t/25018
+---
+
 # I try to replace `markups` with `model` in `MarkupsToModel` , but
 
 **Topic ID**: 25018

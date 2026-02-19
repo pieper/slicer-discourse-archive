@@ -1,3 +1,10 @@
+---
+topic_id: 27298
+title: "Add A User Warning Prompt When Nifti Imported As A Segment I"
+date: 2023-01-17
+url: https://discourse.slicer.org/t/27298
+---
+
 # Add a user warning prompt when NIfTI imported as a segment is not a binary mask
 
 **Topic ID**: 27298

@@ -1,3 +1,10 @@
+---
+topic_id: 5825
+title: "Hardware Connection For Igt"
+date: 2019-02-19
+url: https://discourse.slicer.org/t/5825
+---
+
 # Hardware connection for IGT
 
 **Topic ID**: 5825

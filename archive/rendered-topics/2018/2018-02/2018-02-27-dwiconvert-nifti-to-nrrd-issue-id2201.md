@@ -1,3 +1,10 @@
+---
+topic_id: 2201
+title: "Dwiconvert Nifti To Nrrd Issue"
+date: 2018-02-27
+url: https://discourse.slicer.org/t/2201
+---
+
 # DWIConvert NIFTI to NRRD issue
 
 **Topic ID**: 2201

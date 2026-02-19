@@ -1,3 +1,10 @@
+---
+topic_id: 19824
+title: "3D Slicer For Ipad With M1 Processor"
+date: 2021-09-23
+url: https://discourse.slicer.org/t/19824
+---
+
 # 3D Slicer for iPAD with M1 processor
 
 **Topic ID**: 19824

@@ -1,3 +1,10 @@
+---
+topic_id: 37164
+title: "How To Cut Model Into Half"
+date: 2024-07-03
+url: https://discourse.slicer.org/t/37164
+---
+
 # How to cut model into half
 
 **Topic ID**: 37164

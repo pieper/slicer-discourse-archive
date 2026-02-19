@@ -1,3 +1,10 @@
+---
+topic_id: 44086
+title: "Request For Academic License Appendicular Bones Totalsegment"
+date: 2025-08-14
+url: https://discourse.slicer.org/t/44086
+---
+
 # Request for Academic License – “Appendicular Bones” TotalSegmentator Module
 
 **Topic ID**: 44086

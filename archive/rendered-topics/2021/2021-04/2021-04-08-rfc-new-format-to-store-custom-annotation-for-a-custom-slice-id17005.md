@@ -1,3 +1,10 @@
+---
+topic_id: 17005
+title: "Rfc New Format To Store Custom Annotation For A Custom Slice"
+date: 2021-04-08
+url: https://discourse.slicer.org/t/17005
+---
+
 # RFC: New "format" to store custom annotation for a custom slicer application
 
 **Topic ID**: 17005

@@ -1,3 +1,10 @@
+---
+topic_id: 14168
+title: "Meshing A Model With Different Parts"
+date: 2020-10-20
+url: https://discourse.slicer.org/t/14168
+---
+
 # Meshing a model with different parts
 
 **Topic ID**: 14168

@@ -1,3 +1,10 @@
+---
+topic_id: 14889
+title: "What Is The Command In Python To Apply Surface Smoothing To"
+date: 2020-12-05
+url: https://discourse.slicer.org/t/14889
+---
+
 # What is the command in python to apply surface smoothing to 3D object?
 
 **Topic ID**: 14889

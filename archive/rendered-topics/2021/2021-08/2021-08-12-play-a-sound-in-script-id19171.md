@@ -1,3 +1,10 @@
+---
+topic_id: 19171
+title: "Play A Sound In Script"
+date: 2021-08-12
+url: https://discourse.slicer.org/t/19171
+---
+
 # Play a sound in script
 
 **Topic ID**: 19171

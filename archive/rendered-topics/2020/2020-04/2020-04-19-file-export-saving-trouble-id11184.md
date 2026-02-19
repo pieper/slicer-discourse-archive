@@ -1,3 +1,10 @@
+---
+topic_id: 11184
+title: "File Export Saving Trouble"
+date: 2020-04-19
+url: https://discourse.slicer.org/t/11184
+---
+
 # File export / saving trouble 
 
 **Topic ID**: 11184

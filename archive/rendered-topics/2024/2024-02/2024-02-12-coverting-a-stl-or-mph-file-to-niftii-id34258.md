@@ -1,3 +1,10 @@
+---
+topic_id: 34258
+title: "Coverting A Stl Or Mph File To Niftii"
+date: 2024-02-12
+url: https://discourse.slicer.org/t/34258
+---
+
 # Coverting a .stl or .mph file to niftii 
 
 **Topic ID**: 34258

@@ -1,3 +1,10 @@
+---
+topic_id: 43062
+title: "Segmenting Ct Scans Taken By Circular Acquisition"
+date: 2025-05-23
+url: https://discourse.slicer.org/t/43062
+---
+
 # Segmenting CT scans taken by circular acquisition
 
 **Topic ID**: 43062

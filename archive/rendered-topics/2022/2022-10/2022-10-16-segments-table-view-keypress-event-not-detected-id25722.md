@@ -1,3 +1,10 @@
+---
+topic_id: 25722
+title: "Segments Table View Keypress Event Not Detected"
+date: 2022-10-16
+url: https://discourse.slicer.org/t/25722
+---
+
 # Segments Table View KeyPress event not detected
 
 **Topic ID**: 25722

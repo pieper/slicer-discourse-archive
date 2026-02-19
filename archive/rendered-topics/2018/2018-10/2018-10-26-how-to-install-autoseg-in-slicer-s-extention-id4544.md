@@ -1,3 +1,10 @@
+---
+topic_id: 4544
+title: "How To Install Autoseg In Slicer S Extention"
+date: 2018-10-26
+url: https://discourse.slicer.org/t/4544
+---
+
 # how to install AutoSeg in Slicer‘s extention
 
 **Topic ID**: 4544

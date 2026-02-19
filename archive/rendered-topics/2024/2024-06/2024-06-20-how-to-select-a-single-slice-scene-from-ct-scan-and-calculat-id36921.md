@@ -1,3 +1,10 @@
+---
+topic_id: 36921
+title: "How To Select A Single Slice Scene From Ct Scan And Calculat"
+date: 2024-06-20
+url: https://discourse.slicer.org/t/36921
+---
+
 # How to select a single slice/scene from CT scan and calculate specific segmentation volume stat? 
 
 **Topic ID**: 36921

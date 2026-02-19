@@ -1,3 +1,10 @@
+---
+topic_id: 7631
+title: "Tractography Interactive Seeding In Cli Module"
+date: 2019-07-17
+url: https://discourse.slicer.org/t/7631
+---
+
 # Tractography interactive seeding in CLI module
 
 **Topic ID**: 7631

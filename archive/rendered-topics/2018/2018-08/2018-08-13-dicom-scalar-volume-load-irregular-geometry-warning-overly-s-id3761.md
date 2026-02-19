@@ -1,3 +1,10 @@
+---
+topic_id: 3761
+title: "Dicom Scalar Volume Load Irregular Geometry Warning Overly S"
+date: 2018-08-13
+url: https://discourse.slicer.org/t/3761
+---
+
 # DICOM scalar volume load: irregular geometry warning overly stringent?
 
 **Topic ID**: 3761

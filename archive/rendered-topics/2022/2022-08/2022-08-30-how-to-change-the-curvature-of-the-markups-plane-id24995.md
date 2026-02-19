@@ -1,3 +1,10 @@
+---
+topic_id: 24995
+title: "How To Change The Curvature Of The Markups Plane"
+date: 2022-08-30
+url: https://discourse.slicer.org/t/24995
+---
+
 # How to change the curvature of the markups plane
 
 **Topic ID**: 24995

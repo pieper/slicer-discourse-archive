@@ -1,3 +1,10 @@
+---
+topic_id: 34865
+title: "How To Hold A Displaynode Using Python"
+date: 2024-03-13
+url: https://discourse.slicer.org/t/34865
+---
+
 # How to hold a displaynode using python?
 
 **Topic ID**: 34865

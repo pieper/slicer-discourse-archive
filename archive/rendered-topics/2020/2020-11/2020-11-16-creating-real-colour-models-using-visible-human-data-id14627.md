@@ -1,3 +1,10 @@
+---
+topic_id: 14627
+title: "Creating Real Colour Models Using Visible Human Data"
+date: 2020-11-16
+url: https://discourse.slicer.org/t/14627
+---
+
 # Creating real colour models using visible human data
 
 **Topic ID**: 14627

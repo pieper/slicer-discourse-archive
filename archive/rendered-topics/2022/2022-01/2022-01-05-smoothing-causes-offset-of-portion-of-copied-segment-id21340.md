@@ -1,3 +1,10 @@
+---
+topic_id: 21340
+title: "Smoothing Causes Offset Of Portion Of Copied Segment"
+date: 2022-01-05
+url: https://discourse.slicer.org/t/21340
+---
+
 # Smoothing causes offset of portion of copied segment
 
 **Topic ID**: 21340

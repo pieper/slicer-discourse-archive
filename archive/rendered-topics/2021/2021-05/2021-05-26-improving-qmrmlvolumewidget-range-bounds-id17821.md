@@ -1,3 +1,10 @@
+---
+topic_id: 17821
+title: "Improving Qmrmlvolumewidget Range Bounds"
+date: 2021-05-26
+url: https://discourse.slicer.org/t/17821
+---
+
 # Improving qMRMLVolumeWidget range bounds
 
 **Topic ID**: 17821

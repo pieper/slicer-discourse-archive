@@ -1,3 +1,10 @@
+---
+topic_id: 6054
+title: "How To Access Coronal Image Data Array From A Diffusion Weig"
+date: 2019-03-07
+url: https://discourse.slicer.org/t/6054
+---
+
 # How to access coronal image data array from a Diffusion Weighted Volume Node
 
 **Topic ID**: 6054

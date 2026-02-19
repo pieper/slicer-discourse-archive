@@ -1,3 +1,10 @@
+---
+topic_id: 1330
+title: "Utility Functions For Python Tests That Download Their Own D"
+date: 2017-10-31
+url: https://discourse.slicer.org/t/1330
+---
+
 # Utility functions for python tests that download their own (DICOM or other) data from the web
 
 **Topic ID**: 1330

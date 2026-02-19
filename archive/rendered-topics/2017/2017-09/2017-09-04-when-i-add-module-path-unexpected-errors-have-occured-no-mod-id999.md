@@ -1,3 +1,10 @@
+---
+topic_id: 999
+title: "When I Add Module Path Unexpected Errors Have Occured No Mod"
+date: 2017-09-04
+url: https://discourse.slicer.org/t/999
+---
+
 # When I add module path, unexpected errors have occured - "No module named ****"
 
 **Topic ID**: 999

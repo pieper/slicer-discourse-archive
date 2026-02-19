@@ -1,3 +1,10 @@
+---
+topic_id: 11154
+title: "Adjust Window Label And Choice A Lut For A Vtkmrmlscalarvolu"
+date: 2020-04-16
+url: https://discourse.slicer.org/t/11154
+---
+
 # Adjust Window Label and choice a LUT for a vtkMRMLScalarVolumeNode
 
 **Topic ID**: 11154

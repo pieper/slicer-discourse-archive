@@ -1,3 +1,10 @@
+---
+topic_id: 699
+title: "New Segment Editor Effects Mask Volume And Surface Cut"
+date: 2017-07-17
+url: https://discourse.slicer.org/t/699
+---
+
 # New segment editor effects: Mask volume and Surface cut
 
 **Topic ID**: 699

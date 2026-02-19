@@ -1,3 +1,10 @@
+---
+topic_id: 3173
+title: "Displayablemanager Oninteractorstyleevent For Threed Keypres"
+date: 2018-06-13
+url: https://discourse.slicer.org/t/3173
+---
+
 # DisplayableManager ::OnInteractorStyleEvent for ThreeD keypress
 
 **Topic ID**: 3173

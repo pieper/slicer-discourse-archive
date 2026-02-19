@@ -1,3 +1,10 @@
+---
+topic_id: 33317
+title: "Surface Area For Kidney Like Structure"
+date: 2023-12-09
+url: https://discourse.slicer.org/t/33317
+---
+
 # Surface area for kidney like structure
 
 **Topic ID**: 33317

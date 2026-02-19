@@ -1,3 +1,10 @@
+---
+topic_id: 36423
+title: "How To Update Markupscurve Info When It Terminated Right Cli"
+date: 2024-05-27
+url: https://discourse.slicer.org/t/36423
+---
+
 # How to update markupsCurve info when it terminated right-click end?
 
 **Topic ID**: 36423

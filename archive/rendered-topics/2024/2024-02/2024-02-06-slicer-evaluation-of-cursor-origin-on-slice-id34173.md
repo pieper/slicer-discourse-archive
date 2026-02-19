@@ -1,3 +1,10 @@
+---
+topic_id: 34173
+title: "Slicer Evaluation Of Cursor Origin On Slice"
+date: 2024-02-06
+url: https://discourse.slicer.org/t/34173
+---
+
 # Slicer, evaluation of cursor origin on slice
 
 **Topic ID**: 34173

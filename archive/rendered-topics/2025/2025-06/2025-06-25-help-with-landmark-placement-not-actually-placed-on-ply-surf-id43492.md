@@ -1,3 +1,10 @@
+---
+topic_id: 43492
+title: "Help With Landmark Placement Not Actually Placed On Ply Surf"
+date: 2025-06-25
+url: https://discourse.slicer.org/t/43492
+---
+
 # Help with Landmark placement: Not actually placed on PLY surface
 
 **Topic ID**: 43492

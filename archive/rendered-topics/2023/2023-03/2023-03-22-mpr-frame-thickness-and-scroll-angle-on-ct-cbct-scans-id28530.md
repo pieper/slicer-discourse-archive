@@ -1,3 +1,10 @@
+---
+topic_id: 28530
+title: "Mpr Frame Thickness And Scroll Angle On Ct Cbct Scans"
+date: 2023-03-22
+url: https://discourse.slicer.org/t/28530
+---
+
 # MPR frame thickness and scroll angle on CT/CBCT scans?
 
 **Topic ID**: 28530

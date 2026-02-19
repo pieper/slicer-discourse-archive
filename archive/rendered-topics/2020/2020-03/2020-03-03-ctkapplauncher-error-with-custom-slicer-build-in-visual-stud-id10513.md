@@ -1,3 +1,10 @@
+---
+topic_id: 10513
+title: "Ctkapplauncher Error With Custom Slicer Build In Visual Stud"
+date: 2020-03-03
+url: https://discourse.slicer.org/t/10513
+---
+
 # CTKAPPLAUNCHER error with custom Slicer build in Visual Studio
 
 **Topic ID**: 10513

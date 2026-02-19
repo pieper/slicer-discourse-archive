@@ -1,3 +1,10 @@
+---
+topic_id: 15527
+title: "Exporting Screenshots As Vectorized Images"
+date: 2021-01-14
+url: https://discourse.slicer.org/t/15527
+---
+
 # Exporting screenshots as vectorized images
 
 **Topic ID**: 15527

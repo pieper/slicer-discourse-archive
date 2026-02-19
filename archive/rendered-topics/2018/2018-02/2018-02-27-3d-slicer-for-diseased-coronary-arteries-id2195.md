@@ -1,3 +1,10 @@
+---
+topic_id: 2195
+title: "3D Slicer For Diseased Coronary Arteries"
+date: 2018-02-27
+url: https://discourse.slicer.org/t/2195
+---
+
 # 3D Slicer for Diseased Coronary Arteries
 
 **Topic ID**: 2195

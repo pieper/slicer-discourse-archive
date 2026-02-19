@@ -1,3 +1,10 @@
+---
+topic_id: 33571
+title: "Total Segmentation Resolution"
+date: 2023-12-30
+url: https://discourse.slicer.org/t/33571
+---
+
 # Total segmentation resolution
 
 **Topic ID**: 33571

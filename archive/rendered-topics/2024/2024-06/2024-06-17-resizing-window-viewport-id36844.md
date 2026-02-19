@@ -1,3 +1,10 @@
+---
+topic_id: 36844
+title: "Resizing Window Viewport"
+date: 2024-06-17
+url: https://discourse.slicer.org/t/36844
+---
+
 # Resizing Window/Viewport
 
 **Topic ID**: 36844

@@ -1,3 +1,10 @@
+---
+topic_id: 52
+title: "Oauth For Facebook"
+date: 2017-04-11
+url: https://discourse.slicer.org/t/52
+---
+
 # OAuth for Facebook
 
 **Topic ID**: 52

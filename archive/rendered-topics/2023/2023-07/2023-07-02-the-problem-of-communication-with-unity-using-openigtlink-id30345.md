@@ -1,3 +1,10 @@
+---
+topic_id: 30345
+title: "The Problem Of Communication With Unity Using Openigtlink"
+date: 2023-07-02
+url: https://discourse.slicer.org/t/30345
+---
+
 # The Problem of Communication with Unity using openIGTLink
 
 **Topic ID**: 30345

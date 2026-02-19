@@ -1,3 +1,10 @@
+---
+topic_id: 2101
+title: "Segmentation In Ct Images"
+date: 2018-02-16
+url: https://discourse.slicer.org/t/2101
+---
+
 # Segmentation in CT images
 
 **Topic ID**: 2101

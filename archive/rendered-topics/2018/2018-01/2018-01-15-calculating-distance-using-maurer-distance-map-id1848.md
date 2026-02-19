@@ -1,3 +1,10 @@
+---
+topic_id: 1848
+title: "Calculating Distance Using Maurer Distance Map"
+date: 2018-01-15
+url: https://discourse.slicer.org/t/1848
+---
+
 # Calculating distance using Maurer distance map
 
 **Topic ID**: 1848

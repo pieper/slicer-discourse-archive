@@ -1,3 +1,10 @@
+---
+topic_id: 7178
+title: "Loading The Shield With Radiation Field"
+date: 2019-06-15
+url: https://discourse.slicer.org/t/7178
+---
+
 # Loading the shield with radiation field
 
 **Topic ID**: 7178

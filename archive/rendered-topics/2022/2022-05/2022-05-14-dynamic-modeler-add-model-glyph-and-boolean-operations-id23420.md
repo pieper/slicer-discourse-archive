@@ -1,3 +1,10 @@
+---
+topic_id: 23420
+title: "Dynamic Modeler Add Model Glyph And Boolean Operations"
+date: 2022-05-14
+url: https://discourse.slicer.org/t/23420
+---
+
 # Dynamic modeler: Add model, Glyph and Boolean Operations
 
 **Topic ID**: 23420

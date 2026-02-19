@@ -1,3 +1,10 @@
+---
+topic_id: 5490
+title: "Segmentation And Radiomics"
+date: 2019-01-24
+url: https://discourse.slicer.org/t/5490
+---
+
 # Segmentation and radiomics
 
 **Topic ID**: 5490

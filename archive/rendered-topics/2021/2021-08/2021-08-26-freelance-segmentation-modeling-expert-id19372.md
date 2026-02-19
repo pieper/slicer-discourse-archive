@@ -1,3 +1,10 @@
+---
+topic_id: 19372
+title: "Freelance Segmentation Modeling Expert"
+date: 2021-08-26
+url: https://discourse.slicer.org/t/19372
+---
+
 # Freelance Segmentation & Modeling Expert 
 
 **Topic ID**: 19372

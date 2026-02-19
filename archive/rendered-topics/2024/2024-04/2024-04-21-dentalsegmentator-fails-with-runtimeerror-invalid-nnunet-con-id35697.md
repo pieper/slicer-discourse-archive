@@ -1,3 +1,10 @@
+---
+topic_id: 35697
+title: "Dentalsegmentator Fails With Runtimeerror Invalid Nnunet Con"
+date: 2024-04-21
+url: https://discourse.slicer.org/t/35697
+---
+
 # DentalSegmentator fails with "RuntimeError: Invalid nnUNet configuration. Model folder is missing the following folds"
 
 **Topic ID**: 35697

@@ -1,3 +1,10 @@
+---
+topic_id: 6576
+title: "Importing Dwi File"
+date: 2019-04-23
+url: https://discourse.slicer.org/t/6576
+---
+
 # Importing DWI file 
 
 **Topic ID**: 6576

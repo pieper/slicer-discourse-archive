@@ -1,3 +1,10 @@
+---
+topic_id: 16163
+title: "Send Customized Data Over Openigtlink"
+date: 2021-02-23
+url: https://discourse.slicer.org/t/16163
+---
+
 # Send customized data over OpenIGTLink
 
 **Topic ID**: 16163

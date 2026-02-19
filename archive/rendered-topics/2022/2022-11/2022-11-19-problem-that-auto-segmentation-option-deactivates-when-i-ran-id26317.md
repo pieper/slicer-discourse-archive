@@ -1,3 +1,10 @@
+---
+topic_id: 26317
+title: "Problem That Auto Segmentation Option Deactivates When I Ran"
+date: 2022-11-19
+url: https://discourse.slicer.org/t/26317
+---
+
 # Problem that 'Auto Segmentation' option deactivates when I ran monaibundle apps based on MONAI Label server of 3D-Slicer
 
 **Topic ID**: 26317

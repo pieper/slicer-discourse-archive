@@ -1,3 +1,10 @@
+---
+topic_id: 21174
+title: "Unexpected Voxel Values At Boundary When Using Cpr Curved Pl"
+date: 2021-12-22
+url: https://discourse.slicer.org/t/21174
+---
+
 # Unexpected voxel values at boundary when using CPR (curved planer reformat) to straighten label volume
 
 **Topic ID**: 21174

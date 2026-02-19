@@ -1,3 +1,10 @@
+---
+topic_id: 33750
+title: "How To Create A New Volume From Pre Segmented Slices"
+date: 2024-01-12
+url: https://discourse.slicer.org/t/33750
+---
+
 # How to create a new volume from pre-segmented slices?
 
 **Topic ID**: 33750

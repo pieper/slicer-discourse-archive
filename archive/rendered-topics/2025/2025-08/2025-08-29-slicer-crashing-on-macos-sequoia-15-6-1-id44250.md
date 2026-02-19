@@ -1,3 +1,10 @@
+---
+topic_id: 44250
+title: "Slicer Crashing On Macos Sequoia 15 6 1"
+date: 2025-08-29
+url: https://discourse.slicer.org/t/44250
+---
+
 # Slicer Crashing on MacOS Sequoia 15.6.1
 
 **Topic ID**: 44250

@@ -1,3 +1,10 @@
+---
+topic_id: 8211
+title: "Averaging Model To Model Distances Getting Value"
+date: 2019-08-28
+url: https://discourse.slicer.org/t/8211
+---
+
 # Averaging Model To Model Distances & Getting Value
 
 **Topic ID**: 8211

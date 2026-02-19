@@ -1,3 +1,10 @@
+---
+topic_id: 21814
+title: "Import Order In A Scripted Loadable Module"
+date: 2022-02-05
+url: https://discourse.slicer.org/t/21814
+---
+
 # Import order in a scripted loadable module
 
 **Topic ID**: 21814

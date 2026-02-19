@@ -1,3 +1,10 @@
+---
+topic_id: 30124
+title: "Dice Score Calculation Of 3D Binary Masks Using Segment Comp"
+date: 2023-06-19
+url: https://discourse.slicer.org/t/30124
+---
+
 # Dice score calculation of 3D binary masks using Segment Comparison module
 
 **Topic ID**: 30124

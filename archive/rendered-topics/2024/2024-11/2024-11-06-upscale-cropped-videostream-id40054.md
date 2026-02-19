@@ -1,3 +1,10 @@
+---
+topic_id: 40054
+title: "Upscale Cropped Videostream"
+date: 2024-11-06
+url: https://discourse.slicer.org/t/40054
+---
+
 # Upscale cropped videostream
 
 **Topic ID**: 40054

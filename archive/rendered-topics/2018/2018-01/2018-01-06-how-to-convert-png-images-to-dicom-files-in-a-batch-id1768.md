@@ -1,3 +1,10 @@
+---
+topic_id: 1768
+title: "How To Convert Png Images To Dicom Files In A Batch"
+date: 2018-01-06
+url: https://discourse.slicer.org/t/1768
+---
+
 # How to convert .png images to DICOM files in a batch
 
 **Topic ID**: 1768

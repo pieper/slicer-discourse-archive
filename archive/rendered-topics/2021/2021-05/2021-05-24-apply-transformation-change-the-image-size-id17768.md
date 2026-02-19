@@ -1,3 +1,10 @@
+---
+topic_id: 17768
+title: "Apply Transformation Change The Image Size"
+date: 2021-05-24
+url: https://discourse.slicer.org/t/17768
+---
+
 # Apply transformation change the image size
 
 **Topic ID**: 17768

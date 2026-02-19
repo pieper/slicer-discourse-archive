@@ -1,3 +1,10 @@
+---
+topic_id: 19986
+title: "Rotation Center Moves In Ctrl Alt Drag"
+date: 2021-10-04
+url: https://discourse.slicer.org/t/19986
+---
+
 # Rotation center moves in Ctrl+Alt+Drag
 
 **Topic ID**: 19986

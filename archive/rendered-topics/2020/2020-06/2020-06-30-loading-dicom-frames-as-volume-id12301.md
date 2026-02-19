@@ -1,3 +1,10 @@
+---
+topic_id: 12301
+title: "Loading Dicom Frames As Volume"
+date: 2020-06-30
+url: https://discourse.slicer.org/t/12301
+---
+
 # Loading DICOM frames as volume
 
 **Topic ID**: 12301

@@ -1,3 +1,10 @@
+---
+topic_id: 16004
+title: "Disappearing Of Canal And Implant"
+date: 2021-02-16
+url: https://discourse.slicer.org/t/16004
+---
+
 # Disappearing of Canal and Implant
 
 **Topic ID**: 16004

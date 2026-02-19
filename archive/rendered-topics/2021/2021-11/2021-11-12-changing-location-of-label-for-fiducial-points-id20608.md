@@ -1,3 +1,10 @@
+---
+topic_id: 20608
+title: "Changing Location Of Label For Fiducial Points"
+date: 2021-11-12
+url: https://discourse.slicer.org/t/20608
+---
+
 # Changing location of label for fiducial points
 
 **Topic ID**: 20608

@@ -1,3 +1,10 @@
+---
+topic_id: 30112
+title: "Hello I Am Trying To Download The 3D Slicer But Every Time I"
+date: 2023-06-19
+url: https://discourse.slicer.org/t/30112
+---
+
 # Hello, I am trying to download the 3D-Slicer but every time it stuck and I am facing this issue for long time. Any other link to download the 3D-Slicer?
 
 **Topic ID**: 30112

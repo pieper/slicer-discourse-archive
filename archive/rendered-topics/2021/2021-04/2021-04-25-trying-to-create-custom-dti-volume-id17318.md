@@ -1,3 +1,10 @@
+---
+topic_id: 17318
+title: "Trying To Create Custom Dti Volume"
+date: 2021-04-25
+url: https://discourse.slicer.org/t/17318
+---
+
 # Trying to create custom DTI volume
 
 **Topic ID**: 17318

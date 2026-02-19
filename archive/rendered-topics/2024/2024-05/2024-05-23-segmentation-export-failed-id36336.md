@@ -1,3 +1,10 @@
+---
+topic_id: 36336
+title: "Segmentation Export Failed"
+date: 2024-05-23
+url: https://discourse.slicer.org/t/36336
+---
+
 # Segmentation Export Failed
 
 **Topic ID**: 36336

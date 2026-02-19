@@ -1,3 +1,10 @@
+---
+topic_id: 405
+title: "Extract Point Data From Label Map In Cli Module"
+date: 2017-05-30
+url: https://discourse.slicer.org/t/405
+---
+
 # Extract point data from label map in CLI module
 
 **Topic ID**: 405

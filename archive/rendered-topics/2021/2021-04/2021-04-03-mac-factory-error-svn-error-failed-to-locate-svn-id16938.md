@@ -1,3 +1,10 @@
+---
+topic_id: 16938
+title: "Mac Factory Error Svn Error Failed To Locate Svn"
+date: 2021-04-03
+url: https://discourse.slicer.org/t/16938
+---
+
 # Mac factory error - "svn: error: Failed to locate 'svn'."
 
 **Topic ID**: 16938

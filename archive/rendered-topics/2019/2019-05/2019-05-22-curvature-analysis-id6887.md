@@ -1,3 +1,10 @@
+---
+topic_id: 6887
+title: "Curvature Analysis"
+date: 2019-05-22
+url: https://discourse.slicer.org/t/6887
+---
+
 # Curvature Analysis
 
 **Topic ID**: 6887

@@ -1,3 +1,10 @@
+---
+topic_id: 7562
+title: "Display Fibers As Tube With Non Uniform Radius"
+date: 2019-07-13
+url: https://discourse.slicer.org/t/7562
+---
+
 # Display fibers as tube with non-uniform radius
 
 **Topic ID**: 7562

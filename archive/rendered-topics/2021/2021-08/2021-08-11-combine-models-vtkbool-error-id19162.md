@@ -1,3 +1,10 @@
+---
+topic_id: 19162
+title: "Combine Models Vtkbool Error"
+date: 2021-08-11
+url: https://discourse.slicer.org/t/19162
+---
+
 # Combine Models vtkbool error
 
 **Topic ID**: 19162

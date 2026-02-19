@@ -1,3 +1,10 @@
+---
+topic_id: 4399
+title: "How To Improve Quality Of Stl Models Created From Ct Image"
+date: 2018-10-15
+url: https://discourse.slicer.org/t/4399
+---
+
 # How to improve quality of STL models created from CT image
 
 **Topic ID**: 4399

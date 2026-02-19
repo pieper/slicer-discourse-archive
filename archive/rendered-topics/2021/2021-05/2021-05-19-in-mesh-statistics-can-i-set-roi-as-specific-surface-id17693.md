@@ -1,3 +1,10 @@
+---
+topic_id: 17693
+title: "In Mesh Statistics Can I Set Roi As Specific Surface"
+date: 2021-05-19
+url: https://discourse.slicer.org/t/17693
+---
+
 # In mesh statistics, can I set ROI as specific surface?
 
 **Topic ID**: 17693

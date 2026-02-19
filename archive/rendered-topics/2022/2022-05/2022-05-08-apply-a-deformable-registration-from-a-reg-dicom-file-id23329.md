@@ -1,3 +1,10 @@
+---
+topic_id: 23329
+title: "Apply A Deformable Registration From A Reg Dicom File"
+date: 2022-05-08
+url: https://discourse.slicer.org/t/23329
+---
+
 # apply a deformable registration from a REG-DICOM file
 
 **Topic ID**: 23329

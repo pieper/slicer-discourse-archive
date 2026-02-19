@@ -1,3 +1,10 @@
+---
+topic_id: 13914
+title: "Problem With Thin Vessel Walls"
+date: 2020-10-07
+url: https://discourse.slicer.org/t/13914
+---
+
 # Problem with thin vessel walls
 
 **Topic ID**: 13914

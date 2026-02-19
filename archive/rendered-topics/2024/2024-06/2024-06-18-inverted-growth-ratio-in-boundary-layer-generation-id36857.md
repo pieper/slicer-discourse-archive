@@ -1,3 +1,10 @@
+---
+topic_id: 36857
+title: "Inverted Growth Ratio In Boundary Layer Generation"
+date: 2024-06-18
+url: https://discourse.slicer.org/t/36857
+---
+
 # Inverted growth ratio in Boundary Layer generation
 
 **Topic ID**: 36857

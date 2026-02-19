@@ -1,3 +1,10 @@
+---
+topic_id: 21727
+title: "How To Automatically Register Batch Of Lung Ct Volumes Using"
+date: 2022-02-01
+url: https://discourse.slicer.org/t/21727
+---
+
 # How to automatically register batch of lung CT volumes using Python and SlicerElastix extension?
 
 **Topic ID**: 21727

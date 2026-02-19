@@ -1,3 +1,10 @@
+---
+topic_id: 23178
+title: "Analysing Cupping Effect Of A Ct Scanner"
+date: 2022-04-28
+url: https://discourse.slicer.org/t/23178
+---
+
 # Analysing Cupping Effect of a CT-Scanner
 
 **Topic ID**: 23178

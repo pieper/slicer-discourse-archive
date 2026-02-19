@@ -1,3 +1,10 @@
+---
+topic_id: 6037
+title: "How To Translate Seg Nrrd File"
+date: 2019-03-06
+url: https://discourse.slicer.org/t/6037
+---
+
 # How to translate seg_nrrd file
 
 **Topic ID**: 6037

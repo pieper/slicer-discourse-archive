@@ -1,3 +1,10 @@
+---
+topic_id: 24113
+title: "Adjusting The Contrast"
+date: 2022-06-30
+url: https://discourse.slicer.org/t/24113
+---
+
 # Adjusting the contrast
 
 **Topic ID**: 24113

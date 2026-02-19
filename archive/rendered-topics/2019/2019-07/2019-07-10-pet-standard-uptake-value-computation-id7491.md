@@ -1,3 +1,10 @@
+---
+topic_id: 7491
+title: "Pet Standard Uptake Value Computation"
+date: 2019-07-10
+url: https://discourse.slicer.org/t/7491
+---
+
 # PET Standard Uptake Value Computation
 
 **Topic ID**: 7491

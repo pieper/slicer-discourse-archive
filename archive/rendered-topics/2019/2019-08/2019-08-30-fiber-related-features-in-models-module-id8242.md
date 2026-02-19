@@ -1,3 +1,10 @@
+---
+topic_id: 8242
+title: "Fiber Related Features In Models Module"
+date: 2019-08-30
+url: https://discourse.slicer.org/t/8242
+---
+
 # Fiber related features in Models module
 
 **Topic ID**: 8242

@@ -1,3 +1,10 @@
+---
+topic_id: 43582
+title: "Cannot Find Libraries When Loading Custom Loadable Extension"
+date: 2025-07-02
+url: https://discourse.slicer.org/t/43582
+---
+
 # Cannot find libraries when loading custom loadable extension because of versioning
 
 **Topic ID**: 43582

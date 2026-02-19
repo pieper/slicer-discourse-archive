@@ -1,3 +1,10 @@
+---
+topic_id: 26761
+title: "Closed Curves Centroid And Eplipse Long And Short Axis"
+date: 2022-12-16
+url: https://discourse.slicer.org/t/26761
+---
+
 # Closed curves - centroid and eplipse long and short axis
 
 **Topic ID**: 26761

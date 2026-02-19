@@ -1,3 +1,10 @@
+---
+topic_id: 40985
+title: "Hausdorff Distance And Dice Similarity Coefficient Calculati"
+date: 2025-01-07
+url: https://discourse.slicer.org/t/40985
+---
+
 # Hausdorff Distance and Dice Similarity Coefficient calculations
 
 **Topic ID**: 40985

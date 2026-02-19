@@ -1,3 +1,10 @@
+---
+topic_id: 31192
+title: "Mri Brain Segmentation Of Healthy Tissue In Tumour Populatio"
+date: 2023-08-17
+url: https://discourse.slicer.org/t/31192
+---
+
 # MRI Brain segmentation of healthy tissue in tumour population
 
 **Topic ID**: 31192

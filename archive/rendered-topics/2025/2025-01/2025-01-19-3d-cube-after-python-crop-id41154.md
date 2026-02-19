@@ -1,3 +1,10 @@
+---
+topic_id: 41154
+title: "3D Cube After Python Crop"
+date: 2025-01-19
+url: https://discourse.slicer.org/t/41154
+---
+
 # 3d cube after python crop
 
 **Topic ID**: 41154

@@ -1,3 +1,10 @@
+---
+topic_id: 43844
+title: "New Extension Synchronised Navigation With Registration"
+date: 2025-07-25
+url: https://discourse.slicer.org/t/43844
+---
+
 # New extension: Synchronised Navigation with Registration
 
 **Topic ID**: 43844

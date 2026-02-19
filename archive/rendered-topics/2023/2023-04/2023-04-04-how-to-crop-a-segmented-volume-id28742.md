@@ -1,3 +1,10 @@
+---
+topic_id: 28742
+title: "How To Crop A Segmented Volume"
+date: 2023-04-04
+url: https://discourse.slicer.org/t/28742
+---
+
 # How to crop a segmented volume?
 
 **Topic ID**: 28742

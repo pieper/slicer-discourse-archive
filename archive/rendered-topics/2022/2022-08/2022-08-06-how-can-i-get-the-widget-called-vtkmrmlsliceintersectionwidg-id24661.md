@@ -1,3 +1,10 @@
+---
+topic_id: 24661
+title: "How Can I Get The Widget Called Vtkmrmlsliceintersectionwidg"
+date: 2022-08-06
+url: https://discourse.slicer.org/t/24661
+---
+
 # How can I get the widget called "vtkMRMLSliceIntersectionWidget" in python?
 
 **Topic ID**: 24661

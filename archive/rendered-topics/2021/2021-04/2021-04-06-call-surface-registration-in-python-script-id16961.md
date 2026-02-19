@@ -1,3 +1,10 @@
+---
+topic_id: 16961
+title: "Call Surface Registration In Python Script"
+date: 2021-04-06
+url: https://discourse.slicer.org/t/16961
+---
+
 # Call surface registration in python script
 
 **Topic ID**: 16961

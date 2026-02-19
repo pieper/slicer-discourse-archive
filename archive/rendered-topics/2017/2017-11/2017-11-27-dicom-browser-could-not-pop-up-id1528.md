@@ -1,3 +1,10 @@
+---
+topic_id: 1528
+title: "Dicom Browser Could Not Pop Up"
+date: 2017-11-27
+url: https://discourse.slicer.org/t/1528
+---
+
 # DICOM Browser could not pop-up
 
 **Topic ID**: 1528

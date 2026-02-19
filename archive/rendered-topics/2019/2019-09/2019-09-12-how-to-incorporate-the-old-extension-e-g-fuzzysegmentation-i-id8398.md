@@ -1,3 +1,10 @@
+---
+topic_id: 8398
+title: "How To Incorporate The Old Extension E G Fuzzysegmentation I"
+date: 2019-09-12
+url: https://discourse.slicer.org/t/8398
+---
+
 # How to incorporate the old extension (e.g. FuzzySegmentation) into 3D slicer?
 
 **Topic ID**: 8398

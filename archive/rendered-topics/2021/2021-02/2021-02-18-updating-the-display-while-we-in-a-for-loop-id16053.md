@@ -1,3 +1,10 @@
+---
+topic_id: 16053
+title: "Updating The Display While We In A For Loop"
+date: 2021-02-18
+url: https://discourse.slicer.org/t/16053
+---
+
 # Updating the display while we in a for loop
 
 **Topic ID**: 16053

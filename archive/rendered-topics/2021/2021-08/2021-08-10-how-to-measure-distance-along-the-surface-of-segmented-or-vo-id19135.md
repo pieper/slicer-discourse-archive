@@ -1,3 +1,10 @@
+---
+topic_id: 19135
+title: "How To Measure Distance Along The Surface Of Segmented Or Vo"
+date: 2021-08-10
+url: https://discourse.slicer.org/t/19135
+---
+
 # How to measure distance along the surface of segmented or volume rendering aorta?
 
 **Topic ID**: 19135

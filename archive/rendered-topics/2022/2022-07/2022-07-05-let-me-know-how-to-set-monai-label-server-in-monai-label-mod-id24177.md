@@ -1,3 +1,10 @@
+---
+topic_id: 24177
+title: "Let Me Know How To Set Monai Label Server In Monai Label Mod"
+date: 2022-07-05
+url: https://discourse.slicer.org/t/24177
+---
+
 # Let me know how to set MONAI Label server in MONAI Label module
 
 **Topic ID**: 24177

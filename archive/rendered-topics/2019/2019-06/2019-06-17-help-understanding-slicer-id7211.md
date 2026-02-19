@@ -1,3 +1,10 @@
+---
+topic_id: 7211
+title: "Help Understanding Slicer"
+date: 2019-06-17
+url: https://discourse.slicer.org/t/7211
+---
+
 # Help Understanding Slicer
 
 **Topic ID**: 7211

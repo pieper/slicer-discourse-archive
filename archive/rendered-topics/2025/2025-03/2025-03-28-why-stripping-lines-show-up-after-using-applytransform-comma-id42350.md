@@ -1,3 +1,10 @@
+---
+topic_id: 42350
+title: "Why Stripping Lines Show Up After Using Applytransform Comma"
+date: 2025-03-28
+url: https://discourse.slicer.org/t/42350
+---
+
 # Why stripping lines show up after using ApplyTransform command?
 
 **Topic ID**: 42350

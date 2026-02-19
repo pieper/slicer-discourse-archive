@@ -1,3 +1,10 @@
+---
+topic_id: 19089
+title: "Nonetype Object Has No Attribute Getparenttransformnode"
+date: 2021-08-05
+url: https://discourse.slicer.org/t/19089
+---
+
 # 'NoneType' Object has no attribute 'GetParentTransformNode'?
 
 **Topic ID**: 19089

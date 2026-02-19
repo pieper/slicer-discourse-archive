@@ -1,3 +1,10 @@
+---
+topic_id: 19881
+title: "Unable To Open Seg Modality File"
+date: 2021-09-27
+url: https://discourse.slicer.org/t/19881
+---
+
 # Unable to open SEG Modality file
 
 **Topic ID**: 19881

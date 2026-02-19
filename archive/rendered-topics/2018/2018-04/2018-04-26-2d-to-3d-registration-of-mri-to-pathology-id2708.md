@@ -1,3 +1,10 @@
+---
+topic_id: 2708
+title: "2D To 3D Registration Of Mri To Pathology"
+date: 2018-04-26
+url: https://discourse.slicer.org/t/2708
+---
+
 # 2d to 3D registration of MRI to pathology
 
 **Topic ID**: 2708

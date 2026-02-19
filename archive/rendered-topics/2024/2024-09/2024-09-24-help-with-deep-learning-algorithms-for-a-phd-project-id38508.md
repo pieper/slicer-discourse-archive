@@ -1,3 +1,10 @@
+---
+topic_id: 38508
+title: "Help With Deep Learning Algorithms For A Phd Project"
+date: 2024-09-24
+url: https://discourse.slicer.org/t/38508
+---
+
 # Help with deep learning algorithms for a PhD project
 
 **Topic ID**: 38508

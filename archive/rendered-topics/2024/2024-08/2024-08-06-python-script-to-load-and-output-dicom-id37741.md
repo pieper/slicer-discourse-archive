@@ -1,3 +1,10 @@
+---
+topic_id: 37741
+title: "Python Script To Load And Output Dicom"
+date: 2024-08-06
+url: https://discourse.slicer.org/t/37741
+---
+
 # Python script to load and output DICOM
 
 **Topic ID**: 37741

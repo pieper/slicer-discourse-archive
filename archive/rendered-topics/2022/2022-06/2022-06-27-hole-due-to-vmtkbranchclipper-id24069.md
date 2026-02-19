@@ -1,3 +1,10 @@
+---
+topic_id: 24069
+title: "Hole Due To Vmtkbranchclipper"
+date: 2022-06-27
+url: https://discourse.slicer.org/t/24069
+---
+
 # Hole due to vmtkbranchclipper
 
 **Topic ID**: 24069

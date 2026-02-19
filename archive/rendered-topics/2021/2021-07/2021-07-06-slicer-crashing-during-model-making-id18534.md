@@ -1,3 +1,10 @@
+---
+topic_id: 18534
+title: "Slicer Crashing During Model Making"
+date: 2021-07-06
+url: https://discourse.slicer.org/t/18534
+---
+
 # Slicer crashing during Model Making
 
 **Topic ID**: 18534

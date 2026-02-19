@@ -1,3 +1,10 @@
+---
+topic_id: 12498
+title: "Stl File To Stack Of Images"
+date: 2020-07-13
+url: https://discourse.slicer.org/t/12498
+---
+
 # .STL file to stack of images
 
 **Topic ID**: 12498

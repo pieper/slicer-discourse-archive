@@ -1,3 +1,10 @@
+---
+topic_id: 13984
+title: "Segment 4D Cardiac Echo Image"
+date: 2020-10-10
+url: https://discourse.slicer.org/t/13984
+---
+
 # Segment 4D cardiac echo image
 
 **Topic ID**: 13984

@@ -1,3 +1,10 @@
+---
+topic_id: 23368
+title: "Why The Image Dicom Int16 Cannot Do The Segmentation Using P"
+date: 2022-05-11
+url: https://discourse.slicer.org/t/23368
+---
+
 # Why the image dicom int16 cannot do the segmentation using PetTumorSegmentation Extension?
 
 **Topic ID**: 23368

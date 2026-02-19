@@ -1,3 +1,10 @@
+---
+topic_id: 10443
+title: "Mri Normnalization"
+date: 2020-02-26
+url: https://discourse.slicer.org/t/10443
+---
+
 # MRI normnalization
 
 **Topic ID**: 10443

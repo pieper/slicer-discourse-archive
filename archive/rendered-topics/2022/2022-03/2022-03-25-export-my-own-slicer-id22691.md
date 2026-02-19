@@ -1,3 +1,10 @@
+---
+topic_id: 22691
+title: "Export My Own Slicer"
+date: 2022-03-25
+url: https://discourse.slicer.org/t/22691
+---
+
 # Export my own Slicer
 
 **Topic ID**: 22691

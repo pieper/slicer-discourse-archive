@@ -1,3 +1,10 @@
+---
+topic_id: 8438
+title: "Update Table Display"
+date: 2019-09-15
+url: https://discourse.slicer.org/t/8438
+---
+
 # Update Table display?
 
 **Topic ID**: 8438

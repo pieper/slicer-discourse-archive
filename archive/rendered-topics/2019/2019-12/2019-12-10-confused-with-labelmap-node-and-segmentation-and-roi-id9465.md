@@ -1,3 +1,10 @@
+---
+topic_id: 9465
+title: "Confused With Labelmap Node And Segmentation And Roi"
+date: 2019-12-10
+url: https://discourse.slicer.org/t/9465
+---
+
 # Confused with labelmap node and segmentation, and ROI?
 
 **Topic ID**: 9465

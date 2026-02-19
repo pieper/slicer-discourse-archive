@@ -1,3 +1,10 @@
+---
+topic_id: 14691
+title: "Realign Ct Along The Femurs Centerline"
+date: 2020-11-19
+url: https://discourse.slicer.org/t/14691
+---
+
 # Realign CT along the femur's centerline
 
 **Topic ID**: 14691

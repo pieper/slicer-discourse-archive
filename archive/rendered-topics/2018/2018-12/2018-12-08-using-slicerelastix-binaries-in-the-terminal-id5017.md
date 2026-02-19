@@ -1,3 +1,10 @@
+---
+topic_id: 5017
+title: "Using Slicerelastix Binaries In The Terminal"
+date: 2018-12-08
+url: https://discourse.slicer.org/t/5017
+---
+
 # Using SlicerElastix binaries in the terminal
 
 **Topic ID**: 5017

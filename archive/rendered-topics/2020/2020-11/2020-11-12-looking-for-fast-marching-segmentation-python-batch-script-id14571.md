@@ -1,3 +1,10 @@
+---
+topic_id: 14571
+title: "Looking For Fast Marching Segmentation Python Batch Script"
+date: 2020-11-12
+url: https://discourse.slicer.org/t/14571
+---
+
 # Looking for Fast Marching segmentation Python Batch Script
 
 **Topic ID**: 14571

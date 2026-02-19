@@ -1,3 +1,10 @@
+---
+topic_id: 4183
+title: "Creation Of A New Module Which Contains A Transparent Adjust"
+date: 2018-09-25
+url: https://discourse.slicer.org/t/4183
+---
+
 # Creation of a new module which contains a transparent adjustable overlay
 
 **Topic ID**: 4183

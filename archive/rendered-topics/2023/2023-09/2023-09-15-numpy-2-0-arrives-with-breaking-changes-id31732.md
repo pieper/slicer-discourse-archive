@@ -1,3 +1,10 @@
+---
+topic_id: 31732
+title: "Numpy 2 0 Arrives With Breaking Changes"
+date: 2023-09-15
+url: https://discourse.slicer.org/t/31732
+---
+
 # Numpy 2.0 arrives with breaking changes
 
 **Topic ID**: 31732

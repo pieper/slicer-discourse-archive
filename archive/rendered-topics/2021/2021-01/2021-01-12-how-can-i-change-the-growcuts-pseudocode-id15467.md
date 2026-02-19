@@ -1,3 +1,10 @@
+---
+topic_id: 15467
+title: "How Can I Change The Growcuts Pseudocode"
+date: 2021-01-12
+url: https://discourse.slicer.org/t/15467
+---
+
 # How can I change the GrowCut's pseudocode?
 
 **Topic ID**: 15467

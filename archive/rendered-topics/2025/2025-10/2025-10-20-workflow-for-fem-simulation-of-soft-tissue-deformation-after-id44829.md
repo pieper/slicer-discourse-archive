@@ -1,3 +1,10 @@
+---
+topic_id: 44829
+title: "Workflow For Fem Simulation Of Soft Tissue Deformation After"
+date: 2025-10-20
+url: https://discourse.slicer.org/t/44829
+---
+
 # Workflow for FEM Simulation of Soft Tissue Deformation after Bimaxillary Surgery (using 3D Slicer + Open-Source Tools)
 
 **Topic ID**: 44829

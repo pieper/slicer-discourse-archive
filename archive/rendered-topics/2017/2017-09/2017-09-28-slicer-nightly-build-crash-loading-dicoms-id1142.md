@@ -1,3 +1,10 @@
+---
+topic_id: 1142
+title: "Slicer Nightly Build Crash Loading Dicoms"
+date: 2017-09-28
+url: https://discourse.slicer.org/t/1142
+---
+
 # Slicer Nightly Build Crash loading DICOMs
 
 **Topic ID**: 1142

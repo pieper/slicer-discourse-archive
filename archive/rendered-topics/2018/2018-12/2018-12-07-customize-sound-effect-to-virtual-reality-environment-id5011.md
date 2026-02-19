@@ -1,3 +1,10 @@
+---
+topic_id: 5011
+title: "Customize Sound Effect To Virtual Reality Environment"
+date: 2018-12-07
+url: https://discourse.slicer.org/t/5011
+---
+
 # Customize Sound effect to Virtual reality environment
 
 **Topic ID**: 5011

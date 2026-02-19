@@ -1,3 +1,10 @@
+---
+topic_id: 24364
+title: "Qt License Type In Slicer And Commerical Use Question"
+date: 2022-07-18
+url: https://discourse.slicer.org/t/24364
+---
+
 # QT license type in Slicer and commerical use question?
 
 **Topic ID**: 24364

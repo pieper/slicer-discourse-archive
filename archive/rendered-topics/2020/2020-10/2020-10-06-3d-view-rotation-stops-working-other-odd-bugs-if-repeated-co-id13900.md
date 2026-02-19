@@ -1,3 +1,10 @@
+---
+topic_id: 13900
+title: "3D View Rotation Stops Working Other Odd Bugs If Repeated Co"
+date: 2020-10-06
+url: https://discourse.slicer.org/t/13900
+---
+
 # 3D View rotation stops working (+other odd bugs) if repeated control point location
 
 **Topic ID**: 13900

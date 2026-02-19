@@ -1,3 +1,10 @@
+---
+topic_id: 24971
+title: "Segementation Mask File Nii Format Convert Stl Format"
+date: 2022-08-29
+url: https://discourse.slicer.org/t/24971
+---
+
 # Segementation mask file (.nii format) convert .stl format
 
 **Topic ID**: 24971

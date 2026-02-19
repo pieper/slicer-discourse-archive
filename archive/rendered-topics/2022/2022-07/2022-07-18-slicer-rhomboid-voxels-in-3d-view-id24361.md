@@ -1,3 +1,10 @@
+---
+topic_id: 24361
+title: "Slicer Rhomboid Voxels In 3D View"
+date: 2022-07-18
+url: https://discourse.slicer.org/t/24361
+---
+
 # Slicer rhomboid voxels in 3D-View
 
 **Topic ID**: 24361

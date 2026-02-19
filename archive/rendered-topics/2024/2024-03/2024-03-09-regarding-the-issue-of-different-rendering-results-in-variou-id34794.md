@@ -1,3 +1,10 @@
+---
+topic_id: 34794
+title: "Regarding The Issue Of Different Rendering Results In Variou"
+date: 2024-03-09
+url: https://discourse.slicer.org/t/34794
+---
+
 # Regarding the issue of different rendering results in various versions:
 
 **Topic ID**: 34794

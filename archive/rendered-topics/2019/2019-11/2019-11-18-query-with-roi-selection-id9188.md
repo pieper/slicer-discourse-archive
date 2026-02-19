@@ -1,3 +1,10 @@
+---
+topic_id: 9188
+title: "Query With Roi Selection"
+date: 2019-11-18
+url: https://discourse.slicer.org/t/9188
+---
+
 # Query with ROI selection
 
 **Topic ID**: 9188

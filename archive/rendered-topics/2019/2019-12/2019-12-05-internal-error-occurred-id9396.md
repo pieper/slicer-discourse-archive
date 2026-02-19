@@ -1,3 +1,10 @@
+---
+topic_id: 9396
+title: "Internal Error Occurred"
+date: 2019-12-05
+url: https://discourse.slicer.org/t/9396
+---
+
 # Internal error occurred
 
 **Topic ID**: 9396

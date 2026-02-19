@@ -1,3 +1,10 @@
+---
+topic_id: 33153
+title: "Create Sphere With Designated Center Point"
+date: 2023-11-30
+url: https://discourse.slicer.org/t/33153
+---
+
 # Create sphere with designated center point
 
 **Topic ID**: 33153

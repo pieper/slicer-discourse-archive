@@ -1,3 +1,10 @@
+---
+topic_id: 12409
+title: "Is It Possible To Apply Visually Crop Of The 3D Model To See"
+date: 2020-07-07
+url: https://discourse.slicer.org/t/12409
+---
+
 # Is it possible to apply visually crop of the 3D model to see it's internal surface?
 
 **Topic ID**: 12409

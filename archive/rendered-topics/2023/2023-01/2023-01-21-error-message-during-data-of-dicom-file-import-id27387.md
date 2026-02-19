@@ -1,3 +1,10 @@
+---
+topic_id: 27387
+title: "Error Message During Data Of Dicom File Import"
+date: 2023-01-21
+url: https://discourse.slicer.org/t/27387
+---
+
 # Error message during data of DICOM file import 
 
 **Topic ID**: 27387

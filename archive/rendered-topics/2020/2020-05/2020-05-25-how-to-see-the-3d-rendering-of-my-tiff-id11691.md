@@ -1,3 +1,10 @@
+---
+topic_id: 11691
+title: "How To See The 3D Rendering Of My Tiff"
+date: 2020-05-25
+url: https://discourse.slicer.org/t/11691
+---
+
 # How to see the 3D rendering of my .tiff?
 
 **Topic ID**: 11691

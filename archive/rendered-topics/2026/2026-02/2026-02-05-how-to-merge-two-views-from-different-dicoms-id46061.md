@@ -1,3 +1,10 @@
+---
+topic_id: 46061
+title: "How To Merge Two Views From Different Dicoms"
+date: 2026-02-05
+url: https://discourse.slicer.org/t/46061
+---
+
 # How to merge two views from different DICOMs?
 
 **Topic ID**: 46061

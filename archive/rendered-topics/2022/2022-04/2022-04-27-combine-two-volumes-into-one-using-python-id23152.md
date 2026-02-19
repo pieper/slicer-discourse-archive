@@ -1,3 +1,10 @@
+---
+topic_id: 23152
+title: "Combine Two Volumes Into One Using Python"
+date: 2022-04-27
+url: https://discourse.slicer.org/t/23152
+---
+
 # combine two volumes into one using python
 
 **Topic ID**: 23152

@@ -1,3 +1,10 @@
+---
+topic_id: 13826
+title: "Segmentation Visibility By Code"
+date: 2020-10-02
+url: https://discourse.slicer.org/t/13826
+---
+
 # Segmentation visibility by code
 
 **Topic ID**: 13826

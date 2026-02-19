@@ -1,3 +1,10 @@
+---
+topic_id: 41111
+title: "How Is The Ui Designed"
+date: 2025-01-16
+url: https://discourse.slicer.org/t/41111
+---
+
 # How is the ui designed?
 
 **Topic ID**: 41111

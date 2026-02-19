@@ -1,3 +1,10 @@
+---
+topic_id: 31888
+title: "How To Substract Two Stl Files"
+date: 2023-09-25
+url: https://discourse.slicer.org/t/31888
+---
+
 # How to substract two STL files?
 
 **Topic ID**: 31888

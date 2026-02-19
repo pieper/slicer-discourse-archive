@@ -1,3 +1,10 @@
+---
+topic_id: 1898
+title: "2 Mri To Compare And Highlight The Different Region"
+date: 2018-01-22
+url: https://discourse.slicer.org/t/1898
+---
+
 # 2 MRI to compare and highlight the different region
 
 **Topic ID**: 1898

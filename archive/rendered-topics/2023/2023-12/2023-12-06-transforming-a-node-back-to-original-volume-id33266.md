@@ -1,3 +1,10 @@
+---
+topic_id: 33266
+title: "Transforming A Node Back To Original Volume"
+date: 2023-12-06
+url: https://discourse.slicer.org/t/33266
+---
+
 # Transforming a node back to original volume
 
 **Topic ID**: 33266

@@ -1,3 +1,10 @@
+---
+topic_id: 27960
+title: "Getnodebyclass Vtkmrmlscalarvolumenode Returns Vtkmrmlmultiv"
+date: 2023-02-22
+url: https://discourse.slicer.org/t/27960
+---
+
 # GetNodeByClass(vtkMRMLScalarVolumeNode) returns vtkMRMLMultiVolumeNode
 
 **Topic ID**: 27960

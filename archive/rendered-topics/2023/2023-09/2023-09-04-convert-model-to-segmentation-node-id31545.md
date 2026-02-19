@@ -1,3 +1,10 @@
+---
+topic_id: 31545
+title: "Convert Model To Segmentation Node"
+date: 2023-09-04
+url: https://discourse.slicer.org/t/31545
+---
+
 # Convert model to segmentation node
 
 **Topic ID**: 31545

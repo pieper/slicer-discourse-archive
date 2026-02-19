@@ -1,3 +1,10 @@
+---
+topic_id: 14666
+title: "Volume Rendering Staircase Artifacts"
+date: 2020-11-17
+url: https://discourse.slicer.org/t/14666
+---
+
 # Volume rendering - staircase artifacts
 
 **Topic ID**: 14666

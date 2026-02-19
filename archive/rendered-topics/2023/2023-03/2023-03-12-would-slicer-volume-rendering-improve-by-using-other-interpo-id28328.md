@@ -1,3 +1,10 @@
+---
+topic_id: 28328
+title: "Would Slicer Volume Rendering Improve By Using Other Interpo"
+date: 2023-03-12
+url: https://discourse.slicer.org/t/28328
+---
+
 # Would Slicer Volume Rendering improve by using other interpolation functions?
 
 **Topic ID**: 28328

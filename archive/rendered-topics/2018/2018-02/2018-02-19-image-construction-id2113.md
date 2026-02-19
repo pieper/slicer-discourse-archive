@@ -1,3 +1,10 @@
+---
+topic_id: 2113
+title: "Image Construction"
+date: 2018-02-19
+url: https://discourse.slicer.org/t/2113
+---
+
 # Image construction
 
 **Topic ID**: 2113

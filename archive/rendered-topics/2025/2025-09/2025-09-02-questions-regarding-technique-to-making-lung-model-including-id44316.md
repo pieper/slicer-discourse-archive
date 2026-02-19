@@ -1,3 +1,10 @@
+---
+topic_id: 44316
+title: "Questions Regarding Technique To Making Lung Model Including"
+date: 2025-09-02
+url: https://discourse.slicer.org/t/44316
+---
+
 # Questions regarding technique to making lung model including an comparison
 
 **Topic ID**: 44316

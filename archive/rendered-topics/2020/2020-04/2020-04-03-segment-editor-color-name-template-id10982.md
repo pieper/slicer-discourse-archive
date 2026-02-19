@@ -1,3 +1,10 @@
+---
+topic_id: 10982
+title: "Segment Editor Color Name Template"
+date: 2020-04-03
+url: https://discourse.slicer.org/t/10982
+---
+
 # Segment Editor color/name template
 
 **Topic ID**: 10982

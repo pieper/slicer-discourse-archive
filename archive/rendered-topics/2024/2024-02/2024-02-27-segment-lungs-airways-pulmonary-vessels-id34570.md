@@ -1,3 +1,10 @@
+---
+topic_id: 34570
+title: "Segment Lungs Airways Pulmonary Vessels"
+date: 2024-02-27
+url: https://discourse.slicer.org/t/34570
+---
+
 # Segment lungs, airways, pulmonary vessels
 
 **Topic ID**: 34570

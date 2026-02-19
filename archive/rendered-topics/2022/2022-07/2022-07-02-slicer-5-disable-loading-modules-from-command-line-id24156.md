@@ -1,3 +1,10 @@
+---
+topic_id: 24156
+title: "Slicer 5 Disable Loading Modules From Command Line"
+date: 2022-07-02
+url: https://discourse.slicer.org/t/24156
+---
+
 # Slicer 5: Disable loading modules from command line
 
 **Topic ID**: 24156

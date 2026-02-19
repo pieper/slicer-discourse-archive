@@ -1,3 +1,10 @@
+---
+topic_id: 13002
+title: "Bug Tracker Link From Slicer Help Menu Is Dead"
+date: 2020-08-14
+url: https://discourse.slicer.org/t/13002
+---
+
 # Bug Tracker link from Slicer Help menu is dead
 
 **Topic ID**: 13002

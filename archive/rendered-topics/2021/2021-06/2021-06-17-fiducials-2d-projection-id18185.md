@@ -1,3 +1,10 @@
+---
+topic_id: 18185
+title: "Fiducials 2D Projection"
+date: 2021-06-17
+url: https://discourse.slicer.org/t/18185
+---
+
 # Fiducials- 2D projection
 
 **Topic ID**: 18185

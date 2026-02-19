@@ -1,3 +1,10 @@
+---
+topic_id: 12894
+title: "The Slicerdmri Extension Is Currently Unavailable"
+date: 2020-08-07
+url: https://discourse.slicer.org/t/12894
+---
+
 # The SlicerDMRI extension is currently unavailable
 
 **Topic ID**: 12894

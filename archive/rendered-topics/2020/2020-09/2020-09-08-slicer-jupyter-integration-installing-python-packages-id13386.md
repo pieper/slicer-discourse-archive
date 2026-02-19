@@ -1,3 +1,10 @@
+---
+topic_id: 13386
+title: "Slicer Jupyter Integration Installing Python Packages"
+date: 2020-09-08
+url: https://discourse.slicer.org/t/13386
+---
+
 # Slicer/Jupyter integration: installing python packages
 
 **Topic ID**: 13386

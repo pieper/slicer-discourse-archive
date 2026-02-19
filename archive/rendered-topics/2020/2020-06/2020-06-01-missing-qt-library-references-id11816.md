@@ -1,3 +1,10 @@
+---
+topic_id: 11816
+title: "Missing Qt Library References"
+date: 2020-06-01
+url: https://discourse.slicer.org/t/11816
+---
+
 # Missing qt library references
 
 **Topic ID**: 11816

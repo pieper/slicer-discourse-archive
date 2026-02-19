@@ -1,3 +1,10 @@
+---
+topic_id: 10072
+title: "Creating 3D Printed Model Of Airways Using Ct"
+date: 2020-02-02
+url: https://discourse.slicer.org/t/10072
+---
+
 # Creating 3D printed model of Airways using CT
 
 **Topic ID**: 10072

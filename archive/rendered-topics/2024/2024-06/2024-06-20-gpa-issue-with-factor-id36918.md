@@ -1,3 +1,10 @@
+---
+topic_id: 36918
+title: "Gpa Issue With Factor"
+date: 2024-06-20
+url: https://discourse.slicer.org/t/36918
+---
+
 # GPA issue with factor
 
 **Topic ID**: 36918

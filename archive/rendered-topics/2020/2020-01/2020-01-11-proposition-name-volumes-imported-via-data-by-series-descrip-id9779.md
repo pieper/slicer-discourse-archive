@@ -1,3 +1,10 @@
+---
+topic_id: 9779
+title: "Proposition Name Volumes Imported Via Data By Series Descrip"
+date: 2020-01-11
+url: https://discourse.slicer.org/t/9779
+---
+
 # Proposition: Name volumes imported via Data by Series description
 
 **Topic ID**: 9779

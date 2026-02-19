@@ -1,3 +1,10 @@
+---
+topic_id: 24851
+title: "How To Make Plane Nodes Transform Rotate Together"
+date: 2022-08-21
+url: https://discourse.slicer.org/t/24851
+---
+
 # How to make plane nodes transform/rotate together
 
 **Topic ID**: 24851

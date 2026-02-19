@@ -1,3 +1,10 @@
+---
+topic_id: 26217
+title: "Import Nrrd Format"
+date: 2022-11-14
+url: https://discourse.slicer.org/t/26217
+---
+
 # Import NRRD format
 
 **Topic ID**: 26217

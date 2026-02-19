@@ -1,3 +1,10 @@
+---
+topic_id: 3788
+title: "Display Segment Names On Images"
+date: 2018-08-15
+url: https://discourse.slicer.org/t/3788
+---
+
 # Display segment names on images
 
 **Topic ID**: 3788

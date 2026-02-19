@@ -1,3 +1,10 @@
+---
+topic_id: 32688
+title: "The Dark Slice Problem In The Nifti Formant"
+date: 2023-11-09
+url: https://discourse.slicer.org/t/32688
+---
+
 # The dark slice problem in the Nifti formant?
 
 **Topic ID**: 32688

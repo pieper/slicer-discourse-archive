@@ -1,3 +1,10 @@
+---
+topic_id: 9714
+title: "Smoothing In Segmentations"
+date: 2020-01-05
+url: https://discourse.slicer.org/t/9714
+---
+
 # Smoothing in segmentations
 
 **Topic ID**: 9714

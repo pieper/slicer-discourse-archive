@@ -1,3 +1,10 @@
+---
+topic_id: 39666
+title: "Managing Project Week Project Descriptions"
+date: 2017-06-06
+url: https://discourse.slicer.org/t/39666
+---
+
 # Managing Project Week project descriptions
 
 **Topic ID**: 39666

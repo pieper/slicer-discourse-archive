@@ -1,3 +1,10 @@
+---
+topic_id: 2665
+title: "3D Surface Reconstruction"
+date: 2018-04-23
+url: https://discourse.slicer.org/t/2665
+---
+
 # 3D surface reconstruction
 
 **Topic ID**: 2665

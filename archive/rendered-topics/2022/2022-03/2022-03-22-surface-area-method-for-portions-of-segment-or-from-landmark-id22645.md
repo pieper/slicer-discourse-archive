@@ -1,3 +1,10 @@
+---
+topic_id: 22645
+title: "Surface Area Method For Portions Of Segment Or From Landmark"
+date: 2022-03-22
+url: https://discourse.slicer.org/t/22645
+---
+
 # Surface Area method for portions of segment or from landmarks
 
 **Topic ID**: 22645

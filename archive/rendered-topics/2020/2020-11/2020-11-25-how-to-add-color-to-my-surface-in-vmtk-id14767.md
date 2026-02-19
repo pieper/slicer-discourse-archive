@@ -1,3 +1,10 @@
+---
+topic_id: 14767
+title: "How To Add Color To My Surface In Vmtk"
+date: 2020-11-25
+url: https://discourse.slicer.org/t/14767
+---
+
 # How to add color to my surface in VMTK
 
 **Topic ID**: 14767

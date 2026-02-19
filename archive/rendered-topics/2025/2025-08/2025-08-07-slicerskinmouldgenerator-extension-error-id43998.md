@@ -1,3 +1,10 @@
+---
+topic_id: 43998
+title: "Slicerskinmouldgenerator Extension Error"
+date: 2025-08-07
+url: https://discourse.slicer.org/t/43998
+---
+
 # SlicerSkinMouldGenerator Extension Error
 
 **Topic ID**: 43998

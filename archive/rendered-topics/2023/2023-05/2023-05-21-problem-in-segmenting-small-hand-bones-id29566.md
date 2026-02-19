@@ -1,3 +1,10 @@
+---
+topic_id: 29566
+title: "Problem In Segmenting Small Hand Bones"
+date: 2023-05-21
+url: https://discourse.slicer.org/t/29566
+---
+
 # Problem in segmenting small hand bones
 
 **Topic ID**: 29566

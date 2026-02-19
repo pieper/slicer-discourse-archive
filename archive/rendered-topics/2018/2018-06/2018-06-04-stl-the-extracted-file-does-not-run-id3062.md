@@ -1,3 +1,10 @@
+---
+topic_id: 3062
+title: "Stl The Extracted File Does Not Run"
+date: 2018-06-04
+url: https://discourse.slicer.org/t/3062
+---
+
 # Stl The extracted file does not run
 
 **Topic ID**: 3062

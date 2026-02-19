@@ -1,3 +1,10 @@
+---
+topic_id: 15098
+title: "Texture Analysis On An Image With Cysts Taken Out"
+date: 2020-12-16
+url: https://discourse.slicer.org/t/15098
+---
+
 # Texture analysis on an image with cysts taken out
 
 **Topic ID**: 15098

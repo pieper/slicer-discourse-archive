@@ -1,3 +1,10 @@
+---
+topic_id: 32404
+title: "Resampling A Label Map"
+date: 2023-10-24
+url: https://discourse.slicer.org/t/32404
+---
+
 # Resampling a label map
 
 **Topic ID**: 32404

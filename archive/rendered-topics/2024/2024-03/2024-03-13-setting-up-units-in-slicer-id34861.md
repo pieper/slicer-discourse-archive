@@ -1,3 +1,10 @@
+---
+topic_id: 34861
+title: "Setting Up Units In Slicer"
+date: 2024-03-13
+url: https://discourse.slicer.org/t/34861
+---
+
 # Setting up units in slicer
 
 **Topic ID**: 34861

@@ -1,3 +1,10 @@
+---
+topic_id: 45225
+title: "Webinar What S New In 3D Slicer 5 10"
+date: 2025-11-25
+url: https://discourse.slicer.org/t/45225
+---
+
 # Webinar: What’s New in 3D Slicer 5.10
 
 **Topic ID**: 45225

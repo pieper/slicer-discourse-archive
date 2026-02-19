@@ -1,3 +1,10 @@
+---
+topic_id: 18726
+title: "Segment Comparison Tables More Than One Comparison In A Sing"
+date: 2021-07-14
+url: https://discourse.slicer.org/t/18726
+---
+
 # Segment Comparison Tables: more than one comparison in a single table
 
 **Topic ID**: 18726

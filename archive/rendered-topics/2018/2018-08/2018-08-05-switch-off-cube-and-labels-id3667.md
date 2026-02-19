@@ -1,3 +1,10 @@
+---
+topic_id: 3667
+title: "Switch Off Cube And Labels"
+date: 2018-08-05
+url: https://discourse.slicer.org/t/3667
+---
+
 # Switch off cube and labels
 
 **Topic ID**: 3667

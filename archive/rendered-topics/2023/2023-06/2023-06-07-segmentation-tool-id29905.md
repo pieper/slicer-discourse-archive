@@ -1,3 +1,10 @@
+---
+topic_id: 29905
+title: "Segmentation Tool"
+date: 2023-06-07
+url: https://discourse.slicer.org/t/29905
+---
+
 # Segmentation tool
 
 **Topic ID**: 29905

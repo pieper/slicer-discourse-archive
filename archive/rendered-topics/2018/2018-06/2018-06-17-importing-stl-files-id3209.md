@@ -1,3 +1,10 @@
+---
+topic_id: 3209
+title: "Importing Stl Files"
+date: 2018-06-17
+url: https://discourse.slicer.org/t/3209
+---
+
 # Importing STL files
 
 **Topic ID**: 3209

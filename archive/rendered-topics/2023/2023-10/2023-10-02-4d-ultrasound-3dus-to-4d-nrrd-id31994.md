@@ -1,3 +1,10 @@
+---
+topic_id: 31994
+title: "4D Ultrasound 3Dus To 4D Nrrd"
+date: 2023-10-02
+url: https://discourse.slicer.org/t/31994
+---
+
 # 4D Ultrasound (.3dus) to 4D NRRD
 
 **Topic ID**: 31994

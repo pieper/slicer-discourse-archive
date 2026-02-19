@@ -1,3 +1,10 @@
+---
+topic_id: 1862
+title: "Duplicated Includes"
+date: 2018-01-17
+url: https://discourse.slicer.org/t/1862
+---
+
 # Duplicated includes?
 
 **Topic ID**: 1862

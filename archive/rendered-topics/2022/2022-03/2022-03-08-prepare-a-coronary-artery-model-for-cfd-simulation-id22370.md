@@ -1,3 +1,10 @@
+---
+topic_id: 22370
+title: "Prepare A Coronary Artery Model For Cfd Simulation"
+date: 2022-03-08
+url: https://discourse.slicer.org/t/22370
+---
+
 # Prepare a coronary artery model for CFD simulation.
 
 **Topic ID**: 22370

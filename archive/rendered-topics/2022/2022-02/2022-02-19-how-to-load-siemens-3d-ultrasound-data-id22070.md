@@ -1,3 +1,10 @@
+---
+topic_id: 22070
+title: "How To Load Siemens 3D Ultrasound Data"
+date: 2022-02-19
+url: https://discourse.slicer.org/t/22070
+---
+
 # How to load Siemens 3D ultrasound data
 
 **Topic ID**: 22070

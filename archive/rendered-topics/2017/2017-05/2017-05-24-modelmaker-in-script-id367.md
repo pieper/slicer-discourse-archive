@@ -1,3 +1,10 @@
+---
+topic_id: 367
+title: "Modelmaker In Script"
+date: 2017-05-24
+url: https://discourse.slicer.org/t/367
+---
+
 # Modelmaker in script
 
 **Topic ID**: 367

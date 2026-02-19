@@ -1,3 +1,10 @@
+---
+topic_id: 884
+title: "Building 3Dslicer From Source Using Gcc 7 1"
+date: 2017-08-16
+url: https://discourse.slicer.org/t/884
+---
+
 # Building 3DSlicer from source using gcc 7.1
 
 **Topic ID**: 884

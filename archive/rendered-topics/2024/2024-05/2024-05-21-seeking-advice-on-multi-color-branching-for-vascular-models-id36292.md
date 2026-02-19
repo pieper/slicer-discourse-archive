@@ -1,3 +1,10 @@
+---
+topic_id: 36292
+title: "Seeking Advice On Multi Color Branching For Vascular Models"
+date: 2024-05-21
+url: https://discourse.slicer.org/t/36292
+---
+
 # Seeking Advice on Multi-Color Branching for Vascular Models
 
 **Topic ID**: 36292

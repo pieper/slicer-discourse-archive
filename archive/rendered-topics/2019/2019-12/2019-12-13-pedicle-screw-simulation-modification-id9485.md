@@ -1,3 +1,10 @@
+---
+topic_id: 9485
+title: "Pedicle Screw Simulation Modification"
+date: 2019-12-13
+url: https://discourse.slicer.org/t/9485
+---
+
 # Pedicle Screw Simulation Modification
 
 **Topic ID**: 9485

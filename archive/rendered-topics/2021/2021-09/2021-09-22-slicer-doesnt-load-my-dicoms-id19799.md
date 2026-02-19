@@ -1,3 +1,10 @@
+---
+topic_id: 19799
+title: "Slicer Doesnt Load My Dicoms"
+date: 2021-09-22
+url: https://discourse.slicer.org/t/19799
+---
+
 # Slicer doesnt load my dicoms
 
 **Topic ID**: 19799

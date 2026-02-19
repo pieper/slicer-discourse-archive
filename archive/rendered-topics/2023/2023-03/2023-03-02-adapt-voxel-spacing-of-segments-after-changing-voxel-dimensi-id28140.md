@@ -1,3 +1,10 @@
+---
+topic_id: 28140
+title: "Adapt Voxel Spacing Of Segments After Changing Voxel Dimensi"
+date: 2023-03-02
+url: https://discourse.slicer.org/t/28140
+---
+
 # Adapt voxel spacing of segments after changing voxel dimension of master volume
 
 **Topic ID**: 28140

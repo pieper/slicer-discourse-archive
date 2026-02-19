@@ -1,3 +1,10 @@
+---
+topic_id: 21310
+title: "Lights Module Revert To Un Lit"
+date: 2022-01-02
+url: https://discourse.slicer.org/t/21310
+---
+
 # Lights module - revert to un-lit?
 
 **Topic ID**: 21310

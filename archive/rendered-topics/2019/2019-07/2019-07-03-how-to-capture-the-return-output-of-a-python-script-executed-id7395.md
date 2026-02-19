@@ -1,3 +1,10 @@
+---
+topic_id: 7395
+title: "How To Capture The Return Output Of A Python Script Executed"
+date: 2019-07-03
+url: https://discourse.slicer.org/t/7395
+---
+
 # How to capture the return/output of a python script executed from slicer's python interpreter
 
 **Topic ID**: 7395

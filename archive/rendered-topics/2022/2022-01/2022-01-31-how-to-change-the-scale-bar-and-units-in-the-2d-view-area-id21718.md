@@ -1,3 +1,10 @@
+---
+topic_id: 21718
+title: "How To Change The Scale Bar And Units In The 2D View Area"
+date: 2022-01-31
+url: https://discourse.slicer.org/t/21718
+---
+
 # How to change the scale bar and units in the 2D view area
 
 **Topic ID**: 21718

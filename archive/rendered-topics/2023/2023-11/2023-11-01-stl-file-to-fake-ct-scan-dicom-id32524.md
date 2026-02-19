@@ -1,3 +1,10 @@
+---
+topic_id: 32524
+title: "Stl File To Fake Ct Scan Dicom"
+date: 2023-11-01
+url: https://discourse.slicer.org/t/32524
+---
+
 # STL file to fake CT scan/DICOM?
 
 **Topic ID**: 32524

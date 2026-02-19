@@ -1,3 +1,10 @@
+---
+topic_id: 8971
+title: "Can Edite Geometry In 3D Slicer"
+date: 2019-10-31
+url: https://discourse.slicer.org/t/8971
+---
+
 # Can edite geometry in 3d slicer?
 
 **Topic ID**: 8971

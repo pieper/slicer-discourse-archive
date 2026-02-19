@@ -1,3 +1,10 @@
+---
+topic_id: 36950
+title: "Workflow For Segmentation With Vmtk Vesselness Filtering"
+date: 2024-06-22
+url: https://discourse.slicer.org/t/36950
+---
+
 # Workflow for segmentation with Vmtk Vesselness Filtering
 
 **Topic ID**: 36950

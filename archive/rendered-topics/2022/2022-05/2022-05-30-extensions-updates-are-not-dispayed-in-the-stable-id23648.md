@@ -1,3 +1,10 @@
+---
+topic_id: 23648
+title: "Extensions Updates Are Not Dispayed In The Stable"
+date: 2022-05-30
+url: https://discourse.slicer.org/t/23648
+---
+
 # Extensions updates are not dispayed in the Stable
 
 **Topic ID**: 23648

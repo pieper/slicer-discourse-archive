@@ -1,3 +1,10 @@
+---
+topic_id: 10702
+title: "Cannot Find My Installed Extension"
+date: 2020-03-16
+url: https://discourse.slicer.org/t/10702
+---
+
 # cannot find my installed extension
 
 **Topic ID**: 10702

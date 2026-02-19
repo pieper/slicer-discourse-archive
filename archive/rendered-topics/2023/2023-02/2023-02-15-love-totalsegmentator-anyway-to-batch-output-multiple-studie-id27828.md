@@ -1,3 +1,10 @@
+---
+topic_id: 27828
+title: "Love Totalsegmentator Anyway To Batch Output Multiple Studie"
+date: 2023-02-15
+url: https://discourse.slicer.org/t/27828
+---
+
 # Love totalSegmentator!-anyway to batch output multiple studies?
 
 **Topic ID**: 27828

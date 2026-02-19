@@ -1,3 +1,10 @@
+---
+topic_id: 35889
+title: "Draw Tube For Vessel Segmentation Does Not Show"
+date: 2024-05-03
+url: https://discourse.slicer.org/t/35889
+---
+
 # Draw tube for vessel segmentation: does not show
 
 **Topic ID**: 35889

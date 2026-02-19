@@ -1,3 +1,10 @@
+---
+topic_id: 21038
+title: "Reminder Project Week 36 Prep Meeting Tomorrow 2021 12 14"
+date: 2021-12-13
+url: https://discourse.slicer.org/t/21038
+---
+
 # Reminder: Project Week 36 prep meeting tomorrow (2021.12.14)
 
 **Topic ID**: 21038

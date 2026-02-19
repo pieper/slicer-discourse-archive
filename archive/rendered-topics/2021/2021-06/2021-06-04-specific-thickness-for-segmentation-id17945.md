@@ -1,3 +1,10 @@
+---
+topic_id: 17945
+title: "Specific Thickness For Segmentation"
+date: 2021-06-04
+url: https://discourse.slicer.org/t/17945
+---
+
 # Specific thickness for segmentation
 
 **Topic ID**: 17945

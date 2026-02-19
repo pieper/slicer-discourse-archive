@@ -1,3 +1,10 @@
+---
+topic_id: 1934
+title: "Link Slices Views By Default"
+date: 2018-01-25
+url: https://discourse.slicer.org/t/1934
+---
+
 # Link slices views by default?
 
 **Topic ID**: 1934

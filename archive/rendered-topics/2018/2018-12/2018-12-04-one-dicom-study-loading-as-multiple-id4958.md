@@ -1,3 +1,10 @@
+---
+topic_id: 4958
+title: "One Dicom Study Loading As Multiple"
+date: 2018-12-04
+url: https://discourse.slicer.org/t/4958
+---
+
 # One DICOM study loading as multiple
 
 **Topic ID**: 4958

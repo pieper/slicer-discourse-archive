@@ -1,3 +1,10 @@
+---
+topic_id: 23713
+title: "Knee Mri Segmentation Efficiency"
+date: 2022-06-05
+url: https://discourse.slicer.org/t/23713
+---
+
 # Knee MRI Segmentation: Efficiency
 
 **Topic ID**: 23713

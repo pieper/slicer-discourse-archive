@@ -1,3 +1,10 @@
+---
+topic_id: 17790
+title: "Perfusion Mri 3Dslicer"
+date: 2021-05-25
+url: https://discourse.slicer.org/t/17790
+---
+
 # Perfusion MRI-3DSlicer
 
 **Topic ID**: 17790

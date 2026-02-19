@@ -1,3 +1,10 @@
+---
+topic_id: 44151
+title: "Transform Clarifications"
+date: 2025-08-20
+url: https://discourse.slicer.org/t/44151
+---
+
 # Transform Clarifications
 
 **Topic ID**: 44151

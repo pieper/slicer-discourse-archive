@@ -1,3 +1,10 @@
+---
+topic_id: 43332
+title: "Undo Enabled On An Empty Segmentation"
+date: 2025-06-12
+url: https://discourse.slicer.org/t/43332
+---
+
 # Undo enabled on an empty segmentation
 
 **Topic ID**: 43332

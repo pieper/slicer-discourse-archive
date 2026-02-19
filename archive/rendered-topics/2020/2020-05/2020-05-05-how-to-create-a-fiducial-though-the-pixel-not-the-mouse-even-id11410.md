@@ -1,3 +1,10 @@
+---
+topic_id: 11410
+title: "How To Create A Fiducial Though The Pixel Not The Mouse Even"
+date: 2020-05-05
+url: https://discourse.slicer.org/t/11410
+---
+
 # How to create a fiducial though the pixel not the mouse event
 
 **Topic ID**: 11410

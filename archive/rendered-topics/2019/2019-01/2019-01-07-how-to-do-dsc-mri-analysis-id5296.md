@@ -1,3 +1,10 @@
+---
+topic_id: 5296
+title: "How To Do Dsc Mri Analysis"
+date: 2019-01-07
+url: https://discourse.slicer.org/t/5296
+---
+
 # How to do DSC MRI analysis?
 
 **Topic ID**: 5296

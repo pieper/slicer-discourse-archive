@@ -1,3 +1,10 @@
+---
+topic_id: 37466
+title: "Extensions Manager Install"
+date: 2024-07-19
+url: https://discourse.slicer.org/t/37466
+---
+
 # Extensions Manager install
 
 **Topic ID**: 37466

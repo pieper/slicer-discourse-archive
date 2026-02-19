@@ -1,3 +1,10 @@
+---
+topic_id: 9154
+title: "Openanatomys Reference Dicom Visualisation Of The Whole Proj"
+date: 2019-11-15
+url: https://discourse.slicer.org/t/9154
+---
+
 # OpenAnatomy's reference .dicom. Visualisation of the whole project
 
 **Topic ID**: 9154

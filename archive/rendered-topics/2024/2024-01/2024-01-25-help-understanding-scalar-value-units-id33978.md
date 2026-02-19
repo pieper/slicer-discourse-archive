@@ -1,3 +1,10 @@
+---
+topic_id: 33978
+title: "Help Understanding Scalar Value Units"
+date: 2024-01-25
+url: https://discourse.slicer.org/t/33978
+---
+
 # Help Understanding Scalar Value Units
 
 **Topic ID**: 33978

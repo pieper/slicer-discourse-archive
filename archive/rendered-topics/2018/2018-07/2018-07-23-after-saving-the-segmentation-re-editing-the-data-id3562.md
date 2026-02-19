@@ -1,3 +1,10 @@
+---
+topic_id: 3562
+title: "After Saving The Segmentation Re Editing The Data"
+date: 2018-07-23
+url: https://discourse.slicer.org/t/3562
+---
+
 # After saving the segmentation re-editing the data
 
 **Topic ID**: 3562

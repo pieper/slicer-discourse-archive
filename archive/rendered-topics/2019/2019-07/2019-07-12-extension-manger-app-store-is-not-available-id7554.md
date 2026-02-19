@@ -1,3 +1,10 @@
+---
+topic_id: 7554
+title: "Extension Manger App Store Is Not Available"
+date: 2019-07-12
+url: https://discourse.slicer.org/t/7554
+---
+
 # Extension manger app store is not available
 
 **Topic ID**: 7554

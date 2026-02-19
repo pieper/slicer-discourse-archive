@@ -1,3 +1,10 @@
+---
+topic_id: 14836
+title: "Troubleshooting Extension Build Process Manually Building An"
+date: 2020-12-02
+url: https://discourse.slicer.org/t/14836
+---
+
 # Troubleshooting Extension Build Process - Manually Building an Extension
 
 **Topic ID**: 14836

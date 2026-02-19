@@ -1,3 +1,10 @@
+---
+topic_id: 9147
+title: "Horos Compatibility"
+date: 2019-11-14
+url: https://discourse.slicer.org/t/9147
+---
+
 # Horos compatibility
 
 **Topic ID**: 9147

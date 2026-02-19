@@ -1,3 +1,10 @@
+---
+topic_id: 6
+title: "Privacy Policy"
+date: 2017-04-07
+url: https://discourse.slicer.org/t/6
+---
+
 # Privacy Policy
 
 **Topic ID**: 6

@@ -1,3 +1,10 @@
+---
+topic_id: 18002
+title: "Switching View Layouts"
+date: 2021-06-07
+url: https://discourse.slicer.org/t/18002
+---
+
 # Switching view layouts
 
 **Topic ID**: 18002

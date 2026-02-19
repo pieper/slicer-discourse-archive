@@ -1,3 +1,10 @@
+---
+topic_id: 1723
+title: "In Restore Saved Scene When Is Add Restore Important To Do"
+date: 2017-12-26
+url: https://discourse.slicer.org/t/1723
+---
+
 # In 'Restore Saved Scene', when is 'add & restore' important to do?
 
 **Topic ID**: 1723

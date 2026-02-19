@@ -1,3 +1,10 @@
+---
+topic_id: 37096
+title: "How To Automatically Calculate The Maximum Diameter Of A Pla"
+date: 2024-06-29
+url: https://discourse.slicer.org/t/37096
+---
+
 # How to automatically calculate the maximum diameter of a plane profile
 
 **Topic ID**: 37096

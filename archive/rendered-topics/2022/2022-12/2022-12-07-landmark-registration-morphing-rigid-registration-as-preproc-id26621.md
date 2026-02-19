@@ -1,3 +1,10 @@
+---
+topic_id: 26621
+title: "Landmark Registration Morphing Rigid Registration As Preproc"
+date: 2022-12-07
+url: https://discourse.slicer.org/t/26621
+---
+
 # Landmark registration morphing ? rigid registration as preprocessing?
 
 **Topic ID**: 26621

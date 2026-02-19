@@ -1,3 +1,10 @@
+---
+topic_id: 29848
+title: "Calculate The Sum Of 2 Rt Dose"
+date: 2023-06-05
+url: https://discourse.slicer.org/t/29848
+---
+
 # Calculate the sum of 2 RT Dose
 
 **Topic ID**: 29848

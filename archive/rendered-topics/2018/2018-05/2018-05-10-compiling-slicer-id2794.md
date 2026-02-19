@@ -1,3 +1,10 @@
+---
+topic_id: 2794
+title: "Compiling Slicer"
+date: 2018-05-10
+url: https://discourse.slicer.org/t/2794
+---
+
 # Compiling slicer
 
 **Topic ID**: 2794

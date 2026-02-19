@@ -1,3 +1,10 @@
+---
+topic_id: 39701
+title: "Creating Non Manifold Assembly And Projecting Mesh"
+date: 2024-10-15
+url: https://discourse.slicer.org/t/39701
+---
+
 # Creating non-manifold assembly and projecting mesh
 
 **Topic ID**: 39701

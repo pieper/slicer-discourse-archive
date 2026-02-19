@@ -1,3 +1,10 @@
+---
+topic_id: 22933
+title: "Reproducibility Of Radiomics Results With Pyradiomics And Pa"
+date: 2022-04-13
+url: https://discourse.slicer.org/t/22933
+---
+
 # Reproducibility of Radiomics Results with Pyradiomics and Parenchymal Analysis
 
 **Topic ID**: 22933

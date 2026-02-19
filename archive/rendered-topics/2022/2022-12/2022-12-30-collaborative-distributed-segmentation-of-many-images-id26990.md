@@ -1,3 +1,10 @@
+---
+topic_id: 26990
+title: "Collaborative Distributed Segmentation Of Many Images"
+date: 2022-12-30
+url: https://discourse.slicer.org/t/26990
+---
+
 # Collaborative/distributed segmentation of many images
 
 **Topic ID**: 26990

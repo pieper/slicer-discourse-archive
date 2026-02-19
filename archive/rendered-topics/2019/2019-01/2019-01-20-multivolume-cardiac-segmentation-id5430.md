@@ -1,3 +1,10 @@
+---
+topic_id: 5430
+title: "Multivolume Cardiac Segmentation"
+date: 2019-01-20
+url: https://discourse.slicer.org/t/5430
+---
+
 # Multivolume cardiac segmentation
 
 **Topic ID**: 5430

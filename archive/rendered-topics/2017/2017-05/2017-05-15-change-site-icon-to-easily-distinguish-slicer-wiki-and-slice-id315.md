@@ -1,3 +1,10 @@
+---
+topic_id: 315
+title: "Change Site Icon To Easily Distinguish Slicer Wiki And Slice"
+date: 2017-05-15
+url: https://discourse.slicer.org/t/315
+---
+
 # Change site icon to easily distinguish Slicer wiki and Slicer discourse
 
 **Topic ID**: 315

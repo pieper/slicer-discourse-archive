@@ -1,3 +1,10 @@
+---
+topic_id: 25012
+title: "Does 3D Slicer Segment In 2D Or 3D"
+date: 2022-08-30
+url: https://discourse.slicer.org/t/25012
+---
+
 # Does 3D Slicer segment in 2D or 3D?
 
 **Topic ID**: 25012

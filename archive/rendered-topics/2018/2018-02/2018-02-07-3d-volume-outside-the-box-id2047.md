@@ -1,3 +1,10 @@
+---
+topic_id: 2047
+title: "3D Volume Outside The Box"
+date: 2018-02-07
+url: https://discourse.slicer.org/t/2047
+---
+
 # 3D volume outside the box
 
 **Topic ID**: 2047

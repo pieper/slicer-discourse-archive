@@ -1,3 +1,10 @@
+---
+topic_id: 17951
+title: "Can We Change The Startup Picture"
+date: 2021-06-04
+url: https://discourse.slicer.org/t/17951
+---
+
 # Can we change the startup picture
 
 **Topic ID**: 17951

@@ -1,3 +1,10 @@
+---
+topic_id: 22844
+title: "Detect When New Vtkmrmlscalarvolumenode With Dicom Data Has"
+date: 2022-04-06
+url: https://discourse.slicer.org/t/22844
+---
+
 # Detect when new vtkMRMLScalarVolumeNode with DICOM data has been added
 
 **Topic ID**: 22844

@@ -1,3 +1,10 @@
+---
+topic_id: 20302
+title: "Export Segmentation To File Api"
+date: 2021-10-22
+url: https://discourse.slicer.org/t/20302
+---
+
 # Export segmentation to file API
 
 **Topic ID**: 20302

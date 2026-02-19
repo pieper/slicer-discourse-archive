@@ -1,3 +1,10 @@
+---
+topic_id: 713
+title: "Use Elastix Inside My Module"
+date: 2017-07-19
+url: https://discourse.slicer.org/t/713
+---
+
 # Use Elastix inside my module
 
 **Topic ID**: 713

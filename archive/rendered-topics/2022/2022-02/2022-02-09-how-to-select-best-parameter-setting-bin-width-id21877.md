@@ -1,3 +1,10 @@
+---
+topic_id: 21877
+title: "How To Select Best Parameter Setting Bin Width"
+date: 2022-02-09
+url: https://discourse.slicer.org/t/21877
+---
+
 # How to select best parameter setting? (bin width)
 
 **Topic ID**: 21877

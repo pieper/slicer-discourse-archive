@@ -1,3 +1,10 @@
+---
+topic_id: 32140
+title: "Segmentation Of The Growth Plate"
+date: 2023-10-10
+url: https://discourse.slicer.org/t/32140
+---
+
 # Segmentation of the growth plate 
 
 **Topic ID**: 32140

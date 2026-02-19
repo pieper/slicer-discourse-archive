@@ -1,3 +1,10 @@
+---
+topic_id: 6687
+title: "Dicom Resolution Images"
+date: 2019-05-03
+url: https://discourse.slicer.org/t/6687
+---
+
 # DICOM resolution images
 
 **Topic ID**: 6687

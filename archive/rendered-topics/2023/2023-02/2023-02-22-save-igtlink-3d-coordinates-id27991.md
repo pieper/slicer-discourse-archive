@@ -1,3 +1,10 @@
+---
+topic_id: 27991
+title: "Save Igtlink 3D Coordinates"
+date: 2023-02-22
+url: https://discourse.slicer.org/t/27991
+---
+
 # Save IGTLink 3D coordinates
 
 **Topic ID**: 27991

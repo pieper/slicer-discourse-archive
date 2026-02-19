@@ -1,3 +1,10 @@
+---
+topic_id: 31607
+title: "Proxy Node Attributes Lost After Scene Load"
+date: 2023-09-07
+url: https://discourse.slicer.org/t/31607
+---
+
 # Proxy Node Attributes lost after scene load
 
 **Topic ID**: 31607

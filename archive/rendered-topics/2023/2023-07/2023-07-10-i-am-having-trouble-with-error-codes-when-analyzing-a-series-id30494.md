@@ -1,3 +1,10 @@
+---
+topic_id: 30494
+title: "I Am Having Trouble With Error Codes When Analyzing A Series"
+date: 2023-07-10
+url: https://discourse.slicer.org/t/30494
+---
+
 # I am having trouble with error codes when analyzing a series of images.
 
 **Topic ID**: 30494

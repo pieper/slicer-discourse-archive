@@ -1,3 +1,10 @@
+---
+topic_id: 32215
+title: "Extension Versioning"
+date: 2023-10-13
+url: https://discourse.slicer.org/t/32215
+---
+
 # Extension versioning
 
 **Topic ID**: 32215

@@ -1,3 +1,10 @@
+---
+topic_id: 21148
+title: "Output Of Calculated Specific Values Of A Model For Individu"
+date: 2021-12-20
+url: https://discourse.slicer.org/t/21148
+---
+
 # Output of calculated specific values of a model for individual ROIs
 
 **Topic ID**: 21148

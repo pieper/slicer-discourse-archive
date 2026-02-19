@@ -1,3 +1,10 @@
+---
+topic_id: 40902
+title: "My Kernel Keeps Dying Slicer 4 11 Jupyter"
+date: 2024-12-30
+url: https://discourse.slicer.org/t/40902
+---
+
 # My Kernel keeps dying - Slicer 4.11 - Jupyter
 
 **Topic ID**: 40902

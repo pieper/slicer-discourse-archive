@@ -1,3 +1,10 @@
+---
+topic_id: 11277
+title: "Get Image Intensity Histogram Of A Segment"
+date: 2020-04-23
+url: https://discourse.slicer.org/t/11277
+---
+
 # Get image intensity histogram of a segment
 
 **Topic ID**: 11277

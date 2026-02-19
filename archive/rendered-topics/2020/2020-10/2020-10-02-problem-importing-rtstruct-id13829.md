@@ -1,3 +1,10 @@
+---
+topic_id: 13829
+title: "Problem Importing Rtstruct"
+date: 2020-10-02
+url: https://discourse.slicer.org/t/13829
+---
+
 # Problem importing RTSTRUCT
 
 **Topic ID**: 13829

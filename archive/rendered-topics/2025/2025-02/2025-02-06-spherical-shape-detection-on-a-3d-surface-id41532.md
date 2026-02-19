@@ -1,3 +1,10 @@
+---
+topic_id: 41532
+title: "Spherical Shape Detection On A 3D Surface"
+date: 2025-02-06
+url: https://discourse.slicer.org/t/41532
+---
+
 # Spherical shape detection on a 3D surface
 
 **Topic ID**: 41532

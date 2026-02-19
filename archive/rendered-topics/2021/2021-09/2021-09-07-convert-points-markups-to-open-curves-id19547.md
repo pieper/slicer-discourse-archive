@@ -1,3 +1,10 @@
+---
+topic_id: 19547
+title: "Convert Points Markups To Open Curves"
+date: 2021-09-07
+url: https://discourse.slicer.org/t/19547
+---
+
 # Convert points markups to open curves
 
 **Topic ID**: 19547

@@ -1,3 +1,10 @@
+---
+topic_id: 7247
+title: "Ultrasound Slice Is Not Aligned With Reconstructed Volume"
+date: 2019-06-19
+url: https://discourse.slicer.org/t/7247
+---
+
 # Ultrasound slice is not aligned with reconstructed volume
 
 **Topic ID**: 7247

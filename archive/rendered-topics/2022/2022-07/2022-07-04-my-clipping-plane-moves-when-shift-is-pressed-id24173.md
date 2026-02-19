@@ -1,3 +1,10 @@
+---
+topic_id: 24173
+title: "My Clipping Plane Moves When Shift Is Pressed"
+date: 2022-07-04
+url: https://discourse.slicer.org/t/24173
+---
+
 # My clipping plane moves when shift is pressed
 
 **Topic ID**: 24173

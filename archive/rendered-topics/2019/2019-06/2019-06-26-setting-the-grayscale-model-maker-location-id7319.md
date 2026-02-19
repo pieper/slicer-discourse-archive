@@ -1,3 +1,10 @@
+---
+topic_id: 7319
+title: "Setting The Grayscale Model Maker Location"
+date: 2019-06-26
+url: https://discourse.slicer.org/t/7319
+---
+
 # Setting the grayscale model maker location
 
 **Topic ID**: 7319

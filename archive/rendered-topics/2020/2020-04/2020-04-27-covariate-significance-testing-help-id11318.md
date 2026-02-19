@@ -1,3 +1,10 @@
+---
+topic_id: 11318
+title: "Covariate Significance Testing Help"
+date: 2020-04-27
+url: https://discourse.slicer.org/t/11318
+---
+
 # Covariate Significance Testing HELP
 
 **Topic ID**: 11318

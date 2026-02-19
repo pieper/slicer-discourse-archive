@@ -1,3 +1,10 @@
+---
+topic_id: 30026
+title: "Looking For Tutoring"
+date: 2023-06-14
+url: https://discourse.slicer.org/t/30026
+---
+
 # Looking for tutoring
 
 **Topic ID**: 30026

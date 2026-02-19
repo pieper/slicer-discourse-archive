@@ -1,3 +1,10 @@
+---
+topic_id: 8749
+title: "Error Most Probably Segment Cannot Converted To Binary Label"
+date: 2019-10-11
+url: https://discourse.slicer.org/t/8749
+---
+
 # error most probably segment cannot converted to binary label map 3d
 
 **Topic ID**: 8749

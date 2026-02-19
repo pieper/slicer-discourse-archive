@@ -1,3 +1,10 @@
+---
+topic_id: 12344
+title: "Adding Control Points With Undefined Position From Python"
+date: 2020-07-02
+url: https://discourse.slicer.org/t/12344
+---
+
 # Adding control points with undefined position from Python
 
 **Topic ID**: 12344

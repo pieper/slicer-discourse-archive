@@ -1,3 +1,10 @@
+---
+topic_id: 6141
+title: "Sub Mri Merging For Segmentation"
+date: 2019-03-14
+url: https://discourse.slicer.org/t/6141
+---
+
 # sub-MRI merging for segmentation
 
 **Topic ID**: 6141

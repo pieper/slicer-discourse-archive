@@ -1,3 +1,10 @@
+---
+topic_id: 2472
+title: "Segment Editor Paint Feature Not Rounded"
+date: 2018-03-29
+url: https://discourse.slicer.org/t/2472
+---
+
 # Segment Editor Paint Feature Not Rounded
 
 **Topic ID**: 2472

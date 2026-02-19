@@ -1,3 +1,10 @@
+---
+topic_id: 584
+title: "Cannot Download Extensions"
+date: 2017-06-28
+url: https://discourse.slicer.org/t/584
+---
+
 # Cannot download extensions
 
 **Topic ID**: 584

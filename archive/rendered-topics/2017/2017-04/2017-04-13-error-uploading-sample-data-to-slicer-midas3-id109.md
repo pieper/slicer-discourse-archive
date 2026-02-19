@@ -1,3 +1,10 @@
+---
+topic_id: 109
+title: "Error Uploading Sample Data To Slicer Midas3"
+date: 2017-04-13
+url: https://discourse.slicer.org/t/109
+---
+
 # Error uploading sample data to Slicer midas3
 
 **Topic ID**: 109

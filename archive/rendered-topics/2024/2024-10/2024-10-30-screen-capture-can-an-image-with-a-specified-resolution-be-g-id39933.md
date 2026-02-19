@@ -1,3 +1,10 @@
+---
+topic_id: 39933
+title: "Screen Capture Can An Image With A Specified Resolution Be G"
+date: 2024-10-30
+url: https://discourse.slicer.org/t/39933
+---
+
 # Screen capture:Can an image with a specified resolution be generated. For example, 512 × 512.or Adjust the view to a specified resolution or size
 
 **Topic ID**: 39933

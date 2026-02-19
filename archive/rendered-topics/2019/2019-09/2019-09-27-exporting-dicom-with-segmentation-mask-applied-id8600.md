@@ -1,3 +1,10 @@
+---
+topic_id: 8600
+title: "Exporting Dicom With Segmentation Mask Applied"
+date: 2019-09-27
+url: https://discourse.slicer.org/t/8600
+---
+
 # Exporting DICOM with Segmentation Mask applied
 
 **Topic ID**: 8600

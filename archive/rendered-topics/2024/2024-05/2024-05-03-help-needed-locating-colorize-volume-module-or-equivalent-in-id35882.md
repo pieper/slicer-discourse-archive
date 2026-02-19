@@ -1,3 +1,10 @@
+---
+topic_id: 35882
+title: "Help Needed Locating Colorize Volume Module Or Equivalent In"
+date: 2024-05-03
+url: https://discourse.slicer.org/t/35882
+---
+
 # Help Needed: Locating "Colorize Volume" Module or Equivalent in SlicerMorph
 
 **Topic ID**: 35882

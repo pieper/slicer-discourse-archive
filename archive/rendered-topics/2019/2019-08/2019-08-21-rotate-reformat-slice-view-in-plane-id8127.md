@@ -1,3 +1,10 @@
+---
+topic_id: 8127
+title: "Rotate Reformat Slice View In Plane"
+date: 2019-08-21
+url: https://discourse.slicer.org/t/8127
+---
+
 # Rotate reformat slice view (in plane)
 
 **Topic ID**: 8127

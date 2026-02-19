@@ -1,3 +1,10 @@
+---
+topic_id: 18541
+title: "Wrong Orientation When Dicom Files Are Opened With Version 4"
+date: 2021-07-06
+url: https://discourse.slicer.org/t/18541
+---
+
 # Wrong orientation when DICOM files are opened with version 4.11
 
 **Topic ID**: 18541

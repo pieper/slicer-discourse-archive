@@ -1,3 +1,10 @@
+---
+topic_id: 16421
+title: "Using Data Augmentation To Generate New Data For Deep Learni"
+date: 2021-03-08
+url: https://discourse.slicer.org/t/16421
+---
+
 # Using data augmentation to generate new data for deep learning
 
 **Topic ID**: 16421

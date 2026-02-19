@@ -1,3 +1,10 @@
+---
+topic_id: 12362
+title: "Any Way To Plot Error Bars In Slicer"
+date: 2020-07-03
+url: https://discourse.slicer.org/t/12362
+---
+
 # Any way to plot error bars in Slicer?
 
 **Topic ID**: 12362

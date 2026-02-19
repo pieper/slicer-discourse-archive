@@ -1,3 +1,10 @@
+---
+topic_id: 26275
+title: "Segment Comparison Tables"
+date: 2022-11-17
+url: https://discourse.slicer.org/t/26275
+---
+
 # Segment Comparison Tables
 
 **Topic ID**: 26275

@@ -1,3 +1,10 @@
+---
+topic_id: 27217
+title: "4D Echo Vr Use Issues"
+date: 2023-01-12
+url: https://discourse.slicer.org/t/27217
+---
+
 # 4D Echo VR use issues
 
 **Topic ID**: 27217

@@ -1,3 +1,10 @@
+---
+topic_id: 34513
+title: "Resolution Of The Draw Effect"
+date: 2024-02-24
+url: https://discourse.slicer.org/t/34513
+---
+
 # Resolution of the "Draw" effect
 
 **Topic ID**: 34513

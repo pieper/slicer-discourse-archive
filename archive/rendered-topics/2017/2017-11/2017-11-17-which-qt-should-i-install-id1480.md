@@ -1,3 +1,10 @@
+---
+topic_id: 1480
+title: "Which Qt Should I Install"
+date: 2017-11-17
+url: https://discourse.slicer.org/t/1480
+---
+
 # Which Qt should I install?
 
 **Topic ID**: 1480

@@ -1,3 +1,10 @@
+---
+topic_id: 7689
+title: "2D Superpose With The 3D Segment Editor"
+date: 2019-07-19
+url: https://discourse.slicer.org/t/7689
+---
+
 # 2d superpose with the 3d segment editor
 
 **Topic ID**: 7689

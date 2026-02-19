@@ -1,3 +1,10 @@
+---
+topic_id: 27295
+title: "How To Hide All Control Points Of A Curve"
+date: 2023-01-17
+url: https://discourse.slicer.org/t/27295
+---
+
 # How to hide all control points of a curve
 
 **Topic ID**: 27295

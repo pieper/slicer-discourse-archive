@@ -1,3 +1,10 @@
+---
+topic_id: 10565
+title: "New Human Ct Resource Available"
+date: 2020-03-05
+url: https://discourse.slicer.org/t/10565
+---
+
 # New human CT resource available
 
 **Topic ID**: 10565

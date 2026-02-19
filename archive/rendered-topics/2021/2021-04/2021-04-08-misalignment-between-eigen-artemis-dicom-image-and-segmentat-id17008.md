@@ -1,3 +1,10 @@
+---
+topic_id: 17008
+title: "Misalignment Between Eigen Artemis Dicom Image And Segmentat"
+date: 2021-04-08
+url: https://discourse.slicer.org/t/17008
+---
+
 # Misalignment between Eigen Artemis DICOM image and segmentation
 
 **Topic ID**: 17008

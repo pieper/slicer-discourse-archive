@@ -1,3 +1,10 @@
+---
+topic_id: 24375
+title: "Customized Tabbed View"
+date: 2022-07-18
+url: https://discourse.slicer.org/t/24375
+---
+
 # Customized tabbed view
 
 **Topic ID**: 24375

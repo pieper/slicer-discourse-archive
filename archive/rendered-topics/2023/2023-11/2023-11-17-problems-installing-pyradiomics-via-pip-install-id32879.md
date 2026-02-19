@@ -1,3 +1,10 @@
+---
+topic_id: 32879
+title: "Problems Installing Pyradiomics Via Pip Install"
+date: 2023-11-17
+url: https://discourse.slicer.org/t/32879
+---
+
 # Problems installing pyradiomics via pip install
 
 **Topic ID**: 32879

@@ -1,3 +1,10 @@
+---
+topic_id: 29944
+title: "Slicer 5 2 2 Not Starting On Windows Server 2016 Using Micro"
+date: 2023-06-09
+url: https://discourse.slicer.org/t/29944
+---
+
 # Slicer-5.2.2 not starting on Windows Server 2016 using Microsoft Application Virtualization (appv)
 
 **Topic ID**: 29944

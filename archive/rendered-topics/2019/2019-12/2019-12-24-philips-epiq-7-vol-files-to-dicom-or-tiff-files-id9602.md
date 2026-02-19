@@ -1,3 +1,10 @@
+---
+topic_id: 9602
+title: "Philips Epiq 7 Vol Files To Dicom Or Tiff Files"
+date: 2019-12-24
+url: https://discourse.slicer.org/t/9602
+---
+
 # Philips EPIQ 7 vol files to dicom or tiff files
 
 **Topic ID**: 9602

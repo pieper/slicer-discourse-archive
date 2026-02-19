@@ -1,3 +1,10 @@
+---
+topic_id: 25988
+title: "Show Hide Output Model In Python Script"
+date: 2022-10-30
+url: https://discourse.slicer.org/t/25988
+---
+
 # Show/hide output model in Python script
 
 **Topic ID**: 25988

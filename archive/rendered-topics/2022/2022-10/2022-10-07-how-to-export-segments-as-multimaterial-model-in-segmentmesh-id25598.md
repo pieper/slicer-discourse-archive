@@ -1,3 +1,10 @@
+---
+topic_id: 25598
+title: "How To Export Segments As Multimaterial Model In Segmentmesh"
+date: 2022-10-07
+url: https://discourse.slicer.org/t/25598
+---
+
 # How to export segments as *multimaterial* model in SegmentMesher extension?
 
 **Topic ID**: 25598

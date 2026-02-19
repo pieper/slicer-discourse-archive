@@ -1,3 +1,10 @@
+---
+topic_id: 2722
+title: "How To Save Png As The Same Name Of Mrml While Saving"
+date: 2018-04-27
+url: https://discourse.slicer.org/t/2722
+---
+
 # How to save .png as the same name of .mrml while saving
 
 **Topic ID**: 2722

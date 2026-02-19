@@ -1,3 +1,10 @@
+---
+topic_id: 3212
+title: "Error When Build Slicer"
+date: 2018-06-18
+url: https://discourse.slicer.org/t/3212
+---
+
 # Error when build Slicer
 
 **Topic ID**: 3212

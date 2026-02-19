@@ -1,3 +1,10 @@
+---
+topic_id: 28459
+title: "Rescale Stl File Based On Ct Image Series Info"
+date: 2023-03-19
+url: https://discourse.slicer.org/t/28459
+---
+
 # Rescale .stl file based on CT image series info
 
 **Topic ID**: 28459

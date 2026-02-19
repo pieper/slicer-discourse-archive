@@ -1,3 +1,10 @@
+---
+topic_id: 41835
+title: "Different Colors For Warnings And Errors In Slicer S Python"
+date: 2025-02-22
+url: https://discourse.slicer.org/t/41835
+---
+
 # Different Colors for Warnings and Errors in Slicer’s Python Console
 
 **Topic ID**: 41835

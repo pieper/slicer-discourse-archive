@@ -1,3 +1,10 @@
+---
+topic_id: 2716
+title: "Save Segmentation Output As Xml File Or Binary Mask"
+date: 2018-04-27
+url: https://discourse.slicer.org/t/2716
+---
+
 # Save segmentation output as xml file or binary mask
 
 **Topic ID**: 2716

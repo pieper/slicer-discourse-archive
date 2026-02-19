@@ -1,3 +1,10 @@
+---
+topic_id: 12084
+title: "Dicom Segmentation Import Problem On Windows"
+date: 2020-06-18
+url: https://discourse.slicer.org/t/12084
+---
+
 # DICOM segmentation import problem on Windows
 
 **Topic ID**: 12084

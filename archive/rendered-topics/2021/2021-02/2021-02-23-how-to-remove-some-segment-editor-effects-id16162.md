@@ -1,3 +1,10 @@
+---
+topic_id: 16162
+title: "How To Remove Some Segment Editor Effects"
+date: 2021-02-23
+url: https://discourse.slicer.org/t/16162
+---
+
 # How to remove some segment editor effects
 
 **Topic ID**: 16162

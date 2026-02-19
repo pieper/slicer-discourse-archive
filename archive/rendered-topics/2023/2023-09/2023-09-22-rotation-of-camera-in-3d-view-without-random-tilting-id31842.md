@@ -1,3 +1,10 @@
+---
+topic_id: 31842
+title: "Rotation Of Camera In 3D View Without Random Tilting"
+date: 2023-09-22
+url: https://discourse.slicer.org/t/31842
+---
+
 # Rotation of camera in 3D view without random tilting
 
 **Topic ID**: 31842

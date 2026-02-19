@@ -1,3 +1,10 @@
+---
+topic_id: 20731
+title: "Final Value Of Registration Cost Function Metric"
+date: 2021-11-22
+url: https://discourse.slicer.org/t/20731
+---
+
 # Final value of registration cost function metric
 
 **Topic ID**: 20731

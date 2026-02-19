@@ -1,3 +1,10 @@
+---
+topic_id: 398
+title: "Problem With Enabling Remote Debugging For Both C And Python"
+date: 2017-05-29
+url: https://discourse.slicer.org/t/398
+---
+
 # Problem with enabling remote debugging for both c++ and python
 
 **Topic ID**: 398

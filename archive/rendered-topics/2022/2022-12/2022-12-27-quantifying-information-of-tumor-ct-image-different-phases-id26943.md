@@ -1,3 +1,10 @@
+---
+topic_id: 26943
+title: "Quantifying Information Of Tumor Ct Image Different Phases"
+date: 2022-12-27
+url: https://discourse.slicer.org/t/26943
+---
+
 # Quantifying "Information" Of Tumor CT Image Different Phases
 
 **Topic ID**: 26943

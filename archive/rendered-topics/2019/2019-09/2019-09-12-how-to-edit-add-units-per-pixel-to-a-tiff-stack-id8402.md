@@ -1,3 +1,10 @@
+---
+topic_id: 8402
+title: "How To Edit Add Units Per Pixel To A Tiff Stack"
+date: 2019-09-12
+url: https://discourse.slicer.org/t/8402
+---
+
 # how to Edit/add units per pixel to a Tiff stack?
 
 **Topic ID**: 8402

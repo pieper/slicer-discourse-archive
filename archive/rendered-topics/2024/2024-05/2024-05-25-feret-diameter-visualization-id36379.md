@@ -1,3 +1,10 @@
+---
+topic_id: 36379
+title: "Feret Diameter Visualization"
+date: 2024-05-25
+url: https://discourse.slicer.org/t/36379
+---
+
 # Feret Diameter Visualization
 
 **Topic ID**: 36379

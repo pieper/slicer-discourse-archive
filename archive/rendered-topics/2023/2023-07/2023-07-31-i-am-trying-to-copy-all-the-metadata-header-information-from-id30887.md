@@ -1,3 +1,10 @@
+---
+topic_id: 30887
+title: "I Am Trying To Copy All The Metadata Header Information From"
+date: 2023-07-31
+url: https://discourse.slicer.org/t/30887
+---
+
 # I am trying to copy all the metadata/header information from one image to another.
 
 **Topic ID**: 30887

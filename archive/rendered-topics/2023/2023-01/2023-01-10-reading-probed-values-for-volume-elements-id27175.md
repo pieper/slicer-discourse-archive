@@ -1,3 +1,10 @@
+---
+topic_id: 27175
+title: "Reading Probed Values For Volume Elements"
+date: 2023-01-10
+url: https://discourse.slicer.org/t/27175
+---
+
 # Reading probed values for volume elements
 
 **Topic ID**: 27175

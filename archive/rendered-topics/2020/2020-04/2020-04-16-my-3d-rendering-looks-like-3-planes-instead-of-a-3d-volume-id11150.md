@@ -1,3 +1,10 @@
+---
+topic_id: 11150
+title: "My 3D Rendering Looks Like 3 Planes Instead Of A 3D Volume"
+date: 2020-04-16
+url: https://discourse.slicer.org/t/11150
+---
+
 # My 3D rendering looks like 3 planes instead of a 3D volume
 
 **Topic ID**: 11150

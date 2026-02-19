@@ -1,3 +1,10 @@
+---
+topic_id: 7797
+title: "Package Imp Deprecated"
+date: 2019-07-29
+url: https://discourse.slicer.org/t/7797
+---
+
 # Package imp deprecated
 
 **Topic ID**: 7797

@@ -1,3 +1,10 @@
+---
+topic_id: 36710
+title: "Create A Voxel Element Per Pixel In A Segmentation Model"
+date: 2024-06-11
+url: https://discourse.slicer.org/t/36710
+---
+
 # Create a voxel element per pixel in a segmentation/model
 
 **Topic ID**: 36710

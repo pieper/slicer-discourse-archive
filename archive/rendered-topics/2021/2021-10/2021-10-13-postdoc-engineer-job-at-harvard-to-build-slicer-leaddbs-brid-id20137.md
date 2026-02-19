@@ -1,3 +1,10 @@
+---
+topic_id: 20137
+title: "Postdoc Engineer Job At Harvard To Build Slicer Leaddbs Brid"
+date: 2021-10-13
+url: https://discourse.slicer.org/t/20137
+---
+
 # Postdoc/engineer job at Harvard to build Slicer/LeadDBS bridge
 
 **Topic ID**: 20137

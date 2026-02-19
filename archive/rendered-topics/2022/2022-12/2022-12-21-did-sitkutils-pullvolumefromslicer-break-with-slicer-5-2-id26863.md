@@ -1,3 +1,10 @@
+---
+topic_id: 26863
+title: "Did Sitkutils Pullvolumefromslicer Break With Slicer 5 2"
+date: 2022-12-21
+url: https://discourse.slicer.org/t/26863
+---
+
 # Did sitkUtils.PullVolumeFromSlicer() break with Slicer 5.2?
 
 **Topic ID**: 26863

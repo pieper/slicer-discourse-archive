@@ -1,3 +1,10 @@
+---
+topic_id: 37445
+title: "How To Convert Ct Liver Volume To 2D X Ray Using Drr Generat"
+date: 2024-07-18
+url: https://discourse.slicer.org/t/37445
+---
+
 # How to convert CT liver volume to 2d X ray using Drr generation in 3d slicer
 
 **Topic ID**: 37445

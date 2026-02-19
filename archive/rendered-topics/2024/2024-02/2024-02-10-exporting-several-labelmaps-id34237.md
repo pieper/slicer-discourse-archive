@@ -1,3 +1,10 @@
+---
+topic_id: 34237
+title: "Exporting Several Labelmaps"
+date: 2024-02-10
+url: https://discourse.slicer.org/t/34237
+---
+
 # Exporting several labelmaps
 
 **Topic ID**: 34237

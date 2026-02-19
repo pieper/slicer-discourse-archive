@@ -1,3 +1,10 @@
+---
+topic_id: 38480
+title: "Which Current Algorithms Of Slicer Could Be Improved By Gpu"
+date: 2024-09-22
+url: https://discourse.slicer.org/t/38480
+---
+
 # Which current algorithms of Slicer could be improved by GPU use?
 
 **Topic ID**: 38480

@@ -1,3 +1,10 @@
+---
+topic_id: 18145
+title: "How To Find The Image Match Between The External Reference W"
+date: 2021-06-15
+url: https://discourse.slicer.org/t/18145
+---
+
 # How to find the image match between the external reference with the annotations and the sequence in 3DSlicer?
 
 **Topic ID**: 18145

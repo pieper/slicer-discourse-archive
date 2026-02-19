@@ -1,3 +1,10 @@
+---
+topic_id: 27408
+title: "How To Visualize Wall Of Trachea That Is Obstructed By Trach"
+date: 2023-01-22
+url: https://discourse.slicer.org/t/27408
+---
+
 # How to visualize wall of trachea that is obstructed by tracheostomy tube lying alongside it
 
 **Topic ID**: 27408

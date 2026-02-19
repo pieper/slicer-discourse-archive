@@ -1,3 +1,10 @@
+---
+topic_id: 19811
+title: "Failed To Build In Ubuntu 20 04 Qt 5 12 8"
+date: 2021-09-22
+url: https://discourse.slicer.org/t/19811
+---
+
 # Failed to build in Ubuntu 20.04 (Qt-5.12.8)
 
 **Topic ID**: 19811

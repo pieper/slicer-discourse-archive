@@ -1,3 +1,10 @@
+---
+topic_id: 18183
+title: "Where Is The Code For Computation Of Centerline"
+date: 2021-06-17
+url: https://discourse.slicer.org/t/18183
+---
+
 # Where is the code for computation of centerline?
 
 **Topic ID**: 18183

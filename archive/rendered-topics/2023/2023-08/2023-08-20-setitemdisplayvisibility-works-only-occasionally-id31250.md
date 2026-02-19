@@ -1,3 +1,10 @@
+---
+topic_id: 31250
+title: "Setitemdisplayvisibility Works Only Occasionally"
+date: 2023-08-20
+url: https://discourse.slicer.org/t/31250
+---
+
 # SetItemDisplayVisibility works only occasionally
 
 **Topic ID**: 31250

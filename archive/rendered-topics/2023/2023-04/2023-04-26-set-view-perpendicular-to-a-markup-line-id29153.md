@@ -1,3 +1,10 @@
+---
+topic_id: 29153
+title: "Set View Perpendicular To A Markup Line"
+date: 2023-04-26
+url: https://discourse.slicer.org/t/29153
+---
+
 # Set view perpendicular to a Markup Line
 
 **Topic ID**: 29153

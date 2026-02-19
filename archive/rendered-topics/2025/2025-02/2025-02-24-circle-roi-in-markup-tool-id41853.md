@@ -1,3 +1,10 @@
+---
+topic_id: 41853
+title: "Circle Roi In Markup Tool"
+date: 2025-02-24
+url: https://discourse.slicer.org/t/41853
+---
+
 # Circle ROI in markup tool
 
 **Topic ID**: 41853

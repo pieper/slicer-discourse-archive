@@ -1,3 +1,10 @@
+---
+topic_id: 25653
+title: "Why The Condyle Is Saved As An Empty Model Like The One In T"
+date: 2022-10-12
+url: https://discourse.slicer.org/t/25653
+---
+
 # Why the condyle is saved as an empty model like the one in the photo below?
 
 **Topic ID**: 25653

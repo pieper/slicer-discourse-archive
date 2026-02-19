@@ -1,3 +1,10 @@
+---
+topic_id: 28072
+title: "Unit Of Radius An Length In Vmtk Centerline Computation"
+date: 2023-02-27
+url: https://discourse.slicer.org/t/28072
+---
+
 # Unit of radius an length in VMTK centerline computation
 
 **Topic ID**: 28072

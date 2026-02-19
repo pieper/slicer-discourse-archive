@@ -1,3 +1,10 @@
+---
+topic_id: 2651
+title: "Imported Dicom Files Do Not Show In The Dicomdatabase"
+date: 2018-04-20
+url: https://discourse.slicer.org/t/2651
+---
+
 # Imported dicom files do not show in the dicomDatabase
 
 **Topic ID**: 2651

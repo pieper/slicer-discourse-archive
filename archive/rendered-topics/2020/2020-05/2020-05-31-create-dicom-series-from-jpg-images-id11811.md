@@ -1,3 +1,10 @@
+---
+topic_id: 11811
+title: "Create Dicom Series From Jpg Images"
+date: 2020-05-31
+url: https://discourse.slicer.org/t/11811
+---
+
 # Create dicom series from jpg images
 
 **Topic ID**: 11811

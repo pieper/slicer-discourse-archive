@@ -1,3 +1,10 @@
+---
+topic_id: 7992
+title: "Slicermorph Extension Missing In Windows Preview Version"
+date: 2019-08-12
+url: https://discourse.slicer.org/t/7992
+---
+
 # SlicerMorph extension missing in Windows preview version
 
 **Topic ID**: 7992

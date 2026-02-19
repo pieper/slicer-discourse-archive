@@ -1,3 +1,10 @@
+---
+topic_id: 13136
+title: "Problem With 3D Printing Myocardium Only"
+date: 2020-08-24
+url: https://discourse.slicer.org/t/13136
+---
+
 # Problem with 3D printing myocardium only
 
 **Topic ID**: 13136

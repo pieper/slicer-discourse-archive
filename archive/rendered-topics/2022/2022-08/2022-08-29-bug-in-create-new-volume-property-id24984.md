@@ -1,3 +1,10 @@
+---
+topic_id: 24984
+title: "Bug In Create New Volume Property"
+date: 2022-08-29
+url: https://discourse.slicer.org/t/24984
+---
+
 # Bug in Create New Volume Property
 
 **Topic ID**: 24984

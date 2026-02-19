@@ -1,3 +1,10 @@
+---
+topic_id: 34092
+title: "Is Nifti Converted From Raw Dicom Accurate For Segmentation"
+date: 2024-02-01
+url: https://discourse.slicer.org/t/34092
+---
+
 # Is Nifti (converted from raw DICOM) accurate for segmentation?
 
 **Topic ID**: 34092

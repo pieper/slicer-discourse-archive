@@ -1,3 +1,10 @@
+---
+topic_id: 27518
+title: "Using Python Code"
+date: 2023-01-28
+url: https://discourse.slicer.org/t/27518
+---
+
 # Using python code
 
 **Topic ID**: 27518

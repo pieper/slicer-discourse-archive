@@ -1,3 +1,10 @@
+---
+topic_id: 31253
+title: "Quality Dashboard Cdash Is Not Displaying Submission Details"
+date: 2023-08-20
+url: https://discourse.slicer.org/t/31253
+---
+
 # Quality Dashboard (CDash) is not displaying submission details
 
 **Topic ID**: 31253

@@ -1,3 +1,10 @@
+---
+topic_id: 33520
+title: "Segmentations Seg Nrrd Saved In Version 4 10 Loaded Incorrec"
+date: 2023-12-26
+url: https://discourse.slicer.org/t/33520
+---
+
 # Segmentations (.seg.nrrd) saved in version 4.10 loaded incorrectly in 5.6
 
 **Topic ID**: 33520

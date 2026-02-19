@@ -1,3 +1,10 @@
+---
+topic_id: 9442
+title: "Petdicomextension Failing In Nightly"
+date: 2019-12-09
+url: https://discourse.slicer.org/t/9442
+---
+
 # PETDICOMExtension failing in nightly
 
 **Topic ID**: 9442

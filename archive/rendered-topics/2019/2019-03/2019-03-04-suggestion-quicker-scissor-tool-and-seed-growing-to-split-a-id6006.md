@@ -1,3 +1,10 @@
+---
+topic_id: 6006
+title: "Suggestion Quicker Scissor Tool And Seed Growing To Split A"
+date: 2019-03-04
+url: https://discourse.slicer.org/t/6006
+---
+
 # Suggestion: Quicker scissor tool and Seed growing to split a segment in two parts
 
 **Topic ID**: 6006

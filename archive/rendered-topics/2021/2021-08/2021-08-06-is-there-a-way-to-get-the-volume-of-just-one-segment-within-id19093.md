@@ -1,3 +1,10 @@
+---
+topic_id: 19093
+title: "Is There A Way To Get The Volume Of Just One Segment Within"
+date: 2021-08-06
+url: https://discourse.slicer.org/t/19093
+---
+
 # Is there a way to get the volume of just one segment within a segmentation?
 
 **Topic ID**: 19093

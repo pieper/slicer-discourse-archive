@@ -1,3 +1,10 @@
+---
+topic_id: 8319
+title: "Ct Image Segmentation Ankle Cartilage"
+date: 2019-09-06
+url: https://discourse.slicer.org/t/8319
+---
+
 # CT image segmentation ankle cartilage
 
 **Topic ID**: 8319

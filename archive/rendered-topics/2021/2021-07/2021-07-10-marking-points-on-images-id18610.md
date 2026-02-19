@@ -1,3 +1,10 @@
+---
+topic_id: 18610
+title: "Marking Points On Images"
+date: 2021-07-10
+url: https://discourse.slicer.org/t/18610
+---
+
 # Marking points on images
 
 **Topic ID**: 18610

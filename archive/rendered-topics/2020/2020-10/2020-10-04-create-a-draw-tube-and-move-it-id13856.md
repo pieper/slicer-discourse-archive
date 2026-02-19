@@ -1,3 +1,10 @@
+---
+topic_id: 13856
+title: "Create A Draw Tube And Move It"
+date: 2020-10-04
+url: https://discourse.slicer.org/t/13856
+---
+
 # Create a Draw tube and move it
 
 **Topic ID**: 13856

@@ -1,3 +1,10 @@
+---
+topic_id: 15384
+title: "How Can I Get The Python Source Code Of Fiducial Registratio"
+date: 2021-01-07
+url: https://discourse.slicer.org/t/15384
+---
+
 # How can I get the Python source code of Fiducial Registration Wizard module?
 
 **Topic ID**: 15384

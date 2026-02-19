@@ -1,3 +1,10 @@
+---
+topic_id: 42164
+title: "How To Extract The Hu Value From A Point Using Python Script"
+date: 2025-03-15
+url: https://discourse.slicer.org/t/42164
+---
+
 # How to extract the HU value from a point using python scripting?
 
 **Topic ID**: 42164

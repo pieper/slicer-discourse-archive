@@ -1,3 +1,10 @@
+---
+topic_id: 24700
+title: "Converting Dicom Structure Sets To Ply Format"
+date: 2022-08-09
+url: https://discourse.slicer.org/t/24700
+---
+
 # Converting DICOM structure sets to PLY format
 
 **Topic ID**: 24700

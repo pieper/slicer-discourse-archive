@@ -1,3 +1,10 @@
+---
+topic_id: 10190
+title: "Meshing Separate Parts In Segmentmesher"
+date: 2020-02-10
+url: https://discourse.slicer.org/t/10190
+---
+
 # Meshing separate parts in SegmentMesher
 
 **Topic ID**: 10190

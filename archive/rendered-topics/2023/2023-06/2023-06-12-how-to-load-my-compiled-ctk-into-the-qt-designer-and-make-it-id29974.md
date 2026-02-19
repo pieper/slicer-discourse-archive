@@ -1,3 +1,10 @@
+---
+topic_id: 29974
+title: "How To Load My Compiled Ctk Into The Qt Designer And Make It"
+date: 2023-06-12
+url: https://discourse.slicer.org/t/29974
+---
+
 # How to load my compiled CTK into the QT designer and make it a drag and drop control？
 
 **Topic ID**: 29974

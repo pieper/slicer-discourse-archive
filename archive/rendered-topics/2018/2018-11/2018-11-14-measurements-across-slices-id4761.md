@@ -1,3 +1,10 @@
+---
+topic_id: 4761
+title: "Measurements Across Slices"
+date: 2018-11-14
+url: https://discourse.slicer.org/t/4761
+---
+
 # measurements across slices
 
 **Topic ID**: 4761

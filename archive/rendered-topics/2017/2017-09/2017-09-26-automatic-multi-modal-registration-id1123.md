@@ -1,3 +1,10 @@
+---
+topic_id: 1123
+title: "Automatic Multi Modal Registration"
+date: 2017-09-26
+url: https://discourse.slicer.org/t/1123
+---
+
 # Automatic multi-modal registration
 
 **Topic ID**: 1123

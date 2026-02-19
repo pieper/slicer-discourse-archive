@@ -1,3 +1,10 @@
+---
+topic_id: 17192
+title: "How Does 3Dslicer Read External Marker Coordinates"
+date: 2021-04-20
+url: https://discourse.slicer.org/t/17192
+---
+
 # How does 3dslicer read external marker coordinates
 
 **Topic ID**: 17192

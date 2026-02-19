@@ -1,3 +1,10 @@
+---
+topic_id: 28371
+title: "Error Running Vmtk Development Version Vmtkcenterlines"
+date: 2023-03-14
+url: https://discourse.slicer.org/t/28371
+---
+
 # Error running VMTK Development version (vmtkcenterlines)
 
 **Topic ID**: 28371

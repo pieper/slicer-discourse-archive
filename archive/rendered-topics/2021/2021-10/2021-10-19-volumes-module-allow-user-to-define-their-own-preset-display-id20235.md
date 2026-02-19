@@ -1,3 +1,10 @@
+---
+topic_id: 20235
+title: "Volumes Module Allow User To Define Their Own Preset Display"
+date: 2021-10-19
+url: https://discourse.slicer.org/t/20235
+---
+
 # Volumes module:  allow user to define their own preset Display configuration(s)
 
 **Topic ID**: 20235

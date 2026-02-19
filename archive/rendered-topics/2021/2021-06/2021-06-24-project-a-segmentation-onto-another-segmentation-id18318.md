@@ -1,3 +1,10 @@
+---
+topic_id: 18318
+title: "Project A Segmentation Onto Another Segmentation"
+date: 2021-06-24
+url: https://discourse.slicer.org/t/18318
+---
+
 # Project a segmentation onto another segmentation
 
 **Topic ID**: 18318

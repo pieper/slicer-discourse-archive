@@ -1,3 +1,10 @@
+---
+topic_id: 34782
+title: "Presents The Brazilian Fauna Virtual Anatomic Collection"
+date: 2024-03-08
+url: https://discourse.slicer.org/t/34782
+---
+
 # Presents the 'Brazilian Fauna Virtual Anatomic Collection'
 
 **Topic ID**: 34782

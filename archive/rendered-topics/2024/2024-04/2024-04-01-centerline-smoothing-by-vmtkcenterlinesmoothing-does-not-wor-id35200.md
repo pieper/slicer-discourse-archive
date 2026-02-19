@@ -1,3 +1,10 @@
+---
+topic_id: 35200
+title: "Centerline Smoothing By Vmtkcenterlinesmoothing Does Not Wor"
+date: 2024-04-01
+url: https://discourse.slicer.org/t/35200
+---
+
 # Centerline smoothing by vmtkCenterlineSmoothing does not work
 
 **Topic ID**: 35200

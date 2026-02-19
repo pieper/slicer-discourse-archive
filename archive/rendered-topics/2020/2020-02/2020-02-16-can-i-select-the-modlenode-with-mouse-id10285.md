@@ -1,3 +1,10 @@
+---
+topic_id: 10285
+title: "Can I Select The Modlenode With Mouse"
+date: 2020-02-16
+url: https://discourse.slicer.org/t/10285
+---
+
 # Can I select the modleNode with mouse?
 
 **Topic ID**: 10285

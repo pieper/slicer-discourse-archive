@@ -1,3 +1,10 @@
+---
+topic_id: 2784
+title: "Displaying Vtk Actor In A Slice View"
+date: 2018-05-09
+url: https://discourse.slicer.org/t/2784
+---
+
 # Displaying VTK actor in a slice view
 
 **Topic ID**: 2784

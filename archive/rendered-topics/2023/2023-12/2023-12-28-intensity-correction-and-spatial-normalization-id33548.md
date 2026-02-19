@@ -1,3 +1,10 @@
+---
+topic_id: 33548
+title: "Intensity Correction And Spatial Normalization"
+date: 2023-12-28
+url: https://discourse.slicer.org/t/33548
+---
+
 # intensity correction and spatial normalization
 
 **Topic ID**: 33548

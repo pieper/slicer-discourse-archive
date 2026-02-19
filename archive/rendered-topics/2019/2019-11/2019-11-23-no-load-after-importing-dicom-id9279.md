@@ -1,3 +1,10 @@
+---
+topic_id: 9279
+title: "No Load After Importing Dicom"
+date: 2019-11-23
+url: https://discourse.slicer.org/t/9279
+---
+
 # No load after importing DICOM
 
 **Topic ID**: 9279

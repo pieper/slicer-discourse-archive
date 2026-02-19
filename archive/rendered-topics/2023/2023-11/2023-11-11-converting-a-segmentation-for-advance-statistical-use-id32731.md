@@ -1,3 +1,10 @@
+---
+topic_id: 32731
+title: "Converting A Segmentation For Advance Statistical Use"
+date: 2023-11-11
+url: https://discourse.slicer.org/t/32731
+---
+
 # Converting a segmentation for advance statistical use
 
 **Topic ID**: 32731

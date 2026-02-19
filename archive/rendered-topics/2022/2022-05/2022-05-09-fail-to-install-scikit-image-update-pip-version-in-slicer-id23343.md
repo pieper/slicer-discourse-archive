@@ -1,3 +1,10 @@
+---
+topic_id: 23343
+title: "Fail To Install Scikit Image Update Pip Version In Slicer"
+date: 2022-05-09
+url: https://discourse.slicer.org/t/23343
+---
+
 # Fail to install `scikit-image` - update pip version in Slicer
 
 **Topic ID**: 23343

@@ -1,3 +1,10 @@
+---
+topic_id: 24568
+title: "Tracking Cursor Movements To Access Voxel Values"
+date: 2022-07-29
+url: https://discourse.slicer.org/t/24568
+---
+
 # Tracking cursor movements to access voxel values
 
 **Topic ID**: 24568

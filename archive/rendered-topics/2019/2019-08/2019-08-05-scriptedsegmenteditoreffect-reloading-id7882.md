@@ -1,3 +1,10 @@
+---
+topic_id: 7882
+title: "Scriptedsegmenteditoreffect Reloading"
+date: 2019-08-05
+url: https://discourse.slicer.org/t/7882
+---
+
 # ScriptedSegmentEditorEffect - reloading?
 
 **Topic ID**: 7882

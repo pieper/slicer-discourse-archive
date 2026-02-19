@@ -1,3 +1,10 @@
+---
+topic_id: 33313
+title: "I Cant Drag Nodes Into A Folder In The Subject Hierarchy"
+date: 2023-12-09
+url: https://discourse.slicer.org/t/33313
+---
+
 # I can't drag nodes into a folder in the subject hierarchy
 
 **Topic ID**: 33313

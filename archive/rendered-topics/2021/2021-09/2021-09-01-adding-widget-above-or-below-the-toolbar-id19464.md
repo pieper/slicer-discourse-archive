@@ -1,3 +1,10 @@
+---
+topic_id: 19464
+title: "Adding Widget Above Or Below The Toolbar"
+date: 2021-09-01
+url: https://discourse.slicer.org/t/19464
+---
+
 # Adding widget above or below the toolbar
 
 **Topic ID**: 19464

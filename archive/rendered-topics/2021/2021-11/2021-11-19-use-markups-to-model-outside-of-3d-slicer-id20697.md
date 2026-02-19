@@ -1,3 +1,10 @@
+---
+topic_id: 20697
+title: "Use Markups To Model Outside Of 3D Slicer"
+date: 2021-11-19
+url: https://discourse.slicer.org/t/20697
+---
+
 # Use Markups to Model outside of 3D Slicer
 
 **Topic ID**: 20697

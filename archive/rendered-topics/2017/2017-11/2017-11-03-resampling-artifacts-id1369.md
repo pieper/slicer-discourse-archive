@@ -1,3 +1,10 @@
+---
+topic_id: 1369
+title: "Resampling Artifacts"
+date: 2017-11-03
+url: https://discourse.slicer.org/t/1369
+---
+
 # Resampling artifacts
 
 **Topic ID**: 1369

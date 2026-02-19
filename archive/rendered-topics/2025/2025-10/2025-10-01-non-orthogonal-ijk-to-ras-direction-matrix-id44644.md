@@ -1,3 +1,10 @@
+---
+topic_id: 44644
+title: "Non Orthogonal Ijk To Ras Direction Matrix"
+date: 2025-10-01
+url: https://discourse.slicer.org/t/44644
+---
+
 # Non-orthogonal IJK to RAS Direction Matrix
 
 **Topic ID**: 44644

@@ -1,3 +1,10 @@
+---
+topic_id: 1980
+title: "Segmentation Method For Cerebrspinal Fluid Space"
+date: 2018-01-30
+url: https://discourse.slicer.org/t/1980
+---
+
 # Segmentation method for cerebrspinal fluid space
 
 **Topic ID**: 1980

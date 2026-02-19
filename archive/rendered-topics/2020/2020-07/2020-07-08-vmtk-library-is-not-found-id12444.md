@@ -1,3 +1,10 @@
+---
+topic_id: 12444
+title: "Vmtk Library Is Not Found"
+date: 2020-07-08
+url: https://discourse.slicer.org/t/12444
+---
+
 # VMTK library is not found
 
 **Topic ID**: 12444

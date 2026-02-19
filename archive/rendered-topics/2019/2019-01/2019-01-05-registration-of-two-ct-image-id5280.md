@@ -1,3 +1,10 @@
+---
+topic_id: 5280
+title: "Registration Of Two Ct Image"
+date: 2019-01-05
+url: https://discourse.slicer.org/t/5280
+---
+
 # Registration of two CT image
 
 **Topic ID**: 5280

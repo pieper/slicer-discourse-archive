@@ -1,3 +1,10 @@
+---
+topic_id: 39525
+title: "Curve Will Not Confine To Model Surfaces"
+date: 2024-10-03
+url: https://discourse.slicer.org/t/39525
+---
+
 # Curve will not confine to model surfaces
 
 **Topic ID**: 39525

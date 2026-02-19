@@ -1,3 +1,10 @@
+---
+topic_id: 20998
+title: "Exporting Dicom And Jpeg Files Directly From 3D Slicer"
+date: 2021-12-10
+url: https://discourse.slicer.org/t/20998
+---
+
 # Exporting DICOM and JPEG files directly from 3D slicer
 
 **Topic ID**: 20998

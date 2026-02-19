@@ -1,3 +1,10 @@
+---
+topic_id: 8810
+title: "Failed To Build Slicercustomapptemplate"
+date: 2019-10-17
+url: https://discourse.slicer.org/t/8810
+---
+
 # Failed to build SlicerCustomAppTemplate
 
 **Topic ID**: 8810

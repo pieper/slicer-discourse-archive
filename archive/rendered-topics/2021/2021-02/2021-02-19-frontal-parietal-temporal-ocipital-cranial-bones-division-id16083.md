@@ -1,3 +1,10 @@
+---
+topic_id: 16083
+title: "Frontal Parietal Temporal Ocipital Cranial Bones Division"
+date: 2021-02-19
+url: https://discourse.slicer.org/t/16083
+---
+
 # Frontal, parietal, temporal, ocipital cranial bones division
 
 **Topic ID**: 16083

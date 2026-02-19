@@ -1,3 +1,10 @@
+---
+topic_id: 20335
+title: "How To Run Ms Lesion Simulator Module"
+date: 2021-10-25
+url: https://discourse.slicer.org/t/20335
+---
+
 # How to run MS Lesion Simulator module ?
 
 **Topic ID**: 20335

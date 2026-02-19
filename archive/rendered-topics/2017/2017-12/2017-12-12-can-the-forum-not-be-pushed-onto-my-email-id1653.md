@@ -1,3 +1,10 @@
+---
+topic_id: 1653
+title: "Can The Forum Not Be Pushed Onto My Email"
+date: 2017-12-12
+url: https://discourse.slicer.org/t/1653
+---
+
 # Can the forum not be pushed onto my email?
 
 **Topic ID**: 1653

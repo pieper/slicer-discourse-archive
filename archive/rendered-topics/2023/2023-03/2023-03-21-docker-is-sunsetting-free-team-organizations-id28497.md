@@ -1,3 +1,10 @@
+---
+topic_id: 28497
+title: "Docker Is Sunsetting Free Team Organizations"
+date: 2023-03-21
+url: https://discourse.slicer.org/t/28497
+---
+
 # Docker is sunsetting Free Team organizations
 
 **Topic ID**: 28497

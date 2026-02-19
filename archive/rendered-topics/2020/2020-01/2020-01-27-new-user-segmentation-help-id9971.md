@@ -1,3 +1,10 @@
+---
+topic_id: 9971
+title: "New User Segmentation Help"
+date: 2020-01-27
+url: https://discourse.slicer.org/t/9971
+---
+
 # New user segmentation help
 
 **Topic ID**: 9971

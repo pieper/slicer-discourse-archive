@@ -1,3 +1,10 @@
+---
+topic_id: 36568
+title: "Viewer To Share Medical Models From Url Website Integration"
+date: 2024-06-03
+url: https://discourse.slicer.org/t/36568
+---
+
 # Viewer to share medical models from URL / website integration
 
 **Topic ID**: 36568

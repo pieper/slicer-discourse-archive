@@ -1,3 +1,10 @@
+---
+topic_id: 11371
+title: "Removing Legacy Modules And Rarely Used Features From Slicer"
+date: 2020-04-30
+url: https://discourse.slicer.org/t/11371
+---
+
 # Removing legacy modules and rarely used features from Slicer5
 
 **Topic ID**: 11371

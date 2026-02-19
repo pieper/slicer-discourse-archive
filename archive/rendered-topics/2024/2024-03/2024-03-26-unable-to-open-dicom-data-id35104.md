@@ -1,3 +1,10 @@
+---
+topic_id: 35104
+title: "Unable To Open Dicom Data"
+date: 2024-03-26
+url: https://discourse.slicer.org/t/35104
+---
+
 # unable to open Dicom data
 
 **Topic ID**: 35104

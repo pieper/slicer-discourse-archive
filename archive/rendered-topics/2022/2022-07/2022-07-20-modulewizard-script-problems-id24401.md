@@ -1,3 +1,10 @@
+---
+topic_id: 24401
+title: "Modulewizard Script Problems"
+date: 2022-07-20
+url: https://discourse.slicer.org/t/24401
+---
+
 # ModuleWizard script problems
 
 **Topic ID**: 24401

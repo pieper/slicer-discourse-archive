@@ -1,3 +1,10 @@
+---
+topic_id: 67
+title: "Using Discourse As A Mailing List"
+date: 2017-04-11
+url: https://discourse.slicer.org/t/67
+---
+
 # Using Discourse as a mailing list
 
 **Topic ID**: 67

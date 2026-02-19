@@ -1,3 +1,10 @@
+---
+topic_id: 2405
+title: "Crop Surface Mesh Vtk File"
+date: 2018-03-22
+url: https://discourse.slicer.org/t/2405
+---
+
 # Crop surface mesh (vtk file)
 
 **Topic ID**: 2405

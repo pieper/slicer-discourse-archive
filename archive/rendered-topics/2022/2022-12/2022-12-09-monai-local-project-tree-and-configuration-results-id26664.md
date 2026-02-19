@@ -1,3 +1,10 @@
+---
+topic_id: 26664
+title: "Monai Local Project Tree And Configuration Results"
+date: 2022-12-09
+url: https://discourse.slicer.org/t/26664
+---
+
 # MONAI - Local Project "Tree" and Configuration - Results
 
 **Topic ID**: 26664

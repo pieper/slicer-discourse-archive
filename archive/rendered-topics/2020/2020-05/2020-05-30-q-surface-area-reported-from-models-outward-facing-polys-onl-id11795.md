@@ -1,3 +1,10 @@
+---
+topic_id: 11795
+title: "Q Surface Area Reported From Models Outward Facing Polys Onl"
+date: 2020-05-30
+url: https://discourse.slicer.org/t/11795
+---
+
 # Q- Surface area reported from Models: outward facing polys only?
 
 **Topic ID**: 11795

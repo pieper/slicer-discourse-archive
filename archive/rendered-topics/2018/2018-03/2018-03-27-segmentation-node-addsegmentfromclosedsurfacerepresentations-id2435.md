@@ -1,3 +1,10 @@
+---
+topic_id: 2435
+title: "Segmentation Node Addsegmentfromclosedsurfacerepresentations"
+date: 2018-03-27
+url: https://discourse.slicer.org/t/2435
+---
+
 # Segmentation Node AddSegmentFromClosedSurfaceRepresentation's color only effective on 2d viewer
 
 **Topic ID**: 2435

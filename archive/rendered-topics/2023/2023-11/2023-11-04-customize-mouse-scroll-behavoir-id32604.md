@@ -1,3 +1,10 @@
+---
+topic_id: 32604
+title: "Customize Mouse Scroll Behavoir"
+date: 2023-11-04
+url: https://discourse.slicer.org/t/32604
+---
+
 # Customize mouse scroll behavoir
 
 **Topic ID**: 32604

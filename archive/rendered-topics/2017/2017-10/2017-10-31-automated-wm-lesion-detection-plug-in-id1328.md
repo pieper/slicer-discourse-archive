@@ -1,3 +1,10 @@
+---
+topic_id: 1328
+title: "Automated Wm Lesion Detection Plug In"
+date: 2017-10-31
+url: https://discourse.slicer.org/t/1328
+---
+
 # Automated WM Lesion Detection Plug-in
 
 **Topic ID**: 1328

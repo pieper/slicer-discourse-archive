@@ -1,3 +1,10 @@
+---
+topic_id: 13363
+title: "3D Reconstruction Using All The Three Orientation Of Mri Vol"
+date: 2020-09-07
+url: https://discourse.slicer.org/t/13363
+---
+
 # 3D reconstruction using all the three orientation of MRI volumes
 
 **Topic ID**: 13363

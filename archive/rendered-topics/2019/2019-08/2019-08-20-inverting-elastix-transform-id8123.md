@@ -1,3 +1,10 @@
+---
+topic_id: 8123
+title: "Inverting Elastix Transform"
+date: 2019-08-20
+url: https://discourse.slicer.org/t/8123
+---
+
 # Inverting Elastix transform
 
 **Topic ID**: 8123

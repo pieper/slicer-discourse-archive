@@ -1,3 +1,10 @@
+---
+topic_id: 38201
+title: "How To Add Segmentation To A Specific Frame In Sequence Brow"
+date: 2024-09-04
+url: https://discourse.slicer.org/t/38201
+---
+
 # How to add segmentation to a specific frame in sequence browser
 
 **Topic ID**: 38201

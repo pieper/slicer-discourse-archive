@@ -1,3 +1,10 @@
+---
+topic_id: 4403
+title: "2018 10 15 Windows Nightly Build Unable To Import Vtk"
+date: 2018-10-15
+url: https://discourse.slicer.org/t/4403
+---
+
 # 2018-10-15 Windows nightly build "unable to import VTK"
 
 **Topic ID**: 4403

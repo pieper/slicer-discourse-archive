@@ -1,3 +1,10 @@
+---
+topic_id: 21131
+title: "Getnthcontrolpointorientationmatrix How Should We Consider I"
+date: 2021-12-18
+url: https://discourse.slicer.org/t/21131
+---
+
 # GetNthControlPointOrientationMatrix : How should we consider it?
 
 **Topic ID**: 21131

@@ -1,3 +1,10 @@
+---
+topic_id: 2436
+title: "Slice Viewer Reset View And Set Intersection"
+date: 2018-03-27
+url: https://discourse.slicer.org/t/2436
+---
+
 # Slice viewer reset view and set intersection
 
 **Topic ID**: 2436

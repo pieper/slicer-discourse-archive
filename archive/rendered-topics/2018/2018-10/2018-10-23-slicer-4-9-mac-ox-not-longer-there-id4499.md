@@ -1,3 +1,10 @@
+---
+topic_id: 4499
+title: "Slicer 4 9 Mac Ox Not Longer There"
+date: 2018-10-23
+url: https://discourse.slicer.org/t/4499
+---
+
 # Slicer 4.9 MAC ox not longer there
 
 **Topic ID**: 4499

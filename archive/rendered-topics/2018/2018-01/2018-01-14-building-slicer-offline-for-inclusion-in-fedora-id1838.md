@@ -1,3 +1,10 @@
+---
+topic_id: 1838
+title: "Building Slicer Offline For Inclusion In Fedora"
+date: 2018-01-14
+url: https://discourse.slicer.org/t/1838
+---
+
 # Building Slicer offline for inclusion in Fedora
 
 **Topic ID**: 1838

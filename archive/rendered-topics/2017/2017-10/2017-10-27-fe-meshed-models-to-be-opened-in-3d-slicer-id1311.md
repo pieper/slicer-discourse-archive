@@ -1,3 +1,10 @@
+---
+topic_id: 1311
+title: "Fe Meshed Models To Be Opened In 3D Slicer"
+date: 2017-10-27
+url: https://discourse.slicer.org/t/1311
+---
+
 # FE meshed models to be opened in 3D Slicer
 
 **Topic ID**: 1311

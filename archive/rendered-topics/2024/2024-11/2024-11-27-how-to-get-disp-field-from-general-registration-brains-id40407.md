@@ -1,3 +1,10 @@
+---
+topic_id: 40407
+title: "How To Get Disp Field From General Registration Brains"
+date: 2024-11-27
+url: https://discourse.slicer.org/t/40407
+---
+
 # How to get disp field from General Registration (BRAINS)
 
 **Topic ID**: 40407

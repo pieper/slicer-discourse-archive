@@ -1,3 +1,10 @@
+---
+topic_id: 19197
+title: "Getting Slice Index From Background Layer"
+date: 2021-08-15
+url: https://discourse.slicer.org/t/19197
+---
+
 # Getting slice index from background layer
 
 **Topic ID**: 19197

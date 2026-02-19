@@ -1,3 +1,10 @@
+---
+topic_id: 175
+title: "Datastore Data Not Showing For Uploaded Dataset"
+date: 2017-04-22
+url: https://discourse.slicer.org/t/175
+---
+
 # DataStore: data not showing for uploaded dataset
 
 **Topic ID**: 175

@@ -1,3 +1,10 @@
+---
+topic_id: 23589
+title: "Error With Export Segmentation To Dicom"
+date: 2022-05-25
+url: https://discourse.slicer.org/t/23589
+---
+
 # Error with export segmentation to DICOM
 
 **Topic ID**: 23589

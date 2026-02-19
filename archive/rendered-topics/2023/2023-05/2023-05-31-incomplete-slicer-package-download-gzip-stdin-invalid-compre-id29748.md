@@ -1,3 +1,10 @@
+---
+topic_id: 29748
+title: "Incomplete Slicer Package Download Gzip Stdin Invalid Compre"
+date: 2023-05-31
+url: https://discourse.slicer.org/t/29748
+---
+
 # Incomplete Slicer package download - `gzip: stdin: invalid compressed data--format violated`
 
 **Topic ID**: 29748

@@ -1,3 +1,10 @@
+---
+topic_id: 17356
+title: "Change Axis Labels From Ras To Xyz Or Something Else Custom"
+date: 2021-04-27
+url: https://discourse.slicer.org/t/17356
+---
+
 # Change Axis Labels from RAS to XYZ (or something else custom)
 
 **Topic ID**: 17356

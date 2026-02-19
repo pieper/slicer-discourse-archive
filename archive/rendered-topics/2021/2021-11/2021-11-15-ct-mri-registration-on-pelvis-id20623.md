@@ -1,3 +1,10 @@
+---
+topic_id: 20623
+title: "Ct Mri Registration On Pelvis"
+date: 2021-11-15
+url: https://discourse.slicer.org/t/20623
+---
+
 # CT / MRI Registration on pelvis
 
 **Topic ID**: 20623

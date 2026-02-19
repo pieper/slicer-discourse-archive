@@ -1,3 +1,10 @@
+---
+topic_id: 20798
+title: "The Problem Of Itk Imagefilereader"
+date: 2021-11-26
+url: https://discourse.slicer.org/t/20798
+---
+
 # The problem of itk.ImageFileReader
 
 **Topic ID**: 20798

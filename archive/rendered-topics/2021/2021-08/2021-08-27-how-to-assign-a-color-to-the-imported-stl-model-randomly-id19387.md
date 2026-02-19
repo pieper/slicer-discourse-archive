@@ -1,3 +1,10 @@
+---
+topic_id: 19387
+title: "How To Assign A Color To The Imported Stl Model Randomly"
+date: 2021-08-27
+url: https://discourse.slicer.org/t/19387
+---
+
 # How to assign a color to the imported stl model randomly ？
 
 **Topic ID**: 19387

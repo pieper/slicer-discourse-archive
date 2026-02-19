@@ -1,3 +1,10 @@
+---
+topic_id: 3159
+title: "Extensions Matlabbridge Send Transform 4X4 Matrix From Matla"
+date: 2018-06-12
+url: https://discourse.slicer.org/t/3159
+---
+
 # Extensions/MatlabBridge: Send transform (4x4 matrix) from Matlab to 3D Slicer
 
 **Topic ID**: 3159

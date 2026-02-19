@@ -1,3 +1,10 @@
+---
+topic_id: 8440
+title: "Enhancing Orbital Walls With Unsharp Mask Filtering"
+date: 2019-09-16
+url: https://discourse.slicer.org/t/8440
+---
+
 # Enhancing Orbital Walls With Unsharp Mask Filtering
 
 **Topic ID**: 8440

@@ -1,3 +1,10 @@
+---
+topic_id: 37842
+title: "How Can I Get An Array From Seg Nrrd File In Python"
+date: 2024-08-12
+url: https://discourse.slicer.org/t/37842
+---
+
 # How can I get an array from seg.nrrd file in Python?
 
 **Topic ID**: 37842

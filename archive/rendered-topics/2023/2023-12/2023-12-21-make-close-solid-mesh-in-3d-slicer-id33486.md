@@ -1,3 +1,10 @@
+---
+topic_id: 33486
+title: "Make Close Solid Mesh In 3D Slicer"
+date: 2023-12-21
+url: https://discourse.slicer.org/t/33486
+---
+
 # Make close (solid) mesh in 3D Slicer
 
 **Topic ID**: 33486

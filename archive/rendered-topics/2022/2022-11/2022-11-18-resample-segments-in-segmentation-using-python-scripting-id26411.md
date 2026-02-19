@@ -1,3 +1,10 @@
+---
+topic_id: 26411
+title: "Resample Segments In Segmentation Using Python Scripting"
+date: 2022-11-18
+url: https://discourse.slicer.org/t/26411
+---
+
 # Resample segments in segmentation using Python scripting
 
 **Topic ID**: 26411

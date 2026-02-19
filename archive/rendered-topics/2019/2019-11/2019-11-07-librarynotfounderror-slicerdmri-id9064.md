@@ -1,3 +1,10 @@
+---
+topic_id: 9064
+title: "Librarynotfounderror Slicerdmri"
+date: 2019-11-07
+url: https://discourse.slicer.org/t/9064
+---
+
 # [LibraryNotFoundError] [SlicerDMRI]
 
 **Topic ID**: 9064

@@ -1,3 +1,10 @@
+---
+topic_id: 1082
+title: "Create New Segment In Python Script"
+date: 2017-09-18
+url: https://discourse.slicer.org/t/1082
+---
+
 # Create new segment in Python script
 
 **Topic ID**: 1082

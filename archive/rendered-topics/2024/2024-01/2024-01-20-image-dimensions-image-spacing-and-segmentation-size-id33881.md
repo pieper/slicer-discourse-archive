@@ -1,3 +1,10 @@
+---
+topic_id: 33881
+title: "Image Dimensions Image Spacing And Segmentation Size"
+date: 2024-01-20
+url: https://discourse.slicer.org/t/33881
+---
+
 # Image dimensions, image spacing and segmentation size
 
 **Topic ID**: 33881

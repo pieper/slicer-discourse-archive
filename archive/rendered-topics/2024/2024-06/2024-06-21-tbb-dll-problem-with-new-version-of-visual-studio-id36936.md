@@ -1,3 +1,10 @@
+---
+topic_id: 36936
+title: "Tbb Dll Problem With New Version Of Visual Studio"
+date: 2024-06-21
+url: https://discourse.slicer.org/t/36936
+---
+
 # TBB DLL problem with new version of Visual Studio
 
 **Topic ID**: 36936

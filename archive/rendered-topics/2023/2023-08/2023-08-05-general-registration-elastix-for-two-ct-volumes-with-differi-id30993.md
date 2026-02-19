@@ -1,3 +1,10 @@
+---
+topic_id: 30993
+title: "General Registration Elastix For Two Ct Volumes With Differi"
+date: 2023-08-05
+url: https://discourse.slicer.org/t/30993
+---
+
 # General Registration (Elastix) for two CT-Volumes with differing Voxel Size
 
 **Topic ID**: 30993

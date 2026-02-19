@@ -1,3 +1,10 @@
+---
+topic_id: 41562
+title: "Changing A Single Segment 2 Different Colors"
+date: 2025-02-07
+url: https://discourse.slicer.org/t/41562
+---
+
 # Changing a single segment 2 different colors
 
 **Topic ID**: 41562

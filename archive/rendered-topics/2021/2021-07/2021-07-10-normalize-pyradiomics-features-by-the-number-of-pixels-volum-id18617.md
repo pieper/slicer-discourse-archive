@@ -1,3 +1,10 @@
+---
+topic_id: 18617
+title: "Normalize Pyradiomics Features By The Number Of Pixels Volum"
+date: 2021-07-10
+url: https://discourse.slicer.org/t/18617
+---
+
 # Normalize Pyradiomics features by the number of pixels (Volume)
 
 **Topic ID**: 18617

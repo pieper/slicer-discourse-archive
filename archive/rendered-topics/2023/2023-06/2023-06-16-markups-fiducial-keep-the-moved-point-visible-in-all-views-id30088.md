@@ -1,3 +1,10 @@
+---
+topic_id: 30088
+title: "Markups Fiducial Keep The Moved Point Visible In All Views"
+date: 2023-06-16
+url: https://discourse.slicer.org/t/30088
+---
+
 # Markups - fiducial - keep the moved point visible in all views
 
 **Topic ID**: 30088

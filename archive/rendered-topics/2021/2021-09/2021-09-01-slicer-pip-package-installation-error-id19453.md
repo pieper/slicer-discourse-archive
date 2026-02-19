@@ -1,3 +1,10 @@
+---
+topic_id: 19453
+title: "Slicer Pip Package Installation Error"
+date: 2021-09-01
+url: https://discourse.slicer.org/t/19453
+---
+
 # Slicer pip package installation error
 
 **Topic ID**: 19453

@@ -1,3 +1,10 @@
+---
+topic_id: 159
+title: "Like Icon Dislike"
+date: 2017-04-21
+url: https://discourse.slicer.org/t/159
+---
+
 # Like icon dislike
 
 **Topic ID**: 159

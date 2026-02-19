@@ -1,3 +1,10 @@
+---
+topic_id: 7881
+title: "Extension Wizard File Open Dialogs Hang Ui For Several Secon"
+date: 2019-08-05
+url: https://discourse.slicer.org/t/7881
+---
+
 # Extension Wizard - file open dialogs hang UI for several seconds
 
 **Topic ID**: 7881

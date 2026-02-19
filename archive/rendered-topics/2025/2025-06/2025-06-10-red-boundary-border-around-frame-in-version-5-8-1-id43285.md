@@ -1,3 +1,10 @@
+---
+topic_id: 43285
+title: "Red Boundary Border Around Frame In Version 5 8 1"
+date: 2025-06-10
+url: https://discourse.slicer.org/t/43285
+---
+
 # Red Boundary/Border Around Frame in Version 5.8.1
 
 **Topic ID**: 43285

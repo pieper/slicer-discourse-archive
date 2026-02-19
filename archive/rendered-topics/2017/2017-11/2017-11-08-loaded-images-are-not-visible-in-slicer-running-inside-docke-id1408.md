@@ -1,3 +1,10 @@
+---
+topic_id: 1408
+title: "Loaded Images Are Not Visible In Slicer Running Inside Docke"
+date: 2017-11-08
+url: https://discourse.slicer.org/t/1408
+---
+
 # Loaded images are not visible in Slicer running inside Docker container
 
 **Topic ID**: 1408

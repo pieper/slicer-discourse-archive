@@ -1,3 +1,10 @@
+---
+topic_id: 19923
+title: "Fiducials Labels Not Visible"
+date: 2021-09-30
+url: https://discourse.slicer.org/t/19923
+---
+
 # Fiducials labels not visible
 
 **Topic ID**: 19923

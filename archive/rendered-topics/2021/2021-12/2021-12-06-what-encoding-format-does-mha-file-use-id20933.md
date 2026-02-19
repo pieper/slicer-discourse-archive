@@ -1,3 +1,10 @@
+---
+topic_id: 20933
+title: "What Encoding Format Does Mha File Use"
+date: 2021-12-06
+url: https://discourse.slicer.org/t/20933
+---
+
 # What encoding format does mha file use?
 
 **Topic ID**: 20933

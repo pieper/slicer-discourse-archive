@@ -1,3 +1,10 @@
+---
+topic_id: 17874
+title: "Data Uploaded But Visible Only In Probe 4 10"
+date: 2021-05-31
+url: https://discourse.slicer.org/t/17874
+---
+
 # Data uploaded, but visible only in probe (4.10)
 
 **Topic ID**: 17874

@@ -1,3 +1,10 @@
+---
+topic_id: 9321
+title: "Compressed Cbct Data"
+date: 2019-11-28
+url: https://discourse.slicer.org/t/9321
+---
+
 # Compressed CBCT Data
 
 **Topic ID**: 9321

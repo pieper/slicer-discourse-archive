@@ -1,3 +1,10 @@
+---
+topic_id: 1586
+title: "Final Thresholding Result Looks More Pixelated Than Preview"
+date: 2017-12-04
+url: https://discourse.slicer.org/t/1586
+---
+
 # Final thresholding result looks more pixelated than preview
 
 **Topic ID**: 1586

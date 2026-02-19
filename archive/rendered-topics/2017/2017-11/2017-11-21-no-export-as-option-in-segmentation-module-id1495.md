@@ -1,3 +1,10 @@
+---
+topic_id: 1495
+title: "No Export As Option In Segmentation Module"
+date: 2017-11-21
+url: https://discourse.slicer.org/t/1495
+---
+
 # No 'export as' option in Segmentation module
 
 **Topic ID**: 1495

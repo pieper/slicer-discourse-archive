@@ -1,3 +1,10 @@
+---
+topic_id: 3660
+title: "Pkmodeling Option For Roi Fit"
+date: 2018-08-04
+url: https://discourse.slicer.org/t/3660
+---
+
 # PKmodeling: Option for ROI fit
 
 **Topic ID**: 3660

@@ -1,3 +1,10 @@
+---
+topic_id: 9423
+title: "Copying Seeds From One Frame To Other Frames"
+date: 2019-12-07
+url: https://discourse.slicer.org/t/9423
+---
+
 # Copying seeds from one frame to other frames
 
 **Topic ID**: 9423

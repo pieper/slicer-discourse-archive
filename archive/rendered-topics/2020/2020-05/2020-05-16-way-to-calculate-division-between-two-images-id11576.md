@@ -1,3 +1,10 @@
+---
+topic_id: 11576
+title: "Way To Calculate Division Between Two Images"
+date: 2020-05-16
+url: https://discourse.slicer.org/t/11576
+---
+
 # Way to calculate division between two images
 
 **Topic ID**: 11576

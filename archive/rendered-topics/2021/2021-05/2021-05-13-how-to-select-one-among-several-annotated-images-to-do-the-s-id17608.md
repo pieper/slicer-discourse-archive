@@ -1,3 +1,10 @@
+---
+topic_id: 17608
+title: "How To Select One Among Several Annotated Images To Do The S"
+date: 2021-05-13
+url: https://discourse.slicer.org/t/17608
+---
+
 # How to select one among several annotated images to do the segmentation process in 3D Slicer?
 
 **Topic ID**: 17608

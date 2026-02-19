@@ -1,3 +1,10 @@
+---
+topic_id: 26321
+title: "How To To Create Out Of A Mri A 3D Model Of Spinal Nerves"
+date: 2022-11-19
+url: https://discourse.slicer.org/t/26321
+---
+
 # How to to create out  of a MRI a 3D model of spinal nerves ?
 
 **Topic ID**: 26321

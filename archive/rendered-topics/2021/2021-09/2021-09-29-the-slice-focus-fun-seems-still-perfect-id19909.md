@@ -1,3 +1,10 @@
+---
+topic_id: 19909
+title: "The Slice Focus Fun Seems Still Perfect"
+date: 2021-09-29
+url: https://discourse.slicer.org/t/19909
+---
+
 # The Slice Focus Fun seems still perfect
 
 **Topic ID**: 19909

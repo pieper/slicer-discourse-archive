@@ -1,3 +1,10 @@
+---
+topic_id: 537
+title: "How Can I Download Colormap Configuration File When Using Th"
+date: 2017-06-20
+url: https://discourse.slicer.org/t/537
+---
+
 # How can I download "colormap configuration file" when using the module of "ShapePopulationViewer"?
 
 **Topic ID**: 537

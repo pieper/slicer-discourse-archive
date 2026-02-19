@@ -1,3 +1,10 @@
+---
+topic_id: 414
+title: "Loading Ultrasound Images Into 3D Slicer"
+date: 2017-06-02
+url: https://discourse.slicer.org/t/414
+---
+
 # Loading ultrasound images into 3d slicer
 
 **Topic ID**: 414

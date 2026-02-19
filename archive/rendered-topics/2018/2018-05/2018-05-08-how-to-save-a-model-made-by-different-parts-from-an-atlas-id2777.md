@@ -1,3 +1,10 @@
+---
+topic_id: 2777
+title: "How To Save A Model Made By Different Parts From An Atlas"
+date: 2018-05-08
+url: https://discourse.slicer.org/t/2777
+---
+
 # How to save a model made by different parts from an atlas?
 
 **Topic ID**: 2777

@@ -1,3 +1,10 @@
+---
+topic_id: 37237
+title: "Help Using Extension Breast Dce Mri Ftv"
+date: 2024-07-07
+url: https://discourse.slicer.org/t/37237
+---
+
 # Help using extension Breast DCE-MRI FTV
 
 **Topic ID**: 37237

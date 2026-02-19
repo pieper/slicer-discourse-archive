@@ -1,3 +1,10 @@
+---
+topic_id: 29516
+title: "Printing In Python Cli Modules"
+date: 2023-05-17
+url: https://discourse.slicer.org/t/29516
+---
+
 # Printing in Python CLI modules
 
 **Topic ID**: 29516

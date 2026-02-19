@@ -1,3 +1,10 @@
+---
+topic_id: 13531
+title: "Registration Qa Extension Jacobian Determinant"
+date: 2020-09-17
+url: https://discourse.slicer.org/t/13531
+---
+
 # Registration QA extension, jacobian determinant
 
 **Topic ID**: 13531

@@ -1,3 +1,10 @@
+---
+topic_id: 43515
+title: "Talk2View The Medical Viewer You Can Talk To Now Available A"
+date: 2025-06-27
+url: https://discourse.slicer.org/t/43515
+---
+
 # Talk2View - The medical viewer you can talk to - Now available as a 3D Slicer extension
 
 **Topic ID**: 43515

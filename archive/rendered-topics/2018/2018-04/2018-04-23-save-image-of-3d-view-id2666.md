@@ -1,3 +1,10 @@
+---
+topic_id: 2666
+title: "Save Image Of 3D View"
+date: 2018-04-23
+url: https://discourse.slicer.org/t/2666
+---
+
 # Save image of 3d view
 
 **Topic ID**: 2666

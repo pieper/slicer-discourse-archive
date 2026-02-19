@@ -1,3 +1,10 @@
+---
+topic_id: 35851
+title: "Intersection Lines Not Show Up"
+date: 2024-05-01
+url: https://discourse.slicer.org/t/35851
+---
+
 # Intersection lines not show up
 
 **Topic ID**: 35851

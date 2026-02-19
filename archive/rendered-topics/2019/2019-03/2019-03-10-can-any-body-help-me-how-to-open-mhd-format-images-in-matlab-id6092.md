@@ -1,3 +1,10 @@
+---
+topic_id: 6092
+title: "Can Any Body Help Me How To Open Mhd Format Images In Matlab"
+date: 2019-03-10
+url: https://discourse.slicer.org/t/6092
+---
+
 # can any body help me how to open .mhd format images in matlab with .raw header
 
 **Topic ID**: 6092

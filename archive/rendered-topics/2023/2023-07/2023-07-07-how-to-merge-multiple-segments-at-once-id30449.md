@@ -1,3 +1,10 @@
+---
+topic_id: 30449
+title: "How To Merge Multiple Segments At Once"
+date: 2023-07-07
+url: https://discourse.slicer.org/t/30449
+---
+
 # How to merge multiple segments at once
 
 **Topic ID**: 30449

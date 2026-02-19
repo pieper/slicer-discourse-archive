@@ -1,3 +1,10 @@
+---
+topic_id: 42971
+title: "Extensions Manager Causes Slicer To Freeze"
+date: 2025-05-16
+url: https://discourse.slicer.org/t/42971
+---
+
 # Extensions manager causes Slicer to freeze
 
 **Topic ID**: 42971

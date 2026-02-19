@@ -1,3 +1,10 @@
+---
+topic_id: 13111
+title: "Suvmin And Suvmax"
+date: 2020-08-20
+url: https://discourse.slicer.org/t/13111
+---
+
 # SUVmin and SUVmax
 
 **Topic ID**: 13111

@@ -1,3 +1,10 @@
+---
+topic_id: 26836
+title: "How To Get The Boundary Edges Of Organs Instead Of The Fille"
+date: 2022-12-20
+url: https://discourse.slicer.org/t/26836
+---
+
 # How to get the boundary/edges of organs instead of the filled with color?
 
 **Topic ID**: 26836

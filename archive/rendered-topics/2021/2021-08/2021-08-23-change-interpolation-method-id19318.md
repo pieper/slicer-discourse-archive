@@ -1,3 +1,10 @@
+---
+topic_id: 19318
+title: "Change Interpolation Method"
+date: 2021-08-23
+url: https://discourse.slicer.org/t/19318
+---
+
 # Change interpolation method
 
 **Topic ID**: 19318

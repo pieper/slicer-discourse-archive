@@ -1,3 +1,10 @@
+---
+topic_id: 18227
+title: "External Beam Planning In Slicerrt Tutorial Dataset"
+date: 2021-06-19
+url: https://discourse.slicer.org/t/18227
+---
+
 # External Beam Planning in SlicerRT Tutorial Dataset
 
 **Topic ID**: 18227

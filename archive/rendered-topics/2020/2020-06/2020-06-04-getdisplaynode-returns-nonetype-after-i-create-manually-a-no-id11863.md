@@ -1,3 +1,10 @@
+---
+topic_id: 11863
+title: "Getdisplaynode Returns Nonetype After I Create Manually A No"
+date: 2020-06-04
+url: https://discourse.slicer.org/t/11863
+---
+
 # GetDisplayNode returns 'NoneType' after I create manually a Node
 
 **Topic ID**: 11863

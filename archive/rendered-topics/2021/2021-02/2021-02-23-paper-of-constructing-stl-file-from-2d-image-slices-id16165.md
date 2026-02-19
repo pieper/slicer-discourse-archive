@@ -1,3 +1,10 @@
+---
+topic_id: 16165
+title: "Paper Of Constructing Stl File From 2D Image Slices"
+date: 2021-02-23
+url: https://discourse.slicer.org/t/16165
+---
+
 # Paper of constructing STL file from 2d image slices
 
 **Topic ID**: 16165

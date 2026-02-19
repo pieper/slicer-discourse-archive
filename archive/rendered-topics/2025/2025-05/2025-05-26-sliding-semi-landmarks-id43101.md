@@ -1,3 +1,10 @@
+---
+topic_id: 43101
+title: "Sliding Semi Landmarks"
+date: 2025-05-26
+url: https://discourse.slicer.org/t/43101
+---
+
 # Sliding semi-landmarks
 
 **Topic ID**: 43101

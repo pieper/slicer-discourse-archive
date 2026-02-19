@@ -1,3 +1,10 @@
+---
+topic_id: 40834
+title: "Video Clip Of Slice Scrolling"
+date: 2024-12-23
+url: https://discourse.slicer.org/t/40834
+---
+
 # Video clip of slice scrolling
 
 **Topic ID**: 40834

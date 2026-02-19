@@ -1,3 +1,10 @@
+---
+topic_id: 41593
+title: "Show 3D Smoothing Algorithm"
+date: 2025-02-09
+url: https://discourse.slicer.org/t/41593
+---
+
 # Show 3D Smoothing Algorithm
 
 **Topic ID**: 41593

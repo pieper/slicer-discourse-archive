@@ -1,3 +1,10 @@
+---
+topic_id: 38418
+title: "Segment Editing"
+date: 2024-09-18
+url: https://discourse.slicer.org/t/38418
+---
+
 # Segment editing
 
 **Topic ID**: 38418

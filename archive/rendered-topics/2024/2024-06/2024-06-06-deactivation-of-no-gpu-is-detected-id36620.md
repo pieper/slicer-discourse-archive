@@ -1,3 +1,10 @@
+---
+topic_id: 36620
+title: "Deactivation Of No Gpu Is Detected"
+date: 2024-06-06
+url: https://discourse.slicer.org/t/36620
+---
+
 # Deactivation of: No Gpu is detected
 
 **Topic ID**: 36620

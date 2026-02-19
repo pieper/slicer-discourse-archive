@@ -1,3 +1,10 @@
+---
+topic_id: 3219
+title: "How Do I Setup The Local Pacs Server On Slicer"
+date: 2018-06-18
+url: https://discourse.slicer.org/t/3219
+---
+
 # How do I setup the local PACS server on SLICER
 
 **Topic ID**: 3219

@@ -1,3 +1,10 @@
+---
+topic_id: 38362
+title: "Bad Performance When Segmenting 11Gb Micro Ct"
+date: 2024-09-13
+url: https://discourse.slicer.org/t/38362
+---
+
 # Bad performance when segmenting 11GB micro-CT
 
 **Topic ID**: 38362

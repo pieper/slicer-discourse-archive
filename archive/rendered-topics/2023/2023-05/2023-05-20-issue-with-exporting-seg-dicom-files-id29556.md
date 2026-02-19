@@ -1,3 +1,10 @@
+---
+topic_id: 29556
+title: "Issue With Exporting Seg Dicom Files"
+date: 2023-05-20
+url: https://discourse.slicer.org/t/29556
+---
+
 # issue with exporting seg Dicom files 
 
 **Topic ID**: 29556

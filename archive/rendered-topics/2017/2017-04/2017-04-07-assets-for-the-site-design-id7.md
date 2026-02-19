@@ -1,3 +1,10 @@
+---
+topic_id: 7
+title: "Assets For The Site Design"
+date: 2017-04-07
+url: https://discourse.slicer.org/t/7
+---
+
 # Assets for the site design
 
 **Topic ID**: 7

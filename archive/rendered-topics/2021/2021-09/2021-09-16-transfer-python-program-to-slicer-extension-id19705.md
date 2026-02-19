@@ -1,3 +1,10 @@
+---
+topic_id: 19705
+title: "Transfer Python Program To Slicer Extension"
+date: 2021-09-16
+url: https://discourse.slicer.org/t/19705
+---
+
 # Transfer python program to slicer extension
 
 **Topic ID**: 19705

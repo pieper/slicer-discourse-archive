@@ -1,3 +1,10 @@
+---
+topic_id: 23028
+title: "Slicervirtualreality Issues"
+date: 2022-04-19
+url: https://discourse.slicer.org/t/23028
+---
+
 # SlicerVirtualReality issues
 
 **Topic ID**: 23028

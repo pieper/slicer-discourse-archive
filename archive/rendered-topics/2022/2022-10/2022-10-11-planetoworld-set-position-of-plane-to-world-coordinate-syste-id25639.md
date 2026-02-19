@@ -1,3 +1,10 @@
+---
+topic_id: 25639
+title: "Planetoworld Set Position Of Plane To World Coordinate Syste"
+date: 2022-10-11
+url: https://discourse.slicer.org/t/25639
+---
+
 # PlaneToWorld: set position of plane to world coordinate system
 
 **Topic ID**: 25639

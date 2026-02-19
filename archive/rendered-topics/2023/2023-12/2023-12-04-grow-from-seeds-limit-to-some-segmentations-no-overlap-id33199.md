@@ -1,3 +1,10 @@
+---
+topic_id: 33199
+title: "Grow From Seeds Limit To Some Segmentations No Overlap"
+date: 2023-12-04
+url: https://discourse.slicer.org/t/33199
+---
+
 # Grow from seeds - limit to some segmentations, no overlap
 
 **Topic ID**: 33199

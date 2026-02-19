@@ -1,3 +1,10 @@
+---
+topic_id: 27076
+title: "Itk Image To Slicer"
+date: 2023-01-06
+url: https://discourse.slicer.org/t/27076
+---
+
 # ITK image to Slicer
 
 **Topic ID**: 27076

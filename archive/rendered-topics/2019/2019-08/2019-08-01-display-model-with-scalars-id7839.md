@@ -1,3 +1,10 @@
+---
+topic_id: 7839
+title: "Display Model With Scalars"
+date: 2019-08-01
+url: https://discourse.slicer.org/t/7839
+---
+
 # Display model with scalars
 
 **Topic ID**: 7839

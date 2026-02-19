@@ -1,3 +1,10 @@
+---
+topic_id: 25450
+title: "Valve Motion For Cfd Fsi Simulation"
+date: 2022-09-27
+url: https://discourse.slicer.org/t/25450
+---
+
 # Valve motion for CFD/FSI simulation
 
 **Topic ID**: 25450

@@ -1,3 +1,10 @@
+---
+topic_id: 15201
+title: "How To Import Ultrasound Images From Samsung Accuvix"
+date: 2020-12-23
+url: https://discourse.slicer.org/t/15201
+---
+
 # How to import ultrasound images from Samsung accuvix
 
 **Topic ID**: 15201

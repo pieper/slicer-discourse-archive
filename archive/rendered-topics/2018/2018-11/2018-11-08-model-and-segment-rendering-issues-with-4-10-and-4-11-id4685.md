@@ -1,3 +1,10 @@
+---
+topic_id: 4685
+title: "Model And Segment Rendering Issues With 4 10 And 4 11"
+date: 2018-11-08
+url: https://discourse.slicer.org/t/4685
+---
+
 # Model and Segment rendering issues with 4.10 (and 4.11)
 
 **Topic ID**: 4685

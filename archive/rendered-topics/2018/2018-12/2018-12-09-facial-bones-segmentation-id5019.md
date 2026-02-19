@@ -1,3 +1,10 @@
+---
+topic_id: 5019
+title: "Facial Bones Segmentation"
+date: 2018-12-09
+url: https://discourse.slicer.org/t/5019
+---
+
 # Facial bones segmentation
 
 **Topic ID**: 5019

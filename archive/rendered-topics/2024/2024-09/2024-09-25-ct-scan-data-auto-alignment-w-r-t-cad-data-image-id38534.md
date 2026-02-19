@@ -1,3 +1,10 @@
+---
+topic_id: 38534
+title: "Ct Scan Data Auto Alignment W R T Cad Data Image"
+date: 2024-09-25
+url: https://discourse.slicer.org/t/38534
+---
+
 # Ct scan data auto alignment  w.r.t cad data/image
 
 **Topic ID**: 38534

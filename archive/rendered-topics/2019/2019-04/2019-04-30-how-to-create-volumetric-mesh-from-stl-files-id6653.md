@@ -1,3 +1,10 @@
+---
+topic_id: 6653
+title: "How To Create Volumetric Mesh From Stl Files"
+date: 2019-04-30
+url: https://discourse.slicer.org/t/6653
+---
+
 # How to create volumetric mesh from stl files
 
 **Topic ID**: 6653

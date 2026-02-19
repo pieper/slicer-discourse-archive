@@ -1,3 +1,10 @@
+---
+topic_id: 33976
+title: "Radiomics Module"
+date: 2024-01-25
+url: https://discourse.slicer.org/t/33976
+---
+
 # Radiomics Module
 
 **Topic ID**: 33976

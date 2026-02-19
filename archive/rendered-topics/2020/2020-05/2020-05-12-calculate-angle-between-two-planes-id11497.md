@@ -1,3 +1,10 @@
+---
+topic_id: 11497
+title: "Calculate Angle Between Two Planes"
+date: 2020-05-12
+url: https://discourse.slicer.org/t/11497
+---
+
 # Calculate angle between two planes
 
 **Topic ID**: 11497

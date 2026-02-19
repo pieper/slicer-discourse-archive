@@ -1,3 +1,10 @@
+---
+topic_id: 36962
+title: "Calling Scripted Cli Module Output"
+date: 2024-06-23
+url: https://discourse.slicer.org/t/36962
+---
+
 # Calling scripted cli module Output
 
 **Topic ID**: 36962

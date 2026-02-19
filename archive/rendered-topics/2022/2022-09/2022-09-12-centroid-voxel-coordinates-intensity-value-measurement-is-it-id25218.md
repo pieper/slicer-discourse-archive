@@ -1,3 +1,10 @@
+---
+topic_id: 25218
+title: "Centroid Voxel Coordinates Intensity Value Measurement Is It"
+date: 2022-09-12
+url: https://discourse.slicer.org/t/25218
+---
+
 # Centroid Voxel/Coordinates Intensity Value Measurement - Is it possible?
 
 **Topic ID**: 25218

@@ -1,3 +1,10 @@
+---
+topic_id: 1971
+title: "Brain Gliomas Texture Analysis And Machine Learning"
+date: 2018-01-30
+url: https://discourse.slicer.org/t/1971
+---
+
 # Brain Gliomas, Texture Analysis and Machine Learning
 
 **Topic ID**: 1971

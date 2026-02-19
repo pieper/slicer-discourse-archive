@@ -1,3 +1,10 @@
+---
+topic_id: 20288
+title: "Change Default Color Palette For Segmentation"
+date: 2021-10-21
+url: https://discourse.slicer.org/t/20288
+---
+
 # Change default color palette for segmentation
 
 **Topic ID**: 20288

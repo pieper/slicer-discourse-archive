@@ -1,3 +1,10 @@
+---
+topic_id: 13200
+title: "Could Not Load As A Scalar Volume"
+date: 2020-08-27
+url: https://discourse.slicer.org/t/13200
+---
+
 # Could not load...as a Scalar Volume
 
 **Topic ID**: 13200

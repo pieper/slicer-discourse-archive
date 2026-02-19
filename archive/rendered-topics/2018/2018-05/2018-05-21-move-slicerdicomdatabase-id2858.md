@@ -1,3 +1,10 @@
+---
+topic_id: 2858
+title: "Move Slicerdicomdatabase"
+date: 2018-05-21
+url: https://discourse.slicer.org/t/2858
+---
+
 # move slicerDICOMdatabase 
 
 **Topic ID**: 2858

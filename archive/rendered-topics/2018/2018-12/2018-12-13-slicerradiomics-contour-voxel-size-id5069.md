@@ -1,3 +1,10 @@
+---
+topic_id: 5069
+title: "Slicerradiomics Contour Voxel Size"
+date: 2018-12-13
+url: https://discourse.slicer.org/t/5069
+---
+
 # SlicerRadiomics--contour voxel size
 
 **Topic ID**: 5069

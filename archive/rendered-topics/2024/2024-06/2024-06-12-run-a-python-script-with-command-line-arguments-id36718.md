@@ -1,3 +1,10 @@
+---
+topic_id: 36718
+title: "Run A Python Script With Command Line Arguments"
+date: 2024-06-12
+url: https://discourse.slicer.org/t/36718
+---
+
 # Run a python script with command line arguments
 
 **Topic ID**: 36718

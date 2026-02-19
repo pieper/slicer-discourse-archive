@@ -1,3 +1,10 @@
+---
+topic_id: 42080
+title: "Percentage Of Manual Segmentations"
+date: 2025-03-12
+url: https://discourse.slicer.org/t/42080
+---
+
 # Percentage of Manual Segmentations
 
 **Topic ID**: 42080

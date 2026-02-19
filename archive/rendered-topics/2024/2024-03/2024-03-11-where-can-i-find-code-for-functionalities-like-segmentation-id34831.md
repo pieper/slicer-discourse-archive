@@ -1,3 +1,10 @@
+---
+topic_id: 34831
+title: "Where Can I Find Code For Functionalities Like Segmentation"
+date: 2024-03-11
+url: https://discourse.slicer.org/t/34831
+---
+
 # Where can I find code for functionalities like segmentation, registration etc
 
 **Topic ID**: 34831

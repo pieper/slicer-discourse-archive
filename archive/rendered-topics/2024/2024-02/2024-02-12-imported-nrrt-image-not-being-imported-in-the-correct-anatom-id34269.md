@@ -1,3 +1,10 @@
+---
+topic_id: 34269
+title: "Imported Nrrt Image Not Being Imported In The Correct Anatom"
+date: 2024-02-12
+url: https://discourse.slicer.org/t/34269
+---
+
 # Imported nrrt image not being imported in the correct anatomical orientation. 
 
 **Topic ID**: 34269

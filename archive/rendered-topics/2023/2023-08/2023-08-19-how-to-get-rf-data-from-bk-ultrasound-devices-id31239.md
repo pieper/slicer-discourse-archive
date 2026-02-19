@@ -1,3 +1,10 @@
+---
+topic_id: 31239
+title: "How To Get Rf Data From Bk Ultrasound Devices"
+date: 2023-08-19
+url: https://discourse.slicer.org/t/31239
+---
+
 # How to get RF data from BK ultrasound devices
 
 **Topic ID**: 31239

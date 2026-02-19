@@ -1,3 +1,10 @@
+---
+topic_id: 40732
+title: "3D Segmentation Does Not Finish"
+date: 2024-12-17
+url: https://discourse.slicer.org/t/40732
+---
+
 # 3D segmentation does not finish
 
 **Topic ID**: 40732

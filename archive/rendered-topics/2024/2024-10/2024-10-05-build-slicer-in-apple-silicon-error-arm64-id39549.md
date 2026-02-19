@@ -1,3 +1,10 @@
+---
+topic_id: 39549
+title: "Build Slicer In Apple Silicon Error Arm64"
+date: 2024-10-05
+url: https://discourse.slicer.org/t/39549
+---
+
 # Build Slicer in apple silicon - error "arm64"
 
 **Topic ID**: 39549

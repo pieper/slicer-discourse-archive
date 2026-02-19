@@ -1,3 +1,10 @@
+---
+topic_id: 39959
+title: "For Qmrmlnodecombobox How Can I Restrict Sequence Nodes By T"
+date: 2024-10-31
+url: https://discourse.slicer.org/t/39959
+---
+
 # For qMRMLNodeComboBox, how can I restrict Sequence nodes by type?
 
 **Topic ID**: 39959

@@ -1,3 +1,10 @@
+---
+topic_id: 19826
+title: "Show A Live Camera Feed In Slicer"
+date: 2021-09-23
+url: https://discourse.slicer.org/t/19826
+---
+
 # Show a live camera feed.in slicer
 
 **Topic ID**: 19826

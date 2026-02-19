@@ -1,3 +1,10 @@
+---
+topic_id: 27156
+title: "Getting Error While Saving Project"
+date: 2023-01-10
+url: https://discourse.slicer.org/t/27156
+---
+
 # Getting error while saving project
 
 **Topic ID**: 27156

@@ -1,3 +1,10 @@
+---
+topic_id: 5889
+title: "Very Large 3D Cube"
+date: 2019-02-22
+url: https://discourse.slicer.org/t/5889
+---
+
 # very large 3D cube ?
 
 **Topic ID**: 5889

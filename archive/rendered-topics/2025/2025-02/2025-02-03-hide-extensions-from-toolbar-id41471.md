@@ -1,3 +1,10 @@
+---
+topic_id: 41471
+title: "Hide Extensions From Toolbar"
+date: 2025-02-03
+url: https://discourse.slicer.org/t/41471
+---
+
 # Hide Extensions from toolbar
 
 **Topic ID**: 41471

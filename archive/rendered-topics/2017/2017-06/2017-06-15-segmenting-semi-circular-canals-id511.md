@@ -1,3 +1,10 @@
+---
+topic_id: 511
+title: "Segmenting Semi Circular Canals"
+date: 2017-06-15
+url: https://discourse.slicer.org/t/511
+---
+
 # Segmenting Semi-Circular Canals
 
 **Topic ID**: 511

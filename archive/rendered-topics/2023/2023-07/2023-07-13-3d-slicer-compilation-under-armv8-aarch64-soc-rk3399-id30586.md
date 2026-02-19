@@ -1,3 +1,10 @@
+---
+topic_id: 30586
+title: "3D Slicer Compilation Under Armv8 Aarch64 Soc Rk3399"
+date: 2023-07-13
+url: https://discourse.slicer.org/t/30586
+---
+
 # 3D Slicer compilation under ARMv8 aarch64 (SoC RK3399)
 
 **Topic ID**: 30586

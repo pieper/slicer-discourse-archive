@@ -1,3 +1,10 @@
+---
+topic_id: 25823
+title: "Tha Meaning Of The Numbers Displayed In Dataprobe"
+date: 2022-10-21
+url: https://discourse.slicer.org/t/25823
+---
+
 # tha meaning of the numbers displayed in DataProbe
 
 **Topic ID**: 25823

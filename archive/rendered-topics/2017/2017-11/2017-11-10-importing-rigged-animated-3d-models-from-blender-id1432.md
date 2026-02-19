@@ -1,3 +1,10 @@
+---
+topic_id: 1432
+title: "Importing Rigged Animated 3D Models From Blender"
+date: 2017-11-10
+url: https://discourse.slicer.org/t/1432
+---
+
 # Importing rigged/animated 3D models from Blender
 
 **Topic ID**: 1432

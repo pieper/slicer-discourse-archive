@@ -1,3 +1,10 @@
+---
+topic_id: 41705
+title: "Printing A Dicom File Dicom To Stl To Print"
+date: 2025-02-14
+url: https://discourse.slicer.org/t/41705
+---
+
 # printing a dicom file, dicom to ???STL to print
 
 **Topic ID**: 41705

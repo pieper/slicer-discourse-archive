@@ -1,3 +1,10 @@
+---
+topic_id: 2693
+title: "Anonymous Dicom File Failed To Import In Dicom Module"
+date: 2018-04-26
+url: https://discourse.slicer.org/t/2693
+---
+
 # Anonymous Dicom file failed to import in Dicom module
 
 **Topic ID**: 2693

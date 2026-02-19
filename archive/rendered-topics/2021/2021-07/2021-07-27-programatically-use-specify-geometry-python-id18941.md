@@ -1,3 +1,10 @@
+---
+topic_id: 18941
+title: "Programatically Use Specify Geometry Python"
+date: 2021-07-27
+url: https://discourse.slicer.org/t/18941
+---
+
 # Programatically use "Specify Geometry" (Python)
 
 **Topic ID**: 18941

@@ -1,3 +1,10 @@
+---
+topic_id: 11738
+title: "Survey 3D Printing Slicer Software"
+date: 2020-05-27
+url: https://discourse.slicer.org/t/11738
+---
+
 # Survey 3D-printing Slicer Software
 
 **Topic ID**: 11738

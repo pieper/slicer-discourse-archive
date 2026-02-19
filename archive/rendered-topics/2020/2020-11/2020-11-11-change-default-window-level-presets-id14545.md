@@ -1,3 +1,10 @@
+---
+topic_id: 14545
+title: "Change Default Window Level Presets"
+date: 2020-11-11
+url: https://discourse.slicer.org/t/14545
+---
+
 # Change default Window/Level presets
 
 **Topic ID**: 14545

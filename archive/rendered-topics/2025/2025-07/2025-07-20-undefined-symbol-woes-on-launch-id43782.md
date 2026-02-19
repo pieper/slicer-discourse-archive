@@ -1,3 +1,10 @@
+---
+topic_id: 43782
+title: "Undefined Symbol Woes On Launch"
+date: 2025-07-20
+url: https://discourse.slicer.org/t/43782
+---
+
 # undefined symbol woes on launch
 
 **Topic ID**: 43782

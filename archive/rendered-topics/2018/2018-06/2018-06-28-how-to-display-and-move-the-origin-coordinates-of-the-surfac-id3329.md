@@ -1,3 +1,10 @@
+---
+topic_id: 3329
+title: "How To Display And Move The Origin Coordinates Of The Surfac"
+date: 2018-06-28
+url: https://discourse.slicer.org/t/3329
+---
+
 # How to display and move the origin coordinates of the surface model (.STL)
 
 **Topic ID**: 3329

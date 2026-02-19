@@ -1,3 +1,10 @@
+---
+topic_id: 44745
+title: "Help With Segmentation Of 3D Scans Of Wood"
+date: 2025-10-13
+url: https://discourse.slicer.org/t/44745
+---
+
 # Help with segmentation of 3D scans of wood
 
 **Topic ID**: 44745

@@ -1,3 +1,10 @@
+---
+topic_id: 23974
+title: "Issues Running Slicer On Macbook M1 Max"
+date: 2022-06-20
+url: https://discourse.slicer.org/t/23974
+---
+
 # Issues running Slicer on macbook m1 max
 
 **Topic ID**: 23974

@@ -1,3 +1,10 @@
+---
+topic_id: 9696
+title: "Expanding Of Volume"
+date: 2020-01-03
+url: https://discourse.slicer.org/t/9696
+---
+
 # Expanding of volume
 
 **Topic ID**: 9696

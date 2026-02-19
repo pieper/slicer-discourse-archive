@@ -1,3 +1,10 @@
+---
+topic_id: 20096
+title: "3D Slicer Not Responding On Cuts With Scissor Tool And Quant"
+date: 2021-10-11
+url: https://discourse.slicer.org/t/20096
+---
+
 # 3D Slicer not responding on cuts with scissor tool and quantification
 
 **Topic ID**: 20096

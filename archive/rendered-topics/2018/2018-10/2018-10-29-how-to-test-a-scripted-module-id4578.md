@@ -1,3 +1,10 @@
+---
+topic_id: 4578
+title: "How To Test A Scripted Module"
+date: 2018-10-29
+url: https://discourse.slicer.org/t/4578
+---
+
 # How to test a scripted module
 
 **Topic ID**: 4578

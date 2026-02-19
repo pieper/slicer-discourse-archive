@@ -1,3 +1,10 @@
+---
+topic_id: 44717
+title: "Automatic Lesion Segmentation On Liver"
+date: 2025-10-10
+url: https://discourse.slicer.org/t/44717
+---
+
 # Automatic Lesion Segmentation on Liver
 
 **Topic ID**: 44717

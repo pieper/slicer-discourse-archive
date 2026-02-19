@@ -1,3 +1,10 @@
+---
+topic_id: 14467
+title: "Nvidia Ai Assisted Annotation Aiaa For 3D Slicer 4 11 202009"
+date: 2020-11-07
+url: https://discourse.slicer.org/t/14467
+---
+
 # Nvidia AI-assisted annotation (AIAA) for 3D Slicer (4.11.20200930)
 
 **Topic ID**: 14467

@@ -1,3 +1,10 @@
+---
+topic_id: 33198
+title: "Dce Time Series Recognised As Scalar Volume"
+date: 2023-12-04
+url: https://discourse.slicer.org/t/33198
+---
+
 # DCE time series recognised as Scalar volume
 
 **Topic ID**: 33198

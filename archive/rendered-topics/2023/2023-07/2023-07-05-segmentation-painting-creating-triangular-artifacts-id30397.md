@@ -1,3 +1,10 @@
+---
+topic_id: 30397
+title: "Segmentation Painting Creating Triangular Artifacts"
+date: 2023-07-05
+url: https://discourse.slicer.org/t/30397
+---
+
 # Segmentation Painting creating triangular artifacts
 
 **Topic ID**: 30397

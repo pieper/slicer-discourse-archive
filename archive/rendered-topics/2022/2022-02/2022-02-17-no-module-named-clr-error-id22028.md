@@ -1,3 +1,10 @@
+---
+topic_id: 22028
+title: "No Module Named Clr Error"
+date: 2022-02-17
+url: https://discourse.slicer.org/t/22028
+---
+
 # No module named 'clr' error
 
 **Topic ID**: 22028

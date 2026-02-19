@@ -1,3 +1,10 @@
+---
+topic_id: 15997
+title: "Featureextractor Values Dont Get Along With Reality Value"
+date: 2021-02-15
+url: https://discourse.slicer.org/t/15997
+---
+
 # FeatureExtractor values don't get along with reality value
 
 **Topic ID**: 15997

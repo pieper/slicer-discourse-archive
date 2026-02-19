@@ -1,3 +1,10 @@
+---
+topic_id: 9706
+title: "Fill Between Slices Makes Troubles"
+date: 2020-01-03
+url: https://discourse.slicer.org/t/9706
+---
+
 # Fill between slices, makes troubles!
 
 **Topic ID**: 9706

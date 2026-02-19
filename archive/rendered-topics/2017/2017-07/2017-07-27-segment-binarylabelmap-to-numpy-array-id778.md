@@ -1,3 +1,10 @@
+---
+topic_id: 778
+title: "Segment Binarylabelmap To Numpy Array"
+date: 2017-07-27
+url: https://discourse.slicer.org/t/778
+---
+
 # Segment / BinaryLabelMap to numpy array
 
 **Topic ID**: 778

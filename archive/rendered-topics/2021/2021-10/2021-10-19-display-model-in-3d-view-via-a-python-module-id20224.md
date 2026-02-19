@@ -1,3 +1,10 @@
+---
+topic_id: 20224
+title: "Display Model In 3D View Via A Python Module"
+date: 2021-10-19
+url: https://discourse.slicer.org/t/20224
+---
+
 # Display Model in 3D view via a Python module
 
 **Topic ID**: 20224

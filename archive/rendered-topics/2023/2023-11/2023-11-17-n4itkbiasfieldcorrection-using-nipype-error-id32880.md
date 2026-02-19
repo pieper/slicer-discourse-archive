@@ -1,3 +1,10 @@
+---
+topic_id: 32880
+title: "N4Itkbiasfieldcorrection Using Nipype Error"
+date: 2023-11-17
+url: https://discourse.slicer.org/t/32880
+---
+
 # N4ITKBiasFieldCorrection using nipype error
 
 **Topic ID**: 32880

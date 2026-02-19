@@ -1,3 +1,10 @@
+---
+topic_id: 17838
+title: "Convert Seg Nrrd To Nrrd Labelmap"
+date: 2021-05-28
+url: https://discourse.slicer.org/t/17838
+---
+
 # Convert .seg.nrrd to nrrd labelmap
 
 **Topic ID**: 17838

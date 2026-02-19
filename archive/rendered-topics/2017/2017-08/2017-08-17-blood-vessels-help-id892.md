@@ -1,3 +1,10 @@
+---
+topic_id: 892
+title: "Blood Vessels Help"
+date: 2017-08-17
+url: https://discourse.slicer.org/t/892
+---
+
 # Blood Vessels (HELP)
 
 **Topic ID**: 892

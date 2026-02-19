@@ -1,3 +1,10 @@
+---
+topic_id: 17127
+title: "Export Hounsfield Unit Values From Segmentation"
+date: 2021-04-16
+url: https://discourse.slicer.org/t/17127
+---
+
 # Export Hounsfield Unit values from segmentation
 
 **Topic ID**: 17127

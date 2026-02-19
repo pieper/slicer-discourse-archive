@@ -1,3 +1,10 @@
+---
+topic_id: 20011
+title: "How Can I Debug The Module And Create The Personally Module"
+date: 2021-10-05
+url: https://discourse.slicer.org/t/20011
+---
+
 # How Can I debug the Module and create the personally Module?
 
 **Topic ID**: 20011

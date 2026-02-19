@@ -1,3 +1,10 @@
+---
+topic_id: 33001
+title: "Extensions In Macbook Does Not Work"
+date: 2023-11-24
+url: https://discourse.slicer.org/t/33001
+---
+
 # Extensions in macbook does not work
 
 **Topic ID**: 33001

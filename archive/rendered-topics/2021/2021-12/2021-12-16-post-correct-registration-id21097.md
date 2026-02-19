@@ -1,3 +1,10 @@
+---
+topic_id: 21097
+title: "Post Correct Registration"
+date: 2021-12-16
+url: https://discourse.slicer.org/t/21097
+---
+
 # Post-correct registration
 
 **Topic ID**: 21097

@@ -1,3 +1,10 @@
+---
+topic_id: 22947
+title: "Unable To Load Dicom Segmentation"
+date: 2022-04-13
+url: https://discourse.slicer.org/t/22947
+---
+
 # Unable to load DICOM segmentation
 
 **Topic ID**: 22947

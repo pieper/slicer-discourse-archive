@@ -1,3 +1,10 @@
+---
+topic_id: 617
+title: "Training In October In Lyon France"
+date: 2017-07-03
+url: https://discourse.slicer.org/t/617
+---
+
 # Training in October in Lyon, France
 
 **Topic ID**: 617

@@ -1,3 +1,10 @@
+---
+topic_id: 5888
+title: "Saving File Problems For Segmentation Project"
+date: 2019-02-22
+url: https://discourse.slicer.org/t/5888
+---
+
 # Saving File Problems for Segmentation Project
 
 **Topic ID**: 5888

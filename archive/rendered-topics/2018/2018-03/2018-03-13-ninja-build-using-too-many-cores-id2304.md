@@ -1,3 +1,10 @@
+---
+topic_id: 2304
+title: "Ninja Build Using Too Many Cores"
+date: 2018-03-13
+url: https://discourse.slicer.org/t/2304
+---
+
 # Ninja build using too many cores
 
 **Topic ID**: 2304

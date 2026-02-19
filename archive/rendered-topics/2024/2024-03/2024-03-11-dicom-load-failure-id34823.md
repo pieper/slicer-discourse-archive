@@ -1,3 +1,10 @@
+---
+topic_id: 34823
+title: "Dicom Load Failure"
+date: 2024-03-11
+url: https://discourse.slicer.org/t/34823
+---
+
 # DICOM load failure
 
 **Topic ID**: 34823

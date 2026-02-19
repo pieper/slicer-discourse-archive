@@ -1,3 +1,10 @@
+---
+topic_id: 16965
+title: "Histogram Equalization Of A Vector Volume"
+date: 2021-04-06
+url: https://discourse.slicer.org/t/16965
+---
+
 # Histogram equalization of a vector volume
 
 **Topic ID**: 16965

@@ -1,3 +1,10 @@
+---
+topic_id: 8658
+title: "Save New Segmentation From Pet Ct Images"
+date: 2019-10-03
+url: https://discourse.slicer.org/t/8658
+---
+
 # Save new segmentation from PET/CT images
 
 **Topic ID**: 8658

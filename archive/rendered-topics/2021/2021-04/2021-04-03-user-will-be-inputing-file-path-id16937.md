@@ -1,3 +1,10 @@
+---
+topic_id: 16937
+title: "User Will Be Inputing File Path"
+date: 2021-04-03
+url: https://discourse.slicer.org/t/16937
+---
+
 # User will be inputing file path
 
 **Topic ID**: 16937

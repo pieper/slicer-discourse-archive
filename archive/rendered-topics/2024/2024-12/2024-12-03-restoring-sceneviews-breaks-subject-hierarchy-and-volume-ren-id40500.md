@@ -1,3 +1,10 @@
+---
+topic_id: 40500
+title: "Restoring Sceneviews Breaks Subject Hierarchy And Volume Ren"
+date: 2024-12-03
+url: https://discourse.slicer.org/t/40500
+---
+
 # Restoring sceneviews breaks subject hierarchy and volume rendering presets not changing
 
 **Topic ID**: 40500

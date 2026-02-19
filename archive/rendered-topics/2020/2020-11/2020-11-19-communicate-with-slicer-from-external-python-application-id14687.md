@@ -1,3 +1,10 @@
+---
+topic_id: 14687
+title: "Communicate With Slicer From External Python Application"
+date: 2020-11-19
+url: https://discourse.slicer.org/t/14687
+---
+
 # Communicate with Slicer from external Python application
 
 **Topic ID**: 14687

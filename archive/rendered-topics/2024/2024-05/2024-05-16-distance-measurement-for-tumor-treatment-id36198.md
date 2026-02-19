@@ -1,3 +1,10 @@
+---
+topic_id: 36198
+title: "Distance Measurement For Tumor Treatment"
+date: 2024-05-16
+url: https://discourse.slicer.org/t/36198
+---
+
 # Distance measurement for tumor treatment
 
 **Topic ID**: 36198

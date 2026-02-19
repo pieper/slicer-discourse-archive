@@ -1,3 +1,10 @@
+---
+topic_id: 2485
+title: "Https Na Mic Github Io Projectweek Pw28 2018 Grancanaria"
+date: 2018-03-31
+url: https://discourse.slicer.org/t/2485
+---
+
 # https://na-mic.github.io/ProjectWeek/PW28_2018_GranCanaria/
 
 **Topic ID**: 2485

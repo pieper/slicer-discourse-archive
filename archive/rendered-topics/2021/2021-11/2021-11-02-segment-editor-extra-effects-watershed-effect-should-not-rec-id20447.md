@@ -1,3 +1,10 @@
+---
+topic_id: 20447
+title: "Segment Editor Extra Effects Watershed Effect Should Not Rec"
+date: 2021-11-02
+url: https://discourse.slicer.org/t/20447
+---
+
 # Segment Editor : Extra Effects — Watershed effect should not recompute upon change of colour
 
 **Topic ID**: 20447

@@ -1,3 +1,10 @@
+---
+topic_id: 4894
+title: "Return Volume Intensity Value From Tip Of Tracked Stylus"
+date: 2018-11-27
+url: https://discourse.slicer.org/t/4894
+---
+
 # Return volume intensity value from tip of tracked stylus
 
 **Topic ID**: 4894

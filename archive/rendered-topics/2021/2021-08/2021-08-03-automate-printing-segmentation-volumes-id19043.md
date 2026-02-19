@@ -1,3 +1,10 @@
+---
+topic_id: 19043
+title: "Automate Printing Segmentation Volumes"
+date: 2021-08-03
+url: https://discourse.slicer.org/t/19043
+---
+
 # Automate printing segmentation volumes?
 
 **Topic ID**: 19043

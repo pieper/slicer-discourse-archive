@@ -1,3 +1,10 @@
+---
+topic_id: 34098
+title: "Python Debugger Issue"
+date: 2024-02-01
+url: https://discourse.slicer.org/t/34098
+---
+
 # Python Debugger Issue
 
 **Topic ID**: 34098

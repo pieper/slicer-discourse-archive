@@ -1,3 +1,10 @@
+---
+topic_id: 41056
+title: "Is There A Workaround When Gl Is Not Working"
+date: 2025-01-13
+url: https://discourse.slicer.org/t/41056
+---
+
 # Is there a workaround when GL is not working?
 
 **Topic ID**: 41056

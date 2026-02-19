@@ -1,3 +1,10 @@
+---
+topic_id: 7184
+title: "How To Read The Value Of Certain Attribute Tag In Dicom Meta"
+date: 2019-06-16
+url: https://discourse.slicer.org/t/7184
+---
+
 # How to read the value of certain attribute (tag) in DICOM Metadata" from "Python Interactor"
 
 **Topic ID**: 7184

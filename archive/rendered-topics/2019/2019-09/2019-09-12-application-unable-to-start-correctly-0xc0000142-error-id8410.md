@@ -1,3 +1,10 @@
+---
+topic_id: 8410
+title: "Application Unable To Start Correctly 0Xc0000142 Error"
+date: 2019-09-12
+url: https://discourse.slicer.org/t/8410
+---
+
 # Application unable to start correctly (0xc0000142) error
 
 **Topic ID**: 8410

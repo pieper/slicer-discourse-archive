@@ -1,3 +1,10 @@
+---
+topic_id: 24564
+title: "Link Views In Three Over Three Configuration"
+date: 2022-07-29
+url: https://discourse.slicer.org/t/24564
+---
+
 # Link views in three over three configuration
 
 **Topic ID**: 24564

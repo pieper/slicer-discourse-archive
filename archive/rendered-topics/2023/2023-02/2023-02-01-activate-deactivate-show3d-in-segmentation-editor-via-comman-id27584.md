@@ -1,3 +1,10 @@
+---
+topic_id: 27584
+title: "Activate Deactivate Show3D In Segmentation Editor Via Comman"
+date: 2023-02-01
+url: https://discourse.slicer.org/t/27584
+---
+
 # Activate/deactivate "show3d" in Segmentation Editor via command line
 
 **Topic ID**: 27584

@@ -1,3 +1,10 @@
+---
+topic_id: 21519
+title: "Changes Applied In A Python Script Propagate Only To The Gui"
+date: 2022-01-18
+url: https://discourse.slicer.org/t/21519
+---
+
 # Changes applied in a python script propagate only to the GUI but don't get displayed
 
 **Topic ID**: 21519

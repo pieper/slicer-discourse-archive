@@ -1,3 +1,10 @@
+---
+topic_id: 5045
+title: "Breach Warning Open Sound Control Test With Pure Data Errors"
+date: 2018-12-11
+url: https://discourse.slicer.org/t/5045
+---
+
 # Breach warning, Open Sound Control, test with Pure Data errors
 
 **Topic ID**: 5045

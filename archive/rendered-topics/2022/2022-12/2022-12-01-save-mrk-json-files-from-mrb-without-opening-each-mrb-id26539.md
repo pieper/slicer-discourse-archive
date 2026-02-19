@@ -1,3 +1,10 @@
+---
+topic_id: 26539
+title: "Save Mrk Json Files From Mrb Without Opening Each Mrb"
+date: 2022-12-01
+url: https://discourse.slicer.org/t/26539
+---
+
 # Save .mrk.json files from .mrb without opening each .mrb
 
 **Topic ID**: 26539

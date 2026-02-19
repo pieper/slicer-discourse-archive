@@ -1,3 +1,10 @@
+---
+topic_id: 15823
+title: "Is Slicerjupyter Broken On Macos Due To Argon2 Cffi Again"
+date: 2021-02-03
+url: https://discourse.slicer.org/t/15823
+---
+
 # Is SlicerJupyter broken on macOS due to argon2-cffi (again?)
 
 **Topic ID**: 15823

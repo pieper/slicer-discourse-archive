@@ -1,3 +1,10 @@
+---
+topic_id: 34227
+title: "Request For Detailed Steps To Reproduce Issues Loading Photo"
+date: 2024-02-09
+url: https://discourse.slicer.org/t/34227
+---
+
 # Request for Detailed Steps to Reproduce Issues: Loading Photos in Slicer 3D and more
 
 **Topic ID**: 34227

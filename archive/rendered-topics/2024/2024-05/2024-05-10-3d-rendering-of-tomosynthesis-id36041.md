@@ -1,3 +1,10 @@
+---
+topic_id: 36041
+title: "3D Rendering Of Tomosynthesis"
+date: 2024-05-10
+url: https://discourse.slicer.org/t/36041
+---
+
 # 3D Rendering of Tomosynthesis
 
 **Topic ID**: 36041

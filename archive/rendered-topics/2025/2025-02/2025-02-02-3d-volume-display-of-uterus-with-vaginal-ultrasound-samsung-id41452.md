@@ -1,3 +1,10 @@
+---
+topic_id: 41452
+title: "3D Volume Display Of Uterus With Vaginal Ultrasound Samsung"
+date: 2025-02-02
+url: https://discourse.slicer.org/t/41452
+---
+
 # 3D Volume display of uterus with vaginal ultrasound (Samsung) 
 
 **Topic ID**: 41452

@@ -1,3 +1,10 @@
+---
+topic_id: 33825
+title: "Do You Use Slicer In Your Local Language"
+date: 2024-01-17
+url: https://discourse.slicer.org/t/33825
+---
+
 # Do you use Slicer in your local language?
 
 **Topic ID**: 33825

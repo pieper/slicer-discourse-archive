@@ -1,3 +1,10 @@
+---
+topic_id: 12502
+title: "Segment Ids When Imported From Label Map"
+date: 2020-07-13
+url: https://discourse.slicer.org/t/12502
+---
+
 # Segment ids when imported from label map
 
 **Topic ID**: 12502

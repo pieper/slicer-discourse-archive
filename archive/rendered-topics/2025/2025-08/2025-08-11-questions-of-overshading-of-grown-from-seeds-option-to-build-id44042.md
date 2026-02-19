@@ -1,3 +1,10 @@
+---
+topic_id: 44042
+title: "Questions Of Overshading Of Grown From Seeds Option To Build"
+date: 2025-08-11
+url: https://discourse.slicer.org/t/44042
+---
+
 # Questions of overshading of Grown from seeds option to build up bronchus model
 
 **Topic ID**: 44042

@@ -1,3 +1,10 @@
+---
+topic_id: 11
+title: "Welcome To Your 14 Day Standard Hosting Trial"
+date: 2017-04-07
+url: https://discourse.slicer.org/t/11
+---
+
 # Welcome to your 14 day standard hosting trial!
 
 **Topic ID**: 11

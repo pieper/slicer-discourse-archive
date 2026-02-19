@@ -1,3 +1,10 @@
+---
+topic_id: 43443
+title: "Logo And Stickers"
+date: 2025-06-21
+url: https://discourse.slicer.org/t/43443
+---
+
 # Logo and Stickers
 
 **Topic ID**: 43443

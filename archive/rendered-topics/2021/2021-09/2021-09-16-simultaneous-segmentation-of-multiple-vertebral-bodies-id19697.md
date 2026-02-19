@@ -1,3 +1,10 @@
+---
+topic_id: 19697
+title: "Simultaneous Segmentation Of Multiple Vertebral Bodies"
+date: 2021-09-16
+url: https://discourse.slicer.org/t/19697
+---
+
 # Simultaneous segmentation of multiple vertebral bodies
 
 **Topic ID**: 19697

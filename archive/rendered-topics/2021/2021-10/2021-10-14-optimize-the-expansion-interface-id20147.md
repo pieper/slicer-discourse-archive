@@ -1,3 +1,10 @@
+---
+topic_id: 20147
+title: "Optimize The Expansion Interface"
+date: 2021-10-14
+url: https://discourse.slicer.org/t/20147
+---
+
 # Optimize the expansion interface
 
 **Topic ID**: 20147

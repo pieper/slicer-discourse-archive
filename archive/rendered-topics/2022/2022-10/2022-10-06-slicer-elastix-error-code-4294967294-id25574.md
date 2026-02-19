@@ -1,3 +1,10 @@
+---
+topic_id: 25574
+title: "Slicer Elastix Error Code 4294967294"
+date: 2022-10-06
+url: https://discourse.slicer.org/t/25574
+---
+
 # Slicer Elastix Error Code: 4294967294
 
 **Topic ID**: 25574

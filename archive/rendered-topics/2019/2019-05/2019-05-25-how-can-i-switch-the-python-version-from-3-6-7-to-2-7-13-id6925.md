@@ -1,3 +1,10 @@
+---
+topic_id: 6925
+title: "How Can I Switch The Python Version From 3 6 7 To 2 7 13"
+date: 2019-05-25
+url: https://discourse.slicer.org/t/6925
+---
+
 # How can I switch the python version from 3.6.7 to 2.7.13?
 
 **Topic ID**: 6925

@@ -1,3 +1,10 @@
+---
+topic_id: 8816
+title: "Fill Value Cant Be Set To A Negative Value In The Module Of"
+date: 2019-10-17
+url: https://discourse.slicer.org/t/8816
+---
+
 # Fill value can't be set to a negative value in the module of volume Clip with model in the newest version!
 
 **Topic ID**: 8816

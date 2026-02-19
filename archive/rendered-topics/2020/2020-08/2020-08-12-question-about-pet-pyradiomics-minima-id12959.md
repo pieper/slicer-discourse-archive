@@ -1,3 +1,10 @@
+---
+topic_id: 12959
+title: "Question About Pet Pyradiomics Minima"
+date: 2020-08-12
+url: https://discourse.slicer.org/t/12959
+---
+
 # Question about PET Pyradiomics Minima
 
 **Topic ID**: 12959

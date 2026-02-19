@@ -1,3 +1,10 @@
+---
+topic_id: 10522
+title: "Build Errors Using Slicer 3D"
+date: 2020-03-03
+url: https://discourse.slicer.org/t/10522
+---
+
 # Build errors using slicer 3D
 
 **Topic ID**: 10522

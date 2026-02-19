@@ -1,3 +1,10 @@
+---
+topic_id: 23476
+title: "Volume Display Colour Map Of Only A Segmentation Of The Imag"
+date: 2022-05-18
+url: https://discourse.slicer.org/t/23476
+---
+
 # Volume display colour map of only a segmentation of the image
 
 **Topic ID**: 23476

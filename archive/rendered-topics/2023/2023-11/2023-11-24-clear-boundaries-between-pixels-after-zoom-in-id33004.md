@@ -1,3 +1,10 @@
+---
+topic_id: 33004
+title: "Clear Boundaries Between Pixels After Zoom In"
+date: 2023-11-24
+url: https://discourse.slicer.org/t/33004
+---
+
 # Clear boundaries between pixels after zoom in
 
 **Topic ID**: 33004

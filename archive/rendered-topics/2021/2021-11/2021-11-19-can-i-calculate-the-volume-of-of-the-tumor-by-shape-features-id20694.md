@@ -1,3 +1,10 @@
+---
+topic_id: 20694
+title: "Can I Calculate The Volume Of Of The Tumor By Shape Features"
+date: 2021-11-19
+url: https://discourse.slicer.org/t/20694
+---
+
 # can I calculate the volume of  of the tumor by shape features ?
 
 **Topic ID**: 20694

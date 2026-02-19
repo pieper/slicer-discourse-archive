@@ -1,3 +1,10 @@
+---
+topic_id: 39753
+title: "Full Screen Issue With Slicer On Mac Os 15 0 1"
+date: 2024-10-18
+url: https://discourse.slicer.org/t/39753
+---
+
 # Full screen issue with slicer on mac os 15.0.1
 
 **Topic ID**: 39753

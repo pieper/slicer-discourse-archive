@@ -1,3 +1,10 @@
+---
+topic_id: 2455
+title: "Save Application Settings And Toolbar Settings"
+date: 2018-03-28
+url: https://discourse.slicer.org/t/2455
+---
+
 # Save application settings and toolbar settings
 
 **Topic ID**: 2455

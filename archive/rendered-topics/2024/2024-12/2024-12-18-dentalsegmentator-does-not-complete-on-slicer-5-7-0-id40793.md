@@ -1,3 +1,10 @@
+---
+topic_id: 40793
+title: "Dentalsegmentator Does Not Complete On Slicer 5 7 0"
+date: 2024-12-18
+url: https://discourse.slicer.org/t/40793
+---
+
 # DentalSegmentator does not complete on Slicer 5.7.0
 
 **Topic ID**: 40793

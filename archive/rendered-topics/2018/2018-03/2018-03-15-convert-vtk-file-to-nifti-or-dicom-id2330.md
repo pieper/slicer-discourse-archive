@@ -1,3 +1,10 @@
+---
+topic_id: 2330
+title: "Convert Vtk File To Nifti Or Dicom"
+date: 2018-03-15
+url: https://discourse.slicer.org/t/2330
+---
+
 # Convert VTK file to NIFTI or DICOM
 
 **Topic ID**: 2330

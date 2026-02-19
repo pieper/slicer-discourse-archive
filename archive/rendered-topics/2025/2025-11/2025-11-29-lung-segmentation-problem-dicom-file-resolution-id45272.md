@@ -1,3 +1,10 @@
+---
+topic_id: 45272
+title: "Lung Segmentation Problem Dicom File Resolution"
+date: 2025-11-29
+url: https://discourse.slicer.org/t/45272
+---
+
 # Lung segmentation problem(Dicom file resolution)
 
 **Topic ID**: 45272

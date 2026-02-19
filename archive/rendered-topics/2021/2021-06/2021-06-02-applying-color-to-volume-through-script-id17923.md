@@ -1,3 +1,10 @@
+---
+topic_id: 17923
+title: "Applying Color To Volume Through Script"
+date: 2021-06-02
+url: https://discourse.slicer.org/t/17923
+---
+
 # Applying color to volume through script?
 
 **Topic ID**: 17923

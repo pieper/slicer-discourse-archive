@@ -1,3 +1,10 @@
+---
+topic_id: 21524
+title: "Add Shortcut To Adjust Window Level In Any Mouse Mode Python"
+date: 2022-01-19
+url: https://discourse.slicer.org/t/21524
+---
+
 # Add shortcut to adjust window/level in any mouse mode python script not working
 
 **Topic ID**: 21524

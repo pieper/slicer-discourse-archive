@@ -1,3 +1,10 @@
+---
+topic_id: 33737
+title: "Segmenting The Root Canal Space Of The Tooth"
+date: 2024-01-11
+url: https://discourse.slicer.org/t/33737
+---
+
 # Segmenting the root canal space of the tooth
 
 **Topic ID**: 33737

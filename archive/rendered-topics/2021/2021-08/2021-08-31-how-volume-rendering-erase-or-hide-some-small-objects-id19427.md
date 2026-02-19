@@ -1,3 +1,10 @@
+---
+topic_id: 19427
+title: "How Volume Rendering Erase Or Hide Some Small Objects"
+date: 2021-08-31
+url: https://discourse.slicer.org/t/19427
+---
+
 # How volume rendering erase or hide some small objects?
 
 **Topic ID**: 19427

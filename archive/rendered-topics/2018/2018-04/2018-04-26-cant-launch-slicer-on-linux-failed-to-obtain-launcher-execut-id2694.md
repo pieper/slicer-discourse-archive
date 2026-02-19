@@ -1,3 +1,10 @@
+---
+topic_id: 2694
+title: "Cant Launch Slicer On Linux Failed To Obtain Launcher Execut"
+date: 2018-04-26
+url: https://discourse.slicer.org/t/2694
+---
+
 # Can't launch Slicer on Linux - failed to obtain launcher executable name
 
 **Topic ID**: 2694

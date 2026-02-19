@@ -1,3 +1,10 @@
+---
+topic_id: 30153
+title: "Which Files To Extract For 3D Printing Of 3D Ultrasound Imag"
+date: 2023-06-20
+url: https://discourse.slicer.org/t/30153
+---
+
 # Which files to extract for 3D printing of 3D ultrasound image?
 
 **Topic ID**: 30153

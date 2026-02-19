@@ -1,3 +1,10 @@
+---
+topic_id: 36863
+title: "Removing Artefacts Without Segmentation"
+date: 2024-06-18
+url: https://discourse.slicer.org/t/36863
+---
+
 # Removing artefacts without segmentation
 
 **Topic ID**: 36863

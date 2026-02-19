@@ -1,3 +1,10 @@
+---
+topic_id: 28194
+title: "How To Create Virtual Endoscope Image In 3D Slicer"
+date: 2023-03-06
+url: https://discourse.slicer.org/t/28194
+---
+
 # How to create virtual endoscope image in 3d slicer
 
 **Topic ID**: 28194

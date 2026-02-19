@@ -1,3 +1,10 @@
+---
+topic_id: 32957
+title: "Error While Segmenting"
+date: 2023-11-22
+url: https://discourse.slicer.org/t/32957
+---
+
 # Error while segmenting
 
 **Topic ID**: 32957

@@ -1,3 +1,10 @@
+---
+topic_id: 26095
+title: "Screenshot With Transparent Background In Gui"
+date: 2022-11-06
+url: https://discourse.slicer.org/t/26095
+---
+
 # Screenshot with transparent background in GUI
 
 **Topic ID**: 26095

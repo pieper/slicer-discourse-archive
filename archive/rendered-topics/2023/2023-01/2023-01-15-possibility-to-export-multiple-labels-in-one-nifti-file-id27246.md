@@ -1,3 +1,10 @@
+---
+topic_id: 27246
+title: "Possibility To Export Multiple Labels In One Nifti File"
+date: 2023-01-15
+url: https://discourse.slicer.org/t/27246
+---
+
 # Possibility to export multiple labels in one nifti file?
 
 **Topic ID**: 27246

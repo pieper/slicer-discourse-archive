@@ -1,3 +1,10 @@
+---
+topic_id: 20940
+title: "Duplication Of Segmentation Node On Crash"
+date: 2021-12-07
+url: https://discourse.slicer.org/t/20940
+---
+
 # Duplication of Segmentation node on crash
 
 **Topic ID**: 20940

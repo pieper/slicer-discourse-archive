@@ -1,3 +1,10 @@
+---
+topic_id: 18399
+title: "Slicer Module Not Found When Using Getsubjecthierarchynode"
+date: 2021-06-29
+url: https://discourse.slicer.org/t/18399
+---
+
 # Slicer module not found when using GetSubjectHierarchyNode
 
 **Topic ID**: 18399

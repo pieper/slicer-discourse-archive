@@ -1,3 +1,10 @@
+---
+topic_id: 7989
+title: "Ultrasound Opening L3D Files"
+date: 2019-08-12
+url: https://discourse.slicer.org/t/7989
+---
+
 # Ultrasound opening .l3d files
 
 **Topic ID**: 7989

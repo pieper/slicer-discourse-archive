@@ -1,3 +1,10 @@
+---
+topic_id: 16620
+title: "Import Stl Object"
+date: 2021-03-18
+url: https://discourse.slicer.org/t/16620
+---
+
 # Import stl object
 
 **Topic ID**: 16620

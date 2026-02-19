@@ -1,3 +1,10 @@
+---
+topic_id: 19780
+title: "In The Keep Largest Island Is There A Size Limit For The Lar"
+date: 2021-09-21
+url: https://discourse.slicer.org/t/19780
+---
+
 # In the "KEEP_LARGEST_ISLAND", is there a size limit for the largest island?
 
 **Topic ID**: 19780

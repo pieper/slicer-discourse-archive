@@ -1,3 +1,10 @@
+---
+topic_id: 10652
+title: "Radiomics Is It Possible To Import Dicom Image And A Binary"
+date: 2020-03-12
+url: https://discourse.slicer.org/t/10652
+---
+
 # Radiomics: Is it possible to import DICOM image and a binary mask as a segmentation to extract features?
 
 **Topic ID**: 10652

@@ -1,3 +1,10 @@
+---
+topic_id: 24660
+title: "Add All Nodes To Custom Module Gui"
+date: 2022-08-05
+url: https://discourse.slicer.org/t/24660
+---
+
 # Add all nodes to custom module gui
 
 **Topic ID**: 24660

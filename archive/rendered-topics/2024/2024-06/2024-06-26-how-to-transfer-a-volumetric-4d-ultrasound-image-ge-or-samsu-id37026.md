@@ -1,3 +1,10 @@
+---
+topic_id: 37026
+title: "How To Transfer A Volumetric 4D Ultrasound Image Ge Or Samsu"
+date: 2024-06-26
+url: https://discourse.slicer.org/t/37026
+---
+
 # How to transfer a volumetric (4D) ultrasound image (GE or Samsung) to STL
 
 **Topic ID**: 37026

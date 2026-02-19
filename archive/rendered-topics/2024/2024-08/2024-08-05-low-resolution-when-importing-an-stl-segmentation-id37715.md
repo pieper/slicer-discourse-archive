@@ -1,3 +1,10 @@
+---
+topic_id: 37715
+title: "Low Resolution When Importing An Stl Segmentation"
+date: 2024-08-05
+url: https://discourse.slicer.org/t/37715
+---
+
 # Low resolution when importing an STL segmentation
 
 **Topic ID**: 37715

@@ -1,3 +1,10 @@
+---
+topic_id: 24467
+title: "How Better Make Teeth Segmentation"
+date: 2022-07-24
+url: https://discourse.slicer.org/t/24467
+---
+
 # How better make teeth segmentation? 
 
 **Topic ID**: 24467

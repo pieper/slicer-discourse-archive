@@ -1,3 +1,10 @@
+---
+topic_id: 16780
+title: "How Do I Get The Id Number From Subject Hierarchy Informatio"
+date: 2021-03-26
+url: https://discourse.slicer.org/t/16780
+---
+
 # How do I get the ID number from subject hierarchy information for a segmentation?
 
 **Topic ID**: 16780

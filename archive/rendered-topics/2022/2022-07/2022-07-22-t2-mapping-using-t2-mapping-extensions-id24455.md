@@ -1,3 +1,10 @@
+---
+topic_id: 24455
+title: "T2 Mapping Using T2 Mapping Extensions"
+date: 2022-07-22
+url: https://discourse.slicer.org/t/24455
+---
+
 # T2* mapping using T2 mapping extensions
 
 **Topic ID**: 24455

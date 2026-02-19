@@ -1,3 +1,10 @@
+---
+topic_id: 19742
+title: "How To Fill The Liver Area"
+date: 2021-09-19
+url: https://discourse.slicer.org/t/19742
+---
+
 # How to fill the liver area?
 
 **Topic ID**: 19742

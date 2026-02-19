@@ -1,3 +1,10 @@
+---
+topic_id: 3575
+title: "Segmenting Fractured Bone Fragments"
+date: 2018-07-25
+url: https://discourse.slicer.org/t/3575
+---
+
 # Segmenting fractured bone fragments
 
 **Topic ID**: 3575

@@ -1,3 +1,10 @@
+---
+topic_id: 43277
+title: "Efficient Segmentation Of Fossil Vertebrae From Matrix In 3D"
+date: 2025-06-09
+url: https://discourse.slicer.org/t/43277
+---
+
 # Efficient Segmentation of Fossil Vertebrae from Matrix in 3D Slicer
 
 **Topic ID**: 43277

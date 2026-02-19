@@ -1,3 +1,10 @@
+---
+topic_id: 43384
+title: "Transformed Roi Shows Up As Changed In Save Dialog Directly"
+date: 2025-06-17
+url: https://discourse.slicer.org/t/43384
+---
+
 # Transformed ROI shows up as changed in Save dialog directly after opening an mrml scene
 
 **Topic ID**: 43384

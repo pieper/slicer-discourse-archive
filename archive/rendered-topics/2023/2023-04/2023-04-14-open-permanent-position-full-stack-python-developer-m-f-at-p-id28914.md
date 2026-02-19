@@ -1,3 +1,10 @@
+---
+topic_id: 28914
+title: "Open Permanent Position Full Stack Python Developer M F At P"
+date: 2023-04-14
+url: https://discourse.slicer.org/t/28914
+---
+
 # Open Permanent Position: Full Stack Python developer (M/F) at Paris Brain Institute (ICM)
 
 **Topic ID**: 28914

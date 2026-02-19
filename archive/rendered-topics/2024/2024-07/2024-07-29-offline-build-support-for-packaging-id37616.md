@@ -1,3 +1,10 @@
+---
+topic_id: 37616
+title: "Offline Build Support For Packaging"
+date: 2024-07-29
+url: https://discourse.slicer.org/t/37616
+---
+
 # Offline build support for packaging
 
 **Topic ID**: 37616

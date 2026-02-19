@@ -1,3 +1,10 @@
+---
+topic_id: 13134
+title: "Proposed Custom Module For The Extension Repository"
+date: 2020-08-22
+url: https://discourse.slicer.org/t/13134
+---
+
 # Proposed custom module for the extension repository
 
 **Topic ID**: 13134

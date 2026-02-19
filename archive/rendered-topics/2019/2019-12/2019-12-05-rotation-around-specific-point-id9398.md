@@ -1,3 +1,10 @@
+---
+topic_id: 9398
+title: "Rotation Around Specific Point"
+date: 2019-12-05
+url: https://discourse.slicer.org/t/9398
+---
+
 # Rotation around specific point
 
 **Topic ID**: 9398

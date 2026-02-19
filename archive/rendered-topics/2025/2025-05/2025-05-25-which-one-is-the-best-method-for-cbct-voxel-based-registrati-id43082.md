@@ -1,3 +1,10 @@
+---
+topic_id: 43082
+title: "Which One Is The Best Method For Cbct Voxel Based Registrati"
+date: 2025-05-25
+url: https://discourse.slicer.org/t/43082
+---
+
 # Which one is the best method for cbct voxel based registration , voxel based from cmf module sometimes doesnt work even doing same thing again and again
 
 **Topic ID**: 43082

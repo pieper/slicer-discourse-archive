@@ -1,3 +1,10 @@
+---
+topic_id: 18913
+title: "Problem Starting Slicer"
+date: 2021-07-24
+url: https://discourse.slicer.org/t/18913
+---
+
 # Problem starting Slicer
 
 **Topic ID**: 18913

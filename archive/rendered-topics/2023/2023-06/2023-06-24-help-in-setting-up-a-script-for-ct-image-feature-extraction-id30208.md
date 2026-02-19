@@ -1,3 +1,10 @@
+---
+topic_id: 30208
+title: "Help In Setting Up A Script For Ct Image Feature Extraction"
+date: 2023-06-24
+url: https://discourse.slicer.org/t/30208
+---
+
 # Help in setting up a script for CT image feature extraction with input as .npy files
 
 **Topic ID**: 30208

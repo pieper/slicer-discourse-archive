@@ -1,3 +1,10 @@
+---
+topic_id: 1896
+title: "Nrrd Vs Nii Regarding Affine Data And Transforms"
+date: 2018-01-22
+url: https://discourse.slicer.org/t/1896
+---
+
 # Nrrd vs nii regarding affine data and transforms
 
 **Topic ID**: 1896

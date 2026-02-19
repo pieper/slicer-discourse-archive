@@ -1,3 +1,10 @@
+---
+topic_id: 43436
+title: "5070Ti Could Not Be Recognized In Slicer 5 8 1"
+date: 2025-06-20
+url: https://discourse.slicer.org/t/43436
+---
+
 # 5070ti could not be recognized in slicer 5.8.1
 
 **Topic ID**: 43436

@@ -1,3 +1,10 @@
+---
+topic_id: 41289
+title: "Slicer Module Areg Problem"
+date: 2025-01-26
+url: https://discourse.slicer.org/t/41289
+---
+
 # Slicer module AREG - problem
 
 **Topic ID**: 41289

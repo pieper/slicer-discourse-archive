@@ -1,3 +1,10 @@
+---
+topic_id: 35560
+title: "I Am Unable To Upload Vti File Dicom Heart Ct Mri Data In 3D"
+date: 2024-04-17
+url: https://discourse.slicer.org/t/35560
+---
+
 # I am unable to upload .vti file (DICOM) heart CT/MRI data in 3D slicer5.6.1 on Mac
 
 **Topic ID**: 35560

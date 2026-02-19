@@ -1,3 +1,10 @@
+---
+topic_id: 489
+title: "How Can I Quantify The Difference Between Two Similar Models"
+date: 2017-06-13
+url: https://discourse.slicer.org/t/489
+---
+
 # How can I quantify the difference between two similar models after superimposing the two models?
 
 **Topic ID**: 489

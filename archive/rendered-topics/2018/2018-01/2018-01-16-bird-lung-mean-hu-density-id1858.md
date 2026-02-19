@@ -1,3 +1,10 @@
+---
+topic_id: 1858
+title: "Bird Lung Mean Hu Density"
+date: 2018-01-16
+url: https://discourse.slicer.org/t/1858
+---
+
 # Bird lung mean HU density
 
 **Topic ID**: 1858

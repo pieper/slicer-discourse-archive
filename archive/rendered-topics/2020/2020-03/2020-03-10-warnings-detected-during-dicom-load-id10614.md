@@ -1,3 +1,10 @@
+---
+topic_id: 10614
+title: "Warnings Detected During Dicom Load"
+date: 2020-03-10
+url: https://discourse.slicer.org/t/10614
+---
+
 # Warnings detected during DICOM load
 
 **Topic ID**: 10614

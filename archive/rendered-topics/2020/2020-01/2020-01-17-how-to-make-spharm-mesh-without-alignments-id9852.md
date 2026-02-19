@@ -1,3 +1,10 @@
+---
+topic_id: 9852
+title: "How To Make Spharm Mesh Without Alignments"
+date: 2020-01-17
+url: https://discourse.slicer.org/t/9852
+---
+
 # How to make spharm mesh without alignments
 
 **Topic ID**: 9852

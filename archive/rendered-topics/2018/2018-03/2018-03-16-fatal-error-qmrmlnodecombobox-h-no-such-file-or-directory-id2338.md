@@ -1,3 +1,10 @@
+---
+topic_id: 2338
+title: "Fatal Error Qmrmlnodecombobox H No Such File Or Directory"
+date: 2018-03-16
+url: https://discourse.slicer.org/t/2338
+---
+
 # Fatal error: qmrmlnodecombobox.h: No such file or directory
 
 **Topic ID**: 2338

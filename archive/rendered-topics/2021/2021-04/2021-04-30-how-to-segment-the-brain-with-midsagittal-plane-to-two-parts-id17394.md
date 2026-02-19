@@ -1,3 +1,10 @@
+---
+topic_id: 17394
+title: "How To Segment The Brain With Midsagittal Plane To Two Parts"
+date: 2021-04-30
+url: https://discourse.slicer.org/t/17394
+---
+
 # How to segment the brain with midsagittal plane to two parts? EMSegmenter modul is missing
 
 **Topic ID**: 17394

@@ -1,3 +1,10 @@
+---
+topic_id: 2650
+title: "Slicerextension Vmtk Build Failing On Macos 10 12 Vtkv9 Qt 5"
+date: 2018-04-20
+url: https://discourse.slicer.org/t/2650
+---
+
 # SlicerExtension-VMTK build failing on MacOS 10.12, VTKv9, Qt 5.10
 
 **Topic ID**: 2650

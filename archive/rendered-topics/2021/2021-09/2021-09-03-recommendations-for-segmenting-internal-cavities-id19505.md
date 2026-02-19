@@ -1,3 +1,10 @@
+---
+topic_id: 19505
+title: "Recommendations For Segmenting Internal Cavities"
+date: 2021-09-03
+url: https://discourse.slicer.org/t/19505
+---
+
 # Recommendations for segmenting internal cavities 
 
 **Topic ID**: 19505

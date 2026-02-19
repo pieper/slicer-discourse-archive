@@ -1,3 +1,10 @@
+---
+topic_id: 29152
+title: "Gpu And Cpu Rendering On Macbookpro M2 Promax"
+date: 2023-04-26
+url: https://discourse.slicer.org/t/29152
+---
+
 # GPU and CPU rendering on MacBookPro M2 ProMax
 
 **Topic ID**: 29152

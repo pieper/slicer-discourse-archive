@@ -1,3 +1,10 @@
+---
+topic_id: 15992
+title: "How To Use Ptr File To Load Raw Data In 3D Slicer"
+date: 2021-02-15
+url: https://discourse.slicer.org/t/15992
+---
+
 # How to use PTR file to Load raw data in 3D slicer
 
 **Topic ID**: 15992

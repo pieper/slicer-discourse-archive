@@ -1,3 +1,10 @@
+---
+topic_id: 46074
+title: "Adc Images Quantifications"
+date: 2026-02-06
+url: https://discourse.slicer.org/t/46074
+---
+
 # ADC images Quantifications 
 
 **Topic ID**: 46074

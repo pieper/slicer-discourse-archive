@@ -1,3 +1,10 @@
+---
+topic_id: 15317
+title: "Number Of Voxels Dependent On Hu Value"
+date: 2021-01-02
+url: https://discourse.slicer.org/t/15317
+---
+
 # Number of voxels dependent on HU value
 
 **Topic ID**: 15317

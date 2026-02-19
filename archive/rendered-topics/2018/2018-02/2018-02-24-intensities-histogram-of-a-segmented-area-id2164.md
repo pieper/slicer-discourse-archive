@@ -1,3 +1,10 @@
+---
+topic_id: 2164
+title: "Intensities Histogram Of A Segmented Area"
+date: 2018-02-24
+url: https://discourse.slicer.org/t/2164
+---
+
 # Intensities histogram of a segmented area
 
 **Topic ID**: 2164

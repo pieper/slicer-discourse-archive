@@ -1,3 +1,10 @@
+---
+topic_id: 5974
+title: "Segment Visibility Code Not Functioning For Me"
+date: 2019-02-28
+url: https://discourse.slicer.org/t/5974
+---
+
 # Segment Visibility Code Not Functioning for me
 
 **Topic ID**: 5974

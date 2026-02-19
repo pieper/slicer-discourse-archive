@@ -1,3 +1,10 @@
+---
+topic_id: 36362
+title: "I Want To Calculate Mean"
+date: 2024-05-24
+url: https://discourse.slicer.org/t/36362
+---
+
 # I want to calculate mean
 
 **Topic ID**: 36362

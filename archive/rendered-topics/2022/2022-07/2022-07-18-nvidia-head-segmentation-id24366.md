@@ -1,3 +1,10 @@
+---
+topic_id: 24366
+title: "Nvidia Head Segmentation"
+date: 2022-07-18
+url: https://discourse.slicer.org/t/24366
+---
+
 # NVIDIA head segmentation
 
 **Topic ID**: 24366

@@ -1,3 +1,10 @@
+---
+topic_id: 18876
+title: "2D Phase Contrast Mri"
+date: 2021-07-22
+url: https://discourse.slicer.org/t/18876
+---
+
 # 2D phase contrast MRI
 
 **Topic ID**: 18876

@@ -1,3 +1,10 @@
+---
+topic_id: 16821
+title: "Area Of Each Slice"
+date: 2021-03-29
+url: https://discourse.slicer.org/t/16821
+---
+
 # Area of each slice
 
 **Topic ID**: 16821

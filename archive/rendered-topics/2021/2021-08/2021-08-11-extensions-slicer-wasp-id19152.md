@@ -1,3 +1,10 @@
+---
+topic_id: 19152
+title: "Extensions Slicer Wasp"
+date: 2021-08-11
+url: https://discourse.slicer.org/t/19152
+---
+
 # Extensions--Slicer-Wasp
 
 **Topic ID**: 19152

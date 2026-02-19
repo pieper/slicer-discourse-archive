@@ -1,3 +1,10 @@
+---
+topic_id: 29550
+title: "Issue With Full Screen"
+date: 2023-05-20
+url: https://discourse.slicer.org/t/29550
+---
+
 # Issue with full screen
 
 **Topic ID**: 29550

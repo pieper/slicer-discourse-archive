@@ -1,3 +1,10 @@
+---
+topic_id: 9432
+title: "Gui Widget To Select A File"
+date: 2019-12-08
+url: https://discourse.slicer.org/t/9432
+---
+
 # GUI widget to select a file
 
 **Topic ID**: 9432

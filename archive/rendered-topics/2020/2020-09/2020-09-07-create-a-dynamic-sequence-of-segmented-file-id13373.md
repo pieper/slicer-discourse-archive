@@ -1,3 +1,10 @@
+---
+topic_id: 13373
+title: "Create A Dynamic Sequence Of Segmented File"
+date: 2020-09-07
+url: https://discourse.slicer.org/t/13373
+---
+
 # create a dynamic sequence of segmented file 
 
 **Topic ID**: 13373

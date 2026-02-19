@@ -1,3 +1,10 @@
+---
+topic_id: 44590
+title: "Convert From Spatial Registration To Shifts"
+date: 2025-09-26
+url: https://discourse.slicer.org/t/44590
+---
+
 # Convert from spatial registration to shifts
 
 **Topic ID**: 44590

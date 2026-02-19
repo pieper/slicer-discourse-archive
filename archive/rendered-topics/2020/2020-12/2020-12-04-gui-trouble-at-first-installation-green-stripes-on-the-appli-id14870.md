@@ -1,3 +1,10 @@
+---
+topic_id: 14870
+title: "Gui Trouble At First Installation Green Stripes On The Appli"
+date: 2020-12-04
+url: https://discourse.slicer.org/t/14870
+---
+
 # GUI trouble at first installation - green stripes on the application screen
 
 **Topic ID**: 14870

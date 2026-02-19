@@ -1,3 +1,10 @@
+---
+topic_id: 2774
+title: "Spharm Vtk Vs Procalign In Group Comparison"
+date: 2018-05-08
+url: https://discourse.slicer.org/t/2774
+---
+
 # Spharm.vtk vs procalign in group comparison
 
 **Topic ID**: 2774

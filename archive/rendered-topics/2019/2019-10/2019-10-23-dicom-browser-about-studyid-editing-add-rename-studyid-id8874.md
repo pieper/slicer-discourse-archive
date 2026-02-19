@@ -1,3 +1,10 @@
+---
+topic_id: 8874
+title: "Dicom Browser About Studyid Editing Add Rename Studyid"
+date: 2019-10-23
+url: https://discourse.slicer.org/t/8874
+---
+
 # [DICOM Browser] About StudyID Editing(Add&Rename StudyID)
 
 **Topic ID**: 8874

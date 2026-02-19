@@ -1,3 +1,10 @@
+---
+topic_id: 25297
+title: "Rotate A Node Around A Specified Point Script"
+date: 2022-09-16
+url: https://discourse.slicer.org/t/25297
+---
+
 # Rotate a node around a specified point script
 
 **Topic ID**: 25297

@@ -1,3 +1,10 @@
+---
+topic_id: 25631
+title: "Vessel Radius For Skeletonized Vessels"
+date: 2022-10-10
+url: https://discourse.slicer.org/t/25631
+---
+
 # Vessel radius for skeletonized vessels
 
 **Topic ID**: 25631

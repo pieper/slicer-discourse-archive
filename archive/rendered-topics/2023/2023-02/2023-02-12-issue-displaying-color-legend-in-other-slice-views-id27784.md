@@ -1,3 +1,10 @@
+---
+topic_id: 27784
+title: "Issue Displaying Color Legend In Other Slice Views"
+date: 2023-02-12
+url: https://discourse.slicer.org/t/27784
+---
+
 # Issue displaying color legend in other slice views
 
 **Topic ID**: 27784

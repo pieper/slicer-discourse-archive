@@ -1,3 +1,10 @@
+---
+topic_id: 12045
+title: "Post Processing Of Brain Vessel Models"
+date: 2020-06-15
+url: https://discourse.slicer.org/t/12045
+---
+
 # Post-processing of brain vessel models
 
 **Topic ID**: 12045

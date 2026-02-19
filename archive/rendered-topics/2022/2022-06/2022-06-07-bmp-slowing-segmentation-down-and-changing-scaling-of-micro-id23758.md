@@ -1,3 +1,10 @@
+---
+topic_id: 23758
+title: "Bmp Slowing Segmentation Down And Changing Scaling Of Micro"
+date: 2022-06-07
+url: https://discourse.slicer.org/t/23758
+---
+
 # .bmp slowing segmentation down and changing scaling of micro-CT images?
 
 **Topic ID**: 23758

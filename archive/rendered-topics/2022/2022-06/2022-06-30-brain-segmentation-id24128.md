@@ -1,3 +1,10 @@
+---
+topic_id: 24128
+title: "Brain Segmentation"
+date: 2022-06-30
+url: https://discourse.slicer.org/t/24128
+---
+
 # Brain segmentation
 
 **Topic ID**: 24128

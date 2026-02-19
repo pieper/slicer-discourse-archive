@@ -1,3 +1,10 @@
+---
+topic_id: 18435
+title: "Split Images And Corresponding Labels In Half Symmetric Crop"
+date: 2021-06-30
+url: https://discourse.slicer.org/t/18435
+---
+
 # Split images and corresponding labels in half (symmetric cropping)
 
 **Topic ID**: 18435

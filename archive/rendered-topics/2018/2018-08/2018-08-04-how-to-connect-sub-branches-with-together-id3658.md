@@ -1,3 +1,10 @@
+---
+topic_id: 3658
+title: "How To Connect Sub Branches With Together"
+date: 2018-08-04
+url: https://discourse.slicer.org/t/3658
+---
+
 # How to connect sub-branches with together?
 
 **Topic ID**: 3658

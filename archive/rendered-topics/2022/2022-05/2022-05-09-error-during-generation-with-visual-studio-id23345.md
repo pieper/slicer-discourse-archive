@@ -1,3 +1,10 @@
+---
+topic_id: 23345
+title: "Error During Generation With Visual Studio"
+date: 2022-05-09
+url: https://discourse.slicer.org/t/23345
+---
+
 # Error during generation with Visual Studio
 
 **Topic ID**: 23345

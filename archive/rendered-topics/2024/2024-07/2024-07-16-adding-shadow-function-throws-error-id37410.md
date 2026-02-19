@@ -1,3 +1,10 @@
+---
+topic_id: 37410
+title: "Adding Shadow Function Throws Error"
+date: 2024-07-16
+url: https://discourse.slicer.org/t/37410
+---
+
 # Adding Shadow function throws error
 
 **Topic ID**: 37410

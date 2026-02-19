@@ -1,3 +1,10 @@
+---
+topic_id: 6940
+title: "Calculating Dvhs For Models"
+date: 2019-05-27
+url: https://discourse.slicer.org/t/6940
+---
+
 # Calculating DVHs for models
 
 **Topic ID**: 6940

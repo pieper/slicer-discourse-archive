@@ -1,3 +1,10 @@
+---
+topic_id: 11874
+title: "How To Quantify The Measurements Obtained From The Vtk File"
+date: 2020-06-05
+url: https://discourse.slicer.org/t/11874
+---
+
 # How to quantify the measurements obtained from the vtk file
 
 **Topic ID**: 11874

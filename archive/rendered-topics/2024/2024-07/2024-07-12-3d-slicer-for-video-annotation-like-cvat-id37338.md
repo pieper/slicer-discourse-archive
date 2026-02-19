@@ -1,3 +1,10 @@
+---
+topic_id: 37338
+title: "3D Slicer For Video Annotation Like Cvat"
+date: 2024-07-12
+url: https://discourse.slicer.org/t/37338
+---
+
 # 3D slicer for video annotation? Like CVAT?
 
 **Topic ID**: 37338

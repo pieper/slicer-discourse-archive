@@ -1,3 +1,10 @@
+---
+topic_id: 15281
+title: "Problem I Cant View My Data"
+date: 2020-12-29
+url: https://discourse.slicer.org/t/15281
+---
+
 # Problem I cant view my data
 
 **Topic ID**: 15281

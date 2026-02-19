@@ -1,3 +1,10 @@
+---
+topic_id: 15966
+title: "Segmenting Images Of Cells"
+date: 2021-02-12
+url: https://discourse.slicer.org/t/15966
+---
+
 # Segmenting Images of Cells 
 
 **Topic ID**: 15966

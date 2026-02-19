@@ -1,3 +1,10 @@
+---
+topic_id: 44026
+title: "Is There A Way To Use Slicer Virtual Reality With Standalone"
+date: 2025-08-08
+url: https://discourse.slicer.org/t/44026
+---
+
 # Is there a way to use Slicer Virtual Reality with standalone VR headsets like the Magic Leap 2 or Lynx R1?
 
 **Topic ID**: 44026

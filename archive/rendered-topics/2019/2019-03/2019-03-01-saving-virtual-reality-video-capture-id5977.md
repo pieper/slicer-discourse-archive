@@ -1,3 +1,10 @@
+---
+topic_id: 5977
+title: "Saving Virtual Reality Video Capture"
+date: 2019-03-01
+url: https://discourse.slicer.org/t/5977
+---
+
 # Saving Virtual Reality video capture
 
 **Topic ID**: 5977

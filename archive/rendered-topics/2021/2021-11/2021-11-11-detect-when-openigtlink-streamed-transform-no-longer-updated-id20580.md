@@ -1,3 +1,10 @@
+---
+topic_id: 20580
+title: "Detect When Openigtlink Streamed Transform No Longer Updated"
+date: 2021-11-11
+url: https://discourse.slicer.org/t/20580
+---
+
 # Detect when OpenIGTlink streamed transform no longer updated
 
 **Topic ID**: 20580

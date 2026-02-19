@@ -1,3 +1,10 @@
+---
+topic_id: 14802
+title: "Is 3D Slicer Available For A Tablet"
+date: 2020-11-28
+url: https://discourse.slicer.org/t/14802
+---
+
 # Is 3D Slicer available for a tablet?
 
 **Topic ID**: 14802

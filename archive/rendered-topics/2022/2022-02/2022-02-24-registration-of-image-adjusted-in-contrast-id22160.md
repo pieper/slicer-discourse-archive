@@ -1,3 +1,10 @@
+---
+topic_id: 22160
+title: "Registration Of Image Adjusted In Contrast"
+date: 2022-02-24
+url: https://discourse.slicer.org/t/22160
+---
+
 # Registration of image adjusted in contrast
 
 **Topic ID**: 22160

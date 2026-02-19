@@ -1,3 +1,10 @@
+---
+topic_id: 25892
+title: "Integrating A Model Pth In Slicer For Segmentation In Monail"
+date: 2022-10-25
+url: https://discourse.slicer.org/t/25892
+---
+
 # Integrating a model (.pth) in Slicer for segmentation in monailabel
 
 **Topic ID**: 25892

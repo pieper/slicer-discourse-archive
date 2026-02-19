@@ -1,3 +1,10 @@
+---
+topic_id: 26484
+title: "Na Mic Project Week Project Week 38 Prep Meetings Start This"
+date: 2022-11-29
+url: https://discourse.slicer.org/t/26484
+---
+
 # [Na-mic-project-week] Project Week 38 prep meetings start this Tuesday (Nov 29th)
 
 **Topic ID**: 26484

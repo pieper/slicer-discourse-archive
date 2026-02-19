@@ -1,3 +1,10 @@
+---
+topic_id: 20122
+title: "Slicer Scripted Module Not Calling Updateparameternodefromgu"
+date: 2021-10-12
+url: https://discourse.slicer.org/t/20122
+---
+
 # Slicer Scripted Module not calling updateParameterNodeFromGUI when UI is updated
 
 **Topic ID**: 20122

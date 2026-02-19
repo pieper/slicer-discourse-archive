@@ -1,3 +1,10 @@
+---
+topic_id: 27411
+title: "Bratstoolkit How To Use Within 3D Slicer"
+date: 2023-01-23
+url: https://discourse.slicer.org/t/27411
+---
+
 # Bratstoolkit how to use within 3D Slicer
 
 **Topic ID**: 27411

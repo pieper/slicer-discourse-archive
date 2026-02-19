@@ -1,3 +1,10 @@
+---
+topic_id: 7599
+title: "Error When Run 3Dslicer In Singularity Container"
+date: 2019-07-16
+url: https://discourse.slicer.org/t/7599
+---
+
 # Error when run 3DSlicer in singularity container
 
 **Topic ID**: 7599

@@ -1,3 +1,10 @@
+---
+topic_id: 37543
+title: "Importing Ply File With Color Scale Associated To A Numerica"
+date: 2024-07-24
+url: https://discourse.slicer.org/t/37543
+---
+
 # Importing PLY file with color scale associated to a numerical "user scalar"
 
 **Topic ID**: 37543

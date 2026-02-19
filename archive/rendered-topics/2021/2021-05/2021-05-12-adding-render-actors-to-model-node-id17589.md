@@ -1,3 +1,10 @@
+---
+topic_id: 17589
+title: "Adding Render Actors To Model Node"
+date: 2021-05-12
+url: https://discourse.slicer.org/t/17589
+---
+
 # adding render actors to model node
 
 **Topic ID**: 17589

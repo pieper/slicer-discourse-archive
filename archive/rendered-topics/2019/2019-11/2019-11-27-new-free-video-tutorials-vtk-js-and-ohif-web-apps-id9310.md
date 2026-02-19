@@ -1,3 +1,10 @@
+---
+topic_id: 9310
+title: "New Free Video Tutorials Vtk Js And Ohif Web Apps"
+date: 2019-11-27
+url: https://discourse.slicer.org/t/9310
+---
+
 # New free video tutorials! VTK.js and OHIF web apps
 
 **Topic ID**: 9310

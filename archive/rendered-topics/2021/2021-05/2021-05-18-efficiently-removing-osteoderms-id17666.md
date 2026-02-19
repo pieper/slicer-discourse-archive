@@ -1,3 +1,10 @@
+---
+topic_id: 17666
+title: "Efficiently Removing Osteoderms"
+date: 2021-05-18
+url: https://discourse.slicer.org/t/17666
+---
+
 # Efficiently removing osteoderms?
 
 **Topic ID**: 17666

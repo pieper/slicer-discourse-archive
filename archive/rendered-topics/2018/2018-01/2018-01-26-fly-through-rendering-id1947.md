@@ -1,3 +1,10 @@
+---
+topic_id: 1947
+title: "Fly Through Rendering"
+date: 2018-01-26
+url: https://discourse.slicer.org/t/1947
+---
+
 # Fly-through rendering
 
 **Topic ID**: 1947

@@ -1,3 +1,10 @@
+---
+topic_id: 37804
+title: "How To Export Domain And 3D Cads"
+date: 2024-08-09
+url: https://discourse.slicer.org/t/37804
+---
+
 # How to Export Domain and 3D Cads
 
 **Topic ID**: 37804

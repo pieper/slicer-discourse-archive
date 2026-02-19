@@ -1,3 +1,10 @@
+---
+topic_id: 21873
+title: "Why Are Dimensions Transposed In Arrayfromvolume"
+date: 2022-02-09
+url: https://discourse.slicer.org/t/21873
+---
+
 # Why are dimensions transposed in `arrayFromVolume`?
 
 **Topic ID**: 21873

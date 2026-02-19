@@ -1,3 +1,10 @@
+---
+topic_id: 41633
+title: "Build Slicer With The System Python"
+date: 2025-02-11
+url: https://discourse.slicer.org/t/41633
+---
+
 # Build Slicer with the system Python
 
 **Topic ID**: 41633

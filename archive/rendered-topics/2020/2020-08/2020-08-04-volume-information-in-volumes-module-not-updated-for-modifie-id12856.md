@@ -1,3 +1,10 @@
+---
+topic_id: 12856
+title: "Volume Information In Volumes Module Not Updated For Modifie"
+date: 2020-08-04
+url: https://discourse.slicer.org/t/12856
+---
+
 # "Volume Information" in "Volumes" module not updated for modified volumes
 
 **Topic ID**: 12856

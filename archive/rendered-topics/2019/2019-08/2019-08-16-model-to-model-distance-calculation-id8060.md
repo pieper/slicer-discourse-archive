@@ -1,3 +1,10 @@
+---
+topic_id: 8060
+title: "Model To Model Distance Calculation"
+date: 2019-08-16
+url: https://discourse.slicer.org/t/8060
+---
+
 # Model to model distance calculation
 
 **Topic ID**: 8060

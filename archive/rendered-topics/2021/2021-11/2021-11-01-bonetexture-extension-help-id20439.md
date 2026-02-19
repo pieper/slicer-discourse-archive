@@ -1,3 +1,10 @@
+---
+topic_id: 20439
+title: "Bonetexture Extension Help"
+date: 2021-11-01
+url: https://discourse.slicer.org/t/20439
+---
+
 # BoneTexture Extension Help
 
 **Topic ID**: 20439

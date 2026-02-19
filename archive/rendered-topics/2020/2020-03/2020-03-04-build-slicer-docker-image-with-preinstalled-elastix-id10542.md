@@ -1,3 +1,10 @@
+---
+topic_id: 10542
+title: "Build Slicer Docker Image With Preinstalled Elastix"
+date: 2020-03-04
+url: https://discourse.slicer.org/t/10542
+---
+
 # Build Slicer docker image with preinstalled elastix
 
 **Topic ID**: 10542

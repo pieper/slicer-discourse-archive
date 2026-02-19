@@ -1,3 +1,10 @@
+---
+topic_id: 19952
+title: "Delays In Paint Function Using Wacom Cintiq22"
+date: 2021-10-01
+url: https://discourse.slicer.org/t/19952
+---
+
 # Delays in 'Paint' function using Wacom Cintiq22
 
 **Topic ID**: 19952

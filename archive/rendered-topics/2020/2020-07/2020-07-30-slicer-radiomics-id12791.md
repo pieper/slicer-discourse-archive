@@ -1,3 +1,10 @@
+---
+topic_id: 12791
+title: "Slicer Radiomics"
+date: 2020-07-30
+url: https://discourse.slicer.org/t/12791
+---
+
 # Slicer Radiomics
 
 **Topic ID**: 12791

@@ -1,3 +1,10 @@
+---
+topic_id: 12782
+title: "Irregular Shaped Roi And Conversion To Mask"
+date: 2020-07-30
+url: https://discourse.slicer.org/t/12782
+---
+
 # Irregular shaped ROI and conversion to mask
 
 **Topic ID**: 12782

@@ -1,3 +1,10 @@
+---
+topic_id: 1410
+title: "Removing Dvt Scanned Dental Artifacts Scatters"
+date: 2017-11-08
+url: https://discourse.slicer.org/t/1410
+---
+
 # Removing DVT - Scanned dental artifacts/scatters
 
 **Topic ID**: 1410

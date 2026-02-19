@@ -1,3 +1,10 @@
+---
+topic_id: 31194
+title: "Do Extension Offline"
+date: 2023-08-17
+url: https://discourse.slicer.org/t/31194
+---
+
 # Do extension offline
 
 **Topic ID**: 31194

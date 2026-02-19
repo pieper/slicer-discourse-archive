@@ -1,3 +1,10 @@
+---
+topic_id: 1205
+title: "Document Modules Using Mkdocs"
+date: 2017-10-10
+url: https://discourse.slicer.org/t/1205
+---
+
 # Document modules using mkdocs
 
 **Topic ID**: 1205

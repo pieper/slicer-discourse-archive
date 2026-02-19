@@ -1,3 +1,10 @@
+---
+topic_id: 8022
+title: "Download Python 2 7 2 On Mac Os Mojave"
+date: 2019-08-14
+url: https://discourse.slicer.org/t/8022
+---
+
 # download python 2.7.2 on mac OS mojave
 
 **Topic ID**: 8022

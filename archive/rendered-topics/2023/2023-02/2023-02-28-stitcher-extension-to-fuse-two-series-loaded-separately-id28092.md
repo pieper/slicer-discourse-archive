@@ -1,3 +1,10 @@
+---
+topic_id: 28092
+title: "Stitcher Extension To Fuse Two Series Loaded Separately"
+date: 2023-02-28
+url: https://discourse.slicer.org/t/28092
+---
+
 # Stitcher extension to fuse two series loaded separately
 
 **Topic ID**: 28092

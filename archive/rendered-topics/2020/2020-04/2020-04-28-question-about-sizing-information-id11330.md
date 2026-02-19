@@ -1,3 +1,10 @@
+---
+topic_id: 11330
+title: "Question About Sizing Information"
+date: 2020-04-28
+url: https://discourse.slicer.org/t/11330
+---
+
 # question about sizing information
 
 **Topic ID**: 11330

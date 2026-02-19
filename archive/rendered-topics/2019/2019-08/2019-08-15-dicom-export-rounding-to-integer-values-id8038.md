@@ -1,3 +1,10 @@
+---
+topic_id: 8038
+title: "Dicom Export Rounding To Integer Values"
+date: 2019-08-15
+url: https://discourse.slicer.org/t/8038
+---
+
 # DICOM Export Rounding to Integer Values
 
 **Topic ID**: 8038

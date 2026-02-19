@@ -1,3 +1,10 @@
+---
+topic_id: 15787
+title: "Modules Not Loading After Installing Some Python Libraries T"
+date: 2021-02-02
+url: https://discourse.slicer.org/t/15787
+---
+
 # Modules not loading after installing some python libraries through the python console
 
 **Topic ID**: 15787

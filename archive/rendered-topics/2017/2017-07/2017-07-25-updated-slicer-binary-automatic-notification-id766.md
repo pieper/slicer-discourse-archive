@@ -1,3 +1,10 @@
+---
+topic_id: 766
+title: "Updated Slicer Binary Automatic Notification"
+date: 2017-07-25
+url: https://discourse.slicer.org/t/766
+---
+
 # Updated Slicer binary automatic notification
 
 **Topic ID**: 766

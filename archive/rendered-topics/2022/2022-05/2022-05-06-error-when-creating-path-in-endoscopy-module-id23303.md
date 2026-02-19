@@ -1,3 +1,10 @@
+---
+topic_id: 23303
+title: "Error When Creating Path In Endoscopy Module"
+date: 2022-05-06
+url: https://discourse.slicer.org/t/23303
+---
+
 # Error when creating path in Endoscopy module
 
 **Topic ID**: 23303

@@ -1,3 +1,10 @@
+---
+topic_id: 40889
+title: "Missing Image Loading In Dicom Files"
+date: 2024-12-29
+url: https://discourse.slicer.org/t/40889
+---
+
 # Missing image loading in dicom files
 
 **Topic ID**: 40889

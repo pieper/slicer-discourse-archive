@@ -1,3 +1,10 @@
+---
+topic_id: 13528
+title: "Annotations In 3D Slicer To Prepare Training Datasets"
+date: 2020-09-17
+url: https://discourse.slicer.org/t/13528
+---
+
 # Annotations in 3D slicer to prepare training datasets
 
 **Topic ID**: 13528

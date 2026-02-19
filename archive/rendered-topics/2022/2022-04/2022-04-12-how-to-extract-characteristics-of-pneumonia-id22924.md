@@ -1,3 +1,10 @@
+---
+topic_id: 22924
+title: "How To Extract Characteristics Of Pneumonia"
+date: 2022-04-12
+url: https://discourse.slicer.org/t/22924
+---
+
 # How to extract characteristics of pneumonia?
 
 **Topic ID**: 22924

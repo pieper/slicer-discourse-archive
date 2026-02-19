@@ -1,3 +1,10 @@
+---
+topic_id: 12069
+title: "Adjust Volume Rendering Transfer Function In Python"
+date: 2020-06-17
+url: https://discourse.slicer.org/t/12069
+---
+
 # Adjust volume rendering transfer function in Python
 
 **Topic ID**: 12069

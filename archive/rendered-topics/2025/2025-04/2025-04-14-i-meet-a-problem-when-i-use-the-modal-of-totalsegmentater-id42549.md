@@ -1,3 +1,10 @@
+---
+topic_id: 42549
+title: "I Meet A Problem When I Use The Modal Of Totalsegmentater"
+date: 2025-04-14
+url: https://discourse.slicer.org/t/42549
+---
+
 # I meet a problem when I use the modal of totalsegmentater
 
 **Topic ID**: 42549

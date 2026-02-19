@@ -1,3 +1,10 @@
+---
+topic_id: 3455
+title: "Export Axial Sagittal And Coronal View Of Models As Volume"
+date: 2018-07-11
+url: https://discourse.slicer.org/t/3455
+---
+
 # Export axial, sagittal, and coronal view of models as volume
 
 **Topic ID**: 3455

@@ -1,3 +1,10 @@
+---
+topic_id: 1602
+title: "Interaction Mode"
+date: 2017-12-06
+url: https://discourse.slicer.org/t/1602
+---
+
 # Interaction Mode
 
 **Topic ID**: 1602

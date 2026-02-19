@@ -1,3 +1,10 @@
+---
+topic_id: 7744
+title: "Transform Model Rotate And Translate Remove Box"
+date: 2019-07-24
+url: https://discourse.slicer.org/t/7744
+---
+
 # Transform Model-rotate and translate remove box
 
 **Topic ID**: 7744

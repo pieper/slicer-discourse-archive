@@ -1,3 +1,10 @@
+---
+topic_id: 18066
+title: "Write Python Bindings"
+date: 2021-06-10
+url: https://discourse.slicer.org/t/18066
+---
+
 # Write python bindings
 
 **Topic ID**: 18066

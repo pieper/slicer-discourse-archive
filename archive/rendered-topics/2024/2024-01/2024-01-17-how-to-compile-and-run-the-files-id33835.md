@@ -1,3 +1,10 @@
+---
+topic_id: 33835
+title: "How To Compile And Run The Files"
+date: 2024-01-17
+url: https://discourse.slicer.org/t/33835
+---
+
 # How to compile and run the files.
 
 **Topic ID**: 33835

@@ -1,3 +1,10 @@
+---
+topic_id: 2302
+title: "Affine Matrices Insight Format With Tag Matrixoffsettransfor"
+date: 2018-03-13
+url: https://discourse.slicer.org/t/2302
+---
+
 # Affine matrices (Insight format) with tag MatrixOffsetTransformBase_double_3_3 cannot be loaded into Slicer anymore
 
 **Topic ID**: 2302

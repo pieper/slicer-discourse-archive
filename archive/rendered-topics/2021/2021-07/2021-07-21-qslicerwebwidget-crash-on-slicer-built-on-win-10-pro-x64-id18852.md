@@ -1,3 +1,10 @@
+---
+topic_id: 18852
+title: "Qslicerwebwidget Crash On Slicer Built On Win 10 Pro X64"
+date: 2021-07-21
+url: https://discourse.slicer.org/t/18852
+---
+
 # qSlicerWebWidget crash on Slicer built on Win 10 Pro x64
 
 **Topic ID**: 18852

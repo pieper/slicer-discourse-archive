@@ -1,3 +1,10 @@
+---
+topic_id: 14330
+title: "Grid Transform Set Getijktorasmatrix"
+date: 2020-10-30
+url: https://discourse.slicer.org/t/14330
+---
+
 # Grid transform Set-/GetIJKToRASMatrix
 
 **Topic ID**: 14330

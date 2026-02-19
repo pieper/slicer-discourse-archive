@@ -1,3 +1,10 @@
+---
+topic_id: 11021
+title: "Importing Segmented Mr Image In Nifti Format To 3D"
+date: 2020-04-06
+url: https://discourse.slicer.org/t/11021
+---
+
 # Importing segmented MR image in NIfTI format to 3D
 
 **Topic ID**: 11021

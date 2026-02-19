@@ -1,3 +1,10 @@
+---
+topic_id: 21894
+title: "Ways To Fix Video Lag Issue With Plus Server"
+date: 2022-02-10
+url: https://discourse.slicer.org/t/21894
+---
+
 # Ways to Fix Video Lag Issue with Plus Server
 
 **Topic ID**: 21894

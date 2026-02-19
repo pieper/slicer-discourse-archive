@@ -1,3 +1,10 @@
+---
+topic_id: 23704
+title: "Is There Any Way Yo Directly Extract An Image From Vtkimaged"
+date: 2022-06-04
+url: https://discourse.slicer.org/t/23704
+---
+
 # Is there any way yo directly extract an image from vtkImageData to export it as a tiff/png image?
 
 **Topic ID**: 23704

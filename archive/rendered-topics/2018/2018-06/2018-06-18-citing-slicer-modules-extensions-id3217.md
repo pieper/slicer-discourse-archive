@@ -1,3 +1,10 @@
+---
+topic_id: 3217
+title: "Citing Slicer Modules Extensions"
+date: 2018-06-18
+url: https://discourse.slicer.org/t/3217
+---
+
 # Citing Slicer modules/extensions
 
 **Topic ID**: 3217

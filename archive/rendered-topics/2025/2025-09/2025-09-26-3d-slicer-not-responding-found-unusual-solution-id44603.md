@@ -1,3 +1,10 @@
+---
+topic_id: 44603
+title: "3D Slicer Not Responding Found Unusual Solution"
+date: 2025-09-26
+url: https://discourse.slicer.org/t/44603
+---
+
 # 3D slicer not responding - Found unusual solution
 
 **Topic ID**: 44603

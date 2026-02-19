@@ -1,3 +1,10 @@
+---
+topic_id: 29207
+title: "Anyone Help Me To Improve The Accuracy Of Registration Betwe"
+date: 2023-04-29
+url: https://discourse.slicer.org/t/29207
+---
+
 # Anyone help me to improve the accuracy of registration between abdominal CT and abdominal MRI
 
 **Topic ID**: 29207

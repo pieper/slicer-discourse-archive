@@ -1,3 +1,10 @@
+---
+topic_id: 26618
+title: "How To Use Neurosegmentation Extension"
+date: 2022-12-07
+url: https://discourse.slicer.org/t/26618
+---
+
 # How to use NeuroSegmentation extension?
 
 **Topic ID**: 26618

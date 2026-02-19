@@ -1,3 +1,10 @@
+---
+topic_id: 12836
+title: "Slicer Downloads Are Warned As Unsecure By Google Chrome"
+date: 2020-08-03
+url: https://discourse.slicer.org/t/12836
+---
+
 # Slicer downloads are warned as unsecure by Google Chrome
 
 **Topic ID**: 12836

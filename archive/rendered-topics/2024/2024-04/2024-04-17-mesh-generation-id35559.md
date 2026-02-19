@@ -1,3 +1,10 @@
+---
+topic_id: 35559
+title: "Mesh Generation"
+date: 2024-04-17
+url: https://discourse.slicer.org/t/35559
+---
+
 # Mesh generation
 
 **Topic ID**: 35559

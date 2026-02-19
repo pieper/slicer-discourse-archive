@@ -1,3 +1,10 @@
+---
+topic_id: 14711
+title: "Cutting Model With Planes Using Dynamic Modeler"
+date: 2020-11-20
+url: https://discourse.slicer.org/t/14711
+---
+
 # Cutting model with planes using dynamic modeler
 
 **Topic ID**: 14711

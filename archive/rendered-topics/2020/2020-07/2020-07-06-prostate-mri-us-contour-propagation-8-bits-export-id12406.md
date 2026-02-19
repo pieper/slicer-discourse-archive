@@ -1,3 +1,10 @@
+---
+topic_id: 12406
+title: "Prostate Mri Us Contour Propagation 8 Bits Export"
+date: 2020-07-06
+url: https://discourse.slicer.org/t/12406
+---
+
 # Prostate MRI-US Contour Propagation 8 bits export 
 
 **Topic ID**: 12406

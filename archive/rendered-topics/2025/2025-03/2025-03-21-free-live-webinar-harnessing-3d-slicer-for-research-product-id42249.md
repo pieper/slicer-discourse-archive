@@ -1,3 +1,10 @@
+---
+topic_id: 42249
+title: "Free Live Webinar Harnessing 3D Slicer For Research Product"
+date: 2025-03-21
+url: https://discourse.slicer.org/t/42249
+---
+
 # Free Live Webinar: Harnessing 3D Slicer for Research & Product Development
 
 **Topic ID**: 42249

@@ -1,3 +1,10 @@
+---
+topic_id: 18871
+title: "What Are The Underlying Methods Used In Segment Editor"
+date: 2021-07-22
+url: https://discourse.slicer.org/t/18871
+---
+
 # What are the underlying methods used in Segment Editor?
 
 **Topic ID**: 18871

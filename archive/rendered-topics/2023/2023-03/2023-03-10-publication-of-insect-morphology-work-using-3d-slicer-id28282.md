@@ -1,3 +1,10 @@
+---
+topic_id: 28282
+title: "Publication Of Insect Morphology Work Using 3D Slicer"
+date: 2023-03-10
+url: https://discourse.slicer.org/t/28282
+---
+
 # Publication of insect morphology work using 3D Slicer
 
 **Topic ID**: 28282

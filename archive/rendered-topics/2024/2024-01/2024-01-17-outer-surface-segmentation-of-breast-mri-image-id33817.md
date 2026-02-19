@@ -1,3 +1,10 @@
+---
+topic_id: 33817
+title: "Outer Surface Segmentation Of Breast Mri Image"
+date: 2024-01-17
+url: https://discourse.slicer.org/t/33817
+---
+
 # Outer surface segmentation of breast MRI image
 
 **Topic ID**: 33817

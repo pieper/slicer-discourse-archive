@@ -1,3 +1,10 @@
+---
+topic_id: 33169
+title: "Export Axial Image Stack As Bmp Tiff"
+date: 2023-12-01
+url: https://discourse.slicer.org/t/33169
+---
+
 # Export axial image stack as BMP/TIFF
 
 **Topic ID**: 33169

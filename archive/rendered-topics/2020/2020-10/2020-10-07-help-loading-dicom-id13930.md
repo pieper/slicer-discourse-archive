@@ -1,3 +1,10 @@
+---
+topic_id: 13930
+title: "Help Loading Dicom"
+date: 2020-10-07
+url: https://discourse.slicer.org/t/13930
+---
+
 # Help loading DICOM
 
 **Topic ID**: 13930

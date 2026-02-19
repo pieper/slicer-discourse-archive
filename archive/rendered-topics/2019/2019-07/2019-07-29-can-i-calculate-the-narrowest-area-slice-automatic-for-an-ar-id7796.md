@@ -1,3 +1,10 @@
+---
+topic_id: 7796
+title: "Can I Calculate The Narrowest Area Slice Automatic For An Ar"
+date: 2019-07-29
+url: https://discourse.slicer.org/t/7796
+---
+
 # Can I calculate the narrowest area slice automatic for an artery from CTA
 
 **Topic ID**: 7796

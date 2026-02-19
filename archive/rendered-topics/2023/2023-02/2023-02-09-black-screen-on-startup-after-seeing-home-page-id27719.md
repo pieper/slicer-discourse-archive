@@ -1,3 +1,10 @@
+---
+topic_id: 27719
+title: "Black Screen On Startup After Seeing Home Page"
+date: 2023-02-09
+url: https://discourse.slicer.org/t/27719
+---
+
 # Black screen on startup after seeing home page 
 
 **Topic ID**: 27719

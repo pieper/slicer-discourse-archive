@@ -1,3 +1,10 @@
+---
+topic_id: 11985
+title: "Why Growing Segment By 10Mm Margin Is Different From Growing"
+date: 2020-06-10
+url: https://discourse.slicer.org/t/11985
+---
+
 # Why growing segment by 10mm margin is different from growing by 5mm margin twice
 
 **Topic ID**: 11985

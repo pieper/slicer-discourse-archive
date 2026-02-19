@@ -1,3 +1,10 @@
+---
+topic_id: 2109
+title: "Add Data Does Not Load"
+date: 2018-02-18
+url: https://discourse.slicer.org/t/2109
+---
+
 # Add DATA - does not load
 
 **Topic ID**: 2109

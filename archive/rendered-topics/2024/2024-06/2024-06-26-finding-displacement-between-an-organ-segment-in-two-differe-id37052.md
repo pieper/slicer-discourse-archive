@@ -1,3 +1,10 @@
+---
+topic_id: 37052
+title: "Finding Displacement Between An Organ Segment In Two Differe"
+date: 2024-06-26
+url: https://discourse.slicer.org/t/37052
+---
+
 # Finding displacement between an organ segment in two different CT Scans
 
 **Topic ID**: 37052

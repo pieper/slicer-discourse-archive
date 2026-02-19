@@ -1,3 +1,10 @@
+---
+topic_id: 1297
+title: "How Can I Change The Position Color And Size Of The Measurem"
+date: 2017-10-27
+url: https://discourse.slicer.org/t/1297
+---
+
 # How can I change the position, color, and size of the measurement using ruler tool?
 
 **Topic ID**: 1297

@@ -1,3 +1,10 @@
+---
+topic_id: 39458
+title: "Exporting Multiecho Mri Data From Slicer"
+date: 2024-09-30
+url: https://discourse.slicer.org/t/39458
+---
+
 # Exporting Multiecho MRI data from Slicer
 
 **Topic ID**: 39458

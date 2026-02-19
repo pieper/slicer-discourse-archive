@@ -1,3 +1,10 @@
+---
+topic_id: 25111
+title: "Export Volume Or Segment To Stl File With Python"
+date: 2022-09-05
+url: https://discourse.slicer.org/t/25111
+---
+
 # Export volume (or segment?) to stl file with python
 
 **Topic ID**: 25111

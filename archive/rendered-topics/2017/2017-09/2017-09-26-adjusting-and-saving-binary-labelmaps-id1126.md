@@ -1,3 +1,10 @@
+---
+topic_id: 1126
+title: "Adjusting And Saving Binary Labelmaps"
+date: 2017-09-26
+url: https://discourse.slicer.org/t/1126
+---
+
 # Adjusting and saving binary labelmaps
 
 **Topic ID**: 1126

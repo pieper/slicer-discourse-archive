@@ -1,3 +1,10 @@
+---
+topic_id: 1757
+title: "Dicecomputation Module Does Not Calculate"
+date: 2018-01-02
+url: https://discourse.slicer.org/t/1757
+---
+
 # DiceComputation module does not calculate
 
 **Topic ID**: 1757

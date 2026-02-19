@@ -1,3 +1,10 @@
+---
+topic_id: 2679
+title: "Slicer Build In Linux Freezes When Building Simpleitk"
+date: 2018-04-25
+url: https://discourse.slicer.org/t/2679
+---
+
 # Slicer build in linux freezes when building simpleitk
 
 **Topic ID**: 2679

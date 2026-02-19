@@ -1,3 +1,10 @@
+---
+topic_id: 26567
+title: "Save Error Or Loading Files Error"
+date: 2022-12-04
+url: https://discourse.slicer.org/t/26567
+---
+
 # Save error or loading files error
 
 **Topic ID**: 26567

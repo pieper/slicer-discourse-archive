@@ -1,3 +1,10 @@
+---
+topic_id: 38160
+title: "Cartilage Thickness"
+date: 2024-09-02
+url: https://discourse.slicer.org/t/38160
+---
+
 # Cartilage Thickness
 
 **Topic ID**: 38160

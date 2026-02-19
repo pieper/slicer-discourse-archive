@@ -1,3 +1,10 @@
+---
+topic_id: 30110
+title: "3D Visualization Method In Slicer"
+date: 2023-06-18
+url: https://discourse.slicer.org/t/30110
+---
+
 # 3D Visualization Method in Slicer
 
 **Topic ID**: 30110

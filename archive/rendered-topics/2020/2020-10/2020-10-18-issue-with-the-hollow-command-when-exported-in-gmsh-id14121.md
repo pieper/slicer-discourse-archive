@@ -1,3 +1,10 @@
+---
+topic_id: 14121
+title: "Issue With The Hollow Command When Exported In Gmsh"
+date: 2020-10-18
+url: https://discourse.slicer.org/t/14121
+---
+
 # Issue with the Hollow command when exported in GMSH
 
 **Topic ID**: 14121

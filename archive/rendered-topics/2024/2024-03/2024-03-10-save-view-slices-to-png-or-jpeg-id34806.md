@@ -1,3 +1,10 @@
+---
+topic_id: 34806
+title: "Save View Slices To Png Or Jpeg"
+date: 2024-03-10
+url: https://discourse.slicer.org/t/34806
+---
+
 # Save view slices to .PNG or .jpeg
 
 **Topic ID**: 34806

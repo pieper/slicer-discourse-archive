@@ -1,3 +1,10 @@
+---
+topic_id: 23657
+title: "How To Fill Gaps Locally"
+date: 2022-05-31
+url: https://discourse.slicer.org/t/23657
+---
+
 # How to fill gaps locally? 
 
 **Topic ID**: 23657

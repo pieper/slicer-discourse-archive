@@ -1,3 +1,10 @@
+---
+topic_id: 34395
+title: "Isodose Model Is Only 1 File For All Of Them"
+date: 2024-02-19
+url: https://discourse.slicer.org/t/34395
+---
+
 # Isodose model is only 1 file for all of them
 
 **Topic ID**: 34395

@@ -1,3 +1,10 @@
+---
+topic_id: 29018
+title: "Finding The Jacobian Of A 3D Image Transform"
+date: 2023-04-20
+url: https://discourse.slicer.org/t/29018
+---
+
 # Finding the Jacobian of a 3D image transform
 
 **Topic ID**: 29018

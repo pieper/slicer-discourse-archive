@@ -1,3 +1,10 @@
+---
+topic_id: 23961
+title: "Fyi Small Patch To Build Slicer On Arch Linux"
+date: 2022-06-20
+url: https://discourse.slicer.org/t/23961
+---
+
 # FYI : small patch to build Slicer on Arch Linux
 
 **Topic ID**: 23961

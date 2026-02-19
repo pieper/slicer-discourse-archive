@@ -1,3 +1,10 @@
+---
+topic_id: 35903
+title: "Collor Map According Hounsfield Unit"
+date: 2024-05-03
+url: https://discourse.slicer.org/t/35903
+---
+
 # Collor map according Hounsfield unit
 
 **Topic ID**: 35903

@@ -1,3 +1,10 @@
+---
+topic_id: 29429
+title: "How Can I Do Fiducial Registration Using Python"
+date: 2023-05-12
+url: https://discourse.slicer.org/t/29429
+---
+
 # How Can I Do Fiducial Registration using Python?
 
 **Topic ID**: 29429

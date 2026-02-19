@@ -1,3 +1,10 @@
+---
+topic_id: 32204
+title: "3D Registration Of 3D Microscopy Images"
+date: 2023-10-13
+url: https://discourse.slicer.org/t/32204
+---
+
 # 3D registration of 3D microscopy images
 
 **Topic ID**: 32204

@@ -1,3 +1,10 @@
+---
+topic_id: 42809
+title: "Python Console Messages"
+date: 2025-05-06
+url: https://discourse.slicer.org/t/42809
+---
+
 # Python console messages
 
 **Topic ID**: 42809

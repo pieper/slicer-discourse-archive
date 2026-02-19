@@ -1,3 +1,10 @@
+---
+topic_id: 5666
+title: "Export Dicom Spect Values Higher Than 2 16"
+date: 2019-02-06
+url: https://discourse.slicer.org/t/5666
+---
+
 # Export DICOM SPECT, values higher than 2^16
 
 **Topic ID**: 5666

@@ -1,3 +1,10 @@
+---
+topic_id: 4743
+title: "2018 11 13 Hangout Cancelled Project Week Calls Start This W"
+date: 2018-11-13
+url: https://discourse.slicer.org/t/4743
+---
+
 # 2018.11.13 Hangout - Cancelled (Project week calls start this week)
 
 **Topic ID**: 4743

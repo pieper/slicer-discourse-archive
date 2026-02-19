@@ -1,3 +1,10 @@
+---
+topic_id: 19596
+title: "Nvidia For Liver Segmentation Using Segment From The Boundar"
+date: 2021-09-09
+url: https://discourse.slicer.org/t/19596
+---
+
 # Nvidia for liver segmentation using segment from the boundary point
 
 **Topic ID**: 19596

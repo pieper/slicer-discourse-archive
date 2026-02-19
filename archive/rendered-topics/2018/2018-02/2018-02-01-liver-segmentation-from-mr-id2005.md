@@ -1,3 +1,10 @@
+---
+topic_id: 2005
+title: "Liver Segmentation From Mr"
+date: 2018-02-01
+url: https://discourse.slicer.org/t/2005
+---
+
 # Liver Segmentation from MR
 
 **Topic ID**: 2005

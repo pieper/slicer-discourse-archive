@@ -1,3 +1,10 @@
+---
+topic_id: 24546
+title: "Exporting Centerline Data To Fusion 360"
+date: 2022-07-28
+url: https://discourse.slicer.org/t/24546
+---
+
 # Exporting Centerline Data to Fusion 360
 
 **Topic ID**: 24546

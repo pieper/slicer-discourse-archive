@@ -1,3 +1,10 @@
+---
+topic_id: 19322
+title: "Automated Brain Segmentation Into White Matter Volume Gmv An"
+date: 2021-08-23
+url: https://discourse.slicer.org/t/19322
+---
+
 # Automated brain segmentation into White Matter Volume, GMV, and CSF Vol?
 
 **Topic ID**: 19322

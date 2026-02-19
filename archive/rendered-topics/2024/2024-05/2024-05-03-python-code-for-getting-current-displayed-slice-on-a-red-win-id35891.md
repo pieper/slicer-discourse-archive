@@ -1,3 +1,10 @@
+---
+topic_id: 35891
+title: "Python Code For Getting Current Displayed Slice On A Red Win"
+date: 2024-05-03
+url: https://discourse.slicer.org/t/35891
+---
+
 # Python code for getting current displayed slice on a red window
 
 **Topic ID**: 35891

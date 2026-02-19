@@ -1,3 +1,10 @@
+---
+topic_id: 12165
+title: "Different Results With Different Versions Of Pyradiomics O R"
+date: 2020-06-23
+url: https://discourse.slicer.org/t/12165
+---
+
 # Different results with different versions of pyradiomics +/- O-RAW
 
 **Topic ID**: 12165

@@ -1,3 +1,10 @@
+---
+topic_id: 29127
+title: "Create Gridlines In 3D View Similar To The Effect In The Fig"
+date: 2023-04-26
+url: https://discourse.slicer.org/t/29127
+---
+
 # Create gridlines in 3D view, similar to the effect in the figure
 
 **Topic ID**: 29127

@@ -1,3 +1,10 @@
+---
+topic_id: 24967
+title: "Mouse Click Over Slice"
+date: 2022-08-28
+url: https://discourse.slicer.org/t/24967
+---
+
 # Mouse click over slice
 
 **Topic ID**: 24967

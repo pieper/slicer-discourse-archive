@@ -1,3 +1,10 @@
+---
+topic_id: 6851
+title: "Diffusion Tensor Exportation To Matlab"
+date: 2019-05-20
+url: https://discourse.slicer.org/t/6851
+---
+
 # Diffusion tensor exportation to matlab
 
 **Topic ID**: 6851

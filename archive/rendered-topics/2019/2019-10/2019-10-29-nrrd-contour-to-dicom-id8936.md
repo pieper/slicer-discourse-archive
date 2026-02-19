@@ -1,3 +1,10 @@
+---
+topic_id: 8936
+title: "Nrrd Contour To Dicom"
+date: 2019-10-29
+url: https://discourse.slicer.org/t/8936
+---
+
 # NRRD contour  to Dicom 
 
 **Topic ID**: 8936

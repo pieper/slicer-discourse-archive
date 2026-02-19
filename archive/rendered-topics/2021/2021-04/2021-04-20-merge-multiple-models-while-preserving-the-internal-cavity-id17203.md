@@ -1,3 +1,10 @@
+---
+topic_id: 17203
+title: "Merge Multiple Models While Preserving The Internal Cavity"
+date: 2021-04-20
+url: https://discourse.slicer.org/t/17203
+---
+
 # Merge multiple models while preserving the internal cavity
 
 **Topic ID**: 17203

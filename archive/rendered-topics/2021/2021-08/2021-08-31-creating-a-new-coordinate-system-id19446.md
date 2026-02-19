@@ -1,3 +1,10 @@
+---
+topic_id: 19446
+title: "Creating A New Coordinate System"
+date: 2021-08-31
+url: https://discourse.slicer.org/t/19446
+---
+
 # Creating a new coordinate system
 
 **Topic ID**: 19446

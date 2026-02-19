@@ -1,3 +1,10 @@
+---
+topic_id: 19304
+title: "About D Pointer Structure Of Slicer Application"
+date: 2021-08-23
+url: https://discourse.slicer.org/t/19304
+---
+
 # About d pointer structure of slicer application
 
 **Topic ID**: 19304

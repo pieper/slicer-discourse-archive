@@ -1,3 +1,10 @@
+---
+topic_id: 19630
+title: "Surface Intersection"
+date: 2021-09-12
+url: https://discourse.slicer.org/t/19630
+---
+
 # Surface Intersection
 
 **Topic ID**: 19630

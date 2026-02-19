@@ -1,3 +1,10 @@
+---
+topic_id: 21000
+title: "Problem On Start Horizontal Green Stripes"
+date: 2021-12-10
+url: https://discourse.slicer.org/t/21000
+---
+
 # Problem on start: horizontal green stripes
 
 **Topic ID**: 21000

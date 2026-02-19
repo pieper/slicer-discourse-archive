@@ -1,3 +1,10 @@
+---
+topic_id: 39736
+title: "Using Webserver Dicomweb Interface With Ohif Cors Enabled"
+date: 2024-10-17
+url: https://discourse.slicer.org/t/39736
+---
+
 # Using Webserver DicomWeb interface with OHIF (CORS enabled)
 
 **Topic ID**: 39736

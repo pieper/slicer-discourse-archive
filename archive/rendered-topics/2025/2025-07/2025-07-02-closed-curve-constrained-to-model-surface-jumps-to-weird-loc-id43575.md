@@ -1,3 +1,10 @@
+---
+topic_id: 43575
+title: "Closed Curve Constrained To Model Surface Jumps To Weird Loc"
+date: 2025-07-02
+url: https://discourse.slicer.org/t/43575
+---
+
 # Closed curve constrained to model surface jumps to weird locations
 
 **Topic ID**: 43575

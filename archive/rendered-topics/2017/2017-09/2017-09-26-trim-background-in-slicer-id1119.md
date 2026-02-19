@@ -1,3 +1,10 @@
+---
+topic_id: 1119
+title: "Trim Background In Slicer"
+date: 2017-09-26
+url: https://discourse.slicer.org/t/1119
+---
+
 # Trim background in slicer
 
 **Topic ID**: 1119

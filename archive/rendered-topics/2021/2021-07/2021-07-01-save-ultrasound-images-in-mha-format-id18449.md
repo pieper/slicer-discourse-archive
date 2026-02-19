@@ -1,3 +1,10 @@
+---
+topic_id: 18449
+title: "Save Ultrasound Images In Mha Format"
+date: 2021-07-01
+url: https://discourse.slicer.org/t/18449
+---
+
 # Save ultrasound images in mha format
 
 **Topic ID**: 18449

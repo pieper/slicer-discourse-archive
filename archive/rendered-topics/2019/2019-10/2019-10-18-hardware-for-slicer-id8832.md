@@ -1,3 +1,10 @@
+---
+topic_id: 8832
+title: "Hardware For Slicer"
+date: 2019-10-18
+url: https://discourse.slicer.org/t/8832
+---
+
 # Hardware for slicer
 
 **Topic ID**: 8832

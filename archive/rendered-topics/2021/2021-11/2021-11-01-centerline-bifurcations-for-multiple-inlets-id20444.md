@@ -1,3 +1,10 @@
+---
+topic_id: 20444
+title: "Centerline Bifurcations For Multiple Inlets"
+date: 2021-11-01
+url: https://discourse.slicer.org/t/20444
+---
+
 # Centerline bifurcations for multiple inlets
 
 **Topic ID**: 20444

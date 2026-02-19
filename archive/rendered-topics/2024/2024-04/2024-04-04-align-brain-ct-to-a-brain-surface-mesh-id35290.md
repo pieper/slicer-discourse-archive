@@ -1,3 +1,10 @@
+---
+topic_id: 35290
+title: "Align Brain Ct To A Brain Surface Mesh"
+date: 2024-04-04
+url: https://discourse.slicer.org/t/35290
+---
+
 # Align Brain CT to a Brain Surface Mesh
 
 **Topic ID**: 35290

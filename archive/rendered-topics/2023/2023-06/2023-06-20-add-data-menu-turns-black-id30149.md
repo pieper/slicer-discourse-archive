@@ -1,3 +1,10 @@
+---
+topic_id: 30149
+title: "Add Data Menu Turns Black"
+date: 2023-06-20
+url: https://discourse.slicer.org/t/30149
+---
+
 # Add Data menu turns black
 
 **Topic ID**: 30149

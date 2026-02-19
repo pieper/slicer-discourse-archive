@@ -1,3 +1,10 @@
+---
+topic_id: 21907
+title: "How To Make Construct Trabecular Images"
+date: 2022-02-11
+url: https://discourse.slicer.org/t/21907
+---
+
 # how to make construct trabecular images?
 
 **Topic ID**: 21907

@@ -1,3 +1,10 @@
+---
+topic_id: 23177
+title: "Using The Show 3D Smoothing Algorithm On Exported Meshes"
+date: 2022-04-28
+url: https://discourse.slicer.org/t/23177
+---
+
 # Using the show 3D smoothing algorithm on exported meshes
 
 **Topic ID**: 23177

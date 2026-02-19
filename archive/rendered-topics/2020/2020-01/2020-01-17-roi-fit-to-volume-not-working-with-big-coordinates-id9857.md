@@ -1,3 +1,10 @@
+---
+topic_id: 9857
+title: "Roi Fit To Volume Not Working With Big Coordinates"
+date: 2020-01-17
+url: https://discourse.slicer.org/t/9857
+---
+
 # ROI fit to volume not working with big coordinates
 
 **Topic ID**: 9857

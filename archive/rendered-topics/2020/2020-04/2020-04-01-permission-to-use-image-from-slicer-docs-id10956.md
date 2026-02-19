@@ -1,3 +1,10 @@
+---
+topic_id: 10956
+title: "Permission To Use Image From Slicer Docs"
+date: 2020-04-01
+url: https://discourse.slicer.org/t/10956
+---
+
 # Permission to use image from Slicer docs
 
 **Topic ID**: 10956

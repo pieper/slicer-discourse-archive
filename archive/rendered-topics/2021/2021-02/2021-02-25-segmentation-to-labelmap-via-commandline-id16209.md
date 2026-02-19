@@ -1,3 +1,10 @@
+---
+topic_id: 16209
+title: "Segmentation To Labelmap Via Commandline"
+date: 2021-02-25
+url: https://discourse.slicer.org/t/16209
+---
+
 # Segmentation to labelmap via commandline
 
 **Topic ID**: 16209

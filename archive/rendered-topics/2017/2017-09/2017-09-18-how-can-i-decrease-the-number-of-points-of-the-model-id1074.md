@@ -1,3 +1,10 @@
+---
+topic_id: 1074
+title: "How Can I Decrease The Number Of Points Of The Model"
+date: 2017-09-18
+url: https://discourse.slicer.org/t/1074
+---
+
 # How can I decrease the number of points of the model?
 
 **Topic ID**: 1074

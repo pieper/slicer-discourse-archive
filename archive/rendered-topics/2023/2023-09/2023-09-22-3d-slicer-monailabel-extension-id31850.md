@@ -1,3 +1,10 @@
+---
+topic_id: 31850
+title: "3D Slicer Monailabel Extension"
+date: 2023-09-22
+url: https://discourse.slicer.org/t/31850
+---
+
 # 3D Slicer MONAILabel Extension
 
 **Topic ID**: 31850

@@ -1,3 +1,10 @@
+---
+topic_id: 42787
+title: "How To Display 2D Time Series Such As Cine In 3D Slicer"
+date: 2025-05-04
+url: https://discourse.slicer.org/t/42787
+---
+
 # how to display 2D time series such as Cine in 3D Slicer
 
 **Topic ID**: 42787

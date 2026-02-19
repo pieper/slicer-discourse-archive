@@ -1,3 +1,10 @@
+---
+topic_id: 12258
+title: "Refinement Of 3D Models"
+date: 2020-06-28
+url: https://discourse.slicer.org/t/12258
+---
+
 # Refinement of 3D models
 
 **Topic ID**: 12258

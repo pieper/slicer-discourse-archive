@@ -1,3 +1,10 @@
+---
+topic_id: 333
+title: "Draw Segment Contour With Attracted To Edges"
+date: 2017-05-17
+url: https://discourse.slicer.org/t/333
+---
+
 # Draw segment contour with attracted to edges
 
 **Topic ID**: 333

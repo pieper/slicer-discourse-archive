@@ -1,3 +1,10 @@
+---
+topic_id: 36711
+title: "Load Image With Correct Orientation"
+date: 2024-06-12
+url: https://discourse.slicer.org/t/36711
+---
+
 # Load image with correct orientation
 
 **Topic ID**: 36711

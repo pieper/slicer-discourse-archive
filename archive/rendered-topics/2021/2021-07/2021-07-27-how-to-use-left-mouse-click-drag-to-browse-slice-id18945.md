@@ -1,3 +1,10 @@
+---
+topic_id: 18945
+title: "How To Use Left Mouse Click Drag To Browse Slice"
+date: 2021-07-27
+url: https://discourse.slicer.org/t/18945
+---
+
 # how to use left mouse click & drag to browse slice
 
 **Topic ID**: 18945

@@ -1,3 +1,10 @@
+---
+topic_id: 35120
+title: "How To Pick A Point In Volume Rendering"
+date: 2024-03-27
+url: https://discourse.slicer.org/t/35120
+---
+
 # How to pick a point in volume rendering?
 
 **Topic ID**: 35120

@@ -1,3 +1,10 @@
+---
+topic_id: 6320
+title: "Change Display Range Of Raw File"
+date: 2019-03-28
+url: https://discourse.slicer.org/t/6320
+---
+
 # Change display range of .raw file
 
 **Topic ID**: 6320

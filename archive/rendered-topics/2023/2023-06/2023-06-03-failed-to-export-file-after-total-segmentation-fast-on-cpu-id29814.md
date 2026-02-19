@@ -1,3 +1,10 @@
+---
+topic_id: 29814
+title: "Failed To Export File After Total Segmentation Fast On Cpu"
+date: 2023-06-03
+url: https://discourse.slicer.org/t/29814
+---
+
 # Failed to export file after total segmentation (fast, on CPU)
 
 **Topic ID**: 29814

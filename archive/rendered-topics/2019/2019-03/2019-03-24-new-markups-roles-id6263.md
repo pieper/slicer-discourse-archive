@@ -1,3 +1,10 @@
+---
+topic_id: 6263
+title: "New Markups Roles"
+date: 2019-03-24
+url: https://discourse.slicer.org/t/6263
+---
+
 # New markups roles
 
 **Topic ID**: 6263

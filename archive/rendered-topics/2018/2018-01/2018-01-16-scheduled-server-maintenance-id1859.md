@@ -1,3 +1,10 @@
+---
+topic_id: 1859
+title: "Scheduled Server Maintenance"
+date: 2018-01-16
+url: https://discourse.slicer.org/t/1859
+---
+
 # Scheduled Server Maintenance
 
 **Topic ID**: 1859

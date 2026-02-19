@@ -1,3 +1,10 @@
+---
+topic_id: 14246
+title: "Dmri Extension Files Where Do They End Up"
+date: 2020-10-26
+url: https://discourse.slicer.org/t/14246
+---
+
 # dMRI Extension Files -- Where do they end up?
 
 **Topic ID**: 14246

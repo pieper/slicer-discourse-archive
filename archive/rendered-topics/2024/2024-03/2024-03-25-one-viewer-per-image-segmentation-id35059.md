@@ -1,3 +1,10 @@
+---
+topic_id: 35059
+title: "One Viewer Per Image Segmentation"
+date: 2024-03-25
+url: https://discourse.slicer.org/t/35059
+---
+
 # One viewer per image + segmentation
 
 **Topic ID**: 35059

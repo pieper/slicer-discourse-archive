@@ -1,3 +1,10 @@
+---
+topic_id: 31797
+title: "Update To Slicer Pipelines"
+date: 2023-09-19
+url: https://discourse.slicer.org/t/31797
+---
+
 # Update to Slicer Pipelines
 
 **Topic ID**: 31797

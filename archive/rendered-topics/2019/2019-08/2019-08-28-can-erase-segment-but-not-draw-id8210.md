@@ -1,3 +1,10 @@
+---
+topic_id: 8210
+title: "Can Erase Segment But Not Draw"
+date: 2019-08-28
+url: https://discourse.slicer.org/t/8210
+---
+
 # Can erase segment but not draw
 
 **Topic ID**: 8210

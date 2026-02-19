@@ -1,3 +1,10 @@
+---
+topic_id: 11274
+title: "Renaming Scalar Bar To Color Bar"
+date: 2020-04-23
+url: https://discourse.slicer.org/t/11274
+---
+
 # Renaming Scalar Bar to Color Bar
 
 **Topic ID**: 11274

@@ -1,3 +1,10 @@
+---
+topic_id: 40729
+title: "How To Create Nii Gz Inside Labelstr Directory By Using 3D S"
+date: 2024-12-17
+url: https://discourse.slicer.org/t/40729
+---
+
 # How to create nii.gz inside LabelsTr directory by using 3D Slicer or python script? 
 
 **Topic ID**: 40729

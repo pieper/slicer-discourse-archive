@@ -1,3 +1,10 @@
+---
+topic_id: 16139
+title: "3D Colored Model To Segmentations"
+date: 2021-02-22
+url: https://discourse.slicer.org/t/16139
+---
+
 # 3D colored model to segmentations
 
 **Topic ID**: 16139

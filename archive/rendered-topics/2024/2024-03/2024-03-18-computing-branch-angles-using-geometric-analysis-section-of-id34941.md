@@ -1,3 +1,10 @@
+---
+topic_id: 34941
+title: "Computing Branch Angles Using Geometric Analysis Section Of"
+date: 2024-03-18
+url: https://discourse.slicer.org/t/34941
+---
+
 # Computing Branch Angles using 'Geometric Analysis' section of VTMK in Slicer
 
 **Topic ID**: 34941

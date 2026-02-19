@@ -1,3 +1,10 @@
+---
+topic_id: 13925
+title: "Installing Extension Inside A Dockerfile"
+date: 2020-10-07
+url: https://discourse.slicer.org/t/13925
+---
+
 # Installing extension inside a Dockerfile
 
 **Topic ID**: 13925

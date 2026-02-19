@@ -1,3 +1,10 @@
+---
+topic_id: 22385
+title: "Histogram Based Range Selection In Segment Editors Threshold"
+date: 2022-03-08
+url: https://discourse.slicer.org/t/22385
+---
+
 # Histogram based range selection in Segment editor's threshold option frame
 
 **Topic ID**: 22385

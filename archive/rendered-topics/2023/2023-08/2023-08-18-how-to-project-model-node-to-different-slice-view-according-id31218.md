@@ -1,3 +1,10 @@
+---
+topic_id: 31218
+title: "How To Project Model Node To Different Slice View According"
+date: 2023-08-18
+url: https://discourse.slicer.org/t/31218
+---
+
 # How to project model node to different slice view according to their projection geometry
 
 **Topic ID**: 31218

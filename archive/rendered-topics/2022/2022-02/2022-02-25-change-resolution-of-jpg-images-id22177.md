@@ -1,3 +1,10 @@
+---
+topic_id: 22177
+title: "Change Resolution Of Jpg Images"
+date: 2022-02-25
+url: https://discourse.slicer.org/t/22177
+---
+
 # Change resolution of JPG images
 
 **Topic ID**: 22177

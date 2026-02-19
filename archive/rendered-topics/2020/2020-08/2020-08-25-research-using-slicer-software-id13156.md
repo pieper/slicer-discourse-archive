@@ -1,3 +1,10 @@
+---
+topic_id: 13156
+title: "Research Using Slicer Software"
+date: 2020-08-25
+url: https://discourse.slicer.org/t/13156
+---
+
 # research using Slicer software
 
 **Topic ID**: 13156

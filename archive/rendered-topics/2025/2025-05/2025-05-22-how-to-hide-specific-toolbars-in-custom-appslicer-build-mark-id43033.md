@@ -1,3 +1,10 @@
+---
+topic_id: 43033
+title: "How To Hide Specific Toolbars In Custom Appslicer Build Mark"
+date: 2025-05-22
+url: https://discourse.slicer.org/t/43033
+---
+
 # How to Hide Specific Toolbars in Custom AppSlicer Build (Markups, Sequence Browser, etc.)
 
 **Topic ID**: 43033

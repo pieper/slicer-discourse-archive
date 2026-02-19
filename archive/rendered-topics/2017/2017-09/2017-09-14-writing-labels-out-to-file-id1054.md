@@ -1,3 +1,10 @@
+---
+topic_id: 1054
+title: "Writing Labels Out To File"
+date: 2017-09-14
+url: https://discourse.slicer.org/t/1054
+---
+
 # Writing labels out to file
 
 **Topic ID**: 1054

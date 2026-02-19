@@ -1,3 +1,10 @@
+---
+topic_id: 251
+title: "Exporting Segmentations To Dicom"
+date: 2017-05-02
+url: https://discourse.slicer.org/t/251
+---
+
 # Exporting Segmentations to DICOM
 
 **Topic ID**: 251

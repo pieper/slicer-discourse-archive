@@ -1,3 +1,10 @@
+---
+topic_id: 40249
+title: "Project Week 42 Preparation Meetings Start This Tuesday Nove"
+date: 2024-11-18
+url: https://discourse.slicer.org/t/40249
+---
+
 # Project Week 42 preparation meetings start this Tuesday (November 19)
 
 **Topic ID**: 40249

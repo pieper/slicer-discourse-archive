@@ -1,3 +1,10 @@
+---
+topic_id: 30826
+title: "How To Make Specific Of Controller Bar Button Connect To A F"
+date: 2023-07-27
+url: https://discourse.slicer.org/t/30826
+---
+
 # How to make specific of controller bar button connect to a function
 
 **Topic ID**: 30826

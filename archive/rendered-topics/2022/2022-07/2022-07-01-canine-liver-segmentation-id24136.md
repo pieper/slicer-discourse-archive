@@ -1,3 +1,10 @@
+---
+topic_id: 24136
+title: "Canine Liver Segmentation"
+date: 2022-07-01
+url: https://discourse.slicer.org/t/24136
+---
+
 # Canine Liver Segmentation
 
 **Topic ID**: 24136

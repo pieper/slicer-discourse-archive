@@ -1,3 +1,10 @@
+---
+topic_id: 15629
+title: "Changing Segmentation Interpolation Algorithm"
+date: 2021-01-22
+url: https://discourse.slicer.org/t/15629
+---
+
 # Changing segmentation interpolation algorithm?
 
 **Topic ID**: 15629

@@ -1,3 +1,10 @@
+---
+topic_id: 399
+title: "Segmentation And Rotating"
+date: 2017-05-29
+url: https://discourse.slicer.org/t/399
+---
+
 # Segmentation and rotating
 
 **Topic ID**: 399

@@ -1,3 +1,10 @@
+---
+topic_id: 36760
+title: "Dentalsegmentator Error Failed To Load The Segmentation"
+date: 2024-06-13
+url: https://discourse.slicer.org/t/36760
+---
+
 # DentalSegmentator error: "Failed to load the segmentation"
 
 **Topic ID**: 36760

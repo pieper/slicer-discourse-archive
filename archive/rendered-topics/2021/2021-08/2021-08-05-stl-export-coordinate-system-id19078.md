@@ -1,3 +1,10 @@
+---
+topic_id: 19078
+title: "Stl Export Coordinate System"
+date: 2021-08-05
+url: https://discourse.slicer.org/t/19078
+---
+
 # stl export coordinate system?
 
 **Topic ID**: 19078

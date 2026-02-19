@@ -1,3 +1,10 @@
+---
+topic_id: 1951
+title: "Machine Learning Project Questions About Integrating Slicer"
+date: 2018-01-26
+url: https://discourse.slicer.org/t/1951
+---
+
 # Machine Learning Project - Questions about integrating Slicer into workflow
 
 **Topic ID**: 1951

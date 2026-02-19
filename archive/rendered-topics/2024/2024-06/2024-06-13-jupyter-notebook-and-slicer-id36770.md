@@ -1,3 +1,10 @@
+---
+topic_id: 36770
+title: "Jupyter Notebook And Slicer"
+date: 2024-06-13
+url: https://discourse.slicer.org/t/36770
+---
+
 # Jupyter notebook and Slicer
 
 **Topic ID**: 36770

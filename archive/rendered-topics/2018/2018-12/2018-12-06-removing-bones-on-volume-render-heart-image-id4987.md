@@ -1,3 +1,10 @@
+---
+topic_id: 4987
+title: "Removing Bones On Volume Render Heart Image"
+date: 2018-12-06
+url: https://discourse.slicer.org/t/4987
+---
+
 # Removing bones on Volume render Heart image
 
 **Topic ID**: 4987

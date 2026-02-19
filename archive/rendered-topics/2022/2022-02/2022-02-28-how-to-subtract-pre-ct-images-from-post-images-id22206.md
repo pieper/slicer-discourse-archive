@@ -1,3 +1,10 @@
+---
+topic_id: 22206
+title: "How To Subtract Pre Ct Images From Post Images"
+date: 2022-02-28
+url: https://discourse.slicer.org/t/22206
+---
+
 # How to subtract pre CT images from post images
 
 **Topic ID**: 22206

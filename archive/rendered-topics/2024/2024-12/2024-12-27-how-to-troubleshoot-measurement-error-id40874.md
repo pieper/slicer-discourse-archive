@@ -1,3 +1,10 @@
+---
+topic_id: 40874
+title: "How To Troubleshoot Measurement Error"
+date: 2024-12-27
+url: https://discourse.slicer.org/t/40874
+---
+
 # How to troubleshoot measurement error 
 
 **Topic ID**: 40874

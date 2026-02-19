@@ -1,3 +1,10 @@
+---
+topic_id: 45657
+title: "Convert Rtstruct To Dicom Seg"
+date: 2026-01-02
+url: https://discourse.slicer.org/t/45657
+---
+
 # Convert RTStruct to DICOM SEG
 
 **Topic ID**: 45657

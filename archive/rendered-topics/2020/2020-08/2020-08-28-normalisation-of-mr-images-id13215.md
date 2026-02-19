@@ -1,3 +1,10 @@
+---
+topic_id: 13215
+title: "Normalisation Of Mr Images"
+date: 2020-08-28
+url: https://discourse.slicer.org/t/13215
+---
+
 # Normalisation of MR images
 
 **Topic ID**: 13215

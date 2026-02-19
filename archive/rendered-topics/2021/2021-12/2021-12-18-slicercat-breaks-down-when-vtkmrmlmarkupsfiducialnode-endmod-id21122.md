@@ -1,3 +1,10 @@
+---
+topic_id: 21122
+title: "Slicercat Breaks Down When Vtkmrmlmarkupsfiducialnode Endmod"
+date: 2021-12-18
+url: https://discourse.slicer.org/t/21122
+---
+
 # SlicerCAT breaks down when `vtkMRMLMarkupsFiducialNode::EndModify()` is called
 
 **Topic ID**: 21122

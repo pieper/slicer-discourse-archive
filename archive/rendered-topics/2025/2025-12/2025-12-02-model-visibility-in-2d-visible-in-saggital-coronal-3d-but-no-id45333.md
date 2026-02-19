@@ -1,3 +1,10 @@
+---
+topic_id: 45333
+title: "Model Visibility In 2D Visible In Saggital Coronal 3D But No"
+date: 2025-12-02
+url: https://discourse.slicer.org/t/45333
+---
+
 # Model visibility in 2D - visible in saggital/coronal/3D but not axial
 
 **Topic ID**: 45333

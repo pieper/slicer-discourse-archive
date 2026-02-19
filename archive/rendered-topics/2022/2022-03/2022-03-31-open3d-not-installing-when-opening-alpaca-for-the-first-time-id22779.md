@@ -1,3 +1,10 @@
+---
+topic_id: 22779
+title: "Open3D Not Installing When Opening Alpaca For The First Time"
+date: 2022-03-31
+url: https://discourse.slicer.org/t/22779
+---
+
 # open3D not installing when opening ALPACA for the first time
 
 **Topic ID**: 22779

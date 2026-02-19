@@ -1,3 +1,10 @@
+---
+topic_id: 21647
+title: "Segmentation Fast Marching Effect Does Not Work"
+date: 2022-01-26
+url: https://discourse.slicer.org/t/21647
+---
+
 # Segmentation Fast Marching effect does not work
 
 **Topic ID**: 21647

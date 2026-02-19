@@ -1,3 +1,10 @@
+---
+topic_id: 23932
+title: "Question About Population Analysis"
+date: 2022-06-18
+url: https://discourse.slicer.org/t/23932
+---
+
 # Question about population Analysis
 
 **Topic ID**: 23932

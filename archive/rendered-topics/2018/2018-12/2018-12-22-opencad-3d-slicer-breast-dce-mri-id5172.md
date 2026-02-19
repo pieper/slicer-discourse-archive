@@ -1,3 +1,10 @@
+---
+topic_id: 5172
+title: "Opencad 3D Slicer Breast Dce Mri"
+date: 2018-12-22
+url: https://discourse.slicer.org/t/5172
+---
+
 # OpenCad 3D Slicer - Breast DCE MRI
 
 **Topic ID**: 5172

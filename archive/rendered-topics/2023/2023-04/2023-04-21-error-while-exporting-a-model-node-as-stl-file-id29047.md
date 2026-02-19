@@ -1,3 +1,10 @@
+---
+topic_id: 29047
+title: "Error While Exporting A Model Node As Stl File"
+date: 2023-04-21
+url: https://discourse.slicer.org/t/29047
+---
+
 # Error while exporting a model node as stl file
 
 **Topic ID**: 29047

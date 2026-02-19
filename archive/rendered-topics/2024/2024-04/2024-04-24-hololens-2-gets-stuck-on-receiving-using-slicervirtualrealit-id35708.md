@@ -1,3 +1,10 @@
+---
+topic_id: 35708
+title: "Hololens 2 Gets Stuck On Receiving Using Slicervirtualrealit"
+date: 2024-04-24
+url: https://discourse.slicer.org/t/35708
+---
+
 # HoloLens 2 gets stuck on "Receiving … " using SlicerVirtualReality
 
 **Topic ID**: 35708

@@ -1,3 +1,10 @@
+---
+topic_id: 36845
+title: "Autoscoper Preprocessing For Volumes And Transforms"
+date: 2024-06-17
+url: https://discourse.slicer.org/t/36845
+---
+
 # Autoscoper PreProcessing for Volumes and Transforms
 
 **Topic ID**: 36845

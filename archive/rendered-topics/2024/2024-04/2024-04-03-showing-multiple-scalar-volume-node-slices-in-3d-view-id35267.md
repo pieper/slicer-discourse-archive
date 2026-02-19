@@ -1,3 +1,10 @@
+---
+topic_id: 35267
+title: "Showing Multiple Scalar Volume Node Slices In 3D View"
+date: 2024-04-03
+url: https://discourse.slicer.org/t/35267
+---
+
 # Showing Multiple Scalar Volume Node Slices in 3D View 
 
 **Topic ID**: 35267

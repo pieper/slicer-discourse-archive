@@ -1,3 +1,10 @@
+---
+topic_id: 9221
+title: "New Feature Histogram For Setting Threshold Range In Segment"
+date: 2019-11-19
+url: https://discourse.slicer.org/t/9221
+---
+
 # New feature: Histogram for setting threshold range in Segment Editor
 
 **Topic ID**: 9221

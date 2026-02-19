@@ -1,3 +1,10 @@
+---
+topic_id: 34995
+title: "How To Solve Pytorch Version Error In Totalsegmentator Using"
+date: 2024-03-20
+url: https://discourse.slicer.org/t/34995
+---
+
 # How to solve Pytorch version error in TotalSegmentator using CPU
 
 **Topic ID**: 34995

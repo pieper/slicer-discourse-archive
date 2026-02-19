@@ -1,3 +1,10 @@
+---
+topic_id: 10687
+title: "Hello Everyone I Have One Question About Spharm Pdm Moudle I"
+date: 2020-03-14
+url: https://discourse.slicer.org/t/10687
+---
+
 # hello,everyone,i have one question about spharm-pdm moudle in 3dslicer
 
 **Topic ID**: 10687

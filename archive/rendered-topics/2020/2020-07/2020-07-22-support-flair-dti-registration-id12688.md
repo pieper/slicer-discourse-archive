@@ -1,3 +1,10 @@
+---
+topic_id: 12688
+title: "Support Flair Dti Registration"
+date: 2020-07-22
+url: https://discourse.slicer.org/t/12688
+---
+
 # Support flair dti registration
 
 **Topic ID**: 12688

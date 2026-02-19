@@ -1,3 +1,10 @@
+---
+topic_id: 24305
+title: "Display Common Physical Point On Diffrent Modalities"
+date: 2022-07-14
+url: https://discourse.slicer.org/t/24305
+---
+
 # Display common physical point on diffrent modalities
 
 **Topic ID**: 24305

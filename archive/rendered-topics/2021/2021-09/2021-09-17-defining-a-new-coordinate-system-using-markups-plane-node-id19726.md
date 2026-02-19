@@ -1,3 +1,10 @@
+---
+topic_id: 19726
+title: "Defining A New Coordinate System Using Markups Plane Node"
+date: 2021-09-17
+url: https://discourse.slicer.org/t/19726
+---
+
 # Defining a new coordinate system using markups plane node
 
 **Topic ID**: 19726

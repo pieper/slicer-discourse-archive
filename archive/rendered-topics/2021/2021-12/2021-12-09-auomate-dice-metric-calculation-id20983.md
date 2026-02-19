@@ -1,3 +1,10 @@
+---
+topic_id: 20983
+title: "Auomate Dice Metric Calculation"
+date: 2021-12-09
+url: https://discourse.slicer.org/t/20983
+---
+
 # Auomate DICE metric calculation
 
 **Topic ID**: 20983

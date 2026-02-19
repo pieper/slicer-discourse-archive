@@ -1,3 +1,10 @@
+---
+topic_id: 2345
+title: "High Quality Segmentation Of The Orbital Walls"
+date: 2018-03-17
+url: https://discourse.slicer.org/t/2345
+---
+
 # High quality segmentation of the orbital walls
 
 **Topic ID**: 2345

@@ -1,3 +1,10 @@
+---
+topic_id: 19321
+title: "How To Color Different Parts Of A 3D Model With Different Co"
+date: 2021-08-23
+url: https://discourse.slicer.org/t/19321
+---
+
 # How to color different parts of a 3d model with different colors according to the pixel value from the ct scans?
 
 **Topic ID**: 19321

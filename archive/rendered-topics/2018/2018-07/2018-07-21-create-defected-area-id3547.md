@@ -1,3 +1,10 @@
+---
+topic_id: 3547
+title: "Create Defected Area"
+date: 2018-07-21
+url: https://discourse.slicer.org/t/3547
+---
+
 # create defected area 
 
 **Topic ID**: 3547

@@ -1,3 +1,10 @@
+---
+topic_id: 36725
+title: "Model Alignment To World Coordinate System"
+date: 2024-06-12
+url: https://discourse.slicer.org/t/36725
+---
+
 # Model alignment to world coordinate system
 
 **Topic ID**: 36725

@@ -1,3 +1,10 @@
+---
+topic_id: 31374
+title: "Any Way Of Training Monailabel Models On Cloud Services"
+date: 2023-08-26
+url: https://discourse.slicer.org/t/31374
+---
+
 # Any way of training MONAILabel models on cloud services?
 
 **Topic ID**: 31374

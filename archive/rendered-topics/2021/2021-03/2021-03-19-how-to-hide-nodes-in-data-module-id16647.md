@@ -1,3 +1,10 @@
+---
+topic_id: 16647
+title: "How To Hide Nodes In Data Module"
+date: 2021-03-19
+url: https://discourse.slicer.org/t/16647
+---
+
 # How to hide nodes in data module
 
 **Topic ID**: 16647

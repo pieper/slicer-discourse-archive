@@ -1,3 +1,10 @@
+---
+topic_id: 21934
+title: "How Can I Get Centerlines Of Stl File When There Is A Bifurc"
+date: 2022-02-12
+url: https://discourse.slicer.org/t/21934
+---
+
 # How can I get centerlines of .stl file when there is a bifurcation?
 
 **Topic ID**: 21934

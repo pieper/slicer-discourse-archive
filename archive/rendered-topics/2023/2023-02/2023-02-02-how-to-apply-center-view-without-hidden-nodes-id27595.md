@@ -1,3 +1,10 @@
+---
+topic_id: 27595
+title: "How To Apply Center View Without Hidden Nodes"
+date: 2023-02-02
+url: https://discourse.slicer.org/t/27595
+---
+
 # How to apply "Center view" without hidden nodes?
 
 **Topic ID**: 27595

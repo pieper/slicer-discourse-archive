@@ -1,3 +1,10 @@
+---
+topic_id: 5436
+title: "Volume Reslicing Slow Insome Cases"
+date: 2019-01-21
+url: https://discourse.slicer.org/t/5436
+---
+
 # Volume Reslicing slow insome cases
 
 **Topic ID**: 5436

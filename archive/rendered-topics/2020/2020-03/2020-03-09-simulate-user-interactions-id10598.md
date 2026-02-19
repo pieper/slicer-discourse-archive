@@ -1,3 +1,10 @@
+---
+topic_id: 10598
+title: "Simulate User Interactions"
+date: 2020-03-09
+url: https://discourse.slicer.org/t/10598
+---
+
 # Simulate user interactions
 
 **Topic ID**: 10598

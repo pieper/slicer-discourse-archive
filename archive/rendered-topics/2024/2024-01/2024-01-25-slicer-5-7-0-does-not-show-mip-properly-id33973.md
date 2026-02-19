@@ -1,3 +1,10 @@
+---
+topic_id: 33973
+title: "Slicer 5 7 0 Does Not Show Mip Properly"
+date: 2024-01-25
+url: https://discourse.slicer.org/t/33973
+---
+
 # Slicer 5.7.0 does not show MIP properly
 
 **Topic ID**: 33973

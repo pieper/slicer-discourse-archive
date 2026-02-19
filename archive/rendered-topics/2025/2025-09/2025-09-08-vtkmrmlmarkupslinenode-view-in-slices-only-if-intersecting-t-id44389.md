@@ -1,3 +1,10 @@
+---
+topic_id: 44389
+title: "Vtkmrmlmarkupslinenode View In Slices Only If Intersecting T"
+date: 2025-09-08
+url: https://discourse.slicer.org/t/44389
+---
+
 # vtkMRMLMarkupsLineNode view in slices only if intersecting the slice plans
 
 **Topic ID**: 44389

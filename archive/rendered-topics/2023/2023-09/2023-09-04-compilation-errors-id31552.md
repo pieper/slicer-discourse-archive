@@ -1,3 +1,10 @@
+---
+topic_id: 31552
+title: "Compilation Errors"
+date: 2023-09-04
+url: https://discourse.slicer.org/t/31552
+---
+
 # Compilation errors
 
 **Topic ID**: 31552

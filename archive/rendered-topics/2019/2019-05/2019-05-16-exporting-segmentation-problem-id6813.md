@@ -1,3 +1,10 @@
+---
+topic_id: 6813
+title: "Exporting Segmentation Problem"
+date: 2019-05-16
+url: https://discourse.slicer.org/t/6813
+---
+
 # Exporting segmentation problem
 
 **Topic ID**: 6813

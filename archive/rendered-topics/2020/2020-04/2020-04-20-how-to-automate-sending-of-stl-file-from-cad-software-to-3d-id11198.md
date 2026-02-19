@@ -1,3 +1,10 @@
+---
+topic_id: 11198
+title: "How To Automate Sending Of Stl File From Cad Software To 3D"
+date: 2020-04-20
+url: https://discourse.slicer.org/t/11198
+---
+
 # How to automate sending of .stl file from cad software to 3D Slicer by scripting
 
 **Topic ID**: 11198

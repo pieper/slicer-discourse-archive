@@ -1,3 +1,10 @@
+---
+topic_id: 35199
+title: "3D Modeling Pathway For Printing"
+date: 2024-04-01
+url: https://discourse.slicer.org/t/35199
+---
+
 # 3D modeling pathway for printing
 
 **Topic ID**: 35199

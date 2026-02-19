@@ -1,3 +1,10 @@
+---
+topic_id: 21091
+title: "Revision 30502 Built 2021 12 16 Linux Download Issue"
+date: 2021-12-16
+url: https://discourse.slicer.org/t/21091
+---
+
 # Revision 30502 built 2021-12-16 Linux download issue
 
 **Topic ID**: 21091

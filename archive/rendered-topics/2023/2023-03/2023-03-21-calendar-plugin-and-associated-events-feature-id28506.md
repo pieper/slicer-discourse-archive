@@ -1,3 +1,10 @@
+---
+topic_id: 28506
+title: "Calendar Plugin And Associated Events Feature"
+date: 2023-03-21
+url: https://discourse.slicer.org/t/28506
+---
+
 # Calendar plugin and associated events feature
 
 **Topic ID**: 28506

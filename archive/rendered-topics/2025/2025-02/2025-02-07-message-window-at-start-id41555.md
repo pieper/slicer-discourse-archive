@@ -1,3 +1,10 @@
+---
+topic_id: 41555
+title: "Message Window At Start"
+date: 2025-02-07
+url: https://discourse.slicer.org/t/41555
+---
+
 # Message window at start
 
 **Topic ID**: 41555

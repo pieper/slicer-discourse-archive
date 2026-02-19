@@ -1,3 +1,10 @@
+---
+topic_id: 29317
+title: "Calculate The Volume Of Cerebrospinal Fluid And The Volume O"
+date: 2023-05-06
+url: https://discourse.slicer.org/t/29317
+---
+
 #  calculate the volume of cerebrospinal fluid and the volume of intracranial hemorrhage
 
 **Topic ID**: 29317

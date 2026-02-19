@@ -1,3 +1,10 @@
+---
+topic_id: 44690
+title: "Optimal Seam Stitching Of Ultrasound Images"
+date: 2025-10-07
+url: https://discourse.slicer.org/t/44690
+---
+
 # Optimal seam stitching of ultrasound images
 
 **Topic ID**: 44690

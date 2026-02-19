@@ -1,3 +1,10 @@
+---
+topic_id: 21111
+title: "How To Load A Stl Segmentation Onto A Dicom File With 3D Sli"
+date: 2021-12-17
+url: https://discourse.slicer.org/t/21111
+---
+
 # How to load a .stl segmentation onto a DICOM file with 3D slicer?
 
 **Topic ID**: 21111

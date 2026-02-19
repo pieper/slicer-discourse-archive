@@ -1,3 +1,10 @@
+---
+topic_id: 44365
+title: "How To Improve The Centerline Extraction"
+date: 2025-09-05
+url: https://discourse.slicer.org/t/44365
+---
+
 # how to improve the CenterLine extraction
 
 **Topic ID**: 44365

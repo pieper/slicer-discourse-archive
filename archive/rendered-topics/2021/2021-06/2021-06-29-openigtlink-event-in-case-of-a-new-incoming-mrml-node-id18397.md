@@ -1,3 +1,10 @@
+---
+topic_id: 18397
+title: "Openigtlink Event In Case Of A New Incoming Mrml Node"
+date: 2021-06-29
+url: https://discourse.slicer.org/t/18397
+---
+
 # OpenIGTLink event in case of a new incoming MRML node
 
 **Topic ID**: 18397

@@ -1,3 +1,10 @@
+---
+topic_id: 42248
+title: "Support For Pathology Dicom"
+date: 2025-03-21
+url: https://discourse.slicer.org/t/42248
+---
+
 # Support for pathology DICOM
 
 **Topic ID**: 42248

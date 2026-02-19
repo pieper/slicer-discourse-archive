@@ -1,3 +1,10 @@
+---
+topic_id: 13133
+title: "How To Verify Size Of Ply Model Uploaded Into Slicer"
+date: 2020-08-22
+url: https://discourse.slicer.org/t/13133
+---
+
 # How to verify size of .ply model uploaded into Slicer?
 
 **Topic ID**: 13133

@@ -1,3 +1,10 @@
+---
+topic_id: 12551
+title: "Remove Atifacts Background After Registration"
+date: 2020-07-15
+url: https://discourse.slicer.org/t/12551
+---
+
 # Remove atifacts background after registration
 
 **Topic ID**: 12551

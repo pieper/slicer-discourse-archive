@@ -1,3 +1,10 @@
+---
+topic_id: 11525
+title: "Show Segmentation Only For Specific Volumes"
+date: 2020-05-13
+url: https://discourse.slicer.org/t/11525
+---
+
 # Show segmentation only for specific volumes
 
 **Topic ID**: 11525

@@ -1,3 +1,10 @@
+---
+topic_id: 40545
+title: "What Is The Best Way To Store Data For A Model Loaded From D"
+date: 2024-12-06
+url: https://discourse.slicer.org/t/40545
+---
+
 # What is the best way to store data for a model, loaded from DICOM-RT ion plan file?
 
 **Topic ID**: 40545

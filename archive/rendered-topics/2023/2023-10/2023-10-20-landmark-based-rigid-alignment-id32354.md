@@ -1,3 +1,10 @@
+---
+topic_id: 32354
+title: "Landmark Based Rigid Alignment"
+date: 2023-10-20
+url: https://discourse.slicer.org/t/32354
+---
+
 # Landmark based rigid alignment
 
 **Topic ID**: 32354

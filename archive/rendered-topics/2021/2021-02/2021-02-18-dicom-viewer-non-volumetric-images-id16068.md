@@ -1,3 +1,10 @@
+---
+topic_id: 16068
+title: "Dicom Viewer Non Volumetric Images"
+date: 2021-02-18
+url: https://discourse.slicer.org/t/16068
+---
+
 # DICOM viewer - non-volumetric images
 
 **Topic ID**: 16068

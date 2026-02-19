@@ -1,3 +1,10 @@
+---
+topic_id: 1920
+title: "Problem To Select Roi Borders Of The Crop Volume Module With"
+date: 2018-01-24
+url: https://discourse.slicer.org/t/1920
+---
+
 # Problem to select ROI borders of the Crop VOlume module with the mouse
 
 **Topic ID**: 1920

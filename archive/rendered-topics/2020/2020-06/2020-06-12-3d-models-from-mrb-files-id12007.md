@@ -1,3 +1,10 @@
+---
+topic_id: 12007
+title: "3D Models From Mrb Files"
+date: 2020-06-12
+url: https://discourse.slicer.org/t/12007
+---
+
 # 3D models from mrb files
 
 **Topic ID**: 12007

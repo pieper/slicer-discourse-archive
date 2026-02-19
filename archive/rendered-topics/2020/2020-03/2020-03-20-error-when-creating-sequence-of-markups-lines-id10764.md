@@ -1,3 +1,10 @@
+---
+topic_id: 10764
+title: "Error When Creating Sequence Of Markups Lines"
+date: 2020-03-20
+url: https://discourse.slicer.org/t/10764
+---
+
 # Error when creating sequence of markups lines
 
 **Topic ID**: 10764

@@ -1,3 +1,10 @@
+---
+topic_id: 1141
+title: "Calculate A Scalp To Scalp Distance"
+date: 2017-09-28
+url: https://discourse.slicer.org/t/1141
+---
+
 # Calculate a scalp to scalp distance
 
 **Topic ID**: 1141

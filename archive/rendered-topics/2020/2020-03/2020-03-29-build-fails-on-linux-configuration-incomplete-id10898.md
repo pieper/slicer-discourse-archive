@@ -1,3 +1,10 @@
+---
+topic_id: 10898
+title: "Build Fails On Linux Configuration Incomplete"
+date: 2020-03-29
+url: https://discourse.slicer.org/t/10898
+---
+
 # Build fails on Linux : configuration incomplete
 
 **Topic ID**: 10898

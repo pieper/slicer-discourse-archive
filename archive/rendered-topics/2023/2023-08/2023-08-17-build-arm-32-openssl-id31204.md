@@ -1,3 +1,10 @@
+---
+topic_id: 31204
+title: "Build Arm 32 Openssl"
+date: 2023-08-17
+url: https://discourse.slicer.org/t/31204
+---
+
 # Build arm 32 OpenSSL
 
 **Topic ID**: 31204

@@ -1,3 +1,10 @@
+---
+topic_id: 31422
+title: "Developing An Interactive Python Program To Work With Slicer"
+date: 2023-08-29
+url: https://discourse.slicer.org/t/31422
+---
+
 # Developing an interactive python program to work with Slicer GUI
 
 **Topic ID**: 31422

@@ -1,3 +1,10 @@
+---
+topic_id: 10345
+title: "Surface Scan Registration"
+date: 2020-02-18
+url: https://discourse.slicer.org/t/10345
+---
+
 # Surface Scan Registration
 
 **Topic ID**: 10345

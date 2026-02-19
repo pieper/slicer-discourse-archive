@@ -1,3 +1,10 @@
+---
+topic_id: 22615
+title: "Coordinate System In Brainstorm Scs To Coordinate System In"
+date: 2022-03-21
+url: https://discourse.slicer.org/t/22615
+---
+
 # Coordinate system in brainstorm SCS to coordinate system in 3D Slicer
 
 **Topic ID**: 22615

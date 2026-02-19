@@ -1,3 +1,10 @@
+---
+topic_id: 21060
+title: "Segment Geometry Error"
+date: 2021-12-14
+url: https://discourse.slicer.org/t/21060
+---
+
 # Segment Geometry error
 
 **Topic ID**: 21060

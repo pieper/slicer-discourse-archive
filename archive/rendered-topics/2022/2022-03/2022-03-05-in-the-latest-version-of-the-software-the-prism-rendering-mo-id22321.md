@@ -1,3 +1,10 @@
+---
+topic_id: 22321
+title: "In The Latest Version Of The Software The Prism Rendering Mo"
+date: 2022-03-05
+url: https://discourse.slicer.org/t/22321
+---
+
 # In the latest version of the software, the prism rendering module cannot be used normally,。
 
 **Topic ID**: 22321

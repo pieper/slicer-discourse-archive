@@ -1,3 +1,10 @@
+---
+topic_id: 26075
+title: "Embedding Segment Editor In Layout Crashes Slicer 5 Upon Rel"
+date: 2022-11-04
+url: https://discourse.slicer.org/t/26075
+---
+
 # Embedding Segment Editor in Layout Crashes Slicer 5 Upon Reload
 
 **Topic ID**: 26075

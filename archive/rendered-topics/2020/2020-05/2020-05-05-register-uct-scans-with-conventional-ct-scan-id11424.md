@@ -1,3 +1,10 @@
+---
+topic_id: 11424
+title: "Register Uct Scans With Conventional Ct Scan"
+date: 2020-05-05
+url: https://discourse.slicer.org/t/11424
+---
+
 # Register uCT scans with conventional CT scan
 
 **Topic ID**: 11424

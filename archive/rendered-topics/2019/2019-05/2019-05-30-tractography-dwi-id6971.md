@@ -1,3 +1,10 @@
+---
+topic_id: 6971
+title: "Tractography Dwi"
+date: 2019-05-30
+url: https://discourse.slicer.org/t/6971
+---
+
 # Tractography DWI
 
 **Topic ID**: 6971

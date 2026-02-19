@@ -1,3 +1,10 @@
+---
+topic_id: 5645
+title: "Vr Connection To Steam Htc Vive"
+date: 2019-02-05
+url: https://discourse.slicer.org/t/5645
+---
+
 # VR connection to steam/HTC VIVe
 
 **Topic ID**: 5645

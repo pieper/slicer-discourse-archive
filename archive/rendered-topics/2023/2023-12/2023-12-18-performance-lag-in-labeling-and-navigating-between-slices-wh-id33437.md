@@ -1,3 +1,10 @@
+---
+topic_id: 33437
+title: "Performance Lag In Labeling And Navigating Between Slices Wh"
+date: 2023-12-18
+url: https://discourse.slicer.org/t/33437
+---
+
 # Performance lag in labeling and navigating between slices when using Chrome Remote Desktop
 
 **Topic ID**: 33437

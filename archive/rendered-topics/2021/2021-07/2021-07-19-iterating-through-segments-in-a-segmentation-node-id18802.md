@@ -1,3 +1,10 @@
+---
+topic_id: 18802
+title: "Iterating Through Segments In A Segmentation Node"
+date: 2021-07-19
+url: https://discourse.slicer.org/t/18802
+---
+
 # Iterating through segments in a segmentation Node
 
 **Topic ID**: 18802

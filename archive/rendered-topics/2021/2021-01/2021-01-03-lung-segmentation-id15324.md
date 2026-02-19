@@ -1,3 +1,10 @@
+---
+topic_id: 15324
+title: "Lung Segmentation"
+date: 2021-01-03
+url: https://discourse.slicer.org/t/15324
+---
+
 # Lung segmentation
 
 **Topic ID**: 15324

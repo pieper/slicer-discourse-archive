@@ -1,3 +1,10 @@
+---
+topic_id: 13802
+title: "Adding Rulers To Python Code"
+date: 2020-10-01
+url: https://discourse.slicer.org/t/13802
+---
+
 # Adding Rulers to Python Code
 
 **Topic ID**: 13802

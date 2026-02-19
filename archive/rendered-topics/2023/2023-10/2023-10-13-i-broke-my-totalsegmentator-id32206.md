@@ -1,3 +1,10 @@
+---
+topic_id: 32206
+title: "I Broke My Totalsegmentator"
+date: 2023-10-13
+url: https://discourse.slicer.org/t/32206
+---
+
 # I broke my totalsegmentator
 
 **Topic ID**: 32206

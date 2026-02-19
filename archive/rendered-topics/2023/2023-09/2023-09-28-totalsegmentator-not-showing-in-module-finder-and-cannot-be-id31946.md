@@ -1,3 +1,10 @@
+---
+topic_id: 31946
+title: "Totalsegmentator Not Showing In Module Finder And Cannot Be"
+date: 2023-09-28
+url: https://discourse.slicer.org/t/31946
+---
+
 # TotalSegmentator not showing in module finder, and cannot be uninstall from extension module
 
 **Topic ID**: 31946

@@ -1,3 +1,10 @@
+---
+topic_id: 25029
+title: "Applying Different Wavelet Filters"
+date: 2022-08-31
+url: https://discourse.slicer.org/t/25029
+---
+
 # Applying different Wavelet Filters
 
 **Topic ID**: 25029

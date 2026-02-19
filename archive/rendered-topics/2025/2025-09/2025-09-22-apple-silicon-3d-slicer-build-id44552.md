@@ -1,3 +1,10 @@
+---
+topic_id: 44552
+title: "Apple Silicon 3D Slicer Build"
+date: 2025-09-22
+url: https://discourse.slicer.org/t/44552
+---
+
 # Apple Silicon 3D Slicer Build
 
 **Topic ID**: 44552

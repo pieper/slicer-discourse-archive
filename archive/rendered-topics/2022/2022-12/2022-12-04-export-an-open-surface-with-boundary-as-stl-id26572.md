@@ -1,3 +1,10 @@
+---
+topic_id: 26572
+title: "Export An Open Surface With Boundary As Stl"
+date: 2022-12-04
+url: https://discourse.slicer.org/t/26572
+---
+
 # Export an open surface with boundary as STL
 
 **Topic ID**: 26572

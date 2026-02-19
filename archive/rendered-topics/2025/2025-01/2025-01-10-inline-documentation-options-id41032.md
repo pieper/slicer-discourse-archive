@@ -1,3 +1,10 @@
+---
+topic_id: 41032
+title: "Inline Documentation Options"
+date: 2025-01-10
+url: https://discourse.slicer.org/t/41032
+---
+
 # Inline documentation options
 
 **Topic ID**: 41032

@@ -1,3 +1,10 @@
+---
+topic_id: 23722
+title: "Dilation Erosion Element Type"
+date: 2022-06-06
+url: https://discourse.slicer.org/t/23722
+---
+
 # Dilation erosion element type
 
 **Topic ID**: 23722

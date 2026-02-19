@@ -1,3 +1,10 @@
+---
+topic_id: 13766
+title: "Midpoint Of An Open Curve"
+date: 2020-09-30
+url: https://discourse.slicer.org/t/13766
+---
+
 # Midpoint of an Open Curve
 
 **Topic ID**: 13766

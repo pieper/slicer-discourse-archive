@@ -1,3 +1,10 @@
+---
+topic_id: 14139
+title: "Loading Dicom Segmentation"
+date: 2020-10-19
+url: https://discourse.slicer.org/t/14139
+---
+
 # Loading DICOM segmentation
 
 **Topic ID**: 14139

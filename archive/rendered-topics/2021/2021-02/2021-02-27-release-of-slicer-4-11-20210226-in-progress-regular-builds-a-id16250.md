@@ -1,3 +1,10 @@
+---
+topic_id: 16250
+title: "Release Of Slicer 4 11 20210226 In Progress Regular Builds A"
+date: 2021-02-27
+url: https://discourse.slicer.org/t/16250
+---
+
 # Release of Slicer 4.11.20210226 in progress: Regular builds are disabled
 
 **Topic ID**: 16250

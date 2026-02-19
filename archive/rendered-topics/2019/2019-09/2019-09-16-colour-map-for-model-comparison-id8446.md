@@ -1,3 +1,10 @@
+---
+topic_id: 8446
+title: "Colour Map For Model Comparison"
+date: 2019-09-16
+url: https://discourse.slicer.org/t/8446
+---
+
 # Colour map for model comparison
 
 **Topic ID**: 8446

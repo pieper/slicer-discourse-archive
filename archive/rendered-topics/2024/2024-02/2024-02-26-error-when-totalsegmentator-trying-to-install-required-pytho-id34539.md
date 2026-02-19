@@ -1,3 +1,10 @@
+---
+topic_id: 34539
+title: "Error When Totalsegmentator Trying To Install Required Pytho"
+date: 2024-02-26
+url: https://discourse.slicer.org/t/34539
+---
+
 # Error when TotalSegmentator trying to install required Python packages: `SSLError(SSLEOFError(8, ‘EOF occurred in violation of protocol (_ssl.c:1129)’))`
 
 **Topic ID**: 34539

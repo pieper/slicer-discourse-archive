@@ -1,3 +1,10 @@
+---
+topic_id: 23673
+title: "Load Sequence Of Png Images Associated With Textfile With Tr"
+date: 2022-06-01
+url: https://discourse.slicer.org/t/23673
+---
+
 # Load sequence of PNG images associated with textfile with transforms
 
 **Topic ID**: 23673

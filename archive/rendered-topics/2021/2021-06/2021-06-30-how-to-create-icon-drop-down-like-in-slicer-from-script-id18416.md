@@ -1,3 +1,10 @@
+---
+topic_id: 18416
+title: "How To Create Icon Drop Down Like In Slicer From Script"
+date: 2021-06-30
+url: https://discourse.slicer.org/t/18416
+---
+
 # How to create icon drop down like in slicer from script?
 
 **Topic ID**: 18416

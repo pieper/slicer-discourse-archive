@@ -1,3 +1,10 @@
+---
+topic_id: 16579
+title: "Cannot Open Nhdr File On Slicer"
+date: 2021-03-16
+url: https://discourse.slicer.org/t/16579
+---
+
 # cannot open .nhdr file on Slicer
 
 **Topic ID**: 16579

@@ -1,3 +1,10 @@
+---
+topic_id: 35673
+title: "2D T Registration Segmentation"
+date: 2024-04-23
+url: https://discourse.slicer.org/t/35673
+---
+
 # 2D+t registration/segmentation
 
 **Topic ID**: 35673

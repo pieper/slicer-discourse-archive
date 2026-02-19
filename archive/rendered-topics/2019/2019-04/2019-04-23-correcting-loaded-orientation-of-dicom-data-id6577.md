@@ -1,3 +1,10 @@
+---
+topic_id: 6577
+title: "Correcting Loaded Orientation Of Dicom Data"
+date: 2019-04-23
+url: https://discourse.slicer.org/t/6577
+---
+
 # Correcting loaded orientation of dicom data
 
 **Topic ID**: 6577

@@ -1,3 +1,10 @@
+---
+topic_id: 3662
+title: "Industry Standard Image Set For Radiomics Programs"
+date: 2018-08-04
+url: https://discourse.slicer.org/t/3662
+---
+
 # Industry Standard Image Set for Radiomics Programs
 
 **Topic ID**: 3662

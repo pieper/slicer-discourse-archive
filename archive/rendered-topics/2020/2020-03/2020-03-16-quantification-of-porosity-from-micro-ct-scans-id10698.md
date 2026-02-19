@@ -1,3 +1,10 @@
+---
+topic_id: 10698
+title: "Quantification Of Porosity From Micro Ct Scans"
+date: 2020-03-16
+url: https://discourse.slicer.org/t/10698
+---
+
 # Quantification of Porosity from micro CT scans
 
 **Topic ID**: 10698

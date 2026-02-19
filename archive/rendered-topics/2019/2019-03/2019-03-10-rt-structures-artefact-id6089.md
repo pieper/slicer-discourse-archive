@@ -1,3 +1,10 @@
+---
+topic_id: 6089
+title: "Rt Structures Artefact"
+date: 2019-03-10
+url: https://discourse.slicer.org/t/6089
+---
+
 # Rt-structures : artefact
 
 **Topic ID**: 6089

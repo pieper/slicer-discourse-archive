@@ -1,3 +1,10 @@
+---
+topic_id: 30383
+title: "Build Error When Building Slicervmtk Extension"
+date: 2023-07-04
+url: https://discourse.slicer.org/t/30383
+---
+
 # Build error when building SlicerVMTK extension
 
 **Topic ID**: 30383

@@ -1,3 +1,10 @@
+---
+topic_id: 10002
+title: "Window Level And Threshold Max At 10 And 10"
+date: 2020-01-29
+url: https://discourse.slicer.org/t/10002
+---
+
 # Window/level and Threshold max at -10 and 10
 
 **Topic ID**: 10002

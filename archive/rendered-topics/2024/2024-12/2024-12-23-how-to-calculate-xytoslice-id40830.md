@@ -1,3 +1,10 @@
+---
+topic_id: 40830
+title: "How To Calculate Xytoslice"
+date: 2024-12-23
+url: https://discourse.slicer.org/t/40830
+---
+
 # How to calculate XYToSlice
 
 **Topic ID**: 40830

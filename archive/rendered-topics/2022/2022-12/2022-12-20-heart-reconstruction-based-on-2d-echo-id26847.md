@@ -1,3 +1,10 @@
+---
+topic_id: 26847
+title: "Heart Reconstruction Based On 2D Echo"
+date: 2022-12-20
+url: https://discourse.slicer.org/t/26847
+---
+
 # Heart reconstruction based on 2d Echo
 
 **Topic ID**: 26847

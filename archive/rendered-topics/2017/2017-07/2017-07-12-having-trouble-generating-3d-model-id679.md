@@ -1,3 +1,10 @@
+---
+topic_id: 679
+title: "Having Trouble Generating 3D Model"
+date: 2017-07-12
+url: https://discourse.slicer.org/t/679
+---
+
 # Having trouble generating 3D model
 
 **Topic ID**: 679

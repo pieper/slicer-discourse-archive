@@ -1,3 +1,10 @@
+---
+topic_id: 16781
+title: "How To Add Segment Editor Erase Tool Logic Which Is In C To"
+date: 2021-03-26
+url: https://discourse.slicer.org/t/16781
+---
+
 # How to add segment editor erase tool logic which is in C++ to a dummy python tool?
 
 **Topic ID**: 16781

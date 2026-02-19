@@ -1,3 +1,10 @@
+---
+topic_id: 17189
+title: "Shrinkwrapping Tool In 3Dslicer"
+date: 2021-04-19
+url: https://discourse.slicer.org/t/17189
+---
+
 # Shrinkwrapping tool in 3dslicer
 
 **Topic ID**: 17189

@@ -1,3 +1,10 @@
+---
+topic_id: 10383
+title: "General Registration Brains Error"
+date: 2020-02-21
+url: https://discourse.slicer.org/t/10383
+---
+
 # General Registration (BRAINS) error
 
 **Topic ID**: 10383

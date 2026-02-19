@@ -1,3 +1,10 @@
+---
+topic_id: 34983
+title: "Help To Segment Multiple Sclerosis Plaques With Monai Label"
+date: 2024-03-19
+url: https://discourse.slicer.org/t/34983
+---
+
 # Help to Segment Multiple Sclerosis Plaques with MONAI Label
 
 **Topic ID**: 34983

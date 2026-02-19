@@ -1,3 +1,10 @@
+---
+topic_id: 1185
+title: "Very Unstable Performance Crashes Often Ideas"
+date: 2017-10-05
+url: https://discourse.slicer.org/t/1185
+---
+
 # Very unstable performance/crashes often, ideas?
 
 **Topic ID**: 1185

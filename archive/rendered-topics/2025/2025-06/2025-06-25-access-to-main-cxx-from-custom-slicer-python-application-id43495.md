@@ -1,3 +1,10 @@
+---
+topic_id: 43495
+title: "Access To Main Cxx From Custom Slicer Python Application"
+date: 2025-06-25
+url: https://discourse.slicer.org/t/43495
+---
+
 # Access to Main.cxx from custom Slicer Python application
 
 **Topic ID**: 43495

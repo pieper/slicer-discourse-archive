@@ -1,3 +1,10 @@
+---
+topic_id: 25054
+title: "Ispointinroi And Getplanes Not Available"
+date: 2022-09-02
+url: https://discourse.slicer.org/t/25054
+---
+
 # IsPointInROI and GetPlanes not available
 
 **Topic ID**: 25054

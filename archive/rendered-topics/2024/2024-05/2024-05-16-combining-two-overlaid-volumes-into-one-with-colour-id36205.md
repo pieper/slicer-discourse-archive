@@ -1,3 +1,10 @@
+---
+topic_id: 36205
+title: "Combining Two Overlaid Volumes Into One With Colour"
+date: 2024-05-16
+url: https://discourse.slicer.org/t/36205
+---
+
 # Combining two overlaid volumes into one (with colour)
 
 **Topic ID**: 36205

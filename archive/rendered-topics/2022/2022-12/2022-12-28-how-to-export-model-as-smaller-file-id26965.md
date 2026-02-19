@@ -1,3 +1,10 @@
+---
+topic_id: 26965
+title: "How To Export Model As Smaller File"
+date: 2022-12-28
+url: https://discourse.slicer.org/t/26965
+---
+
 # How to export model as smaller file?
 
 **Topic ID**: 26965

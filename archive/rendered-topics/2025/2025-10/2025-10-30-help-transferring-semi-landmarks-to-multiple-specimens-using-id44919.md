@@ -1,3 +1,10 @@
+---
+topic_id: 44919
+title: "Help Transferring Semi Landmarks To Multiple Specimens Using"
+date: 2025-10-30
+url: https://discourse.slicer.org/t/44919
+---
+
 # Help transferring semi-landmarks to multiple specimens using ALPACA
 
 **Topic ID**: 44919

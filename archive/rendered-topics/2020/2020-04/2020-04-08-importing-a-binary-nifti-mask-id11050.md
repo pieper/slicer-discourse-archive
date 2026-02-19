@@ -1,3 +1,10 @@
+---
+topic_id: 11050
+title: "Importing A Binary Nifti Mask"
+date: 2020-04-08
+url: https://discourse.slicer.org/t/11050
+---
+
 # Importing a binary nifti mask
 
 **Topic ID**: 11050

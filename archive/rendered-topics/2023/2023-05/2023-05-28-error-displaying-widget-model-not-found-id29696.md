@@ -1,3 +1,10 @@
+---
+topic_id: 29696
+title: "Error Displaying Widget Model Not Found"
+date: 2023-05-28
+url: https://discourse.slicer.org/t/29696
+---
+
 # Error displaying widget: model not found
 
 **Topic ID**: 29696

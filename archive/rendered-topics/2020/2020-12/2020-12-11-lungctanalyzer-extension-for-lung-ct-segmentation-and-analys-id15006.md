@@ -1,3 +1,10 @@
+---
+topic_id: 15006
+title: "Lungctanalyzer Extension For Lung Ct Segmentation And Analys"
+date: 2020-12-11
+url: https://discourse.slicer.org/t/15006
+---
+
 # LungCTAnalyzer extension for lung CT segmentation and analysis for COVID-19 assessment
 
 **Topic ID**: 15006

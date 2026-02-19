@@ -1,3 +1,10 @@
+---
+topic_id: 13875
+title: "File Load Browser Opens As Save As"
+date: 2020-10-05
+url: https://discourse.slicer.org/t/13875
+---
+
 # File load browser opens as "Save As"
 
 **Topic ID**: 13875

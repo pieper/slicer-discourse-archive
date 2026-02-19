@@ -1,3 +1,10 @@
+---
+topic_id: 17316
+title: "3D Slicer And Antikythera Mechanism A New Publication"
+date: 2021-04-25
+url: https://discourse.slicer.org/t/17316
+---
+
 # 3D Slicer and Antikythera Mechanism, A new publication
 
 **Topic ID**: 17316

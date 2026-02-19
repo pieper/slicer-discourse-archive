@@ -1,3 +1,10 @@
+---
+topic_id: 22153
+title: "Error Vtk Input Port 0 Of Algorithm Vtktubefilter Has 0 Conn"
+date: 2022-02-24
+url: https://discourse.slicer.org/t/22153
+---
+
 # Error VTK Input port 0 of algorithm vtkTubeFilter has 0 connections but is not optional
 
 **Topic ID**: 22153

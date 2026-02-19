@@ -1,3 +1,10 @@
+---
+topic_id: 28505
+title: "Open Position Surgical Navigation Software Engineer"
+date: 2023-03-21
+url: https://discourse.slicer.org/t/28505
+---
+
 # Open Position - Surgical Navigation Software Engineer
 
 **Topic ID**: 28505

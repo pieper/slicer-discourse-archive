@@ -1,3 +1,10 @@
+---
+topic_id: 39858
+title: "Custom File Reader Without Add Data Into Scene Dialog"
+date: 2024-10-25
+url: https://discourse.slicer.org/t/39858
+---
+
 # Custom file reader without 'Add data into scene' dialog
 
 **Topic ID**: 39858

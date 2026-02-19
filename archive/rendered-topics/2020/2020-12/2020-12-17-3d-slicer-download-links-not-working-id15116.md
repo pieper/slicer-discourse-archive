@@ -1,3 +1,10 @@
+---
+topic_id: 15116
+title: "3D Slicer Download Links Not Working"
+date: 2020-12-17
+url: https://discourse.slicer.org/t/15116
+---
+
 # 3D Slicer Download Links - Not Working
 
 **Topic ID**: 15116

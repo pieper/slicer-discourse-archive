@@ -1,3 +1,10 @@
+---
+topic_id: 6769
+title: "Can I Perform The Inverse Operation Of The 6 Dof Robot Arm I"
+date: 2019-05-13
+url: https://discourse.slicer.org/t/6769
+---
+
 # Can I perform the inverse operation of the 6 dof robot arm in the slicer?
 
 **Topic ID**: 6769

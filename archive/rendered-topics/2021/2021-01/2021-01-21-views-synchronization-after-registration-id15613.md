@@ -1,3 +1,10 @@
+---
+topic_id: 15613
+title: "Views Synchronization After Registration"
+date: 2021-01-21
+url: https://discourse.slicer.org/t/15613
+---
+
 # Views synchronization after registration
 
 **Topic ID**: 15613

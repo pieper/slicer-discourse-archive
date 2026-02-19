@@ -1,3 +1,10 @@
+---
+topic_id: 9332
+title: "Which Hmd Is Better For Slicer 3D Vr"
+date: 2019-11-29
+url: https://discourse.slicer.org/t/9332
+---
+
 # Which HMD is better for Slicer 3D VR?
 
 **Topic ID**: 9332

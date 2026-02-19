@@ -1,3 +1,10 @@
+---
+topic_id: 10272
+title: "How To Close The Widget"
+date: 2020-02-15
+url: https://discourse.slicer.org/t/10272
+---
+
 # How to close the Widget
 
 **Topic ID**: 10272

@@ -1,3 +1,10 @@
+---
+topic_id: 21362
+title: "How To Change The Parameters Of The Reconstruction"
+date: 2022-01-08
+url: https://discourse.slicer.org/t/21362
+---
+
 # how to change the parameters of the reconstruction?
 
 **Topic ID**: 21362

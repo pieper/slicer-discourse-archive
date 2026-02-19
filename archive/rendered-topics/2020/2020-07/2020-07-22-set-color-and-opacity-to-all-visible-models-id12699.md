@@ -1,3 +1,10 @@
+---
+topic_id: 12699
+title: "Set Color And Opacity To All Visible Models"
+date: 2020-07-22
+url: https://discourse.slicer.org/t/12699
+---
+
 # Set Color and Opacity to all Visible Models
 
 **Topic ID**: 12699

@@ -1,3 +1,10 @@
+---
+topic_id: 25952
+title: "Slicervr Object Not Rendered"
+date: 2022-10-28
+url: https://discourse.slicer.org/t/25952
+---
+
 # SlicerVR: Object not rendered
 
 **Topic ID**: 25952

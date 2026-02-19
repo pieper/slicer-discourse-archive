@@ -1,3 +1,10 @@
+---
+topic_id: 17188
+title: "2021 04 19 Transitioning Discourse Plan Expect 15 Minutes Of"
+date: 2021-04-19
+url: https://discourse.slicer.org/t/17188
+---
+
 # 2021.04.19 Transitioning Discourse plan: Expect 15 minutes of read-only time
 
 **Topic ID**: 17188

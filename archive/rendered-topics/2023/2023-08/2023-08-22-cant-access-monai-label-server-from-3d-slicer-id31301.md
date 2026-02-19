@@ -1,3 +1,10 @@
+---
+topic_id: 31301
+title: "Cant Access Monai Label Server From 3D Slicer"
+date: 2023-08-22
+url: https://discourse.slicer.org/t/31301
+---
+
 # Can't access MONAI Label server from 3D Slicer
 
 **Topic ID**: 31301

@@ -1,3 +1,10 @@
+---
+topic_id: 9882
+title: "Debugging Step By Step"
+date: 2020-01-20
+url: https://discourse.slicer.org/t/9882
+---
+
 # Debugging step by step
 
 **Topic ID**: 9882

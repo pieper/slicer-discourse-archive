@@ -1,3 +1,10 @@
+---
+topic_id: 37519
+title: "Ear Cartilage Segmentation"
+date: 2024-07-23
+url: https://discourse.slicer.org/t/37519
+---
+
 # Ear cartilage segmentation
 
 **Topic ID**: 37519

@@ -1,3 +1,10 @@
+---
+topic_id: 5639
+title: "Echograph For 3D Model"
+date: 2019-02-05
+url: https://discourse.slicer.org/t/5639
+---
+
 # Echograph for 3d model
 
 **Topic ID**: 5639

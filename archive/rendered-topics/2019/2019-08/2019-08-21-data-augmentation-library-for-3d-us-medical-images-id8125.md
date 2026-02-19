@@ -1,3 +1,10 @@
+---
+topic_id: 8125
+title: "Data Augmentation Library For 3D Us Medical Images"
+date: 2019-08-21
+url: https://discourse.slicer.org/t/8125
+---
+
 # Data augmentation library for 3D (US) medical images
 
 **Topic ID**: 8125

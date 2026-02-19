@@ -1,3 +1,10 @@
+---
+topic_id: 14877
+title: "Use Hdf5 Library In A Slicer Module"
+date: 2020-12-04
+url: https://discourse.slicer.org/t/14877
+---
+
 # Use HDF5 library in a Slicer module
 
 **Topic ID**: 14877

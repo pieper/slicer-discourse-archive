@@ -1,3 +1,10 @@
+---
+topic_id: 16695
+title: "Create Roi From Pet Data"
+date: 2021-03-22
+url: https://discourse.slicer.org/t/16695
+---
+
 # Create ROI from PET data
 
 **Topic ID**: 16695

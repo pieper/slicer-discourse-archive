@@ -1,3 +1,10 @@
+---
+topic_id: 18234
+title: "Crash On Selecting Point Properties After Using Surface Cut"
+date: 2021-06-20
+url: https://discourse.slicer.org/t/18234
+---
+
 # Crash on selecting point properties after using Surface Cut
 
 **Topic ID**: 18234

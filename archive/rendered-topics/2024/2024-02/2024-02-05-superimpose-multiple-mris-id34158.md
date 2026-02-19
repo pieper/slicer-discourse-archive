@@ -1,3 +1,10 @@
+---
+topic_id: 34158
+title: "Superimpose Multiple Mris"
+date: 2024-02-05
+url: https://discourse.slicer.org/t/34158
+---
+
 # Superimpose multiple MRIs
 
 **Topic ID**: 34158

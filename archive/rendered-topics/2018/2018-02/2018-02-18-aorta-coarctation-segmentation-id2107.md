@@ -1,3 +1,10 @@
+---
+topic_id: 2107
+title: "Aorta Coarctation Segmentation"
+date: 2018-02-18
+url: https://discourse.slicer.org/t/2107
+---
+
 # Aorta coarctation segmentation
 
 **Topic ID**: 2107

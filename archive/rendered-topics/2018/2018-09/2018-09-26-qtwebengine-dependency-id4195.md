@@ -1,3 +1,10 @@
+---
+topic_id: 4195
+title: "Qtwebengine Dependency"
+date: 2018-09-26
+url: https://discourse.slicer.org/t/4195
+---
+
 # QtWebEngine dependency
 
 **Topic ID**: 4195

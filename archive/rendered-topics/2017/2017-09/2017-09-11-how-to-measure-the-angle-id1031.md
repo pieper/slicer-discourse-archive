@@ -1,3 +1,10 @@
+---
+topic_id: 1031
+title: "How To Measure The Angle"
+date: 2017-09-11
+url: https://discourse.slicer.org/t/1031
+---
+
 # How to measure the angle?
 
 **Topic ID**: 1031

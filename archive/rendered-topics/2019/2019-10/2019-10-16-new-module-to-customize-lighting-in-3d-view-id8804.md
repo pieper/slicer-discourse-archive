@@ -1,3 +1,10 @@
+---
+topic_id: 8804
+title: "New Module To Customize Lighting In 3D View"
+date: 2019-10-16
+url: https://discourse.slicer.org/t/8804
+---
+
 # New module to customize lighting in 3D view
 
 **Topic ID**: 8804

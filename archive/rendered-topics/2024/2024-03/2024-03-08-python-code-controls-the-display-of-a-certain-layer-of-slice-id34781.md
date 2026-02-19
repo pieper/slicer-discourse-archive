@@ -1,3 +1,10 @@
+---
+topic_id: 34781
+title: "Python Code Controls The Display Of A Certain Layer Of Slice"
+date: 2024-03-08
+url: https://discourse.slicer.org/t/34781
+---
+
 # Python code controls the display of a certain layer of slices in the view
 
 **Topic ID**: 34781

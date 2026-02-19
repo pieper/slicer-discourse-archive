@@ -1,3 +1,10 @@
+---
+topic_id: 1170
+title: "How To Measure 3D Volumes Dimensions"
+date: 2017-10-04
+url: https://discourse.slicer.org/t/1170
+---
+
 # How to measure 3D volume's dimensions?
 
 **Topic ID**: 1170

@@ -1,3 +1,10 @@
+---
+topic_id: 21431
+title: "Running Slicer In A Web Browser Via Amazon Appstreams"
+date: 2022-01-13
+url: https://discourse.slicer.org/t/21431
+---
+
 # Running Slicer in a web browser via Amazon AppStreams
 
 **Topic ID**: 21431

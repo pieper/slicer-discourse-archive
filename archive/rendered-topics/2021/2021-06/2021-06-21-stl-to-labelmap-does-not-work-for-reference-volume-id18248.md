@@ -1,3 +1,10 @@
+---
+topic_id: 18248
+title: "Stl To Labelmap Does Not Work For Reference Volume"
+date: 2021-06-21
+url: https://discourse.slicer.org/t/18248
+---
+
 # stl to labelmap does not work for reference volume
 
 **Topic ID**: 18248

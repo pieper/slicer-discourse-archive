@@ -1,3 +1,10 @@
+---
+topic_id: 29514
+title: "Surface Dice Similarity Coefficient"
+date: 2023-05-17
+url: https://discourse.slicer.org/t/29514
+---
+
 # Surface Dice similarity coefficient
 
 **Topic ID**: 29514

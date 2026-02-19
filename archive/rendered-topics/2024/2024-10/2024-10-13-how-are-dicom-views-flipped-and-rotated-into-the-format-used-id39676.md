@@ -1,3 +1,10 @@
+---
+topic_id: 39676
+title: "How Are Dicom Views Flipped And Rotated Into The Format Used"
+date: 2024-10-13
+url: https://discourse.slicer.org/t/39676
+---
+
 # How are dicom views flipped and rotated into the format used in 3d slicer?
 
 **Topic ID**: 39676

@@ -1,3 +1,10 @@
+---
+topic_id: 12034
+title: "Issue With Mean Diffusivity Scalar Measurement"
+date: 2020-06-15
+url: https://discourse.slicer.org/t/12034
+---
+
 # Issue with Mean diffusivity scalar measurement
 
 **Topic ID**: 12034

@@ -1,3 +1,10 @@
+---
+topic_id: 4618
+title: "Cli Modules At Slicer Vs Built Slicer"
+date: 2018-11-01
+url: https://discourse.slicer.org/t/4618
+---
+
 # Cli modules at Slicer vs built Slicer
 
 **Topic ID**: 4618

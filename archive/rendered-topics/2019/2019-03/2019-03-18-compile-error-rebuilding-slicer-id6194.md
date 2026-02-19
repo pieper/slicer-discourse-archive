@@ -1,3 +1,10 @@
+---
+topic_id: 6194
+title: "Compile Error Rebuilding Slicer"
+date: 2019-03-18
+url: https://discourse.slicer.org/t/6194
+---
+
 # Compile error rebuilding Slicer
 
 **Topic ID**: 6194

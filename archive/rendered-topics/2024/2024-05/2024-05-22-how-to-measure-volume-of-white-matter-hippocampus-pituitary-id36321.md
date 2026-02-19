@@ -1,3 +1,10 @@
+---
+topic_id: 36321
+title: "How To Measure Volume Of White Matter Hippocampus Pituitary"
+date: 2024-05-22
+url: https://discourse.slicer.org/t/36321
+---
+
 # How to measure volume of white matter, hippocampus, pituitary and grey matter?
 
 **Topic ID**: 36321

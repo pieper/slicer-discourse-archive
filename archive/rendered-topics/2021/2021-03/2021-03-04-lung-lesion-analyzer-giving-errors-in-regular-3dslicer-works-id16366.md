@@ -1,3 +1,10 @@
+---
+topic_id: 16366
+title: "Lung Lesion Analyzer Giving Errors In Regular 3Dslicer Works"
+date: 2021-03-04
+url: https://discourse.slicer.org/t/16366
+---
+
 # Lung Lesion Analyzer giving errors in regular 3Dslicer, works properly in SlicerCIP
 
 **Topic ID**: 16366

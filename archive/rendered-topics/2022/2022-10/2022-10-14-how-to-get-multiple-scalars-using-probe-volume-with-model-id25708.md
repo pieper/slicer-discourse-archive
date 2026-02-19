@@ -1,3 +1,10 @@
+---
+topic_id: 25708
+title: "How To Get Multiple Scalars Using Probe Volume With Model"
+date: 2022-10-14
+url: https://discourse.slicer.org/t/25708
+---
+
 # How to get multiple scalars using Probe Volume With Model?
 
 **Topic ID**: 25708

@@ -1,3 +1,10 @@
+---
+topic_id: 2390
+title: "Framebuffer Has An Attachment Error"
+date: 2018-03-21
+url: https://discourse.slicer.org/t/2390
+---
+
 # Framebuffer has an attachment error
 
 **Topic ID**: 2390

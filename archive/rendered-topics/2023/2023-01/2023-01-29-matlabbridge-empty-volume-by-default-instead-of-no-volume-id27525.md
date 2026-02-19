@@ -1,3 +1,10 @@
+---
+topic_id: 27525
+title: "Matlabbridge Empty Volume By Default Instead Of No Volume"
+date: 2023-01-29
+url: https://discourse.slicer.org/t/27525
+---
+
 # MatlabBridge - empty volume by default instead of no volume
 
 **Topic ID**: 27525

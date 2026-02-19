@@ -1,3 +1,10 @@
+---
+topic_id: 38192
+title: "Automated Detection Of Aortic Sinus Points And Central Coord"
+date: 2024-09-04
+url: https://discourse.slicer.org/t/38192
+---
+
 # Automated Detection of Aortic Sinus Points and Central Coordinate Calculation in Python
 
 **Topic ID**: 38192

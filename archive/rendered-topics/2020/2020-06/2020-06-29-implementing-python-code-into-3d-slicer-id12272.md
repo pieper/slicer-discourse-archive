@@ -1,3 +1,10 @@
+---
+topic_id: 12272
+title: "Implementing Python Code Into 3D Slicer"
+date: 2020-06-29
+url: https://discourse.slicer.org/t/12272
+---
+
 # Implementing Python Code Into 3D Slicer
 
 **Topic ID**: 12272

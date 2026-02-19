@@ -1,3 +1,10 @@
+---
+topic_id: 33416
+title: "Call A Widgets Methods In Python"
+date: 2023-12-16
+url: https://discourse.slicer.org/t/33416
+---
+
 # Call a widget's methods in Python
 
 **Topic ID**: 33416

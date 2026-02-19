@@ -1,3 +1,10 @@
+---
+topic_id: 34480
+title: "Saving Mesh As Ascii With Segment Mesher"
+date: 2024-02-22
+url: https://discourse.slicer.org/t/34480
+---
+
 # Saving mesh as ASCII with Segment Mesher
 
 **Topic ID**: 34480

@@ -1,3 +1,10 @@
+---
+topic_id: 16785
+title: "My Deep Learning Module Is Not Available"
+date: 2021-03-27
+url: https://discourse.slicer.org/t/16785
+---
+
 # My deep learning module is not available
 
 **Topic ID**: 16785

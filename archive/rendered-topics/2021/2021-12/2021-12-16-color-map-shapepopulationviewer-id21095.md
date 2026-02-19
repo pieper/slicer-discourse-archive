@@ -1,3 +1,10 @@
+---
+topic_id: 21095
+title: "Color Map Shapepopulationviewer"
+date: 2021-12-16
+url: https://discourse.slicer.org/t/21095
+---
+
 # Color Map - ShapePopulationViewer
 
 **Topic ID**: 21095

@@ -1,3 +1,10 @@
+---
+topic_id: 21594
+title: "Slicer Qt Loadable Modules As Libraries To Support Other Mod"
+date: 2022-01-24
+url: https://discourse.slicer.org/t/21594
+---
+
 # Slicer qt-loadable-modules as libraries to support other modules
 
 **Topic ID**: 21594

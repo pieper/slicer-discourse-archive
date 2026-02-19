@@ -1,3 +1,10 @@
+---
+topic_id: 2042
+title: "Saving T1 Weighted Image And Segmentation Labels As One File"
+date: 2018-02-07
+url: https://discourse.slicer.org/t/2042
+---
+
 # Saving T1-weighted image and segmentation labels as one file
 
 **Topic ID**: 2042

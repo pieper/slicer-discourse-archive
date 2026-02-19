@@ -1,3 +1,10 @@
+---
+topic_id: 24674
+title: "Shapevariationanalyzer In 3D Slicer"
+date: 2022-08-08
+url: https://discourse.slicer.org/t/24674
+---
+
 # ShapeVariationAnalyzer in 3D Slicer
 
 **Topic ID**: 24674

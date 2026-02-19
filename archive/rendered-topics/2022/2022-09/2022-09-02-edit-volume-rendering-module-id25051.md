@@ -1,3 +1,10 @@
+---
+topic_id: 25051
+title: "Edit Volume Rendering Module"
+date: 2022-09-02
+url: https://discourse.slicer.org/t/25051
+---
+
 # Edit Volume Rendering Module
 
 **Topic ID**: 25051

@@ -1,3 +1,10 @@
+---
+topic_id: 6053
+title: "Floating 2D Slice Frame In Segment Editor"
+date: 2019-03-07
+url: https://discourse.slicer.org/t/6053
+---
+
 # Floating 2d Slice/Frame in Segment Editor
 
 **Topic ID**: 6053

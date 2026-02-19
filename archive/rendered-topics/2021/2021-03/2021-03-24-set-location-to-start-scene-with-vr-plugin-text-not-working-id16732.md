@@ -1,3 +1,10 @@
+---
+topic_id: 16732
+title: "Set Location To Start Scene With Vr Plugin Text Not Working"
+date: 2021-03-24
+url: https://discourse.slicer.org/t/16732
+---
+
 # Set location to start scene with VR plugin. Text not working in VR pluging
 
 **Topic ID**: 16732

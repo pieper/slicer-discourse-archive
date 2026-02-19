@@ -1,3 +1,10 @@
+---
+topic_id: 14742
+title: "Can I Get The Value Of This Points For Volumerendering"
+date: 2020-11-23
+url: https://discourse.slicer.org/t/14742
+---
+
 # Can I get the value of this points for VolumeRendering?
 
 **Topic ID**: 14742

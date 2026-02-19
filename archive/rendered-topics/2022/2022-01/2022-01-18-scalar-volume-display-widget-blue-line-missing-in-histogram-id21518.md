@@ -1,3 +1,10 @@
+---
+topic_id: 21518
+title: "Scalar Volume Display Widget Blue Line Missing In Histogram"
+date: 2022-01-18
+url: https://discourse.slicer.org/t/21518
+---
+
 # [Scalar Volume Display Widget] Blue line missing in histogram
 
 **Topic ID**: 21518

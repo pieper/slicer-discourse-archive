@@ -1,3 +1,10 @@
+---
+topic_id: 28305
+title: "Point Coordinates In Model Imported Into The 3D Slicer Diffe"
+date: 2023-03-11
+url: https://discourse.slicer.org/t/28305
+---
+
 # Point coordinates in model imported into the 3D Slicer differ from the coordinates in the file
 
 **Topic ID**: 28305

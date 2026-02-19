@@ -1,3 +1,10 @@
+---
+topic_id: 10970
+title: "Export Segmentation As Bin File"
+date: 2020-04-02
+url: https://discourse.slicer.org/t/10970
+---
+
 # Export segmentation as bin file
 
 **Topic ID**: 10970

@@ -1,3 +1,10 @@
+---
+topic_id: 31717
+title: "Segment The Osteoderm Of A Lizard"
+date: 2023-09-14
+url: https://discourse.slicer.org/t/31717
+---
+
 # Segment the osteoderm of a lizard
 
 **Topic ID**: 31717

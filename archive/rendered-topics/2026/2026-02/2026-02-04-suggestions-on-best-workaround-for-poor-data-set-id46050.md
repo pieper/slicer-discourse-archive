@@ -1,3 +1,10 @@
+---
+topic_id: 46050
+title: "Suggestions On Best Workaround For Poor Data Set"
+date: 2026-02-04
+url: https://discourse.slicer.org/t/46050
+---
+
 # Suggestions on best workaround for poor data set
 
 **Topic ID**: 46050

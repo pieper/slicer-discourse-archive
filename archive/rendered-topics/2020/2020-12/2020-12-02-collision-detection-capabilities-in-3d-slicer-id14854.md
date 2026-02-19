@@ -1,3 +1,10 @@
+---
+topic_id: 14854
+title: "Collision Detection Capabilities In 3D Slicer"
+date: 2020-12-02
+url: https://discourse.slicer.org/t/14854
+---
+
 # Collision Detection Capabilities in 3D Slicer
 
 **Topic ID**: 14854

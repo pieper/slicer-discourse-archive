@@ -1,3 +1,10 @@
+---
+topic_id: 17296
+title: "Interactive Lobe Segmentation With One Lobe Missing"
+date: 2021-04-24
+url: https://discourse.slicer.org/t/17296
+---
+
 # Interactive lobe segmentation with one lobe missing
 
 **Topic ID**: 17296

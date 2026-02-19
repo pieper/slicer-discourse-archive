@@ -1,3 +1,10 @@
+---
+topic_id: 42688
+title: "How To Convert Xyz To Ras"
+date: 2025-04-25
+url: https://discourse.slicer.org/t/42688
+---
+
 # How to convert xyz to RAS
 
 **Topic ID**: 42688

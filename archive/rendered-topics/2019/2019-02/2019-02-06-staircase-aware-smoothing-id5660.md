@@ -1,3 +1,10 @@
+---
+topic_id: 5660
+title: "Staircase Aware Smoothing"
+date: 2019-02-06
+url: https://discourse.slicer.org/t/5660
+---
+
 # Staircase aware smoothing
 
 **Topic ID**: 5660

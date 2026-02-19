@@ -1,3 +1,10 @@
+---
+topic_id: 40946
+title: "What Is The Proper Way Of Including A Gpl Licensed Code In A"
+date: 2025-01-03
+url: https://discourse.slicer.org/t/40946
+---
+
 # What is the proper way of including a GPL licensed code in an extension
 
 **Topic ID**: 40946

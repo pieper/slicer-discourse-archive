@@ -1,3 +1,10 @@
+---
+topic_id: 11839
+title: "Vtkactor Management"
+date: 2020-06-02
+url: https://discourse.slicer.org/t/11839
+---
+
 # vtkActor management
 
 **Topic ID**: 11839

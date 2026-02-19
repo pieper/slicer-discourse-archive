@@ -1,3 +1,10 @@
+---
+topic_id: 44925
+title: "Hounsfields Units In Version 5 8 1 For Windows"
+date: 2025-10-31
+url: https://discourse.slicer.org/t/44925
+---
+
 # Hounsfields units in Version 5.8.1 for windows
 
 **Topic ID**: 44925

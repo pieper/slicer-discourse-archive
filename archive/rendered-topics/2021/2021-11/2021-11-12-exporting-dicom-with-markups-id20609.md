@@ -1,3 +1,10 @@
+---
+topic_id: 20609
+title: "Exporting Dicom With Markups"
+date: 2021-11-12
+url: https://discourse.slicer.org/t/20609
+---
+
 # Exporting DICOM with Markups
 
 **Topic ID**: 20609

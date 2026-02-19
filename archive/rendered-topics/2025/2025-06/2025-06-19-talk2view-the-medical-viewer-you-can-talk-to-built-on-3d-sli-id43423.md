@@ -1,3 +1,10 @@
+---
+topic_id: 43423
+title: "Talk2View The Medical Viewer You Can Talk To Built On 3D Sli"
+date: 2025-06-19
+url: https://discourse.slicer.org/t/43423
+---
+
 # Talk2View - The medical viewer you can talk to - Built on 3D Slicer
 
 **Topic ID**: 43423

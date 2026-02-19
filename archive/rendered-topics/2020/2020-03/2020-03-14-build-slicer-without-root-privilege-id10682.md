@@ -1,3 +1,10 @@
+---
+topic_id: 10682
+title: "Build Slicer Without Root Privilege"
+date: 2020-03-14
+url: https://discourse.slicer.org/t/10682
+---
+
 # Build slicer without root privilege?
 
 **Topic ID**: 10682

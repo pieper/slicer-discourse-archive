@@ -1,3 +1,10 @@
+---
+topic_id: 8761
+title: "Is There A Way To Show Existing Implants In A 3D Model"
+date: 2019-10-13
+url: https://discourse.slicer.org/t/8761
+---
+
 # Is there a way to show existing implants in a 3d model?
 
 **Topic ID**: 8761

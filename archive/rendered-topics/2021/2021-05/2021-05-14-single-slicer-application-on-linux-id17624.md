@@ -1,3 +1,10 @@
+---
+topic_id: 17624
+title: "Single Slicer Application On Linux"
+date: 2021-05-14
+url: https://discourse.slicer.org/t/17624
+---
+
 # Single Slicer application on Linux
 
 **Topic ID**: 17624

@@ -1,3 +1,10 @@
+---
+topic_id: 6820
+title: "Dicom Error In 3D Slicer"
+date: 2019-05-16
+url: https://discourse.slicer.org/t/6820
+---
+
 # DICOM error in 3D slicer
 
 **Topic ID**: 6820

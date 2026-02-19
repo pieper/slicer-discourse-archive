@@ -1,3 +1,10 @@
+---
+topic_id: 8412
+title: "Extensions Are Not Working When Building Slicer From Scratch"
+date: 2019-09-13
+url: https://discourse.slicer.org/t/8412
+---
+
 # Extensions are not working when building Slicer from scratch
 
 **Topic ID**: 8412

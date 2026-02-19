@@ -1,3 +1,10 @@
+---
+topic_id: 41118
+title: "Version 5 6 2 Cerebral Vasculature Segmentation From Mr"
+date: 2025-01-16
+url: https://discourse.slicer.org/t/41118
+---
+
 # Version 5.6.2 cerebral vasculature segmentation from MR
 
 **Topic ID**: 41118

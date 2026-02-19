@@ -1,3 +1,10 @@
+---
+topic_id: 3016
+title: "How To Get The Coordinates Of Intersection Between Vessel Ce"
+date: 2018-05-30
+url: https://discourse.slicer.org/t/3016
+---
+
 # How to get the coordinates of intersection between vessel centerline and sequential MRI/CT slices in markup fiducials?
 
 **Topic ID**: 3016

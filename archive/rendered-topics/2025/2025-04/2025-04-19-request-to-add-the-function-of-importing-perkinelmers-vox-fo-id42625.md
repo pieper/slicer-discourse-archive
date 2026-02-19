@@ -1,3 +1,10 @@
+---
+topic_id: 42625
+title: "Request To Add The Function Of Importing Perkinelmers Vox Fo"
+date: 2025-04-19
+url: https://discourse.slicer.org/t/42625
+---
+
 # Request to add the function of importing PerkinElmer's .vox format data
 
 **Topic ID**: 42625

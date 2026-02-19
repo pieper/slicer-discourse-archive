@@ -1,3 +1,10 @@
+---
+topic_id: 18797
+title: "Convert A Segment To Np Array"
+date: 2021-07-19
+url: https://discourse.slicer.org/t/18797
+---
+
 # Convert a segment to np array
 
 **Topic ID**: 18797

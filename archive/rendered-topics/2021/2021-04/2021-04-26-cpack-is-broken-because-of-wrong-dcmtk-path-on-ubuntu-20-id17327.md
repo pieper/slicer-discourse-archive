@@ -1,3 +1,10 @@
+---
+topic_id: 17327
+title: "Cpack Is Broken Because Of Wrong Dcmtk Path On Ubuntu 20"
+date: 2021-04-26
+url: https://discourse.slicer.org/t/17327
+---
+
 # Cpack is broken because of wrong dcmtk path on Ubuntu 20
 
 **Topic ID**: 17327

@@ -1,3 +1,10 @@
+---
+topic_id: 18086
+title: "Importing Dicoms Only First Image Is Imported"
+date: 2021-06-12
+url: https://discourse.slicer.org/t/18086
+---
+
 # Importing dicoms only first image is imported
 
 **Topic ID**: 18086

@@ -1,3 +1,10 @@
+---
+topic_id: 18074
+title: "Is There An Option To Duplicate A Segment"
+date: 2021-06-11
+url: https://discourse.slicer.org/t/18074
+---
+
 # Is there an option to duplicate a segment?
 
 **Topic ID**: 18074

@@ -1,3 +1,10 @@
+---
+topic_id: 1220
+title: "Update Existent Extension On Extensionmanager Nightly Linux"
+date: 2017-10-13
+url: https://discourse.slicer.org/t/1220
+---
+
 # Update existent extension on ExtensionManager - Nightly - Linux
 
 **Topic ID**: 1220

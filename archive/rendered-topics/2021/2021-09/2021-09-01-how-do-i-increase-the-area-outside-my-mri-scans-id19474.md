@@ -1,3 +1,10 @@
+---
+topic_id: 19474
+title: "How Do I Increase The Area Outside My Mri Scans"
+date: 2021-09-01
+url: https://discourse.slicer.org/t/19474
+---
+
 # How do I increase the area outside my mri scans?
 
 **Topic ID**: 19474

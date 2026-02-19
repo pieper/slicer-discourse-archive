@@ -1,3 +1,10 @@
+---
+topic_id: 34055
+title: "Given Plane Center And Normal How To Calculate Basetonode"
+date: 2024-01-31
+url: https://discourse.slicer.org/t/34055
+---
+
 # Given plane center and normal, How to calculate baseToNode
 
 **Topic ID**: 34055

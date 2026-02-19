@@ -1,3 +1,10 @@
+---
+topic_id: 17273
+title: "Export Dicom Structure Set"
+date: 2021-04-23
+url: https://discourse.slicer.org/t/17273
+---
+
 # Export Dicom Structure Set
 
 **Topic ID**: 17273

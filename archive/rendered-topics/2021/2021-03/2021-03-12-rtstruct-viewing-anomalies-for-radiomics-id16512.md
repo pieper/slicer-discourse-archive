@@ -1,3 +1,10 @@
+---
+topic_id: 16512
+title: "Rtstruct Viewing Anomalies For Radiomics"
+date: 2021-03-12
+url: https://discourse.slicer.org/t/16512
+---
+
 # RTStruct viewing anomalies for radiomics
 
 **Topic ID**: 16512

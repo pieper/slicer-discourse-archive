@@ -1,3 +1,10 @@
+---
+topic_id: 39738
+title: "Slicerigt Tutorial"
+date: 2024-10-17
+url: https://discourse.slicer.org/t/39738
+---
+
 # SlicerIGT tutorial
 
 **Topic ID**: 39738

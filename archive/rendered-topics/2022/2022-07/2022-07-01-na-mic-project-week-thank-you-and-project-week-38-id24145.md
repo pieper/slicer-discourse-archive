@@ -1,3 +1,10 @@
+---
+topic_id: 24145
+title: "Na Mic Project Week Thank You And Project Week 38"
+date: 2022-07-01
+url: https://discourse.slicer.org/t/24145
+---
+
 # [Na-mic-project-week] Thank you and Project Week 38
 
 **Topic ID**: 24145

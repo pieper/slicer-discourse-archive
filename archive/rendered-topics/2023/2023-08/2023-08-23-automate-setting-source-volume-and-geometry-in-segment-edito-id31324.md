@@ -1,3 +1,10 @@
+---
+topic_id: 31324
+title: "Automate Setting Source Volume And Geometry In Segment Edito"
+date: 2023-08-23
+url: https://discourse.slicer.org/t/31324
+---
+
 # Automate setting source volume and geometry in Segment Editor 
 
 **Topic ID**: 31324

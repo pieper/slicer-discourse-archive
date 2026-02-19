@@ -1,3 +1,10 @@
+---
+topic_id: 23029
+title: "Incorrect Dicom Import"
+date: 2022-04-19
+url: https://discourse.slicer.org/t/23029
+---
+
 # Incorrect DICOM import
 
 **Topic ID**: 23029

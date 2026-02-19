@@ -1,3 +1,10 @@
+---
+topic_id: 5846
+title: "Creating Vtkpolydatamodel From Png Stack"
+date: 2019-02-20
+url: https://discourse.slicer.org/t/5846
+---
+
 # Creating vtkPolyDataModel from PNG stack
 
 **Topic ID**: 5846

@@ -1,3 +1,10 @@
+---
+topic_id: 23332
+title: "In Nrdd File Format Cbct Scan Of Any Skull"
+date: 2022-05-08
+url: https://discourse.slicer.org/t/23332
+---
+
 # In NRDD file format, CBCT scan of any skull
 
 **Topic ID**: 23332

@@ -1,3 +1,10 @@
+---
+topic_id: 990
+title: "Thresholds For Colors In Foreground Layer"
+date: 2017-09-01
+url: https://discourse.slicer.org/t/990
+---
+
 # Thresholds for colors in foreground layer
 
 **Topic ID**: 990

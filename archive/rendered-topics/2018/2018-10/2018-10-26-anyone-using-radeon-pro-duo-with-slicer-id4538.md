@@ -1,3 +1,10 @@
+---
+topic_id: 4538
+title: "Anyone Using Radeon Pro Duo With Slicer"
+date: 2018-10-26
+url: https://discourse.slicer.org/t/4538
+---
+
 # Anyone using Radeon Pro Duo with Slicer?
 
 **Topic ID**: 4538

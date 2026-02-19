@@ -1,3 +1,10 @@
+---
+topic_id: 9468
+title: "Can I Import A Py With No Class"
+date: 2019-12-10
+url: https://discourse.slicer.org/t/9468
+---
+
 # Can I import a py with no class?
 
 **Topic ID**: 9468

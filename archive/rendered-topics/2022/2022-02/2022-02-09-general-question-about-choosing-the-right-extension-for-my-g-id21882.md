@@ -1,3 +1,10 @@
+---
+topic_id: 21882
+title: "General Question About Choosing The Right Extension For My G"
+date: 2022-02-09
+url: https://discourse.slicer.org/t/21882
+---
+
 # General question about choosing the right extension for my goal 
 
 **Topic ID**: 21882

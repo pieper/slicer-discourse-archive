@@ -1,3 +1,10 @@
+---
+topic_id: 172
+title: "Add 3D Slicer To Awesome Health List"
+date: 2017-04-22
+url: https://discourse.slicer.org/t/172
+---
+
 # Add 3D Slicer to awesome-health list
 
 **Topic ID**: 172

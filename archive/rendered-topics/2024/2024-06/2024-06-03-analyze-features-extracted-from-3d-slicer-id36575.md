@@ -1,3 +1,10 @@
+---
+topic_id: 36575
+title: "Analyze Features Extracted From 3D Slicer"
+date: 2024-06-03
+url: https://discourse.slicer.org/t/36575
+---
+
 # Analyze features extracted from 3d Slicer
 
 **Topic ID**: 36575

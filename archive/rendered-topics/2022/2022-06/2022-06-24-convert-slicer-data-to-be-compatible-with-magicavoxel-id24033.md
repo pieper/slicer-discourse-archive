@@ -1,3 +1,10 @@
+---
+topic_id: 24033
+title: "Convert Slicer Data To Be Compatible With Magicavoxel"
+date: 2022-06-24
+url: https://discourse.slicer.org/t/24033
+---
+
 # Convert Slicer data to be compatible with MagicaVoxel
 
 **Topic ID**: 24033

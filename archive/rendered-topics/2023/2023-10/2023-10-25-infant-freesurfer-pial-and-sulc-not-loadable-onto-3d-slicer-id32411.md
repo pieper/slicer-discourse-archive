@@ -1,3 +1,10 @@
+---
+topic_id: 32411
+title: "Infant Freesurfer Pial And Sulc Not Loadable Onto 3D Slicer"
+date: 2023-10-25
+url: https://discourse.slicer.org/t/32411
+---
+
 # Infant Freesurfer .pial and .sulc not loadable onto 3d Slicer 5.3.0
 
 **Topic ID**: 32411

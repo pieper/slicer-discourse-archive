@@ -1,3 +1,10 @@
+---
+topic_id: 13326
+title: "Fiducials Configuration For Spatial Calibration With No Stre"
+date: 2020-09-03
+url: https://discourse.slicer.org/t/13326
+---
+
 # Fiducials configuration for spatial calibration with no streaming of 'StylusToProbe' transform
 
 **Topic ID**: 13326

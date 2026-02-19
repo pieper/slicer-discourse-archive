@@ -1,3 +1,10 @@
+---
+topic_id: 34122
+title: "Survey Investigating The Role Of Public Imaging Data In Rese"
+date: 2024-02-02
+url: https://discourse.slicer.org/t/34122
+---
+
 # Survey: Investigating the role of public imaging data in research
 
 **Topic ID**: 34122

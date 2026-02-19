@@ -1,3 +1,10 @@
+---
+topic_id: 1488
+title: "Load Arbitrary Contiguous Dicom Files In A Single Volume"
+date: 2017-11-19
+url: https://discourse.slicer.org/t/1488
+---
+
 # Load arbitrary contiguous DICOM files in a single volume
 
 **Topic ID**: 1488

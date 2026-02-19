@@ -1,3 +1,10 @@
+---
+topic_id: 10469
+title: "Any Provisions For Publication Thesis Use 3D Slicer"
+date: 2020-02-28
+url: https://discourse.slicer.org/t/10469
+---
+
 # Any provisions for publication thesis use 3d slicer? 
 
 **Topic ID**: 10469

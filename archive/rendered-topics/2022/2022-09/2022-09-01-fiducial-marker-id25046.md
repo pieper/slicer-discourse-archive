@@ -1,3 +1,10 @@
+---
+topic_id: 25046
+title: "Fiducial Marker"
+date: 2022-09-01
+url: https://discourse.slicer.org/t/25046
+---
+
 # Fiducial Marker
 
 **Topic ID**: 25046

@@ -1,3 +1,10 @@
+---
+topic_id: 34906
+title: "How To Get The Difference Between Two Geometries From Two Di"
+date: 2024-03-15
+url: https://discourse.slicer.org/t/34906
+---
+
 # how to get the difference between two geometries from two different scans
 
 **Topic ID**: 34906

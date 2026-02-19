@@ -1,3 +1,10 @@
+---
+topic_id: 12902
+title: "Slicerdcm2Nii Error"
+date: 2020-08-08
+url: https://discourse.slicer.org/t/12902
+---
+
 # SlicerDcm2nii error
 
 **Topic ID**: 12902

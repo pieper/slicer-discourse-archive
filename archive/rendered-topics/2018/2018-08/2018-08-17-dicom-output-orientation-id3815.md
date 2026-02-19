@@ -1,3 +1,10 @@
+---
+topic_id: 3815
+title: "Dicom Output Orientation"
+date: 2018-08-17
+url: https://discourse.slicer.org/t/3815
+---
+
 # Dicom Output Orientation
 
 **Topic ID**: 3815

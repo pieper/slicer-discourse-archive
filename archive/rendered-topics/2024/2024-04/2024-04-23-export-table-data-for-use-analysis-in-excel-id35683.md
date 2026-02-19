@@ -1,3 +1,10 @@
+---
+topic_id: 35683
+title: "Export Table Data For Use Analysis In Excel"
+date: 2024-04-23
+url: https://discourse.slicer.org/t/35683
+---
+
 # Export table data for use/analysis in Excel
 
 **Topic ID**: 35683

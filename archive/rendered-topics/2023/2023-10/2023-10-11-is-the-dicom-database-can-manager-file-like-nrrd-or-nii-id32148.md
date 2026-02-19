@@ -1,3 +1,10 @@
+---
+topic_id: 32148
+title: "Is The Dicom Database Can Manager File Like Nrrd Or Nii"
+date: 2023-10-11
+url: https://discourse.slicer.org/t/32148
+---
+
 # Is the dicom database can manager file like .nrrd or .nii?
 
 **Topic ID**: 32148

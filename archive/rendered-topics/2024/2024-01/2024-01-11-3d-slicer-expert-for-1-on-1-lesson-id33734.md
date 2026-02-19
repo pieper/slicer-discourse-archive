@@ -1,3 +1,10 @@
+---
+topic_id: 33734
+title: "3D Slicer Expert For 1 On 1 Lesson"
+date: 2024-01-11
+url: https://discourse.slicer.org/t/33734
+---
+
 # 3D Slicer expert for 1 on 1 lesson
 
 **Topic ID**: 33734

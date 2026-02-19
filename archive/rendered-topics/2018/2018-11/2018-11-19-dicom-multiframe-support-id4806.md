@@ -1,3 +1,10 @@
+---
+topic_id: 4806
+title: "Dicom Multiframe Support"
+date: 2018-11-19
+url: https://discourse.slicer.org/t/4806
+---
+
 # DICOM multiframe support
 
 **Topic ID**: 4806

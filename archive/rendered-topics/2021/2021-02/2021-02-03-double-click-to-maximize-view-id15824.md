@@ -1,3 +1,10 @@
+---
+topic_id: 15824
+title: "Double Click To Maximize View"
+date: 2021-02-03
+url: https://discourse.slicer.org/t/15824
+---
+
 # Double click to maximize view
 
 **Topic ID**: 15824

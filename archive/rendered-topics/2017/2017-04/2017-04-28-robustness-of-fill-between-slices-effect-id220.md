@@ -1,3 +1,10 @@
+---
+topic_id: 220
+title: "Robustness Of Fill Between Slices Effect"
+date: 2017-04-28
+url: https://discourse.slicer.org/t/220
+---
+
 # Robustness of "Fill between slices" effect
 
 **Topic ID**: 220

@@ -1,3 +1,10 @@
+---
+topic_id: 28723
+title: "How To Calculate The Muscle And Fat Volume After Muscle Segm"
+date: 2023-04-03
+url: https://discourse.slicer.org/t/28723
+---
+
 # How to calculate the muscle and fat volume after muscle segmentation and export it from 3d Slicer to excel sheet
 
 **Topic ID**: 28723

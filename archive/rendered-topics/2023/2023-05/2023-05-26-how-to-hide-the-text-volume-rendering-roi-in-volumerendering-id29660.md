@@ -1,3 +1,10 @@
+---
+topic_id: 29660
+title: "How To Hide The Text Volume Rendering Roi In Volumerendering"
+date: 2023-05-26
+url: https://discourse.slicer.org/t/29660
+---
+
 # How to hide the text "Volume Rendering ROI" in VolumeRendering Module?
 
 **Topic ID**: 29660

@@ -1,3 +1,10 @@
+---
+topic_id: 32154
+title: "Is This A Bug About The Plane Markups"
+date: 2023-10-11
+url: https://discourse.slicer.org/t/32154
+---
+
 # Is this a bug about the Plane Markups？
 
 **Topic ID**: 32154

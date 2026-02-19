@@ -1,3 +1,10 @@
+---
+topic_id: 37856
+title: "Multivolumeexplorer For 4D Nifti Image"
+date: 2024-08-13
+url: https://discourse.slicer.org/t/37856
+---
+
 # MultivolumeExplorer for 4D NIFTI image
 
 **Topic ID**: 37856

@@ -1,3 +1,10 @@
+---
+topic_id: 3448
+title: "Regularization Transform Is Not Applied To Generated Models"
+date: 2018-07-10
+url: https://discourse.slicer.org/t/3448
+---
+
 # Regularization transform is not applied to generated models
 
 **Topic ID**: 3448

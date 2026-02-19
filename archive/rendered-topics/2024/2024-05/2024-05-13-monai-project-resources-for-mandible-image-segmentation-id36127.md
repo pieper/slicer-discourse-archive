@@ -1,3 +1,10 @@
+---
+topic_id: 36127
+title: "Monai Project Resources For Mandible Image Segmentation"
+date: 2024-05-13
+url: https://discourse.slicer.org/t/36127
+---
+
 # MONAI Project Resources for Mandible Image Segmentation
 
 **Topic ID**: 36127

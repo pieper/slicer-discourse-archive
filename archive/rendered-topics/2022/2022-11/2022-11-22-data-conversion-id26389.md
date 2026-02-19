@@ -1,3 +1,10 @@
+---
+topic_id: 26389
+title: "Data Conversion"
+date: 2022-11-22
+url: https://discourse.slicer.org/t/26389
+---
+
 # Data conversion.
 
 **Topic ID**: 26389

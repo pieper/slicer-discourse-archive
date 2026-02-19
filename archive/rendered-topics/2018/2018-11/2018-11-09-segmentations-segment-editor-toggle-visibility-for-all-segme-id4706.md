@@ -1,3 +1,10 @@
+---
+topic_id: 4706
+title: "Segmentations Segment Editor Toggle Visibility For All Segme"
+date: 2018-11-09
+url: https://discourse.slicer.org/t/4706
+---
+
 # Segmentations/Segment Editor - toggle visibility for all segments
 
 **Topic ID**: 4706

@@ -1,3 +1,10 @@
+---
+topic_id: 6403
+title: "Creating Best Fit Planes And Best Fit Sphere"
+date: 2019-04-05
+url: https://discourse.slicer.org/t/6403
+---
+
 # creating best fit planes and best fit sphere
 
 **Topic ID**: 6403

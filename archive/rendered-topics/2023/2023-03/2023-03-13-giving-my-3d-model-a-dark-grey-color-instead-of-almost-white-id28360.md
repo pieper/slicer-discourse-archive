@@ -1,3 +1,10 @@
+---
+topic_id: 28360
+title: "Giving My 3D Model A Dark Grey Color Instead Of Almost White"
+date: 2023-03-13
+url: https://discourse.slicer.org/t/28360
+---
+
 # Giving my 3d model a dark grey color (instead of almost white)?
 
 **Topic ID**: 28360

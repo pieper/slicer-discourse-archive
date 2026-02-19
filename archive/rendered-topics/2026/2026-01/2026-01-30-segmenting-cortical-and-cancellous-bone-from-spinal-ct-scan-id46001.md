@@ -1,3 +1,10 @@
+---
+topic_id: 46001
+title: "Segmenting Cortical And Cancellous Bone From Spinal Ct Scan"
+date: 2026-01-30
+url: https://discourse.slicer.org/t/46001
+---
+
 # Segmenting cortical and cancellous bone from spinal ct scan
 
 **Topic ID**: 46001

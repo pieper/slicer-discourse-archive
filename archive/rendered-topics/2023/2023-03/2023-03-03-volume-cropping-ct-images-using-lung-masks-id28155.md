@@ -1,3 +1,10 @@
+---
+topic_id: 28155
+title: "Volume Cropping Ct Images Using Lung Masks"
+date: 2023-03-03
+url: https://discourse.slicer.org/t/28155
+---
+
 # Volume cropping CT images using lung masks
 
 **Topic ID**: 28155

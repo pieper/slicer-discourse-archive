@@ -1,3 +1,10 @@
+---
+topic_id: 11859
+title: "Mri Requirements For 3D Modeling"
+date: 2020-06-04
+url: https://discourse.slicer.org/t/11859
+---
+
 # MRI requirements for 3D modeling
 
 **Topic ID**: 11859

@@ -1,3 +1,10 @@
+---
+topic_id: 16868
+title: "Resectionplanner"
+date: 2021-03-31
+url: https://discourse.slicer.org/t/16868
+---
+
 # ResectionPlanner
 
 **Topic ID**: 16868

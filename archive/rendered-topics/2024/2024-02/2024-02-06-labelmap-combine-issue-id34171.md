@@ -1,3 +1,10 @@
+---
+topic_id: 34171
+title: "Labelmap Combine Issue"
+date: 2024-02-06
+url: https://discourse.slicer.org/t/34171
+---
+
 # Labelmap combine issue
 
 **Topic ID**: 34171

@@ -1,3 +1,10 @@
+---
+topic_id: 14063
+title: "Change Size And Color Of Markups Fiducials"
+date: 2020-10-15
+url: https://discourse.slicer.org/t/14063
+---
+
 # Change size and color of markups fiducials
 
 **Topic ID**: 14063

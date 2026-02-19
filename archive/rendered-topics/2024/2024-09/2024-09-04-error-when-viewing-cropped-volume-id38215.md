@@ -1,3 +1,10 @@
+---
+topic_id: 38215
+title: "Error When Viewing Cropped Volume"
+date: 2024-09-04
+url: https://discourse.slicer.org/t/38215
+---
+
 # Error when viewing cropped volume
 
 **Topic ID**: 38215

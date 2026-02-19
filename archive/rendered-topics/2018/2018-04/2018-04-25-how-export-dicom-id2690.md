@@ -1,3 +1,10 @@
+---
+topic_id: 2690
+title: "How Export Dicom"
+date: 2018-04-25
+url: https://discourse.slicer.org/t/2690
+---
+
 # How export DICOM
 
 **Topic ID**: 2690

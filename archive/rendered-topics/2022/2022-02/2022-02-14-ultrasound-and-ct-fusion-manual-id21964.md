@@ -1,3 +1,10 @@
+---
+topic_id: 21964
+title: "Ultrasound And Ct Fusion Manual"
+date: 2022-02-14
+url: https://discourse.slicer.org/t/21964
+---
+
 # Ultrasound and CT Fusion(manual)
 
 **Topic ID**: 21964

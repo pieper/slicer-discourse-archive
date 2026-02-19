@@ -1,3 +1,10 @@
+---
+topic_id: 26580
+title: "Na Mic Project Week Reminder Next Project Week Preparation M"
+date: 2022-12-05
+url: https://discourse.slicer.org/t/26580
+---
+
 # [Na-mic-project-week] Reminder: next Project Week preparation meeting tomorrow
 
 **Topic ID**: 26580

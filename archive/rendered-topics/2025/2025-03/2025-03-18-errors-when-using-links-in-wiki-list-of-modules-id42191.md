@@ -1,3 +1,10 @@
+---
+topic_id: 42191
+title: "Errors When Using Links In Wiki List Of Modules"
+date: 2025-03-18
+url: https://discourse.slicer.org/t/42191
+---
+
 # Errors when using links in wiki list of modules
 
 **Topic ID**: 42191

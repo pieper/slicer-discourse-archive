@@ -1,3 +1,10 @@
+---
+topic_id: 18799
+title: "Creating A New Segment Editor Widget Causes Strange Behavior"
+date: 2021-07-19
+url: https://discourse.slicer.org/t/18799
+---
+
 # Creating a new segment editor widget causes strange behavior in segmentation settings
 
 **Topic ID**: 18799

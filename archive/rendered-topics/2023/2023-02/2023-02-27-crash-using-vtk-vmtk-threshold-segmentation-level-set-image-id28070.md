@@ -1,3 +1,10 @@
+---
+topic_id: 28070
+title: "Crash Using Vtk Vmtk Threshold Segmentation Level Set Image"
+date: 2023-02-27
+url: https://discourse.slicer.org/t/28070
+---
+
 #  Crash using ‘vtk vmtk Threshold Segmentation Level Set Image Filter’
 
 **Topic ID**: 28070

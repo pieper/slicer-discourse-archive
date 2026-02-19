@@ -1,3 +1,10 @@
+---
+topic_id: 21382
+title: "How Cna I Save My Segmentation Seperately"
+date: 2022-01-10
+url: https://discourse.slicer.org/t/21382
+---
+
 # How cna I save my segmentation seperately?
 
 **Topic ID**: 21382

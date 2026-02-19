@@ -1,3 +1,10 @@
+---
+topic_id: 488
+title: "Masking In General Registration"
+date: 2017-06-13
+url: https://discourse.slicer.org/t/488
+---
+
 # Masking in General Registration
 
 **Topic ID**: 488

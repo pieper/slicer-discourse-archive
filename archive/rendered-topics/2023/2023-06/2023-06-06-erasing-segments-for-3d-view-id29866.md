@@ -1,3 +1,10 @@
+---
+topic_id: 29866
+title: "Erasing Segments For 3D View"
+date: 2023-06-06
+url: https://discourse.slicer.org/t/29866
+---
+
 # Erasing Segments for 3D View
 
 **Topic ID**: 29866

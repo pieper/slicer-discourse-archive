@@ -1,3 +1,10 @@
+---
+topic_id: 3950
+title: "Command Line Conversion Of Dicom Images And Rtstruct To Nrrd"
+date: 2018-08-30
+url: https://discourse.slicer.org/t/3950
+---
+
 # Command line conversion of DICOM images and RTStruct to NRRD
 
 **Topic ID**: 3950

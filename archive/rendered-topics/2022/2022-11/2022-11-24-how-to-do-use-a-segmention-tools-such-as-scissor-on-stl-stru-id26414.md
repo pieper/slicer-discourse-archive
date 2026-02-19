@@ -1,3 +1,10 @@
+---
+topic_id: 26414
+title: "How To Do Use A Segmention Tools Such As Scissor On Stl Stru"
+date: 2022-11-24
+url: https://discourse.slicer.org/t/26414
+---
+
 # How to do use a segmention tools such as scissor on STL structure
 
 **Topic ID**: 26414

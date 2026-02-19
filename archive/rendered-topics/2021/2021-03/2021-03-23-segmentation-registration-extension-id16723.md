@@ -1,3 +1,10 @@
+---
+topic_id: 16723
+title: "Segmentation Registration Extension"
+date: 2021-03-23
+url: https://discourse.slicer.org/t/16723
+---
+
 # Segmentation Registration Extension
 
 **Topic ID**: 16723

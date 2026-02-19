@@ -1,3 +1,10 @@
+---
+topic_id: 32306
+title: "Dicom To Nrrd Conversion In Command Line For Pyradiomics"
+date: 2023-10-18
+url: https://discourse.slicer.org/t/32306
+---
+
 # DICOM to NRRD conversion in command line (for PyRadiomics)
 
 **Topic ID**: 32306

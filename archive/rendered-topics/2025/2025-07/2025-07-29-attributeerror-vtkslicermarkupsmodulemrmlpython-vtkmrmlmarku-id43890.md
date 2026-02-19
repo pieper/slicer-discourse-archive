@@ -1,3 +1,10 @@
+---
+topic_id: 43890
+title: "Attributeerror Vtkslicermarkupsmodulemrmlpython Vtkmrmlmarku"
+date: 2025-07-29
+url: https://discourse.slicer.org/t/43890
+---
+
 # AttributeError: 'vtkSlicerMarkupsModuleMRMLPython.vtkMRMLMarkupsClo' object has no attribute 'GetImageData'
 
 **Topic ID**: 43890

@@ -1,3 +1,10 @@
+---
+topic_id: 41988
+title: "Slicer 5 8 Summary Highlights And Changelog"
+date: 2025-03-07
+url: https://discourse.slicer.org/t/41988
+---
+
 # Slicer 5.8: Summary, Highlights, and Changelog
 
 **Topic ID**: 41988

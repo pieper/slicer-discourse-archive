@@ -1,3 +1,10 @@
+---
+topic_id: 2422
+title: "Spine Navigation"
+date: 2018-03-26
+url: https://discourse.slicer.org/t/2422
+---
+
 # Spine navigation
 
 **Topic ID**: 2422

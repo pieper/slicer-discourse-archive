@@ -1,3 +1,10 @@
+---
+topic_id: 31337
+title: "Merging 2D Markup Curves Into 3D Surfaces"
+date: 2023-08-24
+url: https://discourse.slicer.org/t/31337
+---
+
 # Merging 2D markup curves into 3D surfaces
 
 **Topic ID**: 31337

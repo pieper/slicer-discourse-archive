@@ -1,3 +1,10 @@
+---
+topic_id: 2313
+title: "Nightly Mac Slicer 4 9 0 2018 03 13 Macosx Amd64 Does Not Op"
+date: 2018-03-14
+url: https://discourse.slicer.org/t/2313
+---
+
 # Nightly mac Slicer-4.9.0-2018-03-13-macosx-amd64 does not open
 
 **Topic ID**: 2313

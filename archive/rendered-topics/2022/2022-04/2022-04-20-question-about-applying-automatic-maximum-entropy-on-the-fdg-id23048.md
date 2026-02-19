@@ -1,3 +1,10 @@
+---
+topic_id: 23048
+title: "Question About Applying Automatic Maximum Entropy On The Fdg"
+date: 2022-04-20
+url: https://discourse.slicer.org/t/23048
+---
+
 # Question about applying automatic maximum entropy on the FDG PET image
 
 **Topic ID**: 23048

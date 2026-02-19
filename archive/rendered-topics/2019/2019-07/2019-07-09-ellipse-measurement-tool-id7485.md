@@ -1,3 +1,10 @@
+---
+topic_id: 7485
+title: "Ellipse Measurement Tool"
+date: 2019-07-09
+url: https://discourse.slicer.org/t/7485
+---
+
 # Ellipse measurement tool
 
 **Topic ID**: 7485

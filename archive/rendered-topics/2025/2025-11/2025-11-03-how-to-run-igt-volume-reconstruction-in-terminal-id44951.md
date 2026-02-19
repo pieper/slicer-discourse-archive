@@ -1,3 +1,10 @@
+---
+topic_id: 44951
+title: "How To Run Igt Volume Reconstruction In Terminal"
+date: 2025-11-03
+url: https://discourse.slicer.org/t/44951
+---
+
 # How to run IGT Volume Reconstruction in terminal
 
 **Topic ID**: 44951

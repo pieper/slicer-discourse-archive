@@ -1,3 +1,10 @@
+---
+topic_id: 25834
+title: "Bugs With Model Convert To Segment"
+date: 2022-10-22
+url: https://discourse.slicer.org/t/25834
+---
+
 # Bugs with model convert to segment
 
 **Topic ID**: 25834

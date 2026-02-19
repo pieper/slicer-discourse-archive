@@ -1,3 +1,10 @@
+---
+topic_id: 24195
+title: "Creating Samsung Dicom Volume Render"
+date: 2022-07-06
+url: https://discourse.slicer.org/t/24195
+---
+
 # Creating Samsung DICOM Volume Render
 
 **Topic ID**: 24195

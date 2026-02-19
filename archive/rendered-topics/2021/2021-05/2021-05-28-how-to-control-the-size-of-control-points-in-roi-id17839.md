@@ -1,3 +1,10 @@
+---
+topic_id: 17839
+title: "How To Control The Size Of Control Points In Roi"
+date: 2021-05-28
+url: https://discourse.slicer.org/t/17839
+---
+
 # How to control the size of control points in ROI
 
 **Topic ID**: 17839

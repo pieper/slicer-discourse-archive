@@ -1,3 +1,10 @@
+---
+topic_id: 35936
+title: "Ctk Slicer Ui Customization With Stylesheet"
+date: 2024-05-06
+url: https://discourse.slicer.org/t/35936
+---
+
 # CTK/Slicer UI customization with stylesheet
 
 **Topic ID**: 35936

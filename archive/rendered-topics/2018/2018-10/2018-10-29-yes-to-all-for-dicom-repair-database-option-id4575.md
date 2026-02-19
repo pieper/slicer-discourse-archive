@@ -1,3 +1,10 @@
+---
+topic_id: 4575
+title: "Yes To All For Dicom Repair Database Option"
+date: 2018-10-29
+url: https://discourse.slicer.org/t/4575
+---
+
 # "Yes to all" for DICOM Repair database option
 
 **Topic ID**: 4575

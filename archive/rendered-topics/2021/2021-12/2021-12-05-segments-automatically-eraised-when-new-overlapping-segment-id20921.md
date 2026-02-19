@@ -1,3 +1,10 @@
+---
+topic_id: 20921
+title: "Segments Automatically Eraised When New Overlapping Segment"
+date: 2021-12-05
+url: https://discourse.slicer.org/t/20921
+---
+
 # Segments automatically eraised when new overlapping segment added
 
 **Topic ID**: 20921

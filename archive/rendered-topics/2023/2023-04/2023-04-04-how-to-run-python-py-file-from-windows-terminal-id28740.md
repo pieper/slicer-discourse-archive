@@ -1,3 +1,10 @@
+---
+topic_id: 28740
+title: "How To Run Python Py File From Windows Terminal"
+date: 2023-04-04
+url: https://discourse.slicer.org/t/28740
+---
+
 # How to run python .py file from windows terminal
 
 **Topic ID**: 28740

@@ -1,3 +1,10 @@
+---
+topic_id: 25961
+title: "Wrapsolidify Is Amazing For Preprocessing Before Volumetric"
+date: 2022-10-29
+url: https://discourse.slicer.org/t/25961
+---
+
 # WrapSolidify is amazing for preprocessing before volumetric mesh generation
 
 **Topic ID**: 25961

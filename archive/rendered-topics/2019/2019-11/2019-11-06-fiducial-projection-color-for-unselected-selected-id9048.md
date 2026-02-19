@@ -1,3 +1,10 @@
+---
+topic_id: 9048
+title: "Fiducial Projection Color For Unselected Selected"
+date: 2019-11-06
+url: https://discourse.slicer.org/t/9048
+---
+
 # Fiducial projection color for unselected/selected
 
 **Topic ID**: 9048

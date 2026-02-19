@@ -1,3 +1,10 @@
+---
+topic_id: 1624
+title: "Ultrasound Tutorials"
+date: 2017-12-09
+url: https://discourse.slicer.org/t/1624
+---
+
 # Ultrasound tutorials
 
 **Topic ID**: 1624

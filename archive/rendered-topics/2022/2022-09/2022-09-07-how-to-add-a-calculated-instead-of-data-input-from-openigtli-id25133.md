@@ -1,3 +1,10 @@
+---
+topic_id: 25133
+title: "How To Add A Calculated Instead Of Data Input From Openigtli"
+date: 2022-09-07
+url: https://discourse.slicer.org/t/25133
+---
+
 # How to add a calculated (instead of data input from OpenIGTLInk IO) proxy node in SequenceBrowser when recording an ultrasound sequences?
 
 **Topic ID**: 25133

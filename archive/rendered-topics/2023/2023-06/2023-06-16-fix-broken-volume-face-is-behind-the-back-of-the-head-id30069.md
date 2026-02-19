@@ -1,3 +1,10 @@
+---
+topic_id: 30069
+title: "Fix Broken Volume Face Is Behind The Back Of The Head"
+date: 2023-06-16
+url: https://discourse.slicer.org/t/30069
+---
+
 # Fix broken volume - face is behind the back of the head
 
 **Topic ID**: 30069

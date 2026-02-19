@@ -1,3 +1,10 @@
+---
+topic_id: 28398
+title: "How To Extract Waveform From Dcm"
+date: 2023-03-15
+url: https://discourse.slicer.org/t/28398
+---
+
 # How to extract waveform from DCM?
 
 **Topic ID**: 28398

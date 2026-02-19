@@ -1,3 +1,10 @@
+---
+topic_id: 9953
+title: "Issues Converting Into Stl In 3D Slicer"
+date: 2020-01-26
+url: https://discourse.slicer.org/t/9953
+---
+
 # Issues converting into stl in 3D slicer
 
 **Topic ID**: 9953

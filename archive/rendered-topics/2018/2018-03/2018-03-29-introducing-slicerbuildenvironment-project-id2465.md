@@ -1,3 +1,10 @@
+---
+topic_id: 2465
+title: "Introducing Slicerbuildenvironment Project"
+date: 2018-03-29
+url: https://discourse.slicer.org/t/2465
+---
+
 # Introducing SlicerBuildEnvironment project
 
 **Topic ID**: 2465

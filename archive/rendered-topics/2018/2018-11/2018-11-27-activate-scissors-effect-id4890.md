@@ -1,3 +1,10 @@
+---
+topic_id: 4890
+title: "Activate Scissors Effect"
+date: 2018-11-27
+url: https://discourse.slicer.org/t/4890
+---
+
 # Activate scissors effect
 
 **Topic ID**: 4890

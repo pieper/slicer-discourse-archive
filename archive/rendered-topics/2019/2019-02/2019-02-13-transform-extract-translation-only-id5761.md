@@ -1,3 +1,10 @@
+---
+topic_id: 5761
+title: "Transform Extract Translation Only"
+date: 2019-02-13
+url: https://discourse.slicer.org/t/5761
+---
+
 # Transform: Extract translation only
 
 **Topic ID**: 5761

@@ -1,3 +1,10 @@
+---
+topic_id: 33260
+title: "Using 3D Slicer Sample Cts For A Publication"
+date: 2023-12-06
+url: https://discourse.slicer.org/t/33260
+---
+
 # Using 3D Slicer Sample CTs for a publication
 
 **Topic ID**: 33260

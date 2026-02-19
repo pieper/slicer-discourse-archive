@@ -1,3 +1,10 @@
+---
+topic_id: 30648
+title: "Imaging Data Commons July 2023 Release"
+date: 2023-07-17
+url: https://discourse.slicer.org/t/30648
+---
+
 # Imaging Data Commons July 2023 release
 
 **Topic ID**: 30648

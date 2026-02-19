@@ -1,3 +1,10 @@
+---
+topic_id: 32891
+title: "Customize Keyboard Shortcuts In Slicer"
+date: 2023-11-18
+url: https://discourse.slicer.org/t/32891
+---
+
 # Customize keyboard shortcuts in Slicer?
 
 **Topic ID**: 32891

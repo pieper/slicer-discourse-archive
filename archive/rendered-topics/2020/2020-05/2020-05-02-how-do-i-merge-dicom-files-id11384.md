@@ -1,3 +1,10 @@
+---
+topic_id: 11384
+title: "How Do I Merge Dicom Files"
+date: 2020-05-02
+url: https://discourse.slicer.org/t/11384
+---
+
 # How do I merge DICOM files?
 
 **Topic ID**: 11384

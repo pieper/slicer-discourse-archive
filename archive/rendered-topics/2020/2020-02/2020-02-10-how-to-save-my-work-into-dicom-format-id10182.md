@@ -1,3 +1,10 @@
+---
+topic_id: 10182
+title: "How To Save My Work Into Dicom Format"
+date: 2020-02-10
+url: https://discourse.slicer.org/t/10182
+---
+
 # How to save my work into dicom format
 
 **Topic ID**: 10182

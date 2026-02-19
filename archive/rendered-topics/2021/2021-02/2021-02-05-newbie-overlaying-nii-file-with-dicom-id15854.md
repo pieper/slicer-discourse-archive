@@ -1,3 +1,10 @@
+---
+topic_id: 15854
+title: "Newbie Overlaying Nii File With Dicom"
+date: 2021-02-05
+url: https://discourse.slicer.org/t/15854
+---
+
 # Newbie: Overlaying .nii file with Dicom
 
 **Topic ID**: 15854

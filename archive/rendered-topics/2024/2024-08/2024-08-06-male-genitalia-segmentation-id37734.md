@@ -1,3 +1,10 @@
+---
+topic_id: 37734
+title: "Male Genitalia Segmentation"
+date: 2024-08-06
+url: https://discourse.slicer.org/t/37734
+---
+
 # Male genitalia segmentation
 
 **Topic ID**: 37734

@@ -1,3 +1,10 @@
+---
+topic_id: 34619
+title: "Calculation Of Centroid Using Image Dimension Image Spacing"
+date: 2024-02-29
+url: https://discourse.slicer.org/t/34619
+---
+
 # Calculation of centroid using image dimension,image spacing and image origin.
 
 **Topic ID**: 34619

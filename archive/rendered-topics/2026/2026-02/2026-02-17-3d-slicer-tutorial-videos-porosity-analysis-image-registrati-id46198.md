@@ -1,3 +1,10 @@
+---
+topic_id: 46198
+title: "3D Slicer Tutorial Videos Porosity Analysis Image Registrati"
+date: 2026-02-17
+url: https://discourse.slicer.org/t/46198
+---
+
 # 3D Slicer Tutorial Videos — Porosity Analysis, Image Registration & More 🚀
 
 **Topic ID**: 46198

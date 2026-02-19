@@ -1,3 +1,10 @@
+---
+topic_id: 45751
+title: "Body Composition Measurements Sma Smd Sat Vat At L3 Level"
+date: 2026-01-12
+url: https://discourse.slicer.org/t/45751
+---
+
 # Body composition measurements (sma, smd, sat, vat) at L3 level
 
 **Topic ID**: 45751

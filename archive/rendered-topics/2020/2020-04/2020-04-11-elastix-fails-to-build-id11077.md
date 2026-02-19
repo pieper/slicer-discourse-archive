@@ -1,3 +1,10 @@
+---
+topic_id: 11077
+title: "Elastix Fails To Build"
+date: 2020-04-11
+url: https://discourse.slicer.org/t/11077
+---
+
 # Elastix fails to build
 
 **Topic ID**: 11077

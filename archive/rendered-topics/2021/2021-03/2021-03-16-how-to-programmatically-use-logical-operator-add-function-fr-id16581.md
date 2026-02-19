@@ -1,3 +1,10 @@
+---
+topic_id: 16581
+title: "How To Programmatically Use Logical Operator Add Function Fr"
+date: 2021-03-16
+url: https://discourse.slicer.org/t/16581
+---
+
 # How to programmatically use logical operator add function from segment editor?
 
 **Topic ID**: 16581

@@ -1,3 +1,10 @@
+---
+topic_id: 44068
+title: "Segmentation Clipping On The Toolbar"
+date: 2025-08-13
+url: https://discourse.slicer.org/t/44068
+---
+
 # Segmentation clipping on the toolbar
 
 **Topic ID**: 44068

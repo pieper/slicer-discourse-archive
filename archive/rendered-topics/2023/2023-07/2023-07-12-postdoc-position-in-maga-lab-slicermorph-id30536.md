@@ -1,3 +1,10 @@
+---
+topic_id: 30536
+title: "Postdoc Position In Maga Lab Slicermorph"
+date: 2023-07-12
+url: https://discourse.slicer.org/t/30536
+---
+
 # Postdoc position in Maga Lab (SlicerMorph)
 
 **Topic ID**: 30536

@@ -1,3 +1,10 @@
+---
+topic_id: 3399
+title: "Rescale Type Attribute When Creating Dicom Series"
+date: 2018-07-06
+url: https://discourse.slicer.org/t/3399
+---
+
 # Rescale type attribute when creating DICOM series
 
 **Topic ID**: 3399

@@ -1,3 +1,10 @@
+---
+topic_id: 17734
+title: "Open Source Human Anatomy Atlas"
+date: 2021-05-22
+url: https://discourse.slicer.org/t/17734
+---
+
 # Open source Human Anatomy Atlas
 
 **Topic ID**: 17734

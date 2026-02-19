@@ -1,3 +1,10 @@
+---
+topic_id: 6738
+title: "Build Error Linux Related To Introduction Of Slicer Build We"
+date: 2019-05-09
+url: https://discourse.slicer.org/t/6738
+---
+
 # Build error linux related to introduction of Slicer_BUILD_WEBENGINE_SUPPORT option
 
 **Topic ID**: 6738

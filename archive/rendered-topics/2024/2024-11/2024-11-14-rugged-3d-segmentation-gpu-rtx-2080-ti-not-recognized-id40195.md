@@ -1,3 +1,10 @@
+---
+topic_id: 40195
+title: "Rugged 3D Segmentation Gpu Rtx 2080 Ti Not Recognized"
+date: 2024-11-14
+url: https://discourse.slicer.org/t/40195
+---
+
 # Rugged 3D Segmentation - GPU ( RTX 2080 Ti) not recognized
 
 **Topic ID**: 40195

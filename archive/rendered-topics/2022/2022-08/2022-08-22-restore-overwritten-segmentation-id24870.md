@@ -1,3 +1,10 @@
+---
+topic_id: 24870
+title: "Restore Overwritten Segmentation"
+date: 2022-08-22
+url: https://discourse.slicer.org/t/24870
+---
+
 # Restore overwritten segmentation
 
 **Topic ID**: 24870

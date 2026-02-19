@@ -1,3 +1,10 @@
+---
+topic_id: 28954
+title: "Pandas Dataframe To Json Crashes Custom Application"
+date: 2023-04-17
+url: https://discourse.slicer.org/t/28954
+---
+
 # Pandas dataframe .to_json() crashes Custom Application
 
 **Topic ID**: 28954

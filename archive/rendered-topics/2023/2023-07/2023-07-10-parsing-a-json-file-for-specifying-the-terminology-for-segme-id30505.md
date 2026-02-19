@@ -1,3 +1,10 @@
+---
+topic_id: 30505
+title: "Parsing A Json File For Specifying The Terminology For Segme"
+date: 2023-07-10
+url: https://discourse.slicer.org/t/30505
+---
+
 # Parsing a json file for specifying the terminology for segment editor
 
 **Topic ID**: 30505

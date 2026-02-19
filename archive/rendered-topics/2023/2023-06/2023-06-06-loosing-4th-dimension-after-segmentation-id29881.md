@@ -1,3 +1,10 @@
+---
+topic_id: 29881
+title: "Loosing 4Th Dimension After Segmentation"
+date: 2023-06-06
+url: https://discourse.slicer.org/t/29881
+---
+
 # Loosing 4th dimension after segmentation 
 
 **Topic ID**: 29881

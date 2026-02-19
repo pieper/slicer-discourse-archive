@@ -1,3 +1,10 @@
+---
+topic_id: 20236
+title: "Segment Editor Reduce The Number Of Mouse Clicks To Set Basi"
+date: 2021-10-19
+url: https://discourse.slicer.org/t/20236
+---
+
 # Segment Editor: reduce the number of mouse clicks to set basic colour for segment
 
 **Topic ID**: 20236

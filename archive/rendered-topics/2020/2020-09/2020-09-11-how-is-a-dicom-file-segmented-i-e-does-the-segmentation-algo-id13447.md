@@ -1,3 +1,10 @@
+---
+topic_id: 13447
+title: "How Is A Dicom File Segmented I E Does The Segmentation Algo"
+date: 2020-09-11
+url: https://discourse.slicer.org/t/13447
+---
+
 # How is a DICOM file segmented? i.e. Does the segmentation algorithm consider one voxel thickness layer at a time?
 
 **Topic ID**: 13447

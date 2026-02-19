@@ -1,3 +1,10 @@
+---
+topic_id: 37203
+title: "3D Segmentation Eraser Tool Excessive Compute"
+date: 2024-07-04
+url: https://discourse.slicer.org/t/37203
+---
+
 # 3D segmentation eraser tool - excessive compute?
 
 **Topic ID**: 37203

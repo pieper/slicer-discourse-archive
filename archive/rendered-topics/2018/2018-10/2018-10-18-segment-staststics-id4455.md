@@ -1,3 +1,10 @@
+---
+topic_id: 4455
+title: "Segment Staststics"
+date: 2018-10-18
+url: https://discourse.slicer.org/t/4455
+---
+
 # Segment staststics
 
 **Topic ID**: 4455

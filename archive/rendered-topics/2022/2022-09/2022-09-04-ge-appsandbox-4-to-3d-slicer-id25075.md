@@ -1,3 +1,10 @@
+---
+topic_id: 25075
+title: "Ge Appsandbox 4 To 3D Slicer"
+date: 2022-09-04
+url: https://discourse.slicer.org/t/25075
+---
+
 # Ge appsandbox 4 to 3d slicer
 
 **Topic ID**: 25075

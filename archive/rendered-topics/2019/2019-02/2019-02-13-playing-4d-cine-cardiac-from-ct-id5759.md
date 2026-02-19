@@ -1,3 +1,10 @@
+---
+topic_id: 5759
+title: "Playing 4D Cine Cardiac From Ct"
+date: 2019-02-13
+url: https://discourse.slicer.org/t/5759
+---
+
 # Playing 4d cine cardiac from CT
 
 **Topic ID**: 5759

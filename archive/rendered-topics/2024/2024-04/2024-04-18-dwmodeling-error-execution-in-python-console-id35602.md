@@ -1,3 +1,10 @@
+---
+topic_id: 35602
+title: "Dwmodeling Error Execution In Python Console"
+date: 2024-04-18
+url: https://discourse.slicer.org/t/35602
+---
+
 # DWModeling error execution in Python console
 
 **Topic ID**: 35602

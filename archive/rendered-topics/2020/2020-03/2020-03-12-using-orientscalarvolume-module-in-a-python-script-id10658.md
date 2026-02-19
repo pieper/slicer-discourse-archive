@@ -1,3 +1,10 @@
+---
+topic_id: 10658
+title: "Using Orientscalarvolume Module In A Python Script"
+date: 2020-03-12
+url: https://discourse.slicer.org/t/10658
+---
+
 # Using OrientScalarVolume module in a python script
 
 **Topic ID**: 10658

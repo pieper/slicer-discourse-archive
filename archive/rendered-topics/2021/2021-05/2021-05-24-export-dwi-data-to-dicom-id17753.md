@@ -1,3 +1,10 @@
+---
+topic_id: 17753
+title: "Export Dwi Data To Dicom"
+date: 2021-05-24
+url: https://discourse.slicer.org/t/17753
+---
+
 # Export DWI data to DICOM
 
 **Topic ID**: 17753

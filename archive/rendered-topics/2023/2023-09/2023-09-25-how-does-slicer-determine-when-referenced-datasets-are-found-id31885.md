@@ -1,3 +1,10 @@
+---
+topic_id: 31885
+title: "How Does Slicer Determine When Referenced Datasets Are Found"
+date: 2023-09-25
+url: https://discourse.slicer.org/t/31885
+---
+
 # How does slicer determine when referenced datasets are found?
 
 **Topic ID**: 31885

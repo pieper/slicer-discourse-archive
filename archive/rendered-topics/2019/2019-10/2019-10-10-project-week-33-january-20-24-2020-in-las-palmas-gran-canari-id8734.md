@@ -1,3 +1,10 @@
+---
+topic_id: 8734
+title: "Project Week 33 January 20 24 2020 In Las Palmas Gran Canari"
+date: 2019-10-10
+url: https://discourse.slicer.org/t/8734
+---
+
 # Project Week 33: January 20-24, 2020 in Las Palmas, Gran Canaria
 
 **Topic ID**: 8734

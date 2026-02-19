@@ -1,3 +1,10 @@
+---
+topic_id: 9722
+title: "Shrink Wrap To Create Mask"
+date: 2020-01-06
+url: https://discourse.slicer.org/t/9722
+---
+
 # Shrink wrap to create mask
 
 **Topic ID**: 9722

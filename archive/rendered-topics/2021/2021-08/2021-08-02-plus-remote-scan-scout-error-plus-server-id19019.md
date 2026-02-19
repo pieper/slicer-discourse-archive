@@ -1,3 +1,10 @@
+---
+topic_id: 19019
+title: "Plus Remote Scan Scout Error Plus Server"
+date: 2021-08-02
+url: https://discourse.slicer.org/t/19019
+---
+
 # Plus remote > 'scan scout' error (Plus server)
 
 **Topic ID**: 19019

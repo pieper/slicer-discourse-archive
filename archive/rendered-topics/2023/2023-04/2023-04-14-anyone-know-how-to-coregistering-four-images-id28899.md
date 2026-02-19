@@ -1,3 +1,10 @@
+---
+topic_id: 28899
+title: "Anyone Know How To Coregistering Four Images"
+date: 2023-04-14
+url: https://discourse.slicer.org/t/28899
+---
+
 # Anyone Know How to coregistering four images
 
 **Topic ID**: 28899

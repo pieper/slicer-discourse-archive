@@ -1,3 +1,10 @@
+---
+topic_id: 2830
+title: "Fyi Building Slicer With Gcc 8 1"
+date: 2018-05-16
+url: https://discourse.slicer.org/t/2830
+---
+
 # FYI : building Slicer with GCC 8.1
 
 **Topic ID**: 2830

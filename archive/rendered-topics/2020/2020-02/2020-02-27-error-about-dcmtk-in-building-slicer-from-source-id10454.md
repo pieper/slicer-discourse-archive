@@ -1,3 +1,10 @@
+---
+topic_id: 10454
+title: "Error About Dcmtk In Building Slicer From Source"
+date: 2020-02-27
+url: https://discourse.slicer.org/t/10454
+---
+
 # Error about DCMTK in Building Slicer from source
 
 **Topic ID**: 10454

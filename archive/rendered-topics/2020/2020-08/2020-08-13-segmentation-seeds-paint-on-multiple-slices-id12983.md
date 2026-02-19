@@ -1,3 +1,10 @@
+---
+topic_id: 12983
+title: "Segmentation Seeds Paint On Multiple Slices"
+date: 2020-08-13
+url: https://discourse.slicer.org/t/12983
+---
+
 # Segmentation seeds paint on multiple slices
 
 **Topic ID**: 12983

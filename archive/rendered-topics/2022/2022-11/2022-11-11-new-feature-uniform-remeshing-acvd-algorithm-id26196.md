@@ -1,3 +1,10 @@
+---
+topic_id: 26196
+title: "New Feature Uniform Remeshing Acvd Algorithm"
+date: 2022-11-11
+url: https://discourse.slicer.org/t/26196
+---
+
 # New feature: Uniform remeshing (ACVD algorithm)
 
 **Topic ID**: 26196

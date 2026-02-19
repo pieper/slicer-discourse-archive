@@ -1,3 +1,10 @@
+---
+topic_id: 35848
+title: "Pop Up Window Not Working On Bone Angle Meter"
+date: 2024-05-01
+url: https://discourse.slicer.org/t/35848
+---
+
 # Pop-up window not working on Bone Angle Meter
 
 **Topic ID**: 35848

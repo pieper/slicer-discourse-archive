@@ -1,3 +1,10 @@
+---
+topic_id: 45397
+title: "Creating A Heatmap From Corresponding Points"
+date: 2025-12-08
+url: https://discourse.slicer.org/t/45397
+---
+
 # Creating a heatmap from corresponding points
 
 **Topic ID**: 45397

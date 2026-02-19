@@ -1,3 +1,10 @@
+---
+topic_id: 39589
+title: "How To Align Two Models Stl And Then Do Landmarks On It"
+date: 2024-10-08
+url: https://discourse.slicer.org/t/39589
+---
+
 # How to align two models (stl) and then do landmarks on it? 
 
 **Topic ID**: 39589

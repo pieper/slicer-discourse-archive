@@ -1,3 +1,10 @@
+---
+topic_id: 20326
+title: "Sitk Error Input For Labelstatisticsimagefilter Does Not Mat"
+date: 2021-10-24
+url: https://discourse.slicer.org/t/20326
+---
+
 # sitk error. Input for "LabelStatisticsImageFilter" does not match the primary input's size
 
 **Topic ID**: 20326

@@ -1,3 +1,10 @@
+---
+topic_id: 3812
+title: "Slicer Octave Command"
+date: 2018-08-17
+url: https://discourse.slicer.org/t/3812
+---
+
 # Slicer-Octave-command
 
 **Topic ID**: 3812

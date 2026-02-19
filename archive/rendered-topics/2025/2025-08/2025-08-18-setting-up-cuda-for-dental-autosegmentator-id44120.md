@@ -1,3 +1,10 @@
+---
+topic_id: 44120
+title: "Setting Up Cuda For Dental Autosegmentator"
+date: 2025-08-18
+url: https://discourse.slicer.org/t/44120
+---
+
 # Setting up cuda for dental autosegmentator
 
 **Topic ID**: 44120

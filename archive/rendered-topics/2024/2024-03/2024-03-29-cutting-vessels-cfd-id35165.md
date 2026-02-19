@@ -1,3 +1,10 @@
+---
+topic_id: 35165
+title: "Cutting Vessels Cfd"
+date: 2024-03-29
+url: https://discourse.slicer.org/t/35165
+---
+
 # Cutting vessels - CFD
 
 **Topic ID**: 35165

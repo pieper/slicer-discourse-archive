@@ -1,3 +1,10 @@
+---
+topic_id: 11238
+title: "Compute Normal Vectors From Planar Contours"
+date: 2020-04-22
+url: https://discourse.slicer.org/t/11238
+---
+
 # Compute normal vectors from planar contours
 
 **Topic ID**: 11238

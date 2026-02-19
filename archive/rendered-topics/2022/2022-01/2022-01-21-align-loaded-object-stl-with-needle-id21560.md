@@ -1,3 +1,10 @@
+---
+topic_id: 21560
+title: "Align Loaded Object Stl With Needle"
+date: 2022-01-21
+url: https://discourse.slicer.org/t/21560
+---
+
 # Align Loaded Object (.stl) with Needle
 
 **Topic ID**: 21560

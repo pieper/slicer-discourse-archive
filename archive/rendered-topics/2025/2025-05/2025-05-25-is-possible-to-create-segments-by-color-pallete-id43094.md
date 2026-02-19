@@ -1,3 +1,10 @@
+---
+topic_id: 43094
+title: "Is Possible To Create Segments By Color Pallete"
+date: 2025-05-25
+url: https://discourse.slicer.org/t/43094
+---
+
 # Is possible to create segments by color pallete?
 
 **Topic ID**: 43094

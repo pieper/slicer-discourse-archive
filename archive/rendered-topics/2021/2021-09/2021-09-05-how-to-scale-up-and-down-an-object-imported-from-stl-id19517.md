@@ -1,3 +1,10 @@
+---
+topic_id: 19517
+title: "How To Scale Up And Down An Object Imported From Stl"
+date: 2021-09-05
+url: https://discourse.slicer.org/t/19517
+---
+
 # How to scale up and down an object imported from STL ?
 
 **Topic ID**: 19517

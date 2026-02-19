@@ -1,3 +1,10 @@
+---
+topic_id: 24786
+title: "Slicer Deepseg Issue"
+date: 2022-08-16
+url: https://discourse.slicer.org/t/24786
+---
+
 # Slicer-DeepSeg issue
 
 **Topic ID**: 24786

@@ -1,3 +1,10 @@
+---
+topic_id: 18817
+title: "Python Programmatically Set The Dimensions For Roi"
+date: 2021-07-20
+url: https://discourse.slicer.org/t/18817
+---
+
 # Python: Programmatically set the Dimensions for ROI
 
 **Topic ID**: 18817

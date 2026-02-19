@@ -1,3 +1,10 @@
+---
+topic_id: 1647
+title: "Newbie Needs Advice On Finding Measurments And Rulers In 4 6"
+date: 2017-12-12
+url: https://discourse.slicer.org/t/1647
+---
+
 # newbie needs advice on finding measurments and rulers in 4.6.2
 
 **Topic ID**: 1647

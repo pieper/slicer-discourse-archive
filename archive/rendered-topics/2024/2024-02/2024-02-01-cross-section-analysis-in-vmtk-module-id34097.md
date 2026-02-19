@@ -1,3 +1,10 @@
+---
+topic_id: 34097
+title: "Cross Section Analysis In Vmtk Module"
+date: 2024-02-01
+url: https://discourse.slicer.org/t/34097
+---
+
 # Cross section analysis in VMTK module
 
 **Topic ID**: 34097

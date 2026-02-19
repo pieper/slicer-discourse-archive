@@ -1,3 +1,10 @@
+---
+topic_id: 44928
+title: "Request For Technical Guidance On Oar Contouring And Rtstruc"
+date: 2025-10-31
+url: https://discourse.slicer.org/t/44928
+---
+
 # Request for Technical Guidance on OAR Contouring and RTSTRUCT Export Using 3D Slicer
 
 **Topic ID**: 44928

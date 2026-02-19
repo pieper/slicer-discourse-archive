@@ -1,3 +1,10 @@
+---
+topic_id: 42033
+title: "Custom Modules And Building Issue"
+date: 2025-03-08
+url: https://discourse.slicer.org/t/42033
+---
+
 # Custom modules and building issue
 
 **Topic ID**: 42033

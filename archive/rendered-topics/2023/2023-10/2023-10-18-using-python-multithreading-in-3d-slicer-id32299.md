@@ -1,3 +1,10 @@
+---
+topic_id: 32299
+title: "Using Python Multithreading In 3D Slicer"
+date: 2023-10-18
+url: https://discourse.slicer.org/t/32299
+---
+
 # Using Python multithreading in 3D Slicer
 
 **Topic ID**: 32299

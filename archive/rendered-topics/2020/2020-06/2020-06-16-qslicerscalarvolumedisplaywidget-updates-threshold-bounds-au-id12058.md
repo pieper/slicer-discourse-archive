@@ -1,3 +1,10 @@
+---
+topic_id: 12058
+title: "Qslicerscalarvolumedisplaywidget Updates Threshold Bounds Au"
+date: 2020-06-16
+url: https://discourse.slicer.org/t/12058
+---
+
 # qSlicerScalarVolumeDisplayWidget updates threshold bounds automatically for float volumes
 
 **Topic ID**: 12058

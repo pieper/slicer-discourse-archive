@@ -1,3 +1,10 @@
+---
+topic_id: 9900
+title: "Slice Multiple Volumes"
+date: 2020-01-21
+url: https://discourse.slicer.org/t/9900
+---
+
 # Slice multiple volumes
 
 **Topic ID**: 9900

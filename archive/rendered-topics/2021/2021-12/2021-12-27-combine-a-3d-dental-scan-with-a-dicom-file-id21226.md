@@ -1,3 +1,10 @@
+---
+topic_id: 21226
+title: "Combine A 3D Dental Scan With A Dicom File"
+date: 2021-12-27
+url: https://discourse.slicer.org/t/21226
+---
+
 # combine a 3d dental scan with a DICOM  file 
 
 **Topic ID**: 21226

@@ -1,3 +1,10 @@
+---
+topic_id: 23519
+title: "Slicer Jupyter Docker With Cuda"
+date: 2022-05-21
+url: https://discourse.slicer.org/t/23519
+---
+
 # Slicer Jupyter docker with CUDA
 
 **Topic ID**: 23519

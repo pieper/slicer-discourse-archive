@@ -1,3 +1,10 @@
+---
+topic_id: 14668
+title: "How To Get The Ras Coordinates Of The Pixel In A Slice View"
+date: 2020-11-18
+url: https://discourse.slicer.org/t/14668
+---
+
 # How to get the RAS coordinates of the pixel in a slice view by using python code
 
 **Topic ID**: 14668

@@ -1,3 +1,10 @@
+---
+topic_id: 34670
+title: "Get Histograms Multiple Single Images"
+date: 2024-03-03
+url: https://discourse.slicer.org/t/34670
+---
+
 # Get histograms multiple single images.
 
 **Topic ID**: 34670

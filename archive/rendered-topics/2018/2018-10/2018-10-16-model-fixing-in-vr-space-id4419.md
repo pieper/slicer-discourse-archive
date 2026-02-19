@@ -1,3 +1,10 @@
+---
+topic_id: 4419
+title: "Model Fixing In Vr Space"
+date: 2018-10-16
+url: https://discourse.slicer.org/t/4419
+---
+
 # Model fixing in VR space
 
 **Topic ID**: 4419

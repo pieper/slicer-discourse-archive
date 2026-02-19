@@ -1,3 +1,10 @@
+---
+topic_id: 20607
+title: "Vscode Debugging Error Bug In Debugging Wrapper"
+date: 2021-11-12
+url: https://discourse.slicer.org/t/20607
+---
+
 # VSCode debugging error, bug in debugging wrapper?
 
 **Topic ID**: 20607

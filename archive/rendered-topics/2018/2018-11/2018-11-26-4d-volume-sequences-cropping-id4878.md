@@ -1,3 +1,10 @@
+---
+topic_id: 4878
+title: "4D Volume Sequences Cropping"
+date: 2018-11-26
+url: https://discourse.slicer.org/t/4878
+---
+
 # 4D volume sequences cropping
 
 **Topic ID**: 4878

@@ -1,3 +1,10 @@
+---
+topic_id: 26576
+title: "Extract Centeline Auto Detect Tree Mode"
+date: 2022-12-05
+url: https://discourse.slicer.org/t/26576
+---
+
 # Extract centeline Auto-detect tree mode
 
 **Topic ID**: 26576

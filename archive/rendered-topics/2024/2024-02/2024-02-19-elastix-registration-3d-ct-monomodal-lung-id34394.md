@@ -1,3 +1,10 @@
+---
+topic_id: 34394
+title: "Elastix Registration 3D Ct Monomodal Lung"
+date: 2024-02-19
+url: https://discourse.slicer.org/t/34394
+---
+
 # Elastix Registration 3D CT monomodal lung
 
 **Topic ID**: 34394

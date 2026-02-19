@@ -1,3 +1,10 @@
+---
+topic_id: 3981
+title: "Newby Question Fiducial Points For Changin Ras Orientation"
+date: 2018-09-04
+url: https://discourse.slicer.org/t/3981
+---
+
 # Newby question, Fiducial points for changin RAS orientation
 
 **Topic ID**: 3981

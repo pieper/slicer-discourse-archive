@@ -1,3 +1,10 @@
+---
+topic_id: 14482
+title: "Ruler Does Not Work Properly"
+date: 2020-11-07
+url: https://discourse.slicer.org/t/14482
+---
+
 # Ruler does not work properly
 
 **Topic ID**: 14482

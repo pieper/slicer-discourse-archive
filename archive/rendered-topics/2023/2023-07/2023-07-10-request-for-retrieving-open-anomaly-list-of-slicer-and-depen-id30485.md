@@ -1,3 +1,10 @@
+---
+topic_id: 30485
+title: "Request For Retrieving Open Anomaly List Of Slicer And Depen"
+date: 2023-07-10
+url: https://discourse.slicer.org/t/30485
+---
+
 # Request for Retrieving Open Anomaly List of Slicer and Dependencies
 
 **Topic ID**: 30485

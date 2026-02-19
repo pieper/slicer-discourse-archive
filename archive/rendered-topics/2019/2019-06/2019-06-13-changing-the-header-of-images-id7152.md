@@ -1,3 +1,10 @@
+---
+topic_id: 7152
+title: "Changing The Header Of Images"
+date: 2019-06-13
+url: https://discourse.slicer.org/t/7152
+---
+
 # Changing the header of images
 
 **Topic ID**: 7152

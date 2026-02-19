@@ -1,3 +1,10 @@
+---
+topic_id: 20969
+title: "Translocating A Structure To Certain Direction"
+date: 2021-12-08
+url: https://discourse.slicer.org/t/20969
+---
+
 # Translocating a structure to certain direction
 
 **Topic ID**: 20969

@@ -1,3 +1,10 @@
+---
+topic_id: 27272
+title: "Vessel Segmentation For Carotid Artery With Stenosis"
+date: 2023-01-16
+url: https://discourse.slicer.org/t/27272
+---
+
 # Vessel Segmentation for carotid artery with stenosis
 
 **Topic ID**: 27272

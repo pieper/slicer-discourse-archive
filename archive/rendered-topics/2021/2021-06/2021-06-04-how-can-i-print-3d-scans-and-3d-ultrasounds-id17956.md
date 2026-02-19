@@ -1,3 +1,10 @@
+---
+topic_id: 17956
+title: "How Can I Print 3D Scans And 3D Ultrasounds"
+date: 2021-06-04
+url: https://discourse.slicer.org/t/17956
+---
+
 # How can I print 3d scans and 3d ultrasounds
 
 **Topic ID**: 17956

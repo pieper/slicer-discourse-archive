@@ -1,3 +1,10 @@
+---
+topic_id: 2058
+title: "Slicer Ftbfs Debian Testing"
+date: 2018-02-10
+url: https://discourse.slicer.org/t/2058
+---
+
 # Slicer FTBFS Debian testing
 
 **Topic ID**: 2058

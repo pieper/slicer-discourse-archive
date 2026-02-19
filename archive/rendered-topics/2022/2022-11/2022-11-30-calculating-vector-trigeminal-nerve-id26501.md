@@ -1,3 +1,10 @@
+---
+topic_id: 26501
+title: "Calculating Vector Trigeminal Nerve"
+date: 2022-11-30
+url: https://discourse.slicer.org/t/26501
+---
+
 # Calculating vector trigeminal nerve
 
 **Topic ID**: 26501

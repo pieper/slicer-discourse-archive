@@ -1,3 +1,10 @@
+---
+topic_id: 18563
+title: "Slicer Rt Contour Analysis"
+date: 2021-07-07
+url: https://discourse.slicer.org/t/18563
+---
+
 # Slicer-RT Contour Analysis 
 
 **Topic ID**: 18563

@@ -1,3 +1,10 @@
+---
+topic_id: 40067
+title: "Convertion From Dicom To Nifti For Multiple Dicom Series"
+date: 2024-11-07
+url: https://discourse.slicer.org/t/40067
+---
+
 # Convertion from DICOM to Nifti for multiple dicom series
 
 **Topic ID**: 40067

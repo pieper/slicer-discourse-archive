@@ -1,3 +1,10 @@
+---
+topic_id: 4122
+title: "Vissim Cochlea Tools Extension Is Now Public"
+date: 2018-09-15
+url: https://discourse.slicer.org/t/4122
+---
+
 # VisSim Cochlea Tools extension is now public
 
 **Topic ID**: 4122

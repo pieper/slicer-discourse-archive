@@ -1,3 +1,10 @@
+---
+topic_id: 213
+title: "Change Label Color Using Python Script"
+date: 2017-04-27
+url: https://discourse.slicer.org/t/213
+---
+
 # Change label color using python script
 
 **Topic ID**: 213

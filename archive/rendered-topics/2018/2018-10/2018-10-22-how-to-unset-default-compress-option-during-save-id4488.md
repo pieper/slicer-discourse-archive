@@ -1,3 +1,10 @@
+---
+topic_id: 4488
+title: "How To Unset Default Compress Option During Save"
+date: 2018-10-22
+url: https://discourse.slicer.org/t/4488
+---
+
 # How to unset default 'compress' option during save
 
 **Topic ID**: 4488

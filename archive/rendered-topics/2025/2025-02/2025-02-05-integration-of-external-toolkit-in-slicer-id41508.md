@@ -1,3 +1,10 @@
+---
+topic_id: 41508
+title: "Integration Of External Toolkit In Slicer"
+date: 2025-02-05
+url: https://discourse.slicer.org/t/41508
+---
+
 # Integration of External Toolkit in Slicer
 
 **Topic ID**: 41508

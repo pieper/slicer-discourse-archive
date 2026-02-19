@@ -1,3 +1,10 @@
+---
+topic_id: 26916
+title: "Slicer 5 2 Summary Highlights And Changelog"
+date: 2022-12-26
+url: https://discourse.slicer.org/t/26916
+---
+
 # Slicer 5.2: Summary, Highlights and Changelog
 
 **Topic ID**: 26916

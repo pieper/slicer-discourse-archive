@@ -1,3 +1,10 @@
+---
+topic_id: 18370
+title: "Segmentation Editor Filling In The Gaps Of Threshold"
+date: 2021-06-28
+url: https://discourse.slicer.org/t/18370
+---
+
 # Segmentation editor: Filling in the gaps of Threshold
 
 **Topic ID**: 18370

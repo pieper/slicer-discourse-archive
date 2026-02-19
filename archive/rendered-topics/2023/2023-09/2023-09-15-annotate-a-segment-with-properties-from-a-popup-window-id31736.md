@@ -1,3 +1,10 @@
+---
+topic_id: 31736
+title: "Annotate A Segment With Properties From A Popup Window"
+date: 2023-09-15
+url: https://discourse.slicer.org/t/31736
+---
+
 # Annotate a segment with properties from a popup window
 
 **Topic ID**: 31736

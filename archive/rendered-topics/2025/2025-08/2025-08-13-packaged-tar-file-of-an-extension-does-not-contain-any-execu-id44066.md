@@ -1,3 +1,10 @@
+---
+topic_id: 44066
+title: "Packaged Tar File Of An Extension Does Not Contain Any Execu"
+date: 2025-08-13
+url: https://discourse.slicer.org/t/44066
+---
+
 # Packaged tar file of an extension does not contain any executable
 
 **Topic ID**: 44066

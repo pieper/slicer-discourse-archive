@@ -1,3 +1,10 @@
+---
+topic_id: 38564
+title: "M3 Pro Catastrophic Crash In Volume Rendering"
+date: 2024-09-27
+url: https://discourse.slicer.org/t/38564
+---
+
 # M3 Pro catastrophic crash in volume rendering
 
 **Topic ID**: 38564

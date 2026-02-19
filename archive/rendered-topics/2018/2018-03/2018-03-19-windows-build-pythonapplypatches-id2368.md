@@ -1,3 +1,10 @@
+---
+topic_id: 2368
+title: "Windows Build Pythonapplypatches"
+date: 2018-03-19
+url: https://discourse.slicer.org/t/2368
+---
+
 # Windows Build PythonApplyPatches
 
 **Topic ID**: 2368

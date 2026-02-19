@@ -1,3 +1,10 @@
+---
+topic_id: 18405
+title: "Qslicermarkupsplacewidget How To Delete All Mark Ups"
+date: 2021-06-29
+url: https://discourse.slicer.org/t/18405
+---
+
 # qSlicerMarkupsPlaceWidget - How to delete all mark-ups
 
 **Topic ID**: 18405

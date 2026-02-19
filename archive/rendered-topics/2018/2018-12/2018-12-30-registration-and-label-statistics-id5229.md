@@ -1,3 +1,10 @@
+---
+topic_id: 5229
+title: "Registration And Label Statistics"
+date: 2018-12-30
+url: https://discourse.slicer.org/t/5229
+---
+
 # registration and label statistics
 
 **Topic ID**: 5229

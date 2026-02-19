@@ -1,3 +1,10 @@
+---
+topic_id: 8501
+title: "Using Threshold On A Higher Resolution Segment Geometry"
+date: 2019-09-20
+url: https://discourse.slicer.org/t/8501
+---
+
 # Using threshold on a higher resolution segment geometry
 
 **Topic ID**: 8501

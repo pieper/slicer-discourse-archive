@@ -1,3 +1,10 @@
+---
+topic_id: 15685
+title: "Download On Windows 10 Viewing Problems"
+date: 2021-01-27
+url: https://discourse.slicer.org/t/15685
+---
+
 # Download on Windows 10 viewing Problems
 
 **Topic ID**: 15685

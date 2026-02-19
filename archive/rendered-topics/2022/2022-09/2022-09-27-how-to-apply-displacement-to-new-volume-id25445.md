@@ -1,3 +1,10 @@
+---
+topic_id: 25445
+title: "How To Apply Displacement To New Volume"
+date: 2022-09-27
+url: https://discourse.slicer.org/t/25445
+---
+
 # How to apply displacement to new volume?
 
 **Topic ID**: 25445

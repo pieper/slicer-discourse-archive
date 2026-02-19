@@ -1,3 +1,10 @@
+---
+topic_id: 17883
+title: "Whitematteranalysis Subject Space Problem"
+date: 2021-05-31
+url: https://discourse.slicer.org/t/17883
+---
+
 # Whitematteranalysis subject space problem
 
 **Topic ID**: 17883

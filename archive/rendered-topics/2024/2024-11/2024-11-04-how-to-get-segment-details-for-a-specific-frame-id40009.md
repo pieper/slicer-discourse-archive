@@ -1,3 +1,10 @@
+---
+topic_id: 40009
+title: "How To Get Segment Details For A Specific Frame"
+date: 2024-11-04
+url: https://discourse.slicer.org/t/40009
+---
+
 # How to get segment details for a specific frame
 
 **Topic ID**: 40009

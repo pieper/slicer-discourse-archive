@@ -1,3 +1,10 @@
+---
+topic_id: 26166
+title: "Generate Segmentation Node Binary Label Map From Centerline"
+date: 2022-11-09
+url: https://discourse.slicer.org/t/26166
+---
+
 # Generate segmentation node (binary label map) from centerline
 
 **Topic ID**: 26166

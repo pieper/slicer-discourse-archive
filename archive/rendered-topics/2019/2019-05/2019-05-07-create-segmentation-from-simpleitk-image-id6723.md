@@ -1,3 +1,10 @@
+---
+topic_id: 6723
+title: "Create Segmentation From Simpleitk Image"
+date: 2019-05-07
+url: https://discourse.slicer.org/t/6723
+---
+
 # Create segmentation from simpleItk Image
 
 **Topic ID**: 6723

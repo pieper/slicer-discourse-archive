@@ -1,3 +1,10 @@
+---
+topic_id: 856
+title: "Interpreting Cdash Reporting Extension Is Packaged Despite B"
+date: 2017-08-11
+url: https://discourse.slicer.org/t/856
+---
+
 # Interpreting CDash reporting: extension is packaged despite build errors?
 
 **Topic ID**: 856

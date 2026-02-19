@@ -1,3 +1,10 @@
+---
+topic_id: 11741
+title: "Export Many Segments As Dicom Rtss"
+date: 2020-05-28
+url: https://discourse.slicer.org/t/11741
+---
+
 # Export many segments as Dicom RTSS
 
 **Topic ID**: 11741

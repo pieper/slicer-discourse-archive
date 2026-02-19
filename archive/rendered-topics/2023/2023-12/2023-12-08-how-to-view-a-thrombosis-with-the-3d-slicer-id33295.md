@@ -1,3 +1,10 @@
+---
+topic_id: 33295
+title: "How To View A Thrombosis With The 3D Slicer"
+date: 2023-12-08
+url: https://discourse.slicer.org/t/33295
+---
+
 # How to view a thrombosis with the 3D Slicer?
 
 **Topic ID**: 33295

@@ -1,3 +1,10 @@
+---
+topic_id: 12953
+title: "Qaccessibletable Warnings In Preview Release Clean Install"
+date: 2020-08-11
+url: https://discourse.slicer.org/t/12953
+---
+
 # QAccessibleTable warnings in preview release clean install
 
 **Topic ID**: 12953

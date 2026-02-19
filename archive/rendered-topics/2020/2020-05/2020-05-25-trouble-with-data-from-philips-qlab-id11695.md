@@ -1,3 +1,10 @@
+---
+topic_id: 11695
+title: "Trouble With Data From Philips Qlab"
+date: 2020-05-25
+url: https://discourse.slicer.org/t/11695
+---
+
 # Trouble with data from Philips Qlab
 
 **Topic ID**: 11695

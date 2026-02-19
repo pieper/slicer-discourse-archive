@@ -1,3 +1,10 @@
+---
+topic_id: 25081
+title: "Lung Ct Segmenter Now Supports Lungmask Ai For Lung And Lobe"
+date: 2022-09-04
+url: https://discourse.slicer.org/t/25081
+---
+
 # Lung CT Segmenter now supports 'lungmask' AI for lung and lobe segmentation
 
 **Topic ID**: 25081

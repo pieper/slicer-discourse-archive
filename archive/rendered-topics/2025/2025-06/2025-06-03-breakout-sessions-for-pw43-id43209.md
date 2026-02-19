@@ -1,3 +1,10 @@
+---
+topic_id: 43209
+title: "Breakout Sessions For Pw43"
+date: 2025-06-03
+url: https://discourse.slicer.org/t/43209
+---
+
 # Breakout Sessions for PW43
 
 **Topic ID**: 43209

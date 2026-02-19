@@ -1,3 +1,10 @@
+---
+topic_id: 4562
+title: "Slicer And The Antikythera Mechanism"
+date: 2018-10-28
+url: https://discourse.slicer.org/t/4562
+---
+
 # Slicer and the Antikythera Mechanism
 
 **Topic ID**: 4562

@@ -1,3 +1,10 @@
+---
+topic_id: 27561
+title: "Tensorflow Gpu Wsl And Slicer"
+date: 2023-01-31
+url: https://discourse.slicer.org/t/27561
+---
+
 # Tensorflow GPU, WSL and Slicer
 
 **Topic ID**: 27561

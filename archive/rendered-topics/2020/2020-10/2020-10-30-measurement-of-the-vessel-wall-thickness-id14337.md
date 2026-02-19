@@ -1,3 +1,10 @@
+---
+topic_id: 14337
+title: "Measurement Of The Vessel Wall Thickness"
+date: 2020-10-30
+url: https://discourse.slicer.org/t/14337
+---
+
 # Measurement of the vessel wall thickness
 
 **Topic ID**: 14337

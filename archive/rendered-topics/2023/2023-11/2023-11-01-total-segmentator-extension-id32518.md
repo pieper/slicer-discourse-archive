@@ -1,3 +1,10 @@
+---
+topic_id: 32518
+title: "Total Segmentator Extension"
+date: 2023-11-01
+url: https://discourse.slicer.org/t/32518
+---
+
 # Total Segmentator Extension
 
 **Topic ID**: 32518

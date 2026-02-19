@@ -1,3 +1,10 @@
+---
+topic_id: 8197
+title: "Required Modifiers In Terminology"
+date: 2019-08-27
+url: https://discourse.slicer.org/t/8197
+---
+
 # Required modifiers in terminology
 
 **Topic ID**: 8197

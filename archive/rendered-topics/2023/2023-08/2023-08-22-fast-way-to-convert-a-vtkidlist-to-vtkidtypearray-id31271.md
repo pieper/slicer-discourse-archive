@@ -1,3 +1,10 @@
+---
+topic_id: 31271
+title: "Fast Way To Convert A Vtkidlist To Vtkidtypearray"
+date: 2023-08-22
+url: https://discourse.slicer.org/t/31271
+---
+
 # Fast way to convert a vtkIdList to vtkIdTypeArray
 
 **Topic ID**: 31271

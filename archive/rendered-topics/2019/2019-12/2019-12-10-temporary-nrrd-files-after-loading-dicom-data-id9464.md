@@ -1,3 +1,10 @@
+---
+topic_id: 9464
+title: "Temporary Nrrd Files After Loading Dicom Data"
+date: 2019-12-10
+url: https://discourse.slicer.org/t/9464
+---
+
 # Temporary .nrrd files after loading DICOM data
 
 **Topic ID**: 9464

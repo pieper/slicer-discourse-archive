@@ -1,3 +1,10 @@
+---
+topic_id: 18577
+title: "Run 3D Slicer Openigtlink Simultaneously As Server And Clien"
+date: 2021-07-08
+url: https://discourse.slicer.org/t/18577
+---
+
 # Run 3D slicer openIGTLink simultaneously as server and client
 
 **Topic ID**: 18577

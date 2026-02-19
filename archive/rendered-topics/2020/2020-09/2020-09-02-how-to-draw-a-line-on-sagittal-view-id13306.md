@@ -1,3 +1,10 @@
+---
+topic_id: 13306
+title: "How To Draw A Line On Sagittal View"
+date: 2020-09-02
+url: https://discourse.slicer.org/t/13306
+---
+
 # How to draw a line on sagittal view
 
 **Topic ID**: 13306

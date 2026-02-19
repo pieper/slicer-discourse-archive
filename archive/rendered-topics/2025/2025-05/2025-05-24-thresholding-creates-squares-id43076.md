@@ -1,3 +1,10 @@
+---
+topic_id: 43076
+title: "Thresholding Creates Squares"
+date: 2025-05-24
+url: https://discourse.slicer.org/t/43076
+---
+
 # Thresholding creates squares
 
 **Topic ID**: 43076

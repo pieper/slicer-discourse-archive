@@ -1,3 +1,10 @@
+---
+topic_id: 7286
+title: "Open Atlas Followup"
+date: 2019-06-23
+url: https://discourse.slicer.org/t/7286
+---
+
 # Open Atlas Followup
 
 **Topic ID**: 7286

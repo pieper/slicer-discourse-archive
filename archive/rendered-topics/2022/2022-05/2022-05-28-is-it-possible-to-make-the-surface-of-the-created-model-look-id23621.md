@@ -1,3 +1,10 @@
+---
+topic_id: 23621
+title: "Is It Possible To Make The Surface Of The Created Model Look"
+date: 2022-05-28
+url: https://discourse.slicer.org/t/23621
+---
+
 # Is it possible to make the surface of the created model look like real bone?
 
 **Topic ID**: 23621

@@ -1,3 +1,10 @@
+---
+topic_id: 28268
+title: "Extract Local Coordinates From A Line And Plane In A Coordin"
+date: 2023-03-10
+url: https://discourse.slicer.org/t/28268
+---
+
 # Extract local Coordinates from a line and plane in a coordinate model
 
 **Topic ID**: 28268

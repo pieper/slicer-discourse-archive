@@ -1,3 +1,10 @@
+---
+topic_id: 4294
+title: "3D Slicer To Abaqus"
+date: 2018-10-05
+url: https://discourse.slicer.org/t/4294
+---
+
 # 3D Slicer to Abaqus
 
 **Topic ID**: 4294

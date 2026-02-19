@@ -1,3 +1,10 @@
+---
+topic_id: 13998
+title: "Perform Threshold And Fill Between Slices Directly In Python"
+date: 2020-10-12
+url: https://discourse.slicer.org/t/13998
+---
+
 # Perform "threshold" and "fill between slices" directly in python
 
 **Topic ID**: 13998

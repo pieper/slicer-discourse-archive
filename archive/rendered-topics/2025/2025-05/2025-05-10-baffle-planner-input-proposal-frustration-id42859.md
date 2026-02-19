@@ -1,3 +1,10 @@
+---
+topic_id: 42859
+title: "Baffle Planner Input Proposal Frustration"
+date: 2025-05-10
+url: https://discourse.slicer.org/t/42859
+---
+
 # Baffle planner input - proposal - frustration
 
 **Topic ID**: 42859

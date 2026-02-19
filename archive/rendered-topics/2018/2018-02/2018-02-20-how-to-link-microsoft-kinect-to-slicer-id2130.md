@@ -1,3 +1,10 @@
+---
+topic_id: 2130
+title: "How To Link Microsoft Kinect To Slicer"
+date: 2018-02-20
+url: https://discourse.slicer.org/t/2130
+---
+
 # How to link microsoft kinect to slicer
 
 **Topic ID**: 2130

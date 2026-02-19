@@ -1,3 +1,10 @@
+---
+topic_id: 15437
+title: "Get Cell Indices In Exported Mesh Corresponding To Each Segm"
+date: 2021-01-10
+url: https://discourse.slicer.org/t/15437
+---
+
 # Get cell indices in exported mesh corresponding to each segment
 
 **Topic ID**: 15437

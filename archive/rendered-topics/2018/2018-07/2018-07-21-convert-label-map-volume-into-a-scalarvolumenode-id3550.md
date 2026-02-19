@@ -1,3 +1,10 @@
+---
+topic_id: 3550
+title: "Convert Label Map Volume Into A Scalarvolumenode"
+date: 2018-07-21
+url: https://discourse.slicer.org/t/3550
+---
+
 # Convert label map volume into a scalarvolumenode
 
 **Topic ID**: 3550

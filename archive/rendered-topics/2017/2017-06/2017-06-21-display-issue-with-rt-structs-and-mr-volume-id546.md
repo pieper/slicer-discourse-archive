@@ -1,3 +1,10 @@
+---
+topic_id: 546
+title: "Display Issue With Rt Structs And Mr Volume"
+date: 2017-06-21
+url: https://discourse.slicer.org/t/546
+---
+
 # Display issue with RT structs and MR volume
 
 **Topic ID**: 546

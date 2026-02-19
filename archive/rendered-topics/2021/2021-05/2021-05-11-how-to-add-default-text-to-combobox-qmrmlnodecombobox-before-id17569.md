@@ -1,3 +1,10 @@
+---
+topic_id: 17569
+title: "How To Add Default Text To Combobox Qmrmlnodecombobox Before"
+date: 2021-05-11
+url: https://discourse.slicer.org/t/17569
+---
+
 # How to add default text to combobox(qMRMLNodeComboBox) before opening any customize model.
 
 **Topic ID**: 17569

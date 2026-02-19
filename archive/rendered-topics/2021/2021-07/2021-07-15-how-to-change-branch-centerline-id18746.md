@@ -1,3 +1,10 @@
+---
+topic_id: 18746
+title: "How To Change Branch Centerline"
+date: 2021-07-15
+url: https://discourse.slicer.org/t/18746
+---
+
 # How to change branch centerline
 
 **Topic ID**: 18746

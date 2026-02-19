@@ -1,3 +1,10 @@
+---
+topic_id: 10749
+title: "Margin Tool Stopped Reporting The Pixel Units"
+date: 2020-03-19
+url: https://discourse.slicer.org/t/10749
+---
+
 # Margin tool stopped reporting the pixel units
 
 **Topic ID**: 10749

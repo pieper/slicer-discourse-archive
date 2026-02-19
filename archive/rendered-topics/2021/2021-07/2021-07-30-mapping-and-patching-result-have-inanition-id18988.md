@@ -1,3 +1,10 @@
+---
+topic_id: 18988
+title: "Mapping And Patching Result Have Inanition"
+date: 2021-07-30
+url: https://discourse.slicer.org/t/18988
+---
+
 # Mapping and Patching result have inanition
 
 **Topic ID**: 18988

@@ -1,3 +1,10 @@
+---
+topic_id: 32461
+title: "Docker Container With 3D Slicer Build To Build And Test An E"
+date: 2023-10-29
+url: https://discourse.slicer.org/t/32461
+---
+
 # Docker container with 3D Slicer build to build and test an extension
 
 **Topic ID**: 32461

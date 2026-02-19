@@ -1,3 +1,10 @@
+---
+topic_id: 44861
+title: "Segment Statistics What Am I Looking At"
+date: 2025-10-23
+url: https://discourse.slicer.org/t/44861
+---
+
 # Segment statistics; what am I looking at?
 
 **Topic ID**: 44861

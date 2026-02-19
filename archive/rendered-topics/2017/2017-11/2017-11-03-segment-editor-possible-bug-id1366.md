@@ -1,3 +1,10 @@
+---
+topic_id: 1366
+title: "Segment Editor Possible Bug"
+date: 2017-11-03
+url: https://discourse.slicer.org/t/1366
+---
+
 # Segment editor - possible bug?
 
 **Topic ID**: 1366

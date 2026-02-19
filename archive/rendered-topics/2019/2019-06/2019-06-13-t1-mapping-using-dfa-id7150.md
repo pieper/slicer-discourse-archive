@@ -1,3 +1,10 @@
+---
+topic_id: 7150
+title: "T1 Mapping Using Dfa"
+date: 2019-06-13
+url: https://discourse.slicer.org/t/7150
+---
+
 # T1 Mapping using DFA
 
 **Topic ID**: 7150

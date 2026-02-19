@@ -1,3 +1,10 @@
+---
+topic_id: 44888
+title: "How To Rename Segment Name Or Segmentation Ids By Label In I"
+date: 2025-10-26
+url: https://discourse.slicer.org/t/44888
+---
+
 # How to rename segment name or segmentation IDs by label in `ImportLabelmapToSegmentationNode`?
 
 **Topic ID**: 44888

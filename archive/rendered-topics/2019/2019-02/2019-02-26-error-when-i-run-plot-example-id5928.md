@@ -1,3 +1,10 @@
+---
+topic_id: 5928
+title: "Error When I Run Plot Example"
+date: 2019-02-26
+url: https://discourse.slicer.org/t/5928
+---
+
 # Error when i run plot example
 
 **Topic ID**: 5928

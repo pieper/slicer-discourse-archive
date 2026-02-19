@@ -1,3 +1,10 @@
+---
+topic_id: 22224
+title: "Sometimes Slicer3D Crash When Excuting Python Coded"
+date: 2022-03-01
+url: https://discourse.slicer.org/t/22224
+---
+
 # Sometimes slicer3d crash when excuting python coded
 
 **Topic ID**: 22224

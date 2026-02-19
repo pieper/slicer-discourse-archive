@@ -1,3 +1,10 @@
+---
+topic_id: 18514
+title: "Reloading Scripted Extension With Multiple Files"
+date: 2021-07-05
+url: https://discourse.slicer.org/t/18514
+---
+
 # Reloading scripted extension with multiple files
 
 **Topic ID**: 18514

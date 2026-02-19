@@ -1,3 +1,10 @@
+---
+topic_id: 32772
+title: "New Feature Support Regularization Transform Hardening In Di"
+date: 2023-11-13
+url: https://discourse.slicer.org/t/32772
+---
+
 # New feature: Support regularization transform hardening in DICOM Scalar plugin
 
 **Topic ID**: 32772

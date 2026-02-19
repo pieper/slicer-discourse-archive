@@ -1,3 +1,10 @@
+---
+topic_id: 25969
+title: "Rmse In Landmarks Registration"
+date: 2022-10-30
+url: https://discourse.slicer.org/t/25969
+---
+
 # RMSE in Landmarks Registration
 
 **Topic ID**: 25969

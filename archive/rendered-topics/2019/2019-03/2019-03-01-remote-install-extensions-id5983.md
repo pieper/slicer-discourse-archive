@@ -1,3 +1,10 @@
+---
+topic_id: 5983
+title: "Remote Install Extensions"
+date: 2019-03-01
+url: https://discourse.slicer.org/t/5983
+---
+
 # Remote install extensions?
 
 **Topic ID**: 5983

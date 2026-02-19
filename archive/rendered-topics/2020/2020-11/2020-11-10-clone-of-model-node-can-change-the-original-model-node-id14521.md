@@ -1,3 +1,10 @@
+---
+topic_id: 14521
+title: "Clone Of Model Node Can Change The Original Model Node"
+date: 2020-11-10
+url: https://discourse.slicer.org/t/14521
+---
+
 # Clone of model node can change the original model node
 
 **Topic ID**: 14521

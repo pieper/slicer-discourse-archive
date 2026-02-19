@@ -1,3 +1,10 @@
+---
+topic_id: 27899
+title: "Best Practice For Accessing Scriptedloadablemodulelogic From"
+date: 2023-02-18
+url: https://discourse.slicer.org/t/27899
+---
+
 # Best practice for accessing ScriptedLoadableModuleLogic from Module?
 
 **Topic ID**: 27899

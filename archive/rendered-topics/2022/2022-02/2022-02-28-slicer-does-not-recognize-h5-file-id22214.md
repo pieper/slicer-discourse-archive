@@ -1,3 +1,10 @@
+---
+topic_id: 22214
+title: "Slicer Does Not Recognize H5 File"
+date: 2022-02-28
+url: https://discourse.slicer.org/t/22214
+---
+
 # Slicer does not recognize .h5 file
 
 **Topic ID**: 22214

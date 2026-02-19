@@ -1,3 +1,10 @@
+---
+topic_id: 10677
+title: "Segmentation Threshold Effect Question"
+date: 2020-03-13
+url: https://discourse.slicer.org/t/10677
+---
+
 # Segmentation threshold effect question
 
 **Topic ID**: 10677

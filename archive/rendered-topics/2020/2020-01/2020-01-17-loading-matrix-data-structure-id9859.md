@@ -1,3 +1,10 @@
+---
+topic_id: 9859
+title: "Loading Matrix Data Structure"
+date: 2020-01-17
+url: https://discourse.slicer.org/t/9859
+---
+
 # Loading matrix data structure
 
 **Topic ID**: 9859

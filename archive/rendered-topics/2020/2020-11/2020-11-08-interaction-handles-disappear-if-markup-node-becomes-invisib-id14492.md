@@ -1,3 +1,10 @@
+---
+topic_id: 14492
+title: "Interaction Handles Disappear If Markup Node Becomes Invisib"
+date: 2020-11-08
+url: https://discourse.slicer.org/t/14492
+---
+
 # Interaction handles disappear if markup node becomes invisible
 
 **Topic ID**: 14492

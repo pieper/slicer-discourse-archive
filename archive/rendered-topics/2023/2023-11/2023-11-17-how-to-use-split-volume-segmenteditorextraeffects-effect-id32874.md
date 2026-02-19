@@ -1,3 +1,10 @@
+---
+topic_id: 32874
+title: "How To Use Split Volume Segmenteditorextraeffects Effect"
+date: 2023-11-17
+url: https://discourse.slicer.org/t/32874
+---
+
 # How to use "split volume" (SegmentEditorExtraEffects Effect)
 
 **Topic ID**: 32874

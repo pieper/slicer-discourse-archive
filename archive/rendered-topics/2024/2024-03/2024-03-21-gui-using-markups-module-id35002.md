@@ -1,3 +1,10 @@
+---
+topic_id: 35002
+title: "Gui Using Markups Module"
+date: 2024-03-21
+url: https://discourse.slicer.org/t/35002
+---
+
 # GUI using markups module
 
 **Topic ID**: 35002

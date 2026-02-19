@@ -1,3 +1,10 @@
+---
+topic_id: 26460
+title: "Monai Label Training From Scratch"
+date: 2022-11-27
+url: https://discourse.slicer.org/t/26460
+---
+
 # MONAI Label - Training from Scratch
 
 **Topic ID**: 26460

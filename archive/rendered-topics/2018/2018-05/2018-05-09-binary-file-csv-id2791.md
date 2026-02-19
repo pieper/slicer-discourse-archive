@@ -1,3 +1,10 @@
+---
+topic_id: 2791
+title: "Binary File Csv"
+date: 2018-05-09
+url: https://discourse.slicer.org/t/2791
+---
+
 # Binary File CSV
 
 **Topic ID**: 2791

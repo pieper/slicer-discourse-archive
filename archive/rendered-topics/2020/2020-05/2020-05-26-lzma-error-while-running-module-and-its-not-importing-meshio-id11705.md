@@ -1,3 +1,10 @@
+---
+topic_id: 11705
+title: "Lzma Error While Running Module And Its Not Importing Meshio"
+date: 2020-05-26
+url: https://discourse.slicer.org/t/11705
+---
+
 # Lzma error while running module and its not importing meshio
 
 **Topic ID**: 11705

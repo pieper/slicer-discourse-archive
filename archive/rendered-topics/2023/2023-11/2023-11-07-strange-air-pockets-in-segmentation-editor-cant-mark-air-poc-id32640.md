@@ -1,3 +1,10 @@
+---
+topic_id: 32640
+title: "Strange Air Pockets In Segmentation Editor Cant Mark Air Poc"
+date: 2023-11-07
+url: https://discourse.slicer.org/t/32640
+---
+
 # Strange air pockets in segmentation editor, can't mark air pockets as apart of segmentation.
 
 **Topic ID**: 32640

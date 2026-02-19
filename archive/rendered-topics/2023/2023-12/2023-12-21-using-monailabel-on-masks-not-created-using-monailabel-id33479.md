@@ -1,3 +1,10 @@
+---
+topic_id: 33479
+title: "Using Monailabel On Masks Not Created Using Monailabel"
+date: 2023-12-21
+url: https://discourse.slicer.org/t/33479
+---
+
 # Using monailabel on masks not created using monailabel
 
 **Topic ID**: 33479

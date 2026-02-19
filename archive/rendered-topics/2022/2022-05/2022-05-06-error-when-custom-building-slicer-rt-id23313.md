@@ -1,3 +1,10 @@
+---
+topic_id: 23313
+title: "Error When Custom Building Slicer Rt"
+date: 2022-05-06
+url: https://discourse.slicer.org/t/23313
+---
+
 # Error when custom building Slicer RT
 
 **Topic ID**: 23313

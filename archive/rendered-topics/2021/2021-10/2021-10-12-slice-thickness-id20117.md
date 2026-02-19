@@ -1,3 +1,10 @@
+---
+topic_id: 20117
+title: "Slice Thickness"
+date: 2021-10-12
+url: https://discourse.slicer.org/t/20117
+---
+
 # Slice thickness
 
 **Topic ID**: 20117

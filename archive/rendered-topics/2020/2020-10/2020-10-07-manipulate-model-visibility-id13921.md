@@ -1,3 +1,10 @@
+---
+topic_id: 13921
+title: "Manipulate Model Visibility"
+date: 2020-10-07
+url: https://discourse.slicer.org/t/13921
+---
+
 # Manipulate model visibility
 
 **Topic ID**: 13921

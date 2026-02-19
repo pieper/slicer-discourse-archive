@@ -1,3 +1,10 @@
+---
+topic_id: 13777
+title: "Call An Specifica Class Frome C In Python"
+date: 2020-09-30
+url: https://discourse.slicer.org/t/13777
+---
+
 # Call an specifica class frome c++ in python
 
 **Topic ID**: 13777

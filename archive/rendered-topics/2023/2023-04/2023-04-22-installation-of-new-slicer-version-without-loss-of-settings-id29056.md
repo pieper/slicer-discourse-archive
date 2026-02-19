@@ -1,3 +1,10 @@
+---
+topic_id: 29056
+title: "Installation Of New Slicer Version Without Loss Of Settings"
+date: 2023-04-22
+url: https://discourse.slicer.org/t/29056
+---
+
 # Installation of new Slicer version without loss of settings and modules
 
 **Topic ID**: 29056

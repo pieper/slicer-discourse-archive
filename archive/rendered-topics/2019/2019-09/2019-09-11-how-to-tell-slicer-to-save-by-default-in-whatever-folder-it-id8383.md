@@ -1,3 +1,10 @@
+---
+topic_id: 8383
+title: "How To Tell Slicer To Save By Default In Whatever Folder It"
+date: 2019-09-11
+url: https://discourse.slicer.org/t/8383
+---
+
 # How to tell Slicer to save by default in whatever folder it is called from
 
 **Topic ID**: 8383

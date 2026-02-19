@@ -1,3 +1,10 @@
+---
+topic_id: 25554
+title: "Python Call For Segmentation Node Selector In The View Contr"
+date: 2022-10-05
+url: https://discourse.slicer.org/t/25554
+---
+
 # Python call for segmentation node selector in the view controller
 
 **Topic ID**: 25554

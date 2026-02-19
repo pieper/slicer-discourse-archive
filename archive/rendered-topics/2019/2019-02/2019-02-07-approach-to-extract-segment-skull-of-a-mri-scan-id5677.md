@@ -1,3 +1,10 @@
+---
+topic_id: 5677
+title: "Approach To Extract Segment Skull Of A Mri Scan"
+date: 2019-02-07
+url: https://discourse.slicer.org/t/5677
+---
+
 # Approach to extract/segment skull of a MRI scan
 
 **Topic ID**: 5677

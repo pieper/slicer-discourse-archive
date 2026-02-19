@@ -1,3 +1,10 @@
+---
+topic_id: 20019
+title: "Recommended Segmentation Strategy From Aorta To Upper Brain"
+date: 2021-10-05
+url: https://discourse.slicer.org/t/20019
+---
+
 # Recommended Segmentation Strategy from Aorta to Upper Brain Arteries
 
 **Topic ID**: 20019

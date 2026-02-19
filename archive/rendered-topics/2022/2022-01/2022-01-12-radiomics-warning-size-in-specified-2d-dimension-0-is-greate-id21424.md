@@ -1,3 +1,10 @@
+---
+topic_id: 21424
+title: "Radiomics Warning Size In Specified 2D Dimension 0 Is Greate"
+date: 2022-01-12
+url: https://discourse.slicer.org/t/21424
+---
+
 # Radiomics warning Size in specified 2D dimension (0) is greater than 1, cannot calculate 2D shape
 
 **Topic ID**: 21424

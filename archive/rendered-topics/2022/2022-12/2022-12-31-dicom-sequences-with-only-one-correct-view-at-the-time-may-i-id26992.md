@@ -1,3 +1,10 @@
+---
+topic_id: 26992
+title: "Dicom Sequences With Only One Correct View At The Time May I"
+date: 2022-12-31
+url: https://discourse.slicer.org/t/26992
+---
+
 # DICOM sequences with only one correct view at the time. May I blend the 3 correct sequences view?
 
 **Topic ID**: 26992

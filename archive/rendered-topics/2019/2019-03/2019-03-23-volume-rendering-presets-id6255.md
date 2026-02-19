@@ -1,3 +1,10 @@
+---
+topic_id: 6255
+title: "Volume Rendering Presets"
+date: 2019-03-23
+url: https://discourse.slicer.org/t/6255
+---
+
 # Volume rendering presets
 
 **Topic ID**: 6255

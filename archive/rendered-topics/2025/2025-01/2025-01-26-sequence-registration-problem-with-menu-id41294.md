@@ -1,3 +1,10 @@
+---
+topic_id: 41294
+title: "Sequence Registration Problem With Menu"
+date: 2025-01-26
+url: https://discourse.slicer.org/t/41294
+---
+
 # Sequence Registration - problem with menu
 
 **Topic ID**: 41294

@@ -1,3 +1,10 @@
+---
+topic_id: 22007
+title: "Dicom Import Contrast Problem"
+date: 2022-02-16
+url: https://discourse.slicer.org/t/22007
+---
+
 # DICOM import contrast problem
 
 **Topic ID**: 22007

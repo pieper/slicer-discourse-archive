@@ -1,3 +1,10 @@
+---
+topic_id: 7166
+title: "Python Interactor Disconnecting"
+date: 2019-06-13
+url: https://discourse.slicer.org/t/7166
+---
+
 # Python interactor disconnecting
 
 **Topic ID**: 7166

@@ -1,3 +1,10 @@
+---
+topic_id: 19922
+title: "Why Clone A Line Node Without Display Properties"
+date: 2021-09-30
+url: https://discourse.slicer.org/t/19922
+---
+
 # Why clone a line node without display properties?
 
 **Topic ID**: 19922

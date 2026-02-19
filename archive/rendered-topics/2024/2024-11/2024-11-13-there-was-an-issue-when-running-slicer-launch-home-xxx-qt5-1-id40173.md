@@ -1,3 +1,10 @@
+---
+topic_id: 40173
+title: "There Was An Issue When Running Slicer Launch Home Xxx Qt5 1"
+date: 2024-11-13
+url: https://discourse.slicer.org/t/40173
+---
+
 # There was an issue when running ./Slicer --launch /home/xxx/Qt5.14.2/Tools/QtCreator/bin/qtcreator on Ubuntu 18.04.
 
 **Topic ID**: 40173

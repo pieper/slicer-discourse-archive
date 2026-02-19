@@ -1,3 +1,10 @@
+---
+topic_id: 35804
+title: "How To Get The Position Of The Dicom From The Mesh Generated"
+date: 2024-04-29
+url: https://discourse.slicer.org/t/35804
+---
+
 # How to get the position of the DICOM from the Mesh generated?
 
 **Topic ID**: 35804

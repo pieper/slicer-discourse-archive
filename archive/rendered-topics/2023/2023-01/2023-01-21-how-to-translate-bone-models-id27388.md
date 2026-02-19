@@ -1,3 +1,10 @@
+---
+topic_id: 27388
+title: "How To Translate Bone Models"
+date: 2023-01-21
+url: https://discourse.slicer.org/t/27388
+---
+
 # How to translate bone models?
 
 **Topic ID**: 27388

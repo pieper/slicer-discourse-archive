@@ -1,3 +1,10 @@
+---
+topic_id: 17112
+title: "How To Display Web Page In A Dialog Using Python"
+date: 2021-04-12
+url: https://discourse.slicer.org/t/17112
+---
+
 # How to display web page in a dialog using Python?
 
 **Topic ID**: 17112

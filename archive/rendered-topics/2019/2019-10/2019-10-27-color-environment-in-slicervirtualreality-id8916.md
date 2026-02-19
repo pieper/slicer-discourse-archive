@@ -1,3 +1,10 @@
+---
+topic_id: 8916
+title: "Color Environment In Slicervirtualreality"
+date: 2019-10-27
+url: https://discourse.slicer.org/t/8916
+---
+
 # Color environment in SlicerVirtualReality
 
 **Topic ID**: 8916

@@ -1,3 +1,10 @@
+---
+topic_id: 16087
+title: "Change Default Delimiter For Csv Files"
+date: 2021-02-19
+url: https://discourse.slicer.org/t/16087
+---
+
 # Change default delimiter for csv files
 
 **Topic ID**: 16087

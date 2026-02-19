@@ -1,3 +1,10 @@
+---
+topic_id: 34718
+title: "3D Printable Model Of Airways"
+date: 2024-03-05
+url: https://discourse.slicer.org/t/34718
+---
+
 # 3D printable model of airways
 
 **Topic ID**: 34718

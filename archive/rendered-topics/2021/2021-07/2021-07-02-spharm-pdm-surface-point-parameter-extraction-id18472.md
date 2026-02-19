@@ -1,3 +1,10 @@
+---
+topic_id: 18472
+title: "Spharm Pdm Surface Point Parameter Extraction"
+date: 2021-07-02
+url: https://discourse.slicer.org/t/18472
+---
+
 # SPHARM-PDM surface point parameter extraction
 
 **Topic ID**: 18472

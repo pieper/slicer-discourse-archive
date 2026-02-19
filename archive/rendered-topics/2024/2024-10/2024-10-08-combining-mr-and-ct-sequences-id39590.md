@@ -1,3 +1,10 @@
+---
+topic_id: 39590
+title: "Combining Mr And Ct Sequences"
+date: 2024-10-08
+url: https://discourse.slicer.org/t/39590
+---
+
 # Combining MR and CT sequences
 
 **Topic ID**: 39590

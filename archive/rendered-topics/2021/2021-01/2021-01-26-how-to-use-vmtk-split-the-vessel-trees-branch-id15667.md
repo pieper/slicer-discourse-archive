@@ -1,3 +1,10 @@
+---
+topic_id: 15667
+title: "How To Use Vmtk Split The Vessel Trees Branch"
+date: 2021-01-26
+url: https://discourse.slicer.org/t/15667
+---
+
 # How to use VMTK split the vessel tree's branch?
 
 **Topic ID**: 15667

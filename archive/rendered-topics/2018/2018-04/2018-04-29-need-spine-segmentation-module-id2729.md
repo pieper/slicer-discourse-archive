@@ -1,3 +1,10 @@
+---
+topic_id: 2729
+title: "Need Spine Segmentation Module"
+date: 2018-04-29
+url: https://discourse.slicer.org/t/2729
+---
+
 # Need spine segmentation module
 
 **Topic ID**: 2729

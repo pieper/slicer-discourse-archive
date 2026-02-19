@@ -1,3 +1,10 @@
+---
+topic_id: 7057
+title: "Convert Dicom Series Into Single File 3D Image"
+date: 2019-06-06
+url: https://discourse.slicer.org/t/7057
+---
+
 # Convert dicom series into single file-3D image
 
 **Topic ID**: 7057

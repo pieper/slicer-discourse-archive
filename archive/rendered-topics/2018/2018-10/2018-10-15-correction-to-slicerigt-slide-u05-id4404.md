@@ -1,3 +1,10 @@
+---
+topic_id: 4404
+title: "Correction To Slicerigt Slide U05"
+date: 2018-10-15
+url: https://discourse.slicer.org/t/4404
+---
+
 # Correction to SlicerIGT slide U05
 
 **Topic ID**: 4404

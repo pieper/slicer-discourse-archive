@@ -1,3 +1,10 @@
+---
+topic_id: 10759
+title: "Problems With Fibers Directions"
+date: 2020-03-20
+url: https://discourse.slicer.org/t/10759
+---
+
 # Problems with fibers' directions
 
 **Topic ID**: 10759

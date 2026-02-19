@@ -1,3 +1,10 @@
+---
+topic_id: 32430
+title: "New Surface Model Generation Method Surfacenets"
+date: 2023-10-26
+url: https://discourse.slicer.org/t/32430
+---
+
 # New surface model generation method: SurfaceNets
 
 **Topic ID**: 32430

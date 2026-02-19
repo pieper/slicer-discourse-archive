@@ -1,3 +1,10 @@
+---
+topic_id: 29086
+title: "How Can I See The Name Of The Current Viewed Slide"
+date: 2023-04-24
+url: https://discourse.slicer.org/t/29086
+---
+
 # How can I see the name of the current viewed slide?
 
 **Topic ID**: 29086

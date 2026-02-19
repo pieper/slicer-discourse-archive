@@ -1,3 +1,10 @@
+---
+topic_id: 33749
+title: "Modifying Extensions Cmakelists Results In Reconfigure The W"
+date: 2024-01-12
+url: https://discourse.slicer.org/t/33749
+---
+
 # Modifying Extension's CMakeLists results in reconfigure the whole Application
 
 **Topic ID**: 33749

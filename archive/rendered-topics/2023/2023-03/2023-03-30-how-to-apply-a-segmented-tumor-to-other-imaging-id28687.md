@@ -1,3 +1,10 @@
+---
+topic_id: 28687
+title: "How To Apply A Segmented Tumor To Other Imaging"
+date: 2023-03-30
+url: https://discourse.slicer.org/t/28687
+---
+
 # How to apply a segmented tumor to other imaging
 
 **Topic ID**: 28687

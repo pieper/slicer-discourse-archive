@@ -1,3 +1,10 @@
+---
+topic_id: 3529
+title: "Saving Transformed Label Map For Radiomics Analysis"
+date: 2018-07-20
+url: https://discourse.slicer.org/t/3529
+---
+
 # Saving transformed label map for radiomics analysis
 
 **Topic ID**: 3529

@@ -1,3 +1,10 @@
+---
+topic_id: 13153
+title: "Unit Correct For My Dicom Data"
+date: 2020-08-25
+url: https://discourse.slicer.org/t/13153
+---
+
 # Unit correct for my DICOM Data
 
 **Topic ID**: 13153

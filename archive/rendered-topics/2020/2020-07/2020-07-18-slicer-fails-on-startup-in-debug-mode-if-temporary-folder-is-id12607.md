@@ -1,3 +1,10 @@
+---
+topic_id: 12607
+title: "Slicer Fails On Startup In Debug Mode If Temporary Folder Is"
+date: 2020-07-18
+url: https://discourse.slicer.org/t/12607
+---
+
 # Slicer fails on startup in debug mode if temporary folder is set to empty
 
 **Topic ID**: 12607

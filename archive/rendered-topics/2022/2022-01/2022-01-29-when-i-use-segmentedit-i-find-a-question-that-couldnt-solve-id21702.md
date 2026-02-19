@@ -1,3 +1,10 @@
+---
+topic_id: 21702
+title: "When I Use Segmentedit I Find A Question That Couldnt Solve"
+date: 2022-01-29
+url: https://discourse.slicer.org/t/21702
+---
+
 # When i use segmentedit i find a question that couldn't solve, could you help me? thank you
 
 **Topic ID**: 21702

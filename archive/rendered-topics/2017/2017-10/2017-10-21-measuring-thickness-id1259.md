@@ -1,3 +1,10 @@
+---
+topic_id: 1259
+title: "Measuring Thickness"
+date: 2017-10-21
+url: https://discourse.slicer.org/t/1259
+---
+
 # Measuring thickness
 
 **Topic ID**: 1259

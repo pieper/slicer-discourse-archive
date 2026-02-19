@@ -1,3 +1,10 @@
+---
+topic_id: 8635
+title: "Clone Markups Node"
+date: 2019-10-01
+url: https://discourse.slicer.org/t/8635
+---
+
 # Clone markups node
 
 **Topic ID**: 8635

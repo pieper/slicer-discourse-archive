@@ -1,3 +1,10 @@
+---
+topic_id: 10392
+title: "When Install Via Conda Why The Radiomics Pyradiomics Package"
+date: 2020-02-22
+url: https://discourse.slicer.org/t/10392
+---
+
 # When Install via conda,Why the radiomics pyradiomics packages are not available from current channels?
 
 **Topic ID**: 10392

@@ -1,3 +1,10 @@
+---
+topic_id: 18445
+title: "Packaging Error"
+date: 2021-07-01
+url: https://discourse.slicer.org/t/18445
+---
+
 # Packaging error
 
 **Topic ID**: 18445

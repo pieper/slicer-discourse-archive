@@ -1,3 +1,10 @@
+---
+topic_id: 1322
+title: "Unable To Load Multi Volume 4D Nifti Data"
+date: 2017-10-30
+url: https://discourse.slicer.org/t/1322
+---
+
 # Unable to load multi-volume (4D) Nifti data
 
 **Topic ID**: 1322

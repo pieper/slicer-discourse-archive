@@ -1,3 +1,10 @@
+---
+topic_id: 4532
+title: "Access Visible Widgets"
+date: 2018-10-25
+url: https://discourse.slicer.org/t/4532
+---
+
 # Access visible widgets
 
 **Topic ID**: 4532

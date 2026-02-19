@@ -1,3 +1,10 @@
+---
+topic_id: 39678
+title: "Dr Alexandra Golby Named Innovator Of The Year For The 3D Sl"
+date: 2024-10-13
+url: https://discourse.slicer.org/t/39678
+---
+
 # Dr. Alexandra Golby named "Innovator of the Year" for the 3D Slicer based NousNav navigation system
 
 **Topic ID**: 39678

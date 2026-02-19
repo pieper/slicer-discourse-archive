@@ -1,3 +1,10 @@
+---
+topic_id: 15127
+title: "Setting Visibility To Off In Volume Rendering Does Not Unloa"
+date: 2020-12-18
+url: https://discourse.slicer.org/t/15127
+---
+
 # Setting visibility to off in Volume Rendering does not unload the volume from texture memory
 
 **Topic ID**: 15127

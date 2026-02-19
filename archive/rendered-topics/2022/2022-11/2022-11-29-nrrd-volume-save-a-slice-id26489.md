@@ -1,3 +1,10 @@
+---
+topic_id: 26489
+title: "Nrrd Volume Save A Slice"
+date: 2022-11-29
+url: https://discourse.slicer.org/t/26489
+---
+
 # NRRD volume - Save a slice
 
 **Topic ID**: 26489

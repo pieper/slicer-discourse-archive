@@ -1,3 +1,10 @@
+---
+topic_id: 11631
+title: "How To Hide Terminal Window In Release Build Mode"
+date: 2020-05-20
+url: https://discourse.slicer.org/t/11631
+---
+
 # How to hide terminal window in release build mode?
 
 **Topic ID**: 11631

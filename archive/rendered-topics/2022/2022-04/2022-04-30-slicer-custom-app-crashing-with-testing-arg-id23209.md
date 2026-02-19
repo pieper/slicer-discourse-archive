@@ -1,3 +1,10 @@
+---
+topic_id: 23209
+title: "Slicer Custom App Crashing With Testing Arg"
+date: 2022-04-30
+url: https://discourse.slicer.org/t/23209
+---
+
 # Slicer custom app crashing with --testing arg
 
 **Topic ID**: 23209

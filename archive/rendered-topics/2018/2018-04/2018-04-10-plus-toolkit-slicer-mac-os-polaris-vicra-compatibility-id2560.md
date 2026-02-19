@@ -1,3 +1,10 @@
+---
+topic_id: 2560
+title: "Plus Toolkit Slicer Mac Os Polaris Vicra Compatibility"
+date: 2018-04-10
+url: https://discourse.slicer.org/t/2560
+---
+
 # Plus Toolkit + Slicer + Mac OS + Polaris Vicra compatibility
 
 **Topic ID**: 2560

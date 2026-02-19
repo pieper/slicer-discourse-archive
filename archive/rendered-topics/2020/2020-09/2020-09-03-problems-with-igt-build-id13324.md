@@ -1,3 +1,10 @@
+---
+topic_id: 13324
+title: "Problems With Igt Build"
+date: 2020-09-03
+url: https://discourse.slicer.org/t/13324
+---
+
 # Problems with IGT build
 
 **Topic ID**: 13324

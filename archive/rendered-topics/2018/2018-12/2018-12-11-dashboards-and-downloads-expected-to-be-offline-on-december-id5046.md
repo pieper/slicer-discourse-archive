@@ -1,3 +1,10 @@
+---
+topic_id: 5046
+title: "Dashboards And Downloads Expected To Be Offline On December"
+date: 2018-12-11
+url: https://discourse.slicer.org/t/5046
+---
+
 # Dashboards and downloads expected to be offline on December 15th
 
 **Topic ID**: 5046

@@ -1,3 +1,10 @@
+---
+topic_id: 29096
+title: "Loading Multiple Mri Series T1 T2 Flair Under One Subject"
+date: 2023-04-24
+url: https://discourse.slicer.org/t/29096
+---
+
 # Loading multiple MRI series (T1, T2, FLAIR, ...) under one subject
 
 **Topic ID**: 29096

@@ -1,3 +1,10 @@
+---
+topic_id: 20287
+title: "Converting Stl To Nifti Without Showing Gui"
+date: 2021-10-21
+url: https://discourse.slicer.org/t/20287
+---
+
 # Converting .stl to nifti without showing GUI
 
 **Topic ID**: 20287

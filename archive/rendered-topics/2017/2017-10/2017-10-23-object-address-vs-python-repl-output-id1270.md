@@ -1,3 +1,10 @@
+---
+topic_id: 1270
+title: "Object Address Vs Python Repl Output"
+date: 2017-10-23
+url: https://discourse.slicer.org/t/1270
+---
+
 # Object address vs Python REPL output
 
 **Topic ID**: 1270

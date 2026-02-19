@@ -1,3 +1,10 @@
+---
+topic_id: 36882
+title: "Generating Configuration Files In The Autscoper Preprocessin"
+date: 2024-06-18
+url: https://discourse.slicer.org/t/36882
+---
+
 # Generating configuration files in the Autscoper preprocessing module
 
 **Topic ID**: 36882

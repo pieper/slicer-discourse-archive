@@ -1,3 +1,10 @@
+---
+topic_id: 10997
+title: "Mirroring A Rotation Around The Axis For A Transform Node"
+date: 2020-04-05
+url: https://discourse.slicer.org/t/10997
+---
+
 # Mirroring a rotation around the axis for a transform node
 
 **Topic ID**: 10997

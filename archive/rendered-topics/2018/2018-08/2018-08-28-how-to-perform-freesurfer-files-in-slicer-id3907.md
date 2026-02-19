@@ -1,3 +1,10 @@
+---
+topic_id: 3907
+title: "How To Perform Freesurfer Files In Slicer"
+date: 2018-08-28
+url: https://discourse.slicer.org/t/3907
+---
+
 # How to perform Freesurfer files in Slicer? 
 
 **Topic ID**: 3907

@@ -1,3 +1,10 @@
+---
+topic_id: 15344
+title: "Applying Color To The Entire Folder Turns The Surfaces Insid"
+date: 2021-01-05
+url: https://discourse.slicer.org/t/15344
+---
+
 # Applying color to the entire folder, turns the surfaces inside out! flips verticals in 3d models why?
 
 **Topic ID**: 15344

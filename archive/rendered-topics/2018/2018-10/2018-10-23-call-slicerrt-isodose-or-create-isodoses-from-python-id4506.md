@@ -1,3 +1,10 @@
+---
+topic_id: 4506
+title: "Call Slicerrt Isodose Or Create Isodoses From Python"
+date: 2018-10-23
+url: https://discourse.slicer.org/t/4506
+---
+
 # Call SlicerRT Isodose (or create isodoses) from python
 
 **Topic ID**: 4506

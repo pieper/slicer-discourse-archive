@@ -1,3 +1,10 @@
+---
+topic_id: 7850
+title: "Markups Are Not Recognized For Registration"
+date: 2019-08-02
+url: https://discourse.slicer.org/t/7850
+---
+
 # Markups are not recognized for registration
 
 **Topic ID**: 7850

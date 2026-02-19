@@ -1,3 +1,10 @@
+---
+topic_id: 196
+title: "Export Segmentation To Nifti Messes Up Labels"
+date: 2017-04-26
+url: https://discourse.slicer.org/t/196
+---
+
 # Export segmentation to Nifti messes up labels
 
 **Topic ID**: 196

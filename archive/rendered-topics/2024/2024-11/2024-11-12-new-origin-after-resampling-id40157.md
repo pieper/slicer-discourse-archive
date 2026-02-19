@@ -1,3 +1,10 @@
+---
+topic_id: 40157
+title: "New Origin After Resampling"
+date: 2024-11-12
+url: https://discourse.slicer.org/t/40157
+---
+
 # New origin after resampling
 
 **Topic ID**: 40157

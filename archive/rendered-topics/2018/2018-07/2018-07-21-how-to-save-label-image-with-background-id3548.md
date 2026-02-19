@@ -1,3 +1,10 @@
+---
+topic_id: 3548
+title: "How To Save Label Image With Background"
+date: 2018-07-21
+url: https://discourse.slicer.org/t/3548
+---
+
 # How to save label image with background
 
 **Topic ID**: 3548

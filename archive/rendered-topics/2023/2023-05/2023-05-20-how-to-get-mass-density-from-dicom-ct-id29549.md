@@ -1,3 +1,10 @@
+---
+topic_id: 29549
+title: "How To Get Mass Density From Dicom Ct"
+date: 2023-05-20
+url: https://discourse.slicer.org/t/29549
+---
+
 # How to get mass density from DICOM CT?
 
 **Topic ID**: 29549

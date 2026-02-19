@@ -1,3 +1,10 @@
+---
+topic_id: 26725
+title: "Code Autocompletion On Vscode Fails"
+date: 2022-12-14
+url: https://discourse.slicer.org/t/26725
+---
+
 # Code autocompletion on VSCode fails
 
 **Topic ID**: 26725

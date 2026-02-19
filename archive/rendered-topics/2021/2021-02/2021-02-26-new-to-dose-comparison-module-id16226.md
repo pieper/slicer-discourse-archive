@@ -1,3 +1,10 @@
+---
+topic_id: 16226
+title: "New To Dose Comparison Module"
+date: 2021-02-26
+url: https://discourse.slicer.org/t/16226
+---
+
 # new to dose comparison module
 
 **Topic ID**: 16226

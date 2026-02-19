@@ -1,3 +1,10 @@
+---
+topic_id: 9220
+title: "New Module For Measuring User Statistics"
+date: 2019-11-19
+url: https://discourse.slicer.org/t/9220
+---
+
 # New module for measuring user statistics
 
 **Topic ID**: 9220

@@ -1,3 +1,10 @@
+---
+topic_id: 39445
+title: "Segment Substraction Changed Resolution"
+date: 2024-09-30
+url: https://discourse.slicer.org/t/39445
+---
+
 # Segment substraction changed resolution
 
 **Topic ID**: 39445

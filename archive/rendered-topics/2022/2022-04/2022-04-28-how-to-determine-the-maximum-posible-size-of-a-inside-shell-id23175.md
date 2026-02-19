@@ -1,3 +1,10 @@
+---
+topic_id: 23175
+title: "How To Determine The Maximum Posible Size Of A Inside Shell"
+date: 2022-04-28
+url: https://discourse.slicer.org/t/23175
+---
+
 # How to determine the maximum posible size of a inside shell before extruding the external surface?
 
 **Topic ID**: 23175

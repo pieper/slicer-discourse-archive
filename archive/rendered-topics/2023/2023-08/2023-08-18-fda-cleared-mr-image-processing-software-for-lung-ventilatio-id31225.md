@@ -1,3 +1,10 @@
+---
+topic_id: 31225
+title: "Fda Cleared Mr Image Processing Software For Lung Ventilatio"
+date: 2023-08-18
+url: https://discourse.slicer.org/t/31225
+---
+
 # FDA Cleared MR Image Processing Software for Lung Ventilation Imaging
 
 **Topic ID**: 31225

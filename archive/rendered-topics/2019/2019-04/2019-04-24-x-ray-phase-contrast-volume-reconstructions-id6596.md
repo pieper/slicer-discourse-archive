@@ -1,3 +1,10 @@
+---
+topic_id: 6596
+title: "X Ray Phase Contrast Volume Reconstructions"
+date: 2019-04-24
+url: https://discourse.slicer.org/t/6596
+---
+
 # X-Ray Phase Contrast Volume Reconstructions  
 
 **Topic ID**: 6596

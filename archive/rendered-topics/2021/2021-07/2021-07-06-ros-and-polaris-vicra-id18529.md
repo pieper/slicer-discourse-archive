@@ -1,3 +1,10 @@
+---
+topic_id: 18529
+title: "Ros And Polaris Vicra"
+date: 2021-07-06
+url: https://discourse.slicer.org/t/18529
+---
+
 # ROS and Polaris vicra
 
 **Topic ID**: 18529

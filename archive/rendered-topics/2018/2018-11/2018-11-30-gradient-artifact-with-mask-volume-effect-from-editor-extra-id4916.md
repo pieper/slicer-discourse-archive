@@ -1,3 +1,10 @@
+---
+topic_id: 4916
+title: "Gradient Artifact With Mask Volume Effect From Editor Extra"
+date: 2018-11-30
+url: https://discourse.slicer.org/t/4916
+---
+
 # Gradient artifact with Mask Volume effect from Editor Extra Effects?
 
 **Topic ID**: 4916

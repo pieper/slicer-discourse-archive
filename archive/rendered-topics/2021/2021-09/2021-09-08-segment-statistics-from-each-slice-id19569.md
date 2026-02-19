@@ -1,3 +1,10 @@
+---
+topic_id: 19569
+title: "Segment Statistics From Each Slice"
+date: 2021-09-08
+url: https://discourse.slicer.org/t/19569
+---
+
 # Segment statistics from each slice
 
 **Topic ID**: 19569

@@ -1,3 +1,10 @@
+---
+topic_id: 10817
+title: "Hide Radio Button Or Collapsible Item Slice"
+date: 2020-03-24
+url: https://discourse.slicer.org/t/10817
+---
+
 # Hide radio button or collapsible item slice
 
 **Topic ID**: 10817

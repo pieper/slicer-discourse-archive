@@ -1,3 +1,10 @@
+---
+topic_id: 13175
+title: "How To Package 3D Slicer On Ubuntu 16 04 Which Has Been Buil"
+date: 2020-08-26
+url: https://discourse.slicer.org/t/13175
+---
+
 # How to package 3D Slicer on Ubuntu 16.04, which has been build
 
 **Topic ID**: 13175

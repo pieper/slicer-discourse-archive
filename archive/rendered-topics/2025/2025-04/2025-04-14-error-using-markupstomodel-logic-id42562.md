@@ -1,3 +1,10 @@
+---
+topic_id: 42562
+title: "Error Using Markupstomodel Logic"
+date: 2025-04-14
+url: https://discourse.slicer.org/t/42562
+---
+
 # Error using MarkupsToModel Logic
 
 **Topic ID**: 42562

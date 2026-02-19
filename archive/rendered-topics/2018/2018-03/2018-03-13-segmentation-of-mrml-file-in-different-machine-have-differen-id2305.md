@@ -1,3 +1,10 @@
+---
+topic_id: 2305
+title: "Segmentation Of Mrml File In Different Machine Have Differen"
+date: 2018-03-13
+url: https://discourse.slicer.org/t/2305
+---
+
 # Segmentation of mrml file in different machine have different resolution
 
 **Topic ID**: 2305

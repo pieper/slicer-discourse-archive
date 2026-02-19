@@ -1,3 +1,10 @@
+---
+topic_id: 37108
+title: "How To Get First And Last Contact Point Between A Vtkmrmlmar"
+date: 2024-06-30
+url: https://discourse.slicer.org/t/37108
+---
+
 # How to get first and last contact point between a vtkMRMLMarkupsCurveNode and a model?
 
 **Topic ID**: 37108

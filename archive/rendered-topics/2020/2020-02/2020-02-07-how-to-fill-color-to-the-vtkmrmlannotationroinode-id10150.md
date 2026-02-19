@@ -1,3 +1,10 @@
+---
+topic_id: 10150
+title: "How To Fill Color To The Vtkmrmlannotationroinode"
+date: 2020-02-07
+url: https://discourse.slicer.org/t/10150
+---
+
 # How to fill color to the vtkMRMLAnnotationROINode?
 
 **Topic ID**: 10150

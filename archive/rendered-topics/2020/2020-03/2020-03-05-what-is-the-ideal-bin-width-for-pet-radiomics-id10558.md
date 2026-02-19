@@ -1,3 +1,10 @@
+---
+topic_id: 10558
+title: "What Is The Ideal Bin Width For Pet Radiomics"
+date: 2020-03-05
+url: https://discourse.slicer.org/t/10558
+---
+
 # What is the ideal bin width for PET radiomics?
 
 **Topic ID**: 10558

@@ -1,3 +1,10 @@
+---
+topic_id: 33591
+title: "Model Scalar Values Created Using Bone Thickness Mapping"
+date: 2024-01-03
+url: https://discourse.slicer.org/t/33591
+---
+
 # Model scalar values created using "Bone Thickness Mapping"
 
 **Topic ID**: 33591

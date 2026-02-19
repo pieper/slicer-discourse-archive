@@ -1,3 +1,10 @@
+---
+topic_id: 36024
+title: "Aligning A Surface Model And Volume Rendering Of The Same Sk"
+date: 2024-05-09
+url: https://discourse.slicer.org/t/36024
+---
+
 # Aligning a surface model and volume rendering of the same skull
 
 **Topic ID**: 36024

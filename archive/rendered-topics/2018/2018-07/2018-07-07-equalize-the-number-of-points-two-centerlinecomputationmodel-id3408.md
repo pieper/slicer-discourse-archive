@@ -1,3 +1,10 @@
+---
+topic_id: 3408
+title: "Equalize The Number Of Points Two Centerlinecomputationmodel"
+date: 2018-07-07
+url: https://discourse.slicer.org/t/3408
+---
+
 # Equalize the number of points two CenterlineComputationModels
 
 **Topic ID**: 3408

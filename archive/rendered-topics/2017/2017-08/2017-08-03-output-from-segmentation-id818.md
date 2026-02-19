@@ -1,3 +1,10 @@
+---
+topic_id: 818
+title: "Output From Segmentation"
+date: 2017-08-03
+url: https://discourse.slicer.org/t/818
+---
+
 # Output from segmentation
 
 **Topic ID**: 818

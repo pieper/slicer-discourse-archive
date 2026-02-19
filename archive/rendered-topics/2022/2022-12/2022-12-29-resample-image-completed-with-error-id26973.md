@@ -1,3 +1,10 @@
+---
+topic_id: 26973
+title: "Resample Image Completed With Error"
+date: 2022-12-29
+url: https://discourse.slicer.org/t/26973
+---
+
 # Resample Image completed with error
 
 **Topic ID**: 26973

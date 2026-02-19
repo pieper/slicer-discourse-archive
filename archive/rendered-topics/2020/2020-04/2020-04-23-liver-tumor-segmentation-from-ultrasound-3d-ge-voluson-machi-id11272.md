@@ -1,3 +1,10 @@
+---
+topic_id: 11272
+title: "Liver Tumor Segmentation From Ultrasound 3D Ge Voluson Machi"
+date: 2020-04-23
+url: https://discourse.slicer.org/t/11272
+---
+
 # Liver tumor segmentation from ultrasound 3D (GE Voluson machine)
 
 **Topic ID**: 11272

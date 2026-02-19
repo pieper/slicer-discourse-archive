@@ -1,3 +1,10 @@
+---
+topic_id: 21944
+title: "Can One Make Transforms Graphically Rather Than Using Transf"
+date: 2022-02-13
+url: https://discourse.slicer.org/t/21944
+---
+
 # can one make transforms graphically rather than using Transforms Module?
 
 **Topic ID**: 21944

@@ -1,3 +1,10 @@
+---
+topic_id: 2501
+title: "Dicom Image Series Loading Issue"
+date: 2018-04-03
+url: https://discourse.slicer.org/t/2501
+---
+
 # Dicom image series loading issue
 
 **Topic ID**: 2501

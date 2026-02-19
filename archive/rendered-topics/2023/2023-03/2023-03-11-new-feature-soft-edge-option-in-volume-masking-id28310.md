@@ -1,3 +1,10 @@
+---
+topic_id: 28310
+title: "New Feature Soft Edge Option In Volume Masking"
+date: 2023-03-11
+url: https://discourse.slicer.org/t/28310
+---
+
 # New feature: Soft edge option in volume masking
 
 **Topic ID**: 28310

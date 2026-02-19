@@ -1,3 +1,10 @@
+---
+topic_id: 12411
+title: "How To Apply Visually Crop Of The 3D Model"
+date: 2020-07-07
+url: https://discourse.slicer.org/t/12411
+---
+
 # How to apply visually crop of the 3D model?
 
 **Topic ID**: 12411

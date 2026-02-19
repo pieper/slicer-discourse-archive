@@ -1,3 +1,10 @@
+---
+topic_id: 4311
+title: "Finding The Maximum Value Of Displacement Fields Using Pytho"
+date: 2018-10-07
+url: https://discourse.slicer.org/t/4311
+---
+
 # Finding the maximum value of displacement fields using python
 
 **Topic ID**: 4311

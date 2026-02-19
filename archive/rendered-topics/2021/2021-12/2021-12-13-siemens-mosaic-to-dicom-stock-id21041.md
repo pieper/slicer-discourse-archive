@@ -1,3 +1,10 @@
+---
+topic_id: 21041
+title: "Siemens Mosaic To Dicom Stock"
+date: 2021-12-13
+url: https://discourse.slicer.org/t/21041
+---
+
 # Siemens mosaic to DICOM stock
 
 **Topic ID**: 21041

@@ -1,3 +1,10 @@
+---
+topic_id: 9035
+title: "Threshold Methods"
+date: 2019-11-05
+url: https://discourse.slicer.org/t/9035
+---
+
 # Threshold Methods
 
 **Topic ID**: 9035

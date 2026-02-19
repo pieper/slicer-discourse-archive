@@ -1,3 +1,10 @@
+---
+topic_id: 36536
+title: "How To Divide The Liver According To Vascular Drainage"
+date: 2024-06-01
+url: https://discourse.slicer.org/t/36536
+---
+
 # How to divide the liver according to vascular drainage？
 
 **Topic ID**: 36536

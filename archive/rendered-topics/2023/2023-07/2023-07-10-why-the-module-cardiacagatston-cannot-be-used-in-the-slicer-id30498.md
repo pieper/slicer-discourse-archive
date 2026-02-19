@@ -1,3 +1,10 @@
+---
+topic_id: 30498
+title: "Why The Module Cardiacagatston Cannot Be Used In The Slicer"
+date: 2023-07-10
+url: https://discourse.slicer.org/t/30498
+---
+
 # Why  the module Cardiacagatston cannot be used in the slicer 5.2.2?
 
 **Topic ID**: 30498

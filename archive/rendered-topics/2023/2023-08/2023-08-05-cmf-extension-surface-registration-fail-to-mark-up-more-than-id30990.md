@@ -1,3 +1,10 @@
+---
+topic_id: 30990
+title: "Cmf Extension Surface Registration Fail To Mark Up More Than"
+date: 2023-08-05
+url: https://discourse.slicer.org/t/30990
+---
+
 # CMF Extension, Surface registration fail to mark up more than one reference point or surface
 
 **Topic ID**: 30990

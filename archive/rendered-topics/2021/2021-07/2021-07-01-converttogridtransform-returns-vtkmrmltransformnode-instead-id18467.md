@@ -1,3 +1,10 @@
+---
+topic_id: 18467
+title: "Converttogridtransform Returns Vtkmrmltransformnode Instead"
+date: 2021-07-01
+url: https://discourse.slicer.org/t/18467
+---
+
 # ConvertToGridTransform returns vtkMRMLTransformNode instead of vtkMRMLGridTransformNode
 
 **Topic ID**: 18467

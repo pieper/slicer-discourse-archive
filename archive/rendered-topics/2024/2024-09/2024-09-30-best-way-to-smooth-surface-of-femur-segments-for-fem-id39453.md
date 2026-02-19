@@ -1,3 +1,10 @@
+---
+topic_id: 39453
+title: "Best Way To Smooth Surface Of Femur Segments For Fem"
+date: 2024-09-30
+url: https://discourse.slicer.org/t/39453
+---
+
 # Best way to smooth surface of femur segments for FEM
 
 **Topic ID**: 39453

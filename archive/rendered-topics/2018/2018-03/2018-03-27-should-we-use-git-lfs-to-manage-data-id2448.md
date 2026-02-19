@@ -1,3 +1,10 @@
+---
+topic_id: 2448
+title: "Should We Use Git Lfs To Manage Data"
+date: 2018-03-27
+url: https://discourse.slicer.org/t/2448
+---
+
 # Should we use Git LFS to manage data?
 
 **Topic ID**: 2448

@@ -1,3 +1,10 @@
+---
+topic_id: 2369
+title: "Rendering Two Nrdd Files Side To Side With Different Origin"
+date: 2018-03-20
+url: https://discourse.slicer.org/t/2369
+---
+
 # Rendering two NRDD files side to side with different origin, space coordinates and spacing
 
 **Topic ID**: 2369

@@ -1,3 +1,10 @@
+---
+topic_id: 11653
+title: "Dicom Seg Can Not Be Loaded"
+date: 2020-05-21
+url: https://discourse.slicer.org/t/11653
+---
+
 # DICOM SEG can not be loaded 
 
 **Topic ID**: 11653

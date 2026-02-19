@@ -1,3 +1,10 @@
+---
+topic_id: 30474
+title: "Cant Seem To Get The Skull Out Of A Mri Scan Of A Brain"
+date: 2023-07-09
+url: https://discourse.slicer.org/t/30474
+---
+
 # Can't seem to get the skull out of a MRI scan of a brain
 
 **Topic ID**: 30474

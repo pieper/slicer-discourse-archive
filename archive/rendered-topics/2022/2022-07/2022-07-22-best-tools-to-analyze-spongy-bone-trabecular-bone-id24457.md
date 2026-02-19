@@ -1,3 +1,10 @@
+---
+topic_id: 24457
+title: "Best Tools To Analyze Spongy Bone Trabecular Bone"
+date: 2022-07-22
+url: https://discourse.slicer.org/t/24457
+---
+
 # Best tools to analyze spongy bone/ trabecular bone ?
 
 **Topic ID**: 24457

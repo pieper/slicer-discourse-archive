@@ -1,3 +1,10 @@
+---
+topic_id: 43511
+title: "Problem With Mandibular Plane In Bone Reconstruction Planner"
+date: 2025-06-27
+url: https://discourse.slicer.org/t/43511
+---
+
 # Problem with mandibular plane in bone reconstruction planner
 
 **Topic ID**: 43511

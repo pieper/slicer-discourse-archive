@@ -1,3 +1,10 @@
+---
+topic_id: 18026
+title: "Lnk2019 Error While Importing Functions From Different Class"
+date: 2021-06-09
+url: https://discourse.slicer.org/t/18026
+---
+
 # LNK2019 error while importing functions from different class
 
 **Topic ID**: 18026

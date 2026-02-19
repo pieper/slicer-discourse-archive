@@ -1,3 +1,10 @@
+---
+topic_id: 35596
+title: "Cannot Import Name Vtkmrmlmarkupslinenode From Slicer For Pa"
+date: 2024-04-18
+url: https://discourse.slicer.org/t/35596
+---
+
 # Cannot import name 'vtkMRMLMarkupsLineNode' from 'slicer' for ParameterNode definition
 
 **Topic ID**: 35596

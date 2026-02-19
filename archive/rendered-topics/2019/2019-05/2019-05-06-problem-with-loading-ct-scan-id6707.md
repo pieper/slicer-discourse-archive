@@ -1,3 +1,10 @@
+---
+topic_id: 6707
+title: "Problem With Loading Ct Scan"
+date: 2019-05-06
+url: https://discourse.slicer.org/t/6707
+---
+
 # Problem with loading ct scan
 
 **Topic ID**: 6707

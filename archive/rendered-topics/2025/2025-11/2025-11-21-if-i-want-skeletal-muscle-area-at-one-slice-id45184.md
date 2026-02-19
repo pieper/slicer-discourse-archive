@@ -1,3 +1,10 @@
+---
+topic_id: 45184
+title: "If I Want Skeletal Muscle Area At One Slice"
+date: 2025-11-21
+url: https://discourse.slicer.org/t/45184
+---
+
 # If i want skeletal muscle area at one slice
 
 **Topic ID**: 45184

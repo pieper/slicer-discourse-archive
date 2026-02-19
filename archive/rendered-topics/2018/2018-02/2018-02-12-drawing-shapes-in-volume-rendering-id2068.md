@@ -1,3 +1,10 @@
+---
+topic_id: 2068
+title: "Drawing Shapes In Volume Rendering"
+date: 2018-02-12
+url: https://discourse.slicer.org/t/2068
+---
+
 # Drawing shapes in volume rendering
 
 **Topic ID**: 2068

@@ -1,3 +1,10 @@
+---
+topic_id: 43589
+title: "Closedplanar Xor Visualization Artefact With Holes 2D"
+date: 2025-07-03
+url: https://discourse.slicer.org/t/43589
+---
+
 # CLOSEDPLANAR_XOR visualization artefact with holes 2D
 
 **Topic ID**: 43589

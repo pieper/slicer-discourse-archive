@@ -1,3 +1,10 @@
+---
+topic_id: 3317
+title: "Module For Internal Dosimetry In Nuclear Medicine"
+date: 2018-06-27
+url: https://discourse.slicer.org/t/3317
+---
+
 # Module for Internal Dosimetry in Nuclear Medicine
 
 **Topic ID**: 3317

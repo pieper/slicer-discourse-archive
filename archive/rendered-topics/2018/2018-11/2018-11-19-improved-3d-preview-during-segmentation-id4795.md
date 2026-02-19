@@ -1,3 +1,10 @@
+---
+topic_id: 4795
+title: "Improved 3D Preview During Segmentation"
+date: 2018-11-19
+url: https://discourse.slicer.org/t/4795
+---
+
 # Improved 3D preview during segmentation
 
 **Topic ID**: 4795

@@ -1,3 +1,10 @@
+---
+topic_id: 30051
+title: "Ascension 3Dg Connection Issue"
+date: 2023-06-15
+url: https://discourse.slicer.org/t/30051
+---
+
 # Ascension 3DG connection issue
 
 **Topic ID**: 30051

@@ -1,3 +1,10 @@
+---
+topic_id: 19738
+title: "Convert Dicom Rtss To Dicom Segmentation"
+date: 2021-09-18
+url: https://discourse.slicer.org/t/19738
+---
+
 # Convert DICOM RTSS to DICOM segmentation
 
 **Topic ID**: 19738

@@ -1,3 +1,10 @@
+---
+topic_id: 43742
+title: "Decal Groupwise Analysis"
+date: 2025-07-16
+url: https://discourse.slicer.org/t/43742
+---
+
 # DeCAL: groupwise analysis
 
 **Topic ID**: 43742

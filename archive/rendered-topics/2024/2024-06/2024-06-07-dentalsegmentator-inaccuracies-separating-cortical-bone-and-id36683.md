@@ -1,3 +1,10 @@
+---
+topic_id: 36683
+title: "Dentalsegmentator Inaccuracies Separating Cortical Bone And"
+date: 2024-06-07
+url: https://discourse.slicer.org/t/36683
+---
+
 # DentalSegmentator inaccuracies separating cortical bone and teeth
 
 **Topic ID**: 36683

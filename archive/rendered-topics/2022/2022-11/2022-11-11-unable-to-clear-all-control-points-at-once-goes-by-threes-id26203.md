@@ -1,3 +1,10 @@
+---
+topic_id: 26203
+title: "Unable To Clear All Control Points At Once Goes By Threes"
+date: 2022-11-11
+url: https://discourse.slicer.org/t/26203
+---
+
 # Unable to clear all control points at once, goes by threes?
 
 **Topic ID**: 26203

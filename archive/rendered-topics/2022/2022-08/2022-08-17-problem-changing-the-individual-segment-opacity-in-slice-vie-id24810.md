@@ -1,3 +1,10 @@
+---
+topic_id: 24810
+title: "Problem Changing The Individual Segment Opacity In Slice Vie"
+date: 2022-08-17
+url: https://discourse.slicer.org/t/24810
+---
+
 # Problem changing the individual segment opacity in slice views
 
 **Topic ID**: 24810

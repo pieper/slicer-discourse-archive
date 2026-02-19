@@ -1,3 +1,10 @@
+---
+topic_id: 12077
+title: "Automatic Dark Mode On Mac In Recent Slicer Preview Releases"
+date: 2020-06-17
+url: https://discourse.slicer.org/t/12077
+---
+
 # Automatic dark mode on Mac in recent Slicer Preview releases
 
 **Topic ID**: 12077

@@ -1,3 +1,10 @@
+---
+topic_id: 1900
+title: "Loadable Module Crashing Binary Slicer"
+date: 2018-01-22
+url: https://discourse.slicer.org/t/1900
+---
+
 # Loadable module crashing binary Slicer
 
 **Topic ID**: 1900

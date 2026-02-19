@@ -1,3 +1,10 @@
+---
+topic_id: 33096
+title: "Visualize Tracked Ultrasound In 3D With Png Images And Pose"
+date: 2023-11-28
+url: https://discourse.slicer.org/t/33096
+---
+
 # Visualize tracked ultrasound in 3D with PNG images and pose matrices
 
 **Topic ID**: 33096

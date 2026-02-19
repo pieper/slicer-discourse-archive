@@ -1,3 +1,10 @@
+---
+topic_id: 1394
+title: "Segmentation Resolution"
+date: 2017-11-07
+url: https://discourse.slicer.org/t/1394
+---
+
 # Segmentation resolution
 
 **Topic ID**: 1394

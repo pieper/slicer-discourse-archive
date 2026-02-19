@@ -1,3 +1,10 @@
+---
+topic_id: 8663
+title: "Set Orientation At Vtkcylindersource"
+date: 2019-10-03
+url: https://discourse.slicer.org/t/8663
+---
+
 # Set Orientation at vtkCylinderSource
 
 **Topic ID**: 8663

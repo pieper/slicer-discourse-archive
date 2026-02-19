@@ -1,3 +1,10 @@
+---
+topic_id: 4647
+title: "After Acpc Registration Reset Origin To Mcp"
+date: 2018-11-05
+url: https://discourse.slicer.org/t/4647
+---
+
 # After ACPC registration - reset origin to MCP?
 
 **Topic ID**: 4647

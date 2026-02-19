@@ -1,3 +1,10 @@
+---
+topic_id: 35946
+title: "Discrepancy In Image Origin Values Between 3D Slicer And Sim"
+date: 2024-05-06
+url: https://discourse.slicer.org/t/35946
+---
+
 # Discrepancy in Image Origin Values between 3D Slicer and SimpleITK
 
 **Topic ID**: 35946

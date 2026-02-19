@@ -1,3 +1,10 @@
+---
+topic_id: 40715
+title: "Setting Or Trimming Slice Range For Dicom Images"
+date: 2024-12-16
+url: https://discourse.slicer.org/t/40715
+---
+
 # Setting or Trimming Slice Range for DICOM Images
 
 **Topic ID**: 40715

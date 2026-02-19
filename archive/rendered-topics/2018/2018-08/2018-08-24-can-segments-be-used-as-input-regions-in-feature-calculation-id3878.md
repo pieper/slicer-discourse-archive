@@ -1,3 +1,10 @@
+---
+topic_id: 3878
+title: "Can Segments Be Used As Input Regions In Feature Calculation"
+date: 2018-08-24
+url: https://discourse.slicer.org/t/3878
+---
+
 # Can segments be used as input regions in feature calculation?
 
 **Topic ID**: 3878

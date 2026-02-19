@@ -1,3 +1,10 @@
+---
+topic_id: 46149
+title: "Modul Gpa Interactive 3D Visualization Pca Visualization Par"
+date: 2026-02-13
+url: https://discourse.slicer.org/t/46149
+---
+
 # Modul GPA, Interactive 3D Visualization, PCA Visualization Parameters slider
 
 **Topic ID**: 46149

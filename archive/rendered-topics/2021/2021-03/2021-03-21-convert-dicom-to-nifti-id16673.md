@@ -1,3 +1,10 @@
+---
+topic_id: 16673
+title: "Convert Dicom To Nifti"
+date: 2021-03-21
+url: https://discourse.slicer.org/t/16673
+---
+
 # Convert DICOM to nifti
 
 **Topic ID**: 16673

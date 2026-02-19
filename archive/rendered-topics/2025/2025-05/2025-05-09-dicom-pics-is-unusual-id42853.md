@@ -1,3 +1,10 @@
+---
+topic_id: 42853
+title: "Dicom Pics Is Unusual"
+date: 2025-05-09
+url: https://discourse.slicer.org/t/42853
+---
+
 # Dicom pics is unusual 
 
 **Topic ID**: 42853

@@ -1,3 +1,10 @@
+---
+topic_id: 16178
+title: "Showing A Qmrrmlwidget Instead Of The View Layout"
+date: 2021-02-24
+url: https://discourse.slicer.org/t/16178
+---
+
 # Showing a qMRRMLWidget instead of the view layout
 
 **Topic ID**: 16178

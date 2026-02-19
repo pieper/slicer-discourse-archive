@@ -1,3 +1,10 @@
+---
+topic_id: 31939
+title: "Scalar Mapping Of Markup Curve Between Points"
+date: 2023-09-27
+url: https://discourse.slicer.org/t/31939
+---
+
 # Scalar mapping of markup curve between points
 
 **Topic ID**: 31939

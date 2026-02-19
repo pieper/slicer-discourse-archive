@@ -1,3 +1,10 @@
+---
+topic_id: 18647
+title: "Typeerror Function Takes 2 Positional Arguments But 3 Were G"
+date: 2021-07-12
+url: https://discourse.slicer.org/t/18647
+---
+
 # TypeError: Function takes 2 positional arguments but 3 were given
 
 **Topic ID**: 18647

@@ -1,3 +1,10 @@
+---
+topic_id: 25477
+title: "Ask The Easily Install Pyradiomic Pip Or Conda At Mac Os Mon"
+date: 2022-09-29
+url: https://discourse.slicer.org/t/25477
+---
+
 # Ask the easily install pyradiomic pip or conda at mac os monterey
 
 **Topic ID**: 25477

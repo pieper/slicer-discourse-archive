@@ -1,3 +1,10 @@
+---
+topic_id: 362
+title: "Control Slicer Using Surface Dial Controller"
+date: 2017-05-23
+url: https://discourse.slicer.org/t/362
+---
+
 # Control Slicer using Surface Dial controller
 
 **Topic ID**: 362

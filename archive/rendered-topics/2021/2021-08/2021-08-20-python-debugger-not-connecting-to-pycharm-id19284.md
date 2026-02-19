@@ -1,3 +1,10 @@
+---
+topic_id: 19284
+title: "Python Debugger Not Connecting To Pycharm"
+date: 2021-08-20
+url: https://discourse.slicer.org/t/19284
+---
+
 # Python debugger not connecting to Pycharm
 
 **Topic ID**: 19284

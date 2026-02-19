@@ -1,3 +1,10 @@
+---
+topic_id: 38237
+title: "Dears Is There A Video Showing How To Segment A Lesion In Ma"
+date: 2024-09-05
+url: https://discourse.slicer.org/t/38237
+---
+
 # Dears, is there a video showing how to segment a lesion in mandible or maxilla? thank you
 
 **Topic ID**: 38237

@@ -1,3 +1,10 @@
+---
+topic_id: 361
+title: "Trouble Getting The Real Spacing Of A Dicom Serie Using Vtki"
+date: 2017-05-23
+url: https://discourse.slicer.org/t/361
+---
+
 # Trouble getting the real spacing of a DICOM serie using vtkImageData
 
 **Topic ID**: 361

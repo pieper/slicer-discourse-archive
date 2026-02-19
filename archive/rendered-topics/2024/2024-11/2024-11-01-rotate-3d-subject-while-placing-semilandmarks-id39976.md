@@ -1,3 +1,10 @@
+---
+topic_id: 39976
+title: "Rotate 3D Subject While Placing Semilandmarks"
+date: 2024-11-01
+url: https://discourse.slicer.org/t/39976
+---
+
 # Rotate 3D subject while placing semilandmarks 
 
 **Topic ID**: 39976

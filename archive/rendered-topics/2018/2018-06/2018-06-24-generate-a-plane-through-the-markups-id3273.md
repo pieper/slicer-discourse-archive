@@ -1,3 +1,10 @@
+---
+topic_id: 3273
+title: "Generate A Plane Through The Markups"
+date: 2018-06-24
+url: https://discourse.slicer.org/t/3273
+---
+
 # Generate a plane through the markups
 
 **Topic ID**: 3273

@@ -1,3 +1,10 @@
+---
+topic_id: 9347
+title: "Show Dicom Browsers Folder Import Dialog"
+date: 2019-12-01
+url: https://discourse.slicer.org/t/9347
+---
+
 # Show DICOM browser's folder import dialog
 
 **Topic ID**: 9347

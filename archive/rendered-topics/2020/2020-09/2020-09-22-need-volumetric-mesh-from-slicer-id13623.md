@@ -1,3 +1,10 @@
+---
+topic_id: 13623
+title: "Need Volumetric Mesh From Slicer"
+date: 2020-09-22
+url: https://discourse.slicer.org/t/13623
+---
+
 # Need volumetric mesh from Slicer
 
 **Topic ID**: 13623

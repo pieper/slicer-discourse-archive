@@ -1,3 +1,10 @@
+---
+topic_id: 22406
+title: "Change Series Name"
+date: 2022-03-09
+url: https://discourse.slicer.org/t/22406
+---
+
 # Change series name
 
 **Topic ID**: 22406

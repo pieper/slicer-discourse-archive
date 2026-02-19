@@ -1,3 +1,10 @@
+---
+topic_id: 3801
+title: "Static Build Of Qt5 To Update The Application Launcher And S"
+date: 2018-08-16
+url: https://discourse.slicer.org/t/3801
+---
+
 # Static build of Qt5 to update the application launcher and support interactive process
 
 **Topic ID**: 3801

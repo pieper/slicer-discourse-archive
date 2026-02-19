@@ -1,3 +1,10 @@
+---
+topic_id: 15299
+title: "Crash With Ctkrangewidget"
+date: 2020-12-31
+url: https://discourse.slicer.org/t/15299
+---
+
 # Crash with ctkRangeWidget
 
 **Topic ID**: 15299

@@ -1,3 +1,10 @@
+---
+topic_id: 25989
+title: "Slicer Quit Unexpectedly On Macbook With M1 Chip"
+date: 2022-10-31
+url: https://discourse.slicer.org/t/25989
+---
+
 # Slicer quit unexpectedly on MacBook with M1 chip
 
 **Topic ID**: 25989

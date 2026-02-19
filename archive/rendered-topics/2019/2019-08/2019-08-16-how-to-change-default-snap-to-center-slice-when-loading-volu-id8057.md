@@ -1,3 +1,10 @@
+---
+topic_id: 8057
+title: "How To Change Default Snap To Center Slice When Loading Volu"
+date: 2019-08-16
+url: https://discourse.slicer.org/t/8057
+---
+
 # How to change default snap to center slice when loading volume
 
 **Topic ID**: 8057

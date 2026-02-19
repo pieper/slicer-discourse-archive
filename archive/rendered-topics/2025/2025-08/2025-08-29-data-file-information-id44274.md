@@ -1,3 +1,10 @@
+---
+topic_id: 44274
+title: "Data File Information"
+date: 2025-08-29
+url: https://discourse.slicer.org/t/44274
+---
+
 # Data file information
 
 **Topic ID**: 44274

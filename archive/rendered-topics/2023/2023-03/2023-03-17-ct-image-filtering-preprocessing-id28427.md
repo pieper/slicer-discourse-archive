@@ -1,3 +1,10 @@
+---
+topic_id: 28427
+title: "Ct Image Filtering Preprocessing"
+date: 2023-03-17
+url: https://discourse.slicer.org/t/28427
+---
+
 # CT image filtering/preprocessing
 
 **Topic ID**: 28427

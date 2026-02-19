@@ -1,3 +1,10 @@
+---
+topic_id: 1885
+title: "Dtiprep Installation"
+date: 2018-01-21
+url: https://discourse.slicer.org/t/1885
+---
+
 # DTIPrep installation
 
 **Topic ID**: 1885

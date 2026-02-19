@@ -1,3 +1,10 @@
+---
+topic_id: 32556
+title: "Cannot Install The Slicerradiomics Module"
+date: 2023-11-02
+url: https://discourse.slicer.org/t/32556
+---
+
 # Cannot install the SlicerRadiomics Module 
 
 **Topic ID**: 32556

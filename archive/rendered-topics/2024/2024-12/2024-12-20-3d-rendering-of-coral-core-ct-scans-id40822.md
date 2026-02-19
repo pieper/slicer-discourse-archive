@@ -1,3 +1,10 @@
+---
+topic_id: 40822
+title: "3D Rendering Of Coral Core Ct Scans"
+date: 2024-12-20
+url: https://discourse.slicer.org/t/40822
+---
+
 # 3d rendering of Coral Core CT scans
 
 **Topic ID**: 40822

@@ -1,3 +1,10 @@
+---
+topic_id: 20002
+title: "Windows 10 3 Nightly Build With Windows Security Issues"
+date: 2021-10-04
+url: https://discourse.slicer.org/t/20002
+---
+
 # Windows 10-3 nightly build with Windows Security issues
 
 **Topic ID**: 20002

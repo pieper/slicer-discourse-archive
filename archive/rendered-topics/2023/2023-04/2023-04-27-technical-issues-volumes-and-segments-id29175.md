@@ -1,3 +1,10 @@
+---
+topic_id: 29175
+title: "Technical Issues Volumes And Segments"
+date: 2023-04-27
+url: https://discourse.slicer.org/t/29175
+---
+
 # Technical issues volumes and segments
 
 **Topic ID**: 29175

@@ -1,3 +1,10 @@
+---
+topic_id: 33966
+title: "Unable To Save Mrb Bundle Failed To Write Lumpnav Scene"
+date: 2024-01-25
+url: https://discourse.slicer.org/t/33966
+---
+
 # Unable to save .mrb bundle - Failed to write LumpNav scene. 
 
 **Topic ID**: 33966

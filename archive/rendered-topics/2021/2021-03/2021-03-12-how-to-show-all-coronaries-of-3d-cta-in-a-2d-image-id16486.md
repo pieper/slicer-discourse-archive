@@ -1,3 +1,10 @@
+---
+topic_id: 16486
+title: "How To Show All Coronaries Of 3D Cta In A 2D Image"
+date: 2021-03-12
+url: https://discourse.slicer.org/t/16486
+---
+
 # How to show all coronaries of 3D CTA in a 2D image?
 
 **Topic ID**: 16486

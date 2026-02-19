@@ -1,3 +1,10 @@
+---
+topic_id: 5526
+title: "The Problem Between Node And Vtkprop3D"
+date: 2019-01-27
+url: https://discourse.slicer.org/t/5526
+---
+
 # The problem between Node and vtkProp3D
 
 **Topic ID**: 5526

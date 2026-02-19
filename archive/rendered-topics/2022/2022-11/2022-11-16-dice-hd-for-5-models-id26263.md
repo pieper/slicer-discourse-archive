@@ -1,3 +1,10 @@
+---
+topic_id: 26263
+title: "Dice Hd For 5 Models"
+date: 2022-11-16
+url: https://discourse.slicer.org/t/26263
+---
+
 # DICE + HD for 5 models
 
 **Topic ID**: 26263

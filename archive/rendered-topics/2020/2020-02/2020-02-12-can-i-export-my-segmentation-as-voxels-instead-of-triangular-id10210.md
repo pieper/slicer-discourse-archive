@@ -1,3 +1,10 @@
+---
+topic_id: 10210
+title: "Can I Export My Segmentation As Voxels Instead Of Triangular"
+date: 2020-02-12
+url: https://discourse.slicer.org/t/10210
+---
+
 # Can I export my segmentation as Voxels instead of triangular/Tetrahedral Mesh?
 
 **Topic ID**: 10210

@@ -1,3 +1,10 @@
+---
+topic_id: 18636
+title: "Slicer Source Code For Stl File Extraction"
+date: 2021-07-12
+url: https://discourse.slicer.org/t/18636
+---
+
 # Slicer source code for stl file extraction
 
 **Topic ID**: 18636

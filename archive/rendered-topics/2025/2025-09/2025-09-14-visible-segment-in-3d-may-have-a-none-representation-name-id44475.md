@@ -1,3 +1,10 @@
+---
+topic_id: 44475
+title: "Visible Segment In 3D May Have A None Representation Name"
+date: 2025-09-14
+url: https://discourse.slicer.org/t/44475
+---
+
 # Visible segment in 3D may have a None representation name
 
 **Topic ID**: 44475

@@ -1,3 +1,10 @@
+---
+topic_id: 16977
+title: "Inverted Slice View Scrolling Direction"
+date: 2021-04-07
+url: https://discourse.slicer.org/t/16977
+---
+
 # Inverted slice view scrolling direction
 
 **Topic ID**: 16977

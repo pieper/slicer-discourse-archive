@@ -1,3 +1,10 @@
+---
+topic_id: 39447
+title: "Registration Of Spect And Ct"
+date: 2024-09-30
+url: https://discourse.slicer.org/t/39447
+---
+
 # Registration of SPECT and CT
 
 **Topic ID**: 39447

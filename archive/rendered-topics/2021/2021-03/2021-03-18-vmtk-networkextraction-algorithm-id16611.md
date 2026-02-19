@@ -1,3 +1,10 @@
+---
+topic_id: 16611
+title: "Vmtk Networkextraction Algorithm"
+date: 2021-03-18
+url: https://discourse.slicer.org/t/16611
+---
+
 # Vmtk networkextraction algorithm
 
 **Topic ID**: 16611

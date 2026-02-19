@@ -1,3 +1,10 @@
+---
+topic_id: 32715
+title: "Remove Pixel Medical From Slicer Org Commercial Use Page"
+date: 2023-11-10
+url: https://discourse.slicer.org/t/32715
+---
+
 # Remove Pixel Medical from slicer.org commercial use page
 
 **Topic ID**: 32715

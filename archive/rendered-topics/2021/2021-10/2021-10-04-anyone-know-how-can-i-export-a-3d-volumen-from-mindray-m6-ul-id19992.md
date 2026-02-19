@@ -1,3 +1,10 @@
+---
+topic_id: 19992
+title: "Anyone Know How Can I Export A 3D Volumen From Mindray M6 Ul"
+date: 2021-10-04
+url: https://discourse.slicer.org/t/19992
+---
+
 # Anyone know how can i export a 3D volumen from Mindray M6 ultrasound in DICOM format to use in Slicer?
 
 **Topic ID**: 19992

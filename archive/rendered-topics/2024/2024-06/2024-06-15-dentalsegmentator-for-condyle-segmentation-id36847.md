@@ -1,3 +1,10 @@
+---
+topic_id: 36847
+title: "Dentalsegmentator For Condyle Segmentation"
+date: 2024-06-15
+url: https://discourse.slicer.org/t/36847
+---
+
 # DentalSegmentator for condyle segmentation?
 
 **Topic ID**: 36847

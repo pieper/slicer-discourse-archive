@@ -1,3 +1,10 @@
+---
+topic_id: 42967
+title: "I Need To Merge Two Diferent Segmentations Models"
+date: 2025-05-16
+url: https://discourse.slicer.org/t/42967
+---
+
 # I need to merge two diferent segmentations models
 
 **Topic ID**: 42967

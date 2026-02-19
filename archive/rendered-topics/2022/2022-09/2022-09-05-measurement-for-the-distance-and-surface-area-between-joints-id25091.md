@@ -1,3 +1,10 @@
+---
+topic_id: 25091
+title: "Measurement For The Distance And Surface Area Between Joints"
+date: 2022-09-05
+url: https://discourse.slicer.org/t/25091
+---
+
 # Measurement for the distance and surface area between joints
 
 **Topic ID**: 25091

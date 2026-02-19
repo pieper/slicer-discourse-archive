@@ -1,3 +1,10 @@
+---
+topic_id: 7804
+title: "Changing Voxel Size"
+date: 2019-07-30
+url: https://discourse.slicer.org/t/7804
+---
+
 # Changing voxel size
 
 **Topic ID**: 7804

@@ -1,3 +1,10 @@
+---
+topic_id: 31022
+title: "What Is The Best Extension For Segmentation Of Bone"
+date: 2023-08-07
+url: https://discourse.slicer.org/t/31022
+---
+
 # What is the best extension for segmentation of bone?
 
 **Topic ID**: 31022

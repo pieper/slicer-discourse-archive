@@ -1,3 +1,10 @@
+---
+topic_id: 40929
+title: "Segmentation The Hippocampus Automatically"
+date: 2025-01-02
+url: https://discourse.slicer.org/t/40929
+---
+
 # Segmentation the hippocampus automatically
 
 **Topic ID**: 40929

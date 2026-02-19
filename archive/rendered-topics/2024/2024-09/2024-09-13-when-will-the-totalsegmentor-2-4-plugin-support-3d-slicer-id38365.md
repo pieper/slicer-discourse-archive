@@ -1,3 +1,10 @@
+---
+topic_id: 38365
+title: "When Will The Totalsegmentor 2 4 Plugin Support 3D Slicer"
+date: 2024-09-13
+url: https://discourse.slicer.org/t/38365
+---
+
 # When will the Totalsegmentor 2.4 plugin support 3D Slicer?
 
 **Topic ID**: 38365

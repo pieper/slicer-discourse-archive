@@ -1,3 +1,10 @@
+---
+topic_id: 38043
+title: "Creating Truth Mask For Segmentation Task"
+date: 2024-08-26
+url: https://discourse.slicer.org/t/38043
+---
+
 # Creating Truth Mask for Segmentation Task
 
 **Topic ID**: 38043

@@ -1,3 +1,10 @@
+---
+topic_id: 35756
+title: "Ti1 Module For T1 Map"
+date: 2024-04-26
+url: https://discourse.slicer.org/t/35756
+---
+
 # TI1 module for T1 map
 
 **Topic ID**: 35756

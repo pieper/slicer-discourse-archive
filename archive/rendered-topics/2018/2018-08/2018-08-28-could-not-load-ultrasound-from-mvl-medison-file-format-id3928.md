@@ -1,3 +1,10 @@
+---
+topic_id: 3928
+title: "Could Not Load Ultrasound From Mvl Medison File Format"
+date: 2018-08-28
+url: https://discourse.slicer.org/t/3928
+---
+
 # Could not load ultrasound from .mvl (Medison) file format
 
 **Topic ID**: 3928

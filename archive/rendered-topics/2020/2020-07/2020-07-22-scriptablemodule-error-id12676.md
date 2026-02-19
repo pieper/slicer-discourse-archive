@@ -1,3 +1,10 @@
+---
+topic_id: 12676
+title: "Scriptablemodule Error"
+date: 2020-07-22
+url: https://discourse.slicer.org/t/12676
+---
+
 # Scriptablemodule error
 
 **Topic ID**: 12676

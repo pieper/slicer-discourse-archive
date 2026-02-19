@@ -1,3 +1,10 @@
+---
+topic_id: 27280
+title: "Attributeerror Vtkslicermarkupsmodulemrmlpython Vtkmrmlmarku"
+date: 2023-01-16
+url: https://discourse.slicer.org/t/27280
+---
+
 # AttributeError: 'vtkSlicerMarkupsModuleMRMLPython.vtkMRMLMarkupsROI' object has no attribute 'SetAndObserveObjectToNodeMatrix'
 
 **Topic ID**: 27280

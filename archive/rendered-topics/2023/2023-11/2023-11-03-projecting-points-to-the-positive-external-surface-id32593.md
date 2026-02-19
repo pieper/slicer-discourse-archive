@@ -1,3 +1,10 @@
+---
+topic_id: 32593
+title: "Projecting Points To The Positive External Surface"
+date: 2023-11-03
+url: https://discourse.slicer.org/t/32593
+---
+
 # Projecting points to the positive external surface
 
 **Topic ID**: 32593

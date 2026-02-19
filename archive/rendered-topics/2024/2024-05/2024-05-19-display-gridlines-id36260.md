@@ -1,3 +1,10 @@
+---
+topic_id: 36260
+title: "Display Gridlines"
+date: 2024-05-19
+url: https://discourse.slicer.org/t/36260
+---
+
 # Display gridlines
 
 **Topic ID**: 36260

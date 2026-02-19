@@ -1,3 +1,10 @@
+---
+topic_id: 1769
+title: "How To Remove Background Right Angle Slices From Restored Sc"
+date: 2018-01-06
+url: https://discourse.slicer.org/t/1769
+---
+
 # How to remove background right-angle slices from restored Scene Views of models from SPL Brain Atlas
 
 **Topic ID**: 1769

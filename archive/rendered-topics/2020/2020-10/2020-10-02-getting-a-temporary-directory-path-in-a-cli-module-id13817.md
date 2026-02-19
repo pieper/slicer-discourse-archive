@@ -1,3 +1,10 @@
+---
+topic_id: 13817
+title: "Getting A Temporary Directory Path In A Cli Module"
+date: 2020-10-02
+url: https://discourse.slicer.org/t/13817
+---
+
 # Getting a temporary directory path in a CLI module
 
 **Topic ID**: 13817

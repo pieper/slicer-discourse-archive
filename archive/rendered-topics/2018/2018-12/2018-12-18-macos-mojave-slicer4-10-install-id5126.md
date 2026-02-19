@@ -1,3 +1,10 @@
+---
+topic_id: 5126
+title: "Macos Mojave Slicer4 10 Install"
+date: 2018-12-18
+url: https://discourse.slicer.org/t/5126
+---
+
 # MacOS Mojave Slicer4.10 install 
 
 **Topic ID**: 5126

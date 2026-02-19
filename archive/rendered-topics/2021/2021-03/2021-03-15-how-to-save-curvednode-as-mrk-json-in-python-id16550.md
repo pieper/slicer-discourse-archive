@@ -1,3 +1,10 @@
+---
+topic_id: 16550
+title: "How To Save Curvednode As Mrk Json In Python"
+date: 2021-03-15
+url: https://discourse.slicer.org/t/16550
+---
+
 # How to save CurvedNode as .mrk.json in python?
 
 **Topic ID**: 16550

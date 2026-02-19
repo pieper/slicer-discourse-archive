@@ -1,3 +1,10 @@
+---
+topic_id: 34405
+title: "How To Measure The Aortic Valves Annulus Diameter S And The"
+date: 2024-02-19
+url: https://discourse.slicer.org/t/34405
+---
+
 # How to measure the Aortic valve's annulus diameter(s), and the vertical distance between the annulus and the sinotubular junction by 3D Slicer and/or SlicaeHeart using cardiac CT scans?
 
 **Topic ID**: 34405

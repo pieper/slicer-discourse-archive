@@ -1,3 +1,10 @@
+---
+topic_id: 28380
+title: "Vmtk Automatic Cross Sectional Analysis"
+date: 2023-03-14
+url: https://discourse.slicer.org/t/28380
+---
+
 # VMTK automatic cross-sectional analysis
 
 **Topic ID**: 28380

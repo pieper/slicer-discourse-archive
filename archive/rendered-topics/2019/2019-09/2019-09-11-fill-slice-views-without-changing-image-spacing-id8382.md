@@ -1,3 +1,10 @@
+---
+topic_id: 8382
+title: "Fill Slice Views Without Changing Image Spacing"
+date: 2019-09-11
+url: https://discourse.slicer.org/t/8382
+---
+
 # Fill Slice Views without Changing Image Spacing
 
 **Topic ID**: 8382

@@ -1,3 +1,10 @@
+---
+topic_id: 39749
+title: "Instensity Reduction On Obtured Dental Ct"
+date: 2024-10-17
+url: https://discourse.slicer.org/t/39749
+---
+
 # Instensity Reduction on Obtured Dental CT
 
 **Topic ID**: 39749

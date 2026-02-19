@@ -1,3 +1,10 @@
+---
+topic_id: 12239
+title: "How To Archive Jupyter Notebooks"
+date: 2020-06-27
+url: https://discourse.slicer.org/t/12239
+---
+
 # How to archive jupyter notebooks
 
 **Topic ID**: 12239

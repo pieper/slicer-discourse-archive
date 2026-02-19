@@ -1,3 +1,10 @@
+---
+topic_id: 8348
+title: "Scissors Segment Editor Effects From A Script"
+date: 2019-09-09
+url: https://discourse.slicer.org/t/8348
+---
+
 # Scissors segment editor effects from a script
 
 **Topic ID**: 8348

@@ -1,3 +1,10 @@
+---
+topic_id: 11968
+title: "Identify A Dicom Instance File Name In 3D Dicom Volume"
+date: 2020-06-09
+url: https://discourse.slicer.org/t/11968
+---
+
 # Identify a DICOM Instance file name in 3D DICOM volume
 
 **Topic ID**: 11968

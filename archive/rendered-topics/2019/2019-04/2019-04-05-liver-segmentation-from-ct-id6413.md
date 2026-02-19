@@ -1,3 +1,10 @@
+---
+topic_id: 6413
+title: "Liver Segmentation From Ct"
+date: 2019-04-05
+url: https://discourse.slicer.org/t/6413
+---
+
 # Liver segmentation from CT
 
 **Topic ID**: 6413

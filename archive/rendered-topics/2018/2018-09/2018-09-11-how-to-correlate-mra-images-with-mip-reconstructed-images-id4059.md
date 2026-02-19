@@ -1,3 +1,10 @@
+---
+topic_id: 4059
+title: "How To Correlate Mra Images With Mip Reconstructed Images"
+date: 2018-09-11
+url: https://discourse.slicer.org/t/4059
+---
+
 # How to correlate MRA images with MIP reconstructed images?
 
 **Topic ID**: 4059

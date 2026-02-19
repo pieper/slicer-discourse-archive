@@ -1,3 +1,10 @@
+---
+topic_id: 19309
+title: "How To Make A Tumor Model In A 3D Ct Data"
+date: 2021-08-23
+url: https://discourse.slicer.org/t/19309
+---
+
 # How to make a tumor model in a 3D CT data?
 
 **Topic ID**: 19309

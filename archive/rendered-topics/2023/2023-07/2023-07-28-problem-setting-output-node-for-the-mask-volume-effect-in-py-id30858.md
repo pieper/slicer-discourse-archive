@@ -1,3 +1,10 @@
+---
+topic_id: 30858
+title: "Problem Setting Output Node For The Mask Volume Effect In Py"
+date: 2023-07-28
+url: https://discourse.slicer.org/t/30858
+---
+
 # Problem setting output node for the mask volume effect in python
 
 **Topic ID**: 30858

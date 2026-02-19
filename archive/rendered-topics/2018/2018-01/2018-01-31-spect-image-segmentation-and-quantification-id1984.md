@@ -1,3 +1,10 @@
+---
+topic_id: 1984
+title: "Spect Image Segmentation And Quantification"
+date: 2018-01-31
+url: https://discourse.slicer.org/t/1984
+---
+
 # SPECT image segmentation and quantification
 
 **Topic ID**: 1984

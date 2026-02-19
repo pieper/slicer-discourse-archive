@@ -1,3 +1,10 @@
+---
+topic_id: 209
+title: "Slicer 4 6 2 And Missing Dcmqi"
+date: 2017-04-27
+url: https://discourse.slicer.org/t/209
+---
+
 # Slicer 4.6.2 and missing DCMQI
 
 **Topic ID**: 209

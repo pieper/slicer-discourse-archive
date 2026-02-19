@@ -1,3 +1,10 @@
+---
+topic_id: 1092
+title: "Automated Registration In The Nightly Build"
+date: 2017-09-20
+url: https://discourse.slicer.org/t/1092
+---
+
 # Automated registration in the Nightly Build
 
 **Topic ID**: 1092

@@ -1,3 +1,10 @@
+---
+topic_id: 3364
+title: "Subject Hierarchy Listening To Events"
+date: 2018-07-03
+url: https://discourse.slicer.org/t/3364
+---
+
 # Subject hierarchy listening to events
 
 **Topic ID**: 3364

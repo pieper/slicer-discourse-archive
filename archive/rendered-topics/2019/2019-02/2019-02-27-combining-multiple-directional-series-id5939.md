@@ -1,3 +1,10 @@
+---
+topic_id: 5939
+title: "Combining Multiple Directional Series"
+date: 2019-02-27
+url: https://discourse.slicer.org/t/5939
+---
+
 # Combining Multiple Directional Series 
 
 **Topic ID**: 5939

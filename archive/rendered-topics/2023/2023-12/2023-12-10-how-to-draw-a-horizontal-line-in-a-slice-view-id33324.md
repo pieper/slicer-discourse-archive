@@ -1,3 +1,10 @@
+---
+topic_id: 33324
+title: "How To Draw A Horizontal Line In A Slice View"
+date: 2023-12-10
+url: https://discourse.slicer.org/t/33324
+---
+
 # How to draw a horizontal line in a slice view?
 
 **Topic ID**: 33324

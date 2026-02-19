@@ -1,3 +1,10 @@
+---
+topic_id: 32670
+title: "Python Debug Against Slicer Head"
+date: 2023-11-08
+url: https://discourse.slicer.org/t/32670
+---
+
 # Python debug against Slicer `HEAD`
 
 **Topic ID**: 32670

@@ -1,3 +1,10 @@
+---
+topic_id: 45222
+title: "How Can I Exclude Teeth When Creating Semi Landmarks On The"
+date: 2025-11-25
+url: https://discourse.slicer.org/t/45222
+---
+
 # How Can I Exclude Teeth When Creating Semi-Landmarks on the Mandible?
 
 **Topic ID**: 45222

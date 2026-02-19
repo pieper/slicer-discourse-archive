@@ -1,3 +1,10 @@
+---
+topic_id: 20219
+title: "Start 3D Slice On My Surface Pro"
+date: 2021-10-18
+url: https://discourse.slicer.org/t/20219
+---
+
 # Start 3d slice on my surface pro
 
 **Topic ID**: 20219

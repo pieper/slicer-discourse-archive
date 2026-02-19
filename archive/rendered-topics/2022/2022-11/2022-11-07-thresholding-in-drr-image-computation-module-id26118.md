@@ -1,3 +1,10 @@
+---
+topic_id: 26118
+title: "Thresholding In Drr Image Computation Module"
+date: 2022-11-07
+url: https://discourse.slicer.org/t/26118
+---
+
 # Thresholding in DRR Image Computation module
 
 **Topic ID**: 26118

@@ -1,3 +1,10 @@
+---
+topic_id: 36753
+title: "Can A Widget Developed With Pyqt Be Loaded And Displayed In"
+date: 2024-06-13
+url: https://discourse.slicer.org/t/36753
+---
+
 # Can a widget developed with PyQt be loaded and displayed in C++?
 
 **Topic ID**: 36753

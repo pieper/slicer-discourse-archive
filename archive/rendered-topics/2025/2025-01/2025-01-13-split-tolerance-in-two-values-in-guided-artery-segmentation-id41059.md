@@ -1,3 +1,10 @@
+---
+topic_id: 41059
+title: "Split Tolerance In Two Values In Guided Artery Segmentation"
+date: 2025-01-13
+url: https://discourse.slicer.org/t/41059
+---
+
 # Split tolerance in two values in Guided Artery Segmentation Module
 
 **Topic ID**: 41059

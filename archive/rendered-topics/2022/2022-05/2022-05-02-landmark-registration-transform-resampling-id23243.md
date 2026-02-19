@@ -1,3 +1,10 @@
+---
+topic_id: 23243
+title: "Landmark Registration Transform Resampling"
+date: 2022-05-02
+url: https://discourse.slicer.org/t/23243
+---
+
 # Landmark Registration transform resampling
 
 **Topic ID**: 23243

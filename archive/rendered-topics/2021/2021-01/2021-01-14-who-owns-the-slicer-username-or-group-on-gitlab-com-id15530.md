@@ -1,3 +1,10 @@
+---
+topic_id: 15530
+title: "Who Owns The Slicer Username Or Group On Gitlab Com"
+date: 2021-01-14
+url: https://discourse.slicer.org/t/15530
+---
+
 # Who owns the Slicer username or group on gitlab.com?
 
 **Topic ID**: 15530

@@ -1,3 +1,10 @@
+---
+topic_id: 29785
+title: "Toggling Visibility Of Several Curves Within A Specific Fold"
+date: 2023-06-01
+url: https://discourse.slicer.org/t/29785
+---
+
 # Toggling visibility of several curves within a specific folder
 
 **Topic ID**: 29785

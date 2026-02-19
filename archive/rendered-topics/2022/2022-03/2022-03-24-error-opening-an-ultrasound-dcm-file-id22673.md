@@ -1,3 +1,10 @@
+---
+topic_id: 22673
+title: "Error Opening An Ultrasound Dcm File"
+date: 2022-03-24
+url: https://discourse.slicer.org/t/22673
+---
+
 # Error opening an ultrasound .dcm file
 
 **Topic ID**: 22673

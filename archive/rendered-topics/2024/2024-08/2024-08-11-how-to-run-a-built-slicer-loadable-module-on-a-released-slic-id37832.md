@@ -1,3 +1,10 @@
+---
+topic_id: 37832
+title: "How To Run A Built Slicer Loadable Module On A Released Slic"
+date: 2024-08-11
+url: https://discourse.slicer.org/t/37832
+---
+
 # How to Run a Built Slicer Loadable Module on a Released Slicer Version
 
 **Topic ID**: 37832

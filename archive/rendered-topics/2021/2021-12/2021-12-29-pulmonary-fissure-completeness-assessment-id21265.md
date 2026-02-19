@@ -1,3 +1,10 @@
+---
+topic_id: 21265
+title: "Pulmonary Fissure Completeness Assessment"
+date: 2021-12-29
+url: https://discourse.slicer.org/t/21265
+---
+
 # Pulmonary fissure completeness assessment
 
 **Topic ID**: 21265

@@ -1,3 +1,10 @@
+---
+topic_id: 33823
+title: "Oblique Ct Volume Reformation"
+date: 2024-01-17
+url: https://discourse.slicer.org/t/33823
+---
+
 # Oblique CT volume reformation
 
 **Topic ID**: 33823

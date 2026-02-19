@@ -1,3 +1,10 @@
+---
+topic_id: 42074
+title: "Issue With Visualizing 3D Movie After Converting Raw Dicom T"
+date: 2025-03-11
+url: https://discourse.slicer.org/t/42074
+---
+
 # Issue with Visualizing 3D Movie After Converting Raw DICOM to Cartesian DICOM in 3D Slice
 
 **Topic ID**: 42074

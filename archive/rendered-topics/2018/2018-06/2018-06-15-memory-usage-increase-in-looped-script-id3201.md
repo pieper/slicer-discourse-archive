@@ -1,3 +1,10 @@
+---
+topic_id: 3201
+title: "Memory Usage Increase In Looped Script"
+date: 2018-06-15
+url: https://discourse.slicer.org/t/3201
+---
+
 # Memory Usage Increase in Looped Script
 
 **Topic ID**: 3201

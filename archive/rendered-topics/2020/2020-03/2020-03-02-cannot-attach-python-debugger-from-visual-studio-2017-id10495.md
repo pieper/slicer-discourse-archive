@@ -1,3 +1,10 @@
+---
+topic_id: 10495
+title: "Cannot Attach Python Debugger From Visual Studio 2017"
+date: 2020-03-02
+url: https://discourse.slicer.org/t/10495
+---
+
 # Cannot attach Python Debugger from Visual Studio 2017
 
 **Topic ID**: 10495

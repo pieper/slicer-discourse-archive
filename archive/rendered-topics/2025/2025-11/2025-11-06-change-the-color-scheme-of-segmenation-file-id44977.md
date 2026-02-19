@@ -1,3 +1,10 @@
+---
+topic_id: 44977
+title: "Change The Color Scheme Of Segmenation File"
+date: 2025-11-06
+url: https://discourse.slicer.org/t/44977
+---
+
 # Change the color scheme of segmenation file
 
 **Topic ID**: 44977

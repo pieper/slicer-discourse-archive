@@ -1,3 +1,10 @@
+---
+topic_id: 6026
+title: "Can Rectangle Tool Be Used To Create 2D Box Proposals In A C"
+date: 2019-03-05
+url: https://discourse.slicer.org/t/6026
+---
+
 # Can rectangle tool be used to create 2D box proposals in a CT datastet?
 
 **Topic ID**: 6026

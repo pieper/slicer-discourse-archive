@@ -1,3 +1,10 @@
+---
+topic_id: 36153
+title: "Windows Unable To Import Dicom Files That Are In A Onedrive"
+date: 2024-05-14
+url: https://discourse.slicer.org/t/36153
+---
+
 # Windows: Unable to import DICOM files that are in a OneDrive-backed up folder
 
 **Topic ID**: 36153

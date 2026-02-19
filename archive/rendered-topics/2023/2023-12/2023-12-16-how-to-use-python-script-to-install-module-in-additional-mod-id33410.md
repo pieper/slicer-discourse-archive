@@ -1,3 +1,10 @@
+---
+topic_id: 33410
+title: "How To Use Python Script To Install Module In Additional Mod"
+date: 2023-12-16
+url: https://discourse.slicer.org/t/33410
+---
+
 # How to use python script to install module in additional module paths?
 
 **Topic ID**: 33410

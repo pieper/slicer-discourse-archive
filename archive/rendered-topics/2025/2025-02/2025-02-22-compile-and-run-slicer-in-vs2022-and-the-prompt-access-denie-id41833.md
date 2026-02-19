@@ -1,3 +1,10 @@
+---
+topic_id: 41833
+title: "Compile And Run Slicer In Vs2022 And The Prompt Access Denie"
+date: 2025-02-22
+url: https://discourse.slicer.org/t/41833
+---
+
 # Compile and run slicer in vs2022, and the prompt “Access Denied” appears
 
 **Topic ID**: 41833

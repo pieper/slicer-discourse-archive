@@ -1,3 +1,10 @@
+---
+topic_id: 45865
+title: "Converting Radial Artery From Dicom Ct Files And Segmentatio"
+date: 2026-01-22
+url: https://discourse.slicer.org/t/45865
+---
+
 # Converting  Radial Artery from DICOM ( CT files) and Segmentation using slicer manually and using slicer AI 3d segmentation for simulation
 
 **Topic ID**: 45865

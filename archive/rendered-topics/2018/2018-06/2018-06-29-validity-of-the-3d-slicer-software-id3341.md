@@ -1,3 +1,10 @@
+---
+topic_id: 3341
+title: "Validity Of The 3D Slicer Software"
+date: 2018-06-29
+url: https://discourse.slicer.org/t/3341
+---
+
 # Validity of the 3D slicer software
 
 **Topic ID**: 3341

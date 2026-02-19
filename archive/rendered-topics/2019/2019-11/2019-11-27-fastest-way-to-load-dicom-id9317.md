@@ -1,3 +1,10 @@
+---
+topic_id: 9317
+title: "Fastest Way To Load Dicom"
+date: 2019-11-27
+url: https://discourse.slicer.org/t/9317
+---
+
 # Fastest way to load DICOM
 
 **Topic ID**: 9317

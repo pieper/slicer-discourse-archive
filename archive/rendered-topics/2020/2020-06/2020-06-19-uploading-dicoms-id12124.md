@@ -1,3 +1,10 @@
+---
+topic_id: 12124
+title: "Uploading Dicoms"
+date: 2020-06-19
+url: https://discourse.slicer.org/t/12124
+---
+
 # Uploading Dicoms
 
 **Topic ID**: 12124

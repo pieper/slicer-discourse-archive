@@ -1,3 +1,10 @@
+---
+topic_id: 23478
+title: "Extension Manager Not Displaying Correctly In Macos Light Mo"
+date: 2022-05-19
+url: https://discourse.slicer.org/t/23478
+---
+
 # Extension Manager not displaying correctly in MacOS Light Mode
 
 **Topic ID**: 23478

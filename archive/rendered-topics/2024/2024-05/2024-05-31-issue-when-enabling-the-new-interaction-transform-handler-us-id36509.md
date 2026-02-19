@@ -1,3 +1,10 @@
+---
+topic_id: 36509
+title: "Issue When Enabling The New Interaction Transform Handler Us"
+date: 2024-05-31
+url: https://discourse.slicer.org/t/36509
+---
+
 # Issue when enabling the new interaction transform handler using script
 
 **Topic ID**: 36509

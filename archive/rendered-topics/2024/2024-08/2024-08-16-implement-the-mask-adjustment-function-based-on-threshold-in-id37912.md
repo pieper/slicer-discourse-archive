@@ -1,3 +1,10 @@
+---
+topic_id: 37912
+title: "Implement The Mask Adjustment Function Based On Threshold In"
+date: 2024-08-16
+url: https://discourse.slicer.org/t/37912
+---
+
 # Implement the mask adjustment function based on threshold in mimics in slicer
 
 **Topic ID**: 37912

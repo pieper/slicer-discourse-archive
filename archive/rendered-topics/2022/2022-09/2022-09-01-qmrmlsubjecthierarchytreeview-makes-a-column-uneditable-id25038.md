@@ -1,3 +1,10 @@
+---
+topic_id: 25038
+title: "Qmrmlsubjecthierarchytreeview Makes A Column Uneditable"
+date: 2022-09-01
+url: https://discourse.slicer.org/t/25038
+---
+
 # qMRMLSubjectHierarchyTreeView Makes a column uneditable
 
 **Topic ID**: 25038

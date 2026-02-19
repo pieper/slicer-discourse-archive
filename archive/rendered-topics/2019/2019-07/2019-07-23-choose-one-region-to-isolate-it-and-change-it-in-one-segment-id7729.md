@@ -1,3 +1,10 @@
+---
+topic_id: 7729
+title: "Choose One Region To Isolate It And Change It In One Segment"
+date: 2019-07-23
+url: https://discourse.slicer.org/t/7729
+---
+
 # Choose one region to isolate it and change it in one segment
 
 **Topic ID**: 7729

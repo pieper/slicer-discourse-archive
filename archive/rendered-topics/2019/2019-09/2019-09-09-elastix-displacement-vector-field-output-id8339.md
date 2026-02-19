@@ -1,3 +1,10 @@
+---
+topic_id: 8339
+title: "Elastix Displacement Vector Field Output"
+date: 2019-09-09
+url: https://discourse.slicer.org/t/8339
+---
+
 # Elastix displacement vector field output
 
 **Topic ID**: 8339

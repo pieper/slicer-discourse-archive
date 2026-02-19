@@ -1,3 +1,10 @@
+---
+topic_id: 13923
+title: "Save Segmentation"
+date: 2020-10-07
+url: https://discourse.slicer.org/t/13923
+---
+
 # save segmentation  
 
 **Topic ID**: 13923

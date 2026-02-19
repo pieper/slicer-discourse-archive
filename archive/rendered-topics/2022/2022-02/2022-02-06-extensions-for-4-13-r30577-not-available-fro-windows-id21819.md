@@ -1,3 +1,10 @@
+---
+topic_id: 21819
+title: "Extensions For 4 13 R30577 Not Available Fro Windows"
+date: 2022-02-06
+url: https://discourse.slicer.org/t/21819
+---
+
 # Extensions for 4.13 R30577 not available fro windows?
 
 **Topic ID**: 21819

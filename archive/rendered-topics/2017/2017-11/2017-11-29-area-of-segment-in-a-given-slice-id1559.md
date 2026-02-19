@@ -1,3 +1,10 @@
+---
+topic_id: 1559
+title: "Area Of Segment In A Given Slice"
+date: 2017-11-29
+url: https://discourse.slicer.org/t/1559
+---
+
 # Area of segment in a given slice?
 
 **Topic ID**: 1559

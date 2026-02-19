@@ -1,3 +1,10 @@
+---
+topic_id: 35012
+title: "New Frame Set Table In The Dicom Database"
+date: 2024-03-22
+url: https://discourse.slicer.org/t/35012
+---
+
 # New frame set table in the DICOM database?
 
 **Topic ID**: 35012

@@ -1,3 +1,10 @@
+---
+topic_id: 39739
+title: "Temporal Calibration Data From Fcal Into 3D Slicer"
+date: 2024-10-17
+url: https://discourse.slicer.org/t/39739
+---
+
 # Temporal calibration data from fCal into 3D slicer
 
 **Topic ID**: 39739

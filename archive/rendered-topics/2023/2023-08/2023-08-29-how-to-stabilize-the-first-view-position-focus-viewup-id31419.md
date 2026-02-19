@@ -1,3 +1,10 @@
+---
+topic_id: 31419
+title: "How To Stabilize The First View Position Focus Viewup"
+date: 2023-08-29
+url: https://discourse.slicer.org/t/31419
+---
+
 # How to stabilize the first view（position/focus/ViewUp）
 
 **Topic ID**: 31419

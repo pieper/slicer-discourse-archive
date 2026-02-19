@@ -1,3 +1,10 @@
+---
+topic_id: 33436
+title: "Graphics Capabilities Of This Computer Renderer Does Not Sup"
+date: 2023-12-18
+url: https://discourse.slicer.org/t/33436
+---
+
 # Graphics capabilities of this computer:  Renderer does not support required OpenGL capabilities.
 
 **Topic ID**: 33436

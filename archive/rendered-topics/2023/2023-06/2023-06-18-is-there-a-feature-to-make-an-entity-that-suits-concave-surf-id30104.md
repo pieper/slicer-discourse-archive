@@ -1,3 +1,10 @@
+---
+topic_id: 30104
+title: "Is There A Feature To Make An Entity That Suits Concave Surf"
+date: 2023-06-18
+url: https://discourse.slicer.org/t/30104
+---
+
 # Is there a feature to make an entity that suits concave surfaces?
 
 **Topic ID**: 30104

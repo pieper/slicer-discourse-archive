@@ -1,3 +1,10 @@
+---
+topic_id: 12000
+title: "Query Retrieve Several Patient"
+date: 2020-06-12
+url: https://discourse.slicer.org/t/12000
+---
+
 # query retrieve several patient
 
 **Topic ID**: 12000

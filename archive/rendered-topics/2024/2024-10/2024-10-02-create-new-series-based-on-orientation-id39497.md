@@ -1,3 +1,10 @@
+---
+topic_id: 39497
+title: "Create New Series Based On Orientation"
+date: 2024-10-02
+url: https://discourse.slicer.org/t/39497
+---
+
 # Create new series based on orientation
 
 **Topic ID**: 39497

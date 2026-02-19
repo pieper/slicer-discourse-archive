@@ -1,3 +1,10 @@
+---
+topic_id: 3806
+title: "Obtain Pixel Location Instead Of Ras Using Markups"
+date: 2018-08-16
+url: https://discourse.slicer.org/t/3806
+---
+
 # Obtain pixel location instead of RAS using Markups
 
 **Topic ID**: 3806

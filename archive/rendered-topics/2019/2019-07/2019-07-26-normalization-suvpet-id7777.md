@@ -1,3 +1,10 @@
+---
+topic_id: 7777
+title: "Normalization Suvpet"
+date: 2019-07-26
+url: https://discourse.slicer.org/t/7777
+---
+
 # Normalization SUVPET
 
 **Topic ID**: 7777

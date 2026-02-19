@@ -1,3 +1,10 @@
+---
+topic_id: 22038
+title: "Need Help About The Module Of Single Slice Segmentation Here"
+date: 2022-02-18
+url: https://discourse.slicer.org/t/22038
+---
+
 # Need help about the module of "Single Slice Segmentation" here
 
 **Topic ID**: 22038

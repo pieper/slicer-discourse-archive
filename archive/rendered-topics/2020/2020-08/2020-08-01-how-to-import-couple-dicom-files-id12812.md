@@ -1,3 +1,10 @@
+---
+topic_id: 12812
+title: "How To Import Couple Dicom Files"
+date: 2020-08-01
+url: https://discourse.slicer.org/t/12812
+---
+
 # How to import couple dicom files
 
 **Topic ID**: 12812

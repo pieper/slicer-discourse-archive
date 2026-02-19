@@ -1,3 +1,10 @@
+---
+topic_id: 19643
+title: "Selecting A Denoising Filter For A Ct"
+date: 2021-09-13
+url: https://discourse.slicer.org/t/19643
+---
+
 # Selecting a denoising filter for a CT
 
 **Topic ID**: 19643

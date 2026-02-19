@@ -1,3 +1,10 @@
+---
+topic_id: 13770
+title: "Extension Build Error Windows Mscv Version Not Recognized"
+date: 2020-09-30
+url: https://discourse.slicer.org/t/13770
+---
+
 # Extension build error windows (MSCV version not recognized)
 
 **Topic ID**: 13770

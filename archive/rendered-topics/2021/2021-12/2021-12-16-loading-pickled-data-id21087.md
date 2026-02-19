@@ -1,3 +1,10 @@
+---
+topic_id: 21087
+title: "Loading Pickled Data"
+date: 2021-12-16
+url: https://discourse.slicer.org/t/21087
+---
+
 # Loading pickled data
 
 **Topic ID**: 21087

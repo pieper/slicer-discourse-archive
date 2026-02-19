@@ -1,3 +1,10 @@
+---
+topic_id: 2677
+title: "Rodent Skull Stripping"
+date: 2018-04-24
+url: https://discourse.slicer.org/t/2677
+---
+
 # Rodent skull stripping
 
 **Topic ID**: 2677

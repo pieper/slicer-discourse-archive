@@ -1,3 +1,10 @@
+---
+topic_id: 25179
+title: "Vascular Supply Of A Solid Organ"
+date: 2022-09-09
+url: https://discourse.slicer.org/t/25179
+---
+
 # Vascular supply of a solid organ
 
 **Topic ID**: 25179

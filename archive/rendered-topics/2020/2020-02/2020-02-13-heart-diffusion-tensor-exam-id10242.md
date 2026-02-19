@@ -1,3 +1,10 @@
+---
+topic_id: 10242
+title: "Heart Diffusion Tensor Exam"
+date: 2020-02-13
+url: https://discourse.slicer.org/t/10242
+---
+
 # Heart diffusion tensor exam
 
 **Topic ID**: 10242

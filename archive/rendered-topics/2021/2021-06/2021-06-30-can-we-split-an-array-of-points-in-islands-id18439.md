@@ -1,3 +1,10 @@
+---
+topic_id: 18439
+title: "Can We Split An Array Of Points In Islands"
+date: 2021-06-30
+url: https://discourse.slicer.org/t/18439
+---
+
 # Can we split an array of points in islands?
 
 **Topic ID**: 18439

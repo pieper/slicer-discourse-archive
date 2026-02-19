@@ -1,3 +1,10 @@
+---
+topic_id: 29143
+title: "Segmenting The Skull Base"
+date: 2023-04-26
+url: https://discourse.slicer.org/t/29143
+---
+
 # Segmenting the skull base
 
 **Topic ID**: 29143

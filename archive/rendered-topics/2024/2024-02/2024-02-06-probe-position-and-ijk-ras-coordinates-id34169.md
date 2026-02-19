@@ -1,3 +1,10 @@
+---
+topic_id: 34169
+title: "Probe Position And Ijk Ras Coordinates"
+date: 2024-02-06
+url: https://discourse.slicer.org/t/34169
+---
+
 # Probe position and IJK_RAS coordinates
 
 **Topic ID**: 34169

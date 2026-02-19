@@ -1,3 +1,10 @@
+---
+topic_id: 5781
+title: "3D Slicer Cloud Computing Again"
+date: 2019-02-14
+url: https://discourse.slicer.org/t/5781
+---
+
 # 3D Slicer + Cloud computing (again)
 
 **Topic ID**: 5781

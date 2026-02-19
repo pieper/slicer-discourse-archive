@@ -1,3 +1,10 @@
+---
+topic_id: 5149
+title: "Segmentation Paint Effect Paints On Current And Next Slice"
+date: 2018-12-19
+url: https://discourse.slicer.org/t/5149
+---
+
 # Segmentation Paint effect paints on current and next slice
 
 **Topic ID**: 5149

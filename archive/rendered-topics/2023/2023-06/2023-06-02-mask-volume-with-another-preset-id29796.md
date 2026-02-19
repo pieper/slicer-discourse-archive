@@ -1,3 +1,10 @@
+---
+topic_id: 29796
+title: "Mask Volume With Another Preset"
+date: 2023-06-02
+url: https://discourse.slicer.org/t/29796
+---
+
 # Mask volume with another preset
 
 **Topic ID**: 29796

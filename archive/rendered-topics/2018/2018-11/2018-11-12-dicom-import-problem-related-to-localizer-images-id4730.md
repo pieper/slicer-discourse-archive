@@ -1,3 +1,10 @@
+---
+topic_id: 4730
+title: "Dicom Import Problem Related To Localizer Images"
+date: 2018-11-12
+url: https://discourse.slicer.org/t/4730
+---
+
 # DICOM import problem, related to localizer images
 
 **Topic ID**: 4730

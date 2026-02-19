@@ -1,3 +1,10 @@
+---
+topic_id: 35055
+title: "How To See The Commands Of What I Manually Do"
+date: 2024-03-25
+url: https://discourse.slicer.org/t/35055
+---
+
 # How to see the commands of what I manually do
 
 **Topic ID**: 35055

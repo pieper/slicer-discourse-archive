@@ -1,3 +1,10 @@
+---
+topic_id: 2719
+title: "What Is The Default Co Ordinate System In Nrrd Files Saved F"
+date: 2018-04-27
+url: https://discourse.slicer.org/t/2719
+---
+
 # What is the default co-ordinate system in nrrd files saved from Slicer?   
 
 **Topic ID**: 2719

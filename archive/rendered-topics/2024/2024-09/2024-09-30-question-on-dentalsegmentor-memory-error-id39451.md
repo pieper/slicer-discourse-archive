@@ -1,3 +1,10 @@
+---
+topic_id: 39451
+title: "Question On Dentalsegmentor Memory Error"
+date: 2024-09-30
+url: https://discourse.slicer.org/t/39451
+---
+
 # Question on DentalSegmentor memory error
 
 **Topic ID**: 39451

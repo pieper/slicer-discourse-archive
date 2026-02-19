@@ -1,3 +1,10 @@
+---
+topic_id: 4815
+title: "Load Vol File Into 3D Slicer From Morita Machine"
+date: 2018-11-20
+url: https://discourse.slicer.org/t/4815
+---
+
 # Load vol file into 3D Slicer from Morita machine
 
 **Topic ID**: 4815

@@ -1,3 +1,10 @@
+---
+topic_id: 1584
+title: "Resampling Or Modify Mesh Properties Of A Model To Get Light"
+date: 2017-12-04
+url: https://discourse.slicer.org/t/1584
+---
+
 # Resampling or modify mesh properties of a model to get light .stl files
 
 **Topic ID**: 1584

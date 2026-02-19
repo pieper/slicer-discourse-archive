@@ -1,3 +1,10 @@
+---
+topic_id: 40246
+title: "A Corner Case Issue With Invoking Cli Modules"
+date: 2024-11-18
+url: https://discourse.slicer.org/t/40246
+---
+
 # A corner-case issue with invoking CLI modules
 
 **Topic ID**: 40246

@@ -1,3 +1,10 @@
+---
+topic_id: 6274
+title: "Problem In Loading The Mri Files"
+date: 2019-03-25
+url: https://discourse.slicer.org/t/6274
+---
+
 # Problem in loading the MRI files
 
 **Topic ID**: 6274

@@ -1,3 +1,10 @@
+---
+topic_id: 5871
+title: "How Can A New Python Library Be Added Such As Ast Or Astor I"
+date: 2019-02-21
+url: https://discourse.slicer.org/t/5871
+---
+
 # How can a new python library be added such as ast or astor in the python interpreter?
 
 **Topic ID**: 5871

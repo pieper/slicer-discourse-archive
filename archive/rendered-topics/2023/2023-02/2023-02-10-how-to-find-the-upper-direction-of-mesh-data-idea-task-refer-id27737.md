@@ -1,3 +1,10 @@
+---
+topic_id: 27737
+title: "How To Find The Upper Direction Of Mesh Data Idea Task Refer"
+date: 2023-02-10
+url: https://discourse.slicer.org/t/27737
+---
+
 # How to find the upper-direction of mesh data ( idea , task, reference anything )
 
 **Topic ID**: 27737

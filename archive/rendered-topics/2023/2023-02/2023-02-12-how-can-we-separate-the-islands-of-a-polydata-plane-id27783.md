@@ -1,3 +1,10 @@
+---
+topic_id: 27783
+title: "How Can We Separate The Islands Of A Polydata Plane"
+date: 2023-02-12
+url: https://discourse.slicer.org/t/27783
+---
+
 # How can we separate the islands of a polydata plane?
 
 **Topic ID**: 27783

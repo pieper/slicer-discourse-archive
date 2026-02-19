@@ -1,3 +1,10 @@
+---
+topic_id: 37571
+title: "Hololens Get Stuck On Receiving When Connecting To Slicervir"
+date: 2024-07-26
+url: https://discourse.slicer.org/t/37571
+---
+
 # HoloLens get stuck on "Receiving..." when connecting to SlicerVirtualReality
 
 **Topic ID**: 37571

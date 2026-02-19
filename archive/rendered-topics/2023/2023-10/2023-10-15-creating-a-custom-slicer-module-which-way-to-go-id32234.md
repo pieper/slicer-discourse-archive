@@ -1,3 +1,10 @@
+---
+topic_id: 32234
+title: "Creating A Custom Slicer Module Which Way To Go"
+date: 2023-10-15
+url: https://discourse.slicer.org/t/32234
+---
+
 # Creating a Custom Slicer Module - which way to go?
 
 **Topic ID**: 32234

@@ -1,3 +1,10 @@
+---
+topic_id: 11416
+title: "A Way To Automatically Export Stl Files From Many Mrb Files"
+date: 2020-05-05
+url: https://discourse.slicer.org/t/11416
+---
+
 # A way to automatically export stl files from many mrb files?
 
 **Topic ID**: 11416

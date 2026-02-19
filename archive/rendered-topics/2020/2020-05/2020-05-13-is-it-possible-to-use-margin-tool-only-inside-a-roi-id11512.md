@@ -1,3 +1,10 @@
+---
+topic_id: 11512
+title: "Is It Possible To Use Margin Tool Only Inside A Roi"
+date: 2020-05-13
+url: https://discourse.slicer.org/t/11512
+---
+
 # Is it possible to use margin tool only inside a ROI?
 
 **Topic ID**: 11512

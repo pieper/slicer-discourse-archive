@@ -1,3 +1,10 @@
+---
+topic_id: 1922
+title: "Importing Data From Patcher"
+date: 2018-01-24
+url: https://discourse.slicer.org/t/1922
+---
+
 # Importing data from patcher
 
 **Topic ID**: 1922

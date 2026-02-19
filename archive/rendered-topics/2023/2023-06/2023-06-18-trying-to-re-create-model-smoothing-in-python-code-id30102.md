@@ -1,3 +1,10 @@
+---
+topic_id: 30102
+title: "Trying To Re Create Model Smoothing In Python Code"
+date: 2023-06-18
+url: https://discourse.slicer.org/t/30102
+---
+
 # Trying to re-create model smoothing in python code.
 
 **Topic ID**: 30102

@@ -1,3 +1,10 @@
+---
+topic_id: 42293
+title: "Vessel Segmentation On Version 5 8 1 For Mac"
+date: 2025-03-25
+url: https://discourse.slicer.org/t/42293
+---
+
 # Vessel segmentation on version 5.8.1 for mac
 
 **Topic ID**: 42293

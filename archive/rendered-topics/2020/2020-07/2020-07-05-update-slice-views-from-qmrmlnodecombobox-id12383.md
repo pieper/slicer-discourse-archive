@@ -1,3 +1,10 @@
+---
+topic_id: 12383
+title: "Update Slice Views From Qmrmlnodecombobox"
+date: 2020-07-05
+url: https://discourse.slicer.org/t/12383
+---
+
 # Update slice views from qMRMLNodeComboBox
 
 **Topic ID**: 12383

@@ -1,3 +1,10 @@
+---
+topic_id: 27030
+title: "Typeerror Nonetype Object Is Not Callable"
+date: 2023-01-04
+url: https://discourse.slicer.org/t/27030
+---
+
 # TypeError: 'NoneType' object is not callable
 
 **Topic ID**: 27030

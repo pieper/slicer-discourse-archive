@@ -1,3 +1,10 @@
+---
+topic_id: 21794
+title: "Is It Possible To Export Image Segment As Npz Image"
+date: 2022-02-04
+url: https://discourse.slicer.org/t/21794
+---
+
 # Is it possible to export image + segment as .npz image?
 
 **Topic ID**: 21794

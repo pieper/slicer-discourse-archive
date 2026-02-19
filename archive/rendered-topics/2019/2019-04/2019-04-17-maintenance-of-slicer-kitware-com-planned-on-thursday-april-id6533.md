@@ -1,3 +1,10 @@
+---
+topic_id: 6533
+title: "Maintenance Of Slicer Kitware Com Planned On Thursday April"
+date: 2019-04-17
+url: https://discourse.slicer.org/t/6533
+---
+
 # Maintenance of slicer.kitware.com planned on Thursday April 18th from 2 to 3pm EDT
 
 **Topic ID**: 6533

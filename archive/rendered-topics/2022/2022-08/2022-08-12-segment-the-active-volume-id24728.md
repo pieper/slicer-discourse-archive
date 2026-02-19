@@ -1,3 +1,10 @@
+---
+topic_id: 24728
+title: "Segment The Active Volume"
+date: 2022-08-12
+url: https://discourse.slicer.org/t/24728
+---
+
 # Segment the Active Volume
 
 **Topic ID**: 24728

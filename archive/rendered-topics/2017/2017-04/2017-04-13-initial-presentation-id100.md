@@ -1,3 +1,10 @@
+---
+topic_id: 100
+title: "Initial Presentation"
+date: 2017-04-13
+url: https://discourse.slicer.org/t/100
+---
+
 # Initial presentation
 
 **Topic ID**: 100

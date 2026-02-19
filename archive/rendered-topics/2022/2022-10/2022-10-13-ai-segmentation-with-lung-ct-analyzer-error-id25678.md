@@ -1,3 +1,10 @@
+---
+topic_id: 25678
+title: "Ai Segmentation With Lung Ct Analyzer Error"
+date: 2022-10-13
+url: https://discourse.slicer.org/t/25678
+---
+
 # AI segmentation with lung CT analyzer error
 
 **Topic ID**: 25678

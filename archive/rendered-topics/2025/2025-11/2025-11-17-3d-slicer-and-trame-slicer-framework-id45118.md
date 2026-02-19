@@ -1,3 +1,10 @@
+---
+topic_id: 45118
+title: "3D Slicer And Trame Slicer Framework"
+date: 2025-11-17
+url: https://discourse.slicer.org/t/45118
+---
+
 # 3D Slicer and trame-slicer framework
 
 **Topic ID**: 45118

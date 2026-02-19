@@ -1,3 +1,10 @@
+---
+topic_id: 41789
+title: "Maximum Minimum Length Of A Liver Tumor Along The Center"
+date: 2025-02-20
+url: https://discourse.slicer.org/t/41789
+---
+
 # Maximum & minimum length of a liver tumor along the center
 
 **Topic ID**: 41789

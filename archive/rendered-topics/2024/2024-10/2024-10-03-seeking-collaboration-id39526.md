@@ -1,3 +1,10 @@
+---
+topic_id: 39526
+title: "Seeking Collaboration"
+date: 2024-10-03
+url: https://discourse.slicer.org/t/39526
+---
+
 # Seeking Collaboration
 
 **Topic ID**: 39526

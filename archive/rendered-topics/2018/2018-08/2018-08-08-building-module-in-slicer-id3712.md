@@ -1,3 +1,10 @@
+---
+topic_id: 3712
+title: "Building Module In Slicer"
+date: 2018-08-08
+url: https://discourse.slicer.org/t/3712
+---
+
 # Building Module in Slicer
 
 **Topic ID**: 3712

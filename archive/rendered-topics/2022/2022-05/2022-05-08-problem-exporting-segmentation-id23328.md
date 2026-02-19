@@ -1,3 +1,10 @@
+---
+topic_id: 23328
+title: "Problem Exporting Segmentation"
+date: 2022-05-08
+url: https://discourse.slicer.org/t/23328
+---
+
 # Problem exporting segmentation
 
 **Topic ID**: 23328

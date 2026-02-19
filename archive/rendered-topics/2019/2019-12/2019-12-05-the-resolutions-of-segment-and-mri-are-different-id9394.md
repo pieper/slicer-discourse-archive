@@ -1,3 +1,10 @@
+---
+topic_id: 9394
+title: "The Resolutions Of Segment And Mri Are Different"
+date: 2019-12-05
+url: https://discourse.slicer.org/t/9394
+---
+
 # The resolutions of segment and mri are different
 
 **Topic ID**: 9394

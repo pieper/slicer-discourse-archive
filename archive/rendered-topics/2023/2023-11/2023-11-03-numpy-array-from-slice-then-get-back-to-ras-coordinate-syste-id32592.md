@@ -1,3 +1,10 @@
+---
+topic_id: 32592
+title: "Numpy Array From Slice Then Get Back To Ras Coordinate Syste"
+date: 2023-11-03
+url: https://discourse.slicer.org/t/32592
+---
+
 # Numpy array from slice, then get back to RAS coordinate system
 
 **Topic ID**: 32592

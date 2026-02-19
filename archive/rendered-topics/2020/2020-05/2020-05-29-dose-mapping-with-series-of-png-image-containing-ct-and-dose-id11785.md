@@ -1,3 +1,10 @@
+---
+topic_id: 11785
+title: "Dose Mapping With Series Of Png Image Containing Ct And Dose"
+date: 2020-05-29
+url: https://discourse.slicer.org/t/11785
+---
+
 # dose mapping with series of png image containing ct and dose integreted
 
 **Topic ID**: 11785

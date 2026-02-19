@@ -1,3 +1,10 @@
+---
+topic_id: 682
+title: "How To Make Lung Lesion Analysis By Parenchyma Subtype Train"
+date: 2017-07-12
+url: https://discourse.slicer.org/t/682
+---
+
 # How to make lung lesion analysis by parenchyma subtype training in Chest Imaging Platform module
 
 **Topic ID**: 682

@@ -1,3 +1,10 @@
+---
+topic_id: 10124
+title: "Generating Panoramic Radiograph From Ct Data"
+date: 2020-02-05
+url: https://discourse.slicer.org/t/10124
+---
+
 # Generating Panoramic Radiograph from Ct data
 
 **Topic ID**: 10124

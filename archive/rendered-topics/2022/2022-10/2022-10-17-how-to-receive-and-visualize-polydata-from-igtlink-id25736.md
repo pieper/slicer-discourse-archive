@@ -1,3 +1,10 @@
+---
+topic_id: 25736
+title: "How To Receive And Visualize Polydata From Igtlink"
+date: 2022-10-17
+url: https://discourse.slicer.org/t/25736
+---
+
 # How to Receive and Visualize PolyData from IGTLink
 
 **Topic ID**: 25736

@@ -1,3 +1,10 @@
+---
+topic_id: 23994
+title: "How To Install Extensions From Past Versions Of 3D Slicer"
+date: 2022-06-21
+url: https://discourse.slicer.org/t/23994
+---
+
 # How to install extensions from past versions of 3D slicer
 
 **Topic ID**: 23994

@@ -1,3 +1,10 @@
+---
+topic_id: 13842
+title: "What Does Crop Volume Do To Gaps Between Slices"
+date: 2020-10-03
+url: https://discourse.slicer.org/t/13842
+---
+
 # What does Crop volume do to gaps between slices?
 
 **Topic ID**: 13842

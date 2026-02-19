@@ -1,3 +1,10 @@
+---
+topic_id: 25447
+title: "How To Show The Number Of Selected Pixels In One Single Slic"
+date: 2022-09-27
+url: https://discourse.slicer.org/t/25447
+---
+
 # How to show the number of selected pixels in one single slice after apply the segmeation operation?
 
 **Topic ID**: 25447

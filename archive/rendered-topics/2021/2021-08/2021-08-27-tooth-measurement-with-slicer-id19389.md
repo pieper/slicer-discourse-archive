@@ -1,3 +1,10 @@
+---
+topic_id: 19389
+title: "Tooth Measurement With Slicer"
+date: 2021-08-27
+url: https://discourse.slicer.org/t/19389
+---
+
 # Tooth measurement with SLICER
 
 **Topic ID**: 19389

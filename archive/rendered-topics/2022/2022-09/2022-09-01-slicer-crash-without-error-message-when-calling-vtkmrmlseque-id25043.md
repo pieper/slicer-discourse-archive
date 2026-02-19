@@ -1,3 +1,10 @@
+---
+topic_id: 25043
+title: "Slicer Crash Without Error Message When Calling Vtkmrmlseque"
+date: 2022-09-01
+url: https://discourse.slicer.org/t/25043
+---
+
 # Slicer crash without Error message when calling vtkMRMLSequenceNode.GetNthDataNode(-1)
 
 **Topic ID**: 25043

@@ -1,3 +1,10 @@
+---
+topic_id: 31389
+title: "Resection Volume"
+date: 2023-08-27
+url: https://discourse.slicer.org/t/31389
+---
+
 # Resection Volume
 
 **Topic ID**: 31389

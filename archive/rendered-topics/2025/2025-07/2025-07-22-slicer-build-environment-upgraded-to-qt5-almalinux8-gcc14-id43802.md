@@ -1,3 +1,10 @@
+---
+topic_id: 43802
+title: "Slicer Build Environment Upgraded To Qt5 Almalinux8 Gcc14"
+date: 2025-07-22
+url: https://discourse.slicer.org/t/43802
+---
+
 # Slicer Build Environment Upgraded to `qt5-almalinux8-gcc14`
 
 **Topic ID**: 43802

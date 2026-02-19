@@ -1,3 +1,10 @@
+---
+topic_id: 43963
+title: "Clipping A Model Via Scripting"
+date: 2025-08-04
+url: https://discourse.slicer.org/t/43963
+---
+
 # Clipping a model via scripting
 
 **Topic ID**: 43963

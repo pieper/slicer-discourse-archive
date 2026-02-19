@@ -1,3 +1,10 @@
+---
+topic_id: 25462
+title: "Model Registration From Fiducial Point"
+date: 2022-09-28
+url: https://discourse.slicer.org/t/25462
+---
+
 # Model registration from fiducial point
 
 **Topic ID**: 25462

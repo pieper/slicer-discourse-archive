@@ -1,3 +1,10 @@
+---
+topic_id: 36602
+title: "Offline 3D Reconstruction From Mhd File Using Slicerigsio Ex"
+date: 2024-06-05
+url: https://discourse.slicer.org/t/36602
+---
+
 # Offline 3D reconstruction from .mhd file using SlicerIGSIO extension
 
 **Topic ID**: 36602

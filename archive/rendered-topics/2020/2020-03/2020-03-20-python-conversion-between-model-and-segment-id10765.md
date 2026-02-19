@@ -1,3 +1,10 @@
+---
+topic_id: 10765
+title: "Python Conversion Between Model And Segment"
+date: 2020-03-20
+url: https://discourse.slicer.org/t/10765
+---
+
 # Python conversion between model and segment
 
 **Topic ID**: 10765

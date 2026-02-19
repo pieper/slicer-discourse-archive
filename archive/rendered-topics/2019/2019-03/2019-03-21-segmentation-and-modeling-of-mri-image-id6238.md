@@ -1,3 +1,10 @@
+---
+topic_id: 6238
+title: "Segmentation And Modeling Of Mri Image"
+date: 2019-03-21
+url: https://discourse.slicer.org/t/6238
+---
+
 # Segmentation and modeling of MRI image
 
 **Topic ID**: 6238

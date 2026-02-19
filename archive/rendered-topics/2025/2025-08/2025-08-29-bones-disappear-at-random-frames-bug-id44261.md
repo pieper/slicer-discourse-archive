@@ -1,3 +1,10 @@
+---
+topic_id: 44261
+title: "Bones Disappear At Random Frames Bug"
+date: 2025-08-29
+url: https://discourse.slicer.org/t/44261
+---
+
 # Bones disappear at random frames (bug?)
 
 **Topic ID**: 44261

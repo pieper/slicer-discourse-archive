@@ -1,3 +1,10 @@
+---
+topic_id: 21833
+title: "Grow From Seed Dosent Work Well"
+date: 2022-02-07
+url: https://discourse.slicer.org/t/21833
+---
+
 # Grow from seed dosen't work well
 
 **Topic ID**: 21833

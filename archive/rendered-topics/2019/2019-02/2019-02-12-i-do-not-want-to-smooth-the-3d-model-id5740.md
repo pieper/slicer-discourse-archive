@@ -1,3 +1,10 @@
+---
+topic_id: 5740
+title: "I Do Not Want To Smooth The 3D Model"
+date: 2019-02-12
+url: https://discourse.slicer.org/t/5740
+---
+
 # I do not want to smooth the 3D model
 
 **Topic ID**: 5740

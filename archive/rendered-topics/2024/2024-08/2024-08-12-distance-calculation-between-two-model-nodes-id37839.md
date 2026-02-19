@@ -1,3 +1,10 @@
+---
+topic_id: 37839
+title: "Distance Calculation Between Two Model Nodes"
+date: 2024-08-12
+url: https://discourse.slicer.org/t/37839
+---
+
 # Distance Calculation Between Two Model Nodes
 
 **Topic ID**: 37839

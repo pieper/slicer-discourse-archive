@@ -1,3 +1,10 @@
+---
+topic_id: 25764
+title: "Getting Viewport Coordinates From World"
+date: 2022-10-18
+url: https://discourse.slicer.org/t/25764
+---
+
 # Getting viewport coordinates from world
 
 **Topic ID**: 25764

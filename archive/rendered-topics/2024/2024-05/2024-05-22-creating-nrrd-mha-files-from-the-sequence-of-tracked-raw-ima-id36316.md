@@ -1,3 +1,10 @@
+---
+topic_id: 36316
+title: "Creating Nrrd Mha Files From The Sequence Of Tracked Raw Ima"
+date: 2024-05-22
+url: https://discourse.slicer.org/t/36316
+---
+
 # Creating .nrrd/.mha files from the sequence of tracked raw images for 3D reconstruction
 
 **Topic ID**: 36316

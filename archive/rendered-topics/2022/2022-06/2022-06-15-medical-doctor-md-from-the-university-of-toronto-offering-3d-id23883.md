@@ -1,3 +1,10 @@
+---
+topic_id: 23883
+title: "Medical Doctor Md From The University Of Toronto Offering 3D"
+date: 2022-06-15
+url: https://discourse.slicer.org/t/23883
+---
+
 # Medical Doctor (MD) from the University of Toronto offering 3D slicer modelling 
 
 **Topic ID**: 23883

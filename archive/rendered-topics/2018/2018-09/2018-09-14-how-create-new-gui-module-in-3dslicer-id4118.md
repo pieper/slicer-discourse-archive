@@ -1,3 +1,10 @@
+---
+topic_id: 4118
+title: "How Create New Gui Module In 3Dslicer"
+date: 2018-09-14
+url: https://discourse.slicer.org/t/4118
+---
+
 # How create new GUI module in 3DSlicer?
 
 **Topic ID**: 4118

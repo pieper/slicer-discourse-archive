@@ -1,3 +1,10 @@
+---
+topic_id: 33325
+title: "2 Questions As A Newbie"
+date: 2023-12-10
+url: https://discourse.slicer.org/t/33325
+---
+
 # 2 questions as a newbie
 
 **Topic ID**: 33325

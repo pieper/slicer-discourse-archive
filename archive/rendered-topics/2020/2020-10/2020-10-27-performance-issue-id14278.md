@@ -1,3 +1,10 @@
+---
+topic_id: 14278
+title: "Performance Issue"
+date: 2020-10-27
+url: https://discourse.slicer.org/t/14278
+---
+
 # Performance Issue
 
 **Topic ID**: 14278

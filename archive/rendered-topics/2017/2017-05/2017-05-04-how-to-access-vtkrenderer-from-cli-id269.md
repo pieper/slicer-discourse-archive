@@ -1,3 +1,10 @@
+---
+topic_id: 269
+title: "How To Access Vtkrenderer From Cli"
+date: 2017-05-04
+url: https://discourse.slicer.org/t/269
+---
+
 # How to access vtkRenderer from CLI
 
 **Topic ID**: 269

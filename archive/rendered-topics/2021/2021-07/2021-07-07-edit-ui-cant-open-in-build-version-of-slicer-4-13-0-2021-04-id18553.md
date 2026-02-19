@@ -1,3 +1,10 @@
+---
+topic_id: 18553
+title: "Edit Ui Cant Open In Build Version Of Slicer 4 13 0 2021 04"
+date: 2021-07-07
+url: https://discourse.slicer.org/t/18553
+---
+
 # Edit UI cant open in build version of slicer 4.13.0-2021-04-28
 
 **Topic ID**: 18553

@@ -1,3 +1,10 @@
+---
+topic_id: 22961
+title: "How To Interpret The Getmtime Output And Write An Igs Mha Fi"
+date: 2022-04-14
+url: https://discourse.slicer.org/t/22961
+---
+
 # How to interpret the GetMTime() output and write an igs.mha file?
 
 **Topic ID**: 22961

@@ -1,3 +1,10 @@
+---
+topic_id: 23172
+title: "Many 0 And 1 Appear In The Extracted Features"
+date: 2022-04-28
+url: https://discourse.slicer.org/t/23172
+---
+
 # Many 0 and 1 appear in the extracted features
 
 **Topic ID**: 23172

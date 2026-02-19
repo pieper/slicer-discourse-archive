@@ -1,3 +1,10 @@
+---
+topic_id: 3252
+title: "Segment Statistics Volume Calculation"
+date: 2018-06-21
+url: https://discourse.slicer.org/t/3252
+---
+
 # Segment Statistics Volume Calculation
 
 **Topic ID**: 3252

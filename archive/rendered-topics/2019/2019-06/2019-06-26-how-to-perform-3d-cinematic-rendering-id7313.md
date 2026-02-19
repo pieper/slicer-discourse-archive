@@ -1,3 +1,10 @@
+---
+topic_id: 7313
+title: "How To Perform 3D Cinematic Rendering"
+date: 2019-06-26
+url: https://discourse.slicer.org/t/7313
+---
+
 # How to perform 3D-cinematic rendering?
 
 **Topic ID**: 7313

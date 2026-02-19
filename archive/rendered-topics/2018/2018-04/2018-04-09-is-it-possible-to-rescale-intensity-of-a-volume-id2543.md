@@ -1,3 +1,10 @@
+---
+topic_id: 2543
+title: "Is It Possible To Rescale Intensity Of A Volume"
+date: 2018-04-09
+url: https://discourse.slicer.org/t/2543
+---
+
 # Is it possible to rescale intensity of a volume?
 
 **Topic ID**: 2543

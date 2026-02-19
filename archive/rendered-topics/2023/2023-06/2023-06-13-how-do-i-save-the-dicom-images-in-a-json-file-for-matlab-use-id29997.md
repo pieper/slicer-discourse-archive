@@ -1,3 +1,10 @@
+---
+topic_id: 29997
+title: "How Do I Save The Dicom Images In A Json File For Matlab Use"
+date: 2023-06-13
+url: https://discourse.slicer.org/t/29997
+---
+
 # How do I save the dicom images in a .Json file for Matlab use
 
 **Topic ID**: 29997

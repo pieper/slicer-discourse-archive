@@ -1,3 +1,10 @@
+---
+topic_id: 23150
+title: "Bug Reporting Nvidia Aiaa Model Address Issue"
+date: 2022-04-27
+url: https://discourse.slicer.org/t/23150
+---
+
 # [Bug reporting] Nvidia AIAA model address issue 
 
 **Topic ID**: 23150

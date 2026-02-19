@@ -1,3 +1,10 @@
+---
+topic_id: 24066
+title: "Is There A Automatic Heart Segmentation Tool That Can Be Use"
+date: 2022-06-27
+url: https://discourse.slicer.org/t/24066
+---
+
 # Is there a automatic heart segmentation tool that can be used, similar to the ribcage
 
 **Topic ID**: 24066

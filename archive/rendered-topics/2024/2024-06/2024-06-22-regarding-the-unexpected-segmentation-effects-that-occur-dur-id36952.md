@@ -1,3 +1,10 @@
+---
+topic_id: 36952
+title: "Regarding The Unexpected Segmentation Effects That Occur Dur"
+date: 2024-06-22
+url: https://discourse.slicer.org/t/36952
+---
+
 # Regarding the unexpected segmentation effects that occur during segmentation of lung tissue using MONAI Auto3DSeg
 
 **Topic ID**: 36952

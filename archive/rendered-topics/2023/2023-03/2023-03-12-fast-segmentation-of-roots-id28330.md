@@ -1,3 +1,10 @@
+---
+topic_id: 28330
+title: "Fast Segmentation Of Roots"
+date: 2023-03-12
+url: https://discourse.slicer.org/t/28330
+---
+
 # Fast segmentation of roots.
 
 **Topic ID**: 28330

@@ -1,3 +1,10 @@
+---
+topic_id: 40727
+title: "How To Modify The Default Threshold Values In Segment Editor"
+date: 2024-12-17
+url: https://discourse.slicer.org/t/40727
+---
+
 # How to Modify the Default Threshold Values in Segment Editor for Custom Segmentation?
 
 **Topic ID**: 40727

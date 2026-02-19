@@ -1,3 +1,10 @@
+---
+topic_id: 40277
+title: "Segment Editor Module Wont Present My Segment In 3D"
+date: 2024-11-19
+url: https://discourse.slicer.org/t/40277
+---
+
 # Segment Editor module won't present my segment in 3D
 
 **Topic ID**: 40277

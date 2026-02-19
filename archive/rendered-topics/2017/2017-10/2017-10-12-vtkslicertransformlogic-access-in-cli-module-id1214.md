@@ -1,3 +1,10 @@
+---
+topic_id: 1214
+title: "Vtkslicertransformlogic Access In Cli Module"
+date: 2017-10-12
+url: https://discourse.slicer.org/t/1214
+---
+
 # vtkSlicerTransformLogic access in CLI module
 
 **Topic ID**: 1214

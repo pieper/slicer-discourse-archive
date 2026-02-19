@@ -1,3 +1,10 @@
+---
+topic_id: 23579
+title: "How To Implement This Interface"
+date: 2022-05-25
+url: https://discourse.slicer.org/t/23579
+---
+
 # How to implement this interface
 
 **Topic ID**: 23579

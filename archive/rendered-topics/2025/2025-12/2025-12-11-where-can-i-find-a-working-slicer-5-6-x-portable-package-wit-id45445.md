@@ -1,3 +1,10 @@
+---
+topic_id: 45445
+title: "Where Can I Find A Working Slicer 5 6 X Portable Package Wit"
+date: 2025-12-11
+url: https://discourse.slicer.org/t/45445
+---
+
 # Where can I find a working Slicer 5.6.x portable package with SlicerLiver extension?
 
 **Topic ID**: 45445

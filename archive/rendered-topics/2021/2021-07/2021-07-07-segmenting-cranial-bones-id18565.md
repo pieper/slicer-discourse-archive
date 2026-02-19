@@ -1,3 +1,10 @@
+---
+topic_id: 18565
+title: "Segmenting Cranial Bones"
+date: 2021-07-07
+url: https://discourse.slicer.org/t/18565
+---
+
 # Segmenting Cranial Bones
 
 **Topic ID**: 18565

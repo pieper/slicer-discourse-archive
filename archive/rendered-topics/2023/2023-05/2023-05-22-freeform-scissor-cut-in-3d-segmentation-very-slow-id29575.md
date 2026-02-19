@@ -1,3 +1,10 @@
+---
+topic_id: 29575
+title: "Freeform Scissor Cut In 3D Segmentation Very Slow"
+date: 2023-05-22
+url: https://discourse.slicer.org/t/29575
+---
+
 # Freeform scissor cut in 3D segmentation very slow
 
 **Topic ID**: 29575

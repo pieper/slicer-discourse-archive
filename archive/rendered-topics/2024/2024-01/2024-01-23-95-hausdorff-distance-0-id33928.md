@@ -1,3 +1,10 @@
+---
+topic_id: 33928
+title: "95 Hausdorff Distance 0"
+date: 2024-01-23
+url: https://discourse.slicer.org/t/33928
+---
+
 # 95% Hausdorff distance 0
 
 **Topic ID**: 33928

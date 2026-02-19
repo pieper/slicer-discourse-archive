@@ -1,3 +1,10 @@
+---
+topic_id: 23811
+title: "Segment Visibility Hotkey"
+date: 2022-06-10
+url: https://discourse.slicer.org/t/23811
+---
+
 # Segment visibility Hotkey
 
 **Topic ID**: 23811

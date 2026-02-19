@@ -1,3 +1,10 @@
+---
+topic_id: 30310
+title: "Measurements In Markups Module"
+date: 2023-06-29
+url: https://discourse.slicer.org/t/30310
+---
+
 # Measurements in Markups Module
 
 **Topic ID**: 30310

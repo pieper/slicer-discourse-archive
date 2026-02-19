@@ -1,3 +1,10 @@
+---
+topic_id: 46077
+title: "Clinical Dicom Loading Error Pixeldata Larger Than Remaining"
+date: 2026-02-06
+url: https://discourse.slicer.org/t/46077
+---
+
 # Clinical DICOM loading error, PixelData larger than remaining bytes in file, but images look OK
 
 **Topic ID**: 46077

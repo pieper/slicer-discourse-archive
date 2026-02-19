@@ -1,3 +1,10 @@
+---
+topic_id: 9108
+title: "Subject Hierarchy"
+date: 2019-11-12
+url: https://discourse.slicer.org/t/9108
+---
+
 # Subject hierarchy
 
 **Topic ID**: 9108

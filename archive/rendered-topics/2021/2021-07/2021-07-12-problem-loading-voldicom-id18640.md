@@ -1,3 +1,10 @@
+---
+topic_id: 18640
+title: "Problem Loading Voldicom"
+date: 2021-07-12
+url: https://discourse.slicer.org/t/18640
+---
+
 # Problem loading VolDICOM
 
 **Topic ID**: 18640

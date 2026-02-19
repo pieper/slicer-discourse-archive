@@ -1,3 +1,10 @@
+---
+topic_id: 19989
+title: "Compute Intersection Of Lines"
+date: 2021-10-04
+url: https://discourse.slicer.org/t/19989
+---
+
 # Compute intersection of lines
 
 **Topic ID**: 19989

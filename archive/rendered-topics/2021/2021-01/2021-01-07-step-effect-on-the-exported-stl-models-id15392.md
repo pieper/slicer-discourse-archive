@@ -1,3 +1,10 @@
+---
+topic_id: 15392
+title: "Step Effect On The Exported Stl Models"
+date: 2021-01-07
+url: https://discourse.slicer.org/t/15392
+---
+
 # Step effect on the exported STL models
 
 **Topic ID**: 15392

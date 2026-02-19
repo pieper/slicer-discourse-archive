@@ -1,3 +1,10 @@
+---
+topic_id: 10995
+title: "Simple Undo Button"
+date: 2020-04-05
+url: https://discourse.slicer.org/t/10995
+---
+
 # Simple Undo button
 
 **Topic ID**: 10995

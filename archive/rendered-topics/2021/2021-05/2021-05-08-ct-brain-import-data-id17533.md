@@ -1,3 +1,10 @@
+---
+topic_id: 17533
+title: "Ct Brain Import Data"
+date: 2021-05-08
+url: https://discourse.slicer.org/t/17533
+---
+
 # CT brain import data
 
 **Topic ID**: 17533

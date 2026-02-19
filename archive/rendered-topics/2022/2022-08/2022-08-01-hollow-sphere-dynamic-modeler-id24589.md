@@ -1,3 +1,10 @@
+---
+topic_id: 24589
+title: "Hollow Sphere Dynamic Modeler"
+date: 2022-08-01
+url: https://discourse.slicer.org/t/24589
+---
+
 # Hollow sphere: Dynamic modeler
 
 **Topic ID**: 24589

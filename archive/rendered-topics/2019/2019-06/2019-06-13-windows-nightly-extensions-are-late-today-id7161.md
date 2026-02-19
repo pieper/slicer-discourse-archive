@@ -1,3 +1,10 @@
+---
+topic_id: 7161
+title: "Windows Nightly Extensions Are Late Today"
+date: 2019-06-13
+url: https://discourse.slicer.org/t/7161
+---
+
 # Windows nightly extensions are late today
 
 **Topic ID**: 7161

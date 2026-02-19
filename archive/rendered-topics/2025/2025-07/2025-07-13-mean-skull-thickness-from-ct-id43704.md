@@ -1,3 +1,10 @@
+---
+topic_id: 43704
+title: "Mean Skull Thickness From Ct"
+date: 2025-07-13
+url: https://discourse.slicer.org/t/43704
+---
+
 # Mean Skull Thickness from CT
 
 **Topic ID**: 43704

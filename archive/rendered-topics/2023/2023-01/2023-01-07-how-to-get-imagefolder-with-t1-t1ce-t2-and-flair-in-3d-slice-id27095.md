@@ -1,3 +1,10 @@
+---
+topic_id: 27095
+title: "How To Get Imagefolder With T1 T1Ce T2 And Flair In 3D Slice"
+date: 2023-01-07
+url: https://discourse.slicer.org/t/27095
+---
+
 # how to get imagefolder with t1, t1ce, t2 and flair in 3d slicer extended cli python module
 
 **Topic ID**: 27095

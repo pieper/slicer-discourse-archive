@@ -1,3 +1,10 @@
+---
+topic_id: 45842
+title: "Last Chance To Register To Slicer Project Week 44"
+date: 2026-01-20
+url: https://discourse.slicer.org/t/45842
+---
+
 # Last chance to register to Slicer Project Week #44
 
 **Topic ID**: 45842

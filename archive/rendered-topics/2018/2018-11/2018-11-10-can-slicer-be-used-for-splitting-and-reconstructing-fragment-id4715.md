@@ -1,3 +1,10 @@
+---
+topic_id: 4715
+title: "Can Slicer Be Used For Splitting And Reconstructing Fragment"
+date: 2018-11-10
+url: https://discourse.slicer.org/t/4715
+---
+
 # Can Slicer be used for splitting and reconstructing fragmented bone?
 
 **Topic ID**: 4715

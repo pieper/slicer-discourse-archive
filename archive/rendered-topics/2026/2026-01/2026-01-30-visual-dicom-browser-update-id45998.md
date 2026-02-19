@@ -1,3 +1,10 @@
+---
+topic_id: 45998
+title: "Visual Dicom Browser Update"
+date: 2026-01-30
+url: https://discourse.slicer.org/t/45998
+---
+
 # Visual DICOM browser update
 
 **Topic ID**: 45998

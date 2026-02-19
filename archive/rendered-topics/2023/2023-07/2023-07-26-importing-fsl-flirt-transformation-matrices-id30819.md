@@ -1,3 +1,10 @@
+---
+topic_id: 30819
+title: "Importing Fsl Flirt Transformation Matrices"
+date: 2023-07-26
+url: https://discourse.slicer.org/t/30819
+---
+
 # Importing FSL FLIRT transformation matrices?
 
 **Topic ID**: 30819

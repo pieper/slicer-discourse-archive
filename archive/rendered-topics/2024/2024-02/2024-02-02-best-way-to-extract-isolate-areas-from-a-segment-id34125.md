@@ -1,3 +1,10 @@
+---
+topic_id: 34125
+title: "Best Way To Extract Isolate Areas From A Segment"
+date: 2024-02-02
+url: https://discourse.slicer.org/t/34125
+---
+
 # Best way to extract/isolate areas from a segment ? 
 
 **Topic ID**: 34125

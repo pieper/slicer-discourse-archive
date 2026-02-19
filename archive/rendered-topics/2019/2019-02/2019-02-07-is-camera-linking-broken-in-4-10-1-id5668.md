@@ -1,3 +1,10 @@
+---
+topic_id: 5668
+title: "Is Camera Linking Broken In 4 10 1"
+date: 2019-02-07
+url: https://discourse.slicer.org/t/5668
+---
+
 # Is camera linking broken in 4.10.1?
 
 **Topic ID**: 5668

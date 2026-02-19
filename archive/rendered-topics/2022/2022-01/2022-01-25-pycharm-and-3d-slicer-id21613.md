@@ -1,3 +1,10 @@
+---
+topic_id: 21613
+title: "Pycharm And 3D Slicer"
+date: 2022-01-25
+url: https://discourse.slicer.org/t/21613
+---
+
 # Pycharm and 3d slicer
 
 **Topic ID**: 21613

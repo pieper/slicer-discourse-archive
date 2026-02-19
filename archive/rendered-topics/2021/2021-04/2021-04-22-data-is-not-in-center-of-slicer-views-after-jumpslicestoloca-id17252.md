@@ -1,3 +1,10 @@
+---
+topic_id: 17252
+title: "Data Is Not In Center Of Slicer Views After Jumpslicestoloca"
+date: 2021-04-22
+url: https://discourse.slicer.org/t/17252
+---
+
 # Data is not in center of slicer views after JumpSlicesToLocation process
 
 **Topic ID**: 17252

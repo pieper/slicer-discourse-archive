@@ -1,3 +1,10 @@
+---
+topic_id: 36651
+title: "Project Week 41 Prep Meeting Next Tuesday June 11Th"
+date: 2024-06-07
+url: https://discourse.slicer.org/t/36651
+---
+
 # Project Week 41 prep meeting next Tuesday (June 11th)
 
 **Topic ID**: 36651

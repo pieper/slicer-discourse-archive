@@ -1,3 +1,10 @@
+---
+topic_id: 729
+title: "Looking For Defective Glitched 3D Prints For Art Project"
+date: 2017-07-20
+url: https://discourse.slicer.org/t/729
+---
+
 # Looking For Defective\glitched 3d Prints For Art Project
 
 **Topic ID**: 729

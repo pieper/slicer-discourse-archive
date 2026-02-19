@@ -1,3 +1,10 @@
+---
+topic_id: 11818
+title: "Brightness And Contrast On 3D Model On Slicer Screen"
+date: 2020-06-01
+url: https://discourse.slicer.org/t/11818
+---
+
 # Brightness and contrast on 3d model on slicer screen
 
 **Topic ID**: 11818

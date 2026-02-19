@@ -1,3 +1,10 @@
+---
+topic_id: 15103
+title: "Peritumoral Volume Segmentation"
+date: 2020-12-17
+url: https://discourse.slicer.org/t/15103
+---
+
 # Peritumoral volume segmentation
 
 **Topic ID**: 15103

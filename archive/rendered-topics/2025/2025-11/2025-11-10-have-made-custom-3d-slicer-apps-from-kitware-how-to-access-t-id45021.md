@@ -1,3 +1,10 @@
+---
+topic_id: 45021
+title: "Have Made Custom 3D Slicer Apps From Kitware How To Access T"
+date: 2025-11-10
+url: https://discourse.slicer.org/t/45021
+---
+
 # Have Made Custom 3D Slicer Apps from Kitware – How to Access Them via Web Browser?
 
 **Topic ID**: 45021

@@ -1,3 +1,10 @@
+---
+topic_id: 19834
+title: "Nci Imaging Data Commons Miccai 2021"
+date: 2021-09-24
+url: https://discourse.slicer.org/t/19834
+---
+
 # NCI Imaging Data Commons @ MICCAI 2021
 
 **Topic ID**: 19834

@@ -1,3 +1,10 @@
+---
+topic_id: 19577
+title: "How Can I Insert A Custom Spherical Object Into A Dicom File"
+date: 2021-09-08
+url: https://discourse.slicer.org/t/19577
+---
+
 # How can I insert a custom spherical object into a DICOM file?
 
 **Topic ID**: 19577

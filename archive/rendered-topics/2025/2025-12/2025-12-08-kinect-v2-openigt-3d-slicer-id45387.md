@@ -1,3 +1,10 @@
+---
+topic_id: 45387
+title: "Kinect V2 Openigt 3D Slicer"
+date: 2025-12-08
+url: https://discourse.slicer.org/t/45387
+---
+
 # Kinect v2 >OpenIGT> 3D Slicer
 
 **Topic ID**: 45387

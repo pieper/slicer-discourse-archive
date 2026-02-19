@@ -1,3 +1,10 @@
+---
+topic_id: 27067
+title: "How Can I Get Camera Position Information"
+date: 2023-01-06
+url: https://discourse.slicer.org/t/27067
+---
+
 # How can I get camera position information?
 
 **Topic ID**: 27067

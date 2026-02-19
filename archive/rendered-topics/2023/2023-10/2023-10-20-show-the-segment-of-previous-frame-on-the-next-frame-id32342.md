@@ -1,3 +1,10 @@
+---
+topic_id: 32342
+title: "Show The Segment Of Previous Frame On The Next Frame"
+date: 2023-10-20
+url: https://discourse.slicer.org/t/32342
+---
+
 # Show the segment of previous frame on the next frame
 
 **Topic ID**: 32342

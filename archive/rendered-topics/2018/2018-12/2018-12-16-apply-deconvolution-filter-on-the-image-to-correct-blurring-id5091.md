@@ -1,3 +1,10 @@
+---
+topic_id: 5091
+title: "Apply Deconvolution Filter On The Image To Correct Blurring"
+date: 2018-12-16
+url: https://discourse.slicer.org/t/5091
+---
+
 # Apply deconvolution filter on the image to correct blurring
 
 **Topic ID**: 5091

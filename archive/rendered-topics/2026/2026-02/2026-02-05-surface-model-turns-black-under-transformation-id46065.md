@@ -1,3 +1,10 @@
+---
+topic_id: 46065
+title: "Surface Model Turns Black Under Transformation"
+date: 2026-02-05
+url: https://discourse.slicer.org/t/46065
+---
+
 # Surface model turns black under transformation
 
 **Topic ID**: 46065

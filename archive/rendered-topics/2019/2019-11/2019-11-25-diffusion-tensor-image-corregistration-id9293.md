@@ -1,3 +1,10 @@
+---
+topic_id: 9293
+title: "Diffusion Tensor Image Corregistration"
+date: 2019-11-25
+url: https://discourse.slicer.org/t/9293
+---
+
 # Diffusion tensor image corregistration
 
 **Topic ID**: 9293

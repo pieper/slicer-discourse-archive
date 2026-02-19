@@ -1,3 +1,10 @@
+---
+topic_id: 27736
+title: "How To Write Data Into Regedit In Slicer"
+date: 2023-02-10
+url: https://discourse.slicer.org/t/27736
+---
+
 # How to write data into regedit in slicer?
 
 **Topic ID**: 27736

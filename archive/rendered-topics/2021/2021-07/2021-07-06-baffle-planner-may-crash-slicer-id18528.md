@@ -1,3 +1,10 @@
+---
+topic_id: 18528
+title: "Baffle Planner May Crash Slicer"
+date: 2021-07-06
+url: https://discourse.slicer.org/t/18528
+---
+
 # Baffle planner may crash Slicer
 
 **Topic ID**: 18528

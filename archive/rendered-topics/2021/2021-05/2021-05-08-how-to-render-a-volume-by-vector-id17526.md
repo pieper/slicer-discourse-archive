@@ -1,3 +1,10 @@
+---
+topic_id: 17526
+title: "How To Render A Volume By Vector"
+date: 2021-05-08
+url: https://discourse.slicer.org/t/17526
+---
+
 # How to render a volume by vector?
 
 **Topic ID**: 17526

@@ -1,3 +1,10 @@
+---
+topic_id: 24333
+title: "Maintenance Of Download Slicer Org Slicer Kitware Com And Sl"
+date: 2022-07-15
+url: https://discourse.slicer.org/t/24333
+---
+
 # Maintenance of download.slicer.org, slicer.kitware.com and slicer-packages.kitware.com planned for July 15th 2022 - 12:00pm to 1:30pm ET
 
 **Topic ID**: 24333

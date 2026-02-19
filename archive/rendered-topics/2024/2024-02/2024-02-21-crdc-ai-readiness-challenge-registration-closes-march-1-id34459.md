@@ -1,3 +1,10 @@
+---
+topic_id: 34459
+title: "Crdc Ai Readiness Challenge Registration Closes March 1"
+date: 2024-02-21
+url: https://discourse.slicer.org/t/34459
+---
+
 # CRDC AI Readiness Challenge - registration closes March 1
 
 **Topic ID**: 34459

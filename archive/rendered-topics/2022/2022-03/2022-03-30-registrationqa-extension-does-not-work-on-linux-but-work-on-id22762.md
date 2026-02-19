@@ -1,3 +1,10 @@
+---
+topic_id: 22762
+title: "Registrationqa Extension Does Not Work On Linux But Work On"
+date: 2022-03-30
+url: https://discourse.slicer.org/t/22762
+---
+
 # RegistrationQA extension does not work on Linux but work on Windows
 
 **Topic ID**: 22762

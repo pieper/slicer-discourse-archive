@@ -1,3 +1,10 @@
+---
+topic_id: 3538
+title: "Reference Planes"
+date: 2018-07-20
+url: https://discourse.slicer.org/t/3538
+---
+
 # Reference planes
 
 **Topic ID**: 3538

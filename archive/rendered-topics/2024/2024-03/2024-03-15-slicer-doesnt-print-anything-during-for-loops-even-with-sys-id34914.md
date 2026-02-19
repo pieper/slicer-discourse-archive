@@ -1,3 +1,10 @@
+---
+topic_id: 34914
+title: "Slicer Doesnt Print Anything During For Loops Even With Sys"
+date: 2024-03-15
+url: https://discourse.slicer.org/t/34914
+---
+
 # Slicer doesn't print anything during for loops even with sys.stdout.flush()
 
 **Topic ID**: 34914

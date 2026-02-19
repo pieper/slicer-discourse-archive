@@ -1,3 +1,10 @@
+---
+topic_id: 33248
+title: "Crop Dicom Around A Point Automate The Process"
+date: 2023-12-06
+url: https://discourse.slicer.org/t/33248
+---
+
 # Crop dicom around a point, automate the process
 
 **Topic ID**: 33248

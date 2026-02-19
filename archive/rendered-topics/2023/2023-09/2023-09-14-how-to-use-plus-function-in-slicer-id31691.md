@@ -1,3 +1,10 @@
+---
+topic_id: 31691
+title: "How To Use Plus Function In Slicer"
+date: 2023-09-14
+url: https://discourse.slicer.org/t/31691
+---
+
 # How to use PLUS function in Slicer
 
 **Topic ID**: 31691

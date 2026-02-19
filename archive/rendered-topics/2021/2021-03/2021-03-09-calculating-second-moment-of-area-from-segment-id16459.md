@@ -1,3 +1,10 @@
+---
+topic_id: 16459
+title: "Calculating Second Moment Of Area From Segment"
+date: 2021-03-09
+url: https://discourse.slicer.org/t/16459
+---
+
 # Calculating Second Moment of Area from Segment
 
 **Topic ID**: 16459

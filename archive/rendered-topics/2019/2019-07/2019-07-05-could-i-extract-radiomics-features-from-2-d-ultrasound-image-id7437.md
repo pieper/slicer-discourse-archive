@@ -1,3 +1,10 @@
+---
+topic_id: 7437
+title: "Could I Extract Radiomics Features From 2 D Ultrasound Image"
+date: 2019-07-05
+url: https://discourse.slicer.org/t/7437
+---
+
 # Could I extract radiomics features from 2-D Ultrasound Image using 3DSlicer?
 
 **Topic ID**: 7437

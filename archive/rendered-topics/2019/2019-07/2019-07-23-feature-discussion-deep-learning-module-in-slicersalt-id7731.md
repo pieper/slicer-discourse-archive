@@ -1,3 +1,10 @@
+---
+topic_id: 7731
+title: "Feature Discussion Deep Learning Module In Slicersalt"
+date: 2019-07-23
+url: https://discourse.slicer.org/t/7731
+---
+
 # Feature discussion: Deep learning module in SlicerSALT
 
 **Topic ID**: 7731

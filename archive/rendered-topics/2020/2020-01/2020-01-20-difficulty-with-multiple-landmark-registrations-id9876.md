@@ -1,3 +1,10 @@
+---
+topic_id: 9876
+title: "Difficulty With Multiple Landmark Registrations"
+date: 2020-01-20
+url: https://discourse.slicer.org/t/9876
+---
+
 # Difficulty With Multiple Landmark Registrations
 
 **Topic ID**: 9876

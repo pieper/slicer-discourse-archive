@@ -1,3 +1,10 @@
+---
+topic_id: 37206
+title: "Cross Section Analysis Freezing"
+date: 2024-07-05
+url: https://discourse.slicer.org/t/37206
+---
+
 # Cross Section Analysis Freezing
 
 **Topic ID**: 37206

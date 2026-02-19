@@ -1,3 +1,10 @@
+---
+topic_id: 34460
+title: "Segmentation Issue Invisible Labels"
+date: 2024-02-21
+url: https://discourse.slicer.org/t/34460
+---
+
 # Segmentation issue - "invisible" labels
 
 **Topic ID**: 34460

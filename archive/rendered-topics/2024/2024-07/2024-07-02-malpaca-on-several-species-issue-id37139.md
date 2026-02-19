@@ -1,3 +1,10 @@
+---
+topic_id: 37139
+title: "Malpaca On Several Species Issue"
+date: 2024-07-02
+url: https://discourse.slicer.org/t/37139
+---
+
 # MALPACA on several species - issue?
 
 **Topic ID**: 37139

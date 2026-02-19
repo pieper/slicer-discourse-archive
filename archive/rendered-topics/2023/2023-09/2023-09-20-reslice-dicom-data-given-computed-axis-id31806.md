@@ -1,3 +1,10 @@
+---
+topic_id: 31806
+title: "Reslice Dicom Data Given Computed Axis"
+date: 2023-09-20
+url: https://discourse.slicer.org/t/31806
+---
+
 # Reslice dicom data given computed axis
 
 **Topic ID**: 31806

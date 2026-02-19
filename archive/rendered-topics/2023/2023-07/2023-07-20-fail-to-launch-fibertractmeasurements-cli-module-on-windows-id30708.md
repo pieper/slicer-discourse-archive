@@ -1,3 +1,10 @@
+---
+topic_id: 30708
+title: "Fail To Launch Fibertractmeasurements Cli Module On Windows"
+date: 2023-07-20
+url: https://discourse.slicer.org/t/30708
+---
+
 # Fail to launch FiberTractMeasurements CLI module on Windows
 
 **Topic ID**: 30708

@@ -1,3 +1,10 @@
+---
+topic_id: 9688
+title: "Show Ruler Name And Length In Slice View"
+date: 2020-01-02
+url: https://discourse.slicer.org/t/9688
+---
+
 # Show ruler name and length in slice view
 
 **Topic ID**: 9688

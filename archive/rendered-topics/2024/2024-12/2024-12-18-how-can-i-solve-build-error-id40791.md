@@ -1,3 +1,10 @@
+---
+topic_id: 40791
+title: "How Can I Solve Build Error"
+date: 2024-12-18
+url: https://discourse.slicer.org/t/40791
+---
+
 # How can i solve build error?
 
 **Topic ID**: 40791

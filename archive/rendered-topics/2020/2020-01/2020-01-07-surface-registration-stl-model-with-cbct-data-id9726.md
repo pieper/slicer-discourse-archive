@@ -1,3 +1,10 @@
+---
+topic_id: 9726
+title: "Surface Registration Stl Model With Cbct Data"
+date: 2020-01-07
+url: https://discourse.slicer.org/t/9726
+---
+
 # Surface Registration (STL model with cbct data)
 
 **Topic ID**: 9726

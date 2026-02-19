@@ -1,3 +1,10 @@
+---
+topic_id: 28435
+title: "Markups Saved With Scalar Visibility On Produce Warning When"
+date: 2023-03-17
+url: https://discourse.slicer.org/t/28435
+---
+
 # Markups saved with Scalar Visibility ON produce warning when loading
 
 **Topic ID**: 28435

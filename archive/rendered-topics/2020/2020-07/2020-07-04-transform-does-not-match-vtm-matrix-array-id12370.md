@@ -1,3 +1,10 @@
+---
+topic_id: 12370
+title: "Transform Does Not Match Vtm Matrix Array"
+date: 2020-07-04
+url: https://discourse.slicer.org/t/12370
+---
+
 # Transform does not match VTM matrix array
 
 **Topic ID**: 12370

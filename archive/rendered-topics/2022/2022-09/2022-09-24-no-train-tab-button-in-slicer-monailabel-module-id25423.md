@@ -1,3 +1,10 @@
+---
+topic_id: 25423
+title: "No Train Tab Button In Slicer Monailabel Module"
+date: 2022-09-24
+url: https://discourse.slicer.org/t/25423
+---
+
 # No Train Tab/button in Slicer monailabel module
 
 **Topic ID**: 25423

@@ -1,3 +1,10 @@
+---
+topic_id: 18220
+title: "Seeg Trajectories And Viewing"
+date: 2021-06-18
+url: https://discourse.slicer.org/t/18220
+---
+
 # sEEG trajectories and viewing
 
 **Topic ID**: 18220

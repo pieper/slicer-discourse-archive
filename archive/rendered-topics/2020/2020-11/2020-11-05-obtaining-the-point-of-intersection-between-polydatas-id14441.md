@@ -1,3 +1,10 @@
+---
+topic_id: 14441
+title: "Obtaining The Point Of Intersection Between Polydatas"
+date: 2020-11-05
+url: https://discourse.slicer.org/t/14441
+---
+
 # Obtaining the point of intersection between Polydatas
 
 **Topic ID**: 14441

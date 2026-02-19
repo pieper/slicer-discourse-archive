@@ -1,3 +1,10 @@
+---
+topic_id: 1992
+title: "Endoscopy Extensions"
+date: 2018-01-31
+url: https://discourse.slicer.org/t/1992
+---
+
 # endoscopy extensions
 
 **Topic ID**: 1992

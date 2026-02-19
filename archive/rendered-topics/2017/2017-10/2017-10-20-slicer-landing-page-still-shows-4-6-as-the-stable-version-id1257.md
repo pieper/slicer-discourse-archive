@@ -1,3 +1,10 @@
+---
+topic_id: 1257
+title: "Slicer Landing Page Still Shows 4 6 As The Stable Version"
+date: 2017-10-20
+url: https://discourse.slicer.org/t/1257
+---
+
 # Slicer landing page still shows 4.6 as the stable version
 
 **Topic ID**: 1257

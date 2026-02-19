@@ -1,3 +1,10 @@
+---
+topic_id: 18276
+title: "System Specifications"
+date: 2021-06-22
+url: https://discourse.slicer.org/t/18276
+---
+
 # System specifications
 
 **Topic ID**: 18276

@@ -1,3 +1,10 @@
+---
+topic_id: 20875
+title: "Extract Hounsfield Units Of Segmentation And Save"
+date: 2021-12-02
+url: https://discourse.slicer.org/t/20875
+---
+
 # Extract HounsField Units of Segmentation and Save
 
 **Topic ID**: 20875

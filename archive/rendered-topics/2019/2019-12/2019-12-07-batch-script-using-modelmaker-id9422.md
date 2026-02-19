@@ -1,3 +1,10 @@
+---
+topic_id: 9422
+title: "Batch Script Using Modelmaker"
+date: 2019-12-07
+url: https://discourse.slicer.org/t/9422
+---
+
 # Batch script using ModelMaker
 
 **Topic ID**: 9422

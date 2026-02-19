@@ -1,3 +1,10 @@
+---
+topic_id: 41703
+title: "Question About Using Simpleitk For Image Resampling"
+date: 2025-02-14
+url: https://discourse.slicer.org/t/41703
+---
+
 # Question About Using SimpleITK for Image Resampling
 
 **Topic ID**: 41703

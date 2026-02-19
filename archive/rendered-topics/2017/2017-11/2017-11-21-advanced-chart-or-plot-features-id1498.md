@@ -1,3 +1,10 @@
+---
+topic_id: 1498
+title: "Advanced Chart Or Plot Features"
+date: 2017-11-21
+url: https://discourse.slicer.org/t/1498
+---
+
 # Advanced chart or plot features
 
 **Topic ID**: 1498

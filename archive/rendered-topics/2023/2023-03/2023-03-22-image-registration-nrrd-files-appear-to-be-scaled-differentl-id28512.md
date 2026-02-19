@@ -1,3 +1,10 @@
+---
+topic_id: 28512
+title: "Image Registration Nrrd Files Appear To Be Scaled Differentl"
+date: 2023-03-22
+url: https://discourse.slicer.org/t/28512
+---
+
 # Image registration nrrd files appear to be scaled differently despite adjusting scaling
 
 **Topic ID**: 28512

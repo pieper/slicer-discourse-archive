@@ -1,3 +1,10 @@
+---
+topic_id: 1036
+title: "Averaging Label Maps"
+date: 2017-09-11
+url: https://discourse.slicer.org/t/1036
+---
+
 # Averaging label maps
 
 **Topic ID**: 1036

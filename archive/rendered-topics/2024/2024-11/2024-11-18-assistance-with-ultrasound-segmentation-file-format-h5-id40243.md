@@ -1,3 +1,10 @@
+---
+topic_id: 40243
+title: "Assistance With Ultrasound Segmentation File Format H5"
+date: 2024-11-18
+url: https://discourse.slicer.org/t/40243
+---
+
 # Assistance with Ultrasound Segmentation File Format (.h5)
 
 **Topic ID**: 40243

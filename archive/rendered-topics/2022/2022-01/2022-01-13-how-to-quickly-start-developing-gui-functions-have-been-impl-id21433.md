@@ -1,3 +1,10 @@
+---
+topic_id: 21433
+title: "How To Quickly Start Developing Gui Functions Have Been Impl"
+date: 2022-01-13
+url: https://discourse.slicer.org/t/21433
+---
+
 # How to quickly start developing GUI, functions have been implemented
 
 **Topic ID**: 21433

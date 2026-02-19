@@ -1,3 +1,10 @@
+---
+topic_id: 9124
+title: "How To Create A Clone Fiducials Then Transform The Original"
+date: 2019-11-13
+url: https://discourse.slicer.org/t/9124
+---
+
 # How to create a clone Fiducials then transform the original fiducials onto the clone fiducials
 
 **Topic ID**: 9124

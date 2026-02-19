@@ -1,3 +1,10 @@
+---
+topic_id: 33958
+title: "Support Of M3D Dicom Modality In Quantitativereporting 3D Sl"
+date: 2024-01-25
+url: https://discourse.slicer.org/t/33958
+---
+
 # Support of M3D DICOM modality in QuantitativeReporting 3D Slicer extension
 
 **Topic ID**: 33958

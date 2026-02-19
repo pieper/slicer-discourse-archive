@@ -1,3 +1,10 @@
+---
+topic_id: 41350
+title: "Accessing Information Within Imagemetalist"
+date: 2025-01-29
+url: https://discourse.slicer.org/t/41350
+---
+
 # Accessing information within ImageMetaList
 
 **Topic ID**: 41350

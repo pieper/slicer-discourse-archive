@@ -1,3 +1,10 @@
+---
+topic_id: 13642
+title: "Issue With 3D Tee From Ge Vivid E95 In 3D Slicer"
+date: 2020-09-23
+url: https://discourse.slicer.org/t/13642
+---
+
 # Issue With 3D TEE from GE Vivid E95 in 3D Slicer
 
 **Topic ID**: 13642

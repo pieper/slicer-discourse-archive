@@ -1,3 +1,10 @@
+---
+topic_id: 3366
+title: "Python Logging With String Formatting Issue"
+date: 2018-07-03
+url: https://discourse.slicer.org/t/3366
+---
+
 # Python logging with string formatting issue
 
 **Topic ID**: 3366

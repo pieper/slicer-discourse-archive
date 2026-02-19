@@ -1,3 +1,10 @@
+---
+topic_id: 39726
+title: "Monailabel Server"
+date: 2024-10-16
+url: https://discourse.slicer.org/t/39726
+---
+
 # MonaiLabel server
 
 **Topic ID**: 39726

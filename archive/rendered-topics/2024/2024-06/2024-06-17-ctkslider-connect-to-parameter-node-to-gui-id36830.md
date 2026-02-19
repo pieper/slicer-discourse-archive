@@ -1,3 +1,10 @@
+---
+topic_id: 36830
+title: "Ctkslider Connect To Parameter Node To Gui"
+date: 2024-06-17
+url: https://discourse.slicer.org/t/36830
+---
+
 # Ctkslider connect to parameter node to GUI
 
 **Topic ID**: 36830

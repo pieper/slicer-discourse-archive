@@ -1,3 +1,10 @@
+---
+topic_id: 31655
+title: "Add Orientation Labels A P S I R L To 2D Slice Views"
+date: 2023-09-12
+url: https://discourse.slicer.org/t/31655
+---
+
 # Add orientation labels (A, P, S, I, R, L) to 2D slice views
 
 **Topic ID**: 31655

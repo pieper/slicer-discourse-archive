@@ -1,3 +1,10 @@
+---
+topic_id: 2881
+title: "Scene View Not Starting"
+date: 2018-05-22
+url: https://discourse.slicer.org/t/2881
+---
+
 # Scene view not starting
 
 **Topic ID**: 2881

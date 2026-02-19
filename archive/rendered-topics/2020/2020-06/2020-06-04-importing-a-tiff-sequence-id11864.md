@@ -1,3 +1,10 @@
+---
+topic_id: 11864
+title: "Importing A Tiff Sequence"
+date: 2020-06-04
+url: https://discourse.slicer.org/t/11864
+---
+
 # Importing a tiff sequence
 
 **Topic ID**: 11864

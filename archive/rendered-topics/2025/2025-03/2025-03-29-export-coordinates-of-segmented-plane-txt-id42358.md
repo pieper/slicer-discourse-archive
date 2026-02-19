@@ -1,3 +1,10 @@
+---
+topic_id: 42358
+title: "Export Coordinates Of Segmented Plane Txt"
+date: 2025-03-29
+url: https://discourse.slicer.org/t/42358
+---
+
 # export coordinates of segmented plane .txt
 
 **Topic ID**: 42358

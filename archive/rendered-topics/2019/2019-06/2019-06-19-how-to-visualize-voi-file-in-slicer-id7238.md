@@ -1,3 +1,10 @@
+---
+topic_id: 7238
+title: "How To Visualize Voi File In Slicer"
+date: 2019-06-19
+url: https://discourse.slicer.org/t/7238
+---
+
 # How to visualize *.voi file in slicer ?
 
 **Topic ID**: 7238

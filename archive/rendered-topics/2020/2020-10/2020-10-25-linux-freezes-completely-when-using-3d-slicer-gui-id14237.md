@@ -1,3 +1,10 @@
+---
+topic_id: 14237
+title: "Linux Freezes Completely When Using 3D Slicer Gui"
+date: 2020-10-25
+url: https://discourse.slicer.org/t/14237
+---
+
 # Linux freezes completely when using 3D slicer gui
 
 **Topic ID**: 14237

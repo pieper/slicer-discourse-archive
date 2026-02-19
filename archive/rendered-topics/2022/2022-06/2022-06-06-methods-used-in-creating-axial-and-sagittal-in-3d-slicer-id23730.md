@@ -1,3 +1,10 @@
+---
+topic_id: 23730
+title: "Methods Used In Creating Axial And Sagittal In 3D Slicer"
+date: 2022-06-06
+url: https://discourse.slicer.org/t/23730
+---
+
 # Methods used in creating axial and sagittal in 3d Slicer
 
 **Topic ID**: 23730

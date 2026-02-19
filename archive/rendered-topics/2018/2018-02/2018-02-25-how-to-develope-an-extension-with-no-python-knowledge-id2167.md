@@ -1,3 +1,10 @@
+---
+topic_id: 2167
+title: "How To Develope An Extension With No Python Knowledge"
+date: 2018-02-25
+url: https://discourse.slicer.org/t/2167
+---
+
 # How to develope an Extension with no python knowledge?
 
 **Topic ID**: 2167

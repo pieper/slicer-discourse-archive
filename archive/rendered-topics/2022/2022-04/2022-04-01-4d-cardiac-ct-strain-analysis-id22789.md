@@ -1,3 +1,10 @@
+---
+topic_id: 22789
+title: "4D Cardiac Ct Strain Analysis"
+date: 2022-04-01
+url: https://discourse.slicer.org/t/22789
+---
+
 # 4D cardiac CT Strain analysis
 
 **Topic ID**: 22789

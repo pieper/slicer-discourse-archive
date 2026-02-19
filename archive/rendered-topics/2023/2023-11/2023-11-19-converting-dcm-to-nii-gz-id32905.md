@@ -1,3 +1,10 @@
+---
+topic_id: 32905
+title: "Converting Dcm To Nii Gz"
+date: 2023-11-19
+url: https://discourse.slicer.org/t/32905
+---
+
 # Converting .dcm to .nii.gz
 
 **Topic ID**: 32905

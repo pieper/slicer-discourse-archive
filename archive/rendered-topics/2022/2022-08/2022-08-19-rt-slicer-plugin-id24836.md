@@ -1,3 +1,10 @@
+---
+topic_id: 24836
+title: "Rt Slicer Plugin"
+date: 2022-08-19
+url: https://discourse.slicer.org/t/24836
+---
+
 # RT Slicer Plugin
 
 **Topic ID**: 24836

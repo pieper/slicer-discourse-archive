@@ -1,3 +1,10 @@
+---
+topic_id: 32678
+title: "Finding A Midpoint Between A Line"
+date: 2023-11-08
+url: https://discourse.slicer.org/t/32678
+---
+
 # Finding a midpoint between a line
 
 **Topic ID**: 32678

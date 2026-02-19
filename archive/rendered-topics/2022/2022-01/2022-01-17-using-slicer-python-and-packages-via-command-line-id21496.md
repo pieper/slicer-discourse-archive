@@ -1,3 +1,10 @@
+---
+topic_id: 21496
+title: "Using Slicer Python And Packages Via Command Line"
+date: 2022-01-17
+url: https://discourse.slicer.org/t/21496
+---
+
 # Using Slicer python and packages via command line
 
 **Topic ID**: 21496

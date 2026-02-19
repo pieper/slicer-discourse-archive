@@ -1,3 +1,10 @@
+---
+topic_id: 40806
+title: "Tracking Ball Fiducials In Slicer Igt"
+date: 2024-12-19
+url: https://discourse.slicer.org/t/40806
+---
+
 # Tracking Ball Fiducials in Slicer IGT
 
 **Topic ID**: 40806

@@ -1,3 +1,10 @@
+---
+topic_id: 28685
+title: "Open Source Ultrasound Trainer Using 3Dslicer"
+date: 2023-03-30
+url: https://discourse.slicer.org/t/28685
+---
+
 # Open-Source Ultrasound Trainer using 3DSlicer
 
 **Topic ID**: 28685

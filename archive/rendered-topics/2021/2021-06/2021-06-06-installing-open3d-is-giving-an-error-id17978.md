@@ -1,3 +1,10 @@
+---
+topic_id: 17978
+title: "Installing Open3D Is Giving An Error"
+date: 2021-06-06
+url: https://discourse.slicer.org/t/17978
+---
+
 # Installing open3d is giving an error
 
 **Topic ID**: 17978

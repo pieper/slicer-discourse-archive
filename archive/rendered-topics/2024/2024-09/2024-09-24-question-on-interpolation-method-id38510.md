@@ -1,3 +1,10 @@
+---
+topic_id: 38510
+title: "Question On Interpolation Method"
+date: 2024-09-24
+url: https://discourse.slicer.org/t/38510
+---
+
 # Question on Interpolation method
 
 **Topic ID**: 38510

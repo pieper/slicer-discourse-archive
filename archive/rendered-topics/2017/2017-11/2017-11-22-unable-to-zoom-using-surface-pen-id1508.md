@@ -1,3 +1,10 @@
+---
+topic_id: 1508
+title: "Unable To Zoom Using Surface Pen"
+date: 2017-11-22
+url: https://discourse.slicer.org/t/1508
+---
+
 # Unable to zoom using Surface Pen
 
 **Topic ID**: 1508

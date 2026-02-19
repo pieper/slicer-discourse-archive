@@ -1,3 +1,10 @@
+---
+topic_id: 19861
+title: "Issue With Margin Effect Margin Value Sign"
+date: 2021-09-26
+url: https://discourse.slicer.org/t/19861
+---
+
 # Issue with Margin Effect margin value sign
 
 **Topic ID**: 19861

@@ -1,3 +1,10 @@
+---
+topic_id: 2132
+title: "Display Specific Slices"
+date: 2018-02-20
+url: https://discourse.slicer.org/t/2132
+---
+
 # Display specific slices
 
 **Topic ID**: 2132

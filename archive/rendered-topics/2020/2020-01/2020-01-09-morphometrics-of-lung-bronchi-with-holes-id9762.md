@@ -1,3 +1,10 @@
+---
+topic_id: 9762
+title: "Morphometrics Of Lung Bronchi With Holes"
+date: 2020-01-09
+url: https://discourse.slicer.org/t/9762
+---
+
 # Morphometrics of lung bronchi with holes
 
 **Topic ID**: 9762

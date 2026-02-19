@@ -1,3 +1,10 @@
+---
+topic_id: 10597
+title: "Importing Labeled Image To Segment Directly"
+date: 2020-03-09
+url: https://discourse.slicer.org/t/10597
+---
+
 # Importing labeled image to segment directly
 
 **Topic ID**: 10597

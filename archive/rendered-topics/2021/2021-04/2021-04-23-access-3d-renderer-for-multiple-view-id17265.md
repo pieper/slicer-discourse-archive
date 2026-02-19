@@ -1,3 +1,10 @@
+---
+topic_id: 17265
+title: "Access 3D Renderer For Multiple View"
+date: 2021-04-23
+url: https://discourse.slicer.org/t/17265
+---
+
 # Access 3d renderer for multiple view
 
 **Topic ID**: 17265

@@ -1,3 +1,10 @@
+---
+topic_id: 18813
+title: "Build Failure Of Certain Extensions On Mac Factory Due To Mi"
+date: 2021-07-20
+url: https://discourse.slicer.org/t/18813
+---
+
 # Build failure of certain extensions on Mac factory due to missing svn
 
 **Topic ID**: 18813

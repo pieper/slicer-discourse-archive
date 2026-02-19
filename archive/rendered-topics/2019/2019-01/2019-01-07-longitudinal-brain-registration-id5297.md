@@ -1,3 +1,10 @@
+---
+topic_id: 5297
+title: "Longitudinal Brain Registration"
+date: 2019-01-07
+url: https://discourse.slicer.org/t/5297
+---
+
 # Longitudinal brain registration
 
 **Topic ID**: 5297

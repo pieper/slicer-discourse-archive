@@ -1,3 +1,10 @@
+---
+topic_id: 8808
+title: "Manual Segmentation In A Projection Different From The Mri S"
+date: 2019-10-17
+url: https://discourse.slicer.org/t/8808
+---
+
 # Manual segmentation in a projection different from the MRI scan one
 
 **Topic ID**: 8808

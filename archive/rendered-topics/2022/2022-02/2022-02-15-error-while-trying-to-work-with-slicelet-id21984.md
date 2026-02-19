@@ -1,3 +1,10 @@
+---
+topic_id: 21984
+title: "Error While Trying To Work With Slicelet"
+date: 2022-02-15
+url: https://discourse.slicer.org/t/21984
+---
+
 # Error while trying to work with Slicelet
 
 **Topic ID**: 21984

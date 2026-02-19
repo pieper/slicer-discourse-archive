@@ -1,3 +1,10 @@
+---
+topic_id: 2091
+title: "Different Dashboard For Master And Stable Builds"
+date: 2018-02-15
+url: https://discourse.slicer.org/t/2091
+---
+
 # Different dashboard for master and stable builds
 
 **Topic ID**: 2091

@@ -1,3 +1,10 @@
+---
+topic_id: 15306
+title: "Plustoolkit On Linux"
+date: 2021-01-01
+url: https://discourse.slicer.org/t/15306
+---
+
 # PlusToolkit on Linux
 
 **Topic ID**: 15306

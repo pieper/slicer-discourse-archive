@@ -1,3 +1,10 @@
+---
+topic_id: 21895
+title: "Shows 2D Slices On One 3D View When Using Dual 3D View"
+date: 2022-02-10
+url: https://discourse.slicer.org/t/21895
+---
+
 # Shows 2D Slices on one 3D view when using dual 3D view
 
 **Topic ID**: 21895

@@ -1,3 +1,10 @@
+---
+topic_id: 30486
+title: "Facing Issue With Nvidia Ai Assisted Annotation Tool With Au"
+date: 2023-07-10
+url: https://discourse.slicer.org/t/30486
+---
+
 # Facing issue with NVIDIA AI-Assisted Annotation tool with auto -segmentation
 
 **Topic ID**: 30486

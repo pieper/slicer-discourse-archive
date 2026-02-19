@@ -1,3 +1,10 @@
+---
+topic_id: 31251
+title: "In The Slicerigt Plug In Of 3Dslicer Can The Ultrasonic Cali"
+date: 2023-08-20
+url: https://discourse.slicer.org/t/31251
+---
+
 # In the SlicerIGT plug-in of 3DSlicer, can the ultrasonic calibration function of Plus be used?
 
 **Topic ID**: 31251

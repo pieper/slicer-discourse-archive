@@ -1,3 +1,10 @@
+---
+topic_id: 13502
+title: "How To Get Skeleton Of Pulmonary Vascular System"
+date: 2020-09-16
+url: https://discourse.slicer.org/t/13502
+---
+
 # How to Get skeleton of pulmonary vascular system
 
 **Topic ID**: 13502

@@ -1,3 +1,10 @@
+---
+topic_id: 31494
+title: "How To Export Only The Area Within The Segmentation"
+date: 2023-09-01
+url: https://discourse.slicer.org/t/31494
+---
+
 # How to export only the area within the segmentation?
 
 **Topic ID**: 31494

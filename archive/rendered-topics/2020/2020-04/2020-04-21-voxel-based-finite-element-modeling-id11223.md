@@ -1,3 +1,10 @@
+---
+topic_id: 11223
+title: "Voxel Based Finite Element Modeling"
+date: 2020-04-21
+url: https://discourse.slicer.org/t/11223
+---
+
 # Voxel-based finite element modeling
 
 **Topic ID**: 11223

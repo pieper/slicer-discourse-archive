@@ -1,3 +1,10 @@
+---
+topic_id: 15035
+title: "Folders In Subject Hierarchy"
+date: 2020-12-13
+url: https://discourse.slicer.org/t/15035
+---
+
 # Folders in subject hierarchy
 
 **Topic ID**: 15035

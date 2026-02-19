@@ -1,3 +1,10 @@
+---
+topic_id: 21316
+title: "How To Segment The Image Export From Ultrasonic Machine"
+date: 2022-01-03
+url: https://discourse.slicer.org/t/21316
+---
+
 # How to segment the image export from ultrasonic machine?
 
 **Topic ID**: 21316

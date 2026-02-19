@@ -1,3 +1,10 @@
+---
+topic_id: 18366
+title: "Radiomic Analysis Thesis Questions"
+date: 2021-06-28
+url: https://discourse.slicer.org/t/18366
+---
+
 # Radiomic analysis thesis questions
 
 **Topic ID**: 18366

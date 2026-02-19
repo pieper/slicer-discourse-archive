@@ -1,3 +1,10 @@
+---
+topic_id: 7740
+title: "How To Make Slicer Fully Supporting Chinese"
+date: 2019-07-24
+url: https://discourse.slicer.org/t/7740
+---
+
 # How to make Slicer fully supporting Chinese?
 
 **Topic ID**: 7740

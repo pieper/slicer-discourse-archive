@@ -1,3 +1,10 @@
+---
+topic_id: 408
+title: "Convert Triangle Strips To Polygons"
+date: 2017-05-31
+url: https://discourse.slicer.org/t/408
+---
+
 # Convert TRIANGLE_STRIPS to POLYGONS
 
 **Topic ID**: 408

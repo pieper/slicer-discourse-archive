@@ -1,3 +1,10 @@
+---
+topic_id: 32017
+title: "Installing Slicer Extensions From Cmd With Python"
+date: 2023-10-03
+url: https://discourse.slicer.org/t/32017
+---
+
 # Installing Slicer Extensions from cmd with python
 
 **Topic ID**: 32017

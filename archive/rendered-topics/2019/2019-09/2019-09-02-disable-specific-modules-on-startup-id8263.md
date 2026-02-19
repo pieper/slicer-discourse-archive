@@ -1,3 +1,10 @@
+---
+topic_id: 8263
+title: "Disable Specific Modules On Startup"
+date: 2019-09-02
+url: https://discourse.slicer.org/t/8263
+---
+
 # Disable specific modules on startup
 
 **Topic ID**: 8263

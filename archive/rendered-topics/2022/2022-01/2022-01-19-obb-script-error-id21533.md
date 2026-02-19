@@ -1,3 +1,10 @@
+---
+topic_id: 21533
+title: "Obb Script Error"
+date: 2022-01-19
+url: https://discourse.slicer.org/t/21533
+---
+
 # OBB script error
 
 **Topic ID**: 21533

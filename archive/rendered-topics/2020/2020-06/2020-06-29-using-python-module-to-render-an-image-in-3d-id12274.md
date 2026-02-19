@@ -1,3 +1,10 @@
+---
+topic_id: 12274
+title: "Using Python Module To Render An Image In 3D"
+date: 2020-06-29
+url: https://discourse.slicer.org/t/12274
+---
+
 # Using Python Module to Render an Image in 3D
 
 **Topic ID**: 12274

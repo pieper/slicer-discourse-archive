@@ -1,3 +1,10 @@
+---
+topic_id: 2326
+title: "Is There A Simple Way To Compute Suvs If Patient Weights Are"
+date: 2018-03-15
+url: https://discourse.slicer.org/t/2326
+---
+
 # Is there a simple way to compute SUVs if patient weights are kept separate from the DICOM files?
 
 **Topic ID**: 2326

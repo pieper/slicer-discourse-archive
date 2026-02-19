@@ -1,3 +1,10 @@
+---
+topic_id: 15682
+title: "Merge Scalars Of Two Models"
+date: 2021-01-26
+url: https://discourse.slicer.org/t/15682
+---
+
 # Merge scalars of two models
 
 **Topic ID**: 15682

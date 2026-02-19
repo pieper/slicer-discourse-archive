@@ -1,3 +1,10 @@
+---
+topic_id: 2125
+title: "Volume Rendering Model Does Not Update Interactively With Ro"
+date: 2018-02-20
+url: https://discourse.slicer.org/t/2125
+---
+
 # Volume Rendering model does not update interactively with ROI
 
 **Topic ID**: 2125

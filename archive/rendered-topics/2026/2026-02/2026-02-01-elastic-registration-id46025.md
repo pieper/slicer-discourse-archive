@@ -1,3 +1,10 @@
+---
+topic_id: 46025
+title: "Elastic Registration"
+date: 2026-02-01
+url: https://discourse.slicer.org/t/46025
+---
+
 # Elastic Registration
 
 **Topic ID**: 46025

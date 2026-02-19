@@ -1,3 +1,10 @@
+---
+topic_id: 26048
+title: "Change Display Default Settings To Abdominal Window"
+date: 2022-11-03
+url: https://discourse.slicer.org/t/26048
+---
+
 # Change display default settings to abdominal window
 
 **Topic ID**: 26048

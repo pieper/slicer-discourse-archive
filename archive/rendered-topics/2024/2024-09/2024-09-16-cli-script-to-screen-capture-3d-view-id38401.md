@@ -1,3 +1,10 @@
+---
+topic_id: 38401
+title: "Cli Script To Screen Capture 3D View"
+date: 2024-09-16
+url: https://discourse.slicer.org/t/38401
+---
+
 # CLI script to screen capture 3D View
 
 **Topic ID**: 38401

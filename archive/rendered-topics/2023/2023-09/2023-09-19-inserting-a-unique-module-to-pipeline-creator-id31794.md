@@ -1,3 +1,10 @@
+---
+topic_id: 31794
+title: "Inserting A Unique Module To Pipeline Creator"
+date: 2023-09-19
+url: https://discourse.slicer.org/t/31794
+---
+
 # Inserting a unique Module to Pipeline Creator
 
 **Topic ID**: 31794

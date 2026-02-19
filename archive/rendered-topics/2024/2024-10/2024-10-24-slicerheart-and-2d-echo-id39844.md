@@ -1,3 +1,10 @@
+---
+topic_id: 39844
+title: "Slicerheart And 2D Echo"
+date: 2024-10-24
+url: https://discourse.slicer.org/t/39844
+---
+
 # SlicerHeart and 2D echo
 
 **Topic ID**: 39844

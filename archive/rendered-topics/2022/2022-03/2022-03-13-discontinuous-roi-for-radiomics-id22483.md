@@ -1,3 +1,10 @@
+---
+topic_id: 22483
+title: "Discontinuous Roi For Radiomics"
+date: 2022-03-13
+url: https://discourse.slicer.org/t/22483
+---
+
 # Discontinuous ROI for radiomics
 
 **Topic ID**: 22483

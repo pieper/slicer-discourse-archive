@@ -1,3 +1,10 @@
+---
+topic_id: 8371
+title: "Segmentation Vanishes After Hardening Transformation"
+date: 2019-09-10
+url: https://discourse.slicer.org/t/8371
+---
+
 # Segmentation vanishes after hardening transformation
 
 **Topic ID**: 8371

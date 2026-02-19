@@ -1,3 +1,10 @@
+---
+topic_id: 36466
+title: "Tractography Roi Selection Via Script"
+date: 2024-05-29
+url: https://discourse.slicer.org/t/36466
+---
+
 # Tractography ROI selection via script
 
 **Topic ID**: 36466

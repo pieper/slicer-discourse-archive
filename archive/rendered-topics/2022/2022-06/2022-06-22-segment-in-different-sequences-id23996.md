@@ -1,3 +1,10 @@
+---
+topic_id: 23996
+title: "Segment In Different Sequences"
+date: 2022-06-22
+url: https://discourse.slicer.org/t/23996
+---
+
 # Segment in different sequences
 
 **Topic ID**: 23996

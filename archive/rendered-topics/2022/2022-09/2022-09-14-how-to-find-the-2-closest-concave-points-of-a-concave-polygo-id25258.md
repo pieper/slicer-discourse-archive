@@ -1,3 +1,10 @@
+---
+topic_id: 25258
+title: "How To Find The 2 Closest Concave Points Of A Concave Polygo"
+date: 2022-09-14
+url: https://discourse.slicer.org/t/25258
+---
+
 # How to find the 2 closest concave points of a concave polygon?
 
 **Topic ID**: 25258

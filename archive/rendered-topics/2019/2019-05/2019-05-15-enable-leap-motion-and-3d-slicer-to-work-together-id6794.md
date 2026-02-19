@@ -1,3 +1,10 @@
+---
+topic_id: 6794
+title: "Enable Leap Motion And 3D Slicer To Work Together"
+date: 2019-05-15
+url: https://discourse.slicer.org/t/6794
+---
+
 # Enable Leap motion and 3D slicer to work together
 
 **Topic ID**: 6794

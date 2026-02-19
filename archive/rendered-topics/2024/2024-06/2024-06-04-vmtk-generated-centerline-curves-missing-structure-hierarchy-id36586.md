@@ -1,3 +1,10 @@
+---
+topic_id: 36586
+title: "Vmtk Generated Centerline Curves Missing Structure Hierarchy"
+date: 2024-06-04
+url: https://discourse.slicer.org/t/36586
+---
+
 # VMTK generated centerline curves missing structure hierarchy
 
 **Topic ID**: 36586

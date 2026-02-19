@@ -1,3 +1,10 @@
+---
+topic_id: 7124
+title: "Extract Visualise A Blob File From Dicom Radiotherapy"
+date: 2019-06-11
+url: https://discourse.slicer.org/t/7124
+---
+
 # Extract/visualise a BLOB file from DICOM (radiotherapy)
 
 **Topic ID**: 7124

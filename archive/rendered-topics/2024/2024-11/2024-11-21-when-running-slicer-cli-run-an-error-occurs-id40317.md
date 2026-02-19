@@ -1,3 +1,10 @@
+---
+topic_id: 40317
+title: "When Running Slicer Cli Run An Error Occurs"
+date: 2024-11-21
+url: https://discourse.slicer.org/t/40317
+---
+
 # When running slicer.cli.run, an error occurs.
 
 **Topic ID**: 40317

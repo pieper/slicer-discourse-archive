@@ -1,3 +1,10 @@
+---
+topic_id: 36042
+title: "How To Adjust A Subtly Adjustable Surface To Cut Both Sides"
+date: 2024-05-10
+url: https://discourse.slicer.org/t/36042
+---
+
 # How to adjust a subtly adjustable surface to cut both sides? (See the picture)
 
 **Topic ID**: 36042

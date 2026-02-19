@@ -1,3 +1,10 @@
+---
+topic_id: 27539
+title: "Custom Fiducials"
+date: 2023-01-30
+url: https://discourse.slicer.org/t/27539
+---
+
 # Custom fiducials
 
 **Topic ID**: 27539

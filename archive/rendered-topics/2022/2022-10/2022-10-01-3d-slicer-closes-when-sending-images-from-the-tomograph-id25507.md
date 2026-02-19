@@ -1,3 +1,10 @@
+---
+topic_id: 25507
+title: "3D Slicer Closes When Sending Images From The Tomograph"
+date: 2022-10-01
+url: https://discourse.slicer.org/t/25507
+---
+
 # 3D Slicer closes when sending images from the tomograph
 
 **Topic ID**: 25507

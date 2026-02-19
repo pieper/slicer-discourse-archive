@@ -1,3 +1,10 @@
+---
+topic_id: 42538
+title: "Imported Segmentation Does Not Show On Dicom File Image"
+date: 2025-04-11
+url: https://discourse.slicer.org/t/42538
+---
+
 # Imported segmentation does not show on DICOM file image
 
 **Topic ID**: 42538

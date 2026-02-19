@@ -1,3 +1,10 @@
+---
+topic_id: 5634
+title: "Toggle Text Visibility On Axial Coronal Sagittal Planes"
+date: 2019-02-04
+url: https://discourse.slicer.org/t/5634
+---
+
 # Toggle text visibility on axial/coronal/sagittal planes
 
 **Topic ID**: 5634

@@ -1,3 +1,10 @@
+---
+topic_id: 17712
+title: "Calling Module With Slicer Functions Fail In Jupyter Noteboo"
+date: 2021-05-20
+url: https://discourse.slicer.org/t/17712
+---
+
 # Calling module with slicer functions fail in Jupyter notebook
 
 **Topic ID**: 17712

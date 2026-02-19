@@ -1,3 +1,10 @@
+---
+topic_id: 43181
+title: "Segmentation Of Breast Tumors"
+date: 2025-06-01
+url: https://discourse.slicer.org/t/43181
+---
+
 # Segmentation of breast tumors
 
 **Topic ID**: 43181

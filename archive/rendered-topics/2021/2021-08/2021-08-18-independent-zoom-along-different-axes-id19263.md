@@ -1,3 +1,10 @@
+---
+topic_id: 19263
+title: "Independent Zoom Along Different Axes"
+date: 2021-08-18
+url: https://discourse.slicer.org/t/19263
+---
+
 # Independent zoom along different axes
 
 **Topic ID**: 19263

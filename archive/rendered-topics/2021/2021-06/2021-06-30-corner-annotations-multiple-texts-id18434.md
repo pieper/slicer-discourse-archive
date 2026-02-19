@@ -1,3 +1,10 @@
+---
+topic_id: 18434
+title: "Corner Annotations Multiple Texts"
+date: 2021-06-30
+url: https://discourse.slicer.org/t/18434
+---
+
 # Corner Annotations multiple texts
 
 **Topic ID**: 18434

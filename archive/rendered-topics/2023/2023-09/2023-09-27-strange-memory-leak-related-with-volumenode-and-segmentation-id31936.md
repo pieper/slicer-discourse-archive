@@ -1,3 +1,10 @@
+---
+topic_id: 31936
+title: "Strange Memory Leak Related With Volumenode And Segmentation"
+date: 2023-09-27
+url: https://discourse.slicer.org/t/31936
+---
+
 # Strange Memory leak related with volumeNode and segmentationNode
 
 **Topic ID**: 31936

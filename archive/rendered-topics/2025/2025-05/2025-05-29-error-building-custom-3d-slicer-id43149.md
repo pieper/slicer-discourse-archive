@@ -1,3 +1,10 @@
+---
+topic_id: 43149
+title: "Error Building Custom 3D Slicer"
+date: 2025-05-29
+url: https://discourse.slicer.org/t/43149
+---
+
 # Error building custom 3D Slicer
 
 **Topic ID**: 43149

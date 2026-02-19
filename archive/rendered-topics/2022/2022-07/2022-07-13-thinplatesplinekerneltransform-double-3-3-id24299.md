@@ -1,3 +1,10 @@
+---
+topic_id: 24299
+title: "Thinplatesplinekerneltransform Double 3 3"
+date: 2022-07-13
+url: https://discourse.slicer.org/t/24299
+---
+
 # ThinPlateSplineKernelTransform_double_3_3
 
 **Topic ID**: 24299

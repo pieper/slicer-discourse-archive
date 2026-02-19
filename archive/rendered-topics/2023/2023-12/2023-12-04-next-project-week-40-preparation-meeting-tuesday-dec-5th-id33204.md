@@ -1,3 +1,10 @@
+---
+topic_id: 33204
+title: "Next Project Week 40 Preparation Meeting Tuesday Dec 5Th"
+date: 2023-12-04
+url: https://discourse.slicer.org/t/33204
+---
+
 # Next Project Week 40 preparation meeting - Tuesday Dec 5th
 
 **Topic ID**: 33204

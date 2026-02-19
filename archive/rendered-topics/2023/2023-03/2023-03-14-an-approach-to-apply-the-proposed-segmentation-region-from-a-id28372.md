@@ -1,3 +1,10 @@
+---
+topic_id: 28372
+title: "An Approach To Apply The Proposed Segmentation Region From A"
+date: 2023-03-14
+url: https://discourse.slicer.org/t/28372
+---
+
 # An approach to apply the proposed segmentation region from an ML model to DICOM data 
 
 **Topic ID**: 28372

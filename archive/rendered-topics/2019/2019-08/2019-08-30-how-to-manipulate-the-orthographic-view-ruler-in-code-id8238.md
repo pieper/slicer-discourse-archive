@@ -1,3 +1,10 @@
+---
+topic_id: 8238
+title: "How To Manipulate The Orthographic View Ruler In Code"
+date: 2019-08-30
+url: https://discourse.slicer.org/t/8238
+---
+
 # How to manipulate the orthographic view ruler in code
 
 **Topic ID**: 8238

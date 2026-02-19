@@ -1,3 +1,10 @@
+---
+topic_id: 35499
+title: "Volume Rendering Function"
+date: 2024-04-15
+url: https://discourse.slicer.org/t/35499
+---
+
 # Volume rendering function
 
 **Topic ID**: 35499

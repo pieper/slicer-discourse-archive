@@ -1,3 +1,10 @@
+---
+topic_id: 10161
+title: "Reading The Obj Mtl Brain Atlas And Exporting As Nii"
+date: 2020-02-07
+url: https://discourse.slicer.org/t/10161
+---
+
 # Reading the .obj (+.mtl) brain atlas and exporting as .nii
 
 **Topic ID**: 10161

@@ -1,3 +1,10 @@
+---
+topic_id: 28030
+title: "Wish List Parallelize Alpaca Malpaca Registration"
+date: 2023-02-24
+url: https://discourse.slicer.org/t/28030
+---
+
 # Wish list: parallelize ALPACA / MALPACA registration
 
 **Topic ID**: 28030

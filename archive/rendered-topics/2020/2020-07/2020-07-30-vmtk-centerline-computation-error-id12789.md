@@ -1,3 +1,10 @@
+---
+topic_id: 12789
+title: "Vmtk Centerline Computation Error"
+date: 2020-07-30
+url: https://discourse.slicer.org/t/12789
+---
+
 # VMTK Centerline Computation error
 
 **Topic ID**: 12789

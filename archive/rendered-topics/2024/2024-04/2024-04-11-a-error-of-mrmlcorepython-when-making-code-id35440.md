@@ -1,3 +1,10 @@
+---
+topic_id: 35440
+title: "A Error Of Mrmlcorepython When Making Code"
+date: 2024-04-11
+url: https://discourse.slicer.org/t/35440
+---
+
 # A error of MRMLCorePython when making code
 
 **Topic ID**: 35440

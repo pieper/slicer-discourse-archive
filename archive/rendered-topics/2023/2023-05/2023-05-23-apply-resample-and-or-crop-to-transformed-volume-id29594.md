@@ -1,3 +1,10 @@
+---
+topic_id: 29594
+title: "Apply Resample And Or Crop To Transformed Volume"
+date: 2023-05-23
+url: https://discourse.slicer.org/t/29594
+---
+
 # Apply Resample and/or Crop to transformed volume
 
 **Topic ID**: 29594

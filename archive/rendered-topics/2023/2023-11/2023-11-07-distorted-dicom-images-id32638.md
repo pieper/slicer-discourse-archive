@@ -1,3 +1,10 @@
+---
+topic_id: 32638
+title: "Distorted Dicom Images"
+date: 2023-11-07
+url: https://discourse.slicer.org/t/32638
+---
+
 # Distorted DICOM images
 
 **Topic ID**: 32638

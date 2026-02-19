@@ -1,3 +1,10 @@
+---
+topic_id: 2668
+title: "Error After Installing Radiomics"
+date: 2018-04-23
+url: https://discourse.slicer.org/t/2668
+---
+
 # Error after installing radiomics
 
 **Topic ID**: 2668

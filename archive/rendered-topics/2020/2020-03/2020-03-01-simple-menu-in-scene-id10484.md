@@ -1,3 +1,10 @@
+---
+topic_id: 10484
+title: "Simple Menu In Scene"
+date: 2020-03-01
+url: https://discourse.slicer.org/t/10484
+---
+
 # Simple menu in scene
 
 **Topic ID**: 10484

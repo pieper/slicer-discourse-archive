@@ -1,3 +1,10 @@
+---
+topic_id: 3278
+title: "Custom Signal Slots With Pythonqt"
+date: 2018-06-25
+url: https://discourse.slicer.org/t/3278
+---
+
 # Custom Signal/Slots with PythonQt
 
 **Topic ID**: 3278

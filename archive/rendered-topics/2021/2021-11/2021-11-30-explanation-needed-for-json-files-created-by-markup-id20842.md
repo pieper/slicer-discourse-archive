@@ -1,3 +1,10 @@
+---
+topic_id: 20842
+title: "Explanation Needed For Json Files Created By Markup"
+date: 2021-11-30
+url: https://discourse.slicer.org/t/20842
+---
+
 # Explanation needed for JSON files created by Markup
 
 **Topic ID**: 20842

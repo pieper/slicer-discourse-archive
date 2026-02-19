@@ -1,3 +1,10 @@
+---
+topic_id: 26942
+title: "Load Openinventor Iv Vrml 1 0 Bone Files In 3D Slicer"
+date: 2022-12-27
+url: https://discourse.slicer.org/t/26942
+---
+
 # Load OpenInventor (.iv) VRML 1.0 bone files in 3D Slicer
 
 **Topic ID**: 26942

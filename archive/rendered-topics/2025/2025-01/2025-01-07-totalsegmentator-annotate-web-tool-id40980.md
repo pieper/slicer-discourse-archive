@@ -1,3 +1,10 @@
+---
+topic_id: 40980
+title: "Totalsegmentator Annotate Web Tool"
+date: 2025-01-07
+url: https://discourse.slicer.org/t/40980
+---
+
 # Totalsegmentator annotate web tool
 
 **Topic ID**: 40980

@@ -1,3 +1,10 @@
+---
+topic_id: 9338
+title: "Measure Asymmetry Of 3D Jaw Model Bone And Tissue"
+date: 2019-11-30
+url: https://discourse.slicer.org/t/9338
+---
+
 # Measure asymmetry of 3d jaw model (bone and tissue)
 
 **Topic ID**: 9338

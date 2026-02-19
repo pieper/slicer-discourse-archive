@@ -1,3 +1,10 @@
+---
+topic_id: 16273
+title: "Local Threshold And Other Effects"
+date: 2021-02-28
+url: https://discourse.slicer.org/t/16273
+---
+
 # Local threshold and other effects 
 
 **Topic ID**: 16273

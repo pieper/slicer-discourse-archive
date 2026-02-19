@@ -1,3 +1,10 @@
+---
+topic_id: 45987
+title: "Changing Precision"
+date: 2026-01-29
+url: https://discourse.slicer.org/t/45987
+---
+
 # Changing precision
 
 **Topic ID**: 45987

@@ -1,3 +1,10 @@
+---
+topic_id: 7160
+title: "Nac Brain Atlas 2015 From Data Store Is Giving Scene Hierarc"
+date: 2019-06-13
+url: https://discourse.slicer.org/t/7160
+---
+
 # NAC Brain Atlas 2015 from Data Store is giving scene hierarchy errors after loading
 
 **Topic ID**: 7160

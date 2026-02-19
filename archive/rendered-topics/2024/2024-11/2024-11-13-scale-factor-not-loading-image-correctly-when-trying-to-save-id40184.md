@@ -1,3 +1,10 @@
+---
+topic_id: 40184
+title: "Scale Factor Not Loading Image Correctly When Trying To Save"
+date: 2024-11-13
+url: https://discourse.slicer.org/t/40184
+---
+
 # Scale Factor not loading image correctly when trying to save a volume rendering photograph
 
 **Topic ID**: 40184

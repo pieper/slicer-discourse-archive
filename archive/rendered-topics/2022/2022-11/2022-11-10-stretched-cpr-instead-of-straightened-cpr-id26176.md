@@ -1,3 +1,10 @@
+---
+topic_id: 26176
+title: "Stretched Cpr Instead Of Straightened Cpr"
+date: 2022-11-10
+url: https://discourse.slicer.org/t/26176
+---
+
 # Stretched CPR instead of Straightened CPR
 
 **Topic ID**: 26176

@@ -1,3 +1,10 @@
+---
+topic_id: 22300
+title: "Load An Image And A Transformation And Handle Them With The"
+date: 2022-03-03
+url: https://discourse.slicer.org/t/22300
+---
+
 # Load an image and a transformation and handle them with the IGT  Volume Reslice Driver module
 
 **Topic ID**: 22300

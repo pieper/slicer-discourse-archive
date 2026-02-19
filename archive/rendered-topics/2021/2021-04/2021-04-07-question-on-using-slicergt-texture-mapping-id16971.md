@@ -1,3 +1,10 @@
+---
+topic_id: 16971
+title: "Question On Using Slicergt Texture Mapping"
+date: 2021-04-07
+url: https://discourse.slicer.org/t/16971
+---
+
 # Question on using SlicerGT Texture mapping
 
 **Topic ID**: 16971

@@ -1,3 +1,10 @@
+---
+topic_id: 34808
+title: "Segmenting Outer Heart Walls Septum For Developing Heart Mol"
+date: 2024-03-10
+url: https://discourse.slicer.org/t/34808
+---
+
 # Segmenting outer heart walls & septum for developing heart mold
 
 **Topic ID**: 34808

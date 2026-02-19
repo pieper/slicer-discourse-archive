@@ -1,3 +1,10 @@
+---
+topic_id: 21575
+title: "Python Message Failed To Import Pythonqt Qslicerxxxxmodulewi"
+date: 2022-01-22
+url: https://discourse.slicer.org/t/21575
+---
+
 # Python message: "Failed to import PythonQt.qSlicerxxxxModuleWidgets"
 
 **Topic ID**: 21575

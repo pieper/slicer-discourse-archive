@@ -1,3 +1,10 @@
+---
+topic_id: 3556
+title: "Loading In A Segmentation Generated Outside Slicer On Matlab"
+date: 2018-07-22
+url: https://discourse.slicer.org/t/3556
+---
+
 # Loading in a segmentation generated outside slicer (on matlab)
 
 **Topic ID**: 3556

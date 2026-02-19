@@ -1,3 +1,10 @@
+---
+topic_id: 3464
+title: "Dce Only A Portion Of Voxels Are Fit"
+date: 2018-07-12
+url: https://discourse.slicer.org/t/3464
+---
+
 # DCE: Only a portion of voxels are fit
 
 **Topic ID**: 3464

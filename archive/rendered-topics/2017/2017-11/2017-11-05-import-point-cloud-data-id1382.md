@@ -1,3 +1,10 @@
+---
+topic_id: 1382
+title: "Import Point Cloud Data"
+date: 2017-11-05
+url: https://discourse.slicer.org/t/1382
+---
+
 # Import point cloud data
 
 **Topic ID**: 1382

@@ -1,3 +1,10 @@
+---
+topic_id: 23269
+title: "Linux Sliceopencv Build"
+date: 2022-05-03
+url: https://discourse.slicer.org/t/23269
+---
+
 # [Linux] SliceOpenCV build
 
 **Topic ID**: 23269

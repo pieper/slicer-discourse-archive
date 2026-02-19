@@ -1,3 +1,10 @@
+---
+topic_id: 44698
+title: "Lightbox Doesnt Show Limited As Seperate Lines"
+date: 2025-10-08
+url: https://discourse.slicer.org/t/44698
+---
+
 # Lightbox doesnt show limited as seperate lines
 
 **Topic ID**: 44698

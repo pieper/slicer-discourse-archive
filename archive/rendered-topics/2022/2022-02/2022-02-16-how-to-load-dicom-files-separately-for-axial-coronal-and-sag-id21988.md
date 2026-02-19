@@ -1,3 +1,10 @@
+---
+topic_id: 21988
+title: "How To Load Dicom Files Separately For Axial Coronal And Sag"
+date: 2022-02-16
+url: https://discourse.slicer.org/t/21988
+---
+
 # How to load dicom files separately for axial, coronal and sagittal views?
 
 **Topic ID**: 21988

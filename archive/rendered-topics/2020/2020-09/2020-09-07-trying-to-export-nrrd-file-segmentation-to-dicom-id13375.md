@@ -1,3 +1,10 @@
+---
+topic_id: 13375
+title: "Trying To Export Nrrd File Segmentation To Dicom"
+date: 2020-09-07
+url: https://discourse.slicer.org/t/13375
+---
+
 # Trying to export nrrd file segmentation to DICOM
 
 **Topic ID**: 13375

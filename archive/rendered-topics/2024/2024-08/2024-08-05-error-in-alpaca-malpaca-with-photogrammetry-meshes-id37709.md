@@ -1,3 +1,10 @@
+---
+topic_id: 37709
+title: "Error In Alpaca Malpaca With Photogrammetry Meshes"
+date: 2024-08-05
+url: https://discourse.slicer.org/t/37709
+---
+
 # Error in ALPACA/MALPACA with photogrammetry meshes
 
 **Topic ID**: 37709

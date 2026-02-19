@@ -1,3 +1,10 @@
+---
+topic_id: 1199
+title: "How To Provide Global Coordinate System After Crop Volume Se"
+date: 2017-10-09
+url: https://discourse.slicer.org/t/1199
+---
+
 # How to provide global coordinate system after crop volume segment?
 
 **Topic ID**: 1199

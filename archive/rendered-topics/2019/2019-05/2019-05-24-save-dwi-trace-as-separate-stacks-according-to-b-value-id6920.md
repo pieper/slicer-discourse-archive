@@ -1,3 +1,10 @@
+---
+topic_id: 6920
+title: "Save Dwi Trace As Separate Stacks According To B Value"
+date: 2019-05-24
+url: https://discourse.slicer.org/t/6920
+---
+
 # Save DWI trace as separate stacks according to b value
 
 **Topic ID**: 6920

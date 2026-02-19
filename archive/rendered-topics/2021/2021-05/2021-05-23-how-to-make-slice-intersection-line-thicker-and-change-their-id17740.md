@@ -1,3 +1,10 @@
+---
+topic_id: 17740
+title: "How To Make Slice Intersection Line Thicker And Change Their"
+date: 2021-05-23
+url: https://discourse.slicer.org/t/17740
+---
+
 # How to make slice intersection line thicker and change their color?
 
 **Topic ID**: 17740

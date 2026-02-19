@@ -1,3 +1,10 @@
+---
+topic_id: 23461
+title: "Dicom Files Import"
+date: 2022-05-17
+url: https://discourse.slicer.org/t/23461
+---
+
 # DICOM files import
 
 **Topic ID**: 23461

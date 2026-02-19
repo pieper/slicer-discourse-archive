@@ -1,3 +1,10 @@
+---
+topic_id: 22031
+title: "Dragging Osirix Xml File As Segmentation To Import Into 3D S"
+date: 2022-02-17
+url: https://discourse.slicer.org/t/22031
+---
+
 # Dragging OsiriX xml file as segmentation to import into 3D slicer
 
 **Topic ID**: 22031

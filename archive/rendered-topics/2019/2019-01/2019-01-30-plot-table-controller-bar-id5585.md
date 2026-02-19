@@ -1,3 +1,10 @@
+---
+topic_id: 5585
+title: "Plot Table Controller Bar"
+date: 2019-01-30
+url: https://discourse.slicer.org/t/5585
+---
+
 # Plot/table controller bar
 
 **Topic ID**: 5585

@@ -1,3 +1,10 @@
+---
+topic_id: 36068
+title: "Uncheck Toggle Selectable Doesn T Anchor The Model"
+date: 2024-05-10
+url: https://discourse.slicer.org/t/36068
+---
+
 # Uncheck “Toggle Selectable” doesn’t anchor the model
 
 **Topic ID**: 36068

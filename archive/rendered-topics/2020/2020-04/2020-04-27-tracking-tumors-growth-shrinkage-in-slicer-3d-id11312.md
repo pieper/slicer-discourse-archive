@@ -1,3 +1,10 @@
+---
+topic_id: 11312
+title: "Tracking Tumors Growth Shrinkage In Slicer 3D"
+date: 2020-04-27
+url: https://discourse.slicer.org/t/11312
+---
+
 # Tracking tumors growth/ shrinkage in Slicer 3D
 
 **Topic ID**: 11312

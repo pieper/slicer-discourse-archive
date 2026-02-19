@@ -1,3 +1,10 @@
+---
+topic_id: 32849
+title: "Cross Section Analysis Importerror On Mac"
+date: 2023-11-15
+url: https://discourse.slicer.org/t/32849
+---
+
 # Cross-section analysis ImportError on Mac
 
 **Topic ID**: 32849

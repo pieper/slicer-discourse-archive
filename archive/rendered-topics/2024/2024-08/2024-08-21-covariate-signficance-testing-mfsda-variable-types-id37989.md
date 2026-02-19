@@ -1,3 +1,10 @@
+---
+topic_id: 37989
+title: "Covariate Signficance Testing Mfsda Variable Types"
+date: 2024-08-21
+url: https://discourse.slicer.org/t/37989
+---
+
 # Covariate Signficance Testing (MFSDA) - Variable Types?
 
 **Topic ID**: 37989

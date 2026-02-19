@@ -1,3 +1,10 @@
+---
+topic_id: 15653
+title: "There Is A Cut View"
+date: 2021-01-25
+url: https://discourse.slicer.org/t/15653
+---
+
 # There is a "cut view"?
 
 **Topic ID**: 15653

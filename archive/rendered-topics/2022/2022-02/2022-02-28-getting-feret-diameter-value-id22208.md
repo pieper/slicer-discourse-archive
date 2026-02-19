@@ -1,3 +1,10 @@
+---
+topic_id: 22208
+title: "Getting Feret Diameter Value"
+date: 2022-02-28
+url: https://discourse.slicer.org/t/22208
+---
+
 # Getting feret diameter value
 
 **Topic ID**: 22208

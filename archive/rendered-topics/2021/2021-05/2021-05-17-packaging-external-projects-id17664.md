@@ -1,3 +1,10 @@
+---
+topic_id: 17664
+title: "Packaging External Projects"
+date: 2021-05-17
+url: https://discourse.slicer.org/t/17664
+---
+
 # Packaging external projects
 
 **Topic ID**: 17664

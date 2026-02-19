@@ -1,3 +1,10 @@
+---
+topic_id: 27003
+title: "Vtksegmentation Data To Niftii Conversion"
+date: 2023-01-01
+url: https://discourse.slicer.org/t/27003
+---
+
 # vtkSegmentation data to niftii conversion
 
 **Topic ID**: 27003

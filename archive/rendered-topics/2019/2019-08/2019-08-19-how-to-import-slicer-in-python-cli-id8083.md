@@ -1,3 +1,10 @@
+---
+topic_id: 8083
+title: "How To Import Slicer In Python Cli"
+date: 2019-08-19
+url: https://discourse.slicer.org/t/8083
+---
+
 # How to import Slicer in python-cli
 
 **Topic ID**: 8083

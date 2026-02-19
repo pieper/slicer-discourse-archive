@@ -1,3 +1,10 @@
+---
+topic_id: 11515
+title: "How To Inform The Pixel Resolution In Volume Module"
+date: 2020-05-13
+url: https://discourse.slicer.org/t/11515
+---
+
 # How to inform the pixel resolution in Volume module?
 
 **Topic ID**: 11515

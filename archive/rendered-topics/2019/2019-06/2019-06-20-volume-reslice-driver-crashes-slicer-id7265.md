@@ -1,3 +1,10 @@
+---
+topic_id: 7265
+title: "Volume Reslice Driver Crashes Slicer"
+date: 2019-06-20
+url: https://discourse.slicer.org/t/7265
+---
+
 # Volume reslice driver crashes Slicer
 
 **Topic ID**: 7265

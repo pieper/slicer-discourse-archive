@@ -1,3 +1,10 @@
+---
+topic_id: 13020
+title: "Masking A Segment"
+date: 2020-08-16
+url: https://discourse.slicer.org/t/13020
+---
+
 # Masking a segment
 
 **Topic ID**: 13020

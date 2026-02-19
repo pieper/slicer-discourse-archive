@@ -1,3 +1,10 @@
+---
+topic_id: 24071
+title: "Slicerdensitylungsegmentation Using Gmm Model Generated With"
+date: 2022-06-28
+url: https://discourse.slicer.org/t/24071
+---
+
 # SlicerDensityLungSegmentation – using GMM model generated with older scikit-learn
 
 **Topic ID**: 24071

@@ -1,3 +1,10 @@
+---
+topic_id: 10609
+title: "Custom Slicer Build Save Button Does Not Bring Up Save Data"
+date: 2020-03-10
+url: https://discourse.slicer.org/t/10609
+---
+
 # Custom Slicer build - Save button does not bring up "Save Data" widget, does not load NRRD files
 
 **Topic ID**: 10609

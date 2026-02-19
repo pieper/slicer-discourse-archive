@@ -1,3 +1,10 @@
+---
+topic_id: 16804
+title: "Test Retest Repeatability Study Segmentation With Image Regi"
+date: 2021-03-28
+url: https://discourse.slicer.org/t/16804
+---
+
 # Test-retest repeatability study: segmentation with image registration or not?
 
 **Topic ID**: 16804

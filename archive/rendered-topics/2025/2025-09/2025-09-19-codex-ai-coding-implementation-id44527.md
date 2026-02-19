@@ -1,3 +1,10 @@
+---
+topic_id: 44527
+title: "Codex Ai Coding Implementation"
+date: 2025-09-19
+url: https://discourse.slicer.org/t/44527
+---
+
 # Codex ai coding implementation?
 
 **Topic ID**: 44527

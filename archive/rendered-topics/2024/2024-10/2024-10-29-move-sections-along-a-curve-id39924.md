@@ -1,3 +1,10 @@
+---
+topic_id: 39924
+title: "Move Sections Along A Curve"
+date: 2024-10-29
+url: https://discourse.slicer.org/t/39924
+---
+
 # Move sections along a curve
 
 **Topic ID**: 39924

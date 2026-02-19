@@ -1,3 +1,10 @@
+---
+topic_id: 16011
+title: "Blank Pages In The Slicerpreview Dashboard"
+date: 2021-02-16
+url: https://discourse.slicer.org/t/16011
+---
+
 # Blank pages in the SlicerPreview dashboard
 
 **Topic ID**: 16011

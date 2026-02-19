@@ -1,3 +1,10 @@
+---
+topic_id: 2649
+title: "Play Macro Error"
+date: 2018-04-20
+url: https://discourse.slicer.org/t/2649
+---
+
 # Play Macro, Error
 
 **Topic ID**: 2649

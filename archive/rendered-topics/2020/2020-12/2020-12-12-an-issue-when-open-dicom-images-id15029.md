@@ -1,3 +1,10 @@
+---
+topic_id: 15029
+title: "An Issue When Open Dicom Images"
+date: 2020-12-12
+url: https://discourse.slicer.org/t/15029
+---
+
 # An issue when open DICOM images
 
 **Topic ID**: 15029

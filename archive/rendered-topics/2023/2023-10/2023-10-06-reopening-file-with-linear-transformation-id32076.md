@@ -1,3 +1,10 @@
+---
+topic_id: 32076
+title: "Reopening File With Linear Transformation"
+date: 2023-10-06
+url: https://discourse.slicer.org/t/32076
+---
+
 # Reopening file with linear transformation
 
 **Topic ID**: 32076

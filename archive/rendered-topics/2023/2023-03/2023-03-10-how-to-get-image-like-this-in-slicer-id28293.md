@@ -1,3 +1,10 @@
+---
+topic_id: 28293
+title: "How To Get Image Like This In Slicer"
+date: 2023-03-10
+url: https://discourse.slicer.org/t/28293
+---
+
 # How to get image like this in slicer
 
 **Topic ID**: 28293

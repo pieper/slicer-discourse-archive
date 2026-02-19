@@ -1,3 +1,10 @@
+---
+topic_id: 10400
+title: "How To Add Node Selector On The Loadable Module Of The Slice"
+date: 2020-02-23
+url: https://discourse.slicer.org/t/10400
+---
+
 # How to add node selector on the loadable module of the Slicer
 
 **Topic ID**: 10400

@@ -1,3 +1,10 @@
+---
+topic_id: 13197
+title: "Build Failure Windows"
+date: 2020-08-27
+url: https://discourse.slicer.org/t/13197
+---
+
 # Build Failure (Windows)
 
 **Topic ID**: 13197

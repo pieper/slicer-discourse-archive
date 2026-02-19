@@ -1,3 +1,10 @@
+---
+topic_id: 13787
+title: "How To Set Roi Of Volume In Python"
+date: 2020-10-01
+url: https://discourse.slicer.org/t/13787
+---
+
 # How to set ROI of volume in python?
 
 **Topic ID**: 13787

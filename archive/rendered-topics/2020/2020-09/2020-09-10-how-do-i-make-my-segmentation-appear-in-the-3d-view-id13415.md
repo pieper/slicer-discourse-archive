@@ -1,3 +1,10 @@
+---
+topic_id: 13415
+title: "How Do I Make My Segmentation Appear In The 3D View"
+date: 2020-09-10
+url: https://discourse.slicer.org/t/13415
+---
+
 # How do I make my segmentation appear in the 3D view
 
 **Topic ID**: 13415

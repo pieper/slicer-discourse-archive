@@ -1,3 +1,10 @@
+---
+topic_id: 3530
+title: "Getting A User Specified File Location"
+date: 2018-07-20
+url: https://discourse.slicer.org/t/3530
+---
+
 # Getting a user specified file location
 
 **Topic ID**: 3530

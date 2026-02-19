@@ -1,3 +1,10 @@
+---
+topic_id: 29809
+title: "Buttons In Custom Modules"
+date: 2023-06-02
+url: https://discourse.slicer.org/t/29809
+---
+
 # Buttons in custom modules
 
 **Topic ID**: 29809

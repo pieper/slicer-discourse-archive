@@ -1,3 +1,10 @@
+---
+topic_id: 39902
+title: "Texturemodel Issue"
+date: 2024-10-28
+url: https://discourse.slicer.org/t/39902
+---
+
 # TextureModel Issue
 
 **Topic ID**: 39902

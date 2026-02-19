@@ -1,3 +1,10 @@
+---
+topic_id: 42556
+title: "Slicer Mrmlscene Clear Not Working"
+date: 2025-04-14
+url: https://discourse.slicer.org/t/42556
+---
+
 # slicer.mrmlScene.Clear() not working
 
 **Topic ID**: 42556

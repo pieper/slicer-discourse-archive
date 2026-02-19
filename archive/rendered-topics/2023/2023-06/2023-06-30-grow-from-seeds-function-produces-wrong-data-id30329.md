@@ -1,3 +1,10 @@
+---
+topic_id: 30329
+title: "Grow From Seeds Function Produces Wrong Data"
+date: 2023-06-30
+url: https://discourse.slicer.org/t/30329
+---
+
 # Grow from seeds function produces wrong data
 
 **Topic ID**: 30329

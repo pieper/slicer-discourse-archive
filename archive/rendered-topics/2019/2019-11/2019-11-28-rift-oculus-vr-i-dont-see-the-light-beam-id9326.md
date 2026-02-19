@@ -1,3 +1,10 @@
+---
+topic_id: 9326
+title: "Rift Oculus Vr I Dont See The Light Beam"
+date: 2019-11-28
+url: https://discourse.slicer.org/t/9326
+---
+
 # Rift oculus vr I dont see the light beam
 
 **Topic ID**: 9326

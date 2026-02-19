@@ -1,3 +1,10 @@
+---
+topic_id: 11887
+title: "Error To Import Vff File"
+date: 2020-06-06
+url: https://discourse.slicer.org/t/11887
+---
+
 # Error to import vff file
 
 **Topic ID**: 11887

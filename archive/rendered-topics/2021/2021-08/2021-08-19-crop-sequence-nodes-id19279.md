@@ -1,3 +1,10 @@
+---
+topic_id: 19279
+title: "Crop Sequence Nodes"
+date: 2021-08-19
+url: https://discourse.slicer.org/t/19279
+---
+
 # Crop Sequence Nodes
 
 **Topic ID**: 19279

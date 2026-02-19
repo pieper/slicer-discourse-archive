@@ -1,3 +1,10 @@
+---
+topic_id: 32346
+title: "Pet Mri Corregistration"
+date: 2023-10-20
+url: https://discourse.slicer.org/t/32346
+---
+
 # PET-MRI corregistration
 
 **Topic ID**: 32346

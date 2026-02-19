@@ -1,3 +1,10 @@
+---
+topic_id: 4627
+title: "How To Run Python Based Cli Modules"
+date: 2018-11-04
+url: https://discourse.slicer.org/t/4627
+---
+
 # How to run python based CLI modules?
 
 **Topic ID**: 4627

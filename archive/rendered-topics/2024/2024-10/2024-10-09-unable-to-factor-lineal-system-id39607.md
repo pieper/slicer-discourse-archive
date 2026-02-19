@@ -1,3 +1,10 @@
+---
+topic_id: 39607
+title: "Unable To Factor Lineal System"
+date: 2024-10-09
+url: https://discourse.slicer.org/t/39607
+---
+
 # Unable to factor lineal system
 
 **Topic ID**: 39607

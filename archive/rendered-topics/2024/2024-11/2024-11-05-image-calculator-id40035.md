@@ -1,3 +1,10 @@
+---
+topic_id: 40035
+title: "Image Calculator"
+date: 2024-11-05
+url: https://discourse.slicer.org/t/40035
+---
+
 # Image calculator
 
 **Topic ID**: 40035

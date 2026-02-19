@@ -1,3 +1,10 @@
+---
+topic_id: 1392
+title: "Set Fiducial Size"
+date: 2017-11-07
+url: https://discourse.slicer.org/t/1392
+---
+
 # Set fiducial size?
 
 **Topic ID**: 1392

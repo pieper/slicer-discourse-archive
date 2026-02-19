@@ -1,3 +1,10 @@
+---
+topic_id: 26732
+title: "Markups Save To Defaults Colors Misremembered"
+date: 2022-12-14
+url: https://discourse.slicer.org/t/26732
+---
+
 # Markups "save to defaults" colors misremembered
 
 **Topic ID**: 26732

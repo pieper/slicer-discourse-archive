@@ -1,3 +1,10 @@
+---
+topic_id: 26853
+title: "Measure Part Of Model Volume Along Centerline"
+date: 2022-12-20
+url: https://discourse.slicer.org/t/26853
+---
+
 # Measure (part of) model volume along centerline
 
 **Topic ID**: 26853

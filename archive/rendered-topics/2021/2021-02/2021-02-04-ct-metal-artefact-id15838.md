@@ -1,3 +1,10 @@
+---
+topic_id: 15838
+title: "Ct Metal Artefact"
+date: 2021-02-04
+url: https://discourse.slicer.org/t/15838
+---
+
 # CT/ Metal Artefact 
 
 **Topic ID**: 15838

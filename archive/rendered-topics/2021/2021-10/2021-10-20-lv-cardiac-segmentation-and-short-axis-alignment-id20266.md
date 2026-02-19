@@ -1,3 +1,10 @@
+---
+topic_id: 20266
+title: "Lv Cardiac Segmentation And Short Axis Alignment"
+date: 2021-10-20
+url: https://discourse.slicer.org/t/20266
+---
+
 # LV (cardiac) segmentation and short axis alignment 
 
 **Topic ID**: 20266

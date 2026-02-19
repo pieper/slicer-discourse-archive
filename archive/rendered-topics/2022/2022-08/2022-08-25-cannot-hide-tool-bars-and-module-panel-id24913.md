@@ -1,3 +1,10 @@
+---
+topic_id: 24913
+title: "Cannot Hide Tool Bars And Module Panel"
+date: 2022-08-25
+url: https://discourse.slicer.org/t/24913
+---
+
 # Cannot hide tool bars and module panel
 
 **Topic ID**: 24913

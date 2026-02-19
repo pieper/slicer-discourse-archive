@@ -1,3 +1,10 @@
+---
+topic_id: 15108
+title: "Smoothing Multiple Segments At Once"
+date: 2020-12-17
+url: https://discourse.slicer.org/t/15108
+---
+
 # Smoothing multiple segments at once
 
 **Topic ID**: 15108

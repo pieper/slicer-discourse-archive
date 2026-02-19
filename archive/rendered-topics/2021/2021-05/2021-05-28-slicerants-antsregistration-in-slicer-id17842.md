@@ -1,3 +1,10 @@
+---
+topic_id: 17842
+title: "Slicerants Antsregistration In Slicer"
+date: 2021-05-28
+url: https://discourse.slicer.org/t/17842
+---
+
 # SlicerANTs antsRegistration in Slicer
 
 **Topic ID**: 17842

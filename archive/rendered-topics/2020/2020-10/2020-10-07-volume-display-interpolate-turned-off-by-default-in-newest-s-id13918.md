@@ -1,3 +1,10 @@
+---
+topic_id: 13918
+title: "Volume Display Interpolate Turned Off By Default In Newest S"
+date: 2020-10-07
+url: https://discourse.slicer.org/t/13918
+---
+
 # Volume display - Interpolate turned off by default in newest stable?
 
 **Topic ID**: 13918

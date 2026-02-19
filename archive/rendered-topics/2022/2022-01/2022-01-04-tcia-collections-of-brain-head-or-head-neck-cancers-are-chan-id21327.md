@@ -1,3 +1,10 @@
+---
+topic_id: 21327
+title: "Tcia Collections Of Brain Head Or Head Neck Cancers Are Chan"
+date: 2022-01-04
+url: https://discourse.slicer.org/t/21327
+---
+
 # TCIA Collections of brain, head, or head/neck cancers are changing to limited access
 
 **Topic ID**: 21327

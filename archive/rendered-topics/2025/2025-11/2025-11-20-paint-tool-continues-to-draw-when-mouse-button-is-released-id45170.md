@@ -1,3 +1,10 @@
+---
+topic_id: 45170
+title: "Paint Tool Continues To Draw When Mouse Button Is Released"
+date: 2025-11-20
+url: https://discourse.slicer.org/t/45170
+---
+
 # Paint tool continues to draw when mouse button is released
 
 **Topic ID**: 45170

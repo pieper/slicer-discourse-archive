@@ -1,3 +1,10 @@
+---
+topic_id: 28116
+title: "Generate A Model From Multiple Png Files"
+date: 2023-03-01
+url: https://discourse.slicer.org/t/28116
+---
+
 # Generate a model from multiple PNG files
 
 **Topic ID**: 28116

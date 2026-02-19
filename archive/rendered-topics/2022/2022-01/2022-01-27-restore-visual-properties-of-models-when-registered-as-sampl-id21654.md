@@ -1,3 +1,10 @@
+---
+topic_id: 21654
+title: "Restore Visual Properties Of Models When Registered As Sampl"
+date: 2022-01-27
+url: https://discourse.slicer.org/t/21654
+---
+
 # Restore visual properties of models when registered as Sample Data
 
 **Topic ID**: 21654

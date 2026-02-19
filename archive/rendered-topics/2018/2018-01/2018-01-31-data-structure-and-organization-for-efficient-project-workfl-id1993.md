@@ -1,3 +1,10 @@
+---
+topic_id: 1993
+title: "Data Structure And Organization For Efficient Project Workfl"
+date: 2018-01-31
+url: https://discourse.slicer.org/t/1993
+---
+
 # Data structure and organization for efficient project workflow
 
 **Topic ID**: 1993

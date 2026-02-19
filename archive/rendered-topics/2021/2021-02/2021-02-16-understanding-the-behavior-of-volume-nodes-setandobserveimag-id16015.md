@@ -1,3 +1,10 @@
+---
+topic_id: 16015
+title: "Understanding The Behavior Of Volume Nodes Setandobserveimag"
+date: 2021-02-16
+url: https://discourse.slicer.org/t/16015
+---
+
 # Understanding the behavior of volume node's SetAndObserveImageData method
 
 **Topic ID**: 16015

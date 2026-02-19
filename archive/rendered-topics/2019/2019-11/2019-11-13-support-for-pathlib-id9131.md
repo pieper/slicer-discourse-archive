@@ -1,3 +1,10 @@
+---
+topic_id: 9131
+title: "Support For Pathlib"
+date: 2019-11-13
+url: https://discourse.slicer.org/t/9131
+---
+
 # Support for pathlib
 
 **Topic ID**: 9131

@@ -1,3 +1,10 @@
+---
+topic_id: 7811
+title: "Diffusion Brain Masking"
+date: 2019-07-30
+url: https://discourse.slicer.org/t/7811
+---
+
 # Diffusion brain masking
 
 **Topic ID**: 7811

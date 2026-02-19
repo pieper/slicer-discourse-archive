@@ -1,3 +1,10 @@
+---
+topic_id: 35622
+title: "Totalsegmentator Extra Task License Not Saved In Slicer 6 2"
+date: 2024-04-19
+url: https://discourse.slicer.org/t/35622
+---
+
 # TotalSegmentator Extra Task License Not Saved in Slicer 6.2
 
 **Topic ID**: 35622

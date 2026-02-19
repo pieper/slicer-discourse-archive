@@ -1,3 +1,10 @@
+---
+topic_id: 33538
+title: "Renderer Does Not Support Required Opengl Capabilities The M"
+date: 2023-12-28
+url: https://discourse.slicer.org/t/33538
+---
+
 # Renderer does not support required OpenGL capabilities. the mesa solution works for 5.4 but not for 5.6 or later
 
 **Topic ID**: 33538

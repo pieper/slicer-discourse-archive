@@ -1,3 +1,10 @@
+---
+topic_id: 16570
+title: "Conditional Island Removal"
+date: 2021-03-16
+url: https://discourse.slicer.org/t/16570
+---
+
 # Conditional island removal?
 
 **Topic ID**: 16570

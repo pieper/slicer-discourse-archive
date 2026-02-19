@@ -1,3 +1,10 @@
+---
+topic_id: 8887
+title: "Midas Slicer Paraviewweb Kitware Demo Anything More"
+date: 2019-10-24
+url: https://discourse.slicer.org/t/8887
+---
+
 # Midas + Slicer + ParaviewWeb Kitware Demo - Anything more?
 
 **Topic ID**: 8887

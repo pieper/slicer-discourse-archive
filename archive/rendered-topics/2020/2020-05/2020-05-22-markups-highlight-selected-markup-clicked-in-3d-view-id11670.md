@@ -1,3 +1,10 @@
+---
+topic_id: 11670
+title: "Markups Highlight Selected Markup Clicked In 3D View"
+date: 2020-05-22
+url: https://discourse.slicer.org/t/11670
+---
+
 # Markups - highlight selected markup clicked in 3D view?
 
 **Topic ID**: 11670

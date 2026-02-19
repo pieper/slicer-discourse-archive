@@ -1,3 +1,10 @@
+---
+topic_id: 19076
+title: "Why Closed Curve Cannot Generate Baffle Model In Baffle Plan"
+date: 2021-08-05
+url: https://discourse.slicer.org/t/19076
+---
+
 # Why "closed curve" cannot generate Baffle model in Baffle Planner module?
 
 **Topic ID**: 19076

@@ -1,3 +1,10 @@
+---
+topic_id: 6221
+title: "Anisotropic Gaussian Filtering For Python Module"
+date: 2019-03-20
+url: https://discourse.slicer.org/t/6221
+---
+
 # Anisotropic Gaussian Filtering for Python Module
 
 **Topic ID**: 6221

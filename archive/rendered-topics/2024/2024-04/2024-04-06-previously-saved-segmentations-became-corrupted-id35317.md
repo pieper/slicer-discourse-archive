@@ -1,3 +1,10 @@
+---
+topic_id: 35317
+title: "Previously Saved Segmentations Became Corrupted"
+date: 2024-04-06
+url: https://discourse.slicer.org/t/35317
+---
+
 # Previously saved segmentations became corrupted
 
 **Topic ID**: 35317

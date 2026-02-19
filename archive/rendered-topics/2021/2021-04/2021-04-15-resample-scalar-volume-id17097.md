@@ -1,3 +1,10 @@
+---
+topic_id: 17097
+title: "Resample Scalar Volume"
+date: 2021-04-15
+url: https://discourse.slicer.org/t/17097
+---
+
 # Resample Scalar Volume
 
 **Topic ID**: 17097

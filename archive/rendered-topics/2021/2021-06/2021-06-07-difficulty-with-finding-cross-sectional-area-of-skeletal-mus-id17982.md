@@ -1,3 +1,10 @@
+---
+topic_id: 17982
+title: "Difficulty With Finding Cross Sectional Area Of Skeletal Mus"
+date: 2021-06-07
+url: https://discourse.slicer.org/t/17982
+---
+
 # difficulty with finding cross sectional area of skeletal muscle at l3 for assessing sarcopenia
 
 **Topic ID**: 17982

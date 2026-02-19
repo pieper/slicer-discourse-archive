@@ -1,3 +1,10 @@
+---
+topic_id: 28404
+title: "Axes Of A Markup Plane"
+date: 2023-03-16
+url: https://discourse.slicer.org/t/28404
+---
+
 # Axes of a markup plane
 
 **Topic ID**: 28404

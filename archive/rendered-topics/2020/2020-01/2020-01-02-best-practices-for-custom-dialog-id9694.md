@@ -1,3 +1,10 @@
+---
+topic_id: 9694
+title: "Best Practices For Custom Dialog"
+date: 2020-01-02
+url: https://discourse.slicer.org/t/9694
+---
+
 # Best practices for custom dialog
 
 **Topic ID**: 9694

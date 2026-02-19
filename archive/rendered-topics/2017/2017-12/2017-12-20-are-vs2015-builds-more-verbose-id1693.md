@@ -1,3 +1,10 @@
+---
+topic_id: 1693
+title: "Are Vs2015 Builds More Verbose"
+date: 2017-12-20
+url: https://discourse.slicer.org/t/1693
+---
+
 # Are VS2015 builds more verbose?
 
 **Topic ID**: 1693

@@ -1,3 +1,10 @@
+---
+topic_id: 41521
+title: "Pet Dicom Extension"
+date: 2025-02-06
+url: https://discourse.slicer.org/t/41521
+---
+
 # PET DICOM extension
 
 **Topic ID**: 41521

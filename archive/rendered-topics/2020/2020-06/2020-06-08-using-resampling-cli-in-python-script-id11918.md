@@ -1,3 +1,10 @@
+---
+topic_id: 11918
+title: "Using Resampling Cli In Python Script"
+date: 2020-06-08
+url: https://discourse.slicer.org/t/11918
+---
+
 # Using resampling cli in python script
 
 **Topic ID**: 11918

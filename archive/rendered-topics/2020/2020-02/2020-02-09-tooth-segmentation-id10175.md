@@ -1,3 +1,10 @@
+---
+topic_id: 10175
+title: "Tooth Segmentation"
+date: 2020-02-09
+url: https://discourse.slicer.org/t/10175
+---
+
 # Tooth segmentation
 
 **Topic ID**: 10175

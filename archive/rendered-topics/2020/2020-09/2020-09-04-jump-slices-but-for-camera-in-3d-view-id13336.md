@@ -1,3 +1,10 @@
+---
+topic_id: 13336
+title: "Jump Slices But For Camera In 3D View"
+date: 2020-09-04
+url: https://discourse.slicer.org/t/13336
+---
+
 # "Jump slices" but for camera in 3D view
 
 **Topic ID**: 13336

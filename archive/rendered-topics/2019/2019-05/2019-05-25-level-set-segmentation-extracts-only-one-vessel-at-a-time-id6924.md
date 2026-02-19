@@ -1,3 +1,10 @@
+---
+topic_id: 6924
+title: "Level Set Segmentation Extracts Only One Vessel At A Time"
+date: 2019-05-25
+url: https://discourse.slicer.org/t/6924
+---
+
 # Level set segmentation extracts only one vessel at a time
 
 **Topic ID**: 6924

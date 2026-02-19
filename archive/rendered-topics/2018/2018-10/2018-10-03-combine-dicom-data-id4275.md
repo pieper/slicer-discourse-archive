@@ -1,3 +1,10 @@
+---
+topic_id: 4275
+title: "Combine Dicom Data"
+date: 2018-10-03
+url: https://discourse.slicer.org/t/4275
+---
+
 # Combine DICOM data
 
 **Topic ID**: 4275

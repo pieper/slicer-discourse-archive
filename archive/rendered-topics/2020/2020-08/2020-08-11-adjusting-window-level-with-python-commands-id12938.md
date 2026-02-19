@@ -1,3 +1,10 @@
+---
+topic_id: 12938
+title: "Adjusting Window Level With Python Commands"
+date: 2020-08-11
+url: https://discourse.slicer.org/t/12938
+---
+
 # Adjusting window level with Python commands
 
 **Topic ID**: 12938

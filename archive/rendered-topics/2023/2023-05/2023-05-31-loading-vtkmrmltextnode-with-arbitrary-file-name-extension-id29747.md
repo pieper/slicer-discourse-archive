@@ -1,3 +1,10 @@
+---
+topic_id: 29747
+title: "Loading Vtkmrmltextnode With Arbitrary File Name Extension"
+date: 2023-05-31
+url: https://discourse.slicer.org/t/29747
+---
+
 # Loading vtkMRMLTextNode with arbitrary file name extension
 
 **Topic ID**: 29747

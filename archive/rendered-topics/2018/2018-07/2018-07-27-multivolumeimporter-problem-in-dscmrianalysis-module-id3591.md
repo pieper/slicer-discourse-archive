@@ -1,3 +1,10 @@
+---
+topic_id: 3591
+title: "Multivolumeimporter Problem In Dscmrianalysis Module"
+date: 2018-07-27
+url: https://discourse.slicer.org/t/3591
+---
+
 # MultiVolumeImporter problem in DSCMRIAnalysis module
 
 **Topic ID**: 3591

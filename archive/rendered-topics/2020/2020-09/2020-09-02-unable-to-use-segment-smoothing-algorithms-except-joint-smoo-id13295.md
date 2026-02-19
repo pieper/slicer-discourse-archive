@@ -1,3 +1,10 @@
+---
+topic_id: 13295
+title: "Unable To Use Segment Smoothing Algorithms Except Joint Smoo"
+date: 2020-09-02
+url: https://discourse.slicer.org/t/13295
+---
+
 # Unable to use segment smoothing algorithms except joint smoothing when using imported segments from "partial_lung_label_map" create by chest imaging platform
 
 **Topic ID**: 13295

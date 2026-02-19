@@ -1,3 +1,10 @@
+---
+topic_id: 442
+title: "Change Color Of Segmentation Node"
+date: 2017-06-06
+url: https://discourse.slicer.org/t/442
+---
+
 # Change color of segmentation node
 
 **Topic ID**: 442

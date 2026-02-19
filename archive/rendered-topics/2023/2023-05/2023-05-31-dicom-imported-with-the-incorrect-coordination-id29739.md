@@ -1,3 +1,10 @@
+---
+topic_id: 29739
+title: "Dicom Imported With The Incorrect Coordination"
+date: 2023-05-31
+url: https://discourse.slicer.org/t/29739
+---
+
 # Dicom imported with the incorrect coordination
 
 **Topic ID**: 29739

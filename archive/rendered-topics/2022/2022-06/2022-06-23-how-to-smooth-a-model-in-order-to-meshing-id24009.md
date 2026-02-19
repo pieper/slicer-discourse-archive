@@ -1,3 +1,10 @@
+---
+topic_id: 24009
+title: "How To Smooth A Model In Order To Meshing"
+date: 2022-06-23
+url: https://discourse.slicer.org/t/24009
+---
+
 # how to smooth a model in order to meshing
 
 **Topic ID**: 24009

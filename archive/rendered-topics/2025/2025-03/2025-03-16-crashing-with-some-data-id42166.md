@@ -1,3 +1,10 @@
+---
+topic_id: 42166
+title: "Crashing With Some Data"
+date: 2025-03-16
+url: https://discourse.slicer.org/t/42166
+---
+
 # Crashing with some data
 
 **Topic ID**: 42166

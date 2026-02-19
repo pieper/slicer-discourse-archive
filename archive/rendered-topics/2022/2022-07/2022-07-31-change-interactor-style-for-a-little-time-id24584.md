@@ -1,3 +1,10 @@
+---
+topic_id: 24584
+title: "Change Interactor Style For A Little Time"
+date: 2022-07-31
+url: https://discourse.slicer.org/t/24584
+---
+
 # Change interactor style for a little time
 
 **Topic ID**: 24584

@@ -1,3 +1,10 @@
+---
+topic_id: 16042
+title: "Missing Emails In Mailing List Mode"
+date: 2021-02-17
+url: https://discourse.slicer.org/t/16042
+---
+
 # Missing emails in mailing list mode
 
 **Topic ID**: 16042

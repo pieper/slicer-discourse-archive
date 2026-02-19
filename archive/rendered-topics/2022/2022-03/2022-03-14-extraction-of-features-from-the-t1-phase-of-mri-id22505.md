@@ -1,3 +1,10 @@
+---
+topic_id: 22505
+title: "Extraction Of Features From The T1 Phase Of Mri"
+date: 2022-03-14
+url: https://discourse.slicer.org/t/22505
+---
+
 # Extraction of features from the T1 phase of MRI
 
 **Topic ID**: 22505

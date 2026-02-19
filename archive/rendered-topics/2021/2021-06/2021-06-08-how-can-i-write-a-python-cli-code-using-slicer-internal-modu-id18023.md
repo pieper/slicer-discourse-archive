@@ -1,3 +1,10 @@
+---
+topic_id: 18023
+title: "How Can I Write A Python Cli Code Using Slicer Internal Modu"
+date: 2021-06-08
+url: https://discourse.slicer.org/t/18023
+---
+
 # How can I write a python CLI code using slicer internal module
 
 **Topic ID**: 18023

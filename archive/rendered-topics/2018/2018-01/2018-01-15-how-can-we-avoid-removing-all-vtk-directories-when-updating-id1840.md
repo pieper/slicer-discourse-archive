@@ -1,3 +1,10 @@
+---
+topic_id: 1840
+title: "How Can We Avoid Removing All Vtk Directories When Updating"
+date: 2018-01-15
+url: https://discourse.slicer.org/t/1840
+---
+
 # How can we avoid removing all VTK directories when updating slicer
 
 **Topic ID**: 1840

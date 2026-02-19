@@ -1,3 +1,10 @@
+---
+topic_id: 1037
+title: "Create A Tempate For Amygdala"
+date: 2017-09-11
+url: https://discourse.slicer.org/t/1037
+---
+
 # Create a tempate for amygdala
 
 **Topic ID**: 1037

@@ -1,3 +1,10 @@
+---
+topic_id: 26070
+title: "Slicer Easybuild Config File"
+date: 2022-11-04
+url: https://discourse.slicer.org/t/26070
+---
+
 # Slicer EasyBuild config file
 
 **Topic ID**: 26070

@@ -1,3 +1,10 @@
+---
+topic_id: 27818
+title: "How To Export Cbct Scan File To Stl In Actual Human Scale"
+date: 2023-02-15
+url: https://discourse.slicer.org/t/27818
+---
+
 # How to export CBCT scan file to stl in actual human scale
 
 **Topic ID**: 27818

@@ -1,3 +1,10 @@
+---
+topic_id: 23752
+title: "Python Script For Threshold Based Bone Segmentation"
+date: 2022-06-07
+url: https://discourse.slicer.org/t/23752
+---
+
 # Python script for threshold based Bone segmentation
 
 **Topic ID**: 23752

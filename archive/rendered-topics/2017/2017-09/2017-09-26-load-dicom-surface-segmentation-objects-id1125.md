@@ -1,3 +1,10 @@
+---
+topic_id: 1125
+title: "Load Dicom Surface Segmentation Objects"
+date: 2017-09-26
+url: https://discourse.slicer.org/t/1125
+---
+
 # Load DICOM Surface Segmentation Objects
 
 **Topic ID**: 1125

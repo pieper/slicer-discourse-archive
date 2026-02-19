@@ -1,3 +1,10 @@
+---
+topic_id: 8248
+title: "Nightly 4 11 0 2019 8 30 Fails To Open On Some Windows Machi"
+date: 2019-08-31
+url: https://discourse.slicer.org/t/8248
+---
+
 # Nightly 4.11.0-2019-8-30 fails to open on some Windows machines
 
 **Topic ID**: 8248

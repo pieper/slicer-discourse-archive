@@ -1,3 +1,10 @@
+---
+topic_id: 42083
+title: "Vtkclippolydata Results In Hollow Models"
+date: 2025-03-12
+url: https://discourse.slicer.org/t/42083
+---
+
 # vtkClipPolyData results in hollow models
 
 **Topic ID**: 42083

@@ -1,3 +1,10 @@
+---
+topic_id: 23361
+title: "Prism Rendering Chroma Depth Perception Not Working"
+date: 2022-05-10
+url: https://discourse.slicer.org/t/23361
+---
+
 # PRISM Rendering Chroma Depth Perception not working
 
 **Topic ID**: 23361

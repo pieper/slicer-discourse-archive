@@ -1,3 +1,10 @@
+---
+topic_id: 33238
+title: "View Controller Bar Is Thicker In Slicer 5 6 0"
+date: 2023-12-05
+url: https://discourse.slicer.org/t/33238
+---
+
 # View controller bar is thicker in Slicer-5.6.0
 
 **Topic ID**: 33238

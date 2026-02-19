@@ -1,3 +1,10 @@
+---
+topic_id: 30089
+title: "Markup Fiducial Changing Position"
+date: 2023-06-16
+url: https://discourse.slicer.org/t/30089
+---
+
 # Markup - fiducial- changing position
 
 **Topic ID**: 30089

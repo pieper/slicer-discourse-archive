@@ -1,3 +1,10 @@
+---
+topic_id: 31583
+title: "Run Slicer Pyradiomics For Batch Processing"
+date: 2023-09-06
+url: https://discourse.slicer.org/t/31583
+---
+
 # Run slicer pyradiomics for batch processing
 
 **Topic ID**: 31583

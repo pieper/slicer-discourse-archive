@@ -1,3 +1,10 @@
+---
+topic_id: 2726
+title: "Segment Editor And Rotate Tumble Orbit Function In 3D View"
+date: 2018-04-28
+url: https://discourse.slicer.org/t/2726
+---
+
 # Segment Editor and rotate/tumble/orbit function in 3D view
 
 **Topic ID**: 2726

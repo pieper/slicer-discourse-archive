@@ -1,3 +1,10 @@
+---
+topic_id: 39552
+title: "Slicer 5 6 2 Will Flash Back When It Calculated Hausdorff Me"
+date: 2024-10-06
+url: https://discourse.slicer.org/t/39552
+---
+
 # Slicer 5.6.2 will flash back when it calculated Hausdorff metric and Dice metric in SegmentComparison module
 
 **Topic ID**: 39552

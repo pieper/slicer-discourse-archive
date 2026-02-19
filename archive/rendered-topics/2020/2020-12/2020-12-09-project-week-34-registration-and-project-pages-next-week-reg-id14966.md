@@ -1,3 +1,10 @@
+---
+topic_id: 14966
+title: "Project Week 34 Registration And Project Pages Next Week Reg"
+date: 2020-12-09
+url: https://discourse.slicer.org/t/14966
+---
+
 # Project week 34 - Registration and project pages - Next week, register now!
 
 **Topic ID**: 14966

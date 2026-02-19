@@ -1,3 +1,10 @@
+---
+topic_id: 2948
+title: "Relationship Between Space And Spharm Coefficients"
+date: 2018-05-28
+url: https://discourse.slicer.org/t/2948
+---
+
 # Relationship between space and SPHARM coefficients
 
 **Topic ID**: 2948

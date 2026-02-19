@@ -1,3 +1,10 @@
+---
+topic_id: 30255
+title: "Body Fat Tissue Pelvic Vs Lower Extremities"
+date: 2023-06-27
+url: https://discourse.slicer.org/t/30255
+---
+
 # Body Fat Tissue_Pelvic VS Lower Extremities
 
 **Topic ID**: 30255

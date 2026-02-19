@@ -1,3 +1,10 @@
+---
+topic_id: 37250
+title: "Create Dimension Lines For 3D Model"
+date: 2024-07-08
+url: https://discourse.slicer.org/t/37250
+---
+
 # Create dimension lines for 3D model
 
 **Topic ID**: 37250

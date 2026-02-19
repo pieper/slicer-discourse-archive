@@ -1,3 +1,10 @@
+---
+topic_id: 28132
+title: "Create A New Window With Multiple Slice Views"
+date: 2023-03-02
+url: https://discourse.slicer.org/t/28132
+---
+
 # Create a new window with multiple slice views
 
 **Topic ID**: 28132

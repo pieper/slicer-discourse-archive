@@ -1,3 +1,10 @@
+---
+topic_id: 30456
+title: "Vmtk Surface Clipping Contribution"
+date: 2023-07-07
+url: https://discourse.slicer.org/t/30456
+---
+
 # Vmtk surface clipping contribution
 
 **Topic ID**: 30456

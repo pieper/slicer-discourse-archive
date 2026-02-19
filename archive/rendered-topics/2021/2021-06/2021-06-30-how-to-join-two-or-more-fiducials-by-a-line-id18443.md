@@ -1,3 +1,10 @@
+---
+topic_id: 18443
+title: "How To Join Two Or More Fiducials By A Line"
+date: 2021-06-30
+url: https://discourse.slicer.org/t/18443
+---
+
 # How to join two or more fiducials by a line?
 
 **Topic ID**: 18443

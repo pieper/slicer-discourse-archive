@@ -1,3 +1,10 @@
+---
+topic_id: 34135
+title: "Extract Centerline Curves In Two Disconnected Branches"
+date: 2024-02-03
+url: https://discourse.slicer.org/t/34135
+---
+
 # Extract centerline curves in two disconnected branches
 
 **Topic ID**: 34135

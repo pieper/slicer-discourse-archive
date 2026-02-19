@@ -1,3 +1,10 @@
+---
+topic_id: 24476
+title: "I Want To Know How To Colour The Exported Models"
+date: 2022-07-25
+url: https://discourse.slicer.org/t/24476
+---
+
 # I want to know how to colour the exported models
 
 **Topic ID**: 24476

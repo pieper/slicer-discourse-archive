@@ -1,3 +1,10 @@
+---
+topic_id: 8624
+title: "Easiest Method Of 3D Modeling Of A Sacrum"
+date: 2019-09-30
+url: https://discourse.slicer.org/t/8624
+---
+
 # Easiest method of 3D modeling of a sacrum
 
 **Topic ID**: 8624

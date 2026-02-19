@@ -1,3 +1,10 @@
+---
+topic_id: 18793
+title: "How To Get A Roi To Fit Volume In The Volume Rendering Modul"
+date: 2021-07-19
+url: https://discourse.slicer.org/t/18793
+---
+
 # How to get a ROI to fit volume in the Volume Rendering module with python?
 
 **Topic ID**: 18793

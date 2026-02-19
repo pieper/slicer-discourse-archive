@@ -1,3 +1,10 @@
+---
+topic_id: 13888
+title: "Not Finding Median Values In Cip"
+date: 2020-10-06
+url: https://discourse.slicer.org/t/13888
+---
+
 # Not finding Median values in CIP
 
 **Topic ID**: 13888

@@ -1,3 +1,10 @@
+---
+topic_id: 33125
+title: "Combine Two Cone Beam Ct Images"
+date: 2023-11-29
+url: https://discourse.slicer.org/t/33125
+---
+
 # Combine two cone-beam CT images
 
 **Topic ID**: 33125

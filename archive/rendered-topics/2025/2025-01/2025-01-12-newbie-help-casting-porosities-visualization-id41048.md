@@ -1,3 +1,10 @@
+---
+topic_id: 41048
+title: "Newbie Help Casting Porosities Visualization"
+date: 2025-01-12
+url: https://discourse.slicer.org/t/41048
+---
+
 # Newbie - Help - Casting Porosities visualization
 
 **Topic ID**: 41048

@@ -1,3 +1,10 @@
+---
+topic_id: 10602
+title: "How To Threshold Only One Slice In The Dicom Module"
+date: 2020-03-09
+url: https://discourse.slicer.org/t/10602
+---
+
 # How to threshold only one slice in the DICOM Module
 
 **Topic ID**: 10602

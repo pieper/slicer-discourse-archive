@@ -1,3 +1,10 @@
+---
+topic_id: 4317
+title: "Trouble Showing Dicom Pictures With Different B Values In 3D"
+date: 2018-10-08
+url: https://discourse.slicer.org/t/4317
+---
+
 # Trouble showing DICOM-pictures with different B-values in 3D-Slicer
 
 **Topic ID**: 4317

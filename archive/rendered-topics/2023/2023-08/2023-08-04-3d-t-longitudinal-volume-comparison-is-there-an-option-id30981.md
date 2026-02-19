@@ -1,3 +1,10 @@
+---
+topic_id: 30981
+title: "3D T Longitudinal Volume Comparison Is There An Option"
+date: 2023-08-04
+url: https://discourse.slicer.org/t/30981
+---
+
 # 3D+t - Longitudinal Volume Comparison - is there an option?
 
 **Topic ID**: 30981

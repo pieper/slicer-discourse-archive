@@ -1,3 +1,10 @@
+---
+topic_id: 15895
+title: "How Do I Add Ultrasonic Probe Stl Into A Scene"
+date: 2021-02-08
+url: https://discourse.slicer.org/t/15895
+---
+
 # How do I add Ultrasonic probe STL into a scene?
 
 **Topic ID**: 15895

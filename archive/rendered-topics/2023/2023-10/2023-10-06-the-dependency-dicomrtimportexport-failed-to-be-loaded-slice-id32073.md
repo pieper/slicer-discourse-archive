@@ -1,3 +1,10 @@
+---
+topic_id: 32073
+title: "The Dependency Dicomrtimportexport Failed To Be Loaded Slice"
+date: 2023-10-06
+url: https://discourse.slicer.org/t/32073
+---
+
 # The dependency "DicomRtImportExport" failed to be loaded - SlicerRT Issue
 
 **Topic ID**: 32073

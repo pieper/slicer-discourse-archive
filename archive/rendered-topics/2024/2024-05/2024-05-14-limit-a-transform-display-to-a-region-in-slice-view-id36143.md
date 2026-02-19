@@ -1,3 +1,10 @@
+---
+topic_id: 36143
+title: "Limit A Transform Display To A Region In Slice View"
+date: 2024-05-14
+url: https://discourse.slicer.org/t/36143
+---
+
 # Limit a transform display to a region in slice view
 
 **Topic ID**: 36143

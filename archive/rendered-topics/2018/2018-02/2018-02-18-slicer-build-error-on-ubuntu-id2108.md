@@ -1,3 +1,10 @@
+---
+topic_id: 2108
+title: "Slicer Build Error On Ubuntu"
+date: 2018-02-18
+url: https://discourse.slicer.org/t/2108
+---
+
 # Slicer build error on Ubuntu
 
 **Topic ID**: 2108

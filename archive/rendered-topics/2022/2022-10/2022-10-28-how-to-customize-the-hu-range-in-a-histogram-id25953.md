@@ -1,3 +1,10 @@
+---
+topic_id: 25953
+title: "How To Customize The Hu Range In A Histogram"
+date: 2022-10-28
+url: https://discourse.slicer.org/t/25953
+---
+
 # How to customize the HU range in a histogram?
 
 **Topic ID**: 25953

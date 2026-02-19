@@ -1,3 +1,10 @@
+---
+topic_id: 20900
+title: "How To Find Specific Voxel On Image On 3D Slicer"
+date: 2021-12-03
+url: https://discourse.slicer.org/t/20900
+---
+
 # How to find specific voxel on image on 3D Slicer?
 
 **Topic ID**: 20900

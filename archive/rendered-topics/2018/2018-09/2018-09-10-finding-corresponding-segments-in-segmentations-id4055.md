@@ -1,3 +1,10 @@
+---
+topic_id: 4055
+title: "Finding Corresponding Segments In Segmentations"
+date: 2018-09-10
+url: https://discourse.slicer.org/t/4055
+---
+
 # Finding corresponding segments in segmentations
 
 **Topic ID**: 4055

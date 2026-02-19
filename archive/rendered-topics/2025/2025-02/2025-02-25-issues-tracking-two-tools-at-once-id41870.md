@@ -1,3 +1,10 @@
+---
+topic_id: 41870
+title: "Issues Tracking Two Tools At Once"
+date: 2025-02-25
+url: https://discourse.slicer.org/t/41870
+---
+
 # Issues tracking two tools at once
 
 **Topic ID**: 41870

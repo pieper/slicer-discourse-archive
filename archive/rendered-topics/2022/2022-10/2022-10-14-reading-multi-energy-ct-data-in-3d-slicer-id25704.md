@@ -1,3 +1,10 @@
+---
+topic_id: 25704
+title: "Reading Multi Energy Ct Data In 3D Slicer"
+date: 2022-10-14
+url: https://discourse.slicer.org/t/25704
+---
+
 # Reading Multi-energy CT data in 3D Slicer
 
 **Topic ID**: 25704

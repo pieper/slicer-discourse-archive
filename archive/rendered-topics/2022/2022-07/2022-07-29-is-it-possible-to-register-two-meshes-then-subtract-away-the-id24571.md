@@ -1,3 +1,10 @@
+---
+topic_id: 24571
+title: "Is It Possible To Register Two Meshes Then Subtract Away The"
+date: 2022-07-29
+url: https://discourse.slicer.org/t/24571
+---
+
 # Is it possible to register two meshes then subtract away the overlapping region?
 
 **Topic ID**: 24571

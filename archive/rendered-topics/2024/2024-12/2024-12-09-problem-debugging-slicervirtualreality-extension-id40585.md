@@ -1,3 +1,10 @@
+---
+topic_id: 40585
+title: "Problem Debugging Slicervirtualreality Extension"
+date: 2024-12-09
+url: https://discourse.slicer.org/t/40585
+---
+
 # Problem debugging SlicerVirtualReality extension
 
 **Topic ID**: 40585

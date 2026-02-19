@@ -1,3 +1,10 @@
+---
+topic_id: 15469
+title: "X Ray Image Enhancement Extension In Slicer"
+date: 2021-01-12
+url: https://discourse.slicer.org/t/15469
+---
+
 # X ray Image enhancement extension in slicer?
 
 **Topic ID**: 15469

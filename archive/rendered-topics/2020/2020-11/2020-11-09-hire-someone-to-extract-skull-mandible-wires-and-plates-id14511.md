@@ -1,3 +1,10 @@
+---
+topic_id: 14511
+title: "Hire Someone To Extract Skull Mandible Wires And Plates"
+date: 2020-11-09
+url: https://discourse.slicer.org/t/14511
+---
+
 # Hire someone to extract Skull + Mandible + wires and plates
 
 **Topic ID**: 14511

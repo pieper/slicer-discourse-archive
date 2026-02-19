@@ -1,3 +1,10 @@
+---
+topic_id: 4664
+title: "4D Data Registration To Generate Motion Equations For Cfd Pr"
+date: 2018-11-06
+url: https://discourse.slicer.org/t/4664
+---
+
 # 4D Data Registration To Generate Motion Equations for CFD Programs
 
 **Topic ID**: 4664

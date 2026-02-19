@@ -1,3 +1,10 @@
+---
+topic_id: 2931
+title: "Create A Volumetric Mesh"
+date: 2018-05-25
+url: https://discourse.slicer.org/t/2931
+---
+
 # Create a volumetric mesh
 
 **Topic ID**: 2931

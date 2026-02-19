@@ -1,3 +1,10 @@
+---
+topic_id: 35909
+title: "How To Segment Volumenode Just Based A Given Plane"
+date: 2024-05-04
+url: https://discourse.slicer.org/t/35909
+---
+
 # How to segment volumenode just based a given plane
 
 **Topic ID**: 35909

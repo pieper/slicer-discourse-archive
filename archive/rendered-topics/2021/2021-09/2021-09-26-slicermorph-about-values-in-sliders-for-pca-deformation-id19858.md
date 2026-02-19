@@ -1,3 +1,10 @@
+---
+topic_id: 19858
+title: "Slicermorph About Values In Sliders For Pca Deformation"
+date: 2021-09-26
+url: https://discourse.slicer.org/t/19858
+---
+
 # SlicerMorph: about values in sliders for PCA deformation
 
 **Topic ID**: 19858

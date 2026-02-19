@@ -1,3 +1,10 @@
+---
+topic_id: 30877
+title: "Make Model Out Of Binary Cluster Image Mri Nifti"
+date: 2023-07-30
+url: https://discourse.slicer.org/t/30877
+---
+
 # Make model out of binary cluster image (MRI - nifti)
 
 **Topic ID**: 30877

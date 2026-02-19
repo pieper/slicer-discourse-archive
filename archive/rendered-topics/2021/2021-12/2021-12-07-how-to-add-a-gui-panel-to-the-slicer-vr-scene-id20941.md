@@ -1,3 +1,10 @@
+---
+topic_id: 20941
+title: "How To Add A Gui Panel To The Slicer Vr Scene"
+date: 2021-12-07
+url: https://discourse.slicer.org/t/20941
+---
+
 # How to add a GUI panel to the Slicer VR scene
 
 **Topic ID**: 20941

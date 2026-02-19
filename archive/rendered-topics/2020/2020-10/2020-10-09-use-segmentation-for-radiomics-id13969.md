@@ -1,3 +1,10 @@
+---
+topic_id: 13969
+title: "Use Segmentation For Radiomics"
+date: 2020-10-09
+url: https://discourse.slicer.org/t/13969
+---
+
 # Use segmentation for radiomics
 
 **Topic ID**: 13969

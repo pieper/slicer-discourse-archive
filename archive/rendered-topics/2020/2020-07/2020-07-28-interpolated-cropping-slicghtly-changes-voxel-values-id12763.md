@@ -1,3 +1,10 @@
+---
+topic_id: 12763
+title: "Interpolated Cropping Slicghtly Changes Voxel Values"
+date: 2020-07-28
+url: https://discourse.slicer.org/t/12763
+---
+
 # Interpolated cropping slicghtly changes voxel values
 
 **Topic ID**: 12763

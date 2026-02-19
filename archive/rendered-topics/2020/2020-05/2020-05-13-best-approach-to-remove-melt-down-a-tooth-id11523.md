@@ -1,3 +1,10 @@
+---
+topic_id: 11523
+title: "Best Approach To Remove Melt Down A Tooth"
+date: 2020-05-13
+url: https://discourse.slicer.org/t/11523
+---
+
 # Best approach to remove (melt down) a tooth
 
 **Topic ID**: 11523

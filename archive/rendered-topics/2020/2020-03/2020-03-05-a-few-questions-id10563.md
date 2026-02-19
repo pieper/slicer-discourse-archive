@@ -1,3 +1,10 @@
+---
+topic_id: 10563
+title: "A Few Questions"
+date: 2020-03-05
+url: https://discourse.slicer.org/t/10563
+---
+
 # A few questions
 
 **Topic ID**: 10563

@@ -1,3 +1,10 @@
+---
+topic_id: 12371
+title: "Uploading Vox Image"
+date: 2020-07-04
+url: https://discourse.slicer.org/t/12371
+---
+
 # Uploading .VOX image
 
 **Topic ID**: 12371

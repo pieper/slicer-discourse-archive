@@ -1,3 +1,10 @@
+---
+topic_id: 15783
+title: "Slicer Cervical Bone"
+date: 2021-02-01
+url: https://discourse.slicer.org/t/15783
+---
+
 # Slicer cervical bone
 
 **Topic ID**: 15783

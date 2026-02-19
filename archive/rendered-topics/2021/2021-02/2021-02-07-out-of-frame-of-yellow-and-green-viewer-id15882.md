@@ -1,3 +1,10 @@
+---
+topic_id: 15882
+title: "Out Of Frame Of Yellow And Green Viewer"
+date: 2021-02-07
+url: https://discourse.slicer.org/t/15882
+---
+
 # Out of frame of yellow and green viewer
 
 **Topic ID**: 15882

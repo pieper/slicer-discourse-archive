@@ -1,3 +1,10 @@
+---
+topic_id: 35860
+title: "3D Slicer Monailabel Custom Labels"
+date: 2024-05-01
+url: https://discourse.slicer.org/t/35860
+---
+
 # 3d Slicer - MonaiLabel - custom labels
 
 **Topic ID**: 35860

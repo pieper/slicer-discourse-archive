@@ -1,3 +1,10 @@
+---
+topic_id: 4471
+title: "Preset For Better Visualization Of Bladder Prostate"
+date: 2018-10-19
+url: https://discourse.slicer.org/t/4471
+---
+
 # Preset for better visualization of bladder/prostate.
 
 **Topic ID**: 4471

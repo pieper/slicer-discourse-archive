@@ -1,3 +1,10 @@
+---
+topic_id: 25503
+title: "How To Create New Segmentation From Growing Margins"
+date: 2022-09-30
+url: https://discourse.slicer.org/t/25503
+---
+
 # How to create new segmentation from growing margins
 
 **Topic ID**: 25503

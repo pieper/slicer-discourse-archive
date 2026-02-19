@@ -1,3 +1,10 @@
+---
+topic_id: 9449
+title: "Problems In Use Nrrd Format From 3D Slicer In Python"
+date: 2019-12-09
+url: https://discourse.slicer.org/t/9449
+---
+
 # Problems in use .nrrd format from 3d slicer in python.
 
 **Topic ID**: 9449

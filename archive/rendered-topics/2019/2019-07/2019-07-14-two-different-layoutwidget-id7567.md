@@ -1,3 +1,10 @@
+---
+topic_id: 7567
+title: "Two Different Layoutwidget"
+date: 2019-07-14
+url: https://discourse.slicer.org/t/7567
+---
+
 # Two different layoutWidget
 
 **Topic ID**: 7567

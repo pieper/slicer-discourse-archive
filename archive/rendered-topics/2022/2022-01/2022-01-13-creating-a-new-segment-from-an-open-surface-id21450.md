@@ -1,3 +1,10 @@
+---
+topic_id: 21450
+title: "Creating A New Segment From An Open Surface"
+date: 2022-01-13
+url: https://discourse.slicer.org/t/21450
+---
+
 # Creating a new segment from an open surface
 
 **Topic ID**: 21450

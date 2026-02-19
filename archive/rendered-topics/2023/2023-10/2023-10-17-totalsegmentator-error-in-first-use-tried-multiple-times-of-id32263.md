@@ -1,3 +1,10 @@
+---
+topic_id: 32263
+title: "Totalsegmentator Error In First Use Tried Multiple Times Of"
+date: 2023-10-17
+url: https://discourse.slicer.org/t/32263
+---
+
 # Totalsegmentator error in first use, tried multiple times of uninstall and reinstall
 
 **Topic ID**: 32263

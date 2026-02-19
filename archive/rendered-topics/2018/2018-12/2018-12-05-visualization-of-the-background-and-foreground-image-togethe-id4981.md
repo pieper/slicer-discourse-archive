@@ -1,3 +1,10 @@
+---
+topic_id: 4981
+title: "Visualization Of The Background And Foreground Image Togethe"
+date: 2018-12-05
+url: https://discourse.slicer.org/t/4981
+---
+
 # Visualization of the background and foreground image together
 
 **Topic ID**: 4981

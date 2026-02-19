@@ -1,3 +1,10 @@
+---
+topic_id: 7472
+title: "Slicer 4 11 Segment Editor Extra Effects Edit Button Functio"
+date: 2019-07-08
+url: https://discourse.slicer.org/t/7472
+---
+
 # Slicer 4.11 Segment Editor extra effects edit button functionality error
 
 **Topic ID**: 7472

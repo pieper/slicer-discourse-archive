@@ -1,3 +1,10 @@
+---
+topic_id: 32861
+title: "How To Slice Through The Model Like When Browsing A Series O"
+date: 2023-11-16
+url: https://discourse.slicer.org/t/32861
+---
+
 # How to "slice through" the model, like when browsing a series of images?
 
 **Topic ID**: 32861

@@ -1,3 +1,10 @@
+---
+topic_id: 28168
+title: "Exporting Segmentation As Dcm"
+date: 2023-03-04
+url: https://discourse.slicer.org/t/28168
+---
+
 # Exporting segmentation as dcm
 
 **Topic ID**: 28168

@@ -1,3 +1,10 @@
+---
+topic_id: 4097
+title: "2018 09 13 Only Nightly Slicer Packages Do Not Expect Extens"
+date: 2018-09-13
+url: https://discourse.slicer.org/t/4097
+---
+
 # 2018.09.13: Only nightly Slicer packages - do not expect extensions this morning
 
 **Topic ID**: 4097

@@ -1,3 +1,10 @@
+---
+topic_id: 372
+title: "Extensionwizard Hangs"
+date: 2017-05-24
+url: https://discourse.slicer.org/t/372
+---
+
 # ExtensionWizard hangs
 
 **Topic ID**: 372

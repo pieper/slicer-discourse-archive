@@ -1,3 +1,10 @@
+---
+topic_id: 16932
+title: "Save Dicom As A Coronal"
+date: 2021-04-02
+url: https://discourse.slicer.org/t/16932
+---
+
 # Save DICOM as a coronal
 
 **Topic ID**: 16932

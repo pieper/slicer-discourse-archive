@@ -1,3 +1,10 @@
+---
+topic_id: 15010
+title: "Affine Registration Of Ct To Optical Volumes"
+date: 2020-12-12
+url: https://discourse.slicer.org/t/15010
+---
+
 # Affine Registration of CT to Optical Volumes
 
 **Topic ID**: 15010

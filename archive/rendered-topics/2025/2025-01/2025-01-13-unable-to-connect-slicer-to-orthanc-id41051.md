@@ -1,3 +1,10 @@
+---
+topic_id: 41051
+title: "Unable To Connect Slicer To Orthanc"
+date: 2025-01-13
+url: https://discourse.slicer.org/t/41051
+---
+
 # Unable to connect Slicer to ORTHANC
 
 **Topic ID**: 41051

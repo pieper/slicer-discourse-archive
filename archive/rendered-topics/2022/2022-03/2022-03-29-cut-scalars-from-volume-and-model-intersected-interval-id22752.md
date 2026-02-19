@@ -1,3 +1,10 @@
+---
+topic_id: 22752
+title: "Cut Scalars From Volume And Model Intersected Interval"
+date: 2022-03-29
+url: https://discourse.slicer.org/t/22752
+---
+
 # Cut scalars from volume and model intersected interval
 
 **Topic ID**: 22752

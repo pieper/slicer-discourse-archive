@@ -1,3 +1,10 @@
+---
+topic_id: 24515
+title: "Itk Simple Filters Subtractimagefilter"
+date: 2022-07-27
+url: https://discourse.slicer.org/t/24515
+---
+
 # ITK Simple Filters SubtractImageFilter
 
 **Topic ID**: 24515

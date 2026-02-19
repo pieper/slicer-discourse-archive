@@ -1,3 +1,10 @@
+---
+topic_id: 10811
+title: "Source Code Of Setvolumerenderingquality"
+date: 2020-03-24
+url: https://discourse.slicer.org/t/10811
+---
+
 # Source code of SetVolumeRenderingQuality
 
 **Topic ID**: 10811

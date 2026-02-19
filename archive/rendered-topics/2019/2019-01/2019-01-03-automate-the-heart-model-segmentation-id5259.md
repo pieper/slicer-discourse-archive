@@ -1,3 +1,10 @@
+---
+topic_id: 5259
+title: "Automate The Heart Model Segmentation"
+date: 2019-01-03
+url: https://discourse.slicer.org/t/5259
+---
+
 # Automate the heart model segmentation
 
 **Topic ID**: 5259

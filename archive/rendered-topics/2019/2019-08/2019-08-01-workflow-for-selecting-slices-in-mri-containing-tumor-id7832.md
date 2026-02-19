@@ -1,3 +1,10 @@
+---
+topic_id: 7832
+title: "Workflow For Selecting Slices In Mri Containing Tumor"
+date: 2019-08-01
+url: https://discourse.slicer.org/t/7832
+---
+
 # Workflow for selecting slices in MRI containing tumor
 
 **Topic ID**: 7832

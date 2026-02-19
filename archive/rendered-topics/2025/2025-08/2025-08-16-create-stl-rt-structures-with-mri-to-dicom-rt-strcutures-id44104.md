@@ -1,3 +1,10 @@
+---
+topic_id: 44104
+title: "Create Stl Rt Structures With Mri To Dicom Rt Strcutures"
+date: 2025-08-16
+url: https://discourse.slicer.org/t/44104
+---
+
 # Create STL RT Structures with MRI  to DICOM RT Strcutures
 
 **Topic ID**: 44104

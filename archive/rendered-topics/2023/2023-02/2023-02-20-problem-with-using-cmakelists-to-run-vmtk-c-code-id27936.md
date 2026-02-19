@@ -1,3 +1,10 @@
+---
+topic_id: 27936
+title: "Problem With Using Cmakelists To Run Vmtk C Code"
+date: 2023-02-20
+url: https://discourse.slicer.org/t/27936
+---
+
 # Problem with using 【CMakeLists】 to run 【VMTK c++】 code
 
 **Topic ID**: 27936

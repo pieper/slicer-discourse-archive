@@ -1,3 +1,10 @@
+---
+topic_id: 25914
+title: "Transform And Harden To Establish Orthogonal View"
+date: 2022-10-26
+url: https://discourse.slicer.org/t/25914
+---
+
 # Transform and Harden to establish Orthogonal view
 
 **Topic ID**: 25914

@@ -1,3 +1,10 @@
+---
+topic_id: 41376
+title: "Converting The Physical Dose To Biologically Effective Dose"
+date: 2025-01-30
+url: https://discourse.slicer.org/t/41376
+---
+
 # Converting the physical dose to biologically effective dose (BED)
 
 **Topic ID**: 41376

@@ -1,3 +1,10 @@
+---
+topic_id: 24606
+title: "Add Or Maintain Window Level Preset"
+date: 2022-08-02
+url: https://discourse.slicer.org/t/24606
+---
+
 # Add or maintain window level preset
 
 **Topic ID**: 24606

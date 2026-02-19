@@ -1,3 +1,10 @@
+---
+topic_id: 4114
+title: "Can I Import Polydata Of Vtk With Python"
+date: 2018-09-14
+url: https://discourse.slicer.org/t/4114
+---
+
 # Can I import PolyData of vtk with python
 
 **Topic ID**: 4114

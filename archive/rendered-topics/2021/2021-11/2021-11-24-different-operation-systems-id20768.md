@@ -1,3 +1,10 @@
+---
+topic_id: 20768
+title: "Different Operation Systems"
+date: 2021-11-24
+url: https://discourse.slicer.org/t/20768
+---
+
 # Different operation systems
 
 **Topic ID**: 20768

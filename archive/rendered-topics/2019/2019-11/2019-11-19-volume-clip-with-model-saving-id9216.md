@@ -1,3 +1,10 @@
+---
+topic_id: 9216
+title: "Volume Clip With Model Saving"
+date: 2019-11-19
+url: https://discourse.slicer.org/t/9216
+---
+
 # Volume clip with model saving
 
 **Topic ID**: 9216

@@ -1,3 +1,10 @@
+---
+topic_id: 4134
+title: "Can I Run Conda In Cli"
+date: 2018-09-18
+url: https://discourse.slicer.org/t/4134
+---
+
 # Can I run conda in CLI?
 
 **Topic ID**: 4134

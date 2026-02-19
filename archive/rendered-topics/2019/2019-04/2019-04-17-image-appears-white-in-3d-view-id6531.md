@@ -1,3 +1,10 @@
+---
+topic_id: 6531
+title: "Image Appears White In 3D View"
+date: 2019-04-17
+url: https://discourse.slicer.org/t/6531
+---
+
 # Image appears white in 3D view
 
 **Topic ID**: 6531

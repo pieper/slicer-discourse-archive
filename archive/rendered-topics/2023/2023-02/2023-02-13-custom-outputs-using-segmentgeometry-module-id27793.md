@@ -1,3 +1,10 @@
+---
+topic_id: 27793
+title: "Custom Outputs Using Segmentgeometry Module"
+date: 2023-02-13
+url: https://discourse.slicer.org/t/27793
+---
+
 # Custom outputs using SegmentGeometry module
 
 **Topic ID**: 27793

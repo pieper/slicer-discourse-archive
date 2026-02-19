@@ -1,3 +1,10 @@
+---
+topic_id: 21415
+title: "Package Executables With Extension"
+date: 2022-01-11
+url: https://discourse.slicer.org/t/21415
+---
+
 # Package executables with extension
 
 **Topic ID**: 21415

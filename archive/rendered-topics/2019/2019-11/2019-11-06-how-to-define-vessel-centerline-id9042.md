@@ -1,3 +1,10 @@
+---
+topic_id: 9042
+title: "How To Define Vessel Centerline"
+date: 2019-11-06
+url: https://discourse.slicer.org/t/9042
+---
+
 # How to define vessel centerline
 
 **Topic ID**: 9042

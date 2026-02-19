@@ -1,3 +1,10 @@
+---
+topic_id: 7596
+title: "Mixing Modules And Extensions"
+date: 2019-07-15
+url: https://discourse.slicer.org/t/7596
+---
+
 # Mixing Modules, and Extensions
 
 **Topic ID**: 7596

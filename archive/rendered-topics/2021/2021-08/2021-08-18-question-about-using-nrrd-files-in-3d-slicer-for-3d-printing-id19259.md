@@ -1,3 +1,10 @@
+---
+topic_id: 19259
+title: "Question About Using Nrrd Files In 3D Slicer For 3D Printing"
+date: 2021-08-18
+url: https://discourse.slicer.org/t/19259
+---
+
 # Question about using NRRD files in 3D Slicer for 3D printing
 
 **Topic ID**: 19259

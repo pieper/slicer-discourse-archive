@@ -1,3 +1,10 @@
+---
+topic_id: 36976
+title: "Facing Issue In Make Command"
+date: 2024-06-24
+url: https://discourse.slicer.org/t/36976
+---
+
 # facing issue in make command
 
 **Topic ID**: 36976

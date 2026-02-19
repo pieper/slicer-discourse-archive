@@ -1,3 +1,10 @@
+---
+topic_id: 23289
+title: "Export Surface Textures Of Roi As Images"
+date: 2022-05-05
+url: https://discourse.slicer.org/t/23289
+---
+
 # Export surface textures of ROI as images
 
 **Topic ID**: 23289

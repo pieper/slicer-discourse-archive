@@ -1,3 +1,10 @@
+---
+topic_id: 14777
+title: "Thicken Segmentation Border"
+date: 2020-11-25
+url: https://discourse.slicer.org/t/14777
+---
+
 # Thicken Segmentation Border
 
 **Topic ID**: 14777

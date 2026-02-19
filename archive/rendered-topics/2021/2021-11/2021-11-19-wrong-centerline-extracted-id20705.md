@@ -1,3 +1,10 @@
+---
+topic_id: 20705
+title: "Wrong Centerline Extracted"
+date: 2021-11-19
+url: https://discourse.slicer.org/t/20705
+---
+
 # Wrong centerline extracted
 
 **Topic ID**: 20705

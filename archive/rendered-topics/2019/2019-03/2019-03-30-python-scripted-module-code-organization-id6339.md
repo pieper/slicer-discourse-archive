@@ -1,3 +1,10 @@
+---
+topic_id: 6339
+title: "Python Scripted Module Code Organization"
+date: 2019-03-30
+url: https://discourse.slicer.org/t/6339
+---
+
 # Python scripted module code organization
 
 **Topic ID**: 6339

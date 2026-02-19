@@ -1,3 +1,10 @@
+---
+topic_id: 14766
+title: "Segment Editor Undo Queue Length"
+date: 2020-11-25
+url: https://discourse.slicer.org/t/14766
+---
+
 # Segment Editor undo queue length
 
 **Topic ID**: 14766

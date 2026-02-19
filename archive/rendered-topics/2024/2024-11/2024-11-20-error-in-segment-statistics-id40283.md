@@ -1,3 +1,10 @@
+---
+topic_id: 40283
+title: "Error In Segment Statistics"
+date: 2024-11-20
+url: https://discourse.slicer.org/t/40283
+---
+
 # Error in segment statistics
 
 **Topic ID**: 40283

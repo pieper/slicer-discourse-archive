@@ -1,3 +1,10 @@
+---
+topic_id: 44912
+title: "Cross Section Analysis"
+date: 2025-10-29
+url: https://discourse.slicer.org/t/44912
+---
+
 # Cross-section analysis
 
 **Topic ID**: 44912

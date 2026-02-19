@@ -1,3 +1,10 @@
+---
+topic_id: 32516
+title: "Extension Is Not Showing Up After Installing From Zip File"
+date: 2023-11-01
+url: https://discourse.slicer.org/t/32516
+---
+
 # Extension is not showing up after installing from zip file
 
 **Topic ID**: 32516

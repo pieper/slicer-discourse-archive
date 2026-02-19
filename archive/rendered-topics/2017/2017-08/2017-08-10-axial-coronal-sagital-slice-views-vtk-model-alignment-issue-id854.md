@@ -1,3 +1,10 @@
+---
+topic_id: 854
+title: "Axial Coronal Sagital Slice Views Vtk Model Alignment Issue"
+date: 2017-08-10
+url: https://discourse.slicer.org/t/854
+---
+
 # AXIAL, CORONAL, SAGITAL, Slice Views - VTK model alignment Issue
 
 **Topic ID**: 854

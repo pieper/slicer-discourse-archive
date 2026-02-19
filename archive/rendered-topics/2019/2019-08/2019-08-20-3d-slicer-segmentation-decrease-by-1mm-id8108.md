@@ -1,3 +1,10 @@
+---
+topic_id: 8108
+title: "3D Slicer Segmentation Decrease By 1Mm"
+date: 2019-08-20
+url: https://discourse.slicer.org/t/8108
+---
+
 # 3d Slicer segmentation decrease by 1mm
 
 **Topic ID**: 8108

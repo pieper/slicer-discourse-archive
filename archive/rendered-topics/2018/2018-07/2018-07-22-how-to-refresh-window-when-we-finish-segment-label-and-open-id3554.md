@@ -1,3 +1,10 @@
+---
+topic_id: 3554
+title: "How To Refresh Window When We Finish Segment Label And Open"
+date: 2018-07-22
+url: https://discourse.slicer.org/t/3554
+---
+
 # How to refresh window when we finish segment & label and open another patient's dicom file
 
 **Topic ID**: 3554

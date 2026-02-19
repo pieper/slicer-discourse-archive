@@ -1,3 +1,10 @@
+---
+topic_id: 35306
+title: "How To Duplicate A Segment In A Different Segmentation"
+date: 2024-04-05
+url: https://discourse.slicer.org/t/35306
+---
+
 # How to duplicate a segment in a different segmentation?
 
 **Topic ID**: 35306

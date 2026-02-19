@@ -1,3 +1,10 @@
+---
+topic_id: 17715
+title: "Change The Background Color Black To White In Red Yellow And"
+date: 2021-05-20
+url: https://discourse.slicer.org/t/17715
+---
+
 # Change the background color black to white? in red, yellow and green slices?
 
 **Topic ID**: 17715

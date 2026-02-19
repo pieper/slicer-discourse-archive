@@ -1,3 +1,10 @@
+---
+topic_id: 9445
+title: "Software Developer Medical Imaging"
+date: 2019-12-09
+url: https://discourse.slicer.org/t/9445
+---
+
 # Software developer - Medical Imaging
 
 **Topic ID**: 9445

@@ -1,3 +1,10 @@
+---
+topic_id: 258
+title: "Threshold On Segment"
+date: 2017-05-03
+url: https://discourse.slicer.org/t/258
+---
+
 # Threshold on Segment
 
 **Topic ID**: 258

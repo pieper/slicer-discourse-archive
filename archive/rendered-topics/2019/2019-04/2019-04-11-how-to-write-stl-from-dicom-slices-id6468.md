@@ -1,3 +1,10 @@
+---
+topic_id: 6468
+title: "How To Write Stl From Dicom Slices"
+date: 2019-04-11
+url: https://discourse.slicer.org/t/6468
+---
+
 # How to write STL from dicom slices
 
 **Topic ID**: 6468

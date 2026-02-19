@@ -1,3 +1,10 @@
+---
+topic_id: 19611
+title: "Any Way To Move Segmentations To Match The Newly Registered"
+date: 2021-09-10
+url: https://discourse.slicer.org/t/19611
+---
+
 # Any way to move segmentations to match the newly registered volumes?
 
 **Topic ID**: 19611

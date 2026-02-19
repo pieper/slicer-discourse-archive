@@ -1,3 +1,10 @@
+---
+topic_id: 28162
+title: "Apply Transfer Function To 2D Slices"
+date: 2023-03-03
+url: https://discourse.slicer.org/t/28162
+---
+
 # Apply transfer function to 2D slices
 
 **Topic ID**: 28162

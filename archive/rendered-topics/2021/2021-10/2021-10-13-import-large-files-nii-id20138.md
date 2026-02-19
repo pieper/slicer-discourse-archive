@@ -1,3 +1,10 @@
+---
+topic_id: 20138
+title: "Import Large Files Nii"
+date: 2021-10-13
+url: https://discourse.slicer.org/t/20138
+---
+
 # import large files .nii
 
 **Topic ID**: 20138

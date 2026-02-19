@@ -1,3 +1,10 @@
+---
+topic_id: 21683
+title: "Principal Components Analysis In Slicermorph"
+date: 2022-01-25
+url: https://discourse.slicer.org/t/21683
+---
+
 # Principal components analysis in SlicerMorph
 
 **Topic ID**: 21683

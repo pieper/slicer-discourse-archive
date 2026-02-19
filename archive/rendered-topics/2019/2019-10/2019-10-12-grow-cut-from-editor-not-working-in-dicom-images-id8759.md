@@ -1,3 +1,10 @@
+---
+topic_id: 8759
+title: "Grow Cut From Editor Not Working In Dicom Images"
+date: 2019-10-12
+url: https://discourse.slicer.org/t/8759
+---
+
 # Grow cut from editor not working in dicom images
 
 **Topic ID**: 8759

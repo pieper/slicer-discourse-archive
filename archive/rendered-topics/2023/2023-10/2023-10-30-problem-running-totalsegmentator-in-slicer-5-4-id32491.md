@@ -1,3 +1,10 @@
+---
+topic_id: 32491
+title: "Problem Running Totalsegmentator In Slicer 5 4"
+date: 2023-10-30
+url: https://discourse.slicer.org/t/32491
+---
+
 # Problem running TotalSegmentator in Slicer-5.4
 
 **Topic ID**: 32491

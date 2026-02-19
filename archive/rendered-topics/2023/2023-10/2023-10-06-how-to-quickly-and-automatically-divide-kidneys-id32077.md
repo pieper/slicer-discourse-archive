@@ -1,3 +1,10 @@
+---
+topic_id: 32077
+title: "How To Quickly And Automatically Divide Kidneys"
+date: 2023-10-06
+url: https://discourse.slicer.org/t/32077
+---
+
 # How to quickly and automatically divide kidneys
 
 **Topic ID**: 32077

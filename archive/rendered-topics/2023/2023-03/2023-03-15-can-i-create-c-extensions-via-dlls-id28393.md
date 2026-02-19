@@ -1,3 +1,10 @@
+---
+topic_id: 28393
+title: "Can I Create C Extensions Via Dlls"
+date: 2023-03-15
+url: https://discourse.slicer.org/t/28393
+---
+
 # Can I create c++ extensions via DLLs?
 
 **Topic ID**: 28393

@@ -1,3 +1,10 @@
+---
+topic_id: 28135
+title: "Using Paint Or Smoothing Tool Spoils The Segment"
+date: 2023-03-02
+url: https://discourse.slicer.org/t/28135
+---
+
 # Using Paint or Smoothing tool spoils the segment
 
 **Topic ID**: 28135

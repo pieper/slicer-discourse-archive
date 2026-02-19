@@ -1,3 +1,10 @@
+---
+topic_id: 8680
+title: "Op Planer How To Rotate A Plane 7 5 And Move 23 6 Mm"
+date: 2019-10-05
+url: https://discourse.slicer.org/t/8680
+---
+
 # OP-planer: how to rotate a plane 7,5° and move 23,6 mm
 
 **Topic ID**: 8680

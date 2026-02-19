@@ -1,3 +1,10 @@
+---
+topic_id: 15028
+title: "3D Print Fetus Issue"
+date: 2020-12-12
+url: https://discourse.slicer.org/t/15028
+---
+
 # 3d print fetus issue
 
 **Topic ID**: 15028

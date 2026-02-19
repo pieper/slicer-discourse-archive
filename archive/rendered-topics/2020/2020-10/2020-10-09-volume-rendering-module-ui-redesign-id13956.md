@@ -1,3 +1,10 @@
+---
+topic_id: 13956
+title: "Volume Rendering Module Ui Redesign"
+date: 2020-10-09
+url: https://discourse.slicer.org/t/13956
+---
+
 # Volume Rendering module UI redesign
 
 **Topic ID**: 13956

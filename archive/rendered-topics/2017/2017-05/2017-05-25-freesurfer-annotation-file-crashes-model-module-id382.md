@@ -1,3 +1,10 @@
+---
+topic_id: 382
+title: "Freesurfer Annotation File Crashes Model Module"
+date: 2017-05-25
+url: https://discourse.slicer.org/t/382
+---
+
 # Freesurfer annotation file crashes model module
 
 **Topic ID**: 382

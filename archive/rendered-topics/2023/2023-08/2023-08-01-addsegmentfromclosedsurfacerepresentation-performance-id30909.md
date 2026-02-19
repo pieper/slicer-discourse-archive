@@ -1,3 +1,10 @@
+---
+topic_id: 30909
+title: "Addsegmentfromclosedsurfacerepresentation Performance"
+date: 2023-08-01
+url: https://discourse.slicer.org/t/30909
+---
+
 # AddSegmentFromClosedSurfaceRepresentation performance
 
 **Topic ID**: 30909

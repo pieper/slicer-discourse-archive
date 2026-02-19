@@ -1,3 +1,10 @@
+---
+topic_id: 26697
+title: "Volume Rendering Lung Vessels Segmentation Without Contrast"
+date: 2022-12-12
+url: https://discourse.slicer.org/t/26697
+---
+
 # Volume Rendering - Lung Vessels segmentation without contrast
 
 **Topic ID**: 26697

@@ -1,3 +1,10 @@
+---
+topic_id: 7019
+title: "Compiling Slicer 4 10 X With Slicer Virtual Reality"
+date: 2019-06-04
+url: https://discourse.slicer.org/t/7019
+---
+
 # Compiling slicer 4.10.x with slicer Virtual Reality
 
 **Topic ID**: 7019

@@ -1,3 +1,10 @@
+---
+topic_id: 25433
+title: "Segmentationunet Logic Module"
+date: 2022-09-26
+url: https://discourse.slicer.org/t/25433
+---
+
 # SegmentationUNet Logic Module
 
 **Topic ID**: 25433

@@ -1,3 +1,10 @@
+---
+topic_id: 24503
+title: "Export Mean Hu Values Along Path Or Tube"
+date: 2022-07-26
+url: https://discourse.slicer.org/t/24503
+---
+
 # Export mean HU values along path (or tube)
 
 **Topic ID**: 24503

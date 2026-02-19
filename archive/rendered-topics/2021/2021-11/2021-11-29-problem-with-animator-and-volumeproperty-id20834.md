@@ -1,3 +1,10 @@
+---
+topic_id: 20834
+title: "Problem With Animator And Volumeproperty"
+date: 2021-11-29
+url: https://discourse.slicer.org/t/20834
+---
+
 # Problem with Animator and VolumeProperty
 
 **Topic ID**: 20834

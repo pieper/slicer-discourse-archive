@@ -1,3 +1,10 @@
+---
+topic_id: 12020
+title: "Curve Visible In 2D Views"
+date: 2020-06-14
+url: https://discourse.slicer.org/t/12020
+---
+
 # Curve visible in 2D views?
 
 **Topic ID**: 12020

@@ -1,3 +1,10 @@
+---
+topic_id: 39775
+title: "Position Of The 3D Image And Its Cross Section Do Not Match"
+date: 2024-10-21
+url: https://discourse.slicer.org/t/39775
+---
+
 # Position of the 3D image and its cross section do not match
 
 **Topic ID**: 39775

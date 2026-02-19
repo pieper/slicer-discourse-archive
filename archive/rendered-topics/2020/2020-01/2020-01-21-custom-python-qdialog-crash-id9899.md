@@ -1,3 +1,10 @@
+---
+topic_id: 9899
+title: "Custom Python Qdialog Crash"
+date: 2020-01-21
+url: https://discourse.slicer.org/t/9899
+---
+
 # Custom Python QDialog crash
 
 **Topic ID**: 9899

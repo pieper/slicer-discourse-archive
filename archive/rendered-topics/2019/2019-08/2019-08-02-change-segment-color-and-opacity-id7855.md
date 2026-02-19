@@ -1,3 +1,10 @@
+---
+topic_id: 7855
+title: "Change Segment Color And Opacity"
+date: 2019-08-02
+url: https://discourse.slicer.org/t/7855
+---
+
 # Change segment color and opacity
 
 **Topic ID**: 7855

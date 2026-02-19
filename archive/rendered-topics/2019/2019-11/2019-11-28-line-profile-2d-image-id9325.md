@@ -1,3 +1,10 @@
+---
+topic_id: 9325
+title: "Line Profile 2D Image"
+date: 2019-11-28
+url: https://discourse.slicer.org/t/9325
+---
+
 # Line Profile - 2D image
 
 **Topic ID**: 9325

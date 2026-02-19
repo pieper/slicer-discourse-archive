@@ -1,3 +1,10 @@
+---
+topic_id: 36856
+title: "Two Segments One As A Surface And The Other As A Regular Seg"
+date: 2024-06-18
+url: https://discourse.slicer.org/t/36856
+---
+
 # Two segments, one as a surface and the other as a regular segment. Can we use this surface segment to divide the regular segment in half
 
 **Topic ID**: 36856

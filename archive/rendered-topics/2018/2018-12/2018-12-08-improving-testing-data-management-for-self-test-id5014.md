@@ -1,3 +1,10 @@
+---
+topic_id: 5014
+title: "Improving Testing Data Management For Self Test"
+date: 2018-12-08
+url: https://discourse.slicer.org/t/5014
+---
+
 # Improving testing data management for "self-test"
 
 **Topic ID**: 5014

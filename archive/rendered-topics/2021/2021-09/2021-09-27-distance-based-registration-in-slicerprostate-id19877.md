@@ -1,3 +1,10 @@
+---
+topic_id: 19877
+title: "Distance Based Registration In Slicerprostate"
+date: 2021-09-27
+url: https://discourse.slicer.org/t/19877
+---
+
 # Distance Based Registration in SlicerProstate
 
 **Topic ID**: 19877

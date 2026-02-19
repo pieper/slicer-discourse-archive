@@ -1,3 +1,10 @@
+---
+topic_id: 27779
+title: "How I Can Find The Center Of The Humeroulnar Joint Using 3D"
+date: 2023-02-12
+url: https://discourse.slicer.org/t/27779
+---
+
 # How I can find the center of the humeroulnar joint using 3d slicer ?
 
 **Topic ID**: 27779

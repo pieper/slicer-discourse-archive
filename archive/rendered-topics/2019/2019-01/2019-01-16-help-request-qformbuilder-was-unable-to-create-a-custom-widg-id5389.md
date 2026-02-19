@@ -1,3 +1,10 @@
+---
+topic_id: 5389
+title: "Help Request Qformbuilder Was Unable To Create A Custom Widg"
+date: 2019-01-16
+url: https://discourse.slicer.org/t/5389
+---
+
 # [Help Request] QFormBuilder was unable to create a custom widget
 
 **Topic ID**: 5389

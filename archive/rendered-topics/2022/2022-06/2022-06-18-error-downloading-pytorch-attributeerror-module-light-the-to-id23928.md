@@ -1,3 +1,10 @@
+---
+topic_id: 23928
+title: "Error Downloading Pytorch Attributeerror Module Light The To"
+date: 2022-06-18
+url: https://discourse.slicer.org/t/23928
+---
+
 # Error downloading pytorch: "AttributeError: module ‘light_the_torch’ has no attribute ‘find_links’"
 
 **Topic ID**: 23928

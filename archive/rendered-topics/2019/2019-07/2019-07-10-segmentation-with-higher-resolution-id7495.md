@@ -1,3 +1,10 @@
+---
+topic_id: 7495
+title: "Segmentation With Higher Resolution"
+date: 2019-07-10
+url: https://discourse.slicer.org/t/7495
+---
+
 # Segmentation with higher resolution
 
 **Topic ID**: 7495

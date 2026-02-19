@@ -1,3 +1,10 @@
+---
+topic_id: 33589
+title: "Add The Missing Top Of A Skull From A Ct Image To A Segmenta"
+date: 2024-01-02
+url: https://discourse.slicer.org/t/33589
+---
+
 # Add the missing top of a skull from a CT image to a segmentation for 3D model
 
 **Topic ID**: 33589

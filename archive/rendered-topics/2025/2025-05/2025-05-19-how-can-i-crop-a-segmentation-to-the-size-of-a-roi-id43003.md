@@ -1,3 +1,10 @@
+---
+topic_id: 43003
+title: "How Can I Crop A Segmentation To The Size Of A Roi"
+date: 2025-05-19
+url: https://discourse.slicer.org/t/43003
+---
+
 # How can I crop a segmentation to the size of a ROI?
 
 **Topic ID**: 43003

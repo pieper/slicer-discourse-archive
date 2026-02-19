@@ -1,3 +1,10 @@
+---
+topic_id: 38248
+title: "Saving Landmark Files For Alpaca Details Requested"
+date: 2024-09-06
+url: https://discourse.slicer.org/t/38248
+---
+
 # Saving landmark files for ALPACA - details requested
 
 **Topic ID**: 38248

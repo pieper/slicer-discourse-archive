@@ -1,3 +1,10 @@
+---
+topic_id: 19661
+title: "More Efficient Resampling"
+date: 2021-09-14
+url: https://discourse.slicer.org/t/19661
+---
+
 # More efficient resampling
 
 **Topic ID**: 19661

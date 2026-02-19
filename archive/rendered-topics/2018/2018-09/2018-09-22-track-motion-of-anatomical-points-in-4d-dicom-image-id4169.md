@@ -1,3 +1,10 @@
+---
+topic_id: 4169
+title: "Track Motion Of Anatomical Points In 4D Dicom Image"
+date: 2018-09-22
+url: https://discourse.slicer.org/t/4169
+---
+
 # Track motion of anatomical points in 4D DICOM image
 
 **Topic ID**: 4169

@@ -1,3 +1,10 @@
+---
+topic_id: 16241
+title: "Convert Rt Structure To Nrrd"
+date: 2021-02-26
+url: https://discourse.slicer.org/t/16241
+---
+
 # Convert RT structure to Nrrd
 
 **Topic ID**: 16241

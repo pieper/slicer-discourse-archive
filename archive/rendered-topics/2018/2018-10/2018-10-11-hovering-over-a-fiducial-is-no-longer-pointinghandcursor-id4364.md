@@ -1,3 +1,10 @@
+---
+topic_id: 4364
+title: "Hovering Over A Fiducial Is No Longer Pointinghandcursor"
+date: 2018-10-11
+url: https://discourse.slicer.org/t/4364
+---
+
 # Hovering over a fiducial is no longer PointingHandCursor
 
 **Topic ID**: 4364

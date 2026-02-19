@@ -1,3 +1,10 @@
+---
+topic_id: 12252
+title: "Elongation Of Segments In A 3D Volume"
+date: 2020-06-28
+url: https://discourse.slicer.org/t/12252
+---
+
 # Elongation of segments in a 3D volume
 
 **Topic ID**: 12252

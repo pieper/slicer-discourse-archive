@@ -1,3 +1,10 @@
+---
+topic_id: 1265
+title: "Interact With 3D Model"
+date: 2017-10-23
+url: https://discourse.slicer.org/t/1265
+---
+
 # Interact with 3D model
 
 **Topic ID**: 1265

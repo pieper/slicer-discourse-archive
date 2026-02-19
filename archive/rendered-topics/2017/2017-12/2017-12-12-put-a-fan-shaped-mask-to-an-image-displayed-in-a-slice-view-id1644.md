@@ -1,3 +1,10 @@
+---
+topic_id: 1644
+title: "Put A Fan Shaped Mask To An Image Displayed In A Slice View"
+date: 2017-12-12
+url: https://discourse.slicer.org/t/1644
+---
+
 # Put a fan-shaped mask to an image displayed in a slice view
 
 **Topic ID**: 1644

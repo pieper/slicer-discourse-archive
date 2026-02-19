@@ -1,3 +1,10 @@
+---
+topic_id: 37361
+title: "How To Load Aim Annotations On Top Of The Scans"
+date: 2024-07-13
+url: https://discourse.slicer.org/t/37361
+---
+
 # How to load AIM annotations on top of the scans?
 
 **Topic ID**: 37361

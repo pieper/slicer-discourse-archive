@@ -1,3 +1,10 @@
+---
+topic_id: 36272
+title: "2D Mip Maximum Intensity Projection Not Works In Slicer 5 6"
+date: 2024-05-20
+url: https://discourse.slicer.org/t/36272
+---
+
 # 2D MIP (maximum intensity projection) not works in Slicer 5.6.1
 
 **Topic ID**: 36272

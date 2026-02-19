@@ -1,3 +1,10 @@
+---
+topic_id: 8212
+title: "Export Of Voxel True Surface Mesh"
+date: 2019-08-28
+url: https://discourse.slicer.org/t/8212
+---
+
 # Export of voxel-true surface mesh
 
 **Topic ID**: 8212

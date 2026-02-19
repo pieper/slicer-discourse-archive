@@ -1,3 +1,10 @@
+---
+topic_id: 4491
+title: "Using Dicom Deformable Registrations"
+date: 2018-10-22
+url: https://discourse.slicer.org/t/4491
+---
+
 # Using DICOM deformable registrations
 
 **Topic ID**: 4491

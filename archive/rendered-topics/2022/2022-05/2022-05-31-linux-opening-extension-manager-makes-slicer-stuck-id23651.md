@@ -1,3 +1,10 @@
+---
+topic_id: 23651
+title: "Linux Opening Extension Manager Makes Slicer Stuck"
+date: 2022-05-31
+url: https://discourse.slicer.org/t/23651
+---
+
 # [Linux] Opening extension manager makes slicer stuck
 
 **Topic ID**: 23651

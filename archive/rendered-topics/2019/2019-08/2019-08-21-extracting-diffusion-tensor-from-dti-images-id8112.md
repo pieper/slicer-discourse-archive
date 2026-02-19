@@ -1,3 +1,10 @@
+---
+topic_id: 8112
+title: "Extracting Diffusion Tensor From Dti Images"
+date: 2019-08-21
+url: https://discourse.slicer.org/t/8112
+---
+
 # Extracting diffusion tensor from DTI images 
 
 **Topic ID**: 8112

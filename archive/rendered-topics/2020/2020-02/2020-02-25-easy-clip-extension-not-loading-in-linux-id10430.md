@@ -1,3 +1,10 @@
+---
+topic_id: 10430
+title: "Easy Clip Extension Not Loading In Linux"
+date: 2020-02-25
+url: https://discourse.slicer.org/t/10430
+---
+
 # Easy Clip Extension - Not loading in Linux
 
 **Topic ID**: 10430

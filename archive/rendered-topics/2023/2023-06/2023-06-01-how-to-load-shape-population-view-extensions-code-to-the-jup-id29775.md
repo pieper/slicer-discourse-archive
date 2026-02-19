@@ -1,3 +1,10 @@
+---
+topic_id: 29775
+title: "How To Load Shape Population View Extensions Code To The Jup"
+date: 2023-06-01
+url: https://discourse.slicer.org/t/29775
+---
+
 # How to load "Shape Population View" extension's code to the jupyter notebook?
 
 **Topic ID**: 29775

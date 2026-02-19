@@ -1,3 +1,10 @@
+---
+topic_id: 33614
+title: "Create A Plane Or Curved Surface And Save As Stl"
+date: 2024-01-03
+url: https://discourse.slicer.org/t/33614
+---
+
 # Create a plane or curved surface and save as STL
 
 **Topic ID**: 33614

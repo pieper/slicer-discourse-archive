@@ -1,3 +1,10 @@
+---
+topic_id: 37503
+title: "Cbcttoothsegmentation"
+date: 2024-07-22
+url: https://discourse.slicer.org/t/37503
+---
+
 # CBCTToothSegmentation
 
 **Topic ID**: 37503

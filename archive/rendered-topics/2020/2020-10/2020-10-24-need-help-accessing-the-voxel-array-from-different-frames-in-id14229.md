@@ -1,3 +1,10 @@
+---
+topic_id: 14229
+title: "Need Help Accessing The Voxel Array From Different Frames In"
+date: 2020-10-24
+url: https://discourse.slicer.org/t/14229
+---
+
 # Need help accessing the voxel array from different frames in an imported multivolume (Python)
 
 **Topic ID**: 14229

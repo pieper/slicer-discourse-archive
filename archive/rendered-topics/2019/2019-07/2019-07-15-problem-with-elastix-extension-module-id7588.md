@@ -1,3 +1,10 @@
+---
+topic_id: 7588
+title: "Problem With Elastix Extension Module"
+date: 2019-07-15
+url: https://discourse.slicer.org/t/7588
+---
+
 # Problem with Elastix extension module
 
 **Topic ID**: 7588

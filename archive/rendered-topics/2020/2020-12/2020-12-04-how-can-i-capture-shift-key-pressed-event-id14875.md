@@ -1,3 +1,10 @@
+---
+topic_id: 14875
+title: "How Can I Capture Shift Key Pressed Event"
+date: 2020-12-04
+url: https://discourse.slicer.org/t/14875
+---
+
 # How can I capture shift key pressed event?
 
 **Topic ID**: 14875

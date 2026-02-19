@@ -1,3 +1,10 @@
+---
+topic_id: 804
+title: "Splash Screen Showing Version Number"
+date: 2017-08-01
+url: https://discourse.slicer.org/t/804
+---
+
 # Splash Screen Showing Version Number
 
 **Topic ID**: 804

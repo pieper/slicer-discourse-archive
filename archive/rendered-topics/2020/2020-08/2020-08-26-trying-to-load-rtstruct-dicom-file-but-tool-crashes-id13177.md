@@ -1,3 +1,10 @@
+---
+topic_id: 13177
+title: "Trying To Load Rtstruct Dicom File But Tool Crashes"
+date: 2020-08-26
+url: https://discourse.slicer.org/t/13177
+---
+
 # Trying to load RTStruct dicom file but tool crashes
 
 **Topic ID**: 13177

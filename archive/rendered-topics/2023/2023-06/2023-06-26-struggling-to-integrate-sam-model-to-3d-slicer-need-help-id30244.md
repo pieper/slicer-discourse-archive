@@ -1,3 +1,10 @@
+---
+topic_id: 30244
+title: "Struggling To Integrate Sam Model To 3D Slicer Need Help"
+date: 2023-06-26
+url: https://discourse.slicer.org/t/30244
+---
+
 # Struggling to integrate SAM model to 3D slicer, need help
 
 **Topic ID**: 30244

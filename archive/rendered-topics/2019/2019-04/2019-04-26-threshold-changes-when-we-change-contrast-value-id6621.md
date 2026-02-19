@@ -1,3 +1,10 @@
+---
+topic_id: 6621
+title: "Threshold Changes When We Change Contrast Value"
+date: 2019-04-26
+url: https://discourse.slicer.org/t/6621
+---
+
 # Threshold changes when we change contrast value
 
 **Topic ID**: 6621

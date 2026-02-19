@@ -1,3 +1,10 @@
+---
+topic_id: 34880
+title: "Create And Save Model As An Stl File"
+date: 2024-03-13
+url: https://discourse.slicer.org/t/34880
+---
+
 # Create and save model as an STL file
 
 **Topic ID**: 34880

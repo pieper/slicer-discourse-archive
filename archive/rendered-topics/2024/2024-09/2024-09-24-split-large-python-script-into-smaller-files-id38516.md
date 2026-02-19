@@ -1,3 +1,10 @@
+---
+topic_id: 38516
+title: "Split Large Python Script Into Smaller Files"
+date: 2024-09-24
+url: https://discourse.slicer.org/t/38516
+---
+
 # Split large python script into smaller files
 
 **Topic ID**: 38516

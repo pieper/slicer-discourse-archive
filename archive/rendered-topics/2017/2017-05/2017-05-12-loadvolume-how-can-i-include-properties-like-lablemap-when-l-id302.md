@@ -1,3 +1,10 @@
+---
+topic_id: 302
+title: "Loadvolume How Can I Include Properties Like Lablemap When L"
+date: 2017-05-12
+url: https://discourse.slicer.org/t/302
+---
+
 # loadVolume: how can I include properties like lablemap when loading?
 
 **Topic ID**: 302

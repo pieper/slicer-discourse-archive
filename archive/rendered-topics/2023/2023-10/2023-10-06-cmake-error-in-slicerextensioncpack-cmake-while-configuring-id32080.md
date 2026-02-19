@@ -1,3 +1,10 @@
+---
+topic_id: 32080
+title: "Cmake Error In Slicerextensioncpack Cmake While Configuring"
+date: 2023-10-06
+url: https://discourse.slicer.org/t/32080
+---
+
 # CMake error in SlicerExtensionCPack.cmake while configuring extension
 
 **Topic ID**: 32080

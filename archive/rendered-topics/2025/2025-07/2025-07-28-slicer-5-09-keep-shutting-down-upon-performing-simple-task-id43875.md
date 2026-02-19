@@ -1,3 +1,10 @@
+---
+topic_id: 43875
+title: "Slicer 5 09 Keep Shutting Down Upon Performing Simple Task"
+date: 2025-07-28
+url: https://discourse.slicer.org/t/43875
+---
+
 # Slicer 5.09 keep shutting down upon performing simple task
 
 **Topic ID**: 43875

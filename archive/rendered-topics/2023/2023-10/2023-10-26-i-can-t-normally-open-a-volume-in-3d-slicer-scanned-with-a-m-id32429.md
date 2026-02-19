@@ -1,3 +1,10 @@
+---
+topic_id: 32429
+title: "I Can T Normally Open A Volume In 3D Slicer Scanned With A M"
+date: 2023-10-26
+url: https://discourse.slicer.org/t/32429
+---
+
 # I can’t normally open a volume in 3D Slicer scanned with a Morita CT scanner
 
 **Topic ID**: 32429

@@ -1,3 +1,10 @@
+---
+topic_id: 12928
+title: "How To Increase The Image Quality When I Convert Dicom File"
+date: 2020-08-10
+url: https://discourse.slicer.org/t/12928
+---
+
 # How to increase the image quality when I convert Dicom file to nii file
 
 **Topic ID**: 12928

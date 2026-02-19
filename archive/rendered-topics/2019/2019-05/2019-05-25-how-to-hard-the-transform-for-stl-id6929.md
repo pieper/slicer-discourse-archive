@@ -1,3 +1,10 @@
+---
+topic_id: 6929
+title: "How To Hard The Transform For Stl"
+date: 2019-05-25
+url: https://discourse.slicer.org/t/6929
+---
+
 # How to hard the transform for stl?
 
 **Topic ID**: 6929

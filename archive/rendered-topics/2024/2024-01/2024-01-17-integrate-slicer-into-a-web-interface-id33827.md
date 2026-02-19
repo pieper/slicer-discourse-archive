@@ -1,3 +1,10 @@
+---
+topic_id: 33827
+title: "Integrate Slicer Into A Web Interface"
+date: 2024-01-17
+url: https://discourse.slicer.org/t/33827
+---
+
 # Integrate Slicer into a web interface
 
 **Topic ID**: 33827

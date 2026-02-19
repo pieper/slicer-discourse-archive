@@ -1,3 +1,10 @@
+---
+topic_id: 3427
+title: "Run A Loadable Module From Python Console"
+date: 2018-07-09
+url: https://discourse.slicer.org/t/3427
+---
+
 # Run a loadable module from python console
 
 **Topic ID**: 3427

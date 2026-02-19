@@ -1,3 +1,10 @@
+---
+topic_id: 24042
+title: "Integrate Python File With 3D Slicer"
+date: 2022-06-25
+url: https://discourse.slicer.org/t/24042
+---
+
 # Integrate python file with 3d slicer
 
 **Topic ID**: 24042

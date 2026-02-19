@@ -1,3 +1,10 @@
+---
+topic_id: 34739
+title: "Contribution To The Slicermonaiauto3Dseg Extension"
+date: 2024-03-06
+url: https://discourse.slicer.org/t/34739
+---
+
 # Contribution to the SlicerMONAIAuto3DSeg extension
 
 **Topic ID**: 34739

@@ -1,3 +1,10 @@
+---
+topic_id: 38449
+title: "Computing The Outer Surface Area Of A Segment"
+date: 2024-09-19
+url: https://discourse.slicer.org/t/38449
+---
+
 # Computing the outer surface area of a segment
 
 **Topic ID**: 38449

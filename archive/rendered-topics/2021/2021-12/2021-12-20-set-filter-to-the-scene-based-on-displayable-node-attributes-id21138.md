@@ -1,3 +1,10 @@
+---
+topic_id: 21138
+title: "Set Filter To The Scene Based On Displayable Node Attributes"
+date: 2021-12-20
+url: https://discourse.slicer.org/t/21138
+---
+
 # Set filter to the scene based on displayable node attributes
 
 **Topic ID**: 21138

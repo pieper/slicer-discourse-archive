@@ -1,3 +1,10 @@
+---
+topic_id: 22564
+title: "Performance Issues On Mac M1"
+date: 2022-03-17
+url: https://discourse.slicer.org/t/22564
+---
+
 # Performance issues on Mac M1?
 
 **Topic ID**: 22564

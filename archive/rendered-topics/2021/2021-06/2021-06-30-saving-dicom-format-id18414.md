@@ -1,3 +1,10 @@
+---
+topic_id: 18414
+title: "Saving Dicom Format"
+date: 2021-06-30
+url: https://discourse.slicer.org/t/18414
+---
+
 # Saving DICOM format
 
 **Topic ID**: 18414

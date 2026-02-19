@@ -1,3 +1,10 @@
+---
+topic_id: 9985
+title: "Additionallaunchersettings Ini Missing"
+date: 2020-01-28
+url: https://discourse.slicer.org/t/9985
+---
+
 # additionalLauncherSettings.ini missing
 
 **Topic ID**: 9985

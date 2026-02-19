@@ -1,3 +1,10 @@
+---
+topic_id: 16379
+title: "Gpl3 License For Slicer Derived App"
+date: 2021-03-04
+url: https://discourse.slicer.org/t/16379
+---
+
 # GPL3 license for Slicer derived app
 
 **Topic ID**: 16379

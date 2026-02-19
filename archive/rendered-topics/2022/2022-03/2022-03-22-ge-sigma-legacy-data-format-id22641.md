@@ -1,3 +1,10 @@
+---
+topic_id: 22641
+title: "Ge Sigma Legacy Data Format"
+date: 2022-03-22
+url: https://discourse.slicer.org/t/22641
+---
+
 # GE Sigma Legacy Data Format
 
 **Topic ID**: 22641

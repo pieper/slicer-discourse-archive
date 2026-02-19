@@ -1,3 +1,10 @@
+---
+topic_id: 32111
+title: "Downloading A Dicom Folder"
+date: 2023-10-09
+url: https://discourse.slicer.org/t/32111
+---
+
 # Downloading a dicom folder
 
 **Topic ID**: 32111

@@ -1,3 +1,10 @@
+---
+topic_id: 21817
+title: "Matching Segmentation With The Input Data"
+date: 2022-02-06
+url: https://discourse.slicer.org/t/21817
+---
+
 # Matching segmentation with the input data
 
 **Topic ID**: 21817

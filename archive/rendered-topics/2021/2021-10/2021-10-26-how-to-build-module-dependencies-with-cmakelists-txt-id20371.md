@@ -1,3 +1,10 @@
+---
+topic_id: 20371
+title: "How To Build Module Dependencies With Cmakelists Txt"
+date: 2021-10-26
+url: https://discourse.slicer.org/t/20371
+---
+
 # How to build module dependencies with CMakeLists.txt?
 
 **Topic ID**: 20371

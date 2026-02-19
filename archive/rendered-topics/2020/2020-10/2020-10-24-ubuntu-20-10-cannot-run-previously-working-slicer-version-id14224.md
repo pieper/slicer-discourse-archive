@@ -1,3 +1,10 @@
+---
+topic_id: 14224
+title: "Ubuntu 20 10 Cannot Run Previously Working Slicer Version"
+date: 2020-10-24
+url: https://discourse.slicer.org/t/14224
+---
+
 # Ubuntu 20.10 cannot run previously working Slicer version
 
 **Topic ID**: 14224

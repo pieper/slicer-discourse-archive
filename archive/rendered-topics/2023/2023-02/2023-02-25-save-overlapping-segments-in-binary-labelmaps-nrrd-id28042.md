@@ -1,3 +1,10 @@
+---
+topic_id: 28042
+title: "Save Overlapping Segments In Binary Labelmaps Nrrd"
+date: 2023-02-25
+url: https://discourse.slicer.org/t/28042
+---
+
 # Save overlapping segments in binary labelmaps - Nrrd
 
 **Topic ID**: 28042

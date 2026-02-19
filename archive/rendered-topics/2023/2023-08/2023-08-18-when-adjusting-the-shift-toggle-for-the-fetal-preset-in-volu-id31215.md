@@ -1,3 +1,10 @@
+---
+topic_id: 31215
+title: "When Adjusting The Shift Toggle For The Fetal Preset In Volu"
+date: 2023-08-18
+url: https://discourse.slicer.org/t/31215
+---
+
 # When adjusting the shift toggle for the fetal preset in volume rendering, what does it filter out?
 
 **Topic ID**: 31215

@@ -1,3 +1,10 @@
+---
+topic_id: 12895
+title: "Python Files Failed To Load As Module"
+date: 2020-08-07
+url: https://discourse.slicer.org/t/12895
+---
+
 # Python files failed to load as module
 
 **Topic ID**: 12895

@@ -1,3 +1,10 @@
+---
+topic_id: 36956
+title: "Build Errors With Slicer Error Lnk2005"
+date: 2024-06-22
+url: https://discourse.slicer.org/t/36956
+---
+
 # Build errors with slicer (error LNK2005)
 
 **Topic ID**: 36956

@@ -1,3 +1,10 @@
+---
+topic_id: 24186
+title: "Qt Designer Python Code Generation And Nodule Auto Naming"
+date: 2022-07-05
+url: https://discourse.slicer.org/t/24186
+---
+
 # QT designer python code generation, and nodule auto-naming
 
 **Topic ID**: 24186

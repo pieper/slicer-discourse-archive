@@ -1,3 +1,10 @@
+---
+topic_id: 34343
+title: "Many Extensions Are Not Getting Updates For Slicer Stable Re"
+date: 2024-02-15
+url: https://discourse.slicer.org/t/34343
+---
+
 # Many extensions are not getting updates for Slicer Stable Release
 
 **Topic ID**: 34343

@@ -1,3 +1,10 @@
+---
+topic_id: 20343
+title: "How To Convert A Vtkmrmlscalarvolumenode To A Vtkmrmlsegment"
+date: 2021-10-25
+url: https://discourse.slicer.org/t/20343
+---
+
 # How to convert a vtkMRMLScalarVolumeNode to a vtkMRMLSegmentationNode
 
 **Topic ID**: 20343

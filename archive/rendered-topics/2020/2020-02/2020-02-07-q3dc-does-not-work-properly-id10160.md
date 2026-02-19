@@ -1,3 +1,10 @@
+---
+topic_id: 10160
+title: "Q3Dc Does Not Work Properly"
+date: 2020-02-07
+url: https://discourse.slicer.org/t/10160
+---
+
 # Q3DC does not work properly
 
 **Topic ID**: 10160

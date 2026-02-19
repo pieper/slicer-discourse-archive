@@ -1,3 +1,10 @@
+---
+topic_id: 40510
+title: "3D Similarity Clustering"
+date: 2024-12-04
+url: https://discourse.slicer.org/t/40510
+---
+
 # 3D Similarity Clustering
 
 **Topic ID**: 40510

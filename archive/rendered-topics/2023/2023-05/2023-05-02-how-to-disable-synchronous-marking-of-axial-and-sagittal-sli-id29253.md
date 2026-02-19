@@ -1,3 +1,10 @@
+---
+topic_id: 29253
+title: "How To Disable Synchronous Marking Of Axial And Sagittal Sli"
+date: 2023-05-02
+url: https://discourse.slicer.org/t/29253
+---
+
 # How to disable synchronous marking of axial and sagittal slice
 
 **Topic ID**: 29253

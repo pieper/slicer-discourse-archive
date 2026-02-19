@@ -1,3 +1,10 @@
+---
+topic_id: 4963
+title: "Re Sampling Vs Harden Transform For A Dose Volume"
+date: 2018-12-04
+url: https://discourse.slicer.org/t/4963
+---
+
 # Re-sampling vs Harden Transform for a dose volume
 
 **Topic ID**: 4963

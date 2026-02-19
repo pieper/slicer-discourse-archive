@@ -1,3 +1,10 @@
+---
+topic_id: 17474
+title: "Adding Medical Tools In Segment Editor And Perform Erase Eff"
+date: 2021-05-05
+url: https://discourse.slicer.org/t/17474
+---
+
 # Adding medical tools in segment editor and perform erase effect!
 
 **Topic ID**: 17474

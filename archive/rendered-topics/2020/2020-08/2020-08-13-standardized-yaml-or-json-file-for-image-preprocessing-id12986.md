@@ -1,3 +1,10 @@
+---
+topic_id: 12986
+title: "Standardized Yaml Or Json File For Image Preprocessing"
+date: 2020-08-13
+url: https://discourse.slicer.org/t/12986
+---
+
 # Standardized yaml. or json file for image preprocessing?
 
 **Topic ID**: 12986

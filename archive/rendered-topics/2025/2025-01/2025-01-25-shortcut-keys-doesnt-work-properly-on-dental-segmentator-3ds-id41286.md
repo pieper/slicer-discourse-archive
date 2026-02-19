@@ -1,3 +1,10 @@
+---
+topic_id: 41286
+title: "Shortcut Keys Doesnt Work Properly On Dental Segmentator 3Ds"
+date: 2025-01-25
+url: https://discourse.slicer.org/t/41286
+---
+
 # Shortcut keys doesnt work properly on Dental Segmentator 3dSlicer 5.8.0
 
 **Topic ID**: 41286

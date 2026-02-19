@@ -1,3 +1,10 @@
+---
+topic_id: 12074
+title: "Number Of Pixels After Segmentation"
+date: 2020-06-17
+url: https://discourse.slicer.org/t/12074
+---
+
 # Number of pixels after segmentation
 
 **Topic ID**: 12074

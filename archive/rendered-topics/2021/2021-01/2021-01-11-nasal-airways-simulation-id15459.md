@@ -1,3 +1,10 @@
+---
+topic_id: 15459
+title: "Nasal Airways Simulation"
+date: 2021-01-11
+url: https://discourse.slicer.org/t/15459
+---
+
 # Nasal airways simulation
 
 **Topic ID**: 15459

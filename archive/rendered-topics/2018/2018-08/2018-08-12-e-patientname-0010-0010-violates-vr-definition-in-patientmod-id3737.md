@@ -1,3 +1,10 @@
+---
+topic_id: 3737
+title: "E Patientname 0010 0010 Violates Vr Definition In Patientmod"
+date: 2018-08-12
+url: https://discourse.slicer.org/t/3737
+---
+
 # E: PatientName (0010,0010) violates VR definition in PatientModule but actual value is correct
 
 **Topic ID**: 3737

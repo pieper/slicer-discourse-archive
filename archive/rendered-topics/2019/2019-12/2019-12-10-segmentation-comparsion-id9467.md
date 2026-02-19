@@ -1,3 +1,10 @@
+---
+topic_id: 9467
+title: "Segmentation Comparsion"
+date: 2019-12-10
+url: https://discourse.slicer.org/t/9467
+---
+
 # Segmentation Comparsion
 
 **Topic ID**: 9467

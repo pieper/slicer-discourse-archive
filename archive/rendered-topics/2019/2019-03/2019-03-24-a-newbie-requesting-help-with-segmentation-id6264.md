@@ -1,3 +1,10 @@
+---
+topic_id: 6264
+title: "A Newbie Requesting Help With Segmentation"
+date: 2019-03-24
+url: https://discourse.slicer.org/t/6264
+---
+
 # A newbie requesting help with segmentation
 
 **Topic ID**: 6264

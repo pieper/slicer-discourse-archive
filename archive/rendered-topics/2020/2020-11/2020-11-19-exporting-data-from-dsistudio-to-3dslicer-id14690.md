@@ -1,3 +1,10 @@
+---
+topic_id: 14690
+title: "Exporting Data From Dsistudio To 3Dslicer"
+date: 2020-11-19
+url: https://discourse.slicer.org/t/14690
+---
+
 # Exporting data from DSIstudio to 3DSlicer
 
 **Topic ID**: 14690

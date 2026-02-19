@@ -1,3 +1,10 @@
+---
+topic_id: 26661
+title: "Segmentgeometry"
+date: 2022-12-09
+url: https://discourse.slicer.org/t/26661
+---
+
 # SegmentGeometry
 
 **Topic ID**: 26661

@@ -1,3 +1,10 @@
+---
+topic_id: 15751
+title: "Plotting Help Setxcolumnname Ignored"
+date: 2021-01-31
+url: https://discourse.slicer.org/t/15751
+---
+
 # Plotting help? SetXColumnName ignored
 
 **Topic ID**: 15751

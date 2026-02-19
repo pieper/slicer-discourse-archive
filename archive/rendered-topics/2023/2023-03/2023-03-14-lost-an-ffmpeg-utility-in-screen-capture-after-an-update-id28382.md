@@ -1,3 +1,10 @@
+---
+topic_id: 28382
+title: "Lost An Ffmpeg Utility In Screen Capture After An Update"
+date: 2023-03-14
+url: https://discourse.slicer.org/t/28382
+---
+
 # Lost an ffmpeg utility in Screen Capture after an update
 
 **Topic ID**: 28382

@@ -1,3 +1,10 @@
+---
+topic_id: 26555
+title: "Error Loading Head Mrb In Visualization Tutorial"
+date: 2022-12-02
+url: https://discourse.slicer.org/t/26555
+---
+
 # Error Loading Head MRB in visualization tutorial
 
 **Topic ID**: 26555

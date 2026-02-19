@@ -1,3 +1,10 @@
+---
+topic_id: 10030
+title: "Unable To Load Zraw Files Along With Mhd Files"
+date: 2020-01-30
+url: https://discourse.slicer.org/t/10030
+---
+
 # Unable to load .zraw files along with .mhd files
 
 **Topic ID**: 10030

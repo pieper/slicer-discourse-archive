@@ -1,3 +1,10 @@
+---
+topic_id: 13391
+title: "Stack Of Ct Images Of 3D Printed Abs Plastic To Fea"
+date: 2020-09-08
+url: https://discourse.slicer.org/t/13391
+---
+
 # Stack of CT images of 3D printed ABS plastic to FEA
 
 **Topic ID**: 13391

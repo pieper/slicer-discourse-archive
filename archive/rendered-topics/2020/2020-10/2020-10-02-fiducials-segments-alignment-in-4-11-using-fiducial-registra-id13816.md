@@ -1,3 +1,10 @@
+---
+topic_id: 13816
+title: "Fiducials Segments Alignment In 4 11 Using Fiducial Registra"
+date: 2020-10-02
+url: https://discourse.slicer.org/t/13816
+---
+
 # Fiducials Segments alignment in 4.11 using fiducial registration wizard
 
 **Topic ID**: 13816

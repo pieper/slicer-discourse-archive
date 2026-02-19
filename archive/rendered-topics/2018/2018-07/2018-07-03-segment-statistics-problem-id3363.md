@@ -1,3 +1,10 @@
+---
+topic_id: 3363
+title: "Segment Statistics Problem"
+date: 2018-07-03
+url: https://discourse.slicer.org/t/3363
+---
+
 # Segment statistics problem
 
 **Topic ID**: 3363

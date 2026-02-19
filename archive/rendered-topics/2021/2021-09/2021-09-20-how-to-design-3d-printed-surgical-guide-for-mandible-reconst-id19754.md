@@ -1,3 +1,10 @@
+---
+topic_id: 19754
+title: "How To Design 3D Printed Surgical Guide For Mandible Reconst"
+date: 2021-09-20
+url: https://discourse.slicer.org/t/19754
+---
+
 # How to design 3D-printed surgical guide for mandible reconstruction
 
 **Topic ID**: 19754

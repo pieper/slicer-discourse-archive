@@ -1,3 +1,10 @@
+---
+topic_id: 4464
+title: "Can T Import Dicom Data"
+date: 2018-10-19
+url: https://discourse.slicer.org/t/4464
+---
+
 # Can`t import DICOM data
 
 **Topic ID**: 4464

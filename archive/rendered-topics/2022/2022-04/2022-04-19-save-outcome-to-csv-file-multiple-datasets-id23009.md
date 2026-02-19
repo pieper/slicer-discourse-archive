@@ -1,3 +1,10 @@
+---
+topic_id: 23009
+title: "Save Outcome To Csv File Multiple Datasets"
+date: 2022-04-19
+url: https://discourse.slicer.org/t/23009
+---
+
 # Save outcome to CSV file, multiple datasets
 
 **Topic ID**: 23009

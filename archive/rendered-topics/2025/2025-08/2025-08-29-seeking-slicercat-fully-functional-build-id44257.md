@@ -1,3 +1,10 @@
+---
+topic_id: 44257
+title: "Seeking Slicercat Fully Functional Build"
+date: 2025-08-29
+url: https://discourse.slicer.org/t/44257
+---
+
 # Seeking slicercat fully functional build
 
 **Topic ID**: 44257

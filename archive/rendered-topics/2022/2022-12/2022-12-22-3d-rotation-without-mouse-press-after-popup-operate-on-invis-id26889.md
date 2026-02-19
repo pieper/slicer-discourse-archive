@@ -1,3 +1,10 @@
+---
+topic_id: 26889
+title: "3D Rotation Without Mouse Press After Popup Operate On Invis"
+date: 2022-12-22
+url: https://discourse.slicer.org/t/26889
+---
+
 # 3D Rotation without mouse press after Popup "Operate on invisible segment?"
 
 **Topic ID**: 26889

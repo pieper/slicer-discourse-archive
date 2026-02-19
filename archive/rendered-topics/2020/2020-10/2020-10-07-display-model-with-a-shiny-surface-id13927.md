@@ -1,3 +1,10 @@
+---
+topic_id: 13927
+title: "Display Model With A Shiny Surface"
+date: 2020-10-07
+url: https://discourse.slicer.org/t/13927
+---
+
 # Display model with a "shiny" surface
 
 **Topic ID**: 13927

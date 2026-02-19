@@ -1,3 +1,10 @@
+---
+topic_id: 20467
+title: "Slicermarkupstomodel Failing Because Of Unauthenticated Git"
+date: 2021-11-02
+url: https://discourse.slicer.org/t/20467
+---
+
 # Slicermarkupstomodel failing because of unauthenticated git protocol on port 9418 is no longer supported
 
 **Topic ID**: 20467

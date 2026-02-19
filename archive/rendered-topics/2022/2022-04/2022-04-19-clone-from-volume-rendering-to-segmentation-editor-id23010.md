@@ -1,3 +1,10 @@
+---
+topic_id: 23010
+title: "Clone From Volume Rendering To Segmentation Editor"
+date: 2022-04-19
+url: https://discourse.slicer.org/t/23010
+---
+
 # Clone From Volume Rendering To Segmentation Editor
 
 **Topic ID**: 23010

@@ -1,3 +1,10 @@
+---
+topic_id: 22122
+title: "How To Programmatically Split The Rgb Channels And Store The"
+date: 2022-02-22
+url: https://discourse.slicer.org/t/22122
+---
+
 # How to programmatically split the RGB channels and store them separately as a segmentation node
 
 **Topic ID**: 22122

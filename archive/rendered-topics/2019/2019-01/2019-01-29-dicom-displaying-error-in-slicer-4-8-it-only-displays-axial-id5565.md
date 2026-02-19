@@ -1,3 +1,10 @@
+---
+topic_id: 5565
+title: "Dicom Displaying Error In Slicer 4 8 It Only Displays Axial"
+date: 2019-01-29
+url: https://discourse.slicer.org/t/5565
+---
+
 # DICOM displaying error in Slicer 4.8: it only displays Axial planes
 
 **Topic ID**: 5565

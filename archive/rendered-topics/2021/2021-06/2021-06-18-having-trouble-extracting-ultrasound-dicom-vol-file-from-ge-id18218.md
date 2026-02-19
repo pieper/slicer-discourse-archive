@@ -1,3 +1,10 @@
+---
+topic_id: 18218
+title: "Having Trouble Extracting Ultrasound Dicom Vol File From Ge"
+date: 2021-06-18
+url: https://discourse.slicer.org/t/18218
+---
+
 # Having Trouble Extracting Ultrasound DICOM/Vol file from GE Voluson S8
 
 **Topic ID**: 18218

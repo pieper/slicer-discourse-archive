@@ -1,3 +1,10 @@
+---
+topic_id: 13555
+title: "How To Install Fiducial Registration Wizard"
+date: 2020-09-18
+url: https://discourse.slicer.org/t/13555
+---
+
 # How to install Fiducial registration Wizard
 
 **Topic ID**: 13555

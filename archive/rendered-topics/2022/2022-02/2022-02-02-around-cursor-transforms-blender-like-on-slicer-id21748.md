@@ -1,3 +1,10 @@
+---
+topic_id: 21748
+title: "Around Cursor Transforms Blender Like On Slicer"
+date: 2022-02-02
+url: https://discourse.slicer.org/t/21748
+---
+
 # Around cursor transforms (Blender-like) on Slicer
 
 **Topic ID**: 21748

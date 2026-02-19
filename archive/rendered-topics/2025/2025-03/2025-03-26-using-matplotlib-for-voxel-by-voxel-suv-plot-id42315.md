@@ -1,3 +1,10 @@
+---
+topic_id: 42315
+title: "Using Matplotlib For Voxel By Voxel Suv Plot"
+date: 2025-03-26
+url: https://discourse.slicer.org/t/42315
+---
+
 # Using matplotlib for voxel by voxel SUV plot
 
 **Topic ID**: 42315

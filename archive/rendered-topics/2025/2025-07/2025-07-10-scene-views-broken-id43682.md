@@ -1,3 +1,10 @@
+---
+topic_id: 43682
+title: "Scene Views Broken"
+date: 2025-07-10
+url: https://discourse.slicer.org/t/43682
+---
+
 # Scene views broken?
 
 **Topic ID**: 43682

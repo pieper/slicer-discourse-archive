@@ -1,3 +1,10 @@
+---
+topic_id: 19752
+title: "A Warning In Python"
+date: 2021-09-20
+url: https://discourse.slicer.org/t/19752
+---
+
 # A warning in Python
 
 **Topic ID**: 19752

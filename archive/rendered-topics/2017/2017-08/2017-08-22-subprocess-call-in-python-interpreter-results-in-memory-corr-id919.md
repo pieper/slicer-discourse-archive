@@ -1,3 +1,10 @@
+---
+topic_id: 919
+title: "Subprocess Call In Python Interpreter Results In Memory Corr"
+date: 2017-08-22
+url: https://discourse.slicer.org/t/919
+---
+
 # Subprocess call in Python interpreter results in memory corruption
 
 **Topic ID**: 919

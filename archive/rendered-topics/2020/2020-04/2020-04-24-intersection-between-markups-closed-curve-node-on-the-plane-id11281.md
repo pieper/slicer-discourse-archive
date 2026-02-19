@@ -1,3 +1,10 @@
+---
+topic_id: 11281
+title: "Intersection Between Markups Closed Curve Node On The Plane"
+date: 2020-04-24
+url: https://discourse.slicer.org/t/11281
+---
+
 # Intersection between markups closed curve node on the plane and a line
 
 **Topic ID**: 11281

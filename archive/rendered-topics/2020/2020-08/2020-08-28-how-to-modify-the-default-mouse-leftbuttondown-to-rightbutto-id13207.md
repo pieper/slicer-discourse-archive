@@ -1,3 +1,10 @@
+---
+topic_id: 13207
+title: "How To Modify The Default Mouse Leftbuttondown To Rightbutto"
+date: 2020-08-28
+url: https://discourse.slicer.org/t/13207
+---
+
 # How to modify the default mouse leftbuttondown to rightbuttondown?
 
 **Topic ID**: 13207

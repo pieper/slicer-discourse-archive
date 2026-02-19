@@ -1,3 +1,10 @@
+---
+topic_id: 1491
+title: "How To Use Segment Statics"
+date: 2017-11-19
+url: https://discourse.slicer.org/t/1491
+---
+
 # How to use "Segment statics"
 
 **Topic ID**: 1491

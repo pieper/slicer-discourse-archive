@@ -1,3 +1,10 @@
+---
+topic_id: 8544
+title: "Loadable Module In Background"
+date: 2019-09-24
+url: https://discourse.slicer.org/t/8544
+---
+
 # Loadable module in background
 
 **Topic ID**: 8544

@@ -1,3 +1,10 @@
+---
+topic_id: 15742
+title: "Roi Median Value Volumetric"
+date: 2021-01-29
+url: https://discourse.slicer.org/t/15742
+---
+
 # ROI Median Value Volumetric
 
 **Topic ID**: 15742

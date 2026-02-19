@@ -1,3 +1,10 @@
+---
+topic_id: 18863
+title: "New Extension Guide"
+date: 2021-07-21
+url: https://discourse.slicer.org/t/18863
+---
+
 # new extension guide
 
 **Topic ID**: 18863

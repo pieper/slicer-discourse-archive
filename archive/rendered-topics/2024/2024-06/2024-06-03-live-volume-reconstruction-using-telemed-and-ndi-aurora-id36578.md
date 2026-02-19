@@ -1,3 +1,10 @@
+---
+topic_id: 36578
+title: "Live Volume Reconstruction Using Telemed And Ndi Aurora"
+date: 2024-06-03
+url: https://discourse.slicer.org/t/36578
+---
+
 # Live volume reconstruction using Telemed and NDI Aurora
 
 **Topic ID**: 36578

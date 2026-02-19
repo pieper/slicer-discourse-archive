@@ -1,3 +1,10 @@
+---
+topic_id: 15959
+title: "Plotting Registration Results From Elastix"
+date: 2021-02-11
+url: https://discourse.slicer.org/t/15959
+---
+
 # Plotting Registration Results from Elastix
 
 **Topic ID**: 15959

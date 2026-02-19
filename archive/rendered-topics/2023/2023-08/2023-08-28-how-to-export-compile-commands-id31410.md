@@ -1,3 +1,10 @@
+---
+topic_id: 31410
+title: "How To Export Compile Commands"
+date: 2023-08-28
+url: https://discourse.slicer.org/t/31410
+---
+
 # How to export compile commands?
 
 **Topic ID**: 31410

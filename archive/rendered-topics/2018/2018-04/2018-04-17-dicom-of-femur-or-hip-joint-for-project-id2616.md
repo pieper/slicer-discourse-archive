@@ -1,3 +1,10 @@
+---
+topic_id: 2616
+title: "Dicom Of Femur Or Hip Joint For Project"
+date: 2018-04-17
+url: https://discourse.slicer.org/t/2616
+---
+
 # DICOM of femur or hip joint for project
 
 **Topic ID**: 2616

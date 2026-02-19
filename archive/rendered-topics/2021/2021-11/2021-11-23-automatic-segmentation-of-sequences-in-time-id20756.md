@@ -1,3 +1,10 @@
+---
+topic_id: 20756
+title: "Automatic Segmentation Of Sequences In Time"
+date: 2021-11-23
+url: https://discourse.slicer.org/t/20756
+---
+
 # Automatic segmentation of sequences in time
 
 **Topic ID**: 20756

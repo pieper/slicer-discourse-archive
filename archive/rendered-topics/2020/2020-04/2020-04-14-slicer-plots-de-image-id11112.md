@@ -1,3 +1,10 @@
+---
+topic_id: 11112
+title: "Slicer Plots De Image"
+date: 2020-04-14
+url: https://discourse.slicer.org/t/11112
+---
+
 # Slicer plots de image
 
 **Topic ID**: 11112

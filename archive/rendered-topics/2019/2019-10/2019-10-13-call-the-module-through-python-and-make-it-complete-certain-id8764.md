@@ -1,3 +1,10 @@
+---
+topic_id: 8764
+title: "Call The Module Through Python And Make It Complete Certain"
+date: 2019-10-13
+url: https://discourse.slicer.org/t/8764
+---
+
 # Call the module through Python and make it complete certain work or modify some of the default values in the module
 
 **Topic ID**: 8764

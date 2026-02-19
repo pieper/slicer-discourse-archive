@@ -1,3 +1,10 @@
+---
+topic_id: 292
+title: "Display A Segmentation In Color Over The Segmented Volume Lo"
+date: 2017-05-10
+url: https://discourse.slicer.org/t/292
+---
+
 # Display a segmentation in color over the segmented volume - loadable module
 
 **Topic ID**: 292

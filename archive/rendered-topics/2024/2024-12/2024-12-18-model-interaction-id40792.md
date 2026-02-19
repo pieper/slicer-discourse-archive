@@ -1,3 +1,10 @@
+---
+topic_id: 40792
+title: "Model Interaction"
+date: 2024-12-18
+url: https://discourse.slicer.org/t/40792
+---
+
 # Model Interaction
 
 **Topic ID**: 40792

@@ -1,3 +1,10 @@
+---
+topic_id: 26238
+title: "Python Wrappers For A Templated Class Derived From Vtkmrmlno"
+date: 2022-11-14
+url: https://discourse.slicer.org/t/26238
+---
+
 # Python wrappers for a templated class derived from vtkMRMLNode
 
 **Topic ID**: 26238

@@ -1,3 +1,10 @@
+---
+topic_id: 6347
+title: "Segment Editor Extra Effect Not Working With My Custom Slice"
+date: 2019-04-01
+url: https://discourse.slicer.org/t/6347
+---
+
 # Segment editor extra effect not working with my custom Slicer version
 
 **Topic ID**: 6347

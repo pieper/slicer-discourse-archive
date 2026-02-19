@@ -1,3 +1,10 @@
+---
+topic_id: 27527
+title: "Repeating Crash With Slicer 5 3 0 2023 01 13"
+date: 2023-01-29
+url: https://discourse.slicer.org/t/27527
+---
+
 # Repeating crash with slicer 5-3-0 2023 01 13
 
 **Topic ID**: 27527

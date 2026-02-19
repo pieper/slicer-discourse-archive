@@ -1,3 +1,10 @@
+---
+topic_id: 19305
+title: "How To Show Chinese Characters In Vtk Widget"
+date: 2021-08-23
+url: https://discourse.slicer.org/t/19305
+---
+
 # How to show chinese characters in vtk widget
 
 **Topic ID**: 19305

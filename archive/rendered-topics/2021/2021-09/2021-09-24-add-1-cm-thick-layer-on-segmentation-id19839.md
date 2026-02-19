@@ -1,3 +1,10 @@
+---
+topic_id: 19839
+title: "Add 1 Cm Thick Layer On Segmentation"
+date: 2021-09-24
+url: https://discourse.slicer.org/t/19839
+---
+
 # Add 1 cm thick layer on segmentation
 
 **Topic ID**: 19839

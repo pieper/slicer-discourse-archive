@@ -1,3 +1,10 @@
+---
+topic_id: 21555
+title: "Odd Flickering Unstable Display In Table Possible Scrollbar"
+date: 2022-01-21
+url: https://discourse.slicer.org/t/21555
+---
+
 # Odd 'flickering' (unstable display) in table: possible scrollbar issue
 
 **Topic ID**: 21555

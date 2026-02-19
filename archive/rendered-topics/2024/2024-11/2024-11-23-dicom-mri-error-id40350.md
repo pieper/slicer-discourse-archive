@@ -1,3 +1,10 @@
+---
+topic_id: 40350
+title: "Dicom Mri Error"
+date: 2024-11-23
+url: https://discourse.slicer.org/t/40350
+---
+
 # DICOM MRI error
 
 **Topic ID**: 40350

@@ -1,3 +1,10 @@
+---
+topic_id: 35250
+title: "How To Clone A Segmentation Using Python"
+date: 2024-04-03
+url: https://discourse.slicer.org/t/35250
+---
+
 # How to clone a segmentation using Python
 
 **Topic ID**: 35250

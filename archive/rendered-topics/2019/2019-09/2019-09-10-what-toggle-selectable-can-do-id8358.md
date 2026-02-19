@@ -1,3 +1,10 @@
+---
+topic_id: 8358
+title: "What Toggle Selectable Can Do"
+date: 2019-09-10
+url: https://discourse.slicer.org/t/8358
+---
+
 # What " Toggle selectable" can do?
 
 **Topic ID**: 8358

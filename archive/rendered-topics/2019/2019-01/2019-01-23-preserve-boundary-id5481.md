@@ -1,3 +1,10 @@
+---
+topic_id: 5481
+title: "Preserve Boundary"
+date: 2019-01-23
+url: https://discourse.slicer.org/t/5481
+---
+
 # Preserve boundary
 
 **Topic ID**: 5481

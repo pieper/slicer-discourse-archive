@@ -1,3 +1,10 @@
+---
+topic_id: 8280
+title: "Openigtif Trajectory Message"
+date: 2019-09-03
+url: https://discourse.slicer.org/t/8280
+---
+
 # OpenIGTIF Trajectory Message
 
 **Topic ID**: 8280

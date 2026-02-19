@@ -1,3 +1,10 @@
+---
+topic_id: 23358
+title: "Slicer And Jupyterhub"
+date: 2022-05-10
+url: https://discourse.slicer.org/t/23358
+---
+
 # Slicer and JupyterHub
 
 **Topic ID**: 23358

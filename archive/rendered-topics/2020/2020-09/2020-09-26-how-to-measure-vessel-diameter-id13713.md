@@ -1,3 +1,10 @@
+---
+topic_id: 13713
+title: "How To Measure Vessel Diameter"
+date: 2020-09-26
+url: https://discourse.slicer.org/t/13713
+---
+
 # How to measure vessel diameter
 
 **Topic ID**: 13713

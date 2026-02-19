@@ -1,3 +1,10 @@
+---
+topic_id: 32838
+title: "Atypical Proposal Of A New Module"
+date: 2023-11-15
+url: https://discourse.slicer.org/t/32838
+---
+
 # Atypical proposal of a new module
 
 **Topic ID**: 32838

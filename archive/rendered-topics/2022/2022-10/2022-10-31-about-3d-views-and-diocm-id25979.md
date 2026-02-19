@@ -1,3 +1,10 @@
+---
+topic_id: 25979
+title: "About 3D Views And Diocm"
+date: 2022-10-31
+url: https://discourse.slicer.org/t/25979
+---
+
 # About 3d views and diocm
 
 **Topic ID**: 25979

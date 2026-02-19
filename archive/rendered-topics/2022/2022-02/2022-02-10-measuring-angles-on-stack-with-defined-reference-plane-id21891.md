@@ -1,3 +1,10 @@
+---
+topic_id: 21891
+title: "Measuring Angles On Stack With Defined Reference Plane"
+date: 2022-02-10
+url: https://discourse.slicer.org/t/21891
+---
+
 # Measuring angles on stack with defined reference plane
 
 **Topic ID**: 21891

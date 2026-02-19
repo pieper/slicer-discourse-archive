@@ -1,3 +1,10 @@
+---
+topic_id: 8054
+title: "Import Tensorflow From Within Slicer Python Interactor Cause"
+date: 2019-08-16
+url: https://discourse.slicer.org/t/8054
+---
+
 # import tensorflow from within Slicer python interactor causes crash
 
 **Topic ID**: 8054

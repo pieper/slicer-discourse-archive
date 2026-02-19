@@ -1,3 +1,10 @@
+---
+topic_id: 6673
+title: "The Segmentation Image From 3D Slicer Does Not Match The Mai"
+date: 2019-05-02
+url: https://discourse.slicer.org/t/6673
+---
+
 # The segmentation image from 3D slicer does not match the main image in itk snap
 
 **Topic ID**: 6673

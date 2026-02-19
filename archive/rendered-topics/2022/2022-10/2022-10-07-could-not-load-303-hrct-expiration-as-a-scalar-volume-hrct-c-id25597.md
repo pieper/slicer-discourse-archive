@@ -1,3 +1,10 @@
+---
+topic_id: 25597
+title: "Could Not Load 303 Hrct Expiration As A Scalar Volume Hrct C"
+date: 2022-10-07
+url: https://discourse.slicer.org/t/25597
+---
+
 # Could not load: 303: HRCT EXPIRATION as a Scalar Volume _ HRCT chest
 
 **Topic ID**: 25597

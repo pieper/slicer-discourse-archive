@@ -1,3 +1,10 @@
+---
+topic_id: 16699
+title: "A Problem With Grow From Seed Function"
+date: 2021-03-22
+url: https://discourse.slicer.org/t/16699
+---
+
 # A problem with "Grow from seed function"
 
 **Topic ID**: 16699

@@ -1,3 +1,10 @@
+---
+topic_id: 31590
+title: "Slice Intersection Lines Are Refracted"
+date: 2023-09-06
+url: https://discourse.slicer.org/t/31590
+---
+
 # Slice intersection lines are "refracted"
 
 **Topic ID**: 31590

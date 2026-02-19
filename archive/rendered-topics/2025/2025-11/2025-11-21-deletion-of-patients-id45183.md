@@ -1,3 +1,10 @@
+---
+topic_id: 45183
+title: "Deletion Of Patients"
+date: 2025-11-21
+url: https://discourse.slicer.org/t/45183
+---
+
 # Deletion of patients
 
 **Topic ID**: 45183

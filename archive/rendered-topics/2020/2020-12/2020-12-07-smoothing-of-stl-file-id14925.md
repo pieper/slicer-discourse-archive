@@ -1,3 +1,10 @@
+---
+topic_id: 14925
+title: "Smoothing Of Stl File"
+date: 2020-12-07
+url: https://discourse.slicer.org/t/14925
+---
+
 # Smoothing of STL file?
 
 **Topic ID**: 14925

@@ -1,3 +1,10 @@
+---
+topic_id: 28050
+title: "How To Rotate The View Of Transaxially And Sagittal Plane"
+date: 2023-02-26
+url: https://discourse.slicer.org/t/28050
+---
+
 # How to rotate the view of transaxially and sagittal plane?
 
 **Topic ID**: 28050

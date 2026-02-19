@@ -1,3 +1,10 @@
+---
+topic_id: 37459
+title: "Getting Error While Trying To Load Tracts"
+date: 2024-07-18
+url: https://discourse.slicer.org/t/37459
+---
+
 # Getting error while trying to load tracts
 
 **Topic ID**: 37459

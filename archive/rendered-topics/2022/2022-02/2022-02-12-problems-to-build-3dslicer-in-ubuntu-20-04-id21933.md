@@ -1,3 +1,10 @@
+---
+topic_id: 21933
+title: "Problems To Build 3Dslicer In Ubuntu 20 04"
+date: 2022-02-12
+url: https://discourse.slicer.org/t/21933
+---
+
 # Problems to build 3DSlicer in Ubuntu 20.04
 
 **Topic ID**: 21933

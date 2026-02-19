@@ -1,3 +1,10 @@
+---
+topic_id: 22111
+title: "Lung Tumour Segmentation"
+date: 2022-02-22
+url: https://discourse.slicer.org/t/22111
+---
+
 # Lung tumour segmentation
 
 **Topic ID**: 22111

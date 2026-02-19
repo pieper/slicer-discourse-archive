@@ -1,3 +1,10 @@
+---
+topic_id: 39983
+title: "Segmentation Of Heart According To Intensity Change In Art V"
+date: 2024-11-01
+url: https://discourse.slicer.org/t/39983
+---
+
 # Segmentation of heart according to intensity change in art vs venous phase
 
 **Topic ID**: 39983

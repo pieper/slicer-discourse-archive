@@ -1,3 +1,10 @@
+---
+topic_id: 36633
+title: "Markups To Model Did Not Strictly Go Through All Control Poi"
+date: 2024-06-07
+url: https://discourse.slicer.org/t/36633
+---
+
 # "Markups to model" did not strictly go through all control points of the markups, resulting in the surface not being what I expected. Unable to create complex surfaces
 
 **Topic ID**: 36633

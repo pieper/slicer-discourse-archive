@@ -1,3 +1,10 @@
+---
+topic_id: 24981
+title: "Exporting File To Nii And Nii Gz Changes The Transform In Th"
+date: 2022-08-29
+url: https://discourse.slicer.org/t/24981
+---
+
 # Exporting file to .nii and .nii.gz changes the transform in the header
 
 **Topic ID**: 24981

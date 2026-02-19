@@ -1,3 +1,10 @@
+---
+topic_id: 13511
+title: "S4Ext File Gerenation Problem"
+date: 2020-09-16
+url: https://discourse.slicer.org/t/13511
+---
+
 # .s4ext File gerenation problem
 
 **Topic ID**: 13511

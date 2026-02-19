@@ -1,3 +1,10 @@
+---
+topic_id: 18938
+title: "Slicer Crashes On Exporting Segmentation To Binary Labelmap"
+date: 2021-07-27
+url: https://discourse.slicer.org/t/18938
+---
+
 # Slicer crashes on exporting segmentation to binary labelmap volume
 
 **Topic ID**: 18938

@@ -1,3 +1,10 @@
+---
+topic_id: 25035
+title: "Utilizing Slicer To Calculate 3D Length Distance As Well As"
+date: 2022-08-31
+url: https://discourse.slicer.org/t/25035
+---
+
 # Utilizing Slicer to Calculate 3D Length/ Distance as well as Surface Area on CT Images
 
 **Topic ID**: 25035

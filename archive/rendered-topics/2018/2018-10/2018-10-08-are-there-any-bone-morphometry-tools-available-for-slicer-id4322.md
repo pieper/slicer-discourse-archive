@@ -1,3 +1,10 @@
+---
+topic_id: 4322
+title: "Are There Any Bone Morphometry Tools Available For Slicer"
+date: 2018-10-08
+url: https://discourse.slicer.org/t/4322
+---
+
 # Are there any bone morphometry tools available for Slicer?
 
 **Topic ID**: 4322

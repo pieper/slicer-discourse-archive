@@ -1,3 +1,10 @@
+---
+topic_id: 1696
+title: "Extension Configuration Failing"
+date: 2017-12-20
+url: https://discourse.slicer.org/t/1696
+---
+
 # Extension configuration failing
 
 **Topic ID**: 1696

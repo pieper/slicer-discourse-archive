@@ -1,3 +1,10 @@
+---
+topic_id: 36503
+title: "How To Center Of Origin To Object Center"
+date: 2024-05-30
+url: https://discourse.slicer.org/t/36503
+---
+
 # How to Center of Origin to Object Center
 
 **Topic ID**: 36503

@@ -1,3 +1,10 @@
+---
+topic_id: 2757
+title: "Export Ct Aaa2 From 3D Slicer"
+date: 2018-05-03
+url: https://discourse.slicer.org/t/2757
+---
+
 # Export CT-AAA2 from 3d Slicer
 
 **Topic ID**: 2757

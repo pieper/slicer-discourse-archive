@@ -1,3 +1,10 @@
+---
+topic_id: 9709
+title: "Pop Up Toolbox To The Front"
+date: 2020-01-04
+url: https://discourse.slicer.org/t/9709
+---
+
 # Pop-up ToolBox to the front
 
 **Topic ID**: 9709

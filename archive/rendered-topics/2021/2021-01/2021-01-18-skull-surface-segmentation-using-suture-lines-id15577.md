@@ -1,3 +1,10 @@
+---
+topic_id: 15577
+title: "Skull Surface Segmentation Using Suture Lines"
+date: 2021-01-18
+url: https://discourse.slicer.org/t/15577
+---
+
 # Skull surface segmentation using suture lines
 
 **Topic ID**: 15577

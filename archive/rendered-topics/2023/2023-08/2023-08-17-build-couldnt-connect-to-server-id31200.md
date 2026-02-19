@@ -1,3 +1,10 @@
+---
+topic_id: 31200
+title: "Build Couldnt Connect To Server"
+date: 2023-08-17
+url: https://discourse.slicer.org/t/31200
+---
+
 # Build Couldn't connect to server
 
 **Topic ID**: 31200

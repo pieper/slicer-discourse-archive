@@ -1,3 +1,10 @@
+---
+topic_id: 17609
+title: "Subtract Unhealthy Tissue From Area Of Box Around A Tumor"
+date: 2021-05-13
+url: https://discourse.slicer.org/t/17609
+---
+
 # Subtract unhealthy tissue from area of box around a tumor
 
 **Topic ID**: 17609

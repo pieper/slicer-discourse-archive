@@ -1,3 +1,10 @@
+---
+topic_id: 1570
+title: "Load Mrml V1 0 Scene In Slicer 4"
+date: 2017-12-01
+url: https://discourse.slicer.org/t/1570
+---
+
 # Load MRML V1.0 scene in Slicer 4
 
 **Topic ID**: 1570

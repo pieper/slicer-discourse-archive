@@ -1,3 +1,10 @@
+---
+topic_id: 13543
+title: "Gpu Raycasting With Sparse Dynamic Dataset"
+date: 2020-09-18
+url: https://discourse.slicer.org/t/13543
+---
+
 # GPU raycasting with sparse dynamic dataset
 
 **Topic ID**: 13543

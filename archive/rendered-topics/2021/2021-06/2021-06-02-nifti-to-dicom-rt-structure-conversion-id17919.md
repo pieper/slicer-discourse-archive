@@ -1,3 +1,10 @@
+---
+topic_id: 17919
+title: "Nifti To Dicom Rt Structure Conversion"
+date: 2021-06-02
+url: https://discourse.slicer.org/t/17919
+---
+
 # Nifti to DICOM-RT structure conversion
 
 **Topic ID**: 17919

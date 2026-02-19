@@ -1,3 +1,10 @@
+---
+topic_id: 18216
+title: "Export Coordinate Points Of Markups To The Predefined Folder"
+date: 2021-06-18
+url: https://discourse.slicer.org/t/18216
+---
+
 # Export coordinate points of markups to the predefined folder
 
 **Topic ID**: 18216

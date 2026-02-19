@@ -1,3 +1,10 @@
+---
+topic_id: 26381
+title: "Focus 3D View Shortcut"
+date: 2022-11-22
+url: https://discourse.slicer.org/t/26381
+---
+
 # Focus 3D view shortcut
 
 **Topic ID**: 26381

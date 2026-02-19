@@ -1,3 +1,10 @@
+---
+topic_id: 21746
+title: "Qt Switch Button In Slicer"
+date: 2022-02-02
+url: https://discourse.slicer.org/t/21746
+---
+
 # Qt switch button in Slicer
 
 **Topic ID**: 21746

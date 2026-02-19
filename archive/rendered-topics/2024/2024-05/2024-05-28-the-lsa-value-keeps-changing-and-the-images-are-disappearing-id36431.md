@@ -1,3 +1,10 @@
+---
+topic_id: 36431
+title: "The Lsa Value Keeps Changing And The Images Are Disappearing"
+date: 2024-05-28
+url: https://discourse.slicer.org/t/36431
+---
+
 # The LSA value keeps changing and the images are disappearing 
 
 **Topic ID**: 36431

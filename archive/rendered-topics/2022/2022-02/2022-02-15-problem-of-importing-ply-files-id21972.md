@@ -1,3 +1,10 @@
+---
+topic_id: 21972
+title: "Problem Of Importing Ply Files"
+date: 2022-02-15
+url: https://discourse.slicer.org/t/21972
+---
+
 # problem of importing .ply files
 
 **Topic ID**: 21972

@@ -1,3 +1,10 @@
+---
+topic_id: 18719
+title: "How Do I Translate The 3D Slicer Interface Into Another Lang"
+date: 2021-07-14
+url: https://discourse.slicer.org/t/18719
+---
+
 # How do I translate the 3D Slicer interface into another language?
 
 **Topic ID**: 18719

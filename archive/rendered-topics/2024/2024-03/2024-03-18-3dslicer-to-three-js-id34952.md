@@ -1,3 +1,10 @@
+---
+topic_id: 34952
+title: "3Dslicer To Three Js"
+date: 2024-03-18
+url: https://discourse.slicer.org/t/34952
+---
+
 # 3Dslicer to three.js
 
 **Topic ID**: 34952

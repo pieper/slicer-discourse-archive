@@ -1,3 +1,10 @@
+---
+topic_id: 17424
+title: "Visualization Of Live Reconstruction"
+date: 2021-05-03
+url: https://discourse.slicer.org/t/17424
+---
+
 # Visualization of live reconstruction
 
 **Topic ID**: 17424

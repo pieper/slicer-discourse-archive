@@ -1,3 +1,10 @@
+---
+topic_id: 18727
+title: "2D Visualization In Slicer Spectrogram Contour Plot"
+date: 2021-07-14
+url: https://discourse.slicer.org/t/18727
+---
+
 # 2D visualization in Slicer (Spectrogram, contour plot)
 
 **Topic ID**: 18727

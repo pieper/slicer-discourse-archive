@@ -1,3 +1,10 @@
+---
+topic_id: 34238
+title: "Need Help To Convert X Ray Scan To Dexa Scan"
+date: 2024-02-10
+url: https://discourse.slicer.org/t/34238
+---
+
 # Need Help To Convert X-Ray Scan to Dexa Scan
 
 **Topic ID**: 34238

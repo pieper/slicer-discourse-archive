@@ -1,3 +1,10 @@
+---
+topic_id: 16964
+title: "Fyi Nightly Windows Build Extensions Will Be Late Today"
+date: 2021-04-06
+url: https://discourse.slicer.org/t/16964
+---
+
 # FYI - Nightly Windows build / extensions will be late today
 
 **Topic ID**: 16964

@@ -1,3 +1,10 @@
+---
+topic_id: 40451
+title: "Registration For Ct Data And Stl Data Couldnt Finish"
+date: 2024-11-30
+url: https://discourse.slicer.org/t/40451
+---
+
 # Registration for CT data and stl data couldnt finish
 
 **Topic ID**: 40451

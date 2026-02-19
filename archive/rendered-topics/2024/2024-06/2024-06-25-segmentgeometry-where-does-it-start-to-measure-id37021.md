@@ -1,3 +1,10 @@
+---
+topic_id: 37021
+title: "Segmentgeometry Where Does It Start To Measure"
+date: 2024-06-25
+url: https://discourse.slicer.org/t/37021
+---
+
 # SegmentGeometry - Where does it start to measure?
 
 **Topic ID**: 37021

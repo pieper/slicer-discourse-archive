@@ -1,3 +1,10 @@
+---
+topic_id: 23124
+title: "Instructions Advice For Adding Thresholdmaximumconnectedcomp"
+date: 2022-04-26
+url: https://discourse.slicer.org/t/23124
+---
+
 # Instructions/Advice for adding ThresholdMaximumConnectedComponentsImageFilter or AutomaticThresholdImageFilter as a segment editor effect
 
 **Topic ID**: 23124

@@ -1,3 +1,10 @@
+---
+topic_id: 26564
+title: "Does Slicer Have A Way To Read The Stl File In The Database"
+date: 2022-12-03
+url: https://discourse.slicer.org/t/26564
+---
+
 # Does Slicer have a way to read the stl file in the database
 
 **Topic ID**: 26564

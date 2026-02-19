@@ -1,3 +1,10 @@
+---
+topic_id: 30801
+title: "Ultrasound Segmentation Using Downloaded Ultrasounds Not Rea"
+date: 2023-07-26
+url: https://discourse.slicer.org/t/30801
+---
+
 # Ultrasound Segmentation Using Downloaded Ultrasounds (not real time)
 
 **Topic ID**: 30801

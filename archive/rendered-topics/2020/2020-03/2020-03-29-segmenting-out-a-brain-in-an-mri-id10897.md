@@ -1,3 +1,10 @@
+---
+topic_id: 10897
+title: "Segmenting Out A Brain In An Mri"
+date: 2020-03-29
+url: https://discourse.slicer.org/t/10897
+---
+
 # Segmenting out a brain in an MRI
 
 **Topic ID**: 10897

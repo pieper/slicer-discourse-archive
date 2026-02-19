@@ -1,3 +1,10 @@
+---
+topic_id: 27208
+title: "Malpaca Slicermorphr Correct Files For Quality Control Pipel"
+date: 2023-01-12
+url: https://discourse.slicer.org/t/27208
+---
+
 # MALPACA + slicerMorphR --> correct files for quality control pipeline in R
 
 **Topic ID**: 27208

@@ -1,3 +1,10 @@
+---
+topic_id: 34214
+title: "Working With 4D Flow Mri Data"
+date: 2024-02-08
+url: https://discourse.slicer.org/t/34214
+---
+
 # Working with 4D flow MRI data
 
 **Topic ID**: 34214

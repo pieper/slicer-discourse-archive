@@ -1,3 +1,10 @@
+---
+topic_id: 8791
+title: "Dcm2Niix With Dwi"
+date: 2019-10-16
+url: https://discourse.slicer.org/t/8791
+---
+
 # Dcm2niix with DWI
 
 **Topic ID**: 8791

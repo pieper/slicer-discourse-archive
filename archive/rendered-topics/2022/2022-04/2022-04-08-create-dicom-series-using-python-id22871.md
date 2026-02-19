@@ -1,3 +1,10 @@
+---
+topic_id: 22871
+title: "Create Dicom Series Using Python"
+date: 2022-04-08
+url: https://discourse.slicer.org/t/22871
+---
+
 # Create DICOM series using python
 
 **Topic ID**: 22871

@@ -1,3 +1,10 @@
+---
+topic_id: 34957
+title: "Unique Color For Cloned Segments"
+date: 2024-03-18
+url: https://discourse.slicer.org/t/34957
+---
+
 # Unique color for cloned segments
 
 **Topic ID**: 34957

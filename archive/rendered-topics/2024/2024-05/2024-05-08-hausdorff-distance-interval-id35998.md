@@ -1,3 +1,10 @@
+---
+topic_id: 35998
+title: "Hausdorff Distance Interval"
+date: 2024-05-08
+url: https://discourse.slicer.org/t/35998
+---
+
 # Hausdorff Distance Interval
 
 **Topic ID**: 35998

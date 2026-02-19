@@ -1,3 +1,10 @@
+---
+topic_id: 27174
+title: "Bug 5 2 1 Data Is Loaded From Database But Doesnt Appear Und"
+date: 2023-01-10
+url: https://discourse.slicer.org/t/27174
+---
+
 # Bug: [5.2.1] Data is loaded from database but doesn't appear under "Loaded data"
 
 **Topic ID**: 27174

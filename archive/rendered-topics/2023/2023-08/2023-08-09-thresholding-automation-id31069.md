@@ -1,3 +1,10 @@
+---
+topic_id: 31069
+title: "Thresholding Automation"
+date: 2023-08-09
+url: https://discourse.slicer.org/t/31069
+---
+
 # Thresholding automation
 
 **Topic ID**: 31069

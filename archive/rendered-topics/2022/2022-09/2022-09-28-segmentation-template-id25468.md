@@ -1,3 +1,10 @@
+---
+topic_id: 25468
+title: "Segmentation Template"
+date: 2022-09-28
+url: https://discourse.slicer.org/t/25468
+---
+
 # Segmentation template
 
 **Topic ID**: 25468

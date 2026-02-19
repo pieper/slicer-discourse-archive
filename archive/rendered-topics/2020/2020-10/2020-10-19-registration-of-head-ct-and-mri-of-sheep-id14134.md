@@ -1,3 +1,10 @@
+---
+topic_id: 14134
+title: "Registration Of Head Ct And Mri Of Sheep"
+date: 2020-10-19
+url: https://discourse.slicer.org/t/14134
+---
+
 # Registration of head CT and MRI of sheep
 
 **Topic ID**: 14134

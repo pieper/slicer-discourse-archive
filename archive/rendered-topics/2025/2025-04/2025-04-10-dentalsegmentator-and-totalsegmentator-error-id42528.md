@@ -1,3 +1,10 @@
+---
+topic_id: 42528
+title: "Dentalsegmentator And Totalsegmentator Error"
+date: 2025-04-10
+url: https://discourse.slicer.org/t/42528
+---
+
 # DentalSegmentator and TotalSegmentator error
 
 **Topic ID**: 42528

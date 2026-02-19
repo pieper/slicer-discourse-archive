@@ -1,3 +1,10 @@
+---
+topic_id: 13187
+title: "Translating 2D Image And Adjust Field Of View"
+date: 2020-08-27
+url: https://discourse.slicer.org/t/13187
+---
+
 # Translating 2D image and adjust field of view
 
 **Topic ID**: 13187

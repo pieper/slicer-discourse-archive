@@ -1,3 +1,10 @@
+---
+topic_id: 8765
+title: "Conflict Vmtk With Opengl Mesa In Nvidia Graphics Card"
+date: 2019-10-13
+url: https://discourse.slicer.org/t/8765
+---
+
 # Conflict vmtk with OpenGL/Mesa in NVIDIA graphics card
 
 **Topic ID**: 8765

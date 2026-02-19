@@ -1,3 +1,10 @@
+---
+topic_id: 21923
+title: "How Do I Get The Real Time Angle Of A 3D Image As Shown In T"
+date: 2022-02-11
+url: https://discourse.slicer.org/t/21923
+---
+
 # How do I get the real-time Angle of a 3D image, as shown in the figure?
 
 **Topic ID**: 21923

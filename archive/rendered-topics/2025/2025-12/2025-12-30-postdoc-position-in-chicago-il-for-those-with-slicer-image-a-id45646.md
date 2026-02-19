@@ -1,3 +1,10 @@
+---
+topic_id: 45646
+title: "Postdoc Position In Chicago Il For Those With Slicer Image A"
+date: 2025-12-30
+url: https://discourse.slicer.org/t/45646
+---
+
 # Postdoc position in Chicago IL for those with Slicer/image analysis/programming experience
 
 **Topic ID**: 45646

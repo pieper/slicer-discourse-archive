@@ -1,3 +1,10 @@
+---
+topic_id: 9862
+title: "How To Add User Defined Qtui Panel To The Slicer"
+date: 2020-01-18
+url: https://discourse.slicer.org/t/9862
+---
+
 # How to add user-defined QTUI panel to the slicer
 
 **Topic ID**: 9862

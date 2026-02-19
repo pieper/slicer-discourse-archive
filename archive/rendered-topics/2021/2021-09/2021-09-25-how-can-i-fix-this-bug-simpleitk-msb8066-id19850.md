@@ -1,3 +1,10 @@
+---
+topic_id: 19850
+title: "How Can I Fix This Bug Simpleitk Msb8066"
+date: 2021-09-25
+url: https://discourse.slicer.org/t/19850
+---
+
 # How Can I fix this bug SimpleITK (MSB8066)
 
 **Topic ID**: 19850

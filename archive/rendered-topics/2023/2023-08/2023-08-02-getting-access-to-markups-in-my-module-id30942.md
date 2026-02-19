@@ -1,3 +1,10 @@
+---
+topic_id: 30942
+title: "Getting Access To Markups In My Module"
+date: 2023-08-02
+url: https://discourse.slicer.org/t/30942
+---
+
 # Getting access to markups in my module
 
 **Topic ID**: 30942

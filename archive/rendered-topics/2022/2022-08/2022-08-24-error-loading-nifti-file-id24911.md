@@ -1,3 +1,10 @@
+---
+topic_id: 24911
+title: "Error Loading Nifti File"
+date: 2022-08-24
+url: https://discourse.slicer.org/t/24911
+---
+
 # Error loading nifti file
 
 **Topic ID**: 24911

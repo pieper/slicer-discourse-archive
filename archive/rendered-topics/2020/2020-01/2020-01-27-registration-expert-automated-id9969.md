@@ -1,3 +1,10 @@
+---
+topic_id: 9969
+title: "Registration Expert Automated"
+date: 2020-01-27
+url: https://discourse.slicer.org/t/9969
+---
+
 # Registration - expert automated
 
 **Topic ID**: 9969

@@ -1,3 +1,10 @@
+---
+topic_id: 11543
+title: "Using Mri Open Datasets From Standford"
+date: 2020-05-14
+url: https://discourse.slicer.org/t/11543
+---
+
 # Using MRI open datasets from Standford
 
 **Topic ID**: 11543

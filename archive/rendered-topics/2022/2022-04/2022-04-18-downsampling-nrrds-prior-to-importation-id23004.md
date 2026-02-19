@@ -1,3 +1,10 @@
+---
+topic_id: 23004
+title: "Downsampling Nrrds Prior To Importation"
+date: 2022-04-18
+url: https://discourse.slicer.org/t/23004
+---
+
 # Downsampling NRRDs prior to importation?
 
 **Topic ID**: 23004

@@ -1,3 +1,10 @@
+---
+topic_id: 27336
+title: "How Can I Transfer My Custom Ultrasound Data From Python To"
+date: 2023-01-19
+url: https://discourse.slicer.org/t/27336
+---
+
 # How can I transfer my custom ultrasound data from python to 3Dslicer through IGT
 
 **Topic ID**: 27336

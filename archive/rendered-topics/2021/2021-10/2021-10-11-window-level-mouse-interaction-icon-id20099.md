@@ -1,3 +1,10 @@
+---
+topic_id: 20099
+title: "Window Level Mouse Interaction Icon"
+date: 2021-10-11
+url: https://discourse.slicer.org/t/20099
+---
+
 # Window/Level mouse interaction icon
 
 **Topic ID**: 20099

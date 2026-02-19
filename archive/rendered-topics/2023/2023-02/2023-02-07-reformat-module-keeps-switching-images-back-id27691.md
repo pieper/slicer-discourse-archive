@@ -1,3 +1,10 @@
+---
+topic_id: 27691
+title: "Reformat Module Keeps Switching Images Back"
+date: 2023-02-07
+url: https://discourse.slicer.org/t/27691
+---
+
 # Reformat module keeps switching images back
 
 **Topic ID**: 27691

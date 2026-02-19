@@ -1,3 +1,10 @@
+---
+topic_id: 43347
+title: "Dicom Seg Export Failure"
+date: 2025-06-13
+url: https://discourse.slicer.org/t/43347
+---
+
 # Dicom-seg Export Failure
 
 **Topic ID**: 43347

@@ -1,3 +1,10 @@
+---
+topic_id: 19408
+title: "Convert Between Ras And Numpy Array Indices"
+date: 2021-08-30
+url: https://discourse.slicer.org/t/19408
+---
+
 # Convert between RAS and numpy array indices
 
 **Topic ID**: 19408

@@ -1,3 +1,10 @@
+---
+topic_id: 6042
+title: "Slicercervicalspine Extension Is Now Online"
+date: 2019-03-06
+url: https://discourse.slicer.org/t/6042
+---
+
 # SlicerCervicalSpine extension is now online
 
 **Topic ID**: 6042

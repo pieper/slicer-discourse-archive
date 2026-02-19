@@ -1,3 +1,10 @@
+---
+topic_id: 22982
+title: "Some Questions About 3D Slicer"
+date: 2022-04-16
+url: https://discourse.slicer.org/t/22982
+---
+
 # Some questions about 3D Slicer
 
 **Topic ID**: 22982

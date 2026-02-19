@@ -1,3 +1,10 @@
+---
+topic_id: 29940
+title: "Slicer Heart Annulus Angles In Valve Quantification"
+date: 2023-06-09
+url: https://discourse.slicer.org/t/29940
+---
+
 # Slicer Heart - annulus angles in valve quantification
 
 **Topic ID**: 29940

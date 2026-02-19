@@ -1,3 +1,10 @@
+---
+topic_id: 3992
+title: "Data Module Column Show Hide Branch Or Node Is Editable"
+date: 2018-09-05
+url: https://discourse.slicer.org/t/3992
+---
+
 # Data Module: column show/hide branch or node is editable
 
 **Topic ID**: 3992

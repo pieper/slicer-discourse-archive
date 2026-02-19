@@ -1,3 +1,10 @@
+---
+topic_id: 13582
+title: "User Download Use Statistics"
+date: 2020-09-21
+url: https://discourse.slicer.org/t/13582
+---
+
 # User download/use statistics
 
 **Topic ID**: 13582

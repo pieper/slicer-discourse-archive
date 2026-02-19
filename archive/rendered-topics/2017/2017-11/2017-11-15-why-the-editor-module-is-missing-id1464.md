@@ -1,3 +1,10 @@
+---
+topic_id: 1464
+title: "Why The Editor Module Is Missing"
+date: 2017-11-15
+url: https://discourse.slicer.org/t/1464
+---
+
 # Why the Editor module is missing?
 
 **Topic ID**: 1464

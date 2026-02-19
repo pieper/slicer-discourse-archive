@@ -1,3 +1,10 @@
+---
+topic_id: 5872
+title: "Extension Dependency Not Found"
+date: 2019-02-21
+url: https://discourse.slicer.org/t/5872
+---
+
 # Extension dependency not found
 
 **Topic ID**: 5872

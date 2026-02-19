@@ -1,3 +1,10 @@
+---
+topic_id: 4272
+title: "Volume Rendering Shows Solid Black Cube Only"
+date: 2018-10-03
+url: https://discourse.slicer.org/t/4272
+---
+
 # Volume rendering shows solid black cube only
 
 **Topic ID**: 4272

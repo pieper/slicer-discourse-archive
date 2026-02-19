@@ -1,3 +1,10 @@
+---
+topic_id: 7442
+title: "Creating Custom Roi"
+date: 2019-07-06
+url: https://discourse.slicer.org/t/7442
+---
+
 # Creating custom ROI
 
 **Topic ID**: 7442

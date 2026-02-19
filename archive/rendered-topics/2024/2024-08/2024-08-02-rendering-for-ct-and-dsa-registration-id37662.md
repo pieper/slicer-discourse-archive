@@ -1,3 +1,10 @@
+---
+topic_id: 37662
+title: "Rendering For Ct And Dsa Registration"
+date: 2024-08-02
+url: https://discourse.slicer.org/t/37662
+---
+
 # Rendering for CT and dsa registration
 
 **Topic ID**: 37662

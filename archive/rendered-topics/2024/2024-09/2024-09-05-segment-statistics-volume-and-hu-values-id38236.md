@@ -1,3 +1,10 @@
+---
+topic_id: 38236
+title: "Segment Statistics Volume And Hu Values"
+date: 2024-09-05
+url: https://discourse.slicer.org/t/38236
+---
+
 # Segment Statistics volume and HU values
 
 **Topic ID**: 38236

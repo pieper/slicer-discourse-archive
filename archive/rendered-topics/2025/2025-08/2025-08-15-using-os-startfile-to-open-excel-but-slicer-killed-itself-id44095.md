@@ -1,3 +1,10 @@
+---
+topic_id: 44095
+title: "Using Os Startfile To Open Excel But Slicer Killed Itself"
+date: 2025-08-15
+url: https://discourse.slicer.org/t/44095
+---
+
 # Using os.startfile to open Excel but Slicer killed itself
 
 **Topic ID**: 44095

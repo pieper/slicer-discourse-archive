@@ -1,3 +1,10 @@
+---
+topic_id: 6594
+title: "Extend Roi After Cropping And Segmenting"
+date: 2019-04-24
+url: https://discourse.slicer.org/t/6594
+---
+
 # Extend ROI after cropping and segmenting
 
 **Topic ID**: 6594

@@ -1,3 +1,10 @@
+---
+topic_id: 17412
+title: "General Registration Pre Cbct Postcbct"
+date: 2021-05-03
+url: https://discourse.slicer.org/t/17412
+---
+
 # General Registration（pre CBCT+postCBCT）
 
 **Topic ID**: 17412

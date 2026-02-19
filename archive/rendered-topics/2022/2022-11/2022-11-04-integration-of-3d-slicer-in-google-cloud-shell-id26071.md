@@ -1,3 +1,10 @@
+---
+topic_id: 26071
+title: "Integration Of 3D Slicer In Google Cloud Shell"
+date: 2022-11-04
+url: https://discourse.slicer.org/t/26071
+---
+
 # Integration of 3d slicer in Google Cloud Shell
 
 **Topic ID**: 26071

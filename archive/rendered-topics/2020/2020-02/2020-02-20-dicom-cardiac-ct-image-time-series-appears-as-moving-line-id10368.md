@@ -1,3 +1,10 @@
+---
+topic_id: 10368
+title: "Dicom Cardiac Ct Image Time Series Appears As Moving Line"
+date: 2020-02-20
+url: https://discourse.slicer.org/t/10368
+---
+
 # DICOM cardiac CT image time series appears as moving line
 
 **Topic ID**: 10368

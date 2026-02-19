@@ -1,3 +1,10 @@
+---
+topic_id: 5860
+title: "Adding Missing Images To Extend Volume"
+date: 2019-02-20
+url: https://discourse.slicer.org/t/5860
+---
+
 # Adding "missing" images to extend volume
 
 **Topic ID**: 5860

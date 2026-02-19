@@ -1,3 +1,10 @@
+---
+topic_id: 11394
+title: "4 11 Module Panel Is Too Wide And Wont Resize"
+date: 2020-05-04
+url: https://discourse.slicer.org/t/11394
+---
+
 # 4.11 Module panel is too wide and won't resize
 
 **Topic ID**: 11394

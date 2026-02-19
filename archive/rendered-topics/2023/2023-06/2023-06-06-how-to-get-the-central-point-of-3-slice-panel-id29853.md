@@ -1,3 +1,10 @@
+---
+topic_id: 29853
+title: "How To Get The Central Point Of 3 Slice Panel"
+date: 2023-06-06
+url: https://discourse.slicer.org/t/29853
+---
+
 # How to get the central point of 3 slice panel
 
 **Topic ID**: 29853

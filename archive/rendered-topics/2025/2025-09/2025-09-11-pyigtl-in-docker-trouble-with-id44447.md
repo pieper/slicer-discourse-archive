@@ -1,3 +1,10 @@
+---
+topic_id: 44447
+title: "Pyigtl In Docker Trouble With"
+date: 2025-09-11
+url: https://discourse.slicer.org/t/44447
+---
+
 # PyIGTL in Docker: Trouble with 
 
 **Topic ID**: 44447

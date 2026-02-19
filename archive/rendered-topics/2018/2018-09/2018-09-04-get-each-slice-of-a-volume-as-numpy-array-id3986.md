@@ -1,3 +1,10 @@
+---
+topic_id: 3986
+title: "Get Each Slice Of A Volume As Numpy Array"
+date: 2018-09-04
+url: https://discourse.slicer.org/t/3986
+---
+
 # Get each slice of a volume as numpy array
 
 **Topic ID**: 3986

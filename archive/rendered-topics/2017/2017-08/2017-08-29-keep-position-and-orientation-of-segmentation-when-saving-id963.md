@@ -1,3 +1,10 @@
+---
+topic_id: 963
+title: "Keep Position And Orientation Of Segmentation When Saving"
+date: 2017-08-29
+url: https://discourse.slicer.org/t/963
+---
+
 # Keep position and orientation of segmentation when saving
 
 **Topic ID**: 963

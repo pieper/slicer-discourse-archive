@@ -1,3 +1,10 @@
+---
+topic_id: 25136
+title: "Segmentation Fault Occured When Qslicermainwindows Destructo"
+date: 2022-09-07
+url: https://discourse.slicer.org/t/25136
+---
+
 # Segmentation fault occured when qSlicerMainWindow's destructor called
 
 **Topic ID**: 25136

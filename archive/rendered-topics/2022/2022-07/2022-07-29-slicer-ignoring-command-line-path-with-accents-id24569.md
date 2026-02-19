@@ -1,3 +1,10 @@
+---
+topic_id: 24569
+title: "Slicer Ignoring Command Line Path With Accents"
+date: 2022-07-29
+url: https://discourse.slicer.org/t/24569
+---
+
 # Slicer ignoring command line path with accents
 
 **Topic ID**: 24569

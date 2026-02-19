@@ -1,3 +1,10 @@
+---
+topic_id: 21756
+title: "Segment Geometry Extension Showing More Slices Than What Exi"
+date: 2022-02-02
+url: https://discourse.slicer.org/t/21756
+---
+
 # Segment Geometry Extension showing more slices than what exists
 
 **Topic ID**: 21756

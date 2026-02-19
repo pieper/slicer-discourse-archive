@@ -1,3 +1,10 @@
+---
+topic_id: 22960
+title: "Create New Segment From Binary Vtkimagedata Object"
+date: 2022-04-14
+url: https://discourse.slicer.org/t/22960
+---
+
 # Create new segment from binary vtkimagedata object
 
 **Topic ID**: 22960

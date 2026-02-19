@@ -1,3 +1,10 @@
+---
+topic_id: 8642
+title: "Minimum Slicer Installation For Fast Launch"
+date: 2019-10-01
+url: https://discourse.slicer.org/t/8642
+---
+
 # Minimum Slicer installation for fast launch
 
 **Topic ID**: 8642

@@ -1,3 +1,10 @@
+---
+topic_id: 2588
+title: "Diffusion Tensor Estimation Is Not Working With My Data"
+date: 2018-04-14
+url: https://discourse.slicer.org/t/2588
+---
+
 # Diffusion Tensor Estimation is not working with my data
 
 **Topic ID**: 2588

@@ -1,3 +1,10 @@
+---
+topic_id: 17777
+title: "2021 05 25 Hangout 11 Am Et After Project Week Meeting"
+date: 2021-05-24
+url: https://discourse.slicer.org/t/17777
+---
+
 # 2021.05.25 Hangout - 11 AM ET after Project Week Meeting
 
 **Topic ID**: 17777

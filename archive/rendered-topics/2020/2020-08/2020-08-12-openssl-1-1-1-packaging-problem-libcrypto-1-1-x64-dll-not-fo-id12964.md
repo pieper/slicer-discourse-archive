@@ -1,3 +1,10 @@
+---
+topic_id: 12964
+title: "Openssl 1 1 1 Packaging Problem Libcrypto 1 1 X64 Dll Not Fo"
+date: 2020-08-12
+url: https://discourse.slicer.org/t/12964
+---
+
 # OpenSSL 1.1.1 packaging problem - libcrypto-1_1-x64.dll not found
 
 **Topic ID**: 12964

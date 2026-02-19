@@ -1,3 +1,10 @@
+---
+topic_id: 27860
+title: "Creatin A Pore Size Distribution With An Stl File Of A Ct Sc"
+date: 2023-02-16
+url: https://discourse.slicer.org/t/27860
+---
+
 # Creatin a Pore Size Distribution with an .stl file of a CT Scan of a tensile specimen
 
 **Topic ID**: 27860

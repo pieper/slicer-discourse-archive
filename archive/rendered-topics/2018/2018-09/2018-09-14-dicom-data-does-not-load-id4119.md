@@ -1,3 +1,10 @@
+---
+topic_id: 4119
+title: "Dicom Data Does Not Load"
+date: 2018-09-14
+url: https://discourse.slicer.org/t/4119
+---
+
 # DICOM data does not load
 
 **Topic ID**: 4119

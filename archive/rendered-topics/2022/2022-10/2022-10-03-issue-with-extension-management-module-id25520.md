@@ -1,3 +1,10 @@
+---
+topic_id: 25520
+title: "Issue With Extension Management Module"
+date: 2022-10-03
+url: https://discourse.slicer.org/t/25520
+---
+
 # Issue with extension management module
 
 **Topic ID**: 25520

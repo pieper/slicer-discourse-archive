@@ -1,3 +1,10 @@
+---
+topic_id: 35548
+title: "How To Use Registration For Ct Scans To Create 3D Models"
+date: 2024-04-17
+url: https://discourse.slicer.org/t/35548
+---
+
 # How to use registration for CT scans to create 3D models?
 
 **Topic ID**: 35548

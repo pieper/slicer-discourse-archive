@@ -1,3 +1,10 @@
+---
+topic_id: 38442
+title: "Extension Assistance Basic Tools To Start"
+date: 2024-09-19
+url: https://discourse.slicer.org/t/38442
+---
+
 # Extension assistance - basic tools to start
 
 **Topic ID**: 38442

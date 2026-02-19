@@ -1,3 +1,10 @@
+---
+topic_id: 33603
+title: "Creating Segmentation On Stl Files To Get Centreline Of Arte"
+date: 2024-01-03
+url: https://discourse.slicer.org/t/33603
+---
+
 # Creating Segmentation on stl files to get centreline of artery
 
 **Topic ID**: 33603

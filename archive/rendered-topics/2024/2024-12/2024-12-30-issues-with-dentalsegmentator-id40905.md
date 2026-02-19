@@ -1,3 +1,10 @@
+---
+topic_id: 40905
+title: "Issues With Dentalsegmentator"
+date: 2024-12-30
+url: https://discourse.slicer.org/t/40905
+---
+
 # Issues with DentalSegmentator
 
 **Topic ID**: 40905

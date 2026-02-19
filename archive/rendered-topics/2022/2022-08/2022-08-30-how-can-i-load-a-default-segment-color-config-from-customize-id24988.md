@@ -1,3 +1,10 @@
+---
+topic_id: 24988
+title: "How Can I Load A Default Segment Color Config From Customize"
+date: 2022-08-30
+url: https://discourse.slicer.org/t/24988
+---
+
 # How can I load a default segment color config from customized file,like export from itk-snap
 
 **Topic ID**: 24988

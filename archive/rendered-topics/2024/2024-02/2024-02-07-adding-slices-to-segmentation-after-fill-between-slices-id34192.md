@@ -1,3 +1,10 @@
+---
+topic_id: 34192
+title: "Adding Slices To Segmentation After Fill Between Slices"
+date: 2024-02-07
+url: https://discourse.slicer.org/t/34192
+---
+
 # Adding slices to segmentation after fill between slices
 
 **Topic ID**: 34192

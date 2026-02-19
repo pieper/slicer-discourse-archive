@@ -1,3 +1,10 @@
+---
+topic_id: 16168
+title: "Running A Python Module In The Background"
+date: 2021-02-23
+url: https://discourse.slicer.org/t/16168
+---
+
 # Running a python module in the background
 
 **Topic ID**: 16168

@@ -1,3 +1,10 @@
+---
+topic_id: 25796
+title: "There Seems To Be A Problem With The Display Of The Progress"
+date: 2022-10-20
+url: https://discourse.slicer.org/t/25796
+---
+
 # There seems to be a problem with the display of the progress bar
 
 **Topic ID**: 25796

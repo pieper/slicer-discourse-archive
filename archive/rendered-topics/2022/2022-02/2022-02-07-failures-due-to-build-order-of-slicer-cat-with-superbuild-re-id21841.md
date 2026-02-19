@@ -1,3 +1,10 @@
+---
+topic_id: 21841
+title: "Failures Due To Build Order Of Slicer Cat With Superbuild Re"
+date: 2022-02-07
+url: https://discourse.slicer.org/t/21841
+---
+
 # Failures due to build order of Slicer CAT with superbuild remote modules
 
 **Topic ID**: 21841

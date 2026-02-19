@@ -1,3 +1,10 @@
+---
+topic_id: 36889
+title: "Normal Projection Vectors Meshmath Exe Vs Model To Model Dis"
+date: 2024-06-19
+url: https://discourse.slicer.org/t/36889
+---
+
 # Normal projection vectors: meshmath.exe vs. Model-to-Model Distance
 
 **Topic ID**: 36889

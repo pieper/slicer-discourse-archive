@@ -1,3 +1,10 @@
+---
+topic_id: 4037
+title: "Volume Doesnt After I Modify The Voxel Value"
+date: 2018-09-09
+url: https://discourse.slicer.org/t/4037
+---
+
 # Volume doesn't after I modify the voxel value
 
 **Topic ID**: 4037

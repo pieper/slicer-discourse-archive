@@ -1,3 +1,10 @@
+---
+topic_id: 11062
+title: "Reload Qt Loadable Module"
+date: 2020-04-09
+url: https://discourse.slicer.org/t/11062
+---
+
 # Reload Qt Loadable Module
 
 **Topic ID**: 11062

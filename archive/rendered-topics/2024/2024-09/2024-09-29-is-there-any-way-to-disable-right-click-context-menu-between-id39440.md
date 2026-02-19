@@ -1,3 +1,10 @@
+---
+topic_id: 39440
+title: "Is There Any Way To Disable Right Click Context Menu Between"
+date: 2024-09-29
+url: https://discourse.slicer.org/t/39440
+---
+
 # Is there any way to disable right-click context menu between Module Panel and Views?
 
 **Topic ID**: 39440

@@ -1,3 +1,10 @@
+---
+topic_id: 38171
+title: "How To Make The Model Surface Close"
+date: 2024-09-03
+url: https://discourse.slicer.org/t/38171
+---
+
 # How to make the model surface close
 
 **Topic ID**: 38171

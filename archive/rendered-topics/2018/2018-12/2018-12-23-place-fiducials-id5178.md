@@ -1,3 +1,10 @@
+---
+topic_id: 5178
+title: "Place Fiducials"
+date: 2018-12-23
+url: https://discourse.slicer.org/t/5178
+---
+
 # Place fiducials
 
 **Topic ID**: 5178

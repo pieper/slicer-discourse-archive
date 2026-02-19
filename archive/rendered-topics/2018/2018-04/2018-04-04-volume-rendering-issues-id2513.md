@@ -1,3 +1,10 @@
+---
+topic_id: 2513
+title: "Volume Rendering Issues"
+date: 2018-04-04
+url: https://discourse.slicer.org/t/2513
+---
+
 # Volume Rendering Issues
 
 **Topic ID**: 2513

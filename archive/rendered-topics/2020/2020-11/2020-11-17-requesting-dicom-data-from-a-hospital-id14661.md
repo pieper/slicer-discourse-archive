@@ -1,3 +1,10 @@
+---
+topic_id: 14661
+title: "Requesting Dicom Data From A Hospital"
+date: 2020-11-17
+url: https://discourse.slicer.org/t/14661
+---
+
 # Requesting DICOM Data from a Hospital
 
 **Topic ID**: 14661

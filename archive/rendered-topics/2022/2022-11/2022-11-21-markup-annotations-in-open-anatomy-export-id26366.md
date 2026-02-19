@@ -1,3 +1,10 @@
+---
+topic_id: 26366
+title: "Markup Annotations In Open Anatomy Export"
+date: 2022-11-21
+url: https://discourse.slicer.org/t/26366
+---
+
 # Markup annotations in Open Anatomy Export
 
 **Topic ID**: 26366

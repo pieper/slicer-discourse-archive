@@ -1,3 +1,10 @@
+---
+topic_id: 25004
+title: "Slicer Extension Installation"
+date: 2022-08-30
+url: https://discourse.slicer.org/t/25004
+---
+
 # Slicer extension installation
 
 **Topic ID**: 25004

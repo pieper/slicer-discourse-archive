@@ -1,3 +1,10 @@
+---
+topic_id: 41687
+title: "Chest Imaging Platform In Slicer 5 8"
+date: 2025-02-13
+url: https://discourse.slicer.org/t/41687
+---
+
 # Chest Imaging Platform in Slicer 5.8
 
 **Topic ID**: 41687

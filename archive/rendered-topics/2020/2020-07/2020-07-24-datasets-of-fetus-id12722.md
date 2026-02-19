@@ -1,3 +1,10 @@
+---
+topic_id: 12722
+title: "Datasets Of Fetus"
+date: 2020-07-24
+url: https://discourse.slicer.org/t/12722
+---
+
 # Datasets of Fetus
 
 **Topic ID**: 12722

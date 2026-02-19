@@ -1,3 +1,10 @@
+---
+topic_id: 36886
+title: "Merging Three Different Dicom Views Which Have Same Spacings"
+date: 2024-06-18
+url: https://discourse.slicer.org/t/36886
+---
+
 # Merging three different Dicom views which have same spacings and dimensions
 
 **Topic ID**: 36886

@@ -1,3 +1,10 @@
+---
+topic_id: 3243
+title: "Two Feature Requests For The Islands Effect"
+date: 2018-06-20
+url: https://discourse.slicer.org/t/3243
+---
+
 # Two feature requests for the Islands effect
 
 **Topic ID**: 3243

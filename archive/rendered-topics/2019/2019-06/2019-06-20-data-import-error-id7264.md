@@ -1,3 +1,10 @@
+---
+topic_id: 7264
+title: "Data Import Error"
+date: 2019-06-20
+url: https://discourse.slicer.org/t/7264
+---
+
 # Data Import Error 
 
 **Topic ID**: 7264

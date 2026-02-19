@@ -1,3 +1,10 @@
+---
+topic_id: 19094
+title: "How To Convert Bmp Ct Scan Slices Into Properly Scaled Viewa"
+date: 2021-08-06
+url: https://discourse.slicer.org/t/19094
+---
+
 # How to convert BMP CT scan slices into properly scaled viewable model ?
 
 **Topic ID**: 19094

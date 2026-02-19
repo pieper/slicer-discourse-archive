@@ -1,3 +1,10 @@
+---
+topic_id: 30757
+title: "Scissors Segment Rectangle Shape Selection From A Python Scr"
+date: 2023-07-24
+url: https://discourse.slicer.org/t/30757
+---
+
 # Scissors segment, rectangle shape selection from a python script
 
 **Topic ID**: 30757

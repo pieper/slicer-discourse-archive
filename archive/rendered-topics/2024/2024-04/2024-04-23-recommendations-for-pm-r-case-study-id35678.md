@@ -1,3 +1,10 @@
+---
+topic_id: 35678
+title: "Recommendations For Pm R Case Study"
+date: 2024-04-23
+url: https://discourse.slicer.org/t/35678
+---
+
 # Recommendations for PM&R case study
 
 **Topic ID**: 35678

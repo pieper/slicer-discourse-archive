@@ -1,3 +1,10 @@
+---
+topic_id: 25240
+title: "Watershed And Grow From Seeds"
+date: 2022-09-13
+url: https://discourse.slicer.org/t/25240
+---
+
 # Watershed and grow from seeds
 
 **Topic ID**: 25240

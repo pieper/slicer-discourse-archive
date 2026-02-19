@@ -1,3 +1,10 @@
+---
+topic_id: 7841
+title: "Calling Python From C"
+date: 2019-08-01
+url: https://discourse.slicer.org/t/7841
+---
+
 # Calling Python from C++
 
 **Topic ID**: 7841

@@ -1,3 +1,10 @@
+---
+topic_id: 18962
+title: "Grow From Seeds Stopped Editing During Whole Heart Segmentat"
+date: 2021-07-28
+url: https://discourse.slicer.org/t/18962
+---
+
 # Grow from seeds stopped editing during Whole Heart Segmentation-PerkLab
 
 **Topic ID**: 18962

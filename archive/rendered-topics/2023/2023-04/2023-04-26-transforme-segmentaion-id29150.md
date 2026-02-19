@@ -1,3 +1,10 @@
+---
+topic_id: 29150
+title: "Transforme Segmentaion"
+date: 2023-04-26
+url: https://discourse.slicer.org/t/29150
+---
+
 # Transforme segmentaion
 
 **Topic ID**: 29150

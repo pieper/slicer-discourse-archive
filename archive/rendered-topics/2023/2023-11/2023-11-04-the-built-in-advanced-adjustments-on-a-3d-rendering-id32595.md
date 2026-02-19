@@ -1,3 +1,10 @@
+---
+topic_id: 32595
+title: "The Built In Advanced Adjustments On A 3D Rendering"
+date: 2023-11-04
+url: https://discourse.slicer.org/t/32595
+---
+
 # The built-in "Advanced" adjustments on a 3D rendering
 
 **Topic ID**: 32595

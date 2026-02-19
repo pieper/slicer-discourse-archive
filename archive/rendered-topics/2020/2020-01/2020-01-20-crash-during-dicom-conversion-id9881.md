@@ -1,3 +1,10 @@
+---
+topic_id: 9881
+title: "Crash During Dicom Conversion"
+date: 2020-01-20
+url: https://discourse.slicer.org/t/9881
+---
+
 # Crash during DICOM conversion
 
 **Topic ID**: 9881

@@ -1,3 +1,10 @@
+---
+topic_id: 28743
+title: "Code Of Ros Ros2 In The Openigtlink"
+date: 2023-04-04
+url: https://discourse.slicer.org/t/28743
+---
+
 # Code of ROS/ROS2 in the OpenIGTLink
 
 **Topic ID**: 28743

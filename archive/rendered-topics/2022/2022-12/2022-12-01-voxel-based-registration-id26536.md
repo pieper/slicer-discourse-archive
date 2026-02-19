@@ -1,3 +1,10 @@
+---
+topic_id: 26536
+title: "Voxel Based Registration"
+date: 2022-12-01
+url: https://discourse.slicer.org/t/26536
+---
+
 # Voxel-based registration
 
 **Topic ID**: 26536

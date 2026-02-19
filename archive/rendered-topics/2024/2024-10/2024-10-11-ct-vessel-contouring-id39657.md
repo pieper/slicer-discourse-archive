@@ -1,3 +1,10 @@
+---
+topic_id: 39657
+title: "Ct Vessel Contouring"
+date: 2024-10-11
+url: https://discourse.slicer.org/t/39657
+---
+
 # CT vessel contouring
 
 **Topic ID**: 39657

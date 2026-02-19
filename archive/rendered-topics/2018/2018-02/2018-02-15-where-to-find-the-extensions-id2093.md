@@ -1,3 +1,10 @@
+---
+topic_id: 2093
+title: "Where To Find The Extensions"
+date: 2018-02-15
+url: https://discourse.slicer.org/t/2093
+---
+
 # Where to find the extensions
 
 **Topic ID**: 2093

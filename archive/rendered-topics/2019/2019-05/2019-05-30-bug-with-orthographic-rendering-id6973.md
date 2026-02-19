@@ -1,3 +1,10 @@
+---
+topic_id: 6973
+title: "Bug With Orthographic Rendering"
+date: 2019-05-30
+url: https://discourse.slicer.org/t/6973
+---
+
 # Bug with Orthographic rendering
 
 **Topic ID**: 6973

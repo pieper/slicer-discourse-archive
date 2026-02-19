@@ -1,3 +1,10 @@
+---
+topic_id: 5482
+title: "Bad 3D Model How Can I Fix It"
+date: 2019-01-23
+url: https://discourse.slicer.org/t/5482
+---
+
 # Bad 3D model :( How can I fix it?
 
 **Topic ID**: 5482

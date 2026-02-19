@@ -1,3 +1,10 @@
+---
+topic_id: 26635
+title: "Rotation And Translation Invariance Of Features"
+date: 2022-12-07
+url: https://discourse.slicer.org/t/26635
+---
+
 # Rotation and translation invariance of features
 
 **Topic ID**: 26635

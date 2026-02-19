@@ -1,3 +1,10 @@
+---
+topic_id: 10290
+title: "Error Message Dcm2Niixplugin"
+date: 2020-02-16
+url: https://discourse.slicer.org/t/10290
+---
+
 # Error message Dcm2niixplugin
 
 **Topic ID**: 10290

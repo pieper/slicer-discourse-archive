@@ -1,3 +1,10 @@
+---
+topic_id: 16263
+title: "I Cannot Download 3D Slicer All I Get Is A Error Sqlstate Hy"
+date: 2021-02-27
+url: https://discourse.slicer.org/t/16263
+---
+
 # I cannot download 3D slicer? All I get is a error SQLSTATE[HY000]: General error: 144 Table
 
 **Topic ID**: 16263

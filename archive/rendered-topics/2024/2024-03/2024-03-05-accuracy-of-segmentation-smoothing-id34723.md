@@ -1,3 +1,10 @@
+---
+topic_id: 34723
+title: "Accuracy Of Segmentation Smoothing"
+date: 2024-03-05
+url: https://discourse.slicer.org/t/34723
+---
+
 # Accuracy of segmentation smoothing
 
 **Topic ID**: 34723

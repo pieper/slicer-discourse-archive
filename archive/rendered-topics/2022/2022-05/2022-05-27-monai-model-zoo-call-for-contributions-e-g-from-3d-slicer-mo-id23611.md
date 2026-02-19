@@ -1,3 +1,10 @@
+---
+topic_id: 23611
+title: "Monai Model Zoo Call For Contributions E G From 3D Slicer Mo"
+date: 2022-05-27
+url: https://discourse.slicer.org/t/23611
+---
+
 # MONAI Model Zoo - call for contributions (e.g., from 3D Slicer + MONAI Label)
 
 **Topic ID**: 23611

@@ -1,3 +1,10 @@
+---
+topic_id: 30122
+title: "Monai Label In 3D Slicer Auto Segmentation Is Not Working Fo"
+date: 2023-06-19
+url: https://discourse.slicer.org/t/30122
+---
+
 # Monai Label in 3d slicer -auto segmentation is not working for loaded data
 
 **Topic ID**: 30122

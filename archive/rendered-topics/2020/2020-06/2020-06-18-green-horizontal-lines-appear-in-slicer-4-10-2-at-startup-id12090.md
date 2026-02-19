@@ -1,3 +1,10 @@
+---
+topic_id: 12090
+title: "Green Horizontal Lines Appear In Slicer 4 10 2 At Startup"
+date: 2020-06-18
+url: https://discourse.slicer.org/t/12090
+---
+
 # Green horizontal lines appear in Slicer-4.10.2 at startup
 
 **Topic ID**: 12090

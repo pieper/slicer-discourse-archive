@@ -1,3 +1,10 @@
+---
+topic_id: 2631
+title: "Slicer Nightly Does Not Build With Qt4 Vtk7"
+date: 2018-04-19
+url: https://discourse.slicer.org/t/2631
+---
+
 # Slicer nightly does not build with Qt4/VTK7
 
 **Topic ID**: 2631

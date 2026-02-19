@@ -1,3 +1,10 @@
+---
+topic_id: 1164
+title: "Missing Option Use Mean As Template"
+date: 2017-10-03
+url: https://discourse.slicer.org/t/1164
+---
+
 # Missing option "Use mean as template"
 
 **Topic ID**: 1164

@@ -1,3 +1,10 @@
+---
+topic_id: 9784
+title: "3D Reconstruction From 2D Slices"
+date: 2020-01-12
+url: https://discourse.slicer.org/t/9784
+---
+
 # 3D reconstruction from 2D slices
 
 **Topic ID**: 9784

@@ -1,3 +1,10 @@
+---
+topic_id: 15181
+title: "Radiomics Result Validation"
+date: 2020-12-22
+url: https://discourse.slicer.org/t/15181
+---
+
 # Radiomics result validation
 
 **Topic ID**: 15181

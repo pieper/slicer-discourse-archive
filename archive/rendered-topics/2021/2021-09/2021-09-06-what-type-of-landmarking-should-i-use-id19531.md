@@ -1,3 +1,10 @@
+---
+topic_id: 19531
+title: "What Type Of Landmarking Should I Use"
+date: 2021-09-06
+url: https://discourse.slicer.org/t/19531
+---
+
 # What type of landmarking should I use?
 
 **Topic ID**: 19531

@@ -1,3 +1,10 @@
+---
+topic_id: 13250
+title: "Clear Ijk To Ras"
+date: 2020-08-31
+url: https://discourse.slicer.org/t/13250
+---
+
 # Clear IJK to RAS
 
 **Topic ID**: 13250

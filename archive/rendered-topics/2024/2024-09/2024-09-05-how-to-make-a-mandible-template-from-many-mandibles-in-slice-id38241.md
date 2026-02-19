@@ -1,3 +1,10 @@
+---
+topic_id: 38241
+title: "How To Make A Mandible Template From Many Mandibles In Slice"
+date: 2024-09-05
+url: https://discourse.slicer.org/t/38241
+---
+
 # How to make a "mandible template"from many mandibles in slicermorph?
 
 **Topic ID**: 38241

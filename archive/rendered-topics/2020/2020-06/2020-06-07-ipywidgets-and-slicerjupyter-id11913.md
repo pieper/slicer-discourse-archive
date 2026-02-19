@@ -1,3 +1,10 @@
+---
+topic_id: 11913
+title: "Ipywidgets And Slicerjupyter"
+date: 2020-06-07
+url: https://discourse.slicer.org/t/11913
+---
+
 # Ipywidgets and SlicerJupyter
 
 **Topic ID**: 11913

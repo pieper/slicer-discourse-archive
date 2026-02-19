@@ -1,3 +1,10 @@
+---
+topic_id: 7010
+title: "Is There Dicom Patcher Tutorial Available"
+date: 2019-06-03
+url: https://discourse.slicer.org/t/7010
+---
+
 # Is there DICOM Patcher Tutorial available?
 
 **Topic ID**: 7010

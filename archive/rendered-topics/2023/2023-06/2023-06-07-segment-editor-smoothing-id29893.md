@@ -1,3 +1,10 @@
+---
+topic_id: 29893
+title: "Segment Editor Smoothing"
+date: 2023-06-07
+url: https://discourse.slicer.org/t/29893
+---
+
 # Segment Editor smoothing
 
 **Topic ID**: 29893

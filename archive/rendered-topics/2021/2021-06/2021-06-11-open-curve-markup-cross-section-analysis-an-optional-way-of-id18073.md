@@ -1,3 +1,10 @@
+---
+topic_id: 18073
+title: "Open Curve Markup Cross Section Analysis An Optional Way Of"
+date: 2021-06-11
+url: https://discourse.slicer.org/t/18073
+---
+
 # Open curve markup+cross-section analysis：an optional way of the centerline extraction and measurement of vessel?
 
 **Topic ID**: 18073

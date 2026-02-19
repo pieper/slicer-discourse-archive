@@ -1,3 +1,10 @@
+---
+topic_id: 3423
+title: "Read Prostate Mr Image Failed"
+date: 2018-07-09
+url: https://discourse.slicer.org/t/3423
+---
+
 # Read Prostate MR image failed
 
 **Topic ID**: 3423

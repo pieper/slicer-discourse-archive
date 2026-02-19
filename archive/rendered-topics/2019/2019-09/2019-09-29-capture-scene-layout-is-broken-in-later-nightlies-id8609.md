@@ -1,3 +1,10 @@
+---
+topic_id: 8609
+title: "Capture Scene Layout Is Broken In Later Nightlies"
+date: 2019-09-29
+url: https://discourse.slicer.org/t/8609
+---
+
 # Capture scene layout is broken in later nightlies
 
 **Topic ID**: 8609

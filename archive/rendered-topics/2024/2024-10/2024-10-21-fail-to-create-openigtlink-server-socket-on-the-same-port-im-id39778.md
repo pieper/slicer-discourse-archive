@@ -1,3 +1,10 @@
+---
+topic_id: 39778
+title: "Fail To Create Openigtlink Server Socket On The Same Port Im"
+date: 2024-10-21
+url: https://discourse.slicer.org/t/39778
+---
+
 # Fail to create OpenIGTLink server socket on the same port immediately after another server has just stopped
 
 **Topic ID**: 39778

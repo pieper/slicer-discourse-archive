@@ -1,3 +1,10 @@
+---
+topic_id: 17140
+title: "Questionable Performance On Gpu Workstation"
+date: 2021-04-16
+url: https://discourse.slicer.org/t/17140
+---
+
 # Questionable performance on GPU workstation
 
 **Topic ID**: 17140

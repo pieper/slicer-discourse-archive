@@ -1,3 +1,10 @@
+---
+topic_id: 22103
+title: "Problem About Pixel Value Shift And Orientation And Origin B"
+date: 2022-02-22
+url: https://discourse.slicer.org/t/22103
+---
+
 # Problem about pixel value shift and orientation and origin between nifti and converted dicom series
 
 **Topic ID**: 22103

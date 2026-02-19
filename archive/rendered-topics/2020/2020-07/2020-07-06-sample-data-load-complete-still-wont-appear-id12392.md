@@ -1,3 +1,10 @@
+---
+topic_id: 12392
+title: "Sample Data Load Complete Still Wont Appear"
+date: 2020-07-06
+url: https://discourse.slicer.org/t/12392
+---
+
 # Sample Data Load Complete, Still Won't Appear
 
 **Topic ID**: 12392

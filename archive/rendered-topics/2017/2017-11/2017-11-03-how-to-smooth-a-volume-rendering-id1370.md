@@ -1,3 +1,10 @@
+---
+topic_id: 1370
+title: "How To Smooth A Volume Rendering"
+date: 2017-11-03
+url: https://discourse.slicer.org/t/1370
+---
+
 # How to smooth a volume rendering
 
 **Topic ID**: 1370

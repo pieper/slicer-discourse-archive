@@ -1,3 +1,10 @@
+---
+topic_id: 13160
+title: "Parametric Skeleton Model Implementation In 3D Slicer"
+date: 2020-08-25
+url: https://discourse.slicer.org/t/13160
+---
+
 # Parametric skeleton model implementation in 3D Slicer
 
 **Topic ID**: 13160

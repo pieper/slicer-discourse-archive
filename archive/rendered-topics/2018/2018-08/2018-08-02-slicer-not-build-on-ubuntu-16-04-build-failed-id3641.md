@@ -1,3 +1,10 @@
+---
+topic_id: 3641
+title: "Slicer Not Build On Ubuntu 16 04 Build Failed"
+date: 2018-08-02
+url: https://discourse.slicer.org/t/3641
+---
+
 # Slicer not build on Ubuntu 16.04. Build FAILED
 
 **Topic ID**: 3641

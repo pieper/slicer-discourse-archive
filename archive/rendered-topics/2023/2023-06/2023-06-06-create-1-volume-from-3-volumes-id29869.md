@@ -1,3 +1,10 @@
+---
+topic_id: 29869
+title: "Create 1 Volume From 3 Volumes"
+date: 2023-06-06
+url: https://discourse.slicer.org/t/29869
+---
+
 # Create 1 volume from 3 volumes
 
 **Topic ID**: 29869

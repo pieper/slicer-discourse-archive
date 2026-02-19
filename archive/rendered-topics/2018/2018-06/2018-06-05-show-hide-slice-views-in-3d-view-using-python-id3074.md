@@ -1,3 +1,10 @@
+---
+topic_id: 3074
+title: "Show Hide Slice Views In 3D View Using Python"
+date: 2018-06-05
+url: https://discourse.slicer.org/t/3074
+---
+
 # Show/hide slice views in 3D view using Python
 
 **Topic ID**: 3074

@@ -1,3 +1,10 @@
+---
+topic_id: 13351
+title: "Segmentation Problem"
+date: 2020-09-05
+url: https://discourse.slicer.org/t/13351
+---
+
 # Segmentation Problem
 
 **Topic ID**: 13351

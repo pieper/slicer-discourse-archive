@@ -1,3 +1,10 @@
+---
+topic_id: 2421
+title: "Change Tickness In Slice Intersection"
+date: 2018-03-26
+url: https://discourse.slicer.org/t/2421
+---
+
 # Change tickness in slice intersection 
 
 **Topic ID**: 2421

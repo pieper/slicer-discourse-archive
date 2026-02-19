@@ -1,3 +1,10 @@
+---
+topic_id: 6065
+title: "How To Crop Nifti Files"
+date: 2019-03-07
+url: https://discourse.slicer.org/t/6065
+---
+
 # How to crop nifti files
 
 **Topic ID**: 6065

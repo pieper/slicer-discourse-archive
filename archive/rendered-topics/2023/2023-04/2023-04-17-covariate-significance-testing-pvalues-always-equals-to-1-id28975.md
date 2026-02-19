@@ -1,3 +1,10 @@
+---
+topic_id: 28975
+title: "Covariate Significance Testing Pvalues Always Equals To 1"
+date: 2023-04-17
+url: https://discourse.slicer.org/t/28975
+---
+
 # Covariate Significance testing - Pvalues always equals to 1
 
 **Topic ID**: 28975

@@ -1,3 +1,10 @@
+---
+topic_id: 12091
+title: "Load Curvenodes From Stl Vtk File"
+date: 2020-06-18
+url: https://discourse.slicer.org/t/12091
+---
+
 # Load curvenodes from stl/vtk file
 
 **Topic ID**: 12091

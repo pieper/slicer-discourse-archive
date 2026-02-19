@@ -1,3 +1,10 @@
+---
+topic_id: 5724
+title: "How I Can Enhance Low Quality Mri Image"
+date: 2019-02-11
+url: https://discourse.slicer.org/t/5724
+---
+
 # How I can enhance low quality MRI Image?
 
 **Topic ID**: 5724

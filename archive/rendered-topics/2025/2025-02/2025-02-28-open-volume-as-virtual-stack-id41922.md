@@ -1,3 +1,10 @@
+---
+topic_id: 41922
+title: "Open Volume As Virtual Stack"
+date: 2025-02-28
+url: https://discourse.slicer.org/t/41922
+---
+
 # Open Volume as virtual stack
 
 **Topic ID**: 41922

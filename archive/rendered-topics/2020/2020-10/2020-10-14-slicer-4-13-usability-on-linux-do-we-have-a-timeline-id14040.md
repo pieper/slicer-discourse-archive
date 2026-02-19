@@ -1,3 +1,10 @@
+---
+topic_id: 14040
+title: "Slicer 4 13 Usability On Linux Do We Have A Timeline"
+date: 2020-10-14
+url: https://discourse.slicer.org/t/14040
+---
+
 # Slicer 4.13 usability on Linux : do we have a timeline?
 
 **Topic ID**: 14040

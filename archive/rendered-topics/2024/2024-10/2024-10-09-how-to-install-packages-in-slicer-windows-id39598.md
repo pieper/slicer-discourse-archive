@@ -1,3 +1,10 @@
+---
+topic_id: 39598
+title: "How To Install Packages In Slicer Windows"
+date: 2024-10-09
+url: https://discourse.slicer.org/t/39598
+---
+
 # How to install packages in slicer windows
 
 **Topic ID**: 39598

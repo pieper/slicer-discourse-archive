@@ -1,3 +1,10 @@
+---
+topic_id: 28324
+title: "Lung Vessel Using Cip Module"
+date: 2023-03-12
+url: https://discourse.slicer.org/t/28324
+---
+
 # Lung vessel using CIP module
 
 **Topic ID**: 28324

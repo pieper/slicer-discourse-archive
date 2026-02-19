@@ -1,3 +1,10 @@
+---
+topic_id: 22010
+title: "Error Running A Processing Script On Many Segments"
+date: 2022-02-17
+url: https://discourse.slicer.org/t/22010
+---
+
 # Error running a processing script on many segments
 
 **Topic ID**: 22010

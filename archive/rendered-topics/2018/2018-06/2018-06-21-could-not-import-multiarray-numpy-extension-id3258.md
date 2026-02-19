@@ -1,3 +1,10 @@
+---
+topic_id: 3258
+title: "Could Not Import Multiarray Numpy Extension"
+date: 2018-06-21
+url: https://discourse.slicer.org/t/3258
+---
+
 # Could not import multiarray numpy extension
 
 **Topic ID**: 3258

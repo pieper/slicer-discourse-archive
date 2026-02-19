@@ -1,3 +1,10 @@
+---
+topic_id: 15696
+title: "Convert Mhd Dose Volume To Rtdose File And Export"
+date: 2021-01-27
+url: https://discourse.slicer.org/t/15696
+---
+
 # Convert .mhd dose volume to RTDose file and export
 
 **Topic ID**: 15696

@@ -1,3 +1,10 @@
+---
+topic_id: 30004
+title: "3D Analysis With Models Obtained From 3D Scans"
+date: 2023-06-13
+url: https://discourse.slicer.org/t/30004
+---
+
 # 3D analysis with models obtained from 3D scans
 
 **Topic ID**: 30004

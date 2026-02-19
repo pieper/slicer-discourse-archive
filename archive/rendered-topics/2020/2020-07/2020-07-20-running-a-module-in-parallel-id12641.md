@@ -1,3 +1,10 @@
+---
+topic_id: 12641
+title: "Running A Module In Parallel"
+date: 2020-07-20
+url: https://discourse.slicer.org/t/12641
+---
+
 # Running a Module in Parallel
 
 **Topic ID**: 12641

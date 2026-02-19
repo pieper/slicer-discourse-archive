@@ -1,3 +1,10 @@
+---
+topic_id: 5227
+title: "Create A Preset In Volume Rendering Module"
+date: 2018-12-30
+url: https://discourse.slicer.org/t/5227
+---
+
 # Create a preset in volume rendering module
 
 **Topic ID**: 5227

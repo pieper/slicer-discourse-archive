@@ -1,3 +1,10 @@
+---
+topic_id: 7895
+title: "How To Increase The Size Of Mesh Triangles"
+date: 2019-08-06
+url: https://discourse.slicer.org/t/7895
+---
+
 # How to increase the size of mesh triangles
 
 **Topic ID**: 7895

@@ -1,3 +1,10 @@
+---
+topic_id: 45782
+title: "Deca Module Does Not Operate Under The 5 4 2026 01 02 Releas"
+date: 2026-01-15
+url: https://discourse.slicer.org/t/45782
+---
+
 # DeCA module does not operate under the 5-4-2026.01.02 release
 
 **Topic ID**: 45782

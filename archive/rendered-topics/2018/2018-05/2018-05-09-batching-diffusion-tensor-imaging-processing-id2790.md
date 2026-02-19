@@ -1,3 +1,10 @@
+---
+topic_id: 2790
+title: "Batching Diffusion Tensor Imaging Processing"
+date: 2018-05-09
+url: https://discourse.slicer.org/t/2790
+---
+
 # Batching Diffusion Tensor Imaging Processing
 
 **Topic ID**: 2790

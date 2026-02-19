@@ -1,3 +1,10 @@
+---
+topic_id: 20624
+title: "Morphological Changes Analysis"
+date: 2021-11-15
+url: https://discourse.slicer.org/t/20624
+---
+
 # Morphological changes analysis
 
 **Topic ID**: 20624

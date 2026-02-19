@@ -1,3 +1,10 @@
+---
+topic_id: 117
+title: "Segmentation Of A Cardio Mri Done On A Swiss Mice"
+date: 2017-04-14
+url: https://discourse.slicer.org/t/117
+---
+
 # Segmentation of a cardio MRI done on a swiss mice
 
 **Topic ID**: 117

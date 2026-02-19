@@ -1,3 +1,10 @@
+---
+topic_id: 22792
+title: "Module Panel Hide Logo"
+date: 2022-04-01
+url: https://discourse.slicer.org/t/22792
+---
+
 # Module panel hide logo
 
 **Topic ID**: 22792

@@ -1,3 +1,10 @@
+---
+topic_id: 34268
+title: "Rendering Side By Side"
+date: 2024-02-12
+url: https://discourse.slicer.org/t/34268
+---
+
 # Rendering side by side
 
 **Topic ID**: 34268

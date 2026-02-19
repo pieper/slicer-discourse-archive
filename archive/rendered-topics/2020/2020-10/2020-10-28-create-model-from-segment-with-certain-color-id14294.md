@@ -1,3 +1,10 @@
+---
+topic_id: 14294
+title: "Create Model From Segment With Certain Color"
+date: 2020-10-28
+url: https://discourse.slicer.org/t/14294
+---
+
 # Create Model from segment with certain color
 
 **Topic ID**: 14294

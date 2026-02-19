@@ -1,3 +1,10 @@
+---
+topic_id: 30626
+title: "Using U Net R231 Model For Lung Segmentation In Python Ide"
+date: 2023-07-16
+url: https://discourse.slicer.org/t/30626
+---
+
 # Using U-net (R231) model for lung segmentation in Python IDE
 
 **Topic ID**: 30626

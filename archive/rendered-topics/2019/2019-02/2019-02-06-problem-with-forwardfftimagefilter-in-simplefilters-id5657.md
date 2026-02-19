@@ -1,3 +1,10 @@
+---
+topic_id: 5657
+title: "Problem With Forwardfftimagefilter In Simplefilters"
+date: 2019-02-06
+url: https://discourse.slicer.org/t/5657
+---
+
 # Problem with ForwardFFTImageFilter in SimpleFilters
 
 **Topic ID**: 5657

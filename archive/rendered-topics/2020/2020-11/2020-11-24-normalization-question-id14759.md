@@ -1,3 +1,10 @@
+---
+topic_id: 14759
+title: "Normalization Question"
+date: 2020-11-24
+url: https://discourse.slicer.org/t/14759
+---
+
 # Normalization question
 
 **Topic ID**: 14759

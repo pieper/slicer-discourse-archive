@@ -1,3 +1,10 @@
+---
+topic_id: 2158
+title: "Slicer Recommended Hardware Configuration"
+date: 2018-02-23
+url: https://discourse.slicer.org/t/2158
+---
+
 # Slicer recommended hardware configuration
 
 **Topic ID**: 2158

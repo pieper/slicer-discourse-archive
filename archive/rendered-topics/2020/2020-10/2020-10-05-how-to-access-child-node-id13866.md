@@ -1,3 +1,10 @@
+---
+topic_id: 13866
+title: "How To Access Child Node"
+date: 2020-10-05
+url: https://discourse.slicer.org/t/13866
+---
+
 # How to access child node
 
 **Topic ID**: 13866

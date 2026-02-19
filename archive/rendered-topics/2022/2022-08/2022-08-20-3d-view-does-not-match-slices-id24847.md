@@ -1,3 +1,10 @@
+---
+topic_id: 24847
+title: "3D View Does Not Match Slices"
+date: 2022-08-20
+url: https://discourse.slicer.org/t/24847
+---
+
 # 3D view does not match slices
 
 **Topic ID**: 24847

@@ -1,3 +1,10 @@
+---
+topic_id: 25336
+title: "Colorbar Of Volume Rendering On 3D View"
+date: 2022-09-19
+url: https://discourse.slicer.org/t/25336
+---
+
 # Colorbar of volume rendering on 3D view
 
 **Topic ID**: 25336

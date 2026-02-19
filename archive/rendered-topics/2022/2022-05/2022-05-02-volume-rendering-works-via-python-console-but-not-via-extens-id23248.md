@@ -1,3 +1,10 @@
+---
+topic_id: 23248
+title: "Volume Rendering Works Via Python Console But Not Via Extens"
+date: 2022-05-02
+url: https://discourse.slicer.org/t/23248
+---
+
 # [Volume Rendering] Works via python console but not via extension code
 
 **Topic ID**: 23248

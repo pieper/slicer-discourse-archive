@@ -1,3 +1,10 @@
+---
+topic_id: 22681
+title: "Importing A Series Of Dicom Files Into A Single Volume"
+date: 2022-03-25
+url: https://discourse.slicer.org/t/22681
+---
+
 # Importing a series of DICOM files into a single volume
 
 **Topic ID**: 22681

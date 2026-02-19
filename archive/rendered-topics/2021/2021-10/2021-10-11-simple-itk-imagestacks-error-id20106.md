@@ -1,3 +1,10 @@
+---
+topic_id: 20106
+title: "Simple Itk Imagestacks Error"
+date: 2021-10-11
+url: https://discourse.slicer.org/t/20106
+---
+
 # Simple ITK ImageStacks Error
 
 **Topic ID**: 20106

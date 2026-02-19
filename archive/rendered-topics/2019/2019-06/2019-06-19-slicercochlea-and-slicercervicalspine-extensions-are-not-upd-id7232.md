@@ -1,3 +1,10 @@
+---
+topic_id: 7232
+title: "Slicercochlea And Slicercervicalspine Extensions Are Not Upd"
+date: 2019-06-19
+url: https://discourse.slicer.org/t/7232
+---
+
 # SlicerCochlea and SlicerCervicalSpine extensions are not updated in the extension manager in WIndows
 
 **Topic ID**: 7232

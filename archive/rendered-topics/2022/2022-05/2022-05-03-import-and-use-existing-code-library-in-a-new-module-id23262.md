@@ -1,3 +1,10 @@
+---
+topic_id: 23262
+title: "Import And Use Existing Code Library In A New Module"
+date: 2022-05-03
+url: https://discourse.slicer.org/t/23262
+---
+
 # Import and use existing code/library in a new module
 
 **Topic ID**: 23262

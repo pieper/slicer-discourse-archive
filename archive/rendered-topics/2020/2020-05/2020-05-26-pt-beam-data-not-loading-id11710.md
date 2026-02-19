@@ -1,3 +1,10 @@
+---
+topic_id: 11710
+title: "Pt Beam Data Not Loading"
+date: 2020-05-26
+url: https://discourse.slicer.org/t/11710
+---
+
 # PT Beam Data not loading
 
 **Topic ID**: 11710

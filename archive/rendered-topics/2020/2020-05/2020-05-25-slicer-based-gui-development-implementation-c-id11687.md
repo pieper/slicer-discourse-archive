@@ -1,3 +1,10 @@
+---
+topic_id: 11687
+title: "Slicer Based Gui Development Implementation C"
+date: 2020-05-25
+url: https://discourse.slicer.org/t/11687
+---
+
 # Slicer Based GUI development/implementation c++
 
 **Topic ID**: 11687

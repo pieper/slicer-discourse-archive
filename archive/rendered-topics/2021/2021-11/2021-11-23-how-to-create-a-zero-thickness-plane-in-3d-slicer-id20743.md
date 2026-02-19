@@ -1,3 +1,10 @@
+---
+topic_id: 20743
+title: "How To Create A Zero Thickness Plane In 3D Slicer"
+date: 2021-11-23
+url: https://discourse.slicer.org/t/20743
+---
+
 # How to Create a zero thickness plane in 3D slicer?
 
 **Topic ID**: 20743

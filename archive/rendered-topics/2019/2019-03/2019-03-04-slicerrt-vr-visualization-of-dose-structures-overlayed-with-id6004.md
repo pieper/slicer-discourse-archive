@@ -1,3 +1,10 @@
+---
+topic_id: 6004
+title: "Slicerrt Vr Visualization Of Dose Structures Overlayed With"
+date: 2019-03-04
+url: https://discourse.slicer.org/t/6004
+---
+
 # SlicerRT - VR visualization of Dose & Structures overlayed with CT
 
 **Topic ID**: 6004

@@ -1,3 +1,10 @@
+---
+topic_id: 6435
+title: "Slicerdcm2Nii Extension Not Visible In Extension Manager Des"
+date: 2019-04-08
+url: https://discourse.slicer.org/t/6435
+---
+
 # SlicerDcm2nii extension not visible in Extension Manager despite successful build
 
 **Topic ID**: 6435

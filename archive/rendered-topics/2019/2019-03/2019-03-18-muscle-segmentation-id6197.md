@@ -1,3 +1,10 @@
+---
+topic_id: 6197
+title: "Muscle Segmentation"
+date: 2019-03-18
+url: https://discourse.slicer.org/t/6197
+---
+
 # Muscle segmentation
 
 **Topic ID**: 6197

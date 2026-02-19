@@ -1,3 +1,10 @@
+---
+topic_id: 22528
+title: "Pythonslicerlaunchersettings Ini Points To Wrong Additionals"
+date: 2022-03-15
+url: https://discourse.slicer.org/t/22528
+---
+
 # `PythonSlicerLauncherSettings.ini` points to wrong `additionalSettingsFilePath`
 
 **Topic ID**: 22528

@@ -1,3 +1,10 @@
+---
+topic_id: 3952
+title: "Multiple Extensions Failing To Build For Mac"
+date: 2018-08-30
+url: https://discourse.slicer.org/t/3952
+---
+
 # Multiple extensions failing to build for Mac
 
 **Topic ID**: 3952

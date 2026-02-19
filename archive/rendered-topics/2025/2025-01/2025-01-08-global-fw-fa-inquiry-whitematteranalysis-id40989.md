@@ -1,3 +1,10 @@
+---
+topic_id: 40989
+title: "Global Fw Fa Inquiry Whitematteranalysis"
+date: 2025-01-08
+url: https://discourse.slicer.org/t/40989
+---
+
 # 'Global' FW/FA Inquiry - whitematteranalysis
 
 **Topic ID**: 40989

@@ -1,3 +1,10 @@
+---
+topic_id: 28017
+title: "Reload And Test Deletes Data"
+date: 2023-02-23
+url: https://discourse.slicer.org/t/28017
+---
+
 # Reload and Test deletes data
 
 **Topic ID**: 28017

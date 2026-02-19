@@ -1,3 +1,10 @@
+---
+topic_id: 21661
+title: "Nvidia Ai Assisted Annotation Of Liver Ct"
+date: 2022-01-27
+url: https://discourse.slicer.org/t/21661
+---
+
 # Nvidia AI-assisted annotation of liver CT
 
 **Topic ID**: 21661

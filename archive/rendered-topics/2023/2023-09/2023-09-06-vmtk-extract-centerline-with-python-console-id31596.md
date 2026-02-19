@@ -1,3 +1,10 @@
+---
+topic_id: 31596
+title: "Vmtk Extract Centerline With Python Console"
+date: 2023-09-06
+url: https://discourse.slicer.org/t/31596
+---
+
 # VMTK Extract Centerline with python console
 
 **Topic ID**: 31596

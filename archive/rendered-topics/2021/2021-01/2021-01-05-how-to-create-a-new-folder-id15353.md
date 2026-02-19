@@ -1,3 +1,10 @@
+---
+topic_id: 15353
+title: "How To Create A New Folder"
+date: 2021-01-05
+url: https://discourse.slicer.org/t/15353
+---
+
 # How to create a new folder?
 
 **Topic ID**: 15353

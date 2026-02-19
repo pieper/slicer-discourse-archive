@@ -1,3 +1,10 @@
+---
+topic_id: 18627
+title: "Animator Function Making Choppy Gifs"
+date: 2021-07-11
+url: https://discourse.slicer.org/t/18627
+---
+
 # Animator function making choppy gifs
 
 **Topic ID**: 18627

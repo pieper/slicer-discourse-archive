@@ -1,3 +1,10 @@
+---
+topic_id: 14959
+title: "Segment Mesher To Generate Volumetric Mesh Offset Issue"
+date: 2020-12-09
+url: https://discourse.slicer.org/t/14959
+---
+
 # Segment Mesher to generate volumetric mesh - Offset issue
 
 **Topic ID**: 14959

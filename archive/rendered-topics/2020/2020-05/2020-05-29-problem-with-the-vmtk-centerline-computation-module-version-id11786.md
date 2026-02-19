@@ -1,3 +1,10 @@
+---
+topic_id: 11786
+title: "Problem With The Vmtk Centerline Computation Module Version"
+date: 2020-05-29
+url: https://discourse.slicer.org/t/11786
+---
+
 # Problem with the VMTK Centerline Computation module version
 
 **Topic ID**: 11786

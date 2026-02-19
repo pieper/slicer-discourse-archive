@@ -1,3 +1,10 @@
+---
+topic_id: 12095
+title: "Call For Papers Miccai 20 Workshop On Shape Analysis In Medi"
+date: 2020-06-18
+url: https://discourse.slicer.org/t/12095
+---
+
 # Call for Papers - MICCAI’20 Workshop on Shape Analysis in Medical Imaging (SHAPEMI)
 
 **Topic ID**: 12095

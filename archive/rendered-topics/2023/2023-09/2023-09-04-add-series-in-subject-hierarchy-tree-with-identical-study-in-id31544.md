@@ -1,3 +1,10 @@
+---
+topic_id: 31544
+title: "Add Series In Subject Hierarchy Tree With Identical Study In"
+date: 2023-09-04
+url: https://discourse.slicer.org/t/31544
+---
+
 # Add series in subject hierarchy tree with identical study instance UID and series description (for example anonymized and not anonymized)
 
 **Topic ID**: 31544

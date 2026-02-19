@@ -1,3 +1,10 @@
+---
+topic_id: 5644
+title: "Sequence Recording Shifting While Scrolling Through 2D Slice"
+date: 2019-02-05
+url: https://discourse.slicer.org/t/5644
+---
+
 # Sequence recording shifting while scrolling through 2D slices
 
 **Topic ID**: 5644

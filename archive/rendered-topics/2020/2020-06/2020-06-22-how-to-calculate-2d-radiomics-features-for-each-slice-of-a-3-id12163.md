@@ -1,3 +1,10 @@
+---
+topic_id: 12163
+title: "How To Calculate 2D Radiomics Features For Each Slice Of A 3"
+date: 2020-06-22
+url: https://discourse.slicer.org/t/12163
+---
+
 # How to calculate 2D Radiomics features for each slice of a 3D volume with a 3D mask
 
 **Topic ID**: 12163

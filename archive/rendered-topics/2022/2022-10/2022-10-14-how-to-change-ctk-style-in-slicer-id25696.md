@@ -1,3 +1,10 @@
+---
+topic_id: 25696
+title: "How To Change Ctk Style In Slicer"
+date: 2022-10-14
+url: https://discourse.slicer.org/t/25696
+---
+
 # How to change ctk style in Slicer?
 
 **Topic ID**: 25696

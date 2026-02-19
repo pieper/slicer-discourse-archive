@@ -1,3 +1,10 @@
+---
+topic_id: 35913
+title: "Can You Run Pyradiomics On Multiple Scans With Labels Within"
+date: 2024-05-04
+url: https://discourse.slicer.org/t/35913
+---
+
 # Can you run PyRadiomics on multiple scans with labels within Slicer?
 
 **Topic ID**: 35913

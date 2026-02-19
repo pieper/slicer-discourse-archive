@@ -1,3 +1,10 @@
+---
+topic_id: 5456
+title: "New Job Seeking Medical Imaging Software Developer To Join E"
+date: 2019-01-21
+url: https://discourse.slicer.org/t/5456
+---
+
 # NEW JOB! Seeking Medical Imaging Software Developer to Join Ezra.ai
 
 **Topic ID**: 5456

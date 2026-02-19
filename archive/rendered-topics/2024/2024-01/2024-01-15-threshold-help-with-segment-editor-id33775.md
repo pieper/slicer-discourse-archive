@@ -1,3 +1,10 @@
+---
+topic_id: 33775
+title: "Threshold Help With Segment Editor"
+date: 2024-01-15
+url: https://discourse.slicer.org/t/33775
+---
+
 # Threshold Help with Segment Editor
 
 **Topic ID**: 33775

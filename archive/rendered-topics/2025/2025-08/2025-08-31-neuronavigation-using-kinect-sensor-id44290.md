@@ -1,3 +1,10 @@
+---
+topic_id: 44290
+title: "Neuronavigation Using Kinect Sensor"
+date: 2025-08-31
+url: https://discourse.slicer.org/t/44290
+---
+
 # Neuronavigation using Kinect sensor
 
 **Topic ID**: 44290

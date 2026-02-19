@@ -1,3 +1,10 @@
+---
+topic_id: 33372
+title: "Square Cube Paint Brush"
+date: 2023-12-12
+url: https://discourse.slicer.org/t/33372
+---
+
 # Square/Cube Paint Brush
 
 **Topic ID**: 33372

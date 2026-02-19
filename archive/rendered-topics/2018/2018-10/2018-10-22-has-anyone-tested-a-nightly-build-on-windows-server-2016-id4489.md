@@ -1,3 +1,10 @@
+---
+topic_id: 4489
+title: "Has Anyone Tested A Nightly Build On Windows Server 2016"
+date: 2018-10-22
+url: https://discourse.slicer.org/t/4489
+---
+
 # Has anyone tested a nightly build on windows server 2016?
 
 **Topic ID**: 4489

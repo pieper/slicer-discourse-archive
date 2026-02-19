@@ -1,3 +1,10 @@
+---
+topic_id: 12691
+title: "Shortening Email Delay"
+date: 2020-07-22
+url: https://discourse.slicer.org/t/12691
+---
+
 # Shortening email delay
 
 **Topic ID**: 12691

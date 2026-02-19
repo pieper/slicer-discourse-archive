@@ -1,3 +1,10 @@
+---
+topic_id: 16032
+title: "Query On Exporting Annotation"
+date: 2021-02-17
+url: https://discourse.slicer.org/t/16032
+---
+
 # Query on exporting annotation
 
 **Topic ID**: 16032

@@ -1,3 +1,10 @@
+---
+topic_id: 13963
+title: "Trajectory Calculation For Stereotaxic Frames"
+date: 2020-10-09
+url: https://discourse.slicer.org/t/13963
+---
+
 # Trajectory calculation for stereotaxic frames
 
 **Topic ID**: 13963

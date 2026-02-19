@@ -1,3 +1,10 @@
+---
+topic_id: 773
+title: "Ct Grey White Matter Segmenation"
+date: 2017-07-27
+url: https://discourse.slicer.org/t/773
+---
+
 # CT grey/white matter segmenation
 
 **Topic ID**: 773

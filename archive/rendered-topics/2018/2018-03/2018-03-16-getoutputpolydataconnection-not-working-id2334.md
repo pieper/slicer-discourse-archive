@@ -1,3 +1,10 @@
+---
+topic_id: 2334
+title: "Getoutputpolydataconnection Not Working"
+date: 2018-03-16
+url: https://discourse.slicer.org/t/2334
+---
+
 # GetOutputPolyDataConnection() not working
 
 **Topic ID**: 2334

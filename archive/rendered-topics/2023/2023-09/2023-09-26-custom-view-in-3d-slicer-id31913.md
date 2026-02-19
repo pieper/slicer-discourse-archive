@@ -1,3 +1,10 @@
+---
+topic_id: 31913
+title: "Custom View In 3D Slicer"
+date: 2023-09-26
+url: https://discourse.slicer.org/t/31913
+---
+
 # Custom View in 3D Slicer
 
 **Topic ID**: 31913

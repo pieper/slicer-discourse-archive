@@ -1,3 +1,10 @@
+---
+topic_id: 38536
+title: "Markups Feature"
+date: 2024-09-25
+url: https://discourse.slicer.org/t/38536
+---
+
 # Markups Feature
 
 **Topic ID**: 38536

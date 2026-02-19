@@ -1,3 +1,10 @@
+---
+topic_id: 9049
+title: "Segment Editor Paint Brush Produces Weired Labels"
+date: 2019-11-06
+url: https://discourse.slicer.org/t/9049
+---
+
 # Segment Editor paint brush produces weired labels
 
 **Topic ID**: 9049

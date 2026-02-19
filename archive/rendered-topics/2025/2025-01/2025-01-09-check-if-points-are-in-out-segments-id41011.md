@@ -1,3 +1,10 @@
+---
+topic_id: 41011
+title: "Check If Points Are In Out Segments"
+date: 2025-01-09
+url: https://discourse.slicer.org/t/41011
+---
+
 # Check if points are in/out segments
 
 **Topic ID**: 41011

@@ -1,3 +1,10 @@
+---
+topic_id: 39740
+title: "Centerline Projection After Registration"
+date: 2024-10-17
+url: https://discourse.slicer.org/t/39740
+---
+
 # Centerline projection after registration
 
 **Topic ID**: 39740

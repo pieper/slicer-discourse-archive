@@ -1,3 +1,10 @@
+---
+topic_id: 33306
+title: "Does Slicervirtualreality Work With 5 6"
+date: 2023-12-09
+url: https://discourse.slicer.org/t/33306
+---
+
 # Does SlicerVirtualReality work with 5.6?
 
 **Topic ID**: 33306

@@ -1,3 +1,10 @@
+---
+topic_id: 35073
+title: "Overlaying Raw Data Within Segmentations"
+date: 2024-03-25
+url: https://discourse.slicer.org/t/35073
+---
+
 # Overlaying Raw Data within Segmentations
 
 **Topic ID**: 35073

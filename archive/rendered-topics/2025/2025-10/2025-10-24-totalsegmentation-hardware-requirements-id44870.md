@@ -1,3 +1,10 @@
+---
+topic_id: 44870
+title: "Totalsegmentation Hardware Requirements"
+date: 2025-10-24
+url: https://discourse.slicer.org/t/44870
+---
+
 # Totalsegmentation hardware requirements
 
 **Topic ID**: 44870

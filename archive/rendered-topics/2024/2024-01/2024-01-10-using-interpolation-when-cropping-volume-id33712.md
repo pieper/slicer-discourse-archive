@@ -1,3 +1,10 @@
+---
+topic_id: 33712
+title: "Using Interpolation When Cropping Volume"
+date: 2024-01-10
+url: https://discourse.slicer.org/t/33712
+---
+
 # Using interpolation when cropping volume
 
 **Topic ID**: 33712

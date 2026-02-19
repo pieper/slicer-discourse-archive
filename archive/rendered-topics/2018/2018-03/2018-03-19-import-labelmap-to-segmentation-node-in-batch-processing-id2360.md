@@ -1,3 +1,10 @@
+---
+topic_id: 2360
+title: "Import Labelmap To Segmentation Node In Batch Processing"
+date: 2018-03-19
+url: https://discourse.slicer.org/t/2360
+---
+
 # Import labelmap to segmentation node - in batch processing
 
 **Topic ID**: 2360

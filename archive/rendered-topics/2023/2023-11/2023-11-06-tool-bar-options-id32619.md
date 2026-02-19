@@ -1,3 +1,10 @@
+---
+topic_id: 32619
+title: "Tool Bar Options"
+date: 2023-11-06
+url: https://discourse.slicer.org/t/32619
+---
+
 # Tool bar options
 
 **Topic ID**: 32619

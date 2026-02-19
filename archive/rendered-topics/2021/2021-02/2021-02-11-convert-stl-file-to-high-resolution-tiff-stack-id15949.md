@@ -1,3 +1,10 @@
+---
+topic_id: 15949
+title: "Convert Stl File To High Resolution Tiff Stack"
+date: 2021-02-11
+url: https://discourse.slicer.org/t/15949
+---
+
 # Convert STL file to high-resolution TIFF stack
 
 **Topic ID**: 15949

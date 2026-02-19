@@ -1,3 +1,10 @@
+---
+topic_id: 3906
+title: "Bitmap Exporter"
+date: 2018-08-27
+url: https://discourse.slicer.org/t/3906
+---
+
 # BITMAP Exporter
 
 **Topic ID**: 3906

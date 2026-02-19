@@ -1,3 +1,10 @@
+---
+topic_id: 13433
+title: "Show Hide Slice Views Widget"
+date: 2020-09-11
+url: https://discourse.slicer.org/t/13433
+---
+
 # Show/Hide slice views widget
 
 **Topic ID**: 13433

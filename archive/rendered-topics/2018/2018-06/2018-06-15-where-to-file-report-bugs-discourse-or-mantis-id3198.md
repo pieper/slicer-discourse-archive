@@ -1,3 +1,10 @@
+---
+topic_id: 3198
+title: "Where To File Report Bugs Discourse Or Mantis"
+date: 2018-06-15
+url: https://discourse.slicer.org/t/3198
+---
+
 # Where to file/report bugs: Discourse or mantis?
 
 **Topic ID**: 3198

@@ -1,3 +1,10 @@
+---
+topic_id: 20460
+title: "Build Failure On Mac Using Git Protocol"
+date: 2021-11-02
+url: https://discourse.slicer.org/t/20460
+---
+
 # Build failure on Mac using git:// protocol
 
 **Topic ID**: 20460

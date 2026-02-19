@@ -1,3 +1,10 @@
+---
+topic_id: 5
+title: "Forum Guidelines"
+date: 2017-04-07
+url: https://discourse.slicer.org/t/5
+---
+
 # Forum Guidelines
 
 **Topic ID**: 5

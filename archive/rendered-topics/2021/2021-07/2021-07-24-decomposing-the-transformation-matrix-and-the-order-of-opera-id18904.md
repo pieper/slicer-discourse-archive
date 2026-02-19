@@ -1,3 +1,10 @@
+---
+topic_id: 18904
+title: "Decomposing The Transformation Matrix And The Order Of Opera"
+date: 2021-07-24
+url: https://discourse.slicer.org/t/18904
+---
+
 # Decomposing the Transformation matrix and the order of operation?
 
 **Topic ID**: 18904

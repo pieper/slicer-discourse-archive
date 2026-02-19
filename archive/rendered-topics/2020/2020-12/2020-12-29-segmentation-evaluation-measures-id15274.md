@@ -1,3 +1,10 @@
+---
+topic_id: 15274
+title: "Segmentation Evaluation Measures"
+date: 2020-12-29
+url: https://discourse.slicer.org/t/15274
+---
+
 # Segmentation Evaluation Measures
 
 **Topic ID**: 15274

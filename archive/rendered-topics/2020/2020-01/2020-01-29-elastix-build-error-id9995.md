@@ -1,3 +1,10 @@
+---
+topic_id: 9995
+title: "Elastix Build Error"
+date: 2020-01-29
+url: https://discourse.slicer.org/t/9995
+---
+
 # Elastix build error
 
 **Topic ID**: 9995

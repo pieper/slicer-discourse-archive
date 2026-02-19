@@ -1,3 +1,10 @@
+---
+topic_id: 35633
+title: "A Portable Tracking Method"
+date: 2024-04-20
+url: https://discourse.slicer.org/t/35633
+---
+
 # A portable tracking method
 
 **Topic ID**: 35633

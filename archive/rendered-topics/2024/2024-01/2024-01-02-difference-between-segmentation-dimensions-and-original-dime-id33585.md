@@ -1,3 +1,10 @@
+---
+topic_id: 33585
+title: "Difference Between Segmentation Dimensions And Original Dime"
+date: 2024-01-02
+url: https://discourse.slicer.org/t/33585
+---
+
 # Difference between segmentation dimensions and original dimensions
 
 **Topic ID**: 33585

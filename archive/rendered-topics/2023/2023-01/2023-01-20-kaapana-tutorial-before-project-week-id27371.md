@@ -1,3 +1,10 @@
+---
+topic_id: 27371
+title: "Kaapana Tutorial Before Project Week"
+date: 2023-01-20
+url: https://discourse.slicer.org/t/27371
+---
+
 # Kaapana Tutorial before Project Week
 
 **Topic ID**: 27371

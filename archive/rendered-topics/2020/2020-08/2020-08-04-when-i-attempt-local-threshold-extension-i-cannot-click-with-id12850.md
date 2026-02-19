@@ -1,3 +1,10 @@
+---
+topic_id: 12850
+title: "When I Attempt Local Threshold Extension I Cannot Click With"
+date: 2020-08-04
+url: https://discourse.slicer.org/t/12850
+---
+
 # When I attempt local threshold extension, I cannot click with left mouse button.
 
 **Topic ID**: 12850

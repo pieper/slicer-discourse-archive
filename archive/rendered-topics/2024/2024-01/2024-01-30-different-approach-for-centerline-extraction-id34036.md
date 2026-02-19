@@ -1,3 +1,10 @@
+---
+topic_id: 34036
+title: "Different Approach For Centerline Extraction"
+date: 2024-01-30
+url: https://discourse.slicer.org/t/34036
+---
+
 # Different approach for centerline extraction
 
 **Topic ID**: 34036

@@ -1,3 +1,10 @@
+---
+topic_id: 10140
+title: "Slicer Black Screen When Opening Stls Or Nrrds"
+date: 2020-02-06
+url: https://discourse.slicer.org/t/10140
+---
+
 # Slicer - black screen when opening stls or nrrds
 
 **Topic ID**: 10140

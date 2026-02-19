@@ -1,3 +1,10 @@
+---
+topic_id: 1807
+title: "Slicer4 Download Stops At 5Mb"
+date: 2018-01-10
+url: https://discourse.slicer.org/t/1807
+---
+
 # Slicer4 Download stops at 5mb
 
 **Topic ID**: 1807

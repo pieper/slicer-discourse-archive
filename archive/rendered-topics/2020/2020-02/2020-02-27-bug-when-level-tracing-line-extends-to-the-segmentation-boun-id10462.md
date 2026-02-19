@@ -1,3 +1,10 @@
+---
+topic_id: 10462
+title: "Bug When Level Tracing Line Extends To The Segmentation Boun"
+date: 2020-02-27
+url: https://discourse.slicer.org/t/10462
+---
+
 # Bug when "level tracing line" extends to the segmentation boundary?
 
 **Topic ID**: 10462

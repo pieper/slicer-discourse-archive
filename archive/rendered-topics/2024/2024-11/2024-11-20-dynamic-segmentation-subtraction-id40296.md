@@ -1,3 +1,10 @@
+---
+topic_id: 40296
+title: "Dynamic Segmentation Subtraction"
+date: 2024-11-20
+url: https://discourse.slicer.org/t/40296
+---
+
 # Dynamic segmentation subtraction
 
 **Topic ID**: 40296

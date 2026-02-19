@@ -1,3 +1,10 @@
+---
+topic_id: 19465
+title: "Slicerastro Show Axes On Slices"
+date: 2021-09-01
+url: https://discourse.slicer.org/t/19465
+---
+
 # SlicerAstro: show axes on slices
 
 **Topic ID**: 19465

@@ -1,3 +1,10 @@
+---
+topic_id: 19328
+title: "How To Use Slicer To Simulate The Effect Of Blood Flow In Bl"
+date: 2021-08-24
+url: https://discourse.slicer.org/t/19328
+---
+
 # How to use slicer to simulate the effect of blood flow in blood vessels
 
 **Topic ID**: 19328

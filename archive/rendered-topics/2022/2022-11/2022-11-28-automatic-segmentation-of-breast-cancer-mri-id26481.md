@@ -1,3 +1,10 @@
+---
+topic_id: 26481
+title: "Automatic Segmentation Of Breast Cancer Mri"
+date: 2022-11-28
+url: https://discourse.slicer.org/t/26481
+---
+
 # Automatic segmentation of breast cancer MRI
 
 **Topic ID**: 26481

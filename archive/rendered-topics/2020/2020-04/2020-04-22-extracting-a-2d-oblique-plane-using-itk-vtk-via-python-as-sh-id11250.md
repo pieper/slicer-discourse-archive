@@ -1,3 +1,10 @@
+---
+topic_id: 11250
+title: "Extracting A 2D Oblique Plane Using Itk Vtk Via Python As Sh"
+date: 2020-04-22
+url: https://discourse.slicer.org/t/11250
+---
+
 # Extracting a 2d oblique plane using itk/vtk via python, (as shown in slicer view)
 
 **Topic ID**: 11250

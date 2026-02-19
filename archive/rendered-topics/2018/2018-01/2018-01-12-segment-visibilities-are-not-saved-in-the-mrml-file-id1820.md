@@ -1,3 +1,10 @@
+---
+topic_id: 1820
+title: "Segment Visibilities Are Not Saved In The Mrml File"
+date: 2018-01-12
+url: https://discourse.slicer.org/t/1820
+---
+
 # Segment visibilities are not saved in the mrml file
 
 **Topic ID**: 1820

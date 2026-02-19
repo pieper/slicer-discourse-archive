@@ -1,3 +1,10 @@
+---
+topic_id: 27043
+title: "Automatic Segmentation Of The Inferior Jaw Of The Cbctdental"
+date: 2023-01-05
+url: https://discourse.slicer.org/t/27043
+---
+
 # Automatic segmentation of the inferior jaw of the CBCTDentalSurgery sample image
 
 **Topic ID**: 27043

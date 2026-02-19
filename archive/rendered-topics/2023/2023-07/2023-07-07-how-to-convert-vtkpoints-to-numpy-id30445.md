@@ -1,3 +1,10 @@
+---
+topic_id: 30445
+title: "How To Convert Vtkpoints To Numpy"
+date: 2023-07-07
+url: https://discourse.slicer.org/t/30445
+---
+
 # How to convert vtkPoints to numpy?
 
 **Topic ID**: 30445

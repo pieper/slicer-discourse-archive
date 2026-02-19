@@ -1,3 +1,10 @@
+---
+topic_id: 7140
+title: "How To Quantitatively Compare Spm Fmri Data And Bip Maps"
+date: 2019-06-12
+url: https://discourse.slicer.org/t/7140
+---
+
 # How to quantitatively compare SPM fMRI data and BIP maps
 
 **Topic ID**: 7140

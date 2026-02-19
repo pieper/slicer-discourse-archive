@@ -1,3 +1,10 @@
+---
+topic_id: 41017
+title: "Segment Section Of Adipose Tissue Whose Radial Distance From"
+date: 2025-01-09
+url: https://discourse.slicer.org/t/41017
+---
+
 # Segment section of adipose tissue whose radial distance from the blood vessel wall is equal to the diameter of the blood vessel.
 
 **Topic ID**: 41017

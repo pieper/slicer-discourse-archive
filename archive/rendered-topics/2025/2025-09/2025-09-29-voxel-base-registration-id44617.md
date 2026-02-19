@@ -1,3 +1,10 @@
+---
+topic_id: 44617
+title: "Voxel Base Registration"
+date: 2025-09-29
+url: https://discourse.slicer.org/t/44617
+---
+
 # Voxel-base registration?
 
 **Topic ID**: 44617

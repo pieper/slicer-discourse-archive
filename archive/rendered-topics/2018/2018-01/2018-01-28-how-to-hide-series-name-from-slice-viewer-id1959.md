@@ -1,3 +1,10 @@
+---
+topic_id: 1959
+title: "How To Hide Series Name From Slice Viewer"
+date: 2018-01-28
+url: https://discourse.slicer.org/t/1959
+---
+
 # How to hide series name from slice viewer?
 
 **Topic ID**: 1959

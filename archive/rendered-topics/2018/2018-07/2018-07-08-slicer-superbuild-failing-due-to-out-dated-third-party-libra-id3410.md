@@ -1,3 +1,10 @@
+---
+topic_id: 3410
+title: "Slicer Superbuild Failing Due To Out Dated Third Party Libra"
+date: 2018-07-08
+url: https://discourse.slicer.org/t/3410
+---
+
 # Slicer superbuild failing due to out-dated third party libraries: VTK and curl
 
 **Topic ID**: 3410

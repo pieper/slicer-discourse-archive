@@ -1,3 +1,10 @@
+---
+topic_id: 27908
+title: "Fiducial Registration Module For Slicercat"
+date: 2023-02-18
+url: https://discourse.slicer.org/t/27908
+---
+
 # Fiducial registration module for SlicerCAT
 
 **Topic ID**: 27908

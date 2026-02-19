@@ -1,3 +1,10 @@
+---
+topic_id: 27197
+title: "How To Access Node In Scene"
+date: 2023-01-12
+url: https://discourse.slicer.org/t/27197
+---
+
 # How to access Node in Scene?
 
 **Topic ID**: 27197

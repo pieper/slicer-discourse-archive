@@ -1,3 +1,10 @@
+---
+topic_id: 35807
+title: "Strategies For Distributing Python Programs Securely"
+date: 2024-04-29
+url: https://discourse.slicer.org/t/35807
+---
+
 # Strategies for Distributing Python Programs Securely
 
 **Topic ID**: 35807

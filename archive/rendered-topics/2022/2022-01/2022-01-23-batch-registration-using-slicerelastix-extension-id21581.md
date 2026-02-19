@@ -1,3 +1,10 @@
+---
+topic_id: 21581
+title: "Batch Registration Using Slicerelastix Extension"
+date: 2022-01-23
+url: https://discourse.slicer.org/t/21581
+---
+
 # Batch registration using SlicerElastix Extension
 
 **Topic ID**: 21581

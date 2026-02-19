@@ -1,3 +1,10 @@
+---
+topic_id: 13006
+title: "Multiple Choice Dialog"
+date: 2020-08-14
+url: https://discourse.slicer.org/t/13006
+---
+
 # Multiple choice dialog
 
 **Topic ID**: 13006

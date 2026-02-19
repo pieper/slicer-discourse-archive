@@ -1,3 +1,10 @@
+---
+topic_id: 10532
+title: "Volumes On Ct Scan"
+date: 2020-03-03
+url: https://discourse.slicer.org/t/10532
+---
+
 # volumes on ct scan
 
 **Topic ID**: 10532

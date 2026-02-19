@@ -1,3 +1,10 @@
+---
+topic_id: 31261
+title: "Compare Volumes Module Display Order"
+date: 2023-08-21
+url: https://discourse.slicer.org/t/31261
+---
+
 # "Compare Volumes" module - display order
 
 **Topic ID**: 31261

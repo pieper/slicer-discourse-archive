@@ -1,3 +1,10 @@
+---
+topic_id: 12930
+title: "Unsigned Application Issue On Mac"
+date: 2020-08-10
+url: https://discourse.slicer.org/t/12930
+---
+
 # Unsigned application issue on Mac
 
 **Topic ID**: 12930

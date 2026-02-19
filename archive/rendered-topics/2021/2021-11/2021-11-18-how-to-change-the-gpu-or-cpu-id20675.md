@@ -1,3 +1,10 @@
+---
+topic_id: 20675
+title: "How To Change The Gpu Or Cpu"
+date: 2021-11-18
+url: https://discourse.slicer.org/t/20675
+---
+
 # How to change the GPU or CPU？
 
 **Topic ID**: 20675

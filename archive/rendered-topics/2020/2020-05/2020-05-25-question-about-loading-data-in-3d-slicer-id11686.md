@@ -1,3 +1,10 @@
+---
+topic_id: 11686
+title: "Question About Loading Data In 3D Slicer"
+date: 2020-05-25
+url: https://discourse.slicer.org/t/11686
+---
+
 # Question About Loading Data in 3D Slicer
 
 **Topic ID**: 11686

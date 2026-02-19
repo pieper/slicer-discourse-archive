@@ -1,3 +1,10 @@
+---
+topic_id: 16562
+title: "C Beginners Guide"
+date: 2021-03-16
+url: https://discourse.slicer.org/t/16562
+---
+
 # C++ beginners guide
 
 **Topic ID**: 16562

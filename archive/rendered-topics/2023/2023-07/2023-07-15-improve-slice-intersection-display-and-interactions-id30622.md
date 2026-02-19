@@ -1,3 +1,10 @@
+---
+topic_id: 30622
+title: "Improve Slice Intersection Display And Interactions"
+date: 2023-07-15
+url: https://discourse.slicer.org/t/30622
+---
+
 # Improve slice intersection display and interactions
 
 **Topic ID**: 30622

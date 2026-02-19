@@ -1,3 +1,10 @@
+---
+topic_id: 43551
+title: "Making Markups And Exporting Json In Just One Screen"
+date: 2025-06-30
+url: https://discourse.slicer.org/t/43551
+---
+
 # Making Markups and Exporting json in just one screen
 
 **Topic ID**: 43551

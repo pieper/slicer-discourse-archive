@@ -1,3 +1,10 @@
+---
+topic_id: 13023
+title: "Temporal Bone Segmentation"
+date: 2020-08-16
+url: https://discourse.slicer.org/t/13023
+---
+
 # Temporal Bone Segmentation
 
 **Topic ID**: 13023

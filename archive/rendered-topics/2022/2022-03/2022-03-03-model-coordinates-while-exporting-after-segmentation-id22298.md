@@ -1,3 +1,10 @@
+---
+topic_id: 22298
+title: "Model Coordinates While Exporting After Segmentation"
+date: 2022-03-03
+url: https://discourse.slicer.org/t/22298
+---
+
 # Model coordinates while exporting after segmentation
 
 **Topic ID**: 22298

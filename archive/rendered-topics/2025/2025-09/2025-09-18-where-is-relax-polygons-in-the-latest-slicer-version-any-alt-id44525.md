@@ -1,3 +1,10 @@
+---
+topic_id: 44525
+title: "Where Is Relax Polygons In The Latest Slicer Version Any Alt"
+date: 2025-09-18
+url: https://discourse.slicer.org/t/44525
+---
+
 # ​Where is “Relax Polygons” in the latest Slicer version? Any alternatives?
 
 **Topic ID**: 44525

@@ -1,3 +1,10 @@
+---
+topic_id: 3113
+title: "3D Slicer Model Maker"
+date: 2018-06-07
+url: https://discourse.slicer.org/t/3113
+---
+
 # 3D Slicer Model Maker
 
 **Topic ID**: 3113

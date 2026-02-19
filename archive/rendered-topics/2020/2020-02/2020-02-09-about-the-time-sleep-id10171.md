@@ -1,3 +1,10 @@
+---
+topic_id: 10171
+title: "About The Time Sleep"
+date: 2020-02-09
+url: https://discourse.slicer.org/t/10171
+---
+
 # About the time.sleep
 
 **Topic ID**: 10171

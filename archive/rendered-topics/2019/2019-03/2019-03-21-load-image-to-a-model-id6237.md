@@ -1,3 +1,10 @@
+---
+topic_id: 6237
+title: "Load Image To A Model"
+date: 2019-03-21
+url: https://discourse.slicer.org/t/6237
+---
+
 # Load image to a model
 
 **Topic ID**: 6237

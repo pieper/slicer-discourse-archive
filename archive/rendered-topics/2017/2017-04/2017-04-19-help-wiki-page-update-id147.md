@@ -1,3 +1,10 @@
+---
+topic_id: 147
+title: "Help Wiki Page Update"
+date: 2017-04-19
+url: https://discourse.slicer.org/t/147
+---
+
 # Help wiki page update
 
 **Topic ID**: 147

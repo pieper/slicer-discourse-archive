@@ -1,3 +1,10 @@
+---
+topic_id: 20053
+title: "Making Joint Smoothing Faster"
+date: 2021-10-07
+url: https://discourse.slicer.org/t/20053
+---
+
 # Making joint smoothing faster
 
 **Topic ID**: 20053

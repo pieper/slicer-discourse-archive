@@ -1,3 +1,10 @@
+---
+topic_id: 26009
+title: "Master Volume Is Not Set As Either The Foreground Or Backgro"
+date: 2022-11-01
+url: https://discourse.slicer.org/t/26009
+---
+
 # Master volume is not set as either the foreground or background
 
 **Topic ID**: 26009

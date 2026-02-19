@@ -1,3 +1,10 @@
+---
+topic_id: 25906
+title: "How To Make Slicer Compile Using Local Ctk Itk Vtk"
+date: 2022-10-26
+url: https://discourse.slicer.org/t/25906
+---
+
 # How to make slicer compile using local ctk, itk, vtk
 
 **Topic ID**: 25906

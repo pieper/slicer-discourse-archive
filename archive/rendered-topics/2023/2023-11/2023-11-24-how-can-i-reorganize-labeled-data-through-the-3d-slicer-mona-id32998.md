@@ -1,3 +1,10 @@
+---
+topic_id: 32998
+title: "How Can I Reorganize Labeled Data Through The 3D Slicer Mona"
+date: 2023-11-24
+url: https://discourse.slicer.org/t/32998
+---
+
 # How can I reorganize labeled data through the 3D Slicer MONAILabel extension?
 
 **Topic ID**: 32998

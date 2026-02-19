@@ -1,3 +1,10 @@
+---
+topic_id: 14733
+title: "Failure At Dicom Loading Could Not Load As A Scalar Volume"
+date: 2020-11-22
+url: https://discourse.slicer.org/t/14733
+---
+
 # Failure at Dicom loading: Could not load .... as a Scalar Volume
 
 **Topic ID**: 14733

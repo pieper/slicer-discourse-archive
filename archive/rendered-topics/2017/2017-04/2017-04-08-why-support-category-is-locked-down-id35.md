@@ -1,3 +1,10 @@
+---
+topic_id: 35
+title: "Why Support Category Is Locked Down"
+date: 2017-04-08
+url: https://discourse.slicer.org/t/35
+---
+
 # Why "Support" category is locked down?
 
 **Topic ID**: 35

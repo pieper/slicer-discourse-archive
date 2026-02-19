@@ -1,3 +1,10 @@
+---
+topic_id: 26037
+title: "Incorporate Gmsh In 3D Slicer"
+date: 2022-11-02
+url: https://discourse.slicer.org/t/26037
+---
+
 # Incorporate Gmsh in 3d Slicer
 
 **Topic ID**: 26037

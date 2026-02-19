@@ -1,3 +1,10 @@
+---
+topic_id: 2839
+title: "Load Dicom Import"
+date: 2018-05-17
+url: https://discourse.slicer.org/t/2839
+---
+
 # load DICOM import
 
 **Topic ID**: 2839

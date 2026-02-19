@@ -1,3 +1,10 @@
+---
+topic_id: 20202
+title: "Note On Python Dependencies"
+date: 2021-10-18
+url: https://discourse.slicer.org/t/20202
+---
+
 # Note on python dependencies
 
 **Topic ID**: 20202

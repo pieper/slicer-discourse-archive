@@ -1,3 +1,10 @@
+---
+topic_id: 9438
+title: "Tractography In Ply With Colors To Obj With Material Mtl Con"
+date: 2019-12-08
+url: https://discourse.slicer.org/t/9438
+---
+
 # Tractography in PLY with colors to OBJ with material (MTL) conversion
 
 **Topic ID**: 9438

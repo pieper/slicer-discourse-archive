@@ -1,3 +1,10 @@
+---
+topic_id: 450
+title: "Project Week 25 Announcements"
+date: 2017-06-07
+url: https://discourse.slicer.org/t/450
+---
+
 # Project Week #25 announcements
 
 **Topic ID**: 450

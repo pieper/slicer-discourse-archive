@@ -1,3 +1,10 @@
+---
+topic_id: 29611
+title: "How Can I Approximate The Magic Wand Tool In Avizo Amira"
+date: 2023-05-23
+url: https://discourse.slicer.org/t/29611
+---
+
 # How can I approximate the magic wand tool in Avizo/Amira?
 
 **Topic ID**: 29611

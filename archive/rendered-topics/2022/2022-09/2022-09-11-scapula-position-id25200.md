@@ -1,3 +1,10 @@
+---
+topic_id: 25200
+title: "Scapula Position"
+date: 2022-09-11
+url: https://discourse.slicer.org/t/25200
+---
+
 # Scapula position
 
 **Topic ID**: 25200

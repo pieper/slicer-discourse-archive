@@ -1,3 +1,10 @@
+---
+topic_id: 22460
+title: "Cannot Load Dicom File"
+date: 2022-03-11
+url: https://discourse.slicer.org/t/22460
+---
+
 # Cannot load DICOM file
 
 **Topic ID**: 22460

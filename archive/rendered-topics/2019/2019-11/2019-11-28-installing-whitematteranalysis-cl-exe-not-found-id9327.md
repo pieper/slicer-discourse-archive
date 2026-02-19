@@ -1,3 +1,10 @@
+---
+topic_id: 9327
+title: "Installing Whitematteranalysis Cl Exe Not Found"
+date: 2019-11-28
+url: https://discourse.slicer.org/t/9327
+---
+
 # Installing whitematteranalysis: cl.exe not found
 
 **Topic ID**: 9327

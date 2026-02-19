@@ -1,3 +1,10 @@
+---
+topic_id: 32580
+title: "Combine 2 Ct Volumes Into One"
+date: 2023-11-03
+url: https://discourse.slicer.org/t/32580
+---
+
 # Combine 2 ct volumes into one
 
 **Topic ID**: 32580

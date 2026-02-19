@@ -1,3 +1,10 @@
+---
+topic_id: 21737
+title: "Inserting An Image Under The Interactive Plot"
+date: 2022-02-01
+url: https://discourse.slicer.org/t/21737
+---
+
 # Inserting an image under the interactive plot
 
 **Topic ID**: 21737

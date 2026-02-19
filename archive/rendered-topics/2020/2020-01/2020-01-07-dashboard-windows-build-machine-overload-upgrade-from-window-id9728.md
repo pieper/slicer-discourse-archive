@@ -1,3 +1,10 @@
+---
+topic_id: 9728
+title: "Dashboard Windows Build Machine Overload Upgrade From Window"
+date: 2020-01-07
+url: https://discourse.slicer.org/t/9728
+---
+
 # Dashboard: windows build machine overload upgrade from Windows 7 to Windows 10
 
 **Topic ID**: 9728

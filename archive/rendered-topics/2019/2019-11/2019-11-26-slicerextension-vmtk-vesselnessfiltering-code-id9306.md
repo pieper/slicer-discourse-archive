@@ -1,3 +1,10 @@
+---
+topic_id: 9306
+title: "Slicerextension Vmtk Vesselnessfiltering Code"
+date: 2019-11-26
+url: https://discourse.slicer.org/t/9306
+---
+
 # SlicerExtension-VMTK - VesselnessFiltering - Code
 
 **Topic ID**: 9306

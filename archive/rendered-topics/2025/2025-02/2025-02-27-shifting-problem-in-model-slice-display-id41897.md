@@ -1,3 +1,10 @@
+---
+topic_id: 41897
+title: "Shifting Problem In Model Slice Display"
+date: 2025-02-27
+url: https://discourse.slicer.org/t/41897
+---
+
 # Shifting problem in model slice display
 
 **Topic ID**: 41897

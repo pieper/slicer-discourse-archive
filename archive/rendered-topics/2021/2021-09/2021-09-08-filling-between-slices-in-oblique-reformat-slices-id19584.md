@@ -1,3 +1,10 @@
+---
+topic_id: 19584
+title: "Filling Between Slices In Oblique Reformat Slices"
+date: 2021-09-08
+url: https://discourse.slicer.org/t/19584
+---
+
 # Filling between slices in oblique reformat slices
 
 **Topic ID**: 19584

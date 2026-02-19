@@ -1,3 +1,10 @@
+---
+topic_id: 20274
+title: "Ambiguous Control Point In Right Click Context Menu"
+date: 2021-10-20
+url: https://discourse.slicer.org/t/20274
+---
+
 # Ambiguous control point in right-click context menu
 
 **Topic ID**: 20274

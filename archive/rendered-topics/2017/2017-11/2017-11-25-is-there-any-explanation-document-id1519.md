@@ -1,3 +1,10 @@
+---
+topic_id: 1519
+title: "Is There Any Explanation Document"
+date: 2017-11-25
+url: https://discourse.slicer.org/t/1519
+---
+
 # Is there any explanation document?
 
 **Topic ID**: 1519

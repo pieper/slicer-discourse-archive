@@ -1,3 +1,10 @@
+---
+topic_id: 3948
+title: "Nii Saving Bit Range"
+date: 2018-08-30
+url: https://discourse.slicer.org/t/3948
+---
+
 # Nii saving (bit range)
 
 **Topic ID**: 3948

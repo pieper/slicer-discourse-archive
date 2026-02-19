@@ -1,3 +1,10 @@
+---
+topic_id: 10913
+title: "Error Failed To Obtain Launcher Executable Name"
+date: 2020-03-30
+url: https://discourse.slicer.org/t/10913
+---
+
 # error: Failed to obtain launcher executable name !
 
 **Topic ID**: 10913

@@ -1,3 +1,10 @@
+---
+topic_id: 41920
+title: "Converting 2D Hand Drawn Atlas Into 3D Atlas With Region Vol"
+date: 2025-02-28
+url: https://discourse.slicer.org/t/41920
+---
+
 # Converting 2d hand drawn atlas into 3d atlas with region volumes
 
 **Topic ID**: 41920

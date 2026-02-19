@@ -1,3 +1,10 @@
+---
+topic_id: 42638
+title: "Exporting An Mri Slice To A Flat Obj With Preserved Coordina"
+date: 2025-04-20
+url: https://discourse.slicer.org/t/42638
+---
+
 # Exporting an MRI slice to a flat .obj with preserved coordinates
 
 **Topic ID**: 42638

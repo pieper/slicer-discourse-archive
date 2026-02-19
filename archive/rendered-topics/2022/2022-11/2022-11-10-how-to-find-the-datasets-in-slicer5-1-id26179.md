@@ -1,3 +1,10 @@
+---
+topic_id: 26179
+title: "How To Find The Datasets In Slicer5 1"
+date: 2022-11-10
+url: https://discourse.slicer.org/t/26179
+---
+
 # How to find the datasets in Slicer5.1
 
 **Topic ID**: 26179

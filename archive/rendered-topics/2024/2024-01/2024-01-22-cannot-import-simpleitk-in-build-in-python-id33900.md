@@ -1,3 +1,10 @@
+---
+topic_id: 33900
+title: "Cannot Import Simpleitk In Build In Python"
+date: 2024-01-22
+url: https://discourse.slicer.org/t/33900
+---
+
 # Cannot import SimpleITK in build-in python
 
 **Topic ID**: 33900

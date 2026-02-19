@@ -1,3 +1,10 @@
+---
+topic_id: 36946
+title: "Cybersecurity Questions"
+date: 2024-06-22
+url: https://discourse.slicer.org/t/36946
+---
+
 # Cybersecurity questions
 
 **Topic ID**: 36946

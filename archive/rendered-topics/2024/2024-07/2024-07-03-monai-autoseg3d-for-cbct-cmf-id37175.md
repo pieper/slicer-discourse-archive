@@ -1,3 +1,10 @@
+---
+topic_id: 37175
+title: "Monai Autoseg3D For Cbct Cmf"
+date: 2024-07-03
+url: https://discourse.slicer.org/t/37175
+---
+
 # MONAI AutoSeg3D for CBCT (CMF)
 
 **Topic ID**: 37175

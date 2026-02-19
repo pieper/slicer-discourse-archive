@@ -1,3 +1,10 @@
+---
+topic_id: 10822
+title: "Issue 4766 Misuse Of Vtkmrmlinteractionnode Endplacementeven"
+date: 2020-03-25
+url: https://discourse.slicer.org/t/10822
+---
+
 # Issue 4766: misuse of vtkMRMLInteractionNode::EndPlacementEvent
 
 **Topic ID**: 10822

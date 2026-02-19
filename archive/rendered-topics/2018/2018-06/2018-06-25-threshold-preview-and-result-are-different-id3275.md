@@ -1,3 +1,10 @@
+---
+topic_id: 3275
+title: "Threshold Preview And Result Are Different"
+date: 2018-06-25
+url: https://discourse.slicer.org/t/3275
+---
+
 # Threshold preview and result are different
 
 **Topic ID**: 3275

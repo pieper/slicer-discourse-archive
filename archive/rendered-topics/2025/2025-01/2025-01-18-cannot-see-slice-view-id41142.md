@@ -1,3 +1,10 @@
+---
+topic_id: 41142
+title: "Cannot See Slice View"
+date: 2025-01-18
+url: https://discourse.slicer.org/t/41142
+---
+
 # Cannot see slice view
 
 **Topic ID**: 41142

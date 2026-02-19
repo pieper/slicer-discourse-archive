@@ -1,3 +1,10 @@
+---
+topic_id: 16514
+title: "Reference Citation For The Fact Nrrd Format Doesnt Naturally"
+date: 2021-03-12
+url: https://discourse.slicer.org/t/16514
+---
+
 # Reference/citation for the fact NRRD format doesn't naturally hold patient data
 
 **Topic ID**: 16514

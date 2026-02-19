@@ -1,3 +1,10 @@
+---
+topic_id: 25027
+title: "Nan Or Infinite Value In The Segment Nrrd"
+date: 2022-08-31
+url: https://discourse.slicer.org/t/25027
+---
+
 # NaN or infinite value in the segment(.nrrd)
 
 **Topic ID**: 25027

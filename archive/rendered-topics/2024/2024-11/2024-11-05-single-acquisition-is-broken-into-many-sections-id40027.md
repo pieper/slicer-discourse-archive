@@ -1,3 +1,10 @@
+---
+topic_id: 40027
+title: "Single Acquisition Is Broken Into Many Sections"
+date: 2024-11-05
+url: https://discourse.slicer.org/t/40027
+---
+
 # Single acquisition is broken into many sections
 
 **Topic ID**: 40027

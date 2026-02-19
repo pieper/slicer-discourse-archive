@@ -1,3 +1,10 @@
+---
+topic_id: 31076
+title: "Using Volume Reslice Driver Programatically"
+date: 2023-08-09
+url: https://discourse.slicer.org/t/31076
+---
+
 # Using Volume Reslice Driver Programatically
 
 **Topic ID**: 31076

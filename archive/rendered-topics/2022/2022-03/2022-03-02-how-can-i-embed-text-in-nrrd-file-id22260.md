@@ -1,3 +1,10 @@
+---
+topic_id: 22260
+title: "How Can I Embed Text In Nrrd File"
+date: 2022-03-02
+url: https://discourse.slicer.org/t/22260
+---
+
 # How can I embed text in nrrd file?
 
 **Topic ID**: 22260

@@ -1,3 +1,10 @@
+---
+topic_id: 2111
+title: "Tutorial For Using Pyradiomics No Module Named Collections"
+date: 2018-02-18
+url: https://discourse.slicer.org/t/2111
+---
+
 # Tutorial for using pyradiomics, no module named _collections
 
 **Topic ID**: 2111

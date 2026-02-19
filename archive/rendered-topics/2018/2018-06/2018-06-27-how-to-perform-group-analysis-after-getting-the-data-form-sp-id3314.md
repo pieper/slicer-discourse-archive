@@ -1,3 +1,10 @@
+---
+topic_id: 3314
+title: "How To Perform Group Analysis After Getting The Data Form Sp"
+date: 2018-06-27
+url: https://discourse.slicer.org/t/3314
+---
+
 # How to perform group analysis after getting the data form SPHARM-PDM 3D-slicer4.8 in MAC_OS
 
 **Topic ID**: 3314

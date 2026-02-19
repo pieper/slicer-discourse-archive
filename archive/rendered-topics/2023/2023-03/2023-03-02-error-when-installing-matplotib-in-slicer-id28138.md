@@ -1,3 +1,10 @@
+---
+topic_id: 28138
+title: "Error When Installing Matplotib In Slicer"
+date: 2023-03-02
+url: https://discourse.slicer.org/t/28138
+---
+
 # Error when installing matplotib in Slicer
 
 **Topic ID**: 28138

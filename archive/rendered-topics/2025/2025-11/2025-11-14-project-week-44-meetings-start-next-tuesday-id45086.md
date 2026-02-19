@@ -1,3 +1,10 @@
+---
+topic_id: 45086
+title: "Project Week 44 Meetings Start Next Tuesday"
+date: 2025-11-14
+url: https://discourse.slicer.org/t/45086
+---
+
 # Project Week 44 Meetings start next Tuesday!
 
 **Topic ID**: 45086

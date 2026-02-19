@@ -1,3 +1,10 @@
+---
+topic_id: 16596
+title: "Apply Button For Scissor Tool Missing"
+date: 2021-03-17
+url: https://discourse.slicer.org/t/16596
+---
+
 # apply button for scissor tool missing?
 
 **Topic ID**: 16596

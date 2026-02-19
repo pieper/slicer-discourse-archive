@@ -1,3 +1,10 @@
+---
+topic_id: 2020
+title: "Measurement Ruler In 4 8"
+date: 2018-02-04
+url: https://discourse.slicer.org/t/2020
+---
+
 # Measurement/ ruler in 4.8
 
 **Topic ID**: 2020

@@ -1,3 +1,10 @@
+---
+topic_id: 9550
+title: "Slicerigt Collect Points To Model Node"
+date: 2019-12-18
+url: https://discourse.slicer.org/t/9550
+---
+
 # SlicerIGT Collect Points to Model Node
 
 **Topic ID**: 9550

@@ -1,3 +1,10 @@
+---
+topic_id: 43761
+title: "Not Able To Load Freesurfer Model Lh Pial On Slicer 5 8 1"
+date: 2025-07-17
+url: https://discourse.slicer.org/t/43761
+---
+
 # Not able to load Freesurfer Model (lh.pial) on Slicer 5.8.1
 
 **Topic ID**: 43761

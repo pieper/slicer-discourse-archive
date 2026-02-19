@@ -1,3 +1,10 @@
+---
+topic_id: 33646
+title: "Tensorflow X Slicer"
+date: 2024-01-05
+url: https://discourse.slicer.org/t/33646
+---
+
 # TensorFlow x Slicer
 
 **Topic ID**: 33646

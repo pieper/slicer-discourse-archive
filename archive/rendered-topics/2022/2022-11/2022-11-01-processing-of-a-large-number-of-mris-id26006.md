@@ -1,3 +1,10 @@
+---
+topic_id: 26006
+title: "Processing Of A Large Number Of Mris"
+date: 2022-11-01
+url: https://discourse.slicer.org/t/26006
+---
+
 # Processing of a large number of MRIs
 
 **Topic ID**: 26006

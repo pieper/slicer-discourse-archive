@@ -1,3 +1,10 @@
+---
+topic_id: 37961
+title: "Pytorch For Totalsegmentator"
+date: 2024-08-20
+url: https://discourse.slicer.org/t/37961
+---
+
 # PyTorch for TotalSegmentator
 
 **Topic ID**: 37961

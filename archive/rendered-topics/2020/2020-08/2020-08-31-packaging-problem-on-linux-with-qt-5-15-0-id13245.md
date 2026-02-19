@@ -1,3 +1,10 @@
+---
+topic_id: 13245
+title: "Packaging Problem On Linux With Qt 5 15 0"
+date: 2020-08-31
+url: https://discourse.slicer.org/t/13245
+---
+
 # Packaging problem on Linux with Qt 5.15.0
 
 **Topic ID**: 13245

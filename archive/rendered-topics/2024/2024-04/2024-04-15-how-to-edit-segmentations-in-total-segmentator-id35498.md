@@ -1,3 +1,10 @@
+---
+topic_id: 35498
+title: "How To Edit Segmentations In Total Segmentator"
+date: 2024-04-15
+url: https://discourse.slicer.org/t/35498
+---
+
 # How to edit segmentations in total segmentator
 
 **Topic ID**: 35498

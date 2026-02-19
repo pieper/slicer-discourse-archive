@@ -1,3 +1,10 @@
+---
+topic_id: 43313
+title: "Cant Install Total Segmentor"
+date: 2025-06-11
+url: https://discourse.slicer.org/t/43313
+---
+
 # Can't install Total Segmentor
 
 **Topic ID**: 43313

@@ -1,3 +1,10 @@
+---
+topic_id: 39471
+title: "Extension Wizard Cannot Load Module On Mac"
+date: 2024-10-01
+url: https://discourse.slicer.org/t/39471
+---
+
 # Extension Wizard Cannot Load module on Mac
 
 **Topic ID**: 39471

@@ -1,3 +1,10 @@
+---
+topic_id: 8120
+title: "Test Extension In Docker"
+date: 2019-08-21
+url: https://discourse.slicer.org/t/8120
+---
+
 # Test extension in Docker
 
 **Topic ID**: 8120

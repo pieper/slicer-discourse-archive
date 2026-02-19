@@ -1,3 +1,10 @@
+---
+topic_id: 43785
+title: "Is It Possible To Use Closed Curve Node To Cut Segmentatin N"
+date: 2025-07-20
+url: https://discourse.slicer.org/t/43785
+---
+
 # Is it possible to use closed curve node to cut segmentatin node or model node?
 
 **Topic ID**: 43785

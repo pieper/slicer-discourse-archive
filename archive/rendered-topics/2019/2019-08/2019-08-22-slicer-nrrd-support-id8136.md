@@ -1,3 +1,10 @@
+---
+topic_id: 8136
+title: "Slicer Nrrd Support"
+date: 2019-08-22
+url: https://discourse.slicer.org/t/8136
+---
+
 # Slicer NRRD support
 
 **Topic ID**: 8136

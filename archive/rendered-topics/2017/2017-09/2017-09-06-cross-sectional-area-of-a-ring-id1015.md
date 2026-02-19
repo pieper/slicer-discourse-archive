@@ -1,3 +1,10 @@
+---
+topic_id: 1015
+title: "Cross Sectional Area Of A Ring"
+date: 2017-09-06
+url: https://discourse.slicer.org/t/1015
+---
+
 # Cross Sectional Area of a Ring
 
 **Topic ID**: 1015

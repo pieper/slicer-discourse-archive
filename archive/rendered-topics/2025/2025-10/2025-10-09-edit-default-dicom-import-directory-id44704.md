@@ -1,3 +1,10 @@
+---
+topic_id: 44704
+title: "Edit Default Dicom Import Directory"
+date: 2025-10-09
+url: https://discourse.slicer.org/t/44704
+---
+
 # Edit default dicom import directory
 
 **Topic ID**: 44704

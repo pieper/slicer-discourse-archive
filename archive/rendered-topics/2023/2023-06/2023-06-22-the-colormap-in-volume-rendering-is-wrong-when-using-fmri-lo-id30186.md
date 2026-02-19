@@ -1,3 +1,10 @@
+---
+topic_id: 30186
+title: "The Colormap In Volume Rendering Is Wrong When Using Fmri Lo"
+date: 2023-06-22
+url: https://discourse.slicer.org/t/30186
+---
+
 # The colormap in "Volume Rendering" is wrong when using "fMRI" lookup table in "Volume"
 
 **Topic ID**: 30186

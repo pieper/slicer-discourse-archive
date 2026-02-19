@@ -1,3 +1,10 @@
+---
+topic_id: 34712
+title: "What The Path Is"
+date: 2024-03-05
+url: https://discourse.slicer.org/t/34712
+---
+
 # What the "PATH"is?
 
 **Topic ID**: 34712

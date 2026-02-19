@@ -1,3 +1,10 @@
+---
+topic_id: 38197
+title: "Regarding Formatting Issues"
+date: 2024-09-04
+url: https://discourse.slicer.org/t/38197
+---
+
 # Regarding formatting issues
 
 **Topic ID**: 38197

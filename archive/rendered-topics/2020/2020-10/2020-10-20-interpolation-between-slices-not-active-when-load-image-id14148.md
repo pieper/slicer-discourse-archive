@@ -1,3 +1,10 @@
+---
+topic_id: 14148
+title: "Interpolation Between Slices Not Active When Load Image"
+date: 2020-10-20
+url: https://discourse.slicer.org/t/14148
+---
+
 # Interpolation between slices not active when load image
 
 **Topic ID**: 14148

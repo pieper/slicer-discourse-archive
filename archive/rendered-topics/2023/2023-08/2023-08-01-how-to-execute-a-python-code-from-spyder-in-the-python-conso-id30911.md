@@ -1,3 +1,10 @@
+---
+topic_id: 30911
+title: "How To Execute A Python Code From Spyder In The Python Conso"
+date: 2023-08-01
+url: https://discourse.slicer.org/t/30911
+---
+
 # How to execute a python code from spyder in the python console that is inside Slicer?
 
 **Topic ID**: 30911

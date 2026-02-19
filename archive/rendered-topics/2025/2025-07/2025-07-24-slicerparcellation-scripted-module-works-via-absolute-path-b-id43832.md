@@ -1,3 +1,10 @@
+---
+topic_id: 43832
+title: "Slicerparcellation Scripted Module Works Via Absolute Path B"
+date: 2025-07-24
+url: https://discourse.slicer.org/t/43832
+---
+
 # SlicerParcellation Scripted Module Works via Absolute Path but Fails When Added to Custom Slicer Build via CMake
 
 **Topic ID**: 43832

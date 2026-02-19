@@ -1,3 +1,10 @@
+---
+topic_id: 1999
+title: "Slicer Build Fails Cmake Error Lnk1112 Module Machine Type X"
+date: 2018-02-01
+url: https://discourse.slicer.org/t/1999
+---
+
 # Slicer build fails cmake error: LNK1112 module machine type 'X86' conflicts with target machine type 'x64'
 
 **Topic ID**: 1999

@@ -1,3 +1,10 @@
+---
+topic_id: 33762
+title: "Input Data Type Of Segment Anything Model"
+date: 2024-01-14
+url: https://discourse.slicer.org/t/33762
+---
+
 # Input data type of segment anything model
 
 **Topic ID**: 33762

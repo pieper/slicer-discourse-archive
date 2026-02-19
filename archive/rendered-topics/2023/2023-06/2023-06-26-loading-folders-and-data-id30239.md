@@ -1,3 +1,10 @@
+---
+topic_id: 30239
+title: "Loading Folders And Data"
+date: 2023-06-26
+url: https://discourse.slicer.org/t/30239
+---
+
 # Loading folders and data
 
 **Topic ID**: 30239

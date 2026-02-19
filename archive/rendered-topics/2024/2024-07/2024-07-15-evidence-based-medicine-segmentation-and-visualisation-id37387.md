@@ -1,3 +1,10 @@
+---
+topic_id: 37387
+title: "Evidence Based Medicine Segmentation And Visualisation"
+date: 2024-07-15
+url: https://discourse.slicer.org/t/37387
+---
+
 # Evidence Based Medicine: segmentation and visualisation
 
 **Topic ID**: 37387

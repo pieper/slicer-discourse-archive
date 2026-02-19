@@ -1,3 +1,10 @@
+---
+topic_id: 37935
+title: "Please Help Me With Slicerradiomics Parameters File"
+date: 2024-08-18
+url: https://discourse.slicer.org/t/37935
+---
+
 # Please help me with SlicerRadiomics parameters file
 
 **Topic ID**: 37935

@@ -1,3 +1,10 @@
+---
+topic_id: 12352
+title: "How To Run Python Script In Slicer"
+date: 2020-07-03
+url: https://discourse.slicer.org/t/12352
+---
+
 # How to run python script in Slicer?
 
 **Topic ID**: 12352

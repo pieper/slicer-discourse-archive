@@ -1,3 +1,10 @@
+---
+topic_id: 11279
+title: "Wrong Volume After Clipping"
+date: 2020-04-24
+url: https://discourse.slicer.org/t/11279
+---
+
 # Wrong Volume after Clipping
 
 **Topic ID**: 11279

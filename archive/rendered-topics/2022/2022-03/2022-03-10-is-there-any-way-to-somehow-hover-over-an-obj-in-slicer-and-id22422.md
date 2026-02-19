@@ -1,3 +1,10 @@
+---
+topic_id: 22422
+title: "Is There Any Way To Somehow Hover Over An Obj In Slicer And"
+date: 2022-03-10
+url: https://discourse.slicer.org/t/22422
+---
+
 # Is there any way to somehow hover over an obj in Slicer and see its name
 
 **Topic ID**: 22422

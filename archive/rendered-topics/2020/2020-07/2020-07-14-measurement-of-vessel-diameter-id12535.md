@@ -1,3 +1,10 @@
+---
+topic_id: 12535
+title: "Measurement Of Vessel Diameter"
+date: 2020-07-14
+url: https://discourse.slicer.org/t/12535
+---
+
 # Measurement of vessel diameter
 
 **Topic ID**: 12535

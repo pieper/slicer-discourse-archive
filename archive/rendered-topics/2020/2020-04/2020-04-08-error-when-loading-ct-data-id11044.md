@@ -1,3 +1,10 @@
+---
+topic_id: 11044
+title: "Error When Loading Ct Data"
+date: 2020-04-08
+url: https://discourse.slicer.org/t/11044
+---
+
 # Error when loading CT data
 
 **Topic ID**: 11044

@@ -1,3 +1,10 @@
+---
+topic_id: 20859
+title: "Cropped Volume To Inherit Display Preferences"
+date: 2021-12-01
+url: https://discourse.slicer.org/t/20859
+---
+
 # Cropped volume to inherit display preferences
 
 **Topic ID**: 20859

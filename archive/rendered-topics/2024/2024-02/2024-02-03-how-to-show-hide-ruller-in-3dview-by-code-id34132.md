@@ -1,3 +1,10 @@
+---
+topic_id: 34132
+title: "How To Show Hide Ruller In 3Dview By Code"
+date: 2024-02-03
+url: https://discourse.slicer.org/t/34132
+---
+
 # How to show/hide ruller in 3DView by code?
 
 **Topic ID**: 34132

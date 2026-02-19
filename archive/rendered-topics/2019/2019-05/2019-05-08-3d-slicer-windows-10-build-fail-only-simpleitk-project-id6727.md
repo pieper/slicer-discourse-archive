@@ -1,3 +1,10 @@
+---
+topic_id: 6727
+title: "3D Slicer Windows 10 Build Fail Only Simpleitk Project"
+date: 2019-05-08
+url: https://discourse.slicer.org/t/6727
+---
+
 # 3D slicer Windows 10 Build Fail (only SimpleITK project)
 
 **Topic ID**: 6727

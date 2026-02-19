@@ -1,3 +1,10 @@
+---
+topic_id: 40356
+title: "Is It Possible To Read The Displacement Field"
+date: 2024-11-24
+url: https://discourse.slicer.org/t/40356
+---
+
 # Is it possible to read the displacement field?
 
 **Topic ID**: 40356

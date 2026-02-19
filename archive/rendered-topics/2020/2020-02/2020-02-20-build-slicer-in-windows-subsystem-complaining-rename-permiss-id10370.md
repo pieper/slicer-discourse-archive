@@ -1,3 +1,10 @@
+---
+topic_id: 10370
+title: "Build Slicer In Windows Subsystem Complaining Rename Permiss"
+date: 2020-02-20
+url: https://discourse.slicer.org/t/10370
+---
+
 # Build Slicer in Windows subsystem complaining rename permission denied
 
 **Topic ID**: 10370

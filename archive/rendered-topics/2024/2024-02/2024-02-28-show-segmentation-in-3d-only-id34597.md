@@ -1,3 +1,10 @@
+---
+topic_id: 34597
+title: "Show Segmentation In 3D Only"
+date: 2024-02-28
+url: https://discourse.slicer.org/t/34597
+---
+
 # Show segmentation in 3d only
 
 **Topic ID**: 34597

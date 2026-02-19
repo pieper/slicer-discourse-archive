@@ -1,3 +1,10 @@
+---
+topic_id: 33283
+title: "Usage Rights To Stn Planning Sample Data"
+date: 2023-12-07
+url: https://discourse.slicer.org/t/33283
+---
+
 # Usage rights to STN-PLANNING(sample data)
 
 **Topic ID**: 33283

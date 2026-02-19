@@ -1,3 +1,10 @@
+---
+topic_id: 16694
+title: "Convert Nrrd To Nii Gz"
+date: 2021-03-22
+url: https://discourse.slicer.org/t/16694
+---
+
 # Convert nrrd to nii.gz
 
 **Topic ID**: 16694

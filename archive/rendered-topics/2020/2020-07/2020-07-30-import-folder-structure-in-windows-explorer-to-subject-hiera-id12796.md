@@ -1,3 +1,10 @@
+---
+topic_id: 12796
+title: "Import Folder Structure In Windows Explorer To Subject Hiera"
+date: 2020-07-30
+url: https://discourse.slicer.org/t/12796
+---
+
 # Import Folder Structure in Windows Explorer to Subject Hierarchy
 
 **Topic ID**: 12796

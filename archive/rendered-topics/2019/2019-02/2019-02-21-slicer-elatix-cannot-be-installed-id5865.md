@@ -1,3 +1,10 @@
+---
+topic_id: 5865
+title: "Slicer Elatix Cannot Be Installed"
+date: 2019-02-21
+url: https://discourse.slicer.org/t/5865
+---
+
 # Slicer elatix cannot be installed
 
 **Topic ID**: 5865

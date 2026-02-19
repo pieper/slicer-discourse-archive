@@ -1,3 +1,10 @@
+---
+topic_id: 20932
+title: "Reminder Project Week 36 Prep Meeting Tomorrow Igt"
+date: 2021-12-06
+url: https://discourse.slicer.org/t/20932
+---
+
 # Reminder: Project Week 36 prep meeting tomorrow - IGT
 
 **Topic ID**: 20932

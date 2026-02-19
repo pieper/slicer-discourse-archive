@@ -1,3 +1,10 @@
+---
+topic_id: 7624
+title: "Move Model In Slicer Without Vr Headset"
+date: 2019-07-17
+url: https://discourse.slicer.org/t/7624
+---
+
 # Move model in Slicer without VR headset
 
 **Topic ID**: 7624

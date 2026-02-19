@@ -1,3 +1,10 @@
+---
+topic_id: 31320
+title: "Slicer 5 4 Stable Version Keeps Freezing On Macos Ventura 13"
+date: 2023-08-23
+url: https://discourse.slicer.org/t/31320
+---
+
 # Slicer 5.4 stable version keeps freezing on macOS Ventura 13.4.1 with M2 processor
 
 **Topic ID**: 31320

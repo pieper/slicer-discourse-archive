@@ -1,3 +1,10 @@
+---
+topic_id: 29960
+title: "How To Open Mat File In 3D Slicer"
+date: 2023-06-10
+url: https://discourse.slicer.org/t/29960
+---
+
 # How to open .mat file in 3D Slicer
 
 **Topic ID**: 29960

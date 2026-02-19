@@ -1,3 +1,10 @@
+---
+topic_id: 28615
+title: "Why Does 3D Model Flip From Other Views"
+date: 2023-03-28
+url: https://discourse.slicer.org/t/28615
+---
+
 # Why does 3D model flip from other views? 
 
 **Topic ID**: 28615

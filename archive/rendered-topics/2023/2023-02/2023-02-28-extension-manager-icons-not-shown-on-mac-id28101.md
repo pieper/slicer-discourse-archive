@@ -1,3 +1,10 @@
+---
+topic_id: 28101
+title: "Extension Manager Icons Not Shown On Mac"
+date: 2023-02-28
+url: https://discourse.slicer.org/t/28101
+---
+
 # Extension manager icons not shown on Mac
 
 **Topic ID**: 28101

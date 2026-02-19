@@ -1,3 +1,10 @@
+---
+topic_id: 8203
+title: "Help Over Vissimtools"
+date: 2019-08-28
+url: https://discourse.slicer.org/t/8203
+---
+
 # Help over VisSimTools
 
 **Topic ID**: 8203

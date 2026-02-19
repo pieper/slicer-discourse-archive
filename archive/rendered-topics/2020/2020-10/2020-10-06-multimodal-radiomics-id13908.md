@@ -1,3 +1,10 @@
+---
+topic_id: 13908
+title: "Multimodal Radiomics"
+date: 2020-10-06
+url: https://discourse.slicer.org/t/13908
+---
+
 # multimodal radiomics
 
 **Topic ID**: 13908

@@ -1,3 +1,10 @@
+---
+topic_id: 14388
+title: "Microct Rescale Resample"
+date: 2020-11-02
+url: https://discourse.slicer.org/t/14388
+---
+
 # MicroCT--Rescale, Resample
 
 **Topic ID**: 14388

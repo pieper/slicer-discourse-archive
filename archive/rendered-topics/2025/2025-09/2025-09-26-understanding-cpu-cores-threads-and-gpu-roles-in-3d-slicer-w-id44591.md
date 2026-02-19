@@ -1,3 +1,10 @@
+---
+topic_id: 44591
+title: "Understanding Cpu Cores Threads And Gpu Roles In 3D Slicer W"
+date: 2025-09-26
+url: https://discourse.slicer.org/t/44591
+---
+
 # Understanding CPU cores/threads and GPU roles in 3D Slicer workflows
 
 **Topic ID**: 44591

@@ -1,3 +1,10 @@
+---
+topic_id: 23127
+title: "Registration For Segmentation"
+date: 2022-04-26
+url: https://discourse.slicer.org/t/23127
+---
+
 # Registration for segmentation 
 
 **Topic ID**: 23127

@@ -1,3 +1,10 @@
+---
+topic_id: 542
+title: "Cli Linking Error"
+date: 2017-06-20
+url: https://discourse.slicer.org/t/542
+---
+
 # CLI linking error
 
 **Topic ID**: 542

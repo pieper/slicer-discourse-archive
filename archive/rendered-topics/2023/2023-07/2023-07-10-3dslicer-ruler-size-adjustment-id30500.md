@@ -1,3 +1,10 @@
+---
+topic_id: 30500
+title: "3Dslicer Ruler Size Adjustment"
+date: 2023-07-10
+url: https://discourse.slicer.org/t/30500
+---
+
 # 3Dslicer ruler size adjustment
 
 **Topic ID**: 30500

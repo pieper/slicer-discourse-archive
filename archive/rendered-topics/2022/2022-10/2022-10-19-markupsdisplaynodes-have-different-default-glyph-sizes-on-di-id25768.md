@@ -1,3 +1,10 @@
+---
+topic_id: 25768
+title: "Markupsdisplaynodes Have Different Default Glyph Sizes On Di"
+date: 2022-10-19
+url: https://discourse.slicer.org/t/25768
+---
+
 # MarkupsDisplayNodes have different default glyph sizes on different computers
 
 **Topic ID**: 25768

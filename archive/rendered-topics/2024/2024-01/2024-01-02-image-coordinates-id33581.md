@@ -1,3 +1,10 @@
+---
+topic_id: 33581
+title: "Image Coordinates"
+date: 2024-01-02
+url: https://discourse.slicer.org/t/33581
+---
+
 # Image coordinates
 
 **Topic ID**: 33581

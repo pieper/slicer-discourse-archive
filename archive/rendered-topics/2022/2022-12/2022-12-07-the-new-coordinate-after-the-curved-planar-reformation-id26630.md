@@ -1,3 +1,10 @@
+---
+topic_id: 26630
+title: "The New Coordinate After The Curved Planar Reformation"
+date: 2022-12-07
+url: https://discourse.slicer.org/t/26630
+---
+
 # the new coordinate after the curved planar reformation
 
 **Topic ID**: 26630

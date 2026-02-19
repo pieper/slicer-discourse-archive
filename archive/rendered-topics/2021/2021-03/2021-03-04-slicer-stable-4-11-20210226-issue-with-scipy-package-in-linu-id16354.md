@@ -1,3 +1,10 @@
+---
+topic_id: 16354
+title: "Slicer Stable 4 11 20210226 Issue With Scipy Package In Linu"
+date: 2021-03-04
+url: https://discourse.slicer.org/t/16354
+---
+
 # Slicer Stable 4.11.20210226 issue with scipy package in Linux
 
 **Topic ID**: 16354

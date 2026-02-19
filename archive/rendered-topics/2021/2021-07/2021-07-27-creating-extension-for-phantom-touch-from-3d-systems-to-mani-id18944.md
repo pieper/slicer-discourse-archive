@@ -1,3 +1,10 @@
+---
+topic_id: 18944
+title: "Creating Extension For Phantom Touch From 3D Systems To Mani"
+date: 2021-07-27
+url: https://discourse.slicer.org/t/18944
+---
+
 # Creating Extension for Phantom Touch from 3D systems to manipulate plane in Slicer3D
 
 **Topic ID**: 18944

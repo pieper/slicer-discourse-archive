@@ -1,3 +1,10 @@
+---
+topic_id: 12057
+title: "Data Privacy With Slicerjupyter On The Binder"
+date: 2020-06-16
+url: https://discourse.slicer.org/t/12057
+---
+
 # Data privacy with SlicerJupyter on the binder
 
 **Topic ID**: 12057

@@ -1,3 +1,10 @@
+---
+topic_id: 12927
+title: "Google Health Api"
+date: 2020-08-10
+url: https://discourse.slicer.org/t/12927
+---
+
 # Google Health API
 
 **Topic ID**: 12927

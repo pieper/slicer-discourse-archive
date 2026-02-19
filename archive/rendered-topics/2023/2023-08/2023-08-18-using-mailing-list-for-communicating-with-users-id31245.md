@@ -1,3 +1,10 @@
+---
+topic_id: 31245
+title: "Using Mailing List For Communicating With Users"
+date: 2023-08-18
+url: https://discourse.slicer.org/t/31245
+---
+
 # Using mailing list for communicating with users
 
 **Topic ID**: 31245

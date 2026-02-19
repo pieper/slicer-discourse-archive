@@ -1,3 +1,10 @@
+---
+topic_id: 14763
+title: "How To Call The Islands Function Of The Segment Editor From"
+date: 2020-11-25
+url: https://discourse.slicer.org/t/14763
+---
+
 # How to call the "Islands" function of the Segment Editor from a python script with "Keep selected island"
 
 **Topic ID**: 14763

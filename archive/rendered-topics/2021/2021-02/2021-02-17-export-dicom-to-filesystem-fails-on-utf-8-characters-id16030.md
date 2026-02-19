@@ -1,3 +1,10 @@
+---
+topic_id: 16030
+title: "Export Dicom To Filesystem Fails On Utf 8 Characters"
+date: 2021-02-17
+url: https://discourse.slicer.org/t/16030
+---
+
 # Export DICOM to filesystem fails on UTF-8 characters
 
 **Topic ID**: 16030

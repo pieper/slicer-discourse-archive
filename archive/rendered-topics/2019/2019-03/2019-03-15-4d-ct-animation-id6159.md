@@ -1,3 +1,10 @@
+---
+topic_id: 6159
+title: "4D Ct Animation"
+date: 2019-03-15
+url: https://discourse.slicer.org/t/6159
+---
+
 # 4D CT animation
 
 **Topic ID**: 6159

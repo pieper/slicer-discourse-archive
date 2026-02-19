@@ -1,3 +1,10 @@
+---
+topic_id: 11933
+title: "Dmri Scalar Maps Meausrements"
+date: 2020-06-08
+url: https://discourse.slicer.org/t/11933
+---
+
 # dMRI Scalar Maps & Meausrements
 
 **Topic ID**: 11933

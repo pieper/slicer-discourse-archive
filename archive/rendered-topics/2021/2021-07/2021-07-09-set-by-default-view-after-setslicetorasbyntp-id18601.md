@@ -1,3 +1,10 @@
+---
+topic_id: 18601
+title: "Set By Default View After Setslicetorasbyntp"
+date: 2021-07-09
+url: https://discourse.slicer.org/t/18601
+---
+
 # Set "by default view" after SetSliceToRASByNTP
 
 **Topic ID**: 18601

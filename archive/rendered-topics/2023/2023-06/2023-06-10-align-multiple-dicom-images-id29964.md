@@ -1,3 +1,10 @@
+---
+topic_id: 29964
+title: "Align Multiple Dicom Images"
+date: 2023-06-10
+url: https://discourse.slicer.org/t/29964
+---
+
 # Align multiple DICOM images
 
 **Topic ID**: 29964

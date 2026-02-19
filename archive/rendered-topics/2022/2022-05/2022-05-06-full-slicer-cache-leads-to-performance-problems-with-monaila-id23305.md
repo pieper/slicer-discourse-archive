@@ -1,3 +1,10 @@
+---
+topic_id: 23305
+title: "Full Slicer Cache Leads To Performance Problems With Monaila"
+date: 2022-05-06
+url: https://discourse.slicer.org/t/23305
+---
+
 # Full slicer cache leads to performance problems with MONAILabel
 
 **Topic ID**: 23305

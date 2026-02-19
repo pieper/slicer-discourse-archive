@@ -1,3 +1,10 @@
+---
+topic_id: 33459
+title: "Poor Resolution Ultrasound Stream"
+date: 2023-12-19
+url: https://discourse.slicer.org/t/33459
+---
+
 # Poor resolution ultrasound stream
 
 **Topic ID**: 33459

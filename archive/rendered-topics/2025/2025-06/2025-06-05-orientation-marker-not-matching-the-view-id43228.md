@@ -1,3 +1,10 @@
+---
+topic_id: 43228
+title: "Orientation Marker Not Matching The View"
+date: 2025-06-05
+url: https://discourse.slicer.org/t/43228
+---
+
 # Orientation marker not matching the view
 
 **Topic ID**: 43228

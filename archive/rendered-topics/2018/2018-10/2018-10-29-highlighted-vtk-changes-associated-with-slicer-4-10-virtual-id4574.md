@@ -1,3 +1,10 @@
+---
+topic_id: 4574
+title: "Highlighted Vtk Changes Associated With Slicer 4 10 Virtual"
+date: 2018-10-29
+url: https://discourse.slicer.org/t/4574
+---
+
 # Highlighted VTK changes associated with Slicer 4.10: Virtual Reality, Rendering, Volume Rendering, Python Wraping, OpenGL performance and threading management
 
 **Topic ID**: 4574

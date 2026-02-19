@@ -1,3 +1,10 @@
+---
+topic_id: 31312
+title: "Draw Line That Is Fit To Segmented Voxels Using Svd"
+date: 2023-08-23
+url: https://discourse.slicer.org/t/31312
+---
+
 # Draw line that is fit to segmented voxels using SVD
 
 **Topic ID**: 31312

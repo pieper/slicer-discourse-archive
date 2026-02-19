@@ -1,3 +1,10 @@
+---
+topic_id: 42459
+title: "Beginner Question Save A Resampled Data Set"
+date: 2025-04-07
+url: https://discourse.slicer.org/t/42459
+---
+
 # Beginner Question: Save a resampled data set
 
 **Topic ID**: 42459

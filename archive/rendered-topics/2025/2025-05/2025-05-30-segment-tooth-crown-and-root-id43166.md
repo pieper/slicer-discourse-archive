@@ -1,3 +1,10 @@
+---
+topic_id: 43166
+title: "Segment Tooth Crown And Root"
+date: 2025-05-30
+url: https://discourse.slicer.org/t/43166
+---
+
 # Segment tooth crown and root
 
 **Topic ID**: 43166

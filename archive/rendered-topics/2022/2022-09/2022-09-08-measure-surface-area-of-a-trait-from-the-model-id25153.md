@@ -1,3 +1,10 @@
+---
+topic_id: 25153
+title: "Measure Surface Area Of A Trait From The Model"
+date: 2022-09-08
+url: https://discourse.slicer.org/t/25153
+---
+
 # Measure surface area of a trait from the model
 
 **Topic ID**: 25153

@@ -1,3 +1,10 @@
+---
+topic_id: 1072
+title: "General Papers That Use Sicer"
+date: 2017-09-18
+url: https://discourse.slicer.org/t/1072
+---
+
 # General papers that use Sicer?
 
 **Topic ID**: 1072

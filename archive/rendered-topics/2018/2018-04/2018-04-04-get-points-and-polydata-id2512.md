@@ -1,3 +1,10 @@
+---
+topic_id: 2512
+title: "Get Points And Polydata"
+date: 2018-04-04
+url: https://discourse.slicer.org/t/2512
+---
+
 # Get POINTS and Polydata?
 
 **Topic ID**: 2512

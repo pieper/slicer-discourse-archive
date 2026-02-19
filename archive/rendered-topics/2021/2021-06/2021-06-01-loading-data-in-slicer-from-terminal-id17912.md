@@ -1,3 +1,10 @@
+---
+topic_id: 17912
+title: "Loading Data In Slicer From Terminal"
+date: 2021-06-01
+url: https://discourse.slicer.org/t/17912
+---
+
 # Loading data in Slicer from terminal
 
 **Topic ID**: 17912

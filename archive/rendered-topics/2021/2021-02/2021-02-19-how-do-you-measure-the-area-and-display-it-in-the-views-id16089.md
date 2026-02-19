@@ -1,3 +1,10 @@
+---
+topic_id: 16089
+title: "How Do You Measure The Area And Display It In The Views"
+date: 2021-02-19
+url: https://discourse.slicer.org/t/16089
+---
+
 # How do you measure the area and display it in the views
 
 **Topic ID**: 16089

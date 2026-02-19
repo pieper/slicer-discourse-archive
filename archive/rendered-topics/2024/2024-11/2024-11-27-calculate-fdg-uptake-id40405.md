@@ -1,3 +1,10 @@
+---
+topic_id: 40405
+title: "Calculate Fdg Uptake"
+date: 2024-11-27
+url: https://discourse.slicer.org/t/40405
+---
+
 # Calculate fdg uptake?
 
 **Topic ID**: 40405

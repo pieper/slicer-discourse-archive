@@ -1,3 +1,10 @@
+---
+topic_id: 31231
+title: "How To Display Ct Images In 3D View"
+date: 2023-08-18
+url: https://discourse.slicer.org/t/31231
+---
+
 # How to display CT images in 3D view
 
 **Topic ID**: 31231

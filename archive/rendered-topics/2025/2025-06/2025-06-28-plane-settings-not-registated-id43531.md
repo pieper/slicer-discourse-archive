@@ -1,3 +1,10 @@
+---
+topic_id: 43531
+title: "Plane Settings Not Registated"
+date: 2025-06-28
+url: https://discourse.slicer.org/t/43531
+---
+
 # Plane settings not registated
 
 **Topic ID**: 43531

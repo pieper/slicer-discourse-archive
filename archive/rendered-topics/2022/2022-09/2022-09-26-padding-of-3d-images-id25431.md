@@ -1,3 +1,10 @@
+---
+topic_id: 25431
+title: "Padding Of 3D Images"
+date: 2022-09-26
+url: https://discourse.slicer.org/t/25431
+---
+
 # Padding of 3d images
 
 **Topic ID**: 25431

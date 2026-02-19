@@ -1,3 +1,10 @@
+---
+topic_id: 22492
+title: "How To Transfer A Group Of Dicom Images Into Nrrd Format"
+date: 2022-03-14
+url: https://discourse.slicer.org/t/22492
+---
+
 # How to transfer a group of DICOM images into NRRD format
 
 **Topic ID**: 22492

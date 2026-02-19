@@ -1,3 +1,10 @@
+---
+topic_id: 23051
+title: "All Segments Is Inconsistent In Segment Editor"
+date: 2022-04-20
+url: https://discourse.slicer.org/t/23051
+---
+
 # "All segments" is inconsistent in Segment Editor
 
 **Topic ID**: 23051

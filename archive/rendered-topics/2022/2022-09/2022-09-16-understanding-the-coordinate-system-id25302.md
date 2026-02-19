@@ -1,3 +1,10 @@
+---
+topic_id: 25302
+title: "Understanding The Coordinate System"
+date: 2022-09-16
+url: https://discourse.slicer.org/t/25302
+---
+
 # Understanding the coordinate system
 
 **Topic ID**: 25302

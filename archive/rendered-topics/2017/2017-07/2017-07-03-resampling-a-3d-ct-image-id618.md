@@ -1,3 +1,10 @@
+---
+topic_id: 618
+title: "Resampling A 3D Ct Image"
+date: 2017-07-03
+url: https://discourse.slicer.org/t/618
+---
+
 # Resampling a 3D CT Image
 
 **Topic ID**: 618

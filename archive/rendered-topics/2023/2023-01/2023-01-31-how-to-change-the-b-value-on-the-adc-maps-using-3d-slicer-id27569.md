@@ -1,3 +1,10 @@
+---
+topic_id: 27569
+title: "How To Change The B Value On The Adc Maps Using 3D Slicer"
+date: 2023-01-31
+url: https://discourse.slicer.org/t/27569
+---
+
 # How to change the b value on the ADC maps using 3d slicer ?
 
 **Topic ID**: 27569

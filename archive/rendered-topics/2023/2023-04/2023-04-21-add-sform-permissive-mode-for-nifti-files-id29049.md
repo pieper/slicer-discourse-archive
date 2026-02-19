@@ -1,3 +1,10 @@
+---
+topic_id: 29049
+title: "Add Sform Permissive Mode For Nifti Files"
+date: 2023-04-21
+url: https://discourse.slicer.org/t/29049
+---
+
 # Add SFORM_Permissive mode for nifti files
 
 **Topic ID**: 29049

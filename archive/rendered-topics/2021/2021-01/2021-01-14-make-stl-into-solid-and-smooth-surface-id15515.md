@@ -1,3 +1,10 @@
+---
+topic_id: 15515
+title: "Make Stl Into Solid And Smooth Surface"
+date: 2021-01-14
+url: https://discourse.slicer.org/t/15515
+---
+
 # Make stl into solid and smooth surface
 
 **Topic ID**: 15515

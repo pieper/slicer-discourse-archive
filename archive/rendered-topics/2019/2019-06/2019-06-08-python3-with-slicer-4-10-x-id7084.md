@@ -1,3 +1,10 @@
+---
+topic_id: 7084
+title: "Python3 With Slicer 4 10 X"
+date: 2019-06-08
+url: https://discourse.slicer.org/t/7084
+---
+
 # python3 with slicer 4.10.x?
 
 **Topic ID**: 7084

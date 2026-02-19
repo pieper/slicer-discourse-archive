@@ -1,3 +1,10 @@
+---
+topic_id: 25373
+title: "Embedding Uri In A Mrml Scene File For Viewing The Mrml Scen"
+date: 2022-09-21
+url: https://discourse.slicer.org/t/25373
+---
+
 # Embedding URI in a mrml scene file, for viewing the mrml scene on a remote slicer application
 
 **Topic ID**: 25373

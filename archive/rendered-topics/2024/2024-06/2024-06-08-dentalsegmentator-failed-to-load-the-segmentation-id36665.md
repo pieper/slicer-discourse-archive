@@ -1,3 +1,10 @@
+---
+topic_id: 36665
+title: "Dentalsegmentator Failed To Load The Segmentation"
+date: 2024-06-08
+url: https://discourse.slicer.org/t/36665
+---
+
 # DentalSegmentator failed to load the segmentation
 
 **Topic ID**: 36665

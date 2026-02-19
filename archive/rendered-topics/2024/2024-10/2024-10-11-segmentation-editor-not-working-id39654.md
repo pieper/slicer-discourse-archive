@@ -1,3 +1,10 @@
+---
+topic_id: 39654
+title: "Segmentation Editor Not Working"
+date: 2024-10-11
+url: https://discourse.slicer.org/t/39654
+---
+
 # Segmentation editor not working
 
 **Topic ID**: 39654

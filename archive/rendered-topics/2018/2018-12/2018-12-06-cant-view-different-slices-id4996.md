@@ -1,3 +1,10 @@
+---
+topic_id: 4996
+title: "Cant View Different Slices"
+date: 2018-12-06
+url: https://discourse.slicer.org/t/4996
+---
+
 # can't view different slices
 
 **Topic ID**: 4996

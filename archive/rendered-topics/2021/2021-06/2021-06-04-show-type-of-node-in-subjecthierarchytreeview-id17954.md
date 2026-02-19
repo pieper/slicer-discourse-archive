@@ -1,3 +1,10 @@
+---
+topic_id: 17954
+title: "Show Type Of Node In Subjecthierarchytreeview"
+date: 2021-06-04
+url: https://discourse.slicer.org/t/17954
+---
+
 # Show type of Node in SubjectHierarchyTreeView
 
 **Topic ID**: 17954

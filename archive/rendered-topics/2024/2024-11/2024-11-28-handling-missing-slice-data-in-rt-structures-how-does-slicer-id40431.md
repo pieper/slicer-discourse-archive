@@ -1,3 +1,10 @@
+---
+topic_id: 40431
+title: "Handling Missing Slice Data In Rt Structures How Does Slicer"
+date: 2024-11-28
+url: https://discourse.slicer.org/t/40431
+---
+
 # Handling Missing Slice Data in RT Structures: How Does SlicerRT Interpolate Missing RT Data?
 
 **Topic ID**: 40431

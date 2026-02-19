@@ -1,3 +1,10 @@
+---
+topic_id: 6307
+title: "Problem In Cbct Volume Crop And Modeling Into Stl"
+date: 2019-03-27
+url: https://discourse.slicer.org/t/6307
+---
+
 # Problem in CBCT Volume Crop and Modeling into STL
 
 **Topic ID**: 6307

@@ -1,3 +1,10 @@
+---
+topic_id: 3185
+title: "4 9 0 Nightly Build Cannot Be Run On A Vnc Server Due To Qt5"
+date: 2018-06-14
+url: https://discourse.slicer.org/t/3185
+---
+
 # 4.9.0 nightly build cannot be run on a VNC server due to Qt5-GLX problem
 
 **Topic ID**: 3185

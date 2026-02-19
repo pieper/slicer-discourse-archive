@@ -1,3 +1,10 @@
+---
+topic_id: 25226
+title: "Lung Ct Segmenter Supports Totalsegmentator Nnu Net Deep Lea"
+date: 2022-09-12
+url: https://discourse.slicer.org/t/25226
+---
+
 # Lung CT Segmenter supports TotalSegmentator nnU-Net deep learning
 
 **Topic ID**: 25226

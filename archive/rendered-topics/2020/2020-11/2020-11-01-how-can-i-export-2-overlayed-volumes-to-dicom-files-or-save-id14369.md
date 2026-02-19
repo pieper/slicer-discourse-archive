@@ -1,3 +1,10 @@
+---
+topic_id: 14369
+title: "How Can I Export 2 Overlayed Volumes To Dicom Files Or Save"
+date: 2020-11-01
+url: https://discourse.slicer.org/t/14369
+---
+
 # How can I export 2 overlayed volumes to dicom files or save 2 overlayed volumes to a single nifty file?
 
 **Topic ID**: 14369

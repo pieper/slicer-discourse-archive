@@ -1,3 +1,10 @@
+---
+topic_id: 33273
+title: "How To Generate An Array Representing The Projection Of A Mu"
+date: 2023-12-06
+url: https://discourse.slicer.org/t/33273
+---
+
 # how to generate an array representing the projection of a multileaf collimator (MLC) field onto a CT slice in 3D Slicer?
 
 **Topic ID**: 33273

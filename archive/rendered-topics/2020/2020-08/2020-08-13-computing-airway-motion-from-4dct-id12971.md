@@ -1,3 +1,10 @@
+---
+topic_id: 12971
+title: "Computing Airway Motion From 4Dct"
+date: 2020-08-13
+url: https://discourse.slicer.org/t/12971
+---
+
 # Computing airway motion from 4DCT
 
 **Topic ID**: 12971

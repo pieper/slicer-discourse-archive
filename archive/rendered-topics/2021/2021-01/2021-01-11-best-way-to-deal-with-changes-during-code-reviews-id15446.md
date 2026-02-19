@@ -1,3 +1,10 @@
+---
+topic_id: 15446
+title: "Best Way To Deal With Changes During Code Reviews"
+date: 2021-01-11
+url: https://discourse.slicer.org/t/15446
+---
+
 # Best way to deal with changes during code reviews
 
 **Topic ID**: 15446

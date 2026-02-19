@@ -1,3 +1,10 @@
+---
+topic_id: 35153
+title: "Artifacts In Model To Segmentation Conversion Results"
+date: 2024-03-28
+url: https://discourse.slicer.org/t/35153
+---
+
 # Artifacts in model to segmentation conversion results
 
 **Topic ID**: 35153

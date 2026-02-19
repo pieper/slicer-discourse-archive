@@ -1,3 +1,10 @@
+---
+topic_id: 19665
+title: "Can Not Install Looking Glass Extension"
+date: 2021-09-14
+url: https://discourse.slicer.org/t/19665
+---
+
 # can not install Looking glass extension
 
 **Topic ID**: 19665

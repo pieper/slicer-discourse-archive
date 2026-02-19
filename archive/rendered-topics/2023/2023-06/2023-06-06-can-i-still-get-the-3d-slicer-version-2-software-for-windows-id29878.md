@@ -1,3 +1,10 @@
+---
+topic_id: 29878
+title: "Can I Still Get The 3D Slicer Version 2 Software For Windows"
+date: 2023-06-06
+url: https://discourse.slicer.org/t/29878
+---
+
 # Can I still get the 3D Slicer version 2 software for Window's Machine?
 
 **Topic ID**: 29878

@@ -1,3 +1,10 @@
+---
+topic_id: 24593
+title: "How To Save In Mat Format"
+date: 2022-08-01
+url: https://discourse.slicer.org/t/24593
+---
+
 # How to save in .mat format
 
 **Topic ID**: 24593

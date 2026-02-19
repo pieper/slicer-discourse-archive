@@ -1,3 +1,10 @@
+---
+topic_id: 8379
+title: "Single Point Placement For Vtkmrmlmarkupslinenode"
+date: 2019-09-11
+url: https://discourse.slicer.org/t/8379
+---
+
 # Single point placement for vtkMRMLMarkupsLineNode?
 
 **Topic ID**: 8379

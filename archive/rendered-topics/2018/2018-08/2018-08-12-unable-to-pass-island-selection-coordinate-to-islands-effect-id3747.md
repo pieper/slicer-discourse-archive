@@ -1,3 +1,10 @@
+---
+topic_id: 3747
+title: "Unable To Pass Island Selection Coordinate To Islands Effect"
+date: 2018-08-12
+url: https://discourse.slicer.org/t/3747
+---
+
 # Unable to pass island selection coordinate to Islands effect by python script
 
 **Topic ID**: 3747

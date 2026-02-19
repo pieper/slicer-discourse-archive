@@ -1,3 +1,10 @@
+---
+topic_id: 4518
+title: "Strange Results In Model Segmentation To Label Map"
+date: 2018-10-24
+url: https://discourse.slicer.org/t/4518
+---
+
 # Strange results in model segmentation to label map
 
 **Topic ID**: 4518

@@ -1,3 +1,10 @@
+---
+topic_id: 15700
+title: "Breaking Up 3D Volume Segmentation"
+date: 2021-01-27
+url: https://discourse.slicer.org/t/15700
+---
+
 # Breaking up 3D volume segmentation
 
 **Topic ID**: 15700

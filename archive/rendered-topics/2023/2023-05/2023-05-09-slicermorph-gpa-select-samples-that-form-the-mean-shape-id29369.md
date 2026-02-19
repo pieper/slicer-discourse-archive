@@ -1,3 +1,10 @@
+---
+topic_id: 29369
+title: "Slicermorph Gpa Select Samples That Form The Mean Shape"
+date: 2023-05-09
+url: https://discourse.slicer.org/t/29369
+---
+
 # SlicerMorph / GPA - select samples that form the mean shape?
 
 **Topic ID**: 29369

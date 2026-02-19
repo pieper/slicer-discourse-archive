@@ -1,3 +1,10 @@
+---
+topic_id: 28695
+title: "Total Segmentator Issue"
+date: 2023-03-31
+url: https://discourse.slicer.org/t/28695
+---
+
 # Total segmentator issue
 
 **Topic ID**: 28695

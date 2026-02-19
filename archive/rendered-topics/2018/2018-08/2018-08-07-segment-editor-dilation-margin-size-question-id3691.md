@@ -1,3 +1,10 @@
+---
+topic_id: 3691
+title: "Segment Editor Dilation Margin Size Question"
+date: 2018-08-07
+url: https://discourse.slicer.org/t/3691
+---
+
 # Segment Editor Dilation - margin size question
 
 **Topic ID**: 3691

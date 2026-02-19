@@ -1,3 +1,10 @@
+---
+topic_id: 21181
+title: "Maybe This Is A Bug Of Color Module"
+date: 2021-12-22
+url: https://discourse.slicer.org/t/21181
+---
+
 # Maybe this is a bug of Color module
 
 **Topic ID**: 21181

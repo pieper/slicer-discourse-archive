@@ -1,3 +1,10 @@
+---
+topic_id: 37545
+title: "What Kind Of Default Colormap Use In Tractography Seeding"
+date: 2024-07-24
+url: https://discourse.slicer.org/t/37545
+---
+
 # What kind of default colormap use in tractography seeding 
 
 **Topic ID**: 37545

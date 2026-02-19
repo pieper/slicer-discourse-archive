@@ -1,3 +1,10 @@
+---
+topic_id: 20198
+title: "Memory Management Between Scenes And Nodes"
+date: 2021-10-18
+url: https://discourse.slicer.org/t/20198
+---
+
 # Memory management between scenes and nodes
 
 **Topic ID**: 20198

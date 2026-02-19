@@ -1,3 +1,10 @@
+---
+topic_id: 30755
+title: "How To Custom Dicom Browser Header"
+date: 2023-07-24
+url: https://discourse.slicer.org/t/30755
+---
+
 # How to custom dicom browser header?
 
 **Topic ID**: 30755

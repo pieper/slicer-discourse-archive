@@ -1,3 +1,10 @@
+---
+topic_id: 14462
+title: "Raw Image Guess Extension Wrong File Dialog"
+date: 2020-11-06
+url: https://discourse.slicer.org/t/14462
+---
+
 # Raw Image Guess extension wrong file dialog
 
 **Topic ID**: 14462

@@ -1,3 +1,10 @@
+---
+topic_id: 42983
+title: "Fyi Extensions Are Being Built For Mac Only For Slicerstable"
+date: 2025-05-17
+url: https://discourse.slicer.org/t/42983
+---
+
 # FYI: Extensions are being built for Mac only for SlicerStable
 
 **Topic ID**: 42983

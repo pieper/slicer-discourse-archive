@@ -1,3 +1,10 @@
+---
+topic_id: 9583
+title: "Python Errors In Terminal Loading Dicom Volume Is Slow"
+date: 2019-12-22
+url: https://discourse.slicer.org/t/9583
+---
+
 # Python errors in terminal, loading DICOM volume is slow
 
 **Topic ID**: 9583

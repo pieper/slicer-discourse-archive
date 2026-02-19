@@ -1,3 +1,10 @@
+---
+topic_id: 25972
+title: "Improving Manual Segmentation Of The Aorta"
+date: 2022-10-30
+url: https://discourse.slicer.org/t/25972
+---
+
 # Improving manual segmentation of the aorta
 
 **Topic ID**: 25972

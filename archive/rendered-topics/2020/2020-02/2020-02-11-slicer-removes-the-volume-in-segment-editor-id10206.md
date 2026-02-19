@@ -1,3 +1,10 @@
+---
+topic_id: 10206
+title: "Slicer Removes The Volume In Segment Editor"
+date: 2020-02-11
+url: https://discourse.slicer.org/t/10206
+---
+
 # Slicer removes the volume in Segment Editor
 
 **Topic ID**: 10206

@@ -1,3 +1,10 @@
+---
+topic_id: 22327
+title: "How To Convert 3D Numpy Array To Vtk And Save The Vtk File"
+date: 2022-03-05
+url: https://discourse.slicer.org/t/22327
+---
+
 # How to convert 3D numpy array to vtk and save the .vtk file?
 
 **Topic ID**: 22327

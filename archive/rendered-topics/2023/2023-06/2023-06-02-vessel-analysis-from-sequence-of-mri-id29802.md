@@ -1,3 +1,10 @@
+---
+topic_id: 29802
+title: "Vessel Analysis From Sequence Of Mri"
+date: 2023-06-02
+url: https://discourse.slicer.org/t/29802
+---
+
 # Vessel analysis from sequence of MRI 
 
 **Topic ID**: 29802

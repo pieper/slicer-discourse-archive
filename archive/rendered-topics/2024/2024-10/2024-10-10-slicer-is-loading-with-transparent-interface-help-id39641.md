@@ -1,3 +1,10 @@
+---
+topic_id: 39641
+title: "Slicer Is Loading With Transparent Interface Help"
+date: 2024-10-10
+url: https://discourse.slicer.org/t/39641
+---
+
 # Slicer is loading with transparent interface! Help!!!
 
 **Topic ID**: 39641

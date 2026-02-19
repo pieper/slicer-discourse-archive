@@ -1,3 +1,10 @@
+---
+topic_id: 13429
+title: "Linux Vs Windows Which Is The Efficient Os For 3D Slicer"
+date: 2020-09-10
+url: https://discourse.slicer.org/t/13429
+---
+
 # Linux Vs Windows: Which Is The Efficient OS For 3D slicer?
 
 **Topic ID**: 13429

@@ -1,3 +1,10 @@
+---
+topic_id: 24198
+title: "Renaming Segments Based On Txt File"
+date: 2022-07-06
+url: https://discourse.slicer.org/t/24198
+---
+
 # Renaming segments based on .txt file
 
 **Topic ID**: 24198

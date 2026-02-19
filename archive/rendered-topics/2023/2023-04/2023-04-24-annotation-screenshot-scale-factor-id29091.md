@@ -1,3 +1,10 @@
+---
+topic_id: 29091
+title: "Annotation Screenshot Scale Factor"
+date: 2023-04-24
+url: https://discourse.slicer.org/t/29091
+---
+
 # Annotation screenshot_Scale Factor
 
 **Topic ID**: 29091

@@ -1,3 +1,10 @@
+---
+topic_id: 13284
+title: "Way To Create Permanent Slice Intersection"
+date: 2020-09-01
+url: https://discourse.slicer.org/t/13284
+---
+
 # Way to create permanent slice intersection
 
 **Topic ID**: 13284

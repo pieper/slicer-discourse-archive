@@ -1,3 +1,10 @@
+---
+topic_id: 40907
+title: "Install Extension From Slicer Gui"
+date: 2024-12-30
+url: https://discourse.slicer.org/t/40907
+---
+
 # install extension from Slicer GUI
 
 **Topic ID**: 40907

@@ -1,3 +1,10 @@
+---
+topic_id: 14844
+title: "Write Loadable Reader Module To Import Custom Data To Slicer"
+date: 2020-12-02
+url: https://discourse.slicer.org/t/14844
+---
+
 # Write loadable reader module to import custom data to Slicer
 
 **Topic ID**: 14844

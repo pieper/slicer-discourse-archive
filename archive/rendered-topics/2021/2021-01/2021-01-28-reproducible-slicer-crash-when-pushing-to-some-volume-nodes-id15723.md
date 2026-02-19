@@ -1,3 +1,10 @@
+---
+topic_id: 15723
+title: "Reproducible Slicer Crash When Pushing To Some Volume Nodes"
+date: 2021-01-28
+url: https://discourse.slicer.org/t/15723
+---
+
 # Reproducible Slicer crash when pushing to some volume nodes using sitkUtils PushVolumeToSlicer
 
 **Topic ID**: 15723

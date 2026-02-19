@@ -1,3 +1,10 @@
+---
+topic_id: 10887
+title: "Why The The Tool Of Scissor Become Slower After I Undated My"
+date: 2020-03-28
+url: https://discourse.slicer.org/t/10887
+---
+
 # Why the the tool of scissor become slower after I undated my computer?
 
 **Topic ID**: 10887

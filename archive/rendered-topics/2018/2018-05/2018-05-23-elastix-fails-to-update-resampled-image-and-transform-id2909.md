@@ -1,3 +1,10 @@
+---
+topic_id: 2909
+title: "Elastix Fails To Update Resampled Image And Transform"
+date: 2018-05-23
+url: https://discourse.slicer.org/t/2909
+---
+
 # Elastix fails to update resampled image and transform
 
 **Topic ID**: 2909

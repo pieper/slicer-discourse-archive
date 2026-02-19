@@ -1,3 +1,10 @@
+---
+topic_id: 25602
+title: "How To Select A Model And Highlight Both The Model And The I"
+date: 2022-10-08
+url: https://discourse.slicer.org/t/25602
+---
+
 # How to select a model and highlight both the model and the items on the qMRMLSubjectHierarchyTreeView
 
 **Topic ID**: 25602

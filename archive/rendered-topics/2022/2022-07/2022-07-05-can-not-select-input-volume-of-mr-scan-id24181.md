@@ -1,3 +1,10 @@
+---
+topic_id: 24181
+title: "Can Not Select Input Volume Of Mr Scan"
+date: 2022-07-05
+url: https://discourse.slicer.org/t/24181
+---
+
 # Can not select input volume of MR scan
 
 **Topic ID**: 24181

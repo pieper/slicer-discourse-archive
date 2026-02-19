@@ -1,3 +1,10 @@
+---
+topic_id: 23923
+title: "Problem With Packages Vtkvmtk And Pypes"
+date: 2022-06-18
+url: https://discourse.slicer.org/t/23923
+---
+
 # Problem with packages vtkvmtk and pypes
 
 **Topic ID**: 23923

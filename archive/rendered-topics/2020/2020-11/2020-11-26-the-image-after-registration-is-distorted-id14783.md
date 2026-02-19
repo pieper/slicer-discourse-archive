@@ -1,3 +1,10 @@
+---
+topic_id: 14783
+title: "The Image After Registration Is Distorted"
+date: 2020-11-26
+url: https://discourse.slicer.org/t/14783
+---
+
 # The image after registration is distorted
 
 **Topic ID**: 14783

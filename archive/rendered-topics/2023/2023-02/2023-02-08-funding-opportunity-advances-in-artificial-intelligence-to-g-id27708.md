@@ -1,3 +1,10 @@
+---
+topic_id: 27708
+title: "Funding Opportunity Advances In Artificial Intelligence To G"
+date: 2023-02-08
+url: https://discourse.slicer.org/t/27708
+---
+
 # Funding opportunity: "Advances in Artificial Intelligence to Generate AIMI Annotations"
 
 **Topic ID**: 27708

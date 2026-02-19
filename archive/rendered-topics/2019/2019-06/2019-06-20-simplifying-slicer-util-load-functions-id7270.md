@@ -1,3 +1,10 @@
+---
+topic_id: 7270
+title: "Simplifying Slicer Util Load Functions"
+date: 2019-06-20
+url: https://discourse.slicer.org/t/7270
+---
+
 # Simplifying slicer.util.load... functions
 
 **Topic ID**: 7270

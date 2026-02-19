@@ -1,3 +1,10 @@
+---
+topic_id: 12942
+title: "Segment To Numpy Array"
+date: 2020-08-11
+url: https://discourse.slicer.org/t/12942
+---
+
 # segment to numpy array
 
 **Topic ID**: 12942

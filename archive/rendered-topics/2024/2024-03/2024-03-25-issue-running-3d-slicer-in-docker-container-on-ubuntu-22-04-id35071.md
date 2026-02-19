@@ -1,3 +1,10 @@
+---
+topic_id: 35071
+title: "Issue Running 3D Slicer In Docker Container On Ubuntu 22 04"
+date: 2024-03-25
+url: https://discourse.slicer.org/t/35071
+---
+
 # Issue Running 3D Slicer in Docker Container on Ubuntu 22.04 Image
 
 **Topic ID**: 35071

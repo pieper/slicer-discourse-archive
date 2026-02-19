@@ -1,3 +1,10 @@
+---
+topic_id: 15030
+title: "Bypassing The Save Dialog Box On Exit From A Scriptedloadabl"
+date: 2020-12-12
+url: https://discourse.slicer.org/t/15030
+---
+
 # Bypassing the save dialog box on exit from a ScriptedLoadableModule
 
 **Topic ID**: 15030

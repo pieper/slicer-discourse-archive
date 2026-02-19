@@ -1,3 +1,10 @@
+---
+topic_id: 13500
+title: "Can Radiomics In 3Dslicer Output Many Results Of Different P"
+date: 2020-09-16
+url: https://discourse.slicer.org/t/13500
+---
+
 # Can radiomics in 3dslicer output many results of different patients in a CSV?
 
 **Topic ID**: 13500

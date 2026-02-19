@@ -1,3 +1,10 @@
+---
+topic_id: 24653
+title: "Calculate External Contour For Segment In Segmentation"
+date: 2022-08-05
+url: https://discourse.slicer.org/t/24653
+---
+
 # Calculate external contour for segment in segmentation
 
 **Topic ID**: 24653

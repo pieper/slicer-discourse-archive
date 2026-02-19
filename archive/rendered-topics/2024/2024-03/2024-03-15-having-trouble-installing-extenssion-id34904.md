@@ -1,3 +1,10 @@
+---
+topic_id: 34904
+title: "Having Trouble Installing Extenssion"
+date: 2024-03-15
+url: https://discourse.slicer.org/t/34904
+---
+
 # Having trouble Installing extenssion 
 
 **Topic ID**: 34904

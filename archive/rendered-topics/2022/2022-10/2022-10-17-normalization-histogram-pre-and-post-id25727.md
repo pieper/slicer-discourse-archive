@@ -1,3 +1,10 @@
+---
+topic_id: 25727
+title: "Normalization Histogram Pre And Post"
+date: 2022-10-17
+url: https://discourse.slicer.org/t/25727
+---
+
 # Normalization (histogram pre and post)
 
 **Topic ID**: 25727

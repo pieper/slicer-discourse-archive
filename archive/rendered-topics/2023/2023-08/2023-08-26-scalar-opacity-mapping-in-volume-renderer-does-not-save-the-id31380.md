@@ -1,3 +1,10 @@
+---
+topic_id: 31380
+title: "Scalar Opacity Mapping In Volume Renderer Does Not Save The"
+date: 2023-08-26
+url: https://discourse.slicer.org/t/31380
+---
+
 # Scalar opacity mapping in volume renderer does not save the midpoint and sharpness of midpoint in scene
 
 **Topic ID**: 31380

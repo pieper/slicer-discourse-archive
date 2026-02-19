@@ -1,3 +1,10 @@
+---
+topic_id: 19386
+title: "Calculating Consolidation Volume In Ct Lung"
+date: 2021-08-27
+url: https://discourse.slicer.org/t/19386
+---
+
 # Calculating consolidation volume in CT lung
 
 **Topic ID**: 19386

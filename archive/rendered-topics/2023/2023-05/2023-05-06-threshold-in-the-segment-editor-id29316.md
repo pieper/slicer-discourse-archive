@@ -1,3 +1,10 @@
+---
+topic_id: 29316
+title: "Threshold In The Segment Editor"
+date: 2023-05-06
+url: https://discourse.slicer.org/t/29316
+---
+
 # Threshold in the segment editor
 
 **Topic ID**: 29316

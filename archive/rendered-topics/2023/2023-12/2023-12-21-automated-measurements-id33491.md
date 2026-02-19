@@ -1,3 +1,10 @@
+---
+topic_id: 33491
+title: "Automated Measurements"
+date: 2023-12-21
+url: https://discourse.slicer.org/t/33491
+---
+
 # automated measurements 
 
 **Topic ID**: 33491

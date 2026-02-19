@@ -1,3 +1,10 @@
+---
+topic_id: 9955
+title: "Ctk Collapsible Button In Qt Designer"
+date: 2020-01-26
+url: https://discourse.slicer.org/t/9955
+---
+
 # Ctk collapsible button in qt designer
 
 **Topic ID**: 9955

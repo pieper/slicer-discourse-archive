@@ -1,3 +1,10 @@
+---
+topic_id: 14143
+title: "Brokenpipeerror When Use Nvidia Aiaa Extensoin"
+date: 2020-10-19
+url: https://discourse.slicer.org/t/14143
+---
+
 # BrokenPipeError when use Nvidia AIAA extensoin
 
 **Topic ID**: 14143

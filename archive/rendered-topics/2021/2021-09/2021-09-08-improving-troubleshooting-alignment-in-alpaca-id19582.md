@@ -1,3 +1,10 @@
+---
+topic_id: 19582
+title: "Improving Troubleshooting Alignment In Alpaca"
+date: 2021-09-08
+url: https://discourse.slicer.org/t/19582
+---
+
 # Improving/Troubleshooting alignment in ALPACA?
 
 **Topic ID**: 19582

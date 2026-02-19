@@ -1,3 +1,10 @@
+---
+topic_id: 3316
+title: "Unable To Apply Segment Statistic"
+date: 2018-06-27
+url: https://discourse.slicer.org/t/3316
+---
+
 # Unable to apply segment statistic
 
 **Topic ID**: 3316

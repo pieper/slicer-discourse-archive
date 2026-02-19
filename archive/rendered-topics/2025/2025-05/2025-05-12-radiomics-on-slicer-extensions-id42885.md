@@ -1,3 +1,10 @@
+---
+topic_id: 42885
+title: "Radiomics On Slicer Extensions"
+date: 2025-05-12
+url: https://discourse.slicer.org/t/42885
+---
+
 # Radiomics on slicer extensions
 
 **Topic ID**: 42885

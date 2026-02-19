@@ -1,3 +1,10 @@
+---
+topic_id: 11305
+title: "Error Installing Slicerrt On Custom Built Slicer"
+date: 2020-04-26
+url: https://discourse.slicer.org/t/11305
+---
+
 # Error installing SlicerRT on custom built Slicer
 
 **Topic ID**: 11305

@@ -1,3 +1,10 @@
+---
+topic_id: 36528
+title: "Creating An Automated Pulmonary Vessel Quantitation System"
+date: 2024-05-31
+url: https://discourse.slicer.org/t/36528
+---
+
 # Creating an Automated Pulmonary Vessel Quantitation System
 
 **Topic ID**: 36528

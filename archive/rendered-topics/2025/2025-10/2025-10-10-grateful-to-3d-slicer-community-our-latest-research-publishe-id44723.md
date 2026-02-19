@@ -1,3 +1,10 @@
+---
+topic_id: 44723
+title: "Grateful To 3D Slicer Community Our Latest Research Publishe"
+date: 2025-10-10
+url: https://discourse.slicer.org/t/44723
+---
+
 # Grateful to 3D Slicer Community - Our Latest Research Published in BMC Oral Health
 
 **Topic ID**: 44723

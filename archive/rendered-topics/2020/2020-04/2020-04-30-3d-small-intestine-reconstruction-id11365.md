@@ -1,3 +1,10 @@
+---
+topic_id: 11365
+title: "3D Small Intestine Reconstruction"
+date: 2020-04-30
+url: https://discourse.slicer.org/t/11365
+---
+
 # 3D small intestine reconstruction
 
 **Topic ID**: 11365

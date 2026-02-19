@@ -1,3 +1,10 @@
+---
+topic_id: 9888
+title: "Updating Dcmtk To 3 6 5"
+date: 2020-01-21
+url: https://discourse.slicer.org/t/9888
+---
+
 # Updating DCMTK to 3.6.5
 
 **Topic ID**: 9888

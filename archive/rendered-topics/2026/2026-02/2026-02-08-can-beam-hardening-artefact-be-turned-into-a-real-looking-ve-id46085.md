@@ -1,3 +1,10 @@
+---
+topic_id: 46085
+title: "Can Beam Hardening Artefact Be Turned Into A Real Looking Ve"
+date: 2026-02-08
+url: https://discourse.slicer.org/t/46085
+---
+
 # Can beam hardening artefact be turned into a real looking vessel
 
 **Topic ID**: 46085

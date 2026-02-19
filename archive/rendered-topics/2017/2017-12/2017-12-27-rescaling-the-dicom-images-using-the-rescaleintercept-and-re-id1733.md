@@ -1,3 +1,10 @@
+---
+topic_id: 1733
+title: "Rescaling The Dicom Images Using The Rescaleintercept And Re"
+date: 2017-12-27
+url: https://discourse.slicer.org/t/1733
+---
+
 # Rescaling the DICOM images using the RescaleIntercept and RescaleSlope
 
 **Topic ID**: 1733

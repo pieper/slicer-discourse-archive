@@ -1,3 +1,10 @@
+---
+topic_id: 7329
+title: "Resolution Clarity"
+date: 2019-06-27
+url: https://discourse.slicer.org/t/7329
+---
+
 # Resolution clarity
 
 **Topic ID**: 7329

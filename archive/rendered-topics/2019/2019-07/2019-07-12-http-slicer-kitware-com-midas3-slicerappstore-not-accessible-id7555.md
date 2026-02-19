@@ -1,3 +1,10 @@
+---
+topic_id: 7555
+title: "Http Slicer Kitware Com Midas3 Slicerappstore Not Accessible"
+date: 2019-07-12
+url: https://discourse.slicer.org/t/7555
+---
+
 # http://slicer.kitware.com/midas3/slicerappstore not accessible
 
 **Topic ID**: 7555

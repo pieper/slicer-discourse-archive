@@ -1,3 +1,10 @@
+---
+topic_id: 44023
+title: "Issue Hiding Shapenodes In A Folder Via Script"
+date: 2025-08-08
+url: https://discourse.slicer.org/t/44023
+---
+
 # Issue hiding shapeNodes in a folder via script
 
 **Topic ID**: 44023

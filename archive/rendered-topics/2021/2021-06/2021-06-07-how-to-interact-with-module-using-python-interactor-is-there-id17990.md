@@ -1,3 +1,10 @@
+---
+topic_id: 17990
+title: "How To Interact With Module Using Python Interactor Is There"
+date: 2021-06-07
+url: https://discourse.slicer.org/t/17990
+---
+
 # How to interact with module using python interactor? / is there a scripting info box?
 
 **Topic ID**: 17990

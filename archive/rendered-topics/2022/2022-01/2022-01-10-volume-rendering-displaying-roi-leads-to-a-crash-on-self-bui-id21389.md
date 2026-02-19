@@ -1,3 +1,10 @@
+---
+topic_id: 21389
+title: "Volume Rendering Displaying Roi Leads To A Crash On Self Bui"
+date: 2022-01-10
+url: https://discourse.slicer.org/t/21389
+---
+
 # Volume Rendering : displaying ROI leads to a crash on self built Slicer
 
 **Topic ID**: 21389

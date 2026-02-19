@@ -1,3 +1,10 @@
+---
+topic_id: 15170
+title: "Reproduce Segmentation Pipeline From Thresholding"
+date: 2020-12-21
+url: https://discourse.slicer.org/t/15170
+---
+
 # Reproduce Segmentation Pipeline from thresholding
 
 **Topic ID**: 15170

@@ -1,3 +1,10 @@
+---
+topic_id: 20289
+title: "Display A Closedcurvenode With Changing Parameters After A B"
+date: 2021-10-21
+url: https://discourse.slicer.org/t/20289
+---
+
 # Display a ClosedCurveNode with changing parameters after a button press event
 
 **Topic ID**: 20289

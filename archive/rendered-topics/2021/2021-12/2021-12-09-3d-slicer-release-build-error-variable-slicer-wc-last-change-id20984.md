@@ -1,3 +1,10 @@
+---
+topic_id: 20984
+title: "3D Slicer Release Build Error Variable Slicer Wc Last Change"
+date: 2021-12-09
+url: https://discourse.slicer.org/t/20984
+---
+
 # 3D Slicer Release Build Error (Variable Slicer_WC_LAST_CHANGED_DATE is expected to be defined in SlicerPackageAndUploadTarget)
 
 **Topic ID**: 20984

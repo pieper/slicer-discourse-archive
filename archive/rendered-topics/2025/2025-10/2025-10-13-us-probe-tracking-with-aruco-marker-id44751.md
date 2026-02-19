@@ -1,3 +1,10 @@
+---
+topic_id: 44751
+title: "Us Probe Tracking With Aruco Marker"
+date: 2025-10-13
+url: https://discourse.slicer.org/t/44751
+---
+
 # US probe tracking with ArUco marker 
 
 **Topic ID**: 44751

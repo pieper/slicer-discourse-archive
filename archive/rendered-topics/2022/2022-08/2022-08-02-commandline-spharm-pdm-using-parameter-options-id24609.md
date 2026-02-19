@@ -1,3 +1,10 @@
+---
+topic_id: 24609
+title: "Commandline Spharm Pdm Using Parameter Options"
+date: 2022-08-02
+url: https://discourse.slicer.org/t/24609
+---
+
 # Commandline SPHARM-PDM using parameter options
 
 **Topic ID**: 24609

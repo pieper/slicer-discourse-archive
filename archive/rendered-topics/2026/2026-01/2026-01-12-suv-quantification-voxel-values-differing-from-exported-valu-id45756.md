@@ -1,3 +1,10 @@
+---
+topic_id: 45756
+title: "Suv Quantification Voxel Values Differing From Exported Valu"
+date: 2026-01-12
+url: https://discourse.slicer.org/t/45756
+---
+
 # SUV Quantification Voxel Values differing from Exported Values
 
 **Topic ID**: 45756

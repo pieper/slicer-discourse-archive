@@ -1,3 +1,10 @@
+---
+topic_id: 6661
+title: "Process Nice Priority On Linux"
+date: 2019-04-30
+url: https://discourse.slicer.org/t/6661
+---
+
 # Process nice/priority on linux
 
 **Topic ID**: 6661

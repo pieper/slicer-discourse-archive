@@ -1,3 +1,10 @@
+---
+topic_id: 14764
+title: "Roi To Ijk Coordinates With Matlab Bridge"
+date: 2020-11-25
+url: https://discourse.slicer.org/t/14764
+---
+
 # ROI to IJK coordinates with MATLAB bridge
 
 **Topic ID**: 14764

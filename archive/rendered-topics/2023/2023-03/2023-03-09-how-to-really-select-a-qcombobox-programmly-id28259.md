@@ -1,3 +1,10 @@
+---
+topic_id: 28259
+title: "How To Really Select A Qcombobox Programmly"
+date: 2023-03-09
+url: https://discourse.slicer.org/t/28259
+---
+
 # How to really select a qComboBox programmly
 
 **Topic ID**: 28259

@@ -1,3 +1,10 @@
+---
+topic_id: 26688
+title: "Making Bonereconstructionplanner Tests More Human Like"
+date: 2022-12-11
+url: https://discourse.slicer.org/t/26688
+---
+
 # Making BoneReconstructionPlanner tests more human like
 
 **Topic ID**: 26688

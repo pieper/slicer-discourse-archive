@@ -1,3 +1,10 @@
+---
+topic_id: 23162
+title: "After I Got The Cross Sectional Area Of A Roi How Can I Meas"
+date: 2022-04-28
+url: https://discourse.slicer.org/t/23162
+---
+
 # After I got the cross-sectional area of a ROI, How can I measure its HU values?
 
 **Topic ID**: 23162

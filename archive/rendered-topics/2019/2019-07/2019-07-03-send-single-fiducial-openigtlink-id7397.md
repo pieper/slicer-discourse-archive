@@ -1,3 +1,10 @@
+---
+topic_id: 7397
+title: "Send Single Fiducial Openigtlink"
+date: 2019-07-03
+url: https://discourse.slicer.org/t/7397
+---
+
 # Send single Fiducial- OpenIGTLink
 
 **Topic ID**: 7397

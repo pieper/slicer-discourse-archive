@@ -1,3 +1,10 @@
+---
+topic_id: 10096
+title: "Save 3D Reconstruction For Machine Learning"
+date: 2020-02-04
+url: https://discourse.slicer.org/t/10096
+---
+
 # Save 3D reconstruction for machine learning
 
 **Topic ID**: 10096

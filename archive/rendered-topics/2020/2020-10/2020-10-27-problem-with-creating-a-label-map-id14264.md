@@ -1,3 +1,10 @@
+---
+topic_id: 14264
+title: "Problem With Creating A Label Map"
+date: 2020-10-27
+url: https://discourse.slicer.org/t/14264
+---
+
 # Problem with creating a label map
 
 **Topic ID**: 14264

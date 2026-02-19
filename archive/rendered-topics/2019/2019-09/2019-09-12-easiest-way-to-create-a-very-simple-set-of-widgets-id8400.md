@@ -1,3 +1,10 @@
+---
+topic_id: 8400
+title: "Easiest Way To Create A Very Simple Set Of Widgets"
+date: 2019-09-12
+url: https://discourse.slicer.org/t/8400
+---
+
 # Easiest way to create a very simple set of widgets?
 
 **Topic ID**: 8400

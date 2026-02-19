@@ -1,3 +1,10 @@
+---
+topic_id: 37985
+title: "Cant Open 3D Slicer On Macbook Air M1"
+date: 2024-08-21
+url: https://discourse.slicer.org/t/37985
+---
+
 # Can't open 3d slicer on macbook air m1
 
 **Topic ID**: 37985

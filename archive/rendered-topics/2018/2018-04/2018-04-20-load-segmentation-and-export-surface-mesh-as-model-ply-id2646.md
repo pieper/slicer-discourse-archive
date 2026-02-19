@@ -1,3 +1,10 @@
+---
+topic_id: 2646
+title: "Load Segmentation And Export Surface Mesh As Model Ply"
+date: 2018-04-20
+url: https://discourse.slicer.org/t/2646
+---
+
 # Load segmentation and export surface mesh as model .ply
 
 **Topic ID**: 2646

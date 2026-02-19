@@ -1,3 +1,10 @@
+---
+topic_id: 24435
+title: "Get C Arm Angles From 3D View Orientation"
+date: 2022-07-21
+url: https://discourse.slicer.org/t/24435
+---
+
 # Get C-arm angles from 3D view orientation
 
 **Topic ID**: 24435

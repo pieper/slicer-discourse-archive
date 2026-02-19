@@ -1,3 +1,10 @@
+---
+topic_id: 21556
+title: "Retrieve Volume And Surface Area Of A Modelnode Surface Mesh"
+date: 2022-01-21
+url: https://discourse.slicer.org/t/21556
+---
+
 # Retrieve Volume and Surface Area of a ModelNode (Surface Mesh (vtkPolyData)) - Python
 
 **Topic ID**: 21556

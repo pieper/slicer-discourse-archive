@@ -1,3 +1,10 @@
+---
+topic_id: 21012
+title: "Project Week 36 Prep Meeting Next Tuesday 2021 12 14"
+date: 2021-12-10
+url: https://discourse.slicer.org/t/21012
+---
+
 # Project Week 36 prep meeting next tuesday (2021.12.14)
 
 **Topic ID**: 21012

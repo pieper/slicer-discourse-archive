@@ -1,3 +1,10 @@
+---
+topic_id: 3549
+title: "Heart Auto Segmentation In Ct Images"
+date: 2018-07-21
+url: https://discourse.slicer.org/t/3549
+---
+
 # Heart auto segmentation in CT images
 
 **Topic ID**: 3549

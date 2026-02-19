@@ -1,3 +1,10 @@
+---
+topic_id: 31169
+title: "Problems Encountered When Using Total Segmentor For The Firs"
+date: 2023-08-16
+url: https://discourse.slicer.org/t/31169
+---
+
 # Problems encountered when using Total Segmentor for the first time - zenodo.org ... Failed to establish a new connection
 
 **Topic ID**: 31169

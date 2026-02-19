@@ -1,3 +1,10 @@
+---
+topic_id: 18976
+title: "Qt Mrml Develop"
+date: 2021-07-29
+url: https://discourse.slicer.org/t/18976
+---
+
 # QT+MRML develop
 
 **Topic ID**: 18976

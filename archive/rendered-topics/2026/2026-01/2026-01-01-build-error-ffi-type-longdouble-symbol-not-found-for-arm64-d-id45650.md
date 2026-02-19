@@ -1,3 +1,10 @@
+---
+topic_id: 45650
+title: "Build Error Ffi Type Longdouble Symbol Not Found For Arm64 D"
+date: 2026-01-01
+url: https://discourse.slicer.org/t/45650
+---
+
 # Build Error: _ffi_type_longdouble symbol not found for arm64 during Python build
 
 **Topic ID**: 45650

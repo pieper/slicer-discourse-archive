@@ -1,3 +1,10 @@
+---
+topic_id: 9655
+title: "Comparison Of The Dose Comparison And Dvh Comparison Modules"
+date: 2019-12-30
+url: https://discourse.slicer.org/t/9655
+---
+
 # Comparison of the Dose Comparison and DVH Comparison modules results
 
 **Topic ID**: 9655

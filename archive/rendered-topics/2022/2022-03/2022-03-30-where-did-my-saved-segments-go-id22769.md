@@ -1,3 +1,10 @@
+---
+topic_id: 22769
+title: "Where Did My Saved Segments Go"
+date: 2022-03-30
+url: https://discourse.slicer.org/t/22769
+---
+
 # Where did my saved Segments  go 
 
 **Topic ID**: 22769

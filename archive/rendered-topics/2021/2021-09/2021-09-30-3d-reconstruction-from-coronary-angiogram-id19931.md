@@ -1,3 +1,10 @@
+---
+topic_id: 19931
+title: "3D Reconstruction From Coronary Angiogram"
+date: 2021-09-30
+url: https://discourse.slicer.org/t/19931
+---
+
 # 3D reconstruction from coronary angiogram
 
 **Topic ID**: 19931

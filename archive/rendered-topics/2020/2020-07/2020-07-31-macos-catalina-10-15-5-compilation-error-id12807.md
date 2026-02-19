@@ -1,3 +1,10 @@
+---
+topic_id: 12807
+title: "Macos Catalina 10 15 5 Compilation Error"
+date: 2020-07-31
+url: https://discourse.slicer.org/t/12807
+---
+
 # MacOS Catalina 10.15.5 compilation error
 
 **Topic ID**: 12807

@@ -1,3 +1,10 @@
+---
+topic_id: 40151
+title: "From 2D Image Fringe Light Projection To 3D Shape"
+date: 2024-11-12
+url: https://discourse.slicer.org/t/40151
+---
+
 # From 2d image fringe light projection to 3d shape
 
 **Topic ID**: 40151

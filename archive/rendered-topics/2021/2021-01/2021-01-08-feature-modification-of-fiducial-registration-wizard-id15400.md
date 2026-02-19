@@ -1,3 +1,10 @@
+---
+topic_id: 15400
+title: "Feature Modification Of Fiducial Registration Wizard"
+date: 2021-01-08
+url: https://discourse.slicer.org/t/15400
+---
+
 # Feature modification of Fiducial Registration wizard
 
 **Topic ID**: 15400

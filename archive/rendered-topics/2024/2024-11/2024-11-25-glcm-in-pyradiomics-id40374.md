@@ -1,3 +1,10 @@
+---
+topic_id: 40374
+title: "Glcm In Pyradiomics"
+date: 2024-11-25
+url: https://discourse.slicer.org/t/40374
+---
+
 # GLCM in pyradiomics
 
 **Topic ID**: 40374

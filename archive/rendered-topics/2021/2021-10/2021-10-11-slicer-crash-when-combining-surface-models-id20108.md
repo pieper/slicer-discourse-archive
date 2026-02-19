@@ -1,3 +1,10 @@
+---
+topic_id: 20108
+title: "Slicer Crash When Combining Surface Models"
+date: 2021-10-11
+url: https://discourse.slicer.org/t/20108
+---
+
 # Slicer crash when combining surface models
 
 **Topic ID**: 20108

@@ -1,3 +1,10 @@
+---
+topic_id: 802
+title: "How To Anonymize Dicom Images"
+date: 2017-08-01
+url: https://discourse.slicer.org/t/802
+---
+
 # How to anonymize DICOM images?
 
 **Topic ID**: 802

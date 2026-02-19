@@ -1,3 +1,10 @@
+---
+topic_id: 14233
+title: "Stable Slicer Version Display Problem Green Stripes"
+date: 2020-10-25
+url: https://discourse.slicer.org/t/14233
+---
+
 # Stable Slicer version display problem - green stripes
 
 **Topic ID**: 14233

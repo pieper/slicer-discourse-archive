@@ -1,3 +1,10 @@
+---
+topic_id: 16617
+title: "Distorted Images From Dicom File"
+date: 2021-03-18
+url: https://discourse.slicer.org/t/16617
+---
+
 # Distorted Images from DICOM File
 
 **Topic ID**: 16617

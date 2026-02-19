@@ -1,3 +1,10 @@
+---
+topic_id: 29114
+title: "Relative Dose Value In Color Legend Dvh"
+date: 2023-04-25
+url: https://discourse.slicer.org/t/29114
+---
+
 # relative dose value in color legend/DVH
 
 **Topic ID**: 29114

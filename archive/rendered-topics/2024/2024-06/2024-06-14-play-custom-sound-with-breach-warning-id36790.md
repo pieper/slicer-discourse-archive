@@ -1,3 +1,10 @@
+---
+topic_id: 36790
+title: "Play Custom Sound With Breach Warning"
+date: 2024-06-14
+url: https://discourse.slicer.org/t/36790
+---
+
 # Play custom sound with Breach Warning?
 
 **Topic ID**: 36790

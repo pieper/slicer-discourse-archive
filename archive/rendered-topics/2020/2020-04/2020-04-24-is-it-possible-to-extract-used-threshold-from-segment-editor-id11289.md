@@ -1,3 +1,10 @@
+---
+topic_id: 11289
+title: "Is It Possible To Extract Used Threshold From Segment Editor"
+date: 2020-04-24
+url: https://discourse.slicer.org/t/11289
+---
+
 # Is it possible to extract used threshold from segment editor?
 
 **Topic ID**: 11289

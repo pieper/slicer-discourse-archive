@@ -1,3 +1,10 @@
+---
+topic_id: 5738
+title: "Misalligned Segments"
+date: 2019-02-12
+url: https://discourse.slicer.org/t/5738
+---
+
 # Misalligned segments
 
 **Topic ID**: 5738

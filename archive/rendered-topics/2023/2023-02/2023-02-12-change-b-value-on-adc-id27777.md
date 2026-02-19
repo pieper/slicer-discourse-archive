@@ -1,3 +1,10 @@
+---
+topic_id: 27777
+title: "Change B Value On Adc"
+date: 2023-02-12
+url: https://discourse.slicer.org/t/27777
+---
+
 # Change b value on ADC
 
 **Topic ID**: 27777

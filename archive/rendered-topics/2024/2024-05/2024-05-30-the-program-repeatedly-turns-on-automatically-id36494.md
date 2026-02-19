@@ -1,3 +1,10 @@
+---
+topic_id: 36494
+title: "The Program Repeatedly Turns On Automatically"
+date: 2024-05-30
+url: https://discourse.slicer.org/t/36494
+---
+
 # The program repeatedly turns on automatically.
 
 **Topic ID**: 36494

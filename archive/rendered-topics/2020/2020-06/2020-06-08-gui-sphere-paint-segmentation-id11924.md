@@ -1,3 +1,10 @@
+---
+topic_id: 11924
+title: "Gui Sphere Paint Segmentation"
+date: 2020-06-08
+url: https://discourse.slicer.org/t/11924
+---
+
 # GUI sphere paint segmentation
 
 **Topic ID**: 11924

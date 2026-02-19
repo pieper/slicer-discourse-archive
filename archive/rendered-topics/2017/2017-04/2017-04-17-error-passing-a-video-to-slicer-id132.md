@@ -1,3 +1,10 @@
+---
+topic_id: 132
+title: "Error Passing A Video To Slicer"
+date: 2017-04-17
+url: https://discourse.slicer.org/t/132
+---
+
 # Error passing a video to Slicer
 
 **Topic ID**: 132

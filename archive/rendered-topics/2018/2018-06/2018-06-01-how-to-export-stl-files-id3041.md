@@ -1,3 +1,10 @@
+---
+topic_id: 3041
+title: "How To Export Stl Files"
+date: 2018-06-01
+url: https://discourse.slicer.org/t/3041
+---
+
 # How to export stl files ?
 
 **Topic ID**: 3041

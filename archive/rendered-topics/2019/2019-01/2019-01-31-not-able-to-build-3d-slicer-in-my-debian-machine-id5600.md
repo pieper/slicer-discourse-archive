@@ -1,3 +1,10 @@
+---
+topic_id: 5600
+title: "Not Able To Build 3D Slicer In My Debian Machine"
+date: 2019-01-31
+url: https://discourse.slicer.org/t/5600
+---
+
 # Not able to build 3d slicer in my debian machine 
 
 **Topic ID**: 5600

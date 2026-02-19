@@ -1,3 +1,10 @@
+---
+topic_id: 21695
+title: "About Radiomic Features"
+date: 2022-01-29
+url: https://discourse.slicer.org/t/21695
+---
+
 # about radiomic features
 
 **Topic ID**: 21695

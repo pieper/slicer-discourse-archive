@@ -1,3 +1,10 @@
+---
+topic_id: 42732
+title: "Green Slice Got An Empty Green Frame"
+date: 2025-04-29
+url: https://discourse.slicer.org/t/42732
+---
+
 # Green slice got an empty green frame
 
 **Topic ID**: 42732

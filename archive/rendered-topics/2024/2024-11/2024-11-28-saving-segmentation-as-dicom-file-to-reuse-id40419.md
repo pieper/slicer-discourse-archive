@@ -1,3 +1,10 @@
+---
+topic_id: 40419
+title: "Saving Segmentation As Dicom File To Reuse"
+date: 2024-11-28
+url: https://discourse.slicer.org/t/40419
+---
+
 # Saving segmentation as dicom file to reuse
 
 **Topic ID**: 40419

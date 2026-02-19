@@ -1,3 +1,10 @@
+---
+topic_id: 11478
+title: "Splitting Diffusion Volume Into Multiple B Values"
+date: 2020-05-09
+url: https://discourse.slicer.org/t/11478
+---
+
 # Splitting Diffusion Volume into multiple b-values
 
 **Topic ID**: 11478

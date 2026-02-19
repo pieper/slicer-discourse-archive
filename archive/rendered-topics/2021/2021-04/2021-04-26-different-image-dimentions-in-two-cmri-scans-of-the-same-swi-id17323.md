@@ -1,3 +1,10 @@
+---
+topic_id: 17323
+title: "Different Image Dimentions In Two Cmri Scans Of The Same Swi"
+date: 2021-04-26
+url: https://discourse.slicer.org/t/17323
+---
+
 # different image dimentions in two cMRI scans of the same swine
 
 **Topic ID**: 17323

@@ -1,3 +1,10 @@
+---
+topic_id: 3863
+title: "How To Rotate Image"
+date: 2018-08-21
+url: https://discourse.slicer.org/t/3863
+---
+
 # How to rotate image
 
 **Topic ID**: 3863

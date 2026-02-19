@@ -1,3 +1,10 @@
+---
+topic_id: 9496
+title: "Developing Slicer Modules In Visual Studio Visual Studio Cod"
+date: 2019-12-14
+url: https://discourse.slicer.org/t/9496
+---
+
 # Developing Slicer modules in Visual Studio / Visual Studio Code?
 
 **Topic ID**: 9496

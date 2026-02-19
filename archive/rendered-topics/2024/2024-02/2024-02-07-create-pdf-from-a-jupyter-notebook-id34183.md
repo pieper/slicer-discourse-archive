@@ -1,3 +1,10 @@
+---
+topic_id: 34183
+title: "Create Pdf From A Jupyter Notebook"
+date: 2024-02-07
+url: https://discourse.slicer.org/t/34183
+---
+
 # Create PDF from a jupyter notebook
 
 **Topic ID**: 34183

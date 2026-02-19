@@ -1,3 +1,10 @@
+---
+topic_id: 20277
+title: "Cant Display Model From C"
+date: 2021-10-21
+url: https://discourse.slicer.org/t/20277
+---
+
 # Can't display model from C++
 
 **Topic ID**: 20277

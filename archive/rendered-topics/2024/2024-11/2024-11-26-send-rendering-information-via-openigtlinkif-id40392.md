@@ -1,3 +1,10 @@
+---
+topic_id: 40392
+title: "Send Rendering Information Via Openigtlinkif"
+date: 2024-11-26
+url: https://discourse.slicer.org/t/40392
+---
+
 # Send Rendering Information via OpenIGTLinkIF
 
 **Topic ID**: 40392

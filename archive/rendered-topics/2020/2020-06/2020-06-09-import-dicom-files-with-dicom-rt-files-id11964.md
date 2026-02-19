@@ -1,3 +1,10 @@
+---
+topic_id: 11964
+title: "Import Dicom Files With Dicom Rt Files"
+date: 2020-06-09
+url: https://discourse.slicer.org/t/11964
+---
+
 # Import Dicom Files with DICOM RT files
 
 **Topic ID**: 11964

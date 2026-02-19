@@ -1,3 +1,10 @@
+---
+topic_id: 7537
+title: "Slicer Tractography Roi Selection Not Working"
+date: 2019-07-11
+url: https://discourse.slicer.org/t/7537
+---
+
 # Slicer Tractography ROI Selection Not Working
 
 **Topic ID**: 7537

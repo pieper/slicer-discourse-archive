@@ -1,3 +1,10 @@
+---
+topic_id: 28384
+title: "Texture Analysis From Mri In Python And Question"
+date: 2023-03-14
+url: https://discourse.slicer.org/t/28384
+---
+
 # Texture analysis from MRI in python and question
 
 **Topic ID**: 28384

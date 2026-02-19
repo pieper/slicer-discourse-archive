@@ -1,3 +1,10 @@
+---
+topic_id: 28046
+title: "Move A Model Along A Straight Line By Script"
+date: 2023-02-25
+url: https://discourse.slicer.org/t/28046
+---
+
 # Move a model along a straight line by script
 
 **Topic ID**: 28046

@@ -1,3 +1,10 @@
+---
+topic_id: 9615
+title: "Build Error Need Help"
+date: 2019-12-25
+url: https://discourse.slicer.org/t/9615
+---
+
 # build error need help ?
 
 **Topic ID**: 9615

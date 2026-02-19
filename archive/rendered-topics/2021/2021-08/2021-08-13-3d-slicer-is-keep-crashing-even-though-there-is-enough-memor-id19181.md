@@ -1,3 +1,10 @@
+---
+topic_id: 19181
+title: "3D Slicer Is Keep Crashing Even Though There Is Enough Memor"
+date: 2021-08-13
+url: https://discourse.slicer.org/t/19181
+---
+
 # 3D slicer is keep crashing even though there is enough memory
 
 **Topic ID**: 19181

@@ -1,3 +1,10 @@
+---
+topic_id: 30236
+title: "Pipeline Centerline"
+date: 2023-06-26
+url: https://discourse.slicer.org/t/30236
+---
+
 # Pipeline centerline
 
 **Topic ID**: 30236

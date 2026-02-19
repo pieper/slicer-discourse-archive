@@ -1,3 +1,10 @@
+---
+topic_id: 43718
+title: "How Do I View The 3D Rendering Of Ct Dental Images"
+date: 2025-07-15
+url: https://discourse.slicer.org/t/43718
+---
+
 # How do I view the 3D rendering of CT dental images?
 
 **Topic ID**: 43718

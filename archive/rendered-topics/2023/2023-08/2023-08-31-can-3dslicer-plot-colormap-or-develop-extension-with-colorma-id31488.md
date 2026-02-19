@@ -1,3 +1,10 @@
+---
+topic_id: 31488
+title: "Can 3Dslicer Plot Colormap Or Develop Extension With Colorma"
+date: 2023-08-31
+url: https://discourse.slicer.org/t/31488
+---
+
 # can 3dslicer plot colormap? or develop extension with colormap?
 
 **Topic ID**: 31488

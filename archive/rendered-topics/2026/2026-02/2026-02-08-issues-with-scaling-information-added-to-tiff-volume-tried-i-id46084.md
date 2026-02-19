@@ -1,3 +1,10 @@
+---
+topic_id: 46084
+title: "Issues With Scaling Information Added To Tiff Volume Tried I"
+date: 2026-02-08
+url: https://discourse.slicer.org/t/46084
+---
+
 # Issues with scaling information added to .tiff volume- tried ImageStacks and saving as .nrrd?
 
 **Topic ID**: 46084

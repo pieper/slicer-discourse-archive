@@ -1,3 +1,10 @@
+---
+topic_id: 9817
+title: "Connecting Function To Ending Of Mouse Hovering Over Fiducia"
+date: 2020-01-14
+url: https://discourse.slicer.org/t/9817
+---
+
 # Connecting function to ending of mouse hovering over fiducial event without activate control point set
 
 **Topic ID**: 9817

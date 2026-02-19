@@ -1,3 +1,10 @@
+---
+topic_id: 13085
+title: "Strange Creation Of Multiple Desktops On Linux"
+date: 2020-08-19
+url: https://discourse.slicer.org/t/13085
+---
+
 # Strange creation of multiple desktops on Linux
 
 **Topic ID**: 13085

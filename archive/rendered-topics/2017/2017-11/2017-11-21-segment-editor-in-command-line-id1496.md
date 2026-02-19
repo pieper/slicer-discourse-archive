@@ -1,3 +1,10 @@
+---
+topic_id: 1496
+title: "Segment Editor In Command Line"
+date: 2017-11-21
+url: https://discourse.slicer.org/t/1496
+---
+
 # Segment Editor in command line?
 
 **Topic ID**: 1496

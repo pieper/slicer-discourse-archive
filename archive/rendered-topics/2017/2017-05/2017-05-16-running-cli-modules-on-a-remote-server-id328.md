@@ -1,3 +1,10 @@
+---
+topic_id: 328
+title: "Running Cli Modules On A Remote Server"
+date: 2017-05-16
+url: https://discourse.slicer.org/t/328
+---
+
 # Running CLI modules on a remote server
 
 **Topic ID**: 328

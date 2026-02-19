@@ -1,3 +1,10 @@
+---
+topic_id: 33066
+title: "Orient A 3D Model According To A Gaussian Best Fit Plane"
+date: 2023-11-27
+url: https://discourse.slicer.org/t/33066
+---
+
 # Orient a 3d model according to a gaussian best fit plane
 
 **Topic ID**: 33066

@@ -1,3 +1,10 @@
+---
+topic_id: 5539
+title: "How To Switch Transform From Global To Local"
+date: 2019-01-28
+url: https://discourse.slicer.org/t/5539
+---
+
 # How to switch transform from global to local
 
 **Topic ID**: 5539

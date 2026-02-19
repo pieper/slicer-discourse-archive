@@ -1,3 +1,10 @@
+---
+topic_id: 24016
+title: "Run A Python Script From Slicer"
+date: 2022-06-23
+url: https://discourse.slicer.org/t/24016
+---
+
 # Run a python script from Slicer
 
 **Topic ID**: 24016

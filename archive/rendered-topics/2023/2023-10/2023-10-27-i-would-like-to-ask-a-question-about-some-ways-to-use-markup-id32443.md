@@ -1,3 +1,10 @@
+---
+topic_id: 32443
+title: "I Would Like To Ask A Question About Some Ways To Use Markup"
+date: 2023-10-27
+url: https://discourse.slicer.org/t/32443
+---
+
 # I would like to ask a question about some ways to use Markups
 
 **Topic ID**: 32443

@@ -1,3 +1,10 @@
+---
+topic_id: 46122
+title: "3D Slicer Does Not Start As Full Screen"
+date: 2026-02-11
+url: https://discourse.slicer.org/t/46122
+---
+
 # 3D Slicer does not start as full screen
 
 **Topic ID**: 46122

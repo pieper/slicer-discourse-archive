@@ -1,3 +1,10 @@
+---
+topic_id: 28605
+title: "Growing Region Segmentations"
+date: 2023-03-27
+url: https://discourse.slicer.org/t/28605
+---
+
 # Growing Region Segmentations
 
 **Topic ID**: 28605

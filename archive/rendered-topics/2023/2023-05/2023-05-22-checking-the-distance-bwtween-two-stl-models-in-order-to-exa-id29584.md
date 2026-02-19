@@ -1,3 +1,10 @@
+---
+topic_id: 29584
+title: "Checking The Distance Bwtween Two Stl Models In Order To Exa"
+date: 2023-05-22
+url: https://discourse.slicer.org/t/29584
+---
+
 # Checking the distance bwtween two STL models in order to exaluate the accuracy between virtual planning and actual surgery
 
 **Topic ID**: 29584

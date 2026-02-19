@@ -1,3 +1,10 @@
+---
+topic_id: 30316
+title: "Error During Spacing The Points In Centerlines Module"
+date: 2023-06-30
+url: https://discourse.slicer.org/t/30316
+---
+
 # Error during spacing the points in centerlines module
 
 **Topic ID**: 30316

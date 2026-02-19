@@ -1,3 +1,10 @@
+---
+topic_id: 10444
+title: "Is It Possible To Do A Segmentation Of The Lumbar Spine From"
+date: 2020-02-26
+url: https://discourse.slicer.org/t/10444
+---
+
 # Is it possible to do a segmentation of the lumbar spine from CT-data and use the 3D model (.igs) for further finite element analysis in ABAQUS or FEBio?
 
 **Topic ID**: 10444

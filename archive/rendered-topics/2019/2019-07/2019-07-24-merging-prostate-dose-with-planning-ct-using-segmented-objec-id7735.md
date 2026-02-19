@@ -1,3 +1,10 @@
+---
+topic_id: 7735
+title: "Merging Prostate Dose With Planning Ct Using Segmented Objec"
+date: 2019-07-24
+url: https://discourse.slicer.org/t/7735
+---
+
 # Merging Prostate Dose with Planning CT using segmented objects
 
 **Topic ID**: 7735

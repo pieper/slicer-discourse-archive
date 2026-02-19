@@ -1,3 +1,10 @@
+---
+topic_id: 24603
+title: "Editing Segments Doesnt Respond"
+date: 2022-08-02
+url: https://discourse.slicer.org/t/24603
+---
+
 # Editing segments doesn't respond
 
 **Topic ID**: 24603

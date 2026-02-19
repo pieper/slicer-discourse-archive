@@ -1,3 +1,10 @@
+---
+topic_id: 28762
+title: "Processallctindir Slicerlungctanalyzer"
+date: 2023-04-05
+url: https://discourse.slicer.org/t/28762
+---
+
 # ProcessAllCTInDir - SlicerLungCTAnalyzer
 
 **Topic ID**: 28762

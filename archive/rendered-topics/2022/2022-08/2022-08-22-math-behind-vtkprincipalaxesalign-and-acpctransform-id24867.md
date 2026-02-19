@@ -1,3 +1,10 @@
+---
+topic_id: 24867
+title: "Math Behind Vtkprincipalaxesalign And Acpctransform"
+date: 2022-08-22
+url: https://discourse.slicer.org/t/24867
+---
+
 # Math behind vtkPrincipalAxesAlign and ACPCTransform 
 
 **Topic ID**: 24867

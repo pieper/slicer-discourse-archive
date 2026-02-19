@@ -1,3 +1,10 @@
+---
+topic_id: 36726
+title: "Logging With A Python Script"
+date: 2024-06-12
+url: https://discourse.slicer.org/t/36726
+---
+
 # Logging with a python script
 
 **Topic ID**: 36726

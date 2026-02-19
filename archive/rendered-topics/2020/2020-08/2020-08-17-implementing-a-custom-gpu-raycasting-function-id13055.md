@@ -1,3 +1,10 @@
+---
+topic_id: 13055
+title: "Implementing A Custom Gpu Raycasting Function"
+date: 2020-08-17
+url: https://discourse.slicer.org/t/13055
+---
+
 # Implementing a custom GPU raycasting function
 
 **Topic ID**: 13055

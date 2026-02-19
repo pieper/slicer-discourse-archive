@@ -1,3 +1,10 @@
+---
+topic_id: 4204
+title: "New Sequnce Building"
+date: 2018-09-27
+url: https://discourse.slicer.org/t/4204
+---
+
 # New sequnce building
 
 **Topic ID**: 4204

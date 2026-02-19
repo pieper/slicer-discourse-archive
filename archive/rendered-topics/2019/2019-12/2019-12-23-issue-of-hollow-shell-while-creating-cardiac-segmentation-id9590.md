@@ -1,3 +1,10 @@
+---
+topic_id: 9590
+title: "Issue Of Hollow Shell While Creating Cardiac Segmentation"
+date: 2019-12-23
+url: https://discourse.slicer.org/t/9590
+---
+
 # Issue of hollow shell while creating cardiac segmentation
 
 **Topic ID**: 9590

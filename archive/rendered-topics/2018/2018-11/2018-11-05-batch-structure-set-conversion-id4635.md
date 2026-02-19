@@ -1,3 +1,10 @@
+---
+topic_id: 4635
+title: "Batch Structure Set Conversion"
+date: 2018-11-05
+url: https://discourse.slicer.org/t/4635
+---
+
 # Batch Structure Set Conversion
 
 **Topic ID**: 4635

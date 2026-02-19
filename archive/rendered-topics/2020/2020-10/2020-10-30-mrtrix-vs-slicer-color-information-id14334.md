@@ -1,3 +1,10 @@
+---
+topic_id: 14334
+title: "Mrtrix Vs Slicer Color Information"
+date: 2020-10-30
+url: https://discourse.slicer.org/t/14334
+---
+
 # MRTrix vs. Slicer color information
 
 **Topic ID**: 14334

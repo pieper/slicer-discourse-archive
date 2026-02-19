@@ -1,3 +1,10 @@
+---
+topic_id: 145
+title: "Created Admin Category"
+date: 2017-04-19
+url: https://discourse.slicer.org/t/145
+---
+
 # Created `Admin` category
 
 **Topic ID**: 145

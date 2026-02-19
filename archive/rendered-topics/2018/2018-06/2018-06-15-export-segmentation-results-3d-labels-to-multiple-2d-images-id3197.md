@@ -1,3 +1,10 @@
+---
+topic_id: 3197
+title: "Export Segmentation Results 3D Labels To Multiple 2D Images"
+date: 2018-06-15
+url: https://discourse.slicer.org/t/3197
+---
+
 # Export segmentation results (3d labels) to multiple 2d images (for deep learning training)?
 
 **Topic ID**: 3197

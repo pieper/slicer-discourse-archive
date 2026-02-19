@@ -1,3 +1,10 @@
+---
+topic_id: 13064
+title: "Windows 10 Is Now Handling The Gpu Selection"
+date: 2020-08-18
+url: https://discourse.slicer.org/t/13064
+---
+
 # WIndows 10 is now handling the gpu selection
 
 **Topic ID**: 13064

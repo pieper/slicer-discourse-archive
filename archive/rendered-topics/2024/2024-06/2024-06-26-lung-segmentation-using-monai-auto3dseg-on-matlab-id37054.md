@@ -1,3 +1,10 @@
+---
+topic_id: 37054
+title: "Lung Segmentation Using Monai Auto3Dseg On Matlab"
+date: 2024-06-26
+url: https://discourse.slicer.org/t/37054
+---
+
 # Lung segmentation using monai auto3dseg on matlab
 
 **Topic ID**: 37054

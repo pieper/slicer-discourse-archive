@@ -1,3 +1,10 @@
+---
+topic_id: 34934
+title: "Local Threshold No Longer Works"
+date: 2024-03-17
+url: https://discourse.slicer.org/t/34934
+---
+
 # Local threshold no longer works
 
 **Topic ID**: 34934

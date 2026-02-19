@@ -1,3 +1,10 @@
+---
+topic_id: 17402
+title: "How To Segment Epicardial Adipose Tissue Accurately"
+date: 2021-05-01
+url: https://discourse.slicer.org/t/17402
+---
+
 # How to segment epicardial adipose tissue accurately?
 
 **Topic ID**: 17402

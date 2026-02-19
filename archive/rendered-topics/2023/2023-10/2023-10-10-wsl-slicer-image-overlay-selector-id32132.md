@@ -1,3 +1,10 @@
+---
+topic_id: 32132
+title: "Wsl Slicer Image Overlay Selector"
+date: 2023-10-10
+url: https://discourse.slicer.org/t/32132
+---
+
 # WSL Slicer image overlay selector
 
 **Topic ID**: 32132

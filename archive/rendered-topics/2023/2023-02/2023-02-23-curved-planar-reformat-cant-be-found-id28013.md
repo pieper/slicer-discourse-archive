@@ -1,3 +1,10 @@
+---
+topic_id: 28013
+title: "Curved Planar Reformat Cant Be Found"
+date: 2023-02-23
+url: https://discourse.slicer.org/t/28013
+---
+
 # Curved planar reformat can't be found
 
 **Topic ID**: 28013

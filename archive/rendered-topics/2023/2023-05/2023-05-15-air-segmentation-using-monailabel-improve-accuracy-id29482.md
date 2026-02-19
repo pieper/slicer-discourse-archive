@@ -1,3 +1,10 @@
+---
+topic_id: 29482
+title: "Air Segmentation Using Monailabel Improve Accuracy"
+date: 2023-05-15
+url: https://discourse.slicer.org/t/29482
+---
+
 # Air segmentation using MONAILabel_improve accuracy
 
 **Topic ID**: 29482

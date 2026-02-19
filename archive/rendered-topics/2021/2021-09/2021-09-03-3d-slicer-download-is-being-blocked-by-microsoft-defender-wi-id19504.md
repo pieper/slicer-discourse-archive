@@ -1,3 +1,10 @@
+---
+topic_id: 19504
+title: "3D Slicer Download Is Being Blocked By Microsoft Defender Wi"
+date: 2021-09-03
+url: https://discourse.slicer.org/t/19504
+---
+
 # 3D Slicer Download is being blocked by Microsoft Defender windows 10
 
 **Topic ID**: 19504

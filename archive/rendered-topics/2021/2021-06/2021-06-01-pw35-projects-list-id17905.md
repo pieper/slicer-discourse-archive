@@ -1,3 +1,10 @@
+---
+topic_id: 17905
+title: "Pw35 Projects List"
+date: 2021-06-01
+url: https://discourse.slicer.org/t/17905
+---
+
 # PW35 Projects List
 
 **Topic ID**: 17905

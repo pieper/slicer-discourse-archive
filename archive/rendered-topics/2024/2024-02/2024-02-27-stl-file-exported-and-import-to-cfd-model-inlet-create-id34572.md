@@ -1,3 +1,10 @@
+---
+topic_id: 34572
+title: "Stl File Exported And Import To Cfd Model Inlet Create"
+date: 2024-02-27
+url: https://discourse.slicer.org/t/34572
+---
+
 # STL file exported and import to CFD model/ inlet create
 
 **Topic ID**: 34572

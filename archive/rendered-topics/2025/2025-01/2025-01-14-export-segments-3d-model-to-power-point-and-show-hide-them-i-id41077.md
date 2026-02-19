@@ -1,3 +1,10 @@
+---
+topic_id: 41077
+title: "Export Segments 3D Model To Power Point And Show Hide Them I"
+date: 2025-01-14
+url: https://discourse.slicer.org/t/41077
+---
+
 # Export segments 3d model to power point and show/hide them individually
 
 **Topic ID**: 41077

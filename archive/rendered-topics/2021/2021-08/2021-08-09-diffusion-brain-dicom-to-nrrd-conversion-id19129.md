@@ -1,3 +1,10 @@
+---
+topic_id: 19129
+title: "Diffusion Brain Dicom To Nrrd Conversion"
+date: 2021-08-09
+url: https://discourse.slicer.org/t/19129
+---
+
 # Diffusion brain: DICOM to NRRD conversion
 
 **Topic ID**: 19129

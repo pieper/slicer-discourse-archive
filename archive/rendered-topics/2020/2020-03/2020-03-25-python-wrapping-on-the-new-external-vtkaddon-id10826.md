@@ -1,3 +1,10 @@
+---
+topic_id: 10826
+title: "Python Wrapping On The New External Vtkaddon"
+date: 2020-03-25
+url: https://discourse.slicer.org/t/10826
+---
+
 # Python wrapping on the new external vtkAddon
 
 **Topic ID**: 10826

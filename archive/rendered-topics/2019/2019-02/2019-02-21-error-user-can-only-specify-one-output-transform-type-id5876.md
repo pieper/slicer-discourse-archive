@@ -1,3 +1,10 @@
+---
+topic_id: 5876
+title: "Error User Can Only Specify One Output Transform Type"
+date: 2019-02-21
+url: https://discourse.slicer.org/t/5876
+---
+
 # Error: user can only specify one output transform type
 
 **Topic ID**: 5876

@@ -1,3 +1,10 @@
+---
+topic_id: 18895
+title: "Getting Dicom Information From Volume In Jupyter Notebook"
+date: 2021-07-23
+url: https://discourse.slicer.org/t/18895
+---
+
 # Getting DICOM information from Volume in Jupyter Notebook
 
 **Topic ID**: 18895

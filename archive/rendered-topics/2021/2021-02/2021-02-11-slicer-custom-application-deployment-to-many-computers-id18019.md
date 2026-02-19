@@ -1,3 +1,10 @@
+---
+topic_id: 18019
+title: "Slicer Custom Application Deployment To Many Computers"
+date: 2021-02-11
+url: https://discourse.slicer.org/t/18019
+---
+
 # Slicer custom application deployment to many computers
 
 **Topic ID**: 18019

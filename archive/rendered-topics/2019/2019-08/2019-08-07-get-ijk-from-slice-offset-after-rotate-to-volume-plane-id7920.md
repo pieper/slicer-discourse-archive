@@ -1,3 +1,10 @@
+---
+topic_id: 7920
+title: "Get Ijk From Slice Offset After Rotate To Volume Plane"
+date: 2019-08-07
+url: https://discourse.slicer.org/t/7920
+---
+
 # Get IJK from Slice Offset after Rotate to Volume Plane
 
 **Topic ID**: 7920

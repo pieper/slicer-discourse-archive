@@ -1,3 +1,10 @@
+---
+topic_id: 4349
+title: "Merging Different Volumes Together"
+date: 2018-10-10
+url: https://discourse.slicer.org/t/4349
+---
+
 # Merging different volumes together
 
 **Topic ID**: 4349

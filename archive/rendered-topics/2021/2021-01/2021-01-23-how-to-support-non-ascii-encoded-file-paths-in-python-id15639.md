@@ -1,3 +1,10 @@
+---
+topic_id: 15639
+title: "How To Support Non Ascii Encoded File Paths In Python"
+date: 2021-01-23
+url: https://discourse.slicer.org/t/15639
+---
+
 # How to support non-ASCII encoded file paths in python?
 
 **Topic ID**: 15639

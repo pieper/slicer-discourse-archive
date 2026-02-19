@@ -1,3 +1,10 @@
+---
+topic_id: 25938
+title: "Growing Bubble Segmentations On 2D Images"
+date: 2022-10-27
+url: https://discourse.slicer.org/t/25938
+---
+
 # Growing Bubble Segmentations on 2D Images
 
 **Topic ID**: 25938

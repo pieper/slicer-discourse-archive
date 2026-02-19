@@ -1,3 +1,10 @@
+---
+topic_id: 41280
+title: "How To Renumber Segment Labels After Deleting Regions In A L"
+date: 2025-01-25
+url: https://discourse.slicer.org/t/41280
+---
+
 # How to Renumber Segment Labels After Deleting Regions in a Label File?
 
 **Topic ID**: 41280

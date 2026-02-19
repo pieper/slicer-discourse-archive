@@ -1,3 +1,10 @@
+---
+topic_id: 2450
+title: "Unable To Save Labelmap Node To File Using Slicer Util Saven"
+date: 2018-03-28
+url: https://discourse.slicer.org/t/2450
+---
+
 # Unable to save labelmap node to file using slicer.util.saveNode()
 
 **Topic ID**: 2450

@@ -1,3 +1,10 @@
+---
+topic_id: 20763
+title: "How To Lock Slices Or Axes To Orthogonal Status"
+date: 2021-11-24
+url: https://discourse.slicer.org/t/20763
+---
+
 # How to lock slices or axes to orthogonal status?
 
 **Topic ID**: 20763

@@ -1,3 +1,10 @@
+---
+topic_id: 19288
+title: "Load Data Into 3D Slicer"
+date: 2021-08-20
+url: https://discourse.slicer.org/t/19288
+---
+
 # Load Data into 3D slicer
 
 **Topic ID**: 19288

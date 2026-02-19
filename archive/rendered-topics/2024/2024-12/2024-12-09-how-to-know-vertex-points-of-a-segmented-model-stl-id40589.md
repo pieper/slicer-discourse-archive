@@ -1,3 +1,10 @@
+---
+topic_id: 40589
+title: "How To Know Vertex Points Of A Segmented Model Stl"
+date: 2024-12-09
+url: https://discourse.slicer.org/t/40589
+---
+
 # How to know vertex points of a segmented model(stl)?
 
 **Topic ID**: 40589

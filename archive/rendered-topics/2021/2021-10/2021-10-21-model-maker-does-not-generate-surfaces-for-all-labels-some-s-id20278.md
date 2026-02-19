@@ -1,3 +1,10 @@
+---
+topic_id: 20278
+title: "Model Maker Does Not Generate Surfaces For All Labels Some S"
+date: 2021-10-21
+url: https://discourse.slicer.org/t/20278
+---
+
 # Model Maker does not generate surfaces for all labels - some skipped
 
 **Topic ID**: 20278

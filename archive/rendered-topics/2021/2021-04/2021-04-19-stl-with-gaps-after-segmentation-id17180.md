@@ -1,3 +1,10 @@
+---
+topic_id: 17180
+title: "Stl With Gaps After Segmentation"
+date: 2021-04-19
+url: https://discourse.slicer.org/t/17180
+---
+
 # STL with gaps after segmentation
 
 **Topic ID**: 17180

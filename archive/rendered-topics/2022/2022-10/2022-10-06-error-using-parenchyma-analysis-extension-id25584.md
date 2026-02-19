@@ -1,3 +1,10 @@
+---
+topic_id: 25584
+title: "Error Using Parenchyma Analysis Extension"
+date: 2022-10-06
+url: https://discourse.slicer.org/t/25584
+---
+
 # Error Using Parenchyma Analysis Extension
 
 **Topic ID**: 25584

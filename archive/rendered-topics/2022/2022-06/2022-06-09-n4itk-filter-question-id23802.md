@@ -1,3 +1,10 @@
+---
+topic_id: 23802
+title: "N4Itk Filter Question"
+date: 2022-06-09
+url: https://discourse.slicer.org/t/23802
+---
+
 # N4ITK filter Question
 
 **Topic ID**: 23802

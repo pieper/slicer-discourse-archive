@@ -1,3 +1,10 @@
+---
+topic_id: 21622
+title: "Publishing A New Extension Slicermruslandmarking"
+date: 2022-01-25
+url: https://discourse.slicer.org/t/21622
+---
+
 # Publishing a new extension (SlicerMRUSLandmarking)
 
 **Topic ID**: 21622

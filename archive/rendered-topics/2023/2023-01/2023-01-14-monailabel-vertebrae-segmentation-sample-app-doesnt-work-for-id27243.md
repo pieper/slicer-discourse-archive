@@ -1,3 +1,10 @@
+---
+topic_id: 27243
+title: "Monailabel Vertebrae Segmentation Sample App Doesnt Work For"
+date: 2023-01-14
+url: https://discourse.slicer.org/t/27243
+---
+
 # MonaiLabel vertebrae segmentation sample-app doesn't work for sample data
 
 **Topic ID**: 27243

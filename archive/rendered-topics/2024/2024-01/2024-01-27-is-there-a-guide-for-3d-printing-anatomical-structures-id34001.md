@@ -1,3 +1,10 @@
+---
+topic_id: 34001
+title: "Is There A Guide For 3D Printing Anatomical Structures"
+date: 2024-01-27
+url: https://discourse.slicer.org/t/34001
+---
+
 # Is there a guide for 3D printing anatomical structures?
 
 **Topic ID**: 34001

@@ -1,3 +1,10 @@
+---
+topic_id: 10299
+title: "Image Integration Ensite Velocity Eps Map Ct Scan For Radios"
+date: 2020-02-16
+url: https://discourse.slicer.org/t/10299
+---
+
 # [Image Integration] Ensite Velocity EPS map + CT scan for radiosurgery in patients with VT
 
 **Topic ID**: 10299

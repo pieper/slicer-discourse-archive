@@ -1,3 +1,10 @@
+---
+topic_id: 38334
+title: "Computing Intersection Between Volume And Segmentation"
+date: 2024-09-11
+url: https://discourse.slicer.org/t/38334
+---
+
 # Computing intersection between volume and segmentation
 
 **Topic ID**: 38334

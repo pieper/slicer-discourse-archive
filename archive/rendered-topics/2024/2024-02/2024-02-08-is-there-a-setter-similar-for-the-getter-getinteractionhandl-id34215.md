@@ -1,3 +1,10 @@
+---
+topic_id: 34215
+title: "Is There A Setter Similar For The Getter Getinteractionhandl"
+date: 2024-02-08
+url: https://discourse.slicer.org/t/34215
+---
+
 # Is there a Setter similar for the Getter GetInteractionHandleToWorldMatrix?
 
 **Topic ID**: 34215

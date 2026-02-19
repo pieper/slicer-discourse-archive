@@ -1,3 +1,10 @@
+---
+topic_id: 39852
+title: "3T Mri Swan Dicom Iron Deposition"
+date: 2024-10-25
+url: https://discourse.slicer.org/t/39852
+---
+
 # 3T MRI SWAN DICOM--Iron Deposition?
 
 **Topic ID**: 39852

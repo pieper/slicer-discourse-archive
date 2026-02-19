@@ -1,3 +1,10 @@
+---
+topic_id: 30105
+title: "Problems With T1 Mapping"
+date: 2023-06-18
+url: https://discourse.slicer.org/t/30105
+---
+
 # Problems with T1 mapping
 
 **Topic ID**: 30105

@@ -1,3 +1,10 @@
+---
+topic_id: 28554
+title: "3D Print Pelvis While Preserving Fractures"
+date: 2023-03-24
+url: https://discourse.slicer.org/t/28554
+---
+
 # 3D print pelvis while preserving fractures
 
 **Topic ID**: 28554

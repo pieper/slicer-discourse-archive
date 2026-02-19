@@ -1,3 +1,10 @@
+---
+topic_id: 23087
+title: "Any Log4J Vulnerabilities Apache Java"
+date: 2022-04-22
+url: https://discourse.slicer.org/t/23087
+---
+
 # Any Log4J vulnerabilities (Apache Java)  
 
 **Topic ID**: 23087

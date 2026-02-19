@@ -1,3 +1,10 @@
+---
+topic_id: 9062
+title: "Rotation Around Y Axe"
+date: 2019-11-07
+url: https://discourse.slicer.org/t/9062
+---
+
 # Rotation around y axe
 
 **Topic ID**: 9062

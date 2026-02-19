@@ -1,3 +1,10 @@
+---
+topic_id: 9101
+title: "Connection Lines"
+date: 2019-11-11
+url: https://discourse.slicer.org/t/9101
+---
+
 # Connection lines?
 
 **Topic ID**: 9101

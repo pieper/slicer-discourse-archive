@@ -1,3 +1,10 @@
+---
+topic_id: 16907
+title: "Syntax Parameter File"
+date: 2021-04-01
+url: https://discourse.slicer.org/t/16907
+---
+
 # Syntax parameter file
 
 **Topic ID**: 16907

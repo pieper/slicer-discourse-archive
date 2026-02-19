@@ -1,3 +1,10 @@
+---
+topic_id: 32821
+title: "Segment Editor Causes Freeze"
+date: 2023-11-14
+url: https://discourse.slicer.org/t/32821
+---
+
 # Segment Editor Causes Freeze
 
 **Topic ID**: 32821

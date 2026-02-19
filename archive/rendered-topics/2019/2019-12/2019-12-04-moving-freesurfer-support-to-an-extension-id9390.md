@@ -1,3 +1,10 @@
+---
+topic_id: 9390
+title: "Moving Freesurfer Support To An Extension"
+date: 2019-12-04
+url: https://discourse.slicer.org/t/9390
+---
+
 # Moving FreeSurfer support to an extension
 
 **Topic ID**: 9390

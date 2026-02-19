@@ -1,3 +1,10 @@
+---
+topic_id: 4530
+title: "Smoothing Hole Filling Problem"
+date: 2018-10-25
+url: https://discourse.slicer.org/t/4530
+---
+
 # Smoothing/ Hole Filling problem
 
 **Topic ID**: 4530

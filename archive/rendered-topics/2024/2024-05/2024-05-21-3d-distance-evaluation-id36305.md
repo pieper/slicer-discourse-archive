@@ -1,3 +1,10 @@
+---
+topic_id: 36305
+title: "3D Distance Evaluation"
+date: 2024-05-21
+url: https://discourse.slicer.org/t/36305
+---
+
 # 3D Distance evaluation
 
 **Topic ID**: 36305

@@ -1,3 +1,10 @@
+---
+topic_id: 21588
+title: "How To Annotate Markup An Image With Arrows And Anatomical N"
+date: 2022-01-24
+url: https://discourse.slicer.org/t/21588
+---
+
 # How to annotate/markup an image with arrows and anatomical names
 
 **Topic ID**: 21588

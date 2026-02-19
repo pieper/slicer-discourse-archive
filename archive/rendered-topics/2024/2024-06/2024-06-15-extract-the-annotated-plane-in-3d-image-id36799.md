@@ -1,3 +1,10 @@
+---
+topic_id: 36799
+title: "Extract The Annotated Plane In 3D Image"
+date: 2024-06-15
+url: https://discourse.slicer.org/t/36799
+---
+
 # Extract the annotated plane in 3D image
 
 **Topic ID**: 36799

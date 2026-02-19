@@ -1,3 +1,10 @@
+---
+topic_id: 10028
+title: "Vtk File Superimposition"
+date: 2020-01-30
+url: https://discourse.slicer.org/t/10028
+---
+
 # vtk file superimposition
 
 **Topic ID**: 10028

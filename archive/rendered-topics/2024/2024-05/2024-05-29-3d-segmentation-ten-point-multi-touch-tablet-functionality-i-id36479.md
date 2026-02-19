@@ -1,3 +1,10 @@
+---
+topic_id: 36479
+title: "3D Segmentation Ten Point Multi Touch Tablet Functionality I"
+date: 2024-05-29
+url: https://discourse.slicer.org/t/36479
+---
+
 # 3D segmentation: ten-point multi-touch tablet functionality (in linux ubuntu)?
 
 **Topic ID**: 36479

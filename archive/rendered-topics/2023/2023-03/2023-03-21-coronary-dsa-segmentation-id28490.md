@@ -1,3 +1,10 @@
+---
+topic_id: 28490
+title: "Coronary Dsa Segmentation"
+date: 2023-03-21
+url: https://discourse.slicer.org/t/28490
+---
+
 # Coronary DSA Segmentation
 
 **Topic ID**: 28490

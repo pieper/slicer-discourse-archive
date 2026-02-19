@@ -1,3 +1,10 @@
+---
+topic_id: 14207
+title: "Configure Segmentation Defaults"
+date: 2020-10-22
+url: https://discourse.slicer.org/t/14207
+---
+
 # Configure segmentation defaults
 
 **Topic ID**: 14207

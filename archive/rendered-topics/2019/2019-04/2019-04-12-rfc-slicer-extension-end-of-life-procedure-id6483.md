@@ -1,3 +1,10 @@
+---
+topic_id: 6483
+title: "Rfc Slicer Extension End Of Life Procedure"
+date: 2019-04-12
+url: https://discourse.slicer.org/t/6483
+---
+
 # RFC: Slicer extension end-of-life procedure
 
 **Topic ID**: 6483

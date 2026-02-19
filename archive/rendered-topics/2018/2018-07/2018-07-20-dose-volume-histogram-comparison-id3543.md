@@ -1,3 +1,10 @@
+---
+topic_id: 3543
+title: "Dose Volume Histogram Comparison"
+date: 2018-07-20
+url: https://discourse.slicer.org/t/3543
+---
+
 # Dose Volume Histogram Comparison
 
 **Topic ID**: 3543

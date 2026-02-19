@@ -1,3 +1,10 @@
+---
+topic_id: 37168
+title: "Hide Node And Refresh View"
+date: 2024-07-03
+url: https://discourse.slicer.org/t/37168
+---
+
 # Hide node and refresh view
 
 **Topic ID**: 37168

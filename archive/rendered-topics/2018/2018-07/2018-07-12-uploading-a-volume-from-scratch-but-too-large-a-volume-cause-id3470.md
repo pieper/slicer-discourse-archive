@@ -1,3 +1,10 @@
+---
+topic_id: 3470
+title: "Uploading A Volume From Scratch But Too Large A Volume Cause"
+date: 2018-07-12
+url: https://discourse.slicer.org/t/3470
+---
+
 # Uploading a Volume from scratch, but too large a volume causes a crash
 
 **Topic ID**: 3470

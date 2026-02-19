@@ -1,3 +1,10 @@
+---
+topic_id: 24049
+title: "How To Use A 3D Interactive Pdf"
+date: 2022-06-25
+url: https://discourse.slicer.org/t/24049
+---
+
 # How to use a 3D interactive pdf?
 
 **Topic ID**: 24049

@@ -1,3 +1,10 @@
+---
+topic_id: 42223
+title: "Segment Editor Draw Tube It Makes Octagonal Prisms Instead O"
+date: 2025-03-19
+url: https://discourse.slicer.org/t/42223
+---
+
 # Segment Editor: Draw Tube - it makes octagonal prisms instead of smooth cylinders
 
 **Topic ID**: 42223

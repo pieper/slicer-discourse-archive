@@ -1,3 +1,10 @@
+---
+topic_id: 18908
+title: "Running Slicer From Mac Terminal"
+date: 2021-07-24
+url: https://discourse.slicer.org/t/18908
+---
+
 # Running slicer from mac terminal
 
 **Topic ID**: 18908

@@ -1,3 +1,10 @@
+---
+topic_id: 745
+title: "Seeing Unapproved Posts"
+date: 2017-07-23
+url: https://discourse.slicer.org/t/745
+---
+
 # Seeing unapproved posts
 
 **Topic ID**: 745

@@ -1,3 +1,10 @@
+---
+topic_id: 24572
+title: "Does Slicer Support 2D Slice View Shift Between Different Pi"
+date: 2022-07-30
+url: https://discourse.slicer.org/t/24572
+---
+
 # Does Slicer support 2d slice view shift between different pics whit mouse left key pressed and drag up and down?
 
 **Topic ID**: 24572

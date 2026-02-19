@@ -1,3 +1,10 @@
+---
+topic_id: 14118
+title: "Inline Documentation Link Issues In Help Tab"
+date: 2020-10-18
+url: https://discourse.slicer.org/t/14118
+---
+
 # Inline documentation link issues in Help tab
 
 **Topic ID**: 14118

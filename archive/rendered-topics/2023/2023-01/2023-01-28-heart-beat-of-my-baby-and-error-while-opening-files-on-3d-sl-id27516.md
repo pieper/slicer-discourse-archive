@@ -1,3 +1,10 @@
+---
+topic_id: 27516
+title: "Heart Beat Of My Baby And Error While Opening Files On 3D Sl"
+date: 2023-01-28
+url: https://discourse.slicer.org/t/27516
+---
+
 # Heart beat of my baby and error while opening files on 3D Slicer
 
 **Topic ID**: 27516

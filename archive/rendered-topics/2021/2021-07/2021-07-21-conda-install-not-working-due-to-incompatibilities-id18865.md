@@ -1,3 +1,10 @@
+---
+topic_id: 18865
+title: "Conda Install Not Working Due To Incompatibilities"
+date: 2021-07-21
+url: https://discourse.slicer.org/t/18865
+---
+
 # Conda install not working due to incompatibilities
 
 **Topic ID**: 18865

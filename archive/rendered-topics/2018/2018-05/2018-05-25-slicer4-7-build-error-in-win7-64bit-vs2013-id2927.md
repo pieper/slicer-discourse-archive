@@ -1,3 +1,10 @@
+---
+topic_id: 2927
+title: "Slicer4 7 Build Error In Win7 64Bit Vs2013"
+date: 2018-05-25
+url: https://discourse.slicer.org/t/2927
+---
+
 # Slicer4.7 build error in Win7-64bit Vs2013
 
 **Topic ID**: 2927

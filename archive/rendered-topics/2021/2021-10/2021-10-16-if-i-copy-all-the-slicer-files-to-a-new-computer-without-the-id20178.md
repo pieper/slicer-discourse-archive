@@ -1,3 +1,10 @@
+---
+topic_id: 20178
+title: "If I Copy All The Slicer Files To A New Computer Without The"
+date: 2021-10-16
+url: https://discourse.slicer.org/t/20178
+---
+
 # If I copy all the slicer files to a new computer without the original dicom file will I be able to work?  
 
 **Topic ID**: 20178

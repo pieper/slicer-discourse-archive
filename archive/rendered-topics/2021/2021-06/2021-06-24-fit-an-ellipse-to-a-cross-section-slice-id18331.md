@@ -1,3 +1,10 @@
+---
+topic_id: 18331
+title: "Fit An Ellipse To A Cross Section Slice"
+date: 2021-06-24
+url: https://discourse.slicer.org/t/18331
+---
+
 # Fit an ellipse to a cross-section slice
 
 **Topic ID**: 18331

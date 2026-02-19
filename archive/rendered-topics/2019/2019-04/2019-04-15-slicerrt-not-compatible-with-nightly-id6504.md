@@ -1,3 +1,10 @@
+---
+topic_id: 6504
+title: "Slicerrt Not Compatible With Nightly"
+date: 2019-04-15
+url: https://discourse.slicer.org/t/6504
+---
+
 # SlicerRT not compatible with nightly
 
 **Topic ID**: 6504

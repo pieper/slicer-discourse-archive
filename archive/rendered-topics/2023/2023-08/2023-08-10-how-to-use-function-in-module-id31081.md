@@ -1,3 +1,10 @@
+---
+topic_id: 31081
+title: "How To Use Function In Module"
+date: 2023-08-10
+url: https://discourse.slicer.org/t/31081
+---
+
 # How to use function in module
 
 **Topic ID**: 31081

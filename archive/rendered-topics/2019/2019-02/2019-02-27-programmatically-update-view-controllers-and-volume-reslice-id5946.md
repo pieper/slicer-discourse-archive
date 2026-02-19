@@ -1,3 +1,10 @@
+---
+topic_id: 5946
+title: "Programmatically Update View Controllers And Volume Reslice"
+date: 2019-02-27
+url: https://discourse.slicer.org/t/5946
+---
+
 # Programmatically update View Controllers and Volume Reslice Driver?
 
 **Topic ID**: 5946

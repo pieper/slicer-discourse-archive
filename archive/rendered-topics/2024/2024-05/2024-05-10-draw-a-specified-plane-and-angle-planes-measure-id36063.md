@@ -1,3 +1,10 @@
+---
+topic_id: 36063
+title: "Draw A Specified Plane And Angle Planes Measure"
+date: 2024-05-10
+url: https://discourse.slicer.org/t/36063
+---
+
 # Draw a specified plane and Angle Planes measure
 
 **Topic ID**: 36063

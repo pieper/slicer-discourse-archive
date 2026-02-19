@@ -1,3 +1,10 @@
+---
+topic_id: 19376
+title: "Is Monailabel Functional"
+date: 2021-08-26
+url: https://discourse.slicer.org/t/19376
+---
+
 # Is MonaiLabel functional?
 
 **Topic ID**: 19376

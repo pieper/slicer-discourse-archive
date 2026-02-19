@@ -1,3 +1,10 @@
+---
+topic_id: 39668
+title: "Automatic Knee Segmentation In Mri"
+date: 2024-10-12
+url: https://discourse.slicer.org/t/39668
+---
+
 # Automatic knee segmentation in MRI
 
 **Topic ID**: 39668

@@ -1,3 +1,10 @@
+---
+topic_id: 3871
+title: "Xnat With Slicer"
+date: 2018-08-23
+url: https://discourse.slicer.org/t/3871
+---
+
 # XNAT with Slicer
 
 **Topic ID**: 3871

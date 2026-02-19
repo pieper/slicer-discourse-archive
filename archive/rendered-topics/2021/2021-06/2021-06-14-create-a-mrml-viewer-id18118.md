@@ -1,3 +1,10 @@
+---
+topic_id: 18118
+title: "Create A Mrml Viewer"
+date: 2021-06-14
+url: https://discourse.slicer.org/t/18118
+---
+
 # Create a MRML Viewer
 
 **Topic ID**: 18118

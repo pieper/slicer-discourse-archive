@@ -1,3 +1,10 @@
+---
+topic_id: 19020
+title: "Setspacing Is Not A Member Of Itk Vesseltubespatialobject 2"
+date: 2021-08-02
+url: https://discourse.slicer.org/t/19020
+---
+
 # ‘SetSpacing’: is not a member of ‘itk::VesselTubeSpatialObject<2>’
 
 **Topic ID**: 19020

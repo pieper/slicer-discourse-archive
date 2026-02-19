@@ -1,3 +1,10 @@
+---
+topic_id: 2114
+title: "Plus Mff What Is The Next Where I Should Post The Problem Gi"
+date: 2018-02-19
+url: https://discourse.slicer.org/t/2114
+---
+
 # PLUS/MFF What is the next? where I should post the problem? github/here forum?
 
 **Topic ID**: 2114

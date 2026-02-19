@@ -1,3 +1,10 @@
+---
+topic_id: 18312
+title: "Import Dicom After Format Change From Netcdf Using Pydicom"
+date: 2021-06-24
+url: https://discourse.slicer.org/t/18312
+---
+
 # Import DICOM after format change from NETCDF using pydicom
 
 **Topic ID**: 18312

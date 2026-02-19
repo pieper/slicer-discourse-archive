@@ -1,3 +1,10 @@
+---
+topic_id: 28806
+title: "How To Import Markup Control Points As Nodes"
+date: 2023-04-07
+url: https://discourse.slicer.org/t/28806
+---
+
 # How to import markup control points as nodes?
 
 **Topic ID**: 28806

@@ -1,3 +1,10 @@
+---
+topic_id: 29071
+title: "Plot Data With Markers And Without Line"
+date: 2023-04-23
+url: https://discourse.slicer.org/t/29071
+---
+
 # Plot data with Markers and without Line
 
 **Topic ID**: 29071

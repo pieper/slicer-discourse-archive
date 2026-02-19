@@ -1,3 +1,10 @@
+---
+topic_id: 36682
+title: "Dentalsegmentator Version Of 2024 04 22 Fails To Load Segmen"
+date: 2024-05-11
+url: https://discourse.slicer.org/t/36682
+---
+
 # DentalSegmentator version of 2024-04-22 fails to load segmentation result
 
 **Topic ID**: 36682

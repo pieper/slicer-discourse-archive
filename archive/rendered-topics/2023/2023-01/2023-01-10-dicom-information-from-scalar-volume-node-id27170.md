@@ -1,3 +1,10 @@
+---
+topic_id: 27170
+title: "Dicom Information From Scalar Volume Node"
+date: 2023-01-10
+url: https://discourse.slicer.org/t/27170
+---
+
 # DICOM Information from Scalar Volume Node
 
 **Topic ID**: 27170

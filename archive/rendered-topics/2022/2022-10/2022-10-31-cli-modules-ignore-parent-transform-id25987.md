@@ -1,3 +1,10 @@
+---
+topic_id: 25987
+title: "Cli Modules Ignore Parent Transform"
+date: 2022-10-31
+url: https://discourse.slicer.org/t/25987
+---
+
 # CLI modules ignore parent transform
 
 **Topic ID**: 25987

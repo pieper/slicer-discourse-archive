@@ -1,3 +1,10 @@
+---
+topic_id: 39586
+title: "Is It Possible To Create A Second 3D View Without Changing L"
+date: 2024-10-08
+url: https://discourse.slicer.org/t/39586
+---
+
 # Is it possible to create a second 3D view without changing layout?
 
 **Topic ID**: 39586

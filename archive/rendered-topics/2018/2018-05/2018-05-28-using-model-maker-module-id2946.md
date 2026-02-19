@@ -1,3 +1,10 @@
+---
+topic_id: 2946
+title: "Using Model Maker Module"
+date: 2018-05-28
+url: https://discourse.slicer.org/t/2946
+---
+
 # Using model maker module
 
 **Topic ID**: 2946

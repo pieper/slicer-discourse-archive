@@ -1,3 +1,10 @@
+---
+topic_id: 9383
+title: "Hdr Brachytherapy Plan Loading"
+date: 2019-12-04
+url: https://discourse.slicer.org/t/9383
+---
+
 # HDR brachytherapy plan loading
 
 **Topic ID**: 9383

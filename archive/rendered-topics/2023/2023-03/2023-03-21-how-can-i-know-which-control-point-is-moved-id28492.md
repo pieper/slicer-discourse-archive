@@ -1,3 +1,10 @@
+---
+topic_id: 28492
+title: "How Can I Know Which Control Point Is Moved"
+date: 2023-03-21
+url: https://discourse.slicer.org/t/28492
+---
+
 # How can I know which control point is moved?
 
 **Topic ID**: 28492

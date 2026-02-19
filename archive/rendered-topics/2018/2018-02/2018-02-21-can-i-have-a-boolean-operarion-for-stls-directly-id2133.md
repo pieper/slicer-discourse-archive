@@ -1,3 +1,10 @@
+---
+topic_id: 2133
+title: "Can I Have A Boolean Operarion For Stls Directly"
+date: 2018-02-21
+url: https://discourse.slicer.org/t/2133
+---
+
 # Can I have a boolean operarion for STLs directly?
 
 **Topic ID**: 2133

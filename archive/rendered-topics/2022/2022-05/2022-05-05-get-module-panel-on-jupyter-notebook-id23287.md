@@ -1,3 +1,10 @@
+---
+topic_id: 23287
+title: "Get Module Panel On Jupyter Notebook"
+date: 2022-05-05
+url: https://discourse.slicer.org/t/23287
+---
+
 # Get Module Panel on Jupyter Notebook
 
 **Topic ID**: 23287

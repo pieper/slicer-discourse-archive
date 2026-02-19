@@ -1,3 +1,10 @@
+---
+topic_id: 1721
+title: "Strategies To Link Slicer 3D With A Navigation System"
+date: 2017-12-26
+url: https://discourse.slicer.org/t/1721
+---
+
 # Strategies to link Slicer 3D with a navigation system
 
 **Topic ID**: 1721

@@ -1,3 +1,10 @@
+---
+topic_id: 27325
+title: "Get Path Node File Path Directory"
+date: 2023-01-18
+url: https://discourse.slicer.org/t/27325
+---
+
 # Get path node (file path directory)
 
 **Topic ID**: 27325

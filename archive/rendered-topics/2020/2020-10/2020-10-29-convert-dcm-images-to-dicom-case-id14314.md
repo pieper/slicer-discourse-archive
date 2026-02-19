@@ -1,3 +1,10 @@
+---
+topic_id: 14314
+title: "Convert Dcm Images To Dicom Case"
+date: 2020-10-29
+url: https://discourse.slicer.org/t/14314
+---
+
 # Convert .dcm images to DICOM case
 
 **Topic ID**: 14314

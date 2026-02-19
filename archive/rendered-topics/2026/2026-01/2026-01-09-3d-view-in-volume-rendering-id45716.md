@@ -1,3 +1,10 @@
+---
+topic_id: 45716
+title: "3D View In Volume Rendering"
+date: 2026-01-09
+url: https://discourse.slicer.org/t/45716
+---
+
 # 3d view in volume rendering
 
 **Topic ID**: 45716

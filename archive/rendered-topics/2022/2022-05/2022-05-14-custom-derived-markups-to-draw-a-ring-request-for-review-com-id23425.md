@@ -1,3 +1,10 @@
+---
+topic_id: 23425
+title: "Custom Derived Markups To Draw A Ring Request For Review Com"
+date: 2022-05-14
+url: https://discourse.slicer.org/t/23425
+---
+
 # Custom derived markups to draw a ring : request for review, comments
 
 **Topic ID**: 23425

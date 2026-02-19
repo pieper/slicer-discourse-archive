@@ -1,3 +1,10 @@
+---
+topic_id: 2577
+title: "Openigtlink Module Receiving Data From The Sensor"
+date: 2018-04-13
+url: https://discourse.slicer.org/t/2577
+---
+
 # OpenIGTLink module receiving data from the sensor
 
 **Topic ID**: 2577

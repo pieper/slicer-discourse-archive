@@ -1,3 +1,10 @@
+---
+topic_id: 9571
+title: "Low Fps For Transforming Surfaces"
+date: 2019-12-20
+url: https://discourse.slicer.org/t/9571
+---
+
 # Low FPS for transforming surfaces
 
 **Topic ID**: 9571

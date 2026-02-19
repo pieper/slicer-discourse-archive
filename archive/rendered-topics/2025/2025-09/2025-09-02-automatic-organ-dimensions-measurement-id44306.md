@@ -1,3 +1,10 @@
+---
+topic_id: 44306
+title: "Automatic Organ Dimensions Measurement"
+date: 2025-09-02
+url: https://discourse.slicer.org/t/44306
+---
+
 # Automatic organ dimensions measurement 
 
 **Topic ID**: 44306

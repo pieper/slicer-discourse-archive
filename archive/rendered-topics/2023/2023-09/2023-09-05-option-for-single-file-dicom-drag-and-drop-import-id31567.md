@@ -1,3 +1,10 @@
+---
+topic_id: 31567
+title: "Option For Single File Dicom Drag And Drop Import"
+date: 2023-09-05
+url: https://discourse.slicer.org/t/31567
+---
+
 # Option for Single-File DICOM Drag-and-Drop Import
 
 **Topic ID**: 31567

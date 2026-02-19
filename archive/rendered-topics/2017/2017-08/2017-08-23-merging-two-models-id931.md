@@ -1,3 +1,10 @@
+---
+topic_id: 931
+title: "Merging Two Models"
+date: 2017-08-23
+url: https://discourse.slicer.org/t/931
+---
+
 # Merging two models
 
 **Topic ID**: 931

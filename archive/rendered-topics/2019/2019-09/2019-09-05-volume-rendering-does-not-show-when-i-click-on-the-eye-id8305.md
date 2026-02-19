@@ -1,3 +1,10 @@
+---
+topic_id: 8305
+title: "Volume Rendering Does Not Show When I Click On The Eye"
+date: 2019-09-05
+url: https://discourse.slicer.org/t/8305
+---
+
 # Volume rendering does not show when I click on the eye
 
 **Topic ID**: 8305

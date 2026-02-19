@@ -1,3 +1,10 @@
+---
+topic_id: 32694
+title: "Create A New Coordinate System For An Mri Based On A Defined"
+date: 2023-11-09
+url: https://discourse.slicer.org/t/32694
+---
+
 # Create a new coordinate system for an MRI, based on a defined plane
 
 **Topic ID**: 32694

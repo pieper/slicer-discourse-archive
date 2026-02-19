@@ -1,3 +1,10 @@
+---
+topic_id: 8559
+title: "Texturizing Model"
+date: 2019-09-25
+url: https://discourse.slicer.org/t/8559
+---
+
 # Texturizing model
 
 **Topic ID**: 8559

@@ -1,3 +1,10 @@
+---
+topic_id: 14341
+title: "Creating Target Points On A 3D Model Of A Bone Then Exportin"
+date: 2020-10-30
+url: https://discourse.slicer.org/t/14341
+---
+
 # Creating target points on a 3D model of a bone then exporting these out as a python script?
 
 **Topic ID**: 14341

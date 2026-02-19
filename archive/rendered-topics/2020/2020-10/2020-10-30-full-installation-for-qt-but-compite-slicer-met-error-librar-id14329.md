@@ -1,3 +1,10 @@
+---
+topic_id: 14329
+title: "Full Installation For Qt But Compite Slicer Met Error Librar"
+date: 2020-10-30
+url: https://discourse.slicer.org/t/14329
+---
+
 # Full installation for Qt, but compite Slicer met error: "Library not found: Qt5Cored"
 
 **Topic ID**: 14329

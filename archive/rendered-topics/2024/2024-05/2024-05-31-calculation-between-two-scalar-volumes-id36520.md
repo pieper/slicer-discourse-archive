@@ -1,3 +1,10 @@
+---
+topic_id: 36520
+title: "Calculation Between Two Scalar Volumes"
+date: 2024-05-31
+url: https://discourse.slicer.org/t/36520
+---
+
 # Calculation between two scalar volumes
 
 **Topic ID**: 36520

@@ -1,3 +1,10 @@
+---
+topic_id: 16922
+title: "Is Centerline Extraction From Volume Rendering Possible"
+date: 2021-04-02
+url: https://discourse.slicer.org/t/16922
+---
+
 # Is centerline extraction from volume rendering possible?
 
 **Topic ID**: 16922

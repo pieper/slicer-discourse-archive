@@ -1,3 +1,10 @@
+---
+topic_id: 14560
+title: "Help To Publish New Extension"
+date: 2020-11-12
+url: https://discourse.slicer.org/t/14560
+---
+
 # Help to publish new extension
 
 **Topic ID**: 14560

@@ -1,3 +1,10 @@
+---
+topic_id: 36486
+title: "Segmentation Of Different Region Of Lattice Sphere Ct Scan"
+date: 2024-05-30
+url: https://discourse.slicer.org/t/36486
+---
+
 # Segmentation of different region of lattice sphere ct scan
 
 **Topic ID**: 36486

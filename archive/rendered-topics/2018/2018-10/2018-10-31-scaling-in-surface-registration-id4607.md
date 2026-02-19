@@ -1,3 +1,10 @@
+---
+topic_id: 4607
+title: "Scaling In Surface Registration"
+date: 2018-10-31
+url: https://discourse.slicer.org/t/4607
+---
+
 # Scaling in Surface Registration
 
 **Topic ID**: 4607

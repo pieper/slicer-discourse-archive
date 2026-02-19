@@ -1,3 +1,10 @@
+---
+topic_id: 25645
+title: "Possibility To Do Dti Analysis Fractional Anisotropy For Non"
+date: 2022-10-11
+url: https://discourse.slicer.org/t/25645
+---
+
 # Possibility to do DTI analysis (fractional anisotropy) for non brain parts?
 
 **Topic ID**: 25645

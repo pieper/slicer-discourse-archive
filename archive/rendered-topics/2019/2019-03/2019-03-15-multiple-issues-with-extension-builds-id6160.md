@@ -1,3 +1,10 @@
+---
+topic_id: 6160
+title: "Multiple Issues With Extension Builds"
+date: 2019-03-15
+url: https://discourse.slicer.org/t/6160
+---
+
 # Multiple issues with extension builds
 
 **Topic ID**: 6160

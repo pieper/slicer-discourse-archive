@@ -1,3 +1,10 @@
+---
+topic_id: 7224
+title: "General Registration Wont Recognize A Series"
+date: 2019-06-18
+url: https://discourse.slicer.org/t/7224
+---
+
 # General Registration won't recognize a series 
 
 **Topic ID**: 7224

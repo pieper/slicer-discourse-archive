@@ -1,3 +1,10 @@
+---
+topic_id: 10194
+title: "Creates Cylinder In Center Of A Segment For Volume Calculati"
+date: 2020-02-10
+url: https://discourse.slicer.org/t/10194
+---
+
 # Creates Cylinder in Center of a segment for volume calculation
 
 **Topic ID**: 10194

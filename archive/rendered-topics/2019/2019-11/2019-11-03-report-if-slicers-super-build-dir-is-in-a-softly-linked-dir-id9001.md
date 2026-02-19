@@ -1,3 +1,10 @@
+---
+topic_id: 9001
+title: "Report If Slicers Super Build Dir Is In A Softly Linked Dir"
+date: 2019-11-03
+url: https://discourse.slicer.org/t/9001
+---
+
 # Report: if Slicer's super build dir is in a softly linked dir
 
 **Topic ID**: 9001

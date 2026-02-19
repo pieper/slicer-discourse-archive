@@ -1,3 +1,10 @@
+---
+topic_id: 25322
+title: "How To Add Custom Plugin To The Cpack Package"
+date: 2022-09-19
+url: https://discourse.slicer.org/t/25322
+---
+
 # How to add custom plugin to the cpack package
 
 **Topic ID**: 25322

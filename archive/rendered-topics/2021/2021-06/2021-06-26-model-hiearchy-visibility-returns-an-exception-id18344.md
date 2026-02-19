@@ -1,3 +1,10 @@
+---
+topic_id: 18344
+title: "Model Hiearchy Visibility Returns An Exception"
+date: 2021-06-26
+url: https://discourse.slicer.org/t/18344
+---
+
 # Model hiearchy visibility returns an exception
 
 **Topic ID**: 18344

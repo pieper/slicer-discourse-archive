@@ -1,3 +1,10 @@
+---
+topic_id: 39632
+title: "Unable To Send Volume Via Openigtlink In Python Script"
+date: 2024-10-10
+url: https://discourse.slicer.org/t/39632
+---
+
 # Unable to Send Volume via OpenIGTLink in Python Script
 
 **Topic ID**: 39632

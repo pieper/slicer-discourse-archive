@@ -1,3 +1,10 @@
+---
+topic_id: 31618
+title: "Plotting Mri Intensity Histogram From A Segmentation"
+date: 2023-09-08
+url: https://discourse.slicer.org/t/31618
+---
+
 # Plotting MRI intensity histogram from a segmentation
 
 **Topic ID**: 31618

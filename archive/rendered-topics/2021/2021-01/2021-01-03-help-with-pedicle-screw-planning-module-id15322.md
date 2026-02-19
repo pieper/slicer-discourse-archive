@@ -1,3 +1,10 @@
+---
+topic_id: 15322
+title: "Help With Pedicle Screw Planning Module"
+date: 2021-01-03
+url: https://discourse.slicer.org/t/15322
+---
+
 # Help with pedicle screw planning module
 
 **Topic ID**: 15322

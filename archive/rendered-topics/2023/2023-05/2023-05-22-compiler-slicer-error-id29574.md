@@ -1,3 +1,10 @@
+---
+topic_id: 29574
+title: "Compiler Slicer Error"
+date: 2023-05-22
+url: https://discourse.slicer.org/t/29574
+---
+
 # compiler slicer error
 
 **Topic ID**: 29574

@@ -1,3 +1,10 @@
+---
+topic_id: 26698
+title: "Stable Diffusion 2 1 Trained On Medical Images"
+date: 2022-12-12
+url: https://discourse.slicer.org/t/26698
+---
+
 # Stable diffusion 2.1 trained on Medical images?
 
 **Topic ID**: 26698

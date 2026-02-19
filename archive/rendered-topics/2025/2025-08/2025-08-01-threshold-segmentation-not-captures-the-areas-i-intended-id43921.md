@@ -1,3 +1,10 @@
+---
+topic_id: 43921
+title: "Threshold Segmentation Not Captures The Areas I Intended"
+date: 2025-08-01
+url: https://discourse.slicer.org/t/43921
+---
+
 # Threshold segmentation not captures the areas I intended
 
 **Topic ID**: 43921

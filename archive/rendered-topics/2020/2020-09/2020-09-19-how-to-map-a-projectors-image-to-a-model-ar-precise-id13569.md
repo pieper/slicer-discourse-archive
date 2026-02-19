@@ -1,3 +1,10 @@
+---
+topic_id: 13569
+title: "How To Map A Projectors Image To A Model Ar Precise"
+date: 2020-09-19
+url: https://discourse.slicer.org/t/13569
+---
+
 # How to map a projector's image to a model(AR) precise?
 
 **Topic ID**: 13569

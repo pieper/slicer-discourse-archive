@@ -1,3 +1,10 @@
+---
+topic_id: 41648
+title: "Automatic Segmentation Of Vertebrae And Intervertebral Discs"
+date: 2025-02-12
+url: https://discourse.slicer.org/t/41648
+---
+
 # Automatic segmentation of vertebrae and Intervertebral Discs
 
 **Topic ID**: 41648

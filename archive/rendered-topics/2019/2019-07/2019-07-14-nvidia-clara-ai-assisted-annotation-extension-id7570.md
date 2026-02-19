@@ -1,3 +1,10 @@
+---
+topic_id: 7570
+title: "Nvidia Clara Ai Assisted Annotation Extension"
+date: 2019-07-14
+url: https://discourse.slicer.org/t/7570
+---
+
 # NVIDIA Clara AI-Assisted Annotation Extension
 
 **Topic ID**: 7570

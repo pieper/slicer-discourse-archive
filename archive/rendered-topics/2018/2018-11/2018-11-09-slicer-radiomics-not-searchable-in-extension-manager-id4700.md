@@ -1,3 +1,10 @@
+---
+topic_id: 4700
+title: "Slicer Radiomics Not Searchable In Extension Manager"
+date: 2018-11-09
+url: https://discourse.slicer.org/t/4700
+---
+
 # Slicer Radiomics not searchable in extension manager
 
 **Topic ID**: 4700

@@ -1,3 +1,10 @@
+---
+topic_id: 16908
+title: "How To Load Mri Dcm Files As Multiple Dimensions"
+date: 2021-04-01
+url: https://discourse.slicer.org/t/16908
+---
+
 # How to load MRI DCM files as multiple dimensions?
 
 **Topic ID**: 16908

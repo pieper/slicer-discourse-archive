@@ -1,3 +1,10 @@
+---
+topic_id: 42000
+title: "Adding Custom Module Into The 3D Slicer Customtemplate"
+date: 2025-03-07
+url: https://discourse.slicer.org/t/42000
+---
+
 # Adding custom module into the 3d slicer customtemplate
 
 **Topic ID**: 42000

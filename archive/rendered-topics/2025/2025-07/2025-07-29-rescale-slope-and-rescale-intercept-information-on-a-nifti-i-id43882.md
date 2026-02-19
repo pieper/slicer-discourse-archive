@@ -1,3 +1,10 @@
+---
+topic_id: 43882
+title: "Rescale Slope And Rescale Intercept Information On A Nifti I"
+date: 2025-07-29
+url: https://discourse.slicer.org/t/43882
+---
+
 # Rescale slope and rescale intercept information on a Nifti image
 
 **Topic ID**: 43882

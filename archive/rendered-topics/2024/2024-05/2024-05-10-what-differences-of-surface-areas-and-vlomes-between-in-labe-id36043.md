@@ -1,3 +1,10 @@
+---
+topic_id: 36043
+title: "What Differences Of Surface Areas And Vlomes Between In Labe"
+date: 2024-05-10
+url: https://discourse.slicer.org/t/36043
+---
+
 # what differences  of surface areas and vlomes  between  in label map statistics and in closed surface statistics ?
 
 **Topic ID**: 36043

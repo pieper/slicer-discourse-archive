@@ -1,3 +1,10 @@
+---
+topic_id: 30605
+title: "Averaging Rotations And Calculating The Variability"
+date: 2023-07-14
+url: https://discourse.slicer.org/t/30605
+---
+
 # Averaging rotations and calculating the variability
 
 **Topic ID**: 30605

@@ -1,3 +1,10 @@
+---
+topic_id: 5530
+title: "Segmentation Visible Only In 3D"
+date: 2019-01-27
+url: https://discourse.slicer.org/t/5530
+---
+
 # Segmentation visible only in 3D
 
 **Topic ID**: 5530

@@ -1,3 +1,10 @@
+---
+topic_id: 29896
+title: "Apply A Nonlinear Transform To Model Using Python Code"
+date: 2023-06-07
+url: https://discourse.slicer.org/t/29896
+---
+
 # Apply a nonlinear transform to model using Python code
 
 **Topic ID**: 29896

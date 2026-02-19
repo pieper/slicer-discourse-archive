@@ -1,3 +1,10 @@
+---
+topic_id: 33076
+title: "Can November 2023 Update Be Installed Without Overwriting My"
+date: 2023-11-28
+url: https://discourse.slicer.org/t/33076
+---
+
 # Can November 2023 update be installed without overwriting my previous 2019 Windows install?
 
 **Topic ID**: 33076

@@ -1,3 +1,10 @@
+---
+topic_id: 32152
+title: "Training Segmentation Model With Custom Labels In Monailabel"
+date: 2023-10-11
+url: https://discourse.slicer.org/t/32152
+---
+
 # Training Segmentation Model with Custom Labels in MonaILabel
 
 **Topic ID**: 32152

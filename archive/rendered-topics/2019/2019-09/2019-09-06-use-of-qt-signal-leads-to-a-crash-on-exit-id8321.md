@@ -1,3 +1,10 @@
+---
+topic_id: 8321
+title: "Use Of Qt Signal Leads To A Crash On Exit"
+date: 2019-09-06
+url: https://discourse.slicer.org/t/8321
+---
+
 # Use of qt.Signal leads to a crash on exit
 
 **Topic ID**: 8321

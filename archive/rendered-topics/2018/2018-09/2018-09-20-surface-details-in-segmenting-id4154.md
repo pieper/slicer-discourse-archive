@@ -1,3 +1,10 @@
+---
+topic_id: 4154
+title: "Surface Details In Segmenting"
+date: 2018-09-20
+url: https://discourse.slicer.org/t/4154
+---
+
 # Surface details in segmenting
 
 **Topic ID**: 4154

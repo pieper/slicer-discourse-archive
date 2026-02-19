@@ -1,3 +1,10 @@
+---
+topic_id: 27429
+title: "Register And Stl Model Into A Dental Cbct Scan"
+date: 2023-01-24
+url: https://discourse.slicer.org/t/27429
+---
+
 #  register and STL model into a dental Cbct scan ?
 
 **Topic ID**: 27429

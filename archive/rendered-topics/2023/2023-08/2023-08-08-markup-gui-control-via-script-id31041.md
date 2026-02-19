@@ -1,3 +1,10 @@
+---
+topic_id: 31041
+title: "Markup Gui Control Via Script"
+date: 2023-08-08
+url: https://discourse.slicer.org/t/31041
+---
+
 # Markup gui control via script
 
 **Topic ID**: 31041

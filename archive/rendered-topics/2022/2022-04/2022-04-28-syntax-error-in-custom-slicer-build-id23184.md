@@ -1,3 +1,10 @@
+---
+topic_id: 23184
+title: "Syntax Error In Custom Slicer Build"
+date: 2022-04-28
+url: https://discourse.slicer.org/t/23184
+---
+
 # Syntax error in custom slicer build
 
 **Topic ID**: 23184

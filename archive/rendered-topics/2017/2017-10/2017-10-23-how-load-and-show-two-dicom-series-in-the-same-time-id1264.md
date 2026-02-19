@@ -1,3 +1,10 @@
+---
+topic_id: 1264
+title: "How Load And Show Two Dicom Series In The Same Time"
+date: 2017-10-23
+url: https://discourse.slicer.org/t/1264
+---
+
 # How load and show two DICOM series in the same time
 
 **Topic ID**: 1264

@@ -1,3 +1,10 @@
+---
+topic_id: 27593
+title: "Fog In 3D Rendering"
+date: 2023-02-02
+url: https://discourse.slicer.org/t/27593
+---
+
 # Fog in 3D rendering
 
 **Topic ID**: 27593

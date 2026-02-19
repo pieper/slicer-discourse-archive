@@ -1,3 +1,10 @@
+---
+topic_id: 30364
+title: "Crop Volume Using Python"
+date: 2023-07-03
+url: https://discourse.slicer.org/t/30364
+---
+
 # Crop volume using python
 
 **Topic ID**: 30364

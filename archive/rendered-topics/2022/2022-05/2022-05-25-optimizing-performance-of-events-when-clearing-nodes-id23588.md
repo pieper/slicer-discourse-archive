@@ -1,3 +1,10 @@
+---
+topic_id: 23588
+title: "Optimizing Performance Of Events When Clearing Nodes"
+date: 2022-05-25
+url: https://discourse.slicer.org/t/23588
+---
+
 # Optimizing performance of events when clearing nodes
 
 **Topic ID**: 23588

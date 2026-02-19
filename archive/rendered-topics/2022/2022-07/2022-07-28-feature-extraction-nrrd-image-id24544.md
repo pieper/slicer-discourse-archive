@@ -1,3 +1,10 @@
+---
+topic_id: 24544
+title: "Feature Extraction Nrrd Image"
+date: 2022-07-28
+url: https://discourse.slicer.org/t/24544
+---
+
 # Feature Extraction NRRD image
 
 **Topic ID**: 24544

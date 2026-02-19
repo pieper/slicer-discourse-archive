@@ -1,3 +1,10 @@
+---
+topic_id: 34675
+title: "Markups Plane Placement Process Is Confusing"
+date: 2024-03-03
+url: https://discourse.slicer.org/t/34675
+---
+
 # Markups plane: placement process is confusing
 
 **Topic ID**: 34675

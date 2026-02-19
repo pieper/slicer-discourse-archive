@@ -1,3 +1,10 @@
+---
+topic_id: 43420
+title: "Build Error Custom Module Appears In App But Build Exits Wit"
+date: 2025-06-19
+url: https://discourse.slicer.org/t/43420
+---
+
 # Build Error: Custom Module Appears in App but Build Exits with Code 1 (Slicer.rule and .rule Files)
 
 **Topic ID**: 43420

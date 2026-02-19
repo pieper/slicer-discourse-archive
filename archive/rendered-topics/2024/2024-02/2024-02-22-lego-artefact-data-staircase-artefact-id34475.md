@@ -1,3 +1,10 @@
+---
+topic_id: 34475
+title: "Lego Artefact Data Staircase Artefact"
+date: 2024-02-22
+url: https://discourse.slicer.org/t/34475
+---
+
 # Lego artefact data/staircase artefact
 
 **Topic ID**: 34475

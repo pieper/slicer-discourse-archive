@@ -1,3 +1,10 @@
+---
+topic_id: 12957
+title: "Error Invalid Coordinatesystemflag Value"
+date: 2020-08-12
+url: https://discourse.slicer.org/t/12957
+---
+
 # Error: Invalid coordinateSystemFlag value
 
 **Topic ID**: 12957

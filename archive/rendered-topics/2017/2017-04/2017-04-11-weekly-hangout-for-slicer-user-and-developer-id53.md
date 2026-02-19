@@ -1,3 +1,10 @@
+---
+topic_id: 53
+title: "Weekly Hangout For Slicer User And Developer"
+date: 2017-04-11
+url: https://discourse.slicer.org/t/53
+---
+
 # Weekly Hangout for Slicer user and developer
 
 **Topic ID**: 53

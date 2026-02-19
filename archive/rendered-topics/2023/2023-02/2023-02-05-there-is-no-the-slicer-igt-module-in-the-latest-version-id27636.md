@@ -1,3 +1,10 @@
+---
+topic_id: 27636
+title: "There Is No The Slicer Igt Module In The Latest Version"
+date: 2023-02-05
+url: https://discourse.slicer.org/t/27636
+---
+
 # There is no the Slicer IGT module in the latest version
 
 **Topic ID**: 27636

@@ -1,3 +1,10 @@
+---
+topic_id: 34650
+title: "Free Vtk Courses"
+date: 2024-03-02
+url: https://discourse.slicer.org/t/34650
+---
+
 # Free VTK Courses?
 
 **Topic ID**: 34650

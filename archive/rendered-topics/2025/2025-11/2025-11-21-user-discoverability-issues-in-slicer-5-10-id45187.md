@@ -1,3 +1,10 @@
+---
+topic_id: 45187
+title: "User Discoverability Issues In Slicer 5 10"
+date: 2025-11-21
+url: https://discourse.slicer.org/t/45187
+---
+
 # User Discoverability Issues in Slicer 5.10
 
 **Topic ID**: 45187

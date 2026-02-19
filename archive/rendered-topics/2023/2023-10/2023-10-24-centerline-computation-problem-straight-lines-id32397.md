@@ -1,3 +1,10 @@
+---
+topic_id: 32397
+title: "Centerline Computation Problem Straight Lines"
+date: 2023-10-24
+url: https://discourse.slicer.org/t/32397
+---
+
 # Centerline computation problem - straight lines
 
 **Topic ID**: 32397

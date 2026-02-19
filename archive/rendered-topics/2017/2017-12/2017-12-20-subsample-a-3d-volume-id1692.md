@@ -1,3 +1,10 @@
+---
+topic_id: 1692
+title: "Subsample A 3D Volume"
+date: 2017-12-20
+url: https://discourse.slicer.org/t/1692
+---
+
 # Subsample a 3D volume
 
 **Topic ID**: 1692

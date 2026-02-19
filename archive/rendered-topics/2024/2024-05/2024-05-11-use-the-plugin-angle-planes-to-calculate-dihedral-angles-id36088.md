@@ -1,3 +1,10 @@
+---
+topic_id: 36088
+title: "Use The Plugin Angle Planes To Calculate Dihedral Angles"
+date: 2024-05-11
+url: https://discourse.slicer.org/t/36088
+---
+
 # Use the plugin Angle Planes to calculate dihedral angles
 
 **Topic ID**: 36088

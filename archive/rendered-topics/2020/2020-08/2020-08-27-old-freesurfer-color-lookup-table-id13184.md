@@ -1,3 +1,10 @@
+---
+topic_id: 13184
+title: "Old Freesurfer Color Lookup Table"
+date: 2020-08-27
+url: https://discourse.slicer.org/t/13184
+---
+
 # Old FreeSurfer color lookup table
 
 **Topic ID**: 13184

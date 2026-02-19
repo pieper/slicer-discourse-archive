@@ -1,3 +1,10 @@
+---
+topic_id: 12681
+title: "Nrrd Files Are Duplicated Every Time The Program Is Opened"
+date: 2020-07-22
+url: https://discourse.slicer.org/t/12681
+---
+
 # nrrd files are duplicated every time the program is opened 
 
 **Topic ID**: 12681

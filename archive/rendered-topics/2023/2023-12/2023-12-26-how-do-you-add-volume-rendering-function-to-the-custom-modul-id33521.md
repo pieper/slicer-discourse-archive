@@ -1,3 +1,10 @@
+---
+topic_id: 33521
+title: "How Do You Add Volume Rendering Function To The Custom Modul"
+date: 2023-12-26
+url: https://discourse.slicer.org/t/33521
+---
+
 # How do you add [Volume Rendering function] to the custom module panel?
 
 **Topic ID**: 33521

@@ -1,3 +1,10 @@
+---
+topic_id: 13399
+title: "Mri Ct Image Registration"
+date: 2020-09-09
+url: https://discourse.slicer.org/t/13399
+---
+
 # MRI_CT image registration
 
 **Topic ID**: 13399

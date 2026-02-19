@@ -1,3 +1,10 @@
+---
+topic_id: 7389
+title: "Pettumorsegmentationeffect"
+date: 2019-07-02
+url: https://discourse.slicer.org/t/7389
+---
+
 # PETTumorSegmentationEffect
 
 **Topic ID**: 7389

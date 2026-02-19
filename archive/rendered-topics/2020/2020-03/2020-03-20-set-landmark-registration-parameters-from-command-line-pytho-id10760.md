@@ -1,3 +1,10 @@
+---
+topic_id: 10760
+title: "Set Landmark Registration Parameters From Command Line Pytho"
+date: 2020-03-20
+url: https://discourse.slicer.org/t/10760
+---
+
 # Set landmark registration parameters from command line python
 
 **Topic ID**: 10760

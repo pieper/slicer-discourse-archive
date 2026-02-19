@@ -1,3 +1,10 @@
+---
+topic_id: 11706
+title: "Passing Hierarchies To Clis"
+date: 2020-05-26
+url: https://discourse.slicer.org/t/11706
+---
+
 # Passing hierarchies to CLIs
 
 **Topic ID**: 11706

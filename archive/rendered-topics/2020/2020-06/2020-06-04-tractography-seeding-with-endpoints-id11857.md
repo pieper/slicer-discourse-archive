@@ -1,3 +1,10 @@
+---
+topic_id: 11857
+title: "Tractography Seeding With Endpoints"
+date: 2020-06-04
+url: https://discourse.slicer.org/t/11857
+---
+
 # Tractography seeding with endpoints
 
 **Topic ID**: 11857

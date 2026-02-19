@@ -1,3 +1,10 @@
+---
+topic_id: 36576
+title: "Batch Editing Of 3Dangio Cbct Slice Thickness Dicom Tag"
+date: 2024-06-03
+url: https://discourse.slicer.org/t/36576
+---
+
 # Batch editing of 3DAngio CBCT slice thickness dicom tag
 
 **Topic ID**: 36576

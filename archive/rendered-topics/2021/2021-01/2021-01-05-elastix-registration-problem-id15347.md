@@ -1,3 +1,10 @@
+---
+topic_id: 15347
+title: "Elastix Registration Problem"
+date: 2021-01-05
+url: https://discourse.slicer.org/t/15347
+---
+
 # Elastix registration problem
 
 **Topic ID**: 15347

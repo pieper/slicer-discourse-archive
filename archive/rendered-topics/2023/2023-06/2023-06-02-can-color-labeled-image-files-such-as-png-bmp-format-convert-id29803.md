@@ -1,3 +1,10 @@
+---
+topic_id: 29803
+title: "Can Color Labeled Image Files Such As Png Bmp Format Convert"
+date: 2023-06-02
+url: https://discourse.slicer.org/t/29803
+---
+
 # Can color-labeled image files such as png, bmp format convert into volume by marked labeling?
 
 **Topic ID**: 29803

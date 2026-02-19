@@ -1,3 +1,10 @@
+---
+topic_id: 23966
+title: "Change Crosshair Color"
+date: 2022-06-20
+url: https://discourse.slicer.org/t/23966
+---
+
 # Change crosshair color?
 
 **Topic ID**: 23966

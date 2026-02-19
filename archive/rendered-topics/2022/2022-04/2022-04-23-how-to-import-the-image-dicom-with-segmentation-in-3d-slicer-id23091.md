@@ -1,3 +1,10 @@
+---
+topic_id: 23091
+title: "How To Import The Image Dicom With Segmentation In 3D Slicer"
+date: 2022-04-23
+url: https://discourse.slicer.org/t/23091
+---
+
 # How to import the image dicom with segmentation in 3d slicer
 
 **Topic ID**: 23091

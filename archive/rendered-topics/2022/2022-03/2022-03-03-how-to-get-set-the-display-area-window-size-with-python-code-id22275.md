@@ -1,3 +1,10 @@
+---
+topic_id: 22275
+title: "How To Get Set The Display Area Window Size With Python Code"
+date: 2022-03-03
+url: https://discourse.slicer.org/t/22275
+---
+
 # How to Get/Set the display area window size with python code?
 
 **Topic ID**: 22275

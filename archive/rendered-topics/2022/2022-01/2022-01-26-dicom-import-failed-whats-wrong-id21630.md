@@ -1,3 +1,10 @@
+---
+topic_id: 21630
+title: "Dicom Import Failed Whats Wrong"
+date: 2022-01-26
+url: https://discourse.slicer.org/t/21630
+---
+
 # Dicom import failed, what's wrong?
 
 **Topic ID**: 21630

@@ -1,3 +1,10 @@
+---
+topic_id: 27097
+title: "Mandible With Inferior Nerve And Teeth"
+date: 2023-01-07
+url: https://discourse.slicer.org/t/27097
+---
+
 # Mandible with inferior nerve and teeth
 
 **Topic ID**: 27097

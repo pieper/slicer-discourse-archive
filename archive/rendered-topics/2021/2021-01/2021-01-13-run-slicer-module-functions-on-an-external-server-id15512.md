@@ -1,3 +1,10 @@
+---
+topic_id: 15512
+title: "Run Slicer Module Functions On An External Server"
+date: 2021-01-13
+url: https://discourse.slicer.org/t/15512
+---
+
 # Run Slicer module functions on an external server
 
 **Topic ID**: 15512

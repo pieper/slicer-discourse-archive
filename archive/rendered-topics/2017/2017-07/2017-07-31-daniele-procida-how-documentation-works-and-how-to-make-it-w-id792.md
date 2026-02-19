@@ -1,3 +1,10 @@
+---
+topic_id: 792
+title: "Daniele Procida How Documentation Works And How To Make It W"
+date: 2017-07-31
+url: https://discourse.slicer.org/t/792
+---
+
 # Daniele Procida - How documentation works, and how to make it work for your project - PyCon 2017
 
 **Topic ID**: 792

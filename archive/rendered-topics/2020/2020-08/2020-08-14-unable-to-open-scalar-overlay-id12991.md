@@ -1,3 +1,10 @@
+---
+topic_id: 12991
+title: "Unable To Open Scalar Overlay"
+date: 2020-08-14
+url: https://discourse.slicer.org/t/12991
+---
+
 # Unable to open Scalar overlay
 
 **Topic ID**: 12991

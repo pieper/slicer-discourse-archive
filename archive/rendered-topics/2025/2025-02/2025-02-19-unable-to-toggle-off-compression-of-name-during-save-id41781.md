@@ -1,3 +1,10 @@
+---
+topic_id: 41781
+title: "Unable To Toggle Off Compression Of Name During Save"
+date: 2025-02-19
+url: https://discourse.slicer.org/t/41781
+---
+
 # Unable to toggle off compression of name during save
 
 **Topic ID**: 41781

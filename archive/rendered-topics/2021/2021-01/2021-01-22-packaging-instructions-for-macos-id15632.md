@@ -1,3 +1,10 @@
+---
+topic_id: 15632
+title: "Packaging Instructions For Macos"
+date: 2021-01-22
+url: https://discourse.slicer.org/t/15632
+---
+
 # Packaging instructions for macOS
 
 **Topic ID**: 15632

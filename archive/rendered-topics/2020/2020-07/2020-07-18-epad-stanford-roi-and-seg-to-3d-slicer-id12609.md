@@ -1,3 +1,10 @@
+---
+topic_id: 12609
+title: "Epad Stanford Roi And Seg To 3D Slicer"
+date: 2020-07-18
+url: https://discourse.slicer.org/t/12609
+---
+
 # EPAD Stanford ROI and SEG to 3D slicer
 
 **Topic ID**: 12609

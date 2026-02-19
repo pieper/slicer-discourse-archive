@@ -1,3 +1,10 @@
+---
+topic_id: 30915
+title: "Dynamic Modeler Plane Cut Type Affecting Number Of Points In"
+date: 2023-08-01
+url: https://discourse.slicer.org/t/30915
+---
+
 # Dynamic modeler plane cut type affecting number of points in output models
 
 **Topic ID**: 30915

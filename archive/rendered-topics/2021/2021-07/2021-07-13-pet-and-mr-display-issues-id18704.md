@@ -1,3 +1,10 @@
+---
+topic_id: 18704
+title: "Pet And Mr Display Issues"
+date: 2021-07-13
+url: https://discourse.slicer.org/t/18704
+---
+
 # PET and MR display issues
 
 **Topic ID**: 18704

@@ -1,3 +1,10 @@
+---
+topic_id: 30196
+title: "Any Way To Edit Before Converting To Segmentation Node"
+date: 2023-06-23
+url: https://discourse.slicer.org/t/30196
+---
+
 # Any way to edit before converting to segmentation node?
 
 **Topic ID**: 30196

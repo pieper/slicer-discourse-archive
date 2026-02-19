@@ -1,3 +1,10 @@
+---
+topic_id: 30411
+title: "Changing Model Color And Opacity In A Model With Multiple Vt"
+date: 2023-07-05
+url: https://discourse.slicer.org/t/30411
+---
+
 # Changing Model Color and Opacity in a Model with Multiple vtk Sources
 
 **Topic ID**: 30411

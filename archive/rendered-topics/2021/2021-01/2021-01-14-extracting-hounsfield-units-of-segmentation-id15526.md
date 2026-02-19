@@ -1,3 +1,10 @@
+---
+topic_id: 15526
+title: "Extracting Hounsfield Units Of Segmentation"
+date: 2021-01-14
+url: https://discourse.slicer.org/t/15526
+---
+
 # Extracting Hounsfield units of segmentation
 
 **Topic ID**: 15526

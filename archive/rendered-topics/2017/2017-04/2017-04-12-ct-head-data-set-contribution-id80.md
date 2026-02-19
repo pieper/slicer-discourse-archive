@@ -1,3 +1,10 @@
+---
+topic_id: 80
+title: "Ct Head Data Set Contribution"
+date: 2017-04-12
+url: https://discourse.slicer.org/t/80
+---
+
 # CT head data set contribution
 
 **Topic ID**: 80

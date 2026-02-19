@@ -1,3 +1,10 @@
+---
+topic_id: 4778
+title: "Extractskeleton Not Writing Output Points Or Producing Marku"
+date: 2018-11-16
+url: https://discourse.slicer.org/t/4778
+---
+
 # ExtractSkeleton not writing output points or producing markup fiducials (MacOS 10.12, Slicer 4.11-2018-11-14)
 
 **Topic ID**: 4778

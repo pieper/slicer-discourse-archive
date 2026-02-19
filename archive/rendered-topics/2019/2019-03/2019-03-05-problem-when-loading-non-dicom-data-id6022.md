@@ -1,3 +1,10 @@
+---
+topic_id: 6022
+title: "Problem When Loading Non Dicom Data"
+date: 2019-03-05
+url: https://discourse.slicer.org/t/6022
+---
+
 # Problem when loading non-dicom data
 
 **Topic ID**: 6022

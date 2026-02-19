@@ -1,3 +1,10 @@
+---
+topic_id: 17373
+title: "Call A Macro By Python Code"
+date: 2021-04-28
+url: https://discourse.slicer.org/t/17373
+---
+
 # Call a macro by python code
 
 **Topic ID**: 17373

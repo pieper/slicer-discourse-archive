@@ -1,3 +1,10 @@
+---
+topic_id: 25062
+title: "Enable Automatic Extension Update Check"
+date: 2022-09-02
+url: https://discourse.slicer.org/t/25062
+---
+
 # Enable automatic extension update check?
 
 **Topic ID**: 25062

@@ -1,3 +1,10 @@
+---
+topic_id: 40136
+title: "Slicer 5 4 Summary And Changelog"
+date: 2024-11-11
+url: https://discourse.slicer.org/t/40136
+---
+
 # Slicer 5.4: Summary and Changelog
 
 **Topic ID**: 40136

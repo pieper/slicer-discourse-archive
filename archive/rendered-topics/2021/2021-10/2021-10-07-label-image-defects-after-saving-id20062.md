@@ -1,3 +1,10 @@
+---
+topic_id: 20062
+title: "Label Image Defects After Saving"
+date: 2021-10-07
+url: https://discourse.slicer.org/t/20062
+---
+
 # Label image defects after saving
 
 **Topic ID**: 20062

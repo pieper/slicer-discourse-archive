@@ -1,3 +1,10 @@
+---
+topic_id: 5289
+title: "How To Label Segmented Organs"
+date: 2019-01-06
+url: https://discourse.slicer.org/t/5289
+---
+
 # How to label segmented organs?
 
 **Topic ID**: 5289

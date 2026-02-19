@@ -1,3 +1,10 @@
+---
+topic_id: 9483
+title: "3D Segment Interaction"
+date: 2019-12-12
+url: https://discourse.slicer.org/t/9483
+---
+
 # 3D Segment Interaction
 
 **Topic ID**: 9483

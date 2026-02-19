@@ -1,3 +1,10 @@
+---
+topic_id: 24093
+title: "Tractography Issue"
+date: 2022-06-29
+url: https://discourse.slicer.org/t/24093
+---
+
 # Tractography issue
 
 **Topic ID**: 24093

@@ -1,3 +1,10 @@
+---
+topic_id: 5802
+title: "Dti Image Visualization"
+date: 2019-02-16
+url: https://discourse.slicer.org/t/5802
+---
+
 # DTI image visualization
 
 **Topic ID**: 5802

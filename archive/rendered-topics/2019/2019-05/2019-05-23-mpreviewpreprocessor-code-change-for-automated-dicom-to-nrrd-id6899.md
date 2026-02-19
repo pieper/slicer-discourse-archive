@@ -1,3 +1,10 @@
+---
+topic_id: 6899
+title: "Mpreviewpreprocessor Code Change For Automated Dicom To Nrrd"
+date: 2019-05-23
+url: https://discourse.slicer.org/t/6899
+---
+
 # mpReviewPreprocessor code change for automated DICOM to NRRD conversion 
 
 **Topic ID**: 6899

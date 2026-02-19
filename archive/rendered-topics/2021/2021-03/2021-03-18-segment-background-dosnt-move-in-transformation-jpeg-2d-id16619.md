@@ -1,3 +1,10 @@
+---
+topic_id: 16619
+title: "Segment Background Dosnt Move In Transformation Jpeg 2D"
+date: 2021-03-18
+url: https://discourse.slicer.org/t/16619
+---
+
 # segment background dosn't move in transformation (JPEG - 2D) +++
 
 **Topic ID**: 16619

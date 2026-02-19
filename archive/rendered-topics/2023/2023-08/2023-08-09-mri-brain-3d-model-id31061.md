@@ -1,3 +1,10 @@
+---
+topic_id: 31061
+title: "Mri Brain 3D Model"
+date: 2023-08-09
+url: https://discourse.slicer.org/t/31061
+---
+
 # Mri brain 3d model
 
 **Topic ID**: 31061

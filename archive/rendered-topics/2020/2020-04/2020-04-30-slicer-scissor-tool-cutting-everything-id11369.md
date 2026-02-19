@@ -1,3 +1,10 @@
+---
+topic_id: 11369
+title: "Slicer Scissor Tool Cutting Everything"
+date: 2020-04-30
+url: https://discourse.slicer.org/t/11369
+---
+
 # Slicer Scissor Tool Cutting everything
 
 **Topic ID**: 11369

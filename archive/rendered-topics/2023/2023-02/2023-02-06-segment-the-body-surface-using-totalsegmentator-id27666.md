@@ -1,3 +1,10 @@
+---
+topic_id: 27666
+title: "Segment The Body Surface Using Totalsegmentator"
+date: 2023-02-06
+url: https://discourse.slicer.org/t/27666
+---
+
 # Segment the body surface using TotalSegmentator
 
 **Topic ID**: 27666

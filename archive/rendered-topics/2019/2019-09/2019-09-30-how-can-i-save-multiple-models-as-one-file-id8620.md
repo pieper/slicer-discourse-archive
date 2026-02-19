@@ -1,3 +1,10 @@
+---
+topic_id: 8620
+title: "How Can I Save Multiple Models As One File"
+date: 2019-09-30
+url: https://discourse.slicer.org/t/8620
+---
+
 # How can i save multiple models as one file?
 
 **Topic ID**: 8620

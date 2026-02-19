@@ -1,3 +1,10 @@
+---
+topic_id: 26632
+title: "Shortcuts And Keys Already Assigned Somewhere Else"
+date: 2022-12-07
+url: https://discourse.slicer.org/t/26632
+---
+
 # Shortcuts and keys already assigned somewhere else?
 
 **Topic ID**: 26632

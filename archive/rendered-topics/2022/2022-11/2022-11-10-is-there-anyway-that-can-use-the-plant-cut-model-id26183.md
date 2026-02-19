@@ -1,3 +1,10 @@
+---
+topic_id: 26183
+title: "Is There Anyway That Can Use The Plant Cut Model"
+date: 2022-11-10
+url: https://discourse.slicer.org/t/26183
+---
+
 # Is there anyway that can use the plant cut model?
 
 **Topic ID**: 26183

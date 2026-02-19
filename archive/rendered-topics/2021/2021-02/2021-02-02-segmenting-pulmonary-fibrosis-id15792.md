@@ -1,3 +1,10 @@
+---
+topic_id: 15792
+title: "Segmenting Pulmonary Fibrosis"
+date: 2021-02-02
+url: https://discourse.slicer.org/t/15792
+---
+
 # Segmenting pulmonary fibrosis
 
 **Topic ID**: 15792

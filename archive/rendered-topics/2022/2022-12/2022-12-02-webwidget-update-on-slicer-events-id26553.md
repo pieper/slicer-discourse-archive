@@ -1,3 +1,10 @@
+---
+topic_id: 26553
+title: "Webwidget Update On Slicer Events"
+date: 2022-12-02
+url: https://discourse.slicer.org/t/26553
+---
+
 # Webwidget Update on Slicer Events
 
 **Topic ID**: 26553

@@ -1,3 +1,10 @@
+---
+topic_id: 17514
+title: "Help I Need To Label Each Part Of The Circle Of Willis"
+date: 2021-05-08
+url: https://discourse.slicer.org/t/17514
+---
+
 # Help! I need to label each part of the Circle of Willis
 
 **Topic ID**: 17514

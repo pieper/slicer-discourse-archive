@@ -1,3 +1,10 @@
+---
+topic_id: 17395
+title: "How Run Vmtk Script"
+date: 2021-04-30
+url: https://discourse.slicer.org/t/17395
+---
+
 # How run VMTK script?
 
 **Topic ID**: 17395

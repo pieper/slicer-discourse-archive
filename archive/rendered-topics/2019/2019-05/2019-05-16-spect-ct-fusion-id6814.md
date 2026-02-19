@@ -1,3 +1,10 @@
+---
+topic_id: 6814
+title: "Spect Ct Fusion"
+date: 2019-05-16
+url: https://discourse.slicer.org/t/6814
+---
+
 # spect ct fusion
 
 **Topic ID**: 6814

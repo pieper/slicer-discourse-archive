@@ -1,3 +1,10 @@
+---
+topic_id: 35922
+title: "Registration Problem Brain T2Wi To T1Wi"
+date: 2024-05-05
+url: https://discourse.slicer.org/t/35922
+---
+
 # Registration Problem: Brain T2WI to T1WI
 
 **Topic ID**: 35922

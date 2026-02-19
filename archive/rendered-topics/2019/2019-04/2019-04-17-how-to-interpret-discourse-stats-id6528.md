@@ -1,3 +1,10 @@
+---
+topic_id: 6528
+title: "How To Interpret Discourse Stats"
+date: 2019-04-17
+url: https://discourse.slicer.org/t/6528
+---
+
 # How to interpret discourse stats
 
 **Topic ID**: 6528

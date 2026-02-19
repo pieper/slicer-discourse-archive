@@ -1,3 +1,10 @@
+---
+topic_id: 1019
+title: "How To Export The Volume Rendering Into Models"
+date: 2017-09-08
+url: https://discourse.slicer.org/t/1019
+---
+
 # How to export the Volume Rendering into models?
 
 **Topic ID**: 1019

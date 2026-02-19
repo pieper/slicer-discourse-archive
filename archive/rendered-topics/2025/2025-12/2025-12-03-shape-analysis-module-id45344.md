@@ -1,3 +1,10 @@
+---
+topic_id: 45344
+title: "Shape Analysis Module"
+date: 2025-12-03
+url: https://discourse.slicer.org/t/45344
+---
+
 # Shape analysis module
 
 **Topic ID**: 45344

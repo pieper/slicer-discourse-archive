@@ -1,3 +1,10 @@
+---
+topic_id: 10446
+title: "Model Files Are Now Saved In Lps Coordinate System"
+date: 2020-02-26
+url: https://discourse.slicer.org/t/10446
+---
+
 # Model files are now saved in LPS coordinate system
 
 **Topic ID**: 10446

@@ -1,3 +1,10 @@
+---
+topic_id: 782
+title: "2D Views In Slicer Extremely Slow On Windows"
+date: 2017-07-28
+url: https://discourse.slicer.org/t/782
+---
+
 # 2D Views in Slicer extremely slow on Windows
 
 **Topic ID**: 782

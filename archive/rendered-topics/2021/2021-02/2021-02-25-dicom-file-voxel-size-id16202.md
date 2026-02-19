@@ -1,3 +1,10 @@
+---
+topic_id: 16202
+title: "Dicom File Voxel Size"
+date: 2021-02-25
+url: https://discourse.slicer.org/t/16202
+---
+
 # DICOM file, voxel size
 
 **Topic ID**: 16202

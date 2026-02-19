@@ -1,3 +1,10 @@
+---
+topic_id: 37708
+title: "Py File Has No Effect After Translation"
+date: 2024-08-05
+url: https://discourse.slicer.org/t/37708
+---
+
 # Py file has no effect after translation
 
 **Topic ID**: 37708

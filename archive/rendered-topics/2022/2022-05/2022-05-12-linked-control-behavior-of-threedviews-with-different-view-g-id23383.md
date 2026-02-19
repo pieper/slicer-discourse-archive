@@ -1,3 +1,10 @@
+---
+topic_id: 23383
+title: "Linked Control Behavior Of Threedviews With Different View G"
+date: 2022-05-12
+url: https://discourse.slicer.org/t/23383
+---
+
 # Linked control behavior of ThreeDViews with different view groups: linked control ignores view group setup?
 
 **Topic ID**: 23383

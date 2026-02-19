@@ -1,3 +1,10 @@
+---
+topic_id: 6546
+title: "Gpu Based Volume Rendering Fails If One Dimension Is More Th"
+date: 2019-04-19
+url: https://discourse.slicer.org/t/6546
+---
+
 # GPU based volume rendering fails if one dimension is more than 2000px
 
 **Topic ID**: 6546

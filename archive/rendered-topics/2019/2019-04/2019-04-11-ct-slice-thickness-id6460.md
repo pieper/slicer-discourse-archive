@@ -1,3 +1,10 @@
+---
+topic_id: 6460
+title: "Ct Slice Thickness"
+date: 2019-04-11
+url: https://discourse.slicer.org/t/6460
+---
+
 # CT Slice Thickness
 
 **Topic ID**: 6460

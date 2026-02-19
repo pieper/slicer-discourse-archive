@@ -1,3 +1,10 @@
+---
+topic_id: 20746
+title: "Some Modules Are Not Available For 3D Slicer 4 11"
+date: 2021-11-23
+url: https://discourse.slicer.org/t/20746
+---
+
 # Some modules are not available for 3D Slicer 4.11
 
 **Topic ID**: 20746

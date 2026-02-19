@@ -1,3 +1,10 @@
+---
+topic_id: 154
+title: "Why Is Nightly Build Looking For Local Config"
+date: 2017-04-20
+url: https://discourse.slicer.org/t/154
+---
+
 # Why is nightly build looking for local config?
 
 **Topic ID**: 154

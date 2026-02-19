@@ -1,3 +1,10 @@
+---
+topic_id: 15464
+title: "Dicom Image Info"
+date: 2021-01-12
+url: https://discourse.slicer.org/t/15464
+---
+
 # DICOM image info
 
 **Topic ID**: 15464

@@ -1,3 +1,10 @@
+---
+topic_id: 3253
+title: "Creating A 3D Model From Mri Files"
+date: 2018-06-21
+url: https://discourse.slicer.org/t/3253
+---
+
 # Creating a 3d model from MRI files
 
 **Topic ID**: 3253

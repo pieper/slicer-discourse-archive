@@ -1,3 +1,10 @@
+---
+topic_id: 20104
+title: "Loading Nifti Images Into Slicer In Real Time"
+date: 2021-10-11
+url: https://discourse.slicer.org/t/20104
+---
+
 # Loading nifti images into slicer in real time
 
 **Topic ID**: 20104

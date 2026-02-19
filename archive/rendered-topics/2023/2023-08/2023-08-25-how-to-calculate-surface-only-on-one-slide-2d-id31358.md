@@ -1,3 +1,10 @@
+---
+topic_id: 31358
+title: "How To Calculate Surface Only On One Slide 2D"
+date: 2023-08-25
+url: https://discourse.slicer.org/t/31358
+---
+
 # How to calculate surface only on one slide (2D) ?
 
 **Topic ID**: 31358

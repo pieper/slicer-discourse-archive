@@ -1,3 +1,10 @@
+---
+topic_id: 16113
+title: "Geometry Extraction"
+date: 2021-02-21
+url: https://discourse.slicer.org/t/16113
+---
+
 # Geometry extraction
 
 **Topic ID**: 16113

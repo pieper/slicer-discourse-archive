@@ -1,3 +1,10 @@
+---
+topic_id: 37306
+title: "Access To Error Metric During Vmtk Level Set Evolution In Py"
+date: 2024-07-10
+url: https://discourse.slicer.org/t/37306
+---
+
 # Access to Error Metric during VMTK Level Set Evolution in Python
 
 **Topic ID**: 37306

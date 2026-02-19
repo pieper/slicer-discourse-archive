@@ -1,3 +1,10 @@
+---
+topic_id: 28917
+title: "Dti Help For Calculating Diffusion Tensor Parameters"
+date: 2023-04-14
+url: https://discourse.slicer.org/t/28917
+---
+
 # DTI:Help for calculating diffusion tensor parameters
 
 **Topic ID**: 28917

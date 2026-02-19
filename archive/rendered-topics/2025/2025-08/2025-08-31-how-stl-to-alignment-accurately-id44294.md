@@ -1,3 +1,10 @@
+---
+topic_id: 44294
+title: "How Stl To Alignment Accurately"
+date: 2025-08-31
+url: https://discourse.slicer.org/t/44294
+---
+
 # How stl. to alignment accurately?
 
 **Topic ID**: 44294

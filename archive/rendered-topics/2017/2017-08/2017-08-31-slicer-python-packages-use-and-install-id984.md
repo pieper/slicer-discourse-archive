@@ -1,3 +1,10 @@
+---
+topic_id: 984
+title: "Slicer Python Packages Use And Install"
+date: 2017-08-31
+url: https://discourse.slicer.org/t/984
+---
+
 # Slicer-Python Packages Use and Install
 
 **Topic ID**: 984

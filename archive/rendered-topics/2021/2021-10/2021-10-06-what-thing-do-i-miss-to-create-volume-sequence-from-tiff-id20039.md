@@ -1,3 +1,10 @@
+---
+topic_id: 20039
+title: "What Thing Do I Miss To Create Volume Sequence From Tiff"
+date: 2021-10-06
+url: https://discourse.slicer.org/t/20039
+---
+
 # what thing do I miss to create volume sequence from tiff
 
 **Topic ID**: 20039

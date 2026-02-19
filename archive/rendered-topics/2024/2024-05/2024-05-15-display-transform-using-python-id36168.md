@@ -1,3 +1,10 @@
+---
+topic_id: 36168
+title: "Display Transform Using Python"
+date: 2024-05-15
+url: https://discourse.slicer.org/t/36168
+---
+
 # Display transform using Python
 
 **Topic ID**: 36168

@@ -1,3 +1,10 @@
+---
+topic_id: 18547
+title: "Ultra Sound 4D Image Into Stl File"
+date: 2021-07-06
+url: https://discourse.slicer.org/t/18547
+---
+
 # ultra sound 4d image into stl file 
 
 **Topic ID**: 18547

@@ -1,3 +1,10 @@
+---
+topic_id: 14805
+title: "Downloading Slicer On Mac"
+date: 2020-11-29
+url: https://discourse.slicer.org/t/14805
+---
+
 # Downloading Slicer on Mac
 
 **Topic ID**: 14805

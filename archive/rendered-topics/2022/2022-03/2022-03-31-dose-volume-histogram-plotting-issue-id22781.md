@@ -1,3 +1,10 @@
+---
+topic_id: 22781
+title: "Dose Volume Histogram Plotting Issue"
+date: 2022-03-31
+url: https://discourse.slicer.org/t/22781
+---
+
 # Dose Volume Histogram Plotting issue
 
 **Topic ID**: 22781

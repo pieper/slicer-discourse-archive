@@ -1,3 +1,10 @@
+---
+topic_id: 21458
+title: "Include Built In Widget Into My Own Python Extension"
+date: 2022-01-14
+url: https://discourse.slicer.org/t/21458
+---
+
 # Include built-in widget into my own Python extension
 
 **Topic ID**: 21458

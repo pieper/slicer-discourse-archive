@@ -1,3 +1,10 @@
+---
+topic_id: 24197
+title: "Import File Dicom In Python Pyradiomics"
+date: 2022-07-06
+url: https://discourse.slicer.org/t/24197
+---
+
 # Import file dicom in Python Pyradiomics
 
 **Topic ID**: 24197

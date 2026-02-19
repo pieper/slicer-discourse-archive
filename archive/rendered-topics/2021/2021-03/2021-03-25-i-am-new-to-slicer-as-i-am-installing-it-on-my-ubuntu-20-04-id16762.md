@@ -1,3 +1,10 @@
+---
+topic_id: 16762
+title: "I Am New To Slicer As I Am Installing It On My Ubuntu 20 04"
+date: 2021-03-25
+url: https://discourse.slicer.org/t/16762
+---
+
 # I am new to slicer,as I am installing it on my ubuntu 20.04 system after installation it crashes immediately and shows error as follows:
 
 **Topic ID**: 16762

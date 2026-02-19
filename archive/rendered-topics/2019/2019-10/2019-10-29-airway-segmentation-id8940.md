@@ -1,3 +1,10 @@
+---
+topic_id: 8940
+title: "Airway Segmentation"
+date: 2019-10-29
+url: https://discourse.slicer.org/t/8940
+---
+
 # Airway segmentation
 
 **Topic ID**: 8940

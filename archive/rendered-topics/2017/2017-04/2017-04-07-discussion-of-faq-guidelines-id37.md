@@ -1,3 +1,10 @@
+---
+topic_id: 37
+title: "Discussion Of Faq Guidelines"
+date: 2017-04-07
+url: https://discourse.slicer.org/t/37
+---
+
 # Discussion of FAQ/Guidelines
 
 **Topic ID**: 37

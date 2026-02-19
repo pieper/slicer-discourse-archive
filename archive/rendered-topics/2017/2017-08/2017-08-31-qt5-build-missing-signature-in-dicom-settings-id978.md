@@ -1,3 +1,10 @@
+---
+topic_id: 978
+title: "Qt5 Build Missing Signature In Dicom Settings"
+date: 2017-08-31
+url: https://discourse.slicer.org/t/978
+---
+
 # Qt5 build missing signature in DICOM settings
 
 **Topic ID**: 978

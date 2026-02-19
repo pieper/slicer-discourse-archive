@@ -1,3 +1,10 @@
+---
+topic_id: 40218
+title: "Automatically Erase A Part Of A Segmentation"
+date: 2024-11-15
+url: https://discourse.slicer.org/t/40218
+---
+
 # Automatically erase a part of a segmentation
 
 **Topic ID**: 40218

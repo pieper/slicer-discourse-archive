@@ -1,3 +1,10 @@
+---
+topic_id: 19269
+title: "4D Straightened Volume Rendering"
+date: 2021-08-19
+url: https://discourse.slicer.org/t/19269
+---
+
 # 4D straightened volume rendering
 
 **Topic ID**: 19269

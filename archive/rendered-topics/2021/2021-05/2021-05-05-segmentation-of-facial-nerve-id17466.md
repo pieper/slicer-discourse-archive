@@ -1,3 +1,10 @@
+---
+topic_id: 17466
+title: "Segmentation Of Facial Nerve"
+date: 2021-05-05
+url: https://discourse.slicer.org/t/17466
+---
+
 # Segmentation of facial nerve
 
 **Topic ID**: 17466

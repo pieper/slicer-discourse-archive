@@ -1,3 +1,10 @@
+---
+topic_id: 25454
+title: "Rvesselx Dont Show Current Node Placement Help Option"
+date: 2022-09-27
+url: https://discourse.slicer.org/t/25454
+---
+
 # RVesselX don't show current node placement help option
 
 **Topic ID**: 25454

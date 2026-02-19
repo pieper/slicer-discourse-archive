@@ -1,3 +1,10 @@
+---
+topic_id: 4758
+title: "Diffusion Reader"
+date: 2018-11-14
+url: https://discourse.slicer.org/t/4758
+---
+
 # diffusion reader
 
 **Topic ID**: 4758

@@ -1,3 +1,10 @@
+---
+topic_id: 32804
+title: "Apply Transforms In Only 1 Segment"
+date: 2023-11-14
+url: https://discourse.slicer.org/t/32804
+---
+
 # Apply Transforms in only 1 segment
 
 **Topic ID**: 32804

@@ -1,3 +1,10 @@
+---
+topic_id: 411
+title: "Prepare Labelmap For Parenchyma Analysis"
+date: 2017-06-01
+url: https://discourse.slicer.org/t/411
+---
+
 # Prepare labelmap for parenchyma analysis
 
 **Topic ID**: 411

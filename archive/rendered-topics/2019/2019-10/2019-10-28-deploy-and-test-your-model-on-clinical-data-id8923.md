@@ -1,3 +1,10 @@
+---
+topic_id: 8923
+title: "Deploy And Test Your Model On Clinical Data"
+date: 2019-10-28
+url: https://discourse.slicer.org/t/8923
+---
+
 # Deploy and test your model on clinical data
 
 **Topic ID**: 8923

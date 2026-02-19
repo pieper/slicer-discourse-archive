@@ -1,3 +1,10 @@
+---
+topic_id: 34729
+title: "Bone Thickness Heatmap Along A Perpendicular Vectors"
+date: 2024-03-05
+url: https://discourse.slicer.org/t/34729
+---
+
 # Bone thickness heatmap along a perpendicular vectors
 
 **Topic ID**: 34729

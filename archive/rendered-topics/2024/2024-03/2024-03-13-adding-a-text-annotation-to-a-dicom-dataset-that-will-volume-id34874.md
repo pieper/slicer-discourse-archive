@@ -1,3 +1,10 @@
+---
+topic_id: 34874
+title: "Adding A Text Annotation To A Dicom Dataset That Will Volume"
+date: 2024-03-13
+url: https://discourse.slicer.org/t/34874
+---
+
 # Adding a text annotation to a DICOM dataset that will volume-render…
 
 **Topic ID**: 34874

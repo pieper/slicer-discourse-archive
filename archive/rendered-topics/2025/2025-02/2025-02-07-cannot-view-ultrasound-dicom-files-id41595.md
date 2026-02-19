@@ -1,3 +1,10 @@
+---
+topic_id: 41595
+title: "Cannot View Ultrasound Dicom Files"
+date: 2025-02-07
+url: https://discourse.slicer.org/t/41595
+---
+
 # Cannot view ultrasound DICOM files
 
 **Topic ID**: 41595

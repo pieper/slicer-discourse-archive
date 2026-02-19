@@ -1,3 +1,10 @@
+---
+topic_id: 19943
+title: "Displaying 3D Volumes On Tv"
+date: 2021-10-01
+url: https://discourse.slicer.org/t/19943
+---
+
 # Displaying 3D volumes on TV
 
 **Topic ID**: 19943

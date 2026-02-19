@@ -1,3 +1,10 @@
+---
+topic_id: 40178
+title: "Scale Factor On Images Taken From A Scene Not Working"
+date: 2024-11-13
+url: https://discourse.slicer.org/t/40178
+---
+
 # Scale factor on images taken from a scene not working
 
 **Topic ID**: 40178

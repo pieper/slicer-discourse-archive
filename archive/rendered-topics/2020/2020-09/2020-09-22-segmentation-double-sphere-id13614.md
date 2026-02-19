@@ -1,3 +1,10 @@
+---
+topic_id: 13614
+title: "Segmentation Double Sphere"
+date: 2020-09-22
+url: https://discourse.slicer.org/t/13614
+---
+
 # Segmentation double sphere
 
 **Topic ID**: 13614

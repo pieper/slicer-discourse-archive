@@ -1,3 +1,10 @@
+---
+topic_id: 4946
+title: "Sharing Virtual Reality View With Users"
+date: 2018-12-04
+url: https://discourse.slicer.org/t/4946
+---
+
 # Sharing virtual reality view with users
 
 **Topic ID**: 4946

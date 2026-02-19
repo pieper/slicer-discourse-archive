@@ -1,3 +1,10 @@
+---
+topic_id: 28488
+title: "Alpaca Not Working"
+date: 2023-03-21
+url: https://discourse.slicer.org/t/28488
+---
+
 # ALPACA not working
 
 **Topic ID**: 28488

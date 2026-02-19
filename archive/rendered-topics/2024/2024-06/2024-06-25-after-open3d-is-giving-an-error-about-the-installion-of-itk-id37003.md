@@ -1,3 +1,10 @@
+---
+topic_id: 37003
+title: "After Open3D Is Giving An Error About The Installion Of Itk"
+date: 2024-06-25
+url: https://discourse.slicer.org/t/37003
+---
+
 # After open3d is giving an error about the installion of itk
 
 **Topic ID**: 37003

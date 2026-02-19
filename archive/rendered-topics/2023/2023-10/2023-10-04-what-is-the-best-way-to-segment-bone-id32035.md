@@ -1,3 +1,10 @@
+---
+topic_id: 32035
+title: "What Is The Best Way To Segment Bone"
+date: 2023-10-04
+url: https://discourse.slicer.org/t/32035
+---
+
 # What is the best way to segment bone?
 
 **Topic ID**: 32035

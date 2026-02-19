@@ -1,3 +1,10 @@
+---
+topic_id: 4286
+title: "Mouse Brain Mri Data From Bruker Scanner"
+date: 2018-10-04
+url: https://discourse.slicer.org/t/4286
+---
+
 # Mouse brain MRI data from Bruker scanner
 
 **Topic ID**: 4286

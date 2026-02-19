@@ -1,3 +1,10 @@
+---
+topic_id: 9693
+title: "Rotation In Dicom Data"
+date: 2020-01-02
+url: https://discourse.slicer.org/t/9693
+---
+
 # Rotation in DICOM data
 
 **Topic ID**: 9693

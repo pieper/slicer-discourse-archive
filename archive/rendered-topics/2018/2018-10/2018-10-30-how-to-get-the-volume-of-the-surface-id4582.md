@@ -1,3 +1,10 @@
+---
+topic_id: 4582
+title: "How To Get The Volume Of The Surface"
+date: 2018-10-30
+url: https://discourse.slicer.org/t/4582
+---
+
 # How to get the volume of the surface
 
 **Topic ID**: 4582

@@ -1,3 +1,10 @@
+---
+topic_id: 28160
+title: "3D Render Resolution Comparison"
+date: 2023-03-03
+url: https://discourse.slicer.org/t/28160
+---
+
 # 3D render resolution comparison
 
 **Topic ID**: 28160

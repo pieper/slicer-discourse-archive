@@ -1,3 +1,10 @@
+---
+topic_id: 10238
+title: "Class Syntax Change For Segmentation Slicer 4 10 4 11"
+date: 2020-02-13
+url: https://discourse.slicer.org/t/10238
+---
+
 # Class/syntax change for segmentation (slicer 4.10- 4.11)
 
 **Topic ID**: 10238

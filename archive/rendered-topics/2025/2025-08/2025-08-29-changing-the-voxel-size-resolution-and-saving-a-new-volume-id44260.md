@@ -1,3 +1,10 @@
+---
+topic_id: 44260
+title: "Changing The Voxel Size Resolution And Saving A New Volume"
+date: 2025-08-29
+url: https://discourse.slicer.org/t/44260
+---
+
 # Changing the voxel size (resolution) and saving a new volume.
 
 **Topic ID**: 44260

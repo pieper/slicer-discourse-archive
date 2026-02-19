@@ -1,3 +1,10 @@
+---
+topic_id: 13504
+title: "Run Freesurfer Command From Slicer Extension"
+date: 2020-09-16
+url: https://discourse.slicer.org/t/13504
+---
+
 # Run Freesurfer command from Slicer extension
 
 **Topic ID**: 13504

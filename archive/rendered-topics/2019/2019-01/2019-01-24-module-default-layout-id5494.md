@@ -1,3 +1,10 @@
+---
+topic_id: 5494
+title: "Module Default Layout"
+date: 2019-01-24
+url: https://discourse.slicer.org/t/5494
+---
+
 # Module default layout
 
 **Topic ID**: 5494

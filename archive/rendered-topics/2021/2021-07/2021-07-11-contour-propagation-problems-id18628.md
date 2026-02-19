@@ -1,3 +1,10 @@
+---
+topic_id: 18628
+title: "Contour Propagation Problems"
+date: 2021-07-11
+url: https://discourse.slicer.org/t/18628
+---
+
 # Contour propagation problems
 
 **Topic ID**: 18628

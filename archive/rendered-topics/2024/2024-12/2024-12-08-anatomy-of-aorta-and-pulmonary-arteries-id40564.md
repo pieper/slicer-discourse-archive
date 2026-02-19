@@ -1,3 +1,10 @@
+---
+topic_id: 40564
+title: "Anatomy Of Aorta And Pulmonary Arteries"
+date: 2024-12-08
+url: https://discourse.slicer.org/t/40564
+---
+
 # Anatomy of Aorta and Pulmonary arteries
 
 **Topic ID**: 40564

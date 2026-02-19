@@ -1,3 +1,10 @@
+---
+topic_id: 13372
+title: "Using Mip Method In The Segmentation Extraction Vascular Sys"
+date: 2020-09-07
+url: https://discourse.slicer.org/t/13372
+---
+
 # Using MIP method in the segmentation/extraction vascular system
 
 **Topic ID**: 13372

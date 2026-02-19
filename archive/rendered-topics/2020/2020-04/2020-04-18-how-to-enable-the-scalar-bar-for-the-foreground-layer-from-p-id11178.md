@@ -1,3 +1,10 @@
+---
+topic_id: 11178
+title: "How To Enable The Scalar Bar For The Foreground Layer From P"
+date: 2020-04-18
+url: https://discourse.slicer.org/t/11178
+---
+
 # How to enable the scalar bar for the foreground layer from Python terminal?
 
 **Topic ID**: 11178

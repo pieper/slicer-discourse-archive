@@ -1,3 +1,10 @@
+---
+topic_id: 20412
+title: "How To Distinguish Between Translation Scaling And Reduction"
+date: 2021-10-29
+url: https://discourse.slicer.org/t/20412
+---
+
 # How to distinguish between translation, scaling and reduction by DIR
 
 **Topic ID**: 20412

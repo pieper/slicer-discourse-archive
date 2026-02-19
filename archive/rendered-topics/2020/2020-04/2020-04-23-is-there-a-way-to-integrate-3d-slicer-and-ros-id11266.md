@@ -1,3 +1,10 @@
+---
+topic_id: 11266
+title: "Is There A Way To Integrate 3D Slicer And Ros"
+date: 2020-04-23
+url: https://discourse.slicer.org/t/11266
+---
+
 # Is there a way to integrate 3D slicer and ROS?
 
 **Topic ID**: 11266

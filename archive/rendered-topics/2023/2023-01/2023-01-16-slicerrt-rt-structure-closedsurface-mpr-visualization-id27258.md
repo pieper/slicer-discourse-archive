@@ -1,3 +1,10 @@
+---
+topic_id: 27258
+title: "Slicerrt Rt Structure Closedsurface Mpr Visualization"
+date: 2023-01-16
+url: https://discourse.slicer.org/t/27258
+---
+
 # SlicerRt RT Structure ClosedSurface MPR visualization
 
 **Topic ID**: 27258

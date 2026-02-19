@@ -1,3 +1,10 @@
+---
+topic_id: 7439
+title: "How To Install A Extension From File"
+date: 2019-07-05
+url: https://discourse.slicer.org/t/7439
+---
+
 # How to install a extension from file?
 
 **Topic ID**: 7439

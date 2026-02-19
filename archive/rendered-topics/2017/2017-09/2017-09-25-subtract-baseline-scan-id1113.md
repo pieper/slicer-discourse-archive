@@ -1,3 +1,10 @@
+---
+topic_id: 1113
+title: "Subtract Baseline Scan"
+date: 2017-09-25
+url: https://discourse.slicer.org/t/1113
+---
+
 # Subtract baseline scan
 
 **Topic ID**: 1113

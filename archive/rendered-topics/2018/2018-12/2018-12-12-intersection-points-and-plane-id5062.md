@@ -1,3 +1,10 @@
+---
+topic_id: 5062
+title: "Intersection Points And Plane"
+date: 2018-12-12
+url: https://discourse.slicer.org/t/5062
+---
+
 # Intersection points and plane
 
 **Topic ID**: 5062

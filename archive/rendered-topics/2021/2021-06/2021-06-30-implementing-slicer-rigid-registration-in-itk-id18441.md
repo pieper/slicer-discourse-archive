@@ -1,3 +1,10 @@
+---
+topic_id: 18441
+title: "Implementing Slicer Rigid Registration In Itk"
+date: 2021-06-30
+url: https://discourse.slicer.org/t/18441
+---
+
 # Implementing Slicer rigid registration in ITK
 
 **Topic ID**: 18441

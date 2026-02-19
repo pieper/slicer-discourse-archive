@@ -1,3 +1,10 @@
+---
+topic_id: 21001
+title: "Slicer Starts Up With A Blank Screen Then Slicerapp Real Exe"
+date: 2021-12-10
+url: https://discourse.slicer.org/t/21001
+---
+
 # Slicer starts up with a blank screen then "Slicerapp-real.exe not responding" error
 
 **Topic ID**: 21001

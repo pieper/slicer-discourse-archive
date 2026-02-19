@@ -1,3 +1,10 @@
+---
+topic_id: 31820
+title: "The Software Has A Brief White Screen When Recovering From M"
+date: 2023-09-21
+url: https://discourse.slicer.org/t/31820
+---
+
 # The software has a brief white screen when recovering from minimization
 
 **Topic ID**: 31820

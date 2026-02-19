@@ -1,3 +1,10 @@
+---
+topic_id: 27428
+title: "Error In Uploading Dicom Files"
+date: 2023-01-24
+url: https://discourse.slicer.org/t/27428
+---
+
 # Error in uploading DICOM Files 
 
 **Topic ID**: 27428

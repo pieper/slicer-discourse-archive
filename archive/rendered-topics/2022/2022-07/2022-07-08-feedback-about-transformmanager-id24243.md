@@ -1,3 +1,10 @@
+---
+topic_id: 24243
+title: "Feedback About Transformmanager"
+date: 2022-07-08
+url: https://discourse.slicer.org/t/24243
+---
+
 # Feedback about TransformManager
 
 **Topic ID**: 24243

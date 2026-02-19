@@ -1,3 +1,10 @@
+---
+topic_id: 45349
+title: "Please Advise Slicer Wiped Older Dicoms Segmentations When E"
+date: 2025-12-03
+url: https://discourse.slicer.org/t/45349
+---
+
 # Please advise - Slicer wiped older dicoms/segmentations when editing other files 
 
 **Topic ID**: 45349

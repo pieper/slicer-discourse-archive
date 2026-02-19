@@ -1,3 +1,10 @@
+---
+topic_id: 18740
+title: "Hiring A Web Developer"
+date: 2021-07-14
+url: https://discourse.slicer.org/t/18740
+---
+
 # Hiring a web developer
 
 **Topic ID**: 18740

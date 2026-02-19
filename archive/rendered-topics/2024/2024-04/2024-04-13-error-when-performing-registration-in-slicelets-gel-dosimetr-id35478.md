@@ -1,3 +1,10 @@
+---
+topic_id: 35478
+title: "Error When Performing Registration In Slicelets Gel Dosimetr"
+date: 2024-04-13
+url: https://discourse.slicer.org/t/35478
+---
+
 # Error when Performing Registration in Slicelets > Gel Dosimetry Analysis
 
 **Topic ID**: 35478

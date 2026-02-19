@@ -1,3 +1,10 @@
+---
+topic_id: 9456
+title: "How To Implement Cpr Curved Planar Reconstruction From Cente"
+date: 2019-12-10
+url: https://discourse.slicer.org/t/9456
+---
+
 # How to implement CPR (curved planar reconstruction) from centerline?
 
 **Topic ID**: 9456

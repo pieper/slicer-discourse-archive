@@ -1,3 +1,10 @@
+---
+topic_id: 26395
+title: "Covid Lung Radiomics Feature Extraction"
+date: 2022-11-23
+url: https://discourse.slicer.org/t/26395
+---
+
 # Covid lung radiomics feature extraction
 
 **Topic ID**: 26395

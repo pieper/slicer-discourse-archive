@@ -1,3 +1,10 @@
+---
+topic_id: 4948
+title: "3Dslicer For Measuring Pectoralis Area On Axial Ct Slice"
+date: 2018-12-04
+url: https://discourse.slicer.org/t/4948
+---
+
 # 3DSlicer for measuring pectoralis area on axial CT slice
 
 **Topic ID**: 4948

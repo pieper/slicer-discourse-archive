@@ -1,3 +1,10 @@
+---
+topic_id: 34112
+title: "High Resolution 3D Model From Ct Scans From Multiple Planes"
+date: 2024-02-02
+url: https://discourse.slicer.org/t/34112
+---
+
 # High resolution 3D model from CT scans from multiple planes?
 
 **Topic ID**: 34112

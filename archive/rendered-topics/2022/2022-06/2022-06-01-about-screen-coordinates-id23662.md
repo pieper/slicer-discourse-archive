@@ -1,3 +1,10 @@
+---
+topic_id: 23662
+title: "About Screen Coordinates"
+date: 2022-06-01
+url: https://discourse.slicer.org/t/23662
+---
+
 # About screen coordinates
 
 **Topic ID**: 23662

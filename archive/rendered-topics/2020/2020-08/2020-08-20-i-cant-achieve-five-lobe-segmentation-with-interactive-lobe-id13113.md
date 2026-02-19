@@ -1,3 +1,10 @@
+---
+topic_id: 13113
+title: "I Cant Achieve Five Lobe Segmentation With Interactive Lobe"
+date: 2020-08-20
+url: https://discourse.slicer.org/t/13113
+---
+
 # I can't achieve five lobe segmentation with interactive lobe segmentation in CIP, can someone help me?
 
 **Topic ID**: 13113

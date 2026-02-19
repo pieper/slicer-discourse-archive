@@ -1,3 +1,10 @@
+---
+topic_id: 25000
+title: "How To Replace Markups With Np Array In Application Markupst"
+date: 2022-08-30
+url: https://discourse.slicer.org/t/25000
+---
+
 # How to replace markups with np.array in application MarkupsToModel
 
 **Topic ID**: 25000

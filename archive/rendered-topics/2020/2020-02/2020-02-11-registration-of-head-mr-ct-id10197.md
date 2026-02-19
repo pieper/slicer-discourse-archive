@@ -1,3 +1,10 @@
+---
+topic_id: 10197
+title: "Registration Of Head Mr Ct"
+date: 2020-02-11
+url: https://discourse.slicer.org/t/10197
+---
+
 # Registration of Head MR/CT
 
 **Topic ID**: 10197

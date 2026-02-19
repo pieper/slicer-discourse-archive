@@ -1,3 +1,10 @@
+---
+topic_id: 11542
+title: "How Do You Get The Slice View Your Cursor Is Over"
+date: 2020-05-14
+url: https://discourse.slicer.org/t/11542
+---
+
 # How do you get the slice view your cursor is over?
 
 **Topic ID**: 11542

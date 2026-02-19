@@ -1,3 +1,10 @@
+---
+topic_id: 22623
+title: "Howto Maximize The Roi In 2D Slices Simultaneously"
+date: 2022-03-21
+url: https://discourse.slicer.org/t/22623
+---
+
 # Howto maximize the ROI in 2d slices simultaneously?
 
 **Topic ID**: 22623

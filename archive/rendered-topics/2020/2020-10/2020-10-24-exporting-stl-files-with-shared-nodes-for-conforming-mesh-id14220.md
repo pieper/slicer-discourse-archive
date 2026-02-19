@@ -1,3 +1,10 @@
+---
+topic_id: 14220
+title: "Exporting Stl Files With Shared Nodes For Conforming Mesh"
+date: 2020-10-24
+url: https://discourse.slicer.org/t/14220
+---
+
 # Exporting STL files with shared nodes for conforming mesh
 
 **Topic ID**: 14220

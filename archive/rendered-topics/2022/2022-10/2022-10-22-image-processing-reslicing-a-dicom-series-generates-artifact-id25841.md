@@ -1,3 +1,10 @@
+---
+topic_id: 25841
+title: "Image Processing Reslicing A Dicom Series Generates Artifact"
+date: 2022-10-22
+url: https://discourse.slicer.org/t/25841
+---
+
 # Image Processing: reslicing a DICOM series generates artifacts
 
 **Topic ID**: 25841

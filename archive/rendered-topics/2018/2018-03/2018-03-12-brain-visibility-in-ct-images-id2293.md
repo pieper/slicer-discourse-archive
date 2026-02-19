@@ -1,3 +1,10 @@
+---
+topic_id: 2293
+title: "Brain Visibility In Ct Images"
+date: 2018-03-12
+url: https://discourse.slicer.org/t/2293
+---
+
 # Brain visibility in CT images
 
 **Topic ID**: 2293

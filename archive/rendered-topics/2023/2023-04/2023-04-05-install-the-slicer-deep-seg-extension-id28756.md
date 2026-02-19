@@ -1,3 +1,10 @@
+---
+topic_id: 28756
+title: "Install The Slicer Deep Seg Extension"
+date: 2023-04-05
+url: https://discourse.slicer.org/t/28756
+---
+
 # Install the Slicer-deep seg extension
 
 **Topic ID**: 28756

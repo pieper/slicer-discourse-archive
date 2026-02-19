@@ -1,3 +1,10 @@
+---
+topic_id: 31403
+title: "Installation Of Extensions From Files Not Working"
+date: 2023-08-28
+url: https://discourse.slicer.org/t/31403
+---
+
 # Installation of extensions from files not working
 
 **Topic ID**: 31403

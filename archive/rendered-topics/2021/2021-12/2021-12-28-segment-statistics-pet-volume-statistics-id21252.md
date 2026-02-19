@@ -1,3 +1,10 @@
+---
+topic_id: 21252
+title: "Segment Statistics Pet Volume Statistics"
+date: 2021-12-28
+url: https://discourse.slicer.org/t/21252
+---
+
 # Segment statistics-PET volume statistics
 
 **Topic ID**: 21252

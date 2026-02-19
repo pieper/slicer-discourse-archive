@@ -1,3 +1,10 @@
+---
+topic_id: 33070
+title: "Label Color Changed After Saving"
+date: 2023-11-27
+url: https://discourse.slicer.org/t/33070
+---
+
 # Label Color Changed after saving
 
 **Topic ID**: 33070

@@ -1,3 +1,10 @@
+---
+topic_id: 32332
+title: "How To Import Ascii File Into 3Dslicer"
+date: 2023-10-20
+url: https://discourse.slicer.org/t/32332
+---
+
 # How to import ASCII file into 3DSlicer?
 
 **Topic ID**: 32332

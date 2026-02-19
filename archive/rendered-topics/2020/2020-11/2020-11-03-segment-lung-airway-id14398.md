@@ -1,3 +1,10 @@
+---
+topic_id: 14398
+title: "Segment Lung Airway"
+date: 2020-11-03
+url: https://discourse.slicer.org/t/14398
+---
+
 # Segment lung airway
 
 **Topic ID**: 14398

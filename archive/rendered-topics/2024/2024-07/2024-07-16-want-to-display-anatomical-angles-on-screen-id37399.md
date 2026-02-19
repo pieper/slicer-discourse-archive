@@ -1,3 +1,10 @@
+---
+topic_id: 37399
+title: "Want To Display Anatomical Angles On Screen"
+date: 2024-07-16
+url: https://discourse.slicer.org/t/37399
+---
+
 # Want to display anatomical angles on screen
 
 **Topic ID**: 37399

@@ -1,3 +1,10 @@
+---
+topic_id: 32877
+title: "Need Help For A Script Of Saving Screenshot For Many Times"
+date: 2023-11-17
+url: https://discourse.slicer.org/t/32877
+---
+
 # Need help for a script of saving screenshot for many times
 
 **Topic ID**: 32877

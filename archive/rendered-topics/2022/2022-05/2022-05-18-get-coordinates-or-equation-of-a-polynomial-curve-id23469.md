@@ -1,3 +1,10 @@
+---
+topic_id: 23469
+title: "Get Coordinates Or Equation Of A Polynomial Curve"
+date: 2022-05-18
+url: https://discourse.slicer.org/t/23469
+---
+
 # Get coordinates or equation of a polynomial curve
 
 **Topic ID**: 23469

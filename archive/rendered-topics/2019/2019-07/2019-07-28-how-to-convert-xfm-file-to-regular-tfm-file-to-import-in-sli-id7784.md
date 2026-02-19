@@ -1,3 +1,10 @@
+---
+topic_id: 7784
+title: "How To Convert Xfm File To Regular Tfm File To Import In Sli"
+date: 2019-07-28
+url: https://discourse.slicer.org/t/7784
+---
+
 # How to convert .xfm file to regular .tfm file to import in Slicer
 
 **Topic ID**: 7784

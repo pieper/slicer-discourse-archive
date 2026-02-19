@@ -1,3 +1,10 @@
+---
+topic_id: 8243
+title: "Is There A Way To Do Conversion Between Vtkcollection And Vt"
+date: 2019-08-30
+url: https://discourse.slicer.org/t/8243
+---
+
 # Is there a way to do conversion between vtkCollection and vtkMRMLNode?
 
 **Topic ID**: 8243

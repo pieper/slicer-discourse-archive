@@ -1,3 +1,10 @@
+---
+topic_id: 45088
+title: "2025 11 18 Weekly Meeting After Project Week Meeting"
+date: 2025-11-14
+url: https://discourse.slicer.org/t/45088
+---
+
 # 2025.11.18 Weekly Meeting - After Project Week Meeting
 
 **Topic ID**: 45088

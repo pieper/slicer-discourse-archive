@@ -1,3 +1,10 @@
+---
+topic_id: 28529
+title: "Code Style In Python Modules"
+date: 2023-03-22
+url: https://discourse.slicer.org/t/28529
+---
+
 # Code style in Python modules?
 
 **Topic ID**: 28529

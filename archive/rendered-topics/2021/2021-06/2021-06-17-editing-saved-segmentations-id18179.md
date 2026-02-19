@@ -1,3 +1,10 @@
+---
+topic_id: 18179
+title: "Editing Saved Segmentations"
+date: 2021-06-17
+url: https://discourse.slicer.org/t/18179
+---
+
 # Editing saved segmentations
 
 **Topic ID**: 18179

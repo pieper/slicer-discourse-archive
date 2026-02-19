@@ -1,3 +1,10 @@
+---
+topic_id: 19368
+title: "How To Use The New Version Of Tensorflow Optimized For Apple"
+date: 2021-08-26
+url: https://discourse.slicer.org/t/19368
+---
+
 # How to use the new version of TensorFlow optimized for Apple Silicon M1 on Slicer
 
 **Topic ID**: 19368

@@ -1,3 +1,10 @@
+---
+topic_id: 13118
+title: "Use Open Curve Markup As Input Node In Markups To Model Exte"
+date: 2020-08-21
+url: https://discourse.slicer.org/t/13118
+---
+
 # Use Open Curve Markup as input node in "Markups To Model" extension
 
 **Topic ID**: 13118

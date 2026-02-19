@@ -1,3 +1,10 @@
+---
+topic_id: 29845
+title: "Slicerrt Access From Other Module"
+date: 2023-06-05
+url: https://discourse.slicer.org/t/29845
+---
+
 # SlicerRT access from other module
 
 **Topic ID**: 29845

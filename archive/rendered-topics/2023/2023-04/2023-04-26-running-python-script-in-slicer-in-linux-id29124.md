@@ -1,3 +1,10 @@
+---
+topic_id: 29124
+title: "Running Python Script In Slicer In Linux"
+date: 2023-04-26
+url: https://discourse.slicer.org/t/29124
+---
+
 # Running python script in slicer in linux
 
 **Topic ID**: 29124

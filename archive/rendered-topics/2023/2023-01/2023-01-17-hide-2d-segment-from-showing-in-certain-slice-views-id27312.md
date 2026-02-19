@@ -1,3 +1,10 @@
+---
+topic_id: 27312
+title: "Hide 2D Segment From Showing In Certain Slice Views"
+date: 2023-01-17
+url: https://discourse.slicer.org/t/27312
+---
+
 # Hide 2D Segment from Showing in Certain Slice Views
 
 **Topic ID**: 27312

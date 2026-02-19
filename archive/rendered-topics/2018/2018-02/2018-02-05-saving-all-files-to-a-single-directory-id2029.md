@@ -1,3 +1,10 @@
+---
+topic_id: 2029
+title: "Saving All Files To A Single Directory"
+date: 2018-02-05
+url: https://discourse.slicer.org/t/2029
+---
+
 # Saving all files to a single directory
 
 **Topic ID**: 2029

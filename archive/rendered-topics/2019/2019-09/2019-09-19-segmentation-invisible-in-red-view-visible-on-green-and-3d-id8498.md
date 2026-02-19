@@ -1,3 +1,10 @@
+---
+topic_id: 8498
+title: "Segmentation Invisible In Red View Visible On Green And 3D"
+date: 2019-09-19
+url: https://discourse.slicer.org/t/8498
+---
+
 # Segmentation invisible in red view, visible on green and 3d
 
 **Topic ID**: 8498

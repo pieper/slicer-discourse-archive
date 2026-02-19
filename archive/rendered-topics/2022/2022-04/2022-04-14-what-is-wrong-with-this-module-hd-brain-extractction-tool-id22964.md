@@ -1,3 +1,10 @@
+---
+topic_id: 22964
+title: "What Is Wrong With This Module Hd Brain Extractction Tool"
+date: 2022-04-14
+url: https://discourse.slicer.org/t/22964
+---
+
 # What is wrong with this module HD Brain Extractction Tool
 
 **Topic ID**: 22964

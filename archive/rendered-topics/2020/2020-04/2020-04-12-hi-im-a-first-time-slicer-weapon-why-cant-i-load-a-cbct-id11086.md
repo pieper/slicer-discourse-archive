@@ -1,3 +1,10 @@
+---
+topic_id: 11086
+title: "Hi Im A First Time Slicer Weapon Why Cant I Load A Cbct"
+date: 2020-04-12
+url: https://discourse.slicer.org/t/11086
+---
+
 # Hi, I'm a first-time slicer weapon. Why can't I load a CBCT?
 
 **Topic ID**: 11086

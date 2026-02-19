@@ -1,3 +1,10 @@
+---
+topic_id: 11862
+title: "Event When Volume Loading"
+date: 2020-06-04
+url: https://discourse.slicer.org/t/11862
+---
+
 # Event when volume loading
 
 **Topic ID**: 11862

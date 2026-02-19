@@ -1,3 +1,10 @@
+---
+topic_id: 576
+title: "Use A List Of Models In A Cli"
+date: 2017-06-26
+url: https://discourse.slicer.org/t/576
+---
+
 # Use a list of models in a CLI
 
 **Topic ID**: 576

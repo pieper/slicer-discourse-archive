@@ -1,3 +1,10 @@
+---
+topic_id: 12459
+title: "Looping Over Segmentation Algorithm Targets Wrong Segment"
+date: 2020-07-09
+url: https://discourse.slicer.org/t/12459
+---
+
 # Looping Over Segmentation Algorithm Targets Wrong Segment
 
 **Topic ID**: 12459

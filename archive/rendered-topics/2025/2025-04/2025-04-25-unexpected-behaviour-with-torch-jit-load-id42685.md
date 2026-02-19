@@ -1,3 +1,10 @@
+---
+topic_id: 42685
+title: "Unexpected Behaviour With Torch Jit Load"
+date: 2025-04-25
+url: https://discourse.slicer.org/t/42685
+---
+
 # Unexpected behaviour with torch.jit.load
 
 **Topic ID**: 42685

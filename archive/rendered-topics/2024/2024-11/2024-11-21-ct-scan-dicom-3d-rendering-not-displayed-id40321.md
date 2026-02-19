@@ -1,3 +1,10 @@
+---
+topic_id: 40321
+title: "Ct Scan Dicom 3D Rendering Not Displayed"
+date: 2024-11-21
+url: https://discourse.slicer.org/t/40321
+---
+
 # CT scan Dicom 3D rendering not displayed
 
 **Topic ID**: 40321

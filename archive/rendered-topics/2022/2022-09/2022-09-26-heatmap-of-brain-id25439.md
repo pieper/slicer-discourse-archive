@@ -1,3 +1,10 @@
+---
+topic_id: 25439
+title: "Heatmap Of Brain"
+date: 2022-09-26
+url: https://discourse.slicer.org/t/25439
+---
+
 # Heatmap of Brain
 
 **Topic ID**: 25439

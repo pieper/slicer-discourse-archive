@@ -1,3 +1,10 @@
+---
+topic_id: 11540
+title: "Cannot Execute Binary File"
+date: 2020-05-14
+url: https://discourse.slicer.org/t/11540
+---
+
 # Cannot execute binary file
 
 **Topic ID**: 11540

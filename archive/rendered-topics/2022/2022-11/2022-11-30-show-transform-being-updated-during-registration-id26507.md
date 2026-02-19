@@ -1,3 +1,10 @@
+---
+topic_id: 26507
+title: "Show Transform Being Updated During Registration"
+date: 2022-11-30
+url: https://discourse.slicer.org/t/26507
+---
+
 # Show transform being updated during registration
 
 **Topic ID**: 26507

@@ -1,3 +1,10 @@
+---
+topic_id: 15647
+title: "Signed Vs Pointtopointvector For Model2Model Distance Output"
+date: 2021-01-25
+url: https://discourse.slicer.org/t/15647
+---
+
 # Signed vs. PointToPointVector for (model2model) distance output
 
 **Topic ID**: 15647

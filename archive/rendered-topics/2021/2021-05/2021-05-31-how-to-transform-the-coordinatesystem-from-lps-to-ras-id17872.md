@@ -1,3 +1,10 @@
+---
+topic_id: 17872
+title: "How To Transform The Coordinatesystem From Lps To Ras"
+date: 2021-05-31
+url: https://discourse.slicer.org/t/17872
+---
+
 # How to transform the CoordinateSystem from LPS to RAS
 
 **Topic ID**: 17872

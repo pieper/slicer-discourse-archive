@@ -1,3 +1,10 @@
+---
+topic_id: 24743
+title: "How To Generate 4D Cine Mri"
+date: 2022-08-13
+url: https://discourse.slicer.org/t/24743
+---
+
 # How to generate 4D cine MRI?
 
 **Topic ID**: 24743

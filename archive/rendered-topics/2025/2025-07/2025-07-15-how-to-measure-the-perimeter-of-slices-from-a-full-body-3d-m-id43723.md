@@ -1,3 +1,10 @@
+---
+topic_id: 43723
+title: "How To Measure The Perimeter Of Slices From A Full Body 3D M"
+date: 2025-07-15
+url: https://discourse.slicer.org/t/43723
+---
+
 # How to Measure the Perimeter of Slices from a Full-Body 3D Model
 
 **Topic ID**: 43723

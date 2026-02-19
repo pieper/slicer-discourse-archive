@@ -1,3 +1,10 @@
+---
+topic_id: 8831
+title: "Headless Dicom Loadseriesbyuid Fails"
+date: 2019-10-18
+url: https://discourse.slicer.org/t/8831
+---
+
 # Headless DICOM, loadSeriesByUID fails
 
 **Topic ID**: 8831

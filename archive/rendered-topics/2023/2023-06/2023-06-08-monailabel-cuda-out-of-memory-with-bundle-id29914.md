@@ -1,3 +1,10 @@
+---
+topic_id: 29914
+title: "Monailabel Cuda Out Of Memory With Bundle"
+date: 2023-06-08
+url: https://discourse.slicer.org/t/29914
+---
+
 # MonaiLabel CUDA out of memory with Bundle
 
 **Topic ID**: 29914

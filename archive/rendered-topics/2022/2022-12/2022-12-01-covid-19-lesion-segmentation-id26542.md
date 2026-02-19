@@ -1,3 +1,10 @@
+---
+topic_id: 26542
+title: "Covid 19 Lesion Segmentation"
+date: 2022-12-01
+url: https://discourse.slicer.org/t/26542
+---
+
 # Covid-19 lesion segmentation
 
 **Topic ID**: 26542

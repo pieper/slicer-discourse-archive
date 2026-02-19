@@ -1,3 +1,10 @@
+---
+topic_id: 7303
+title: "Segment Statistics"
+date: 2019-06-25
+url: https://discourse.slicer.org/t/7303
+---
+
 # Segment statistics
 
 **Topic ID**: 7303

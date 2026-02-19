@@ -1,3 +1,10 @@
+---
+topic_id: 9687
+title: "Public Domain Anatomy"
+date: 2020-01-02
+url: https://discourse.slicer.org/t/9687
+---
+
 # Public domain anatomy
 
 **Topic ID**: 9687

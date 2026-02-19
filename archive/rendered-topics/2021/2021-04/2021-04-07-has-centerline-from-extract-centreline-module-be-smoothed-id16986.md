@@ -1,3 +1,10 @@
+---
+topic_id: 16986
+title: "Has Centerline From Extract Centreline Module Be Smoothed"
+date: 2021-04-07
+url: https://discourse.slicer.org/t/16986
+---
+
 # Has Centerline from Extract centreline module be smoothed?
 
 **Topic ID**: 16986

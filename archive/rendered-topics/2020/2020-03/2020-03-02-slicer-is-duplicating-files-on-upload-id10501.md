@@ -1,3 +1,10 @@
+---
+topic_id: 10501
+title: "Slicer Is Duplicating Files On Upload"
+date: 2020-03-02
+url: https://discourse.slicer.org/t/10501
+---
+
 # Slicer is duplicating files on upload
 
 **Topic ID**: 10501

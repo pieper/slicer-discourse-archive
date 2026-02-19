@@ -1,3 +1,10 @@
+---
+topic_id: 3042
+title: "Significance Of Comparing 2 Different Scans"
+date: 2018-06-01
+url: https://discourse.slicer.org/t/3042
+---
+
 # Significance of comparing 2 different scans
 
 **Topic ID**: 3042

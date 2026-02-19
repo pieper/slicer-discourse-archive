@@ -1,3 +1,10 @@
+---
+topic_id: 19262
+title: "Optimal Way Of Filling Vtkfloatarray"
+date: 2021-08-18
+url: https://discourse.slicer.org/t/19262
+---
+
 # Optimal way of filling `vtkFloatArray`
 
 **Topic ID**: 19262

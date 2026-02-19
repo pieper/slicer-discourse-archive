@@ -1,3 +1,10 @@
+---
+topic_id: 36400
+title: "Modifying The Windows"
+date: 2024-05-26
+url: https://discourse.slicer.org/t/36400
+---
+
 # Modifying the windows
 
 **Topic ID**: 36400

@@ -1,3 +1,10 @@
+---
+topic_id: 27127
+title: "Problem With Sequentiality When Using Loops"
+date: 2023-01-09
+url: https://discourse.slicer.org/t/27127
+---
+
 # Problem with sequentiality when using loops
 
 **Topic ID**: 27127

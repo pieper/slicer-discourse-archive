@@ -1,3 +1,10 @@
+---
+topic_id: 31070
+title: "Landmarks Model"
+date: 2023-08-09
+url: https://discourse.slicer.org/t/31070
+---
+
 # Landmarks - model
 
 **Topic ID**: 31070

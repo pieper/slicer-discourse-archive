@@ -1,3 +1,10 @@
+---
+topic_id: 12376
+title: "Convert Voxels To Grayscale"
+date: 2020-07-05
+url: https://discourse.slicer.org/t/12376
+---
+
 # Convert voxels to grayscale
 
 **Topic ID**: 12376

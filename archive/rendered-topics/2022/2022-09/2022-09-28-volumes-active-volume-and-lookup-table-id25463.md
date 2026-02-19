@@ -1,3 +1,10 @@
+---
+topic_id: 25463
+title: "Volumes Active Volume And Lookup Table"
+date: 2022-09-28
+url: https://discourse.slicer.org/t/25463
+---
+
 # Volumes (active volume and lookup table)
 
 **Topic ID**: 25463

@@ -1,3 +1,10 @@
+---
+topic_id: 33352
+title: "I Cannot Use Alpaca Module"
+date: 2023-12-12
+url: https://discourse.slicer.org/t/33352
+---
+
 # I cannot use ALPACA module
 
 **Topic ID**: 33352

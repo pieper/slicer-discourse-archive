@@ -1,3 +1,10 @@
+---
+topic_id: 25724
+title: "Distance Measurement Separated To 3 Axes"
+date: 2022-10-16
+url: https://discourse.slicer.org/t/25724
+---
+
 # Distance Measurement Separated to 3 Axes
 
 **Topic ID**: 25724

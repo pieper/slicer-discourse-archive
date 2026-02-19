@@ -1,3 +1,10 @@
+---
+topic_id: 41525
+title: "Hololens 2 To See The 3D View"
+date: 2025-02-06
+url: https://discourse.slicer.org/t/41525
+---
+
 # Hololens 2 to see the 3D view
 
 **Topic ID**: 41525

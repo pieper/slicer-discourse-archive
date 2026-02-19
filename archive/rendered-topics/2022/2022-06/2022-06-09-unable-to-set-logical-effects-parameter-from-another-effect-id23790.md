@@ -1,3 +1,10 @@
+---
+topic_id: 23790
+title: "Unable To Set Logical Effects Parameter From Another Effect"
+date: 2022-06-09
+url: https://discourse.slicer.org/t/23790
+---
+
 # Unable to set Logical effect's parameter from another effect
 
 **Topic ID**: 23790

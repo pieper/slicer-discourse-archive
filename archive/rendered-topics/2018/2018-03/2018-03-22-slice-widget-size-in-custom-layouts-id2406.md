@@ -1,3 +1,10 @@
+---
+topic_id: 2406
+title: "Slice Widget Size In Custom Layouts"
+date: 2018-03-22
+url: https://discourse.slicer.org/t/2406
+---
+
 # Slice widget size in custom layouts
 
 **Topic ID**: 2406

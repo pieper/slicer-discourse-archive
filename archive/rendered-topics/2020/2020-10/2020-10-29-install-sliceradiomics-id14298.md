@@ -1,3 +1,10 @@
+---
+topic_id: 14298
+title: "Install Sliceradiomics"
+date: 2020-10-29
+url: https://discourse.slicer.org/t/14298
+---
+
 #  install sliceRadiomics
 
 **Topic ID**: 14298

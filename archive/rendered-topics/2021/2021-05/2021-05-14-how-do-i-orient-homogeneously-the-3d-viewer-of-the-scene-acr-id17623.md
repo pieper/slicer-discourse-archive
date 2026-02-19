@@ -1,3 +1,10 @@
+---
+topic_id: 17623
+title: "How Do I Orient Homogeneously The 3D Viewer Of The Scene Acr"
+date: 2021-05-14
+url: https://discourse.slicer.org/t/17623
+---
+
 # How do I orient homogeneously the 3d viewer of the scene across different scenes?
 
 **Topic ID**: 17623

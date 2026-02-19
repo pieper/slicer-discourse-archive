@@ -1,3 +1,10 @@
+---
+topic_id: 11322
+title: "Display Two 2D Images Simultaneously"
+date: 2020-04-27
+url: https://discourse.slicer.org/t/11322
+---
+
 # Display two 2D images simultaneously
 
 **Topic ID**: 11322

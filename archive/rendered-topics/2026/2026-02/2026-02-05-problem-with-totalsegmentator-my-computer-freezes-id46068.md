@@ -1,3 +1,10 @@
+---
+topic_id: 46068
+title: "Problem With Totalsegmentator My Computer Freezes"
+date: 2026-02-05
+url: https://discourse.slicer.org/t/46068
+---
+
 # Problem with TotalSegmentator - my computer freezes
 
 **Topic ID**: 46068

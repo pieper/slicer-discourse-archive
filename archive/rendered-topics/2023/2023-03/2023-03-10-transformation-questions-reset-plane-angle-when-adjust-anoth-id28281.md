@@ -1,3 +1,10 @@
+---
+topic_id: 28281
+title: "Transformation Questions Reset Plane Angle When Adjust Anoth"
+date: 2023-03-10
+url: https://discourse.slicer.org/t/28281
+---
+
 # Transformation questions, reset plane angle when adjust another one[possible bug]
 
 **Topic ID**: 28281

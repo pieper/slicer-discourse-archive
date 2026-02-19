@@ -1,3 +1,10 @@
+---
+topic_id: 21840
+title: "Issues With New Module For Numpy Files"
+date: 2022-02-07
+url: https://discourse.slicer.org/t/21840
+---
+
 # Issues with New Module for Numpy Files
 
 **Topic ID**: 21840

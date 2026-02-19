@@ -1,3 +1,10 @@
+---
+topic_id: 5042
+title: "Segment Editor Threshold With Masking"
+date: 2018-12-11
+url: https://discourse.slicer.org/t/5042
+---
+
 # Segment Editor: Threshold with masking
 
 **Topic ID**: 5042

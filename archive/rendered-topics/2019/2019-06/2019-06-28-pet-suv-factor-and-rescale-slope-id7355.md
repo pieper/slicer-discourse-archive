@@ -1,3 +1,10 @@
+---
+topic_id: 7355
+title: "Pet Suv Factor And Rescale Slope"
+date: 2019-06-28
+url: https://discourse.slicer.org/t/7355
+---
+
 # PET SUV factor and rescale slope
 
 **Topic ID**: 7355

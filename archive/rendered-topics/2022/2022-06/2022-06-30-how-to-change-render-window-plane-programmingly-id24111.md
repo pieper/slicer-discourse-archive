@@ -1,3 +1,10 @@
+---
+topic_id: 24111
+title: "How To Change Render Window Plane Programmingly"
+date: 2022-06-30
+url: https://discourse.slicer.org/t/24111
+---
+
 # How to change render window plane programmingly?
 
 **Topic ID**: 24111

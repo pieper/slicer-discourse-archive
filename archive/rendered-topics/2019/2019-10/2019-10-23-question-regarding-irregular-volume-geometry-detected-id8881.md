@@ -1,3 +1,10 @@
+---
+topic_id: 8881
+title: "Question Regarding Irregular Volume Geometry Detected"
+date: 2019-10-23
+url: https://discourse.slicer.org/t/8881
+---
+
 # Question regarding Irregular volume geometry detected
 
 **Topic ID**: 8881

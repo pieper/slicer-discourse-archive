@@ -1,3 +1,10 @@
+---
+topic_id: 26559
+title: "Slicer Crashes When I Update A Vtkdistancepolydatafilter"
+date: 2022-12-02
+url: https://discourse.slicer.org/t/26559
+---
+
 # Slicer crashes when I update a vtkDistancePolyDataFilter
 
 **Topic ID**: 26559

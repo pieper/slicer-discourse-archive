@@ -1,3 +1,10 @@
+---
+topic_id: 2453
+title: "Roi Acsv To Nifti Conversion"
+date: 2018-03-28
+url: https://discourse.slicer.org/t/2453
+---
+
 # ROI (.acsv) to nifti conversion
 
 **Topic ID**: 2453

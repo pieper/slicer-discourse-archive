@@ -1,3 +1,10 @@
+---
+topic_id: 5288
+title: "How To Merge Mri And Brain Atlas"
+date: 2019-01-06
+url: https://discourse.slicer.org/t/5288
+---
+
 # How to merge MRI and brain atlas
 
 **Topic ID**: 5288

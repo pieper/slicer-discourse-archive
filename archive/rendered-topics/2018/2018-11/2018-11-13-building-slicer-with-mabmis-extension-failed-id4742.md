@@ -1,3 +1,10 @@
+---
+topic_id: 4742
+title: "Building Slicer With Mabmis Extension Failed"
+date: 2018-11-13
+url: https://discourse.slicer.org/t/4742
+---
+
 # Building Slicer with MABMIS extension failed
 
 **Topic ID**: 4742

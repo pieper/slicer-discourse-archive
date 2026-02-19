@@ -1,3 +1,10 @@
+---
+topic_id: 18736
+title: "Automation Of Creating Voxel Histograms Of Segmentation Data"
+date: 2021-07-14
+url: https://discourse.slicer.org/t/18736
+---
+
 # Automation of creating voxel histograms of segmentation data
 
 **Topic ID**: 18736

@@ -1,3 +1,10 @@
+---
+topic_id: 12653
+title: "Segfault When Calling Destructor On Ctkdicomindexer And Ctkd"
+date: 2020-07-21
+url: https://discourse.slicer.org/t/12653
+---
+
 # Segfault when calling destructor on ctkDICOMIndexer and ctkDICOMDatabase
 
 **Topic ID**: 12653

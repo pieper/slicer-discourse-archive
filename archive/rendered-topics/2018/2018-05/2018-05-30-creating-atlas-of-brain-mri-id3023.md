@@ -1,3 +1,10 @@
+---
+topic_id: 3023
+title: "Creating Atlas Of Brain Mri"
+date: 2018-05-30
+url: https://discourse.slicer.org/t/3023
+---
+
 # Creating Atlas of Brain MRI
 
 **Topic ID**: 3023

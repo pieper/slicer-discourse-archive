@@ -1,3 +1,10 @@
+---
+topic_id: 13773
+title: "Retreive Triangle From Flying Edges Mesh"
+date: 2020-09-30
+url: https://discourse.slicer.org/t/13773
+---
+
 # Retreive triangle from Flying edges mesh
 
 **Topic ID**: 13773

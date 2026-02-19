@@ -1,3 +1,10 @@
+---
+topic_id: 41003
+title: "Trouble Loading Sample Data In Slicerautoscoperm"
+date: 2025-01-09
+url: https://discourse.slicer.org/t/41003
+---
+
 # Trouble loading sample data in SlicerAutoscoperM
 
 **Topic ID**: 41003

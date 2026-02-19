@@ -1,3 +1,10 @@
+---
+topic_id: 2528
+title: "Data Probe Widget Is Empty On Linux"
+date: 2018-04-06
+url: https://discourse.slicer.org/t/2528
+---
+
 # Data Probe widget is empty on Linux
 
 **Topic ID**: 2528

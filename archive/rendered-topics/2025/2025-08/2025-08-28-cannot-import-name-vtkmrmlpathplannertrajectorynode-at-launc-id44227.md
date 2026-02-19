@@ -1,3 +1,10 @@
+---
+topic_id: 44227
+title: "Cannot Import Name Vtkmrmlpathplannertrajectorynode At Launc"
+date: 2025-08-28
+url: https://discourse.slicer.org/t/44227
+---
+
 # Cannot import name 'vtkMRMLPathPlannerTrajectoryNode' at launch
 
 **Topic ID**: 44227

@@ -1,3 +1,10 @@
+---
+topic_id: 7521
+title: "Magic Wand For Visualisation"
+date: 2019-07-11
+url: https://discourse.slicer.org/t/7521
+---
+
 # Magic Wand for visualisation
 
 **Topic ID**: 7521

@@ -1,3 +1,10 @@
+---
+topic_id: 28643
+title: "Threshold Min And Max Values"
+date: 2023-03-29
+url: https://discourse.slicer.org/t/28643
+---
+
 # Threshold min and max values
 
 **Topic ID**: 28643

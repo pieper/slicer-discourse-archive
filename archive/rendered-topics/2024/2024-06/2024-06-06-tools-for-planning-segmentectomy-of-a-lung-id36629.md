@@ -1,3 +1,10 @@
+---
+topic_id: 36629
+title: "Tools For Planning Segmentectomy Of A Lung"
+date: 2024-06-06
+url: https://discourse.slicer.org/t/36629
+---
+
 # Tools for planning segmentectomy of a lung
 
 **Topic ID**: 36629

@@ -1,3 +1,10 @@
+---
+topic_id: 19420
+title: "A Question About Interaction Mode Of Scatterplot"
+date: 2021-08-30
+url: https://discourse.slicer.org/t/19420
+---
+
 # A question about interaction mode of scatterplot
 
 **Topic ID**: 19420

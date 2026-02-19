@@ -1,3 +1,10 @@
+---
+topic_id: 27969
+title: "Win11 Has Problem With Slicer 5 2 1"
+date: 2023-02-22
+url: https://discourse.slicer.org/t/27969
+---
+
 # Win11 has problem with Slicer 5.2.1
 
 **Topic ID**: 27969

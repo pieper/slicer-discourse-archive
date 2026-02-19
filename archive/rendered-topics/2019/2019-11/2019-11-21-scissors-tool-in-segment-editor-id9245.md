@@ -1,3 +1,10 @@
+---
+topic_id: 9245
+title: "Scissors Tool In Segment Editor"
+date: 2019-11-21
+url: https://discourse.slicer.org/t/9245
+---
+
 # Scissors tool in segment editor
 
 **Topic ID**: 9245

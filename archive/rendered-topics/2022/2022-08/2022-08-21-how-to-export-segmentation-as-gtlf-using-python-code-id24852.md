@@ -1,3 +1,10 @@
+---
+topic_id: 24852
+title: "How To Export Segmentation As Gtlf Using Python Code"
+date: 2022-08-21
+url: https://discourse.slicer.org/t/24852
+---
+
 # How to export Segmentation as gtlf using python code
 
 **Topic ID**: 24852

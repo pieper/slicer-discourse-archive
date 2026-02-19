@@ -1,3 +1,10 @@
+---
+topic_id: 5864
+title: "Find Needle Tip Position Automatically By Segmentation Durin"
+date: 2019-02-21
+url: https://discourse.slicer.org/t/5864
+---
+
 # Find needle tip position automatically by segmentation during needle insertion
 
 **Topic ID**: 5864

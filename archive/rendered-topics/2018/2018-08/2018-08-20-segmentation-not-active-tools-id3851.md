@@ -1,3 +1,10 @@
+---
+topic_id: 3851
+title: "Segmentation Not Active Tools"
+date: 2018-08-20
+url: https://discourse.slicer.org/t/3851
+---
+
 # Segmentation - not active tools ?
 
 **Topic ID**: 3851

@@ -1,3 +1,10 @@
+---
+topic_id: 32357
+title: "Setting The I S Range For A Markupsroi"
+date: 2023-10-20
+url: https://discourse.slicer.org/t/32357
+---
+
 # Setting the I-S range for a MarkupsROI
 
 **Topic ID**: 32357

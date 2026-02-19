@@ -1,3 +1,10 @@
+---
+topic_id: 2366
+title: "Trouble 3D Slicer Hangs While Saving Big Amount Of Data Afte"
+date: 2018-03-19
+url: https://discourse.slicer.org/t/2366
+---
+
 # Trouble: 3D Slicer hangs while saving big amount of data after registration
 
 **Topic ID**: 2366

@@ -1,3 +1,10 @@
+---
+topic_id: 25779
+title: "I Need A Python Code To Get Center Line Of Segmentations"
+date: 2022-10-19
+url: https://discourse.slicer.org/t/25779
+---
+
 # I need a python code to get center line of segmentations
 
 **Topic ID**: 25779

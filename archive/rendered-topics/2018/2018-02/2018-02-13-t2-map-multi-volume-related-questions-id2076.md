@@ -1,3 +1,10 @@
+---
+topic_id: 2076
+title: "T2 Map Multi Volume Related Questions"
+date: 2018-02-13
+url: https://discourse.slicer.org/t/2076
+---
+
 # T2 Map Multi-volume related questions
 
 **Topic ID**: 2076

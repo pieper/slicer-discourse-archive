@@ -1,3 +1,10 @@
+---
+topic_id: 1533
+title: "How We Can Visualize Only One Segment Of A Joint"
+date: 2017-11-27
+url: https://discourse.slicer.org/t/1533
+---
+
 # how we can visualize only one segment of a joint
 
 **Topic ID**: 1533

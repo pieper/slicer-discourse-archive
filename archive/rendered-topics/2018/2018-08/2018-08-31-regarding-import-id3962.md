@@ -1,3 +1,10 @@
+---
+topic_id: 3962
+title: "Regarding Import"
+date: 2018-08-31
+url: https://discourse.slicer.org/t/3962
+---
+
 # Regarding import
 
 **Topic ID**: 3962

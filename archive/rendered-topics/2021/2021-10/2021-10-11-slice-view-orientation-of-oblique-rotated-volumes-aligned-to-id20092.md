@@ -1,3 +1,10 @@
+---
+topic_id: 20092
+title: "Slice View Orientation Of Oblique Rotated Volumes Aligned To"
+date: 2021-10-11
+url: https://discourse.slicer.org/t/20092
+---
+
 # Slice view orientation of oblique/rotated volumes - aligned to volume or anatomical axes?
 
 **Topic ID**: 20092

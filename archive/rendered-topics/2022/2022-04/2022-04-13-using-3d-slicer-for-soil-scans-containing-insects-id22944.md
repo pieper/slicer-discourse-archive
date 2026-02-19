@@ -1,3 +1,10 @@
+---
+topic_id: 22944
+title: "Using 3D Slicer For Soil Scans Containing Insects"
+date: 2022-04-13
+url: https://discourse.slicer.org/t/22944
+---
+
 # Using 3D Slicer for Soil Scans Containing Insects
 
 **Topic ID**: 22944

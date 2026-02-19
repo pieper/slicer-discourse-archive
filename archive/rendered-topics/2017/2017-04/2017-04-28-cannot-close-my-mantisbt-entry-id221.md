@@ -1,3 +1,10 @@
+---
+topic_id: 221
+title: "Cannot Close My Mantisbt Entry"
+date: 2017-04-28
+url: https://discourse.slicer.org/t/221
+---
+
 # Cannot close my MantisBT entry
 
 **Topic ID**: 221

@@ -1,3 +1,10 @@
+---
+topic_id: 1845
+title: "Unable To Access Import Slicers Cli Module From Python Scrip"
+date: 2018-01-15
+url: https://discourse.slicer.org/t/1845
+---
+
 # Unable to access/import slicer's cli module from python script
 
 **Topic ID**: 1845

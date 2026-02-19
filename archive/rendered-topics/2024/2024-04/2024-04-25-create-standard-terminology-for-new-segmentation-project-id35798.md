@@ -1,3 +1,10 @@
+---
+topic_id: 35798
+title: "Create Standard Terminology For New Segmentation Project"
+date: 2024-04-25
+url: https://discourse.slicer.org/t/35798
+---
+
 # Create standard terminology for new segmentation project
 
 **Topic ID**: 35798

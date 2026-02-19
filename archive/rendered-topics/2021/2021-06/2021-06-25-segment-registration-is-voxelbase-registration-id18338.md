@@ -1,3 +1,10 @@
+---
+topic_id: 18338
+title: "Segment Registration Is Voxelbase Registration"
+date: 2021-06-25
+url: https://discourse.slicer.org/t/18338
+---
+
 # Segment registration is Voxelbase registration？
 
 **Topic ID**: 18338

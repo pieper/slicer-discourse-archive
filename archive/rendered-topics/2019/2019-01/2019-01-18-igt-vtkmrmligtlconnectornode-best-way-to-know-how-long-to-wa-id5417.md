@@ -1,3 +1,10 @@
+---
+topic_id: 5417
+title: "Igt Vtkmrmligtlconnectornode Best Way To Know How Long To Wa"
+date: 2019-01-18
+url: https://discourse.slicer.org/t/5417
+---
+
 # IGT vtkMRMLIGTLConnectorNode best way to know how long to wait for connection and node access?
 
 **Topic ID**: 5417

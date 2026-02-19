@@ -1,3 +1,10 @@
+---
+topic_id: 18582
+title: "How To Avoid The Holes Caused By Branch Splitting Or Repair"
+date: 2021-07-08
+url: https://discourse.slicer.org/t/18582
+---
+
 # How to avoid the holes caused by branch splitting, or repair it
 
 **Topic ID**: 18582

@@ -1,3 +1,10 @@
+---
+topic_id: 29915
+title: "Repost In Support Sorry Python Function Vs Main Crash In Fun"
+date: 2023-06-08
+url: https://discourse.slicer.org/t/29915
+---
+
 # Repost in support (sorry) python function vs main / crash in function but not in main
 
 **Topic ID**: 29915

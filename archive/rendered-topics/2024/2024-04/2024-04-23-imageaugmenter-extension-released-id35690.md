@@ -1,3 +1,10 @@
+---
+topic_id: 35690
+title: "Imageaugmenter Extension Released"
+date: 2024-04-23
+url: https://discourse.slicer.org/t/35690
+---
+
 # ImageAugmenter extension released!
 
 **Topic ID**: 35690

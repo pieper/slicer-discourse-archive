@@ -1,3 +1,10 @@
+---
+topic_id: 3430
+title: "Learning Which Data Derivatives Matter Most Bids Derivatives"
+date: 2018-07-09
+url: https://discourse.slicer.org/t/3430
+---
+
 # Learning which data derivatives matter most (BIDS Derivatives Standardization)
 
 **Topic ID**: 3430

@@ -1,3 +1,10 @@
+---
+topic_id: 16167
+title: "Cropping Mesh Using Landmark Points"
+date: 2021-02-23
+url: https://discourse.slicer.org/t/16167
+---
+
 # Cropping mesh using landmark points
 
 **Topic ID**: 16167

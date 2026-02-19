@@ -1,3 +1,10 @@
+---
+topic_id: 35528
+title: "Print Oriented Bounding Boxes Obb In Ras And Obb Diameters D"
+date: 2024-04-16
+url: https://discourse.slicer.org/t/35528
+---
+
 # Print oriented bounding boxes(OBB in ras) and obb diameters data for 600 patients
 
 **Topic ID**: 35528

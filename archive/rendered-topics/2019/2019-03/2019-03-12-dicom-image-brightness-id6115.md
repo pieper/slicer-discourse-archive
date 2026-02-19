@@ -1,3 +1,10 @@
+---
+topic_id: 6115
+title: "Dicom Image Brightness"
+date: 2019-03-12
+url: https://discourse.slicer.org/t/6115
+---
+
 # Dicom image brightness
 
 **Topic ID**: 6115

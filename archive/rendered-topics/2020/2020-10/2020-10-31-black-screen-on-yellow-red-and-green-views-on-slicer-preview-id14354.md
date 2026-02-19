@@ -1,3 +1,10 @@
+---
+topic_id: 14354
+title: "Black Screen On Yellow Red And Green Views On Slicer Preview"
+date: 2020-10-31
+url: https://discourse.slicer.org/t/14354
+---
+
 # Black screen on Yellow, Red and Green views on Slicer Preview Release
 
 **Topic ID**: 14354

@@ -1,3 +1,10 @@
+---
+topic_id: 4609
+title: "Stl Files Centreline Estimations"
+date: 2018-10-31
+url: https://discourse.slicer.org/t/4609
+---
+
 # STL files - centreline estimations
 
 **Topic ID**: 4609

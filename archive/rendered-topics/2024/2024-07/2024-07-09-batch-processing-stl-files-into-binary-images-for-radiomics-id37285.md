@@ -1,3 +1,10 @@
+---
+topic_id: 37285
+title: "Batch Processing Stl Files Into Binary Images For Radiomics"
+date: 2024-07-09
+url: https://discourse.slicer.org/t/37285
+---
+
 # Batch Processing Stl files into binary images for Radiomics
 
 **Topic ID**: 37285

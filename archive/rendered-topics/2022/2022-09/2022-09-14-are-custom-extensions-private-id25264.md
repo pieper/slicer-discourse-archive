@@ -1,3 +1,10 @@
+---
+topic_id: 25264
+title: "Are Custom Extensions Private"
+date: 2022-09-14
+url: https://discourse.slicer.org/t/25264
+---
+
 # Are custom extensions private?
 
 **Topic ID**: 25264

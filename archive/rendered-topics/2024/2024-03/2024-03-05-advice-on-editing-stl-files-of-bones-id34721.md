@@ -1,3 +1,10 @@
+---
+topic_id: 34721
+title: "Advice On Editing Stl Files Of Bones"
+date: 2024-03-05
+url: https://discourse.slicer.org/t/34721
+---
+
 # Advice on editing STL files of bones 
 
 **Topic ID**: 34721

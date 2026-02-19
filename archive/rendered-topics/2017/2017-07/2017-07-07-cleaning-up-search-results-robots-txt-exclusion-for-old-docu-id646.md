@@ -1,3 +1,10 @@
+---
+topic_id: 646
+title: "Cleaning Up Search Results Robots Txt Exclusion For Old Docu"
+date: 2017-07-07
+url: https://discourse.slicer.org/t/646
+---
+
 # Cleaning up search results: robots.txt exclusion for old documentation
 
 **Topic ID**: 646

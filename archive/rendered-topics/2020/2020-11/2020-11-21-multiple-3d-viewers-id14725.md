@@ -1,3 +1,10 @@
+---
+topic_id: 14725
+title: "Multiple 3D Viewers"
+date: 2020-11-21
+url: https://discourse.slicer.org/t/14725
+---
+
 # Multiple 3D viewers
 
 **Topic ID**: 14725

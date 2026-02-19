@@ -1,3 +1,10 @@
+---
+topic_id: 36104
+title: "Using Script For Creating Intersection From Logical Operator"
+date: 2024-05-13
+url: https://discourse.slicer.org/t/36104
+---
+
 # Using script for creating 'intersection' from 'Logical operators' of Segment Editor
 
 **Topic ID**: 36104

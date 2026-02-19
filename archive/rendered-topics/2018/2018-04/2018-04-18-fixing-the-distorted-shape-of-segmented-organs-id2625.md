@@ -1,3 +1,10 @@
+---
+topic_id: 2625
+title: "Fixing The Distorted Shape Of Segmented Organs"
+date: 2018-04-18
+url: https://discourse.slicer.org/t/2625
+---
+
 # fixing the distorted shape of segmented organs
 
 **Topic ID**: 2625

@@ -1,3 +1,10 @@
+---
+topic_id: 11013
+title: "Importing Dicom Directory Via Temporary Database"
+date: 2020-04-06
+url: https://discourse.slicer.org/t/11013
+---
+
 # Importing Dicom Directory via Temporary Database
 
 **Topic ID**: 11013

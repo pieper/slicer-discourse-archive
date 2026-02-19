@@ -1,3 +1,10 @@
+---
+topic_id: 12210
+title: "List Of Removed Extensions Now Available"
+date: 2020-06-25
+url: https://discourse.slicer.org/t/12210
+---
+
 # List of removed extensions now available
 
 **Topic ID**: 12210

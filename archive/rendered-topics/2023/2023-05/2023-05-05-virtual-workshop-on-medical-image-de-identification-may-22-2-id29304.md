@@ -1,3 +1,10 @@
+---
+topic_id: 29304
+title: "Virtual Workshop On Medical Image De Identification May 22 2"
+date: 2023-05-05
+url: https://discourse.slicer.org/t/29304
+---
+
 # Virtual Workshop on Medical Image De-Identification - May 22-23, 2023
 
 **Topic ID**: 29304

@@ -1,3 +1,10 @@
+---
+topic_id: 33542
+title: "Generate Tubes With Markups To Model"
+date: 2023-12-28
+url: https://discourse.slicer.org/t/33542
+---
+
 # Generate tubes with markups to model
 
 **Topic ID**: 33542

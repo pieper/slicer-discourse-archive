@@ -1,3 +1,10 @@
+---
+topic_id: 9475
+title: "Editing Of Planar Contours Without Converting To Binary Labe"
+date: 2019-12-11
+url: https://discourse.slicer.org/t/9475
+---
+
 # Editing of planar contours without converting to binary label map
 
 **Topic ID**: 9475

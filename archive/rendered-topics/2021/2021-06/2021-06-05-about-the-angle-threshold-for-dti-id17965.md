@@ -1,3 +1,10 @@
+---
+topic_id: 17965
+title: "About The Angle Threshold For Dti"
+date: 2021-06-05
+url: https://discourse.slicer.org/t/17965
+---
+
 # About the angle threshold for DTI?
 
 **Topic ID**: 17965

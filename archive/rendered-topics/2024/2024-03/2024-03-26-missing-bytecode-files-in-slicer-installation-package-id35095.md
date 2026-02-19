@@ -1,3 +1,10 @@
+---
+topic_id: 35095
+title: "Missing Bytecode Files In Slicer Installation Package"
+date: 2024-03-26
+url: https://discourse.slicer.org/t/35095
+---
+
 # Missing bytecode files in Slicer installation package
 
 **Topic ID**: 35095

@@ -1,3 +1,10 @@
+---
+topic_id: 39808
+title: "Is It Possible To Implement Segment Editor In C"
+date: 2024-10-23
+url: https://discourse.slicer.org/t/39808
+---
+
 # Is it possible to implement segment editor in c++
 
 **Topic ID**: 39808

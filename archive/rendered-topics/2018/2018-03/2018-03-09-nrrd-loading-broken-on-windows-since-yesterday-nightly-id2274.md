@@ -1,3 +1,10 @@
+---
+topic_id: 2274
+title: "Nrrd Loading Broken On Windows Since Yesterday Nightly"
+date: 2018-03-09
+url: https://discourse.slicer.org/t/2274
+---
+
 # NRRD loading broken on Windows since yesterday nightly
 
 **Topic ID**: 2274

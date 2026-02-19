@@ -1,3 +1,10 @@
+---
+topic_id: 11427
+title: "Segment Editor Outline Color And Thickness Customization"
+date: 2020-05-05
+url: https://discourse.slicer.org/t/11427
+---
+
 # Segment editor outline color and thickness customization
 
 **Topic ID**: 11427

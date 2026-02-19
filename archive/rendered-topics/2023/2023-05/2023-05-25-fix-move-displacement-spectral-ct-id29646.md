@@ -1,3 +1,10 @@
+---
+topic_id: 29646
+title: "Fix Move Displacement Spectral Ct"
+date: 2023-05-25
+url: https://discourse.slicer.org/t/29646
+---
+
 # Fix move displacement spectral CT
 
 **Topic ID**: 29646

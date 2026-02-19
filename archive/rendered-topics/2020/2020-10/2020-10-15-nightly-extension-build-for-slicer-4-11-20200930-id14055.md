@@ -1,3 +1,10 @@
+---
+topic_id: 14055
+title: "Nightly Extension Build For Slicer 4 11 20200930"
+date: 2020-10-15
+url: https://discourse.slicer.org/t/14055
+---
+
 # Nightly extension build for Slicer-4.11.20200930
 
 **Topic ID**: 14055

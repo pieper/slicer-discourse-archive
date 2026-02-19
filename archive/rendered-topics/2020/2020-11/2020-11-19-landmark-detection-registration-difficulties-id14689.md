@@ -1,3 +1,10 @@
+---
+topic_id: 14689
+title: "Landmark Detection Registration Difficulties"
+date: 2020-11-19
+url: https://discourse.slicer.org/t/14689
+---
+
 # Landmark Detection/Registration difficulties
 
 **Topic ID**: 14689

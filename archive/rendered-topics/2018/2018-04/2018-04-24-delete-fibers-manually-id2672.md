@@ -1,3 +1,10 @@
+---
+topic_id: 2672
+title: "Delete Fibers Manually"
+date: 2018-04-24
+url: https://discourse.slicer.org/t/2672
+---
+
 # Delete fibers manually
 
 **Topic ID**: 2672

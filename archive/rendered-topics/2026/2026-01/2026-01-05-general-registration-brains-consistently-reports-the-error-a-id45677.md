@@ -1,3 +1,10 @@
+---
+topic_id: 45677
+title: "General Registration Brains Consistently Reports The Error A"
+date: 2026-01-05
+url: https://discourse.slicer.org/t/45677
+---
+
 # General Registration (BRAINS) consistently reports the error “All samples map outside the moving image buffer,” even when the same image is used for both the fixed and moving volumes for a specific image
 
 **Topic ID**: 45677

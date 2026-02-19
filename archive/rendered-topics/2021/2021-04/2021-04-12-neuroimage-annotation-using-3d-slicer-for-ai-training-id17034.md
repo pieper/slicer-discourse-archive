@@ -1,3 +1,10 @@
+---
+topic_id: 17034
+title: "Neuroimage Annotation Using 3D Slicer For Ai Training"
+date: 2021-04-12
+url: https://discourse.slicer.org/t/17034
+---
+
 # Neuroimage annotation using 3D Slicer for AI training 
 
 **Topic ID**: 17034

@@ -1,3 +1,10 @@
+---
+topic_id: 34696
+title: "I Want To Set The Ijk To Ras Direction Matrix For All My Sca"
+date: 2024-03-04
+url: https://discourse.slicer.org/t/34696
+---
+
 # I want to set the IJK to RAS direction matrix for all my scans I upload. 
 
 **Topic ID**: 34696

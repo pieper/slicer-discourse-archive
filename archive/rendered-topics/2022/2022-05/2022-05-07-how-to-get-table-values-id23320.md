@@ -1,3 +1,10 @@
+---
+topic_id: 23320
+title: "How To Get Table Values"
+date: 2022-05-07
+url: https://discourse.slicer.org/t/23320
+---
+
 # How to Get table values
 
 **Topic ID**: 23320

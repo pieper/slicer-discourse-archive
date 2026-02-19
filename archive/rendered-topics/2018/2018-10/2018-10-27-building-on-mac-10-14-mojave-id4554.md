@@ -1,3 +1,10 @@
+---
+topic_id: 4554
+title: "Building On Mac 10 14 Mojave"
+date: 2018-10-27
+url: https://discourse.slicer.org/t/4554
+---
+
 # Building on Mac 10.14 Mojave
 
 **Topic ID**: 4554

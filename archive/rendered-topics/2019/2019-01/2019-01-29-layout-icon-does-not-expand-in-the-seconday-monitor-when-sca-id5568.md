@@ -1,3 +1,10 @@
+---
+topic_id: 5568
+title: "Layout Icon Does Not Expand In The Seconday Monitor When Sca"
+date: 2019-01-29
+url: https://discourse.slicer.org/t/5568
+---
+
 # Layout icon does not expand in the seconday monitor when scaling is more than 100%
 
 **Topic ID**: 5568

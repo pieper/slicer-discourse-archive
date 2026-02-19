@@ -1,3 +1,10 @@
+---
+topic_id: 37924
+title: "Retrieving Segmentationstatistics From Large Datasets Using"
+date: 2024-08-17
+url: https://discourse.slicer.org/t/37924
+---
+
 # Retrieving SegmentationStatistics from Large Datasets Using 3D Slicer API
 
 **Topic ID**: 37924

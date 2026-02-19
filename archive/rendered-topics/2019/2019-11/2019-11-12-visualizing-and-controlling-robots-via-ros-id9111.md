@@ -1,3 +1,10 @@
+---
+topic_id: 9111
+title: "Visualizing And Controlling Robots Via Ros"
+date: 2019-11-12
+url: https://discourse.slicer.org/t/9111
+---
+
 # Visualizing and controlling robots via ROS
 
 **Topic ID**: 9111

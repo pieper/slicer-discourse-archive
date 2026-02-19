@@ -1,3 +1,10 @@
+---
+topic_id: 24298
+title: "Inline Documentation"
+date: 2022-07-13
+url: https://discourse.slicer.org/t/24298
+---
+
 # Inline documentation
 
 **Topic ID**: 24298

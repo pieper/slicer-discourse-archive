@@ -1,3 +1,10 @@
+---
+topic_id: 2605
+title: "Is It Possible To Use 3D Slicer Libraries In My Own Program"
+date: 2018-04-17
+url: https://discourse.slicer.org/t/2605
+---
+
 # Is it possible to use 3d_slicer libraries in my own program
 
 **Topic ID**: 2605

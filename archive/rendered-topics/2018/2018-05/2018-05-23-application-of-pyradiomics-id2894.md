@@ -1,3 +1,10 @@
+---
+topic_id: 2894
+title: "Application Of Pyradiomics"
+date: 2018-05-23
+url: https://discourse.slicer.org/t/2894
+---
+
 # Application of pyradiomics
 
 **Topic ID**: 2894

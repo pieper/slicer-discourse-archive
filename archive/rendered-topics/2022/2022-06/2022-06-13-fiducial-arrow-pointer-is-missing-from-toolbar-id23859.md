@@ -1,3 +1,10 @@
+---
+topic_id: 23859
+title: "Fiducial Arrow Pointer Is Missing From Toolbar"
+date: 2022-06-13
+url: https://discourse.slicer.org/t/23859
+---
+
 # Fiducial arrow pointer is missing from toolbar
 
 **Topic ID**: 23859

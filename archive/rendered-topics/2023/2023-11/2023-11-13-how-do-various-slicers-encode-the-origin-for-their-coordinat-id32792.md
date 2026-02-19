@@ -1,3 +1,10 @@
+---
+topic_id: 32792
+title: "How Do Various Slicers Encode The Origin For Their Coordinat"
+date: 2023-11-13
+url: https://discourse.slicer.org/t/32792
+---
+
 # How do various slicers encode the origin for their coordinate system?
 
 **Topic ID**: 32792

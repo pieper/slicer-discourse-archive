@@ -1,3 +1,10 @@
+---
+topic_id: 25375
+title: "Slicerjupyter Examples"
+date: 2022-09-21
+url: https://discourse.slicer.org/t/25375
+---
+
 # SlicerJupyter examples
 
 **Topic ID**: 25375

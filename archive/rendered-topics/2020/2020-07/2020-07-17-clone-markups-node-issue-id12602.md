@@ -1,3 +1,10 @@
+---
+topic_id: 12602
+title: "Clone Markups Node Issue"
+date: 2020-07-17
+url: https://discourse.slicer.org/t/12602
+---
+
 # Clone Markups Node Issue
 
 **Topic ID**: 12602

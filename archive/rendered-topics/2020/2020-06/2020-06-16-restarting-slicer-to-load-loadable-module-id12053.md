@@ -1,3 +1,10 @@
+---
+topic_id: 12053
+title: "Restarting Slicer To Load Loadable Module"
+date: 2020-06-16
+url: https://discourse.slicer.org/t/12053
+---
+
 # Restarting slicer to load loadable module
 
 **Topic ID**: 12053

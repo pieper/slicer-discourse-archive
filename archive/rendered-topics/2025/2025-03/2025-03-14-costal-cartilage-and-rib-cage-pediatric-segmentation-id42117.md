@@ -1,3 +1,10 @@
+---
+topic_id: 42117
+title: "Costal Cartilage And Rib Cage Pediatric Segmentation"
+date: 2025-03-14
+url: https://discourse.slicer.org/t/42117
+---
+
 # Costal cartilage and rib cage pediatric segmentation
 
 **Topic ID**: 42117

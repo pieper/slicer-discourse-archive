@@ -1,3 +1,10 @@
+---
+topic_id: 4590
+title: "Slicer 4 10 0 Starts Up No More After Closing Unexpectedly"
+date: 2018-10-30
+url: https://discourse.slicer.org/t/4590
+---
+
 # Slicer 4.10.0 starts up no more after closing unexpectedly
 
 **Topic ID**: 4590

@@ -1,3 +1,10 @@
+---
+topic_id: 24694
+title: "Need A Step By Step For Ndi Trakstar Data Visualization"
+date: 2022-08-09
+url: https://discourse.slicer.org/t/24694
+---
+
 # Need a step by step for NDI trakSTAR data visualization
 
 **Topic ID**: 24694

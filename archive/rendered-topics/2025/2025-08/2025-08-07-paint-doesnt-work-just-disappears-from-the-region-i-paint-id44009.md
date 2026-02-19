@@ -1,3 +1,10 @@
+---
+topic_id: 44009
+title: "Paint Doesnt Work Just Disappears From The Region I Paint"
+date: 2025-08-07
+url: https://discourse.slicer.org/t/44009
+---
+
 # Paint doesnt work. Just disappears from the region I paint.
 
 **Topic ID**: 44009

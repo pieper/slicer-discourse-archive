@@ -1,3 +1,10 @@
+---
+topic_id: 17231
+title: "How To Convert Nii Mri Mask Files To 3D Volume That Could Be"
+date: 2021-04-21
+url: https://discourse.slicer.org/t/17231
+---
+
 # How to convert .nii MRI mask files to 3D volume that could be meshed with 3D element types later?
 
 **Topic ID**: 17231

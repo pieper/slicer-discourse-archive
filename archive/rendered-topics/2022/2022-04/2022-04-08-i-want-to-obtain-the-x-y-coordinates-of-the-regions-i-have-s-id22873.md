@@ -1,3 +1,10 @@
+---
+topic_id: 22873
+title: "I Want To Obtain The X Y Coordinates Of The Regions I Have S"
+date: 2022-04-08
+url: https://discourse.slicer.org/t/22873
+---
+
 # I want to obtain the x, y coordinates of the regions I have segmented
 
 **Topic ID**: 22873

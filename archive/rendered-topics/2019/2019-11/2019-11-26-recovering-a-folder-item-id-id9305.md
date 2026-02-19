@@ -1,3 +1,10 @@
+---
+topic_id: 9305
+title: "Recovering A Folder Item Id"
+date: 2019-11-26
+url: https://discourse.slicer.org/t/9305
+---
+
 # Recovering a folder item ID
 
 **Topic ID**: 9305

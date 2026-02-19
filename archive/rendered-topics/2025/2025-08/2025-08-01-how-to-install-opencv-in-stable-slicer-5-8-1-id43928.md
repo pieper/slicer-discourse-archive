@@ -1,3 +1,10 @@
+---
+topic_id: 43928
+title: "How To Install Opencv In Stable Slicer 5 8 1"
+date: 2025-08-01
+url: https://discourse.slicer.org/t/43928
+---
+
 # How to install OpenCv in stable Slicer 5.8.1?
 
 **Topic ID**: 43928

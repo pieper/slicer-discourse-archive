@@ -1,3 +1,10 @@
+---
+topic_id: 1786
+title: "Msvc Cmake Cxx Mp Flag Default Value"
+date: 2018-01-08
+url: https://discourse.slicer.org/t/1786
+---
+
 # [MSVC] CMAKE_CXX_MP_FLAG default value
 
 **Topic ID**: 1786

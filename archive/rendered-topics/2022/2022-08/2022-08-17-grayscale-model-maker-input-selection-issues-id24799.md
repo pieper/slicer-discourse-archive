@@ -1,3 +1,10 @@
+---
+topic_id: 24799
+title: "Grayscale Model Maker Input Selection Issues"
+date: 2022-08-17
+url: https://discourse.slicer.org/t/24799
+---
+
 # Grayscale Model Maker input selection issues
 
 **Topic ID**: 24799

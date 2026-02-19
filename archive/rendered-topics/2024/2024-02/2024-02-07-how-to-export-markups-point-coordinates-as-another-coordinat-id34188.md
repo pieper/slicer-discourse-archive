@@ -1,3 +1,10 @@
+---
+topic_id: 34188
+title: "How To Export Markups Point Coordinates As Another Coordinat"
+date: 2024-02-07
+url: https://discourse.slicer.org/t/34188
+---
+
 # How to export Markups point coordinates as another coordinate system
 
 **Topic ID**: 34188

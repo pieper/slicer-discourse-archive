@@ -1,3 +1,10 @@
+---
+topic_id: 2112
+title: "Cannot Find Slicerigt In Extensions Library"
+date: 2018-02-19
+url: https://discourse.slicer.org/t/2112
+---
+
 # Cannot find SlicerIGT in extensions library
 
 **Topic ID**: 2112

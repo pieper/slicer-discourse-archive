@@ -1,3 +1,10 @@
+---
+topic_id: 11074
+title: "Texture Analysis Cardiac Mri"
+date: 2020-04-10
+url: https://discourse.slicer.org/t/11074
+---
+
 # Texture analysis Cardiac MRI
 
 **Topic ID**: 11074

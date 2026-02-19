@@ -1,3 +1,10 @@
+---
+topic_id: 36924
+title: "Brain Segmentation In Mr"
+date: 2024-06-20
+url: https://discourse.slicer.org/t/36924
+---
+
 # Brain Segmentation in MR
 
 **Topic ID**: 36924

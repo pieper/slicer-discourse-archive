@@ -1,3 +1,10 @@
+---
+topic_id: 2211
+title: "Tumor Segmentation"
+date: 2018-02-28
+url: https://discourse.slicer.org/t/2211
+---
+
 # Tumor segmentation
 
 **Topic ID**: 2211

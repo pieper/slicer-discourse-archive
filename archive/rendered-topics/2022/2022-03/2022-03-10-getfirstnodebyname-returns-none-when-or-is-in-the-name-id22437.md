@@ -1,3 +1,10 @@
+---
+topic_id: 22437
+title: "Getfirstnodebyname Returns None When Or Is In The Name"
+date: 2022-03-10
+url: https://discourse.slicer.org/t/22437
+---
+
 # getFirstNodeByName() returns None when '(' or ')' is in the name
 
 **Topic ID**: 22437

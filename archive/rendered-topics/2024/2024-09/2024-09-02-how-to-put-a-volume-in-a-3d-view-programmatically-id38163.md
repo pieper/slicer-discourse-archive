@@ -1,3 +1,10 @@
+---
+topic_id: 38163
+title: "How To Put A Volume In A 3D View Programmatically"
+date: 2024-09-02
+url: https://discourse.slicer.org/t/38163
+---
+
 # How to put a volume in a 3D view programmatically?
 
 **Topic ID**: 38163

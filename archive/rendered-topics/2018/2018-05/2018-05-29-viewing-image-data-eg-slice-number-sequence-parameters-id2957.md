@@ -1,3 +1,10 @@
+---
+topic_id: 2957
+title: "Viewing Image Data Eg Slice Number Sequence Parameters"
+date: 2018-05-29
+url: https://discourse.slicer.org/t/2957
+---
+
 # Viewing image data eg: slice number,sequence parameters
 
 **Topic ID**: 2957

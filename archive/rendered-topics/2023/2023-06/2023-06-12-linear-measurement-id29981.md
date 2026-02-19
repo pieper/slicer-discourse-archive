@@ -1,3 +1,10 @@
+---
+topic_id: 29981
+title: "Linear Measurement"
+date: 2023-06-12
+url: https://discourse.slicer.org/t/29981
+---
+
 # Linear measurement
 
 **Topic ID**: 29981

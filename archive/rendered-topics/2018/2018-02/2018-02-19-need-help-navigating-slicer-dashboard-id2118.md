@@ -1,3 +1,10 @@
+---
+topic_id: 2118
+title: "Need Help Navigating Slicer Dashboard"
+date: 2018-02-19
+url: https://discourse.slicer.org/t/2118
+---
+
 # Need help navigating Slicer dashboard
 
 **Topic ID**: 2118

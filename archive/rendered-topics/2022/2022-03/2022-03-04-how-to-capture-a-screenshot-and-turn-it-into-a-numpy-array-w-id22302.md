@@ -1,3 +1,10 @@
+---
+topic_id: 22302
+title: "How To Capture A Screenshot And Turn It Into A Numpy Array W"
+date: 2022-03-04
+url: https://discourse.slicer.org/t/22302
+---
+
 # How to capture a screenshot and turn it into a numpy array with python code?
 
 **Topic ID**: 22302

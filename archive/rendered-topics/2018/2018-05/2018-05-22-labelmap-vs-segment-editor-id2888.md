@@ -1,3 +1,10 @@
+---
+topic_id: 2888
+title: "Labelmap Vs Segment Editor"
+date: 2018-05-22
+url: https://discourse.slicer.org/t/2888
+---
+
 # LabelMap vs Segment Editor
 
 **Topic ID**: 2888

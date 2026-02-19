@@ -1,3 +1,10 @@
+---
+topic_id: 32481
+title: "How To Reduce Size Of Exported Stl Files"
+date: 2023-10-30
+url: https://discourse.slicer.org/t/32481
+---
+
 # How to reduce size of exported STL files?
 
 **Topic ID**: 32481

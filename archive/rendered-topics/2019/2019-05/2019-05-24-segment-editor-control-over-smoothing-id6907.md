@@ -1,3 +1,10 @@
+---
+topic_id: 6907
+title: "Segment Editor Control Over Smoothing"
+date: 2019-05-24
+url: https://discourse.slicer.org/t/6907
+---
+
 # Segment editor control over smoothing
 
 **Topic ID**: 6907

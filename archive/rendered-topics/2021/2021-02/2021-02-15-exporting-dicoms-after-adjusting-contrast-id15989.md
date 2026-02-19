@@ -1,3 +1,10 @@
+---
+topic_id: 15989
+title: "Exporting Dicoms After Adjusting Contrast"
+date: 2021-02-15
+url: https://discourse.slicer.org/t/15989
+---
+
 # Exporting DICOMS after adjusting contrast
 
 **Topic ID**: 15989

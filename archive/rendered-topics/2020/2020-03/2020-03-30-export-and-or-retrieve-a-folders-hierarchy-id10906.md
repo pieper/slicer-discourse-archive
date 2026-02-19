@@ -1,3 +1,10 @@
+---
+topic_id: 10906
+title: "Export And Or Retrieve A Folders Hierarchy"
+date: 2020-03-30
+url: https://discourse.slicer.org/t/10906
+---
+
 # Export and/or retrieve a folder's hierarchy
 
 **Topic ID**: 10906

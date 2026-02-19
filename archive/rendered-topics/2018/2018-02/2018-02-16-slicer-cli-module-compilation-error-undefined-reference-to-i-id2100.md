@@ -1,3 +1,10 @@
+---
+topic_id: 2100
+title: "Slicer Cli Module Compilation Error Undefined Reference To I"
+date: 2018-02-16
+url: https://discourse.slicer.org/t/2100
+---
+
 # Slicer CLI module compilation error: undefined reference to `itk::GeometryUtilities
 
 **Topic ID**: 2100

@@ -1,3 +1,10 @@
+---
+topic_id: 21127
+title: "Anisotropic Voxel"
+date: 2021-12-18
+url: https://discourse.slicer.org/t/21127
+---
+
 # Anisotropic voxel
 
 **Topic ID**: 21127

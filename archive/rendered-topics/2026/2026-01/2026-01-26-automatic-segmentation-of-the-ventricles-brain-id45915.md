@@ -1,3 +1,10 @@
+---
+topic_id: 45915
+title: "Automatic Segmentation Of The Ventricles Brain"
+date: 2026-01-26
+url: https://discourse.slicer.org/t/45915
+---
+
 # Automatic segmentation of the ventricles (brain)
 
 **Topic ID**: 45915

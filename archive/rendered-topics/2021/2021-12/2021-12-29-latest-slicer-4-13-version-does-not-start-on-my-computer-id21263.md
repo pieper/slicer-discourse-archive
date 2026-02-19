@@ -1,3 +1,10 @@
+---
+topic_id: 21263
+title: "Latest Slicer 4 13 Version Does Not Start On My Computer"
+date: 2021-12-29
+url: https://discourse.slicer.org/t/21263
+---
+
 # Latest Slicer 4.13 version does not start on my computer
 
 **Topic ID**: 21263

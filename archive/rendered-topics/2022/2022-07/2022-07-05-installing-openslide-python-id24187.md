@@ -1,3 +1,10 @@
+---
+topic_id: 24187
+title: "Installing Openslide Python"
+date: 2022-07-05
+url: https://discourse.slicer.org/t/24187
+---
+
 # Installing openslide-python
 
 **Topic ID**: 24187

@@ -1,3 +1,10 @@
+---
+topic_id: 8289
+title: "Exporting Models By Script"
+date: 2019-09-04
+url: https://discourse.slicer.org/t/8289
+---
+
 # Exporting models by script
 
 **Topic ID**: 8289

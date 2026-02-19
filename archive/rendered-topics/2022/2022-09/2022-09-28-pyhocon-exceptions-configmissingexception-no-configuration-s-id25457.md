@@ -1,3 +1,10 @@
+---
+topic_id: 25457
+title: "Pyhocon Exceptions Configmissingexception No Configuration S"
+date: 2022-09-28
+url: https://discourse.slicer.org/t/25457
+---
+
 # pyhocon.exceptions.ConfigMissingException: 'No configuration setting found for key HOME'
 
 **Topic ID**: 25457

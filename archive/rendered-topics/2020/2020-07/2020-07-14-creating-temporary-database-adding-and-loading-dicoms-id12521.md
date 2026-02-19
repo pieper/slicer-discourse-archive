@@ -1,3 +1,10 @@
+---
+topic_id: 12521
+title: "Creating Temporary Database Adding And Loading Dicoms"
+date: 2020-07-14
+url: https://discourse.slicer.org/t/12521
+---
+
 # Creating temporary database, adding and loading Dicoms
 
 **Topic ID**: 12521

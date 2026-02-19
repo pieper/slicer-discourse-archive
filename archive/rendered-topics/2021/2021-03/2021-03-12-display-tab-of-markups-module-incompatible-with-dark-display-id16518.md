@@ -1,3 +1,10 @@
+---
+topic_id: 16518
+title: "Display Tab Of Markups Module Incompatible With Dark Display"
+date: 2021-03-12
+url: https://discourse.slicer.org/t/16518
+---
+
 # Display tab of Markups module incompatible with dark display
 
 **Topic ID**: 16518

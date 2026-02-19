@@ -1,3 +1,10 @@
+---
+topic_id: 44449
+title: "Help With App Development"
+date: 2025-09-11
+url: https://discourse.slicer.org/t/44449
+---
+
 # Help With App development
 
 **Topic ID**: 44449

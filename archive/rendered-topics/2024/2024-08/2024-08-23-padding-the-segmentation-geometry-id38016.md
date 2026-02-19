@@ -1,3 +1,10 @@
+---
+topic_id: 38016
+title: "Padding The Segmentation Geometry"
+date: 2024-08-23
+url: https://discourse.slicer.org/t/38016
+---
+
 # Padding the segmentation geometry
 
 **Topic ID**: 38016

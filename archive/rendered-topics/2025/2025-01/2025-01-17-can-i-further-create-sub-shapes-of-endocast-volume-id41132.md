@@ -1,3 +1,10 @@
+---
+topic_id: 41132
+title: "Can I Further Create Sub Shapes Of Endocast Volume"
+date: 2025-01-17
+url: https://discourse.slicer.org/t/41132
+---
+
 # Can I further create sub-shapes of endocast volume?
 
 **Topic ID**: 41132

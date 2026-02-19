@@ -1,3 +1,10 @@
+---
+topic_id: 10648
+title: "Piece Of C Programming In Itk Examples"
+date: 2020-03-11
+url: https://discourse.slicer.org/t/10648
+---
+
 # Piece of C++ programming in ITK examples
 
 **Topic ID**: 10648

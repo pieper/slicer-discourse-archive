@@ -1,3 +1,10 @@
+---
+topic_id: 43748
+title: "Prevent 3D Slicer To Close On Missing Ram"
+date: 2025-07-17
+url: https://discourse.slicer.org/t/43748
+---
+
 # Prevent 3D Slicer to close on missing RAM
 
 **Topic ID**: 43748

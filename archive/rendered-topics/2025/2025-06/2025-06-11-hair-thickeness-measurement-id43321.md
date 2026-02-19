@@ -1,3 +1,10 @@
+---
+topic_id: 43321
+title: "Hair Thickeness Measurement"
+date: 2025-06-11
+url: https://discourse.slicer.org/t/43321
+---
+
 # Hair thickeness measurement
 
 **Topic ID**: 43321

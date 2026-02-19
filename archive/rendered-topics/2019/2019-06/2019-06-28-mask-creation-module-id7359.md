@@ -1,3 +1,10 @@
+---
+topic_id: 7359
+title: "Mask Creation Module"
+date: 2019-06-28
+url: https://discourse.slicer.org/t/7359
+---
+
 # Mask Creation Module
 
 **Topic ID**: 7359

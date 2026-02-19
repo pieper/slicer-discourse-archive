@@ -1,3 +1,10 @@
+---
+topic_id: 10821
+title: "Administrative Supplement To Support Open Source Science"
+date: 2020-03-24
+url: https://discourse.slicer.org/t/10821
+---
+
 # Administrative supplement to support open Source science
 
 **Topic ID**: 10821

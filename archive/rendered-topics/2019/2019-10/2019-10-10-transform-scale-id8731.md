@@ -1,3 +1,10 @@
+---
+topic_id: 8731
+title: "Transform Scale"
+date: 2019-10-10
+url: https://discourse.slicer.org/t/8731
+---
+
 # Transform: scale
 
 **Topic ID**: 8731

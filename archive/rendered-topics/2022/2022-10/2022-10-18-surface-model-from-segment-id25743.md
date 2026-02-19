@@ -1,3 +1,10 @@
+---
+topic_id: 25743
+title: "Surface Model From Segment"
+date: 2022-10-18
+url: https://discourse.slicer.org/t/25743
+---
+
 # Surface model from segment
 
 **Topic ID**: 25743

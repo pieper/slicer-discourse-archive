@@ -1,3 +1,10 @@
+---
+topic_id: 7970
+title: "Windows Build Is Not Updating"
+date: 2019-08-09
+url: https://discourse.slicer.org/t/7970
+---
+
 # Windows build is not updating
 
 **Topic ID**: 7970

@@ -1,3 +1,10 @@
+---
+topic_id: 36582
+title: "Count Volume And Mean"
+date: 2024-06-04
+url: https://discourse.slicer.org/t/36582
+---
+
 # Count volume and mean
 
 **Topic ID**: 36582

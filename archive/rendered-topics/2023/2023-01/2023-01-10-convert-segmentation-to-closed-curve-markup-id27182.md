@@ -1,3 +1,10 @@
+---
+topic_id: 27182
+title: "Convert Segmentation To Closed Curve Markup"
+date: 2023-01-10
+url: https://discourse.slicer.org/t/27182
+---
+
 # Convert segmentation to closed curve markup
 
 **Topic ID**: 27182

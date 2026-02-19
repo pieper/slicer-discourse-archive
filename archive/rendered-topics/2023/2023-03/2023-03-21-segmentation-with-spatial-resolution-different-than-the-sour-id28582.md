@@ -1,3 +1,10 @@
+---
+topic_id: 28582
+title: "Segmentation With Spatial Resolution Different Than The Sour"
+date: 2023-03-21
+url: https://discourse.slicer.org/t/28582
+---
+
 # Segmentation with spatial resolution different than the source volume
 
 **Topic ID**: 28582

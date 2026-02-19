@@ -1,3 +1,10 @@
+---
+topic_id: 10456
+title: "Screen Capture Module Makes Slicer Hang"
+date: 2020-02-27
+url: https://discourse.slicer.org/t/10456
+---
+
 # Screen Capture module makes Slicer hang
 
 **Topic ID**: 10456

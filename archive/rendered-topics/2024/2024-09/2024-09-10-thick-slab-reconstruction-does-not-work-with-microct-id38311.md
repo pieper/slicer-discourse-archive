@@ -1,3 +1,10 @@
+---
+topic_id: 38311
+title: "Thick Slab Reconstruction Does Not Work With Microct"
+date: 2024-09-10
+url: https://discourse.slicer.org/t/38311
+---
+
 # Thick slab reconstruction does not work with MicroCT
 
 **Topic ID**: 38311

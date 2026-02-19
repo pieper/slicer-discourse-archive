@@ -1,3 +1,10 @@
+---
+topic_id: 34838
+title: "Exporting Stl Of Roi Of Segmented Ribcage"
+date: 2024-03-12
+url: https://discourse.slicer.org/t/34838
+---
+
 # Exporting stl of ROI of segmented ribcage
 
 **Topic ID**: 34838

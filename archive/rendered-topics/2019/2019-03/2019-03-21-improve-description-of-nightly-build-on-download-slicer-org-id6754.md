@@ -1,3 +1,10 @@
+---
+topic_id: 6754
+title: "Improve Description Of Nightly Build On Download Slicer Org"
+date: 2019-03-21
+url: https://discourse.slicer.org/t/6754
+---
+
 # Improve description of nightly build on download.slicer.org
 
 **Topic ID**: 6754

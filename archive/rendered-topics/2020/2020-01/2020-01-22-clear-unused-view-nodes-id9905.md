@@ -1,3 +1,10 @@
+---
+topic_id: 9905
+title: "Clear Unused View Nodes"
+date: 2020-01-22
+url: https://discourse.slicer.org/t/9905
+---
+
 # Clear unused view nodes
 
 **Topic ID**: 9905

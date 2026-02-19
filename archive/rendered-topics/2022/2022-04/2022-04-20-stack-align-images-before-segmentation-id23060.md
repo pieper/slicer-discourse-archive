@@ -1,3 +1,10 @@
+---
+topic_id: 23060
+title: "Stack Align Images Before Segmentation"
+date: 2022-04-20
+url: https://discourse.slicer.org/t/23060
+---
+
 # Stack Align images before segmentation
 
 **Topic ID**: 23060

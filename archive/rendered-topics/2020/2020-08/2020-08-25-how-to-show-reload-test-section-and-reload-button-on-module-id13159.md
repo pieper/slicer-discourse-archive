@@ -1,3 +1,10 @@
+---
+topic_id: 13159
+title: "How To Show Reload Test Section And Reload Button On Module"
+date: 2020-08-25
+url: https://discourse.slicer.org/t/13159
+---
+
 # How to show 'Reload & Test' section and reload button on module panel
 
 **Topic ID**: 13159

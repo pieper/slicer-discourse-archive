@@ -1,3 +1,10 @@
+---
+topic_id: 1505
+title: "Top Of The Mesh"
+date: 2017-11-22
+url: https://discourse.slicer.org/t/1505
+---
+
 # Top of the mesh
 
 **Topic ID**: 1505

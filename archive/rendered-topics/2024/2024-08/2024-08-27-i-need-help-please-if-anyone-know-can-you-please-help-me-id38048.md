@@ -1,3 +1,10 @@
+---
+topic_id: 38048
+title: "I Need Help Please If Anyone Know Can You Please Help Me"
+date: 2024-08-27
+url: https://discourse.slicer.org/t/38048
+---
+
 # I need help please if anyone know, can you please help me
 
 **Topic ID**: 38048

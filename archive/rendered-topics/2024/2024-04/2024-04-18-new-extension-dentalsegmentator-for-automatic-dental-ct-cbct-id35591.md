@@ -1,3 +1,10 @@
+---
+topic_id: 35591
+title: "New Extension Dentalsegmentator For Automatic Dental Ct Cbct"
+date: 2024-04-18
+url: https://discourse.slicer.org/t/35591
+---
+
 # New extension: DentalSegmentator for automatic dental CT & CBCT segmentation
 
 **Topic ID**: 35591

@@ -1,3 +1,10 @@
+---
+topic_id: 32862
+title: "How Does Slicer Repair Damaged Surfaces When Converting Bina"
+date: 2023-11-16
+url: https://discourse.slicer.org/t/32862
+---
+
 # How does slicer repair damaged surfaces when converting binary labelmap into closed surfaces?
 
 **Topic ID**: 32862

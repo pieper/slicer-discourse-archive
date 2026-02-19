@@ -1,3 +1,10 @@
+---
+topic_id: 6113
+title: "Trying To Make 3D Model Of Brain From Mri"
+date: 2019-03-12
+url: https://discourse.slicer.org/t/6113
+---
+
 # Trying to make 3d model of brain from MRI
 
 **Topic ID**: 6113

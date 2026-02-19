@@ -1,3 +1,10 @@
+---
+topic_id: 14956
+title: "Inferior Dental Nerve Tracing"
+date: 2020-12-09
+url: https://discourse.slicer.org/t/14956
+---
+
 # Inferior dental nerve tracing
 
 **Topic ID**: 14956

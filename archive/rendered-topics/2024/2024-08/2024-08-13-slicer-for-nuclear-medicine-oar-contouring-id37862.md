@@ -1,3 +1,10 @@
+---
+topic_id: 37862
+title: "Slicer For Nuclear Medicine Oar Contouring"
+date: 2024-08-13
+url: https://discourse.slicer.org/t/37862
+---
+
 # Slicer for Nuclear Medicine OAR Contouring
 
 **Topic ID**: 37862

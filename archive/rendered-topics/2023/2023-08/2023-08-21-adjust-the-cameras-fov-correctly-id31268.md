@@ -1,3 +1,10 @@
+---
+topic_id: 31268
+title: "Adjust The Cameras Fov Correctly"
+date: 2023-08-21
+url: https://discourse.slicer.org/t/31268
+---
+
 # Adjust the camera's FOV Correctly
 
 **Topic ID**: 31268

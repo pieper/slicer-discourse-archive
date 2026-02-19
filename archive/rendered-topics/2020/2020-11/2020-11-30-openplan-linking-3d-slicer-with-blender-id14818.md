@@ -1,3 +1,10 @@
+---
+topic_id: 14818
+title: "Openplan Linking 3D Slicer With Blender"
+date: 2020-11-30
+url: https://discourse.slicer.org/t/14818
+---
+
 # openPlan (linking 3D Slicer with Blender)
 
 **Topic ID**: 14818

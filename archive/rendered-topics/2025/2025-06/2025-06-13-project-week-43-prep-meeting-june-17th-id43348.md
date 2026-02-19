@@ -1,3 +1,10 @@
+---
+topic_id: 43348
+title: "Project Week 43 Prep Meeting June 17Th"
+date: 2025-06-13
+url: https://discourse.slicer.org/t/43348
+---
+
 # Project Week 43 Prep Meeting (June 17th)
 
 **Topic ID**: 43348

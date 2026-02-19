@@ -1,3 +1,10 @@
+---
+topic_id: 6299
+title: "Colorize Model For Vr"
+date: 2019-03-26
+url: https://discourse.slicer.org/t/6299
+---
+
 # Colorize Model for VR
 
 **Topic ID**: 6299

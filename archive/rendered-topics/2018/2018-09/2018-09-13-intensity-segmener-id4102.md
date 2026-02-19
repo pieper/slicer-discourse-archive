@@ -1,3 +1,10 @@
+---
+topic_id: 4102
+title: "Intensity Segmener"
+date: 2018-09-13
+url: https://discourse.slicer.org/t/4102
+---
+
 # Intensity segmener
 
 **Topic ID**: 4102

@@ -1,3 +1,10 @@
+---
+topic_id: 34749
+title: "Unable To Install Vmtk Using Conda Or Binary"
+date: 2024-03-06
+url: https://discourse.slicer.org/t/34749
+---
+
 # Unable to Install VMTK Using Conda or Binary
 
 **Topic ID**: 34749

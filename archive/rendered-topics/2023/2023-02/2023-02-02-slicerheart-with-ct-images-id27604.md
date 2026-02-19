@@ -1,3 +1,10 @@
+---
+topic_id: 27604
+title: "Slicerheart With Ct Images"
+date: 2023-02-02
+url: https://discourse.slicer.org/t/27604
+---
+
 # SlicerHeart with CT images
 
 **Topic ID**: 27604

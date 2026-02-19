@@ -1,3 +1,10 @@
+---
+topic_id: 2950
+title: "Volume Rendering Crop Roi Inverse"
+date: 2018-05-28
+url: https://discourse.slicer.org/t/2950
+---
+
 # Volume rendering crop ROI - inverse?
 
 **Topic ID**: 2950

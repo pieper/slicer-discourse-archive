@@ -1,3 +1,10 @@
+---
+topic_id: 40502
+title: "Feedback On The Shadows Control In 3D View"
+date: 2024-12-04
+url: https://discourse.slicer.org/t/40502
+---
+
 # Feedback on the shadows control in 3D view
 
 **Topic ID**: 40502

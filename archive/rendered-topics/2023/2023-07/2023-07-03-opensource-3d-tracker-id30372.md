@@ -1,3 +1,10 @@
+---
+topic_id: 30372
+title: "Opensource 3D Tracker"
+date: 2023-07-03
+url: https://discourse.slicer.org/t/30372
+---
+
 # Opensource 3D Tracker
 
 **Topic ID**: 30372

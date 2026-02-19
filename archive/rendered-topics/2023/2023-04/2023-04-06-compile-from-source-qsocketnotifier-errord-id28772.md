@@ -1,3 +1,10 @@
+---
+topic_id: 28772
+title: "Compile From Source Qsocketnotifier Errord"
+date: 2023-04-06
+url: https://discourse.slicer.org/t/28772
+---
+
 # Compile from source - QSocketNotifier errord
 
 **Topic ID**: 28772

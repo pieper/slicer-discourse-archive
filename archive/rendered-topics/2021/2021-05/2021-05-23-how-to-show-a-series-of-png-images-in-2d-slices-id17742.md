@@ -1,3 +1,10 @@
+---
+topic_id: 17742
+title: "How To Show A Series Of Png Images In 2D Slices"
+date: 2021-05-23
+url: https://discourse.slicer.org/t/17742
+---
+
 # How to show a series of png images in 2d slices?
 
 **Topic ID**: 17742

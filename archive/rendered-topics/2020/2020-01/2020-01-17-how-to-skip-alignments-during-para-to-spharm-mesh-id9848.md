@@ -1,3 +1,10 @@
+---
+topic_id: 9848
+title: "How To Skip Alignments During Para To Spharm Mesh"
+date: 2020-01-17
+url: https://discourse.slicer.org/t/9848
+---
+
 # How to skip alignments during para to spharm mesh
 
 **Topic ID**: 9848

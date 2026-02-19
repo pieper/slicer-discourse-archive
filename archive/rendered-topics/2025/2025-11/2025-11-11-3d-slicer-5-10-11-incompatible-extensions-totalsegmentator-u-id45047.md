@@ -1,3 +1,10 @@
+---
+topic_id: 45047
+title: "3D Slicer 5 10 11 Incompatible Extensions Totalsegmentator U"
+date: 2025-11-11
+url: https://discourse.slicer.org/t/45047
+---
+
 # 3D Slicer 5.10-11 incompatible extensions - TotalSegmentator, UpperAirwaySegmentator, CADSWholeBodyCTSeg
 
 **Topic ID**: 45047

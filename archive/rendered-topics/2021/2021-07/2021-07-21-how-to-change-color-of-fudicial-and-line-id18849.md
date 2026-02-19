@@ -1,3 +1,10 @@
+---
+topic_id: 18849
+title: "How To Change Color Of Fudicial And Line"
+date: 2021-07-21
+url: https://discourse.slicer.org/t/18849
+---
+
 # How to change color of fudicial and line?
 
 **Topic ID**: 18849

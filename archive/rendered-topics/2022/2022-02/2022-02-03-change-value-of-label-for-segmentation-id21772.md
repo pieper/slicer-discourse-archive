@@ -1,3 +1,10 @@
+---
+topic_id: 21772
+title: "Change Value Of Label For Segmentation"
+date: 2022-02-03
+url: https://discourse.slicer.org/t/21772
+---
+
 # Change value of label for segmentation
 
 **Topic ID**: 21772

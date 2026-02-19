@@ -1,3 +1,10 @@
+---
+topic_id: 6992
+title: "3D Rendering Of Homogenous Volume"
+date: 2019-06-01
+url: https://discourse.slicer.org/t/6992
+---
+
 # 3d rendering of homogenous volume
 
 **Topic ID**: 6992

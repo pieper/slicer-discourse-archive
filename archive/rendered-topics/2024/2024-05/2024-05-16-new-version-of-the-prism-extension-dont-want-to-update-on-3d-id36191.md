@@ -1,3 +1,10 @@
+---
+topic_id: 36191
+title: "New Version Of The Prism Extension Dont Want To Update On 3D"
+date: 2024-05-16
+url: https://discourse.slicer.org/t/36191
+---
+
 # New version of the PRISM Extension don't want to update on 3D Slicer
 
 **Topic ID**: 36191

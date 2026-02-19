@@ -1,3 +1,10 @@
+---
+topic_id: 26454
+title: "The Spharm Output Meshes Are Not In The Same Coordination Sy"
+date: 2022-11-26
+url: https://discourse.slicer.org/t/26454
+---
+
 # The SPHARM output meshes are not in the same coordination system!
 
 **Topic ID**: 26454

@@ -1,3 +1,10 @@
+---
+topic_id: 22644
+title: "Wavelet Features With Flat Region"
+date: 2022-03-22
+url: https://discourse.slicer.org/t/22644
+---
+
 # Wavelet features with "flat region"?
 
 **Topic ID**: 22644

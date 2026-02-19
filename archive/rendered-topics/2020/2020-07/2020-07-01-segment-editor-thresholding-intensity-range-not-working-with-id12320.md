@@ -1,3 +1,10 @@
+---
+topic_id: 12320
+title: "Segment Editor Thresholding Intensity Range Not Working With"
+date: 2020-07-01
+url: https://discourse.slicer.org/t/12320
+---
+
 # Segment Editor; Thresholding intensity range not working with discrete Hounsfield Units of [0,1,2]
 
 **Topic ID**: 12320

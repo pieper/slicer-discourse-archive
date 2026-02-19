@@ -1,3 +1,10 @@
+---
+topic_id: 1336
+title: "Why Is Master 48 Branch Divergent From Trunk History"
+date: 2017-10-31
+url: https://discourse.slicer.org/t/1336
+---
+
 # Why is master-48 branch divergent from trunk history?
 
 **Topic ID**: 1336

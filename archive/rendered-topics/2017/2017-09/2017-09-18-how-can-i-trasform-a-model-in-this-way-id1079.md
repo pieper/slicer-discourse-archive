@@ -1,3 +1,10 @@
+---
+topic_id: 1079
+title: "How Can I Trasform A Model In This Way"
+date: 2017-09-18
+url: https://discourse.slicer.org/t/1079
+---
+
 # How can I trasform a model in this way?
 
 **Topic ID**: 1079

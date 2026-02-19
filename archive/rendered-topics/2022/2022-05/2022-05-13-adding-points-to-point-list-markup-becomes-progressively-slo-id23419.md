@@ -1,3 +1,10 @@
+---
+topic_id: 23419
+title: "Adding Points To Point List Markup Becomes Progressively Slo"
+date: 2022-05-13
+url: https://discourse.slicer.org/t/23419
+---
+
 # Adding points to Point List Markup becomes progressively slower
 
 **Topic ID**: 23419

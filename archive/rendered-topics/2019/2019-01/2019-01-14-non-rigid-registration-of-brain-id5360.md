@@ -1,3 +1,10 @@
+---
+topic_id: 5360
+title: "Non Rigid Registration Of Brain"
+date: 2019-01-14
+url: https://discourse.slicer.org/t/5360
+---
+
 # Non rigid registration of brain
 
 **Topic ID**: 5360

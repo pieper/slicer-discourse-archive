@@ -1,3 +1,10 @@
+---
+topic_id: 18594
+title: "Transform Resample Contours Rtstructures"
+date: 2021-07-09
+url: https://discourse.slicer.org/t/18594
+---
+
 # Transform & Resample Contours/RTStructures?
 
 **Topic ID**: 18594

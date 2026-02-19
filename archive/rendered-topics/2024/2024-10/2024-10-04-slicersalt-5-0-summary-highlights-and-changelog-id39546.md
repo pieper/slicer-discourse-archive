@@ -1,3 +1,10 @@
+---
+topic_id: 39546
+title: "Slicersalt 5 0 Summary Highlights And Changelog"
+date: 2024-10-04
+url: https://discourse.slicer.org/t/39546
+---
+
 # SlicerSALT 5.0: Summary, Highlights and Changelog
 
 **Topic ID**: 39546

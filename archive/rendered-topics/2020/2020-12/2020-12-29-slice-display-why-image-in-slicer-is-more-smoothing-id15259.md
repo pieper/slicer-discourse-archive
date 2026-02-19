@@ -1,3 +1,10 @@
+---
+topic_id: 15259
+title: "Slice Display Why Image In Slicer Is More Smoothing"
+date: 2020-12-29
+url: https://discourse.slicer.org/t/15259
+---
+
 # Slice display - why image in slicer is more smoothing
 
 **Topic ID**: 15259

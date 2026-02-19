@@ -1,3 +1,10 @@
+---
+topic_id: 10365
+title: "Cbct Generated Lateral Cephalometry"
+date: 2020-02-20
+url: https://discourse.slicer.org/t/10365
+---
+
 # CBCT generated Lateral Cephalometry
 
 **Topic ID**: 10365

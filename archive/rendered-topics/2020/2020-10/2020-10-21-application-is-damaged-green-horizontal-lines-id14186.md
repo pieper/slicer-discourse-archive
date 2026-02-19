@@ -1,3 +1,10 @@
+---
+topic_id: 14186
+title: "Application Is Damaged Green Horizontal Lines"
+date: 2020-10-21
+url: https://discourse.slicer.org/t/14186
+---
+
 # Application is damaged - green horizontal lines
 
 **Topic ID**: 14186

@@ -1,3 +1,10 @@
+---
+topic_id: 26711
+title: "Brain Segmentation Mask"
+date: 2022-12-13
+url: https://discourse.slicer.org/t/26711
+---
+
 # brain segmentation mask
 
 **Topic ID**: 26711

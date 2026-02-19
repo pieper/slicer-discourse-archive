@@ -1,3 +1,10 @@
+---
+topic_id: 16600
+title: "Segment Skeletal Thorax Ribs Thoracic Spine And Sternum"
+date: 2021-03-17
+url: https://discourse.slicer.org/t/16600
+---
+
 # Segment Skeletal thorax (Ribs, Thoracic spine and sternum)
 
 **Topic ID**: 16600

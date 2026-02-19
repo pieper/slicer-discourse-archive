@@ -1,3 +1,10 @@
+---
+topic_id: 17570
+title: "How To Cut Multivolume Dicom Into Single Ones"
+date: 2021-05-11
+url: https://discourse.slicer.org/t/17570
+---
+
 # How to cut multivolume dicom into single ones?
 
 **Topic ID**: 17570

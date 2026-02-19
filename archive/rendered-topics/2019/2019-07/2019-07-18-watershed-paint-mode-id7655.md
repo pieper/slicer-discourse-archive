@@ -1,3 +1,10 @@
+---
+topic_id: 7655
+title: "Watershed Paint Mode"
+date: 2019-07-18
+url: https://discourse.slicer.org/t/7655
+---
+
 # Watershed paint mode
 
 **Topic ID**: 7655

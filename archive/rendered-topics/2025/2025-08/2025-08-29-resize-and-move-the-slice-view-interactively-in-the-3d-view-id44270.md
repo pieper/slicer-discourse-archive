@@ -1,3 +1,10 @@
+---
+topic_id: 44270
+title: "Resize And Move The Slice View Interactively In The 3D View"
+date: 2025-08-29
+url: https://discourse.slicer.org/t/44270
+---
+
 # Resize and move the slice view interactively in the 3D view
 
 **Topic ID**: 44270

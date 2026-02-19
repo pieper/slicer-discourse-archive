@@ -1,3 +1,10 @@
+---
+topic_id: 2557
+title: "Cant Build Slicer Ctk Component Mac 10 12 Qt 5 9"
+date: 2018-04-10
+url: https://discourse.slicer.org/t/2557
+---
+
 # Can't build Slicer CTK component (Mac 10.12, Qt 5.9)
 
 **Topic ID**: 2557

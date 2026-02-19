@@ -1,3 +1,10 @@
+---
+topic_id: 45966
+title: "I Created My Own 3D Slicer For A Hackathon And Won"
+date: 2026-01-28
+url: https://discourse.slicer.org/t/45966
+---
+
 # I created my own 3D slicer for a hackathon and won 
 
 **Topic ID**: 45966

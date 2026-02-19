@@ -1,3 +1,10 @@
+---
+topic_id: 20670
+title: "How To Tell If Mouse Is Over A Viewer"
+date: 2021-11-18
+url: https://discourse.slicer.org/t/20670
+---
+
 # How to tell if mouse is over a viewer
 
 **Topic ID**: 20670

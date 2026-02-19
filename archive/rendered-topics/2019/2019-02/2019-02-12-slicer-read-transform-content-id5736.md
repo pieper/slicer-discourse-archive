@@ -1,3 +1,10 @@
+---
+topic_id: 5736
+title: "Slicer Read Transform Content"
+date: 2019-02-12
+url: https://discourse.slicer.org/t/5736
+---
+
 # Slicer Read Transform Content
 
 **Topic ID**: 5736

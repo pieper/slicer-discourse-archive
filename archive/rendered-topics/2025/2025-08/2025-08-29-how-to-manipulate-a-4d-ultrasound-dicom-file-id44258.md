@@ -1,3 +1,10 @@
+---
+topic_id: 44258
+title: "How To Manipulate A 4D Ultrasound Dicom File"
+date: 2025-08-29
+url: https://discourse.slicer.org/t/44258
+---
+
 # How to manipulate a 4D ultrasound DICOM file
 
 **Topic ID**: 44258

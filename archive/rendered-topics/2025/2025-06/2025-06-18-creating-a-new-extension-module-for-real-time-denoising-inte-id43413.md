@@ -1,3 +1,10 @@
+---
+topic_id: 43413
+title: "Creating A New Extension Module For Real Time Denoising Inte"
+date: 2025-06-18
+url: https://discourse.slicer.org/t/43413
+---
+
 # Creating a new extension module for real-time denoising integrating trained model (.h5 or .pth Model) into a custom module
 
 **Topic ID**: 43413

@@ -1,3 +1,10 @@
+---
+topic_id: 10707
+title: "Labelmap Imported With Wrong Segment Names If Imported Direc"
+date: 2020-03-16
+url: https://discourse.slicer.org/t/10707
+---
+
 # Labelmap imported with wrong segment names, if imported directly as a segmentation
 
 **Topic ID**: 10707

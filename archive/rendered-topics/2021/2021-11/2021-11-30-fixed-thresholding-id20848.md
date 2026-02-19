@@ -1,3 +1,10 @@
+---
+topic_id: 20848
+title: "Fixed Thresholding"
+date: 2021-11-30
+url: https://discourse.slicer.org/t/20848
+---
+
 # Fixed thresholding
 
 **Topic ID**: 20848

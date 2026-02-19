@@ -1,3 +1,10 @@
+---
+topic_id: 28882
+title: "Update Ui Widget After Programmatically Set Values In Volume"
+date: 2023-04-13
+url: https://discourse.slicer.org/t/28882
+---
+
 # Update UI widget after programmatically set values in volume node
 
 **Topic ID**: 28882

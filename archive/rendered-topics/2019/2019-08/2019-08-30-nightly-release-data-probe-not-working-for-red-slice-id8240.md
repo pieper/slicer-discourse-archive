@@ -1,3 +1,10 @@
+---
+topic_id: 8240
+title: "Nightly Release Data Probe Not Working For Red Slice"
+date: 2019-08-30
+url: https://discourse.slicer.org/t/8240
+---
+
 # Nightly Release - Data Probe not working for Red Slice
 
 **Topic ID**: 8240

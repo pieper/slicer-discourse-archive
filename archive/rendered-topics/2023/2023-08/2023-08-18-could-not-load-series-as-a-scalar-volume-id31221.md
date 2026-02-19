@@ -1,3 +1,10 @@
+---
+topic_id: 31221
+title: "Could Not Load Series As A Scalar Volume"
+date: 2023-08-18
+url: https://discourse.slicer.org/t/31221
+---
+
 # Could not load series as a scalar volume
 
 **Topic ID**: 31221

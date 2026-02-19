@@ -1,3 +1,10 @@
+---
+topic_id: 35691
+title: "Segmentation Does Not Fit Into New Geometry"
+date: 2024-04-23
+url: https://discourse.slicer.org/t/35691
+---
+
 # Segmentation does not fit into new geometry
 
 **Topic ID**: 35691

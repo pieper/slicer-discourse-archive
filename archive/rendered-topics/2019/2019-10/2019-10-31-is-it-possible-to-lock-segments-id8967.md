@@ -1,3 +1,10 @@
+---
+topic_id: 8967
+title: "Is It Possible To Lock Segments"
+date: 2019-10-31
+url: https://discourse.slicer.org/t/8967
+---
+
 # Is it possible to lock segments
 
 **Topic ID**: 8967

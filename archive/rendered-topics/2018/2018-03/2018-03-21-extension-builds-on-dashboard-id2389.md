@@ -1,3 +1,10 @@
+---
+topic_id: 2389
+title: "Extension Builds On Dashboard"
+date: 2018-03-21
+url: https://discourse.slicer.org/t/2389
+---
+
 # Extension builds on dashboard
 
 **Topic ID**: 2389

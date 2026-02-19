@@ -1,3 +1,10 @@
+---
+topic_id: 24826
+title: "How To Judge Whether The Order Of 2 Groups Of Points In 3D S"
+date: 2022-08-19
+url: https://discourse.slicer.org/t/24826
+---
+
 # How to judge whether the order of 2 groups of points in 3D space has changed in space?
 
 **Topic ID**: 24826

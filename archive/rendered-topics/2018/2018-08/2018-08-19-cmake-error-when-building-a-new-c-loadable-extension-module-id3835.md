@@ -1,3 +1,10 @@
+---
+topic_id: 3835
+title: "Cmake Error When Building A New C Loadable Extension Module"
+date: 2018-08-19
+url: https://discourse.slicer.org/t/3835
+---
+
 # Cmake error when building a new C++ loadable extension module
 
 **Topic ID**: 3835

@@ -1,3 +1,10 @@
+---
+topic_id: 27499
+title: "Mr Helium Pressure In Dicom Tags"
+date: 2023-01-27
+url: https://discourse.slicer.org/t/27499
+---
+
 # MR Helium Pressure in DICOM TAGS
 
 **Topic ID**: 27499

@@ -1,3 +1,10 @@
+---
+topic_id: 5692
+title: "Elastix Extension For Mac Osx Not Available"
+date: 2019-02-08
+url: https://discourse.slicer.org/t/5692
+---
+
 # Elastix extension for Mac OSX not available
 
 **Topic ID**: 5692

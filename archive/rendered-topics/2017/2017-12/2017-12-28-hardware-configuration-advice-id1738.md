@@ -1,3 +1,10 @@
+---
+topic_id: 1738
+title: "Hardware Configuration Advice"
+date: 2017-12-28
+url: https://discourse.slicer.org/t/1738
+---
+
 # Hardware Configuration advice
 
 **Topic ID**: 1738

@@ -1,3 +1,10 @@
+---
+topic_id: 5248
+title: "Assigning Thresholded Regions To Different Segments"
+date: 2019-01-02
+url: https://discourse.slicer.org/t/5248
+---
+
 # Assigning thresholded regions to different segments
 
 **Topic ID**: 5248

@@ -1,3 +1,10 @@
+---
+topic_id: 5210
+title: "Export Roi Box To Json File"
+date: 2018-12-28
+url: https://discourse.slicer.org/t/5210
+---
+
 # Export ROI box to json file
 
 **Topic ID**: 5210

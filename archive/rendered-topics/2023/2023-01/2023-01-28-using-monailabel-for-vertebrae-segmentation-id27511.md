@@ -1,3 +1,10 @@
+---
+topic_id: 27511
+title: "Using Monailabel For Vertebrae Segmentation"
+date: 2023-01-28
+url: https://discourse.slicer.org/t/27511
+---
+
 # Using MONAILabel for vertebrae segmentation
 
 **Topic ID**: 27511

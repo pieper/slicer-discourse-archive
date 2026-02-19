@@ -1,3 +1,10 @@
+---
+topic_id: 32407
+title: "3D View Rendering Order Issue"
+date: 2023-10-25
+url: https://discourse.slicer.org/t/32407
+---
+
 # 3D view rendering order issue
 
 **Topic ID**: 32407

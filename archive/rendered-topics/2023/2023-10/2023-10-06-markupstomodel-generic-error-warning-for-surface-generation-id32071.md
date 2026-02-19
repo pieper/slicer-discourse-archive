@@ -1,3 +1,10 @@
+---
+topic_id: 32071
+title: "Markupstomodel Generic Error Warning For Surface Generation"
+date: 2023-10-06
+url: https://discourse.slicer.org/t/32071
+---
+
 # MarkupsToModel generic error warning for surface generation
 
 **Topic ID**: 32071

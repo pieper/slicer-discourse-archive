@@ -1,3 +1,10 @@
+---
+topic_id: 7433
+title: "How To Clear Segmentation"
+date: 2019-07-05
+url: https://discourse.slicer.org/t/7433
+---
+
 # How to clear segmentation?
 
 **Topic ID**: 7433

@@ -1,3 +1,10 @@
+---
+topic_id: 13420
+title: "Image Quantization Techniques"
+date: 2020-09-10
+url: https://discourse.slicer.org/t/13420
+---
+
 # Image quantization techniques?
 
 **Topic ID**: 13420

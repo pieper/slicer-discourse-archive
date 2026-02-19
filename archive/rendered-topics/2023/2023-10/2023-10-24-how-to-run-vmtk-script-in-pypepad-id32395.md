@@ -1,3 +1,10 @@
+---
+topic_id: 32395
+title: "How To Run Vmtk Script In Pypepad"
+date: 2023-10-24
+url: https://discourse.slicer.org/t/32395
+---
+
 #  How to run VMTK script in PypePad
 
 **Topic ID**: 32395

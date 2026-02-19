@@ -1,3 +1,10 @@
+---
+topic_id: 7678
+title: "Opening Slicer Using Python Gui"
+date: 2019-07-19
+url: https://discourse.slicer.org/t/7678
+---
+
 # Opening slicer using python gui
 
 **Topic ID**: 7678

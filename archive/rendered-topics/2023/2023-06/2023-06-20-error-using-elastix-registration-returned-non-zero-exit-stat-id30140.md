@@ -1,3 +1,10 @@
+---
+topic_id: 30140
+title: "Error Using Elastix Registration Returned Non Zero Exit Stat"
+date: 2023-06-20
+url: https://discourse.slicer.org/t/30140
+---
+
 # Error using Elastix registration: returned non-zero exit status 1
 
 **Topic ID**: 30140

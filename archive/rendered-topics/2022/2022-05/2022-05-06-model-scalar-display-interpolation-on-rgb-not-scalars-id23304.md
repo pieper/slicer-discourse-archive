@@ -1,3 +1,10 @@
+---
+topic_id: 23304
+title: "Model Scalar Display Interpolation On Rgb Not Scalars"
+date: 2022-05-06
+url: https://discourse.slicer.org/t/23304
+---
+
 # Model Scalar Display interpolation on RGB not Scalars
 
 **Topic ID**: 23304

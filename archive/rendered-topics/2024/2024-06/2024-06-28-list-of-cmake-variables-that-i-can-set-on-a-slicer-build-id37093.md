@@ -1,3 +1,10 @@
+---
+topic_id: 37093
+title: "List Of Cmake Variables That I Can Set On A Slicer Build"
+date: 2024-06-28
+url: https://discourse.slicer.org/t/37093
+---
+
 # List of cmake variables that I can set on a Slicer build?
 
 **Topic ID**: 37093

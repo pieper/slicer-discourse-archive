@@ -1,3 +1,10 @@
+---
+topic_id: 877
+title: "Add A Colormap Table To Slicer"
+date: 2017-08-15
+url: https://discourse.slicer.org/t/877
+---
+
 # Add a colormap table to Slicer
 
 **Topic ID**: 877

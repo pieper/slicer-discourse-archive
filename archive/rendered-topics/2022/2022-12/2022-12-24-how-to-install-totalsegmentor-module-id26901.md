@@ -1,3 +1,10 @@
+---
+topic_id: 26901
+title: "How To Install Totalsegmentor Module"
+date: 2022-12-24
+url: https://discourse.slicer.org/t/26901
+---
+
 # How To Install TotalSegmentor module
 
 **Topic ID**: 26901

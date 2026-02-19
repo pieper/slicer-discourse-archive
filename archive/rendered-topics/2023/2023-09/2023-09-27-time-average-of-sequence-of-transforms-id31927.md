@@ -1,3 +1,10 @@
+---
+topic_id: 31927
+title: "Time Average Of Sequence Of Transforms"
+date: 2023-09-27
+url: https://discourse.slicer.org/t/31927
+---
+
 # Time average of sequence of transforms
 
 **Topic ID**: 31927

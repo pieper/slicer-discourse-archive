@@ -1,3 +1,10 @@
+---
+topic_id: 8664
+title: "3Dslicer Binary Version Crashes With Extension Manager"
+date: 2019-10-03
+url: https://discourse.slicer.org/t/8664
+---
+
 # 3DSlicer (binary version) crashes with extension manager
 
 **Topic ID**: 8664

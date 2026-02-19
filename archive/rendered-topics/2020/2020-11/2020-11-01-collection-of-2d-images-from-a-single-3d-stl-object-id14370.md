@@ -1,3 +1,10 @@
+---
+topic_id: 14370
+title: "Collection Of 2D Images From A Single 3D Stl Object"
+date: 2020-11-01
+url: https://discourse.slicer.org/t/14370
+---
+
 # Collection of 2d images from a single 3d .stl object
 
 **Topic ID**: 14370

@@ -1,3 +1,10 @@
+---
+topic_id: 27653
+title: "When Install The Module Slicerheart 3D Slicer Start Very Slo"
+date: 2023-02-06
+url: https://discourse.slicer.org/t/27653
+---
+
 # When install the module SlicerHeart, 3D Slicer start very slowly
 
 **Topic ID**: 27653

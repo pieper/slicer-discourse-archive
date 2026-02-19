@@ -1,3 +1,10 @@
+---
+topic_id: 32721
+title: "Slice Removing From Nifti Images"
+date: 2023-11-10
+url: https://discourse.slicer.org/t/32721
+---
+
 # Slice removing from NIFTI images
 
 **Topic ID**: 32721

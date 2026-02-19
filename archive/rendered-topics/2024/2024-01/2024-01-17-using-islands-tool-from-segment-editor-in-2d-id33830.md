@@ -1,3 +1,10 @@
+---
+topic_id: 33830
+title: "Using Islands Tool From Segment Editor In 2D"
+date: 2024-01-17
+url: https://discourse.slicer.org/t/33830
+---
+
 # Using "Islands" tool from Segment Editor in 2D
 
 **Topic ID**: 33830

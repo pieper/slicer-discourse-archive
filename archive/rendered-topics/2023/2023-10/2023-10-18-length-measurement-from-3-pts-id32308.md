@@ -1,3 +1,10 @@
+---
+topic_id: 32308
+title: "Length Measurement From 3 Pts"
+date: 2023-10-18
+url: https://discourse.slicer.org/t/32308
+---
+
 # Length measurement from 3 pts
 
 **Topic ID**: 32308

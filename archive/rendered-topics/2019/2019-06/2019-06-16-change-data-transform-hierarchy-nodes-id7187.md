@@ -1,3 +1,10 @@
+---
+topic_id: 7187
+title: "Change Data Transform Hierarchy Nodes"
+date: 2019-06-16
+url: https://discourse.slicer.org/t/7187
+---
+
 # Change data-transform hierarchy nodes
 
 **Topic ID**: 7187

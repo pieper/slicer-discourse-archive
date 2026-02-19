@@ -1,3 +1,10 @@
+---
+topic_id: 25808
+title: "Exceptions In Slicer In Kernel 6 0"
+date: 2022-10-20
+url: https://discourse.slicer.org/t/25808
+---
+
 # Exceptions in Slicer in kernel 6.0
 
 **Topic ID**: 25808

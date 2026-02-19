@@ -1,3 +1,10 @@
+---
+topic_id: 23759
+title: "About Displaying Mni Atlas On Patient Head Mri"
+date: 2022-06-07
+url: https://discourse.slicer.org/t/23759
+---
+
 # About displaying MNI atlas on patient head MRI
 
 **Topic ID**: 23759

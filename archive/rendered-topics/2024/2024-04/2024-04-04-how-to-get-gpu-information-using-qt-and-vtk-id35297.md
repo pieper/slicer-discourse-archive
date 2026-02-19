@@ -1,3 +1,10 @@
+---
+topic_id: 35297
+title: "How To Get Gpu Information Using Qt And Vtk"
+date: 2024-04-04
+url: https://discourse.slicer.org/t/35297
+---
+
 # How to get GPU information using QT and VTK?
 
 **Topic ID**: 35297

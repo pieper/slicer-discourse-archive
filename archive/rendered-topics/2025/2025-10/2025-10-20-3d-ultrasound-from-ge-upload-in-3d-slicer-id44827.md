@@ -1,3 +1,10 @@
+---
+topic_id: 44827
+title: "3D Ultrasound From Ge Upload In 3D Slicer"
+date: 2025-10-20
+url: https://discourse.slicer.org/t/44827
+---
+
 # 3d ultrasound from GE upload in 3d slicer
 
 **Topic ID**: 44827

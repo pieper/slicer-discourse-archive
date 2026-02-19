@@ -1,3 +1,10 @@
+---
+topic_id: 36615
+title: "Postdoc Opportunity In Computer Assisted Surgery"
+date: 2024-06-06
+url: https://discourse.slicer.org/t/36615
+---
+
 # Postdoc Opportunity in Computer-Assisted Surgery
 
 **Topic ID**: 36615

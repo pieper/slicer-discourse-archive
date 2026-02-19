@@ -1,3 +1,10 @@
+---
+topic_id: 42010
+title: "Lung Ct Analyzer Is Not Showing Extended Analysis Results"
+date: 2025-03-07
+url: https://discourse.slicer.org/t/42010
+---
+
 # Lung CT Analyzer is not showing extended analysis results
 
 **Topic ID**: 42010

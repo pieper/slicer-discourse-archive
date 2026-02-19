@@ -1,3 +1,10 @@
+---
+topic_id: 32422
+title: "Text Color In Python Interactor"
+date: 2023-10-26
+url: https://discourse.slicer.org/t/32422
+---
+
 # Text color in python interactor
 
 **Topic ID**: 32422

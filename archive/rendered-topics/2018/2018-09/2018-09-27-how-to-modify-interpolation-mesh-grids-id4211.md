@@ -1,3 +1,10 @@
+---
+topic_id: 4211
+title: "How To Modify Interpolation Mesh Grids"
+date: 2018-09-27
+url: https://discourse.slicer.org/t/4211
+---
+
 # How to modify interpolation mesh grids
 
 **Topic ID**: 4211

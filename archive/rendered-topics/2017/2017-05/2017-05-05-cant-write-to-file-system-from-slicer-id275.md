@@ -1,3 +1,10 @@
+---
+topic_id: 275
+title: "Cant Write To File System From Slicer"
+date: 2017-05-05
+url: https://discourse.slicer.org/t/275
+---
+
 # Can't write to file system from Slicer
 
 **Topic ID**: 275

@@ -1,3 +1,10 @@
+---
+topic_id: 8148
+title: "Dicom Browser Layout"
+date: 2019-08-23
+url: https://discourse.slicer.org/t/8148
+---
+
 # DICOM Browser Layout
 
 **Topic ID**: 8148

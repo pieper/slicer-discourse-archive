@@ -1,3 +1,10 @@
+---
+topic_id: 14930
+title: "Draw A Fixed Sized Segment"
+date: 2020-12-07
+url: https://discourse.slicer.org/t/14930
+---
+
 # Draw a fixed sized segment
 
 **Topic ID**: 14930

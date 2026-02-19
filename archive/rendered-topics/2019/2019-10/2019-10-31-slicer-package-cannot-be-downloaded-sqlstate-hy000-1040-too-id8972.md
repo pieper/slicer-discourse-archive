@@ -1,3 +1,10 @@
+---
+topic_id: 8972
+title: "Slicer Package Cannot Be Downloaded Sqlstate Hy000 1040 Too"
+date: 2019-10-31
+url: https://discourse.slicer.org/t/8972
+---
+
 # Slicer package cannot be downloaded - 'SQLSTATE[HY000] [1040] Too many connections'
 
 **Topic ID**: 8972

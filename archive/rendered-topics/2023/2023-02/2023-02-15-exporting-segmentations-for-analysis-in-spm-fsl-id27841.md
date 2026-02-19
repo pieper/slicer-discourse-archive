@@ -1,3 +1,10 @@
+---
+topic_id: 27841
+title: "Exporting Segmentations For Analysis In Spm Fsl"
+date: 2023-02-15
+url: https://discourse.slicer.org/t/27841
+---
+
 # Exporting segmentations for analysis in SPM/FSL
 
 **Topic ID**: 27841

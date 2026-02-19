@@ -1,3 +1,10 @@
+---
+topic_id: 28270
+title: "Dicom Pacs Retrieve Fail"
+date: 2023-03-10
+url: https://discourse.slicer.org/t/28270
+---
+
 # Dicom PACS retrieve fail
 
 **Topic ID**: 28270

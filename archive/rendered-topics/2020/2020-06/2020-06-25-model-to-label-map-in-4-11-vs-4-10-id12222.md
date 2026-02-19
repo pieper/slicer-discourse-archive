@@ -1,3 +1,10 @@
+---
+topic_id: 12222
+title: "Model To Label Map In 4 11 Vs 4 10"
+date: 2020-06-25
+url: https://discourse.slicer.org/t/12222
+---
+
 # Model To Label Map in 4.11 vs 4.10
 
 **Topic ID**: 12222

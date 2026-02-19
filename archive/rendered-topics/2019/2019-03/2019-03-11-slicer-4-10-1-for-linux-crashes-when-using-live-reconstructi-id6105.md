@@ -1,3 +1,10 @@
+---
+topic_id: 6105
+title: "Slicer 4 10 1 For Linux Crashes When Using Live Reconstructi"
+date: 2019-03-11
+url: https://discourse.slicer.org/t/6105
+---
+
 # Slicer 4.10.1 for linux crashes when using live reconstruction in module Plus Remote
 
 **Topic ID**: 6105

@@ -1,3 +1,10 @@
+---
+topic_id: 36147
+title: "Colormap Loading Issue After Scene Save"
+date: 2024-05-14
+url: https://discourse.slicer.org/t/36147
+---
+
 # Colormap loading issue after scene save
 
 **Topic ID**: 36147

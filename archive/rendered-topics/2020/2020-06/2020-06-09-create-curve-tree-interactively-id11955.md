@@ -1,3 +1,10 @@
+---
+topic_id: 11955
+title: "Create Curve Tree Interactively"
+date: 2020-06-09
+url: https://discourse.slicer.org/t/11955
+---
+
 # Create curve tree interactively?
 
 **Topic ID**: 11955

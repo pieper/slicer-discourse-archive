@@ -1,3 +1,10 @@
+---
+topic_id: 29520
+title: "Its Time To Create Project Pages For Pw39 New Tools Availabl"
+date: 2023-05-17
+url: https://discourse.slicer.org/t/29520
+---
+
 # It's time to create Project Pages for PW39 ! New tools available!
 
 **Topic ID**: 29520

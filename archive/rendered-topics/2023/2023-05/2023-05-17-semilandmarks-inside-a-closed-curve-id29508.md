@@ -1,3 +1,10 @@
+---
+topic_id: 29508
+title: "Semilandmarks Inside A Closed Curve"
+date: 2023-05-17
+url: https://discourse.slicer.org/t/29508
+---
+
 # Semilandmarks inside a closed curve
 
 **Topic ID**: 29508

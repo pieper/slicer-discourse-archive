@@ -1,3 +1,10 @@
+---
+topic_id: 7237
+title: "Adopting Virtualfracturereconstruction Extension"
+date: 2019-06-19
+url: https://discourse.slicer.org/t/7237
+---
+
 # Adopting VirtualFractureReconstruction extension?
 
 **Topic ID**: 7237

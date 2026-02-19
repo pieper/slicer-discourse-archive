@@ -1,3 +1,10 @@
+---
+topic_id: 36547
+title: "Jupyterkernel Error Information"
+date: 2024-06-02
+url: https://discourse.slicer.org/t/36547
+---
+
 # JupyterKernel Error Information
 
 **Topic ID**: 36547

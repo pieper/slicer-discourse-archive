@@ -1,3 +1,10 @@
+---
+topic_id: 270
+title: "Displayed Transform Vs Tfm Content"
+date: 2017-05-04
+url: https://discourse.slicer.org/t/270
+---
+
 # Displayed transform vs .tfm content
 
 **Topic ID**: 270

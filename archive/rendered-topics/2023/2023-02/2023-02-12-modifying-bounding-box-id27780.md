@@ -1,3 +1,10 @@
+---
+topic_id: 27780
+title: "Modifying Bounding Box"
+date: 2023-02-12
+url: https://discourse.slicer.org/t/27780
+---
+
 # Modifying bounding box
 
 **Topic ID**: 27780

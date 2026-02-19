@@ -1,3 +1,10 @@
+---
+topic_id: 9692
+title: "Csf Fluid Dynamics Study Appeal To Community"
+date: 2020-01-02
+url: https://discourse.slicer.org/t/9692
+---
+
 # CSF Fluid Dynamics Study - Appeal to Community
 
 **Topic ID**: 9692

@@ -1,3 +1,10 @@
+---
+topic_id: 29288
+title: "How Can I Use Python Script In Chest Imaging Platform"
+date: 2023-05-04
+url: https://discourse.slicer.org/t/29288
+---
+
 # How can I use Python script in Chest Imaging Platform？
 
 **Topic ID**: 29288

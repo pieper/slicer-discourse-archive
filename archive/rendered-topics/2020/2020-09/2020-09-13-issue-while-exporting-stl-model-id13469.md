@@ -1,3 +1,10 @@
+---
+topic_id: 13469
+title: "Issue While Exporting Stl Model"
+date: 2020-09-13
+url: https://discourse.slicer.org/t/13469
+---
+
 # issue while exporting stl model
 
 **Topic ID**: 13469

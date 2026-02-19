@@ -1,3 +1,10 @@
+---
+topic_id: 12729
+title: "New Decimation Methods Added Quadric And Fast Quadric"
+date: 2020-07-25
+url: https://discourse.slicer.org/t/12729
+---
+
 # New decimation methods added: quadric and fast quadric
 
 **Topic ID**: 12729

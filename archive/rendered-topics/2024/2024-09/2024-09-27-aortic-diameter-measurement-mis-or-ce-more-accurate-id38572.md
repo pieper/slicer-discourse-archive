@@ -1,3 +1,10 @@
+---
+topic_id: 38572
+title: "Aortic Diameter Measurement Mis Or Ce More Accurate"
+date: 2024-09-27
+url: https://discourse.slicer.org/t/38572
+---
+
 # Aortic Diameter Measurement - MIS or CE more accurate?
 
 **Topic ID**: 38572

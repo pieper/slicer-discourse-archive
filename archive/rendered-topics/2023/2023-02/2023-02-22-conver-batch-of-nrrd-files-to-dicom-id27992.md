@@ -1,3 +1,10 @@
+---
+topic_id: 27992
+title: "Conver Batch Of Nrrd Files To Dicom"
+date: 2023-02-22
+url: https://discourse.slicer.org/t/27992
+---
+
 # Conver batch of nrrd files to DICOM
 
 **Topic ID**: 27992

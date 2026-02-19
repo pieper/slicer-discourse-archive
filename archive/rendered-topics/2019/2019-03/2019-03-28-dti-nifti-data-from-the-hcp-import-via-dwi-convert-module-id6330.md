@@ -1,3 +1,10 @@
+---
+topic_id: 6330
+title: "Dti Nifti Data From The Hcp Import Via Dwi Convert Module"
+date: 2019-03-28
+url: https://discourse.slicer.org/t/6330
+---
+
 # DTI Nifti data from the HCP import via DWI Convert Module
 
 **Topic ID**: 6330

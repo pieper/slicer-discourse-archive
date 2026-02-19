@@ -1,3 +1,10 @@
+---
+topic_id: 31562
+title: "Spharm Pdm Extension"
+date: 2023-09-05
+url: https://discourse.slicer.org/t/31562
+---
+
 # SPHARM-PDM extension
 
 **Topic ID**: 31562

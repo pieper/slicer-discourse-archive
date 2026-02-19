@@ -1,3 +1,10 @@
+---
+topic_id: 17710
+title: "Cannot Paint Segments On Video"
+date: 2021-05-20
+url: https://discourse.slicer.org/t/17710
+---
+
 # Cannot paint segments on video
 
 **Topic ID**: 17710

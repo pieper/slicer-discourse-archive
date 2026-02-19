@@ -1,3 +1,10 @@
+---
+topic_id: 36640
+title: "Any Good Way To Cut At The Pickpoint On 1 Branch While Keep"
+date: 2024-06-07
+url: https://discourse.slicer.org/t/36640
+---
+
 # Any good way to Cut at the pickPoint on 1 branch, while keep all the other branches not cut?
 
 **Topic ID**: 36640

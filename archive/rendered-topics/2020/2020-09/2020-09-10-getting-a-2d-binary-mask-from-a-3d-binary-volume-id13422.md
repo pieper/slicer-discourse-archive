@@ -1,3 +1,10 @@
+---
+topic_id: 13422
+title: "Getting A 2D Binary Mask From A 3D Binary Volume"
+date: 2020-09-10
+url: https://discourse.slicer.org/t/13422
+---
+
 # Getting a 2D binary mask from a 3D Binary Volume
 
 **Topic ID**: 13422

@@ -1,3 +1,10 @@
+---
+topic_id: 3583
+title: "Slicer Packaging Qt5 Libraries Link"
+date: 2018-07-26
+url: https://discourse.slicer.org/t/3583
+---
+
 # Slicer packaging Qt5 libraries link
 
 **Topic ID**: 3583

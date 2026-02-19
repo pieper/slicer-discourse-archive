@@ -1,3 +1,10 @@
+---
+topic_id: 37897
+title: "Wich Is The Best Version Of 3D Slicer For Macbook Pro M1 202"
+date: 2024-08-15
+url: https://discourse.slicer.org/t/37897
+---
+
 # Wich is the best version of 3D Slicer for Macbook Pro M1 (2021)
 
 **Topic ID**: 37897

@@ -1,3 +1,10 @@
+---
+topic_id: 9098
+title: "Direct Dicom Image Download From Ultrasound System"
+date: 2019-11-10
+url: https://discourse.slicer.org/t/9098
+---
+
 # Direct DICOM image download from ultrasound system
 
 **Topic ID**: 9098

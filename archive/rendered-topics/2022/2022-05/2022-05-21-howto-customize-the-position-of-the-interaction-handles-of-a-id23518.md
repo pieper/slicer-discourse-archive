@@ -1,3 +1,10 @@
+---
+topic_id: 23518
+title: "Howto Customize The Position Of The Interaction Handles Of A"
+date: 2022-05-21
+url: https://discourse.slicer.org/t/23518
+---
+
 # Howto customize the position of the Interaction handles of a lineNode?
 
 **Topic ID**: 23518

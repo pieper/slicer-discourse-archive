@@ -1,3 +1,10 @@
+---
+topic_id: 17350
+title: "Roi On Slice Intersection"
+date: 2021-04-27
+url: https://discourse.slicer.org/t/17350
+---
+
 # ROI on slice intersection
 
 **Topic ID**: 17350

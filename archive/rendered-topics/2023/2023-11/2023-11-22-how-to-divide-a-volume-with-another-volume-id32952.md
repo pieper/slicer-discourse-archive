@@ -1,3 +1,10 @@
+---
+topic_id: 32952
+title: "How To Divide A Volume With Another Volume"
+date: 2023-11-22
+url: https://discourse.slicer.org/t/32952
+---
+
 # How to divide a volume with another volume
 
 **Topic ID**: 32952

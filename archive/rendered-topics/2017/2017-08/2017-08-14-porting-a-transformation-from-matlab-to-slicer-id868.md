@@ -1,3 +1,10 @@
+---
+topic_id: 868
+title: "Porting A Transformation From Matlab To Slicer"
+date: 2017-08-14
+url: https://discourse.slicer.org/t/868
+---
+
 # Porting a transformation from Matlab to Slicer
 
 **Topic ID**: 868

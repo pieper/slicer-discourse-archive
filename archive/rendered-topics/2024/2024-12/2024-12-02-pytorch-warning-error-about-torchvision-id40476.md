@@ -1,3 +1,10 @@
+---
+topic_id: 40476
+title: "Pytorch Warning Error About Torchvision"
+date: 2024-12-02
+url: https://discourse.slicer.org/t/40476
+---
+
 # pyTorch warning/error about torchvision
 
 **Topic ID**: 40476

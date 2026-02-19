@@ -1,3 +1,10 @@
+---
+topic_id: 31741
+title: "Scalar Color Mapping Has Too Many Control Points"
+date: 2023-09-15
+url: https://discourse.slicer.org/t/31741
+---
+
 # Scalar Color Mapping has too many control points
 
 **Topic ID**: 31741

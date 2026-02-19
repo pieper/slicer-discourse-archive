@@ -1,3 +1,10 @@
+---
+topic_id: 29026
+title: "Is There Any Difference Between Nrrd Converted By Plastimatc"
+date: 2023-04-20
+url: https://discourse.slicer.org/t/29026
+---
+
 # Is there any difference between nrrd converted by plastimatch and slicer? What algorithm is used by slicer to convert to nrrd
 
 **Topic ID**: 29026

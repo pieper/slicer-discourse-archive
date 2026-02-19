@@ -1,3 +1,10 @@
+---
+topic_id: 19762
+title: "Hi Everyone Im New On Slicer I Really Need Some Help"
+date: 2021-09-20
+url: https://discourse.slicer.org/t/19762
+---
+
 # Hi everyone, i'm new on Slicer. I really need some help
 
 **Topic ID**: 19762

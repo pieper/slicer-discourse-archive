@@ -1,3 +1,10 @@
+---
+topic_id: 381
+title: "Poll How Do You Re Generate S4Ext File For Slicer Extensions"
+date: 2017-05-24
+url: https://discourse.slicer.org/t/381
+---
+
 # Poll: How do you (re)generate s4ext file for Slicer ExtensionsIndex?
 
 **Topic ID**: 381

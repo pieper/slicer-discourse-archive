@@ -1,3 +1,10 @@
+---
+topic_id: 1499
+title: "Registration Link For Project Week 27 Is Active"
+date: 2017-11-21
+url: https://discourse.slicer.org/t/1499
+---
+
 # Registration link for Project Week #27 is active
 
 **Topic ID**: 1499

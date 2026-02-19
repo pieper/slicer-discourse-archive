@@ -1,3 +1,10 @@
+---
+topic_id: 31117
+title: "Rfc Can This Module Have A Place In Slicervmtk"
+date: 2023-08-12
+url: https://discourse.slicer.org/t/31117
+---
+
 # RFC : can this module have a place in SlicerVMTK?
 
 **Topic ID**: 31117

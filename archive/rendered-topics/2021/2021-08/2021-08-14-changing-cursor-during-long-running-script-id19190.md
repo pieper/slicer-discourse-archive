@@ -1,3 +1,10 @@
+---
+topic_id: 19190
+title: "Changing Cursor During Long Running Script"
+date: 2021-08-14
+url: https://discourse.slicer.org/t/19190
+---
+
 # Changing cursor during long running script
 
 **Topic ID**: 19190

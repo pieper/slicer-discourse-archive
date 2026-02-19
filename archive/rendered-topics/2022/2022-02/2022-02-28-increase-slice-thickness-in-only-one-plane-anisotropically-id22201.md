@@ -1,3 +1,10 @@
+---
+topic_id: 22201
+title: "Increase Slice Thickness In Only One Plane Anisotropically"
+date: 2022-02-28
+url: https://discourse.slicer.org/t/22201
+---
+
 # Increase slice thickness in only one plane (anisotropically)
 
 **Topic ID**: 22201

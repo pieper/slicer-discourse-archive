@@ -1,3 +1,10 @@
+---
+topic_id: 21940
+title: "Slicer Build On Macos Monterey"
+date: 2022-02-12
+url: https://discourse.slicer.org/t/21940
+---
+
 # Slicer build on macOS Monterey
 
 **Topic ID**: 21940

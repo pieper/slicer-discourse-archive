@@ -1,3 +1,10 @@
+---
+topic_id: 2012
+title: "Dicom Pacs Does Retrieve But Series Do Not Show In Browser"
+date: 2018-02-02
+url: https://discourse.slicer.org/t/2012
+---
+
 # DICOM PACS does retrieve, but series do not show in browser
 
 **Topic ID**: 2012

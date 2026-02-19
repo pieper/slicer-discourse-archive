@@ -1,3 +1,10 @@
+---
+topic_id: 7453
+title: "Track Head Position"
+date: 2019-07-08
+url: https://discourse.slicer.org/t/7453
+---
+
 # Track head position
 
 **Topic ID**: 7453

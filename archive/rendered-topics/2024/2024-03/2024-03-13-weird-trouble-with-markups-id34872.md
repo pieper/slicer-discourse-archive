@@ -1,3 +1,10 @@
+---
+topic_id: 34872
+title: "Weird Trouble With Markups"
+date: 2024-03-13
+url: https://discourse.slicer.org/t/34872
+---
+
 # Weird trouble with markups
 
 **Topic ID**: 34872

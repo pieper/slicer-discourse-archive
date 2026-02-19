@@ -1,3 +1,10 @@
+---
+topic_id: 45827
+title: "How To Superimpose 2 Stl Files Need Help"
+date: 2026-01-19
+url: https://discourse.slicer.org/t/45827
+---
+
 # How to superimpose 2 stl files. Need help
 
 **Topic ID**: 45827

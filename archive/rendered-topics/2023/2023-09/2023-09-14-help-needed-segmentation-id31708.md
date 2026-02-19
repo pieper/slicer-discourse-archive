@@ -1,3 +1,10 @@
+---
+topic_id: 31708
+title: "Help Needed Segmentation"
+date: 2023-09-14
+url: https://discourse.slicer.org/t/31708
+---
+
 # Help needed - Segmentation
 
 **Topic ID**: 31708

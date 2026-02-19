@@ -1,3 +1,10 @@
+---
+topic_id: 41816
+title: "What Are The Best Effects For Segmentation"
+date: 2025-02-21
+url: https://discourse.slicer.org/t/41816
+---
+
 # What are the best effects for segmentation?
 
 **Topic ID**: 41816

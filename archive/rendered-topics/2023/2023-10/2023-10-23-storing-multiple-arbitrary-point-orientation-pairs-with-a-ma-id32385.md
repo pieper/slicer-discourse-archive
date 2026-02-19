@@ -1,3 +1,10 @@
+---
+topic_id: 32385
+title: "Storing Multiple Arbitrary Point Orientation Pairs With A Ma"
+date: 2023-10-23
+url: https://discourse.slicer.org/t/32385
+---
+
 # Storing multiple arbitrary (point, orientation) pairs with a markups curve
 
 **Topic ID**: 32385

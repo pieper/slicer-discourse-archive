@@ -1,3 +1,10 @@
+---
+topic_id: 2569
+title: "Multiple Module Panels"
+date: 2018-04-12
+url: https://discourse.slicer.org/t/2569
+---
+
 # Multiple module panels
 
 **Topic ID**: 2569

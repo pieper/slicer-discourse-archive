@@ -1,3 +1,10 @@
+---
+topic_id: 1661
+title: "How To Decide Threshold Values For Different Structures In C"
+date: 2017-12-14
+url: https://discourse.slicer.org/t/1661
+---
+
 # How to decide threshold values for different structures in CT based on histogram?
 
 **Topic ID**: 1661

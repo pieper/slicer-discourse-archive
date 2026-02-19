@@ -1,3 +1,10 @@
+---
+topic_id: 12679
+title: "Issues Loading Own Nrrd File Into Slicerweb Jupyter Binder T"
+date: 2020-07-22
+url: https://discourse.slicer.org/t/12679
+---
+
 # Issues loading own nrrd file into SlicerWeb Jupyter(Binder tutorial)
 
 **Topic ID**: 12679

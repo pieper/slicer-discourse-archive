@@ -1,3 +1,10 @@
+---
+topic_id: 379
+title: "Transition To Vtk 8 0"
+date: 2017-05-24
+url: https://discourse.slicer.org/t/379
+---
+
 # Transition to VTK 8.0
 
 **Topic ID**: 379

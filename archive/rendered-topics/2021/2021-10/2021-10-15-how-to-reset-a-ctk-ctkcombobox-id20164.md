@@ -1,3 +1,10 @@
+---
+topic_id: 20164
+title: "How To Reset A Ctk Ctkcombobox"
+date: 2021-10-15
+url: https://discourse.slicer.org/t/20164
+---
+
 # How to reset a ctk.ctkComboBox?
 
 **Topic ID**: 20164

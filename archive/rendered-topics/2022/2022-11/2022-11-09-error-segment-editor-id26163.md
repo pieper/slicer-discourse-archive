@@ -1,3 +1,10 @@
+---
+topic_id: 26163
+title: "Error Segment Editor"
+date: 2022-11-09
+url: https://discourse.slicer.org/t/26163
+---
+
 # error segment editor
 
 **Topic ID**: 26163

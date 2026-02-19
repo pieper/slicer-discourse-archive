@@ -1,3 +1,10 @@
+---
+topic_id: 44602
+title: "Exporting Centreline"
+date: 2025-09-26
+url: https://discourse.slicer.org/t/44602
+---
+
 # Exporting centreline 
 
 **Topic ID**: 44602

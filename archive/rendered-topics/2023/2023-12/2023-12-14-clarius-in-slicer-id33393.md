@@ -1,3 +1,10 @@
+---
+topic_id: 33393
+title: "Clarius In Slicer"
+date: 2023-12-14
+url: https://discourse.slicer.org/t/33393
+---
+
 # Clarius in Slicer
 
 **Topic ID**: 33393

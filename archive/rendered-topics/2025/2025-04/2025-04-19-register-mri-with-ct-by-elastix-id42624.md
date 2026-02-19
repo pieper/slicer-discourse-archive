@@ -1,3 +1,10 @@
+---
+topic_id: 42624
+title: "Register Mri With Ct By Elastix"
+date: 2025-04-19
+url: https://discourse.slicer.org/t/42624
+---
+
 # Register MRI with CT by Elastix
 
 **Topic ID**: 42624

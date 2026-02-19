@@ -1,3 +1,10 @@
+---
+topic_id: 30895
+title: "Saving The Model After Fiducial Registration Model With Cbct"
+date: 2023-08-01
+url: https://discourse.slicer.org/t/30895
+---
+
 # Saving the model after Fiducial registration Model with CBCT
 
 **Topic ID**: 30895

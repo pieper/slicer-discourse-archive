@@ -1,3 +1,10 @@
+---
+topic_id: 17977
+title: "How To Decrease The Transparency Of The Segments In 3D View"
+date: 2021-06-06
+url: https://discourse.slicer.org/t/17977
+---
+
 # How to decrease the transparency of the segments in 3D view
 
 **Topic ID**: 17977

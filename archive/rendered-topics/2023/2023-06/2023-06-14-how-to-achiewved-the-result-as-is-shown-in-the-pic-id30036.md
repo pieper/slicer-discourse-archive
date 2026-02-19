@@ -1,3 +1,10 @@
+---
+topic_id: 30036
+title: "How To Achiewved The Result As Is Shown In The Pic"
+date: 2023-06-14
+url: https://discourse.slicer.org/t/30036
+---
+
 # How to achiewved the result as is shown in the pic
 
 **Topic ID**: 30036

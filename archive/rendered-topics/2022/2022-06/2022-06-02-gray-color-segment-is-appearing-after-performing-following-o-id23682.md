@@ -1,3 +1,10 @@
+---
+topic_id: 23682
+title: "Gray Color Segment Is Appearing After Performing Following O"
+date: 2022-06-02
+url: https://discourse.slicer.org/t/23682
+---
+
 # Gray color segment is appearing after performing following operation
 
 **Topic ID**: 23682

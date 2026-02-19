@@ -1,3 +1,10 @@
+---
+topic_id: 4390
+title: "Volume Rendering Shows A Solid Box"
+date: 2018-10-14
+url: https://discourse.slicer.org/t/4390
+---
+
 # Volume rendering shows a solid box
 
 **Topic ID**: 4390

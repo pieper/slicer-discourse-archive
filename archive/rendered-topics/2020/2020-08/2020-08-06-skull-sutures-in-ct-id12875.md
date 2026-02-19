@@ -1,3 +1,10 @@
+---
+topic_id: 12875
+title: "Skull Sutures In Ct"
+date: 2020-08-06
+url: https://discourse.slicer.org/t/12875
+---
+
 # Skull sutures in CT
 
 **Topic ID**: 12875

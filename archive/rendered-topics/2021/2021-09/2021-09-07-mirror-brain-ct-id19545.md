@@ -1,3 +1,10 @@
+---
+topic_id: 19545
+title: "Mirror Brain Ct"
+date: 2021-09-07
+url: https://discourse.slicer.org/t/19545
+---
+
 # Mirror brain CT
 
 **Topic ID**: 19545

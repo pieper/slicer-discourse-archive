@@ -1,3 +1,10 @@
+---
+topic_id: 6091
+title: "Download The Ct Images From Tcia Browser"
+date: 2019-03-10
+url: https://discourse.slicer.org/t/6091
+---
+
 # Download the CT images from TCIA Browser
 
 **Topic ID**: 6091

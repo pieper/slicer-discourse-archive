@@ -1,3 +1,10 @@
+---
+topic_id: 44363
+title: "Digital Orthognathic Planning A Full Workflow For Surgeons T"
+date: 2025-09-05
+url: https://discourse.slicer.org/t/44363
+---
+
 # Digital Orthognathic Planning: A Full Workflow for Surgeons & Trainees using  3D Slicer
 
 **Topic ID**: 44363

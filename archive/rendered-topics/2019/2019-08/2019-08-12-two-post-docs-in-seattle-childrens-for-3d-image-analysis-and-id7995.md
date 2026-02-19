@@ -1,3 +1,10 @@
+---
+topic_id: 7995
+title: "Two Post Docs In Seattle Childrens For 3D Image Analysis And"
+date: 2019-08-12
+url: https://discourse.slicer.org/t/7995
+---
+
 # Two post-docs in Seattle Children's for 3D image analysis and genetics
 
 **Topic ID**: 7995

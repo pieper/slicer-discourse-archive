@@ -1,3 +1,10 @@
+---
+topic_id: 5917
+title: "How To Load With Ctkwidgets And Qmrmlwidgets"
+date: 2019-02-25
+url: https://discourse.slicer.org/t/5917
+---
+
 # How to load with CTKWidgets and qMRMLWidgets
 
 **Topic ID**: 5917

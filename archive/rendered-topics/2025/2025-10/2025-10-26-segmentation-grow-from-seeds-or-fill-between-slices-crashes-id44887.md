@@ -1,3 +1,10 @@
+---
+topic_id: 44887
+title: "Segmentation Grow From Seeds Or Fill Between Slices Crashes"
+date: 2025-10-26
+url: https://discourse.slicer.org/t/44887
+---
+
 # Segmentation grow from seeds or fill between slices crashes
 
 **Topic ID**: 44887

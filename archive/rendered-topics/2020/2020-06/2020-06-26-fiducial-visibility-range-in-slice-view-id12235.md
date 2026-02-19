@@ -1,3 +1,10 @@
+---
+topic_id: 12235
+title: "Fiducial Visibility Range In Slice View"
+date: 2020-06-26
+url: https://discourse.slicer.org/t/12235
+---
+
 # Fiducial visibility range in slice view
 
 **Topic ID**: 12235

@@ -1,3 +1,10 @@
+---
+topic_id: 20781
+title: "Module Panel Resize Due To Data Probe Is Distracting"
+date: 2021-11-24
+url: https://discourse.slicer.org/t/20781
+---
+
 # Module panel resize due to Data Probe is distracting
 
 **Topic ID**: 20781

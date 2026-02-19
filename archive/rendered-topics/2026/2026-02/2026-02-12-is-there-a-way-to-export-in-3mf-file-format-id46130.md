@@ -1,3 +1,10 @@
+---
+topic_id: 46130
+title: "Is There A Way To Export In 3Mf File Format"
+date: 2026-02-12
+url: https://discourse.slicer.org/t/46130
+---
+
 # Is there a way to export in 3mf file format?
 
 **Topic ID**: 46130

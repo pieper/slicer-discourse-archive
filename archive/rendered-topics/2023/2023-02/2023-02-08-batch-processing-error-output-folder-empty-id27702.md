@@ -1,3 +1,10 @@
+---
+topic_id: 27702
+title: "Batch Processing Error Output Folder Empty"
+date: 2023-02-08
+url: https://discourse.slicer.org/t/27702
+---
+
 # Batch Processing error (output folder empty)
 
 **Topic ID**: 27702

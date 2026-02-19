@@ -1,3 +1,10 @@
+---
+topic_id: 2079
+title: "Segmenting Goes Across 3 Slices"
+date: 2018-02-13
+url: https://discourse.slicer.org/t/2079
+---
+
 # Segmenting goes across 3 slices
 
 **Topic ID**: 2079

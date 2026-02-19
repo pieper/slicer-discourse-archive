@@ -1,3 +1,10 @@
+---
+topic_id: 30989
+title: "How To Select A Volume Automatically In Volume Rendering"
+date: 2023-08-05
+url: https://discourse.slicer.org/t/30989
+---
+
 # How to select a volume automatically in volume rendering?
 
 **Topic ID**: 30989

@@ -1,3 +1,10 @@
+---
+topic_id: 1073
+title: "How To Install Pedicle Screws Simulator Extension"
+date: 2017-09-18
+url: https://discourse.slicer.org/t/1073
+---
+
 # How to install pedicle screws simulator extension?
 
 **Topic ID**: 1073

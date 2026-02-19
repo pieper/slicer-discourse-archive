@@ -1,3 +1,10 @@
+---
+topic_id: 9689
+title: "Ai Scientist At Mayo Clinic"
+date: 2020-01-02
+url: https://discourse.slicer.org/t/9689
+---
+
 # AI Scientist at Mayo Clinic
 
 **Topic ID**: 9689

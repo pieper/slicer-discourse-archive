@@ -1,3 +1,10 @@
+---
+topic_id: 44721
+title: "When I Finish Processing In Totalsegmentator Show 3D Is Not"
+date: 2025-10-10
+url: https://discourse.slicer.org/t/44721
+---
+
 # When I finish processing in TotalSegmentator, "Show 3d" is not clickable
 
 **Topic ID**: 44721

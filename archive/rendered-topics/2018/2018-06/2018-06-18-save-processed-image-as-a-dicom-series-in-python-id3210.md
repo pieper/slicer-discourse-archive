@@ -1,3 +1,10 @@
+---
+topic_id: 3210
+title: "Save Processed Image As A Dicom Series In Python"
+date: 2018-06-18
+url: https://discourse.slicer.org/t/3210
+---
+
 # Save processed image as a DICOM series, in python
 
 **Topic ID**: 3210

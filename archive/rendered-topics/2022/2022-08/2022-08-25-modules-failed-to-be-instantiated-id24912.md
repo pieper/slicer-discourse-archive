@@ -1,3 +1,10 @@
+---
+topic_id: 24912
+title: "Modules Failed To Be Instantiated"
+date: 2022-08-25
+url: https://discourse.slicer.org/t/24912
+---
+
 # Modules failed to be instantiated
 
 **Topic ID**: 24912

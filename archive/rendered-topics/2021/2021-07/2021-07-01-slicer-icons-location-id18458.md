@@ -1,3 +1,10 @@
+---
+topic_id: 18458
+title: "Slicer Icons Location"
+date: 2021-07-01
+url: https://discourse.slicer.org/t/18458
+---
+
 # Slicer icons location
 
 **Topic ID**: 18458

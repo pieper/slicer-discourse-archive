@@ -1,3 +1,10 @@
+---
+topic_id: 6003
+title: "Vtk User Manual"
+date: 2019-03-04
+url: https://discourse.slicer.org/t/6003
+---
+
 # VTK User Manual
 
 **Topic ID**: 6003

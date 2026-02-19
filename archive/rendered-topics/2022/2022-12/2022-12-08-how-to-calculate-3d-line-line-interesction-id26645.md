@@ -1,3 +1,10 @@
+---
+topic_id: 26645
+title: "How To Calculate 3D Line Line Interesction"
+date: 2022-12-08
+url: https://discourse.slicer.org/t/26645
+---
+
 # How to calculate 3D line-line interesction?
 
 **Topic ID**: 26645

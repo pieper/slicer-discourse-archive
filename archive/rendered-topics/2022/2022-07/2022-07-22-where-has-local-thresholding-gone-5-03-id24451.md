@@ -1,3 +1,10 @@
+---
+topic_id: 24451
+title: "Where Has Local Thresholding Gone 5 03"
+date: 2022-07-22
+url: https://discourse.slicer.org/t/24451
+---
+
 # Where has local thresholding gone 5.03?
 
 **Topic ID**: 24451

@@ -1,3 +1,10 @@
+---
+topic_id: 33322
+title: "Total Segmentator Whats Happening With This"
+date: 2023-12-10
+url: https://discourse.slicer.org/t/33322
+---
+
 # total segmentator  What's happening with this?
 
 **Topic ID**: 33322

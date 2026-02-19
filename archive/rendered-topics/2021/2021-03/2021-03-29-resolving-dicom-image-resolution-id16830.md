@@ -1,3 +1,10 @@
+---
+topic_id: 16830
+title: "Resolving Dicom Image Resolution"
+date: 2021-03-29
+url: https://discourse.slicer.org/t/16830
+---
+
 # Resolving DICOM image resolution
 
 **Topic ID**: 16830

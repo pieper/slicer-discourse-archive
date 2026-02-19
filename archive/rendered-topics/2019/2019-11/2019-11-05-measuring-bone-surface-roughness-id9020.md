@@ -1,3 +1,10 @@
+---
+topic_id: 9020
+title: "Measuring Bone Surface Roughness"
+date: 2019-11-05
+url: https://discourse.slicer.org/t/9020
+---
+
 # Measuring bone surface roughness
 
 **Topic ID**: 9020

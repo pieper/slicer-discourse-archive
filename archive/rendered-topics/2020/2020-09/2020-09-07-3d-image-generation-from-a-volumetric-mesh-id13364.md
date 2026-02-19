@@ -1,3 +1,10 @@
+---
+topic_id: 13364
+title: "3D Image Generation From A Volumetric Mesh"
+date: 2020-09-07
+url: https://discourse.slicer.org/t/13364
+---
+
 # 3D Image generation from a volumetric mesh
 
 **Topic ID**: 13364

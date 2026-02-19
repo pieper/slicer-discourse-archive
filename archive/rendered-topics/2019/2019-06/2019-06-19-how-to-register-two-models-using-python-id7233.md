@@ -1,3 +1,10 @@
+---
+topic_id: 7233
+title: "How To Register Two Models Using Python"
+date: 2019-06-19
+url: https://discourse.slicer.org/t/7233
+---
+
 # How to register two models using Python?
 
 **Topic ID**: 7233

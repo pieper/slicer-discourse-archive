@@ -1,3 +1,10 @@
+---
+topic_id: 22625
+title: "Scripted Extension Inheretance"
+date: 2022-03-21
+url: https://discourse.slicer.org/t/22625
+---
+
 # Scripted Extension inheretance
 
 **Topic ID**: 22625

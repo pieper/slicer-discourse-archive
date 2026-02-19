@@ -1,3 +1,10 @@
+---
+topic_id: 9937
+title: "3D Slicer Hardware Requirements"
+date: 2020-01-24
+url: https://discourse.slicer.org/t/9937
+---
+
 # 3D Slicer Hardware requirements
 
 **Topic ID**: 9937

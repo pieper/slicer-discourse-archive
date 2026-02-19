@@ -1,3 +1,10 @@
+---
+topic_id: 33867
+title: "Closed Body Surface"
+date: 2024-01-19
+url: https://discourse.slicer.org/t/33867
+---
+
 # Closed body surface
 
 **Topic ID**: 33867

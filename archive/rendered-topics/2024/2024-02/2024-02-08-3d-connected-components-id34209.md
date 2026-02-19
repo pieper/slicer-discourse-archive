@@ -1,3 +1,10 @@
+---
+topic_id: 34209
+title: "3D Connected Components"
+date: 2024-02-08
+url: https://discourse.slicer.org/t/34209
+---
+
 # 3D connected components 
 
 **Topic ID**: 34209

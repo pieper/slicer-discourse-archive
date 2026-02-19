@@ -1,3 +1,10 @@
+---
+topic_id: 10725
+title: "Slicer Constantly Crashing Sometimes During Save"
+date: 2020-03-18
+url: https://discourse.slicer.org/t/10725
+---
+
 # Slicer constantly crashing, sometimes during save. 
 
 **Topic ID**: 10725

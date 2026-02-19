@@ -1,3 +1,10 @@
+---
+topic_id: 8090
+title: "Muscle Segmentation Can You Duplicate A Segment"
+date: 2019-08-19
+url: https://discourse.slicer.org/t/8090
+---
+
 # Muscle segmentation - Can you duplicate a segment?
 
 **Topic ID**: 8090

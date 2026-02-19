@@ -1,3 +1,10 @@
+---
+topic_id: 18092
+title: "Add Button To Maximize View"
+date: 2021-06-09
+url: https://discourse.slicer.org/t/18092
+---
+
 # Add button to maximize view
 
 **Topic ID**: 18092

@@ -1,3 +1,10 @@
+---
+topic_id: 32259
+title: "Run Samm Segment Any Medical Model In 3D Slicer"
+date: 2023-10-17
+url: https://discourse.slicer.org/t/32259
+---
+
 # Run SAMM (Segment Any Medical Model) in 3D Slicer
 
 **Topic ID**: 32259

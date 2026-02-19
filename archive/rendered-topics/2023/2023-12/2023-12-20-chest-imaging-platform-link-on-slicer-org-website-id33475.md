@@ -1,3 +1,10 @@
+---
+topic_id: 33475
+title: "Chest Imaging Platform Link On Slicer Org Website"
+date: 2023-12-20
+url: https://discourse.slicer.org/t/33475
+---
+
 # Chest Imaging Platform link on slicer.org website
 
 **Topic ID**: 33475

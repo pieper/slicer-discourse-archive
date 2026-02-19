@@ -1,3 +1,10 @@
+---
+topic_id: 5523
+title: "How To Run Deconvolution Filters Available At Itk Simple Fil"
+date: 2019-01-26
+url: https://discourse.slicer.org/t/5523
+---
+
 # How to run deconvolution filters available at “itk Simple Filters” module from the command line in linux?
 
 **Topic ID**: 5523

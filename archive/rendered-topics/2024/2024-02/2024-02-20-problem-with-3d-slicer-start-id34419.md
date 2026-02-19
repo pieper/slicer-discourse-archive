@@ -1,3 +1,10 @@
+---
+topic_id: 34419
+title: "Problem With 3D Slicer Start"
+date: 2024-02-20
+url: https://discourse.slicer.org/t/34419
+---
+
 # Problem with 3D Slicer start
 
 **Topic ID**: 34419

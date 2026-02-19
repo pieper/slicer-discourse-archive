@@ -1,3 +1,10 @@
+---
+topic_id: 3179
+title: "Study Name And Number Confused"
+date: 2018-06-14
+url: https://discourse.slicer.org/t/3179
+---
+
 # Study name and number, confused
 
 **Topic ID**: 3179

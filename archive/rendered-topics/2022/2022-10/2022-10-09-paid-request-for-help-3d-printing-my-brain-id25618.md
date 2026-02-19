@@ -1,3 +1,10 @@
+---
+topic_id: 25618
+title: "Paid Request For Help 3D Printing My Brain"
+date: 2022-10-09
+url: https://discourse.slicer.org/t/25618
+---
+
 # (Paid) Request for Help: 3D Printing my Brain
 
 **Topic ID**: 25618

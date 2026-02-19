@@ -1,3 +1,10 @@
+---
+topic_id: 32511
+title: "Minimal Draw Tube Effect"
+date: 2023-10-31
+url: https://discourse.slicer.org/t/32511
+---
+
 # Minimal draw tube effect
 
 **Topic ID**: 32511

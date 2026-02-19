@@ -1,3 +1,10 @@
+---
+topic_id: 14088
+title: "Extension Radiomics Does Not Work In Slicer Version 4 13 0 O"
+date: 2020-10-16
+url: https://discourse.slicer.org/t/14088
+---
+
 # Extension "Radiomics" does not work in Slicer version 4.13.0 on MacBook
 
 **Topic ID**: 14088

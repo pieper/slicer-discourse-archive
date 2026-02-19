@@ -1,3 +1,10 @@
+---
+topic_id: 23817
+title: "Measure Inside A Model"
+date: 2022-06-10
+url: https://discourse.slicer.org/t/23817
+---
+
 # Measure Inside a Model
 
 **Topic ID**: 23817

@@ -1,3 +1,10 @@
+---
+topic_id: 38397
+title: "3D Slicer Online Training For Users October 11Th And Develop"
+date: 2024-09-16
+url: https://discourse.slicer.org/t/38397
+---
+
 # 3D Slicer Online Training for Users (October 11th) and Developers (October 14th)
 
 **Topic ID**: 38397

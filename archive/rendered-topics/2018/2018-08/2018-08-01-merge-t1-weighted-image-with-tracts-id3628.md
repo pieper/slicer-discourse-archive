@@ -1,3 +1,10 @@
+---
+topic_id: 3628
+title: "Merge T1 Weighted Image With Tracts"
+date: 2018-08-01
+url: https://discourse.slicer.org/t/3628
+---
+
 # Merge T1-weighted image with tracts
 
 **Topic ID**: 3628

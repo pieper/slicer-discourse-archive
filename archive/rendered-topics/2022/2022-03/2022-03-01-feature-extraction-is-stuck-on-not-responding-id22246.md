@@ -1,3 +1,10 @@
+---
+topic_id: 22246
+title: "Feature Extraction Is Stuck On Not Responding"
+date: 2022-03-01
+url: https://discourse.slicer.org/t/22246
+---
+
 # feature extraction is stuck on not responding. 
 
 **Topic ID**: 22246

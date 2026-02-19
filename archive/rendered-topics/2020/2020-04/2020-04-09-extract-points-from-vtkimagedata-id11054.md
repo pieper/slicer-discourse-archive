@@ -1,3 +1,10 @@
+---
+topic_id: 11054
+title: "Extract Points From Vtkimagedata"
+date: 2020-04-09
+url: https://discourse.slicer.org/t/11054
+---
+
 # Extract points from vtkImageData
 
 **Topic ID**: 11054

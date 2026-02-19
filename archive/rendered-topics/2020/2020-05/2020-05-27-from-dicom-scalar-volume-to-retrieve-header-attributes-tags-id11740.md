@@ -1,3 +1,10 @@
+---
+topic_id: 11740
+title: "From Dicom Scalar Volume To Retrieve Header Attributes Tags"
+date: 2020-05-27
+url: https://discourse.slicer.org/t/11740
+---
+
 # From DICOM scalar volume to retrieve header attributes/tags
 
 **Topic ID**: 11740

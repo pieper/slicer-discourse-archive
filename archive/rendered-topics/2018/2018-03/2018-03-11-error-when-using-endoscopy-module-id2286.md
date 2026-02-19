@@ -1,3 +1,10 @@
+---
+topic_id: 2286
+title: "Error When Using Endoscopy Module"
+date: 2018-03-11
+url: https://discourse.slicer.org/t/2286
+---
+
 # Error when using Endoscopy module
 
 **Topic ID**: 2286

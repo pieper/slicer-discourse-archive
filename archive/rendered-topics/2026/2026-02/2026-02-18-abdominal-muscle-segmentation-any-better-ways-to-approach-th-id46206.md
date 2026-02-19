@@ -1,3 +1,10 @@
+---
+topic_id: 46206
+title: "Abdominal Muscle Segmentation Any Better Ways To Approach Th"
+date: 2026-02-18
+url: https://discourse.slicer.org/t/46206
+---
+
 # Abdominal Muscle Segmentation any better ways to approach this?
 
 **Topic ID**: 46206

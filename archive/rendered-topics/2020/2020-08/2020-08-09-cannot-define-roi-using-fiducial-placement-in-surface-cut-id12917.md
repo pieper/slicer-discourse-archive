@@ -1,3 +1,10 @@
+---
+topic_id: 12917
+title: "Cannot Define Roi Using Fiducial Placement In Surface Cut"
+date: 2020-08-09
+url: https://discourse.slicer.org/t/12917
+---
+
 # Cannot define ROI using fiducial placement in Surface Cut
 
 **Topic ID**: 12917

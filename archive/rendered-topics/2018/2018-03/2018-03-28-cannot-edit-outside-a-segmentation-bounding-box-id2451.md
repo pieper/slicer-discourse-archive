@@ -1,3 +1,10 @@
+---
+topic_id: 2451
+title: "Cannot Edit Outside A Segmentation Bounding Box"
+date: 2018-03-28
+url: https://discourse.slicer.org/t/2451
+---
+
 # Cannot edit outside a segmentation bounding box
 
 **Topic ID**: 2451

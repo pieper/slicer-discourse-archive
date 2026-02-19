@@ -1,3 +1,10 @@
+---
+topic_id: 356
+title: "Data Probe Widget Is Empty"
+date: 2017-05-21
+url: https://discourse.slicer.org/t/356
+---
+
 # Data Probe widget is empty
 
 **Topic ID**: 356

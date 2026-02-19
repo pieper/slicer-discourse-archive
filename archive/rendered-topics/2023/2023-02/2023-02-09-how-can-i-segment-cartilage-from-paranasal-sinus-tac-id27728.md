@@ -1,3 +1,10 @@
+---
+topic_id: 27728
+title: "How Can I Segment Cartilage From Paranasal Sinus Tac"
+date: 2023-02-09
+url: https://discourse.slicer.org/t/27728
+---
+
 # How can I segment cartilage from paranasal sinus tac
 
 **Topic ID**: 27728

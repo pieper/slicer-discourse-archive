@@ -1,3 +1,10 @@
+---
+topic_id: 3758
+title: "I Dont See Welcome To Slicer Module"
+date: 2018-08-13
+url: https://discourse.slicer.org/t/3758
+---
+
 # I don't see Welcome to Slicer module
 
 **Topic ID**: 3758

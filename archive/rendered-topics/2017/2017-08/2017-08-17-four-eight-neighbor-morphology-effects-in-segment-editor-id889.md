@@ -1,3 +1,10 @@
+---
+topic_id: 889
+title: "Four Eight Neighbor Morphology Effects In Segment Editor"
+date: 2017-08-17
+url: https://discourse.slicer.org/t/889
+---
+
 # Four/Eight Neighbor Morphology Effects in Segment Editor
 
 **Topic ID**: 889

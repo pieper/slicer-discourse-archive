@@ -1,3 +1,10 @@
+---
+topic_id: 22216
+title: "Subject Hierarchy Changes After Reloading Mrb"
+date: 2022-02-28
+url: https://discourse.slicer.org/t/22216
+---
+
 # Subject hierarchy changes after reloading .mrb
 
 **Topic ID**: 22216

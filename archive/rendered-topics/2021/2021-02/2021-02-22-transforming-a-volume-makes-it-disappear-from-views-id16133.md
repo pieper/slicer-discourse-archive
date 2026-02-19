@@ -1,3 +1,10 @@
+---
+topic_id: 16133
+title: "Transforming A Volume Makes It Disappear From Views"
+date: 2021-02-22
+url: https://discourse.slicer.org/t/16133
+---
+
 # Transforming a volume makes it disappear from views
 
 **Topic ID**: 16133

@@ -1,3 +1,10 @@
+---
+topic_id: 21623
+title: "Statistical Shape Model Based Segmentation"
+date: 2022-01-25
+url: https://discourse.slicer.org/t/21623
+---
+
 # Statistical shape Model based segmentation
 
 **Topic ID**: 21623

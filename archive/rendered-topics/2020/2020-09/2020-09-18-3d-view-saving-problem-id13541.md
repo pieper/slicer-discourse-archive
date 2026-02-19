@@ -1,3 +1,10 @@
+---
+topic_id: 13541
+title: "3D View Saving Problem"
+date: 2020-09-18
+url: https://discourse.slicer.org/t/13541
+---
+
 # 3D view saving problem
 
 **Topic ID**: 13541

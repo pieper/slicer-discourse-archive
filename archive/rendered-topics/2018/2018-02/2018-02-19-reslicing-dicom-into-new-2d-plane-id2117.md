@@ -1,3 +1,10 @@
+---
+topic_id: 2117
+title: "Reslicing Dicom Into New 2D Plane"
+date: 2018-02-19
+url: https://discourse.slicer.org/t/2117
+---
+
 # Reslicing DICOM into new 2D plane
 
 **Topic ID**: 2117

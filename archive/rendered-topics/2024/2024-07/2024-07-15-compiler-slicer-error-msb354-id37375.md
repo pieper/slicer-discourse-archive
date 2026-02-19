@@ -1,3 +1,10 @@
+---
+topic_id: 37375
+title: "Compiler Slicer Error Msb354"
+date: 2024-07-15
+url: https://discourse.slicer.org/t/37375
+---
+
 # Compiler slicer error MSB354
 
 **Topic ID**: 37375

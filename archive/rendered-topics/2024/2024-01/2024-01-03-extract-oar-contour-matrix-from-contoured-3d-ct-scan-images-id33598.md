@@ -1,3 +1,10 @@
+---
+topic_id: 33598
+title: "Extract Oar Contour Matrix From Contoured 3D Ct Scan Images"
+date: 2024-01-03
+url: https://discourse.slicer.org/t/33598
+---
+
 # Extract OAR contour matrix from contoured 3D CT-scan images
 
 **Topic ID**: 33598

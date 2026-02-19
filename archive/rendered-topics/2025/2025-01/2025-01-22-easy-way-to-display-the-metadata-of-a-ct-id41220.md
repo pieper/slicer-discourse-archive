@@ -1,3 +1,10 @@
+---
+topic_id: 41220
+title: "Easy Way To Display The Metadata Of A Ct"
+date: 2025-01-22
+url: https://discourse.slicer.org/t/41220
+---
+
 # Easy way to display the metadata of a CT
 
 **Topic ID**: 41220

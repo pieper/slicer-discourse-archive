@@ -1,3 +1,10 @@
+---
+topic_id: 8103
+title: "The Abnormal Moduleselectortoolbar Ui"
+date: 2019-08-20
+url: https://discourse.slicer.org/t/8103
+---
+
 # The abnormal ModuleSelectorToolBar UI
 
 **Topic ID**: 8103

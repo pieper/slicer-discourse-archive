@@ -1,3 +1,10 @@
+---
+topic_id: 4247
+title: "Controlling Brush Diameter Increment When Using Shift Scroll"
+date: 2018-10-01
+url: https://discourse.slicer.org/t/4247
+---
+
 # Controlling brush diameter increment when using Shift+Scroll
 
 **Topic ID**: 4247

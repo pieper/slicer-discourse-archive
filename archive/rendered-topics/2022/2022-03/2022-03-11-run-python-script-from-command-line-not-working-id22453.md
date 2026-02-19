@@ -1,3 +1,10 @@
+---
+topic_id: 22453
+title: "Run Python Script From Command Line Not Working"
+date: 2022-03-11
+url: https://discourse.slicer.org/t/22453
+---
+
 # Run python script from command line not working
 
 **Topic ID**: 22453

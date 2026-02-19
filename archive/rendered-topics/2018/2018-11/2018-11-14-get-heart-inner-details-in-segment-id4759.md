@@ -1,3 +1,10 @@
+---
+topic_id: 4759
+title: "Get Heart Inner Details In Segment"
+date: 2018-11-14
+url: https://discourse.slicer.org/t/4759
+---
+
 # Get heart inner details in segment
 
 **Topic ID**: 4759

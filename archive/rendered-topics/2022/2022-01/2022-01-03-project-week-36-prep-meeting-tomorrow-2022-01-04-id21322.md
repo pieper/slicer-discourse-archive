@@ -1,3 +1,10 @@
+---
+topic_id: 21322
+title: "Project Week 36 Prep Meeting Tomorrow 2022 01 04"
+date: 2022-01-03
+url: https://discourse.slicer.org/t/21322
+---
+
 # Project Week 36 prep meeting tomorrow (2022.01.04)
 
 **Topic ID**: 21322

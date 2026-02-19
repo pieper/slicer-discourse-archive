@@ -1,3 +1,10 @@
+---
+topic_id: 42503
+title: "3D Slicer Doesnt Start"
+date: 2025-04-09
+url: https://discourse.slicer.org/t/42503
+---
+
 # 3D Slicer doesn't start
 
 **Topic ID**: 42503

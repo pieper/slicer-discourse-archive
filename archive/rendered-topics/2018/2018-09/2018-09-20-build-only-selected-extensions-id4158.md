@@ -1,3 +1,10 @@
+---
+topic_id: 4158
+title: "Build Only Selected Extensions"
+date: 2018-09-20
+url: https://discourse.slicer.org/t/4158
+---
+
 # Build only selected extensions
 
 **Topic ID**: 4158

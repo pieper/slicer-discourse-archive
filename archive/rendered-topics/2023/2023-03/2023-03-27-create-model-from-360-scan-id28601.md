@@ -1,3 +1,10 @@
+---
+topic_id: 28601
+title: "Create Model From 360 Scan"
+date: 2023-03-27
+url: https://discourse.slicer.org/t/28601
+---
+
 # create model from 360 scan?
 
 **Topic ID**: 28601

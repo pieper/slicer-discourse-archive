@@ -1,3 +1,10 @@
+---
+topic_id: 14734
+title: "How To Adjust The Thickness"
+date: 2020-11-23
+url: https://discourse.slicer.org/t/14734
+---
+
 # How to adjust the thickness
 
 **Topic ID**: 14734

@@ -1,3 +1,10 @@
+---
+topic_id: 45273
+title: "Alpaca Subsampling"
+date: 2025-11-29
+url: https://discourse.slicer.org/t/45273
+---
+
 # ALPACA subsampling
 
 **Topic ID**: 45273

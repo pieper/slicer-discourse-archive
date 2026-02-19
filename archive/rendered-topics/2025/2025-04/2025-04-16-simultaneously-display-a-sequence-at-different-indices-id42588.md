@@ -1,3 +1,10 @@
+---
+topic_id: 42588
+title: "Simultaneously Display A Sequence At Different Indices"
+date: 2025-04-16
+url: https://discourse.slicer.org/t/42588
+---
+
 # Simultaneously display a sequence at different indices
 
 **Topic ID**: 42588

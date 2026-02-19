@@ -1,3 +1,10 @@
+---
+topic_id: 13982
+title: "A Question With Slicer 4 10 2"
+date: 2020-10-11
+url: https://discourse.slicer.org/t/13982
+---
+
 # A question with slicer 4.10.2
 
 **Topic ID**: 13982

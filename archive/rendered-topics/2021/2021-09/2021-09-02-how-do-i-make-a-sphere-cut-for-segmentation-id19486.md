@@ -1,3 +1,10 @@
+---
+topic_id: 19486
+title: "How Do I Make A Sphere Cut For Segmentation"
+date: 2021-09-02
+url: https://discourse.slicer.org/t/19486
+---
+
 # How do I make a sphere cut for segmentation?
 
 **Topic ID**: 19486

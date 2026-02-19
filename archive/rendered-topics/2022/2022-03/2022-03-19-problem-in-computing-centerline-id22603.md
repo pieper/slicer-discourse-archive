@@ -1,3 +1,10 @@
+---
+topic_id: 22603
+title: "Problem In Computing Centerline"
+date: 2022-03-19
+url: https://discourse.slicer.org/t/22603
+---
+
 # Problem in computing centerline
 
 **Topic ID**: 22603

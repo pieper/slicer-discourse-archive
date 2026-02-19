@@ -1,3 +1,10 @@
+---
+topic_id: 22304
+title: "How Can I Convert The Levelsets Segment Results Can Use Marc"
+date: 2022-03-04
+url: https://discourse.slicer.org/t/22304
+---
+
 # How Can I convert the levelsets segment results(can use marchingcube get surface) to volume mask?
 
 **Topic ID**: 22304

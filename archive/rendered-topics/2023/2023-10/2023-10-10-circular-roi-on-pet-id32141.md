@@ -1,3 +1,10 @@
+---
+topic_id: 32141
+title: "Circular Roi On Pet"
+date: 2023-10-10
+url: https://discourse.slicer.org/t/32141
+---
+
 # Circular ROI on PET
 
 **Topic ID**: 32141

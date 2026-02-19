@@ -1,3 +1,10 @@
+---
+topic_id: 16846
+title: "Rotate Model Around Specific Point"
+date: 2021-03-30
+url: https://discourse.slicer.org/t/16846
+---
+
 # Rotate model around specific point
 
 **Topic ID**: 16846

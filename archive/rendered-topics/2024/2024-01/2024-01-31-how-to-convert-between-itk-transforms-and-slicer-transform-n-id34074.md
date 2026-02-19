@@ -1,3 +1,10 @@
+---
+topic_id: 34074
+title: "How To Convert Between Itk Transforms And Slicer Transform N"
+date: 2024-01-31
+url: https://discourse.slicer.org/t/34074
+---
+
 # How to convert between ITK transforms and Slicer transform nodes?
 
 **Topic ID**: 34074

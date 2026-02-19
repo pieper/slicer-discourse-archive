@@ -1,3 +1,10 @@
+---
+topic_id: 15703
+title: "Separate Vessels From Bones"
+date: 2021-01-27
+url: https://discourse.slicer.org/t/15703
+---
+
 # Separate vessels from bones
 
 **Topic ID**: 15703

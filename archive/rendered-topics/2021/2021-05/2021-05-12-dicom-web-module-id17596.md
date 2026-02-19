@@ -1,3 +1,10 @@
+---
+topic_id: 17596
+title: "Dicom Web Module"
+date: 2021-05-12
+url: https://discourse.slicer.org/t/17596
+---
+
 # DICOM Web module?
 
 **Topic ID**: 17596

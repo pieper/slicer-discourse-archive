@@ -1,3 +1,10 @@
+---
+topic_id: 40470
+title: "Dice Scoring For Mandibular Canal Tracings"
+date: 2024-12-02
+url: https://discourse.slicer.org/t/40470
+---
+
 # Dice scoring for mandibular canal tracings
 
 **Topic ID**: 40470

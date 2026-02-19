@@ -1,3 +1,10 @@
+---
+topic_id: 9746
+title: "How To Export Multiple Volumes And A Rtstruct Into Dicom Fro"
+date: 2020-01-09
+url: https://discourse.slicer.org/t/9746
+---
+
 # How to export multiple volumes and a RTSTRUCT into DICOM from one study
 
 **Topic ID**: 9746

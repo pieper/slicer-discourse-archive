@@ -1,3 +1,10 @@
+---
+topic_id: 36128
+title: "Problems With Segmentation Of Bone Muscle And Fat With Mri I"
+date: 2024-05-13
+url: https://discourse.slicer.org/t/36128
+---
+
 # Problems with segmentation of bone muscle and fat with MRI images
 
 **Topic ID**: 36128

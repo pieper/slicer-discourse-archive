@@ -1,3 +1,10 @@
+---
+topic_id: 34607
+title: "How To Generate A Seg Nrrd File Out Of Multiple Stls With Py"
+date: 2024-02-28
+url: https://discourse.slicer.org/t/34607
+---
+
 # How to generate a .seg.nrrd file out of multiple STLs with Python?
 
 **Topic ID**: 34607

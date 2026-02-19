@@ -1,3 +1,10 @@
+---
+topic_id: 6078
+title: "High Slicer Cpu Usage While Live Streaming"
+date: 2019-03-08
+url: https://discourse.slicer.org/t/6078
+---
+
 # High Slicer CPU usage while live streaming
 
 **Topic ID**: 6078

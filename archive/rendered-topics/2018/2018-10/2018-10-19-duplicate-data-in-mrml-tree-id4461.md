@@ -1,3 +1,10 @@
+---
+topic_id: 4461
+title: "Duplicate Data In Mrml Tree"
+date: 2018-10-19
+url: https://discourse.slicer.org/t/4461
+---
+
 # Duplicate data in MRML tree
 
 **Topic ID**: 4461

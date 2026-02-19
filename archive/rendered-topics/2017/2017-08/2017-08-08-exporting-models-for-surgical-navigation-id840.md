@@ -1,3 +1,10 @@
+---
+topic_id: 840
+title: "Exporting Models For Surgical Navigation"
+date: 2017-08-08
+url: https://discourse.slicer.org/t/840
+---
+
 # Exporting models for surgical navigation
 
 **Topic ID**: 840

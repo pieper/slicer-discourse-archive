@@ -1,3 +1,10 @@
+---
+topic_id: 20588
+title: "Cannot Get Label Layer And Foreground Layer Volumes"
+date: 2021-11-11
+url: https://discourse.slicer.org/t/20588
+---
+
 # Cannot get label layer and foreground layer volumes
 
 **Topic ID**: 20588

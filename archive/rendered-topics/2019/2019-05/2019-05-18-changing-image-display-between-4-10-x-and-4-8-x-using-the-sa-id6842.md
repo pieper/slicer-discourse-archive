@@ -1,3 +1,10 @@
+---
+topic_id: 6842
+title: "Changing Image Display Between 4 10 X And 4 8 X Using The Sa"
+date: 2019-05-18
+url: https://discourse.slicer.org/t/6842
+---
+
 # Changing image display between 4.10.x and 4.8.x using the same Window level and lookup table ?
 
 **Topic ID**: 6842

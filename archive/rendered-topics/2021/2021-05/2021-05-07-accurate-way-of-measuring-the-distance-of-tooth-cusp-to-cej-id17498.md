@@ -1,3 +1,10 @@
+---
+topic_id: 17498
+title: "Accurate Way Of Measuring The Distance Of Tooth Cusp To Cej"
+date: 2021-05-07
+url: https://discourse.slicer.org/t/17498
+---
+
 # Accurate way of measuring the distance of tooth cusp to CEJ
 
 **Topic ID**: 17498

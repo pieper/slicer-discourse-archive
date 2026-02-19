@@ -1,3 +1,10 @@
+---
+topic_id: 8860
+title: "How To Overlay More Than Two Volumes"
+date: 2019-10-22
+url: https://discourse.slicer.org/t/8860
+---
+
 # How to overlay more than two volumes
 
 **Topic ID**: 8860

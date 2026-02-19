@@ -1,3 +1,10 @@
+---
+topic_id: 31632
+title: "How To Make A Translucent Model"
+date: 2023-09-09
+url: https://discourse.slicer.org/t/31632
+---
+
 # How to make a translucent model
 
 **Topic ID**: 31632

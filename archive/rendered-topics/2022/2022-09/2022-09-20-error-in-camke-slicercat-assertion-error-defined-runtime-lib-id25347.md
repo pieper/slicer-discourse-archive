@@ -1,3 +1,10 @@
+---
+topic_id: 25347
+title: "Error In Camke Slicercat Assertion Error Defined Runtime Lib"
+date: 2022-09-20
+url: https://discourse.slicer.org/t/25347
+---
+
 # Error in camke SlicerCAT assertion error [DEFINED;_runtime_lib_dirs]
 
 **Topic ID**: 25347

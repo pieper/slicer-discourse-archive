@@ -1,3 +1,10 @@
+---
+topic_id: 21206
+title: "Slow 2D Slice Update Speed"
+date: 2021-12-25
+url: https://discourse.slicer.org/t/21206
+---
+
 # Slow 2d slice update speed
 
 **Topic ID**: 21206

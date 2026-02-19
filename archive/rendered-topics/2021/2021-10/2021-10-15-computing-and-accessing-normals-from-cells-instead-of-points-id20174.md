@@ -1,3 +1,10 @@
+---
+topic_id: 20174
+title: "Computing And Accessing Normals From Cells Instead Of Points"
+date: 2021-10-15
+url: https://discourse.slicer.org/t/20174
+---
+
 # Computing and accessing normals from cells instead of points
 
 **Topic ID**: 20174

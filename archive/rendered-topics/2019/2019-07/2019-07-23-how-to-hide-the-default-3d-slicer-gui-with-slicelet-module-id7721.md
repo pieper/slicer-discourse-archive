@@ -1,3 +1,10 @@
+---
+topic_id: 7721
+title: "How To Hide The Default 3D Slicer Gui With Slicelet Module"
+date: 2019-07-23
+url: https://discourse.slicer.org/t/7721
+---
+
 # How to hide the default 3D Slicer GUI with Slicelet module?
 
 **Topic ID**: 7721

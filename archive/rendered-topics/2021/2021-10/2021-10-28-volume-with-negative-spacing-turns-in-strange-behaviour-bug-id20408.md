@@ -1,3 +1,10 @@
+---
+topic_id: 20408
+title: "Volume With Negative Spacing Turns In Strange Behaviour Bug"
+date: 2021-10-28
+url: https://discourse.slicer.org/t/20408
+---
+
 # Volume with negative spacing turns in strange behaviour (bug?)
 
 **Topic ID**: 20408

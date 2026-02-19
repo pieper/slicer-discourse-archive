@@ -1,3 +1,10 @@
+---
+topic_id: 30305
+title: "I Want To Use The Software To Do Superimposition Of Cbct Fil"
+date: 2023-06-29
+url: https://discourse.slicer.org/t/30305
+---
+
 # I want to use the software to do superimposition of CBCT files. but when I insert my CBCT in nrrd format, it apear only black and white black not the whole image. as in the picture i attached. what should I do?
 
 **Topic ID**: 30305

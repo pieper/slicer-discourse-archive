@@ -1,3 +1,10 @@
+---
+topic_id: 46210
+title: "Surface Semilandmarking Accounting For Landmark Asymmetry"
+date: 2026-02-18
+url: https://discourse.slicer.org/t/46210
+---
+
 # Surface semilandmarking: accounting for landmark asymmetry?
 
 **Topic ID**: 46210

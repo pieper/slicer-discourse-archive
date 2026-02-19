@@ -1,3 +1,10 @@
+---
+topic_id: 7522
+title: "Loading The Mlc With Rt Plan"
+date: 2019-07-11
+url: https://discourse.slicer.org/t/7522
+---
+
 # Loading the MLC with RT Plan
 
 **Topic ID**: 7522

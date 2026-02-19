@@ -1,3 +1,10 @@
+---
+topic_id: 25983
+title: "Center Slice Given A Markup"
+date: 2022-10-31
+url: https://discourse.slicer.org/t/25983
+---
+
 # Center slice given a markup
 
 **Topic ID**: 25983

@@ -1,3 +1,10 @@
+---
+topic_id: 26604
+title: "How To Use Python Programming To Open And Save Data In Batch"
+date: 2022-12-06
+url: https://discourse.slicer.org/t/26604
+---
+
 # How to use python programming to open and save data in batches?
 
 **Topic ID**: 26604

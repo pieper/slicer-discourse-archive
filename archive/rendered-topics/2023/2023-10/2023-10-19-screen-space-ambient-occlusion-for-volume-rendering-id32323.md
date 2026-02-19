@@ -1,3 +1,10 @@
+---
+topic_id: 32323
+title: "Screen Space Ambient Occlusion For Volume Rendering"
+date: 2023-10-19
+url: https://discourse.slicer.org/t/32323
+---
+
 # Screen-space ambient occlusion for volume rendering
 
 **Topic ID**: 32323

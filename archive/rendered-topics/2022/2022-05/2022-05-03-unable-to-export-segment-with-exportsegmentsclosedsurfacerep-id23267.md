@@ -1,3 +1,10 @@
+---
+topic_id: 23267
+title: "Unable To Export Segment With Exportsegmentsclosedsurfacerep"
+date: 2022-05-03
+url: https://discourse.slicer.org/t/23267
+---
+
 # Unable to export segment with ExportSegmentsClosedSurfaceRepresentationToFiles
 
 **Topic ID**: 23267

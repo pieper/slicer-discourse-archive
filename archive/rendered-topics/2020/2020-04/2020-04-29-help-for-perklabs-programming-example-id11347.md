@@ -1,3 +1,10 @@
+---
+topic_id: 11347
+title: "Help For Perklabs Programming Example"
+date: 2020-04-29
+url: https://discourse.slicer.org/t/11347
+---
+
 # Help for PerkLab's programming example
 
 **Topic ID**: 11347

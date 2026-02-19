@@ -1,3 +1,10 @@
+---
+topic_id: 27580
+title: "How Can I Extract Voxel Indices Of Points Along A Tubular Se"
+date: 2023-02-01
+url: https://discourse.slicer.org/t/27580
+---
+
 # How can I extract voxel indices of points along a tubular segmentation obtained by Draw Tube?
 
 **Topic ID**: 27580

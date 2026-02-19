@@ -1,3 +1,10 @@
+---
+topic_id: 5222
+title: "Emsegmentation Cannot Found"
+date: 2018-12-29
+url: https://discourse.slicer.org/t/5222
+---
+
 # Emsegmentation cannot found
 
 **Topic ID**: 5222

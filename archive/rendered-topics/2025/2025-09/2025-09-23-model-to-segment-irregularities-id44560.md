@@ -1,3 +1,10 @@
+---
+topic_id: 44560
+title: "Model To Segment Irregularities"
+date: 2025-09-23
+url: https://discourse.slicer.org/t/44560
+---
+
 # Model to segment irregularities
 
 **Topic ID**: 44560

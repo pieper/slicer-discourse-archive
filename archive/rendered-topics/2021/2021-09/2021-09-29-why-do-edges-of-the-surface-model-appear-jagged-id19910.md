@@ -1,3 +1,10 @@
+---
+topic_id: 19910
+title: "Why Do Edges Of The Surface Model Appear Jagged"
+date: 2021-09-29
+url: https://discourse.slicer.org/t/19910
+---
+
 # Why do edges of the surface model appear jagged?
 
 **Topic ID**: 19910

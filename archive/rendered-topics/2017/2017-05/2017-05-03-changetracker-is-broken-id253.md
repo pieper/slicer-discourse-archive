@@ -1,3 +1,10 @@
+---
+topic_id: 253
+title: "Changetracker Is Broken"
+date: 2017-05-03
+url: https://discourse.slicer.org/t/253
+---
+
 # ChangeTracker is broken
 
 **Topic ID**: 253

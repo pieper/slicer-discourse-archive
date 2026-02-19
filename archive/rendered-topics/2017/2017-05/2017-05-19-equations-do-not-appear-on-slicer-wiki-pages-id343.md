@@ -1,3 +1,10 @@
+---
+topic_id: 343
+title: "Equations Do Not Appear On Slicer Wiki Pages"
+date: 2017-05-19
+url: https://discourse.slicer.org/t/343
+---
+
 # Equations do not appear on Slicer wiki pages
 
 **Topic ID**: 343

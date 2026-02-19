@@ -1,3 +1,10 @@
+---
+topic_id: 22994
+title: "Migrate The 3D Slicer To My Own Program"
+date: 2022-04-18
+url: https://discourse.slicer.org/t/22994
+---
+
 # Migrate the 3D slicer to my own program
 
 **Topic ID**: 22994

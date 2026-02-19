@@ -1,3 +1,10 @@
+---
+topic_id: 37013
+title: "Upcoming 3D Slicer Virtual Training Course September 9 10 20"
+date: 2024-06-25
+url: https://discourse.slicer.org/t/37013
+---
+
 # Upcoming 3D Slicer Virtual Training Course: September 9-10, 2024
 
 **Topic ID**: 37013

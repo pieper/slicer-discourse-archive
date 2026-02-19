@@ -1,3 +1,10 @@
+---
+topic_id: 22600
+title: "Unable To Open Extension In 3Dslicer"
+date: 2022-03-19
+url: https://discourse.slicer.org/t/22600
+---
+
 # Unable to open extension in 3DSlicer
 
 **Topic ID**: 22600

@@ -1,3 +1,10 @@
+---
+topic_id: 33466
+title: "Python Interpreter Arguments Containing Special Characters"
+date: 2023-12-20
+url: https://discourse.slicer.org/t/33466
+---
+
 # Python interpreter arguments containing special characters
 
 **Topic ID**: 33466

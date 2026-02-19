@@ -1,3 +1,10 @@
+---
+topic_id: 9533
+title: "How To Open Tre File"
+date: 2019-12-17
+url: https://discourse.slicer.org/t/9533
+---
+
 # How to open .TRE file?
 
 **Topic ID**: 9533

@@ -1,3 +1,10 @@
+---
+topic_id: 2129
+title: "Same Volume Calculated On Mri And Ct"
+date: 2018-02-20
+url: https://discourse.slicer.org/t/2129
+---
+
 # Same volume calculated on MRI and CT?
 
 **Topic ID**: 2129

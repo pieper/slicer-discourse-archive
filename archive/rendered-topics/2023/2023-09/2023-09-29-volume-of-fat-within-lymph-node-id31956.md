@@ -1,3 +1,10 @@
+---
+topic_id: 31956
+title: "Volume Of Fat Within Lymph Node"
+date: 2023-09-29
+url: https://discourse.slicer.org/t/31956
+---
+
 # Volume of fat within lymph node
 
 **Topic ID**: 31956

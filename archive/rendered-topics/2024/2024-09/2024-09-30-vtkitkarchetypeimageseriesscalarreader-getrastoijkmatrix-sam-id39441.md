@@ -1,3 +1,10 @@
+---
+topic_id: 39441
+title: "Vtkitkarchetypeimageseriesscalarreader Getrastoijkmatrix Sam"
+date: 2024-09-30
+url: https://discourse.slicer.org/t/39441
+---
+
 # vtkITKArchetypeImageSeriesScalarReader:: GetRasToIjkMatrix Same DicomFiles but Different result
 
 **Topic ID**: 39441

@@ -1,3 +1,10 @@
+---
+topic_id: 15095
+title: "Failed To Connect To Server 127 0 0 1 4100"
+date: 2020-12-16
+url: https://discourse.slicer.org/t/15095
+---
+
 # _Failed to connect to server 127.0.0.1:4100
 
 **Topic ID**: 15095

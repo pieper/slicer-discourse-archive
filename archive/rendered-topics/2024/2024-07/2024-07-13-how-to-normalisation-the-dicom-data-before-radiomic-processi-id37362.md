@@ -1,3 +1,10 @@
+---
+topic_id: 37362
+title: "How To Normalisation The Dicom Data Before Radiomic Processi"
+date: 2024-07-13
+url: https://discourse.slicer.org/t/37362
+---
+
 # How to normalisation the DICOM data before radiomic processing
 
 **Topic ID**: 37362

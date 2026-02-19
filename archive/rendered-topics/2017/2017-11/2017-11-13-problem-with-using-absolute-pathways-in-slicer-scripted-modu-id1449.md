@@ -1,3 +1,10 @@
+---
+topic_id: 1449
+title: "Problem With Using Absolute Pathways In Slicer Scripted Modu"
+date: 2017-11-13
+url: https://discourse.slicer.org/t/1449
+---
+
 # Problem with using absolute pathways in Slicer scripted modules
 
 **Topic ID**: 1449

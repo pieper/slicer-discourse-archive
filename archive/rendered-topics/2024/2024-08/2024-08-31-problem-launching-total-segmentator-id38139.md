@@ -1,3 +1,10 @@
+---
+topic_id: 38139
+title: "Problem Launching Total Segmentator"
+date: 2024-08-31
+url: https://discourse.slicer.org/t/38139
+---
+
 # Problem launching total segmentator
 
 **Topic ID**: 38139

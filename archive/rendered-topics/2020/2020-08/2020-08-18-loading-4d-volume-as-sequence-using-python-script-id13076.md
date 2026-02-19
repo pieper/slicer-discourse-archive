@@ -1,3 +1,10 @@
+---
+topic_id: 13076
+title: "Loading 4D Volume As Sequence Using Python Script"
+date: 2020-08-18
+url: https://discourse.slicer.org/t/13076
+---
+
 # Loading 4D volume as Sequence using python script
 
 **Topic ID**: 13076

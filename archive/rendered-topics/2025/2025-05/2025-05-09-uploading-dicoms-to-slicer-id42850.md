@@ -1,3 +1,10 @@
+---
+topic_id: 42850
+title: "Uploading Dicoms To Slicer"
+date: 2025-05-09
+url: https://discourse.slicer.org/t/42850
+---
+
 # Uploading DICOMs to Slicer
 
 **Topic ID**: 42850

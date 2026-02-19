@@ -1,3 +1,10 @@
+---
+topic_id: 32435
+title: "How To Setup Subject Hierarchy Tree Filtering"
+date: 2023-10-26
+url: https://discourse.slicer.org/t/32435
+---
+
 # How to setup subject hierarchy tree filtering?
 
 **Topic ID**: 32435

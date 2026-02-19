@@ -1,3 +1,10 @@
+---
+topic_id: 4899
+title: "Brush Size Control By Key"
+date: 2018-11-28
+url: https://discourse.slicer.org/t/4899
+---
+
 # Brush size control by key
 
 **Topic ID**: 4899

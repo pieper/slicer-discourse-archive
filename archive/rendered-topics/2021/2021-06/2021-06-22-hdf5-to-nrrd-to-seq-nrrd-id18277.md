@@ -1,3 +1,10 @@
+---
+topic_id: 18277
+title: "Hdf5 To Nrrd To Seq Nrrd"
+date: 2021-06-22
+url: https://discourse.slicer.org/t/18277
+---
+
 # Hdf5 to NRRD to SEQ.NRRD
 
 **Topic ID**: 18277

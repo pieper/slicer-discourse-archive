@@ -1,3 +1,10 @@
+---
+topic_id: 29064
+title: "Error Message Qt Ctksliderwidget Setsinglestep 0 Is Out Of B"
+date: 2023-04-22
+url: https://discourse.slicer.org/t/29064
+---
+
 # Error message:[Qt] ctkSliderWidget::setSingleStep() 0 is out of bounds. 0 100 1
 
 **Topic ID**: 29064

@@ -1,3 +1,10 @@
+---
+topic_id: 20520
+title: "How To Recognize The Magnification Factor In 3D Viewer"
+date: 2021-11-07
+url: https://discourse.slicer.org/t/20520
+---
+
 # How to recognize the magnification factor in 3D Viewer
 
 **Topic ID**: 20520

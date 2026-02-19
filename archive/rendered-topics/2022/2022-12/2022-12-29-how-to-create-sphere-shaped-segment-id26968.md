@@ -1,3 +1,10 @@
+---
+topic_id: 26968
+title: "How To Create Sphere Shaped Segment"
+date: 2022-12-29
+url: https://discourse.slicer.org/t/26968
+---
+
 # How to create sphere-shaped segment?
 
 **Topic ID**: 26968

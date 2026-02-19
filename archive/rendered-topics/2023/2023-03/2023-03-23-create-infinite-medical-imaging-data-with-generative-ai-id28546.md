@@ -1,3 +1,10 @@
+---
+topic_id: 28546
+title: "Create Infinite Medical Imaging Data With Generative Ai"
+date: 2023-03-23
+url: https://discourse.slicer.org/t/28546
+---
+
 # Create Infinite Medical Imaging Data With Generative AI
 
 **Topic ID**: 28546

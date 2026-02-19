@@ -1,3 +1,10 @@
+---
+topic_id: 33473
+title: "Isodose Curve In Pet Mri Or Pet Ct Exams"
+date: 2023-12-20
+url: https://discourse.slicer.org/t/33473
+---
+
 # Isodose Curve in PET MRI or PET CT exams
 
 **Topic ID**: 33473

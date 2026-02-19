@@ -1,3 +1,10 @@
+---
+topic_id: 23609
+title: "How To Implement Lobe And Vessel Segmentation In Lung Ct Seg"
+date: 2022-05-27
+url: https://discourse.slicer.org/t/23609
+---
+
 # How to implement lobe and vessel segmentation in Lung CT Segmenter?
 
 **Topic ID**: 23609

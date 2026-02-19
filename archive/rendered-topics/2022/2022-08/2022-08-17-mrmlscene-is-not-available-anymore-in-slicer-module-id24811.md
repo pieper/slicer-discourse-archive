@@ -1,3 +1,10 @@
+---
+topic_id: 24811
+title: "Mrmlscene Is Not Available Anymore In Slicer Module"
+date: 2022-08-17
+url: https://discourse.slicer.org/t/24811
+---
+
 # mrmlScene is not available anymore in slicer module
 
 **Topic ID**: 24811

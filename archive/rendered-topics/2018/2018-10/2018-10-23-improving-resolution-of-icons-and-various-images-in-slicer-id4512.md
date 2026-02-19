@@ -1,3 +1,10 @@
+---
+topic_id: 4512
+title: "Improving Resolution Of Icons And Various Images In Slicer"
+date: 2018-10-23
+url: https://discourse.slicer.org/t/4512
+---
+
 # Improving resolution of icons and various images in Slicer
 
 **Topic ID**: 4512

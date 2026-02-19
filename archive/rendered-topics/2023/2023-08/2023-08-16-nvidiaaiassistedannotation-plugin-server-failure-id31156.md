@@ -1,3 +1,10 @@
+---
+topic_id: 31156
+title: "Nvidiaaiassistedannotation Plugin Server Failure"
+date: 2023-08-16
+url: https://discourse.slicer.org/t/31156
+---
+
 # NvidiaAIAssistedAnnotation plugin server failure
 
 **Topic ID**: 31156

@@ -1,3 +1,10 @@
+---
+topic_id: 15777
+title: "Problems With Python And Meshtolabelmap With Slicer 4 11 Pyt"
+date: 2021-02-01
+url: https://discourse.slicer.org/t/15777
+---
+
 # Problems with Python and meshtolabelmap with Slicer 4.11 (python module worked on Slicer 4.10)
 
 **Topic ID**: 15777

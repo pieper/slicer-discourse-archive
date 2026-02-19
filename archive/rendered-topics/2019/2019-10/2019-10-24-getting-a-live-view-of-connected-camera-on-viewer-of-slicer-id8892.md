@@ -1,3 +1,10 @@
+---
+topic_id: 8892
+title: "Getting A Live View Of Connected Camera On Viewer Of Slicer"
+date: 2019-10-24
+url: https://discourse.slicer.org/t/8892
+---
+
 # Getting a live view of connected camera on viewer of Slicer
 
 **Topic ID**: 8892

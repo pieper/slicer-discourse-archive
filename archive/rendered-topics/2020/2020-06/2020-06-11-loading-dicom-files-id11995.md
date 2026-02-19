@@ -1,3 +1,10 @@
+---
+topic_id: 11995
+title: "Loading Dicom Files"
+date: 2020-06-11
+url: https://discourse.slicer.org/t/11995
+---
+
 # Loading DICOM files
 
 **Topic ID**: 11995

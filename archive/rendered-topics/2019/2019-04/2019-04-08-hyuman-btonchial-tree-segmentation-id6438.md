@@ -1,3 +1,10 @@
+---
+topic_id: 6438
+title: "Hyuman Btonchial Tree Segmentation"
+date: 2019-04-08
+url: https://discourse.slicer.org/t/6438
+---
+
 # Hyuman btonchial tree segmentation
 
 **Topic ID**: 6438

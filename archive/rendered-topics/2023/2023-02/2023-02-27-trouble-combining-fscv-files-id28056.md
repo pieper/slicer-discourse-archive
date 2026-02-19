@@ -1,3 +1,10 @@
+---
+topic_id: 28056
+title: "Trouble Combining Fscv Files"
+date: 2023-02-27
+url: https://discourse.slicer.org/t/28056
+---
+
 # trouble combining .fscv files
 
 **Topic ID**: 28056

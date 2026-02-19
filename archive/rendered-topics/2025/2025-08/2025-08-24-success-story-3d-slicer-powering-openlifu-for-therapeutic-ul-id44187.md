@@ -1,3 +1,10 @@
+---
+topic_id: 44187
+title: "Success Story 3D Slicer Powering Openlifu For Therapeutic Ul"
+date: 2025-08-24
+url: https://discourse.slicer.org/t/44187
+---
+
 # Success story: 3D Slicer powering OpenLIFU for therapeutic ultrasound research
 
 **Topic ID**: 44187

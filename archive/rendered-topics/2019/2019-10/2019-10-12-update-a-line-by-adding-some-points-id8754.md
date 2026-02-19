@@ -1,3 +1,10 @@
+---
+topic_id: 8754
+title: "Update A Line By Adding Some Points"
+date: 2019-10-12
+url: https://discourse.slicer.org/t/8754
+---
+
 # Update a line by adding some points
 
 **Topic ID**: 8754

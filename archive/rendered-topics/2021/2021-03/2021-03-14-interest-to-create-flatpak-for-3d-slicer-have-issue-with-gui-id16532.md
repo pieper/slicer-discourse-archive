@@ -1,3 +1,10 @@
+---
+topic_id: 16532
+title: "Interest To Create Flatpak For 3D Slicer Have Issue With Gui"
+date: 2021-03-14
+url: https://discourse.slicer.org/t/16532
+---
+
 # Interest to create Flatpak for 3D Slicer, have issue with GUISupportQtOpenGL not found
 
 **Topic ID**: 16532

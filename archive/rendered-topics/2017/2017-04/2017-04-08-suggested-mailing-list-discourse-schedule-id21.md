@@ -1,3 +1,10 @@
+---
+topic_id: 21
+title: "Suggested Mailing List Discourse Schedule"
+date: 2017-04-08
+url: https://discourse.slicer.org/t/21
+---
+
 # Suggested mailing list -> Discourse schedule
 
 **Topic ID**: 21

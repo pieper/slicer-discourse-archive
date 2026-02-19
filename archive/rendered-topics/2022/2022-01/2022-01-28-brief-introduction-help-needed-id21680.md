@@ -1,3 +1,10 @@
+---
+topic_id: 21680
+title: "Brief Introduction Help Needed"
+date: 2022-01-28
+url: https://discourse.slicer.org/t/21680
+---
+
 # Brief Introduction. Help needed
 
 **Topic ID**: 21680

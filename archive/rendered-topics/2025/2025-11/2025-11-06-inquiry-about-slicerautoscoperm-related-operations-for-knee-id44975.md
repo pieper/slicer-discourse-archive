@@ -1,3 +1,10 @@
+---
+topic_id: 44975
+title: "Inquiry About Slicerautoscoperm Related Operations For Knee"
+date: 2025-11-06
+url: https://discourse.slicer.org/t/44975
+---
+
 # Inquiry about SlicerAutoscoperM-related Operations for Knee Joint Research and Video Tutorials
 
 **Topic ID**: 44975

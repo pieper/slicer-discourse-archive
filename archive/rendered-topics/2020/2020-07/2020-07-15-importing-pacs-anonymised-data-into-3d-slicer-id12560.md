@@ -1,3 +1,10 @@
+---
+topic_id: 12560
+title: "Importing Pacs Anonymised Data Into 3D Slicer"
+date: 2020-07-15
+url: https://discourse.slicer.org/t/12560
+---
+
 # Importing PACs anonymised data into 3D Slicer
 
 **Topic ID**: 12560

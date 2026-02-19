@@ -1,3 +1,10 @@
+---
+topic_id: 21185
+title: "How To Paint A Pedicle Screw By Hounsfield Unit"
+date: 2021-12-22
+url: https://discourse.slicer.org/t/21185
+---
+
 # How to "paint" a pedicle screw by hounsfield unit?
 
 **Topic ID**: 21185

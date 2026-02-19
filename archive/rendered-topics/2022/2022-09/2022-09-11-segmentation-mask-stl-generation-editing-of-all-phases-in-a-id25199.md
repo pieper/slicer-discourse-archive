@@ -1,3 +1,10 @@
+---
+topic_id: 25199
+title: "Segmentation Mask Stl Generation Editing Of All Phases In A"
+date: 2022-09-11
+url: https://discourse.slicer.org/t/25199
+---
+
 # Segmentation Mask/STL generation/Editing of all phases in a 4D Cardiac MRI dataset
 
 **Topic ID**: 25199

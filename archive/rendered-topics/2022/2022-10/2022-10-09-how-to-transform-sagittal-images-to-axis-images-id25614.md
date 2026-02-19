@@ -1,3 +1,10 @@
+---
+topic_id: 25614
+title: "How To Transform Sagittal Images To Axis Images"
+date: 2022-10-09
+url: https://discourse.slicer.org/t/25614
+---
+
 # How to transform sagittal images to Axis images？
 
 **Topic ID**: 25614

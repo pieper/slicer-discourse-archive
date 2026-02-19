@@ -1,3 +1,10 @@
+---
+topic_id: 8970
+title: "Accurate Measurement Of Defect Skull Area"
+date: 2019-10-31
+url: https://discourse.slicer.org/t/8970
+---
+
 # Accurate measurement of defect skull area. 
 
 **Topic ID**: 8970

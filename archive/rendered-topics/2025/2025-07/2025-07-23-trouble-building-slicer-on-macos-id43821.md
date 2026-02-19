@@ -1,3 +1,10 @@
+---
+topic_id: 43821
+title: "Trouble Building Slicer On Macos"
+date: 2025-07-23
+url: https://discourse.slicer.org/t/43821
+---
+
 # Trouble Building Slicer on macOS
 
 **Topic ID**: 43821

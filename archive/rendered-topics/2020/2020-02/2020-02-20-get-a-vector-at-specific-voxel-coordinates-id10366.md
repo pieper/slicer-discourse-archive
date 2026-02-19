@@ -1,3 +1,10 @@
+---
+topic_id: 10366
+title: "Get A Vector At Specific Voxel Coordinates"
+date: 2020-02-20
+url: https://discourse.slicer.org/t/10366
+---
+
 # Get a vector at specific voxel coordinates
 
 **Topic ID**: 10366

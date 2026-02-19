@@ -1,3 +1,10 @@
+---
+topic_id: 22114
+title: "Dicom And Stl Dont Match"
+date: 2022-02-22
+url: https://discourse.slicer.org/t/22114
+---
+
 # DICOM and STL don't match.
 
 **Topic ID**: 22114

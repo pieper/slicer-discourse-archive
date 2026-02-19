@@ -1,3 +1,10 @@
+---
+topic_id: 28724
+title: "Create Markups Lines From Csv File"
+date: 2023-04-03
+url: https://discourse.slicer.org/t/28724
+---
+
 # Create markups lines from .csv file
 
 **Topic ID**: 28724

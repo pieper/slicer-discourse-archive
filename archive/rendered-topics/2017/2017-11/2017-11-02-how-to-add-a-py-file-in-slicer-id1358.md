@@ -1,3 +1,10 @@
+---
+topic_id: 1358
+title: "How To Add A Py File In Slicer"
+date: 2017-11-02
+url: https://discourse.slicer.org/t/1358
+---
+
 # How to add a .py file in Slicer?
 
 **Topic ID**: 1358

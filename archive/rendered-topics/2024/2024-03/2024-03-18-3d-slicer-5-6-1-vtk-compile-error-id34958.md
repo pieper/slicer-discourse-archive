@@ -1,3 +1,10 @@
+---
+topic_id: 34958
+title: "3D Slicer 5 6 1 Vtk Compile Error"
+date: 2024-03-18
+url: https://discourse.slicer.org/t/34958
+---
+
 # 3d slicer 5.6.1 vtk compile error
 
 **Topic ID**: 34958

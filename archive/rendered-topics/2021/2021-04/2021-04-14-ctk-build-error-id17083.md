@@ -1,3 +1,10 @@
+---
+topic_id: 17083
+title: "Ctk Build Error"
+date: 2021-04-14
+url: https://discourse.slicer.org/t/17083
+---
+
 # CTK build error
 
 **Topic ID**: 17083

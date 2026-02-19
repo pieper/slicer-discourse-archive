@@ -1,3 +1,10 @@
+---
+topic_id: 20030
+title: "Cross Section Area Plot And Transforms"
+date: 2021-10-06
+url: https://discourse.slicer.org/t/20030
+---
+
 # Cross-section area plot and transforms
 
 **Topic ID**: 20030

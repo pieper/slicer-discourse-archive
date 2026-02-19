@@ -1,3 +1,10 @@
+---
+topic_id: 12101
+title: "Build Issue With Slicer 4 10 2 On Centos8"
+date: 2020-06-18
+url: https://discourse.slicer.org/t/12101
+---
+
 # Build Issue with Slicer-4.10.2 on centOS8
 
 **Topic ID**: 12101

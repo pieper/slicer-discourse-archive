@@ -1,3 +1,10 @@
+---
+topic_id: 3424
+title: "Problem With Lung Lesion Segmentation"
+date: 2018-07-09
+url: https://discourse.slicer.org/t/3424
+---
+
 # Problem with Lung lesion segmentation
 
 **Topic ID**: 3424

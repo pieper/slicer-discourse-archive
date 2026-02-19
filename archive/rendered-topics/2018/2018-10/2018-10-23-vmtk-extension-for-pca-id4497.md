@@ -1,3 +1,10 @@
+---
+topic_id: 4497
+title: "Vmtk Extension For Pca"
+date: 2018-10-23
+url: https://discourse.slicer.org/t/4497
+---
+
 # VMTK extension for PCA
 
 **Topic ID**: 4497

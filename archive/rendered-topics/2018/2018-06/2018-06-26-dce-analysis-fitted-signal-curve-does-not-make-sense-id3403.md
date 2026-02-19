@@ -1,3 +1,10 @@
+---
+topic_id: 3403
+title: "Dce Analysis Fitted Signal Curve Does Not Make Sense"
+date: 2018-06-26
+url: https://discourse.slicer.org/t/3403
+---
+
 # DCE analysis - Fitted signal curve does not make sense
 
 **Topic ID**: 3403

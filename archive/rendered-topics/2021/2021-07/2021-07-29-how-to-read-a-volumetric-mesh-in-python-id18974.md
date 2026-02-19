@@ -1,3 +1,10 @@
+---
+topic_id: 18974
+title: "How To Read A Volumetric Mesh In Python"
+date: 2021-07-29
+url: https://discourse.slicer.org/t/18974
+---
+
 # How to read a volumetric mesh in python?
 
 **Topic ID**: 18974

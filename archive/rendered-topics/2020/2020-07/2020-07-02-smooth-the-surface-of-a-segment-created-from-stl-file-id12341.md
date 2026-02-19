@@ -1,3 +1,10 @@
+---
+topic_id: 12341
+title: "Smooth The Surface Of A Segment Created From Stl File"
+date: 2020-07-02
+url: https://discourse.slicer.org/t/12341
+---
+
 # Smooth the surface of a segment created from stl file
 
 **Topic ID**: 12341

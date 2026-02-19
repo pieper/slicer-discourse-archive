@@ -1,3 +1,10 @@
+---
+topic_id: 37312
+title: "How To Register Donut Shaped Markers"
+date: 2024-07-10
+url: https://discourse.slicer.org/t/37312
+---
+
 # How to register donut-shaped markers
 
 **Topic ID**: 37312

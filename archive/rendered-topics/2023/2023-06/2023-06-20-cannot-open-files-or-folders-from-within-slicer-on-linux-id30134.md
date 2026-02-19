@@ -1,3 +1,10 @@
+---
+topic_id: 30134
+title: "Cannot Open Files Or Folders From Within Slicer On Linux"
+date: 2023-06-20
+url: https://discourse.slicer.org/t/30134
+---
+
 # Cannot open files or folders from within Slicer on Linux
 
 **Topic ID**: 30134

@@ -1,3 +1,10 @@
+---
+topic_id: 19359
+title: "Unable To Manually Install Extension To Manual Slicer Build"
+date: 2021-08-25
+url: https://discourse.slicer.org/t/19359
+---
+
 # Unable to manually install extension to manual Slicer build
 
 **Topic ID**: 19359

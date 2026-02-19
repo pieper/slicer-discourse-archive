@@ -1,3 +1,10 @@
+---
+topic_id: 17849
+title: "Can We View Data In 3D Slicer From Gcs Google Cloud Storage"
+date: 2021-05-28
+url: https://discourse.slicer.org/t/17849
+---
+
 # Can we view Data in 3D slicer from GCS (Google Cloud Storage) Bucket? Is there any workaround that can be followed in order to achieve this?
 
 **Topic ID**: 17849

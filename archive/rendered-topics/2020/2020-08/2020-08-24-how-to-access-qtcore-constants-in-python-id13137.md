@@ -1,3 +1,10 @@
+---
+topic_id: 13137
+title: "How To Access Qtcore Constants In Python"
+date: 2020-08-24
+url: https://discourse.slicer.org/t/13137
+---
+
 # How to access qtcore constants in Python?
 
 **Topic ID**: 13137

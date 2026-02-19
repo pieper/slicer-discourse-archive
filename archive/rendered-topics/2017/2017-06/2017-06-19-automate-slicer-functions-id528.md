@@ -1,3 +1,10 @@
+---
+topic_id: 528
+title: "Automate Slicer Functions"
+date: 2017-06-19
+url: https://discourse.slicer.org/t/528
+---
+
 # Automate Slicer functions
 
 **Topic ID**: 528

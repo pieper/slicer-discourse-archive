@@ -1,3 +1,10 @@
+---
+topic_id: 14068
+title: "How To Obtain The Complete Center Lines Using Vmtk"
+date: 2020-10-16
+url: https://discourse.slicer.org/t/14068
+---
+
 # How to obtain the complete center lines using VMTK?
 
 **Topic ID**: 14068

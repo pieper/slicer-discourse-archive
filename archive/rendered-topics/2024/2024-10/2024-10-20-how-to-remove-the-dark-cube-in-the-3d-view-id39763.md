@@ -1,3 +1,10 @@
+---
+topic_id: 39763
+title: "How To Remove The Dark Cube In The 3D View"
+date: 2024-10-20
+url: https://discourse.slicer.org/t/39763
+---
+
 # How to remove the dark cube in the 3d view
 
 **Topic ID**: 39763

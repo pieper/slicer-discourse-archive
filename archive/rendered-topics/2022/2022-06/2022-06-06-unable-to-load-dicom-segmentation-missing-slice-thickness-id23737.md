@@ -1,3 +1,10 @@
+---
+topic_id: 23737
+title: "Unable To Load Dicom Segmentation Missing Slice Thickness"
+date: 2022-06-06
+url: https://discourse.slicer.org/t/23737
+---
+
 # Unable to load DICOM segmentation - missing slice thickness
 
 **Topic ID**: 23737

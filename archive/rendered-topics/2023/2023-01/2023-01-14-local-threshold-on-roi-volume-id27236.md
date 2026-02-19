@@ -1,3 +1,10 @@
+---
+topic_id: 27236
+title: "Local Threshold On Roi Volume"
+date: 2023-01-14
+url: https://discourse.slicer.org/t/27236
+---
+
 # Local threshold on ROI volume
 
 **Topic ID**: 27236

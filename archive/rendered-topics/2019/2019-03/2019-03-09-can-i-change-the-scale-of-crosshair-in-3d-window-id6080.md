@@ -1,3 +1,10 @@
+---
+topic_id: 6080
+title: "Can I Change The Scale Of Crosshair In 3D Window"
+date: 2019-03-09
+url: https://discourse.slicer.org/t/6080
+---
+
 # Can I change the scale of Crosshair in 3d window
 
 **Topic ID**: 6080

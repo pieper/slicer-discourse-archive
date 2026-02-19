@@ -1,3 +1,10 @@
+---
+topic_id: 17264
+title: "How To Update Position Rotation Of Segmented Dicom Volume"
+date: 2021-04-23
+url: https://discourse.slicer.org/t/17264
+---
+
 # How to update position, rotation of segmented Dicom volume?
 
 **Topic ID**: 17264

@@ -1,3 +1,10 @@
+---
+topic_id: 4370
+title: "2018 10 12 Do Not Expect Macos Nightly Build"
+date: 2018-10-11
+url: https://discourse.slicer.org/t/4370
+---
+
 # 2018.10.12: Do not expect macOS nightly build
 
 **Topic ID**: 4370

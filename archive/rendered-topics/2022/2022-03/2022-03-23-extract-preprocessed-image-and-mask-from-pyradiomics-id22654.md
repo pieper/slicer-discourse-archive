@@ -1,3 +1,10 @@
+---
+topic_id: 22654
+title: "Extract Preprocessed Image And Mask From Pyradiomics"
+date: 2022-03-23
+url: https://discourse.slicer.org/t/22654
+---
+
 # Extract preprocessed image and mask from Pyradiomics
 
 **Topic ID**: 22654

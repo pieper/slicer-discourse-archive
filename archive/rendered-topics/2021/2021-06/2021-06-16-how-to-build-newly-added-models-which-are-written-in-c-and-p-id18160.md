@@ -1,3 +1,10 @@
+---
+topic_id: 18160
+title: "How To Build Newly Added Models Which Are Written In C And P"
+date: 2021-06-16
+url: https://discourse.slicer.org/t/18160
+---
+
 # How to build newly added models which are written in C++ and python
 
 **Topic ID**: 18160

@@ -1,3 +1,10 @@
+---
+topic_id: 3048
+title: "Error With Pkmodeling Extension"
+date: 2018-06-02
+url: https://discourse.slicer.org/t/3048
+---
+
 # Error with Pkmodeling extension
 
 **Topic ID**: 3048

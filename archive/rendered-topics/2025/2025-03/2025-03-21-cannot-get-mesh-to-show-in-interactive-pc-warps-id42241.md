@@ -1,3 +1,10 @@
+---
+topic_id: 42241
+title: "Cannot Get Mesh To Show In Interactive Pc Warps"
+date: 2025-03-21
+url: https://discourse.slicer.org/t/42241
+---
+
 # Cannot get mesh to show in interactive PC warps
 
 **Topic ID**: 42241

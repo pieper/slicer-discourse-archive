@@ -1,3 +1,10 @@
+---
+topic_id: 32820
+title: "Fit Sphere To Points"
+date: 2023-11-14
+url: https://discourse.slicer.org/t/32820
+---
+
 # Fit sphere to points
 
 **Topic ID**: 32820

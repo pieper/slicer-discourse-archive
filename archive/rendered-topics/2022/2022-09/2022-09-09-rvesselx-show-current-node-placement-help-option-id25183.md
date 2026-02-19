@@ -1,3 +1,10 @@
+---
+topic_id: 25183
+title: "Rvesselx Show Current Node Placement Help Option"
+date: 2022-09-09
+url: https://discourse.slicer.org/t/25183
+---
+
 # RVesselX show current node placement help option
 
 **Topic ID**: 25183

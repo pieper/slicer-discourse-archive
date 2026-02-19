@@ -1,3 +1,10 @@
+---
+topic_id: 32799
+title: "Tumour Segmentation Enquiry"
+date: 2023-11-14
+url: https://discourse.slicer.org/t/32799
+---
+
 # Tumour Segmentation enquiry
 
 **Topic ID**: 32799

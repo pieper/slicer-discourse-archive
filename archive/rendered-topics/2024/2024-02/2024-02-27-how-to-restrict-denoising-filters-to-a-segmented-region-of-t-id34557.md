@@ -1,3 +1,10 @@
+---
+topic_id: 34557
+title: "How To Restrict Denoising Filters To A Segmented Region Of T"
+date: 2024-02-27
+url: https://discourse.slicer.org/t/34557
+---
+
 # How to restrict denoising filters to a segmented region of the VOI
 
 **Topic ID**: 34557

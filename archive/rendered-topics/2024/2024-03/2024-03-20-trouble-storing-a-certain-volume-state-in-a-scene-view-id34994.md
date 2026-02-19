@@ -1,3 +1,10 @@
+---
+topic_id: 34994
+title: "Trouble Storing A Certain Volume State In A Scene View"
+date: 2024-03-20
+url: https://discourse.slicer.org/t/34994
+---
+
 # Trouble Storing a certain Volume State in a Scene View
 
 **Topic ID**: 34994

@@ -1,3 +1,10 @@
+---
+topic_id: 1595
+title: "Visualise Fmri Results In 3D"
+date: 2017-12-05
+url: https://discourse.slicer.org/t/1595
+---
+
 # visualise fMRI results in 3D 
 
 **Topic ID**: 1595

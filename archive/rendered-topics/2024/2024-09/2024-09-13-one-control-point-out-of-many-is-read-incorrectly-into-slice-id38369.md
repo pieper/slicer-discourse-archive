@@ -1,3 +1,10 @@
+---
+topic_id: 38369
+title: "One Control Point Out Of Many Is Read Incorrectly Into Slice"
+date: 2024-09-13
+url: https://discourse.slicer.org/t/38369
+---
+
 # One control point out of many is read incorrectly into Slicer
 
 **Topic ID**: 38369

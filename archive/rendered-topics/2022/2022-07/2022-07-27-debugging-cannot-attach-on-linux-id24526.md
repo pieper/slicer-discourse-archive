@@ -1,3 +1,10 @@
+---
+topic_id: 24526
+title: "Debugging Cannot Attach On Linux"
+date: 2022-07-27
+url: https://discourse.slicer.org/t/24526
+---
+
 # Debugging cannot attach on Linux?
 
 **Topic ID**: 24526

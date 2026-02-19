@@ -1,3 +1,10 @@
+---
+topic_id: 25709
+title: "How To Get The Normalized Image File"
+date: 2022-10-14
+url: https://discourse.slicer.org/t/25709
+---
+
 # How to get the normalized image (file)?
 
 **Topic ID**: 25709

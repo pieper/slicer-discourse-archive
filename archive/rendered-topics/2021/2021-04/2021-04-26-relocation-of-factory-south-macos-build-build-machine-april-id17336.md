@@ -1,3 +1,10 @@
+---
+topic_id: 17336
+title: "Relocation Of Factory South Macos Build Build Machine April"
+date: 2021-04-26
+url: https://discourse.slicer.org/t/17336
+---
+
 # Relocation of factory-south-macos build build machine (April 26th, 2021)
 
 **Topic ID**: 17336

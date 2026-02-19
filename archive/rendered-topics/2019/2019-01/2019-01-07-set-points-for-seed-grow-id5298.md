@@ -1,3 +1,10 @@
+---
+topic_id: 5298
+title: "Set Points For Seed Grow"
+date: 2019-01-07
+url: https://discourse.slicer.org/t/5298
+---
+
 # Set points for seed grow
 
 **Topic ID**: 5298

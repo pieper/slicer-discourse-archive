@@ -1,3 +1,10 @@
+---
+topic_id: 13059
+title: "Roi Fiducial Placement In Surface Cut"
+date: 2020-08-17
+url: https://discourse.slicer.org/t/13059
+---
+
 # ROI fiducial placement in Surface Cut
 
 **Topic ID**: 13059

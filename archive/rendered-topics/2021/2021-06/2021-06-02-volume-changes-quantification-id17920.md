@@ -1,3 +1,10 @@
+---
+topic_id: 17920
+title: "Volume Changes Quantification"
+date: 2021-06-02
+url: https://discourse.slicer.org/t/17920
+---
+
 # Volume changes quantification
 
 **Topic ID**: 17920

@@ -1,3 +1,10 @@
+---
+topic_id: 19781
+title: "Image And Mask Origin Mismatch"
+date: 2021-09-21
+url: https://discourse.slicer.org/t/19781
+---
+
 # Image and Mask origin mismatch
 
 **Topic ID**: 19781

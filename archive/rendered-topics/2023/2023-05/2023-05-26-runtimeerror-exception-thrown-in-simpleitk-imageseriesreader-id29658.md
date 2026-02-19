@@ -1,3 +1,10 @@
+---
+topic_id: 29658
+title: "Runtimeerror Exception Thrown In Simpleitk Imageseriesreader"
+date: 2023-05-26
+url: https://discourse.slicer.org/t/29658
+---
+
 # RuntimeError: Exception thrown in SimpleITK ImageSeriesReader_Execute: D:\D\P\S-0-build\ITK\Modules\IO\GDCM\src\itkGDCMImageIO.cxx:462: ITK ERROR: GDCMImageIO(00000285738E9DB0): Cannot read requested file
 
 **Topic ID**: 29658

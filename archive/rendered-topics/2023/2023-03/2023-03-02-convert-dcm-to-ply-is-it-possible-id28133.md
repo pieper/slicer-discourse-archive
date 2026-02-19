@@ -1,3 +1,10 @@
+---
+topic_id: 28133
+title: "Convert Dcm To Ply Is It Possible"
+date: 2023-03-02
+url: https://discourse.slicer.org/t/28133
+---
+
 # Convert.dcm to .ply , is it possible?
 
 **Topic ID**: 28133

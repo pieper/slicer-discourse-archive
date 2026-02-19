@@ -1,3 +1,10 @@
+---
+topic_id: 1773
+title: "Cannot Load Multiple Images But Not The Single One"
+date: 2018-01-06
+url: https://discourse.slicer.org/t/1773
+---
+
 # Cannot load multiple images but not the single one
 
 **Topic ID**: 1773

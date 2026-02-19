@@ -1,3 +1,10 @@
+---
+topic_id: 4160
+title: "Load Dicom Series File Problems"
+date: 2018-09-21
+url: https://discourse.slicer.org/t/4160
+---
+
 # Load Dicom series file problems
 
 **Topic ID**: 4160

@@ -1,3 +1,10 @@
+---
+topic_id: 30493
+title: "About Lungctanalyzer Result"
+date: 2023-07-10
+url: https://discourse.slicer.org/t/30493
+---
+
 # about lungCTanalyzer Result
 
 **Topic ID**: 30493

@@ -1,3 +1,10 @@
+---
+topic_id: 16661
+title: "Segmenting 4D Echo Volume Sequence"
+date: 2021-03-20
+url: https://discourse.slicer.org/t/16661
+---
+
 # Segmenting 4D echo volume sequence
 
 **Topic ID**: 16661

@@ -1,3 +1,10 @@
+---
+topic_id: 39743
+title: "How To Determine How Many Regions A Segmentation Intersects"
+date: 2024-10-17
+url: https://discourse.slicer.org/t/39743
+---
+
 # How to determine how many regions a segmentation intersects with in a brain segmentation
 
 **Topic ID**: 39743

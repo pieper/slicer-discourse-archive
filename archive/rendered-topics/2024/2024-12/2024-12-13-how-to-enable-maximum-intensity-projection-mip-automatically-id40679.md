@@ -1,3 +1,10 @@
+---
+topic_id: 40679
+title: "How To Enable Maximum Intensity Projection Mip Automatically"
+date: 2024-12-13
+url: https://discourse.slicer.org/t/40679
+---
+
 # How to Enable Maximum Intensity Projection (MIP) Automatically for MRML Presets?
 
 **Topic ID**: 40679

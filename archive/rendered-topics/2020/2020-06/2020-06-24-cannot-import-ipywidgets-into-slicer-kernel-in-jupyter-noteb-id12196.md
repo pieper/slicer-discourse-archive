@@ -1,3 +1,10 @@
+---
+topic_id: 12196
+title: "Cannot Import Ipywidgets Into Slicer Kernel In Jupyter Noteb"
+date: 2020-06-24
+url: https://discourse.slicer.org/t/12196
+---
+
 # Cannot import ipywidgets into Slicer kernel in Jupyter Notebook
 
 **Topic ID**: 12196

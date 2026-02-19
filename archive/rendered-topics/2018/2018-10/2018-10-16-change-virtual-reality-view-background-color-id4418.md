@@ -1,3 +1,10 @@
+---
+topic_id: 4418
+title: "Change Virtual Reality View Background Color"
+date: 2018-10-16
+url: https://discourse.slicer.org/t/4418
+---
+
 # Change virtual reality view background color
 
 **Topic ID**: 4418

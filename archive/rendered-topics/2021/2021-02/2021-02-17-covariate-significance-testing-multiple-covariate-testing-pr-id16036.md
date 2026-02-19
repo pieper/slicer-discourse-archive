@@ -1,3 +1,10 @@
+---
+topic_id: 16036
+title: "Covariate Significance Testing Multiple Covariate Testing Pr"
+date: 2021-02-17
+url: https://discourse.slicer.org/t/16036
+---
+
 # Covariate Significance Testing - multiple covariate testing problem(s)
 
 **Topic ID**: 16036

@@ -1,3 +1,10 @@
+---
+topic_id: 29953
+title: "Organizational Changes To Dicom Databse"
+date: 2023-06-09
+url: https://discourse.slicer.org/t/29953
+---
+
 # Organizational Changes to DICOM Databse
 
 **Topic ID**: 29953

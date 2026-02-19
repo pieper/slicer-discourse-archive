@@ -1,3 +1,10 @@
+---
+topic_id: 36929
+title: "Monai Auto3Dseg Inference Sources"
+date: 2024-06-20
+url: https://discourse.slicer.org/t/36929
+---
+
 # MONAI Auto3DSeg inference sources
 
 **Topic ID**: 36929

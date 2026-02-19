@@ -1,3 +1,10 @@
+---
+topic_id: 28044
+title: "How To Write An Axial Sagittal Coronal Slice Of A Volume To"
+date: 2023-02-25
+url: https://discourse.slicer.org/t/28044
+---
+
 # How to write an axial/sagittal/coronal slice of a volume to DICOM file using Python script
 
 **Topic ID**: 28044

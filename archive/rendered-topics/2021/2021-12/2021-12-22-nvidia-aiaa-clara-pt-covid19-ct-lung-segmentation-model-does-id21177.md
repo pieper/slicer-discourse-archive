@@ -1,3 +1,10 @@
+---
+topic_id: 21177
+title: "Nvidia Aiaa Clara Pt Covid19 Ct Lung Segmentation Model Does"
+date: 2021-12-22
+url: https://discourse.slicer.org/t/21177
+---
+
 # Nvidia AIAA clara_pt_covid19_ct_lung_segmentation model doesn't show up
 
 **Topic ID**: 21177

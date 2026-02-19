@@ -1,3 +1,10 @@
+---
+topic_id: 24954
+title: "Using The Slicer For Preoperative Planning Measurements In C"
+date: 2022-08-27
+url: https://discourse.slicer.org/t/24954
+---
+
 # Using the Slicer for preoperative planning measurements in CT based 3D models of Bones
 
 **Topic ID**: 24954

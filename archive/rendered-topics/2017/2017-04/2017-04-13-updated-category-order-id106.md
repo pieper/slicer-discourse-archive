@@ -1,3 +1,10 @@
+---
+topic_id: 106
+title: "Updated Category Order"
+date: 2017-04-13
+url: https://discourse.slicer.org/t/106
+---
+
 # Updated category order
 
 **Topic ID**: 106

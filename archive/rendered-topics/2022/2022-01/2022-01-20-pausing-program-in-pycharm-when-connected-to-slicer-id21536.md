@@ -1,3 +1,10 @@
+---
+topic_id: 21536
+title: "Pausing Program In Pycharm When Connected To Slicer"
+date: 2022-01-20
+url: https://discourse.slicer.org/t/21536
+---
+
 # Pausing program in Pycharm when connected to Slicer
 
 **Topic ID**: 21536

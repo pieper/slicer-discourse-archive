@@ -1,3 +1,10 @@
+---
+topic_id: 37430
+title: "Slice View Annotation Controls"
+date: 2024-07-17
+url: https://discourse.slicer.org/t/37430
+---
+
 # Slice view annotation controls
 
 **Topic ID**: 37430

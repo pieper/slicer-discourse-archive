@@ -1,3 +1,10 @@
+---
+topic_id: 6240
+title: "Silent Unattended Install"
+date: 2019-03-21
+url: https://discourse.slicer.org/t/6240
+---
+
 # Silent / Unattended Install
 
 **Topic ID**: 6240

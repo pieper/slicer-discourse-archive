@@ -1,3 +1,10 @@
+---
+topic_id: 6350
+title: "Surface Cut Just Places Fiducials"
+date: 2019-04-01
+url: https://discourse.slicer.org/t/6350
+---
+
 # Surface Cut just places fiducials
 
 **Topic ID**: 6350

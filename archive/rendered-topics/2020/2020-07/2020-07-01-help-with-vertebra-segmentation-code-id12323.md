@@ -1,3 +1,10 @@
+---
+topic_id: 12323
+title: "Help With Vertebra Segmentation Code"
+date: 2020-07-01
+url: https://discourse.slicer.org/t/12323
+---
+
 # Help with Vertebra Segmentation Code
 
 **Topic ID**: 12323

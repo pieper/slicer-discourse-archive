@@ -1,3 +1,10 @@
+---
+topic_id: 32187
+title: "Ctkmenubutton Vs Qtoolbutton With Menubuttonpopup Mode"
+date: 2023-10-12
+url: https://discourse.slicer.org/t/32187
+---
+
 # ctkMenuButton vs QToolButton with MenuButtonPopup mode
 
 **Topic ID**: 32187

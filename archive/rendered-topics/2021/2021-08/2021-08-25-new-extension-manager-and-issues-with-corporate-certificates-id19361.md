@@ -1,3 +1,10 @@
+---
+topic_id: 19361
+title: "New Extension Manager And Issues With Corporate Certificates"
+date: 2021-08-25
+url: https://discourse.slicer.org/t/19361
+---
+
 # New extension manager and issues with corporate certificates
 
 **Topic ID**: 19361

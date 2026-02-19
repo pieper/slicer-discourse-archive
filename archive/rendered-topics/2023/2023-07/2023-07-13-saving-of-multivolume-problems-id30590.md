@@ -1,3 +1,10 @@
+---
+topic_id: 30590
+title: "Saving Of Multivolume Problems"
+date: 2023-07-13
+url: https://discourse.slicer.org/t/30590
+---
+
 # Saving of MultiVolume Problems
 
 **Topic ID**: 30590

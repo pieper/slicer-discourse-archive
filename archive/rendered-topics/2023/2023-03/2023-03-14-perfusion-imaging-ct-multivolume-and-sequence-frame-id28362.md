@@ -1,3 +1,10 @@
+---
+topic_id: 28362
+title: "Perfusion Imaging Ct Multivolume And Sequence Frame"
+date: 2023-03-14
+url: https://discourse.slicer.org/t/28362
+---
+
 # perfusion imaging CT multivolume and sequence frame
 
 **Topic ID**: 28362

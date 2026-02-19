@@ -1,3 +1,10 @@
+---
+topic_id: 14044
+title: "Threshold And Hounsfield Unit Inclusion"
+date: 2020-10-14
+url: https://discourse.slicer.org/t/14044
+---
+
 # Threshold and hounsfield unit inclusion
 
 **Topic ID**: 14044

@@ -1,3 +1,10 @@
+---
+topic_id: 189
+title: "Merge Separate Images Into One Label"
+date: 2017-04-25
+url: https://discourse.slicer.org/t/189
+---
+
 # Merge separate images into one label
 
 **Topic ID**: 189

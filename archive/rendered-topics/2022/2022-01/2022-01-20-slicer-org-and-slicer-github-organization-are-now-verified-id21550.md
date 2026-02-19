@@ -1,3 +1,10 @@
+---
+topic_id: 21550
+title: "Slicer Org And Slicer Github Organization Are Now Verified"
+date: 2022-01-20
+url: https://discourse.slicer.org/t/21550
+---
+
 # Slicer.org and Slicer GitHub organization are now verified
 
 **Topic ID**: 21550

@@ -1,3 +1,10 @@
+---
+topic_id: 25283
+title: "Docker Dicom Listener Issue"
+date: 2022-09-15
+url: https://discourse.slicer.org/t/25283
+---
+
 # Docker Dicom Listener issue
 
 **Topic ID**: 25283

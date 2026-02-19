@@ -1,3 +1,10 @@
+---
+topic_id: 38563
+title: "Threshold Range Lower Value Script Vs Gui"
+date: 2024-09-26
+url: https://discourse.slicer.org/t/38563
+---
+
 # Threshold range lower value script vs GUI
 
 **Topic ID**: 38563

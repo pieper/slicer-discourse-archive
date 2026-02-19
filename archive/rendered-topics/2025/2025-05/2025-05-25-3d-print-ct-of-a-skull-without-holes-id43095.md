@@ -1,3 +1,10 @@
+---
+topic_id: 43095
+title: "3D Print Ct Of A Skull Without Holes"
+date: 2025-05-25
+url: https://discourse.slicer.org/t/43095
+---
+
 # 3D print CT of a skull without holes
 
 **Topic ID**: 43095

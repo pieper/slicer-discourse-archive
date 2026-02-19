@@ -1,3 +1,10 @@
+---
+topic_id: 16654
+title: "Import Dicom Files Error"
+date: 2021-03-20
+url: https://discourse.slicer.org/t/16654
+---
+
 # Import DICOM files Error
 
 **Topic ID**: 16654

@@ -1,3 +1,10 @@
+---
+topic_id: 31838
+title: "Can We Add A Or Mutli Label To A Segment Through Segment Edi"
+date: 2023-09-22
+url: https://discourse.slicer.org/t/31838
+---
+
 # Can we add a or mutli Label to a segment through segment editor?
 
 **Topic ID**: 31838

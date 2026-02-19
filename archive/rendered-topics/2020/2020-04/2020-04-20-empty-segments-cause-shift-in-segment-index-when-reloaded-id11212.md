@@ -1,3 +1,10 @@
+---
+topic_id: 11212
+title: "Empty Segments Cause Shift In Segment Index When Reloaded"
+date: 2020-04-20
+url: https://discourse.slicer.org/t/11212
+---
+
 # Empty segments cause shift in segment index when reloaded
 
 **Topic ID**: 11212

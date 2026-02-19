@@ -1,3 +1,10 @@
+---
+topic_id: 7648
+title: "Use Segment Editor From Python"
+date: 2019-07-17
+url: https://discourse.slicer.org/t/7648
+---
+
 # Use segment editor from Python
 
 **Topic ID**: 7648

@@ -1,3 +1,10 @@
+---
+topic_id: 13595
+title: "Segment Meshing Multiple Segments"
+date: 2020-09-21
+url: https://discourse.slicer.org/t/13595
+---
+
 # Segment-Meshing multiple segments
 
 **Topic ID**: 13595

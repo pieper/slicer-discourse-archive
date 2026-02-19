@@ -1,3 +1,10 @@
+---
+topic_id: 15371
+title: "Calculating The Deformation"
+date: 2021-01-06
+url: https://discourse.slicer.org/t/15371
+---
+
 # Calculating the deformation
 
 **Topic ID**: 15371

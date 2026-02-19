@@ -1,3 +1,10 @@
+---
+topic_id: 35927
+title: "Screenshot Resolution"
+date: 2024-05-05
+url: https://discourse.slicer.org/t/35927
+---
+
 # Screenshot Resolution
 
 **Topic ID**: 35927

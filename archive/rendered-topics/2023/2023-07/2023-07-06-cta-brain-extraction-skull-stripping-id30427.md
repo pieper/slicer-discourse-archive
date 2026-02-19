@@ -1,3 +1,10 @@
+---
+topic_id: 30427
+title: "Cta Brain Extraction Skull Stripping"
+date: 2023-07-06
+url: https://discourse.slicer.org/t/30427
+---
+
 # CTA Brain Extraction / Skull Stripping
 
 **Topic ID**: 30427

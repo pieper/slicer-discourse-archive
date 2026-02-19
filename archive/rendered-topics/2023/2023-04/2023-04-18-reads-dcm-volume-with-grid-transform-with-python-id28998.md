@@ -1,3 +1,10 @@
+---
+topic_id: 28998
+title: "Reads Dcm Volume With Grid Transform With Python"
+date: 2023-04-18
+url: https://discourse.slicer.org/t/28998
+---
+
 # Reads DCM volume with grid transform with python
 
 **Topic ID**: 28998

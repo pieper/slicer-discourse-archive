@@ -1,3 +1,10 @@
+---
+topic_id: 34363
+title: "Slicer Dcmtk Needs An Update"
+date: 2024-02-16
+url: https://discourse.slicer.org/t/34363
+---
+
 # Slicer DCMTK needs an update
 
 **Topic ID**: 34363

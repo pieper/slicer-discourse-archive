@@ -1,3 +1,10 @@
+---
+topic_id: 2565
+title: "Building Slicer Against Qt5 Win64"
+date: 2018-04-11
+url: https://discourse.slicer.org/t/2565
+---
+
 # Building Slicer against Qt5, Win64
 
 **Topic ID**: 2565

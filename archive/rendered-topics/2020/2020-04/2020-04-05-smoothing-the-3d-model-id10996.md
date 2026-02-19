@@ -1,3 +1,10 @@
+---
+topic_id: 10996
+title: "Smoothing The 3D Model"
+date: 2020-04-05
+url: https://discourse.slicer.org/t/10996
+---
+
 # Smoothing the 3D model
 
 **Topic ID**: 10996

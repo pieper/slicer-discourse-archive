@@ -1,3 +1,10 @@
+---
+topic_id: 40306
+title: "Module Pet Tumor Segmentation"
+date: 2024-11-21
+url: https://discourse.slicer.org/t/40306
+---
+
 # Module PET Tumor Segmentation
 
 **Topic ID**: 40306

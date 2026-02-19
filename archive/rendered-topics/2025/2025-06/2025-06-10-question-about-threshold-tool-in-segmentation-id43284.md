@@ -1,3 +1,10 @@
+---
+topic_id: 43284
+title: "Question About Threshold Tool In Segmentation"
+date: 2025-06-10
+url: https://discourse.slicer.org/t/43284
+---
+
 # Question About Threshold Tool in Segmentation
 
 **Topic ID**: 43284

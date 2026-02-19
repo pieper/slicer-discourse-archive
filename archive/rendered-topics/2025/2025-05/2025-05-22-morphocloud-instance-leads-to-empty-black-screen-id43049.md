@@ -1,3 +1,10 @@
+---
+topic_id: 43049
+title: "Morphocloud Instance Leads To Empty Black Screen"
+date: 2025-05-22
+url: https://discourse.slicer.org/t/43049
+---
+
 # Morphocloud instance leads to empty black screen
 
 **Topic ID**: 43049

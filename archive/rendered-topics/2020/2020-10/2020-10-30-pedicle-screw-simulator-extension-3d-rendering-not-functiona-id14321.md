@@ -1,3 +1,10 @@
+---
+topic_id: 14321
+title: "Pedicle Screw Simulator Extension 3D Rendering Not Functiona"
+date: 2020-10-30
+url: https://discourse.slicer.org/t/14321
+---
+
 # Pedicle screw simulator extension - 3D rendering not functional
 
 **Topic ID**: 14321

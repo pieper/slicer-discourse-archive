@@ -1,3 +1,10 @@
+---
+topic_id: 35865
+title: "I Need Help To Count Number Of Pixels"
+date: 2024-05-02
+url: https://discourse.slicer.org/t/35865
+---
+
 # I need help to count number of pixels
 
 **Topic ID**: 35865

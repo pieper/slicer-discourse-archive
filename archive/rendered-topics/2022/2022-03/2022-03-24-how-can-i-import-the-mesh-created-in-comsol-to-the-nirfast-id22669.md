@@ -1,3 +1,10 @@
+---
+topic_id: 22669
+title: "How Can I Import The Mesh Created In Comsol To The Nirfast"
+date: 2022-03-24
+url: https://discourse.slicer.org/t/22669
+---
+
 # How can I import the mesh created in comsol to the nirfast ?
 
 **Topic ID**: 22669

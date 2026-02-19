@@ -1,3 +1,10 @@
+---
+topic_id: 13016
+title: "How To Convert Dti Tensor Nhdr File From Nrrd0004 To Nrrd000"
+date: 2020-08-15
+url: https://discourse.slicer.org/t/13016
+---
+
 # How to convert DTI tensor nhdr file from NRRD0004 to NRRD0005
 
 **Topic ID**: 13016

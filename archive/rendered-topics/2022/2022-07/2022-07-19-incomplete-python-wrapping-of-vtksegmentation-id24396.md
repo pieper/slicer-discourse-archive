@@ -1,3 +1,10 @@
+---
+topic_id: 24396
+title: "Incomplete Python Wrapping Of Vtksegmentation"
+date: 2022-07-19
+url: https://discourse.slicer.org/t/24396
+---
+
 # Incomplete Python Wrapping of vtkSegmentation
 
 **Topic ID**: 24396

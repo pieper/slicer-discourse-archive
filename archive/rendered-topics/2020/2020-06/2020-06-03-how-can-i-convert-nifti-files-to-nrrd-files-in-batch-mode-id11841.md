@@ -1,3 +1,10 @@
+---
+topic_id: 11841
+title: "How Can I Convert Nifti Files To Nrrd Files In Batch Mode"
+date: 2020-06-03
+url: https://discourse.slicer.org/t/11841
+---
+
 # How can I convert NIFTI files to NRRD files in batch mode?
 
 **Topic ID**: 11841

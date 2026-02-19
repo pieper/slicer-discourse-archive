@@ -1,3 +1,10 @@
+---
+topic_id: 21781
+title: "Question About Transform To The Segmentation Model"
+date: 2022-02-03
+url: https://discourse.slicer.org/t/21781
+---
+
 # Question about transform to the segmentation model
 
 **Topic ID**: 21781

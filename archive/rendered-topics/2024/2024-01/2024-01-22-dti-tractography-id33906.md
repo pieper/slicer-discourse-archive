@@ -1,3 +1,10 @@
+---
+topic_id: 33906
+title: "Dti Tractography"
+date: 2024-01-22
+url: https://discourse.slicer.org/t/33906
+---
+
 # DTI Tractography
 
 **Topic ID**: 33906

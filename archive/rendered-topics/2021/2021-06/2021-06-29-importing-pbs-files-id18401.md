@@ -1,3 +1,10 @@
+---
+topic_id: 18401
+title: "Importing Pbs Files"
+date: 2021-06-29
+url: https://discourse.slicer.org/t/18401
+---
+
 # Importing PBS files 
 
 **Topic ID**: 18401

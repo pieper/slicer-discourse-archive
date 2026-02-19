@@ -1,3 +1,10 @@
+---
+topic_id: 37713
+title: "How To Build Debug Correct Way Of Custom Loadable Modules"
+date: 2024-08-05
+url: https://discourse.slicer.org/t/37713
+---
+
 # How to build & debug correct way of custom loadable-modules
 
 **Topic ID**: 37713

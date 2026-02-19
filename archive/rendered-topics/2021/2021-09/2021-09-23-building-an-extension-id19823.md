@@ -1,3 +1,10 @@
+---
+topic_id: 19823
+title: "Building An Extension"
+date: 2021-09-23
+url: https://discourse.slicer.org/t/19823
+---
+
 # Building an extension
 
 **Topic ID**: 19823

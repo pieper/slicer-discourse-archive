@@ -1,3 +1,10 @@
+---
+topic_id: 17428
+title: "Cranial And Caudal Directions Are Opposite When Loading Sequ"
+date: 2021-05-04
+url: https://discourse.slicer.org/t/17428
+---
+
 # Cranial and caudal directions are opposite when loading sequence of DICOM images
 
 **Topic ID**: 17428

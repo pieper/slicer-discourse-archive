@@ -1,3 +1,10 @@
+---
+topic_id: 34819
+title: "Open Anatomy Export In Gltf Format"
+date: 2024-03-11
+url: https://discourse.slicer.org/t/34819
+---
+
 # Open Anatomy Export in gltf format
 
 **Topic ID**: 34819

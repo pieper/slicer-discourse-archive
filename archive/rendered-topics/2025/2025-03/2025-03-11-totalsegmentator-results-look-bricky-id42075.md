@@ -1,3 +1,10 @@
+---
+topic_id: 42075
+title: "Totalsegmentator Results Look Bricky"
+date: 2025-03-11
+url: https://discourse.slicer.org/t/42075
+---
+
 # Totalsegmentator results look bricky
 
 **Topic ID**: 42075

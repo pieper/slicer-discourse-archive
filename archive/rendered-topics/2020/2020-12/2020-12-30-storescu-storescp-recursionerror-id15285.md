@@ -1,3 +1,10 @@
+---
+topic_id: 15285
+title: "Storescu Storescp Recursionerror"
+date: 2020-12-30
+url: https://discourse.slicer.org/t/15285
+---
+
 # Storescu storescp RecursionError
 
 **Topic ID**: 15285

@@ -1,3 +1,10 @@
+---
+topic_id: 20374
+title: "Discrepancy Between Segmentation Threshold And First Order R"
+date: 2021-10-26
+url: https://discourse.slicer.org/t/20374
+---
+
 # Discrepancy between segmentation threshold and first order radiomics
 
 **Topic ID**: 20374

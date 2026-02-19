@@ -1,3 +1,10 @@
+---
+topic_id: 37293
+title: "Scenes Library Database"
+date: 2024-07-09
+url: https://discourse.slicer.org/t/37293
+---
+
 # Scenes library / database
 
 **Topic ID**: 37293

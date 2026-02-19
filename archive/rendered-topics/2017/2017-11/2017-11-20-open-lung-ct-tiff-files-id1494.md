@@ -1,3 +1,10 @@
+---
+topic_id: 1494
+title: "Open Lung Ct Tiff Files"
+date: 2017-11-20
+url: https://discourse.slicer.org/t/1494
+---
+
 # Open lung CT tiff files
 
 **Topic ID**: 1494

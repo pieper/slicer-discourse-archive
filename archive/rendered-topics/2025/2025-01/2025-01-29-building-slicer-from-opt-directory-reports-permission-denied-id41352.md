@@ -1,3 +1,10 @@
+---
+topic_id: 41352
+title: "Building Slicer From Opt Directory Reports Permission Denied"
+date: 2025-01-29
+url: https://discourse.slicer.org/t/41352
+---
+
 # Building Slicer from /opt directory reports "permission denied" error
 
 **Topic ID**: 41352

@@ -1,3 +1,10 @@
+---
+topic_id: 45515
+title: "V5 10 Crash On Startup Splash Screen"
+date: 2025-12-16
+url: https://discourse.slicer.org/t/45515
+---
+
 # V5.10 crash on startup (Splash Screen)
 
 **Topic ID**: 45515

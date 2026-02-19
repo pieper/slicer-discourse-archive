@@ -1,3 +1,10 @@
+---
+topic_id: 582
+title: "Data Format For Pose Information"
+date: 2017-06-27
+url: https://discourse.slicer.org/t/582
+---
+
 # Data Format for Pose Information
 
 **Topic ID**: 582

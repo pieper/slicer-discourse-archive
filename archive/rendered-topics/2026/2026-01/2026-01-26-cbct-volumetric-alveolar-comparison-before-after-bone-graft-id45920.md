@@ -1,3 +1,10 @@
+---
+topic_id: 45920
+title: "Cbct Volumetric Alveolar Comparison Before After Bone Graft"
+date: 2026-01-26
+url: https://discourse.slicer.org/t/45920
+---
+
 # CBCT volumetric alveolar comparison before after bone graft
 
 **Topic ID**: 45920

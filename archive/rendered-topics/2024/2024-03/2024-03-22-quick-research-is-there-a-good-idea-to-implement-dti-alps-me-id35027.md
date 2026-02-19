@@ -1,3 +1,10 @@
+---
+topic_id: 35027
+title: "Quick Research Is There A Good Idea To Implement Dti Alps Me"
+date: 2024-03-22
+url: https://discourse.slicer.org/t/35027
+---
+
 # Quick research: Is there a good idea to implement DTI-ALPS method as a Slicer Extension?
 
 **Topic ID**: 35027

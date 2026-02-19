@@ -1,3 +1,10 @@
+---
+topic_id: 36465
+title: "Increase The Size Of Segment"
+date: 2024-05-29
+url: https://discourse.slicer.org/t/36465
+---
+
 # Increase the size of segment
 
 **Topic ID**: 36465

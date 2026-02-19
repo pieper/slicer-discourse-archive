@@ -1,3 +1,10 @@
+---
+topic_id: 22710
+title: "Archlinux And Slicer Extensions Manager Is Empty"
+date: 2022-03-27
+url: https://discourse.slicer.org/t/22710
+---
+
 # Archlinux and Slicer Extensions Manager is empty
 
 **Topic ID**: 22710

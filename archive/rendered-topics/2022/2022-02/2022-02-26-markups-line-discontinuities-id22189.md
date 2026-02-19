@@ -1,3 +1,10 @@
+---
+topic_id: 22189
+title: "Markups Line Discontinuities"
+date: 2022-02-26
+url: https://discourse.slicer.org/t/22189
+---
+
 # Markups Line discontinuities
 
 **Topic ID**: 22189

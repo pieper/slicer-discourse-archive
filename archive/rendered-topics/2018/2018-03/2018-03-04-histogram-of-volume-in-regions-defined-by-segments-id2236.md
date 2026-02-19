@@ -1,3 +1,10 @@
+---
+topic_id: 2236
+title: "Histogram Of Volume In Regions Defined By Segments"
+date: 2018-03-04
+url: https://discourse.slicer.org/t/2236
+---
+
 # Histogram of volume in regions defined by segments
 
 **Topic ID**: 2236

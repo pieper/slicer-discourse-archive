@@ -1,3 +1,10 @@
+---
+topic_id: 15795
+title: "Vtk Surface Mesh To Segmentation"
+date: 2021-02-02
+url: https://discourse.slicer.org/t/15795
+---
+
 # ".vtk" surface mesh to segmentation
 
 **Topic ID**: 15795

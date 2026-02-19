@@ -1,3 +1,10 @@
+---
+topic_id: 16010
+title: "Get Parent Of Segmentation Node"
+date: 2021-02-16
+url: https://discourse.slicer.org/t/16010
+---
+
 # Get parent of segmentation Node
 
 **Topic ID**: 16010

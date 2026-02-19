@@ -1,3 +1,10 @@
+---
+topic_id: 9470
+title: "Unable To Build From Source On Ubuntu 18 04"
+date: 2019-12-11
+url: https://discourse.slicer.org/t/9470
+---
+
 # Unable to build from source on Ubuntu 18.04
 
 **Topic ID**: 9470

@@ -1,3 +1,10 @@
+---
+topic_id: 1569
+title: "Apply Filters On Vtkmrmlvolumenode And Then Display The Filt"
+date: 2017-11-30
+url: https://discourse.slicer.org/t/1569
+---
+
 # Apply filters on vtkMRMLVolumeNode and then display the filtered volume in Slicer
 
 **Topic ID**: 1569

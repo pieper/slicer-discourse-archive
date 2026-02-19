@@ -1,3 +1,10 @@
+---
+topic_id: 30533
+title: "Using Events On Python Interface"
+date: 2023-07-11
+url: https://discourse.slicer.org/t/30533
+---
+
 # Using Events on Python interface
 
 **Topic ID**: 30533

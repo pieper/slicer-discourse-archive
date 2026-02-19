@@ -1,3 +1,10 @@
+---
+topic_id: 19753
+title: "Segments To Label Maps Number"
+date: 2021-09-20
+url: https://discourse.slicer.org/t/19753
+---
+
 # Segments to label maps number
 
 **Topic ID**: 19753

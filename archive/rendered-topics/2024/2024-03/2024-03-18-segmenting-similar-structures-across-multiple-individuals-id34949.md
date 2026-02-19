@@ -1,3 +1,10 @@
+---
+topic_id: 34949
+title: "Segmenting Similar Structures Across Multiple Individuals"
+date: 2024-03-18
+url: https://discourse.slicer.org/t/34949
+---
+
 # Segmenting similar structures across multiple individuals
 
 **Topic ID**: 34949

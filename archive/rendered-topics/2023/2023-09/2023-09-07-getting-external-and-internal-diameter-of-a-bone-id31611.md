@@ -1,3 +1,10 @@
+---
+topic_id: 31611
+title: "Getting External And Internal Diameter Of A Bone"
+date: 2023-09-07
+url: https://discourse.slicer.org/t/31611
+---
+
 # Getting external and internal diameter of a bone
 
 **Topic ID**: 31611

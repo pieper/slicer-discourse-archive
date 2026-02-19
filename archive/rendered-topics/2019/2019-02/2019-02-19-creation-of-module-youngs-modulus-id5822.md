@@ -1,3 +1,10 @@
+---
+topic_id: 5822
+title: "Creation Of Module Youngs Modulus"
+date: 2019-02-19
+url: https://discourse.slicer.org/t/5822
+---
+
 # Creation of Module (Young's modulus)
 
 **Topic ID**: 5822

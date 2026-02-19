@@ -1,3 +1,10 @@
+---
+topic_id: 16390
+title: "Stitching Artifact With Volume Rendering Large Volumes Feb 1"
+date: 2021-03-05
+url: https://discourse.slicer.org/t/16390
+---
+
 # Stitching artifact with volume rendering large volumes (Feb 17 2021 nightly)
 
 **Topic ID**: 16390

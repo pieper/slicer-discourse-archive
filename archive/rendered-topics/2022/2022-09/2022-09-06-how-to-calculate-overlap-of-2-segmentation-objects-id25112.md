@@ -1,3 +1,10 @@
+---
+topic_id: 25112
+title: "How To Calculate Overlap Of 2 Segmentation Objects"
+date: 2022-09-06
+url: https://discourse.slicer.org/t/25112
+---
+
 # How to calculate %overlap of 2 segmentation objects
 
 **Topic ID**: 25112

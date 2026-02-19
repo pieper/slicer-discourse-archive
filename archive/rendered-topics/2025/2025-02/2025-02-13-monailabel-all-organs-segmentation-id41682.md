@@ -1,3 +1,10 @@
+---
+topic_id: 41682
+title: "Monailabel All Organs Segmentation"
+date: 2025-02-13
+url: https://discourse.slicer.org/t/41682
+---
+
 # MONAILABEL all organs segmentation
 
 **Topic ID**: 41682

@@ -1,3 +1,10 @@
+---
+topic_id: 4080
+title: "Curved 3D Mpr From Input Coordinates"
+date: 2018-09-12
+url: https://discourse.slicer.org/t/4080
+---
+
 # Curved 3D MPR from input coordinates
 
 **Topic ID**: 4080

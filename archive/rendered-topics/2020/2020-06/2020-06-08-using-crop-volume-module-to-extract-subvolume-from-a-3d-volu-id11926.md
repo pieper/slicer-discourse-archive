@@ -1,3 +1,10 @@
+---
+topic_id: 11926
+title: "Using Crop Volume Module To Extract Subvolume From A 3D Volu"
+date: 2020-06-08
+url: https://discourse.slicer.org/t/11926
+---
+
 # Using crop volume module to extract subvolume from a 3D volume
 
 **Topic ID**: 11926

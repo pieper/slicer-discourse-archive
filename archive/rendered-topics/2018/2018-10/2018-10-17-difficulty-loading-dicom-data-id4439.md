@@ -1,3 +1,10 @@
+---
+topic_id: 4439
+title: "Difficulty Loading Dicom Data"
+date: 2018-10-17
+url: https://discourse.slicer.org/t/4439
+---
+
 # Difficulty loading DICOM data
 
 **Topic ID**: 4439

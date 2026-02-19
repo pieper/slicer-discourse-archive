@@ -1,3 +1,10 @@
+---
+topic_id: 27745
+title: "Inability To Export Segmentations As Rtstruct File"
+date: 2023-02-10
+url: https://discourse.slicer.org/t/27745
+---
+
 # Inability to export segmentations as RTStruct File
 
 **Topic ID**: 27745

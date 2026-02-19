@@ -1,3 +1,10 @@
+---
+topic_id: 40278
+title: "Voxelized Phantom Creation On 3D Slicer"
+date: 2024-11-19
+url: https://discourse.slicer.org/t/40278
+---
+
 # Voxelized phantom creation on 3D slicer
 
 **Topic ID**: 40278

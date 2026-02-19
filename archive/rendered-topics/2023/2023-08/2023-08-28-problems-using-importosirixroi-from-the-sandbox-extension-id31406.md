@@ -1,3 +1,10 @@
+---
+topic_id: 31406
+title: "Problems Using Importosirixroi From The Sandbox Extension"
+date: 2023-08-28
+url: https://discourse.slicer.org/t/31406
+---
+
 # Problems using ImportOsirixROI from the Sandbox extension
 
 **Topic ID**: 31406

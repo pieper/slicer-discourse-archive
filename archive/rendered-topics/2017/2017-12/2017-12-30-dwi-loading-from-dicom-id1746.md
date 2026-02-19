@@ -1,3 +1,10 @@
+---
+topic_id: 1746
+title: "Dwi Loading From Dicom"
+date: 2017-12-30
+url: https://discourse.slicer.org/t/1746
+---
+
 # DWI loading from DICOM
 
 **Topic ID**: 1746

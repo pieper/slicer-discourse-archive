@@ -1,3 +1,10 @@
+---
+topic_id: 10758
+title: "Default Setting For Different Modules"
+date: 2020-03-20
+url: https://discourse.slicer.org/t/10758
+---
+
 # Default setting for different modules
 
 **Topic ID**: 10758

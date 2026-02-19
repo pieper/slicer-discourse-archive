@@ -1,3 +1,10 @@
+---
+topic_id: 40453
+title: "Aws Ec2 Gpu Instance Setup"
+date: 2024-11-30
+url: https://discourse.slicer.org/t/40453
+---
+
 # AWS EC2 (GPU) Instance setup
 
 **Topic ID**: 40453

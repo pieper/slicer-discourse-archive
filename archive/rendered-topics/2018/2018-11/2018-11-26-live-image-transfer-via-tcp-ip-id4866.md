@@ -1,3 +1,10 @@
+---
+topic_id: 4866
+title: "Live Image Transfer Via Tcp Ip"
+date: 2018-11-26
+url: https://discourse.slicer.org/t/4866
+---
+
 # Live image transfer via TCP/IP
 
 **Topic ID**: 4866

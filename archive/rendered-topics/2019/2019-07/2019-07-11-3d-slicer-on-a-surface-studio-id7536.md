@@ -1,3 +1,10 @@
+---
+topic_id: 7536
+title: "3D Slicer On A Surface Studio"
+date: 2019-07-11
+url: https://discourse.slicer.org/t/7536
+---
+
 # 3D Slicer on a Surface Studio
 
 **Topic ID**: 7536

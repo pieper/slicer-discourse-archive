@@ -1,3 +1,10 @@
+---
+topic_id: 1540
+title: "How To Change The User Name"
+date: 2017-11-28
+url: https://discourse.slicer.org/t/1540
+---
+
 # how to change the user name
 
 **Topic ID**: 1540

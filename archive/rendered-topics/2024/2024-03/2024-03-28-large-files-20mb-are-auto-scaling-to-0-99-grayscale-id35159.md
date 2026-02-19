@@ -1,3 +1,10 @@
+---
+topic_id: 35159
+title: "Large Files 20Mb Are Auto Scaling To 0 99 Grayscale"
+date: 2024-03-28
+url: https://discourse.slicer.org/t/35159
+---
+
 # Large files (~20MB) are auto-scaling to 0-99 grayscale?
 
 **Topic ID**: 35159

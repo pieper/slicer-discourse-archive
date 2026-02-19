@@ -1,3 +1,10 @@
+---
+topic_id: 29434
+title: "Set Displaynode Color To Inferno"
+date: 2023-05-12
+url: https://discourse.slicer.org/t/29434
+---
+
 # Set displayNode color to Inferno
 
 **Topic ID**: 29434

@@ -1,3 +1,10 @@
+---
+topic_id: 24628
+title: "Load Two Volumes Into Two Views Using Python"
+date: 2022-08-03
+url: https://discourse.slicer.org/t/24628
+---
+
 # Load two volumes into two views using Python
 
 **Topic ID**: 24628

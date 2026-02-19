@@ -1,3 +1,10 @@
+---
+topic_id: 45561
+title: "Apply Filters To A Ct Scan To Deal With High Contrast Elemen"
+date: 2025-12-19
+url: https://discourse.slicer.org/t/45561
+---
+
 # Apply filters to a CT scan to deal with high-contrast elements
 
 **Topic ID**: 45561

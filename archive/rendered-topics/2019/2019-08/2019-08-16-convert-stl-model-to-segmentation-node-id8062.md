@@ -1,3 +1,10 @@
+---
+topic_id: 8062
+title: "Convert Stl Model To Segmentation Node"
+date: 2019-08-16
+url: https://discourse.slicer.org/t/8062
+---
+
 # Convert STL model to segmentation node
 
 **Topic ID**: 8062

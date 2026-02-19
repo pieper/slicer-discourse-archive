@@ -1,3 +1,10 @@
+---
+topic_id: 11817
+title: "Algorithm Used For Growing Seeds"
+date: 2020-06-01
+url: https://discourse.slicer.org/t/11817
+---
+
 # Algorithm used for growing seeds
 
 **Topic ID**: 11817

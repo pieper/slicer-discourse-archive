@@ -1,3 +1,10 @@
+---
+topic_id: 29526
+title: "How To Use Observer"
+date: 2023-05-18
+url: https://discourse.slicer.org/t/29526
+---
+
 # How to use observer?
 
 **Topic ID**: 29526

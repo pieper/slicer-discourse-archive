@@ -1,3 +1,10 @@
+---
+topic_id: 21266
+title: "Bone Texture Module Not Working Due To Labelstatistics Modul"
+date: 2021-12-29
+url: https://discourse.slicer.org/t/21266
+---
+
 # Bone Texture module not working due to LabelStatistics module removal
 
 **Topic ID**: 21266

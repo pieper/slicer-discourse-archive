@@ -1,3 +1,10 @@
+---
+topic_id: 37806
+title: "New Extension Scripteditor A Simple Programming Editor"
+date: 2024-08-09
+url: https://discourse.slicer.org/t/37806
+---
+
 # New extension: ScriptEditor - a simple programming editor
 
 **Topic ID**: 37806

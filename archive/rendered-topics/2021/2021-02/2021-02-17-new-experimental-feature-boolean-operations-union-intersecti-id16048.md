@@ -1,3 +1,10 @@
+---
+topic_id: 16048
+title: "New Experimental Feature Boolean Operations Union Intersecti"
+date: 2021-02-17
+url: https://discourse.slicer.org/t/16048
+---
+
 # New experimental feature: Boolean operations (union, intersection, difference) on meshes
 
 **Topic ID**: 16048

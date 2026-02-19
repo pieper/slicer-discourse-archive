@@ -1,3 +1,10 @@
+---
+topic_id: 16982
+title: "Segment Visibility Toggle 4 10 Vs 4 11"
+date: 2021-04-07
+url: https://discourse.slicer.org/t/16982
+---
+
 # Segment visibility toggle 4.10 vs 4.11
 
 **Topic ID**: 16982

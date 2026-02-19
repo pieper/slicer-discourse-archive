@@ -1,3 +1,10 @@
+---
+topic_id: 9091
+title: "Cannot Import Numpy Array Using Updatevolumefromarray"
+date: 2019-11-08
+url: https://discourse.slicer.org/t/9091
+---
+
 # Cannot import numpy array using updateVolumeFromArray
 
 **Topic ID**: 9091

@@ -1,3 +1,10 @@
+---
+topic_id: 13508
+title: "Fill Holes In 3D Model"
+date: 2020-09-16
+url: https://discourse.slicer.org/t/13508
+---
+
 # Fill holes in 3D model
 
 **Topic ID**: 13508

@@ -1,3 +1,10 @@
+---
+topic_id: 2692
+title: "Slicer Building Error On Windows 10"
+date: 2018-04-26
+url: https://discourse.slicer.org/t/2692
+---
+
 # Slicer building error on Windows 10
 
 **Topic ID**: 2692

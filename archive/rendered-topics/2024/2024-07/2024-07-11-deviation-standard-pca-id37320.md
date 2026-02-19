@@ -1,3 +1,10 @@
+---
+topic_id: 37320
+title: "Deviation Standard Pca"
+date: 2024-07-11
+url: https://discourse.slicer.org/t/37320
+---
+
 # Deviation standard PCA
 
 **Topic ID**: 37320

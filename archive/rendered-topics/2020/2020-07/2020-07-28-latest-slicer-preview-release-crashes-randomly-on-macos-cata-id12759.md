@@ -1,3 +1,10 @@
+---
+topic_id: 12759
+title: "Latest Slicer Preview Release Crashes Randomly On Macos Cata"
+date: 2020-07-28
+url: https://discourse.slicer.org/t/12759
+---
+
 # Latest Slicer Preview Release crashes randomly on macOS Catalina
 
 **Topic ID**: 12759

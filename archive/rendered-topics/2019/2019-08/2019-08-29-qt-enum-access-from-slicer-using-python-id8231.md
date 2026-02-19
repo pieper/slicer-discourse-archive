@@ -1,3 +1,10 @@
+---
+topic_id: 8231
+title: "Qt Enum Access From Slicer Using Python"
+date: 2019-08-29
+url: https://discourse.slicer.org/t/8231
+---
+
 # Qt enum access from Slicer using Python?
 
 **Topic ID**: 8231

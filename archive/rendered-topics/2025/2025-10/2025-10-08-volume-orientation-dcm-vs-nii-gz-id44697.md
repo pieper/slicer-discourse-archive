@@ -1,3 +1,10 @@
+---
+topic_id: 44697
+title: "Volume Orientation Dcm Vs Nii Gz"
+date: 2025-10-08
+url: https://discourse.slicer.org/t/44697
+---
+
 # Volume orientation (dcm vs nii.gz)
 
 **Topic ID**: 44697

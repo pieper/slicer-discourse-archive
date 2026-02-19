@@ -1,3 +1,10 @@
+---
+topic_id: 17952
+title: "How To Split Segmentation The Islands"
+date: 2021-06-04
+url: https://discourse.slicer.org/t/17952
+---
+
 # How to split segmentation the islands?
 
 **Topic ID**: 17952

@@ -1,3 +1,10 @@
+---
+topic_id: 19734
+title: "Build Error On Macosx When Install Simpleitk Modulenotfounde"
+date: 2021-09-18
+url: https://discourse.slicer.org/t/19734
+---
+
 # Build error on MacOSX, When install simpleITK, ModuleNotFoundError: No module named 'skbuild' occur
 
 **Topic ID**: 19734

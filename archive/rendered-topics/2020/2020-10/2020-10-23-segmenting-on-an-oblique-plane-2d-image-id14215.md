@@ -1,3 +1,10 @@
+---
+topic_id: 14215
+title: "Segmenting On An Oblique Plane 2D Image"
+date: 2020-10-23
+url: https://discourse.slicer.org/t/14215
+---
+
 # Segmenting on an oblique plane 2D image
 
 **Topic ID**: 14215

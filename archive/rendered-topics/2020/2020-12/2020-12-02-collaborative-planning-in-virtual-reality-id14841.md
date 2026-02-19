@@ -1,3 +1,10 @@
+---
+topic_id: 14841
+title: "Collaborative Planning In Virtual Reality"
+date: 2020-12-02
+url: https://discourse.slicer.org/t/14841
+---
+
 # Collaborative planning in Virtual Reality
 
 **Topic ID**: 14841

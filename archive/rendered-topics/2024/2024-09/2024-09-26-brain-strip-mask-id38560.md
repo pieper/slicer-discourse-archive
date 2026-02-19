@@ -1,3 +1,10 @@
+---
+topic_id: 38560
+title: "Brain Strip Mask"
+date: 2024-09-26
+url: https://discourse.slicer.org/t/38560
+---
+
 # Brain Strip mask
 
 **Topic ID**: 38560

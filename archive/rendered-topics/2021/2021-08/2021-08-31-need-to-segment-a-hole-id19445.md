@@ -1,3 +1,10 @@
+---
+topic_id: 19445
+title: "Need To Segment A Hole"
+date: 2021-08-31
+url: https://discourse.slicer.org/t/19445
+---
+
 # Need to segment a hole
 
 **Topic ID**: 19445

@@ -1,3 +1,10 @@
+---
+topic_id: 41460
+title: "Create A Simple Ui"
+date: 2025-02-03
+url: https://discourse.slicer.org/t/41460
+---
+
 # Create a simple UI
 
 **Topic ID**: 41460

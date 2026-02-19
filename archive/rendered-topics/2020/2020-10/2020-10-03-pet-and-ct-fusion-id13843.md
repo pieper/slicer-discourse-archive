@@ -1,3 +1,10 @@
+---
+topic_id: 13843
+title: "Pet And Ct Fusion"
+date: 2020-10-03
+url: https://discourse.slicer.org/t/13843
+---
+
 # PET and CT fusion
 
 **Topic ID**: 13843

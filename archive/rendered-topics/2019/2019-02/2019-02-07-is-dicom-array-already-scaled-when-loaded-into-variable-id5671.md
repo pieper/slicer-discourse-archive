@@ -1,3 +1,10 @@
+---
+topic_id: 5671
+title: "Is Dicom Array Already Scaled When Loaded Into Variable"
+date: 2019-02-07
+url: https://discourse.slicer.org/t/5671
+---
+
 # Is DICOM array already scaled when loaded into variable?
 
 **Topic ID**: 5671

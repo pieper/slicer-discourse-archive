@@ -1,3 +1,10 @@
+---
+topic_id: 2251
+title: "Use Slicer In Systems Python Not In Slicers Python Interpret"
+date: 2018-03-06
+url: https://discourse.slicer.org/t/2251
+---
+
 # use slicer in system's python, not in slicers python interpreter
 
 **Topic ID**: 2251

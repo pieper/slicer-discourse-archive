@@ -1,3 +1,10 @@
+---
+topic_id: 41617
+title: "What Format Is Use For Manova Anova"
+date: 2025-02-11
+url: https://discourse.slicer.org/t/41617
+---
+
 # What format is use for MANOVA/ANOVA?
 
 **Topic ID**: 41617

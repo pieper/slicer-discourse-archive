@@ -1,3 +1,10 @@
+---
+topic_id: 11947
+title: "Ortogonblender For Complex Modeling On A Dicom"
+date: 2020-06-09
+url: https://discourse.slicer.org/t/11947
+---
+
 # OrtogOnBlender for complex modeling on a dicom?
 
 **Topic ID**: 11947

@@ -1,3 +1,10 @@
+---
+topic_id: 18469
+title: "Connecting Widget Callback With Custom Logic Signal Event In"
+date: 2021-07-01
+url: https://discourse.slicer.org/t/18469
+---
+
 # Connecting widget callback with custom logic signal/event in a scripted module
 
 **Topic ID**: 18469

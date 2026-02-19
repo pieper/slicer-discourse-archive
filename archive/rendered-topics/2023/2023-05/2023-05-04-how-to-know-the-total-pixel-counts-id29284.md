@@ -1,3 +1,10 @@
+---
+topic_id: 29284
+title: "How To Know The Total Pixel Counts"
+date: 2023-05-04
+url: https://discourse.slicer.org/t/29284
+---
+
 # How to know the total pixel counts?
 
 **Topic ID**: 29284

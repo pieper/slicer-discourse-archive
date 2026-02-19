@@ -1,3 +1,10 @@
+---
+topic_id: 45252
+title: "Writing A Scripted Subject Hierarchy Plugin Documentation La"
+date: 2025-11-27
+url: https://discourse.slicer.org/t/45252
+---
+
 # Writing a Scripted Subject Hierarchy Plugin -- documentation lacking
 
 **Topic ID**: 45252

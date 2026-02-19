@@ -1,3 +1,10 @@
+---
+topic_id: 14651
+title: "Project Week 34 Preparatory Videoconferences Wk 6 9 Am Start"
+date: 2020-11-17
+url: https://discourse.slicer.org/t/14651
+---
+
 # Project Week 34 Preparatory Videoconferences - Wk 6 *9 am start time*
 
 **Topic ID**: 14651

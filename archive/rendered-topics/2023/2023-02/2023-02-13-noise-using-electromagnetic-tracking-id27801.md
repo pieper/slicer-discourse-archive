@@ -1,3 +1,10 @@
+---
+topic_id: 27801
+title: "Noise Using Electromagnetic Tracking"
+date: 2023-02-13
+url: https://discourse.slicer.org/t/27801
+---
+
 # Noise Using Electromagnetic Tracking
 
 **Topic ID**: 27801

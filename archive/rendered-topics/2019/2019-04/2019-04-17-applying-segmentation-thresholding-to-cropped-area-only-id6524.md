@@ -1,3 +1,10 @@
+---
+topic_id: 6524
+title: "Applying Segmentation Thresholding To Cropped Area Only"
+date: 2019-04-17
+url: https://discourse.slicer.org/t/6524
+---
+
 # Applying segmentation/thresholding to cropped area only
 
 **Topic ID**: 6524

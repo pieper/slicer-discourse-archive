@@ -1,3 +1,10 @@
+---
+topic_id: 9850
+title: "Paint Effect In 3D Is Slow"
+date: 2020-01-17
+url: https://discourse.slicer.org/t/9850
+---
+
 # Paint effect in 3d is slow
 
 **Topic ID**: 9850

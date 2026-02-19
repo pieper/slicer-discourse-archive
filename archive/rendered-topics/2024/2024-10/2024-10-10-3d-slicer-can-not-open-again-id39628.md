@@ -1,3 +1,10 @@
+---
+topic_id: 39628
+title: "3D Slicer Can Not Open Again"
+date: 2024-10-10
+url: https://discourse.slicer.org/t/39628
+---
+
 # 3D Slicer can not open again
 
 **Topic ID**: 39628

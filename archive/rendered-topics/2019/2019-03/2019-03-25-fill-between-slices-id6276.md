@@ -1,3 +1,10 @@
+---
+topic_id: 6276
+title: "Fill Between Slices"
+date: 2019-03-25
+url: https://discourse.slicer.org/t/6276
+---
+
 # Fill between slices
 
 **Topic ID**: 6276

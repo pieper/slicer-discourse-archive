@@ -1,3 +1,10 @@
+---
+topic_id: 14525
+title: "Lbp And Knn I Need Help"
+date: 2020-11-10
+url: https://discourse.slicer.org/t/14525
+---
+
 # LBP and KNN i need help
 
 **Topic ID**: 14525

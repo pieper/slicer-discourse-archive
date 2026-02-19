@@ -1,3 +1,10 @@
+---
+topic_id: 17820
+title: "Problem While Processing Dwi Images In Slicer"
+date: 2021-05-26
+url: https://discourse.slicer.org/t/17820
+---
+
 # Problem while processing DWI images in Slicer
 
 **Topic ID**: 17820

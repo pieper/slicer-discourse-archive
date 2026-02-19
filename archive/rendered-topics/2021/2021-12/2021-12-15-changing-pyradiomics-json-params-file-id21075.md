@@ -1,3 +1,10 @@
+---
+topic_id: 21075
+title: "Changing Pyradiomics Json Params File"
+date: 2021-12-15
+url: https://discourse.slicer.org/t/21075
+---
+
 # Changing pyradiomics json Params file
 
 **Topic ID**: 21075

@@ -1,3 +1,10 @@
+---
+topic_id: 638
+title: "Need Help With Mesh Statistics Module"
+date: 2017-07-06
+url: https://discourse.slicer.org/t/638
+---
+
 # Need help with Mesh statistics module
 
 **Topic ID**: 638

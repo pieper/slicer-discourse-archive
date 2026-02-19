@@ -1,3 +1,10 @@
+---
+topic_id: 32768
+title: "Save Line Profile As Csv File"
+date: 2023-11-11
+url: https://discourse.slicer.org/t/32768
+---
+
 # Save line profile as CSV file
 
 **Topic ID**: 32768

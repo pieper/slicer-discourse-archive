@@ -1,3 +1,10 @@
+---
+topic_id: 35729
+title: "Segmentation By Threshold And Surrounding Segment"
+date: 2024-04-25
+url: https://discourse.slicer.org/t/35729
+---
+
 # Segmentation by threshold and surrounding segment
 
 **Topic ID**: 35729

@@ -1,3 +1,10 @@
+---
+topic_id: 7544
+title: "About Swissskullstripper"
+date: 2019-07-12
+url: https://discourse.slicer.org/t/7544
+---
+
 # About SwissSkullStripper
 
 **Topic ID**: 7544

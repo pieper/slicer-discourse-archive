@@ -1,3 +1,10 @@
+---
+topic_id: 18783
+title: "Set Volume Rendering Options With Python"
+date: 2021-07-18
+url: https://discourse.slicer.org/t/18783
+---
+
 # Set Volume Rendering Options with PYTHON
 
 **Topic ID**: 18783

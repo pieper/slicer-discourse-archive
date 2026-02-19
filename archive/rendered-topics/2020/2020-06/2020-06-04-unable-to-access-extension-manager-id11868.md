@@ -1,3 +1,10 @@
+---
+topic_id: 11868
+title: "Unable To Access Extension Manager"
+date: 2020-06-04
+url: https://discourse.slicer.org/t/11868
+---
+
 # Unable to access Extension Manager
 
 **Topic ID**: 11868

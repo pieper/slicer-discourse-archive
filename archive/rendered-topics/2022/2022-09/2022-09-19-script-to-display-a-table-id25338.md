@@ -1,3 +1,10 @@
+---
+topic_id: 25338
+title: "Script To Display A Table"
+date: 2022-09-19
+url: https://discourse.slicer.org/t/25338
+---
+
 # Script to display a table
 
 **Topic ID**: 25338

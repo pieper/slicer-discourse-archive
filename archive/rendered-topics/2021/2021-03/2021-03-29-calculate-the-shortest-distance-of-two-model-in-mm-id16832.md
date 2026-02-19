@@ -1,3 +1,10 @@
+---
+topic_id: 16832
+title: "Calculate The Shortest Distance Of Two Model In Mm"
+date: 2021-03-29
+url: https://discourse.slicer.org/t/16832
+---
+
 # Calculate the shortest distance of two model in mm
 
 **Topic ID**: 16832

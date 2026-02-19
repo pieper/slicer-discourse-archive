@@ -1,3 +1,10 @@
+---
+topic_id: 46213
+title: "Issues With Elastix Tool"
+date: 2026-02-18
+url: https://discourse.slicer.org/t/46213
+---
+
 # issues with Elastix tool
 
 **Topic ID**: 46213

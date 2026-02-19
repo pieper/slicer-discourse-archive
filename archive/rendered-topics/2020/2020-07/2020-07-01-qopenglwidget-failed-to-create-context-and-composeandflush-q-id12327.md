@@ -1,3 +1,10 @@
+---
+topic_id: 12327
+title: "Qopenglwidget Failed To Create Context And Composeandflush Q"
+date: 2020-07-01
+url: https://discourse.slicer.org/t/12327
+---
+
 # "QOpenGLWidget: Failed to create context" and "composeAndFlush: QOpenGLContext creation failed" and "composeAndFlush: makeCurrent() failed"
 
 **Topic ID**: 12327

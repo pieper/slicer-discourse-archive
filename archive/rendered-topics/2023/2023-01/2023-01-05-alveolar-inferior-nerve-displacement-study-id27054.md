@@ -1,3 +1,10 @@
+---
+topic_id: 27054
+title: "Alveolar Inferior Nerve Displacement Study"
+date: 2023-01-05
+url: https://discourse.slicer.org/t/27054
+---
+
 # Alveolar inferior nerve displacement study
 
 **Topic ID**: 27054

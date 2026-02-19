@@ -1,3 +1,10 @@
+---
+topic_id: 544
+title: "Points Coordinates Between Two Registered Images"
+date: 2017-06-21
+url: https://discourse.slicer.org/t/544
+---
+
 # Point's coordinates between two registered images
 
 **Topic ID**: 544

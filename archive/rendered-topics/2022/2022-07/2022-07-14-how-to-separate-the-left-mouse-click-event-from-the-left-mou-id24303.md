@@ -1,3 +1,10 @@
+---
+topic_id: 24303
+title: "How To Separate The Left Mouse Click Event From The Left Mou"
+date: 2022-07-14
+url: https://discourse.slicer.org/t/24303
+---
+
 # How to separate the left mouse click event from the left mouse drag time when operating a Markup node
 
 **Topic ID**: 24303

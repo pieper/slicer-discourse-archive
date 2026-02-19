@@ -1,3 +1,10 @@
+---
+topic_id: 40716
+title: "Issue With Resliced Images From Spm12 Not Reflecting Alignme"
+date: 2024-12-16
+url: https://discourse.slicer.org/t/40716
+---
+
 #  Issue with Resliced Images from SPM12 Not Reflecting Alignment in 3D Slicer
 
 **Topic ID**: 40716

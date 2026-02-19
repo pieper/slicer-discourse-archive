@@ -1,3 +1,10 @@
+---
+topic_id: 21055
+title: "Is Resampling Necessary"
+date: 2021-12-14
+url: https://discourse.slicer.org/t/21055
+---
+
 # Is Resampling Necessary?
 
 **Topic ID**: 21055

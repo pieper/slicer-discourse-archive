@@ -1,3 +1,10 @@
+---
+topic_id: 11206
+title: "Create Cylinder From Central Coordinates"
+date: 2020-04-20
+url: https://discourse.slicer.org/t/11206
+---
+
 # Create cylinder from central coordinates
 
 **Topic ID**: 11206

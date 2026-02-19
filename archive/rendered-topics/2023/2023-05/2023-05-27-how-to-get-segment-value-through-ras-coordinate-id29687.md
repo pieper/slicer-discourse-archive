@@ -1,3 +1,10 @@
+---
+topic_id: 29687
+title: "How To Get Segment Value Through Ras Coordinate"
+date: 2023-05-27
+url: https://discourse.slicer.org/t/29687
+---
+
 # How to get segment value through ras coordinate
 
 **Topic ID**: 29687

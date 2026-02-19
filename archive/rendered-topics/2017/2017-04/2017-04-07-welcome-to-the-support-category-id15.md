@@ -1,3 +1,10 @@
+---
+topic_id: 15
+title: "Welcome To The Support Category"
+date: 2017-04-07
+url: https://discourse.slicer.org/t/15
+---
+
 # Welcome to the Support category
 
 **Topic ID**: 15

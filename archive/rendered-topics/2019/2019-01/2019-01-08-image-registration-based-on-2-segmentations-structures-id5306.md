@@ -1,3 +1,10 @@
+---
+topic_id: 5306
+title: "Image Registration Based On 2 Segmentations Structures"
+date: 2019-01-08
+url: https://discourse.slicer.org/t/5306
+---
+
 # Image registration based on 2 segmentations structures
 
 **Topic ID**: 5306

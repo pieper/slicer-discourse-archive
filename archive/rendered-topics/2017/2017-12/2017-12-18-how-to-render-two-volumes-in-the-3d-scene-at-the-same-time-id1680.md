@@ -1,3 +1,10 @@
+---
+topic_id: 1680
+title: "How To Render Two Volumes In The 3D Scene At The Same Time"
+date: 2017-12-18
+url: https://discourse.slicer.org/t/1680
+---
+
 # How to render two volumes in the 3D scene at the same time?
 
 **Topic ID**: 1680

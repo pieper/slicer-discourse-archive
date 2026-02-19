@@ -1,3 +1,10 @@
+---
+topic_id: 15560
+title: "Large Data Support In 3D Slicer"
+date: 2021-01-16
+url: https://discourse.slicer.org/t/15560
+---
+
 # Large data support in 3D Slicer
 
 **Topic ID**: 15560

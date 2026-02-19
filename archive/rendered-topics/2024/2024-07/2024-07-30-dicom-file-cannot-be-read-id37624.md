@@ -1,3 +1,10 @@
+---
+topic_id: 37624
+title: "Dicom File Cannot Be Read"
+date: 2024-07-30
+url: https://discourse.slicer.org/t/37624
+---
+
 # DICOM file cannot be read
 
 **Topic ID**: 37624

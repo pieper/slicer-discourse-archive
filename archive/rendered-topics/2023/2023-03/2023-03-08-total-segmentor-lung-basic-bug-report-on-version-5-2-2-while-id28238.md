@@ -1,3 +1,10 @@
+---
+topic_id: 28238
+title: "Total Segmentor Lung Basic Bug Report On Version 5 2 2 While"
+date: 2023-03-08
+url: https://discourse.slicer.org/t/28238
+---
+
 # Total Segmentor Lung Basic BUG report on Version 5.2.2 while working perfectly on 5.2.1
 
 **Topic ID**: 28238

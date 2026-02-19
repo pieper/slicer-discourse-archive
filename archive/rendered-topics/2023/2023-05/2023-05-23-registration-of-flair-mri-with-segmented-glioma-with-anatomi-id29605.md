@@ -1,3 +1,10 @@
+---
+topic_id: 29605
+title: "Registration Of Flair Mri With Segmented Glioma With Anatomi"
+date: 2023-05-23
+url: https://discourse.slicer.org/t/29605
+---
+
 # Registration of FLAIR MRI with segmented glioma with anatomical atlas 
 
 **Topic ID**: 29605

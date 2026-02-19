@@ -1,3 +1,10 @@
+---
+topic_id: 3951
+title: "New Annotation For Slicer Splines And Planes"
+date: 2018-08-30
+url: https://discourse.slicer.org/t/3951
+---
+
 # New Annotation for Slicer - Splines and Planes
 
 **Topic ID**: 3951

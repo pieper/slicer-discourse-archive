@@ -1,3 +1,10 @@
+---
+topic_id: 8814
+title: "New Feature Shared Labelmap Segmentations"
+date: 2019-10-17
+url: https://discourse.slicer.org/t/8814
+---
+
 # New feature: Shared labelmap segmentations
 
 **Topic ID**: 8814

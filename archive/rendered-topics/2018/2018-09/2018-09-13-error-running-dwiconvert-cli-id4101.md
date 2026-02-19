@@ -1,3 +1,10 @@
+---
+topic_id: 4101
+title: "Error Running Dwiconvert Cli"
+date: 2018-09-13
+url: https://discourse.slicer.org/t/4101
+---
+
 # Error running DWIConvert (cli)
 
 **Topic ID**: 4101

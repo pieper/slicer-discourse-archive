@@ -1,3 +1,10 @@
+---
+topic_id: 42583
+title: "Issue Loading Tensorflow H5 Model In 3D Slicer Unknown Layer"
+date: 2025-04-16
+url: https://discourse.slicer.org/t/42583
+---
+
 # Issue Loading TensorFlow .h5 Model in 3D Slicer – "Unknown Layer: 'TensorFlowOpLayer
 
 **Topic ID**: 42583

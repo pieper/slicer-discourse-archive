@@ -1,3 +1,10 @@
+---
+topic_id: 28401
+title: "Buffering Issue While Optically Tracking A Stylus"
+date: 2023-03-15
+url: https://discourse.slicer.org/t/28401
+---
+
 # Buffering issue while optically tracking a stylus
 
 **Topic ID**: 28401

@@ -1,3 +1,10 @@
+---
+topic_id: 23901
+title: "Model To Model Distance Computation Is Completed With Error"
+date: 2022-06-16
+url: https://discourse.slicer.org/t/23901
+---
+
 # Model to Model distance computation is "completed with error"
 
 **Topic ID**: 23901

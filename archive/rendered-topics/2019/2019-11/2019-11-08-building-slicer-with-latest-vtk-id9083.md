@@ -1,3 +1,10 @@
+---
+topic_id: 9083
+title: "Building Slicer With Latest Vtk"
+date: 2019-11-08
+url: https://discourse.slicer.org/t/9083
+---
+
 # Building slicer with latest VTK
 
 **Topic ID**: 9083

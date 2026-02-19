@@ -1,3 +1,10 @@
+---
+topic_id: 12364
+title: "Getting File Name From A Dicom Slice"
+date: 2020-07-03
+url: https://discourse.slicer.org/t/12364
+---
+
 # Getting file name from a DICOM slice
 
 **Topic ID**: 12364

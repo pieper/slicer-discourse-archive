@@ -1,3 +1,10 @@
+---
+topic_id: 14001
+title: "Vertebral Artery Segmentation"
+date: 2020-10-12
+url: https://discourse.slicer.org/t/14001
+---
+
 # Vertebral artery segmentation
 
 **Topic ID**: 14001

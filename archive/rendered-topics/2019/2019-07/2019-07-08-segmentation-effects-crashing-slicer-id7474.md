@@ -1,3 +1,10 @@
+---
+topic_id: 7474
+title: "Segmentation Effects Crashing Slicer"
+date: 2019-07-08
+url: https://discourse.slicer.org/t/7474
+---
+
 # Segmentation effects crashing Slicer
 
 **Topic ID**: 7474

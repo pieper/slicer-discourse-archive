@@ -1,3 +1,10 @@
+---
+topic_id: 26040
+title: "Limiting Dti Computation To A Masked Region Axis Re Oreintat"
+date: 2022-11-02
+url: https://discourse.slicer.org/t/26040
+---
+
 # Limiting DTI computation to a masked region, axis re-oreintaton
 
 **Topic ID**: 26040

@@ -1,3 +1,10 @@
+---
+topic_id: 6750
+title: "Compiled App Whichs Source Pulled From Git Cannot Download E"
+date: 2019-05-10
+url: https://discourse.slicer.org/t/6750
+---
+
 # Compiled App whichs source pulled from git cannot download extension due to reversion not match.
 
 **Topic ID**: 6750

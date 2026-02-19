@@ -1,3 +1,10 @@
+---
+topic_id: 31941
+title: "Automatic Segmentation Of Low Intensity Difference Layers"
+date: 2023-09-28
+url: https://discourse.slicer.org/t/31941
+---
+
 # Automatic segmentation of low intensity-difference layers
 
 **Topic ID**: 31941

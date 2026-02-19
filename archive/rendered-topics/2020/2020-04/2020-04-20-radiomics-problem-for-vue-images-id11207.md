@@ -1,3 +1,10 @@
+---
+topic_id: 11207
+title: "Radiomics Problem For Vue Images"
+date: 2020-04-20
+url: https://discourse.slicer.org/t/11207
+---
+
 # Radiomics problem for VUE images
 
 **Topic ID**: 11207

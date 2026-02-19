@@ -1,3 +1,10 @@
+---
+topic_id: 2060
+title: "Build Error Caused By Qslicersubjecthierarchyplotsplugin"
+date: 2018-02-10
+url: https://discourse.slicer.org/t/2060
+---
+
 # Build error caused by qSlicerSubjectHierarchyPlotsPlugin
 
 **Topic ID**: 2060

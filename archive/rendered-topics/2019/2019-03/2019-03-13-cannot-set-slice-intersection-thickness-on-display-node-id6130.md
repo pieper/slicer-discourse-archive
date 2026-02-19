@@ -1,3 +1,10 @@
+---
+topic_id: 6130
+title: "Cannot Set Slice Intersection Thickness On Display Node"
+date: 2019-03-13
+url: https://discourse.slicer.org/t/6130
+---
+
 # Cannot set slice intersection thickness on display node
 
 **Topic ID**: 6130

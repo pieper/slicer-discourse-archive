@@ -1,3 +1,10 @@
+---
+topic_id: 32181
+title: "Exception Thrown In Event"
+date: 2023-10-12
+url: https://discourse.slicer.org/t/32181
+---
+
 # Exception thrown in event
 
 **Topic ID**: 32181

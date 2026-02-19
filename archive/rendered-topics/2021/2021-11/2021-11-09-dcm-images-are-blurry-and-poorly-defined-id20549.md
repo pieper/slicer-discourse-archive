@@ -1,3 +1,10 @@
+---
+topic_id: 20549
+title: "Dcm Images Are Blurry And Poorly Defined"
+date: 2021-11-09
+url: https://discourse.slicer.org/t/20549
+---
+
 # DCM Images are blurry and poorly defined
 
 **Topic ID**: 20549

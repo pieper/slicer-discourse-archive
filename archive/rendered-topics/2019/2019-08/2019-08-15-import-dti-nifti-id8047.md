@@ -1,3 +1,10 @@
+---
+topic_id: 8047
+title: "Import Dti Nifti"
+date: 2019-08-15
+url: https://discourse.slicer.org/t/8047
+---
+
 # Import DTI nifti
 
 **Topic ID**: 8047

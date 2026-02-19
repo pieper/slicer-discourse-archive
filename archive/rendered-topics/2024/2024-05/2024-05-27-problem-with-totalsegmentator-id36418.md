@@ -1,3 +1,10 @@
+---
+topic_id: 36418
+title: "Problem With Totalsegmentator"
+date: 2024-05-27
+url: https://discourse.slicer.org/t/36418
+---
+
 # Problem with TotalSegmentator
 
 **Topic ID**: 36418

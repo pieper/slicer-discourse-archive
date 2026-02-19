@@ -1,3 +1,10 @@
+---
+topic_id: 10185
+title: "Thread For Uploading Data"
+date: 2020-02-10
+url: https://discourse.slicer.org/t/10185
+---
+
 # Thread for uploading data
 
 **Topic ID**: 10185

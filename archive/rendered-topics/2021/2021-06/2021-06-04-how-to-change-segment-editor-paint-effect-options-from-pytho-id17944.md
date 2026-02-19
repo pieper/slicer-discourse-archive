@@ -1,3 +1,10 @@
+---
+topic_id: 17944
+title: "How To Change Segment Editor Paint Effect Options From Pytho"
+date: 2021-06-04
+url: https://discourse.slicer.org/t/17944
+---
+
 # How to change Segment Editor Paint effect options from Python script
 
 **Topic ID**: 17944

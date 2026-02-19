@@ -1,3 +1,10 @@
+---
+topic_id: 28147
+title: "How Can I Create 3D Dcm File With 2D Image"
+date: 2023-03-02
+url: https://discourse.slicer.org/t/28147
+---
+
 # How can I create 3D dcm file with 2d image?
 
 **Topic ID**: 28147

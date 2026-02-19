@@ -1,3 +1,10 @@
+---
+topic_id: 34218
+title: "Dvh Segmentation"
+date: 2024-02-09
+url: https://discourse.slicer.org/t/34218
+---
+
 # DVH segmentation
 
 **Topic ID**: 34218

@@ -1,3 +1,10 @@
+---
+topic_id: 45634
+title: "Roi Based Segmentation In Monai Label Slicer Extension Does"
+date: 2025-12-30
+url: https://discourse.slicer.org/t/45634
+---
+
 # ROI-based segmentation in MONAI Label Slicer extension does not work correctly for specific labels
 
 **Topic ID**: 45634

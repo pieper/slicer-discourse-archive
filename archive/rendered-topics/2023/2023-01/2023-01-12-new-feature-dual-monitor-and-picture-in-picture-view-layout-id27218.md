@@ -1,3 +1,10 @@
+---
+topic_id: 27218
+title: "New Feature Dual Monitor And Picture In Picture View Layout"
+date: 2023-01-12
+url: https://discourse.slicer.org/t/27218
+---
+
 # New feature: Dual monitor and picture-in-picture view layout
 
 **Topic ID**: 27218

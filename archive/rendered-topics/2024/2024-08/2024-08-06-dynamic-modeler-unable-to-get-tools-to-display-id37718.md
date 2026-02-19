@@ -1,3 +1,10 @@
+---
+topic_id: 37718
+title: "Dynamic Modeler Unable To Get Tools To Display"
+date: 2024-08-06
+url: https://discourse.slicer.org/t/37718
+---
+
 # Dynamic Modeler - unable to get tools to display
 
 **Topic ID**: 37718

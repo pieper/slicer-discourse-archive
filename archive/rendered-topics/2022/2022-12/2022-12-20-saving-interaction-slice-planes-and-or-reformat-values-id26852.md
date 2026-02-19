@@ -1,3 +1,10 @@
+---
+topic_id: 26852
+title: "Saving Interaction Slice Planes And Or Reformat Values"
+date: 2022-12-20
+url: https://discourse.slicer.org/t/26852
+---
+
 # Saving interaction slice planes and/or reformat values
 
 **Topic ID**: 26852

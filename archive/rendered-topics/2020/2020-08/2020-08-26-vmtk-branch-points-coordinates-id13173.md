@@ -1,3 +1,10 @@
+---
+topic_id: 13173
+title: "Vmtk Branch Points Coordinates"
+date: 2020-08-26
+url: https://discourse.slicer.org/t/13173
+---
+
 # VMTK - Branch points coordinates
 
 **Topic ID**: 13173

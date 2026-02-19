@@ -1,3 +1,10 @@
+---
+topic_id: 24921
+title: "Sharing Python Code Between Scripted Loadable Modules"
+date: 2022-08-25
+url: https://discourse.slicer.org/t/24921
+---
+
 # Sharing python code between (scripted loadable) modules
 
 **Topic ID**: 24921

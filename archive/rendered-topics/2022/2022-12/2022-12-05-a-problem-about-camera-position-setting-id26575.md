@@ -1,3 +1,10 @@
+---
+topic_id: 26575
+title: "A Problem About Camera Position Setting"
+date: 2022-12-05
+url: https://discourse.slicer.org/t/26575
+---
+
 # A problem about camera position setting
 
 **Topic ID**: 26575

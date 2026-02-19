@@ -1,3 +1,10 @@
+---
+topic_id: 30864
+title: "How To Solve Loading Problems In Adding Dicom Data"
+date: 2023-07-28
+url: https://discourse.slicer.org/t/30864
+---
+
 # How to solve loading problems in adding DICOM data
 
 **Topic ID**: 30864

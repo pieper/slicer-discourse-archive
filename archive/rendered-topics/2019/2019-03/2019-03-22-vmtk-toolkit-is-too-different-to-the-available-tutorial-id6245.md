@@ -1,3 +1,10 @@
+---
+topic_id: 6245
+title: "Vmtk Toolkit Is Too Different To The Available Tutorial"
+date: 2019-03-22
+url: https://discourse.slicer.org/t/6245
+---
+
 # VMTK toolkit is too different to the available tutorial
 
 **Topic ID**: 6245

@@ -1,3 +1,10 @@
+---
+topic_id: 11585
+title: "Access Widget Class From The Test Class In A Slicer Plugin"
+date: 2020-05-17
+url: https://discourse.slicer.org/t/11585
+---
+
 # Access widget class from the test class in a Slicer plugin
 
 **Topic ID**: 11585

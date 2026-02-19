@@ -1,3 +1,10 @@
+---
+topic_id: 2241
+title: "Accessing The Module Window"
+date: 2018-03-05
+url: https://discourse.slicer.org/t/2241
+---
+
 # Accessing the Module Window
 
 **Topic ID**: 2241

@@ -1,3 +1,10 @@
+---
+topic_id: 23805
+title: "Exporting H 264 Or Mpeg 4 Or Even Animated Gif After I Anima"
+date: 2022-06-10
+url: https://discourse.slicer.org/t/23805
+---
+
 # Exporting H.264 or Mpeg-4 or even animated GIF after I animated with SlicerMorph.
 
 **Topic ID**: 23805

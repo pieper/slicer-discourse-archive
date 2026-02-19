@@ -1,3 +1,10 @@
+---
+topic_id: 44008
+title: "Are There Any Extensions For Filling Large Holes On Surface"
+date: 2025-08-07
+url: https://discourse.slicer.org/t/44008
+---
+
 # Are there any extensions for filling large holes on surface models for conversion to segments?
 
 **Topic ID**: 44008

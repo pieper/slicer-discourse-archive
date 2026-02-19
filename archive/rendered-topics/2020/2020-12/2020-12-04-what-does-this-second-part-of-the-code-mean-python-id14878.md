@@ -1,3 +1,10 @@
+---
+topic_id: 14878
+title: "What Does This Second Part Of The Code Mean Python"
+date: 2020-12-04
+url: https://discourse.slicer.org/t/14878
+---
+
 # What does this second part of the code mean? Python
 
 **Topic ID**: 14878

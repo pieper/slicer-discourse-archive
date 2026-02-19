@@ -1,3 +1,10 @@
+---
+topic_id: 11233
+title: "Community Document For Slicer 5 Release Highlights"
+date: 2020-04-21
+url: https://discourse.slicer.org/t/11233
+---
+
 # Community document for Slicer 5 release highlights
 
 **Topic ID**: 11233

@@ -1,3 +1,10 @@
+---
+topic_id: 40954
+title: "Failed To Upgrade Totalsegmentator"
+date: 2025-01-05
+url: https://discourse.slicer.org/t/40954
+---
+
 # Failed to upgrade TotalSegmentator
 
 **Topic ID**: 40954

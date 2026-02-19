@@ -1,3 +1,10 @@
+---
+topic_id: 6096
+title: "Why The File Folder Is Empty"
+date: 2019-03-11
+url: https://discourse.slicer.org/t/6096
+---
+
 # Why the file folder is empty?
 
 **Topic ID**: 6096

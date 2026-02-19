@@ -1,3 +1,10 @@
+---
+topic_id: 7226
+title: "Disconnect Signal"
+date: 2019-06-18
+url: https://discourse.slicer.org/t/7226
+---
+
 # Disconnect signal
 
 **Topic ID**: 7226

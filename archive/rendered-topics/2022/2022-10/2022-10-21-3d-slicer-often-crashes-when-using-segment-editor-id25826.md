@@ -1,3 +1,10 @@
+---
+topic_id: 25826
+title: "3D Slicer Often Crashes When Using Segment Editor"
+date: 2022-10-21
+url: https://discourse.slicer.org/t/25826
+---
+
 # 3D Slicer often crashes when using Segment Editor
 
 **Topic ID**: 25826

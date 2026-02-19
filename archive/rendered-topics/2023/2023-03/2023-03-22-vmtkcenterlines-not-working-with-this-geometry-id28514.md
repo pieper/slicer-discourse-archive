@@ -1,3 +1,10 @@
+---
+topic_id: 28514
+title: "Vmtkcenterlines Not Working With This Geometry"
+date: 2023-03-22
+url: https://discourse.slicer.org/t/28514
+---
+
 # vmtkcenterlines not working with this geometry
 
 **Topic ID**: 28514

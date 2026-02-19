@@ -1,3 +1,10 @@
+---
+topic_id: 9265
+title: "Weird Error Being Faced In Slicer Of Cropped Image"
+date: 2019-11-21
+url: https://discourse.slicer.org/t/9265
+---
+
 # WEIRD ERROR being faced in slicer of cropped image
 
 **Topic ID**: 9265

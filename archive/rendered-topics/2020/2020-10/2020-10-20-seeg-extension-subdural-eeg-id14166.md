@@ -1,3 +1,10 @@
+---
+topic_id: 14166
+title: "Seeg Extension Subdural Eeg"
+date: 2020-10-20
+url: https://discourse.slicer.org/t/14166
+---
+
 # SEEG extension/subdural EEG
 
 **Topic ID**: 14166

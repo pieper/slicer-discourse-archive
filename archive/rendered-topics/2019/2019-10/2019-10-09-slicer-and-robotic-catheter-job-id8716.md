@@ -1,3 +1,10 @@
+---
+topic_id: 8716
+title: "Slicer And Robotic Catheter Job"
+date: 2019-10-09
+url: https://discourse.slicer.org/t/8716
+---
+
 # Slicer and robotic catheter job
 
 **Topic ID**: 8716

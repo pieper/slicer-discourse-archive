@@ -1,3 +1,10 @@
+---
+topic_id: 3091
+title: "Evaluating Registration Error"
+date: 2018-06-06
+url: https://discourse.slicer.org/t/3091
+---
+
 # Evaluating registration error
 
 **Topic ID**: 3091

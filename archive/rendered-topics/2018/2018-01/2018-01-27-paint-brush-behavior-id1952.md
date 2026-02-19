@@ -1,3 +1,10 @@
+---
+topic_id: 1952
+title: "Paint Brush Behavior"
+date: 2018-01-27
+url: https://discourse.slicer.org/t/1952
+---
+
 # Paint brush behavior
 
 **Topic ID**: 1952

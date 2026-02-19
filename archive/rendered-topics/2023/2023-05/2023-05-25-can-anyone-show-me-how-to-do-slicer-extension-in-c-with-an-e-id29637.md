@@ -1,3 +1,10 @@
+---
+topic_id: 29637
+title: "Can Anyone Show Me How To Do Slicer Extension In C With An E"
+date: 2023-05-25
+url: https://discourse.slicer.org/t/29637
+---
+
 # Can anyone show me how to do slicer extension in c++ with an example?
 
 **Topic ID**: 29637

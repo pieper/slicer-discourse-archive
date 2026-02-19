@@ -1,3 +1,10 @@
+---
+topic_id: 36843
+title: "Is Slicer 5 6 X Or 5 7 X Supported On Red Hat Enterprise Lin"
+date: 2024-06-17
+url: https://discourse.slicer.org/t/36843
+---
+
 # Is slicer 5.6.x or 5.7.x supported on Red Hat Enterprise Linux release 8.10 (Ootpa)
 
 **Topic ID**: 36843

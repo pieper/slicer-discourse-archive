@@ -1,3 +1,10 @@
+---
+topic_id: 641
+title: "Windows Slicer Util Loadvolume Loads Wrong Volume"
+date: 2017-07-06
+url: https://discourse.slicer.org/t/641
+---
+
 # [Windows] slicer.util.loadVolume loads wrong volume
 
 **Topic ID**: 641

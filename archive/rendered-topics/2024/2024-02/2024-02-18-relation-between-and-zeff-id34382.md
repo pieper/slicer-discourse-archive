@@ -1,3 +1,10 @@
+---
+topic_id: 34382
+title: "Relation Between And Zeff"
+date: 2024-02-18
+url: https://discourse.slicer.org/t/34382
+---
+
 # Relation between μ and Zeff
 
 **Topic ID**: 34382

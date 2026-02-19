@@ -1,3 +1,10 @@
+---
+topic_id: 19329
+title: "Use Segmentation From Segment Editor As Initialization For L"
+date: 2021-08-24
+url: https://discourse.slicer.org/t/19329
+---
+
 # Use segmentation from Segment Editor as initialization for Level Set Segmentation
 
 **Topic ID**: 19329

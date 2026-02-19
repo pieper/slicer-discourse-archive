@@ -1,3 +1,10 @@
+---
+topic_id: 13588
+title: "Meshing Self Intersecting Faces"
+date: 2020-09-21
+url: https://discourse.slicer.org/t/13588
+---
+
 # Meshing: Self-intersecting faces
 
 **Topic ID**: 13588

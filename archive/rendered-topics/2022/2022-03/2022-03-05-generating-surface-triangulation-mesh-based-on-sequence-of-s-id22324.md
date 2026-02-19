@@ -1,3 +1,10 @@
+---
+topic_id: 22324
+title: "Generating Surface Triangulation Mesh Based On Sequence Of S"
+date: 2022-03-05
+url: https://discourse.slicer.org/t/22324
+---
+
 # Generating surface triangulation (mesh) based on sequence of segmentation
 
 **Topic ID**: 22324

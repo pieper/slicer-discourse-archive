@@ -1,3 +1,10 @@
+---
+topic_id: 490
+title: "Model Undercuts Removal By Label Map Addition"
+date: 2017-06-13
+url: https://discourse.slicer.org/t/490
+---
+
 # Model Undercuts Removal by Label Map Addition
 
 **Topic ID**: 490

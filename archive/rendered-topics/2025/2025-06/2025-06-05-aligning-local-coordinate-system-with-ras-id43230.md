@@ -1,3 +1,10 @@
+---
+topic_id: 43230
+title: "Aligning Local Coordinate System With Ras"
+date: 2025-06-05
+url: https://discourse.slicer.org/t/43230
+---
+
 # Aligning local coordinate system with RAS
 
 **Topic ID**: 43230

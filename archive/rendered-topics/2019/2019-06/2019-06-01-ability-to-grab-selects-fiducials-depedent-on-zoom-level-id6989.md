@@ -1,3 +1,10 @@
+---
+topic_id: 6989
+title: "Ability To Grab Selects Fiducials Depedent On Zoom Level"
+date: 2019-06-01
+url: https://discourse.slicer.org/t/6989
+---
+
 # Ability to grab/selects fiducials depedent on zoom level
 
 **Topic ID**: 6989

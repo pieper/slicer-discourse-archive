@@ -1,3 +1,10 @@
+---
+topic_id: 8669
+title: "Sorting Images In A Stack Based On Dicom Header"
+date: 2019-10-04
+url: https://discourse.slicer.org/t/8669
+---
+
 # Sorting images in a stack based on dicom header
 
 **Topic ID**: 8669

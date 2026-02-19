@@ -1,3 +1,10 @@
+---
+topic_id: 4944
+title: "Slicer Vr Scene Saved"
+date: 2018-12-03
+url: https://discourse.slicer.org/t/4944
+---
+
 # Slicer VR scene saved
 
 **Topic ID**: 4944

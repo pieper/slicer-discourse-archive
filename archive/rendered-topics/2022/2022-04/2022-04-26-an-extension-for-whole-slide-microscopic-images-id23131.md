@@ -1,3 +1,10 @@
+---
+topic_id: 23131
+title: "An Extension For Whole Slide Microscopic Images"
+date: 2022-04-26
+url: https://discourse.slicer.org/t/23131
+---
+
 # An extension for whole slide microscopic images
 
 **Topic ID**: 23131

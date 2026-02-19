@@ -1,3 +1,10 @@
+---
+topic_id: 14969
+title: "Change Display Lookup Table From Grey To Some Other Colour B"
+date: 2020-12-09
+url: https://discourse.slicer.org/t/14969
+---
+
 # Change Display Lookup Table from Grey to Some Other Colour by Default
 
 **Topic ID**: 14969

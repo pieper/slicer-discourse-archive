@@ -1,3 +1,10 @@
+---
+topic_id: 13973
+title: "A Few Problems With Slicer 4 13"
+date: 2020-10-10
+url: https://discourse.slicer.org/t/13973
+---
+
 # A few problems with Slicer 4.13
 
 **Topic ID**: 13973

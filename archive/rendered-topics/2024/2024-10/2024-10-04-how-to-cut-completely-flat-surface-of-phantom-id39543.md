@@ -1,3 +1,10 @@
+---
+topic_id: 39543
+title: "How To Cut Completely Flat Surface Of Phantom"
+date: 2024-10-04
+url: https://discourse.slicer.org/t/39543
+---
+
 # How to cut completely flat surface of phantom
 
 **Topic ID**: 39543

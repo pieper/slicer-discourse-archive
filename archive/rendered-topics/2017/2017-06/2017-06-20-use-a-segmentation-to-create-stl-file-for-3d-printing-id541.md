@@ -1,3 +1,10 @@
+---
+topic_id: 541
+title: "Use A Segmentation To Create Stl File For 3D Printing"
+date: 2017-06-20
+url: https://discourse.slicer.org/t/541
+---
+
 # Use a segmentation to create .stl file for 3D printing
 
 **Topic ID**: 541

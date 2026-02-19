@@ -1,3 +1,10 @@
+---
+topic_id: 44409
+title: "Create A Scripted Segment Editor Effect By Extension Wizard"
+date: 2025-09-09
+url: https://discourse.slicer.org/t/44409
+---
+
 # create a scripted segment editor effect by extension wizard  
 
 **Topic ID**: 44409

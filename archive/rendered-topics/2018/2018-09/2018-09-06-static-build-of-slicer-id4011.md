@@ -1,3 +1,10 @@
+---
+topic_id: 4011
+title: "Static Build Of Slicer"
+date: 2018-09-06
+url: https://discourse.slicer.org/t/4011
+---
+
 # Static build of Slicer
 
 **Topic ID**: 4011

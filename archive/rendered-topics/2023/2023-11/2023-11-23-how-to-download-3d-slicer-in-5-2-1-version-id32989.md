@@ -1,3 +1,10 @@
+---
+topic_id: 32989
+title: "How To Download 3D Slicer In 5 2 1 Version"
+date: 2023-11-23
+url: https://discourse.slicer.org/t/32989
+---
+
 # How to download 3D slicer in 5.2.1 version
 
 **Topic ID**: 32989

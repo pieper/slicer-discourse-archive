@@ -1,3 +1,10 @@
+---
+topic_id: 26818
+title: "Change Spacing And Thickness"
+date: 2022-12-19
+url: https://discourse.slicer.org/t/26818
+---
+
 # Change spacing and thickness
 
 **Topic ID**: 26818

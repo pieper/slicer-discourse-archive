@@ -1,3 +1,10 @@
+---
+topic_id: 1477
+title: "Cli Module Widget Internationalization"
+date: 2017-11-17
+url: https://discourse.slicer.org/t/1477
+---
+
 # CLI Module widget internationalization
 
 **Topic ID**: 1477

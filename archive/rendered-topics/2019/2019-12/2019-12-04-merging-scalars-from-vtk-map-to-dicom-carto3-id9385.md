@@ -1,3 +1,10 @@
+---
+topic_id: 9385
+title: "Merging Scalars From Vtk Map To Dicom Carto3"
+date: 2019-12-04
+url: https://discourse.slicer.org/t/9385
+---
+
 # Merging scalars from VTK map to Dicom Carto3
 
 **Topic ID**: 9385

@@ -1,3 +1,10 @@
+---
+topic_id: 25995
+title: "High Resolution Screenshot"
+date: 2022-11-01
+url: https://discourse.slicer.org/t/25995
+---
+
 # High resolution screenshot
 
 **Topic ID**: 25995

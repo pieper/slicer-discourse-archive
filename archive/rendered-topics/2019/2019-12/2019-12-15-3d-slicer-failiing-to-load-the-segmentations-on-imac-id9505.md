@@ -1,3 +1,10 @@
+---
+topic_id: 9505
+title: "3D Slicer Failiing To Load The Segmentations On Imac"
+date: 2019-12-15
+url: https://discourse.slicer.org/t/9505
+---
+
 # 3D slicer failiing to load the segmentations on iMac
 
 **Topic ID**: 9505

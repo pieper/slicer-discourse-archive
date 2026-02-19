@@ -1,3 +1,10 @@
+---
+topic_id: 23204
+title: "Workflow To Compare Two Models Based On Their Respective Ass"
+date: 2022-04-29
+url: https://discourse.slicer.org/t/23204
+---
+
 # Workflow to compare two models based on their respective associated scalars
 
 **Topic ID**: 23204

@@ -1,3 +1,10 @@
+---
+topic_id: 26156
+title: "Hint To Segmentation Shortcuts"
+date: 2022-11-09
+url: https://discourse.slicer.org/t/26156
+---
+
 # Hint to segmentation shortcuts
 
 **Topic ID**: 26156

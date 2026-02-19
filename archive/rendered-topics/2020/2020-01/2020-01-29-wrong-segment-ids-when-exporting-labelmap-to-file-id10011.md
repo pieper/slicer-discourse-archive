@@ -1,3 +1,10 @@
+---
+topic_id: 10011
+title: "Wrong Segment Ids When Exporting Labelmap To File"
+date: 2020-01-29
+url: https://discourse.slicer.org/t/10011
+---
+
 # Wrong segment IDs when exporting labelmap to file
 
 **Topic ID**: 10011

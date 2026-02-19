@@ -1,3 +1,10 @@
+---
+topic_id: 43198
+title: "Wm Gm Csf Segmentation In Flair T2 Dwi Tof Sequences"
+date: 2025-06-03
+url: https://discourse.slicer.org/t/43198
+---
+
 # WM/GM/CSF Segmentation in FLAIR, T2*, DWI, TOF Sequences
 
 **Topic ID**: 43198

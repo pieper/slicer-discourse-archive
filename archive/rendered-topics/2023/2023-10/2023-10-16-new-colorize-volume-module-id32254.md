@@ -1,3 +1,10 @@
+---
+topic_id: 32254
+title: "New Colorize Volume Module"
+date: 2023-10-16
+url: https://discourse.slicer.org/t/32254
+---
+
 # New Colorize Volume module
 
 **Topic ID**: 32254

@@ -1,3 +1,10 @@
+---
+topic_id: 26322
+title: "How To Upload Skull Base Ct Segmentation Model"
+date: 2022-11-19
+url: https://discourse.slicer.org/t/26322
+---
+
 # How to upload skull base CT segmentation model
 
 **Topic ID**: 26322

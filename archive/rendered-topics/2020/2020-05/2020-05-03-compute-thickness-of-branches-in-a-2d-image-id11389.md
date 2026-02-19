@@ -1,3 +1,10 @@
+---
+topic_id: 11389
+title: "Compute Thickness Of Branches In A 2D Image"
+date: 2020-05-03
+url: https://discourse.slicer.org/t/11389
+---
+
 # Compute thickness of branches in a 2D image
 
 **Topic ID**: 11389

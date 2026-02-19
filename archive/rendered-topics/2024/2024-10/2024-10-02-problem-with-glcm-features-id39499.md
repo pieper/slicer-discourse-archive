@@ -1,3 +1,10 @@
+---
+topic_id: 39499
+title: "Problem With Glcm Features"
+date: 2024-10-02
+url: https://discourse.slicer.org/t/39499
+---
+
 # Problem with GLCM features
 
 **Topic ID**: 39499

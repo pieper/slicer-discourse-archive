@@ -1,3 +1,10 @@
+---
+topic_id: 5260
+title: "How To Import All Dicom Files Into One Volume"
+date: 2019-01-03
+url: https://discourse.slicer.org/t/5260
+---
+
 # How to import all dicom files into one volume
 
 **Topic ID**: 5260

@@ -1,3 +1,10 @@
+---
+topic_id: 37037
+title: "The Eye Icon Is Not Working"
+date: 2024-06-26
+url: https://discourse.slicer.org/t/37037
+---
+
 # The eye icon is not working
 
 **Topic ID**: 37037

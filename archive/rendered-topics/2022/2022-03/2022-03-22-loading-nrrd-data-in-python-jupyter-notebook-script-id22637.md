@@ -1,3 +1,10 @@
+---
+topic_id: 22637
+title: "Loading Nrrd Data In Python Jupyter Notebook Script"
+date: 2022-03-22
+url: https://discourse.slicer.org/t/22637
+---
+
 # Loading nrrd data in python Jupyter notebook script
 
 **Topic ID**: 22637

@@ -1,3 +1,10 @@
+---
+topic_id: 3648
+title: "Rotate To Volume Plane Flips Image Orientation As Seen In Th"
+date: 2018-08-03
+url: https://discourse.slicer.org/t/3648
+---
+
 # "Rotate to volume plane" flips image orientation as seen in the slice viewer
 
 **Topic ID**: 3648

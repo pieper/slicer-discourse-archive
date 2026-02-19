@@ -1,3 +1,10 @@
+---
+topic_id: 13903
+title: "Can I Load A Plain Image File Into One Of The Slice Views Co"
+date: 2020-10-06
+url: https://discourse.slicer.org/t/13903
+---
+
 # Can I load a plain image file into one of the Slice views, controlled by a loadable C++ extension?
 
 **Topic ID**: 13903

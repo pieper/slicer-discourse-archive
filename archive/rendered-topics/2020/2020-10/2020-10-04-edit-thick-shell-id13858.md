@@ -1,3 +1,10 @@
+---
+topic_id: 13858
+title: "Edit Thick Shell"
+date: 2020-10-04
+url: https://discourse.slicer.org/t/13858
+---
+
 # Edit thick shell
 
 **Topic ID**: 13858

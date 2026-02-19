@@ -1,3 +1,10 @@
+---
+topic_id: 3309
+title: "Digitally Reconstructed Radiograph Using Models Instead Of V"
+date: 2018-06-26
+url: https://discourse.slicer.org/t/3309
+---
+
 # Digitally Reconstructed Radiograph Using Models Instead of Volumes
 
 **Topic ID**: 3309

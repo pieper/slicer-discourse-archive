@@ -1,3 +1,10 @@
+---
+topic_id: 5357
+title: "I Have A Centerline And Can I Have A Endoscopy With It"
+date: 2019-01-14
+url: https://discourse.slicer.org/t/5357
+---
+
 # I have a centerline and Can I have a endoscopy with it
 
 **Topic ID**: 5357

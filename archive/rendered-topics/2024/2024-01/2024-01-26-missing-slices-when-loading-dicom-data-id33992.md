@@ -1,3 +1,10 @@
+---
+topic_id: 33992
+title: "Missing Slices When Loading Dicom Data"
+date: 2024-01-26
+url: https://discourse.slicer.org/t/33992
+---
+
 # missing slices when loading dicom data
 
 **Topic ID**: 33992

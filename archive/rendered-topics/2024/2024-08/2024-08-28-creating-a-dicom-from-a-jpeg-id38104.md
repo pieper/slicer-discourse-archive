@@ -1,3 +1,10 @@
+---
+topic_id: 38104
+title: "Creating A Dicom From A Jpeg"
+date: 2024-08-28
+url: https://discourse.slicer.org/t/38104
+---
+
 # Creating a DICOM from a JPEG
 
 **Topic ID**: 38104

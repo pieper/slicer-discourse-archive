@@ -1,3 +1,10 @@
+---
+topic_id: 6252
+title: "How To Read Data From A Vtkmrmlscalarvolumenode"
+date: 2019-03-23
+url: https://discourse.slicer.org/t/6252
+---
+
 # How to read data from a vtkMRMLScalarVolumeNode
 
 **Topic ID**: 6252

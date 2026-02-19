@@ -1,3 +1,10 @@
+---
+topic_id: 11904
+title: "Modify Multiple Annotation Properties"
+date: 2020-06-06
+url: https://discourse.slicer.org/t/11904
+---
+
 # Modify Multiple Annotation Properties
 
 **Topic ID**: 11904

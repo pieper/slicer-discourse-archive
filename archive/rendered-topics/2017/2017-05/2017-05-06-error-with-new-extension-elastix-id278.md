@@ -1,3 +1,10 @@
+---
+topic_id: 278
+title: "Error With New Extension Elastix"
+date: 2017-05-06
+url: https://discourse.slicer.org/t/278
+---
+
 # Error with new extension Elastix
 
 **Topic ID**: 278

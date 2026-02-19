@@ -1,3 +1,10 @@
+---
+topic_id: 38010
+title: "Resolving Markup Interaction Slowdown On Model Nodes In 3D V"
+date: 2024-08-23
+url: https://discourse.slicer.org/t/38010
+---
+
 # Resolving Markup Interaction Slowdown on Model Nodes in 3D Viewer
 
 **Topic ID**: 38010

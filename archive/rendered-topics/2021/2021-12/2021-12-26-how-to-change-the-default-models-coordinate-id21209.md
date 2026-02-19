@@ -1,3 +1,10 @@
+---
+topic_id: 21209
+title: "How To Change The Default Models Coordinate"
+date: 2021-12-26
+url: https://discourse.slicer.org/t/21209
+---
+
 # How to change the default model's coordinate
 
 **Topic ID**: 21209

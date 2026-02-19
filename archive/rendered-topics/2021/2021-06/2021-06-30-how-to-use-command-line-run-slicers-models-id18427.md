@@ -1,3 +1,10 @@
+---
+topic_id: 18427
+title: "How To Use Command Line Run Slicers Models"
+date: 2021-06-30
+url: https://discourse.slicer.org/t/18427
+---
+
 # How to use command line run slicer's models
 
 **Topic ID**: 18427

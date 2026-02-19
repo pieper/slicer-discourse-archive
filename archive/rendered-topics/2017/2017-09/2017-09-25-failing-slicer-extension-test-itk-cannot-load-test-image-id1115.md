@@ -1,3 +1,10 @@
+---
+topic_id: 1115
+title: "Failing Slicer Extension Test Itk Cannot Load Test Image"
+date: 2017-09-25
+url: https://discourse.slicer.org/t/1115
+---
+
 # Failing Slicer Extension Test - ITK cannot load test image
 
 **Topic ID**: 1115

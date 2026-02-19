@@ -1,3 +1,10 @@
+---
+topic_id: 43922
+title: "Help Needed For Segmenting An Atrophic Maxilla In 3D Slicer"
+date: 2025-08-01
+url: https://discourse.slicer.org/t/43922
+---
+
 # Help needed for segmenting an atrophic maxilla in 3D Slicer (for 3D printing)
 
 **Topic ID**: 43922

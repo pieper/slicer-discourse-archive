@@ -1,3 +1,10 @@
+---
+topic_id: 20814
+title: "Displaying Cad Model In Slicer3D"
+date: 2021-11-28
+url: https://discourse.slicer.org/t/20814
+---
+
 # Displaying CAD Model in Slicer3D
 
 **Topic ID**: 20814

@@ -1,3 +1,10 @@
+---
+topic_id: 24989
+title: "How Do You Integrate Custom Extensions Into Slicers Project"
+date: 2022-08-30
+url: https://discourse.slicer.org/t/24989
+---
+
 # How do you integrate custom extensions into Slicer's project
 
 **Topic ID**: 24989

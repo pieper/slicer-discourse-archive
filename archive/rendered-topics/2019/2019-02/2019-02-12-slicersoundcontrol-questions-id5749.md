@@ -1,3 +1,10 @@
+---
+topic_id: 5749
+title: "Slicersoundcontrol Questions"
+date: 2019-02-12
+url: https://discourse.slicer.org/t/5749
+---
+
 # SlicerSoundControl Questions
 
 **Topic ID**: 5749

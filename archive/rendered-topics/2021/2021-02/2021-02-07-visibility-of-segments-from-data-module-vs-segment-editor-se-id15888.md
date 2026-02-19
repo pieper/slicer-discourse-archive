@@ -1,3 +1,10 @@
+---
+topic_id: 15888
+title: "Visibility Of Segments From Data Module Vs Segment Editor Se"
+date: 2021-02-07
+url: https://discourse.slicer.org/t/15888
+---
+
 # Visibility of segments from Data Module vs Segment Editor/Segmentations
 
 **Topic ID**: 15888

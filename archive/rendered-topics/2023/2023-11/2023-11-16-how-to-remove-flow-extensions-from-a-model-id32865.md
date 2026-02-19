@@ -1,3 +1,10 @@
+---
+topic_id: 32865
+title: "How To Remove Flow Extensions From A Model"
+date: 2023-11-16
+url: https://discourse.slicer.org/t/32865
+---
+
 # how to remove flow extensions from a model
 
 **Topic ID**: 32865

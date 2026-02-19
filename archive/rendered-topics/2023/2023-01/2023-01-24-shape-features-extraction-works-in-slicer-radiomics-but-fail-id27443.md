@@ -1,3 +1,10 @@
+---
+topic_id: 27443
+title: "Shape Features Extraction Works In Slicer Radiomics But Fail"
+date: 2023-01-24
+url: https://discourse.slicer.org/t/27443
+---
+
 # Shape features extraction works in Slicer Radiomics but fails with pure python pyradiomics
 
 **Topic ID**: 27443

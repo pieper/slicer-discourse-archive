@@ -1,3 +1,10 @@
+---
+topic_id: 27894
+title: "Segmentmesher In Slicer 5 2 And 5 3 Fail Error Vtkmodules Vt"
+date: 2023-02-18
+url: https://discourse.slicer.org/t/27894
+---
+
 # SegmentMesher in Slicer 5.2 and 5.3 fail: Error: 'vtkmodules.vtkFiltersCore.vtkThreshold' object has no attribute 'ThresholdByUpper'
 
 **Topic ID**: 27894

@@ -1,3 +1,10 @@
+---
+topic_id: 24052
+title: "Interactive Lung Lobe Segmentation Fails With Nifti Volume"
+date: 2022-06-26
+url: https://discourse.slicer.org/t/24052
+---
+
 # Interactive lung lobe segmentation fails with NIFTI volume
 
 **Topic ID**: 24052

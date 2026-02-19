@@ -1,3 +1,10 @@
+---
+topic_id: 11161
+title: "Problems Exporting Segmentation As Separate Z Slices"
+date: 2020-04-17
+url: https://discourse.slicer.org/t/11161
+---
+
 # Problems exporting segmentation as separate Z slices
 
 **Topic ID**: 11161

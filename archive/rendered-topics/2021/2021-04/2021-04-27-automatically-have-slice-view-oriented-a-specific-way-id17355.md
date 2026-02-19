@@ -1,3 +1,10 @@
+---
+topic_id: 17355
+title: "Automatically Have Slice View Oriented A Specific Way"
+date: 2021-04-27
+url: https://discourse.slicer.org/t/17355
+---
+
 # Automatically have slice view oriented a specific way
 
 **Topic ID**: 17355

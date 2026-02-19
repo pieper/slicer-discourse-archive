@@ -1,3 +1,10 @@
+---
+topic_id: 45658
+title: "Include Functionality Of Control Point Status In Custom Scri"
+date: 2026-01-02
+url: https://discourse.slicer.org/t/45658
+---
+
 # Include functionality of control point status in custom scripted module
 
 **Topic ID**: 45658

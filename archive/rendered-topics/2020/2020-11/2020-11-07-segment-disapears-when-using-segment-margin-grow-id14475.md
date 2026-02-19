@@ -1,3 +1,10 @@
+---
+topic_id: 14475
+title: "Segment Disapears When Using Segment Margin Grow"
+date: 2020-11-07
+url: https://discourse.slicer.org/t/14475
+---
+
 # Segment disapears when using segment margin-> grow
 
 **Topic ID**: 14475

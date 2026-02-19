@@ -1,3 +1,10 @@
+---
+topic_id: 3400
+title: "The Color Of The Flipped Segment"
+date: 2018-07-06
+url: https://discourse.slicer.org/t/3400
+---
+
 # The color of the flipped segment
 
 **Topic ID**: 3400

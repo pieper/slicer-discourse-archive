@@ -1,3 +1,10 @@
+---
+topic_id: 24918
+title: "How To Select Different Segmentation Nodes For The Paint Eff"
+date: 2022-08-25
+url: https://discourse.slicer.org/t/24918
+---
+
 # How to select different segmentation nodes for the Paint effect?
 
 **Topic ID**: 24918

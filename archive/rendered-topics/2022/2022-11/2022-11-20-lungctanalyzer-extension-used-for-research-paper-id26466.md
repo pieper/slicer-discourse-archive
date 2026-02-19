@@ -1,3 +1,10 @@
+---
+topic_id: 26466
+title: "Lungctanalyzer Extension Used For Research Paper"
+date: 2022-11-20
+url: https://discourse.slicer.org/t/26466
+---
+
 # LungCTAnalyzer extension used for research paper
 
 **Topic ID**: 26466

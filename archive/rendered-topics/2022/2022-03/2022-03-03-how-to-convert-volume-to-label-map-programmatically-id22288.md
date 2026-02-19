@@ -1,3 +1,10 @@
+---
+topic_id: 22288
+title: "How To Convert Volume To Label Map Programmatically"
+date: 2022-03-03
+url: https://discourse.slicer.org/t/22288
+---
+
 # How to convert volume to label map programmatically
 
 **Topic ID**: 22288

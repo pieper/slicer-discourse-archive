@@ -1,3 +1,10 @@
+---
+topic_id: 27959
+title: "Creating New Views Using Cameras"
+date: 2023-02-22
+url: https://discourse.slicer.org/t/27959
+---
+
 # Creating New Views using Cameras
 
 **Topic ID**: 27959

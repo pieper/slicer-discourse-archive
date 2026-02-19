@@ -1,3 +1,10 @@
+---
+topic_id: 9510
+title: "Visualize Vertebra Density"
+date: 2019-12-16
+url: https://discourse.slicer.org/t/9510
+---
+
 # Visualize vertebra density
 
 **Topic ID**: 9510

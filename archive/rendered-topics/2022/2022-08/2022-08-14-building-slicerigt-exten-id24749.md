@@ -1,3 +1,10 @@
+---
+topic_id: 24749
+title: "Building Slicerigt Exten"
+date: 2022-08-14
+url: https://discourse.slicer.org/t/24749
+---
+
 # Building SlicerIGT exten
 
 **Topic ID**: 24749

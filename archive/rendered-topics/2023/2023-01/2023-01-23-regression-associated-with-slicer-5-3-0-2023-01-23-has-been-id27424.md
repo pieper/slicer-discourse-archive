@@ -1,3 +1,10 @@
+---
+topic_id: 27424
+title: "Regression Associated With Slicer 5 3 0 2023 01 23 Has Been"
+date: 2023-01-23
+url: https://discourse.slicer.org/t/27424
+---
+
 # Regression associated with Slicer 5.3.0 2023-01-23 has been fixed
 
 **Topic ID**: 27424

@@ -1,3 +1,10 @@
+---
+topic_id: 34315
+title: "How To Perform 3D Reconstruction"
+date: 2024-02-14
+url: https://discourse.slicer.org/t/34315
+---
+
 # How to perform 3d reconstruction
 
 **Topic ID**: 34315

@@ -1,3 +1,10 @@
+---
+topic_id: 41569
+title: "Margin Effect Has A Bug"
+date: 2025-02-07
+url: https://discourse.slicer.org/t/41569
+---
+
 # Margin effect has a bug?
 
 **Topic ID**: 41569

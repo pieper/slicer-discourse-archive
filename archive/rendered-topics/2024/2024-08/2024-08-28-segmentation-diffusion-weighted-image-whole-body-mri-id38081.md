@@ -1,3 +1,10 @@
+---
+topic_id: 38081
+title: "Segmentation Diffusion Weighted Image Whole Body Mri"
+date: 2024-08-28
+url: https://discourse.slicer.org/t/38081
+---
+
 # Segmentation Diffusion Weighted Image Whole Body MRI
 
 **Topic ID**: 38081

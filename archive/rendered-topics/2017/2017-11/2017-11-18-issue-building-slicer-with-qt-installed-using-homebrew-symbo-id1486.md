@@ -1,3 +1,10 @@
+---
+topic_id: 1486
+title: "Issue Building Slicer With Qt Installed Using Homebrew Symbo"
+date: 2017-11-18
+url: https://discourse.slicer.org/t/1486
+---
+
 # Issue building Slicer with Qt installed using Homebrew: Symbol not found: __cg_jpeg_resync_to_restart
 
 **Topic ID**: 1486

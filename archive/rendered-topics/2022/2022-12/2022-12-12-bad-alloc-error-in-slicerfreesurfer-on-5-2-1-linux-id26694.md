@@ -1,3 +1,10 @@
+---
+topic_id: 26694
+title: "Bad Alloc Error In Slicerfreesurfer On 5 2 1 Linux"
+date: 2022-12-12
+url: https://discourse.slicer.org/t/26694
+---
+
 # bad_alloc error in slicerfreesurfer on 5.2.1 Linux
 
 **Topic ID**: 26694

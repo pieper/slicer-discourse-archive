@@ -1,3 +1,10 @@
+---
+topic_id: 10544
+title: "Simple Way To Disable Data Probe For Some Modules"
+date: 2020-03-04
+url: https://discourse.slicer.org/t/10544
+---
+
 # Simple way to disable Data Probe for some modules
 
 **Topic ID**: 10544

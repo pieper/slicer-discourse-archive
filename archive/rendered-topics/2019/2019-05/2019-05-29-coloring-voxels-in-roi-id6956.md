@@ -1,3 +1,10 @@
+---
+topic_id: 6956
+title: "Coloring Voxels In Roi"
+date: 2019-05-29
+url: https://discourse.slicer.org/t/6956
+---
+
 # Coloring voxels in ROI
 
 **Topic ID**: 6956

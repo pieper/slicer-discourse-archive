@@ -1,3 +1,10 @@
+---
+topic_id: 22249
+title: "Import Rclpy In Scripted Module"
+date: 2022-03-01
+url: https://discourse.slicer.org/t/22249
+---
+
 # Import rclpy in scripted module
 
 **Topic ID**: 22249

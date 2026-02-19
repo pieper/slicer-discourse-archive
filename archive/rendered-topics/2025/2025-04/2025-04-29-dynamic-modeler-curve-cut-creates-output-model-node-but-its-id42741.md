@@ -1,3 +1,10 @@
+---
+topic_id: 42741
+title: "Dynamic Modeler Curve Cut Creates Output Model Node But Its"
+date: 2025-04-29
+url: https://discourse.slicer.org/t/42741
+---
+
 # Dynamic Modeler "Curve cut" creates output model node, but it's empty (no surface)
 
 **Topic ID**: 42741

@@ -1,3 +1,10 @@
+---
+topic_id: 13764
+title: "Is It Possible To Merge Multiple Labels Into One Label In A"
+date: 2020-09-30
+url: https://discourse.slicer.org/t/13764
+---
+
 # Is it possible to merge multiple labels into one label in a segmentation image?
 
 **Topic ID**: 13764

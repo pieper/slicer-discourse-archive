@@ -1,3 +1,10 @@
+---
+topic_id: 14452
+title: "Dicom Browser Hangs"
+date: 2020-10-28
+url: https://discourse.slicer.org/t/14452
+---
+
 # DICOM browser hangs
 
 **Topic ID**: 14452

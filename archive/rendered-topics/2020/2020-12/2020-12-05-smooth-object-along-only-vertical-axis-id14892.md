@@ -1,3 +1,10 @@
+---
+topic_id: 14892
+title: "Smooth Object Along Only Vertical Axis"
+date: 2020-12-05
+url: https://discourse.slicer.org/t/14892
+---
+
 # Smooth object along only vertical axis
 
 **Topic ID**: 14892

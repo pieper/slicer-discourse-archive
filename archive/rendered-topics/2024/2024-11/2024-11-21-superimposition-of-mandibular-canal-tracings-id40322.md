@@ -1,3 +1,10 @@
+---
+topic_id: 40322
+title: "Superimposition Of Mandibular Canal Tracings"
+date: 2024-11-21
+url: https://discourse.slicer.org/t/40322
+---
+
 # Superimposition of mandibular canal tracings 
 
 **Topic ID**: 40322

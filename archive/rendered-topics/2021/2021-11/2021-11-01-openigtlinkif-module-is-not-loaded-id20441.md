@@ -1,3 +1,10 @@
+---
+topic_id: 20441
+title: "Openigtlinkif Module Is Not Loaded"
+date: 2021-11-01
+url: https://discourse.slicer.org/t/20441
+---
+
 # OpenIGTLinkIF module is not loaded
 
 **Topic ID**: 20441

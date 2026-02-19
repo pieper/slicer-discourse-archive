@@ -1,3 +1,10 @@
+---
+topic_id: 26461
+title: "Local Threshold"
+date: 2022-11-27
+url: https://discourse.slicer.org/t/26461
+---
+
 # Local threshold
 
 **Topic ID**: 26461

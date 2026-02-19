@@ -1,3 +1,10 @@
+---
+topic_id: 32557
+title: "How To Do The Surface Rendering Of Knee Joint"
+date: 2023-11-02
+url: https://discourse.slicer.org/t/32557
+---
+
 # How to do the Surface rendering of knee joint
 
 **Topic ID**: 32557

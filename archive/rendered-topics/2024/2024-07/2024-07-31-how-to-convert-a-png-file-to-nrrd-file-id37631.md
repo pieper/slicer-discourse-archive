@@ -1,3 +1,10 @@
+---
+topic_id: 37631
+title: "How To Convert A Png File To Nrrd File"
+date: 2024-07-31
+url: https://discourse.slicer.org/t/37631
+---
+
 # How to convert a png file to nrrd file?
 
 **Topic ID**: 37631

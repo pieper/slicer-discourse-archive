@@ -1,3 +1,10 @@
+---
+topic_id: 8598
+title: "Slicer 4 11 Crash When Switch To A Layout With Standard Quan"
+date: 2019-09-27
+url: https://discourse.slicer.org/t/8598
+---
+
 # Slicer 4.11 crash when switch to a layout with standard quantitave
 
 **Topic ID**: 8598

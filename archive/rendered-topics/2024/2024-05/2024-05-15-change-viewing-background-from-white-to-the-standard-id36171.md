@@ -1,3 +1,10 @@
+---
+topic_id: 36171
+title: "Change Viewing Background From White To The Standard"
+date: 2024-05-15
+url: https://discourse.slicer.org/t/36171
+---
+
 # Change viewing background from white to the standard
 
 **Topic ID**: 36171

@@ -1,3 +1,10 @@
+---
+topic_id: 27019
+title: "Cmf Extension Not Available In Mac Preview Build"
+date: 2023-01-03
+url: https://discourse.slicer.org/t/27019
+---
+
 # CMF extension not available in Mac preview build
 
 **Topic ID**: 27019

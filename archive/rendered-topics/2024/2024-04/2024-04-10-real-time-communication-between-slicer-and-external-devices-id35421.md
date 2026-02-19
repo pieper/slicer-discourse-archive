@@ -1,3 +1,10 @@
+---
+topic_id: 35421
+title: "Real Time Communication Between Slicer And External Devices"
+date: 2024-04-10
+url: https://discourse.slicer.org/t/35421
+---
+
 # Real-time communication between slicer and external devices
 
 **Topic ID**: 35421

@@ -1,3 +1,10 @@
+---
+topic_id: 43114
+title: "Workshop On 3D Slicer And Sofa"
+date: 2025-05-27
+url: https://discourse.slicer.org/t/43114
+---
+
 # Workshop on 3D Slicer and SOFA
 
 **Topic ID**: 43114

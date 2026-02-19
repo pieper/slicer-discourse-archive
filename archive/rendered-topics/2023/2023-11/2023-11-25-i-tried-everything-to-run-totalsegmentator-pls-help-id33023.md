@@ -1,3 +1,10 @@
+---
+topic_id: 33023
+title: "I Tried Everything To Run Totalsegmentator Pls Help"
+date: 2023-11-25
+url: https://discourse.slicer.org/t/33023
+---
+
 # I tried everything to run totalsegmentator pls help
 
 **Topic ID**: 33023

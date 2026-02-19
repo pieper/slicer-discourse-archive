@@ -1,3 +1,10 @@
+---
+topic_id: 25351
+title: "Ijk To Ras Direction Matrix"
+date: 2022-09-20
+url: https://discourse.slicer.org/t/25351
+---
+
 # IJK to RAS direction Matrix
 
 **Topic ID**: 25351

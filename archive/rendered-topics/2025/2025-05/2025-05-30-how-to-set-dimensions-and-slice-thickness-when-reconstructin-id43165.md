@@ -1,3 +1,10 @@
+---
+topic_id: 43165
+title: "How To Set Dimensions And Slice Thickness When Reconstructin"
+date: 2025-05-30
+url: https://discourse.slicer.org/t/43165
+---
+
 # How to set dimensions and slice thickness when reconstructing FIB stack
 
 **Topic ID**: 43165

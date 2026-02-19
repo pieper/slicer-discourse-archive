@@ -1,3 +1,10 @@
+---
+topic_id: 23416
+title: "In Plane View Rotation Via Mouse Interaction"
+date: 2022-05-13
+url: https://discourse.slicer.org/t/23416
+---
+
 # In-plane view rotation via mouse interaction?
 
 **Topic ID**: 23416

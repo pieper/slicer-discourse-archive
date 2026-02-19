@@ -1,3 +1,10 @@
+---
+topic_id: 41967
+title: "Issue Connecting To Vega Vt Through Plus"
+date: 2025-03-04
+url: https://discourse.slicer.org/t/41967
+---
+
 # Issue connecting to Vega VT Through PLUS
 
 **Topic ID**: 41967

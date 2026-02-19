@@ -1,3 +1,10 @@
+---
+topic_id: 33049
+title: "View Multiple Axial Slices In The 3D View Blue Window"
+date: 2023-11-27
+url: https://discourse.slicer.org/t/33049
+---
+
 # View multiple axial slices in the 3D view blue window
 
 **Topic ID**: 33049

@@ -1,3 +1,10 @@
+---
+topic_id: 13988
+title: "Odd Appearance Of Model In Slice View In Projection Mode"
+date: 2020-10-11
+url: https://discourse.slicer.org/t/13988
+---
+
 # Odd appearance of model in slice view in projection mode
 
 **Topic ID**: 13988

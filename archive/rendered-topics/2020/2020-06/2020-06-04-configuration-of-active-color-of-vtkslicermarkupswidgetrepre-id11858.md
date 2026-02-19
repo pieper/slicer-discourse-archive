@@ -1,3 +1,10 @@
+---
+topic_id: 11858
+title: "Configuration Of Active Color Of Vtkslicermarkupswidgetrepre"
+date: 2020-06-04
+url: https://discourse.slicer.org/t/11858
+---
+
 # Configuration of active color of vtkSlicerMarkupsWidgetRepresentation
 
 **Topic ID**: 11858

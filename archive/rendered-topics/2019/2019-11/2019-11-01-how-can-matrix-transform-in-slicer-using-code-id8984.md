@@ -1,3 +1,10 @@
+---
+topic_id: 8984
+title: "How Can Matrix Transform In Slicer Using Code"
+date: 2019-11-01
+url: https://discourse.slicer.org/t/8984
+---
+
 # How can matrix transform in slicer using code?
 
 **Topic ID**: 8984

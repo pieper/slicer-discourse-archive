@@ -1,3 +1,10 @@
+---
+topic_id: 18335
+title: "Programmatically Setting A Transformprocessornode"
+date: 2021-06-25
+url: https://discourse.slicer.org/t/18335
+---
+
 # Programmatically setting a TransformProcessorNode
 
 **Topic ID**: 18335

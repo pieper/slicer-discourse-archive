@@ -1,3 +1,10 @@
+---
+topic_id: 13332
+title: "How To Display Calculate The Intensity Median Mean And Stand"
+date: 2020-09-04
+url: https://discourse.slicer.org/t/13332
+---
+
 # How to display/calculate the intensity (median, mean and Standard Deviation) for my segment
 
 **Topic ID**: 13332

@@ -1,3 +1,10 @@
+---
+topic_id: 29578
+title: "Dti Alps X Y Z Projection Of Mean Diffusivity"
+date: 2023-05-22
+url: https://discourse.slicer.org/t/29578
+---
+
 # DTI_ALPS x,y,z-projection of mean diffusivity
 
 **Topic ID**: 29578

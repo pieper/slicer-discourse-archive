@@ -1,3 +1,10 @@
+---
+topic_id: 18478
+title: "Change The Splash Screen Of Slicer Upon Launch"
+date: 2021-07-02
+url: https://discourse.slicer.org/t/18478
+---
+
 # Change the splash screen of Slicer upon launch
 
 **Topic ID**: 18478

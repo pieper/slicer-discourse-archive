@@ -1,3 +1,10 @@
+---
+topic_id: 10617
+title: "Automate Import Segmentation Export Process For Bronchial Tr"
+date: 2020-03-10
+url: https://discourse.slicer.org/t/10617
+---
+
 # Automate import-segmentation-export process for bronchial tree
 
 **Topic ID**: 10617

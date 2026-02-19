@@ -1,3 +1,10 @@
+---
+topic_id: 113
+title: "Its All About Transitions Lets Talk About Slicers Landing Pa"
+date: 2017-04-13
+url: https://discourse.slicer.org/t/113
+---
+
 # Its all about transitions! Lets talk about Slicer's landing page
 
 **Topic ID**: 113

@@ -1,3 +1,10 @@
+---
+topic_id: 24070
+title: "Software Developer Job Opportunity At The Neuro Mcgill Unive"
+date: 2022-06-27
+url: https://discourse.slicer.org/t/24070
+---
+
 # Software Developer Job Opportunity at The Neuro (McGill University) in Montreal, Canada.
 
 **Topic ID**: 24070

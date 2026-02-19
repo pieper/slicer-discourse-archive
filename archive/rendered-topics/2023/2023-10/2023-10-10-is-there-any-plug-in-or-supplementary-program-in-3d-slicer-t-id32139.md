@@ -1,3 +1,10 @@
+---
+topic_id: 32139
+title: "Is There Any Plug In Or Supplementary Program In 3D Slicer T"
+date: 2023-10-10
+url: https://discourse.slicer.org/t/32139
+---
+
 # Is there any plug-in or supplementary program in 3D slicer that can automatically delineate and distinguish subcutaneous fat, visceral fat and skeletal muscle in CT?
 
 **Topic ID**: 32139

@@ -1,3 +1,10 @@
+---
+topic_id: 14077
+title: "Extension Manager Icons Look Faded"
+date: 2020-10-16
+url: https://discourse.slicer.org/t/14077
+---
+
 # Extension manager icons look faded
 
 **Topic ID**: 14077

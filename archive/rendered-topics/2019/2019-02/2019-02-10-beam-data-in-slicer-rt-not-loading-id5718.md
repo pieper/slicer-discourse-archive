@@ -1,3 +1,10 @@
+---
+topic_id: 5718
+title: "Beam Data In Slicer Rt Not Loading"
+date: 2019-02-10
+url: https://discourse.slicer.org/t/5718
+---
+
 # Beam Data in Slicer RT not loading
 
 **Topic ID**: 5718

@@ -1,3 +1,10 @@
+---
+topic_id: 12427
+title: "Export Roi As Dicom Nifti"
+date: 2020-07-07
+url: https://discourse.slicer.org/t/12427
+---
+
 # Export ROI as DICOM & NiFTI?
 
 **Topic ID**: 12427

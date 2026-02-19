@@ -1,3 +1,10 @@
+---
+topic_id: 27510
+title: "Is There A Way To Register 2D T Cines"
+date: 2023-01-27
+url: https://discourse.slicer.org/t/27510
+---
+
 # Is there a way to register 2D+t cines?
 
 **Topic ID**: 27510

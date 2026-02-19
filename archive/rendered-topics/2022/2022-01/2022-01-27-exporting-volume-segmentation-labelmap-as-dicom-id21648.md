@@ -1,3 +1,10 @@
+---
+topic_id: 21648
+title: "Exporting Volume Segmentation Labelmap As Dicom"
+date: 2022-01-27
+url: https://discourse.slicer.org/t/21648
+---
+
 # Exporting Volume + Segmentation LabelMap as DICOM
 
 **Topic ID**: 21648

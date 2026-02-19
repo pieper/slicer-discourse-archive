@@ -1,3 +1,10 @@
+---
+topic_id: 17104
+title: "Mri Image Quality Getting Worse After Registration"
+date: 2021-04-15
+url: https://discourse.slicer.org/t/17104
+---
+
 # MRI image quality getting worse after registration
 
 **Topic ID**: 17104

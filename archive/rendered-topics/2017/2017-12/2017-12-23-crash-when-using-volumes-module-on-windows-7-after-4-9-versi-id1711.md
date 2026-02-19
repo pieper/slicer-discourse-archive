@@ -1,3 +1,10 @@
+---
+topic_id: 1711
+title: "Crash When Using Volumes Module On Windows 7 After 4 9 Versi"
+date: 2017-12-23
+url: https://discourse.slicer.org/t/1711
+---
+
 # Crash when using Volumes module on Windows 7 after 4.9 version
 
 **Topic ID**: 1711

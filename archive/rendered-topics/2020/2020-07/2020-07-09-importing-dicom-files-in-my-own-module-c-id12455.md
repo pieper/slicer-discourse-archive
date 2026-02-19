@@ -1,3 +1,10 @@
+---
+topic_id: 12455
+title: "Importing Dicom Files In My Own Module C"
+date: 2020-07-09
+url: https://discourse.slicer.org/t/12455
+---
+
 # Importing DICOM files in my own module C++
 
 **Topic ID**: 12455

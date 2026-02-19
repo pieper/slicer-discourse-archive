@@ -1,3 +1,10 @@
+---
+topic_id: 28002
+title: "Error Parameter Named Regionsegmentid Cannot Be Found For Ef"
+date: 2023-02-23
+url: https://discourse.slicer.org/t/28002
+---
+
 # Error "Parameter named "regionSegmentID" cannot be found for effect "Wrap Solidify""
 
 **Topic ID**: 28002

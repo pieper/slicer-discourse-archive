@@ -1,3 +1,10 @@
+---
+topic_id: 45893
+title: "Ai Agent Skills For 3D Slicer"
+date: 2026-01-24
+url: https://discourse.slicer.org/t/45893
+---
+
 # AI Agent Skills for 3D Slicer?
 
 **Topic ID**: 45893

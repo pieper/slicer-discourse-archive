@@ -1,3 +1,10 @@
+---
+topic_id: 774
+title: "Brief History Of Slicer"
+date: 2017-07-27
+url: https://discourse.slicer.org/t/774
+---
+
 # Brief history of slicer?
 
 **Topic ID**: 774

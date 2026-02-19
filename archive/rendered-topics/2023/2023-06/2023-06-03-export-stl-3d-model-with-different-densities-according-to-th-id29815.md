@@ -1,3 +1,10 @@
+---
+topic_id: 29815
+title: "Export Stl 3D Model With Different Densities According To Th"
+date: 2023-06-03
+url: https://discourse.slicer.org/t/29815
+---
+
 # Export STL 3D Model with different densities according to the HU of DICOM
 
 **Topic ID**: 29815

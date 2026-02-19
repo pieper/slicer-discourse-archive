@@ -1,3 +1,10 @@
+---
+topic_id: 21880
+title: "Selected Segment And Applied Effect History On Undo Redo"
+date: 2022-02-09
+url: https://discourse.slicer.org/t/21880
+---
+
 # Selected segment and applied effect history on undo/redo
 
 **Topic ID**: 21880

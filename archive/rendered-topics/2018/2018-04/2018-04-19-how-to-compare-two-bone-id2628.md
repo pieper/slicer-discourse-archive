@@ -1,3 +1,10 @@
+---
+topic_id: 2628
+title: "How To Compare Two Bone"
+date: 2018-04-19
+url: https://discourse.slicer.org/t/2628
+---
+
 # How to compare two bone?
 
 **Topic ID**: 2628

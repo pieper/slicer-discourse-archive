@@ -1,3 +1,10 @@
+---
+topic_id: 23281
+title: "Where Is Draw Tube"
+date: 2022-05-04
+url: https://discourse.slicer.org/t/23281
+---
+
 # Where is draw tube?
 
 **Topic ID**: 23281

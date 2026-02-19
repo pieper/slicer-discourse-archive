@@ -1,3 +1,10 @@
+---
+topic_id: 45474
+title: "Need To Hire For Tutorial On Volume Measurements And Croppin"
+date: 2025-12-13
+url: https://discourse.slicer.org/t/45474
+---
+
 # Need to hire for tutorial on volume measurements and cropping
 
 **Topic ID**: 45474

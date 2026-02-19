@@ -1,3 +1,10 @@
+---
+topic_id: 42376
+title: "Slicermorph Mean Geometry Getting Flipped When Exporting"
+date: 2025-03-31
+url: https://discourse.slicer.org/t/42376
+---
+
 # SlicerMorph Mean geometry getting flipped when exporting
 
 **Topic ID**: 42376

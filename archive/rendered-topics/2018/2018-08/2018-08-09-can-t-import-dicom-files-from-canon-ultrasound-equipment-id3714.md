@@ -1,3 +1,10 @@
+---
+topic_id: 3714
+title: "Can T Import Dicom Files From Canon Ultrasound Equipment"
+date: 2018-08-09
+url: https://discourse.slicer.org/t/3714
+---
+
 # Can’t import dicom files from Canon ultrasound equipment
 
 **Topic ID**: 3714

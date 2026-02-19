@@ -1,3 +1,10 @@
+---
+topic_id: 8204
+title: "Load Tbss Output Files Into Slicer"
+date: 2019-08-28
+url: https://discourse.slicer.org/t/8204
+---
+
 # Load TBSS output files into Slicer?
 
 **Topic ID**: 8204

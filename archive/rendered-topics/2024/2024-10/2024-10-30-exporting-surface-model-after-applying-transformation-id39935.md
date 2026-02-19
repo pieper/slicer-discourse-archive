@@ -1,3 +1,10 @@
+---
+topic_id: 39935
+title: "Exporting Surface Model After Applying Transformation"
+date: 2024-10-30
+url: https://discourse.slicer.org/t/39935
+---
+
 # Exporting surface model after applying transformation
 
 **Topic ID**: 39935

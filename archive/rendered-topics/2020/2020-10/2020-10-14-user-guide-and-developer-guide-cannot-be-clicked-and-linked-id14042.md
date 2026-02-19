@@ -1,3 +1,10 @@
+---
+topic_id: 14042
+title: "User Guide And Developer Guide Cannot Be Clicked And Linked"
+date: 2020-10-14
+url: https://discourse.slicer.org/t/14042
+---
+
 # User guide and developer guide cannot be clicked and linked as distinct URL
 
 **Topic ID**: 14042

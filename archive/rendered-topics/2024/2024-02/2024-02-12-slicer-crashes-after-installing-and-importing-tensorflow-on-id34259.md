@@ -1,3 +1,10 @@
+---
+topic_id: 34259
+title: "Slicer Crashes After Installing And Importing Tensorflow On"
+date: 2024-02-12
+url: https://discourse.slicer.org/t/34259
+---
+
 # Slicer crashes after installing and importing tensorflow on linux
 
 **Topic ID**: 34259

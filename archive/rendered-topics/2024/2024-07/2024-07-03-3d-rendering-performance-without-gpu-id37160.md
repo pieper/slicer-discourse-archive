@@ -1,3 +1,10 @@
+---
+topic_id: 37160
+title: "3D Rendering Performance Without Gpu"
+date: 2024-07-03
+url: https://discourse.slicer.org/t/37160
+---
+
 # 3D rendering performance without GPU
 
 **Topic ID**: 37160

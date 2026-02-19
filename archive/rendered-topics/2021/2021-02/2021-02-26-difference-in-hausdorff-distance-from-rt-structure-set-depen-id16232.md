@@ -1,3 +1,10 @@
+---
+topic_id: 16232
+title: "Difference In Hausdorff Distance From Rt Structure Set Depen"
+date: 2021-02-26
+url: https://discourse.slicer.org/t/16232
+---
+
 # Difference in Hausdorff distance from RT structure set dependent on Version
 
 **Topic ID**: 16232

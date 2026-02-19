@@ -1,3 +1,10 @@
+---
+topic_id: 18995
+title: "Planned Intermittent Outages For Cdash Instances Today Frida"
+date: 2021-07-30
+url: https://discourse.slicer.org/t/18995
+---
+
 # Planned intermittent outages for CDash instances today Friday, 2021/7/30 around noon
 
 **Topic ID**: 18995

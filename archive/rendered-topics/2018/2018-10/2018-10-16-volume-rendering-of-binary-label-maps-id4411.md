@@ -1,3 +1,10 @@
+---
+topic_id: 4411
+title: "Volume Rendering Of Binary Label Maps"
+date: 2018-10-16
+url: https://discourse.slicer.org/t/4411
+---
+
 # Volume rendering of binary label maps
 
 **Topic ID**: 4411

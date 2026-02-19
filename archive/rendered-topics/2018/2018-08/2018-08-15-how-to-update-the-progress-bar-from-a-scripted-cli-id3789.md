@@ -1,3 +1,10 @@
+---
+topic_id: 3789
+title: "How To Update The Progress Bar From A Scripted Cli"
+date: 2018-08-15
+url: https://discourse.slicer.org/t/3789
+---
+
 # How to update the progress bar from a scripted CLI
 
 **Topic ID**: 3789

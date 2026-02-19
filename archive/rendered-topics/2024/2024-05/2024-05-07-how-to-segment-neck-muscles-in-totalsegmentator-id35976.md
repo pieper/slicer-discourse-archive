@@ -1,3 +1,10 @@
+---
+topic_id: 35976
+title: "How To Segment Neck Muscles In Totalsegmentator"
+date: 2024-05-07
+url: https://discourse.slicer.org/t/35976
+---
+
 # How to segment Neck Muscles in TotalSegmentator
 
 **Topic ID**: 35976

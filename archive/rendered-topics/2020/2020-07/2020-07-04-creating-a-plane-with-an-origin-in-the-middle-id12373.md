@@ -1,3 +1,10 @@
+---
+topic_id: 12373
+title: "Creating A Plane With An Origin In The Middle"
+date: 2020-07-04
+url: https://discourse.slicer.org/t/12373
+---
+
 # Creating a plane with an origin in the middle
 
 **Topic ID**: 12373

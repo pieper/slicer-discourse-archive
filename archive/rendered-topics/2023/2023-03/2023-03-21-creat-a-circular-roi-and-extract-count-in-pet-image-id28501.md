@@ -1,3 +1,10 @@
+---
+topic_id: 28501
+title: "Creat A Circular Roi And Extract Count In Pet Image"
+date: 2023-03-21
+url: https://discourse.slicer.org/t/28501
+---
+
 # Creat a circular ROI and extract count in PET image
 
 **Topic ID**: 28501

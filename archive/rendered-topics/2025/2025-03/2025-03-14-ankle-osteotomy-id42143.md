@@ -1,3 +1,10 @@
+---
+topic_id: 42143
+title: "Ankle Osteotomy"
+date: 2025-03-14
+url: https://discourse.slicer.org/t/42143
+---
+
 # Ankle Osteotomy
 
 **Topic ID**: 42143

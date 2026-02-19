@@ -1,3 +1,10 @@
+---
+topic_id: 627
+title: "Faster Way To Draw Segmentation"
+date: 2017-07-05
+url: https://discourse.slicer.org/t/627
+---
+
 # Faster way to draw Segmentation?
 
 **Topic ID**: 627

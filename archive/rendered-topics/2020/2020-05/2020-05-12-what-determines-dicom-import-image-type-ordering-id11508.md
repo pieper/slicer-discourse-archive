@@ -1,3 +1,10 @@
+---
+topic_id: 11508
+title: "What Determines Dicom Import Image Type Ordering"
+date: 2020-05-12
+url: https://discourse.slicer.org/t/11508
+---
+
 # What determines DICOM import "Image Type" ordering?
 
 **Topic ID**: 11508

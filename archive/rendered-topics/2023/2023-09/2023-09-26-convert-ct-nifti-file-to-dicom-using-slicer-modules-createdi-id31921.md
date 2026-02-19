@@ -1,3 +1,10 @@
+---
+topic_id: 31921
+title: "Convert Ct Nifti File To Dicom Using Slicer Modules Createdi"
+date: 2023-09-26
+url: https://discourse.slicer.org/t/31921
+---
+
 # Convert CT nifti file to DICOM using slicer.modules/createdicomseries
 
 **Topic ID**: 31921

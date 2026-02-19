@@ -1,3 +1,10 @@
+---
+topic_id: 43527
+title: "Segment Editor Can Not Draw Unless Mrmlsliceview Widget Is D"
+date: 2025-06-27
+url: https://discourse.slicer.org/t/43527
+---
+
 # Segment Editor can not draw unless MRMLSliceView widget is displayed in full screen
 
 **Topic ID**: 43527

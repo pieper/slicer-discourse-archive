@@ -1,3 +1,10 @@
+---
+topic_id: 15902
+title: "Scale The Whole Segmentation"
+date: 2021-02-08
+url: https://discourse.slicer.org/t/15902
+---
+
 # Scale the whole segmentation
 
 **Topic ID**: 15902

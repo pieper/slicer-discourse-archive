@@ -1,3 +1,10 @@
+---
+topic_id: 24389
+title: "How Can I Find The Error Log After A Crash"
+date: 2022-07-19
+url: https://discourse.slicer.org/t/24389
+---
+
 # How can I find the error log after a crash?
 
 **Topic ID**: 24389

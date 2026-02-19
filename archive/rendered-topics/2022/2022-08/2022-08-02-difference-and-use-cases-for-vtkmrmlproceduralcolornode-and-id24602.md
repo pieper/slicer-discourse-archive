@@ -1,3 +1,10 @@
+---
+topic_id: 24602
+title: "Difference And Use Cases For Vtkmrmlproceduralcolornode And"
+date: 2022-08-02
+url: https://discourse.slicer.org/t/24602
+---
+
 # Difference and use cases for `vtkMRMLProceduralColorNode` and `vtkMRMLColorTableNode`
 
 **Topic ID**: 24602

@@ -1,3 +1,10 @@
+---
+topic_id: 24420
+title: "New Extension Hdbrainextraction For Ai Based Skull Stripping"
+date: 2022-07-20
+url: https://discourse.slicer.org/t/24420
+---
+
 # New extension: HDBrainExtraction for AI-based skull stripping
 
 **Topic ID**: 24420

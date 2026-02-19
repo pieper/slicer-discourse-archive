@@ -1,3 +1,10 @@
+---
+topic_id: 24850
+title: "Tips For Getting Started Loading And Batch Segmenting Files"
+date: 2022-08-21
+url: https://discourse.slicer.org/t/24850
+---
+
 # Tips for getting started loading and batch segmenting files with Slicer in python?
 
 **Topic ID**: 24850

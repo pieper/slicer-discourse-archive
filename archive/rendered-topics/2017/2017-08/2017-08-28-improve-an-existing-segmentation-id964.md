@@ -1,3 +1,10 @@
+---
+topic_id: 964
+title: "Improve An Existing Segmentation"
+date: 2017-08-28
+url: https://discourse.slicer.org/t/964
+---
+
 # Improve an existing segmentation
 
 **Topic ID**: 964

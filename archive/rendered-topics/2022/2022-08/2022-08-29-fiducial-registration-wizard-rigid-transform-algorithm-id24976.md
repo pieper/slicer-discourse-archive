@@ -1,3 +1,10 @@
+---
+topic_id: 24976
+title: "Fiducial Registration Wizard Rigid Transform Algorithm"
+date: 2022-08-29
+url: https://discourse.slicer.org/t/24976
+---
+
 # Fiducial registration wizard - rigid transform algorithm
 
 **Topic ID**: 24976

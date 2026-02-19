@@ -1,3 +1,10 @@
+---
+topic_id: 32933
+title: "Subject Processing Character Features In The Shape Features"
+date: 2023-11-21
+url: https://discourse.slicer.org/t/32933
+---
+
 # Subject: Processing Character Features in the shape features 
 
 **Topic ID**: 32933

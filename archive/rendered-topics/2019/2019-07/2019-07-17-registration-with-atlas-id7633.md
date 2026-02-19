@@ -1,3 +1,10 @@
+---
+topic_id: 7633
+title: "Registration With Atlas"
+date: 2019-07-17
+url: https://discourse.slicer.org/t/7633
+---
+
 # Registration with atlas
 
 **Topic ID**: 7633

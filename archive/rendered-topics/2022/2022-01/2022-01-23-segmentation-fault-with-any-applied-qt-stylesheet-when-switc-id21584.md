@@ -1,3 +1,10 @@
+---
+topic_id: 21584
+title: "Segmentation Fault With Any Applied Qt Stylesheet When Switc"
+date: 2022-01-23
+url: https://discourse.slicer.org/t/21584
+---
+
 # Segmentation fault with any applied Qt stylesheet when switch off from Transform Module
 
 **Topic ID**: 21584

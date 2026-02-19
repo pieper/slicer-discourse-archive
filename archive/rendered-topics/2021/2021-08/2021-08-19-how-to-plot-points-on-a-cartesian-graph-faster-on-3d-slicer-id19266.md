@@ -1,3 +1,10 @@
+---
+topic_id: 19266
+title: "How To Plot Points On A Cartesian Graph Faster On 3D Slicer"
+date: 2021-08-19
+url: https://discourse.slicer.org/t/19266
+---
+
 # How to plot points on a cartesian graph faster on 3D Slicer
 
 **Topic ID**: 19266

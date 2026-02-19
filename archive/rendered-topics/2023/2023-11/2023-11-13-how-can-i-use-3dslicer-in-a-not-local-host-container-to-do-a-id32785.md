@@ -1,3 +1,10 @@
+---
+topic_id: 32785
+title: "How Can I Use 3Dslicer In A Not Local Host Container To Do A"
+date: 2023-11-13
+url: https://discourse.slicer.org/t/32785
+---
+
 # How can i use 3DSlicer in a not local host container to do a brain segmentation of a Photon-Counting CT (totalsegmentor extension)?
 
 **Topic ID**: 32785

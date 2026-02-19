@@ -1,3 +1,10 @@
+---
+topic_id: 18367
+title: "3Dview Model Animation Fade In Fade Out"
+date: 2021-06-28
+url: https://discourse.slicer.org/t/18367
+---
+
 # 3DView Model Animation (Fade-in, Fade-out)
 
 **Topic ID**: 18367

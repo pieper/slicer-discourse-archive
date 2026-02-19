@@ -1,3 +1,10 @@
+---
+topic_id: 37432
+title: "Pca Principal Component Analysis"
+date: 2024-07-17
+url: https://discourse.slicer.org/t/37432
+---
+
 # PCA Principal component analysis
 
 **Topic ID**: 37432

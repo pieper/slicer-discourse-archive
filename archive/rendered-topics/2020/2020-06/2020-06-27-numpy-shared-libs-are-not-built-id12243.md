@@ -1,3 +1,10 @@
+---
+topic_id: 12243
+title: "Numpy Shared Libs Are Not Built"
+date: 2020-06-27
+url: https://discourse.slicer.org/t/12243
+---
+
 # Numpy shared libs are not built
 
 **Topic ID**: 12243

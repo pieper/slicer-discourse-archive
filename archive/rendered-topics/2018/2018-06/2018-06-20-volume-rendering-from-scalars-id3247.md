@@ -1,3 +1,10 @@
+---
+topic_id: 3247
+title: "Volume Rendering From Scalars"
+date: 2018-06-20
+url: https://discourse.slicer.org/t/3247
+---
+
 # Volume rendering from scalars
 
 **Topic ID**: 3247

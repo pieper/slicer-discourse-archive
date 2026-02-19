@@ -1,3 +1,10 @@
+---
+topic_id: 40
+title: "Communities Slicerverse"
+date: 2017-04-09
+url: https://discourse.slicer.org/t/40
+---
+
 # Communities / "SlicerVerse"
 
 **Topic ID**: 40

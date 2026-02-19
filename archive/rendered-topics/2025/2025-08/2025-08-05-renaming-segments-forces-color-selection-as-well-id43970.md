@@ -1,3 +1,10 @@
+---
+topic_id: 43970
+title: "Renaming Segments Forces Color Selection As Well"
+date: 2025-08-05
+url: https://discourse.slicer.org/t/43970
+---
+
 # Renaming Segments forces color selection as well
 
 **Topic ID**: 43970

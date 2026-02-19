@@ -1,3 +1,10 @@
+---
+topic_id: 17603
+title: "Calculating Area Surface"
+date: 2021-05-13
+url: https://discourse.slicer.org/t/17603
+---
+
 # Calculating area surface
 
 **Topic ID**: 17603

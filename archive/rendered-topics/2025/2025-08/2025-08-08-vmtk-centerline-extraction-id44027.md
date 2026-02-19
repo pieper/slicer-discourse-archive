@@ -1,3 +1,10 @@
+---
+topic_id: 44027
+title: "Vmtk Centerline Extraction"
+date: 2025-08-08
+url: https://discourse.slicer.org/t/44027
+---
+
 # VMTK, Centerline Extraction
 
 **Topic ID**: 44027

@@ -1,3 +1,10 @@
+---
+topic_id: 20380
+title: "Convert Vtk Model To Stl While Maintaining Groupids"
+date: 2021-10-27
+url: https://discourse.slicer.org/t/20380
+---
+
 # Convert VTK model to STL while maintaining GroupIds
 
 **Topic ID**: 20380

@@ -1,3 +1,10 @@
+---
+topic_id: 15656
+title: "Segment Mesher On Vascular Bundles"
+date: 2021-01-25
+url: https://discourse.slicer.org/t/15656
+---
+
 # Segment Mesher on Vascular Bundles
 
 **Topic ID**: 15656

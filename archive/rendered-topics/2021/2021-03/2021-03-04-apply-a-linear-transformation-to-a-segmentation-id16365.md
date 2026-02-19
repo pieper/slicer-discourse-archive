@@ -1,3 +1,10 @@
+---
+topic_id: 16365
+title: "Apply A Linear Transformation To A Segmentation"
+date: 2021-03-04
+url: https://discourse.slicer.org/t/16365
+---
+
 # Apply a linear transformation to a segmentation
 
 **Topic ID**: 16365

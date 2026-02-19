@@ -1,3 +1,10 @@
+---
+topic_id: 20375
+title: "Labelmap Volume Rendering Preset Default Is Not Available Fr"
+date: 2021-10-27
+url: https://discourse.slicer.org/t/20375
+---
+
 # Labelmap volume rendering preset (default) is not available from preset dropdown
 
 **Topic ID**: 20375

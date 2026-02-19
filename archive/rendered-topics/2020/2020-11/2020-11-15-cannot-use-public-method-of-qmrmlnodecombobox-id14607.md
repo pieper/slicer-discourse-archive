@@ -1,3 +1,10 @@
+---
+topic_id: 14607
+title: "Cannot Use Public Method Of Qmrmlnodecombobox"
+date: 2020-11-15
+url: https://discourse.slicer.org/t/14607
+---
+
 # Cannot use public method of qMRMLNodeComboBox
 
 **Topic ID**: 14607

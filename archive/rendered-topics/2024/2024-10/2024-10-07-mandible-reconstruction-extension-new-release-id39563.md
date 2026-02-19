@@ -1,3 +1,10 @@
+---
+topic_id: 39563
+title: "Mandible Reconstruction Extension New Release"
+date: 2024-10-07
+url: https://discourse.slicer.org/t/39563
+---
+
 # Mandible Reconstruction extension new release
 
 **Topic ID**: 39563

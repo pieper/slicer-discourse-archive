@@ -1,3 +1,10 @@
+---
+topic_id: 337
+title: "How To Display A Spatial Bar In An Image"
+date: 2017-05-17
+url: https://discourse.slicer.org/t/337
+---
+
 # How to display a spatial bar in an image?
 
 **Topic ID**: 337

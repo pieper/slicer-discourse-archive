@@ -1,3 +1,10 @@
+---
+topic_id: 42038
+title: "No Selection In The Preset Of Volume Rendering"
+date: 2025-03-09
+url: https://discourse.slicer.org/t/42038
+---
+
 # No selection in the Preset of Volume Rendering
 
 **Topic ID**: 42038

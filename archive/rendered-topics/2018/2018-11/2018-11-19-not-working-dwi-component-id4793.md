@@ -1,3 +1,10 @@
+---
+topic_id: 4793
+title: "Not Working Dwi Component"
+date: 2018-11-19
+url: https://discourse.slicer.org/t/4793
+---
+
 # Not working "DWI Component"
 
 **Topic ID**: 4793

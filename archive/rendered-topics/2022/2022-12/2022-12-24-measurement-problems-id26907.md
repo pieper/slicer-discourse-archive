@@ -1,3 +1,10 @@
+---
+topic_id: 26907
+title: "Measurement Problems"
+date: 2022-12-24
+url: https://discourse.slicer.org/t/26907
+---
+
 # Measurement problems
 
 **Topic ID**: 26907

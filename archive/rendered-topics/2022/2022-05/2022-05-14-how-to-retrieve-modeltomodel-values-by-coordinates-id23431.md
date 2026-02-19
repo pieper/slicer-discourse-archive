@@ -1,3 +1,10 @@
+---
+topic_id: 23431
+title: "How To Retrieve Modeltomodel Values By Coordinates"
+date: 2022-05-14
+url: https://discourse.slicer.org/t/23431
+---
+
 # How to retrieve modeltomodel values by coordinates?
 
 **Topic ID**: 23431

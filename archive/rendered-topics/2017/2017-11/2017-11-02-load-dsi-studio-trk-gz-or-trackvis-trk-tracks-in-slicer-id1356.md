@@ -1,3 +1,10 @@
+---
+topic_id: 1356
+title: "Load Dsi Studio Trk Gz Or Trackvis Trk Tracks In Slicer"
+date: 2017-11-02
+url: https://discourse.slicer.org/t/1356
+---
+
 # Load DSI Studio (*.trk.gz) or TrackVis (*.trk) tracks in Slicer
 
 **Topic ID**: 1356

@@ -1,3 +1,10 @@
+---
+topic_id: 22817
+title: "Adding Node Reference"
+date: 2022-04-04
+url: https://discourse.slicer.org/t/22817
+---
+
 # Adding node reference
 
 **Topic ID**: 22817

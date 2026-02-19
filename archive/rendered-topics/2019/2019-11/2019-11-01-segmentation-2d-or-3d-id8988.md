@@ -1,3 +1,10 @@
+---
+topic_id: 8988
+title: "Segmentation 2D Or 3D"
+date: 2019-11-01
+url: https://discourse.slicer.org/t/8988
+---
+
 # Segmentation 2D or 3D ?
 
 **Topic ID**: 8988

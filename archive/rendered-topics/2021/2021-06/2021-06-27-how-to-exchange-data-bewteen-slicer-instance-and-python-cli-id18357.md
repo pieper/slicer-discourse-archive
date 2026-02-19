@@ -1,3 +1,10 @@
+---
+topic_id: 18357
+title: "How To Exchange Data Bewteen Slicer Instance And Python Cli"
+date: 2021-06-27
+url: https://discourse.slicer.org/t/18357
+---
+
 # How to exchange data bewteen Slicer instance and Python CLI during runtime
 
 **Topic ID**: 18357

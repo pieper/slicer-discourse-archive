@@ -1,3 +1,10 @@
+---
+topic_id: 1621
+title: "Atom Teletype Real Time Collaborative Editing Of Content Usi"
+date: 2017-12-08
+url: https://discourse.slicer.org/t/1621
+---
+
 # Atom teletype - real-time collaborative editing of content using the Atom editor
 
 **Topic ID**: 1621

@@ -1,3 +1,10 @@
+---
+topic_id: 31826
+title: "Plane Markup Json Files How To Create Basetonode And Orienta"
+date: 2023-09-21
+url: https://discourse.slicer.org/t/31826
+---
+
 # Plane markup json files - how to create "baseToNode" and "orientation" matrices
 
 **Topic ID**: 31826

@@ -1,3 +1,10 @@
+---
+topic_id: 19803
+title: "Extensions Do Build But Fail To Upload To Midas"
+date: 2021-09-22
+url: https://discourse.slicer.org/t/19803
+---
+
 # Extensions do build but fail to upload to midas
 
 **Topic ID**: 19803

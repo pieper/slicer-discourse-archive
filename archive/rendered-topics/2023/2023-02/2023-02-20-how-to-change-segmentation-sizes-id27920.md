@@ -1,3 +1,10 @@
+---
+topic_id: 27920
+title: "How To Change Segmentation Sizes"
+date: 2023-02-20
+url: https://discourse.slicer.org/t/27920
+---
+
 # How to change segmentation sizes?
 
 **Topic ID**: 27920

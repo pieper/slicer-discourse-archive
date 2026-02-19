@@ -1,3 +1,10 @@
+---
+topic_id: 19580
+title: "How To Replicate Landmarks Across Specimens Using Pseudolmge"
+date: 2021-09-08
+url: https://discourse.slicer.org/t/19580
+---
+
 # How to replicate landmarks across specimens using PseudoLMGenerator fiducials
 
 **Topic ID**: 19580

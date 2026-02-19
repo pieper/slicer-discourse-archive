@@ -1,3 +1,10 @@
+---
+topic_id: 35404
+title: "Malformed Display Coronal And Sagital"
+date: 2024-04-10
+url: https://discourse.slicer.org/t/35404
+---
+
 # Malformed display coronal and sagital
 
 **Topic ID**: 35404

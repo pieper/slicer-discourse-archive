@@ -1,3 +1,10 @@
+---
+topic_id: 45158
+title: "Adding An Extension Module"
+date: 2025-11-20
+url: https://discourse.slicer.org/t/45158
+---
+
 # Adding an Extension/Module
 
 **Topic ID**: 45158

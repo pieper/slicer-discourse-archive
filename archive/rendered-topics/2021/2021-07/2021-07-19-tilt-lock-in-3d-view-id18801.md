@@ -1,3 +1,10 @@
+---
+topic_id: 18801
+title: "Tilt Lock In 3D View"
+date: 2021-07-19
+url: https://discourse.slicer.org/t/18801
+---
+
 # "Tilt Lock" in 3D view
 
 **Topic ID**: 18801

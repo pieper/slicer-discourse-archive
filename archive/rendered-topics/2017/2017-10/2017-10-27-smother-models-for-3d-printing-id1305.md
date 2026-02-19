@@ -1,3 +1,10 @@
+---
+topic_id: 1305
+title: "Smother Models For 3D Printing"
+date: 2017-10-27
+url: https://discourse.slicer.org/t/1305
+---
+
 # Smother models for 3D Printing?
 
 **Topic ID**: 1305

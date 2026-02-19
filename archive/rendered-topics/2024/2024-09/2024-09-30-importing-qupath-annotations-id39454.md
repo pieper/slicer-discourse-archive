@@ -1,3 +1,10 @@
+---
+topic_id: 39454
+title: "Importing Qupath Annotations"
+date: 2024-09-30
+url: https://discourse.slicer.org/t/39454
+---
+
 # Importing QuPath annotations
 
 **Topic ID**: 39454

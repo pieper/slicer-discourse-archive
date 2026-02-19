@@ -1,3 +1,10 @@
+---
+topic_id: 1280
+title: "Cant Build Slicer"
+date: 2017-10-24
+url: https://discourse.slicer.org/t/1280
+---
+
 # Can't build Slicer
 
 **Topic ID**: 1280

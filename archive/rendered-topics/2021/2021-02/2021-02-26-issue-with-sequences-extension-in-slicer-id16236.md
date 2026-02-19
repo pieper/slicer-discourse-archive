@@ -1,3 +1,10 @@
+---
+topic_id: 16236
+title: "Issue With Sequences Extension In Slicer"
+date: 2021-02-26
+url: https://discourse.slicer.org/t/16236
+---
+
 # Issue with Sequences extension in Slicer
 
 **Topic ID**: 16236

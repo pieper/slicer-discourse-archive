@@ -1,3 +1,10 @@
+---
+topic_id: 17866
+title: "Dmri Module Visualization"
+date: 2021-05-30
+url: https://discourse.slicer.org/t/17866
+---
+
 # DMRI module: visualization
 
 **Topic ID**: 17866

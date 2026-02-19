@@ -1,3 +1,10 @@
+---
+topic_id: 20456
+title: "How To Install Parallelprocessing Extension"
+date: 2021-11-02
+url: https://discourse.slicer.org/t/20456
+---
+
 # How to install "parallelprocessing extension"?
 
 **Topic ID**: 20456

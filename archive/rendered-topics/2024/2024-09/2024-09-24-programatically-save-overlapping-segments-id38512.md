@@ -1,3 +1,10 @@
+---
+topic_id: 38512
+title: "Programatically Save Overlapping Segments"
+date: 2024-09-24
+url: https://discourse.slicer.org/t/38512
+---
+
 # Programatically save Overlapping Segments
 
 **Topic ID**: 38512

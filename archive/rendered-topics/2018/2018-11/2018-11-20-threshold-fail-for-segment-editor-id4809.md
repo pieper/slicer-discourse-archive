@@ -1,3 +1,10 @@
+---
+topic_id: 4809
+title: "Threshold Fail For Segment Editor"
+date: 2018-11-20
+url: https://discourse.slicer.org/t/4809
+---
+
 # Threshold fail for Segment Editor
 
 **Topic ID**: 4809

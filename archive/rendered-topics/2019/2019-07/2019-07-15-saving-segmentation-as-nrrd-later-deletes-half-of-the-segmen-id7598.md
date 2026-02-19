@@ -1,3 +1,10 @@
+---
+topic_id: 7598
+title: "Saving Segmentation As Nrrd Later Deletes Half Of The Segmen"
+date: 2019-07-15
+url: https://discourse.slicer.org/t/7598
+---
+
 # Saving Segmentation as NRRD, later deletes half of the segmentation?!
 
 **Topic ID**: 7598

@@ -1,3 +1,10 @@
+---
+topic_id: 32618
+title: "Export Dcm As A Single File"
+date: 2023-11-06
+url: https://discourse.slicer.org/t/32618
+---
+
 # Export dcm as a single file
 
 **Topic ID**: 32618

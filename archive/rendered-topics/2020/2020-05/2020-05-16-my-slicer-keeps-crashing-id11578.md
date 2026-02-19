@@ -1,3 +1,10 @@
+---
+topic_id: 11578
+title: "My Slicer Keeps Crashing"
+date: 2020-05-16
+url: https://discourse.slicer.org/t/11578
+---
+
 # My slicer keeps crashing!
 
 **Topic ID**: 11578

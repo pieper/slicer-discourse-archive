@@ -1,3 +1,10 @@
+---
+topic_id: 18585
+title: "Measuring Error Between Desired And Current Trajectories"
+date: 2021-07-08
+url: https://discourse.slicer.org/t/18585
+---
+
 # Measuring Error between desired and current trajectories
 
 **Topic ID**: 18585

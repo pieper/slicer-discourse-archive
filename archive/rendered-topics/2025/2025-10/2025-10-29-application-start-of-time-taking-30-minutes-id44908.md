@@ -1,3 +1,10 @@
+---
+topic_id: 44908
+title: "Application Start Of Time Taking 30 Minutes"
+date: 2025-10-29
+url: https://discourse.slicer.org/t/44908
+---
+
 # Application start of time taking 30+ minutes.
 
 **Topic ID**: 44908

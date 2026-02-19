@@ -1,3 +1,10 @@
+---
+topic_id: 30132
+title: "2023 06 20 Weekly Meeting Back To 10 Am Et"
+date: 2023-06-20
+url: https://discourse.slicer.org/t/30132
+---
+
 # 2023.06.20 Weekly Meeting - BACK TO 10 AM ET
 
 **Topic ID**: 30132

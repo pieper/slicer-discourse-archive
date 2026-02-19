@@ -1,3 +1,10 @@
+---
+topic_id: 15204
+title: "Creating A Lumen From An Stl File"
+date: 2020-12-23
+url: https://discourse.slicer.org/t/15204
+---
+
 # Creating a lumen from an STL file
 
 **Topic ID**: 15204

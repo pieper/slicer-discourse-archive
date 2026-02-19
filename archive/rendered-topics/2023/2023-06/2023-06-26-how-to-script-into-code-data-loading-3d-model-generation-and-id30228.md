@@ -1,3 +1,10 @@
+---
+topic_id: 30228
+title: "How To Script Into Code Data Loading 3D Model Generation And"
+date: 2023-06-26
+url: https://discourse.slicer.org/t/30228
+---
+
 # How to script into code data loading, 3D model generation and screen capture tasks
 
 **Topic ID**: 30228

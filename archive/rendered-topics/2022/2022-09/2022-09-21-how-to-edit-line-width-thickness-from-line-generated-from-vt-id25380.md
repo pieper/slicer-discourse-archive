@@ -1,3 +1,10 @@
+---
+topic_id: 25380
+title: "How To Edit Line Width Thickness From Line Generated From Vt"
+date: 2022-09-21
+url: https://discourse.slicer.org/t/25380
+---
+
 # How to Edit line width/thickness from line generated from vtk polydata?
 
 **Topic ID**: 25380

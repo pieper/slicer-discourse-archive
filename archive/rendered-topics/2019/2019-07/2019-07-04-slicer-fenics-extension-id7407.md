@@ -1,3 +1,10 @@
+---
+topic_id: 7407
+title: "Slicer Fenics Extension"
+date: 2019-07-04
+url: https://discourse.slicer.org/t/7407
+---
+
 # Slicer FEniCS extension
 
 **Topic ID**: 7407

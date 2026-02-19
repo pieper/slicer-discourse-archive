@@ -1,3 +1,10 @@
+---
+topic_id: 29804
+title: "Surface Toolbox Extract Largest Component"
+date: 2023-06-02
+url: https://discourse.slicer.org/t/29804
+---
+
 # Surface toolbox - Extract largest component
 
 **Topic ID**: 29804

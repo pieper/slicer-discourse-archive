@@ -1,3 +1,10 @@
+---
+topic_id: 2653
+title: "Clip The Closed Surface"
+date: 2018-04-21
+url: https://discourse.slicer.org/t/2653
+---
+
 # Clip the closed surface
 
 **Topic ID**: 2653

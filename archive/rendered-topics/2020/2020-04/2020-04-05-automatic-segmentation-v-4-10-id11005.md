@@ -1,3 +1,10 @@
+---
+topic_id: 11005
+title: "Automatic Segmentation V 4 10"
+date: 2020-04-05
+url: https://discourse.slicer.org/t/11005
+---
+
 # Automatic segmentation v.4.10
 
 **Topic ID**: 11005

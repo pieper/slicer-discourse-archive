@@ -1,3 +1,10 @@
+---
+topic_id: 1209
+title: "Pc Dicom Reader Recommendations"
+date: 2017-10-11
+url: https://discourse.slicer.org/t/1209
+---
+
 # PC DICOM Reader Recommendations
 
 **Topic ID**: 1209

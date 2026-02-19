@@ -1,3 +1,10 @@
+---
+topic_id: 31765
+title: "Python Example That Convert The Multiple Label Segmentation"
+date: 2023-09-18
+url: https://discourse.slicer.org/t/31765
+---
+
 # Python example that convert the multiple-label segmentation to binary-label segmentation
 
 **Topic ID**: 31765

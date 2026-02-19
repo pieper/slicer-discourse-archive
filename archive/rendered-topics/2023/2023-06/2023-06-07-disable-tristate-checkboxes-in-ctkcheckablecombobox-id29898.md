@@ -1,3 +1,10 @@
+---
+topic_id: 29898
+title: "Disable Tristate Checkboxes In Ctkcheckablecombobox"
+date: 2023-06-07
+url: https://discourse.slicer.org/t/29898
+---
+
 # Disable tristate checkboxes in ctkCheckableComboBox
 
 **Topic ID**: 29898

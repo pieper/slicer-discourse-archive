@@ -1,3 +1,10 @@
+---
+topic_id: 10201
+title: "Put Vtkimagedata On Red Yellow Green View"
+date: 2020-02-11
+url: https://discourse.slicer.org/t/10201
+---
+
 # Put vtkImageData on Red Yellow Green view
 
 **Topic ID**: 10201

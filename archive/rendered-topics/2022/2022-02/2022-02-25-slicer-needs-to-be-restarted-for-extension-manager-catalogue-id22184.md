@@ -1,3 +1,10 @@
+---
+topic_id: 22184
+title: "Slicer Needs To Be Restarted For Extension Manager Catalogue"
+date: 2022-02-25
+url: https://discourse.slicer.org/t/22184
+---
+
 # Slicer needs to be restarted for extension manager catalogue to be updated
 
 **Topic ID**: 22184

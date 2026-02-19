@@ -1,3 +1,10 @@
+---
+topic_id: 25254
+title: "Is It Possible To Load Mitk File Into Slicer Project Or Load"
+date: 2022-09-14
+url: https://discourse.slicer.org/t/25254
+---
+
 # Is it possible to load .mitk file into slicer project or load .mrb file into mitk project?
 
 **Topic ID**: 25254

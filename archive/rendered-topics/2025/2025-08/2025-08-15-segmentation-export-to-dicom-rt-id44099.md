@@ -1,3 +1,10 @@
+---
+topic_id: 44099
+title: "Segmentation Export To Dicom Rt"
+date: 2025-08-15
+url: https://discourse.slicer.org/t/44099
+---
+
 # Segmentation export to DICOM-RT
 
 **Topic ID**: 44099

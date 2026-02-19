@@ -1,3 +1,10 @@
+---
+topic_id: 36478
+title: "Getting Voxel Values Of A Segment"
+date: 2024-05-29
+url: https://discourse.slicer.org/t/36478
+---
+
 # Getting voxel values of a segment
 
 **Topic ID**: 36478

@@ -1,3 +1,10 @@
+---
+topic_id: 40599
+title: "Why Can I Only Lable The Center Part Of The Images"
+date: 2024-12-09
+url: https://discourse.slicer.org/t/40599
+---
+
 # Why can I only lable the center part of the images?
 
 **Topic ID**: 40599

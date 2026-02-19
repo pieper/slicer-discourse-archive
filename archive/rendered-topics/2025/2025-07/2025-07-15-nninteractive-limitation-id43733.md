@@ -1,3 +1,10 @@
+---
+topic_id: 43733
+title: "Nninteractive Limitation"
+date: 2025-07-15
+url: https://discourse.slicer.org/t/43733
+---
+
 # nnInteractive limitation
 
 **Topic ID**: 43733

@@ -1,3 +1,10 @@
+---
+topic_id: 44864
+title: "Exporting Segmentation To Pacs Philips Carestream"
+date: 2025-10-23
+url: https://discourse.slicer.org/t/44864
+---
+
 # Exporting segmentation to PACS (Philips/Carestream)
 
 **Topic ID**: 44864

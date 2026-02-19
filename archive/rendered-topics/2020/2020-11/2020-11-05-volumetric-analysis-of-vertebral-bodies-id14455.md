@@ -1,3 +1,10 @@
+---
+topic_id: 14455
+title: "Volumetric Analysis Of Vertebral Bodies"
+date: 2020-11-05
+url: https://discourse.slicer.org/t/14455
+---
+
 # Volumetric Analysis of vertebral bodies
 
 **Topic ID**: 14455

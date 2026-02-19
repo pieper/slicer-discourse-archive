@@ -1,3 +1,10 @@
+---
+topic_id: 23719
+title: "Slicer Often Crashes When Running With Python Script In Load"
+date: 2022-06-06
+url: https://discourse.slicer.org/t/23719
+---
+
 # Slicer often crashes when running with python-script in loading
 
 **Topic ID**: 23719

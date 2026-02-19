@@ -1,3 +1,10 @@
+---
+topic_id: 30838
+title: "I Need To Do Diffusion And Tractography With 3D Slicer From"
+date: 2023-07-28
+url: https://discourse.slicer.org/t/30838
+---
+
 # I need to do diffusion and tractography with 3D slicer from the resonance images. Can someone tell me if it is possible and if it is, I would appreciate a link to a tutorial. Thank you!!
 
 **Topic ID**: 30838

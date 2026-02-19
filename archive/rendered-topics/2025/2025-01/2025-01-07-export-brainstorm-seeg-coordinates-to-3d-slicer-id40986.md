@@ -1,3 +1,10 @@
+---
+topic_id: 40986
+title: "Export Brainstorm Seeg Coordinates To 3D Slicer"
+date: 2025-01-07
+url: https://discourse.slicer.org/t/40986
+---
+
 # Export Brainstorm seeg coordinates to 3D Slicer
 
 **Topic ID**: 40986

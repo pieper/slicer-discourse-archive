@@ -1,3 +1,10 @@
+---
+topic_id: 3170
+title: "Change Color Of Segmentation By Script"
+date: 2018-06-13
+url: https://discourse.slicer.org/t/3170
+---
+
 # Change Color of Segmentation by Script
 
 **Topic ID**: 3170

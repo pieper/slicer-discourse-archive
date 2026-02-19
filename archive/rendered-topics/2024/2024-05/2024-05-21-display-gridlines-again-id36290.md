@@ -1,3 +1,10 @@
+---
+topic_id: 36290
+title: "Display Gridlines Again"
+date: 2024-05-21
+url: https://discourse.slicer.org/t/36290
+---
+
 # Display gridlines-again
 
 **Topic ID**: 36290

@@ -1,3 +1,10 @@
+---
+topic_id: 38269
+title: "Running Cross Section Analysis Via Cli Slicer Python Console"
+date: 2024-09-08
+url: https://discourse.slicer.org/t/38269
+---
+
 # Running Cross-section analysis via CLI Slicer Python Console
 
 **Topic ID**: 38269

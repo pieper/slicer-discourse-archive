@@ -1,3 +1,10 @@
+---
+topic_id: 31828
+title: "How To Get Manual And Auto Segmentation Outcomes In A Single"
+date: 2023-09-21
+url: https://discourse.slicer.org/t/31828
+---
+
 # How to get manual and auto-segmentation outcomes in a single image using dash and solid lines?
 
 **Topic ID**: 31828

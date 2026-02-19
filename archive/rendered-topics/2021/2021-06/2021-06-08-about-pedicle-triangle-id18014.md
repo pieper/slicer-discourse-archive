@@ -1,3 +1,10 @@
+---
+topic_id: 18014
+title: "About Pedicle Triangle"
+date: 2021-06-08
+url: https://discourse.slicer.org/t/18014
+---
+
 # About pedicle triangle
 
 **Topic ID**: 18014

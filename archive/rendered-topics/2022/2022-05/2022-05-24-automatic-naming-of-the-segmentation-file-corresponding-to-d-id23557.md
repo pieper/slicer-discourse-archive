@@ -1,3 +1,10 @@
+---
+topic_id: 23557
+title: "Automatic Naming Of The Segmentation File Corresponding To D"
+date: 2022-05-24
+url: https://discourse.slicer.org/t/23557
+---
+
 # Automatic naming of the segmentation file Corresponding to DICOM file
 
 **Topic ID**: 23557

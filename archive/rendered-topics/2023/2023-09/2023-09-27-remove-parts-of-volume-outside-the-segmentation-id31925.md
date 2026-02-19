@@ -1,3 +1,10 @@
+---
+topic_id: 31925
+title: "Remove Parts Of Volume Outside The Segmentation"
+date: 2023-09-27
+url: https://discourse.slicer.org/t/31925
+---
+
 # Remove parts of volume outside the segmentation
 
 **Topic ID**: 31925

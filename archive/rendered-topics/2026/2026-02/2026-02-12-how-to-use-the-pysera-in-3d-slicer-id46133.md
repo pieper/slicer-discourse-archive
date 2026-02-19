@@ -1,3 +1,10 @@
+---
+topic_id: 46133
+title: "How To Use The Pysera In 3D Slicer"
+date: 2026-02-12
+url: https://discourse.slicer.org/t/46133
+---
+
 # How to use the PySERA in 3D Slicer?
 
 **Topic ID**: 46133

@@ -1,3 +1,10 @@
+---
+topic_id: 27099
+title: "Gaussian Surface Method"
+date: 2023-01-07
+url: https://discourse.slicer.org/t/27099
+---
+
 # Gaussian surface method
 
 **Topic ID**: 27099

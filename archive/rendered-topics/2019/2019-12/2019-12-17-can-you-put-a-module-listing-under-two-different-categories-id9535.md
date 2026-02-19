@@ -1,3 +1,10 @@
+---
+topic_id: 9535
+title: "Can You Put A Module Listing Under Two Different Categories"
+date: 2019-12-17
+url: https://discourse.slicer.org/t/9535
+---
+
 # Can you put a module listing under two different categories?
 
 **Topic ID**: 9535

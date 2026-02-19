@@ -1,3 +1,10 @@
+---
+topic_id: 2755
+title: "Psa For Linux Users Work Around For Linux Nightly Extension"
+date: 2018-05-03
+url: https://discourse.slicer.org/t/2755
+---
+
 # PSA for Linux users: work-around for Linux-nightly extension manager error
 
 **Topic ID**: 2755

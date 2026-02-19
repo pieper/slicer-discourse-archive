@@ -1,3 +1,10 @@
+---
+topic_id: 7835
+title: "Mask Scalar Volume Vs Masking Within The Registration"
+date: 2019-08-01
+url: https://discourse.slicer.org/t/7835
+---
+
 # Mask scalar volume vs masking within the registration
 
 **Topic ID**: 7835

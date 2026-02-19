@@ -1,3 +1,10 @@
+---
+topic_id: 45405
+title: "Issues Visualizing Results In Dentalmodelseg Slicer 5 8 Segm"
+date: 2025-12-08
+url: https://discourse.slicer.org/t/45405
+---
+
 # Issues visualizing results in DentalModelSeg (Slicer 5.8) – segmentation runs but no output appears
 
 **Topic ID**: 45405

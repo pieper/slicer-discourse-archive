@@ -1,3 +1,10 @@
+---
+topic_id: 45671
+title: "How To Update Widget From Logic"
+date: 2026-01-05
+url: https://discourse.slicer.org/t/45671
+---
+
 # How to update widget from logic?
 
 **Topic ID**: 45671

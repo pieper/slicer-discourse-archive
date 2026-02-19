@@ -1,3 +1,10 @@
+---
+topic_id: 31077
+title: "Can I Move Segments From One Segmentation To Another Segment"
+date: 2023-08-09
+url: https://discourse.slicer.org/t/31077
+---
+
 # Can I move segments from one segmentation to another segmentation using a Script?
 
 **Topic ID**: 31077

@@ -1,3 +1,10 @@
+---
+topic_id: 8476
+title: "Segmenting Vasculature From Two Photon Imaging"
+date: 2019-09-18
+url: https://discourse.slicer.org/t/8476
+---
+
 # Segmenting vasculature from two-photon imaging
 
 **Topic ID**: 8476

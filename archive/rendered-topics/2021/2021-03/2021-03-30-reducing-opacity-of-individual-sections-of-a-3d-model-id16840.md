@@ -1,3 +1,10 @@
+---
+topic_id: 16840
+title: "Reducing Opacity Of Individual Sections Of A 3D Model"
+date: 2021-03-30
+url: https://discourse.slicer.org/t/16840
+---
+
 # Reducing opacity of individual sections of a 3D model
 
 **Topic ID**: 16840

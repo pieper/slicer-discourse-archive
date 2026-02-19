@@ -1,3 +1,10 @@
+---
+topic_id: 22627
+title: "Cannot Create Sub Directory Under Logic"
+date: 2022-03-21
+url: https://discourse.slicer.org/t/22627
+---
+
 # cannot create sub directory under Logic
 
 **Topic ID**: 22627

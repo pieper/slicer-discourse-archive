@@ -1,3 +1,10 @@
+---
+topic_id: 22805
+title: "Flip The Camera Image"
+date: 2022-04-03
+url: https://discourse.slicer.org/t/22805
+---
+
 # Flip the camera image
 
 **Topic ID**: 22805

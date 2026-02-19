@@ -1,3 +1,10 @@
+---
+topic_id: 34813
+title: "Unspecified Error Opening Python Generated Dicom File In 3D"
+date: 2024-03-10
+url: https://discourse.slicer.org/t/34813
+---
+
 # Unspecified Error Opening Python-Generated DICOM File in 3D Slicer
 
 **Topic ID**: 34813

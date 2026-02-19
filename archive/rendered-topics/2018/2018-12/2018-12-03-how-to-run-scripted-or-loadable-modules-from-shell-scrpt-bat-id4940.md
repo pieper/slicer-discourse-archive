@@ -1,3 +1,10 @@
+---
+topic_id: 4940
+title: "How To Run Scripted Or Loadable Modules From Shell Scrpt Bat"
+date: 2018-12-03
+url: https://discourse.slicer.org/t/4940
+---
+
 # How to run Scripted or loadable Modules from Shell Scrpt (batch mode?)
 
 **Topic ID**: 4940

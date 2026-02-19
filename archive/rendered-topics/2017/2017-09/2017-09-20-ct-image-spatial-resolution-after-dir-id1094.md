@@ -1,3 +1,10 @@
+---
+topic_id: 1094
+title: "Ct Image Spatial Resolution After Dir"
+date: 2017-09-20
+url: https://discourse.slicer.org/t/1094
+---
+
 # CT image spatial resolution after DIR
 
 **Topic ID**: 1094

@@ -1,3 +1,10 @@
+---
+topic_id: 37163
+title: "Tools For Making Sagittal Coronal And Transverse Cuts In Mri"
+date: 2024-07-03
+url: https://discourse.slicer.org/t/37163
+---
+
 # Tools for Making Sagittal, Coronal, and Transverse Cuts in MRI Models
 
 **Topic ID**: 37163

@@ -1,3 +1,10 @@
+---
+topic_id: 9431
+title: "Screen Capture Not Recording Video"
+date: 2019-12-08
+url: https://discourse.slicer.org/t/9431
+---
+
 # Screen capture not recording video
 
 **Topic ID**: 9431

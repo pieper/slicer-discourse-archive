@@ -1,3 +1,10 @@
+---
+topic_id: 3203
+title: "Rotation Of A Ct Image Around The Rt Isocenter In Python"
+date: 2018-06-16
+url: https://discourse.slicer.org/t/3203
+---
+
 # Rotation of a CT image around the RT isocenter, in python
 
 **Topic ID**: 3203

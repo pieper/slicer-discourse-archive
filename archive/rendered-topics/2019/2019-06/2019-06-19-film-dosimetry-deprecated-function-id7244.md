@@ -1,3 +1,10 @@
+---
+topic_id: 7244
+title: "Film Dosimetry Deprecated Function"
+date: 2019-06-19
+url: https://discourse.slicer.org/t/7244
+---
+
 # Film Dosimetry - deprecated function
 
 **Topic ID**: 7244

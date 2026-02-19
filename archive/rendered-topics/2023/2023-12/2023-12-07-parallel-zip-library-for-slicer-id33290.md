@@ -1,3 +1,10 @@
+---
+topic_id: 33290
+title: "Parallel Zip Library For Slicer"
+date: 2023-12-07
+url: https://discourse.slicer.org/t/33290
+---
+
 # Parallel zip library for Slicer
 
 **Topic ID**: 33290

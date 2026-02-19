@@ -1,3 +1,10 @@
+---
+topic_id: 1018
+title: "How To Measure Crack Size"
+date: 2017-09-06
+url: https://discourse.slicer.org/t/1018
+---
+
 # How to measure crack size?
 
 **Topic ID**: 1018

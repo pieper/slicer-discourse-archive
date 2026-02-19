@@ -1,3 +1,10 @@
+---
+topic_id: 24690
+title: "Cmake In Python Script Slicer Extension"
+date: 2022-08-09
+url: https://discourse.slicer.org/t/24690
+---
+
 # CMAKE in Python script (slicer extension)
 
 **Topic ID**: 24690

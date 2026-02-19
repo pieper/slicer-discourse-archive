@@ -1,3 +1,10 @@
+---
+topic_id: 25132
+title: "Parenchyma Analysis"
+date: 2022-09-07
+url: https://discourse.slicer.org/t/25132
+---
+
 # Parenchyma analysis
 
 **Topic ID**: 25132

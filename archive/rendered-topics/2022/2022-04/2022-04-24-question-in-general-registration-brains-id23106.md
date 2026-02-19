@@ -1,3 +1,10 @@
+---
+topic_id: 23106
+title: "Question In General Registration Brains"
+date: 2022-04-24
+url: https://discourse.slicer.org/t/23106
+---
+
 # Question in general registration(BRAINS)
 
 **Topic ID**: 23106

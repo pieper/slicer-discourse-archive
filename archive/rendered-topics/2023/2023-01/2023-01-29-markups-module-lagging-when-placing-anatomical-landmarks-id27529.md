@@ -1,3 +1,10 @@
+---
+topic_id: 27529
+title: "Markups Module Lagging When Placing Anatomical Landmarks"
+date: 2023-01-29
+url: https://discourse.slicer.org/t/27529
+---
+
 # Markups module lagging when placing anatomical landmarks
 
 **Topic ID**: 27529

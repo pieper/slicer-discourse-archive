@@ -1,3 +1,10 @@
+---
+topic_id: 4386
+title: "Error Readdatainternal Not Found"
+date: 2018-10-13
+url: https://discourse.slicer.org/t/4386
+---
+
 # Error: ReadDataInternal: not found
 
 **Topic ID**: 4386

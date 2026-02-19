@@ -1,3 +1,10 @@
+---
+topic_id: 32081
+title: "Slicer Window Is Blank"
+date: 2023-10-06
+url: https://discourse.slicer.org/t/32081
+---
+
 # Slicer window is blank
 
 **Topic ID**: 32081

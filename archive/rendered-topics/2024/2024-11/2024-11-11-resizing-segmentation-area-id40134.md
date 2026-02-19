@@ -1,3 +1,10 @@
+---
+topic_id: 40134
+title: "Resizing Segmentation Area"
+date: 2024-11-11
+url: https://discourse.slicer.org/t/40134
+---
+
 # Resizing segmentation area
 
 **Topic ID**: 40134

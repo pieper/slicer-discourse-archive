@@ -1,3 +1,10 @@
+---
+topic_id: 27594
+title: "Modules Installed From Extensions Do Not Show Up During Sear"
+date: 2023-02-02
+url: https://discourse.slicer.org/t/27594
+---
+
 # Modules installed from extensions do not show up during search
 
 **Topic ID**: 27594

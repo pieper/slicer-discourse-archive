@@ -1,3 +1,10 @@
+---
+topic_id: 10599
+title: "Whitelisting Build Machines"
+date: 2020-03-09
+url: https://discourse.slicer.org/t/10599
+---
+
 # Whitelisting build machines
 
 **Topic ID**: 10599

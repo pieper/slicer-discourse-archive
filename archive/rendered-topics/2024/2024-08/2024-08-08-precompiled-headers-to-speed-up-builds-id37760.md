@@ -1,3 +1,10 @@
+---
+topic_id: 37760
+title: "Precompiled Headers To Speed Up Builds"
+date: 2024-08-08
+url: https://discourse.slicer.org/t/37760
+---
+
 # Precompiled headers to speed up builds
 
 **Topic ID**: 37760

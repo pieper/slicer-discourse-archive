@@ -1,3 +1,10 @@
+---
+topic_id: 29530
+title: "Segment Statistics 123"
+date: 2023-05-18
+url: https://discourse.slicer.org/t/29530
+---
+
 # segment statistics 123
 
 **Topic ID**: 29530

@@ -1,3 +1,10 @@
+---
+topic_id: 40281
+title: "Smoothen Nifti File"
+date: 2024-11-19
+url: https://discourse.slicer.org/t/40281
+---
+
 # Smoothen NIFTI file
 
 **Topic ID**: 40281

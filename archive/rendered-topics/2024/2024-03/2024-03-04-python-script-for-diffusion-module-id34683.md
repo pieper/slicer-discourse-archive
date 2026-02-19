@@ -1,3 +1,10 @@
+---
+topic_id: 34683
+title: "Python Script For Diffusion Module"
+date: 2024-03-04
+url: https://discourse.slicer.org/t/34683
+---
+
 # Python script for Diffusion module
 
 **Topic ID**: 34683

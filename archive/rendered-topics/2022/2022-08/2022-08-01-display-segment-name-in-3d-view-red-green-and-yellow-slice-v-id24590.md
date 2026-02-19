@@ -1,3 +1,10 @@
+---
+topic_id: 24590
+title: "Display Segment Name In 3D View Red Green And Yellow Slice V"
+date: 2022-08-01
+url: https://discourse.slicer.org/t/24590
+---
+
 # Display segment name in 3d View, Red, Green and Yellow Slice views
 
 **Topic ID**: 24590

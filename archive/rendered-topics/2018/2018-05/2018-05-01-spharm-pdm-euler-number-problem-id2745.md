@@ -1,3 +1,10 @@
+---
+topic_id: 2745
+title: "Spharm Pdm Euler Number Problem"
+date: 2018-05-01
+url: https://discourse.slicer.org/t/2745
+---
+
 # SPHARM-PDM Euler Number problem
 
 **Topic ID**: 2745

@@ -1,3 +1,10 @@
+---
+topic_id: 14828
+title: "Planar Contour To Binary Labelmap Or Model"
+date: 2020-12-01
+url: https://discourse.slicer.org/t/14828
+---
+
 # Planar contour to binary labelmap or model
 
 **Topic ID**: 14828

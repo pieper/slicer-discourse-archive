@@ -1,3 +1,10 @@
+---
+topic_id: 35952
+title: "Error Loading Models In Freesurfer Extension"
+date: 2024-05-06
+url: https://discourse.slicer.org/t/35952
+---
+
 # Error loading models in FreeSurfer extension
 
 **Topic ID**: 35952

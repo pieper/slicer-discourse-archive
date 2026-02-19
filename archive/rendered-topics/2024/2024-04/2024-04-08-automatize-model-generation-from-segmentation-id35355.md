@@ -1,3 +1,10 @@
+---
+topic_id: 35355
+title: "Automatize Model Generation From Segmentation"
+date: 2024-04-08
+url: https://discourse.slicer.org/t/35355
+---
+
 # Automatize model generation from segmentation
 
 **Topic ID**: 35355

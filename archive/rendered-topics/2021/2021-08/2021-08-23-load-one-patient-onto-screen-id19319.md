@@ -1,3 +1,10 @@
+---
+topic_id: 19319
+title: "Load One Patient Onto Screen"
+date: 2021-08-23
+url: https://discourse.slicer.org/t/19319
+---
+
 # Load one patient onto screen
 
 **Topic ID**: 19319

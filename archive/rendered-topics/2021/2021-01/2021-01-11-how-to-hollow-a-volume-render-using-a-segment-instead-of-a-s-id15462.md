@@ -1,3 +1,10 @@
+---
+topic_id: 15462
+title: "How To Hollow A Volume Render Using A Segment Instead Of A S"
+date: 2021-01-11
+url: https://discourse.slicer.org/t/15462
+---
+
 # How to hollow a Volume Render using a Segment instead of a Surface Cut?
 
 **Topic ID**: 15462

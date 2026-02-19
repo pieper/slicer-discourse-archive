@@ -1,3 +1,10 @@
+---
+topic_id: 30281
+title: "Problems Applying Autothresholdmethod"
+date: 2023-06-28
+url: https://discourse.slicer.org/t/30281
+---
+
 # Problems applying AutoThresholdMethod
 
 **Topic ID**: 30281

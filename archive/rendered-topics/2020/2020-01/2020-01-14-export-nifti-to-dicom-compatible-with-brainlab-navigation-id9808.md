@@ -1,3 +1,10 @@
+---
+topic_id: 9808
+title: "Export Nifti To Dicom Compatible With Brainlab Navigation"
+date: 2020-01-14
+url: https://discourse.slicer.org/t/9808
+---
+
 # Export nifti to DICOM compatible with Brainlab navigation
 
 **Topic ID**: 9808

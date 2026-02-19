@@ -1,3 +1,10 @@
+---
+topic_id: 19776
+title: "Cropping And Segmentation Of Thin Specimen"
+date: 2021-09-21
+url: https://discourse.slicer.org/t/19776
+---
+
 # Cropping and Segmentation of Thin Specimen
 
 **Topic ID**: 19776

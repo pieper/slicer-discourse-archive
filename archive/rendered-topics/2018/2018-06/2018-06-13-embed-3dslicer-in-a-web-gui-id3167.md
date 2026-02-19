@@ -1,3 +1,10 @@
+---
+topic_id: 3167
+title: "Embed 3Dslicer In A Web Gui"
+date: 2018-06-13
+url: https://discourse.slicer.org/t/3167
+---
+
 # Embed 3DSlicer in a web GUI
 
 **Topic ID**: 3167

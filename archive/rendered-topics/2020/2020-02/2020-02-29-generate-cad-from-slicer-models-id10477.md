@@ -1,3 +1,10 @@
+---
+topic_id: 10477
+title: "Generate Cad From Slicer Models"
+date: 2020-02-29
+url: https://discourse.slicer.org/t/10477
+---
+
 # Generate cad from slicer models
 
 **Topic ID**: 10477

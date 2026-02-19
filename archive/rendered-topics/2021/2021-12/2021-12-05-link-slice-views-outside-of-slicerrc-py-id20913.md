@@ -1,3 +1,10 @@
+---
+topic_id: 20913
+title: "Link Slice Views Outside Of Slicerrc Py"
+date: 2021-12-05
+url: https://discourse.slicer.org/t/20913
+---
+
 # Link slice views outside of slicerrc.py
 
 **Topic ID**: 20913

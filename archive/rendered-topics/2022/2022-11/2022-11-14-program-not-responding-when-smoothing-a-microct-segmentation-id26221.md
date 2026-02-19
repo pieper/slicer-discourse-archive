@@ -1,3 +1,10 @@
+---
+topic_id: 26221
+title: "Program Not Responding When Smoothing A Microct Segmentation"
+date: 2022-11-14
+url: https://discourse.slicer.org/t/26221
+---
+
 # Program not responding when smoothing a microCT segmentation
 
 **Topic ID**: 26221

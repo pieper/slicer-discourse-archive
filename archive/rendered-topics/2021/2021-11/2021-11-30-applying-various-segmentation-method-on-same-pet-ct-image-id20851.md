@@ -1,3 +1,10 @@
+---
+topic_id: 20851
+title: "Applying Various Segmentation Method On Same Pet Ct Image"
+date: 2021-11-30
+url: https://discourse.slicer.org/t/20851
+---
+
 # Applying various segmentation method on same PET/CT image
 
 **Topic ID**: 20851

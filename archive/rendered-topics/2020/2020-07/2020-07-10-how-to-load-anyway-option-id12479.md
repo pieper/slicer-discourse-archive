@@ -1,3 +1,10 @@
+---
+topic_id: 12479
+title: "How To Load Anyway Option"
+date: 2020-07-10
+url: https://discourse.slicer.org/t/12479
+---
+
 # How to Load anyway option
 
 **Topic ID**: 12479

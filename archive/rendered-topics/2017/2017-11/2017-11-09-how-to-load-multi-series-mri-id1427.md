@@ -1,3 +1,10 @@
+---
+topic_id: 1427
+title: "How To Load Multi Series Mri"
+date: 2017-11-09
+url: https://discourse.slicer.org/t/1427
+---
+
 # How to load multi series mri
 
 **Topic ID**: 1427

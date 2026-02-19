@@ -1,3 +1,10 @@
+---
+topic_id: 18633
+title: "Trajectories In The Brain"
+date: 2021-07-11
+url: https://discourse.slicer.org/t/18633
+---
+
 # Trajectories in the brain
 
 **Topic ID**: 18633

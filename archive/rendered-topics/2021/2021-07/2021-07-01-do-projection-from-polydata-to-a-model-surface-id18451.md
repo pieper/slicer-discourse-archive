@@ -1,3 +1,10 @@
+---
+topic_id: 18451
+title: "Do Projection From Polydata To A Model Surface"
+date: 2021-07-01
+url: https://discourse.slicer.org/t/18451
+---
+
 # Do projection from polydata to a model surface
 
 **Topic ID**: 18451

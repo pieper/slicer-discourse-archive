@@ -1,3 +1,10 @@
+---
+topic_id: 34445
+title: "How I Can Adjust Slice"
+date: 2024-02-21
+url: https://discourse.slicer.org/t/34445
+---
+
 # How i can adjust slice
 
 **Topic ID**: 34445

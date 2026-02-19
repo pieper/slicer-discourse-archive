@@ -1,3 +1,10 @@
+---
+topic_id: 21264
+title: "Upload Of Multi Frame Dicom Images"
+date: 2021-12-29
+url: https://discourse.slicer.org/t/21264
+---
+
 # upload of multi-frame Dicom images
 
 **Topic ID**: 21264

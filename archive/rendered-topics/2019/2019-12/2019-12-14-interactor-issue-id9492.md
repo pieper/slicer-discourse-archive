@@ -1,3 +1,10 @@
+---
+topic_id: 9492
+title: "Interactor Issue"
+date: 2019-12-14
+url: https://discourse.slicer.org/t/9492
+---
+
 # Interactor issue
 
 **Topic ID**: 9492

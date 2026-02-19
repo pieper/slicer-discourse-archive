@@ -1,3 +1,10 @@
+---
+topic_id: 25265
+title: "Software Suggestion For Reconstruct Tomography And Mri Image"
+date: 2022-09-14
+url: https://discourse.slicer.org/t/25265
+---
+
 # Software suggestion for reconstruct tomography and MRI images
 
 **Topic ID**: 25265

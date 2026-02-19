@@ -1,3 +1,10 @@
+---
+topic_id: 11374
+title: "Problem Q3Dc Extension"
+date: 2020-05-01
+url: https://discourse.slicer.org/t/11374
+---
+
 # Problem Q3DC extension
 
 **Topic ID**: 11374

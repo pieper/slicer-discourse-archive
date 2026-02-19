@@ -1,3 +1,10 @@
+---
+topic_id: 16314
+title: "Ffmpeg Breaks Portability Of Slicer Folder"
+date: 2021-03-02
+url: https://discourse.slicer.org/t/16314
+---
+
 # Ffmpeg breaks portability of Slicer folder
 
 **Topic ID**: 16314

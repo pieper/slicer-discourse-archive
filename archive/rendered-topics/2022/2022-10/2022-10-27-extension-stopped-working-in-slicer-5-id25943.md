@@ -1,3 +1,10 @@
+---
+topic_id: 25943
+title: "Extension Stopped Working In Slicer 5"
+date: 2022-10-27
+url: https://discourse.slicer.org/t/25943
+---
+
 # Extension stopped working in Slicer 5
 
 **Topic ID**: 25943

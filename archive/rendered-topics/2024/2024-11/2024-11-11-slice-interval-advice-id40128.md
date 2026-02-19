@@ -1,3 +1,10 @@
+---
+topic_id: 40128
+title: "Slice Interval Advice"
+date: 2024-11-11
+url: https://discourse.slicer.org/t/40128
+---
+
 # Slice interval advice
 
 **Topic ID**: 40128

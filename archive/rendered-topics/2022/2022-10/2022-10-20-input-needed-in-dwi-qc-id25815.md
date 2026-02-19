@@ -1,3 +1,10 @@
+---
+topic_id: 25815
+title: "Input Needed In Dwi Qc"
+date: 2022-10-20
+url: https://discourse.slicer.org/t/25815
+---
+
 # Input needed in DWI QC
 
 **Topic ID**: 25815

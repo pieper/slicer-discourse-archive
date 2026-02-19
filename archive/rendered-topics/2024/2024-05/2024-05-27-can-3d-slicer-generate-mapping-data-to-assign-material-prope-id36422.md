@@ -1,3 +1,10 @@
+---
+topic_id: 36422
+title: "Can 3D Slicer Generate Mapping Data To Assign Material Prope"
+date: 2024-05-27
+url: https://discourse.slicer.org/t/36422
+---
+
 #  can 3D Slicer generate mapping data to assign material properties?
 
 **Topic ID**: 36422

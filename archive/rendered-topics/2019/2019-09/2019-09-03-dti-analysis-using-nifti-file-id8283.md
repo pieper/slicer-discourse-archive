@@ -1,3 +1,10 @@
+---
+topic_id: 8283
+title: "Dti Analysis Using Nifti File"
+date: 2019-09-03
+url: https://discourse.slicer.org/t/8283
+---
+
 # DTI Analysis using Nifti file
 
 **Topic ID**: 8283

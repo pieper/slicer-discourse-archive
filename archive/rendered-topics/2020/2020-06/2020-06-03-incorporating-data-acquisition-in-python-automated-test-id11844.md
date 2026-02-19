@@ -1,3 +1,10 @@
+---
+topic_id: 11844
+title: "Incorporating Data Acquisition In Python Automated Test"
+date: 2020-06-03
+url: https://discourse.slicer.org/t/11844
+---
+
 # Incorporating data acquisition in python automated test
 
 **Topic ID**: 11844

@@ -1,3 +1,10 @@
+---
+topic_id: 10818
+title: "Module Disappearing After Restarting"
+date: 2020-03-24
+url: https://discourse.slicer.org/t/10818
+---
+
 # Module disappearing after restarting
 
 **Topic ID**: 10818

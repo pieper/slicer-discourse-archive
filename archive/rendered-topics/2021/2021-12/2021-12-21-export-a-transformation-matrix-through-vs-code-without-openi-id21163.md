@@ -1,3 +1,10 @@
+---
+topic_id: 21163
+title: "Export A Transformation Matrix Through Vs Code Without Openi"
+date: 2021-12-21
+url: https://discourse.slicer.org/t/21163
+---
+
 # Export a transformation matrix through VS Code without opening 3D Slicer
 
 **Topic ID**: 21163

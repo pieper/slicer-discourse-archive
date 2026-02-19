@@ -1,3 +1,10 @@
+---
+topic_id: 29110
+title: "Identify A Single Slice File Name In 3D Dicom Volume"
+date: 2023-04-25
+url: https://discourse.slicer.org/t/29110
+---
+
 # identify a single slice file name in 3D dicom volume
 
 **Topic ID**: 29110

@@ -1,3 +1,10 @@
+---
+topic_id: 809
+title: "Still Learning How To Access Behaviour Of Another Module In"
+date: 2017-08-02
+url: https://discourse.slicer.org/t/809
+---
+
 # Still learning: how to access behaviour of another module in my module
 
 **Topic ID**: 809

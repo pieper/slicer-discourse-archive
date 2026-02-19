@@ -1,3 +1,10 @@
+---
+topic_id: 9609
+title: "Need Help Regarding Porosity Maps Of Tumor Using 3 D Slicer"
+date: 2019-12-25
+url: https://discourse.slicer.org/t/9609
+---
+
 # Need help regarding porosity maps of tumor using 3-D slicer
 
 **Topic ID**: 9609

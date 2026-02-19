@@ -1,3 +1,10 @@
+---
+topic_id: 13254
+title: "How To Create An Open Surface Constrained By Markup Points A"
+date: 2020-08-31
+url: https://discourse.slicer.org/t/13254
+---
+
 # How to create an open surface constrained by markup points，and split the current segment by this surface?
 
 **Topic ID**: 13254

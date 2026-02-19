@@ -1,3 +1,10 @@
+---
+topic_id: 2392
+title: "Multi Orientation Image Registration"
+date: 2018-03-21
+url: https://discourse.slicer.org/t/2392
+---
+
 # Multi Orientation Image Registration
 
 **Topic ID**: 2392

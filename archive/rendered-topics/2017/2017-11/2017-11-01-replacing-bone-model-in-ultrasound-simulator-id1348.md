@@ -1,3 +1,10 @@
+---
+topic_id: 1348
+title: "Replacing Bone Model In Ultrasound Simulator"
+date: 2017-11-01
+url: https://discourse.slicer.org/t/1348
+---
+
 # Replacing bone model in ultrasound simulator
 
 **Topic ID**: 1348

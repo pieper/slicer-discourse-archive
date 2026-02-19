@@ -1,3 +1,10 @@
+---
+topic_id: 28289
+title: "Dicom To Rectilinear Grid Vtk"
+date: 2023-03-10
+url: https://discourse.slicer.org/t/28289
+---
+
 # Dicom to rectilinear grid vtk
 
 **Topic ID**: 28289

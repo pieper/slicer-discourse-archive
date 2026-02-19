@@ -1,3 +1,10 @@
+---
+topic_id: 15923
+title: "Elastix And Python Scripting"
+date: 2021-02-09
+url: https://discourse.slicer.org/t/15923
+---
+
 # Elastix AND Python Scripting
 
 **Topic ID**: 15923

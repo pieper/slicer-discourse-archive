@@ -1,3 +1,10 @@
+---
+topic_id: 34947
+title: "Irregular Volume Geometry Detected When Exporting Dcm"
+date: 2024-03-18
+url: https://discourse.slicer.org/t/34947
+---
+
 # Irregular volume geometry detected when exporting DCM
 
 **Topic ID**: 34947

@@ -1,3 +1,10 @@
+---
+topic_id: 4952
+title: "Plus Using The Transform Embedded In Openigtlink Image Messa"
+date: 2018-12-04
+url: https://discourse.slicer.org/t/4952
+---
+
 # Plus : using the transform embedded in OpenIGTLink "IMAGE" messages
 
 **Topic ID**: 4952

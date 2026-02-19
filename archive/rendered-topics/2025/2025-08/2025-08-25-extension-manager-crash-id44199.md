@@ -1,3 +1,10 @@
+---
+topic_id: 44199
+title: "Extension Manager Crash"
+date: 2025-08-25
+url: https://discourse.slicer.org/t/44199
+---
+
 # Extension Manager crash
 
 **Topic ID**: 44199

@@ -1,3 +1,10 @@
+---
+topic_id: 12855
+title: "Loading Dicom Files With Python Script For Mac"
+date: 2020-08-04
+url: https://discourse.slicer.org/t/12855
+---
+
 # Loading DICOM files with python script for Mac
 
 **Topic ID**: 12855

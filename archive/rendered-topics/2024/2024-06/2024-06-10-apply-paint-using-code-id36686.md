@@ -1,3 +1,10 @@
+---
+topic_id: 36686
+title: "Apply Paint Using Code"
+date: 2024-06-10
+url: https://discourse.slicer.org/t/36686
+---
+
 # Apply paint using code
 
 **Topic ID**: 36686

@@ -1,3 +1,10 @@
+---
+topic_id: 40494
+title: "3D Model Not Showing Up Not Centerable Anymore"
+date: 2024-12-03
+url: https://discourse.slicer.org/t/40494
+---
+
 # 3D model not showing up/not centerable anymore
 
 **Topic ID**: 40494

@@ -1,3 +1,10 @@
+---
+topic_id: 22950
+title: "Creating A Volume From 4D Echo"
+date: 2022-04-13
+url: https://discourse.slicer.org/t/22950
+---
+
 # Creating a volume from 4D Echo
 
 **Topic ID**: 22950

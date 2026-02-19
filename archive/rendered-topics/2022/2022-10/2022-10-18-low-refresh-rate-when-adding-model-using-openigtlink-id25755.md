@@ -1,3 +1,10 @@
+---
+topic_id: 25755
+title: "Low Refresh Rate When Adding Model Using Openigtlink"
+date: 2022-10-18
+url: https://discourse.slicer.org/t/25755
+---
+
 # Low Refresh Rate When Adding Model Using OpenIGTLink
 
 **Topic ID**: 25755

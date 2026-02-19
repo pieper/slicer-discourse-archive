@@ -1,3 +1,10 @@
+---
+topic_id: 8079
+title: "I Want To Modify The Nrrd File With The Segmented Labelmaps"
+date: 2019-08-19
+url: https://discourse.slicer.org/t/8079
+---
+
 # I want to modify the nrrd file with the segmented Labelmaps
 
 **Topic ID**: 8079

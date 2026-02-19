@@ -1,3 +1,10 @@
+---
+topic_id: 13864
+title: "Incongruence With Some Feautures"
+date: 2020-10-05
+url: https://discourse.slicer.org/t/13864
+---
+
 # Incongruence with some feautures
 
 **Topic ID**: 13864

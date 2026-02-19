@@ -1,3 +1,10 @@
+---
+topic_id: 1292
+title: "Slicer 4 8 Summary Highlights And Changelog"
+date: 2017-10-26
+url: https://discourse.slicer.org/t/1292
+---
+
 # Slicer 4.8: Summary, Highlights and Changelog
 
 **Topic ID**: 1292

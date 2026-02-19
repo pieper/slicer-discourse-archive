@@ -1,3 +1,10 @@
+---
+topic_id: 43649
+title: "How To Compute Average Vertical Y Axis Distance Between Two"
+date: 2025-07-08
+url: https://discourse.slicer.org/t/43649
+---
+
 # how to compute average vertical (y-axis) distance between two curves in 3d space?
 
 **Topic ID**: 43649

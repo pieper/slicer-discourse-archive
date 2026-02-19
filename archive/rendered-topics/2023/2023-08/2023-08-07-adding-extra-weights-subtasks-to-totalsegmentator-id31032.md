@@ -1,3 +1,10 @@
+---
+topic_id: 31032
+title: "Adding Extra Weights Subtasks To Totalsegmentator"
+date: 2023-08-07
+url: https://discourse.slicer.org/t/31032
+---
+
 # Adding extra weights/subtasks to TotalSegmentator
 
 **Topic ID**: 31032

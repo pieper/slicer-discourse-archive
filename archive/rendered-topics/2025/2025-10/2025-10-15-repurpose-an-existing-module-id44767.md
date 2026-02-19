@@ -1,3 +1,10 @@
+---
+topic_id: 44767
+title: "Repurpose An Existing Module"
+date: 2025-10-15
+url: https://discourse.slicer.org/t/44767
+---
+
 # Repurpose an existing module
 
 **Topic ID**: 44767

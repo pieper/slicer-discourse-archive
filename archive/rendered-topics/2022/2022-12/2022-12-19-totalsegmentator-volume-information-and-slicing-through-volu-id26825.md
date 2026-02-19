@@ -1,3 +1,10 @@
+---
+topic_id: 26825
+title: "Totalsegmentator Volume Information And Slicing Through Volu"
+date: 2022-12-19
+url: https://discourse.slicer.org/t/26825
+---
+
 # Totalsegmentator - volume information and slicing through volumes?
 
 **Topic ID**: 26825

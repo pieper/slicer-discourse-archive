@@ -1,3 +1,10 @@
+---
+topic_id: 11736
+title: "Export Segment To Labelmap Broken In May 25 Nightly"
+date: 2020-05-27
+url: https://discourse.slicer.org/t/11736
+---
+
 # Export segment to labelmap broken in May 25 nightly
 
 **Topic ID**: 11736

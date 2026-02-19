@@ -1,3 +1,10 @@
+---
+topic_id: 20143
+title: "Converting Ras To Ijk Coordinates For Model Segmentation"
+date: 2021-10-14
+url: https://discourse.slicer.org/t/20143
+---
+
 # Converting ras to ijk coordinates for model, segmentation
 
 **Topic ID**: 20143

@@ -1,3 +1,10 @@
+---
+topic_id: 33671
+title: "Seeking Guidance On Analyzing Growth Associated Changes In 3"
+date: 2024-01-08
+url: https://discourse.slicer.org/t/33671
+---
+
 # Seeking Guidance on Analyzing Growth-Associated Changes in 3D Models
 
 **Topic ID**: 33671

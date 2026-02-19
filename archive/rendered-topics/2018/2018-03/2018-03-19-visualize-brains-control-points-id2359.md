@@ -1,3 +1,10 @@
+---
+topic_id: 2359
+title: "Visualize Brains Control Points"
+date: 2018-03-19
+url: https://discourse.slicer.org/t/2359
+---
+
 # Visualize BRAINS control points
 
 **Topic ID**: 2359

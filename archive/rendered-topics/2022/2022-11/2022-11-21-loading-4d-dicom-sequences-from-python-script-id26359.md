@@ -1,3 +1,10 @@
+---
+topic_id: 26359
+title: "Loading 4D Dicom Sequences From Python Script"
+date: 2022-11-21
+url: https://discourse.slicer.org/t/26359
+---
+
 # Loading 4D dicom sequences from python script
 
 **Topic ID**: 26359

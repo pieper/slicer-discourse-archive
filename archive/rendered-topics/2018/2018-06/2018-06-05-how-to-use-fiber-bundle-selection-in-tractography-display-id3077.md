@@ -1,3 +1,10 @@
+---
+topic_id: 3077
+title: "How To Use Fiber Bundle Selection In Tractography Display"
+date: 2018-06-05
+url: https://discourse.slicer.org/t/3077
+---
+
 # How to use fiber bundle selection in tractography display?
 
 **Topic ID**: 3077

@@ -1,3 +1,10 @@
+---
+topic_id: 33764
+title: "Shape Analysis Error"
+date: 2024-01-14
+url: https://discourse.slicer.org/t/33764
+---
+
 # Shape analysis error
 
 **Topic ID**: 33764

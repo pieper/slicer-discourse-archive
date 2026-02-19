@@ -1,3 +1,10 @@
+---
+topic_id: 19331
+title: "Fit Sliceview Zoom"
+date: 2021-08-24
+url: https://discourse.slicer.org/t/19331
+---
+
 # Fit SliceView Zoom
 
 **Topic ID**: 19331

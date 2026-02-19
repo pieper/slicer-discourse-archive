@@ -1,3 +1,10 @@
+---
+topic_id: 7149
+title: "Creating And Building A Loadable Module Need Help With An Er"
+date: 2019-06-12
+url: https://discourse.slicer.org/t/7149
+---
+
 # Creating and building a Loadable Module: need help with an error
 
 **Topic ID**: 7149

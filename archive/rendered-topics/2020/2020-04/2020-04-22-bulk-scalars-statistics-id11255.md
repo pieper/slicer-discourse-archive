@@ -1,3 +1,10 @@
+---
+topic_id: 11255
+title: "Bulk Scalars Statistics"
+date: 2020-04-22
+url: https://discourse.slicer.org/t/11255
+---
+
 # Bulk scalars / statistics
 
 **Topic ID**: 11255

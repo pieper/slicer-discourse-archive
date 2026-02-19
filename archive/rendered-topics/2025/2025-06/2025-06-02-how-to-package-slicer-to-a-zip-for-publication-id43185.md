@@ -1,3 +1,10 @@
+---
+topic_id: 43185
+title: "How To Package Slicer To A Zip For Publication"
+date: 2025-06-02
+url: https://discourse.slicer.org/t/43185
+---
+
 # How to package slicer to a zip for publication
 
 **Topic ID**: 43185

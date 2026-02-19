@@ -1,3 +1,10 @@
+---
+topic_id: 33183
+title: "How To Add Some Holes By Script"
+date: 2023-12-03
+url: https://discourse.slicer.org/t/33183
+---
+
 # How to add some holes by script?
 
 **Topic ID**: 33183

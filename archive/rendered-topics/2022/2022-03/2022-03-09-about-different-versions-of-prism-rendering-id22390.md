@@ -1,3 +1,10 @@
+---
+topic_id: 22390
+title: "About Different Versions Of Prism Rendering"
+date: 2022-03-09
+url: https://discourse.slicer.org/t/22390
+---
+
 # About different versions of PRISM Rendering
 
 **Topic ID**: 22390

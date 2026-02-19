@@ -1,3 +1,10 @@
+---
+topic_id: 40720
+title: "How To Hide Python Code Using Cmakelist"
+date: 2024-12-16
+url: https://discourse.slicer.org/t/40720
+---
+
 # How to hide python code using CMakeList
 
 **Topic ID**: 40720

@@ -1,3 +1,10 @@
+---
+topic_id: 38023
+title: "Failed To Create 3D Model After Segmentation In 3 Planes"
+date: 2024-08-25
+url: https://discourse.slicer.org/t/38023
+---
+
 # Failed to create 3D model after segmentation in 3 planes
 
 **Topic ID**: 38023

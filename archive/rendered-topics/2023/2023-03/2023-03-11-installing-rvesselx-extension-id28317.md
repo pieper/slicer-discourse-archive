@@ -1,3 +1,10 @@
+---
+topic_id: 28317
+title: "Installing Rvesselx Extension"
+date: 2023-03-11
+url: https://discourse.slicer.org/t/28317
+---
+
 # Installing RvesselX extension
 
 **Topic ID**: 28317

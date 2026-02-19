@@ -1,3 +1,10 @@
+---
+topic_id: 3541
+title: "Centroid Determination"
+date: 2018-07-20
+url: https://discourse.slicer.org/t/3541
+---
+
 # Centroid determination
 
 **Topic ID**: 3541

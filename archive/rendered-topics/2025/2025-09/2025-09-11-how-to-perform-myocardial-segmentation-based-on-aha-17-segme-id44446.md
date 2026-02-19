@@ -1,3 +1,10 @@
+---
+topic_id: 44446
+title: "How To Perform Myocardial Segmentation Based On Aha 17 Segme"
+date: 2025-09-11
+url: https://discourse.slicer.org/t/44446
+---
+
 # How to perform myocardial segmentation based on AHA 17-segment
 
 **Topic ID**: 44446

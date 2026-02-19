@@ -1,3 +1,10 @@
+---
+topic_id: 3108
+title: "Coordinates And Nerve"
+date: 2018-06-07
+url: https://discourse.slicer.org/t/3108
+---
+
 # Coordinates and nerve
 
 **Topic ID**: 3108

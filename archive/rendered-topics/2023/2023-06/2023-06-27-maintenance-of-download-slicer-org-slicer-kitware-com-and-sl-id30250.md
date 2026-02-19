@@ -1,3 +1,10 @@
+---
+topic_id: 30250
+title: "Maintenance Of Download Slicer Org Slicer Kitware Com And Sl"
+date: 2023-06-27
+url: https://discourse.slicer.org/t/30250
+---
+
 # Maintenance of download.slicer.org, slicer.kitware.com and slicer-packages.kitware.com planned for June 27th 2023 - 2:00pm to 4:00pm ET
 
 **Topic ID**: 30250

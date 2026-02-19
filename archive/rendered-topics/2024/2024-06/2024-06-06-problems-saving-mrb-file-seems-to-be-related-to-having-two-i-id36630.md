@@ -1,3 +1,10 @@
+---
+topic_id: 36630
+title: "Problems Saving Mrb File Seems To Be Related To Having Two I"
+date: 2024-06-06
+url: https://discourse.slicer.org/t/36630
+---
+
 # Problems saving MRB file, seems to be related to having two image sets at different time points
 
 **Topic ID**: 36630

@@ -1,3 +1,10 @@
+---
+topic_id: 19431
+title: "Mesh Statistics Extension"
+date: 2021-08-31
+url: https://discourse.slicer.org/t/19431
+---
+
 # Mesh Statistics Extension
 
 **Topic ID**: 19431

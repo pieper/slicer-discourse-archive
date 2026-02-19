@@ -1,3 +1,10 @@
+---
+topic_id: 5564
+title: "Qslicerscriptedloadablemodule Has No Attribute Named Layout"
+date: 2019-01-29
+url: https://discourse.slicer.org/t/5564
+---
+
 # qSlicerScriptedLoadableModule has no attribute named 'layout'?
 
 **Topic ID**: 5564

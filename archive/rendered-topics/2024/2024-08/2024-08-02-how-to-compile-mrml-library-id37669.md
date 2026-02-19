@@ -1,3 +1,10 @@
+---
+topic_id: 37669
+title: "How To Compile Mrml Library"
+date: 2024-08-02
+url: https://discourse.slicer.org/t/37669
+---
+
 # How to compile MRML library
 
 **Topic ID**: 37669

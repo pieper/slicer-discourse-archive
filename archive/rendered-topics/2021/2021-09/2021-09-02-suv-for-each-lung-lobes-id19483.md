@@ -1,3 +1,10 @@
+---
+topic_id: 19483
+title: "Suv For Each Lung Lobes"
+date: 2021-09-02
+url: https://discourse.slicer.org/t/19483
+---
+
 # SUV for each lung lobes
 
 **Topic ID**: 19483

@@ -1,3 +1,10 @@
+---
+topic_id: 23125
+title: "Can Anybody Help Me With Segementing Each Teeth With Dentin"
+date: 2022-04-26
+url: https://discourse.slicer.org/t/23125
+---
+
 # Can anybody help me with segementing each teeth with dentin, pulp , pdl for both maxilla and mandible ? 
 
 **Topic ID**: 23125

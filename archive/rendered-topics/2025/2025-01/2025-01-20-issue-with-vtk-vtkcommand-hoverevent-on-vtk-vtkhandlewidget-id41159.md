@@ -1,3 +1,10 @@
+---
+topic_id: 41159
+title: "Issue With Vtk Vtkcommand Hoverevent On Vtk Vtkhandlewidget"
+date: 2025-01-20
+url: https://discourse.slicer.org/t/41159
+---
+
 # Issue with vtk.vtkCommand.HoverEvent on vtk.vtkHandleWidget
 
 **Topic ID**: 41159

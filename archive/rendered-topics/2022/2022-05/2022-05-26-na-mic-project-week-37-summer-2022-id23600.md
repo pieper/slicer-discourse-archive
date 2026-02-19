@@ -1,3 +1,10 @@
+---
+topic_id: 23600
+title: "Na Mic Project Week 37 Summer 2022"
+date: 2022-05-26
+url: https://discourse.slicer.org/t/23600
+---
+
 # NA-MIC Project Week 37 (summer 2022)
 
 **Topic ID**: 23600

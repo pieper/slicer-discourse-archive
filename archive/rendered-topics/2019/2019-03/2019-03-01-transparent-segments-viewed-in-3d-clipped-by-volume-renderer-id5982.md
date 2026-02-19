@@ -1,3 +1,10 @@
+---
+topic_id: 5982
+title: "Transparent Segments Viewed In 3D Clipped By Volume Renderer"
+date: 2019-03-01
+url: https://discourse.slicer.org/t/5982
+---
+
 # Transparent segments viewed in 3D clipped by volume renderer?
 
 **Topic ID**: 5982

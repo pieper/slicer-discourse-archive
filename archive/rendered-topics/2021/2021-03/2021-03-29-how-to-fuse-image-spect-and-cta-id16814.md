@@ -1,3 +1,10 @@
+---
+topic_id: 16814
+title: "How To Fuse Image Spect And Cta"
+date: 2021-03-29
+url: https://discourse.slicer.org/t/16814
+---
+
 # How to Fuse image SPECT and CTA
 
 **Topic ID**: 16814

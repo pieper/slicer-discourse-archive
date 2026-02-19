@@ -1,3 +1,10 @@
+---
+topic_id: 33831
+title: "Automating The Process Of Getting Surface Models From 1000 C"
+date: 2024-01-17
+url: https://discourse.slicer.org/t/33831
+---
+
 # Automating the process of getting surface models from 1000 CTs
 
 **Topic ID**: 33831

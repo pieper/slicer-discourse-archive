@@ -1,3 +1,10 @@
+---
+topic_id: 16062
+title: "3D Reconstruction Of Implants In Ct Image"
+date: 2021-02-18
+url: https://discourse.slicer.org/t/16062
+---
+
 # 3d reconstruction of implants in ct image
 
 **Topic ID**: 16062

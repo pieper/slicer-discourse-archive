@@ -1,3 +1,10 @@
+---
+topic_id: 40657
+title: "Changing The Default Algorithm For Model Creation In Segment"
+date: 2024-12-12
+url: https://discourse.slicer.org/t/40657
+---
+
 # Changing the default algorithm for model creation in segment editor
 
 **Topic ID**: 40657

@@ -1,3 +1,10 @@
+---
+topic_id: 25504
+title: "Recommended Vr Headset"
+date: 2022-09-30
+url: https://discourse.slicer.org/t/25504
+---
+
 # Recommended VR headset
 
 **Topic ID**: 25504

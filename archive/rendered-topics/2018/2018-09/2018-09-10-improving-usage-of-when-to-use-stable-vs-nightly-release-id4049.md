@@ -1,3 +1,10 @@
+---
+topic_id: 4049
+title: "Improving Usage Of When To Use Stable Vs Nightly Release"
+date: 2018-09-10
+url: https://discourse.slicer.org/t/4049
+---
+
 # Improving usage of when to use Stable vs Nightly release
 
 **Topic ID**: 4049

@@ -1,3 +1,10 @@
+---
+topic_id: 15533
+title: "How To Set The Input Transforms For Calibration"
+date: 2021-01-15
+url: https://discourse.slicer.org/t/15533
+---
+
 # How to set the input transforms for calibration
 
 **Topic ID**: 15533

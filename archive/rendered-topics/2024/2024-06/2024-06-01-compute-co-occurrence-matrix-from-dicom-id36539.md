@@ -1,3 +1,10 @@
+---
+topic_id: 36539
+title: "Compute Co Occurrence Matrix From Dicom"
+date: 2024-06-01
+url: https://discourse.slicer.org/t/36539
+---
+
 # Compute co-occurrence matrix from DICOM
 
 **Topic ID**: 36539

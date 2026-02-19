@@ -1,3 +1,10 @@
+---
+topic_id: 24317
+title: "Python Code To Place Fiducial Markers Into Slicer"
+date: 2022-07-14
+url: https://discourse.slicer.org/t/24317
+---
+
 # Python code to place fiducial markers into slicer
 
 **Topic ID**: 24317

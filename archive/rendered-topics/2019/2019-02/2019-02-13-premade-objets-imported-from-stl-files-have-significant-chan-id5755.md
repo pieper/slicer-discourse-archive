@@ -1,3 +1,10 @@
+---
+topic_id: 5755
+title: "Premade Objets Imported From Stl Files Have Significant Chan"
+date: 2019-02-13
+url: https://discourse.slicer.org/t/5755
+---
+
 # PreMade Objets imported from STL files have significant changes when imported as segmentations
 
 **Topic ID**: 5755

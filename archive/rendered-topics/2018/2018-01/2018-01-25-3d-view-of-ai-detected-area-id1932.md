@@ -1,3 +1,10 @@
+---
+topic_id: 1932
+title: "3D View Of Ai Detected Area"
+date: 2018-01-25
+url: https://discourse.slicer.org/t/1932
+---
+
 # 3D view of AI detected area
 
 **Topic ID**: 1932

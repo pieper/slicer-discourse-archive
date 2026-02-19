@@ -1,3 +1,10 @@
+---
+topic_id: 12223
+title: "Enforcing Same Orientation Of Image Every Time"
+date: 2020-06-26
+url: https://discourse.slicer.org/t/12223
+---
+
 # Enforcing same orientation of image every time
 
 **Topic ID**: 12223

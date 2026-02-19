@@ -1,3 +1,10 @@
+---
+topic_id: 4276
+title: "Creating An Array To Use In Volumenode Getijktorasdirections"
+date: 2018-10-03
+url: https://discourse.slicer.org/t/4276
+---
+
 # Creating an array to use in: volumeNode.GetIJKToRASDirections (array)
 
 **Topic ID**: 4276

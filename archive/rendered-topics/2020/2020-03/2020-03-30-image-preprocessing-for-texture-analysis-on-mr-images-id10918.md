@@ -1,3 +1,10 @@
+---
+topic_id: 10918
+title: "Image Preprocessing For Texture Analysis On Mr Images"
+date: 2020-03-30
+url: https://discourse.slicer.org/t/10918
+---
+
 # Image preprocessing for texture analysis on MR images
 
 **Topic ID**: 10918

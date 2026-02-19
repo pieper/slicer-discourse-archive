@@ -1,3 +1,10 @@
+---
+topic_id: 762
+title: "How Do I Mark And Calculate Volume On A Dicom Image"
+date: 2017-07-25
+url: https://discourse.slicer.org/t/762
+---
+
 # How do I mark and calculate volume on a dicom image?
 
 **Topic ID**: 762

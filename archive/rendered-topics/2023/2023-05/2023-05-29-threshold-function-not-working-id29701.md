@@ -1,3 +1,10 @@
+---
+topic_id: 29701
+title: "Threshold Function Not Working"
+date: 2023-05-29
+url: https://discourse.slicer.org/t/29701
+---
+
 # Threshold function not working
 
 **Topic ID**: 29701

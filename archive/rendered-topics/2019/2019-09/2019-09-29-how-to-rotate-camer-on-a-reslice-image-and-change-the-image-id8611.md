@@ -1,3 +1,10 @@
+---
+topic_id: 8611
+title: "How To Rotate Camer On A Reslice Image And Change The Image"
+date: 2019-09-29
+url: https://discourse.slicer.org/t/8611
+---
+
 # how to rotate camer on a reslice image and change the image display?
 
 **Topic ID**: 8611

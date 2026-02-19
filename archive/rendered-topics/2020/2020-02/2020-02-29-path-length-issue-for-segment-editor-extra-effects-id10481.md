@@ -1,3 +1,10 @@
+---
+topic_id: 10481
+title: "Path Length Issue For Segment Editor Extra Effects"
+date: 2020-02-29
+url: https://discourse.slicer.org/t/10481
+---
+
 # Path length issue for segment editor extra effects
 
 **Topic ID**: 10481

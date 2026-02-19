@@ -1,3 +1,10 @@
+---
+topic_id: 25939
+title: "Python Script Using 3Dslicer Functions"
+date: 2022-10-27
+url: https://discourse.slicer.org/t/25939
+---
+
 # Python script using 3dSlicer functions.
 
 **Topic ID**: 25939

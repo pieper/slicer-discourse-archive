@@ -1,3 +1,10 @@
+---
+topic_id: 16340
+title: "Looking To Calculate The Surface Area Of Peritoneal Cavity V"
+date: 2021-03-03
+url: https://discourse.slicer.org/t/16340
+---
+
 # Looking to calculate the surface area of peritoneal cavity via MRI / CT
 
 **Topic ID**: 16340

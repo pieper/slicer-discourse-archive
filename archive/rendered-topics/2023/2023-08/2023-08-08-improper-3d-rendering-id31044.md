@@ -1,3 +1,10 @@
+---
+topic_id: 31044
+title: "Improper 3D Rendering"
+date: 2023-08-08
+url: https://discourse.slicer.org/t/31044
+---
+
 # improper 3D rendering
 
 **Topic ID**: 31044

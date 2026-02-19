@@ -1,3 +1,10 @@
+---
+topic_id: 12556
+title: "Loading Large Dicom Study Failure"
+date: 2020-07-15
+url: https://discourse.slicer.org/t/12556
+---
+
 # loading  large dicom study failure 
 
 **Topic ID**: 12556

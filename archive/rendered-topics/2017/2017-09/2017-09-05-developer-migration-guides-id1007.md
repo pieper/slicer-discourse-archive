@@ -1,3 +1,10 @@
+---
+topic_id: 1007
+title: "Developer Migration Guides"
+date: 2017-09-05
+url: https://discourse.slicer.org/t/1007
+---
+
 # Developer Migration Guides
 
 **Topic ID**: 1007

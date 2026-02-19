@@ -1,3 +1,10 @@
+---
+topic_id: 35377
+title: "Issue With Face Segmentation Using Total Segmentator"
+date: 2024-04-09
+url: https://discourse.slicer.org/t/35377
+---
+
 # Issue with face segmentation using Total Segmentator
 
 **Topic ID**: 35377

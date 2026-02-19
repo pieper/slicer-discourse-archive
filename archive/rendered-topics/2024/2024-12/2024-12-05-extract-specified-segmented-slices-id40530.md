@@ -1,3 +1,10 @@
+---
+topic_id: 40530
+title: "Extract Specified Segmented Slices"
+date: 2024-12-05
+url: https://discourse.slicer.org/t/40530
+---
+
 # Extract specified segmented slices
 
 **Topic ID**: 40530

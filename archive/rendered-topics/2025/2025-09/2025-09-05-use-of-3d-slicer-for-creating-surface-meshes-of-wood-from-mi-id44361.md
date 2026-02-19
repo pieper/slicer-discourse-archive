@@ -1,3 +1,10 @@
+---
+topic_id: 44361
+title: "Use Of 3D Slicer For Creating Surface Meshes Of Wood From Mi"
+date: 2025-09-05
+url: https://discourse.slicer.org/t/44361
+---
+
 # Use of 3D slicer for creating surface meshes of wood from micro tomograph imagery
 
 **Topic ID**: 44361

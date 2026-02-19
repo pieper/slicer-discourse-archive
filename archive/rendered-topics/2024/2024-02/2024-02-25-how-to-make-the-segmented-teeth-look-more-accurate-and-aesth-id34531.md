@@ -1,3 +1,10 @@
+---
+topic_id: 34531
+title: "How To Make The Segmented Teeth Look More Accurate And Aesth"
+date: 2024-02-25
+url: https://discourse.slicer.org/t/34531
+---
+
 # How to make the segmented teeth look more accurate and aesthetically pleasing?
 
 **Topic ID**: 34531

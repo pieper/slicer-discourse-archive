@@ -1,3 +1,10 @@
+---
+topic_id: 43417
+title: "Color Tones Change After Obj Export How To Preserve Original"
+date: 2025-06-18
+url: https://discourse.slicer.org/t/43417
+---
+
 # Color tones change after OBJ export – how to preserve original shading?
 
 **Topic ID**: 43417

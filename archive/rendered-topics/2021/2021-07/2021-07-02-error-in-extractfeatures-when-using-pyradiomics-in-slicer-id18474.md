@@ -1,3 +1,10 @@
+---
+topic_id: 18474
+title: "Error In Extractfeatures When Using Pyradiomics In Slicer"
+date: 2021-07-02
+url: https://discourse.slicer.org/t/18474
+---
+
 # Error in _extractFeatures when using pyradiomics in Slicer
 
 **Topic ID**: 18474

@@ -1,3 +1,10 @@
+---
+topic_id: 5541
+title: "Create A Model Mesh In Python From Array Of Vertices And Tri"
+date: 2019-01-28
+url: https://discourse.slicer.org/t/5541
+---
+
 # Create a model/mesh in python from array of vertices and triangles?
 
 **Topic ID**: 5541

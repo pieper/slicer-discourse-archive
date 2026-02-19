@@ -1,3 +1,10 @@
+---
+topic_id: 3362
+title: "A Users Proposal For Markups Module Enhancements"
+date: 2018-07-03
+url: https://discourse.slicer.org/t/3362
+---
+
 # A user's proposal for Markups Module enhancements
 
 **Topic ID**: 3362

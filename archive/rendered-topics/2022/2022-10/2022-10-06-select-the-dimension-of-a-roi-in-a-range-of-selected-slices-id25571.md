@@ -1,3 +1,10 @@
+---
+topic_id: 25571
+title: "Select The Dimension Of A Roi In A Range Of Selected Slices"
+date: 2022-10-06
+url: https://discourse.slicer.org/t/25571
+---
+
 # Select the dimension of a ROI in a range of selected slices
 
 **Topic ID**: 25571

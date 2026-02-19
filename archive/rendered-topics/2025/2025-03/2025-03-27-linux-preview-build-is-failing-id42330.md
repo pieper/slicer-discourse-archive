@@ -1,3 +1,10 @@
+---
+topic_id: 42330
+title: "Linux Preview Build Is Failing"
+date: 2025-03-27
+url: https://discourse.slicer.org/t/42330
+---
+
 # Linux preview build is failing
 
 **Topic ID**: 42330

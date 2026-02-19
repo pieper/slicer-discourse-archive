@@ -1,3 +1,10 @@
+---
+topic_id: 43461
+title: "Problems With Alpaca"
+date: 2025-06-23
+url: https://discourse.slicer.org/t/43461
+---
+
 # Problems with alpaca 
 
 **Topic ID**: 43461

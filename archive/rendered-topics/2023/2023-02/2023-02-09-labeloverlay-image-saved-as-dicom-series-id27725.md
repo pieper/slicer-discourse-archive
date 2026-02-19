@@ -1,3 +1,10 @@
+---
+topic_id: 27725
+title: "Labeloverlay Image Saved As Dicom Series"
+date: 2023-02-09
+url: https://discourse.slicer.org/t/27725
+---
+
 # LabelOverlay Image saved as DICOM series
 
 **Topic ID**: 27725

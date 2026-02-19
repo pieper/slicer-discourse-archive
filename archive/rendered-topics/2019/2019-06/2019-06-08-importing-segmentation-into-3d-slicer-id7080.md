@@ -1,3 +1,10 @@
+---
+topic_id: 7080
+title: "Importing Segmentation Into 3D Slicer"
+date: 2019-06-08
+url: https://discourse.slicer.org/t/7080
+---
+
 # Importing segmentation into 3d slicer
 
 **Topic ID**: 7080

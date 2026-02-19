@@ -1,3 +1,10 @@
+---
+topic_id: 28602
+title: "Use Of The Global Banner To Communicate About Major Event"
+date: 2023-03-27
+url: https://discourse.slicer.org/t/28602
+---
+
 # Use of the global banner to communicate about major event
 
 **Topic ID**: 28602

@@ -1,3 +1,10 @@
+---
+topic_id: 14288
+title: "An Unhandled Win32 Exception Occured In Slicer App Real Exe"
+date: 2020-10-28
+url: https://discourse.slicer.org/t/14288
+---
+
 # An unhandled win32 exception occured in Slicer App-real.exe
 
 **Topic ID**: 14288

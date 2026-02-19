@@ -1,3 +1,10 @@
+---
+topic_id: 34552
+title: "How To Precisely Rotate 3D View Using Shortcut"
+date: 2024-02-26
+url: https://discourse.slicer.org/t/34552
+---
+
 # How to precisely rotate 3D view using shortcut
 
 **Topic ID**: 34552

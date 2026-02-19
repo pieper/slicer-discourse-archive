@@ -1,3 +1,10 @@
+---
+topic_id: 33526
+title: "Unable To Paint Under Rhe Segmentation Module"
+date: 2023-12-27
+url: https://discourse.slicer.org/t/33526
+---
+
 # Unable to paint under rhe segmentation module
 
 **Topic ID**: 33526

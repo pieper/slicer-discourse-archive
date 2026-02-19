@@ -1,3 +1,10 @@
+---
+topic_id: 33439
+title: "Slicer 5 6 Not Starting With Custom Extension"
+date: 2023-12-18
+url: https://discourse.slicer.org/t/33439
+---
+
 # Slicer 5.6 not starting with custom extension
 
 **Topic ID**: 33439

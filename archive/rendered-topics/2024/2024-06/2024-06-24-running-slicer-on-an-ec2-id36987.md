@@ -1,3 +1,10 @@
+---
+topic_id: 36987
+title: "Running Slicer On An Ec2"
+date: 2024-06-24
+url: https://discourse.slicer.org/t/36987
+---
+
 # Running Slicer on an EC2
 
 **Topic ID**: 36987

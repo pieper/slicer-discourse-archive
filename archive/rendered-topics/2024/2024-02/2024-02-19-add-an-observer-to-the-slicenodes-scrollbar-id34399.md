@@ -1,3 +1,10 @@
+---
+topic_id: 34399
+title: "Add An Observer To The Slicenodes Scrollbar"
+date: 2024-02-19
+url: https://discourse.slicer.org/t/34399
+---
+
 # Add an observer to the SliceNode's scrollbar
 
 **Topic ID**: 34399

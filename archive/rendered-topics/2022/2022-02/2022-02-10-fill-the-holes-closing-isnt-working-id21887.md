@@ -1,3 +1,10 @@
+---
+topic_id: 21887
+title: "Fill The Holes Closing Isnt Working"
+date: 2022-02-10
+url: https://discourse.slicer.org/t/21887
+---
+
 # Fill the holes(Closing) isn't working
 
 **Topic ID**: 21887

@@ -1,3 +1,10 @@
+---
+topic_id: 22059
+title: "Gel Dosimetry Registration Step Fails"
+date: 2022-02-18
+url: https://discourse.slicer.org/t/22059
+---
+
 # Gel dosimetry registration step fails
 
 **Topic ID**: 22059

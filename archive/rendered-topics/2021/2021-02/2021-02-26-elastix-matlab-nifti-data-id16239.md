@@ -1,3 +1,10 @@
+---
+topic_id: 16239
+title: "Elastix Matlab Nifti Data"
+date: 2021-02-26
+url: https://discourse.slicer.org/t/16239
+---
+
 # elastix_matlab_Nifti data
 
 **Topic ID**: 16239

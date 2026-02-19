@@ -1,3 +1,10 @@
+---
+topic_id: 13186
+title: "Compare Two Dicom Image Before And After Injection"
+date: 2020-08-27
+url: https://discourse.slicer.org/t/13186
+---
+
 # Compare two dicom image before and after injection
 
 **Topic ID**: 13186

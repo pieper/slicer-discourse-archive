@@ -1,3 +1,10 @@
+---
+topic_id: 3266
+title: "How To Register This Kind Of Ct Images"
+date: 2018-06-22
+url: https://discourse.slicer.org/t/3266
+---
+
 # How to register this kind of CT images?
 
 **Topic ID**: 3266

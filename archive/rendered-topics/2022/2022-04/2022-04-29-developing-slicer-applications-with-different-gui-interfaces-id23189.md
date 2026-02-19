@@ -1,3 +1,10 @@
+---
+topic_id: 23189
+title: "Developing Slicer Applications With Different Gui Interfaces"
+date: 2022-04-29
+url: https://discourse.slicer.org/t/23189
+---
+
 # Developing slicer applications with different GUI interfaces based on slicer
 
 **Topic ID**: 23189

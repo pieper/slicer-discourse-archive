@@ -1,3 +1,10 @@
+---
+topic_id: 32279
+title: "Sliceridcbrowser Extension Released"
+date: 2023-10-17
+url: https://discourse.slicer.org/t/32279
+---
+
 # SlicerIDCBrowser extension released!
 
 **Topic ID**: 32279

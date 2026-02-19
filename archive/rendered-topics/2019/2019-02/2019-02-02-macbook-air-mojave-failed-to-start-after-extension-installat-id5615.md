@@ -1,3 +1,10 @@
+---
+topic_id: 5615
+title: "Macbook Air Mojave Failed To Start After Extension Installat"
+date: 2019-02-02
+url: https://discourse.slicer.org/t/5615
+---
+
 # MacBook Air Mojave failed to start after extension installation
 
 **Topic ID**: 5615

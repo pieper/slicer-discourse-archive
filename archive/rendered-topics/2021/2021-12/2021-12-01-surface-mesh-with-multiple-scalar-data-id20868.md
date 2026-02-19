@@ -1,3 +1,10 @@
+---
+topic_id: 20868
+title: "Surface Mesh With Multiple Scalar Data"
+date: 2021-12-01
+url: https://discourse.slicer.org/t/20868
+---
+
 # Surface mesh with multiple scalar data
 
 **Topic ID**: 20868

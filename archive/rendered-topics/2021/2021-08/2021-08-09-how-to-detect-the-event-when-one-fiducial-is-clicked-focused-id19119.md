@@ -1,3 +1,10 @@
+---
+topic_id: 19119
+title: "How To Detect The Event When One Fiducial Is Clicked Focused"
+date: 2021-08-09
+url: https://discourse.slicer.org/t/19119
+---
+
 # How to detect the event when one fiducial is clicked (focused) and how to set the state of this?
 
 **Topic ID**: 19119

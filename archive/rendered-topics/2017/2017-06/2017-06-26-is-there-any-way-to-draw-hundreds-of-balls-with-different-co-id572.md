@@ -1,3 +1,10 @@
+---
+topic_id: 572
+title: "Is There Any Way To Draw Hundreds Of Balls With Different Co"
+date: 2017-06-26
+url: https://discourse.slicer.org/t/572
+---
+
 # Is there any way to draw hundreds of balls with different colors?
 
 **Topic ID**: 572

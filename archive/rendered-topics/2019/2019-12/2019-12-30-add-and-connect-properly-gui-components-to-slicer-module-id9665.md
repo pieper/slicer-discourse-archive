@@ -1,3 +1,10 @@
+---
+topic_id: 9665
+title: "Add And Connect Properly Gui Components To Slicer Module"
+date: 2019-12-30
+url: https://discourse.slicer.org/t/9665
+---
+
 # Add and connect properly GUI components to Slicer module
 
 **Topic ID**: 9665

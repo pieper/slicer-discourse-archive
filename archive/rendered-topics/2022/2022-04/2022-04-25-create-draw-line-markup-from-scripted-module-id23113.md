@@ -1,3 +1,10 @@
+---
+topic_id: 23113
+title: "Create Draw Line Markup From Scripted Module"
+date: 2022-04-25
+url: https://discourse.slicer.org/t/23113
+---
+
 # Create/draw line markup from scripted module
 
 **Topic ID**: 23113

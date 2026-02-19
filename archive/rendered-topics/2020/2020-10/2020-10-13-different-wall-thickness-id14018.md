@@ -1,3 +1,10 @@
+---
+topic_id: 14018
+title: "Different Wall Thickness"
+date: 2020-10-13
+url: https://discourse.slicer.org/t/14018
+---
+
 # Different wall thickness
 
 **Topic ID**: 14018

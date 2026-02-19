@@ -1,3 +1,10 @@
+---
+topic_id: 22376
+title: "Build And Update Translation File"
+date: 2022-03-08
+url: https://discourse.slicer.org/t/22376
+---
+
 # Build and update translation file
 
 **Topic ID**: 22376

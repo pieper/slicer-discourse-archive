@@ -1,3 +1,10 @@
+---
+topic_id: 40341
+title: "Copy Images From An Icon Near Reset Images"
+date: 2024-11-23
+url: https://discourse.slicer.org/t/40341
+---
+
 # Copy images from an icon near reset images
 
 **Topic ID**: 40341

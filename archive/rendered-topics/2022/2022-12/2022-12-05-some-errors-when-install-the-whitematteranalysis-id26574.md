@@ -1,3 +1,10 @@
+---
+topic_id: 26574
+title: "Some Errors When Install The Whitematteranalysis"
+date: 2022-12-05
+url: https://discourse.slicer.org/t/26574
+---
+
 # Some errors when install the whitematteranalysis
 
 **Topic ID**: 26574

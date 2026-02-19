@@ -1,3 +1,10 @@
+---
+topic_id: 43999
+title: "Adding Nodes To Qmrmlsubjecthierarchytreeview"
+date: 2025-08-07
+url: https://discourse.slicer.org/t/43999
+---
+
 # Adding nodes to qMRMLSubjectHierarchyTreeView
 
 **Topic ID**: 43999

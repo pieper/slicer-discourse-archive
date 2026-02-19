@@ -1,3 +1,10 @@
+---
+topic_id: 15688
+title: "Effect Of Background On Radiomics Features From Filtered Ima"
+date: 2021-01-27
+url: https://discourse.slicer.org/t/15688
+---
+
 # Effect of background on radiomics features from filtered images
 
 **Topic ID**: 15688

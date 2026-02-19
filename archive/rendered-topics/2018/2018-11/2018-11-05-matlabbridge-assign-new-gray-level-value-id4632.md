@@ -1,3 +1,10 @@
+---
+topic_id: 4632
+title: "Matlabbridge Assign New Gray Level Value"
+date: 2018-11-05
+url: https://discourse.slicer.org/t/4632
+---
+
 # MatlabBridge assign new gray-level value
 
 **Topic ID**: 4632

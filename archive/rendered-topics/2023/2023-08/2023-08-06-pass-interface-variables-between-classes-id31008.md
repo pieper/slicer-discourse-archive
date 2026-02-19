@@ -1,3 +1,10 @@
+---
+topic_id: 31008
+title: "Pass Interface Variables Between Classes"
+date: 2023-08-06
+url: https://discourse.slicer.org/t/31008
+---
+
 # Pass interface variables between classes
 
 **Topic ID**: 31008

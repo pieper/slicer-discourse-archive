@@ -1,3 +1,10 @@
+---
+topic_id: 12197
+title: "How To Change What Images Appear In Input Field Of Modules"
+date: 2020-06-24
+url: https://discourse.slicer.org/t/12197
+---
+
 # How to change what images appear in input field of modules
 
 **Topic ID**: 12197

@@ -1,3 +1,10 @@
+---
+topic_id: 33756
+title: "How To Tune Shadow Visibility In Python"
+date: 2024-01-13
+url: https://discourse.slicer.org/t/33756
+---
+
 # How to tune Shadow Visibility in python?
 
 **Topic ID**: 33756

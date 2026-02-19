@@ -1,3 +1,10 @@
+---
+topic_id: 37209
+title: "Extensions Python Help"
+date: 2024-07-05
+url: https://discourse.slicer.org/t/37209
+---
+
 # Extensions python help
 
 **Topic ID**: 37209

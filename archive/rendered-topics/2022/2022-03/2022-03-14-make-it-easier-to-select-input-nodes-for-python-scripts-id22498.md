@@ -1,3 +1,10 @@
+---
+topic_id: 22498
+title: "Make It Easier To Select Input Nodes For Python Scripts"
+date: 2022-03-14
+url: https://discourse.slicer.org/t/22498
+---
+
 # Make it easier to select input nodes for Python scripts
 
 **Topic ID**: 22498

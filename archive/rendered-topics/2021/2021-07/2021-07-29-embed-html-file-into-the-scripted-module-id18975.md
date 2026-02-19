@@ -1,3 +1,10 @@
+---
+topic_id: 18975
+title: "Embed Html File Into The Scripted Module"
+date: 2021-07-29
+url: https://discourse.slicer.org/t/18975
+---
+
 # Embed html file into the scripted module
 
 **Topic ID**: 18975

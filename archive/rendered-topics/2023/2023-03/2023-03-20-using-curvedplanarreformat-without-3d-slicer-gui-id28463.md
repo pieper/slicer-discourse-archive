@@ -1,3 +1,10 @@
+---
+topic_id: 28463
+title: "Using Curvedplanarreformat Without 3D Slicer Gui"
+date: 2023-03-20
+url: https://discourse.slicer.org/t/28463
+---
+
 # Using CurvedPlanarReformat without 3D Slicer GUI
 
 **Topic ID**: 28463

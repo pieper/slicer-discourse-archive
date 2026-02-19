@@ -1,3 +1,10 @@
+---
+topic_id: 697
+title: "Segment Skin Surface"
+date: 2017-07-16
+url: https://discourse.slicer.org/t/697
+---
+
 # Segment skin surface
 
 **Topic ID**: 697

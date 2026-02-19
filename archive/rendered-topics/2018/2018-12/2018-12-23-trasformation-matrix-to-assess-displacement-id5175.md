@@ -1,3 +1,10 @@
+---
+topic_id: 5175
+title: "Trasformation Matrix To Assess Displacement"
+date: 2018-12-23
+url: https://discourse.slicer.org/t/5175
+---
+
 # Trasformation matrix to assess displacement
 
 **Topic ID**: 5175

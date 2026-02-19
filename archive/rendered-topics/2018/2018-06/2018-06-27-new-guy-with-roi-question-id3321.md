@@ -1,3 +1,10 @@
+---
+topic_id: 3321
+title: "New Guy With Roi Question"
+date: 2018-06-27
+url: https://discourse.slicer.org/t/3321
+---
+
 # New Guy With ROI Question
 
 **Topic ID**: 3321

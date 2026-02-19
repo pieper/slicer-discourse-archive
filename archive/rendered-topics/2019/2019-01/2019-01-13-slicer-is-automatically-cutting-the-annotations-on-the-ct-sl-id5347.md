@@ -1,3 +1,10 @@
+---
+topic_id: 5347
+title: "Slicer Is Automatically Cutting The Annotations On The Ct Sl"
+date: 2019-01-13
+url: https://discourse.slicer.org/t/5347
+---
+
 # Slicer is automatically cutting the annotations on the CT slices and not letting me draw the desired Region of interest 
 
 **Topic ID**: 5347

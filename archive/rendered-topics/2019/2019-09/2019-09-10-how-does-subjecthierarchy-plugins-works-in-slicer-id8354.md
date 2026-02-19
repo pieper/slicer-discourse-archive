@@ -1,3 +1,10 @@
+---
+topic_id: 8354
+title: "How Does Subjecthierarchy Plugins Works In Slicer"
+date: 2019-09-10
+url: https://discourse.slicer.org/t/8354
+---
+
 # How does SubjectHierarchy Plugins works in Slicer
 
 **Topic ID**: 8354

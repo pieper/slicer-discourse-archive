@@ -1,3 +1,10 @@
+---
+topic_id: 9812
+title: "Model Drop Down In Nvidia Aiaa Is Empty"
+date: 2020-01-14
+url: https://discourse.slicer.org/t/9812
+---
+
 # Model drop-down in Nvidia AIAA is empty
 
 **Topic ID**: 9812

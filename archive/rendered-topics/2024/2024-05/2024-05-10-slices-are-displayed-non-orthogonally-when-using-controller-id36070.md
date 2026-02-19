@@ -1,3 +1,10 @@
+---
+topic_id: 36070
+title: "Slices Are Displayed Non Orthogonally When Using Controller"
+date: 2024-05-10
+url: https://discourse.slicer.org/t/36070
+---
+
 # Slices are displayed non-orthogonally when using Controller Transform
 
 **Topic ID**: 36070

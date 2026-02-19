@@ -1,3 +1,10 @@
+---
+topic_id: 16017
+title: "How To Easily Turn A Hollow Segmentation Into A Solid Blood"
+date: 2021-02-16
+url: https://discourse.slicer.org/t/16017
+---
+
 # How to easily turn a hollow segmentation into a solid (blood pool) segmentation
 
 **Topic ID**: 16017

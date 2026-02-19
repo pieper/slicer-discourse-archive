@@ -1,3 +1,10 @@
+---
+topic_id: 27362
+title: "Removing The 4Th Dimension From Nrrd File"
+date: 2023-01-19
+url: https://discourse.slicer.org/t/27362
+---
+
 # Removing the 4th dimension from NRRD file
 
 **Topic ID**: 27362

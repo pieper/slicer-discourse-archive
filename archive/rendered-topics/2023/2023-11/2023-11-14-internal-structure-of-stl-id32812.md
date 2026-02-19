@@ -1,3 +1,10 @@
+---
+topic_id: 32812
+title: "Internal Structure Of Stl"
+date: 2023-11-14
+url: https://discourse.slicer.org/t/32812
+---
+
 # Internal Structure of STL
 
 **Topic ID**: 32812

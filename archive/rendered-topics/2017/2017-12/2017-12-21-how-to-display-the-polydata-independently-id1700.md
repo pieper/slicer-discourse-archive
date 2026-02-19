@@ -1,3 +1,10 @@
+---
+topic_id: 1700
+title: "How To Display The Polydata Independently"
+date: 2017-12-21
+url: https://discourse.slicer.org/t/1700
+---
+
 # How to display the PolyData independently?
 
 **Topic ID**: 1700

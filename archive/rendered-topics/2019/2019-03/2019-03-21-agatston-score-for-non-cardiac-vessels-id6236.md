@@ -1,3 +1,10 @@
+---
+topic_id: 6236
+title: "Agatston Score For Non Cardiac Vessels"
+date: 2019-03-21
+url: https://discourse.slicer.org/t/6236
+---
+
 # Agatston score for non-cardiac vessels
 
 **Topic ID**: 6236

@@ -1,3 +1,10 @@
+---
+topic_id: 20078
+title: "Starting Slicer In Ubuntu 20 04"
+date: 2021-10-09
+url: https://discourse.slicer.org/t/20078
+---
+
 # Starting Slicer in Ubuntu 20.04
 
 **Topic ID**: 20078

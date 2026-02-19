@@ -1,3 +1,10 @@
+---
+topic_id: 19849
+title: "Download And Install Extension Snippet Thows Exception"
+date: 2021-09-25
+url: https://discourse.slicer.org/t/19849
+---
+
 # "Download and install extension" snippet thows exception
 
 **Topic ID**: 19849

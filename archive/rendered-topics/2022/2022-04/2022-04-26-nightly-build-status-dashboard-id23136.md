@@ -1,3 +1,10 @@
+---
+topic_id: 23136
+title: "Nightly Build Status Dashboard"
+date: 2022-04-26
+url: https://discourse.slicer.org/t/23136
+---
+
 # Nightly build status dashboard
 
 **Topic ID**: 23136

@@ -1,3 +1,10 @@
+---
+topic_id: 29251
+title: "Export Segmentation To Ply Compatible With Geomorph"
+date: 2023-05-02
+url: https://discourse.slicer.org/t/29251
+---
+
 # Export segmentation to PLY compatible with geomorph
 
 **Topic ID**: 29251

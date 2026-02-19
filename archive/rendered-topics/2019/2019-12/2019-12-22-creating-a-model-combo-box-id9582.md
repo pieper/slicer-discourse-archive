@@ -1,3 +1,10 @@
+---
+topic_id: 9582
+title: "Creating A Model Combo Box"
+date: 2019-12-22
+url: https://discourse.slicer.org/t/9582
+---
+
 # Creating a model combo box
 
 **Topic ID**: 9582

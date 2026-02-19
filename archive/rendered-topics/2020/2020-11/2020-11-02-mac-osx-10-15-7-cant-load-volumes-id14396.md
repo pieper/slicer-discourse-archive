@@ -1,3 +1,10 @@
+---
+topic_id: 14396
+title: "Mac Osx 10 15 7 Cant Load Volumes"
+date: 2020-11-02
+url: https://discourse.slicer.org/t/14396
+---
+
 # Mac osX 10.15.7. Can't load volumes
 
 **Topic ID**: 14396

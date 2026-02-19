@@ -1,3 +1,10 @@
+---
+topic_id: 23866
+title: "How To Check Execution Time In 3D Slicer"
+date: 2022-06-14
+url: https://discourse.slicer.org/t/23866
+---
+
 # How to check execution time in 3D-Slicer
 
 **Topic ID**: 23866

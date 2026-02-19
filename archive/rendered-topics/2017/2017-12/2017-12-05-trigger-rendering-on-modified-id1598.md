@@ -1,3 +1,10 @@
+---
+topic_id: 1598
+title: "Trigger Rendering On Modified"
+date: 2017-12-05
+url: https://discourse.slicer.org/t/1598
+---
+
 # Trigger rendering on Modified
 
 **Topic ID**: 1598

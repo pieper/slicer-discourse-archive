@@ -1,3 +1,10 @@
+---
+topic_id: 5469
+title: "Dicom File Loading Spacing"
+date: 2019-01-22
+url: https://discourse.slicer.org/t/5469
+---
+
 # Dicom File Loading Spacing
 
 **Topic ID**: 5469

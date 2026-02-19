@@ -1,3 +1,10 @@
+---
+topic_id: 9677
+title: "Slicerrt Creating Volume"
+date: 2020-01-01
+url: https://discourse.slicer.org/t/9677
+---
+
 # SlicerRT creating volume
 
 **Topic ID**: 9677

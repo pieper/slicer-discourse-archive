@@ -1,3 +1,10 @@
+---
+topic_id: 18933
+title: "Only A Single Slice Is Loading For Cine Mri"
+date: 2021-07-26
+url: https://discourse.slicer.org/t/18933
+---
+
 # Only a single slice is loading for cine MRI
 
 **Topic ID**: 18933

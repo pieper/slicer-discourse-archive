@@ -1,3 +1,10 @@
+---
+topic_id: 40508
+title: "Lr Rotation Transform Reduces Axial Resolution"
+date: 2024-12-04
+url: https://discourse.slicer.org/t/40508
+---
+
 # LR rotation transform reduces axial resolution
 
 **Topic ID**: 40508

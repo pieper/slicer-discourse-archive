@@ -1,3 +1,10 @@
+---
+topic_id: 25424
+title: "3D View Rendering Problems"
+date: 2022-09-24
+url: https://discourse.slicer.org/t/25424
+---
+
 # 3D View Rendering Problems
 
 **Topic ID**: 25424

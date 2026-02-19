@@ -1,3 +1,10 @@
+---
+topic_id: 18624
+title: "Slicer Is Freezing On Macos When Clicking On Import Dicom Fi"
+date: 2021-07-11
+url: https://discourse.slicer.org/t/18624
+---
+
 # Slicer is freezing on macOS when clicking on "Import DICOM files"
 
 **Topic ID**: 18624

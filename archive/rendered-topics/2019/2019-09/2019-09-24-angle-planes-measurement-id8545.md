@@ -1,3 +1,10 @@
+---
+topic_id: 8545
+title: "Angle Planes Measurement"
+date: 2019-09-24
+url: https://discourse.slicer.org/t/8545
+---
+
 # Angle Planes measurement
 
 **Topic ID**: 8545

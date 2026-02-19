@@ -1,3 +1,10 @@
+---
+topic_id: 2171
+title: "2D Segmentation"
+date: 2018-02-25
+url: https://discourse.slicer.org/t/2171
+---
+
 # 2D segmentation
 
 **Topic ID**: 2171

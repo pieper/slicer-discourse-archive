@@ -1,3 +1,10 @@
+---
+topic_id: 39028
+title: "Resetting Paint Draw Etc"
+date: 2024-09-28
+url: https://discourse.slicer.org/t/39028
+---
+
 # Resetting paint draw etc
 
 **Topic ID**: 39028

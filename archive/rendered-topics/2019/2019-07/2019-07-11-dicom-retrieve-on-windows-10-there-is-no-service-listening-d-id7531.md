@@ -1,3 +1,10 @@
+---
+topic_id: 7531
+title: "Dicom Retrieve On Windows 10 There Is No Service Listening D"
+date: 2019-07-11
+url: https://discourse.slicer.org/t/7531
+---
+
 # DICOM Retrieve on Windows 10. There is no service listening DICOM communications (No telnet connection to ports)
 
 **Topic ID**: 7531

@@ -1,3 +1,10 @@
+---
+topic_id: 9585
+title: "What Is The Method To Draw Structure Of Slicer Rt"
+date: 2019-12-23
+url: https://discourse.slicer.org/t/9585
+---
+
 # What is the method to draw Structure of Slicer Rt?
 
 **Topic ID**: 9585

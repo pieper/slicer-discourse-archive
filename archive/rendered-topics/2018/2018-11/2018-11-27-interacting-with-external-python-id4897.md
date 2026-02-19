@@ -1,3 +1,10 @@
+---
+topic_id: 4897
+title: "Interacting With External Python"
+date: 2018-11-27
+url: https://discourse.slicer.org/t/4897
+---
+
 # Interacting with external python
 
 **Topic ID**: 4897

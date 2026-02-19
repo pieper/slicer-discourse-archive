@@ -1,3 +1,10 @@
+---
+topic_id: 41004
+title: "Best Way To Segment And View Semi Circular Canals From Ct Sc"
+date: 2025-01-09
+url: https://discourse.slicer.org/t/41004
+---
+
 # Best way to segment and view semi-circular canals from CT scan in 3D
 
 **Topic ID**: 41004

@@ -1,3 +1,10 @@
+---
+topic_id: 12322
+title: "Installing Fenics Python Package Inside Slicer"
+date: 2020-07-01
+url: https://discourse.slicer.org/t/12322
+---
+
 # Installing FEniCS Python package inside Slicer
 
 **Topic ID**: 12322

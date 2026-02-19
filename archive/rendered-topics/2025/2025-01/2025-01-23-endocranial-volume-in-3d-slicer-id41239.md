@@ -1,3 +1,10 @@
+---
+topic_id: 41239
+title: "Endocranial Volume In 3D Slicer"
+date: 2025-01-23
+url: https://discourse.slicer.org/t/41239
+---
+
 # Endocranial volume in 3D Slicer
 
 **Topic ID**: 41239

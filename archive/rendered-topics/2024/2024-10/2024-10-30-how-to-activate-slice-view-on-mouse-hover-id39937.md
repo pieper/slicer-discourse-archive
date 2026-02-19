@@ -1,3 +1,10 @@
+---
+topic_id: 39937
+title: "How To Activate Slice View On Mouse Hover"
+date: 2024-10-30
+url: https://discourse.slicer.org/t/39937
+---
+
 # How to Activate Slice View on Mouse Hover
 
 **Topic ID**: 39937

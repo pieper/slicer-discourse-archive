@@ -1,3 +1,10 @@
+---
+topic_id: 33134
+title: "Combine Labelmap From Different Models Into One And Save The"
+date: 2023-11-30
+url: https://discourse.slicer.org/t/33134
+---
+
 # Combine labelmap from different models into one and save the data
 
 **Topic ID**: 33134

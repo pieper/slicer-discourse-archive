@@ -1,3 +1,10 @@
+---
+topic_id: 4006
+title: "Nrrd Space Tag Not Parsed"
+date: 2018-09-06
+url: https://discourse.slicer.org/t/4006
+---
+
 # NRRD space tag not parsed
 
 **Topic ID**: 4006

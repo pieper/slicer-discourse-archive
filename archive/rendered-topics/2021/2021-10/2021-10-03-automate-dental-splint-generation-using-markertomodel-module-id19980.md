@@ -1,3 +1,10 @@
+---
+topic_id: 19980
+title: "Automate Dental Splint Generation Using Markertomodel Module"
+date: 2021-10-03
+url: https://discourse.slicer.org/t/19980
+---
+
 # Automate Dental Splint Generation using MarkerToModel Module
 
 **Topic ID**: 19980

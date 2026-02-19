@@ -1,3 +1,10 @@
+---
+topic_id: 35862
+title: "How To Observe The Change Of A Vector In An Object In Real T"
+date: 2024-05-02
+url: https://discourse.slicer.org/t/35862
+---
+
 # How to observe the change of a vector in an object in real time when the object is rotating
 
 **Topic ID**: 35862

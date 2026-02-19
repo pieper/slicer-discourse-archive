@@ -1,3 +1,10 @@
+---
+topic_id: 10704
+title: "Combine Two Volumes From Two Scans Into A Complete Volume"
+date: 2020-03-16
+url: https://discourse.slicer.org/t/10704
+---
+
 # Combine Two Volumes From Two Scans Into A Complete Volume
 
 **Topic ID**: 10704

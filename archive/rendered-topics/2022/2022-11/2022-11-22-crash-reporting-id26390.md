@@ -1,3 +1,10 @@
+---
+topic_id: 26390
+title: "Crash Reporting"
+date: 2022-11-22
+url: https://discourse.slicer.org/t/26390
+---
+
 # Crash reporting?
 
 **Topic ID**: 26390

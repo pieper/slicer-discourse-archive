@@ -1,3 +1,10 @@
+---
+topic_id: 16632
+title: "How To Use Qmrmlsubjecthierarchytreeview"
+date: 2021-03-19
+url: https://discourse.slicer.org/t/16632
+---
+
 # How to use qMRMLSubjectHierarchyTreeView
 
 **Topic ID**: 16632

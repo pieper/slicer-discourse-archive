@@ -1,3 +1,10 @@
+---
+topic_id: 12285
+title: "Cant Install Extensions In Latest Preview Release"
+date: 2020-06-29
+url: https://discourse.slicer.org/t/12285
+---
+
 # Can't install extensions in latest Preview Release
 
 **Topic ID**: 12285

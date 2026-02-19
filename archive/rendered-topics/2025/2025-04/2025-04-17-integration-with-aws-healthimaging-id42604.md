@@ -1,3 +1,10 @@
+---
+topic_id: 42604
+title: "Integration With Aws Healthimaging"
+date: 2025-04-17
+url: https://discourse.slicer.org/t/42604
+---
+
 # Integration with AWS HealthImaging
 
 **Topic ID**: 42604

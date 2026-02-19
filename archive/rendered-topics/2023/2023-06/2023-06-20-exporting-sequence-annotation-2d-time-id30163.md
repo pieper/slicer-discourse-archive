@@ -1,3 +1,10 @@
+---
+topic_id: 30163
+title: "Exporting Sequence Annotation 2D Time"
+date: 2023-06-20
+url: https://discourse.slicer.org/t/30163
+---
+
 # Exporting sequence annotation (2d + time)
 
 **Topic ID**: 30163

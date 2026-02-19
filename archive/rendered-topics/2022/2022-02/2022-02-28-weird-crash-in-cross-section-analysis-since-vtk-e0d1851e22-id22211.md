@@ -1,3 +1,10 @@
+---
+topic_id: 22211
+title: "Weird Crash In Cross Section Analysis Since Vtk E0D1851E22"
+date: 2022-02-28
+url: https://discourse.slicer.org/t/22211
+---
+
 # Weird crash in 'Cross-section analysis' since VTK e0d1851e22
 
 **Topic ID**: 22211

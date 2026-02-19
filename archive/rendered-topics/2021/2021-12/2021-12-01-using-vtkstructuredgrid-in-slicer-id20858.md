@@ -1,3 +1,10 @@
+---
+topic_id: 20858
+title: "Using Vtkstructuredgrid In Slicer"
+date: 2021-12-01
+url: https://discourse.slicer.org/t/20858
+---
+
 # Using `vtkStructuredGrid` in Slicer
 
 **Topic ID**: 20858

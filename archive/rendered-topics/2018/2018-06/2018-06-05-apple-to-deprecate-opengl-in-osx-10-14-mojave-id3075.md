@@ -1,3 +1,10 @@
+---
+topic_id: 3075
+title: "Apple To Deprecate Opengl In Osx 10 14 Mojave"
+date: 2018-06-05
+url: https://discourse.slicer.org/t/3075
+---
+
 # Apple to deprecate OpenGL in OSX 10.14 Mojave
 
 **Topic ID**: 3075

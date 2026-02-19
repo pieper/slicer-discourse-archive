@@ -1,3 +1,10 @@
+---
+topic_id: 3581
+title: "Create Average Model With Shapevariationanalyzer"
+date: 2018-07-26
+url: https://discourse.slicer.org/t/3581
+---
+
 # Create average model with shapevariationanalyzer
 
 **Topic ID**: 3581

@@ -1,3 +1,10 @@
+---
+topic_id: 25719
+title: "Slicereamapreader"
+date: 2022-10-15
+url: https://discourse.slicer.org/t/25719
+---
+
 # SlicerEAMapReader
 
 **Topic ID**: 25719

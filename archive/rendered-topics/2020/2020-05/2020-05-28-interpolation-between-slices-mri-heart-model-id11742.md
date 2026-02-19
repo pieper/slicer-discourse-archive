@@ -1,3 +1,10 @@
+---
+topic_id: 11742
+title: "Interpolation Between Slices Mri Heart Model"
+date: 2020-05-28
+url: https://discourse.slicer.org/t/11742
+---
+
 # Interpolation between Slices MRI heart model
 
 **Topic ID**: 11742

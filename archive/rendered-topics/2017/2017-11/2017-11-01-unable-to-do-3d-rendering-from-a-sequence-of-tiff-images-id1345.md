@@ -1,3 +1,10 @@
+---
+topic_id: 1345
+title: "Unable To Do 3D Rendering From A Sequence Of Tiff Images"
+date: 2017-11-01
+url: https://discourse.slicer.org/t/1345
+---
+
 # Unable to do 3D rendering from a sequence of tiff images
 
 **Topic ID**: 1345

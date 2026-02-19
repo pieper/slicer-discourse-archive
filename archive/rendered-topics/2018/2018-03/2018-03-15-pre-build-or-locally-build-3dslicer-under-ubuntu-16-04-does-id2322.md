@@ -1,3 +1,10 @@
+---
+topic_id: 2322
+title: "Pre Build Or Locally Build 3Dslicer Under Ubuntu 16 04 Does"
+date: 2018-03-15
+url: https://discourse.slicer.org/t/2322
+---
+
 # Pre-build or Locally-build 3dSlicer under Ubuntu 16.04 does NOT start: Failed to obtain launcher executable name!
 
 **Topic ID**: 2322

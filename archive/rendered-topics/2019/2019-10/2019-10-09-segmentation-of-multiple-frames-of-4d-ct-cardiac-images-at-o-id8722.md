@@ -1,3 +1,10 @@
+---
+topic_id: 8722
+title: "Segmentation Of Multiple Frames Of 4D Ct Cardiac Images At O"
+date: 2019-10-09
+url: https://discourse.slicer.org/t/8722
+---
+
 # Segmentation of multiple frames of 4D CT Cardiac Images at once
 
 **Topic ID**: 8722

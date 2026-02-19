@@ -1,3 +1,10 @@
+---
+topic_id: 10827
+title: "Threshold Segmentation Tool"
+date: 2020-03-25
+url: https://discourse.slicer.org/t/10827
+---
+
 # Threshold segmentation tool
 
 **Topic ID**: 10827

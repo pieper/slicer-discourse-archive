@@ -1,3 +1,10 @@
+---
+topic_id: 811
+title: "Add Slicer Nightly To Homebrew Macos"
+date: 2017-08-02
+url: https://discourse.slicer.org/t/811
+---
+
 # Add Slicer Nightly to Homebrew (macOS)
 
 **Topic ID**: 811

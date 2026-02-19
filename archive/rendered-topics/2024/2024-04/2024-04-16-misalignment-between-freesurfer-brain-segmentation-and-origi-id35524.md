@@ -1,3 +1,10 @@
+---
+topic_id: 35524
+title: "Misalignment Between Freesurfer Brain Segmentation And Origi"
+date: 2024-04-16
+url: https://discourse.slicer.org/t/35524
+---
+
 # Misalignment between Freesurfer brain segmentation and original T1 images
 
 **Topic ID**: 35524

@@ -1,3 +1,10 @@
+---
+topic_id: 26716
+title: "Correction Of Misaligned Slices In Cardiac Segmentation From"
+date: 2022-12-13
+url: https://discourse.slicer.org/t/26716
+---
+
 # Correction of misaligned slices in cardiac segmentation from MRI image
 
 **Topic ID**: 26716

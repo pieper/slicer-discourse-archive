@@ -1,3 +1,10 @@
+---
+topic_id: 850
+title: "How To Move Name And Measure In Vtkmrmlannotationrulernode"
+date: 2017-08-09
+url: https://discourse.slicer.org/t/850
+---
+
 # How to move name and measure in vtkMRMLAnnotationRulerNode
 
 **Topic ID**: 850

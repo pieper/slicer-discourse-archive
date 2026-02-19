@@ -1,3 +1,10 @@
+---
+topic_id: 16448
+title: "How To Automatically Paint When The Line Stops About Draw"
+date: 2021-03-09
+url: https://discourse.slicer.org/t/16448
+---
+
 # How to automatically paint when the line stops about Draw?
 
 **Topic ID**: 16448

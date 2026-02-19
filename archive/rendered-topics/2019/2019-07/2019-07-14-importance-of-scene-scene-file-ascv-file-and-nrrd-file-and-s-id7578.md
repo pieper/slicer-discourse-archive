@@ -1,3 +1,10 @@
+---
+topic_id: 7578
+title: "Importance Of Scene Scene File Ascv File And Nrrd File And S"
+date: 2019-07-14
+url: https://discourse.slicer.org/t/7578
+---
+
 # Importance of Scene SCENE file, ASCV file and NRRD file and SCENE PNG file and ROI file
 
 **Topic ID**: 7578

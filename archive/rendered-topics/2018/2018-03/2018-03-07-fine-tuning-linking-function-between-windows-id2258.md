@@ -1,3 +1,10 @@
+---
+topic_id: 2258
+title: "Fine Tuning Linking Function Between Windows"
+date: 2018-03-07
+url: https://discourse.slicer.org/t/2258
+---
+
 # Fine-tuning linking function between windows
 
 **Topic ID**: 2258

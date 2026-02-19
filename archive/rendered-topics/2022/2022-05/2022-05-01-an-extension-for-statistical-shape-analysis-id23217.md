@@ -1,3 +1,10 @@
+---
+topic_id: 23217
+title: "An Extension For Statistical Shape Analysis"
+date: 2022-05-01
+url: https://discourse.slicer.org/t/23217
+---
+
 # An extension for Statistical shape analysis
 
 **Topic ID**: 23217

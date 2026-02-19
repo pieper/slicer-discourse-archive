@@ -1,3 +1,10 @@
+---
+topic_id: 41245
+title: "3D Slicer And Amira Have Different Opposite Orientation"
+date: 2025-01-23
+url: https://discourse.slicer.org/t/41245
+---
+
 # 3d Slicer and Amira have different(opposite) orientation
 
 **Topic ID**: 41245

@@ -1,3 +1,10 @@
+---
+topic_id: 20469
+title: "Exporting Segmentations"
+date: 2021-11-02
+url: https://discourse.slicer.org/t/20469
+---
+
 # Exporting Segmentations
 
 **Topic ID**: 20469

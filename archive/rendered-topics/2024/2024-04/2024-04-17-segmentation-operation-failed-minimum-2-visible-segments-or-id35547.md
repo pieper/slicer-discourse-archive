@@ -1,3 +1,10 @@
+---
+topic_id: 35547
+title: "Segmentation Operation Failed Minimum 2 Visible Segments Or"
+date: 2024-04-17
+url: https://discourse.slicer.org/t/35547
+---
+
 # Segmentation operation failed: Minimum 2 visible segments (or specification of editable area or intensity range)
 
 **Topic ID**: 35547

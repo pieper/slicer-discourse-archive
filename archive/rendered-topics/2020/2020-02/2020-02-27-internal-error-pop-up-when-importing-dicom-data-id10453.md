@@ -1,3 +1,10 @@
+---
+topic_id: 10453
+title: "Internal Error Pop Up When Importing Dicom Data"
+date: 2020-02-27
+url: https://discourse.slicer.org/t/10453
+---
+
 # Internal error pop-up when importing DICOM data
 
 **Topic ID**: 10453

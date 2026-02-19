@@ -1,3 +1,10 @@
+---
+topic_id: 19294
+title: "Add An Actor Vtkcubeaxesactor To The Scene In C"
+date: 2021-08-22
+url: https://discourse.slicer.org/t/19294
+---
+
 # Add an actor (vtkCubeAxesActor) to the scene in C++
 
 **Topic ID**: 19294

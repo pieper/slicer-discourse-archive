@@ -1,3 +1,10 @@
+---
+topic_id: 16541
+title: "How To Find Pixel Size Voxel Depth On 3D Slicer"
+date: 2021-03-15
+url: https://discourse.slicer.org/t/16541
+---
+
 # How to find Pixel Size/ Voxel Depth on 3D slicer? 
 
 **Topic ID**: 16541

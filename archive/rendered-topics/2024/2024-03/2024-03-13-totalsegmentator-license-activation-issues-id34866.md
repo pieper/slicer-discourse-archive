@@ -1,3 +1,10 @@
+---
+topic_id: 34866
+title: "Totalsegmentator License Activation Issues"
+date: 2024-03-13
+url: https://discourse.slicer.org/t/34866
+---
+
 # TotalSegmentator License Activation Issues
 
 **Topic ID**: 34866

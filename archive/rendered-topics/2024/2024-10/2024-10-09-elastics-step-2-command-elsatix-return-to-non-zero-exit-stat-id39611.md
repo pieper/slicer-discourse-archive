@@ -1,3 +1,10 @@
+---
+topic_id: 39611
+title: "Elastics Step 2 Command Elsatix Return To Non Zero Exit Stat"
+date: 2024-10-09
+url: https://discourse.slicer.org/t/39611
+---
+
 # Elastics Step 2.command "elsatix return to non-zero exit status 1 error"
 
 **Topic ID**: 39611

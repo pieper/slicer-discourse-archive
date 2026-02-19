@@ -1,3 +1,10 @@
+---
+topic_id: 40235
+title: "Mask Volume Logic"
+date: 2024-11-17
+url: https://discourse.slicer.org/t/40235
+---
+
 # Mask Volume Logic
 
 **Topic ID**: 40235

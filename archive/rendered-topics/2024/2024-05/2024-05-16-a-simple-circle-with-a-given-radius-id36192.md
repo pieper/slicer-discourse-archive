@@ -1,3 +1,10 @@
+---
+topic_id: 36192
+title: "A Simple Circle With A Given Radius"
+date: 2024-05-16
+url: https://discourse.slicer.org/t/36192
+---
+
 # A simple circle with a given radius
 
 **Topic ID**: 36192

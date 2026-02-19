@@ -1,3 +1,10 @@
+---
+topic_id: 20423
+title: "Perform Gamma Analysis With Slicerrt Using Python Scripting"
+date: 2021-10-30
+url: https://discourse.slicer.org/t/20423
+---
+
 # Perform gamma analysis with slicerRT using python scripting
 
 **Topic ID**: 20423

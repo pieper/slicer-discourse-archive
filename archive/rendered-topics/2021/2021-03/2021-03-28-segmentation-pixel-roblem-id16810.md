@@ -1,3 +1,10 @@
+---
+topic_id: 16810
+title: "Segmentation Pixel Roblem"
+date: 2021-03-28
+url: https://discourse.slicer.org/t/16810
+---
+
 # Segmentation pixel roblem
 
 **Topic ID**: 16810

@@ -1,3 +1,10 @@
+---
+topic_id: 37677
+title: "Segment Editor Not Working"
+date: 2024-08-02
+url: https://discourse.slicer.org/t/37677
+---
+
 # Segment Editor not working
 
 **Topic ID**: 37677

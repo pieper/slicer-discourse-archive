@@ -1,3 +1,10 @@
+---
+topic_id: 35107
+title: "Scissorss Fill Inside Operation Issue"
+date: 2024-03-26
+url: https://discourse.slicer.org/t/35107
+---
+
 # Scissors's Fill Inside operation issue
 
 **Topic ID**: 35107

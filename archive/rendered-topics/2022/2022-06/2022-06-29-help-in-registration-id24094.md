@@ -1,3 +1,10 @@
+---
+topic_id: 24094
+title: "Help In Registration"
+date: 2022-06-29
+url: https://discourse.slicer.org/t/24094
+---
+
 # Help in registration
 
 **Topic ID**: 24094

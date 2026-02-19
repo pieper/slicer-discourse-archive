@@ -1,3 +1,10 @@
+---
+topic_id: 8880
+title: "Higher Resolution For Screen Captures Of 3D View"
+date: 2019-10-23
+url: https://discourse.slicer.org/t/8880
+---
+
 # Higher resolution for screen captures of 3D view?
 
 **Topic ID**: 8880

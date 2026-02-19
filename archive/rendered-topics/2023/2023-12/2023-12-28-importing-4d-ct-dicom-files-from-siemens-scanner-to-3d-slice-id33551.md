@@ -1,3 +1,10 @@
+---
+topic_id: 33551
+title: "Importing 4D Ct Dicom Files From Siemens Scanner To 3D Slice"
+date: 2023-12-28
+url: https://discourse.slicer.org/t/33551
+---
+
 # Importing 4D CT DICOM files from Siemens scanner to 3D Slicer
 
 **Topic ID**: 33551

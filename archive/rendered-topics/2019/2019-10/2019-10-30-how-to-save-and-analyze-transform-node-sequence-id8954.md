@@ -1,3 +1,10 @@
+---
+topic_id: 8954
+title: "How To Save And Analyze Transform Node Sequence"
+date: 2019-10-30
+url: https://discourse.slicer.org/t/8954
+---
+
 # How to save and analyze transform node sequence?
 
 **Topic ID**: 8954

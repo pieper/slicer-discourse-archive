@@ -1,3 +1,10 @@
+---
+topic_id: 42026
+title: "Coronal View And The Number Of Images That Compose It"
+date: 2025-03-08
+url: https://discourse.slicer.org/t/42026
+---
+
 # Coronal view and the number of images that compose it
 
 **Topic ID**: 42026

@@ -1,3 +1,10 @@
+---
+topic_id: 26380
+title: "Why Everytime I Have To Perform Save"
+date: 2022-11-22
+url: https://discourse.slicer.org/t/26380
+---
+
 # Why everytime i have to perform save
 
 **Topic ID**: 26380

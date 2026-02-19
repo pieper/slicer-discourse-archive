@@ -1,3 +1,10 @@
+---
+topic_id: 20398
+title: "Slicer Template Based Build Environment Using Docker"
+date: 2021-10-28
+url: https://discourse.slicer.org/t/20398
+---
+
 # Slicer template based build environment using docker
 
 **Topic ID**: 20398

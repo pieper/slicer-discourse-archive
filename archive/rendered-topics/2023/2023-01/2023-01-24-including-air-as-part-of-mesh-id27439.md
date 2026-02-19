@@ -1,3 +1,10 @@
+---
+topic_id: 27439
+title: "Including Air As Part Of Mesh"
+date: 2023-01-24
+url: https://discourse.slicer.org/t/27439
+---
+
 # Including air as part of mesh
 
 **Topic ID**: 27439

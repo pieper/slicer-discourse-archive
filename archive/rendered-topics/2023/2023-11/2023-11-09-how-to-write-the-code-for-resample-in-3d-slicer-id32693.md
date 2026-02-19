@@ -1,3 +1,10 @@
+---
+topic_id: 32693
+title: "How To Write The Code For Resample In 3D Slicer"
+date: 2023-11-09
+url: https://discourse.slicer.org/t/32693
+---
+
 # How to write the code for resample in 3D slicer
 
 **Topic ID**: 32693

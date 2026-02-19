@@ -1,3 +1,10 @@
+---
+topic_id: 5029
+title: "Python Access To Create And Place Fiducial"
+date: 2018-12-10
+url: https://discourse.slicer.org/t/5029
+---
+
 # Python access to Create and Place fiducial?
 
 **Topic ID**: 5029

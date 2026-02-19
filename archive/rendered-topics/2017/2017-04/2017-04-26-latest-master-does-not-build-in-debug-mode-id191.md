@@ -1,3 +1,10 @@
+---
+topic_id: 191
+title: "Latest Master Does Not Build In Debug Mode"
+date: 2017-04-26
+url: https://discourse.slicer.org/t/191
+---
+
 # Latest master does not build in Debug mode
 
 **Topic ID**: 191

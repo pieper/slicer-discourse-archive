@@ -1,3 +1,10 @@
+---
+topic_id: 268
+title: "Reading Inputs And Writing Outputs In Cli Module"
+date: 2017-05-04
+url: https://discourse.slicer.org/t/268
+---
+
 # Reading inputs and writing outputs in CLI module
 
 **Topic ID**: 268

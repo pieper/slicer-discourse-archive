@@ -1,3 +1,10 @@
+---
+topic_id: 28507
+title: "Voting Plugin Enabled For Feature Request Category"
+date: 2023-03-21
+url: https://discourse.slicer.org/t/28507
+---
+
 # Voting plugin enabled for feature request category
 
 **Topic ID**: 28507

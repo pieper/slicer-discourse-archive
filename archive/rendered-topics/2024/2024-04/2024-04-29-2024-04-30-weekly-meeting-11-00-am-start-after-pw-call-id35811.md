@@ -1,3 +1,10 @@
+---
+topic_id: 35811
+title: "2024 04 30 Weekly Meeting 11 00 Am Start After Pw Call"
+date: 2024-04-29
+url: https://discourse.slicer.org/t/35811
+---
+
 # 2024.04.30 Weekly Meeting - 11:00 AM Start after PW call!
 
 **Topic ID**: 35811

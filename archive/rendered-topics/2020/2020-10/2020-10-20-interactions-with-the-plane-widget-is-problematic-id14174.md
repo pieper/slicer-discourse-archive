@@ -1,3 +1,10 @@
+---
+topic_id: 14174
+title: "Interactions With The Plane Widget Is Problematic"
+date: 2020-10-20
+url: https://discourse.slicer.org/t/14174
+---
+
 # Interactions with the plane widget is problematic
 
 **Topic ID**: 14174

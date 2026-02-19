@@ -1,3 +1,10 @@
+---
+topic_id: 25912
+title: "Failed To Load Hdr File"
+date: 2022-10-26
+url: https://discourse.slicer.org/t/25912
+---
+
 # Failed to load .hdr file
 
 **Topic ID**: 25912

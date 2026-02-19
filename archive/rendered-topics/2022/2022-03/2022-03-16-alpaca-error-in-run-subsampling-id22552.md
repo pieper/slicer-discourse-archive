@@ -1,3 +1,10 @@
+---
+topic_id: 22552
+title: "Alpaca Error In Run Subsampling"
+date: 2022-03-16
+url: https://discourse.slicer.org/t/22552
+---
+
 # Alpaca error in 'Run Subsampling'
 
 **Topic ID**: 22552

@@ -1,3 +1,10 @@
+---
+topic_id: 10772
+title: "Weighted Registration"
+date: 2020-03-21
+url: https://discourse.slicer.org/t/10772
+---
+
 # Weighted registration
 
 **Topic ID**: 10772

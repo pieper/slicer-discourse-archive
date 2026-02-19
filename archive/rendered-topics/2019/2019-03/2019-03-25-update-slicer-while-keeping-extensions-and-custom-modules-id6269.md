@@ -1,3 +1,10 @@
+---
+topic_id: 6269
+title: "Update Slicer While Keeping Extensions And Custom Modules"
+date: 2019-03-25
+url: https://discourse.slicer.org/t/6269
+---
+
 # Update Slicer while keeping extensions and custom modules
 
 **Topic ID**: 6269

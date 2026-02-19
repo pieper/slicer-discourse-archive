@@ -1,3 +1,10 @@
+---
+topic_id: 45152
+title: "Slicer Project Week 44 Registration Is Open"
+date: 2025-11-19
+url: https://discourse.slicer.org/t/45152
+---
+
 # Slicer Project Week #44 registration is open
 
 **Topic ID**: 45152

@@ -1,3 +1,10 @@
+---
+topic_id: 29297
+title: "Label Values In Manual And Automated Segmentation Files Dont"
+date: 2023-05-04
+url: https://discourse.slicer.org/t/29297
+---
+
 # Label values in manual and automated segmentation files don't match
 
 **Topic ID**: 29297

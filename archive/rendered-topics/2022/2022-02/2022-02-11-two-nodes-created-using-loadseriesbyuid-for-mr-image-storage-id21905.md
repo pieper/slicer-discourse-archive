@@ -1,3 +1,10 @@
+---
+topic_id: 21905
+title: "Two Nodes Created Using Loadseriesbyuid For Mr Image Storage"
+date: 2022-02-11
+url: https://discourse.slicer.org/t/21905
+---
+
 # Two nodes created using loadSeriesByUID for MR Image Storage SOPClass
 
 **Topic ID**: 21905

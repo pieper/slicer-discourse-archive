@@ -1,3 +1,10 @@
+---
+topic_id: 41707
+title: "Slicer Extension Manager Build Error Missing Photogrammetry"
+date: 2025-02-14
+url: https://discourse.slicer.org/t/41707
+---
+
 # Slicer Extension Manager build error: Missing Photogrammetry.json on CDash
 
 **Topic ID**: 41707

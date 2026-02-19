@@ -1,3 +1,10 @@
+---
+topic_id: 15188
+title: "How To Process Multi Images In Swiss Skull Stripper"
+date: 2020-12-22
+url: https://discourse.slicer.org/t/15188
+---
+
 # How to process multi images in swiss skull stripper
 
 **Topic ID**: 15188

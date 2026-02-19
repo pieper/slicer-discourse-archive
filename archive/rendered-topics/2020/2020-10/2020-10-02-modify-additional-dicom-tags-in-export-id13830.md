@@ -1,3 +1,10 @@
+---
+topic_id: 13830
+title: "Modify Additional Dicom Tags In Export"
+date: 2020-10-02
+url: https://discourse.slicer.org/t/13830
+---
+
 # Modify additional DICOM tags in export
 
 **Topic ID**: 13830

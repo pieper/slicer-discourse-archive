@@ -1,3 +1,10 @@
+---
+topic_id: 43083
+title: "Easy Hip Planner How To Easy Turn Code To Extension"
+date: 2025-05-25
+url: https://discourse.slicer.org/t/43083
+---
+
 # Easy Hip Planner - how to -easy- turn code to extension?
 
 **Topic ID**: 43083

@@ -1,3 +1,10 @@
+---
+topic_id: 34664
+title: "4D Reconstruction Left Ventrcle From Cinemri"
+date: 2024-03-03
+url: https://discourse.slicer.org/t/34664
+---
+
 # 4D reconstruction left ventrcle from cineMRI
 
 **Topic ID**: 34664

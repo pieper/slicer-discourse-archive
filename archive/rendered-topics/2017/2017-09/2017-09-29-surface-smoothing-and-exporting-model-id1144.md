@@ -1,3 +1,10 @@
+---
+topic_id: 1144
+title: "Surface Smoothing And Exporting Model"
+date: 2017-09-29
+url: https://discourse.slicer.org/t/1144
+---
+
 # Surface smoothing and exporting model
 
 **Topic ID**: 1144

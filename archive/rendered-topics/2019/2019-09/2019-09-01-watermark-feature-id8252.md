@@ -1,3 +1,10 @@
+---
+topic_id: 8252
+title: "Watermark Feature"
+date: 2019-09-01
+url: https://discourse.slicer.org/t/8252
+---
+
 # Watermark feature
 
 **Topic ID**: 8252

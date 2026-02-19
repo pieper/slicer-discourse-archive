@@ -1,3 +1,10 @@
+---
+topic_id: 10613
+title: "Loading A Huge Amount Of Data"
+date: 2020-03-10
+url: https://discourse.slicer.org/t/10613
+---
+
 # loading a huge amount of data
 
 **Topic ID**: 10613

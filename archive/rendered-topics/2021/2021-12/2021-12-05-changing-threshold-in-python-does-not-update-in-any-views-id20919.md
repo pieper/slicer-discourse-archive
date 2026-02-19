@@ -1,3 +1,10 @@
+---
+topic_id: 20919
+title: "Changing Threshold In Python Does Not Update In Any Views"
+date: 2021-12-05
+url: https://discourse.slicer.org/t/20919
+---
+
 # Changing threshold in python does not update in any views
 
 **Topic ID**: 20919

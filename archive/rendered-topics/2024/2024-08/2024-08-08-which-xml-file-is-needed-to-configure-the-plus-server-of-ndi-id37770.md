@@ -1,3 +1,10 @@
+---
+topic_id: 37770
+title: "Which Xml File Is Needed To Configure The Plus Server Of Ndi"
+date: 2024-08-08
+url: https://discourse.slicer.org/t/37770
+---
+
 # Which .xml file is needed to configure the PLUS server of NDI Polaris Vega ST
 
 **Topic ID**: 37770

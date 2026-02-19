@@ -1,3 +1,10 @@
+---
+topic_id: 22128
+title: "Soft Tissue Deformation"
+date: 2022-02-23
+url: https://discourse.slicer.org/t/22128
+---
+
 # Soft tissue deformation
 
 **Topic ID**: 22128

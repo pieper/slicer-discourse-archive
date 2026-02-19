@@ -1,3 +1,10 @@
+---
+topic_id: 19944
+title: "Pyradiomics Log Filter Voxel Or Physical Space"
+date: 2021-10-01
+url: https://discourse.slicer.org/t/19944
+---
+
 # Pyradiomics LoG filter voxel or physical space?
 
 **Topic ID**: 19944

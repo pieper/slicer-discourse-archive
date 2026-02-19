@@ -1,3 +1,10 @@
+---
+topic_id: 22717
+title: "Registration Method For Automatically Segmented 2D Us Slices"
+date: 2022-03-28
+url: https://discourse.slicer.org/t/22717
+---
+
 # Registration method for automatically segmented 2D US slices
 
 **Topic ID**: 22717

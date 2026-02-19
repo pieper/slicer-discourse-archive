@@ -1,3 +1,10 @@
+---
+topic_id: 9223
+title: "Optimize Segment Editor Effect Speed For Larger Segments"
+date: 2019-11-19
+url: https://discourse.slicer.org/t/9223
+---
+
 # Optimize segment editor effect speed for larger segments
 
 **Topic ID**: 9223

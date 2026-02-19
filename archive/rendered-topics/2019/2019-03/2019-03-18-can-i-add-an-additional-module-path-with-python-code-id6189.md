@@ -1,3 +1,10 @@
+---
+topic_id: 6189
+title: "Can I Add An Additional Module Path With Python Code"
+date: 2019-03-18
+url: https://discourse.slicer.org/t/6189
+---
+
 # Can I add an "additional module path" with python code
 
 **Topic ID**: 6189

@@ -1,3 +1,10 @@
+---
+topic_id: 6817
+title: "Adjust Window Level Is Not Working Nightly Release 4 11 0"
+date: 2019-05-16
+url: https://discourse.slicer.org/t/6817
+---
+
 # Adjust Window Level is not working (nightly release 4.11.0)
 
 **Topic ID**: 6817

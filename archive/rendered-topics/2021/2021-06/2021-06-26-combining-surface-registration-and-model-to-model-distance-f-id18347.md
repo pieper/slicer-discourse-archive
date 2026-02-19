@@ -1,3 +1,10 @@
+---
+topic_id: 18347
+title: "Combining Surface Registration And Model To Model Distance F"
+date: 2021-06-26
+url: https://discourse.slicer.org/t/18347
+---
+
 # Combining surface registration and model-to-model distance functionalities
 
 **Topic ID**: 18347

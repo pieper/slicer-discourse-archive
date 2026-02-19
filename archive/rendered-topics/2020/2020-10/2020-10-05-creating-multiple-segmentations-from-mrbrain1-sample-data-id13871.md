@@ -1,3 +1,10 @@
+---
+topic_id: 13871
+title: "Creating Multiple Segmentations From Mrbrain1 Sample Data"
+date: 2020-10-05
+url: https://discourse.slicer.org/t/13871
+---
+
 # Creating multiple segmentations from MRBrain1 sample data
 
 **Topic ID**: 13871

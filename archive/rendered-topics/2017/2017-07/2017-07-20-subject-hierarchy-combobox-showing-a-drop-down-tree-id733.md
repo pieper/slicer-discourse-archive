@@ -1,3 +1,10 @@
+---
+topic_id: 733
+title: "Subject Hierarchy Combobox Showing A Drop Down Tree"
+date: 2017-07-20
+url: https://discourse.slicer.org/t/733
+---
+
 # Subject hierarchy combobox showing a drop-down tree
 
 **Topic ID**: 733

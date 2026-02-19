@@ -1,3 +1,10 @@
+---
+topic_id: 38151
+title: "Multimodality Imaging Registration"
+date: 2024-09-02
+url: https://discourse.slicer.org/t/38151
+---
+
 # Multimodality imaging registration
 
 **Topic ID**: 38151

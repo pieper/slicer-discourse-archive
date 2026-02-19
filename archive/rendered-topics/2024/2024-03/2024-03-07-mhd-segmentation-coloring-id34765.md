@@ -1,3 +1,10 @@
+---
+topic_id: 34765
+title: "Mhd Segmentation Coloring"
+date: 2024-03-07
+url: https://discourse.slicer.org/t/34765
+---
+
 # MHD segmentation coloring
 
 **Topic ID**: 34765

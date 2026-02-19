@@ -1,3 +1,10 @@
+---
+topic_id: 11423
+title: "How Do I Get A Model Of A Spine From Dicom Files"
+date: 2020-05-05
+url: https://discourse.slicer.org/t/11423
+---
+
 # How do I get a model of a spine from DICOM files
 
 **Topic ID**: 11423

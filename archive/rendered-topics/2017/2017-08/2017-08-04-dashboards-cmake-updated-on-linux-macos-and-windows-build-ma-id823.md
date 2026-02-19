@@ -1,3 +1,10 @@
+---
+topic_id: 823
+title: "Dashboards Cmake Updated On Linux Macos And Windows Build Ma"
+date: 2017-08-04
+url: https://discourse.slicer.org/t/823
+---
+
 # Dashboards: CMake updated on Linux, macOS and Windows build machines
 
 **Topic ID**: 823

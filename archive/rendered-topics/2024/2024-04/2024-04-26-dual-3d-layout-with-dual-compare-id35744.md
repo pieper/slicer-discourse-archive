@@ -1,3 +1,10 @@
+---
+topic_id: 35744
+title: "Dual 3D Layout With Dual Compare"
+date: 2024-04-26
+url: https://discourse.slicer.org/t/35744
+---
+
 # Dual 3D Layout with Dual Compare
 
 **Topic ID**: 35744

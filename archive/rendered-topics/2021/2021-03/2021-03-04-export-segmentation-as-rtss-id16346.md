@@ -1,3 +1,10 @@
+---
+topic_id: 16346
+title: "Export Segmentation As Rtss"
+date: 2021-03-04
+url: https://discourse.slicer.org/t/16346
+---
+
 # Export segmentation as RTSS
 
 **Topic ID**: 16346

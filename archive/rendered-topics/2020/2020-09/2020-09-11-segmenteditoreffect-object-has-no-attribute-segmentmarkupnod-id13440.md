@@ -1,3 +1,10 @@
+---
+topic_id: 13440
+title: "Segmenteditoreffect Object Has No Attribute Segmentmarkupnod"
+date: 2020-09-11
+url: https://discourse.slicer.org/t/13440
+---
+
 # 'SegmentEditorEffect' object has no attribute 'segmentMarkupNode'
 
 **Topic ID**: 13440

@@ -1,3 +1,10 @@
+---
+topic_id: 38288
+title: "Resample Scalar Vector Dwi Volume Produces Weird Results"
+date: 2024-09-09
+url: https://discourse.slicer.org/t/38288
+---
+
 # Resample Scalar/Vector/DWI Volume produces weird results
 
 **Topic ID**: 38288

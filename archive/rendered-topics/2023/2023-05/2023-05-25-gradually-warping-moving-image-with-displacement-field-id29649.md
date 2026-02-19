@@ -1,3 +1,10 @@
+---
+topic_id: 29649
+title: "Gradually Warping Moving Image With Displacement Field"
+date: 2023-05-25
+url: https://discourse.slicer.org/t/29649
+---
+
 # Gradually warping moving image with displacement field 
 
 **Topic ID**: 29649

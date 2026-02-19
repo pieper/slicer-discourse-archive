@@ -1,3 +1,10 @@
+---
+topic_id: 15140
+title: "Quick Color Assignment"
+date: 2020-12-19
+url: https://discourse.slicer.org/t/15140
+---
+
 # Quick color assignment
 
 **Topic ID**: 15140

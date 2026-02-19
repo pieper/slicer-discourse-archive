@@ -1,3 +1,10 @@
+---
+topic_id: 28122
+title: "Dicom Data For 4D Heart Data"
+date: 2023-03-01
+url: https://discourse.slicer.org/t/28122
+---
+
 # DICOM data for 4D heart data
 
 **Topic ID**: 28122

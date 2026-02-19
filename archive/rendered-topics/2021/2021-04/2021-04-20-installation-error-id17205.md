@@ -1,3 +1,10 @@
+---
+topic_id: 17205
+title: "Installation Error"
+date: 2021-04-20
+url: https://discourse.slicer.org/t/17205
+---
+
 # Installation Error
 
 **Topic ID**: 17205

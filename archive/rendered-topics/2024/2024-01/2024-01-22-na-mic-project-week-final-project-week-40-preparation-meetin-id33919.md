@@ -1,3 +1,10 @@
+---
+topic_id: 33919
+title: "Na Mic Project Week Final Project Week 40 Preparation Meetin"
+date: 2024-01-22
+url: https://discourse.slicer.org/t/33919
+---
+
 # [Na-mic-project-week] Final Project Week 40 Preparation Meeting - Tuesday Jan 23rd (tomorrow)
 
 **Topic ID**: 33919

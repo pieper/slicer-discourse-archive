@@ -1,3 +1,10 @@
+---
+topic_id: 27693
+title: "Is It Possible To Map A General Vescular Model To Individual"
+date: 2023-02-08
+url: https://discourse.slicer.org/t/27693
+---
+
 # Is it possible to map a general vescular model to individual CT image for preliminary judgement?
 
 **Topic ID**: 27693

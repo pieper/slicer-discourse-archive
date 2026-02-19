@@ -1,3 +1,10 @@
+---
+topic_id: 29364
+title: "How To Debug Python Library Written In C"
+date: 2023-05-08
+url: https://discourse.slicer.org/t/29364
+---
+
 # How to debug python library written in C++
 
 **Topic ID**: 29364

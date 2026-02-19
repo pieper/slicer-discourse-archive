@@ -1,3 +1,10 @@
+---
+topic_id: 10127
+title: "How To Load Landmarks"
+date: 2020-02-05
+url: https://discourse.slicer.org/t/10127
+---
+
 # How to load landmarks?
 
 **Topic ID**: 10127

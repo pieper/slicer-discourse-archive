@@ -1,3 +1,10 @@
+---
+topic_id: 27530
+title: "Malpaca Template Selection"
+date: 2023-01-29
+url: https://discourse.slicer.org/t/27530
+---
+
 # MALPACA template selection
 
 **Topic ID**: 27530

@@ -1,3 +1,10 @@
+---
+topic_id: 34956
+title: "Dimensions Exported Stl File"
+date: 2024-03-18
+url: https://discourse.slicer.org/t/34956
+---
+
 # Dimensions exported stl file
 
 **Topic ID**: 34956

@@ -1,3 +1,10 @@
+---
+topic_id: 43369
+title: "Slicermorph Photogrammetry Photo Masking Issue"
+date: 2025-06-16
+url: https://discourse.slicer.org/t/43369
+---
+
 # SlicerMorph Photogrammetry photo masking issue
 
 **Topic ID**: 43369

@@ -1,3 +1,10 @@
+---
+topic_id: 16618
+title: "Radiomics Developing A Blank Table"
+date: 2021-03-18
+url: https://discourse.slicer.org/t/16618
+---
+
 # Radiomics developing a blank table?
 
 **Topic ID**: 16618

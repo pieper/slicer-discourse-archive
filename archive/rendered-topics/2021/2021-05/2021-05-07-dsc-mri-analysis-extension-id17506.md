@@ -1,3 +1,10 @@
+---
+topic_id: 17506
+title: "Dsc Mri Analysis Extension"
+date: 2021-05-07
+url: https://discourse.slicer.org/t/17506
+---
+
 # DSC MRI Analysis Extension
 
 **Topic ID**: 17506

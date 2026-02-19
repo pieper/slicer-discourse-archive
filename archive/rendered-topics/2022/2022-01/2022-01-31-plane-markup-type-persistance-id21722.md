@@ -1,3 +1,10 @@
+---
+topic_id: 21722
+title: "Plane Markup Type Persistance"
+date: 2022-01-31
+url: https://discourse.slicer.org/t/21722
+---
+
 # Plane markup type persistance
 
 **Topic ID**: 21722

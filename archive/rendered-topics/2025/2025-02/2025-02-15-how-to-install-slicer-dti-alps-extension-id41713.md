@@ -1,3 +1,10 @@
+---
+topic_id: 41713
+title: "How To Install Slicer Dti Alps Extension"
+date: 2025-02-15
+url: https://discourse.slicer.org/t/41713
+---
+
 # how to install Slicer-DTI-ALPS extension
 
 **Topic ID**: 41713

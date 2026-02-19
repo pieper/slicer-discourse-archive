@@ -1,3 +1,10 @@
+---
+topic_id: 5398
+title: "Special Characters"
+date: 2019-01-17
+url: https://discourse.slicer.org/t/5398
+---
+
 # Special characters
 
 **Topic ID**: 5398

@@ -1,3 +1,10 @@
+---
+topic_id: 28100
+title: "Retrieving Statistics From Rtstruct And Scalar Volume Binary"
+date: 2023-02-28
+url: https://discourse.slicer.org/t/28100
+---
+
 # Retrieving statistics from RTSTRUCT and scalar volume - binary labelmap representation computation is very slow
 
 **Topic ID**: 28100

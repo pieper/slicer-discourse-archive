@@ -1,3 +1,10 @@
+---
+topic_id: 41841
+title: "Do I Need To Re Download The Sample Data Every Time I Reopen"
+date: 2025-02-23
+url: https://discourse.slicer.org/t/41841
+---
+
 # Do I need to re-download the sample data every time I reopen 3D Slicer and use the SlicerLiver extension?
 
 **Topic ID**: 41841

@@ -1,3 +1,10 @@
+---
+topic_id: 9141
+title: "How To Open Nifti Gz Gz Files"
+date: 2019-11-14
+url: https://discourse.slicer.org/t/9141
+---
+
 # How to open NIFTI-GZ (.gz) files?
 
 **Topic ID**: 9141

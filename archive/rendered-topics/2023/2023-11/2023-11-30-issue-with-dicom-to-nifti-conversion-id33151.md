@@ -1,3 +1,10 @@
+---
+topic_id: 33151
+title: "Issue With Dicom To Nifti Conversion"
+date: 2023-11-30
+url: https://discourse.slicer.org/t/33151
+---
+
 # Issue with DICOM to Nifti Conversion
 
 **Topic ID**: 33151

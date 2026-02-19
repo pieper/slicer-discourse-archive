@@ -1,3 +1,10 @@
+---
+topic_id: 4383
+title: "Phantom Study To Correct Geometric Distortion In Mri Imaging"
+date: 2018-10-13
+url: https://discourse.slicer.org/t/4383
+---
+
 # Phantom study to correct geometric distortion in MRI imaging (Moving image) based on CT imaging (Fixed image)
 
 **Topic ID**: 4383

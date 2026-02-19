@@ -1,3 +1,10 @@
+---
+topic_id: 14994
+title: "General Registration Brains Not Importing Dicom Or Nrrd File"
+date: 2020-12-10
+url: https://discourse.slicer.org/t/14994
+---
+
 # General Registration(brains) not importing dicom or nrrd files 
 
 **Topic ID**: 14994

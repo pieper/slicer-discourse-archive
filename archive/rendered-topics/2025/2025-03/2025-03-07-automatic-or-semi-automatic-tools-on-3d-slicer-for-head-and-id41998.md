@@ -1,3 +1,10 @@
+---
+topic_id: 41998
+title: "Automatic Or Semi Automatic Tools On 3D Slicer For Head And"
+date: 2025-03-07
+url: https://discourse.slicer.org/t/41998
+---
+
 # Automatic or semi-automatic tools on 3D Slicer for Head and Neck CT images, especially for larynx or segmenting laryngeal cartilages. 
 
 **Topic ID**: 41998

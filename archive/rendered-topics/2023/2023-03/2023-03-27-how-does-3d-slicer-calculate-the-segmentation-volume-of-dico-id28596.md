@@ -1,3 +1,10 @@
+---
+topic_id: 28596
+title: "How Does 3D Slicer Calculate The Segmentation Volume Of Dico"
+date: 2023-03-27
+url: https://discourse.slicer.org/t/28596
+---
+
 # How does 3d slicer calculate the segmentation volume of dicom image？
 
 **Topic ID**: 28596

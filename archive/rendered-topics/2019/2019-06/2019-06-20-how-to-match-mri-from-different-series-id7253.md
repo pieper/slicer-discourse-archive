@@ -1,3 +1,10 @@
+---
+topic_id: 7253
+title: "How To Match Mri From Different Series"
+date: 2019-06-20
+url: https://discourse.slicer.org/t/7253
+---
+
 # How to match MRI from different series?
 
 **Topic ID**: 7253

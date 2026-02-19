@@ -1,3 +1,10 @@
+---
+topic_id: 1857
+title: "Extracting Co Ordinates Of Point Cloud In A Segmentation"
+date: 2018-01-16
+url: https://discourse.slicer.org/t/1857
+---
+
 # Extracting co-ordinates of point cloud in a segmentation
 
 **Topic ID**: 1857

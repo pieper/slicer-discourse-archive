@@ -1,3 +1,10 @@
+---
+topic_id: 14458
+title: "Registration Of Ct Brain Segmentation Template Into Head Pha"
+date: 2020-11-06
+url: https://discourse.slicer.org/t/14458
+---
+
 # Registration of CT brain segmentation template into head phantom in 3D Slicer
 
 **Topic ID**: 14458

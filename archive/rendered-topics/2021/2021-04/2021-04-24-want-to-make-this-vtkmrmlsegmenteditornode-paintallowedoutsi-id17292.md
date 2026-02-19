@@ -1,3 +1,10 @@
+---
+topic_id: 17292
+title: "Want To Make This Vtkmrmlsegmenteditornode Paintallowedoutsi"
+date: 2021-04-24
+url: https://discourse.slicer.org/t/17292
+---
+
 # Want to make this vtkMRMLSegmentEditorNode::PaintAllowedOutsideAllLockedSegments
 
 **Topic ID**: 17292

@@ -1,3 +1,10 @@
+---
+topic_id: 35399
+title: "What Configuration Is Needed For Segmentation Of Jawbones Ef"
+date: 2024-04-09
+url: https://discourse.slicer.org/t/35399
+---
+
 # What configuration is needed for segmentation of jawbones efficiently using CBCT?
 
 **Topic ID**: 35399

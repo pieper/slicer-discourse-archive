@@ -1,3 +1,10 @@
+---
+topic_id: 30031
+title: "Looking For Medialskeletons Instructions For Use"
+date: 2023-06-14
+url: https://discourse.slicer.org/t/30031
+---
+
 # Looking for medialskeleton's instructions for use
 
 **Topic ID**: 30031

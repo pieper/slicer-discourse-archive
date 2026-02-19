@@ -1,3 +1,10 @@
+---
+topic_id: 29342
+title: "3D Slicer And Compatibility Of Its Data To Unity"
+date: 2023-05-08
+url: https://discourse.slicer.org/t/29342
+---
+
 # 3D slicer and compatibility of its data to Unity
 
 **Topic ID**: 29342

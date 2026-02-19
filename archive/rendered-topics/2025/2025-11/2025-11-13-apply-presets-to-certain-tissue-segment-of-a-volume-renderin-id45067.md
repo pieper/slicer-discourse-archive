@@ -1,3 +1,10 @@
+---
+topic_id: 45067
+title: "Apply Presets To Certain Tissue Segment Of A Volume Renderin"
+date: 2025-11-13
+url: https://discourse.slicer.org/t/45067
+---
+
 # Apply presets to certain tissue segment of a volume rendering
 
 **Topic ID**: 45067

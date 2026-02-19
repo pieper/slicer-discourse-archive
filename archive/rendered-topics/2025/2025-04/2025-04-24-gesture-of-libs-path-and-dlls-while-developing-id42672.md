@@ -1,3 +1,10 @@
+---
+topic_id: 42672
+title: "Gesture Of Libs Path And Dlls While Developing"
+date: 2025-04-24
+url: https://discourse.slicer.org/t/42672
+---
+
 # Gesture of libs, path and DLLs while developing
 
 **Topic ID**: 42672

@@ -1,3 +1,10 @@
+---
+topic_id: 10216
+title: "Undo Redo Question"
+date: 2020-02-12
+url: https://discourse.slicer.org/t/10216
+---
+
 # Undo/Redo question
 
 **Topic ID**: 10216

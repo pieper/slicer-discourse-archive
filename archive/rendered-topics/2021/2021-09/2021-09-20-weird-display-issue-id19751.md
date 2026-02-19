@@ -1,3 +1,10 @@
+---
+topic_id: 19751
+title: "Weird Display Issue"
+date: 2021-09-20
+url: https://discourse.slicer.org/t/19751
+---
+
 # Weird Display Issue?
 
 **Topic ID**: 19751

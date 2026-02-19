@@ -1,3 +1,10 @@
+---
+topic_id: 1829
+title: "Is There Any Tutorial How To Translate The English Language"
+date: 2018-01-13
+url: https://discourse.slicer.org/t/1829
+---
+
 # Is there any tutorial "how to translate the English language to another"?
 
 **Topic ID**: 1829

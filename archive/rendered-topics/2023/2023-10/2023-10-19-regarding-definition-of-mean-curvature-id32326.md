@@ -1,3 +1,10 @@
+---
+topic_id: 32326
+title: "Regarding Definition Of Mean Curvature"
+date: 2023-10-19
+url: https://discourse.slicer.org/t/32326
+---
+
 # Regarding definition of mean curvature
 
 **Topic ID**: 32326

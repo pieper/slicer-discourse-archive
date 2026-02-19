@@ -1,3 +1,10 @@
+---
+topic_id: 42088
+title: "Reset Views Orientation To Default"
+date: 2025-03-12
+url: https://discourse.slicer.org/t/42088
+---
+
 # Reset views orientation to default
 
 **Topic ID**: 42088

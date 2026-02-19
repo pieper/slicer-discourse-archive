@@ -1,3 +1,10 @@
+---
+topic_id: 32736
+title: "Database Of Segmentations And Surface Models Of Bones Of The"
+date: 2023-11-11
+url: https://discourse.slicer.org/t/32736
+---
+
 # Database of segmentations and surface models of bones of the entire lower body created from cadaver CT scans
 
 **Topic ID**: 32736

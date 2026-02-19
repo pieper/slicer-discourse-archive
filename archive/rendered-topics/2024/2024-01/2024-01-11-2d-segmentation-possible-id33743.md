@@ -1,3 +1,10 @@
+---
+topic_id: 33743
+title: "2D Segmentation Possible"
+date: 2024-01-11
+url: https://discourse.slicer.org/t/33743
+---
+
 # 2D Segmentation possible?
 
 **Topic ID**: 33743

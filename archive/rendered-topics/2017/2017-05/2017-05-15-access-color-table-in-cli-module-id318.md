@@ -1,3 +1,10 @@
+---
+topic_id: 318
+title: "Access Color Table In Cli Module"
+date: 2017-05-15
+url: https://discourse.slicer.org/t/318
+---
+
 # Access color table in CLI module
 
 **Topic ID**: 318

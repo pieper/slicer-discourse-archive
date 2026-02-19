@@ -1,3 +1,10 @@
+---
+topic_id: 26030
+title: "Hippocompus Wm Gm Csf Auto Semi Auto Segmentation"
+date: 2022-11-02
+url: https://discourse.slicer.org/t/26030
+---
+
 # HIPPOCOMPUS, WM. GM & CSF AUTO/SEMI AUTO SEGMENTATION
 
 **Topic ID**: 26030

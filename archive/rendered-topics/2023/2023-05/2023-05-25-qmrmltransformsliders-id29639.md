@@ -1,3 +1,10 @@
+---
+topic_id: 29639
+title: "Qmrmltransformsliders"
+date: 2023-05-25
+url: https://discourse.slicer.org/t/29639
+---
+
 # qMRMLTransformSliders
 
 **Topic ID**: 29639

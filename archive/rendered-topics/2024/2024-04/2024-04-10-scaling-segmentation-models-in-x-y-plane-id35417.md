@@ -1,3 +1,10 @@
+---
+topic_id: 35417
+title: "Scaling Segmentation Models In X Y Plane"
+date: 2024-04-10
+url: https://discourse.slicer.org/t/35417
+---
+
 # Scaling segmentation models in X-Y plane
 
 **Topic ID**: 35417

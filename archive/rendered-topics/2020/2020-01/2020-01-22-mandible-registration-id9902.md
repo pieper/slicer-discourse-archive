@@ -1,3 +1,10 @@
+---
+topic_id: 9902
+title: "Mandible Registration"
+date: 2020-01-22
+url: https://discourse.slicer.org/t/9902
+---
+
 # Mandible registration
 
 **Topic ID**: 9902

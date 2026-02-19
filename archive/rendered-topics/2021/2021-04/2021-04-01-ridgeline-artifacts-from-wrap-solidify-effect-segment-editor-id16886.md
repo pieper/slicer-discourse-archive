@@ -1,3 +1,10 @@
+---
+topic_id: 16886
+title: "Ridgeline Artifacts From Wrap Solidify Effect Segment Editor"
+date: 2021-04-01
+url: https://discourse.slicer.org/t/16886
+---
+
 # Ridgeline Artifacts from Wrap Solidify Effect (Segment Editor Module)
 
 **Topic ID**: 16886

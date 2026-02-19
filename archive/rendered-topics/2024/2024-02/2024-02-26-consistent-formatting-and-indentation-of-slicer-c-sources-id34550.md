@@ -1,3 +1,10 @@
+---
+topic_id: 34550
+title: "Consistent Formatting And Indentation Of Slicer C Sources"
+date: 2024-02-26
+url: https://discourse.slicer.org/t/34550
+---
+
 # Consistent formatting and indentation of Slicer C++ sources
 
 **Topic ID**: 34550

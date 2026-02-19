@@ -1,3 +1,10 @@
+---
+topic_id: 36747
+title: "How To Set Segmentation For A Stl While Branchclipper In Vmt"
+date: 2024-06-13
+url: https://discourse.slicer.org/t/36747
+---
+
 # How to set Segmentation for a .stl while BranchClipper in VMTK?
 
 **Topic ID**: 36747

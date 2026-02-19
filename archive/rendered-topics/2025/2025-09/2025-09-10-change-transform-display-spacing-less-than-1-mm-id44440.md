@@ -1,3 +1,10 @@
+---
+topic_id: 44440
+title: "Change Transform Display Spacing Less Than 1 Mm"
+date: 2025-09-10
+url: https://discourse.slicer.org/t/44440
+---
+
 # Change transform display spacing less than 1 mm
 
 **Topic ID**: 44440

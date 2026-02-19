@@ -1,3 +1,10 @@
+---
+topic_id: 6670
+title: "Segmentation File Working Slowly"
+date: 2019-05-01
+url: https://discourse.slicer.org/t/6670
+---
+
 # Segmentation File Working Slowly
 
 **Topic ID**: 6670

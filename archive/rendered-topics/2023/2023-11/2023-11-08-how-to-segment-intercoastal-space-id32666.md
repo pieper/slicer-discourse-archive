@@ -1,3 +1,10 @@
+---
+topic_id: 32666
+title: "How To Segment Intercoastal Space"
+date: 2023-11-08
+url: https://discourse.slicer.org/t/32666
+---
+
 # How to segment intercoastal space?
 
 **Topic ID**: 32666

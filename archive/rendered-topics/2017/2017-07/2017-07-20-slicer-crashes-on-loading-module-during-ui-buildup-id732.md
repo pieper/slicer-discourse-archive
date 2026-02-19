@@ -1,3 +1,10 @@
+---
+topic_id: 732
+title: "Slicer Crashes On Loading Module During Ui Buildup"
+date: 2017-07-20
+url: https://discourse.slicer.org/t/732
+---
+
 # Slicer crashes on loading module (during UI buildup)
 
 **Topic ID**: 732

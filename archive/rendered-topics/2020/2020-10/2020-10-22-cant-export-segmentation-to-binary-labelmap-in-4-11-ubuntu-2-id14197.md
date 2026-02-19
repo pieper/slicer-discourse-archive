@@ -1,3 +1,10 @@
+---
+topic_id: 14197
+title: "Cant Export Segmentation To Binary Labelmap In 4 11 Ubuntu 2"
+date: 2020-10-22
+url: https://discourse.slicer.org/t/14197
+---
+
 # Can't export segmentation to binary labelmap in 4.11 Ubuntu 25.05.2020 version
 
 **Topic ID**: 14197

@@ -1,3 +1,10 @@
+---
+topic_id: 40384
+title: "Extension Manager Install Download Error Not Finding Extensi"
+date: 2024-11-26
+url: https://discourse.slicer.org/t/40384
+---
+
 # Extension Manager install/download error (not finding extension id)
 
 **Topic ID**: 40384

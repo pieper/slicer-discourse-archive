@@ -1,3 +1,10 @@
+---
+topic_id: 23696
+title: "Converting Segmentationnode To Labelmap Takes A Long Time Th"
+date: 2022-06-03
+url: https://discourse.slicer.org/t/23696
+---
+
 # Converting SegmentationNode to Labelmap takes a long time through Python
 
 **Topic ID**: 23696

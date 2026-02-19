@@ -1,3 +1,10 @@
+---
+topic_id: 37673
+title: "Totalsegmentator Brain Structures Segmentation Task Not List"
+date: 2024-08-02
+url: https://discourse.slicer.org/t/37673
+---
+
 # Totalsegmentator Brain Structures segmentation task not listed
 
 **Topic ID**: 37673

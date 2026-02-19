@@ -1,3 +1,10 @@
+---
+topic_id: 30448
+title: "Cant Edit A Custom Module"
+date: 2023-07-07
+url: https://discourse.slicer.org/t/30448
+---
+
 # Can't edit a custom module
 
 **Topic ID**: 30448

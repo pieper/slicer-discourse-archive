@@ -1,3 +1,10 @@
+---
+topic_id: 12776
+title: "Jupyternotebookslib Slicer Functions To Edit Volume Renderin"
+date: 2020-07-29
+url: https://discourse.slicer.org/t/12776
+---
+
 # JupyterNotebooksLib Slicer - functions to edit volume rendering parameters?
 
 **Topic ID**: 12776

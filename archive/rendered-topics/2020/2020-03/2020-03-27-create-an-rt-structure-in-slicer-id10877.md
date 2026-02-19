@@ -1,3 +1,10 @@
+---
+topic_id: 10877
+title: "Create An Rt Structure In Slicer"
+date: 2020-03-27
+url: https://discourse.slicer.org/t/10877
+---
+
 # Create an RT Structure in Slicer
 
 **Topic ID**: 10877

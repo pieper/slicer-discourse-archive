@@ -1,3 +1,10 @@
+---
+topic_id: 26953
+title: "Build Slicer Failed With Vtk9 Wrapper Error"
+date: 2022-12-28
+url: https://discourse.slicer.org/t/26953
+---
+
 # Build  Slicer  Failed with   VTK9  Wrapper Error
 
 **Topic ID**: 26953

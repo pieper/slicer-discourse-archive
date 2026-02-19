@@ -1,3 +1,10 @@
+---
+topic_id: 8353
+title: "Slicer Module Panel Icon In Dark Mode"
+date: 2019-09-10
+url: https://discourse.slicer.org/t/8353
+---
+
 # Slicer module panel icon in dark mode
 
 **Topic ID**: 8353

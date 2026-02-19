@@ -1,3 +1,10 @@
+---
+topic_id: 35597
+title: "Finding The Minimum Value Of Each Sequence"
+date: 2024-04-18
+url: https://discourse.slicer.org/t/35597
+---
+
 # Finding the minimum value of each sequence
 
 **Topic ID**: 35597

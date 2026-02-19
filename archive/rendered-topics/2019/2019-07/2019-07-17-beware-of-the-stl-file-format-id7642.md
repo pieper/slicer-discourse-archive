@@ -1,3 +1,10 @@
+---
+topic_id: 7642
+title: "Beware Of The Stl File Format"
+date: 2019-07-17
+url: https://discourse.slicer.org/t/7642
+---
+
 # Beware of the STL file format
 
 **Topic ID**: 7642

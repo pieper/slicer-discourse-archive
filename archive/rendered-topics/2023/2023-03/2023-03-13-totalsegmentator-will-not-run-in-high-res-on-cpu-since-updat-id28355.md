@@ -1,3 +1,10 @@
+---
+topic_id: 28355
+title: "Totalsegmentator Will Not Run In High Res On Cpu Since Updat"
+date: 2023-03-13
+url: https://discourse.slicer.org/t/28355
+---
+
 # TotalSegmentator will not run in High Res on CPU since updating to 5.2.2
 
 **Topic ID**: 28355

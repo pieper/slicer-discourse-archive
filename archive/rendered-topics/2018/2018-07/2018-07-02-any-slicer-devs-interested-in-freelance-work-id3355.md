@@ -1,3 +1,10 @@
+---
+topic_id: 3355
+title: "Any Slicer Devs Interested In Freelance Work"
+date: 2018-07-02
+url: https://discourse.slicer.org/t/3355
+---
+
 # Any slicer devs interested in freelance work?
 
 **Topic ID**: 3355

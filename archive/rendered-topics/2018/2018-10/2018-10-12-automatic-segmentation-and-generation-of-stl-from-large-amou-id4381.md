@@ -1,3 +1,10 @@
+---
+topic_id: 4381
+title: "Automatic Segmentation And Generation Of Stl From Large Amou"
+date: 2018-10-12
+url: https://discourse.slicer.org/t/4381
+---
+
 # Automatic segmentation and generation of .stl from large amount of tiff image stacks
 
 **Topic ID**: 4381

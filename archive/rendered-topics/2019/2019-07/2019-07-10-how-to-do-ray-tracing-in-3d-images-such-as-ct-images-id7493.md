@@ -1,3 +1,10 @@
+---
+topic_id: 7493
+title: "How To Do Ray Tracing In 3D Images Such As Ct Images"
+date: 2019-07-10
+url: https://discourse.slicer.org/t/7493
+---
+
 # How to do Ray Tracing in 3D images, such as CT images?
 
 **Topic ID**: 7493

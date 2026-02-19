@@ -1,3 +1,10 @@
+---
+topic_id: 30862
+title: "Measurement On A Plane"
+date: 2023-07-28
+url: https://discourse.slicer.org/t/30862
+---
+
 # Measurement on a plane
 
 **Topic ID**: 30862

@@ -1,3 +1,10 @@
+---
+topic_id: 43027
+title: "Graphics Processor In Morphocloud Not Working"
+date: 2025-05-21
+url: https://discourse.slicer.org/t/43027
+---
+
 # Graphics processor in MorphoCloud not working?
 
 **Topic ID**: 43027

@@ -1,3 +1,10 @@
+---
+topic_id: 34093
+title: "Is It Possible To Change To Dark Mode Style By Code"
+date: 2024-02-01
+url: https://discourse.slicer.org/t/34093
+---
+
 # Is it possible to change to Dark Mode Style by code?
 
 **Topic ID**: 34093

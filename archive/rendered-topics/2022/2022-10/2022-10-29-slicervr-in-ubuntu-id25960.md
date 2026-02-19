@@ -1,3 +1,10 @@
+---
+topic_id: 25960
+title: "Slicervr In Ubuntu"
+date: 2022-10-29
+url: https://discourse.slicer.org/t/25960
+---
+
 # SlicerVR in Ubuntu
 
 **Topic ID**: 25960

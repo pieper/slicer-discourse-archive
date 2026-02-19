@@ -1,3 +1,10 @@
+---
+topic_id: 16026
+title: "How To Convert Freesurfer Results To Dicom Seg Or Dicom Rt"
+date: 2021-02-17
+url: https://discourse.slicer.org/t/16026
+---
+
 # How to convert freesurfer results to DICOM-SEG or DICOM-RT?
 
 **Topic ID**: 16026

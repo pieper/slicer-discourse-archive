@@ -1,3 +1,10 @@
+---
+topic_id: 25846
+title: "Reposition Imported Stl Possible"
+date: 2022-10-22
+url: https://discourse.slicer.org/t/25846
+---
+
 # Reposition imported stl - possible?
 
 **Topic ID**: 25846

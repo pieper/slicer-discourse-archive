@@ -1,3 +1,10 @@
+---
+topic_id: 13400
+title: "Convert 3D Segmentation To Contours Along Different Axis"
+date: 2020-09-09
+url: https://discourse.slicer.org/t/13400
+---
+
 # Convert 3D Segmentation to contours along different axis
 
 **Topic ID**: 13400

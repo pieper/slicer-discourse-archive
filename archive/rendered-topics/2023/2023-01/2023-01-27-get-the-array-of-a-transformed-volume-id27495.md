@@ -1,3 +1,10 @@
+---
+topic_id: 27495
+title: "Get The Array Of A Transformed Volume"
+date: 2023-01-27
+url: https://discourse.slicer.org/t/27495
+---
+
 # Get the array of a transformed volume
 
 **Topic ID**: 27495

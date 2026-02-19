@@ -1,3 +1,10 @@
+---
+topic_id: 20586
+title: "Segmenting Finer Blood Vessels In The Arm"
+date: 2021-11-11
+url: https://discourse.slicer.org/t/20586
+---
+
 # Segmenting Finer Blood Vessels in the Arm
 
 **Topic ID**: 20586

@@ -1,3 +1,10 @@
+---
+topic_id: 36337
+title: "Dicom Export From Slicer"
+date: 2024-05-23
+url: https://discourse.slicer.org/t/36337
+---
+
 # DICOM export from Slicer
 
 **Topic ID**: 36337

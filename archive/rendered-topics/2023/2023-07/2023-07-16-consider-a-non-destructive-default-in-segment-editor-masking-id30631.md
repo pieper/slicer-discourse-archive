@@ -1,3 +1,10 @@
+---
+topic_id: 30631
+title: "Consider A Non Destructive Default In Segment Editor Masking"
+date: 2023-07-16
+url: https://discourse.slicer.org/t/30631
+---
+
 # Consider a non-destructive default in segment editor masking options
 
 **Topic ID**: 30631

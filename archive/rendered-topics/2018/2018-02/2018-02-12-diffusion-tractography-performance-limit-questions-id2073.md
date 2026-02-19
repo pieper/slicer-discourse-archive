@@ -1,3 +1,10 @@
+---
+topic_id: 2073
+title: "Diffusion Tractography Performance Limit Questions"
+date: 2018-02-12
+url: https://discourse.slicer.org/t/2073
+---
+
 # Diffusion tractography performance limit questions
 
 **Topic ID**: 2073

@@ -1,3 +1,10 @@
+---
+topic_id: 20227
+title: "Intuitive Volume Presets"
+date: 2021-10-19
+url: https://discourse.slicer.org/t/20227
+---
+
 # Intuitive volume presets
 
 **Topic ID**: 20227

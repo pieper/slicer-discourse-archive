@@ -1,3 +1,10 @@
+---
+topic_id: 21257
+title: "Can Volumereconstructor Function Run On Gpu"
+date: 2021-12-29
+url: https://discourse.slicer.org/t/21257
+---
+
 # Can VolumeReconstructor function run on GPU?
 
 **Topic ID**: 21257

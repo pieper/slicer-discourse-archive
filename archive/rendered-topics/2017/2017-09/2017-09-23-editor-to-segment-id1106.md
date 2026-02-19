@@ -1,3 +1,10 @@
+---
+topic_id: 1106
+title: "Editor To Segment"
+date: 2017-09-23
+url: https://discourse.slicer.org/t/1106
+---
+
 # Editor to Segment
 
 **Topic ID**: 1106

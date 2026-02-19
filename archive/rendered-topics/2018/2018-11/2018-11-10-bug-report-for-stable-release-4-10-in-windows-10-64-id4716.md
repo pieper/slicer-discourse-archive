@@ -1,3 +1,10 @@
+---
+topic_id: 4716
+title: "Bug Report For Stable Release 4 10 In Windows 10 64"
+date: 2018-11-10
+url: https://discourse.slicer.org/t/4716
+---
+
 # bug report for stable release 4.10 in windows 10（64）
 
 **Topic ID**: 4716

@@ -1,3 +1,10 @@
+---
+topic_id: 44307
+title: "Slicerastro Extension"
+date: 2025-09-02
+url: https://discourse.slicer.org/t/44307
+---
+
 # SlicerAstro extension
 
 **Topic ID**: 44307

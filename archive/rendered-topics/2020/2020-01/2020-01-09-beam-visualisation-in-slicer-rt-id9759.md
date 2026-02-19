@@ -1,3 +1,10 @@
+---
+topic_id: 9759
+title: "Beam Visualisation In Slicer Rt"
+date: 2020-01-09
+url: https://discourse.slicer.org/t/9759
+---
+
 # Beam Visualisation in Slicer RT
 
 **Topic ID**: 9759

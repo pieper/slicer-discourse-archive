@@ -1,3 +1,10 @@
+---
+topic_id: 25828
+title: "Issue On Auto Crop Multiplanar Image"
+date: 2022-10-21
+url: https://discourse.slicer.org/t/25828
+---
+
 # Issue on auto-crop multiplanar image
 
 **Topic ID**: 25828

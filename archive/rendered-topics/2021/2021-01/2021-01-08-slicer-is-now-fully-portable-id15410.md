@@ -1,3 +1,10 @@
+---
+topic_id: 15410
+title: "Slicer Is Now Fully Portable"
+date: 2021-01-08
+url: https://discourse.slicer.org/t/15410
+---
+
 # Slicer is now fully portable
 
 **Topic ID**: 15410

@@ -1,3 +1,10 @@
+---
+topic_id: 9039
+title: "Automation Of Create Dicom File Step"
+date: 2019-11-06
+url: https://discourse.slicer.org/t/9039
+---
+
 # Automation of Create Dicom File step
 
 **Topic ID**: 9039

@@ -1,3 +1,10 @@
+---
+topic_id: 12720
+title: "Calling Slicer Module From A Python File"
+date: 2020-07-24
+url: https://discourse.slicer.org/t/12720
+---
+
 # Calling slicer module from a python file
 
 **Topic ID**: 12720

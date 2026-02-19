@@ -1,3 +1,10 @@
+---
+topic_id: 5467
+title: "Cannot Display The Back Of Plane With 3D View"
+date: 2019-01-22
+url: https://discourse.slicer.org/t/5467
+---
+
 # Cannot display the back of plane with 3d view
 
 **Topic ID**: 5467

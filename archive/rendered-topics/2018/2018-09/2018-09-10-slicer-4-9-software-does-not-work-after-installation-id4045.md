@@ -1,3 +1,10 @@
+---
+topic_id: 4045
+title: "Slicer 4 9 Software Does Not Work After Installation"
+date: 2018-09-10
+url: https://discourse.slicer.org/t/4045
+---
+
 # SLICER 4.9 software does not work after installation.
 
 **Topic ID**: 4045

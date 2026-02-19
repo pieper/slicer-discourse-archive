@@ -1,3 +1,10 @@
+---
+topic_id: 9967
+title: "Gtract Windows 10"
+date: 2020-01-27
+url: https://discourse.slicer.org/t/9967
+---
+
 # GTRACT Windows 10
 
 **Topic ID**: 9967

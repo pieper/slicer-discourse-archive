@@ -1,3 +1,10 @@
+---
+topic_id: 12015
+title: "Extension Manager For The Sake Of Deep Learning"
+date: 2020-06-14
+url: https://discourse.slicer.org/t/12015
+---
+
 # Extension manager for the sake of deep learning
 
 **Topic ID**: 12015

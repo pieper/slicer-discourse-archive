@@ -1,3 +1,10 @@
+---
+topic_id: 10884
+title: "Runtime Error R6036 Microsoft Visual C Run Time Library"
+date: 2020-03-28
+url: https://discourse.slicer.org/t/10884
+---
+
 # Runtime Error R6036 (microsoft visual c++ run time library)
 
 **Topic ID**: 10884

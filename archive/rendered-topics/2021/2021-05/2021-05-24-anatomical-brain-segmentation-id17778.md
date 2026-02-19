@@ -1,3 +1,10 @@
+---
+topic_id: 17778
+title: "Anatomical Brain Segmentation"
+date: 2021-05-24
+url: https://discourse.slicer.org/t/17778
+---
+
 # Anatomical brain segmentation
 
 **Topic ID**: 17778

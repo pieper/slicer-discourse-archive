@@ -1,3 +1,10 @@
+---
+topic_id: 10515
+title: "How To Store The File After Performing Segmentation Using Nv"
+date: 2020-03-03
+url: https://discourse.slicer.org/t/10515
+---
+
 # How to store the file after performing segmentation using NVDIA AIAA
 
 **Topic ID**: 10515

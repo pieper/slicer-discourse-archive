@@ -1,3 +1,10 @@
+---
+topic_id: 22023
+title: "Does 3D Slicer Allow Annotation Metadata"
+date: 2022-02-17
+url: https://discourse.slicer.org/t/22023
+---
+
 # Does 3D slicer allow annotation metadata?
 
 **Topic ID**: 22023

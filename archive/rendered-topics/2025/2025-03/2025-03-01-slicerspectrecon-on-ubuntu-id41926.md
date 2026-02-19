@@ -1,3 +1,10 @@
+---
+topic_id: 41926
+title: "Slicerspectrecon On Ubuntu"
+date: 2025-03-01
+url: https://discourse.slicer.org/t/41926
+---
+
 # SlicerSPECTRecon on Ubuntu
 
 **Topic ID**: 41926

@@ -1,3 +1,10 @@
+---
+topic_id: 13953
+title: "Fdr Or Multiple Comparison Corection In Covariate Significan"
+date: 2020-10-09
+url: https://discourse.slicer.org/t/13953
+---
+
 # FDR or Multiple Comparison Corection in Covariate Significance Testing
 
 **Topic ID**: 13953

@@ -1,3 +1,10 @@
+---
+topic_id: 31800
+title: "How To Choose Right Number Of Landmark In Pseudolmgenerator"
+date: 2023-09-20
+url: https://discourse.slicer.org/t/31800
+---
+
 # How to choose right number of landmark in PseudoLMGenerator?
 
 **Topic ID**: 31800

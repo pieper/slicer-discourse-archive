@@ -1,3 +1,10 @@
+---
+topic_id: 30120
+title: "Monai Pytorch Tensorboard Visualization"
+date: 2023-06-19
+url: https://discourse.slicer.org/t/30120
+---
+
 # MONAI_Pytorch Tensorboard_Visualization
 
 **Topic ID**: 30120

@@ -1,3 +1,10 @@
+---
+topic_id: 35593
+title: "Cannot Load Rtstruct File"
+date: 2024-04-18
+url: https://discourse.slicer.org/t/35593
+---
+
 # Cannot load RTSTRUCT file
 
 **Topic ID**: 35593

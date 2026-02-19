@@ -1,3 +1,10 @@
+---
+topic_id: 18915
+title: "Where To Set Move Storage Port In Ctkdicomretrieve"
+date: 2021-07-25
+url: https://discourse.slicer.org/t/18915
+---
+
 # Where to set "Move Storage port" in ctkDICOMRetrieve?
 
 **Topic ID**: 18915

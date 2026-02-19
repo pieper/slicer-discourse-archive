@@ -1,3 +1,10 @@
+---
+topic_id: 24708
+title: "How To Stich Together Several 3D Models Derived From Ct Segm"
+date: 2022-08-10
+url: https://discourse.slicer.org/t/24708
+---
+
 # How to stich together several 3D models derived from CT segmentation? 
 
 **Topic ID**: 24708

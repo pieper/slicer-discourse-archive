@@ -1,3 +1,10 @@
+---
+topic_id: 36699
+title: "How To Move Dicom Database"
+date: 2024-06-11
+url: https://discourse.slicer.org/t/36699
+---
+
 # How to move DICOM database
 
 **Topic ID**: 36699

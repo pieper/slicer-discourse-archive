@@ -1,3 +1,10 @@
+---
+topic_id: 32084
+title: "Vmtk Module Extract Center Line Makes The Model Invisible Er"
+date: 2023-10-07
+url: https://discourse.slicer.org/t/32084
+---
+
 # VMTK Module - extract center line makes the model invisible / erased!
 
 **Topic ID**: 32084

@@ -1,3 +1,10 @@
+---
+topic_id: 20250
+title: "What Happens To The Extensions In The Current Stable Once A"
+date: 2021-10-19
+url: https://discourse.slicer.org/t/20250
+---
+
 # What happens to the extensions in the current stable once a new one is released?
 
 **Topic ID**: 20250

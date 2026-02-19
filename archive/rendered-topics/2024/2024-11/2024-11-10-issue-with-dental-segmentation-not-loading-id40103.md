@@ -1,3 +1,10 @@
+---
+topic_id: 40103
+title: "Issue With Dental Segmentation Not Loading"
+date: 2024-11-10
+url: https://discourse.slicer.org/t/40103
+---
+
 # Issue with dental segmentation not loading
 
 **Topic ID**: 40103

@@ -1,3 +1,10 @@
+---
+topic_id: 23247
+title: "Difficulty Editing Previously Saved Segmentation"
+date: 2022-05-02
+url: https://discourse.slicer.org/t/23247
+---
+
 # Difficulty editing Previously Saved Segmentation
 
 **Topic ID**: 23247

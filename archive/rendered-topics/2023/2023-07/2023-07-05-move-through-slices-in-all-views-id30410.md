@@ -1,3 +1,10 @@
+---
+topic_id: 30410
+title: "Move Through Slices In All Views"
+date: 2023-07-05
+url: https://discourse.slicer.org/t/30410
+---
+
 # Move through slices in all views
 
 **Topic ID**: 30410

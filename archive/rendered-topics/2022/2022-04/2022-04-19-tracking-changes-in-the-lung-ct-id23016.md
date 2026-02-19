@@ -1,3 +1,10 @@
+---
+topic_id: 23016
+title: "Tracking Changes In The Lung Ct"
+date: 2022-04-19
+url: https://discourse.slicer.org/t/23016
+---
+
 # Tracking changes in the lung CT
 
 **Topic ID**: 23016

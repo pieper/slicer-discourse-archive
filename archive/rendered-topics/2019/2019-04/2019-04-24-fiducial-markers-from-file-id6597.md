@@ -1,3 +1,10 @@
+---
+topic_id: 6597
+title: "Fiducial Markers From File"
+date: 2019-04-24
+url: https://discourse.slicer.org/t/6597
+---
+
 # Fiducial markers from file
 
 **Topic ID**: 6597

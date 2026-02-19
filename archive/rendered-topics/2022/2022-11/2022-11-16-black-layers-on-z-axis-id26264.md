@@ -1,3 +1,10 @@
+---
+topic_id: 26264
+title: "Black Layers On Z Axis"
+date: 2022-11-16
+url: https://discourse.slicer.org/t/26264
+---
+
 # Black layers on z-axis
 
 **Topic ID**: 26264

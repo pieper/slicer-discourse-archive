@@ -1,3 +1,10 @@
+---
+topic_id: 10417
+title: "Ui State Management In Scripted Modules"
+date: 2020-02-24
+url: https://discourse.slicer.org/t/10417
+---
+
 # UI state management in scripted modules
 
 **Topic ID**: 10417

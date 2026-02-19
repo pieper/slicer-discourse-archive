@@ -1,3 +1,10 @@
+---
+topic_id: 43435
+title: "This Is About Extension To Upload To Extension Manager"
+date: 2025-06-20
+url: https://discourse.slicer.org/t/43435
+---
+
 # This is about extension to upload to extension manager
 
 **Topic ID**: 43435

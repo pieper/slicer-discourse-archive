@@ -1,3 +1,10 @@
+---
+topic_id: 45343
+title: "Irregular Patch Areas Using Vmtk"
+date: 2025-12-03
+url: https://discourse.slicer.org/t/45343
+---
+
 # Irregular patch areas using VMTK
 
 **Topic ID**: 45343

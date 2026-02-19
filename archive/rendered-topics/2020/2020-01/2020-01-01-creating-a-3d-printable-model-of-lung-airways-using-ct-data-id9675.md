@@ -1,3 +1,10 @@
+---
+topic_id: 9675
+title: "Creating A 3D Printable Model Of Lung Airways Using Ct Data"
+date: 2020-01-01
+url: https://discourse.slicer.org/t/9675
+---
+
 # Creating a 3d printable model of lung airways using CT data
 
 **Topic ID**: 9675

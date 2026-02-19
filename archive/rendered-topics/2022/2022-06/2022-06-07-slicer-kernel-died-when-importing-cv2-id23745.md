@@ -1,3 +1,10 @@
+---
+topic_id: 23745
+title: "Slicer Kernel Died When Importing Cv2"
+date: 2022-06-07
+url: https://discourse.slicer.org/t/23745
+---
+
 # Slicer kernel died when importing cv2
 
 **Topic ID**: 23745

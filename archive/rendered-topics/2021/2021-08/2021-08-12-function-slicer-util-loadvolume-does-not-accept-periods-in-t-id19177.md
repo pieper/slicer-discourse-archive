@@ -1,3 +1,10 @@
+---
+topic_id: 19177
+title: "Function Slicer Util Loadvolume Does Not Accept Periods In T"
+date: 2021-08-12
+url: https://discourse.slicer.org/t/19177
+---
+
 # Function slicer.util.loadVolume does not accept periods in the filename
 
 **Topic ID**: 19177

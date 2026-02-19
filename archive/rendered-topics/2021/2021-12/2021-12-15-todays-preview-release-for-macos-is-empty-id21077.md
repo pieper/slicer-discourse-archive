@@ -1,3 +1,10 @@
+---
+topic_id: 21077
+title: "Todays Preview Release For Macos Is Empty"
+date: 2021-12-15
+url: https://discourse.slicer.org/t/21077
+---
+
 # Today's preview release for macOS is empty
 
 **Topic ID**: 21077

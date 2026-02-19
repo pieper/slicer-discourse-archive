@@ -1,3 +1,10 @@
+---
+topic_id: 36909
+title: "Expand Cortical Region To Geometric Edge And Enhance Contras"
+date: 2024-06-20
+url: https://discourse.slicer.org/t/36909
+---
+
 # Expand Cortical Region to Geometric Edge and Enhance Contrast at Edge
 
 **Topic ID**: 36909

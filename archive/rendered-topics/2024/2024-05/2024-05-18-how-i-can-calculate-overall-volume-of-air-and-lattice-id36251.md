@@ -1,3 +1,10 @@
+---
+topic_id: 36251
+title: "How I Can Calculate Overall Volume Of Air And Lattice"
+date: 2024-05-18
+url: https://discourse.slicer.org/t/36251
+---
+
 # How i can calculate overall volume of air and lattice
 
 **Topic ID**: 36251

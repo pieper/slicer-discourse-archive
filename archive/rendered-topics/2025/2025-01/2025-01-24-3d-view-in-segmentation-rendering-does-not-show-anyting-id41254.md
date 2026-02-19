@@ -1,3 +1,10 @@
+---
+topic_id: 41254
+title: "3D View In Segmentation Rendering Does Not Show Anyting"
+date: 2025-01-24
+url: https://discourse.slicer.org/t/41254
+---
+
 # 3d view in segmentation rendering does not show anyting
 
 **Topic ID**: 41254

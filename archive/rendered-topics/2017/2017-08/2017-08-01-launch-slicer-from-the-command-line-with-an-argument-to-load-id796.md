@@ -1,3 +1,10 @@
+---
+topic_id: 796
+title: "Launch Slicer From The Command Line With An Argument To Load"
+date: 2017-08-01
+url: https://discourse.slicer.org/t/796
+---
+
 # Launch slicer from the command line with an argument to load a file
 
 **Topic ID**: 796

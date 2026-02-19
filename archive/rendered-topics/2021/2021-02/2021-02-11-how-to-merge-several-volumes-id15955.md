@@ -1,3 +1,10 @@
+---
+topic_id: 15955
+title: "How To Merge Several Volumes"
+date: 2021-02-11
+url: https://discourse.slicer.org/t/15955
+---
+
 # How to merge several volumes?
 
 **Topic ID**: 15955

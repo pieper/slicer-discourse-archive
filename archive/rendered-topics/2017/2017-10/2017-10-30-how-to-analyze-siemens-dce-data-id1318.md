@@ -1,3 +1,10 @@
+---
+topic_id: 1318
+title: "How To Analyze Siemens Dce Data"
+date: 2017-10-30
+url: https://discourse.slicer.org/t/1318
+---
+
 # How to analyze Siemens DCE data?
 
 **Topic ID**: 1318

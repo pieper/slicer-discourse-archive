@@ -1,3 +1,10 @@
+---
+topic_id: 44663
+title: "Labelmap Values Changing During Conversion From Segments Bac"
+date: 2025-10-03
+url: https://discourse.slicer.org/t/44663
+---
+
 # Labelmap values changing during conversion from segments back to labels
 
 **Topic ID**: 44663

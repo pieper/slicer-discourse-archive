@@ -1,3 +1,10 @@
+---
+topic_id: 7102
+title: "How To Import The Nifti File Of Hcp842 Tractography Atlas To"
+date: 2019-06-10
+url: https://discourse.slicer.org/t/7102
+---
+
 # How to import the nifti file of HCP842 Tractography Atlas to 3DSlicer as label maps?
 
 **Topic ID**: 7102

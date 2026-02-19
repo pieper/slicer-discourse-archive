@@ -1,3 +1,10 @@
+---
+topic_id: 20730
+title: "Error In Nvidia Aiaa"
+date: 2021-11-22
+url: https://discourse.slicer.org/t/20730
+---
+
 # Error in Nvidia AIAA
 
 **Topic ID**: 20730

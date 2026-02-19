@@ -1,3 +1,10 @@
+---
+topic_id: 14999
+title: "Influence Of Spacing On Quality"
+date: 2020-12-10
+url: https://discourse.slicer.org/t/14999
+---
+
 # Influence of spacing on quality
 
 **Topic ID**: 14999

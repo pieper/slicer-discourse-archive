@@ -1,3 +1,10 @@
+---
+topic_id: 29710
+title: "How To Creat A Plane According 2 Points"
+date: 2023-05-29
+url: https://discourse.slicer.org/t/29710
+---
+
 # How to creat a plane according 2 points
 
 **Topic ID**: 29710

@@ -1,3 +1,10 @@
+---
+topic_id: 29116
+title: "Measure Curvature Of The Model"
+date: 2023-04-25
+url: https://discourse.slicer.org/t/29116
+---
+
 # Measure curvature of the model
 
 **Topic ID**: 29116

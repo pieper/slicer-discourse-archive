@@ -1,3 +1,10 @@
+---
+topic_id: 23733
+title: "Sharing A Module"
+date: 2022-06-06
+url: https://discourse.slicer.org/t/23733
+---
+
 # Sharing a module
 
 **Topic ID**: 23733

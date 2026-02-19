@@ -1,3 +1,10 @@
+---
+topic_id: 32650
+title: "Keyboard Shortcut Assigned To A Push Button"
+date: 2023-11-07
+url: https://discourse.slicer.org/t/32650
+---
+
 # Keyboard shortcut assigned to a push button
 
 **Topic ID**: 32650

@@ -1,3 +1,10 @@
+---
+topic_id: 22393
+title: "How To Judge A Roinode Changed Or Not By Python Code"
+date: 2022-03-09
+url: https://discourse.slicer.org/t/22393
+---
+
 # How to judge a roinode changed or not by python code?
 
 **Topic ID**: 22393

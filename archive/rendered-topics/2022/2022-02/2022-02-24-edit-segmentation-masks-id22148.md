@@ -1,3 +1,10 @@
+---
+topic_id: 22148
+title: "Edit Segmentation Masks"
+date: 2022-02-24
+url: https://discourse.slicer.org/t/22148
+---
+
 # Edit Segmentation masks
 
 **Topic ID**: 22148

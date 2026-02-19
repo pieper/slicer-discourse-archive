@@ -1,3 +1,10 @@
+---
+topic_id: 37327
+title: "Lock A Specific Plane For Rotating Or Translating Only"
+date: 2024-07-11
+url: https://discourse.slicer.org/t/37327
+---
+
 # Lock a specific plane for rotating or translating only
 
 **Topic ID**: 37327

@@ -1,3 +1,10 @@
+---
+topic_id: 10026
+title: "Error With Elastix Registration"
+date: 2020-01-30
+url: https://discourse.slicer.org/t/10026
+---
+
 # Error with elastix registration
 
 **Topic ID**: 10026

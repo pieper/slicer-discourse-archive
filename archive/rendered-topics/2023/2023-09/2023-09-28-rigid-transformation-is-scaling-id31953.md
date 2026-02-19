@@ -1,3 +1,10 @@
+---
+topic_id: 31953
+title: "Rigid Transformation Is Scaling"
+date: 2023-09-28
+url: https://discourse.slicer.org/t/31953
+---
+
 # Rigid Transformation is-- scaling?
 
 **Topic ID**: 31953

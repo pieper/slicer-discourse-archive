@@ -1,3 +1,10 @@
+---
+topic_id: 18894
+title: "When I Manually Change My Transformation Matrix I Am Having"
+date: 2021-07-23
+url: https://discourse.slicer.org/t/18894
+---
+
 # When I manually change my Transformation Matrix, I am Having some problem. I want to know the logic or reason behind it. know the logic 
 
 **Topic ID**: 18894

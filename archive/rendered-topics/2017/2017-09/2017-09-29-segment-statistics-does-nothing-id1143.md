@@ -1,3 +1,10 @@
+---
+topic_id: 1143
+title: "Segment Statistics Does Nothing"
+date: 2017-09-29
+url: https://discourse.slicer.org/t/1143
+---
+
 # Segment Statistics does nothing?
 
 **Topic ID**: 1143

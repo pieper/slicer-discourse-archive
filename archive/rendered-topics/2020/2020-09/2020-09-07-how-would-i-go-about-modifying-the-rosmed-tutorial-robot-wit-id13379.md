@@ -1,3 +1,10 @@
+---
+topic_id: 13379
+title: "How Would I Go About Modifying The Rosmed Tutorial Robot Wit"
+date: 2020-09-07
+url: https://discourse.slicer.org/t/13379
+---
+
 # How would I go about modifying the ROSMED tutorial robot with my own robot?
 
 **Topic ID**: 13379

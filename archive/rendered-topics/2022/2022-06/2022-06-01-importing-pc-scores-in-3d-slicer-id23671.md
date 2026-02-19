@@ -1,3 +1,10 @@
+---
+topic_id: 23671
+title: "Importing Pc Scores In 3D Slicer"
+date: 2022-06-01
+url: https://discourse.slicer.org/t/23671
+---
+
 # Importing PC scores in 3D slicer
 
 **Topic ID**: 23671

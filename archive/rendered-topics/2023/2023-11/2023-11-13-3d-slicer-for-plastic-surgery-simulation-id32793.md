@@ -1,3 +1,10 @@
+---
+topic_id: 32793
+title: "3D Slicer For Plastic Surgery Simulation"
+date: 2023-11-13
+url: https://discourse.slicer.org/t/32793
+---
+
 # 3D Slicer for Plastic Surgery Simulation
 
 **Topic ID**: 32793

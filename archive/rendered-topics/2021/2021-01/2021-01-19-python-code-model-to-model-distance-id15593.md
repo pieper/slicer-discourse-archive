@@ -1,3 +1,10 @@
+---
+topic_id: 15593
+title: "Python Code Model To Model Distance"
+date: 2021-01-19
+url: https://discourse.slicer.org/t/15593
+---
+
 # Python code model-to-model distance
 
 **Topic ID**: 15593

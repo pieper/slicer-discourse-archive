@@ -1,3 +1,10 @@
+---
+topic_id: 12762
+title: "Dicom Segmentation Object Q R"
+date: 2020-07-28
+url: https://discourse.slicer.org/t/12762
+---
+
 # Dicom segmentation object Q/R
 
 **Topic ID**: 12762

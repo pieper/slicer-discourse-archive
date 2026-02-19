@@ -1,3 +1,10 @@
+---
+topic_id: 6142
+title: "Windows Extensions Not Being Built"
+date: 2019-03-14
+url: https://discourse.slicer.org/t/6142
+---
+
 # Windows extensions not being built
 
 **Topic ID**: 6142

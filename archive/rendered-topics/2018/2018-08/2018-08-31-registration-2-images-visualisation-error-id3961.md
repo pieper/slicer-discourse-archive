@@ -1,3 +1,10 @@
+---
+topic_id: 3961
+title: "Registration 2 Images Visualisation Error"
+date: 2018-08-31
+url: https://discourse.slicer.org/t/3961
+---
+
 # Registration 2 images visualisation error?
 
 **Topic ID**: 3961

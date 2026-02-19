@@ -1,3 +1,10 @@
+---
+topic_id: 27281
+title: "Is It Possible To Create Segmentation From Given Coordinate"
+date: 2023-01-16
+url: https://discourse.slicer.org/t/27281
+---
+
 # Is it possible to create segmentation from given coordinate information (x,y,z)?
 
 **Topic ID**: 27281

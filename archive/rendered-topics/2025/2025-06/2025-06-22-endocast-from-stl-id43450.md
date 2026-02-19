@@ -1,3 +1,10 @@
+---
+topic_id: 43450
+title: "Endocast From Stl"
+date: 2025-06-22
+url: https://discourse.slicer.org/t/43450
+---
+
 # Endocast from STL
 
 **Topic ID**: 43450

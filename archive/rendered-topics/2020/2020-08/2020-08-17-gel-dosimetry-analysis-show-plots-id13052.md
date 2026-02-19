@@ -1,3 +1,10 @@
+---
+topic_id: 13052
+title: "Gel Dosimetry Analysis Show Plots"
+date: 2020-08-17
+url: https://discourse.slicer.org/t/13052
+---
+
 # Gel Dosimetry Analysis - Show Plots
 
 **Topic ID**: 13052

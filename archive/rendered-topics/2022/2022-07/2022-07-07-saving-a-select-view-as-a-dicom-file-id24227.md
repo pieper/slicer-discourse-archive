@@ -1,3 +1,10 @@
+---
+topic_id: 24227
+title: "Saving A Select View As A Dicom File"
+date: 2022-07-07
+url: https://discourse.slicer.org/t/24227
+---
+
 # Saving a select view as a DICOM file
 
 **Topic ID**: 24227

@@ -1,3 +1,10 @@
+---
+topic_id: 14726
+title: "Cmake 3 19 0 Build Fails On Linux"
+date: 2020-11-21
+url: https://discourse.slicer.org/t/14726
+---
+
 # Cmake 3.19.0 : build fails on Linux
 
 **Topic ID**: 14726

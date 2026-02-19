@@ -1,3 +1,10 @@
+---
+topic_id: 23233
+title: "Image Artifacts And Example Data Files"
+date: 2022-05-02
+url: https://discourse.slicer.org/t/23233
+---
+
 # image artifacts and example data files
 
 **Topic ID**: 23233

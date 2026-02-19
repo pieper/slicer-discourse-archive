@@ -1,3 +1,10 @@
+---
+topic_id: 29633
+title: "Log Window Cannot Be Hidden In Enviroments With No Windows M"
+date: 2023-05-24
+url: https://discourse.slicer.org/t/29633
+---
+
 # Log window cannot be hidden in enviroments with no windows manager
 
 **Topic ID**: 29633

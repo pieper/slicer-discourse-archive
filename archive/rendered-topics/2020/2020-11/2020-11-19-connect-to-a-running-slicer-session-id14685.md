@@ -1,3 +1,10 @@
+---
+topic_id: 14685
+title: "Connect To A Running Slicer Session"
+date: 2020-11-19
+url: https://discourse.slicer.org/t/14685
+---
+
 # Connect to a running Slicer session
 
 **Topic ID**: 14685

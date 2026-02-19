@@ -1,3 +1,10 @@
+---
+topic_id: 30387
+title: "I Want To Call Api On Close Event Of Mainwindow"
+date: 2023-07-04
+url: https://discourse.slicer.org/t/30387
+---
+
 # I want to call api on close event of mainwindow
 
 **Topic ID**: 30387

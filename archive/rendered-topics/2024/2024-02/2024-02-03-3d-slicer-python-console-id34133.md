@@ -1,3 +1,10 @@
+---
+topic_id: 34133
+title: "3D Slicer Python Console"
+date: 2024-02-03
+url: https://discourse.slicer.org/t/34133
+---
+
 # 3D slicer python console
 
 **Topic ID**: 34133

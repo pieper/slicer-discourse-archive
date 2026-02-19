@@ -1,3 +1,10 @@
+---
+topic_id: 11381
+title: "Show Slice Edges In 3D View"
+date: 2020-05-01
+url: https://discourse.slicer.org/t/11381
+---
+
 # Show slice edges in 3D view
 
 **Topic ID**: 11381

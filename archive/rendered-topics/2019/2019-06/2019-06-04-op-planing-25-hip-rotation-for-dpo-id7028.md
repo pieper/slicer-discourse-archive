@@ -1,3 +1,10 @@
+---
+topic_id: 7028
+title: "Op Planing 25 Hip Rotation For Dpo"
+date: 2019-06-04
+url: https://discourse.slicer.org/t/7028
+---
+
 # OP-planing 25° hip rotation for DPO
 
 **Topic ID**: 7028

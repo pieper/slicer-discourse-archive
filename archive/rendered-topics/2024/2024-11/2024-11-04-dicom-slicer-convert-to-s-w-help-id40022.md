@@ -1,3 +1,10 @@
+---
+topic_id: 40022
+title: "Dicom Slicer Convert To S W Help"
+date: 2024-11-04
+url: https://discourse.slicer.org/t/40022
+---
+
 # Dicom-slicer- convert to s/w help
 
 **Topic ID**: 40022

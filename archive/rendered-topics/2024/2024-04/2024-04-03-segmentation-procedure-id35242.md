@@ -1,3 +1,10 @@
+---
+topic_id: 35242
+title: "Segmentation Procedure"
+date: 2024-04-03
+url: https://discourse.slicer.org/t/35242
+---
+
 # Segmentation procedure
 
 **Topic ID**: 35242

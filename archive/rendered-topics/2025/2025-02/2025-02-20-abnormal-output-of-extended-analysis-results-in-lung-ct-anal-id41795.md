@@ -1,3 +1,10 @@
+---
+topic_id: 41795
+title: "Abnormal Output Of Extended Analysis Results In Lung Ct Anal"
+date: 2025-02-20
+url: https://discourse.slicer.org/t/41795
+---
+
 # Abnormal output of Extended Analysis results in Lung CT Analyzer
 
 **Topic ID**: 41795

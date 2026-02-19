@@ -1,3 +1,10 @@
+---
+topic_id: 33512
+title: "Double Clicking To Zoom In And Out"
+date: 2023-12-25
+url: https://discourse.slicer.org/t/33512
+---
+
 # Double-clicking to zoom in and out
 
 **Topic ID**: 33512

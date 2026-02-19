@@ -1,3 +1,10 @@
+---
+topic_id: 28331
+title: "Trouble With Extension Surfacewrapsolidify"
+date: 2023-03-12
+url: https://discourse.slicer.org/t/28331
+---
+
 # Trouble with Extension "SurfaceWrapSolidify" 
 
 **Topic ID**: 28331

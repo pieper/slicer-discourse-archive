@@ -1,3 +1,10 @@
+---
+topic_id: 33146
+title: "Unable To Export Segmentation Object"
+date: 2023-11-30
+url: https://discourse.slicer.org/t/33146
+---
+
 # Unable to export segmentation object
 
 **Topic ID**: 33146

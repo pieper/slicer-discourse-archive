@@ -1,3 +1,10 @@
+---
+topic_id: 27088
+title: "Svn Na Mic Org Svn Slicer Org And Viewvc Slicer Org Servers"
+date: 2023-01-06
+url: https://discourse.slicer.org/t/27088
+---
+
 # Svn.na-mic.org, svn.slicer.org and viewvc.slicer.org servers shutdown and archived on GitHub
 
 **Topic ID**: 27088

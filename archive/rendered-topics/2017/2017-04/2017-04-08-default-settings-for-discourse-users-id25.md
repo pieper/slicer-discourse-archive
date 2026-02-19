@@ -1,3 +1,10 @@
+---
+topic_id: 25
+title: "Default Settings For Discourse Users"
+date: 2017-04-08
+url: https://discourse.slicer.org/t/25
+---
+
 # Default settings for discourse users
 
 **Topic ID**: 25

@@ -1,3 +1,10 @@
+---
+topic_id: 34667
+title: "Intrest In Creating A Slicing Or Splitting Software Using 3D"
+date: 2024-03-03
+url: https://discourse.slicer.org/t/34667
+---
+
 # Intrest in creating a slicing or splitting software using 3D slicer
 
 **Topic ID**: 34667

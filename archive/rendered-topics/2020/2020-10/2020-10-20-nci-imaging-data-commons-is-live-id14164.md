@@ -1,3 +1,10 @@
+---
+topic_id: 14164
+title: "Nci Imaging Data Commons Is Live"
+date: 2020-10-20
+url: https://discourse.slicer.org/t/14164
+---
+
 # NCI Imaging Data Commons is live!
 
 **Topic ID**: 14164

@@ -1,3 +1,10 @@
+---
+topic_id: 44106
+title: "Slicerigt U37 Neuronav Error"
+date: 2025-08-16
+url: https://discourse.slicer.org/t/44106
+---
+
 # SlicerIGT U37 Neuronav Error
 
 **Topic ID**: 44106

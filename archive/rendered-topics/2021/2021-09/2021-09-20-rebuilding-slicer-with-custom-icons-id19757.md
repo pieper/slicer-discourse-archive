@@ -1,3 +1,10 @@
+---
+topic_id: 19757
+title: "Rebuilding Slicer With Custom Icons"
+date: 2021-09-20
+url: https://discourse.slicer.org/t/19757
+---
+
 # Rebuilding slicer with custom icons
 
 **Topic ID**: 19757

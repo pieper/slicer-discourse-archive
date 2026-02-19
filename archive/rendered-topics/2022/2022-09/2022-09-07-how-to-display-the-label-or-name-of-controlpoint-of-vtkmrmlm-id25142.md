@@ -1,3 +1,10 @@
+---
+topic_id: 25142
+title: "How To Display The Label Or Name Of Controlpoint Of Vtkmrmlm"
+date: 2022-09-07
+url: https://discourse.slicer.org/t/25142
+---
+
 # How to display the label (or Name) of ControlPoint of vtkMRMLMarkupsCurveNode?
 
 **Topic ID**: 25142

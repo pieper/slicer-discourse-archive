@@ -1,3 +1,10 @@
+---
+topic_id: 2269
+title: "Pathology Module Install Fail Due To Slicewidget Attribute E"
+date: 2018-03-08
+url: https://discourse.slicer.org/t/2269
+---
+
 # Pathology module install fail due to sliceWidget attribute error
 
 **Topic ID**: 2269

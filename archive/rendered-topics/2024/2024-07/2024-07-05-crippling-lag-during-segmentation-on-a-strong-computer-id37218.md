@@ -1,3 +1,10 @@
+---
+topic_id: 37218
+title: "Crippling Lag During Segmentation On A Strong Computer"
+date: 2024-07-05
+url: https://discourse.slicer.org/t/37218
+---
+
 # CRIPPLING LAG during segmentation on a strong computer
 
 **Topic ID**: 37218

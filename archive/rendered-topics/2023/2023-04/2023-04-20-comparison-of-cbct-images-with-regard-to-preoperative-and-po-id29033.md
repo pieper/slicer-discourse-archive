@@ -1,3 +1,10 @@
+---
+topic_id: 29033
+title: "Comparison Of Cbct Images With Regard To Preoperative And Po"
+date: 2023-04-20
+url: https://discourse.slicer.org/t/29033
+---
+
 # Comparison of CBCT images with regard to preoperative and postoperative position and relation
 
 **Topic ID**: 29033

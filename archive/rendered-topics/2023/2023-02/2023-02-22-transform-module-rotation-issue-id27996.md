@@ -1,3 +1,10 @@
+---
+topic_id: 27996
+title: "Transform Module Rotation Issue"
+date: 2023-02-22
+url: https://discourse.slicer.org/t/27996
+---
+
 # Transform module rotation issue
 
 **Topic ID**: 27996

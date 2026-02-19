@@ -1,3 +1,10 @@
+---
+topic_id: 667
+title: "Dicom Browser Does Not Open"
+date: 2017-07-11
+url: https://discourse.slicer.org/t/667
+---
+
 # DICOM browser does not open
 
 **Topic ID**: 667

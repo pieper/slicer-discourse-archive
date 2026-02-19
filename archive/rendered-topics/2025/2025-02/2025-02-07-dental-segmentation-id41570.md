@@ -1,3 +1,10 @@
+---
+topic_id: 41570
+title: "Dental Segmentation"
+date: 2025-02-07
+url: https://discourse.slicer.org/t/41570
+---
+
 # Dental Segmentation
 
 **Topic ID**: 41570

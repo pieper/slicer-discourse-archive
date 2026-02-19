@@ -1,3 +1,10 @@
+---
+topic_id: 11115
+title: "Segment Statistics Input Volume"
+date: 2020-04-14
+url: https://discourse.slicer.org/t/11115
+---
+
 # Segment Statistics - Input Volume
 
 **Topic ID**: 11115

@@ -1,3 +1,10 @@
+---
+topic_id: 8740
+title: "Convert Several Ct Dicom In One 3D Dicom"
+date: 2019-10-10
+url: https://discourse.slicer.org/t/8740
+---
+
 # convert several ct dicom in one 3d dicom
 
 **Topic ID**: 8740

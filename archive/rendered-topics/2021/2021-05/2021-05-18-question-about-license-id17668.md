@@ -1,3 +1,10 @@
+---
+topic_id: 17668
+title: "Question About License"
+date: 2021-05-18
+url: https://discourse.slicer.org/t/17668
+---
+
 # Question about license
 
 **Topic ID**: 17668

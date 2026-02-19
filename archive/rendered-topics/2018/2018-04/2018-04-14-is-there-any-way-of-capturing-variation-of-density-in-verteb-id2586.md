@@ -1,3 +1,10 @@
+---
+topic_id: 2586
+title: "Is There Any Way Of Capturing Variation Of Density In Verteb"
+date: 2018-04-14
+url: https://discourse.slicer.org/t/2586
+---
+
 # Is there any way of capturing variation of density in vertebrae for FEA?
 
 **Topic ID**: 2586

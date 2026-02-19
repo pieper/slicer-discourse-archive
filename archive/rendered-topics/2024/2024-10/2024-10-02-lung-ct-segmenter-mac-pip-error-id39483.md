@@ -1,3 +1,10 @@
+---
+topic_id: 39483
+title: "Lung Ct Segmenter Mac Pip Error"
+date: 2024-10-02
+url: https://discourse.slicer.org/t/39483
+---
+
 # Lung CT Segmenter Mac pip error
 
 **Topic ID**: 39483

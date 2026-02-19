@@ -1,3 +1,10 @@
+---
+topic_id: 9073
+title: "Setting Of Markerstyle Does Not Work"
+date: 2019-11-07
+url: https://discourse.slicer.org/t/9073
+---
+
 # Setting of MarkerStyle does NOT work!
 
 **Topic ID**: 9073

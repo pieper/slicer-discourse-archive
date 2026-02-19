@@ -1,3 +1,10 @@
+---
+topic_id: 6810
+title: "Extensions Can Not Be Installed"
+date: 2019-05-15
+url: https://discourse.slicer.org/t/6810
+---
+
 # Extensions can not be installed
 
 **Topic ID**: 6810

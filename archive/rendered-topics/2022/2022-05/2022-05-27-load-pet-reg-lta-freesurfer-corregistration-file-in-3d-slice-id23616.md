@@ -1,3 +1,10 @@
+---
+topic_id: 23616
+title: "Load Pet Reg Lta Freesurfer Corregistration File In 3D Slice"
+date: 2022-05-27
+url: https://discourse.slicer.org/t/23616
+---
+
 # Load PET.reg.lta freesurfer corregistration file in 3D slicer 4.11
 
 **Topic ID**: 23616

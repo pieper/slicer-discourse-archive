@@ -1,3 +1,10 @@
+---
+topic_id: 370
+title: "Extension Manager Search Is Not Functioning As Expected"
+date: 2017-05-24
+url: https://discourse.slicer.org/t/370
+---
+
 # Extension Manager search is not functioning as expected
 
 **Topic ID**: 370

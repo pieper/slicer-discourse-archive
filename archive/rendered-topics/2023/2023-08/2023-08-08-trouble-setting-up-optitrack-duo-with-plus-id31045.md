@@ -1,3 +1,10 @@
+---
+topic_id: 31045
+title: "Trouble Setting Up Optitrack Duo With Plus"
+date: 2023-08-08
+url: https://discourse.slicer.org/t/31045
+---
+
 # Trouble setting up OptiTrack duo with Plus
 
 **Topic ID**: 31045

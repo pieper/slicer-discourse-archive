@@ -1,3 +1,10 @@
+---
+topic_id: 44524
+title: "How Do I Integrate These Installed Extensions And Python Int"
+date: 2025-09-18
+url: https://discourse.slicer.org/t/44524
+---
+
 # How do I integrate these installed extensions and python into the EXE installation package?
 
 **Topic ID**: 44524

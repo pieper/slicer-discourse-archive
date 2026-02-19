@@ -1,3 +1,10 @@
+---
+topic_id: 6298
+title: "Machine Learning Model Importing"
+date: 2019-03-26
+url: https://discourse.slicer.org/t/6298
+---
+
 # Machine Learning Model Importing
 
 **Topic ID**: 6298

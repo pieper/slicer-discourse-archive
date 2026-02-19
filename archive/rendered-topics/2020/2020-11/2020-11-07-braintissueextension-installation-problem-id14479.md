@@ -1,3 +1,10 @@
+---
+topic_id: 14479
+title: "Braintissueextension Installation Problem"
+date: 2020-11-07
+url: https://discourse.slicer.org/t/14479
+---
+
 # BrainTissueExtension installation problem
 
 **Topic ID**: 14479

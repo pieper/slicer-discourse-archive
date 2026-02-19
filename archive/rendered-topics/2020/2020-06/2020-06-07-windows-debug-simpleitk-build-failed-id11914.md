@@ -1,3 +1,10 @@
+---
+topic_id: 11914
+title: "Windows Debug Simpleitk Build Failed"
+date: 2020-06-07
+url: https://discourse.slicer.org/t/11914
+---
+
 # [Windows] Debug SimpleITK build failed
 
 **Topic ID**: 11914

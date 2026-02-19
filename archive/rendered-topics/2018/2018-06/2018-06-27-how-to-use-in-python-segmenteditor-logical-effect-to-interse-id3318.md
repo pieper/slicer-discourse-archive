@@ -1,3 +1,10 @@
+---
+topic_id: 3318
+title: "How To Use In Python Segmenteditor Logical Effect To Interse"
+date: 2018-06-27
+url: https://discourse.slicer.org/t/3318
+---
+
 # How to use in python SegmentEditor Logical Effect to intersect segments of a SegmentationNode
 
 **Topic ID**: 3318

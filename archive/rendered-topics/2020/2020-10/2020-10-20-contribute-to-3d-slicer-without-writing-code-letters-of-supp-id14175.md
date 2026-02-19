@@ -1,3 +1,10 @@
+---
+topic_id: 14175
+title: "Contribute To 3D Slicer Without Writing Code Letters Of Supp"
+date: 2020-10-20
+url: https://discourse.slicer.org/t/14175
+---
+
 # Contribute to 3D Slicer, without writing code! Letters of support needed!
 
 **Topic ID**: 14175

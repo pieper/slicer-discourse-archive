@@ -1,3 +1,10 @@
+---
+topic_id: 26702
+title: "When Importing Data On 3Dslicer Version 5 0 The Data Display"
+date: 2022-12-13
+url: https://discourse.slicer.org/t/26702
+---
+
 # When importing data on 3dslicer version 5.0, the data displayed is different from the original data
 
 **Topic ID**: 26702

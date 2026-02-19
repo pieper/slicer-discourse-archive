@@ -1,3 +1,10 @@
+---
+topic_id: 21002
+title: "Number Of Extracted Features"
+date: 2021-12-10
+url: https://discourse.slicer.org/t/21002
+---
+
 # number of extracted features
 
 **Topic ID**: 21002

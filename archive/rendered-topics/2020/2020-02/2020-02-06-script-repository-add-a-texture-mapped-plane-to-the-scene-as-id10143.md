@@ -1,3 +1,10 @@
+---
+topic_id: 10143
+title: "Script Repository Add A Texture Mapped Plane To The Scene As"
+date: 2020-02-06
+url: https://discourse.slicer.org/t/10143
+---
+
 # Script repository "Add a texture mapped plane to the scene as a model" has error
 
 **Topic ID**: 10143

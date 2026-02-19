@@ -1,3 +1,10 @@
+---
+topic_id: 35551
+title: "Load Three Pet Cts In A Separate Window"
+date: 2024-04-17
+url: https://discourse.slicer.org/t/35551
+---
+
 # Load three PET/CTs in a separate window
 
 **Topic ID**: 35551

@@ -1,3 +1,10 @@
+---
+topic_id: 19295
+title: "Can You Tell Me Step By Step How Can I Measure Brain Volume"
+date: 2021-08-22
+url: https://discourse.slicer.org/t/19295
+---
+
 # can you tell me step by step how can i measure brain volume in slicer 4.11 from structural mri 
 
 **Topic ID**: 19295

@@ -1,3 +1,10 @@
+---
+topic_id: 45995
+title: "Landmark To Ply Misalignment When Reloaded For Editing"
+date: 2026-01-30
+url: https://discourse.slicer.org/t/45995
+---
+
 # Landmark to .ply misalignment when reloaded for editing
 
 **Topic ID**: 45995

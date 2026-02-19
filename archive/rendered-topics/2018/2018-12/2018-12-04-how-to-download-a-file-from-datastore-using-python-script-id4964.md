@@ -1,3 +1,10 @@
+---
+topic_id: 4964
+title: "How To Download A File From Datastore Using Python Script"
+date: 2018-12-04
+url: https://discourse.slicer.org/t/4964
+---
+
 # How to download a file from datastore using python script?
 
 **Topic ID**: 4964

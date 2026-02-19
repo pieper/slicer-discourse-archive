@@ -1,3 +1,10 @@
+---
+topic_id: 17953
+title: "Export Fibers From Dti With Full Color"
+date: 2021-06-04
+url: https://discourse.slicer.org/t/17953
+---
+
 # Export fibers from DTI with full color
 
 **Topic ID**: 17953

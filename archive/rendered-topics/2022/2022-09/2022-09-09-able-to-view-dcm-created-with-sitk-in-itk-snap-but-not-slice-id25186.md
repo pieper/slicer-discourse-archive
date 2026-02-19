@@ -1,3 +1,10 @@
+---
+topic_id: 25186
+title: "Able To View Dcm Created With Sitk In Itk Snap But Not Slice"
+date: 2022-09-09
+url: https://discourse.slicer.org/t/25186
+---
+
 # Able to view DCM created with SITK in ITK Snap but not Slicer
 
 **Topic ID**: 25186

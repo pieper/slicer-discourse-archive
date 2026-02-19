@@ -1,3 +1,10 @@
+---
+topic_id: 27010
+title: "Lung Ct Analyzer Statistical Analysis"
+date: 2023-01-02
+url: https://discourse.slicer.org/t/27010
+---
+
 # Lung CT analyzer - statistical analysis
 
 **Topic ID**: 27010

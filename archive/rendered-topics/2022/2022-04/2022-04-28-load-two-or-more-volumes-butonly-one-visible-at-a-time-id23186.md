@@ -1,3 +1,10 @@
+---
+topic_id: 23186
+title: "Load Two Or More Volumes Butonly One Visible At A Time"
+date: 2022-04-28
+url: https://discourse.slicer.org/t/23186
+---
+
 # Load two or more volumes butonly one visible at a time
 
 **Topic ID**: 23186

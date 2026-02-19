@@ -1,3 +1,10 @@
+---
+topic_id: 26512
+title: "How To Use Segment Editor Margin Effect From Python Script"
+date: 2022-11-30
+url: https://discourse.slicer.org/t/26512
+---
+
 # How to use Segment Editor Margin Effect from Python script
 
 **Topic ID**: 26512

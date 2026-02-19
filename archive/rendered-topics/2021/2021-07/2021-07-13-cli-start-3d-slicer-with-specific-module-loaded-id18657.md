@@ -1,3 +1,10 @@
+---
+topic_id: 18657
+title: "Cli Start 3D Slicer With Specific Module Loaded"
+date: 2021-07-13
+url: https://discourse.slicer.org/t/18657
+---
+
 # CLI start 3d slicer with specific module loaded
 
 **Topic ID**: 18657

@@ -1,3 +1,10 @@
+---
+topic_id: 4781
+title: "Create A Model Stl"
+date: 2018-11-17
+url: https://discourse.slicer.org/t/4781
+---
+
 # Create a Model stl
 
 **Topic ID**: 4781

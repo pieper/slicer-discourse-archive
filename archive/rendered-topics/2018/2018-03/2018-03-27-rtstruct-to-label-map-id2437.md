@@ -1,3 +1,10 @@
+---
+topic_id: 2437
+title: "Rtstruct To Label Map"
+date: 2018-03-27
+url: https://discourse.slicer.org/t/2437
+---
+
 # RTstruct to Label map
 
 **Topic ID**: 2437

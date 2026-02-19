@@ -1,3 +1,10 @@
+---
+topic_id: 2860
+title: "Color Another Surface"
+date: 2018-05-21
+url: https://discourse.slicer.org/t/2860
+---
+
 # Color another surface
 
 **Topic ID**: 2860

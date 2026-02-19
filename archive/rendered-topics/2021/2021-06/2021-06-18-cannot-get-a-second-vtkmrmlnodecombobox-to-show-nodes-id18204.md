@@ -1,3 +1,10 @@
+---
+topic_id: 18204
+title: "Cannot Get A Second Vtkmrmlnodecombobox To Show Nodes"
+date: 2021-06-18
+url: https://discourse.slicer.org/t/18204
+---
+
 # Cannot get a second vtkMRMLNodeComboBox to show nodes
 
 **Topic ID**: 18204

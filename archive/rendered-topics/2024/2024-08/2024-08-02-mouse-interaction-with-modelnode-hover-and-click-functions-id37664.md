@@ -1,3 +1,10 @@
+---
+topic_id: 37664
+title: "Mouse Interaction With Modelnode Hover And Click Functions"
+date: 2024-08-02
+url: https://discourse.slicer.org/t/37664
+---
+
 # Mouse Interaction with ModelNode: Hover and Click Functions
 
 **Topic ID**: 37664

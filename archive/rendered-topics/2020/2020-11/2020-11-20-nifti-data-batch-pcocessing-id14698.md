@@ -1,3 +1,10 @@
+---
+topic_id: 14698
+title: "Nifti Data Batch Pcocessing"
+date: 2020-11-20
+url: https://discourse.slicer.org/t/14698
+---
+
 # NIFTI data batch pcocessing
 
 **Topic ID**: 14698

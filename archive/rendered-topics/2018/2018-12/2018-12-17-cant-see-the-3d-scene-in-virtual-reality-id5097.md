@@ -1,3 +1,10 @@
+---
+topic_id: 5097
+title: "Cant See The 3D Scene In Virtual Reality"
+date: 2018-12-17
+url: https://discourse.slicer.org/t/5097
+---
+
 # Can't see the 3D scene in virtual reality
 
 **Topic ID**: 5097

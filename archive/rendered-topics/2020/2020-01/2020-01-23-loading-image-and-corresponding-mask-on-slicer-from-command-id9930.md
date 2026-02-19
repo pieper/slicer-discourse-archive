@@ -1,3 +1,10 @@
+---
+topic_id: 9930
+title: "Loading Image And Corresponding Mask On Slicer From Command"
+date: 2020-01-23
+url: https://discourse.slicer.org/t/9930
+---
+
 # Loading image and corresponding mask on Slicer from command line
 
 **Topic ID**: 9930

@@ -1,3 +1,10 @@
+---
+topic_id: 35984
+title: "Load Scriptedmodule Using Python Scripts"
+date: 2024-05-08
+url: https://discourse.slicer.org/t/35984
+---
+
 # Load ScriptedModule using python scripts
 
 **Topic ID**: 35984

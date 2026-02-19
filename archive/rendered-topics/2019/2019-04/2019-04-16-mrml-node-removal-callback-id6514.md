@@ -1,3 +1,10 @@
+---
+topic_id: 6514
+title: "Mrml Node Removal Callback"
+date: 2019-04-16
+url: https://discourse.slicer.org/t/6514
+---
+
 # MRML node removal callback
 
 **Topic ID**: 6514

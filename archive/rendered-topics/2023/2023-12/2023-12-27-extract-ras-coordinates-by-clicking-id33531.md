@@ -1,3 +1,10 @@
+---
+topic_id: 33531
+title: "Extract Ras Coordinates By Clicking"
+date: 2023-12-27
+url: https://discourse.slicer.org/t/33531
+---
+
 # Extract RAS coordinates by clicking
 
 **Topic ID**: 33531

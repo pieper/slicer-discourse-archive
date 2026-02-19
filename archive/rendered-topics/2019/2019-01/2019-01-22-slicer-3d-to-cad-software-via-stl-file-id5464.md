@@ -1,3 +1,10 @@
+---
+topic_id: 5464
+title: "Slicer 3D To Cad Software Via Stl File"
+date: 2019-01-22
+url: https://discourse.slicer.org/t/5464
+---
+
 # Slicer 3D to CAD software via .stl file.
 
 **Topic ID**: 5464

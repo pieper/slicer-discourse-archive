@@ -1,3 +1,10 @@
+---
+topic_id: 39046
+title: "Cmake Flag To Customapp Not To Read Slicerrc Py Or Define Ot"
+date: 2024-09-28
+url: https://discourse.slicer.org/t/39046
+---
+
 # CMake Flag to CustomApp not to read `slicerrc.py` or define other file?
 
 **Topic ID**: 39046

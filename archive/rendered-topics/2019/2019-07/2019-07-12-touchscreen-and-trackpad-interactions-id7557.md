@@ -1,3 +1,10 @@
+---
+topic_id: 7557
+title: "Touchscreen And Trackpad Interactions"
+date: 2019-07-12
+url: https://discourse.slicer.org/t/7557
+---
+
 # Touchscreen and trackpad interactions
 
 **Topic ID**: 7557

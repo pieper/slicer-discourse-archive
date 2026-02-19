@@ -1,3 +1,10 @@
+---
+topic_id: 16450
+title: "Resample Imagedata"
+date: 2021-03-09
+url: https://discourse.slicer.org/t/16450
+---
+
 # Resample imagedata
 
 **Topic ID**: 16450

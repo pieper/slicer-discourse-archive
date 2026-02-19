@@ -1,3 +1,10 @@
+---
+topic_id: 4262
+title: "3D Meshing Using Data Points"
+date: 2018-10-02
+url: https://discourse.slicer.org/t/4262
+---
+
 # 3d meshing using data points
 
 **Topic ID**: 4262

@@ -1,3 +1,10 @@
+---
+topic_id: 9803
+title: "Saving To One Dicom File Not In Image Sequence"
+date: 2020-01-14
+url: https://discourse.slicer.org/t/9803
+---
+
 # Saving to one dicom file, not in image sequence
 
 **Topic ID**: 9803

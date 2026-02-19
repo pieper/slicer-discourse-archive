@@ -1,3 +1,10 @@
+---
+topic_id: 13036
+title: "How To Segment Lung Lobe Automatically"
+date: 2020-08-17
+url: https://discourse.slicer.org/t/13036
+---
+
 # How to segment lung lobe automatically?
 
 **Topic ID**: 13036

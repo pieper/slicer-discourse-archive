@@ -1,3 +1,10 @@
+---
+topic_id: 32965
+title: "O Key Shortcut In Segment Editor Module"
+date: 2023-11-22
+url: https://discourse.slicer.org/t/32965
+---
+
 # O-key shortcut in "Segment Editor" module
 
 **Topic ID**: 32965

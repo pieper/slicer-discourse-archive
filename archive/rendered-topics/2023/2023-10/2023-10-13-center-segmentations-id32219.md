@@ -1,3 +1,10 @@
+---
+topic_id: 32219
+title: "Center Segmentations"
+date: 2023-10-13
+url: https://discourse.slicer.org/t/32219
+---
+
 # Center segmentations
 
 **Topic ID**: 32219

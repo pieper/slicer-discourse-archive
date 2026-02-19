@@ -1,3 +1,10 @@
+---
+topic_id: 28794
+title: "Gate Bindings For Slicer"
+date: 2023-04-07
+url: https://discourse.slicer.org/t/28794
+---
+
 # Gate bindings for Slicer
 
 **Topic ID**: 28794

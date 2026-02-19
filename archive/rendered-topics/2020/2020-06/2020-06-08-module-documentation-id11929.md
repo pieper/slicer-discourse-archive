@@ -1,3 +1,10 @@
+---
+topic_id: 11929
+title: "Module Documentation"
+date: 2020-06-08
+url: https://discourse.slicer.org/t/11929
+---
+
 # Module documentation
 
 **Topic ID**: 11929

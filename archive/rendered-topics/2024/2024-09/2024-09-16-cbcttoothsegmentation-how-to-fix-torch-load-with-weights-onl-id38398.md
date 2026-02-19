@@ -1,3 +1,10 @@
+---
+topic_id: 38398
+title: "Cbcttoothsegmentation How To Fix Torch Load With Weights Onl"
+date: 2024-09-16
+url: https://discourse.slicer.org/t/38398
+---
+
 # CBCTToothSegmentation: How to fix "torch.load with weights_only=False"
 
 **Topic ID**: 38398

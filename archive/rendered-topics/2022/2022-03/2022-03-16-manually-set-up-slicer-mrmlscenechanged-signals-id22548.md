@@ -1,3 +1,10 @@
+---
+topic_id: 22548
+title: "Manually Set Up Slicer Mrmlscenechanged Signals"
+date: 2022-03-16
+url: https://discourse.slicer.org/t/22548
+---
+
 # Manually Set Up Slicer mrmlSceneChanged signals
 
 **Topic ID**: 22548

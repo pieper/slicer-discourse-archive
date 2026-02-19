@@ -1,3 +1,10 @@
+---
+topic_id: 39954
+title: "How To Elicit A Ray And Tangent To The Roi Region Use A Pyth"
+date: 2024-10-31
+url: https://discourse.slicer.org/t/39954
+---
+
 # How to elicit a ray and tangent to the ROI region (use a python script if possible)
 
 **Topic ID**: 39954

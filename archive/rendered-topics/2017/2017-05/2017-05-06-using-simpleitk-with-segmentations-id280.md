@@ -1,3 +1,10 @@
+---
+topic_id: 280
+title: "Using Simpleitk With Segmentations"
+date: 2017-05-06
+url: https://discourse.slicer.org/t/280
+---
+
 # Using SimpleITK with Segmentations
 
 **Topic ID**: 280

@@ -1,3 +1,10 @@
+---
+topic_id: 5180
+title: "Organizing Dicom Files To Be Able To Have A 3D View"
+date: 2018-12-23
+url: https://discourse.slicer.org/t/5180
+---
+
 # Organizing DICOM files to be able to have a 3D view
 
 **Topic ID**: 5180

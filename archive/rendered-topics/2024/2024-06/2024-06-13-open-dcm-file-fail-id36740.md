@@ -1,3 +1,10 @@
+---
+topic_id: 36740
+title: "Open Dcm File Fail"
+date: 2024-06-13
+url: https://discourse.slicer.org/t/36740
+---
+
 # Open .dcm file fail
 
 **Topic ID**: 36740

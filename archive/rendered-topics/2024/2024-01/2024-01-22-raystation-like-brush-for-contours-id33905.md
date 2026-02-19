@@ -1,3 +1,10 @@
+---
+topic_id: 33905
+title: "Raystation Like Brush For Contours"
+date: 2024-01-22
+url: https://discourse.slicer.org/t/33905
+---
+
 # Raystation-like brush for contours
 
 **Topic ID**: 33905

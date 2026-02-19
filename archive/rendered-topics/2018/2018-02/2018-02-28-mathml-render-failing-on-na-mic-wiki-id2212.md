@@ -1,3 +1,10 @@
+---
+topic_id: 2212
+title: "Mathml Render Failing On Na Mic Wiki"
+date: 2018-02-28
+url: https://discourse.slicer.org/t/2212
+---
+
 # MathML render failing on NA-MIC wiki
 
 **Topic ID**: 2212

@@ -1,3 +1,10 @@
+---
+topic_id: 21373
+title: "Dicom Rt Structure Uniform Extensive Of Ptv Obtaining Overla"
+date: 2022-01-10
+url: https://discourse.slicer.org/t/21373
+---
+
 # DICOM, rt structure, uniform extensive of PTV, obtaining overlap volume between PTV and the organ
 
 **Topic ID**: 21373

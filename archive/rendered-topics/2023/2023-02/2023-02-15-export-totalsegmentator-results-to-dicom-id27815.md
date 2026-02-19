@@ -1,3 +1,10 @@
+---
+topic_id: 27815
+title: "Export Totalsegmentator Results To Dicom"
+date: 2023-02-15
+url: https://discourse.slicer.org/t/27815
+---
+
 # Export TotalSegmentator results to DICOM
 
 **Topic ID**: 27815

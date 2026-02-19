@@ -1,3 +1,10 @@
+---
+topic_id: 13070
+title: "Can I Load Dicom Data Using Slicelets While Disabling The Ma"
+date: 2020-08-18
+url: https://discourse.slicer.org/t/13070
+---
+
 # Can I load dicom data using slicelets while disabling the main slicer window (--no-main-window)?
 
 **Topic ID**: 13070

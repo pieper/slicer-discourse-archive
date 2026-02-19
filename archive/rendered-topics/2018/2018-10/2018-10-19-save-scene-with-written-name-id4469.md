@@ -1,3 +1,10 @@
+---
+topic_id: 4469
+title: "Save Scene With Written Name"
+date: 2018-10-19
+url: https://discourse.slicer.org/t/4469
+---
+
 # Save scene with written name
 
 **Topic ID**: 4469

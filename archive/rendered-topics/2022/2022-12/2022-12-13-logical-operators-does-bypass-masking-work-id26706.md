@@ -1,3 +1,10 @@
+---
+topic_id: 26706
+title: "Logical Operators Does Bypass Masking Work"
+date: 2022-12-13
+url: https://discourse.slicer.org/t/26706
+---
+
 # Logical operators - does "Bypass masking" work?
 
 **Topic ID**: 26706

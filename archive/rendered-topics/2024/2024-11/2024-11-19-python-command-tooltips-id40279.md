@@ -1,3 +1,10 @@
+---
+topic_id: 40279
+title: "Python Command Tooltips"
+date: 2024-11-19
+url: https://discourse.slicer.org/t/40279
+---
+
 # Python command tooltips
 
 **Topic ID**: 40279

@@ -1,3 +1,10 @@
+---
+topic_id: 8392
+title: "Resampling Segmentation And Volume About A User Defined Axis"
+date: 2019-09-11
+url: https://discourse.slicer.org/t/8392
+---
+
 # Resampling Segmentation and Volume about a User-Defined Axis For Plotting
 
 **Topic ID**: 8392

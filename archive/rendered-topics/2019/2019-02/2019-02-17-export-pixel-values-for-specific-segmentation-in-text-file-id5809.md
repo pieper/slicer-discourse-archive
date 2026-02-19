@@ -1,3 +1,10 @@
+---
+topic_id: 5809
+title: "Export Pixel Values For Specific Segmentation In Text File"
+date: 2019-02-17
+url: https://discourse.slicer.org/t/5809
+---
+
 # Export pixel values for specific segmentation in text file
 
 **Topic ID**: 5809

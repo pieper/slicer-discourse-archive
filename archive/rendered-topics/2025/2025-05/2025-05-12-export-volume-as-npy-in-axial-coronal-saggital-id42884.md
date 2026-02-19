@@ -1,3 +1,10 @@
+---
+topic_id: 42884
+title: "Export Volume As Npy In Axial Coronal Saggital"
+date: 2025-05-12
+url: https://discourse.slicer.org/t/42884
+---
+
 # Export volume as .npy in Axial, Coronal, Saggital
 
 **Topic ID**: 42884

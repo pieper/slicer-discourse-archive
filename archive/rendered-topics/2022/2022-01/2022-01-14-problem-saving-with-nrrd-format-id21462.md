@@ -1,3 +1,10 @@
+---
+topic_id: 21462
+title: "Problem Saving With Nrrd Format"
+date: 2022-01-14
+url: https://discourse.slicer.org/t/21462
+---
+
 # Problem saving with .nrrd format
 
 **Topic ID**: 21462

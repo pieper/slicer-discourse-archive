@@ -1,3 +1,10 @@
+---
+topic_id: 15129
+title: "Slice Order In Dicom Loader"
+date: 2020-12-18
+url: https://discourse.slicer.org/t/15129
+---
+
 # Slice order in dicom loader
 
 **Topic ID**: 15129

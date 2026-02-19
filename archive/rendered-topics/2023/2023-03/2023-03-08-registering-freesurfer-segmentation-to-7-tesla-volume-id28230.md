@@ -1,3 +1,10 @@
+---
+topic_id: 28230
+title: "Registering Freesurfer Segmentation To 7 Tesla Volume"
+date: 2023-03-08
+url: https://discourse.slicer.org/t/28230
+---
+
 # registering freesurfer segmentation to 7 Tesla Volume
 
 **Topic ID**: 28230

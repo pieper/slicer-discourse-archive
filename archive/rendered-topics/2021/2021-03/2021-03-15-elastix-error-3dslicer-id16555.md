@@ -1,3 +1,10 @@
+---
+topic_id: 16555
+title: "Elastix Error 3Dslicer"
+date: 2021-03-15
+url: https://discourse.slicer.org/t/16555
+---
+
 # Elastix error_ 3dslicer
 
 **Topic ID**: 16555

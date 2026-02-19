@@ -1,3 +1,10 @@
+---
+topic_id: 17720
+title: "Differences In Between Volume Rendering And Gray Scale Model"
+date: 2021-05-21
+url: https://discourse.slicer.org/t/17720
+---
+
 # Differences in between volume rendering and gray scale model in Registration
 
 **Topic ID**: 17720

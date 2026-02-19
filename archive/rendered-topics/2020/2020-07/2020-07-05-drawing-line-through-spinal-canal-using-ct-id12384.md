@@ -1,3 +1,10 @@
+---
+topic_id: 12384
+title: "Drawing Line Through Spinal Canal Using Ct"
+date: 2020-07-05
+url: https://discourse.slicer.org/t/12384
+---
+
 # Drawing line through spinal canal using CT
 
 **Topic ID**: 12384

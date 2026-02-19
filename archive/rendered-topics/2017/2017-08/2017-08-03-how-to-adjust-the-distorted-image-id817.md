@@ -1,3 +1,10 @@
+---
+topic_id: 817
+title: "How To Adjust The Distorted Image"
+date: 2017-08-03
+url: https://discourse.slicer.org/t/817
+---
+
 # How to adjust the distorted image?
 
 **Topic ID**: 817

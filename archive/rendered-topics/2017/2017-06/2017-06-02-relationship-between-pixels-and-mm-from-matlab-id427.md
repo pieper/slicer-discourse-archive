@@ -1,3 +1,10 @@
+---
+topic_id: 427
+title: "Relationship Between Pixels And Mm From Matlab"
+date: 2017-06-02
+url: https://discourse.slicer.org/t/427
+---
+
 # Relationship between pixels and mm from Matlab
 
 **Topic ID**: 427

@@ -1,3 +1,10 @@
+---
+topic_id: 27177
+title: "Error No Attribute Setparameter When Using Segment Editor In"
+date: 2023-01-10
+url: https://discourse.slicer.org/t/27177
+---
+
 # error no attribute 'setParameter' when using segment editor in python interactor
 
 **Topic ID**: 27177

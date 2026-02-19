@@ -1,3 +1,10 @@
+---
+topic_id: 28542
+title: "Web Browser Add On To Open A Data File Url Direclty Into 3D"
+date: 2023-03-23
+url: https://discourse.slicer.org/t/28542
+---
+
 # Web-browser add-on to open a data file URL direclty into 3D Slicer and online viewers
 
 **Topic ID**: 28542

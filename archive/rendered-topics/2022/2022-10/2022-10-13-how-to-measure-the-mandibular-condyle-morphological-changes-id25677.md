@@ -1,3 +1,10 @@
+---
+topic_id: 25677
+title: "How To Measure The Mandibular Condyle Morphological Changes"
+date: 2022-10-13
+url: https://discourse.slicer.org/t/25677
+---
+
 # How to measure the mandibular condyle morphological changes between two time different points CT?
 
 **Topic ID**: 25677

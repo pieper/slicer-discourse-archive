@@ -1,3 +1,10 @@
+---
+topic_id: 32742
+title: "Annotation Screenshot Window Size"
+date: 2023-11-11
+url: https://discourse.slicer.org/t/32742
+---
+
 # Annotation Screenshot Window size
 
 **Topic ID**: 32742

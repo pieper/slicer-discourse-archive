@@ -1,3 +1,10 @@
+---
+topic_id: 11615
+title: "What Is The Shallow Copy And Deepcopy"
+date: 2020-05-19
+url: https://discourse.slicer.org/t/11615
+---
+
 # What is the Shallow Copy and DeepCopy
 
 **Topic ID**: 11615

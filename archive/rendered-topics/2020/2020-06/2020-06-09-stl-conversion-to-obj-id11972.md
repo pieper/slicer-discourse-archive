@@ -1,3 +1,10 @@
+---
+topic_id: 11972
+title: "Stl Conversion To Obj"
+date: 2020-06-09
+url: https://discourse.slicer.org/t/11972
+---
+
 # STL conversion to OBJ
 
 **Topic ID**: 11972

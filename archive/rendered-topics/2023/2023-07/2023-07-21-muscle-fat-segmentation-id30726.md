@@ -1,3 +1,10 @@
+---
+topic_id: 30726
+title: "Muscle Fat Segmentation"
+date: 2023-07-21
+url: https://discourse.slicer.org/t/30726
+---
+
 # Muscle Fat Segmentation
 
 **Topic ID**: 30726

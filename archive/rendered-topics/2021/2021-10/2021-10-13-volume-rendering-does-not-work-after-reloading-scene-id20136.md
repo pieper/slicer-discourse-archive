@@ -1,3 +1,10 @@
+---
+topic_id: 20136
+title: "Volume Rendering Does Not Work After Reloading Scene"
+date: 2021-10-13
+url: https://discourse.slicer.org/t/20136
+---
+
 # Volume rendering does not work after reloading scene
 
 **Topic ID**: 20136

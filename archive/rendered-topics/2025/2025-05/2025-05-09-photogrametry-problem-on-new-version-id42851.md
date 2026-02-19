@@ -1,3 +1,10 @@
+---
+topic_id: 42851
+title: "Photogrametry Problem On New Version"
+date: 2025-05-09
+url: https://discourse.slicer.org/t/42851
+---
+
 # photogrametry problem on new version
 
 **Topic ID**: 42851

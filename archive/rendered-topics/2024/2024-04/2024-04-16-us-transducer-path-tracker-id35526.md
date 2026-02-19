@@ -1,3 +1,10 @@
+---
+topic_id: 35526
+title: "Us Transducer Path Tracker"
+date: 2024-04-16
+url: https://discourse.slicer.org/t/35526
+---
+
 # US transducer path tracker
 
 **Topic ID**: 35526

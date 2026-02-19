@@ -1,3 +1,10 @@
+---
+topic_id: 11393
+title: "Spine Segmentation"
+date: 2020-05-03
+url: https://discourse.slicer.org/t/11393
+---
+
 # Spine segmentation
 
 **Topic ID**: 11393

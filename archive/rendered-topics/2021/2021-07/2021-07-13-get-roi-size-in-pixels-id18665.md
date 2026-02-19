@@ -1,3 +1,10 @@
+---
+topic_id: 18665
+title: "Get Roi Size In Pixels"
+date: 2021-07-13
+url: https://discourse.slicer.org/t/18665
+---
+
 # Get ROI size in pixels
 
 **Topic ID**: 18665

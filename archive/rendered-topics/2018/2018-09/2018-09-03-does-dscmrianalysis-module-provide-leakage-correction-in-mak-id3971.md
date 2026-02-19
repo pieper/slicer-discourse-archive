@@ -1,3 +1,10 @@
+---
+topic_id: 3971
+title: "Does Dscmrianalysis Module Provide Leakage Correction In Mak"
+date: 2018-09-03
+url: https://discourse.slicer.org/t/3971
+---
+
 # Does DSCMRIAnalysis module provide leakage correction in making rCBV map?
 
 **Topic ID**: 3971

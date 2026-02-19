@@ -1,3 +1,10 @@
+---
+topic_id: 22218
+title: "The Gamma Bar Showing Pass Fail Color"
+date: 2022-02-28
+url: https://discourse.slicer.org/t/22218
+---
+
 # The gamma bar showing pass/fail color
 
 **Topic ID**: 22218

@@ -1,3 +1,10 @@
+---
+topic_id: 42988
+title: "How To Set The Parameters Of N4Itk Mri Bias Correction"
+date: 2025-05-18
+url: https://discourse.slicer.org/t/42988
+---
+
 # How to set the parameters of N4ITK MRI Bias Correction?
 
 **Topic ID**: 42988

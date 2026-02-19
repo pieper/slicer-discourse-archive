@@ -1,3 +1,10 @@
+---
+topic_id: 32172
+title: "Roi Selection For Film Dosimetry"
+date: 2023-10-12
+url: https://discourse.slicer.org/t/32172
+---
+
 # ROI selection for film dosimetry
 
 **Topic ID**: 32172

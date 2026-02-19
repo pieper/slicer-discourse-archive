@@ -1,3 +1,10 @@
+---
+topic_id: 25737
+title: "Loading And Stroring Large Transfer Function Vp File"
+date: 2022-10-17
+url: https://discourse.slicer.org/t/25737
+---
+
 # loading and stroring large transfer function (vp file)
 
 **Topic ID**: 25737

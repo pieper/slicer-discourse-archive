@@ -1,3 +1,10 @@
+---
+topic_id: 40556
+title: "Issue Uploading Dicom Files"
+date: 2024-12-07
+url: https://discourse.slicer.org/t/40556
+---
+
 # Issue uploading DICOM Files 
 
 **Topic ID**: 40556

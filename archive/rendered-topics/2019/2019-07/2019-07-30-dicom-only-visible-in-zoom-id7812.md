@@ -1,3 +1,10 @@
+---
+topic_id: 7812
+title: "Dicom Only Visible In Zoom"
+date: 2019-07-30
+url: https://discourse.slicer.org/t/7812
+---
+
 # Dicom only visible in zoom
 
 **Topic ID**: 7812

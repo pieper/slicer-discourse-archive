@@ -1,3 +1,10 @@
+---
+topic_id: 37359
+title: "I Have Enable Fiducial Placement"
+date: 2024-07-13
+url: https://discourse.slicer.org/t/37359
+---
+
 # I have enable fiducial placement
 
 **Topic ID**: 37359

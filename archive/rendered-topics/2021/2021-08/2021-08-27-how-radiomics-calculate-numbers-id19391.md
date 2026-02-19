@@ -1,3 +1,10 @@
+---
+topic_id: 19391
+title: "How Radiomics Calculate Numbers"
+date: 2021-08-27
+url: https://discourse.slicer.org/t/19391
+---
+
 # How radiomics calculate numbers
 
 **Topic ID**: 19391

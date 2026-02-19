@@ -1,3 +1,10 @@
+---
+topic_id: 39987
+title: "Monais Maisi On Slicer"
+date: 2024-11-01
+url: https://discourse.slicer.org/t/39987
+---
+
 # MONAI's MAISI on Slicer?
 
 **Topic ID**: 39987

@@ -1,3 +1,10 @@
+---
+topic_id: 3014
+title: "Embedding Specimen Metadata Into The 3D Volume"
+date: 2018-05-30
+url: https://discourse.slicer.org/t/3014
+---
+
 # Embedding specimen metadata into the 3D volume
 
 **Topic ID**: 3014

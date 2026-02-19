@@ -1,3 +1,10 @@
+---
+topic_id: 37453
+title: "Micro Changing The L R Range Of Roi Range Using Arrows"
+date: 2024-07-18
+url: https://discourse.slicer.org/t/37453
+---
+
 # "Micro" Changing the L-R Range of ROI Range using arrows
 
 **Topic ID**: 37453

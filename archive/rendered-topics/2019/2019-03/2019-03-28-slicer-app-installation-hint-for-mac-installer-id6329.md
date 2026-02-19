@@ -1,3 +1,10 @@
+---
+topic_id: 6329
+title: "Slicer App Installation Hint For Mac Installer"
+date: 2019-03-28
+url: https://discourse.slicer.org/t/6329
+---
+
 # Slicer app installation "hint" for mac installer
 
 **Topic ID**: 6329

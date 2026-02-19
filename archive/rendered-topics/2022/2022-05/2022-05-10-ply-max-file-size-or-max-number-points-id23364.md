@@ -1,3 +1,10 @@
+---
+topic_id: 23364
+title: "Ply Max File Size Or Max Number Points"
+date: 2022-05-10
+url: https://discourse.slicer.org/t/23364
+---
+
 # PLY max file size or max number points
 
 **Topic ID**: 23364

@@ -1,3 +1,10 @@
+---
+topic_id: 27072
+title: "Editing The Deformation Matrix"
+date: 2023-01-06
+url: https://discourse.slicer.org/t/27072
+---
+
 # Editing the Deformation matrix
 
 **Topic ID**: 27072

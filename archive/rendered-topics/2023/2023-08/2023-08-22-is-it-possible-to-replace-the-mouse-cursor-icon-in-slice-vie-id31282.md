@@ -1,3 +1,10 @@
+---
+topic_id: 31282
+title: "Is It Possible To Replace The Mouse Cursor Icon In Slice Vie"
+date: 2023-08-22
+url: https://discourse.slicer.org/t/31282
+---
+
 # Is it possible to replace the mouse cursor icon in slice view to a custom icon?
 
 **Topic ID**: 31282

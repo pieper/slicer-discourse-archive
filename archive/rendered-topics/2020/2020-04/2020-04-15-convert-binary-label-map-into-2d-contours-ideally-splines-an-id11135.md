@@ -1,3 +1,10 @@
+---
+topic_id: 11135
+title: "Convert Binary Label Map Into 2D Contours Ideally Splines An"
+date: 2020-04-15
+url: https://discourse.slicer.org/t/11135
+---
+
 # Convert binary label map into 2D contours (ideally splines) and back
 
 **Topic ID**: 11135

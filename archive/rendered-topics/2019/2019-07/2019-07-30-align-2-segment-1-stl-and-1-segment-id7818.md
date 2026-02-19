@@ -1,3 +1,10 @@
+---
+topic_id: 7818
+title: "Align 2 Segment 1 Stl And 1 Segment"
+date: 2019-07-30
+url: https://discourse.slicer.org/t/7818
+---
+
 # Align 2 segment 1 stl and 1 segment
 
 **Topic ID**: 7818

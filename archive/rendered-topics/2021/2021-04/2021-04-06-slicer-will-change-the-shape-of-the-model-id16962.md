@@ -1,3 +1,10 @@
+---
+topic_id: 16962
+title: "Slicer Will Change The Shape Of The Model"
+date: 2021-04-06
+url: https://discourse.slicer.org/t/16962
+---
+
 # Slicer will change the shape of the model?
 
 **Topic ID**: 16962

@@ -1,3 +1,10 @@
+---
+topic_id: 8660
+title: "Synchronizing Zoom Factor Between Views"
+date: 2019-10-03
+url: https://discourse.slicer.org/t/8660
+---
+
 # Synchronizing zoom factor between views
 
 **Topic ID**: 8660

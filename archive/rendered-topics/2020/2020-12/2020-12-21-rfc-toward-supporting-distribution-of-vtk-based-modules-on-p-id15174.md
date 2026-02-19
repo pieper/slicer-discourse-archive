@@ -1,3 +1,10 @@
+---
+topic_id: 15174
+title: "Rfc Toward Supporting Distribution Of Vtk Based Modules On P"
+date: 2020-12-21
+url: https://discourse.slicer.org/t/15174
+---
+
 # RFC: Toward supporting distribution of VTK based modules on PyPI
 
 **Topic ID**: 15174

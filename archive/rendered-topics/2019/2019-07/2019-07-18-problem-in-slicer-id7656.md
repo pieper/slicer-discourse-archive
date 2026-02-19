@@ -1,3 +1,10 @@
+---
+topic_id: 7656
+title: "Problem In Slicer"
+date: 2019-07-18
+url: https://discourse.slicer.org/t/7656
+---
+
 # Problem in slicer
 
 **Topic ID**: 7656

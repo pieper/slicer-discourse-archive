@@ -1,3 +1,10 @@
+---
+topic_id: 26251
+title: "Multivolume Mri How To Start Working With It"
+date: 2022-11-15
+url: https://discourse.slicer.org/t/26251
+---
+
 # Multivolume, MRI - how to start working with it?
 
 **Topic ID**: 26251

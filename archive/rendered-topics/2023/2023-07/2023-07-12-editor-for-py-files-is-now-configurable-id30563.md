@@ -1,3 +1,10 @@
+---
+topic_id: 30563
+title: "Editor For Py Files Is Now Configurable"
+date: 2023-07-12
+url: https://discourse.slicer.org/t/30563
+---
+
 # Editor for .py files is now configurable
 
 **Topic ID**: 30563

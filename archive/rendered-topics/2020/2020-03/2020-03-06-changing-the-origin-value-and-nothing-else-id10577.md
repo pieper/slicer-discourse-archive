@@ -1,3 +1,10 @@
+---
+topic_id: 10577
+title: "Changing The Origin Value And Nothing Else"
+date: 2020-03-06
+url: https://discourse.slicer.org/t/10577
+---
+
 # Changing the origin value, and nothing else
 
 **Topic ID**: 10577

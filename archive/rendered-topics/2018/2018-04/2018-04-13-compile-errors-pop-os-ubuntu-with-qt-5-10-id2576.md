@@ -1,3 +1,10 @@
+---
+topic_id: 2576
+title: "Compile Errors Pop Os Ubuntu With Qt 5 10"
+date: 2018-04-13
+url: https://discourse.slicer.org/t/2576
+---
+
 # Compile errors Pop!_OS/Ubuntu with Qt 5.10
 
 **Topic ID**: 2576

@@ -1,3 +1,10 @@
+---
+topic_id: 44629
+title: "How Does Vmtksurfaceprojection Work"
+date: 2025-09-29
+url: https://discourse.slicer.org/t/44629
+---
+
 # how does vmtksurfaceprojection work
 
 **Topic ID**: 44629

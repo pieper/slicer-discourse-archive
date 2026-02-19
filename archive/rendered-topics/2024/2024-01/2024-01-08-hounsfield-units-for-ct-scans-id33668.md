@@ -1,3 +1,10 @@
+---
+topic_id: 33668
+title: "Hounsfield Units For Ct Scans"
+date: 2024-01-08
+url: https://discourse.slicer.org/t/33668
+---
+
 # HounsField Units for CT scans
 
 **Topic ID**: 33668

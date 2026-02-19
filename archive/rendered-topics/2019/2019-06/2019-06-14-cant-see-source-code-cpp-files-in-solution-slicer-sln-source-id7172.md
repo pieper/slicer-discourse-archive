@@ -1,3 +1,10 @@
+---
+topic_id: 7172
+title: "Cant See Source Code Cpp Files In Solution Slicer Sln Source"
+date: 2019-06-14
+url: https://discourse.slicer.org/t/7172
+---
+
 # Can't see source code(.cpp files) in solution Slicer.sln. Source code hierarchy is missing in Solution manager.
 
 **Topic ID**: 7172

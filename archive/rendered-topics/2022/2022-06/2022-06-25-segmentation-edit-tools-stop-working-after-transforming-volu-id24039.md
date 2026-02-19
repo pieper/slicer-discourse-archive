@@ -1,3 +1,10 @@
+---
+topic_id: 24039
+title: "Segmentation Edit Tools Stop Working After Transforming Volu"
+date: 2022-06-25
+url: https://discourse.slicer.org/t/24039
+---
+
 # Segmentation Edit Tools Stop Working After Transforming Volume
 
 **Topic ID**: 24039

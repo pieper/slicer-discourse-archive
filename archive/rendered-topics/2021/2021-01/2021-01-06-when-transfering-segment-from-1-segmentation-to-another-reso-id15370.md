@@ -1,3 +1,10 @@
+---
+topic_id: 15370
+title: "When Transfering Segment From 1 Segmentation To Another Reso"
+date: 2021-01-06
+url: https://discourse.slicer.org/t/15370
+---
+
 # When transfering segment from 1 segmentation to another resolution changes
 
 **Topic ID**: 15370

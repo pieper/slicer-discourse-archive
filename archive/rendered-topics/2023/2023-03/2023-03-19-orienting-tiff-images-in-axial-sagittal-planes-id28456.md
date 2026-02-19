@@ -1,3 +1,10 @@
+---
+topic_id: 28456
+title: "Orienting Tiff Images In Axial Sagittal Planes"
+date: 2023-03-19
+url: https://discourse.slicer.org/t/28456
+---
+
 # Orienting .tiff images in axial/sagittal planes
 
 **Topic ID**: 28456

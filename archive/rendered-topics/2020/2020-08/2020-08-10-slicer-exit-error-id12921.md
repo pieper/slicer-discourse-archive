@@ -1,3 +1,10 @@
+---
+topic_id: 12921
+title: "Slicer Exit Error"
+date: 2020-08-10
+url: https://discourse.slicer.org/t/12921
+---
+
 # Slicer exit error
 
 **Topic ID**: 12921

@@ -1,3 +1,10 @@
+---
+topic_id: 11975
+title: "Error When Running Sample Slicer Jupyter Notebooks From Loca"
+date: 2020-06-10
+url: https://discourse.slicer.org/t/11975
+---
+
 # Error when running sample Slicer Jupyter Notebooks from local linux machine
 
 **Topic ID**: 11975

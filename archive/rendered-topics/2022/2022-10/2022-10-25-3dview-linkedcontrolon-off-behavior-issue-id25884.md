@@ -1,3 +1,10 @@
+---
+topic_id: 25884
+title: "3Dview Linkedcontrolon Off Behavior Issue"
+date: 2022-10-25
+url: https://discourse.slicer.org/t/25884
+---
+
 # 3DView LinkedControlOn/Off behavior issue
 
 **Topic ID**: 25884

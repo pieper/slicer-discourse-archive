@@ -1,3 +1,10 @@
+---
+topic_id: 28226
+title: "Interpreting The Variability Of Calcium On Contrast Enhanced"
+date: 2023-03-07
+url: https://discourse.slicer.org/t/28226
+---
+
 # Interpreting the variability of calcium on contrast-enhanced CT
 
 **Topic ID**: 28226

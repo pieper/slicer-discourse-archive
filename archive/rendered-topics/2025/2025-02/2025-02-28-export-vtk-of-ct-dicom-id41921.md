@@ -1,3 +1,10 @@
+---
+topic_id: 41921
+title: "Export Vtk Of Ct Dicom"
+date: 2025-02-28
+url: https://discourse.slicer.org/t/41921
+---
+
 # Export VTK of CT DICOM
 
 **Topic ID**: 41921

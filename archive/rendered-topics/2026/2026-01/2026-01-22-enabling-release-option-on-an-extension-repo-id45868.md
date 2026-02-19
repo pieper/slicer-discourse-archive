@@ -1,3 +1,10 @@
+---
+topic_id: 45868
+title: "Enabling Release Option On An Extension Repo"
+date: 2026-01-22
+url: https://discourse.slicer.org/t/45868
+---
+
 # Enabling release option on an extension repo
 
 **Topic ID**: 45868

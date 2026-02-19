@@ -1,3 +1,10 @@
+---
+topic_id: 4145
+title: "Adding A Python Package To An Extension Custom Slicer"
+date: 2018-09-18
+url: https://discourse.slicer.org/t/4145
+---
+
 # Adding a python package to an extension/custom Slicer
 
 **Topic ID**: 4145

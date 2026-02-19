@@ -1,3 +1,10 @@
+---
+topic_id: 16984
+title: "Related To Basics Of Pyradiomics"
+date: 2021-04-07
+url: https://discourse.slicer.org/t/16984
+---
+
 # Related to basics of pyradiomics
 
 **Topic ID**: 16984

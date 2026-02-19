@@ -1,3 +1,10 @@
+---
+topic_id: 19484
+title: "Extract Centerline May Crash Slicer On Tight Arterial Stenos"
+date: 2021-09-02
+url: https://discourse.slicer.org/t/19484
+---
+
 # Extract centerline may crash slicer on tight arterial stenosis
 
 **Topic ID**: 19484

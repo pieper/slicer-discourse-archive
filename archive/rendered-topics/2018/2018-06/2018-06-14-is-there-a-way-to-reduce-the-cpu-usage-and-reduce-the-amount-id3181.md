@@ -1,3 +1,10 @@
+---
+topic_id: 3181
+title: "Is There A Way To Reduce The Cpu Usage And Reduce The Amount"
+date: 2018-06-14
+url: https://discourse.slicer.org/t/3181
+---
+
 # Is there a way to reduce the CPU usage and reduce the amount of RAM used?
 
 **Topic ID**: 3181

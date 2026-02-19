@@ -1,3 +1,10 @@
+---
+topic_id: 32463
+title: "Bone Thickness Mapping Use With Skull Ct Images"
+date: 2023-10-29
+url: https://discourse.slicer.org/t/32463
+---
+
 # Bone Thickness Mapping use with skull CT images
 
 **Topic ID**: 32463

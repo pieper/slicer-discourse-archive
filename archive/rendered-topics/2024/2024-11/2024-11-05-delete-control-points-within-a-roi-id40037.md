@@ -1,3 +1,10 @@
+---
+topic_id: 40037
+title: "Delete Control Points Within A Roi"
+date: 2024-11-05
+url: https://discourse.slicer.org/t/40037
+---
+
 # Delete control points within a ROI
 
 **Topic ID**: 40037

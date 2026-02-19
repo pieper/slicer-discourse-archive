@@ -1,3 +1,10 @@
+---
+topic_id: 30863
+title: "Vs2019 Build Problem Please Help"
+date: 2023-07-28
+url: https://discourse.slicer.org/t/30863
+---
+
 # vs2019 build problem, please help
 
 **Topic ID**: 30863

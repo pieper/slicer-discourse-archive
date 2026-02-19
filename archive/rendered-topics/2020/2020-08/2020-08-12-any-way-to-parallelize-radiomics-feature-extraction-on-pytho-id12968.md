@@ -1,3 +1,10 @@
+---
+topic_id: 12968
+title: "Any Way To Parallelize Radiomics Feature Extraction On Pytho"
+date: 2020-08-12
+url: https://discourse.slicer.org/t/12968
+---
+
 # Any way to parallelize radiomics feature extraction on python?
 
 **Topic ID**: 12968

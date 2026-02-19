@@ -1,3 +1,10 @@
+---
+topic_id: 26250
+title: "Coordinates Of Points Around Each Voxle"
+date: 2022-11-15
+url: https://discourse.slicer.org/t/26250
+---
+
 # Coordinates of points around each voxle
 
 **Topic ID**: 26250

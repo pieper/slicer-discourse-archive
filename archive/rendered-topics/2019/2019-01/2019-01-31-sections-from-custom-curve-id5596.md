@@ -1,3 +1,10 @@
+---
+topic_id: 5596
+title: "Sections From Custom Curve"
+date: 2019-01-31
+url: https://discourse.slicer.org/t/5596
+---
+
 # Sections from custom curve
 
 **Topic ID**: 5596

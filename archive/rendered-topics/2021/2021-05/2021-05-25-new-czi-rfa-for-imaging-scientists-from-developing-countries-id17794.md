@@ -1,3 +1,10 @@
+---
+topic_id: 17794
+title: "New Czi Rfa For Imaging Scientists From Developing Countries"
+date: 2021-05-25
+url: https://discourse.slicer.org/t/17794
+---
+
 # New CZI RFA for imaging scientists from developing countries
 
 **Topic ID**: 17794

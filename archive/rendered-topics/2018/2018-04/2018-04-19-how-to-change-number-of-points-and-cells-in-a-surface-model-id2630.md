@@ -1,3 +1,10 @@
+---
+topic_id: 2630
+title: "How To Change Number Of Points And Cells In A Surface Model"
+date: 2018-04-19
+url: https://discourse.slicer.org/t/2630
+---
+
 # How to change number of points and cells in a surface model?
 
 **Topic ID**: 2630

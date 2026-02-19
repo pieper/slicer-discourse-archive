@@ -1,3 +1,10 @@
+---
+topic_id: 11036
+title: "Problems With Modules Installation"
+date: 2020-04-08
+url: https://discourse.slicer.org/t/11036
+---
+
 # Problems with modules installation
 
 **Topic ID**: 11036

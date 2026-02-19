@@ -1,3 +1,10 @@
+---
+topic_id: 7382
+title: "How To Create Rtstruct Dicom"
+date: 2019-07-02
+url: https://discourse.slicer.org/t/7382
+---
+
 # How to create RTStruct dicom  
 
 **Topic ID**: 7382

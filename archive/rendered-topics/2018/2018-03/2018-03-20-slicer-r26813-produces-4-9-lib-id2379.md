@@ -1,3 +1,10 @@
+---
+topic_id: 2379
+title: "Slicer R26813 Produces 4 9 Lib"
+date: 2018-03-20
+url: https://discourse.slicer.org/t/2379
+---
+
 # Slicer -r26813 produces 4.9 lib
 
 **Topic ID**: 2379

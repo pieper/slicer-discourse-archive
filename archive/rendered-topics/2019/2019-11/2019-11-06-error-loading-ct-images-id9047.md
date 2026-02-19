@@ -1,3 +1,10 @@
+---
+topic_id: 9047
+title: "Error Loading Ct Images"
+date: 2019-11-06
+url: https://discourse.slicer.org/t/9047
+---
+
 # Error loading CT images
 
 **Topic ID**: 9047

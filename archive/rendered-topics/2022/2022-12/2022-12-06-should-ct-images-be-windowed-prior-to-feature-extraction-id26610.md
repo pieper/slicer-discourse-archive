@@ -1,3 +1,10 @@
+---
+topic_id: 26610
+title: "Should Ct Images Be Windowed Prior To Feature Extraction"
+date: 2022-12-06
+url: https://discourse.slicer.org/t/26610
+---
+
 # Should CT images be windowed prior to feature extraction?
 
 **Topic ID**: 26610

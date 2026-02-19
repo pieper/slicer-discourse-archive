@@ -1,3 +1,10 @@
+---
+topic_id: 31463
+title: "Questions About 3Dslicer Compilation"
+date: 2023-08-31
+url: https://discourse.slicer.org/t/31463
+---
+
 # Questions about 3DSLICER compilation
 
 **Topic ID**: 31463

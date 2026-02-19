@@ -1,3 +1,10 @@
+---
+topic_id: 19469
+title: "Slicer Crashes Due To Vtkdebugleaks When Clicking On A Qmrml"
+date: 2021-09-01
+url: https://discourse.slicer.org/t/19469
+---
+
 # Slicer crashes due to vtkDebugLeaks when clicking on a qMRMLNodeComboBox
 
 **Topic ID**: 19469

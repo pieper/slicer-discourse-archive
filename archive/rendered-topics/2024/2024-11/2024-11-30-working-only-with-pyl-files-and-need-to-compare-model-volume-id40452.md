@@ -1,3 +1,10 @@
+---
+topic_id: 40452
+title: "Working Only With Pyl Files And Need To Compare Model Volume"
+date: 2024-11-30
+url: https://discourse.slicer.org/t/40452
+---
+
 # Working only with pyl files and need to compare model volumes
 
 **Topic ID**: 40452

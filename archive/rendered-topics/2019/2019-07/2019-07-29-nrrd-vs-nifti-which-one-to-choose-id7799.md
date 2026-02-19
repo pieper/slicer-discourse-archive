@@ -1,3 +1,10 @@
+---
+topic_id: 7799
+title: "Nrrd Vs Nifti Which One To Choose"
+date: 2019-07-29
+url: https://discourse.slicer.org/t/7799
+---
+
 # NRRD vs NIFTI: which one to choose?
 
 **Topic ID**: 7799

@@ -1,3 +1,10 @@
+---
+topic_id: 8214
+title: "Slicelet Performance"
+date: 2019-08-28
+url: https://discourse.slicer.org/t/8214
+---
+
 # Slicelet Performance
 
 **Topic ID**: 8214

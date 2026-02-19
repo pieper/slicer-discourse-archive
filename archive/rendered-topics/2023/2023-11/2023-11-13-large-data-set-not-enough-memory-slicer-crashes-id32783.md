@@ -1,3 +1,10 @@
+---
+topic_id: 32783
+title: "Large Data Set Not Enough Memory Slicer Crashes"
+date: 2023-11-13
+url: https://discourse.slicer.org/t/32783
+---
+
 # Large data set, not enough memory, Slicer crashes
 
 **Topic ID**: 32783

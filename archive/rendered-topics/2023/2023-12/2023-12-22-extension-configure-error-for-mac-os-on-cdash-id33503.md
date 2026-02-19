@@ -1,3 +1,10 @@
+---
+topic_id: 33503
+title: "Extension Configure Error For Mac Os On Cdash"
+date: 2023-12-22
+url: https://discourse.slicer.org/t/33503
+---
+
 # Extension configure error for Mac Os on cdash
 
 **Topic ID**: 33503

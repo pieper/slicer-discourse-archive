@@ -1,3 +1,10 @@
+---
+topic_id: 1445
+title: "Loading Json Xml Data"
+date: 2017-11-13
+url: https://discourse.slicer.org/t/1445
+---
+
 # Loading JSON/XML data
 
 **Topic ID**: 1445

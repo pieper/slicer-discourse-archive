@@ -1,3 +1,10 @@
+---
+topic_id: 31875
+title: "Combine Several Segmentation Vois On Z Axis"
+date: 2023-09-25
+url: https://discourse.slicer.org/t/31875
+---
+
 # Combine several segmentation VOIs on z axis
 
 **Topic ID**: 31875

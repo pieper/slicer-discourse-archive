@@ -1,3 +1,10 @@
+---
+topic_id: 28881
+title: "Export Stl Issue With Meshmixer Or Other Softwares"
+date: 2023-04-13
+url: https://discourse.slicer.org/t/28881
+---
+
 # Export stl issue with meshmixer or other softwares
 
 **Topic ID**: 28881

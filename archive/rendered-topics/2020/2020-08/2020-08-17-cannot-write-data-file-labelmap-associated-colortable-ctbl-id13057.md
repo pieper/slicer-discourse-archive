@@ -1,3 +1,10 @@
+---
+topic_id: 13057
+title: "Cannot Write Data File Labelmap Associated Colortable Ctbl"
+date: 2020-08-17
+url: https://discourse.slicer.org/t/13057
+---
+
 # Cannot write data file:...labelmap associated ColorTable.ctbl
 
 **Topic ID**: 13057

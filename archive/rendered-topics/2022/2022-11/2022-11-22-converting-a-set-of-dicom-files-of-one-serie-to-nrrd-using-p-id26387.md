@@ -1,3 +1,10 @@
+---
+topic_id: 26387
+title: "Converting A Set Of Dicom Files Of One Serie To Nrrd Using P"
+date: 2022-11-22
+url: https://discourse.slicer.org/t/26387
+---
+
 # Converting a set of dicom files of one serie to nrrd using python API
 
 **Topic ID**: 26387

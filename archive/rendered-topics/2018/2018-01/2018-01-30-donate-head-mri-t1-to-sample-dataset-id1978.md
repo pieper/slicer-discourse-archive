@@ -1,3 +1,10 @@
+---
+topic_id: 1978
+title: "Donate Head Mri T1 To Sample Dataset"
+date: 2018-01-30
+url: https://discourse.slicer.org/t/1978
+---
+
 # Donate head MRI (T1) to sample dataset
 
 **Topic ID**: 1978

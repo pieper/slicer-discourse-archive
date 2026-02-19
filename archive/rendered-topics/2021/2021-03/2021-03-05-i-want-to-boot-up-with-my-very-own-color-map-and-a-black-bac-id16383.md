@@ -1,3 +1,10 @@
+---
+topic_id: 16383
+title: "I Want To Boot Up With My Very Own Color Map And A Black Bac"
+date: 2021-03-05
+url: https://discourse.slicer.org/t/16383
+---
+
 # I want to boot up with my very own color map and a black background
 
 **Topic ID**: 16383

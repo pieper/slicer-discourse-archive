@@ -1,3 +1,10 @@
+---
+topic_id: 26233
+title: "Apply A Roi On Another Series Of Images"
+date: 2022-11-14
+url: https://discourse.slicer.org/t/26233
+---
+
 # Apply a ROI on another series of images
 
 **Topic ID**: 26233

@@ -1,3 +1,10 @@
+---
+topic_id: 13004
+title: "How To Draw A Roi And Copy To Use Same Size And Shape To Mea"
+date: 2020-08-14
+url: https://discourse.slicer.org/t/13004
+---
+
 # How to draw a ROI and copy to use same size and shape to measure FA
 
 **Topic ID**: 13004

@@ -1,3 +1,10 @@
+---
+topic_id: 12506
+title: "Running Test Class Python Scripted Module"
+date: 2020-07-13
+url: https://discourse.slicer.org/t/12506
+---
+
 # Running Test Class - Python Scripted Module
 
 **Topic ID**: 12506

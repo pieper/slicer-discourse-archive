@@ -1,3 +1,10 @@
+---
+topic_id: 25261
+title: "Advice For System Configuration"
+date: 2022-09-14
+url: https://discourse.slicer.org/t/25261
+---
+
 # Advice for system configuration
 
 **Topic ID**: 25261

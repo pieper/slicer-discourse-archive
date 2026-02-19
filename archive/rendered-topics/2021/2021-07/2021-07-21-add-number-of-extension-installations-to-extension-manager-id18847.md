@@ -1,3 +1,10 @@
+---
+topic_id: 18847
+title: "Add Number Of Extension Installations To Extension Manager"
+date: 2021-07-21
+url: https://discourse.slicer.org/t/18847
+---
+
 # Add number of extension installations to extension manager
 
 **Topic ID**: 18847

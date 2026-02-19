@@ -1,3 +1,10 @@
+---
+topic_id: 16571
+title: "Factory Extensions With Built Custom Slicerapp Application N"
+date: 2021-03-16
+url: https://discourse.slicer.org/t/16571
+---
+
 # Factory extensions with built custom SlicerApp_APPLICATION_NAME
 
 **Topic ID**: 16571

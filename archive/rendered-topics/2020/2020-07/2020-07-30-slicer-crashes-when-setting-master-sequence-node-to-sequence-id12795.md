@@ -1,3 +1,10 @@
+---
+topic_id: 12795
+title: "Slicer Crashes When Setting Master Sequence Node To Sequence"
+date: 2020-07-30
+url: https://discourse.slicer.org/t/12795
+---
+
 # Slicer crashes when setting master Sequence Node to SequenceBrowserNode
 
 **Topic ID**: 12795

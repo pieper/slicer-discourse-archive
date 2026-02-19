@@ -1,3 +1,10 @@
+---
+topic_id: 21287
+title: "Saving Markups Scalar Values To A File"
+date: 2021-12-31
+url: https://discourse.slicer.org/t/21287
+---
+
 # Saving Markups Scalar values to a file
 
 **Topic ID**: 21287

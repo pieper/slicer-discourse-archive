@@ -1,3 +1,10 @@
+---
+topic_id: 15596
+title: "Scale In Volume Rendering"
+date: 2021-01-19
+url: https://discourse.slicer.org/t/15596
+---
+
 # Scale in Volume Rendering
 
 **Topic ID**: 15596

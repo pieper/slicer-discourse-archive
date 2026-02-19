@@ -1,3 +1,10 @@
+---
+topic_id: 14124
+title: "Labeling Of The Measurement Results"
+date: 2020-10-18
+url: https://discourse.slicer.org/t/14124
+---
+
 # Labeling of the measurement results
 
 **Topic ID**: 14124

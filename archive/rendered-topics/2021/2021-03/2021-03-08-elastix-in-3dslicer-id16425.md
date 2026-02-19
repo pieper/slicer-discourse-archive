@@ -1,3 +1,10 @@
+---
+topic_id: 16425
+title: "Elastix In 3Dslicer"
+date: 2021-03-08
+url: https://discourse.slicer.org/t/16425
+---
+
 # Elastix in 3dslicer
 
 **Topic ID**: 16425

@@ -1,3 +1,10 @@
+---
+topic_id: 34805
+title: "Installing Extension In Users Folder In Linux"
+date: 2024-03-10
+url: https://discourse.slicer.org/t/34805
+---
+
 # Installing extension in user's folder in Linux
 
 **Topic ID**: 34805

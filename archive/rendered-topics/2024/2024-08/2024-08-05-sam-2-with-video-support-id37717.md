@@ -1,3 +1,10 @@
+---
+topic_id: 37717
+title: "Sam 2 With Video Support"
+date: 2024-08-05
+url: https://discourse.slicer.org/t/37717
+---
+
 # SAM 2 with video support
 
 **Topic ID**: 37717

@@ -1,3 +1,10 @@
+---
+topic_id: 12297
+title: "Volume Rendering Of An Image Stack In Tiff File"
+date: 2020-06-30
+url: https://discourse.slicer.org/t/12297
+---
+
 # Volume rendering of an image stack in tiff file
 
 **Topic ID**: 12297

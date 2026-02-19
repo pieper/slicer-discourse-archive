@@ -1,3 +1,10 @@
+---
+topic_id: 10592
+title: "I Need To Find My Cranium"
+date: 2020-03-08
+url: https://discourse.slicer.org/t/10592
+---
+
 # I need to find my cranium!
 
 **Topic ID**: 10592

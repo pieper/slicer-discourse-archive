@@ -1,3 +1,10 @@
+---
+topic_id: 7766
+title: "Ct Is Cropped Atfer Elastix Deformable Registraton"
+date: 2019-07-26
+url: https://discourse.slicer.org/t/7766
+---
+
 # CT is cropped atfer Elastix deformable registraton
 
 **Topic ID**: 7766

@@ -1,3 +1,10 @@
+---
+topic_id: 20806
+title: "Brains Registration Fails In V4 11 20210226"
+date: 2021-11-26
+url: https://discourse.slicer.org/t/20806
+---
+
 # BRAINS Registration fails in V4.11.20210226
 
 **Topic ID**: 20806

@@ -1,3 +1,10 @@
+---
+topic_id: 26115
+title: "3D Slicer Crashes When Attempting To Turn On 3D Surface Smot"
+date: 2022-11-07
+url: https://discourse.slicer.org/t/26115
+---
+
 # 3D Slicer crashes when attempting to turn on 3D surface smothing
 
 **Topic ID**: 26115

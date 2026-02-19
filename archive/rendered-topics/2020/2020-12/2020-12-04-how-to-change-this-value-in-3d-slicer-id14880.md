@@ -1,3 +1,10 @@
+---
+topic_id: 14880
+title: "How To Change This Value In 3D Slicer"
+date: 2020-12-04
+url: https://discourse.slicer.org/t/14880
+---
+
 # How to change this value in 3D slicer?
 
 **Topic ID**: 14880

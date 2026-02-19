@@ -1,3 +1,10 @@
+---
+topic_id: 16774
+title: "Mac Factory Machine Out Of Space"
+date: 2021-03-26
+url: https://discourse.slicer.org/t/16774
+---
+
 # Mac factory machine out of space
 
 **Topic ID**: 16774

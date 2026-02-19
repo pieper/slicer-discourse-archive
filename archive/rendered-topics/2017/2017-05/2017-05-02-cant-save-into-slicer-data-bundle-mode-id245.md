@@ -1,3 +1,10 @@
+---
+topic_id: 245
+title: "Cant Save Into Slicer Data Bundle Mode"
+date: 2017-05-02
+url: https://discourse.slicer.org/t/245
+---
+
 # Can't save into "Slicer Data Bundle" mode
 
 **Topic ID**: 245

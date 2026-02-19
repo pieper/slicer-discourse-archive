@@ -1,3 +1,10 @@
+---
+topic_id: 10678
+title: "Github For Issue Tracking"
+date: 2020-03-13
+url: https://discourse.slicer.org/t/10678
+---
+
 # Github for issue tracking
 
 **Topic ID**: 10678

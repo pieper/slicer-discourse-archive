@@ -1,3 +1,10 @@
+---
+topic_id: 36387
+title: "Segmented Nrrd File Is 0 Bytes After Editing"
+date: 2024-05-25
+url: https://discourse.slicer.org/t/36387
+---
+
 # Segmented NRRD File is 0 Bytes After Editing
 
 **Topic ID**: 36387

@@ -1,3 +1,10 @@
+---
+topic_id: 36415
+title: "Segment Part Deletion Like Osirix Bone Delete Function"
+date: 2024-05-27
+url: https://discourse.slicer.org/t/36415
+---
+
 # Segment part deletion like osirix bone delete function
 
 **Topic ID**: 36415

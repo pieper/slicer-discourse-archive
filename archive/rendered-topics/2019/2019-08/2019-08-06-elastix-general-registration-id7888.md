@@ -1,3 +1,10 @@
+---
+topic_id: 7888
+title: "Elastix General Registration"
+date: 2019-08-06
+url: https://discourse.slicer.org/t/7888
+---
+
 # Elastix general registration
 
 **Topic ID**: 7888

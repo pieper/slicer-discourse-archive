@@ -1,3 +1,10 @@
+---
+topic_id: 30201
+title: "How To Set Irregular Volume Geometry Threshold"
+date: 2023-06-23
+url: https://discourse.slicer.org/t/30201
+---
+
 # How to set "Irregular volume geometry" threshold?
 
 **Topic ID**: 30201

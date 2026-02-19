@@ -1,3 +1,10 @@
+---
+topic_id: 33384
+title: "Model To Model Distance Command Line"
+date: 2023-12-13
+url: https://discourse.slicer.org/t/33384
+---
+
 # Model to Model Distance command line
 
 **Topic ID**: 33384

@@ -1,3 +1,10 @@
+---
+topic_id: 43738
+title: "Cuda Is Not Currently Available On Your System Dentalsegment"
+date: 2025-07-16
+url: https://discourse.slicer.org/t/43738
+---
+
 # CUDA is not currently available on your system -DentalSegmentator problem
 
 **Topic ID**: 43738

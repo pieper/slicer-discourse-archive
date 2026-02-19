@@ -1,3 +1,10 @@
+---
+topic_id: 26188
+title: "Export File As Bug For Markup Control Points"
+date: 2022-11-10
+url: https://discourse.slicer.org/t/26188
+---
+
 # Export File as bug for markup control points
 
 **Topic ID**: 26188

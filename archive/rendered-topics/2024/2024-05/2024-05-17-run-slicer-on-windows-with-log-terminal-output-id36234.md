@@ -1,3 +1,10 @@
+---
+topic_id: 36234
+title: "Run Slicer On Windows With Log Terminal Output"
+date: 2024-05-17
+url: https://discourse.slicer.org/t/36234
+---
+
 # Run slicer on windows with log / terminal output?
 
 **Topic ID**: 36234

@@ -1,3 +1,10 @@
+---
+topic_id: 32168
+title: "Various Errors With Plus Toolkit Ultrasound Simulator"
+date: 2023-10-11
+url: https://discourse.slicer.org/t/32168
+---
+
 # Various errors with PLUS Toolkit Ultrasound Simulator
 
 **Topic ID**: 32168

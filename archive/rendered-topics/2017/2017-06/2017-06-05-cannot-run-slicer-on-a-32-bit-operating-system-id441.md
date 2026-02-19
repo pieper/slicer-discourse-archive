@@ -1,3 +1,10 @@
+---
+topic_id: 441
+title: "Cannot Run Slicer On A 32 Bit Operating System"
+date: 2017-06-05
+url: https://discourse.slicer.org/t/441
+---
+
 # Cannot run Slicer on a 32-bit operating system
 
 **Topic ID**: 441

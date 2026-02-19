@@ -1,3 +1,10 @@
+---
+topic_id: 41874
+title: "Inquiry Spatial Coordinates"
+date: 2025-02-25
+url: https://discourse.slicer.org/t/41874
+---
+
 # Inquiry Spatial Coordinates
 
 **Topic ID**: 41874

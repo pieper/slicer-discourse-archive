@@ -1,3 +1,10 @@
+---
+topic_id: 30602
+title: "Release Windows Build Of Slicer Fails With Error On Sphinx B"
+date: 2023-07-14
+url: https://discourse.slicer.org/t/30602
+---
+
 # Release [windows] build of Slicer fails with error on sphinx-build
 
 **Topic ID**: 30602

@@ -1,3 +1,10 @@
+---
+topic_id: 8672
+title: "Images Registration"
+date: 2019-10-04
+url: https://discourse.slicer.org/t/8672
+---
+
 # Images registration
 
 **Topic ID**: 8672

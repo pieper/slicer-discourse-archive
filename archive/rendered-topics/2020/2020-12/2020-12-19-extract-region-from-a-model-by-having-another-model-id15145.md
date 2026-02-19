@@ -1,3 +1,10 @@
+---
+topic_id: 15145
+title: "Extract Region From A Model By Having Another Model"
+date: 2020-12-19
+url: https://discourse.slicer.org/t/15145
+---
+
 # Extract region from a model by having another model
 
 **Topic ID**: 15145

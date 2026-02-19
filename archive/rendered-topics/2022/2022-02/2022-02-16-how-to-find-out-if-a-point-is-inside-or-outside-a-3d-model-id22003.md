@@ -1,3 +1,10 @@
+---
+topic_id: 22003
+title: "How To Find Out If A Point Is Inside Or Outside A 3D Model"
+date: 2022-02-16
+url: https://discourse.slicer.org/t/22003
+---
+
 # How to find out if a point is inside or outside a 3d model?
 
 **Topic ID**: 22003

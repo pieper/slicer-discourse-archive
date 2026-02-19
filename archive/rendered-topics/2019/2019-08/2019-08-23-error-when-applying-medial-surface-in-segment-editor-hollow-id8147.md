@@ -1,3 +1,10 @@
+---
+topic_id: 8147
+title: "Error When Applying Medial Surface In Segment Editor Hollow"
+date: 2019-08-23
+url: https://discourse.slicer.org/t/8147
+---
+
 # Error when applying Medial surface in Segment Editor hollow effect (with possible fix)
 
 **Topic ID**: 8147

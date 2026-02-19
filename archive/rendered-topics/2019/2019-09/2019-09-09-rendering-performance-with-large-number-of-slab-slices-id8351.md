@@ -1,3 +1,10 @@
+---
+topic_id: 8351
+title: "Rendering Performance With Large Number Of Slab Slices"
+date: 2019-09-09
+url: https://discourse.slicer.org/t/8351
+---
+
 # Rendering Performance with Large number of slab slices
 
 **Topic ID**: 8351

@@ -1,3 +1,10 @@
+---
+topic_id: 12598
+title: "Transferring Objects From Mim Maestro To Slicer"
+date: 2020-07-17
+url: https://discourse.slicer.org/t/12598
+---
+
 # transferring objects from MIM Maestro to Slicer
 
 **Topic ID**: 12598

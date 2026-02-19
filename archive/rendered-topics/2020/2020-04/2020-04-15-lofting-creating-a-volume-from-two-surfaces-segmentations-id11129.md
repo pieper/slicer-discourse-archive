@@ -1,3 +1,10 @@
+---
+topic_id: 11129
+title: "Lofting Creating A Volume From Two Surfaces Segmentations"
+date: 2020-04-15
+url: https://discourse.slicer.org/t/11129
+---
+
 # Lofting - Creating a volume from two surfaces, segmentations
 
 **Topic ID**: 11129

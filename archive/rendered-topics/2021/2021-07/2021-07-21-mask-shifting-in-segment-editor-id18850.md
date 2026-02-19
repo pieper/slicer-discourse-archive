@@ -1,3 +1,10 @@
+---
+topic_id: 18850
+title: "Mask Shifting In Segment Editor"
+date: 2021-07-21
+url: https://discourse.slicer.org/t/18850
+---
+
 # Mask Shifting in Segment Editor
 
 **Topic ID**: 18850

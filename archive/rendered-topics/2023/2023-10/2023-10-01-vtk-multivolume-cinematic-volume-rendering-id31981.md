@@ -1,3 +1,10 @@
+---
+topic_id: 31981
+title: "Vtk Multivolume Cinematic Volume Rendering"
+date: 2023-10-01
+url: https://discourse.slicer.org/t/31981
+---
+
 # VTK multivolume/cinematic volume rendering
 
 **Topic ID**: 31981

@@ -1,3 +1,10 @@
+---
+topic_id: 4372
+title: "Add Labels Inscription In The Created Segmentation Model"
+date: 2018-10-12
+url: https://discourse.slicer.org/t/4372
+---
+
 # Add labels/ inscription in the created segmentation/model
 
 **Topic ID**: 4372

@@ -1,3 +1,10 @@
+---
+topic_id: 41539
+title: "Segmentation From Reference Segment"
+date: 2025-02-07
+url: https://discourse.slicer.org/t/41539
+---
+
 # Segmentation from reference segment
 
 **Topic ID**: 41539

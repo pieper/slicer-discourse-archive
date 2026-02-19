@@ -1,3 +1,10 @@
+---
+topic_id: 34196
+title: "Alpaca Tps Warped Model Not Showing"
+date: 2024-02-07
+url: https://discourse.slicer.org/t/34196
+---
+
 # ALPACA TPS warped model not showing
 
 **Topic ID**: 34196

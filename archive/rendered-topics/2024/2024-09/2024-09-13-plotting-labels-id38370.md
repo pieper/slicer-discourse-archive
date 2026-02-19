@@ -1,3 +1,10 @@
+---
+topic_id: 38370
+title: "Plotting Labels"
+date: 2024-09-13
+url: https://discourse.slicer.org/t/38370
+---
+
 # Plotting labels
 
 **Topic ID**: 38370

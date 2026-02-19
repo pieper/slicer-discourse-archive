@@ -1,3 +1,10 @@
+---
+topic_id: 17989
+title: "Pythonslicer Exe Install Issue"
+date: 2021-06-07
+url: https://discourse.slicer.org/t/17989
+---
+
 # Pythonslicer.exe install issue
 
 **Topic ID**: 17989

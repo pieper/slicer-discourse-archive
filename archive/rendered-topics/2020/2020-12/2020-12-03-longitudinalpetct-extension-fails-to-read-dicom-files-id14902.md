@@ -1,3 +1,10 @@
+---
+topic_id: 14902
+title: "Longitudinalpetct Extension Fails To Read Dicom Files"
+date: 2020-12-03
+url: https://discourse.slicer.org/t/14902
+---
+
 # LongitudinalPETCT extension fails to read DICOM files
 
 **Topic ID**: 14902

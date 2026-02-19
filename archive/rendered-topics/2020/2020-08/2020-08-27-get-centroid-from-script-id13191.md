@@ -1,3 +1,10 @@
+---
+topic_id: 13191
+title: "Get Centroid From Script"
+date: 2020-08-27
+url: https://discourse.slicer.org/t/13191
+---
+
 # Get Centroid from Script
 
 **Topic ID**: 13191

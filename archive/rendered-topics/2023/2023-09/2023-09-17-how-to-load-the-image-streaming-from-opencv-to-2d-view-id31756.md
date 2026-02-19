@@ -1,3 +1,10 @@
+---
+topic_id: 31756
+title: "How To Load The Image Streaming From Opencv To 2D View"
+date: 2023-09-17
+url: https://discourse.slicer.org/t/31756
+---
+
 # How to load the image streaming from opencv to 2D view
 
 **Topic ID**: 31756

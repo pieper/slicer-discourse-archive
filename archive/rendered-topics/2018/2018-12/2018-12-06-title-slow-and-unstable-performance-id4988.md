@@ -1,3 +1,10 @@
+---
+topic_id: 4988
+title: "Title Slow And Unstable Performance"
+date: 2018-12-06
+url: https://discourse.slicer.org/t/4988
+---
+
 # Title: Slow and unstable performance
 
 **Topic ID**: 4988

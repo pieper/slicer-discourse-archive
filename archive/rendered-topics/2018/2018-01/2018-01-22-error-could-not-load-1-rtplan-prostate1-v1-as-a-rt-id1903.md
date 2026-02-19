@@ -1,3 +1,10 @@
+---
+topic_id: 1903
+title: "Error Could Not Load 1 Rtplan Prostate1 V1 As A Rt"
+date: 2018-01-22
+url: https://discourse.slicer.org/t/1903
+---
+
 # Error : Could not load: 1: RTPLAN: Prostate1_v1 as a RT
 
 **Topic ID**: 1903

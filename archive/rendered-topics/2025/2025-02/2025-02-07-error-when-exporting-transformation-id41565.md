@@ -1,3 +1,10 @@
+---
+topic_id: 41565
+title: "Error When Exporting Transformation"
+date: 2025-02-07
+url: https://discourse.slicer.org/t/41565
+---
+
 # Error when exporting transformation
 
 **Topic ID**: 41565

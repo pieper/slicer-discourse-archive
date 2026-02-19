@@ -1,3 +1,10 @@
+---
+topic_id: 34228
+title: "Total Segmentation 2 Coronary Arteries"
+date: 2024-02-09
+url: https://discourse.slicer.org/t/34228
+---
+
 # Total segmentation 2 coronary arteries
 
 **Topic ID**: 34228

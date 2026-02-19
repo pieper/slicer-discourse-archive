@@ -1,3 +1,10 @@
+---
+topic_id: 9562
+title: "Building For Long Time Is There Any Remedy"
+date: 2019-12-19
+url: https://discourse.slicer.org/t/9562
+---
+
 # building for long time, is there any remedy
 
 **Topic ID**: 9562

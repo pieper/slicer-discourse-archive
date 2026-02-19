@@ -1,3 +1,10 @@
+---
+topic_id: 17023
+title: "How Can I Flip The Model To Compare It"
+date: 2021-04-10
+url: https://discourse.slicer.org/t/17023
+---
+
 # How can I flip the model to compare it
 
 **Topic ID**: 17023

@@ -1,3 +1,10 @@
+---
+topic_id: 31535
+title: "New Extensions Can Not Work On Slicer 5 4 0 On Macos"
+date: 2023-09-04
+url: https://discourse.slicer.org/t/31535
+---
+
 # New extensions can not work on Slicer 5.4.0 on MacOS
 
 **Topic ID**: 31535

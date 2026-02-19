@@ -1,3 +1,10 @@
+---
+topic_id: 41803
+title: "Registration Library Not Available"
+date: 2025-02-21
+url: https://discourse.slicer.org/t/41803
+---
+
 # Registration library not available
 
 **Topic ID**: 41803

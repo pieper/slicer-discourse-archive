@@ -1,3 +1,10 @@
+---
+topic_id: 29541
+title: "Cant Open S Certain Dicom File"
+date: 2023-05-19
+url: https://discourse.slicer.org/t/29541
+---
+
 # Can't open s certain dicom file
 
 **Topic ID**: 29541

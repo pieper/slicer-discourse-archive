@@ -1,3 +1,10 @@
+---
+topic_id: 44781
+title: "3D View Of Segmentation Node Is Broken When Loading From A F"
+date: 2025-10-16
+url: https://discourse.slicer.org/t/44781
+---
+
 # 3D view of segmentation node is broken when loading from a file
 
 **Topic ID**: 44781

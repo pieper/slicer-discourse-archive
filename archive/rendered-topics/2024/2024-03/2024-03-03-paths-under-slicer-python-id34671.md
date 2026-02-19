@@ -1,3 +1,10 @@
+---
+topic_id: 34671
+title: "Paths Under Slicer Python"
+date: 2024-03-03
+url: https://discourse.slicer.org/t/34671
+---
+
 # Paths under Slicer python
 
 **Topic ID**: 34671

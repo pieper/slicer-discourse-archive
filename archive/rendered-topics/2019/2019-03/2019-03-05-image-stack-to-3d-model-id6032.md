@@ -1,3 +1,10 @@
+---
+topic_id: 6032
+title: "Image Stack To 3D Model"
+date: 2019-03-05
+url: https://discourse.slicer.org/t/6032
+---
+
 # Image Stack to 3D Model
 
 **Topic ID**: 6032

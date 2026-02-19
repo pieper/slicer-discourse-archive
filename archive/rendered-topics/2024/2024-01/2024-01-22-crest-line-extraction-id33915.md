@@ -1,3 +1,10 @@
+---
+topic_id: 33915
+title: "Crest Line Extraction"
+date: 2024-01-22
+url: https://discourse.slicer.org/t/33915
+---
+
 # Crest line extraction
 
 **Topic ID**: 33915

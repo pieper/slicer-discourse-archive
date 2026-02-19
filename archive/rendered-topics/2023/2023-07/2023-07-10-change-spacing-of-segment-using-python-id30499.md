@@ -1,3 +1,10 @@
+---
+topic_id: 30499
+title: "Change Spacing Of Segment Using Python"
+date: 2023-07-10
+url: https://discourse.slicer.org/t/30499
+---
+
 # Change spacing of segment using Python
 
 **Topic ID**: 30499

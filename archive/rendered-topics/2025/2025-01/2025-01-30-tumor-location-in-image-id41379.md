@@ -1,3 +1,10 @@
+---
+topic_id: 41379
+title: "Tumor Location In Image"
+date: 2025-01-30
+url: https://discourse.slicer.org/t/41379
+---
+
 # Tumor Location in Image
 
 **Topic ID**: 41379

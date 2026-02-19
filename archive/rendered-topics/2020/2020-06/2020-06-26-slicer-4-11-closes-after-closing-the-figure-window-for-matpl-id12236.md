@@ -1,3 +1,10 @@
+---
+topic_id: 12236
+title: "Slicer 4 11 Closes After Closing The Figure Window For Matpl"
+date: 2020-06-26
+url: https://discourse.slicer.org/t/12236
+---
+
 # Slicer 4.11 closes after closing the Figure Window for matplotlib
 
 **Topic ID**: 12236

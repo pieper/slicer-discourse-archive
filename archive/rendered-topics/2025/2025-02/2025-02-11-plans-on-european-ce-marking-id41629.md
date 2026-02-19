@@ -1,3 +1,10 @@
+---
+topic_id: 41629
+title: "Plans On European Ce Marking"
+date: 2025-02-11
+url: https://discourse.slicer.org/t/41629
+---
+
 # Plans on european CE marking?
 
 **Topic ID**: 41629

@@ -1,3 +1,10 @@
+---
+topic_id: 30318
+title: "Automatation Of Centerline"
+date: 2023-06-30
+url: https://discourse.slicer.org/t/30318
+---
+
 # Automatation of Centerline
 
 **Topic ID**: 30318

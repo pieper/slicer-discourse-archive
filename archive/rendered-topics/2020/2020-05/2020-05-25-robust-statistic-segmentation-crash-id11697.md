@@ -1,3 +1,10 @@
+---
+topic_id: 11697
+title: "Robust Statistic Segmentation Crash"
+date: 2020-05-25
+url: https://discourse.slicer.org/t/11697
+---
+
 # Robust statistic segmentation crash
 
 **Topic ID**: 11697

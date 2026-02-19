@@ -1,3 +1,10 @@
+---
+topic_id: 16789
+title: "Problem With Dynamic Modeler Curve Cut"
+date: 2021-03-27
+url: https://discourse.slicer.org/t/16789
+---
+
 # Problem with Dynamic Modeler Curve Cut
 
 **Topic ID**: 16789

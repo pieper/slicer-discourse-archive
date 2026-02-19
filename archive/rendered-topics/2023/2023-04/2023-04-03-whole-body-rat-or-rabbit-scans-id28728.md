@@ -1,3 +1,10 @@
+---
+topic_id: 28728
+title: "Whole Body Rat Or Rabbit Scans"
+date: 2023-04-03
+url: https://discourse.slicer.org/t/28728
+---
+
 # Whole body rat or rabbit scans?
 
 **Topic ID**: 28728

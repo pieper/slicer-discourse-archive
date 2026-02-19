@@ -1,3 +1,10 @@
+---
+topic_id: 524
+title: "Save Volume Rendering As Stl File"
+date: 2017-06-19
+url: https://discourse.slicer.org/t/524
+---
+
 # Save volume rendering as STL file
 
 **Topic ID**: 524

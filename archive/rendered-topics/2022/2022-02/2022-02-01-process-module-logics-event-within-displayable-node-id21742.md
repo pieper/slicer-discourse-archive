@@ -1,3 +1,10 @@
+---
+topic_id: 21742
+title: "Process Module Logics Event Within Displayable Node"
+date: 2022-02-01
+url: https://discourse.slicer.org/t/21742
+---
+
 # Process module logic's event within displayable node
 
 **Topic ID**: 21742

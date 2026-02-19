@@ -1,3 +1,10 @@
+---
+topic_id: 14539
+title: "Could Not Load 511 Vital Snapshot As A Scalar Volume"
+date: 2020-11-11
+url: https://discourse.slicer.org/t/14539
+---
+
 # Could not load: 511: Vital Snapshot as a Scalar Volume
 
 **Topic ID**: 14539

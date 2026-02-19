@@ -1,3 +1,10 @@
+---
+topic_id: 36072
+title: "Geometry All Messed Up In Latest 5 7 0 Pre Release"
+date: 2024-05-10
+url: https://discourse.slicer.org/t/36072
+---
+
 # Geometry all messed up in latest 5.7.0 pre-release?
 
 **Topic ID**: 36072

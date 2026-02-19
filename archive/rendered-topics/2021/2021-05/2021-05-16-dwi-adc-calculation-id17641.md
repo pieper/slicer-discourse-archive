@@ -1,3 +1,10 @@
+---
+topic_id: 17641
+title: "Dwi Adc Calculation"
+date: 2021-05-16
+url: https://discourse.slicer.org/t/17641
+---
+
 # DWI ADC calculation
 
 **Topic ID**: 17641

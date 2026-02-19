@@ -1,3 +1,10 @@
+---
+topic_id: 15913
+title: "Adding Gauge Line In Slice View"
+date: 2021-02-09
+url: https://discourse.slicer.org/t/15913
+---
+
 # Adding gauge line in Slice view
 
 **Topic ID**: 15913

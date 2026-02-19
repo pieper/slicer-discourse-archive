@@ -1,3 +1,10 @@
+---
+topic_id: 32384
+title: "Improving Animator Module"
+date: 2023-10-23
+url: https://discourse.slicer.org/t/32384
+---
+
 # Improving Animator module
 
 **Topic ID**: 32384

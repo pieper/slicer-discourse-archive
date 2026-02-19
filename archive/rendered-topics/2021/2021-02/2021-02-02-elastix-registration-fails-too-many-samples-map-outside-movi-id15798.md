@@ -1,3 +1,10 @@
+---
+topic_id: 15798
+title: "Elastix Registration Fails Too Many Samples Map Outside Movi"
+date: 2021-02-02
+url: https://discourse.slicer.org/t/15798
+---
+
 # Elastix registration fails: Too many samples map outside moving image buffer
 
 **Topic ID**: 15798

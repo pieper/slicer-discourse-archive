@@ -1,3 +1,10 @@
+---
+topic_id: 668
+title: "Viewing An Fa Image"
+date: 2017-07-11
+url: https://discourse.slicer.org/t/668
+---
+
 # Viewing an FA image
 
 **Topic ID**: 668

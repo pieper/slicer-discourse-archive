@@ -1,3 +1,10 @@
+---
+topic_id: 41547
+title: "Monailabel 3D Slicer"
+date: 2025-02-07
+url: https://discourse.slicer.org/t/41547
+---
+
 # MONAILabel 3D Slicer
 
 **Topic ID**: 41547

@@ -1,3 +1,10 @@
+---
+topic_id: 885
+title: "Group Analysis With Spharm Pdm"
+date: 2017-08-16
+url: https://discourse.slicer.org/t/885
+---
+
 # Group analysis with SPHARM-PDM
 
 **Topic ID**: 885

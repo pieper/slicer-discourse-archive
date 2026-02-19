@@ -1,3 +1,10 @@
+---
+topic_id: 7615
+title: "Trying To Make A Stl From A Nrrd"
+date: 2019-07-16
+url: https://discourse.slicer.org/t/7615
+---
+
 # Trying to make a STL from a NRRD
 
 **Topic ID**: 7615

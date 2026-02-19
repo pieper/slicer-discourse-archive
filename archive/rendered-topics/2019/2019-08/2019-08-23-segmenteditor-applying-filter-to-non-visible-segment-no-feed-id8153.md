@@ -1,3 +1,10 @@
+---
+topic_id: 8153
+title: "Segmenteditor Applying Filter To Non Visible Segment No Feed"
+date: 2019-08-23
+url: https://discourse.slicer.org/t/8153
+---
+
 # SegmentEditor - applying filter to non-visible segment, no feedback
 
 **Topic ID**: 8153

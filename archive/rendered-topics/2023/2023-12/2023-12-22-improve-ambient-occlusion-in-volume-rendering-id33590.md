@@ -1,3 +1,10 @@
+---
+topic_id: 33590
+title: "Improve Ambient Occlusion In Volume Rendering"
+date: 2023-12-22
+url: https://discourse.slicer.org/t/33590
+---
+
 # Improve ambient occlusion in volume rendering
 
 **Topic ID**: 33590

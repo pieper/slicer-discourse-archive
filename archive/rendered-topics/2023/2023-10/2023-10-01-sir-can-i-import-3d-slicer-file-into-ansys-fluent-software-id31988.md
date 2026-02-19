@@ -1,3 +1,10 @@
+---
+topic_id: 31988
+title: "Sir Can I Import 3D Slicer File Into Ansys Fluent Software"
+date: 2023-10-01
+url: https://discourse.slicer.org/t/31988
+---
+
 # Sir can I import 3D slicer file into Ansys Fluent software?
 
 **Topic ID**: 31988

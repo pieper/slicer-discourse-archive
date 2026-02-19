@@ -1,3 +1,10 @@
+---
+topic_id: 11236
+title: "Ctkdirectorybutton How To Get Path"
+date: 2020-04-22
+url: https://discourse.slicer.org/t/11236
+---
+
 # ctkDirectoryButton how to get path
 
 **Topic ID**: 11236

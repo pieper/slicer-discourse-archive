@@ -1,3 +1,10 @@
+---
+topic_id: 10224
+title: "Validation Papers For Slicerrt"
+date: 2020-02-12
+url: https://discourse.slicer.org/t/10224
+---
+
 # Validation papers for SlicerRT?
 
 **Topic ID**: 10224

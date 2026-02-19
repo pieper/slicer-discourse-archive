@@ -1,3 +1,10 @@
+---
+topic_id: 16103
+title: "Problem With Importing Files"
+date: 2021-02-20
+url: https://discourse.slicer.org/t/16103
+---
+
 # Problem with importing files
 
 **Topic ID**: 16103

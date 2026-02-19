@@ -1,3 +1,10 @@
+---
+topic_id: 21139
+title: "Build Errors While Building Custom Slicer"
+date: 2021-12-20
+url: https://discourse.slicer.org/t/21139
+---
+
 # Build Errors while building custom Slicer
 
 **Topic ID**: 21139

@@ -1,3 +1,10 @@
+---
+topic_id: 4893
+title: "Can I Label A 3D Segmentation Of A Hippocampus"
+date: 2018-11-27
+url: https://discourse.slicer.org/t/4893
+---
+
 # Can I label a 3D segmentation of a hippocampus?
 
 **Topic ID**: 4893

@@ -1,3 +1,10 @@
+---
+topic_id: 26032
+title: "Amira Like Segmentation Add To Segment Functionality"
+date: 2022-11-02
+url: https://discourse.slicer.org/t/26032
+---
+
 # Amira like segmentation - add to segment functionality
 
 **Topic ID**: 26032

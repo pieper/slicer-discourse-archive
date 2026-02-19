@@ -1,3 +1,10 @@
+---
+topic_id: 6338
+title: "Fill Between Slices Bug"
+date: 2019-03-30
+url: https://discourse.slicer.org/t/6338
+---
+
 # Fill between slices bug
 
 **Topic ID**: 6338

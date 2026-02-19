@@ -1,3 +1,10 @@
+---
+topic_id: 2459
+title: "Error Loading Dicom Files"
+date: 2018-03-28
+url: https://discourse.slicer.org/t/2459
+---
+
 # Error loading Dicom Files
 
 **Topic ID**: 2459

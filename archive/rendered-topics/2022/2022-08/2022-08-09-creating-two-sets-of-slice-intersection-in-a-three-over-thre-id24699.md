@@ -1,3 +1,10 @@
+---
+topic_id: 24699
+title: "Creating Two Sets Of Slice Intersection In A Three Over Thre"
+date: 2022-08-09
+url: https://discourse.slicer.org/t/24699
+---
+
 # Creating two sets of "Slice intersection" in a "Three over three window"?
 
 **Topic ID**: 24699

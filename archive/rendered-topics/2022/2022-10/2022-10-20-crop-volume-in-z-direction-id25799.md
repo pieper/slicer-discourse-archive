@@ -1,3 +1,10 @@
+---
+topic_id: 25799
+title: "Crop Volume In Z Direction"
+date: 2022-10-20
+url: https://discourse.slicer.org/t/25799
+---
+
 # Crop Volume in Z direction
 
 **Topic ID**: 25799

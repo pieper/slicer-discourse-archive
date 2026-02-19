@@ -1,3 +1,10 @@
+---
+topic_id: 921
+title: "Time Stamp Information Missing In Nifti Header Data"
+date: 2017-08-22
+url: https://discourse.slicer.org/t/921
+---
+
 # Time Stamp information missing in NifTI header data
 
 **Topic ID**: 921

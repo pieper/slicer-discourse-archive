@@ -1,3 +1,10 @@
+---
+topic_id: 7788
+title: "Imported Obj Color Is Gray"
+date: 2019-07-28
+url: https://discourse.slicer.org/t/7788
+---
+
 # Imported obj color is gray
 
 **Topic ID**: 7788

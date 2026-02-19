@@ -1,3 +1,10 @@
+---
+topic_id: 22751
+title: "Slicer Density Lung Segmentation"
+date: 2022-03-29
+url: https://discourse.slicer.org/t/22751
+---
+
 # Slicer Density Lung Segmentation
 
 **Topic ID**: 22751

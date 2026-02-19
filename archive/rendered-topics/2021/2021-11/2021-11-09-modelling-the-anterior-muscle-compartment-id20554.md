@@ -1,3 +1,10 @@
+---
+topic_id: 20554
+title: "Modelling The Anterior Muscle Compartment"
+date: 2021-11-09
+url: https://discourse.slicer.org/t/20554
+---
+
 # Modelling the Anterior Muscle Compartment
 
 **Topic ID**: 20554

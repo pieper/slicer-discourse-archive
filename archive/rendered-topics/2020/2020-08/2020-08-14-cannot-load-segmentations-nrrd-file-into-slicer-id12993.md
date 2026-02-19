@@ -1,3 +1,10 @@
+---
+topic_id: 12993
+title: "Cannot Load Segmentations Nrrd File Into Slicer"
+date: 2020-08-14
+url: https://discourse.slicer.org/t/12993
+---
+
 # Cannot load segmentations (nrrd file) into slicer
 
 **Topic ID**: 12993

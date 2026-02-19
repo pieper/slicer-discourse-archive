@@ -1,3 +1,10 @@
+---
+topic_id: 13974
+title: "Exporting Segmentation To Abaqus"
+date: 2020-10-10
+url: https://discourse.slicer.org/t/13974
+---
+
 # Exporting segmentation to Abaqus
 
 **Topic ID**: 13974

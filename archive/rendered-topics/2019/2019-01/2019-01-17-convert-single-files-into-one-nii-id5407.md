@@ -1,3 +1,10 @@
+---
+topic_id: 5407
+title: "Convert Single Files Into One Nii"
+date: 2019-01-17
+url: https://discourse.slicer.org/t/5407
+---
+
 # Convert single files into one .nii
 
 **Topic ID**: 5407

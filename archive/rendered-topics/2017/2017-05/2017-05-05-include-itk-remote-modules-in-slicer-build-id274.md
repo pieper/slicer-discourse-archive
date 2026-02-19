@@ -1,3 +1,10 @@
+---
+topic_id: 274
+title: "Include Itk Remote Modules In Slicer Build"
+date: 2017-05-05
+url: https://discourse.slicer.org/t/274
+---
+
 # Include itk remote modules in Slicer build
 
 **Topic ID**: 274

@@ -1,3 +1,10 @@
+---
+topic_id: 8776
+title: "Segmentation Mrml Node Function Names Arguments Changed"
+date: 2019-10-14
+url: https://discourse.slicer.org/t/8776
+---
+
 # Segmentation MRML node function names/arguments changed
 
 **Topic ID**: 8776

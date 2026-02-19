@@ -1,3 +1,10 @@
+---
+topic_id: 30705
+title: "Does Slicer Exist A Markups Plugin Like This"
+date: 2023-07-20
+url: https://discourse.slicer.org/t/30705
+---
+
 # Does slicer exist a markups plugin like this?
 
 **Topic ID**: 30705

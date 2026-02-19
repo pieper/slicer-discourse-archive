@@ -1,3 +1,10 @@
+---
+topic_id: 40687
+title: "Error Occurred During Install Blosc2"
+date: 2024-12-14
+url: https://discourse.slicer.org/t/40687
+---
+
 #  Error occurred during install : blosc2?
 
 **Topic ID**: 40687

@@ -1,3 +1,10 @@
+---
+topic_id: 18518
+title: "Dicom Gray Level Normalization 3 Sigma Normalization"
+date: 2021-07-05
+url: https://discourse.slicer.org/t/18518
+---
+
 # DICOM gray level normalization , 3 sigma normalization
 
 **Topic ID**: 18518

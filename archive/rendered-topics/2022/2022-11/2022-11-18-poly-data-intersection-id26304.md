@@ -1,3 +1,10 @@
+---
+topic_id: 26304
+title: "Poly Data Intersection"
+date: 2022-11-18
+url: https://discourse.slicer.org/t/26304
+---
+
 # Poly data intersection
 
 **Topic ID**: 26304

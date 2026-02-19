@@ -1,3 +1,10 @@
+---
+topic_id: 14531
+title: "Implicit Representation Of The Segmentation"
+date: 2020-11-10
+url: https://discourse.slicer.org/t/14531
+---
+
 # Implicit representation of the segmentation
 
 **Topic ID**: 14531

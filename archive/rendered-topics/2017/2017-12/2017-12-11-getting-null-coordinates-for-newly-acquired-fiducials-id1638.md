@@ -1,3 +1,10 @@
+---
+topic_id: 1638
+title: "Getting Null Coordinates For Newly Acquired Fiducials"
+date: 2017-12-11
+url: https://discourse.slicer.org/t/1638
+---
+
 # Getting null coordinates for newly acquired Fiducials
 
 **Topic ID**: 1638

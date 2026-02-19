@@ -1,3 +1,10 @@
+---
+topic_id: 13954
+title: "Slicer Dicomdatabase Is Nonetype"
+date: 2020-10-09
+url: https://discourse.slicer.org/t/13954
+---
+
 # slicer.dicomDatabase is 'Nonetype'
 
 **Topic ID**: 13954

@@ -1,3 +1,10 @@
+---
+topic_id: 17813
+title: "Existing Web Application Integration With 3D Slicer"
+date: 2021-05-26
+url: https://discourse.slicer.org/t/17813
+---
+
 # Existing Web application integration with 3D Slicer
 
 **Topic ID**: 17813

@@ -1,3 +1,10 @@
+---
+topic_id: 1989
+title: "Stationary Rician Noise Removal In Dwi"
+date: 2018-01-31
+url: https://discourse.slicer.org/t/1989
+---
+
 # Stationary Rician noise removal in DWI
 
 **Topic ID**: 1989

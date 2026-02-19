@@ -1,3 +1,10 @@
+---
+topic_id: 23828
+title: "Feature Extraction In 2D Image"
+date: 2022-06-11
+url: https://discourse.slicer.org/t/23828
+---
+
 # Feature extraction in 2D image
 
 **Topic ID**: 23828

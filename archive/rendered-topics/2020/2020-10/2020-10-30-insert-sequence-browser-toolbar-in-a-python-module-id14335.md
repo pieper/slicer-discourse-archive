@@ -1,3 +1,10 @@
+---
+topic_id: 14335
+title: "Insert Sequence Browser Toolbar In A Python Module"
+date: 2020-10-30
+url: https://discourse.slicer.org/t/14335
+---
+
 # Insert sequence Browser Toolbar in a python module
 
 **Topic ID**: 14335

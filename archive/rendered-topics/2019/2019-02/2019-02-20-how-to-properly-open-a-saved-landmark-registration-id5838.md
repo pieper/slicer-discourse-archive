@@ -1,3 +1,10 @@
+---
+topic_id: 5838
+title: "How To Properly Open A Saved Landmark Registration"
+date: 2019-02-20
+url: https://discourse.slicer.org/t/5838
+---
+
 # How to properly open a saved Landmark registration
 
 **Topic ID**: 5838

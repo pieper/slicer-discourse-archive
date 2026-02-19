@@ -1,3 +1,10 @@
+---
+topic_id: 44761
+title: "Ct Or Cbct Databases Of Edentulous Patients"
+date: 2025-10-14
+url: https://discourse.slicer.org/t/44761
+---
+
 # CT or CBCT databases of edentulous patients
 
 **Topic ID**: 44761

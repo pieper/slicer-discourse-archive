@@ -1,3 +1,10 @@
+---
+topic_id: 35328
+title: "Fill Inside A Banded Model"
+date: 2024-04-07
+url: https://discourse.slicer.org/t/35328
+---
+
 # Fill inside a banded model
 
 **Topic ID**: 35328

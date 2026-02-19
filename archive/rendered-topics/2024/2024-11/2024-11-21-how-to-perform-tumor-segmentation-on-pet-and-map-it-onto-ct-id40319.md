@@ -1,3 +1,10 @@
+---
+topic_id: 40319
+title: "How To Perform Tumor Segmentation On Pet And Map It Onto Ct"
+date: 2024-11-21
+url: https://discourse.slicer.org/t/40319
+---
+
 # How to perform tumor segmentation on PET and map it onto CT
 
 **Topic ID**: 40319

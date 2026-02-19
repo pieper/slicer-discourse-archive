@@ -1,3 +1,10 @@
+---
+topic_id: 10139
+title: "Extract Point Cloud From Labelmap Contour"
+date: 2020-02-06
+url: https://discourse.slicer.org/t/10139
+---
+
 # Extract point cloud from labelMap contour
 
 **Topic ID**: 10139

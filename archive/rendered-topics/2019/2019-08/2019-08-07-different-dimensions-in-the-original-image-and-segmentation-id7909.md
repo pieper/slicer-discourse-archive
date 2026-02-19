@@ -1,3 +1,10 @@
+---
+topic_id: 7909
+title: "Different Dimensions In The Original Image And Segmentation"
+date: 2019-08-07
+url: https://discourse.slicer.org/t/7909
+---
+
 # Different Dimensions in the original image and segmentation
 
 **Topic ID**: 7909

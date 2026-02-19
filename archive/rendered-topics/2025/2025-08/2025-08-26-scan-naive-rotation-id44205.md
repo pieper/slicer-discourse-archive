@@ -1,3 +1,10 @@
+---
+topic_id: 44205
+title: "Scan Naive Rotation"
+date: 2025-08-26
+url: https://discourse.slicer.org/t/44205
+---
+
 # Scan naive rotation
 
 **Topic ID**: 44205

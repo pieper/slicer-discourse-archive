@@ -1,3 +1,10 @@
+---
+topic_id: 17707
+title: "Annotated Area Disappears In 2D"
+date: 2021-05-20
+url: https://discourse.slicer.org/t/17707
+---
+
 # Annotated area disappears in 2D 
 
 **Topic ID**: 17707

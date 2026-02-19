@@ -1,3 +1,10 @@
+---
+topic_id: 42097
+title: "Calculating Sharpness Of A Point"
+date: 2025-03-12
+url: https://discourse.slicer.org/t/42097
+---
+
 # Calculating Sharpness of a point
 
 **Topic ID**: 42097

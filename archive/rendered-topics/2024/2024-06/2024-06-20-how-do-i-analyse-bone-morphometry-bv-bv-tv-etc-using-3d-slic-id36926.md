@@ -1,3 +1,10 @@
+---
+topic_id: 36926
+title: "How Do I Analyse Bone Morphometry Bv Bv Tv Etc Using 3D Slic"
+date: 2024-06-20
+url: https://discourse.slicer.org/t/36926
+---
+
 # How do I analyse bone morphometry (BV, BV/TV, etc.) using 3D slicer?
 
 **Topic ID**: 36926

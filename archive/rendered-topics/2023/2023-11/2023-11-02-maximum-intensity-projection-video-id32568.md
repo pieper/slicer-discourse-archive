@@ -1,3 +1,10 @@
+---
+topic_id: 32568
+title: "Maximum Intensity Projection Video"
+date: 2023-11-02
+url: https://discourse.slicer.org/t/32568
+---
+
 # Maximum intensity projection video
 
 **Topic ID**: 32568

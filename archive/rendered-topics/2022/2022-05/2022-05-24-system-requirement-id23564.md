@@ -1,3 +1,10 @@
+---
+topic_id: 23564
+title: "System Requirement"
+date: 2022-05-24
+url: https://discourse.slicer.org/t/23564
+---
+
 # System Requirement
 
 **Topic ID**: 23564

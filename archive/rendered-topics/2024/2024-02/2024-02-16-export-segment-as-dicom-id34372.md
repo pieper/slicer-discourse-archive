@@ -1,3 +1,10 @@
+---
+topic_id: 34372
+title: "Export Segment As Dicom"
+date: 2024-02-16
+url: https://discourse.slicer.org/t/34372
+---
+
 # export segment as dicom
 
 **Topic ID**: 34372

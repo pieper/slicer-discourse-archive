@@ -1,3 +1,10 @@
+---
+topic_id: 12558
+title: "Registration Of Two Scans"
+date: 2020-07-15
+url: https://discourse.slicer.org/t/12558
+---
+
 # Registration of two scans
 
 **Topic ID**: 12558

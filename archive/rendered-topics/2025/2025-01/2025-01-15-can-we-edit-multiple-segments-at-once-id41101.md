@@ -1,3 +1,10 @@
+---
+topic_id: 41101
+title: "Can We Edit Multiple Segments At Once"
+date: 2025-01-15
+url: https://discourse.slicer.org/t/41101
+---
+
 # Can we edit multiple segments at once?
 
 **Topic ID**: 41101

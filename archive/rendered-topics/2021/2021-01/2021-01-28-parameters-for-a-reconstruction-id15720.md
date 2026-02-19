@@ -1,3 +1,10 @@
+---
+topic_id: 15720
+title: "Parameters For A Reconstruction"
+date: 2021-01-28
+url: https://discourse.slicer.org/t/15720
+---
+
 # Parameters for a reconstruction
 
 **Topic ID**: 15720

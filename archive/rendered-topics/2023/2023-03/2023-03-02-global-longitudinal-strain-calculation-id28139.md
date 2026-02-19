@@ -1,3 +1,10 @@
+---
+topic_id: 28139
+title: "Global Longitudinal Strain Calculation"
+date: 2023-03-02
+url: https://discourse.slicer.org/t/28139
+---
+
 # Global longitudinal strain calculation
 
 **Topic ID**: 28139

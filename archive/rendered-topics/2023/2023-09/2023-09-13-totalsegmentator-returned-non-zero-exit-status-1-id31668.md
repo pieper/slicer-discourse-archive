@@ -1,3 +1,10 @@
+---
+topic_id: 31668
+title: "Totalsegmentator Returned Non Zero Exit Status 1"
+date: 2023-09-13
+url: https://discourse.slicer.org/t/31668
+---
+
 # TotalSegmentator returned non-zero exit status 1
 
 **Topic ID**: 31668

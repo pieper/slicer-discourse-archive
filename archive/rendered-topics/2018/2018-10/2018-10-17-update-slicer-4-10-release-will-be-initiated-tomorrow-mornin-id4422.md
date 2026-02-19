@@ -1,3 +1,10 @@
+---
+topic_id: 4422
+title: "Update Slicer 4 10 Release Will Be Initiated Tomorrow Mornin"
+date: 2018-10-17
+url: https://discourse.slicer.org/t/4422
+---
+
 # Update: Slicer 4.10 release will be initiated tomorrow morning
 
 **Topic ID**: 4422

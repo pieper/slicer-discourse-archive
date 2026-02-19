@@ -1,3 +1,10 @@
+---
+topic_id: 2307
+title: "Image Origin Mismatch Dicom Viewer Vs Slicer"
+date: 2018-03-13
+url: https://discourse.slicer.org/t/2307
+---
+
 # Image Origin mismatch: DICOM viewer vs. SLICER
 
 **Topic ID**: 2307

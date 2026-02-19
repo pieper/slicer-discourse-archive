@@ -1,3 +1,10 @@
+---
+topic_id: 11408
+title: "How To Import Cardiac Mri"
+date: 2020-05-04
+url: https://discourse.slicer.org/t/11408
+---
+
 # How to import cardiac MRI
 
 **Topic ID**: 11408

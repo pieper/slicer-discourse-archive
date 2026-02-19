@@ -1,3 +1,10 @@
+---
+topic_id: 12415
+title: "Python Module Logic Class"
+date: 2020-07-07
+url: https://discourse.slicer.org/t/12415
+---
+
 # Python Module Logic Class
 
 **Topic ID**: 12415

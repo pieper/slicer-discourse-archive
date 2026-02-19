@@ -1,3 +1,10 @@
+---
+topic_id: 12629
+title: "Ct Volume Cropping"
+date: 2020-07-19
+url: https://discourse.slicer.org/t/12629
+---
+
 # CT volume cropping
 
 **Topic ID**: 12629

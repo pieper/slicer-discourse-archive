@@ -1,3 +1,10 @@
+---
+topic_id: 653
+title: "Elastix Module Cannot Install Final Linear Interpolator Comp"
+date: 2017-07-07
+url: https://discourse.slicer.org/t/653
+---
+
 # Elastix module cannot install "Final Linear Interpolator" component
 
 **Topic ID**: 653

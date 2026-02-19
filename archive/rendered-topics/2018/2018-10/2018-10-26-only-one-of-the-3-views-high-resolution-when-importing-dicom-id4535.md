@@ -1,3 +1,10 @@
+---
+topic_id: 4535
+title: "Only One Of The 3 Views High Resolution When Importing Dicom"
+date: 2018-10-26
+url: https://discourse.slicer.org/t/4535
+---
+
 # Only one of the 3 views high resolution when importing DICOM files
 
 **Topic ID**: 4535

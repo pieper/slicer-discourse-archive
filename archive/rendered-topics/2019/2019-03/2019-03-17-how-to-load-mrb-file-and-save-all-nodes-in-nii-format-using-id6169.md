@@ -1,3 +1,10 @@
+---
+topic_id: 6169
+title: "How To Load Mrb File And Save All Nodes In Nii Format Using"
+date: 2019-03-17
+url: https://discourse.slicer.org/t/6169
+---
+
 # how to load mrb file and save all nodes in nii format using script
 
 **Topic ID**: 6169

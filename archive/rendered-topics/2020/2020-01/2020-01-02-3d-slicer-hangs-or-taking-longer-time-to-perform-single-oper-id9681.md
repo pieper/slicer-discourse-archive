@@ -1,3 +1,10 @@
+---
+topic_id: 9681
+title: "3D Slicer Hangs Or Taking Longer Time To Perform Single Oper"
+date: 2020-01-02
+url: https://discourse.slicer.org/t/9681
+---
+
 # 3D slicer hangs or taking longer time to perform single operation
 
 **Topic ID**: 9681

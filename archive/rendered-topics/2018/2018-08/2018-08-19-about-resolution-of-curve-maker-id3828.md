@@ -1,3 +1,10 @@
+---
+topic_id: 3828
+title: "About Resolution Of Curve Maker"
+date: 2018-08-19
+url: https://discourse.slicer.org/t/3828
+---
+
 # About resolution of curve maker
 
 **Topic ID**: 3828

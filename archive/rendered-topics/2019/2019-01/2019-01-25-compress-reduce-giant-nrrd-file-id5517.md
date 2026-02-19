@@ -1,3 +1,10 @@
+---
+topic_id: 5517
+title: "Compress Reduce Giant Nrrd File"
+date: 2019-01-25
+url: https://discourse.slicer.org/t/5517
+---
+
 # Compress/reduce giant nrrd file
 
 **Topic ID**: 5517

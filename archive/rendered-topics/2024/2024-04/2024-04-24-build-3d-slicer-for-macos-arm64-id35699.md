@@ -1,3 +1,10 @@
+---
+topic_id: 35699
+title: "Build 3D Slicer For Macos Arm64"
+date: 2024-04-24
+url: https://discourse.slicer.org/t/35699
+---
+
 # Build 3D Slicer for MacOS arm64?
 
 **Topic ID**: 35699

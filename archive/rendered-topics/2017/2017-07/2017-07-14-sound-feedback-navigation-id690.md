@@ -1,3 +1,10 @@
+---
+topic_id: 690
+title: "Sound Feedback Navigation"
+date: 2017-07-14
+url: https://discourse.slicer.org/t/690
+---
+
 # Sound feedback navigation
 
 **Topic ID**: 690

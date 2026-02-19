@@ -1,3 +1,10 @@
+---
+topic_id: 10308
+title: "Linux Preview Release Download Points To Old Built Fyi"
+date: 2020-02-17
+url: https://discourse.slicer.org/t/10308
+---
+
 # Linux Preview Release Download Points to old built - FYI
 
 **Topic ID**: 10308

@@ -1,3 +1,10 @@
+---
+topic_id: 40358
+title: "Improve Total Segmentator Lung Lobes Masks"
+date: 2024-11-24
+url: https://discourse.slicer.org/t/40358
+---
+
 # Improve total segmentator lung lobes masks
 
 **Topic ID**: 40358

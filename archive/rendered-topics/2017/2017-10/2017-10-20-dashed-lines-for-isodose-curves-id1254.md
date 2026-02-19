@@ -1,3 +1,10 @@
+---
+topic_id: 1254
+title: "Dashed Lines For Isodose Curves"
+date: 2017-10-20
+url: https://discourse.slicer.org/t/1254
+---
+
 # Dashed lines for isodose curves
 
 **Topic ID**: 1254

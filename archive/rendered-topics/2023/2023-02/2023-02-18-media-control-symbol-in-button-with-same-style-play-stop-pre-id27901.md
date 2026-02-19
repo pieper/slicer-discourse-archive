@@ -1,3 +1,10 @@
+---
+topic_id: 27901
+title: "Media Control Symbol In Button With Same Style Play Stop Pre"
+date: 2023-02-18
+url: https://discourse.slicer.org/t/27901
+---
+
 # Media control symbol in button with same style - Play Stop Previous and Next
 
 **Topic ID**: 27901

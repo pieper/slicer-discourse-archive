@@ -1,3 +1,10 @@
+---
+topic_id: 18250
+title: "Incorrect Date Sorting In Dicom Database"
+date: 2021-06-21
+url: https://discourse.slicer.org/t/18250
+---
+
 # Incorrect Date Sorting in DICOM database
 
 **Topic ID**: 18250

@@ -1,3 +1,10 @@
+---
+topic_id: 17016
+title: "Animator Module Not Exporting Correctly"
+date: 2021-04-10
+url: https://discourse.slicer.org/t/17016
+---
+
 # Animator Module - Not exporting correctly
 
 **Topic ID**: 17016

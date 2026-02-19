@@ -1,3 +1,10 @@
+---
+topic_id: 16991
+title: "How To Set Initial Size Of The Main Window"
+date: 2021-04-07
+url: https://discourse.slicer.org/t/16991
+---
+
 # How to set initial size of the main window?
 
 **Topic ID**: 16991

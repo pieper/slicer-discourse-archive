@@ -1,3 +1,10 @@
+---
+topic_id: 10377
+title: "Qradiobuttons And Parameter Nodes"
+date: 2020-02-21
+url: https://discourse.slicer.org/t/10377
+---
+
 # qRadioButtons and parameter nodes
 
 **Topic ID**: 10377

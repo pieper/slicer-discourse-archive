@@ -1,3 +1,10 @@
+---
+topic_id: 23373
+title: "Simpleitk Install Fails On Windows"
+date: 2022-05-11
+url: https://discourse.slicer.org/t/23373
+---
+
 # SimpleITK install fails on Windows
 
 **Topic ID**: 23373

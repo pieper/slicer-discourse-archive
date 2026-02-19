@@ -1,3 +1,10 @@
+---
+topic_id: 25970
+title: "Slow Application Start If Recently Used File Is On Unavailab"
+date: 2022-10-29
+url: https://discourse.slicer.org/t/25970
+---
+
 # Slow application start if recently used file is on unavailable network
 
 **Topic ID**: 25970

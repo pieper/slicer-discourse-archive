@@ -1,3 +1,10 @@
+---
+topic_id: 30175
+title: "3D Model Creation Through Multiple Image Slices"
+date: 2023-06-21
+url: https://discourse.slicer.org/t/30175
+---
+
 # 3D model creation through multiple image slices
 
 **Topic ID**: 30175

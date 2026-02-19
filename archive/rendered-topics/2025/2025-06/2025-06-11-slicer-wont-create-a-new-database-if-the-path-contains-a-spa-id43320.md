@@ -1,3 +1,10 @@
+---
+topic_id: 43320
+title: "Slicer Wont Create A New Database If The Path Contains A Spa"
+date: 2025-06-11
+url: https://discourse.slicer.org/t/43320
+---
+
 # Slicer won't create a new database if the path contains a space
 
 **Topic ID**: 43320

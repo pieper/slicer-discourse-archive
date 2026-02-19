@@ -1,3 +1,10 @@
+---
+topic_id: 19370
+title: "Transferring Mri Label Mask To Ct Segmentation"
+date: 2021-08-26
+url: https://discourse.slicer.org/t/19370
+---
+
 # Transferring MRI label mask to CT segmentation
 
 **Topic ID**: 19370

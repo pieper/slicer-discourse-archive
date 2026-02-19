@@ -1,3 +1,10 @@
+---
+topic_id: 36996
+title: "Exporting A Seg Nrrd Segmentation With Extent Of Original Im"
+date: 2024-06-25
+url: https://discourse.slicer.org/t/36996
+---
+
 # Exporting a ".seg.nrrd" Segmentation with Extent of Original Image
 
 **Topic ID**: 36996

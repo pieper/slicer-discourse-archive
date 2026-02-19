@@ -1,3 +1,10 @@
+---
+topic_id: 9646
+title: "Set A Node As A Parent For The Other Nodes"
+date: 2019-12-29
+url: https://discourse.slicer.org/t/9646
+---
+
 # Set a node as a parent for the other nodes
 
 **Topic ID**: 9646

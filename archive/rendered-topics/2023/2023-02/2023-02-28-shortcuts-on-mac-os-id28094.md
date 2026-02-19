@@ -1,3 +1,10 @@
+---
+topic_id: 28094
+title: "Shortcuts On Mac Os"
+date: 2023-02-28
+url: https://discourse.slicer.org/t/28094
+---
+
 # Shortcuts on mac os
 
 **Topic ID**: 28094

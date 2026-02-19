@@ -1,3 +1,10 @@
+---
+topic_id: 28746
+title: "Langchain Query The Complete 3D Slicer Documentation Script"
+date: 2023-04-04
+url: https://discourse.slicer.org/t/28746
+---
+
 # Langchain: Query the complete 3D Slicer documentation, script repository and FAQ (PDF and HTML) with OpenAI LLM
 
 **Topic ID**: 28746

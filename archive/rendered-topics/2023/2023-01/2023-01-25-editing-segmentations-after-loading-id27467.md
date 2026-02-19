@@ -1,3 +1,10 @@
+---
+topic_id: 27467
+title: "Editing Segmentations After Loading"
+date: 2023-01-25
+url: https://discourse.slicer.org/t/27467
+---
+
 # Editing segmentations after loading
 
 **Topic ID**: 27467

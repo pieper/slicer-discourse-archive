@@ -1,3 +1,10 @@
+---
+topic_id: 1282
+title: "Color Problems Accessing Slicer3D On An Ubuntu Install"
+date: 2017-10-25
+url: https://discourse.slicer.org/t/1282
+---
+
 # Color problems accessing Slicer3D on an Ubuntu install
 
 **Topic ID**: 1282

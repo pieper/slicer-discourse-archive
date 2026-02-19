@@ -1,3 +1,10 @@
+---
+topic_id: 3610
+title: "Error Compiling Qt5 Using Qt Easy Build Build Qt Sh Script"
+date: 2018-07-30
+url: https://discourse.slicer.org/t/3610
+---
+
 # Error compiling Qt5 using qt-easy-build/Build-qt.sh script
 
 **Topic ID**: 3610

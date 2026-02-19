@@ -1,3 +1,10 @@
+---
+topic_id: 6421
+title: "Load Python Function Without Module Custom Key Binding"
+date: 2019-04-06
+url: https://discourse.slicer.org/t/6421
+---
+
 # Load python function without module; custom key binding
 
 **Topic ID**: 6421

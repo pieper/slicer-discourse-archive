@@ -1,3 +1,10 @@
+---
+topic_id: 32004
+title: "Cant Hide Segmentations"
+date: 2023-10-03
+url: https://discourse.slicer.org/t/32004
+---
+
 # Can't Hide Segmentations
 
 **Topic ID**: 32004

@@ -1,3 +1,10 @@
+---
+topic_id: 14381
+title: "How To Fix Error Occured During Itk Connversion Error"
+date: 2020-11-02
+url: https://discourse.slicer.org/t/14381
+---
+
 # How to fix "Error occured during ITK connversion" Error
 
 **Topic ID**: 14381

@@ -1,3 +1,10 @@
+---
+topic_id: 31843
+title: "3D Volume Does Not Show Up In Scene Created In An Old Versio"
+date: 2023-09-22
+url: https://discourse.slicer.org/t/31843
+---
+
 # 3D volume does not show up in scene created in an old version of Slicer
 
 **Topic ID**: 31843

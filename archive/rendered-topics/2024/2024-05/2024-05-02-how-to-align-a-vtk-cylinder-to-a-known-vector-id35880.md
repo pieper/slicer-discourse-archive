@@ -1,3 +1,10 @@
+---
+topic_id: 35880
+title: "How To Align A Vtk Cylinder To A Known Vector"
+date: 2024-05-02
+url: https://discourse.slicer.org/t/35880
+---
+
 # How to Align a vtk Cylinder to a Known Vector
 
 **Topic ID**: 35880

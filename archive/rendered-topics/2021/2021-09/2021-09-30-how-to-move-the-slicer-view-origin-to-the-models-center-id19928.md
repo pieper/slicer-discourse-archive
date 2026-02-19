@@ -1,3 +1,10 @@
+---
+topic_id: 19928
+title: "How To Move The Slicer View Origin To The Models Center"
+date: 2021-09-30
+url: https://discourse.slicer.org/t/19928
+---
+
 # How to move the Slicer View origin to the model's center?
 
 **Topic ID**: 19928

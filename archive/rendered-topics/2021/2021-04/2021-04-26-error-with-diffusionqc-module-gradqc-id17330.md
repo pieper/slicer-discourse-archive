@@ -1,3 +1,10 @@
+---
+topic_id: 17330
+title: "Error With Diffusionqc Module Gradqc"
+date: 2021-04-26
+url: https://discourse.slicer.org/t/17330
+---
+
 # Error with DiffusionQC module (GradQC)
 
 **Topic ID**: 17330

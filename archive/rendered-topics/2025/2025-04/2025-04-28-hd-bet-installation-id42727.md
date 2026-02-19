@@ -1,3 +1,10 @@
+---
+topic_id: 42727
+title: "Hd Bet Installation"
+date: 2025-04-28
+url: https://discourse.slicer.org/t/42727
+---
+
 # HD-BET installation
 
 **Topic ID**: 42727

@@ -1,3 +1,10 @@
+---
+topic_id: 26696
+title: "Centerline Strange Error Using No Main Window"
+date: 2022-12-12
+url: https://discourse.slicer.org/t/26696
+---
+
 # CenterLine strange error - Using `--no-main--window`
 
 **Topic ID**: 26696

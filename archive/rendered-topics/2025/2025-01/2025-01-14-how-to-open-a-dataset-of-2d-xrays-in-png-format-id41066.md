@@ -1,3 +1,10 @@
+---
+topic_id: 41066
+title: "How To Open A Dataset Of 2D Xrays In Png Format"
+date: 2025-01-14
+url: https://discourse.slicer.org/t/41066
+---
+
 # how to open a Dataset of 2D xrays in PNG format ? 
 
 **Topic ID**: 41066

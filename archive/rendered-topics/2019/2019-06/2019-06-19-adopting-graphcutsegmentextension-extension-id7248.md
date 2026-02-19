@@ -1,3 +1,10 @@
+---
+topic_id: 7248
+title: "Adopting Graphcutsegmentextension Extension"
+date: 2019-06-19
+url: https://discourse.slicer.org/t/7248
+---
+
 # Adopting GraphCutSegmentExtension extension?
 
 **Topic ID**: 7248

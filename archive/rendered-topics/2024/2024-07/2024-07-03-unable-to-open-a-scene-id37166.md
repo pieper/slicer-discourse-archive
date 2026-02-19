@@ -1,3 +1,10 @@
+---
+topic_id: 37166
+title: "Unable To Open A Scene"
+date: 2024-07-03
+url: https://discourse.slicer.org/t/37166
+---
+
 # Unable to open a scene
 
 **Topic ID**: 37166

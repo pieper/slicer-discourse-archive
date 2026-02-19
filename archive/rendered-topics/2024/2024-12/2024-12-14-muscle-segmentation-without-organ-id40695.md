@@ -1,3 +1,10 @@
+---
+topic_id: 40695
+title: "Muscle Segmentation Without Organ"
+date: 2024-12-14
+url: https://discourse.slicer.org/t/40695
+---
+
 # Muscle Segmentation without Organ
 
 **Topic ID**: 40695

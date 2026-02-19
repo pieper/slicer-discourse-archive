@@ -1,3 +1,10 @@
+---
+topic_id: 3807
+title: "Model Slice Intersection Visibility Only On Certain Slice Vi"
+date: 2018-08-16
+url: https://discourse.slicer.org/t/3807
+---
+
 # Model slice intersection visibility - only on certain slice views
 
 **Topic ID**: 3807

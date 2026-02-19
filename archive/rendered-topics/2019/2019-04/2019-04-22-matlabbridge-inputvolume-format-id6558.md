@@ -1,3 +1,10 @@
+---
+topic_id: 6558
+title: "Matlabbridge Inputvolume Format"
+date: 2019-04-22
+url: https://discourse.slicer.org/t/6558
+---
+
 # MatlabBridge inputvolume format
 
 **Topic ID**: 6558

@@ -1,3 +1,10 @@
+---
+topic_id: 6719
+title: "How To Add Free Shape To The 3D Model"
+date: 2019-05-07
+url: https://discourse.slicer.org/t/6719
+---
+
 # How to Add free shape to the 3D model
 
 **Topic ID**: 6719

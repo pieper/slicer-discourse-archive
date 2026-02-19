@@ -1,3 +1,10 @@
+---
+topic_id: 6897
+title: "Choosing Separate Jpeg Image Series For Axial And Sagittal V"
+date: 2019-05-23
+url: https://discourse.slicer.org/t/6897
+---
+
 # Choosing separate jpeg image series for axial and sagittal view for volume rendering
 
 **Topic ID**: 6897

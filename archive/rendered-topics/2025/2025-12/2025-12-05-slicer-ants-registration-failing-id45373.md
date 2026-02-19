@@ -1,3 +1,10 @@
+---
+topic_id: 45373
+title: "Slicer Ants Registration Failing"
+date: 2025-12-05
+url: https://discourse.slicer.org/t/45373
+---
+
 # Slicer ANTs Registration Failing
 
 **Topic ID**: 45373

@@ -1,3 +1,10 @@
+---
+topic_id: 28828
+title: "Anyone Know How To Reconstruct Thin Slice Ct Into Thick Slic"
+date: 2023-04-10
+url: https://discourse.slicer.org/t/28828
+---
+
 # Anyone know how to reconstruct thin-slice CT into thick-slice CT with 3D-slicer.
 
 **Topic ID**: 28828

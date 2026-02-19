@@ -1,3 +1,10 @@
+---
+topic_id: 34409
+title: "Data Save Error Failed To Save Scene"
+date: 2024-02-19
+url: https://discourse.slicer.org/t/34409
+---
+
 # Data save error: failed to save scene
 
 **Topic ID**: 34409

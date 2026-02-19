@@ -1,3 +1,10 @@
+---
+topic_id: 28163
+title: "Regarding Reconstruct 4D Cine Mri"
+date: 2023-03-04
+url: https://discourse.slicer.org/t/28163
+---
+
 # Regarding Reconstruct 4D cine MRI
 
 **Topic ID**: 28163

@@ -1,3 +1,10 @@
+---
+topic_id: 239
+title: "Nightly Packages Availability"
+date: 2017-05-02
+url: https://discourse.slicer.org/t/239
+---
+
 # Nightly packages availability
 
 **Topic ID**: 239

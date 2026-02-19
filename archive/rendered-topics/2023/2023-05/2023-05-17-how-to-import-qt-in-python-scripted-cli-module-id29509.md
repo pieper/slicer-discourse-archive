@@ -1,3 +1,10 @@
+---
+topic_id: 29509
+title: "How To Import Qt In Python Scripted Cli Module"
+date: 2023-05-17
+url: https://discourse.slicer.org/t/29509
+---
+
 # How to import Qt in Python scripted CLI module?
 
 **Topic ID**: 29509

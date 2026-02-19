@@ -1,3 +1,10 @@
+---
+topic_id: 31566
+title: "Load Scene Into Slicer"
+date: 2023-09-05
+url: https://discourse.slicer.org/t/31566
+---
+
 # Load scene into Slicer
 
 **Topic ID**: 31566

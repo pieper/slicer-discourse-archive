@@ -1,3 +1,10 @@
+---
+topic_id: 25640
+title: "Transform A Labelmap With A Transorm And Save It"
+date: 2022-10-11
+url: https://discourse.slicer.org/t/25640
+---
+
 # Transform a labelmap with a transorm and save it
 
 **Topic ID**: 25640

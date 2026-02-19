@@ -1,3 +1,10 @@
+---
+topic_id: 37446
+title: "Creating Lateral Cephalometry From Skull Ct Cbct"
+date: 2024-07-18
+url: https://discourse.slicer.org/t/37446
+---
+
 # Creating lateral Cephalometry from skull ct / Cbct
 
 **Topic ID**: 37446

@@ -1,3 +1,10 @@
+---
+topic_id: 24041
+title: "How Could I Measure The Mandibular Condyle Rotation Using 3D"
+date: 2022-06-25
+url: https://discourse.slicer.org/t/24041
+---
+
 # How could I measure the mandibular condyle rotation using 3D Slicer?
 
 **Topic ID**: 24041

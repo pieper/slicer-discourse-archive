@@ -1,3 +1,10 @@
+---
+topic_id: 26522
+title: "How Rotate Images In A Sequence"
+date: 2022-11-30
+url: https://discourse.slicer.org/t/26522
+---
+
 # How rotate images in a sequence?
 
 **Topic ID**: 26522

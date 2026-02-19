@@ -1,3 +1,10 @@
+---
+topic_id: 24475
+title: "Coverted Model To Segmentations Over Smoothing"
+date: 2022-07-25
+url: https://discourse.slicer.org/t/24475
+---
+
 # coverted model to segmentations over-smoothing
 
 **Topic ID**: 24475

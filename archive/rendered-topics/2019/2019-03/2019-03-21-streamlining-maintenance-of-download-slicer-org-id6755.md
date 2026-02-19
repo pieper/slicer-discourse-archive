@@ -1,3 +1,10 @@
+---
+topic_id: 6755
+title: "Streamlining Maintenance Of Download Slicer Org"
+date: 2019-03-21
+url: https://discourse.slicer.org/t/6755
+---
+
 # Streamlining maintenance of download.slicer.org
 
 **Topic ID**: 6755

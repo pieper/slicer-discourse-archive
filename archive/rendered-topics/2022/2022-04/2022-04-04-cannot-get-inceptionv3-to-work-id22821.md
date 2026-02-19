@@ -1,3 +1,10 @@
+---
+topic_id: 22821
+title: "Cannot Get Inceptionv3 To Work"
+date: 2022-04-04
+url: https://discourse.slicer.org/t/22821
+---
+
 # Cannot get InceptionV3 to work
 
 **Topic ID**: 22821

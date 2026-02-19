@@ -1,3 +1,10 @@
+---
+topic_id: 14673
+title: "How To Read Dvf From Dicom And Save In Another Compact Forma"
+date: 2020-11-18
+url: https://discourse.slicer.org/t/14673
+---
+
 # How to read DVF from dicom and save in another compact format
 
 **Topic ID**: 14673

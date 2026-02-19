@@ -1,3 +1,10 @@
+---
+topic_id: 12476
+title: "Compiled Files Pyc"
+date: 2020-07-10
+url: https://discourse.slicer.org/t/12476
+---
+
 # Compiled files .pyc
 
 **Topic ID**: 12476

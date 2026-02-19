@@ -1,3 +1,10 @@
+---
+topic_id: 9183
+title: "Importing A 3Dslicer Body Model Into Unreal Game Engine"
+date: 2019-11-17
+url: https://discourse.slicer.org/t/9183
+---
+
 # Importing a 3DSlicer body model into Unreal game engine
 
 **Topic ID**: 9183

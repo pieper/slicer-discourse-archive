@@ -1,3 +1,10 @@
+---
+topic_id: 3431
+title: "Volume Rendering With Python"
+date: 2018-07-09
+url: https://discourse.slicer.org/t/3431
+---
+
 # Volume Rendering with Python
 
 **Topic ID**: 3431

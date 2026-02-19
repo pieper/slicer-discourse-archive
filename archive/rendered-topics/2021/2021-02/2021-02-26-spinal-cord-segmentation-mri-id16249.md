@@ -1,3 +1,10 @@
+---
+topic_id: 16249
+title: "Spinal Cord Segmentation Mri"
+date: 2021-02-26
+url: https://discourse.slicer.org/t/16249
+---
+
 # Spinal cord segmentation MRI
 
 **Topic ID**: 16249

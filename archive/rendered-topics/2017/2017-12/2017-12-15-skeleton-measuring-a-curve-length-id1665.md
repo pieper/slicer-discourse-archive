@@ -1,3 +1,10 @@
+---
+topic_id: 1665
+title: "Skeleton Measuring A Curve Length"
+date: 2017-12-15
+url: https://discourse.slicer.org/t/1665
+---
+
 # Skeleton, measuring a curve length
 
 **Topic ID**: 1665

@@ -1,3 +1,10 @@
+---
+topic_id: 19644
+title: "Trying To Integrate Qslicermarkupsplacewidget Into App"
+date: 2021-09-13
+url: https://discourse.slicer.org/t/19644
+---
+
 # Trying to integrate qSlicerMarkupsPlaceWidget into app
 
 **Topic ID**: 19644

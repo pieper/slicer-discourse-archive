@@ -1,3 +1,10 @@
+---
+topic_id: 22509
+title: "Only Show Base Color"
+date: 2022-03-15
+url: https://discourse.slicer.org/t/22509
+---
+
 # Only show base color
 
 **Topic ID**: 22509

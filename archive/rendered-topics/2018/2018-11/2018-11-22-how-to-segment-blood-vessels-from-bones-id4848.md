@@ -1,3 +1,10 @@
+---
+topic_id: 4848
+title: "How To Segment Blood Vessels From Bones"
+date: 2018-11-22
+url: https://discourse.slicer.org/t/4848
+---
+
 # How to segment blood vessels from bones?
 
 **Topic ID**: 4848

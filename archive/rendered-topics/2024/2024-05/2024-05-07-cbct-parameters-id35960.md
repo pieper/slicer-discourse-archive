@@ -1,3 +1,10 @@
+---
+topic_id: 35960
+title: "Cbct Parameters"
+date: 2024-05-07
+url: https://discourse.slicer.org/t/35960
+---
+
 # CBCT parameters
 
 **Topic ID**: 35960

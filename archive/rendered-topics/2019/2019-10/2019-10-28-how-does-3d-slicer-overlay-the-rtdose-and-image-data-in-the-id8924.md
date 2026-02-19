@@ -1,3 +1,10 @@
+---
+topic_id: 8924
+title: "How Does 3D Slicer Overlay The Rtdose And Image Data In The"
+date: 2019-10-28
+url: https://discourse.slicer.org/t/8924
+---
+
 # How does 3D Slicer overlay the RTDOSE and Image data in the correct position?
 
 **Topic ID**: 8924

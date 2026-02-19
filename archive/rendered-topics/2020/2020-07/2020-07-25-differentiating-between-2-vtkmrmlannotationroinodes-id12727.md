@@ -1,3 +1,10 @@
+---
+topic_id: 12727
+title: "Differentiating Between 2 Vtkmrmlannotationroinodes"
+date: 2020-07-25
+url: https://discourse.slicer.org/t/12727
+---
+
 # Differentiating between 2 vtkMRMLAnnotationROINodes
 
 **Topic ID**: 12727

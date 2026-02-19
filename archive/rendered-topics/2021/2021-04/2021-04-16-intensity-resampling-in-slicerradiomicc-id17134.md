@@ -1,3 +1,10 @@
+---
+topic_id: 17134
+title: "Intensity Resampling In Slicerradiomicc"
+date: 2021-04-16
+url: https://discourse.slicer.org/t/17134
+---
+
 # Intensity Resampling in SlicerRadiomicc
 
 **Topic ID**: 17134

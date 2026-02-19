@@ -1,3 +1,10 @@
+---
+topic_id: 11652
+title: "Registration Time With Cpu Speed"
+date: 2020-05-21
+url: https://discourse.slicer.org/t/11652
+---
+
 # Registration time with CPU speed
 
 **Topic ID**: 11652

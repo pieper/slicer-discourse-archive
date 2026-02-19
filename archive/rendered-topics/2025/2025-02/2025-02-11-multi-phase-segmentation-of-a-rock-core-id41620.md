@@ -1,3 +1,10 @@
+---
+topic_id: 41620
+title: "Multi Phase Segmentation Of A Rock Core"
+date: 2025-02-11
+url: https://discourse.slicer.org/t/41620
+---
+
 # Multi-phase segmentation of a rock core
 
 **Topic ID**: 41620

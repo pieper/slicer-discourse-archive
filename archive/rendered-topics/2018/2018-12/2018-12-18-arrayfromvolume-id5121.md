@@ -1,3 +1,10 @@
+---
+topic_id: 5121
+title: "Arrayfromvolume"
+date: 2018-12-18
+url: https://discourse.slicer.org/t/5121
+---
+
 # arrayFromVolume
 
 **Topic ID**: 5121

@@ -1,3 +1,10 @@
+---
+topic_id: 12952
+title: "Converting Multi Channel Mask Or Colored Mask To Colored Dic"
+date: 2020-08-11
+url: https://discourse.slicer.org/t/12952
+---
+
 # Converting multi channel mask or colored mask to colored DICO Mask
 
 **Topic ID**: 12952

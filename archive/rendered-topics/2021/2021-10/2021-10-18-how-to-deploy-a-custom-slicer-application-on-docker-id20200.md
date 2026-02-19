@@ -1,3 +1,10 @@
+---
+topic_id: 20200
+title: "How To Deploy A Custom Slicer Application On Docker"
+date: 2021-10-18
+url: https://discourse.slicer.org/t/20200
+---
+
 # How to deploy a custom slicer application on docker?
 
 **Topic ID**: 20200

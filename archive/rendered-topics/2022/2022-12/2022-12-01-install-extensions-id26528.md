@@ -1,3 +1,10 @@
+---
+topic_id: 26528
+title: "Install Extensions"
+date: 2022-12-01
+url: https://discourse.slicer.org/t/26528
+---
+
 # Install extensions
 
 **Topic ID**: 26528

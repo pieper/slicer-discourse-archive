@@ -1,3 +1,10 @@
+---
+topic_id: 33264
+title: "Custom Mouse Interaction With Model Node"
+date: 2023-12-06
+url: https://discourse.slicer.org/t/33264
+---
+
 # Custom mouse interaction with model node
 
 **Topic ID**: 33264

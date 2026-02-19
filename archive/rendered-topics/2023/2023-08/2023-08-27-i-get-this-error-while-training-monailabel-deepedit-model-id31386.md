@@ -1,3 +1,10 @@
+---
+topic_id: 31386
+title: "I Get This Error While Training Monailabel Deepedit Model"
+date: 2023-08-27
+url: https://discourse.slicer.org/t/31386
+---
+
 # I get this error while training MonaiLabel Deepedit model
 
 **Topic ID**: 31386

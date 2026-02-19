@@ -1,3 +1,10 @@
+---
+topic_id: 32870
+title: "Convert Tck To Vtk Streamlines"
+date: 2023-11-17
+url: https://discourse.slicer.org/t/32870
+---
+
 # Convert .tck to .vtk streamlines
 
 **Topic ID**: 32870

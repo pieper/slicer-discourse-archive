@@ -1,3 +1,10 @@
+---
+topic_id: 27738
+title: "Push 2D Slice To Slice View"
+date: 2023-02-10
+url: https://discourse.slicer.org/t/27738
+---
+
 # Push 2D slice to slice view
 
 **Topic ID**: 27738

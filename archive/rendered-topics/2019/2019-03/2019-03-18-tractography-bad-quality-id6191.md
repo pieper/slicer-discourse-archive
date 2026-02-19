@@ -1,3 +1,10 @@
+---
+topic_id: 6191
+title: "Tractography Bad Quality"
+date: 2019-03-18
+url: https://discourse.slicer.org/t/6191
+---
+
 # Tractography - bad quality
 
 **Topic ID**: 6191

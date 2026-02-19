@@ -1,3 +1,10 @@
+---
+topic_id: 35700
+title: "How To Get Output Result In Scriptedcli Module"
+date: 2024-04-24
+url: https://discourse.slicer.org/t/35700
+---
+
 # How to get output result in ScriptedCLI module?
 
 **Topic ID**: 35700

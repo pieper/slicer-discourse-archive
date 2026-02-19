@@ -1,3 +1,10 @@
+---
+topic_id: 26241
+title: "Nhdr Format Direction"
+date: 2022-11-15
+url: https://discourse.slicer.org/t/26241
+---
+
 # NHDR Format direction
 
 **Topic ID**: 26241

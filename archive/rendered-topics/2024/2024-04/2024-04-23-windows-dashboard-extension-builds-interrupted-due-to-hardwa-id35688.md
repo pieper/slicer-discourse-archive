@@ -1,3 +1,10 @@
+---
+topic_id: 35688
+title: "Windows Dashboard Extension Builds Interrupted Due To Hardwa"
+date: 2024-04-23
+url: https://discourse.slicer.org/t/35688
+---
+
 # Windows dashboard: Extension builds interrupted due to hardware issue
 
 **Topic ID**: 35688

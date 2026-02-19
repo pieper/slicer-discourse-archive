@@ -1,3 +1,10 @@
+---
+topic_id: 11557
+title: "Question Related To Roi Preset Voxel Count Or Edge Length In"
+date: 2020-05-15
+url: https://discourse.slicer.org/t/11557
+---
+
 # Question related to ROI: preset voxel count or edge length in a square(rectangle effect) roi
 
 **Topic ID**: 11557

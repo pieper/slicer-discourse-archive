@@ -1,3 +1,10 @@
+---
+topic_id: 19933
+title: "Is There A Way To Order Loaded Dicom Slices By File Name"
+date: 2021-09-30
+url: https://discourse.slicer.org/t/19933
+---
+
 # Is there a way to order loaded dicom slices by file name?
 
 **Topic ID**: 19933

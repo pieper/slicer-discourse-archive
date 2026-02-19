@@ -1,3 +1,10 @@
+---
+topic_id: 8185
+title: "Access The 3X3 Diffusion Tensor Matrix Of Dti Images"
+date: 2019-08-26
+url: https://discourse.slicer.org/t/8185
+---
+
 # Access the 3x3 diffusion tensor matrix of dti images
 
 **Topic ID**: 8185

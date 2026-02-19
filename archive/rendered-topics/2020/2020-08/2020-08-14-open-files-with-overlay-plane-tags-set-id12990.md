@@ -1,3 +1,10 @@
+---
+topic_id: 12990
+title: "Open Files With Overlay Plane Tags Set"
+date: 2020-08-14
+url: https://discourse.slicer.org/t/12990
+---
+
 # Open files with Overlay Plane tags set
 
 **Topic ID**: 12990

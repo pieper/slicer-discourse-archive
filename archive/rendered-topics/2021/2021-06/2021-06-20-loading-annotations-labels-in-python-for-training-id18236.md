@@ -1,3 +1,10 @@
+---
+topic_id: 18236
+title: "Loading Annotations Labels In Python For Training"
+date: 2021-06-20
+url: https://discourse.slicer.org/t/18236
+---
+
 # Loading annotations/labels in python for training
 
 **Topic ID**: 18236

@@ -1,3 +1,10 @@
+---
+topic_id: 25758
+title: "Straight Long Gaps When Segmenting"
+date: 2022-10-18
+url: https://discourse.slicer.org/t/25758
+---
+
 # Straight long gaps when segmenting
 
 **Topic ID**: 25758

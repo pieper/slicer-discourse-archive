@@ -1,3 +1,10 @@
+---
+topic_id: 43826
+title: "Slicerpreview Python Default Encoding Is Troublesome Is It G"
+date: 2025-07-23
+url: https://discourse.slicer.org/t/43826
+---
+
 # SlicerPreview: python default encoding is troublesome. Is it generally observed?
 
 **Topic ID**: 43826

@@ -1,3 +1,10 @@
+---
+topic_id: 42947
+title: "How To Generate Ras Bounding Box Possible To Adjust By Users"
+date: 2025-05-15
+url: https://discourse.slicer.org/t/42947
+---
+
 # How to generate RAS bounding box possible to adjust by users 
 
 **Topic ID**: 42947

@@ -1,3 +1,10 @@
+---
+topic_id: 33841
+title: "Vmtk Automatic Centerline And Export Control Points As Xyz C"
+date: 2024-01-17
+url: https://discourse.slicer.org/t/33841
+---
+
 # VMTK automatic centerline and export control points as XYZ coordinates
 
 **Topic ID**: 33841

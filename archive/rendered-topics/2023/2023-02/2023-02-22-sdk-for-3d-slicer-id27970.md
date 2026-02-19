@@ -1,3 +1,10 @@
+---
+topic_id: 27970
+title: "Sdk For 3D Slicer"
+date: 2023-02-22
+url: https://discourse.slicer.org/t/27970
+---
+
 # Sdk for 3d slicer
 
 **Topic ID**: 27970

@@ -1,3 +1,10 @@
+---
+topic_id: 20593
+title: "How Can I Debug The Basic Module Of 3D Slicer"
+date: 2021-11-12
+url: https://discourse.slicer.org/t/20593
+---
+
 # How can I debug the Basic Module of 3D Slicer?
 
 **Topic ID**: 20593

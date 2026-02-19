@@ -1,3 +1,10 @@
+---
+topic_id: 8162
+title: "Using Slicer And Slicer Modules From Command Line"
+date: 2019-08-24
+url: https://discourse.slicer.org/t/8162
+---
+
 # Using Slicer and Slicer Modules from Command-Line
 
 **Topic ID**: 8162

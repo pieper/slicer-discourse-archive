@@ -1,3 +1,10 @@
+---
+topic_id: 6016
+title: "How To Compute 3X3 Diffusion Tensor At Each Voxel"
+date: 2019-03-05
+url: https://discourse.slicer.org/t/6016
+---
+
 # How to compute 3x3 diffusion tensor at each voxel
 
 **Topic ID**: 6016

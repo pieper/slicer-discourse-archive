@@ -1,3 +1,10 @@
+---
+topic_id: 18029
+title: "How To Disable Right Click Zoom Function Individually"
+date: 2021-06-09
+url: https://discourse.slicer.org/t/18029
+---
+
 # How to disable right click zoom function individually?
 
 **Topic ID**: 18029

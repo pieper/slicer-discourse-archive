@@ -1,3 +1,10 @@
+---
+topic_id: 12487
+title: "Simplified Web Based Core Application"
+date: 2020-07-11
+url: https://discourse.slicer.org/t/12487
+---
+
 # Simplified web based core application
 
 **Topic ID**: 12487

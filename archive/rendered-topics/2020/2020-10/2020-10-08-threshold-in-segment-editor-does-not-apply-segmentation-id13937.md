@@ -1,3 +1,10 @@
+---
+topic_id: 13937
+title: "Threshold In Segment Editor Does Not Apply Segmentation"
+date: 2020-10-08
+url: https://discourse.slicer.org/t/13937
+---
+
 # Threshold in Segment Editor does not apply Segmentation
 
 **Topic ID**: 13937

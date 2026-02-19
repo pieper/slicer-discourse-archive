@@ -1,3 +1,10 @@
+---
+topic_id: 17046
+title: "Brain Resample Module Issue"
+date: 2021-04-12
+url: https://discourse.slicer.org/t/17046
+---
+
 # Brain resample module issue
 
 **Topic ID**: 17046

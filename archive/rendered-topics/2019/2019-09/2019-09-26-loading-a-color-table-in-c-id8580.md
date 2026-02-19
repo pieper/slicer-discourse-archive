@@ -1,3 +1,10 @@
+---
+topic_id: 8580
+title: "Loading A Color Table In C"
+date: 2019-09-26
+url: https://discourse.slicer.org/t/8580
+---
+
 # Loading a color table in c++
 
 **Topic ID**: 8580

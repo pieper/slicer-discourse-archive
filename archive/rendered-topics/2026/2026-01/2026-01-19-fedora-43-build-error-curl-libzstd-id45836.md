@@ -1,3 +1,10 @@
+---
+topic_id: 45836
+title: "Fedora 43 Build Error Curl Libzstd"
+date: 2026-01-19
+url: https://discourse.slicer.org/t/45836
+---
+
 # Fedora 43 build error (curl / libzstd)
 
 **Topic ID**: 45836

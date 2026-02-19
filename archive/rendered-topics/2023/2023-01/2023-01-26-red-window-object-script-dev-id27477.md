@@ -1,3 +1,10 @@
+---
+topic_id: 27477
+title: "Red Window Object Script Dev"
+date: 2023-01-26
+url: https://discourse.slicer.org/t/27477
+---
+
 # Red window object - Script Dev
 
 **Topic ID**: 27477

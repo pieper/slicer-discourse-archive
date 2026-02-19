@@ -1,3 +1,10 @@
+---
+topic_id: 35784
+title: "Question About System Requirements On Mac"
+date: 2024-04-28
+url: https://discourse.slicer.org/t/35784
+---
+
 # Question about system requirements on Mac
 
 **Topic ID**: 35784

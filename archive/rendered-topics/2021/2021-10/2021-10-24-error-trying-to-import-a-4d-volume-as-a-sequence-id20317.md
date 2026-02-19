@@ -1,3 +1,10 @@
+---
+topic_id: 20317
+title: "Error Trying To Import A 4D Volume As A Sequence"
+date: 2021-10-24
+url: https://discourse.slicer.org/t/20317
+---
+
 # Error trying to import a 4D volume as a sequence
 
 **Topic ID**: 20317

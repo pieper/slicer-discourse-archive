@@ -1,3 +1,10 @@
+---
+topic_id: 40153
+title: "Conversion Of Jpg Files Into Dicom In Mri Images"
+date: 2024-11-12
+url: https://discourse.slicer.org/t/40153
+---
+
 # Conversion of .jpg files into DICOM in MRI images
 
 **Topic ID**: 40153

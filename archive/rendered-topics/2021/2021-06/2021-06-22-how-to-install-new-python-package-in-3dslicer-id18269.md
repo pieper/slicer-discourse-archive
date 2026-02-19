@@ -1,3 +1,10 @@
+---
+topic_id: 18269
+title: "How To Install New Python Package In 3Dslicer"
+date: 2021-06-22
+url: https://discourse.slicer.org/t/18269
+---
+
 # How to install new python package in 3dslicer
 
 **Topic ID**: 18269

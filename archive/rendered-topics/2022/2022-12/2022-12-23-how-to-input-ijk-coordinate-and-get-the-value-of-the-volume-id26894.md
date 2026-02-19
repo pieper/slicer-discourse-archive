@@ -1,3 +1,10 @@
+---
+topic_id: 26894
+title: "How To Input Ijk Coordinate And Get The Value Of The Volume"
+date: 2022-12-23
+url: https://discourse.slicer.org/t/26894
+---
+
 # How to input IJK coordinate and get the value of the volume as txt
 
 **Topic ID**: 26894

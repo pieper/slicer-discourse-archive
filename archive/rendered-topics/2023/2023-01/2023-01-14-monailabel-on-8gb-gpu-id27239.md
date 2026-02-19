@@ -1,3 +1,10 @@
+---
+topic_id: 27239
+title: "Monailabel On 8Gb Gpu"
+date: 2023-01-14
+url: https://discourse.slicer.org/t/27239
+---
+
 # MonaiLabel on 8GB GPU
 
 **Topic ID**: 27239

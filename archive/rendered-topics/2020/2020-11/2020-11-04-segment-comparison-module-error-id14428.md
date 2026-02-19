@@ -1,3 +1,10 @@
+---
+topic_id: 14428
+title: "Segment Comparison Module Error"
+date: 2020-11-04
+url: https://discourse.slicer.org/t/14428
+---
+
 # Segment Comparison module - error
 
 **Topic ID**: 14428

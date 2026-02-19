@@ -1,3 +1,10 @@
+---
+topic_id: 1098
+title: "How To Segment The Invertebrate Disc Between L4 And L5"
+date: 2017-09-21
+url: https://discourse.slicer.org/t/1098
+---
+
 # How to segment the invertebrate disc between L4 and L5?
 
 **Topic ID**: 1098

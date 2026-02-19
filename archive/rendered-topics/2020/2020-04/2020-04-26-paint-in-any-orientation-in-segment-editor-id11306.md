@@ -1,3 +1,10 @@
+---
+topic_id: 11306
+title: "Paint In Any Orientation In Segment Editor"
+date: 2020-04-26
+url: https://discourse.slicer.org/t/11306
+---
+
 # Paint in any orientation in segment editor
 
 **Topic ID**: 11306

@@ -1,3 +1,10 @@
+---
+topic_id: 37040
+title: "Monai Auto3Dseg For Pigs"
+date: 2024-06-26
+url: https://discourse.slicer.org/t/37040
+---
+
 # MONAI auto3dseg for pigs
 
 **Topic ID**: 37040

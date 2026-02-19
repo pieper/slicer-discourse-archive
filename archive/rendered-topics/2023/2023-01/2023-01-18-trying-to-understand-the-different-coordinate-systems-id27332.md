@@ -1,3 +1,10 @@
+---
+topic_id: 27332
+title: "Trying To Understand The Different Coordinate Systems"
+date: 2023-01-18
+url: https://discourse.slicer.org/t/27332
+---
+
 # Trying to understand the different coordinate systems
 
 **Topic ID**: 27332

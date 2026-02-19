@@ -1,3 +1,10 @@
+---
+topic_id: 5221
+title: "Segmenteditorextraeffects Extension Installed But Cannot Be"
+date: 2018-12-29
+url: https://discourse.slicer.org/t/5221
+---
+
 # SegmentEditorExtraEffects extension installed but cannot be found in modules
 
 **Topic ID**: 5221

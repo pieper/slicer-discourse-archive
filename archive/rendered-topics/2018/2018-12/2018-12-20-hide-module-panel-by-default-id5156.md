@@ -1,3 +1,10 @@
+---
+topic_id: 5156
+title: "Hide Module Panel By Default"
+date: 2018-12-20
+url: https://discourse.slicer.org/t/5156
+---
+
 # Hide module panel by default
 
 **Topic ID**: 5156

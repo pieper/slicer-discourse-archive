@@ -1,3 +1,10 @@
+---
+topic_id: 34152
+title: "Cortical Vessel Segmentation"
+date: 2024-02-05
+url: https://discourse.slicer.org/t/34152
+---
+
 # Cortical vessel segmentation
 
 **Topic ID**: 34152

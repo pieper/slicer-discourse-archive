@@ -1,3 +1,10 @@
+---
+topic_id: 33241
+title: "Change Setting To Harden Regularization Transform"
+date: 2023-12-05
+url: https://discourse.slicer.org/t/33241
+---
+
 # Change setting to "harden regularization transform"
 
 **Topic ID**: 33241

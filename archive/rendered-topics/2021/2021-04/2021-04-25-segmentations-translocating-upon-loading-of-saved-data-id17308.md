@@ -1,3 +1,10 @@
+---
+topic_id: 17308
+title: "Segmentations Translocating Upon Loading Of Saved Data"
+date: 2021-04-25
+url: https://discourse.slicer.org/t/17308
+---
+
 # Segmentations translocating upon loading of saved data
 
 **Topic ID**: 17308

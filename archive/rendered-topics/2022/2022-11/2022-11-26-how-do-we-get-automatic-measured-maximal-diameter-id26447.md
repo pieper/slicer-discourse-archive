@@ -1,3 +1,10 @@
+---
+topic_id: 26447
+title: "How Do We Get Automatic Measured Maximal Diameter"
+date: 2022-11-26
+url: https://discourse.slicer.org/t/26447
+---
+
 # How do we get automatic measured maximal diameter?
 
 **Topic ID**: 26447

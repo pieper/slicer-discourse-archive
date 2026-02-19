@@ -1,3 +1,10 @@
+---
+topic_id: 24029
+title: "Improve Markup Rendering Speed Convert To Spherical Surface"
+date: 2022-06-24
+url: https://discourse.slicer.org/t/24029
+---
+
 # Improve Markup Rendering Speed (convert to spherical surface?)
 
 **Topic ID**: 24029

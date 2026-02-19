@@ -1,3 +1,10 @@
+---
+topic_id: 43731
+title: "Secgmentation Of A Small Dental Cbct"
+date: 2025-07-15
+url: https://discourse.slicer.org/t/43731
+---
+
 # Secgmentation of a small dental CBCT
 
 **Topic ID**: 43731

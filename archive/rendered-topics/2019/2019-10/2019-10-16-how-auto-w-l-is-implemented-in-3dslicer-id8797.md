@@ -1,3 +1,10 @@
+---
+topic_id: 8797
+title: "How Auto W L Is Implemented In 3Dslicer"
+date: 2019-10-16
+url: https://discourse.slicer.org/t/8797
+---
+
 # How auto W/L is implemented in 3DSlicer?
 
 **Topic ID**: 8797

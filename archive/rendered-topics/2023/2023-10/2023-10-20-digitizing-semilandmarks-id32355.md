@@ -1,3 +1,10 @@
+---
+topic_id: 32355
+title: "Digitizing Semilandmarks"
+date: 2023-10-20
+url: https://discourse.slicer.org/t/32355
+---
+
 # Digitizing semilandmarks 
 
 **Topic ID**: 32355

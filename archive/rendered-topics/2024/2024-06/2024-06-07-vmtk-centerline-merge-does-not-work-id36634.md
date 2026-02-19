@@ -1,3 +1,10 @@
+---
+topic_id: 36634
+title: "Vmtk Centerline Merge Does Not Work"
+date: 2024-06-07
+url: https://discourse.slicer.org/t/36634
+---
+
 # VMTK centerline merge does not work
 
 **Topic ID**: 36634

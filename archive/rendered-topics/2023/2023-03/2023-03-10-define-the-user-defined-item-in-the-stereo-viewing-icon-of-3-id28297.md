@@ -1,3 +1,10 @@
+---
+topic_id: 28297
+title: "Define The User Defined Item In The Stereo Viewing Icon Of 3"
+date: 2023-03-10
+url: https://discourse.slicer.org/t/28297
+---
+
 # Define the user-defined item in the Stereo viewing icon of 3D view 
 
 **Topic ID**: 28297

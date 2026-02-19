@@ -1,3 +1,10 @@
+---
+topic_id: 19846
+title: "Mandible Reconstruction Extension How To Get Feedback From U"
+date: 2021-09-24
+url: https://discourse.slicer.org/t/19846
+---
+
 # Mandible reconstruction extension - How to get feedback from users?
 
 **Topic ID**: 19846

@@ -1,3 +1,10 @@
+---
+topic_id: 23408
+title: "Slicercat Error With Hdf5"
+date: 2022-05-13
+url: https://discourse.slicer.org/t/23408
+---
+
 # SlicerCAT error with hdf5
 
 **Topic ID**: 23408

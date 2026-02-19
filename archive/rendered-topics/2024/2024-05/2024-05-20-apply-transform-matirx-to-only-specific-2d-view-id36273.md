@@ -1,3 +1,10 @@
+---
+topic_id: 36273
+title: "Apply Transform Matirx To Only Specific 2D View"
+date: 2024-05-20
+url: https://discourse.slicer.org/t/36273
+---
+
 # Apply transform matirx to only specific 2D view
 
 **Topic ID**: 36273

@@ -1,3 +1,10 @@
+---
+topic_id: 14296
+title: "How To Maintained Consistent Colortable Across Different Seg"
+date: 2020-10-29
+url: https://discourse.slicer.org/t/14296
+---
+
 # How to maintained consistent colortable across different segmentation annotation
 
 **Topic ID**: 14296

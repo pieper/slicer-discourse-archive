@@ -1,3 +1,10 @@
+---
+topic_id: 26031
+title: "Which Module Can Export The Relevant Data Of The Fiber Bundl"
+date: 2022-11-02
+url: https://discourse.slicer.org/t/26031
+---
+
 # Which module can export the relevant data of the fiber bundle，which created using UKF tractography
 
 **Topic ID**: 26031

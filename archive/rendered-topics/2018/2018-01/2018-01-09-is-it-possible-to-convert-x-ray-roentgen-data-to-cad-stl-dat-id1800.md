@@ -1,3 +1,10 @@
+---
+topic_id: 1800
+title: "Is It Possible To Convert X Ray Roentgen Data To Cad Stl Dat"
+date: 2018-01-09
+url: https://discourse.slicer.org/t/1800
+---
+
 # Is it possible to convert X ray Roentgen data to CaD/stl data?
 
 **Topic ID**: 1800

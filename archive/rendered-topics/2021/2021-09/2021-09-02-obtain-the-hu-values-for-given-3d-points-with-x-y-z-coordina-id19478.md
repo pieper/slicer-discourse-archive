@@ -1,3 +1,10 @@
+---
+topic_id: 19478
+title: "Obtain The Hu Values For Given 3D Points With X Y Z Coordina"
+date: 2021-09-02
+url: https://discourse.slicer.org/t/19478
+---
+
 # Obtain the HU values for given 3D points with x,y,z coordinates
 
 **Topic ID**: 19478

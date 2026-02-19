@@ -1,3 +1,10 @@
+---
+topic_id: 22440
+title: "How To Change Line Color"
+date: 2022-03-10
+url: https://discourse.slicer.org/t/22440
+---
+
 # how to change line color?
 
 **Topic ID**: 22440

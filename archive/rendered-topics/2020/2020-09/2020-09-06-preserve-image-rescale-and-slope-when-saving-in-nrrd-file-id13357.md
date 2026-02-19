@@ -1,3 +1,10 @@
+---
+topic_id: 13357
+title: "Preserve Image Rescale And Slope When Saving In Nrrd File"
+date: 2020-09-06
+url: https://discourse.slicer.org/t/13357
+---
+
 # Preserve image rescale and slope when saving in NRRD file
 
 **Topic ID**: 13357

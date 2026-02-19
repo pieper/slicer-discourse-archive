@@ -1,3 +1,10 @@
+---
+topic_id: 12555
+title: "Newbie Quick Question Delete A Mesh"
+date: 2020-07-15
+url: https://discourse.slicer.org/t/12555
+---
+
 # Newbie quick question - delete a mesh??
 
 **Topic ID**: 12555

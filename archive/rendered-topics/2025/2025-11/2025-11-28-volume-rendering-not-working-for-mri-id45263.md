@@ -1,3 +1,10 @@
+---
+topic_id: 45263
+title: "Volume Rendering Not Working For Mri"
+date: 2025-11-28
+url: https://discourse.slicer.org/t/45263
+---
+
 # Volume Rendering not working for MRI
 
 **Topic ID**: 45263

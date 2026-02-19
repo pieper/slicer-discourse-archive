@@ -1,3 +1,10 @@
+---
+topic_id: 15901
+title: "Why Fontsize Of Vtktextactor Not Working As Setup Values Via"
+date: 2021-02-08
+url: https://discourse.slicer.org/t/15901
+---
+
 # Why fontSize of vtkTextActor() not working as setup-values (via Python)?
 
 **Topic ID**: 15901

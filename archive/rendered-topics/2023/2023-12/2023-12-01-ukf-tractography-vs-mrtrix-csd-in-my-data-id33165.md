@@ -1,3 +1,10 @@
+---
+topic_id: 33165
+title: "Ukf Tractography Vs Mrtrix Csd In My Data"
+date: 2023-12-01
+url: https://discourse.slicer.org/t/33165
+---
+
 #  UKF tractography vs MRtrix CSD in my data 
 
 **Topic ID**: 33165

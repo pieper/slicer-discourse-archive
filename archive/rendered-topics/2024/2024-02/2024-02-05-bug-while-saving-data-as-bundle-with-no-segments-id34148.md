@@ -1,3 +1,10 @@
+---
+topic_id: 34148
+title: "Bug While Saving Data As Bundle With No Segments"
+date: 2024-02-05
+url: https://discourse.slicer.org/t/34148
+---
+
 # BUG while saving data as bundle with no segments
 
 **Topic ID**: 34148

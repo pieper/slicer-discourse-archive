@@ -1,3 +1,10 @@
+---
+topic_id: 7231
+title: "Getting Flipped Image On Using Dwiconvert To Convert Nifti T"
+date: 2019-06-19
+url: https://discourse.slicer.org/t/7231
+---
+
 # Getting flipped image on using DWIConvert to convert nifti to nhdr/nrrd
 
 **Topic ID**: 7231

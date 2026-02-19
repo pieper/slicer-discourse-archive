@@ -1,3 +1,10 @@
+---
+topic_id: 7541
+title: "Markup Notification"
+date: 2019-07-11
+url: https://discourse.slicer.org/t/7541
+---
+
 # Markup notification
 
 **Topic ID**: 7541

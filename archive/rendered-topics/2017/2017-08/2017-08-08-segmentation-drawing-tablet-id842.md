@@ -1,3 +1,10 @@
+---
+topic_id: 842
+title: "Segmentation Drawing Tablet"
+date: 2017-08-08
+url: https://discourse.slicer.org/t/842
+---
+
 # Segmentation - Drawing Tablet
 
 **Topic ID**: 842

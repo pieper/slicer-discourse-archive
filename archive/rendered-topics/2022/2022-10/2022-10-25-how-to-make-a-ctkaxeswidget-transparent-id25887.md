@@ -1,3 +1,10 @@
+---
+topic_id: 25887
+title: "How To Make A Ctkaxeswidget Transparent"
+date: 2022-10-25
+url: https://discourse.slicer.org/t/25887
+---
+
 # How to make a ctkAxesWidget transparent
 
 **Topic ID**: 25887

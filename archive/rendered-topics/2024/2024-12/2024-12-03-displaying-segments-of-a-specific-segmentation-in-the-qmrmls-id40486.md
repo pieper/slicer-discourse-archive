@@ -1,3 +1,10 @@
+---
+topic_id: 40486
+title: "Displaying Segments Of A Specific Segmentation In The Qmrmls"
+date: 2024-12-03
+url: https://discourse.slicer.org/t/40486
+---
+
 # Displaying Segments of a Specific Segmentation in the qMRMLSegmentsTableView
 
 **Topic ID**: 40486

@@ -1,3 +1,10 @@
+---
+topic_id: 573
+title: "Bundle File Creation"
+date: 2017-06-26
+url: https://discourse.slicer.org/t/573
+---
+
 # Bundle file creation
 
 **Topic ID**: 573

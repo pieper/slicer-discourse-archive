@@ -1,3 +1,10 @@
+---
+topic_id: 34051
+title: "Slicerterminologynavigatorwidget Single Category Selection"
+date: 2024-01-30
+url: https://discourse.slicer.org/t/34051
+---
+
 # SlicerTerminologyNavigatorWidget single category selection
 
 **Topic ID**: 34051

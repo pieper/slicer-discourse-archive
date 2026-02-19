@@ -1,3 +1,10 @@
+---
+topic_id: 36805
+title: "How To Hide The Red Yellow Green Planes In Reformat Module"
+date: 2024-06-15
+url: https://discourse.slicer.org/t/36805
+---
+
 # How to hide the red, yellow green planes in Reformat module
 
 **Topic ID**: 36805

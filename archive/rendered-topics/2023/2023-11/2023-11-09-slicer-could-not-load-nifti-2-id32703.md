@@ -1,3 +1,10 @@
+---
+topic_id: 32703
+title: "Slicer Could Not Load Nifti 2"
+date: 2023-11-09
+url: https://discourse.slicer.org/t/32703
+---
+
 # Slicer could not load NIfTI 2
 
 **Topic ID**: 32703

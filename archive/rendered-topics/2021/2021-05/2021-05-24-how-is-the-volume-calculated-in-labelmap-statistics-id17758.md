@@ -1,3 +1,10 @@
+---
+topic_id: 17758
+title: "How Is The Volume Calculated In Labelmap Statistics"
+date: 2021-05-24
+url: https://discourse.slicer.org/t/17758
+---
+
 # How is the volume calculated in Labelmap statistics
 
 **Topic ID**: 17758

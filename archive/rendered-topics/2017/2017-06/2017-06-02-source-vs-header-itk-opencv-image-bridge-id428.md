@@ -1,3 +1,10 @@
+---
+topic_id: 428
+title: "Source Vs Header Itk Opencv Image Bridge"
+date: 2017-06-02
+url: https://discourse.slicer.org/t/428
+---
+
 # Source vs. Header: ITK OpenCV Image Bridge
 
 **Topic ID**: 428

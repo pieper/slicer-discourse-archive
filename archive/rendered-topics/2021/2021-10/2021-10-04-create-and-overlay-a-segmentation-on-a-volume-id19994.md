@@ -1,3 +1,10 @@
+---
+topic_id: 19994
+title: "Create And Overlay A Segmentation On A Volume"
+date: 2021-10-04
+url: https://discourse.slicer.org/t/19994
+---
+
 # Create and overlay a segmentation on a volume
 
 **Topic ID**: 19994

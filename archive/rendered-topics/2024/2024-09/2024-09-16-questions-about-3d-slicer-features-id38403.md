@@ -1,3 +1,10 @@
+---
+topic_id: 38403
+title: "Questions About 3D Slicer Features"
+date: 2024-09-16
+url: https://discourse.slicer.org/t/38403
+---
+
 # Questions about 3D Slicer features
 
 **Topic ID**: 38403

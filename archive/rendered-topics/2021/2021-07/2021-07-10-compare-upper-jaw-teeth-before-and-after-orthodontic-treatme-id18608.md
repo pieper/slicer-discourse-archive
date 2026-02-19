@@ -1,3 +1,10 @@
+---
+topic_id: 18608
+title: "Compare Upper Jaw Teeth Before And After Orthodontic Treatme"
+date: 2021-07-10
+url: https://discourse.slicer.org/t/18608
+---
+
 # Compare upper jaw teeth before and after orthodontic treatment
 
 **Topic ID**: 18608

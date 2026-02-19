@@ -1,3 +1,10 @@
+---
+topic_id: 26570
+title: "Software Short Course"
+date: 2022-12-04
+url: https://discourse.slicer.org/t/26570
+---
+
 # Software short course
 
 **Topic ID**: 26570

@@ -1,3 +1,10 @@
+---
+topic_id: 11621
+title: "Generate A Filled Contour From Contour In Slicerrt"
+date: 2020-05-19
+url: https://discourse.slicer.org/t/11621
+---
+
 # Generate a filled contour from contour in SlicerRT
 
 **Topic ID**: 11621

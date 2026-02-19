@@ -1,3 +1,10 @@
+---
+topic_id: 218
+title: "Announcements Category Traffic"
+date: 2017-04-27
+url: https://discourse.slicer.org/t/218
+---
+
 # Announcements category traffic?
 
 **Topic ID**: 218

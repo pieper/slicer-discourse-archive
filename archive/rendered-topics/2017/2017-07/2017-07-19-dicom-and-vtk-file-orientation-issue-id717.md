@@ -1,3 +1,10 @@
+---
+topic_id: 717
+title: "Dicom And Vtk File Orientation Issue"
+date: 2017-07-19
+url: https://discourse.slicer.org/t/717
+---
+
 # DICOM and VTK file orientation Issue
 
 **Topic ID**: 717

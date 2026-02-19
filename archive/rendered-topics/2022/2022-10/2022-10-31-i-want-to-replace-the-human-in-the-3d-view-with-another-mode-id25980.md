@@ -1,3 +1,10 @@
+---
+topic_id: 25980
+title: "I Want To Replace The Human In The 3D View With Another Mode"
+date: 2022-10-31
+url: https://discourse.slicer.org/t/25980
+---
+
 # I want to replace the human in the 3d view with another model
 
 **Topic ID**: 25980

@@ -1,3 +1,10 @@
+---
+topic_id: 23732
+title: "Saving Content Of 3Dus File To Nnrd And Seq Nrrd Files Witho"
+date: 2022-06-06
+url: https://discourse.slicer.org/t/23732
+---
+
 # Saving content of .3dus file to .nnrd and .seq.nrrd files without using Slicer.exe window
 
 **Topic ID**: 23732

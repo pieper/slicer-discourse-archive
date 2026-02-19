@@ -1,3 +1,10 @@
+---
+topic_id: 14650
+title: "Export Segmentation Or Label Maps Outlines As Vector Paths S"
+date: 2020-11-17
+url: https://discourse.slicer.org/t/14650
+---
+
 # Export segmentation (or label maps) outlines as vector paths (svgs)
 
 **Topic ID**: 14650

@@ -1,3 +1,10 @@
+---
+topic_id: 8965
+title: "Buttonwidget Cant Interaction"
+date: 2019-10-31
+url: https://discourse.slicer.org/t/8965
+---
+
 # Buttonwidget can't interaction
 
 **Topic ID**: 8965

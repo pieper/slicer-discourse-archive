@@ -1,3 +1,10 @@
+---
+topic_id: 25096
+title: "Problem When Getting The Vtkimagedata Of A Reformatted Slice"
+date: 2022-09-05
+url: https://discourse.slicer.org/t/25096
+---
+
 # Problem when getting the vtkImageData of a reformatted slice shown in Red widget
 
 **Topic ID**: 25096

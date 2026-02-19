@@ -1,3 +1,10 @@
+---
+topic_id: 26057
+title: "Beyond Research"
+date: 2022-11-03
+url: https://discourse.slicer.org/t/26057
+---
+
 # Beyond research
 
 **Topic ID**: 26057

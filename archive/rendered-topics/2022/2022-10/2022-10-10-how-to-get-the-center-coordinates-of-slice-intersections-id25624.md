@@ -1,3 +1,10 @@
+---
+topic_id: 25624
+title: "How To Get The Center Coordinates Of Slice Intersections"
+date: 2022-10-10
+url: https://discourse.slicer.org/t/25624
+---
+
 # How to get the center coordinates of Slice intersections
 
 **Topic ID**: 25624

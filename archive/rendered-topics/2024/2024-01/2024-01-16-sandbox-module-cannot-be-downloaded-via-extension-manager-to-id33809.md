@@ -1,3 +1,10 @@
+---
+topic_id: 33809
+title: "Sandbox Module Cannot Be Downloaded Via Extension Manager To"
+date: 2024-01-16
+url: https://discourse.slicer.org/t/33809
+---
+
 # Sandbox module cannot be downloaded via extension manager today?
 
 **Topic ID**: 33809

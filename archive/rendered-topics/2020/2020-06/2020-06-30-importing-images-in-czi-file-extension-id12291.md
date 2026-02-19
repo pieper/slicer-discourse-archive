@@ -1,3 +1,10 @@
+---
+topic_id: 12291
+title: "Importing Images In Czi File Extension"
+date: 2020-06-30
+url: https://discourse.slicer.org/t/12291
+---
+
 # Importing images in czi file extension
 
 **Topic ID**: 12291

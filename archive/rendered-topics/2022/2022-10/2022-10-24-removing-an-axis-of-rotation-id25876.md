@@ -1,3 +1,10 @@
+---
+topic_id: 25876
+title: "Removing An Axis Of Rotation"
+date: 2022-10-24
+url: https://discourse.slicer.org/t/25876
+---
+
 # Removing an axis of rotation
 
 **Topic ID**: 25876

@@ -1,3 +1,10 @@
+---
+topic_id: 25576
+title: "Three Different Rtdose In The Same Rtplan"
+date: 2022-10-06
+url: https://discourse.slicer.org/t/25576
+---
+
 # Three different RTDOSE in the same RTPLAN
 
 **Topic ID**: 25576

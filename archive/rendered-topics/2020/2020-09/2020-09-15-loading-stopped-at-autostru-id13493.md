@@ -1,3 +1,10 @@
+---
+topic_id: 13493
+title: "Loading Stopped At Autostru"
+date: 2020-09-15
+url: https://discourse.slicer.org/t/13493
+---
+
 # Loading stopped at AutoStru
 
 **Topic ID**: 13493

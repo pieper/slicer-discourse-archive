@@ -1,3 +1,10 @@
+---
+topic_id: 5318
+title: "Overlaying A Dot On The Camera Stream Using Plus Server And"
+date: 2019-01-09
+url: https://discourse.slicer.org/t/5318
+---
+
 # Overlaying a dot on the camera stream using plus server and slicer module
 
 **Topic ID**: 5318

@@ -1,3 +1,10 @@
+---
+topic_id: 11152
+title: "No Extensions For Windows Since Yesterday"
+date: 2020-04-16
+url: https://discourse.slicer.org/t/11152
+---
+
 # No extensions for Windows since yesterday
 
 **Topic ID**: 11152

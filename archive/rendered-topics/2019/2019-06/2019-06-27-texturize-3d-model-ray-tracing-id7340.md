@@ -1,3 +1,10 @@
+---
+topic_id: 7340
+title: "Texturize 3D Model Ray Tracing"
+date: 2019-06-27
+url: https://discourse.slicer.org/t/7340
+---
+
 # Texturize 3D model (ray tracing)
 
 **Topic ID**: 7340

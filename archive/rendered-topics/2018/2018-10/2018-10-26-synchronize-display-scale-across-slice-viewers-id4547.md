@@ -1,3 +1,10 @@
+---
+topic_id: 4547
+title: "Synchronize Display Scale Across Slice Viewers"
+date: 2018-10-26
+url: https://discourse.slicer.org/t/4547
+---
+
 # Synchronize display scale across slice viewers
 
 **Topic ID**: 4547

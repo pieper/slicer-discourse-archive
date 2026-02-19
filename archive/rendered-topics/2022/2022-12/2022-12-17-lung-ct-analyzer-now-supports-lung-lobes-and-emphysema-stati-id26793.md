@@ -1,3 +1,10 @@
+---
+topic_id: 26793
+title: "Lung Ct Analyzer Now Supports Lung Lobes And Emphysema Stati"
+date: 2022-12-17
+url: https://discourse.slicer.org/t/26793
+---
+
 # Lung CT Analyzer now supports lung lobes and emphysema statistics
 
 **Topic ID**: 26793

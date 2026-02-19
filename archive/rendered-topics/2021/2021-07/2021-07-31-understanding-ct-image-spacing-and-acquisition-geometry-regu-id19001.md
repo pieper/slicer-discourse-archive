@@ -1,3 +1,10 @@
+---
+topic_id: 19001
+title: "Understanding Ct Image Spacing And Acquisition Geometry Regu"
+date: 2021-07-31
+url: https://discourse.slicer.org/t/19001
+---
+
 # Understanding CT Image spacing and Acquisition geometry regularization
 
 **Topic ID**: 19001

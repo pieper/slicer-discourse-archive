@@ -1,3 +1,10 @@
+---
+topic_id: 12935
+title: "Adding Effects For Segmentation And Segment Editor"
+date: 2020-08-10
+url: https://discourse.slicer.org/t/12935
+---
+
 # Adding effects for segmentation and segment editor
 
 **Topic ID**: 12935

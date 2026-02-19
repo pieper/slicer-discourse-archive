@@ -1,3 +1,10 @@
+---
+topic_id: 104
+title: "Watershed Fast Marching And Flood Filling Effects In Segment"
+date: 2017-04-13
+url: https://discourse.slicer.org/t/104
+---
+
 # Watershed, Fast marching, and Flood filling effects in Segment editor
 
 **Topic ID**: 104

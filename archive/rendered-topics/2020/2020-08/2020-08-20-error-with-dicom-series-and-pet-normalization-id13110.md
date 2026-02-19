@@ -1,3 +1,10 @@
+---
+topic_id: 13110
+title: "Error With Dicom Series And Pet Normalization"
+date: 2020-08-20
+url: https://discourse.slicer.org/t/13110
+---
+
 # Error with DICOM series and PET normalization
 
 **Topic ID**: 13110

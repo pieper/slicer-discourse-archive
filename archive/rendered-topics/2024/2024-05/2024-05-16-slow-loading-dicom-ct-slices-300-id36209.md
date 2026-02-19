@@ -1,3 +1,10 @@
+---
+topic_id: 36209
+title: "Slow Loading Dicom Ct Slices 300"
+date: 2024-05-16
+url: https://discourse.slicer.org/t/36209
+---
+
 # Slow loading dicom CT slices (~300)
 
 **Topic ID**: 36209

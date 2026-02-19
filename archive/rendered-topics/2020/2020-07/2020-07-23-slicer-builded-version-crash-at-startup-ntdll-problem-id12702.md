@@ -1,3 +1,10 @@
+---
+topic_id: 12702
+title: "Slicer Builded Version Crash At Startup Ntdll Problem"
+date: 2020-07-23
+url: https://discourse.slicer.org/t/12702
+---
+
 # Slicer builded version crash at startup, ntdll problem 
 
 **Topic ID**: 12702

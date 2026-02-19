@@ -1,3 +1,10 @@
+---
+topic_id: 33346
+title: "Na Mic Project Week Reminder Next Project Week 40 Preparatio"
+date: 2023-12-11
+url: https://discourse.slicer.org/t/33346
+---
+
 # [Na-mic-project-week] Reminder: Next Project Week 40 preparation meeting -Tomorrow, Tuesday Dec 12th
 
 **Topic ID**: 33346

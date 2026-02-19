@@ -1,3 +1,10 @@
+---
+topic_id: 35813
+title: "How To Include Markup Annotations In High Resolution Screen"
+date: 2024-04-29
+url: https://discourse.slicer.org/t/35813
+---
+
 # How to include markup annotations in high-resolution screen capture
 
 **Topic ID**: 35813

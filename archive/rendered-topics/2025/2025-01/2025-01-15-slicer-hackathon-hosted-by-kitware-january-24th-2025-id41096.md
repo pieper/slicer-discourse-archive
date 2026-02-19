@@ -1,3 +1,10 @@
+---
+topic_id: 41096
+title: "Slicer Hackathon Hosted By Kitware January 24Th 2025"
+date: 2025-01-15
+url: https://discourse.slicer.org/t/41096
+---
+
 # Slicer Hackathon hosted by Kitware: January 24th, 2025
 
 **Topic ID**: 41096

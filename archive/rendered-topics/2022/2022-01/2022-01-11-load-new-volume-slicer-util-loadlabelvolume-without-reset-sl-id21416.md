@@ -1,3 +1,10 @@
+---
+topic_id: 21416
+title: "Load New Volume Slicer Util Loadlabelvolume Without Reset Sl"
+date: 2022-01-11
+url: https://discourse.slicer.org/t/21416
+---
+
 # Load new volume (slicer.util.loadLabelVolume) without reset slicer layout
 
 **Topic ID**: 21416

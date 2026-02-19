@@ -1,3 +1,10 @@
+---
+topic_id: 43647
+title: "Segmenting Thin Spaces Sparse Contours"
+date: 2025-07-08
+url: https://discourse.slicer.org/t/43647
+---
+
 # Segmenting Thin Spaces (Sparse Contours)
 
 **Topic ID**: 43647

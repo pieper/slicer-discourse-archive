@@ -1,3 +1,10 @@
+---
+topic_id: 13701
+title: "Is It Possible To Generate Image Montage In 3D Slicer"
+date: 2020-09-25
+url: https://discourse.slicer.org/t/13701
+---
+
 # Is it possible to generate image montage in 3D Slicer?
 
 **Topic ID**: 13701

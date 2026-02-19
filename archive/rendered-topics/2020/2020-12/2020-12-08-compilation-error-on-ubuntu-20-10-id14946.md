@@ -1,3 +1,10 @@
+---
+topic_id: 14946
+title: "Compilation Error On Ubuntu 20 10"
+date: 2020-12-08
+url: https://discourse.slicer.org/t/14946
+---
+
 # Compilation error on Ubuntu 20.10
 
 **Topic ID**: 14946

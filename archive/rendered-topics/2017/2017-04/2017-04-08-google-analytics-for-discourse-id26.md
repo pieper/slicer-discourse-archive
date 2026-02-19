@@ -1,3 +1,10 @@
+---
+topic_id: 26
+title: "Google Analytics For Discourse"
+date: 2017-04-08
+url: https://discourse.slicer.org/t/26
+---
+
 # Google analytics for discourse
 
 **Topic ID**: 26

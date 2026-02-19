@@ -1,3 +1,10 @@
+---
+topic_id: 35240
+title: "Terminology Labels And File Location"
+date: 2024-04-02
+url: https://discourse.slicer.org/t/35240
+---
+
 # Terminology labels and file location
 
 **Topic ID**: 35240

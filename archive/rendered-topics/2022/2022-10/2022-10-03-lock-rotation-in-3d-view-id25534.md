@@ -1,3 +1,10 @@
+---
+topic_id: 25534
+title: "Lock Rotation In 3D View"
+date: 2022-10-03
+url: https://discourse.slicer.org/t/25534
+---
+
 # Lock rotation in 3D view
 
 **Topic ID**: 25534

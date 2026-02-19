@@ -1,3 +1,10 @@
+---
+topic_id: 33147
+title: "Elastix Generated Output Image Doesnt Align With Applied And"
+date: 2023-11-30
+url: https://discourse.slicer.org/t/33147
+---
+
 # Elastix: generated output image doesn't align with applied and hardend transform 
 
 **Topic ID**: 33147

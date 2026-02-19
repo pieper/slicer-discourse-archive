@@ -1,3 +1,10 @@
+---
+topic_id: 3589
+title: "How Can I Display The Parametric Map From Multivolume Analys"
+date: 2018-07-27
+url: https://discourse.slicer.org/t/3589
+---
+
 # How can I display the parametric map from multivolume analysis as a colormap?
 
 **Topic ID**: 3589

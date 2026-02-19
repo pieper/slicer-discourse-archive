@@ -1,3 +1,10 @@
+---
+topic_id: 30933
+title: "Issue Importing Dicom With Overview Image"
+date: 2023-08-02
+url: https://discourse.slicer.org/t/30933
+---
+
 # Issue Importing DICOM with overview image
 
 **Topic ID**: 30933

@@ -1,3 +1,10 @@
+---
+topic_id: 34536
+title: "Question On Fill Between Slices Algorithm"
+date: 2024-02-26
+url: https://discourse.slicer.org/t/34536
+---
+
 # Question on Fill Between Slices algorithm
 
 **Topic ID**: 34536

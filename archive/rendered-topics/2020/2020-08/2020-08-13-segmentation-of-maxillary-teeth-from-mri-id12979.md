@@ -1,3 +1,10 @@
+---
+topic_id: 12979
+title: "Segmentation Of Maxillary Teeth From Mri"
+date: 2020-08-13
+url: https://discourse.slicer.org/t/12979
+---
+
 # Segmentation of Maxillary Teeth from MRI 
 
 **Topic ID**: 12979

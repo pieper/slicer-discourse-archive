@@ -1,3 +1,10 @@
+---
+topic_id: 12144
+title: "Problem In Viewing Segmentation Volume And Voronoi Model"
+date: 2020-06-21
+url: https://discourse.slicer.org/t/12144
+---
+
 # Problem in viewing segmentation volume and voronoi model
 
 **Topic ID**: 12144

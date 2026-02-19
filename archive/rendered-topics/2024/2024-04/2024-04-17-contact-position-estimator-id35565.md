@@ -1,3 +1,10 @@
+---
+topic_id: 35565
+title: "Contact Position Estimator"
+date: 2024-04-17
+url: https://discourse.slicer.org/t/35565
+---
+
 # Contact Position Estimator
 
 **Topic ID**: 35565

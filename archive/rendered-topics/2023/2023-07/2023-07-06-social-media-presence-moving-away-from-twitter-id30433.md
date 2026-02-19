@@ -1,3 +1,10 @@
+---
+topic_id: 30433
+title: "Social Media Presence Moving Away From Twitter"
+date: 2023-07-06
+url: https://discourse.slicer.org/t/30433
+---
+
 # Social media presence - moving away from Twitter?
 
 **Topic ID**: 30433

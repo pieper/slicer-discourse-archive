@@ -1,3 +1,10 @@
+---
+topic_id: 4
+title: "Terms Of Service"
+date: 2017-04-07
+url: https://discourse.slicer.org/t/4
+---
+
 # Terms of Service
 
 **Topic ID**: 4

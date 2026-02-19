@@ -1,3 +1,10 @@
+---
+topic_id: 7112
+title: "Slicer Tutorial Developing Extension In 3D Slicer Page 22 I"
+date: 2019-06-10
+url: https://discourse.slicer.org/t/7112
+---
+
 # Slicer Tutorial/Developing extension in 3D slicer/page 22,I can't understand a sentence.
 
 **Topic ID**: 7112

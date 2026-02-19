@@ -1,3 +1,10 @@
+---
+topic_id: 37143
+title: "Flipped Volume On 3D View But Correct On Red Green Yellow"
+date: 2024-07-02
+url: https://discourse.slicer.org/t/37143
+---
+
 # Flipped volume on 3D view but correct on red/green/yellow
 
 **Topic ID**: 37143

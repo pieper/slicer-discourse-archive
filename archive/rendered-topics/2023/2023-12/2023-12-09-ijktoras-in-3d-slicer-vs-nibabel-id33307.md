@@ -1,3 +1,10 @@
+---
+topic_id: 33307
+title: "Ijktoras In 3D Slicer Vs Nibabel"
+date: 2023-12-09
+url: https://discourse.slicer.org/t/33307
+---
+
 # IJKtoRAS in 3d slicer vs nibabel
 
 **Topic ID**: 33307

@@ -1,3 +1,10 @@
+---
+topic_id: 17780
+title: "Auto Refresh Ui"
+date: 2021-05-25
+url: https://discourse.slicer.org/t/17780
+---
+
 # Auto Refresh UI
 
 **Topic ID**: 17780

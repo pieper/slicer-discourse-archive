@@ -1,3 +1,10 @@
+---
+topic_id: 20709
+title: "Create A Parameternode For A Toolbar"
+date: 2021-11-19
+url: https://discourse.slicer.org/t/20709
+---
+
 # Create a parameterNode for a toolbar?
 
 **Topic ID**: 20709

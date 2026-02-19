@@ -1,3 +1,10 @@
+---
+topic_id: 30393
+title: "How To Acquire X Ray Images From C Arm"
+date: 2023-07-04
+url: https://discourse.slicer.org/t/30393
+---
+
 # How to acquire X-ray images from C-arm?
 
 **Topic ID**: 30393

@@ -1,3 +1,10 @@
+---
+topic_id: 41743
+title: "What Smoothing Is Applied To Segmentations Before Stl Export"
+date: 2025-02-17
+url: https://discourse.slicer.org/t/41743
+---
+
 # What smoothing is applied to segmentations before STL export?
 
 **Topic ID**: 41743

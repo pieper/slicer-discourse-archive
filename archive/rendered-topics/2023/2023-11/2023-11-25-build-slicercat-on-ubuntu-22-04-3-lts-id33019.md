@@ -1,3 +1,10 @@
+---
+topic_id: 33019
+title: "Build Slicercat On Ubuntu 22 04 3 Lts"
+date: 2023-11-25
+url: https://discourse.slicer.org/t/33019
+---
+
 # Build SlicerCAT on Ubuntu 22.04.3 LTS
 
 **Topic ID**: 33019

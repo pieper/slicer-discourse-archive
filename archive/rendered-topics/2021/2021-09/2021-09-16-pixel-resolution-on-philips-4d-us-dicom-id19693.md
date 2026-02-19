@@ -1,3 +1,10 @@
+---
+topic_id: 19693
+title: "Pixel Resolution On Philips 4D Us Dicom"
+date: 2021-09-16
+url: https://discourse.slicer.org/t/19693
+---
+
 # Pixel Resolution on Philips 4D US DICOM
 
 **Topic ID**: 19693

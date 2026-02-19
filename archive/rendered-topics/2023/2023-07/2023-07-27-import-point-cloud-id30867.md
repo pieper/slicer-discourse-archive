@@ -1,3 +1,10 @@
+---
+topic_id: 30867
+title: "Import Point Cloud"
+date: 2023-07-27
+url: https://discourse.slicer.org/t/30867
+---
+
 # Import point cloud
 
 **Topic ID**: 30867

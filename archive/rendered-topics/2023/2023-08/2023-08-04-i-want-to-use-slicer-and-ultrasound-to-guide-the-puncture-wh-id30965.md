@@ -1,3 +1,10 @@
+---
+topic_id: 30965
+title: "I Want To Use Slicer And Ultrasound To Guide The Puncture Wh"
+date: 2023-08-04
+url: https://discourse.slicer.org/t/30965
+---
+
 # I want to use SLICER and ultrasound to guide the puncture, while fusing the ultrasound image with the CT image in real time
 
 **Topic ID**: 30965

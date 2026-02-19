@@ -1,3 +1,10 @@
+---
+topic_id: 4792
+title: "I Cannot Remove Ridges In 3D Segmentation"
+date: 2018-11-19
+url: https://discourse.slicer.org/t/4792
+---
+
 # I cannot remove "ridges" in 3D segmentation
 
 **Topic ID**: 4792

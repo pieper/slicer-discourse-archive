@@ -1,3 +1,10 @@
+---
+topic_id: 2525
+title: "Performing Tractography With Multiple Rois"
+date: 2018-04-05
+url: https://discourse.slicer.org/t/2525
+---
+
 # Performing tractography with multiple ROIs
 
 **Topic ID**: 2525

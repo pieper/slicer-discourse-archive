@@ -1,3 +1,10 @@
+---
+topic_id: 22722
+title: "How To Resolve Tangent Edged Ball Display Incompleteness"
+date: 2022-03-28
+url: https://discourse.slicer.org/t/22722
+---
+
 # How to resolve tangent-edged ball display incompleteness
 
 **Topic ID**: 22722

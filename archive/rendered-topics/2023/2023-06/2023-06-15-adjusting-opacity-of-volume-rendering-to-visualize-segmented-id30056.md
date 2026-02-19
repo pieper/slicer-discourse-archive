@@ -1,3 +1,10 @@
+---
+topic_id: 30056
+title: "Adjusting Opacity Of Volume Rendering To Visualize Segmented"
+date: 2023-06-15
+url: https://discourse.slicer.org/t/30056
+---
+
 # Adjusting Opacity of Volume Rendering to Visualize Segmented Lesions
 
 **Topic ID**: 30056

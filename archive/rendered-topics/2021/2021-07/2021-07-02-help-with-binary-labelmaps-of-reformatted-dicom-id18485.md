@@ -1,3 +1,10 @@
+---
+topic_id: 18485
+title: "Help With Binary Labelmaps Of Reformatted Dicom"
+date: 2021-07-02
+url: https://discourse.slicer.org/t/18485
+---
+
 # Help with binary labelmaps of reformatted DICOM 
 
 **Topic ID**: 18485

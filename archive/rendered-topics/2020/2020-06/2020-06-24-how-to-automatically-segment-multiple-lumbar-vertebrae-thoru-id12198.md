@@ -1,3 +1,10 @@
+---
+topic_id: 12198
+title: "How To Automatically Segment Multiple Lumbar Vertebrae Thoru"
+date: 2020-06-24
+url: https://discourse.slicer.org/t/12198
+---
+
 # How to automatically segment multiple lumbar vertebrae thorugh the Python Interactor?
 
 **Topic ID**: 12198

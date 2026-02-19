@@ -1,3 +1,10 @@
+---
+topic_id: 44526
+title: "Create A Series Of Slices For Viewing"
+date: 2025-09-18
+url: https://discourse.slicer.org/t/44526
+---
+
 # Create a series of slices for viewing 
 
 **Topic ID**: 44526

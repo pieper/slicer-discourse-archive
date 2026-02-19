@@ -1,3 +1,10 @@
+---
+topic_id: 28295
+title: "Should I Resample On Z Axis If Forcing 2D Feature Extraction"
+date: 2023-03-10
+url: https://discourse.slicer.org/t/28295
+---
+
 # Should I resample on z-axis if forcing 2D feature extraction?
 
 **Topic ID**: 28295

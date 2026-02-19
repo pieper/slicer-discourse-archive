@@ -1,3 +1,10 @@
+---
+topic_id: 2160
+title: "Commit Message Collaborative Work And Acknowledgment"
+date: 2018-02-23
+url: https://discourse.slicer.org/t/2160
+---
+
 # Commit message, collaborative work and acknowledgment
 
 **Topic ID**: 2160

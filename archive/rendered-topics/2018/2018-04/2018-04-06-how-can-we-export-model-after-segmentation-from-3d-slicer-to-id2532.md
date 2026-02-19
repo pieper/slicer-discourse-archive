@@ -1,3 +1,10 @@
+---
+topic_id: 2532
+title: "How Can We Export Model After Segmentation From 3D Slicer To"
+date: 2018-04-06
+url: https://discourse.slicer.org/t/2532
+---
+
 # How can we export model(after segmentation) from 3d slicer to 3matic(mimics)?
 
 **Topic ID**: 2532

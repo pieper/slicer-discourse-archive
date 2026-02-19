@@ -1,3 +1,10 @@
+---
+topic_id: 23381
+title: "Slicer Quit When Using Vtkstatisticaloutlierremoval"
+date: 2022-05-12
+url: https://discourse.slicer.org/t/23381
+---
+
 # Slicer quit when using vtkStatisticalOutlierRemoval
 
 **Topic ID**: 23381

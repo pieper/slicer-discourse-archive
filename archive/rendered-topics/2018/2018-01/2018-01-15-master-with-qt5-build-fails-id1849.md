@@ -1,3 +1,10 @@
+---
+topic_id: 1849
+title: "Master With Qt5 Build Fails"
+date: 2018-01-15
+url: https://discourse.slicer.org/t/1849
+---
+
 # Master with Qt5 build fails
 
 **Topic ID**: 1849

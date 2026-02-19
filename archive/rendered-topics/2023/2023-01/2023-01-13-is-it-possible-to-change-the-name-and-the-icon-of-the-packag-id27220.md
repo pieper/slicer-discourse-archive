@@ -1,3 +1,10 @@
+---
+topic_id: 27220
+title: "Is It Possible To Change The Name And The Icon Of The Packag"
+date: 2023-01-13
+url: https://discourse.slicer.org/t/27220
+---
+
 # Is it possible to change the name and the icon of the [Package] command output?
 
 **Topic ID**: 27220

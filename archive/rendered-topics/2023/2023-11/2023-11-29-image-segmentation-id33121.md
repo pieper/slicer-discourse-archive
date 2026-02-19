@@ -1,3 +1,10 @@
+---
+topic_id: 33121
+title: "Image Segmentation"
+date: 2023-11-29
+url: https://discourse.slicer.org/t/33121
+---
+
 # Image segmentation
 
 **Topic ID**: 33121

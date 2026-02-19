@@ -1,3 +1,10 @@
+---
+topic_id: 19674
+title: "Best Strategy To Integrate Airway Segmentation Into Lungctse"
+date: 2021-09-14
+url: https://discourse.slicer.org/t/19674
+---
+
 # Best strategy to integrate airway segmentation into LungCTSegmenter?
 
 **Topic ID**: 19674

@@ -1,3 +1,10 @@
+---
+topic_id: 23874
+title: "Opendialog Does Not Load Node Into Scene"
+date: 2022-06-14
+url: https://discourse.slicer.org/t/23874
+---
+
 # openDialog does not load node into scene
 
 **Topic ID**: 23874

@@ -1,3 +1,10 @@
+---
+topic_id: 43337
+title: "Am I Able To Correct For Post Operative Brainshift In 3Dslic"
+date: 2025-06-12
+url: https://discourse.slicer.org/t/43337
+---
+
 # Am I able to correct for post-operative brainshift in 3DSlicer?
 
 **Topic ID**: 43337

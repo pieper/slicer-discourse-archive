@@ -1,3 +1,10 @@
+---
+topic_id: 25119
+title: "Segments Table Extendend Selection Having Issue"
+date: 2022-09-06
+url: https://discourse.slicer.org/t/25119
+---
+
 # Segments Table Extendend Selection having issue
 
 **Topic ID**: 25119

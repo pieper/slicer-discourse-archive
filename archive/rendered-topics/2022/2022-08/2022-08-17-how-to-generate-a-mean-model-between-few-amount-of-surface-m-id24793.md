@@ -1,3 +1,10 @@
+---
+topic_id: 24793
+title: "How To Generate A Mean Model Between Few Amount Of Surface M"
+date: 2022-08-17
+url: https://discourse.slicer.org/t/24793
+---
+
 # How to generate a "mean model" between few amount of surface mesh?
 
 **Topic ID**: 24793

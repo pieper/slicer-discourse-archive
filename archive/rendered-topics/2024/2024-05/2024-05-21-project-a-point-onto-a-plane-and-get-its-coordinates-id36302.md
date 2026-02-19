@@ -1,3 +1,10 @@
+---
+topic_id: 36302
+title: "Project A Point Onto A Plane And Get Its Coordinates"
+date: 2024-05-21
+url: https://discourse.slicer.org/t/36302
+---
+
 # Project a point onto a plane and get its coordinates
 
 **Topic ID**: 36302

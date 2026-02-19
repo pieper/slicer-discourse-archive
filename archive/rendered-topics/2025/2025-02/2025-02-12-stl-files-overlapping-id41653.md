@@ -1,3 +1,10 @@
+---
+topic_id: 41653
+title: "Stl Files Overlapping"
+date: 2025-02-12
+url: https://discourse.slicer.org/t/41653
+---
+
 # STL files overlapping
 
 **Topic ID**: 41653

@@ -1,3 +1,10 @@
+---
+topic_id: 38150
+title: "How To Access 3Dslicer Style Dark Light"
+date: 2024-09-01
+url: https://discourse.slicer.org/t/38150
+---
+
 # How to access 3DSlicer style (dark/light)
 
 **Topic ID**: 38150

@@ -1,3 +1,10 @@
+---
+topic_id: 45203
+title: "Slicer 5 10 Qmrmlsubjecthierarchycombobox Turned To None But"
+date: 2025-11-24
+url: https://discourse.slicer.org/t/45203
+---
+
 # Slicer 5.10 qMRMLSubjectHierarchyComboBox turned to 'None' but no issue with 5.8.1
 
 **Topic ID**: 45203

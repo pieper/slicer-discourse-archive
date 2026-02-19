@@ -1,3 +1,10 @@
+---
+topic_id: 7306
+title: "Open Dicom Files Having A Jpeg Transfert Syntax"
+date: 2019-06-25
+url: https://discourse.slicer.org/t/7306
+---
+
 # Open dicom files having a JPEG transfert syntax
 
 **Topic ID**: 7306

@@ -1,3 +1,10 @@
+---
+topic_id: 19038
+title: "3D Cardiac Ct To 4D In 3D Slicer"
+date: 2021-08-03
+url: https://discourse.slicer.org/t/19038
+---
+
 # 3D cardiac CT to 4D in 3D Slicer?
 
 **Topic ID**: 19038

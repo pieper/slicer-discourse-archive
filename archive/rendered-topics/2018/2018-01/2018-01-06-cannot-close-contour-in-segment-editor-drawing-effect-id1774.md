@@ -1,3 +1,10 @@
+---
+topic_id: 1774
+title: "Cannot Close Contour In Segment Editor Drawing Effect"
+date: 2018-01-06
+url: https://discourse.slicer.org/t/1774
+---
+
 # Cannot close contour in Segment editor drawing effect
 
 **Topic ID**: 1774

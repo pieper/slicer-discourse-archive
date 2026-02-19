@@ -1,3 +1,10 @@
+---
+topic_id: 17730
+title: "Slicer Crash When Saving Scene With Processed Sequence Data"
+date: 2021-05-22
+url: https://discourse.slicer.org/t/17730
+---
+
 # Slicer crash when saving scene with processed Sequence data
 
 **Topic ID**: 17730

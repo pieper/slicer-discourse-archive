@@ -1,3 +1,10 @@
+---
+topic_id: 44380
+title: "Slicerrt S Rtstruct To Binary Mask Conversion Algorithm And"
+date: 2025-09-07
+url: https://discourse.slicer.org/t/44380
+---
+
 # SlicerRT’s RTSTRUCT to Binary Mask Conversion Algorithm and Dice Coefficient Calculation
 
 **Topic ID**: 44380

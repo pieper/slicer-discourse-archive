@@ -1,3 +1,10 @@
+---
+topic_id: 38420
+title: "How To Make Module Modification Take Effect Without Restarti"
+date: 2024-09-18
+url: https://discourse.slicer.org/t/38420
+---
+
 # How to make module modification take effect without restarting the application?
 
 **Topic ID**: 38420

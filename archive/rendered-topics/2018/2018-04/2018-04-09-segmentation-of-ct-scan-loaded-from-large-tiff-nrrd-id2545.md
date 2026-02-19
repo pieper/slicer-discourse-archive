@@ -1,3 +1,10 @@
+---
+topic_id: 2545
+title: "Segmentation Of Ct Scan Loaded From Large Tiff Nrrd"
+date: 2018-04-09
+url: https://discourse.slicer.org/t/2545
+---
+
 # Segmentation of CT scan loaded from large .tiff/.nrrd
 
 **Topic ID**: 2545

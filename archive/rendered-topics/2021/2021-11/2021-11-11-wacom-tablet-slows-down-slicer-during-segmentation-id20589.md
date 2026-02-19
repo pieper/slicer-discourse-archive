@@ -1,3 +1,10 @@
+---
+topic_id: 20589
+title: "Wacom Tablet Slows Down Slicer During Segmentation"
+date: 2021-11-11
+url: https://discourse.slicer.org/t/20589
+---
+
 # Wacom Tablet Slows Down Slicer During Segmentation
 
 **Topic ID**: 20589

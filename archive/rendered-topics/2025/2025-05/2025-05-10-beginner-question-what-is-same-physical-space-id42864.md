@@ -1,3 +1,10 @@
+---
+topic_id: 42864
+title: "Beginner Question What Is Same Physical Space"
+date: 2025-05-10
+url: https://discourse.slicer.org/t/42864
+---
+
 # Beginner question: what is ”same physical space”?
 
 **Topic ID**: 42864

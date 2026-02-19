@@ -1,3 +1,10 @@
+---
+topic_id: 12849
+title: "Display Issues Green Stripes"
+date: 2020-08-04
+url: https://discourse.slicer.org/t/12849
+---
+
 # Display issues - green stripes
 
 **Topic ID**: 12849

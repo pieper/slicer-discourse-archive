@@ -1,3 +1,10 @@
+---
+topic_id: 35879
+title: "Totalsegmentator Segmentations And Radiomics Features For 12"
+date: 2024-05-02
+url: https://discourse.slicer.org/t/35879
+---
+
 # TotalSegmentator segmentations and radiomics features for 126K+ CT scans
 
 **Topic ID**: 35879

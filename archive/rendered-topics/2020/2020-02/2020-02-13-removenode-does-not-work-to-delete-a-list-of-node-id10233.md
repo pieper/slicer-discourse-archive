@@ -1,3 +1,10 @@
+---
+topic_id: 10233
+title: "Removenode Does Not Work To Delete A List Of Node"
+date: 2020-02-13
+url: https://discourse.slicer.org/t/10233
+---
+
 # RemoveNode does not work to delete a list of node
 
 **Topic ID**: 10233

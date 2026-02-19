@@ -1,3 +1,10 @@
+---
+topic_id: 7416
+title: "Scalar Heatmap On Vtk Model"
+date: 2019-07-04
+url: https://discourse.slicer.org/t/7416
+---
+
 # Scalar heatmap on vtk model
 
 **Topic ID**: 7416

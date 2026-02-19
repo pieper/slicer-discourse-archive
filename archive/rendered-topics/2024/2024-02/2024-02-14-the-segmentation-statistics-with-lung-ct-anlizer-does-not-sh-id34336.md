@@ -1,3 +1,10 @@
+---
+topic_id: 34336
+title: "The Segmentation Statistics With Lung Ct Anlizer Does Not Sh"
+date: 2024-02-14
+url: https://discourse.slicer.org/t/34336
+---
+
 # The segmentation statistics with Lung Ct Anlizer does not show the results correctly.
 
 **Topic ID**: 34336

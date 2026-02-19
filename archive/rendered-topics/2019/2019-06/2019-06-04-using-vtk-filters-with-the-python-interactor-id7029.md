@@ -1,3 +1,10 @@
+---
+topic_id: 7029
+title: "Using Vtk Filters With The Python Interactor"
+date: 2019-06-04
+url: https://discourse.slicer.org/t/7029
+---
+
 # Using VTK filters with the python interactor?
 
 **Topic ID**: 7029

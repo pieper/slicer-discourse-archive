@@ -1,3 +1,10 @@
+---
+topic_id: 3458
+title: "How To Change Or Add The Reference Volume Of A Segmentation"
+date: 2018-07-11
+url: https://discourse.slicer.org/t/3458
+---
+
 # How to change or add the Reference Volume of a Segmentation?
 
 **Topic ID**: 3458

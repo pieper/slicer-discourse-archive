@@ -1,3 +1,10 @@
+---
+topic_id: 40789
+title: "Best Practices For 3D Slicer Volume Rendering Of Dicom Data"
+date: 2024-12-18
+url: https://discourse.slicer.org/t/40789
+---
+
 # Best Practices for 3D Slicer Volume Rendering of DICOM Data
 
 **Topic ID**: 40789

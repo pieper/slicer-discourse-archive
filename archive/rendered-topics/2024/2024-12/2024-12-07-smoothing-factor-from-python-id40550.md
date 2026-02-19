@@ -1,3 +1,10 @@
+---
+topic_id: 40550
+title: "Smoothing Factor From Python"
+date: 2024-12-07
+url: https://discourse.slicer.org/t/40550
+---
+
 # Smoothing Factor from Python
 
 **Topic ID**: 40550

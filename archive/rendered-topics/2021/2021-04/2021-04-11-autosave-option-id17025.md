@@ -1,3 +1,10 @@
+---
+topic_id: 17025
+title: "Autosave Option"
+date: 2021-04-11
+url: https://discourse.slicer.org/t/17025
+---
+
 # Autosave option
 
 **Topic ID**: 17025

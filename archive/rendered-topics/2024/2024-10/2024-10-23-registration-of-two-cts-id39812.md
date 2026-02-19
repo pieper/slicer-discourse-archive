@@ -1,3 +1,10 @@
+---
+topic_id: 39812
+title: "Registration Of Two Cts"
+date: 2024-10-23
+url: https://discourse.slicer.org/t/39812
+---
+
 # Registration of two CTs
 
 **Topic ID**: 39812

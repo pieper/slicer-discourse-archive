@@ -1,3 +1,10 @@
+---
+topic_id: 11997
+title: "Switching To Json For Markup Files Any Convergence With Bids"
+date: 2020-06-12
+url: https://discourse.slicer.org/t/11997
+---
+
 # Switching to .json for Markup files: any convergence with BIDS?
 
 **Topic ID**: 11997

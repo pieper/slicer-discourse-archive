@@ -1,3 +1,10 @@
+---
+topic_id: 9544
+title: "Getselected Update To Slicer3D"
+date: 2019-12-18
+url: https://discourse.slicer.org/t/9544
+---
+
 # GetSelected() update to Slicer3D
 
 **Topic ID**: 9544

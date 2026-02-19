@@ -1,3 +1,10 @@
+---
+topic_id: 24022
+title: "Tracked Ultrasound With Aurco Tracking"
+date: 2022-06-24
+url: https://discourse.slicer.org/t/24022
+---
+
 # Tracked Ultrasound with Aurco tracking
 
 **Topic ID**: 24022

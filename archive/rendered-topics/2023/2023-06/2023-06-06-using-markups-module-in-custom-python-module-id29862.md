@@ -1,3 +1,10 @@
+---
+topic_id: 29862
+title: "Using Markups Module In Custom Python Module"
+date: 2023-06-06
+url: https://discourse.slicer.org/t/29862
+---
+
 # Using Markups module in custom Python module
 
 **Topic ID**: 29862

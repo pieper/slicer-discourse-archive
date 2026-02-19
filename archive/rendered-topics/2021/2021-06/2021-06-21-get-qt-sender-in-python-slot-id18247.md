@@ -1,3 +1,10 @@
+---
+topic_id: 18247
+title: "Get Qt Sender In Python Slot"
+date: 2021-06-21
+url: https://discourse.slicer.org/t/18247
+---
+
 # Get Qt sender in Python slot
 
 **Topic ID**: 18247

@@ -1,3 +1,10 @@
+---
+topic_id: 27204
+title: "Vs Code Launches Two Slicers On Selecting Workspace"
+date: 2023-01-12
+url: https://discourse.slicer.org/t/27204
+---
+
 # VS Code launches two Slicers on selecting workspace
 
 **Topic ID**: 27204

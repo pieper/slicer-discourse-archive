@@ -1,3 +1,10 @@
+---
+topic_id: 7593
+title: "New Public Domain High Res Mri From Mgh"
+date: 2019-07-15
+url: https://discourse.slicer.org/t/7593
+---
+
 # New public domain high res MRI from MGH
 
 **Topic ID**: 7593

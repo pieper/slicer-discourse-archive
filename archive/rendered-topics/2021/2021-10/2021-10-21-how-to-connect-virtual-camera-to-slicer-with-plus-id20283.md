@@ -1,3 +1,10 @@
+---
+topic_id: 20283
+title: "How To Connect Virtual Camera To Slicer With Plus"
+date: 2021-10-21
+url: https://discourse.slicer.org/t/20283
+---
+
 # How to connect virtual camera to Slicer with Plus ？
 
 **Topic ID**: 20283

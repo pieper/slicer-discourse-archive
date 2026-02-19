@@ -1,3 +1,10 @@
+---
+topic_id: 27956
+title: "Memos New Extension For Deep Learning Based Segmentation Of"
+date: 2023-02-21
+url: https://discourse.slicer.org/t/27956
+---
+
 # MEMOS: New extension for deep-learning based segmentation of 3D fetal mice scans.
 
 **Topic ID**: 27956

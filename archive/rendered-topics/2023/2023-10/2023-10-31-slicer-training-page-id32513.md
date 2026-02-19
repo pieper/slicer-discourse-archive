@@ -1,3 +1,10 @@
+---
+topic_id: 32513
+title: "Slicer Training Page"
+date: 2023-10-31
+url: https://discourse.slicer.org/t/32513
+---
+
 # Slicer training page
 
 **Topic ID**: 32513

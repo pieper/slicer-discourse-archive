@@ -1,3 +1,10 @@
+---
+topic_id: 14188
+title: "Probleme Using Voila On My Slicer Jupiterkernel"
+date: 2020-10-21
+url: https://discourse.slicer.org/t/14188
+---
+
 # Problème using Voilà on my slicer JupiterKernel
 
 **Topic ID**: 14188

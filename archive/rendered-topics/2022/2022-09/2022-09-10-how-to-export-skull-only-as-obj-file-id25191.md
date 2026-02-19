@@ -1,3 +1,10 @@
+---
+topic_id: 25191
+title: "How To Export Skull Only As Obj File"
+date: 2022-09-10
+url: https://discourse.slicer.org/t/25191
+---
+
 # How to export skull (Only) as OBJ file
 
 **Topic ID**: 25191

@@ -1,3 +1,10 @@
+---
+topic_id: 19801
+title: "How To Hide Patient Name"
+date: 2021-09-22
+url: https://discourse.slicer.org/t/19801
+---
+
 # How to hide patient name
 
 **Topic ID**: 19801

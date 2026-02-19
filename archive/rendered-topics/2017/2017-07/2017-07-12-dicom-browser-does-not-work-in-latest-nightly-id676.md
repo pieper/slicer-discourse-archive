@@ -1,3 +1,10 @@
+---
+topic_id: 676
+title: "Dicom Browser Does Not Work In Latest Nightly"
+date: 2017-07-12
+url: https://discourse.slicer.org/t/676
+---
+
 # DICOM Browser does not work in latest nightly
 
 **Topic ID**: 676

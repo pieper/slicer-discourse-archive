@@ -1,3 +1,10 @@
+---
+topic_id: 43394
+title: "My Segmentations Disappear When Trying To Change The Resolut"
+date: 2025-06-17
+url: https://discourse.slicer.org/t/43394
+---
+
 # My segmentations disappear when trying to change the resolution
 
 **Topic ID**: 43394

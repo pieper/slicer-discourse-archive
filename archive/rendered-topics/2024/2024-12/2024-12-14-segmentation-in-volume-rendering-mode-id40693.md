@@ -1,3 +1,10 @@
+---
+topic_id: 40693
+title: "Segmentation In Volume Rendering Mode"
+date: 2024-12-14
+url: https://discourse.slicer.org/t/40693
+---
+
 # Segmentation in volume rendering mode
 
 **Topic ID**: 40693

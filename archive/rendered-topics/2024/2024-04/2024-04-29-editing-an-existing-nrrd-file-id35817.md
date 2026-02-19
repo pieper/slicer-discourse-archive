@@ -1,3 +1,10 @@
+---
+topic_id: 35817
+title: "Editing An Existing Nrrd File"
+date: 2024-04-29
+url: https://discourse.slicer.org/t/35817
+---
+
 # Editing an Existing NRRD File
 
 **Topic ID**: 35817

@@ -1,3 +1,10 @@
+---
+topic_id: 37599
+title: "Registration And Enhancement"
+date: 2024-07-28
+url: https://discourse.slicer.org/t/37599
+---
+
 # Registration and enhancement 
 
 **Topic ID**: 37599

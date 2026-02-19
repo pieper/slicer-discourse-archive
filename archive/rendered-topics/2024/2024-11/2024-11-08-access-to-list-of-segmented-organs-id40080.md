@@ -1,3 +1,10 @@
+---
+topic_id: 40080
+title: "Access To List Of Segmented Organs"
+date: 2024-11-08
+url: https://discourse.slicer.org/t/40080
+---
+
 # Access to List of Segmented Organs
 
 **Topic ID**: 40080

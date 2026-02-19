@@ -1,3 +1,10 @@
+---
+topic_id: 35945
+title: "Problem With Exporting Photos"
+date: 2024-05-06
+url: https://discourse.slicer.org/t/35945
+---
+
 # problem with exporting photos
 
 **Topic ID**: 35945

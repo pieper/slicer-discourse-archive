@@ -1,3 +1,10 @@
+---
+topic_id: 1994
+title: "How To Read Linear Transform From C Cli"
+date: 2018-01-31
+url: https://discourse.slicer.org/t/1994
+---
+
 # How to read linear transform from C++ CLI
 
 **Topic ID**: 1994

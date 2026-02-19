@@ -1,3 +1,10 @@
+---
+topic_id: 8037
+title: "Segmenteditor Islands Effect Keeps The Islands In The Origin"
+date: 2019-08-14
+url: https://discourse.slicer.org/t/8037
+---
+
 # SegmentEditor Islands effect keeps the islands in the original segment
 
 **Topic ID**: 8037

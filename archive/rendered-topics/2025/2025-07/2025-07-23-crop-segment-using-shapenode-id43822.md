@@ -1,3 +1,10 @@
+---
+topic_id: 43822
+title: "Crop Segment Using Shapenode"
+date: 2025-07-23
+url: https://discourse.slicer.org/t/43822
+---
+
 # Crop segment using shapeNode
 
 **Topic ID**: 43822

@@ -1,3 +1,10 @@
+---
+topic_id: 20740
+title: "Save Directory According To Subject Hierarchy"
+date: 2021-11-23
+url: https://discourse.slicer.org/t/20740
+---
+
 # Save directory according to subject hierarchy
 
 **Topic ID**: 20740

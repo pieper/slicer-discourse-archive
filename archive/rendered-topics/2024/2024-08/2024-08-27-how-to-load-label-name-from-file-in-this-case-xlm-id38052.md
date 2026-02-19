@@ -1,3 +1,10 @@
+---
+topic_id: 38052
+title: "How To Load Label Name From File In This Case Xlm"
+date: 2024-08-27
+url: https://discourse.slicer.org/t/38052
+---
+
 # How to load label name from file (in this case xlm
 
 **Topic ID**: 38052

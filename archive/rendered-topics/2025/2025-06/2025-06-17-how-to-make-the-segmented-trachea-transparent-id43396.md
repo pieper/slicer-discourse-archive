@@ -1,3 +1,10 @@
+---
+topic_id: 43396
+title: "How To Make The Segmented Trachea Transparent"
+date: 2025-06-17
+url: https://discourse.slicer.org/t/43396
+---
+
 # How to make the segmented trachea transparent
 
 **Topic ID**: 43396

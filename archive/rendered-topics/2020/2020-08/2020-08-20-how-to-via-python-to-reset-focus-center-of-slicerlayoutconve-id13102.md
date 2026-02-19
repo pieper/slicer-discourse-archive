@@ -1,3 +1,10 @@
+---
+topic_id: 13102
+title: "How To Via Python To Reset Focus Center Of Slicerlayoutconve"
+date: 2020-08-20
+url: https://discourse.slicer.org/t/13102
+---
+
 # How to, via python, to reset focus center of SlicerLayoutConventionalQuantitativeView
 
 **Topic ID**: 13102

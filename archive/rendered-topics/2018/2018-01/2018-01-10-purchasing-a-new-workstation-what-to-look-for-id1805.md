@@ -1,3 +1,10 @@
+---
+topic_id: 1805
+title: "Purchasing A New Workstation What To Look For"
+date: 2018-01-10
+url: https://discourse.slicer.org/t/1805
+---
+
 # Purchasing a new workstation - what to look for?
 
 **Topic ID**: 1805

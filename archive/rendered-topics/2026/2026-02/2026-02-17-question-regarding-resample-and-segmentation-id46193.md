@@ -1,3 +1,10 @@
+---
+topic_id: 46193
+title: "Question Regarding Resample And Segmentation"
+date: 2026-02-17
+url: https://discourse.slicer.org/t/46193
+---
+
 # Question regarding resample and segmentation
 
 **Topic ID**: 46193

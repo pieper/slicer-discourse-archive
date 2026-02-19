@@ -1,3 +1,10 @@
+---
+topic_id: 12217
+title: "Creating A 3D Image From A Stack Of Contours"
+date: 2020-06-25
+url: https://discourse.slicer.org/t/12217
+---
+
 # Creating a 3D image from a stack of contours
 
 **Topic ID**: 12217

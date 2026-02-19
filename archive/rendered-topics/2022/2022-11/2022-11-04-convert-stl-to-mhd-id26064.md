@@ -1,3 +1,10 @@
+---
+topic_id: 26064
+title: "Convert Stl To Mhd"
+date: 2022-11-04
+url: https://discourse.slicer.org/t/26064
+---
+
 # Convert stl to mhd
 
 **Topic ID**: 26064

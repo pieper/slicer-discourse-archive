@@ -1,3 +1,10 @@
+---
+topic_id: 32919
+title: "Segment Mesher Through Jupyter Notebook"
+date: 2023-11-21
+url: https://discourse.slicer.org/t/32919
+---
+
 # Segment Mesher through Jupyter notebook
 
 **Topic ID**: 32919

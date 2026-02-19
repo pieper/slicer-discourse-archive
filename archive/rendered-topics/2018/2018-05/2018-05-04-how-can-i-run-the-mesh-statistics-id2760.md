@@ -1,3 +1,10 @@
+---
+topic_id: 2760
+title: "How Can I Run The Mesh Statistics"
+date: 2018-05-04
+url: https://discourse.slicer.org/t/2760
+---
+
 # How can I run the Mesh statistics?
 
 **Topic ID**: 2760

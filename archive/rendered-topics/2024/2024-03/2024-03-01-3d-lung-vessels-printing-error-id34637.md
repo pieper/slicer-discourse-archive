@@ -1,3 +1,10 @@
+---
+topic_id: 34637
+title: "3D Lung Vessels Printing Error"
+date: 2024-03-01
+url: https://discourse.slicer.org/t/34637
+---
+
 # 3d lung vessels printing error
 
 **Topic ID**: 34637

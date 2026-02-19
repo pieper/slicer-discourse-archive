@@ -1,3 +1,10 @@
+---
+topic_id: 9004
+title: "Segmentation Of Brain Tumor"
+date: 2019-11-03
+url: https://discourse.slicer.org/t/9004
+---
+
 # Segmentation of brain Tumor
 
 **Topic ID**: 9004

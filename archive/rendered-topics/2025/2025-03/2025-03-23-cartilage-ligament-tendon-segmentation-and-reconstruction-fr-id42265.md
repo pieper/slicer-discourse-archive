@@ -1,3 +1,10 @@
+---
+topic_id: 42265
+title: "Cartilage Ligament Tendon Segmentation And Reconstruction Fr"
+date: 2025-03-23
+url: https://discourse.slicer.org/t/42265
+---
+
 # Cartilage/Ligament/Tendon Segmentation and Reconstruction from MRI
 
 **Topic ID**: 42265

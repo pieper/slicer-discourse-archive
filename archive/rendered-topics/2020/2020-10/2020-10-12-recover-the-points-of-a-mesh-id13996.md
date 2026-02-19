@@ -1,3 +1,10 @@
+---
+topic_id: 13996
+title: "Recover The Points Of A Mesh"
+date: 2020-10-12
+url: https://discourse.slicer.org/t/13996
+---
+
 # Recover the points of a mesh
 
 **Topic ID**: 13996

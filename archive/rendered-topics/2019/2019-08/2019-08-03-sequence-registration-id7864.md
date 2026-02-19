@@ -1,3 +1,10 @@
+---
+topic_id: 7864
+title: "Sequence Registration"
+date: 2019-08-03
+url: https://discourse.slicer.org/t/7864
+---
+
 # Sequence registration
 
 **Topic ID**: 7864

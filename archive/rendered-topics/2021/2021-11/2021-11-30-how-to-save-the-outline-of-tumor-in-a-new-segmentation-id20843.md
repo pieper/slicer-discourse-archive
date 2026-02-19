@@ -1,3 +1,10 @@
+---
+topic_id: 20843
+title: "How To Save The Outline Of Tumor In A New Segmentation"
+date: 2021-11-30
+url: https://discourse.slicer.org/t/20843
+---
+
 # how to save the outline of tumor in a new segmentation
 
 **Topic ID**: 20843

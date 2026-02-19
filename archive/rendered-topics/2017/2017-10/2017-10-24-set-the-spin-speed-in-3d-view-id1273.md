@@ -1,3 +1,10 @@
+---
+topic_id: 1273
+title: "Set The Spin Speed In 3D View"
+date: 2017-10-24
+url: https://discourse.slicer.org/t/1273
+---
+
 # Set the spin speed in 3D view
 
 **Topic ID**: 1273

@@ -1,3 +1,10 @@
+---
+topic_id: 29453
+title: "Bone Thickness Mapping Not Functioning"
+date: 2023-05-14
+url: https://discourse.slicer.org/t/29453
+---
+
 # Bone Thickness Mapping not functioning
 
 **Topic ID**: 29453

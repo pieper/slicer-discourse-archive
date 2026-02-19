@@ -1,3 +1,10 @@
+---
+topic_id: 20109
+title: "Slicer Crashes When Trying To Run Segment Editor Threshold"
+date: 2021-10-11
+url: https://discourse.slicer.org/t/20109
+---
+
 # Slicer crashes when trying to run segment editor threshold
 
 **Topic ID**: 20109

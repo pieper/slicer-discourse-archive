@@ -1,3 +1,10 @@
+---
+topic_id: 43399
+title: "Is My Perfusion File Incomplete Or Am I Incorrectly Importin"
+date: 2025-06-17
+url: https://discourse.slicer.org/t/43399
+---
+
 # Is my perfusion file incomplete or am I incorrectly importing it? (DSC -> rCBV)
 
 **Topic ID**: 43399

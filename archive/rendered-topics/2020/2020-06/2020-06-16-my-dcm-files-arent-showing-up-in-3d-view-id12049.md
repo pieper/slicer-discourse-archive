@@ -1,3 +1,10 @@
+---
+topic_id: 12049
+title: "My Dcm Files Arent Showing Up In 3D View"
+date: 2020-06-16
+url: https://discourse.slicer.org/t/12049
+---
+
 # My DCM files aren't showing up in 3D View?
 
 **Topic ID**: 12049

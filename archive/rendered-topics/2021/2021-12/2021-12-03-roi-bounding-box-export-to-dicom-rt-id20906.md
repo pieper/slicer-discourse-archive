@@ -1,3 +1,10 @@
+---
+topic_id: 20906
+title: "Roi Bounding Box Export To Dicom Rt"
+date: 2021-12-03
+url: https://discourse.slicer.org/t/20906
+---
+
 # ROI bounding box export to DICOM RT
 
 **Topic ID**: 20906

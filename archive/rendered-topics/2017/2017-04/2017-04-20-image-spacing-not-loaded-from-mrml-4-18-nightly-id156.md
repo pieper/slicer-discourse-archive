@@ -1,3 +1,10 @@
+---
+topic_id: 156
+title: "Image Spacing Not Loaded From Mrml 4 18 Nightly"
+date: 2017-04-20
+url: https://discourse.slicer.org/t/156
+---
+
 # Image spacing not loaded from MRML? [4-18 Nightly]
 
 **Topic ID**: 156

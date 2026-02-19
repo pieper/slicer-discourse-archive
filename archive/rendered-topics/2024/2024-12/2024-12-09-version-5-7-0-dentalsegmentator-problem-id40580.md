@@ -1,3 +1,10 @@
+---
+topic_id: 40580
+title: "Version 5 7 0 Dentalsegmentator Problem"
+date: 2024-12-09
+url: https://discourse.slicer.org/t/40580
+---
+
 # Version 5.7.0 - DentalSegmentator - problem
 
 **Topic ID**: 40580

@@ -1,3 +1,10 @@
+---
+topic_id: 1263
+title: "Vmtk Vessel Filtering Not Working"
+date: 2017-10-23
+url: https://discourse.slicer.org/t/1263
+---
+
 # VMTK vessel filtering not working
 
 **Topic ID**: 1263

@@ -1,3 +1,10 @@
+---
+topic_id: 35375
+title: "Accessing Ok Parameter From Qinputdialog"
+date: 2024-04-09
+url: https://discourse.slicer.org/t/35375
+---
+
 # Accessing 'ok' parameter from QInputDialog
 
 **Topic ID**: 35375

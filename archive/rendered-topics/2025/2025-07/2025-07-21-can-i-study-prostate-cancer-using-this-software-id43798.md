@@ -1,3 +1,10 @@
+---
+topic_id: 43798
+title: "Can I Study Prostate Cancer Using This Software"
+date: 2025-07-21
+url: https://discourse.slicer.org/t/43798
+---
+
 # Can I study prostate cancer using this software 
 
 **Topic ID**: 43798

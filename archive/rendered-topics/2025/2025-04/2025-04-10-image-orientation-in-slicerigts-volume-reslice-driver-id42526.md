@@ -1,3 +1,10 @@
+---
+topic_id: 42526
+title: "Image Orientation In Slicerigts Volume Reslice Driver"
+date: 2025-04-10
+url: https://discourse.slicer.org/t/42526
+---
+
 # Image Orientation in SlicerIGTs Volume Reslice Driver
 
 **Topic ID**: 42526

@@ -1,3 +1,10 @@
+---
+topic_id: 26478
+title: "Export Dti As Ply Rotational Error"
+date: 2022-11-28
+url: https://discourse.slicer.org/t/26478
+---
+
 # Export DTI as Ply rotational error
 
 **Topic ID**: 26478

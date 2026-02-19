@@ -1,3 +1,10 @@
+---
+topic_id: 19398
+title: "Cant Change The Models Color"
+date: 2021-08-29
+url: https://discourse.slicer.org/t/19398
+---
+
 # Can't change the model's color
 
 **Topic ID**: 19398

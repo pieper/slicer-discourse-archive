@@ -1,3 +1,10 @@
+---
+topic_id: 8693
+title: "Thresholding Failing In Nightly Build"
+date: 2019-10-07
+url: https://discourse.slicer.org/t/8693
+---
+
 # Thresholding Failing in Nightly Build
 
 **Topic ID**: 8693

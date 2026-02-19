@@ -1,3 +1,10 @@
+---
+topic_id: 29656
+title: "Modulenotfounderror When Importing From Slicer Parameternode"
+date: 2023-05-25
+url: https://discourse.slicer.org/t/29656
+---
+
 # ModuleNotFoundError when importing from slicer.parameterNodeWrapper
 
 **Topic ID**: 29656

@@ -1,3 +1,10 @@
+---
+topic_id: 36684
+title: "Unicodedecodeerror When Running Dentalsegmentator"
+date: 2024-06-09
+url: https://discourse.slicer.org/t/36684
+---
+
 # UnicodeDecodeError when running DentalSegmentator
 
 **Topic ID**: 36684

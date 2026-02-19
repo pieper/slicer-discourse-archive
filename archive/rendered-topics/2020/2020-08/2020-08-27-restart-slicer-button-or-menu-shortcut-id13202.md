@@ -1,3 +1,10 @@
+---
+topic_id: 13202
+title: "Restart Slicer Button Or Menu Shortcut"
+date: 2020-08-27
+url: https://discourse.slicer.org/t/13202
+---
+
 # Restart Slicer button or menu shortcut
 
 **Topic ID**: 13202

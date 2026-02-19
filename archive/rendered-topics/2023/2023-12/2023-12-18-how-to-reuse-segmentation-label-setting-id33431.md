@@ -1,3 +1,10 @@
+---
+topic_id: 33431
+title: "How To Reuse Segmentation Label Setting"
+date: 2023-12-18
+url: https://discourse.slicer.org/t/33431
+---
+
 # How to reuse segmentation label setting?
 
 **Topic ID**: 33431

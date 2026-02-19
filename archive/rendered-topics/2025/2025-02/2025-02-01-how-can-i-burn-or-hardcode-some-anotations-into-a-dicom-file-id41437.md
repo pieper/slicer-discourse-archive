@@ -1,3 +1,10 @@
+---
+topic_id: 41437
+title: "How Can I Burn Or Hardcode Some Anotations Into A Dicom File"
+date: 2025-02-01
+url: https://discourse.slicer.org/t/41437
+---
+
 # How can I burn or hardcode some anotations into a dicom files (multiple frames-files))
 
 **Topic ID**: 41437

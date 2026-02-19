@@ -1,3 +1,10 @@
+---
+topic_id: 41179
+title: "Slicer Omniverse Support"
+date: 2025-01-21
+url: https://discourse.slicer.org/t/41179
+---
+
 # Slicer Omniverse Support
 
 **Topic ID**: 41179

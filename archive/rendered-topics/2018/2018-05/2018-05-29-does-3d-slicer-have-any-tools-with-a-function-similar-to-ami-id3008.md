@@ -1,3 +1,10 @@
+---
+topic_id: 3008
+title: "Does 3D Slicer Have Any Tools With A Function Similar To Ami"
+date: 2018-05-29
+url: https://discourse.slicer.org/t/3008
+---
+
 # Does 3D slicer have any tools with a function similar to AMIRA's "magic wand"?
 
 **Topic ID**: 3008

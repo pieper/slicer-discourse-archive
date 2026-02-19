@@ -1,3 +1,10 @@
+---
+topic_id: 40701
+title: "Urlopen Error Errno 111 Connection Refused For Hd Brain Extr"
+date: 2024-12-15
+url: https://discourse.slicer.org/t/40701
+---
+
 # <urlopen error [Errno 111] Connection refused> for HD brain extraction tool, how to solve it?
 
 **Topic ID**: 40701

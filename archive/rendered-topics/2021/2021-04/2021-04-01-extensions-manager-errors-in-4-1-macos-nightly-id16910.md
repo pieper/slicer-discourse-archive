@@ -1,3 +1,10 @@
+---
+topic_id: 16910
+title: "Extensions Manager Errors In 4 1 Macos Nightly"
+date: 2021-04-01
+url: https://discourse.slicer.org/t/16910
+---
+
 # Extensions manager errors in 4/1 MacOS nightly
 
 **Topic ID**: 16910

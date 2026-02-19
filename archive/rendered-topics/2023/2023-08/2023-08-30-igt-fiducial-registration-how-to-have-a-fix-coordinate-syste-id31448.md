@@ -1,3 +1,10 @@
+---
+topic_id: 31448
+title: "Igt Fiducial Registration How To Have A Fix Coordinate Syste"
+date: 2023-08-30
+url: https://discourse.slicer.org/t/31448
+---
+
 # IGT fiducial registration : How to have a fix coordinate system
 
 **Topic ID**: 31448

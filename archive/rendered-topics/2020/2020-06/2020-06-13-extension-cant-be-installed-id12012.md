@@ -1,3 +1,10 @@
+---
+topic_id: 12012
+title: "Extension Cant Be Installed"
+date: 2020-06-13
+url: https://discourse.slicer.org/t/12012
+---
+
 # Extension can't be installed!
 
 **Topic ID**: 12012

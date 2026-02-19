@@ -1,3 +1,10 @@
+---
+topic_id: 26854
+title: "Petdicomextension"
+date: 2022-12-20
+url: https://discourse.slicer.org/t/26854
+---
+
 # PETDICOMExtension
 
 **Topic ID**: 26854

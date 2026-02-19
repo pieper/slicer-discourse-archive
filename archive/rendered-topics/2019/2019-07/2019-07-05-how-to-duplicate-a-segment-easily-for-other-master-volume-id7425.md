@@ -1,3 +1,10 @@
+---
+topic_id: 7425
+title: "How To Duplicate A Segment Easily For Other Master Volume"
+date: 2019-07-05
+url: https://discourse.slicer.org/t/7425
+---
+
 # How to duplicate a segment easily for other master volume?
 
 **Topic ID**: 7425

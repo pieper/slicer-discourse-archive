@@ -1,3 +1,10 @@
+---
+topic_id: 8236
+title: "Display 3D View In A Separate Window"
+date: 2019-08-30
+url: https://discourse.slicer.org/t/8236
+---
+
 # Display 3d view in a separate window
 
 **Topic ID**: 8236

@@ -1,3 +1,10 @@
+---
+topic_id: 937
+title: "Why Dentists Surceons And Other Doctors Use Dicom And Not St"
+date: 2017-08-24
+url: https://discourse.slicer.org/t/937
+---
+
 # Why dentists, surceons and other doctors use DICOM and not STL?
 
 **Topic ID**: 937

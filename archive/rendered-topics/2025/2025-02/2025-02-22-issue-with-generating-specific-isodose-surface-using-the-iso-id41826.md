@@ -1,3 +1,10 @@
+---
+topic_id: 41826
+title: "Issue With Generating Specific Isodose Surface Using The Iso"
+date: 2025-02-22
+url: https://discourse.slicer.org/t/41826
+---
+
 # Issue with Generating Specific Isodose Surface using the Isodose Module in Python Interactor
 
 **Topic ID**: 41826

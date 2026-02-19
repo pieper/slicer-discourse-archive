@@ -1,3 +1,10 @@
+---
+topic_id: 32008
+title: "Resample Scalar Volume Automatization"
+date: 2023-10-03
+url: https://discourse.slicer.org/t/32008
+---
+
 # Resample Scalar Volume Automatization
 
 **Topic ID**: 32008

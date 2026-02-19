@@ -1,3 +1,10 @@
+---
+topic_id: 33166
+title: "Could Someone Help Me About Segmentation"
+date: 2023-12-01
+url: https://discourse.slicer.org/t/33166
+---
+
 # Could someone help me about segmentation?
 
 **Topic ID**: 33166

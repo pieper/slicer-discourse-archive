@@ -1,3 +1,10 @@
+---
+topic_id: 27549
+title: "Change Data Type For Nifti Export Of Seg"
+date: 2023-01-31
+url: https://discourse.slicer.org/t/27549
+---
+
 # Change data type for nifti export of SEG
 
 **Topic ID**: 27549

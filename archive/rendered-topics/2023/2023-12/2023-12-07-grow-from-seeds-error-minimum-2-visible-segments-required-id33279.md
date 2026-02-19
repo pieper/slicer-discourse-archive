@@ -1,3 +1,10 @@
+---
+topic_id: 33279
+title: "Grow From Seeds Error Minimum 2 Visible Segments Required"
+date: 2023-12-07
+url: https://discourse.slicer.org/t/33279
+---
+
 # Grow from seeds error - minimum 2 visible segments required
 
 **Topic ID**: 33279

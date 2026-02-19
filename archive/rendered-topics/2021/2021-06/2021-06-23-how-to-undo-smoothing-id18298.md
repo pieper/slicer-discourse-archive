@@ -1,3 +1,10 @@
+---
+topic_id: 18298
+title: "How To Undo Smoothing"
+date: 2021-06-23
+url: https://discourse.slicer.org/t/18298
+---
+
 # How to undo Smoothing
 
 **Topic ID**: 18298

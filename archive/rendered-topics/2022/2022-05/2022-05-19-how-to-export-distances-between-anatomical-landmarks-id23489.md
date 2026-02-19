@@ -1,3 +1,10 @@
+---
+topic_id: 23489
+title: "How To Export Distances Between Anatomical Landmarks"
+date: 2022-05-19
+url: https://discourse.slicer.org/t/23489
+---
+
 # How to export distances between anatomical landmarks
 
 **Topic ID**: 23489

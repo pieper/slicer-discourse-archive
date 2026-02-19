@@ -1,3 +1,10 @@
+---
+topic_id: 27825
+title: "Installing Python Package Sklearn Fails"
+date: 2023-02-15
+url: https://discourse.slicer.org/t/27825
+---
+
 # Installing Python package sklearn fails
 
 **Topic ID**: 27825

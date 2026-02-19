@@ -1,3 +1,10 @@
+---
+topic_id: 45691
+title: "Calculating Volume Of Bone Samples Student Needing Assistanc"
+date: 2026-01-06
+url: https://discourse.slicer.org/t/45691
+---
+
 # Calculating volume of bone samples - Student Needing Assistance Using Slicer for Project
 
 **Topic ID**: 45691

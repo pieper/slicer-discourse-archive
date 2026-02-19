@@ -1,3 +1,10 @@
+---
+topic_id: 11035
+title: "Endocranial Cavity Segmentation Tutorial"
+date: 2020-04-08
+url: https://discourse.slicer.org/t/11035
+---
+
 # Endocranial cavity segmentation tutorial
 
 **Topic ID**: 11035

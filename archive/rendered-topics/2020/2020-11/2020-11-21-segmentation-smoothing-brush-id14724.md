@@ -1,3 +1,10 @@
+---
+topic_id: 14724
+title: "Segmentation Smoothing Brush"
+date: 2020-11-21
+url: https://discourse.slicer.org/t/14724
+---
+
 # Segmentation smoothing brush
 
 **Topic ID**: 14724

@@ -1,3 +1,10 @@
+---
+topic_id: 1376
+title: "Could Not Save My 3D Model As Stl"
+date: 2017-11-04
+url: https://discourse.slicer.org/t/1376
+---
+
 # Could not save my 3d model as STL
 
 **Topic ID**: 1376

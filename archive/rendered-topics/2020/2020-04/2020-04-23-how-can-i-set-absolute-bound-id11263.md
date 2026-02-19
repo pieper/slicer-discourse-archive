@@ -1,3 +1,10 @@
+---
+topic_id: 11263
+title: "How Can I Set Absolute Bound"
+date: 2020-04-23
+url: https://discourse.slicer.org/t/11263
+---
+
 # How can I set absolute bound
 
 **Topic ID**: 11263

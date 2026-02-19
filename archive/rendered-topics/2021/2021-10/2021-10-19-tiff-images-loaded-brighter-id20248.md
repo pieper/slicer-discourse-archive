@@ -1,3 +1,10 @@
+---
+topic_id: 20248
+title: "Tiff Images Loaded Brighter"
+date: 2021-10-19
+url: https://discourse.slicer.org/t/20248
+---
+
 # Tiff images loaded brighter
 
 **Topic ID**: 20248

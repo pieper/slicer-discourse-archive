@@ -1,3 +1,10 @@
+---
+topic_id: 21804
+title: "Is There A Way To Adjust The Painting Area"
+date: 2022-02-04
+url: https://discourse.slicer.org/t/21804
+---
+
 # Is there a way to adjust the painting area?
 
 **Topic ID**: 21804

@@ -1,3 +1,10 @@
+---
+topic_id: 3982
+title: "Slicer 4 8 Stopped Working"
+date: 2018-09-04
+url: https://discourse.slicer.org/t/3982
+---
+
 # Slicer 4.8 stopped working
 
 **Topic ID**: 3982

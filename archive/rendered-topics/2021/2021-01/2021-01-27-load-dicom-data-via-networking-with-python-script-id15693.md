@@ -1,3 +1,10 @@
+---
+topic_id: 15693
+title: "Load Dicom Data Via Networking With Python Script"
+date: 2021-01-27
+url: https://discourse.slicer.org/t/15693
+---
+
 # Load DICOM data via "networking" with python script?
 
 **Topic ID**: 15693

@@ -1,3 +1,10 @@
+---
+topic_id: 29381
+title: "The Spline Function For Spline Curve In Markups"
+date: 2023-05-09
+url: https://discourse.slicer.org/t/29381
+---
+
 # The spline function for spline curve in Markups
 
 **Topic ID**: 29381

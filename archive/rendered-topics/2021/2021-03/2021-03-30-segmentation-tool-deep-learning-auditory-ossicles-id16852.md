@@ -1,3 +1,10 @@
+---
+topic_id: 16852
+title: "Segmentation Tool Deep Learning Auditory Ossicles"
+date: 2021-03-30
+url: https://discourse.slicer.org/t/16852
+---
+
 # Segmentation tool, Deep learning, Auditory ossicles
 
 **Topic ID**: 16852

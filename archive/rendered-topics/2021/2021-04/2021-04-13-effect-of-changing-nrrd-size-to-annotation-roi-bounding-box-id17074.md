@@ -1,3 +1,10 @@
+---
+topic_id: 17074
+title: "Effect Of Changing Nrrd Size To Annotation Roi Bounding Box"
+date: 2021-04-13
+url: https://discourse.slicer.org/t/17074
+---
+
 # Effect of changing ".nrrd" size to annotation (ROI bounding box)
 
 **Topic ID**: 17074

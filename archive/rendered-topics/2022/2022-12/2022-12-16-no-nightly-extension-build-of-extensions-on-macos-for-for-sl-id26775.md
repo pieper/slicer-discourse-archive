@@ -1,3 +1,10 @@
+---
+topic_id: 26775
+title: "No Nightly Extension Build Of Extensions On Macos For For Sl"
+date: 2022-12-16
+url: https://discourse.slicer.org/t/26775
+---
+
 # No nightly extension build of extensions on macOS for for Slicer Stable Release
 
 **Topic ID**: 26775

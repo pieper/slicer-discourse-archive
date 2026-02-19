@@ -1,3 +1,10 @@
+---
+topic_id: 32740
+title: "Split 4D Ct Scan Into Separate Time Frame Series"
+date: 2023-11-11
+url: https://discourse.slicer.org/t/32740
+---
+
 # Split 4D CT scan into separate time frame series
 
 **Topic ID**: 32740

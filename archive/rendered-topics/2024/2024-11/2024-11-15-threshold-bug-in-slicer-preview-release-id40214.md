@@ -1,3 +1,10 @@
+---
+topic_id: 40214
+title: "Threshold Bug In Slicer Preview Release"
+date: 2024-11-15
+url: https://discourse.slicer.org/t/40214
+---
+
 # Threshold bug in slicer preview release
 
 **Topic ID**: 40214

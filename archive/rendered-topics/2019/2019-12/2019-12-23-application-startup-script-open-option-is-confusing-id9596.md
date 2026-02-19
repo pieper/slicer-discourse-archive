@@ -1,3 +1,10 @@
+---
+topic_id: 9596
+title: "Application Startup Script Open Option Is Confusing"
+date: 2019-12-23
+url: https://discourse.slicer.org/t/9596
+---
+
 # Application startup script open option is confusing
 
 **Topic ID**: 9596

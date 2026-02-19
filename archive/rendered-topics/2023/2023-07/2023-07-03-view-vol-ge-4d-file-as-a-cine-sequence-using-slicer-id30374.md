@@ -1,3 +1,10 @@
+---
+topic_id: 30374
+title: "View Vol Ge 4D File As A Cine Sequence Using Slicer"
+date: 2023-07-03
+url: https://discourse.slicer.org/t/30374
+---
+
 # View .vol GE 4D file as a cine sequence using Slicer
 
 **Topic ID**: 30374

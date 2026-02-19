@@ -1,3 +1,10 @@
+---
+topic_id: 6540
+title: "Errors While Loading Slicer Nightly"
+date: 2019-04-19
+url: https://discourse.slicer.org/t/6540
+---
+
 # Errors while loading Slicer nightly
 
 **Topic ID**: 6540

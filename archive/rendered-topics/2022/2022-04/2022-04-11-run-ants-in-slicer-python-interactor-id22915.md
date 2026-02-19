@@ -1,3 +1,10 @@
+---
+topic_id: 22915
+title: "Run Ants In Slicer Python Interactor"
+date: 2022-04-11
+url: https://discourse.slicer.org/t/22915
+---
+
 # Run ANTs in Slicer Python Interactor
 
 **Topic ID**: 22915

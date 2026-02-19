@@ -1,3 +1,10 @@
+---
+topic_id: 15860
+title: "Error When Importing Matplotlib"
+date: 2021-02-05
+url: https://discourse.slicer.org/t/15860
+---
+
 # Error when importing Matplotlib
 
 **Topic ID**: 15860

@@ -1,3 +1,10 @@
+---
+topic_id: 3696
+title: "Import T1 Series Mri"
+date: 2018-08-08
+url: https://discourse.slicer.org/t/3696
+---
+
 # Import T1 series MRI
 
 **Topic ID**: 3696

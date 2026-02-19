@@ -1,3 +1,10 @@
+---
+topic_id: 19103
+title: "Radius Of Centreline Curve"
+date: 2021-08-06
+url: https://discourse.slicer.org/t/19103
+---
+
 # Radius of Centreline Curve
 
 **Topic ID**: 19103

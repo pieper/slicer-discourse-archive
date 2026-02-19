@@ -1,3 +1,10 @@
+---
+topic_id: 28607
+title: "Dcm2Niix Crash With Morphosource Data"
+date: 2023-03-28
+url: https://discourse.slicer.org/t/28607
+---
+
 # DCM2NIIX crash with MorphoSource data
 
 **Topic ID**: 28607

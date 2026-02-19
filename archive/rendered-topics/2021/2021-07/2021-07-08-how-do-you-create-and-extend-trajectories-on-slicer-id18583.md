@@ -1,3 +1,10 @@
+---
+topic_id: 18583
+title: "How Do You Create And Extend Trajectories On Slicer"
+date: 2021-07-08
+url: https://discourse.slicer.org/t/18583
+---
+
 # How do you create and extend trajectories on Slicer?
 
 **Topic ID**: 18583

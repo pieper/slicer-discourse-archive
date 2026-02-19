@@ -1,3 +1,10 @@
+---
+topic_id: 25897
+title: "Rename Python Interactor To Python Console"
+date: 2022-10-25
+url: https://discourse.slicer.org/t/25897
+---
+
 # Rename Python interactor to Python console?
 
 **Topic ID**: 25897

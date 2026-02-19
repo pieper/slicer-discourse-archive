@@ -1,3 +1,10 @@
+---
+topic_id: 10587
+title: "Virtual Fracture Reconstruction Extension"
+date: 2020-03-07
+url: https://discourse.slicer.org/t/10587
+---
+
 # Virtual Fracture Reconstruction Extension
 
 **Topic ID**: 10587

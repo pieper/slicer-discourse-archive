@@ -1,3 +1,10 @@
+---
+topic_id: 23712
+title: "How To Download Offline Zip Install File Of Languagepacks Be"
+date: 2022-06-05
+url: https://discourse.slicer.org/t/23712
+---
+
 # How to download offline zip install file of LanguagePacks? Because I can't search out or find it in 3DSlicer 4.11 extension manager
 
 **Topic ID**: 23712

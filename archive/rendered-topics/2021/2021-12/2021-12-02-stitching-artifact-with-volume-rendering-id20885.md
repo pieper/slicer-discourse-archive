@@ -1,3 +1,10 @@
+---
+topic_id: 20885
+title: "Stitching Artifact With Volume Rendering"
+date: 2021-12-02
+url: https://discourse.slicer.org/t/20885
+---
+
 # Stitching artifact with volume rendering
 
 **Topic ID**: 20885

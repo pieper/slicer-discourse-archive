@@ -1,3 +1,10 @@
+---
+topic_id: 30415
+title: "Lung Segmentation Algorithm"
+date: 2023-07-05
+url: https://discourse.slicer.org/t/30415
+---
+
 # Lung Segmentation Algorithm
 
 **Topic ID**: 30415

@@ -1,3 +1,10 @@
+---
+topic_id: 7680
+title: "Welcome Dialog Keeps Reappearing"
+date: 2019-07-18
+url: https://discourse.slicer.org/t/7680
+---
+
 # Welcome dialog keeps reappearing
 
 **Topic ID**: 7680

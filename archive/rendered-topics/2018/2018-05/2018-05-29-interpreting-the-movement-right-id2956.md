@@ -1,3 +1,10 @@
+---
+topic_id: 2956
+title: "Interpreting The Movement Right"
+date: 2018-05-29
+url: https://discourse.slicer.org/t/2956
+---
+
 # Interpreting the movement right?
 
 **Topic ID**: 2956

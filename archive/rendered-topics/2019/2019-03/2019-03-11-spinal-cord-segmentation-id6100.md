@@ -1,3 +1,10 @@
+---
+topic_id: 6100
+title: "Spinal Cord Segmentation"
+date: 2019-03-11
+url: https://discourse.slicer.org/t/6100
+---
+
 # Spinal Cord Segmentation
 
 **Topic ID**: 6100

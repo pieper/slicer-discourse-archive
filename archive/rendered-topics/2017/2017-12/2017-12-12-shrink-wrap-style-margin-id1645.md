@@ -1,3 +1,10 @@
+---
+topic_id: 1645
+title: "Shrink Wrap Style Margin"
+date: 2017-12-12
+url: https://discourse.slicer.org/t/1645
+---
+
 # Shrink-wrap style margin?
 
 **Topic ID**: 1645

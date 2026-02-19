@@ -1,3 +1,10 @@
+---
+topic_id: 20309
+title: "Increment Through Slices In Sliceviews Programatically"
+date: 2021-10-23
+url: https://discourse.slicer.org/t/20309
+---
+
 # Increment through slices in sliceviews programatically
 
 **Topic ID**: 20309

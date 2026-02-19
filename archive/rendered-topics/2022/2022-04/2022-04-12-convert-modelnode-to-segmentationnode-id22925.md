@@ -1,3 +1,10 @@
+---
+topic_id: 22925
+title: "Convert Modelnode To Segmentationnode"
+date: 2022-04-12
+url: https://discourse.slicer.org/t/22925
+---
+
 # Convert ModelNode to SegmentationNode
 
 **Topic ID**: 22925

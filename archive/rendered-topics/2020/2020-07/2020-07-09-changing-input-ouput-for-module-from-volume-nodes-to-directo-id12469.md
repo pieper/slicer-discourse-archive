@@ -1,3 +1,10 @@
+---
+topic_id: 12469
+title: "Changing Input Ouput For Module From Volume Nodes To Directo"
+date: 2020-07-09
+url: https://discourse.slicer.org/t/12469
+---
+
 # Changing Input/Ouput for Module from Volume Nodes to Directories
 
 **Topic ID**: 12469

@@ -1,3 +1,10 @@
+---
+topic_id: 37225
+title: "Cloud Instance Alpaca Not Working"
+date: 2024-07-06
+url: https://discourse.slicer.org/t/37225
+---
+
 # Cloud instance ALPACA not working
 
 **Topic ID**: 37225

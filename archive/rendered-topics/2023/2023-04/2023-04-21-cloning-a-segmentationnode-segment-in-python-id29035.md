@@ -1,3 +1,10 @@
+---
+topic_id: 29035
+title: "Cloning A Segmentationnode Segment In Python"
+date: 2023-04-21
+url: https://discourse.slicer.org/t/29035
+---
+
 # Cloning a SegmentationNode segment in Python
 
 **Topic ID**: 29035

@@ -1,3 +1,10 @@
+---
+topic_id: 43536
+title: "Error Loading Slicermorphrc Py"
+date: 2025-06-29
+url: https://discourse.slicer.org/t/43536
+---
+
 # Error loading SlicerMorphRC.py
 
 **Topic ID**: 43536

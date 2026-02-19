@@ -1,3 +1,10 @@
+---
+topic_id: 5135
+title: "3D Model To Segmentation"
+date: 2018-12-18
+url: https://discourse.slicer.org/t/5135
+---
+
 # 3D model to segmentation
 
 **Topic ID**: 5135

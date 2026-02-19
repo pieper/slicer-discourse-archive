@@ -1,3 +1,10 @@
+---
+topic_id: 34452
+title: "Virtual Reality Installation"
+date: 2024-02-21
+url: https://discourse.slicer.org/t/34452
+---
+
 # Virtual Reality installation
 
 **Topic ID**: 34452

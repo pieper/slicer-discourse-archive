@@ -1,3 +1,10 @@
+---
+topic_id: 42636
+title: "Set The View Perpendicular On Each Tooth"
+date: 2025-04-20
+url: https://discourse.slicer.org/t/42636
+---
+
 # Set the view perpendicular on each tooth
 
 **Topic ID**: 42636

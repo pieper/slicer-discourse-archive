@@ -1,3 +1,10 @@
+---
+topic_id: 13586
+title: "Fill Between Slices By Code"
+date: 2020-09-21
+url: https://discourse.slicer.org/t/13586
+---
+
 # Fill between slices by code
 
 **Topic ID**: 13586

@@ -1,3 +1,10 @@
+---
+topic_id: 32218
+title: "Textnode Not Shown In Save Dialog"
+date: 2023-10-13
+url: https://discourse.slicer.org/t/32218
+---
+
 # Textnode not shown in save dialog
 
 **Topic ID**: 32218

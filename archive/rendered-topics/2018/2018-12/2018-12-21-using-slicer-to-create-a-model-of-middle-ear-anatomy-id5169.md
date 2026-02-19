@@ -1,3 +1,10 @@
+---
+topic_id: 5169
+title: "Using Slicer To Create A Model Of Middle Ear Anatomy"
+date: 2018-12-21
+url: https://discourse.slicer.org/t/5169
+---
+
 # Using Slicer to create a model of middle ear anatomy
 
 **Topic ID**: 5169

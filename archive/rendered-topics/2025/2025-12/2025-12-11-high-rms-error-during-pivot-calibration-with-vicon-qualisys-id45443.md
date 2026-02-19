@@ -1,3 +1,10 @@
+---
+topic_id: 45443
+title: "High Rms Error During Pivot Calibration With Vicon Qualisys"
+date: 2025-12-11
+url: https://discourse.slicer.org/t/45443
+---
+
 # High RMS error during pivot calibration with Vicon/Qualisys
 
 **Topic ID**: 45443

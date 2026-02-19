@@ -1,3 +1,10 @@
+---
+topic_id: 22648
+title: "Cortical Bone Thickness Measurement"
+date: 2022-03-23
+url: https://discourse.slicer.org/t/22648
+---
+
 # Cortical bone thickness measurement
 
 **Topic ID**: 22648

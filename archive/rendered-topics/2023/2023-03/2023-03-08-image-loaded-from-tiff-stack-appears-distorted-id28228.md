@@ -1,3 +1,10 @@
+---
+topic_id: 28228
+title: "Image Loaded From Tiff Stack Appears Distorted"
+date: 2023-03-08
+url: https://discourse.slicer.org/t/28228
+---
+
 # Image loaded from tiff stack appears distorted
 
 **Topic ID**: 28228

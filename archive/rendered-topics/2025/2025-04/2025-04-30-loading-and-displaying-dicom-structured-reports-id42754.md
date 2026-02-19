@@ -1,3 +1,10 @@
+---
+topic_id: 42754
+title: "Loading And Displaying Dicom Structured Reports"
+date: 2025-04-30
+url: https://discourse.slicer.org/t/42754
+---
+
 # Loading and displaying DICOM Structured Reports
 
 **Topic ID**: 42754

@@ -1,3 +1,10 @@
+---
+topic_id: 25100
+title: "How To Select An Existing Roi In Localtreshold Of Segmentedi"
+date: 2022-09-05
+url: https://discourse.slicer.org/t/25100
+---
+
 # How to select an existing ROI in LocalTreshold of SegmentEditor with code?
 
 **Topic ID**: 25100

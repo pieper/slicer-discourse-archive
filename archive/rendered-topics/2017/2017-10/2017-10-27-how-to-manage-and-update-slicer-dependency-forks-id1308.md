@@ -1,3 +1,10 @@
+---
+topic_id: 1308
+title: "How To Manage And Update Slicer Dependency Forks"
+date: 2017-10-27
+url: https://discourse.slicer.org/t/1308
+---
+
 # How to manage and update Slicer dependency forks?
 
 **Topic ID**: 1308

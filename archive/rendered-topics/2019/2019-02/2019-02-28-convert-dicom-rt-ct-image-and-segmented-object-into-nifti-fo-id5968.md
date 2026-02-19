@@ -1,3 +1,10 @@
+---
+topic_id: 5968
+title: "Convert Dicom Rt Ct Image And Segmented Object Into Nifti Fo"
+date: 2019-02-28
+url: https://discourse.slicer.org/t/5968
+---
+
 # Convert DICOM-RT CT image and segmented object into NIFTI format
 
 **Topic ID**: 5968

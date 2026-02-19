@@ -1,3 +1,10 @@
+---
+topic_id: 37084
+title: "Showing Deformation On A Reference Model"
+date: 2024-06-28
+url: https://discourse.slicer.org/t/37084
+---
+
 # Showing deformation on a reference model
 
 **Topic ID**: 37084

@@ -1,3 +1,10 @@
+---
+topic_id: 23169
+title: "Vmtk Centerline Diameter Max Min Module"
+date: 2022-04-28
+url: https://discourse.slicer.org/t/23169
+---
+
 # VMTK centerline diameter max min module
 
 **Topic ID**: 23169

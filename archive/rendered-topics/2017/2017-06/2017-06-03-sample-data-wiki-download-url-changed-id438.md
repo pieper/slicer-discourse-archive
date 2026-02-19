@@ -1,3 +1,10 @@
+---
+topic_id: 438
+title: "Sample Data Wiki Download Url Changed"
+date: 2017-06-03
+url: https://discourse.slicer.org/t/438
+---
+
 # Sample data wiki download URL changed
 
 **Topic ID**: 438

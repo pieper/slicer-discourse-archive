@@ -1,3 +1,10 @@
+---
+topic_id: 41842
+title: "The Difference In The Results Of Running Isodose From Python"
+date: 2025-02-23
+url: https://discourse.slicer.org/t/41842
+---
+
 # The difference in the results of running Isodose from Python Interactor between the two versions of 3DSlicer and the result from the Isodose module
 
 **Topic ID**: 41842

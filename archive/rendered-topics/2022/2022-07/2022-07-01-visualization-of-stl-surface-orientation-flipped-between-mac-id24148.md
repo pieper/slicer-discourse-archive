@@ -1,3 +1,10 @@
+---
+topic_id: 24148
+title: "Visualization Of Stl Surface Orientation Flipped Between Mac"
+date: 2022-07-01
+url: https://discourse.slicer.org/t/24148
+---
+
 # visualization of STL surface orientation flipped between machines
 
 **Topic ID**: 24148

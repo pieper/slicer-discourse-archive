@@ -1,3 +1,10 @@
+---
+topic_id: 8907
+title: "Shading Changes With Default Orientation Buttons At Differen"
+date: 2019-10-25
+url: https://discourse.slicer.org/t/8907
+---
+
 # Shading changes with default orientation buttons at different zooms
 
 **Topic ID**: 8907

@@ -1,3 +1,10 @@
+---
+topic_id: 5087
+title: "Improving Manual Segmentation Of Mri Images Using Automatic"
+date: 2018-12-16
+url: https://discourse.slicer.org/t/5087
+---
+
 # Improving manual segmentation of MRI images using automatic methods
 
 **Topic ID**: 5087

@@ -1,3 +1,10 @@
+---
+topic_id: 3094
+title: "Volume Rendering Vessel Segmentation Of Oct"
+date: 2018-06-06
+url: https://discourse.slicer.org/t/3094
+---
+
 # Volume rendering/vessel segmentation of OCT
 
 **Topic ID**: 3094

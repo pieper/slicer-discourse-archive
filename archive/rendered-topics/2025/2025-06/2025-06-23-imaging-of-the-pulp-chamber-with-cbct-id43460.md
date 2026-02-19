@@ -1,3 +1,10 @@
+---
+topic_id: 43460
+title: "Imaging Of The Pulp Chamber With Cbct"
+date: 2025-06-23
+url: https://discourse.slicer.org/t/43460
+---
+
 # Imaging of the pulp chamber with CBCT
 
 **Topic ID**: 43460

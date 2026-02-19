@@ -1,3 +1,10 @@
+---
+topic_id: 31216
+title: "Bone Trabecular Parameters Like Degree Of Anisotropy"
+date: 2023-08-18
+url: https://discourse.slicer.org/t/31216
+---
+
 # bone trabecular parameters like degree of anisotropy
 
 **Topic ID**: 31216

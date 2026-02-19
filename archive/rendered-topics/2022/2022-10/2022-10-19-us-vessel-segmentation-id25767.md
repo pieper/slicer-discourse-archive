@@ -1,3 +1,10 @@
+---
+topic_id: 25767
+title: "Us Vessel Segmentation"
+date: 2022-10-19
+url: https://discourse.slicer.org/t/25767
+---
+
 # US vessel segmentation
 
 **Topic ID**: 25767

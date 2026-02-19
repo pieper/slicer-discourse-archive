@@ -1,3 +1,10 @@
+---
+topic_id: 16434
+title: "Slicerjupiter Extension Not Found"
+date: 2021-03-08
+url: https://discourse.slicer.org/t/16434
+---
+
 # SlicerJupiter extension not found
 
 **Topic ID**: 16434

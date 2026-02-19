@@ -1,3 +1,10 @@
+---
+topic_id: 19795
+title: "How To Judge Whether A Point In A Space Is In The Roi"
+date: 2021-09-22
+url: https://discourse.slicer.org/t/19795
+---
+
 # How to judge whether a point in a space is in the ROI?
 
 **Topic ID**: 19795

@@ -1,3 +1,10 @@
+---
+topic_id: 12780
+title: "Uploading Files"
+date: 2020-07-29
+url: https://discourse.slicer.org/t/12780
+---
+
 # Uploading files
 
 **Topic ID**: 12780

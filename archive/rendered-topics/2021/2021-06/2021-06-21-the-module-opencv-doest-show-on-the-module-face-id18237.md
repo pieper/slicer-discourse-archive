@@ -1,3 +1,10 @@
+---
+topic_id: 18237
+title: "The Module Opencv Doest Show On The Module Face"
+date: 2021-06-21
+url: https://discourse.slicer.org/t/18237
+---
+
 # The Module, OpenCV,does't show on the Module face
 
 **Topic ID**: 18237

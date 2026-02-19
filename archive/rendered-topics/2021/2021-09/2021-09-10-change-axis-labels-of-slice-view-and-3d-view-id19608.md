@@ -1,3 +1,10 @@
+---
+topic_id: 19608
+title: "Change Axis Labels Of Slice View And 3D View"
+date: 2021-09-10
+url: https://discourse.slicer.org/t/19608
+---
+
 # Change axis labels of slice view and 3D view
 
 **Topic ID**: 19608

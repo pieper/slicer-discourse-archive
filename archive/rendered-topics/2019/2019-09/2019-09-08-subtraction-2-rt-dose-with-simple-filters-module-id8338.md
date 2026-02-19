@@ -1,3 +1,10 @@
+---
+topic_id: 8338
+title: "Subtraction 2 Rt Dose With Simple Filters Module"
+date: 2019-09-08
+url: https://discourse.slicer.org/t/8338
+---
+
 # Subtraction 2 RT Dose with Simple filters module
 
 **Topic ID**: 8338

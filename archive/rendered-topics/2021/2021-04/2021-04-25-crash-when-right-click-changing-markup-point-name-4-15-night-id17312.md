@@ -1,3 +1,10 @@
+---
+topic_id: 17312
+title: "Crash When Right Click Changing Markup Point Name 4 15 Night"
+date: 2021-04-25
+url: https://discourse.slicer.org/t/17312
+---
+
 # Crash when right-click changing markup point name - 4/15 nightly
 
 **Topic ID**: 17312

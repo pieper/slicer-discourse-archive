@@ -1,3 +1,10 @@
+---
+topic_id: 25567
+title: "Mismatch In Volume Size Of Same Segmentation"
+date: 2022-10-05
+url: https://discourse.slicer.org/t/25567
+---
+
 # Mismatch in volume size of same segmentation
 
 **Topic ID**: 25567

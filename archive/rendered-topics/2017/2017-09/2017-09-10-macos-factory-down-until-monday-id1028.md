@@ -1,3 +1,10 @@
+---
+topic_id: 1028
+title: "Macos Factory Down Until Monday"
+date: 2017-09-10
+url: https://discourse.slicer.org/t/1028
+---
+
 # macOS factory down until Monday
 
 **Topic ID**: 1028

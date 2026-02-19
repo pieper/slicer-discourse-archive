@@ -1,3 +1,10 @@
+---
+topic_id: 24614
+title: "Can Slicer Rotate The 2D View Like Video Showed"
+date: 2022-08-03
+url: https://discourse.slicer.org/t/24614
+---
+
 # Can slicer rotate the 2D view like video showed？
 
 **Topic ID**: 24614

@@ -1,3 +1,10 @@
+---
+topic_id: 8425
+title: "I Am Trying To Open Dce Mri Data With Dicom Module But It Is"
+date: 2019-09-14
+url: https://discourse.slicer.org/t/8425
+---
+
 # i am trying to open DCE-MRI data with DICOM module but it is showing me 0 patient added massages, i have uploaded the data set type and the massages it was showing, 
 
 **Topic ID**: 8425

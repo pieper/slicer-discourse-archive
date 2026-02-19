@@ -1,3 +1,10 @@
+---
+topic_id: 13732
+title: "Installing Python Modules Hangs The Ui"
+date: 2020-09-28
+url: https://discourse.slicer.org/t/13732
+---
+
 # Installing python modules hangs the UI
 
 **Topic ID**: 13732

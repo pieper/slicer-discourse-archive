@@ -1,3 +1,10 @@
+---
+topic_id: 40903
+title: "Is There A Tool To Fill A 2D Contour"
+date: 2024-12-30
+url: https://discourse.slicer.org/t/40903
+---
+
 # Is there a tool to fill a 2D contour?
 
 **Topic ID**: 40903

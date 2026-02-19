@@ -1,3 +1,10 @@
+---
+topic_id: 17241
+title: "Calculate The Adc For Different B Values In Breast Dwi Image"
+date: 2021-04-21
+url: https://discourse.slicer.org/t/17241
+---
+
 # Calculate the ADC for different b values in Breast DWI images
 
 **Topic ID**: 17241

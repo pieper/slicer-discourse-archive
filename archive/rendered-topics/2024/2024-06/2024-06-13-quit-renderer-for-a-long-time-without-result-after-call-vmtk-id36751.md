@@ -1,3 +1,10 @@
+---
+topic_id: 36751
+title: "Quit Renderer For A Long Time Without Result After Call Vmtk"
+date: 2024-06-13
+url: https://discourse.slicer.org/t/36751
+---
+
 # 'Quit renderer' for a long time WITHOUT result after call 'vmtkcenterlines' after 'source vmtk_env.sh' in Ubuntu
 
 **Topic ID**: 36751

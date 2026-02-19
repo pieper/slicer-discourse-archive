@@ -1,3 +1,10 @@
+---
+topic_id: 29593
+title: "Ubuntu20 04 Start Slicer Have X11 Error"
+date: 2023-05-23
+url: https://discourse.slicer.org/t/29593
+---
+
 # Ubuntu20.04, start Slicer, have X11 error
 
 **Topic ID**: 29593

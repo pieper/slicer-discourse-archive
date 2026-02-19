@@ -1,3 +1,10 @@
+---
+topic_id: 24535
+title: "Using Send To Dicom Server With Ip Address Port And Aet"
+date: 2022-07-27
+url: https://discourse.slicer.org/t/24535
+---
+
 # Using Send to DICOM Server with IP address, Port and AET
 
 **Topic ID**: 24535

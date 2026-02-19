@@ -1,3 +1,10 @@
+---
+topic_id: 14461
+title: "Python Debugging In Pycharm"
+date: 2020-11-06
+url: https://discourse.slicer.org/t/14461
+---
+
 # Python debugging in Pycharm
 
 **Topic ID**: 14461

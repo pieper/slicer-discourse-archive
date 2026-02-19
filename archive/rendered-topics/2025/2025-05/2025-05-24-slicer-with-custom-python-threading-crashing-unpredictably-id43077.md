@@ -1,3 +1,10 @@
+---
+topic_id: 43077
+title: "Slicer With Custom Python Threading Crashing Unpredictably"
+date: 2025-05-24
+url: https://discourse.slicer.org/t/43077
+---
+
 # Slicer with custom Python threading crashing unpredictably
 
 **Topic ID**: 43077

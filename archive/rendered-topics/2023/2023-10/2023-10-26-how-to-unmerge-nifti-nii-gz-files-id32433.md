@@ -1,3 +1,10 @@
+---
+topic_id: 32433
+title: "How To Unmerge Nifti Nii Gz Files"
+date: 2023-10-26
+url: https://discourse.slicer.org/t/32433
+---
+
 # How to unmerge NIFTI (nii.gz) files?
 
 **Topic ID**: 32433

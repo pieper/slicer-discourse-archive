@@ -1,3 +1,10 @@
+---
+topic_id: 18492
+title: "How To Add Threshold Computation And Make The Button Apply T"
+date: 2021-07-02
+url: https://discourse.slicer.org/t/18492
+---
+
 # How to add threshold computation and make the button apply to work
 
 **Topic ID**: 18492

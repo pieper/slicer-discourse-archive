@@ -1,3 +1,10 @@
+---
+topic_id: 26167
+title: "Problem With Files From New Cbct Scanner"
+date: 2022-11-09
+url: https://discourse.slicer.org/t/26167
+---
+
 # problem with files from new cbct scanner
 
 **Topic ID**: 26167

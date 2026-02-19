@@ -1,3 +1,10 @@
+---
+topic_id: 3578
+title: "Help Finding Shortcut Keys"
+date: 2018-07-25
+url: https://discourse.slicer.org/t/3578
+---
+
 # Help Finding Shortcut Keys
 
 **Topic ID**: 3578

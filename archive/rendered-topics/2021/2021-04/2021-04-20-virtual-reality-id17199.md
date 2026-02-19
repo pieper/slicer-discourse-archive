@@ -1,3 +1,10 @@
+---
+topic_id: 17199
+title: "Virtual Reality"
+date: 2021-04-20
+url: https://discourse.slicer.org/t/17199
+---
+
 # Virtual reality
 
 **Topic ID**: 17199

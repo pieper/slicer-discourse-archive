@@ -1,3 +1,10 @@
+---
+topic_id: 32825
+title: "Print Output Does Not Immediately Appear In Python Console"
+date: 2023-11-14
+url: https://discourse.slicer.org/t/32825
+---
+
 # Print output does not immediately appear in Python console
 
 **Topic ID**: 32825

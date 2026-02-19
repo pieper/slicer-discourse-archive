@@ -1,3 +1,10 @@
+---
+topic_id: 4271
+title: "I Cant Loading My Ct Image Successfully"
+date: 2018-10-03
+url: https://discourse.slicer.org/t/4271
+---
+
 # I can't loading my CT image successfully
 
 **Topic ID**: 4271

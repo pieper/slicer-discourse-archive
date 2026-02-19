@@ -1,3 +1,10 @@
+---
+topic_id: 19072
+title: "How To Handle The Resize Event Of Mainwindow"
+date: 2021-08-05
+url: https://discourse.slicer.org/t/19072
+---
+
 # How to handle the resize event of mainwindow
 
 **Topic ID**: 19072

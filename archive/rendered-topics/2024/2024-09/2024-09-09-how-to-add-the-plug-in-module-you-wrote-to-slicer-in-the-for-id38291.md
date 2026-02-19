@@ -1,3 +1,10 @@
+---
+topic_id: 38291
+title: "How To Add The Plug In Module You Wrote To Slicer In The For"
+date: 2024-09-09
+url: https://discourse.slicer.org/t/38291
+---
+
 # How to add the plug-in module you wrote to slicer in the form of code or command line?
 
 **Topic ID**: 38291

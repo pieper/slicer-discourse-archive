@@ -1,3 +1,10 @@
+---
+topic_id: 1995
+title: "Installing Extension From Linux Build"
+date: 2018-01-31
+url: https://discourse.slicer.org/t/1995
+---
+
 # Installing extension from Linux build
 
 **Topic ID**: 1995

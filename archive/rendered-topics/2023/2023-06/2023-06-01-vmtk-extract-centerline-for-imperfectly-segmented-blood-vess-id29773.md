@@ -1,3 +1,10 @@
+---
+topic_id: 29773
+title: "Vmtk Extract Centerline For Imperfectly Segmented Blood Vess"
+date: 2023-06-01
+url: https://discourse.slicer.org/t/29773
+---
+
 # VMTK Extract Centerline for imperfectly segmented blood vessel
 
 **Topic ID**: 29773

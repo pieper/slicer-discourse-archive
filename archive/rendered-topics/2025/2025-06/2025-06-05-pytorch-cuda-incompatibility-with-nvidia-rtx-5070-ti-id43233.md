@@ -1,3 +1,10 @@
+---
+topic_id: 43233
+title: "Pytorch Cuda Incompatibility With Nvidia Rtx 5070 Ti"
+date: 2025-06-05
+url: https://discourse.slicer.org/t/43233
+---
+
 # PyTorch CUDA incompatibility with NVIDIA RTX 5070 Ti 
 
 **Topic ID**: 43233

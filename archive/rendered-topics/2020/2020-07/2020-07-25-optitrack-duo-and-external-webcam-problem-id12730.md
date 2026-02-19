@@ -1,3 +1,10 @@
+---
+topic_id: 12730
+title: "Optitrack Duo And External Webcam Problem"
+date: 2020-07-25
+url: https://discourse.slicer.org/t/12730
+---
+
 # Optitrack Duo and external webcam problem
 
 **Topic ID**: 12730

@@ -1,3 +1,10 @@
+---
+topic_id: 15710
+title: "Python Equivalent Of C Pass By Reference"
+date: 2021-01-28
+url: https://discourse.slicer.org/t/15710
+---
+
 # Python equivalent of C++ pass by reference
 
 **Topic ID**: 15710

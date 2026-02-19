@@ -1,3 +1,10 @@
+---
+topic_id: 27721
+title: "How To Make One Model Node Unselectable"
+date: 2023-02-09
+url: https://discourse.slicer.org/t/27721
+---
+
 # How to make one model node unselectable
 
 **Topic ID**: 27721

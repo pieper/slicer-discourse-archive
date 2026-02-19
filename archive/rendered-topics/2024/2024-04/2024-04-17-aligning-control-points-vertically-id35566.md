@@ -1,3 +1,10 @@
+---
+topic_id: 35566
+title: "Aligning Control Points Vertically"
+date: 2024-04-17
+url: https://discourse.slicer.org/t/35566
+---
+
 # Aligning control points vertically?
 
 **Topic ID**: 35566

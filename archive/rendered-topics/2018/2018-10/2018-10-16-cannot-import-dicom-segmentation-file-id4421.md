@@ -1,3 +1,10 @@
+---
+topic_id: 4421
+title: "Cannot Import Dicom Segmentation File"
+date: 2018-10-16
+url: https://discourse.slicer.org/t/4421
+---
+
 # Cannot import DICOM segmentation file
 
 **Topic ID**: 4421

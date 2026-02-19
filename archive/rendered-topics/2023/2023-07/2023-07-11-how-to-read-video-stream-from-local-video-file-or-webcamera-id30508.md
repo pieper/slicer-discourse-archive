@@ -1,3 +1,10 @@
+---
+topic_id: 30508
+title: "How To Read Video Stream From Local Video File Or Webcamera"
+date: 2023-07-11
+url: https://discourse.slicer.org/t/30508
+---
+
 # How to read video stream from local video file or webcamera?
 
 **Topic ID**: 30508

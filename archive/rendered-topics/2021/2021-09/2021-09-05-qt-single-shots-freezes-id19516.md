@@ -1,3 +1,10 @@
+---
+topic_id: 19516
+title: "Qt Single Shots Freezes"
+date: 2021-09-05
+url: https://discourse.slicer.org/t/19516
+---
+
 # Qt single shots freezes
 
 **Topic ID**: 19516

@@ -1,3 +1,10 @@
+---
+topic_id: 39711
+title: "Is Bonetexture Extension Abandoned"
+date: 2024-10-15
+url: https://discourse.slicer.org/t/39711
+---
+
 # Is BoneTexture Extension abandoned?
 
 **Topic ID**: 39711

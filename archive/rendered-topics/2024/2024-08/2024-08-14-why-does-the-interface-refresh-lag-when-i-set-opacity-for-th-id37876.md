@@ -1,3 +1,10 @@
+---
+topic_id: 37876
+title: "Why Does The Interface Refresh Lag When I Set Opacity For Th"
+date: 2024-08-14
+url: https://discourse.slicer.org/t/37876
+---
+
 # Why does the interface refresh lag when I set opacity for the display node
 
 **Topic ID**: 37876

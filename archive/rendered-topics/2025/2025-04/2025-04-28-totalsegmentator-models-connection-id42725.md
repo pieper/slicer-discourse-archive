@@ -1,3 +1,10 @@
+---
+topic_id: 42725
+title: "Totalsegmentator Models Connection"
+date: 2025-04-28
+url: https://discourse.slicer.org/t/42725
+---
+
 # totalsegmentator models connection
 
 **Topic ID**: 42725

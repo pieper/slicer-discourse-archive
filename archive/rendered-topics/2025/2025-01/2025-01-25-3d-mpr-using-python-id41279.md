@@ -1,3 +1,10 @@
+---
+topic_id: 41279
+title: "3D Mpr Using Python"
+date: 2025-01-25
+url: https://discourse.slicer.org/t/41279
+---
+
 # 3D MPR using Python
 
 **Topic ID**: 41279

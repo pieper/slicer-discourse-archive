@@ -1,3 +1,10 @@
+---
+topic_id: 37385
+title: "Volume Calculation Using 2D Ct Images"
+date: 2024-07-15
+url: https://discourse.slicer.org/t/37385
+---
+
 # volume calculation using 2d ct images
 
 **Topic ID**: 37385

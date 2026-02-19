@@ -1,3 +1,10 @@
+---
+topic_id: 4453
+title: "Segment Statistics Apply Button Disabled"
+date: 2018-10-18
+url: https://discourse.slicer.org/t/4453
+---
+
 # Segment statistics Apply button disabled
 
 **Topic ID**: 4453

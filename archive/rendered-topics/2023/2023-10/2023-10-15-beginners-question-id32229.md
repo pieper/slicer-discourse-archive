@@ -1,3 +1,10 @@
+---
+topic_id: 32229
+title: "Beginners Question"
+date: 2023-10-15
+url: https://discourse.slicer.org/t/32229
+---
+
 # beginner's question
 
 **Topic ID**: 32229

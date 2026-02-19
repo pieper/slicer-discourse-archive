@@ -1,3 +1,10 @@
+---
+topic_id: 37254
+title: "Are There Automatic Segmentation Models For Musculoskeletal"
+date: 2024-07-04
+url: https://discourse.slicer.org/t/37254
+---
+
 # Are there automatic segmentation models for musculoskeletal anatomy?
 
 **Topic ID**: 37254

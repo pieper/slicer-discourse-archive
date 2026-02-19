@@ -1,3 +1,10 @@
+---
+topic_id: 29176
+title: "Radiomics Features From More Ct Studies"
+date: 2023-04-27
+url: https://discourse.slicer.org/t/29176
+---
+
 # Radiomics features from more CT studies
 
 **Topic ID**: 29176

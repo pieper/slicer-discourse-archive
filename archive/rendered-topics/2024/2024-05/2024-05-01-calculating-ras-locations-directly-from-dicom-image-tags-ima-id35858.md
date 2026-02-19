@@ -1,3 +1,10 @@
+---
+topic_id: 35858
+title: "Calculating Ras Locations Directly From Dicom Image Tags Ima"
+date: 2024-05-01
+url: https://discourse.slicer.org/t/35858
+---
+
 # Calculating RAS locations directly from DICOM image tags (ImagePosition/ ImageOrientation)
 
 **Topic ID**: 35858

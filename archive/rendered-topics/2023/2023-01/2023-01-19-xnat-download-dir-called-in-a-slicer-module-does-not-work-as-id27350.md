@@ -1,3 +1,10 @@
+---
+topic_id: 27350
+title: "Xnat Download Dir Called In A Slicer Module Does Not Work As"
+date: 2023-01-19
+url: https://discourse.slicer.org/t/27350
+---
+
 # XNAT download_dir called in a slicer module does not work as expected on fetching some of images, while exactly the same code works fine when run outside slicer
 
 **Topic ID**: 27350

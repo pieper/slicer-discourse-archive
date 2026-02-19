@@ -1,3 +1,10 @@
+---
+topic_id: 479
+title: "Flipped Nifti Image Compared To Original Nrrd File"
+date: 2017-06-11
+url: https://discourse.slicer.org/t/479
+---
+
 # Flipped NIFTI image compared to original Nrrd File
 
 **Topic ID**: 479

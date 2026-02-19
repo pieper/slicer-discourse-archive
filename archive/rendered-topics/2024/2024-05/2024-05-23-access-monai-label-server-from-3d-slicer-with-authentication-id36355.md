@@ -1,3 +1,10 @@
+---
+topic_id: 36355
+title: "Access Monai Label Server From 3D Slicer With Authentication"
+date: 2024-05-23
+url: https://discourse.slicer.org/t/36355
+---
+
 # Access MONAI Label server from 3D Slicer with authentication
 
 **Topic ID**: 36355

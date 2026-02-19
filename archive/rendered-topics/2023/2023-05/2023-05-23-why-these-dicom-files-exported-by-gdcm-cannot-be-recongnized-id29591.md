@@ -1,3 +1,10 @@
+---
+topic_id: 29591
+title: "Why These Dicom Files Exported By Gdcm Cannot Be Recongnized"
+date: 2023-05-23
+url: https://discourse.slicer.org/t/29591
+---
+
 # Why these dicom files exported by gdcm cannot be recongnized correctly by 3d slicer?
 
 **Topic ID**: 29591

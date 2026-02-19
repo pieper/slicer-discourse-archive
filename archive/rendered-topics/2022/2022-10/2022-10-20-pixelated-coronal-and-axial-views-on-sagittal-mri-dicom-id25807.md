@@ -1,3 +1,10 @@
+---
+topic_id: 25807
+title: "Pixelated Coronal And Axial Views On Sagittal Mri Dicom"
+date: 2022-10-20
+url: https://discourse.slicer.org/t/25807
+---
+
 # Pixelated coronal and axial views on sagittal MRI dicom
 
 **Topic ID**: 25807

@@ -1,3 +1,10 @@
+---
+topic_id: 18910
+title: "Elastix Registration Problem By Registration Of Two Ct Scans"
+date: 2021-07-24
+url: https://discourse.slicer.org/t/18910
+---
+
 # Elastix Registration Problem by registration of two CT Scans with completely different Gray Values and artifacts
 
 **Topic ID**: 18910

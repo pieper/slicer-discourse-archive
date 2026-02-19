@@ -1,3 +1,10 @@
+---
+topic_id: 13439
+title: "Import Mesh Into Slicer Heart Device Simulator"
+date: 2020-09-11
+url: https://discourse.slicer.org/t/13439
+---
+
 # Import mesh into Slicer Heart device simulator
 
 **Topic ID**: 13439

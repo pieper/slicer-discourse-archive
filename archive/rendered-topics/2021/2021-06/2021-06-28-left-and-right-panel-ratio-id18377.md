@@ -1,3 +1,10 @@
+---
+topic_id: 18377
+title: "Left And Right Panel Ratio"
+date: 2021-06-28
+url: https://discourse.slicer.org/t/18377
+---
+
 # Left and Right Panel Ratio
 
 **Topic ID**: 18377

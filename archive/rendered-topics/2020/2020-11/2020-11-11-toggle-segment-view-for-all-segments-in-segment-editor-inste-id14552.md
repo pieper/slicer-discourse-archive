@@ -1,3 +1,10 @@
+---
+topic_id: 14552
+title: "Toggle Segment View For All Segments In Segment Editor Inste"
+date: 2020-11-11
+url: https://discourse.slicer.org/t/14552
+---
+
 # Toggle segment view for all segments in segment editor instead of segmentations module
 
 **Topic ID**: 14552

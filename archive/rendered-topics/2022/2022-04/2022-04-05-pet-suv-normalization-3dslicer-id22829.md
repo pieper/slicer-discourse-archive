@@ -1,3 +1,10 @@
+---
+topic_id: 22829
+title: "Pet Suv Normalization 3Dslicer"
+date: 2022-04-05
+url: https://discourse.slicer.org/t/22829
+---
+
 # PET SUV normalization 3Dslicer
 
 **Topic ID**: 22829

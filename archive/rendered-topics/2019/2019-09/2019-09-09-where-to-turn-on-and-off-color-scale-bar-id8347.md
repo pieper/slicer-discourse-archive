@@ -1,3 +1,10 @@
+---
+topic_id: 8347
+title: "Where To Turn On And Off Color Scale Bar"
+date: 2019-09-09
+url: https://discourse.slicer.org/t/8347
+---
+
 # Where to turn on and off color scale bar
 
 **Topic ID**: 8347

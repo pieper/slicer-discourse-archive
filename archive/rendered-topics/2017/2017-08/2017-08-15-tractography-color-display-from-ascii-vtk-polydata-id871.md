@@ -1,3 +1,10 @@
+---
+topic_id: 871
+title: "Tractography Color Display From Ascii Vtk Polydata"
+date: 2017-08-15
+url: https://discourse.slicer.org/t/871
+---
+
 # Tractography color display from ASCII .vtk Polydata
 
 **Topic ID**: 871

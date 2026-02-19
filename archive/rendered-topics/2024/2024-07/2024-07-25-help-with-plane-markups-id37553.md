@@ -1,3 +1,10 @@
+---
+topic_id: 37553
+title: "Help With Plane Markups"
+date: 2024-07-25
+url: https://discourse.slicer.org/t/37553
+---
+
 # Help with Plane Markups
 
 **Topic ID**: 37553

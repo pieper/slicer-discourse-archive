@@ -1,3 +1,10 @@
+---
+topic_id: 23829
+title: "Compile The Latest Fails"
+date: 2022-06-11
+url: https://discourse.slicer.org/t/23829
+---
+
 # Compile the latest fails
 
 **Topic ID**: 23829

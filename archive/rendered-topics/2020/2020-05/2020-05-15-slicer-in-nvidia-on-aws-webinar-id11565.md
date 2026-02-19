@@ -1,3 +1,10 @@
+---
+topic_id: 11565
+title: "Slicer In Nvidia On Aws Webinar"
+date: 2020-05-15
+url: https://discourse.slicer.org/t/11565
+---
+
 # Slicer in Nvidia on AWS webinar
 
 **Topic ID**: 11565

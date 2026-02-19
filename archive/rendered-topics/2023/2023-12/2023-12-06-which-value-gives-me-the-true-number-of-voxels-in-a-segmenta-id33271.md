@@ -1,3 +1,10 @@
+---
+topic_id: 33271
+title: "Which Value Gives Me The True Number Of Voxels In A Segmenta"
+date: 2023-12-06
+url: https://discourse.slicer.org/t/33271
+---
+
 # Which value gives me the true number of voxels in a segmentation segment?
 
 **Topic ID**: 33271

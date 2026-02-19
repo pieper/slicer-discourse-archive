@@ -1,3 +1,10 @@
+---
+topic_id: 35069
+title: "Best Way To Code And Test Changes On C Modules"
+date: 2024-03-25
+url: https://discourse.slicer.org/t/35069
+---
+
 # Best way to code and test changes on C++ modules
 
 **Topic ID**: 35069

@@ -1,3 +1,10 @@
+---
+topic_id: 27418
+title: "Hu In Lung Ct Analyzer"
+date: 2023-01-23
+url: https://discourse.slicer.org/t/27418
+---
+
 # HU in Lung CT Analyzer
 
 **Topic ID**: 27418

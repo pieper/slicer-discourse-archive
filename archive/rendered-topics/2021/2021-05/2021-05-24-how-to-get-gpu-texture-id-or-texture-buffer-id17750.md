@@ -1,3 +1,10 @@
+---
+topic_id: 17750
+title: "How To Get Gpu Texture Id Or Texture Buffer"
+date: 2021-05-24
+url: https://discourse.slicer.org/t/17750
+---
+
 # How to get GPU texture id or texture buffer?
 
 **Topic ID**: 17750

@@ -1,3 +1,10 @@
+---
+topic_id: 28483
+title: "Is There A Working Version Of Slicervr With Segment Editor"
+date: 2023-03-20
+url: https://discourse.slicer.org/t/28483
+---
+
 # Is there a working version of SlicerVR with Segment Editor?
 
 **Topic ID**: 28483

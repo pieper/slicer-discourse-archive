@@ -1,3 +1,10 @@
+---
+topic_id: 37376
+title: "Threshold Does Not Work When Saved Data Loaded Again"
+date: 2024-07-15
+url: https://discourse.slicer.org/t/37376
+---
+
 # Threshold does not work when saved data loaded again
 
 **Topic ID**: 37376

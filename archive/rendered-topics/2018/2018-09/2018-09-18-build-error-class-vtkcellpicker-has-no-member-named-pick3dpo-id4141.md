@@ -1,3 +1,10 @@
+---
+topic_id: 4141
+title: "Build Error Class Vtkcellpicker Has No Member Named Pick3Dpo"
+date: 2018-09-18
+url: https://discourse.slicer.org/t/4141
+---
+
 # Build error: class vtkCellPicker has no member named Pick3DPoint
 
 **Topic ID**: 4141

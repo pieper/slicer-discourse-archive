@@ -1,3 +1,10 @@
+---
+topic_id: 32873
+title: "How To Get The Ct Value Hu Of Roi And Area Of Roi Using Mark"
+date: 2023-11-17
+url: https://discourse.slicer.org/t/32873
+---
+
 # How to get the CT value (HU) of ROI; and area of ROI using markup closed curve? 
 
 **Topic ID**: 32873

@@ -1,3 +1,10 @@
+---
+topic_id: 43103
+title: "Configuring The Running Environment For An Extension Build T"
+date: 2025-05-26
+url: https://discourse.slicer.org/t/43103
+---
+
 # Configuring the running environment for an extension build-tree
 
 **Topic ID**: 43103

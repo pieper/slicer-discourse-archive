@@ -1,3 +1,10 @@
+---
+topic_id: 15435
+title: "Length Of Centerline Curve As Label Name In 3D View"
+date: 2021-01-10
+url: https://discourse.slicer.org/t/15435
+---
+
 # Length of centerline curve as label name in 3D view?
 
 **Topic ID**: 15435

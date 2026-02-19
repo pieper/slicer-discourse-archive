@@ -1,3 +1,10 @@
+---
+topic_id: 22286
+title: "Can The Modeled Files Be Moved"
+date: 2022-03-03
+url: https://discourse.slicer.org/t/22286
+---
+
 # Can the modeled files be moved?
 
 **Topic ID**: 22286

@@ -1,3 +1,10 @@
+---
+topic_id: 33499
+title: "First Order Feature Map"
+date: 2023-12-22
+url: https://discourse.slicer.org/t/33499
+---
+
 # First order feature map 
 
 **Topic ID**: 33499

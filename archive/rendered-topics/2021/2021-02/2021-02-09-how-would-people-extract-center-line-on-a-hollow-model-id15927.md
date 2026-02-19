@@ -1,3 +1,10 @@
+---
+topic_id: 15927
+title: "How Would People Extract Center Line On A Hollow Model"
+date: 2021-02-09
+url: https://discourse.slicer.org/t/15927
+---
+
 # How would people extract center line on a hollow model?
 
 **Topic ID**: 15927

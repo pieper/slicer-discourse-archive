@@ -1,3 +1,10 @@
+---
+topic_id: 24831
+title: "Error While Loading The Dicom Module In Custom Application"
+date: 2022-08-19
+url: https://discourse.slicer.org/t/24831
+---
+
 # Error while loading the DICOM module in custom application
 
 **Topic ID**: 24831

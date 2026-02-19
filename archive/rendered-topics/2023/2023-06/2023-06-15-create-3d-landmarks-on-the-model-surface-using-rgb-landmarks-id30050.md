@@ -1,3 +1,10 @@
+---
+topic_id: 30050
+title: "Create 3D Landmarks On The Model Surface Using Rgb Landmarks"
+date: 2023-06-15
+url: https://discourse.slicer.org/t/30050
+---
+
 # Create 3d landmarks on the model surface using RGB landmarks
 
 **Topic ID**: 30050

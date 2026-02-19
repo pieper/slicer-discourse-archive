@@ -1,3 +1,10 @@
+---
+topic_id: 4270
+title: "Surface Points To Voxel Coordinate Conversion My Segmented S"
+date: 2018-10-03
+url: https://discourse.slicer.org/t/4270
+---
+
 # Surface points to voxel coordinate conversion (my segmented surface is outside volume)
 
 **Topic ID**: 4270

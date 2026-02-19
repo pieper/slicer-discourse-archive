@@ -1,3 +1,10 @@
+---
+topic_id: 40717
+title: "Surface Toolbox Of 3D Slicer Do Not Work In Windows"
+date: 2024-12-16
+url: https://discourse.slicer.org/t/40717
+---
+
 # Surface Toolbox of 3D Slicer do not work in Windows
 
 **Topic ID**: 40717

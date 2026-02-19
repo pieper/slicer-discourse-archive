@@ -1,3 +1,10 @@
+---
+topic_id: 17167
+title: "Get The Observer"
+date: 2021-04-19
+url: https://discourse.slicer.org/t/17167
+---
+
 # Get the observer
 
 **Topic ID**: 17167

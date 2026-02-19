@@ -1,3 +1,10 @@
+---
+topic_id: 44548
+title: "Getting Errors While Building Slicer 5 6 2 Using Visual Stud"
+date: 2025-09-22
+url: https://discourse.slicer.org/t/44548
+---
+
 # Getting errors while building Slicer 5.6.2 using  Visual Studio 2022
 
 **Topic ID**: 44548

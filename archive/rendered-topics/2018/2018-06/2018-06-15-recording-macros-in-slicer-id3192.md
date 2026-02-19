@@ -1,3 +1,10 @@
+---
+topic_id: 3192
+title: "Recording Macros In Slicer"
+date: 2018-06-15
+url: https://discourse.slicer.org/t/3192
+---
+
 # Recording macros in Slicer?
 
 **Topic ID**: 3192

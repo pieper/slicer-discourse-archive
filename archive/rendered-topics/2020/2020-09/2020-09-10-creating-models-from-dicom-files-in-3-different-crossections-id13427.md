@@ -1,3 +1,10 @@
+---
+topic_id: 13427
+title: "Creating Models From Dicom Files In 3 Different Crossections"
+date: 2020-09-10
+url: https://discourse.slicer.org/t/13427
+---
+
 # Creating models from dicom files in 3 different crossections
 
 **Topic ID**: 13427

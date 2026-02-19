@@ -1,3 +1,10 @@
+---
+topic_id: 25157
+title: "How To Toggle Slice Display In 3D Using Python Code"
+date: 2022-09-08
+url: https://discourse.slicer.org/t/25157
+---
+
 # How to toggle slice display in 3D using python code?
 
 **Topic ID**: 25157

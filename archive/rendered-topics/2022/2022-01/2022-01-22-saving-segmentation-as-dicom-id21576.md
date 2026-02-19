@@ -1,3 +1,10 @@
+---
+topic_id: 21576
+title: "Saving Segmentation As Dicom"
+date: 2022-01-22
+url: https://discourse.slicer.org/t/21576
+---
+
 # Saving segmentation as DICOM
 
 **Topic ID**: 21576

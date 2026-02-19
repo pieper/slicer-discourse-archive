@@ -1,3 +1,10 @@
+---
+topic_id: 3277
+title: "Build Error On Macosx And Linux With Itkpython Enabled"
+date: 2018-06-25
+url: https://discourse.slicer.org/t/3277
+---
+
 # Build error on MacOSX and Linux with ITKPython enabled
 
 **Topic ID**: 3277

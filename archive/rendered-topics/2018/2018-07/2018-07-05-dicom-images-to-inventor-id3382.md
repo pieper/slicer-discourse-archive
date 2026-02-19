@@ -1,3 +1,10 @@
+---
+topic_id: 3382
+title: "Dicom Images To Inventor"
+date: 2018-07-05
+url: https://discourse.slicer.org/t/3382
+---
+
 # DICOM images to Inventor.
 
 **Topic ID**: 3382

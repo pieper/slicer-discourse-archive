@@ -1,3 +1,10 @@
+---
+topic_id: 36352
+title: "Ai Extension For Human Airway Segmentation From Ct Images"
+date: 2024-05-23
+url: https://discourse.slicer.org/t/36352
+---
+
 # AI extension for Human airway segmentation from CT images
 
 **Topic ID**: 36352

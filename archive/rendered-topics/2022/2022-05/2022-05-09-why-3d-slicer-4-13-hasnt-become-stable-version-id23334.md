@@ -1,3 +1,10 @@
+---
+topic_id: 23334
+title: "Why 3D Slicer 4 13 Hasnt Become Stable Version"
+date: 2022-05-09
+url: https://discourse.slicer.org/t/23334
+---
+
 # Why 3D Slicer 4.13 hasn't become stable version?
 
 **Topic ID**: 23334

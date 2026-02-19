@@ -1,3 +1,10 @@
+---
+topic_id: 14876
+title: "What Does This Part Of Code Mean Python Slicer"
+date: 2020-12-04
+url: https://discourse.slicer.org/t/14876
+---
+
 # What does this part of code mean? python slicer
 
 **Topic ID**: 14876

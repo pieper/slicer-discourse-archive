@@ -1,3 +1,10 @@
+---
+topic_id: 12537
+title: "How To Install Itk Python Wheels With Slicer 4 10 And Slicer"
+date: 2020-07-14
+url: https://discourse.slicer.org/t/12537
+---
+
 # How to install ITK python wheels with Slicer 4.10 and Slicer 4.11?
 
 **Topic ID**: 12537

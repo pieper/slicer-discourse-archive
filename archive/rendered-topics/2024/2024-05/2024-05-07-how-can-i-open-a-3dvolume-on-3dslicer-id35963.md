@@ -1,3 +1,10 @@
+---
+topic_id: 35963
+title: "How Can I Open A 3Dvolume On 3Dslicer"
+date: 2024-05-07
+url: https://discourse.slicer.org/t/35963
+---
+
 # How can I open a 3DVolume on 3DSlicer?
 
 **Topic ID**: 35963

@@ -1,3 +1,10 @@
+---
+topic_id: 2089
+title: "How Texture Features Are Computed"
+date: 2018-02-15
+url: https://discourse.slicer.org/t/2089
+---
+
 # How texture features are computed?
 
 **Topic ID**: 2089

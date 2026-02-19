@@ -1,3 +1,10 @@
+---
+topic_id: 27452
+title: "Subarachnoid Space Geometry"
+date: 2023-01-24
+url: https://discourse.slicer.org/t/27452
+---
+
 # subarachnoid space geometry
 
 **Topic ID**: 27452

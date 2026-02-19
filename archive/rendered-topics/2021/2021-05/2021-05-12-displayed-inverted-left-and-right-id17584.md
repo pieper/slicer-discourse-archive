@@ -1,3 +1,10 @@
+---
+topic_id: 17584
+title: "Displayed Inverted Left And Right"
+date: 2021-05-12
+url: https://discourse.slicer.org/t/17584
+---
+
 # displayed inverted left and right
 
 **Topic ID**: 17584

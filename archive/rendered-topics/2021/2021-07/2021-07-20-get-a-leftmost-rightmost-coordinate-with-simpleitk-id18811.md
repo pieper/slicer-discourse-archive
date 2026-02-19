@@ -1,3 +1,10 @@
+---
+topic_id: 18811
+title: "Get A Leftmost Rightmost Coordinate With Simpleitk"
+date: 2021-07-20
+url: https://discourse.slicer.org/t/18811
+---
+
 # Get a leftmost/rightmost coordinate with SimpleITK
 
 **Topic ID**: 18811

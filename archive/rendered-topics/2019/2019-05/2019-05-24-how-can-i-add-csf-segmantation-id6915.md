@@ -1,3 +1,10 @@
+---
+topic_id: 6915
+title: "How Can I Add Csf Segmantation"
+date: 2019-05-24
+url: https://discourse.slicer.org/t/6915
+---
+
 # How can I add CSF segmantation?
 
 **Topic ID**: 6915

@@ -1,3 +1,10 @@
+---
+topic_id: 40337
+title: "Overlay Text With Masks In A Dicomseg File"
+date: 2024-11-22
+url: https://discourse.slicer.org/t/40337
+---
+
 # Overlay text with masks in a dicomseg file
 
 **Topic ID**: 40337

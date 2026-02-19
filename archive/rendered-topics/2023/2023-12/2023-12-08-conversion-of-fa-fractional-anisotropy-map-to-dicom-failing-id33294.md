@@ -1,3 +1,10 @@
+---
+topic_id: 33294
+title: "Conversion Of Fa Fractional Anisotropy Map To Dicom Failing"
+date: 2023-12-08
+url: https://discourse.slicer.org/t/33294
+---
+
 # Conversion of FA (Fractional Anisotropy) map to DICOM failing
 
 **Topic ID**: 33294

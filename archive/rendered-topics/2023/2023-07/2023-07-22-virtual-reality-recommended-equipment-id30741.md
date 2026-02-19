@@ -1,3 +1,10 @@
+---
+topic_id: 30741
+title: "Virtual Reality Recommended Equipment"
+date: 2023-07-22
+url: https://discourse.slicer.org/t/30741
+---
+
 # Virtual reality - recommended equipment?
 
 **Topic ID**: 30741

@@ -1,3 +1,10 @@
+---
+topic_id: 41891
+title: "Photogrammetry Extension Is Released"
+date: 2025-02-27
+url: https://discourse.slicer.org/t/41891
+---
+
 # Photogrammetry extension is released
 
 **Topic ID**: 41891

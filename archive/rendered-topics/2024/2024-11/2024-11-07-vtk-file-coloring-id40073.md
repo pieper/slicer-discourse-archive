@@ -1,3 +1,10 @@
+---
+topic_id: 40073
+title: "Vtk File Coloring"
+date: 2024-11-07
+url: https://discourse.slicer.org/t/40073
+---
+
 # VTK file "coloring"
 
 **Topic ID**: 40073

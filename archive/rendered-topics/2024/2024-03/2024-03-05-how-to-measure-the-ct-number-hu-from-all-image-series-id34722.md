@@ -1,3 +1,10 @@
+---
+topic_id: 34722
+title: "How To Measure The Ct Number Hu From All Image Series"
+date: 2024-03-05
+url: https://discourse.slicer.org/t/34722
+---
+
 # How to measure the CT number (HU) from all image series?
 
 **Topic ID**: 34722

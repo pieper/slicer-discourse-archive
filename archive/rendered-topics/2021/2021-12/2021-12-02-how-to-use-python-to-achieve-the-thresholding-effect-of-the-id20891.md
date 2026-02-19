@@ -1,3 +1,10 @@
+---
+topic_id: 20891
+title: "How To Use Python To Achieve The Thresholding Effect Of The"
+date: 2021-12-02
+url: https://discourse.slicer.org/t/20891
+---
+
 # How to use Python to achieve the thresholding effect of the ‘Volumes’ module? (synchronized with the volume rendering)
 
 **Topic ID**: 20891

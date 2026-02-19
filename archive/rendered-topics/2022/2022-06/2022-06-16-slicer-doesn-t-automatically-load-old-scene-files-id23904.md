@@ -1,3 +1,10 @@
+---
+topic_id: 23904
+title: "Slicer Doesn T Automatically Load Old Scene Files"
+date: 2022-06-16
+url: https://discourse.slicer.org/t/23904
+---
+
 # Slicer doesn’t automatically load old scene files
 
 **Topic ID**: 23904

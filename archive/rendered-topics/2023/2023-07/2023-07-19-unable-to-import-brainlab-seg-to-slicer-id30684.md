@@ -1,3 +1,10 @@
+---
+topic_id: 30684
+title: "Unable To Import Brainlab Seg To Slicer"
+date: 2023-07-19
+url: https://discourse.slicer.org/t/30684
+---
+
 # Unable to import Brainlab SEG to Slicer
 
 **Topic ID**: 30684

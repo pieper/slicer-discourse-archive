@@ -1,3 +1,10 @@
+---
+topic_id: 5000
+title: "Editor To Measure Volume"
+date: 2018-12-06
+url: https://discourse.slicer.org/t/5000
+---
+
 # Editor to measure volume
 
 **Topic ID**: 5000

@@ -1,3 +1,10 @@
+---
+topic_id: 13442
+title: "Selection Boxes In Save Dialog Box Is Invisible In Dark Mode"
+date: 2020-09-11
+url: https://discourse.slicer.org/t/13442
+---
+
 # Selection boxes in save dialog box is invisible in Dark mode
 
 **Topic ID**: 13442

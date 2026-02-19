@@ -1,3 +1,10 @@
+---
+topic_id: 4456
+title: "Multiple Job Openings Deep Learning In Medicine Harvard Hugo"
+date: 2018-10-18
+url: https://discourse.slicer.org/t/4456
+---
+
 # Multiple job openings - Deep Learning in Medicine @ Harvard - Hugo Aerts CIBL
 
 **Topic ID**: 4456

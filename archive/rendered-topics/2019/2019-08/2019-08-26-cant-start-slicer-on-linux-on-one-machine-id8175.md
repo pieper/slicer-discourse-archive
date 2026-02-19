@@ -1,3 +1,10 @@
+---
+topic_id: 8175
+title: "Cant Start Slicer On Linux On One Machine"
+date: 2019-08-26
+url: https://discourse.slicer.org/t/8175
+---
+
 # Can't start Slicer on Linux on one machine
 
 **Topic ID**: 8175

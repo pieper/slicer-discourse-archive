@@ -1,3 +1,10 @@
+---
+topic_id: 4487
+title: "Import Problem Mitk To Slicer"
+date: 2018-10-22
+url: https://discourse.slicer.org/t/4487
+---
+
 # Import problem - MITK to Slicer
 
 **Topic ID**: 4487

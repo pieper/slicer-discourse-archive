@@ -1,3 +1,10 @@
+---
+topic_id: 6722
+title: "Python Wrapping Of Plastimatch"
+date: 2019-05-07
+url: https://discourse.slicer.org/t/6722
+---
+
 # Python wrapping of plastimatch
 
 **Topic ID**: 6722

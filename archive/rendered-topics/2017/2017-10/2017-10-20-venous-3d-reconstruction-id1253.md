@@ -1,3 +1,10 @@
+---
+topic_id: 1253
+title: "Venous 3D Reconstruction"
+date: 2017-10-20
+url: https://discourse.slicer.org/t/1253
+---
+
 # Venous 3d reconstruction
 
 **Topic ID**: 1253

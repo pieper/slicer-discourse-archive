@@ -1,3 +1,10 @@
+---
+topic_id: 20847
+title: "How To Install Extensions From The Extension Manager With Py"
+date: 2021-11-30
+url: https://discourse.slicer.org/t/20847
+---
+
 # How to install extensions from the extension manager with PythonSlicer
 
 **Topic ID**: 20847

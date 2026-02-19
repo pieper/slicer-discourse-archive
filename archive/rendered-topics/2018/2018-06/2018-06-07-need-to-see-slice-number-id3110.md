@@ -1,3 +1,10 @@
+---
+topic_id: 3110
+title: "Need To See Slice Number"
+date: 2018-06-07
+url: https://discourse.slicer.org/t/3110
+---
+
 # Need to see slice number
 
 **Topic ID**: 3110

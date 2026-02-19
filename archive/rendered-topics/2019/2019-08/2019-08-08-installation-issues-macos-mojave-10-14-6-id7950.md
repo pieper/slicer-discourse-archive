@@ -1,3 +1,10 @@
+---
+topic_id: 7950
+title: "Installation Issues Macos Mojave 10 14 6"
+date: 2019-08-08
+url: https://discourse.slicer.org/t/7950
+---
+
 # Installation issues: macOS Mojave 10.14.6
 
 **Topic ID**: 7950

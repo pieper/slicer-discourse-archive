@@ -1,3 +1,10 @@
+---
+topic_id: 40380
+title: "Alpaca Stops At Certain Of Specimens"
+date: 2024-11-26
+url: https://discourse.slicer.org/t/40380
+---
+
 # ALPACA stops at certain # of specimens
 
 **Topic ID**: 40380

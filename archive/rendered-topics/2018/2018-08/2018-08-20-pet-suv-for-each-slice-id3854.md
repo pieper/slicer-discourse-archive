@@ -1,3 +1,10 @@
+---
+topic_id: 3854
+title: "Pet Suv For Each Slice"
+date: 2018-08-20
+url: https://discourse.slicer.org/t/3854
+---
+
 # PET SUV for each Slice?
 
 **Topic ID**: 3854

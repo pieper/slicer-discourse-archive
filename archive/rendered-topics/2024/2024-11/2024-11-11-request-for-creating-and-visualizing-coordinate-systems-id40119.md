@@ -1,3 +1,10 @@
+---
+topic_id: 40119
+title: "Request For Creating And Visualizing Coordinate Systems"
+date: 2024-11-11
+url: https://discourse.slicer.org/t/40119
+---
+
 # Request for Creating and Visualizing Coordinate Systems
 
 **Topic ID**: 40119

@@ -1,3 +1,10 @@
+---
+topic_id: 22539
+title: "Slicer Docker For Gui Via Browser"
+date: 2022-03-16
+url: https://discourse.slicer.org/t/22539
+---
+
 # Slicer Docker for GUI via browser
 
 **Topic ID**: 22539

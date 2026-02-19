@@ -1,3 +1,10 @@
+---
+topic_id: 42950
+title: "Identify Hu Range For Air On Ct Image"
+date: 2025-05-15
+url: https://discourse.slicer.org/t/42950
+---
+
 # Identify HU range for Air on CT image
 
 **Topic ID**: 42950

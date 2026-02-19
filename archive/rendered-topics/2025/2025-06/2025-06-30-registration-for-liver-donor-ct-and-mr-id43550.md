@@ -1,3 +1,10 @@
+---
+topic_id: 43550
+title: "Registration For Liver Donor Ct And Mr"
+date: 2025-06-30
+url: https://discourse.slicer.org/t/43550
+---
+
 # Registration for liver donor CT and MR 
 
 **Topic ID**: 43550

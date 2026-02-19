@@ -1,3 +1,10 @@
+---
+topic_id: 6102
+title: "Windows Look Blurred Compared To Other Segmentation Applicat"
+date: 2019-03-11
+url: https://discourse.slicer.org/t/6102
+---
+
 # Windows look blurred compared to other segmentation applications
 
 **Topic ID**: 6102

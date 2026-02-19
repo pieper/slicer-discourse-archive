@@ -1,3 +1,10 @@
+---
+topic_id: 35815
+title: "How To Make A Portable Slicer With Monai Auto3Dseg Extension"
+date: 2024-04-29
+url: https://discourse.slicer.org/t/35815
+---
+
 # How to make a portable slicer with Monai Auto3Dseg extension
 
 **Topic ID**: 35815

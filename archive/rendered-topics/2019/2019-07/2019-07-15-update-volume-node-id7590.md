@@ -1,3 +1,10 @@
+---
+topic_id: 7590
+title: "Update Volume Node"
+date: 2019-07-15
+url: https://discourse.slicer.org/t/7590
+---
+
 # Update volume node
 
 **Topic ID**: 7590

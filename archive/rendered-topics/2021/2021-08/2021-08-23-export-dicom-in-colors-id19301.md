@@ -1,3 +1,10 @@
+---
+topic_id: 19301
+title: "Export Dicom In Colors"
+date: 2021-08-23
+url: https://discourse.slicer.org/t/19301
+---
+
 # Export DICOM in Colors
 
 **Topic ID**: 19301

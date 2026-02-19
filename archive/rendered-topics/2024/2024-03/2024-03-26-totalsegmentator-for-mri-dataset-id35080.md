@@ -1,3 +1,10 @@
+---
+topic_id: 35080
+title: "Totalsegmentator For Mri Dataset"
+date: 2024-03-26
+url: https://discourse.slicer.org/t/35080
+---
+
 # TotalSegmentator for MRI dataset
 
 **Topic ID**: 35080

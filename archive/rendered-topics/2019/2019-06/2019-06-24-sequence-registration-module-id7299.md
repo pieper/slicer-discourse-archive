@@ -1,3 +1,10 @@
+---
+topic_id: 7299
+title: "Sequence Registration Module"
+date: 2019-06-24
+url: https://discourse.slicer.org/t/7299
+---
+
 # Sequence registration module
 
 **Topic ID**: 7299

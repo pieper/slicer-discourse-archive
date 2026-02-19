@@ -1,3 +1,10 @@
+---
+topic_id: 27427
+title: "Fill Holes In Segment"
+date: 2023-01-24
+url: https://discourse.slicer.org/t/27427
+---
+
 # fill holes in segment
 
 **Topic ID**: 27427

@@ -1,3 +1,10 @@
+---
+topic_id: 11677
+title: "Post Crop Return To Original Volume And Re Crop"
+date: 2020-05-23
+url: https://discourse.slicer.org/t/11677
+---
+
 # Post-crop return to original volume and re-crop
 
 **Topic ID**: 11677

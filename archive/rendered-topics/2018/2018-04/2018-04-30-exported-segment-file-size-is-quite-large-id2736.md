@@ -1,3 +1,10 @@
+---
+topic_id: 2736
+title: "Exported Segment File Size Is Quite Large"
+date: 2018-04-30
+url: https://discourse.slicer.org/t/2736
+---
+
 # Exported segment file size is quite large
 
 **Topic ID**: 2736

@@ -1,3 +1,10 @@
+---
+topic_id: 27379
+title: "Paging File Is Too Small Error"
+date: 2023-01-20
+url: https://discourse.slicer.org/t/27379
+---
+
 # "Paging File is Too Small" error
 
 **Topic ID**: 27379

@@ -1,3 +1,10 @@
+---
+topic_id: 37156
+title: "Single Slide Segmentation"
+date: 2024-07-02
+url: https://discourse.slicer.org/t/37156
+---
+
 # Single slide segmentation
 
 **Topic ID**: 37156

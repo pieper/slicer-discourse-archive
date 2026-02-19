@@ -1,3 +1,10 @@
+---
+topic_id: 730
+title: "Intrasubject Brain Preoperative Mri To Postoperative Ct Regi"
+date: 2017-07-20
+url: https://discourse.slicer.org/t/730
+---
+
 # Intrasubject Brain preoperative MRI to postoperative CT registration
 
 **Topic ID**: 730

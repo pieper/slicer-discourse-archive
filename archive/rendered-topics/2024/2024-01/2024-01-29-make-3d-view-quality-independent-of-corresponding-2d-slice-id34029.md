@@ -1,3 +1,10 @@
+---
+topic_id: 34029
+title: "Make 3D View Quality Independent Of Corresponding 2D Slice"
+date: 2024-01-29
+url: https://discourse.slicer.org/t/34029
+---
+
 # Make 3D view quality independent of corresponding 2D slice
 
 **Topic ID**: 34029

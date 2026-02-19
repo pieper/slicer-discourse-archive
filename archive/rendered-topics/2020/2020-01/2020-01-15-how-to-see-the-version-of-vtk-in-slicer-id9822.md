@@ -1,3 +1,10 @@
+---
+topic_id: 9822
+title: "How To See The Version Of Vtk In Slicer"
+date: 2020-01-15
+url: https://discourse.slicer.org/t/9822
+---
+
 # How to see the version of vtk in slicer
 
 **Topic ID**: 9822

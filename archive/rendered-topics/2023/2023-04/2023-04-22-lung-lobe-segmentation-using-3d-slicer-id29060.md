@@ -1,3 +1,10 @@
+---
+topic_id: 29060
+title: "Lung Lobe Segmentation Using 3D Slicer"
+date: 2023-04-22
+url: https://discourse.slicer.org/t/29060
+---
+
 # Lung lobe segmentation using 3D slicer
 
 **Topic ID**: 29060

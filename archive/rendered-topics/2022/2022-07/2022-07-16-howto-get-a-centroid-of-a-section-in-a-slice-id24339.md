@@ -1,3 +1,10 @@
+---
+topic_id: 24339
+title: "Howto Get A Centroid Of A Section In A Slice"
+date: 2022-07-16
+url: https://discourse.slicer.org/t/24339
+---
+
 # Howto get a centroid of a section in a slice?
 
 **Topic ID**: 24339

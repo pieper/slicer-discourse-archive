@@ -1,3 +1,10 @@
+---
+topic_id: 28035
+title: "T2 Mapping Error"
+date: 2023-02-24
+url: https://discourse.slicer.org/t/28035
+---
+
 # T2-mapping error
 
 **Topic ID**: 28035

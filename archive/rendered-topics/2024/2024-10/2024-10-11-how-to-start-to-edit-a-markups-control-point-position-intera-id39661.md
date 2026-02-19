@@ -1,3 +1,10 @@
+---
+topic_id: 39661
+title: "How To Start To Edit A Markups Control Point Position Intera"
+date: 2024-10-11
+url: https://discourse.slicer.org/t/39661
+---
+
 # How to start to edit a markups control point position interactively with code
 
 **Topic ID**: 39661

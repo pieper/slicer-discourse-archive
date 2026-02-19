@@ -1,3 +1,10 @@
+---
+topic_id: 899
+title: "Dwi Convent Errors"
+date: 2017-08-19
+url: https://discourse.slicer.org/t/899
+---
+
 # DWI convent errors
 
 **Topic ID**: 899

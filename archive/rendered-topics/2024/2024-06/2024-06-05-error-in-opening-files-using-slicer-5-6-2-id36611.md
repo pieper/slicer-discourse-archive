@@ -1,3 +1,10 @@
+---
+topic_id: 36611
+title: "Error In Opening Files Using Slicer 5 6 2"
+date: 2024-06-05
+url: https://discourse.slicer.org/t/36611
+---
+
 # Error in Opening Files using Slicer 5.6.2
 
 **Topic ID**: 36611

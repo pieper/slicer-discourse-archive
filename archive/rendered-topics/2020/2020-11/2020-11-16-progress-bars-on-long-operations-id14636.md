@@ -1,3 +1,10 @@
+---
+topic_id: 14636
+title: "Progress Bars On Long Operations"
+date: 2020-11-16
+url: https://discourse.slicer.org/t/14636
+---
+
 # Progress bars on long operations
 
 **Topic ID**: 14636

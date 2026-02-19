@@ -1,3 +1,10 @@
+---
+topic_id: 15213
+title: "How To Configure Extension Module Paths For Built Slicer"
+date: 2020-12-24
+url: https://discourse.slicer.org/t/15213
+---
+
 # How to configure extension module paths for built Slicer?
 
 **Topic ID**: 15213

@@ -1,3 +1,10 @@
+---
+topic_id: 20060
+title: "How To Use Slicer Rt With Sample Data"
+date: 2021-10-07
+url: https://discourse.slicer.org/t/20060
+---
+
 # How to use slicer rt with sample data 
 
 **Topic ID**: 20060

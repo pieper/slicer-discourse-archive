@@ -1,3 +1,10 @@
+---
+topic_id: 13801
+title: "Dynamically Updating Ui"
+date: 2020-10-01
+url: https://discourse.slicer.org/t/13801
+---
+
 # Dynamically Updating UI
 
 **Topic ID**: 13801

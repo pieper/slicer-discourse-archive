@@ -1,3 +1,10 @@
+---
+topic_id: 28598
+title: "Hanging Protocol For Displaying Pet Ct Images"
+date: 2023-03-27
+url: https://discourse.slicer.org/t/28598
+---
+
 # Hanging protocol for displaying PET/CT images
 
 **Topic ID**: 28598

@@ -1,3 +1,10 @@
+---
+topic_id: 39787
+title: "Could You Please Tell Me What The Reason That Ondemand Ct Sc"
+date: 2024-10-21
+url: https://discourse.slicer.org/t/39787
+---
+
 # Could you please tell me what the reason that Ondemand CT scan files (DCM) are not readable by a slicer?
 
 **Topic ID**: 39787

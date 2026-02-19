@@ -1,3 +1,10 @@
+---
+topic_id: 17565
+title: "The Screen Capture Module Saves The Slice Views In Different"
+date: 2021-05-11
+url: https://discourse.slicer.org/t/17565
+---
+
 # The screen capture module saves the slice views in different directions
 
 **Topic ID**: 17565

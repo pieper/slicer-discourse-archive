@@ -1,3 +1,10 @@
+---
+topic_id: 4701
+title: "Slicerellastix Module Parameters"
+date: 2018-11-09
+url: https://discourse.slicer.org/t/4701
+---
+
 # SlicerEllastix module parameters
 
 **Topic ID**: 4701

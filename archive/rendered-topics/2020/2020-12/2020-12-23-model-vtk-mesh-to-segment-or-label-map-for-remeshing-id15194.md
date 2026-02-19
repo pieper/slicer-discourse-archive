@@ -1,3 +1,10 @@
+---
+topic_id: 15194
+title: "Model Vtk Mesh To Segment Or Label Map For Remeshing"
+date: 2020-12-23
+url: https://discourse.slicer.org/t/15194
+---
+
 # Model (.VTK mesh) to Segment or Label Map for Remeshing
 
 **Topic ID**: 15194

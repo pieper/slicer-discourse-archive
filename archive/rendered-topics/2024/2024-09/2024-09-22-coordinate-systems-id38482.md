@@ -1,3 +1,10 @@
+---
+topic_id: 38482
+title: "Coordinate Systems"
+date: 2024-09-22
+url: https://discourse.slicer.org/t/38482
+---
+
 # Coordinate systems
 
 **Topic ID**: 38482

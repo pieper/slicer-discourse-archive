@@ -1,3 +1,10 @@
+---
+topic_id: 13943
+title: "Scalar Dicom Volume Is Being Loaded By Dwi Plugin And Giving"
+date: 2020-10-08
+url: https://discourse.slicer.org/t/13943
+---
+
 # Scalar DICOM volume is being loaded by DWI plugin and giving errors
 
 **Topic ID**: 13943

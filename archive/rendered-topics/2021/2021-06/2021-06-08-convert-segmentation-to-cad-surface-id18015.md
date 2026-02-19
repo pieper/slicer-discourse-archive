@@ -1,3 +1,10 @@
+---
+topic_id: 18015
+title: "Convert Segmentation To Cad Surface"
+date: 2021-06-08
+url: https://discourse.slicer.org/t/18015
+---
+
 # Convert segmentation to CAD surface
 
 **Topic ID**: 18015

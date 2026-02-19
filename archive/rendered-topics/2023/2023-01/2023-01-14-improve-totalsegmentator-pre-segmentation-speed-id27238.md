@@ -1,3 +1,10 @@
+---
+topic_id: 27238
+title: "Improve Totalsegmentator Pre Segmentation Speed"
+date: 2023-01-14
+url: https://discourse.slicer.org/t/27238
+---
+
 # Improve TotalSegmentator pre-segmentation speed
 
 **Topic ID**: 27238

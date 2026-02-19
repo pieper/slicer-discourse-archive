@@ -1,3 +1,10 @@
+---
+topic_id: 27373
+title: "Nifti To Color Dicom Series"
+date: 2023-01-20
+url: https://discourse.slicer.org/t/27373
+---
+
 # NifTI to color DICOM series
 
 **Topic ID**: 27373

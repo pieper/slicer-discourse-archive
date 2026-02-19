@@ -1,3 +1,10 @@
+---
+topic_id: 42902
+title: "Build Error In Custom 3D Slicer App Qmrmlwidget Is Not A Cla"
+date: 2025-05-13
+url: https://discourse.slicer.org/t/42902
+---
+
 # Build Error in Custom 3D Slicer App: 'qMRMLWidget': is not a class or namespace name and pixmapFromIcon not found
 
 **Topic ID**: 42902

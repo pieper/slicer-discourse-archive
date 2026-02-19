@@ -1,3 +1,10 @@
+---
+topic_id: 18324
+title: "Create A Voxel Based Mesh"
+date: 2021-06-24
+url: https://discourse.slicer.org/t/18324
+---
+
 # Create a voxel based mesh
 
 **Topic ID**: 18324

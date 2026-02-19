@@ -1,3 +1,10 @@
+---
+topic_id: 39522
+title: "Obb Bounding Box Not Correct"
+date: 2024-10-03
+url: https://discourse.slicer.org/t/39522
+---
+
 # OBB bounding Box not correct
 
 **Topic ID**: 39522

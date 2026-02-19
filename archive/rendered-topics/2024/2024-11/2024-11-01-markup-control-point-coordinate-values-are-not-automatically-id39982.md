@@ -1,3 +1,10 @@
+---
+topic_id: 39982
+title: "Markup Control Point Coordinate Values Are Not Automatically"
+date: 2024-11-01
+url: https://discourse.slicer.org/t/39982
+---
+
 # Markup control point coordinate values are not automatically updated when switching between World and Local
 
 **Topic ID**: 39982

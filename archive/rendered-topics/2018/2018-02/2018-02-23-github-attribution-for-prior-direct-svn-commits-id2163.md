@@ -1,3 +1,10 @@
+---
+topic_id: 2163
+title: "Github Attribution For Prior Direct Svn Commits"
+date: 2018-02-23
+url: https://discourse.slicer.org/t/2163
+---
+
 # GitHub attribution for prior direct SVN commits
 
 **Topic ID**: 2163

@@ -1,3 +1,10 @@
+---
+topic_id: 43784
+title: "Unable To Display Two Sets Of Data Simultaneously"
+date: 2025-07-20
+url: https://discourse.slicer.org/t/43784
+---
+
 # Unable to display two sets of data simultaneously
 
 **Topic ID**: 43784

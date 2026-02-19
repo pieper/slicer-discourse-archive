@@ -1,3 +1,10 @@
+---
+topic_id: 16516
+title: "After Loading Dicom Files Coronal View Is Ok But Saggital Ho"
+date: 2021-03-12
+url: https://discourse.slicer.org/t/16516
+---
+
 # After loading DICOM files. Coronal view is OK, but Saggital, Horisontal is only can be be seen with in a small line
 
 **Topic ID**: 16516

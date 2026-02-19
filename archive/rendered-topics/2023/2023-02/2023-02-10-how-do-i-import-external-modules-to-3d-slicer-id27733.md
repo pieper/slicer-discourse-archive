@@ -1,3 +1,10 @@
+---
+topic_id: 27733
+title: "How Do I Import External Modules To 3D Slicer"
+date: 2023-02-10
+url: https://discourse.slicer.org/t/27733
+---
+
 # How do I import external modules to 3d slicer?
 
 **Topic ID**: 27733

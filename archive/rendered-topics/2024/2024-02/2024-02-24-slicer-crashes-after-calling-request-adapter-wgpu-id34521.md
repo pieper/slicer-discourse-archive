@@ -1,3 +1,10 @@
+---
+topic_id: 34521
+title: "Slicer Crashes After Calling Request Adapter Wgpu"
+date: 2024-02-24
+url: https://discourse.slicer.org/t/34521
+---
+
 # Slicer crashes after calling request_adapter (wgpu)
 
 **Topic ID**: 34521

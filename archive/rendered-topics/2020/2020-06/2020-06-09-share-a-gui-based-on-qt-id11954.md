@@ -1,3 +1,10 @@
+---
+topic_id: 11954
+title: "Share A Gui Based On Qt"
+date: 2020-06-09
+url: https://discourse.slicer.org/t/11954
+---
+
 # Share a GUI based on QT
 
 **Topic ID**: 11954

@@ -1,3 +1,10 @@
+---
+topic_id: 34982
+title: "Solid Body Vs Sheet Body"
+date: 2024-03-19
+url: https://discourse.slicer.org/t/34982
+---
+
 # Solid body vs. sheet body
 
 **Topic ID**: 34982

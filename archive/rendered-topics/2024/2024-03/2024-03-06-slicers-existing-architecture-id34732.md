@@ -1,3 +1,10 @@
+---
+topic_id: 34732
+title: "Slicers Existing Architecture"
+date: 2024-03-06
+url: https://discourse.slicer.org/t/34732
+---
+
 # Slicer's existing architecture
 
 **Topic ID**: 34732

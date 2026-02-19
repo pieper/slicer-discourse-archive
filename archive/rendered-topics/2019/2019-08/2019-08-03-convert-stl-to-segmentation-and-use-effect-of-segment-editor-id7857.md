@@ -1,3 +1,10 @@
+---
+topic_id: 7857
+title: "Convert Stl To Segmentation And Use Effect Of Segment Editor"
+date: 2019-08-03
+url: https://discourse.slicer.org/t/7857
+---
+
 # Convert stl to segmentation and use effect of Segment Editor
 
 **Topic ID**: 7857

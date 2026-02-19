@@ -1,3 +1,10 @@
+---
+topic_id: 33374
+title: "Extract Save Roi From Seg Nrrd Segmentations File Using Pyth"
+date: 2023-12-13
+url: https://discourse.slicer.org/t/33374
+---
+
 # Extract/Save ROI from seg.nrrd (segmentations file) using Python packages SimpleITK or Slicerio
 
 **Topic ID**: 33374

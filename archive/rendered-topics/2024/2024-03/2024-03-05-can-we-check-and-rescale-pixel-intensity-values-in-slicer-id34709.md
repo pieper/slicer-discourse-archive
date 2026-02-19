@@ -1,3 +1,10 @@
+---
+topic_id: 34709
+title: "Can We Check And Rescale Pixel Intensity Values In Slicer"
+date: 2024-03-05
+url: https://discourse.slicer.org/t/34709
+---
+
 # Can we check and rescale pixel intensity values in Slicer?
 
 **Topic ID**: 34709

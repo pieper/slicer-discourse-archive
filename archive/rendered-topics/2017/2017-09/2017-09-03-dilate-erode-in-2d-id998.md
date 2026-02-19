@@ -1,3 +1,10 @@
+---
+topic_id: 998
+title: "Dilate Erode In 2D"
+date: 2017-09-03
+url: https://discourse.slicer.org/t/998
+---
+
 # Dilate/Erode in 2d
 
 **Topic ID**: 998

@@ -1,3 +1,10 @@
+---
+topic_id: 42254
+title: "Maxilla And Mandibula Segmentation With Dental Segmentator"
+date: 2025-03-22
+url: https://discourse.slicer.org/t/42254
+---
+
 # Maxilla and mandibula segmentation with Dental Segmentator
 
 **Topic ID**: 42254

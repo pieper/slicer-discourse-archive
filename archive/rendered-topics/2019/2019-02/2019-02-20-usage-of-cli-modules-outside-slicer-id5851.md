@@ -1,3 +1,10 @@
+---
+topic_id: 5851
+title: "Usage Of Cli Modules Outside Slicer"
+date: 2019-02-20
+url: https://discourse.slicer.org/t/5851
+---
+
 # Usage of CLI modules outside Slicer
 
 **Topic ID**: 5851

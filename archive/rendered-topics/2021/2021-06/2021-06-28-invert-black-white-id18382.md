@@ -1,3 +1,10 @@
+---
+topic_id: 18382
+title: "Invert Black White"
+date: 2021-06-28
+url: https://discourse.slicer.org/t/18382
+---
+
 # Invert black/white
 
 **Topic ID**: 18382

@@ -1,3 +1,10 @@
+---
+topic_id: 14180
+title: "Slicer Usage In The Closed Commercial Product"
+date: 2020-10-21
+url: https://discourse.slicer.org/t/14180
+---
+
 # Slicer usage in the closed commercial product
 
 **Topic ID**: 14180

@@ -1,3 +1,10 @@
+---
+topic_id: 4172
+title: "Regarding H5 File Format"
+date: 2018-09-23
+url: https://discourse.slicer.org/t/4172
+---
+
 # Regarding .h5 file format
 
 **Topic ID**: 4172

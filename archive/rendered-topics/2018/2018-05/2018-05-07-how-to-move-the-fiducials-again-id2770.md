@@ -1,3 +1,10 @@
+---
+topic_id: 2770
+title: "How To Move The Fiducials Again"
+date: 2018-05-07
+url: https://discourse.slicer.org/t/2770
+---
+
 # How to move the fiducials again?
 
 **Topic ID**: 2770

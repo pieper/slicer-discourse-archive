@@ -1,3 +1,10 @@
+---
+topic_id: 43061
+title: "How To Change The Section Angle And Save It In The Files Tha"
+date: 2025-05-23
+url: https://discourse.slicer.org/t/43061
+---
+
 # how to change the section angle and save it in the files that, when I use other App to open it, the setting is still what I wanted
 
 **Topic ID**: 43061

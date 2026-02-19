@@ -1,3 +1,10 @@
+---
+topic_id: 42964
+title: "Unable To Find Segment Cross Section Area Module In 3D Slice"
+date: 2025-05-16
+url: https://discourse.slicer.org/t/42964
+---
+
 # Unable to Find 'Segment Cross-Section Area' Module in 3D Slicer 5.8.1 – Assistance Required
 
 **Topic ID**: 42964

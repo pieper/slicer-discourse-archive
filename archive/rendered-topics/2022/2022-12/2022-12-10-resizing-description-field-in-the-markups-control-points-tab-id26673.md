@@ -1,3 +1,10 @@
+---
+topic_id: 26673
+title: "Resizing Description Field In The Markups Control Points Tab"
+date: 2022-12-10
+url: https://discourse.slicer.org/t/26673
+---
+
 # Resizing description field in the markups control points table
 
 **Topic ID**: 26673

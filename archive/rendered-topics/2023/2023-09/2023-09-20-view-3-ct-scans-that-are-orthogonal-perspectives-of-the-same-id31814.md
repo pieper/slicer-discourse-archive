@@ -1,3 +1,10 @@
+---
+topic_id: 31814
+title: "View 3 Ct Scans That Are Orthogonal Perspectives Of The Same"
+date: 2023-09-20
+url: https://discourse.slicer.org/t/31814
+---
+
 # View 3 CT scans that are orthogonal perspectives of the same scan
 
 **Topic ID**: 31814

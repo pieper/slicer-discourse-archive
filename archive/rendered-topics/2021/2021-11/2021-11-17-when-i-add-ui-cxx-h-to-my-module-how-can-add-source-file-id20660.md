@@ -1,3 +1,10 @@
+---
+topic_id: 20660
+title: "When I Add Ui Cxx H To My Module How Can Add Source File"
+date: 2021-11-17
+url: https://discourse.slicer.org/t/20660
+---
+
 # When I add ui , cxx, h to my module, how can add source file?
 
 **Topic ID**: 20660

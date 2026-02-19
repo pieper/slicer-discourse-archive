@@ -1,3 +1,10 @@
+---
+topic_id: 25408
+title: "Saving And Reloading A Parameter"
+date: 2022-09-23
+url: https://discourse.slicer.org/t/25408
+---
+
 # Saving and reloading a parameter
 
 **Topic ID**: 25408

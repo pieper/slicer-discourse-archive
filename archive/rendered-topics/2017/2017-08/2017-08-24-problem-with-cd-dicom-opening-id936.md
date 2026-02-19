@@ -1,3 +1,10 @@
+---
+topic_id: 936
+title: "Problem With Cd Dicom Opening"
+date: 2017-08-24
+url: https://discourse.slicer.org/t/936
+---
+
 # Problem with CD DICOM opening
 
 **Topic ID**: 936

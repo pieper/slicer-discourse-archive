@@ -1,3 +1,10 @@
+---
+topic_id: 40255
+title: "Extracting Transformation Matrix Information From Needle Mod"
+date: 2024-11-18
+url: https://discourse.slicer.org/t/40255
+---
+
 # Extracting transformation matrix information from needle models overlaid on ultrasound images
 
 **Topic ID**: 40255

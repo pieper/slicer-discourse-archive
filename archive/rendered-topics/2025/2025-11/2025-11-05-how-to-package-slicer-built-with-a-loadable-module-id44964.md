@@ -1,3 +1,10 @@
+---
+topic_id: 44964
+title: "How To Package Slicer Built With A Loadable Module"
+date: 2025-11-05
+url: https://discourse.slicer.org/t/44964
+---
+
 # How to package Slicer built with a loadable module?
 
 **Topic ID**: 44964

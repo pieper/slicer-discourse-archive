@@ -1,3 +1,10 @@
+---
+topic_id: 11099
+title: "Can I Display 2 Volume R G Y Slice In 3D View Not Slice Wind"
+date: 2020-04-13
+url: https://discourse.slicer.org/t/11099
+---
+
 # Can I display 2 volume（R,G,Y slice） in 3d view not slice windows?
 
 **Topic ID**: 11099

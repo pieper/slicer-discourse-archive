@@ -1,3 +1,10 @@
+---
+topic_id: 17185
+title: "How To Get A High Resolution Of Modified 3D Models"
+date: 2021-04-19
+url: https://discourse.slicer.org/t/17185
+---
+
 # how to get a high resolution of modified 3d models?
 
 **Topic ID**: 17185

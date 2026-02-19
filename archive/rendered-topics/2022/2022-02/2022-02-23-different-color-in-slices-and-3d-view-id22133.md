@@ -1,3 +1,10 @@
+---
+topic_id: 22133
+title: "Different Color In Slices And 3D View"
+date: 2022-02-23
+url: https://discourse.slicer.org/t/22133
+---
+
 # Different color in slices and 3D view
 
 **Topic ID**: 22133

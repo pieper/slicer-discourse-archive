@@ -1,3 +1,10 @@
+---
+topic_id: 11143
+title: "May I Know How To Call Methods In The Cpp To Get The Name Bi"
+date: 2020-04-16
+url: https://discourse.slicer.org/t/11143
+---
+
 # May I know how to call methods in the cpp to get the name, birthday, gender, and series and series description of the loaded dicom data.Thanks!
 
 **Topic ID**: 11143

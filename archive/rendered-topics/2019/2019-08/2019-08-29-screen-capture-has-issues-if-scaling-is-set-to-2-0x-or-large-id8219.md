@@ -1,3 +1,10 @@
+---
+topic_id: 8219
+title: "Screen Capture Has Issues If Scaling Is Set To 2 0X Or Large"
+date: 2019-08-29
+url: https://discourse.slicer.org/t/8219
+---
+
 # Screen capture has issues if scaling is set to 2.0x or larger
 
 **Topic ID**: 8219

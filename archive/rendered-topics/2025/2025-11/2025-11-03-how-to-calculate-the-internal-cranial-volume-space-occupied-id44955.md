@@ -1,3 +1,10 @@
+---
+topic_id: 44955
+title: "How To Calculate The Internal Cranial Volume Space Occupied"
+date: 2025-11-03
+url: https://discourse.slicer.org/t/44955
+---
+
 # How to calculate the internal cranial volume (space occupied by the brain) in 3D Slicer
 
 **Topic ID**: 44955

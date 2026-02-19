@@ -1,3 +1,10 @@
+---
+topic_id: 35351
+title: "Calculate A Surface"
+date: 2024-04-08
+url: https://discourse.slicer.org/t/35351
+---
+
 # Calculate a surface
 
 **Topic ID**: 35351

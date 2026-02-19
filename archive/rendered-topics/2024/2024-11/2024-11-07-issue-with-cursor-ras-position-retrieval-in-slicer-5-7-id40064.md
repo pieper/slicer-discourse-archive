@@ -1,3 +1,10 @@
+---
+topic_id: 40064
+title: "Issue With Cursor Ras Position Retrieval In Slicer 5 7"
+date: 2024-11-07
+url: https://discourse.slicer.org/t/40064
+---
+
 # Issue with Cursor RAS Position Retrieval in Slicer 5.7
 
 **Topic ID**: 40064

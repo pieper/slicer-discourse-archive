@@ -1,3 +1,10 @@
+---
+topic_id: 26360
+title: "Changing Size And Color Of Individual Interaction Handles Of"
+date: 2022-11-21
+url: https://discourse.slicer.org/t/26360
+---
+
 # Changing Size and color of individual interaction handles of ROI
 
 **Topic ID**: 26360

@@ -1,3 +1,10 @@
+---
+topic_id: 1397
+title: "Article Praising Slicer"
+date: 2017-11-07
+url: https://discourse.slicer.org/t/1397
+---
+
 # Article praising Slicer
 
 **Topic ID**: 1397

@@ -1,3 +1,10 @@
+---
+topic_id: 22655
+title: "Get Volume Being Shown In Qmrmlthreedview Or Vtkmrmlviewnode"
+date: 2022-03-23
+url: https://discourse.slicer.org/t/22655
+---
+
 # Get volume being shown in qMRMLThreeDView or vtkMRMLViewNode from Python
 
 **Topic ID**: 22655

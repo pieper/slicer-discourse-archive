@@ -1,3 +1,10 @@
+---
+topic_id: 26932
+title: "Markups Not Moving With Surface In Q3Dc Extension"
+date: 2022-12-26
+url: https://discourse.slicer.org/t/26932
+---
+
 # Markups not moving with surface in Q3DC extension
 
 **Topic ID**: 26932

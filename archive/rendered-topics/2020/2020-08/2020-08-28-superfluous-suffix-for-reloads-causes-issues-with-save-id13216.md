@@ -1,3 +1,10 @@
+---
+topic_id: 13216
+title: "Superfluous Suffix For Reloads Causes Issues With Save"
+date: 2020-08-28
+url: https://discourse.slicer.org/t/13216
+---
+
 # Superfluous suffix for reloads causes issues with save
 
 **Topic ID**: 13216

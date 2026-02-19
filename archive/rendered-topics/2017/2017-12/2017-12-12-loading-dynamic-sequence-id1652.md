@@ -1,3 +1,10 @@
+---
+topic_id: 1652
+title: "Loading Dynamic Sequence"
+date: 2017-12-12
+url: https://discourse.slicer.org/t/1652
+---
+
 # Loading dynamic sequence
 
 **Topic ID**: 1652

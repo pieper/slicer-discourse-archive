@@ -1,3 +1,10 @@
+---
+topic_id: 44176
+title: "Obb Corner Coordinates And Or Dimensions"
+date: 2025-08-23
+url: https://discourse.slicer.org/t/44176
+---
+
 # OBB Corner Coordinates and/or Dimensions
 
 **Topic ID**: 44176

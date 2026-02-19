@@ -1,3 +1,10 @@
+---
+topic_id: 38296
+title: "Use Of 3D Slicer For Primary Spontaneous Pneumothorax"
+date: 2024-09-09
+url: https://discourse.slicer.org/t/38296
+---
+
 # Use of 3D slicer for Primary Spontaneous Pneumothorax
 
 **Topic ID**: 38296

@@ -1,3 +1,10 @@
+---
+topic_id: 34809
+title: "Radiomics Problem"
+date: 2024-03-10
+url: https://discourse.slicer.org/t/34809
+---
+
 # radiomics problem
 
 **Topic ID**: 34809

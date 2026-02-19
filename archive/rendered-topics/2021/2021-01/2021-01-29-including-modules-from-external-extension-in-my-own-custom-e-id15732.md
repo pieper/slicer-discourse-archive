@@ -1,3 +1,10 @@
+---
+topic_id: 15732
+title: "Including Modules From External Extension In My Own Custom E"
+date: 2021-01-29
+url: https://discourse.slicer.org/t/15732
+---
+
 # Including modules from external extension in my own custom extension
 
 **Topic ID**: 15732

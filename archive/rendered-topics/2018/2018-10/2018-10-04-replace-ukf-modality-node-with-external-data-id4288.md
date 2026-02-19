@@ -1,3 +1,10 @@
+---
+topic_id: 4288
+title: "Replace Ukf Modality Node With External Data"
+date: 2018-10-04
+url: https://discourse.slicer.org/t/4288
+---
+
 # Replace UKF modality node with external data
 
 **Topic ID**: 4288

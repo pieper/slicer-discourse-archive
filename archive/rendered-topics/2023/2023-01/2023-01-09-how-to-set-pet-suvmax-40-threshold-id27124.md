@@ -1,3 +1,10 @@
+---
+topic_id: 27124
+title: "How To Set Pet Suvmax 40 Threshold"
+date: 2023-01-09
+url: https://discourse.slicer.org/t/27124
+---
+
 # How to set PET SUVmax 40% threshold？
 
 **Topic ID**: 27124

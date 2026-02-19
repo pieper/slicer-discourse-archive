@@ -1,3 +1,10 @@
+---
+topic_id: 40490
+title: "Hardening Image Caused Blurry Orientation"
+date: 2024-12-03
+url: https://discourse.slicer.org/t/40490
+---
+
 # Hardening image caused blurry orientation
 
 **Topic ID**: 40490

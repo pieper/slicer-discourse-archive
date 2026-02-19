@@ -1,3 +1,10 @@
+---
+topic_id: 21149
+title: "Replay Recorded Data As A Sequence In The Sequencebrowser"
+date: 2021-12-20
+url: https://discourse.slicer.org/t/21149
+---
+
 # Replay recorded data as a sequence in the SequenceBrowser
 
 **Topic ID**: 21149

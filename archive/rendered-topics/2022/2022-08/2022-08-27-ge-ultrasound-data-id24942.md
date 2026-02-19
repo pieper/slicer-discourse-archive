@@ -1,3 +1,10 @@
+---
+topic_id: 24942
+title: "Ge Ultrasound Data"
+date: 2022-08-27
+url: https://discourse.slicer.org/t/24942
+---
+
 # GE ultrasound data
 
 **Topic ID**: 24942

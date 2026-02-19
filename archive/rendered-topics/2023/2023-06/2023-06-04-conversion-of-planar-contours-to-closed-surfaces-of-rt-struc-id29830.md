@@ -1,3 +1,10 @@
+---
+topic_id: 29830
+title: "Conversion Of Planar Contours To Closed Surfaces Of Rt Struc"
+date: 2023-06-04
+url: https://discourse.slicer.org/t/29830
+---
+
 # Conversion of planar contours to closed surfaces of RT Structs is corrupted
 
 **Topic ID**: 29830

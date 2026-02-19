@@ -1,3 +1,10 @@
+---
+topic_id: 3421
+title: "How Can I Convert Dicom Series To Nrrd Files In Batch Mode"
+date: 2018-07-09
+url: https://discourse.slicer.org/t/3421
+---
+
 # How can I convert DICOM series to NRRD files in batch mode?
 
 **Topic ID**: 3421

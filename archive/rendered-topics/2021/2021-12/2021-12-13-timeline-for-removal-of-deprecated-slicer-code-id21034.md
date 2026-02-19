@@ -1,3 +1,10 @@
+---
+topic_id: 21034
+title: "Timeline For Removal Of Deprecated Slicer Code"
+date: 2021-12-13
+url: https://discourse.slicer.org/t/21034
+---
+
 # Timeline for removal of deprecated Slicer code
 
 **Topic ID**: 21034

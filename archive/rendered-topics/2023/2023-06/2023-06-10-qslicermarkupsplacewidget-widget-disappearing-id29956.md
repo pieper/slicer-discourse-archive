@@ -1,3 +1,10 @@
+---
+topic_id: 29956
+title: "Qslicermarkupsplacewidget Widget Disappearing"
+date: 2023-06-10
+url: https://discourse.slicer.org/t/29956
+---
+
 # qSlicerMarkupsPlaceWidget widget disappearing
 
 **Topic ID**: 29956

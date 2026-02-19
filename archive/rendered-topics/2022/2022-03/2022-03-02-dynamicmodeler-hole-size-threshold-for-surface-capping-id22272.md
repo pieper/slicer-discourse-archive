@@ -1,3 +1,10 @@
+---
+topic_id: 22272
+title: "Dynamicmodeler Hole Size Threshold For Surface Capping"
+date: 2022-03-02
+url: https://discourse.slicer.org/t/22272
+---
+
 # DynamicModeler hole-size-threshold for surface-capping?
 
 **Topic ID**: 22272

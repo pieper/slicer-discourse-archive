@@ -1,3 +1,10 @@
+---
+topic_id: 43353
+title: "Torchvision Corrupted In Pytorch Util"
+date: 2025-06-14
+url: https://discourse.slicer.org/t/43353
+---
+
 # Torchvision "corrupted" in Pytorch Util
 
 **Topic ID**: 43353

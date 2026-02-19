@@ -1,3 +1,10 @@
+---
+topic_id: 10156
+title: "Segment Editor Repetitive Function"
+date: 2020-02-07
+url: https://discourse.slicer.org/t/10156
+---
+
 # Segment Editor - Repetitive function
 
 **Topic ID**: 10156

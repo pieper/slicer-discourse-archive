@@ -1,3 +1,10 @@
+---
+topic_id: 16817
+title: "I Got Shape Results Such As Majoraxislength Leastriaxislengt"
+date: 2021-03-29
+url: https://discourse.slicer.org/t/16817
+---
+
 # I got shape results (such as MajorAxisLength, LeastriAxisLength) through Radiomics analysis. Can I visualize it on model with 3Dslicer?
 
 **Topic ID**: 16817

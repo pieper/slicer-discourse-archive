@@ -1,3 +1,10 @@
+---
+topic_id: 10905
+title: "Colored Orientation Markers"
+date: 2020-03-30
+url: https://discourse.slicer.org/t/10905
+---
+
 # Colored orientation markers
 
 **Topic ID**: 10905

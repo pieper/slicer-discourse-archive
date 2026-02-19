@@ -1,3 +1,10 @@
+---
+topic_id: 29004
+title: "Extract Pixel Values From Reformatted Red Slice"
+date: 2023-04-19
+url: https://discourse.slicer.org/t/29004
+---
+
 # Extract pixel values from reformatted red slice
 
 **Topic ID**: 29004

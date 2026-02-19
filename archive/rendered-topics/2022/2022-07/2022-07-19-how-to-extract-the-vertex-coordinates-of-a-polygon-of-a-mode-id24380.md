@@ -1,3 +1,10 @@
+---
+topic_id: 24380
+title: "How To Extract The Vertex Coordinates Of A Polygon Of A Mode"
+date: 2022-07-19
+url: https://discourse.slicer.org/t/24380
+---
+
 # How to extract the vertex coordinates of a polygon of a model in the current section?
 
 **Topic ID**: 24380

@@ -1,3 +1,10 @@
+---
+topic_id: 15328
+title: "Creating A Screenshot By Script"
+date: 2021-01-04
+url: https://discourse.slicer.org/t/15328
+---
+
 # Creating a screenshot by script
 
 **Topic ID**: 15328

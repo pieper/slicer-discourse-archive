@@ -1,3 +1,10 @@
+---
+topic_id: 13204
+title: "How To Run Segment Editor Python Script From Terminal"
+date: 2020-08-27
+url: https://discourse.slicer.org/t/13204
+---
+
 # How to run segment editor python script from Terminal
 
 **Topic ID**: 13204

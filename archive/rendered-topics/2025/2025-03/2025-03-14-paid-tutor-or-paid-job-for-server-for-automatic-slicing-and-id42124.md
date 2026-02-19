@@ -1,3 +1,10 @@
+---
+topic_id: 42124
+title: "Paid Tutor Or Paid Job For Server For Automatic Slicing And"
+date: 2025-03-14
+url: https://discourse.slicer.org/t/42124
+---
+
 # Paid Tutor or paid job for server for automatic slicing and modeling
 
 **Topic ID**: 42124

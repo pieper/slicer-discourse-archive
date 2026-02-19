@@ -1,3 +1,10 @@
+---
+topic_id: 4341
+title: "Erase Effect Does Not Work"
+date: 2018-10-10
+url: https://discourse.slicer.org/t/4341
+---
+
 # Erase effect does not work
 
 **Topic ID**: 4341

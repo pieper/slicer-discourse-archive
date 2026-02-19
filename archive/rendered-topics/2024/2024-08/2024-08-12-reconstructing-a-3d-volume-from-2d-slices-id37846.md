@@ -1,3 +1,10 @@
+---
+topic_id: 37846
+title: "Reconstructing A 3D Volume From 2D Slices"
+date: 2024-08-12
+url: https://discourse.slicer.org/t/37846
+---
+
 # Reconstructing a 3D volume from 2D slices
 
 **Topic ID**: 37846

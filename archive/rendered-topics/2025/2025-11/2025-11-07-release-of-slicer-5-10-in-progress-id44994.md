@@ -1,3 +1,10 @@
+---
+topic_id: 44994
+title: "Release Of Slicer 5 10 In Progress"
+date: 2025-11-07
+url: https://discourse.slicer.org/t/44994
+---
+
 # Release of Slicer 5.10 in progress
 
 **Topic ID**: 44994

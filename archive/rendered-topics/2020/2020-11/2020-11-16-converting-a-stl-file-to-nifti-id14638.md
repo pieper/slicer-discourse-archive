@@ -1,3 +1,10 @@
+---
+topic_id: 14638
+title: "Converting A Stl File To Nifti"
+date: 2020-11-16
+url: https://discourse.slicer.org/t/14638
+---
+
 # Converting a STL file to nifti
 
 **Topic ID**: 14638

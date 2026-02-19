@@ -1,3 +1,10 @@
+---
+topic_id: 1568
+title: "Tcl Related Build Error On Mac"
+date: 2017-11-30
+url: https://discourse.slicer.org/t/1568
+---
+
 # Tcl related build error on Mac
 
 **Topic ID**: 1568

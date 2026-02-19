@@ -1,3 +1,10 @@
+---
+topic_id: 40349
+title: "Scan Misaligned With Global Coordinate System"
+date: 2024-11-23
+url: https://discourse.slicer.org/t/40349
+---
+
 # Scan Misaligned with Global Coordinate System
 
 **Topic ID**: 40349

@@ -1,3 +1,10 @@
+---
+topic_id: 10804
+title: "How To Export Model Node To Vrml 2 And Stl Ascii And Binary"
+date: 2020-03-23
+url: https://discourse.slicer.org/t/10804
+---
+
 # How to export model node to VRML 2 and STL (ascii and binary)
 
 **Topic ID**: 10804

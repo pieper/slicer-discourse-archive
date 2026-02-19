@@ -1,3 +1,10 @@
+---
+topic_id: 14047
+title: "Improvements To Consider"
+date: 2020-10-14
+url: https://discourse.slicer.org/t/14047
+---
+
 # Improvements to consider
 
 **Topic ID**: 14047

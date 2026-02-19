@@ -1,3 +1,10 @@
+---
+topic_id: 25523
+title: "Igt Volume Reconstruction Logic"
+date: 2022-10-03
+url: https://discourse.slicer.org/t/25523
+---
+
 # IGT Volume Reconstruction Logic
 
 **Topic ID**: 25523

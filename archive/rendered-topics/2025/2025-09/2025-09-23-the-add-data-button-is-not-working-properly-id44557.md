@@ -1,3 +1,10 @@
+---
+topic_id: 44557
+title: "The Add Data Button Is Not Working Properly"
+date: 2025-09-23
+url: https://discourse.slicer.org/t/44557
+---
+
 # The Add Data button is not working properly
 
 **Topic ID**: 44557

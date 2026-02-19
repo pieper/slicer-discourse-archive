@@ -1,3 +1,10 @@
+---
+topic_id: 6638
+title: "Reload Slicerrc Py Without Having To Restart Slicer"
+date: 2019-04-29
+url: https://discourse.slicer.org/t/6638
+---
+
 # reload slicerrc.py without having to restart slicer
 
 **Topic ID**: 6638

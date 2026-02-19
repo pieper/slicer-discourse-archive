@@ -1,3 +1,10 @@
+---
+topic_id: 28984
+title: "Voxel Size 0 5856X0 5856X1 0Mm Means That Resampledpixelspac"
+date: 2023-04-18
+url: https://discourse.slicer.org/t/28984
+---
+
 # Voxel size 0.5856x0.5856x1.0mm means that resampledPixelSpacing should be: [0.5856, 0.5856, 0.5856]?
 
 **Topic ID**: 28984

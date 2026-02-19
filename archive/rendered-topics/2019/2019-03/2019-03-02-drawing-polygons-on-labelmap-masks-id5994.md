@@ -1,3 +1,10 @@
+---
+topic_id: 5994
+title: "Drawing Polygons On Labelmap Masks"
+date: 2019-03-02
+url: https://discourse.slicer.org/t/5994
+---
+
 # Drawing Polygons on Labelmap Masks
 
 **Topic ID**: 5994

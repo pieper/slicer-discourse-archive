@@ -1,3 +1,10 @@
+---
+topic_id: 40124
+title: "Cleaning Function Surface Toolbox Does Not Handle 0 Rea Face"
+date: 2024-11-11
+url: https://discourse.slicer.org/t/40124
+---
+
 # Cleaning Function Surface Toolbox does not handle 0 rea faces/duplicate edges
 
 **Topic ID**: 40124

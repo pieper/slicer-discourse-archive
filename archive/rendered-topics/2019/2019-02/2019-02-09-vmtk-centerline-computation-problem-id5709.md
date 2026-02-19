@@ -1,3 +1,10 @@
+---
+topic_id: 5709
+title: "Vmtk Centerline Computation Problem"
+date: 2019-02-09
+url: https://discourse.slicer.org/t/5709
+---
+
 # VMTK centerline computation problem
 
 **Topic ID**: 5709

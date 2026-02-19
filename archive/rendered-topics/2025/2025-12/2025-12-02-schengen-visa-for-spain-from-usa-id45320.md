@@ -1,3 +1,10 @@
+---
+topic_id: 45320
+title: "Schengen Visa For Spain From Usa"
+date: 2025-12-02
+url: https://discourse.slicer.org/t/45320
+---
+
 # Schengen visa for Spain from USA
 
 **Topic ID**: 45320

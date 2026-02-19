@@ -1,3 +1,10 @@
+---
+topic_id: 8755
+title: "Save 3D Model As Dicom Format"
+date: 2019-10-12
+url: https://discourse.slicer.org/t/8755
+---
+
 # Save 3D model as dicom format
 
 **Topic ID**: 8755

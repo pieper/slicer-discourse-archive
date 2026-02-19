@@ -1,3 +1,10 @@
+---
+topic_id: 32487
+title: "Is There A Faster Way To Read And Write A Segment As A Numpy"
+date: 2023-10-30
+url: https://discourse.slicer.org/t/32487
+---
+
 # Is there a faster way to read and write a segment as a numpy array?
 
 **Topic ID**: 32487

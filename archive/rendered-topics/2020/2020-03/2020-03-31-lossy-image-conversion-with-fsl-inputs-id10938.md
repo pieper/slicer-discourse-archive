@@ -1,3 +1,10 @@
+---
+topic_id: 10938
+title: "Lossy Image Conversion With Fsl Inputs"
+date: 2020-03-31
+url: https://discourse.slicer.org/t/10938
+---
+
 # Lossy image conversion with FSL inputs
 
 **Topic ID**: 10938

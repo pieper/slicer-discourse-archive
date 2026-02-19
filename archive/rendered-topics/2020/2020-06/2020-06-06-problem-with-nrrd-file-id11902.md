@@ -1,3 +1,10 @@
+---
+topic_id: 11902
+title: "Problem With Nrrd File"
+date: 2020-06-06
+url: https://discourse.slicer.org/t/11902
+---
+
 # Problem with nrrd file
 
 **Topic ID**: 11902

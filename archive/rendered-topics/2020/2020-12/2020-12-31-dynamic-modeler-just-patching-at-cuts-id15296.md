@@ -1,3 +1,10 @@
+---
+topic_id: 15296
+title: "Dynamic Modeler Just Patching At Cuts"
+date: 2020-12-31
+url: https://discourse.slicer.org/t/15296
+---
+
 # Dynamic Modeler just patching at cuts
 
 **Topic ID**: 15296

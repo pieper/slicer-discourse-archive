@@ -1,3 +1,10 @@
+---
+topic_id: 40366
+title: "How To Do And Negative Brain Segmentation"
+date: 2024-11-25
+url: https://discourse.slicer.org/t/40366
+---
+
 # How to do and negative brain segmentation
 
 **Topic ID**: 40366

@@ -1,3 +1,10 @@
+---
+topic_id: 32107
+title: "To Open The Rdsr Of Clinical Images"
+date: 2023-10-09
+url: https://discourse.slicer.org/t/32107
+---
+
 # to open the RDSR of clinical images
 
 **Topic ID**: 32107

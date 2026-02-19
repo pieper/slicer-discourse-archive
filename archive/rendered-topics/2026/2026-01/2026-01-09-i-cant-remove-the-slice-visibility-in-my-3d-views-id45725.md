@@ -1,3 +1,10 @@
+---
+topic_id: 45725
+title: "I Cant Remove The Slice Visibility In My 3D Views"
+date: 2026-01-09
+url: https://discourse.slicer.org/t/45725
+---
+
 # I can't remove the slice visibility in my 3d views...
 
 **Topic ID**: 45725

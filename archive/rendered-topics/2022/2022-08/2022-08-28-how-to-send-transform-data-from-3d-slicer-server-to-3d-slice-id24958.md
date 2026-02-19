@@ -1,3 +1,10 @@
+---
+topic_id: 24958
+title: "How To Send Transform Data From 3D Slicer Server To 3D Slice"
+date: 2022-08-28
+url: https://discourse.slicer.org/t/24958
+---
+
 # How to send transform data from 3D Slicer(Server) to 3D slicer(client) use openIGTLink like Tracking Simulator?
 
 **Topic ID**: 24958

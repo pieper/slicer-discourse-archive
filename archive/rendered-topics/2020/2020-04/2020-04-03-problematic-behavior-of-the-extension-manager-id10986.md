@@ -1,3 +1,10 @@
+---
+topic_id: 10986
+title: "Problematic Behavior Of The Extension Manager"
+date: 2020-04-03
+url: https://discourse.slicer.org/t/10986
+---
+
 # Problematic behavior of the extension manager
 
 **Topic ID**: 10986

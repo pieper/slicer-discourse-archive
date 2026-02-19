@@ -1,3 +1,10 @@
+---
+topic_id: 6993
+title: "Need Help With The Research Project On Methods For Registeri"
+date: 2019-06-01
+url: https://discourse.slicer.org/t/6993
+---
+
 # Need help with the research project on methods for registering some objects.
 
 **Topic ID**: 6993

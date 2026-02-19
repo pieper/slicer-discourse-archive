@@ -1,3 +1,10 @@
+---
+topic_id: 18284
+title: "Slicer Build Fail"
+date: 2021-06-22
+url: https://discourse.slicer.org/t/18284
+---
+
 # Slicer build fail
 
 **Topic ID**: 18284

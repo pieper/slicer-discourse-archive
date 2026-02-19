@@ -1,3 +1,10 @@
+---
+topic_id: 33602
+title: "Pca Creation Error In Population Analysis Module"
+date: 2024-01-03
+url: https://discourse.slicer.org/t/33602
+---
+
 # PCA creation error in Population analysis module
 
 **Topic ID**: 33602

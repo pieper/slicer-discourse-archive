@@ -1,3 +1,10 @@
+---
+topic_id: 20656
+title: "Logarithmic Color Scale Bar"
+date: 2021-11-17
+url: https://discourse.slicer.org/t/20656
+---
+
 # Logarithmic Color scale Bar
 
 **Topic ID**: 20656

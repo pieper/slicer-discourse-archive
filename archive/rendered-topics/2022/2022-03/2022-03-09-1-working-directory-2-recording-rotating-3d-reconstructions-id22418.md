@@ -1,3 +1,10 @@
+---
+topic_id: 22418
+title: "1 Working Directory 2 Recording Rotating 3D Reconstructions"
+date: 2022-03-09
+url: https://discourse.slicer.org/t/22418
+---
+
 # 1. Working directory, 2. Recording rotating 3D-reconstructions
 
 **Topic ID**: 22418

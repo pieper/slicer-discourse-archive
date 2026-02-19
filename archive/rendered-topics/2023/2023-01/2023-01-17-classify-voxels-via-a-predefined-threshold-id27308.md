@@ -1,3 +1,10 @@
+---
+topic_id: 27308
+title: "Classify Voxels Via A Predefined Threshold"
+date: 2023-01-17
+url: https://discourse.slicer.org/t/27308
+---
+
 # Classify voxels via a predefined threshold
 
 **Topic ID**: 27308

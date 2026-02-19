@@ -1,3 +1,10 @@
+---
+topic_id: 4473
+title: "Concerning Spacial Misalaignement Of Middle Ear Segment"
+date: 2018-10-19
+url: https://discourse.slicer.org/t/4473
+---
+
 # Concerning Spacial misalaignement of middle ear segment
 
 **Topic ID**: 4473

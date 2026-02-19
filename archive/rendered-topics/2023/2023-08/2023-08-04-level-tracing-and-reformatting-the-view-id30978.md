@@ -1,3 +1,10 @@
+---
+topic_id: 30978
+title: "Level Tracing And Reformatting The View"
+date: 2023-08-04
+url: https://discourse.slicer.org/t/30978
+---
+
 # Level Tracing and Reformatting the View
 
 **Topic ID**: 30978

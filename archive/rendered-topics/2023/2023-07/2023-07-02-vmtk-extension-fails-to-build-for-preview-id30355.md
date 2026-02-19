@@ -1,3 +1,10 @@
+---
+topic_id: 30355
+title: "Vmtk Extension Fails To Build For Preview"
+date: 2023-07-02
+url: https://discourse.slicer.org/t/30355
+---
+
 # VMTK extension fails to build for preview
 
 **Topic ID**: 30355

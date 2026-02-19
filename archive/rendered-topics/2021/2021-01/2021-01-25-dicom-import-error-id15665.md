@@ -1,3 +1,10 @@
+---
+topic_id: 15665
+title: "Dicom Import Error"
+date: 2021-01-25
+url: https://discourse.slicer.org/t/15665
+---
+
 # DICOM Import Error
 
 **Topic ID**: 15665

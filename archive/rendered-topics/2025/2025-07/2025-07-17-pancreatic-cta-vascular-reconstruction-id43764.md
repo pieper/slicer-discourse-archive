@@ -1,3 +1,10 @@
+---
+topic_id: 43764
+title: "Pancreatic Cta Vascular Reconstruction"
+date: 2025-07-17
+url: https://discourse.slicer.org/t/43764
+---
+
 # Pancreatic CTA Vascular Reconstruction
 
 **Topic ID**: 43764

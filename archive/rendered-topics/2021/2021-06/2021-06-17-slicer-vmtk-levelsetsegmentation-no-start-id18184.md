@@ -1,3 +1,10 @@
+---
+topic_id: 18184
+title: "Slicer Vmtk Levelsetsegmentation No Start"
+date: 2021-06-17
+url: https://discourse.slicer.org/t/18184
+---
+
 # Slicer VMTK LevelSetSegmentation no Start
 
 **Topic ID**: 18184

@@ -1,3 +1,10 @@
+---
+topic_id: 42615
+title: "Add A Keyboard Shortcut To Close The Application"
+date: 2025-04-18
+url: https://discourse.slicer.org/t/42615
+---
+
 # Add a keyboard shortcut to close the application
 
 **Topic ID**: 42615

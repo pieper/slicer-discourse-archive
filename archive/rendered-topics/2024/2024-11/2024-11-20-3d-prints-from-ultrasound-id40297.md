@@ -1,3 +1,10 @@
+---
+topic_id: 40297
+title: "3D Prints From Ultrasound"
+date: 2024-11-20
+url: https://discourse.slicer.org/t/40297
+---
+
 # 3D prints from ultrasound
 
 **Topic ID**: 40297

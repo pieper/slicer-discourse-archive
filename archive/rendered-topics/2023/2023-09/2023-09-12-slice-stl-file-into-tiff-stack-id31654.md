@@ -1,3 +1,10 @@
+---
+topic_id: 31654
+title: "Slice Stl File Into Tiff Stack"
+date: 2023-09-12
+url: https://discourse.slicer.org/t/31654
+---
+
 # Slice STL file into TIFF stack
 
 **Topic ID**: 31654

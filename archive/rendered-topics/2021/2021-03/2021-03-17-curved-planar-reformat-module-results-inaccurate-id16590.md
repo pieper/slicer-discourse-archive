@@ -1,3 +1,10 @@
+---
+topic_id: 16590
+title: "Curved Planar Reformat Module Results Inaccurate"
+date: 2021-03-17
+url: https://discourse.slicer.org/t/16590
+---
+
 # Curved Planar Reformat module results inaccurate
 
 **Topic ID**: 16590

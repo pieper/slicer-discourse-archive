@@ -1,3 +1,10 @@
+---
+topic_id: 32398
+title: "Issue With Dose Comparison"
+date: 2023-10-24
+url: https://discourse.slicer.org/t/32398
+---
+
 # Issue with dose comparison
 
 **Topic ID**: 32398

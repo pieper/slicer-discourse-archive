@@ -1,3 +1,10 @@
+---
+topic_id: 45381
+title: "Extensions For Stable Are Not Building For Macos"
+date: 2025-12-05
+url: https://discourse.slicer.org/t/45381
+---
+
 # Extensions for stable are not building for macos
 
 **Topic ID**: 45381

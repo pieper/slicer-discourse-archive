@@ -1,3 +1,10 @@
+---
+topic_id: 3390
+title: "Segmentation For Mri Rat Brains"
+date: 2018-07-05
+url: https://discourse.slicer.org/t/3390
+---
+
 # Segmentation for MRI rat brains
 
 **Topic ID**: 3390

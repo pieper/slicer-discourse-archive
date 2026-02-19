@@ -1,3 +1,10 @@
+---
+topic_id: 25058
+title: "Import Bmp Data Into 3D Slicer"
+date: 2022-09-02
+url: https://discourse.slicer.org/t/25058
+---
+
 # Import bmp data into 3D Slicer
 
 **Topic ID**: 25058

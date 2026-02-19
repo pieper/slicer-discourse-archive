@@ -1,3 +1,10 @@
+---
+topic_id: 37009
+title: "Weird Results With Dental Segmentator"
+date: 2024-06-25
+url: https://discourse.slicer.org/t/37009
+---
+
 # Weird results with dental segmentator
 
 **Topic ID**: 37009

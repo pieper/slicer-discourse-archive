@@ -1,3 +1,10 @@
+---
+topic_id: 14630
+title: "Layered Rendering With Multiple Renderers"
+date: 2020-11-16
+url: https://discourse.slicer.org/t/14630
+---
+
 # Layered rendering with multiple renderers
 
 **Topic ID**: 14630

@@ -1,3 +1,10 @@
+---
+topic_id: 23194
+title: "Install Pyserial"
+date: 2022-04-29
+url: https://discourse.slicer.org/t/23194
+---
+
 # Install pyserial
 
 **Topic ID**: 23194

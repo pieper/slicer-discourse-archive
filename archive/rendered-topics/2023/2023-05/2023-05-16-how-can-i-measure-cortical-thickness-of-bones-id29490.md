@@ -1,3 +1,10 @@
+---
+topic_id: 29490
+title: "How Can I Measure Cortical Thickness Of Bones"
+date: 2023-05-16
+url: https://discourse.slicer.org/t/29490
+---
+
 # How can I measure cortical thickness of bones?
 
 **Topic ID**: 29490

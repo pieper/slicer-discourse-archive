@@ -1,3 +1,10 @@
+---
+topic_id: 36716
+title: "Pop Up Said That The Acquisition Duration"
+date: 2024-06-12
+url: https://discourse.slicer.org/t/36716
+---
+
 # Pop up said that the acquisition duration
 
 **Topic ID**: 36716

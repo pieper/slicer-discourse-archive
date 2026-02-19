@@ -1,3 +1,10 @@
+---
+topic_id: 10653
+title: "Save Nrrd As Stl But Only The Outside"
+date: 2020-03-12
+url: https://discourse.slicer.org/t/10653
+---
+
 # Save nrrd as stl but only the outside
 
 **Topic ID**: 10653

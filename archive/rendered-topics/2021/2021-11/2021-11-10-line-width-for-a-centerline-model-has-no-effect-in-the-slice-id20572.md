@@ -1,3 +1,10 @@
+---
+topic_id: 20572
+title: "Line Width For A Centerline Model Has No Effect In The Slice"
+date: 2021-11-10
+url: https://discourse.slicer.org/t/20572
+---
+
 # Line Width for a centerline model has no effect in the Slice Display section
 
 **Topic ID**: 20572

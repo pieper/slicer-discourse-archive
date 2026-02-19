@@ -1,3 +1,10 @@
+---
+topic_id: 19472
+title: "Launching Slicer With Only Slicelet Displayed On Mac"
+date: 2021-09-01
+url: https://discourse.slicer.org/t/19472
+---
+
 # Launching Slicer with only Slicelet displayed on mac
 
 **Topic ID**: 19472

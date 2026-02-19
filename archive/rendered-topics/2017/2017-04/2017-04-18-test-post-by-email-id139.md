@@ -1,3 +1,10 @@
+---
+topic_id: 139
+title: "Test Post By Email"
+date: 2017-04-18
+url: https://discourse.slicer.org/t/139
+---
+
 # Test post-by-email
 
 **Topic ID**: 139

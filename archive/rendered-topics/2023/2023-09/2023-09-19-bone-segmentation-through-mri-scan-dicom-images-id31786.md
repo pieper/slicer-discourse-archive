@@ -1,3 +1,10 @@
+---
+topic_id: 31786
+title: "Bone Segmentation Through Mri Scan Dicom Images"
+date: 2023-09-19
+url: https://discourse.slicer.org/t/31786
+---
+
 # Bone segmentation through MRI scan dicom images
 
 **Topic ID**: 31786

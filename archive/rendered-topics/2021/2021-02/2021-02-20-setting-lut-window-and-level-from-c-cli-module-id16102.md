@@ -1,3 +1,10 @@
+---
+topic_id: 16102
+title: "Setting Lut Window And Level From C Cli Module"
+date: 2021-02-20
+url: https://discourse.slicer.org/t/16102
+---
+
 # Setting LUT/ window and level from C++ CLI module
 
 **Topic ID**: 16102

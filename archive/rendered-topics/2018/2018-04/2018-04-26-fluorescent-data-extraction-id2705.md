@@ -1,3 +1,10 @@
+---
+topic_id: 2705
+title: "Fluorescent Data Extraction"
+date: 2018-04-26
+url: https://discourse.slicer.org/t/2705
+---
+
 # fluorescent data extraction
 
 **Topic ID**: 2705

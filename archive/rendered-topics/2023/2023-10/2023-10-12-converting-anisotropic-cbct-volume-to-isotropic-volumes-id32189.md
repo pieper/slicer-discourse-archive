@@ -1,3 +1,10 @@
+---
+topic_id: 32189
+title: "Converting Anisotropic Cbct Volume To Isotropic Volumes"
+date: 2023-10-12
+url: https://discourse.slicer.org/t/32189
+---
+
 # Converting anisotropic CBCT volume to isotropic volumes 
 
 **Topic ID**: 32189

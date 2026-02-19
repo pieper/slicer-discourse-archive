@@ -1,3 +1,10 @@
+---
+topic_id: 19444
+title: "Is There A Way To Call 3D Slicer Libraries Without Running T"
+date: 2021-08-31
+url: https://discourse.slicer.org/t/19444
+---
+
 # Is there a way to call 3D Slicer libraries without running the 3D Slicer program?
 
 **Topic ID**: 19444

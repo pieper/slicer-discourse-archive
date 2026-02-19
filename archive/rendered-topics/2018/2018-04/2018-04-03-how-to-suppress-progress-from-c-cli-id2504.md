@@ -1,3 +1,10 @@
+---
+topic_id: 2504
+title: "How To Suppress Progress From C Cli"
+date: 2018-04-03
+url: https://discourse.slicer.org/t/2504
+---
+
 # How to suppress #Progress from c++ CLI
 
 **Topic ID**: 2504

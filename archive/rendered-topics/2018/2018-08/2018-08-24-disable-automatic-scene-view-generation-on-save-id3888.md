@@ -1,3 +1,10 @@
+---
+topic_id: 3888
+title: "Disable Automatic Scene View Generation On Save"
+date: 2018-08-24
+url: https://discourse.slicer.org/t/3888
+---
+
 # Disable automatic scene view generation on save
 
 **Topic ID**: 3888

@@ -1,3 +1,10 @@
+---
+topic_id: 7838
+title: "Scalar Volume Error When I Open Dicom File"
+date: 2019-08-01
+url: https://discourse.slicer.org/t/7838
+---
+
 # scalar volume error when i open DICOM file.
 
 **Topic ID**: 7838

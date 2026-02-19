@@ -1,3 +1,10 @@
+---
+topic_id: 17468
+title: "Resampling Grey Levels On Imaging Sets"
+date: 2021-05-05
+url: https://discourse.slicer.org/t/17468
+---
+
 # Resampling grey levels on imaging sets
 
 **Topic ID**: 17468

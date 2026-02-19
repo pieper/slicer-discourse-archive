@@ -1,3 +1,10 @@
+---
+topic_id: 22283
+title: "Monailabel Plugin Pelvis Segmentation In Mri"
+date: 2022-03-03
+url: https://discourse.slicer.org/t/22283
+---
+
 # MONAILABEL plugin | pelvis segmentation in MRI
 
 **Topic ID**: 22283

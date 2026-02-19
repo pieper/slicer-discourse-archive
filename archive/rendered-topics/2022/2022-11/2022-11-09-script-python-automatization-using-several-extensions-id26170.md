@@ -1,3 +1,10 @@
+---
+topic_id: 26170
+title: "Script Python Automatization Using Several Extensions"
+date: 2022-11-09
+url: https://discourse.slicer.org/t/26170
+---
+
 # Script Python - Automatization using several extensions.
 
 **Topic ID**: 26170

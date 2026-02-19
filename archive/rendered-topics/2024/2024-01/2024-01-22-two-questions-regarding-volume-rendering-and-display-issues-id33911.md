@@ -1,3 +1,10 @@
+---
+topic_id: 33911
+title: "Two Questions Regarding Volume Rendering And Display Issues"
+date: 2024-01-22
+url: https://discourse.slicer.org/t/33911
+---
+
 # Two Questions Regarding Volume Rendering and Display Issues
 
 **Topic ID**: 33911

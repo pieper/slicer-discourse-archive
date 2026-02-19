@@ -1,3 +1,10 @@
+---
+topic_id: 40621
+title: "Help With Creating Fibula Guide"
+date: 2024-12-10
+url: https://discourse.slicer.org/t/40621
+---
+
 # Help with creating fibula guide
 
 **Topic ID**: 40621

@@ -1,3 +1,10 @@
+---
+topic_id: 6780
+title: "Color Associated With Community Category"
+date: 2019-05-13
+url: https://discourse.slicer.org/t/6780
+---
+
 # Color associated with Community category
 
 **Topic ID**: 6780

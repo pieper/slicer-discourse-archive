@@ -1,3 +1,10 @@
+---
+topic_id: 16983
+title: "Vmtk Centerline Extraction Trouble"
+date: 2021-04-07
+url: https://discourse.slicer.org/t/16983
+---
+
 # VMTK centerline extraction trouble?
 
 **Topic ID**: 16983

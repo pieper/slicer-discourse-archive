@@ -1,3 +1,10 @@
+---
+topic_id: 45070
+title: "3D Volume From Tomo Set"
+date: 2025-11-13
+url: https://discourse.slicer.org/t/45070
+---
+
 # 3D volume from Tomo Set
 
 **Topic ID**: 45070

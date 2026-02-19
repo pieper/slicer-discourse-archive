@@ -1,3 +1,10 @@
+---
+topic_id: 37548
+title: "Extracting Point Clouds"
+date: 2024-07-24
+url: https://discourse.slicer.org/t/37548
+---
+
 # Extracting Point Clouds
 
 **Topic ID**: 37548

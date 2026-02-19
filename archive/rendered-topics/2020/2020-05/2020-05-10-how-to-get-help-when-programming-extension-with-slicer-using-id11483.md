@@ -1,3 +1,10 @@
+---
+topic_id: 11483
+title: "How To Get Help When Programming Extension With Slicer Using"
+date: 2020-05-10
+url: https://discourse.slicer.org/t/11483
+---
+
 # How to get help when programming extension with slicer using loadable module?
 
 **Topic ID**: 11483

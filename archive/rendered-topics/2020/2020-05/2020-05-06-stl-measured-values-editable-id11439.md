@@ -1,3 +1,10 @@
+---
+topic_id: 11439
+title: "Stl Measured Values Editable"
+date: 2020-05-06
+url: https://discourse.slicer.org/t/11439
+---
+
 # STL measured values editable?
 
 **Topic ID**: 11439

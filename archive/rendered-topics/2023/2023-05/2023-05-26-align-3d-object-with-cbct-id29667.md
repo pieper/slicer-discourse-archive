@@ -1,3 +1,10 @@
+---
+topic_id: 29667
+title: "Align 3D Object With Cbct"
+date: 2023-05-26
+url: https://discourse.slicer.org/t/29667
+---
+
 # Align 3d object with cbct.
 
 **Topic ID**: 29667

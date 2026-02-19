@@ -1,3 +1,10 @@
+---
+topic_id: 16761
+title: "Use Different Python Interpreter With Slicer 3D"
+date: 2021-03-25
+url: https://discourse.slicer.org/t/16761
+---
+
 # Use different python interpreter with Slicer 3d
 
 **Topic ID**: 16761

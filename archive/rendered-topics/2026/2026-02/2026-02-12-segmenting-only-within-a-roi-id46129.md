@@ -1,3 +1,10 @@
+---
+topic_id: 46129
+title: "Segmenting Only Within A Roi"
+date: 2026-02-12
+url: https://discourse.slicer.org/t/46129
+---
+
 # Segmenting only within a ROI
 
 **Topic ID**: 46129

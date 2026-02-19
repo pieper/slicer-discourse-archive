@@ -1,3 +1,10 @@
+---
+topic_id: 24774
+title: "Connect External Appareil To 3D Slicer"
+date: 2022-08-15
+url: https://discourse.slicer.org/t/24774
+---
+
 # Connect external appareil to 3D Slicer
 
 **Topic ID**: 24774

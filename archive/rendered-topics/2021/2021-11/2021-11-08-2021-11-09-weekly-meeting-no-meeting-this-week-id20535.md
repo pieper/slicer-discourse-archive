@@ -1,3 +1,10 @@
+---
+topic_id: 20535
+title: "2021 11 09 Weekly Meeting No Meeting This Week"
+date: 2021-11-08
+url: https://discourse.slicer.org/t/20535
+---
+
 # 2021.11.09 Weekly Meeting - No meeting this week
 
 **Topic ID**: 20535

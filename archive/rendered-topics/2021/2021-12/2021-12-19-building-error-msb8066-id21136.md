@@ -1,3 +1,10 @@
+---
+topic_id: 21136
+title: "Building Error Msb8066"
+date: 2021-12-19
+url: https://discourse.slicer.org/t/21136
+---
+
 # Building Error MSB8066
 
 **Topic ID**: 21136

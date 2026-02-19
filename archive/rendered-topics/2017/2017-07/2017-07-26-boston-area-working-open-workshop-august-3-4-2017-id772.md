@@ -1,3 +1,10 @@
+---
+topic_id: 772
+title: "Boston Area Working Open Workshop August 3 4 2017"
+date: 2017-07-26
+url: https://discourse.slicer.org/t/772
+---
+
 # Boston Area Working Open Workshop: August 3-4, 2017
 
 **Topic ID**: 772

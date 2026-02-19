@@ -1,3 +1,10 @@
+---
+topic_id: 24945
+title: "Access Volume Rendering Result"
+date: 2022-08-27
+url: https://discourse.slicer.org/t/24945
+---
+
 # Access volume rendering result
 
 **Topic ID**: 24945

@@ -1,3 +1,10 @@
+---
+topic_id: 20280
+title: "Setting Up The Optitrack Motive Plus Slicer Igt Watchdog"
+date: 2021-10-21
+url: https://discourse.slicer.org/t/20280
+---
+
 # Setting up the Optitrack Motive => PLUS => Slicer IGT Watchdog
 
 **Topic ID**: 20280

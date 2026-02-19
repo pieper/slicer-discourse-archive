@@ -1,3 +1,10 @@
+---
+topic_id: 32543
+title: "How To Open Color Bar"
+date: 2023-11-02
+url: https://discourse.slicer.org/t/32543
+---
+
 # How to Open "color bar"
 
 **Topic ID**: 32543

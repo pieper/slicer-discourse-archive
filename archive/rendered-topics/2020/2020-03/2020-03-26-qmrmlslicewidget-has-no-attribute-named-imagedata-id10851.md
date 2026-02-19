@@ -1,3 +1,10 @@
+---
+topic_id: 10851
+title: "Qmrmlslicewidget Has No Attribute Named Imagedata"
+date: 2020-03-26
+url: https://discourse.slicer.org/t/10851
+---
+
 # qMRMLSliceWidget has no attribute named 'imageData'
 
 **Topic ID**: 10851

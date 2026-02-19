@@ -1,3 +1,10 @@
+---
+topic_id: 42752
+title: "How Does Automatic Endpoint Detection Work In Vmtk Slicer Ex"
+date: 2025-04-30
+url: https://discourse.slicer.org/t/42752
+---
+
 # How does automatic endpoint detection work in VMTK Slicer Extension?
 
 **Topic ID**: 42752

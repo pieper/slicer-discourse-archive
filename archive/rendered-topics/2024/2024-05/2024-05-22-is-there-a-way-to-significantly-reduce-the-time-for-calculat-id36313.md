@@ -1,3 +1,10 @@
+---
+topic_id: 36313
+title: "Is There A Way To Significantly Reduce The Time For Calculat"
+date: 2024-05-22
+url: https://discourse.slicer.org/t/36313
+---
+
 # Is there a way to significantly reduce the time for calculating centerlines?
 
 **Topic ID**: 36313

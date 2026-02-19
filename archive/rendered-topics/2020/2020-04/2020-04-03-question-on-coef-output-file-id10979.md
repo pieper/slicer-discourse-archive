@@ -1,3 +1,10 @@
+---
+topic_id: 10979
+title: "Question On Coef Output File"
+date: 2020-04-03
+url: https://discourse.slicer.org/t/10979
+---
+
 # Question on .coef output file
 
 **Topic ID**: 10979

@@ -1,3 +1,10 @@
+---
+topic_id: 25378
+title: "Intel Iris Xe Graphics Integrated Gpu"
+date: 2022-09-21
+url: https://discourse.slicer.org/t/25378
+---
+
 # Intel Iris Xe Graphics integrated GPU
 
 **Topic ID**: 25378

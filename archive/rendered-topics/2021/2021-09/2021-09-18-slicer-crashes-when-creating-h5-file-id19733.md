@@ -1,3 +1,10 @@
+---
+topic_id: 19733
+title: "Slicer Crashes When Creating H5 File"
+date: 2021-09-18
+url: https://discourse.slicer.org/t/19733
+---
+
 # Slicer crashes when creating h5 file
 
 **Topic ID**: 19733

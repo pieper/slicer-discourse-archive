@@ -1,3 +1,10 @@
+---
+topic_id: 43064
+title: "Registration Is Now Open For Project Week 43"
+date: 2025-05-23
+url: https://discourse.slicer.org/t/43064
+---
+
 # Registration is now open for Project Week 43
 
 **Topic ID**: 43064

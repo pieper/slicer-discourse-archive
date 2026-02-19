@@ -1,3 +1,10 @@
+---
+topic_id: 5797
+title: "Export Dicom Rt Structure As Segmentation"
+date: 2019-02-15
+url: https://discourse.slicer.org/t/5797
+---
+
 # Export DICOM RT structure as segmentation
 
 **Topic ID**: 5797

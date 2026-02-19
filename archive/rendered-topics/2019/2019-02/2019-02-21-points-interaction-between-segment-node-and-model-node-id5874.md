@@ -1,3 +1,10 @@
+---
+topic_id: 5874
+title: "Points Interaction Between Segment Node And Model Node"
+date: 2019-02-21
+url: https://discourse.slicer.org/t/5874
+---
+
 # Points interaction between segment node and model node
 
 **Topic ID**: 5874

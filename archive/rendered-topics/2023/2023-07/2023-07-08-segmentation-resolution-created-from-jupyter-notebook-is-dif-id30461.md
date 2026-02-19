@@ -1,3 +1,10 @@
+---
+topic_id: 30461
+title: "Segmentation Resolution Created From Jupyter Notebook Is Dif"
+date: 2023-07-08
+url: https://discourse.slicer.org/t/30461
+---
+
 # segmentation resolution created from Jupyter notebook is different than that created in 3dslicer
 
 **Topic ID**: 30461

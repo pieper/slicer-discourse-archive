@@ -1,3 +1,10 @@
+---
+topic_id: 31310
+title: "Blank Screen When Launching Slicer On Older Laptop"
+date: 2023-08-22
+url: https://discourse.slicer.org/t/31310
+---
+
 # Blank screen when launching Slicer on older laptop
 
 **Topic ID**: 31310

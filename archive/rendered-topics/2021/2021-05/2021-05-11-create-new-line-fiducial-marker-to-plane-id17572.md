@@ -1,3 +1,10 @@
+---
+topic_id: 17572
+title: "Create New Line Fiducial Marker To Plane"
+date: 2021-05-11
+url: https://discourse.slicer.org/t/17572
+---
+
 # Create new line: Fiducial marker to Plane
 
 **Topic ID**: 17572

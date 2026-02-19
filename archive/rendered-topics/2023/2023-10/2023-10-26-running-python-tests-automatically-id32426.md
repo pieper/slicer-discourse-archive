@@ -1,3 +1,10 @@
+---
+topic_id: 32426
+title: "Running Python Tests Automatically"
+date: 2023-10-26
+url: https://discourse.slicer.org/t/32426
+---
+
 # Running Python tests automatically
 
 **Topic ID**: 32426

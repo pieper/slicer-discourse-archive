@@ -1,3 +1,10 @@
+---
+topic_id: 11251
+title: "Confusing Save Dialog Behavior"
+date: 2020-04-22
+url: https://discourse.slicer.org/t/11251
+---
+
 # Confusing "save dialog" behavior
 
 **Topic ID**: 11251

@@ -1,3 +1,10 @@
+---
+topic_id: 3088
+title: "How To Load An Entire Entire Dicom Directory Using The Widge"
+date: 2018-06-06
+url: https://discourse.slicer.org/t/3088
+---
+
 # How to load an entire entire dicom directory using the widget button on a python code?
 
 **Topic ID**: 3088

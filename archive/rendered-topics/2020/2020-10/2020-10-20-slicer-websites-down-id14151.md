@@ -1,3 +1,10 @@
+---
+topic_id: 14151
+title: "Slicer Websites Down"
+date: 2020-10-20
+url: https://discourse.slicer.org/t/14151
+---
+
 # Slicer websites down
 
 **Topic ID**: 14151

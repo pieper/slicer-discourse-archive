@@ -1,3 +1,10 @@
+---
+topic_id: 8976
+title: "From Tomosynthesis Images Can 3D Slicer Create A Good 3D Ima"
+date: 2019-10-31
+url: https://discourse.slicer.org/t/8976
+---
+
 # From tomosynthesis images, can 3D Slicer create a good 3D image?
 
 **Topic ID**: 8976

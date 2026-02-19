@@ -1,3 +1,10 @@
+---
+topic_id: 30097
+title: "Finding Bounding Box Of The Head Model"
+date: 2023-06-17
+url: https://discourse.slicer.org/t/30097
+---
+
 # Finding bounding box of the head model
 
 **Topic ID**: 30097

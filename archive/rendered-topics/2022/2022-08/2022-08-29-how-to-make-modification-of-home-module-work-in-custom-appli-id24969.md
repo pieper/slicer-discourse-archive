@@ -1,3 +1,10 @@
+---
+topic_id: 24969
+title: "How To Make Modification Of Home Module Work In Custom Appli"
+date: 2022-08-29
+url: https://discourse.slicer.org/t/24969
+---
+
 # How to make modification of Home module work in Custom Application?
 
 **Topic ID**: 24969

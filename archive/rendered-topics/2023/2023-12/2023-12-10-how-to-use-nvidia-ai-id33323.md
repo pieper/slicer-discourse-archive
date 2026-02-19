@@ -1,3 +1,10 @@
+---
+topic_id: 33323
+title: "How To Use Nvidia Ai"
+date: 2023-12-10
+url: https://discourse.slicer.org/t/33323
+---
+
 # how to use nvidia AI?
 
 **Topic ID**: 33323

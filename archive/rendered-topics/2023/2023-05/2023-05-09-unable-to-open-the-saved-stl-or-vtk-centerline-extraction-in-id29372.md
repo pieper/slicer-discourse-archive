@@ -1,3 +1,10 @@
+---
+topic_id: 29372
+title: "Unable To Open The Saved Stl Or Vtk Centerline Extraction In"
+date: 2023-05-09
+url: https://discourse.slicer.org/t/29372
+---
+
 # Unable to open the saved stl or vtk centerline extraction in other modelling software
 
 **Topic ID**: 29372

@@ -1,3 +1,10 @@
+---
+topic_id: 1865
+title: "Extraction Of The Centerlines"
+date: 2018-01-18
+url: https://discourse.slicer.org/t/1865
+---
+
 # Extraction of the centerlines
 
 **Topic ID**: 1865

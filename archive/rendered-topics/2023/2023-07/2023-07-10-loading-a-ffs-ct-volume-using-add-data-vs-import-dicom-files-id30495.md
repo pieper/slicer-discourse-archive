@@ -1,3 +1,10 @@
+---
+topic_id: 30495
+title: "Loading A Ffs Ct Volume Using Add Data Vs Import Dicom Files"
+date: 2023-07-10
+url: https://discourse.slicer.org/t/30495
+---
+
 # Loading a FFS CT Volume using "Add Data" vs "Import Dicom files"
 
 **Topic ID**: 30495

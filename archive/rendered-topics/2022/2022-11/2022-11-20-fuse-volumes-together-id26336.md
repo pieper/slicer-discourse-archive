@@ -1,3 +1,10 @@
+---
+topic_id: 26336
+title: "Fuse Volumes Together"
+date: 2022-11-20
+url: https://discourse.slicer.org/t/26336
+---
+
 # Fuse Volumes together.
 
 **Topic ID**: 26336

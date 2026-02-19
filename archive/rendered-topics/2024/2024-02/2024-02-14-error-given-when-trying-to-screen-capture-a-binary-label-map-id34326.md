@@ -1,3 +1,10 @@
+---
+topic_id: 34326
+title: "Error Given When Trying To Screen Capture A Binary Label Map"
+date: 2024-02-14
+url: https://discourse.slicer.org/t/34326
+---
+
 # Error given when trying to screen capture a binary label map
 
 **Topic ID**: 34326

@@ -1,3 +1,10 @@
+---
+topic_id: 44823
+title: "Cannot Generate Independent Segments Add Always Edits Segmen"
+date: 2025-10-20
+url: https://discourse.slicer.org/t/44823
+---
+
 # Cannot generate independent segments — Add always edits Segment_1
 
 **Topic ID**: 44823

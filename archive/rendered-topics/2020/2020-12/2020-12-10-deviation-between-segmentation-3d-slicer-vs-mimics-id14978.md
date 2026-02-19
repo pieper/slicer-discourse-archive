@@ -1,3 +1,10 @@
+---
+topic_id: 14978
+title: "Deviation Between Segmentation 3D Slicer Vs Mimics"
+date: 2020-12-10
+url: https://discourse.slicer.org/t/14978
+---
+
 # Deviation between segmentation - 3D Slicer vs Mimics
 
 **Topic ID**: 14978

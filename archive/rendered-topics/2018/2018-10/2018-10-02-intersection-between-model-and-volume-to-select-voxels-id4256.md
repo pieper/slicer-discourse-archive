@@ -1,3 +1,10 @@
+---
+topic_id: 4256
+title: "Intersection Between Model And Volume To Select Voxels"
+date: 2018-10-02
+url: https://discourse.slicer.org/t/4256
+---
+
 # Intersection between model and volume to select voxels
 
 **Topic ID**: 4256

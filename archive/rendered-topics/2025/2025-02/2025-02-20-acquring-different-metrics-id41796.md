@@ -1,3 +1,10 @@
+---
+topic_id: 41796
+title: "Acquring Different Metrics"
+date: 2025-02-20
+url: https://discourse.slicer.org/t/41796
+---
+
 # Acquring different metrics
 
 **Topic ID**: 41796

@@ -1,3 +1,10 @@
+---
+topic_id: 30338
+title: "How Do You Enable Slice Interaction In 5 2 2"
+date: 2023-07-01
+url: https://discourse.slicer.org/t/30338
+---
+
 # How do you enable slice interaction in 5.2.2
 
 **Topic ID**: 30338

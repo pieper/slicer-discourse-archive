@@ -1,3 +1,10 @@
+---
+topic_id: 4516
+title: "Change Data Probe To View Mip Hu"
+date: 2018-10-24
+url: https://discourse.slicer.org/t/4516
+---
+
 # Change data probe to view MIP HU
 
 **Topic ID**: 4516

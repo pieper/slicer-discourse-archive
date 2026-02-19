@@ -1,3 +1,10 @@
+---
+topic_id: 6049
+title: "Help Cropping 4D Images After Using Segmentation Wizard"
+date: 2019-03-06
+url: https://discourse.slicer.org/t/6049
+---
+
 # Help cropping 4D images after using segmentation wizard
 
 **Topic ID**: 6049

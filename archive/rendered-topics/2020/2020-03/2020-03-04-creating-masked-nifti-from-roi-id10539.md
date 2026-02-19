@@ -1,3 +1,10 @@
+---
+topic_id: 10539
+title: "Creating Masked Nifti From Roi"
+date: 2020-03-04
+url: https://discourse.slicer.org/t/10539
+---
+
 # Creating masked nifti from ROI
 
 **Topic ID**: 10539

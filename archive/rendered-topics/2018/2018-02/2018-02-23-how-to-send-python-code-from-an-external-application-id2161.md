@@ -1,3 +1,10 @@
+---
+topic_id: 2161
+title: "How To Send Python Code From An External Application"
+date: 2018-02-23
+url: https://discourse.slicer.org/t/2161
+---
+
 # How to send python code from an external application?
 
 **Topic ID**: 2161

@@ -1,3 +1,10 @@
+---
+topic_id: 26898
+title: "Problems With Openning Tiff By Loading Log Document On Skysc"
+date: 2022-12-23
+url: https://discourse.slicer.org/t/26898
+---
+
 # Problems with openning TIFF by loading .log document on SkyScanReconImport module
 
 **Topic ID**: 26898

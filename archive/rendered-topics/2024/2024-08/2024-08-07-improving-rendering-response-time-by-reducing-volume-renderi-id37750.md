@@ -1,3 +1,10 @@
+---
+topic_id: 37750
+title: "Improving Rendering Response Time By Reducing Volume Renderi"
+date: 2024-08-07
+url: https://discourse.slicer.org/t/37750
+---
+
 # Improving Rendering Response Time by Reducing Volume Rendering Quality
 
 **Topic ID**: 37750

@@ -1,3 +1,10 @@
+---
+topic_id: 11481
+title: "Color Stl Surface"
+date: 2020-05-09
+url: https://discourse.slicer.org/t/11481
+---
+
 # color STL surface
 
 **Topic ID**: 11481

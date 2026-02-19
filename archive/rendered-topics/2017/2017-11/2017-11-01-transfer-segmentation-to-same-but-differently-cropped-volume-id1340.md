@@ -1,3 +1,10 @@
+---
+topic_id: 1340
+title: "Transfer Segmentation To Same But Differently Cropped Volume"
+date: 2017-11-01
+url: https://discourse.slicer.org/t/1340
+---
+
 # Transfer segmentation to same but differently cropped volume
 
 **Topic ID**: 1340

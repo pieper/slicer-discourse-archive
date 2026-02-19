@@ -1,3 +1,10 @@
+---
+topic_id: 35268
+title: "Cross Sectional Image To Reconstruct"
+date: 2024-04-03
+url: https://discourse.slicer.org/t/35268
+---
+
 # cross-sectional image to reconstruct
 
 **Topic ID**: 35268

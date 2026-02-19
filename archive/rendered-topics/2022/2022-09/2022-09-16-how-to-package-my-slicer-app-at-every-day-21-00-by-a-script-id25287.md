@@ -1,3 +1,10 @@
+---
+topic_id: 25287
+title: "How To Package My Slicer App At Every Day 21 00 By A Script"
+date: 2022-09-16
+url: https://discourse.slicer.org/t/25287
+---
+
 # How to package my slicer app at every day 21:00 by a script
 
 **Topic ID**: 25287

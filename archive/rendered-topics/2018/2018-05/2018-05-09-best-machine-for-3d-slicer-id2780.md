@@ -1,3 +1,10 @@
+---
+topic_id: 2780
+title: "Best Machine For 3D Slicer"
+date: 2018-05-09
+url: https://discourse.slicer.org/t/2780
+---
+
 # Best Machine for 3D slicer
 
 **Topic ID**: 2780

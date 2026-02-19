@@ -1,3 +1,10 @@
+---
+topic_id: 40154
+title: "Coordinate Error When Outputting Vtk Model"
+date: 2024-11-12
+url: https://discourse.slicer.org/t/40154
+---
+
 # Coordinate error when outputting VTK model
 
 **Topic ID**: 40154

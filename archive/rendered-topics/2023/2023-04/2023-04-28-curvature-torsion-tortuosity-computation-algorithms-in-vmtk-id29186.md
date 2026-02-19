@@ -1,3 +1,10 @@
+---
+topic_id: 29186
+title: "Curvature Torsion Tortuosity Computation Algorithms In Vmtk"
+date: 2023-04-28
+url: https://discourse.slicer.org/t/29186
+---
+
 # Curvature, torsion, tortuosity computation algorithms in VMTK
 
 **Topic ID**: 29186

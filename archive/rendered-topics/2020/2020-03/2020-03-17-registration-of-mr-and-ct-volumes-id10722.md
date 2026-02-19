@@ -1,3 +1,10 @@
+---
+topic_id: 10722
+title: "Registration Of Mr And Ct Volumes"
+date: 2020-03-17
+url: https://discourse.slicer.org/t/10722
+---
+
 # Registration of MR and CT volumes
 
 **Topic ID**: 10722

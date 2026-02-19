@@ -1,3 +1,10 @@
+---
+topic_id: 27381
+title: "Desktop Icon For Linux Users"
+date: 2023-01-20
+url: https://discourse.slicer.org/t/27381
+---
+
 # Desktop icon for linux users
 
 **Topic ID**: 27381

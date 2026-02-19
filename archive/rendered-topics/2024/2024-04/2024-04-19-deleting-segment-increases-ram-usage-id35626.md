@@ -1,3 +1,10 @@
+---
+topic_id: 35626
+title: "Deleting Segment Increases Ram Usage"
+date: 2024-04-19
+url: https://discourse.slicer.org/t/35626
+---
+
 # Deleting segment increases RAM usage
 
 **Topic ID**: 35626

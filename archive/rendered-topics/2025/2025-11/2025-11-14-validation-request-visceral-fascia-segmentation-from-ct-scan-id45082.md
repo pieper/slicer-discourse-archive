@@ -1,3 +1,10 @@
+---
+topic_id: 45082
+title: "Validation Request Visceral Fascia Segmentation From Ct Scan"
+date: 2025-11-14
+url: https://discourse.slicer.org/t/45082
+---
+
 # Validation Request: Visceral Fascia Segmentation from CT Scans 
 
 **Topic ID**: 45082

@@ -1,3 +1,10 @@
+---
+topic_id: 15501
+title: "How To Generate A Fe Grid Of A Hollow Segmentation"
+date: 2021-01-13
+url: https://discourse.slicer.org/t/15501
+---
+
 # How to generate a FE grid of a hollow segmentation
 
 **Topic ID**: 15501

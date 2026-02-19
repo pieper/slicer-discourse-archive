@@ -1,3 +1,10 @@
+---
+topic_id: 23555
+title: "Pet Segmentation To Ct Dicom"
+date: 2022-05-24
+url: https://discourse.slicer.org/t/23555
+---
+
 # PET segmentation to CT DICOM
 
 **Topic ID**: 23555

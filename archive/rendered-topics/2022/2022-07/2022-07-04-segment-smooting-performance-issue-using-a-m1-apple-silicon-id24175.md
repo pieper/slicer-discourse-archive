@@ -1,3 +1,10 @@
+---
+topic_id: 24175
+title: "Segment Smooting Performance Issue Using A M1 Apple Silicon"
+date: 2022-07-04
+url: https://discourse.slicer.org/t/24175
+---
+
 # Segment smooting performance issue using a M1 Apple Silicon Mac
 
 **Topic ID**: 24175

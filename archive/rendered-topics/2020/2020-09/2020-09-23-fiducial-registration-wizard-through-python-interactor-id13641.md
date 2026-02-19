@@ -1,3 +1,10 @@
+---
+topic_id: 13641
+title: "Fiducial Registration Wizard Through Python Interactor"
+date: 2020-09-23
+url: https://discourse.slicer.org/t/13641
+---
+
 # FIducial Registration Wizard through Python Interactor
 
 **Topic ID**: 13641

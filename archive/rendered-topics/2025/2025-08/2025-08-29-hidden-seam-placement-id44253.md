@@ -1,3 +1,10 @@
+---
+topic_id: 44253
+title: "Hidden Seam Placement"
+date: 2025-08-29
+url: https://discourse.slicer.org/t/44253
+---
+
 # Hidden seam placement
 
 **Topic ID**: 44253

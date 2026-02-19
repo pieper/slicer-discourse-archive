@@ -1,3 +1,10 @@
+---
+topic_id: 35845
+title: "Segmentation Have Ct Dicom File Of 238 Slices Of Cubic And T"
+date: 2024-05-01
+url: https://discourse.slicer.org/t/35845
+---
+
 # Segmentation have CT dicom file of 238 slices of cubic and there is only 2 density in cu
 
 **Topic ID**: 35845

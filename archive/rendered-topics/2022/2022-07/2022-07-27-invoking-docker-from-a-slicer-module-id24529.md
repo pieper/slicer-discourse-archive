@@ -1,3 +1,10 @@
+---
+topic_id: 24529
+title: "Invoking Docker From A Slicer Module"
+date: 2022-07-27
+url: https://discourse.slicer.org/t/24529
+---
+
 # Invoking docker from a slicer module
 
 **Topic ID**: 24529

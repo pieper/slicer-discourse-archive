@@ -1,3 +1,10 @@
+---
+topic_id: 31563
+title: "Calculation Of Multi Planar Reconstruction Axis"
+date: 2023-09-05
+url: https://discourse.slicer.org/t/31563
+---
+
 # Calculation of Multi-Planar Reconstruction axis
 
 **Topic ID**: 31563

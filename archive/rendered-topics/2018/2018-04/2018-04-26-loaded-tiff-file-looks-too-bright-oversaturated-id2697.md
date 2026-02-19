@@ -1,3 +1,10 @@
+---
+topic_id: 2697
+title: "Loaded Tiff File Looks Too Bright Oversaturated"
+date: 2018-04-26
+url: https://discourse.slicer.org/t/2697
+---
+
 # Loaded tiff file looks too bright/oversaturated
 
 **Topic ID**: 2697

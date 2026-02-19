@@ -1,3 +1,10 @@
+---
+topic_id: 29406
+title: "Advice On Scan Acquisition And Or Volume Processing"
+date: 2023-05-10
+url: https://discourse.slicer.org/t/29406
+---
+
 # Advice on scan acquisition and/or volume processing
 
 **Topic ID**: 29406

@@ -1,3 +1,10 @@
+---
+topic_id: 3319
+title: "Save Derived Dti Heatmap"
+date: 2018-06-27
+url: https://discourse.slicer.org/t/3319
+---
+
 # Save derived DTI heatmap
 
 **Topic ID**: 3319

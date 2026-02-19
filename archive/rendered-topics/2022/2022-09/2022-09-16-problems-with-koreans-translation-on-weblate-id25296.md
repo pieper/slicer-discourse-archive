@@ -1,3 +1,10 @@
+---
+topic_id: 25296
+title: "Problems With Koreans Translation On Weblate"
+date: 2022-09-16
+url: https://discourse.slicer.org/t/25296
+---
+
 # Problems with Korean's translation on Weblate
 
 **Topic ID**: 25296

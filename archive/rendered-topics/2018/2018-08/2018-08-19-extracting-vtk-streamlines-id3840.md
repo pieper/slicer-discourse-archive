@@ -1,3 +1,10 @@
+---
+topic_id: 3840
+title: "Extracting Vtk Streamlines"
+date: 2018-08-19
+url: https://discourse.slicer.org/t/3840
+---
+
 # Extracting vtk streamlines
 
 **Topic ID**: 3840

@@ -1,3 +1,10 @@
+---
+topic_id: 12098
+title: "Size Of Buttons In User Interface"
+date: 2020-06-18
+url: https://discourse.slicer.org/t/12098
+---
+
 # Size of buttons in user interface
 
 **Topic ID**: 12098

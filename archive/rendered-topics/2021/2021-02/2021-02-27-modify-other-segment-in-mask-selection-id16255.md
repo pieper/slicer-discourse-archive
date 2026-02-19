@@ -1,3 +1,10 @@
+---
+topic_id: 16255
+title: "Modify Other Segment In Mask Selection"
+date: 2021-02-27
+url: https://discourse.slicer.org/t/16255
+---
+
 # Modify other segment in mask selection
 
 **Topic ID**: 16255

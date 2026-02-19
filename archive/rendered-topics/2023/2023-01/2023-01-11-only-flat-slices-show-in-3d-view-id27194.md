@@ -1,3 +1,10 @@
+---
+topic_id: 27194
+title: "Only Flat Slices Show In 3D View"
+date: 2023-01-11
+url: https://discourse.slicer.org/t/27194
+---
+
 # Only flat slices show in 3D view
 
 **Topic ID**: 27194

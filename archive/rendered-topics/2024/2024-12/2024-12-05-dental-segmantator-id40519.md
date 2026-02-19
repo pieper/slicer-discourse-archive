@@ -1,3 +1,10 @@
+---
+topic_id: 40519
+title: "Dental Segmantator"
+date: 2024-12-05
+url: https://discourse.slicer.org/t/40519
+---
+
 # Dental segmantator
 
 **Topic ID**: 40519

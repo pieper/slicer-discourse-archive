@@ -1,3 +1,10 @@
+---
+topic_id: 25276
+title: "The Dose Map Image Obtained Fits Well On Ct But Doesn T Fit"
+date: 2022-09-14
+url: https://discourse.slicer.org/t/25276
+---
+
 # The dose map image obtained fits well on CT but doesn´t fit well on SPECT. What does it happen?
 
 **Topic ID**: 25276

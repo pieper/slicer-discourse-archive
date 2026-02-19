@@ -1,3 +1,10 @@
+---
+topic_id: 9898
+title: "Control Of Rotation In Curved Planar Reformat Instead Of Usi"
+date: 2020-01-21
+url: https://discourse.slicer.org/t/9898
+---
+
 # Control of rotation in Curved Planar Reformat (instead of using Frenet Serret frame)
 
 **Topic ID**: 9898

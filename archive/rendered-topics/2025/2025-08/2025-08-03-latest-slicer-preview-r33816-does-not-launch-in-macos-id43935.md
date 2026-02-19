@@ -1,3 +1,10 @@
+---
+topic_id: 43935
+title: "Latest Slicer Preview R33816 Does Not Launch In Macos"
+date: 2025-08-03
+url: https://discourse.slicer.org/t/43935
+---
+
 # Latest slicer preview (r33816) does not launch in macos
 
 **Topic ID**: 43935

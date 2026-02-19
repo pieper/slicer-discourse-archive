@@ -1,3 +1,10 @@
+---
+topic_id: 11290
+title: "Display Both The Data And Segmentation Result In One View"
+date: 2020-04-24
+url: https://discourse.slicer.org/t/11290
+---
+
 # Display both the data and segmentation result in one view
 
 **Topic ID**: 11290

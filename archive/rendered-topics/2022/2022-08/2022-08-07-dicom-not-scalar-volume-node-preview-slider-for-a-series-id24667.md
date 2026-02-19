@@ -1,3 +1,10 @@
+---
+topic_id: 24667
+title: "Dicom Not Scalar Volume Node Preview Slider For A Series"
+date: 2022-08-07
+url: https://discourse.slicer.org/t/24667
+---
+
 # Dicom (not-scalar-volume-node) preview slider for a Series
 
 **Topic ID**: 24667

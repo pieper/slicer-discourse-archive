@@ -1,3 +1,10 @@
+---
+topic_id: 39617
+title: "Export Default Reformat Registration"
+date: 2024-10-09
+url: https://discourse.slicer.org/t/39617
+---
+
 # Export Default "Reformat" Registration
 
 **Topic ID**: 39617

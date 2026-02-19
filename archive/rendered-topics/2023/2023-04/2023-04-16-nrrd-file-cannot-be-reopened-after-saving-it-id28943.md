@@ -1,3 +1,10 @@
+---
+topic_id: 28943
+title: "Nrrd File Cannot Be Reopened After Saving It"
+date: 2023-04-16
+url: https://discourse.slicer.org/t/28943
+---
+
 # .nrrd file cannot be reopened after saving it
 
 **Topic ID**: 28943

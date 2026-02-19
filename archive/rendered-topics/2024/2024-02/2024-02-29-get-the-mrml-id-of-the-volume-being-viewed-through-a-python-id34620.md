@@ -1,3 +1,10 @@
+---
+topic_id: 34620
+title: "Get The Mrml Id Of The Volume Being Viewed Through A Python"
+date: 2024-02-29
+url: https://discourse.slicer.org/t/34620
+---
+
 # Get the MRML ID of the volume being viewed through a python script
 
 **Topic ID**: 34620

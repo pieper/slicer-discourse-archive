@@ -1,3 +1,10 @@
+---
+topic_id: 1996
+title: "Exporting A Segment Creates A Hollow 3D Model"
+date: 2018-01-31
+url: https://discourse.slicer.org/t/1996
+---
+
 # Exporting a segment creates a hollow 3D model
 
 **Topic ID**: 1996

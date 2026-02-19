@@ -1,3 +1,10 @@
+---
+topic_id: 32925
+title: "Direction Of Tool Tip"
+date: 2023-11-21
+url: https://discourse.slicer.org/t/32925
+---
+
 # Direction of tool tip
 
 **Topic ID**: 32925

@@ -1,3 +1,10 @@
+---
+topic_id: 15368
+title: "Taking One Segmentation And Inserting It Into Another But Ot"
+date: 2021-01-06
+url: https://discourse.slicer.org/t/15368
+---
+
 # Taking one segmentation and inserting it into another but other one has very small volume
 
 **Topic ID**: 15368

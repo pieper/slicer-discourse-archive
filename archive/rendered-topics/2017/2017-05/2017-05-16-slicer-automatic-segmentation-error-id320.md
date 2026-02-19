@@ -1,3 +1,10 @@
+---
+topic_id: 320
+title: "Slicer Automatic Segmentation Error"
+date: 2017-05-16
+url: https://discourse.slicer.org/t/320
+---
+
 # Slicer automatic Segmentation Error
 
 **Topic ID**: 320

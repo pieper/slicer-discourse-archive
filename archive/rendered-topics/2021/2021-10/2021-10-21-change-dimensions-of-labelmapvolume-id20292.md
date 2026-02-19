@@ -1,3 +1,10 @@
+---
+topic_id: 20292
+title: "Change Dimensions Of Labelmapvolume"
+date: 2021-10-21
+url: https://discourse.slicer.org/t/20292
+---
+
 # Change Dimensions of LabelMapVolume
 
 **Topic ID**: 20292

@@ -1,3 +1,10 @@
+---
+topic_id: 43372
+title: "Race Condition In Linux Build"
+date: 2025-06-16
+url: https://discourse.slicer.org/t/43372
+---
+
 # Race condition in linux build
 
 **Topic ID**: 43372

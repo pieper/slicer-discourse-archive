@@ -1,3 +1,10 @@
+---
+topic_id: 45201
+title: "How To React To A Segmentation Node Being Changed Using Cut"
+date: 2025-11-24
+url: https://discourse.slicer.org/t/45201
+---
+
 # How to react to a segmentation node being changed using cut, erase, paint?
 
 **Topic ID**: 45201

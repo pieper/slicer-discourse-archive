@@ -1,3 +1,10 @@
+---
+topic_id: 35195
+title: "Distances Between Segments"
+date: 2024-04-01
+url: https://discourse.slicer.org/t/35195
+---
+
 # Distances between segments
 
 **Topic ID**: 35195

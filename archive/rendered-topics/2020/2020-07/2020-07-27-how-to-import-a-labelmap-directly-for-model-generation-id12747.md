@@ -1,3 +1,10 @@
+---
+topic_id: 12747
+title: "How To Import A Labelmap Directly For Model Generation"
+date: 2020-07-27
+url: https://discourse.slicer.org/t/12747
+---
+
 # How to import a labelmap directly for model generation?
 
 **Topic ID**: 12747

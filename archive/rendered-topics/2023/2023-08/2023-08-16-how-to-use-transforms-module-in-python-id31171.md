@@ -1,3 +1,10 @@
+---
+topic_id: 31171
+title: "How To Use Transforms Module In Python"
+date: 2023-08-16
+url: https://discourse.slicer.org/t/31171
+---
+
 # How to use Transforms module in Python
 
 **Topic ID**: 31171

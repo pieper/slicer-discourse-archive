@@ -1,3 +1,10 @@
+---
+topic_id: 7470
+title: "Build Slicer Error"
+date: 2019-07-08
+url: https://discourse.slicer.org/t/7470
+---
+
 # Build Slicer Error 
 
 **Topic ID**: 7470

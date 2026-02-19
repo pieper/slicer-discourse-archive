@@ -1,3 +1,10 @@
+---
+topic_id: 12512
+title: "Lots Of Camera Nodes"
+date: 2020-07-13
+url: https://discourse.slicer.org/t/12512
+---
+
 # LOTS of Camera nodes?
 
 **Topic ID**: 12512

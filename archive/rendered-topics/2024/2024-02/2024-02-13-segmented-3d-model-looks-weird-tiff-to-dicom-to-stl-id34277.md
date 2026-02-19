@@ -1,3 +1,10 @@
+---
+topic_id: 34277
+title: "Segmented 3D Model Looks Weird Tiff To Dicom To Stl"
+date: 2024-02-13
+url: https://discourse.slicer.org/t/34277
+---
+
 # Segmented 3D model looks weird (TIFF to DICOM to STL)
 
 **Topic ID**: 34277

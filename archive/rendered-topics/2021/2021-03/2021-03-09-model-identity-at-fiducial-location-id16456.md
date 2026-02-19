@@ -1,3 +1,10 @@
+---
+topic_id: 16456
+title: "Model Identity At Fiducial Location"
+date: 2021-03-09
+url: https://discourse.slicer.org/t/16456
+---
+
 # Model identity at fiducial location
 
 **Topic ID**: 16456

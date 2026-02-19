@@ -1,3 +1,10 @@
+---
+topic_id: 7216
+title: "Anyone Attending Medical Imaging With Deep Learning Conferen"
+date: 2019-06-18
+url: https://discourse.slicer.org/t/7216
+---
+
 # Anyone attending "Medical Imaging with Deep Learning" conference in London, July 2019?
 
 **Topic ID**: 7216

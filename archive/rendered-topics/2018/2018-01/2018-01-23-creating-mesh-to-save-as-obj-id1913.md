@@ -1,3 +1,10 @@
+---
+topic_id: 1913
+title: "Creating Mesh To Save As Obj"
+date: 2018-01-23
+url: https://discourse.slicer.org/t/1913
+---
+
 # Creating mesh to save as .obj
 
 **Topic ID**: 1913

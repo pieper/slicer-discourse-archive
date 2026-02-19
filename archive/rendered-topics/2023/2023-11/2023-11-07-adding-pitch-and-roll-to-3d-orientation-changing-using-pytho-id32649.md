@@ -1,3 +1,10 @@
+---
+topic_id: 32649
+title: "Adding Pitch And Roll To 3D Orientation Changing Using Pytho"
+date: 2023-11-07
+url: https://discourse.slicer.org/t/32649
+---
+
 # Adding Pitch and Roll to 3D orientation changing using python
 
 **Topic ID**: 32649

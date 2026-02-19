@@ -1,3 +1,10 @@
+---
+topic_id: 7791
+title: "How To Open Segmentation Seg Nrrd File Using Vtk"
+date: 2019-07-29
+url: https://discourse.slicer.org/t/7791
+---
+
 # How to open Segmentation.seg.nrrd file using vtk
 
 **Topic ID**: 7791

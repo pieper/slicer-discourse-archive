@@ -1,3 +1,10 @@
+---
+topic_id: 2425
+title: "Voxel Grid Overlay"
+date: 2018-03-26
+url: https://discourse.slicer.org/t/2425
+---
+
 # Voxel grid overlay
 
 **Topic ID**: 2425

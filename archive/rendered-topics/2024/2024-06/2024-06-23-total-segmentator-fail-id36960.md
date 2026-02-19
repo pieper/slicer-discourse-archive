@@ -1,3 +1,10 @@
+---
+topic_id: 36960
+title: "Total Segmentator Fail"
+date: 2024-06-23
+url: https://discourse.slicer.org/t/36960
+---
+
 # Total segmentator fail
 
 **Topic ID**: 36960

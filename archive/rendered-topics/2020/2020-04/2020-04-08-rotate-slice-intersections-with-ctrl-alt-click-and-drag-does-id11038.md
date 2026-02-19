@@ -1,3 +1,10 @@
+---
+topic_id: 11038
+title: "Rotate Slice Intersections With Ctrl Alt Click And Drag Does"
+date: 2020-04-08
+url: https://discourse.slicer.org/t/11038
+---
+
 # Rotate slice intersections with CTRL+ALT+Click and drag does not work in Slicer-4.10
 
 **Topic ID**: 11038

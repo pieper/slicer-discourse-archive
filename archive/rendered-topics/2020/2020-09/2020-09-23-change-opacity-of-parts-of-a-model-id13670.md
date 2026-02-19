@@ -1,3 +1,10 @@
+---
+topic_id: 13670
+title: "Change Opacity Of Parts Of A Model"
+date: 2020-09-23
+url: https://discourse.slicer.org/t/13670
+---
+
 # Change Opacity of Parts of a Model
 
 **Topic ID**: 13670

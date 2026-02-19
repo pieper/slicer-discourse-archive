@@ -1,3 +1,10 @@
+---
+topic_id: 13298
+title: "Linear Transformation Problem"
+date: 2020-09-02
+url: https://discourse.slicer.org/t/13298
+---
+
 # Linear transformation problem
 
 **Topic ID**: 13298

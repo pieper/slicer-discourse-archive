@@ -1,3 +1,10 @@
+---
+topic_id: 12389
+title: "Working With Sutures 1 Voxel Wide On Infant Skull Ct"
+date: 2020-07-06
+url: https://discourse.slicer.org/t/12389
+---
+
 # Working with sutures <1 voxel wide on infant skull CT
 
 **Topic ID**: 12389

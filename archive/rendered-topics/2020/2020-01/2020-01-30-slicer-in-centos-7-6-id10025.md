@@ -1,3 +1,10 @@
+---
+topic_id: 10025
+title: "Slicer In Centos 7 6"
+date: 2020-01-30
+url: https://discourse.slicer.org/t/10025
+---
+
 # Slicer in CentOS 7.6
 
 **Topic ID**: 10025

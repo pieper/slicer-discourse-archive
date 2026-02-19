@@ -1,3 +1,10 @@
+---
+topic_id: 25159
+title: "How To Lock A Markups Controlpoint In 3D Only But Allow Drag"
+date: 2022-09-08
+url: https://discourse.slicer.org/t/25159
+---
+
 # How to lock a Markups ControlPoint in 3D only, but allow drag in 2D?
 
 **Topic ID**: 25159

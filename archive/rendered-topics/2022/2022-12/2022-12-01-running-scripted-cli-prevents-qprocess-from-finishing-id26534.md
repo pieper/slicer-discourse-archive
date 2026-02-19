@@ -1,3 +1,10 @@
+---
+topic_id: 26534
+title: "Running Scripted Cli Prevents Qprocess From Finishing"
+date: 2022-12-01
+url: https://discourse.slicer.org/t/26534
+---
+
 # Running scripted-cli prevents QProcess from finishing
 
 **Topic ID**: 26534

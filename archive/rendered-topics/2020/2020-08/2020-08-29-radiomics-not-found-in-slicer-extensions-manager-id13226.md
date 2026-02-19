@@ -1,3 +1,10 @@
+---
+topic_id: 13226
+title: "Radiomics Not Found In Slicer Extensions Manager"
+date: 2020-08-29
+url: https://discourse.slicer.org/t/13226
+---
+
 # 'Radiomics' not found in Slicer extensions manager
 
 **Topic ID**: 13226

@@ -1,3 +1,10 @@
+---
+topic_id: 25008
+title: "Using Volume Import Module For 3D Slicer To Extract Image St"
+date: 2022-08-30
+url: https://discourse.slicer.org/t/25008
+---
+
 # Using volume import module for 3D Slicer to extract image stacks from .vol files
 
 **Topic ID**: 25008

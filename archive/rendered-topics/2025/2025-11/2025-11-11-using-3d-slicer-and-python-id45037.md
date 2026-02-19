@@ -1,3 +1,10 @@
+---
+topic_id: 45037
+title: "Using 3D Slicer And Python"
+date: 2025-11-11
+url: https://discourse.slicer.org/t/45037
+---
+
 # Using 3d slicer and python
 
 **Topic ID**: 45037

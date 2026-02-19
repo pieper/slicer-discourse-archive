@@ -1,3 +1,10 @@
+---
+topic_id: 44407
+title: "Slicermorph Createsemilmpatches Gaps Between 2 Triangle Regi"
+date: 2025-09-09
+url: https://discourse.slicer.org/t/44407
+---
+
 # SlicerMorph CreateSemiLMPatches gaps between 2 triangle regions
 
 **Topic ID**: 44407

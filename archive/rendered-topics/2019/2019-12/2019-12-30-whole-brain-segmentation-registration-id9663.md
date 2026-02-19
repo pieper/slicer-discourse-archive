@@ -1,3 +1,10 @@
+---
+topic_id: 9663
+title: "Whole Brain Segmentation Registration"
+date: 2019-12-30
+url: https://discourse.slicer.org/t/9663
+---
+
 # Whole brain segmentation registration 
 
 **Topic ID**: 9663

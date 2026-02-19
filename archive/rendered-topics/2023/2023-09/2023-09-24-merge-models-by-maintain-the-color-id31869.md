@@ -1,3 +1,10 @@
+---
+topic_id: 31869
+title: "Merge Models By Maintain The Color"
+date: 2023-09-24
+url: https://discourse.slicer.org/t/31869
+---
+
 # Merge models by maintain the color
 
 **Topic ID**: 31869

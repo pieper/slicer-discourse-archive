@@ -1,3 +1,10 @@
+---
+topic_id: 44814
+title: "Working With Rgba In Volume Rendering"
+date: 2025-10-20
+url: https://discourse.slicer.org/t/44814
+---
+
 # Working with RGBA in Volume Rendering
 
 **Topic ID**: 44814

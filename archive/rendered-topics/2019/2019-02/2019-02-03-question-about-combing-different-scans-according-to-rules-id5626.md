@@ -1,3 +1,10 @@
+---
+topic_id: 5626
+title: "Question About Combing Different Scans According To Rules"
+date: 2019-02-03
+url: https://discourse.slicer.org/t/5626
+---
+
 # Question about combing different scans according to rules
 
 **Topic ID**: 5626

@@ -1,3 +1,10 @@
+---
+topic_id: 18516
+title: "3D Slicer Navigation System Scrolling Between Ct Scans"
+date: 2021-07-05
+url: https://discourse.slicer.org/t/18516
+---
+
 # 3D slicer navigation system: scrolling between CT scans
 
 **Topic ID**: 18516

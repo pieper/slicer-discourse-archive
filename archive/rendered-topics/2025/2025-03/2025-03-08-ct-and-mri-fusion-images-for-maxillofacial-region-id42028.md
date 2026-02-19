@@ -1,3 +1,10 @@
+---
+topic_id: 42028
+title: "Ct And Mri Fusion Images For Maxillofacial Region"
+date: 2025-03-08
+url: https://discourse.slicer.org/t/42028
+---
+
 # CT and MRi fusion images for maxillofacial region 
 
 **Topic ID**: 42028

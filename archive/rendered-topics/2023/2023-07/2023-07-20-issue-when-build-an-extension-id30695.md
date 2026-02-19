@@ -1,3 +1,10 @@
+---
+topic_id: 30695
+title: "Issue When Build An Extension"
+date: 2023-07-20
+url: https://discourse.slicer.org/t/30695
+---
+
 # Issue when build an extension
 
 **Topic ID**: 30695

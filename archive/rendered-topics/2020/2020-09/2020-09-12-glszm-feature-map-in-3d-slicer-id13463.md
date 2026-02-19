@@ -1,3 +1,10 @@
+---
+topic_id: 13463
+title: "Glszm Feature Map In 3D Slicer"
+date: 2020-09-12
+url: https://discourse.slicer.org/t/13463
+---
+
 # GLSZM feature map in 3D Slicer
 
 **Topic ID**: 13463

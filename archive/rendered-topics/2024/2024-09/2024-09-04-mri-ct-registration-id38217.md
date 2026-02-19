@@ -1,3 +1,10 @@
+---
+topic_id: 38217
+title: "Mri Ct Registration"
+date: 2024-09-04
+url: https://discourse.slicer.org/t/38217
+---
+
 # MRI/CT registration
 
 **Topic ID**: 38217

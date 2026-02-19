@@ -1,3 +1,10 @@
+---
+topic_id: 31382
+title: "Measure Diameter Using Centerline Length And Surface"
+date: 2023-08-26
+url: https://discourse.slicer.org/t/31382
+---
+
 # Measure Diameter using centerline length and surface
 
 **Topic ID**: 31382

@@ -1,3 +1,10 @@
+---
+topic_id: 17948
+title: "Fastest Way Of Creating Surface Model"
+date: 2021-06-04
+url: https://discourse.slicer.org/t/17948
+---
+
 # Fastest way of creating surface model?
 
 **Topic ID**: 17948

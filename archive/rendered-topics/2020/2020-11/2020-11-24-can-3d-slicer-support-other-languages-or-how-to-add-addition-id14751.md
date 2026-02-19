@@ -1,3 +1,10 @@
+---
+topic_id: 14751
+title: "Can 3D Slicer Support Other Languages Or How To Add Addition"
+date: 2020-11-24
+url: https://discourse.slicer.org/t/14751
+---
+
 # Can 3D slicer support other languages? Or how to add additional language libraries, such as Chinese?
 
 **Topic ID**: 14751

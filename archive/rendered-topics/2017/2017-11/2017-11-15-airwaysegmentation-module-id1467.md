@@ -1,3 +1,10 @@
+---
+topic_id: 1467
+title: "Airwaysegmentation Module"
+date: 2017-11-15
+url: https://discourse.slicer.org/t/1467
+---
+
 # AirwaySegmentation Module
 
 **Topic ID**: 1467

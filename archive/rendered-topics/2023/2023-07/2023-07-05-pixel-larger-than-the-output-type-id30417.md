@@ -1,3 +1,10 @@
+---
+topic_id: 30417
+title: "Pixel Larger Than The Output Type"
+date: 2023-07-05
+url: https://discourse.slicer.org/t/30417
+---
+
 # Pixel larger than the output type
 
 **Topic ID**: 30417

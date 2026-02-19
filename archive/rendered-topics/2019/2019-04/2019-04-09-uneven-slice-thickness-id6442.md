@@ -1,3 +1,10 @@
+---
+topic_id: 6442
+title: "Uneven Slice Thickness"
+date: 2019-04-09
+url: https://discourse.slicer.org/t/6442
+---
+
 # Uneven slice thickness
 
 **Topic ID**: 6442

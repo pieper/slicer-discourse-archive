@@ -1,3 +1,10 @@
+---
+topic_id: 30582
+title: "Error While Training With Monailabels Deepedit"
+date: 2023-07-13
+url: https://discourse.slicer.org/t/30582
+---
+
 # Error while training with MONAILabel's deepedit
 
 **Topic ID**: 30582

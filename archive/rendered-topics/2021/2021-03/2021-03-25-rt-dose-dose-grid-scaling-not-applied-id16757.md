@@ -1,3 +1,10 @@
+---
+topic_id: 16757
+title: "Rt Dose Dose Grid Scaling Not Applied"
+date: 2021-03-25
+url: https://discourse.slicer.org/t/16757
+---
+
 # RT Dose dose grid scaling not applied
 
 **Topic ID**: 16757

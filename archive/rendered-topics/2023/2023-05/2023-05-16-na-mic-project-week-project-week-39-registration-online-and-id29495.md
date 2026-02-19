@@ -1,3 +1,10 @@
+---
+topic_id: 29495
+title: "Na Mic Project Week Project Week 39 Registration Online And"
+date: 2023-05-16
+url: https://discourse.slicer.org/t/29495
+---
+
 # [Na-mic-project-week] Project Week 39 registration - online and in-person
 
 **Topic ID**: 29495

@@ -1,3 +1,10 @@
+---
+topic_id: 21250
+title: "Show Changes In Crop Volume Interface"
+date: 2021-12-28
+url: https://discourse.slicer.org/t/21250
+---
+
 # Show changes in Crop Volume interface
 
 **Topic ID**: 21250

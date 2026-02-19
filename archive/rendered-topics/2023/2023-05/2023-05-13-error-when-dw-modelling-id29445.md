@@ -1,3 +1,10 @@
+---
+topic_id: 29445
+title: "Error When Dw Modelling"
+date: 2023-05-13
+url: https://discourse.slicer.org/t/29445
+---
+
 # Error when DW modelling
 
 **Topic ID**: 29445

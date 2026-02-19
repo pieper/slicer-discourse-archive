@@ -1,3 +1,10 @@
+---
+topic_id: 6595
+title: "File Mrml Not Opening With 3D Slice"
+date: 2019-04-24
+url: https://discourse.slicer.org/t/6595
+---
+
 # file .mrml not opening with 3d slice
 
 **Topic ID**: 6595

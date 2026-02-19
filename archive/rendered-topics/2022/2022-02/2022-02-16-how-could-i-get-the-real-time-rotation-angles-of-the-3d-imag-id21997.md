@@ -1,3 +1,10 @@
+---
+topic_id: 21997
+title: "How Could I Get The Real Time Rotation Angles Of The 3D Imag"
+date: 2022-02-16
+url: https://discourse.slicer.org/t/21997
+---
+
 # How could I get the real-time rotation angles of the 3D image? SOS!
 
 **Topic ID**: 21997

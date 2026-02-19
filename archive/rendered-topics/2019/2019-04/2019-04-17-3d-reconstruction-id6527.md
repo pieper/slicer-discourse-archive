@@ -1,3 +1,10 @@
+---
+topic_id: 6527
+title: "3D Reconstruction"
+date: 2019-04-17
+url: https://discourse.slicer.org/t/6527
+---
+
 # 3D reconstruction
 
 **Topic ID**: 6527

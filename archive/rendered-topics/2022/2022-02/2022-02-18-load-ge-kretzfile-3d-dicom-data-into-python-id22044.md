@@ -1,3 +1,10 @@
+---
+topic_id: 22044
+title: "Load Ge Kretzfile 3D Dicom Data Into Python"
+date: 2022-02-18
+url: https://discourse.slicer.org/t/22044
+---
+
 # Load GE Kretzfile 3D Dicom data into python
 
 **Topic ID**: 22044

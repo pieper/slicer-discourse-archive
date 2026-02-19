@@ -1,3 +1,10 @@
+---
+topic_id: 2741
+title: "Automating Segmentation On Volumes"
+date: 2018-04-30
+url: https://discourse.slicer.org/t/2741
+---
+
 # Automating segmentation on volumes
 
 **Topic ID**: 2741

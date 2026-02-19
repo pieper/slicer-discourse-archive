@@ -1,3 +1,10 @@
+---
+topic_id: 34608
+title: "A Single Jpeg Image In View"
+date: 2024-02-29
+url: https://discourse.slicer.org/t/34608
+---
+
 # A single JPEG image in view
 
 **Topic ID**: 34608

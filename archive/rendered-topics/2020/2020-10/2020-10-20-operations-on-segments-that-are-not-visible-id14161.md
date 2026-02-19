@@ -1,3 +1,10 @@
+---
+topic_id: 14161
+title: "Operations On Segments That Are Not Visible"
+date: 2020-10-20
+url: https://discourse.slicer.org/t/14161
+---
+
 # Operations on segments that are not visible
 
 **Topic ID**: 14161

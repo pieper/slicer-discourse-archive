@@ -1,3 +1,10 @@
+---
+topic_id: 42550
+title: "Beginner Question Resample Scalar Volume Giving Enlarged Ima"
+date: 2025-04-14
+url: https://discourse.slicer.org/t/42550
+---
+
 # Beginner question: Resample scalar volume giving enlarged image size
 
 **Topic ID**: 42550

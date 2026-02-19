@@ -1,3 +1,10 @@
+---
+topic_id: 2309
+title: "Volume Rendering Vtk 9 And Qt5 Crop Doesnt Work Correctly In"
+date: 2018-03-14
+url: https://discourse.slicer.org/t/2309
+---
+
 # Volume rendering, VTK 9 and Qt5 - Crop doesn't work correctly in master
 
 **Topic ID**: 2309

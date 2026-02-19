@@ -1,3 +1,10 @@
+---
+topic_id: 13000
+title: "Slice Volume Synchronized Recording"
+date: 2020-08-14
+url: https://discourse.slicer.org/t/13000
+---
+
 # Slice volume synchronized recording
 
 **Topic ID**: 13000

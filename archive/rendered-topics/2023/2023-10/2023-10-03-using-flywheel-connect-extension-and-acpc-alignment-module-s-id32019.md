@@ -1,3 +1,10 @@
+---
+topic_id: 32019
+title: "Using Flywheel Connect Extension And Acpc Alignment Module S"
+date: 2023-10-03
+url: https://discourse.slicer.org/t/32019
+---
+
 # Using Flywheel Connect extension and ACPC alignment module simultaneously
 
 **Topic ID**: 32019

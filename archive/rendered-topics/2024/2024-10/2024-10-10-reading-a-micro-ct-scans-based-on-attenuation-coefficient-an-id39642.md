@@ -1,3 +1,10 @@
+---
+topic_id: 39642
+title: "Reading A Micro Ct Scans Based On Attenuation Coefficient An"
+date: 2024-10-10
+url: https://discourse.slicer.org/t/39642
+---
+
 # Reading a micro-Ct scans based on attenuation coefficient and knowing the attenuation coeeficient
 
 **Topic ID**: 39642

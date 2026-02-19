@@ -1,3 +1,10 @@
+---
+topic_id: 177
+title: "Vmtk Error In Level Set Segmentation Module"
+date: 2017-04-23
+url: https://discourse.slicer.org/t/177
+---
+
 # VMTK: Error in Level Set Segmentation module
 
 **Topic ID**: 177

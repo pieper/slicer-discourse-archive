@@ -1,3 +1,10 @@
+---
+topic_id: 25994
+title: "Vertebral Foramen Segmentation With Fill Between Slices"
+date: 2022-11-01
+url: https://discourse.slicer.org/t/25994
+---
+
 # Vertebral Foramen Segmentation with Fill between Slices
 
 **Topic ID**: 25994

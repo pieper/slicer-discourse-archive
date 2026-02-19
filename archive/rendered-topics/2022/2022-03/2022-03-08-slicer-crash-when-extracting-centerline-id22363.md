@@ -1,3 +1,10 @@
+---
+topic_id: 22363
+title: "Slicer Crash When Extracting Centerline"
+date: 2022-03-08
+url: https://discourse.slicer.org/t/22363
+---
+
 # Slicer crash when extracting centerline
 
 **Topic ID**: 22363

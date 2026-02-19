@@ -1,3 +1,10 @@
+---
+topic_id: 7926
+title: "Error While Building Slicersalt"
+date: 2019-08-07
+url: https://discourse.slicer.org/t/7926
+---
+
 # Error while building SlicerSALT
 
 **Topic ID**: 7926

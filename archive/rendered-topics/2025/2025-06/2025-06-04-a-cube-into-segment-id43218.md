@@ -1,3 +1,10 @@
+---
+topic_id: 43218
+title: "A Cube Into Segment"
+date: 2025-06-04
+url: https://discourse.slicer.org/t/43218
+---
+
 # A  Cube  into segment
 
 **Topic ID**: 43218

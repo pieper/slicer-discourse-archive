@@ -1,3 +1,10 @@
+---
+topic_id: 40581
+title: "3D Cursor Shifting Segmentations"
+date: 2024-12-09
+url: https://discourse.slicer.org/t/40581
+---
+
 # 3D Cursor shifting segmentations
 
 **Topic ID**: 40581

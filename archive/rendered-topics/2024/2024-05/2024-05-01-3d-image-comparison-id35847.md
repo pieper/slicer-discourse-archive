@@ -1,3 +1,10 @@
+---
+topic_id: 35847
+title: "3D Image Comparison"
+date: 2024-05-01
+url: https://discourse.slicer.org/t/35847
+---
+
 # 3D image comparison
 
 **Topic ID**: 35847

@@ -1,3 +1,10 @@
+---
+topic_id: 3453
+title: "Slicer Not Loading A Radiotherapy Plan And Dataset"
+date: 2018-07-10
+url: https://discourse.slicer.org/t/3453
+---
+
 # Slicer not loading a radiotherapy plan and dataset
 
 **Topic ID**: 3453

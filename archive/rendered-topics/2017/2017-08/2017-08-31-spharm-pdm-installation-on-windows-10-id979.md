@@ -1,3 +1,10 @@
+---
+topic_id: 979
+title: "Spharm Pdm Installation On Windows 10"
+date: 2017-08-31
+url: https://discourse.slicer.org/t/979
+---
+
 # SPHARM-PDM installation on Windows 10
 
 **Topic ID**: 979

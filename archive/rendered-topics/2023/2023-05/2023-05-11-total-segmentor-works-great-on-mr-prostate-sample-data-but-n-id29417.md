@@ -1,3 +1,10 @@
+---
+topic_id: 29417
+title: "Total Segmentor Works Great On Mr Prostate Sample Data But N"
+date: 2023-05-11
+url: https://discourse.slicer.org/t/29417
+---
+
 # Total segmentor works great on MR Prostate sample data but not CT abdomen. Why
 
 **Topic ID**: 29417

@@ -1,3 +1,10 @@
+---
+topic_id: 8002
+title: "Help With Segment Editor Sphere Brush"
+date: 2019-08-13
+url: https://discourse.slicer.org/t/8002
+---
+
 # Help with segment editor sphere brush
 
 **Topic ID**: 8002

@@ -1,3 +1,10 @@
+---
+topic_id: 35749
+title: "Cannot Find Slicer Radiomics In Extensions Library"
+date: 2024-04-26
+url: https://discourse.slicer.org/t/35749
+---
+
 # Cannot find Slicer Radiomics in extensions library
 
 **Topic ID**: 35749

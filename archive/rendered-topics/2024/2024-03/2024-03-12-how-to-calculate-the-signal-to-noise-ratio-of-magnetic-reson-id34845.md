@@ -1,3 +1,10 @@
+---
+topic_id: 34845
+title: "How To Calculate The Signal To Noise Ratio Of Magnetic Reson"
+date: 2024-03-12
+url: https://discourse.slicer.org/t/34845
+---
+
 # How to calculate the signal-to-noise ratio of magnetic resonance image
 
 **Topic ID**: 34845

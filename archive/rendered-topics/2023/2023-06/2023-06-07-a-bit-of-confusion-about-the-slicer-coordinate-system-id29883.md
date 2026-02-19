@@ -1,3 +1,10 @@
+---
+topic_id: 29883
+title: "A Bit Of Confusion About The Slicer Coordinate System"
+date: 2023-06-07
+url: https://discourse.slicer.org/t/29883
+---
+
 # A bit of confusion about the slicer coordinate system
 
 **Topic ID**: 29883

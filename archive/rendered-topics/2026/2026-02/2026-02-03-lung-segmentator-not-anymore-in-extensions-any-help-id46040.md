@@ -1,3 +1,10 @@
+---
+topic_id: 46040
+title: "Lung Segmentator Not Anymore In Extensions Any Help"
+date: 2026-02-03
+url: https://discourse.slicer.org/t/46040
+---
+
 # Lung segmentator not anymore in extensions. Any help?
 
 **Topic ID**: 46040

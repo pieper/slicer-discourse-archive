@@ -1,3 +1,10 @@
+---
+topic_id: 16121
+title: "Is There A Way To Segment Heart Valves From A Cta Scan Using"
+date: 2021-02-21
+url: https://discourse.slicer.org/t/16121
+---
+
 # Is there a way to segment heart valves from a CTA scan using 3D Slicer
 
 **Topic ID**: 16121

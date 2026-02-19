@@ -1,3 +1,10 @@
+---
+topic_id: 27990
+title: "Energy Layers In A Scanning Beam Proton Treatment Plan Viewe"
+date: 2023-02-22
+url: https://discourse.slicer.org/t/27990
+---
+
 # Energy layers in a scanning beam proton treatment plan viewed in SlicerRT
 
 **Topic ID**: 27990

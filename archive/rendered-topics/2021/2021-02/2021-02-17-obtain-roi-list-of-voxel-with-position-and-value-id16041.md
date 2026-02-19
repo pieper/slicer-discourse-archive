@@ -1,3 +1,10 @@
+---
+topic_id: 16041
+title: "Obtain Roi List Of Voxel With Position And Value"
+date: 2021-02-17
+url: https://discourse.slicer.org/t/16041
+---
+
 # Obtain Roi list of voxel with position and value
 
 **Topic ID**: 16041

@@ -1,3 +1,10 @@
+---
+topic_id: 42779
+title: "What Modalities And Protocols Totalsegmentator Works With"
+date: 2025-05-03
+url: https://discourse.slicer.org/t/42779
+---
+
 # What modalities and protocols TotalSegmentator works with?
 
 **Topic ID**: 42779

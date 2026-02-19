@@ -1,3 +1,10 @@
+---
+topic_id: 27782
+title: "Modifying B Value On Adc Map"
+date: 2023-02-12
+url: https://discourse.slicer.org/t/27782
+---
+
 # Modifying b value on ADC map
 
 **Topic ID**: 27782

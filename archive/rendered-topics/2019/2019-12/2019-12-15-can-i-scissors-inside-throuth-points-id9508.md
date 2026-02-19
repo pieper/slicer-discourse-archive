@@ -1,3 +1,10 @@
+---
+topic_id: 9508
+title: "Can I Scissors Inside Throuth Points"
+date: 2019-12-15
+url: https://discourse.slicer.org/t/9508
+---
+
 # Can I Scissors Inside throuth points?
 
 **Topic ID**: 9508

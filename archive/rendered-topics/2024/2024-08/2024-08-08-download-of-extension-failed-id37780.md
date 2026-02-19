@@ -1,3 +1,10 @@
+---
+topic_id: 37780
+title: "Download Of Extension Failed"
+date: 2024-08-08
+url: https://discourse.slicer.org/t/37780
+---
+
 # Download of extension failed
 
 **Topic ID**: 37780

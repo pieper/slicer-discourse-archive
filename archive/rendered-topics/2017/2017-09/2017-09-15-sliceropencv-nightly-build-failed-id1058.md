@@ -1,3 +1,10 @@
+---
+topic_id: 1058
+title: "Sliceropencv Nightly Build Failed"
+date: 2017-09-15
+url: https://discourse.slicer.org/t/1058
+---
+
 # SlicerOpenCV nightly build failed
 
 **Topic ID**: 1058

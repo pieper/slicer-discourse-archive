@@ -1,3 +1,10 @@
+---
+topic_id: 20167
+title: "Error When Trying To Import Fcsv Files Into R"
+date: 2021-10-15
+url: https://discourse.slicer.org/t/20167
+---
+
 # Error when trying to import .fcsv files into R
 
 **Topic ID**: 20167

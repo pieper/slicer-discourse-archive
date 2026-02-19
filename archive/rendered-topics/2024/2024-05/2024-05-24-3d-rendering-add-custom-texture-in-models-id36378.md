@@ -1,3 +1,10 @@
+---
+topic_id: 36378
+title: "3D Rendering Add Custom Texture In Models"
+date: 2024-05-24
+url: https://discourse.slicer.org/t/36378
+---
+
 # 3D rendering add custom texture in models
 
 **Topic ID**: 36378

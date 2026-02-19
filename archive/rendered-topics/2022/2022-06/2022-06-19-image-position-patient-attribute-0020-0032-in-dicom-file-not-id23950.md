@@ -1,3 +1,10 @@
+---
+topic_id: 23950
+title: "Image Position Patient Attribute 0020 0032 In Dicom File Not"
+date: 2022-06-19
+url: https://discourse.slicer.org/t/23950
+---
+
 # Image Position (Patient) Attribute (0020,0032) in DICOM file not handled
 
 **Topic ID**: 23950

@@ -1,3 +1,10 @@
+---
+topic_id: 31665
+title: "New Arabic Translation Of 3D Slicer"
+date: 2023-09-12
+url: https://discourse.slicer.org/t/31665
+---
+
 # New Arabic translation of 3D Slicer
 
 **Topic ID**: 31665

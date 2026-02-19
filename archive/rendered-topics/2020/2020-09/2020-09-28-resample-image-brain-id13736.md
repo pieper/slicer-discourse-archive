@@ -1,3 +1,10 @@
+---
+topic_id: 13736
+title: "Resample Image Brain"
+date: 2020-09-28
+url: https://discourse.slicer.org/t/13736
+---
+
 # Resample Image (BRAIN)
 
 **Topic ID**: 13736

@@ -1,3 +1,10 @@
+---
+topic_id: 43975
+title: "Segmenting Arteries And Pelvic Bone In Pelvic Ct"
+date: 2025-08-05
+url: https://discourse.slicer.org/t/43975
+---
+
 # Segmenting arteries and pelvic bone in pelvic CT
 
 **Topic ID**: 43975

@@ -1,3 +1,10 @@
+---
+topic_id: 39800
+title: "Problem With Installing Slicerelastix Extension In Extension"
+date: 2024-10-22
+url: https://discourse.slicer.org/t/39800
+---
+
 # Problem with installing SlicerElastix extension in Extension Manager
 
 **Topic ID**: 39800

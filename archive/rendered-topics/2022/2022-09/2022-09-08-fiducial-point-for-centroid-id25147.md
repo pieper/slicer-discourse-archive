@@ -1,3 +1,10 @@
+---
+topic_id: 25147
+title: "Fiducial Point For Centroid"
+date: 2022-09-08
+url: https://discourse.slicer.org/t/25147
+---
+
 # Fiducial/point for centroid
 
 **Topic ID**: 25147

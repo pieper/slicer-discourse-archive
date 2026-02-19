@@ -1,3 +1,10 @@
+---
+topic_id: 37518
+title: "Import Image Series With Some Sort Of Scaling"
+date: 2024-07-23
+url: https://discourse.slicer.org/t/37518
+---
+
 # Import image series with some sort of scaling?
 
 **Topic ID**: 37518

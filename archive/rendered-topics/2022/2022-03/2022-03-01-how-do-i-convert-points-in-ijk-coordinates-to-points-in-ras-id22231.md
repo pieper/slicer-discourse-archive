@@ -1,3 +1,10 @@
+---
+topic_id: 22231
+title: "How Do I Convert Points In Ijk Coordinates To Points In Ras"
+date: 2022-03-01
+url: https://discourse.slicer.org/t/22231
+---
+
 # How do I convert points in IJK coordinates to points in RAS coordinates?
 
 **Topic ID**: 22231

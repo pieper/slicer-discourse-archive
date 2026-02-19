@@ -1,3 +1,10 @@
+---
+topic_id: 36558
+title: "Absorbed Dose Rate Table Hanging Using Opendose3D"
+date: 2024-06-02
+url: https://discourse.slicer.org/t/36558
+---
+
 # Absorbed dose rate table hanging using OpenDose3D
 
 **Topic ID**: 36558

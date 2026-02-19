@@ -1,3 +1,10 @@
+---
+topic_id: 30000
+title: "Segment Comparison Dice Coefficient Is Wrong"
+date: 2023-06-13
+url: https://discourse.slicer.org/t/30000
+---
+
 # Segment comparison - DICE coefficient is wrong!
 
 **Topic ID**: 30000

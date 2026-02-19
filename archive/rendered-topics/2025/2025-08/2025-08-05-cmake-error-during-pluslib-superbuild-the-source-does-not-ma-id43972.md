@@ -1,3 +1,10 @@
+---
+topic_id: 43972
+title: "Cmake Error During Pluslib Superbuild The Source Does Not Ma"
+date: 2025-08-05
+url: https://discourse.slicer.org/t/43972
+---
+
 # CMake Error during PlusLib SuperBuild: "The source does not match..."
 
 **Topic ID**: 43972

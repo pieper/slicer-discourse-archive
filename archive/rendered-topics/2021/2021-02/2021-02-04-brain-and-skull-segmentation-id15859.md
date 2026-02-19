@@ -1,3 +1,10 @@
+---
+topic_id: 15859
+title: "Brain And Skull Segmentation"
+date: 2021-02-04
+url: https://discourse.slicer.org/t/15859
+---
+
 # Brain and skull segmentation
 
 **Topic ID**: 15859

@@ -1,3 +1,10 @@
+---
+topic_id: 41361
+title: "Segmentation Of Arteriography And T1W With Gadolinium"
+date: 2025-01-29
+url: https://discourse.slicer.org/t/41361
+---
+
 # Segmentation of arteriography and T1w with Gadolinium
 
 **Topic ID**: 41361

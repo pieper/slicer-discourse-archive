@@ -1,3 +1,10 @@
+---
+topic_id: 37590
+title: "Hounsfield Units Measurement"
+date: 2024-07-28
+url: https://discourse.slicer.org/t/37590
+---
+
 # Hounsfield units measurement
 
 **Topic ID**: 37590

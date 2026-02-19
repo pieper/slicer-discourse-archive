@@ -1,3 +1,10 @@
+---
+topic_id: 41451
+title: "Seeking Guidance Developing A Real Time 3D Visualization Sys"
+date: 2025-02-02
+url: https://discourse.slicer.org/t/41451
+---
+
 # Seeking Guidance: Developing a Real-Time 3D Visualization System Using 3D Slicer and IGT
 
 **Topic ID**: 41451

@@ -1,3 +1,10 @@
+---
+topic_id: 933
+title: "Slicer Installation On Mac Using Homebrew"
+date: 2017-08-23
+url: https://discourse.slicer.org/t/933
+---
+
 # Slicer installation on Mac using homebrew
 
 **Topic ID**: 933

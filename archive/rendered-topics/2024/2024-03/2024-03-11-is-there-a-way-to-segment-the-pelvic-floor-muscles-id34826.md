@@ -1,3 +1,10 @@
+---
+topic_id: 34826
+title: "Is There A Way To Segment The Pelvic Floor Muscles"
+date: 2024-03-11
+url: https://discourse.slicer.org/t/34826
+---
+
 # Is there a way to segment the pelvic floor muscles?
 
 **Topic ID**: 34826

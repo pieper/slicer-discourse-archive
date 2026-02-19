@@ -1,3 +1,10 @@
+---
+topic_id: 4375
+title: "Postdoc Position Available At Nci Flncr Frederick Md Usa"
+date: 2018-10-12
+url: https://discourse.slicer.org/t/4375
+---
+
 # Postdoc position available at NCI/FLNCR (Frederick, MD, USA)
 
 **Topic ID**: 4375

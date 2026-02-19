@@ -1,3 +1,10 @@
+---
+topic_id: 20530
+title: "Extra Or Missing Triangle With Vmtksurfaceendclipper Script"
+date: 2021-11-08
+url: https://discourse.slicer.org/t/20530
+---
+
 # Extra or missing triangle with vmtksurfaceendclipper script
 
 **Topic ID**: 20530

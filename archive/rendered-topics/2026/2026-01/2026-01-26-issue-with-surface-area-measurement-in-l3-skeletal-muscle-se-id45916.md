@@ -1,3 +1,10 @@
+---
+topic_id: 45916
+title: "Issue With Surface Area Measurement In L3 Skeletal Muscle Se"
+date: 2026-01-26
+url: https://discourse.slicer.org/t/45916
+---
+
 # Issue with surface area measurement in L3 skeletal muscle segmentation
 
 **Topic ID**: 45916

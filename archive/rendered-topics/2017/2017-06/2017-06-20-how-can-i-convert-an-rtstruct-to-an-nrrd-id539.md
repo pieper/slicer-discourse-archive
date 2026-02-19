@@ -1,3 +1,10 @@
+---
+topic_id: 539
+title: "How Can I Convert An Rtstruct To An Nrrd"
+date: 2017-06-20
+url: https://discourse.slicer.org/t/539
+---
+
 # How can I convert an rtstruct to an nrrd
 
 **Topic ID**: 539

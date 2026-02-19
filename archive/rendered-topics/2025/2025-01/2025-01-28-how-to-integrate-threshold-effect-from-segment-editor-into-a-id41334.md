@@ -1,3 +1,10 @@
+---
+topic_id: 41334
+title: "How To Integrate Threshold Effect From Segment Editor Into A"
+date: 2025-01-28
+url: https://discourse.slicer.org/t/41334
+---
+
 # How to Integrate Threshold Effect from Segment Editor into a Custom Module
 
 **Topic ID**: 41334

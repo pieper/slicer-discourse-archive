@@ -1,3 +1,10 @@
+---
+topic_id: 44660
+title: "Seglg Slicer Modules Segmentations Logic Attributeerror Modu"
+date: 2025-10-03
+url: https://discourse.slicer.org/t/44660
+---
+
 # segLg = slicer.modules.segmentations.logic() AttributeError: module 'modules' has no attribute 'segmentations'
 
 **Topic ID**: 44660

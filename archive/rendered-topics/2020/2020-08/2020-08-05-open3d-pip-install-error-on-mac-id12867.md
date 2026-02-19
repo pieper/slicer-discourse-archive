@@ -1,3 +1,10 @@
+---
+topic_id: 12867
+title: "Open3D Pip Install Error On Mac"
+date: 2020-08-05
+url: https://discourse.slicer.org/t/12867
+---
+
 # Open3d pip_install error on Mac
 
 **Topic ID**: 12867

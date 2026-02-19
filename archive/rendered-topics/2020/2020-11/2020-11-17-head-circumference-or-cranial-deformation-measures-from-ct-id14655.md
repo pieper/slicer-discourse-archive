@@ -1,3 +1,10 @@
+---
+topic_id: 14655
+title: "Head Circumference Or Cranial Deformation Measures From Ct"
+date: 2020-11-17
+url: https://discourse.slicer.org/t/14655
+---
+
 # Head circumference or cranial deformation measures from CT
 
 **Topic ID**: 14655

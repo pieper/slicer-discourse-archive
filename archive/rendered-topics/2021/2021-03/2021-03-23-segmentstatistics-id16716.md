@@ -1,3 +1,10 @@
+---
+topic_id: 16716
+title: "Segmentstatistics"
+date: 2021-03-23
+url: https://discourse.slicer.org/t/16716
+---
+
 # SegmentStatistics
 
 **Topic ID**: 16716

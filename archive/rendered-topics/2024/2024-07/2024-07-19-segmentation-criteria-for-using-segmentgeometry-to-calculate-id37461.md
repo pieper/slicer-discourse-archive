@@ -1,3 +1,10 @@
+---
+topic_id: 37461
+title: "Segmentation Criteria For Using Segmentgeometry To Calculate"
+date: 2024-07-19
+url: https://discourse.slicer.org/t/37461
+---
+
 # Segmentation criteria for using SegmentGeometry to calculate 2nd moments
 
 **Topic ID**: 37461

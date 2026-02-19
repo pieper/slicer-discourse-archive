@@ -1,3 +1,10 @@
+---
+topic_id: 18325
+title: "Creation Of Roi Aligned With Freehand Ultrasound Sweeps How"
+date: 2021-06-24
+url: https://discourse.slicer.org/t/18325
+---
+
 # Creation of ROI aligned with freehand ultrasound sweeps -- how to rotate the ROI?
 
 **Topic ID**: 18325

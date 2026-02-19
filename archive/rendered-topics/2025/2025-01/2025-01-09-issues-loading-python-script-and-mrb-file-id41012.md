@@ -1,3 +1,10 @@
+---
+topic_id: 41012
+title: "Issues Loading Python Script And Mrb File"
+date: 2025-01-09
+url: https://discourse.slicer.org/t/41012
+---
+
 # Issues loading Python script and .mrb file
 
 **Topic ID**: 41012

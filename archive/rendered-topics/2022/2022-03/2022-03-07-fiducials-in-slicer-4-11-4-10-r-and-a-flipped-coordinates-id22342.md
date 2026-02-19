@@ -1,3 +1,10 @@
+---
+topic_id: 22342
+title: "Fiducials In Slicer 4 11 4 10 R And A Flipped Coordinates"
+date: 2022-03-07
+url: https://discourse.slicer.org/t/22342
+---
+
 # Fiducials in Slicer-4.11. / 4.10 "R" and "A" flipped coordinates?
 
 **Topic ID**: 22342

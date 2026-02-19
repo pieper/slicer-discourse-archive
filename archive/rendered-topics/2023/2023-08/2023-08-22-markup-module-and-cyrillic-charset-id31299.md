@@ -1,3 +1,10 @@
+---
+topic_id: 31299
+title: "Markup Module And Cyrillic Charset"
+date: 2023-08-22
+url: https://discourse.slicer.org/t/31299
+---
+
 # Markup module and Cyrillic charset
 
 **Topic ID**: 31299

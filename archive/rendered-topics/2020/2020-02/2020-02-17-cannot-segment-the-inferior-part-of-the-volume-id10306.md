@@ -1,3 +1,10 @@
+---
+topic_id: 10306
+title: "Cannot Segment The Inferior Part Of The Volume"
+date: 2020-02-17
+url: https://discourse.slicer.org/t/10306
+---
+
 # Cannot segment the inferior part of the volume
 
 **Topic ID**: 10306

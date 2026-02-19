@@ -1,3 +1,10 @@
+---
+topic_id: 36546
+title: "Pw41 Registration Is Open And Required"
+date: 2024-06-02
+url: https://discourse.slicer.org/t/36546
+---
+
 # PW41 registration is open and required
 
 **Topic ID**: 36546

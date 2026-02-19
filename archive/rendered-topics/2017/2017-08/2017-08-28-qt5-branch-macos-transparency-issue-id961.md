@@ -1,3 +1,10 @@
+---
+topic_id: 961
+title: "Qt5 Branch Macos Transparency Issue"
+date: 2017-08-28
+url: https://discourse.slicer.org/t/961
+---
+
 # Qt5 branch - MacOS transparency issue
 
 **Topic ID**: 961

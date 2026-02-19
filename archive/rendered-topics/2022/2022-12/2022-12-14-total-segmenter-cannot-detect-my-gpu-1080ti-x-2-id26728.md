@@ -1,3 +1,10 @@
+---
+topic_id: 26728
+title: "Total Segmenter Cannot Detect My Gpu 1080Ti X 2"
+date: 2022-12-14
+url: https://discourse.slicer.org/t/26728
+---
+
 # Total Segmenter cannot detect my GPU (1080ti x 2)
 
 **Topic ID**: 26728

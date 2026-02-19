@@ -1,3 +1,10 @@
+---
+topic_id: 9474
+title: "3D Segmentation Of The Knee Joint Along With The Ligaments"
+date: 2019-12-11
+url: https://discourse.slicer.org/t/9474
+---
+
 # 3d segmentation of the knee joint along with the ligaments
 
 **Topic ID**: 9474

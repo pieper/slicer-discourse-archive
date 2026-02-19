@@ -1,3 +1,10 @@
+---
+topic_id: 7190
+title: "Rendering Speed Slower Than Raw Vtk"
+date: 2019-06-16
+url: https://discourse.slicer.org/t/7190
+---
+
 # Rendering speed slower than "raw" Vtk
 
 **Topic ID**: 7190

@@ -1,3 +1,10 @@
+---
+topic_id: 42807
+title: "How To Hide Certain Modules And Customize Module Layout In M"
+date: 2025-05-06
+url: https://discourse.slicer.org/t/42807
+---
+
 # How to Hide Certain Modules and Customize Module Layout in My Custom Slicer Build
 
 **Topic ID**: 42807

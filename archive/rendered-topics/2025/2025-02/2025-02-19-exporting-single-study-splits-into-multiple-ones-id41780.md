@@ -1,3 +1,10 @@
+---
+topic_id: 41780
+title: "Exporting Single Study Splits Into Multiple Ones"
+date: 2025-02-19
+url: https://discourse.slicer.org/t/41780
+---
+
 # Exporting Single study splits into multiple ones
 
 **Topic ID**: 41780

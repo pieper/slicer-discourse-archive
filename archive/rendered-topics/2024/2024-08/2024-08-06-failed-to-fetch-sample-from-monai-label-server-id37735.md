@@ -1,3 +1,10 @@
+---
+topic_id: 37735
+title: "Failed To Fetch Sample From Monai Label Server"
+date: 2024-08-06
+url: https://discourse.slicer.org/t/37735
+---
+
 # Failed to fetch Sample from MONAI Label Server.
 
 **Topic ID**: 37735

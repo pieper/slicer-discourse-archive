@@ -1,3 +1,10 @@
+---
+topic_id: 12189
+title: "How To Make Fiducial Points Placed In Curved Planar Reformat"
+date: 2020-06-23
+url: https://discourse.slicer.org/t/12189
+---
+
 # How to make fiducial points placed in Curved Planar Reformatted image appear in the original image
 
 **Topic ID**: 12189

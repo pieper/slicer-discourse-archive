@@ -1,3 +1,10 @@
+---
+topic_id: 9031
+title: "Problem Keep Largest Island Islands Tool Segmentor Editor Ni"
+date: 2019-11-05
+url: https://discourse.slicer.org/t/9031
+---
+
 # Problem Keep largest island / Islands Tool - Segmentor Editor Nightly Version 2019-11-03
 
 **Topic ID**: 9031

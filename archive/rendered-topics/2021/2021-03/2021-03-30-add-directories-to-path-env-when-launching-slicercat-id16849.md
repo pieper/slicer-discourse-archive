@@ -1,3 +1,10 @@
+---
+topic_id: 16849
+title: "Add Directories To Path Env When Launching Slicercat"
+date: 2021-03-30
+url: https://discourse.slicer.org/t/16849
+---
+
 # Add directories to PATH env when launching SlicerCAT
 
 **Topic ID**: 16849

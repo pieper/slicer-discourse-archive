@@ -1,3 +1,10 @@
+---
+topic_id: 28915
+title: "Export Segmentation Axial Slices And Matching Unsegmented Ax"
+date: 2023-04-14
+url: https://discourse.slicer.org/t/28915
+---
+
 # Export segmentation axial slices and matching unsegmented axial slices as .png in different folders
 
 **Topic ID**: 28915

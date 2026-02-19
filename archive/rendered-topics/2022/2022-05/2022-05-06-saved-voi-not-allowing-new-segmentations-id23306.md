@@ -1,3 +1,10 @@
+---
+topic_id: 23306
+title: "Saved Voi Not Allowing New Segmentations"
+date: 2022-05-06
+url: https://discourse.slicer.org/t/23306
+---
+
 # saved VOI not allowing new segmentations
 
 **Topic ID**: 23306

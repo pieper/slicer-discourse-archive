@@ -1,3 +1,10 @@
+---
+topic_id: 28421
+title: "Install Slicer For All Users On Windows"
+date: 2023-03-16
+url: https://discourse.slicer.org/t/28421
+---
+
 # Install Slicer for all users on Windows
 
 **Topic ID**: 28421

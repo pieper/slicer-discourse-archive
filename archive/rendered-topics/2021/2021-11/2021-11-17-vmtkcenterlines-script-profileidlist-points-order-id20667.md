@@ -1,3 +1,10 @@
+---
+topic_id: 20667
+title: "Vmtkcenterlines Script Profileidlist Points Order"
+date: 2021-11-17
+url: https://discourse.slicer.org/t/20667
+---
+
 # vmtkcenterlines script profileidlist points order
 
 **Topic ID**: 20667

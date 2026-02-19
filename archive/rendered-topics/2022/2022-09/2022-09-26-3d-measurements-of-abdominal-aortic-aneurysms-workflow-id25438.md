@@ -1,3 +1,10 @@
+---
+topic_id: 25438
+title: "3D Measurements Of Abdominal Aortic Aneurysms Workflow"
+date: 2022-09-26
+url: https://discourse.slicer.org/t/25438
+---
+
 # 3D measurements of abdominal aortic aneurysms workflow
 
 **Topic ID**: 25438

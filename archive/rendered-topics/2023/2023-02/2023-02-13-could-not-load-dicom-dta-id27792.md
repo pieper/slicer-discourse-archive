@@ -1,3 +1,10 @@
+---
+topic_id: 27792
+title: "Could Not Load Dicom Dta"
+date: 2023-02-13
+url: https://discourse.slicer.org/t/27792
+---
+
 # Could not load DICOM dta
 
 **Topic ID**: 27792

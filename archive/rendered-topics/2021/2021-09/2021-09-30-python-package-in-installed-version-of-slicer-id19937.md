@@ -1,3 +1,10 @@
+---
+topic_id: 19937
+title: "Python Package In Installed Version Of Slicer"
+date: 2021-09-30
+url: https://discourse.slicer.org/t/19937
+---
+
 # Python package in installed version of slicer
 
 **Topic ID**: 19937

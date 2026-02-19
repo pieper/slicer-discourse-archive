@@ -1,3 +1,10 @@
+---
+topic_id: 12150
+title: "Build Fails In Vtk Many Undefined References"
+date: 2020-06-22
+url: https://discourse.slicer.org/t/12150
+---
+
 # Build fails in VTK : many undefined references
 
 **Topic ID**: 12150

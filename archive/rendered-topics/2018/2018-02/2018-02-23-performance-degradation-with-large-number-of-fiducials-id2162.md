@@ -1,3 +1,10 @@
+---
+topic_id: 2162
+title: "Performance Degradation With Large Number Of Fiducials"
+date: 2018-02-23
+url: https://discourse.slicer.org/t/2162
+---
+
 # Performance degradation with large number of fiducials
 
 **Topic ID**: 2162

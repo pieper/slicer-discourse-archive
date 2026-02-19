@@ -1,3 +1,10 @@
+---
+topic_id: 34341
+title: "Show Roi Boxes If Loading From Obj File Then All Boxes Appea"
+date: 2024-02-15
+url: https://discourse.slicer.org/t/34341
+---
+
 # Show ROI boxes - if loading from .obj file then all boxes appear in yellow color
 
 **Topic ID**: 34341

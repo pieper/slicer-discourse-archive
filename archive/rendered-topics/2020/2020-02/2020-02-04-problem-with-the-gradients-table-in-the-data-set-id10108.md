@@ -1,3 +1,10 @@
+---
+topic_id: 10108
+title: "Problem With The Gradients Table In The Data Set"
+date: 2020-02-04
+url: https://discourse.slicer.org/t/10108
+---
+
 # Problem with the gradients table in the data set
 
 **Topic ID**: 10108

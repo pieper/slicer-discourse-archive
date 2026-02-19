@@ -1,3 +1,10 @@
+---
+topic_id: 19232
+title: "Chest Imaging Platform Lung Lesion Analyzer Error"
+date: 2021-08-17
+url: https://discourse.slicer.org/t/19232
+---
+
 # Chest Imaging Platform - Lung Lesion Analyzer error
 
 **Topic ID**: 19232

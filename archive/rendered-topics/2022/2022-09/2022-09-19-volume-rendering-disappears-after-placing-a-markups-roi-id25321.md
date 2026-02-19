@@ -1,3 +1,10 @@
+---
+topic_id: 25321
+title: "Volume Rendering Disappears After Placing A Markups Roi"
+date: 2022-09-19
+url: https://discourse.slicer.org/t/25321
+---
+
 # Volume rendering disappears after placing a markups ROI
 
 **Topic ID**: 25321

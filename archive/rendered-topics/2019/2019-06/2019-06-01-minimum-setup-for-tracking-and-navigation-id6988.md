@@ -1,3 +1,10 @@
+---
+topic_id: 6988
+title: "Minimum Setup For Tracking And Navigation"
+date: 2019-06-01
+url: https://discourse.slicer.org/t/6988
+---
+
 # Minimum setup for tracking and navigation
 
 **Topic ID**: 6988

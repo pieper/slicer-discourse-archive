@@ -1,3 +1,10 @@
+---
+topic_id: 19575
+title: "Construction Of A Verticle Plane For Measurement Of Canine M"
+date: 2021-09-08
+url: https://discourse.slicer.org/t/19575
+---
+
 # Construction of a verticle plane for measurement of canine movement
 
 **Topic ID**: 19575

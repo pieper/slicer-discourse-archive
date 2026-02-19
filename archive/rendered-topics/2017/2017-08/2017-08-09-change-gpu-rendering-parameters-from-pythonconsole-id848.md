@@ -1,3 +1,10 @@
+---
+topic_id: 848
+title: "Change Gpu Rendering Parameters From Pythonconsole"
+date: 2017-08-09
+url: https://discourse.slicer.org/t/848
+---
+
 # Change GPU rendering parameters from pythonconsole
 
 **Topic ID**: 848

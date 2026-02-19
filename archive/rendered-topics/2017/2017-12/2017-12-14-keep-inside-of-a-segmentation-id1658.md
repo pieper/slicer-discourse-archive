@@ -1,3 +1,10 @@
+---
+topic_id: 1658
+title: "Keep Inside Of A Segmentation"
+date: 2017-12-14
+url: https://discourse.slicer.org/t/1658
+---
+
 # Keep Inside of a segmentation
 
 **Topic ID**: 1658

@@ -1,3 +1,10 @@
+---
+topic_id: 8539
+title: "Shift Mouse Wheel Does Not Change Brush Size"
+date: 2019-09-23
+url: https://discourse.slicer.org/t/8539
+---
+
 # Shift + mouse wheel does not change brush size
 
 **Topic ID**: 8539

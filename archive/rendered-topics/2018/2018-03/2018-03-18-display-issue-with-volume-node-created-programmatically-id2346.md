@@ -1,3 +1,10 @@
+---
+topic_id: 2346
+title: "Display Issue With Volume Node Created Programmatically"
+date: 2018-03-18
+url: https://discourse.slicer.org/t/2346
+---
+
 # Display Issue with Volume Node Created Programmatically
 
 **Topic ID**: 2346

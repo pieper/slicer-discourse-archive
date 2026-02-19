@@ -1,3 +1,10 @@
+---
+topic_id: 33541
+title: "Maximum Distance Python Code"
+date: 2023-12-28
+url: https://discourse.slicer.org/t/33541
+---
+
 # Maximum distance python code
 
 **Topic ID**: 33541

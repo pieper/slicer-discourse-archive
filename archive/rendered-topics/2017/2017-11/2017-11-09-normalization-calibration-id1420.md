@@ -1,3 +1,10 @@
+---
+topic_id: 1420
+title: "Normalization Calibration"
+date: 2017-11-09
+url: https://discourse.slicer.org/t/1420
+---
+
 # Normalization/calibration
 
 **Topic ID**: 1420

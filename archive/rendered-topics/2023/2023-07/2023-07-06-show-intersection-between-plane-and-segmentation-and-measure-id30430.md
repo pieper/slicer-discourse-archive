@@ -1,3 +1,10 @@
+---
+topic_id: 30430
+title: "Show Intersection Between Plane And Segmentation And Measure"
+date: 2023-07-06
+url: https://discourse.slicer.org/t/30430
+---
+
 # Show intersection between plane and segmentation and measure max diameter
 
 **Topic ID**: 30430

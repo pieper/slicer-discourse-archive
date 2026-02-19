@@ -1,3 +1,10 @@
+---
+topic_id: 21713
+title: "Is It Possible To Split A Python Extension Into Multiple Fil"
+date: 2022-01-31
+url: https://discourse.slicer.org/t/21713
+---
+
 # Is it possible to split a python extension into multiple Files?
 
 **Topic ID**: 21713

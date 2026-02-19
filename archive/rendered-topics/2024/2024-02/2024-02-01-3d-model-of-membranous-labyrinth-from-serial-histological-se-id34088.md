@@ -1,3 +1,10 @@
+---
+topic_id: 34088
+title: "3D Model Of Membranous Labyrinth From Serial Histological Se"
+date: 2024-02-01
+url: https://discourse.slicer.org/t/34088
+---
+
 # 3D Model of membranous labyrinth from serial histological sections
 
 **Topic ID**: 34088

@@ -1,3 +1,10 @@
+---
+topic_id: 29252
+title: "5 2 2 Silent Installer Not Seeming To Work W10"
+date: 2023-05-02
+url: https://discourse.slicer.org/t/29252
+---
+
 # 5.2.2 silent installer not seeming to work w10
 
 **Topic ID**: 29252

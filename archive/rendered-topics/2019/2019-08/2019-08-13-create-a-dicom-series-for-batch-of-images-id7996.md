@@ -1,3 +1,10 @@
+---
+topic_id: 7996
+title: "Create A Dicom Series For Batch Of Images"
+date: 2019-08-13
+url: https://discourse.slicer.org/t/7996
+---
+
 # Create a DICOM Series for batch of images
 
 **Topic ID**: 7996

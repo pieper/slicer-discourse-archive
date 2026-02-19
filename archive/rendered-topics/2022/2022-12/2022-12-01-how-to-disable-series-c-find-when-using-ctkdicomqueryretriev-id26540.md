@@ -1,3 +1,10 @@
+---
+topic_id: 26540
+title: "How To Disable Series C Find When Using Ctkdicomqueryretriev"
+date: 2022-12-01
+url: https://discourse.slicer.org/t/26540
+---
+
 # How to disable Series C-FIND when using ctkDICOMQueryRetrieveWidget queries?
 
 **Topic ID**: 26540

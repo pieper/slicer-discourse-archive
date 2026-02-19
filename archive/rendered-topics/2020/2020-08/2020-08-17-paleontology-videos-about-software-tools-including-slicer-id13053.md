@@ -1,3 +1,10 @@
+---
+topic_id: 13053
+title: "Paleontology Videos About Software Tools Including Slicer"
+date: 2020-08-17
+url: https://discourse.slicer.org/t/13053
+---
+
 # Paleontology videos about software tools including slicer
 
 **Topic ID**: 13053

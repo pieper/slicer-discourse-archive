@@ -1,3 +1,10 @@
+---
+topic_id: 30750
+title: "How To Get The Shortest Path From A Fiducialmarkupnode To A"
+date: 2023-07-24
+url: https://discourse.slicer.org/t/30750
+---
+
 # How to get the shortest path from a fiducialmarkupnode to a curvenode
 
 **Topic ID**: 30750

@@ -1,3 +1,10 @@
+---
+topic_id: 2996
+title: "Hex Meshing Extension"
+date: 2018-05-29
+url: https://discourse.slicer.org/t/2996
+---
+
 # Hex Meshing Extension
 
 **Topic ID**: 2996

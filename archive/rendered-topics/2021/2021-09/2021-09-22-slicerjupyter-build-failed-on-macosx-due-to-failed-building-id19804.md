@@ -1,3 +1,10 @@
+---
+topic_id: 19804
+title: "Slicerjupyter Build Failed On Macosx Due To Failed Building"
+date: 2021-09-22
+url: https://discourse.slicer.org/t/19804
+---
+
 # SlicerJupyter build failed on MacOSX due to failed building wheel for argon2-cffi
 
 **Topic ID**: 19804

@@ -1,3 +1,10 @@
+---
+topic_id: 21935
+title: "Factory Build Of Python Extensions Conflicting With Each Oth"
+date: 2022-02-12
+url: https://discourse.slicer.org/t/21935
+---
+
 # Factory build of python extensions conflicting with each other
 
 **Topic ID**: 21935

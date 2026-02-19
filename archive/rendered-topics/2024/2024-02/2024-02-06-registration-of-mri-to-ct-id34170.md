@@ -1,3 +1,10 @@
+---
+topic_id: 34170
+title: "Registration Of Mri To Ct"
+date: 2024-02-06
+url: https://discourse.slicer.org/t/34170
+---
+
 # Registration of MRI to CT
 
 **Topic ID**: 34170

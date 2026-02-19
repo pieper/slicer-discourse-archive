@@ -1,3 +1,10 @@
+---
+topic_id: 18501
+title: "Volume Measurement Of Defect With Surface Scan"
+date: 2021-07-04
+url: https://discourse.slicer.org/t/18501
+---
+
 # Volume measurement of defect with Surface Scan
 
 **Topic ID**: 18501

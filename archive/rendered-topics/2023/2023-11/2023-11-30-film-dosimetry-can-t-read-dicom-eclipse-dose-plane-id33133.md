@@ -1,3 +1,10 @@
+---
+topic_id: 33133
+title: "Film Dosimetry Can T Read Dicom Eclipse Dose Plane"
+date: 2023-11-30
+url: https://discourse.slicer.org/t/33133
+---
+
 # film dosimetry . Can´t read dicom eclipse dose plane 
 
 **Topic ID**: 33133

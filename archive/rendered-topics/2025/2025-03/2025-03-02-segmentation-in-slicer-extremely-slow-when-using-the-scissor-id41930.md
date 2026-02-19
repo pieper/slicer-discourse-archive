@@ -1,3 +1,10 @@
+---
+topic_id: 41930
+title: "Segmentation In Slicer Extremely Slow When Using The Scissor"
+date: 2025-03-02
+url: https://discourse.slicer.org/t/41930
+---
+
 # Segmentation in Slicer extremely slow when using the Scissors tool in slice view
 
 **Topic ID**: 41930

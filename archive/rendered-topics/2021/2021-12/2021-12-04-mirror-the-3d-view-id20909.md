@@ -1,3 +1,10 @@
+---
+topic_id: 20909
+title: "Mirror The 3D View"
+date: 2021-12-04
+url: https://discourse.slicer.org/t/20909
+---
+
 # Mirror the 3D view
 
 **Topic ID**: 20909

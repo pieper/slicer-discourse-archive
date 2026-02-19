@@ -1,3 +1,10 @@
+---
+topic_id: 12714
+title: "Proposed Changes To Markups To Support Unplaced Points"
+date: 2020-07-23
+url: https://discourse.slicer.org/t/12714
+---
+
 # Proposed changes to Markups to support unplaced points
 
 **Topic ID**: 12714

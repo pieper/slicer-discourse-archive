@@ -1,3 +1,10 @@
+---
+topic_id: 45847
+title: "Strategies For Working With Large Microct Files"
+date: 2026-01-21
+url: https://discourse.slicer.org/t/45847
+---
+
 # Strategies for working with large microCT files
 
 **Topic ID**: 45847

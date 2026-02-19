@@ -1,3 +1,10 @@
+---
+topic_id: 5566
+title: "Blank Out Surrounding Areas Outside Of Segmented Regions Of"
+date: 2019-01-29
+url: https://discourse.slicer.org/t/5566
+---
+
 # Blank out surrounding areas outside of segmented regions of interests in volume
 
 **Topic ID**: 5566

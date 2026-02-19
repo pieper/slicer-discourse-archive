@@ -1,3 +1,10 @@
+---
+topic_id: 41596
+title: "Pip Installed Python Packaged Works On Pythonslicer Terminal"
+date: 2025-02-09
+url: https://discourse.slicer.org/t/41596
+---
+
 # Pip installed Python packaged works on PythonSlicer terminal but not on Slicer console
 
 **Topic ID**: 41596

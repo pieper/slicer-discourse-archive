@@ -1,3 +1,10 @@
+---
+topic_id: 28934
+title: "Only One Of 28 Segments Is Showing In 3D"
+date: 2023-04-15
+url: https://discourse.slicer.org/t/28934
+---
+
 # Only one of 28  segments is showing in 3d
 
 **Topic ID**: 28934

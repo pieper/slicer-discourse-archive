@@ -1,3 +1,10 @@
+---
+topic_id: 27998
+title: "Slicer Modules Segmentations Logic Importlabelmaptosegmentat"
+date: 2023-02-23
+url: https://discourse.slicer.org/t/27998
+---
+
 # slicer.modules.segmentations.logic().ImportLabelmapToSegmentationNode() Not workign with given SegmentIDs
 
 **Topic ID**: 27998

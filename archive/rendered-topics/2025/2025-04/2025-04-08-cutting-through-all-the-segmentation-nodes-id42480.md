@@ -1,3 +1,10 @@
+---
+topic_id: 42480
+title: "Cutting Through All The Segmentation Nodes"
+date: 2025-04-08
+url: https://discourse.slicer.org/t/42480
+---
+
 # Cutting through all the segmentation nodes
 
 **Topic ID**: 42480

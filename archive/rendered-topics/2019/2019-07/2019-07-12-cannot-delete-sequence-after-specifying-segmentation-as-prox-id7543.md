@@ -1,3 +1,10 @@
+---
+topic_id: 7543
+title: "Cannot Delete Sequence After Specifying Segmentation As Prox"
+date: 2019-07-12
+url: https://discourse.slicer.org/t/7543
+---
+
 # Cannot delete sequence after specifying segmentation as proxy node
 
 **Topic ID**: 7543

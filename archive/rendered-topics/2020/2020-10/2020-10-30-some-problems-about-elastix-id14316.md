@@ -1,3 +1,10 @@
+---
+topic_id: 14316
+title: "Some Problems About Elastix"
+date: 2020-10-30
+url: https://discourse.slicer.org/t/14316
+---
+
 # Some problems about elastix
 
 **Topic ID**: 14316

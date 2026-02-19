@@ -1,3 +1,10 @@
+---
+topic_id: 22584
+title: "Creation Of Mask Files For The Given Images"
+date: 2022-03-18
+url: https://discourse.slicer.org/t/22584
+---
+
 # Creation of Mask files for the given images
 
 **Topic ID**: 22584

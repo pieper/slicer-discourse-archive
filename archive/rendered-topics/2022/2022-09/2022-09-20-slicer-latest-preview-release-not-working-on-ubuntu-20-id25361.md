@@ -1,3 +1,10 @@
+---
+topic_id: 25361
+title: "Slicer Latest Preview Release Not Working On Ubuntu 20"
+date: 2022-09-20
+url: https://discourse.slicer.org/t/25361
+---
+
 # Slicer latest preview release not working on Ubuntu 20?
 
 **Topic ID**: 25361

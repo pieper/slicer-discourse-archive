@@ -1,3 +1,10 @@
+---
+topic_id: 26453
+title: "Slicer Program Crash Suddenly In Macbook"
+date: 2022-11-26
+url: https://discourse.slicer.org/t/26453
+---
+
 # Slicer program crash suddenly in MacBook
 
 **Topic ID**: 26453

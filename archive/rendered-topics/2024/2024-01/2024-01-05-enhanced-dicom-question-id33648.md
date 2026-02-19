@@ -1,3 +1,10 @@
+---
+topic_id: 33648
+title: "Enhanced Dicom Question"
+date: 2024-01-05
+url: https://discourse.slicer.org/t/33648
+---
+
 # Enhanced DICOM question
 
 **Topic ID**: 33648

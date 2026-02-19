@@ -1,3 +1,10 @@
+---
+topic_id: 19574
+title: "Build And Release Vmtk Via Github Actions"
+date: 2021-09-08
+url: https://discourse.slicer.org/t/19574
+---
+
 # Build and release VMTK via GitHub Actions
 
 **Topic ID**: 19574

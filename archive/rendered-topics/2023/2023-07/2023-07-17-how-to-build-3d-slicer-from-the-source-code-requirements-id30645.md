@@ -1,3 +1,10 @@
+---
+topic_id: 30645
+title: "How To Build 3D Slicer From The Source Code Requirements"
+date: 2023-07-17
+url: https://discourse.slicer.org/t/30645
+---
+
 # How to build 3D Slicer from the source code? Requirements.
 
 **Topic ID**: 30645

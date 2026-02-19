@@ -1,3 +1,10 @@
+---
+topic_id: 36094
+title: "Fix For No Package Called Pandas In Slicermorph Alpaca K Mea"
+date: 2024-05-11
+url: https://discourse.slicer.org/t/36094
+---
+
 # Fix for `no package called pandas` in SlicerMorph ALPACA k-means template selection - Apple ARM
 
 **Topic ID**: 36094

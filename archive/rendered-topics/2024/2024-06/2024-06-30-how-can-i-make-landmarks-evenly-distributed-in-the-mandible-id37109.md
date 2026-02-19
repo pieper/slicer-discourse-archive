@@ -1,3 +1,10 @@
+---
+topic_id: 37109
+title: "How Can I Make Landmarks Evenly Distributed In The Mandible"
+date: 2024-06-30
+url: https://discourse.slicer.org/t/37109
+---
+
 # How can i make landmarks evenly distributed in the mandible?
 
 **Topic ID**: 37109

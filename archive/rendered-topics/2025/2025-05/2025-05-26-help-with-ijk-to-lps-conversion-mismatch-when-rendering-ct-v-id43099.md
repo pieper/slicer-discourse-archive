@@ -1,3 +1,10 @@
+---
+topic_id: 43099
+title: "Help With Ijk To Lps Conversion Mismatch When Rendering Ct V"
+date: 2025-05-26
+url: https://discourse.slicer.org/t/43099
+---
+
 # Help with IJK to LPS Conversion Mismatch When Rendering CT Volume Outside Slicer
 
 **Topic ID**: 43099

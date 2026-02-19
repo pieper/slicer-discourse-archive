@@ -1,3 +1,10 @@
+---
+topic_id: 6248
+title: "Working Directory Of Slicer"
+date: 2019-03-22
+url: https://discourse.slicer.org/t/6248
+---
+
 # Working directory of Slicer
 
 **Topic ID**: 6248

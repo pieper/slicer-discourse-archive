@@ -1,3 +1,10 @@
+---
+topic_id: 16693
+title: "Level Tracing On A Single Slice From A 3D Volume"
+date: 2021-03-22
+url: https://discourse.slicer.org/t/16693
+---
+
 # Level tracing on a single slice from a 3D volume
 
 **Topic ID**: 16693

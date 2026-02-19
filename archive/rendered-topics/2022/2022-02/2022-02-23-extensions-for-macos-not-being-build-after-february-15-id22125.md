@@ -1,3 +1,10 @@
+---
+topic_id: 22125
+title: "Extensions For Macos Not Being Build After February 15"
+date: 2022-02-23
+url: https://discourse.slicer.org/t/22125
+---
+
 # Extensions for macOS not being build after February 15
 
 **Topic ID**: 22125

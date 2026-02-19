@@ -1,3 +1,10 @@
+---
+topic_id: 6557
+title: "Creating Mha Files"
+date: 2019-04-22
+url: https://discourse.slicer.org/t/6557
+---
+
 # Creating .mha files 
 
 **Topic ID**: 6557

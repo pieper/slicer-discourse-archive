@@ -1,3 +1,10 @@
+---
+topic_id: 25795
+title: "Skull Stripping Using Hdbrainextraction"
+date: 2022-10-20
+url: https://discourse.slicer.org/t/25795
+---
+
 # SKULL STRIPPING USING "HDBrainExtraction"
 
 **Topic ID**: 25795

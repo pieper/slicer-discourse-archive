@@ -1,3 +1,10 @@
+---
+topic_id: 9594
+title: "Install Slicer For All Users Option On Windows"
+date: 2019-12-23
+url: https://discourse.slicer.org/t/9594
+---
+
 # Install slicer for all users option on windows
 
 **Topic ID**: 9594

@@ -1,3 +1,10 @@
+---
+topic_id: 23065
+title: "Utilise Slicer Gui When Effect Module Is Running"
+date: 2022-04-21
+url: https://discourse.slicer.org/t/23065
+---
+
 # Utilise Slicer GUI when effect/module is running
 
 **Topic ID**: 23065

@@ -1,3 +1,10 @@
+---
+topic_id: 3462
+title: "Removing Islands In A Given Range"
+date: 2018-07-11
+url: https://discourse.slicer.org/t/3462
+---
+
 # Removing islands in a given range
 
 **Topic ID**: 3462

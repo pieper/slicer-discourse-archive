@@ -1,3 +1,10 @@
+---
+topic_id: 751
+title: "Slicer Debug Mode Buid Error In 2017 07 23 Version On Window"
+date: 2017-07-23
+url: https://discourse.slicer.org/t/751
+---
+
 # Slicer debug-mode buid error in 2017-07-23 version on Windows due to bzip2
 
 **Topic ID**: 751

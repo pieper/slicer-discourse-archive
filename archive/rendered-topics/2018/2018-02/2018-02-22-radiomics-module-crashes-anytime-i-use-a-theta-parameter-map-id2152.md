@@ -1,3 +1,10 @@
+---
+topic_id: 2152
+title: "Radiomics Module Crashes Anytime I Use A Theta Parameter Map"
+date: 2018-02-22
+url: https://discourse.slicer.org/t/2152
+---
+
 # Radiomics module crashes anytime I use a "Theta parameter map"
 
 **Topic ID**: 2152

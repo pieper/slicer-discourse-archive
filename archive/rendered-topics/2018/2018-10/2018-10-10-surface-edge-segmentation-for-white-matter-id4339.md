@@ -1,3 +1,10 @@
+---
+topic_id: 4339
+title: "Surface Edge Segmentation For White Matter"
+date: 2018-10-10
+url: https://discourse.slicer.org/t/4339
+---
+
 # Surface/Edge Segmentation for White Matter
 
 **Topic ID**: 4339

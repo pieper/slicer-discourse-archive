@@ -1,3 +1,10 @@
+---
+topic_id: 21337
+title: "Stitching Overlapping Volumes"
+date: 2022-01-05
+url: https://discourse.slicer.org/t/21337
+---
+
 # Stitching overlapping volumes
 
 **Topic ID**: 21337

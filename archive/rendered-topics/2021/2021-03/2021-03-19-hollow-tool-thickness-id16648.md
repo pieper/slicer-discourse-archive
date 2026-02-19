@@ -1,3 +1,10 @@
+---
+topic_id: 16648
+title: "Hollow Tool Thickness"
+date: 2021-03-19
+url: https://discourse.slicer.org/t/16648
+---
+
 # Hollow tool - thickness
 
 **Topic ID**: 16648

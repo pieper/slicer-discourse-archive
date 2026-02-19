@@ -1,3 +1,10 @@
+---
+topic_id: 26527
+title: "Contrast Control In Drr Generation Module"
+date: 2022-12-01
+url: https://discourse.slicer.org/t/26527
+---
+
 # Contrast Control in DRR Generation Module
 
 **Topic ID**: 26527

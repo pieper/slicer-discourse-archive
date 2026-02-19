@@ -1,3 +1,10 @@
+---
+topic_id: 18733
+title: "Segmentation Mask Not Overlayed On Top Of The Original Data"
+date: 2021-07-14
+url: https://discourse.slicer.org/t/18733
+---
+
 # Segmentation Mask not overlayed on top of the original data
 
 **Topic ID**: 18733

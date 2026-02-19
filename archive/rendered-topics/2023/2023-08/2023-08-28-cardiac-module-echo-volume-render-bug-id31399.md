@@ -1,3 +1,10 @@
+---
+topic_id: 31399
+title: "Cardiac Module Echo Volume Render Bug"
+date: 2023-08-28
+url: https://discourse.slicer.org/t/31399
+---
+
 # CARDIAC module: echo Volume Render Bug
 
 **Topic ID**: 31399

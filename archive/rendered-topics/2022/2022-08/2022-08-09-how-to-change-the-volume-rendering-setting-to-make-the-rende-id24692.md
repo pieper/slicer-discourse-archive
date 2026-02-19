@@ -1,3 +1,10 @@
+---
+topic_id: 24692
+title: "How To Change The Volume Rendering Setting To Make The Rende"
+date: 2022-08-09
+url: https://discourse.slicer.org/t/24692
+---
+
 # How to change the volume rendering setting to make the rendering effect from picture1 to picture2
 
 **Topic ID**: 24692

@@ -1,3 +1,10 @@
+---
+topic_id: 45322
+title: "Extract Centerline Computational Troubleshooting"
+date: 2025-12-02
+url: https://discourse.slicer.org/t/45322
+---
+
 # Extract Centerline computational troubleshooting
 
 **Topic ID**: 45322

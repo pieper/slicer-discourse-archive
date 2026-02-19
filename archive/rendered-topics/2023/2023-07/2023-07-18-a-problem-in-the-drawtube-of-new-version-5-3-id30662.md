@@ -1,3 +1,10 @@
+---
+topic_id: 30662
+title: "A Problem In The Drawtube Of New Version 5 3"
+date: 2023-07-18
+url: https://discourse.slicer.org/t/30662
+---
+
 # A problem in the DrawTube of new version 5.3
 
 **Topic ID**: 30662

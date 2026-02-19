@@ -1,3 +1,10 @@
+---
+topic_id: 36963
+title: "Dicomprocesses Py Error"
+date: 2024-06-23
+url: https://discourse.slicer.org/t/36963
+---
+
 # DICOMProcesses.py error
 
 **Topic ID**: 36963

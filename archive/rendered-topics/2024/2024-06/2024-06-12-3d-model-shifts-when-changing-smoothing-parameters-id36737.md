@@ -1,3 +1,10 @@
+---
+topic_id: 36737
+title: "3D Model Shifts When Changing Smoothing Parameters"
+date: 2024-06-12
+url: https://discourse.slicer.org/t/36737
+---
+
 # 3D model shifts when changing smoothing parameters
 
 **Topic ID**: 36737

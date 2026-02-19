@@ -1,3 +1,10 @@
+---
+topic_id: 27763
+title: "Extract Isosurface Or Contour Surface From Skin Segment By M"
+date: 2023-02-11
+url: https://discourse.slicer.org/t/27763
+---
+
 # Extract isosurface(or contour surface) from skin segment by MarchingCube
 
 **Topic ID**: 27763

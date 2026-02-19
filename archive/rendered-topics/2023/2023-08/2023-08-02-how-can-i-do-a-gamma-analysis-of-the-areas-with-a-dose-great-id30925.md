@@ -1,3 +1,10 @@
+---
+topic_id: 30925
+title: "How Can I Do A Gamma Analysis Of The Areas With A Dose Great"
+date: 2023-08-02
+url: https://discourse.slicer.org/t/30925
+---
+
 # How can I do a gamma analysis of the areas with a dose greater than 200 in both film images
 
 **Topic ID**: 30925

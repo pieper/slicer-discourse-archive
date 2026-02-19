@@ -1,3 +1,10 @@
+---
+topic_id: 2217
+title: "Segmentation Of Brain From Ct"
+date: 2018-03-01
+url: https://discourse.slicer.org/t/2217
+---
+
 # segmentation of brain from CT 
 
 **Topic ID**: 2217

@@ -1,3 +1,10 @@
+---
+topic_id: 24928
+title: "New User Unable To Combine Several Mri Dicom Series Into One"
+date: 2022-08-25
+url: https://discourse.slicer.org/t/24928
+---
+
 # [New user:] Unable to combine several MRI DICOM series into one volume
 
 **Topic ID**: 24928

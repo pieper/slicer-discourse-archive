@@ -1,3 +1,10 @@
+---
+topic_id: 39977
+title: "Merging Landmarks And Semi Landmarks With Slicermorph"
+date: 2024-11-01
+url: https://discourse.slicer.org/t/39977
+---
+
 # Merging landmarks and semi-landmarks with SlicerMorph
 
 **Topic ID**: 39977

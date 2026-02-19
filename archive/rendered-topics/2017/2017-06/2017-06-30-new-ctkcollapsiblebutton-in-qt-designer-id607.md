@@ -1,3 +1,10 @@
+---
+topic_id: 607
+title: "New Ctkcollapsiblebutton In Qt Designer"
+date: 2017-06-30
+url: https://discourse.slicer.org/t/607
+---
+
 # New ctkCollapsibleButton in qt designer
 
 **Topic ID**: 607

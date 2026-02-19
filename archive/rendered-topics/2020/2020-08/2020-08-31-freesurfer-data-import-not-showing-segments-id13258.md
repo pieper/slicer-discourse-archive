@@ -1,3 +1,10 @@
+---
+topic_id: 13258
+title: "Freesurfer Data Import Not Showing Segments"
+date: 2020-08-31
+url: https://discourse.slicer.org/t/13258
+---
+
 # FreeSurfer data import not showing segments
 
 **Topic ID**: 13258

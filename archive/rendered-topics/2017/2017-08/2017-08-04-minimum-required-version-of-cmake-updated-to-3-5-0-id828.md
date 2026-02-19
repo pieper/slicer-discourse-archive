@@ -1,3 +1,10 @@
+---
+topic_id: 828
+title: "Minimum Required Version Of Cmake Updated To 3 5 0"
+date: 2017-08-04
+url: https://discourse.slicer.org/t/828
+---
+
 # Minimum required version of CMake updated to 3.5.0
 
 **Topic ID**: 828

@@ -1,3 +1,10 @@
+---
+topic_id: 21394
+title: "Pyradiomics In 3D Slicer Install Via Extension Manager"
+date: 2022-01-10
+url: https://discourse.slicer.org/t/21394
+---
+
 # Pyradiomics in 3D Slicer - install via Extension Manager?
 
 **Topic ID**: 21394

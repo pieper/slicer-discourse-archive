@@ -1,3 +1,10 @@
+---
+topic_id: 9121
+title: "Always Display Annotation Or Model On Top In 3D View"
+date: 2019-11-13
+url: https://discourse.slicer.org/t/9121
+---
+
 # Always display annotation or model on top in 3D view
 
 **Topic ID**: 9121

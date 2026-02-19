@@ -1,3 +1,10 @@
+---
+topic_id: 19820
+title: "3D Slicer For Segmentation Of Lima Lad Bypass With Severe Ca"
+date: 2021-09-23
+url: https://discourse.slicer.org/t/19820
+---
+
 # 3D Slicer for segmentation of LIMA-LAD Bypass with severe calcification
 
 **Topic ID**: 19820

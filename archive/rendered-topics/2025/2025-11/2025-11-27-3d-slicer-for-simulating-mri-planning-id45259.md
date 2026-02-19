@@ -1,3 +1,10 @@
+---
+topic_id: 45259
+title: "3D Slicer For Simulating Mri Planning"
+date: 2025-11-27
+url: https://discourse.slicer.org/t/45259
+---
+
 # 3D Slicer for simulating MRI planning
 
 **Topic ID**: 45259

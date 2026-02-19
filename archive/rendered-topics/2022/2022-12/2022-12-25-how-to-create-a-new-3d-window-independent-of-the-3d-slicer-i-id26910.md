@@ -1,3 +1,10 @@
+---
+topic_id: 26910
+title: "How To Create A New 3D Window Independent Of The 3D Slicer I"
+date: 2022-12-25
+url: https://discourse.slicer.org/t/26910
+---
+
 # How to create a new 3D-window independent of the 3d slicer interface
 
 **Topic ID**: 26910

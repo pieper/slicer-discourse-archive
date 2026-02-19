@@ -1,3 +1,10 @@
+---
+topic_id: 37207
+title: "Speed Issues During Segmentation"
+date: 2024-07-05
+url: https://discourse.slicer.org/t/37207
+---
+
 # Speed issues during segmentation
 
 **Topic ID**: 37207

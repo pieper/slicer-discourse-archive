@@ -1,3 +1,10 @@
+---
+topic_id: 21902
+title: "Slicer Modules Markups Logic Addnewfiducialnode Does Not Wor"
+date: 2022-02-10
+url: https://discourse.slicer.org/t/21902
+---
+
 # slicer.modules.markups.logic().AddNewFiducialNode() does not work in preview release
 
 **Topic ID**: 21902

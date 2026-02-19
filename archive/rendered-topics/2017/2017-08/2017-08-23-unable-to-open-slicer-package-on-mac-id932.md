@@ -1,3 +1,10 @@
+---
+topic_id: 932
+title: "Unable To Open Slicer Package On Mac"
+date: 2017-08-23
+url: https://discourse.slicer.org/t/932
+---
+
 # Unable to open Slicer package on Mac
 
 **Topic ID**: 932

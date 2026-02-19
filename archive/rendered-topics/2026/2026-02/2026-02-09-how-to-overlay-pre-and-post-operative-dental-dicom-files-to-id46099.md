@@ -1,3 +1,10 @@
+---
+topic_id: 46099
+title: "How To Overlay Pre And Post Operative Dental Dicom Files To"
+date: 2026-02-09
+url: https://discourse.slicer.org/t/46099
+---
+
 # How to overlay pre- and post-operative dental DICOM files to measure bone gain ?
 
 **Topic ID**: 46099

@@ -1,3 +1,10 @@
+---
+topic_id: 7646
+title: "Side By Side View How To Enable The Green Slice To Compare W"
+date: 2019-07-17
+url: https://discourse.slicer.org/t/7646
+---
+
 # Side by side view: How to enable the green slice to compare with the red one?
 
 **Topic ID**: 7646

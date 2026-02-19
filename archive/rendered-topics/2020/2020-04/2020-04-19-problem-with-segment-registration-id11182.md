@@ -1,3 +1,10 @@
+---
+topic_id: 11182
+title: "Problem With Segment Registration"
+date: 2020-04-19
+url: https://discourse.slicer.org/t/11182
+---
+
 # Problem with Segment registration
 
 **Topic ID**: 11182

@@ -1,3 +1,10 @@
+---
+topic_id: 37055
+title: "Designing A Mandible Plate Model"
+date: 2024-06-26
+url: https://discourse.slicer.org/t/37055
+---
+
 # Designing a mandible plate model
 
 **Topic ID**: 37055

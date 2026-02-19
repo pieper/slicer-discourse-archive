@@ -1,3 +1,10 @@
+---
+topic_id: 37291
+title: "Export Dicom Registration Without Anonymizing Series"
+date: 2024-07-09
+url: https://discourse.slicer.org/t/37291
+---
+
 # Export DICOM registration without anonymizing series
 
 **Topic ID**: 37291

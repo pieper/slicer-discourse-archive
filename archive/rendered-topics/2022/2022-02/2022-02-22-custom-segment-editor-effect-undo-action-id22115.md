@@ -1,3 +1,10 @@
+---
+topic_id: 22115
+title: "Custom Segment Editor Effect Undo Action"
+date: 2022-02-22
+url: https://discourse.slicer.org/t/22115
+---
+
 # Custom Segment Editor effect - Undo action
 
 **Topic ID**: 22115

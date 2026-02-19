@@ -1,3 +1,10 @@
+---
+topic_id: 32056
+title: "Need Help Understanding How Slicer Dicom Database Is Initial"
+date: 2023-10-05
+url: https://discourse.slicer.org/t/32056
+---
+
 # Need help understanding how Slicer DICOM database is initialized
 
 **Topic ID**: 32056

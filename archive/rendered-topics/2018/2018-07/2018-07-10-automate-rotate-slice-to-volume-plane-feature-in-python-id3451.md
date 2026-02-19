@@ -1,3 +1,10 @@
+---
+topic_id: 3451
+title: "Automate Rotate Slice To Volume Plane Feature In Python"
+date: 2018-07-10
+url: https://discourse.slicer.org/t/3451
+---
+
 # Automate "Rotate slice to volume plane" feature in Python
 
 **Topic ID**: 3451

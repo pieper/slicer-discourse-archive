@@ -1,3 +1,10 @@
+---
+topic_id: 45744
+title: "How To Change From Radiological View To Neurological View"
+date: 2026-01-12
+url: https://discourse.slicer.org/t/45744
+---
+
 # How to change from Radiological view to Neurological view?
 
 **Topic ID**: 45744

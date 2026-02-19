@@ -1,3 +1,10 @@
+---
+topic_id: 24677
+title: "How Can I Make My Own Template For Spharm Pdm In 3D Slicer"
+date: 2022-08-08
+url: https://discourse.slicer.org/t/24677
+---
+
 # How can I make my own template for SPHARM-PDM in 3D slicer?
 
 **Topic ID**: 24677

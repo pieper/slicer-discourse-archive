@@ -1,3 +1,10 @@
+---
+topic_id: 24291
+title: "Draw A Line Connecting 2 Landmarks Using Python"
+date: 2022-07-12
+url: https://discourse.slicer.org/t/24291
+---
+
 # Draw a line connecting 2 landmarks using Python
 
 **Topic ID**: 24291

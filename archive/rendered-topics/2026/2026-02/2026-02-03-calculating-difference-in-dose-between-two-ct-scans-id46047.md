@@ -1,3 +1,10 @@
+---
+topic_id: 46047
+title: "Calculating Difference In Dose Between Two Ct Scans"
+date: 2026-02-03
+url: https://discourse.slicer.org/t/46047
+---
+
 # Calculating difference in dose between two CT scans
 
 **Topic ID**: 46047

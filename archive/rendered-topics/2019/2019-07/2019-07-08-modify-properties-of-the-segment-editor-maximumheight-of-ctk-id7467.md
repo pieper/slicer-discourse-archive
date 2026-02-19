@@ -1,3 +1,10 @@
+---
+topic_id: 7467
+title: "Modify Properties Of The Segment Editor Maximumheight Of Ctk"
+date: 2019-07-08
+url: https://discourse.slicer.org/t/7467
+---
+
 # Modify properties of the segment editor (maximumHeight of ctkExpandableWidget)
 
 **Topic ID**: 7467

@@ -1,3 +1,10 @@
+---
+topic_id: 15961
+title: "Endoscopy Flythrough Loop Doesnt Start From The Same Camera"
+date: 2021-02-11
+url: https://discourse.slicer.org/t/15961
+---
+
 # Endoscopy flythrough loop doesn't start from the same camera angle and changes every loop
 
 **Topic ID**: 15961

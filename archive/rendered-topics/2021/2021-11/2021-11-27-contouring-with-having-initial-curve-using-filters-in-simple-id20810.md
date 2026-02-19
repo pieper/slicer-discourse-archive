@@ -1,3 +1,10 @@
+---
+topic_id: 20810
+title: "Contouring With Having Initial Curve Using Filters In Simple"
+date: 2021-11-27
+url: https://discourse.slicer.org/t/20810
+---
+
 # Contouring with having initial curve using filters in Simple ITK module?
 
 **Topic ID**: 20810

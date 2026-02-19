@@ -1,3 +1,10 @@
+---
+topic_id: 8403
+title: "Flywheel Connect 3D Slicer Extension"
+date: 2019-09-12
+url: https://discourse.slicer.org/t/8403
+---
+
 # Flywheel-Connect 3D Slicer Extension
 
 **Topic ID**: 8403

@@ -1,3 +1,10 @@
+---
+topic_id: 9842
+title: "Show Scalar Bar Programmatically"
+date: 2020-01-16
+url: https://discourse.slicer.org/t/9842
+---
+
 # Show scalar bar programmatically
 
 **Topic ID**: 9842

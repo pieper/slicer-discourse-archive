@@ -1,3 +1,10 @@
+---
+topic_id: 1814
+title: "Using Segmentations From Changetracker"
+date: 2018-01-11
+url: https://discourse.slicer.org/t/1814
+---
+
 # Using segmentations from ChangeTracker
 
 **Topic ID**: 1814

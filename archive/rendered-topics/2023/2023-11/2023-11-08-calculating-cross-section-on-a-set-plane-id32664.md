@@ -1,3 +1,10 @@
+---
+topic_id: 32664
+title: "Calculating Cross Section On A Set Plane"
+date: 2023-11-08
+url: https://discourse.slicer.org/t/32664
+---
+
 # Calculating cross section on a set plane
 
 **Topic ID**: 32664

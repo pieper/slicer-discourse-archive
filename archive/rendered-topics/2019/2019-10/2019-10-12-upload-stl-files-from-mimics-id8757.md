@@ -1,3 +1,10 @@
+---
+topic_id: 8757
+title: "Upload Stl Files From Mimics"
+date: 2019-10-12
+url: https://discourse.slicer.org/t/8757
+---
+
 # upload STL files from Mimics
 
 **Topic ID**: 8757

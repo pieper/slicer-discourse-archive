@@ -1,3 +1,10 @@
+---
+topic_id: 14717
+title: "Should We Include Download Of Sampledata Not Available For C"
+date: 2020-11-20
+url: https://discourse.slicer.org/t/14717
+---
+
 # Should we include download of SampleData not available for commercial use?
 
 **Topic ID**: 14717

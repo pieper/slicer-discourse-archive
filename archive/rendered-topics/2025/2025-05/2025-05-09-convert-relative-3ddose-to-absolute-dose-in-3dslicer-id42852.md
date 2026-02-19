@@ -1,3 +1,10 @@
+---
+topic_id: 42852
+title: "Convert Relative 3Ddose To Absolute Dose In 3Dslicer"
+date: 2025-05-09
+url: https://discourse.slicer.org/t/42852
+---
+
 # Convert relative 3ddose to absolute dose in 3DSlicer
 
 **Topic ID**: 42852

@@ -1,3 +1,10 @@
+---
+topic_id: 3200
+title: "How To Get The Command Line Window On Stable Version Of Slic"
+date: 2018-06-15
+url: https://discourse.slicer.org/t/3200
+---
+
 # How to get the command line window on stable version of slicer
 
 **Topic ID**: 3200

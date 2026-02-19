@@ -1,3 +1,10 @@
+---
+topic_id: 25536
+title: "Mandible Reconstruction With Rib With Slicer"
+date: 2022-10-03
+url: https://discourse.slicer.org/t/25536
+---
+
 # Mandible reconstruction with rib with Slicer
 
 **Topic ID**: 25536

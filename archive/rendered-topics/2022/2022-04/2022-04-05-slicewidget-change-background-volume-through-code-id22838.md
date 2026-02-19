@@ -1,3 +1,10 @@
+---
+topic_id: 22838
+title: "Slicewidget Change Background Volume Through Code"
+date: 2022-04-05
+url: https://discourse.slicer.org/t/22838
+---
+
 # SliceWidget change background volume through code
 
 **Topic ID**: 22838

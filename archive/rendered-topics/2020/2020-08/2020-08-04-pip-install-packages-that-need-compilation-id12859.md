@@ -1,3 +1,10 @@
+---
+topic_id: 12859
+title: "Pip Install Packages That Need Compilation"
+date: 2020-08-04
+url: https://discourse.slicer.org/t/12859
+---
+
 # Pip install packages that need compilation
 
 **Topic ID**: 12859

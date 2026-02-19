@@ -1,3 +1,10 @@
+---
+topic_id: 25205
+title: "Why Does Brain Tumor Segmentation Type Of Dataset Have No Va"
+date: 2022-09-11
+url: https://discourse.slicer.org/t/25205
+---
+
 # Why does Brain Tumor Segmentation type of dataset have no values in the array
 
 **Topic ID**: 25205

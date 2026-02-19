@@ -1,3 +1,10 @@
+---
+topic_id: 8470
+title: "Refine Seeds Of Heart"
+date: 2019-09-17
+url: https://discourse.slicer.org/t/8470
+---
+
 # Refine seeds of heart
 
 **Topic ID**: 8470

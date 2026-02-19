@@ -1,3 +1,10 @@
+---
+topic_id: 10069
+title: "Dicom Image Size"
+date: 2020-02-02
+url: https://discourse.slicer.org/t/10069
+---
+
 # DICOM image size
 
 **Topic ID**: 10069

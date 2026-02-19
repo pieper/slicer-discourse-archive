@@ -1,3 +1,10 @@
+---
+topic_id: 28658
+title: "Problem In Interfacing 3D Slicer And Motive"
+date: 2023-03-29
+url: https://discourse.slicer.org/t/28658
+---
+
 # Problem in interfacing 3d slicer and motive
 
 **Topic ID**: 28658

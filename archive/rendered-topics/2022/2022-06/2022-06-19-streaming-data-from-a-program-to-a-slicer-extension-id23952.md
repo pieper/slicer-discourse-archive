@@ -1,3 +1,10 @@
+---
+topic_id: 23952
+title: "Streaming Data From A Program To A Slicer Extension"
+date: 2022-06-19
+url: https://discourse.slicer.org/t/23952
+---
+
 # Streaming data from a program to a Slicer extension
 
 **Topic ID**: 23952

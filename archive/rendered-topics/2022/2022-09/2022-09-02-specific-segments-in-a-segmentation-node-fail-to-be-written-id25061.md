@@ -1,3 +1,10 @@
+---
+topic_id: 25061
+title: "Specific Segments In A Segmentation Node Fail To Be Written"
+date: 2022-09-02
+url: https://discourse.slicer.org/t/25061
+---
+
 # Specific segments in a segmentation node fail to be written to a DICOM RT file
 
 **Topic ID**: 25061

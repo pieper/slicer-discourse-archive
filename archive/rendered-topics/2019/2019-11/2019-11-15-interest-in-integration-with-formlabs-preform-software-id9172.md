@@ -1,3 +1,10 @@
+---
+topic_id: 9172
+title: "Interest In Integration With Formlabs Preform Software"
+date: 2019-11-15
+url: https://discourse.slicer.org/t/9172
+---
+
 # Interest in integration with Formlabs PreForm software?
 
 **Topic ID**: 9172

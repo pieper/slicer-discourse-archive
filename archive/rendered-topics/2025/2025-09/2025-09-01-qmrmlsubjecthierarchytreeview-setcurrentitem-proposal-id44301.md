@@ -1,3 +1,10 @@
+---
+topic_id: 44301
+title: "Qmrmlsubjecthierarchytreeview Setcurrentitem Proposal"
+date: 2025-09-01
+url: https://discourse.slicer.org/t/44301
+---
+
 # qMRMLSubjectHierarchyTreeView::setCurrentItem proposal
 
 **Topic ID**: 44301

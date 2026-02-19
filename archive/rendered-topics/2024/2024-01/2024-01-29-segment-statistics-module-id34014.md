@@ -1,3 +1,10 @@
+---
+topic_id: 34014
+title: "Segment Statistics Module"
+date: 2024-01-29
+url: https://discourse.slicer.org/t/34014
+---
+
 # Segment Statistics Module
 
 **Topic ID**: 34014

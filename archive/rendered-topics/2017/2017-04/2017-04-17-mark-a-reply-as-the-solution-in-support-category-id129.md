@@ -1,3 +1,10 @@
+---
+topic_id: 129
+title: "Mark A Reply As The Solution In Support Category"
+date: 2017-04-17
+url: https://discourse.slicer.org/t/129
+---
+
 # "Mark a reply as the solution" in Support category
 
 **Topic ID**: 129

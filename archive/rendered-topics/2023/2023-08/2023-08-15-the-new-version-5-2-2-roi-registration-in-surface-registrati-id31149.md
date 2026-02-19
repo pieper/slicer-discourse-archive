@@ -1,3 +1,10 @@
+---
+topic_id: 31149
+title: "The New Version 5 2 2 Roi Registration In Surface Registrati"
+date: 2023-08-15
+url: https://discourse.slicer.org/t/31149
+---
+
 # The new version 5.2.2 ROI Registration in Surface registration cannot add online 1 landmark unlike version 4.5.0-1
 
 **Topic ID**: 31149

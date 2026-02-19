@@ -1,3 +1,10 @@
+---
+topic_id: 24943
+title: "Seek For Quick Registration Method"
+date: 2022-08-27
+url: https://discourse.slicer.org/t/24943
+---
+
 # Seek for quick registration method
 
 **Topic ID**: 24943

@@ -1,3 +1,10 @@
+---
+topic_id: 17532
+title: "How To Export Slices Into System Without Loosing Information"
+date: 2021-05-08
+url: https://discourse.slicer.org/t/17532
+---
+
 # How to export slices into system without loosing information
 
 **Topic ID**: 17532

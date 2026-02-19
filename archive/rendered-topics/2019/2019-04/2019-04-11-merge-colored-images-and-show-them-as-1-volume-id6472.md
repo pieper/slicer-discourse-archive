@@ -1,3 +1,10 @@
+---
+topic_id: 6472
+title: "Merge Colored Images And Show Them As 1 Volume"
+date: 2019-04-11
+url: https://discourse.slicer.org/t/6472
+---
+
 # Merge colored images and show them as 1 volume
 
 **Topic ID**: 6472

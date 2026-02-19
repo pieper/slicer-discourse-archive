@@ -1,3 +1,10 @@
+---
+topic_id: 8518
+title: "Play Back Stl Models"
+date: 2019-09-21
+url: https://discourse.slicer.org/t/8518
+---
+
 # Play back Stl models
 
 **Topic ID**: 8518

@@ -1,3 +1,10 @@
+---
+topic_id: 10375
+title: "Special Characters In Filenames And Strings Are Now Allowed"
+date: 2020-02-21
+url: https://discourse.slicer.org/t/10375
+---
+
 # Special characters in filenames and strings are now allowed
 
 **Topic ID**: 10375

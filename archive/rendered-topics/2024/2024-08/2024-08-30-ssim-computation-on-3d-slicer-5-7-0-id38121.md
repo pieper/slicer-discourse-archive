@@ -1,3 +1,10 @@
+---
+topic_id: 38121
+title: "Ssim Computation On 3D Slicer 5 7 0"
+date: 2024-08-30
+url: https://discourse.slicer.org/t/38121
+---
+
 # SSIM computation on 3D slicer 5.7.0
 
 **Topic ID**: 38121

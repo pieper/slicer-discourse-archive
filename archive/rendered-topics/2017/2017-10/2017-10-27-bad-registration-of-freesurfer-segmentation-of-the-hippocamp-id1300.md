@@ -1,3 +1,10 @@
+---
+topic_id: 1300
+title: "Bad Registration Of Freesurfer Segmentation Of The Hippocamp"
+date: 2017-10-27
+url: https://discourse.slicer.org/t/1300
+---
+
 # Bad registration of Freesurfer segmentation of the hippocampus
 
 **Topic ID**: 1300

@@ -1,3 +1,10 @@
+---
+topic_id: 505
+title: "Interacting With Segment Editor Widget Through Python"
+date: 2017-06-14
+url: https://discourse.slicer.org/t/505
+---
+
 # Interacting with Segment Editor Widget through Python
 
 **Topic ID**: 505

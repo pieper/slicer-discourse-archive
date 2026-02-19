@@ -1,3 +1,10 @@
+---
+topic_id: 24986
+title: "How To Initialize 100 Datanode For A New Created Sequencenod"
+date: 2022-08-30
+url: https://discourse.slicer.org/t/24986
+---
+
 # How to initialize 100 DataNode for a new created SequenceNode without adding into the scene?
 
 **Topic ID**: 24986

@@ -1,3 +1,10 @@
+---
+topic_id: 35314
+title: "Load Specific Dicom Data With Python In Slicer 5 6 1"
+date: 2024-04-05
+url: https://discourse.slicer.org/t/35314
+---
+
 # Load specific DICOM Data with Python in Slicer 5.6.1
 
 **Topic ID**: 35314

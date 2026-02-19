@@ -1,3 +1,10 @@
+---
+topic_id: 26712
+title: "Help On Customizing Synchronization Behavior For Linked View"
+date: 2022-12-13
+url: https://discourse.slicer.org/t/26712
+---
+
 # Help on customizing synchronization behavior for linked views of different volumes
 
 **Topic ID**: 26712

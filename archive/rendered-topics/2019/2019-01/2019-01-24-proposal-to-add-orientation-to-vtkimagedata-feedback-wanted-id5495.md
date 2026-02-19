@@ -1,3 +1,10 @@
+---
+topic_id: 5495
+title: "Proposal To Add Orientation To Vtkimagedata Feedback Wanted"
+date: 2019-01-24
+url: https://discourse.slicer.org/t/5495
+---
+
 # Proposal to add orientation to vtkImageData- Feedback Wanted
 
 **Topic ID**: 5495

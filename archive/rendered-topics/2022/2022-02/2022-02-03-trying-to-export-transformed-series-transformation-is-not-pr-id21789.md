@@ -1,3 +1,10 @@
+---
+topic_id: 21789
+title: "Trying To Export Transformed Series Transformation Is Not Pr"
+date: 2022-02-03
+url: https://discourse.slicer.org/t/21789
+---
+
 # Trying to export transformed series, transformation is not present in exported series
 
 **Topic ID**: 21789

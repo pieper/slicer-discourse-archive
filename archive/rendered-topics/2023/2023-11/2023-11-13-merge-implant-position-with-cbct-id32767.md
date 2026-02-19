@@ -1,3 +1,10 @@
+---
+topic_id: 32767
+title: "Merge Implant Position With Cbct"
+date: 2023-11-13
+url: https://discourse.slicer.org/t/32767
+---
+
 # Merge implant position with cbct
 
 **Topic ID**: 32767

@@ -1,3 +1,10 @@
+---
+topic_id: 26546
+title: "Rtslicer Isodose Lines"
+date: 2022-12-02
+url: https://discourse.slicer.org/t/26546
+---
+
 # RTslicer isodose lines
 
 **Topic ID**: 26546

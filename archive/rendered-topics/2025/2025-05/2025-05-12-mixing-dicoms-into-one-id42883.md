@@ -1,3 +1,10 @@
+---
+topic_id: 42883
+title: "Mixing Dicoms Into One"
+date: 2025-05-12
+url: https://discourse.slicer.org/t/42883
+---
+
 # Mixing Dicoms into one
 
 **Topic ID**: 42883

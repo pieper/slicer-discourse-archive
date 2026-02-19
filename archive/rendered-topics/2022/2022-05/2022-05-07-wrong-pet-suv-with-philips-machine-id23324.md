@@ -1,3 +1,10 @@
+---
+topic_id: 23324
+title: "Wrong Pet Suv With Philips Machine"
+date: 2022-05-07
+url: https://discourse.slicer.org/t/23324
+---
+
 # Wrong PET SUV with Philips machine
 
 **Topic ID**: 23324

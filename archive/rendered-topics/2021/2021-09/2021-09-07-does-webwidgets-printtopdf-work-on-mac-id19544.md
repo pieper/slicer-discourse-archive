@@ -1,3 +1,10 @@
+---
+topic_id: 19544
+title: "Does Webwidgets Printtopdf Work On Mac"
+date: 2021-09-07
+url: https://discourse.slicer.org/t/19544
+---
+
 # Does WebWidget's printToPdf work on Mac?
 
 **Topic ID**: 19544

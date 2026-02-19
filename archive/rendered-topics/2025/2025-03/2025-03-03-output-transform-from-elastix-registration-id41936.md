@@ -1,3 +1,10 @@
+---
+topic_id: 41936
+title: "Output Transform From Elastix Registration"
+date: 2025-03-03
+url: https://discourse.slicer.org/t/41936
+---
+
 # Output transform from Elastix Registration
 
 **Topic ID**: 41936

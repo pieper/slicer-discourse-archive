@@ -1,3 +1,10 @@
+---
+topic_id: 28675
+title: "Show Displacement Matrix And Log File During Image Registrat"
+date: 2023-03-30
+url: https://discourse.slicer.org/t/28675
+---
+
 # Show displacement matrix and log file during image registration
 
 **Topic ID**: 28675

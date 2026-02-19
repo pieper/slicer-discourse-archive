@@ -1,3 +1,10 @@
+---
+topic_id: 11442
+title: "Display Different Images And Models In Different Views"
+date: 2020-05-07
+url: https://discourse.slicer.org/t/11442
+---
+
 # Display different images and models in different views
 
 **Topic ID**: 11442

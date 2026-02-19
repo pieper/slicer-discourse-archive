@@ -1,3 +1,10 @@
+---
+topic_id: 18188
+title: "Radiomic Features With Identical Values"
+date: 2021-06-17
+url: https://discourse.slicer.org/t/18188
+---
+
 # Radiomic features with identical values
 
 **Topic ID**: 18188

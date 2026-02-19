@@ -1,3 +1,10 @@
+---
+topic_id: 42169
+title: "Mark Up Points Exporting"
+date: 2025-03-16
+url: https://discourse.slicer.org/t/42169
+---
+
 # Mark up points Exporting
 
 **Topic ID**: 42169

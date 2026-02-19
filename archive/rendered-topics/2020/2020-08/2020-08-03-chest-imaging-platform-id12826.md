@@ -1,3 +1,10 @@
+---
+topic_id: 12826
+title: "Chest Imaging Platform"
+date: 2020-08-03
+url: https://discourse.slicer.org/t/12826
+---
+
 # Chest Imaging Platform
 
 **Topic ID**: 12826

@@ -1,3 +1,10 @@
+---
+topic_id: 34612
+title: "Flipimagefilter In Itk Simple Filters Broken"
+date: 2024-02-29
+url: https://discourse.slicer.org/t/34612
+---
+
 # FlipImageFilter (in ITK Simple filters) broken?
 
 **Topic ID**: 34612

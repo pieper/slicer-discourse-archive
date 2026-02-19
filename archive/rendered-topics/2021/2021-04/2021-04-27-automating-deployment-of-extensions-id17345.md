@@ -1,3 +1,10 @@
+---
+topic_id: 17345
+title: "Automating Deployment Of Extensions"
+date: 2021-04-27
+url: https://discourse.slicer.org/t/17345
+---
+
 # Automating deployment of extensions
 
 **Topic ID**: 17345

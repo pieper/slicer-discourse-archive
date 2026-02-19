@@ -1,3 +1,10 @@
+---
+topic_id: 43354
+title: "Error Messages Showing Such As Reference Image In Series Doe"
+date: 2025-06-14
+url: https://discourse.slicer.org/t/43354
+---
+
 # Error messages showing such as "reference image in series does not contain geometry information. Please use caution.' and ' Could not load: 1000: Key Images as a Scalar Volume'
 
 **Topic ID**: 43354

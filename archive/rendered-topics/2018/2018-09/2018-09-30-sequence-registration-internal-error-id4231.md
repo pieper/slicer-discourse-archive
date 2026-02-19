@@ -1,3 +1,10 @@
+---
+topic_id: 4231
+title: "Sequence Registration Internal Error"
+date: 2018-09-30
+url: https://discourse.slicer.org/t/4231
+---
+
 # Sequence registration internal error
 
 **Topic ID**: 4231

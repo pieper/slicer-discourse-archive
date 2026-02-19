@@ -1,3 +1,10 @@
+---
+topic_id: 26080
+title: "How Can I Segment Multiple Teeth In Stl"
+date: 2022-11-05
+url: https://discourse.slicer.org/t/26080
+---
+
 # How can i segment multiple teeth in STL 
 
 **Topic ID**: 26080

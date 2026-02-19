@@ -1,3 +1,10 @@
+---
+topic_id: 11482
+title: "Multiple Voi In Pyradiomics"
+date: 2020-05-10
+url: https://discourse.slicer.org/t/11482
+---
+
 # Multiple VOI in pyradiomics
 
 **Topic ID**: 11482

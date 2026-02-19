@@ -1,3 +1,10 @@
+---
+topic_id: 23711
+title: "Why The Two Fiducial Points Have The Same Value"
+date: 2022-06-05
+url: https://discourse.slicer.org/t/23711
+---
+
 # Why the two fiducial points have the same value?
 
 **Topic ID**: 23711

@@ -1,3 +1,10 @@
+---
+topic_id: 16352
+title: "How To Add N Rt Dose Volume In 3D Slicer"
+date: 2021-03-04
+url: https://discourse.slicer.org/t/16352
+---
+
 # How to add n RT Dose volume in 3D Slicer
 
 **Topic ID**: 16352

@@ -1,3 +1,10 @@
+---
+topic_id: 34403
+title: "Dark Volume Rendering"
+date: 2024-02-19
+url: https://discourse.slicer.org/t/34403
+---
+
 # Dark volume rendering
 
 **Topic ID**: 34403

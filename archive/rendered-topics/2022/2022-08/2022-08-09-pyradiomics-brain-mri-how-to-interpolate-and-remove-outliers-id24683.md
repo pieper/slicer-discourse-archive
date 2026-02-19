@@ -1,3 +1,10 @@
+---
+topic_id: 24683
+title: "Pyradiomics Brain Mri How To Interpolate And Remove Outliers"
+date: 2022-08-09
+url: https://discourse.slicer.org/t/24683
+---
+
 # Pyradiomics, Brain MRI: How to Interpolate and remove outliers? 
 
 **Topic ID**: 24683

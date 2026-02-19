@@ -1,3 +1,10 @@
+---
+topic_id: 19746
+title: "Lungctsegmenter Now Includes Cip Airway Segmentation"
+date: 2021-09-19
+url: https://discourse.slicer.org/t/19746
+---
+
 # LungCTSegmenter now includes CIP airway segmentation
 
 **Topic ID**: 19746

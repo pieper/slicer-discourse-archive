@@ -1,3 +1,10 @@
+---
+topic_id: 32363
+title: "No Table Showed After Radiomic Features In Slicer"
+date: 2023-10-21
+url: https://discourse.slicer.org/t/32363
+---
+
 # No table showed after radiomic features in slicer
 
 **Topic ID**: 32363

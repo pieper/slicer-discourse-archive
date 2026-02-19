@@ -1,3 +1,10 @@
+---
+topic_id: 11029
+title: "Mri Abdominal Fat Slice Quantification"
+date: 2020-04-07
+url: https://discourse.slicer.org/t/11029
+---
+
 # MRI abdominal fat slice quantification
 
 **Topic ID**: 11029

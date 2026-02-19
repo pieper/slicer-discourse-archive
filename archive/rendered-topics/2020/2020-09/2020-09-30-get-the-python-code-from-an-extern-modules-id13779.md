@@ -1,3 +1,10 @@
+---
+topic_id: 13779
+title: "Get The Python Code From An Extern Modules"
+date: 2020-09-30
+url: https://discourse.slicer.org/t/13779
+---
+
 # Get the python code from an extern modules
 
 **Topic ID**: 13779

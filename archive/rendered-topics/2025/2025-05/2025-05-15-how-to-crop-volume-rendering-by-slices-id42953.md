@@ -1,3 +1,10 @@
+---
+topic_id: 42953
+title: "How To Crop Volume Rendering By Slices"
+date: 2025-05-15
+url: https://discourse.slicer.org/t/42953
+---
+
 # How to crop volume rendering by slices
 
 **Topic ID**: 42953

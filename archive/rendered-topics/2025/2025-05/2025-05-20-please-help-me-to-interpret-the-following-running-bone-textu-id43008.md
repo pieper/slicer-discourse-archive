@@ -1,3 +1,10 @@
+---
+topic_id: 43008
+title: "Please Help Me To Interpret The Following Running Bone Textu"
+date: 2025-05-20
+url: https://discourse.slicer.org/t/43008
+---
+
 # Please help me to interpret the following running bone texture module
 
 **Topic ID**: 43008

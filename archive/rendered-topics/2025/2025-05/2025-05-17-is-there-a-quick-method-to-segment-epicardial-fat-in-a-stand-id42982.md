@@ -1,3 +1,10 @@
+---
+topic_id: 42982
+title: "Is There A Quick Method To Segment Epicardial Fat In A Stand"
+date: 2025-05-17
+url: https://discourse.slicer.org/t/42982
+---
+
 # Is there a quick method to segment epicardial fat in a standard chest CT?
 
 **Topic ID**: 42982

@@ -1,3 +1,10 @@
+---
+topic_id: 8134
+title: "Anti Alias Model In Slice Display"
+date: 2019-08-22
+url: https://discourse.slicer.org/t/8134
+---
+
 # Anti Alias Model in Slice Display
 
 **Topic ID**: 8134

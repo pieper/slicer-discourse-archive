@@ -1,3 +1,10 @@
+---
+topic_id: 5094
+title: "Light Weigh Robot Igt"
+date: 2018-12-16
+url: https://discourse.slicer.org/t/5094
+---
+
 # Light Weigh Robot IGT
 
 **Topic ID**: 5094

@@ -1,3 +1,10 @@
+---
+topic_id: 20519
+title: "Erase Using A Segment As Only Editable Area"
+date: 2021-11-07
+url: https://discourse.slicer.org/t/20519
+---
+
 # Erase using a segment as only editable area
 
 **Topic ID**: 20519

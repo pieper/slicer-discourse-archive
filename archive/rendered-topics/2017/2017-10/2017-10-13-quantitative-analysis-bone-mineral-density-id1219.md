@@ -1,3 +1,10 @@
+---
+topic_id: 1219
+title: "Quantitative Analysis Bone Mineral Density"
+date: 2017-10-13
+url: https://discourse.slicer.org/t/1219
+---
+
 # Quantitative analysis: Bone Mineral Density
 
 **Topic ID**: 1219

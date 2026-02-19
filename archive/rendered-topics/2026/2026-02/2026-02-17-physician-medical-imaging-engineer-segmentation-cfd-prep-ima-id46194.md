@@ -1,3 +1,10 @@
+---
+topic_id: 46194
+title: "Physician Medical Imaging Engineer Segmentation Cfd Prep Ima"
+date: 2026-02-17
+url: https://discourse.slicer.org/t/46194
+---
+
 # Physician & Medical Imaging Engineer | Segmentation, CFD Prep & Imaging AI
 
 **Topic ID**: 46194

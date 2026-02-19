@@ -1,3 +1,10 @@
+---
+topic_id: 27696
+title: "How To Setup Slicers Web Server"
+date: 2023-02-08
+url: https://discourse.slicer.org/t/27696
+---
+
 # How to setup slicer's web server?
 
 **Topic ID**: 27696

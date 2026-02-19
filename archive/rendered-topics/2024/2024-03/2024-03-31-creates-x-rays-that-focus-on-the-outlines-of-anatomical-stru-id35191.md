@@ -1,3 +1,10 @@
+---
+topic_id: 35191
+title: "Creates X Rays That Focus On The Outlines Of Anatomical Stru"
+date: 2024-03-31
+url: https://discourse.slicer.org/t/35191
+---
+
 # Creates x-rays that focus on the outlines of anatomical structures
 
 **Topic ID**: 35191

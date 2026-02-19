@@ -1,3 +1,10 @@
+---
+topic_id: 6280
+title: "Scalar Volume Geometry Error"
+date: 2019-03-25
+url: https://discourse.slicer.org/t/6280
+---
+
 # Scalar volume geometry error
 
 **Topic ID**: 6280

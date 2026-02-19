@@ -1,3 +1,10 @@
+---
+topic_id: 11979
+title: "Modify Stl Files"
+date: 2020-06-10
+url: https://discourse.slicer.org/t/11979
+---
+
 # modify STL files
 
 **Topic ID**: 11979

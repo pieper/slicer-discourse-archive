@@ -1,3 +1,10 @@
+---
+topic_id: 16096
+title: "Is It Possible To Enable Interaction Points For A Specific C"
+date: 2021-02-19
+url: https://discourse.slicer.org/t/16096
+---
+
 # Is it possible to enable interaction points for a specific control point with a Marksup node?
 
 **Topic ID**: 16096

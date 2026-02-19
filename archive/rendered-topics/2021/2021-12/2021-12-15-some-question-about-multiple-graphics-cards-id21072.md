@@ -1,3 +1,10 @@
+---
+topic_id: 21072
+title: "Some Question About Multiple Graphics Cards"
+date: 2021-12-15
+url: https://discourse.slicer.org/t/21072
+---
+
 # Some question about multiple graphics cards
 
 **Topic ID**: 21072

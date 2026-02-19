@@ -1,3 +1,10 @@
+---
+topic_id: 10228
+title: "Using 3D Slicer For Ml Dataset Curation"
+date: 2020-02-12
+url: https://discourse.slicer.org/t/10228
+---
+
 # Using 3D Slicer for ML dataset curation?
 
 **Topic ID**: 10228

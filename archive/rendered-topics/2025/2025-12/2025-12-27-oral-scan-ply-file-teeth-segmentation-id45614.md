@@ -1,3 +1,10 @@
+---
+topic_id: 45614
+title: "Oral Scan Ply File Teeth Segmentation"
+date: 2025-12-27
+url: https://discourse.slicer.org/t/45614
+---
+
 # Oral scan ply file, teeth segmentation
 
 **Topic ID**: 45614

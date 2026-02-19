@@ -1,3 +1,10 @@
+---
+topic_id: 6511
+title: "Slicer Qa Dashboard Updated Ui"
+date: 2019-04-16
+url: https://discourse.slicer.org/t/6511
+---
+
 # Slicer QA Dashboard: Updated UI
 
 **Topic ID**: 6511

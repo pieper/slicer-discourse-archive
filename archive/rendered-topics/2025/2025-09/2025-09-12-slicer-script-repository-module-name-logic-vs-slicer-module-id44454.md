@@ -1,3 +1,10 @@
+---
+topic_id: 44454
+title: "Slicer Script Repository Module Name Logic Vs Slicer Module"
+date: 2025-09-12
+url: https://discourse.slicer.org/t/44454
+---
+
 # Slicer script repository: module_name.logic vs slicer.module_name.widgetRepresentation().self().logic() vs slicer.modules.logic()
 
 **Topic ID**: 44454

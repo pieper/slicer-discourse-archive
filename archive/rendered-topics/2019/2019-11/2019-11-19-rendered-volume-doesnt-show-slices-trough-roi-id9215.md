@@ -1,3 +1,10 @@
+---
+topic_id: 9215
+title: "Rendered Volume Doesnt Show Slices Trough Roi"
+date: 2019-11-19
+url: https://discourse.slicer.org/t/9215
+---
+
 # Rendered volume doesn't show slices trough ROI
 
 **Topic ID**: 9215

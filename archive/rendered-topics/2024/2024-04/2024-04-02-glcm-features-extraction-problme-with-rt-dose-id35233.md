@@ -1,3 +1,10 @@
+---
+topic_id: 35233
+title: "Glcm Features Extraction Problme With Rt Dose"
+date: 2024-04-02
+url: https://discourse.slicer.org/t/35233
+---
+
 # GLCM Features Extraction problme with RT Dose
 
 **Topic ID**: 35233

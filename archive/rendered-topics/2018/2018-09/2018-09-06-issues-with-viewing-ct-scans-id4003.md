@@ -1,3 +1,10 @@
+---
+topic_id: 4003
+title: "Issues With Viewing Ct Scans"
+date: 2018-09-06
+url: https://discourse.slicer.org/t/4003
+---
+
 # Issues with viewing CT scans
 
 **Topic ID**: 4003

@@ -1,3 +1,10 @@
+---
+topic_id: 26405
+title: "I Have Some Rendering Problem I Think I Cant Solve This By M"
+date: 2022-11-23
+url: https://discourse.slicer.org/t/26405
+---
+
 # I have some rendering problem , i think i can't solve this by myself
 
 **Topic ID**: 26405

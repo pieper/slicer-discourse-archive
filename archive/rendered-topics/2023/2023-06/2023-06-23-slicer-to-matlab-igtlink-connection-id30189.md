@@ -1,3 +1,10 @@
+---
+topic_id: 30189
+title: "Slicer To Matlab Igtlink Connection"
+date: 2023-06-23
+url: https://discourse.slicer.org/t/30189
+---
+
 # Slicer to Matlab IGTLink Connection
 
 **Topic ID**: 30189

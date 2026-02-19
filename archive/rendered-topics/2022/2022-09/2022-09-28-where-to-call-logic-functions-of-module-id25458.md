@@ -1,3 +1,10 @@
+---
+topic_id: 25458
+title: "Where To Call Logic Functions Of Module"
+date: 2022-09-28
+url: https://discourse.slicer.org/t/25458
+---
+
 # Where to call logic functions of module
 
 **Topic ID**: 25458

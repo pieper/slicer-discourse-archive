@@ -1,3 +1,10 @@
+---
+topic_id: 32042
+title: "Setting For Multi Tif Files"
+date: 2023-10-04
+url: https://discourse.slicer.org/t/32042
+---
+
 # Setting for multi tif files
 
 **Topic ID**: 32042

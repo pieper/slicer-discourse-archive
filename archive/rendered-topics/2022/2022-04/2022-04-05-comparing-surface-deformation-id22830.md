@@ -1,3 +1,10 @@
+---
+topic_id: 22830
+title: "Comparing Surface Deformation"
+date: 2022-04-05
+url: https://discourse.slicer.org/t/22830
+---
+
 # Comparing surface deformation
 
 **Topic ID**: 22830

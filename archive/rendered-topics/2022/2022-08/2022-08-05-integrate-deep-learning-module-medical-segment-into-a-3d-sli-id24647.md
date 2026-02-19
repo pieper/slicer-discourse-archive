@@ -1,3 +1,10 @@
+---
+topic_id: 24647
+title: "Integrate Deep Learning Module Medical Segment Into A 3D Sli"
+date: 2022-08-05
+url: https://discourse.slicer.org/t/24647
+---
+
 # Integrate deep learning module medical segment into a 3D slicer
 
 **Topic ID**: 24647

@@ -1,3 +1,10 @@
+---
+topic_id: 19772
+title: "Improve Recognizability Of Segment Editor Effects Icons"
+date: 2021-09-20
+url: https://discourse.slicer.org/t/19772
+---
+
 # Improve recognizability of Segment Editor effects icons
 
 **Topic ID**: 19772

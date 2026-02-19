@@ -1,3 +1,10 @@
+---
+topic_id: 27951
+title: "Release Of Slicer 5 2 2 In Progress"
+date: 2023-02-21
+url: https://discourse.slicer.org/t/27951
+---
+
 # Release of Slicer 5.2.2 in progress
 
 **Topic ID**: 27951

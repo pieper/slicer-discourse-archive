@@ -1,3 +1,10 @@
+---
+topic_id: 23891
+title: "Sliceropenigtlink Error"
+date: 2022-06-15
+url: https://discourse.slicer.org/t/23891
+---
+
 # SlicerOpenIGTLink error
 
 **Topic ID**: 23891

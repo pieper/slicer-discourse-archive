@@ -1,3 +1,10 @@
+---
+topic_id: 8941
+title: "Navigate To A Peripheral Pulmonary Lesion Ppl Solitary Pulmo"
+date: 2019-10-29
+url: https://discourse.slicer.org/t/8941
+---
+
 # Navigate to a peripheral pulmonary lesion (PPL) / Solitary Pulmonary Nodule (SPN)
 
 **Topic ID**: 8941

@@ -1,3 +1,10 @@
+---
+topic_id: 17329
+title: "Can 3D Slicer Reach Transparency In Volume Rendering Like Sy"
+date: 2021-04-26
+url: https://discourse.slicer.org/t/17329
+---
+
 # Can 3D slicer reach transparency in volume rendering like syngo do?
 
 **Topic ID**: 17329

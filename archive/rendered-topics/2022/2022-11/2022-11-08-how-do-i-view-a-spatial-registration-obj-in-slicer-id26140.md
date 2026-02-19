@@ -1,3 +1,10 @@
+---
+topic_id: 26140
+title: "How Do I View A Spatial Registration Obj In Slicer"
+date: 2022-11-08
+url: https://discourse.slicer.org/t/26140
+---
+
 # How do I view a Spatial Registration Obj in slicer?
 
 **Topic ID**: 26140

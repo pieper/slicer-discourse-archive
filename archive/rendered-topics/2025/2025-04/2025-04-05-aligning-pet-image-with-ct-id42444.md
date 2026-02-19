@@ -1,3 +1,10 @@
+---
+topic_id: 42444
+title: "Aligning Pet Image With Ct"
+date: 2025-04-05
+url: https://discourse.slicer.org/t/42444
+---
+
 # Aligning PET image with CT
 
 **Topic ID**: 42444

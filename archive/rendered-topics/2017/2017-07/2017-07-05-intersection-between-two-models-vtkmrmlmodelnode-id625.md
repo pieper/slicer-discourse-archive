@@ -1,3 +1,10 @@
+---
+topic_id: 625
+title: "Intersection Between Two Models Vtkmrmlmodelnode"
+date: 2017-07-05
+url: https://discourse.slicer.org/t/625
+---
+
 # Intersection between two models (vtkMRMLModelNode)
 
 **Topic ID**: 625

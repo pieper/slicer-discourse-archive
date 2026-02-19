@@ -1,3 +1,10 @@
+---
+topic_id: 37073
+title: "Combine Multiple Orientations Volumes In Axial View"
+date: 2024-06-27
+url: https://discourse.slicer.org/t/37073
+---
+
 # Combine Multiple Orientations / Volumes in Axial View
 
 **Topic ID**: 37073

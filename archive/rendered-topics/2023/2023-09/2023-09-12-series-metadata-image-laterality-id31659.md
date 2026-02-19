@@ -1,3 +1,10 @@
+---
+topic_id: 31659
+title: "Series Metadata Image Laterality"
+date: 2023-09-12
+url: https://discourse.slicer.org/t/31659
+---
+
 # Series metadata image laterality
 
 **Topic ID**: 31659

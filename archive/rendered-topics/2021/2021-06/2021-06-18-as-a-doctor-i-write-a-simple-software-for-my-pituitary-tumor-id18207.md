@@ -1,3 +1,10 @@
+---
+topic_id: 18207
+title: "As A Doctor I Write A Simple Software For My Pituitary Tumor"
+date: 2021-06-18
+url: https://discourse.slicer.org/t/18207
+---
+
 # As a doctor, I write a simple software for my pituitary tumor surgery
 
 **Topic ID**: 18207

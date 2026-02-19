@@ -1,3 +1,10 @@
+---
+topic_id: 29499
+title: "How To Add Folder In Scene"
+date: 2023-05-17
+url: https://discourse.slicer.org/t/29499
+---
+
 # How to add folder in scene?
 
 **Topic ID**: 29499

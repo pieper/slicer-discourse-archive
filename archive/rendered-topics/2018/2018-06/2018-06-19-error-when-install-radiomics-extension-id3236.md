@@ -1,3 +1,10 @@
+---
+topic_id: 3236
+title: "Error When Install Radiomics Extension"
+date: 2018-06-19
+url: https://discourse.slicer.org/t/3236
+---
+
 # Error when install Radiomics extension 
 
 **Topic ID**: 3236

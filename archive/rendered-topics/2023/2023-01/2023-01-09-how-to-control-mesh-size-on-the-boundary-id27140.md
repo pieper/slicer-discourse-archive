@@ -1,3 +1,10 @@
+---
+topic_id: 27140
+title: "How To Control Mesh Size On The Boundary"
+date: 2023-01-09
+url: https://discourse.slicer.org/t/27140
+---
+
 # How to control mesh size on the boundary
 
 **Topic ID**: 27140

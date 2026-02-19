@@ -1,3 +1,10 @@
+---
+topic_id: 18068
+title: "Project Week Prep Meeting June 15"
+date: 2021-06-10
+url: https://discourse.slicer.org/t/18068
+---
+
 # Project Week prep meeting - June 15
 
 **Topic ID**: 18068

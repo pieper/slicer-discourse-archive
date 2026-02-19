@@ -1,3 +1,10 @@
+---
+topic_id: 32720
+title: "Sample Data Download Failed"
+date: 2023-11-10
+url: https://discourse.slicer.org/t/32720
+---
+
 # Sample Data Download failed
 
 **Topic ID**: 32720

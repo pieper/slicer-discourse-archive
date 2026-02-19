@@ -1,3 +1,10 @@
+---
+topic_id: 23214
+title: "3D Slicer Not Running After Python 3 8 Installation"
+date: 2022-05-01
+url: https://discourse.slicer.org/t/23214
+---
+
 # 3D Slicer not running after Python 3.8 installation
 
 **Topic ID**: 23214

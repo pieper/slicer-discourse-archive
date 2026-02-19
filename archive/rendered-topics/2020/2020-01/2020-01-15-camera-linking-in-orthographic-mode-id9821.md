@@ -1,3 +1,10 @@
+---
+topic_id: 9821
+title: "Camera Linking In Orthographic Mode"
+date: 2020-01-15
+url: https://discourse.slicer.org/t/9821
+---
+
 # Camera linking in orthographic mode
 
 **Topic ID**: 9821

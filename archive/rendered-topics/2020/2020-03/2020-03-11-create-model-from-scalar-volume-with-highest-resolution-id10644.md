@@ -1,3 +1,10 @@
+---
+topic_id: 10644
+title: "Create Model From Scalar Volume With Highest Resolution"
+date: 2020-03-11
+url: https://discourse.slicer.org/t/10644
+---
+
 # Create Model from Scalar Volume with highest resolution
 
 **Topic ID**: 10644

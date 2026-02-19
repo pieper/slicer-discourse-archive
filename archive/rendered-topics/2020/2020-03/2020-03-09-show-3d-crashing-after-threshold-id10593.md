@@ -1,3 +1,10 @@
+---
+topic_id: 10593
+title: "Show 3D Crashing After Threshold"
+date: 2020-03-09
+url: https://discourse.slicer.org/t/10593
+---
+
 # Show 3D crashing after threshold
 
 **Topic ID**: 10593

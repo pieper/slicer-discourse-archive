@@ -1,3 +1,10 @@
+---
+topic_id: 39532
+title: "Slicer Util Mrmlnodenotfoundexception Error"
+date: 2024-10-03
+url: https://discourse.slicer.org/t/39532
+---
+
 # slicer.util.MRMLNodeNotFoundException Error
 
 **Topic ID**: 39532

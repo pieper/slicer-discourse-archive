@@ -1,3 +1,10 @@
+---
+topic_id: 21570
+title: "Suv Pet Scan Dicom"
+date: 2022-01-22
+url: https://discourse.slicer.org/t/21570
+---
+
 # SUV pet scan dicom
 
 **Topic ID**: 21570

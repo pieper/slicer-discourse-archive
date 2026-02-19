@@ -1,3 +1,10 @@
+---
+topic_id: 6149
+title: "True Detectives Slicer Cameo"
+date: 2019-03-14
+url: https://discourse.slicer.org/t/6149
+---
+
 # True Detectives - Slicer Cameo
 
 **Topic ID**: 6149

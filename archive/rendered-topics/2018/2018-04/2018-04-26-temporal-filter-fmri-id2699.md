@@ -1,3 +1,10 @@
+---
+topic_id: 2699
+title: "Temporal Filter Fmri"
+date: 2018-04-26
+url: https://discourse.slicer.org/t/2699
+---
+
 # Temporal filter fMRI
 
 **Topic ID**: 2699

@@ -1,3 +1,10 @@
+---
+topic_id: 19221
+title: "How To Add A Border To 3D Widget"
+date: 2021-08-17
+url: https://discourse.slicer.org/t/19221
+---
+
 # How to add a border to 3d widget
 
 **Topic ID**: 19221

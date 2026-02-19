@@ -1,3 +1,10 @@
+---
+topic_id: 36391
+title: "How To Install Slicerrt In The Latest Version Of Slicer3D"
+date: 2024-05-25
+url: https://discourse.slicer.org/t/36391
+---
+
 # How to install SlicerRT in the latest version of Slicer3D
 
 **Topic ID**: 36391

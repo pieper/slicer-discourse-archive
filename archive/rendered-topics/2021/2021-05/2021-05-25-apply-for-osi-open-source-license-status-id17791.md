@@ -1,3 +1,10 @@
+---
+topic_id: 17791
+title: "Apply For Osi Open Source License Status"
+date: 2021-05-25
+url: https://discourse.slicer.org/t/17791
+---
+
 # Apply for OSI open source license status
 
 **Topic ID**: 17791

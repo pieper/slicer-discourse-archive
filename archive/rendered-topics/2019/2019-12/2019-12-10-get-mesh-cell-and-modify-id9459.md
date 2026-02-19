@@ -1,3 +1,10 @@
+---
+topic_id: 9459
+title: "Get Mesh Cell And Modify"
+date: 2019-12-10
+url: https://discourse.slicer.org/t/9459
+---
+
 # Get Mesh Cell and Modify
 
 **Topic ID**: 9459

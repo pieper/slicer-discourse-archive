@@ -1,3 +1,10 @@
+---
+topic_id: 24527
+title: "Question Regarding Error On Initial Launch Of Python Extensi"
+date: 2022-07-27
+url: https://discourse.slicer.org/t/24527
+---
+
 # Question regarding error on initial launch of python extension, but not subsequent reloads of the same script
 
 **Topic ID**: 24527

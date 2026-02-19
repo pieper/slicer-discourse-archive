@@ -1,3 +1,10 @@
+---
+topic_id: 17585
+title: "Now Missing From Slicer Igt Choosing Locator Source"
+date: 2021-05-12
+url: https://discourse.slicer.org/t/17585
+---
+
 # Now missing from Slicer IGT? Choosing Locator Source
 
 **Topic ID**: 17585

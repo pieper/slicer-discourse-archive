@@ -1,3 +1,10 @@
+---
+topic_id: 24461
+title: "Visual Studio 2022 Project Never Up To Date After Build"
+date: 2022-07-22
+url: https://discourse.slicer.org/t/24461
+---
+
 # Visual studio 2022 project never up-to-date after build
 
 **Topic ID**: 24461

@@ -1,3 +1,10 @@
+---
+topic_id: 22454
+title: "Why Are My Semi Landmarks Not Uniformly Distributed"
+date: 2022-03-11
+url: https://discourse.slicer.org/t/22454
+---
+
 # Why are my semi-landmarks not uniformly distributed?
 
 **Topic ID**: 22454

@@ -1,3 +1,10 @@
+---
+topic_id: 24058
+title: "Lungctanalyzer In Macos Missing Os Startfile"
+date: 2022-06-27
+url: https://discourse.slicer.org/t/24058
+---
+
 # LungCTAnalyzer in macOS: missing os.startfile
 
 **Topic ID**: 24058

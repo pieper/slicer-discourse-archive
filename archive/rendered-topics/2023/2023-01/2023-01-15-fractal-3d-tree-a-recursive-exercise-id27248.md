@@ -1,3 +1,10 @@
+---
+topic_id: 27248
+title: "Fractal 3D Tree A Recursive Exercise"
+date: 2023-01-15
+url: https://discourse.slicer.org/t/27248
+---
+
 # Fractal 3D Tree (a Recursive Exercise)
 
 **Topic ID**: 27248

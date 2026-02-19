@@ -1,3 +1,10 @@
+---
+topic_id: 2424
+title: "Multisegment Merging Into One Model For Stl Export"
+date: 2018-03-26
+url: https://discourse.slicer.org/t/2424
+---
+
 # Multisegment merging into one model for STL export
 
 **Topic ID**: 2424

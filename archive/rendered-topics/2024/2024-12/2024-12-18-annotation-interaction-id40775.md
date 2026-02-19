@@ -1,3 +1,10 @@
+---
+topic_id: 40775
+title: "Annotation Interaction"
+date: 2024-12-18
+url: https://discourse.slicer.org/t/40775
+---
+
 # Annotation interaction
 
 **Topic ID**: 40775

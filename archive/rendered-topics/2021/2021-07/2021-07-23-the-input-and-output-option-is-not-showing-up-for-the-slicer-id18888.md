@@ -1,3 +1,10 @@
+---
+topic_id: 18888
+title: "The Input And Output Option Is Not Showing Up For The Slicer"
+date: 2021-07-23
+url: https://discourse.slicer.org/t/18888
+---
+
 # The Input and Output option is not showing up for the slicer morph extension
 
 **Topic ID**: 18888

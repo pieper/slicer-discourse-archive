@@ -1,3 +1,10 @@
+---
+topic_id: 6436
+title: "Importing A Segmentation"
+date: 2019-04-08
+url: https://discourse.slicer.org/t/6436
+---
+
 # Importing a segmentation
 
 **Topic ID**: 6436

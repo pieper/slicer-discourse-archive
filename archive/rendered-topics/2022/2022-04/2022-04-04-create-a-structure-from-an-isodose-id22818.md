@@ -1,3 +1,10 @@
+---
+topic_id: 22818
+title: "Create A Structure From An Isodose"
+date: 2022-04-04
+url: https://discourse.slicer.org/t/22818
+---
+
 # create a structure from an isodose 
 
 **Topic ID**: 22818

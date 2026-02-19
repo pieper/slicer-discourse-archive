@@ -1,3 +1,10 @@
+---
+topic_id: 29192
+title: "Determining Modifier Labels And What Gets A Unique Identifie"
+date: 2023-04-28
+url: https://discourse.slicer.org/t/29192
+---
+
 # Determining Modifier labels and what gets a unique identifier
 
 **Topic ID**: 29192

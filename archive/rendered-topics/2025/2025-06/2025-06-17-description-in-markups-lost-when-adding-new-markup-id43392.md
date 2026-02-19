@@ -1,3 +1,10 @@
+---
+topic_id: 43392
+title: "Description In Markups Lost When Adding New Markup"
+date: 2025-06-17
+url: https://discourse.slicer.org/t/43392
+---
+
 # Description in markups lost when adding new markup
 
 **Topic ID**: 43392

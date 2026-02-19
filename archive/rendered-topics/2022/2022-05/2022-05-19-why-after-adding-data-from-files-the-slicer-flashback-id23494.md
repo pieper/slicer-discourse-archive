@@ -1,3 +1,10 @@
+---
+topic_id: 23494
+title: "Why After Adding Data From Files The Slicer Flashback"
+date: 2022-05-19
+url: https://discourse.slicer.org/t/23494
+---
+
 # why after adding data from files the slicer flashback?
 
 **Topic ID**: 23494

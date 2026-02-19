@@ -1,3 +1,10 @@
+---
+topic_id: 20413
+title: "Sandbox Extension Needed For Mandible Reconstruction Extensi"
+date: 2021-10-29
+url: https://discourse.slicer.org/t/20413
+---
+
 # Sandbox extension needed for mandible reconstruction extension and it is not available
 
 **Topic ID**: 20413

@@ -1,3 +1,10 @@
+---
+topic_id: 9994
+title: "Zoom In Linked Slices Gets Out Of Sync When Using Ctl Scroll"
+date: 2020-01-29
+url: https://discourse.slicer.org/t/9994
+---
+
 # Zoom in linked slices gets out of sync when using ctl+scroll
 
 **Topic ID**: 9994

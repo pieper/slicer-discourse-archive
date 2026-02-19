@@ -1,3 +1,10 @@
+---
+topic_id: 30101
+title: "Memory Error When Working With Kb Of Data When I Have Gb Fre"
+date: 2023-06-18
+url: https://discourse.slicer.org/t/30101
+---
+
 # Memory error when working with KB of data when I have GB free
 
 **Topic ID**: 30101

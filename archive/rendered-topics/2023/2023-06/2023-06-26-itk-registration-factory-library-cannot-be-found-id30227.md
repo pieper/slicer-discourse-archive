@@ -1,3 +1,10 @@
+---
+topic_id: 30227
+title: "Itk Registration Factory Library Cannot Be Found"
+date: 2023-06-26
+url: https://discourse.slicer.org/t/30227
+---
+
 # ITK registration factory library cannot be found
 
 **Topic ID**: 30227

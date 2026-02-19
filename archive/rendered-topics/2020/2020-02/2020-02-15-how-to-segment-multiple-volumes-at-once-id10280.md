@@ -1,3 +1,10 @@
+---
+topic_id: 10280
+title: "How To Segment Multiple Volumes At Once"
+date: 2020-02-15
+url: https://discourse.slicer.org/t/10280
+---
+
 # How to segment multiple volumes at once?
 
 **Topic ID**: 10280

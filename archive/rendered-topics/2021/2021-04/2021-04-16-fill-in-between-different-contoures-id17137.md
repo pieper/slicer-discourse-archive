@@ -1,3 +1,10 @@
+---
+topic_id: 17137
+title: "Fill In Between Different Contoures"
+date: 2021-04-16
+url: https://discourse.slicer.org/t/17137
+---
+
 # Fill in between different contoures
 
 **Topic ID**: 17137

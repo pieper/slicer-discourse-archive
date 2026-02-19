@@ -1,3 +1,10 @@
+---
+topic_id: 12810
+title: "Slicer Startmene Shortcuts Are Missing On Windows Since 7 28"
+date: 2020-07-31
+url: https://discourse.slicer.org/t/12810
+---
+
 # Slicer startmene shortcuts are missing on windows since 7/28
 
 **Topic ID**: 12810

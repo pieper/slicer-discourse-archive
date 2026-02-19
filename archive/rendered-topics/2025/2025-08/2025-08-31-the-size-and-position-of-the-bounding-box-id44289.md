@@ -1,3 +1,10 @@
+---
+topic_id: 44289
+title: "The Size And Position Of The Bounding Box"
+date: 2025-08-31
+url: https://discourse.slicer.org/t/44289
+---
+
 # The size and position of the bounding box
 
 **Topic ID**: 44289

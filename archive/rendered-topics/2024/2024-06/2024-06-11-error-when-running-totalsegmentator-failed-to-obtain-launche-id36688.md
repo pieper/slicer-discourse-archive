@@ -1,3 +1,10 @@
+---
+topic_id: 36688
+title: "Error When Running Totalsegmentator Failed To Obtain Launche"
+date: 2024-06-11
+url: https://discourse.slicer.org/t/36688
+---
+
 # Error when running TotalSegmentator: "Failed to obtain launcher executable name"
 
 **Topic ID**: 36688

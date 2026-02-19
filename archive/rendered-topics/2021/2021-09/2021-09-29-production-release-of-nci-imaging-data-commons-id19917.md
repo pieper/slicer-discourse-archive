@@ -1,3 +1,10 @@
+---
+topic_id: 19917
+title: "Production Release Of Nci Imaging Data Commons"
+date: 2021-09-29
+url: https://discourse.slicer.org/t/19917
+---
+
 # Production release of NCI Imaging Data Commons
 
 **Topic ID**: 19917

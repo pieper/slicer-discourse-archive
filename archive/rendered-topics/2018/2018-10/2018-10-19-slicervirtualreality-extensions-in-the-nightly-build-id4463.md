@@ -1,3 +1,10 @@
+---
+topic_id: 4463
+title: "Slicervirtualreality Extensions In The Nightly Build"
+date: 2018-10-19
+url: https://discourse.slicer.org/t/4463
+---
+
 # SlicerVirtualReality Extensions in the nightly build
 
 **Topic ID**: 4463

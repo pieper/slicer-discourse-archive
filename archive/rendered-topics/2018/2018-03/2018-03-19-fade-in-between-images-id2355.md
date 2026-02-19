@@ -1,3 +1,10 @@
+---
+topic_id: 2355
+title: "Fade In Between Images"
+date: 2018-03-19
+url: https://discourse.slicer.org/t/2355
+---
+
 # Fade In Between Images
 
 **Topic ID**: 2355

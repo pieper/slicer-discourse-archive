@@ -1,3 +1,10 @@
+---
+topic_id: 25637
+title: "How To Design A Widget To Select Current Volume In Python"
+date: 2022-10-11
+url: https://discourse.slicer.org/t/25637
+---
+
 # How to design a widget to select current volume in Python
 
 **Topic ID**: 25637

@@ -1,3 +1,10 @@
+---
+topic_id: 38447
+title: "Problem With Ai Lung Segmentation In Lungctanalyzer"
+date: 2024-09-18
+url: https://discourse.slicer.org/t/38447
+---
+
 # Problem with AI lung segmentation in LungCTAnalyzer
 
 **Topic ID**: 38447

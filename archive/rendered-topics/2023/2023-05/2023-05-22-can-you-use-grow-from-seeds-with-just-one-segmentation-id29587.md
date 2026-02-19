@@ -1,3 +1,10 @@
+---
+topic_id: 29587
+title: "Can You Use Grow From Seeds With Just One Segmentation"
+date: 2023-05-22
+url: https://discourse.slicer.org/t/29587
+---
+
 # Can you use grow from seeds with just one segmentation? 
 
 **Topic ID**: 29587

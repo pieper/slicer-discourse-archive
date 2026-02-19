@@ -1,3 +1,10 @@
+---
+topic_id: 26747
+title: "How To Create A Python Module In Slicer From A Python Script"
+date: 2022-12-15
+url: https://discourse.slicer.org/t/26747
+---
+
 # How to create a Python Module in slicer from a python script?
 
 **Topic ID**: 26747

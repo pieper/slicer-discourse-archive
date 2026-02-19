@@ -1,3 +1,10 @@
+---
+topic_id: 27929
+title: "Building Custom Module Inside 3D Slicer That Contains Pre Tr"
+date: 2023-02-20
+url: https://discourse.slicer.org/t/27929
+---
+
 # Building custom module inside 3D slicer that contains pre trained models (built in tensorflow)
 
 **Topic ID**: 27929

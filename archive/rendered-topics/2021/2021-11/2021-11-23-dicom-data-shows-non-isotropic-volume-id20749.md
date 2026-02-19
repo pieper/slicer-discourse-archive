@@ -1,3 +1,10 @@
+---
+topic_id: 20749
+title: "Dicom Data Shows Non Isotropic Volume"
+date: 2021-11-23
+url: https://discourse.slicer.org/t/20749
+---
+
 # dicom data shows non isotropic volume
 
 **Topic ID**: 20749

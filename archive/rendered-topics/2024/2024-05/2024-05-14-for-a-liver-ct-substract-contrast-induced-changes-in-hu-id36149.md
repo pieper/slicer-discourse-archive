@@ -1,3 +1,10 @@
+---
+topic_id: 36149
+title: "For A Liver Ct Substract Contrast Induced Changes In Hu"
+date: 2024-05-14
+url: https://discourse.slicer.org/t/36149
+---
+
 # For a liver CT, substract contrast induced changes in HU
 
 **Topic ID**: 36149

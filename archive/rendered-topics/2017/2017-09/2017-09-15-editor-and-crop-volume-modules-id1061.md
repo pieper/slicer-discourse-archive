@@ -1,3 +1,10 @@
+---
+topic_id: 1061
+title: "Editor And Crop Volume Modules"
+date: 2017-09-15
+url: https://discourse.slicer.org/t/1061
+---
+
 # Editor and Crop Volume modules
 
 **Topic ID**: 1061

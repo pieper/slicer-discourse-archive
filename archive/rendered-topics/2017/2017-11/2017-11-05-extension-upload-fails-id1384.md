@@ -1,3 +1,10 @@
+---
+topic_id: 1384
+title: "Extension Upload Fails"
+date: 2017-11-05
+url: https://discourse.slicer.org/t/1384
+---
+
 # Extension upload fails
 
 **Topic ID**: 1384

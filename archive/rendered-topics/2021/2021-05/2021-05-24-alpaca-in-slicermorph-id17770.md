@@ -1,3 +1,10 @@
+---
+topic_id: 17770
+title: "Alpaca In Slicermorph"
+date: 2021-05-24
+url: https://discourse.slicer.org/t/17770
+---
+
 # ALPACA in SlicerMorph
 
 **Topic ID**: 17770

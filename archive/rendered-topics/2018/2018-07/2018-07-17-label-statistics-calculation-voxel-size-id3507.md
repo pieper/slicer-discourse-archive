@@ -1,3 +1,10 @@
+---
+topic_id: 3507
+title: "Label Statistics Calculation Voxel Size"
+date: 2018-07-17
+url: https://discourse.slicer.org/t/3507
+---
+
 # Label statistics calculation (voxel size)
 
 **Topic ID**: 3507

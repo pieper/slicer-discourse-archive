@@ -1,3 +1,10 @@
+---
+topic_id: 2343
+title: "Error Message Could Not Load Scalar Volume"
+date: 2018-03-17
+url: https://discourse.slicer.org/t/2343
+---
+
 # Error message Could not load... scalar volume
 
 **Topic ID**: 2343

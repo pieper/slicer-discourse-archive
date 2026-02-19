@@ -1,3 +1,10 @@
+---
+topic_id: 13012
+title: "Developer Needed For Automatic Load Images Export Segmentati"
+date: 2020-08-15
+url: https://discourse.slicer.org/t/13012
+---
+
 # Developer needed for automatic load images, export segmentations
 
 **Topic ID**: 13012

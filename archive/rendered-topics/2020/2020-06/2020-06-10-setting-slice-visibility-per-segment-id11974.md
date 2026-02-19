@@ -1,3 +1,10 @@
+---
+topic_id: 11974
+title: "Setting Slice Visibility Per Segment"
+date: 2020-06-10
+url: https://discourse.slicer.org/t/11974
+---
+
 # Setting slice visibility per segment
 
 **Topic ID**: 11974

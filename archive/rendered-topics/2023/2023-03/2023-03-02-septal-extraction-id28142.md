@@ -1,3 +1,10 @@
+---
+topic_id: 28142
+title: "Septal Extraction"
+date: 2023-03-02
+url: https://discourse.slicer.org/t/28142
+---
+
 # Septal extraction
 
 **Topic ID**: 28142

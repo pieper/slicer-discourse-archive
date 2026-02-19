@@ -1,3 +1,10 @@
+---
+topic_id: 41290
+title: "Unable To Use Dicomutils To Load Dicom Files"
+date: 2025-01-26
+url: https://discourse.slicer.org/t/41290
+---
+
 # Unable to use DICOMUtils to load dicom files
 
 **Topic ID**: 41290

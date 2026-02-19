@@ -1,3 +1,10 @@
+---
+topic_id: 749
+title: "Landmark Registration Wont Allow Selection Of Point In Coron"
+date: 2017-07-23
+url: https://discourse.slicer.org/t/749
+---
+
 # Landmark registration won't allow selection of point in Coronal or Axial view, but allows it in Saggital
 
 **Topic ID**: 749

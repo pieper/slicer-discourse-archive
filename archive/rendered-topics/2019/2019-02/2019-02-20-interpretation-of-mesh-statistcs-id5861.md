@@ -1,3 +1,10 @@
+---
+topic_id: 5861
+title: "Interpretation Of Mesh Statistcs"
+date: 2019-02-20
+url: https://discourse.slicer.org/t/5861
+---
+
 # Interpretation of mesh statistcs
 
 **Topic ID**: 5861

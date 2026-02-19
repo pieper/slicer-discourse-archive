@@ -1,3 +1,10 @@
+---
+topic_id: 19163
+title: "How To Save Labelmap Information In A Volumetric Mesh"
+date: 2021-08-11
+url: https://discourse.slicer.org/t/19163
+---
+
 # How to save labelmap information in a volumetric mesh?
 
 **Topic ID**: 19163

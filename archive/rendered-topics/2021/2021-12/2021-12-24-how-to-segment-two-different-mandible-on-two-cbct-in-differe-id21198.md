@@ -1,3 +1,10 @@
+---
+topic_id: 21198
+title: "How To Segment Two Different Mandible On Two Cbct In Differe"
+date: 2021-12-24
+url: https://discourse.slicer.org/t/21198
+---
+
 # How to segment two different mandible on two CBCT in different settings and overlay to show difference
 
 **Topic ID**: 21198

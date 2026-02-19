@@ -1,3 +1,10 @@
+---
+topic_id: 35419
+title: "Mri Fat Quantification In Liver Muscle Subcutaneous And Visc"
+date: 2024-04-10
+url: https://discourse.slicer.org/t/35419
+---
+
 # MRI Fat quantification in liver, muscle, subcutaneous and visceral fat
 
 **Topic ID**: 35419

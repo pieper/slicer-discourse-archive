@@ -1,3 +1,10 @@
+---
+topic_id: 10093
+title: "Reslice Reorient Slice View"
+date: 2020-02-03
+url: https://discourse.slicer.org/t/10093
+---
+
 # Reslice / Reorient Slice view
 
 **Topic ID**: 10093

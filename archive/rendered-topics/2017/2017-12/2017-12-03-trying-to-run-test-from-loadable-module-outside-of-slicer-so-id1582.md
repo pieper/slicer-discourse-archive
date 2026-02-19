@@ -1,3 +1,10 @@
+---
+topic_id: 1582
+title: "Trying To Run Test From Loadable Module Outside Of Slicer So"
+date: 2017-12-03
+url: https://discourse.slicer.org/t/1582
+---
+
 # Trying to run test from loadable module (outside of Slicer source tree)
 
 **Topic ID**: 1582

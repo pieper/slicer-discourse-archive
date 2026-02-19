@@ -1,3 +1,10 @@
+---
+topic_id: 40348
+title: "Lung Ct Analyzer Error Message"
+date: 2024-11-23
+url: https://discourse.slicer.org/t/40348
+---
+
 # Lung CT analyzer - error message
 
 **Topic ID**: 40348

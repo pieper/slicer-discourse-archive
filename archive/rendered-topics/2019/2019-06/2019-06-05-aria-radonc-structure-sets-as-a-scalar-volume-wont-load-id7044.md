@@ -1,3 +1,10 @@
+---
+topic_id: 7044
+title: "Aria Radonc Structure Sets As A Scalar Volume Wont Load"
+date: 2019-06-05
+url: https://discourse.slicer.org/t/7044
+---
+
 # ARIA RadOnc STructure Sets as a Scalar Volume - won't load
 
 **Topic ID**: 7044

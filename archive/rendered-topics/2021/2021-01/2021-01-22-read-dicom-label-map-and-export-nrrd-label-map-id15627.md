@@ -1,3 +1,10 @@
+---
+topic_id: 15627
+title: "Read Dicom Label Map And Export Nrrd Label Map"
+date: 2021-01-22
+url: https://discourse.slicer.org/t/15627
+---
+
 # Read Dicom label map and export .nrrd label map
 
 **Topic ID**: 15627

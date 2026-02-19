@@ -1,3 +1,10 @@
+---
+topic_id: 12211
+title: "Editing Mask After Swiss Skull Stripping"
+date: 2020-06-25
+url: https://discourse.slicer.org/t/12211
+---
+
 # Editing mask after Swiss Skull Stripping
 
 **Topic ID**: 12211

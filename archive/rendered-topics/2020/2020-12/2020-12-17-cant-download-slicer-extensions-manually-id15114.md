@@ -1,3 +1,10 @@
+---
+topic_id: 15114
+title: "Cant Download Slicer Extensions Manually"
+date: 2020-12-17
+url: https://discourse.slicer.org/t/15114
+---
+
 # Cant download slicer extensions manually
 
 **Topic ID**: 15114

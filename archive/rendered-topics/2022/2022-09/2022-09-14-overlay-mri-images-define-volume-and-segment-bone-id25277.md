@@ -1,3 +1,10 @@
+---
+topic_id: 25277
+title: "Overlay Mri Images Define Volume And Segment Bone"
+date: 2022-09-14
+url: https://discourse.slicer.org/t/25277
+---
+
 # overlay mri images, define volume and segment bone
 
 **Topic ID**: 25277

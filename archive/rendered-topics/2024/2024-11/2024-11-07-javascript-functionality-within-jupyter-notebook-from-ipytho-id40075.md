@@ -1,3 +1,10 @@
+---
+topic_id: 40075
+title: "Javascript Functionality Within Jupyter Notebook From Ipytho"
+date: 2024-11-07
+url: https://discourse.slicer.org/t/40075
+---
+
 # Javascript functionality within Jupyter notebook from IPython.display
 
 **Topic ID**: 40075

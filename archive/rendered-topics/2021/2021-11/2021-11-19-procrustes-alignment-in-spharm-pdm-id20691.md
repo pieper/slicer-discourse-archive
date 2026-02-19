@@ -1,3 +1,10 @@
+---
+topic_id: 20691
+title: "Procrustes Alignment In Spharm Pdm"
+date: 2021-11-19
+url: https://discourse.slicer.org/t/20691
+---
+
 # Procrustes alignment in SPHARM PDM
 
 **Topic ID**: 20691

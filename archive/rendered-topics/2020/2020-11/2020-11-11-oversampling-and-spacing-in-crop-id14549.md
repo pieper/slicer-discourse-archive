@@ -1,3 +1,10 @@
+---
+topic_id: 14549
+title: "Oversampling And Spacing In Crop"
+date: 2020-11-11
+url: https://discourse.slicer.org/t/14549
+---
+
 # Oversampling and Spacing in crop
 
 **Topic ID**: 14549

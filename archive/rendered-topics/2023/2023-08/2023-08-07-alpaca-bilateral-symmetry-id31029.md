@@ -1,3 +1,10 @@
+---
+topic_id: 31029
+title: "Alpaca Bilateral Symmetry"
+date: 2023-08-07
+url: https://discourse.slicer.org/t/31029
+---
+
 # ALPACA + Bilateral Symmetry
 
 **Topic ID**: 31029

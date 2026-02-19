@@ -1,3 +1,10 @@
+---
+topic_id: 25930
+title: "Does Image Registration Require Equal Number Of Slices Of Im"
+date: 2022-10-27
+url: https://discourse.slicer.org/t/25930
+---
+
 # Does image registration require equal number of slices of images?
 
 **Topic ID**: 25930

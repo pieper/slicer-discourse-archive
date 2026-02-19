@@ -1,3 +1,10 @@
+---
+topic_id: 22025
+title: "Restoring Scene View Duplicates Scene Heirarchy"
+date: 2022-02-17
+url: https://discourse.slicer.org/t/22025
+---
+
 # Restoring scene view duplicates scene heirarchy
 
 **Topic ID**: 22025

@@ -1,3 +1,10 @@
+---
+topic_id: 36504
+title: "Segmentation Not Centering"
+date: 2024-05-30
+url: https://discourse.slicer.org/t/36504
+---
+
 # Segmentation Not Centering
 
 **Topic ID**: 36504

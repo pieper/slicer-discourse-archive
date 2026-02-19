@@ -1,3 +1,10 @@
+---
+topic_id: 18931
+title: "Reslice Driver Disable Rotation"
+date: 2021-07-26
+url: https://discourse.slicer.org/t/18931
+---
+
 # Reslice Driver Disable Rotation
 
 **Topic ID**: 18931

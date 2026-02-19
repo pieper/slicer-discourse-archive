@@ -1,3 +1,10 @@
+---
+topic_id: 23374
+title: "Add Storagenode To Volumenode Created From A Numpy Array"
+date: 2022-05-11
+url: https://discourse.slicer.org/t/23374
+---
+
 # Add storageNode to volumeNode created from a numpy array
 
 **Topic ID**: 23374

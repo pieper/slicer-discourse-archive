@@ -1,3 +1,10 @@
+---
+topic_id: 7217
+title: "Fiducial Registration Wizard Custom Transformation Configura"
+date: 2019-06-18
+url: https://discourse.slicer.org/t/7217
+---
+
 # Fiducial registration Wizard - custom transformation configuration
 
 **Topic ID**: 7217

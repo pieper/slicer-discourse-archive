@@ -1,3 +1,10 @@
+---
+topic_id: 44606
+title: "Cant Get Rid Of Red Window Frame"
+date: 2025-09-27
+url: https://discourse.slicer.org/t/44606
+---
+
 # Cant get rid of red window frame
 
 **Topic ID**: 44606

@@ -1,3 +1,10 @@
+---
+topic_id: 33647
+title: "Calculate Surface Area And Volume Of Palate On 3D Dental Mod"
+date: 2024-01-05
+url: https://discourse.slicer.org/t/33647
+---
+
 # Calculate surface area and volume of palate on 3D dental models 
 
 **Topic ID**: 33647

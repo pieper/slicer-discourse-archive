@@ -1,3 +1,10 @@
+---
+topic_id: 20239
+title: "Update Existing Volume From Simpleitk Image"
+date: 2021-10-19
+url: https://discourse.slicer.org/t/20239
+---
+
 # Update existing volume from SimpleITK image
 
 **Topic ID**: 20239

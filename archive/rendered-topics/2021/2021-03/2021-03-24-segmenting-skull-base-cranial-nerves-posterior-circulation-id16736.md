@@ -1,3 +1,10 @@
+---
+topic_id: 16736
+title: "Segmenting Skull Base Cranial Nerves Posterior Circulation"
+date: 2021-03-24
+url: https://discourse.slicer.org/t/16736
+---
+
 # Segmenting skull base, cranial nerves & posterior circulation
 
 **Topic ID**: 16736

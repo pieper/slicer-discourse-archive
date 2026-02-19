@@ -1,3 +1,10 @@
+---
+topic_id: 19601
+title: "Reformatted Slice Node Doesnt Restore Its Original Orientati"
+date: 2021-09-10
+url: https://discourse.slicer.org/t/19601
+---
+
 # Reformatted slice node doesn't restore its original orientation
 
 **Topic ID**: 19601

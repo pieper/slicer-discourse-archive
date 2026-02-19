@@ -1,3 +1,10 @@
+---
+topic_id: 2796
+title: "Markups Placement Not Displaying In A Scene Without Any Data"
+date: 2018-05-10
+url: https://discourse.slicer.org/t/2796
+---
+
 # Markups placement not displaying in a scene without any data
 
 **Topic ID**: 2796

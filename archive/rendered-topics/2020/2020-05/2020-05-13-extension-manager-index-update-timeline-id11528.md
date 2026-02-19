@@ -1,3 +1,10 @@
+---
+topic_id: 11528
+title: "Extension Manager Index Update Timeline"
+date: 2020-05-13
+url: https://discourse.slicer.org/t/11528
+---
+
 # Extension manager index update timeline
 
 **Topic ID**: 11528

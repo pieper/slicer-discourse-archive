@@ -1,3 +1,10 @@
+---
+topic_id: 41278
+title: "Complete Noob Wants To 3D Print His Brain Scans Arent Perfec"
+date: 2025-01-25
+url: https://discourse.slicer.org/t/41278
+---
+
 # Complete noob wants to 3d print his brain. Scans aren't perfect. Help?
 
 **Topic ID**: 41278

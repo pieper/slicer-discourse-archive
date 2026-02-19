@@ -1,3 +1,10 @@
+---
+topic_id: 33192
+title: "How To Setup The Parameters In Setslicetorasbyntp"
+date: 2023-12-04
+url: https://discourse.slicer.org/t/33192
+---
+
 # How to setup the parameters in SetSliceToRASByNTP?
 
 **Topic ID**: 33192

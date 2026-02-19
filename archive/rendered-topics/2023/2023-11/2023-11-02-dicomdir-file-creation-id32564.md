@@ -1,3 +1,10 @@
+---
+topic_id: 32564
+title: "Dicomdir File Creation"
+date: 2023-11-02
+url: https://discourse.slicer.org/t/32564
+---
+
 # DICOMDIR file creation
 
 **Topic ID**: 32564

@@ -1,3 +1,10 @@
+---
+topic_id: 20573
+title: "Vtk File Visualization And Surface Volume Mesh Extraction"
+date: 2021-11-10
+url: https://discourse.slicer.org/t/20573
+---
+
 # VTK file visualization and surface/volume mesh extraction
 
 **Topic ID**: 20573

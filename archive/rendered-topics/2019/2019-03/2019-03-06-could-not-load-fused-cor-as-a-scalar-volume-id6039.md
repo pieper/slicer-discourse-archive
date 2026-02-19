@@ -1,3 +1,10 @@
+---
+topic_id: 6039
+title: "Could Not Load Fused Cor As A Scalar Volume"
+date: 2019-03-06
+url: https://discourse.slicer.org/t/6039
+---
+
 # Could not load: FUSED COR as a Scalar Volume
 
 **Topic ID**: 6039

@@ -1,3 +1,10 @@
+---
+topic_id: 40087
+title: "Resampling Using Linear Transform"
+date: 2024-11-09
+url: https://discourse.slicer.org/t/40087
+---
+
 # Resampling using linear Transform
 
 **Topic ID**: 40087

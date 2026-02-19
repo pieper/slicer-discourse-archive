@@ -1,3 +1,10 @@
+---
+topic_id: 37578
+title: "Extracting Statistical Values From A Scalar Heatmap On Vtk M"
+date: 2024-07-26
+url: https://discourse.slicer.org/t/37578
+---
+
 # Extracting statistical values from a scalar heatmap on vtk model
 
 **Topic ID**: 37578

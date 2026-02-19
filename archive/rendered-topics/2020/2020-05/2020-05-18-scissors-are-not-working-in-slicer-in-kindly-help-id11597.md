@@ -1,3 +1,10 @@
+---
+topic_id: 11597
+title: "Scissors Are Not Working In Slicer In Kindly Help"
+date: 2020-05-18
+url: https://discourse.slicer.org/t/11597
+---
+
 # Scissors are not working in slicer in kindly help
 
 **Topic ID**: 11597

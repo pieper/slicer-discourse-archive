@@ -1,3 +1,10 @@
+---
+topic_id: 6864
+title: "Virtual Reality Behaving Weirdly"
+date: 2019-05-21
+url: https://discourse.slicer.org/t/6864
+---
+
 # Virtual reality behaving weirdly
 
 **Topic ID**: 6864

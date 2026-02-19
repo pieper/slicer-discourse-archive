@@ -1,3 +1,10 @@
+---
+topic_id: 5990
+title: "Using Surface Cut Of Segment Editor To Measure Area"
+date: 2019-03-02
+url: https://discourse.slicer.org/t/5990
+---
+
 # Using surface cut of segment editor to measure area
 
 **Topic ID**: 5990

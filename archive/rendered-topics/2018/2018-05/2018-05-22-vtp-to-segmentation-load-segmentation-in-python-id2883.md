@@ -1,3 +1,10 @@
+---
+topic_id: 2883
+title: "Vtp To Segmentation Load Segmentation In Python"
+date: 2018-05-22
+url: https://discourse.slicer.org/t/2883
+---
+
 # .vtp to segmentation & load segmentation in Python
 
 **Topic ID**: 2883

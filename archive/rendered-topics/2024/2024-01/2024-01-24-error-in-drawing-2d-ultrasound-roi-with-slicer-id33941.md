@@ -1,3 +1,10 @@
+---
+topic_id: 33941
+title: "Error In Drawing 2D Ultrasound Roi With Slicer"
+date: 2024-01-24
+url: https://discourse.slicer.org/t/33941
+---
+
 # Error in drawing 2D ultrasound ROi with slicer
 
 **Topic ID**: 33941

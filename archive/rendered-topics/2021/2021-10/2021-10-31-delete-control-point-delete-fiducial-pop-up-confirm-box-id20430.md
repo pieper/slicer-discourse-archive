@@ -1,3 +1,10 @@
+---
+topic_id: 20430
+title: "Delete Control Point Delete Fiducial Pop Up Confirm Box"
+date: 2021-10-31
+url: https://discourse.slicer.org/t/20430
+---
+
 # Delete control point / delete fiducial pop-up - confirm box?
 
 **Topic ID**: 20430

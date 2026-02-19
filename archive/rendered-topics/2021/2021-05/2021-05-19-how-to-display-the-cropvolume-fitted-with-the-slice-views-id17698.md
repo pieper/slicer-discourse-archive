@@ -1,3 +1,10 @@
+---
+topic_id: 17698
+title: "How To Display The Cropvolume Fitted With The Slice Views"
+date: 2021-05-19
+url: https://discourse.slicer.org/t/17698
+---
+
 # How to display the cropVolume fitted with the slice views?
 
 **Topic ID**: 17698

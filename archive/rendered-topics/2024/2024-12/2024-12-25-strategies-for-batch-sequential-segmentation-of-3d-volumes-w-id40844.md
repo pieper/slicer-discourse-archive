@@ -1,3 +1,10 @@
+---
+topic_id: 40844
+title: "Strategies For Batch Sequential Segmentation Of 3D Volumes W"
+date: 2024-12-25
+url: https://discourse.slicer.org/t/40844
+---
+
 # Strategies for Batch/Sequential segmentation of 3D volumes with MONAI Auto3DSeg?
 
 **Topic ID**: 40844

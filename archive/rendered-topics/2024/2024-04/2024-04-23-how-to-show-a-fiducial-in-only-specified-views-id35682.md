@@ -1,3 +1,10 @@
+---
+topic_id: 35682
+title: "How To Show A Fiducial In Only Specified Views"
+date: 2024-04-23
+url: https://discourse.slicer.org/t/35682
+---
+
 # How to show a fiducial in only specified views?
 
 **Topic ID**: 35682

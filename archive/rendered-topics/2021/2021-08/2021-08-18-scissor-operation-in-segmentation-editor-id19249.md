@@ -1,3 +1,10 @@
+---
+topic_id: 19249
+title: "Scissor Operation In Segmentation Editor"
+date: 2021-08-18
+url: https://discourse.slicer.org/t/19249
+---
+
 # Scissor operation in Segmentation Editor
 
 **Topic ID**: 19249

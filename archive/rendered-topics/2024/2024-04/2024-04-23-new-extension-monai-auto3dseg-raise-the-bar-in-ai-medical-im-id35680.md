@@ -1,3 +1,10 @@
+---
+topic_id: 35680
+title: "New Extension Monai Auto3Dseg Raise The Bar In Ai Medical Im"
+date: 2024-04-23
+url: https://discourse.slicer.org/t/35680
+---
+
 # New extension: MONAI Auto3DSeg - raise the bar in AI medical image segmentation
 
 **Topic ID**: 35680

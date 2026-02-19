@@ -1,3 +1,10 @@
+---
+topic_id: 3897
+title: "3D 4D Philips And Ge Volumes To 3Dslicer"
+date: 2018-08-26
+url: https://discourse.slicer.org/t/3897
+---
+
 # 3D / 4D Philips and GE volumes to 3dSlicer
 
 **Topic ID**: 3897

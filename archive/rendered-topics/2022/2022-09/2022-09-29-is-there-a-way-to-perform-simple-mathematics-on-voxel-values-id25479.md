@@ -1,3 +1,10 @@
+---
+topic_id: 25479
+title: "Is There A Way To Perform Simple Mathematics On Voxel Values"
+date: 2022-09-29
+url: https://discourse.slicer.org/t/25479
+---
+
 # Is there a way to perform simple mathematics on voxel values and then generate an image based on them? 
 
 **Topic ID**: 25479

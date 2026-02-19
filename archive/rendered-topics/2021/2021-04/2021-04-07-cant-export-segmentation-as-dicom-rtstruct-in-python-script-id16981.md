@@ -1,3 +1,10 @@
+---
+topic_id: 16981
+title: "Cant Export Segmentation As Dicom Rtstruct In Python Script"
+date: 2021-04-07
+url: https://discourse.slicer.org/t/16981
+---
+
 # Can't export segmentation as Dicom RTStruct in Python Script
 
 **Topic ID**: 16981

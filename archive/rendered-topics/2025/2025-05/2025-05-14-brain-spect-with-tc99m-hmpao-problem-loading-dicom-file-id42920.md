@@ -1,3 +1,10 @@
+---
+topic_id: 42920
+title: "Brain Spect With Tc99M Hmpao Problem Loading Dicom File"
+date: 2025-05-14
+url: https://discourse.slicer.org/t/42920
+---
+
 # Brain SPECT with Tc99m HMPAO problem loading dicom file
 
 **Topic ID**: 42920

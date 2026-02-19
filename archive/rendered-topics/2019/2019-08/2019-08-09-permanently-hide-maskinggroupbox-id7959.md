@@ -1,3 +1,10 @@
+---
+topic_id: 7959
+title: "Permanently Hide Maskinggroupbox"
+date: 2019-08-09
+url: https://discourse.slicer.org/t/7959
+---
+
 # Permanently hide MaskingGroupBox
 
 **Topic ID**: 7959

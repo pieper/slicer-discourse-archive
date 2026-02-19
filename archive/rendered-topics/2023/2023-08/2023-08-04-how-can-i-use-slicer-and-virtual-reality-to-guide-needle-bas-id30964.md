@@ -1,3 +1,10 @@
+---
+topic_id: 30964
+title: "How Can I Use Slicer And Virtual Reality To Guide Needle Bas"
+date: 2023-08-04
+url: https://discourse.slicer.org/t/30964
+---
+
 # How can I use slicer and virtual reality to guide needle based surgery?
 
 **Topic ID**: 30964

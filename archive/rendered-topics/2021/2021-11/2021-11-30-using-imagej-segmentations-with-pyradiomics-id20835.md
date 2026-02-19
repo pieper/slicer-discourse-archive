@@ -1,3 +1,10 @@
+---
+topic_id: 20835
+title: "Using Imagej Segmentations With Pyradiomics"
+date: 2021-11-30
+url: https://discourse.slicer.org/t/20835
+---
+
 # Using ImageJ segmentations with Pyradiomics
 
 **Topic ID**: 20835

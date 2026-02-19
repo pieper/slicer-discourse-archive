@@ -1,3 +1,10 @@
+---
+topic_id: 20255
+title: "How To Set The Customized Layout Whenever I Switch To The De"
+date: 2021-10-20
+url: https://discourse.slicer.org/t/20255
+---
+
 # How to set the customized layout whenever I switch to the developed module?
 
 **Topic ID**: 20255

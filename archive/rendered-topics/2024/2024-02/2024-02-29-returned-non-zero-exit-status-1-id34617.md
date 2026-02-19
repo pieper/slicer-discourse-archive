@@ -1,3 +1,10 @@
+---
+topic_id: 34617
+title: "Returned Non Zero Exit Status 1"
+date: 2024-02-29
+url: https://discourse.slicer.org/t/34617
+---
+
 # returned non-zero exit status 1
 
 **Topic ID**: 34617

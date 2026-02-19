@@ -1,3 +1,10 @@
+---
+topic_id: 30547
+title: "Registration Of Images And Segmentations With Different Geom"
+date: 2023-07-12
+url: https://discourse.slicer.org/t/30547
+---
+
 # Registration of images and segmentations with different geometry (MIRACLE dataset)
 
 **Topic ID**: 30547

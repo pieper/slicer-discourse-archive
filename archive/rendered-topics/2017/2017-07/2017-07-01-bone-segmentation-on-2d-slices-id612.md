@@ -1,3 +1,10 @@
+---
+topic_id: 612
+title: "Bone Segmentation On 2D Slices"
+date: 2017-07-01
+url: https://discourse.slicer.org/t/612
+---
+
 # Bone segmentation on 2d slices
 
 **Topic ID**: 612

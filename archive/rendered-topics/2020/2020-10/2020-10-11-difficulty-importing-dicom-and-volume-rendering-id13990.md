@@ -1,3 +1,10 @@
+---
+topic_id: 13990
+title: "Difficulty Importing Dicom And Volume Rendering"
+date: 2020-10-11
+url: https://discourse.slicer.org/t/13990
+---
+
 # difficulty importing DICOM and volume rendering
 
 **Topic ID**: 13990

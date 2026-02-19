@@ -1,3 +1,10 @@
+---
+topic_id: 1114
+title: "Importing Dicom Files"
+date: 2017-09-25
+url: https://discourse.slicer.org/t/1114
+---
+
 # Importing dicom files
 
 **Topic ID**: 1114

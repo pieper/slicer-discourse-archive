@@ -1,3 +1,10 @@
+---
+topic_id: 24587
+title: "Fast Or Even Automatic Skin Segmentation"
+date: 2022-08-01
+url: https://discourse.slicer.org/t/24587
+---
+
 # Fast or even automatic skin segmentation
 
 **Topic ID**: 24587

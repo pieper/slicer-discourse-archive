@@ -1,3 +1,10 @@
+---
+topic_id: 23133
+title: "Center Coordinates Of Volume Slices"
+date: 2022-04-26
+url: https://discourse.slicer.org/t/23133
+---
+
 # Center coordinates of volume slices?
 
 **Topic ID**: 23133

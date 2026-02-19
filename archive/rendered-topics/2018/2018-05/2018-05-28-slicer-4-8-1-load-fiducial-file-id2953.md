@@ -1,3 +1,10 @@
+---
+topic_id: 2953
+title: "Slicer 4 8 1 Load Fiducial File"
+date: 2018-05-28
+url: https://discourse.slicer.org/t/2953
+---
+
 # Slicer 4.8.1 - Load Fiducial File
 
 **Topic ID**: 2953

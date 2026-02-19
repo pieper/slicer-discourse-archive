@@ -1,3 +1,10 @@
+---
+topic_id: 40436
+title: "Frameless Window Design With Secondary Monitor Flickering An"
+date: 2024-11-29
+url: https://discourse.slicer.org/t/40436
+---
+
 # Frameless Window Design with Secondary Monitor Flickering and Performance Degradation
 
 **Topic ID**: 40436

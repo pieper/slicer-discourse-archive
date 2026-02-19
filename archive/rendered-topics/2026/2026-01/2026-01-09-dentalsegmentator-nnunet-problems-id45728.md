@@ -1,3 +1,10 @@
+---
+topic_id: 45728
+title: "Dentalsegmentator Nnunet Problems"
+date: 2026-01-09
+url: https://discourse.slicer.org/t/45728
+---
+
 # DentalSegmentator / nnUNet problems
 
 **Topic ID**: 45728

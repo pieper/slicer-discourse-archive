@@ -1,3 +1,10 @@
+---
+topic_id: 6614
+title: "Reverting Back To Red Slice Version After Making Models"
+date: 2019-04-26
+url: https://discourse.slicer.org/t/6614
+---
+
 # Reverting back to Red Slice version AFTER making models
 
 **Topic ID**: 6614

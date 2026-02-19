@@ -1,3 +1,10 @@
+---
+topic_id: 32460
+title: "Accuracy Evaluation"
+date: 2023-10-29
+url: https://discourse.slicer.org/t/32460
+---
+
 # Accuracy evaluation
 
 **Topic ID**: 32460

@@ -1,3 +1,10 @@
+---
+topic_id: 15478
+title: "Acquire Images From C Arm"
+date: 2021-01-12
+url: https://discourse.slicer.org/t/15478
+---
+
 # Acquire images from C-arm
 
 **Topic ID**: 15478

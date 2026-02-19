@@ -1,3 +1,10 @@
+---
+topic_id: 34086
+title: "Manually Adjusting Transform Applied Object Seems To Jump Ar"
+date: 2024-02-01
+url: https://discourse.slicer.org/t/34086
+---
+
 # Manually Adjusting Transform - Applied Object Seems to Jump Around; Matrixes Not Edited As Expected 
 
 **Topic ID**: 34086

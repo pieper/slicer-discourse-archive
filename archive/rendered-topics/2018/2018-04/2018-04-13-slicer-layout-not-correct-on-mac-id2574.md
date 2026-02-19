@@ -1,3 +1,10 @@
+---
+topic_id: 2574
+title: "Slicer Layout Not Correct On Mac"
+date: 2018-04-13
+url: https://discourse.slicer.org/t/2574
+---
+
 # Slicer layout not correct on Mac
 
 **Topic ID**: 2574

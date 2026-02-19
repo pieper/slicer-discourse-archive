@@ -1,3 +1,10 @@
+---
+topic_id: 31016
+title: "Airway Segmentation Can Not Select Dicom Volume"
+date: 2023-08-07
+url: https://discourse.slicer.org/t/31016
+---
+
 # Airway segmentation can not select dicom volume
 
 **Topic ID**: 31016

@@ -1,3 +1,10 @@
+---
+topic_id: 9869
+title: "Slicerrt Tutorials"
+date: 2020-01-19
+url: https://discourse.slicer.org/t/9869
+---
+
 # SlicerRT Tutorials
 
 **Topic ID**: 9869

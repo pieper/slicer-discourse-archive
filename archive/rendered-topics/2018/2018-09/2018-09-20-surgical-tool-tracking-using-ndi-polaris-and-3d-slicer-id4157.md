@@ -1,3 +1,10 @@
+---
+topic_id: 4157
+title: "Surgical Tool Tracking Using Ndi Polaris And 3D Slicer"
+date: 2018-09-20
+url: https://discourse.slicer.org/t/4157
+---
+
 # Surgical tool tracking using NDI polaris and 3D Slicer
 
 **Topic ID**: 4157

@@ -1,3 +1,10 @@
+---
+topic_id: 21335
+title: "Mouse Swipe Translates View 3D Unintentionally Please Help"
+date: 2022-01-05
+url: https://discourse.slicer.org/t/21335
+---
+
 # Mouse swipe translates view/3D unintentionally -- please help
 
 **Topic ID**: 21335

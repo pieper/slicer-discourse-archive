@@ -1,3 +1,10 @@
+---
+topic_id: 20129
+title: "Dose Will Be Distorted When Creating Isodose Surfaces"
+date: 2021-10-13
+url: https://discourse.slicer.org/t/20129
+---
+
 # Dose will be distorted when creating isodose surfaces
 
 **Topic ID**: 20129

@@ -1,3 +1,10 @@
+---
+topic_id: 9717
+title: "Dwiconvert Is Not Working To Convert Dicom To Nrrd"
+date: 2020-01-06
+url: https://discourse.slicer.org/t/9717
+---
+
 # DWIConvert is not working to convert DICOM to NRRD
 
 **Topic ID**: 9717

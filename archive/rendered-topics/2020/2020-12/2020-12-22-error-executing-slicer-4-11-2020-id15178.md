@@ -1,3 +1,10 @@
+---
+topic_id: 15178
+title: "Error Executing Slicer 4 11 2020"
+date: 2020-12-22
+url: https://discourse.slicer.org/t/15178
+---
+
 # Error executing Slicer 4.11.2020
 
 **Topic ID**: 15178

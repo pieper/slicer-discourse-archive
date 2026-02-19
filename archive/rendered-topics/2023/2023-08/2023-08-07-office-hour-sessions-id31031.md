@@ -1,3 +1,10 @@
+---
+topic_id: 31031
+title: "Office Hour Sessions"
+date: 2023-08-07
+url: https://discourse.slicer.org/t/31031
+---
+
 # Office hour sessions
 
 **Topic ID**: 31031

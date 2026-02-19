@@ -1,3 +1,10 @@
+---
+topic_id: 44091
+title: "How To Optimize Slicer Extension Load Time For Large Custom"
+date: 2025-08-15
+url: https://discourse.slicer.org/t/44091
+---
+
 # How to Optimize Slicer Extension Load Time for Large Custom Toolsets
 
 **Topic ID**: 44091

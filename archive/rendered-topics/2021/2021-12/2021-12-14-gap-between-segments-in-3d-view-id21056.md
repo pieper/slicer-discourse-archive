@@ -1,3 +1,10 @@
+---
+topic_id: 21056
+title: "Gap Between Segments In 3D View"
+date: 2021-12-14
+url: https://discourse.slicer.org/t/21056
+---
+
 # Gap between segments in 3D view
 
 **Topic ID**: 21056

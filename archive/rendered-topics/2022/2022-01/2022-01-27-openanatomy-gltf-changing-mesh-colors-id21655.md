@@ -1,3 +1,10 @@
+---
+topic_id: 21655
+title: "Openanatomy Gltf Changing Mesh Colors"
+date: 2022-01-27
+url: https://discourse.slicer.org/t/21655
+---
+
 # OpenAnatomy gltf changing mesh colors
 
 **Topic ID**: 21655

@@ -1,3 +1,10 @@
+---
+topic_id: 28609
+title: "You Can Now Vote On Feature Requests"
+date: 2023-03-28
+url: https://discourse.slicer.org/t/28609
+---
+
 # You can now vote on feature requests
 
 **Topic ID**: 28609

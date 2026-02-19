@@ -1,3 +1,10 @@
+---
+topic_id: 15769
+title: "Export Segmentation"
+date: 2021-02-01
+url: https://discourse.slicer.org/t/15769
+---
+
 # Export Segmentation
 
 **Topic ID**: 15769

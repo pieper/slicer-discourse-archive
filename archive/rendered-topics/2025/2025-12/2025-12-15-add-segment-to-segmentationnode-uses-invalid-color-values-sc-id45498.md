@@ -1,3 +1,10 @@
+---
+topic_id: 45498
+title: "Add Segment To Segmentationnode Uses Invalid Color Values Sc"
+date: 2025-12-15
+url: https://discourse.slicer.org/t/45498
+---
+
 # Add Segment to SegmentationNode uses invalid color values (scalar) and adds a new colortable node
 
 **Topic ID**: 45498

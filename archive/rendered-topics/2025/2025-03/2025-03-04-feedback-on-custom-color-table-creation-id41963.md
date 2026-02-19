@@ -1,3 +1,10 @@
+---
+topic_id: 41963
+title: "Feedback On Custom Color Table Creation"
+date: 2025-03-04
+url: https://discourse.slicer.org/t/41963
+---
+
 # Feedback on custom color table creation
 
 **Topic ID**: 41963

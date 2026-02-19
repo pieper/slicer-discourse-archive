@@ -1,3 +1,10 @@
+---
+topic_id: 6028
+title: "Help With Slicer For Non English Speakers"
+date: 2019-03-05
+url: https://discourse.slicer.org/t/6028
+---
+
 # Help with Slicer for non-English speakers
 
 **Topic ID**: 6028

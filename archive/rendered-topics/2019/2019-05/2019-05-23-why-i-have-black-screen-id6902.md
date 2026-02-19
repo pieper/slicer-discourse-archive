@@ -1,3 +1,10 @@
+---
+topic_id: 6902
+title: "Why I Have Black Screen"
+date: 2019-05-23
+url: https://discourse.slicer.org/t/6902
+---
+
 # Why I have black screen?
 
 **Topic ID**: 6902

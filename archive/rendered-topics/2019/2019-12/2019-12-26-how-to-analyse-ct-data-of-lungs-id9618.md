@@ -1,3 +1,10 @@
+---
+topic_id: 9618
+title: "How To Analyse Ct Data Of Lungs"
+date: 2019-12-26
+url: https://discourse.slicer.org/t/9618
+---
+
 # How to analyse CT data of lungs?
 
 **Topic ID**: 9618

@@ -1,3 +1,10 @@
+---
+topic_id: 32739
+title: "How To Fix The Populating Font Family Aliases Issue"
+date: 2023-11-11
+url: https://discourse.slicer.org/t/32739
+---
+
 # How to fix the populating font family aliases issue
 
 **Topic ID**: 32739

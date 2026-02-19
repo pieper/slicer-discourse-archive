@@ -1,3 +1,10 @@
+---
+topic_id: 22140
+title: "How Can I Re Edit A 3D Slicer Segment In A File I Already Sa"
+date: 2022-02-23
+url: https://discourse.slicer.org/t/22140
+---
+
 # How can I re-edit a 3D slicer segment in a file I already saved?
 
 **Topic ID**: 22140

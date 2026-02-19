@@ -1,3 +1,10 @@
+---
+topic_id: 28342
+title: "How To Programmatically Add Control Points In Slicer From A"
+date: 2023-03-13
+url: https://discourse.slicer.org/t/28342
+---
+
 # How to programmatically add control points in slicer from a numpy array
 
 **Topic ID**: 28342

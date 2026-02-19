@@ -1,3 +1,10 @@
+---
+topic_id: 15715
+title: "Bone Density Link"
+date: 2021-01-28
+url: https://discourse.slicer.org/t/15715
+---
+
 # Bone density link
 
 **Topic ID**: 15715

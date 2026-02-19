@@ -1,3 +1,10 @@
+---
+topic_id: 12257
+title: "Load Surface In 3Dslicer 4 10 2"
+date: 2020-06-28
+url: https://discourse.slicer.org/t/12257
+---
+
 # load surface in 3dSlicer 4.10.2
 
 **Topic ID**: 12257

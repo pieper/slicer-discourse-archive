@@ -1,3 +1,10 @@
+---
+topic_id: 9633
+title: "How To Do Batch Registration"
+date: 2019-12-28
+url: https://discourse.slicer.org/t/9633
+---
+
 # How to do batch registration?
 
 **Topic ID**: 9633

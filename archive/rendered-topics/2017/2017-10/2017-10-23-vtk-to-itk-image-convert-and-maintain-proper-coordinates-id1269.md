@@ -1,3 +1,10 @@
+---
+topic_id: 1269
+title: "Vtk To Itk Image Convert And Maintain Proper Coordinates"
+date: 2017-10-23
+url: https://discourse.slicer.org/t/1269
+---
+
 # VTK to ITK Image convert and maintain proper coordinates
 
 **Topic ID**: 1269

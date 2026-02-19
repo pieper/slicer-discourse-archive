@@ -1,3 +1,10 @@
+---
+topic_id: 10735
+title: "Resize Roi To Same Image Size"
+date: 2020-03-18
+url: https://discourse.slicer.org/t/10735
+---
+
 # Resize ROI to same image size
 
 **Topic ID**: 10735

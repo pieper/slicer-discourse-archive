@@ -1,3 +1,10 @@
+---
+topic_id: 8124
+title: "Extension Python Wrapping Python36 D Lib Not Found"
+date: 2019-08-21
+url: https://discourse.slicer.org/t/8124
+---
+
 # Extension python wrapping (python36_d.lib not found)
 
 **Topic ID**: 8124

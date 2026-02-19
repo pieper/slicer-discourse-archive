@@ -1,3 +1,10 @@
+---
+topic_id: 35710
+title: "Not Equally Spaced Error Solution"
+date: 2024-04-24
+url: https://discourse.slicer.org/t/35710
+---
+
 # Not equally spaced error... solution?
 
 **Topic ID**: 35710

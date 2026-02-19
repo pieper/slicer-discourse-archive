@@ -1,3 +1,10 @@
+---
+topic_id: 7213
+title: "What Is Different Hu And Voxel Value"
+date: 2019-06-18
+url: https://discourse.slicer.org/t/7213
+---
+
 # What is different HU and voxel value
 
 **Topic ID**: 7213

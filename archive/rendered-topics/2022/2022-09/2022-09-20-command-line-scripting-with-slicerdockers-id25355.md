@@ -1,3 +1,10 @@
+---
+topic_id: 25355
+title: "Command Line Scripting With Slicerdockers"
+date: 2022-09-20
+url: https://discourse.slicer.org/t/25355
+---
+
 # Command line scripting with SlicerDockers
 
 **Topic ID**: 25355

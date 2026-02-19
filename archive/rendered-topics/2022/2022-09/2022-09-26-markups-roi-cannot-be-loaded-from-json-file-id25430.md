@@ -1,3 +1,10 @@
+---
+topic_id: 25430
+title: "Markups Roi Cannot Be Loaded From Json File"
+date: 2022-09-26
+url: https://discourse.slicer.org/t/25430
+---
+
 # Markups ROI cannot be loaded from JSON file
 
 **Topic ID**: 25430

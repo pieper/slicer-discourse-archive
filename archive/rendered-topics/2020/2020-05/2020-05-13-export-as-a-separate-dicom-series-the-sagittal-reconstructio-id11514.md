@@ -1,3 +1,10 @@
+---
+topic_id: 11514
+title: "Export As A Separate Dicom Series The Sagittal Reconstructio"
+date: 2020-05-13
+url: https://discourse.slicer.org/t/11514
+---
+
 # Export as a separate DICOM series the sagittal reconstruction, from axial DICOM series
 
 **Topic ID**: 11514

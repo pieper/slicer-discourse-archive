@@ -1,3 +1,10 @@
+---
+topic_id: 41675
+title: "Convert Nii Gz Into Dicom Series Through Python"
+date: 2025-02-13
+url: https://discourse.slicer.org/t/41675
+---
+
 # Convert nii.gz into DICOM series through python
 
 **Topic ID**: 41675

@@ -1,3 +1,10 @@
+---
+topic_id: 20872
+title: "Visual Representation Of Control Point In Icons"
+date: 2021-12-01
+url: https://discourse.slicer.org/t/20872
+---
+
 # Visual representation of control point in icons
 
 **Topic ID**: 20872

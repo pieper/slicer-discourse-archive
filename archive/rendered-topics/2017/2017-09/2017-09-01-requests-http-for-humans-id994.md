@@ -1,3 +1,10 @@
+---
+topic_id: 994
+title: "Requests Http For Humans"
+date: 2017-09-01
+url: https://discourse.slicer.org/t/994
+---
+
 # Requests: HTTP for Humans
 
 **Topic ID**: 994

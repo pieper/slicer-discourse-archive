@@ -1,3 +1,10 @@
+---
+topic_id: 22165
+title: "New Dynamic Modeler Tool Select By Points"
+date: 2022-02-24
+url: https://discourse.slicer.org/t/22165
+---
+
 # New Dynamic Modeler Tool: Select by Points
 
 **Topic ID**: 22165

@@ -1,3 +1,10 @@
+---
+topic_id: 477
+title: "Discobot Search Didnt Seem To Work Does Work Otherwise"
+date: 2017-06-11
+url: https://discourse.slicer.org/t/477
+---
+
 # Discobot search didn't seem to work, does work otherwise
 
 **Topic ID**: 477

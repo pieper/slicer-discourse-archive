@@ -1,3 +1,10 @@
+---
+topic_id: 13264
+title: "Display Text In Slice View"
+date: 2020-08-31
+url: https://discourse.slicer.org/t/13264
+---
+
 # Display Text in Slice view
 
 **Topic ID**: 13264

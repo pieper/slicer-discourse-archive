@@ -1,3 +1,10 @@
+---
+topic_id: 7177
+title: "Problem To Build Slicer"
+date: 2019-06-15
+url: https://discourse.slicer.org/t/7177
+---
+
 # Problem to build Slicer?!
 
 **Topic ID**: 7177

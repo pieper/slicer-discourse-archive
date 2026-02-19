@@ -1,3 +1,10 @@
+---
+topic_id: 38262
+title: "Automating 3D Model Animations"
+date: 2024-09-07
+url: https://discourse.slicer.org/t/38262
+---
+
 # Automating 3D Model Animations
 
 **Topic ID**: 38262

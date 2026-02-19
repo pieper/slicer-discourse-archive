@@ -1,3 +1,10 @@
+---
+topic_id: 27144
+title: "Draw Principal Axes"
+date: 2023-01-09
+url: https://discourse.slicer.org/t/27144
+---
+
 # Draw principal axes
 
 **Topic ID**: 27144

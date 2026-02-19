@@ -1,3 +1,10 @@
+---
+topic_id: 38020
+title: "Get The Most Separated Points"
+date: 2024-08-24
+url: https://discourse.slicer.org/t/38020
+---
+
 # Get the most separated points
 
 **Topic ID**: 38020

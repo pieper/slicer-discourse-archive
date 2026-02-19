@@ -1,3 +1,10 @@
+---
+topic_id: 20454
+title: "Multiple Sessions Of Slicer Are Launched In A Loop"
+date: 2021-11-02
+url: https://discourse.slicer.org/t/20454
+---
+
 # Multiple sessions of Slicer are launched in a loop
 
 **Topic ID**: 20454

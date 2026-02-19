@@ -1,3 +1,10 @@
+---
+topic_id: 1513
+title: "Building The Ijk To Ras Transform From A Nrrd File"
+date: 2017-11-23
+url: https://discourse.slicer.org/t/1513
+---
+
 # Building the ijk to RAS transform from a nrrd file
 
 **Topic ID**: 1513

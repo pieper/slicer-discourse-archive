@@ -1,3 +1,10 @@
+---
+topic_id: 44235
+title: "Add Keyboard And Mouse Shortcuts For Module Selector Navigat"
+date: 2025-08-28
+url: https://discourse.slicer.org/t/44235
+---
+
 # Add keyboard and mouse shortcuts for Module Selector navigation
 
 **Topic ID**: 44235

@@ -1,3 +1,10 @@
+---
+topic_id: 4969
+title: "I Cant Install Extensions"
+date: 2018-12-05
+url: https://discourse.slicer.org/t/4969
+---
+
 # I can't install extensions
 
 **Topic ID**: 4969

@@ -1,3 +1,10 @@
+---
+topic_id: 28144
+title: "How To Use Totalsegmentator From Script With No Main Window"
+date: 2023-03-02
+url: https://discourse.slicer.org/t/28144
+---
+
 # How to use TotalSegmentator from Script with "--no-main-window" option
 
 **Topic ID**: 28144

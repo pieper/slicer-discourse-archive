@@ -1,3 +1,10 @@
+---
+topic_id: 11575
+title: "Is There A Way To Match Two Views For Different Thickness Da"
+date: 2020-05-16
+url: https://discourse.slicer.org/t/11575
+---
+
 # Is there a way to match two views for different thickness data?
 
 **Topic ID**: 11575

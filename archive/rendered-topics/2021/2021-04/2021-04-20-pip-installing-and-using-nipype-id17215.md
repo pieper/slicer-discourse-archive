@@ -1,3 +1,10 @@
+---
+topic_id: 17215
+title: "Pip Installing And Using Nipype"
+date: 2021-04-20
+url: https://discourse.slicer.org/t/17215
+---
+
 # Pip installing and using nipype
 
 **Topic ID**: 17215

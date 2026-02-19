@@ -1,3 +1,10 @@
+---
+topic_id: 38050
+title: "Build Slicer On Win11 Use Git Bash To Configure Slicer Repo"
+date: 2024-08-27
+url: https://discourse.slicer.org/t/38050
+---
+
 # Build Slicer on Win11, use git bash to configure Slicer repo failed due to ownership discripancy
 
 **Topic ID**: 38050

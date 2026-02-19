@@ -1,3 +1,10 @@
+---
+topic_id: 6777
+title: "Error In Cropping Dti Volume"
+date: 2019-05-13
+url: https://discourse.slicer.org/t/6777
+---
+
 # Error in Cropping DTI Volume
 
 **Topic ID**: 6777

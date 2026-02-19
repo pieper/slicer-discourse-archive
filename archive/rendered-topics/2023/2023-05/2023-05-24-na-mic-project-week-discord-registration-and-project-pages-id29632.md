@@ -1,3 +1,10 @@
+---
+topic_id: 29632
+title: "Na Mic Project Week Discord Registration And Project Pages"
+date: 2023-05-24
+url: https://discourse.slicer.org/t/29632
+---
+
 # [Na-mic-project-week] Discord, registration and project pages
 
 **Topic ID**: 29632

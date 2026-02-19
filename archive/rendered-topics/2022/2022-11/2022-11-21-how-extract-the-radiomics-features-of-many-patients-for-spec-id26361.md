@@ -1,3 +1,10 @@
+---
+topic_id: 26361
+title: "How Extract The Radiomics Features Of Many Patients For Spec"
+date: 2022-11-21
+url: https://discourse.slicer.org/t/26361
+---
+
 # How extract the radiomics features of many patients for specific region of interests by using python interactor instead of manually one by one patient?
 
 **Topic ID**: 26361

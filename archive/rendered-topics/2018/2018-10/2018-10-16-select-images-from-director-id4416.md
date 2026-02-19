@@ -1,3 +1,10 @@
+---
+topic_id: 4416
+title: "Select Images From Director"
+date: 2018-10-16
+url: https://discourse.slicer.org/t/4416
+---
+
 # Select images from director
 
 **Topic ID**: 4416

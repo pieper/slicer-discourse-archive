@@ -1,3 +1,10 @@
+---
+topic_id: 25705
+title: "How Do Get This Model To Rotate Around Its Center Point"
+date: 2022-10-14
+url: https://discourse.slicer.org/t/25705
+---
+
 # How do get this model to rotate around its center point?
 
 **Topic ID**: 25705

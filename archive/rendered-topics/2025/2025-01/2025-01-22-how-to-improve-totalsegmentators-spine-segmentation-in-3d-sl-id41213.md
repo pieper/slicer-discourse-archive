@@ -1,3 +1,10 @@
+---
+topic_id: 41213
+title: "How To Improve Totalsegmentators Spine Segmentation In 3D Sl"
+date: 2025-01-22
+url: https://discourse.slicer.org/t/41213
+---
+
 # How to Improve TotalSegmentator's Spine Segmentation in 3D Slicer?
 
 **Topic ID**: 41213

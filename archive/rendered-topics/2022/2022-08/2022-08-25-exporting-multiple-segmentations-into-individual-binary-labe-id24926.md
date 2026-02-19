@@ -1,3 +1,10 @@
+---
+topic_id: 24926
+title: "Exporting Multiple Segmentations Into Individual Binary Labe"
+date: 2022-08-25
+url: https://discourse.slicer.org/t/24926
+---
+
 # Exporting multiple segmentations into individual binary labelmaps?
 
 **Topic ID**: 24926

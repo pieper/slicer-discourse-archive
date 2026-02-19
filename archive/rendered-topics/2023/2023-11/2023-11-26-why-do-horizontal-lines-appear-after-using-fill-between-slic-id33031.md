@@ -1,3 +1,10 @@
+---
+topic_id: 33031
+title: "Why Do Horizontal Lines Appear After Using Fill Between Slic"
+date: 2023-11-26
+url: https://discourse.slicer.org/t/33031
+---
+
 # Why do horizontal lines appear after using Fill Between Slices in 3D Slicer?
 
 **Topic ID**: 33031

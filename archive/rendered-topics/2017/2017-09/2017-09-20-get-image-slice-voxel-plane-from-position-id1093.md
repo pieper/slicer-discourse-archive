@@ -1,3 +1,10 @@
+---
+topic_id: 1093
+title: "Get Image Slice Voxel Plane From Position"
+date: 2017-09-20
+url: https://discourse.slicer.org/t/1093
+---
+
 # Get image slice/voxel plane from position
 
 **Topic ID**: 1093

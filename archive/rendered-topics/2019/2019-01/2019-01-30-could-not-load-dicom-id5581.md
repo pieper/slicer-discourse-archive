@@ -1,3 +1,10 @@
+---
+topic_id: 5581
+title: "Could Not Load Dicom"
+date: 2019-01-30
+url: https://discourse.slicer.org/t/5581
+---
+
 # Could not load: DICOM
 
 **Topic ID**: 5581

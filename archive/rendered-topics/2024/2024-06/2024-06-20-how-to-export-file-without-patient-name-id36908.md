@@ -1,3 +1,10 @@
+---
+topic_id: 36908
+title: "How To Export File Without Patient Name"
+date: 2024-06-20
+url: https://discourse.slicer.org/t/36908
+---
+
 # How to export file without patient name
 
 **Topic ID**: 36908

@@ -1,3 +1,10 @@
+---
+topic_id: 5254
+title: "Registration Of Head Ct Mri Of Non Human Primate"
+date: 2019-01-03
+url: https://discourse.slicer.org/t/5254
+---
+
 # Registration of Head CT & MRI of Non-human Primate
 
 **Topic ID**: 5254

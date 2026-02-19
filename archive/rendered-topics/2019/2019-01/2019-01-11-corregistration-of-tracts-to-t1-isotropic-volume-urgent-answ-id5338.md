@@ -1,3 +1,10 @@
+---
+topic_id: 5338
+title: "Corregistration Of Tracts To T1 Isotropic Volume Urgent Answ"
+date: 2019-01-11
+url: https://discourse.slicer.org/t/5338
+---
+
 # corregistration of tracts to T1 isotropic volume (urgent answer please)
 
 **Topic ID**: 5338

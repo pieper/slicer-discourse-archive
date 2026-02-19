@@ -1,3 +1,10 @@
+---
+topic_id: 1439
+title: "Troubles Using Older Modules"
+date: 2017-11-12
+url: https://discourse.slicer.org/t/1439
+---
+
 # Troubles using older Modules
 
 **Topic ID**: 1439

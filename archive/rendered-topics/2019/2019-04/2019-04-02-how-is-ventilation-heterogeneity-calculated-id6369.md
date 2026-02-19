@@ -1,3 +1,10 @@
+---
+topic_id: 6369
+title: "How Is Ventilation Heterogeneity Calculated"
+date: 2019-04-02
+url: https://discourse.slicer.org/t/6369
+---
+
 # How is Ventilation heterogeneity calculated?
 
 **Topic ID**: 6369

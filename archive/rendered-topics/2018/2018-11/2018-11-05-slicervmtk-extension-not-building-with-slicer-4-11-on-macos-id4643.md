@@ -1,3 +1,10 @@
+---
+topic_id: 4643
+title: "Slicervmtk Extension Not Building With Slicer 4 11 On Macos"
+date: 2018-11-05
+url: https://discourse.slicer.org/t/4643
+---
+
 # SlicerVMTK extension not building with Slicer 4.11 on MacOS
 
 **Topic ID**: 4643

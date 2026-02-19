@@ -1,3 +1,10 @@
+---
+topic_id: 30775
+title: "How To Set The Interval Distance Between Slice Node Layout G"
+date: 2023-07-25
+url: https://discourse.slicer.org/t/30775
+---
+
 # How to set the Interval distance between slice node layout grid?
 
 **Topic ID**: 30775

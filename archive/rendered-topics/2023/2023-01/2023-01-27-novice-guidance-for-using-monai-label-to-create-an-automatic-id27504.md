@@ -1,3 +1,10 @@
+---
+topic_id: 27504
+title: "Novice Guidance For Using Monai Label To Create An Automatic"
+date: 2023-01-27
+url: https://discourse.slicer.org/t/27504
+---
+
 # Novice Guidance for Using MONAI Label to Create an Automatic Segmentation App
 
 **Topic ID**: 27504

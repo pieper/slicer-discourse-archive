@@ -1,3 +1,10 @@
+---
+topic_id: 20359
+title: "New Physician Annotated Dcm Files Not Loading"
+date: 2021-10-26
+url: https://discourse.slicer.org/t/20359
+---
+
 # New physician-annotated .dcm files not loading
 
 **Topic ID**: 20359

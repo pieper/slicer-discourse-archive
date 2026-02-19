@@ -1,3 +1,10 @@
+---
+topic_id: 39134
+title: "Cannot Segment After Using Transforms And Resample Scalar Ve"
+date: 2024-09-28
+url: https://discourse.slicer.org/t/39134
+---
+
 # Cannot segment after using Transforms and Resample Scalar/vectorDWI Volume modules
 
 **Topic ID**: 39134

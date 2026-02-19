@@ -1,3 +1,10 @@
+---
+topic_id: 38301
+title: "How To Set Closed Surface Representation As Default Segmenta"
+date: 2024-09-09
+url: https://discourse.slicer.org/t/38301
+---
+
 # How to set Closed Surface representation as default segmentation for RTSTRUCT?
 
 **Topic ID**: 38301

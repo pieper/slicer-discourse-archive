@@ -1,3 +1,10 @@
+---
+topic_id: 40697
+title: "Linux Builds Failed Today"
+date: 2024-12-14
+url: https://discourse.slicer.org/t/40697
+---
+
 # Linux builds failed today
 
 **Topic ID**: 40697

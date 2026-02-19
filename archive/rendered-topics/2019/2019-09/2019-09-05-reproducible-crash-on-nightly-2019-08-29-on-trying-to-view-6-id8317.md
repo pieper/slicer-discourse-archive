@@ -1,3 +1,10 @@
+---
+topic_id: 8317
+title: "Reproducible Crash On Nightly 2019 08 29 On Trying To View 6"
+date: 2019-09-05
+url: https://discourse.slicer.org/t/8317
+---
+
 # Reproducible crash on Nightly (2019-08-29) on trying to view 64 bit image
 
 **Topic ID**: 8317

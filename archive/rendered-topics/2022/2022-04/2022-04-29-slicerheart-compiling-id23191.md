@@ -1,3 +1,10 @@
+---
+topic_id: 23191
+title: "Slicerheart Compiling"
+date: 2022-04-29
+url: https://discourse.slicer.org/t/23191
+---
+
 # SlicerHeart compiling
 
 **Topic ID**: 23191

@@ -1,3 +1,10 @@
+---
+topic_id: 6788
+title: "Create Segmentation Or Export 3D Model From Binary Data"
+date: 2019-05-14
+url: https://discourse.slicer.org/t/6788
+---
+
 # Create segmentation or export 3D model from binary data
 
 **Topic ID**: 6788

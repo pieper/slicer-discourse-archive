@@ -1,3 +1,10 @@
+---
+topic_id: 18266
+title: "Slicerigt Interface To Aimooe Aimposition Position Tracker"
+date: 2021-06-22
+url: https://discourse.slicer.org/t/18266
+---
+
 # SlicerIGT interface to Aimooe AimPosition position tracker
 
 **Topic ID**: 18266

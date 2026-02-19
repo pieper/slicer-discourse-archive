@@ -1,3 +1,10 @@
+---
+topic_id: 23238
+title: "Loadable Custom Markups How To Install The Packaged Extensio"
+date: 2022-05-02
+url: https://discourse.slicer.org/t/23238
+---
+
 # Loadable custom markups : how to install the packaged extension
 
 **Topic ID**: 23238

@@ -1,3 +1,10 @@
+---
+topic_id: 1272
+title: "Can I Change The Center Of Rotation In The Transform Module"
+date: 2017-10-24
+url: https://discourse.slicer.org/t/1272
+---
+
 # Can I change the center of rotation in the 'transform' module?
 
 **Topic ID**: 1272

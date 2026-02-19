@@ -1,3 +1,10 @@
+---
+topic_id: 656
+title: "Separate Annotations For Each Slice"
+date: 2017-07-09
+url: https://discourse.slicer.org/t/656
+---
+
 # Separate annotations for each slice
 
 **Topic ID**: 656

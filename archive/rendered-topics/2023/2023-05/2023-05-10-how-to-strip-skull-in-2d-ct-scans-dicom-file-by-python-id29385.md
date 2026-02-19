@@ -1,3 +1,10 @@
+---
+topic_id: 29385
+title: "How To Strip Skull In 2D Ct Scans Dicom File By Python"
+date: 2023-05-10
+url: https://discourse.slicer.org/t/29385
+---
+
 # How to strip skull in 2D CT scans dicom file by python ?
 
 **Topic ID**: 29385

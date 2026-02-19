@@ -1,3 +1,10 @@
+---
+topic_id: 30853
+title: "Using A Scaled Down Version Of A Volume To Segment Then Usin"
+date: 2023-07-28
+url: https://discourse.slicer.org/t/30853
+---
+
 # Using a scaled down version of a volume to segment, then using this segment on original large size volumes
 
 **Topic ID**: 30853

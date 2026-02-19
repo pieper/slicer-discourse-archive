@@ -1,3 +1,10 @@
+---
+topic_id: 33889
+title: "Drawing An Irregular Roi In The Image"
+date: 2024-01-21
+url: https://discourse.slicer.org/t/33889
+---
+
 # Drawing an irregular ROI in the image
 
 **Topic ID**: 33889

@@ -1,3 +1,10 @@
+---
+topic_id: 4913
+title: "Custom Application Does Not Open Module At Startup"
+date: 2018-11-29
+url: https://discourse.slicer.org/t/4913
+---
+
 # Custom application does not open module at startup
 
 **Topic ID**: 4913

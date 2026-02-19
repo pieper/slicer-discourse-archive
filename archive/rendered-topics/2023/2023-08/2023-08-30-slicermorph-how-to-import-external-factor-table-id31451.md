@@ -1,3 +1,10 @@
+---
+topic_id: 31451
+title: "Slicermorph How To Import External Factor Table"
+date: 2023-08-30
+url: https://discourse.slicer.org/t/31451
+---
+
 # Slicermorph - How to import external factor table
 
 **Topic ID**: 31451

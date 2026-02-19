@@ -1,3 +1,10 @@
+---
+topic_id: 13938
+title: "Sticky Settings For Sphere Brush And Editable Intensity Rang"
+date: 2020-10-08
+url: https://discourse.slicer.org/t/13938
+---
+
 # "Sticky" settings for sphere brush and editable intensity range
 
 **Topic ID**: 13938

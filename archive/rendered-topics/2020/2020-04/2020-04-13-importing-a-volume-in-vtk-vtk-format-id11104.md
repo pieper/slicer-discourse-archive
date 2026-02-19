@@ -1,3 +1,10 @@
+---
+topic_id: 11104
+title: "Importing A Volume In Vtk Vtk Format"
+date: 2020-04-13
+url: https://discourse.slicer.org/t/11104
+---
+
 # Importing a Volume in VTK (.vtk) format
 
 **Topic ID**: 11104

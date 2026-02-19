@@ -1,3 +1,10 @@
+---
+topic_id: 2393
+title: "Undefined Symbol When Run My Cli Modules Extensions"
+date: 2018-03-21
+url: https://discourse.slicer.org/t/2393
+---
+
 # Undefined symbol when run my CLI modules extensions
 
 **Topic ID**: 2393

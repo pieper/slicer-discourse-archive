@@ -1,3 +1,10 @@
+---
+topic_id: 19350
+title: "Segment Editor Has Disappeared From The Screen"
+date: 2021-08-25
+url: https://discourse.slicer.org/t/19350
+---
+
 # Segment editor has disappeared from the screen
 
 **Topic ID**: 19350

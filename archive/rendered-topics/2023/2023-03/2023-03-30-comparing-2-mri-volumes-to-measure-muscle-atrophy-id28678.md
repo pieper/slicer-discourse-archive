@@ -1,3 +1,10 @@
+---
+topic_id: 28678
+title: "Comparing 2 Mri Volumes To Measure Muscle Atrophy"
+date: 2023-03-30
+url: https://discourse.slicer.org/t/28678
+---
+
 # Comparing 2 MRI volumes to measure muscle atrophy
 
 **Topic ID**: 28678

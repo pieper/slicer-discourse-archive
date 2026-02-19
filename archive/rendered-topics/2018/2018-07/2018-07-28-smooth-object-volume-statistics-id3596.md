@@ -1,3 +1,10 @@
+---
+topic_id: 3596
+title: "Smooth Object Volume Statistics"
+date: 2018-07-28
+url: https://discourse.slicer.org/t/3596
+---
+
 # Smooth Object volume statistics 
 
 **Topic ID**: 3596

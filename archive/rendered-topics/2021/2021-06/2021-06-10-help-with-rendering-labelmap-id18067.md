@@ -1,3 +1,10 @@
+---
+topic_id: 18067
+title: "Help With Rendering Labelmap"
+date: 2021-06-10
+url: https://discourse.slicer.org/t/18067
+---
+
 # Help with rendering labelmap
 
 **Topic ID**: 18067

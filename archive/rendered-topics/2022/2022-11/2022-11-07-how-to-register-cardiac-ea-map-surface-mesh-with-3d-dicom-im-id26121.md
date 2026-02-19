@@ -1,3 +1,10 @@
+---
+topic_id: 26121
+title: "How To Register Cardiac Ea Map Surface Mesh With 3D Dicom Im"
+date: 2022-11-07
+url: https://discourse.slicer.org/t/26121
+---
+
 # How to register cardiac EA map surface mesh with 3D DICOM image
 
 **Topic ID**: 26121

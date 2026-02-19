@@ -1,3 +1,10 @@
+---
+topic_id: 28303
+title: "Slicerlookingglass Extension Slicer Models Are Stretched And"
+date: 2023-03-11
+url: https://discourse.slicer.org/t/28303
+---
+
 # SlicerLookingGlass Extension: Slicer models are stretched and distorted on the Quilt
 
 **Topic ID**: 28303

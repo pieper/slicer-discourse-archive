@@ -1,3 +1,10 @@
+---
+topic_id: 15546
+title: "Can I Prevent Modelmaker From Changing What Appears In The S"
+date: 2021-01-16
+url: https://discourse.slicer.org/t/15546
+---
+
 # Can I prevent ModelMaker from changing what appears in the Slice views?
 
 **Topic ID**: 15546

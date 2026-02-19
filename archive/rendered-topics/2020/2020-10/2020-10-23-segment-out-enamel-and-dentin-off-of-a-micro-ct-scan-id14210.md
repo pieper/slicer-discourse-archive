@@ -1,3 +1,10 @@
+---
+topic_id: 14210
+title: "Segment Out Enamel And Dentin Off Of A Micro Ct Scan"
+date: 2020-10-23
+url: https://discourse.slicer.org/t/14210
+---
+
 # Segment out enamel and dentin off of a micro CT scan?
 
 **Topic ID**: 14210

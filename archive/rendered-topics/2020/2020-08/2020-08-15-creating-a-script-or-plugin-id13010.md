@@ -1,3 +1,10 @@
+---
+topic_id: 13010
+title: "Creating A Script Or Plugin"
+date: 2020-08-15
+url: https://discourse.slicer.org/t/13010
+---
+
 # Creating a script or plugin
 
 **Topic ID**: 13010

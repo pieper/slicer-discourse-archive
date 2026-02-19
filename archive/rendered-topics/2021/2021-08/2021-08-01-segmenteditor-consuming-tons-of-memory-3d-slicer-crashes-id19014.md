@@ -1,3 +1,10 @@
+---
+topic_id: 19014
+title: "Segmenteditor Consuming Tons Of Memory 3D Slicer Crashes"
+date: 2021-08-01
+url: https://discourse.slicer.org/t/19014
+---
+
 # SegmentEditor consuming tons of memory & 3d slicer crashes
 
 **Topic ID**: 19014

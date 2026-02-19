@@ -1,3 +1,10 @@
+---
+topic_id: 41662
+title: "How To Make A Model Available In Cli Python Modules"
+date: 2025-02-13
+url: https://discourse.slicer.org/t/41662
+---
+
 # How to make a model available in CLI Python modules
 
 **Topic ID**: 41662

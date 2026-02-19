@@ -1,3 +1,10 @@
+---
+topic_id: 23835
+title: "Shut Down Suddenly"
+date: 2022-06-11
+url: https://discourse.slicer.org/t/23835
+---
+
 # Shut down suddenly
 
 **Topic ID**: 23835

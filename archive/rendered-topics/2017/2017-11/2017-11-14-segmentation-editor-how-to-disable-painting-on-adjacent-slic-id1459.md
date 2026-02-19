@@ -1,3 +1,10 @@
+---
+topic_id: 1459
+title: "Segmentation Editor How To Disable Painting On Adjacent Slic"
+date: 2017-11-14
+url: https://discourse.slicer.org/t/1459
+---
+
 # Segmentation Editor - How to disable painting on adjacent slices?
 
 **Topic ID**: 1459

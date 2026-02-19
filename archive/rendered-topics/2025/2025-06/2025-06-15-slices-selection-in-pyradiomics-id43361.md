@@ -1,3 +1,10 @@
+---
+topic_id: 43361
+title: "Slices Selection In Pyradiomics"
+date: 2025-06-15
+url: https://discourse.slicer.org/t/43361
+---
+
 # Slices selection in pyradiomics
 
 **Topic ID**: 43361

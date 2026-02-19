@@ -1,3 +1,10 @@
+---
+topic_id: 24338
+title: "How Does Slicer Distinguish Different Series"
+date: 2022-07-16
+url: https://discourse.slicer.org/t/24338
+---
+
 # How does Slicer distinguish different series?
 
 **Topic ID**: 24338

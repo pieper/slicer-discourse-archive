@@ -1,3 +1,10 @@
+---
+topic_id: 554
+title: "Diffusion Tensor Imaging Of Liver"
+date: 2017-06-22
+url: https://discourse.slicer.org/t/554
+---
+
 # Diffusion tensor imaging of liver
 
 **Topic ID**: 554

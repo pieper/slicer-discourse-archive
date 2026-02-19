@@ -1,3 +1,10 @@
+---
+topic_id: 34869
+title: "Using Monai Label To Fine Tune The Vessel Segmentation"
+date: 2024-03-13
+url: https://discourse.slicer.org/t/34869
+---
+
 # Using MONAI label to fine tune the vessel segmentation
 
 **Topic ID**: 34869

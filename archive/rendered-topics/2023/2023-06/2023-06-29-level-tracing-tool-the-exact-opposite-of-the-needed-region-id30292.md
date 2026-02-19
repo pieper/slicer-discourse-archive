@@ -1,3 +1,10 @@
+---
+topic_id: 30292
+title: "Level Tracing Tool The Exact Opposite Of The Needed Region"
+date: 2023-06-29
+url: https://discourse.slicer.org/t/30292
+---
+
 # Level tracing tool; the exact opposite of the needed region
 
 **Topic ID**: 30292

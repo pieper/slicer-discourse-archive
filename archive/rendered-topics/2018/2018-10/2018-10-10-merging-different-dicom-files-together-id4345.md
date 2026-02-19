@@ -1,3 +1,10 @@
+---
+topic_id: 4345
+title: "Merging Different Dicom Files Together"
+date: 2018-10-10
+url: https://discourse.slicer.org/t/4345
+---
+
 # Merging different DICOM files together
 
 **Topic ID**: 4345

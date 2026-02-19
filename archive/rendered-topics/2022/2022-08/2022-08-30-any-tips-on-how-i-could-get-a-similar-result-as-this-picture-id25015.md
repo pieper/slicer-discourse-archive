@@ -1,3 +1,10 @@
+---
+topic_id: 25015
+title: "Any Tips On How I Could Get A Similar Result As This Picture"
+date: 2022-08-30
+url: https://discourse.slicer.org/t/25015
+---
+
 # Any tips on how I could get a similar result as this picture?
 
 **Topic ID**: 25015

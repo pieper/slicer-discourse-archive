@@ -1,3 +1,10 @@
+---
+topic_id: 38316
+title: "Dicom Data Multiple Volumes"
+date: 2024-09-10
+url: https://discourse.slicer.org/t/38316
+---
+
 # Dicom data multiple volumes 
 
 **Topic ID**: 38316

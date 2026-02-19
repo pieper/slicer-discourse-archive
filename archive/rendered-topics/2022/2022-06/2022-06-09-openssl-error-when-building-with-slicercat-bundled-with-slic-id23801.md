@@ -1,3 +1,10 @@
+---
+topic_id: 23801
+title: "Openssl Error When Building With Slicercat Bundled With Slic"
+date: 2022-06-09
+url: https://discourse.slicer.org/t/23801
+---
+
 # OpenSSL error when building with SlicerCAT bundled with SlicerJupyter on Windows
 
 **Topic ID**: 23801

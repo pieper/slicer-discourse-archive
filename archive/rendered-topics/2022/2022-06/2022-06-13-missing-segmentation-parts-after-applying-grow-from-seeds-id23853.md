@@ -1,3 +1,10 @@
+---
+topic_id: 23853
+title: "Missing Segmentation Parts After Applying Grow From Seeds"
+date: 2022-06-13
+url: https://discourse.slicer.org/t/23853
+---
+
 # Missing segmentation parts after applying 'grow from seeds' 
 
 **Topic ID**: 23853

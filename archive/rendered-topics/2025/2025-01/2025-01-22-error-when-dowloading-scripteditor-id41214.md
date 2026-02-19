@@ -1,3 +1,10 @@
+---
+topic_id: 41214
+title: "Error When Dowloading Scripteditor"
+date: 2025-01-22
+url: https://discourse.slicer.org/t/41214
+---
+
 # Error when dowloading ScriptEditor
 
 **Topic ID**: 41214

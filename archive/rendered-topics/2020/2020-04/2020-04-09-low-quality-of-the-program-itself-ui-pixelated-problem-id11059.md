@@ -1,3 +1,10 @@
+---
+topic_id: 11059
+title: "Low Quality Of The Program Itself Ui Pixelated Problem"
+date: 2020-04-09
+url: https://discourse.slicer.org/t/11059
+---
+
 # Low quality of the program itself (UI pixelated problem)
 
 **Topic ID**: 11059

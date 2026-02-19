@@ -1,3 +1,10 @@
+---
+topic_id: 28939
+title: "Patients Breathing Solutions"
+date: 2023-04-16
+url: https://discourse.slicer.org/t/28939
+---
+
 # Patient's breathing solutions
 
 **Topic ID**: 28939

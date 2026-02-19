@@ -1,3 +1,10 @@
+---
+topic_id: 4194
+title: "Combine Two Dicom Images"
+date: 2018-09-26
+url: https://discourse.slicer.org/t/4194
+---
+
 # Combine two DICOM images
 
 **Topic ID**: 4194

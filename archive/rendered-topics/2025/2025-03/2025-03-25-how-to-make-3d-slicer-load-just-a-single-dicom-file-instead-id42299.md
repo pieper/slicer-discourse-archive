@@ -1,3 +1,10 @@
+---
+topic_id: 42299
+title: "How To Make 3D Slicer Load Just A Single Dicom File Instead"
+date: 2025-03-25
+url: https://discourse.slicer.org/t/42299
+---
+
 # How to make 3D Slicer load just a single DICOM file instead of automatically loading the full series?
 
 **Topic ID**: 42299

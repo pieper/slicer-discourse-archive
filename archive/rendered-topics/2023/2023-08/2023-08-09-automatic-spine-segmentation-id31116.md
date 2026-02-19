@@ -1,3 +1,10 @@
+---
+topic_id: 31116
+title: "Automatic Spine Segmentation"
+date: 2023-08-09
+url: https://discourse.slicer.org/t/31116
+---
+
 # Automatic spine segmentation
 
 **Topic ID**: 31116

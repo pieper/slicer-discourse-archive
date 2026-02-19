@@ -1,3 +1,10 @@
+---
+topic_id: 13945
+title: "Use Button Widget To Run Function"
+date: 2020-10-08
+url: https://discourse.slicer.org/t/13945
+---
+
 # Use button widget to run function
 
 **Topic ID**: 13945

@@ -1,3 +1,10 @@
+---
+topic_id: 16941
+title: "How To Fill Missing Skull Or Any Tools To Help Me Create The"
+date: 2021-04-04
+url: https://discourse.slicer.org/t/16941
+---
+
 # How to fill missing skull? or any tools to help me create the segment between the gap of skull
 
 **Topic ID**: 16941

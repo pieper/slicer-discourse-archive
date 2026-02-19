@@ -1,3 +1,10 @@
+---
+topic_id: 376
+title: "Em Segmenter Input Type Mismatch"
+date: 2017-05-24
+url: https://discourse.slicer.org/t/376
+---
+
 # EM Segmenter: input type mismatch
 
 **Topic ID**: 376

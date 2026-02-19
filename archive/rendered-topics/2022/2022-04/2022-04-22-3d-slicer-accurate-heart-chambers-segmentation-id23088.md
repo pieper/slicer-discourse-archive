@@ -1,3 +1,10 @@
+---
+topic_id: 23088
+title: "3D Slicer Accurate Heart Chambers Segmentation"
+date: 2022-04-22
+url: https://discourse.slicer.org/t/23088
+---
+
 # 3D slicer accurate heart chambers segmentation
 
 **Topic ID**: 23088

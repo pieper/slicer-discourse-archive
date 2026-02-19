@@ -1,3 +1,10 @@
+---
+topic_id: 33670
+title: "Advanced 3D Slicer Virtual Course Announcement February 14 1"
+date: 2024-01-08
+url: https://discourse.slicer.org/t/33670
+---
+
 # Advanced 3D Slicer Virtual Course Announcement: February 14-15, 2024
 
 **Topic ID**: 33670

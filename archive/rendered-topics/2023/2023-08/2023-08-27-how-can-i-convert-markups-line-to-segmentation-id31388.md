@@ -1,3 +1,10 @@
+---
+topic_id: 31388
+title: "How Can I Convert Markups Line To Segmentation"
+date: 2023-08-27
+url: https://discourse.slicer.org/t/31388
+---
+
 # How can i convert markups line to segmentation?
 
 **Topic ID**: 31388

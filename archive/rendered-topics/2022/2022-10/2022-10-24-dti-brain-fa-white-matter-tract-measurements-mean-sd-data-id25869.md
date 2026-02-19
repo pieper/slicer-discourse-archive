@@ -1,3 +1,10 @@
+---
+topic_id: 25869
+title: "Dti Brain Fa White Matter Tract Measurements Mean Sd Data"
+date: 2022-10-24
+url: https://discourse.slicer.org/t/25869
+---
+
 # dti brain fa white matter tract measurements mean/sd data
 
 **Topic ID**: 25869

@@ -1,3 +1,10 @@
+---
+topic_id: 10310
+title: "High Definition Segmentation"
+date: 2020-02-17
+url: https://discourse.slicer.org/t/10310
+---
+
 # High definition segmentation
 
 **Topic ID**: 10310

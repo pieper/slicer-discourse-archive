@@ -1,3 +1,10 @@
+---
+topic_id: 21099
+title: "Custom Module Presentation Straight Curve Gauge"
+date: 2021-12-16
+url: https://discourse.slicer.org/t/21099
+---
+
 # Custom module presentation : Straight Curve Gauge
 
 **Topic ID**: 21099

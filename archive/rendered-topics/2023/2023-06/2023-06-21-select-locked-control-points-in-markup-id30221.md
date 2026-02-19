@@ -1,3 +1,10 @@
+---
+topic_id: 30221
+title: "Select Locked Control Points In Markup"
+date: 2023-06-21
+url: https://discourse.slicer.org/t/30221
+---
+
 # Select locked control points in markup
 
 **Topic ID**: 30221

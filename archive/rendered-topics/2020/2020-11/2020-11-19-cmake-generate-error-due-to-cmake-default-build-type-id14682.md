@@ -1,3 +1,10 @@
+---
+topic_id: 14682
+title: "Cmake Generate Error Due To Cmake Default Build Type"
+date: 2020-11-19
+url: https://discourse.slicer.org/t/14682
+---
+
 # CMake generate error due to CMAKE_DEFAULT_BUILD_TYPE
 
 **Topic ID**: 14682

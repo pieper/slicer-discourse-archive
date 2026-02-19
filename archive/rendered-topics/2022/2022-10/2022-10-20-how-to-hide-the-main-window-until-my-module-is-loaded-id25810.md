@@ -1,3 +1,10 @@
+---
+topic_id: 25810
+title: "How To Hide The Main Window Until My Module Is Loaded"
+date: 2022-10-20
+url: https://discourse.slicer.org/t/25810
+---
+
 # How to hide the main window until my module is loaded
 
 **Topic ID**: 25810

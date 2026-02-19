@@ -1,3 +1,10 @@
+---
+topic_id: 10494
+title: "Real Time Interactive Plot In Slicer"
+date: 2020-03-02
+url: https://discourse.slicer.org/t/10494
+---
+
 # Real time interactive plot in Slicer
 
 **Topic ID**: 10494

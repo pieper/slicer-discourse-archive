@@ -1,3 +1,10 @@
+---
+topic_id: 34887
+title: "Are Measurements In Slicer Calculated By The Dicom File How"
+date: 2024-03-14
+url: https://discourse.slicer.org/t/34887
+---
+
 # Are measurements in slicer calculated by the DICOM file? How do you know it is accurate?
 
 **Topic ID**: 34887

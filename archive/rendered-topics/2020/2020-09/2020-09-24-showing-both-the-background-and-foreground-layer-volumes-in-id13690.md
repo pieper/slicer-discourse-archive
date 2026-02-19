@@ -1,3 +1,10 @@
+---
+topic_id: 13690
+title: "Showing Both The Background And Foreground Layer Volumes In"
+date: 2020-09-24
+url: https://discourse.slicer.org/t/13690
+---
+
 # Showing both the background and foreground layer volumes in their entirety
 
 **Topic ID**: 13690

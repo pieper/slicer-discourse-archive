@@ -1,3 +1,10 @@
+---
+topic_id: 30195
+title: "Removing Folders"
+date: 2023-06-23
+url: https://discourse.slicer.org/t/30195
+---
+
 # Removing folders
 
 **Topic ID**: 30195

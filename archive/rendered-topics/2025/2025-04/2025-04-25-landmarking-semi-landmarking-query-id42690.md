@@ -1,3 +1,10 @@
+---
+topic_id: 42690
+title: "Landmarking Semi Landmarking Query"
+date: 2025-04-25
+url: https://discourse.slicer.org/t/42690
+---
+
 # Landmarking/Semi-Landmarking Query
 
 **Topic ID**: 42690

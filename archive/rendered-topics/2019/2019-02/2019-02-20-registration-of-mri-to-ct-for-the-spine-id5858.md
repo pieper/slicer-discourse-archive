@@ -1,3 +1,10 @@
+---
+topic_id: 5858
+title: "Registration Of Mri To Ct For The Spine"
+date: 2019-02-20
+url: https://discourse.slicer.org/t/5858
+---
+
 # Registration of MRI to CT for the Spine
 
 **Topic ID**: 5858

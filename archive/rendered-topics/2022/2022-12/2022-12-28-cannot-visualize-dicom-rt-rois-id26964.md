@@ -1,3 +1,10 @@
+---
+topic_id: 26964
+title: "Cannot Visualize Dicom Rt Rois"
+date: 2022-12-28
+url: https://discourse.slicer.org/t/26964
+---
+
 # Cannot visualize dicom-rt ROIs
 
 **Topic ID**: 26964

@@ -1,3 +1,10 @@
+---
+topic_id: 26713
+title: "More Than One Rotation Slider In Transforms Module Can Be No"
+date: 2022-12-13
+url: https://discourse.slicer.org/t/26713
+---
+
 # More than one rotation slider in transforms module can be non-zero
 
 **Topic ID**: 26713

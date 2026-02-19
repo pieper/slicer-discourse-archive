@@ -1,3 +1,10 @@
+---
+topic_id: 13610
+title: "Customize The Main Window"
+date: 2020-09-22
+url: https://discourse.slicer.org/t/13610
+---
+
 # Customize the Main Window
 
 **Topic ID**: 13610

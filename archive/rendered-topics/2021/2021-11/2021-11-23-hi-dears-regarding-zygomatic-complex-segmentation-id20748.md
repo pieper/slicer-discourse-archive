@@ -1,3 +1,10 @@
+---
+topic_id: 20748
+title: "Hi Dears Regarding Zygomatic Complex Segmentation"
+date: 2021-11-23
+url: https://discourse.slicer.org/t/20748
+---
+
 # Hi dears, regarding zygomatic complex segmentation
 
 **Topic ID**: 20748

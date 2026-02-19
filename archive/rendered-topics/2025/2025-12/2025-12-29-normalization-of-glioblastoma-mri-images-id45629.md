@@ -1,3 +1,10 @@
+---
+topic_id: 45629
+title: "Normalization Of Glioblastoma Mri Images"
+date: 2025-12-29
+url: https://discourse.slicer.org/t/45629
+---
+
 # Normalization of glioblastoma MRI images
 
 **Topic ID**: 45629

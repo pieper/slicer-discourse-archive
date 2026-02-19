@@ -1,3 +1,10 @@
+---
+topic_id: 7978
+title: "Dvh For Resampled Rt Dose"
+date: 2019-08-11
+url: https://discourse.slicer.org/t/7978
+---
+
 # DVH for resampled RT Dose
 
 **Topic ID**: 7978

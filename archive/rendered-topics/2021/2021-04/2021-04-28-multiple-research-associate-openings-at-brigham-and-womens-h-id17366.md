@@ -1,3 +1,10 @@
+---
+topic_id: 17366
+title: "Multiple Research Associate Openings At Brigham And Womens H"
+date: 2021-04-28
+url: https://discourse.slicer.org/t/17366
+---
+
 # Multiple Research associate openings at Brigham and Women's Hospital, Boston
 
 **Topic ID**: 17366

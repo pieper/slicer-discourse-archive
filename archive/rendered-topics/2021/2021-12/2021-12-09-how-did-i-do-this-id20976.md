@@ -1,3 +1,10 @@
+---
+topic_id: 20976
+title: "How Did I Do This"
+date: 2021-12-09
+url: https://discourse.slicer.org/t/20976
+---
+
 # How did I do this
 
 **Topic ID**: 20976

@@ -1,3 +1,10 @@
+---
+topic_id: 30873
+title: "Should We Start Collecting Software Usage Data"
+date: 2023-07-29
+url: https://discourse.slicer.org/t/30873
+---
+
 # Should we start collecting software usage data?
 
 **Topic ID**: 30873

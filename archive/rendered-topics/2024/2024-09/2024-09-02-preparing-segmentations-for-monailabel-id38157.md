@@ -1,3 +1,10 @@
+---
+topic_id: 38157
+title: "Preparing Segmentations For Monailabel"
+date: 2024-09-02
+url: https://discourse.slicer.org/t/38157
+---
+
 # Preparing Segmentations for MonaiLabel
 
 **Topic ID**: 38157

@@ -1,3 +1,10 @@
+---
+topic_id: 20327
+title: "The Difference Between Slicer And Slicercore"
+date: 2021-10-24
+url: https://discourse.slicer.org/t/20327
+---
+
 # The difference between Slicer and SlicerCore?
 
 **Topic ID**: 20327

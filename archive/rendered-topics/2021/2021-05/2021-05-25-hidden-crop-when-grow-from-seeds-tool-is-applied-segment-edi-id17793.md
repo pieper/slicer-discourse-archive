@@ -1,3 +1,10 @@
+---
+topic_id: 17793
+title: "Hidden Crop When Grow From Seeds Tool Is Applied Segment Edi"
+date: 2021-05-25
+url: https://discourse.slicer.org/t/17793
+---
+
 # Hidden crop when GROW from seeds tool is applied (Segment Editor Module)
 
 **Topic ID**: 17793

@@ -1,3 +1,10 @@
+---
+topic_id: 43002
+title: "Mapping And Patching Error In Vmtk"
+date: 2025-05-19
+url: https://discourse.slicer.org/t/43002
+---
+
 # Mapping and patching error in VMTK
 
 **Topic ID**: 43002

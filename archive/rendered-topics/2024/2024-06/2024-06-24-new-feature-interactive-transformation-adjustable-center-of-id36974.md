@@ -1,3 +1,10 @@
+---
+topic_id: 36974
+title: "New Feature Interactive Transformation Adjustable Center Of"
+date: 2024-06-24
+url: https://discourse.slicer.org/t/36974
+---
+
 # New feature: Interactive transformation + adjustable center of rotation
 
 **Topic ID**: 36974

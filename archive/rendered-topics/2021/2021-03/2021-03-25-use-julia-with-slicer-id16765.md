@@ -1,3 +1,10 @@
+---
+topic_id: 16765
+title: "Use Julia With Slicer"
+date: 2021-03-25
+url: https://discourse.slicer.org/t/16765
+---
+
 # Use Julia with Slicer
 
 **Topic ID**: 16765

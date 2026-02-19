@@ -1,3 +1,10 @@
+---
+topic_id: 15924
+title: "3D Slicer Is An Fantastic And Powerful Tool For Radiotherapy"
+date: 2021-02-09
+url: https://discourse.slicer.org/t/15924
+---
+
 # 3D slicer is an fantastic and powerful tool for radiotherapy
 
 **Topic ID**: 15924

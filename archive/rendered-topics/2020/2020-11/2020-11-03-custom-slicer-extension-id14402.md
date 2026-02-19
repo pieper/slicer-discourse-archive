@@ -1,3 +1,10 @@
+---
+topic_id: 14402
+title: "Custom Slicer Extension"
+date: 2020-11-03
+url: https://discourse.slicer.org/t/14402
+---
+
 # Custom slicer extension
 
 **Topic ID**: 14402

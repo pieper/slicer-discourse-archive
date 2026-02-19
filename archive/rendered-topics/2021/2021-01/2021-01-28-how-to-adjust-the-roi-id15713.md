@@ -1,3 +1,10 @@
+---
+topic_id: 15713
+title: "How To Adjust The Roi"
+date: 2021-01-28
+url: https://discourse.slicer.org/t/15713
+---
+
 # How to adjust the ROI
 
 **Topic ID**: 15713

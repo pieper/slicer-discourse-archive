@@ -1,3 +1,10 @@
+---
+topic_id: 8532
+title: "Newmat C Matrix Library"
+date: 2019-09-23
+url: https://discourse.slicer.org/t/8532
+---
+
 # Newmat C++ matrix library
 
 **Topic ID**: 8532

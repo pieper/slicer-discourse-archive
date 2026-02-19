@@ -1,3 +1,10 @@
+---
+topic_id: 21475
+title: "About Building The Netstim Extension"
+date: 2022-01-15
+url: https://discourse.slicer.org/t/21475
+---
+
 # About building the NetStim extension
 
 **Topic ID**: 21475

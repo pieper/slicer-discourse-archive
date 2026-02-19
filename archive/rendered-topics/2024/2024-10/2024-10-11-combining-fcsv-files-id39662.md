@@ -1,3 +1,10 @@
+---
+topic_id: 39662
+title: "Combining Fcsv Files"
+date: 2024-10-11
+url: https://discourse.slicer.org/t/39662
+---
+
 # Combining .fcsv Files
 
 **Topic ID**: 39662

@@ -1,3 +1,10 @@
+---
+topic_id: 23347
+title: "Inconsistency Between 3D Slicer Dicom Images And Images Plot"
+date: 2022-05-09
+url: https://discourse.slicer.org/t/23347
+---
+
 # Inconsistency between 3D slicer DICOM images and images plotted on Python
 
 **Topic ID**: 23347

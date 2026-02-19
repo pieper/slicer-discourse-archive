@@ -1,3 +1,10 @@
+---
+topic_id: 6043
+title: "Run Brainsresample From Command Line"
+date: 2019-03-06
+url: https://discourse.slicer.org/t/6043
+---
+
 # Run BRAINSResample from command line
 
 **Topic ID**: 6043

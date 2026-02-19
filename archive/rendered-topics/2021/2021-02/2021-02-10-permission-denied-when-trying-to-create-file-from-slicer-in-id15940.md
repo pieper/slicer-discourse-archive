@@ -1,3 +1,10 @@
+---
+topic_id: 15940
+title: "Permission Denied When Trying To Create File From Slicer In"
+date: 2021-02-10
+url: https://discourse.slicer.org/t/15940
+---
+
 # Permission denied when trying to create file from Slicer in most recent Nightly
 
 **Topic ID**: 15940

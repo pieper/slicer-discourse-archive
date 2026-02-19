@@ -1,3 +1,10 @@
+---
+topic_id: 19902
+title: "Auto General Reg Elastix With Python Interface"
+date: 2021-09-28
+url: https://discourse.slicer.org/t/19902
+---
+
 # Auto General Reg (Elastix) with python interface
 
 **Topic ID**: 19902

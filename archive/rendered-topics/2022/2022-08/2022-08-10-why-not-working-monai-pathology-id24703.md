@@ -1,3 +1,10 @@
+---
+topic_id: 24703
+title: "Why Not Working Monai Pathology"
+date: 2022-08-10
+url: https://discourse.slicer.org/t/24703
+---
+
 # Why not working monai pathology?
 
 **Topic ID**: 24703

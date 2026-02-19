@@ -1,3 +1,10 @@
+---
+topic_id: 8653
+title: "3D Slicer For Virtual Reality Using Oculus Quest"
+date: 2019-10-03
+url: https://discourse.slicer.org/t/8653
+---
+
 # 3D Slicer for virtual reality using Oculus Quest
 
 **Topic ID**: 8653

@@ -1,3 +1,10 @@
+---
+topic_id: 7417
+title: "Fmri Module Remember Fmriengine"
+date: 2019-07-04
+url: https://discourse.slicer.org/t/7417
+---
+
 # fMRI module? Remember FMRIEngine?
 
 **Topic ID**: 7417

@@ -1,3 +1,10 @@
+---
+topic_id: 1421
+title: "Segment Editor Slowdown"
+date: 2017-11-09
+url: https://discourse.slicer.org/t/1421
+---
+
 # Segment Editor slowdown
 
 **Topic ID**: 1421

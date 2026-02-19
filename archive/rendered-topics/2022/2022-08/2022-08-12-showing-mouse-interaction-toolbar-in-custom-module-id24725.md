@@ -1,3 +1,10 @@
+---
+topic_id: 24725
+title: "Showing Mouse Interaction Toolbar In Custom Module"
+date: 2022-08-12
+url: https://discourse.slicer.org/t/24725
+---
+
 # Showing mouse interaction toolbar in custom module
 
 **Topic ID**: 24725

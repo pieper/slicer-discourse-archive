@@ -1,3 +1,10 @@
+---
+topic_id: 25485
+title: "Mandibular Segmentation With Reconstruction Plate"
+date: 2022-09-29
+url: https://discourse.slicer.org/t/25485
+---
+
 # Mandibular segmentation with reconstruction plate
 
 **Topic ID**: 25485

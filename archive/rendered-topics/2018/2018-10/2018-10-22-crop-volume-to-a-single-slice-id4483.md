@@ -1,3 +1,10 @@
+---
+topic_id: 4483
+title: "Crop Volume To A Single Slice"
+date: 2018-10-22
+url: https://discourse.slicer.org/t/4483
+---
+
 # Crop volume to a single slice
 
 **Topic ID**: 4483

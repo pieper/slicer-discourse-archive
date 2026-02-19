@@ -1,3 +1,10 @@
+---
+topic_id: 387
+title: "Automating Snapshots"
+date: 2017-05-25
+url: https://discourse.slicer.org/t/387
+---
+
 # Automating snapshots
 
 **Topic ID**: 387

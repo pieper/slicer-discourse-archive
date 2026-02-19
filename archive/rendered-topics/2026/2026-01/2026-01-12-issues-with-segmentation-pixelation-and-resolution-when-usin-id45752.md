@@ -1,3 +1,10 @@
+---
+topic_id: 45752
+title: "Issues With Segmentation Pixelation And Resolution When Usin"
+date: 2026-01-12
+url: https://discourse.slicer.org/t/45752
+---
+
 # Issues with segmentation pixelation and resolution when using separate Axial/Coronal DICOMs.
 
 **Topic ID**: 45752

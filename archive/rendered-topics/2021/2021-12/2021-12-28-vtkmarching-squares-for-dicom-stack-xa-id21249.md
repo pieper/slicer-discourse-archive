@@ -1,3 +1,10 @@
+---
+topic_id: 21249
+title: "Vtkmarching Squares For Dicom Stack Xa"
+date: 2021-12-28
+url: https://discourse.slicer.org/t/21249
+---
+
 # vtkMarching squares for dicom stack [XA]
 
 **Topic ID**: 21249

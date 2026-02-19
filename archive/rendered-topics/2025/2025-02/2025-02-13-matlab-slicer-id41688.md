@@ -1,3 +1,10 @@
+---
+topic_id: 41688
+title: "Matlab Slicer"
+date: 2025-02-13
+url: https://discourse.slicer.org/t/41688
+---
+
 # Matlab -- Slicer
 
 **Topic ID**: 41688

@@ -1,3 +1,10 @@
+---
+topic_id: 7617
+title: "Is It Possible To Change A Cbct To 2D X Ray Image"
+date: 2019-07-16
+url: https://discourse.slicer.org/t/7617
+---
+
 # Is it possible to change a CBCT to 2D X-ray image?
 
 **Topic ID**: 7617

@@ -1,3 +1,10 @@
+---
+topic_id: 45647
+title: "No Nightly Windows Releases Since 2025 12 22"
+date: 2025-12-30
+url: https://discourse.slicer.org/t/45647
+---
+
 # No nightly Windows releases since 2025-12-22
 
 **Topic ID**: 45647

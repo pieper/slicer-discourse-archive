@@ -1,3 +1,10 @@
+---
+topic_id: 33385
+title: "Rename Nodes With Python Script"
+date: 2023-12-14
+url: https://discourse.slicer.org/t/33385
+---
+
 # Rename nodes with python script
 
 **Topic ID**: 33385

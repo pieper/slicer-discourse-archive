@@ -1,3 +1,10 @@
+---
+topic_id: 5020
+title: "Matlab Bridge Extension Cannot Be Installed"
+date: 2018-12-09
+url: https://discourse.slicer.org/t/5020
+---
+
 # Matlab Bridge extension cannot be installed
 
 **Topic ID**: 5020

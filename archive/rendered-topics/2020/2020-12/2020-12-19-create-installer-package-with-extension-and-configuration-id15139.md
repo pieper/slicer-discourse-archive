@@ -1,3 +1,10 @@
+---
+topic_id: 15139
+title: "Create Installer Package With Extension And Configuration"
+date: 2020-12-19
+url: https://discourse.slicer.org/t/15139
+---
+
 # Create installer package with extension and configuration
 
 **Topic ID**: 15139

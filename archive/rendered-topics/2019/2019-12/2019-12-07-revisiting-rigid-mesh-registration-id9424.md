@@ -1,3 +1,10 @@
+---
+topic_id: 9424
+title: "Revisiting Rigid Mesh Registration"
+date: 2019-12-07
+url: https://discourse.slicer.org/t/9424
+---
+
 # Revisiting Rigid Mesh Registration
 
 **Topic ID**: 9424

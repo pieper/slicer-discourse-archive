@@ -1,3 +1,10 @@
+---
+topic_id: 36570
+title: "Markups Measurement Tool On 2D Jpeg With Scalebar In Image"
+date: 2024-06-03
+url: https://discourse.slicer.org/t/36570
+---
+
 # Markups Measurement Tool on 2D [jpeg] with scalebar in image
 
 **Topic ID**: 36570

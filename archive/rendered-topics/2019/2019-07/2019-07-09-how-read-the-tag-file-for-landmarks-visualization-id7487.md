@@ -1,3 +1,10 @@
+---
+topic_id: 7487
+title: "How Read The Tag File For Landmarks Visualization"
+date: 2019-07-09
+url: https://discourse.slicer.org/t/7487
+---
+
 # How read the .tag file for landmarks visualization
 
 **Topic ID**: 7487

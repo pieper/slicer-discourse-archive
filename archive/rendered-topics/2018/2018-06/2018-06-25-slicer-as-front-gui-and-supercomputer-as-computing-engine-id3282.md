@@ -1,3 +1,10 @@
+---
+topic_id: 3282
+title: "Slicer As Front Gui And Supercomputer As Computing Engine"
+date: 2018-06-25
+url: https://discourse.slicer.org/t/3282
+---
+
 # Slicer as front gui and supercomputer as computing engine
 
 **Topic ID**: 3282

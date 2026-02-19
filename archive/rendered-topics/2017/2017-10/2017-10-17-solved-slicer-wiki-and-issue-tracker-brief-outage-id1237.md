@@ -1,3 +1,10 @@
+---
+topic_id: 1237
+title: "Solved Slicer Wiki And Issue Tracker Brief Outage"
+date: 2017-10-17
+url: https://discourse.slicer.org/t/1237
+---
+
 # [SOLVED] Slicer Wiki and Issue Tracker brief outage
 
 **Topic ID**: 1237

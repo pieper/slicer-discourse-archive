@@ -1,3 +1,10 @@
+---
+topic_id: 20884
+title: "Save Part Of The Log File From Scripted Module"
+date: 2021-12-02
+url: https://discourse.slicer.org/t/20884
+---
+
 # Save (part of) the log file from scripted module
 
 **Topic ID**: 20884

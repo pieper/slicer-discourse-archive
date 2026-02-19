@@ -1,3 +1,10 @@
+---
+topic_id: 1471
+title: "Display Vtkmarchingcubes In 3D View"
+date: 2017-11-16
+url: https://discourse.slicer.org/t/1471
+---
+
 # Display vtkMarchingCubes in 3d view
 
 **Topic ID**: 1471

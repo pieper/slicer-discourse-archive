@@ -1,3 +1,10 @@
+---
+topic_id: 15954
+title: "Slicerqr Development"
+date: 2021-02-11
+url: https://discourse.slicer.org/t/15954
+---
+
 # SlicerQR Development
 
 **Topic ID**: 15954

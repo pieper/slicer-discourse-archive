@@ -1,3 +1,10 @@
+---
+topic_id: 20689
+title: "Adding Or Populate Header In Nrrd Or Seg Nrrd"
+date: 2021-11-18
+url: https://discourse.slicer.org/t/20689
+---
+
 # Adding or populate header in nrrd or seg.nrrd
 
 **Topic ID**: 20689

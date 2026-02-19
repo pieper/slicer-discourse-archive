@@ -1,3 +1,10 @@
+---
+topic_id: 44254
+title: "How To Create Dynamic Stylustoreference Transform From Ndi T"
+date: 2025-08-29
+url: https://discourse.slicer.org/t/44254
+---
+
 # How to create dynamic StylusToReference transform from NDI tracker data?
 
 **Topic ID**: 44254

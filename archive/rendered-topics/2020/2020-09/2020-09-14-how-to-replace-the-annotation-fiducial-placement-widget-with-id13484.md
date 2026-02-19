@@ -1,3 +1,10 @@
+---
+topic_id: 13484
+title: "How To Replace The Annotation Fiducial Placement Widget With"
+date: 2020-09-14
+url: https://discourse.slicer.org/t/13484
+---
+
 # How to replace the annotation fiducial placement widget with the plane fiducial widget in AIAA
 
 **Topic ID**: 13484

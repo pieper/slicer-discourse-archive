@@ -1,3 +1,10 @@
+---
+topic_id: 12026
+title: "Deepinfer Run Time In 4 10 2 And Availability In 4 11 0 2911"
+date: 2020-06-15
+url: https://discourse.slicer.org/t/12026
+---
+
 # Deepinfer - run time in 4.10.2 and availability in 4.11.0 (29117)
 
 **Topic ID**: 12026

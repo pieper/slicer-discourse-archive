@@ -1,3 +1,10 @@
+---
+topic_id: 23748
+title: "Structures Segmented In Either Arterial Venous Phases Are Sl"
+date: 2022-06-07
+url: https://discourse.slicer.org/t/23748
+---
+
 # Structures segmented in either Arterial/Venous phases are slightly misaligned when switching view to the other phase
 
 **Topic ID**: 23748

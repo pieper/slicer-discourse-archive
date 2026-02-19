@@ -1,3 +1,10 @@
+---
+topic_id: 17190
+title: "Pet Tumor Segmentation"
+date: 2021-04-20
+url: https://discourse.slicer.org/t/17190
+---
+
 # Pet Tumor Segmentation
 
 **Topic ID**: 17190

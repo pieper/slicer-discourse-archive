@@ -1,3 +1,10 @@
+---
+topic_id: 16689
+title: "Brush Lag Using Wacom Tablet"
+date: 2021-03-22
+url: https://discourse.slicer.org/t/16689
+---
+
 # Brush lag using Wacom tablet
 
 **Topic ID**: 16689

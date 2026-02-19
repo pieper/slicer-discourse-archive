@@ -1,3 +1,10 @@
+---
+topic_id: 44082
+title: "Questions Regarding Filling Between Bronchis Of Small Spaces"
+date: 2025-08-14
+url: https://discourse.slicer.org/t/44082
+---
+
 # Questions regarding filling between bronchis of small spaces and reason of bad result display here
 
 **Topic ID**: 44082

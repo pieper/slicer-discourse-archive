@@ -1,3 +1,10 @@
+---
+topic_id: 14116
+title: "Upload Single Images In The Three Different Axes"
+date: 2020-10-18
+url: https://discourse.slicer.org/t/14116
+---
+
 # Upload single images in the three different axes
 
 **Topic ID**: 14116

@@ -1,3 +1,10 @@
+---
+topic_id: 22265
+title: "Exporting Volumetric Ultrasound To Dicom"
+date: 2022-03-02
+url: https://discourse.slicer.org/t/22265
+---
+
 # Exporting volumetric ultrasound to DICOM
 
 **Topic ID**: 22265

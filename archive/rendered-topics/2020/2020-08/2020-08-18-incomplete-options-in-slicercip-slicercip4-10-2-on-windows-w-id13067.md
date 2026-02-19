@@ -1,3 +1,10 @@
+---
+topic_id: 13067
+title: "Incomplete Options In Slicercip Slicercip4 10 2 On Windows W"
+date: 2020-08-18
+url: https://discourse.slicer.org/t/13067
+---
+
 # Incomplete options in SlicerCIP (SlicerCIP4-10-2) on Windows (Windows 7 Enterprise, Service Pack 1) and Linux (Ubuntu 18.04.4 LTS)
 
 **Topic ID**: 13067

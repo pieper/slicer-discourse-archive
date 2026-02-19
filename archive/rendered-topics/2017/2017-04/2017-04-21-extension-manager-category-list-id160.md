@@ -1,3 +1,10 @@
+---
+topic_id: 160
+title: "Extension Manager Category List"
+date: 2017-04-21
+url: https://discourse.slicer.org/t/160
+---
+
 # Extension manager category list
 
 **Topic ID**: 160

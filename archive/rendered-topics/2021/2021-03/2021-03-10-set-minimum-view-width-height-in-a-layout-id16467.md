@@ -1,3 +1,10 @@
+---
+topic_id: 16467
+title: "Set Minimum View Width Height In A Layout"
+date: 2021-03-10
+url: https://discourse.slicer.org/t/16467
+---
+
 # Set minimum view width/height in a layout
 
 **Topic ID**: 16467

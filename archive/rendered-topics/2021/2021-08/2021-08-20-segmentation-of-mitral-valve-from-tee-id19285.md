@@ -1,3 +1,10 @@
+---
+topic_id: 19285
+title: "Segmentation Of Mitral Valve From Tee"
+date: 2021-08-20
+url: https://discourse.slicer.org/t/19285
+---
+
 # Segmentation of Mitral Valve from TEE
 
 **Topic ID**: 19285

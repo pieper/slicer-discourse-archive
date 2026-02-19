@@ -1,3 +1,10 @@
+---
+topic_id: 2928
+title: "Python Debugging In Visual Studio Code"
+date: 2018-05-25
+url: https://discourse.slicer.org/t/2928
+---
+
 # Python debugging in Visual Studio Code
 
 **Topic ID**: 2928

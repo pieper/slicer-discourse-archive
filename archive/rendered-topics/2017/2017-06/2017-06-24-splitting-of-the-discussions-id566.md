@@ -1,3 +1,10 @@
+---
+topic_id: 566
+title: "Splitting Of The Discussions"
+date: 2017-06-24
+url: https://discourse.slicer.org/t/566
+---
+
 # Splitting of the discussions
 
 **Topic ID**: 566

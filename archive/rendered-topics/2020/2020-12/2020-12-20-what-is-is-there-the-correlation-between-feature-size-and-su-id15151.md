@@ -1,3 +1,10 @@
+---
+topic_id: 15151
+title: "What Is Is There The Correlation Between Feature Size And Su"
+date: 2020-12-20
+url: https://discourse.slicer.org/t/15151
+---
+
 # What is/is there the correlation between feature size and surface area?
 
 **Topic ID**: 15151

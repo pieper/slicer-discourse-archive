@@ -1,3 +1,10 @@
+---
+topic_id: 36784
+title: "Python Script In Slicer Environment"
+date: 2024-06-14
+url: https://discourse.slicer.org/t/36784
+---
+
 # python script in slicer environment 
 
 **Topic ID**: 36784

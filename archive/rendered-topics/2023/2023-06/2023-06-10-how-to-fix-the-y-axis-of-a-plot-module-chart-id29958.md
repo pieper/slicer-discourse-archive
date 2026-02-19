@@ -1,3 +1,10 @@
+---
+topic_id: 29958
+title: "How To Fix The Y Axis Of A Plot Module Chart"
+date: 2023-06-10
+url: https://discourse.slicer.org/t/29958
+---
+
 # How to fix the y-axis of a plot module chart?
 
 **Topic ID**: 29958

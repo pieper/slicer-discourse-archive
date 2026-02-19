@@ -1,3 +1,10 @@
+---
+topic_id: 39565
+title: "How To Modify Decimal Precision And Labels In Slicer Markups"
+date: 2024-10-07
+url: https://discourse.slicer.org/t/39565
+---
+
 # How to Modify Decimal Precision and Labels in Slicer Markups
 
 **Topic ID**: 39565

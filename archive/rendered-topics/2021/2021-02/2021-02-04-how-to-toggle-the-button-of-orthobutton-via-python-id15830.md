@@ -1,3 +1,10 @@
+---
+topic_id: 15830
+title: "How To Toggle The Button Of Orthobutton Via Python"
+date: 2021-02-04
+url: https://discourse.slicer.org/t/15830
+---
+
 # How to toggle the button of "orthobutton" via python
 
 **Topic ID**: 15830

@@ -1,3 +1,10 @@
+---
+topic_id: 39750
+title: "Slicer Splits Mri Into Many Different Volumes Imageorientati"
+date: 2024-10-18
+url: https://discourse.slicer.org/t/39750
+---
+
 # Slicer splits MRI into many different volumes: imageOrientationPatient #1-6
 
 **Topic ID**: 39750

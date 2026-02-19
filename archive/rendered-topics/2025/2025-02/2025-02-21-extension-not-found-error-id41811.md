@@ -1,3 +1,10 @@
+---
+topic_id: 41811
+title: "Extension Not Found Error"
+date: 2025-02-21
+url: https://discourse.slicer.org/t/41811
+---
+
 # Extension not found error
 
 **Topic ID**: 41811

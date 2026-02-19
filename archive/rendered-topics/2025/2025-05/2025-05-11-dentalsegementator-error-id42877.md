@@ -1,3 +1,10 @@
+---
+topic_id: 42877
+title: "Dentalsegementator Error"
+date: 2025-05-11
+url: https://discourse.slicer.org/t/42877
+---
+
 # Dentalsegementator error
 
 **Topic ID**: 42877

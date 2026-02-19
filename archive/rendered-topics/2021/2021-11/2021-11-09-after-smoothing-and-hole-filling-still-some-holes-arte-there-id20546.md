@@ -1,3 +1,10 @@
+---
+topic_id: 20546
+title: "After Smoothing And Hole Filling Still Some Holes Arte There"
+date: 2021-11-09
+url: https://discourse.slicer.org/t/20546
+---
+
 # After Smoothing and hole filling Still some holes arte there in 3 D model of nasal cavity
 
 **Topic ID**: 20546

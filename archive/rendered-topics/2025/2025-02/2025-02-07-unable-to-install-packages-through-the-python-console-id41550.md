@@ -1,3 +1,10 @@
+---
+topic_id: 41550
+title: "Unable To Install Packages Through The Python Console"
+date: 2025-02-07
+url: https://discourse.slicer.org/t/41550
+---
+
 # Unable to install packages through the Python Console
 
 **Topic ID**: 41550

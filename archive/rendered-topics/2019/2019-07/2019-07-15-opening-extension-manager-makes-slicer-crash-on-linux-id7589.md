@@ -1,3 +1,10 @@
+---
+topic_id: 7589
+title: "Opening Extension Manager Makes Slicer Crash On Linux"
+date: 2019-07-15
+url: https://discourse.slicer.org/t/7589
+---
+
 # Opening extension manager makes Slicer crash on Linux
 
 **Topic ID**: 7589

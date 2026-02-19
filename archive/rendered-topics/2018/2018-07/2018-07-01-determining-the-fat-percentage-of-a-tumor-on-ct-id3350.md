@@ -1,3 +1,10 @@
+---
+topic_id: 3350
+title: "Determining The Fat Percentage Of A Tumor On Ct"
+date: 2018-07-01
+url: https://discourse.slicer.org/t/3350
+---
+
 # Determining the fat percentage of a tumor on CT? 
 
 **Topic ID**: 3350

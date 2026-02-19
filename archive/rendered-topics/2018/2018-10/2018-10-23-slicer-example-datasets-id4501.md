@@ -1,3 +1,10 @@
+---
+topic_id: 4501
+title: "Slicer Example Datasets"
+date: 2018-10-23
+url: https://discourse.slicer.org/t/4501
+---
+
 # Slicer Example Datasets
 
 **Topic ID**: 4501

@@ -1,3 +1,10 @@
+---
+topic_id: 42165
+title: "Why Is It That After I Import The Patients Ct File In Dicom"
+date: 2025-03-16
+url: https://discourse.slicer.org/t/42165
+---
+
 # Why is it that after I import the patient's CT file (in DICOM format), the image is not displayed completely but only shows as a slit?
 
 **Topic ID**: 42165

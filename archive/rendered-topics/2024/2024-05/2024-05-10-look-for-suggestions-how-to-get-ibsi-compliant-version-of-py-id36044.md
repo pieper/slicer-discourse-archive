@@ -1,3 +1,10 @@
+---
+topic_id: 36044
+title: "Look For Suggestions How To Get Ibsi Compliant Version Of Py"
+date: 2024-05-10
+url: https://discourse.slicer.org/t/36044
+---
+
 # Look for suggestions - how to get IBSI-compliant version of pyradiomics
 
 **Topic ID**: 36044

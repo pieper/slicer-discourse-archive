@@ -1,3 +1,10 @@
+---
+topic_id: 12094
+title: "Vtkdebug Leaks Caused By Storage Node"
+date: 2020-06-18
+url: https://discourse.slicer.org/t/12094
+---
+
 # vtkDebug Leaks caused by storage node
 
 **Topic ID**: 12094

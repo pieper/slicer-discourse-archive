@@ -1,3 +1,10 @@
+---
+topic_id: 26295
+title: "On Model Cutting I Want To Get The Cut Part And The Cut Part"
+date: 2022-11-18
+url: https://discourse.slicer.org/t/26295
+---
+
 # On Model Cutting, I want to get the cut part and the cut part when cutting the model
 
 **Topic ID**: 26295

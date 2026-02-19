@@ -1,3 +1,10 @@
+---
+topic_id: 17419
+title: "Extract A Certain Volume From A Cubic Model"
+date: 2021-05-03
+url: https://discourse.slicer.org/t/17419
+---
+
 # Extract a certain volume from a cubic model
 
 **Topic ID**: 17419

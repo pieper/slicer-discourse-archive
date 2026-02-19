@@ -1,3 +1,10 @@
+---
+topic_id: 33476
+title: "Slicervirtualreality Extension For Recent Versions"
+date: 2023-12-20
+url: https://discourse.slicer.org/t/33476
+---
+
 # SlicerVirtualReality extension for recent versions
 
 **Topic ID**: 33476

@@ -1,3 +1,10 @@
+---
+topic_id: 16513
+title: "Measuring Muscle And Fat Volumes In Abdominal Ct Scans"
+date: 2021-03-12
+url: https://discourse.slicer.org/t/16513
+---
+
 # Measuring muscle and fat volumes in abdominal CT scans
 
 **Topic ID**: 16513

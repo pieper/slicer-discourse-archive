@@ -1,3 +1,10 @@
+---
+topic_id: 29963
+title: "Lung Tumor Segmentation And Feature Extraction Using Pyradio"
+date: 2023-06-10
+url: https://discourse.slicer.org/t/29963
+---
+
 # Lung tumor segmentation and feature extraction using pyradiomics and python
 
 **Topic ID**: 29963

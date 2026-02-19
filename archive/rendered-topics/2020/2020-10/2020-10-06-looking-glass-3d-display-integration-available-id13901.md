@@ -1,3 +1,10 @@
+---
+topic_id: 13901
+title: "Looking Glass 3D Display Integration Available"
+date: 2020-10-06
+url: https://discourse.slicer.org/t/13901
+---
+
 # Looking Glass 3D display integration available
 
 **Topic ID**: 13901

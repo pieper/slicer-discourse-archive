@@ -1,3 +1,10 @@
+---
+topic_id: 34833
+title: "How To Work With Vtkparametricfunction In Slicerjupyter"
+date: 2024-03-11
+url: https://discourse.slicer.org/t/34833
+---
+
 # How to work with vtkParametricFunction in SlicerJupyter?
 
 **Topic ID**: 34833

@@ -1,3 +1,10 @@
+---
+topic_id: 1159
+title: "Load Dicom Data Error"
+date: 2017-10-02
+url: https://discourse.slicer.org/t/1159
+---
+
 # Load Dicom Data Error
 
 **Topic ID**: 1159

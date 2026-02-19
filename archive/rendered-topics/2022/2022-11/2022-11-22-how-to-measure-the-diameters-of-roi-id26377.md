@@ -1,3 +1,10 @@
+---
+topic_id: 26377
+title: "How To Measure The Diameters Of Roi"
+date: 2022-11-22
+url: https://discourse.slicer.org/t/26377
+---
+
 # How to measure the diameters of ROI?
 
 **Topic ID**: 26377

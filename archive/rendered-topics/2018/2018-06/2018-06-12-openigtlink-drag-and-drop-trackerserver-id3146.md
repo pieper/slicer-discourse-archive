@@ -1,3 +1,10 @@
+---
+topic_id: 3146
+title: "Openigtlink Drag And Drop Trackerserver"
+date: 2018-06-12
+url: https://discourse.slicer.org/t/3146
+---
+
 # OpenIGTLink drag and drop TrackerServer
 
 **Topic ID**: 3146

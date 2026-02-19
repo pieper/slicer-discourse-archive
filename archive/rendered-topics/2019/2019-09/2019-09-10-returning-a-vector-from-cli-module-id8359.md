@@ -1,3 +1,10 @@
+---
+topic_id: 8359
+title: "Returning A Vector From Cli Module"
+date: 2019-09-10
+url: https://discourse.slicer.org/t/8359
+---
+
 # Returning a vector from CLI module
 
 **Topic ID**: 8359

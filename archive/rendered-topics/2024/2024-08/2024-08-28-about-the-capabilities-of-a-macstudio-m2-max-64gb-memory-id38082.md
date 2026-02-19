@@ -1,3 +1,10 @@
+---
+topic_id: 38082
+title: "About The Capabilities Of A Macstudio M2 Max 64Gb Memory"
+date: 2024-08-28
+url: https://discourse.slicer.org/t/38082
+---
+
 # About the capabilities of a MacStudio M2 Max (64GB memory)?
 
 **Topic ID**: 38082

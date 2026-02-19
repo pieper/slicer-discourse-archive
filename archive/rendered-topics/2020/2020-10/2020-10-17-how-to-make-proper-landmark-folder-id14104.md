@@ -1,3 +1,10 @@
+---
+topic_id: 14104
+title: "How To Make Proper Landmark Folder"
+date: 2020-10-17
+url: https://discourse.slicer.org/t/14104
+---
+
 # How to make proper landmark folder
 
 **Topic ID**: 14104

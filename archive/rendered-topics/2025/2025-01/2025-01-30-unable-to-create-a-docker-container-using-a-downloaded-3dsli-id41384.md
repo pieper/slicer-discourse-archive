@@ -1,3 +1,10 @@
+---
+topic_id: 41384
+title: "Unable To Create A Docker Container Using A Downloaded 3Dsli"
+date: 2025-01-30
+url: https://discourse.slicer.org/t/41384
+---
+
 # Unable to create a Docker container using a downloaded 3DSlicer version
 
 **Topic ID**: 41384

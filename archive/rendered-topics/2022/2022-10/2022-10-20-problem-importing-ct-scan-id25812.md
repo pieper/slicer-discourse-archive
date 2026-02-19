@@ -1,3 +1,10 @@
+---
+topic_id: 25812
+title: "Problem Importing Ct Scan"
+date: 2022-10-20
+url: https://discourse.slicer.org/t/25812
+---
+
 # Problem Importing CT-Scan 
 
 **Topic ID**: 25812

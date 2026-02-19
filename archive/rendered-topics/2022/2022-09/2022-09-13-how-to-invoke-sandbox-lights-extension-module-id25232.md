@@ -1,3 +1,10 @@
+---
+topic_id: 25232
+title: "How To Invoke Sandbox Lights Extension Module"
+date: 2022-09-13
+url: https://discourse.slicer.org/t/25232
+---
+
 # How to invoke Sandbox/Lights extension module?
 
 **Topic ID**: 25232

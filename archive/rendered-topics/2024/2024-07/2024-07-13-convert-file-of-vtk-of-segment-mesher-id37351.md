@@ -1,3 +1,10 @@
+---
+topic_id: 37351
+title: "Convert File Of Vtk Of Segment Mesher"
+date: 2024-07-13
+url: https://discourse.slicer.org/t/37351
+---
+
 # Convert file of .vtk of Segment Mesher
 
 **Topic ID**: 37351

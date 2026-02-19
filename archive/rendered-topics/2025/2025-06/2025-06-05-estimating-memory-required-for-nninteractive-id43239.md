@@ -1,3 +1,10 @@
+---
+topic_id: 43239
+title: "Estimating Memory Required For Nninteractive"
+date: 2025-06-05
+url: https://discourse.slicer.org/t/43239
+---
+
 # Estimating memory required for NNinteractive
 
 **Topic ID**: 43239

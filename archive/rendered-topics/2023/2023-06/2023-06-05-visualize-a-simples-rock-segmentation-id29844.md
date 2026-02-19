@@ -1,3 +1,10 @@
+---
+topic_id: 29844
+title: "Visualize A Simples Rock Segmentation"
+date: 2023-06-05
+url: https://discourse.slicer.org/t/29844
+---
+
 # Visualize a Simples Rock Segmentation
 
 **Topic ID**: 29844

@@ -1,3 +1,10 @@
+---
+topic_id: 11429
+title: "New Module For Cross Section Area Measurement"
+date: 2020-05-06
+url: https://discourse.slicer.org/t/11429
+---
+
 # New module for cross-section area measurement
 
 **Topic ID**: 11429

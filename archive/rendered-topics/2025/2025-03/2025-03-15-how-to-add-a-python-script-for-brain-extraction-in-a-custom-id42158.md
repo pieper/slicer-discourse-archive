@@ -1,3 +1,10 @@
+---
+topic_id: 42158
+title: "How To Add A Python Script For Brain Extraction In A Custom"
+date: 2025-03-15
+url: https://discourse.slicer.org/t/42158
+---
+
 # How to Add a Python Script for Brain Extraction in a Custom 3D Slicer Template
 
 **Topic ID**: 42158

@@ -1,3 +1,10 @@
+---
+topic_id: 12273
+title: "Alter Number Of Points Which Makes Up Vtk Curve"
+date: 2020-06-29
+url: https://discourse.slicer.org/t/12273
+---
+
 # Alter number of points which makes up VTK curve
 
 **Topic ID**: 12273

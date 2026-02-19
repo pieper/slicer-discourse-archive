@@ -1,3 +1,10 @@
+---
+topic_id: 40909
+title: "How To Use Local Threshold"
+date: 2024-12-30
+url: https://discourse.slicer.org/t/40909
+---
+
 # How to use local threshold
 
 **Topic ID**: 40909

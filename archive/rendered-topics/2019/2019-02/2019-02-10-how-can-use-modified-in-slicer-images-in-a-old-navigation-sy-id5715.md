@@ -1,3 +1,10 @@
+---
+topic_id: 5715
+title: "How Can Use Modified In Slicer Images In A Old Navigation Sy"
+date: 2019-02-10
+url: https://discourse.slicer.org/t/5715
+---
+
 # How can use modified in Slicer images in a old navigation system?...
 
 **Topic ID**: 5715

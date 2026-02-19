@@ -1,3 +1,10 @@
+---
+topic_id: 22787
+title: "To Add Widget On Slice Views"
+date: 2022-04-01
+url: https://discourse.slicer.org/t/22787
+---
+
 # To add Widget on Slice Views
 
 **Topic ID**: 22787

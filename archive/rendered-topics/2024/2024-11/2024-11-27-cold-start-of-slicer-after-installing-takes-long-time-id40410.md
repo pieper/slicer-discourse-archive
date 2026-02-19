@@ -1,3 +1,10 @@
+---
+topic_id: 40410
+title: "Cold Start Of Slicer After Installing Takes Long Time"
+date: 2024-11-27
+url: https://discourse.slicer.org/t/40410
+---
+
 # Cold start of Slicer after installing takes long time
 
 **Topic ID**: 40410

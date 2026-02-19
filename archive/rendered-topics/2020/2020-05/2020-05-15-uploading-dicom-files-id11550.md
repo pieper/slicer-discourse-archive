@@ -1,3 +1,10 @@
+---
+topic_id: 11550
+title: "Uploading Dicom Files"
+date: 2020-05-15
+url: https://discourse.slicer.org/t/11550
+---
+
 # Uploading DICOM files
 
 **Topic ID**: 11550

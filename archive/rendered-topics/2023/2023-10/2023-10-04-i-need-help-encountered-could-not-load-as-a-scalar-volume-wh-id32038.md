@@ -1,3 +1,10 @@
+---
+topic_id: 32038
+title: "I Need Help Encountered Could Not Load As A Scalar Volume Wh"
+date: 2023-10-04
+url: https://discourse.slicer.org/t/32038
+---
+
 # I need help: Encountered "Could not load ... as a scalar volume" when loading MRI sequence
 
 **Topic ID**: 32038

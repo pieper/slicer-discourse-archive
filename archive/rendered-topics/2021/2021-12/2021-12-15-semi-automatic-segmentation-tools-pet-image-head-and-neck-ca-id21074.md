@@ -1,3 +1,10 @@
+---
+topic_id: 21074
+title: "Semi Automatic Segmentation Tools Pet Image Head And Neck Ca"
+date: 2021-12-15
+url: https://discourse.slicer.org/t/21074
+---
+
 # Semi-automatic segmentation tools-PET image-Head and Neck cancer
 
 **Topic ID**: 21074

@@ -1,3 +1,10 @@
+---
+topic_id: 21096
+title: "Converting Dicom To Nrrd On Docker Via A Python Script"
+date: 2021-12-16
+url: https://discourse.slicer.org/t/21096
+---
+
 # Converting DICOM to NRRD on Docker via a Python script
 
 **Topic ID**: 21096

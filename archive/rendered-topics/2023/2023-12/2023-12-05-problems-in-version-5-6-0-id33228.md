@@ -1,3 +1,10 @@
+---
+topic_id: 33228
+title: "Problems In Version 5 6 0"
+date: 2023-12-05
+url: https://discourse.slicer.org/t/33228
+---
+
 # Problems in version 5.6.0
 
 **Topic ID**: 33228

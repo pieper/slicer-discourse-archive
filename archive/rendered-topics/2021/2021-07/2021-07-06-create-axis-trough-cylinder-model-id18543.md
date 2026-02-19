@@ -1,3 +1,10 @@
+---
+topic_id: 18543
+title: "Create Axis Trough Cylinder Model"
+date: 2021-07-06
+url: https://discourse.slicer.org/t/18543
+---
+
 # Create axis trough cylinder model
 
 **Topic ID**: 18543

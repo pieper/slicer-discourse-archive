@@ -1,3 +1,10 @@
+---
+topic_id: 35709
+title: "Cant Edit Segmentation Created From A Labelmap Outside A Box"
+date: 2024-04-24
+url: https://discourse.slicer.org/t/35709
+---
+
 # Can't edit segmentation created from a labelmap outside a box
 
 **Topic ID**: 35709

@@ -1,3 +1,10 @@
+---
+topic_id: 45615
+title: "Medical Image Segmentation Ct Of Frog Organs Using 3D Slicer"
+date: 2025-12-27
+url: https://discourse.slicer.org/t/45615
+---
+
 # Medical Image Segmentation (CT) of Frog Organs using 3D Slicer
 
 **Topic ID**: 45615

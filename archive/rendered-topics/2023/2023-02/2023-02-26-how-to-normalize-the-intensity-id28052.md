@@ -1,3 +1,10 @@
+---
+topic_id: 28052
+title: "How To Normalize The Intensity"
+date: 2023-02-26
+url: https://discourse.slicer.org/t/28052
+---
+
 # How to normalize the intensity?
 
 **Topic ID**: 28052

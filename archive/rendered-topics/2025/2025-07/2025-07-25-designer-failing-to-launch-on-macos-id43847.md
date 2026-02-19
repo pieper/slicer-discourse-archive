@@ -1,3 +1,10 @@
+---
+topic_id: 43847
+title: "Designer Failing To Launch On Macos"
+date: 2025-07-25
+url: https://discourse.slicer.org/t/43847
+---
+
 # Designer failing to launch on MacOS
 
 **Topic ID**: 43847

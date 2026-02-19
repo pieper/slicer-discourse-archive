@@ -1,3 +1,10 @@
+---
+topic_id: 15060
+title: "Is There A Way To Getcurrentvolumenode"
+date: 2020-12-14
+url: https://discourse.slicer.org/t/15060
+---
+
 # Is there a way to getCurrentVolumeNode?
 
 **Topic ID**: 15060

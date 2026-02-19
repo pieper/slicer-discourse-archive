@@ -1,3 +1,10 @@
+---
+topic_id: 37747
+title: "Vmtk Cross Sectional Perimeter Calculation"
+date: 2024-08-06
+url: https://discourse.slicer.org/t/37747
+---
+
 # VMTK - cross-sectional perimeter calculation
 
 **Topic ID**: 37747

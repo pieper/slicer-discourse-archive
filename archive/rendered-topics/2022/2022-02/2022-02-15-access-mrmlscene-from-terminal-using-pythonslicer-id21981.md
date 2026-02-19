@@ -1,3 +1,10 @@
+---
+topic_id: 21981
+title: "Access Mrmlscene From Terminal Using Pythonslicer"
+date: 2022-02-15
+url: https://discourse.slicer.org/t/21981
+---
+
 # Access mrmlScene from terminal using PythonSlicer
 
 **Topic ID**: 21981

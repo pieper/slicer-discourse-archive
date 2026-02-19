@@ -1,3 +1,10 @@
+---
+topic_id: 14285
+title: "Load Contours In 3D Slicer 4 11"
+date: 2020-10-28
+url: https://discourse.slicer.org/t/14285
+---
+
 # Load Contours in 3D slicer 4.11
 
 **Topic ID**: 14285

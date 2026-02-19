@@ -1,3 +1,10 @@
+---
+topic_id: 37641
+title: "Totalsegmentator Issues"
+date: 2024-07-31
+url: https://discourse.slicer.org/t/37641
+---
+
 # TotalSegmentator Issues
 
 **Topic ID**: 37641

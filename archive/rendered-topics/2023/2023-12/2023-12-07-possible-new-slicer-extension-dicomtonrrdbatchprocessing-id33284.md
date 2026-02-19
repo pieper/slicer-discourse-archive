@@ -1,3 +1,10 @@
+---
+topic_id: 33284
+title: "Possible New Slicer Extension Dicomtonrrdbatchprocessing"
+date: 2023-12-07
+url: https://discourse.slicer.org/t/33284
+---
+
 # Possible New Slicer Extension - DICOMToNRRDBatchProcessing
 
 **Topic ID**: 33284

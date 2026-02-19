@@ -1,3 +1,10 @@
+---
+topic_id: 17142
+title: "Very Simple Extension To Change 3D View Colors"
+date: 2021-04-16
+url: https://discourse.slicer.org/t/17142
+---
+
 # Very simple extension to change 3d view colors
 
 **Topic ID**: 17142

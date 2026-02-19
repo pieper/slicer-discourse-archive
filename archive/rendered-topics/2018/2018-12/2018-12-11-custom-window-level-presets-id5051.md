@@ -1,3 +1,10 @@
+---
+topic_id: 5051
+title: "Custom Window Level Presets"
+date: 2018-12-11
+url: https://discourse.slicer.org/t/5051
+---
+
 # Custom window/level presets
 
 **Topic ID**: 5051

@@ -1,3 +1,10 @@
+---
+topic_id: 21559
+title: "Resample Volume With Unregular Spacing"
+date: 2022-01-21
+url: https://discourse.slicer.org/t/21559
+---
+
 # Resample volume with unregular spacing
 
 **Topic ID**: 21559

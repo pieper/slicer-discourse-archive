@@ -1,3 +1,10 @@
+---
+topic_id: 14983
+title: "How To Get Vessels From This Kind Of Mri T2"
+date: 2020-12-10
+url: https://discourse.slicer.org/t/14983
+---
+
 # How to get vessels from this kind of MRI T2
 
 **Topic ID**: 14983

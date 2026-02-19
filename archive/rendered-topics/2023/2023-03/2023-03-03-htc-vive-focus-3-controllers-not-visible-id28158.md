@@ -1,3 +1,10 @@
+---
+topic_id: 28158
+title: "Htc Vive Focus 3 Controllers Not Visible"
+date: 2023-03-03
+url: https://discourse.slicer.org/t/28158
+---
+
 # HTC Vive Focus 3 controllers not visible
 
 **Topic ID**: 28158

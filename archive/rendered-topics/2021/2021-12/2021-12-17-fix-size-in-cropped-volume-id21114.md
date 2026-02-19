@@ -1,3 +1,10 @@
+---
+topic_id: 21114
+title: "Fix Size In Cropped Volume"
+date: 2021-12-17
+url: https://discourse.slicer.org/t/21114
+---
+
 # Fix size in cropped volume
 
 **Topic ID**: 21114

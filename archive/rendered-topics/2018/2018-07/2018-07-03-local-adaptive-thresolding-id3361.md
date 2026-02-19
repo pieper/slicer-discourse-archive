@@ -1,3 +1,10 @@
+---
+topic_id: 3361
+title: "Local Adaptive Thresolding"
+date: 2018-07-03
+url: https://discourse.slicer.org/t/3361
+---
+
 # Local - adaptive Thresolding
 
 **Topic ID**: 3361

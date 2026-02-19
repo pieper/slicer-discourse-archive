@@ -1,3 +1,10 @@
+---
+topic_id: 11287
+title: "How To Split One Segment Into Three Equal Parts Via Script"
+date: 2020-04-24
+url: https://discourse.slicer.org/t/11287
+---
+
 # How to split one segment into three equal parts via script?
 
 **Topic ID**: 11287

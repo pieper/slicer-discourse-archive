@@ -1,3 +1,10 @@
+---
+topic_id: 11085
+title: "Petdicomextension Change Formula Lean Body Mass"
+date: 2020-04-12
+url: https://discourse.slicer.org/t/11085
+---
+
 # PETDICOMExtension - change formula lean body mass
 
 **Topic ID**: 11085

@@ -1,3 +1,10 @@
+---
+topic_id: 26961
+title: "Ecografias Dicom A Stl"
+date: 2022-12-28
+url: https://discourse.slicer.org/t/26961
+---
+
 # Ecografias- Dicom a Stl
 
 **Topic ID**: 26961

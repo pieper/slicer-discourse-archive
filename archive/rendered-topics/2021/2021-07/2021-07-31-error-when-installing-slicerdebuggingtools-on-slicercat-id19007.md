@@ -1,3 +1,10 @@
+---
+topic_id: 19007
+title: "Error When Installing Slicerdebuggingtools On Slicercat"
+date: 2021-07-31
+url: https://discourse.slicer.org/t/19007
+---
+
 # Error when installing SlicerDebuggingTools on SlicerCAT
 
 **Topic ID**: 19007

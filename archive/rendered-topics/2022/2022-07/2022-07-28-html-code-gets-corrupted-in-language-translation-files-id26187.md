@@ -1,3 +1,10 @@
+---
+topic_id: 26187
+title: "Html Code Gets Corrupted In Language Translation Files"
+date: 2022-07-28
+url: https://discourse.slicer.org/t/26187
+---
+
 # HTML code gets corrupted in language translation files
 
 **Topic ID**: 26187

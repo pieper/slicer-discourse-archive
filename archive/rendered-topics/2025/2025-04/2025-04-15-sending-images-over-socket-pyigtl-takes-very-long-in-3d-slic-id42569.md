@@ -1,3 +1,10 @@
+---
+topic_id: 42569
+title: "Sending Images Over Socket Pyigtl Takes Very Long In 3D Slic"
+date: 2025-04-15
+url: https://discourse.slicer.org/t/42569
+---
+
 # Sending images over socket/pyigtl takes very long in 3D Slicer
 
 **Topic ID**: 42569

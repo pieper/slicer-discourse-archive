@@ -1,3 +1,10 @@
+---
+topic_id: 30129
+title: "Align Two Models"
+date: 2023-06-19
+url: https://discourse.slicer.org/t/30129
+---
+
 # Align two models
 
 **Topic ID**: 30129

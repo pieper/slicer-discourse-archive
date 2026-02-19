@@ -1,3 +1,10 @@
+---
+topic_id: 9699
+title: "Slicer Is Not Showing In 3D View"
+date: 2020-01-03
+url: https://discourse.slicer.org/t/9699
+---
+
 # Slicer is not showing in 3D view
 
 **Topic ID**: 9699

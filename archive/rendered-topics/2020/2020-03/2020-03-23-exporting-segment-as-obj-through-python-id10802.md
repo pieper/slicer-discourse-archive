@@ -1,3 +1,10 @@
+---
+topic_id: 10802
+title: "Exporting Segment As Obj Through Python"
+date: 2020-03-23
+url: https://discourse.slicer.org/t/10802
+---
+
 # Exporting Segment as OBJ through Python
 
 **Topic ID**: 10802

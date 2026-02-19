@@ -1,3 +1,10 @@
+---
+topic_id: 883
+title: "Option To Disable Smoothing Of The Segment Surfaces In Segme"
+date: 2017-08-16
+url: https://discourse.slicer.org/t/883
+---
+
 # Option to disable smoothing of the segment surfaces in Segment Editor
 
 **Topic ID**: 883

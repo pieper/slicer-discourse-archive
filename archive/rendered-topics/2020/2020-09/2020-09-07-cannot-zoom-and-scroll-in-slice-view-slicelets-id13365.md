@@ -1,3 +1,10 @@
+---
+topic_id: 13365
+title: "Cannot Zoom And Scroll In Slice View Slicelets"
+date: 2020-09-07
+url: https://discourse.slicer.org/t/13365
+---
+
 # Cannot zoom and scroll in slice view(slicelets)
 
 **Topic ID**: 13365

@@ -1,3 +1,10 @@
+---
+topic_id: 9043
+title: "How To Change Window Level Programmatically"
+date: 2019-11-06
+url: https://discourse.slicer.org/t/9043
+---
+
 # How to change window/level programmatically
 
 **Topic ID**: 9043

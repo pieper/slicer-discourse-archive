@@ -1,3 +1,10 @@
+---
+topic_id: 34915
+title: "Long Loading Time For Dicom Folder"
+date: 2024-03-15
+url: https://discourse.slicer.org/t/34915
+---
+
 # Long loading time for DICOM folder. 
 
 **Topic ID**: 34915

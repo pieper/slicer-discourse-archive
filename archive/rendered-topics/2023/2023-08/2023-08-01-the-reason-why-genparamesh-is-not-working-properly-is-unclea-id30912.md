@@ -1,3 +1,10 @@
+---
+topic_id: 30912
+title: "The Reason Why Genparamesh Is Not Working Properly Is Unclea"
+date: 2023-08-01
+url: https://discourse.slicer.org/t/30912
+---
+
 # The reason why GenParaMesh is not working properly is unclear
 
 **Topic ID**: 30912

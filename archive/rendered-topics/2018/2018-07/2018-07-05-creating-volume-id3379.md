@@ -1,3 +1,10 @@
+---
+topic_id: 3379
+title: "Creating Volume"
+date: 2018-07-05
+url: https://discourse.slicer.org/t/3379
+---
+
 # Creating volume
 
 **Topic ID**: 3379

@@ -1,3 +1,10 @@
+---
+topic_id: 45385
+title: "Workflow Documentation"
+date: 2025-12-07
+url: https://discourse.slicer.org/t/45385
+---
+
 # Workflow Documentation
 
 **Topic ID**: 45385

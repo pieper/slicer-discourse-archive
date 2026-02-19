@@ -1,3 +1,10 @@
+---
+topic_id: 14928
+title: "Failing To Download Extension With Slicer 4 11 Stable"
+date: 2020-12-07
+url: https://discourse.slicer.org/t/14928
+---
+
 # Failing to download extension with Slicer-4.11 stable
 
 **Topic ID**: 14928

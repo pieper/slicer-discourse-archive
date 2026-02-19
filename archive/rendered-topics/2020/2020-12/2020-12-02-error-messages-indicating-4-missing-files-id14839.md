@@ -1,3 +1,10 @@
+---
+topic_id: 14839
+title: "Error Messages Indicating 4 Missing Files"
+date: 2020-12-02
+url: https://discourse.slicer.org/t/14839
+---
+
 # Error messages indicating 4 missing files
 
 **Topic ID**: 14839

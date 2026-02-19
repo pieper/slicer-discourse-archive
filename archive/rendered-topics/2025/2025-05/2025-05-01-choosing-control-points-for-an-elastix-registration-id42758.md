@@ -1,3 +1,10 @@
+---
+topic_id: 42758
+title: "Choosing Control Points For An Elastix Registration"
+date: 2025-05-01
+url: https://discourse.slicer.org/t/42758
+---
+
 # Choosing control points for an elastix registration
 
 **Topic ID**: 42758

@@ -1,3 +1,10 @@
+---
+topic_id: 10962
+title: "Is Pointclickedevent Still Supported In Slicer 4 11 0"
+date: 2020-04-01
+url: https://discourse.slicer.org/t/10962
+---
+
 # is PointClickedEvent still supported in slicer 4.11.0?
 
 **Topic ID**: 10962

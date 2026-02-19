@@ -1,3 +1,10 @@
+---
+topic_id: 29589
+title: "Skeletal Representation Spoke Length"
+date: 2023-05-22
+url: https://discourse.slicer.org/t/29589
+---
+
 # Skeletal Representation Spoke Length
 
 **Topic ID**: 29589

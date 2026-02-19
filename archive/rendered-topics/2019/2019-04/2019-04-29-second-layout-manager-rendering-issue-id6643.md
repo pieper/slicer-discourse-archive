@@ -1,3 +1,10 @@
+---
+topic_id: 6643
+title: "Second Layout Manager Rendering Issue"
+date: 2019-04-29
+url: https://discourse.slicer.org/t/6643
+---
+
 # Second layout manager rendering issue
 
 **Topic ID**: 6643

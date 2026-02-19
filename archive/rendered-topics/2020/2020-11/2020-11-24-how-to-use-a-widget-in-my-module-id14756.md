@@ -1,3 +1,10 @@
+---
+topic_id: 14756
+title: "How To Use A Widget In My Module"
+date: 2020-11-24
+url: https://discourse.slicer.org/t/14756
+---
+
 # How to use a widget in my module
 
 **Topic ID**: 14756

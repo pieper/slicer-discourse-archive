@@ -1,3 +1,10 @@
+---
+topic_id: 4613
+title: "Builtin Web Browser"
+date: 2018-11-01
+url: https://discourse.slicer.org/t/4613
+---
+
 # Builtin web browser
 
 **Topic ID**: 4613

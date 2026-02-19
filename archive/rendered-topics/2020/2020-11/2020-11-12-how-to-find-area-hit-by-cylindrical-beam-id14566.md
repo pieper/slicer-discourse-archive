@@ -1,3 +1,10 @@
+---
+topic_id: 14566
+title: "How To Find Area Hit By Cylindrical Beam"
+date: 2020-11-12
+url: https://discourse.slicer.org/t/14566
+---
+
 # How to find area hit by cylindrical beam
 
 **Topic ID**: 14566

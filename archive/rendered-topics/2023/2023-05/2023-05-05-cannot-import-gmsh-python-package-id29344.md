@@ -1,3 +1,10 @@
+---
+topic_id: 29344
+title: "Cannot Import Gmsh Python Package"
+date: 2023-05-05
+url: https://discourse.slicer.org/t/29344
+---
+
 # Cannot import gmsh Python package
 
 **Topic ID**: 29344

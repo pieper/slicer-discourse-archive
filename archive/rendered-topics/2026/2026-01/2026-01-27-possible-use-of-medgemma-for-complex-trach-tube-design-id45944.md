@@ -1,3 +1,10 @@
+---
+topic_id: 45944
+title: "Possible Use Of Medgemma For Complex Trach Tube Design"
+date: 2026-01-27
+url: https://discourse.slicer.org/t/45944
+---
+
 # Possible use of MedGemma for complex trach tube design
 
 **Topic ID**: 45944

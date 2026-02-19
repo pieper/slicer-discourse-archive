@@ -1,3 +1,10 @@
+---
+topic_id: 23234
+title: "Extremities Of A Long Volume Vanishing When Rotating"
+date: 2022-05-02
+url: https://discourse.slicer.org/t/23234
+---
+
 # extremities of a long volume vanishing when rotating
 
 **Topic ID**: 23234

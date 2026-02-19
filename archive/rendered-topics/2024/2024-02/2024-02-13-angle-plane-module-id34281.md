@@ -1,3 +1,10 @@
+---
+topic_id: 34281
+title: "Angle Plane Module"
+date: 2024-02-13
+url: https://discourse.slicer.org/t/34281
+---
+
 # Angle plane module
 
 **Topic ID**: 34281

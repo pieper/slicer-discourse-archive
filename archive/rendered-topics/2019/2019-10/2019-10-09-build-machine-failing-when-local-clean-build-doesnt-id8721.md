@@ -1,3 +1,10 @@
+---
+topic_id: 8721
+title: "Build Machine Failing When Local Clean Build Doesnt"
+date: 2019-10-09
+url: https://discourse.slicer.org/t/8721
+---
+
 # Build machine failing when local clean build doesn't
 
 **Topic ID**: 8721

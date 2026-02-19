@@ -1,3 +1,10 @@
+---
+topic_id: 20640
+title: "New Feature Configurable Volume Display Presets In Right Cli"
+date: 2021-11-16
+url: https://discourse.slicer.org/t/20640
+---
+
 # New feature: configurable volume display presets in right-click menu and Volumes module
 
 **Topic ID**: 20640

@@ -1,3 +1,10 @@
+---
+topic_id: 38440
+title: "Mould Generator"
+date: 2024-09-19
+url: https://discourse.slicer.org/t/38440
+---
+
 # Mould Generator
 
 **Topic ID**: 38440

@@ -1,3 +1,10 @@
+---
+topic_id: 20162
+title: "In Developing A Loadable Module How Can I Use The Screen On"
+date: 2021-10-15
+url: https://discourse.slicer.org/t/20162
+---
+
 # In developing a loadable module, how can I use the screen on the right except ui on the left side of the display module?
 
 **Topic ID**: 20162

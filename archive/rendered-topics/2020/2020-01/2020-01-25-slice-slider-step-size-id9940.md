@@ -1,3 +1,10 @@
+---
+topic_id: 9940
+title: "Slice Slider Step Size"
+date: 2020-01-25
+url: https://discourse.slicer.org/t/9940
+---
+
 # Slice slider step size
 
 **Topic ID**: 9940

@@ -1,3 +1,10 @@
+---
+topic_id: 7608
+title: "Vtkdiscretemarchingcubes Output Transform Compared To Origin"
+date: 2019-07-16
+url: https://discourse.slicer.org/t/7608
+---
+
 # vtkDiscreteMarchingCubes Output Transform compared to original vtkOrientedImageData
 
 **Topic ID**: 7608

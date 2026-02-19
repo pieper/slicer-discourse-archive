@@ -1,3 +1,10 @@
+---
+topic_id: 18363
+title: "How To Smooth Label Image Rendering"
+date: 2021-06-28
+url: https://discourse.slicer.org/t/18363
+---
+
 # How to smooth label image rendering?
 
 **Topic ID**: 18363

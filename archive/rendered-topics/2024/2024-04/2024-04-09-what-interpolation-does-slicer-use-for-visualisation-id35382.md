@@ -1,3 +1,10 @@
+---
+topic_id: 35382
+title: "What Interpolation Does Slicer Use For Visualisation"
+date: 2024-04-09
+url: https://discourse.slicer.org/t/35382
+---
+
 # What interpolation does Slicer use for visualisation
 
 **Topic ID**: 35382

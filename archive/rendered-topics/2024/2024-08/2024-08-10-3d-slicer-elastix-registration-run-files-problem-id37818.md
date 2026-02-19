@@ -1,3 +1,10 @@
+---
+topic_id: 37818
+title: "3D Slicer Elastix Registration Run Files Problem"
+date: 2024-08-10
+url: https://discourse.slicer.org/t/37818
+---
+
 # 3D Slicer Elastix registration run files problem
 
 **Topic ID**: 37818

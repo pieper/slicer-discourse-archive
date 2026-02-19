@@ -1,3 +1,10 @@
+---
+topic_id: 29282
+title: "Wrong Number Of Cells In Model Maker Model"
+date: 2023-05-04
+url: https://discourse.slicer.org/t/29282
+---
+
 # Wrong number of cells in Model Maker model
 
 **Topic ID**: 29282

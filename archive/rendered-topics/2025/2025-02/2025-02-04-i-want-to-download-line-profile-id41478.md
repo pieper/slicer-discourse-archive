@@ -1,3 +1,10 @@
+---
+topic_id: 41478
+title: "I Want To Download Line Profile"
+date: 2025-02-04
+url: https://discourse.slicer.org/t/41478
+---
+
 # I want to download line profile?
 
 **Topic ID**: 41478

@@ -1,3 +1,10 @@
+---
+topic_id: 14587
+title: "Vtk Triangle 97 With Less Than Three Points But Vtk Triangle"
+date: 2020-11-13
+url: https://discourse.slicer.org/t/14587
+---
+
 # VTK_TRIANGLE 97 with less than three points, but VTK_TRIANGLE needs at least three points
 
 **Topic ID**: 14587

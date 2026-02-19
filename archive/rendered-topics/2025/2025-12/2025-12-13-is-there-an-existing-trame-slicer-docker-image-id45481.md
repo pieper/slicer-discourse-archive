@@ -1,3 +1,10 @@
+---
+topic_id: 45481
+title: "Is There An Existing Trame Slicer Docker Image"
+date: 2025-12-13
+url: https://discourse.slicer.org/t/45481
+---
+
 # Is there an existing trame-slicer docker image?
 
 **Topic ID**: 45481

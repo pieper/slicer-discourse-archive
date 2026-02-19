@@ -1,3 +1,10 @@
+---
+topic_id: 23179
+title: "Create Mesh From Binary Image"
+date: 2022-04-28
+url: https://discourse.slicer.org/t/23179
+---
+
 # Create mesh from binary image
 
 **Topic ID**: 23179

@@ -1,3 +1,10 @@
+---
+topic_id: 12981
+title: "Markup Nodes Option For Locked Unlocked On Creation"
+date: 2020-08-13
+url: https://discourse.slicer.org/t/12981
+---
+
 # Markup nodes - option for locked/unlocked on creation?
 
 **Topic ID**: 12981

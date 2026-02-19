@@ -1,3 +1,10 @@
+---
+topic_id: 45081
+title: "Issue With Total Segmentator Unrealiable Outcome And Manual"
+date: 2025-11-14
+url: https://discourse.slicer.org/t/45081
+---
+
 # Issue with total segmentator - unrealiable outcome? and manual correction
 
 **Topic ID**: 45081

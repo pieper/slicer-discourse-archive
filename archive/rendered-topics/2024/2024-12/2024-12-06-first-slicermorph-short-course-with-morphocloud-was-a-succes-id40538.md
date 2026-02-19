@@ -1,3 +1,10 @@
+---
+topic_id: 40538
+title: "First Slicermorph Short Course With Morphocloud Was A Succes"
+date: 2024-12-06
+url: https://discourse.slicer.org/t/40538
+---
+
 # First SlicerMorph short course with MorphoCloud was a success!
 
 **Topic ID**: 40538

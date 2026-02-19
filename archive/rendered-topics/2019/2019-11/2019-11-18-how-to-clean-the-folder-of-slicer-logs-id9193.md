@@ -1,3 +1,10 @@
+---
+topic_id: 9193
+title: "How To Clean The Folder Of Slicer Logs"
+date: 2019-11-18
+url: https://discourse.slicer.org/t/9193
+---
+
 # How to clean the folder of Slicer_Logs?
 
 **Topic ID**: 9193

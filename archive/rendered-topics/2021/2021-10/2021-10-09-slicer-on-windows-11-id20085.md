@@ -1,3 +1,10 @@
+---
+topic_id: 20085
+title: "Slicer On Windows 11"
+date: 2021-10-09
+url: https://discourse.slicer.org/t/20085
+---
+
 # Slicer on Windows 11
 
 **Topic ID**: 20085

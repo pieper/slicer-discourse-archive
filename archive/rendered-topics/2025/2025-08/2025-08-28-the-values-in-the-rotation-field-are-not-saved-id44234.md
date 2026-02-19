@@ -1,3 +1,10 @@
+---
+topic_id: 44234
+title: "The Values In The Rotation Field Are Not Saved"
+date: 2025-08-28
+url: https://discourse.slicer.org/t/44234
+---
+
 # The values in the rotation field are not saved
 
 **Topic ID**: 44234

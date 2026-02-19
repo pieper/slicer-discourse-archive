@@ -1,3 +1,10 @@
+---
+topic_id: 13608
+title: "How To Request Dicom Data From Hospital"
+date: 2020-09-22
+url: https://discourse.slicer.org/t/13608
+---
+
 # How to request DICOM Data from Hospital
 
 **Topic ID**: 13608

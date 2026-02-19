@@ -1,3 +1,10 @@
+---
+topic_id: 42472
+title: "Issues Related To The Python Environment In 3D Slicer Softwa"
+date: 2025-04-07
+url: https://discourse.slicer.org/t/42472
+---
+
 # Issues Related to the Python Environment in 3D Slicer Software
 
 **Topic ID**: 42472

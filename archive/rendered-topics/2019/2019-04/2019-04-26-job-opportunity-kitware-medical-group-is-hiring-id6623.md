@@ -1,3 +1,10 @@
+---
+topic_id: 6623
+title: "Job Opportunity Kitware Medical Group Is Hiring"
+date: 2019-04-26
+url: https://discourse.slicer.org/t/6623
+---
+
 # Job opportunity: Kitware Medical Group is hiring
 
 **Topic ID**: 6623

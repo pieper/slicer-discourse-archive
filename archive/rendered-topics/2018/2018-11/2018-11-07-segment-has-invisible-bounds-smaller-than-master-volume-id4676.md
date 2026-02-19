@@ -1,3 +1,10 @@
+---
+topic_id: 4676
+title: "Segment Has Invisible Bounds Smaller Than Master Volume"
+date: 2018-11-07
+url: https://discourse.slicer.org/t/4676
+---
+
 # Segment has invisible bounds smaller than master volume
 
 **Topic ID**: 4676

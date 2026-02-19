@@ -1,3 +1,10 @@
+---
+topic_id: 40232
+title: "3D Slicer And Rek File"
+date: 2024-11-17
+url: https://discourse.slicer.org/t/40232
+---
+
 # 3D Slicer and rek. file
 
 **Topic ID**: 40232

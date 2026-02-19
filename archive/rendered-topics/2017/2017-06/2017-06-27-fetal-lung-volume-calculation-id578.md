@@ -1,3 +1,10 @@
+---
+topic_id: 578
+title: "Fetal Lung Volume Calculation"
+date: 2017-06-27
+url: https://discourse.slicer.org/t/578
+---
+
 # Fetal lung volume calculation
 
 **Topic ID**: 578

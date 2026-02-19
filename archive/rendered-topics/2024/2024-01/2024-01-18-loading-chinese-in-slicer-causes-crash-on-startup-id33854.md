@@ -1,3 +1,10 @@
+---
+topic_id: 33854
+title: "Loading Chinese In Slicer Causes Crash On Startup"
+date: 2024-01-18
+url: https://discourse.slicer.org/t/33854
+---
+
 # Loading Chinese in Slicer causes crash on startup
 
 **Topic ID**: 33854

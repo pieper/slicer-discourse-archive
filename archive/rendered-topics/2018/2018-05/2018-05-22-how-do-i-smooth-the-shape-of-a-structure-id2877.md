@@ -1,3 +1,10 @@
+---
+topic_id: 2877
+title: "How Do I Smooth The Shape Of A Structure"
+date: 2018-05-22
+url: https://discourse.slicer.org/t/2877
+---
+
 # How do i smooth the shape of a structure?
 
 **Topic ID**: 2877

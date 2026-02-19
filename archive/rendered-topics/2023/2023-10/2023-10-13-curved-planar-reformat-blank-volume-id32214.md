@@ -1,3 +1,10 @@
+---
+topic_id: 32214
+title: "Curved Planar Reformat Blank Volume"
+date: 2023-10-13
+url: https://discourse.slicer.org/t/32214
+---
+
 # Curved Planar Reformat Blank Volume
 
 **Topic ID**: 32214

@@ -1,3 +1,10 @@
+---
+topic_id: 550
+title: "Vtkdebugleaks In Slicelet"
+date: 2017-06-21
+url: https://discourse.slicer.org/t/550
+---
+
 # vtkDebugLeaks in slicelet
 
 **Topic ID**: 550

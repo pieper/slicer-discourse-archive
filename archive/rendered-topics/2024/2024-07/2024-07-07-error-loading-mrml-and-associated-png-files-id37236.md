@@ -1,3 +1,10 @@
+---
+topic_id: 37236
+title: "Error Loading Mrml And Associated Png Files"
+date: 2024-07-07
+url: https://discourse.slicer.org/t/37236
+---
+
 # Error loading .mrml and associated .png files
 
 **Topic ID**: 37236

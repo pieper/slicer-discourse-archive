@@ -1,3 +1,10 @@
+---
+topic_id: 13862
+title: "Calculation Of Lung Airway Data"
+date: 2020-10-05
+url: https://discourse.slicer.org/t/13862
+---
+
 # Calculation of lung airway data
 
 **Topic ID**: 13862

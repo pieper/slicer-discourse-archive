@@ -1,3 +1,10 @@
+---
+topic_id: 29100
+title: "About Cellpicker When Markup By Line"
+date: 2023-04-25
+url: https://discourse.slicer.org/t/29100
+---
+
 # About CellPicker when markup by line
 
 **Topic ID**: 29100

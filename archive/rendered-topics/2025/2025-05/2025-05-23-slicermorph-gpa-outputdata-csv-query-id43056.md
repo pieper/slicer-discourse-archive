@@ -1,3 +1,10 @@
+---
+topic_id: 43056
+title: "Slicermorph Gpa Outputdata Csv Query"
+date: 2025-05-23
+url: https://discourse.slicer.org/t/43056
+---
+
 # Slicermorph GPA outputData.csv query
 
 **Topic ID**: 43056

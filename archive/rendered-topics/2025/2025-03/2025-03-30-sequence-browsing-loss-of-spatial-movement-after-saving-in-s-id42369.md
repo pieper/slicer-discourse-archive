@@ -1,3 +1,10 @@
+---
+topic_id: 42369
+title: "Sequence Browsing Loss Of Spatial Movement After Saving In S"
+date: 2025-03-30
+url: https://discourse.slicer.org/t/42369
+---
+
 # Sequence Browsing: Loss of Spatial Movement After Saving in Slicer
 
 **Topic ID**: 42369

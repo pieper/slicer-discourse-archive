@@ -1,3 +1,10 @@
+---
+topic_id: 44584
+title: "Extract Centerlines Irregularities"
+date: 2025-09-25
+url: https://discourse.slicer.org/t/44584
+---
+
 # Extract centerlines irregularities
 
 **Topic ID**: 44584

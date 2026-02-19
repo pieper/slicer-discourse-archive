@@ -1,3 +1,10 @@
+---
+topic_id: 36250
+title: "Coronal Sagittal Images Cropped And Window Level Issues"
+date: 2024-05-18
+url: https://discourse.slicer.org/t/36250
+---
+
 # Coronal / Sagittal Images Cropped and Window Level Issues
 
 **Topic ID**: 36250

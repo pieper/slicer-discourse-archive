@@ -1,3 +1,10 @@
+---
+topic_id: 44266
+title: "Make Clipping To Be Separate Module"
+date: 2025-08-29
+url: https://discourse.slicer.org/t/44266
+---
+
 # Make clipping to be separate module
 
 **Topic ID**: 44266

@@ -1,3 +1,10 @@
+---
+topic_id: 9447
+title: "How To Set Select Fudicial Points One By One"
+date: 2019-12-09
+url: https://discourse.slicer.org/t/9447
+---
+
 # How to set/select Fudicial Points one by one
 
 **Topic ID**: 9447

@@ -1,3 +1,10 @@
+---
+topic_id: 12924
+title: "A Drawing Disappears After Cropping Volume"
+date: 2020-08-10
+url: https://discourse.slicer.org/t/12924
+---
+
 # A drawing disappears after Cropping Volume
 
 **Topic ID**: 12924

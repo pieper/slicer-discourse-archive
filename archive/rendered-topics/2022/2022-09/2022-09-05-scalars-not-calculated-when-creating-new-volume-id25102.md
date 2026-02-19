@@ -1,3 +1,10 @@
+---
+topic_id: 25102
+title: "Scalars Not Calculated When Creating New Volume"
+date: 2022-09-05
+url: https://discourse.slicer.org/t/25102
+---
+
 # Scalars not calculated when creating new volume
 
 **Topic ID**: 25102

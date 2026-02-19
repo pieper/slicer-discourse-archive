@@ -1,3 +1,10 @@
+---
+topic_id: 12250
+title: "Editing Endpoints In Extract Centerline Module By Python Scr"
+date: 2020-06-28
+url: https://discourse.slicer.org/t/12250
+---
+
 # Editing endpoints in extract centerline module by Python scripting
 
 **Topic ID**: 12250

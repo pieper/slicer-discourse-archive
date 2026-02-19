@@ -1,3 +1,10 @@
+---
+topic_id: 22441
+title: "Slicerdmri Cannot Be Installed"
+date: 2022-03-10
+url: https://discourse.slicer.org/t/22441
+---
+
 # SlicerDMRI cannot be installed.
 
 **Topic ID**: 22441

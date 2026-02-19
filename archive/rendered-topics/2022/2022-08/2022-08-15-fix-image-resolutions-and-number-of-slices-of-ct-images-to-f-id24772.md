@@ -1,3 +1,10 @@
+---
+topic_id: 24772
+title: "Fix Image Resolutions And Number Of Slices Of Ct Images To F"
+date: 2022-08-15
+url: https://discourse.slicer.org/t/24772
+---
+
 # Fix Image Resolutions and number of slices of CT images to fit with pet image
 
 **Topic ID**: 24772

@@ -1,3 +1,10 @@
+---
+topic_id: 28448
+title: "Convert 4D And 3D Ultrasounds From Dicom To Stl"
+date: 2023-03-19
+url: https://discourse.slicer.org/t/28448
+---
+
 # Convert 4d and 3d ultrasounds from Dicom to STL
 
 **Topic ID**: 28448

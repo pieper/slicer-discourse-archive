@@ -1,3 +1,10 @@
+---
+topic_id: 45156
+title: "Synchronisation Window Level Across Multiple Volumes"
+date: 2025-11-20
+url: https://discourse.slicer.org/t/45156
+---
+
 # Synchronisation window/level across multiple volumes
 
 **Topic ID**: 45156

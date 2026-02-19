@@ -1,3 +1,10 @@
+---
+topic_id: 2584
+title: "A Free Biomedical Image Analysis And Visualization 2 Day Cou"
+date: 2018-04-13
+url: https://discourse.slicer.org/t/2584
+---
+
 # A free biomedical image analysis and visualization 2-day course
 
 **Topic ID**: 2584

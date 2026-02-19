@@ -1,3 +1,10 @@
+---
+topic_id: 40709
+title: "Controlling Visibility Of Slice Intersections"
+date: 2024-12-16
+url: https://discourse.slicer.org/t/40709
+---
+
 # Controlling visibility of slice intersections
 
 **Topic ID**: 40709

@@ -1,3 +1,10 @@
+---
+topic_id: 29749
+title: "Revealing Patient Data"
+date: 2023-05-31
+url: https://discourse.slicer.org/t/29749
+---
+
 # Revealing Patient Data
 
 **Topic ID**: 29749

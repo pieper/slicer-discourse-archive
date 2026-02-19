@@ -1,3 +1,10 @@
+---
+topic_id: 2752
+title: "How To Open Analyze Format Files In Slicer"
+date: 2018-05-03
+url: https://discourse.slicer.org/t/2752
+---
+
 # How to open Analyze format files in Slicer
 
 **Topic ID**: 2752

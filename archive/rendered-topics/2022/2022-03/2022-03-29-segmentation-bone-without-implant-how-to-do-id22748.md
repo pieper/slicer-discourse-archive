@@ -1,3 +1,10 @@
+---
+topic_id: 22748
+title: "Segmentation Bone Without Implant How To Do"
+date: 2022-03-29
+url: https://discourse.slicer.org/t/22748
+---
+
 # Segmentation: bone without implant, how to do?
 
 **Topic ID**: 22748

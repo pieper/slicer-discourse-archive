@@ -1,3 +1,10 @@
+---
+topic_id: 45553
+title: "Generating A Deformed Image Using Bspline Transform In 3D Sl"
+date: 2025-12-19
+url: https://discourse.slicer.org/t/45553
+---
+
 # Generating a Deformed Image Using BSpline Transform in 3D Slicer
 
 **Topic ID**: 45553

@@ -1,3 +1,10 @@
+---
+topic_id: 3044
+title: "Group Mean Shape By Using Shapevariationanalyzer"
+date: 2018-06-01
+url: https://discourse.slicer.org/t/3044
+---
+
 # Group mean shape by using shapeVariationAnalyzer
 
 **Topic ID**: 3044

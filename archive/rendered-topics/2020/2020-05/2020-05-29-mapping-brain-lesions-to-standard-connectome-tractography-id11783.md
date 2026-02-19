@@ -1,3 +1,10 @@
+---
+topic_id: 11783
+title: "Mapping Brain Lesions To Standard Connectome Tractography"
+date: 2020-05-29
+url: https://discourse.slicer.org/t/11783
+---
+
 # Mapping brain lesions to standard connectome/tractography
 
 **Topic ID**: 11783

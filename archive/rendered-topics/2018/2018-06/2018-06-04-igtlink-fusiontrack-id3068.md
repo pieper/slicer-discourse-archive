@@ -1,3 +1,10 @@
+---
+topic_id: 3068
+title: "Igtlink Fusiontrack"
+date: 2018-06-04
+url: https://discourse.slicer.org/t/3068
+---
+
 # IGTLink + FusionTrack
 
 **Topic ID**: 3068

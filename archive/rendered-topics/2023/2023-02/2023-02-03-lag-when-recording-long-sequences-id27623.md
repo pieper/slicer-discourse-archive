@@ -1,3 +1,10 @@
+---
+topic_id: 27623
+title: "Lag When Recording Long Sequences"
+date: 2023-02-03
+url: https://discourse.slicer.org/t/27623
+---
+
 # Lag when recording long sequences
 
 **Topic ID**: 27623

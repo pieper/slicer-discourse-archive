@@ -1,3 +1,10 @@
+---
+topic_id: 7679
+title: "Convert Mesh To Engineering Cad Software Solid Part"
+date: 2019-07-15
+url: https://discourse.slicer.org/t/7679
+---
+
 # Convert mesh to engineering CAD software solid part
 
 **Topic ID**: 7679

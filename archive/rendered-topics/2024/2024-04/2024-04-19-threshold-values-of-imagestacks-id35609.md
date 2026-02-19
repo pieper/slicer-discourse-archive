@@ -1,3 +1,10 @@
+---
+topic_id: 35609
+title: "Threshold Values Of Imagestacks"
+date: 2024-04-19
+url: https://discourse.slicer.org/t/35609
+---
+
 # Threshold values of Imagestacks
 
 **Topic ID**: 35609

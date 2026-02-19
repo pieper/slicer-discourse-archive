@@ -1,3 +1,10 @@
+---
+topic_id: 29897
+title: "Dicom Database Initialization"
+date: 2023-06-07
+url: https://discourse.slicer.org/t/29897
+---
+
 # DICOM database initialization
 
 **Topic ID**: 29897

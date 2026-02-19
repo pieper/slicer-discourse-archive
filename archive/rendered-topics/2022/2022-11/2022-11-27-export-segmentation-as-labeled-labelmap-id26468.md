@@ -1,3 +1,10 @@
+---
+topic_id: 26468
+title: "Export Segmentation As Labeled Labelmap"
+date: 2022-11-27
+url: https://discourse.slicer.org/t/26468
+---
+
 # Export Segmentation as Labeled LabelMap
 
 **Topic ID**: 26468

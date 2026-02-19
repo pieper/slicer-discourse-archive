@@ -1,3 +1,10 @@
+---
+topic_id: 19158
+title: "Unable To Install Extension Incompatible With Slicer R30110"
+date: 2021-08-11
+url: https://discourse.slicer.org/t/19158
+---
+
 # Unable to install extension - "Incompatible with Slicer r30110"
 
 **Topic ID**: 19158

@@ -1,3 +1,10 @@
+---
+topic_id: 17153
+title: "Combining Two Different Scan Types"
+date: 2021-04-18
+url: https://discourse.slicer.org/t/17153
+---
+
 # Combining two different scan types
 
 **Topic ID**: 17153

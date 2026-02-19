@@ -1,3 +1,10 @@
+---
+topic_id: 7963
+title: "A Quick Easy Method To Segment Individual Muscles"
+date: 2019-08-09
+url: https://discourse.slicer.org/t/7963
+---
+
 # A quick/easy method to segment individual muscles 
 
 **Topic ID**: 7963

@@ -1,3 +1,10 @@
+---
+topic_id: 2855
+title: "Applying The Grow From Seeds Effect To Only Selected Slices"
+date: 2018-05-20
+url: https://discourse.slicer.org/t/2855
+---
+
 # Applying the Grow from Seeds Effect to only selected slices
 
 **Topic ID**: 2855
