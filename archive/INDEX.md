@@ -1,6 +1,6 @@
 # Slicer Discourse Archive Index
 
-Last updated: 2026-02-21 03:43 UTC
+Last updated: 2026-02-22 03:46 UTC
 
 ## Archive Contents
 
@@ -16,8 +16,6 @@ Last updated: 2026-02-21 03:43 UTC
 - [README.md](archive/rendered-topics/2024/2024-03/README.md)
 - [README.md](archive/rendered-topics/2024/2024-02/README.md)
 - [README.md](archive/rendered-topics/2024/2024-01/README.md)
-- [why can not use dental segmentator](archive/rendered-topics/2024/2024-12/2024-12-27-why-can-not-use-dental-segmentator-id40866.md)
-- [is there a way to use the wrapsurfacesolidify with mammal sk](archive/rendered-topics/2024/2024-12/2024-12-28-is-there-a-way-to-use-the-wrapsurfacesolidify-with-mammal-sk-id40885.md)
 - [transforming a 2d image into a tactile 3d representation](archive/rendered-topics/2024/2024-12/2024-12-28-transforming-a-2d-image-into-a-tactile-3d-representation-id40879.md)
 - [windows font scaling issue on laptop screens](archive/rendered-topics/2024/2024-12/2024-12-28-windows-font-scaling-issue-on-laptop-screens-id40883.md)
 - [missing image loading in dicom files](archive/rendered-topics/2024/2024-12/2024-12-29-missing-image-loading-in-dicom-files-id40889.md)
@@ -30,7 +28,6 @@ Last updated: 2026-02-21 03:43 UTC
 - [issues with dentalsegmentator](archive/rendered-topics/2024/2024-12/2024-12-30-issues-with-dentalsegmentator-id40905.md)
 - [my kernel keeps dying slicer 4 11 jupyter](archive/rendered-topics/2024/2024-12/2024-12-30-my-kernel-keeps-dying-slicer-4-11-jupyter-id40902.md)
 - [quest vr controllers as live trackers](archive/rendered-topics/2024/2024-12/2024-12-30-quest-vr-controllers-as-live-trackers-id40901.md)
-- [is it possible to see the message from qwarning](archive/rendered-topics/2024/2024-12/2024-12-19-is-it-possible-to-see-the-message-from-qwarning-id40799.md)
 - [modul export tractography to ply mesh doesnt work in slicer](archive/rendered-topics/2024/2024-12/2024-12-19-modul-export-tractography-to-ply-mesh-doesnt-work-in-slicer-id40805.md)
 - [shapepopulationviewer cant open the fiducial files](archive/rendered-topics/2024/2024-12/2024-12-19-shapepopulationviewer-cant-open-the-fiducial-files-id40798.md)
 - [surface normal calculation issue using surfacenets](archive/rendered-topics/2024/2024-12/2024-12-19-surface-normal-calculation-issue-using-surfacenets-id40811.md)
@@ -50,6 +47,9 @@ Last updated: 2026-02-21 03:43 UTC
 - [how to export centerline model as vtp files in slicer](archive/rendered-topics/2024/2024-12/2024-12-27-how-to-export-centerline-model-as-vtp-files-in-slicer-id40871.md)
 - [how to get hepatic vein and portal vein in different color o](archive/rendered-topics/2024/2024-12/2024-12-27-how-to-get-hepatic-vein-and-portal-vein-in-different-color-o-id40868.md)
 - [how to troubleshoot measurement error](archive/rendered-topics/2024/2024-12/2024-12-27-how-to-troubleshoot-measurement-error-id40874.md)
+- [why can not use dental segmentator](archive/rendered-topics/2024/2024-12/2024-12-27-why-can-not-use-dental-segmentator-id40866.md)
+- [is there a way to use the wrapsurfacesolidify with mammal sk](archive/rendered-topics/2024/2024-12/2024-12-28-is-there-a-way-to-use-the-wrapsurfacesolidify-with-mammal-sk-id40885.md)
+- [project week 42 preparation meeting tomorrow dec 17](archive/rendered-topics/2024/2024-12/2024-12-16-project-week-42-preparation-meeting-tomorrow-dec-17-id40722.md)
 - [segment statistics module on 3d slicer 5 6 2](archive/rendered-topics/2024/2024-12/2024-12-16-segment-statistics-module-on-3d-slicer-5-6-2-id40714.md)
 - [setting or trimming slice range for dicom images](archive/rendered-topics/2024/2024-12/2024-12-16-setting-or-trimming-slice-range-for-dicom-images-id40715.md)
 - [surface toolbox of 3d slicer do not work in windows](archive/rendered-topics/2024/2024-12/2024-12-16-surface-toolbox-of-3d-slicer-do-not-work-in-windows-id40717.md)
