@@ -60,3 +60,5 @@
 - [2026 02 22 New Slicer Skill Ai Tool](2026-02-22-new-slicer-skill-ai-tool-id46243.md)
 - [2026 02 23 2026 02 24 Weekly Meeting](2026-02-23-2026-02-24-weekly-meeting-id46266.md)
 - [2026 02 23 Can Anyone Help With Making An Stl File Of My Ear Canals For](2026-02-23-can-anyone-help-with-making-an-stl-file-of-my-ear-canals-for-id46263.md)
+- [2026 02 24 Custom Application Development Solutions](2026-02-24-custom-application-development-solutions-id46274.md)
+- [2026 02 24 Model To Model Distance Color Map Not Working](2026-02-24-model-to-model-distance-color-map-not-working-id46273.md)
