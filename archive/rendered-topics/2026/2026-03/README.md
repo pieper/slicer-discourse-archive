@@ -9,3 +9,4 @@
 - [2026 03 03 Reduce Brush Sphere Resolution](2026-03-03-reduce-brush-sphere-resolution-id46365.md)
 - [2026 03 03 Scissors In Segment Editor Module Seriously Lagged In Slicer](2026-03-03-scissors-in-segment-editor-module-seriously-lagged-in-slicer-id46364.md)
 - [2026 03 04 Grow From Seed Error Exceeded Max Number Of Voxels](2026-03-04-grow-from-seed-error-exceeded-max-number-of-voxels-id46371.md)
+- [2026 03 04 Grow From Seed Module Paper Link Outdated](2026-03-04-grow-from-seed-module-paper-link-outdated-id46373.md)
