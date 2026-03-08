@@ -12,4 +12,6 @@
 - [2026 03 04 Grow From Seed Module Paper Link Outdated](2026-03-04-grow-from-seed-module-paper-link-outdated-id46373.md)
 - [2026 03 06 Color Display Error On 3D Volume](2026-03-06-color-display-error-on-3d-volume-id46390.md)
 - [2026 03 06 Models With Topographic Information](2026-03-06-models-with-topographic-information-id46387.md)
+- [2026 03 07 Agent Skills In Talk2View Extension For 3D Slicer](2026-03-07-agent-skills-in-talk2view-extension-for-3d-slicer-id46409.md)
 - [2026 03 07 Confidently Incorrect Posts Appearing On Forum](2026-03-07-confidently-incorrect-posts-appearing-on-forum-id46398.md)
+- [2026 03 07 My Dental Segmentator Does Not Work Please Help](2026-03-07-my-dental-segmentator-does-not-work-please-help-id46408.md)
