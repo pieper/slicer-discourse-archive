@@ -15,3 +15,7 @@
 - [2026 03 07 Agent Skills In Talk2View Extension For 3D Slicer](2026-03-07-agent-skills-in-talk2view-extension-for-3d-slicer-id46409.md)
 - [2026 03 07 Confidently Incorrect Posts Appearing On Forum](2026-03-07-confidently-incorrect-posts-appearing-on-forum-id46398.md)
 - [2026 03 07 My Dental Segmentator Does Not Work Please Help](2026-03-07-my-dental-segmentator-does-not-work-please-help-id46408.md)
+- [2026 03 09 2026 03 10 Weekly Meeting](2026-03-09-2026-03-10-weekly-meeting-id46418.md)
+- [2026 03 09 How Do I Segment Dental Root Canal In 3D Slicer](2026-03-09-how-do-i-segment-dental-root-canal-in-3d-slicer-id46416.md)
+- [2026 03 09 Quality Loss In Segments](2026-03-09-quality-loss-in-segments-id46417.md)
+- [2026 03 09 Struggling With Liver Segmentation In 3D Slicer Need Guidanc](2026-03-09-struggling-with-liver-segmentation-in-3d-slicer-need-guidanc-id46420.md)
