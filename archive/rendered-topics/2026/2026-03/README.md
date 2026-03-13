@@ -21,4 +21,5 @@
 - [2026 03 09 Struggling With Liver Segmentation In 3D Slicer Need Guidanc](2026-03-09-struggling-with-liver-segmentation-in-3d-slicer-need-guidanc-id46420.md)
 - [2026 03 11 How To Create Layer Hierarchies For Gltf Export](2026-03-11-how-to-create-layer-hierarchies-for-gltf-export-id46432.md)
 - [2026 03 12 How To Handle 3D Model That Was Given To Me In Dicom Format](2026-03-12-how-to-handle-3d-model-that-was-given-to-me-in-dicom-format-id46438.md)
+- [2026 03 12 Slicer Used To See Sound Waves In 4D Not Us](2026-03-12-slicer-used-to-see-sound-waves-in-4d-not-us-id46447.md)
 - [2026 03 12 Wrong Positionning Of Segments Exported To Files](2026-03-12-wrong-positionning-of-segments-exported-to-files-id46439.md)
