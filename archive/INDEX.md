@@ -1,10 +1,10 @@
 # Slicer Discourse Archive Index
 
-Last updated: 2026-03-17 03:46 UTC
+Last updated: 2026-03-18 03:50 UTC
 
 ## Archive Contents
 
-- Total rendered topics: 18796
+- Total rendered topics: 18801
 - Raw JSON files: 0
 
 ## Recent Topics
@@ -16,14 +16,6 @@ Last updated: 2026-03-17 03:46 UTC
 - [README.md](archive/rendered-topics/2022/2022-08/README.md)
 - [README.md](archive/rendered-topics/2022/2022-07/README.md)
 - [README.md](archive/rendered-topics/2022/2022-01/README.md)
-- [load openinventor iv vrml 1 0 bone files in 3d slicer](archive/rendered-topics/2022/2022-12/2022-12-27-load-openinventor-iv-vrml-1-0-bone-files-in-3d-slicer-id26942.md)
-- [quantifying information of tumor ct image different phases](archive/rendered-topics/2022/2022-12/2022-12-27-quantifying-information-of-tumor-ct-image-different-phases-id26943.md)
-- [stl extraction from ct scans](archive/rendered-topics/2022/2022-12/2022-12-27-stl-extraction-from-ct-scans-id26950.md)
-- [build slicer failed with vtk9 wrapper error](archive/rendered-topics/2022/2022-12/2022-12-28-build-slicer-failed-with-vtk9-wrapper-error-id26953.md)
-- [cannot visualize dicom rt rois](archive/rendered-topics/2022/2022-12/2022-12-28-cannot-visualize-dicom-rt-rois-id26964.md)
-- [debug slicer and slicerrt together](archive/rendered-topics/2022/2022-12/2022-12-28-debug-slicer-and-slicerrt-together-id26955.md)
-- [ecografias dicom a stl](archive/rendered-topics/2022/2022-12/2022-12-28-ecografias-dicom-a-stl-id26961.md)
-- [how to export model as smaller file](archive/rendered-topics/2022/2022-12/2022-12-28-how-to-export-model-as-smaller-file-id26965.md)
 - [installer integrity check fail](archive/rendered-topics/2022/2022-12/2022-12-28-installer-integrity-check-fail-id26966.md)
 - [how should the data be for baby ultrasound](archive/rendered-topics/2022/2022-12/2022-12-29-how-should-the-data-be-for-baby-ultrasound-id26978.md)
 - [how to create sphere shaped segment](archive/rendered-topics/2022/2022-12/2022-12-29-how-to-create-sphere-shaped-segment-id26968.md)
@@ -33,21 +25,19 @@ Last updated: 2026-03-17 03:46 UTC
 - [dicom sequences with only one correct view at the time may i](archive/rendered-topics/2022/2022-12/2022-12-31-dicom-sequences-with-only-one-correct-view-at-the-time-may-i-id26992.md)
 - [the unit of measurement of radiomics features](archive/rendered-topics/2022/2022-12/2022-12-31-the-unit-of-measurement-of-radiomics-features-id26993.md)
 - [unit of measurement for features](archive/rendered-topics/2022/2022-12/2022-12-31-unit-of-measurement-for-features-id26995.md)
-- [how to create a new 3d window independent of the 3d slicer i](archive/rendered-topics/2022/2022-12/2022-12-25-how-to-create-a-new-3d-window-independent-of-the-3d-slicer-i-id26910.md)
-- [cine mri segmentation](archive/rendered-topics/2022/2022-12/2022-12-26-cine-mri-segmentation-id26914.md)
-- [error in feature extraction for single voxel](archive/rendered-topics/2022/2022-12/2022-12-26-error-in-feature-extraction-for-single-voxel-id26927.md)
-- [error while using total segmentator](archive/rendered-topics/2022/2022-12/2022-12-26-error-while-using-total-segmentator-id26925.md)
-- [how to hide decrease the opacity of bone to measure thicknes](archive/rendered-topics/2022/2022-12/2022-12-26-how-to-hide-decrease-the-opacity-of-bone-to-measure-thicknes-id26926.md)
 - [markups not moving with surface in q3dc extension](archive/rendered-topics/2022/2022-12/2022-12-26-markups-not-moving-with-surface-in-q3dc-extension-id26932.md)
 - [slicer 5 2 summary highlights and changelog](archive/rendered-topics/2022/2022-12/2022-12-26-slicer-5-2-summary-highlights-and-changelog-id26916.md)
 - [clipping tractography fibers](archive/rendered-topics/2022/2022-12/2022-12-27-clipping-tractography-fibers-id26941.md)
 - [error while installing pytorch](archive/rendered-topics/2022/2022-12/2022-12-27-error-while-installing-pytorch-id26956.md)
 - [how to record vtkcamera transform matrix](archive/rendered-topics/2022/2022-12/2022-12-27-how-to-record-vtkcamera-transform-matrix-id26933.md)
-- [whats wrong with my dwi failed to convert from dwi to tensor](archive/rendered-topics/2022/2022-12/2022-12-21-whats-wrong-with-my-dwi-failed-to-convert-from-dwi-to-tensor-id26864.md)
-- [3d rotation without mouse press after popup operate on invis](archive/rendered-topics/2022/2022-12/2022-12-22-3d-rotation-without-mouse-press-after-popup-operate-on-invis-id26889.md)
-- [accuracy measurement between two stl model t1 immediate afte](archive/rendered-topics/2022/2022-12/2022-12-22-accuracy-measurement-between-two-stl-model-t1-immediate-afte-id26880.md)
-- [chatgpt knows a little about slicer](archive/rendered-topics/2022/2022-12/2022-12-22-chatgpt-knows-a-little-about-slicer-id26888.md)
-- [how about this annotation tool to streamline the process pro](archive/rendered-topics/2022/2022-12/2022-12-22-how-about-this-annotation-tool-to-streamline-the-process-pro-id26885.md)
+- [load openinventor iv vrml 1 0 bone files in 3d slicer](archive/rendered-topics/2022/2022-12/2022-12-27-load-openinventor-iv-vrml-1-0-bone-files-in-3d-slicer-id26942.md)
+- [quantifying information of tumor ct image different phases](archive/rendered-topics/2022/2022-12/2022-12-27-quantifying-information-of-tumor-ct-image-different-phases-id26943.md)
+- [stl extraction from ct scans](archive/rendered-topics/2022/2022-12/2022-12-27-stl-extraction-from-ct-scans-id26950.md)
+- [build slicer failed with vtk9 wrapper error](archive/rendered-topics/2022/2022-12/2022-12-28-build-slicer-failed-with-vtk9-wrapper-error-id26953.md)
+- [cannot visualize dicom rt rois](archive/rendered-topics/2022/2022-12/2022-12-28-cannot-visualize-dicom-rt-rois-id26964.md)
+- [debug slicer and slicerrt together](archive/rendered-topics/2022/2022-12/2022-12-28-debug-slicer-and-slicerrt-together-id26955.md)
+- [ecografias dicom a stl](archive/rendered-topics/2022/2022-12/2022-12-28-ecografias-dicom-a-stl-id26961.md)
+- [how to export model as smaller file](archive/rendered-topics/2022/2022-12/2022-12-28-how-to-export-model-as-smaller-file-id26965.md)
 - [mac os monterey](archive/rendered-topics/2022/2022-12/2022-12-22-mac-os-monterey-id26892.md)
 - [markup subject folder disappears after toggling visibility i](archive/rendered-topics/2022/2022-12/2022-12-22-markup-subject-folder-disappears-after-toggling-visibility-i-id26890.md)
 - [save data without blocking the main thread](archive/rendered-topics/2022/2022-12/2022-12-22-save-data-without-blocking-the-main-thread-id26886.md)
@@ -58,4 +48,14 @@ Last updated: 2026-03-17 03:46 UTC
 - [how to install totalsegmentor module](archive/rendered-topics/2022/2022-12/2022-12-24-how-to-install-totalsegmentor-module-id26901.md)
 - [interpreting point to point distance output](archive/rendered-topics/2022/2022-12/2022-12-24-interpreting-point-to-point-distance-output-id26908.md)
 - [measurement problems](archive/rendered-topics/2022/2022-12/2022-12-24-measurement-problems-id26907.md)
-- [na mic project week reminder project week 38 preparation mee](archive/rendered-topics/2022/2022-12/2022-12-19-na-mic-project-week-reminder-project-week-38-preparation-mee-id26834.md)
+- [how to create a new 3d window independent of the 3d slicer i](archive/rendered-topics/2022/2022-12/2022-12-25-how-to-create-a-new-3d-window-independent-of-the-3d-slicer-i-id26910.md)
+- [cine mri segmentation](archive/rendered-topics/2022/2022-12/2022-12-26-cine-mri-segmentation-id26914.md)
+- [error in feature extraction for single voxel](archive/rendered-topics/2022/2022-12/2022-12-26-error-in-feature-extraction-for-single-voxel-id26927.md)
+- [error while using total segmentator](archive/rendered-topics/2022/2022-12/2022-12-26-error-while-using-total-segmentator-id26925.md)
+- [how to hide decrease the opacity of bone to measure thicknes](archive/rendered-topics/2022/2022-12/2022-12-26-how-to-hide-decrease-the-opacity-of-bone-to-measure-thicknes-id26926.md)
+- [heart reconstruction based on 2d echo](archive/rendered-topics/2022/2022-12/2022-12-20-heart-reconstruction-based-on-2d-echo-id26847.md)
+- [how to get the boundary edges of organs instead of the fille](archive/rendered-topics/2022/2022-12/2022-12-20-how-to-get-the-boundary-edges-of-organs-instead-of-the-fille-id26836.md)
+- [interpolate between two segmentations](archive/rendered-topics/2022/2022-12/2022-12-20-interpolate-between-two-segmentations-id26837.md)
+- [measure part of model volume along centerline](archive/rendered-topics/2022/2022-12/2022-12-20-measure-part-of-model-volume-along-centerline-id26853.md)
+- [petdicomextension](archive/rendered-topics/2022/2022-12/2022-12-20-petdicomextension-id26854.md)
+- [saving interaction slice planes and or reformat values](archive/rendered-topics/2022/2022-12/2022-12-20-saving-interaction-slice-planes-and-or-reformat-values-id26852.md)
