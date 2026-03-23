@@ -48,3 +48,4 @@
 - [2026 03 20 Slicer 3D Hierarchical Registration Error](2026-03-20-slicer-3d-hierarchical-registration-error-id46517.md)
 - [2026 03 20 Smoothing Aorta Segmentations Across Time](2026-03-20-smoothing-aorta-segmentations-across-time-id46522.md)
 - [2026 03 21 Bug In Importlabelmaptosegmentationnode If Multiple Parent T](2026-03-21-bug-in-importlabelmaptosegmentationnode-if-multiple-parent-t-id46524.md)
+- [2026 03 22 Can I Do Segmentation With Rtx5060Ti](2026-03-22-can-i-do-segmentation-with-rtx5060ti-id46528.md)
