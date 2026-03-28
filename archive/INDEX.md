@@ -1,10 +1,10 @@
 # Slicer Discourse Archive Index
 
-Last updated: 2026-03-27 03:56 UTC
+Last updated: 2026-03-28 03:46 UTC
 
 ## Archive Contents
 
-- Total rendered topics: 18830
+- Total rendered topics: 18832
 - Raw JSON files: 0
 
 ## Recent Topics
@@ -19,7 +19,6 @@ Last updated: 2026-03-27 03:56 UTC
 - [README.md](archive/rendered-topics/2025/2025-03/README.md)
 - [README.md](archive/rendered-topics/2025/2025-02/README.md)
 - [README.md](archive/rendered-topics/2025/2025-01/README.md)
-- [normalization of glioblastoma mri images](archive/rendered-topics/2025/2025-12/2025-12-29-normalization-of-glioblastoma-mri-images-id45629.md)
 - [downloading older releases is problematic](archive/rendered-topics/2025/2025-12/2025-12-30-downloading-older-releases-is-problematic-id45645.md)
 - [is it possible to update closed surface of a segment instead](archive/rendered-topics/2025/2025-12/2025-12-30-is-it-possible-to-update-closed-surface-of-a-segment-instead-id45639.md)
 - [no meeting this week dec 30th](archive/rendered-topics/2025/2025-12/2025-12-30-no-meeting-this-week-dec-30th-id45638.md)
@@ -28,7 +27,6 @@ Last updated: 2026-03-27 03:56 UTC
 - [postdoc position in chicago il for those with slicer image a](archive/rendered-topics/2025/2025-12/2025-12-30-postdoc-position-in-chicago-il-for-those-with-slicer-image-a-id45646.md)
 - [roi based segmentation in monai label slicer extension does](archive/rendered-topics/2025/2025-12/2025-12-30-roi-based-segmentation-in-monai-label-slicer-extension-does-id45634.md)
 - [segment editor crashes during logical operators in segment e](archive/rendered-topics/2025/2025-12/2025-12-30-segment-editor-crashes-during-logical-operators-in-segment-e-id45635.md)
-- [apply filters to a ct scan to deal with high contrast elemen](archive/rendered-topics/2025/2025-12/2025-12-19-apply-filters-to-a-ct-scan-to-deal-with-high-contrast-elemen-id45560.md)
 - [apply filters to a ct scan to deal with high contrast elemen](archive/rendered-topics/2025/2025-12/2025-12-19-apply-filters-to-a-ct-scan-to-deal-with-high-contrast-elemen-id45561.md)
 - [clarification on segment statistics surface area vs cross se](archive/rendered-topics/2025/2025-12/2025-12-19-clarification-on-segment-statistics-surface-area-vs-cross-se-id45558.md)
 - [clarification on segment statistics surface area vs cross se](archive/rendered-topics/2025/2025-12/2025-12-19-clarification-on-segment-statistics-surface-area-vs-cross-se-id45559.md)
@@ -45,7 +43,7 @@ Last updated: 2026-03-27 03:56 UTC
 - [medical image segmentation ct of frog organs using 3d slicer](archive/rendered-topics/2025/2025-12/2025-12-27-medical-image-segmentation-ct-of-frog-organs-using-3d-slicer-id45615.md)
 - [oral scan ply file teeth segmentation](archive/rendered-topics/2025/2025-12/2025-12-27-oral-scan-ply-file-teeth-segmentation-id45614.md)
 - [new arxiv paper about morphocloud](archive/rendered-topics/2025/2025-12/2025-12-29-new-arxiv-paper-about-morphocloud-id45628.md)
-- [interpreting ants registration warp field directionality](archive/rendered-topics/2025/2025-12/2025-12-13-interpreting-ants-registration-warp-field-directionality-id45467.md)
+- [normalization of glioblastoma mri images](archive/rendered-topics/2025/2025-12/2025-12-29-normalization-of-glioblastoma-mri-images-id45629.md)
 - [is there an existing trame slicer docker image](archive/rendered-topics/2025/2025-12/2025-12-13-is-there-an-existing-trame-slicer-docker-image-id45481.md)
 - [need to hire for tutorial on volume measurements and croppin](archive/rendered-topics/2025/2025-12/2025-12-13-need-to-hire-for-tutorial-on-volume-measurements-and-croppin-id45474.md)
 - [segmentation in windows 11 extremely slow](archive/rendered-topics/2025/2025-12/2025-12-13-segmentation-in-windows-11-extremely-slow-id45473.md)
@@ -59,3 +57,5 @@ Last updated: 2026-03-27 03:56 UTC
 - [pw meeting dec 16 2025](archive/rendered-topics/2025/2025-12/2025-12-15-pw-meeting-dec-16-2025-id45503.md)
 - [problems with certain buttons in the edited segment of a cus](archive/rendered-topics/2025/2025-12/2025-12-16-problems-with-certain-buttons-in-the-edited-segment-of-a-cus-id45513.md)
 - [v5 10 crash on startup splash screen](archive/rendered-topics/2025/2025-12/2025-12-16-v5-10-crash-on-startup-splash-screen-id45515.md)
+- [how to suppress the window not responding force quit wait er](archive/rendered-topics/2025/2025-12/2025-12-17-how-to-suppress-the-window-not-responding-force-quit-wait-er-id45516.md)
+- [2d cine not playing when converted to nifti from dicom](archive/rendered-topics/2025/2025-12/2025-12-19-2d-cine-not-playing-when-converted-to-nifti-from-dicom-id45555.md)

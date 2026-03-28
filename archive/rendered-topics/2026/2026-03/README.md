@@ -64,3 +64,5 @@
 - [2026 03 26 How To Programmatically Run Grow From Seeds From A C Module](2026-03-26-how-to-programmatically-run-grow-from-seeds-from-a-c-module-id46576.md)
 - [2026 03 26 Linear Measurements On Ct Scans Using Ruler Tool](2026-03-26-linear-measurements-on-ct-scans-using-ruler-tool-id46586.md)
 - [2026 03 26 Merging Patients In Dicom Database](2026-03-26-merging-patients-in-dicom-database-id46580.md)
+- [2026 03 27 Freehand Ultrasound In 3D Slicer Image Inverted During Recor](2026-03-27-freehand-ultrasound-in-3d-slicer-image-inverted-during-recor-id46592.md)
+- [2026 03 28 Postdoc Research Assistant Opening At Human Ieeg Lab In Ny](2026-03-28-postdoc-research-assistant-opening-at-human-ieeg-lab-in-ny-id46599.md)
