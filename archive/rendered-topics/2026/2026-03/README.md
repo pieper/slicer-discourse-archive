@@ -67,3 +67,7 @@
 - [2026 03 27 Freehand Ultrasound In 3D Slicer Image Inverted During Recor](2026-03-27-freehand-ultrasound-in-3d-slicer-image-inverted-during-recor-id46592.md)
 - [2026 03 28 Postdoc Research Assistant Opening At Human Ieeg Lab In Ny](2026-03-28-postdoc-research-assistant-opening-at-human-ieeg-lab-in-ny-id46599.md)
 - [2026 03 29 Keep The Hand Drawn Segmentation After Interpolation](2026-03-29-keep-the-hand-drawn-segmentation-after-interpolation-id46605.md)
+- [2026 03 30 2026 03 31 Weekly Meeting](2026-03-30-2026-03-31-weekly-meeting-id46615.md)
+- [2026 03 30 How To Create An Accurate Lf1 Osteoptomy In Slicer](2026-03-30-how-to-create-an-accurate-lf1-osteoptomy-in-slicer-id46613.md)
+- [2026 03 30 Mac Preview Release Fails To Load Extensions In The Extensio](2026-03-30-mac-preview-release-fails-to-load-extensions-in-the-extensio-id46612.md)
+- [2026 03 31 Brain Lobe Segmentation](2026-03-31-brain-lobe-segmentation-id46620.md)
