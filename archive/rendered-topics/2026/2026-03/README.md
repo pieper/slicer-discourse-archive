@@ -71,3 +71,4 @@
 - [2026 03 30 How To Create An Accurate Lf1 Osteoptomy In Slicer](2026-03-30-how-to-create-an-accurate-lf1-osteoptomy-in-slicer-id46613.md)
 - [2026 03 30 Mac Preview Release Fails To Load Extensions In The Extensio](2026-03-30-mac-preview-release-fails-to-load-extensions-in-the-extensio-id46612.md)
 - [2026 03 31 Brain Lobe Segmentation](2026-03-31-brain-lobe-segmentation-id46620.md)
+- [2026 03 31 Screen Capture And Screenshot Export Issues](2026-03-31-screen-capture-and-screenshot-export-issues-id46621.md)
