@@ -6,3 +6,5 @@
 - [2026 04 02 Progress On Passthrough Enabled While Having Slicervr Open](2026-04-02-progress-on-passthrough-enabled-while-having-slicervr-open-id46640.md)
 - [2026 04 02 Spatial Information In 2D Segmentations](2026-04-02-spatial-information-in-2d-segmentations-id46642.md)
 - [2026 04 03 Fast Model Align Module Not Working In 3D Slicer 5 10 0](2026-04-03-fast-model-align-module-not-working-in-3d-slicer-5-10-0-id46645.md)
+- [2026 04 03 Slicervmtk Is Not Being Built For Preview](2026-04-03-slicervmtk-is-not-being-built-for-preview-id46647.md)
+- [2026 04 04 Is Meta Quest 3 Video Passthough Supported In Virtual Realit](2026-04-04-is-meta-quest-3-video-passthough-supported-in-virtual-realit-id46649.md)
