@@ -1,10 +1,10 @@
 # Slicer Discourse Archive Index
 
-Last updated: 2026-04-06 03:59 UTC
+Last updated: 2026-04-07 03:56 UTC
 
 ## Archive Contents
 
-- Total rendered topics: 18847
+- Total rendered topics: 18854
 - Raw JSON files: 0
 
 ## Recent Topics
@@ -19,6 +19,12 @@ Last updated: 2026-04-06 03:59 UTC
 - [README.md](archive/rendered-topics/2025/2025-03/README.md)
 - [README.md](archive/rendered-topics/2025/2025-02/README.md)
 - [README.md](archive/rendered-topics/2025/2025-01/README.md)
+- [segment editor crashes during logical operators in segment e](archive/rendered-topics/2025/2025-12/2025-12-30-segment-editor-crashes-during-logical-operators-in-segment-e-id45635.md)
+- [margin effect altering multiple segments at once](archive/rendered-topics/2025/2025-12/2025-12-19-margin-effect-altering-multiple-segments-at-once-id45554.md)
+- [segmentation tooth in jaw](archive/rendered-topics/2025/2025-12/2025-12-19-segmentation-tooth-in-jaw-id45550.md)
+- [no meeting this week dec 23rd](archive/rendered-topics/2025/2025-12/2025-12-22-no-meeting-this-week-dec-23rd-id45586.md)
+- [no pw meeting this dec 23rd](archive/rendered-topics/2025/2025-12/2025-12-22-no-pw-meeting-this-dec-23rd-id45585.md)
+- [the gui of slicer 5 10 0 seems to be unexpectedly scaled](archive/rendered-topics/2025/2025-12/2025-12-22-the-gui-of-slicer-5-10-0-seems-to-be-unexpectedly-scaled-id45582.md)
 - [new feature support of 5d images and transforms](archive/rendered-topics/2025/2025-12/2025-12-23-new-feature-support-of-5d-images-and-transforms-id45588.md)
 - [can tumor volume be accurately measured](archive/rendered-topics/2025/2025-12/2025-12-24-can-tumor-volume-be-accurately-measured-id45593.md)
 - [link a transforms visibility to transformed volume visibilit](archive/rendered-topics/2025/2025-12/2025-12-25-link-a-transforms-visibility-to-transformed-volume-visibilit-id45604.md)
@@ -33,9 +39,6 @@ Last updated: 2026-04-06 03:59 UTC
 - [no pw meeting this week dec 30th](archive/rendered-topics/2025/2025-12/2025-12-30-no-pw-meeting-this-week-dec-30th-id45637.md)
 - [postdoc position in chicago il for those with slicer image a](archive/rendered-topics/2025/2025-12/2025-12-30-postdoc-position-in-chicago-il-for-those-with-slicer-image-a-id45646.md)
 - [roi based segmentation in monai label slicer extension does](archive/rendered-topics/2025/2025-12/2025-12-30-roi-based-segmentation-in-monai-label-slicer-extension-does-id45634.md)
-- [segment editor crashes during logical operators in segment e](archive/rendered-topics/2025/2025-12/2025-12-30-segment-editor-crashes-during-logical-operators-in-segment-e-id45635.md)
-- [which is the best extension for brain parcellation](archive/rendered-topics/2025/2025-12/2025-12-14-which-is-the-best-extension-for-brain-parcellation-id45483.md)
-- [16weekly meeting](archive/rendered-topics/2025/2025-12/2025-12-15-2025-12-16weekly-meeting-id45505.md)
 - [add segment to segmentationnode uses invalid color values sc](archive/rendered-topics/2025/2025-12/2025-12-15-add-segment-to-segmentationnode-uses-invalid-color-values-sc-id45498.md)
 - [auto skeleton to trajectory mv3d file](archive/rendered-topics/2025/2025-12/2025-12-15-auto-skeleton-to-trajectory-mv3d-file-id45487.md)
 - [cbct distortion](archive/rendered-topics/2025/2025-12/2025-12-15-cbct-distortion-id45493.md)
@@ -53,9 +56,6 @@ Last updated: 2026-04-06 03:59 UTC
 - [clarification on segment statistics surface area vs cross se](archive/rendered-topics/2025/2025-12/2025-12-19-clarification-on-segment-statistics-surface-area-vs-cross-se-id45559.md)
 - [generating a deformed image using bspline transform in 3d sl](archive/rendered-topics/2025/2025-12/2025-12-19-generating-a-deformed-image-using-bspline-transform-in-3d-sl-id45553.md)
 - [in 3d slicer is it possible to simulate femur cut in real ti](archive/rendered-topics/2025/2025-12/2025-12-19-in-3d-slicer-is-it-possible-to-simulate-femur-cut-in-real-ti-id45543.md)
-- [margin effect altering multiple segments at once](archive/rendered-topics/2025/2025-12/2025-12-19-margin-effect-altering-multiple-segments-at-once-id45554.md)
-- [segmentation tooth in jaw](archive/rendered-topics/2025/2025-12/2025-12-19-segmentation-tooth-in-jaw-id45550.md)
-- [no meeting this week dec 23rd](archive/rendered-topics/2025/2025-12/2025-12-22-no-meeting-this-week-dec-23rd-id45586.md)
-- [no pw meeting this dec 23rd](archive/rendered-topics/2025/2025-12/2025-12-22-no-pw-meeting-this-dec-23rd-id45585.md)
-- [the gui of slicer 5 10 0 seems to be unexpectedly scaled](archive/rendered-topics/2025/2025-12/2025-12-22-the-gui-of-slicer-5-10-0-seems-to-be-unexpectedly-scaled-id45582.md)
-- [there is an error when create a segment from numpy array](archive/rendered-topics/2025/2025-12/2025-12-05-there-is-an-error-when-create-a-segment-from-numpy-array-id45371.md)
+- [undo segment changes in extensions monai label and nninterac](archive/rendered-topics/2025/2025-12/2025-12-09-undo-segment-changes-in-extensions-monai-label-and-nninterac-id45427.md)
+- [upper airway segmentator](archive/rendered-topics/2025/2025-12/2025-12-09-upper-airway-segmentator-id45413.md)
+- [interaction box for transforms](archive/rendered-topics/2025/2025-12/2025-12-10-interaction-box-for-transforms-id45436.md)
