@@ -15,3 +15,5 @@
 - [2026 04 06 Renal Artery Segmentation Recommendations Using Avt Dataset](2026-04-06-renal-artery-segmentation-recommendations-using-avt-dataset-id46669.md)
 - [2026 04 06 Vulnerability Disclosure 3D Slicer Display And Spatial Corru](2026-04-06-vulnerability-disclosure-3d-slicer-display-and-spatial-corru-id46664.md)
 - [2026 04 07 2026 04 07 Weekly Meeting](2026-04-07-2026-04-07-weekly-meeting-id46673.md)
+- [2026 04 07 Ct Reconstruction Artifacts](2026-04-07-ct-reconstruction-artifacts-id46677.md)
+- [2026 04 07 Section Thickness](2026-04-07-section-thickness-id46674.md)
