@@ -17,3 +17,8 @@
 - [2026 04 07 2026 04 07 Weekly Meeting](2026-04-07-2026-04-07-weekly-meeting-id46673.md)
 - [2026 04 07 Ct Reconstruction Artifacts](2026-04-07-ct-reconstruction-artifacts-id46677.md)
 - [2026 04 07 Section Thickness](2026-04-07-section-thickness-id46674.md)
+- [2026 04 08 Best Tutorials And Added Tools For Volume Rendering](2026-04-08-best-tutorials-and-added-tools-for-volume-rendering-id46688.md)
+- [2026 04 08 Exploring Digital Membership Cards For Patient Research Acce](2026-04-08-exploring-digital-membership-cards-for-patient-research-acce-id46684.md)
+- [2026 04 08 Mac Extension Builds Failing With Cout Error](2026-04-08-mac-extension-builds-failing-with-cout-error-id46685.md)
+- [2026 04 08 Slicer Is So Buggy And Keeps Showing Error On M5 Mba](2026-04-08-slicer-is-so-buggy-and-keeps-showing-error-on-m5-mba-id46687.md)
+- [2026 04 08 Viewing Analysing Rt Plans Fields](2026-04-08-viewing-analysing-rt-plans-fields-id46683.md)
