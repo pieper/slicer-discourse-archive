@@ -1,10 +1,10 @@
 # Slicer Discourse Archive Index
 
-Last updated: 2026-04-09 03:55 UTC
+Last updated: 2026-04-10 04:00 UTC
 
 ## Archive Contents
 
-- Total rendered topics: 18861
+- Total rendered topics: 18866
 - Raw JSON files: 0
 
 ## Recent Topics
@@ -15,7 +15,6 @@ Last updated: 2026-04-09 03:55 UTC
 - [README.md](archive/rendered-topics/2021/2021-04/README.md)
 - [README.md](archive/rendered-topics/2021/2021-02/README.md)
 - [README.md](archive/rendered-topics/2021/2021-01/README.md)
-- [mouse over of control points very slow if control point list](archive/rendered-topics/2021/2021-12/2021-12-29-mouse-over-of-control-points-very-slow-if-control-point-list-id21261.md)
 - [pulmonary fissure completeness assessment](archive/rendered-topics/2021/2021-12/2021-12-29-pulmonary-fissure-completeness-assessment-id21265.md)
 - [upload of multi frame dicom images](archive/rendered-topics/2021/2021-12/2021-12-29-upload-of-multi-frame-dicom-images-id21264.md)
 - [extract centerline python scripting](archive/rendered-topics/2021/2021-12/2021-12-30-extract-centerline-python-scripting-id21275.md)
@@ -31,8 +30,6 @@ Last updated: 2026-04-09 03:55 UTC
 - [hide main window slicer logo](archive/rendered-topics/2021/2021-12/2021-12-31-hide-main-window-slicer-logo-id21291.md)
 - [raise only add files gui](archive/rendered-topics/2021/2021-12/2021-12-31-raise-only-add-files-gui-id21290.md)
 - [saving markups scalar values to a file](archive/rendered-topics/2021/2021-12/2021-12-31-saving-markups-scalar-values-to-a-file-id21287.md)
-- [how to get the parameters of a segment with python](archive/rendered-topics/2021/2021-12/2021-12-27-how-to-get-the-parameters-of-a-segment-with-python-id21230.md)
-- [import displacement field from matlab](archive/rendered-topics/2021/2021-12/2021-12-27-import-displacement-field-from-matlab-id21224.md)
 - [otsu segmentation on head and neck pet image](archive/rendered-topics/2021/2021-12/2021-12-27-otsu-segmentation-on-head-and-neck-pet-image-id21235.md)
 - [tool similar to remove islands for this scenario](archive/rendered-topics/2021/2021-12/2021-12-27-tool-similar-to-remove-islands-for-this-scenario-id21238.md)
 - [understand how volume rendering presets meet specific dicom](archive/rendered-topics/2021/2021-12/2021-12-27-understand-how-volume-rendering-presets-meet-specific-dicom-id21234.md)
@@ -46,7 +43,7 @@ Last updated: 2026-04-09 03:55 UTC
 - [can volumereconstructor function run on gpu](archive/rendered-topics/2021/2021-12/2021-12-29-can-volumereconstructor-function-run-on-gpu-id21257.md)
 - [how to disable automatic switch to master volume with segmen](archive/rendered-topics/2021/2021-12/2021-12-29-how-to-disable-automatic-switch-to-master-volume-with-segmen-id21259.md)
 - [latest slicer 4 13 version does not start on my computer](archive/rendered-topics/2021/2021-12/2021-12-29-latest-slicer-4-13-version-does-not-start-on-my-computer-id21263.md)
-- [how generate a set of interest points on a surface from some](archive/rendered-topics/2021/2021-12/2021-12-21-how-generate-a-set-of-interest-points-on-a-surface-from-some-id21161.md)
+- [mouse over of control points very slow if control point list](archive/rendered-topics/2021/2021-12/2021-12-29-mouse-over-of-control-points-very-slow-if-control-point-list-id21261.md)
 - [how to hide vtkmrmlannotationroinode only in 3d view](archive/rendered-topics/2021/2021-12/2021-12-22-how-to-hide-vtkmrmlannotationroinode-only-in-3d-view-id21178.md)
 - [how to paint a pedicle screw by hounsfield unit](archive/rendered-topics/2021/2021-12/2021-12-22-how-to-paint-a-pedicle-screw-by-hounsfield-unit-id21185.md)
 - [maybe this is a bug of color module](archive/rendered-topics/2021/2021-12/2021-12-22-maybe-this-is-a-bug-of-color-module-id21181.md)
@@ -59,3 +56,6 @@ Last updated: 2026-04-09 03:55 UTC
 - [unexpected voxel values at boundary when using cpr curved pl](archive/rendered-topics/2021/2021-12/2021-12-22-unexpected-voxel-values-at-boundary-when-using-cpr-curved-pl-id21174.md)
 - [how to segment two different mandible on two cbct in differe](archive/rendered-topics/2021/2021-12/2021-12-24-how-to-segment-two-different-mandible-on-two-cbct-in-differe-id21198.md)
 - [copying segment names colors from one segmentation to anothe](archive/rendered-topics/2021/2021-12/2021-12-25-copying-segment-names-colors-from-one-segmentation-to-anothe-id21204.md)
+- [slow 2d slice update speed](archive/rendered-topics/2021/2021-12/2021-12-25-slow-2d-slice-update-speed-id21206.md)
+- [how to change the default models coordinate](archive/rendered-topics/2021/2021-12/2021-12-26-how-to-change-the-default-models-coordinate-id21209.md)
+- [lessons on slicer](archive/rendered-topics/2021/2021-12/2021-12-26-lessons-on-slicer-id21211.md)
