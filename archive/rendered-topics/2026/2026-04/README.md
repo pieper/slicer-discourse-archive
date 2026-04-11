@@ -27,3 +27,5 @@
 - [2026 04 09 Orbital Wall Segmentation And Bridging Defects](2026-04-09-orbital-wall-segmentation-and-bridging-defects-id46703.md)
 - [2026 04 09 Please Help Me Ive Tried Everything I Known](2026-04-09-please-help-me-ive-tried-everything-i-known-id46702.md)
 - [2026 04 09 Sharing Custom Presets](2026-04-09-sharing-custom-presets-id46690.md)
+- [2026 04 10 Slicerseqseg Extension](2026-04-10-slicerseqseg-extension-id46707.md)
+- [2026 04 11 Experiment Auto Optimize Volume Rendering](2026-04-11-experiment-auto-optimize-volume-rendering-id46711.md)
