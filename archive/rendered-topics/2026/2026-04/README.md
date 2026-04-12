@@ -29,3 +29,4 @@
 - [2026 04 09 Sharing Custom Presets](2026-04-09-sharing-custom-presets-id46690.md)
 - [2026 04 10 Slicerseqseg Extension](2026-04-10-slicerseqseg-extension-id46707.md)
 - [2026 04 11 Experiment Auto Optimize Volume Rendering](2026-04-11-experiment-auto-optimize-volume-rendering-id46711.md)
+- [2026 04 11 Problem Boolean Operations To Make Fibula Surgical Guide](2026-04-11-problem-boolean-operations-to-make-fibula-surgical-guide-id46713.md)
