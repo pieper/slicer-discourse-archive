@@ -1,10 +1,10 @@
 # Slicer Discourse Archive Index
 
-Last updated: 2026-04-13 04:04 UTC
+Last updated: 2026-04-14 03:59 UTC
 
 ## Archive Contents
 
-- Total rendered topics: 18871
+- Total rendered topics: 18872
 - Raw JSON files: 0
 
 ## Recent Topics
@@ -15,12 +15,9 @@ Last updated: 2026-04-13 04:04 UTC
 - [README.md](archive/rendered-topics/2021/2021-04/README.md)
 - [README.md](archive/rendered-topics/2021/2021-02/README.md)
 - [README.md](archive/rendered-topics/2021/2021-01/README.md)
-- [feature extraction from anisotropic 3d vois should we apply](archive/rendered-topics/2021/2021-12/2021-12-31-feature-extraction-from-anisotropic-3d-vois-should-we-apply-id21285.md)
 - [hide main window slicer logo](archive/rendered-topics/2021/2021-12/2021-12-31-hide-main-window-slicer-logo-id21291.md)
 - [raise only add files gui](archive/rendered-topics/2021/2021-12/2021-12-31-raise-only-add-files-gui-id21290.md)
 - [saving markups scalar values to a file](archive/rendered-topics/2021/2021-12/2021-12-31-saving-markups-scalar-values-to-a-file-id21287.md)
-- [why i cant set my own transform matrix while using volumerec](archive/rendered-topics/2021/2021-12/2021-12-28-why-i-cant-set-my-own-transform-matrix-while-using-volumerec-id21244.md)
-- [bone texture module not working due to labelstatistics modul](archive/rendered-topics/2021/2021-12/2021-12-29-bone-texture-module-not-working-due-to-labelstatistics-modul-id21266.md)
 - [can volumereconstructor function run on gpu](archive/rendered-topics/2021/2021-12/2021-12-29-can-volumereconstructor-function-run-on-gpu-id21257.md)
 - [how to disable automatic switch to master volume with segmen](archive/rendered-topics/2021/2021-12/2021-12-29-how-to-disable-automatic-switch-to-master-volume-with-segmen-id21259.md)
 - [latest slicer 4 13 version does not start on my computer](archive/rendered-topics/2021/2021-12/2021-12-29-latest-slicer-4-13-version-does-not-start-on-my-computer-id21263.md)
@@ -36,7 +33,7 @@ Last updated: 2026-04-13 04:04 UTC
 - [slicerradiomics 3d slicer not responding](archive/rendered-topics/2021/2021-12/2021-12-30-slicerradiomics-3d-slicer-not-responding-id21273.md)
 - [training using 3d slicer for ai segmentation](archive/rendered-topics/2021/2021-12/2021-12-30-training-using-3d-slicer-for-ai-segmentation-id21277.md)
 - [change vtkstencil used for the display of volumes](archive/rendered-topics/2021/2021-12/2021-12-31-change-vtkstencil-used-for-the-display-of-volumes-id21292.md)
-- [slow 2d slice update speed](archive/rendered-topics/2021/2021-12/2021-12-25-slow-2d-slice-update-speed-id21206.md)
+- [feature extraction from anisotropic 3d vois should we apply](archive/rendered-topics/2021/2021-12/2021-12-31-feature-extraction-from-anisotropic-3d-vois-should-we-apply-id21285.md)
 - [how to change the default models coordinate](archive/rendered-topics/2021/2021-12/2021-12-26-how-to-change-the-default-models-coordinate-id21209.md)
 - [lessons on slicer](archive/rendered-topics/2021/2021-12/2021-12-26-lessons-on-slicer-id21211.md)
 - [shapequantifier module is not loaded](archive/rendered-topics/2021/2021-12/2021-12-26-shapequantifier-module-is-not-loaded-id21212.md)
@@ -53,9 +50,12 @@ Last updated: 2026-04-13 04:04 UTC
 - [segment statistics pet volume statistics](archive/rendered-topics/2021/2021-12/2021-12-28-segment-statistics-pet-volume-statistics-id21252.md)
 - [show changes in crop volume interface](archive/rendered-topics/2021/2021-12/2021-12-28-show-changes-in-crop-volume-interface-id21250.md)
 - [vtkmarching squares for dicom stack xa](archive/rendered-topics/2021/2021-12/2021-12-28-vtkmarching-squares-for-dicom-stack-xa-id21249.md)
-- [weekly meeting](archive/rendered-topics/2021/2021-12/2021-12-21-2021-12-21-weekly-meeting-id21170.md)
-- [3d slicer and lungctanalyzer provide lung volumentry in a re](archive/rendered-topics/2021/2021-12/2021-12-21-3d-slicer-and-lungctanalyzer-provide-lung-volumentry-in-a-re-id21162.md)
+- [why i cant set my own transform matrix while using volumerec](archive/rendered-topics/2021/2021-12/2021-12-28-why-i-cant-set-my-own-transform-matrix-while-using-volumerec-id21244.md)
+- [bone texture module not working due to labelstatistics modul](archive/rendered-topics/2021/2021-12/2021-12-29-bone-texture-module-not-working-due-to-labelstatistics-modul-id21266.md)
 - [arduino motion sensor](archive/rendered-topics/2021/2021-12/2021-12-21-arduino-motion-sensor-id21168.md)
 - [close slicersalt after processing in commandline](archive/rendered-topics/2021/2021-12/2021-12-21-close-slicersalt-after-processing-in-commandline-id21159.md)
 - [convert point cloud to surface model](archive/rendered-topics/2021/2021-12/2021-12-21-convert-point-cloud-to-surface-model-id21175.md)
 - [export a transformation matrix through vs code without openi](archive/rendered-topics/2021/2021-12/2021-12-21-export-a-transformation-matrix-through-vs-code-without-openi-id21163.md)
+- [how generate a set of interest points on a surface from some](archive/rendered-topics/2021/2021-12/2021-12-21-how-generate-a-set-of-interest-points-on-a-surface-from-some-id21161.md)
+- [how to hide vtkmrmlannotationroinode only in 3d view](archive/rendered-topics/2021/2021-12/2021-12-22-how-to-hide-vtkmrmlannotationroinode-only-in-3d-view-id21178.md)
+- [how to paint a pedicle screw by hounsfield unit](archive/rendered-topics/2021/2021-12/2021-12-22-how-to-paint-a-pedicle-screw-by-hounsfield-unit-id21185.md)

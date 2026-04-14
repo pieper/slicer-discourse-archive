@@ -32,3 +32,4 @@
 - [2026 04 11 Problem Boolean Operations To Make Fibula Surgical Guide](2026-04-11-problem-boolean-operations-to-make-fibula-surgical-guide-id46713.md)
 - [2026 04 12 Slicer 5 10 Crashes In Random Actions](2026-04-12-slicer-5-10-crashes-in-random-actions-id46719.md)
 - [2026 04 12 Slicer Runs Out Of Memory With Large File](2026-04-12-slicer-runs-out-of-memory-with-large-file-id46720.md)
+- [2026 04 13 2026 04 14 Weekly Meeting](2026-04-13-2026-04-14-weekly-meeting-id46731.md)
