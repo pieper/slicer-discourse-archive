@@ -34,3 +34,4 @@
 - [2026 04 12 Slicer Runs Out Of Memory With Large File](2026-04-12-slicer-runs-out-of-memory-with-large-file-id46720.md)
 - [2026 04 13 2026 04 14 Weekly Meeting](2026-04-13-2026-04-14-weekly-meeting-id46731.md)
 - [2026 04 14 Train Ai For Landmark Detection](2026-04-14-train-ai-for-landmark-detection-id46734.md)
+- [2026 04 15 Atlas Builder Producing Inverted Template Meshes](2026-04-15-atlas-builder-producing-inverted-template-meshes-id46747.md)

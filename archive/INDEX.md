@@ -1,10 +1,10 @@
 # Slicer Discourse Archive Index
 
-Last updated: 2026-04-15 03:59 UTC
+Last updated: 2026-04-16 04:01 UTC
 
 ## Archive Contents
 
-- Total rendered topics: 18873
+- Total rendered topics: 18874
 - Raw JSON files: 0
 
 ## Recent Topics
@@ -15,6 +15,7 @@ Last updated: 2026-04-15 03:59 UTC
 - [README.md](archive/rendered-topics/2021/2021-04/README.md)
 - [README.md](archive/rendered-topics/2021/2021-02/README.md)
 - [README.md](archive/rendered-topics/2021/2021-01/README.md)
+- [how to install slicerrt extension in docker slicerdocker con](archive/rendered-topics/2021/2021-12/2021-12-30-how-to-install-slicerrt-extension-in-docker-slicerdocker-con-id21270.md)
 - [how to modify mainwindow in startup without using slicerrc p](archive/rendered-topics/2021/2021-12/2021-12-30-how-to-modify-mainwindow-in-startup-without-using-slicerrc-p-id21278.md)
 - [python console how to do these special tasks](archive/rendered-topics/2021/2021-12/2021-12-30-python-console-how-to-do-these-special-tasks-id21272.md)
 - [slicer radiomics features](archive/rendered-topics/2021/2021-12/2021-12-30-slicer-radiomics-features-id21280.md)
@@ -39,7 +40,8 @@ Last updated: 2026-04-15 03:59 UTC
 - [upload of multi frame dicom images](archive/rendered-topics/2021/2021-12/2021-12-29-upload-of-multi-frame-dicom-images-id21264.md)
 - [extract centerline python scripting](archive/rendered-topics/2021/2021-12/2021-12-30-extract-centerline-python-scripting-id21275.md)
 - [how can i get the hounsfiledunit from segmentation](archive/rendered-topics/2021/2021-12/2021-12-30-how-can-i-get-the-hounsfiledunit-from-segmentation-id21267.md)
-- [how to install slicerrt extension in docker slicerdocker con](archive/rendered-topics/2021/2021-12/2021-12-30-how-to-install-slicerrt-extension-in-docker-slicerdocker-con-id21270.md)
+- [segmentation creation](archive/rendered-topics/2021/2021-12/2021-12-22-segmentation-creation-id21184.md)
+- [segmentation saving support](archive/rendered-topics/2021/2021-12/2021-12-22-segmentation-saving-support-id21183.md)
 - [sequence registration for 4d ct](archive/rendered-topics/2021/2021-12/2021-12-22-sequence-registration-for-4d-ct-id21180.md)
 - [slicer crashes when i try to record 2 videos at the same tim](archive/rendered-topics/2021/2021-12/2021-12-22-slicer-crashes-when-i-try-to-record-2-videos-at-the-same-tim-id21176.md)
 - [unexpected voxel values at boundary when using cpr curved pl](archive/rendered-topics/2021/2021-12/2021-12-22-unexpected-voxel-values-at-boundary-when-using-cpr-curved-pl-id21174.md)
@@ -57,5 +59,3 @@ Last updated: 2026-04-15 03:59 UTC
 - [otsu segmentation on head and neck pet image](archive/rendered-topics/2021/2021-12/2021-12-27-otsu-segmentation-on-head-and-neck-pet-image-id21235.md)
 - [tool similar to remove islands for this scenario](archive/rendered-topics/2021/2021-12/2021-12-27-tool-similar-to-remove-islands-for-this-scenario-id21238.md)
 - [understand how volume rendering presets meet specific dicom](archive/rendered-topics/2021/2021-12/2021-12-27-understand-how-volume-rendering-presets-meet-specific-dicom-id21234.md)
-- [whole brain automate segmentation](archive/rendered-topics/2021/2021-12/2021-12-27-whole-brain-automate-segmentation-id21225.md)
-- [markups new point id restart from 1 when loaded from saved s](archive/rendered-topics/2021/2021-12/2021-12-20-markups-new-point-id-restart-from-1-when-loaded-from-saved-s-id21142.md)
