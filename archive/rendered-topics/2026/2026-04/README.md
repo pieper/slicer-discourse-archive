@@ -35,3 +35,5 @@
 - [2026 04 13 2026 04 14 Weekly Meeting](2026-04-13-2026-04-14-weekly-meeting-id46731.md)
 - [2026 04 14 Train Ai For Landmark Detection](2026-04-14-train-ai-for-landmark-detection-id46734.md)
 - [2026 04 15 Atlas Builder Producing Inverted Template Meshes](2026-04-15-atlas-builder-producing-inverted-template-meshes-id46747.md)
+- [2026 04 16 Totalsegmentator Error On Ct](2026-04-16-totalsegmentator-error-on-ct-id46757.md)
+- [2026 04 17 Developing A Vessel Analysis Module For 3D Slicer Guidance N](2026-04-17-developing-a-vessel-analysis-module-for-3d-slicer-guidance-n-id46762.md)
