@@ -42,3 +42,4 @@
 - [2026 04 17 Error Using Opendose 3D](2026-04-17-error-using-opendose-3d-id46768.md)
 - [2026 04 17 Fiducial Registration Wizard Transforms](2026-04-17-fiducial-registration-wizard-transforms-id46770.md)
 - [2026 04 17 Multiple Segments Into 1 3D Print](2026-04-17-multiple-segments-into-1-3d-print-id46771.md)
+- [2026 04 18 New Extension Pull Request Awaiting Approval](2026-04-18-new-extension-pull-request-awaiting-approval-id46780.md)
