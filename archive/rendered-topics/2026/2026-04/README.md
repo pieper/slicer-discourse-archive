@@ -43,3 +43,5 @@
 - [2026 04 17 Fiducial Registration Wizard Transforms](2026-04-17-fiducial-registration-wizard-transforms-id46770.md)
 - [2026 04 17 Multiple Segments Into 1 3D Print](2026-04-17-multiple-segments-into-1-3d-print-id46771.md)
 - [2026 04 18 New Extension Pull Request Awaiting Approval](2026-04-18-new-extension-pull-request-awaiting-approval-id46780.md)
+- [2026 04 20 2026 04 21 Weekly Meeting](2026-04-20-2026-04-21-weekly-meeting-id46789.md)
+- [2026 04 20 Dicom 2D Cine Mri Is Imported As Scalar Volume](2026-04-20-dicom-2d-cine-mri-is-imported-as-scalar-volume-id46792.md)

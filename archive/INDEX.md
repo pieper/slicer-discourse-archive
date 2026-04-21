@@ -1,10 +1,10 @@
 # Slicer Discourse Archive Index
 
-Last updated: 2026-04-20 04:04 UTC
+Last updated: 2026-04-21 04:00 UTC
 
 ## Archive Contents
 
-- Total rendered topics: 18882
+- Total rendered topics: 18884
 - Raw JSON files: 0
 
 ## Recent Topics
@@ -15,8 +15,6 @@ Last updated: 2026-04-20 04:04 UTC
 - [README.md](archive/rendered-topics/2021/2021-04/README.md)
 - [README.md](archive/rendered-topics/2021/2021-02/README.md)
 - [README.md](archive/rendered-topics/2021/2021-01/README.md)
-- [how to modify mainwindow in startup without using slicerrc p](archive/rendered-topics/2021/2021-12/2021-12-30-how-to-modify-mainwindow-in-startup-without-using-slicerrc-p-id21278.md)
-- [python console how to do these special tasks](archive/rendered-topics/2021/2021-12/2021-12-30-python-console-how-to-do-these-special-tasks-id21272.md)
 - [slicer radiomics features](archive/rendered-topics/2021/2021-12/2021-12-30-slicer-radiomics-features-id21280.md)
 - [slicerradiomics 3d slicer not responding](archive/rendered-topics/2021/2021-12/2021-12-30-slicerradiomics-3d-slicer-not-responding-id21273.md)
 - [training using 3d slicer for ai segmentation](archive/rendered-topics/2021/2021-12/2021-12-30-training-using-3d-slicer-for-ai-segmentation-id21277.md)
@@ -40,8 +38,8 @@ Last updated: 2026-04-20 04:04 UTC
 - [extract centerline python scripting](archive/rendered-topics/2021/2021-12/2021-12-30-extract-centerline-python-scripting-id21275.md)
 - [how can i get the hounsfiledunit from segmentation](archive/rendered-topics/2021/2021-12/2021-12-30-how-can-i-get-the-hounsfiledunit-from-segmentation-id21267.md)
 - [how to install slicerrt extension in docker slicerdocker con](archive/rendered-topics/2021/2021-12/2021-12-30-how-to-install-slicerrt-extension-in-docker-slicerdocker-con-id21270.md)
-- [segmentation saving support](archive/rendered-topics/2021/2021-12/2021-12-22-segmentation-saving-support-id21183.md)
-- [sequence registration for 4d ct](archive/rendered-topics/2021/2021-12/2021-12-22-sequence-registration-for-4d-ct-id21180.md)
+- [how to modify mainwindow in startup without using slicerrc p](archive/rendered-topics/2021/2021-12/2021-12-30-how-to-modify-mainwindow-in-startup-without-using-slicerrc-p-id21278.md)
+- [python console how to do these special tasks](archive/rendered-topics/2021/2021-12/2021-12-30-python-console-how-to-do-these-special-tasks-id21272.md)
 - [slicer crashes when i try to record 2 videos at the same tim](archive/rendered-topics/2021/2021-12/2021-12-22-slicer-crashes-when-i-try-to-record-2-videos-at-the-same-tim-id21176.md)
 - [unexpected voxel values at boundary when using cpr curved pl](archive/rendered-topics/2021/2021-12/2021-12-22-unexpected-voxel-values-at-boundary-when-using-cpr-curved-pl-id21174.md)
 - [how to segment two different mandible on two cbct in differe](archive/rendered-topics/2021/2021-12/2021-12-24-how-to-segment-two-different-mandible-on-two-cbct-in-differe-id21198.md)
@@ -59,3 +57,5 @@ Last updated: 2026-04-20 04:04 UTC
 - [tool similar to remove islands for this scenario](archive/rendered-topics/2021/2021-12/2021-12-27-tool-similar-to-remove-islands-for-this-scenario-id21238.md)
 - [understand how volume rendering presets meet specific dicom](archive/rendered-topics/2021/2021-12/2021-12-27-understand-how-volume-rendering-presets-meet-specific-dicom-id21234.md)
 - [whole brain automate segmentation](archive/rendered-topics/2021/2021-12/2021-12-27-whole-brain-automate-segmentation-id21225.md)
+- [monailabel 3d slicer for cloud computing workshop jan 12 202](archive/rendered-topics/2021/2021-12/2021-12-20-monailabel-3d-slicer-for-cloud-computing-workshop-jan-12-202-id21152.md)
+- [output of calculated specific values of a model for individu](archive/rendered-topics/2021/2021-12/2021-12-20-output-of-calculated-specific-values-of-a-model-for-individu-id21148.md)
