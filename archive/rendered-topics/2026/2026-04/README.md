@@ -45,3 +45,6 @@
 - [2026 04 18 New Extension Pull Request Awaiting Approval](2026-04-18-new-extension-pull-request-awaiting-approval-id46780.md)
 - [2026 04 20 2026 04 21 Weekly Meeting](2026-04-20-2026-04-21-weekly-meeting-id46789.md)
 - [2026 04 20 Dicom 2D Cine Mri Is Imported As Scalar Volume](2026-04-20-dicom-2d-cine-mri-is-imported-as-scalar-volume-id46792.md)
+- [2026 04 21 Cta Vessel Segmentation Petrous Ica Vs Bone Overlap Problem](2026-04-21-cta-vessel-segmentation-petrous-ica-vs-bone-overlap-problem-id46803.md)
+- [2026 04 21 Nnunet Fails With Modulenotfounderror No Module Named Torchv](2026-04-21-nnunet-fails-with-modulenotfounderror-no-module-named-torchv-id46802.md)
+- [2026 04 21 Setting Segment Opacity To 1 0 Hides Segments](2026-04-21-setting-segment-opacity-to-1-0-hides-segments-id46800.md)
