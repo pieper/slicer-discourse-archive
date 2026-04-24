@@ -1,10 +1,10 @@
 # Slicer Discourse Archive Index
 
-Last updated: 2026-04-23 04:01 UTC
+Last updated: 2026-04-24 04:03 UTC
 
 ## Archive Contents
 
-- Total rendered topics: 18889
+- Total rendered topics: 18893
 - Raw JSON files: 0
 
 ## Recent Topics
@@ -15,11 +15,6 @@ Last updated: 2026-04-23 04:01 UTC
 - [README.md](archive/rendered-topics/2021/2021-04/README.md)
 - [README.md](archive/rendered-topics/2021/2021-02/README.md)
 - [README.md](archive/rendered-topics/2021/2021-01/README.md)
-- [upload of multi frame dicom images](archive/rendered-topics/2021/2021-12/2021-12-29-upload-of-multi-frame-dicom-images-id21264.md)
-- [extract centerline python scripting](archive/rendered-topics/2021/2021-12/2021-12-30-extract-centerline-python-scripting-id21275.md)
-- [how can i get the hounsfiledunit from segmentation](archive/rendered-topics/2021/2021-12/2021-12-30-how-can-i-get-the-hounsfiledunit-from-segmentation-id21267.md)
-- [how to install slicerrt extension in docker slicerdocker con](archive/rendered-topics/2021/2021-12/2021-12-30-how-to-install-slicerrt-extension-in-docker-slicerdocker-con-id21270.md)
-- [how to modify mainwindow in startup without using slicerrc p](archive/rendered-topics/2021/2021-12/2021-12-30-how-to-modify-mainwindow-in-startup-without-using-slicerrc-p-id21278.md)
 - [python console how to do these special tasks](archive/rendered-topics/2021/2021-12/2021-12-30-python-console-how-to-do-these-special-tasks-id21272.md)
 - [slicer radiomics features](archive/rendered-topics/2021/2021-12/2021-12-30-slicer-radiomics-features-id21280.md)
 - [slicerradiomics 3d slicer not responding](archive/rendered-topics/2021/2021-12/2021-12-30-slicerradiomics-3d-slicer-not-responding-id21273.md)
@@ -29,10 +24,6 @@ Last updated: 2026-04-23 04:01 UTC
 - [hide main window slicer logo](archive/rendered-topics/2021/2021-12/2021-12-31-hide-main-window-slicer-logo-id21291.md)
 - [raise only add files gui](archive/rendered-topics/2021/2021-12/2021-12-31-raise-only-add-files-gui-id21290.md)
 - [saving markups scalar values to a file](archive/rendered-topics/2021/2021-12/2021-12-31-saving-markups-scalar-values-to-a-file-id21287.md)
-- [otsu segmentation on head and neck pet image](archive/rendered-topics/2021/2021-12/2021-12-27-otsu-segmentation-on-head-and-neck-pet-image-id21235.md)
-- [tool similar to remove islands for this scenario](archive/rendered-topics/2021/2021-12/2021-12-27-tool-similar-to-remove-islands-for-this-scenario-id21238.md)
-- [understand how volume rendering presets meet specific dicom](archive/rendered-topics/2021/2021-12/2021-12-27-understand-how-volume-rendering-presets-meet-specific-dicom-id21234.md)
-- [whole brain automate segmentation](archive/rendered-topics/2021/2021-12/2021-12-27-whole-brain-automate-segmentation-id21225.md)
 - [creating a custom 3d slicer](archive/rendered-topics/2021/2021-12/2021-12-28-creating-a-custom-3d-slicer-id21245.md)
 - [segment statistics pet volume statistics](archive/rendered-topics/2021/2021-12/2021-12-28-segment-statistics-pet-volume-statistics-id21252.md)
 - [show changes in crop volume interface](archive/rendered-topics/2021/2021-12/2021-12-28-show-changes-in-crop-volume-interface-id21250.md)
@@ -44,9 +35,11 @@ Last updated: 2026-04-23 04:01 UTC
 - [latest slicer 4 13 version does not start on my computer](archive/rendered-topics/2021/2021-12/2021-12-29-latest-slicer-4-13-version-does-not-start-on-my-computer-id21263.md)
 - [mouse over of control points very slow if control point list](archive/rendered-topics/2021/2021-12/2021-12-29-mouse-over-of-control-points-very-slow-if-control-point-list-id21261.md)
 - [pulmonary fissure completeness assessment](archive/rendered-topics/2021/2021-12/2021-12-29-pulmonary-fissure-completeness-assessment-id21265.md)
-- [rt phantom drawing](archive/rendered-topics/2021/2021-12/2021-12-22-rt-phantom-drawing-id21189.md)
-- [segmentation creation](archive/rendered-topics/2021/2021-12/2021-12-22-segmentation-creation-id21184.md)
-- [segmentation saving support](archive/rendered-topics/2021/2021-12/2021-12-22-segmentation-saving-support-id21183.md)
+- [upload of multi frame dicom images](archive/rendered-topics/2021/2021-12/2021-12-29-upload-of-multi-frame-dicom-images-id21264.md)
+- [extract centerline python scripting](archive/rendered-topics/2021/2021-12/2021-12-30-extract-centerline-python-scripting-id21275.md)
+- [how can i get the hounsfiledunit from segmentation](archive/rendered-topics/2021/2021-12/2021-12-30-how-can-i-get-the-hounsfiledunit-from-segmentation-id21267.md)
+- [how to install slicerrt extension in docker slicerdocker con](archive/rendered-topics/2021/2021-12/2021-12-30-how-to-install-slicerrt-extension-in-docker-slicerdocker-con-id21270.md)
+- [how to modify mainwindow in startup without using slicerrc p](archive/rendered-topics/2021/2021-12/2021-12-30-how-to-modify-mainwindow-in-startup-without-using-slicerrc-p-id21278.md)
 - [sequence registration for 4d ct](archive/rendered-topics/2021/2021-12/2021-12-22-sequence-registration-for-4d-ct-id21180.md)
 - [slicer crashes when i try to record 2 videos at the same tim](archive/rendered-topics/2021/2021-12/2021-12-22-slicer-crashes-when-i-try-to-record-2-videos-at-the-same-tim-id21176.md)
 - [unexpected voxel values at boundary when using cpr curved pl](archive/rendered-topics/2021/2021-12/2021-12-22-unexpected-voxel-values-at-boundary-when-using-cpr-curved-pl-id21174.md)
@@ -59,3 +52,10 @@ Last updated: 2026-04-23 04:01 UTC
 - [behind the scene calculation for ice](archive/rendered-topics/2021/2021-12/2021-12-27-behind-the-scene-calculation-for-ice-id21233.md)
 - [combine a 3d dental scan with a dicom file](archive/rendered-topics/2021/2021-12/2021-12-27-combine-a-3d-dental-scan-with-a-dicom-file-id21226.md)
 - [different semi automatic segmentation method on pet image](archive/rendered-topics/2021/2021-12/2021-12-27-different-semi-automatic-segmentation-method-on-pet-image-id21236.md)
+- [how to get the parameters of a segment with python](archive/rendered-topics/2021/2021-12/2021-12-27-how-to-get-the-parameters-of-a-segment-with-python-id21230.md)
+- [import displacement field from matlab](archive/rendered-topics/2021/2021-12/2021-12-27-import-displacement-field-from-matlab-id21224.md)
+- [otsu segmentation on head and neck pet image](archive/rendered-topics/2021/2021-12/2021-12-27-otsu-segmentation-on-head-and-neck-pet-image-id21235.md)
+- [tool similar to remove islands for this scenario](archive/rendered-topics/2021/2021-12/2021-12-27-tool-similar-to-remove-islands-for-this-scenario-id21238.md)
+- [understand how volume rendering presets meet specific dicom](archive/rendered-topics/2021/2021-12/2021-12-27-understand-how-volume-rendering-presets-meet-specific-dicom-id21234.md)
+- [whole brain automate segmentation](archive/rendered-topics/2021/2021-12/2021-12-27-whole-brain-automate-segmentation-id21225.md)
+- [monailabel 3d slicer for cloud computing workshop jan 12 202](archive/rendered-topics/2021/2021-12/2021-12-20-monailabel-3d-slicer-for-cloud-computing-workshop-jan-12-202-id21152.md)
