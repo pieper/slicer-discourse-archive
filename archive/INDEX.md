@@ -1,10 +1,10 @@
 # Slicer Discourse Archive Index
 
-Last updated: 2026-04-24 04:03 UTC
+Last updated: 2026-04-25 03:56 UTC
 
 ## Archive Contents
 
-- Total rendered topics: 18893
+- Total rendered topics: 18895
 - Raw JSON files: 0
 
 ## Recent Topics
@@ -15,6 +15,13 @@ Last updated: 2026-04-24 04:03 UTC
 - [README.md](archive/rendered-topics/2021/2021-04/README.md)
 - [README.md](archive/rendered-topics/2021/2021-02/README.md)
 - [README.md](archive/rendered-topics/2021/2021-01/README.md)
+- [mouse over of control points very slow if control point list](archive/rendered-topics/2021/2021-12/2021-12-29-mouse-over-of-control-points-very-slow-if-control-point-list-id21261.md)
+- [pulmonary fissure completeness assessment](archive/rendered-topics/2021/2021-12/2021-12-29-pulmonary-fissure-completeness-assessment-id21265.md)
+- [upload of multi frame dicom images](archive/rendered-topics/2021/2021-12/2021-12-29-upload-of-multi-frame-dicom-images-id21264.md)
+- [extract centerline python scripting](archive/rendered-topics/2021/2021-12/2021-12-30-extract-centerline-python-scripting-id21275.md)
+- [how can i get the hounsfiledunit from segmentation](archive/rendered-topics/2021/2021-12/2021-12-30-how-can-i-get-the-hounsfiledunit-from-segmentation-id21267.md)
+- [how to install slicerrt extension in docker slicerdocker con](archive/rendered-topics/2021/2021-12/2021-12-30-how-to-install-slicerrt-extension-in-docker-slicerdocker-con-id21270.md)
+- [how to modify mainwindow in startup without using slicerrc p](archive/rendered-topics/2021/2021-12/2021-12-30-how-to-modify-mainwindow-in-startup-without-using-slicerrc-p-id21278.md)
 - [python console how to do these special tasks](archive/rendered-topics/2021/2021-12/2021-12-30-python-console-how-to-do-these-special-tasks-id21272.md)
 - [slicer radiomics features](archive/rendered-topics/2021/2021-12/2021-12-30-slicer-radiomics-features-id21280.md)
 - [slicerradiomics 3d slicer not responding](archive/rendered-topics/2021/2021-12/2021-12-30-slicerradiomics-3d-slicer-not-responding-id21273.md)
@@ -24,26 +31,6 @@ Last updated: 2026-04-24 04:03 UTC
 - [hide main window slicer logo](archive/rendered-topics/2021/2021-12/2021-12-31-hide-main-window-slicer-logo-id21291.md)
 - [raise only add files gui](archive/rendered-topics/2021/2021-12/2021-12-31-raise-only-add-files-gui-id21290.md)
 - [saving markups scalar values to a file](archive/rendered-topics/2021/2021-12/2021-12-31-saving-markups-scalar-values-to-a-file-id21287.md)
-- [creating a custom 3d slicer](archive/rendered-topics/2021/2021-12/2021-12-28-creating-a-custom-3d-slicer-id21245.md)
-- [segment statistics pet volume statistics](archive/rendered-topics/2021/2021-12/2021-12-28-segment-statistics-pet-volume-statistics-id21252.md)
-- [show changes in crop volume interface](archive/rendered-topics/2021/2021-12/2021-12-28-show-changes-in-crop-volume-interface-id21250.md)
-- [vtkmarching squares for dicom stack xa](archive/rendered-topics/2021/2021-12/2021-12-28-vtkmarching-squares-for-dicom-stack-xa-id21249.md)
-- [why i cant set my own transform matrix while using volumerec](archive/rendered-topics/2021/2021-12/2021-12-28-why-i-cant-set-my-own-transform-matrix-while-using-volumerec-id21244.md)
-- [bone texture module not working due to labelstatistics modul](archive/rendered-topics/2021/2021-12/2021-12-29-bone-texture-module-not-working-due-to-labelstatistics-modul-id21266.md)
-- [can volumereconstructor function run on gpu](archive/rendered-topics/2021/2021-12/2021-12-29-can-volumereconstructor-function-run-on-gpu-id21257.md)
-- [how to disable automatic switch to master volume with segmen](archive/rendered-topics/2021/2021-12/2021-12-29-how-to-disable-automatic-switch-to-master-volume-with-segmen-id21259.md)
-- [latest slicer 4 13 version does not start on my computer](archive/rendered-topics/2021/2021-12/2021-12-29-latest-slicer-4-13-version-does-not-start-on-my-computer-id21263.md)
-- [mouse over of control points very slow if control point list](archive/rendered-topics/2021/2021-12/2021-12-29-mouse-over-of-control-points-very-slow-if-control-point-list-id21261.md)
-- [pulmonary fissure completeness assessment](archive/rendered-topics/2021/2021-12/2021-12-29-pulmonary-fissure-completeness-assessment-id21265.md)
-- [upload of multi frame dicom images](archive/rendered-topics/2021/2021-12/2021-12-29-upload-of-multi-frame-dicom-images-id21264.md)
-- [extract centerline python scripting](archive/rendered-topics/2021/2021-12/2021-12-30-extract-centerline-python-scripting-id21275.md)
-- [how can i get the hounsfiledunit from segmentation](archive/rendered-topics/2021/2021-12/2021-12-30-how-can-i-get-the-hounsfiledunit-from-segmentation-id21267.md)
-- [how to install slicerrt extension in docker slicerdocker con](archive/rendered-topics/2021/2021-12/2021-12-30-how-to-install-slicerrt-extension-in-docker-slicerdocker-con-id21270.md)
-- [how to modify mainwindow in startup without using slicerrc p](archive/rendered-topics/2021/2021-12/2021-12-30-how-to-modify-mainwindow-in-startup-without-using-slicerrc-p-id21278.md)
-- [sequence registration for 4d ct](archive/rendered-topics/2021/2021-12/2021-12-22-sequence-registration-for-4d-ct-id21180.md)
-- [slicer crashes when i try to record 2 videos at the same tim](archive/rendered-topics/2021/2021-12/2021-12-22-slicer-crashes-when-i-try-to-record-2-videos-at-the-same-tim-id21176.md)
-- [unexpected voxel values at boundary when using cpr curved pl](archive/rendered-topics/2021/2021-12/2021-12-22-unexpected-voxel-values-at-boundary-when-using-cpr-curved-pl-id21174.md)
-- [how to segment two different mandible on two cbct in differe](archive/rendered-topics/2021/2021-12/2021-12-24-how-to-segment-two-different-mandible-on-two-cbct-in-differe-id21198.md)
 - [copying segment names colors from one segmentation to anothe](archive/rendered-topics/2021/2021-12/2021-12-25-copying-segment-names-colors-from-one-segmentation-to-anothe-id21204.md)
 - [slow 2d slice update speed](archive/rendered-topics/2021/2021-12/2021-12-25-slow-2d-slice-update-speed-id21206.md)
 - [how to change the default models coordinate](archive/rendered-topics/2021/2021-12/2021-12-26-how-to-change-the-default-models-coordinate-id21209.md)
@@ -58,4 +45,17 @@ Last updated: 2026-04-24 04:03 UTC
 - [tool similar to remove islands for this scenario](archive/rendered-topics/2021/2021-12/2021-12-27-tool-similar-to-remove-islands-for-this-scenario-id21238.md)
 - [understand how volume rendering presets meet specific dicom](archive/rendered-topics/2021/2021-12/2021-12-27-understand-how-volume-rendering-presets-meet-specific-dicom-id21234.md)
 - [whole brain automate segmentation](archive/rendered-topics/2021/2021-12/2021-12-27-whole-brain-automate-segmentation-id21225.md)
+- [creating a custom 3d slicer](archive/rendered-topics/2021/2021-12/2021-12-28-creating-a-custom-3d-slicer-id21245.md)
+- [segment statistics pet volume statistics](archive/rendered-topics/2021/2021-12/2021-12-28-segment-statistics-pet-volume-statistics-id21252.md)
+- [show changes in crop volume interface](archive/rendered-topics/2021/2021-12/2021-12-28-show-changes-in-crop-volume-interface-id21250.md)
+- [vtkmarching squares for dicom stack xa](archive/rendered-topics/2021/2021-12/2021-12-28-vtkmarching-squares-for-dicom-stack-xa-id21249.md)
+- [why i cant set my own transform matrix while using volumerec](archive/rendered-topics/2021/2021-12/2021-12-28-why-i-cant-set-my-own-transform-matrix-while-using-volumerec-id21244.md)
+- [bone texture module not working due to labelstatistics modul](archive/rendered-topics/2021/2021-12/2021-12-29-bone-texture-module-not-working-due-to-labelstatistics-modul-id21266.md)
+- [can volumereconstructor function run on gpu](archive/rendered-topics/2021/2021-12/2021-12-29-can-volumereconstructor-function-run-on-gpu-id21257.md)
+- [how to disable automatic switch to master volume with segmen](archive/rendered-topics/2021/2021-12/2021-12-29-how-to-disable-automatic-switch-to-master-volume-with-segmen-id21259.md)
+- [latest slicer 4 13 version does not start on my computer](archive/rendered-topics/2021/2021-12/2021-12-29-latest-slicer-4-13-version-does-not-start-on-my-computer-id21263.md)
+- [antialiasing in in slice mpr views](archive/rendered-topics/2021/2021-12/2021-12-20-antialiasing-in-in-slice-mpr-views-id21140.md)
+- [build errors while building custom slicer](archive/rendered-topics/2021/2021-12/2021-12-20-build-errors-while-building-custom-slicer-id21139.md)
+- [how to create a text box with images in python](archive/rendered-topics/2021/2021-12/2021-12-20-how-to-create-a-text-box-with-images-in-python-id21153.md)
+- [markups new point id restart from 1 when loaded from saved s](archive/rendered-topics/2021/2021-12/2021-12-20-markups-new-point-id-restart-from-1-when-loaded-from-saved-s-id21142.md)
 - [monailabel 3d slicer for cloud computing workshop jan 12 202](archive/rendered-topics/2021/2021-12/2021-12-20-monailabel-3d-slicer-for-cloud-computing-workshop-jan-12-202-id21152.md)
