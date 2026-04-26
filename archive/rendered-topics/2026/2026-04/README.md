@@ -56,3 +56,6 @@
 - [2026 04 24 Extensions Manager Extensions Can Not Be Installed](2026-04-24-extensions-manager-extensions-can-not-be-installed-id46824.md)
 - [2026 04 24 New Scene Snapshot Action In Animator](2026-04-24-new-scene-snapshot-action-in-animator-id46821.md)
 - [2026 04 24 Totalsegmentator Keeps Returning Non Zero Exit Status 1](2026-04-24-totalsegmentator-keeps-returning-non-zero-exit-status-1-id46820.md)
+- [2026 04 25 Filling Skull And Orbital Holes](2026-04-25-filling-skull-and-orbital-holes-id46831.md)
+- [2026 04 25 Strange Folder Bug](2026-04-25-strange-folder-bug-id46835.md)
+- [2026 04 25 Volume Property Json File Is Incorrectly Saved](2026-04-25-volume-property-json-file-is-incorrectly-saved-id46834.md)
