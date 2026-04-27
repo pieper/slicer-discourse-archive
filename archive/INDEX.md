@@ -1,6 +1,6 @@
 # Slicer Discourse Archive Index
 
-Last updated: 2026-04-26 04:07 UTC
+Last updated: 2026-04-27 04:10 UTC
 
 ## Archive Contents
 
@@ -15,6 +15,7 @@ Last updated: 2026-04-26 04:07 UTC
 - [README.md](archive/rendered-topics/2021/2021-04/README.md)
 - [README.md](archive/rendered-topics/2021/2021-02/README.md)
 - [README.md](archive/rendered-topics/2021/2021-01/README.md)
+- [upload of multi frame dicom images](archive/rendered-topics/2021/2021-12/2021-12-29-upload-of-multi-frame-dicom-images-id21264.md)
 - [extract centerline python scripting](archive/rendered-topics/2021/2021-12/2021-12-30-extract-centerline-python-scripting-id21275.md)
 - [how can i get the hounsfiledunit from segmentation](archive/rendered-topics/2021/2021-12/2021-12-30-how-can-i-get-the-hounsfiledunit-from-segmentation-id21267.md)
 - [how to install slicerrt extension in docker slicerdocker con](archive/rendered-topics/2021/2021-12/2021-12-30-how-to-install-slicerrt-extension-in-docker-slicerdocker-con-id21270.md)
@@ -28,6 +29,10 @@ Last updated: 2026-04-26 04:07 UTC
 - [hide main window slicer logo](archive/rendered-topics/2021/2021-12/2021-12-31-hide-main-window-slicer-logo-id21291.md)
 - [raise only add files gui](archive/rendered-topics/2021/2021-12/2021-12-31-raise-only-add-files-gui-id21290.md)
 - [saving markups scalar values to a file](archive/rendered-topics/2021/2021-12/2021-12-31-saving-markups-scalar-values-to-a-file-id21287.md)
+- [different semi automatic segmentation method on pet image](archive/rendered-topics/2021/2021-12/2021-12-27-different-semi-automatic-segmentation-method-on-pet-image-id21236.md)
+- [how to get the parameters of a segment with python](archive/rendered-topics/2021/2021-12/2021-12-27-how-to-get-the-parameters-of-a-segment-with-python-id21230.md)
+- [import displacement field from matlab](archive/rendered-topics/2021/2021-12/2021-12-27-import-displacement-field-from-matlab-id21224.md)
+- [otsu segmentation on head and neck pet image](archive/rendered-topics/2021/2021-12/2021-12-27-otsu-segmentation-on-head-and-neck-pet-image-id21235.md)
 - [tool similar to remove islands for this scenario](archive/rendered-topics/2021/2021-12/2021-12-27-tool-similar-to-remove-islands-for-this-scenario-id21238.md)
 - [understand how volume rendering presets meet specific dicom](archive/rendered-topics/2021/2021-12/2021-12-27-understand-how-volume-rendering-presets-meet-specific-dicom-id21234.md)
 - [whole brain automate segmentation](archive/rendered-topics/2021/2021-12/2021-12-27-whole-brain-automate-segmentation-id21225.md)
@@ -42,20 +47,15 @@ Last updated: 2026-04-26 04:07 UTC
 - [latest slicer 4 13 version does not start on my computer](archive/rendered-topics/2021/2021-12/2021-12-29-latest-slicer-4-13-version-does-not-start-on-my-computer-id21263.md)
 - [mouse over of control points very slow if control point list](archive/rendered-topics/2021/2021-12/2021-12-29-mouse-over-of-control-points-very-slow-if-control-point-list-id21261.md)
 - [pulmonary fissure completeness assessment](archive/rendered-topics/2021/2021-12/2021-12-29-pulmonary-fissure-completeness-assessment-id21265.md)
-- [upload of multi frame dicom images](archive/rendered-topics/2021/2021-12/2021-12-29-upload-of-multi-frame-dicom-images-id21264.md)
+- [replay recorded data as a sequence in the sequencebrowser](archive/rendered-topics/2021/2021-12/2021-12-20-replay-recorded-data-as-a-sequence-in-the-sequencebrowser-id21149.md)
+- [set filter to the scene based on displayable node attributes](archive/rendered-topics/2021/2021-12/2021-12-20-set-filter-to-the-scene-based-on-displayable-node-attributes-id21138.md)
+- [weekly meeting](archive/rendered-topics/2021/2021-12/2021-12-21-2021-12-21-weekly-meeting-id21170.md)
+- [3d slicer and lungctanalyzer provide lung volumentry in a re](archive/rendered-topics/2021/2021-12/2021-12-21-3d-slicer-and-lungctanalyzer-provide-lung-volumentry-in-a-re-id21162.md)
+- [arduino motion sensor](archive/rendered-topics/2021/2021-12/2021-12-21-arduino-motion-sensor-id21168.md)
+- [close slicersalt after processing in commandline](archive/rendered-topics/2021/2021-12/2021-12-21-close-slicersalt-after-processing-in-commandline-id21159.md)
+- [convert point cloud to surface model](archive/rendered-topics/2021/2021-12/2021-12-21-convert-point-cloud-to-surface-model-id21175.md)
+- [export a transformation matrix through vs code without openi](archive/rendered-topics/2021/2021-12/2021-12-21-export-a-transformation-matrix-through-vs-code-without-openi-id21163.md)
+- [how generate a set of interest points on a surface from some](archive/rendered-topics/2021/2021-12/2021-12-21-how-generate-a-set-of-interest-points-on-a-surface-from-some-id21161.md)
+- [how to hide vtkmrmlannotationroinode only in 3d view](archive/rendered-topics/2021/2021-12/2021-12-22-how-to-hide-vtkmrmlannotationroinode-only-in-3d-view-id21178.md)
+- [how to paint a pedicle screw by hounsfield unit](archive/rendered-topics/2021/2021-12/2021-12-22-how-to-paint-a-pedicle-screw-by-hounsfield-unit-id21185.md)
 - [maybe this is a bug of color module](archive/rendered-topics/2021/2021-12/2021-12-22-maybe-this-is-a-bug-of-color-module-id21181.md)
-- [nvidia aiaa clara pt covid19 ct lung segmentation model does](archive/rendered-topics/2021/2021-12/2021-12-22-nvidia-aiaa-clara-pt-covid19-ct-lung-segmentation-model-does-id21177.md)
-- [rt phantom drawing](archive/rendered-topics/2021/2021-12/2021-12-22-rt-phantom-drawing-id21189.md)
-- [segmentation creation](archive/rendered-topics/2021/2021-12/2021-12-22-segmentation-creation-id21184.md)
-- [segmentation saving support](archive/rendered-topics/2021/2021-12/2021-12-22-segmentation-saving-support-id21183.md)
-- [sequence registration for 4d ct](archive/rendered-topics/2021/2021-12/2021-12-22-sequence-registration-for-4d-ct-id21180.md)
-- [slicer crashes when i try to record 2 videos at the same tim](archive/rendered-topics/2021/2021-12/2021-12-22-slicer-crashes-when-i-try-to-record-2-videos-at-the-same-tim-id21176.md)
-- [unexpected voxel values at boundary when using cpr curved pl](archive/rendered-topics/2021/2021-12/2021-12-22-unexpected-voxel-values-at-boundary-when-using-cpr-curved-pl-id21174.md)
-- [how to segment two different mandible on two cbct in differe](archive/rendered-topics/2021/2021-12/2021-12-24-how-to-segment-two-different-mandible-on-two-cbct-in-differe-id21198.md)
-- [copying segment names colors from one segmentation to anothe](archive/rendered-topics/2021/2021-12/2021-12-25-copying-segment-names-colors-from-one-segmentation-to-anothe-id21204.md)
-- [slow 2d slice update speed](archive/rendered-topics/2021/2021-12/2021-12-25-slow-2d-slice-update-speed-id21206.md)
-- [how to change the default models coordinate](archive/rendered-topics/2021/2021-12/2021-12-26-how-to-change-the-default-models-coordinate-id21209.md)
-- [lessons on slicer](archive/rendered-topics/2021/2021-12/2021-12-26-lessons-on-slicer-id21211.md)
-- [shapequantifier module is not loaded](archive/rendered-topics/2021/2021-12/2021-12-26-shapequantifier-module-is-not-loaded-id21212.md)
-- [behind the scene calculation for ice](archive/rendered-topics/2021/2021-12/2021-12-27-behind-the-scene-calculation-for-ice-id21233.md)
-- [combine a 3d dental scan with a dicom file](archive/rendered-topics/2021/2021-12/2021-12-27-combine-a-3d-dental-scan-with-a-dicom-file-id21226.md)
