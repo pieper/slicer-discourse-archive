@@ -70,3 +70,8 @@
 - [2026 04 29 Pw 45 Meetings Begin Next Week](2026-04-29-pw-45-meetings-begin-next-week-id46872.md)
 - [2026 04 29 Segementing Mri Doesnt Do Continous Layer](2026-04-29-segementing-mri-doesnt-do-continous-layer-id46868.md)
 - [2026 04 29 Surface Toolbox Clean Model Does Not Remove Unconnected Poin](2026-04-29-surface-toolbox-clean-model-does-not-remove-unconnected-poin-id46873.md)
+- [2026 04 30 How To Show A Transform In Only One View](2026-04-30-how-to-show-a-transform-in-only-one-view-id46877.md)
+- [2026 04 30 Paint Brush Requires Large Movement Before Stroke Begins Wac](2026-04-30-paint-brush-requires-large-movement-before-stroke-begins-wac-id46879.md)
+- [2026 04 30 Problem Fiducial Registration Wizard](2026-04-30-problem-fiducial-registration-wizard-id46875.md)
+- [2026 04 30 Seeking Community Input On Upcoming Trame Slicer Application](2026-04-30-seeking-community-input-on-upcoming-trame-slicer-application-id46874.md)
+- [2026 04 30 Steps For Glioma Perfusion Cbv And Diffusion Adc Analysis](2026-04-30-steps-for-glioma-perfusion-cbv-and-diffusion-adc-analysis-id46880.md)
