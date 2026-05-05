@@ -1,10 +1,10 @@
 # Slicer Discourse Archive Index
 
-Last updated: 2026-05-04 04:15 UTC
+Last updated: 2026-05-05 04:01 UTC
 
 ## Archive Contents
 
-- Total rendered topics: 18921
+- Total rendered topics: 18923
 - Raw JSON files: 0
 
 ## Recent Topics
@@ -15,13 +15,6 @@ Last updated: 2026-05-04 04:15 UTC
 - [README.md](archive/rendered-topics/2021/2021-04/README.md)
 - [README.md](archive/rendered-topics/2021/2021-02/README.md)
 - [README.md](archive/rendered-topics/2021/2021-01/README.md)
-- [upload of multi frame dicom images](archive/rendered-topics/2021/2021-12/2021-12-29-upload-of-multi-frame-dicom-images-id21264.md)
-- [extract centerline python scripting](archive/rendered-topics/2021/2021-12/2021-12-30-extract-centerline-python-scripting-id21275.md)
-- [how can i get the hounsfiledunit from segmentation](archive/rendered-topics/2021/2021-12/2021-12-30-how-can-i-get-the-hounsfiledunit-from-segmentation-id21267.md)
-- [how to install slicerrt extension in docker slicerdocker con](archive/rendered-topics/2021/2021-12/2021-12-30-how-to-install-slicerrt-extension-in-docker-slicerdocker-con-id21270.md)
-- [how to modify mainwindow in startup without using slicerrc p](archive/rendered-topics/2021/2021-12/2021-12-30-how-to-modify-mainwindow-in-startup-without-using-slicerrc-p-id21278.md)
-- [python console how to do these special tasks](archive/rendered-topics/2021/2021-12/2021-12-30-python-console-how-to-do-these-special-tasks-id21272.md)
-- [slicer radiomics features](archive/rendered-topics/2021/2021-12/2021-12-30-slicer-radiomics-features-id21280.md)
 - [slicerradiomics 3d slicer not responding](archive/rendered-topics/2021/2021-12/2021-12-30-slicerradiomics-3d-slicer-not-responding-id21273.md)
 - [training using 3d slicer for ai segmentation](archive/rendered-topics/2021/2021-12/2021-12-30-training-using-3d-slicer-for-ai-segmentation-id21277.md)
 - [change vtkstencil used for the display of volumes](archive/rendered-topics/2021/2021-12/2021-12-31-change-vtkstencil-used-for-the-display-of-volumes-id21292.md)
@@ -29,9 +22,6 @@ Last updated: 2026-05-04 04:15 UTC
 - [hide main window slicer logo](archive/rendered-topics/2021/2021-12/2021-12-31-hide-main-window-slicer-logo-id21291.md)
 - [raise only add files gui](archive/rendered-topics/2021/2021-12/2021-12-31-raise-only-add-files-gui-id21290.md)
 - [saving markups scalar values to a file](archive/rendered-topics/2021/2021-12/2021-12-31-saving-markups-scalar-values-to-a-file-id21287.md)
-- [otsu segmentation on head and neck pet image](archive/rendered-topics/2021/2021-12/2021-12-27-otsu-segmentation-on-head-and-neck-pet-image-id21235.md)
-- [tool similar to remove islands for this scenario](archive/rendered-topics/2021/2021-12/2021-12-27-tool-similar-to-remove-islands-for-this-scenario-id21238.md)
-- [understand how volume rendering presets meet specific dicom](archive/rendered-topics/2021/2021-12/2021-12-27-understand-how-volume-rendering-presets-meet-specific-dicom-id21234.md)
 - [whole brain automate segmentation](archive/rendered-topics/2021/2021-12/2021-12-27-whole-brain-automate-segmentation-id21225.md)
 - [creating a custom 3d slicer](archive/rendered-topics/2021/2021-12/2021-12-28-creating-a-custom-3d-slicer-id21245.md)
 - [segment statistics pet volume statistics](archive/rendered-topics/2021/2021-12/2021-12-28-segment-statistics-pet-volume-statistics-id21252.md)
@@ -44,6 +34,18 @@ Last updated: 2026-05-04 04:15 UTC
 - [latest slicer 4 13 version does not start on my computer](archive/rendered-topics/2021/2021-12/2021-12-29-latest-slicer-4-13-version-does-not-start-on-my-computer-id21263.md)
 - [mouse over of control points very slow if control point list](archive/rendered-topics/2021/2021-12/2021-12-29-mouse-over-of-control-points-very-slow-if-control-point-list-id21261.md)
 - [pulmonary fissure completeness assessment](archive/rendered-topics/2021/2021-12/2021-12-29-pulmonary-fissure-completeness-assessment-id21265.md)
+- [upload of multi frame dicom images](archive/rendered-topics/2021/2021-12/2021-12-29-upload-of-multi-frame-dicom-images-id21264.md)
+- [extract centerline python scripting](archive/rendered-topics/2021/2021-12/2021-12-30-extract-centerline-python-scripting-id21275.md)
+- [how can i get the hounsfiledunit from segmentation](archive/rendered-topics/2021/2021-12/2021-12-30-how-can-i-get-the-hounsfiledunit-from-segmentation-id21267.md)
+- [how to install slicerrt extension in docker slicerdocker con](archive/rendered-topics/2021/2021-12/2021-12-30-how-to-install-slicerrt-extension-in-docker-slicerdocker-con-id21270.md)
+- [how to modify mainwindow in startup without using slicerrc p](archive/rendered-topics/2021/2021-12/2021-12-30-how-to-modify-mainwindow-in-startup-without-using-slicerrc-p-id21278.md)
+- [python console how to do these special tasks](archive/rendered-topics/2021/2021-12/2021-12-30-python-console-how-to-do-these-special-tasks-id21272.md)
+- [slicer radiomics features](archive/rendered-topics/2021/2021-12/2021-12-30-slicer-radiomics-features-id21280.md)
+- [close slicersalt after processing in commandline](archive/rendered-topics/2021/2021-12/2021-12-21-close-slicersalt-after-processing-in-commandline-id21159.md)
+- [convert point cloud to surface model](archive/rendered-topics/2021/2021-12/2021-12-21-convert-point-cloud-to-surface-model-id21175.md)
+- [export a transformation matrix through vs code without openi](archive/rendered-topics/2021/2021-12/2021-12-21-export-a-transformation-matrix-through-vs-code-without-openi-id21163.md)
+- [how generate a set of interest points on a surface from some](archive/rendered-topics/2021/2021-12/2021-12-21-how-generate-a-set-of-interest-points-on-a-surface-from-some-id21161.md)
+- [how to hide vtkmrmlannotationroinode only in 3d view](archive/rendered-topics/2021/2021-12/2021-12-22-how-to-hide-vtkmrmlannotationroinode-only-in-3d-view-id21178.md)
 - [how to paint a pedicle screw by hounsfield unit](archive/rendered-topics/2021/2021-12/2021-12-22-how-to-paint-a-pedicle-screw-by-hounsfield-unit-id21185.md)
 - [maybe this is a bug of color module](archive/rendered-topics/2021/2021-12/2021-12-22-maybe-this-is-a-bug-of-color-module-id21181.md)
 - [nvidia aiaa clara pt covid19 ct lung segmentation model does](archive/rendered-topics/2021/2021-12/2021-12-22-nvidia-aiaa-clara-pt-covid19-ct-lung-segmentation-model-does-id21177.md)
@@ -57,5 +59,3 @@ Last updated: 2026-05-04 04:15 UTC
 - [copying segment names colors from one segmentation to anothe](archive/rendered-topics/2021/2021-12/2021-12-25-copying-segment-names-colors-from-one-segmentation-to-anothe-id21204.md)
 - [slow 2d slice update speed](archive/rendered-topics/2021/2021-12/2021-12-25-slow-2d-slice-update-speed-id21206.md)
 - [how to change the default models coordinate](archive/rendered-topics/2021/2021-12/2021-12-26-how-to-change-the-default-models-coordinate-id21209.md)
-- [lessons on slicer](archive/rendered-topics/2021/2021-12/2021-12-26-lessons-on-slicer-id21211.md)
-- [shapequantifier module is not loaded](archive/rendered-topics/2021/2021-12/2021-12-26-shapequantifier-module-is-not-loaded-id21212.md)
