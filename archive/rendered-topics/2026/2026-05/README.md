@@ -8,3 +8,5 @@
 - [2026 05 03 Pencil Tool Not Visible On Some Slices But Works In 3D View](2026-05-03-pencil-tool-not-visible-on-some-slices-but-works-in-3d-view-id46908.md)
 - [2026 05 04 Segmentation Bounds Cropped Even When Cropped To Minimum Ext](2026-05-04-segmentation-bounds-cropped-even-when-cropped-to-minimum-ext-id46920.md)
 - [2026 05 04 Totalsegmentator Fails To Install Pytorch Dependencies Insta](2026-05-04-totalsegmentator-fails-to-install-pytorch-dependencies-insta-id46911.md)
+- [2026 05 05 Create Of The New Preset In Asd Vsd Device Simulator Topic](2026-05-05-create-of-the-new-preset-in-asd-vsd-device-simulator-topic-id46925.md)
+- [2026 05 05 Persistent Error When Generating Skinmould](2026-05-05-persistent-error-when-generating-skinmould-id46930.md)
