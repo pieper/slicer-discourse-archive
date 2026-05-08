@@ -16,3 +16,5 @@
 - [2026 05 06](2026-05-06-idavlm-converter-not-aligning-landmarks-to-model-id46940.md)
 - [2026 05 06 Next Pw Preparation Meeting On Tuesday May 12Th At 10 Am Et](2026-05-06-next-pw-preparation-meeting-on-tuesday-may-12th-at-10-am-et-id46943.md)
 - [2026 05 06 Why Cant I Download](2026-05-06-why-cant-i-download-id46938.md)
+- [2026 05 07 Add Scalar Volumes Not Functioning In Slicer 5 10 0](2026-05-07-add-scalar-volumes-not-functioning-in-slicer-5-10-0-id46952.md)
+- [2026 05 07 Looking For Plugins For Multiple Lesions Like Nf1](2026-05-07-looking-for-plugins-for-multiple-lesions-like-nf1-id46951.md)
