@@ -18,3 +18,6 @@
 - [2026 05 06 Why Cant I Download](2026-05-06-why-cant-i-download-id46938.md)
 - [2026 05 07 Add Scalar Volumes Not Functioning In Slicer 5 10 0](2026-05-07-add-scalar-volumes-not-functioning-in-slicer-5-10-0-id46952.md)
 - [2026 05 07 Looking For Plugins For Multiple Lesions Like Nf1](2026-05-07-looking-for-plugins-for-multiple-lesions-like-nf1-id46951.md)
+- [2026 05 08 Invisible Wall Limiting Segmentation](2026-05-08-invisible-wall-limiting-segmentation-id46973.md)
+- [2026 05 08 Model To Model Distance Running As Cli](2026-05-08-model-to-model-distance-running-as-cli-id46971.md)
+- [2026 05 08 Volume Rendering Broken In Latest Linux Previews](2026-05-08-volume-rendering-broken-in-latest-linux-previews-id46974.md)
