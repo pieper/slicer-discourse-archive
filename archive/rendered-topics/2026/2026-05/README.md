@@ -24,3 +24,8 @@
 - [2026 05 11 3D Slicer Wont Open Due To Libssl On Ubuntu 24 04 Lts](2026-05-11-3d-slicer-wont-open-due-to-libssl-on-ubuntu-24-04-lts-id46987.md)
 - [2026 05 11 Help Non Linear Transform Error During Crop Volume Total Seg](2026-05-11-help-non-linear-transform-error-during-crop-volume-total-seg-id46989.md)
 - [2026 05 11 How To Convert A 4X4 Matrix To Inter Bone Kinematic Paramete](2026-05-11-how-to-convert-a-4x4-matrix-to-inter-bone-kinematic-paramete-id46986.md)
+- [2026 05 12 2026 05 19 Weekly Meeting](2026-05-12-2026-05-19-weekly-meeting-id47000.md)
+- [2026 05 12 Apply Composite Affine Non Linear Transform To 100K Points](2026-05-12-apply-composite-affine-non-linear-transform-to-100k-points-id46993.md)
+- [2026 05 12 How Can I Calculate And Visualize Displacement Vectors Of Th](2026-05-12-how-can-i-calculate-and-visualize-displacement-vectors-of-th-id46995.md)
+- [2026 05 12 How Can I Calculate And Visualize Of Center Of Mass Com Or C](2026-05-12-how-can-i-calculate-and-visualize-of-center-of-mass-com-or-c-id46994.md)
+- [2026 05 12 How Can I Calculate Dose Mass Histograms And The Impact Of L](2026-05-12-how-can-i-calculate-dose-mass-histograms-and-the-impact-of-l-id46997.md)
