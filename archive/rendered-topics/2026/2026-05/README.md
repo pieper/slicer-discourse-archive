@@ -41,3 +41,5 @@
 - [2026 05 14 Segment Editor Paint Tool Stops Working After The First Stro](2026-05-14-segment-editor-paint-tool-stops-working-after-the-first-stro-id47036.md)
 - [2026 05 14 Shift And Wrap Around Voxels Transform](2026-05-14-shift-and-wrap-around-voxels-transform-id47022.md)
 - [2026 05 15 Fill In Part Of Segment Without Adding Whole Model](2026-05-15-fill-in-part-of-segment-without-adding-whole-model-id47045.md)
+- [2026 05 17 Slicer Packaging Library](2026-05-17-slicer-packaging-library-id47056.md)
+- [2026 05 18 Talk2View Community Sub Topic](2026-05-18-talk2view-community-sub-topic-id47062.md)

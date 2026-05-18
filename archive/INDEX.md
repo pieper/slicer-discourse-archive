@@ -1,10 +1,10 @@
 # Slicer Discourse Archive Index
 
-Last updated: 2026-05-17 04:22 UTC
+Last updated: 2026-05-18 04:26 UTC
 
 ## Archive Contents
 
-- Total rendered topics: 18956
+- Total rendered topics: 18958
 - Raw JSON files: 0
 
 ## Recent Topics
@@ -18,6 +18,12 @@ Last updated: 2026-05-17 04:22 UTC
 - [README.md](archive/rendered-topics/2018/2018-03/README.md)
 - [README.md](archive/rendered-topics/2018/2018-02/README.md)
 - [README.md](archive/rendered-topics/2018/2018-01/README.md)
+- [dicom image intensity rescaling using non linear regression](archive/rendered-topics/2018/2018-12/2018-12-30-dicom-image-intensity-rescaling-using-non-linear-regression-id5228.md)
+- [model does not close after hollowing](archive/rendered-topics/2018/2018-12/2018-12-30-model-does-not-close-after-hollowing-id5232.md)
+- [registration and label statistics](archive/rendered-topics/2018/2018-12/2018-12-30-registration-and-label-statistics-id5229.md)
+- [the direction of x and y jaw position in beams module](archive/rendered-topics/2018/2018-12/2018-12-30-the-direction-of-x-and-y-jaw-position-in-beams-module-id5226.md)
+- [how to get the surface of a human body from dicom](archive/rendered-topics/2018/2018-12/2018-12-26-how-to-get-the-surface-of-a-human-body-from-dicom-id5194.md)
+- [is there any way to export annotations in json format in 3d](archive/rendered-topics/2018/2018-12/2018-12-27-is-there-any-way-to-export-annotations-in-json-format-in-3d-id5198.md)
 - [registration deformation export](archive/rendered-topics/2018/2018-12/2018-12-27-registration-deformation-export-id5197.md)
 - [using python for image registration](archive/rendered-topics/2018/2018-12/2018-12-27-using-python-for-image-registration-id5207.md)
 - [calculate harmonic energy of displacement vector field dvf](archive/rendered-topics/2018/2018-12/2018-12-28-calculate-harmonic-energy-of-displacement-vector-field-dvf-id5211.md)
@@ -28,10 +34,11 @@ Last updated: 2026-05-17 04:22 UTC
 - [problem with loading files](archive/rendered-topics/2018/2018-12/2018-12-29-problem-with-loading-files-id5223.md)
 - [segmenteditorextraeffects extension installed but cannot be](archive/rendered-topics/2018/2018-12/2018-12-29-segmenteditorextraeffects-extension-installed-but-cannot-be-id5221.md)
 - [create a preset in volume rendering module](archive/rendered-topics/2018/2018-12/2018-12-30-create-a-preset-in-volume-rendering-module-id5227.md)
-- [dicom image intensity rescaling using non linear regression](archive/rendered-topics/2018/2018-12/2018-12-30-dicom-image-intensity-rescaling-using-non-linear-regression-id5228.md)
-- [model does not close after hollowing](archive/rendered-topics/2018/2018-12/2018-12-30-model-does-not-close-after-hollowing-id5232.md)
-- [registration and label statistics](archive/rendered-topics/2018/2018-12/2018-12-30-registration-and-label-statistics-id5229.md)
-- [the direction of x and y jaw position in beams module](archive/rendered-topics/2018/2018-12/2018-12-30-the-direction-of-x-and-y-jaw-position-in-beams-module-id5226.md)
+- [publishing segmentations on the web sketchfab](archive/rendered-topics/2018/2018-12/2018-12-19-publishing-segmentations-on-the-web-sketchfab-id5140.md)
+- [segmentation paint effect paints on current and next slice](archive/rendered-topics/2018/2018-12/2018-12-19-segmentation-paint-effect-paints-on-current-and-next-slice-id5149.md)
+- [vtk render to target texture](archive/rendered-topics/2018/2018-12/2018-12-19-vtk-render-to-target-texture-id5146.md)
+- [hide module panel by default](archive/rendered-topics/2018/2018-12/2018-12-20-hide-module-panel-by-default-id5156.md)
+- [how to measure volume of white matter lesions using 3d slice](archive/rendered-topics/2018/2018-12/2018-12-20-how-to-measure-volume-of-white-matter-lesions-using-3d-slice-id5152.md)
 - [request for suggestions for image informatics tools](archive/rendered-topics/2018/2018-12/2018-12-20-request-for-suggestions-for-image-informatics-tools-id5155.md)
 - [can i get diffusion tensor for every single pixel from dti](archive/rendered-topics/2018/2018-12/2018-12-21-can-i-get-diffusion-tensor-for-every-single-pixel-from-dti-id5163.md)
 - [research software engineer position at the university of lee](archive/rendered-topics/2018/2018-12/2018-12-21-research-software-engineer-position-at-the-university-of-lee-id5166.md)
@@ -45,17 +52,10 @@ Last updated: 2026-05-17 04:22 UTC
 - [loading ct 3d dicom files](archive/rendered-topics/2018/2018-12/2018-12-24-loading-ct-3d-dicom-files-id5185.md)
 - [segmentation of multi volume sequence](archive/rendered-topics/2018/2018-12/2018-12-25-segmentation-of-multi-volume-sequence-id5187.md)
 - [adding custom tags to subject without creating exporting dic](archive/rendered-topics/2018/2018-12/2018-12-26-adding-custom-tags-to-subject-without-creating-exporting-dic-id5189.md)
-- [how to get the surface of a human body from dicom](archive/rendered-topics/2018/2018-12/2018-12-26-how-to-get-the-surface-of-a-human-body-from-dicom-id5194.md)
-- [is there any way to export annotations in json format in 3d](archive/rendered-topics/2018/2018-12/2018-12-27-is-there-any-way-to-export-annotations-in-json-format-in-3d-id5198.md)
+- [cant see the 3d scene in virtual reality](archive/rendered-topics/2018/2018-12/2018-12-17-cant-see-the-3d-scene-in-virtual-reality-id5097.md)
+- [how to create 3d surface rendering of 3d echocardiogram](archive/rendered-topics/2018/2018-12/2018-12-17-how-to-create-3d-surface-rendering-of-3d-echocardiogram-id5103.md)
+- [how to obtain x y z points from fiducial points and insert t](archive/rendered-topics/2018/2018-12/2018-12-17-how-to-obtain-x-y-z-points-from-fiducial-points-and-insert-t-id5113.md)
+- [loading an mrb file](archive/rendered-topics/2018/2018-12/2018-12-17-loading-an-mrb-file-id5116.md)
+- [no openigtlink module after building 3d slicer 4 10 r27501](archive/rendered-topics/2018/2018-12/2018-12-17-no-openigtlink-module-after-building-3d-slicer-4-10-r27501-id5099.md)
+- [slicervr not found in extensions help getting to vr](archive/rendered-topics/2018/2018-12/2018-12-17-slicervr-not-found-in-extensions-help-getting-to-vr-id5102.md)
 - [web request quicker easier access to dev site](archive/rendered-topics/2018/2018-12/2018-12-17-web-request-quicker-easier-access-to-dev-site-id5111.md)
-- [weird behaviour when loading us dicom](archive/rendered-topics/2018/2018-12/2018-12-17-weird-behaviour-when-loading-us-dicom-id5101.md)
-- [3d model to segmentation](archive/rendered-topics/2018/2018-12/2018-12-18-3d-model-to-segmentation-id5135.md)
-- [adding operations to segment editors scissors tool](archive/rendered-topics/2018/2018-12/2018-12-18-adding-operations-to-segment-editors-scissors-tool-id5124.md)
-- [arrayfromvolume](archive/rendered-topics/2018/2018-12/2018-12-18-arrayfromvolume-id5121.md)
-- [custom default name for volume created from qmrmlnodecombobo](archive/rendered-topics/2018/2018-12/2018-12-18-custom-default-name-for-volume-created-from-qmrmlnodecombobo-id5136.md)
-- [fa from volume how to do it](archive/rendered-topics/2018/2018-12/2018-12-18-fa-from-volume-how-to-do-it-id5123.md)
-- [initial transform as a deformation field nrrd](archive/rendered-topics/2018/2018-12/2018-12-18-initial-transform-as-a-deformation-field-nrrd-id5130.md)
-- [macos mojave slicer4 10 install](archive/rendered-topics/2018/2018-12/2018-12-18-macos-mojave-slicer4-10-install-id5126.md)
-- [size of stl obj files too many triangles](archive/rendered-topics/2018/2018-12/2018-12-18-size-of-stl-obj-files-too-many-triangles-id5137.md)
-- [best viewer to see your exported models](archive/rendered-topics/2018/2018-12/2018-12-19-best-viewer-to-see-your-exported-models-id5139.md)
-- [creating a volume from stl](archive/rendered-topics/2018/2018-12/2018-12-19-creating-a-volume-from-stl-id5144.md)
