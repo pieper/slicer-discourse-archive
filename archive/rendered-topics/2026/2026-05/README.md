@@ -44,4 +44,8 @@
 - [2026 05 17 Slicer Packaging Library](2026-05-17-slicer-packaging-library-id47056.md)
 - [2026 05 18 Pull From Repo For Dev Mode](2026-05-18-pull-from-repo-for-dev-mode-id47064.md)
 - [2026 05 18 Talk2View Community Sub Topic](2026-05-18-talk2view-community-sub-topic-id47062.md)
+- [2026 05 19 Displace The Axes](2026-05-19-displace-the-axes-idependently-of-the-plane-navigate-in-time-id47080.md)
+- [2026 05 19 How Can Calculate Visualize The Center Of Mass Com](2026-05-19-how-can-calculate-visualize-the-center-of-mass-com-id47074.md)
+- [2026 05 19 Improved Python Package Installation Slicer Packaging](2026-05-19-improved-python-package-installation-slicer-packaging-id47088.md)
 - [2026 05 19 Re Vulnerability Disclosure 3D Slicer Display And Spatial Co](2026-05-19-re-vulnerability-disclosure-3d-slicer-display-and-spatial-co-id47072.md)
+- [2026 05 19 Slicermorph Segment Endocranium Taking Too Long](2026-05-19-slicermorph-segment-endocranium-taking-too-long-id47093.md)
