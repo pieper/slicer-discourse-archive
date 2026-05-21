@@ -49,3 +49,6 @@
 - [2026 05 19 Improved Python Package Installation Slicer Packaging](2026-05-19-improved-python-package-installation-slicer-packaging-id47088.md)
 - [2026 05 19 Re Vulnerability Disclosure 3D Slicer Display And Spatial Co](2026-05-19-re-vulnerability-disclosure-3d-slicer-display-and-spatial-co-id47072.md)
 - [2026 05 19 Slicermorph Segment Endocranium Taking Too Long](2026-05-19-slicermorph-segment-endocranium-taking-too-long-id47093.md)
+- [2026 05 20 Obscuring Bone Removal For 3D Viz Of Cardiac Cta](2026-05-20-obscuring-bone-removal-for-3d-viz-of-cardiac-cta-id47095.md)
+- [2026 05 20 Slicer 5 11 0 Crashes Immediately When Switching To Nnintera](2026-05-20-slicer-5-11-0-crashes-immediately-when-switching-to-nnintera-id47098.md)
+- [2026 05 20 Workflow For Segmenting Many Lesions As Separate Segments](2026-05-20-workflow-for-segmenting-many-lesions-as-separate-segments-id47094.md)

@@ -1,10 +1,10 @@
 # Slicer Discourse Archive Index
 
-Last updated: 2026-05-20 04:24 UTC
+Last updated: 2026-05-21 04:27 UTC
 
 ## Archive Contents
 
-- Total rendered topics: 18964
+- Total rendered topics: 18967
 - Raw JSON files: 0
 
 ## Recent Topics
@@ -18,12 +18,18 @@ Last updated: 2026-05-20 04:24 UTC
 - [README.md](archive/rendered-topics/2018/2018-03/README.md)
 - [README.md](archive/rendered-topics/2018/2018-02/README.md)
 - [README.md](archive/rendered-topics/2018/2018-01/README.md)
+- [load multiple cardiac phases for segmentation virtual realit](archive/rendered-topics/2018/2018-12/2018-12-29-load-multiple-cardiac-phases-for-segmentation-virtual-realit-id5214.md)
+- [problem with loading files](archive/rendered-topics/2018/2018-12/2018-12-29-problem-with-loading-files-id5223.md)
 - [segmenteditorextraeffects extension installed but cannot be](archive/rendered-topics/2018/2018-12/2018-12-29-segmenteditorextraeffects-extension-installed-but-cannot-be-id5221.md)
 - [create a preset in volume rendering module](archive/rendered-topics/2018/2018-12/2018-12-30-create-a-preset-in-volume-rendering-module-id5227.md)
 - [dicom image intensity rescaling using non linear regression](archive/rendered-topics/2018/2018-12/2018-12-30-dicom-image-intensity-rescaling-using-non-linear-regression-id5228.md)
 - [model does not close after hollowing](archive/rendered-topics/2018/2018-12/2018-12-30-model-does-not-close-after-hollowing-id5232.md)
 - [registration and label statistics](archive/rendered-topics/2018/2018-12/2018-12-30-registration-and-label-statistics-id5229.md)
 - [the direction of x and y jaw position in beams module](archive/rendered-topics/2018/2018-12/2018-12-30-the-direction-of-x-and-y-jaw-position-in-beams-module-id5226.md)
+- [place fiducials](archive/rendered-topics/2018/2018-12/2018-12-23-place-fiducials-id5178.md)
+- [trasformation matrix to assess displacement](archive/rendered-topics/2018/2018-12/2018-12-23-trasformation-matrix-to-assess-displacement-id5175.md)
+- [ui problems menu bar cut off mouse click offset](archive/rendered-topics/2018/2018-12/2018-12-23-ui-problems-menu-bar-cut-off-mouse-click-offset-id5179.md)
+- [how to measure the adc value dwi and rcbv in brain mri is th](archive/rendered-topics/2018/2018-12/2018-12-24-how-to-measure-the-adc-value-dwi-and-rcbv-in-brain-mri-is-th-id5186.md)
 - [loading ct 3d dicom files](archive/rendered-topics/2018/2018-12/2018-12-24-loading-ct-3d-dicom-files-id5185.md)
 - [segmentation of multi volume sequence](archive/rendered-topics/2018/2018-12/2018-12-25-segmentation-of-multi-volume-sequence-id5187.md)
 - [adding custom tags to subject without creating exporting dic](archive/rendered-topics/2018/2018-12/2018-12-26-adding-custom-tags-to-subject-without-creating-exporting-dic-id5189.md)
@@ -35,8 +41,9 @@ Last updated: 2026-05-20 04:24 UTC
 - [export roi box to json file](archive/rendered-topics/2018/2018-12/2018-12-28-export-roi-box-to-json-file-id5210.md)
 - [export volume with burnt in segmentation](archive/rendered-topics/2018/2018-12/2018-12-28-export-volume-with-burnt-in-segmentation-id5216.md)
 - [emsegmentation cannot found](archive/rendered-topics/2018/2018-12/2018-12-29-emsegmentation-cannot-found-id5222.md)
-- [load multiple cardiac phases for segmentation virtual realit](archive/rendered-topics/2018/2018-12/2018-12-29-load-multiple-cardiac-phases-for-segmentation-virtual-realit-id5214.md)
-- [problem with loading files](archive/rendered-topics/2018/2018-12/2018-12-29-problem-with-loading-files-id5223.md)
+- [initial transform as a deformation field nrrd](archive/rendered-topics/2018/2018-12/2018-12-18-initial-transform-as-a-deformation-field-nrrd-id5130.md)
+- [macos mojave slicer4 10 install](archive/rendered-topics/2018/2018-12/2018-12-18-macos-mojave-slicer4-10-install-id5126.md)
+- [size of stl obj files too many triangles](archive/rendered-topics/2018/2018-12/2018-12-18-size-of-stl-obj-files-too-many-triangles-id5137.md)
 - [best viewer to see your exported models](archive/rendered-topics/2018/2018-12/2018-12-19-best-viewer-to-see-your-exported-models-id5139.md)
 - [creating a volume from stl](archive/rendered-topics/2018/2018-12/2018-12-19-creating-a-volume-from-stl-id5144.md)
 - [pet image quntification](archive/rendered-topics/2018/2018-12/2018-12-19-pet-image-quntification-id5141.md)
@@ -51,11 +58,4 @@ Last updated: 2026-05-20 04:24 UTC
 - [using slicer to create a model of middle ear anatomy](archive/rendered-topics/2018/2018-12/2018-12-21-using-slicer-to-create-a-model-of-middle-ear-anatomy-id5169.md)
 - [opencad 3d slicer breast dce mri](archive/rendered-topics/2018/2018-12/2018-12-22-opencad-3d-slicer-breast-dce-mri-id5172.md)
 - [organizing dicom files to be able to have a 3d view](archive/rendered-topics/2018/2018-12/2018-12-23-organizing-dicom-files-to-be-able-to-have-a-3d-view-id5180.md)
-- [place fiducials](archive/rendered-topics/2018/2018-12/2018-12-23-place-fiducials-id5178.md)
-- [trasformation matrix to assess displacement](archive/rendered-topics/2018/2018-12/2018-12-23-trasformation-matrix-to-assess-displacement-id5175.md)
-- [ui problems menu bar cut off mouse click offset](archive/rendered-topics/2018/2018-12/2018-12-23-ui-problems-menu-bar-cut-off-mouse-click-offset-id5179.md)
-- [how to measure the adc value dwi and rcbv in brain mri is th](archive/rendered-topics/2018/2018-12/2018-12-24-how-to-measure-the-adc-value-dwi-and-rcbv-in-brain-mri-is-th-id5186.md)
-- [improving manual segmentation of mri images using automatic](archive/rendered-topics/2018/2018-12/2018-12-16-improving-manual-segmentation-of-mri-images-using-automatic-id5087.md)
-- [light weigh robot igt](archive/rendered-topics/2018/2018-12/2018-12-16-light-weigh-robot-igt-id5094.md)
-- [hangout](archive/rendered-topics/2018/2018-12/2018-12-17-2018-12-18-hangout-id5112.md)
-- [calculating the total volume of organ which is placed in two](archive/rendered-topics/2018/2018-12/2018-12-17-calculating-the-total-volume-of-organ-which-is-placed-in-two-id5104.md)
+- [apply deconvolution filter on the image to correct blurring](archive/rendered-topics/2018/2018-12/2018-12-16-apply-deconvolution-filter-on-the-image-to-correct-blurring-id5091.md)
