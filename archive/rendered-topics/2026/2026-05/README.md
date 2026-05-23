@@ -58,3 +58,4 @@
 - [2026 05 21 Re Vulnerability Disclosure 3D Slicer Display And Spatial Co](2026-05-21-re-vulnerability-disclosure-3d-slicer-display-and-spatial-co-id47110.md)
 - [2026 05 21 Swissskullstripper Is Having Trouble With Multiple Splices A](2026-05-21-swissskullstripper-is-having-trouble-with-multiple-splices-a-id47111.md)
 - [2026 05 21 Trame Slicer V1 9 0 V1 11 0 Highlights](2026-05-21-trame-slicer-v1-9-0-v1-11-0-highlights-id47112.md)
+- [2026 05 22 On End Capping In Slicer Vs A Commercial Software Treatment](2026-05-22-on-end-capping-in-slicer-vs-a-commercial-software-treatment-id47118.md)
