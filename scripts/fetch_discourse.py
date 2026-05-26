@@ -167,13 +167,16 @@ def topic_output_paths(topic, target_dir):
     return json_path, md_path
 
 
-def save_topic(topic, target_dir, force=False, save_json=False):
-    """Save rendered markdown (and optionally raw JSON). Skip if already saved (unless force)."""
-    json_path, md_path = topic_output_paths(topic, target_dir)
+def save_topic(topic, target_dir, save_json=False):
+    """Save rendered markdown (and optionally raw JSON).
 
-    already_done = md_path.exists() and (not save_json or json_path.exists())
-    if not force and already_done:
-        return False  # already archived
+    Always re-renders when called: the previous "skip if .md exists" check
+    silently dropped new replies on bumped topics during incremental runs.
+    The API fetch is the expensive step and has already happened by the
+    time we reach here — the file write is cheap and idempotent, so just
+    do it.
+    """
+    json_path, md_path = topic_output_paths(topic, target_dir)
 
     md_path.parent.mkdir(parents=True, exist_ok=True)
 
@@ -184,8 +187,6 @@ def save_topic(topic, target_dir, force=False, save_json=False):
         json_path.parent.mkdir(parents=True, exist_ok=True)
         with open(json_path, "w", encoding="utf-8") as f:
             json.dump(topic, f, ensure_ascii=False, indent=2)
-
-    return True
 
 
 def get_all_topic_ids(base_url, api_key, api_username, _since_dt, debug):
@@ -358,13 +359,9 @@ def main():
                 skipped += 1
                 continue
 
-            was_saved = save_topic(topic, target_dir, force=args.full, save_json=args.save_json)
-            if was_saved:
-                saved += 1
-                print(f"  Saved ({len(topic.get('post_stream',{}).get('posts',[]))} posts)")
-            else:
-                skipped += 1
-                print(f"  Already up to date")
+            save_topic(topic, target_dir, save_json=args.save_json)
+            saved += 1
+            print(f"  Saved ({len(topic.get('post_stream',{}).get('posts',[]))} posts)")
 
         except Exception as e:
             print(f"  ERROR: {e}", flush=True)
