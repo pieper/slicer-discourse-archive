@@ -1,8 +1,9 @@
 ---
 topic_id: 46243
-title: "New Slicer Skill Ai Tool"
+title: "New slicer-skill ai tool"
 date: 2026-02-22
 url: https://discourse.slicer.org/t/46243
+last_bumped: 2026-05-26T16:49:01.000Z
 ---
 
 # New slicer-skill ai tool
@@ -786,5 +787,24 @@ Use this skill when:
 </code></pre>
 <p>you should be back in business.</p>
 <p>Also, as a side note on the current main branch, I’ve added some new search tooling beyond grep, so I hope it’s now more efficient at finding the right code to learn from. (it runs an embedding in the background so the script exits by then the python process will run another 20 minutes or so).</p>
+
+---
+
+## Post #34 by @Yaroslav_Plutenko (2026-05-26 16:42 UTC)
+
+<p>Yes, got updated, thank you!</p>
+
+---
+
+## Post #35 by @pieper (2026-05-26 16:45 UTC)
+
+<p>BTW, after playing with it a bit I noticed some discourse topic threads weren’t getting updated to the github archive so there are a few more tweaks to the github action script I’m testing now.  The skill should automatically update over the course of a few days.</p>
+
+---
+
+## Post #36 by @mhalle (2026-05-26 16:49 UTC)
+
+<p>Having the skill use the Discourse APi works well for me. It saves large downloads and provides effective search for the Slicer forum.</p>
+<p>-Mike</p>
 
 ---
