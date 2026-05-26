@@ -1,8 +1,9 @@
 ---
 topic_id: 32432
-title: "New Feature Thick Slab Reconstruction From Slice Controllers"
+title: "New feature: Thick slab reconstruction from slice controllers and views"
 date: 2023-10-26
 url: https://discourse.slicer.org/t/32432
+last_bumped: 2026-04-17T23:18:51.976Z
 ---
 
 # New feature: Thick slab reconstruction from slice controllers and views
@@ -182,5 +183,187 @@ However, the slab thickness seems to not work correctly on my data. As you can s
 </aside>
 
 <p>Most likely the <code>slabNumberOfSlices</code> and <code>slabSliceSpacingFraction</code> computation has to be fixed.</p>
+
+---
+
+## Post #14 by @Antmaker (2026-04-17 23:18 UTC)
+
+<p>I am able to replicate this behavior on Slicer v.5.10.0 on Linux and am trying to understand this behavior.</p>
+<aside class="quote no-group" data-username="lassoan" data-post="13" data-topic="32432">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="24" height="24" src="https://sea2.discourse-cdn.com/flex002/user_avatar/discourse.slicer.org/lassoan/48/13_2.png" class="avatar"> lassoan:</div>
+<blockquote>
+<p>Most likely the <code>slabNumberOfSlices</code> and <code>slabSliceSpacingFraction</code> computation has to be fixed.</p>
+</blockquote>
+</aside>
+<p>Due to my limited understanding of how 3D Slicer works, I am thinking this is more of my ignorance instead of anything needing fixing.</p>
+<p>Could the masters point me in the right direction?</p>
+<h3><a name="p-133251-use-case-1" class="anchor" href="#p-133251-use-case-1" aria-label="Heading link"></a>Use Case</h3>
+<p>I have a masked scalar volume that I got by using the Mask Scalar Volume module. Now, I am trying to get the Max Intensity Projection (MIP) in coronal view.<br>
+However, I am seeing the same behavior as <a href="https://discourse.slicer.org/t/new-feature-thick-slab-reconstruction-from-slice-controllers-and-views/32432/9" class="inline-onebox">New feature: Thick slab reconstruction from slice controllers and views - #9 by ZhsChen</a>.</p>
+<h3><a name="p-133251-questions-2" class="anchor" href="#p-133251-questions-2" aria-label="Heading link"></a>Questions</h3>
+<p>What is “prescribed slice spacing?” The <a href="https://apidocs.slicer.org/v5.8/classvtkMRMLSliceNode.html#a32489c34dc8daf5d61c8c536f3e5bd16" rel="noopener nofollow ugc">3D Slicer Documentation</a> nor Github source search revealed anything informative unfortunately.</p>
+<aside class="onebox githubblob" data-onebox-src="https://github.com/Slicer/Slicer/blob/05e03affb0c0eebde451d452c36fb2d84a5828f6/Libs/MRML/Logic/vtkMRMLSliceLogic.cxx#L1002">
+  <header class="source">
+
+      <a href="https://github.com/Slicer/Slicer/blob/05e03affb0c0eebde451d452c36fb2d84a5828f6/Libs/MRML/Logic/vtkMRMLSliceLogic.cxx#L1002" target="_blank" rel="noopener nofollow ugc">github.com/Slicer/Slicer</a>
+  </header>
+
+  <article class="onebox-body">
+    <h4><a href="https://github.com/Slicer/Slicer/blob/05e03affb0c0eebde451d452c36fb2d84a5828f6/Libs/MRML/Logic/vtkMRMLSliceLogic.cxx#L1002" target="_blank" rel="noopener nofollow ugc">Libs/MRML/Logic/vtkMRMLSliceLogic.cxx</a></h4>
+
+<div class="git-blob-info">
+  <a href="https://github.com/Slicer/Slicer/blob/05e03affb0c0eebde451d452c36fb2d84a5828f6/Libs/MRML/Logic/vtkMRMLSliceLogic.cxx#L1002" rel="noopener nofollow ugc"><code>05e03affb</code></a>
+</div>
+
+
+
+    <pre class="onebox"><code class="lang-cxx">
+      <ol class="start lines" start="992" style="counter-reset: li-counter 991 ;">
+          <li>{</li>
+          <li>  return;</li>
+          <li>}</li>
+          <li></li>
+          <li>vtkImageReslice* reslice = sliceLayerLogic-&gt;GetReslice();</li>
+          <li>vtkMRMLSliceNode* sliceNode = sliceLayerLogic-&gt;GetSliceNode();</li>
+          <li></li>
+          <li>double sliceSpacing;</li>
+          <li>if (sliceNode-&gt;GetSliceSpacingMode() == vtkMRMLSliceNode::PrescribedSliceSpacingMode)</li>
+          <li>{</li>
+          <li class="selected">  sliceSpacing = sliceNode-&gt;GetPrescribedSliceSpacing()[2];</li>
+          <li>}</li>
+          <li>else</li>
+          <li>{</li>
+          <li>  sliceSpacing = sliceLogic-&gt;GetLowestVolumeSliceSpacing()[2];</li>
+          <li>}</li>
+          <li></li>
+          <li>int slabNumberOfSlices = 1;</li>
+          <li>if (sliceNode-&gt;GetSlabReconstructionEnabled()</li>
+          <li>    &amp;&amp; sliceSpacing &gt; 0</li>
+          <li>    &amp;&amp; sliceNode-&gt;GetSlabReconstructionThickness() &gt; sliceSpacing</li>
+      </ol>
+    </code></pre>
+
+
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
+<p>The “slice spacing” the getter is getting is the thickness of each slice, thus it is the diff of the mm change as I scroll through the slice viewports.</p>
+<aside class="onebox githubblob" data-onebox-src="https://github.com/Slicer/Slicer/blob/05e03affb0c0eebde451d452c36fb2d84a5828f6/Libs/MRML/Logic/vtkMRMLSliceLogic.cxx#L1006">
+  <header class="source">
+
+      <a href="https://github.com/Slicer/Slicer/blob/05e03affb0c0eebde451d452c36fb2d84a5828f6/Libs/MRML/Logic/vtkMRMLSliceLogic.cxx#L1006" target="_blank" rel="noopener nofollow ugc">github.com/Slicer/Slicer</a>
+  </header>
+
+  <article class="onebox-body">
+    <h4><a href="https://github.com/Slicer/Slicer/blob/05e03affb0c0eebde451d452c36fb2d84a5828f6/Libs/MRML/Logic/vtkMRMLSliceLogic.cxx#L1006" target="_blank" rel="noopener nofollow ugc">Libs/MRML/Logic/vtkMRMLSliceLogic.cxx</a></h4>
+
+<div class="git-blob-info">
+  <a href="https://github.com/Slicer/Slicer/blob/05e03affb0c0eebde451d452c36fb2d84a5828f6/Libs/MRML/Logic/vtkMRMLSliceLogic.cxx#L1006" rel="noopener nofollow ugc"><code>05e03affb</code></a>
+</div>
+
+
+
+    <pre class="onebox"><code class="lang-cxx">
+      <ol class="start lines" start="996" style="counter-reset: li-counter 995 ;">
+          <li>vtkImageReslice* reslice = sliceLayerLogic-&gt;GetReslice();</li>
+          <li>vtkMRMLSliceNode* sliceNode = sliceLayerLogic-&gt;GetSliceNode();</li>
+          <li></li>
+          <li>double sliceSpacing;</li>
+          <li>if (sliceNode-&gt;GetSliceSpacingMode() == vtkMRMLSliceNode::PrescribedSliceSpacingMode)</li>
+          <li>{</li>
+          <li>  sliceSpacing = sliceNode-&gt;GetPrescribedSliceSpacing()[2];</li>
+          <li>}</li>
+          <li>else</li>
+          <li>{</li>
+          <li class="selected">  sliceSpacing = sliceLogic-&gt;GetLowestVolumeSliceSpacing()[2];</li>
+          <li>}</li>
+          <li></li>
+          <li>int slabNumberOfSlices = 1;</li>
+          <li>if (sliceNode-&gt;GetSlabReconstructionEnabled()</li>
+          <li>    &amp;&amp; sliceSpacing &gt; 0</li>
+          <li>    &amp;&amp; sliceNode-&gt;GetSlabReconstructionThickness() &gt; sliceSpacing</li>
+          <li>    )</li>
+          <li>{</li>
+          <li>  slabNumberOfSlices = static_cast&lt;int&gt;(sliceNode-&gt;GetSlabReconstructionThickness() / sliceSpacing);</li>
+          <li>}</li>
+      </ol>
+    </code></pre>
+
+
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
+<p>The <code>SlabReconstructionOversamplingFactor</code> is something similar to “Oversampling factor” under Segmentation geometry of the Segment Editor module? <a href="https://apidocs.slicer.org/v5.8/classvtkMRMLSliceNode.html#af660d323ab57ce22ea8ffdf3554e921e" rel="noopener nofollow ugc">3D Slicer Documentation</a> also did not specify what this attribute that the getter is getting mean.</p>
+<aside class="onebox githubblob" data-onebox-src="https://github.com/Slicer/Slicer/blob/05e03affb0c0eebde451d452c36fb2d84a5828f6/Libs/MRML/Logic/vtkMRMLSliceLogic.cxx#L1021">
+  <header class="source">
+
+      <a href="https://github.com/Slicer/Slicer/blob/05e03affb0c0eebde451d452c36fb2d84a5828f6/Libs/MRML/Logic/vtkMRMLSliceLogic.cxx#L1021" target="_blank" rel="noopener nofollow ugc">github.com/Slicer/Slicer</a>
+  </header>
+
+  <article class="onebox-body">
+    <h4><a href="https://github.com/Slicer/Slicer/blob/05e03affb0c0eebde451d452c36fb2d84a5828f6/Libs/MRML/Logic/vtkMRMLSliceLogic.cxx#L1021" target="_blank" rel="noopener nofollow ugc">Libs/MRML/Logic/vtkMRMLSliceLogic.cxx</a></h4>
+
+<div class="git-blob-info">
+  <a href="https://github.com/Slicer/Slicer/blob/05e03affb0c0eebde451d452c36fb2d84a5828f6/Libs/MRML/Logic/vtkMRMLSliceLogic.cxx#L1021" rel="noopener nofollow ugc"><code>05e03affb</code></a>
+</div>
+
+
+
+    <pre class="onebox"><code class="lang-cxx">
+      <ol class="start lines" start="1011" style="counter-reset: li-counter 1010 ;">
+          <li>      &amp;&amp; sliceSpacing &gt; 0</li>
+          <li>      &amp;&amp; sliceNode-&gt;GetSlabReconstructionThickness() &gt; sliceSpacing</li>
+          <li>      )</li>
+          <li>  {</li>
+          <li>    slabNumberOfSlices = static_cast&lt;int&gt;(sliceNode-&gt;GetSlabReconstructionThickness() / sliceSpacing);</li>
+          <li>  }</li>
+          <li>  reslice-&gt;SetSlabNumberOfSlices(slabNumberOfSlices);</li>
+          <li></li>
+          <li>  reslice-&gt;SetSlabMode(sliceNode-&gt;GetSlabReconstructionType());</li>
+          <li></li>
+          <li class="selected">  double slabSliceSpacingFraction = sliceSpacing / sliceNode-&gt;GetSlabReconstructionOversamplingFactor();</li>
+          <li>  reslice-&gt;SetSlabSliceSpacingFraction(slabSliceSpacingFraction);</li>
+          <li>}</li>
+          <li></li>
+          <li>//----------------------------------------------------------------------------</li>
+          <li>void vtkMRMLSliceLogic::UpdatePipeline()</li>
+          <li>{</li>
+          <li>  int modified = 0;</li>
+          <li>  if ( this-&gt;SliceCompositeNode )</li>
+          <li>  {</li>
+          <li>    // get the background and foreground image data from the layers</li>
+      </ol>
+    </code></pre>
+
+
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
 
 ---

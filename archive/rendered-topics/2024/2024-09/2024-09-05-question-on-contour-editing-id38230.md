@@ -1,8 +1,9 @@
 ---
 topic_id: 38230
-title: "Question On Contour Editing"
+title: "Question on Contour Editing"
 date: 2024-09-05
 url: https://discourse.slicer.org/t/38230
+last_bumped: 2026-04-29T19:29:12.167Z
 ---
 
 # Question on Contour Editing
@@ -263,5 +264,11 @@ This way the user will have this “ModelDraw-way” of modifying the slices, in
 One big shortcoming was that the number of control points could not be changed for a given label. I kinda know the reason, so this is not a criticism! <img src="https://emoji.discourse-cdn.com/twitter/slight_smile.png?v=14" title=":slight_smile:" class="emoji" alt=":slight_smile:" loading="lazy" width="20" height="20"><br>
 On the other hand, the big advantage was that we could use curves to delineate the structures and then apply the labelmap (would be segment nowadays <img src="https://emoji.discourse-cdn.com/twitter/slight_smile.png?v=14" title=":slight_smile:" class="emoji" alt=":slight_smile:" loading="lazy" width="20" height="20"> ).<br>
 So yes, being able to use a closed curve tracing would be neat!</p>
+
+---
+
+## Post #21 by @aabrown100-git (2026-04-29 19:29 UTC)
+
+<p>Just found this thread and would love to use some of the functionality discussed here. Are there any updates? Were any of these ideas developed further?</p>
 
 ---

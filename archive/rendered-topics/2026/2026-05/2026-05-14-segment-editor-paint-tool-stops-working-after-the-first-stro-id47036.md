@@ -1,8 +1,9 @@
 ---
 topic_id: 47036
-title: "Segment Editor Paint Tool Stops Working After The First Stro"
+title: "Segment Editor Paint tool stops working after the first stroke"
 date: 2026-05-14
 url: https://discourse.slicer.org/t/47036
+last_bumped: 2026-05-18T08:42:44.107Z
 ---
 
 # Segment Editor Paint tool stops working after the first stroke
@@ -84,5 +85,48 @@ url: https://discourse.slicer.org/t/47036
 </blockquote>
 </aside>
 <p>What happens you to go Data module, delete the existing segmentation object, right click on your volume and choose “Segment this” and then redo the segmentation?</p>
+
+---
+
+## Post #3 by @Riccardo_Serenella (2026-05-15 07:07 UTC)
+
+<p>Hi, thank you for your answer.</p>
+<p>I tried many times and I tried this kind of way too, bu it seems to be stuck. I also tried to uninstall and do the installation again.</p>
+<p>First it happened on a WorkStation and then when I tried to do a workaround by installing Slicer on a laptop after playing a bit it happened anyway and in the same way.</p>
+
+---
+
+## Post #4 by @muratmaga (2026-05-15 20:04 UTC)
+
+<p>A lot of people are using the segment editor and this functionality daily on the v5.10.0 with the problem. So the chances are this problem is unique to your data and/or computer settings you are using. We might help more if you can share your data.</p>
+
+---
+
+## Post #5 by @Riccardo_Serenella (2026-05-18 07:21 UTC)
+
+<p>Unfortunately I can’t share my dataset. As far as the computer is concerned, I’m sure that the laptop has standard settings, maybe the bug is in the data, but this feels a little bit weird because I’m working on this data set for a bit and it started doing this at random time.</p>
+<p>Any other kind of workaround?</p>
+<p>Thank you for you time</p>
+
+---
+
+## Post #6 by @pieper (2026-05-18 07:26 UTC)
+
+<p>Can you reproduce this issue on any public datasets?  Does it happen on other data you have?  Can you describe anything unizue about the data where this happens?</p>
+
+---
+
+## Post #7 by @Riccardo_Serenella (2026-05-18 07:46 UTC)
+
+<p>Hi could you link a public dataset where I can test this?</p>
+<p>Meanwhile I think I can share a little video of what happens.</p>
+<p></p><div class="video-placeholder-container" data-video-src="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/c/a/caa03c99eafd22c230f5f188362637a7b737559d.mp4" data-thumbnail-src="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/d/1/d1a3895705f190adc8e2795473e79039a721e72e.jpeg" data-video-base62-sha1="sUvKMMUGjfKE7ssZCFwKth1I2QJ.mp4">
+  </div><p></p>
+
+---
+
+## Post #8 by @cpinter (2026-05-18 08:42 UTC)
+
+<p>There are many datasets in the Sample Data module that you can choose from. The module is available in Slicer core, and there is a button from the Welcome module (“Download Sample Data” on the right side) when you start Slicer, easy to find.</p>
 
 ---

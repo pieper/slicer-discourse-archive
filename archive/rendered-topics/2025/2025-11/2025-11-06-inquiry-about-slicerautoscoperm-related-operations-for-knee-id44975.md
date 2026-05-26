@@ -1,8 +1,9 @@
 ---
 topic_id: 44975
-title: "Inquiry About Slicerautoscoperm Related Operations For Knee"
+title: "Inquiry about SlicerAutoscoperM-related Operations for Knee Joint Research and Video Tutorials"
 date: 2025-11-06
 url: https://discourse.slicer.org/t/44975
+last_bumped: 2026-04-21T15:26:56.059Z
 ---
 
 # Inquiry about SlicerAutoscoperM-related Operations for Knee Joint Research and Video Tutorials
@@ -27,5 +28,11 @@ url: https://discourse.slicer.org/t/44975
 <p>Additionally, you can reach out to our team! (contact information in our website). We, by demand, sometimes hold office hours.</p>
 <p>HTH</p>
 <p>Bea</p>
+
+---
+
+## Post #3 by @HHH (2026-04-21 15:26 UTC)
+
+<p>Hi, I have the same questions and would appreciate guidance on solving them, plus more detailed tutorials if available. Thanks!</p>
 
 ---

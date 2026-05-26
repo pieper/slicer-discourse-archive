@@ -1,8 +1,9 @@
 ---
 topic_id: 1544
-title: "Cardiac Agatston Scoring Module"
+title: "Cardiac Agatston Scoring module"
 date: 2017-11-28
 url: https://discourse.slicer.org/t/1544
+last_bumped: 2026-03-31T00:46:56.914Z
 ---
 
 # Cardiac Agatston Scoring module
@@ -391,5 +392,35 @@ slices interpolation, reslicing with 3mm and start the algo ?</p>
 ## Post #35 by @lassoan (2024-06-16 17:56 UTC)
 
 <p>All these calcium scoring algorithms are trivial to implement, but there are many small decisions to make, which may significantly affect the final scores. If you can create 10 sample data sets (you can get the images from any public cardiac CT data sets) and get calcium scores for them by using a few commercial packages then I can help you to put together a very nice, robust, and convenient Slicer module in a few days.</p>
+
+---
+
+## Post #36 by @pspsps (2026-03-31 00:46 UTC)
+
+<p>If anyone is interested, Stanford provides a dataset of coronary CT DICOMs with corresponding coronary artery calcium segmentations and scores.</p>
+<aside class="onebox allowlistedgeneric" data-onebox-src="https://aimi.stanford.edu/datasets/coca-coronary-calcium-chest-ct">
+  <header class="source">
+      <img src="https://aimi.stanford.edu/profiles/custom/stanford_profile/themes/stanford_basic/favicon.ico" class="site-icon" alt="" width="64" height="64">
+
+      <a href="https://aimi.stanford.edu/datasets/coca-coronary-calcium-chest-ct" target="_blank" rel="noopener nofollow ugc">Center for Artificial Intelligence in Medicine &amp; Imaging</a>
+  </header>
+
+  <article class="onebox-body">
+    
+
+<h3><a href="https://aimi.stanford.edu/datasets/coca-coronary-calcium-chest-ct" target="_blank" rel="noopener nofollow ugc">COCA- Coronary Calcium and chest CT’s</a></h3>
+
+
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
 
 ---

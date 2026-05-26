@@ -1,8 +1,9 @@
 ---
 topic_id: 35591
-title: "New Extension Dentalsegmentator For Automatic Dental Ct Cbct"
+title: "New extension: DentalSegmentator for automatic dental CT & CBCT segmentation"
 date: 2024-04-18
 url: https://discourse.slicer.org/t/35591
+last_bumped: 2026-05-11T00:05:40.713Z
 ---
 
 # New extension: DentalSegmentator for automatic dental CT & CBCT segmentation
@@ -173,5 +174,26 @@ dr haider<br>
 ## Post #26 by @Aleksandr_Rybakov (2026-02-09 16:20 UTC)
 
 <p>I wish we could use UniversalLabDentalSegmentator model in this plugin.</p>
+
+---
+
+## Post #27 by @Andrii_Hresko (2026-05-04 18:31 UTC)
+
+<p>Sorry, I can’t find dental modul. is it still available?</p>
+
+---
+
+## Post #28 by @Thibault_Pelletier (2026-05-05 15:07 UTC)
+
+<p><a class="mention" href="/u/andrii_hresko">@Andrii_Hresko</a> yes the extension is still available. If it’s not visible it may be related to a problem building / wrapping the extension for your platform / Slicer version.</p>
+<p>Could you tell me on which OS and Slicer version you didn’t fin the extension so that I can have a look?</p>
+<p>Best,<br>
+Thibault</p>
+
+---
+
+## Post #29 by @lassoan (2026-05-11 00:05 UTC)
+
+<p>For your information, per-tooth segmentation is now available in TotalSegmentator extension.</p>
 
 ---

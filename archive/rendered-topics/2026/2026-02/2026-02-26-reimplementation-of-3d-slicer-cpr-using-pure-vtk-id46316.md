@@ -1,8 +1,9 @@
 ---
 topic_id: 46316
-title: "Reimplementation Of 3D Slicer Cpr Using Pure Vtk"
+title: "Reimplementation of 3D slicer CPR using pure VTK"
 date: 2026-02-26
 url: https://discourse.slicer.org/t/46316
+last_bumped: 2026-04-20T03:19:38.950Z
 ---
 
 # Reimplementation of 3D slicer CPR using pure VTK
@@ -73,5 +74,67 @@ url: https://discourse.slicer.org/t/46316
 <p>I’m looking to use VTK Wasm to implement this. My question is:<br>
 Since Slicer’s CPR extension is made specifically for Slicer, is it possible to translate those Slicer’s MRML abstractions to pure vtk/vtk.js code?<br>
 How should I approach this?</p>
+
+---
+
+## Post #2 by @Thibault_Pelletier (2026-03-03 07:33 UTC)
+
+<p>Hi <a class="mention" href="/u/s-linh">@S-Linh</a>,</p>
+<p>VTK js already has a CPR implementation : <a href="https://kitware.github.io/vtk-js/api/Rendering_Core_ImageCPRMapper.html" class="inline-onebox" rel="noopener nofollow ugc">ImageCPRMapper | VTK.js</a></p>
+<p>There is also a pure VTK CPR implementation available through the <a href="https://vtk.org/doc/nightly/html/classvtkOpenGLSurfaceProbeVolumeMapper.html" rel="noopener nofollow ugc">vtkOpenGLSurfaceProbeVolumeMapper</a></p>
+<p>For the C++ implementation, you can have a look at the <a href="https://gitlab.kitware.com/vtk/vtk/-/blob/v9.6.0/Rendering/VolumeOpenGL2/Testing/Cxx/TestSurfaceProbeVolumeMapper.cxx" rel="noopener nofollow ugc">tests</a> for an example on how to use the mapper.</p>
+<p>For VTK js, you also have an <a href="https://github.com/Kitware/vtk-js/blob/3b54de3b9a8a338aa9dad237efe24045dfb6e8b1/Sources/Rendering/Core/ImageCPRMapper/example/index.js#L18" rel="noopener nofollow ugc">example available</a></p>
+<p>Best,<br>
+Thibault</p>
+
+---
+
+## Post #3 by @S_G (2026-04-17 19:03 UTC)
+
+<p>Hi <a class="mention" href="/u/s-linh">@S-Linh</a>,</p>
+<p>You don’t need to translate Slicer MRML. A more direct approach is to use <strong>VTK.js ImageCPRMapper</strong> and integrate it within OHIF.</p>
+<p>I implemented a CPR prototype using:</p>
+<ul>
+<li>
+<p>VTK.js ImageCPRMapper for CPR rendering</p>
+</li>
+<li>
+<p>Custom Cornerstone3D CPR viewports, fully supporting native Cornerstone3D tools and interaction</p>
+</li>
+<li>
+<p>OHIF Viewer as the integration layer</p>
+</li>
+</ul>
+<p>It demonstrates:</p>
+<ul>
+<li>
+<p>Curved planar reformation viewport and cross-sectional viewports with custom tooling</p>
+</li>
+<li>
+<p>Real-time centerline editing with live CPR re-rendering</p>
+</li>
+<li>
+<p>Segmentation rendering pipeline integration</p>
+</li>
+</ul>
+<p></p><div class="video-placeholder-container" data-video-src="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/7/e/7eb406b4b6ae099ccfee8430a1a6d2e35efcf152.mp4" data-thumbnail-src="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/3/1/317b5a41d807e5cf52457ba7eb7cb8e90dc05408.jpeg" data-video-base62-sha1="i4RRFrAHD3c5HpCYE5kwMqwzA0q.mp4">
+  </div><p></p>
+
+---
+
+## Post #4 by @S-Linh (2026-04-20 02:59 UTC)
+
+<p><a class="mention" href="/u/s_g">@S_G</a> Hi Gaber, Can you share the source code of your CPR prototype?</p>
+
+---
+
+## Post #5 by @S-Linh (2026-04-20 03:19 UTC)
+
+<p><a class="mention" href="/u/s_g">@S_G</a> I have questions, as I am new to all these:</p>
+<ul>
+<li>What are the 3 viewports on the right of the CPR viewport result? how do they work?</li>
+<li>How do you calculate the orientation of each centerline?</li>
+<li>Are you generating centerlines based on coronal/sagittal/axial view of the original CT dicom images?</li>
+</ul>
 
 ---

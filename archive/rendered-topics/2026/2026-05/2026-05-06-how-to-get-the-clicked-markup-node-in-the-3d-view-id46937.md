@@ -1,8 +1,9 @@
 ---
 topic_id: 46937
-title: "How To Get The Clicked Markup Node In The 3D View"
+title: "How to get the clicked markup node in the 3D view?"
 date: 2026-05-06
 url: https://discourse.slicer.org/t/46937
+last_bumped: 2026-05-07T14:31:35.394Z
 ---
 
 # How to get the clicked markup node in the 3D view?
@@ -65,5 +66,28 @@ tag = interactor.AddObserver(vtk.vtkCommand.LeftButtonPressEvent, onLeftClick, 0
 </ul>
 <p>For <strong>hover</strong> (highlight as the cursor moves), swap <code>LeftButtonPressEvent</code> for <code>vtk.vtkCommand.MouseMoveEvent</code>. Be sure to throttle — <code>Pick()</code> on every move event in a heavy scene will hurt FPS; a <code>qt.QTimer</code> with <code>setSingleShot(True)</code> reset on each move is the usual trick.</p>
 <p>If you also need this for markups specifically (control-point hover highlight), that’s done inside <code>vtkMRMLMarkupsDisplayableManager</code> via the <code>CanProcessInteractionEvent</code> / <code>ProcessInteractionEvent</code> API on <code>vtkMRMLAbstractDisplayableManager</code> — it’s the modern path for writing a custom interaction, but for “what node did the user click?” the snippet above is the simplest answer.</p>
+
+---
+
+## Post #3 by @NogginBops (2026-05-07 14:07 UTC)
+
+<p>Thanks for the reply.</p>
+<p>However it does seem that this doesn’t actually help me as the <code>vtkMRMLModelDisplayableManager</code> displayable manager doesn’t expose markups. I’m able to detect clicks on other model geometry, but not markups (with the caveat that the coordinate system for picking and mouse coordinates are flipped so you need to flip the y axis of the mouse position before calling <code>modelDM.Pick()</code>).</p>
+<p>So I decided to look at <code>vtkMRMLMarkupsDisplayableManager</code> but it seems like that doesn’t expose any functions related to picking. Looking at the code for <code>vtkMRMLMarkupsDisplayableManager</code> I can see that it does have internal code for picking (<code>vtkMRMLMarkupsDisplayableManager::FindClosestWidget</code>) but nothing that is publicly exposed.</p>
+<p>Is there any workaround for this or should I open an issue on github about this?</p>
+
+---
+
+## Post #4 by @pieper (2026-05-07 14:15 UTC)
+
+<p>I haven’t done that in a while, but this code may help:</p>
+<p><a href="https://github.com/Slicer/LandmarkRegistration/blob/master/RegistrationLib/Landmarks.py">https://github.com/Slicer/LandmarkRegistration/blob/master/RegistrationLib/Landmarks.py</a></p>
+
+---
+
+## Post #5 by @NogginBops (2026-05-07 14:31 UTC)
+
+<p>I don’t seem to be able to find any relevant code in the link you sent. The closest is some code that use the <code>PointModifiedEvent</code> and <code>PointEndInteractionEvent</code> events which I can’t use.</p>
+<p>I want to be able to left click on a region of interest and have my plugin get the region of interest that was clicked. I initially looked for relevant events on <code>vtkMRMLROINode</code> and <code>vtkMRMLROIDisplayNode</code> but they don’t expose any events, so that is why I look in the direction of pickers and the like.</p>
 
 ---

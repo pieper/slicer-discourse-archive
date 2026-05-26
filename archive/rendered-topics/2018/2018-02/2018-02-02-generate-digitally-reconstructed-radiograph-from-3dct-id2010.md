@@ -1,8 +1,9 @@
 ---
 topic_id: 2010
-title: "Generate Digitally Reconstructed Radiograph From 3Dct"
+title: "Generate digitally reconstructed radiograph from 3DCT"
 date: 2018-02-02
 url: https://discourse.slicer.org/t/2010
+last_bumped: 2026-03-20T11:51:38.815Z
 ---
 
 # Generate digitally reconstructed radiograph from 3DCT
@@ -573,5 +574,11 @@ That gives you a cropped volume orientated as default DICOM volume.</li>
 ## Post #44 by @fieldr4 (2022-12-11 15:26 UTC)
 
 <p>Thank you, Mik and Andras.</p>
+
+---
+
+## Post #45 by @Lucas7 (2026-03-20 11:51 UTC)
+
+<p>Hello, thank you for all of this information. I’m trying to generate multiple DRRs for a neural network training set. I want to maximize resolution, make the DRRs look as much like the XR as possible. Speed is not a huge issue for me. I’ve tried the volume rendering module but it doesn’t seem like I can get extremely high resolution. Maybe this is just a limit of DRR. Which method do you think will work best for my purpose?</p>
 
 ---

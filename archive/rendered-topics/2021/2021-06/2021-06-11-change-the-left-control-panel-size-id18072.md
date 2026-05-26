@@ -1,8 +1,9 @@
 ---
 topic_id: 18072
-title: "Change The Left Control Panel Size"
+title: "Change the left control panel size"
 date: 2021-06-11
 url: https://discourse.slicer.org/t/18072
+last_bumped: 2026-05-09T12:53:50.877Z
 ---
 
 # Change the left control panel size
@@ -45,5 +46,11 @@ Drag-and-drop the module panel to …
   </blockquote>
 </aside>
 
+
+---
+
+## Post #3 by @johny723 (2026-05-09 12:53 UTC)
+
+<p>Hi, how do I change the size of the left panel? Icons for modules on the left are rather small. Thank you.<div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/b/8/b858774361d36da0166bab9b899fba135d6d8be0.png" data-download-href="/uploads/short-url/qiNoi9skWQMGV2aCYa97xPqo6Dm.png?dl=1" title="Snímka obrazovky 2026-05-09 144651" rel="noopener nofollow ugc"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/b/8/b858774361d36da0166bab9b899fba135d6d8be0_2_690x387.png" alt="Snímka obrazovky 2026-05-09 144651" data-base62-sha1="qiNoi9skWQMGV2aCYa97xPqo6Dm" width="690" height="387" srcset="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/b/8/b858774361d36da0166bab9b899fba135d6d8be0_2_690x387.png, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/b/8/b858774361d36da0166bab9b899fba135d6d8be0_2_1035x580.png 1.5x, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/b/8/b858774361d36da0166bab9b899fba135d6d8be0_2_1380x774.png 2x" data-dominant-color="BDC0D9"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">Snímka obrazovky 2026-05-09 144651</span><span class="informations">1919×1078 471 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
 
 ---

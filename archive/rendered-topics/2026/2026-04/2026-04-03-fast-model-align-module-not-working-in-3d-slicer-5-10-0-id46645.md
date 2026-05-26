@@ -1,8 +1,9 @@
 ---
 topic_id: 46645
-title: "Fast Model Align Module Not Working In 3D Slicer 5 10 0"
+title: "Fast Model Align module not working in 3D Slicer 5.10.0"
 date: 2026-04-03
 url: https://discourse.slicer.org/t/46645
+last_bumped: 2026-04-03T04:02:26.882Z
 ---
 
 # Fast Model Align module not working in 3D Slicer 5.10.0
@@ -43,5 +44,11 @@ url: https://discourse.slicer.org/t/46645
 <p><strong>Problem:</strong> Fast Model Align loads, but only shows Help text — no functional options.</p>
 <p>Has anyone else experienced this issue? Is there a known fix or a specific build of SlicerMorph required for Fast Model Align to work with Slicer 5.10.0?</p>
 <p>Thanks in advance for any guidance!</p>
+
+---
+
+## Post #2 by @muratmaga (2026-04-03 04:02 UTC)
+
+<p>I can’t replicate this. UI shows correctly for me. Please open the log (CTRL+0) and paste whole log in here.</p>
 
 ---

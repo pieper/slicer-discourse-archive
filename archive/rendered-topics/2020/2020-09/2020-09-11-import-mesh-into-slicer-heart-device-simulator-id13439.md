@@ -1,8 +1,9 @@
 ---
 topic_id: 13439
-title: "Import Mesh Into Slicer Heart Device Simulator"
+title: "Import mesh into Slicer Heart device simulator"
 date: 2020-09-11
 url: https://discourse.slicer.org/t/13439
+last_bumped: 2026-03-06T10:30:12.080Z
 ---
 
 # Import mesh into Slicer Heart device simulator
@@ -134,5 +135,24 @@ Thank you again for all the help!<br>
 ## Post #9 by @lassoan (2020-09-17 21:23 UTC)
 
 <p>Yes, all presets are stored as csv files in the module’s directory. Shapes are generated using Python script, so you can define arbitrary shapes with minimal effort.</p>
+
+---
+
+## Post #10 by @Pawel_Zakrzewski (2026-03-05 12:54 UTC)
+
+<p>HI, how can I import my own model to Slicer Heart ? I Hawe STL file in data but i cant import to devices panel.</p>
+
+---
+
+## Post #11 by @drnoorfatima (2026-03-06 10:30 UTC)
+
+<p>The Devices panel in SlicerHeart does not pull from your scene models directly. It reads from its internal device registry, so an STL loaded normally will not appear there automatically.</p>
+<p>What you need to do is either:</p>
+<ol>
+<li>Load your STL normally via File &gt; Add Data, then in the <strong>Valve Model</strong> module manually assign your loaded model to the valve/device slot instead of picking from the device dropdown</li>
+<li>Or register your STL as a custom device by creating a simple Python descriptor class pointing to your file, which SlicerHeart then recognizes as a device</li>
+</ol>
+<p>Which approach works depends on exactly what you are trying to do with it inside SlicerHeart. The workflow is a bit different if you are doing annulus analysis vs just visualization.</p>
+<p>Feel free to DM me, I can take a look at your specific use case and tell you the exact steps. Quicker than going back and forth here.</p>
 
 ---

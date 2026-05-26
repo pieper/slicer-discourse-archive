@@ -1,8 +1,9 @@
 ---
 topic_id: 46690
-title: "Sharing Custom Presets"
+title: "Sharing custom presets"
 date: 2026-04-09
 url: https://discourse.slicer.org/t/46690
+last_bumped: 2026-04-23T21:18:01.916Z
 ---
 
 # Sharing custom presets
@@ -94,5 +95,88 @@ url: https://discourse.slicer.org/t/46690
 <p>This would create a PR for me to take a quick look and once merged it will be shown at <a href="https://github.com/SlicerMorph/VPs?tab=readme-ov-file" class="inline-onebox" rel="noopener nofollow ugc">GitHub - SlicerMorph/VPs: trial repo for sharing volume rendering properties · GitHub</a></p>
 <p>Note that I decided to use the new JSON based volume rendering property file as opposed to old txt file. Make sure you are trying with a preview version.</p>
 <p>Suggestions are welcomed.</p>
+
+---
+
+## Post #5 by @muratmaga (2026-04-23 18:01 UTC)
+
+<p>I have turned this into a module called <code>VRPresetHub</code> in SlicerMorph, it will be available for the preview builds tomorrow.</p>
+<p>It has two tabs, first one allows you to contribute your volume rendering preset to the public <a href="https://github.com/SlicerMorph/VPs" class="inline-onebox" rel="noopener nofollow ugc">GitHub - SlicerMorph/VPs: trial repo for sharing volume rendering properties · GitHub</a> repo (creates an issue and automatically opens a PR for me to review and merge).</p>
+<p>Second tab, <strong>PresetBrowser</strong> shows the available merged presets from the repo and lets you either import into the scene or directly apply to the currently active volume. Here is short demo (in video it shows the old module name, ignore that):</p>
+<p>Suggestions welcome.</p>
+<p><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/a/5/a500f0a9e41bf9d023d4a2cac2abe7d5a4190b0b.gif" alt="test" data-base62-sha1="nxGNoKQgnu7WWrgvLlfWJs1wjc7" width="625" height="500" class="animated"></p>
+
+---
+
+## Post #6 by @pieper (2026-04-23 18:46 UTC)
+
+<p>Cool!</p>
+<p>One thought: is there an easy way to restore the original property after testing?</p>
+
+---
+
+## Post #7 by @muratmaga (2026-04-23 19:35 UTC)
+
+<p>Not directly right now. It doesn’t overwrite the existing property, it simply replaces it with the new one. So if you know what the original one, you can go back to it at the Volume Rendering module.</p>
+<p>Thought it can be made more convenient I suppose.</p>
+
+---
+
+## Post #8 by @muratmaga (2026-04-23 21:18 UTC)
+
+<p>There is now a “Revert to original” button.</p>
+<aside class="onebox githubcommit" data-onebox-src="https://github.com/SlicerMorph/SlicerMorph/commit/62259fcf88b35a4b8c7d98f67baeba6f6285db81">
+  <header class="source">
+
+      <a href="https://github.com/SlicerMorph/SlicerMorph/commit/62259fcf88b35a4b8c7d98f67baeba6f6285db81" target="_blank" rel="noopener nofollow ugc">github.com/SlicerMorph/SlicerMorph</a>
+  </header>
+
+  <article class="onebox-body">
+    <div class="github-row">
+  <div class="github-icon-container" title="Commit">
+    <svg width="60" height="60" class="github-icon" viewBox="0 0 14 16" aria-hidden="true"><path fill-rule="evenodd" d="M10.86 7c-.45-1.72-2-3-3.86-3-1.86 0-3.41 1.28-3.86 3H0v2h3.14c.45 1.72 2 3 3.86 3 1.86 0 3.41-1.28 3.86-3H14V7h-3.14zM7 10.2c-1.22 0-2.2-.98-2.2-2.2 0-1.22.98-2.2 2.2-2.2 1.22 0 2.2.98 2.2 2.2 0 1.22-.98 2.2-2.2 2.2z"></path></svg>
+  </div>
+
+  <div class="github-info-container">
+    <h4>
+      <a href="https://github.com/SlicerMorph/SlicerMorph/commit/62259fcf88b35a4b8c7d98f67baeba6f6285db81" target="_blank" rel="noopener nofollow ugc">VRPresetHub: add 'Revert to Original' button (#448)</a>
+    </h4>
+
+    <div class="github-info">
+      <div class="date">
+        committed <span class="discourse-local-date" data-format="ll" data-date="2026-04-23" data-time="21:15:37" data-timezone="UTC">09:15PM - 23 Apr 26 UTC</span>
+      </div>
+
+      <div class="user">
+        <a href="https://github.com/muratmaga" target="_blank" rel="noopener nofollow ugc">
+          <img alt="" src="https://avatars.githubusercontent.com/u/21285140?v=4" class="onebox-avatar-inline" width="20" height="20">
+          muratmaga
+        </a>
+      </div>
+
+      <div class="lines" title="changed 1 files with 65 additions and 3 deletions">
+        <a href="https://github.com/SlicerMorph/SlicerMorph/commit/62259fcf88b35a4b8c7d98f67baeba6f6285db81" target="_blank" rel="noopener nofollow ugc">
+          <span class="added">+65</span>
+          <span class="removed">-3</span>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+
+  <div class="github-row">
+    <p class="github-body-container">SetAndObserveVolumePropertyNodeID() only swaps the display node's reference; the<span class="show-more-container"><a href="https://github.com/SlicerMorph/SlicerMorph/commit/62259fcf88b35a4b8c7d98f67baeba6f6285db81" target="_blank" rel="noopener nofollow ugc" class="show-more">…</a></span><span class="excerpt hidden"> previously bound VolumeProperty node remains in the scene unchanged. Just remember its id and rebind on Revert -- no cloning needed.</span></p>
+  </div>
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
 
 ---

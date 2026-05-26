@@ -1,8 +1,9 @@
 ---
 topic_id: 29143
-title: "Segmenting The Skull Base"
+title: "Segmenting the skull base"
 date: 2023-04-26
 url: https://discourse.slicer.org/t/29143
+last_bumped: 2026-03-31T11:58:37.123Z
 ---
 
 # Segmenting the skull base
@@ -45,5 +46,12 @@ url: https://discourse.slicer.org/t/29143
 <p>The threshold issue you described is a fundamental limitation, not a technique problem. Skull base cortical bone in most CT protocols is simply too thin relative to voxel size, so you’re always trading foraminal definition against bone continuity. No threshold value solves that.</p>
 <p>What works significantly better involves a multi-step approach that goes beyond what the threshold tool alone can do, and the right workflow depends on your CT acquisition parameters and what specific skull base structures matter most for your educational models.</p>
 <p>I work on neuroimaging segmentation with a clinical neurology background. DM me if this is still something you’re working through, getting skull base models print-ready is very doable with the right approach.</p>
+
+---
+
+## Post #4 by @Nancy_Casper (2026-03-31 11:58 UTC)
+
+<p>That sounds like a challenging segmentation task, especially with the complex anatomy around the skull base.</p>
+<p>Have you tried using the “Grow from seeds” effect in the Segment Editor? It usually handles those tricky transitions between bone and air pockets pretty well if you place your seeds strategically. Another thing that might save you some time is the “Wrap Solid” effect from the SurfaceWrapExtension - it’s great for creating a clean outer shell if the internal structures are getting too messy to isolate individually.</p>
 
 ---

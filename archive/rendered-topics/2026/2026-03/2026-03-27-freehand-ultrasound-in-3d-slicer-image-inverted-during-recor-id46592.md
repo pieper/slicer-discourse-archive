@@ -1,8 +1,9 @@
 ---
 topic_id: 46592
-title: "Freehand Ultrasound In 3D Slicer Image Inverted During Recor"
+title: "Freehand ultrasound in 3D Slicer: image inverted during recording"
 date: 2026-03-27
 url: https://discourse.slicer.org/t/46592
+last_bumped: 2026-04-02T13:43:09.003Z
 ---
 
 # Freehand ultrasound in 3D Slicer: image inverted during recording
@@ -36,5 +37,11 @@ url: https://discourse.slicer.org/t/46592
 ## Post #3 by @lassoan (2026-03-28 00:36 UTC)
 
 <p>See more details and step-by-step instructions in <a href="https://www.slicerigt.org/wp/user-tutorials/" class="inline-onebox">User tutorials | SlicerIGT</a>.</p>
+
+---
+
+## Post #4 by @daandevlieger2-alt (2026-04-02 13:43 UTC)
+
+<p>Well, it worked! Thank you very much. Easy and simple solution <img src="https://emoji.discourse-cdn.com/twitter/slight_smile.png?v=15" title=":slight_smile:" class="emoji" alt=":slight_smile:" loading="lazy" width="20" height="20"></p>
 
 ---

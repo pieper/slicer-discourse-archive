@@ -1,8 +1,9 @@
 ---
 topic_id: 45752
-title: "Issues With Segmentation Pixelation And Resolution When Usin"
+title: "Issues with segmentation pixelation and resolution when using separate Axial/Coronal DICOMs."
 date: 2026-01-12
 url: https://discourse.slicer.org/t/45752
+last_bumped: 2026-03-02T18:32:07.277Z
 ---
 
 # Issues with segmentation pixelation and resolution when using separate Axial/Coronal DICOMs.
@@ -90,5 +91,37 @@ You may try to find toolkits that can create an isotropic super-resolution image
 ## Post #8 by @teakpAUM (2026-02-18 10:09 UTC)
 
 <p>For context these are medial recti muscles.</p>
+
+---
+
+## Post #9 by @lassoan (2026-02-28 13:41 UTC)
+
+<aside class="quote no-group" data-username="teakpAUM" data-post="7" data-topic="45752">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="24" height="24" src="https://avatars.discourse-cdn.com/v4/letter/t/4491bb/48.png" class="avatar"> teakpAUM:</div>
+<blockquote>
+<p>PixelSpacing : 0.9375, 0.9375</p>
+<p>Slice thickness: 0.89999997615814</p>
+</blockquote>
+</aside>
+<p>Pixel spacing is not bad, but we don’t know the distance between slices. If that is around 1mm, too, then your image should not be very “blocky”. You can find all 3 components of the image spacing in Volumes module’s Volume information section.</p>
+<p>Slice thickness does not matter much for 3D reconstruction. It just tells how blurred a slice is along the slice normal axis.</p>
+
+---
+
+## Post #10 by @teakpAUM (2026-03-01 18:24 UTC)
+
+<p>Hi Andras,</p>
+<p>This is the spacing:</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/8/e/8e00cfd036159bd548255ac39779ceabccf80893.png" data-download-href="/uploads/short-url/kgdxtOCsJ54xjbkeCQbRKYb3w8b.png?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/8/e/8e00cfd036159bd548255ac39779ceabccf80893_2_690x495.png" alt="image" data-base62-sha1="kgdxtOCsJ54xjbkeCQbRKYb3w8b" width="690" height="495" srcset="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/8/e/8e00cfd036159bd548255ac39779ceabccf80893_2_690x495.png, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/8/e/8e00cfd036159bd548255ac39779ceabccf80893_2_1035x742.png 1.5x, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/8/e/8e00cfd036159bd548255ac39779ceabccf80893_2_1380x990.png 2x" data-dominant-color="272727"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">image</span><span class="informations">1380×990 48.9 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
+<p>Seems like oversampling works to fix it. Although I dont know if selecting that and isotropic spacing on the ‘segmentation geometry’ will skew my volume measurements for my project?</p>
+
+---
+
+## Post #11 by @lassoan (2026-03-02 18:32 UTC)
+
+<p>Resampling will not invisibly skew volume measurements. Volume is measured from the segmentation as displayed: what you see is what gets measured. If your segmentation accurately follows the original image (contours are aligned with visible boundaries, no details are lost due to insufficient resolution, no artifacts are present such as a blocky appearance of a smooth organ wall), then the volume measurement should be accurate.</p>
+<p>That said, any measurement tool used in a study should be validated. This applies to imaging and image computation tools as well. Slicer’s volume measurements have been validated across many studies, but every project has its own imaging protocol and processing/analysis pipeline, so it is always worth verifying for your specific use case.</p>
 
 ---

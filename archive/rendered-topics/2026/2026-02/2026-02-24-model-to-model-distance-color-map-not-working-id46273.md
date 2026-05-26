@@ -1,8 +1,9 @@
 ---
 topic_id: 46273
-title: "Model To Model Distance Color Map Not Working"
+title: "Model to Model Distance Color Map Not working"
 date: 2026-02-24
 url: https://discourse.slicer.org/t/46273
+last_bumped: 2026-02-26T10:59:09.175Z
 ---
 
 # Model to Model Distance Color Map Not working
@@ -29,5 +30,29 @@ url: https://discourse.slicer.org/t/46273
 <p>I followed this link for the surface registration (<a href="https://www.youtube.com/watch?v=hsZrjNsXZbs" rel="noopener nofollow ugc">https://www.youtube.com/watch?v=hsZrjNsXZbs</a>)</p>
 <p>What am I doing wrong? Is there a way I can just upload the 2 VTK files from step 3 and go straight to model-to-model calculation?</p>
 <p>Thanks!</p>
+
+---
+
+## Post #2 by @drnoorfatima (2026-02-25 09:39 UTC)
+
+<p>Hi!</p>
+<p>I can see exactly where the workflow is breaking down, the transform is being applied to the wrong model at step 5, which is why your model-to-model distance isn’t working. The registration logic needs a small but specific correction and your color map comparison will work perfectly.</p>
+<p>I work in medical imaging research with a focus on surgical outcome analysis. This is actually a really elegant application for cleft outcome measurement.</p>
+<p>Happy to help get this working, feel free to DM me to discuss further.</p>
+<p>Noor</p>
+
+---
+
+## Post #3 by @Nacole (2026-02-25 18:46 UTC)
+
+<p>Hi Noor! Thank you so much for the reply and I appreciate the compliment. I would love to figure out how to get this working. I’m not sure how to DM on this interface, but if you know how and prefer to speak there please send a message!</p>
+
+---
+
+## Post #5 by @drnoorfatima (2026-02-26 10:59 UTC)
+
+<p>Hi Nacole,<br>
+I sent you a dm.<br>
+Also you can reach me here: <a href="mailto:noorfatimacheema249@gmail.com">noorfatimacheema249@gmail.com</a></p>
 
 ---

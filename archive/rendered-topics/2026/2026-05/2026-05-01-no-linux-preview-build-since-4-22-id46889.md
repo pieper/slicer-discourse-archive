@@ -1,8 +1,9 @@
 ---
 topic_id: 46889
-title: "No Linux Preview Build Since 4 22"
+title: "No linux preview build since 4/22"
 date: 2026-05-01
 url: https://discourse.slicer.org/t/46889
+last_bumped: 2026-05-04T19:30:42.692Z
 ---
 
 # No linux preview build since 4/22
@@ -180,5 +181,11 @@ Verified locally: the generated `cmake_install.cmake` now references `libqttesti
   <div style="clear: both"></div>
 </aside>
 
+
+---
+
+## Post #3 by @lassoan (2026-05-04 19:30 UTC)
+
+<p>Linux builds are fixed now (since May 2nd - see the <a href="https://slicer.cdash.org/index.php?project=SlicerPreview&amp;date=2026-05-02">dashboard</a>).</p>
 
 ---

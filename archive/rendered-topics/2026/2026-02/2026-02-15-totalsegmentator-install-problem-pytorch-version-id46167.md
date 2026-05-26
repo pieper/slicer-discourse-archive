@@ -1,8 +1,9 @@
 ---
 topic_id: 46167
-title: "Totalsegmentator Install Problem Pytorch Version"
+title: "TotalSegmentator install problem - pytorch version?"
 date: 2026-02-15
 url: https://discourse.slicer.org/t/46167
+last_bumped: 2026-02-19T05:02:56.365Z
 ---
 
 # TotalSegmentator install problem - pytorch version?
@@ -39,5 +40,11 @@ Unfortunately, on macOS Slicer factory builds are still x86_64 builds with no na
   </blockquote>
 </aside>
 
+
+---
+
+## Post #3 by @mhopeng (2026-02-19 05:02 UTC)
+
+<p>Thanks for that. I think that it is the issue.</p>
 
 ---

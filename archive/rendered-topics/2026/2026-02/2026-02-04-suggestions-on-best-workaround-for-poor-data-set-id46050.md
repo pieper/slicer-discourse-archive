@@ -1,8 +1,9 @@
 ---
 topic_id: 46050
-title: "Suggestions On Best Workaround For Poor Data Set"
+title: "Suggestions on best workaround for poor data set"
 date: 2026-02-04
 url: https://discourse.slicer.org/t/46050
+last_bumped: 2026-02-24T02:01:46.643Z
 ---
 
 # Suggestions on best workaround for poor data set
@@ -38,5 +39,11 @@ url: https://discourse.slicer.org/t/46050
 ## Post #3 by @cpinter (2026-02-05 09:20 UTC)
 
 <p>What is the scalar range of the volume? If you try optimizing window/level values can you achieve a less noisy visualization? The segmentation seems quite good to me btw.</p>
+
+---
+
+## Post #4 by @Learn34 (2026-02-24 02:01 UTC)
+
+<p>Technically the volume ranges from -3024 to 2324, but checking the histogram the practical range is approximately from -1035 to 2110. I’ll keep playing with the window/level values, but so far I’m not having luck improving the contrast between the IVDs and the adjacent soft tissue.</p>
 
 ---

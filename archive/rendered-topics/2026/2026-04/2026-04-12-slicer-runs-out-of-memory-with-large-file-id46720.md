@@ -1,8 +1,9 @@
 ---
 topic_id: 46720
-title: "Slicer Runs Out Of Memory With Large File"
+title: "slicer runs out of memory with large  file."
 date: 2026-04-12
 url: https://discourse.slicer.org/t/46720
+last_bumped: 2026-04-15T18:31:02.486Z
 ---
 
 # slicer runs out of memory with large  file.
@@ -28,5 +29,28 @@ url: https://discourse.slicer.org/t/46720
 ## Post #3 by @mhsheikh25 (2026-04-12 21:26 UTC)
 
 <p>I have a CT scan 90 micron per scan 7.7 Gb file.  I have segmented the scan and when I try to create another island, I get an “out of memory” and you might fix it with increasing swap and ram.</p>
+
+---
+
+## Post #4 by @hherhold (2026-04-13 14:07 UTC)
+
+<p>I have a snippet of code in my .slicerrc.py file that would set the number of undo levels (which I think is defaulted to 10), I sometimes set it to 1 (or 0 if I’m feeling lucky). I don’t have it handy at the moment, but this may be something to try. I work with volumes larger than this on a machine with 128GB of ram and a 16GB NVIDIA RTX A5000, so you should be fine.</p>
+
+---
+
+## Post #5 by @hherhold (2026-04-15 16:53 UTC)
+
+<p>This is it - I’ve found it to be helpful with large segmentations.</p>
+<pre><code class="lang-auto">def setUndoLevels(numLevels):
+  segmentEditorWidget = slicer.modules.segmenteditor.widgetRepresentation().self().editor
+  segmentEditorWidget.setMaximumNumberOfUndoStates(numLevels)
+
+</code></pre>
+
+---
+
+## Post #6 by @mhsheikh25 (2026-04-15 18:31 UTC)
+
+<p>Thanks, I’ll try it.</p>
 
 ---

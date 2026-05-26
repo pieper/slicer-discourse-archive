@@ -1,8 +1,9 @@
 ---
 topic_id: 46762
-title: "Developing A Vessel Analysis Module For 3D Slicer Guidance N"
+title: "Developing a vessel analysis module for 3D Slicer – guidance needed"
 date: 2026-04-17
 url: https://discourse.slicer.org/t/46762
+last_bumped: 2026-04-18T00:34:24.050Z
 ---
 
 # Developing a vessel analysis module for 3D Slicer – guidance needed
@@ -38,5 +39,18 @@ url: https://discourse.slicer.org/t/46762
 </ul>
 <p>Any suggestions or guidance would be very helpful.</p>
 <p>Thanks!</p>
+
+---
+
+## Post #2 by @pieper (2026-04-17 19:11 UTC)
+
+<p>There are lots of examples in the <a href="https://github.com/slicer/extensionsindex">Slicer Extension Index</a>.  Try installing some extensions that sound similar and then look at the code.</p>
+
+---
+
+## Post #3 by @lassoan (2026-04-18 00:34 UTC)
+
+<p><a href="https://github.com/vmtk/SlicerExtension-VMTK#the-vmtk-extension-for-3d-slicer">VMTK extension</a> has lots of vascular quantification and analysis tools, including very fast and robust fully automatic centerline and branch extraction, cross-section analysis, etc. Check it out, as you may be able to reuse and build on these modules, so you could reduce the amount of code you need to maintain.</p>
+<p>FYI, many more, very sophisticated vascular tools are coming to 3D Slicer soon, as the <a href="https://simvascular.github.io/">SimVascular</a> community is planning to port their modules into 3D Slicer. I would recommend to have a look at it, too, and focus on working on features that are not yet covered.</p>
 
 ---

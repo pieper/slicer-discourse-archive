@@ -1,8 +1,9 @@
 ---
 topic_id: 28052
-title: "How To Normalize The Intensity"
+title: "How to normalize the intensity?"
 date: 2023-02-26
 url: https://discourse.slicer.org/t/28052
+last_bumped: 2026-05-11T20:20:36.832Z
 ---
 
 # How to normalize the intensity?
@@ -31,5 +32,12 @@ url: https://discourse.slicer.org/t/28052
 <li>rescaleIntensityImageFilter<br>
 I suggest you make a clone of your volume first, and then output into a different volume so you still have a copy of the original.</li>
 </ol>
+
+---
+
+## Post #3 by @Antmaker (2026-05-11 20:20 UTC)
+
+<p>Depending what you would like to normalize it to, the ShiftScaleImageFilter could also be a good option (src: <a href="https://discourse.slicer.org/t/is-it-possible-to-rescale-intensity-of-a-volume/2543">Is it possible to rescale intensity of a volume?</a>)</p>
+<p>If you would like to normalize to something like the Hounsfield Unit (HU), then <a href="https://discourse.slicer.org/t/grey-values-gv-to-hu-units-conversion/16277">Grey values (GV) to HU units conversion</a> provides a more advanced approach.</p>
 
 ---

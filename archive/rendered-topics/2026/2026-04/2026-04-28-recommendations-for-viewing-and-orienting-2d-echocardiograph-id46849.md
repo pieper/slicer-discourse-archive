@@ -1,8 +1,9 @@
 ---
 topic_id: 46849
-title: "Recommendations For Viewing And Orienting 2D Echocardiograph"
+title: "Recommendations for viewing and orienting 2D echocardiography slices in 3D viewer"
 date: 2026-04-28
 url: https://discourse.slicer.org/t/46849
+last_bumped: 2026-05-01T20:01:09.228Z
 ---
 
 # Recommendations for viewing and orienting 2D echocardiography slices in 3D viewer
@@ -65,5 +66,24 @@ url: https://discourse.slicer.org/t/46849
 ## Post #8 by @aabrown100-git (2026-04-28 23:30 UTC)
 
 <p>Thanks, that works well!</p>
+
+---
+
+## Post #9 by @Antmaker (2026-05-01 19:34 UTC)
+
+<p>I wonder if the <a href="https://www.youtube.com/watch?v=TBHr2wizGTM" rel="noopener nofollow ugc">Fiducial Registration Wizard</a> module would work in this situation. My understanding is that 2D is essentially just a single slice 3D volume.</p>
+
+---
+
+## Post #10 by @lassoan (2026-05-01 19:44 UTC)
+
+<p>Yes, it can be easier to align the slice to a volume placing 3 points on the image slice and then marking the same 3 points in the CT/MR.</p>
+<p>If you want to use interactive transform handles then you can keep the slice view automatically aligned with the image slice by using the Volume Reslice Driver module (in SlicerIGT extension). Without that you would need to keep clicking “Rotate to volume plane” button to manually align the slice view.</p>
+
+---
+
+## Post #11 by @aabrown100-git (2026-05-01 20:01 UTC)
+
+<p>Thanks both for the tips!</p>
 
 ---

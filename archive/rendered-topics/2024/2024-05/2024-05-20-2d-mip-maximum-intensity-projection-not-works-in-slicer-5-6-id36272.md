@@ -1,8 +1,9 @@
 ---
 topic_id: 36272
-title: "2D Mip Maximum Intensity Projection Not Works In Slicer 5 6"
+title: "2D MIP (maximum intensity projection) not works in Slicer 5.6.1"
 date: 2024-05-20
 url: https://discourse.slicer.org/t/36272
+last_bumped: 2026-04-15T03:20:29.627Z
 ---
 
 # 2D MIP (maximum intensity projection) not works in Slicer 5.6.1
@@ -128,5 +129,12 @@ sliceNode.Modified()
 ## Post #4 by @pieper (2024-05-28 18:47 UTC)
 
 <p>Nice!  It would be cool if you could update the script repository with your solution.</p>
+
+---
+
+## Post #5 by @Antmaker (2026-04-15 03:20 UTC)
+
+<p>I have created <a href="https://github.com/Slicer/Slicer/pull/9113" rel="noopener nofollow ugc">PR #9113</a> for this. However, I have a question on how to update the script and thus have started a review in the PR.</p>
+<p>Thank you <a class="mention" href="/u/park">@park</a> for the code.</p>
 
 ---

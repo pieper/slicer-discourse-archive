@@ -1,8 +1,9 @@
 ---
 topic_id: 46647
-title: "Slicervmtk Is Not Being Built For Preview"
+title: "SlicerVMTK is not being built for preview"
 date: 2026-04-03
 url: https://discourse.slicer.org/t/46647
+last_bumped: 2026-04-04T09:20:10.689Z
 ---
 
 # SlicerVMTK is not being built for preview
@@ -89,5 +90,11 @@ url: https://discourse.slicer.org/t/46647
 <p>A clean build of Slicer used VTK 9.6.</p>
 <p>SlicerVMTK could be built after fixing the &lt;iostream&gt; includes, both in VMTK itself and in the C++ modules of SlicerVMTK.</p>
 <p>I’ll send a PR in both projects ASAP.</p>
+
+---
+
+## Post #5 by @chir.set (2026-04-04 09:20 UTC)
+
+<p>A <a href="https://github.com/vmtk/vmtk/pull/481" rel="noopener nofollow ugc">PR</a> is submitted for the VMTK libraries. If it gets merged, I’ll proceed with updating SlicerVMTK.</p>
 
 ---

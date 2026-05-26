@@ -1,8 +1,9 @@
 ---
 topic_id: 46206
-title: "Abdominal Muscle Segmentation Any Better Ways To Approach Th"
+title: "Abdominal Muscle Segmentation any better ways to approach this?"
 date: 2026-02-18
 url: https://discourse.slicer.org/t/46206
+last_bumped: 2026-02-19T02:36:15.350Z
 ---
 
 # Abdominal Muscle Segmentation any better ways to approach this?
@@ -31,5 +32,23 @@ there are several options in terms of trained networks. Have you checked them ou
 <a href="https://arxiv.org/pdf/2512.15921" class="onebox" target="_blank" rel="noopener nofollow ugc">https://arxiv.org/pdf/2512.15921</a><br>
 Best<br>
 Ron</p>
+
+---
+
+## Post #3 by @drnoorfatima (2026-02-19 02:36 UTC)
+
+<p>Hi,</p>
+<p>I completely understand this frustration….30-40 minutes per scan for manual correction is exactly the kind of workflow bottleneck that makes scaling impossible, and you’ve already proven that with 4 months invested on 260 scans.</p>
+<p>The good news: this problem is solvable without you needing to learn Python or train your own model from scratch.</p>
+<p>The bad news: TotalSegmentator’s limitations for lumbar body composition (especially intermuscular fat and specific muscle groups) aren’t something you can easily fix with settings adjustments alone.</p>
+<p>There are approaches that would dramatically reduce your per-scan time and let you scale to more patients, but they require either:</p>
+<ol>
+<li>A custom segmentation pipeline optimized for your specific imaging protocol and the muscle groups TotalSegmentator struggles with</li>
+<li></li>
+<li>Semi-automated workflows with smart preprocessing that reduce manual correction to 5-10 mins per scan instead of 30-40</li>
+</ol>
+<p>Given the scale you’re working at and want to reach, this is worth solving properly.</p>
+<p>I work as a freelancer on medical imaging segmentation projects like this ….body composition workflows are something I’ve optimized before. If you’d like to discuss how to fix your workflow so you can actually scale your study, DM me. Happy to look at your data and give you specific recommendations.</p>
+<p>You’ve already invested 4 months…getting this right now will save you that much time on the next 100+ patients.</p>
 
 ---

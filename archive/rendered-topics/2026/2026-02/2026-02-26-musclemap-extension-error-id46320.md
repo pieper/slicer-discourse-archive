@@ -1,8 +1,9 @@
 ---
 topic_id: 46320
-title: "Musclemap Extension Error"
+title: "MuscleMap Extension Error"
 date: 2026-02-26
 url: https://discourse.slicer.org/t/46320
+last_bumped: 2026-02-27T18:39:28.569Z
 ---
 
 # MuscleMap Extension Error
@@ -47,5 +48,36 @@ I’ve restarted multiple times multiple versions of Slicer starting from 5.4.0 
 <p>Does anyone have the same problem, or had and got up with the solution ??</p>
 <p>Best regards<br>
 Bartek</p>
+
+---
+
+## Post #2 by @mau_igna_06 (2026-02-27 18:39 UTC)
+
+<p>You may get a quicker answer if you write to the creators of the extensions straightforwardly using the link below</p>
+<aside class="onebox allowlistedgeneric" data-onebox-src="https://github.com/Eddowesselink/SlicerMuscleMap/issues/new">
+  <header class="source">
+      <img src="https://github.githubassets.com/favicons/favicon.svg" class="site-icon" alt="" width="32" height="32">
+
+      <a href="https://github.com/Eddowesselink/SlicerMuscleMap/issues/new" target="_blank" rel="noopener nofollow ugc">GitHub</a>
+  </header>
+
+  <article class="onebox-body">
+    <img width="500" height="500" src="https://github.githubassets.com/assets/github-logo-55c5b9a1fe52.png" class="thumbnail onebox-avatar" alt="">
+
+<h3><a href="https://github.com/Eddowesselink/SlicerMuscleMap/issues/new" target="_blank" rel="noopener nofollow ugc">Build software better, together</a></h3>
+
+  <p>GitHub is where people build software. More than 150 million people use GitHub to discover, fork, and contribute to over 420 million projects.</p>
+
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
 
 ---

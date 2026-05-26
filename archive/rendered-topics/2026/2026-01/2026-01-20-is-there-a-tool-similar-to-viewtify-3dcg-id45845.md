@@ -1,8 +1,9 @@
 ---
 topic_id: 45845
-title: "Is There A Tool Similar To Viewtify 3Dcg"
+title: "Is there a tool similar to Viewtify 3DCG?"
 date: 2026-01-20
 url: https://discourse.slicer.org/t/45845
+last_bumped: 2026-02-20T00:47:32.990Z
 ---
 
 # Is there a tool similar to Viewtify 3DCG?
@@ -64,5 +65,48 @@ How did you “open” the model?</p>
 <p><div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/9/5/95b599048cae9f766336826cbf8317891e66e7c3.jpeg" data-download-href="/uploads/short-url/lmodigCtILiO4Uvq1RH7zn1OAKL.jpeg?dl=1" title="image"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/9/5/95b599048cae9f766336826cbf8317891e66e7c3_2_690x476.jpeg" alt="image" data-base62-sha1="lmodigCtILiO4Uvq1RH7zn1OAKL" width="690" height="476" srcset="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/9/5/95b599048cae9f766336826cbf8317891e66e7c3_2_690x476.jpeg, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/9/5/95b599048cae9f766336826cbf8317891e66e7c3_2_1035x714.jpeg 1.5x, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/9/5/95b599048cae9f766336826cbf8317891e66e7c3_2_1380x952.jpeg 2x" data-dominant-color="70686E"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">image</span><span class="informations">1468×1013 391 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
 <p>Note that you don’t need to segment and export to model: instead, you can use volume rendering to show vessels and heart chambers with less work and more details. To achieve this you need to make to set the opacity of the contrast agent to 0 in the Scalar Opacity Mapping function:</p>
 <p><div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/1/6/1689d45bcf430cfe46cf7476c7588a4dbbfa5368.jpeg" data-download-href="/uploads/short-url/3dnNLL8JwlSQrLBdp0kohCcuj3i.jpeg?dl=1" title="image"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/1/6/1689d45bcf430cfe46cf7476c7588a4dbbfa5368_2_690x430.jpeg" alt="image" data-base62-sha1="3dnNLL8JwlSQrLBdp0kohCcuj3i" width="690" height="430" srcset="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/1/6/1689d45bcf430cfe46cf7476c7588a4dbbfa5368_2_690x430.jpeg, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/1/6/1689d45bcf430cfe46cf7476c7588a4dbbfa5368_2_1035x645.jpeg 1.5x, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/1/6/1689d45bcf430cfe46cf7476c7588a4dbbfa5368_2_1380x860.jpeg 2x" data-dominant-color="82554B"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">image</span><span class="informations">1600×999 566 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
+
+---
+
+## Post #8 by @eNable_Polska (2026-02-19 20:23 UTC)
+
+<p>Thank you for the suggestions. I apologise for the late reply, but I was struggling with post-flu pneumonia and didn’t have the energy to respond earlier.</p>
+<p>I’ll try to explain why I’m looking for a tool that can produce 3D segmentations like the one at the beginning of this thread.</p>
+<p>I came across an online presentation of a DICOM viewer: <a href="https://www.sciement.com/en/viewtify.html" rel="noopener nofollow ugc">https://www.sciement.com/en/viewtify.html</a>.</p>
+<p>The way the 3D models were presented really caught my attention, so I’m trying to find a Slicer solution to this problem. The way the models are presented and displayed on the Sony Spatial Reality Display closely resembles how a surgeon actually views the surgical field.</p>
+<p>At my hospital, we run a spatial imaging lab and use VR (Oculus) as well as computer monitors. Sciement’s solution is slightly different and I’m curious to know if we could implement something similar. While I understand that I could use Volume Rendering and adjust the parameters to achieve a similar result, this would require the surgeon to have knowledge of Slicer and the ability to manipulate the parameters, which they usually lack the time or inclination for. They want a finished model or a series of DICOM studies prepared for viewing in VR. Would such a solution work without a Sony monitor? I don’t know, but to find out, I first need to create images similar to those produced by Sciement and be able to freely crop, rotate, etc. the resulting images. Thanks for the tips on how to change the model’s display parameters to achieve a similar effect. I haven’t been able to do it yet, but I’m working on it.</p>
+
+---
+
+## Post #9 by @chir.set (2026-02-19 21:06 UTC)
+
+<aside class="quote no-group" data-username="eNable_Polska" data-post="8" data-topic="45845">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="24" height="24" src="https://sea2.discourse-cdn.com/flex002/user_avatar/discourse.slicer.org/enable_polska/48/3275_2.png" class="avatar"> eNable_Polska:</div>
+<blockquote>
+<p>this would require the surgeon to have knowledge of Slicer and the ability to manipulate the parameters, which they usually lack the time or inclination for. They want a finished model</p>
+</blockquote>
+</aside>
+<p>That’s very interesting. IMO, radiologists should update their analysis of a study to satisfy surgical expectations. Your post simply means that traditional analysis of a study by radiologists is outdated. The radiologist should provide segmentations, models, centerlines… all objects being interactive in addition to the digital acquisition itself and to the paper report.</p>
+<p>We are very, very far from this. Data format should be standardised to be OEM and client software independent. An ISO standard should be defined for this. The teaching of radiology during internship should be rescaled. Digital awareness and fluency as from primary school should be thought of again … …</p>
+<p>Things may get better in a few decades: 2, 3, 4 decades… I don’t know.</p>
+<p>For the time being, surgeons have no choice but investing thoroughly on software like Slicer or others, or continue feeling having missed the digital train, one that never stops. Because no one will be fulfilling their expectations precisely as they want or need on the spot, each study being unique, not even AI(?) IMO.</p>
+<p>May be it’s not the reply you were expecting. It’s just my point of view as a surgeon.</p>
+
+---
+
+## Post #10 by @lassoan (2026-02-20 00:47 UTC)
+
+<aside class="quote no-group" data-username="eNable_Polska" data-post="8" data-topic="45845">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="24" height="24" src="https://sea2.discourse-cdn.com/flex002/user_avatar/discourse.slicer.org/enable_polska/48/3275_2.png" class="avatar"> eNable_Polska:</div>
+<blockquote>
+<p>Would such a solution work without a Sony monitor?</p>
+</blockquote>
+</aside>
+<p>This is the key question, and the answer is: of course you can! The stereo effect may have some utility in some cases, but generally does not make a big difference.</p>
+<p>I saw a few demos of stereoscopic displays and how people react to them. People are always very impressed. However, they are impressed for the wrong reason. They think the visualization is awesome because they have not seen a good quality CT displayed using nicely configured volume rendering (not because there is also some stereo effect).</p>
 
 ---

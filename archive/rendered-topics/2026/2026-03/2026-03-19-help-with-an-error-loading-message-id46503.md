@@ -1,8 +1,9 @@
 ---
 topic_id: 46503
-title: "Help With An Error Loading Message"
+title: "Help with an Error: Loading message"
 date: 2026-03-19
 url: https://discourse.slicer.org/t/46503
+last_bumped: 2026-03-23T10:01:40.151Z
 ---
 
 # Help with an Error: Loading message
@@ -26,5 +27,12 @@ url: https://discourse.slicer.org/t/46503
 
 <p>That’s odd.  Is it possible you could share the mrb file for testing?</p>
 <p>If not, can you describe the data and the exact steps you go through?</p>
+
+---
+
+## Post #3 by @Nancy_Casper (2026-03-23 10:01 UTC)
+
+<p>That loading error is usually down to a mismatch between the header and the actual data in your file. If Slicer can’t find the specific volume dimensions or spacing it expects, it’ll just hang or throw a generic error. A quick thing to try is using the “Add Data” dialog but checking the “Show Options” box. Sometimes manually setting the file type to “Volume” instead of letting it auto-detect fixes the hang. If it’s a DICOM issue, you might want to try importing it through the DICOM Browser module first rather than just dragging and dropping the file.</p>
+<p>If you’re still stuck, check if there are any special characters or spaces in the file path - Slicer can be a bit picky about those depending on the OS.</p>
 
 ---

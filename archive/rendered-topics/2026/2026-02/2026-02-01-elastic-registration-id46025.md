@@ -3,6 +3,7 @@ topic_id: 46025
 title: "Elastic Registration"
 date: 2026-02-01
 url: https://discourse.slicer.org/t/46025
+last_bumped: 2026-02-22T11:19:06.969Z
 ---
 
 # Elastic Registration
@@ -67,5 +68,11 @@ I’m looking for reliable ways to quantify volumetric changes.</p>
 </blockquote>
 </aside>
 <p>Deformation field will be saved as a transform. You can then turn that into a grid transform or displacement field, depending on how you want to quantify the deformation. There are no specific tools to quantify deformation in Slicer, as far as I know.</p>
+
+---
+
+## Post #3 by @Zah (2026-02-22 11:19 UTC)
+
+<p>thank you very much for your response, I tried another rigid way for registration and it worked. I would like to know if you are still having weekly meetings? if this is the case, I would appreciate it to join to share my findings</p>
 
 ---

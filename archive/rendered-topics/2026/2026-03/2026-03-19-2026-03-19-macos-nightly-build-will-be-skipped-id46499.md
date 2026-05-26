@@ -1,8 +1,9 @@
 ---
 topic_id: 46499
-title: "2026 03 19 Macos Nightly Build Will Be Skipped"
+title: "2026-03-19 macOS nightly build will be skipped"
 date: 2026-03-19
 url: https://discourse.slicer.org/t/46499
+last_bumped: 2026-03-19T15:07:46.783Z
 ---
 
 # 2026-03-19 macOS nightly build will be skipped
@@ -17,5 +18,12 @@ url: https://discourse.slicer.org/t/46499
 
 <p>Heads up: computron (macOS) nightly builds may be skipped tonight while we run a clean stable rebuild. Normal nightly schedule should resume tomorrow.</p>
 <p>The clean stable build should hopefully fix recent issues with installing SlicerDMRI, SlicerHeart, and some others on macOS for Slicer 5.10. The issue was likely that the stable build became stale once the macOS system auto-updated.</p>
+
+---
+
+## Post #2 by @ebrahim (2026-03-19 15:07 UTC)
+
+<p>Success!</p>
+<p>macOS nightly is now re-enabled</p>
 
 ---

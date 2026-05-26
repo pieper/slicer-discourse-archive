@@ -1,8 +1,9 @@
 ---
 topic_id: 24435
-title: "Get C Arm Angles From 3D View Orientation"
+title: "Get C-arm angles from 3D view orientation"
 date: 2022-07-21
 url: https://discourse.slicer.org/t/24435
+last_bumped: 2026-05-11T00:04:09.144Z
 ---
 
 # Get C-arm angles from 3D view orientation
@@ -312,5 +313,29 @@ Camera Angle Python work inconsistency</p>
 <p>Not a big issue, just an FYI.</p>
 <p>Thanks,<br>
 Sassan</p>
+
+---
+
+## Post #24 by @yanlend (2026-05-08 11:22 UTC)
+
+<p>Small (late) improvement:</p>
+<p><a href="https://dicom.nema.org/medical/dicom/current/output/chtml/part03/sect_C.8.7.5.html#sect_C.8.7.5" rel="noopener nofollow ugc">Primary angle</a> is defined from -180 to 180 degree, which requires using atan2 instead of atan for computing the LAO/RAO angle.</p>
+<pre data-code-wrap="python"><code class="lang-python">def positionerAngleFromViewNormal(viewNormal):
+    # According to https://www5.informatik.uni-erlangen.de/Forschung/Publikationen/2014/Koch14-OVA.pdf
+    nx = -viewNormal[0]  # L
+    ny = -viewNormal[1]  # P
+    nz =  viewNormal[2]  # S
+    import math
+    primaryAngleDeg = math.atan2(-nx, ny) * 180.0 / math.pi
+    secondaryAngleDeg = math.asin(nz) * 180.0 / math.pi
+    return [primaryAngleDeg, secondaryAngleDeg]
+
+</code></pre>
+
+---
+
+## Post #25 by @lassoan (2026-05-11 00:04 UTC)
+
+<p>Virtual CathLab module is available in SlicerHeart extension that not just contains C-arm angle computation, but full 3D modeling of the C-arm and fluoro imaging simulation (not just basic anatomy, but also contrast agent, cardiac devices; biplane systems, time sequences, etc).</p>
 
 ---

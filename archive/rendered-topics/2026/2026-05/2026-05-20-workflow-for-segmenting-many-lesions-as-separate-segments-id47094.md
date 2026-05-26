@@ -1,8 +1,9 @@
 ---
 topic_id: 47094
-title: "Workflow For Segmenting Many Lesions As Separate Segments"
+title: "Workflow for segmenting many lesions as separate segments?"
 date: 2026-05-20
 url: https://discourse.slicer.org/t/47094
+last_bumped: 2026-05-25T11:38:13.205Z
 ---
 
 # Workflow for segmenting many lesions as separate segments?
@@ -23,5 +24,24 @@ url: https://discourse.slicer.org/t/47094
 <p>I’m currently looking into Islands / Split islands, Grow from seeds, and Logical operators, but the workflow still feels quite tedious. I’m mainly looking for a practical workflow, not necessarily a fully automatic model..</p>
 <p>I’m mainly looking for a practical workflow, not necessarily a fully automatic model.</p>
 <p>Many Thanks!</p>
+
+---
+
+## Post #2 by @pieper (2026-05-21 11:17 UTC)
+
+<p>I’m not familiar with NF1 lesions, and I’m not sure what you mean by “practical” - how many cases do you need to segment?  How much time are you able to commit?  How accurate do they need to be?  What modality of imaging?  Maybe you can include screenshots of the data and what your segmentations look like now.</p>
+
+---
+
+## Post #3 by @zhousy5310 (2026-05-25 11:38 UTC)
+
+<p>Hi Steve, thanks for your quick reply. About screenshots, I’m afraid that i can’t share them due to patient confidentiality, but I can describe my situation here:<span lang="EN-US"></span></p>
+<ol>
+<li>Modality: 3T MRI, T2-weighted fat-sat and post-contrast T1. NF1-related neurofibromas (plexiform and cutaneous). <span lang="EN-US"></span></li>
+<li>Lesion: Typically 30–80 small ovoid lesions per case, 3–20 mm diameter, scattered in subcutaneous fat and along nerve sheaths (torso and extremities). Many are hyperintense on T2, clearly visible against fat.<span lang="EN-US"></span></li>
+<li>Current method: I manually draw ROIs slice-by-slice. That’s the tedious part. <span lang="EN-US"></span></li>
+<li>Case load: ~20 cases. Need accuracy good enough for volume change over time (not for surgical planning). I’m willing to invest time in a good workflow but not in training a deep learning model from scratch.</li>
+</ol>
+<p>Sorry my english is not that good. So i use AI to rephrase, hope you dont mind. <img src="https://emoji.discourse-cdn.com/twitter/folded_hands.png?v=15" title=":folded_hands:" class="emoji" alt=":folded_hands:" loading="lazy" width="20" height="20"></p>
 
 ---

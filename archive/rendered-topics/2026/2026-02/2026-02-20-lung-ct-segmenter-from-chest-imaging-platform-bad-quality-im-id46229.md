@@ -1,8 +1,9 @@
 ---
 topic_id: 46229
-title: "Lung Ct Segmenter From Chest Imaging Platform Bad Quality Im"
+title: "Lung CT segmenter from Chest Imaging Platform bad quality image and segmentation"
 date: 2026-02-20
 url: https://discourse.slicer.org/t/46229
+last_bumped: 2026-02-21T21:43:41.438Z
 ---
 
 # Lung CT segmenter from Chest Imaging Platform bad quality image and segmentation
@@ -507,5 +508,20 @@ Co-Authored-By: Andras Lasso &lt;lasso@queensu.ca&gt;</span></p>
 ## Post #5 by @Khaldoun (2026-02-20 19:12 UTC)
 
 <p>Hi James, Thank you for your quick reply and suggestion. As I told Steve I am phycisian with poor knowledge in python and github etc.. even if I am learning and improving but you are probably right so I will try to use the faster, fast and normal option on the Chest CT demo with total segmentator and see what it will look like. Still I dont know how to set “normal” on Lung CT Segment module in Chest Imaging Platform. Thaks again</p>
+
+---
+
+## Post #6 by @lassoan (2026-02-21 21:43 UTC)
+
+<aside class="quote no-group" data-username="Khaldoun" data-post="1" data-topic="46229">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="24" height="24" src="https://avatars.discourse-cdn.com/v4/letter/k/3ab097/48.png" class="avatar"> Khaldoun:</div>
+<blockquote>
+<p>[INFO][Python] 20.02.2026 11:26:24 [Python] (C:/Users/538827/AppData/Local/slicer.org/3D Slicer 5.10.0/slicer.org/Extensions-34045/TotalSegmentator/lib/Slicer-5.10/qt-scripted-modules/TotalSegmentator.py:677) - Total Segmentator arguments: [‘-i’, ‘C:/Users/538827/AppData/Local/Temp/Slicer/__SlicerTemp__2026-02-20_11+26+23.843/total-segmentator-input.nii’, ‘-o’, ‘C:/Users/538827/AppData/Local/Temp/Slicer/__SlicerTemp__2026-02-20_11+26+23.843/segmentation’, ‘–ml’, ‘–task’, ‘total’, ‘–fastest’]</p>
+</blockquote>
+</aside>
+<p>Yes, as the log shows, the fastest (6mm voxel) is used.</p>
+<p>The problem was due to indeed a backward incompatible API change when I updated TotalSegmentator. I’ve fixed it now. If you update TotalSegmentator extension tomorrow or later the quality should be back to normal.</p>
 
 ---

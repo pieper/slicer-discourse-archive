@@ -1,8 +1,9 @@
 ---
 topic_id: 40908
-title: "How To Convert From Sideaxis 4 To Standard Dicom Format"
+title: "how to convert from sideaxis-4 to standard DICOM format"
 date: 2024-12-30
 url: https://discourse.slicer.org/t/40908
+last_bumped: 2026-05-01T07:22:52.385Z
 ---
 
 # how to convert from sideaxis-4 to standard DICOM format
@@ -41,5 +42,11 @@ url: https://discourse.slicer.org/t/40908
   <div style="clear: both"></div>
 </aside>
 
+
+---
+
+## Post #2 by @drychen (2026-05-01 07:22 UTC)
+
+<p>Do you have a solution? Can you import the DICOM data from Sidexis into the 3D slicer? It doesn’t work for me.</p>
 
 ---

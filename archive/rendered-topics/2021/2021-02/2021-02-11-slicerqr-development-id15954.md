@@ -1,8 +1,9 @@
 ---
 topic_id: 15954
-title: "Slicerqr Development"
+title: "SlicerQR Development"
 date: 2021-02-11
 url: https://discourse.slicer.org/t/15954
+last_bumped: 2026-04-27T09:56:37.257Z
 ---
 
 # SlicerQR Development
@@ -2247,5 +2248,11 @@ Also, I sincerely apologize for not fully understanding this previously.</p>
 <p>Paths to DICOM files can easily get extremely long when they are named automatically based on long DICOM tags (UIDs, series description, etc.).</p>
 <p>About 1-2 years ago we implemented automatic filename generation from cryptographic hash of UIDs for filenames that are copied into Slicer’s DICOM database. Therefore, copying DICOM files into the database is very unlikely to fail due to path length limitations.</p>
 <p>However, if the input files already have longer paths than MAX_PATH_LIMIT (about 260 characters), created using UNC paths or application with long path support then Slicer most likely cannot read those files. I’ve added some details about how long file support could be added to <a href="https://github.com/Slicer/Slicer/issues/6037">this issue</a>, but in the short term we need to keep avoiding paths longer than 260 characters on Windows.</p>
+
+---
+
+## Post #210 by @jackyflint (2026-04-27 09:56 UTC)
+
+<p>Long Path Tool fixes errors triggered when deep folder structures exceed path limits and prevent image loading in Slicer applications.</p>
 
 ---

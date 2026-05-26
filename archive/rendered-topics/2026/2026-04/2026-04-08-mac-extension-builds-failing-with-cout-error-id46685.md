@@ -1,8 +1,9 @@
 ---
 topic_id: 46685
-title: "Mac Extension Builds Failing With Cout Error"
+title: "Mac extension builds failing with cout error"
 date: 2026-04-08
 url: https://discourse.slicer.org/t/46685
+last_bumped: 2026-04-10T19:20:50.436Z
 ---
 
 # Mac extension builds failing with cout error
@@ -194,5 +195,28 @@ url: https://discourse.slicer.org/t/46685
 ## Post #13 by @pieper (2026-04-08 22:39 UTC)
 
 <p>Okay, SlicerDMRI should be good to go tomorrow.</p>
+
+---
+
+## Post #14 by @Sam_Horvath (2026-04-10 15:04 UTC)
+
+<p>Fix log (unchecked are in progress):</p>
+<p><span class="chcklst-box checked fa fa-square-check-o"></span> SlicerDMRI<br>
+<span class="chcklst-box checked fa fa-square-check-o"></span> SlicerRT : <a href="https://github.com/SlicerRt/SlicerRT/pull/314" class="inline-onebox">Iostream missing include fixes by sjh26 · Pull Request #314 · SlicerRt/SlicerRT · GitHub</a><br>
+<span class="chcklst-box checked fa fa-square-check-o"></span> MeshToLabelMap<br>
+<span class="chcklst-box checked fa fa-square-check-o"></span> SlicerVMTK: Pending this vmtk fix, <a href="https://github.com/vmtk/vmtk/pull/481" class="inline-onebox">Include iostream to build against VTK 9.6 by chir-set · Pull Request #481 · vmtk/vmtk · GitHub</a>, my branch here: <a href="https://github.com/sjh26/SlicerExtension-VMTK/tree/fix-iostream" class="inline-onebox">GitHub - sjh26/SlicerExtension-VMTK at fix-iostream · GitHub</a><br>
+<span class="chcklst-box checked fa fa-square-check-o"></span> VASSTAlgorithms: <a href="https://github.com/VASST/VASSTAlgorithms/pull/5" class="inline-onebox">BUG: Add missing #include &lt;iostream&gt; to C++ files using cerr/endl by sjh26 · Pull Request #5 · VASST/VASSTAlgorithms · GitHub</a><br>
+<span class="chcklst-box fa fa-square-o"></span> SlicerAutoscoperM: Autoscoper PR: <a href="https://github.com/BrownBiomechanics/Autoscoper/pull/328" class="inline-onebox">COMP: Fix build with VTK 9.6 by sjh26 · Pull Request #328 · BrownBiomechanics/Autoscoper · GitHub</a><br>
+<span class="chcklst-box fa fa-square-o"></span> CarreraSlice: <a href="https://github.com/ikolesov/CarreraSlice/pull/14" class="inline-onebox">COMP: Fix iostream include hygiene across C++ sources (VTK 9.6 compat) by sjh26 · Pull Request #14 · ikolesov/CarreraSlice · GitHub</a><br>
+<span class="chcklst-box fa fa-square-o"></span> CMFreg: <a href="https://github.com/DCBIA-OrthoLab/CMFreg/pull/41" class="inline-onebox">COMP: VTK 9.6 build fix - iostream include hygiene by sjh26 · Pull Request #41 · DCBIA-OrthoLab/CMFreg · GitHub</a><br>
+<span class="chcklst-box checked fa fa-square-check-o"></span> PortPlacement: <a href="https://github.com/SlicerIGT/PortPlacement/pull/4" class="inline-onebox">COMP: VTK 9.6 build fix - add missing &lt;iostream&gt; include by sjh26 · Pull Request #4 · SlicerIGT/PortPlacement · GitHub</a><br>
+<span class="chcklst-box fa fa-square-o"></span> ShapeVariationAnalyzer: <a href="https://github.com/DCBIA-OrthoLab/ShapeVariationAnalyzer/pull/72" class="inline-onebox">COMP: VTK 9.6 Build Fix - Fix iostream include hygiene by sjh26 · Pull Request #72 · DCBIA-OrthoLab/ShapeVariationAnalyzer · GitHub</a><br>
+<span class="chcklst-box checked fa fa-square-check-o"></span> SlicerFreeSurfer: <a href="https://github.com/PerkLab/SlicerFreeSurfer/pull/22" class="inline-onebox">COMP: VTK 9.6 Build Fix - Fix iostream include hygiene by sjh26 · Pull Request #22 · PerkLab/SlicerFreeSurfer · GitHub</a></p>
+
+---
+
+## Post #15 by @Sam_Horvath (2026-04-10 19:20 UTC)
+
+<p>This appears to be everything for current failures caused by VTK 9.6 transition</p>
 
 ---

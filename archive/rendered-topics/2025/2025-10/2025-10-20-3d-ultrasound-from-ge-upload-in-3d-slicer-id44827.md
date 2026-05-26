@@ -1,8 +1,9 @@
 ---
 topic_id: 44827
-title: "3D Ultrasound From Ge Upload In 3D Slicer"
+title: "3d ultrasound from GE upload in 3d slicer"
 date: 2025-10-20
 url: https://discourse.slicer.org/t/44827
+last_bumped: 2026-04-06T00:33:43.060Z
 ---
 
 # 3d ultrasound from GE upload in 3d slicer
@@ -28,5 +29,11 @@ url: https://discourse.slicer.org/t/44827
 <p>I asked to my GE rep’ for the image3dAPI sofware.</p>
 <p>thanks for help!</p>
 <p>mathieu</p>
+
+---
+
+## Post #2 by @praveen520 (2026-04-06 00:33 UTC)
+
+<p>Hi have you had any luck loading 3D echo datasets from GE into 3D slicer?</p>
 
 ---

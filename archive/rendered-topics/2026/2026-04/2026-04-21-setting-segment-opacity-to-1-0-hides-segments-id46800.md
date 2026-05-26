@@ -1,8 +1,9 @@
 ---
 topic_id: 46800
-title: "Setting Segment Opacity To 1 0 Hides Segments"
+title: "Setting segment opacity to < 1.0 hides segments"
 date: 2026-04-21
 url: https://discourse.slicer.org/t/46800
+last_bumped: 2026-05-23T04:04:59.096Z
 ---
 
 # Setting segment opacity to < 1.0 hides segments
@@ -77,5 +78,41 @@ url: https://discourse.slicer.org/t/46800
 <li>Does it occur with both wayland and x11?</li>
 <li>Does ParaView have the same issue?</li>
 </ul>
+
+---
+
+## Post #8 by @chir.set (2026-04-22 18:29 UTC)
+
+<aside class="quote no-group" data-username="lassoan" data-post="7" data-topic="46800">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="24" height="24" src="https://sea2.discourse-cdn.com/flex002/user_avatar/discourse.slicer.org/lassoan/48/13_2.png" class="avatar"> lassoan:</div>
+<blockquote>
+<p>Do you have the same issue with the official Kitware-build Slicer packages, too?</p>
+</blockquote>
+</aside>
+<p>Yes, with the builds from <a href="http://download.slicer.org" rel="noopener nofollow ugc">download.slicer.org</a>.</p>
+<p>The 3D opacity is rightly applied in Ubuntu 24.04 booted as an ISO, and in a third Arch machine that has been updated about 3 weeks ago.</p>
+<p>Else, it’s on or off with any tweak : SLICER_OPENGL_PROFILE, 5.10, latest preview, Wayland, X11, older kernel, disabling slicerrc.py, creating a new user… I could not test depth peeling as I don’t find it in settings.</p>
+<p>Thanks all for your input, wait and see…</p>
+
+---
+
+## Post #9 by @chir.set (2026-04-23 18:18 UTC)
+
+<p>The solution found <a href="https://wiki.archlinux.org/title/OpenGL" rel="noopener nofollow ugc">here</a> is to use:</p>
+<blockquote>
+<p>export MESA_LOADER_DRIVER_OVERRIDE=zink</p>
+</blockquote>
+<p>The problem occurs similarly for <code>Models</code> and for surfaces rendered in the <code>ExtraMarkups</code> extension, i.e, for any transparent polydata surface.</p>
+<p>The default driver for AMD GPUs is <code>radeonsi</code>, which seems to be in cause. But maybe <code>VTK</code> has some additional things to consider here.</p>
+<p>The fallback <code>llvmpipe</code> driver works also.</p>
+
+---
+
+## Post #10 by @chir.set (2026-05-23 04:04 UTC)
+
+<p>The fundamental fix has been applied in the <a href="https://gitlab.freedesktop.org/mesa/mesa/-/work_items/15352" rel="noopener nofollow ugc">mesa</a> package.</p>
+<p>To be complete, the <code>zink</code> driver (Vulkan) resolves the transparency problem, but is found bad for <code>Volume rendering</code>.</p>
 
 ---

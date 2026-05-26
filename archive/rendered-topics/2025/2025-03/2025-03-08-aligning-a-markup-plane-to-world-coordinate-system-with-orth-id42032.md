@@ -1,8 +1,9 @@
 ---
 topic_id: 42032
-title: "Aligning A Markup Plane To World Coordinate System With Orth"
+title: "Aligning a markup plane to world coordinate system, with orthogonal planes"
 date: 2025-03-08
 url: https://discourse.slicer.org/t/42032
+last_bumped: 2026-02-23T20:50:08.139Z
 ---
 
 # Aligning a markup plane to world coordinate system, with orthogonal planes
@@ -31,5 +32,46 @@ url: https://discourse.slicer.org/t/42032
 ## Post #2 by @chir.set (2025-03-08 20:26 UTC)
 
 <p>If i have well understood your requirement, this <a href="https://discourse.slicer.org/t/how-rotate-the-axial-slice-in-script-to-make-it-parallel-with-the-plane-across-3-specified-points/41187/2">reply</a> to a <em>more or less</em> similar question may be helpful. If you <a href="https://gitlab.com/chir-set/RcHacks7/-/tree/900664b75fca04210a065f1324d7fae0214eb559#2-reslice-functions" rel="noopener nofollow ugc">copy and paste</a> the reference codes in your <a href="https://slicer.readthedocs.io/en/latest/user_guide/settings.html#application-startup-file" rel="noopener nofollow ugc">application startup file</a>, you’ll get a nice GUI as a toolbar to perform such reslicing.</p>
+
+---
+
+## Post #3 by @Antmaker (2026-02-21 00:47 UTC)
+
+<p>The links return 404, could you provide a new link or the code that was referenced in the repo?</p>
+
+---
+
+## Post #4 by @chir.set (2026-02-21 21:02 UTC)
+
+<p>You may use this <a href="https://gitlab.com/chir-set/Tools7/-/tree/master/ManyThingsToolBar/" rel="noopener nofollow ugc">module</a> instead. The 404 is because the referenced code has been integrated in this <a href="https://gitlab.com/chir-set/Tools7" rel="noopener nofollow ugc">extension</a> differently and the original repository has been deleted.</p>
+
+---
+
+## Post #5 by @Antmaker (2026-02-23 20:11 UTC)
+
+<p>Thanks for the code.<br>
+I was able to install your source and get it working. However, I realized the difference between aligning markups vs transforming the volume by aligning the markups.</p>
+<p>Is there something in your toolkit that also transforms the volume by aligning the markup lines to each of the LAI global axes?</p>
+
+---
+
+## Post #6 by @chir.set (2026-02-23 20:33 UTC)
+
+<aside class="quote no-group" data-username="Antmaker" data-post="5" data-topic="42032">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="24" height="24" src="https://sea2.discourse-cdn.com/flex002/user_avatar/discourse.slicer.org/antmaker/48/81424_2.png" class="avatar"> Antmaker:</div>
+<blockquote>
+<p>transforms the volume</p>
+</blockquote>
+</aside>
+<p>No, applying transforms to a volume was not a goal.</p>
+<p>In fact, the code only reformats slice views, nothing is being transformed.</p>
+
+---
+
+## Post #7 by @Antmaker (2026-02-23 20:50 UTC)
+
+<p>Got it. Thank you for your help.</p>
 
 ---

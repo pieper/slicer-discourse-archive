@@ -1,8 +1,9 @@
 ---
 topic_id: 46670
-title: "Landmark Based Alignment Of Separate Ct Elements"
+title: "Landmark-based alignment of separate CT elements"
 date: 2026-04-06
 url: https://discourse.slicer.org/t/46670
+last_bumped: 2026-04-12T11:31:49.832Z
 ---
 
 # Landmark-based alignment of separate CT elements
@@ -29,5 +30,11 @@ I hope you are doing well. I am reaching out in search of guidance and advice.</
 <p>These links should help:</p>
 <p><a href="https://slicer.readthedocs.io/en/latest/user_guide/modules/fiducialregistration.html">https://slicer.readthedocs.io/en/latest/user_guide/modules/fiducialregistration.html</a></p>
 <p><a href="https://slicer.readthedocs.io/en/latest/user_guide/registration.html">https://slicer.readthedocs.io/en/latest/user_guide/registration.html</a></p>
+
+---
+
+## Post #3 by @JaredAmudeo (2026-04-12 11:31 UTC)
+
+<p>I managed to do it, thank you very much!</p>
 
 ---

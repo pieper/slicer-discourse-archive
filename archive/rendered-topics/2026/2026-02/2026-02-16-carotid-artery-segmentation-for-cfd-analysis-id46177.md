@@ -1,8 +1,9 @@
 ---
 topic_id: 46177
-title: "Carotid Artery Segmentation For Cfd Analysis"
+title: "Carotid Artery Segmentation for CFD analysis"
 date: 2026-02-16
 url: https://discourse.slicer.org/t/46177
+last_bumped: 2026-02-20T17:13:31.339Z
 ---
 
 # Carotid Artery Segmentation for CFD analysis
@@ -40,5 +41,34 @@ What’s the end goal, research or a specific project? The approach can vary qui
 <p>The learning curve is steeper than most tutorials suggest, especially with patient-specific images where every case is different.</p>
 <p>Since you’re working under a professor with a research deadline, it might actually save you a lot of time to have someone walk you through it on your actual data rather than piecing it together from scattered resources.</p>
 <p>Best of Luck!</p>
+
+---
+
+## Post #5 by @DavidM (2026-02-20 17:13 UTC)
+
+<p>Noor and Aadhya. You may both be interested in the ClipVessel module in vmtk Slicer extension. This will allow you to interactively clip and cap your segmentation.</p>
+<aside class="onebox githubfolder" data-onebox-src="https://github.com/vmtk/SlicerExtension-VMTK/tree/master/ClipVessel">
+  <header class="source">
+      <img src="https://github.githubassets.com/favicons/favicon.svg" class="site-icon" alt="" width="32" height="32">
+
+      <a href="https://github.com/vmtk/SlicerExtension-VMTK/tree/master/ClipVessel" target="_blank" rel="noopener nofollow ugc">github.com</a>
+  </header>
+
+  <article class="onebox-body">
+    <h3><a href="https://github.com/vmtk/SlicerExtension-VMTK/tree/master/ClipVessel" target="_blank" rel="noopener nofollow ugc">SlicerExtension-VMTK/ClipVessel at master · vmtk/SlicerExtension-VMTK</a></h3>
+
+
+  <p><span class="label1">Contribute to vmtk/SlicerExtension-VMTK development by creating an account on GitHub.</span></p>
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
 
 ---

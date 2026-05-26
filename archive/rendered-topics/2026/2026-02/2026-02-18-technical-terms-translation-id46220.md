@@ -1,8 +1,9 @@
 ---
 topic_id: 46220
-title: "Technical Terms Translation"
+title: "Technical terms translation"
 date: 2026-02-18
 url: https://discourse.slicer.org/t/46220
+last_bumped: 2026-02-19T00:22:39.443Z
 ---
 
 # Technical terms translation
@@ -24,5 +25,11 @@ url: https://discourse.slicer.org/t/46220
 ## Post #2 by @lassoan (2026-02-18 22:12 UTC)
 
 <p>Please use the term that is used for medical image registration. You can make the change directly in <a href="https://hosted.weblate.org/projects/3d-slicer/3d-slicer/">Weblate - the site where Slicer translations are managed</a>. You can find guidelines for the translation in the <a href="https://github.com/SoniaPujolLab/SlicerLanguagePacks?tab=readme-ov-file#documentation">LanguagePacks extension documentation</a>. Thanks in advance for your contribution!</p>
+
+---
+
+## Post #3 by @Antonio_Oliveira (2026-02-19 00:22 UTC)
+
+<p>Yes I’m currently on Weblate, thanks for the documentation! I did not see it beforehand, my bad. I’ll keep this in mind and in the mean time I found that we actually use the term, but I’ll have to stick to academic material since several search engine recommendations aren’t keen on a lot of these terms.</p>
 
 ---

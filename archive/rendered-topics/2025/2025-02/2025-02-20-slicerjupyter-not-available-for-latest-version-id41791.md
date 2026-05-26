@@ -1,8 +1,9 @@
 ---
 topic_id: 41791
-title: "Slicerjupyter Not Available For Latest Version"
+title: "SlicerJupyter not available for latest version?"
 date: 2025-02-20
 url: https://discourse.slicer.org/t/41791
+last_bumped: 2026-04-27T14:41:57.558Z
 ---
 
 # SlicerJupyter not available for latest version?
@@ -94,5 +95,32 @@ It would be a huge help if the extension was available in the latest realease</p
 
 <p>Hi, just wanted to let you know that we used SlicerJupiter a lot for analysis of clinical CT data as well as for a prototyping and debugging tool for surgery planning. For someone with a Data Analysis background I struggle to imagine developing something more complex without it. Having problems with the installation on MacOS since Slicer 5.2, we kind of got stuck on this Slicer release.  I always check if new Versions fixed the issue, now seeing it gone completely from the Extension manager is a bit of a downer. I hope someone finds time to look into it.<br>
 That being said, thanks a lot for all the development you are doing, also I wouldn’t know how I would have fixed problems without all the information I found in this forum mostly by Andras himself.</p>
+
+---
+
+## Post #10 by @ebrahim (2026-04-22 04:44 UTC)
+
+<p>For those watching this thread, we just merged a set of fixes/upgrades to SlicerJupyter that at least worked for me on linux. It looked like there was a possibly independent set of issues on windows so IDK about that, but at least on linux it should work now!</p>
+
+---
+
+## Post #11 by @Juergen (2026-04-24 21:34 UTC)
+
+<p>Thanks for working on a fix for the Linux version. Unfortunately, I’m on Windows and I don’t know how to fix it. I hope somebody can help this along. I had to set up a new computer and just copied the old Slicer directory and hope this old version still works. Otherwise I would be locked out of my SlicerJupyter code.</p>
+
+---
+
+## Post #12 by @ebrahim (2026-04-27 14:41 UTC)
+
+<aside class="quote no-group" data-username="Juergen" data-post="11" data-topic="41791">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="24" height="24" src="https://sea2.discourse-cdn.com/flex002/user_avatar/discourse.slicer.org/juergen/48/66870_2.png" class="avatar"> Juergen:</div>
+<blockquote>
+<p>I had to set up a new computer and just copied the old Slicer directory and hope this old version still works. Otherwise I would be locked out of my SlicerJupyter code.</p>
+</blockquote>
+</aside>
+<p>In case you need to download an older version of Slicer to make something work, older versions are always available. See this link on <a href="http://download.slicer.org">download.slicer.org</a>:<br>
+<div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/e/8/e88a4123145e4316f987bc3d2975096fceda9665.png" data-download-href="/uploads/short-url/xb8YSuNF63Vpkbm1hAg985ZC7MF.png?dl=1" title="image"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/e/8/e88a4123145e4316f987bc3d2975096fceda9665_2_690x244.png" alt="image" data-base62-sha1="xb8YSuNF63Vpkbm1hAg985ZC7MF" width="690" height="244" srcset="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/e/8/e88a4123145e4316f987bc3d2975096fceda9665_2_690x244.png, https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/e/8/e88a4123145e4316f987bc3d2975096fceda9665.png 1.5x, https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/e/8/e88a4123145e4316f987bc3d2975096fceda9665.png 2x" data-dominant-color="EEF4F7"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">image</span><span class="informations">853×302 20 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
 
 ---

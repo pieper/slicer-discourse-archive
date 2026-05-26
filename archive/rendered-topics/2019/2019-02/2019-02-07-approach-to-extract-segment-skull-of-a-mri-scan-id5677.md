@@ -1,8 +1,9 @@
 ---
 topic_id: 5677
-title: "Approach To Extract Segment Skull Of A Mri Scan"
+title: "Approach to extract/segment skull of a MRI scan"
 date: 2019-02-07
 url: https://discourse.slicer.org/t/5677
+last_bumped: 2026-03-13T07:53:41.855Z
 ---
 
 # Approach to extract/segment skull of a MRI scan
@@ -58,5 +59,11 @@ Viorel</p>
 ## Post #5 by @jonel (2025-11-11 21:26 UTC)
 
 <p>If you are still searching for a solution to this problem you might be interested in the new ModalityConverter extension: <a href="https://discourse.slicer.org/t/new-extension-modalityconverter-bringing-ai-medical-image-to-image-translation-to-3d-slicer/44405" class="inline-onebox">New extension: ModalityConverter - bringing AI medical image-to-image translation to 3D Slicer</a> You can use it to generate a synthetic CT from your MRI images, from which you can then easily extract the skull with the Segment Editor.</p>
+
+---
+
+## Post #6 by @ciro.raggio (2026-03-13 07:53 UTC)
+
+<p>Here you can also find a <a href="https://github.com/ciroraggio/SlicerModalityConverter?tab=readme-ov-file#skull-extraction-from-t1w-mri-via-deep-learning-based-image-to-image-translation-in-3d-slicer" rel="noopener nofollow ugc">video tutorial</a> on how to do it using ModalityConverter!</p>
 
 ---

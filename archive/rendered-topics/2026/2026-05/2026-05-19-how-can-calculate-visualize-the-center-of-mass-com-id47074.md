@@ -1,8 +1,9 @@
 ---
 topic_id: 47074
-title: "How Can Calculate Visualize The Center Of Mass Com"
+title: "How can Calculate & Visualize the Center of Mass (COM)?"
 date: 2026-05-19
 url: https://discourse.slicer.org/t/47074
+last_bumped: 2026-05-21T15:00:04.290Z
 ---
 
 # How can Calculate & Visualize the Center of Mass (COM)?
@@ -39,5 +40,31 @@ Visualization of the heart Center of Mass (COM) in 3D Slicer for a patient with 
 <p>I am a student and still a beginner in working with 3D Slicer software. Therefore, I would highly appreciate very detailed, step-by-step guidance for the following questions. If possible, please explain the workflow in a beginner-friendly manner, including the names of modules, extensions, buttons, and menus that should be used in 3D Slicer version 5.10.0.</p>
 <p>Additionally, I noticed that some older tutorials mention extensions such as Plastimatch or QARegistration, but these extensions do not appear in the Extension Manager of Slicer 5.10.0. Therefore, I would appreciate recommendations for alternative workflows that are currently supported in this version.</p>
 <p>Thank you very much for your help and guidance.</p>
+
+---
+
+## Post #2 by @MasatoshiOBA (2026-05-21 15:00 UTC)
+
+<p>Yes, you can obtain the centroid coordinates using the <strong>Segment Statistics</strong> module.</p>
+<p>If you already have a segmentation of the heart, you can open <strong>Segment Statistics</strong>, select the segmentation node and the heart segment, and run the calculation. The module can report the centroid / center of mass coordinates of the segment in Slicer’s coordinate system.</p>
+<p>However, if your goal is to <strong>compare</strong> the center of mass between free breathing and DIBH CT, one additional step is important.</p>
+<p>The centroid coordinates are only directly comparable if the two CT volumes are in the <strong>same physical coordinate system</strong>. If the two CT scans were acquired separately, differences in patient positioning, table position, or image origin may affect the coordinates. In that case, the difference between the two centroids may not represent only the motion of the heart.</p>
+<p>So, a possible workflow would be:</p>
+<ol>
+<li>
+<p>Calculate the centroid of the heart segment in the free-breathing CT.</p>
+</li>
+<li>
+<p>Calculate the centroid of the heart segment in the DIBH CT.</p>
+</li>
+<li>
+<p>Register the two CT volumes, or otherwise make sure they are in the same coordinate system.</p>
+</li>
+<li>
+<p>Then compare the two centroid positions, for example by calculating the displacement vector or distance between them.</p>
+</li>
+</ol>
+<p>In short: <strong>Segment Statistics can give you the centroid coordinates, but for comparison between two CT scans, you need to make sure both centroids are expressed in the same coordinate system.</strong></p>
+<p>Otherwise, you may be measuring differences in scan position rather than true anatomical displacement.</p>
 
 ---

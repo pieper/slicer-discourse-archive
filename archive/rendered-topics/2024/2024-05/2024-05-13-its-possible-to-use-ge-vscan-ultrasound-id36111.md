@@ -1,8 +1,9 @@
 ---
 topic_id: 36111
-title: "Its Possible To Use Ge Vscan Ultrasound"
+title: "It's possible to use GE Vscan Ultrasound?"
 date: 2024-05-13
 url: https://discourse.slicer.org/t/36111
+last_bumped: 2026-03-26T17:33:39.506Z
 ---
 
 # It's possible to use GE Vscan Ultrasound?
@@ -75,5 +76,12 @@ url: https://discourse.slicer.org/t/36111
 ## Post #9 by @lassoan (2024-09-12 01:57 UTC)
 
 <p>A post was split to a new topic: <a href="/t/create-3d-volume-from-2d-ultrasound-with-imu/38343">Create 3D volume from 2D ultrasound with IMU</a></p>
+
+---
+
+## Post #10 by @Andrew_Somerville (2026-03-26 17:33 UTC)
+
+<p>This is fantastic. I’m curious if you’ve done any more with this in the mean time.</p>
+<p>I have a vscan air and would be curious to try this if I find the time, but would love to avoid starting from scratch if possible.</p>
 
 ---

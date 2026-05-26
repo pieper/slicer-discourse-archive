@@ -1,8 +1,9 @@
 ---
 topic_id: 46621
-title: "Screen Capture And Screenshot Export Issues"
+title: "Screen Capture and Screenshot export issues"
 date: 2026-03-31
 url: https://discourse.slicer.org/t/46621
+last_bumped: 2026-04-02T16:49:51.332Z
 ---
 
 # Screen Capture and Screenshot export issues
@@ -83,5 +84,43 @@ url: https://discourse.slicer.org/t/46621
   <div style="clear: both"></div>
 </aside>
 
+
+---
+
+## Post #5 by @Atticus (2026-04-01 13:24 UTC)
+
+<p>Thanks to <a class="mention" href="/u/mikebind">@mikebind</a> and <a class="mention" href="/u/muratmaga">@muratmaga</a> for their replies and solutions on these issues.</p>
+<p>Indeed keeping the default name entry for the single frame PNG makes it work, but as it is mentioned on the thread you pointed at, having a name reset button would be useful.</p>
+<p>Also, I had not used HiRes Screen Capture before, it works as described. Now, is there any way to make those screen captures transparent?</p>
+
+---
+
+## Post #6 by @muratmaga (2026-04-01 16:42 UTC)
+
+<aside class="quote no-group" data-username="Atticus" data-post="5" data-topic="46621">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="24" height="24" src="https://sea2.discourse-cdn.com/flex002/user_avatar/discourse.slicer.org/atticus/48/80526_2.png" class="avatar"> Atticus:</div>
+<blockquote>
+<p>make those screen captures transparent</p>
+</blockquote>
+</aside>
+<p>You mean the background? Not for the time being, I will add that request to the backlog of stuff.</p>
+<p>Meanwhile, you can set the background to a uniform color (like white) and then use something like GIMP to remove that. But I agree it is better to have that in the module.</p>
+
+---
+
+## Post #7 by @muratmaga (2026-04-01 19:58 UTC)
+
+<p>I have added the option to save transparent background (only for PNG format). If you are using v5.10, tomorrow update your Slicermorph extension. Or download download the preview version tomorrow and then install SlicerMorph.</p>
+<p>I didn’t test it extensively, but it seems to work. Let me know how it works.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/d/b/dbce7f351d5150b43ab14536cbc5ffef2c1ec131.png" data-download-href="/uploads/short-url/vmuYYYF63h6k0TCnfzzCiRsQZ57.png?dl=1" title="transparent" rel="noopener nofollow ugc"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/d/b/dbce7f351d5150b43ab14536cbc5ffef2c1ec131_2_493x499.png" alt="transparent" data-base62-sha1="vmuYYYF63h6k0TCnfzzCiRsQZ57" width="493" height="499" srcset="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/d/b/dbce7f351d5150b43ab14536cbc5ffef2c1ec131_2_493x499.png, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/d/b/dbce7f351d5150b43ab14536cbc5ffef2c1ec131_2_739x748.png 1.5x, https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/d/b/dbce7f351d5150b43ab14536cbc5ffef2c1ec131.png 2x" data-dominant-color="321B12"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">transparent</span><span class="informations">928×941 84.6 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
+
+---
+
+## Post #8 by @Atticus (2026-04-02 16:49 UTC)
+
+<p><a class="mention" href="/u/muratmaga">@muratmaga</a> this is incredible! I have updated the SlicerMorph extension and it works perfect.I have now tested increasing the factor and removing the background and I am very happy with the result. Thanks for the super quick fix!</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/3/d/3db749defcb95a619e12543f82bd727f9e683250.jpeg" data-download-href="/uploads/short-url/8NXOODdEauYJcwplZoUAnUgKCTm.jpeg?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/3/d/3db749defcb95a619e12543f82bd727f9e683250_2_690x474.jpeg" alt="image" data-base62-sha1="8NXOODdEauYJcwplZoUAnUgKCTm" width="690" height="474" srcset="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/3/d/3db749defcb95a619e12543f82bd727f9e683250_2_690x474.jpeg, https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/3/d/3db749defcb95a619e12543f82bd727f9e683250.jpeg 1.5x, https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/3/d/3db749defcb95a619e12543f82bd727f9e683250.jpeg 2x" data-dominant-color="89867D"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">image</span><span class="informations">1033×711 154 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
 
 ---

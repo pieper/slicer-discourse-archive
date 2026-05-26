@@ -1,8 +1,9 @@
 ---
 topic_id: 36466
-title: "Tractography Roi Selection Via Script"
+title: "Tractography ROI selection via script"
 date: 2024-05-29
 url: https://discourse.slicer.org/t/36466
+last_bumped: 2026-04-30T13:14:02.743Z
 ---
 
 # Tractography ROI selection via script
@@ -19,5 +20,11 @@ url: https://discourse.slicer.org/t/36466
 Slicer version: 5.6.2<br>
 I would like to automatically extract fiber bundles from a UKF tractography vtk file using the Tractography ROI selection module. I have a label map that contains FreeSurfer labels as well as some manually created labels. I want to use a script to automatically extract the fiber bundle for each pair of labels. Could anyone guide me on which Slicer function I should use? I am looking for a module similar to slicer.mrmlScene.AddNewNodeByClass(“vtkMRMLTractographyROISelection…”).</p>
 <p>Thank you in advance for your help!</p>
+
+---
+
+## Post #2 by @Ann_Jacob (2026-04-30 13:14 UTC)
+
+<p>Hello, did you ever figure out how to do it?</p>
 
 ---

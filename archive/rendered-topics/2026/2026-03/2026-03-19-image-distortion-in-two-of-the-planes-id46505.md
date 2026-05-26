@@ -1,8 +1,9 @@
 ---
 topic_id: 46505
-title: "Image Distortion In Two Of The Planes"
+title: "Image distortion in two of the planes"
 date: 2026-03-19
 url: https://discourse.slicer.org/t/46505
+last_bumped: 2026-03-23T12:08:34.112Z
 ---
 
 # Image distortion in two of the planes
@@ -23,5 +24,17 @@ url: https://discourse.slicer.org/t/46505
 ## Post #2 by @pieper (2026-03-19 21:22 UTC)
 
 <p>That looks like the kind of problem that can come from trying to load a directory of png files or something.  Slicer may try to guess the order but since there’s no metadata the geometry can be wrong.  You can try the <a href="https://github.com/SlicerMorph/S_2020/blob/master/Day_1/ImageStacks/ImageStacks.md">ImageStacks module in SlicerMorph</a>.  If that’s not it report back with more details about the data.</p>
+
+---
+
+## Post #3 by @rainbow.jedi (2026-03-23 11:19 UTC)
+
+<p>Finally got round to looking at this and I won’t lie I am not a very computery person at all so just about all of the stuff on that link made no sense to me at all. Are there any other solutions you could think of that would be able to be explained to me like I’m a 5 year old?</p>
+
+---
+
+## Post #4 by @pieper (2026-03-23 12:08 UTC)
+
+<p>A good place to start would be for you to provide more details.  What format is your data in? (png, dicom, other?).  What are the filenames?  How did you try to load them?  Anything else that may be different than the sample data and tutorials you have seen?</p>
 
 ---

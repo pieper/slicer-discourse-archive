@@ -1,8 +1,9 @@
 ---
 topic_id: 46997
-title: "How Can I Calculate Dose Mass Histograms And The Impact Of L"
+title: "How can I calculate dose-mass histograms and the impact of lung expansion"
 date: 2026-05-12
 url: https://discourse.slicer.org/t/46997
+last_bumped: 2026-05-14T13:05:28.568Z
 ---
 
 # How can I calculate dose-mass histograms and the impact of lung expansion
@@ -92,5 +93,11 @@ url: https://discourse.slicer.org/t/46997
 <p>My objective is to reproduce a similar workflow for evaluating respiratory-induced anatomical changes between FB and DIBH in my own study.</p>
 <p>I am a student and still a beginner in working with 3D Slicer software. Therefore, I would highly appreciate detailed and beginner-friendly explanations, including module names, extension names, and step-by-step instructions whenever possible.</p>
 <p>Thank you very much for your time and help.</p>
+
+---
+
+## Post #2 by @ThomasVanParys (2026-05-14 13:05 UTC)
+
+<p>I may be wrong, but could you use <code>SlicerElastix</code>? Select the Fixed Volume as the FB CT set and Moving Volume as the DIBH CT set. The following Output Volume and create a new Transform node. The resulting Transform should be your DVF… calculating DVF you could navigate to the Transforms module and Convert it, and export the resulting output as a Disaplacement Field.. X,Y,Z data could be extracted from that using the Vector to Scalar Volume module?</p>
 
 ---

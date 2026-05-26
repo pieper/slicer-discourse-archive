@@ -1,8 +1,9 @@
 ---
 topic_id: 31239
-title: "How To Get Rf Data From Bk Ultrasound Devices"
+title: "How to get RF data from BK ultrasound devices"
 date: 2023-08-19
 url: https://discourse.slicer.org/t/31239
+last_bumped: 2026-03-19T08:47:50.271Z
 ---
 
 # How to get RF data from BK ultrasound devices
@@ -69,5 +70,12 @@ url: https://discourse.slicer.org/t/31239
 ## Post #9 by @lassoan (2023-08-25 13:07 UTC)
 
 <p>Grabbie contains functions like computation of essential image metadata (such as number and length of scan lines for each imaging plane) from information queried from the OEM interface. You may be able to figure it out from the OEM interface documentation and experimentarion, but Grabbie can serve as a useful example. It seemed that Grabbie was kind of a work in progress when we worked with it (10+ years ago). Maybe they have something much better now.</p>
+
+---
+
+## Post #10 by @Sander_1 (2026-03-19 08:47 UTC)
+
+<p>Hello,<br>
+I am trying to do the same on our BKAktiv ultrasound. For research purposes we would like to obtain the RF data. So far we are still trying to figure out how we could do this. Did you have any results by applying for support at BK?</p>
 
 ---

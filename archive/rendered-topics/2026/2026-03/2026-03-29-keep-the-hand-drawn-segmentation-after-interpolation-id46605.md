@@ -1,8 +1,9 @@
 ---
 topic_id: 46605
-title: "Keep The Hand Drawn Segmentation After Interpolation"
+title: "Keep the hand-drawn segmentation after interpolation"
 date: 2026-03-29
 url: https://discourse.slicer.org/t/46605
+last_bumped: 2026-04-07T14:14:23.016Z
 ---
 
 # Keep the hand-drawn segmentation after interpolation
@@ -29,5 +30,45 @@ url: https://discourse.slicer.org/t/46605
 <p>Here is a video that better explains the issue.</p>
 <p></p><div class="video-placeholder-container" data-video-src="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/f/7/f7d84cfc6c1ced042b0082a1d0de41e4e6024dea.mp4" data-thumbnail-src="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/4/8/4834c8d77a6a6d4bbc92ecb7ed8eae246f7d97c3.png" data-video-base62-sha1="zmxm9JoCCkS4J61tpehvfSwTf3I.mp4">
   </div>This also happens even if I draw segmentation on only one slice after interpolation.<p></p>
+
+---
+
+## Post #3 by @muratmaga (2026-03-31 00:56 UTC)
+
+<p>With one slice there is nothing to interpolate. THat’s why it simply copies to the next one I suppose. You need to segment every 5-10 slices for fill between slices to work properly.</p>
+
+---
+
+## Post #4 by @mrrezaie (2026-03-31 13:56 UTC)
+
+<p>Thanks for the reply. That’s true. But I want to do segmentation on the original images, then apply it on the interpolated images. Any suggestion? Is there any option to reduce the width of the original segmentation to one interpolated slice?</p>
+
+---
+
+## Post #5 by @mikebind (2026-03-31 17:37 UTC)
+
+<aside class="quote no-group" data-username="mrrezaie" data-post="4" data-topic="46605">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="24" height="24" src="https://sea2.discourse-cdn.com/flex002/user_avatar/discourse.slicer.org/mrrezaie/48/17032_2.png" class="avatar"> mrrezaie:</div>
+<blockquote>
+<p>Is there any option to reduce the width of the original segmentation to one interpolated slice?</p>
+</blockquote>
+</aside>
+<p>Using python, you could get the binary labelmap representation of the upsampled segmentation and blank out most of the slices (i.e. just keep the central slice of each upsampled layer, set the others to zeros), then apply the interpolation. For example, if you upsampled 5x, you could keep every 5th slice.</p>
+
+---
+
+## Post #6 by @mrrezaie (2026-04-07 13:18 UTC)
+
+<p>Hello all,</p>
+<p>I simply resampled the images, and drew the segmentation afterwards on a few slices followed by “Fill between slices“, and the output is good enough. I was wondering if there is any way to resample the segmentation in the same way as volume (e.g., BSpline). I tried some coding, but I didn’t manage to get it working.</p>
+<p>Any suggestion? Thanks.</p>
+
+---
+
+## Post #7 by @mrrezaie (2026-04-07 14:14 UTC)
+
+<p>Update: I converted the segmentation to label map. Resample Scalar Volume worked, but the output is not resampled along the slices.</p>
 
 ---

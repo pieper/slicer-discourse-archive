@@ -1,8 +1,9 @@
 ---
 topic_id: 35699
-title: "Build 3D Slicer For Macos Arm64"
+title: "Build 3D Slicer for MacOS arm64?"
 date: 2024-04-24
 url: https://discourse.slicer.org/t/35699
+last_bumped: 2026-04-09T16:05:31.952Z
 ---
 
 # Build 3D Slicer for MacOS arm64?
@@ -465,5 +466,85 @@ Install Qt5 with x86_64…
 
 <p>The preceding work of updating Slicer from Qt5 to Qt6 has made progress and <a class="mention" href="/u/lassoan">@lassoan</a> has been working to integrate a large number of commits recently to support this effort. Remaining changes for Qt6 support should hopefully wrap up here in the next week and then we will likely update the Slicer Preview to Qt6.</p>
 <p>After that support for native arm64 builds will come. With the holidays and an upcoming Slicer project week in late-January - this task may ultimately happen later at that time. <a class="mention" href="/u/jcfr">@jcfr</a> has switched jobs and has less time available for the Slicer project, but others from Kitware will help support the infrastructure changes necessary to build and distribute arm64 native builds using Slicer factory build machines.</p>
+
+---
+
+## Post #14 by @GeneRisi (2026-04-09 14:37 UTC)
+
+<p>Hi James, is there a place to track MacOS on arm64 status and ask questions?</p>
+<p>Thanks!</p>
+<p>Gene</p>
+
+---
+
+## Post #15 by @jamesobutler (2026-04-09 16:05 UTC)
+
+<p>Below is the main GitHub issue tracking progress for macOS Arm64 support. There has been recent success for folks building Slicer from source, but no timeline on a version that would be available to download from <a href="https://download.slicer.org" rel="noopener nofollow ugc">https://download.slicer.org</a>. Lack of funded development is contributing to why this work has not completed yet.</p>
+<aside class="onebox githubissue" data-onebox-src="https://github.com/Slicer/Slicer/issues/6811">
+  <header class="source">
+
+      <a href="https://github.com/Slicer/Slicer/issues/6811" target="_blank" rel="noopener nofollow ugc">github.com/Slicer/Slicer</a>
+  </header>
+
+  <article class="onebox-body">
+    <div class="github-row">
+  <div class="github-icon-container" title="Issue" data-github-private-repo="false">
+	  <svg width="60" height="60" class="github-icon" viewBox="0 0 14 16" aria-hidden="true"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"></path></svg>
+  </div>
+
+  <div class="github-info-container">
+    <h4>
+      <a href="https://github.com/Slicer/Slicer/issues/6811" target="_blank" rel="noopener nofollow ugc">Support for building/testing/packaging Slicer on Apple arm64</a>
+    </h4>
+
+    <div class="github-info">
+      <div class="date">
+        opened <span class="discourse-local-date" data-format="ll" data-date="2023-02-02" data-time="00:01:58" data-timezone="UTC">12:01AM - 02 Feb 23 UTC</span>
+      </div>
+
+
+      <div class="user">
+        <a href="https://github.com/jcfr" target="_blank" rel="noopener nofollow ugc">
+          <img alt="" src="https://avatars.githubusercontent.com/u/219043?v=4" class="onebox-avatar-inline" width="20" height="20">
+          jcfr
+        </a>
+      </div>
+    </div>
+
+    <div class="labels">
+        <span style="display:inline-block;margin-top:2px;background-color: #B8B8B8;padding: 2px;border-radius: 4px;color: #fff;margin-left: 3px;">
+          Type: Enhancement
+        </span>
+    </div>
+  </div>
+</div>
+
+  <div class="github-row">
+    <p class="github-body-container">This is meta issues aiming to organize the sub-tasks associated with arm64 suppo<span class="show-more-container"><a href="" rel="noopener" class="show-more">…</a></span><span class="excerpt hidden">rt. See Sub-issues listed below.
+
+
+Related issues and pull requests:
+* https://github.com/Slicer/Slicer/issues/5944
+* https://github.com/Slicer/Slicer/issues/6705
+* https://github.com/Slicer/Slicer/issues/6490
+* https://github.com/Slicer/Slicer/pull/8097
+
+Related discourse posts:
+* https://discourse.slicer.org/t/issues-running-slicer-on-macbook-m1-max/23974/3
+* https://discourse.slicer.org/t/slicer-quit-unexpectedly-on-macbook-with-m1-chip/25989
+* https://discourse.slicer.org/t/build-arm-32-openssl/31204
+* https://discourse.slicer.org/t/developing-for-slicer-on-apple-silicon-build-targeting-x86-64/40686</span></p>
+  </div>
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
 
 ---

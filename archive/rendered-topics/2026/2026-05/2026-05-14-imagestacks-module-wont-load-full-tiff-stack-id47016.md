@@ -1,8 +1,9 @@
 ---
 topic_id: 47016
-title: "Imagestacks Module Wont Load Full Tiff Stack"
+title: "ImageStacks module won't load full tiff stack"
 date: 2026-05-14
 url: https://discourse.slicer.org/t/47016
+last_bumped: 2026-05-14T16:39:03.268Z
 ---
 
 # ImageStacks module won't load full tiff stack
@@ -56,5 +57,19 @@ Actual behavior: only selects a subset of the stack</p>
 <p>It should look something like this:</p>
 <p><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/4/9/4904d4fca7de0c2f97af17f6bb4af2427d984c61.png" alt="image" data-base62-sha1="apXcSPzF7tugaSd9znMAM435zyh" width="690" height="74" data-dominant-color="EDEDED"></p>
 <p>%04d means the sequences in filenames are expected to have four (4) numerical digits, which is the correct format for this.</p>
+
+---
+
+## Post #5 by @Jknaub (2026-05-14 14:15 UTC)
+
+<p>Hi Murat,</p>
+<p>Thanks for the suggestion. Weird that the drag and drop of one file allowed all files to be imported correctly but the browse feature doesn’t. Regardless, that solved my issue. Thanks so much!</p>
+
+---
+
+## Post #6 by @muratmaga (2026-05-14 16:39 UTC)
+
+<p>Browse relies on sorting provided by your operating system, which may not be by default set to filenames (it can be dates, file size, file type etc). If you click on sort by file name before in the file browser selector, it should work.</p>
+<p>Nevertheless, I add an issue to force sorting for browsing.</p>
 
 ---

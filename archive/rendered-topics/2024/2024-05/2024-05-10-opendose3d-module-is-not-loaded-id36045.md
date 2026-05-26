@@ -1,8 +1,9 @@
 ---
 topic_id: 36045
-title: "Opendose3D Module Is Not Loaded"
+title: "OpenDose3D module is not loaded"
 date: 2024-05-10
 url: https://discourse.slicer.org/t/36045
+last_bumped: 2026-04-13T00:48:53.463Z
 ---
 
 # OpenDose3D module is not loaded
@@ -62,5 +63,11 @@ Gamma</p>
 ## Post #6 by @Alex_Vergara (2025-02-01 11:20 UTC)
 
 <p>Your issue is being treated here <a href="https://gitlab.com/opendose/opendose3d/-/issues/92" class="inline-onebox" rel="noopener nofollow ugc">OpenDose3D failed to be instantiated/loaded (#92) · Issues · OpenDose / SlicerOpenDose3D · GitLab</a></p>
+
+---
+
+## Post #7 by @Rachel_Bartley (2026-04-13 00:48 UTC)
+
+<p>Hi, I am currently experiencing issues with the OpenDose3D calibration process. While the SPECT sensitivity calibration is functioning correctly, the recovery coefficient fails to process. I have attempted to load the datasets both simultaneously and sequentially, but neither method resolved the issue. Given that this error persists across multiple devices, I am unsure if the problem stems from the hardware or the software itself. Could you please provide guidance on how to resolve this?</p>
 
 ---

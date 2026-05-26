@@ -3,6 +3,7 @@ topic_id: 44552
 title: "Apple Silicon 3D Slicer Build"
 date: 2025-09-22
 url: https://discourse.slicer.org/t/44552
+last_bumped: 2026-02-25T19:49:14.780Z
 ---
 
 # Apple Silicon 3D Slicer Build
@@ -103,5 +104,11 @@ Related discourse posts:
   <div style="clear: both"></div>
 </aside>
 
+
+---
+
+## Post #3 by @Kerianne (2026-02-25 19:49 UTC)
+
+<p>Thanks. Downloading Rosetta 2 from Terminal seemed to do the trick with having the App launch.</p>
 
 ---

@@ -1,8 +1,9 @@
 ---
 topic_id: 46471
-title: "Using Getimagecropped Function In Pyautoscoper Getting Trunc"
+title: "Using getImageCropped function in PyAutoscoper. Getting truncated/empty data"
 date: 2026-03-16
 url: https://discourse.slicer.org/t/46471
+last_bumped: 2026-04-03T19:28:21.166Z
 ---
 
 # Using getImageCropped function in PyAutoscoper. Getting truncated/empty data
@@ -23,5 +24,32 @@ url: https://discourse.slicer.org/t/46471
 <li>Is there another recommended way to programmatically extract DRR or radiograph images from Autoscoper?</li>
 </ol>
 <p>Thanks for the help!</p>
+
+---
+
+## Post #2 by @John_Holtgrewe (2026-03-18 18:42 UTC)
+
+<p>Hi Prabhroop,</p>
+<p>My experience with using socket controls for SlicerAutoscoper has been limited to Matlab. I don’t believe there is an equivalent function, so I can’t answer your questions presently. However, this is something I can look into and get back to you on.</p>
+<p>Thank you,</p>
+<p>John</p>
+
+---
+
+## Post #3 by @Prabhroop_Singh (2026-03-30 23:38 UTC)
+
+<p>Hi John,</p>
+<p>Just following up on this, any updates on the socket controls on the Python side?</p>
+<p>Thanks,</p>
+<p>Prabhroop</p>
+
+---
+
+## Post #4 by @John_Holtgrewe (2026-04-03 19:28 UTC)
+
+<p>Hi Prabhroop,</p>
+<p>I did test the Python socket controls, and got the same results that you did. Troubleshooting this is beyond my expertise, so I have elevated this issue. There was a similar function in the documentation for the Matlab socket controls; however, this function was never fully implemented. It is possible that the Python socket function and other socket controls were not fully implemented.</p>
+<p>Thank you,</p>
+<p>John</p>
 
 ---

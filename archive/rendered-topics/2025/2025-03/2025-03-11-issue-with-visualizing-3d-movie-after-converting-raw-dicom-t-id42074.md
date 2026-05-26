@@ -1,8 +1,9 @@
 ---
 topic_id: 42074
-title: "Issue With Visualizing 3D Movie After Converting Raw Dicom T"
+title: "Issue with Visualizing 3D Movie After Converting Raw DICOM to Cartesian DICOM in 3D Slice"
 date: 2025-03-11
 url: https://discourse.slicer.org/t/42074
+last_bumped: 2026-04-07T01:17:43.886Z
 ---
 
 # Issue with Visualizing 3D Movie After Converting Raw DICOM to Cartesian DICOM in 3D Slice
@@ -87,5 +88,31 @@ However, if I upload the same file in other software like EchoPac or MicroDicom,
 ## Post #4 by @federica-pixel (2025-03-20 12:20 UTC)
 
 <p>Thanks so much! It is working properly now</p>
+
+---
+
+## Post #5 by @praveen520 (2026-04-06 00:31 UTC)
+
+<p>Are you able to load GE 3D color Doppler data using your technique into 3D slicer? If so, I would appreciate your help.</p>
+
+---
+
+## Post #6 by @lassoan (2026-04-06 12:17 UTC)
+
+<p>I don’t think Image3dAPI currently supports color Doppler image reading, but your can reach out to be to get the Image3dAPI codec from GE anyway and also ask if they have a version that supports Doppler.</p>
+<p>We got temporary license from Philips to a converter that creates readable files from their proprietary 3D color Doppler images (3D+t B-mode and velocity data) and we implemented a reader for these in Slicer. However, it took about two years from starting initial discussions to actually getting the converter.</p>
+
+---
+
+## Post #7 by @praveen520 (2026-04-06 23:13 UTC)
+
+<p>Thats great to hear. I am able to use 3D-TEE color datasets obtained form Philips machines. do you have a set of instructions on how to import such files into 3D slicer? any help would be appreciated (do I have to save/convert them first in QLab etc). Thank you.</p>
+
+---
+
+## Post #8 by @lassoan (2026-04-07 01:17 UTC)
+
+<p>The QLab route only works for bmode. You can import those images into Slicer using SlicerHeart.</p>
+<p>For color Doppler images you need to get another converter from Philips, which required some paperwork and took quite a bit of time for us.</p>
 
 ---

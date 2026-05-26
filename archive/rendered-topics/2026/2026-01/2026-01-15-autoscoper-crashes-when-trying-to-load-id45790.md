@@ -1,8 +1,9 @@
 ---
 topic_id: 45790
-title: "Autoscoper Crashes When Trying To Load"
+title: "Autoscoper crashes when trying to load"
 date: 2026-01-15
 url: https://discourse.slicer.org/t/45790
+last_bumped: 2026-04-06T11:02:19.596Z
 ---
 
 # Autoscoper crashes when trying to load
@@ -132,5 +133,12 @@ url: https://discourse.slicer.org/t/45790
 ## Post #12 by @Janae (2026-01-30 20:39 UTC)
 
 <p>Thanks so much David! Upon reinstalling the Autoscoper extension, I am now able to open and run Autoscoper.</p>
+
+---
+
+## Post #13 by @Nancy_Casper (2026-04-06 11:02 UTC)
+
+<p>It sounds like a frustrating crash, especially when you’re just trying to get the data loaded. One thing that often causes Autoscoper to hang or crash during the load process is a mismatch in the coordinate system or volume spacing in the .tif or .nrrd files.</p>
+<p>Have you checked if the file paths contain any special characters or spaces? Sometimes the underlying libraries can be a bit picky about directory naming. Another thing to try is downsampling the volume slightly before loading, just to rule out a memory ceiling issue on the GPU. If you can get a look at the console log right before it closes, it might point to a specific missing dependency or a shader compilation error.</p>
 
 ---

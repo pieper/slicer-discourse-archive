@@ -1,6 +1,6 @@
 # Slicer Discourse Archive Index
 
-Last updated: 2026-05-26 20:34 UTC
+Last updated: 2026-05-26 20:49 UTC
 
 ## Archive Contents
 
@@ -18,7 +18,16 @@ Last updated: 2026-05-26 20:34 UTC
 - [README.md](archive/rendered-topics/2018/2018-03/README.md)
 - [README.md](archive/rendered-topics/2018/2018-02/README.md)
 - [README.md](archive/rendered-topics/2018/2018-01/README.md)
+- [trigger event when cli run has completed](archive/rendered-topics/2018/2018-08/2018-08-14-trigger-event-when-cli-run-has-completed-id3774.md)
+- [generate digitally reconstructed radiograph from 3dct](archive/rendered-topics/2018/2018-02/2018-02-02-generate-digitally-reconstructed-radiograph-from-3dct-id2010.md)
+- [create a preset in volume rendering module](archive/rendered-topics/2018/2018-12/2018-12-30-create-a-preset-in-volume-rendering-module-id5227.md)
+- [dicom image intensity rescaling using non linear regression](archive/rendered-topics/2018/2018-12/2018-12-30-dicom-image-intensity-rescaling-using-non-linear-regression-id5228.md)
+- [model does not close after hollowing](archive/rendered-topics/2018/2018-12/2018-12-30-model-does-not-close-after-hollowing-id5232.md)
+- [registration and label statistics](archive/rendered-topics/2018/2018-12/2018-12-30-registration-and-label-statistics-id5229.md)
 - [the direction of x and y jaw position in beams module](archive/rendered-topics/2018/2018-12/2018-12-30-the-direction-of-x-and-y-jaw-position-in-beams-module-id5226.md)
+- [organizing dicom files to be able to have a 3d view](archive/rendered-topics/2018/2018-12/2018-12-23-organizing-dicom-files-to-be-able-to-have-a-3d-view-id5180.md)
+- [place fiducials](archive/rendered-topics/2018/2018-12/2018-12-23-place-fiducials-id5178.md)
+- [trasformation matrix to assess displacement](archive/rendered-topics/2018/2018-12/2018-12-23-trasformation-matrix-to-assess-displacement-id5175.md)
 - [ui problems menu bar cut off mouse click offset](archive/rendered-topics/2018/2018-12/2018-12-23-ui-problems-menu-bar-cut-off-mouse-click-offset-id5179.md)
 - [how to measure the adc value dwi and rcbv in brain mri is th](archive/rendered-topics/2018/2018-12/2018-12-24-how-to-measure-the-adc-value-dwi-and-rcbv-in-brain-mri-is-th-id5186.md)
 - [loading ct 3d dicom files](archive/rendered-topics/2018/2018-12/2018-12-24-loading-ct-3d-dicom-files-id5185.md)
@@ -35,11 +44,6 @@ Last updated: 2026-05-26 20:34 UTC
 - [load multiple cardiac phases for segmentation virtual realit](archive/rendered-topics/2018/2018-12/2018-12-29-load-multiple-cardiac-phases-for-segmentation-virtual-realit-id5214.md)
 - [problem with loading files](archive/rendered-topics/2018/2018-12/2018-12-29-problem-with-loading-files-id5223.md)
 - [segmenteditorextraeffects extension installed but cannot be](archive/rendered-topics/2018/2018-12/2018-12-29-segmenteditorextraeffects-extension-installed-but-cannot-be-id5221.md)
-- [create a preset in volume rendering module](archive/rendered-topics/2018/2018-12/2018-12-30-create-a-preset-in-volume-rendering-module-id5227.md)
-- [dicom image intensity rescaling using non linear regression](archive/rendered-topics/2018/2018-12/2018-12-30-dicom-image-intensity-rescaling-using-non-linear-regression-id5228.md)
-- [model does not close after hollowing](archive/rendered-topics/2018/2018-12/2018-12-30-model-does-not-close-after-hollowing-id5232.md)
-- [registration and label statistics](archive/rendered-topics/2018/2018-12/2018-12-30-registration-and-label-statistics-id5229.md)
-- [web request quicker easier access to dev site](archive/rendered-topics/2018/2018-12/2018-12-17-web-request-quicker-easier-access-to-dev-site-id5111.md)
 - [weird behaviour when loading us dicom](archive/rendered-topics/2018/2018-12/2018-12-17-weird-behaviour-when-loading-us-dicom-id5101.md)
 - [3d model to segmentation](archive/rendered-topics/2018/2018-12/2018-12-18-3d-model-to-segmentation-id5135.md)
 - [adding operations to segment editors scissors tool](archive/rendered-topics/2018/2018-12/2018-12-18-adding-operations-to-segment-editors-scissors-tool-id5124.md)
@@ -55,7 +59,3 @@ Last updated: 2026-05-26 20:34 UTC
 - [publishing segmentations on the web sketchfab](archive/rendered-topics/2018/2018-12/2018-12-19-publishing-segmentations-on-the-web-sketchfab-id5140.md)
 - [segmentation paint effect paints on current and next slice](archive/rendered-topics/2018/2018-12/2018-12-19-segmentation-paint-effect-paints-on-current-and-next-slice-id5149.md)
 - [vtk render to target texture](archive/rendered-topics/2018/2018-12/2018-12-19-vtk-render-to-target-texture-id5146.md)
-- [hide module panel by default](archive/rendered-topics/2018/2018-12/2018-12-20-hide-module-panel-by-default-id5156.md)
-- [how to measure volume of white matter lesions using 3d slice](archive/rendered-topics/2018/2018-12/2018-12-20-how-to-measure-volume-of-white-matter-lesions-using-3d-slice-id5152.md)
-- [request for suggestions for image informatics tools](archive/rendered-topics/2018/2018-12/2018-12-20-request-for-suggestions-for-image-informatics-tools-id5155.md)
-- [can i get diffusion tensor for every single pixel from dti](archive/rendered-topics/2018/2018-12/2018-12-21-can-i-get-diffusion-tensor-for-every-single-pixel-from-dti-id5163.md)

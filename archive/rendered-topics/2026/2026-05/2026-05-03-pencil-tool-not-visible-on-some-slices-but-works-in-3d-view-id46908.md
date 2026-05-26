@@ -1,8 +1,9 @@
 ---
 topic_id: 46908
-title: "Pencil Tool Not Visible On Some Slices But Works In 3D View"
+title: "Pencil tool not visible on some slices, but works in 3D view"
 date: 2026-05-03
 url: https://discourse.slicer.org/t/46908
+last_bumped: 2026-05-05T03:16:25.928Z
 ---
 
 # Pencil tool not visible on some slices, but works in 3D view
@@ -66,5 +67,17 @@ url: https://discourse.slicer.org/t/46908
 [DEBUG][Qt] 03.05.2026 12:12:24 <span class="chcklst-box fa fa-square-o"></span> (unknown:0) - “Volume” Reader has successfully read the file “/Users/alexanderschirkow/Downloads/SITE_006_PAT_008/vibe963_q_dixon_tra_p4_bh_DL_R2s_Eff_Series0105.mhd” “[0.04s]”<br>
 [DEBUG][Qt] 03.05.2026 12:12:24 <span class="chcklst-box fa fa-square-o"></span> (unknown:0) - “Volume” Reader has successfully read the file “/Users/alexanderschirkow/Downloads/SITE_006_PAT_008/vibe963_q_dixon_tra_p4_bh_DL_W_Series0101.mhd” “[0.03s]”<br>
 [DEBUG][Qt] 03.05.2026 12:12:37 <span class="chcklst-box fa fa-square-o"></span> (unknown:0) - Switch to module:  “SegmentEditor”</p>
+
+---
+
+## Post #2 by @lassoan (2026-05-04 20:44 UTC)
+
+<p>Do you see a small warning icon in Segment Editor near the volume selector at the top? It means that the slice view is not aligned with the segmentation axes, which is not supported by some effects, such as Draw. You can click that warning button to make the slice view aligned with the segmentation axes and then Draw effect should work.</p>
+
+---
+
+## Post #3 by @Alexander_Schirkow (2026-05-05 03:16 UTC)
+
+<p>Thank you for your response. Yes, I’ve reviewed your 2016 comments and was able to understand everything clearly.</p>
 
 ---

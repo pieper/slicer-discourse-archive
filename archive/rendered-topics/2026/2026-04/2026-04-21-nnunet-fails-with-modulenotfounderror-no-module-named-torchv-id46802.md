@@ -1,8 +1,9 @@
 ---
 topic_id: 46802
-title: "Nnunet Fails With Modulenotfounderror No Module Named Torchv"
+title: "nnUNet fails with ModuleNotFoundError: No module named 'torchvision.ops'"
 date: 2026-04-21
 url: https://discourse.slicer.org/t/46802
+last_bumped: 2026-05-11T21:03:11.415Z
 ---
 
 # nnUNet fails with ModuleNotFoundError: No module named 'torchvision.ops'
@@ -115,5 +116,102 @@ Something went wrong during the nnUNet processing.
 Please check the logs for potential errors and contact the library maintainers.
 </code></pre>
 <p>Using Slicer 5.10.0 on 2020 MacBook Pro, OSX Tahoe 26.3.1.</p>
+
+---
+
+## Post #2 by @aabrown100-git (2026-04-22 23:56 UTC)
+
+<p>I think this may be an issue with pip installing an old version of pytorch because I have an older laptop (with Intel chip).</p>
+
+---
+
+## Post #3 by @aabrown100-git (2026-05-09 04:58 UTC)
+
+<p>Got the same error with Slicer 5.11.0 on 2026 MacBook Pro, OSX Tahoe 26.4.1.</p>
+
+---
+
+## Post #4 by @aabrown100-git (2026-05-09 05:01 UTC)
+
+<p><a class="mention" href="/u/lassoan">@lassoan</a> Just saw your issue here: <a href="https://github.com/KitwareMedical/SlicerNNUnet/issues/22" class="inline-onebox" rel="noopener nofollow ugc">Fix nnunet on macos · Issue #22 · KitwareMedical/SlicerNNUnet · GitHub</a>. Is this the same problem I am seeing?</p>
+
+---
+
+## Post #5 by @lassoan (2026-05-09 05:38 UTC)
+
+<p>Yes, it looks like that. I’ve already fixed up TotalSegmentator and based on that I’ve created a yet untested patch for the NNUnet extension in Slicer:</p>
+<aside class="onebox githubpullrequest" data-onebox-src="https://github.com/KitwareMedical/SlicerNNUnet/pull/23">
+  <header class="source">
+
+      <a href="https://github.com/KitwareMedical/SlicerNNUnet/pull/23" target="_blank" rel="noopener">github.com/KitwareMedical/SlicerNNUnet</a>
+  </header>
+
+  <article class="onebox-body">
+    <div class="github-row" data-github-private-repo="false">
+
+
+
+    <div class="github-icon-container" title="Pull Request">
+      <svg width="60" height="60" class="github-icon" viewBox="0 0 12 16" aria-hidden="true"><path fill-rule="evenodd" d="M11 11.28V5c-.03-.78-.34-1.47-.94-2.06C9.46 2.35 8.78 2.03 8 2H7V0L4 3l3 3V4h1c.27.02.48.11.69.31.21.2.3.42.31.69v6.28A1.993 1.993 0 0 0 10 15a1.993 1.993 0 0 0 1-3.72zm-1 2.92c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zM4 3c0-1.11-.89-2-2-2a1.993 1.993 0 0 0-1 3.72v6.56A1.993 1.993 0 0 0 2 15a1.993 1.993 0 0 0 1-3.72V4.72c.59-.34 1-.98 1-1.72zm-.8 10c0 .66-.55 1.2-1.2 1.2-.65 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"></path></svg>
+    </div>
+
+  <div class="github-info-container">
+
+
+
+      <h4>
+        <a href="https://github.com/KitwareMedical/SlicerNNUnet/pull/23" target="_blank" rel="noopener">Fix nnunet on macOS (#23)</a>
+      </h4>
+
+    <div class="branches">
+      <code>main</code> ← <code>lassoan:macos-fix</code>
+    </div>
+
+      <div class="github-info">
+        <div class="date">
+          opened <span class="discourse-local-date" data-format="ll" data-date="2026-05-09" data-time="05:35:45" data-timezone="UTC">05:35AM - 09 May 26 UTC</span>
+        </div>
+
+        <div class="user">
+          <a href="https://github.com/lassoan" target="_blank" rel="noopener">
+            <img alt="" src="https://avatars.githubusercontent.com/u/307929?v=4" class="onebox-avatar-inline" width="20" height="20">
+            lassoan
+          </a>
+        </div>
+
+        <div class="lines" title="1 commits changed 1 files with 45 additions and 7 deletions">
+          <a href="https://github.com/KitwareMedical/SlicerNNUnet/pull/23/files" target="_blank" rel="noopener">
+            <span class="added">+45</span>
+            <span class="removed">-7</span>
+          </a>
+        </div>
+      </div>
+  </div>
+</div>
+
+  <div class="github-row">
+    <p class="github-body-container">Ensure correct nnunet, torch, torchvision, numpy versions are installed.
+
+fixe<span class="show-more-container"><a href="https://github.com/KitwareMedical/SlicerNNUnet/pull/23" target="_blank" rel="noopener" class="show-more">…</a></span><span class="excerpt hidden">s #22</span></p>
+  </div>
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
+<p>Please give it a try and let me know if the changes fix the problem on your computer.</p>
+
+---
+
+## Post #6 by @aabrown100-git (2026-05-11 21:03 UTC)
+
+<p>The latest code changes by <a class="mention" href="/u/lassoan">@lassoan</a> solved my issue. I am now able to successfully install and run nnUNet.</p>
+<p>Really appreciate your help <a class="mention" href="/u/lassoan">@lassoan</a>!</p>
 
 ---

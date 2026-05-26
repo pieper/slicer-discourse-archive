@@ -1,8 +1,9 @@
 ---
 topic_id: 46911
-title: "Totalsegmentator Fails To Install Pytorch Dependencies Insta"
+title: "TotalSegmentator fails to install PyTorch dependencies – installTorch() got unexpected keyword argument 'torchVisionVersionRequirement'"
 date: 2026-05-04
 url: https://discourse.slicer.org/t/46911
+last_bumped: 2026-05-05T11:40:08.304Z
 ---
 
 # TotalSegmentator fails to install PyTorch dependencies – installTorch() got unexpected keyword argument 'torchVisionVersionRequirement'
@@ -96,5 +97,12 @@ It works for version 5.10</p>
 
 <p>Failed to compute results.</p>
 <p>Command ‘[‘D:/software/3D Slicer 5.10.0/bin/../bin\\PythonSlicer.EXE’, ‘D:\\software\\3D Slicer 5.10.0\\lib\\Python\\Scripts\\TotalSegmentator.exe’, ‘-i’, ‘C:/Users/Lenovo/AppData/Local/Temp/Slicer/__SlicerTemp__2026-05-05_11+01+56.029/total-segmentator-input.nii’, ‘-o’, ‘C:/Users/Lenovo/AppData/Local/Temp/Slicer/__SlicerTemp__2026-05-05_11+01+56.029/segmentation’, ‘–device’, ‘gpu’, ‘–task’, ‘vertebrae_body’]’ returned non-zero exit status 1.</p>
+
+---
+
+## Post #10 by @lassoan (2026-05-05 11:40 UTC)
+
+<p>Great, the precoous problem was solved. TotalSegmentator is now started.</p>
+<p>Do you see more specific error message in the application log? What GPU do you have? Is segmentation successful on the CTChest sample sata set in fastest mode? Is segmentation successful if you force to use CPU?</p>
 
 ---

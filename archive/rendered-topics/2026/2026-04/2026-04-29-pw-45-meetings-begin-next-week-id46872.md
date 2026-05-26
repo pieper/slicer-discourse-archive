@@ -1,8 +1,9 @@
 ---
 topic_id: 46872
-title: "Pw 45 Meetings Begin Next Week"
+title: "PW 45 meetings begin next Week!"
 date: 2026-04-29
 url: https://discourse.slicer.org/t/46872
+last_bumped: 2026-05-05T13:50:27.900Z
 ---
 
 # PW 45 meetings begin next Week!
@@ -49,5 +50,28 @@ url: https://discourse.slicer.org/t/46872
 <p>Project Week <span class="hashtag-raw">#45</span> will be held June 22-26, 2026, at MIT, Boston, USA.. Please look here for additional details: <a href="https://projectweek.na-mic.org/PW45_2026_Boston/" class="inline-onebox">Welcome to the web page for the 44th Project Week! | NA-MIC Project Weeks</a> .</p>
 <p><em>Preparation</em>: To prepare, we will be holding weekly meetings at 10am on Tuesdays, starting <strong>May 5th, 2026</strong> and ending on June 16th. Please join at <a href="https://etsmtl.zoom.us/j/96828430830?pwd=9EqBWHKc4fytzNThgha4ByM1hoQwPr.1">this link</a> in order to discuss your ideas for project(s) for the week and to determine the fit between your goals and the other participants of the event.</p>
 <p><em>Background</em>: The Project Week is a week-long hackathon of hands on activity in which medical image computing researchers create solutions using the open source image computing platform, 3D Slicer, and VTK, ITK, CMake, and CDash libraries as well as OHIF, Cornerstone, dcmjs, vtkjs, itkjs, DICOMweb, Girder and related web technologies. Participants work collaboratively on solutions that lie at the interfaces of the fields of computer science, mechanical engineering, biomedical engineering, and medicine. In contrast to conferences and workshops where the primary focus is to report results, the objective of the ProjectWeek is to provide a venue for creators of medical image computing open-source software creators to collaboratively work.</p>
+
+---
+
+## Post #2 by @Joeycho (2026-05-05 13:50 UTC)
+
+<p>Hi everyone,</p>
+<p>I’m excited to participate in PW45 in Boston this year.</p>
+<p>By way of a brief introduction: I’m currently a PhD candidate at University Hospital Bonn (<a href="https://ccibonn.ai/authors/joey/" rel="noopener nofollow ugc">https://ccibonn.ai/authors/joey/</a>), and I’ve been contributing to the OHIF ecosystem for quite some time, including work on the OHIF-AI project (<a href="https://github.com/CCI-Bonn/OHIF-AI" rel="noopener nofollow ugc">https://github.com/CCI-Bonn/OHIF-AI</a>).</p>
+<p>I’d like to share a short overview of what I’m interested in focusing on during the project week. Currently, segmentation in OHIF/Cornerstone still has some limitations and unresolved issues, and it hasn’t fully kept pace in terms of reliability and robustness (for example: <a href="https://github.com/OHIF/Viewers/issues/5453" rel="noopener nofollow ugc">https://github.com/OHIF/Viewers/issues/5453</a>).</p>
+<p>During PW45, I’d be happy to dedicate time to addressing several of these segmentation-related challenges, with the goal of improving the overall stability and user experience of segmentation in OHIF/Cornerstone.</p>
+<p>In particular, I’m interested in:</p>
+<ul>
+<li>
+<p>Improving reliability and reducing errors in segmentation workflows</p>
+</li>
+<li>
+<p>Enabling better interchangeability between contour and labelmap segmentations</p>
+</li>
+<li>
+<p>Exploring support for segmentation in microscopy images within OHIF, similar to what the SLIM viewer provides</p>
+</li>
+</ul>
+<p>Looking forward to collaborating with others interested in this area.</p>
 
 ---

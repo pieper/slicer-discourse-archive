@@ -1,8 +1,9 @@
 ---
 topic_id: 46504
-title: "I Can Not Open Saved Files Gpa"
+title: "I can not open saved files/ GPA"
 date: 2026-03-19
 url: https://discourse.slicer.org/t/46504
+last_bumped: 2026-04-02T08:18:39.649Z
 ---
 
 # I can not open saved files/ GPA
@@ -24,5 +25,11 @@ url: https://discourse.slicer.org/t/46504
 
 <p>Error says your eigenvalues.csv file is missing a necessary column (the actual values). So either your GPA analysis didn’t output that correctly, or the spreadsheet has been edited accidentally after creation.</p>
 <p>If you re-run the analysis does it still give you the error? Also you might benefit from the tutorials at <a href="https://github.com/SlicerMorph/Tutorials" class="inline-onebox" rel="noopener nofollow ugc">GitHub - SlicerMorph/Tutorials: SlicerMorph module tutorials · GitHub</a> under the geometric morphometrics section.</p>
+
+---
+
+## Post #3 by @Nancy_Casper (2026-04-02 08:18 UTC)
+
+<p>I’ve run into this before! Sometimes the file doesn’t load automatically through the ‘Open’ menu. Try opening the ‘Data’ module manually and dragging the files directly into the 3D view. Also, double-check that your file paths don’t have any special characters or spaces - Slicer can be a bit picky about those depending on which OS you’re on.</p>
 
 ---

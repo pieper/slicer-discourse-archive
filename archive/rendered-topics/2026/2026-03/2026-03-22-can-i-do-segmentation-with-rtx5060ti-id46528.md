@@ -1,8 +1,9 @@
 ---
 topic_id: 46528
-title: "Can I Do Segmentation With Rtx5060Ti"
+title: "Can I do segmentation with rtx5060ti?"
 date: 2026-03-22
 url: https://discourse.slicer.org/t/46528
+last_bumped: 2026-03-24T13:50:34.457Z
 ---
 
 # Can I do segmentation with rtx5060ti?
@@ -23,5 +24,11 @@ url: https://discourse.slicer.org/t/46528
 <p>ram : 16gb x2 bus4800</p>
 <p>But I can segmentation only on mu CPU</p>
 <p>Can it work with my GPU?</p>
+
+---
+
+## Post #2 by @Kazi_Istiaque_Ahsan (2026-03-24 13:50 UTC)
+
+<p>Change the application preference. Select the GPU only mode.</p>
 
 ---

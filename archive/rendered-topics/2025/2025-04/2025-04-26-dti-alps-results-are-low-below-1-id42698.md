@@ -1,8 +1,9 @@
 ---
 topic_id: 42698
-title: "Dti Alps Results Are Low Below 1"
+title: "DTI Alps results are low, below 1"
 date: 2025-04-26
 url: https://discourse.slicer.org/t/42698
+last_bumped: 2026-05-17T21:09:44.918Z
 ---
 
 # DTI Alps results are low, below 1
@@ -67,5 +68,35 @@ Zhilang</p>
 
 <p>Dr Senra Filho checked my file and results and found out that the low results were OK.<br>
 We need our normals. In my case  0.855±0.045  (40 controls)</p>
+
+---
+
+## Post #7 by @Zhilang_Qiu (2026-03-23 19:16 UTC)
+
+<p>Hi Eduardo,</p>
+<p>Sorry for the very late reply, I just realized I had forgotten to respond to this question.</p>
+<p>I had figured out the issue: a low DTI-ALPS value (&lt; 1.0) is typically not normal. The problem was caused by that we actually had exported four segmentations rather the aimed one (e.g., Assoc_L). The solution is to just turn off the other “eye” icons when exporting the aimed one. Please see the attached figure for illustration of the steps.</p>
+<p>Best,<br>
+Zhilang</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/c/5/c5e4062d95d63e229d2981a1f1e287b86fcd8d04.jpeg" data-download-href="/uploads/short-url/seCBgKdEIVXJ1GNVPUYQpFNKtIE.jpeg?dl=1" title="AAA" rel="noopener nofollow ugc"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/c/5/c5e4062d95d63e229d2981a1f1e287b86fcd8d04_2_690x388.jpeg" alt="AAA" data-base62-sha1="seCBgKdEIVXJ1GNVPUYQpFNKtIE" width="690" height="388" srcset="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/c/5/c5e4062d95d63e229d2981a1f1e287b86fcd8d04_2_690x388.jpeg, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/c/5/c5e4062d95d63e229d2981a1f1e287b86fcd8d04_2_1035x582.jpeg 1.5x, https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/c/5/c5e4062d95d63e229d2981a1f1e287b86fcd8d04.jpeg 2x" data-dominant-color="EFF2F4"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">AAA</span><span class="informations">1280×720 121 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
+
+---
+
+## Post #8 by @ecgt (2026-03-23 22:39 UTC)
+
+<p>Hi Zhilang</p>
+<p>Thank you for remember me<br>
+This is a very important issue!!<br>
+You solved it !!<br>
+\Thanks again</p>
+<p>Eduardo</p>
+
+---
+
+## Post #9 by @Kessmat_Mostafa (2026-05-17 21:09 UTC)
+
+<p>Thank you so much</p>
+<p>I was gonna change my research topic because I couldnt figure out why the numbers werent making sense</p>
+<p>Truly appreciate your help</p>
 
 ---

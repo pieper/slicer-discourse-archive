@@ -1,8 +1,9 @@
 ---
 topic_id: 46387
-title: "Models With Topographic Information"
+title: "Models with topographic information"
 date: 2026-03-06
 url: https://discourse.slicer.org/t/46387
+last_bumped: 2026-03-07T17:14:20.233Z
 ---
 
 # Models with topographic information
@@ -73,5 +74,14 @@ Green= near zero difference, both surfaces match at that point</p>
 ## Post #7 by @JaredAmudeo (2026-03-06 17:49 UTC)
 
 <p>Is possible to do what you mentioned without extensions or should I need some? I have already segmented the molar Im working on but I dont know the next steps to take</p>
+
+---
+
+## Post #8 by @muratmaga (2026-03-07 17:14 UTC)
+
+<p>You need to calculate the height with respect to some reference, how were doing it Blender (because I think you said you were using blender before)? Segmentation is where you start, but it is not enough.</p>
+<p>I don’t have anything to do this, but I think this is where LLMs can be very quite useful. You may want to give a prompt like</p>
+<p>“I have a 3D model of a tooth. In 3D slicer I would like to visualize the topographic features on it as a heatmap like this figure (and paste the screenshot you provided). Explain how I can do this”.</p>
+<p>and see what it gives you.</p>
 
 ---

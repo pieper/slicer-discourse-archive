@@ -1,8 +1,9 @@
 ---
 topic_id: 35695
-title: "Superimposition Of Stl Files Segmentation"
+title: "Superimposition of STL files / segmentation"
 date: 2024-04-23
 url: https://discourse.slicer.org/t/35695
+last_bumped: 2026-03-25T05:32:55.539Z
 ---
 
 # Superimposition of STL files / segmentation
@@ -72,5 +73,12 @@ one of the scan is hiding part or all of the other scan. is there something I ca
 ## Post #7 by @muratmaga (2024-05-09 17:57 UTC)
 
 <p>Yes, if you need to get the information on per tooth basis, you will need to isolate them i imagine.</p>
+
+---
+
+## Post #8 by @hortakc (2026-03-25 05:32 UTC)
+
+<p>Hi Constance_sid, can you please describe how you made the superimposition and measurements? Do you happen to have a video?</p>
+<p>Thanks a lot!</p>
 
 ---

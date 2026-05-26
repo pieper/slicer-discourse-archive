@@ -1,8 +1,9 @@
 ---
 topic_id: 45355
-title: "Virtual Cathlab New Module For C Arm And Fluoroscopy Imaging"
+title: "Virtual CathLab: new module for C-arm and fluoroscopy imaging simulation"
 date: 2025-12-03
 url: https://discourse.slicer.org/t/45355
+last_bumped: 2026-03-20T23:34:34.552Z
 ---
 
 # Virtual CathLab: new module for C-arm and fluoroscopy imaging simulation
@@ -124,5 +125,11 @@ later on cumulating experiences on more cases. Thank you very much.</p>
 <p>Here it means less radio emission and less contrast medium injection.</p>
 <p>This module should be viewed as a wonderful add-on to anyone working with a C-arm, beyond the cardio-vascular realm, orthopedists for example.</p>
 <p><div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/6/0/60aea8e1be85b82122935da82eda0a185fc243a2.jpeg" data-download-href="/uploads/short-url/dNi2IuC7R1gjs3SQBhNUUVbsjzI.jpeg?dl=1" title="VirtualCathLabProcedural" rel="noopener nofollow ugc"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/6/0/60aea8e1be85b82122935da82eda0a185fc243a2_2_282x500.jpeg" alt="VirtualCathLabProcedural" data-base62-sha1="dNi2IuC7R1gjs3SQBhNUUVbsjzI" width="282" height="500" srcset="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/6/0/60aea8e1be85b82122935da82eda0a185fc243a2_2_282x500.jpeg, https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/6/0/60aea8e1be85b82122935da82eda0a185fc243a2.jpeg 1.5x, https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/6/0/60aea8e1be85b82122935da82eda0a185fc243a2.jpeg 2x" data-dominant-color="A4A4A4"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">VirtualCathLabProcedural</span><span class="informations">405×718 50.9 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
+
+---
+
+## Post #11 by @mhopeng (2026-03-20 23:34 UTC)
+
+<p>The Virtual Cath Lab looks very promising. However all of the “flouro” images I get are washed out- very high brightness. And I can’t tell what action triggers the rendering of the image. Is there any documentation I can read? Even basic stuff would help; I’m not sure I understand the intended workflow. Thanks!</p>
 
 ---

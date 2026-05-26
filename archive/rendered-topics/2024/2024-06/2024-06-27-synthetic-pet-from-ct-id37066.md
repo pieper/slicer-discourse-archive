@@ -1,8 +1,9 @@
 ---
 topic_id: 37066
-title: "Synthetic Pet From Ct"
+title: "Synthetic PET from CT "
 date: 2024-06-27
 url: https://discourse.slicer.org/t/37066
+last_bumped: 2026-02-28T10:26:21.997Z
 ---
 
 # Synthetic PET from CT 
@@ -66,5 +67,11 @@ The purpose is twofold, firstly for my own research use, but secondly also for a
 ## Post #3 by @ciro.raggio (2025-09-12 19:24 UTC)
 
 <p><a class="mention" href="/u/pieper">@pieper</a> It would be great to include it in the new ModalityConverter extension. I see that there are still some open issues. Let me know what I can do <img src="https://emoji.discourse-cdn.com/twitter/slight_smile.png?v=14" title=":slight_smile:" class="emoji" alt=":slight_smile:" loading="lazy" width="20" height="20"></p>
+
+---
+
+## Post #4 by @ciro.raggio (2026-02-28 10:26 UTC)
+
+<p><a class="mention" href="/u/oismaster">@oismaster</a> The model has been integrated into the <a href="https://github.com/ciroraggio/SlicerModalityConverter" rel="noopener nofollow ugc">Modality Converter</a> extension, which can be installed directly from the 3D Slicer Extension Manager for versions &gt;5.9. However, I recommend installing at least 3D Slicer 5.10, as some models are only compatible with that version onwards. I hope this helps!</p>
 
 ---

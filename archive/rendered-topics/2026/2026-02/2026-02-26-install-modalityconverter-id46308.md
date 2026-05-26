@@ -1,8 +1,9 @@
 ---
 topic_id: 46308
-title: "Install Modalityconverter"
+title: "Install ModalityConverter"
 date: 2026-02-26
 url: https://discourse.slicer.org/t/46308
+last_bumped: 2026-02-28T10:07:46.641Z
 ---
 
 # Install ModalityConverter
@@ -103,5 +104,29 @@ certificates from? (i.e Java, Python, ect.)
 </aside>
 
 <p>It’s an issue that affects me as well with my company issued computer.</p>
+
+---
+
+## Post #4 by @jmarichal (2026-02-27 15:40 UTC)
+
+<p>Hello,</p>
+<p>Thanks a lot to both of you for your answers. A small update: I was finally able to download the module. I noticed some new extensions where popping up when refreshing the page on <a href="http://extensions.slicer.org/" rel="noopener nofollow ugc">extensions.slicer.org</a>. So I kept refreshing it until ModalityConverter appeared, and then did an Install from file. Now I see it installed in the extension manager, but not in the module list, so I can’t use it. Any idea on how to solve it? I am working with version 5.10.</p>
+<p>Thanks!</p>
+<p>Joachim</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/b/7/b7a77cc74b8505df2db0fc68b7779184faed0a25.png" data-download-href="/uploads/short-url/qcGdt12qF28QrmM5VScnW2NTMhL.png?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/b/7/b7a77cc74b8505df2db0fc68b7779184faed0a25.png" alt="image" data-base62-sha1="qcGdt12qF28QrmM5VScnW2NTMhL" width="178" height="500" data-dominant-color="E6E6E5"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">image</span><span class="informations">239×668 17.5 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/1/b/1b1ffae6ad64663f4f44e1765b98aefc0fa66213.jpeg" data-download-href="/uploads/short-url/3RXpl5ElO4vzSpI5gJd7nioRYKD.jpeg?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/1/b/1b1ffae6ad64663f4f44e1765b98aefc0fa66213.jpeg" alt="image" data-base62-sha1="3RXpl5ElO4vzSpI5gJd7nioRYKD" width="513" height="386"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">image</span><span class="informations">513×386 37.7 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
+
+---
+
+## Post #5 by @ciro.raggio (2026-02-28 10:07 UTC)
+
+<p>Hello <a class="mention" href="/u/jmarichal">@jmarichal</a> ,</p>
+<p>please try fully restarting 3D Slicer by closing it completely and opening it again. The module will not load until a full restart is performed after the installation process.</p>
+<p>If the module is still not visible after restarting, a reliable workaround would be to install the extension directly from the source repository in a few simple steps!</p>
+<p>You can clone or download the repository from GitHub: <a href="https://github.com/ciroraggio/SlicerModalityConverter.git" rel="noopener nofollow ugc">https://github.com/ciroraggio/SlicerModalityConverter.git</a></p>
+<p>Then, open the “Extension Wizard” in 3D Slicer and import the cloned folder. After installation, please restart Slicer.</p>
+<p>In the repository, you will find a README file. <strong>In the “Installation” section, there is also a <a href="https://youtu.be/QsxzjQb05D4?si=3Fa5OmwJHBW9V8aV" rel="noopener nofollow ugc">short video</a> showing how to install modules manually</strong> (watch it from 1:21 onwards; the procedure is the same). This workflow is usually intended for users running Slicer versions earlier than 5.9, but it is a valid solution in general and is commonly used during development.</p>
+<p>Please note that when installing from source, the extension will not be managed by the Extension Manager as usual, so updates will need to be pulled manually from the repository (i.e. via <code>git pull</code>). However, the module will run exactly the same way once installed.</p>
+<p>Let me know if this solves the issue.</p>
 
 ---

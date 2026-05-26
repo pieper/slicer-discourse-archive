@@ -1,8 +1,9 @@
 ---
 topic_id: 46687
-title: "Slicer Is So Buggy And Keeps Showing Error On Macbook Air M5"
+title: "Slicer is so buggy and keeps showing error on macbook air M5"
 date: 2026-04-08
 url: https://discourse.slicer.org/t/46687
+last_bumped: 2026-04-11T03:58:23.474Z
 ---
 
 # Slicer is so buggy and keeps showing error on macbook air M5
@@ -129,5 +130,27 @@ Unfortunately, on macOS Slicer factory builds are still x86_64 builds with no na
 <p>A Roseatta2 compatible version of nnunet has just been released today (after about 1 year wait). So, you can now use TotalSegmentator on your mac.</p>
 <p>To upgrade nnunet to a compatible version, go to nnUnet module and install version <code>&gt;=2.7</code>:</p>
 <p><div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/5/c/5cb9db9b16a6ee6eba74973bdd88822bfc8c8155.png" data-download-href="/uploads/short-url/dei7NNc7sJxYfWvfE5d40GgUXyJ.png?dl=1" title="image"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/5/c/5cb9db9b16a6ee6eba74973bdd88822bfc8c8155.png" alt="image" data-base62-sha1="dei7NNc7sJxYfWvfE5d40GgUXyJ" width="553" height="403"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">image</span><span class="informations">553×403 27 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
+
+---
+
+## Post #10 by @ffr (2026-04-10 05:50 UTC)
+
+<p>I installed nnUnet 2.7 but still can not run total segmentator. I am using Mac air M5. I also tried force to use CPU but no luck.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/a/7/a79a8bf6695b4c5f29c665109a6fc2e143b5d001.jpeg" data-download-href="/uploads/short-url/nUGQQDLOATmC5zLYJHNB6b8Zjix.jpeg?dl=1" title="Screenshot 2026-04-09 at 10.44.25 PM" rel="noopener nofollow ugc"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/a/7/a79a8bf6695b4c5f29c665109a6fc2e143b5d001_2_690x446.jpeg" alt="Screenshot 2026-04-09 at 10.44.25 PM" data-base62-sha1="nUGQQDLOATmC5zLYJHNB6b8Zjix" width="690" height="446" srcset="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/a/7/a79a8bf6695b4c5f29c665109a6fc2e143b5d001_2_690x446.jpeg, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/a/7/a79a8bf6695b4c5f29c665109a6fc2e143b5d001_2_1035x669.jpeg 1.5x, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/a/7/a79a8bf6695b4c5f29c665109a6fc2e143b5d001_2_1380x892.jpeg 2x" data-dominant-color="585A61"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">Screenshot 2026-04-09 at 10.44.25 PM</span><span class="informations">1920×1243 340 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/0/0/002bdcc64c325847a6af49c998118dd6134127d8.jpeg" data-download-href="/uploads/short-url/1vYqYFf7d6wY7UJpFlNRMnBPkI.jpeg?dl=1" title="Screenshot 2026-04-09 at 10.45.13 PM" rel="noopener nofollow ugc"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/0/0/002bdcc64c325847a6af49c998118dd6134127d8_2_690x414.jpeg" alt="Screenshot 2026-04-09 at 10.45.13 PM" data-base62-sha1="1vYqYFf7d6wY7UJpFlNRMnBPkI" width="690" height="414" srcset="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/0/0/002bdcc64c325847a6af49c998118dd6134127d8_2_690x414.jpeg, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/0/0/002bdcc64c325847a6af49c998118dd6134127d8_2_1035x621.jpeg 1.5x, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/0/0/002bdcc64c325847a6af49c998118dd6134127d8_2_1380x828.jpeg 2x" data-dominant-color="6C6C71"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">Screenshot 2026-04-09 at 10.45.13 PM</span><span class="informations">3644×2190 607 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
+
+---
+
+## Post #11 by @jfbasquiat (2026-04-11 03:34 UTC)
+
+<p>I’m encountering similar issues.</p>
+<p>An Apple Silicon native build of 3D Slicer is desperately overdue.</p>
+
+---
+
+## Post #12 by @muratmaga (2026-04-11 03:58 UTC)
+
+<p>Slicer is an open source project, and is not funded by any commercial entity. Development happens as we find resources (time and people essentially).</p>
+<p>If you would like to donate your time or other resources (e.g., developers) to make the project go faster, here is the link that tracks the native build of 3D Slicer <a href="https://github.com/Slicer/Slicer/issues/6811" class="inline-onebox" rel="noopener nofollow ugc">Support for building/testing/packaging Slicer on Apple arm64 · Issue #6811 · Slicer/Slicer · GitHub</a></p>
 
 ---

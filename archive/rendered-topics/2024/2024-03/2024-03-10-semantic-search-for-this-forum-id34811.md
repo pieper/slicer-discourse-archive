@@ -1,8 +1,9 @@
 ---
 topic_id: 34811
-title: "Semantic Search For This Forum"
+title: "Semantic search for this forum"
 date: 2024-03-10
 url: https://discourse.slicer.org/t/34811
+last_bumped: 2026-04-09T12:06:10.245Z
 ---
 
 # Semantic search for this forum
@@ -328,5 +329,42 @@ BlenderMCP, which “connects Blender to Claude AI through the Model Context Pro
 <p>If anyone is interested in using them to it out the link below should get you into the associated user group.</p>
 <p><a href="https://discourse.slicer.org/invites/gyUhDgwLhH">https://discourse.slicer.org/invites/gyUhDgwLhH</a></p>
 <p>If that doesn’t work message me and I can add you to the group.</p>
+
+---
+
+## Post #12 by @Nancy_Casper (2026-04-09 11:54 UTC)
+
+<p>That’s a really interesting point about the semantic search - it would definitely make digging through old troubleshooting threads much easier. I’ve noticed a lot of people want to share screenshots of their workflows but are (rightfully) hesitant about privacy. To help with that, I usually use a quick tool like <a href="https://thetoolapp.com/image-tools/blur-face-in-image/" rel="noopener nofollow ugc">this face blurrer</a> to scrub any patient or personal info before posting. Making it easier for people to share ‘clean’ data would probably help the search results be more relevant too!</p>
+
+---
+
+## Post #13 by @pieper (2026-04-09 12:06 UTC)
+
+<p>In case anyone wants to search the archives more intensively, this repository is kept up to date with the discourse history.</p>
+<aside class="onebox githubrepo" data-onebox-src="https://github.com/pieper/slicer-discourse-archive">
+  <header class="source">
+
+      <a href="https://github.com/pieper/slicer-discourse-archive" target="_blank" rel="noopener">github.com</a>
+  </header>
+
+  <article class="onebox-body">
+    <div class="github-row" data-github-private-repo="false">
+  <img width="690" height="344" src="https://opengraph.githubassets.com/ac2916a3c4213d8411484bbbbe4c61cd/pieper/slicer-discourse-archive" class="thumbnail">
+
+  <h3><a href="https://github.com/pieper/slicer-discourse-archive" target="_blank" rel="noopener">GitHub - pieper/slicer-discourse-archive: A repo of posts from discourse.slicer.org and...</a></h3>
+
+    <p><span class="github-repo-description">A repo of posts from discourse.slicer.org and actions to keep it up to date</span></p>
+</div>
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
 
 ---

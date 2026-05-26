@@ -1,8 +1,9 @@
 ---
 topic_id: 46892
-title: "Visualization Of Continuous Uncertainty Maps In 3D Slicer Vo"
+title: "Visualization of continuous uncertainty maps in 3D Slicer (volume appears uniform color)"
 date: 2026-05-01
 url: https://discourse.slicer.org/t/46892
+last_bumped: 2026-05-02T15:21:55.837Z
 ---
 
 # Visualization of continuous uncertainty maps in 3D Slicer (volume appears uniform color)
@@ -77,5 +78,19 @@ url: https://discourse.slicer.org/t/46892
 &gt;&gt;&gt; print(a.header.get_data_dtype())
 uint8
 </code></pre>
+
+---
+
+## Post #5 by @Alexia_Canosa_Rojo (2026-05-02 15:21 UTC)
+
+<aside class="quote no-group" data-username="pieper" data-post="4" data-topic="46892">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="24" height="24" src="https://sea2.discourse-cdn.com/flex002/user_avatar/discourse.slicer.org/pieper/48/8_2.png" class="avatar"> pieper:</div>
+<blockquote>
+<p><code>(</code></p>
+</blockquote>
+</aside>
+<p>It worked, thank you so much!!!</p>
 
 ---

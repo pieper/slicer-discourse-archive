@@ -1,8 +1,9 @@
 ---
 topic_id: 46770
-title: "Fiducial Registration Wizard Transforms"
+title: "Fiducial Registration Wizard transforms"
 date: 2026-04-17
 url: https://discourse.slicer.org/t/46770
+last_bumped: 2026-04-20T09:59:06.425Z
 ---
 
 # Fiducial Registration Wizard transforms
@@ -60,5 +61,20 @@ url: https://discourse.slicer.org/t/46770
 <p>Thank you!</p>
 <p>Best regards,<br>
 Zaky</p>
+
+---
+
+## Post #4 by @lassoan (2026-04-18 11:49 UTC)
+
+<p>What you describe is the basic patient registration use case, so you can follow the tutorial that I referenced above. I would recommend to use standard naming conventions (e.g., rename PhantomTracker to Reference, and pay attention to small differences, such as Stylus vs. StylusTip).</p>
+
+---
+
+## Post #5 by @Zaky_Alfarizi (2026-04-20 09:59 UTC)
+
+<p>thanks for your information before.<br>
+Now, i have another problem, Although RMSE is low (1 mm), the CT skull model appears very far from the reference tracker. The stylus tracking itself seems correct. . Also, when i move the skull, the ct model moves but with unrealistic rotation (not around its center) eventhough actually the globe for reference representation its normal and realistic move.<br>
+can u explain what happened ?<br>
+thanks</p>
 
 ---

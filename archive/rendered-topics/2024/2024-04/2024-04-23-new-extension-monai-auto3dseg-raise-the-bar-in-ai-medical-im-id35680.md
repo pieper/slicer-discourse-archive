@@ -1,8 +1,9 @@
 ---
 topic_id: 35680
-title: "New Extension Monai Auto3Dseg Raise The Bar In Ai Medical Im"
+title: "New extension: MONAI Auto3DSeg - raise the bar in AI medical image segmentation"
 date: 2024-04-23
 url: https://discourse.slicer.org/t/35680
+last_bumped: 2026-03-03T17:02:52.839Z
 ---
 
 # New extension: MONAI Auto3DSeg - raise the bar in AI medical image segmentation
@@ -230,5 +231,18 @@ Tata Memorial Centre.</p>
 ## Post #39 by @Dr.Hunz (2025-12-20 17:26 UTC)
 
 <p>do we have for segmentate the tooth. Thankyou</p>
+
+---
+
+## Post #40 by @maria_m (2026-03-03 10:07 UTC)
+
+<p>Is there any additional documentation available? I am looking for information about pretrained models for brain tumor segmentation for my thesis. I recall reading somewhere that these models were either trained on the BraTS challenge datasets or were based on the winning architectures, but I can’t find the specific reference</p>
+
+---
+
+## Post #41 by @lassoan (2026-03-03 17:02 UTC)
+
+<p>Information about each included model is available here: <a href="https://github.com/lassoan/SlicerMONAIAuto3DSeg/blob/main/MONAIAuto3DSeg/Resources/Models.json" class="inline-onebox">SlicerMONAIAuto3DSeg/MONAIAuto3DSeg/Resources/Models.json at main · lassoan/SlicerMONAIAuto3DSeg · GitHub</a></p>
+<p>If you need more details about a specific model then provide the model name and mention <code>@diazandr3s</code> (who managed the model trainings).</p>
 
 ---

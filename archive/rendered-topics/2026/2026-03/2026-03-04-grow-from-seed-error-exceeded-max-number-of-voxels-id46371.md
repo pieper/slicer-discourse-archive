@@ -1,8 +1,9 @@
 ---
 topic_id: 46371
-title: "Grow From Seed Error Exceeded Max Number Of Voxels"
+title: "Grow from seed error — exceeded max number of voxels"
 date: 2026-03-04
 url: https://discourse.slicer.org/t/46371
+last_bumped: 2026-03-04T12:16:03.565Z
 ---
 
 # Grow from seed error — exceeded max number of voxels
@@ -54,5 +55,13 @@ labelsExpandedExtent = [0, 2183, 0, 1884, 0, 2229]
 <p><strong>This AI assistant provides suggestions and code for 3D Slicer operations based on available information. Users are responsible for verifying the accuracy and appropriateness of any actions taken. The authors and developers assume no liability for any damage, data loss, or other issues that may arise from using these suggestions. Always save your work and back up important data before executing any operations. Medical imaging analysis results should be validated by qualified professionals before clinical use.</strong></p>
 </blockquote>
 <p>FROM: <a href="https://github.com/jumbojing/slicerClaw" class="inline-onebox" rel="noopener nofollow ugc">GitHub - jumbojing/slicerClaw: A revolutionary, lightning-fast AI assistant natively integrated into 3D Slicer. · GitHub</a></p>
+
+---
+
+## Post #3 by @gaoyi.cn (2026-03-04 12:16 UTC)
+
+<p>This is the paper of the grow from seed module:</p>
+<p><a href="https://www.nature.com/articles/s41598-024-80206-7" class="onebox" target="_blank" rel="noopener nofollow ugc">https://www.nature.com/articles/s41598-024-80206-7</a></p>
+<p>As you can see it’s using an very efficient algorithm, but 2k*^3 pixel volume is really huge*… In the module, it has to store some floating number arrays of the same size of the original volume. If the original volume is uint8, this float type would be 4 times larger already…</p>
 
 ---

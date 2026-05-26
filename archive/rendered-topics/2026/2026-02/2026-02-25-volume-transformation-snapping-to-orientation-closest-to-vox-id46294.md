@@ -1,8 +1,9 @@
 ---
 topic_id: 46294
-title: "Volume Transformation Snapping To Orientation Closest To Vox"
+title: "Volume transformation snapping to orientation closest to voxel orientation"
 date: 2026-02-25
 url: https://discourse.slicer.org/t/46294
+last_bumped: 2026-02-26T13:14:40.994Z
 ---
 
 # Volume transformation snapping to orientation closest to voxel orientation
@@ -55,5 +56,12 @@ Regarding “snapping to the closest voxel orientation,” it is because I was v
 <div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/1/a/1ab0c3ddbfc0553221405fec3cb6dd6993742039.jpeg" data-download-href="/uploads/short-url/3O78ajOSBEoQUGhsH6cvbR1ipYJ.jpeg?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/1/a/1ab0c3ddbfc0553221405fec3cb6dd6993742039_2_345x188.jpeg" alt="image" data-base62-sha1="3O78ajOSBEoQUGhsH6cvbR1ipYJ" width="345" height="188" srcset="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/1/a/1ab0c3ddbfc0553221405fec3cb6dd6993742039_2_345x188.jpeg, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/1/a/1ab0c3ddbfc0553221405fec3cb6dd6993742039_2_517x282.jpeg 1.5x, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/1/a/1ab0c3ddbfc0553221405fec3cb6dd6993742039_2_690x376.jpeg 2x" data-dominant-color="8E9094"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">image</span><span class="informations">1914×1045 264 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
 <p>Hide-and-unhide the volume in the “data module” and the ROI has rotated accordingly. However, the volume has “snapped to the closest voxel orientation” but the transform did happen because the ROI box has moved. Observe that the viewport is in “Reformat” view.<br>
 <div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/9/a/9a1e0fd3f574fc385bd6ad8c0b5e784e246388e0.jpeg" data-download-href="/uploads/short-url/lZnW8cL0ZxwLqgfHZz8BHGmqCrK.jpeg?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/9/a/9a1e0fd3f574fc385bd6ad8c0b5e784e246388e0_2_345x189.jpeg" alt="image" data-base62-sha1="lZnW8cL0ZxwLqgfHZz8BHGmqCrK" width="345" height="189" srcset="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/9/a/9a1e0fd3f574fc385bd6ad8c0b5e784e246388e0_2_345x189.jpeg, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/9/a/9a1e0fd3f574fc385bd6ad8c0b5e784e246388e0_2_517x283.jpeg 1.5x, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/9/a/9a1e0fd3f574fc385bd6ad8c0b5e784e246388e0_2_690x378.jpeg 2x" data-dominant-color="999A9D"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">image</span><span class="informations">1911×1051 250 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
+
+---
+
+## Post #3 by @pieper (2026-02-26 13:14 UTC)
+
+<p>Be sure to take into account the Reset view/orientation options too.  Get these by right clicking on the “show” column of the Data module.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/3/7/3787ea0932a04da0dda5d4f5b31185c721bdb915.png" data-download-href="/uploads/short-url/7VfsfKLANRttHFOPwyCy0QJJr37.png?dl=1" title="image"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/3/7/3787ea0932a04da0dda5d4f5b31185c721bdb915_2_690x425.png" alt="image" data-base62-sha1="7VfsfKLANRttHFOPwyCy0QJJr37" width="690" height="425" srcset="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/3/7/3787ea0932a04da0dda5d4f5b31185c721bdb915_2_690x425.png, https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/3/7/3787ea0932a04da0dda5d4f5b31185c721bdb915.png 1.5x, https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/3/7/3787ea0932a04da0dda5d4f5b31185c721bdb915.png 2x" data-dominant-color="E9E9E9"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">image</span><span class="informations">742×458 64.8 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
 
 ---

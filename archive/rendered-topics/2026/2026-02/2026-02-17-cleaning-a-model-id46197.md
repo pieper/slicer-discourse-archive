@@ -1,8 +1,9 @@
 ---
 topic_id: 46197
-title: "Cleaning A Model"
+title: "Cleaning a model"
 date: 2026-02-17
 url: https://discourse.slicer.org/t/46197
+last_bumped: 2026-02-26T12:55:51.317Z
 ---
 
 # Cleaning a model
@@ -29,5 +30,34 @@ url: https://discourse.slicer.org/t/46197
 ## Post #3 by @mau_igna_06 (2026-02-18 16:00 UTC)
 
 <p>If you are planning a fibula flap mandible reconstruction consider using <a href="https://github.com/SlicerIGT/SlicerBoneReconstructionPlanner" rel="noopener nofollow ugc">BoneReconstructionPlanner</a></p>
+
+---
+
+## Post #4 by @drnoorfatima (2026-02-19 02:32 UTC)
+
+<p>Hi, welcome to Slicer!</p>
+<p>What you’re running into is common with mandible segmentation, the maxilla gets included because of similar bone density, and removing it cleanly without affecting the mandible takes some specific technique.</p>
+<p>The Scissors tool can work but needs careful positioning in 3D space. The issue with adding those red areas to background is that it affects the entire segmentation globally, which is why you’re losing mandible parts.</p>
+<p>For surgical planning, the cleanup needs to be very precise since the surgeon will be making measurements and operative decisions based on the model.</p>
+<p>I work as a freelancer on maxillofacial segmentation for surgical planning. If you’d like help getting clean models for your surgeon colleague, feel free to DM me.</p>
+<p>Otherwise, happy to point you toward some approaches to try.</p>
+
+---
+
+## Post #5 by @kvzwaag (2026-02-23 19:07 UTC)
+
+<p>Thank you for the suggestions!  Using them and some trial and error I was able to generate a couple of models to give to the surgeon.</p>
+
+---
+
+## Post #6 by @manjula (2026-02-26 12:55 UTC)
+
+<p>Use the <strong>DentalSegmentator</strong></p>
+<div class="youtube-onebox lazy-video-container" data-video-id="BEG-XhjjiaY" data-video-title="DentalSegmentator 3D Slicer extension" data-video-start-time="" data-provider-name="youtube">
+  <a href="https://www.youtube.com/watch?v=BEG-XhjjiaY" target="_blank" class="video-thumbnail" rel="noopener nofollow ugc">
+    <img class="youtube-thumbnail" src="https://img.youtube.com/vi/BEG-XhjjiaY/maxresdefault.jpg" title="DentalSegmentator 3D Slicer extension" width="690" height="388">
+  </a>
+</div>
+
 
 ---

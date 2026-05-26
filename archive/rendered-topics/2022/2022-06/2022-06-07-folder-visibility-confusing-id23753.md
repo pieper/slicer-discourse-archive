@@ -1,8 +1,9 @@
 ---
 topic_id: 23753
-title: "Folder Visibility Confusing"
+title: "Folder visibility confusing"
 date: 2022-06-07
 url: https://discourse.slicer.org/t/23753
+last_bumped: 2026-02-25T14:26:13.595Z
 ---
 
 # Folder visibility confusing
@@ -103,5 +104,25 @@ To confuse even more the users, the 2D slice is kept on the 3D view. I’ve pers
 ## Post #4 by @cpinter (2022-06-07 13:13 UTC)
 
 <p>This is not a bug. It is the Nth iteration of a super hard problem. We can discuss it in the ticket.</p>
+
+---
+
+## Post #5 by @Deep_Learning (2026-02-23 15:58 UTC)
+
+<p>I have a folder of line markups. Actually a folder of a folder of markups.  When I click the folder eye or set visibility false, nothing disappears/changes.  Only when I change the visibility of the actual line markups.  Is this the desired behavior?</p>
+
+---
+
+## Post #6 by @cpinter (2026-02-24 16:09 UTC)
+
+<p>I don’t think so. I just tested on a recent Slicer preview, and if I have a folder that has a folder that has several line markups in it and I show/hide any of the two folders, the lines appear/disappear as desired. Can you share a video of the issue you are experiencing?</p>
+<p>If you don’t use the latest Slicer, please download the latest and try it first. Thanks!</p>
+
+---
+
+## Post #7 by @Deep_Learning (2026-02-25 14:26 UTC)
+
+<p>Now it works…. Maybe it was a version problem.</p>
+<p>Thanks….</p>
 
 ---

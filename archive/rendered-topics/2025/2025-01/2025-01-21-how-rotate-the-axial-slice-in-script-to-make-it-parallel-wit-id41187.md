@@ -1,8 +1,9 @@
 ---
 topic_id: 41187
-title: "How Rotate The Axial Slice In Script To Make It Parallel Wit"
+title: "How rotate the axial slice in script to make it parallel with the plane across 3 specified points?"
 date: 2025-01-21
 url: https://discourse.slicer.org/t/41187
+last_bumped: 2026-02-21T00:45:50.145Z
 ---
 
 # How rotate the axial slice in script to make it parallel with the plane across 3 specified points?
@@ -87,5 +88,11 @@ The script is:</p>
 ## Post #2 by @chir.set (2025-01-21 10:00 UTC)
 
 <p>You may get some insight <a href="https://gitlab.com/chir-set/RcHacks7/-/blob/900664b75fca04210a065f1324d7fae0214eb559/12-ResliceToAxis.py.txt#L64" rel="noopener nofollow ugc">here</a> and <a href="https://gitlab.com/chir-set/RcHacks7/-/blob/900664b75fca04210a065f1324d7fae0214eb559/00-Lib.py.txt#L125" rel="noopener nofollow ugc">here</a>.</p>
+
+---
+
+## Post #3 by @Antmaker (2026-02-21 00:45 UTC)
+
+<p>The GitLab repo is returning a 404. Could you provide another source or the code that was in the GitLab repo?</p>
 
 ---

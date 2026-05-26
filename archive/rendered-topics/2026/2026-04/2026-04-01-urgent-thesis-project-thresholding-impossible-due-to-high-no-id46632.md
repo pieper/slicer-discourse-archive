@@ -1,8 +1,9 @@
 ---
 topic_id: 46632
-title: "Urgent Thesis Project Thresholding Impossible Due To High No"
+title: "Urgent (Thesis project): Thresholding Impossible due to High Noise Levels in CT Reconstruction"
 date: 2026-04-01
 url: https://discourse.slicer.org/t/46632
+last_bumped: 2026-04-06T16:11:19.378Z
 ---
 
 # Urgent (Thesis project): Thresholding Impossible due to High Noise Levels in CT Reconstruction
@@ -38,5 +39,27 @@ Best regards,</li>
 
 <p>You could try <a href="https://www.openrtk.org/" rel="noopener nofollow ugc">https://www.openrtk.org/</a> for reconstruction, I have never used it myself. Maybe also learn if there are some new AI reconstruction methods published</p>
 <p>If you have control of the CT scanner you could increase the radiation and the scanning-time to have better images</p>
+
+---
+
+## Post #3 by @Deep_Learning (2026-04-02 10:45 UTC)
+
+<p>Use the nninteractive.  There is an extension.  Expecting an ack in your thesis….</p>
+
+---
+
+## Post #4 by @Dieter_Rosch (2026-04-03 10:25 UTC)
+
+<p>I doubt you’ll have much success with traditional image processing like thresholding, connectivity, watershed etc.</p>
+<p>I think your best bet is an ML approach, such as training an nnU-Net, or one of the existing trained segmenters. I’d give TotalSegmentator to see if it gives you a reasonable starting point. If it seems to work, you could then focus in your specific use-case.</p>
+
+---
+
+## Post #5 by @N-Van (2026-04-06 16:11 UTC)
+
+<p>Your problem is not strictly one of noise or artifacts, but of lack of spatial resolution and sensitivity to the different tissues.<br>
+Provided that you cannot re-scan you specimen at lower voltage, higher acquisition time, higher resolution and with contrastive agent, you can try ML methods like nninteractive, as written above. Biomedisa can be of help, too.<br>
+You can also try to first enhance the dynamics of the scan, then denoise it. I usually use CLAHE for the contrast and <a href="https://imagej.net/plugins/non-local-means-denoise/" rel="noopener nofollow ugc">Non-local means</a> for the noise. All with Fiji. Non local means is very powerful at removing noise while keeping structures, but requires a long processing time. Try first on a few slices with different parameters.<br>
+And if all of that doesn’t work: manual segmentation! (be patient)</p>
 
 ---

@@ -1,8 +1,9 @@
 ---
 topic_id: 38111
-title: "Plus Server Support For Motion Capture Systems Optitrack Wit"
+title: "PLUS server support for motion capture systems (Optitrack with Motive 3.x and VICON)"
 date: 2024-08-29
 url: https://discourse.slicer.org/t/38111
+last_bumped: 2026-05-06T12:40:04.812Z
 ---
 
 # PLUS server support for motion capture systems (Optitrack with Motive 3.x and VICON)
@@ -47,5 +48,16 @@ Luca</p>
 ## Post #5 by @modenaxe (2025-08-04 10:57 UTC)
 
 <p>Hello, we are now using Motive 2.x (we don’t have a 3.x license), so I am afraid I cannot help you with this issue.</p>
+
+---
+
+## Post #6 by @AurelieS (2026-05-06 12:40 UTC)
+
+<p>Hi everyone,</p>
+<p>I am using Motive 3.4.0.2 with Flex13 cameras and Optitrack Duo/Trio hardware with no issues at all with both PlusServer 2.8.0 and 2.9.0.</p>
+<p>You can export the motiveprofilefile.motive and rename it .xml and it works fine. You need also to export the calibration.cal. The rigidbodies assets format should not matter, only their name must fit the config files.</p>
+<p>Regarding the VICON and Qualisys integration, it is being developed by our team but not finalized yet.</p>
+<p>Best regards,</p>
+<p>Aurélie Sarcher</p>
 
 ---

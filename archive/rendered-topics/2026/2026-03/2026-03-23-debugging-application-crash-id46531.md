@@ -1,8 +1,9 @@
 ---
 topic_id: 46531
-title: "Debugging Application Crash"
+title: "Debugging application crash"
 date: 2026-03-23
 url: https://discourse.slicer.org/t/46531
+last_bumped: 2026-04-05T21:29:45.372Z
 ---
 
 # Debugging application crash
@@ -77,5 +78,29 @@ void vtkMRMLAbstractLogic::Modified()
 ## Post #2 by @pieper (2026-03-23 12:13 UTC)
 
 <p>Have you hooked up a debugger to get a stack trace?  The observer pattern means that code dynamically adds callback functions to be called when data is modified, and from there many things can happen and your code needs to be careful not to get in an event loop or work with data that isn’t yet fully configured.</p>
+
+---
+
+## Post #3 by @sogo (2026-03-24 04:40 UTC)
+
+<p>Hi Pieper, I am thinking to hookup debugger but currently I am in release mode so will have to build in debug mode. For now, is there any way to know which functions are using callback for a ModifiedEvent, it should be statically defined (hardcoded) instead of dynamic?</p>
+
+---
+
+## Post #4 by @sogo (2026-03-28 05:42 UTC)
+
+<p>Update on this. I was able to use stack trace and fix the problem. Thank you Pieper for the idea. Closing this thread.</p>
+
+---
+
+## Post #5 by @Nancy_Casper (2026-04-04 06:49 UTC)
+
+<p>That’s a tough one to track down, especially when it’s an intermittent crash. Since there’s no clear error message, it usually points toward a memory management issue or a conflict with a specific module. A good first step is to check the Slicer log files right after a crash happens - sometimes the very last entry gives a hint of what was being loaded. If you’re on Windows, you might also want to try running Slicer through a debugger like Visual Studio to see if you can catch the specific exception. Sometimes just disabling any recently added extensions one by one can help narrow down if a specific tool is causing the instability. Stay patient, these debugging marathons can be a real test!</p>
+
+---
+
+## Post #6 by @sogo (2026-04-05 21:29 UTC)
+
+<p>Hi <a class="mention" href="/u/nancy_casper">@Nancy_Casper</a> Thank you for the response. I was able to track down using stack trace as suggested by Pieper.</p>
 
 ---

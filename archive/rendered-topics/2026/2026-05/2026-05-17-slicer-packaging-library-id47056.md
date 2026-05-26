@@ -1,8 +1,9 @@
 ---
 topic_id: 47056
-title: "Slicer Packaging Library"
+title: "Slicer.packaging library"
 date: 2026-05-17
 url: https://discourse.slicer.org/t/47056
+last_bumped: 2026-05-18T12:03:48.453Z
 ---
 
 # Slicer.packaging library
@@ -961,5 +962,40 @@ run_tour()
   <div style="clear: both"></div>
 </aside>
 
+
+---
+
+## Post #3 by @lassoan (2026-05-18 04:32 UTC)
+
+<p>I agree that it would be useful to advertise Slicer-related Kitware blog post here.</p>
+<p><a class="mention" href="/u/ebrahim">@ebrahim</a> Please consider \posting a short summary here on the forum about this new feature, tagging it with <code>feature</code> so that we will find it when we create the release notes; and also to notify people who subscribed to learning about all new features. It is a developer-focused feature, but it is still worth letting people know.</p>
+
+---
+
+## Post #4 by @muratmaga (2026-05-18 06:13 UTC)
+
+<aside class="quote no-group" data-username="pieper" data-post="2" data-topic="47056">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="24" height="24" src="https://sea2.discourse-cdn.com/flex002/user_avatar/discourse.slicer.org/pieper/48/8_2.png" class="avatar"> pieper:</div>
+<blockquote>
+<p>. E.g. <a href="https://discourse.slicer.org/t/2026-03-24-weekly-meeting/46543/3">here</a> and of course in the corresponding pull request thread, so people watching the repo would be notified.</p>
+</blockquote>
+</aside>
+<p>I don’t watch Slicer repo as a I am not a core Slicer developer, and can’t attend the developer meetings due to time conflict, or review them. I don’t think I am unique amongst the extension maintainers. The point is this is a great feature, and would be useful and greatly appreciated exactly by people like me. It is shouldn’t be difficult to discover (Given the developer’s meeting data, it means I discovered it almost 8 weeks after it is integrated, and entirely by accident). I think this is what the announcement category is for.</p>
+
+---
+
+## Post #5 by @pieper (2026-05-18 07:35 UTC)
+
+<p>I’m all for getting thie information out there.  I mainly wanted to point out that I felt <a class="mention" href="/u/ebrahim">@ebrahim</a> followed best practices well in this case, and there was plenty of notice for interested developers to discuss.</p>
+<p>Cross-posting Slicer-related Kitware blog posts (or other posts, like linked in or whatever) is also a nice idea for people like me who don’t follow those closely.</p>
+
+---
+
+## Post #6 by @ebrahim (2026-05-18 12:03 UTC)
+
+<p>I forgot to post an announcement to discourse, and by the time I remembered it felt like no longer fresh news <img src="https://emoji.discourse-cdn.com/twitter/sweat_smile.png?v=15" title=":sweat_smile:" class="emoji" alt=":sweat_smile:" loading="lazy" width="20" height="20"></p>
+<p>I agree it should exist as an announcement; I will post a discourse announcement soon and link to the Kitware blog post for details as Steve suggested, ty!</p>
 
 ---

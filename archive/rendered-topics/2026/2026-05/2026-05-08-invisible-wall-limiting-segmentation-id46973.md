@@ -1,8 +1,9 @@
 ---
 topic_id: 46973
-title: "Invisible Wall Limiting Segmentation"
+title: "Invisible wall limiting segmentation"
 date: 2026-05-08
 url: https://discourse.slicer.org/t/46973
+last_bumped: 2026-05-10T23:52:49.506Z
 ---
 
 # Invisible wall limiting segmentation
@@ -26,5 +27,11 @@ url: https://discourse.slicer.org/t/46973
 
 <p>You might have forgotten to attach video or the screenshot that explains your problem.</p>
 <p>From your description this sounds like geometry mismatch between the source volume and the segmentation object. Right click on your volume, choose Segment this, and then retry, and see if it fixes.</p>
+
+---
+
+## Post #3 by @lassoan (2026-05-10 23:52 UTC)
+
+<p>See some more details in the <a href="https://slicer.readthedocs.io/en/latest/user_guide/modules/segmenteditor.html#cannot-paint-outside-some-boundaries">Segmentation FAQ</a>.</p>
 
 ---

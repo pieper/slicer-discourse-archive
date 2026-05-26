@@ -1,8 +1,9 @@
 ---
 topic_id: 40349
-title: "Scan Misaligned With Global Coordinate System"
+title: "Scan Misaligned with Global Coordinate System"
 date: 2024-11-23
 url: https://discourse.slicer.org/t/40349
+last_bumped: 2026-03-17T19:59:31.600Z
 ---
 
 # Scan Misaligned with Global Coordinate System
@@ -38,5 +39,20 @@ Any help would be much appreciated!</p>
 ## Post #4 by @cpinter (2024-11-24 12:36 UTC)
 
 <p>This is not a misalignment to fix, this is just how this dataset was acquired. Why do you want to rotate it?</p>
+
+---
+
+## Post #5 by @Antmaker (2026-02-21 00:08 UTC)
+
+<p>I am looking to align my scan to the global coordinate system as well.</p>
+<p>At first I thought the SliceriGT fiducial registration module would work for my use case, however, I have not found a way for the module to align to the global coordinate system instead.</p>
+<p>The reason I would like to align to the global coord system is so that I can use the “scissors effect” from the “Segment Editor module” to slice of extra parts of a segment that was created using the “Threshold effect.”</p>
+
+---
+
+## Post #6 by @mikebind (2026-03-17 19:59 UTC)
+
+<p>There are many, many possible ways to achieve this.  One simple way would be to save your image as a NRRD file, then load it back into Slicer, but in the “load” dialog window, check the “Show Options” box, and then click the “Ignore orientation” checkbox before loading.  The newly loaded version should have it’s voxel grid axis directions aligned with the world axis directions.</p>
+<p>Note that the “scissors” effect works fine in the 3D window without needing to reorient the image.</p>
 
 ---

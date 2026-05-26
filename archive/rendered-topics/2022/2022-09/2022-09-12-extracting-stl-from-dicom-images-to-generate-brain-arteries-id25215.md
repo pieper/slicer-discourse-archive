@@ -1,8 +1,9 @@
 ---
 topic_id: 25215
-title: "Extracting Stl From Dicom Images To Generate Brain Arteries"
+title: "Extracting STL from DICOM images to generate Brain Arteries geometry"
 date: 2022-09-12
 url: https://discourse.slicer.org/t/25215
+last_bumped: 2026-04-15T11:16:47.815Z
 ---
 
 # Extracting STL from DICOM images to generate Brain Arteries geometry
@@ -189,5 +190,18 @@ Marcin</p>
 ## Post #13 by @tsinesh (2025-01-17 15:10 UTC)
 
 <p>There was probably another Vesselness filter back then. Try out which filter delivers the best results for your images.</p>
+
+---
+
+## Post #14 by @Maya116 (2026-04-15 02:06 UTC)
+
+<p>Hi, I would also like to request access to a DICOM dataset of human arterial CT scans, preferably with stenotic arteries for 3D reconstruction and CFD simulation practice. If not available, any general arterial CTA datasets from real patients would also be appreciated. Thank you.</p>
+
+---
+
+## Post #15 by @pieper (2026-04-15 11:16 UTC)
+
+<p>This dataset from Anhui in China may be what you are looking for.</p>
+<p><a href="https://www.nature.com/articles/s41597-024-04056-8" class="onebox" target="_blank" rel="noopener">https://www.nature.com/articles/s41597-024-04056-8</a></p>
 
 ---

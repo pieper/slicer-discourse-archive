@@ -1,8 +1,9 @@
 ---
 topic_id: 46245
-title: "Brain Ct Segmentation Grow From Seed Leak Rectangle Appears"
+title: "Brain CT segmentation - grow from seed leak - rectangle appears"
 date: 2026-02-22
 url: https://discourse.slicer.org/t/46245
+last_bumped: 2026-03-04T12:26:41.835Z
 ---
 
 # Brain CT segmentation - grow from seed leak - rectangle appears
@@ -33,5 +34,24 @@ Actual behavior: grow from seed segments the background in a rectangle form.</p>
 <p>Hi Ervin!</p>
 <p>This is a known issue with Grow from Seeds on brain CT, the algorithm leaks into the background because CT background intensities overlap with certain brain regions. Setting background to -10000 alone won’t fix it, the solution involves a specific masking step before running the segmentation.<br>
 Completely fixable though. I work with Slicer segmentation professionally you can dm me.</p>
+
+---
+
+## Post #3 by @mechanical_orange (2026-02-23 16:05 UTC)
+
+<p>Thank you very much for your offer! I solved the issue by painting(segmenting) the background too, then when I exported the segments as labels, set the background to invisible. It seems successful for my current task for now.</p>
+<p>ty again</p>
+
+---
+
+## Post #4 by @drnoorfatima (2026-02-24 09:39 UTC)
+
+<p>no problem, have a good day.</p>
+
+---
+
+## Post #5 by @gaoyi.cn (2026-03-04 12:26 UTC)
+
+<p>Segmenting part of the image is a designed feature of the module, to reduce memory/computation. Roughly, after you draws the seeds (both target and background), the algorithm computes a bounding box of from those seeds and crop a box out from the original image. It only segment in the cropped image. If the more seeds are added later in the interaction step, the box can be enlarged.</p>
 
 ---

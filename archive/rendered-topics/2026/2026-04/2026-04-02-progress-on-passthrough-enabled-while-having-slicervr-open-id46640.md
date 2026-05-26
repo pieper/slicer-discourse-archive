@@ -1,8 +1,9 @@
 ---
 topic_id: 46640
-title: "Progress On Passthrough Enabled While Having Slicervr Open"
+title: "Progress on Passthrough enabled while having SlicerVR open?"
 date: 2026-04-02
 url: https://discourse.slicer.org/t/46640
+last_bumped: 2026-04-09T12:21:16.734Z
 ---
 
 # Progress on Passthrough enabled while having SlicerVR open?
@@ -23,5 +24,11 @@ url: https://discourse.slicer.org/t/46640
 ## Post #2 by @lassoan (2026-04-02 19:55 UTC)
 
 <p><a class="mention" href="/u/sunderlandkyl">@Sunderlandkyl</a> has successfully implemented video passthrough with Meta Quest 3 in Slicer. Some VTK changes were needed that will need a few weeks to get integrated.</p>
+
+---
+
+## Post #3 by @zachbrauer15 (2026-04-09 12:21 UTC)
+
+<p>Is there any way we could get a temporary solution while the team works on this? We would love to build the module from scratch with source code if possible.</p>
 
 ---

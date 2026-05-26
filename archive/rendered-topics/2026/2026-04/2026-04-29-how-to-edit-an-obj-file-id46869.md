@@ -1,8 +1,9 @@
 ---
 topic_id: 46869
-title: "How To Edit An Obj File"
+title: "how to edit an obj file "
 date: 2026-04-29
 url: https://discourse.slicer.org/t/46869
+last_bumped: 2026-04-30T10:24:37.051Z
 ---
 
 # how to edit an obj file 
@@ -24,5 +25,11 @@ url: https://discourse.slicer.org/t/46869
 
 <p>It may load as a model node, but then you can convert it to a segmentation node and do all the segmentation-related things with it like segment editing and segment statistics.</p>
 <p>You can import directly to segmentation also, rather than converting: <a href="https://slicer.readthedocs.io/en/latest/user_guide/modules/segmentations.html#import-an-existing-segmentation-from-model-surface-mesh-file" class="inline-onebox">Segmentations — 3D Slicer documentation</a></p>
+
+---
+
+## Post #3 by @ThomasVanParys (2026-04-30 10:24 UTC)
+
+<p>You can edit surface meshes (e.g., OBJ, PLY, STL) using the ‘Dynamic Modeler’ module: <a href="https://github.com/Slicer/Slicer/blob/main/Docs/user_guide/modules/dynamicmodeler.md" class="inline-onebox" rel="noopener nofollow ugc">Slicer/Docs/user_guide/modules/dynamicmodeler.md at main · Slicer/Slicer · GitHub</a>. You should be able to select most of the cerebellum this way.</p>
 
 ---

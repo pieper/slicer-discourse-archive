@@ -1,8 +1,9 @@
 ---
 topic_id: 46105
-title: "Reproducing Nifti Metadata"
+title: "Reproducing Nifti metadata"
 date: 2026-02-10
 url: https://discourse.slicer.org/t/46105
+last_bumped: 2026-02-20T11:12:07.749Z
 ---
 
 # Reproducing Nifti metadata
@@ -161,5 +162,21 @@ I guess the conventions of the nnUnet framework, which I used the most for autom
 I should have learned more about other formats, but we already passed some milestones in our workflows for on-the-fly changes.<br>
 We consider adaptation and conversion to nrrd in the next iterations.</p>
 <p>Thank you for the tips!</p>
+
+---
+
+## Post #10 by @drnoorfatima (2026-02-20 10:51 UTC)
+
+<p>Hi!</p>
+<p>Since you’re already committed to a NIfTI-based workflow with nnUNet, switching to NRRD doesn’t have to mean overhauling everything.</p>
+<p>There are ways to bridge the two formats within Slicer’s Python environment that would let your team keep the existing pipeline intact while solving the metadata and segmentation node handling issues inside Slicer.</p>
+<p>It’s a bit involved to set up properly given your specific workflow, but definitely doable without starting from scratch.</p>
+
+---
+
+## Post #11 by @Yaroslav_Plutenko (2026-02-20 11:12 UTC)
+
+<p>Hi,</p>
+<p>Indeed, and on the contrary, it would simplify a lot. After a few short tests, images, segmentation, and metadata look intact after import/export in Slicer, so I will gladly get rid of the crutches in Slicer dealing with Nifti. I will need only an external tool converting NIFTI/NRRD for certain frameworks.</p>
 
 ---

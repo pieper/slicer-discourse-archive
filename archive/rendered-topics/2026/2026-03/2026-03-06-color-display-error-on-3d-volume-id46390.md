@@ -1,8 +1,9 @@
 ---
 topic_id: 46390
-title: "Color Display Error On 3D Volume"
+title: "Color display error on 3D Volume"
 date: 2026-03-06
 url: https://discourse.slicer.org/t/46390
+last_bumped: 2026-03-09T03:35:56.152Z
 ---
 
 # Color display error on 3D Volume
@@ -59,5 +60,12 @@ Here is my setup code:<br>
 <p>Quick thing to check first: are you saving the <code>VolumePropertyNode</code> before calling <code>set_cropping_enabled</code>? If not, that is almost certainly your problem. The fix involves reapplying it after the toggle fires.</p>
 <p>The full solution also depends on your Trame-Slicer version and how your volume rendering pipeline is initialized, because there are a couple of different ways this can break depending on the setup.<br>
 Rather than write a wall of code here that may or may not match your setup, feel free to DM me. I can take a quick look at your full pipeline and point you to the exact fix. Should not take long.</p>
+
+---
+
+## Post #3 by @Karuruychi (2026-03-09 03:35 UTC)
+
+<p>After a few days, I tried switching to a different computer and coincidentally the volume cropping box was rendered correctly. So could it be a hardware issue?</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/9/3/936c668f05f3f4c736930f6e6c4cf3d86c27a59b.jpeg" data-download-href="/uploads/short-url/l2aqZJ64mMrH6hIrSGdaFJTNIuv.jpeg?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/9/3/936c668f05f3f4c736930f6e6c4cf3d86c27a59b_2_404x500.jpeg" alt="image" data-base62-sha1="l2aqZJ64mMrH6hIrSGdaFJTNIuv" width="404" height="500" srcset="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/9/3/936c668f05f3f4c736930f6e6c4cf3d86c27a59b_2_404x500.jpeg, https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/9/3/936c668f05f3f4c736930f6e6c4cf3d86c27a59b.jpeg 1.5x, https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/9/3/936c668f05f3f4c736930f6e6c4cf3d86c27a59b.jpeg 2x" data-dominant-color="55403E"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">image</span><span class="informations">581×718 78.6 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
 
 ---

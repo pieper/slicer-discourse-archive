@@ -1,8 +1,9 @@
 ---
 topic_id: 46612
-title: "Mac Preview Release Fails To Load Extensions In The Extensio"
+title: "Mac preview release fails to load extensions in the Extension Manager"
 date: 2026-03-30
 url: https://discourse.slicer.org/t/46612
+last_bumped: 2026-04-01T15:46:06.235Z
 ---
 
 # Mac preview release fails to load extensions in the Extension Manager
@@ -53,5 +54,24 @@ url: https://discourse.slicer.org/t/46612
 <p>AND it seems that pretty much <a href="https://slicer.cdash.org/viewBuildGroup.php?project=SlicerPreview&amp;buildgroup=Extensions-Nightly&amp;date=2026-03-30&amp;">everything</a> has been failing since March 22!</p>
 <p><a class="mention" href="/u/sunderlandkyl">@Sunderlandkyl</a> this can’t be related to the Girder work you’ve been doing, right?…</p>
 <p><div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/7/a/7a577a794d3fa8a50456f6c4509ed6b46e85073f.png" data-download-href="/uploads/short-url/hshFJ8as7MKOs5MwT12E8MIyrpl.png?dl=1" title="image"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/7/a/7a577a794d3fa8a50456f6c4509ed6b46e85073f_2_690x104.png" alt="image" data-base62-sha1="hshFJ8as7MKOs5MwT12E8MIyrpl" width="690" height="104" srcset="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/7/a/7a577a794d3fa8a50456f6c4509ed6b46e85073f_2_690x104.png, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/7/a/7a577a794d3fa8a50456f6c4509ed6b46e85073f_2_1035x156.png 1.5x, https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/7/a/7a577a794d3fa8a50456f6c4509ed6b46e85073f.png 2x" data-dominant-color="EFE3CE"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">image</span><span class="informations">1257×191 18.1 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
+
+---
+
+## Post #4 by @Sunderlandkyl (2026-03-31 14:59 UTC)
+
+<p>Yes unfortunately… The PR updating the girder plugin has been integrated so hopefully it will be resolved soon.</p>
+
+---
+
+## Post #5 by @Sam_Horvath (2026-03-31 17:12 UTC)
+
+<p>Update, factory clients are updated, so uploads of packages will work again.  next is updating the extension server</p>
+
+---
+
+## Post #6 by @fedorov (2026-04-01 15:46 UTC)
+
+<p>Looks like extensions are back! Thank you for fixing this <a class="mention" href="/u/sam_horvath">@Sam_Horvath</a> and <a class="mention" href="/u/sunderlandkyl">@Sunderlandkyl</a>!</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/1/0/10e1444942352607834201cf374aed7142a5678e.png" data-download-href="/uploads/short-url/2pkgORS3xVQPStz9D0rK190BDky.png?dl=1" title="image"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/1/0/10e1444942352607834201cf374aed7142a5678e.png" alt="image" data-base62-sha1="2pkgORS3xVQPStz9D0rK190BDky" width="363" height="213"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">image</span><span class="informations">363×213 7.3 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
 
 ---

@@ -1,8 +1,9 @@
 ---
 topic_id: 31084
-title: "Probe 3D Model In Slicer"
+title: "Probe 3D Model in Slicer"
 date: 2023-08-10
 url: https://discourse.slicer.org/t/31084
+last_bumped: 2026-04-13T20:56:18.059Z
 ---
 
 # Probe 3D Model in Slicer
@@ -164,5 +165,24 @@ We now would like to replace the generic needle model with the actual optitrack 
 ## Post #15 by @John_Yang (2025-06-10 20:55 UTC)
 
 <p>hi can you share the stl to my email: yueyang1 [at] stanford [dot] edu? thank you</p>
+
+---
+
+## Post #16 by @HazemShereef (2026-04-12 20:22 UTC)
+
+<p>Actually i need it, do you still happen to have it? Thank you</p>
+
+---
+
+## Post #17 by @muratmaga (2026-04-13 19:41 UTC)
+
+<p>OptiTrack gave me the permission to share the ply file. You can download from this link:</p>
+<p><a href="https://app.box.com/shared/static/4g06phpzpn2d98zo8nk6at36p2rz2dlx.ply" class="onebox" target="_blank" rel="noopener nofollow ugc">https://app.box.com/shared/static/4g06phpzpn2d98zo8nk6at36p2rz2dlx.ply</a></p>
+
+---
+
+## Post #18 by @HazemShereef (2026-04-13 20:56 UTC)
+
+<p>Thank you very much Mr. Muratmaga</p>
 
 ---

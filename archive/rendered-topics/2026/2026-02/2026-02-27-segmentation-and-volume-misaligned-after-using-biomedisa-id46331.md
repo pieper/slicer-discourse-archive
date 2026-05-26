@@ -1,8 +1,9 @@
 ---
 topic_id: 46331
-title: "Segmentation And Volume Misaligned After Using Biomedisa"
+title: "Segmentation and Volume Misaligned After Using Biomedisa"
 date: 2026-02-27
 url: https://discourse.slicer.org/t/46331
+last_bumped: 2026-03-06T10:34:38.829Z
 ---
 
 # Segmentation and Volume Misaligned After Using Biomedisa
@@ -33,5 +34,44 @@ url: https://discourse.slicer.org/t/46331
   </a>
 </div>
 
+
+---
+
+## Post #3 by @MrMarkus (2026-03-05 08:09 UTC)
+
+<p>Hi,</p>
+<p>take a look at this information:</p>
+<aside class="quote quote-modified" data-post="1" data-topic="10446">
+  <div class="title">
+    <div class="quote-controls"></div>
+    <img alt="" width="24" height="24" src="https://sea2.discourse-cdn.com/flex002/user_avatar/discourse.slicer.org/lassoan/48/13_2.png" class="avatar">
+    <div class="quote-title__text-content">
+      <a href="https://discourse.slicer.org/t/model-files-are-now-saved-in-lps-coordinate-system/10446">Model files are now saved in LPS coordinate system</a> <a class="badge-category__wrapper " href="/c/dev/5"><span data-category-id="5" style="--category-badge-color: #25AAE2; --category-badge-text-color: #000000;" data-drop-close="true" class="badge-category --style-square " title="The Development category is for discussion of Slicer application and extension programming, software testing, and related topics - similarly to the former slicer-devel mailing list."><span class="badge-category__name">Development</span></span></a>
+    </div>
+  </div>
+  <blockquote>
+    While Slicer uses RAS coordinate system internally, images, transforms, and markups files are stored in LPS coordinate system, because DICOM and all medical image computing software (maybe except a few very old ones) uses LPS coordinate system in files. 
+However, Slicer has been still using its internal RAS coordinate system in mesh files (STL, VTK, VTP, OBJ, PLY), which <a href="https://issues.slicer.org/view.php?id=4445" rel="noopener nofollow ugc">caused issues when interfacing with third-party software</a>. 
+Starting from tomorrow (Slicer-4.11.0-2020-02-26, revision 28794), …
+  </blockquote>
+</aside>
+
+<p>Maybe that´s also the case in your situation?</p>
+<p>Best,<br>
+Markus</p>
+
+---
+
+## Post #4 by @drnoorfatima (2026-03-06 10:34 UTC)
+
+<p>This is a classic RAS/LPS coordinate mismatch.</p>
+<p>Looking at your screenshots, the segmentation labels are spatially correct relative to each other but displaced and rotated relative to the scan volume. That is the exact signature of an axis flip happening during export or import, not a segmentation error.</p>
+<p>A few things to check in order:</p>
+<ol>
+<li>What format did you export and reimport the segmentation through? STL, OBJ, and PLY historically had this issue in Slicer versions before 4.11 revision 28794</li>
+<li>If you are on a current Slicer version, check whether your transform matrix has any negative diagonal values, which would indicate an axis inversion is baked into the transform</li>
+<li>The transform matrix visible in your screenshot shows 0.99, -0.99 values which suggests a near-180 degree rotation is already applied, worth checking if that is intentional or a symptom</li>
+</ol>
+<p>The fix depends on exactly where in your pipeline the flip is introduced. It is a quick solve once you identify the step.</p>
 
 ---

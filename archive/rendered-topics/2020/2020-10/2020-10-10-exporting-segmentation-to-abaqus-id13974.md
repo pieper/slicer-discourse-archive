@@ -1,8 +1,9 @@
 ---
 topic_id: 13974
-title: "Exporting Segmentation To Abaqus"
+title: "Exporting segmentation to Abaqus"
 date: 2020-10-10
 url: https://discourse.slicer.org/t/13974
+last_bumped: 2026-04-17T14:29:17.743Z
 ---
 
 # Exporting segmentation to Abaqus
@@ -145,5 +146,24 @@ meshio.write(“output_name.inp”, meshio.read(“input_name.vtk”))</p>
 </blockquote>
 </aside>
 <p>Please check this in meshio documentation and if you don’t find any information on it then ask its developers (submit an <a href="https://github.com/nschloe/meshio/issues">issue</a> and post the link to the issue here for reference).</p>
+
+---
+
+## Post #14 by @Tom_F-T (2026-04-17 14:29 UTC)
+
+<p>Hi Mr. Lasso,</p>
+<p>Ive been having a similar issue with my own work, as I have a model that I wish to import to Abaqus, however the first time I did this it opened as a surface mesh and as such I couldn’t apply sections to the model. Ive been trying to use the meshio package to convert it into an .inp file as mentioned in <a href="https://discourse.slicer.org/t/convert-a-surface-mesh-to-a-volumetric-mesh-in-3d-slicer/1416/15">this forum discussion</a>, but I am struggling in the python console as i keep getting the error that it cannot read my .vtk file as a vtk, as shown below</p>
+<blockquote>
+<blockquote>
+<blockquote>
+<p>import meshio</p>
+</blockquote>
+</blockquote>
+</blockquote>
+<p>&gt;&gt;&gt; input_vtk = r"C:\Users\tomyf\OneDrive - Loughborough University\Desktop\Specimen1_VOI4_Scan1_1.vtk"</p>
+<p>&gt;&gt;&gt; mesh = meshio.read(input_vtk)</p>
+<p>Error: Couldn’t read file C:\Users\tomyf\OneDrive - Loughborough</p>
+<p>University\Desktop\Specimen1_VOI4_Scan1_1.vtk as vtk<br>
+Any help would be greatly appreciated.</p>
 
 ---

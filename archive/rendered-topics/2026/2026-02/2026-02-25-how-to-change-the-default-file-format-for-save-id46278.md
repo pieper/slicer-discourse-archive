@@ -1,8 +1,9 @@
 ---
 topic_id: 46278
-title: "How To Change The Default File Format For Save"
+title: "How to change the default file format for save"
 date: 2026-02-25
 url: https://discourse.slicer.org/t/46278
+last_bumped: 2026-02-28T04:01:31.319Z
 ---
 
 # How to change the default file format for save
@@ -87,5 +88,14 @@ class MyModuleFileDialog ():
 ```
 </code></pre>
 <p>With that approach you could implement “Save always writes an .mrb” (for example by calling <code>slicer.util.saveScene("something.mrb")</code>)—but it replaces the normal dialog, so it’s a heavier UX change.</p>
+
+---
+
+## Post #3 by @Victor_Wayne (2026-02-28 04:01 UTC)
+
+<p>Thanks a lot, Pinter.<br>
+I was able to follow your suggestions and customize the save data dialog.<br>
+I took the logic in the <code>saveSceneAsDataBundle</code> (the gist of it) and put it in the <code>populateItems</code> function and now whenever I click on the save data button it prompts me to save the scene in .mrb format by default.</p>
+<p>Thanks.</p>
 
 ---

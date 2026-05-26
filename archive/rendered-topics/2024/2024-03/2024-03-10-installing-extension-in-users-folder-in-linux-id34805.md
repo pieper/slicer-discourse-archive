@@ -1,8 +1,9 @@
 ---
 topic_id: 34805
-title: "Installing Extension In Users Folder In Linux"
+title: "Installing extension in user's folder in Linux"
 date: 2024-03-10
 url: https://discourse.slicer.org/t/34805
+last_bumped: 2026-05-11T14:58:33.455Z
 ---
 
 # Installing extension in user's folder in Linux
@@ -364,5 +365,11 @@ user@sup204:~$
 </blockquote>
 </aside>
 <p>Yes. And the amount of data we’re collecting about our research subjects and increased awareness about data security is also significant motivation to keep data in well defined and secured server environments…</p>
+
+---
+
+## Post #26 by @ButuiHu (2026-05-11 14:58 UTC)
+
+<p>FYI, if you build slicer from the source, you could set `Slicer_STORE_SETTINGS_IN_APPLICATION_HOME_DIR=OFF`. see also <a href="https://github.com/Slicer/Slicer/blob/785744ed8c9a2a4ce650382e7ca6002c11a1b24c/CMake/SlicerApplicationOptions.cmake#L209-L229" class="inline-onebox" rel="noopener nofollow ugc">Slicer/CMake/SlicerApplicationOptions.cmake at 785744ed8c9a2a4ce650382e7ca6002c11a1b24c · Slicer/Slicer · GitHub</a></p>
 
 ---
