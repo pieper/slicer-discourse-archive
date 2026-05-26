@@ -23,3 +23,9 @@ url: https://discourse.slicer.org/t/47095
 <p>Is there a reliable opensource solution to mask the heart and lungs in SOTA Cardiac CTA?</p>
 
 ---
+
+## Post #2 by @Deep_Learning (2026-05-26 11:46 UTC)
+
+<p>There is a task in totalsegmentator called trunk_cavities which looks good for this.</p>
+
+---
