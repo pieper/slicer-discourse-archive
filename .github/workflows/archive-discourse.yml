@@ -21,6 +21,14 @@ on:
       - '.github/workflows/archive-discourse.yml'
       - 'scripts/**'
 
+# Serialize archive runs: a long full-archive job and a daily incremental
+# can't both try to push at the same time. New triggers queue behind the
+# in-flight one rather than racing it. (cancel-in-progress=false because
+# we want both runs to complete and update the archive.)
+concurrency:
+  group: archive-discourse
+  cancel-in-progress: false
+
 jobs:
   archive:
     runs-on: ubuntu-latest
@@ -122,7 +130,20 @@ jobs:
           CHANGED_FILES="${{ steps.check_changes.outputs.changed_files }}"
           git commit -m "Archive update: $CHANGED_FILES files modified on $(date +'%Y-%m-%d')"
 
-          git push
+          # Defense in depth: even with workflow-level concurrency, another
+          # commit could land between our checkout and our push (e.g. an
+          # external commit to main). Pull --rebase to incorporate it, then
+          # push. Retry a few times in case the race repeats.
+          for attempt in 1 2 3 4 5; do
+            if git pull --rebase origin main && git push origin main; then
+              echo "Push succeeded on attempt $attempt"
+              exit 0
+            fi
+            echo "Push attempt $attempt failed, retrying in $((attempt * 5))s..."
+            sleep $((attempt * 5))
+          done
+          echo "Push failed after 5 attempts" >&2
+          exit 1
 
       - name: Create summary
         if: always()
