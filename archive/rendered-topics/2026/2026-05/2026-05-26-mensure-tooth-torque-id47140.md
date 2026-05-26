@@ -1,8 +1,9 @@
 ---
 topic_id: 47140
-title: "Mensure Tooth Torque"
+title: "Mensure tooth torque"
 date: 2026-05-26
 url: https://discourse.slicer.org/t/47140
+last_bumped: 2026-05-26T15:09:51.876Z
 ---
 
 # Mensure tooth torque
