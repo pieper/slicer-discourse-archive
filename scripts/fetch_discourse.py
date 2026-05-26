@@ -95,18 +95,35 @@ def fetch_topic_with_all_posts(topic_id, base_url, api_key, api_username, debug)
 
 
 def render_topic_to_markdown(topic):
-    """Convert Discourse topic JSON to a Markdown document."""
+    """Convert Discourse topic JSON to a Markdown document.
+
+    Emits a YAML frontmatter block including `last_bumped`, which the main
+    loop reads on subsequent runs to skip topics whose upstream `bumped_at`
+    hasn't changed since they were last fetched.
+    """
     title = topic.get("title", "Unknown")
     topic_id = topic.get("id", 0)
     slug = topic.get("slug", f"topic-{topic_id}")
     created_at = topic.get("created_at", "")
+    bumped_at = topic.get("bumped_at") or topic.get("last_posted_at") or ""
     try:
         dt = datetime.fromisoformat(created_at.replace("Z", "+00:00"))
         date_str = dt.strftime("%Y-%m-%d")
     except Exception:
         date_str = "2000-01-01"
 
+    # Escape double quotes in title for valid YAML.
+    yaml_title = title.replace("\"", "\\\"")
+
     lines = [
+        "---",
+        f"topic_id: {topic_id}",
+        f"title: \"{yaml_title}\"",
+        f"date: {date_str}",
+        f"url: https://discourse.slicer.org/t/{topic_id}",
+        f"last_bumped: {bumped_at}",
+        "---",
+        "",
         f"# {title}",
         "",
         f"**Topic ID**: {topic_id}",
@@ -165,6 +182,25 @@ def topic_output_paths(topic, target_dir):
     json_path = Path(target_dir) / "posts" / f"{topic_id}.json"
     md_path = Path(target_dir) / "rendered-topics" / year / year_month / filename
     return json_path, md_path
+
+
+_LAST_BUMPED_RE = re.compile(r"^last_bumped:\s*(\S+)\s*$", re.MULTILINE)
+
+
+def read_local_last_bumped(md_path):
+    """Return the `last_bumped` value from an existing .md's frontmatter, or None.
+
+    Only scans the first ~1 KB so it's cheap even when called 18k times.
+    Returns None if the file is absent, unreadable, or pre-dates the
+    frontmatter field (older archives written before this optimization).
+    """
+    try:
+        with open(md_path, "r", encoding="utf-8", errors="replace") as f:
+            head = f.read(1024)
+    except OSError:
+        return None
+    m = _LAST_BUMPED_RE.search(head)
+    return m.group(1) if m else None
 
 
 def save_topic(topic, target_dir, save_json=False):
@@ -348,6 +384,18 @@ def main():
     for topic_summary in topic_iter:
         tid = topic_summary["id"]
         title = topic_summary.get("title", "")
+
+        # Cheap skip: if the local file already records this exact bumped_at,
+        # nothing has changed upstream since our last save. /latest.json gives
+        # us bumped_at in the summary, so we can avoid the per-topic API call
+        # entirely. Massive speedup on full-archive runs (~95% of topics).
+        upstream_bumped = topic_summary.get("bumped_at")
+        _, md_path = topic_output_paths(topic_summary, target_dir)
+        if upstream_bumped and md_path.exists():
+            if read_local_last_bumped(md_path) == upstream_bumped:
+                skipped += 1
+                continue
+
         print(f"Fetching topic {tid}: {title[:60]}", flush=True)
 
         try:
