@@ -1,8 +1,9 @@
 ---
 topic_id: 47098
-title: "Slicer 5 11 0 Crashes Immediately When Switching To Nnintera"
+title: "Slicer 5.11.0 crashes immediately when switching to nnInteractive module"
 date: 2026-05-20
 url: https://discourse.slicer.org/t/47098
+last_bumped: 2026-05-26T19:09:22.104Z
 ---
 
 # Slicer 5.11.0 crashes immediately when switching to nnInteractive module
@@ -127,5 +128,11 @@ So the crash appears to be happening in the module’s dependency-install/dialog
 ## Post #5 by @Jean_Pinson (2026-05-26 08:10 UTC)
 
 <p>Hello <a class="mention" href="/u/aabrown100-git">@aabrown100-git</a> !! Does nninteractive works on mac ? I though it was dedicated for nvidia GPU !?</p>
+
+---
+
+## Post #6 by @aabrown100-git (2026-05-26 19:09 UTC)
+
+<p><a class="mention" href="/u/jean_pinson">@Jean_Pinson</a> Yes! But you need to setup and run the nnInteractive server on a different machine (with nvidia GPUs), then paste the server URL into the Slicer-nnInteractive module on Mac. I’ve successfully used both RunPod and my universities HPC cluster to run the nnInteractive server.</p>
 
 ---
