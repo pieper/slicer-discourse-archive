@@ -130,14 +130,50 @@ jobs:
           CHANGED_FILES="${{ steps.check_changes.outputs.changed_files }}"
           git commit -m "Archive update: $CHANGED_FILES files modified on $(date +'%Y-%m-%d')"
 
-          # Defense in depth: even with workflow-level concurrency, another
-          # commit could land between our checkout and our push (e.g. an
-          # external commit to main). Pull --rebase to incorporate it, then
-          # push. Retry a few times in case the race repeats.
+          # Resolve a single rebase attempt. Returns:
+          #   0 — pushed successfully
+          #   1 — push failed, retry from the top
+          #   2 — conflict outside archive/, fatal (do not retry)
+          attempt_push() {
+            if git pull --rebase origin main; then
+              git push origin main && return 0
+              return 1
+            fi
+            # Rebase hit a conflict. The two runs almost certainly touched the
+            # same auto-generated archive files (INDEX.md, .archive_state.json,
+            # per-month README.md). Take this run's version for everything
+            # under archive/ — it reflects the freshest API data we just
+            # fetched. A conflict outside archive/ would be unexpected (the
+            # bot only writes archive/) so bail out loudly there.
+            conflicted=$(git diff --name-only --diff-filter=U)
+            outside=$(printf '%s\n' "$conflicted" | grep -v '^archive/' || true)
+            if [ -n "$outside" ]; then
+              echo "Unexpected rebase conflict outside archive/:" >&2
+              printf '%s\n' "$outside" >&2
+              git rebase --abort
+              return 2
+            fi
+            echo "Resolving conflicts under archive/ by taking this run's version:"
+            printf '  %s\n' $conflicted
+            git checkout --theirs -- $conflicted
+            git add -- $conflicted
+            if ! GIT_EDITOR=true git rebase --continue; then
+              git rebase --abort
+              return 1
+            fi
+            git push origin main && return 0
+            return 1
+          }
+
           for attempt in 1 2 3 4 5; do
-            if git pull --rebase origin main && git push origin main; then
+            attempt_push
+            rc=$?
+            if [ $rc -eq 0 ]; then
               echo "Push succeeded on attempt $attempt"
               exit 0
+            fi
+            if [ $rc -eq 2 ]; then
+              exit 1
             fi
             echo "Push attempt $attempt failed, retrying in $((attempt * 5))s..."
             sleep $((attempt * 5))
