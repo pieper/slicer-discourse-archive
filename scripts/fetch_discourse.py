@@ -185,22 +185,42 @@ def topic_output_paths(topic, target_dir):
 
 
 _LAST_BUMPED_RE = re.compile(r"^last_bumped:\s*(\S+)\s*$", re.MULTILINE)
+_POST_HEADER_RE = re.compile(r"^## Post #\d+ ", re.MULTILINE)
 
 
-def read_local_last_bumped(md_path):
-    """Return the `last_bumped` value from an existing .md's frontmatter, or None.
+def local_is_current(md_path, upstream_bumped, upstream_post_count):
+    """Return True if the local .md already reflects upstream's latest state.
 
-    Only scans the first ~1 KB so it's cheap even when called 18k times.
-    Returns None if the file is absent, unreadable, or pre-dates the
-    frontmatter field (older archives written before this optimization).
+    Two independent signals, either is sufficient:
+      1. last_bumped frontmatter field equals upstream bumped_at. Cheap
+         (only the file head matters), and accurate going forward — but
+         only works for files written by a version of this script that
+         emits last_bumped.
+      2. Number of "## Post #N" headers in the local file is >= upstream
+         posts_count. Works on legacy files written before last_bumped
+         existed, so the first full sweep after introducing this check
+         can still skip the ~95% of topics that haven't been bumped since
+         they were originally archived.
+
+    Either match means there's nothing new to fetch. If neither matches,
+    we don't know the local file is current, so fetch and re-render.
     """
     try:
-        with open(md_path, "r", encoding="utf-8", errors="replace") as f:
-            head = f.read(1024)
+        content = md_path.read_text(encoding="utf-8", errors="replace")
     except OSError:
-        return None
-    m = _LAST_BUMPED_RE.search(head)
-    return m.group(1) if m else None
+        return False
+
+    if upstream_bumped:
+        m = _LAST_BUMPED_RE.search(content[:1024])
+        if m and m.group(1) == upstream_bumped:
+            return True
+
+    if upstream_post_count and upstream_post_count > 0:
+        local_count = sum(1 for _ in _POST_HEADER_RE.finditer(content))
+        if local_count >= upstream_post_count:
+            return True
+
+    return False
 
 
 def save_topic(topic, target_dir, save_json=False):
@@ -385,16 +405,20 @@ def main():
         tid = topic_summary["id"]
         title = topic_summary.get("title", "")
 
-        # Cheap skip: if the local file already records this exact bumped_at,
-        # nothing has changed upstream since our last save. /latest.json gives
-        # us bumped_at in the summary, so we can avoid the per-topic API call
-        # entirely. Massive speedup on full-archive runs (~95% of topics).
+        # Cheap skip: if local already reflects upstream's latest state,
+        # avoid the per-topic API call entirely. /latest.json gives us
+        # bumped_at and posts_count in the summary, so this works for both
+        # newly-rendered files (via last_bumped frontmatter) and legacy
+        # files (via post-header count). Massive speedup on full-archive
+        # runs since ~95% of topics haven't been bumped recently.
         upstream_bumped = topic_summary.get("bumped_at")
+        upstream_post_count = topic_summary.get("posts_count")
         _, md_path = topic_output_paths(topic_summary, target_dir)
-        if upstream_bumped and md_path.exists():
-            if read_local_last_bumped(md_path) == upstream_bumped:
-                skipped += 1
-                continue
+        if md_path.exists() and local_is_current(
+            md_path, upstream_bumped, upstream_post_count
+        ):
+            skipped += 1
+            continue
 
         print(f"Fetching topic {tid}: {title[:60]}", flush=True)
 
