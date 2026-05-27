@@ -1,6 +1,6 @@
 # Slicer Discourse Archive Index
 
-Last updated: 2026-05-26 20:49 UTC
+Last updated: 2026-05-27 04:27 UTC
 
 ## Archive Contents
 
@@ -18,13 +18,21 @@ Last updated: 2026-05-26 20:49 UTC
 - [README.md](archive/rendered-topics/2018/2018-03/README.md)
 - [README.md](archive/rendered-topics/2018/2018-02/README.md)
 - [README.md](archive/rendered-topics/2018/2018-01/README.md)
-- [trigger event when cli run has completed](archive/rendered-topics/2018/2018-08/2018-08-14-trigger-event-when-cli-run-has-completed-id3774.md)
-- [generate digitally reconstructed radiograph from 3dct](archive/rendered-topics/2018/2018-02/2018-02-02-generate-digitally-reconstructed-radiograph-from-3dct-id2010.md)
+- [calculate harmonic energy of displacement vector field dvf](archive/rendered-topics/2018/2018-12/2018-12-28-calculate-harmonic-energy-of-displacement-vector-field-dvf-id5211.md)
+- [export roi box to json file](archive/rendered-topics/2018/2018-12/2018-12-28-export-roi-box-to-json-file-id5210.md)
+- [export volume with burnt in segmentation](archive/rendered-topics/2018/2018-12/2018-12-28-export-volume-with-burnt-in-segmentation-id5216.md)
+- [emsegmentation cannot found](archive/rendered-topics/2018/2018-12/2018-12-29-emsegmentation-cannot-found-id5222.md)
+- [load multiple cardiac phases for segmentation virtual realit](archive/rendered-topics/2018/2018-12/2018-12-29-load-multiple-cardiac-phases-for-segmentation-virtual-realit-id5214.md)
+- [problem with loading files](archive/rendered-topics/2018/2018-12/2018-12-29-problem-with-loading-files-id5223.md)
+- [segmenteditorextraeffects extension installed but cannot be](archive/rendered-topics/2018/2018-12/2018-12-29-segmenteditorextraeffects-extension-installed-but-cannot-be-id5221.md)
 - [create a preset in volume rendering module](archive/rendered-topics/2018/2018-12/2018-12-30-create-a-preset-in-volume-rendering-module-id5227.md)
 - [dicom image intensity rescaling using non linear regression](archive/rendered-topics/2018/2018-12/2018-12-30-dicom-image-intensity-rescaling-using-non-linear-regression-id5228.md)
 - [model does not close after hollowing](archive/rendered-topics/2018/2018-12/2018-12-30-model-does-not-close-after-hollowing-id5232.md)
 - [registration and label statistics](archive/rendered-topics/2018/2018-12/2018-12-30-registration-and-label-statistics-id5229.md)
 - [the direction of x and y jaw position in beams module](archive/rendered-topics/2018/2018-12/2018-12-30-the-direction-of-x-and-y-jaw-position-in-beams-module-id5226.md)
+- [research software engineer position at the university of lee](archive/rendered-topics/2018/2018-12/2018-12-21-research-software-engineer-position-at-the-university-of-lee-id5166.md)
+- [using slicer to create a model of middle ear anatomy](archive/rendered-topics/2018/2018-12/2018-12-21-using-slicer-to-create-a-model-of-middle-ear-anatomy-id5169.md)
+- [opencad 3d slicer breast dce mri](archive/rendered-topics/2018/2018-12/2018-12-22-opencad-3d-slicer-breast-dce-mri-id5172.md)
 - [organizing dicom files to be able to have a 3d view](archive/rendered-topics/2018/2018-12/2018-12-23-organizing-dicom-files-to-be-able-to-have-a-3d-view-id5180.md)
 - [place fiducials](archive/rendered-topics/2018/2018-12/2018-12-23-place-fiducials-id5178.md)
 - [trasformation matrix to assess displacement](archive/rendered-topics/2018/2018-12/2018-12-23-trasformation-matrix-to-assess-displacement-id5175.md)
@@ -37,14 +45,6 @@ Last updated: 2026-05-26 20:49 UTC
 - [is there any way to export annotations in json format in 3d](archive/rendered-topics/2018/2018-12/2018-12-27-is-there-any-way-to-export-annotations-in-json-format-in-3d-id5198.md)
 - [registration deformation export](archive/rendered-topics/2018/2018-12/2018-12-27-registration-deformation-export-id5197.md)
 - [using python for image registration](archive/rendered-topics/2018/2018-12/2018-12-27-using-python-for-image-registration-id5207.md)
-- [calculate harmonic energy of displacement vector field dvf](archive/rendered-topics/2018/2018-12/2018-12-28-calculate-harmonic-energy-of-displacement-vector-field-dvf-id5211.md)
-- [export roi box to json file](archive/rendered-topics/2018/2018-12/2018-12-28-export-roi-box-to-json-file-id5210.md)
-- [export volume with burnt in segmentation](archive/rendered-topics/2018/2018-12/2018-12-28-export-volume-with-burnt-in-segmentation-id5216.md)
-- [emsegmentation cannot found](archive/rendered-topics/2018/2018-12/2018-12-29-emsegmentation-cannot-found-id5222.md)
-- [load multiple cardiac phases for segmentation virtual realit](archive/rendered-topics/2018/2018-12/2018-12-29-load-multiple-cardiac-phases-for-segmentation-virtual-realit-id5214.md)
-- [problem with loading files](archive/rendered-topics/2018/2018-12/2018-12-29-problem-with-loading-files-id5223.md)
-- [segmenteditorextraeffects extension installed but cannot be](archive/rendered-topics/2018/2018-12/2018-12-29-segmenteditorextraeffects-extension-installed-but-cannot-be-id5221.md)
-- [weird behaviour when loading us dicom](archive/rendered-topics/2018/2018-12/2018-12-17-weird-behaviour-when-loading-us-dicom-id5101.md)
 - [3d model to segmentation](archive/rendered-topics/2018/2018-12/2018-12-18-3d-model-to-segmentation-id5135.md)
 - [adding operations to segment editors scissors tool](archive/rendered-topics/2018/2018-12/2018-12-18-adding-operations-to-segment-editors-scissors-tool-id5124.md)
 - [arrayfromvolume](archive/rendered-topics/2018/2018-12/2018-12-18-arrayfromvolume-id5121.md)
