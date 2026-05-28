@@ -64,3 +64,6 @@
 - [2026 05 24 Software Developer Image Guided Surgical Navigation](2026-05-24-software-developer-image-guided-surgical-navigation-id47132.md)
 - [2026 05 26 Mensure Tooth Torque](2026-05-26-mensure-tooth-torque-id47140.md)
 - [2026 05 26 Pca Visualization Parameters](2026-05-26-pca-visualization-parameters-id47141.md)
+- [2026 05 27 Animator Module Not Exporting In Any Format](2026-05-27-animator-module-not-exporting-in-any-format-id47153.md)
+- [2026 05 27 Testing Dashboard Shows No Tests Executed When Filtering Is](2026-05-27-testing-dashboard-shows-no-tests-executed-when-filtering-is-id47144.md)
+- [2026 05 27 Why Arent We Building The Extensions In Parallel](2026-05-27-why-arent-we-building-the-extensions-in-parallel-id47155.md)

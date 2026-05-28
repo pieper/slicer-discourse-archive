@@ -3,7 +3,7 @@ topic_id: 47141
 title: "PCA visualization parameters"
 date: 2026-05-26
 url: https://discourse.slicer.org/t/47141
-last_bumped: 2026-05-26T21:22:04.643Z
+last_bumped: 2026-05-27T16:14:55.730Z
 ---
 
 # PCA visualization parameters
@@ -40,5 +40,50 @@ My apologies if this was discussed elsewhere</p>
 <p>As for visualizing the diagonal transects, that’s never possible with the old interface, because that means you have to simultaneously increase the both sliders. this is now replaced with much easier way of achieving the same thing via clicking the PCA plot. First enable, 3D visualization, then choose the option “Drive 3D model from PCA scatter plot” and then click anywere on the PCA plot. The model (or the point cloud) in Viewer 2 will dynamically change based on the PC coordinates (aka value) of you clicked. So you can do diagonal or any angle.</p>
 <p>This is a new change, that I introduced recently to the preview version. I will be talking more about it in the SlicerMorph office hour on the June 3rd.</p>
 <p><div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/5/1/5190f8fac023e5ee76a0adcb1d194ca28f9ae7c0.jpeg" data-download-href="/uploads/short-url/bDzhcoxT5Nw6WkRzSjMM8l9cADK.jpeg?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/5/1/5190f8fac023e5ee76a0adcb1d194ca28f9ae7c0_2_638x500.jpeg" alt="image" data-base62-sha1="bDzhcoxT5Nw6WkRzSjMM8l9cADK" width="638" height="500" srcset="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/5/1/5190f8fac023e5ee76a0adcb1d194ca28f9ae7c0_2_638x500.jpeg, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/5/1/5190f8fac023e5ee76a0adcb1d194ca28f9ae7c0_2_957x750.jpeg 1.5x, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/5/1/5190f8fac023e5ee76a0adcb1d194ca28f9ae7c0_2_1276x1000.jpeg 2x" data-dominant-color="BDB9C6"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">image</span><span class="informations">1384×1083 253 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
+
+---
+
+## Post #3 by @Stephan_Collins (2026-05-27 07:17 UTC)
+
+<p>Fantastic and thank you, that makes sense and sounds exactly like what I need !</p>
+<p>Just to make sure I understand correctly: when using “Drive 3D model from PCA scatter plot”, clicking a point on the PCA plot reconstructs the model using the PC coordinates of that point, so for a PC1–PC2 plot this effectively gives a combined PC1 + PC2 shape rather than a sequential application of two transforms ?</p>
+<p>ON my graph, for a DEL vs WT contrast where the groups separate diagonally, would you recommend clicking representative points near the DEL and WT group centroids and using those two reconstructed shapes for visualization? Also, is there a way to input exact PC coordinates or export/save the reconstructed model at a clicked location, so the visualization can be reproduced precisely for figures? And will you also include a factor to extrapolate shape changes ?</p>
+<p>Thanks again — this is very helpful.</p>
+
+---
+
+## Post #4 by @Stephan_Collins (2026-05-27 07:23 UTC)
+
+<p>Also, can we attend slicermorph meetings ?</p>
+
+---
+
+## Post #5 by @Stephan_Collins (2026-05-27 09:26 UTC)
+
+<p>Just tried “Drive 3D model from PCA scatter plot”,<br>
+great work Murat !</p>
+
+---
+
+## Post #6 by @muratmaga (2026-05-27 16:14 UTC)
+
+<aside class="quote no-group" data-username="Stephan_Collins" data-post="3" data-topic="47141">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="24" height="24" src="https://sea2.discourse-cdn.com/flex002/user_avatar/discourse.slicer.org/stephan_collins/48/81446_2.png" class="avatar"> Stephan_Collins:</div>
+<blockquote>
+<p>the model using the PC coordinates of that point,</p>
+</blockquote>
+</aside>
+<p>Yep.</p>
+<aside class="quote no-group" data-username="Stephan_Collins" data-post="4" data-topic="47141">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="24" height="24" src="https://sea2.discourse-cdn.com/flex002/user_avatar/discourse.slicer.org/stephan_collins/48/81446_2.png" class="avatar"> Stephan_Collins:</div>
+<blockquote>
+<p>Also, can we attend slicermorph meetings ?</p>
+</blockquote>
+</aside>
+<p>Of course. If you are on SlicerMorph mailing list, you should get a note today with the zoom link and the time.</p>
 
 ---

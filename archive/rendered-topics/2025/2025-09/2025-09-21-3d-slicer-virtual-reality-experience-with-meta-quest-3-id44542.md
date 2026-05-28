@@ -1,8 +1,9 @@
 ---
 topic_id: 44542
-title: "3D Slicer Virtual Reality Experience With Meta Quest 3"
+title: "3D Slicer Virtual Reality Experience with Meta Quest 3"
 date: 2025-09-21
 url: https://discourse.slicer.org/t/44542
+last_bumped: 2026-05-27T18:03:28.006Z
 ---
 
 # 3D Slicer Virtual Reality Experience with Meta Quest 3
@@ -80,5 +81,14 @@ url: https://discourse.slicer.org/t/44542
 ## Post #3 by @cpinter (2025-09-30 10:10 UTC)
 
 <p><a class="mention" href="/u/manjula">@manjula</a> Just letting you know that the SlicerVR extension is up again since quite recently, so I suggest using the latest Slicer / SlicerVR.</p>
+
+---
+
+## Post #4 by @drouin-simon (2026-05-27 18:03 UTC)
+
+<p>Hi <a class="mention" href="/u/manjula">@manjula</a>, <a class="mention" href="/u/cpinter">@cpinter</a> and <a class="mention" href="/u/lucasgandel">@LucasGandel</a>,</p>
+<p><a class="mention" href="/u/lassoan">@lassoan</a> and <a class="mention" href="/u/sunderlandkyl">@Sunderlandkyl</a> at Queens have done some great progress in the past couple of months regarding support for SlicerVR on the Quest. The default VR interaction is working again on the Quest 3 using the OpenXR backend. The event handling system has been cleaned and refactored and it is now possible to define your own interaction in Python. Additionally, Kyle is working on supporting the passthrough mode of the Quest in SlicerVR. Some of these changes are already available in the nightly build of Slicer.</p>
+<p>We are interested in knowing more about who’s using SlicerVR at the moment to see if we can join forces. There is also a possibility to have VR related projects at the next NAMIC Project Week if some are interested.</p>
+<p>Please let us know where you are at with SlicerVR.</p>
 
 ---

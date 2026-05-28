@@ -1,8 +1,9 @@
 ---
 topic_id: 2531
-title: "How To Segment Intact Lumen And Vessel Wall In 3D Slicer"
+title: "how to segment intact lumen and vessel wall in 3d slicer?"
 date: 2018-04-06
 url: https://discourse.slicer.org/t/2531
+last_bumped: 2026-05-27T19:09:54.980Z
 ---
 
 # how to segment intact lumen and vessel wall in 3d slicer?
@@ -42,5 +43,21 @@ url: https://discourse.slicer.org/t/2531
 <li>It is also useful if you provide more details e.g. your operating system and the error message.</li>
 <li>Edit your post and reply to look more nice. If you don’t put effort to write your question, probably no one will put effort to write an answer.</li>
 </ul>
+
+---
+
+## Post #5 by @liam26 (2026-05-27 17:28 UTC)
+
+<p>Hi, I’m looking to make similar segmentations. What procedures and tools did you use? Thanks!</p>
+
+---
+
+## Post #6 by @chir.set (2026-05-27 19:09 UTC)
+
+<p>You may use many modules like in this <a href="https://disk.yandex.com/i/Jemz9bGEhsxW1A" rel="noopener nofollow ugc">video</a>.</p>
+<p>The arterial wall is not a CT structure, it’s too thin, even diseased ones. You can however estimate the wall’s location, based on contrast, lesions and known anatomical shape of an artery. It’s an estimation. If you need 100% accuracy, you’re out of luck, even opening the patient won’t help you, alive or dead.</p>
+<p>The Shape module of the ExtraMarkups extensions allows you to draw a Tube of varying radius, with which you can draw the wall at best estimate. Then you can do many things.</p>
+<p>Admittedly, I do that fast for reasons. If you want to go that way seriously, make a few months allowance to learn all  these tools. The benefit is lasting.</p>
+<p>If you look towards AI, my bet is that’s it’s not ready yet for this kind of processing, maybe in 25 years, it will certainly mature; this does not mean it will be a sort of a new deity!</p>
 
 ---

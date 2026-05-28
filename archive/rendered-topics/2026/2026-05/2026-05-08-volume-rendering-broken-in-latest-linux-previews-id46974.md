@@ -3,7 +3,7 @@ topic_id: 46974
 title: "Volume rendering broken in latest Linux previews?"
 date: 2026-05-08
 url: https://discourse.slicer.org/t/46974
-last_bumped: 2026-05-14T13:45:49.698Z
+last_bumped: 2026-05-27T13:28:43.234Z
 ---
 
 # Volume rendering broken in latest Linux previews?
@@ -1650,6 +1650,62 @@ manylinux2014, manylinux_2…
 <h3><a href="https://gitlab.kitware.com/vtk/vtk/-/work_items/19919" target="_blank" rel="noopener nofollow ugc">Verifying connection...</a></h3>
 
 
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
+
+---
+
+## Post #33 by @pieper (2026-05-27 13:28 UTC)
+
+<p>Issue is being tracked here:</p>
+<aside class="onebox githubissue" data-onebox-src="https://github.com/Slicer/Slicer/issues/9181">
+  <header class="source">
+
+      <a href="https://github.com/Slicer/Slicer/issues/9181" target="_blank" rel="noopener">github.com/Slicer/Slicer</a>
+  </header>
+
+  <article class="onebox-body">
+    <div class="github-row">
+  <div class="github-icon-container" title="Issue" data-github-private-repo="false">
+	  <svg width="60" height="60" class="github-icon" viewBox="0 0 14 16" aria-hidden="true"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"></path></svg>
+  </div>
+
+  <div class="github-info-container">
+    <h4>
+      <a href="https://github.com/Slicer/Slicer/issues/9181" target="_blank" rel="noopener">`std::regex` crash</a>
+    </h4>
+
+    <div class="github-info">
+      <div class="date">
+        opened <span class="discourse-local-date" data-format="ll" data-date="2026-05-26" data-time="15:12:23" data-timezone="UTC">03:12PM - 26 May 26 UTC</span>
+      </div>
+
+
+      <div class="user">
+        <a href="https://github.com/sjh26" target="_blank" rel="noopener">
+          <img alt="" src="https://avatars.githubusercontent.com/u/25040869?v=4" class="onebox-avatar-inline" width="20" height="20">
+          sjh26
+        </a>
+      </div>
+    </div>
+
+    <div class="labels">
+    </div>
+  </div>
+</div>
+
+  <div class="github-row">
+    <p class="github-body-container">@lassoan</p>
+  </div>
 
   </article>
 
