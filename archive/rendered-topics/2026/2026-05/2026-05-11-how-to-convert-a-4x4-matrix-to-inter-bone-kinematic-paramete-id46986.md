@@ -3,7 +3,7 @@ topic_id: 46986
 title: "How to convert a 4x4 matrix to inter-bone kinematic parameters"
 date: 2026-05-11
 url: https://discourse.slicer.org/t/46986
-last_bumped: 2026-05-16T12:34:53.795Z
+last_bumped: 2026-05-28T13:59:11.278Z
 ---
 
 # How to convert a 4x4 matrix to inter-bone kinematic parameters
@@ -40,5 +40,11 @@ last_bumped: 2026-05-16T12:34:53.795Z
 ## Post #3 by @HHH (2026-05-16 12:34 UTC)
 
 <p>I can understand what you said about the pre-processing module outputting the skeletal model. After looking at the methods you mentioned, I am still not very clear on how to connect the anatomical coordinate system with the 4x4 matrix and obtain tibiofemoral joint kinematics. I would be very grateful if you could provide a more detailed explanation.</p>
+
+---
+
+## Post #4 by @John_Holtgrewe (2026-05-28 13:59 UTC)
+
+<p>In our use case we compute the transformation matrix from the ACS to the Autoscoper space and apply that to the 4x4 transformation matrices for the femur and tibia. We then solve for rotations and translations of the tibia relative to the femur.</p>
 
 ---

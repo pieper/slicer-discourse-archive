@@ -3,7 +3,7 @@ topic_id: 44542
 title: "3D Slicer Virtual Reality Experience with Meta Quest 3"
 date: 2025-09-21
 url: https://discourse.slicer.org/t/44542
-last_bumped: 2026-05-27T18:03:28.006Z
+last_bumped: 2026-05-28T13:25:57.798Z
 ---
 
 # 3D Slicer Virtual Reality Experience with Meta Quest 3
@@ -90,5 +90,24 @@ last_bumped: 2026-05-27T18:03:28.006Z
 <p><a class="mention" href="/u/lassoan">@lassoan</a> and <a class="mention" href="/u/sunderlandkyl">@Sunderlandkyl</a> at Queens have done some great progress in the past couple of months regarding support for SlicerVR on the Quest. The default VR interaction is working again on the Quest 3 using the OpenXR backend. The event handling system has been cleaned and refactored and it is now possible to define your own interaction in Python. Additionally, Kyle is working on supporting the passthrough mode of the Quest in SlicerVR. Some of these changes are already available in the nightly build of Slicer.</p>
 <p>We are interested in knowing more about who’s using SlicerVR at the moment to see if we can join forces. There is also a possibility to have VR related projects at the next NAMIC Project Week if some are interested.</p>
 <p>Please let us know where you are at with SlicerVR.</p>
+
+---
+
+## Post #5 by @cpinter (2026-05-28 12:23 UTC)
+
+<p>Hi Simon,</p>
+<p>Where should I try?</p>
+<p>I started integrating my old VR widget work into the latest SlicerVR, so I’ll be using it for this integration. Also we have some custom apps where I plan to offer SlicerVR for “advanced visualization”, but basically as an eye candy perk.</p>
+<p>Just yesterday I installed SlicerVR on 5.10, and I wasn’t able to do any interaction. I didn’t see the controllers (not even as those green polygon things - using MetaQuest 3), wasn’t able to fly, nothing. The set camera from reference view function also worked strange (it acted as if the viewing direction was exactly towards my right side instead of forward). So it was not really usable.</p>
+<p>What should I try to see what is the latest state? Where is the repo you have all the new work? Thanks!</p>
+<p><a class="mention" href="/u/lassoan">@lassoan</a> <a class="mention" href="/u/sunderlandkyl">@Sunderlandkyl</a></p>
+
+---
+
+## Post #6 by @lassoan (2026-05-28 13:25 UTC)
+
+<p>It is recommended to use a recent Slicer Preview Release, OpenXR interface, and Meta Quest 3 headset. Slicer-5.10 may work with some controllers and backends, but we only test with the Slicer Preview Release and Meta Quest 3.</p>
+<p>I’ve updated the description of interactions that are currently supported: <a href="https://github.com/KitwareMedical/SlicerVirtualReality#how-to-use-controllers" class="inline-onebox">GitHub - KitwareMedical/SlicerVirtualReality: A Slicer extension that enables user to interact with a Slicer scene using virtual reality. · GitHub</a></p>
+<p>Kyle’s changes require VTK patches, and OpenXR SDK update. Integration of these is in progress (we expect to get them integrated within 1-2 weeks, in Slicer-5.12).</p>
 
 ---

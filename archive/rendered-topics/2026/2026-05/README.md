@@ -67,3 +67,6 @@
 - [2026 05 27 Animator Module Not Exporting In Any Format](2026-05-27-animator-module-not-exporting-in-any-format-id47153.md)
 - [2026 05 27 Testing Dashboard Shows No Tests Executed When Filtering Is](2026-05-27-testing-dashboard-shows-no-tests-executed-when-filtering-is-id47144.md)
 - [2026 05 27 Why Arent We Building The Extensions In Parallel](2026-05-27-why-arent-we-building-the-extensions-in-parallel-id47155.md)
+- [2026 05 28 2026 06 02 Weekly Meeting](2026-05-28-2026-06-02-weekly-meeting-id47160.md)
+- [2026 05 28 Exporting Dicom Perfusion Cine As Nifti Gives Only 1 Dynamic](2026-05-28-exporting-dicom-perfusion-cine-as-nifti-gives-only-1-dynamic-id47163.md)
+- [2026 05 28 Next Pw Prep Meeting Tues Jun 2 At 10 Am Et](2026-05-28-next-pw-prep-meeting-tues-jun-2-at-10-am-et-id47164.md)
