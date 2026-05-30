@@ -3,7 +3,7 @@ topic_id: 44542
 title: "3D Slicer Virtual Reality Experience with Meta Quest 3"
 date: 2025-09-21
 url: https://discourse.slicer.org/t/44542
-last_bumped: 2026-05-28T13:25:57.798Z
+last_bumped: 2026-05-29T13:27:35.936Z
 ---
 
 # 3D Slicer Virtual Reality Experience with Meta Quest 3
@@ -109,5 +109,12 @@ last_bumped: 2026-05-28T13:25:57.798Z
 <p>It is recommended to use a recent Slicer Preview Release, OpenXR interface, and Meta Quest 3 headset. Slicer-5.10 may work with some controllers and backends, but we only test with the Slicer Preview Release and Meta Quest 3.</p>
 <p>I’ve updated the description of interactions that are currently supported: <a href="https://github.com/KitwareMedical/SlicerVirtualReality#how-to-use-controllers" class="inline-onebox">GitHub - KitwareMedical/SlicerVirtualReality: A Slicer extension that enables user to interact with a Slicer scene using virtual reality. · GitHub</a></p>
 <p>Kyle’s changes require VTK patches, and OpenXR SDK update. Integration of these is in progress (we expect to get them integrated within 1-2 weeks, in Slicer-5.12).</p>
+
+---
+
+## Post #7 by @drouin-simon (2026-05-29 13:27 UTC)
+
+<p>Hi Andras,</p>
+<p>Could you share the location of the changes that have already been pushed to the public repository. I think it would help to understand how things have changed in terms of interaction management and where we can look if a specific interaction is not working as expected.</p>
 
 ---

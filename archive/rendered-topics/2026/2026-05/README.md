@@ -70,3 +70,5 @@
 - [2026 05 28 2026 06 02 Weekly Meeting](2026-05-28-2026-06-02-weekly-meeting-id47160.md)
 - [2026 05 28 Exporting Dicom Perfusion Cine As Nifti Gives Only 1 Dynamic](2026-05-28-exporting-dicom-perfusion-cine-as-nifti-gives-only-1-dynamic-id47163.md)
 - [2026 05 28 Next Pw Prep Meeting Tues Jun 2 At 10 Am Et](2026-05-28-next-pw-prep-meeting-tues-jun-2-at-10-am-et-id47164.md)
+- [2026 05 29 Adding Landmarks Using Point List Results In Screen Glitches](2026-05-29-adding-landmarks-using-point-list-results-in-screen-glitches-id47173.md)
+- [2026 05 29 Why Wont My Mrml File Open In 3D Slicer Or My Stl File Becom](2026-05-29-why-wont-my-mrml-file-open-in-3d-slicer-or-my-stl-file-becom-id47172.md)
