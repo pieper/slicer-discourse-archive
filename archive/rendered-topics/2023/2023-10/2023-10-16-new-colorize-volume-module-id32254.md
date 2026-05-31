@@ -1,8 +1,9 @@
 ---
 topic_id: 32254
-title: "New Colorize Volume Module"
+title: "New Colorize Volume module"
 date: 2023-10-16
 url: https://discourse.slicer.org/t/32254
+last_bumped: 2026-05-30T13:04:32.523Z
 ---
 
 # New Colorize Volume module
@@ -140,8 +141,7 @@ SlicerMorph Version: c944db9 (2025-06-26)
 
 ## Post #10 by @Esteban_Barreiro (2026-01-06 01:29 UTC)
 
-<p>Wow! Looks great!</p>
-<p>I cant find this Module on 5.10.0… where did it go?</p>
+<p>(post deleted by author)</p>
 
 ---
 
@@ -182,5 +182,18 @@ SlicerMorph Version: c944db9 (2025-06-26)
   <div style="clear: both"></div>
 </aside>
 
+
+---
+
+## Post #12 by @Esteban_Barreiro (2026-05-30 12:26 UTC)
+
+<p>Yeah, scary! haha</p>
+<p>Maybe this Module solve the dithering problem we had a few years ago with the SlicerFab results for Voxel Printing…¿?</p>
+
+---
+
+## Post #13 by @lassoan (2026-05-30 13:04 UTC)
+
+<p>Yes, the Colorize Volume module solves the problem of artifacts at segment boundaries caused by the difference in level of details between the original CT and the segmentation.</p>
 
 ---

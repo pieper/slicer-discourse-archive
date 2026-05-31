@@ -1,8 +1,9 @@
 ---
 topic_id: 46130
-title: "Is There A Way To Export In 3Mf File Format"
+title: "Is there a way to export in 3mf file format?"
 date: 2026-02-12
 url: https://discourse.slicer.org/t/46130
+last_bumped: 2026-05-30T13:00:37.106Z
 ---
 
 # Is there a way to export in 3mf file format?
@@ -93,5 +94,18 @@ class ExportModelTo3mf(ScriptedLoadableModule):
   <div style="clear: both"></div>
 </aside>
 
+
+---
+
+## Post #5 by @Esteban_Barreiro (2026-05-30 12:54 UTC)
+
+<p>Hola!</p>
+<p>I can’t find the 3mf file extension when I try to export, tried the right click option over Data module, the Save Data alternative, but nothing…</p>
+
+---
+
+## Post #6 by @lassoan (2026-05-30 13:00 UTC)
+
+<p>3MF export option is available after you install the Sandbox extension.</p>
 
 ---
