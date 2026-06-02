@@ -1,10 +1,10 @@
 # Slicer Discourse Archive Index
 
-Last updated: 2026-06-01 04:28 UTC
+Last updated: 2026-06-02 04:28 UTC
 
 ## Archive Contents
 
-- Total rendered topics: 18988
+- Total rendered topics: 18992
 - Raw JSON files: 0
 
 ## Recent Topics
@@ -15,6 +15,15 @@ Last updated: 2026-06-01 04:28 UTC
 - [README.md](archive/rendered-topics/2023/2023-04/README.md)
 - [README.md](archive/rendered-topics/2023/2023-03/README.md)
 - [README.md](archive/rendered-topics/2023/2023-02/README.md)
+- [superimposing dental models](archive/rendered-topics/2023/2023-10/2023-10-31-superimposing-dental-models-id32501.md)
+- [testing without launching graphical components](archive/rendered-topics/2023/2023-10/2023-10-31-testing-without-launching-graphical-components-id32506.md)
+- [toggle visibility of models in a folder using scripting](archive/rendered-topics/2023/2023-10/2023-10-31-toggle-visibility-of-models-in-a-folder-using-scripting-id32497.md)
+- [total segmentator 1 heartchambers highres](archive/rendered-topics/2023/2023-10/2023-10-31-total-segmentator-1-heartchambers-highres-id32505.md)
+- [failed to get totalsegmentator package version on macos](archive/rendered-topics/2023/2023-10/2023-10-30-failed-to-get-totalsegmentator-package-version-on-macos-id32492.md)
+- [how to reduce size of exported stl files](archive/rendered-topics/2023/2023-10/2023-10-30-how-to-reduce-size-of-exported-stl-files-id32481.md)
+- [inquiry regarding totalsegmentator v2 compatibility with rab](archive/rendered-topics/2023/2023-10/2023-10-30-inquiry-regarding-totalsegmentator-v2-compatibility-with-rab-id32489.md)
+- [is there a faster way to read and write a segment as a numpy](archive/rendered-topics/2023/2023-10/2023-10-30-is-there-a-faster-way-to-read-and-write-a-segment-as-a-numpy-id32487.md)
+- [link on slicer org documention does not work](archive/rendered-topics/2023/2023-10/2023-10-30-link-on-slicer-org-documention-does-not-work-id32482.md)
 - [nifti segmentation to dicom seg in a batch with python](archive/rendered-topics/2023/2023-10/2023-10-30-nifti-segmentation-to-dicom-seg-in-a-batch-with-python-id32488.md)
 - [problem running totalsegmentator in slicer 5 4](archive/rendered-topics/2023/2023-10/2023-10-30-problem-running-totalsegmentator-in-slicer-5-4-id32491.md)
 - [totalsegmentator v2](archive/rendered-topics/2023/2023-10/2023-10-30-totalsegmentator-v2-id32470.md)
@@ -23,10 +32,12 @@ Last updated: 2026-06-01 04:28 UTC
 - [pseudolmgenerator unit of landmarks generated](archive/rendered-topics/2023/2023-10/2023-10-31-pseudolmgenerator-unit-of-landmarks-generated-id32508.md)
 - [rotating view is too fast](archive/rendered-topics/2023/2023-10/2023-10-31-rotating-view-is-too-fast-id32510.md)
 - [slicer training page](archive/rendered-topics/2023/2023-10/2023-10-31-slicer-training-page-id32513.md)
-- [superimposing dental models](archive/rendered-topics/2023/2023-10/2023-10-31-superimposing-dental-models-id32501.md)
-- [testing without launching graphical components](archive/rendered-topics/2023/2023-10/2023-10-31-testing-without-launching-graphical-components-id32506.md)
-- [toggle visibility of models in a folder using scripting](archive/rendered-topics/2023/2023-10/2023-10-31-toggle-visibility-of-models-in-a-folder-using-scripting-id32497.md)
-- [total segmentator 1 heartchambers highres](archive/rendered-topics/2023/2023-10/2023-10-31-total-segmentator-1-heartchambers-highres-id32505.md)
+- [how to setup subject hierarchy tree filtering](archive/rendered-topics/2023/2023-10/2023-10-26-how-to-setup-subject-hierarchy-tree-filtering-id32435.md)
+- [how to unmerge nifti nii gz files](archive/rendered-topics/2023/2023-10/2023-10-26-how-to-unmerge-nifti-nii-gz-files-id32433.md)
+- [i can t normally open a volume in 3d slicer scanned with a m](archive/rendered-topics/2023/2023-10/2023-10-26-i-can-t-normally-open-a-volume-in-3d-slicer-scanned-with-a-m-id32429.md)
+- [linux specific error placing plane markup](archive/rendered-topics/2023/2023-10/2023-10-26-linux-specific-error-placing-plane-markup-id32428.md)
+- [new feature thick slab reconstruction from slice controllers](archive/rendered-topics/2023/2023-10/2023-10-26-new-feature-thick-slab-reconstruction-from-slice-controllers-id32432.md)
+- [new surface model generation method surfacenets](archive/rendered-topics/2023/2023-10/2023-10-26-new-surface-model-generation-method-surfacenets-id32430.md)
 - [running python tests automatically](archive/rendered-topics/2023/2023-10/2023-10-26-running-python-tests-automatically-id32426.md)
 - [text color in python interactor](archive/rendered-topics/2023/2023-10/2023-10-26-text-color-in-python-interactor-id32422.md)
 - [grow from seeds does not work if painting only one segment](archive/rendered-topics/2023/2023-10/2023-10-27-grow-from-seeds-does-not-work-if-painting-only-one-segment-id32452.md)
@@ -38,24 +49,13 @@ Last updated: 2026-06-01 04:28 UTC
 - [docker container with 3d slicer build to build and test an e](archive/rendered-topics/2023/2023-10/2023-10-29-docker-container-with-3d-slicer-build-to-build-and-test-an-e-id32461.md)
 - [weekly meeting](archive/rendered-topics/2023/2023-10/2023-10-30-2023-10-31-weekly-meeting-id32496.md)
 - [can totalsegmentator segment maxillofacial ct as well](archive/rendered-topics/2023/2023-10/2023-10-30-can-totalsegmentator-segment-maxillofacial-ct-as-well-id32484.md)
-- [failed to get totalsegmentator package version on macos](archive/rendered-topics/2023/2023-10/2023-10-30-failed-to-get-totalsegmentator-package-version-on-macos-id32492.md)
-- [how to reduce size of exported stl files](archive/rendered-topics/2023/2023-10/2023-10-30-how-to-reduce-size-of-exported-stl-files-id32481.md)
-- [inquiry regarding totalsegmentator v2 compatibility with rab](archive/rendered-topics/2023/2023-10/2023-10-30-inquiry-regarding-totalsegmentator-v2-compatibility-with-rab-id32489.md)
-- [is there a faster way to read and write a segment as a numpy](archive/rendered-topics/2023/2023-10/2023-10-30-is-there-a-faster-way-to-read-and-write-a-segment-as-a-numpy-id32487.md)
-- [link on slicer org documention does not work](archive/rendered-topics/2023/2023-10/2023-10-30-link-on-slicer-org-documention-does-not-work-id32482.md)
+- [weekly meeting](archive/rendered-topics/2023/2023-10/2023-10-23-2023-10-24-weekly-meeting-id32389.md)
+- [3d slicer does not accept the dose file that i add as a dose](archive/rendered-topics/2023/2023-10/2023-10-23-3d-slicer-does-not-accept-the-dose-file-that-i-add-as-a-dose-id32387.md)
+- [how can i avoid holes in the output when converting a model](archive/rendered-topics/2023/2023-10/2023-10-23-how-can-i-avoid-holes-in-the-output-when-converting-a-model-id32388.md)
+- [improving animator module](archive/rendered-topics/2023/2023-10/2023-10-23-improving-animator-module-id32384.md)
+- [issue with downloading rt slicer](archive/rendered-topics/2023/2023-10/2023-10-23-issue-with-downloading-rt-slicer-id32386.md)
+- [storing multiple arbitrary point orientation pairs with a ma](archive/rendered-topics/2023/2023-10/2023-10-23-storing-multiple-arbitrary-point-orientation-pairs-with-a-ma-id32385.md)
+- [can i transfer the ras coordinate system back to lps](archive/rendered-topics/2023/2023-10/2023-10-24-can-i-transfer-the-ras-coordinate-system-back-to-lps-id32394.md)
 - [centerline computation problem straight lines](archive/rendered-topics/2023/2023-10/2023-10-24-centerline-computation-problem-straight-lines-id32397.md)
 - [how can i save a 2d cropped image and remove the black backg](archive/rendered-topics/2023/2023-10/2023-10-24-how-can-i-save-a-2d-cropped-image-and-remove-the-black-backg-id32393.md)
 - [how to export segment by lps coordinate system](archive/rendered-topics/2023/2023-10/2023-10-24-how-to-export-segment-by-lps-coordinate-system-id32391.md)
-- [how to run vmtk script in pypepad](archive/rendered-topics/2023/2023-10/2023-10-24-how-to-run-vmtk-script-in-pypepad-id32395.md)
-- [issue with dose comparison](archive/rendered-topics/2023/2023-10/2023-10-24-issue-with-dose-comparison-id32398.md)
-- [resampling a label map](archive/rendered-topics/2023/2023-10/2023-10-24-resampling-a-label-map-id32404.md)
-- [3d view rendering order issue](archive/rendered-topics/2023/2023-10/2023-10-25-3d-view-rendering-order-issue-id32407.md)
-- [help with pulmonary artery segmentation in pulmonary angiogr](archive/rendered-topics/2023/2023-10/2023-10-25-help-with-pulmonary-artery-segmentation-in-pulmonary-angiogr-id32405.md)
-- [infant freesurfer pial and sulc not loadable onto 3d slicer](archive/rendered-topics/2023/2023-10/2023-10-25-infant-freesurfer-pial-and-sulc-not-loadable-onto-3d-slicer-id32411.md)
-- [setting default window level](archive/rendered-topics/2023/2023-10/2023-10-25-setting-default-window-level-id32412.md)
-- [creating a hemisphere mask](archive/rendered-topics/2023/2023-10/2023-10-26-creating-a-hemisphere-mask-id32427.md)
-- [how to access advanced option in code](archive/rendered-topics/2023/2023-10/2023-10-26-how-to-access-advanced-option-in-code-id32418.md)
-- [how to setup subject hierarchy tree filtering](archive/rendered-topics/2023/2023-10/2023-10-26-how-to-setup-subject-hierarchy-tree-filtering-id32435.md)
-- [how to unmerge nifti nii gz files](archive/rendered-topics/2023/2023-10/2023-10-26-how-to-unmerge-nifti-nii-gz-files-id32433.md)
-- [i can t normally open a volume in 3d slicer scanned with a m](archive/rendered-topics/2023/2023-10/2023-10-26-i-can-t-normally-open-a-volume-in-3d-slicer-scanned-with-a-m-id32429.md)
-- [linux specific error placing plane markup](archive/rendered-topics/2023/2023-10/2023-10-26-linux-specific-error-placing-plane-markup-id32428.md)
