@@ -3,7 +3,7 @@ topic_id: 47173
 title: "Adding landmarks using Point List results in screen glitches"
 date: 2026-05-29
 url: https://discourse.slicer.org/t/47173
-last_bumped: 2026-05-29T17:12:37.680Z
+last_bumped: 2026-06-03T00:33:58.626Z
 ---
 
 # Adding landmarks using Point List results in screen glitches
@@ -36,5 +36,20 @@ last_bumped: 2026-05-29T17:12:37.680Z
 ## Post #2 by @muratmaga (2026-05-29 17:12 UTC)
 
 <p>The image too small to tell what’s going on? Can you send a higher resolution picture? From what I can see this might be related to graphics driver issue. Did this computer received a windows update sometime recently?</p>
+
+---
+
+## Post #3 by @jamesobutler (2026-06-03 00:33 UTC)
+
+<aside class="quote no-group" data-username="thelobsternods" data-post="1" data-topic="47173">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="24" height="24" src="https://avatars.discourse-cdn.com/v4/letter/t/41988e/48.png" class="avatar"> thelobsternods:</div>
+<blockquote>
+<p>This issue started suddenly today (for instance was not happening last week). We have only seen this behavior with 3D slicer (no other software so far).</p>
+</blockquote>
+</aside>
+<p><a class="mention" href="/u/thelobsternods">@thelobsternods</a> I observed this issue suddenly happen on my system as well when I was adding a Markups ROI object. The screen was flickering with the image super skewed. The issue appears to have been caused by an Nvidia driver update that was rolled out through Windows Update and it was installed on May 29th just like you report. When opening the Nvidia control panel, it was driver version 595.71 that was problematic. This 595 driver version is a new major version release by Nvidia as they release major updates on 0/5 ending releases such as 590 and 595.</p>
+<p>I resolved the issue by installing the latest Nvidia driver. In my case I had a Nvidia T1000 desktop graphics card and from Nvidia’s driver download site I got the latest 596.59 version (<a href="https://us.download.nvidia.com/Windows/Quadro_Certified/596.59/596.59-quadro-rtx-desktop-notebook-win10-win11-64bit-international-dch-whql.exe" rel="noopener nofollow ugc">https://us.download.nvidia.com/Windows/Quadro_Certified/596.59/596.59-quadro-rtx-desktop-notebook-win10-win11-64bit-international-dch-whql.exe</a>). Once I ran the installer for this Nvidia driver update, the issue was resolved.</p>
 
 ---

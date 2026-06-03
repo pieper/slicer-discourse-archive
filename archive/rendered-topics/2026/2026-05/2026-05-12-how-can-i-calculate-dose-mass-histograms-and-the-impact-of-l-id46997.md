@@ -3,7 +3,7 @@ topic_id: 46997
 title: "How can I calculate dose-mass histograms and the impact of lung expansion"
 date: 2026-05-12
 url: https://discourse.slicer.org/t/46997
-last_bumped: 2026-05-14T13:05:28.568Z
+last_bumped: 2026-06-02T11:56:56.194Z
 ---
 
 # How can I calculate dose-mass histograms and the impact of lung expansion
@@ -99,5 +99,22 @@ last_bumped: 2026-05-14T13:05:28.568Z
 ## Post #2 by @ThomasVanParys (2026-05-14 13:05 UTC)
 
 <p>I may be wrong, but could you use <code>SlicerElastix</code>? Select the Fixed Volume as the FB CT set and Moving Volume as the DIBH CT set. The following Output Volume and create a new Transform node. The resulting Transform should be your DVF… calculating DVF you could navigate to the Transforms module and Convert it, and export the resulting output as a Disaplacement Field.. X,Y,Z data could be extracted from that using the Vector to Scalar Volume module?</p>
+
+---
+
+## Post #3 by @cpinter (2026-06-02 11:56 UTC)
+
+<aside class="quote no-group" data-username="zahra_Tabasi" data-post="1" data-topic="46997">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="24" height="24" src="https://sea2.discourse-cdn.com/flex002/user_avatar/discourse.slicer.org/zahra_tabasi/48/81718_2.png" class="avatar"> zahra_Tabasi:</div>
+<blockquote>
+<p>some extensions mentioned in older workflows (such as Plastimatch or QARegistration)</p>
+</blockquote>
+</aside>
+<p>I’m not sure about QARegistration, but the Plastimatch modules are in the SlicerRT extension, which is available.</p>
+<p>Also I agree with the previous answer that Elastix could be a good way to do the registration, as I think it is the most powerful image registration method in Slicer.</p>
+<p>Happy to answer questions one by one as you proceed with the registration.</p>
+<p>(Sorry for the delay, had this thread saved for weeks but just had the oportunity to look at it in more detail)</p>
 
 ---
