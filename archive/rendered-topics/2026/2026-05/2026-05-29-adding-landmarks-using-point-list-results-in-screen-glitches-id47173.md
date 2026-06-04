@@ -3,7 +3,7 @@ topic_id: 47173
 title: "Adding landmarks using Point List results in screen glitches"
 date: 2026-05-29
 url: https://discourse.slicer.org/t/47173
-last_bumped: 2026-06-03T00:33:58.626Z
+last_bumped: 2026-06-03T18:42:55.850Z
 ---
 
 # Adding landmarks using Point List results in screen glitches
@@ -51,5 +51,11 @@ last_bumped: 2026-06-03T00:33:58.626Z
 </aside>
 <p><a class="mention" href="/u/thelobsternods">@thelobsternods</a> I observed this issue suddenly happen on my system as well when I was adding a Markups ROI object. The screen was flickering with the image super skewed. The issue appears to have been caused by an Nvidia driver update that was rolled out through Windows Update and it was installed on May 29th just like you report. When opening the Nvidia control panel, it was driver version 595.71 that was problematic. This 595 driver version is a new major version release by Nvidia as they release major updates on 0/5 ending releases such as 590 and 595.</p>
 <p>I resolved the issue by installing the latest Nvidia driver. In my case I had a Nvidia T1000 desktop graphics card and from Nvidia’s driver download site I got the latest 596.59 version (<a href="https://us.download.nvidia.com/Windows/Quadro_Certified/596.59/596.59-quadro-rtx-desktop-notebook-win10-win11-64bit-international-dch-whql.exe" rel="noopener nofollow ugc">https://us.download.nvidia.com/Windows/Quadro_Certified/596.59/596.59-quadro-rtx-desktop-notebook-win10-win11-64bit-international-dch-whql.exe</a>). Once I ran the installer for this Nvidia driver update, the issue was resolved.</p>
+
+---
+
+## Post #4 by @thelobsternods (2026-06-03 18:42 UTC)
+
+<p><a class="mention" href="/u/jamesobutler">@jamesobutler</a> Thank you so much! I will try this!</p>
 
 ---

@@ -3,7 +3,7 @@ topic_id: 46973
 title: "Invisible wall limiting segmentation"
 date: 2026-05-08
 url: https://discourse.slicer.org/t/46973
-last_bumped: 2026-05-10T23:52:49.506Z
+last_bumped: 2026-06-03T20:46:07.115Z
 ---
 
 # Invisible wall limiting segmentation
@@ -33,5 +33,25 @@ last_bumped: 2026-05-10T23:52:49.506Z
 ## Post #3 by @lassoan (2026-05-10 23:52 UTC)
 
 <p>See some more details in the <a href="https://slicer.readthedocs.io/en/latest/user_guide/modules/segmenteditor.html#cannot-paint-outside-some-boundaries">Segmentation FAQ</a>.</p>
+
+---
+
+## Post #4 by @FabricioFO (2026-06-03 14:46 UTC)
+
+<aside class="quote no-group" data-username="FabricioFO" data-post="1" data-topic="46973">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="24" height="24" src="https://sea2.discourse-cdn.com/flex002/user_avatar/discourse.slicer.org/fabriciofo/48/82005_2.png" class="avatar"> FabricioFO:</div>
+<blockquote>
+<p><code>Example</code></p>
+</blockquote>
+</aside>
+<p>Sorry, here it’s the video <a href="https://drive.google.com/file/d/1FeHXU00pTNqofsARQXDOdh7w6ihN5ti_/view?usp=sharing" rel="noopener nofollow ugc">https://drive.google.com/file/d/1FeHXU00pTNqofsARQXDOdh7w6ihN5ti_/view?usp=sharing</a></p>
+
+---
+
+## Post #5 by @lassoan (2026-06-03 20:46 UTC)
+
+<p>It looks like the segmentation geometry is set to a smaller size than the volume (for example, you may have created the segmentation when a smaller volume was displayed as background volume). You can fix it by <a href="https://slicer.readthedocs.io/en/latest/user_guide/modules/segmenteditor.html#cannot-paint-outside-some-boundaries">clicking on the Specify geometry button</a> and set the geometry based on the volume that you are segmenting now.</p>
 
 ---

@@ -3,7 +3,7 @@ topic_id: 47140
 title: "Mensure tooth torque"
 date: 2026-05-26
 url: https://discourse.slicer.org/t/47140
-last_bumped: 2026-05-28T11:52:48.822Z
+last_bumped: 2026-06-03T05:52:56.996Z
 ---
 
 # Mensure tooth torque
@@ -50,5 +50,11 @@ last_bumped: 2026-05-28T11:52:48.822Z
 </ul>
 <p>Once these definitions are clear, Slicer can be very useful for CBCT visualization, segmentation, landmark placement, and 3D model creation. For biomechanical torque analysis, I would recommend collaborating with an engineer or researcher experienced in finite element analysis.</p>
 <p>Hope this helps.</p>
+
+---
+
+## Post #3 by @Kevin_Nguyen (2026-06-03 05:52 UTC)
+
+<p>Thank you so much for your answer! It really helps! We are going to measure tooth/root inclination. Have you done it before with 3D-slicer?</p>
 
 ---

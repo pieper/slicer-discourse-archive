@@ -3,7 +3,7 @@ topic_id: 46316
 title: "Reimplementation of 3D slicer CPR using pure VTK"
 date: 2026-02-26
 url: https://discourse.slicer.org/t/46316
-last_bumped: 2026-04-20T03:19:38.950Z
+last_bumped: 2026-06-03T12:44:22.645Z
 ---
 
 # Reimplementation of 3D slicer CPR using pure VTK
@@ -136,5 +136,16 @@ Thibault</p>
 <li>How do you calculate the orientation of each centerline?</li>
 <li>Are you generating centerlines based on coronal/sagittal/axial view of the original CT dicom images?</li>
 </ul>
+
+---
+
+## Post #6 by @heart_project (2026-06-03 12:44 UTC)
+
+<p><a class="mention" href="/u/s_g">@S_G</a></p>
+<p>Amazing results!</p>
+<p>I’m building something similar with OHIF and vtkImageCPRMapper and I’m particularly interested in the step before CPR generation: obtaining the coronary centerline from the axial CT images.</p>
+<p>Did you implement any vessel tracking / centerline extraction algorithm, or is the current prototype based on manually placed centerline control points?</p>
+<p>If coronary extraction is not part of this prototype, would you recommend starting with a simple Draw Centerline Tool based on seed points placed on the axial view and then generating a spline for the CPR?</p>
+<p>Any insight into the strategy you used (or would recommend) would be greatly appreciated.</p>
 
 ---
