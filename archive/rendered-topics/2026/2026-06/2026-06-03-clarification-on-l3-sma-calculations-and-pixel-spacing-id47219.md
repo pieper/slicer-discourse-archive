@@ -3,7 +3,7 @@ topic_id: 47219
 title: "Clarification on L3 SMA calculations and Pixel Spacing"
 date: 2026-06-03
 url: https://discourse.slicer.org/t/47219
-last_bumped: 2026-06-03T20:57:01.901Z
+last_bumped: 2026-06-04T07:31:29.487Z
 ---
 
 # Clarification on L3 SMA calculations and Pixel Spacing
@@ -43,5 +43,11 @@ sma = np.sum(muscle == 1) * pixel_area / 100  # cm²
 
 <p>Since now skeletal muscles can be segmented properly in 3D, I would recommend to not bother with 2D slices. You can get the muscles using TotalSegmentator or other models and then get all the cross-sectional areas of all the muscles or any other structures in across a line using <code>Segment Cross-Section Area</code> module in Sandbox extension or using <a href="https://github.com/jmhuie/Slicer-SegmentGeometry">Segment Geometry</a> or <a href="https://github.com/vmtk/SlicerExtension-VMTK#the-vmtk-extension-for-3d-slicer">SlicerVMTK</a> extensions. Getting the cross sections in all the slices instead of an arbitrarily selected point at L3 level would give you more confidence in your data.</p>
 <p>In general, make sure you always work in physical space, i.e., always know the geometry of your image (origin, spacing, axis directions; usually stored as an IJK to LPS matrix), and always maintain the geometry information when you process an image (copy IJK to LPS from the input image to the output image).</p>
+
+---
+
+## Post #3 by @merckins (2026-06-04 07:31 UTC)
+
+<p>Thank you for the response. I will focus on the 3D volume instead.</p>
 
 ---
