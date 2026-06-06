@@ -1,10 +1,10 @@
 # Slicer Discourse Archive Index
 
-Last updated: 2026-06-05 04:27 UTC
+Last updated: 2026-06-06 04:21 UTC
 
 ## Archive Contents
 
-- Total rendered topics: 19001
+- Total rendered topics: 19004
 - Raw JSON files: 0
 
 ## Recent Topics
@@ -15,15 +15,6 @@ Last updated: 2026-06-05 04:27 UTC
 - [README.md](archive/rendered-topics/2023/2023-04/README.md)
 - [README.md](archive/rendered-topics/2023/2023-03/README.md)
 - [README.md](archive/rendered-topics/2023/2023-02/README.md)
-- [total segmentator 1 heartchambers highres](archive/rendered-topics/2023/2023-10/2023-10-31-total-segmentator-1-heartchambers-highres-id32505.md)
-- [weekly meeting](archive/rendered-topics/2023/2023-10/2023-10-30-2023-10-31-weekly-meeting-id32496.md)
-- [can totalsegmentator segment maxillofacial ct as well](archive/rendered-topics/2023/2023-10/2023-10-30-can-totalsegmentator-segment-maxillofacial-ct-as-well-id32484.md)
-- [failed to get totalsegmentator package version on macos](archive/rendered-topics/2023/2023-10/2023-10-30-failed-to-get-totalsegmentator-package-version-on-macos-id32492.md)
-- [how to reduce size of exported stl files](archive/rendered-topics/2023/2023-10/2023-10-30-how-to-reduce-size-of-exported-stl-files-id32481.md)
-- [inquiry regarding totalsegmentator v2 compatibility with rab](archive/rendered-topics/2023/2023-10/2023-10-30-inquiry-regarding-totalsegmentator-v2-compatibility-with-rab-id32489.md)
-- [is there a faster way to read and write a segment as a numpy](archive/rendered-topics/2023/2023-10/2023-10-30-is-there-a-faster-way-to-read-and-write-a-segment-as-a-numpy-id32487.md)
-- [link on slicer org documention does not work](archive/rendered-topics/2023/2023-10/2023-10-30-link-on-slicer-org-documention-does-not-work-id32482.md)
-- [nifti segmentation to dicom seg in a batch with python](archive/rendered-topics/2023/2023-10/2023-10-30-nifti-segmentation-to-dicom-seg-in-a-batch-with-python-id32488.md)
 - [problem running totalsegmentator in slicer 5 4](archive/rendered-topics/2023/2023-10/2023-10-30-problem-running-totalsegmentator-in-slicer-5-4-id32491.md)
 - [totalsegmentator v2](archive/rendered-topics/2023/2023-10/2023-10-30-totalsegmentator-v2-id32470.md)
 - [alpaca segmentation](archive/rendered-topics/2023/2023-10/2023-10-31-alpaca-segmentation-id32503.md)
@@ -34,6 +25,22 @@ Last updated: 2026-06-05 04:27 UTC
 - [superimposing dental models](archive/rendered-topics/2023/2023-10/2023-10-31-superimposing-dental-models-id32501.md)
 - [testing without launching graphical components](archive/rendered-topics/2023/2023-10/2023-10-31-testing-without-launching-graphical-components-id32506.md)
 - [toggle visibility of models in a folder using scripting](archive/rendered-topics/2023/2023-10/2023-10-31-toggle-visibility-of-models-in-a-folder-using-scripting-id32497.md)
+- [total segmentator 1 heartchambers highres](archive/rendered-topics/2023/2023-10/2023-10-31-total-segmentator-1-heartchambers-highres-id32505.md)
+- [grow from seeds does not work if painting only one segment](archive/rendered-topics/2023/2023-10/2023-10-27-grow-from-seeds-does-not-work-if-painting-only-one-segment-id32452.md)
+- [i would like to ask a question about some ways to use markup](archive/rendered-topics/2023/2023-10/2023-10-27-i-would-like-to-ask-a-question-about-some-ways-to-use-markup-id32443.md)
+- [loading images and segmentation in slicer v s itksnap](archive/rendered-topics/2023/2023-10/2023-10-27-loading-images-and-segmentation-in-slicer-v-s-itksnap-id32441.md)
+- [how can i increase t1 mr images count](archive/rendered-topics/2023/2023-10/2023-10-28-how-can-i-increase-t1-mr-images-count-id32454.md)
+- [accuracy evaluation](archive/rendered-topics/2023/2023-10/2023-10-29-accuracy-evaluation-id32460.md)
+- [bone thickness mapping use with skull ct images](archive/rendered-topics/2023/2023-10/2023-10-29-bone-thickness-mapping-use-with-skull-ct-images-id32463.md)
+- [docker container with 3d slicer build to build and test an e](archive/rendered-topics/2023/2023-10/2023-10-29-docker-container-with-3d-slicer-build-to-build-and-test-an-e-id32461.md)
+- [weekly meeting](archive/rendered-topics/2023/2023-10/2023-10-30-2023-10-31-weekly-meeting-id32496.md)
+- [can totalsegmentator segment maxillofacial ct as well](archive/rendered-topics/2023/2023-10/2023-10-30-can-totalsegmentator-segment-maxillofacial-ct-as-well-id32484.md)
+- [failed to get totalsegmentator package version on macos](archive/rendered-topics/2023/2023-10/2023-10-30-failed-to-get-totalsegmentator-package-version-on-macos-id32492.md)
+- [how to reduce size of exported stl files](archive/rendered-topics/2023/2023-10/2023-10-30-how-to-reduce-size-of-exported-stl-files-id32481.md)
+- [inquiry regarding totalsegmentator v2 compatibility with rab](archive/rendered-topics/2023/2023-10/2023-10-30-inquiry-regarding-totalsegmentator-v2-compatibility-with-rab-id32489.md)
+- [is there a faster way to read and write a segment as a numpy](archive/rendered-topics/2023/2023-10/2023-10-30-is-there-a-faster-way-to-read-and-write-a-segment-as-a-numpy-id32487.md)
+- [link on slicer org documention does not work](archive/rendered-topics/2023/2023-10/2023-10-30-link-on-slicer-org-documention-does-not-work-id32482.md)
+- [nifti segmentation to dicom seg in a batch with python](archive/rendered-topics/2023/2023-10/2023-10-30-nifti-segmentation-to-dicom-seg-in-a-batch-with-python-id32488.md)
 - [issue with dose comparison](archive/rendered-topics/2023/2023-10/2023-10-24-issue-with-dose-comparison-id32398.md)
 - [resampling a label map](archive/rendered-topics/2023/2023-10/2023-10-24-resampling-a-label-map-id32404.md)
 - [3d view rendering order issue](archive/rendered-topics/2023/2023-10/2023-10-25-3d-view-rendering-order-issue-id32407.md)
@@ -50,12 +57,5 @@ Last updated: 2026-06-05 04:27 UTC
 - [new surface model generation method surfacenets](archive/rendered-topics/2023/2023-10/2023-10-26-new-surface-model-generation-method-surfacenets-id32430.md)
 - [running python tests automatically](archive/rendered-topics/2023/2023-10/2023-10-26-running-python-tests-automatically-id32426.md)
 - [text color in python interactor](archive/rendered-topics/2023/2023-10/2023-10-26-text-color-in-python-interactor-id32422.md)
-- [grow from seeds does not work if painting only one segment](archive/rendered-topics/2023/2023-10/2023-10-27-grow-from-seeds-does-not-work-if-painting-only-one-segment-id32452.md)
-- [i would like to ask a question about some ways to use markup](archive/rendered-topics/2023/2023-10/2023-10-27-i-would-like-to-ask-a-question-about-some-ways-to-use-markup-id32443.md)
-- [loading images and segmentation in slicer v s itksnap](archive/rendered-topics/2023/2023-10/2023-10-27-loading-images-and-segmentation-in-slicer-v-s-itksnap-id32441.md)
-- [how can i increase t1 mr images count](archive/rendered-topics/2023/2023-10/2023-10-28-how-can-i-increase-t1-mr-images-count-id32454.md)
-- [accuracy evaluation](archive/rendered-topics/2023/2023-10/2023-10-29-accuracy-evaluation-id32460.md)
-- [bone thickness mapping use with skull ct images](archive/rendered-topics/2023/2023-10/2023-10-29-bone-thickness-mapping-use-with-skull-ct-images-id32463.md)
-- [docker container with 3d slicer build to build and test an e](archive/rendered-topics/2023/2023-10/2023-10-29-docker-container-with-3d-slicer-build-to-build-and-test-an-e-id32461.md)
-- [digitizing semilandmarks](archive/rendered-topics/2023/2023-10/2023-10-20-digitizing-semilandmarks-id32355.md)
-- [error in network detection in vmtk](archive/rendered-topics/2023/2023-10/2023-10-20-error-in-network-detection-in-vmtk-id32340.md)
+- [exporting segments without the total volume of the ct scan](archive/rendered-topics/2023/2023-10/2023-10-22-exporting-segments-without-the-total-volume-of-the-ct-scan-id32374.md)
+- [weekly meeting](archive/rendered-topics/2023/2023-10/2023-10-23-2023-10-24-weekly-meeting-id32389.md)

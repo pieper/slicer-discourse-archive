@@ -1,8 +1,9 @@
 ---
 topic_id: 45893
-title: "Ai Agent Skills For 3D Slicer"
+title: "AI Agent Skills for 3D Slicer?"
 date: 2026-01-24
 url: https://discourse.slicer.org/t/45893
+last_bumped: 2026-06-05T15:48:41.009Z
 ---
 
 # AI Agent Skills for 3D Slicer?
@@ -32,5 +33,27 @@ url: https://discourse.slicer.org/t/45893
 <p>A related project will be going on at Project Week:</p>
 <p><a href="https://projectweek.na-mic.org/PW44_2026_GranCanaria/Projects/ClaudeScientificSkillForImagingDataCommons/">https://projectweek.na-mic.org/PW44_2026_GranCanaria/Projects/ClaudeScientificSkillForImagingDataCommons/</a></p>
 <p>Informally I know there will be a lot of discussion about how these tools are changing out coding habits and how they are working out for developers and users with more or less experience.  We’ll try to capture those experiences and publish any experiments that come up during the week.</p>
+
+---
+
+## Post #4 by @Sveng (2026-06-05 15:45 UTC)
+
+<aside class="quote no-group quote-modified" data-username="mikebind" data-post="1" data-topic="45893" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="24" height="24" src="https://avatars.discourse-cdn.com/v4/letter/m/71e660/48.png" class="avatar"> mikebind:</div>
+<blockquote>
+<p>I noticed in the most recent release notes for VS Code support for “Agent Skills”, which are an <a href="https://agentskills.io/home" rel="noopener nofollow ugc">open-standard platform-agnostic method of specifying helpful standards and domain-specific reference materials for AI Agents to reference</a>. This seems like potentially a great way of improving Slicer-specific coding abilities for AI agents. This could also be connected with improving the effectiveness of the prototype tool described in this thread <a href="https://discourse.slicer.org/t/developer-agent-for-slicer/44787">Developer Agent for Slicer - Support - 3D Slicer Community</a>. While I think this is still in the realm of rapid development (and so may not be stable), it does intend to be an open standard and currently looks like it has fairly wide support. Has anyone tried to use this framework in the context of Slicer extension development? I think there is an opportunity here to develop some shared community resources like a “skill repository” (skills are intended to be shareable). I recently used <a href="https://mac.eltima.com/ai-headshot-generator-app/" rel="noopener nofollow ugc">Eltima AI for iphone</a> to generate a high quality developer avatar. Personally, I am just starting to try to dip a toe into using an agent to explore developing a segment editor effect, so I don’t yet have enough experience to try to set up anything useful, it just seems like an intriguing and intuitively sensible approach to improving Slicer-related coding via agents. Any experience or thoughts?</p>
+</blockquote>
+</aside>
+<p>This is actually a brilliant idea. Standard LLMs tend to hallucinate Slicer functions a lot because they just don’t have enough specialized training data.</p>
+<p>An open standard “Agent Skills” repository is exactly what the community needs to fix that. Feeding an agent structured, domain-specific references and boilerplate for things like the Segment Editor or volume rendering would drastically improve its output and save everyone a ton of debugging time.</p>
+<p>Even if you’re just dipping your toes in with a segment editor effect, just mapping out a basic reference guide or schema of Slicer specific coding standards could be the foundation for that community repo. I haven’t experimented with this specific VS Code framework yet, but building a shared skill repository sounds like the absolute right move to supercharge Slicer development.</p>
+
+---
+
+## Post #5 by @pieper (2026-06-05 15:48 UTC)
+
+<p>See this thread for more recent developments: <a href="https://discourse.slicer.org/t/new-slicer-skill-ai-tool/46243" class="inline-onebox">New slicer-skill ai tool</a></p>
 
 ---

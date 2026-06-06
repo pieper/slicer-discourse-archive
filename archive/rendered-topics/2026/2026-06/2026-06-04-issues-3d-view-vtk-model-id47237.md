@@ -3,7 +3,7 @@ topic_id: 47237
 title: "Issues 3D view .vtk model"
 date: 2026-06-04
 url: https://discourse.slicer.org/t/47237
-last_bumped: 2026-06-04T15:14:55.732Z
+last_bumped: 2026-06-05T16:57:41.096Z
 ---
 
 # Issues 3D view .vtk model
@@ -26,5 +26,56 @@ affects both slicer 10 and 11.</p>
 ## Post #2 by @muratmaga (2026-06-04 15:14 UTC)
 
 <p>You need to explain your issue a little better. It is not clear from the screenshot.</p>
+
+---
+
+## Post #3 by @Stephan_Collins (2026-06-05 10:07 UTC)
+
+<p>My apologies Murat,</p>
+<p>when visualising a model, the light projected on the model seem to be coming only from one direction.<br>
+If I am looking from a certain angle, model appears:</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/8/8/88da1d8f469676e08aac7505927a481c5da89fa8.jpeg" data-download-href="/uploads/short-url/jwEfgrU72C4BWIQdjJGNj8tJ4ko.jpeg?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/8/8/88da1d8f469676e08aac7505927a481c5da89fa8_2_690x254.jpeg" alt="image" data-base62-sha1="jwEfgrU72C4BWIQdjJGNj8tJ4ko" width="690" height="254" srcset="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/8/8/88da1d8f469676e08aac7505927a481c5da89fa8_2_690x254.jpeg, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/8/8/88da1d8f469676e08aac7505927a481c5da89fa8_2_1035x381.jpeg 1.5x, https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/8/8/88da1d8f469676e08aac7505927a481c5da89fa8.jpeg 2x" data-dominant-color="909DB7"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">image</span><span class="informations">1092×402 129 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div><br>
+but as I am changing angle, the model start loosing illumniation:</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/2/a/2a432f9d98db27392001667f2bca82fd9993af54.jpeg" data-download-href="/uploads/short-url/61RZWwJomwvvCGN6CNGTBZi2fRi.jpeg?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/2/a/2a432f9d98db27392001667f2bca82fd9993af54_2_690x229.jpeg" alt="image" data-base62-sha1="61RZWwJomwvvCGN6CNGTBZi2fRi" width="690" height="229" srcset="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/2/a/2a432f9d98db27392001667f2bca82fd9993af54_2_690x229.jpeg, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/2/a/2a432f9d98db27392001667f2bca82fd9993af54_2_1035x343.jpeg 1.5x, https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/2/a/2a432f9d98db27392001667f2bca82fd9993af54.jpeg 2x" data-dominant-color="7B809E"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">image</span><span class="informations">1058×352 116 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
+<p>And eventually becomes completely black upon a full 90° rotation: <div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/7/b/7b583d582e08ae1a302724ea72d3e0fde15e6d5c.jpeg" data-download-href="/uploads/short-url/hB9MrFZAjOjpMRICJi2GSErYtzu.jpeg?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/7/b/7b583d582e08ae1a302724ea72d3e0fde15e6d5c_2_690x229.jpeg" alt="image" data-base62-sha1="hB9MrFZAjOjpMRICJi2GSErYtzu" width="690" height="229" srcset="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/7/b/7b583d582e08ae1a302724ea72d3e0fde15e6d5c_2_690x229.jpeg, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/7/b/7b583d582e08ae1a302724ea72d3e0fde15e6d5c_2_1035x343.jpeg 1.5x, https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/7/b/7b583d582e08ae1a302724ea72d3e0fde15e6d5c.jpeg 2x" data-dominant-color="6F7097"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">image</span><span class="informations">1159×385 69.8 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
+<p>This issue is happenning on both slicer10 and 11. To clarify, we are  operating on a Linux-based system. I connect to our calculation server cluster interactively using NoMachine for remote access.</p>
+<p>This issue is only on .vtk models, whereas .obj and segmentations are looking fine.</p>
+
+---
+
+## Post #4 by @Stephan_Collins (2026-06-05 10:40 UTC)
+
+<p>More information. I just uploaded some old .vtk files produced via slicermorph or slicermorph+distance to distance models and they loaded fine. So neither slicer 10 or 11 or my environment settings are to blame I think.</p>
+<p>However, tt seems that it is only the most recent .vtk files I created via slicermorph that have been affected. I think those would have been created on the latest build (version 11).<br>
+I’m now trying creating a .vtk model on slicermorph slicer 10 to see if that works.</p>
+
+---
+
+## Post #5 by @Stephan_Collins (2026-06-05 10:50 UTC)
+
+<p>Dear all again, and sorry for multiple posts and troubleshooting in small steps but I found that slicermorph on slicer 10 is working as expected:</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/2/7/27306f442cfc842740e0a593d8d07a72c71236c5.jpeg" data-download-href="/uploads/short-url/5AGoj7Oyucod9YMuk8rpyiZUmUd.jpeg?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/2/7/27306f442cfc842740e0a593d8d07a72c71236c5_2_690x228.jpeg" alt="image" data-base62-sha1="5AGoj7Oyucod9YMuk8rpyiZUmUd" width="690" height="228" srcset="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/2/7/27306f442cfc842740e0a593d8d07a72c71236c5_2_690x228.jpeg, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/2/7/27306f442cfc842740e0a593d8d07a72c71236c5_2_1035x342.jpeg 1.5x, https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/2/7/27306f442cfc842740e0a593d8d07a72c71236c5.jpeg 2x" data-dominant-color="8C84B0"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">image</span><span class="informations">1122×371 136 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div><br>
+Here, the model works well. I saved it, reopenned it and again, it displays fine.</p>
+<p>So I think it must have something to do with slicer11/slicermorph.</p>
+
+---
+
+## Post #6 by @mikebind (2026-06-05 16:20 UTC)
+
+<p>I have run into this before, but unfortunately I don’t remember the details of what the problem was or what made it go away.  I haven’t ever used SlicerMorph, though, so that can’t have been the source of the problem when I ran into it.  Try turning off “Shadows visibilty” in the 3D view settings.  I think the most likely source of the problem is that there is something wrong with the surface normals on these models in particular.  Is it possible that the surface normals for these models are unset, or all in the same direction?  I think that would lead to the type of behavior you are seeing (i.e. uniform illumination from a single direction across the entire model, which disappears completely at 90 degrees to the normal vector).  You could try Surface Toolbox to recalculate the surface normals and see if that fixes the issue.</p>
+
+---
+
+## Post #7 by @muratmaga (2026-06-05 16:57 UTC)
+
+<aside class="quote no-group" data-username="Stephan_Collins" data-post="3" data-topic="47237">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="24" height="24" src="https://sea2.discourse-cdn.com/flex002/user_avatar/discourse.slicer.org/stephan_collins/48/81446_2.png" class="avatar"> Stephan_Collins:</div>
+<blockquote>
+<p>This issue is only on .vtk models, whereas .obj and segmentations are looking fine.</p>
+</blockquote>
+</aside>
+<p>As <a class="mention" href="/u/mikebind">@mikebind</a> said this is probably related to surface normals. Are vtk files generated the same way as the obj? Why do you have two different formats?</p>
 
 ---

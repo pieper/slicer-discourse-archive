@@ -12,3 +12,6 @@
 - [2026 06 04 Issues 3D View Vtk Model](2026-06-04-issues-3d-view-vtk-model-id47237.md)
 - [2026 06 04 Ndi Polaris Lyra 3D Slicer Openigtlink How To Keep Registrat](2026-06-04-ndi-polaris-lyra-3d-slicer-openigtlink-how-to-keep-registrat-id47234.md)
 - [2026 06 04 Next Pw Prep Meeting Tues Jun 9 At 10 Am Et](2026-06-04-next-pw-prep-meeting-tues-jun-9-at-10-am-et-id47240.md)
+- [2026 06 05 Amasss Issues No Nnunet Models Found](2026-06-05-amasss-issues-no-nnunet-models-found-id47246.md)
+- [2026 06 05 Bump Minimum Cmake Version To 3 28 1](2026-06-05-bump-minimum-cmake-version-to-3-28-1-id47247.md)
+- [2026 06 05 Free Form Cutting Tool In Segment Editor Is Slower](2026-06-05-free-form-cutting-tool-in-segment-editor-is-slower-id47245.md)

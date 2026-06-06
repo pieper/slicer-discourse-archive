@@ -3,7 +3,7 @@ topic_id: 46316
 title: "Reimplementation of 3D slicer CPR using pure VTK"
 date: 2026-02-26
 url: https://discourse.slicer.org/t/46316
-last_bumped: 2026-06-03T12:44:22.645Z
+last_bumped: 2026-06-05T16:10:02.510Z
 ---
 
 # Reimplementation of 3D slicer CPR using pure VTK
@@ -147,5 +147,11 @@ Thibault</p>
 <p>Did you implement any vessel tracking / centerline extraction algorithm, or is the current prototype based on manually placed centerline control points?</p>
 <p>If coronary extraction is not part of this prototype, would you recommend starting with a simple Draw Centerline Tool based on seed points placed on the axial view and then generating a spline for the CPR?</p>
 <p>Any insight into the strategy you used (or would recommend) would be greatly appreciated.</p>
+
+---
+
+## Post #7 by @mikebind (2026-06-05 16:10 UTC)
+
+<p>I’m not the original poster, but <a href="http://www.vmtk.org/" rel="noopener nofollow ugc">VMTK (Vessel Modeling Tool Kit)</a> is a great option for finding vessel centerlines, and is easy to use from Slicer via the VMTK Slicer extension (installable via the extension manager).</p>
 
 ---

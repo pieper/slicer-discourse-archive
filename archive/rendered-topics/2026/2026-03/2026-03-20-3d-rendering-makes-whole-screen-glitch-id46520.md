@@ -1,8 +1,9 @@
 ---
 topic_id: 46520
-title: "3D Rendering Makes Whole Screen Glitch"
+title: "3D rendering makes whole screen glitch"
 date: 2026-03-20
 url: https://discourse.slicer.org/t/46520
+last_bumped: 2026-06-05T16:31:22.492Z
 ---
 
 # 3D rendering makes whole screen glitch
@@ -32,5 +33,17 @@ url: https://discourse.slicer.org/t/46520
 <li>Try turning off surface smoothing in Segment Editor module (in dropdown on “Show 3D” button)</li>
 </ul>
 <p>The results can help narrow down where the problem might be (or might make it go away).</p>
+
+---
+
+## Post #3 by @ElaineYChu (2026-06-05 15:57 UTC)
+
+<p>This issue has also been happening to me / my lab on all 3 desktop computers but paradoxically not on our laptops… The different options to explore have not entirely resolved the issue. Any further progress on this?</p>
+
+---
+
+## Post #4 by @Sam_Horvath (2026-06-05 16:31 UTC)
+
+<p>Hi all, please see the Nvidia driver fix in this thread: <a href="https://discourse.slicer.org/t/adding-landmarks-using-point-list-results-in-screen-glitches/47173/3" class="inline-onebox">Adding landmarks using Point List results in screen glitches - #3 by jamesobutler</a>, worked for me</p>
 
 ---
