@@ -3,7 +3,7 @@ topic_id: 45893
 title: "AI Agent Skills for 3D Slicer?"
 date: 2026-01-24
 url: https://discourse.slicer.org/t/45893
-last_bumped: 2026-06-05T15:48:41.009Z
+last_bumped: 2026-06-06T19:58:04.523Z
 ---
 
 # AI Agent Skills for 3D Slicer?
@@ -55,5 +55,31 @@ last_bumped: 2026-06-05T15:48:41.009Z
 ## Post #5 by @pieper (2026-06-05 15:48 UTC)
 
 <p>See this thread for more recent developments: <a href="https://discourse.slicer.org/t/new-slicer-skill-ai-tool/46243" class="inline-onebox">New slicer-skill ai tool</a></p>
+
+---
+
+## Post #6 by @Hemran_313 (2026-06-06 19:57 UTC)
+
+<p>I think its a pretty interesting idea, one of the biggest issues with AI tools and slicer development is that they often dont know much about Slicers APIs and development patterns. Having shared “skills” or reference material could help a lot with that. Even a small community repository covering common tasks like module creation, Segment Editor effects, and MRML usage could make AI generated code much more accurate.</p>
+
+---
+
+## Post #7 by @Hemran_313 (2026-06-06 19:58 UTC)
+
+<p>good, saw it.</p><aside class="quote quote-modified" data-post="1" data-topic="46243">
+  <div class="title">
+    <div class="quote-controls"></div>
+    <img alt="" width="24" height="24" src="https://sea2.discourse-cdn.com/flex002/user_avatar/discourse.slicer.org/pieper/48/8_2.png" class="avatar">
+    <div class="quote-title__text-content">
+      <a href="https://discourse.slicer.org/t/new-slicer-skill-ai-tool/46243">New slicer-skill ai tool</a> <a class="badge-category__wrapper " href="/c/announcements/7"><span data-category-id="7" style="--category-badge-color: #ED207B; --category-badge-text-color: #000000;" data-drop-close="true" class="badge-category --style-square " title="Low-traffic category for 3D Slicer, extension, and community news and announcements."><span class="badge-category__name">Announcements</span></span></a>
+    </div>
+  </div>
+  <blockquote>
+    After learning from <a href="https://github.com/pieper/slicer-skill?tab=readme-ov-file#related-projects" rel="noopener nofollow ugc">previous experiments, several productive discussions</a> at project week and at the <a href="https://github.com/pieper/slicer-skill?tab=readme-ov-file#related-projects" rel="noopener nofollow ugc">last developer meeting</a>, I put together this <a href="https://github.com/pieper/slicer-skill" rel="noopener nofollow ugc">slicer-skill</a> that can be used with coding agents like Claude code. 
+It involves pulling down all the source code from Slicer and libraries like VTK, ITK, etc, together with all the discourse archives and other material like the source code for all the extensions.  It also includes a new mcp server so that it can iterate on doing programming tasks. 
+I thi…
+  </blockquote>
+</aside>
+
 
 ---

@@ -3,7 +3,7 @@ topic_id: 47234
 title: "NDI Polaris Lyra + 3D Slicer OpenIGTLink: How to Keep Registration Valid After Moving the Phantom?"
 date: 2026-06-04
 url: https://discourse.slicer.org/t/47234
-last_bumped: 2026-06-04T20:32:13.052Z
+last_bumped: 2026-06-06T17:14:57.265Z
 ---
 
 # NDI Polaris Lyra + 3D Slicer OpenIGTLink: How to Keep Registration Valid After Moving the Phantom?
@@ -157,5 +157,28 @@ For NDI Polaris passive marker starting kit: Tool (8700339), Stylus (8700340)" /
 &lt;/PlusConfiguration&gt;
 
 </code></pre>
+
+---
+
+## Post #4 by @ungi (2026-06-06 16:04 UTC)
+
+<p>Hi Adam,</p>
+<p>Your configuration looks good. Here are a few thoughts.</p>
+<p>I wouldn’t keep StylusTipToStylus in the PLUS config file. It’s easier to keep it in Slicer and re-calibrate it from StylusToReference using pivot calibration when necessary.</p>
+<p>This line doesn’t make sense in the IGTL server section:<br>
+Transform Name=“ToolToReference”<br>
+because Tool and Reference coordinate systems are the same.</p>
+<p>StylusToReference should be enough for you, and that should be the position of the stylus relative to the reference. If you use that (looks correct in your message), then you should be able to move the patient/phantom and it should already remain accurate.</p>
+<p>One sensitive point in your description is how you collect registration fiducial points. The goal of registration is to compute ReferenceToRAS. RAS points are just placed on the CT or STL model of the skull. But when recording matching points in the Reference coordinate system, you need to make sure that StylusTip is tranformed to Reference. In your screenshot, the StylutTipToStylus is transformed all the way to RAS, so if ReferenceToInitial or InitialToRAS is not identity, you should not use StylusTip to record new points. You can either duplicate StylusToReference to keep one copy for registration, or add a little python code to Slicer to make sure the registration points are always recorded in Reference.</p>
+<p>So I think you are on the right track and it should work. I assume you have seen the SlicerIGT tutorials. I don’t know of newer documentation.</p>
+<p>Let us know how it goes.</p>
+<p>Tamas</p>
+
+---
+
+## Post #5 by @AdamDomafoldi (2026-06-06 17:14 UTC)
+
+<p>Hi Tamás,</p>
+<p>I quickly tried it and it is working! Thank you! I will keep experimenting with it.</p>
 
 ---

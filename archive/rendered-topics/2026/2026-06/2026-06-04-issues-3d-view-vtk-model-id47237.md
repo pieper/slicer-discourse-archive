@@ -3,7 +3,7 @@ topic_id: 47237
 title: "Issues 3D view .vtk model"
 date: 2026-06-04
 url: https://discourse.slicer.org/t/47237
-last_bumped: 2026-06-05T16:57:41.096Z
+last_bumped: 2026-06-06T17:33:41.583Z
 ---
 
 # Issues 3D view .vtk model
@@ -77,5 +77,48 @@ Here, the model works well. I saved it, reopenned it and again, it displays fine
 </blockquote>
 </aside>
 <p>As <a class="mention" href="/u/mikebind">@mikebind</a> said this is probably related to surface normals. Are vtk files generated the same way as the obj? Why do you have two different formats?</p>
+
+---
+
+## Post #8 by @Stephan_Collins (2026-06-06 08:33 UTC)
+
+<aside class="quote no-group" data-username="mikebind" data-post="6" data-topic="47237">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="24" height="24" src="https://avatars.discourse-cdn.com/v4/letter/m/71e660/48.png" class="avatar"> mikebind:</div>
+<blockquote>
+<p>Shadows visibilty</p>
+</blockquote>
+</aside>
+<p>Hello, and thank you for your answers.</p>
+<p>Shadows visibility was set to off. I tried to set it to “on,” and that crashed Slicer 11 on my server. I restarted it, and it was back to the default “off.”</p>
+<p>I started looking into the Surface Toolbox, and using the “Splitting” function in Compute Surface Normals worked. I also tried: 1) auto_orient normals, which had no effect; and 2) flip normals, which had the expected effect: the model lighting effect turned on, until I rotated the model by 90°, and then it went black again.</p>
+<p>So, splitting works. I set the feature angle for splitting at 90, and I have a good result (not sure what I’d need to change it to but 90° seemed to give the best result). This model is the result of a model-to-model distance computation, and I can tell the end result is correct, so it is purely a display problem that is only apparent in Slicer 11, not Slicer 10.</p>
+<p>An important note also: I only used SlicerMorph GPA to create these models, so I don’t know yet if it is specific to SlicerMorph or to Slicer 11 in general on my setup. What is clear is that if I run a GPA in Slicer 11 and load/create a model via the interactive 3D tab, I get those “black” models: the original model and the warped model, even though my original model, if loaded separately, appears normal.</p>
+<p>So, things go awry when I use SlicerMorph on Slicer 11 only. Slicer 10 is okay.</p>
+<p>Why I use .vtk and .obj is possibly only because I use different modules to export models and they are set by default to either .obj and .vtk. I should probably have enforced using only .obj only ?</p>
+
+---
+
+## Post #9 by @muratmaga (2026-06-06 17:33 UTC)
+
+<aside class="quote no-group" data-username="Stephan_Collins" data-post="1" data-topic="47237">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="24" height="24" src="https://sea2.discourse-cdn.com/flex002/user_avatar/discourse.slicer.org/stephan_collins/48/81446_2.png" class="avatar"> Stephan_Collins:</div>
+<blockquote>
+<p>slicer on linux on a calculation server,</p>
+</blockquote>
+</aside>
+<p>How are you accessing this server and how is Slicer displayed? The most important thing are you running this locally on the server or remote connecting to it via some application? When you are running slicer on a remote machine there are many layers of complexities and libraries in between and it is very hard to chase it. Slicer 5.10 and 5.11 uses different vtk builds so that might be reason.</p>
+<aside class="quote no-group" data-username="Stephan_Collins" data-post="4" data-topic="47237">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="24" height="24" src="https://sea2.discourse-cdn.com/flex002/user_avatar/discourse.slicer.org/stephan_collins/48/81446_2.png" class="avatar"> Stephan_Collins:</div>
+<blockquote>
+<p>.vtk files produced via slicermorph</p>
+</blockquote>
+</aside>
+<p>What module do you use in SlicerMorph to generate these? Most SlicerMorph modules (e.g., GPA or ALPACA) doesn’t build 3D models, it simply modifies their existing geometry by deformations.  That should not change or matter for anything. Though if the deformation is extreme, surface normals may flip (but that often a sign that there is something wrong with the deformation, like landmark orders messed up etc)…</p>
 
 ---
