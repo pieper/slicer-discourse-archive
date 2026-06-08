@@ -16,3 +16,4 @@
 - [2026 06 05 Bump Minimum Cmake Version To 3 28 1](2026-06-05-bump-minimum-cmake-version-to-3-28-1-id47247.md)
 - [2026 06 05 Free Form Cutting Tool In Segment Editor Is Slower](2026-06-05-free-form-cutting-tool-in-segment-editor-is-slower-id47245.md)
 - [2026 06 06 How To Measure Area Of Visceral And Subcutaneous Visceral Fa](2026-06-06-how-to-measure-area-of-visceral-and-subcutaneous-visceral-fa-id47262.md)
+- [2026 06 07 Markups Nodes Enabling Measurements May Propagate On Newer N](2026-06-07-markups-nodes-enabling-measurements-may-propagate-on-newer-n-id47269.md)

@@ -1,8 +1,9 @@
 ---
 topic_id: 41158
-title: "Cant Download Because The Source File Cannot Be Read"
+title: "Can't download because the source file cannot be read"
 date: 2025-01-20
 url: https://discourse.slicer.org/t/41158
+last_bumped: 2026-06-07T13:43:26.354Z
 ---
 
 # Can't download because the source file cannot be read
@@ -144,5 +145,17 @@ Finally I can get back to using 3D Slicer. BTW, I use the software to make artwo
   </blockquote>
 </aside>
 
+
+---
+
+## Post #18 by @Hemran_313 (2026-06-07 12:36 UTC)
+
+<p>(post deleted by author)</p>
+
+---
+
+## Post #19 by @Hemran_313 (2026-06-07 13:43 UTC)
+
+<p>That error like a download problem than a Slicer problem. If the download consistently stops at the same point, it could be caused by a browser issue, antivirus software, a network interruption, or a corrupted cached download. Id suggest try downloading the installer with a different browser and, if possible, from a different network. It may also be worth temporarily checking whether <a href="https://speedport-ips.de/" rel="noopener nofollow ugc"><code>Windows Defender</code></a> or another security tool is blocking the download. <img src="https://emoji.discourse-cdn.com/twitter/face_blowing_a_kiss.png?v=15" title=":face_blowing_a_kiss:" class="emoji" alt=":face_blowing_a_kiss:" loading="lazy" width="20" height="20"></p>
 
 ---

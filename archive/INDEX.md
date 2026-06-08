@@ -1,10 +1,10 @@
 # Slicer Discourse Archive Index
 
-Last updated: 2026-06-07 04:28 UTC
+Last updated: 2026-06-08 04:28 UTC
 
 ## Archive Contents
 
-- Total rendered topics: 19005
+- Total rendered topics: 19006
 - Raw JSON files: 0
 
 ## Recent Topics
@@ -15,17 +15,11 @@ Last updated: 2026-06-07 04:28 UTC
 - [README.md](archive/rendered-topics/2023/2023-04/README.md)
 - [README.md](archive/rendered-topics/2023/2023-03/README.md)
 - [README.md](archive/rendered-topics/2023/2023-02/README.md)
-- [minimal draw tube effect](archive/rendered-topics/2023/2023-10/2023-10-31-minimal-draw-tube-effect-id32511.md)
-- [pseudolmgenerator unit of landmarks generated](archive/rendered-topics/2023/2023-10/2023-10-31-pseudolmgenerator-unit-of-landmarks-generated-id32508.md)
-- [rotating view is too fast](archive/rendered-topics/2023/2023-10/2023-10-31-rotating-view-is-too-fast-id32510.md)
 - [slicer training page](archive/rendered-topics/2023/2023-10/2023-10-31-slicer-training-page-id32513.md)
 - [superimposing dental models](archive/rendered-topics/2023/2023-10/2023-10-31-superimposing-dental-models-id32501.md)
 - [testing without launching graphical components](archive/rendered-topics/2023/2023-10/2023-10-31-testing-without-launching-graphical-components-id32506.md)
 - [toggle visibility of models in a folder using scripting](archive/rendered-topics/2023/2023-10/2023-10-31-toggle-visibility-of-models-in-a-folder-using-scripting-id32497.md)
 - [total segmentator 1 heartchambers highres](archive/rendered-topics/2023/2023-10/2023-10-31-total-segmentator-1-heartchambers-highres-id32505.md)
-- [bone thickness mapping use with skull ct images](archive/rendered-topics/2023/2023-10/2023-10-29-bone-thickness-mapping-use-with-skull-ct-images-id32463.md)
-- [docker container with 3d slicer build to build and test an e](archive/rendered-topics/2023/2023-10/2023-10-29-docker-container-with-3d-slicer-build-to-build-and-test-an-e-id32461.md)
-- [weekly meeting](archive/rendered-topics/2023/2023-10/2023-10-30-2023-10-31-weekly-meeting-id32496.md)
 - [can totalsegmentator segment maxillofacial ct as well](archive/rendered-topics/2023/2023-10/2023-10-30-can-totalsegmentator-segment-maxillofacial-ct-as-well-id32484.md)
 - [failed to get totalsegmentator package version on macos](archive/rendered-topics/2023/2023-10/2023-10-30-failed-to-get-totalsegmentator-package-version-on-macos-id32492.md)
 - [how to reduce size of exported stl files](archive/rendered-topics/2023/2023-10/2023-10-30-how-to-reduce-size-of-exported-stl-files-id32481.md)
@@ -36,10 +30,9 @@ Last updated: 2026-06-07 04:28 UTC
 - [problem running totalsegmentator in slicer 5 4](archive/rendered-topics/2023/2023-10/2023-10-30-problem-running-totalsegmentator-in-slicer-5-4-id32491.md)
 - [totalsegmentator v2](archive/rendered-topics/2023/2023-10/2023-10-30-totalsegmentator-v2-id32470.md)
 - [alpaca segmentation](archive/rendered-topics/2023/2023-10/2023-10-31-alpaca-segmentation-id32503.md)
-- [help with pulmonary artery segmentation in pulmonary angiogr](archive/rendered-topics/2023/2023-10/2023-10-25-help-with-pulmonary-artery-segmentation-in-pulmonary-angiogr-id32405.md)
-- [infant freesurfer pial and sulc not loadable onto 3d slicer](archive/rendered-topics/2023/2023-10/2023-10-25-infant-freesurfer-pial-and-sulc-not-loadable-onto-3d-slicer-id32411.md)
-- [setting default window level](archive/rendered-topics/2023/2023-10/2023-10-25-setting-default-window-level-id32412.md)
-- [creating a hemisphere mask](archive/rendered-topics/2023/2023-10/2023-10-26-creating-a-hemisphere-mask-id32427.md)
+- [minimal draw tube effect](archive/rendered-topics/2023/2023-10/2023-10-31-minimal-draw-tube-effect-id32511.md)
+- [pseudolmgenerator unit of landmarks generated](archive/rendered-topics/2023/2023-10/2023-10-31-pseudolmgenerator-unit-of-landmarks-generated-id32508.md)
+- [rotating view is too fast](archive/rendered-topics/2023/2023-10/2023-10-31-rotating-view-is-too-fast-id32510.md)
 - [how to access advanced option in code](archive/rendered-topics/2023/2023-10/2023-10-26-how-to-access-advanced-option-in-code-id32418.md)
 - [how to setup subject hierarchy tree filtering](archive/rendered-topics/2023/2023-10/2023-10-26-how-to-setup-subject-hierarchy-tree-filtering-id32435.md)
 - [how to unmerge nifti nii gz files](archive/rendered-topics/2023/2023-10/2023-10-26-how-to-unmerge-nifti-nii-gz-files-id32433.md)
@@ -54,8 +47,15 @@ Last updated: 2026-06-07 04:28 UTC
 - [loading images and segmentation in slicer v s itksnap](archive/rendered-topics/2023/2023-10/2023-10-27-loading-images-and-segmentation-in-slicer-v-s-itksnap-id32441.md)
 - [how can i increase t1 mr images count](archive/rendered-topics/2023/2023-10/2023-10-28-how-can-i-increase-t1-mr-images-count-id32454.md)
 - [accuracy evaluation](archive/rendered-topics/2023/2023-10/2023-10-29-accuracy-evaluation-id32460.md)
-- [user friendlyness](archive/rendered-topics/2023/2023-10/2023-10-20-user-friendlyness-id32334.md)
-- [no table showed after radiomic features in slicer](archive/rendered-topics/2023/2023-10/2023-10-21-no-table-showed-after-radiomic-features-in-slicer-id32363.md)
-- [seeking guidance on ventricle shape analysis in 3d slicer](archive/rendered-topics/2023/2023-10/2023-10-21-seeking-guidance-on-ventricle-shape-analysis-in-3d-slicer-id32364.md)
+- [bone thickness mapping use with skull ct images](archive/rendered-topics/2023/2023-10/2023-10-29-bone-thickness-mapping-use-with-skull-ct-images-id32463.md)
+- [docker container with 3d slicer build to build and test an e](archive/rendered-topics/2023/2023-10/2023-10-29-docker-container-with-3d-slicer-build-to-build-and-test-an-e-id32461.md)
+- [weekly meeting](archive/rendered-topics/2023/2023-10/2023-10-30-2023-10-31-weekly-meeting-id32496.md)
 - [centerline extraction c having different result from the sli](archive/rendered-topics/2023/2023-10/2023-10-22-centerline-extraction-c-having-different-result-from-the-sli-id32370.md)
 - [exporting segments without the total volume of the ct scan](archive/rendered-topics/2023/2023-10/2023-10-22-exporting-segments-without-the-total-volume-of-the-ct-scan-id32374.md)
+- [weekly meeting](archive/rendered-topics/2023/2023-10/2023-10-23-2023-10-24-weekly-meeting-id32389.md)
+- [3d slicer does not accept the dose file that i add as a dose](archive/rendered-topics/2023/2023-10/2023-10-23-3d-slicer-does-not-accept-the-dose-file-that-i-add-as-a-dose-id32387.md)
+- [how can i avoid holes in the output when converting a model](archive/rendered-topics/2023/2023-10/2023-10-23-how-can-i-avoid-holes-in-the-output-when-converting-a-model-id32388.md)
+- [improving animator module](archive/rendered-topics/2023/2023-10/2023-10-23-improving-animator-module-id32384.md)
+- [issue with downloading rt slicer](archive/rendered-topics/2023/2023-10/2023-10-23-issue-with-downloading-rt-slicer-id32386.md)
+- [storing multiple arbitrary point orientation pairs with a ma](archive/rendered-topics/2023/2023-10/2023-10-23-storing-multiple-arbitrary-point-orientation-pairs-with-a-ma-id32385.md)
+- [can i transfer the ras coordinate system back to lps](archive/rendered-topics/2023/2023-10/2023-10-24-can-i-transfer-the-ras-coordinate-system-back-to-lps-id32394.md)
