@@ -3,7 +3,7 @@ topic_id: 47237
 title: "Issues 3D view .vtk model"
 date: 2026-06-04
 url: https://discourse.slicer.org/t/47237
-last_bumped: 2026-06-06T17:33:41.583Z
+last_bumped: 2026-06-08T17:19:25.847Z
 ---
 
 # Issues 3D view .vtk model
@@ -120,5 +120,29 @@ Here, the model works well. I saved it, reopenned it and again, it displays fine
 </blockquote>
 </aside>
 <p>What module do you use in SlicerMorph to generate these? Most SlicerMorph modules (e.g., GPA or ALPACA) doesn’t build 3D models, it simply modifies their existing geometry by deformations.  That should not change or matter for anything. Though if the deformation is extreme, surface normals may flip (but that often a sign that there is something wrong with the deformation, like landmark orders messed up etc)…</p>
+
+---
+
+## Post #10 by @Stephan_Collins (2026-06-08 07:04 UTC)
+
+<p>Thanks for the suggestions.</p>
+<p>The machine I am using is a shared calculation/computing server at CCUB/UBE. I access it through NoMachine, so Slicer is running on the remote server in a fully interactive desktop session. I am not running Slicer locally on my workstation. I understand that this adds extra complexity because the display goes through the remote desktop stack, graphics drivers/OpenGL, Qt/VTK, etc., and that the different VTK builds between Slicer 5.10 and 5.11 could be relevant.</p>
+<p>Regarding the <code>.vtk</code> files: they are produced/processed through SlicerMorph, specifically in the GPA workflow. What seems strange is that a model created in slicer10 GPA, displays correctly in Slicer 5.11 if I simply open it as a model. The issue appears only when I select that model as the template in GPA to display the transformation. At that point, it shows the display problem I have been facing from the very start (as soon as I “apply” after selecting the model template and landmarls</p>
+<p>So it does not look like the <code>.vtk</code> file is generally incompatible with Slicer 5.11, because it can be opened and visualized normally. The problem seems to be triggered specifically by the GPA template selection/display step, or by how GPA handles the mesh after it is chosen as a template. and again, it could be due to different vtk handlers in slicer11 as again, no problem whatso ever in 10.<br>
+Hope this makes sense</p>
+
+---
+
+## Post #11 by @muratmaga (2026-06-08 17:19 UTC)
+
+<aside class="quote no-group" data-username="Stephan_Collins" data-post="10" data-topic="47237">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="24" height="24" src="https://sea2.discourse-cdn.com/flex002/user_avatar/discourse.slicer.org/stephan_collins/48/81446_2.png" class="avatar"> Stephan_Collins:</div>
+<blockquote>
+<p>So it does not look like the <code>.vtk</code> file is generally incompatible with Slicer 5.11</p>
+</blockquote>
+</aside>
+<p>VTK should be compatible, since it is the format used by the VTK library slicer uses. I think you need to do a simpler test. Create a VTK an OBJ file from a simple segmentation of a sample data using 5.10 and 5.11 and if you can replicate the problem.</p>
 
 ---

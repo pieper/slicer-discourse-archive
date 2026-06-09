@@ -3,7 +3,7 @@ topic_id: 47173
 title: "Adding landmarks using Point List results in screen glitches"
 date: 2026-05-29
 url: https://discourse.slicer.org/t/47173
-last_bumped: 2026-06-03T18:42:55.850Z
+last_bumped: 2026-06-08T18:40:49.093Z
 ---
 
 # Adding landmarks using Point List results in screen glitches
@@ -57,5 +57,25 @@ last_bumped: 2026-06-03T18:42:55.850Z
 ## Post #4 by @thelobsternods (2026-06-03 18:42 UTC)
 
 <p><a class="mention" href="/u/jamesobutler">@jamesobutler</a> Thank you so much! I will try this!</p>
+
+---
+
+## Post #5 by @thelobsternods (2026-06-08 17:51 UTC)
+
+<p>Update: Solution was to install latest drivers for the GPU on all machines. For those interested, this issue and solution was for PCs running Windows 11 that had either NVIDIA RTX A4000 or NVIDIA RTX 4000 Ada Generation GPUs. Searching for the latest drivers on their website fixed the issue: <a href="https://www.nvidia.com/en-us/drivers/" class="inline-onebox" rel="noopener nofollow ugc">Download The Latest Official NVIDIA Drivers</a> Note that Windows was indicating that it was running the latest drivers, but this was not the case, so these were manually downloaded and installed.</p>
+
+---
+
+## Post #6 by @muratmaga (2026-06-08 18:40 UTC)
+
+<aside class="quote no-group" data-username="thelobsternods" data-post="5" data-topic="47173">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="24" height="24" src="https://avatars.discourse-cdn.com/v4/letter/t/41988e/48.png" class="avatar"> thelobsternods:</div>
+<blockquote>
+<p>Note that Windows was indicating that it was running the latest drivers,</p>
+</blockquote>
+</aside>
+<p>I don’t use windows as much nowadays, but when I did, their OS updated GPU drivers almost always give me some kind of trouble. That’s why I preferred to download and install the latest directly from Nvidia. fun that much hasn’t changed in the last couple years <img src="https://emoji.discourse-cdn.com/twitter/slight_smile.png?v=15" title=":slight_smile:" class="emoji" alt=":slight_smile:" loading="lazy" width="20" height="20"></p>
 
 ---
