@@ -3,7 +3,7 @@ topic_id: 47237
 title: "Issues 3D view .vtk model"
 date: 2026-06-04
 url: https://discourse.slicer.org/t/47237
-last_bumped: 2026-06-08T17:19:25.847Z
+last_bumped: 2026-06-09T14:35:26.797Z
 ---
 
 # Issues 3D view .vtk model
@@ -144,5 +144,20 @@ Hope this makes sense</p>
 </blockquote>
 </aside>
 <p>VTK should be compatible, since it is the format used by the VTK library slicer uses. I think you need to do a simpler test. Create a VTK an OBJ file from a simple segmentation of a sample data using 5.10 and 5.11 and if you can replicate the problem.</p>
+
+---
+
+## Post #12 by @Stephan_Collins (2026-06-09 09:14 UTC)
+
+<p>Dear Murat,</p>
+<p>thanks again for your suggestions. Using a simple segmentation, I exported that segmentation as a model and saved it in both VTK and OBJ format from Slicer 5.10 and 5.11 and loaded them in both versions (5.10 generated model in 5.10 and 5.11 and reciprocally). Everything loaded and displayed correctly, and I could not reproduce the issue. It’s really when the GPA clones the model chosen to display deformation that things are not going well and exclusively in slicer 11.<br>
+Many thanks</p>
+<p>s</p>
+
+---
+
+## Post #13 by @muratmaga (2026-06-09 14:35 UTC)
+
+<p>If you can share the whole gpa output as well as the offending (and working) vtk/obj files, I can try to take a look, otherwise I can’t replicate this on my end.</p>
 
 ---

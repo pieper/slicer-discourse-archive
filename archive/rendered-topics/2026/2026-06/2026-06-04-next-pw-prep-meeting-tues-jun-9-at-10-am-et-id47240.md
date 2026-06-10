@@ -3,7 +3,7 @@ topic_id: 47240
 title: "Next PW Prep meeting Tues Jun 9 at 10 AM ET"
 date: 2026-06-04
 url: https://discourse.slicer.org/t/47240
-last_bumped: 2026-06-04T20:27:40.482Z
+last_bumped: 2026-06-09T14:11:53.190Z
 ---
 
 # Next PW Prep meeting Tues Jun 9 at 10 AM ET
@@ -52,5 +52,11 @@ last_bumped: 2026-06-04T20:27:40.482Z
 <p>Project Week <span class="hashtag-raw">#45</span> will be held June 22-26, 2026, at MIT, Boston, USA.. Please look here for additional details: <a href="https://projectweek.na-mic.org/PW45_2026_Boston/" class="inline-onebox">Welcome to the web page for the 45th Project Week! | NA-MIC Project Weeks</a> .</p>
 <p><em>Preparation</em>: To prepare, we will be holding weekly meetings at 10am on Tuesdays, starting <strong>May 5th, 2026</strong> and ending on June 16th. Please join at <a href="https://etsmtl.zoom.us/j/96828430830?pwd=9EqBWHKc4fytzNThgha4ByM1hoQwPr.1">this link</a> in order to discuss your ideas for project(s) for the week and to determine the fit between your goals and the other participants of the event.</p>
 <p><em>Background</em>: The Project Week is a week-long hackathon of hands on activity in which medical image computing researchers create solutions using the open source image computing platform, 3D Slicer, and VTK, ITK, CMake, and CDash libraries as well as OHIF, Cornerstone, dcmjs, vtkjs, itkjs, DICOMweb, Girder and related web technologies. Participants work collaboratively on solutions that lie at the interfaces of the fields of computer science, mechanical engineering, biomedical engineering, and medicine. In contrast to conferences and workshops where the primary focus is to report results, the objective of the ProjectWeek is to provide a venue for creators of medical image computing open-source software creators to collaboratively work.</p>
+
+---
+
+## Post #2 by @Sam_Horvath (2026-06-09 14:11 UTC)
+
+<p>Updated link for today: <a href="https://us06web.zoom.us/j/8314998253" class="inline-onebox">Launch Meeting - Zoom</a></p>
 
 ---
