@@ -3,7 +3,7 @@ topic_id: 47237
 title: "Issues 3D view .vtk model"
 date: 2026-06-04
 url: https://discourse.slicer.org/t/47237
-last_bumped: 2026-06-09T14:35:26.797Z
+last_bumped: 2026-06-10T17:59:20.359Z
 ---
 
 # Issues 3D view .vtk model
@@ -159,5 +159,25 @@ Many thanks</p>
 ## Post #13 by @muratmaga (2026-06-09 14:35 UTC)
 
 <p>If you can share the whole gpa output as well as the offending (and working) vtk/obj files, I can try to take a look, otherwise I can’t replicate this on my end.</p>
+
+---
+
+## Post #14 by @Stephan_Collins (2026-06-10 11:40 UTC)
+
+<p>Dear Murat, thank you and the community for following this up.</p>
+<p>I have a vague memory that things were originally working in slicer11 GPA since I tested your new GPA module where we can Drive 3D model from the PCA scatter plot (very usefull indeed). If this is the case, the problem is more that something is broken in our installation..I deleted slicermorph and reinstall it fresh. Unfortunately, I still have the same problem but another weird thing happenned: ALPACA suddenly appeared in Slicer11, which was not the case when I first tried sclier11 and installed slicermorph the first time round. This was a couple of weeks ago.</p>
+<p>So I am still stuck but I don’t want to waste your time either. i could revert to slicer 10 but I like the feature in the newest build with slicermorph GPA.<br>
+Here are the files you requested. <a href="https://filesender.renater.fr/?s=download&amp;token=491b9c90-1730-4d65-93ba-156311e8449f" class="inline-onebox" rel="noopener nofollow ugc">FileSender</a><br>
+There are two  GPA folders but I had to rename them to indicate which one was done via Slicer10 and which in Slicer 11 so one has a suffix <em>11 and the other</em> 10. It may have to be deleted I guess.<br>
+thanks again for your help</p>
+<p>s</p>
+
+---
+
+## Post #15 by @muratmaga (2026-06-10 17:59 UTC)
+
+<p>I replicated the problem on my mac, and pushed a change that should fix it for you.</p>
+<p>Try with tomorrows preview build, or if you can clone the slicermorph and checkout the geomorphTab branch and try immediately.</p>
+<p>thanks for reporting.</p>
 
 ---

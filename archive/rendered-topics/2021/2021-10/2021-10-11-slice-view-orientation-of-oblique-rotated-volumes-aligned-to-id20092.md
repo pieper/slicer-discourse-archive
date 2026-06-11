@@ -1,8 +1,9 @@
 ---
 topic_id: 20092
-title: "Slice View Orientation Of Oblique Rotated Volumes Aligned To"
+title: "Slice view orientation of oblique/rotated volumes - aligned to volume or anatomical axes?"
 date: 2021-10-11
 url: https://discourse.slicer.org/t/20092
+last_bumped: 2026-06-10T20:13:59.101Z
 ---
 
 # Slice view orientation of oblique/rotated volumes - aligned to volume or anatomical axes?
@@ -146,5 +147,46 @@ Sharada</p>
 
 <p>The ACPC transform is just a linear transform so it will not decrease the image quality, so if you find that hardening it improves the results then it should be fine to do it.</p>
 <p>There are huge public brain MRI databases, so if you want us to investigate this difference in the border then you may try to reproduce it with a data set taken from those.</p>
+
+---
+
+## Post #14 by @Suhaim (2026-06-10 10:30 UTC)
+
+<p>Hi <a class="mention" href="/u/lassoan">@lassoan</a>,<br>
+Is there any way to make this the default application behaviour? What I need is,</p>
+<ul>
+<li>When a volume is loaded, it is viewed along the anatomical axes by default</li>
+</ul>
+<aside class="quote no-group" data-username="lassoan" data-post="2" data-topic="20092">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="24" height="24" src="https://sea2.discourse-cdn.com/flex002/user_avatar/discourse.slicer.org/lassoan/48/13_2.png" class="avatar"> lassoan:</div>
+<blockquote>
+<p>In recent Slicer Preview Releases, clicking on the eye icon in Data module automatically rotates to volume plane, unless the features is turned off (by right-clicking on the eye icon and unchecking “Reset view orientation on show”).</p>
+</blockquote>
+</aside>
+<p>I attempted to do what you mentioned above. This option in the subject hierarchy tree doesn’t meet my requirement as the slice nodes are aligned along the volume axes the moment the volume is loaded. I believe as of now there is no easy way to do this in Slicer?</p>
+<p>I have done a temporary fix till I can find a better solution for this. As I have built slicer from source, I modified <code>vtkMRMLApplicationLogic::FitSliceToContent</code>’s one line as shown below,</p>
+<pre><code class="lang-auto">vtkMRMLSliceNode* sliceNode = sliceLogic-&gt;GetSliceNode();
+
+if (resetOrientation)
+{
+  // Set to default orientation before rotation so that the view is snapped
+  // closest to the default orientation of this slice view.
+  sliceNode-&gt;SetOrientationToDefault();
+
+  // This is the line I commented out to prevent the slice view from being
+  // rotated to the closest volume axis.
+  // sliceLogic-&gt;RotateSliceToLowestVolumeAxes(false);
+}
+</code></pre>
+
+---
+
+## Post #15 by @lassoan (2026-06-10 20:13 UTC)
+
+<p>You can choose in the right-click menu of the show icon if you want to align the slice views to volume axis or not when you show a volume. The setting is persistent - it will be used even if you restart the application.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/2/9/298efdbebdca8b1b1912ef1a79a3a442b7530413.png" data-download-href="/uploads/short-url/5VDVSo5HXnEYODNZlGY0w7OtPov.png?dl=1" title="image"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/2/9/298efdbebdca8b1b1912ef1a79a3a442b7530413_2_690x470.png" alt="image" data-base62-sha1="5VDVSo5HXnEYODNZlGY0w7OtPov" width="690" height="470" srcset="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/2/9/298efdbebdca8b1b1912ef1a79a3a442b7530413_2_690x470.png, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/2/9/298efdbebdca8b1b1912ef1a79a3a442b7530413_2_1035x705.png 1.5x, https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/2/9/298efdbebdca8b1b1912ef1a79a3a442b7530413.png 2x" data-dominant-color="C8D2D0"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">image</span><span class="informations">1305×889 148 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
+<p>So, there should be no need to call <code>SetOrientationToDefault()</code>.</p>
 
 ---
