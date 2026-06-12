@@ -1,8 +1,9 @@
 ---
 topic_id: 45483
-title: "Which Is The Best Extension For Brain Parcellation"
+title: "Which is the best extension for Brain parcellation?"
 date: 2025-12-14
 url: https://discourse.slicer.org/t/45483
+last_bumped: 2026-06-11T21:28:16.996Z
 ---
 
 # Which is the best extension for Brain parcellation?
@@ -59,5 +60,11 @@ Thanks!</p>
 
 <p>Hi <a class="mention" href="/u/pieper">@pieper</a>, thanks for the quick reply. I will use this extension and get back to you.<br>
 It seems a standalone extension in 3D-Slicer doesn’t exist as of now for brain parcellation?</p>
+
+---
+
+## Post #4 by @johny723 (2026-06-11 21:28 UTC)
+
+<p>Hi, is there any module to do automatic brain segmentation without the need for writing scripts in python? Like total segmentator? If there is, could someone please make a video or a step by step tutorial for brain segmentation? Thank you. Jan</p>
 
 ---
