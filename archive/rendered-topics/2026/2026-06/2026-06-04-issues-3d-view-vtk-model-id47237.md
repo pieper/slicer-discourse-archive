@@ -3,7 +3,7 @@ topic_id: 47237
 title: "Issues 3D view .vtk model"
 date: 2026-06-04
 url: https://discourse.slicer.org/t/47237
-last_bumped: 2026-06-10T17:59:20.359Z
+last_bumped: 2026-06-12T11:33:17.611Z
 ---
 
 # Issues 3D view .vtk model
@@ -179,5 +179,13 @@ thanks again for your help</p>
 <p>I replicated the problem on my mac, and pushed a change that should fix it for you.</p>
 <p>Try with tomorrows preview build, or if you can clone the slicermorph and checkout the geomorphTab branch and try immediately.</p>
 <p>thanks for reporting.</p>
+
+---
+
+## Post #16 by @Stephan_Collins (2026-06-12 11:33 UTC)
+
+<p>Me happy <img src="https://emoji.discourse-cdn.com/twitter/slight_smile.png?v=15" title=":slight_smile:" class="emoji" alt=":slight_smile:" loading="lazy" width="20" height="20"><br>
+Many thanks Murat, thanks for the fix !</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/b/f/bfcec11fbd5cbe8a9602b2454f1d1e9d0e133f38.jpeg" data-download-href="/uploads/short-url/rmOaisZtm48WjvLzevtCDZd2mgw.jpeg?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/b/f/bfcec11fbd5cbe8a9602b2454f1d1e9d0e133f38_2_690x290.jpeg" alt="image" data-base62-sha1="rmOaisZtm48WjvLzevtCDZd2mgw" width="690" height="290" srcset="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/b/f/bfcec11fbd5cbe8a9602b2454f1d1e9d0e133f38_2_690x290.jpeg, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/b/f/bfcec11fbd5cbe8a9602b2454f1d1e9d0e133f38_2_1035x435.jpeg 1.5x, https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/b/f/bfcec11fbd5cbe8a9602b2454f1d1e9d0e133f38.jpeg 2x" data-dominant-color="90A8A4"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">image</span><span class="informations">1172×494 209 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
 
 ---
