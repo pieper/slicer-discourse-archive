@@ -3,7 +3,7 @@ topic_id: 47320
 title: "Airway segmentation of mouse lung"
 date: 2026-06-11
 url: https://discourse.slicer.org/t/47320
-last_bumped: 2026-06-12T16:36:28.730Z
+last_bumped: 2026-06-13T16:40:18.700Z
 ---
 
 # Airway segmentation of mouse lung
@@ -58,5 +58,12 @@ last_bumped: 2026-06-12T16:36:28.730Z
 <li>use islands tool to filter them out by size</li>
 <li>grow segmentation back to what it was</li>
 </ul>
+
+---
+
+## Post #5 by @vokavoka351 (2026-06-13 16:40 UTC)
+
+<p>Actually, the fastest and most straightforward workflow to start with is using the <strong>Threshold</strong> effect in the Segment Editor. Since you are working with distinct structural densities, it gives you immediate, accurate initial results across all slices simultaneously.</p>
+<p>To make the process much easier, try lowering the <strong>Opacity</strong> of your segmentation layer (you can adjust this in the segment list or advanced display settings). This allows you to see through the colorful mask, visually verifying all underlying anatomical structures and boundaries in real-time while you fine-tune the threshold range.</p>
 
 ---
