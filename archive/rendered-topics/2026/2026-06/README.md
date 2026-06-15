@@ -27,3 +27,5 @@
 - [2026 06 11 Subtract Segment Using Python Console Is Not Working](2026-06-11-subtract-segment-using-python-console-is-not-working-id47315.md)
 - [2026 06 11 Volume Rendering Rainbow Hue](2026-06-11-volume-rendering-rainbow-hue-id47319.md)
 - [2026 06 12 Is There A Python Api To Get Mlc Jaw Position Sequences From](2026-06-12-is-there-a-python-api-to-get-mlc-jaw-position-sequences-from-id47323.md)
+- [2026 06 14 Slicer Modules Segmenteditorwidget Does Not Exists Anymore](2026-06-14-slicer-modules-segmenteditorwidget-does-not-exists-anymore-id47334.md)
+- [2026 06 14 Totalsegmentator Partial Segmentation](2026-06-14-totalsegmentator-partial-segmentation-id47335.md)
