@@ -3,7 +3,7 @@ topic_id: 47074
 title: "How can Calculate & Visualize the Center of Mass (COM)?"
 date: 2026-05-19
 url: https://discourse.slicer.org/t/47074
-last_bumped: 2026-05-21T15:00:04.290Z
+last_bumped: 2026-06-15T22:30:38.323Z
 ---
 
 # How can Calculate & Visualize the Center of Mass (COM)?
@@ -66,5 +66,47 @@ Visualization of the heart Center of Mass (COM) in 3D Slicer for a patient with 
 </ol>
 <p>In short: <strong>Segment Statistics can give you the centroid coordinates, but for comparison between two CT scans, you need to make sure both centroids are expressed in the same coordinate system.</strong></p>
 <p>Otherwise, you may be measuring differences in scan position rather than true anatomical displacement.</p>
+
+---
+
+## Post #3 by @zahra_Tabasi (2026-06-15 11:58 UTC)
+
+<p>I ask everyone for help. I followed these steps: obtained the Displacement field or Vector using the Segment Registration module between two CT scans in different respiratory phases of a patient, then created a vector mask with the Segment Editor module, and finally used the Vector to Scalar module, naming its output scalar volume.</p>
+<p>How can I obtain the Center of Mass (Centroid) of a contoured segment? Can I use the Segment Statistics module under Labels, select Centroid, and get the center of mass as three numerical values in RAS vectors? If I want to use Segment Statistics, what should the inputs be (scalar volume or vector)?</p>
+
+---
+
+## Post #4 by @MasatoshiOBA (2026-06-15 22:30 UTC)
+
+<p>I may be overcomplicating this, but I think there are two different steps here.</p>
+<p>If your goal is to obtain the center of mass / centroid of a heart segment, Segment Statistics is the right tool. The input should be the segmentation node containing the heart segment. The displacement vector field or the scalar volume created from it is not needed just to calculate the centroid.</p>
+<p>However, if your goal is to compare the heart COM between free breathing and DIBH CT, then the important question is the reference coordinate system.</p>
+<p>A possible simple workflow would be:</p>
+<ol>
+<li>Segment the heart on the free-breathing CT.</li>
+<li>Segment the heart on the DIBH CT.</li>
+<li>Make sure that the two segmentations are represented in the same coordinate system.</li>
+<li>Calculate the centroid of each heart segment using Segment Statistics.</li>
+<li>Calculate the vector between the two centroids.</li>
+</ol>
+<p>For example:</p>
+<p>displacement vector = COM_DIBH - COM_free_breathing</p>
+<p>But this vector is only meaningful if both COM coordinates are in the same coordinate system.</p>
+<p>The difficult part is how to define that coordinate system. In the thorax, there is no perfectly fixed structure during respiration. The ribs, sternum, diaphragm, lungs, and even the relationship between the heart and chest wall change with breathing. Even a spine-based rigid registration would define only a “spine-based” displacement, not an absolute heart motion.</p>
+<p>I would also avoid using the heart itself for registration if the purpose is to measure heart motion, because that may remove the motion you want to measure.</p>
+<p>So before calculating the COM displacement, it may be useful to define exactly what you want to measure:</p>
+<ul>
+<li>heart COM displacement relative to the scanner / treatment setup coordinates,</li>
+<li>heart COM displacement relative to a spine-based registration,</li>
+<li>or change in heart position relative to the breast, chest wall, target volume, or radiation field.</li>
+</ul>
+<p>These are related, but they are not exactly the same question.</p>
+<p>Also, if you want to compare this value across patients, the raw displacement in mm may depend on body size and inspiration level. Lung volume change between free breathing and DIBH, chest dimensions, or other respiratory parameters may be useful covariates or normalization factors.</p>
+<p>So in short:</p>
+<ul>
+<li>Segment Statistics can give you the heart centroid.</li>
+<li>To compare two centroids, they must be in the same coordinate system.</li>
+<li>The interpretation of the displacement vector depends on how that coordinate system is defined.</li>
+</ul>
 
 ---

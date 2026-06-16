@@ -3,7 +3,7 @@ topic_id: 47335
 title: "TotalSegmentator Partial Segmentation"
 date: 2026-06-14
 url: https://discourse.slicer.org/t/47335
-last_bumped: 2026-06-15T03:56:00.479Z
+last_bumped: 2026-06-15T14:46:54.117Z
 ---
 
 # TotalSegmentator Partial Segmentation
@@ -222,5 +222,17 @@ ImageSeriesReader (0000024CD4A2FDB0): Non uniform sampling or missing slices det
 <p>The test model is fine.</p>
 <p><div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/5/0/509bcd58979e0659c90d96c6b67623c3673e581e.jpeg" data-download-href="/uploads/short-url/bv608klaQskvFUokK3NSqW386Zg.jpeg?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/5/0/509bcd58979e0659c90d96c6b67623c3673e581e_2_690x363.jpeg" alt="image" data-base62-sha1="bv608klaQskvFUokK3NSqW386Zg" width="690" height="363" srcset="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/5/0/509bcd58979e0659c90d96c6b67623c3673e581e_2_690x363.jpeg, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/5/0/509bcd58979e0659c90d96c6b67623c3673e581e_2_1035x544.jpeg 1.5x, https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/5/0/509bcd58979e0659c90d96c6b67623c3673e581e.jpeg 2x" data-dominant-color="443C38"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">image</span><span class="informations">1331×702 98.8 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
 <p><div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/4/6/46fe093d4c5109f5acee2609b591ba0dcade0b2f.jpeg" data-download-href="/uploads/short-url/a81GWV7Xi3yAd5A1aPpdV5K88Gz.jpeg?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/4/6/46fe093d4c5109f5acee2609b591ba0dcade0b2f_2_690x363.jpeg" alt="image" data-base62-sha1="a81GWV7Xi3yAd5A1aPpdV5K88Gz" width="690" height="363" srcset="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/4/6/46fe093d4c5109f5acee2609b591ba0dcade0b2f_2_690x363.jpeg, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/4/6/46fe093d4c5109f5acee2609b591ba0dcade0b2f_2_1035x544.jpeg 1.5x, https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/4/6/46fe093d4c5109f5acee2609b591ba0dcade0b2f.jpeg 2x" data-dominant-color="9998C5"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">image</span><span class="informations">1331×702 83.6 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
+
+---
+
+## Post #4 by @mau_igna_06 (2026-06-15 14:46 UTC)
+
+<p>Then the problem is probably your dataset</p>
+<p>I’d guess this is part of the problem:</p>
+<blockquote>
+<p>[INFO][Python] 14.06.2026 13:36:52 [Python] (D:/3DSlicer510/bin/../lib/Slicer-5.10/qt-scripted-modules/DICOMScalarVolumePlugin.py:445) - Loading with imageIOName: GDCM<br>
+[WARNING][ITK] 14.06.2026 13:36:54 <span class="chcklst-box fa fa-square-o"></span> (unknown:0) - WARNING: In C:\D\S\S-0-build\ITK\Modules\IO\ImageBase\include\itkImageSeriesReader.hxx, line 478<br>
+ImageSeriesReader (0000024CD4A2FDB0): <strong>Non uniform sampling or missing slices detected</strong>, maximum nonuniformity:0.000250045</p>
+</blockquote>
 
 ---

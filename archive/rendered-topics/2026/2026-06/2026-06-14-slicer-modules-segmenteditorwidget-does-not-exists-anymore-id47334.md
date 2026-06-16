@@ -3,7 +3,7 @@ topic_id: 47334
 title: "slicer.modules.SegmentEditorWidget does not exists anymore"
 date: 2026-06-14
 url: https://discourse.slicer.org/t/47334
-last_bumped: 2026-06-14T18:29:30.634Z
+last_bumped: 2026-06-15T09:24:10.988Z
 ---
 
 # slicer.modules.SegmentEditorWidget does not exists anymore
@@ -38,5 +38,15 @@ last_bumped: 2026-06-14T18:29:30.634Z
     qt.QShortcut( qt.QKeySequence( "Shift+F10"), mainWindow() ).connect( 'activated()', lambda: updateBrushSize( 1 ) )
 
 </code></pre>
+
+---
+
+## Post #2 by @cpinter (2026-06-15 09:24 UTC)
+
+<p>You can simply create a segment editor widget for your own purposes</p>
+<pre><code class="lang-auto">segmentEditorWidget = slicer.qMRMLSegmentEditorWidget()
+segmentEditorWidget.setMRMLScene(slicer.mrmlScene)
+</code></pre>
+<p>then set a <code>vtkMRMLSegmentEditorNode</code>, segmentation node, source volume node, etc. just as you would with “the” segment editor widget. If you look at the Segment Editor module code, you’ll see that it’s basically a placeholder for a segment editor widget instance, which is completely reusable.</p>
 
 ---
