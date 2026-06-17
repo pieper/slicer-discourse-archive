@@ -32,3 +32,5 @@
 - [2026 06 15 Download Fails Freezes On Both Direct Connection And Vpn Wit](2026-06-15-download-fails-freezes-on-both-direct-connection-and-vpn-wit-id47346.md)
 - [2026 06 15 Highres Segmentation In Totalsegmentator](2026-06-15-highres-segmentation-in-totalsegmentator-id47345.md)
 - [2026 06 15 Registered Spect Dicom Export Issue](2026-06-15-registered-spect-dicom-export-issue-id47347.md)
+- [2026 06 16 New Extension Musclemap Automated Whole Body Muscle Segmenta](2026-06-16-new-extension-musclemap-automated-whole-body-muscle-segmenta-id47364.md)
+- [2026 06 16 Question About Why Mip Results Differ Even When Using A Slab](2026-06-16-question-about-why-mip-results-differ-even-when-using-a-slab-id47351.md)

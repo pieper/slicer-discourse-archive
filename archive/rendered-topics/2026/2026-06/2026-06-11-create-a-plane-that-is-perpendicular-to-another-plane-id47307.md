@@ -3,7 +3,7 @@ topic_id: 47307
 title: "Create a plane that is perpendicular to another plane"
 date: 2026-06-11
 url: https://discourse.slicer.org/t/47307
-last_bumped: 2026-06-12T01:33:25.498Z
+last_bumped: 2026-06-16T16:36:24.262Z
 ---
 
 # Create a plane that is perpendicular to another plane
@@ -52,12 +52,6 @@ last_bumped: 2026-06-12T01:33:25.498Z
 
 ---
 
-## Post #6 by @jsguerra (2026-06-11 15:07 UTC)
-
-<p>(post deleted by author)</p>
-
----
-
 ## Post #7 by @jsguerra (2026-06-11 17:49 UTC)
 
 <p><a class="mention" href="/u/chir.set">@chir.set</a> Thanks for sharing. I installed the tool but I’m only working with surface PLY files, so I dont have slices.</p>
@@ -83,5 +77,47 @@ last_bumped: 2026-06-12T01:33:25.498Z
 <p><a class="mention" href="/u/chir.set">@chir.set</a> Got it, thanks for the clarification. I was using a 3D only view and was confused why nothing seemed to be happening. Just tried it again and it works remarkably well!</p>
 <p><div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/9/a/9aeca4c2e170171dfc6d79948374d365fc8aebee.jpeg" data-download-href="/uploads/short-url/m6wxij859M3OLvXYhLC6LTK90iq.jpeg?dl=1" title="perpendicular planes" rel="noopener nofollow ugc"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/9/a/9aeca4c2e170171dfc6d79948374d365fc8aebee_2_690x443.jpeg" alt="perpendicular planes" data-base62-sha1="m6wxij859M3OLvXYhLC6LTK90iq" width="690" height="443" srcset="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/9/a/9aeca4c2e170171dfc6d79948374d365fc8aebee_2_690x443.jpeg, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/9/a/9aeca4c2e170171dfc6d79948374d365fc8aebee_2_1035x664.jpeg 1.5x, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/9/a/9aeca4c2e170171dfc6d79948374d365fc8aebee_2_1380x886.jpeg 2x" data-dominant-color="746859"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">perpendicular planes</span><span class="informations">1920×1233 360 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
 <p>I did notice that because the my surface is not aligned along the axis, I had to rotate the new plane created (Plane B; Green) along the one axis to get it to run along the direction I’m interested in (Plane B - Rotated; Blue). Is there a way to accomplish this without having to manually rotate it?</p>
+
+---
+
+## Post #11 by @chir.set (2026-06-12 08:59 UTC)
+
+<aside class="quote no-group" data-username="jsguerra" data-post="10" data-topic="47307">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="24" height="24" src="https://avatars.discourse-cdn.com/v4/letter/j/919ad9/48.png" class="avatar"> jsguerra:</div>
+<blockquote>
+<p>Is there a way to accomplish this without having to manually rotate it?</p>
+</blockquote>
+</aside>
+<p>You can proceed this way:</p>
+<ul>
+<li>Check ‘Orthogonal intersection’ when you orient a slice view to be parallel to your first plane node (use Normal).</li>
+<li>Activate ‘Slice intersections’ in the slice view (right click).</li>
+<li>Rotate the other slice views in it, by ‘Ctrl+Alt+Mouse move’ or by checking ‘Interaction’ to activate the handles; rotate so that one of the views is as you want (see the line colour in the slice view).</li>
+<li>In the target slice view (line colour in the source slice view), place a new plane markups node.</li>
+<li>Optionally restore the orientation slice views.</li>
+</ul>
+
+---
+
+## Post #12 by @jsguerra (2026-06-16 16:36 UTC)
+
+<aside class="quote no-group" data-username="chir.set" data-post="11" data-topic="47307">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="24" height="24" src="https://sea2.discourse-cdn.com/flex002/user_avatar/discourse.slicer.org/chir.set/48/66982_2.png" class="avatar"> chir.set:</div>
+<blockquote>
+<p>You can proceed this way:</p>
+<ul>
+<li>Check ‘Orthogonal intersection’ when you orient a slice view to be parallel to your first plane node (use Normal).</li>
+<li>Activate ‘Slice intersections’ in the slice view (right click).</li>
+<li>Rotate the other slice views in it, by ‘Ctrl+Alt+Mouse move’ or by checking ‘Interaction’ to activate the handles; rotate so that one of the views is as you want (see the line colour in the slice view).</li>
+<li>In the target slice view (line colour in the source slice view), place a new plane markups node.</li>
+<li>Optionally restore the orientation slice views</li>
+</ul>
+</blockquote>
+</aside>
+<p>This worked perfectly, thank you!</p>
 
 ---

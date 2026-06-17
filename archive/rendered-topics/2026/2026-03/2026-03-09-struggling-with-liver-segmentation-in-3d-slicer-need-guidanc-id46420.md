@@ -3,7 +3,7 @@ topic_id: 46420
 title: "- Struggling With Liver Segmentation in 3D Slicer — Need Guidance"
 date: 2026-03-09
 url: https://discourse.slicer.org/t/46420
-last_bumped: 2026-03-10T17:57:27.714Z
+last_bumped: 2026-06-16T11:18:12.788Z
 ---
 
 # - Struggling With Liver Segmentation in 3D Slicer — Need Guidance
@@ -80,5 +80,12 @@ My best regards</p>
 </blockquote>
 </aside>
 <p>That’s all handled automatically by the tool.</p>
+
+---
+
+## Post #7 by @hepato (2026-06-16 11:18 UTC)
+
+<p>you mean you get differentiate lobes of liver automatically with total segmentator? and you can get blood vessel simultaneously?</p>
+<p>how? and what version of your silver?</p>
 
 ---

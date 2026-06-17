@@ -3,7 +3,7 @@ topic_id: 47346
 title: "download fails/freezes on both direct connection and VPN (with academic license activated)"
 date: 2026-06-15
 url: https://discourse.slicer.org/t/47346
-last_bumped: 2026-06-15T12:40:42.683Z
+last_bumped: 2026-06-16T12:44:05.316Z
 ---
 
 # download fails/freezes on both direct connection and VPN (with academic license activated)
@@ -39,5 +39,20 @@ last_bumped: 2026-06-15T12:40:42.683Z
 <p>Thank you so much for your time and this amazing tool!.</p>
 </li>
 </ol>
+
+---
+
+## Post #2 by @Tomy_Roster (2026-06-16 12:44 UTC)
+
+<p>​<strong>Update: License verified, but network drops mid-download (IncompleteRead error)</strong></p>
+<p>​Hi again,</p>
+<p>​Good news: My academic license is successfully verified now. However, I am facing a new network instability issue during the weight downloading process.</p>
+<p>​The download starts successfully but always gets interrupted halfway. The Python console throws this error:</p>
+<p>urllib3.exceptions.IncompleteRead: IncompleteRead(186127600 bytes read, 47091847 more expected)</p>
+<p>followed by a ChunkedEncodingError. It seems my connection drops exactly at 186MB out of the 233MB file. Because the Slicer built-in downloader doesn’t support resuming broken downloads, I am completely stuck in a loop of failing mid-way.</p>
+<p>​<strong>My Request:</strong></p>
+<p>Due to the strict network firewall/instability in my hospital, could you please kindly provide a <strong>direct download link (e.g., a .zip file on Google Drive, Dropbox, or Zenodo)</strong> for the tissue_4_types (Task 485) model weights?</p>
+<p>​If I can download it via a browser (which supports resume), I can manually extract it into my %USERPROFILE%\.totalsegmentator\nnunet\results folder.</p>
+<p>​Thank you so much for your understanding and support!</p>
 
 ---

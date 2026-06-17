@@ -3,7 +3,7 @@ topic_id: 47184
 title: "Unable to import GE Vivid E95 4D echocardiography data into 3D Slicer"
 date: 2026-05-31
 url: https://discourse.slicer.org/t/47184
-last_bumped: 2026-05-31T23:48:54.241Z
+last_bumped: 2026-06-16T10:19:17.720Z
 ---
 
 # Unable to import GE Vivid E95 4D echocardiography data into 3D Slicer
@@ -34,5 +34,12 @@ last_bumped: 2026-05-31T23:48:54.241Z
 <p>Is there any way to import GE Vivid E95 4D echo data into 3D Slicer? Is there a specific export format from EchoPAC that would work, or is support for GE Vivid 4D data planned in SlicerHeart?</p>
 <p>I would be happy to share anonymized sample files or DICOM metadata (via pydicom) if that would help.</p>
 <p>Thank you very much for your help.</p>
+
+---
+
+## Post #2 by @michaly (2026-06-16 10:19 UTC)
+
+<p>Hi,</p>
+<p>Can you please share if you were able to get the 3D dll from GE compile with the 3D API library as was previously suggested and upload your 3D data to the 3D slicer app? I sent a request to GE through Edison program, last week, and was invited to the Github project.</p>
 
 ---

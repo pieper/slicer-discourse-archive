@@ -1,10 +1,10 @@
 # Slicer Discourse Archive Index
 
-Last updated: 2026-06-16 04:28 UTC
+Last updated: 2026-06-17 04:28 UTC
 
 ## Archive Contents
 
-- Total rendered topics: 19021
+- Total rendered topics: 19023
 - Raw JSON files: 0
 
 ## Recent Topics
@@ -15,6 +15,14 @@ Last updated: 2026-06-16 04:28 UTC
 - [README.md](archive/rendered-topics/2021/2021-05/README.md)
 - [README.md](archive/rendered-topics/2021/2021-03/README.md)
 - [README.md](archive/rendered-topics/2021/2021-02/README.md)
+- [segmentation visualization toggle is linked when it should n](archive/rendered-topics/2021/2021-09/2021-09-30-segmentation-visualization-toggle-is-linked-when-it-should-n-id19940.md)
+- [superbuild extension builds failed when python was installed](archive/rendered-topics/2021/2021-09/2021-09-30-superbuild-extension-builds-failed-when-python-was-installed-id19938.md)
+- [why clone a line node without display properties](archive/rendered-topics/2021/2021-09/2021-09-30-why-clone-a-line-node-without-display-properties-id19922.md)
+- [markups toolbar complexity for simple tasks](archive/rendered-topics/2021/2021-09/2021-09-29-markups-toolbar-complexity-for-simple-tasks-id19913.md)
+- [production release of nci imaging data commons](archive/rendered-topics/2021/2021-09/2021-09-29-production-release-of-nci-imaging-data-commons-id19917.md)
+- [read markups into r with read markups fcsv r](archive/rendered-topics/2021/2021-09/2021-09-29-read-markups-into-r-with-read-markups-fcsv-r-id19914.md)
+- [the slice focus fun seems still perfect](archive/rendered-topics/2021/2021-09/2021-09-29-the-slice-focus-fun-seems-still-perfect-id19909.md)
+- [vtkslicermarkupsmodulemrml vtkmrmlmarkupsroinode has no len](archive/rendered-topics/2021/2021-09/2021-09-29-vtkslicermarkupsmodulemrml-vtkmrmlmarkupsroinode-has-no-len-id19903.md)
 - [why do edges of the surface model appear jagged](archive/rendered-topics/2021/2021-09/2021-09-29-why-do-edges-of-the-surface-model-appear-jagged-id19910.md)
 - [3d reconstruction from coronary angiogram](archive/rendered-topics/2021/2021-09/2021-09-30-3d-reconstruction-from-coronary-angiogram-id19931.md)
 - [cardiac mri loading erros](archive/rendered-topics/2021/2021-09/2021-09-30-cardiac-mri-loading-erros-id19926.md)
@@ -25,9 +33,13 @@ Last updated: 2026-06-16 04:28 UTC
 - [is there a way to order loaded dicom slices by file name](archive/rendered-topics/2021/2021-09/2021-09-30-is-there-a-way-to-order-loaded-dicom-slices-by-file-name-id19933.md)
 - [python package in installed version of slicer](archive/rendered-topics/2021/2021-09/2021-09-30-python-package-in-installed-version-of-slicer-id19937.md)
 - [rebuilding custom loadable extension that is part of slicerc](archive/rendered-topics/2021/2021-09/2021-09-30-rebuilding-custom-loadable-extension-that-is-part-of-slicerc-id19942.md)
-- [segmentation visualization toggle is linked when it should n](archive/rendered-topics/2021/2021-09/2021-09-30-segmentation-visualization-toggle-is-linked-when-it-should-n-id19940.md)
-- [superbuild extension builds failed when python was installed](archive/rendered-topics/2021/2021-09/2021-09-30-superbuild-extension-builds-failed-when-python-was-installed-id19938.md)
-- [why clone a line node without display properties](archive/rendered-topics/2021/2021-09/2021-09-30-why-clone-a-line-node-without-display-properties-id19922.md)
+- [adjust segment opacity in segment editor](archive/rendered-topics/2021/2021-09/2021-09-27-adjust-segment-opacity-in-segment-editor-id19880.md)
+- [distance based registration in slicerprostate](archive/rendered-topics/2021/2021-09/2021-09-27-distance-based-registration-in-slicerprostate-id19877.md)
+- [extracting the centerline of a tunnel point cloud](archive/rendered-topics/2021/2021-09/2021-09-27-extracting-the-centerline-of-a-tunnel-point-cloud-id19889.md)
+- [how to improve optitrack duo tool tracking stability](archive/rendered-topics/2021/2021-09/2021-09-27-how-to-improve-optitrack-duo-tool-tracking-stability-id19882.md)
+- [unable to open seg modality file](archive/rendered-topics/2021/2021-09/2021-09-27-unable-to-open-seg-modality-file-id19881.md)
+- [auto general reg elastix with python interface](archive/rendered-topics/2021/2021-09/2021-09-28-auto-general-reg-elastix-with-python-interface-id19902.md)
+- [cant update extensions on the current stable](archive/rendered-topics/2021/2021-09/2021-09-28-cant-update-extensions-on-the-current-stable-id19901.md)
 - [couldnt reload whats wrong](archive/rendered-topics/2021/2021-09/2021-09-28-couldnt-reload-whats-wrong-id19893.md)
 - [diffusion module in 4 13 version cannot complete the reconst](archive/rendered-topics/2021/2021-09/2021-09-28-diffusion-module-in-4-13-version-cannot-complete-the-reconst-id19896.md)
 - [how to disable crosshair with mouse drag drop](archive/rendered-topics/2021/2021-09/2021-09-28-how-to-disable-crosshair-with-mouse-drag-drop-id19892.md)
@@ -37,25 +49,13 @@ Last updated: 2026-06-16 04:28 UTC
 - [changing all paths in slicer](archive/rendered-topics/2021/2021-09/2021-09-29-changing-all-paths-in-slicer-id19916.md)
 - [how can i download 3d slicer 4 10 i cant load rt file with 3](archive/rendered-topics/2021/2021-09/2021-09-29-how-can-i-download-3d-slicer-4-10-i-cant-load-rt-file-with-3-id19904.md)
 - [how to flip the image](archive/rendered-topics/2021/2021-09/2021-09-29-how-to-flip-the-image-id19915.md)
-- [markups toolbar complexity for simple tasks](archive/rendered-topics/2021/2021-09/2021-09-29-markups-toolbar-complexity-for-simple-tasks-id19913.md)
-- [production release of nci imaging data commons](archive/rendered-topics/2021/2021-09/2021-09-29-production-release-of-nci-imaging-data-commons-id19917.md)
-- [read markups into r with read markups fcsv r](archive/rendered-topics/2021/2021-09/2021-09-29-read-markups-into-r-with-read-markups-fcsv-r-id19914.md)
-- [the slice focus fun seems still perfect](archive/rendered-topics/2021/2021-09/2021-09-29-the-slice-focus-fun-seems-still-perfect-id19909.md)
-- [vtkslicermarkupsmodulemrml vtkmrmlmarkupsroinode has no len](archive/rendered-topics/2021/2021-09/2021-09-29-vtkslicermarkupsmodulemrml-vtkmrmlmarkupsroinode-has-no-len-id19903.md)
+- [annotation in volume rendering](archive/rendered-topics/2021/2021-09/2021-09-26-annotation-in-volume-rendering-id19869.md)
+- [changes to the markups module](archive/rendered-topics/2021/2021-09/2021-09-26-changes-to-the-markups-module-id19871.md)
+- [changing python terminal font size and colour](archive/rendered-topics/2021/2021-09/2021-09-26-changing-python-terminal-font-size-and-colour-id19874.md)
+- [correspondent point calculations](archive/rendered-topics/2021/2021-09/2021-09-26-correspondent-point-calculations-id19872.md)
+- [create equidistant points along curve for automated measurem](archive/rendered-topics/2021/2021-09/2021-09-26-create-equidistant-points-along-curve-for-automated-measurem-id19870.md)
 - [finding landmark pairing information from pseudolmgenerator](archive/rendered-topics/2021/2021-09/2021-09-26-finding-landmark-pairing-information-from-pseudolmgenerator-id19866.md)
 - [how to make the stylus more smooth and stable](archive/rendered-topics/2021/2021-09/2021-09-26-how-to-make-the-stylus-more-smooth-and-stable-id19862.md)
 - [issue with margin effect margin value sign](archive/rendered-topics/2021/2021-09/2021-09-26-issue-with-margin-effect-margin-value-sign-id19861.md)
 - [joint smoothing in jupyter](archive/rendered-topics/2021/2021-09/2021-09-26-joint-smoothing-in-jupyter-id19875.md)
 - [landmarks and mesh not aligned](archive/rendered-topics/2021/2021-09/2021-09-26-landmarks-and-mesh-not-aligned-id19864.md)
-- [show processing progress information in a module gui](archive/rendered-topics/2021/2021-09/2021-09-26-show-processing-progress-information-in-a-module-gui-id19859.md)
-- [slicermorph about values in sliders for pca deformation](archive/rendered-topics/2021/2021-09/2021-09-26-slicermorph-about-values-in-sliders-for-pca-deformation-id19858.md)
-- [tetrahedralmeshgenerator crash](archive/rendered-topics/2021/2021-09/2021-09-26-tetrahedralmeshgenerator-crash-id19860.md)
-- [weekly meeting](archive/rendered-topics/2021/2021-09/2021-09-27-2021-09-28-weekly-meeting-id19885.md)
-- [adjust segment opacity in segment editor](archive/rendered-topics/2021/2021-09/2021-09-27-adjust-segment-opacity-in-segment-editor-id19880.md)
-- [distance based registration in slicerprostate](archive/rendered-topics/2021/2021-09/2021-09-27-distance-based-registration-in-slicerprostate-id19877.md)
-- [extracting the centerline of a tunnel point cloud](archive/rendered-topics/2021/2021-09/2021-09-27-extracting-the-centerline-of-a-tunnel-point-cloud-id19889.md)
-- [how to improve optitrack duo tool tracking stability](archive/rendered-topics/2021/2021-09/2021-09-27-how-to-improve-optitrack-duo-tool-tracking-stability-id19882.md)
-- [unable to open seg modality file](archive/rendered-topics/2021/2021-09/2021-09-27-unable-to-open-seg-modality-file-id19881.md)
-- [auto general reg elastix with python interface](archive/rendered-topics/2021/2021-09/2021-09-28-auto-general-reg-elastix-with-python-interface-id19902.md)
-- [cant update extensions on the current stable](archive/rendered-topics/2021/2021-09/2021-09-28-cant-update-extensions-on-the-current-stable-id19901.md)
-- [markupsplane registration](archive/rendered-topics/2021/2021-09/2021-09-24-markupsplane-registration-id19840.md)
