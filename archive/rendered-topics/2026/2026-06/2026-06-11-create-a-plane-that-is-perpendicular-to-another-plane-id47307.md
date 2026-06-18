@@ -3,7 +3,7 @@ topic_id: 47307
 title: "Create a plane that is perpendicular to another plane"
 date: 2026-06-11
 url: https://discourse.slicer.org/t/47307
-last_bumped: 2026-06-16T16:36:24.262Z
+last_bumped: 2026-06-17T17:17:21.778Z
 ---
 
 # Create a plane that is perpendicular to another plane
@@ -119,5 +119,108 @@ last_bumped: 2026-06-16T16:36:24.262Z
 </blockquote>
 </aside>
 <p>This worked perfectly, thank you!</p>
+
+---
+
+## Post #13 by @chz31 (2026-06-17 17:17 UTC)
+
+<p>I have a helper script that might be helpful.</p>
+<pre><code class="lang-auto">################# Create points at 4, 7, 10mm
+import numpy as np
+
+Given points
+
+P0 = np.array([-95.807, 86.787, -0.063])
+P1 = np.array([-96.027, 87.707, -4.015])
+
+Direction vector
+
+v = P1 - P0
+
+Normalize
+
+v_hat = v / np.linalg.norm(v)
+
+Distances you want (mm)
+
+distances = [4, 7, 10]
+
+print("Unit direction vector:", v_hat, "\n")
+
+for d in distances:
+P = P0 + d * v_hat
+print(f"Point at {d} mm:", P)
+
+#####Create horizontal planes at 4, 7, 10mm
+def createPlanes(f, plane2Center=None, angle=None, useBinormal=True,
+plane1Name="Plane1", plane2Name="Plane_7mm"):
+"""
+f: vtkMRMLMarkupsFiducialNode (or any markups node with &gt;=3 control points)
+plane2Center: [x,y,z] world coords where plane2 passes through (default: p1)
+angle: rotation (degrees) to spin perpendicular choice around plane1 normal (default: 0)
+useBinormal: True -&gt; use binormal as plane2 normal, False -&gt; use tangent
+"""
+
+# --- Read 3 points from markups node f ---
+p1 = [0.0, 0.0, 0.0]
+p2 = [0.0, 0.0, 0.0]
+p3 = [0.0, 0.0, 0.0]
+f.GetNthControlPointPositionWorld(0, p1)
+f.GetNthControlPointPositionWorld(1, p2)
+f.GetNthControlPointPositionWorld(2, p3)
+
+rotationOfPerpendiculars = float(angle) if angle is not None else 0.0
+
+plane2Coordinates = plane2Center if plane2Center is not None else p1
+
+# --- Create Plane1 (3-point plane) ---
+plane1 = slicer.mrmlScene.AddNewNodeByClass("vtkMRMLMarkupsPlaneNode", plane1Name)
+plane1.CreateDefaultDisplayNodes()
+plane1.SetPlaneType(slicer.vtkMRMLMarkupsPlaneNode.PlaneType3Points)
+plane1.AddControlPointWorld(p1)
+plane1.AddControlPointWorld(p2)
+plane1.AddControlPointWorld(p3)
+
+# --- Get Plane1 normal (world) ---
+plane1Normal = [0.0, 0.0, 0.0]
+plane1.GetNormalWorld(plane1Normal)
+vtk.vtkMath.Normalize(plane1Normal)
+
+# --- Compute perpendicular directions to plane1Normal ---
+plane1Binormal = [0.0, 0.0, 0.0]
+plane1Tangent  = [0.0, 0.0, 0.0]
+vtk.vtkMath.Perpendiculars(plane1Normal, plane1Binormal, plane1Tangent, rotationOfPerpendiculars)
+
+n2 = plane1Binormal if useBinormal else plane1Tangent
+vtk.vtkMath.Normalize(n2)
+
+# --- Create Plane2 (point + normal) ---
+plane2 = slicer.mrmlScene.AddNewNodeByClass("vtkMRMLMarkupsPlaneNode", plane2Name)
+plane2.CreateDefaultDisplayNodes()
+plane2.AddControlPointWorld(plane2Coordinates)
+plane2.SetNormalWorld(n2)
+
+print("Plane1 points:", p1, p2, p3)
+print("Plane1 normal:", plane1Normal)
+print("Plane2 origin:", plane2Coordinates)
+print("Plane2 normal:", n2)
+
+return plane1, plane2
+
+f = slicer.util.getNode("F_1")  # replace "F" with your fiducials node name
+plane1, plane2 = createPlanes(
+f,
+plane2Center=[-96.348, 89.051, -9.788],
+angle=0.0,
+useBinormal=False
+)
+#useBinormal = True create another perpendicular plane
+</code></pre>
+<p>This is for another work so the naming and some parts were a bit confusing. You could pretty much ignore lines 1-23.</p>
+<p>You need to first create a fiducial markup <code>F_1</code> or your preferred name (you need to change line 82 <code>getNode("F_1")</code>) with three points to define a plane. You can place the three points along your mid-sagittal plane. It will create a plane called <code>Plane</code></p>
+<p>Then you need to define <code>plane2Center=[-96.348, 89.051, -9.788]</code>at line 85. You can probably switch the numbers to the coordinates of your sagittal plane’s center.</p>
+<p>It will create a perpendicular plane named as <code>Plane_7mm</code> according to the normal of <code>plane1.GetNormalWorld(plane1Normal)</code>.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/4/b/4bd119cba817bf51d4c5b8b54c337c1a621a9e1b.jpeg" data-download-href="/uploads/short-url/aOHO0AjAge01nQGMQ9rGu2hX4r9.jpeg?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/4/b/4bd119cba817bf51d4c5b8b54c337c1a621a9e1b_2_492x500.jpeg" alt="image" data-base62-sha1="aOHO0AjAge01nQGMQ9rGu2hX4r9" width="492" height="500" srcset="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/4/b/4bd119cba817bf51d4c5b8b54c337c1a621a9e1b_2_492x500.jpeg, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/4/b/4bd119cba817bf51d4c5b8b54c337c1a621a9e1b_2_738x750.jpeg 1.5x, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/4/b/4bd119cba817bf51d4c5b8b54c337c1a621a9e1b_2_984x1000.jpeg 2x" data-dominant-color="9988B2"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">image</span><span class="informations">1359×1379 133 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
+<p>Hopefully it works for your case.</p>
 
 ---
