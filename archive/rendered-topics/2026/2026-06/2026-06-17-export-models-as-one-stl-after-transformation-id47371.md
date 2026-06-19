@@ -3,7 +3,7 @@ topic_id: 47371
 title: "Export Models as One STL after transformation"
 date: 2026-06-17
 url: https://discourse.slicer.org/t/47371
-last_bumped: 2026-06-17T22:29:09.204Z
+last_bumped: 2026-06-18T12:43:43.851Z
 ---
 
 # Export Models as One STL after transformation
@@ -43,5 +43,11 @@ Can you elaborate a little more on that?</p>
 ## Post #5 by @pieper (2026-06-17 22:29 UTC)
 
 <p>In the Segmentations module there’s a Copy/Move segments option.</p>
+
+---
+
+## Post #6 by @jawdoc (2026-06-18 12:43 UTC)
+
+<p>Mike… This worked perfectly! Thanks for the help!</p>
 
 ---
