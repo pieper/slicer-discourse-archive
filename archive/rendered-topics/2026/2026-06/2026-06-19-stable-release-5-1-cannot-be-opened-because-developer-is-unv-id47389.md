@@ -3,7 +3,7 @@ topic_id: 47389
 title: "Stable Release 5.1 Cannot be Opened Because Developer is Unverified"
 date: 2026-06-19
 url: https://discourse.slicer.org/t/47389
-last_bumped: 2026-06-19T12:32:48.406Z
+last_bumped: 2026-06-20T15:18:10.490Z
 ---
 
 # Stable Release 5.1 Cannot be Opened Because Developer is Unverified
@@ -58,5 +58,103 @@ Security/Verification Issues: Upon installation, macOS could not verify the soft
   </blockquote>
 </aside>
 
+
+---
+
+## Post #2 by @pieper (2026-06-20 15:18 UTC)
+
+<p>Yes, thanks for posting here.  This is a known issue we recently became aware of and it’s being tracked here:</p>
+<aside class="onebox githubissue" data-onebox-src="https://github.com/Slicer/Slicer/issues/9207">
+  <header class="source">
+
+      <a href="https://github.com/Slicer/Slicer/issues/9207" target="_blank" rel="noopener">github.com/Slicer/Slicer</a>
+  </header>
+
+  <article class="onebox-body">
+    <div class="github-row">
+  <div class="github-icon-container" title="Issue" data-github-private-repo="false">
+	  <svg width="60" height="60" class="github-icon" viewBox="0 0 14 16" aria-hidden="true"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"></path></svg>
+  </div>
+
+  <div class="github-info-container">
+    <h4>
+      <a href="https://github.com/Slicer/Slicer/issues/9207" target="_blank" rel="noopener">Request signed and notarized macOS builds</a>
+    </h4>
+
+    <div class="github-info">
+      <div class="date">
+        opened <span class="discourse-local-date" data-format="ll" data-date="2026-06-03" data-time="20:10:18" data-timezone="UTC">08:10PM - 03 Jun 26 UTC</span>
+      </div>
+
+
+      <div class="user">
+        <a href="https://github.com/uurazzle" target="_blank" rel="noopener">
+          <img alt="" src="https://avatars.githubusercontent.com/u/6226458?v=4" class="onebox-avatar-inline" width="20" height="20">
+          uurazzle
+        </a>
+      </div>
+    </div>
+
+    <div class="labels">
+    </div>
+  </div>
+</div>
+
+  <div class="github-row">
+    <p class="github-body-container">Title: Request: Sign and notarize the macOS application for improved Gatekeeper <span class="show-more-container"><a href="" rel="noopener" class="show-more">…</a></span><span class="excerpt hidden">and deployment compatibility
+
+Hello Slicer maintainers,
+
+First, thank you for the continued work on Slicer and for making such an important tool available as open source. I am opening this issue as a request to consider signing and notarizing the macOS application builds distributed by the project.
+
+At present, the macOS application appears to be unsigned and/or not notarized by Apple. This creates friction for end users and for organizations that manage Macs at scale, because macOS Gatekeeper treats unsigned or non-notarized software differently from software signed with a Developer ID certificate and submitted to Apple’s notarization service.
+
+Apple’s documentation for distributing macOS apps outside the Mac App Store recommends signing apps with a Developer ID certificate and notes that users gain additional assurance when the Developer ID-signed app is also notarized by Apple:
+
+https://help.apple.com/xcode/mac/current/en.lproj/dev033e997ca.html
+
+Apple’s notarization documentation is here:
+
+https://developer.apple.com/documentation/security/notarizing_macos_software_before_distribution
+
+Apple also documents that hardened runtime is required for notarization:
+
+https://developer.apple.com/documentation/security/hardened_runtime
+
+This has a practical impact beyond the first-launch warning. Many managed macOS environments rely on automation tools such as Installomator and AutoPkg to download, validate, package, and deploy third-party applications. When a macOS app is not signed and notarized, it can limit or complicate use with these workflows because administrators cannot rely on normal Gatekeeper trust checks, Developer ID identity validation, or standard deployment verification patterns.
+
+Examples of affected open source Mac admin tooling:
+
+* Installomator: https://github.com/Installomator/Installomator
+* AutoPkg: https://github.com/autopkg/autopkg
+
+For institutional, lab, classroom, and managed-device deployments, having a signed and notarized Slicer.app would make the software easier to deploy safely and consistently. It would also reduce user confusion, help avoid security exceptions, and make it easier for Mac administrators to support Slicer in environments with stricter endpoint security policies.
+
+Would the project consider adding Developer ID signing and Apple notarization to the macOS release process?
+
+Possible acceptance criteria could include:
+
+* macOS `.app`, `.dmg`, and/or `.pkg` release artifacts are signed with a valid Developer ID certificate.
+* Release artifacts are submitted to Apple’s notary service.
+* The notarization ticket is stapled where appropriate.
+* The release process includes verification steps such as `codesign --verify`, `spctl --assess`, and notarization status checks.
+* The project documentation notes that macOS builds are signed and notarized.
+
+I appreciate that signing and notarization can add complexity to open source release pipelines, especially around certificate management and CI/CD secrets. Even so, this would be a significant improvement for Mac users and for organizations deploying Slicer at scale.
+
+Thank you for considering this request.</span></p>
+  </div>
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
+<p>There are also workarounds described there.</p>
 
 ---
