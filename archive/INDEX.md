@@ -1,10 +1,10 @@
 # Slicer Discourse Archive Index
 
-Last updated: 2026-06-21 04:28 UTC
+Last updated: 2026-06-22 04:29 UTC
 
 ## Archive Contents
 
-- Total rendered topics: 19036
+- Total rendered topics: 19041
 - Raw JSON files: 0
 
 ## Recent Topics
@@ -24,7 +24,6 @@ Last updated: 2026-06-21 04:28 UTC
 - [segmentation visualization toggle is linked when it should n](archive/rendered-topics/2021/2021-09/2021-09-30-segmentation-visualization-toggle-is-linked-when-it-should-n-id19940.md)
 - [superbuild extension builds failed when python was installed](archive/rendered-topics/2021/2021-09/2021-09-30-superbuild-extension-builds-failed-when-python-was-installed-id19938.md)
 - [why clone a line node without display properties](archive/rendered-topics/2021/2021-09/2021-09-30-why-clone-a-line-node-without-display-properties-id19922.md)
-- [how to group fiducial markups](archive/rendered-topics/2021/2021-09/2021-09-28-how-to-group-fiducial-markups-id19890.md)
 - [mac preview release build failed to load content in extensio](archive/rendered-topics/2021/2021-09/2021-09-28-mac-preview-release-build-failed-to-load-content-in-extensio-id19899.md)
 - [shifting segmentation image or 2d image](archive/rendered-topics/2021/2021-09/2021-09-28-shifting-segmentation-image-or-2d-image-id19900.md)
 - [changing all paths in slicer](archive/rendered-topics/2021/2021-09/2021-09-29-changing-all-paths-in-slicer-id19916.md)
@@ -54,6 +53,7 @@ Last updated: 2026-06-21 04:28 UTC
 - [couldnt reload whats wrong](archive/rendered-topics/2021/2021-09/2021-09-28-couldnt-reload-whats-wrong-id19893.md)
 - [diffusion module in 4 13 version cannot complete the reconst](archive/rendered-topics/2021/2021-09/2021-09-28-diffusion-module-in-4-13-version-cannot-complete-the-reconst-id19896.md)
 - [how to disable crosshair with mouse drag drop](archive/rendered-topics/2021/2021-09/2021-09-28-how-to-disable-crosshair-with-mouse-drag-drop-id19892.md)
+- [how to group fiducial markups](archive/rendered-topics/2021/2021-09/2021-09-28-how-to-group-fiducial-markups-id19890.md)
 - [download and install extension snippet thows exception](archive/rendered-topics/2021/2021-09/2021-09-25-download-and-install-extension-snippet-thows-exception-id19849.md)
 - [getting roi bounds from vtkmrmlmarkupsroinode](archive/rendered-topics/2021/2021-09/2021-09-25-getting-roi-bounds-from-vtkmrmlmarkupsroinode-id19852.md)
 - [how can i fix this bug simpleitk msb8066](archive/rendered-topics/2021/2021-09/2021-09-25-how-can-i-fix-this-bug-simpleitk-msb8066-id19850.md)

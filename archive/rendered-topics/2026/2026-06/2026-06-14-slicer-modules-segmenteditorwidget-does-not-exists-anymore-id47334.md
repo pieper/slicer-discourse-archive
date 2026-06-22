@@ -3,7 +3,7 @@ topic_id: 47334
 title: "slicer.modules.SegmentEditorWidget does not exists anymore"
 date: 2026-06-14
 url: https://discourse.slicer.org/t/47334
-last_bumped: 2026-06-15T09:24:10.988Z
+last_bumped: 2026-06-21T22:34:36.785Z
 ---
 
 # slicer.modules.SegmentEditorWidget does not exists anymore
@@ -48,5 +48,12 @@ last_bumped: 2026-06-15T09:24:10.988Z
 segmentEditorWidget.setMRMLScene(slicer.mrmlScene)
 </code></pre>
 <p>then set a <code>vtkMRMLSegmentEditorNode</code>, segmentation node, source volume node, etc. just as you would with “the” segment editor widget. If you look at the Segment Editor module code, you’ll see that it’s basically a placeholder for a segment editor widget instance, which is completely reusable.</p>
+
+---
+
+## Post #3 by @joachim (2026-06-21 22:34 UTC)
+
+<p>Using <code>slicer.qMRMLSegmentEditorWidget()</code>instead of <code>slicer.modules.SegmentEditorWidget</code> did not work. However, turned out that there is another way that works: <code>slicer.util.getModuleWidget("SegmentEditor")</code></p>
+<p>So now  I am able to add my shortcuts again, and hence use my Wacom tablet for efficient segmentation works <img src="https://emoji.discourse-cdn.com/twitter/slight_smile.png?v=15" title=":slight_smile:" class="emoji" alt=":slight_smile:" loading="lazy" width="20" height="20"></p>
 
 ---

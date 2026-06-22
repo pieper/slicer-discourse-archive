@@ -3,7 +3,7 @@ topic_id: 47404
 title: "Fail to Compute Results using TotalSegmentator (returned non-zero exist status 1)"
 date: 2026-06-20
 url: https://discourse.slicer.org/t/47404
-last_bumped: 2026-06-20T21:38:52.802Z
+last_bumped: 2026-06-21T15:41:11.118Z
 ---
 
 # Fail to Compute Results using TotalSegmentator (returned non-zero exist status 1)
@@ -29,5 +29,11 @@ last_bumped: 2026-06-20T21:38:52.802Z
     raise CalledProcessError(retcode, proc.args, output=proc.stdout, stderr=proc.stderr)
 subprocess.CalledProcessError: Command '['F:/3DSlicer/3D Slicer 5.11.0-2026-06-12/bin/../bin\\PythonSlicer.EXE', 'F:\\3DSlicer\\3D Slicer 5.11.0-2026-06-12\\lib\\Python\\Scripts\\TotalSegmentator.exe', '-i', 'C:/Users/Admin/AppData/Local/Temp/Slicer/__SlicerTemp__2026-06-19_19+51+03.270/total-segmentator-input.nii', '-o', 'C:/Users/Admin/AppData/Local/Temp/Slicer/__SlicerTemp__2026-06-19_19+51+03.270/segmentation', '--device', 'cpu', '--ml', '--task', 'abdominal_muscles']' returned non-zero exit status 1.
 </code></pre>
+
+---
+
+## Post #2 by @ThomasVanParys (2026-06-21 15:41 UTC)
+
+<p>I would uninstall and reinstall TotalSegmentator with the latest Python version. What is the RAM/CPU parameters on your device? That could also be a reason. Try TotalSegmentator with the modules test data first to see if this works…</p>
 
 ---

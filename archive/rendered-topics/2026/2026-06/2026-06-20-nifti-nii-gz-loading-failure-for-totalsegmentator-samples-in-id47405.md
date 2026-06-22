@@ -3,7 +3,7 @@ topic_id: 47405
 title: "NIfTI (.nii.gz) loading failure for TotalSegmentator samples in 3D Slicer 5.10.0 on Apple M4 Pro"
 date: 2026-06-20
 url: https://discourse.slicer.org/t/47405
-last_bumped: 2026-06-20T21:39:13.796Z
+last_bumped: 2026-06-21T15:36:45.492Z
 ---
 
 # NIfTI (.nii.gz) loading failure for TotalSegmentator samples in 3D Slicer 5.10.0 on Apple M4 Pro
@@ -48,5 +48,11 @@ Error: Loading /Users/&lt;user&gt;/Documents/Datasets/Totalsegmentator_dataset_v
 <li>Required configuration, plugins, or ITK settings</li>
 <li>Possible workaround or diagnostic steps</li>
 </ul>
+
+---
+
+## Post #2 by @ThomasVanParys (2026-06-21 15:36 UTC)
+
+<p>I have only managed to succesfully import volumes as NIFTI or NRRD if they are ‘uncompressed’ and saved as a ‘float’ file via the CAST SCALAR VOLUME module. This goes for StradView and Avizo too. If the file is compressed, it usually doesn’t import the full image sequence/volume…</p>
 
 ---
