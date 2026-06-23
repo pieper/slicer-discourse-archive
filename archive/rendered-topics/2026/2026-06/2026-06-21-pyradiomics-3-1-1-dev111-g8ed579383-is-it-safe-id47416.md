@@ -3,7 +3,7 @@ topic_id: 47416
 title: "pyradiomics 3.1.1.dev111+g8ed579383, is it safe?"
 date: 2026-06-21
 url: https://discourse.slicer.org/t/47416
-last_bumped: 2026-06-21T23:18:56.105Z
+last_bumped: 2026-06-22T08:07:01.309Z
 ---
 
 # pyradiomics 3.1.1.dev111+g8ed579383, is it safe?
@@ -47,5 +47,66 @@ Details in following URL (Sorry Japanese)</p><aside class="onebox allowlistedgen
   <div style="clear: both"></div>
 </aside>
 
+
+---
+
+## Post #2 by @aujinen (2026-06-22 08:07 UTC)
+
+<p>I found “pyradiomics 3.1.1.dev111+g8ed579383” by google search at following URL.</p>
+<aside class="onebox githubissue" data-onebox-src="https://github.com/AIM-Harvard/pyradiomics/issues/929">
+  <header class="source">
+
+      <a href="https://github.com/AIM-Harvard/pyradiomics/issues/929" target="_blank" rel="noopener nofollow ugc">github.com/AIM-Harvard/pyradiomics</a>
+  </header>
+
+  <article class="onebox-body">
+    <div class="github-row">
+  <div class="github-icon-container" title="Issue" data-github-private-repo="false">
+	  <svg width="60" height="60" class="github-icon" viewBox="0 0 14 16" aria-hidden="true"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"></path></svg>
+  </div>
+
+  <div class="github-info-container">
+    <h4>
+      <a href="https://github.com/AIM-Harvard/pyradiomics/issues/929" target="_blank" rel="noopener nofollow ugc">Package install seems to be broken</a>
+    </h4>
+
+    <div class="github-info">
+      <div class="date">
+        opened <span class="discourse-local-date" data-format="ll" data-date="2025-07-08" data-time="17:54:43" data-timezone="UTC">05:54PM - 08 Jul 25 UTC</span>
+      </div>
+
+
+      <div class="user">
+        <a href="https://github.com/mvinet99" target="_blank" rel="noopener nofollow ugc">
+          <img alt="" src="https://avatars.githubusercontent.com/u/98126900?v=4" class="onebox-avatar-inline" width="20" height="20">
+          mvinet99
+        </a>
+      </div>
+    </div>
+
+    <div class="labels">
+    </div>
+  </div>
+</div>
+
+  <div class="github-row">
+    <p class="github-body-container">Hello,
+
+I have tried installing the Pyradiomics package using pip, conda, and fr<span class="show-more-container"><a href="" rel="noopener" class="show-more">…</a></span><span class="excerpt hidden">om source, and none of the options work for installing. I have tried installing on different python versions and with all previous pyraiodimics package versions and nothing has built correctly. Is anyone else having difficulties with installing? Has anyone else been able to recently install correctly? Thanks in advance for the help.</span></p>
+  </div>
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
+<p>I’m not sure why the original site didn’t have a clear explanation of version 3.1.1 and how to “uv sync,” but it seems that the official information hasn’t been updated despite the content being changed to 3.1.1, resulting in an incomplete discrepancy. Alternatively, there might be a serious bug lurking in version 3.1.1 itself.</p>
+<p>Does anyone have any more detailed information?</p>
+<p>Personally, I’m happy that the functionality I need has been confirmed, but I think that if things continue like this, everyone won’t be able to use 3.1.1 with peace of mind.</p>
 
 ---

@@ -3,7 +3,7 @@ topic_id: 47419
 title: "Visualizing 3D bounding boxes in Slicer Markups (Fiducials vs Lines) + JSON format question"
 date: 2026-06-21
 url: https://discourse.slicer.org/t/47419
-last_bumped: 2026-06-21T23:19:14.323Z
+last_bumped: 2026-06-22T22:30:00.098Z
 ---
 
 # Visualizing 3D bounding boxes in Slicer Markups (Fiducials vs Lines) + JSON format question
@@ -77,5 +77,83 @@ What is the recommended way to visualize 3D bounding boxes in Slicer Markups for
 <li>If so, what would be the cleanest way to extend my current JSON generation approach?</li>
 </ul>
 <p>Any guidance or example Python code or JSON would be very helpful.</p>
+
+---
+
+## Post #2 by @mikebind (2026-06-22 22:30 UTC)
+
+<p>Yes, Slicer has a native Markups object for bounding boxes, they are <a href="https://apidocs.slicer.org/main/classvtkMRMLMarkupsROINode.html" rel="noopener nofollow ugc">vtkMRMLMarkupsROINode objects</a>.  They are specified by a center, axis directions, and box dimensions rather than by corner point locations, but it is straightforward to convert between these representations.  Here is an example of the contents of a saved ROI in .mrk.json format:</p>
+<pre data-code-wrap="json"><code class="lang-json">{
+    "@schema": "https://raw.githubusercontent.com/slicer/slicer/master/Modules/Loadable/Markups/Resources/Schema/markups-schema-v1.0.3.json#",
+    "markups": [
+        {
+            "type": "ROI",
+            "coordinateSystem": "LPS",
+            "coordinateUnits": "mm",
+            "locked": false,
+            "fixedNumberOfControlPoints": false,
+            "labelFormat": "%N-%d",
+            "lastUsedControlPointNumber": 1,
+            "roiType": "Box",
+            "center": [-11.136674880981445, -88.3449478149414, 1371.537353515625],
+            "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+            "size": [41.72665258450965, 43.168723933624904, 91.27469589070517],
+            "insideOut": false,
+            "controlPoints": [
+                {
+                    "id": "1",
+                    "label": "Crop Volume ROI-1",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [-11.136674880981445, -88.3449478149414, 1371.537353515625],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                }
+            ],
+            "measurements": [
+                {
+                    "name": "volume",
+                    "enabled": false,
+                    "units": "cm3",
+                    "printFormat": "%-#4.4g%s"
+                }
+            ],
+            "display": {
+                "visibility": false,
+                "opacity": 1.0,
+                "color": [0.4, 1.0, 1.0],
+                "selectedColor": [1.0, 0.5, 0.5],
+                "activeColor": [0.4, 1.0, 0.0],
+                "propertiesLabelVisibility": true,
+                "pointLabelsVisibility": false,
+                "textScale": 3.0,
+                "glyphType": "Sphere3D",
+                "glyphScale": 3.0,
+                "glyphSize": 5.0,
+                "useGlyphScale": true,
+                "sliceProjection": false,
+                "sliceProjectionUseFiducialColor": true,
+                "sliceProjectionOutlinedBehindSlicePlane": false,
+                "sliceProjectionColor": [1.0, 1.0, 1.0],
+                "sliceProjectionOpacity": 0.6,
+                "lineThickness": 0.2,
+                "lineColorFadingStart": 1.0,
+                "lineColorFadingEnd": 10.0,
+                "lineColorFadingSaturation": 1.0,
+                "lineColorFadingHueOffset": 0.0,
+                "handlesInteractive": true,
+                "translationHandleVisibility": true,
+                "rotationHandleVisibility": false,
+                "scaleHandleVisibility": true,
+                "interactionHandleScale": 3.0,
+                "snapMode": "toVisibleSurface"
+            }
+        }
+    ]
+}
+</code></pre>
 
 ---

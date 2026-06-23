@@ -3,7 +3,7 @@ topic_id: 47334
 title: "slicer.modules.SegmentEditorWidget does not exists anymore"
 date: 2026-06-14
 url: https://discourse.slicer.org/t/47334
-last_bumped: 2026-06-21T22:34:36.785Z
+last_bumped: 2026-06-22T08:19:42.454Z
 ---
 
 # slicer.modules.SegmentEditorWidget does not exists anymore
@@ -55,5 +55,11 @@ segmentEditorWidget.setMRMLScene(slicer.mrmlScene)
 
 <p>Using <code>slicer.qMRMLSegmentEditorWidget()</code>instead of <code>slicer.modules.SegmentEditorWidget</code> did not work. However, turned out that there is another way that works: <code>slicer.util.getModuleWidget("SegmentEditor")</code></p>
 <p>So now  I am able to add my shortcuts again, and hence use my Wacom tablet for efficient segmentation works <img src="https://emoji.discourse-cdn.com/twitter/slight_smile.png?v=15" title=":slight_smile:" class="emoji" alt=":slight_smile:" loading="lazy" width="20" height="20"></p>
+
+---
+
+## Post #4 by @cpinter (2026-06-22 08:19 UTC)
+
+<p>It is always useful to tell about your use case, because without it, one can only assume things and possibly give you an answer that does not help.</p>
 
 ---

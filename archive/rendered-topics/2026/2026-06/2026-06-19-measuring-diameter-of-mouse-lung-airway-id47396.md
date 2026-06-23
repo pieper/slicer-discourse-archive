@@ -3,7 +3,7 @@ topic_id: 47396
 title: "Measuring diameter of mouse lung airway"
 date: 2026-06-19
 url: https://discourse.slicer.org/t/47396
-last_bumped: 2026-06-20T03:56:15.163Z
+last_bumped: 2026-06-22T16:31:37.379Z
 ---
 
 # Measuring diameter of mouse lung airway
@@ -67,5 +67,46 @@ last_bumped: 2026-06-20T03:56:15.163Z
 </blockquote>
 </aside>
 <p>The centerline is calculated in the order in which the endpoints were placed indeed. But you can force one point to be the starting point by unselecting it: right click, or go to the <code>Markups module</code> for that.</p>
+
+---
+
+## Post #5 by @ljuno (2026-06-22 15:37 UTC)
+
+<p>That is very helpful, thank you very much! I did both the network and tree centerline extraction, with my tree model shown in green and my network model shown in blue here. I am thinking that the network model may prove to be more beneficial for my specific case since I would like to measure how the diameter widens/narrows as the airways move from the bronchus to the more distal parts of the periphery. I am thinking that the network model would allow me to see the diameter at different points throughout the airway, while the tree model only gives you the diameter at the widest point - is that correct?</p>
+<p>I did get a diameter for the tree model in the CrossSectionAnalysis module, but I am not seeing any diameters for my network model. Thank you again very much for all of your help with this!</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/a/c/ac5c67de1af3e35701a963e00ed6f6e6ef97fc70.jpeg" data-download-href="/uploads/short-url/oAM6p27998iO6e1TS2w7ruZ86KA.jpeg?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/a/c/ac5c67de1af3e35701a963e00ed6f6e6ef97fc70_2_690x375.jpeg" alt="image" data-base62-sha1="oAM6p27998iO6e1TS2w7ruZ86KA" width="690" height="375" srcset="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/a/c/ac5c67de1af3e35701a963e00ed6f6e6ef97fc70_2_690x375.jpeg, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/a/c/ac5c67de1af3e35701a963e00ed6f6e6ef97fc70_2_1035x562.jpeg 1.5x, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/a/c/ac5c67de1af3e35701a963e00ed6f6e6ef97fc70_2_1380x750.jpeg 2x" data-dominant-color="727393"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">image</span><span class="informations">1920×1044 182 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
+
+---
+
+## Post #6 by @chir.set (2026-06-22 16:31 UTC)
+
+<aside class="quote no-group" data-username="ljuno" data-post="5" data-topic="47396">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="24" height="24" src="https://avatars.discourse-cdn.com/v4/letter/l/59ef9b/48.png" class="avatar"> ljuno:</div>
+<blockquote>
+<p>while the tree model only gives you the diameter at the widest point - is that correct?</p>
+</blockquote>
+</aside>
+<p>No, the tree centerlines have <em>radius information</em> at each point. You can see the radius array in the <code>Models</code> module: <code>Display/Advanced/Scalars/Active scalar.</code></p>
+<aside class="quote no-group" data-username="ljuno" data-post="5" data-topic="47396">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="24" height="24" src="https://avatars.discourse-cdn.com/v4/letter/l/59ef9b/48.png" class="avatar"> ljuno:</div>
+<blockquote>
+<p>I did get a diameter for the tree model in the CrossSectionAnalysis module, but I am not seeing any diameters for my network model.</p>
+</blockquote>
+</aside>
+<p>I vaguely remember a lack of a radius array for network centerlines long ago, though I am not sure of this. But as a fact now, an extracted <em>network</em> centerline model does contain a <code>Radius array</code>.</p>
+<p>In <code>Tree</code> extraction mode, you must define as many endpoints as needed; a bifurcated centerline will be generated that has many components. You may afterwards extract each component with the <code>Centerline disassembly</code> module. You can then examine the diameter distribution from the first endpoint to each other in separated centerlines that you may choose to create from the bifurcated centerline.</p>
+<aside class="quote no-group" data-username="ljuno" data-post="5" data-topic="47396">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="24" height="24" src="https://avatars.discourse-cdn.com/v4/letter/l/59ef9b/48.png" class="avatar"> ljuno:</div>
+<blockquote>
+<p>the diameter at the widest point</p>
+</blockquote>
+</aside>
+<p><code>CrossSectionAnalysis</code> does that.</p>
 
 ---
