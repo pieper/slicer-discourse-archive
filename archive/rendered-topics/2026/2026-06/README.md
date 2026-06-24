@@ -54,3 +54,4 @@
 - [2026 06 21 Visualizing 3D Bounding Boxes In Slicer Markups Fiducials Vs](2026-06-21-visualizing-3d-bounding-boxes-in-slicer-markups-fiducials-vs-id47419.md)
 - [2026 06 22 Brain Mri Gray Matter](2026-06-22-brain-mri-gray-matter-id47420.md)
 - [2026 06 22 Plugin Specialized In Segmenting Layers In The Abdominal Wal](2026-06-22-plugin-specialized-in-segmenting-layers-in-the-abdominal-wal-id47427.md)
+- [2026 06 23 Release Of Slicer 5 12 In Progress](2026-06-23-release-of-slicer-5-12-in-progress-id47440.md)

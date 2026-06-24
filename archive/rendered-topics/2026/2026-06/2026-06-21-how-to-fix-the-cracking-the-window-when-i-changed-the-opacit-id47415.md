@@ -3,7 +3,7 @@ topic_id: 47415
 title: "How to fix the cracking the window when I changed the opacity from the segmentation result?"
 date: 2026-06-21
 url: https://discourse.slicer.org/t/47415
-last_bumped: 2026-06-21T23:19:53.814Z
+last_bumped: 2026-06-23T15:13:48.845Z
 ---
 
 # How to fix the cracking the window when I changed the opacity from the segmentation result?
@@ -31,5 +31,11 @@ last_bumped: 2026-06-21T23:19:53.814Z
 ## Post #2 by @Sam_Horvath (2026-06-21 23:19 UTC)
 
 <p>This is a graphics driver issue, see fix here: <a href="https://discourse.slicer.org/t/adding-landmarks-using-point-list-results-in-screen-glitches/47173/3" class="inline-onebox">Adding landmarks using Point List results in screen glitches - #3 by jamesobutler</a></p>
+
+---
+
+## Post #3 by @wnsdn0497 (2026-06-23 15:13 UTC)
+
+<p>It works now. Thank you very much for sharing this with me!</p>
 
 ---
