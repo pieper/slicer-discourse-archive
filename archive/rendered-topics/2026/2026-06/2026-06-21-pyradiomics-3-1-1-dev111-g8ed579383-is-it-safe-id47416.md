@@ -3,7 +3,7 @@ topic_id: 47416
 title: "pyradiomics 3.1.1.dev111+g8ed579383, is it safe?"
 date: 2026-06-21
 url: https://discourse.slicer.org/t/47416
-last_bumped: 2026-06-22T08:07:01.309Z
+last_bumped: 2026-06-25T02:56:17.165Z
 ---
 
 # pyradiomics 3.1.1.dev111+g8ed579383, is it safe?
@@ -108,5 +108,69 @@ I have tried installing the Pyradiomics package using pip, conda, and fr<span cl
 <p>I’m not sure why the original site didn’t have a clear explanation of version 3.1.1 and how to “uv sync,” but it seems that the official information hasn’t been updated despite the content being changed to 3.1.1, resulting in an incomplete discrepancy. Alternatively, there might be a serious bug lurking in version 3.1.1 itself.</p>
 <p>Does anyone have any more detailed information?</p>
 <p>Personally, I’m happy that the functionality I need has been confirmed, but I think that if things continue like this, everyone won’t be able to use 3.1.1 with peace of mind.</p>
+
+---
+
+## Post #3 by @aujinen (2026-06-25 02:56 UTC)
+
+<p>The reason I wanted to install a standalone version of PyRadiomics—separate from 3D Slicer—is to create educational content that allows students to experience the actual process of radiomics image analysis calculations step-by-step.</p>
+<p>Preliminary testing using Excel has already been conducted (see below).</p>
+<aside class="onebox githubrepo" data-onebox-src="https://github.com/aujinen/Microsoft-Excel-sheets-with-Macro-VB">
+  <header class="source">
+
+      <a href="https://github.com/aujinen/Microsoft-Excel-sheets-with-Macro-VB" target="_blank" rel="noopener nofollow ugc">github.com</a>
+  </header>
+
+  <article class="onebox-body">
+    <div class="github-row" data-github-private-repo="false">
+  <img width="690" height="344" src="https://opengraph.githubassets.com/be493226f30119182a3c38ad7df9e4d4/aujinen/Microsoft-Excel-sheets-with-Macro-VB" class="thumbnail">
+
+  <h3><a href="https://github.com/aujinen/Microsoft-Excel-sheets-with-Macro-VB" target="_blank" rel="noopener nofollow ugc">GitHub - aujinen/Microsoft-Excel-sheets-with-Macro-VB: Japanese</a></h3>
+
+    <p><span class="github-repo-description">Japanese</span></p>
+</div>
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
+<p><a href="https://github.com/aujinen/Microsoft-Excel-sheets-with-Macro-VB/blob/master/Convolution-Radiomics-Wavelet.xlsx" title="Convolution-Radiomics-Wavelet.xlsx" rel="noopener nofollow ugc">Convolution-Radiomics-Wavelet.xlsx</a></p>
+<p>I have forked the original PyRadiomics repository and named it “PyRadiomics_edu.” Aside from the added <code>workspace</code> folder and a minimal README file, I have left the original content entirely unchanged and plan to add the educational materials within the <code>workspace</code> folder.</p>
+<aside class="onebox githubrepo" data-onebox-src="https://github.com/aujinen/pyradiomics_edu">
+  <header class="source">
+
+      <a href="https://github.com/aujinen/pyradiomics_edu" target="_blank" rel="noopener nofollow ugc">github.com</a>
+  </header>
+
+  <article class="onebox-body">
+    <div class="github-row" data-github-private-repo="false">
+  <img width="690" height="344" src="https://opengraph.githubassets.com/a4302641bc5988334a014b93c38a53ff/aujinen/pyradiomics_edu" class="thumbnail">
+
+  <h3><a href="https://github.com/aujinen/pyradiomics_edu" target="_blank" rel="noopener nofollow ugc">GitHub - aujinen/pyradiomics_edu: Educational version forked from Open-source python...</a></h3>
+
+    <p><span class="github-repo-description">Educational version forked from Open-source python package for the extraction of Radiomics features from 2D and 3D images and binary masks. Support: https://discourse.slicer.org/c/community/radiomics</span></p>
+</div>
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
+<p>When I downloaded the aforementioned forked “PyRadiomics_edu” repository using <code>git clone</code> and installed it following the same procedure with <code>uv sync</code>, the version became:<br>
+<code>pyradiomics 0.1.dev1340+g15a938dad</code><br>
+<strong>(is not 3.1.0 , 3.1.1)</strong><br>
+If anyone knows the reason for this, I would appreciate your guidance.<br>
+Additionally, please let me know if this practice is inappropriate, and I will delete the forked repository.</p>
 
 ---
