@@ -3,7 +3,7 @@ topic_id: 47452
 title: "Extension manager hangs and crashes Slicer 5.10 today"
 date: 2026-06-24
 url: https://discourse.slicer.org/t/47452
-last_bumped: 2026-06-25T03:11:07.601Z
+last_bumped: 2026-06-25T18:14:52.021Z
 ---
 
 # Extension manager hangs and crashes Slicer 5.10 today
@@ -29,5 +29,11 @@ last_bumped: 2026-06-25T03:11:07.601Z
 ## Post #3 by @mikebind (2026-06-25 03:11 UTC)
 
 <p>Thanks for the response.  I will check again tomorrow and try resetting my network connections.</p>
+
+---
+
+## Post #4 by @mikebind (2026-06-25 18:14 UTC)
+
+<p>Turning off wifi and reconnecting did not trigger a timeout or error message, but restarting my laptop did resolve the issue today.  Thanks much for the notification that this wasn’t a general issue, <a class="mention" href="/u/lassoan">@lassoan</a>.</p>
 
 ---

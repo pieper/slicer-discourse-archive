@@ -57,4 +57,8 @@
 - [2026 06 23 Release Of Slicer 5 12 In Progress](2026-06-23-release-of-slicer-5-12-in-progress-id47440.md)
 - [2026 06 24 A Web Based Volume Path Tracer](2026-06-24-a-web-based-volume-path-tracer-id47447.md)
 - [2026 06 24 Extension Manager Hangs And Crashes Slicer 5 10 Today](2026-06-24-extension-manager-hangs-and-crashes-slicer-5-10-today-id47452.md)
+- [2026 06 25 2D Slice Draw Erase Maps To Adjacent Slice In 3D Instead Of](2026-06-25-2d-slice-draw-erase-maps-to-adjacent-slice-in-3d-instead-of-id47460.md)
+- [2026 06 25 Beginner To Slicer Sofa Etc Advice](2026-06-25-beginner-to-slicer-sofa-etc-advice-id47469.md)
 - [2026 06 25 Tooth Segmentation In 2D Panoramic Dental Radiographs](2026-06-25-tooth-segmentation-in-2d-panoramic-dental-radiographs-id47455.md)
+- [2026 06 25 Total Segmentator Extension Fails Installation On Slicer 5 1](2026-06-25-total-segmentator-extension-fails-installation-on-slicer-5-1-id47468.md)
+- [2026 06 25 Two Slicermorph And Morphodepot Packaged Extensions For Toda](2026-06-25-two-slicermorph-and-morphodepot-packaged-extensions-for-toda-id47467.md)

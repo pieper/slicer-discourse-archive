@@ -3,7 +3,7 @@ topic_id: 47440
 title: "Release of Slicer 5.12 in progress"
 date: 2026-06-23
 url: https://discourse.slicer.org/t/47440
-last_bumped: 2026-06-24T21:03:04.688Z
+last_bumped: 2026-06-25T14:03:10.451Z
 ---
 
 # Release of Slicer 5.12 in progress
@@ -60,5 +60,31 @@ last_bumped: 2026-06-24T21:03:04.688Z
   <div style="clear: both"></div>
 </aside>
 
+
+---
+
+## Post #4 by @lukas-folle (2026-06-25 11:28 UTC)
+
+<p>So Slicer 5.11 stable release is skipped?<br>
+This does look a bit confusing to me:</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/c/7/c7eb0ef25288a10f91d3a550b6b43ae394121aab.png" data-download-href="/uploads/short-url/swyCRKEtH6NPAnwvUJZjW4w2nEL.png?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/c/7/c7eb0ef25288a10f91d3a550b6b43ae394121aab_2_690x352.png" alt="image" data-base62-sha1="swyCRKEtH6NPAnwvUJZjW4w2nEL" width="690" height="352" srcset="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/c/7/c7eb0ef25288a10f91d3a550b6b43ae394121aab_2_690x352.png, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/c/7/c7eb0ef25288a10f91d3a550b6b43ae394121aab_2_1035x528.png 1.5x, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/c/7/c7eb0ef25288a10f91d3a550b6b43ae394121aab_2_1380x704.png 2x" data-dominant-color="F6F8F8"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">image</span><span class="informations">1553×794 60 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
+
+---
+
+## Post #5 by @pieper (2026-06-25 11:32 UTC)
+
+<p>That should resolve later today or tomorrow.  The Preview will be renumbered to 5.13.0.  5.12 will be the last Qt5 based Slicer, and 5.13 will become the active refactoring (expect some breaking changes in the API) for a Slicer 6.0 release based on Qt6.</p>
+
+---
+
+## Post #6 by @Sam_Horvath (2026-06-25 13:59 UTC)
+
+<p>The Previews are odd-numbered, the stables are even numbered.</p>
+
+---
+
+## Post #7 by @Sam_Horvath (2026-06-25 14:03 UTC)
+
+<p>There also seems to be an issue with the download site updating to 5.13, working on this</p>
 
 ---
