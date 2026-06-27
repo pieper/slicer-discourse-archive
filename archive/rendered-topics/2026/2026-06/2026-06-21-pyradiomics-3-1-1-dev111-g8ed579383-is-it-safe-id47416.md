@@ -3,7 +3,7 @@ topic_id: 47416
 title: "pyradiomics 3.1.1.dev111+g8ed579383, is it safe?"
 date: 2026-06-21
 url: https://discourse.slicer.org/t/47416
-last_bumped: 2026-06-25T02:56:17.165Z
+last_bumped: 2026-06-26T13:50:26.564Z
 ---
 
 # pyradiomics 3.1.1.dev111+g8ed579383, is it safe?
@@ -172,5 +172,37 @@ I have tried installing the Pyradiomics package using pip, conda, and fr<span cl
 <strong>(is not 3.1.0 , 3.1.1)</strong><br>
 If anyone knows the reason for this, I would appreciate your guidance.<br>
 Additionally, please let me know if this practice is inappropriate, and I will delete the forked repository.</p>
+
+---
+
+## Post #4 by @aujinen (2026-06-26 13:50 UTC)
+
+<p>Found it!<br>
+It turned out to be the result of dynamic version management in <code>uv</code>, following the specifications in <code>pyproject.toml</code>.</p>
+<p>“How to add dynamic versioning to uv projects”</p><aside class="onebox allowlistedgeneric" data-onebox-src="https://pydevtools.com/handbook/how-to/how-to-add-dynamic-versioning-to-uv-projects/">
+  <header class="source">
+      <img src="https://pydevtools.com/favicon.ico" class="site-icon" alt="" width="48" height="48">
+
+      <a href="https://pydevtools.com/handbook/how-to/how-to-add-dynamic-versioning-to-uv-projects/" target="_blank" rel="noopener nofollow ugc">pydevtools.com</a>
+  </header>
+
+  <article class="onebox-body">
+    <div class="aspect-image" style="--aspect-ratio:690/362;"><img src="https://pydevtools.com/images/social/how-to-add-dynamic-versioning-to-uv-projects-social.png" class="thumbnail" alt="" width="690" height="362"></div>
+
+<h3><a href="https://pydevtools.com/handbook/how-to/how-to-add-dynamic-versioning-to-uv-projects/" target="_blank" rel="noopener nofollow ugc">How to add dynamic versioning to uv projects</a></h3>
+
+  <p>Set up Git-based automatic version numbering in uv projects using uv-dynamic-versioning.</p>
+
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
 
 ---

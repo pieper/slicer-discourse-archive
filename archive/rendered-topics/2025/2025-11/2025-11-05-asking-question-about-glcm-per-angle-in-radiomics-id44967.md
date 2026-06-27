@@ -3,7 +3,7 @@ topic_id: 44967
 title: "Asking question about GLCM per angle in radiomics"
 date: 2025-11-05
 url: https://discourse.slicer.org/t/44967
-last_bumped: 2026-06-26T03:43:27.781Z
+last_bumped: 2026-06-26T07:31:31.436Z
 ---
 
 # Asking question about GLCM per angle in radiomics
@@ -70,5 +70,12 @@ I believe further consideration is needed before presenting this to students.</p
 <p>In the code within the workspace, you can call the modified glcm.py that uses <code>from glcm import RadiomicsGLCM</code> instead of <code>from radiomics.glcm import RadiomicsGLCM</code>.This might allow us to verify the angle information (depending on the level of problem identification in Copilot).</p>
 <p>I just learned about the existence of the symmetrization parameter <code>weightingNorm</code> and set it, but I found that the angle information disappears when applied to check_GLCM_raw.ipynb.</p>
 <p>Further verification seems necessary.</p>
+
+---
+
+## Post #5 by @aujinen (2026-06-26 07:31 UTC)
+
+<p>sorry</p>
+<p>135–215° → 135–315°</p>
 
 ---

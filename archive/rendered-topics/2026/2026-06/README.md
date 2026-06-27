@@ -62,3 +62,5 @@
 - [2026 06 25 Tooth Segmentation In 2D Panoramic Dental Radiographs](2026-06-25-tooth-segmentation-in-2d-panoramic-dental-radiographs-id47455.md)
 - [2026 06 25 Total Segmentator Extension Fails Installation On Slicer 5 1](2026-06-25-total-segmentator-extension-fails-installation-on-slicer-5-1-id47468.md)
 - [2026 06 25 Two Slicermorph And Morphodepot Packaged Extensions For Toda](2026-06-25-two-slicermorph-and-morphodepot-packaged-extensions-for-toda-id47467.md)
+- [2026 06 26 Gui Panels From Slicer 5 12 0 Shows Over Other Software On W](2026-06-26-gui-panels-from-slicer-5-12-0-shows-over-other-software-on-w-id47472.md)
+- [2026 06 26 Slicer 5 12 0 Extension Manager](2026-06-26-slicer-5-12-0-extension-manager-id47474.md)
