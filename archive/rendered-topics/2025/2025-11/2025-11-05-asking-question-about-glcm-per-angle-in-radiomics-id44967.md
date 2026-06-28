@@ -3,7 +3,7 @@ topic_id: 44967
 title: "Asking question about GLCM per angle in radiomics"
 date: 2025-11-05
 url: https://discourse.slicer.org/t/44967
-last_bumped: 2026-06-26T07:31:31.436Z
+last_bumped: 2026-06-28T01:33:15.696Z
 ---
 
 # Asking question about GLCM per angle in radiomics
@@ -77,5 +77,68 @@ I believe further consideration is needed before presenting this to students.</p
 
 <p>sorry</p>
 <p>135–215° → 135–315°</p>
+
+---
+
+## Post #6 by @aujinen (2026-06-27 21:49 UTC)
+
+<p>I modified the local <code>glcm.py</code> file within the workspace to enable the extraction of angular information and unnormalized GLCMs. Although I had assumed the matrices were unsymmetric, verification of the results revealed that the order of the array elements differed from that of a standard GLCM. This was confirmed by comparing the output with results from simulations performed using Julia’s <code>radiomics.jl</code> and Excel.</p>
+<aside class="onebox githubblob" data-onebox-src="https://github.com/aujinen/pyradiomics_edu/blob/master/workspace/normal_ordered_GLCM_sample.png">
+  <header class="source">
+
+      <a href="https://github.com/aujinen/pyradiomics_edu/blob/master/workspace/normal_ordered_GLCM_sample.png" target="_blank" rel="noopener nofollow ugc">github.com/aujinen/pyradiomics_edu</a>
+  </header>
+
+  <article class="onebox-body">
+    <h4><a href="https://github.com/aujinen/pyradiomics_edu/blob/master/workspace/normal_ordered_GLCM_sample.png" target="_blank" rel="noopener nofollow ugc">workspace/normal_ordered_GLCM_sample.png</a></h4>
+
+<div class="git-blob-info">
+  <a href="https://github.com/aujinen/pyradiomics_edu/blob/master/workspace/normal_ordered_GLCM_sample.png" rel="noopener nofollow ugc"><code>master</code></a>
+</div>
+
+
+  This file is binary. <a href="https://github.com/aujinen/pyradiomics_edu/blob/master/workspace/normal_ordered_GLCM_sample.png" target="_blank" rel="noopener nofollow ugc">show original</a>
+
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
+<p><a href="https://github.com/aujinen/pyradiomics_edu/blob/master/workspace/check_P_glcm.ipynb" rel="noopener nofollow ugc">https://github.com/aujinen/pyradiomics_edu/blob/master/workspace/check_P_glcm.ipynb</a></p>
+
+---
+
+## Post #7 by @aujinen (2026-06-28 01:33 UTC)
+
+<p>I have updated the Excel file containing the explanation of the “weightingNorm” parameter for Japanese students.</p>
+<p>A summarized version in English (PDF) has also been posted in the same location.</p>
+<aside class="onebox pdf" data-onebox-src="https://github.com/aujinen/Microsoft-Excel-sheets-with-Macro-VB/blob/master/GLCM-example.pdf">
+  <header class="source">
+
+      <a href="https://github.com/aujinen/Microsoft-Excel-sheets-with-Macro-VB/blob/master/GLCM-example.pdf" target="_blank" rel="noopener nofollow ugc">github.com</a>
+  </header>
+
+  <article class="onebox-body">
+    <a href="https://github.com/aujinen/Microsoft-Excel-sheets-with-Macro-VB/blob/master/GLCM-example.pdf" target="_blank" rel="noopener nofollow ugc"><span class="pdf-onebox-logo"></span></a>
+
+<h3><a href="https://github.com/aujinen/Microsoft-Excel-sheets-with-Macro-VB/blob/master/GLCM-example.pdf" target="_blank" rel="noopener nofollow ugc">GLCM-example.pdf</a></h3>
+
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
 
 ---
