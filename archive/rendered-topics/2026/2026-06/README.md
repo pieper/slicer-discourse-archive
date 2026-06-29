@@ -66,3 +66,4 @@
 - [2026 06 26 Slicer 5 12 0 Extension Manager](2026-06-26-slicer-5-12-0-extension-manager-id47474.md)
 - [2026 06 27 How To Turn A Python Extension Into A C One](2026-06-27-how-to-turn-a-python-extension-into-a-c-one-id47476.md)
 - [2026 06 27 Volume Reconstruction Feature Missing In V 5 12](2026-06-27-volume-reconstruction-feature-missing-in-v-5-12-id47475.md)
+- [2026 06 28 3D Slicer Doesn T Start After Windows Install](2026-06-28-3d-slicer-doesn-t-start-after-windows-install-id47482.md)

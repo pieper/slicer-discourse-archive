@@ -3,7 +3,7 @@ topic_id: 44967
 title: "Asking question about GLCM per angle in radiomics"
 date: 2025-11-05
 url: https://discourse.slicer.org/t/44967
-last_bumped: 2026-06-28T01:33:15.696Z
+last_bumped: 2026-06-29T00:09:37.103Z
 ---
 
 # Asking question about GLCM per angle in radiomics
@@ -140,5 +140,54 @@ I believe further consideration is needed before presenting this to students.</p
   <div style="clear: both"></div>
 </aside>
 
+
+---
+
+## Post #8 by @PaoloZaffino (2026-06-28 18:16 UTC)
+
+<p>If we can provide support for Radiomics.jl, just let us know</p>
+
+---
+
+## Post #9 by @PaoloZaffino (2026-06-28 18:22 UTC)
+
+<p><a class="mention" href="/u/aujinen">@aujinen</a>  if you want, Radiomics.jl can also provide the raw texture matrices.<br>
+See the section “Extraction raw matrices from Texture Features” in the <a href="https://www.radiomicsjl.org/example.html" rel="noopener nofollow ugc">example </a>page.</p>
+
+---
+
+## Post #10 by @aujinen (2026-06-29 00:09 UTC)
+
+<p>Thank you for your kindly suggestions and detail information.</p>
+<p>I have already been able to obtain GLCM values ​​in angle units using radiomics.jl as follows.</p>
+<p>`features = Radiomics.extract_radiomic_features(img.raw, mask.raw, spacing; slices_2d=[(3,1)], features=[:glcm], bin_width=1, get_raw_matrices=true)`</p>
+<p>I am using this Julia function call result to verify whether it is being retrieved correctly from within PyRadiomics.</p>
+<p>Since that is a Julia topic, I thought it was inappropriate for this forum, so I haven’t provided details, but for my student education, the language I mainly use is Python, and I am looking for a way to call radiomics.jl from Python.</p>
+<aside class="onebox allowlistedgeneric" data-onebox-src="https://www.radiomicsjl.org/cross_languages.html">
+  <header class="source">
+      <img src="https://raw.githubusercontent.com/pzaffino/Radiomics.jl/refs/heads/main/Logo%20Radiomicsjl.png" class="site-icon" alt="" width="542" height="499">
+
+      <a href="https://www.radiomicsjl.org/cross_languages.html" target="_blank" rel="noopener nofollow ugc">radiomicsjl.org</a>
+  </header>
+
+  <article class="onebox-body">
+    
+
+<h3><a href="https://www.radiomicsjl.org/cross_languages.html" target="_blank" rel="noopener nofollow ugc">Cross Languages- Radiomics.jl</a></h3>
+
+
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
+<p>Currently, it is not working correctly with parameter passing during the call. The problem is with the part “slices_2d=[(3,1)]”.</p>
+<p>If it is acceptable to discuss it in this thread, I would appreciate any information you can provide.</p>
 
 ---

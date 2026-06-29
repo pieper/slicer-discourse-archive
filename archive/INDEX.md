@@ -1,10 +1,10 @@
 # Slicer Discourse Archive Index
 
-Last updated: 2026-06-28 04:27 UTC
+Last updated: 2026-06-29 04:27 UTC
 
 ## Archive Contents
 
-- Total rendered topics: 19055
+- Total rendered topics: 19056
 - Raw JSON files: 0
 
 ## Recent Topics
@@ -15,12 +15,9 @@ Last updated: 2026-06-28 04:27 UTC
 - [README.md](archive/rendered-topics/2021/2021-05/README.md)
 - [README.md](archive/rendered-topics/2021/2021-03/README.md)
 - [README.md](archive/rendered-topics/2021/2021-02/README.md)
-- [rebuilding custom loadable extension that is part of slicerc](archive/rendered-topics/2021/2021-09/2021-09-30-rebuilding-custom-loadable-extension-that-is-part-of-slicerc-id19942.md)
 - [segmentation visualization toggle is linked when it should n](archive/rendered-topics/2021/2021-09/2021-09-30-segmentation-visualization-toggle-is-linked-when-it-should-n-id19940.md)
 - [superbuild extension builds failed when python was installed](archive/rendered-topics/2021/2021-09/2021-09-30-superbuild-extension-builds-failed-when-python-was-installed-id19938.md)
 - [why clone a line node without display properties](archive/rendered-topics/2021/2021-09/2021-09-30-why-clone-a-line-node-without-display-properties-id19922.md)
-- [how can i download 3d slicer 4 10 i cant load rt file with 3](archive/rendered-topics/2021/2021-09/2021-09-29-how-can-i-download-3d-slicer-4-10-i-cant-load-rt-file-with-3-id19904.md)
-- [how to flip the image](archive/rendered-topics/2021/2021-09/2021-09-29-how-to-flip-the-image-id19915.md)
 - [markups toolbar complexity for simple tasks](archive/rendered-topics/2021/2021-09/2021-09-29-markups-toolbar-complexity-for-simple-tasks-id19913.md)
 - [production release of nci imaging data commons](archive/rendered-topics/2021/2021-09/2021-09-29-production-release-of-nci-imaging-data-commons-id19917.md)
 - [read markups into r with read markups fcsv r](archive/rendered-topics/2021/2021-09/2021-09-29-read-markups-into-r-with-read-markups-fcsv-r-id19914.md)
@@ -35,9 +32,7 @@ Last updated: 2026-06-28 04:27 UTC
 - [how to move the slicer view origin to the models center](archive/rendered-topics/2021/2021-09/2021-09-30-how-to-move-the-slicer-view-origin-to-the-models-center-id19928.md)
 - [is there a way to order loaded dicom slices by file name](archive/rendered-topics/2021/2021-09/2021-09-30-is-there-a-way-to-order-loaded-dicom-slices-by-file-name-id19933.md)
 - [python package in installed version of slicer](archive/rendered-topics/2021/2021-09/2021-09-30-python-package-in-installed-version-of-slicer-id19937.md)
-- [weekly meeting](archive/rendered-topics/2021/2021-09/2021-09-27-2021-09-28-weekly-meeting-id19885.md)
-- [adjust segment opacity in segment editor](archive/rendered-topics/2021/2021-09/2021-09-27-adjust-segment-opacity-in-segment-editor-id19880.md)
-- [distance based registration in slicerprostate](archive/rendered-topics/2021/2021-09/2021-09-27-distance-based-registration-in-slicerprostate-id19877.md)
+- [rebuilding custom loadable extension that is part of slicerc](archive/rendered-topics/2021/2021-09/2021-09-30-rebuilding-custom-loadable-extension-that-is-part-of-slicerc-id19942.md)
 - [extracting the centerline of a tunnel point cloud](archive/rendered-topics/2021/2021-09/2021-09-27-extracting-the-centerline-of-a-tunnel-point-cloud-id19889.md)
 - [how to improve optitrack duo tool tracking stability](archive/rendered-topics/2021/2021-09/2021-09-27-how-to-improve-optitrack-duo-tool-tracking-stability-id19882.md)
 - [unable to open seg modality file](archive/rendered-topics/2021/2021-09/2021-09-27-unable-to-open-seg-modality-file-id19881.md)
@@ -50,7 +45,8 @@ Last updated: 2026-06-28 04:27 UTC
 - [mac preview release build failed to load content in extensio](archive/rendered-topics/2021/2021-09/2021-09-28-mac-preview-release-build-failed-to-load-content-in-extensio-id19899.md)
 - [shifting segmentation image or 2d image](archive/rendered-topics/2021/2021-09/2021-09-28-shifting-segmentation-image-or-2d-image-id19900.md)
 - [changing all paths in slicer](archive/rendered-topics/2021/2021-09/2021-09-29-changing-all-paths-in-slicer-id19916.md)
-- [annotation in volume rendering](archive/rendered-topics/2021/2021-09/2021-09-26-annotation-in-volume-rendering-id19869.md)
+- [how can i download 3d slicer 4 10 i cant load rt file with 3](archive/rendered-topics/2021/2021-09/2021-09-29-how-can-i-download-3d-slicer-4-10-i-cant-load-rt-file-with-3-id19904.md)
+- [how to flip the image](archive/rendered-topics/2021/2021-09/2021-09-29-how-to-flip-the-image-id19915.md)
 - [changes to the markups module](archive/rendered-topics/2021/2021-09/2021-09-26-changes-to-the-markups-module-id19871.md)
 - [changing python terminal font size and colour](archive/rendered-topics/2021/2021-09/2021-09-26-changing-python-terminal-font-size-and-colour-id19874.md)
 - [correspondent point calculations](archive/rendered-topics/2021/2021-09/2021-09-26-correspondent-point-calculations-id19872.md)
@@ -59,3 +55,7 @@ Last updated: 2026-06-28 04:27 UTC
 - [how to make the stylus more smooth and stable](archive/rendered-topics/2021/2021-09/2021-09-26-how-to-make-the-stylus-more-smooth-and-stable-id19862.md)
 - [issue with margin effect margin value sign](archive/rendered-topics/2021/2021-09/2021-09-26-issue-with-margin-effect-margin-value-sign-id19861.md)
 - [joint smoothing in jupyter](archive/rendered-topics/2021/2021-09/2021-09-26-joint-smoothing-in-jupyter-id19875.md)
+- [landmarks and mesh not aligned](archive/rendered-topics/2021/2021-09/2021-09-26-landmarks-and-mesh-not-aligned-id19864.md)
+- [show processing progress information in a module gui](archive/rendered-topics/2021/2021-09/2021-09-26-show-processing-progress-information-in-a-module-gui-id19859.md)
+- [slicermorph about values in sliders for pca deformation](archive/rendered-topics/2021/2021-09/2021-09-26-slicermorph-about-values-in-sliders-for-pca-deformation-id19858.md)
+- [tetrahedralmeshgenerator crash](archive/rendered-topics/2021/2021-09/2021-09-26-tetrahedralmeshgenerator-crash-id19860.md)
