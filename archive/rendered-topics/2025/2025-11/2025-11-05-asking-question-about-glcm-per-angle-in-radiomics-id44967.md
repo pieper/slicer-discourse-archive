@@ -3,7 +3,7 @@ topic_id: 44967
 title: "Asking question about GLCM per angle in radiomics"
 date: 2025-11-05
 url: https://discourse.slicer.org/t/44967
-last_bumped: 2026-06-29T00:09:37.103Z
+last_bumped: 2026-06-29T10:32:00.276Z
 ---
 
 # Asking question about GLCM per angle in radiomics
@@ -189,5 +189,40 @@ See the section “Extraction raw matrices from Texture Features” in the <a hr
 
 <p>Currently, it is not working correctly with parameter passing during the call. The problem is with the part “slices_2d=[(3,1)]”.</p>
 <p>If it is acceptable to discuss it in this thread, I would appreciate any information you can provide.</p>
+
+---
+
+## Post #11 by @PaoloZaffino (2026-06-29 08:18 UTC)
+
+<p><a class="mention" href="/u/aujinen">@aujinen</a> you can open an issue <a href="https://github.com/pzaffino/Radiomics.jl/issues" rel="noopener nofollow ugc">here</a>, we can discuss (and fix the bug) on github</p>
+
+---
+
+## Post #12 by @aujinen (2026-06-29 09:06 UTC)
+
+<p>As it had been a while since I last ran Julia—and because I only installed and verified pyradiomics.jl and its Python interface two days ago—I hadn’t realized there was a GitHub repository for it until now.<br>
+Thank you. If I am unable to resolve the issue after conducting a few more tests regarding parameter passing with Python, I will certainly make use of its issues.</p>
+
+---
+
+## Post #13 by @aujinen (2026-06-29 10:32 UTC)
+
+<p><strong>Summary of a provisional method to obtain angle-specific GLCMs using PyRadiomics</strong></p>
+<p><strong>Note:</strong> As verification was performed only on 2D samples, there is no guarantee of proper operation with large datasets, including 3D data.</p>
+<p><strong>Strategy:</strong> Add <code>self.</code> to the copy of internal variable you want to access to make it accessible from the outside, such as <code>self.XXX = XXX.copy()</code>.</p>
+<p><strong>Issue:</strong> Memory consumption increases. Since this results in a version different from the original <code>glcm.py</code>, I believe it is necessary to fork the repository and manage it separately, as I have done.</p>
+<p>To obtain individual GLCMs with angle information, it was found that you need to add code to the <code>_calculateMatrix(self, voxelCoordinates=None)</code> function in <code>glcm.py</code> to make four parameters accessible externally. Please refer to the following link for the internal parameters to be retrieved:</p>
+<p><a href="https://github.com/aujinen/pyradiomics_edu/blame/master/workspace/glcm.py" rel="noopener nofollow ugc">https://github.com/aujinen/pyradiomics_edu/blame/master/workspace/glcm.py</a></p>
+<p>The procedure for obtaining GLCMs in angle units from the four parameters is as follows.<br>
+Please refer to the following link for details and the results of the verification experiment:</p>
+<p><a href="https://github.com/aujinen/pyradiomics_edu/blob/master/workspace/check_P_glcm.ipynb" rel="noopener nofollow ugc">https://github.com/aujinen/pyradiomics_edu/blob/master/workspace/check_P_glcm.ipynb</a></p>
+<p>If the target is a normalized GLCM, skip step 2.</p>
+<p>Step 1<br>
+Set ‘weightingNorm’ to None</p>
+<p>Step 2<br>
+Multiply the sum of the obtained internal parameters <code>sumP_glcm</code> by <code>P_glcm</code> to return to the GLCM before normalization.</p>
+<p>Step 3<br>
+By reordering the array elements using <code>&lt;matrix&gt;.[:,:,:,::-1].transpose(0,3,2,1)</code>, the original symmetric GLCM with angles can be obtained.</p>
+<p>The internal arrangement of the matrix elements differs from the standard GLCM pattern; the layout appears to have been modified to improve computation speed.</p>
 
 ---

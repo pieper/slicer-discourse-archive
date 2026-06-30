@@ -3,7 +3,7 @@ topic_id: 45893
 title: "AI Agent Skills for 3D Slicer?"
 date: 2026-01-24
 url: https://discourse.slicer.org/t/45893
-last_bumped: 2026-06-06T19:58:04.523Z
+last_bumped: 2026-06-29T09:56:07.518Z
 ---
 
 # AI Agent Skills for 3D Slicer?
@@ -81,5 +81,20 @@ I thi…
   </blockquote>
 </aside>
 
+
+---
+
+## Post #8 by @Hemran_313 (2026-06-29 09:56 UTC)
+
+<p>I think its a pretty interesting idea, one of the biggest issues with AI tools and slicer development is that they often dont know much about Slicers <em><a href="https://speedport-ips.de/" rel="noopener nofollow ugc"><code>APIs</code></a></em> and development patterns. Having shared “skills” or reference material could help a lot with that. Even a small community repository covering common tasks like module creation, Segment Editor effects, and MRML usage could make AI generated code much more accurate.</p>
+<aside class="quote no-group" data-username="Hemran_313" data-post="6" data-topic="45893" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="24" height="24" src="https://sea2.discourse-cdn.com/flex002/user_avatar/discourse.slicer.org/hemran_313/48/82450_2.png" class="avatar"> Hemran_313:</div>
+<blockquote>
+<p>I think its a pretty interesting idea, one of the biggest issues with AI tools and slicer development is that they often dont know much about Slicers APIs and development patterns. Having shared “skills” or reference material could help a lot with that. Even a small community repository covering common tasks like module creation, Segment Editor effects, and MRML usage could make AI generated code much more accurate.</p>
+</blockquote>
+</aside>
+<p>It could also help new developers get started faster by giving AI agents reliable examples to follow instead of relying on generic Python or Qt code that doesn’t fit Slicer well. If the community keeps those skills updated alongside new <a href="https://fritzboxlogins.de/" rel="noopener nofollow ugc"><code>Slicer</code></a> releases, I think it could become a really useful resource.</p>
 
 ---
