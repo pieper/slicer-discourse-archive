@@ -1,8 +1,9 @@
 ---
 topic_id: 21530
-title: "Automate Bone Segmentation From Mri"
+title: "Automate bone segmentation from MRI"
 date: 2022-01-19
 url: https://discourse.slicer.org/t/21530
+last_bumped: 2026-06-30T14:42:41.160Z
 ---
 
 # Automate bone segmentation from MRI
@@ -30,5 +31,15 @@ url: https://discourse.slicer.org/t/21530
 ## Post #3 by @Cedric_Cordey (2023-08-14 09:48 UTC)
 
 <p>Has there been any progress regarding this topic?</p>
+
+---
+
+## Post #4 by @fatemeh (2026-06-30 14:42 UTC)
+
+<p>I came across your post from 2023 about segmenting the pelvis and femora from MRIs. I was wondering how your project turned out and if you had any success with the segmentation process?</p>
+<p>The reason I ask is that I am about to start a similar project, but focusing on the pediatric foot and ankle. Since my study involves children, using MRI is essential for us.</p>
+<p>I would highly appreciate it if you could share your experience, particularly regarding the accuracy of bone segmentation from MRIs and any specific workflows or tools in 3D Slicer that you found helpful.</p>
+<p>Thanks in advance for your time and help!</p>
+<p>Best regards,</p>
 
 ---
