@@ -1,8 +1,9 @@
 ---
 topic_id: 2403
-title: "Using 3D Slicer To Make A Bone Model From Mri"
+title: "Using 3D slicer to make a bone model from MRI"
 date: 2018-03-22
 url: https://discourse.slicer.org/t/2403
+last_bumped: 2026-07-01T09:29:00.343Z
 ---
 
 # Using 3D slicer to make a bone model from MRI
@@ -32,5 +33,11 @@ Slicer version: 4.8.0</p>
 ## Post #3 by @Sezen (2022-01-19 17:16 UTC)
 
 <p>Have you managed to find a solution to this? I am interested automating the segmentation of bone with MRI.</p>
+
+---
+
+## Post #4 by @Reiniertb (2026-07-01 09:29 UTC)
+
+<p><a class="mention" href="/u/sezen">@Sezen</a>  I have published a paper where we accurately and automatically segment the skull and mandible from MRI using CT bone as training labels. If you have both CT and MRI available from a group of patients, you could try something similar as our method: <a href="https://www-mdpi-com.proxy-ub.rug.nl/1943-3883/18/3/40" rel="noopener nofollow ugc">Towards MRI-Only Mandibular Resection Planning: CT-like Bone Segmentation from Routine T1 MRI Images Using Deep Learning</a></p>
 
 ---

@@ -3,7 +3,7 @@ topic_id: 21530
 title: "Automate bone segmentation from MRI"
 date: 2022-01-19
 url: https://discourse.slicer.org/t/21530
-last_bumped: 2026-06-30T14:42:41.160Z
+last_bumped: 2026-07-01T09:26:58.433Z
 ---
 
 # Automate bone segmentation from MRI
@@ -41,5 +41,11 @@ last_bumped: 2026-06-30T14:42:41.160Z
 <p>I would highly appreciate it if you could share your experience, particularly regarding the accuracy of bone segmentation from MRIs and any specific workflows or tools in 3D Slicer that you found helpful.</p>
 <p>Thanks in advance for your time and help!</p>
 <p>Best regards,</p>
+
+---
+
+## Post #5 by @Reiniertb (2026-07-01 09:26 UTC)
+
+<p><a class="mention" href="/u/fatemeh">@fatemeh</a> I have published a paper where we accurately and automatically segment the skull and mandible from MRI using CT bone as training labels. If you have both CT and MRI available from a group of patients, you could try something similar as our method: <a href="https://www-mdpi-com.proxy-ub.rug.nl/1943-3883/18/3/40" rel="noopener nofollow ugc">Towards MRI-Only Mandibular Resection Planning: CT-like Bone Segmentation from Routine T1 MRI Images Using Deep Learning</a></p>
 
 ---

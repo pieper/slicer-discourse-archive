@@ -3,7 +3,7 @@ topic_id: 47507
 title: "vtkPlanarContourToBinaryLabelmapConversionRule"
 date: 2026-06-30
 url: https://discourse.slicer.org/t/47507
-last_bumped: 2026-06-30T15:41:29.425Z
+last_bumped: 2026-07-01T13:58:28.680Z
 ---
 
 # vtkPlanarContourToBinaryLabelmapConversionRule
@@ -82,5 +82,76 @@ Since what the physician is actually doing is drawing a 2D labelmap with his mou
 </blockquote>
 </aside>
 <p>In principle not, in this case I am looking towards performance/parallelization more than precision.</p>
+
+---
+
+## Post #6 by @ferhue (2026-07-01 08:03 UTC)
+
+<p>By the way, KiCad (<a href="https://www.kicad.org/" rel="noopener nofollow ugc">https://www.kicad.org/</a>) extensively uses 2D polygons with complex holes, so the mathematical problem they solve is quite similar to the PlanarContour to Labelmap 2D conversion problem. Maybe we could borrow something from there since it’s open source, and they have a <code>PointInside</code> function for complex polygons with holes (<a href="https://gitlab.com/kicad/code/kicad/-/blob/master/libs/kimath/include/geometry/shape_poly_set.h#L1258" class="inline-onebox" rel="noopener nofollow ugc">libs/kimath/include/geometry/shape_poly_set.h · master · KiCad / KiCad Source Code / kicad · GitLab</a>).<br>
+In fact, they are relying on the Clipper2 library that Andras mentioned (<a href="https://gitlab.com/kicad/code/kicad/-/blob/master/thirdparty/clipper2/Clipper2Lib/include/clipper2/clipper.engine.h" class="inline-onebox" rel="noopener nofollow ugc">thirdparty/clipper2/Clipper2Lib/include/clipper2/clipper.engine.h · master · KiCad / KiCad Source Code / kicad · GitLab</a>)</p>
+
+---
+
+## Post #7 by @cpinter (2026-07-01 10:37 UTC)
+
+<aside class="quote no-group" data-username="ferhue" data-post="5" data-topic="47507">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="24" height="24" src="https://sea2.discourse-cdn.com/flex002/user_avatar/discourse.slicer.org/ferhue/48/82557_2.png" class="avatar"> ferhue:</div>
+<blockquote>
+<p>the function <code>FixKeyhole</code> is not present</p>
+</blockquote>
+</aside>
+<p>I have never seen keyhole artifacts in output ribbon representation. For closed surfaces this is an issue because you don’t want to see those faces connecting the outer and inner ends of the keyholes. For labelmaps this is not an issue, because the width of the keyhole is much smaller than the voxel size.</p>
+<aside class="quote no-group" data-username="ferhue" data-post="6" data-topic="47507">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="24" height="24" src="https://sea2.discourse-cdn.com/flex002/user_avatar/discourse.slicer.org/ferhue/48/82557_2.png" class="avatar"> ferhue:</div>
+<blockquote>
+<p>Maybe we could borrow something from there</p>
+</blockquote>
+</aside>
+<p>Feel free to create a new conversion rule if you see the need. However, if all you need is the simple 2D polygon to labelmap, you have it with ribbons. The SlicerRT community only had that for a few years (before the new segmentations infrastructure and the planar contours to closed surface algorithm) and no problems were reported.</p>
+
+---
+
+## Post #8 by @ferhue (2026-07-01 11:32 UTC)
+
+<aside class="quote no-group" data-username="cpinter" data-post="7" data-topic="47507">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="24" height="24" src="https://sea2.discourse-cdn.com/flex002/user_avatar/discourse.slicer.org/cpinter/48/7995_2.png" class="avatar"> cpinter:</div>
+<blockquote>
+<p>For labelmaps this is not an issue, because the width of the keyhole is much smaller than the voxel size.</p>
+</blockquote>
+</aside>
+<p>Ahh ok, I understand now what you mean.</p>
+<aside class="quote no-group" data-username="cpinter" data-post="7" data-topic="47507">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="24" height="24" src="https://sea2.discourse-cdn.com/flex002/user_avatar/discourse.slicer.org/cpinter/48/7995_2.png" class="avatar"> cpinter:</div>
+<blockquote>
+<p>and no problems were reported.</p>
+</blockquote>
+</aside>
+<p>I do see artefacts sometimes when I turn on the ribbon model representation, but maybe those are visualization glitches or rounding errors on my computer?</p>
+<p>For example with Slicer 5.10.0:</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/b/7/b76d4b94da22ad5991d9c0ce712902e0dd9b6bd2.png" data-download-href="/uploads/short-url/qaFxxQI0nZCe91aRFW8L0RHaXvA.png?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/b/7/b76d4b94da22ad5991d9c0ce712902e0dd9b6bd2_2_690x145.png" alt="image" data-base62-sha1="qaFxxQI0nZCe91aRFW8L0RHaXvA" width="690" height="145" srcset="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/b/7/b76d4b94da22ad5991d9c0ce712902e0dd9b6bd2_2_690x145.png, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/b/7/b76d4b94da22ad5991d9c0ce712902e0dd9b6bd2_2_1035x217.png 1.5x, https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/b/7/b76d4b94da22ad5991d9c0ce712902e0dd9b6bd2.png 2x" data-dominant-color="A29C9B"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">image</span><span class="informations">1065×225 30.1 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
+<p>The contour in this case is simple, when plotted with excel is just a circle.</p>
+<p>The glitch disappears if I use closed-surface or binary labelmap. If I choose for planar contour, the contour is simply just not drawn in 2D but yes in 3D. Maybe rounding error in z coordinate to know if it is on that plane?</p>
+
+---
+
+## Post #9 by @cpinter (2026-07-01 13:58 UTC)
+
+<aside class="quote no-group" data-username="ferhue" data-post="8" data-topic="47507">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="24" height="24" src="https://sea2.discourse-cdn.com/flex002/user_avatar/discourse.slicer.org/ferhue/48/82557_2.png" class="avatar"> ferhue:</div>
+<blockquote>
+<p>I do see artefacts sometimes when I turn on the ribbon model representation, but maybe those are visualization glitches or rounding errors on my computer?</p>
+</blockquote>
+</aside>
+<p>These are due to a 2D visualization issue. Unfortunately it is not uncommon that <code>vtkPlaneCutter</code> in <code>vtkMRMLSegmentationsDisplayableManager2D</code> fails to give correct result. This occurs when you have a polydata type representation selected for slice visualization for your segmentation. If you change it to labelmap (Segmentations / Display / Advanced) then you’ll see the correct slice display.</p>
 
 ---

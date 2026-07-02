@@ -3,7 +3,7 @@ topic_id: 44967
 title: "Asking question about GLCM per angle in radiomics"
 date: 2025-11-05
 url: https://discourse.slicer.org/t/44967
-last_bumped: 2026-06-29T10:32:00.276Z
+last_bumped: 2026-07-01T13:41:40.384Z
 ---
 
 # Asking question about GLCM per angle in radiomics
@@ -224,5 +224,162 @@ Multiply the sum of the obtained internal parameters <code>sumP_glcm</code> by <
 <p>Step 3<br>
 By reordering the array elements using <code>&lt;matrix&gt;.[:,:,:,::-1].transpose(0,3,2,1)</code>, the original symmetric GLCM with angles can be obtained.</p>
 <p>The internal arrangement of the matrix elements differs from the standard GLCM pattern; the layout appears to have been modified to improve computation speed.</p>
+
+---
+
+## Post #14 by @aujinen (2026-07-01 13:41 UTC)
+
+<p>I just posted about the issues related “Using Radiomics.jl from other languages” on the radiomics.jl site.</p>
+<aside class="onebox githubissue" data-onebox-src="https://github.com/pzaffino/Radiomics.jl/issues/25">
+  <header class="source">
+
+      <a href="https://github.com/pzaffino/Radiomics.jl/issues/25" target="_blank" rel="noopener nofollow ugc">github.com/pzaffino/Radiomics.jl</a>
+  </header>
+
+  <article class="onebox-body">
+    <div class="github-row">
+  <div class="github-icon-container" title="Issue" data-github-private-repo="false">
+	  <svg width="60" height="60" class="github-icon" viewBox="0 0 14 16" aria-hidden="true"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"></path></svg>
+  </div>
+
+  <div class="github-info-container">
+    <h4>
+      <a href="https://github.com/pzaffino/Radiomics.jl/issues/25" target="_blank" rel="noopener nofollow ugc">Issue with passing parameters from Python to Julia via juliacall</a>
+    </h4>
+
+    <div class="github-info">
+      <div class="date">
+        opened <span class="discourse-local-date" data-format="ll" data-date="2026-07-01" data-time="13:33:04" data-timezone="UTC">01:33PM - 01 Jul 26 UTC</span>
+      </div>
+
+
+      <div class="user">
+        <a href="https://github.com/aujinen" target="_blank" rel="noopener nofollow ugc">
+          <img alt="" src="https://avatars.githubusercontent.com/u/55919851?v=4" class="onebox-avatar-inline" width="20" height="20">
+          aujinen
+        </a>
+      </div>
+    </div>
+
+    <div class="labels">
+    </div>
+  </div>
+</div>
+
+  <div class="github-row">
+    <p class="github-body-container">When attempting to call the following code—which runs without issues in Julia—fr<span class="show-more-container"><a href="" rel="noopener" class="show-more">…</a></span><span class="excerpt hidden">om Python via JuliaCall, passing the parameter `slices_2d=[(3,1)]` causes it to fail. 
+I haven't explored all possible patterns, but they all result in failure. I haven't found a satisfactory answer even after checking GitHub Copliot.
+
+### Julia (without issues)
+```
+using NIfTI
+using Radiomics
+using Printf
+
+# Load 2D test image and segmentation mask
+img = niread("forRadiomicsTest.nii.gz")
+mask = niread("forSegmentation.seg.nii.gz")
+
+# Extract voxel spacing from image header
+spacing = [img.header.pixdim[2], img.header.pixdim[3], img.header.pixdim[4]]
+
+# Extract radiomics features
+# features = Radiomics.extract_radiomic_features(img.raw, mask.raw, spacing; slices_2d=[(3,1)], features=[:glcm], bin_width=1)
+
+features = Radiomics.extract_radiomic_features(img.raw, mask.raw, spacing; slices_2d=[(3,1)], features=[:glcm], bin_width=1, get_raw_matrices=true)
+
+mat = features["raw_glcm_matrices"]
+# --&gt; get GLCM matrix per angle with normarization
+```
+
+### Python (with issues)
+```
+from juliacall import Main as jl
+jl.seval('import Pkg; Pkg.add("Radiomics")')
+
+import SimpleITK as sitk
+import numpy as np
+
+# Load 2D images
+img_sitk = sitk.ReadImage('./forRadiomicsTest.nii.gz')
+mask_sitk = sitk.ReadImage('./forSegmentation.seg.nii.gz')
+
+# Convert to numpy arrays
+img = sitk.GetArrayFromImage(img_sitk)
+mask = sitk.GetArrayFromImage(mask_sitk)
+
+# Extract spacing information
+spacing = img_sitk.GetSpacing()
+
+radiomic_features = jl.Radiomics.extract_radiomic_features(img, mask, spacing, slices_2d=[(3,1)])
+### --&gt; JuliaError
+# JuliaError                                Traceback (most recent call last)
+# Cell In[7], line 1
+# ----&gt; 1 radiomic_features = jl.Radiomics.extract_radiomic_features(img, mask, spacing, slices_2d=[(3,1)])
+#
+# File ~\.julia\packages\PythonCall\5WGSP\src\JlWrap\any.jl:263, in __call__(self, *args, **kwargs)
+#     261     return ValueBase.__dir__(self) + self._jl_callmethod($(pyjl_methodnum(pyjlany_dir)))
+#     262 def __call__(self, *args, **kwargs):
+# --&gt; 263     return self._jl_callmethod($(pyjl_methodnum(pyjlany_call)), args, kwargs)
+#     264 def __bool__(self):
+#     265     return True
+###
+
+### === The alternative code commented out below also halted with the same error.
+# radiomic_features = jl.Radiomics.extract_radiomic_features(img, mask, spacing, slices_2d=[3,1])
+# radiomic_features = jl.Radiomics.extract_radiomic_features(img, mask, spacing, slices_2d=(3,1))
+# radiomic_features = jl.Radiomics.extract_radiomic_features(img, mask, spacing, slices_2d=((3,1)))
+###
+
+julia_slices = jl.seval("[(3,1)]")
+radiomic_features = jl.Radiomics.extract_radiomic_features(img, mask, spacing, slices_2d=julia_slices)
+
+### --&gt; JuliaError
+# JuliaError                                Traceback (most recent call last)
+# Cell In[31], [line 2](vscode-notebook-cell:?execution_count=31&amp;line=2)
+#      1 # Extract radiomic features
+# ----&gt; [2](vscode-notebook-cell:?execution_count=31&amp;line=2) radiomic_features = jl.Radiomics.extract_radiomic_features(img, mask, spacing, slices_2d = julia_slices)
+#
+# File ~\.julia\packages\PythonCall\5WGSP\src\JlWrap\any.jl:263, in __call__(self, *args, **kwargs)
+#     261     return ValueBase.__dir__(self) + self._jl_callmethod($(pyjl_methodnum(pyjlany_dir)))
+#     262 def __call__(self, *args, **kwargs):
+# --&gt; [263](https://file+.vscode-resource.vscode-cdn.net/d%3A/pyradiomics/workspace/~/.julia/packages/PythonCall/5WGSP/src/JlWrap/any.jl:263)     return self._jl_callmethod($(pyjl_methodnum(pyjlany_call)), args, kwargs)
+#     264 def __bool__(self):
+#     265     return True
+###
+
+kwargs = jl.seval("slices_2d = [(3, 1)]")
+radiomic_features = jl.Radiomics.extract_radiomic_features(img, mask, spacing, **kwargs)
+### --&gt; TypeError 
+# TypeError                                 Traceback (most recent call last)
+# Cell In[25], line 1
+# ----&gt; 1 radiomic_features = jl.Radiomics.extract_radiomic_features(img, mask, spacing, **kwargs)
+#       2 
+#       3 # radiomic_features = jl.Radiomics.extract_radiomic_features(img, mask, spacing, slices_2d=[3,1])
+#
+# TypeError: extract_radiomic_features argument after ** must be a mapping, not VectorValue
+###
+
+### === The alternative code commented out below also halted with the same error.
+# kwargs = jl.seval("slices_2d = [3, 1]")
+# kwargs = jl.seval("slices_2d = (3, 1)")
+# kwargs = jl.seval("slices_2d = ((3, 1))")
+### 
+
+####=== The alternative code commented out below also halted with the other error.
+radiomic_features = jl.Radiomics.extract_radiomic_features(img, mask, spacing, kwargs)```
+###</span></p>
+  </div>
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
 
 ---
