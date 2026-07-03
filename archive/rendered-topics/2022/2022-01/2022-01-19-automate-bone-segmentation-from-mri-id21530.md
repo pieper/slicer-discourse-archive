@@ -3,7 +3,7 @@ topic_id: 21530
 title: "Automate bone segmentation from MRI"
 date: 2022-01-19
 url: https://discourse.slicer.org/t/21530
-last_bumped: 2026-07-01T09:26:58.433Z
+last_bumped: 2026-07-02T09:10:49.308Z
 ---
 
 # Automate bone segmentation from MRI
@@ -47,5 +47,15 @@ last_bumped: 2026-07-01T09:26:58.433Z
 ## Post #5 by @Reiniertb (2026-07-01 09:26 UTC)
 
 <p><a class="mention" href="/u/fatemeh">@fatemeh</a> I have published a paper where we accurately and automatically segment the skull and mandible from MRI using CT bone as training labels. If you have both CT and MRI available from a group of patients, you could try something similar as our method: <a href="https://www-mdpi-com.proxy-ub.rug.nl/1943-3883/18/3/40" rel="noopener nofollow ugc">Towards MRI-Only Mandibular Resection Planning: CT-like Bone Segmentation from Routine T1 MRI Images Using Deep Learning</a></p>
+
+---
+
+## Post #6 by @fatemeh (2026-07-02 09:10 UTC)
+
+<p>Thank you for sharing your paper. Your method is very interesting.</p>
+<p>Unfortunately, I do not have CT data available, since my study population is pediatric and we need to avoid ionizing radiation. My goal is to segment the foot and ankle bones from MRI, reconstruct 3D bone models, and use them for finite element analysis in Abaqus.</p>
+<p>I was wondering whether, based on your experience, an MRI-only workflow could provide sufficiently accurate bone geometries for this type of biomechanical application.</p>
+<p>I would also really appreciate any recommendations regarding MRI sequences, segmentation strategies, or 3D Slicer workflows that could improve bone segmentation quality, especially in pediatric foot and ankle cases.</p>
+<p>Best regards,</p>
 
 ---

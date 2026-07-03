@@ -3,7 +3,7 @@ topic_id: 47472
 title: "GUI panels from Slicer 5.12.0 shows over other software on Windows 11"
 date: 2026-06-26
 url: https://discourse.slicer.org/t/47472
-last_bumped: 2026-06-29T20:46:54.573Z
+last_bumped: 2026-07-02T19:23:38.999Z
 ---
 
 # GUI panels from Slicer 5.12.0 shows over other software on Windows 11
@@ -41,5 +41,13 @@ last_bumped: 2026-06-29T20:46:54.573Z
 
 <p>I can confirm this also happens using Slicer 5.12.0 on macOS. Below shows the pinned pop-up widget displaying over a Finder window. This seems to point to a possible CTK regression where this pop-up widget is maintained.</p>
 <p><div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/4/b/4b49894ba6a8d4dea10012b156333d3a17ced816.png" data-download-href="/uploads/short-url/aK1mo4PYUZ2HfeZc5qqvETcqx4a.png?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/4/b/4b49894ba6a8d4dea10012b156333d3a17ced816_2_690x182.png" alt="image" data-base62-sha1="aK1mo4PYUZ2HfeZc5qqvETcqx4a" width="690" height="182" srcset="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/4/b/4b49894ba6a8d4dea10012b156333d3a17ced816_2_690x182.png, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/4/b/4b49894ba6a8d4dea10012b156333d3a17ced816_2_1035x273.png 1.5x, https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/4/b/4b49894ba6a8d4dea10012b156333d3a17ced816.png 2x" data-dominant-color="DCDCDC"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">image</span><span class="informations">1258×333 88 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
+
+---
+
+## Post #5 by @Esteban_Barreiro (2026-07-02 19:23 UTC)
+
+<p>Hi!</p>
+<p>Thanks for your response James.</p>
+<p>I’m lacking of time, but, should we open a Bug Report on the bugtracker on Github? I’m afraid if I do it, maybe I can’t follow it up as is needed.</p>
 
 ---

@@ -3,7 +3,7 @@ topic_id: 47094
 title: "Workflow for segmenting many lesions as separate segments?"
 date: 2026-05-20
 url: https://discourse.slicer.org/t/47094
-last_bumped: 2026-05-25T11:38:13.205Z
+last_bumped: 2026-07-02T20:03:45.188Z
 ---
 
 # Workflow for segmenting many lesions as separate segments?
@@ -43,5 +43,11 @@ last_bumped: 2026-05-25T11:38:13.205Z
 <li>Case load: ~20 cases. Need accuracy good enough for volume change over time (not for surgical planning). I’m willing to invest time in a good workflow but not in training a deep learning model from scratch.</li>
 </ol>
 <p>Sorry my english is not that good. So i use AI to rephrase, hope you dont mind. <img src="https://emoji.discourse-cdn.com/twitter/folded_hands.png?v=15" title=":folded_hands:" class="emoji" alt=":folded_hands:" loading="lazy" width="20" height="20"></p>
+
+---
+
+## Post #4 by @pieper (2026-07-02 20:03 UTC)
+
+<p>Sorry for the slow response - the message got buried in my inbox.  I would suggest nnInteractive if you haven’t already found it.  It would probably work well for that scenario.</p>
 
 ---

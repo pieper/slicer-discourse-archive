@@ -3,7 +3,7 @@ topic_id: 47522
 title: "Smallest specimen possible to image with Slicer Photogrammetry?"
 date: 2026-07-01
 url: https://discourse.slicer.org/t/47522
-last_bumped: 2026-07-01T15:59:26.483Z
+last_bumped: 2026-07-02T18:51:25.495Z
 ---
 
 # Smallest specimen possible to image with Slicer Photogrammetry?
@@ -34,5 +34,31 @@ last_bumped: 2026-07-01T15:59:26.483Z
 <p><strong>On the framing</strong> — the specimen needs to be entirely in focus and fill ~80% of the frame. A small skull in the center of a mostly-empty frame is the classic failure mode: the feature matcher can’t find enough to lock onto and can’t separate the specimen from the background. That’s exactly what your “need more photos with more overlap” error is — ODM saying consecutive views don’t share enough matched features. Shoot in small angular increments with heavy overlap between adjacent frames.</p>
 <p><strong>One more thing working against you at this size:</strong> bird skulls are smooth and low-texture, so use diffuse, even lighting (kill any specular hotspots) against a plain background. With small, shiny bone, lighting is often what makes or breaks a run. In our 2023 paper, one extremely bleached mountain beaver skull was the one that consistently failed the reconstruction using the exact protocol for photography and photogrammetry.</p>
 <p>Also photogrammetry within Slicer ecosystem is fairly niche. You might get better support and advise directly from the OpenDroneMap community forum. Browse those as well: <a href="https://community.opendronemap.org/" rel="noopener nofollow ugc">https://community.opendronemap.org/</a></p>
+
+---
+
+## Post #3 by @imfeldts001 (2026-07-02 18:22 UTC)
+
+<p>Thank you so, so much for such a speedy and detailed answer to our question!!! These suggestions have definitely given us some optimism and more things to troubleshoot to get these tiny skulls to work (hopefully). The issue I’m currently encountering is the tradeoff between the focal length of our lens and the depth of field, unsurprisingly. Our lens can handle 140mm of zoom and an aperture of 36 but, even when we have the camera as close as possible at the minimal focus distance (45cm), our depth of field is only about the same size as the specimen. Even then, the specimen is only occupying about 50% of the image. The depth of field should ideally be quite a bit wider, right?</p>
+<p>We’ll keep at it and will cross our fingers. Thanks again for all your help and for supporting this phenomenal resource for us to use!</p>
+<p>Tyler</p>
+
+---
+
+## Post #4 by @muratmaga (2026-07-02 18:51 UTC)
+
+<aside class="quote no-group" data-username="imfeldts001" data-post="3" data-topic="47522">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="24" height="24" src="https://avatars.discourse-cdn.com/v4/letter/i/48db29/48.png" class="avatar"> imfeldts001:</div>
+<blockquote>
+<p>Thank you so, so much for such a speedy and detailed answer to our question!!! These suggestions have definitely given us some optimism and more things to troubleshoot to get these tiny skulls to work (hopefully). The issue I’m currently encountering is the tradeoff between the focal length of our lens and the depth of field, unsurprisingly. Our lens can handle 140mm of zoom and an aperture of 36 but, even when we have the camera as close as possible at the minimal focus distance (45cm), our depth of field is only about the same size as the specimen. Even then, the specimen is only occupying about 50% of the image. The depth of field should ideally be quite a bit wider, right?</p>
+</blockquote>
+</aside>
+<p>My experience with small specimens is limited. But two things you can try:</p>
+<ol>
+<li>If you can’t get your specimen to occupy more than 50% of the frame, you can crop the black area so that more of the frame is the specimen.</li>
+<li>To deal with limited depth of field, you can try focus stacking (take 3-4 pictures at different depths and stitch them to a single image). Although this is extremely tedious (and the main reason I never explored close range photogrammetry for small specimens).</li>
+</ol>
 
 ---
