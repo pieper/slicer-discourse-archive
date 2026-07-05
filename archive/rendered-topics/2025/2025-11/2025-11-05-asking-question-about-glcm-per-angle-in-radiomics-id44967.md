@@ -3,7 +3,7 @@ topic_id: 44967
 title: "Asking question about GLCM per angle in radiomics"
 date: 2025-11-05
 url: https://discourse.slicer.org/t/44967
-last_bumped: 2026-07-01T13:41:40.384Z
+last_bumped: 2026-07-04T18:26:46.876Z
 ---
 
 # Asking question about GLCM per angle in radiomics
@@ -381,5 +381,13 @@ radiomic_features = jl.Radiomics.extract_radiomic_features(img, mask, spacing, k
   <div style="clear: both"></div>
 </aside>
 
+
+---
+
+## Post #15 by @aujinen (2026-07-04 18:26 UTC)
+
+<p>Thanks to the assistance of Mr. Aldo Giuliani, the issue regarding parameter conversion when using Julia’s <code>radiomics.jl</code> from Python has been resolved.</p>
+<p>I incorporated this information into materials I created for students in Japan.</p>
+<p><a href="https://github.com/aujinen/pyradiomics_edu/blob/master/workspace/radiomics_julia_2D.ipynb" rel="noopener nofollow ugc">https://github.com/aujinen/pyradiomics_edu/blob/master/workspace/radiomics_julia_2D.ipynb</a></p>
 
 ---
