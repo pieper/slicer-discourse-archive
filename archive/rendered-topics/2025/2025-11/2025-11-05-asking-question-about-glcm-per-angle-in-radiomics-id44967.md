@@ -3,7 +3,7 @@ topic_id: 44967
 title: "Asking question about GLCM per angle in radiomics"
 date: 2025-11-05
 url: https://discourse.slicer.org/t/44967
-last_bumped: 2026-07-04T18:26:46.876Z
+last_bumped: 2026-07-05T11:10:47.145Z
 ---
 
 # Asking question about GLCM per angle in radiomics
@@ -389,5 +389,13 @@ radiomic_features = jl.Radiomics.extract_radiomic_features(img, mask, spacing, k
 <p>Thanks to the assistance of Mr. Aldo Giuliani, the issue regarding parameter conversion when using Julia’s <code>radiomics.jl</code> from Python has been resolved.</p>
 <p>I incorporated this information into materials I created for students in Japan.</p>
 <p><a href="https://github.com/aujinen/pyradiomics_edu/blob/master/workspace/radiomics_julia_2D.ipynb" rel="noopener nofollow ugc">https://github.com/aujinen/pyradiomics_edu/blob/master/workspace/radiomics_julia_2D.ipynb</a></p>
+
+---
+
+## Post #16 by @aujinen (2026-07-05 11:10 UTC)
+
+<p>I finally understand the specific difference between the <code>weightingNorm</code> parameter  [None] and [‘no_weighting’].</p>
+<p>I have revised this post. I previously posted under the mistaken impression that the rotational dependence of GLCM is controlled by the <code>weightingNorm</code> parameter.</p>
+<p>I now understand that the difference between <code>[None]</code> and <code>['no_weighting']</code> for this parameter lies in the extent to which image anisotropy is preserved. <code>[None]</code> preserves anisotropy more strongly, whereas <code>['no_weighting']</code> preserves it to a lesser degree—meaning the data is more prone to relative averaging.</p>
 
 ---
