@@ -3,7 +3,7 @@ topic_id: 47528
 title: "Slicer Wiki appears to be down"
 date: 2026-07-01
 url: https://discourse.slicer.org/t/47528
-last_bumped: 2026-07-01T20:33:45.087Z
+last_bumped: 2026-07-06T17:58:02.165Z
 ---
 
 # Slicer Wiki appears to be down
@@ -20,5 +20,24 @@ last_bumped: 2026-07-01T20:33:45.087Z
 <p>I’m getting this bad gateway error on this link:</p>
 <p><a href="https://www.slicer.org/wiki/Main_Page/SlicerCommunity">https://www.slicer.org/wiki/Main_Page/SlicerCommunity</a></p>
 <p>This is linked from the main page of <a>slicer.org</a></p>
+
+---
+
+## Post #2 by @ebrahim (2026-07-06 12:28 UTC)
+
+<p>It seems it’s back up… not sure why! I don’t where the old wiki is hosted or who manages it.</p>
+<p>Have we been planning to take it down after confirming that the information on it exists on readthedocs?</p>
+
+---
+
+## Post #3 by @pieper (2026-07-06 17:58 UTC)
+
+<p>Thanks for checking!</p>
+<p>Oddly, I still get the error, and I’m on a completely different wifi from when it happened before.  Maybe it works from inside Kitware but not out?  Can someone else try?</p>
+<blockquote>
+<p>Have we been planning to take it down after confirming that the information on it exists on readthedocs?</p>
+</blockquote>
+<p>That would be great, yes, but for now it’s still linked from <a href="https://www.slicer.org/#community">https://www.slicer.org/#community</a> on the main page.</p>
+<p><a class="mention" href="/u/sam_horvath">@Sam_Horvath</a> - Do I recall correctly that Jc left some breadcrumb document about all the slicer-related web sites and maybe some migration plans you are working through?</p>
 
 ---

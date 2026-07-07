@@ -10,3 +10,6 @@
 - [2026 07 02 Crop Segmentations With Bounding Box](2026-07-02-crop-segmentations-with-bounding-box-id47535.md)
 - [2026 07 02 Scrambled Image When Setting Oppacity 1 In An Stl Image](2026-07-02-scrambled-image-when-setting-oppacity-1-in-an-stl-image-id47533.md)
 - [2026 07 04 C Extension For 5 12 Is Not Working Macos](2026-07-04-c-extension-for-5-12-is-not-working-macos-id47542.md)
+- [2026 07 06 Nninteractive Slicer Client Is Stuck](2026-07-06-nninteractive-slicer-client-is-stuck-id47550.md)
+- [2026 07 06 Stereo Off Axis Projection And Mouse Interactions](2026-07-06-stereo-off-axis-projection-and-mouse-interactions-id47552.md)
+- [2026 07 07 Inquiry](2026-07-07-inquiry-id47555.md)
