@@ -3,7 +3,7 @@ topic_id: 47094
 title: "Workflow for segmenting many lesions as separate segments?"
 date: 2026-05-20
 url: https://discourse.slicer.org/t/47094
-last_bumped: 2026-07-02T20:03:45.188Z
+last_bumped: 2026-07-07T11:09:16.564Z
 ---
 
 # Workflow for segmenting many lesions as separate segments?
@@ -49,5 +49,17 @@ last_bumped: 2026-07-02T20:03:45.188Z
 ## Post #4 by @pieper (2026-07-02 20:03 UTC)
 
 <p>Sorry for the slow response - the message got buried in my inbox.  I would suggest nnInteractive if you haven’t already found it.  It would probably work well for that scenario.</p>
+
+---
+
+## Post #5 by @zhousy5310 (2026-07-07 11:09 UTC)
+
+<p>Hi Steve,</p>
+<p>No worries at all, and thanks for getting back to me. Since my previous post, I have also been looking at some AAA cases, so the task has changed a bit.</p>
+<p>I did try nnInteractive since. It is a really impressive tool, and I can see how it would probably work well for NF1-type lesions. However, for current goal: AAA/aorta segmentation, I am still not sure if I am using it in the best way.</p>
+<p>Firstly, the aorta is a long structure, when I add prompts in the lower part of the vessel, sometimes the upper part changes or disappears. Also, after several prompts, it becomes hard for me to understand which region has been updated, expanded, or reduced.</p>
+<p>At the moment, my practical workflow is to use nnInteractive once to get an initial segmentation, and then continue with manual editing. But I feel I may be missing a better way to use it.</p>
+<p>May I ask whether this behavior is expected for long structures like the aorta? Have you seen similar issues before, and is there a recommended workflow to avoid overwriting or losing previously segmented regions?</p>
+<p>Thanks again for your help.</p>
 
 ---

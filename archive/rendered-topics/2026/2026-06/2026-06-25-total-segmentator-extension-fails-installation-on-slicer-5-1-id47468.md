@@ -3,7 +3,7 @@ topic_id: 47468
 title: "Total Segmentator Extension Fails Installation on Slicer 5.12.0"
 date: 2026-06-25
 url: https://discourse.slicer.org/t/47468
-last_bumped: 2026-06-25T19:22:46.700Z
+last_bumped: 2026-07-07T15:08:02.809Z
 ---
 
 # Total Segmentator Extension Fails Installation on Slicer 5.12.0
@@ -23,5 +23,17 @@ last_bumped: 2026-06-25T19:22:46.700Z
 <p>Are there any useful python console debug commands for this situation?</p>
 <p>Thanks,<br>
 Alex</p>
+
+---
+
+## Post #2 by @amyers (2026-07-07 13:04 UTC)
+
+<p>I just installed TotalSegmentator without the error: “Failed to retrieve metadata for TotalSegmentator extension.” Does anyone think this was an extension manager server error?</p>
+
+---
+
+## Post #3 by @amyers (2026-07-07 15:08 UTC)
+
+<p><a class="mention" href="/u/lassoan">@lassoan</a> just spoke to me about this and the issue is resolved.</p>
 
 ---

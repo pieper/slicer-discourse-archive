@@ -3,7 +3,7 @@ topic_id: 47550
 title: "Nninteractive (slicer client) is stuck"
 date: 2026-07-06
 url: https://discourse.slicer.org/t/47550
-last_bumped: 2026-07-06T23:28:47.403Z
+last_bumped: 2026-07-07T16:37:59.509Z
 ---
 
 # Nninteractive (slicer client) is stuck
@@ -134,5 +134,27 @@ Pip install dialog crashes during module setup.
 
 <p><a class="mention" href="/u/ebrahim">@ebrahim</a>, since the extension worked in 5.10, and then crashes 5.12 I think this is a Slicer regression and we should somehow make it failsafe.  We don’t know who else might have depended on this older behavior.</p>
 <p><a class="mention" href="/u/muratmaga">@muratmaga</a> FYI, the DKFZ team behind nnInteractive contacted me and <a class="mention" href="/u/lassoan">@lassoan</a> that that will be making an updated SlicerNNInteractive extension available but it’s not ready yet.  This will support a new version with improved features.  So things are in flux for a while.</p>
+
+---
+
+## Post #8 by @ebrahim (2026-07-07 13:39 UTC)
+
+<p>It’s more of an API change than a regression.</p>
+<p>5.10 to 5.12 API change is acceptable, the extension has to be updated to adapt. If the extension is abandoned by the original author and we still want it in 5.12, then we can fork it. But I feel it’s too early to call it abandoned.</p>
+<p>When we were putting together <code>slicer.packaging</code> we had to make a choice as to whether the progress bar is given to everyone using <code>pip_install</code> by default or whether it’s opt-in. In one case many extensions get automatic benefit while a few extensions need to be updated, and in the other case only extensions that update to explicitly invoke the new functionality get the benefit. Andras and I thought about this and opted for the first one.</p>
+
+---
+
+## Post #9 by @ebrahim (2026-07-07 14:00 UTC)
+
+<p>Hmm… on more thought I suppose a failsafe within Slicer is easy</p>
+<p>But this would not be us fixing a regression. This would be us being nice, which I guess we should be <img src="https://emoji.discourse-cdn.com/twitter/neutral_face.png?v=15" title=":neutral_face:" class="emoji" alt=":neutral_face:" loading="lazy" width="20" height="20"></p>
+<p>I think I can get a failsafe out soon</p>
+
+---
+
+## Post #10 by @lassoan (2026-07-07 16:37 UTC)
+
+<p>We discussed this at the developer meeting and <a class="mention" href="/u/ebrahim">@ebrahim</a> will try to get a fix in Slicer-5.12.1 (only add progress bar if <code>pip_install</code> is called from the main thread).</p>
 
 ---

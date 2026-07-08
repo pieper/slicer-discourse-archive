@@ -12,4 +12,8 @@
 - [2026 07 04 C Extension For 5 12 Is Not Working Macos](2026-07-04-c-extension-for-5-12-is-not-working-macos-id47542.md)
 - [2026 07 06 Nninteractive Slicer Client Is Stuck](2026-07-06-nninteractive-slicer-client-is-stuck-id47550.md)
 - [2026 07 06 Stereo Off Axis Projection And Mouse Interactions](2026-07-06-stereo-off-axis-projection-and-mouse-interactions-id47552.md)
+- [2026 07 07 I Installed The Cochlear Automatic Segmentation Extension Su](2026-07-07-i-installed-the-cochlear-automatic-segmentation-extension-su-id47562.md)
 - [2026 07 07 Inquiry](2026-07-07-inquiry-id47555.md)
+- [2026 07 07 Possible Disruption To Slicer Org](2026-07-07-possible-disruption-to-slicer-org-id47566.md)
+- [2026 07 07 Screen Error Black Screen With Double Arrows When Using Roi](2026-07-07-screen-error-black-screen-with-double-arrows-when-using-roi-id47563.md)
+- [2026 07 07 Slicer Oneline Installer Script](2026-07-07-slicer-oneline-installer-script-id47568.md)
