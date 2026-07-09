@@ -1,8 +1,9 @@
 ---
 topic_id: 35465
-title: "Overlay Of Coregistered Brain Mri And Ct"
+title: "Overlay of coregistered brain MRI and CT"
 date: 2024-04-12
 url: https://discourse.slicer.org/t/35465
+last_bumped: 2026-07-08T08:53:44.734Z
 ---
 
 # Overlay of coregistered brain MRI and CT
@@ -27,5 +28,44 @@ Actual behavior: images are not aligned.</p>
 ## Post #2 by @pieper (2024-04-12 22:32 UTC)
 
 <p>Describe what step you used to register the images.  In Slicer you should just be able to right click on one in the Data module, pick Register this and then right click to select the  other and then click apply.</p>
+
+---
+
+## Post #3 by @bruce2647 (2026-07-08 08:53 UTC)
+
+<aside class="quote no-group" data-username="Kerezoudis" data-post="1" data-topic="35465">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="24" height="24" src="https://sea2.discourse-cdn.com/flex002/user_avatar/discourse.slicer.org/kerezoudis/48/70015_2.png" class="avatar"> Kerezoudis:</div>
+<blockquote>
+<p>Operating system: MacOs Sonoma 14.4.1<br>
+Slicer version: 5.6.1<br>
+Expected behavior: I would like to overlay preoperative brain MRI with postoperative CT (after electrode placement)<br>
+Actual behavior: images are not aligned.</p>
+<p>Plase see screenshow below. I would like to overlay preoperative T1 MRI (top left) with postoperative CT (top right). Images have already been co-registered in SPM, and alignment looks great in MRICrogl (bottom left). For some reason, the two images look completely out of place with each other in 3D slicer (I tried cropping out unnecessary volume too, but with no sucsess). Any help would be greatly appreciated!</p>
+</blockquote>
+</aside>
+<p>Hi,</p>
+<p>It looks like the registration itself may be fine, but Slicer may be reading the image position/orientation differently from MRIcroGL.</p>
+<p>Please check these steps:</p>
+<ol>
+<li>Load both MRI and CT in Slicer.</li>
+<li>Go to <strong>Data module → right-click the volume → Volume Information</strong> and compare:
+<ul>
+<li>Origin</li>
+<li>Spacing</li>
+<li>Image orientation (IJK to RAS)</li>
+</ul>
+</li>
+<li>Make sure both images are in the same coordinate system (RAS/LPS).</li>
+</ol>
+<p>Sometimes SPM saves the registration correctly, but the NIfTI header information is not updated properly. Try exporting the registered MRI again from SPM and load the new file in Slicer.</p>
+<p>You can also try:</p>
+<ul>
+<li>Open <strong>Transforms</strong> module in Slicer.</li>
+<li>Apply the registration transform.</li>
+<li>Click <strong>Harden Transform</strong> to permanently save the alignment.</li>
+</ul>
+<p>If it still does not align, try using <strong>General Registration (BRAINS)</strong> in Slicer with MRI as the fixed image and CT as the moving image. This can confirm whether the problem is with the header information or the registration.</p>
 
 ---

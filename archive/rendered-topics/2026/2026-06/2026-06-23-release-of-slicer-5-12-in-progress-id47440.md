@@ -3,7 +3,7 @@ topic_id: 47440
 title: "Release of Slicer 5.12 in progress"
 date: 2026-06-23
 url: https://discourse.slicer.org/t/47440
-last_bumped: 2026-06-25T14:03:10.451Z
+last_bumped: 2026-07-09T02:11:40.311Z
 ---
 
 # Release of Slicer 5.12 in progress
@@ -86,5 +86,30 @@ This does look a bit confusing to me:</p>
 ## Post #7 by @Sam_Horvath (2026-06-25 14:03 UTC)
 
 <p>There also seems to be an issue with the download site updating to 5.13, working on this</p>
+
+---
+
+## Post #8 by @ebrahim (2026-07-08 11:19 UTC)
+
+<p>Here are the commits I am planning to include before I tag 5.12.1:</p>
+<ul>
+<li><a href="https://github.com/Slicer/Slicer/commit/8d6575b975adf262a0f226ae906aa25747967203" class="inline-onebox">COMP: Update DCMTKcs to fix OpenJPEG over-linking on macOS · Slicer/Slicer@8d6575b · GitHub</a></li>
+<li><a href="https://github.com/Slicer/Slicer/pull/9273/" class="inline-onebox">BUG: Disable pip install UI off main thread by ebrahimebrahim · Pull Request #9273 · Slicer/Slicer · GitHub</a> (after it is merged)</li>
+</ul>
+<p><a class="mention" href="/u/lassoan">@lassoan</a> <a class="mention" href="/u/sam_horvath">@Sam_Horvath</a> <a class="mention" href="/u/pieper">@pieper</a> <a class="mention" href="/u/jamesobutler">@jamesobutler</a> please let me know if I missed any that you had in mind</p>
+
+---
+
+## Post #9 by @ebrahim (2026-07-08 20:19 UTC)
+
+<p>This evening, regular macOS preview and stable builds of Slicer and associated extensions will be disabled in favor of a <strong>patch</strong> release.</p>
+<p>Nightly Windows and Linux builds may be unaffected.</p>
+<p>To track the progress, see <a href="https://github.com/Slicer/Slicer/issues/9271" class="inline-onebox">Patch Release Slicer v5.12.1 · Issue #9271 · Slicer/Slicer · GitHub</a></p>
+
+---
+
+## Post #10 by @ebrahim (2026-07-09 02:11 UTC)
+
+<p>Incremental stable builds seem to be still running now for windows and linux, with the scheduled nightly task is about to start in an hour … so I am are disabling those as well to get the patch release completed. Regular linux and windows preview and stable builds will be disabled for tonight, not just macOS. Sorry for any inconvenience; ty for your patience everyone!</p>
 
 ---

@@ -3,7 +3,7 @@ topic_id: 47094
 title: "Workflow for segmenting many lesions as separate segments?"
 date: 2026-05-20
 url: https://discourse.slicer.org/t/47094
-last_bumped: 2026-07-07T11:09:16.564Z
+last_bumped: 2026-07-08T08:56:49.097Z
 ---
 
 # Workflow for segmenting many lesions as separate segments?
@@ -61,5 +61,12 @@ last_bumped: 2026-07-07T11:09:16.564Z
 <p>At the moment, my practical workflow is to use nnInteractive once to get an initial segmentation, and then continue with manual editing. But I feel I may be missing a better way to use it.</p>
 <p>May I ask whether this behavior is expected for long structures like the aorta? Have you seen similar issues before, and is there a recommended workflow to avoid overwriting or losing previously segmented regions?</p>
 <p>Thanks again for your help.</p>
+
+---
+
+## Post #6 by @pieper (2026-07-08 08:56 UTC)
+
+<p>You can report the specifics of the segmentation behavior to the <a href="https://github.com/MIC-DKFZ/nnInteractive">nnInteractive</a> team, ideally with exact steps to replicate on public data.</p>
+<p>In general, segmentation is a difficult task, so you need to experiment with what works well for your data.  If you have contrast enhanced CT, you might find that Grow from seeds works well for you task.</p>
 
 ---
