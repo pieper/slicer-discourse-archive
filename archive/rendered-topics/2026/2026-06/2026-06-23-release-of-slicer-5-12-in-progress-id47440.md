@@ -3,7 +3,7 @@ topic_id: 47440
 title: "Release of Slicer 5.12 in progress"
 date: 2026-06-23
 url: https://discourse.slicer.org/t/47440
-last_bumped: 2026-07-09T02:11:40.311Z
+last_bumped: 2026-07-09T13:48:56.533Z
 ---
 
 # Release of Slicer 5.12 in progress
@@ -111,5 +111,11 @@ This does look a bit confusing to me:</p>
 ## Post #10 by @ebrahim (2026-07-09 02:11 UTC)
 
 <p>Incremental stable builds seem to be still running now for windows and linux, with the scheduled nightly task is about to start in an hour … so I am are disabling those as well to get the patch release completed. Regular linux and windows preview and stable builds will be disabled for tonight, not just macOS. Sorry for any inconvenience; ty for your patience everyone!</p>
+
+---
+
+## Post #11 by @ebrahim (2026-07-09 13:48 UTC)
+
+<p>The nightly builds have been re-enabled so the <a href="https://slicer.cdash.org">dashboards</a> should be back to normal tomorrow</p>
 
 ---
