@@ -23,3 +23,5 @@
 - [2026 07 08 Pelvic Screw Planification](2026-07-08-pelvic-screw-planification-id47578.md)
 - [2026 07 08 Tiff Volume Orientation Does Not Match Source Stl Orientatio](2026-07-08-tiff-volume-orientation-does-not-match-source-stl-orientatio-id47582.md)
 - [2026 07 08 Vicon And Qualisys Integration Into Plusserver Almost Done B](2026-07-08-vicon-and-qualisys-integration-into-plusserver-almost-done-b-id47580.md)
+- [2026 07 10 Slicer 5 12 Summary Highlights And Changelog](2026-07-10-slicer-5-12-summary-highlights-and-changelog-id47540.md)
+- [2026 07 10 Write 3D Model To Ct Images](2026-07-10-write-3d-model-to-ct-images-id47587.md)

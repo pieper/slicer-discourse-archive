@@ -3,7 +3,7 @@ topic_id: 47522
 title: "Smallest specimen possible to image with Slicer Photogrammetry?"
 date: 2026-07-01
 url: https://discourse.slicer.org/t/47522
-last_bumped: 2026-07-02T18:51:25.495Z
+last_bumped: 2026-07-10T17:38:57.409Z
 ---
 
 # Smallest specimen possible to image with Slicer Photogrammetry?
@@ -60,5 +60,18 @@ last_bumped: 2026-07-02T18:51:25.495Z
 <li>If you can’t get your specimen to occupy more than 50% of the frame, you can crop the black area so that more of the frame is the specimen.</li>
 <li>To deal with limited depth of field, you can try focus stacking (take 3-4 pictures at different depths and stitch them to a single image). Although this is extremely tedious (and the main reason I never explored close range photogrammetry for small specimens).</li>
 </ol>
+
+---
+
+## Post #5 by @imfeldts001 (2026-07-10 15:22 UTC)
+
+<p>Hey again,</p>
+<p>Thanks again for all of your insight and suggestions here! I’m happy to share that the combination of shooting with a larger zoom on our current lens and then cropping the photos solved the problem. We were able to successfully assemble a model of a tiny skull (~28mm in maximum length) that’s of comparable quality to the larger skulls we’ve been working with!</p>
+
+---
+
+## Post #6 by @muratmaga (2026-07-10 17:38 UTC)
+
+<p>glad to hear it. It would be great if you can share your photography protocol somewhere as a blog or a method.</p>
 
 ---
