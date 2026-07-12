@@ -1,8 +1,9 @@
 ---
 topic_id: 35964
-title: "Is It Possible To Scroll By Dragging The Mouse In The Curren"
+title: "Is it possible to scroll by dragging the mouse in the current view?"
 date: 2024-05-07
 url: https://discourse.slicer.org/t/35964
+last_bumped: 2026-07-11T23:28:34.399Z
 ---
 
 # Is it possible to scroll by dragging the mouse in the current view?
@@ -57,5 +58,11 @@ Alex</p>
 <p>Hi,<br>
 Was this functionality implemented? For Ctrl + Mouse-Move = slices scrolled.<br>
 Maybe something to add in the “<strong>vtkMRMLCameraWidget.cxx</strong>“ file?</p>
+
+---
+
+## Post #7 by @Y_A (2026-07-11 23:28 UTC)
+
+<p>Hi radiologist here, just wondering if there are any updates on this feature request? It would be really helpful to have a drag and scroll tool like hospital-based PACS systems</p>
 
 ---

@@ -1,6 +1,6 @@
 # Slicer Discourse Archive Index
 
-Last updated: 2026-07-11 04:00 UTC
+Last updated: 2026-07-12 04:09 UTC
 
 ## Archive Contents
 
@@ -15,6 +15,7 @@ Last updated: 2026-07-11 04:00 UTC
 - [README.md](archive/rendered-topics/2021/2021-05/README.md)
 - [README.md](archive/rendered-topics/2021/2021-03/README.md)
 - [README.md](archive/rendered-topics/2021/2021-02/README.md)
+- [detect the collosion of models and change model outlook real](archive/rendered-topics/2021/2021-09/2021-09-30-detect-the-collosion-of-models-and-change-model-outlook-real-id19921.md)
 - [extensions updated code doesnt show on extensions manager](archive/rendered-topics/2021/2021-09/2021-09-30-extensions-updated-code-doesnt-show-on-extensions-manager-id19936.md)
 - [fiducials labels not visible](archive/rendered-topics/2021/2021-09/2021-09-30-fiducials-labels-not-visible-id19923.md)
 - [how to move the slicer view origin to the models center](archive/rendered-topics/2021/2021-09/2021-09-30-how-to-move-the-slicer-view-origin-to-the-models-center-id19928.md)
@@ -24,6 +25,7 @@ Last updated: 2026-07-11 04:00 UTC
 - [segmentation visualization toggle is linked when it should n](archive/rendered-topics/2021/2021-09/2021-09-30-segmentation-visualization-toggle-is-linked-when-it-should-n-id19940.md)
 - [superbuild extension builds failed when python was installed](archive/rendered-topics/2021/2021-09/2021-09-30-superbuild-extension-builds-failed-when-python-was-installed-id19938.md)
 - [why clone a line node without display properties](archive/rendered-topics/2021/2021-09/2021-09-30-why-clone-a-line-node-without-display-properties-id19922.md)
+- [how to disable crosshair with mouse drag drop](archive/rendered-topics/2021/2021-09/2021-09-28-how-to-disable-crosshair-with-mouse-drag-drop-id19892.md)
 - [how to group fiducial markups](archive/rendered-topics/2021/2021-09/2021-09-28-how-to-group-fiducial-markups-id19890.md)
 - [mac preview release build failed to load content in extensio](archive/rendered-topics/2021/2021-09/2021-09-28-mac-preview-release-build-failed-to-load-content-in-extensio-id19899.md)
 - [shifting segmentation image or 2d image](archive/rendered-topics/2021/2021-09/2021-09-28-shifting-segmentation-image-or-2d-image-id19900.md)
@@ -38,7 +40,8 @@ Last updated: 2026-07-11 04:00 UTC
 - [why do edges of the surface model appear jagged](archive/rendered-topics/2021/2021-09/2021-09-29-why-do-edges-of-the-surface-model-appear-jagged-id19910.md)
 - [3d reconstruction from coronary angiogram](archive/rendered-topics/2021/2021-09/2021-09-30-3d-reconstruction-from-coronary-angiogram-id19931.md)
 - [cardiac mri loading erros](archive/rendered-topics/2021/2021-09/2021-09-30-cardiac-mri-loading-erros-id19926.md)
-- [detect the collosion of models and change model outlook real](archive/rendered-topics/2021/2021-09/2021-09-30-detect-the-collosion-of-models-and-change-model-outlook-real-id19921.md)
+- [issue with margin effect margin value sign](archive/rendered-topics/2021/2021-09/2021-09-26-issue-with-margin-effect-margin-value-sign-id19861.md)
+- [joint smoothing in jupyter](archive/rendered-topics/2021/2021-09/2021-09-26-joint-smoothing-in-jupyter-id19875.md)
 - [landmarks and mesh not aligned](archive/rendered-topics/2021/2021-09/2021-09-26-landmarks-and-mesh-not-aligned-id19864.md)
 - [show processing progress information in a module gui](archive/rendered-topics/2021/2021-09/2021-09-26-show-processing-progress-information-in-a-module-gui-id19859.md)
 - [slicermorph about values in sliders for pca deformation](archive/rendered-topics/2021/2021-09/2021-09-26-slicermorph-about-values-in-sliders-for-pca-deformation-id19858.md)
@@ -53,9 +56,6 @@ Last updated: 2026-07-11 04:00 UTC
 - [cant update extensions on the current stable](archive/rendered-topics/2021/2021-09/2021-09-28-cant-update-extensions-on-the-current-stable-id19901.md)
 - [couldnt reload whats wrong](archive/rendered-topics/2021/2021-09/2021-09-28-couldnt-reload-whats-wrong-id19893.md)
 - [diffusion module in 4 13 version cannot complete the reconst](archive/rendered-topics/2021/2021-09/2021-09-28-diffusion-module-in-4-13-version-cannot-complete-the-reconst-id19896.md)
-- [how to disable crosshair with mouse drag drop](archive/rendered-topics/2021/2021-09/2021-09-28-how-to-disable-crosshair-with-mouse-drag-drop-id19892.md)
+- [adjust wl window level using right mouse button](archive/rendered-topics/2021/2021-09/2021-09-25-adjust-wl-window-level-using-right-mouse-button-id19854.md)
 - [download and install extension snippet thows exception](archive/rendered-topics/2021/2021-09/2021-09-25-download-and-install-extension-snippet-thows-exception-id19849.md)
 - [getting roi bounds from vtkmrmlmarkupsroinode](archive/rendered-topics/2021/2021-09/2021-09-25-getting-roi-bounds-from-vtkmrmlmarkupsroinode-id19852.md)
-- [how can i fix this bug simpleitk msb8066](archive/rendered-topics/2021/2021-09/2021-09-25-how-can-i-fix-this-bug-simpleitk-msb8066-id19850.md)
-- [is there any way to get spharm pdm output when running from](archive/rendered-topics/2021/2021-09/2021-09-25-is-there-any-way-to-get-spharm-pdm-output-when-running-from-id19853.md)
-- [annotation in volume rendering](archive/rendered-topics/2021/2021-09/2021-09-26-annotation-in-volume-rendering-id19869.md)
