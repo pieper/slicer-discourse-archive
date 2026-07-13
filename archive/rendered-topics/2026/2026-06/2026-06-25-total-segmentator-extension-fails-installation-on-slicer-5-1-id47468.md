@@ -3,7 +3,7 @@ topic_id: 47468
 title: "Total Segmentator Extension Fails Installation on Slicer 5.12.0"
 date: 2026-06-25
 url: https://discourse.slicer.org/t/47468
-last_bumped: 2026-07-07T15:08:02.809Z
+last_bumped: 2026-07-12T12:28:55.521Z
 ---
 
 # Total Segmentator Extension Fails Installation on Slicer 5.12.0
@@ -35,5 +35,12 @@ Alex</p>
 ## Post #3 by @amyers (2026-07-07 15:08 UTC)
 
 <p><a class="mention" href="/u/lassoan">@lassoan</a> just spoke to me about this and the issue is resolved.</p>
+
+---
+
+## Post #4 by @johny723 (2026-07-12 12:28 UTC)
+
+<p>I keep having a similar issue - how do I fix this? Thanks!</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/a/d/ad437beb897dacb8b1d1c66d703b4b6e949c8355.jpeg" data-download-href="/uploads/short-url/oILbyexMiGlxXMrhb20MEluuBCZ.jpeg?dl=1" title="Snímek obrazovky 2026-07-12 142815" rel="noopener nofollow ugc"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/a/d/ad437beb897dacb8b1d1c66d703b4b6e949c8355_2_690x380.jpeg" alt="Snímek obrazovky 2026-07-12 142815" data-base62-sha1="oILbyexMiGlxXMrhb20MEluuBCZ" width="690" height="380" srcset="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/a/d/ad437beb897dacb8b1d1c66d703b4b6e949c8355_2_690x380.jpeg, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/a/d/ad437beb897dacb8b1d1c66d703b4b6e949c8355_2_1035x570.jpeg 1.5x, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/a/d/ad437beb897dacb8b1d1c66d703b4b6e949c8355_2_1380x760.jpeg 2x" data-dominant-color="A5A4A0"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">Snímek obrazovky 2026-07-12 142815</span><span class="informations">1920×1059 234 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
 
 ---

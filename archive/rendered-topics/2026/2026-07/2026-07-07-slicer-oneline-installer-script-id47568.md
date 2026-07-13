@@ -3,7 +3,7 @@ topic_id: 47568
 title: "Slicer oneline installer script"
 date: 2026-07-07
 url: https://discourse.slicer.org/t/47568
-last_bumped: 2026-07-10T18:29:01.841Z
+last_bumped: 2026-07-12T10:48:01.659Z
 ---
 
 # Slicer oneline installer script
@@ -133,5 +133,13 @@ Every version has its own installer and they use a different directory and provi
 <p><strong>On macOS</strong>:  there’s no PATH launcher at all; <code>open -a Slicer</code> resolves by bundle id through LaunchServices, and the script even warns that with multiple copies it may launch an unexpected one</p>
 <p><strong>On Windows</strong>: the launcher name is always <code>Slicer.exe</code> (different version live on different directories)</p>
 <p><strong>Bottom line:</strong> versions coexist on disk (on Linux and Windows), but the launchers are single, unversioned names that always track the most recent install — there’s no <code>Slicer-5.12</code> vs <code>Slicer-5.10</code> launcher to pick between.</p>
+
+---
+
+## Post #8 by @mau_igna_06 (2026-07-12 10:48 UTC)
+
+<p>Windows version of the command was failing if not executing from powershell, now that’s solved. New calling (from powershell or cmd):</p>
+<pre data-code-wrap="bash"><code class="lang-bash">powershell -c "irm https://raw.githubusercontent.com/mauigna06/slicer-installer/main/install.ps1 | iex"
+</code></pre>
 
 ---

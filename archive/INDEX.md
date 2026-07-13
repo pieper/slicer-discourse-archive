@@ -1,10 +1,10 @@
 # Slicer Discourse Archive Index
 
-Last updated: 2026-07-12 04:09 UTC
+Last updated: 2026-07-13 04:11 UTC
 
 ## Archive Contents
 
-- Total rendered topics: 19087
+- Total rendered topics: 19088
 - Raw JSON files: 0
 
 ## Recent Topics
@@ -15,6 +15,8 @@ Last updated: 2026-07-12 04:09 UTC
 - [README.md](archive/rendered-topics/2021/2021-05/README.md)
 - [README.md](archive/rendered-topics/2021/2021-03/README.md)
 - [README.md](archive/rendered-topics/2021/2021-02/README.md)
+- [3d reconstruction from coronary angiogram](archive/rendered-topics/2021/2021-09/2021-09-30-3d-reconstruction-from-coronary-angiogram-id19931.md)
+- [cardiac mri loading erros](archive/rendered-topics/2021/2021-09/2021-09-30-cardiac-mri-loading-erros-id19926.md)
 - [detect the collosion of models and change model outlook real](archive/rendered-topics/2021/2021-09/2021-09-30-detect-the-collosion-of-models-and-change-model-outlook-real-id19921.md)
 - [extensions updated code doesnt show on extensions manager](archive/rendered-topics/2021/2021-09/2021-09-30-extensions-updated-code-doesnt-show-on-extensions-manager-id19936.md)
 - [fiducials labels not visible](archive/rendered-topics/2021/2021-09/2021-09-30-fiducials-labels-not-visible-id19923.md)
@@ -25,6 +27,7 @@ Last updated: 2026-07-12 04:09 UTC
 - [segmentation visualization toggle is linked when it should n](archive/rendered-topics/2021/2021-09/2021-09-30-segmentation-visualization-toggle-is-linked-when-it-should-n-id19940.md)
 - [superbuild extension builds failed when python was installed](archive/rendered-topics/2021/2021-09/2021-09-30-superbuild-extension-builds-failed-when-python-was-installed-id19938.md)
 - [why clone a line node without display properties](archive/rendered-topics/2021/2021-09/2021-09-30-why-clone-a-line-node-without-display-properties-id19922.md)
+- [diffusion module in 4 13 version cannot complete the reconst](archive/rendered-topics/2021/2021-09/2021-09-28-diffusion-module-in-4-13-version-cannot-complete-the-reconst-id19896.md)
 - [how to disable crosshair with mouse drag drop](archive/rendered-topics/2021/2021-09/2021-09-28-how-to-disable-crosshair-with-mouse-drag-drop-id19892.md)
 - [how to group fiducial markups](archive/rendered-topics/2021/2021-09/2021-09-28-how-to-group-fiducial-markups-id19890.md)
 - [mac preview release build failed to load content in extensio](archive/rendered-topics/2021/2021-09/2021-09-28-mac-preview-release-build-failed-to-load-content-in-extensio-id19899.md)
@@ -38,8 +41,7 @@ Last updated: 2026-07-12 04:09 UTC
 - [the slice focus fun seems still perfect](archive/rendered-topics/2021/2021-09/2021-09-29-the-slice-focus-fun-seems-still-perfect-id19909.md)
 - [vtkslicermarkupsmodulemrml vtkmrmlmarkupsroinode has no len](archive/rendered-topics/2021/2021-09/2021-09-29-vtkslicermarkupsmodulemrml-vtkmrmlmarkupsroinode-has-no-len-id19903.md)
 - [why do edges of the surface model appear jagged](archive/rendered-topics/2021/2021-09/2021-09-29-why-do-edges-of-the-surface-model-appear-jagged-id19910.md)
-- [3d reconstruction from coronary angiogram](archive/rendered-topics/2021/2021-09/2021-09-30-3d-reconstruction-from-coronary-angiogram-id19931.md)
-- [cardiac mri loading erros](archive/rendered-topics/2021/2021-09/2021-09-30-cardiac-mri-loading-erros-id19926.md)
+- [how to make the stylus more smooth and stable](archive/rendered-topics/2021/2021-09/2021-09-26-how-to-make-the-stylus-more-smooth-and-stable-id19862.md)
 - [issue with margin effect margin value sign](archive/rendered-topics/2021/2021-09/2021-09-26-issue-with-margin-effect-margin-value-sign-id19861.md)
 - [joint smoothing in jupyter](archive/rendered-topics/2021/2021-09/2021-09-26-joint-smoothing-in-jupyter-id19875.md)
 - [landmarks and mesh not aligned](archive/rendered-topics/2021/2021-09/2021-09-26-landmarks-and-mesh-not-aligned-id19864.md)
@@ -55,7 +57,5 @@ Last updated: 2026-07-12 04:09 UTC
 - [auto general reg elastix with python interface](archive/rendered-topics/2021/2021-09/2021-09-28-auto-general-reg-elastix-with-python-interface-id19902.md)
 - [cant update extensions on the current stable](archive/rendered-topics/2021/2021-09/2021-09-28-cant-update-extensions-on-the-current-stable-id19901.md)
 - [couldnt reload whats wrong](archive/rendered-topics/2021/2021-09/2021-09-28-couldnt-reload-whats-wrong-id19893.md)
-- [diffusion module in 4 13 version cannot complete the reconst](archive/rendered-topics/2021/2021-09/2021-09-28-diffusion-module-in-4-13-version-cannot-complete-the-reconst-id19896.md)
-- [adjust wl window level using right mouse button](archive/rendered-topics/2021/2021-09/2021-09-25-adjust-wl-window-level-using-right-mouse-button-id19854.md)
-- [download and install extension snippet thows exception](archive/rendered-topics/2021/2021-09/2021-09-25-download-and-install-extension-snippet-thows-exception-id19849.md)
-- [getting roi bounds from vtkmrmlmarkupsroinode](archive/rendered-topics/2021/2021-09/2021-09-25-getting-roi-bounds-from-vtkmrmlmarkupsroinode-id19852.md)
+- [nrrd files segments to label map volume](archive/rendered-topics/2021/2021-09/2021-09-24-nrrd-files-segments-to-label-map-volume-id19841.md)
+- [which great god can make a plug in that can realize thetrans](archive/rendered-topics/2021/2021-09/2021-09-24-which-great-god-can-make-a-plug-in-that-can-realize-thetrans-id19835.md)
