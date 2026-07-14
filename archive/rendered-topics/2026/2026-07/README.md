@@ -25,4 +25,8 @@
 - [2026 07 08 Vicon And Qualisys Integration Into Plusserver Almost Done B](2026-07-08-vicon-and-qualisys-integration-into-plusserver-almost-done-b-id47580.md)
 - [2026 07 10 Slicer 5 12 Summary Highlights And Changelog](2026-07-10-slicer-5-12-summary-highlights-and-changelog-id47540.md)
 - [2026 07 10 Write 3D Model To Ct Images](2026-07-10-write-3d-model-to-ct-images-id47587.md)
+- [2026 07 12 Totalsegmentator Failed To Install Required Packages](2026-07-12-totalsegmentator-failed-to-install-required-packages-id47606.md)
+- [2026 07 13 Concurrent Slicer Mcp Session](2026-07-13-concurrent-slicer-mcp-session-id47612.md)
 - [2026 07 13 Converting Radial Artery From Dicom Ct Files And Segmentatio](2026-07-13-converting-radial-artery-from-dicom-ct-files-and-segmentatio-id47603.md)
+- [2026 07 13 Extract Slice View Rotations For Applying To Crop Volume Roi](2026-07-13-extract-slice-view-rotations-for-applying-to-crop-volume-roi-id47607.md)
+- [2026 07 13 How To Implement Real Time Surgical Navigation By Mapping In](2026-07-13-how-to-implement-real-time-surgical-navigation-by-mapping-in-id47604.md)

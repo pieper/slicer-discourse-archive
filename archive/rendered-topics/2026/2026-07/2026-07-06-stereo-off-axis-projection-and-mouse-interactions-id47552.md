@@ -3,7 +3,7 @@ topic_id: 47552
 title: "Stereo Off-Axis Projection and Mouse Interactions"
 date: 2026-07-06
 url: https://discourse.slicer.org/t/47552
-last_bumped: 2026-07-07T14:57:39.546Z
+last_bumped: 2026-07-13T11:18:19.530Z
 ---
 
 # Stereo Off-Axis Projection and Mouse Interactions
@@ -81,5 +81,11 @@ Is there any documentation or existing examples on implementing off-axis project
 <p>From my undestanding Slicer’s mouse interactor is dynamically updating the camera’s <code>Position</code>, <code>ViewUp</code>, and <code>DirectionOfProjection</code> as the user interacts, and my code reads those updates to dynamically recalculate the screen coordinates.</p>
 <p>The core issue is that as soon as <code>SetUseOffAxisProjection(True)</code> is enabled, the mouse interactor loses the ability to rotate the camera and the <code>ViewUp</code> vector becomes completely locked. Only translation continues to work.</p>
 <p>It feels like VTK’s internal off-axis calculations are fighting or overriding the interactor’s ability to modify the camera orientation. Is there a specific way to configure the interactor style or the camera so that rotation updates are still processed properly in off-axis mode?</p>
+
+---
+
+## Post #4 by @lassoan (2026-07-13 11:18 UTC)
+
+<p>If you just want to do since quick testing in python then you can add an observer with high priority that captures and consumes mouse move and button events. If you want to have a proper solution then you probably need to investigate what happens exactly in the mouse event handler in C++.</p>
 
 ---

@@ -3,7 +3,7 @@ topic_id: 47346
 title: "download fails/freezes on both direct connection and VPN (with academic license activated)"
 date: 2026-06-15
 url: https://discourse.slicer.org/t/47346
-last_bumped: 2026-06-16T12:44:05.316Z
+last_bumped: 2026-07-13T17:17:59.098Z
 ---
 
 # download fails/freezes on both direct connection and VPN (with academic license activated)
@@ -54,5 +54,16 @@ last_bumped: 2026-06-16T12:44:05.316Z
 <p>Due to the strict network firewall/instability in my hospital, could you please kindly provide a <strong>direct download link (e.g., a .zip file on Google Drive, Dropbox, or Zenodo)</strong> for the tissue_4_types (Task 485) model weights?</p>
 <p>​If I can download it via a browser (which supports resume), I can manually extract it into my %USERPROFILE%\.totalsegmentator\nnunet\results folder.</p>
 <p>​Thank you so much for your understanding and support!</p>
+
+---
+
+## Post #3 by @Jingtao_Chen (2026-07-13 17:17 UTC)
+
+<p>Hi <a class="mention" href="/u/tomy_roster">@Tomy_Roster</a>,</p>
+<p>I saw your post about the <code>tissue_4_types</code> download issue. I’m experiencing exactly the same problem — the download stalls at around 86% (202MB/233MB) with <code>IncompleteRead</code> / <code>ChunkedEncodingError</code>.</p>
+<p>I’ve also tried using a VPN but it didn’t help.</p>
+<p>Were you able to resolve this issue? Did you find a way to get the weights or a direct download link?</p>
+<p>Any advice would be greatly appreciated!</p>
+<p>Thanks!</p>
 
 ---

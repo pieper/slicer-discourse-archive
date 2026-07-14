@@ -3,7 +3,7 @@ topic_id: 44967
 title: "Asking question about GLCM per angle in radiomics"
 date: 2025-11-05
 url: https://discourse.slicer.org/t/44967
-last_bumped: 2026-07-05T11:10:47.145Z
+last_bumped: 2026-07-14T01:06:23.335Z
 ---
 
 # Asking question about GLCM per angle in radiomics
@@ -397,5 +397,12 @@ radiomic_features = jl.Radiomics.extract_radiomic_features(img, mask, spacing, k
 <p>I finally understand the specific difference between the <code>weightingNorm</code> parameter  [None] and [‘no_weighting’].</p>
 <p>I have revised this post. I previously posted under the mistaken impression that the rotational dependence of GLCM is controlled by the <code>weightingNorm</code> parameter.</p>
 <p>I now understand that the difference between <code>[None]</code> and <code>['no_weighting']</code> for this parameter lies in the extent to which image anisotropy is preserved. <code>[None]</code> preserves anisotropy more strongly, whereas <code>['no_weighting']</code> preserves it to a lesser degree—meaning the data is more prone to relative averaging.</p>
+
+---
+
+## Post #17 by @aujinen (2026-07-14 01:06 UTC)
+
+<p>I had suspected that sensitivity to anisotropy might differ between [None] and [‘no_weighting’], but it appears one cannot categorically state which offers higher sensitivity. While the relationship does not hold perfectly due to the asymmetry in where the normalization process is applied, the two generally follow the relationship defined by Jensen’s inequality for convex functions.</p>
+<p>In any case, regarding anisotropy, it might be better to directly use the “GLCM” for each angle obtained during the [None] calculation process.</p>
 
 ---
