@@ -3,7 +3,7 @@ topic_id: 46206
 title: "Abdominal Muscle Segmentation any better ways to approach this?"
 date: 2026-02-18
 url: https://discourse.slicer.org/t/46206
-last_bumped: 2026-02-19T02:36:15.350Z
+last_bumped: 2026-07-14T16:00:34.093Z
 ---
 
 # Abdominal Muscle Segmentation any better ways to approach this?
@@ -50,5 +50,13 @@ Ron</p>
 <p>Given the scale you’re working at and want to reach, this is worth solving properly.</p>
 <p>I work as a freelancer on medical imaging segmentation projects like this ….body composition workflows are something I’ve optimized before. If you’d like to discuss how to fix your workflow so you can actually scale your study, DM me. Happy to look at your data and give you specific recommendations.</p>
 <p>You’ve already invested 4 months…getting this right now will save you that much time on the next 100+ patients.</p>
+
+---
+
+## Post #4 by @kennethaweberii (2026-07-14 16:00 UTC)
+
+<p>The free and open-source MuscleMap extension can provide muscle segmentation: <a href="https://discourse.slicer.org/t/new-extension-musclemap-automated-whole-body-muscle-segmentation/47364" class="inline-onebox">New extension: MuscleMap --  Automated Whole-Body Muscle Segmentation</a></p>
+<p>We are working towards automated whole-body contrast-agnostic muscle segmentation for MRI and CT. The current model does not include the abdominal muscles, but we can work with you to develop a solution. Please feel free to reply to the MuscleMap extension in the new topic via the above link.</p>
+<p>Also, feel free to suggest any new features that may be helpful for your needs. We are here to help!</p>
 
 ---

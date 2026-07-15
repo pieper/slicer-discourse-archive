@@ -1,8 +1,9 @@
 ---
 topic_id: 6197
-title: "Muscle Segmentation"
+title: "Muscle segmentation"
 date: 2019-03-18
 url: https://discourse.slicer.org/t/6197
+last_bumped: 2026-07-14T15:55:55.189Z
 ---
 
 # Muscle segmentation
@@ -56,5 +57,13 @@ I already watched the tutorials on the bones and the heart segmentation; my ques
 I have had the confirmation from my radiologist boss that it was  the segmentation was well part of my job.</p>
 <p>I had not tried the option fill beween slices, and I am glad to hear about it.</p>
 <p>Have a good day.</p>
+
+---
+
+## Post #6 by @kennethaweberii (2026-07-14 15:55 UTC)
+
+<p>The free and open-source MuscleMap extension may be helpful: <a href="https://discourse.slicer.org/t/new-extension-musclemap-automated-whole-body-muscle-segmentation/47364" class="inline-onebox">New extension: MuscleMap --  Automated Whole-Body Muscle Segmentation</a></p>
+<p>We are working towards automated whole-body contrast-agnostic muscle segmentation for MRI and CT. Please post any questions on the MuscleMap extension in the new topic via the above link.</p>
+<p>Also, feel free to suggest any new features that may be helpful for your needs. We are here to help!</p>
 
 ---

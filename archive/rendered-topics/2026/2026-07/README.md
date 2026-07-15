@@ -30,3 +30,5 @@
 - [2026 07 13 Converting Radial Artery From Dicom Ct Files And Segmentatio](2026-07-13-converting-radial-artery-from-dicom-ct-files-and-segmentatio-id47603.md)
 - [2026 07 13 Extract Slice View Rotations For Applying To Crop Volume Roi](2026-07-13-extract-slice-view-rotations-for-applying-to-crop-volume-roi-id47607.md)
 - [2026 07 13 How To Implement Real Time Surgical Navigation By Mapping In](2026-07-13-how-to-implement-real-time-surgical-navigation-by-mapping-in-id47604.md)
+- [2026 07 14 Disabling Nightly Builds On 2026 07 15 To Build Slicer 5 12](2026-07-14-disabling-nightly-builds-on-2026-07-15-to-build-slicer-5-12-id47617.md)
+- [2026 07 14 What Is The Difference Between Getcolor And Getselectedcolor](2026-07-14-what-is-the-difference-between-getcolor-and-getselectedcolor-id47613.md)

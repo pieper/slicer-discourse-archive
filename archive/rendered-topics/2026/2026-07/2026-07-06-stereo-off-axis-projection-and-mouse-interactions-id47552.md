@@ -3,7 +3,7 @@ topic_id: 47552
 title: "Stereo Off-Axis Projection and Mouse Interactions"
 date: 2026-07-06
 url: https://discourse.slicer.org/t/47552
-last_bumped: 2026-07-13T11:18:19.530Z
+last_bumped: 2026-07-14T18:22:48.277Z
 ---
 
 # Stereo Off-Axis Projection and Mouse Interactions
@@ -87,5 +87,12 @@ Is there any documentation or existing examples on implementing off-axis project
 ## Post #4 by @lassoan (2026-07-13 11:18 UTC)
 
 <p>If you just want to do since quick testing in python then you can add an observer with high priority that captures and consumes mouse move and button events. If you want to have a proper solution then you probably need to investigate what happens exactly in the mouse event handler in C++.</p>
+
+---
+
+## Post #5 by @Tomas_Gomes (2026-07-14 18:22 UTC)
+
+<p>Hello Mr.Andras Lasso!</p>
+<p>My name is Tomás. I´m a Medical Student from Portugal and I´m currently exploring the 3D Slicer app and it´s extensions for CT scan images of the spine. I am new on this 3D Slicer forum, so I wasn´t able to send you a message. Is it possible to ask you some questions via e-mail or even in this forum through direct messaging if feasible? Thank you for your time in advance!</p>
 
 ---

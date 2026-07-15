@@ -1,8 +1,9 @@
 ---
 topic_id: 7963
-title: "A Quick Easy Method To Segment Individual Muscles"
+title: "A quick/easy method to segment individual muscles "
 date: 2019-08-09
 url: https://discourse.slicer.org/t/7963
+last_bumped: 2026-07-14T19:53:25.662Z
 ---
 
 # A quick/easy method to segment individual muscles 
@@ -54,5 +55,11 @@ Tom</p>
 </blockquote>
 </aside>
 <p>I agree, “Fill between slices” effect was used successfully for muscle segmentation in other projects (should work better than Scissors effect, even if you restrict to operate only around the current slice).</p>
+
+---
+
+## Post #4 by @kennethaweberii (2026-07-14 19:53 UTC)
+
+<p>The MuscleMap extension can provide automated individual muscle segmentation of the thighs: <a href="https://discourse.slicer.org/t/new-extension-musclemap-automated-whole-body-muscle-segmentation/47364" class="inline-onebox">New extension: MuscleMap --  Automated Whole-Body Muscle Segmentation</a> Please feel free to reply with questions or feedback to the MuscleMap extension in the new topic via the above link.</p>
 
 ---

@@ -3,7 +3,7 @@ topic_id: 47582
 title: "TIFF volume orientation does not match source STL orientation"
 date: 2026-07-08
 url: https://discourse.slicer.org/t/47582
-last_bumped: 2026-07-13T22:05:40.470Z
+last_bumped: 2026-07-14T18:16:39.583Z
 ---
 
 # TIFF volume orientation does not match source STL orientation
@@ -108,5 +108,18 @@ last_bumped: 2026-07-13T22:05:40.470Z
 0	0	-1	0<br>
 0	0	0	1</p>
 <p>Therefore, in MATLAB I simply applied Tz to the AUT models to ensure that they are in the same space as the TIFF when imported into SAM. The tracking is then bringing the new models into the correct position.</p>
+
+---
+
+## Post #8 by @John_Holtgrewe (2026-07-14 18:12 UTC)
+
+<p>Glad you found a solution. This jogged my memory a little bit. This was a while ago, but I remember now that we encountered problems with the transforms and applying the tracking to models when developing our pipeline in MATLAB. This stemmed from MATLAB and Slicer not using the same coordinate systems, which had to be accounted for. 3DSlicer uses Right-Anterior-Superior (RAS), whereas MATLAB uses Left-Posterior-Superior (LPS).  This is documented <a href="https://autoscoper.readthedocs.io/en/latest/transforms.html" rel="noopener nofollow ugc">here</a>.</p>
+
+---
+
+## Post #9 by @tbugajski (2026-07-14 18:16 UTC)
+
+<p>Yes, I did forget to mention that I needed to convert that Tz matrix to IJK in Matlab! That’s why the translation becomes positive rather than negative.</p>
+<p>I do wonder why the STL models are processed differently than the CT based models. Did you ever get a chance to try out your recent implant data?</p>
 
 ---
