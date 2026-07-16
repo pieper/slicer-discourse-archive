@@ -3,7 +3,7 @@ topic_id: 35964
 title: "Is it possible to scroll by dragging the mouse in the current view?"
 date: 2024-05-07
 url: https://discourse.slicer.org/t/35964
-last_bumped: 2026-07-13T11:10:13.279Z
+last_bumped: 2026-07-15T23:02:57.043Z
 ---
 
 # Is it possible to scroll by dragging the mouse in the current view?
@@ -153,5 +153,11 @@ Added new icon (stack with blue up/down arrow) to the toolbar and shortcut to vi
 </aside>
 
 <p>Your inputs would be very welcome.</p>
+
+---
+
+## Post #9 by @Y_A (2026-07-15 23:02 UTC)
+
+<p>Is there a beta version of 3D slicer with this implemented or do I add it as a module?</p>
 
 ---

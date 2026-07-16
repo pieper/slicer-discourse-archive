@@ -32,3 +32,7 @@
 - [2026 07 13 How To Implement Real Time Surgical Navigation By Mapping In](2026-07-13-how-to-implement-real-time-surgical-navigation-by-mapping-in-id47604.md)
 - [2026 07 14 Disabling Nightly Builds On 2026 07 15 To Build Slicer 5 12](2026-07-14-disabling-nightly-builds-on-2026-07-15-to-build-slicer-5-12-id47617.md)
 - [2026 07 14 What Is The Difference Between Getcolor And Getselectedcolor](2026-07-14-what-is-the-difference-between-getcolor-and-getselectedcolor-id47613.md)
+- [2026 07 15 2026 07 21 Weekly Meeting](2026-07-15-2026-07-21-weekly-meeting-id47635.md)
+- [2026 07 15 Accidental Direct Commit To Main](2026-07-15-accidental-direct-commit-to-main-id47641.md)
+- [2026 07 15 Good Morning Everyone Im Having Problems With The Execution](2026-07-15-good-morning-everyone-im-having-problems-with-the-execution-id47634.md)
+- [2026 07 15 Segment Tooth Enamel And Pulp From Totalsegmentator Tooth By](2026-07-15-segment-tooth-enamel-and-pulp-from-totalsegmentator-tooth-by-id47637.md)

@@ -3,7 +3,7 @@ topic_id: 47582
 title: "TIFF volume orientation does not match source STL orientation"
 date: 2026-07-08
 url: https://discourse.slicer.org/t/47582
-last_bumped: 2026-07-14T18:16:39.583Z
+last_bumped: 2026-07-15T16:08:41.625Z
 ---
 
 # TIFF volume orientation does not match source STL orientation
@@ -121,5 +121,11 @@ last_bumped: 2026-07-14T18:16:39.583Z
 
 <p>Yes, I did forget to mention that I needed to convert that Tz matrix to IJK in Matlab! That’s why the translation becomes positive rather than negative.</p>
 <p>I do wonder why the STL models are processed differently than the CT based models. Did you ever get a chance to try out your recent implant data?</p>
+
+---
+
+## Post #10 by @John_Holtgrewe (2026-07-15 16:08 UTC)
+
+<p>I did and ran into the same problems when trying to use our pipeline for CT based models. The models required additional translations in the y- and z-axes, but did line up. I’m not sure why these models would be processed differently, but is something we will look into.</p>
 
 ---

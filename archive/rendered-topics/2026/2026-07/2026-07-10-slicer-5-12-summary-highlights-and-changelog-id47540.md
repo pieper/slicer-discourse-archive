@@ -3,7 +3,7 @@ topic_id: 47540
 title: "Slicer 5.12: Summary, Highlights, and Changelog"
 date: 2026-07-10
 url: https://discourse.slicer.org/t/47540
-last_bumped: 2026-07-10T20:10:00.450Z
+last_bumped: 2026-07-16T01:36:38.552Z
 ---
 
 # Slicer 5.12: Summary, Highlights, and Changelog
@@ -530,5 +530,14 @@ last_bumped: 2026-07-10T20:10:00.450Z
 <p>dlopen(/Applications/Slicer.app/Contents/Extensions-34624/SegmentEditorExtraEffects/lib/Slicer-5.12/qt-loadable-modules/vtkSlicerSegmentEditorFastMarchingModuleLogicPython.so, 0x0002): Library not loaded: libopenjp2.7.dylib</p>
 <p>Referenced from: &lt;8AB6103B-BD3F-3B06-B823-E5A294A0BE71&gt; /Applications/Slicer.app/Contents/Extensions-34624/SegmentEditorExtraEffects/lib/Slicer-5.12/libdcmjp2kcs.20.dylib</p>
 <p>Reason: tried: ‘libopenjp2.7.dylib’ (relative path not allowed in hardened program), ‘/System/Volumes/Preboot/Cryptexes/OSlibopenjp2.7.dylib’ (no such file), ‘libopenjp2.7.dylib’ (relative path not allowed in hardened program)</p>
+
+---
+
+## Post #7 by @ebrahim (2026-07-16 01:36 UTC)
+
+<h1><a name="p-134932-changelog-5122-1" class="anchor" href="#p-134932-changelog-5122-1" aria-label="Heading link"></a>Changelog: 5.12.2</h1>
+<ul>
+<li>Clean rebuild of 5.12.1, no other changes.</li>
+</ul>
 
 ---
