@@ -3,7 +3,7 @@ topic_id: 47637
 title: "Segment tooth enamel and pulp from TotalSegmentator tooth-by-tooth"
 date: 2026-07-15
 url: https://discourse.slicer.org/t/47637
-last_bumped: 2026-07-15T14:23:47.914Z
+last_bumped: 2026-07-16T12:51:25.426Z
 ---
 
 # Segment tooth enamel and pulp from TotalSegmentator tooth-by-tooth
@@ -21,5 +21,24 @@ last_bumped: 2026-07-15T14:23:47.914Z
 <p>Since the purpose is 3D printing a complete jaw where teeth should fit perfectly into the bone, I’m trying to avoid smoothing until I can do a joint smoothing of all tooth parts and bone in the same go, to hopefully not move any boudaries. I hope this makes sense.</p>
 <p>Thank you for any input!</p>
 <p><div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/0/8/08d34fa067428245d116b00baa8a9bad6270b86b.jpeg" data-download-href="/uploads/short-url/1g4ychlpLgijBHxq5ZjQBTt4PeH.jpeg?dl=1" title="dentine_enamel_split" rel="noopener nofollow ugc"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/0/8/08d34fa067428245d116b00baa8a9bad6270b86b_2_655x500.jpeg" alt="dentine_enamel_split" data-base62-sha1="1g4ychlpLgijBHxq5ZjQBTt4PeH" width="655" height="500" srcset="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/0/8/08d34fa067428245d116b00baa8a9bad6270b86b_2_655x500.jpeg, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/0/8/08d34fa067428245d116b00baa8a9bad6270b86b_2_982x750.jpeg 1.5x, https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/0/8/08d34fa067428245d116b00baa8a9bad6270b86b.jpeg 2x" data-dominant-color="9A90C0"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">dentine_enamel_split</span><span class="informations">1161×885 81 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
+
+---
+
+## Post #2 by @finetjul (2026-07-16 07:04 UTC)
+
+<p>If the problem is only in 3D and not in 2D, it probably means that you need to check the 2D to 3D “smoothing” parameter.</p>
+
+---
+
+## Post #3 by @r_vorup (2026-07-16 10:51 UTC)
+
+<p>Thank you for the suggestion, but it is present also in 2D, so it is not just a question of the 3D visualization.</p>
+
+---
+
+## Post #4 by @finetjul (2026-07-16 12:51 UTC)
+
+<p>I’m not sure to understand what you “thresholded” then.</p>
+<p>You could use the segmented tooth as a “mask” to then apply the threshold. You are ensured that the thresholded voxels only belong to the previously segmented voxels.</p>
 
 ---
