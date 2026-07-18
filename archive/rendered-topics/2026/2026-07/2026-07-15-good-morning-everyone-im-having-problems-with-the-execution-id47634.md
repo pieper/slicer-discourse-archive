@@ -3,7 +3,7 @@ topic_id: 47634
 title: "Good morning everyone! I'm having problems with the execution of the total segmentator module, I thought it was something installation, as version 5.10 was running I updated to 5.12.1 but it keeps the same error only with this module"
 date: 2026-07-15
 url: https://discourse.slicer.org/t/47634
-last_bumped: 2026-07-15T16:28:24.584Z
+last_bumped: 2026-07-17T21:04:05.517Z
 ---
 
 # Good morning everyone! I'm having problems with the execution of the total segmentator module, I thought it was something installation, as version 5.10 was running I updated to 5.12.1 but it keeps the same error only with this module
@@ -24,5 +24,11 @@ last_bumped: 2026-07-15T16:28:24.584Z
 ## Post #2 by @madsmess (2026-07-15 16:28 UTC)
 
 <p>My workaround for this problem was to uninstall Slicer, delete the app files from AppData, and reinstall Slicer inside the C drive (not in any subfolder, just inside the drive itself)</p>
+
+---
+
+## Post #3 by @Cromwell (2026-07-17 21:04 UTC)
+
+<p>I tried this, but nothing done! Already do the same error</p>
 
 ---

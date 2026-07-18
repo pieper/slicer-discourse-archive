@@ -3,7 +3,7 @@ topic_id: 47404
 title: "Fail to Compute Results using TotalSegmentator (returned non-zero exist status 1)"
 date: 2026-06-20
 url: https://discourse.slicer.org/t/47404
-last_bumped: 2026-06-21T15:41:11.118Z
+last_bumped: 2026-07-18T02:38:40.487Z
 ---
 
 # Fail to Compute Results using TotalSegmentator (returned non-zero exist status 1)
@@ -35,5 +35,11 @@ subprocess.CalledProcessError: Command '['F:/3DSlicer/3D Slicer 5.11.0-2026-06-1
 ## Post #2 by @ThomasVanParys (2026-06-21 15:41 UTC)
 
 <p>I would uninstall and reinstall TotalSegmentator with the latest Python version. What is the RAM/CPU parameters on your device? That could also be a reason. Try TotalSegmentator with the modules test data first to see if this works…</p>
+
+---
+
+## Post #3 by @qn_Huynh (2026-07-18 02:38 UTC)
+
+<p>Thank you, I have tried 2 different versions of 3D Slicer and Python, I think they re conflicting each other</p>
 
 ---
