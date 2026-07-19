@@ -3,7 +3,7 @@ topic_id: 47660
 title: "Slicer crashes on startup due to SlicerVMTK extension"
 date: 2026-07-17
 url: https://discourse.slicer.org/t/47660
-last_bumped: 2026-07-17T21:06:16.230Z
+last_bumped: 2026-07-18T15:35:22.249Z
 ---
 
 # Slicer crashes on startup due to SlicerVMTK extension
@@ -52,5 +52,70 @@ last_bumped: 2026-07-17T21:06:16.230Z
 ## Post #5 by @ebrahim (2026-07-17 21:06 UTC)
 
 <p>The PR fixing the original issue is merged, but for some macOS-specific reason that I don’t yet understand there is a further problem that only applies to signed+notarized releases. The preview releases are unsigned, making them okay</p>
+
+---
+
+## Post #6 by @lassoan (2026-07-18 15:27 UTC)
+
+<p>Sorry for the inconvenience. Until Slicer-5.12 is fixed, you can use a Slicer Preview Release (Slicer-5.13) on macOS if you need to use any extensions that contain C++ modules.</p>
+
+---
+
+## Post #7 by @lassoan (2026-07-18 15:35 UTC)
+
+<p>I submitted an issue that we can mention at all related error reports and people can follow to get updates:</p>
+<aside class="onebox githubissue" data-onebox-src="https://github.com/Slicer/Slicer/issues/9295">
+  <header class="source">
+
+      <a href="https://github.com/Slicer/Slicer/issues/9295" target="_blank" rel="noopener">github.com/Slicer/Slicer</a>
+  </header>
+
+  <article class="onebox-body">
+    <div class="github-row">
+  <div class="github-icon-container" title="Issue" data-github-private-repo="false">
+	  <svg width="60" height="60" class="github-icon" viewBox="0 0 14 16" aria-hidden="true"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"></path></svg>
+  </div>
+
+  <div class="github-info-container">
+    <h4>
+      <a href="https://github.com/Slicer/Slicer/issues/9295" target="_blank" rel="noopener">Several extensions (MarkupsToModel, VMTK, etc.) fail on Slicer-5.12 on macOS</a>
+    </h4>
+
+    <div class="github-info">
+      <div class="date">
+        opened <span class="discourse-local-date" data-format="ll" data-date="2026-07-18" data-time="15:33:40" data-timezone="UTC">03:33PM - 18 Jul 26 UTC</span>
+      </div>
+
+
+      <div class="user">
+        <a href="https://github.com/lassoan" target="_blank" rel="noopener">
+          <img alt="" src="https://avatars.githubusercontent.com/u/307929?v=4" class="onebox-avatar-inline" width="20" height="20">
+          lassoan
+        </a>
+      </div>
+    </div>
+
+    <div class="labels">
+    </div>
+  </div>
+</div>
+
+  <div class="github-row">
+    <p class="github-body-container">Extensions that contain compiled C++ code, such as MarkupsToModel and VMTK fail <span class="show-more-container"><a href="" rel="noopener" class="show-more">…</a></span><span class="excerpt hidden">on Slicer-5.12 on macOS.
+
+See for example this error report:
+https://discourse.slicer.org/t/slicer-crashes-on-startup-due-to-slicervmtk-extension/47660</span></p>
+  </div>
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
 
 ---

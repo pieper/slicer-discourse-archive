@@ -36,6 +36,7 @@
 - [2026 07 15 Accidental Direct Commit To Main](2026-07-15-accidental-direct-commit-to-main-id47641.md)
 - [2026 07 15 Good Morning Everyone Im Having Problems With The Execution](2026-07-15-good-morning-everyone-im-having-problems-with-the-execution-id47634.md)
 - [2026 07 15 Segment Tooth Enamel And Pulp From Totalsegmentator Tooth By](2026-07-15-segment-tooth-enamel-and-pulp-from-totalsegmentator-tooth-by-id47637.md)
+- [2026 07 15 Total Segmentator Module Returned With Non Zero Exit Status](2026-07-15-total-segmentator-module-returned-with-non-zero-exit-status-id47634.md)
 - [2026 07 16 Island Tool Inside A Segment Removes The Whole Segment](2026-07-16-island-tool-inside-a-segment-removes-the-whole-segment-id47649.md)
 - [2026 07 17 Brachial Plexus And Subclavian Vessel Segmentation](2026-07-17-brachial-plexus-and-subclavian-vessel-segmentation-id47657.md)
 - [2026 07 17 Multi Slice Variable Intensity Threshold Grow From Seeds](2026-07-17-multi-slice-variable-intensity-threshold-grow-from-seeds-id47661.md)
@@ -45,3 +46,4 @@
 - [2026 07 17 Segment Not Working](2026-07-17-segment-not-working-id47659.md)
 - [2026 07 17 Slicer Aurs Throw Cmake Errors](2026-07-17-slicer-aurs-throw-cmake-errors-id47654.md)
 - [2026 07 17 Slicer Crashes On Startup Due To Slicervmtk Extension](2026-07-17-slicer-crashes-on-startup-due-to-slicervmtk-extension-id47660.md)
+- [2026 07 18 Contact Information To Include Within Company Software Catal](2026-07-18-contact-information-to-include-within-company-software-catal-id47676.md)
