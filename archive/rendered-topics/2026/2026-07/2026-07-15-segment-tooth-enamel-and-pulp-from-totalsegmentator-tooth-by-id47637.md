@@ -3,7 +3,7 @@ topic_id: 47637
 title: "Segment tooth enamel and pulp from TotalSegmentator tooth-by-tooth"
 date: 2026-07-15
 url: https://discourse.slicer.org/t/47637
-last_bumped: 2026-07-16T12:51:25.426Z
+last_bumped: 2026-07-19T18:11:58.498Z
 ---
 
 # Segment tooth enamel and pulp from TotalSegmentator tooth-by-tooth
@@ -40,5 +40,38 @@ last_bumped: 2026-07-16T12:51:25.426Z
 
 <p>I’m not sure to understand what you “thresholded” then.</p>
 <p>You could use the segmented tooth as a “mask” to then apply the threshold. You are ensured that the thresholded voxels only belong to the previously segmented voxels.</p>
+
+---
+
+## Post #5 by @Lukon (2026-07-19 18:11 UTC)
+
+<p>I wrote an extension that performs anatomical segmentation of a tooth starting from micro-CT. It separates the tooth into enamel and dentin using a threshold-based segmentation pipeline.</p>
+<p>I am not very familiar with CBCT scans, and I have never tested the extension with them, but it might work for your use case.</p>
+<p>The extension is currently still in code review and is not available through the Slicer Extension Manager. However, you can install it manually by importing the main branch of the extension:</p>
+<aside class="onebox githubrepo" data-onebox-src="https://github.com/lukaskonietzka/SlicerToothAnalyser">
+  <header class="source">
+
+      <a href="https://github.com/lukaskonietzka/SlicerToothAnalyser" target="_blank" rel="noopener nofollow ugc">github.com</a>
+  </header>
+
+  <article class="onebox-body">
+    <div class="github-row" data-github-private-repo="false">
+  <img width="690" height="344" src="https://opengraph.githubassets.com/d9f43b338e27f3f2f43debdf2ab20bc7/lukaskonietzka/SlicerToothAnalyser" class="thumbnail">
+
+  <h3><a href="https://github.com/lukaskonietzka/SlicerToothAnalyser" target="_blank" rel="noopener nofollow ugc">GitHub - lukaskonietzka/SlicerToothAnalyser: This 3D Slicer Extension provides specialized...</a></h3>
+
+    <p><span class="github-repo-description">This 3D Slicer Extension provides specialized preprocessing, segmentation, and analysis features tailored for the analysis of tooth anatomy and pathology starting from µCT</span></p>
+</div>
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
 
 ---
