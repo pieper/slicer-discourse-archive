@@ -3,7 +3,7 @@ topic_id: 47634
 title: "Total segmentator module returned with non-zero exit status 1 on to 5.12.1"
 date: 2026-07-15
 url: https://discourse.slicer.org/t/47634
-last_bumped: 2026-07-19T01:59:45.653Z
+last_bumped: 2026-07-21T01:07:02.654Z
 ---
 
 # Total segmentator module returned with non-zero exit status 1 on to 5.12.1
@@ -200,6 +200,70 @@ nnunetv2: 2.6.2
     </code></pre>
 
 
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
+
+---
+
+## Post #7 by @lassoan (2026-07-21 01:07 UTC)
+
+<p>Thanks for the report and the investigation! I’ve pushed an update to the TotalSegmentator extension to update to 2.14.0.</p>
+<aside class="onebox githubcommit" data-onebox-src="https://github.com/lassoan/SlicerTotalSegmentator/commit/270cac20b78a282505e4f6a25d268666e4056019">
+  <header class="source">
+
+      <a href="https://github.com/lassoan/SlicerTotalSegmentator/commit/270cac20b78a282505e4f6a25d268666e4056019" target="_blank" rel="noopener">github.com/lassoan/SlicerTotalSegmentator</a>
+  </header>
+
+  <article class="onebox-body">
+    <div class="github-row">
+  <div class="github-icon-container" title="Commit">
+    <svg width="60" height="60" class="github-icon" viewBox="0 0 14 16" aria-hidden="true"><path fill-rule="evenodd" d="M10.86 7c-.45-1.72-2-3-3.86-3-1.86 0-3.41 1.28-3.86 3H0v2h3.14c.45 1.72 2 3 3.86 3 1.86 0 3.41-1.28 3.86-3H14V7h-3.14zM7 10.2c-1.22 0-2.2-.98-2.2-2.2 0-1.22.98-2.2 2.2-2.2 1.22 0 2.2.98 2.2 2.2 0 1.22-.98 2.2-2.2 2.2z"></path></svg>
+  </div>
+
+  <div class="github-info-container">
+    <h4>
+      <a href="https://github.com/lassoan/SlicerTotalSegmentator/commit/270cac20b78a282505e4f6a25d268666e4056019" target="_blank" rel="noopener">ENH: Update TotalSegmentator to v2.14.0</a>
+    </h4>
+
+    <div class="github-info">
+      <div class="date">
+        committed <span class="discourse-local-date" data-format="ll" data-date="2026-07-21" data-time="01:05:14" data-timezone="UTC">01:05AM - 21 Jul 26 UTC</span>
+      </div>
+
+      <div class="user">
+        <a href="https://github.com/lassoan" target="_blank" rel="noopener">
+          <img alt="" src="https://avatars.githubusercontent.com/u/307929?v=4" class="onebox-avatar-inline" width="20" height="20">
+          lassoan
+        </a>
+      </div>
+
+      <div class="lines" title="changed 1 files with 1 additions and 1 deletions">
+        <a href="https://github.com/lassoan/SlicerTotalSegmentator/commit/270cac20b78a282505e4f6a25d268666e4056019" target="_blank" rel="noopener">
+          <span class="added">+1</span>
+          <span class="removed">-1</span>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+
+  <div class="github-row">
+    <p class="github-body-container">Fixes the issue reported at
+https://discourse.slicer.org/t/total-segmentator-mod<span class="show-more-container"><a href="https://github.com/lassoan/SlicerTotalSegmentator/commit/270cac20b78a282505e4f6a25d268666e4056019" target="_blank" rel="noopener" class="show-more">…</a></span><span class="excerpt hidden">ule-returned-with-non-zero-exit-status-1-on-to-5-12-1/47634/5
+
+Package requirements (torch&gt;=2.1.2, nnunetv2&gt;=2.3.1) and the task/label
+maps in map_to_binary.py are unchanged from v2.13.0, so no other updates
+are needed.</span></p>
+  </div>
 
   </article>
 

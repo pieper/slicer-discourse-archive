@@ -47,3 +47,4 @@
 - [2026 07 17 Slicer Aurs Throw Cmake Errors](2026-07-17-slicer-aurs-throw-cmake-errors-id47654.md)
 - [2026 07 17 Slicer Crashes On Startup Due To Slicervmtk Extension](2026-07-17-slicer-crashes-on-startup-due-to-slicervmtk-extension-id47660.md)
 - [2026 07 18 Contact Information To Include Within Company Software Catal](2026-07-18-contact-information-to-include-within-company-software-catal-id47676.md)
+- [2026 07 20 Accidentally Moving All Markups In A Pointlist](2026-07-20-accidentally-moving-all-markups-in-a-pointlist-id47685.md)
