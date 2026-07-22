@@ -48,3 +48,8 @@
 - [2026 07 17 Slicer Crashes On Startup Due To Slicervmtk Extension](2026-07-17-slicer-crashes-on-startup-due-to-slicervmtk-extension-id47660.md)
 - [2026 07 18 Contact Information To Include Within Company Software Catal](2026-07-18-contact-information-to-include-within-company-software-catal-id47676.md)
 - [2026 07 20 Accidentally Moving All Markups In A Pointlist](2026-07-20-accidentally-moving-all-markups-in-a-pointlist-id47685.md)
+- [2026 07 21 Errores No Funciona Nada](2026-07-21-errores-no-funciona-nada-id47706.md)
+- [2026 07 21 Freelance Opportunity 3D Slicer Expert For Dental Cbct Annot](2026-07-21-freelance-opportunity-3d-slicer-expert-for-dental-cbct-annot-id47704.md)
+- [2026 07 21 How Do Patient Specific Pelvis Implants Improve Complex Pelv](2026-07-21-how-do-patient-specific-pelvis-implants-improve-complex-pelv-id47703.md)
+- [2026 07 21 How To Segment Ligaments On 3D T1W Mri Images](2026-07-21-how-to-segment-ligaments-on-3d-t1w-mri-images-id47705.md)
+- [2026 07 21 Pytomography Extension Is Not Compatible With 3D Slicer 5 12](2026-07-21-pytomography-extension-is-not-compatible-with-3d-slicer-5-12-id47702.md)

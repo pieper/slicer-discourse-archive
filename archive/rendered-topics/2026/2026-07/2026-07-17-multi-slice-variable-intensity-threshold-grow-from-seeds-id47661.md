@@ -3,7 +3,7 @@ topic_id: 47661
 title: "Multi slice variable intensity threshold (Grow from seeds)"
 date: 2026-07-17
 url: https://discourse.slicer.org/t/47661
-last_bumped: 2026-07-17T21:41:54.558Z
+last_bumped: 2026-07-22T02:24:15.677Z
 ---
 
 # Multi slice variable intensity threshold (Grow from seeds)
@@ -21,5 +21,11 @@ last_bumped: 2026-07-17T21:41:54.558Z
 <p>In these datasets, the blood pool intensity (or Hounsfield Units in CT) often varies across different slices. When seed points are placed in regions with different intensity levels, especially where the intensity of adjacent tissues is similar to that of the blood pool, the resulting <strong>Grow from Seeds</strong> segmentation can leak into surrounding tissues. This requires a significant amount of manual editing to remove the unwanted portions of the segmentation mask.</p>
 <p>Would it be possible to constrain the <strong>Grow from Seeds</strong> algorithm locally based on the intensity values around the nearest seed point, rather than using a global intensity model? This would be similar to applying different local intensity thresholds to different slices or regions within a slice, allowing the segmentation to better adapt to spatial variations in image intensity while reducing leakage into adjacent tissues.</p>
 <p>Thanks!</p>
+
+---
+
+## Post #2 by @mikebind (2026-07-22 02:24 UTC)
+
+<p>Grow from seeds segmentations can be viewed as a race between different segments to grow and fill the entire image space, where the speed of segment growth is modulated by the local gradient (faster growth across more uniform regions and much slower at hard edges). Try placing  background seeds in corresponding regions just outside the blood pool, so that the background growth and the blood pool growth meet at the boundary you want.   The segments fundamentally grow in three dimensions, so a slice-by-slice approach as you propose isn’t really compatible with the tool.   As for local vs global intensity levels, I don’t recall the exact algorithm used in Grow from Seeds, but I thought it already used local intensity levels.</p>
 
 ---
