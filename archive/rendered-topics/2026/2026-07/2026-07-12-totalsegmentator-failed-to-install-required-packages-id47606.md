@@ -3,7 +3,7 @@ topic_id: 47606
 title: "TotalSegmentator failed to install required packages"
 date: 2026-07-12
 url: https://discourse.slicer.org/t/47606
-last_bumped: 2026-07-20T14:49:54.862Z
+last_bumped: 2026-07-22T16:29:13.478Z
 ---
 
 # TotalSegmentator failed to install required packages
@@ -64,5 +64,11 @@ TypeError: 'NoneType' object is not iterable
 <p>Hi Madisyn!  Thanks so much for your tips, I uninstalled and reinstalled Slicer in the C:\ drive and was finally able to download TotalSegmentator. When I tried to run it, I got the following error:</p>
 <p><div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/1/e/1edb4ace291999550d4c3640e1346d0406f9991a.png" data-download-href="/uploads/short-url/4oY9DKG4b2CZQrjDA3P8dAq62wy.png?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/1/e/1edb4ace291999550d4c3640e1346d0406f9991a.png" alt="image" data-base62-sha1="4oY9DKG4b2CZQrjDA3P8dAq62wy" width="547" height="191"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">image</span><span class="informations">547×191 23 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
 <p>And noticed it was still pulling a path from AppData.  Do you have any recommendations?  Thanks again!</p>
+
+---
+
+## Post #7 by @johny723 (2026-07-22 16:29 UTC)
+
+<p>Is there any real help to fix this issue? None of the previous versions has ever been so stubborn as this 5.12.1 Total Segmentator</p>
 
 ---

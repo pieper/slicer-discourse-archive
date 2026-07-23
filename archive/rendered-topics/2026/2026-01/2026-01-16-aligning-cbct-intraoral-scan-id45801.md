@@ -1,8 +1,9 @@
 ---
 topic_id: 45801
-title: "Aligning Cbct Intraoral Scan"
+title: "Aligning CBCT & intraoral scan"
 date: 2026-01-16
 url: https://discourse.slicer.org/t/45801
+last_bumped: 2026-07-23T01:24:20.919Z
 ---
 
 # Aligning CBCT & intraoral scan
@@ -20,5 +21,11 @@ url: https://discourse.slicer.org/t/45801
 <p>1x Skull CBCT dicom (edit: I also have a segmentation of this from DentalSegmentator)</p>
 <p>3x stl files from intraoral scan. 1 upper, 1 lower, 1 bite.</p>
 <p>I want to align the upper intraoral scan to the upper jaw/teeth from the CBCT.</p>
+
+---
+
+## Post #2 by @abhijeet2410 (2026-07-23 01:24 UTC)
+
+<p><strong>Have you found a solution? Thank  you</strong></p>
 
 ---

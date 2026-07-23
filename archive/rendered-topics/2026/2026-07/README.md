@@ -53,3 +53,8 @@
 - [2026 07 21 How Do Patient Specific Pelvis Implants Improve Complex Pelv](2026-07-21-how-do-patient-specific-pelvis-implants-improve-complex-pelv-id47703.md)
 - [2026 07 21 How To Segment Ligaments On 3D T1W Mri Images](2026-07-21-how-to-segment-ligaments-on-3d-t1w-mri-images-id47705.md)
 - [2026 07 21 Pytomography Extension Is Not Compatible With 3D Slicer 5 12](2026-07-21-pytomography-extension-is-not-compatible-with-3d-slicer-5-12-id47702.md)
+- [2026 07 22 2026 07 28 Weekly Meeting](2026-07-22-2026-07-28-weekly-meeting-id47713.md)
+- [2026 07 22 Asking For More Mask Save Format](2026-07-22-asking-for-more-mask-save-format-id47709.md)
+- [2026 07 22 Keep Largest Island And Editable Area Setting](2026-07-22-keep-largest-island-and-editable-area-setting-id47714.md)
+- [2026 07 22 Pytorch Extension Causes Crash Slicer 5 12 2 On Ubuntu 22 04](2026-07-22-pytorch-extension-causes-crash-slicer-5-12-2-on-ubuntu-22-04-id47710.md)
+- [2026 07 22 Slicer 5 12 3 Plans And Fixing The Macos Stable Extension Pa](2026-07-22-slicer-5-12-3-plans-and-fixing-the-macos-stable-extension-pa-id47715.md)

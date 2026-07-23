@@ -3,7 +3,7 @@ topic_id: 47440
 title: "Release of Slicer 5.12 in progress"
 date: 2026-06-23
 url: https://discourse.slicer.org/t/47440
-last_bumped: 2026-07-09T13:48:56.533Z
+last_bumped: 2026-07-22T21:52:42.669Z
 ---
 
 # Release of Slicer 5.12 in progress
@@ -117,5 +117,12 @@ This does look a bit confusing to me:</p>
 ## Post #11 by @ebrahim (2026-07-09 13:48 UTC)
 
 <p>The nightly builds have been re-enabled so the <a href="https://slicer.cdash.org">dashboards</a> should be back to normal tomorrow</p>
+
+---
+
+## Post #12 by @ebrahim (2026-07-22 21:52 UTC)
+
+<p>This evening, regular preview and stable builds of Slicer and associated extensions will be disabled in favor of a <strong>patch</strong> release.</p>
+<p>To track the progress, see <a href="https://github.com/Slicer/Slicer/issues/9308" class="inline-onebox">Patch Release Slicer v5.12.3 · Issue #9308 · Slicer/Slicer · GitHub</a></p>
 
 ---
