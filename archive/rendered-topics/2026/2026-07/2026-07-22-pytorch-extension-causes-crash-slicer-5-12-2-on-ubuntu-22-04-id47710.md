@@ -3,7 +3,7 @@ topic_id: 47710
 title: "Pytorch extension causes crash (Slicer 5.12.2 on Ubuntu 22.04)"
 date: 2026-07-22
 url: https://discourse.slicer.org/t/47710
-last_bumped: 2026-07-22T15:04:42.252Z
+last_bumped: 2026-07-23T08:58:41.549Z
 ---
 
 # Pytorch extension causes crash (Slicer 5.12.2 on Ubuntu 22.04)
@@ -64,5 +64,46 @@ last_bumped: 2026-07-22T15:04:42.252Z
 <li>Does it help if you try to install 12.8? (uninstall 13.0 and then manually choose cu128 fromt he availablity list).</li>
 </ol>
 <p>That’s as far as I can suggest. Otherwise as <a class="mention" href="/u/pieper">@pieper</a> said it is a game of whack a mole until you find a combination that works…</p>
+
+---
+
+## Post #4 by @shai-ikko (2026-07-23 07:44 UTC)
+
+<p>Thanks for the suggestion. The Nvidia driver does seem to support cuda 13.0.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/b/4/b4eefaaf90c3fa7c57dfa50d5adca25bc639c345.png" data-download-href="/uploads/short-url/pOBXelgQRfb0zLH3dudO1oNJJUp.png?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/b/4/b4eefaaf90c3fa7c57dfa50d5adca25bc639c345.png" alt="image" data-base62-sha1="pOBXelgQRfb0zLH3dudO1oNJJUp" width="690" height="100" data-dominant-color="2E2F38"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">image</span><span class="informations">741×108 11.2 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
+
+---
+
+## Post #5 by @shai-ikko (2026-07-23 07:53 UTC)
+
+<p>The installation actually did succeed.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/a/7/a7ece3bd15d89e09df404735886729c45381122a.png" data-download-href="/uploads/short-url/nXxgOuJB9xEnzk85QDLx7ztldkm.png?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/a/7/a7ece3bd15d89e09df404735886729c45381122a.png" alt="image" data-base62-sha1="nXxgOuJB9xEnzk85QDLx7ztldkm" width="447" height="101"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">image</span><span class="informations">447×101 8.57 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
+<p>But importing <code>torchvision</code> crashes the app. I will try again and report.</p>
+<p>I can import torchvision without crashing from <code>PythonSlicer</code>.</p>
+<pre data-code-wrap="python-repl"><code class="lang-python-repl">Python 3.12.10 (main, Jul 15 2026, 15:05:10) [GCC 14.2.1 20250110 (Red Hat 14.2.1-7)] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+&gt;&gt;&gt; import torchvision
+&gt;&gt;&gt; torchvision.__version__
+'0.28.0+cu130'
+&gt;&gt;&gt; torchvision.version.cuda
+13000
+&gt;&gt;&gt; torchvision.version.git_version
+'8fb87713a24951e639c494b0f2a8a81b5f8e33a6'
+
+</code></pre>
+
+---
+
+## Post #6 by @shai-ikko (2026-07-23 08:58 UTC)
+
+<aside class="quote no-group quote-modified" data-username="pieper" data-post="2" data-topic="47710">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="24" height="24" src="https://sea2.discourse-cdn.com/flex002/user_avatar/discourse.slicer.org/pieper/48/8_2.png" class="avatar"> pieper:</div>
+<blockquote>
+<p>It would be good to have this in the extension repo issues: <a href="https://github.com/fepegar/SlicerPyTorch" class="inline-onebox" rel="noopener nofollow ugc">GitHub - fepegar/SlicerPyTorch: This extension contains only a module with some tools to install PyTorch inside Slicer, using the best possible version. · GitHub</a></p>
+</blockquote>
+</aside>
+<p><a href="https://github.com/fepegar/SlicerPyTorch/issues/24" class="inline-onebox" rel="noopener nofollow ugc">Torchvision crashes Slicer on Ubuntu · Issue #24 · fepegar/SlicerPyTorch · GitHub</a> Thanks</p>
 
 ---

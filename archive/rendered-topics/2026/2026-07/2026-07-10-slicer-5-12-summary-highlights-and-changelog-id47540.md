@@ -3,7 +3,7 @@ topic_id: 47540
 title: "Slicer 5.12: Summary, Highlights, and Changelog"
 date: 2026-07-10
 url: https://discourse.slicer.org/t/47540
-last_bumped: 2026-07-16T01:36:38.552Z
+last_bumped: 2026-07-23T15:23:17.796Z
 ---
 
 # Slicer 5.12: Summary, Highlights, and Changelog
@@ -20,6 +20,9 @@ last_bumped: 2026-07-16T01:36:38.552Z
 <li><a href="#heading--summary">Summary</a></li>
 <li><a href="#heading--highlights">Highlights</a></li>
 <li><a href="#heading--changelog-5-12-0">Changelog: 5.12.0</a></li>
+<li><a href="#heading--changelog-5-12-1">Changelog: 5.12.1</a></li>
+<li><a href="#heading--changelog-5-12-2">Changelog: 5.12.2</a></li>
+<li><a href="#heading--changelog-5-12-3">Changelog: 5.12.3</a></li>
 </ul>
 <h2 id="heading--summary">Summary</h2>
 <p>Slicer 5.12 is the next stable release after Slicer 5.10. The release focuses on Qt 6 build support, a redesigned DICOM browser for larger databases, native support for additional DICOM object types, improved volume and segmentation display controls, better markups and transform visualization, a new Python dependency management API for scripted modules and extensions, and updated extension catalog metadata.</p>
@@ -476,7 +479,7 @@ last_bumped: 2026-07-16T01:36:38.552Z
 
 ## Post #2 by @ebrahim (2026-07-10 12:01 UTC)
 
-<h1><a name="p-134813-changelog-5121-1" class="anchor" href="#p-134813-changelog-5121-1" aria-label="Heading link"></a>Changelog: 5.12.1</h1>
+<h1 id="heading--changelog-5-12-1">Changelog: 5.12.1</h1>
 <h2 id="heading--core">Core</h2>
 <h3 id="heading--fixes">Fixes</h3>
 <ul>
@@ -535,9 +538,19 @@ last_bumped: 2026-07-16T01:36:38.552Z
 
 ## Post #7 by @ebrahim (2026-07-16 01:36 UTC)
 
-<h1><a name="p-134932-changelog-5122-1" class="anchor" href="#p-134932-changelog-5122-1" aria-label="Heading link"></a>Changelog: 5.12.2</h1>
+<h1 id="heading--changelog-5-12-2">Changelog: 5.12.2</h1>
 <ul>
 <li>Clean rebuild of 5.12.1, no other changes.</li>
+</ul>
+
+---
+
+## Post #8 by @ebrahim (2026-07-23 15:23 UTC)
+
+<h1 id="heading--changelog-5-12-3">Changelog: 5.12.3</h1>
+<h2><a name="p-135106-fixes-1" class="anchor" href="#p-135106-fixes-1" aria-label="Heading link"></a>Fixes</h2>
+<ul>
+<li>Fixed macOS extension dependency packaging when equivalent logical and physical build paths use different firmlink spellings. (<a href="https://github.com/Slicer/Slicer/pull/9302">PR-9302</a>).</li>
 </ul>
 
 ---

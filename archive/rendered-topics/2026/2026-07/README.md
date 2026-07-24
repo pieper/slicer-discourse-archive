@@ -58,3 +58,6 @@
 - [2026 07 22 Keep Largest Island And Editable Area Setting](2026-07-22-keep-largest-island-and-editable-area-setting-id47714.md)
 - [2026 07 22 Pytorch Extension Causes Crash Slicer 5 12 2 On Ubuntu 22 04](2026-07-22-pytorch-extension-causes-crash-slicer-5-12-2-on-ubuntu-22-04-id47710.md)
 - [2026 07 22 Slicer 5 12 3 Plans And Fixing The Macos Stable Extension Pa](2026-07-22-slicer-5-12-3-plans-and-fixing-the-macos-stable-extension-pa-id47715.md)
+- [2026 07 23 Measuring Per Tooth Displacement Between Serial Intraoral Sc](2026-07-23-measuring-per-tooth-displacement-between-serial-intraoral-sc-id47723.md)
+- [2026 07 23 New To Slicerbiomech How To Measure Cortical Area Of Long Bo](2026-07-23-new-to-slicerbiomech-how-to-measure-cortical-area-of-long-bo-id47728.md)
+- [2026 07 23 Pytorch Not Working On Intel R Core Tm Ultra 7 155H](2026-07-23-pytorch-not-working-on-intel-r-core-tm-ultra-7-155h-id47724.md)

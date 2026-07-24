@@ -3,7 +3,7 @@ topic_id: 32254
 title: "New Colorize Volume module"
 date: 2023-10-16
 url: https://discourse.slicer.org/t/32254
-last_bumped: 2026-05-30T13:04:32.523Z
+last_bumped: 2026-07-23T15:24:07.622Z
 ---
 
 # New Colorize Volume module
@@ -139,12 +139,6 @@ SlicerMorph Version: c944db9 (2025-06-26)
 
 ---
 
-## Post #10 by @Esteban_Barreiro (2026-01-06 01:29 UTC)
-
-<p>(post deleted by author)</p>
-
----
-
 ## Post #11 by @jamesobutler (2026-01-06 01:48 UTC)
 
 <p>The Colorize Volume module is still available in the Sandbox extension as described at:</p>
@@ -195,5 +189,66 @@ SlicerMorph Version: c944db9 (2025-06-26)
 ## Post #13 by @lassoan (2026-05-30 13:04 UTC)
 
 <p>Yes, the Colorize Volume module solves the problem of artifacts at segment boundaries caused by the difference in level of details between the original CT and the segmentation.</p>
+
+---
+
+## Post #14 by @ThomasVanParys (2026-06-01 14:07 UTC)
+
+<p>Those volume rendering settings are really nice! Looking forward to using it.</p>
+
+---
+
+## Post #15 by @Esteban_Barreiro (2026-07-23 12:56 UTC)
+
+<p>Happy to hear that!</p>
+<p>now we need a Voxel Printing or Pixel Fabrication license for PolyJet that still works for general users hahaha.</p>
+<p>Do you think we should close the issue on Github - <a href="https://github.com/SlicerFab/SlicerFab/issues/14" rel="noopener nofollow ugc">https://github.com/SlicerFab/SlicerFab/issues/14</a> ?</p>
+
+---
+
+## Post #16 by @aiden.zhu (2026-07-23 13:23 UTC)
+
+<p>Hi Jaimi,</p>
+<p>Could you have some details on steps of how you set up this density-colormap? Thanks a lot.</p>
+
+---
+
+## Post #17 by @lassoan (2026-07-23 13:49 UTC)
+
+<aside class="quote no-group" data-username="Esteban_Barreiro" data-post="15" data-topic="32254">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="24" height="24" src="https://sea2.discourse-cdn.com/flex002/user_avatar/discourse.slicer.org/esteban_barreiro/48/5430_2.png" class="avatar"> Esteban_Barreiro:</div>
+<blockquote>
+<p>now we need a Voxel Printing or Pixel Fabrication license for PolyJet that still works for general users</p>
+</blockquote>
+</aside>
+<p>Slicer can help with preparing input data in any format a printer software needs it.<br>
+What is the current preferred data structure? RGBA volume? What are the supported file formats? NRRD, Nifti, …?</p>
+<aside class="quote no-group quote-modified" data-username="Esteban_Barreiro" data-post="15" data-topic="32254">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="24" height="24" src="https://sea2.discourse-cdn.com/flex002/user_avatar/discourse.slicer.org/esteban_barreiro/48/5430_2.png" class="avatar"> Esteban_Barreiro:</div>
+<blockquote>
+<p>Do you think we should close the issue on Github - <a href="https://github.com/SlicerFab/SlicerFab/issues/14" class="inline-onebox">Add dithering · Issue #14 · SlicerFab/SlicerFab · GitHub</a> ?</p>
+</blockquote>
+</aside>
+<p>We can probably resolve the issue in 1-2 hours with the help of Claude.<br>
+Do you mean that we don’t need to resolve it because commercial software includes the dithering already and there is no other way of getting your volumetric data to a printer?</p>
+
+---
+
+## Post #18 by @Esteban_Barreiro (2026-07-23 14:41 UTC)
+
+<p>Hi Andras</p>
+<p>The preferred data structure is RGBA, but there are little chances around the world to use at least the Voxel Printing license from Stratasys, for eample, they already deleted the chance in Grab CAD.</p>
+<p>Anyway, is pretty interesting to have the SlicerFab extension working. I made a volume with Colorize Volumen, and then export the slices in png format using SlicerFab and the dithering works fine, so I consider it done for experimental and research purpouses.</p>
+<p>Thanks for your patience.</p>
+
+---
+
+## Post #19 by @jaimigray (2026-07-23 15:24 UTC)
+
+<p>Hi Aiden, the density colormaps were made using the Volume Rendering module, giving me full control over the colormap for the skull and the ability to make the rest of the datasets invisible using the opacity controls. Then I used the Colorize Volume module to create another rendering layer for the skin. I made both the volume rendering and colorize volume layers visible at the same time to create this effect.</p>
 
 ---

@@ -3,7 +3,7 @@ topic_id: 46130
 title: "Is there a way to export in 3mf file format?"
 date: 2026-02-12
 url: https://discourse.slicer.org/t/46130
-last_bumped: 2026-05-30T13:00:37.106Z
+last_bumped: 2026-07-23T13:41:14.695Z
 ---
 
 # Is there a way to export in 3mf file format?
@@ -107,5 +107,17 @@ class ExportModelTo3mf(ScriptedLoadableModule):
 ## Post #6 by @lassoan (2026-05-30 13:00 UTC)
 
 <p>3MF export option is available after you install the Sandbox extension.</p>
+
+---
+
+## Post #7 by @Esteban_Barreiro (2026-07-23 12:51 UTC)
+
+<p>Hi Andras, thanks for your answer. I already installed the Sandbox extension, and still can’t find the exporter on v 5.10.0.</p>
+
+---
+
+## Post #8 by @lassoan (2026-07-23 13:41 UTC)
+
+<p>Please use the current Slicer version (either latest stable - which is Slicer-5.12, or latest preview) and let me know if you find any problems.</p>
 
 ---

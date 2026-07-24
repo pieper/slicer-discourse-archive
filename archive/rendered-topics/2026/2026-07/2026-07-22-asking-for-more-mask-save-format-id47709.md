@@ -3,7 +3,7 @@ topic_id: 47709
 title: "Asking for more mask save format"
 date: 2026-07-22
 url: https://discourse.slicer.org/t/47709
-last_bumped: 2026-07-23T03:47:09.289Z
+last_bumped: 2026-07-23T04:10:42.145Z
 ---
 
 # Asking for more mask save format
@@ -73,5 +73,28 @@ last_bumped: 2026-07-23T03:47:09.289Z
 </aside>
 <p>They output labelmaps, not segmentation. If you are comfortable with labelmaps and do not want all the nice features a segmentation object provides (such as overlap, or restricting your segmentation to a specific segment etc), you are perfectly fine to save them as nii.gz, just right click choose export as labelmap, and then save nii.gz.You might even turn this into single action.</p>
 <p>But you may want to read this first: <a href="https://slicer.readthedocs.io/en/latest/user_guide/image_segmentation.html#representations" class="inline-onebox" rel="noopener nofollow ugc">Image Segmentation — 3D Slicer documentation</a></p>
+
+---
+
+## Post #7 by @zhousy5310 (2026-07-23 04:03 UTC)
+
+<p>Hi Murat,</p>
+<p>I see. I understand that it might be an issue with restoration, but I’m asking for a better UI design: as in, what if there is an export button allowing users to export mask into different format (which we can tell users that it might affect restoration)?</p>
+<p>I’m raising this question here for discussion. What do you think?</p>
+
+---
+
+## Post #8 by @muratmaga (2026-07-23 04:10 UTC)
+
+<aside class="quote no-group" data-username="zhousy5310" data-post="7" data-topic="47709">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="24" height="24" src="https://avatars.discourse-cdn.com/v4/letter/z/8491ac/48.png" class="avatar"> zhousy5310:</div>
+<blockquote>
+<p>I see. I understand that it might be an issue with restoration, but I’m asking for a better UI design: as in, what if there is an export button allowing users to export mask into different format (which we can tell users that it might affect restoration)?</p>
+</blockquote>
+</aside>
+<p>I am not sure what more you are asking, it is a single right click to export a segmentation as a labelmap and another right click to save that labelmap as nii.gz. That’s already fairly simple. You can write a custom script to assign a custom keystroke if you want it to be even simpler (any AI can do it for you).</p>
+<p>It is far more simple not to let people save precious data in a lossy format than, allow them but then explain that they may loose data.  That’s probably why developers don’t support nii.gz as a save option.</p>
 
 ---

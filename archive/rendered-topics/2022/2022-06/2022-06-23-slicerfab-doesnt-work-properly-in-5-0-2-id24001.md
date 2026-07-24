@@ -1,8 +1,9 @@
 ---
 topic_id: 24001
-title: "Slicerfab Doesnt Work Properly In 5 0 2"
+title: "SlicerFab doesnt work properly in 5.0.2"
 date: 2022-06-23
 url: https://discourse.slicer.org/t/24001
+last_bumped: 2026-07-23T14:43:32.586Z
 ---
 
 # SlicerFab doesnt work properly in 5.0.2
@@ -75,5 +76,40 @@ Screencap from config attached - and a few slices attached too (file name to kno
   <div style="clear: both"></div>
 </aside>
 
+
+---
+
+## Post #3 by @Esteban_Barreiro (2026-07-23 12:59 UTC)
+
+<p>Hi Steve.</p>
+<p>We were talking about the dithering problem using the Colorize Volume module as a solution for this issue.</p>
+<p><a href="https://discourse.slicer.org/t/new-colorize-volume-module/32254/12">https://discourse.slicer.org/t/new-colorize-volume-module/32254/12?u=esteban_barreiro</a></p>
+<aside class="quote" data-post="13" data-topic="32254">
+  <div class="title">
+    <div class="quote-controls"></div>
+    <img alt="" width="24" height="24" src="https://sea2.discourse-cdn.com/flex002/user_avatar/discourse.slicer.org/lassoan/48/13_2.png" class="avatar">
+    <div class="quote-title__text-content">
+      <a href="https://discourse.slicer.org/t/new-colorize-volume-module/32254/13">New Colorize Volume module</a> <a class="badge-category__wrapper " href="/c/community/success-stories/29"><span data-category-id="29" style="--category-badge-color: #92278F; --category-badge-text-color: #FFFFFF; --parent-category-badge-color: #F7941D;" data-parent-category-id="12" data-drop-close="true" class="badge-category --style-square --has-parent" title="This is the place where you can share how Slicer helped your work. Describe your project and how Slicer was useful in achieving your goal. Include reference to any publication(s) and if possible also add a few nice images or links to videos."><span class="badge-category__name">Success stories</span></span></a>
+    </div>
+  </div>
+  <blockquote>
+    Yes, the Colorize Volume module solves the problem of artifacts at segment boundaries caused by the difference in level of details between the original CT and the segmentation.
+  </blockquote>
+</aside>
+
+
+---
+
+## Post #4 by @pieper (2026-07-23 13:32 UTC)
+
+<p>There are big differences between volume rendering and bitmap printing, so I’m not sure techniques are transferable.  I haven’t looked at the details in quite a while.</p>
+
+---
+
+## Post #5 by @Esteban_Barreiro (2026-07-23 14:43 UTC)
+
+<p>Thanks for your answer.</p>
+<p>I made a volume with Colorize Volumen, and then export the slices in png format using SlicerFab and the dithering works fine, so I consider it done for experimental and research purpouses.</p>
+<p>Thanks for your patience.</p>
 
 ---
