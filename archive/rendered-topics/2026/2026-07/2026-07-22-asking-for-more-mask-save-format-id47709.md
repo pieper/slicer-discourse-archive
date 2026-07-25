@@ -3,7 +3,7 @@ topic_id: 47709
 title: "Asking for more mask save format"
 date: 2026-07-22
 url: https://discourse.slicer.org/t/47709
-last_bumped: 2026-07-23T04:10:42.145Z
+last_bumped: 2026-07-24T18:29:56.263Z
 ---
 
 # Asking for more mask save format
@@ -96,5 +96,23 @@ last_bumped: 2026-07-23T04:10:42.145Z
 </aside>
 <p>I am not sure what more you are asking, it is a single right click to export a segmentation as a labelmap and another right click to save that labelmap as nii.gz. That’s already fairly simple. You can write a custom script to assign a custom keystroke if you want it to be even simpler (any AI can do it for you).</p>
 <p>It is far more simple not to let people save precious data in a lossy format than, allow them but then explain that they may loose data.  That’s probably why developers don’t support nii.gz as a save option.</p>
+
+---
+
+## Post #9 by @lassoan (2026-07-24 18:29 UTC)
+
+<aside class="quote no-group" data-username="muratmaga" data-post="6" data-topic="47709">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="24" height="24" src="https://sea2.discourse-cdn.com/flex002/user_avatar/discourse.slicer.org/muratmaga/48/3622_2.png" class="avatar"> muratmaga:</div>
+<blockquote>
+<p>My understanding NIFTI format has very little header (a few hundred bytes), and cannot accommodate all the metadata about the segments that is necessary to restore the segmentation accurate from the file.</p>
+</blockquote>
+</aside>
+<p>Exactly. It is important to distinguish between saving and export.</p>
+<p><em>Saving</em> of a data node must be a lossless operation, therefore the nifti file format cannot be offered as a format during scene saving (menu: File / Save Data).</p>
+<p><em>Export</em> can be lossy, that’s why nifti format is offered in the “Export to files” function.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/c/8/c84ee4385696c1b2c17c1f7ea549a8ee1d199d92.png" data-download-href="/uploads/short-url/sA0w8pfzl54aG4T8m3qHxMim8Gm.png?dl=1" title="image"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/c/8/c84ee4385696c1b2c17c1f7ea549a8ee1d199d92_2_689x207.png" alt="image" data-base62-sha1="sA0w8pfzl54aG4T8m3qHxMim8Gm" width="689" height="207" srcset="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/c/8/c84ee4385696c1b2c17c1f7ea549a8ee1d199d92_2_689x207.png, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/c/8/c84ee4385696c1b2c17c1f7ea549a8ee1d199d92_2_1033x310.png 1.5x, https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/c/8/c84ee4385696c1b2c17c1f7ea549a8ee1d199d92.png 2x" data-dominant-color="C2CAD0"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">image</span><span class="informations">1299×390 30.8 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
+<p>I would advise against using nifti outside of neuroimaging, since it was developed for a narrow use case and is not well suited for general-purpose work. Essential metadata cannot be stored in the file; the header instead mandates many neuroimaging-specific fields that are irrelevant in other disciplines; and image geometry is specified in an unnecessarily complex and redundant way, which can lead different toolkits to interpret the same nifti image differently.</p>
 
 ---

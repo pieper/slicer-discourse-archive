@@ -3,7 +3,7 @@ topic_id: 47715
 title: "Slicer 5.12.3 plans and fixing the macOS stable extension packages"
 date: 2026-07-22
 url: https://discourse.slicer.org/t/47715
-last_bumped: 2026-07-24T02:43:50.724Z
+last_bumped: 2026-07-25T01:32:49.238Z
 ---
 
 # Slicer 5.12.3 plans and fixing the macOS stable extension packages
@@ -72,5 +72,17 @@ Once we confirm the issue is really solved, I will remove the pre-release tag.</
 
 <p>That is planned for Slicer 6.0.</p>
 <p>This release is meant to provide a bridge while the developers do many substantial changes to the core in preparation for Slicer 6.0, and break things for a while (in the preview versions). Given there is there is still rosetta support for at least a year, I think this is fine.</p>
+
+---
+
+## Post #9 by @pieper (2026-07-24 13:50 UTC)
+
+<p>Yes, <a class="mention" href="/u/muratmaga">@muratmaga</a> is right, we plan to make arm64 mac builds available once a few more bugs are sorted out.  No show stoppers, just a matter of getting the machine in place and updating the download page.  We’ll probably post some native arm64 installers somewhere for testing before long.</p>
+
+---
+
+## Post #10 by @GeneRisi (2026-07-25 01:32 UTC)
+
+<p>Excellent! Thank you!</p>
 
 ---

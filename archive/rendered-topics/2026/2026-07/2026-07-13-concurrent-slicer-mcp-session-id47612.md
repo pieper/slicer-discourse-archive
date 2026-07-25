@@ -3,7 +3,7 @@ topic_id: 47612
 title: "Concurrent slicer mcp session"
 date: 2026-07-13
 url: https://discourse.slicer.org/t/47612
-last_bumped: 2026-07-15T05:18:12.670Z
+last_bumped: 2026-07-24T19:15:36.864Z
 ---
 
 # Concurrent slicer mcp session
@@ -63,5 +63,42 @@ last_bumped: 2026-07-15T05:18:12.670Z
 ## Post #5 by @muratmaga (2026-07-15 05:18 UTC)
 
 <p>Great I didn’t notice that it automatically incremented the ports.</p>
+
+---
+
+## Post #6 by @muratmaga (2026-07-24 04:49 UTC)
+
+<p><a class="mention" href="/u/pieper">@pieper</a> Sometimes it increments the port just fine and sometimes I get this. I can’t tell whats triggering the error.</p>
+<pre><code class="lang-auto">Traceback (most recent call last):
+  File "&lt;string&gt;", line 1, in &lt;module&gt;
+  File "&lt;string&gt;", line 146, in loadSlicerRCFile
+  File "&lt;string&gt;", line 14, in &lt;module&gt;
+  File "&lt;string&gt;", line 543, in startMcpServer
+  File "/home/maga/Downloads/Slicer/bin/../lib/Slicer-5.12/qt-scripted-modules/WebServer.py", line 656, in start
+    self.server = SlicerHTTPServer(requestHandlers=self.requestHandlers,
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/maga/Downloads/Slicer/bin/../lib/Slicer-5.12/qt-scripted-modules/WebServer.py", line 307, in __init__
+    HTTPServer.__init__(self, server_address, SlicerHTTPServer.DummyRequestHandler)
+  File "/home/maga/Downloads/Slicer/lib/Python/lib/python3.12/socketserver.py", line 457, in __init__
+    self.server_bind()
+  File "/home/maga/Downloads/Slicer/lib/Python/lib/python3.12/http/server.py", line 136, in server_bind
+    socketserver.TCPServer.server_bind(self)
+  File "/home/maga/Downloads/Slicer/lib/Python/lib/python3.12/socketserver.py", line 478, in server_bind
+    self.socket.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+
+</code></pre>
+
+---
+
+## Post #7 by @lassoan (2026-07-24 18:33 UTC)
+
+<p>I always ask Claude to start its own Slicer with the server interface open at any port it prefers. It can then iterate on its own, rebuild and restart Slicer as needed, etc.</p>
+
+---
+
+## Post #8 by @pieper (2026-07-24 19:15 UTC)
+
+<p>Having Claude start it’s own slicer with the server enabled is a great idea.  I’ll add that suggestion to the skill.md file.</p>
 
 ---
