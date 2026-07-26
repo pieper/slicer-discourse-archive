@@ -3,7 +3,7 @@ topic_id: 47723
 title: "Measuring per-tooth displacement between serial intraoral scans - which modules?"
 date: 2026-07-23
 url: https://discourse.slicer.org/t/47723
-last_bumped: 2026-07-23T12:31:26.534Z
+last_bumped: 2026-07-25T16:15:56.299Z
 ---
 
 # Measuring per-tooth displacement between serial intraoral scans - which modules?
@@ -42,5 +42,22 @@ last_bumped: 2026-07-23T12:31:26.534Z
 <p><div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/7/5/758e5f13b756e84c8f24961503b068fe7c2bdcaa.jpeg" data-download-href="/uploads/short-url/gLWTo20eVJjt2YLBDkqP02fyOMy.jpeg?dl=1" title="reference points_curve" rel="noopener nofollow ugc"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/7/5/758e5f13b756e84c8f24961503b068fe7c2bdcaa_2_689x367.jpeg" alt="reference points_curve" data-base62-sha1="gLWTo20eVJjt2YLBDkqP02fyOMy" width="689" height="367" srcset="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/7/5/758e5f13b756e84c8f24961503b068fe7c2bdcaa_2_689x367.jpeg, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/7/5/758e5f13b756e84c8f24961503b068fe7c2bdcaa_2_1033x550.jpeg 1.5x, https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/7/5/758e5f13b756e84c8f24961503b068fe7c2bdcaa.jpeg 2x" data-dominant-color="E9E6E6"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">reference points_curve</span><span class="informations">1240×661 76.3 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
 <p><div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/a/d/ade341cf8ab125f1beea897083b770bcc6259303.jpeg" data-download-href="/uploads/short-url/oOhuTVJBikogo1r6UJCIylClaOD.jpeg?dl=1" title="reference points" rel="noopener nofollow ugc"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/a/d/ade341cf8ab125f1beea897083b770bcc6259303_2_689x367.jpeg" alt="reference points" data-base62-sha1="oOhuTVJBikogo1r6UJCIylClaOD" width="689" height="367" srcset="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/a/d/ade341cf8ab125f1beea897083b770bcc6259303_2_689x367.jpeg, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/a/d/ade341cf8ab125f1beea897083b770bcc6259303_2_1033x550.jpeg 1.5x, https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/a/d/ade341cf8ab125f1beea897083b770bcc6259303.jpeg 2x" data-dominant-color="E9E7E6"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">reference points</span><span class="informations">1240×661 68.2 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div><br>
 Any help is appreciated. Many thanks!</p>
+
+---
+
+## Post #2 by @drnoorfatima (2026-07-25 16:15 UTC)
+
+<blockquote>
+<p><img src="https://emoji.discourse-cdn.com/twitter/robot.png?v=15" title=":robot:" class="emoji" alt=":robot:" loading="lazy" width="20" height="20"> This post contains AI-generated content.</p>
+</blockquote>
+<p>Hi Alla,</p>
+<p>This is very doable via a Python script inside 3D Slicer. Posterior-constrained registration, per-axis X/Y/Z displacement table for all five timepoints, and curve deviation, all automated, output straight to CSV.</p>
+<p>I have built pipelines like this for medical imaging workflows. DM me if you want this handled.</p>
+
+---
+
+## Post #3 by @drnoorfatima (2026-07-25 16:15 UTC)
+
+<p><a href="mailto:noorfatimacheema249@gmail.com">noorfatimacheema249@gmail.com</a></p>
 
 ---
