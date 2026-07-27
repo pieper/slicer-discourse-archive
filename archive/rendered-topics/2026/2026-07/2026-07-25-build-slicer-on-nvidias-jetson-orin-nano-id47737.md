@@ -3,7 +3,7 @@ topic_id: 47737
 title: "Build Slicer on Nvidia's Jetson Orin Nano"
 date: 2026-07-25
 url: https://discourse.slicer.org/t/47737
-last_bumped: 2026-07-25T23:02:08.972Z
+last_bumped: 2026-07-26T04:48:05.130Z
 ---
 
 # Build Slicer on Nvidia's Jetson Orin Nano
@@ -48,5 +48,11 @@ But after <a href="https://github.com/Slicer/Slicer/compare/main...mauigna06:Sli
 
 <p>Works well for me<br>
 <div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/7/9/791313f22a818725a6649342d1cc9924307e94b0.jpeg" data-download-href="/uploads/short-url/hh4Ebycc6l4Tf2WNhRemINb5dNS.jpeg?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/7/9/791313f22a818725a6649342d1cc9924307e94b0_2_690x389.jpeg" alt="image" data-base62-sha1="hh4Ebycc6l4Tf2WNhRemINb5dNS" width="690" height="389" srcset="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/7/9/791313f22a818725a6649342d1cc9924307e94b0_2_690x389.jpeg, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/7/9/791313f22a818725a6649342d1cc9924307e94b0_2_1035x583.jpeg 1.5x, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/7/9/791313f22a818725a6649342d1cc9924307e94b0_2_1380x778.jpeg 2x" data-dominant-color="839BAC"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">image</span><span class="informations">1920×1084 321 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
+
+---
+
+## Post #4 by @Mik (2026-07-26 04:48 UTC)
+
+<p>Good to know! Ampere GPU is much better in that case than Mali and VisualCore.</p>
 
 ---
