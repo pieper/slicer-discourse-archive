@@ -62,3 +62,5 @@
 - [2026 07 23 New To Slicerbiomech How To Measure Cortical Area Of Long Bo](2026-07-23-new-to-slicerbiomech-how-to-measure-cortical-area-of-long-bo-id47728.md)
 - [2026 07 23 Pytorch Not Working On Intel R Core Tm Ultra 7 155H](2026-07-23-pytorch-not-working-on-intel-r-core-tm-ultra-7-155h-id47724.md)
 - [2026 07 25 Build Slicer On Nvidias Jetson Orin Nano](2026-07-25-build-slicer-on-nvidias-jetson-orin-nano-id47737.md)
+- [2026 07 27 3D Slicer Cannot Display Cardiac Lge Mri Volume Correctly On](2026-07-27-3d-slicer-cannot-display-cardiac-lge-mri-volume-correctly-on-id47746.md)
+- [2026 07 27 3D Slicer Cannot Display Cardiac Lge Mri Volume Correctly On](2026-07-27-3d-slicer-cannot-display-cardiac-lge-mri-volume-correctly-on-id47748.md)
