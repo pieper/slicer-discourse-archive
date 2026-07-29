@@ -3,7 +3,7 @@ topic_id: 45801
 title: "Aligning CBCT & intraoral scan"
 date: 2026-01-16
 url: https://discourse.slicer.org/t/45801
-last_bumped: 2026-07-23T01:24:20.919Z
+last_bumped: 2026-07-28T19:47:30.392Z
 ---
 
 # Aligning CBCT & intraoral scan
@@ -27,5 +27,12 @@ last_bumped: 2026-07-23T01:24:20.919Z
 ## Post #2 by @abhijeet2410 (2026-07-23 01:24 UTC)
 
 <p><strong>Have you found a solution? Thank  you</strong></p>
+
+---
+
+## Post #3 by @mikebind (2026-07-28 19:47 UTC)
+
+<p>The easiest approach is fiducial registration.  Create two markups points nodes and place at least 3 landmark points on the CBCT in one points node, and then place the corresponding points (in the same order) on the STL.  Open the “Fiducial Registration” module, and select one landmark set as the fixed landmarks, the other as the moving landmarks, and create a new transform to hold the registration transform matrix, and then click Apply.  Lastly, apply the resulting transform to the CT or model associated with the “Moving” landmarks to view the alignment.</p>
+<p>If you want a fully automated process, then you need to have a method of automatically choosing the points to align, which is much more complicated.</p>
 
 ---

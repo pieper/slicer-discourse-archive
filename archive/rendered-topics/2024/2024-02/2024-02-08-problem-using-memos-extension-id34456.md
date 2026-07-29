@@ -1,8 +1,9 @@
 ---
 topic_id: 34456
-title: "Problem Using Memos Extension"
+title: "Problem using MEMOS extension"
 date: 2024-02-08
 url: https://discourse.slicer.org/t/34456
+last_bumped: 2026-07-29T00:49:59.614Z
 ---
 
 # Problem using MEMOS extension
@@ -463,5 +464,51 @@ Rosie</p>
 </blockquote>
 </aside>
 <p><a class="mention" href="/u/muratmaga">@muratmaga</a> maybe MEMOS can utilize a try/except to catch <code>torch.cuda.OutOfMemoryError</code> errors and present them in a more human readable form instead of relying on users reading traceback messages in the Python console?</p>
+
+---
+
+## Post #19 by @Mas515 (2026-07-28 22:45 UTC)
+
+<p>Hello I am also using Memos for the first time with Dcm files and I get an error I don’t understand. Is it a problem with the metadata in my files? Traceback (most recent call last):</p>
+<p>File “C:/Users/Bowling Lab/AppData/Local/slicer.org/3D Slicer 5.12.3/slicer.org/Extensions-34627/MEMOS/lib/Slicer-5.12/qt-scripted-modules/MEMOS.py”, line 302, in onApplySingleButton</p>
+<p>logic.setupPythonRequirements()</p>
+<p>File “C:/Users/Bowling Lab/AppData/Local/slicer.org/3D Slicer 5.12.3/slicer.org/Extensions-34627/MEMOS/lib/Slicer-5.12/qt-scripted-modules/MEMOS.py”, line 501, in setupPythonRequirements</p>
+<p>if not torchLogic.torchInstalled():</p>
+<p>^^^^^^^^^^^^^^^^^^^^^^^^^^^</p>
+<p>File “C:/Users/Bowling Lab/AppData/Local/slicer.org/3D Slicer 5.12.3/slicer.org/Extensions-34627/PyTorch/lib/Slicer-5.12/qt-scripted-modules/PyTorchUtils.py”, line 162, in torchInstalled</p>
+<p>metadataPath = [p for p in importlib.metadata.files(‘torch’) if ‘METADATA’ in str(p)][0]</p>
+<p>^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^</p>
+<p>TypeError: ‘NoneType’ object is not iterable</p>
+<p>I have actually found a different post recommended installing pytorch via utils. When I open that module, it does show me an error with pytorch (Torch unknown, corrupted installation?) but I am unable to uninstall it even after restarting the application. Failed to uninstall PyTorch. Probably PyTorch is already in use. Please restart the application and try again.</p>
+<p>I have tried to uninstall 3D slicer and reinstall pytorch but I still cannot.</p>
+
+---
+
+## Post #20 by @muratmaga (2026-07-28 23:43 UTC)
+
+<p>At this point Memos is not compatible with the newer version of the Slicer due to MONAI API change. If you want to give MEMOS a try, you need to use Slicer 5.8.1 (scroll down to find <a href="https://download.slicer.org/#access-older-releases" class="inline-onebox" rel="noopener nofollow ugc">Download 3D Slicer | 3D Slicer</a> section and choose the 5.8.1 for your operating system).</p>
+
+---
+
+## Post #21 by @Mas515 (2026-07-29 00:18 UTC)
+
+<p>Thank you Murat! It started running and eventually failed with this error: Traceback (most recent call last):</p>
+<p>File “C:/Users/Bowling Lab/AppData/Local/slicer.org/Slicer 5.8.1/slicer.org/Extensions-33241/MEMOS/lib/Slicer-5.8/qt-scripted-modules/MEMOS.py”, line 306, in onApplySingleButton</p>
+<p>labelFilePath = self.launchInference(volumeNode)</p>
+<p>File “C:/Users/Bowling Lab/AppData/Local/slicer.org/Slicer 5.8.1/slicer.org/Extensions-33241/MEMOS/lib/Slicer-5.8/qt-scripted-modules/MEMOS.py”, line 368, in launchInference</p>
+<p>logic.processInference(tempVolumeFile, self.modelPathSingle.currentPath, outputLabelPath, self.colorNode)</p>
+<p>File “C:/Users/Bowling Lab/AppData/Local/slicer.org/Slicer 5.8.1/slicer.org/Extensions-33241/MEMOS/lib/Slicer-5.8/qt-scripted-modules/MEMOS.py”, line 491, in processInference</p>
+<p>slicer.util.logProcessOutput(proc)</p>
+<p>File “C:\Users\Bowling Lab\AppData\Local\slicer.org\Slicer 5.8.1\bin\Python\slicer\util.py”, line 3862, in logProcessOutput</p>
+<p>raise CalledProcessError(retcode, proc.args, output=proc.stdout, stderr=proc.stderr)</p>
+<p>subprocess.CalledProcessError: Command ‘[‘C:/Users/Bowling Lab/AppData/Local/slicer.org/Slicer 5.8.1/bin/../bin\\PythonSlicer.EXE’, ‘C:/Users/Bowling Lab/AppData/Local/slicer.org/Slicer 5.8.1/slicer.org/Extensions-33241/MEMOS/lib/Slicer-5.8/qt-scripted-modules\\Scripts\\MEMOS_inference.py’, ‘–volume-path’, “{‘image’: ‘C:/Users/Bowling Lab/AppData/Local/Temp/Slicer\\\\tempMEMOSVolume\\\\2793: Linear Attenuation [1-cm] (2793).nii.gz’}”, ‘–model-path’, ‘C:/Users/Bowling Lab/AppData/Local/slicer.org/Slicer/cache/SlicerIO\\best_metric_model_largePatch_noise.pth’, ‘–output-path’, ‘C:/Users/Bowling Lab/AppData/Local/Temp/Slicer\\tempMEMOSOut\\2793: Linear Attenuation [1-cm] (2793)_seg.nii.gz’, ‘–color-node’, ‘vtkMRMLColorTableNode (000001EA9A67B360)\n ID: vtkMRMLColorTableNode1\n ClassName: vtkMRMLColorTableNode\n Name: KOMP2\n Debug: false\n MTime: 261593\n Description: A color table read in from a text file, each line of the format: IntegerLabel Name R G B Alpha\n SingletonTag: (none)\n HideFromEditors: false\n Selectable: true\n Selected: false\n UndoEnabled: false\n Attributes:\n Category:File\n Node references:\n storage [storageNodeRef]: vtkMRMLColorTableStorageNode22\n StorageNodeIDs[0]: vtkMRMLColorTableStorageNode22\n Name: KOMP2\n Type: (File)\n NoName = (none)\n Names array initialised: true\n Color Names:\n 0 background (0, 0, 0, 1)\n 1 left lung (0.772549, 0.647059, 0.568627, 1)\n 2 cranial lobe (0.501961, 0.682353, 0.501961, 1)\n 3 middle lobe (0.945098, 0.839216, 0.568627, 1)\n 4 caudal lobe (0.694118, 0.478431, 0.396078, 1)\n 5 accessory lobe (0.435294, 0.721569, 0.823529, 1)\n 6 left kidney (0.72549, 0.4, 0.32549, 1)\n 7 right kidney (0.72549, 0.4, 0.32549, 1)\n 8 stomach wall (0.847059, 0.396078, 0.309804, 1)\n 9 stomach lumen (0.866667, 0.509804, 0.396078, 1)\n 10 medial lobe of liver (0.564706, 0.933333, 0.564706, 1)\n …\n Look up table:\n Debug: Off\n Modified Time: 261572\n Reference Count: 1\n Registered Events: \n Registered Observers:\n vtkObserver (000001EA9C545DA0)\n Event: 33\n EventName: ModifiedEvent\n Command: 000001EA99D315A0\n Priority: 0\n Tag: 2\n vtkObserver (000001EA9C545D70)\n Event: 2\n EventName: DeleteEvent\n Command: 000001EA99D315A0\n Priority: 0\n Tag: 1\n Alpha: 1\n VectorMode: Component\n VectorComponent: 0\n VectorSize: -1\n IndexedLookup: OFF\n AnnotatedValues: 0 entries.\n TableRange: (0, 50)\n Scale: Linear\n HueRange: (0, 0.66667)\n SaturationRange: (1, 1)\n ValueRange: (1, 1)\n AlphaRange: (1, 1)\n NanColor: (0.5, 0, 0, 1)\n BelowRangeColor: (0, 0, 0, 1)\n UseBelowRangeColor: OFF\n AboveRangeColor: (1, 1, 1, 1)\n UseAboveRangeColor: OFF\n NumberOfTableValues: 51\n NumberOfColors: 51\n Ramp: SCurve\n InsertTime: 261571\n BuildTime: 0\n Table: \n Debug: Off\n Modified Time: 261316\n Reference Count: 1\n Registered Events: (none)\n Name: (none)\n Data type: unsigned char\n Size: 1040\n MaxId: 203\n NumberOfComponents: 4\n Information: 0000000000000000\n Name: (none)\n Number Of Components: 4\n Number Of Tuples: 51\n Size: 1040\n MaxId: 203\n LookupTable: (none)\n\n’]’ returned non-zero exit status 1. The data I am trying to analyse is not very good (very noisy), would that be the reason for failure?</p>
+
+---
+
+## Post #22 by @muratmaga (2026-07-29 00:49 UTC)
+
+<p>Can you try to rename your dicom volume that doesn’t have special characters and retry? With its space and square brackets it might be causing problem? <strong>2793: Linear Attenuation [1-cm] (2793)</strong></p>
+<p>Just rename it to something simple like volume and try.</p>
+<p>Also how big is the volume, and how much memory your GPU has.</p>
 
 ---

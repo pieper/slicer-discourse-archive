@@ -1,10 +1,10 @@
 # Slicer Discourse Archive Index
 
-Last updated: 2026-07-28 03:59 UTC
+Last updated: 2026-07-29 04:00 UTC
 
 ## Archive Contents
 
-- Total rendered topics: 19126
+- Total rendered topics: 19128
 - Raw JSON files: 0
 
 ## Recent Topics
@@ -19,6 +19,18 @@ Last updated: 2026-07-28 03:59 UTC
 - [README.md](archive/rendered-topics/2025/2025-04/README.md)
 - [README.md](archive/rendered-topics/2025/2025-02/README.md)
 - [README.md](archive/rendered-topics/2025/2025-01/README.md)
+- [no nightly windows releases since 2025 12 22](archive/rendered-topics/2025/2025-12/2025-12-30-no-nightly-windows-releases-since-2025-12-22-id45647.md)
+- [no pw meeting this week dec 30th](archive/rendered-topics/2025/2025-12/2025-12-30-no-pw-meeting-this-week-dec-30th-id45637.md)
+- [postdoc position in chicago il for those with slicer image a](archive/rendered-topics/2025/2025-12/2025-12-30-postdoc-position-in-chicago-il-for-those-with-slicer-image-a-id45646.md)
+- [roi based segmentation in monai label slicer extension does](archive/rendered-topics/2025/2025-12/2025-12-30-roi-based-segmentation-in-monai-label-slicer-extension-does-id45634.md)
+- [segment editor crashes during logical operators in segment e](archive/rendered-topics/2025/2025-12/2025-12-30-segment-editor-crashes-during-logical-operators-in-segment-e-id45635.md)
+- [generating a deformed image using bspline transform in 3d sl](archive/rendered-topics/2025/2025-12/2025-12-19-generating-a-deformed-image-using-bspline-transform-in-3d-sl-id45553.md)
+- [in 3d slicer is it possible to simulate femur cut in real ti](archive/rendered-topics/2025/2025-12/2025-12-19-in-3d-slicer-is-it-possible-to-simulate-femur-cut-in-real-ti-id45543.md)
+- [margin effect altering multiple segments at once](archive/rendered-topics/2025/2025-12/2025-12-19-margin-effect-altering-multiple-segments-at-once-id45554.md)
+- [segmentation tooth in jaw](archive/rendered-topics/2025/2025-12/2025-12-19-segmentation-tooth-in-jaw-id45550.md)
+- [no meeting this week dec 23rd](archive/rendered-topics/2025/2025-12/2025-12-22-no-meeting-this-week-dec-23rd-id45586.md)
+- [no pw meeting this dec 23rd](archive/rendered-topics/2025/2025-12/2025-12-22-no-pw-meeting-this-dec-23rd-id45585.md)
+- [the gui of slicer 5 10 0 seems to be unexpectedly scaled](archive/rendered-topics/2025/2025-12/2025-12-22-the-gui-of-slicer-5-10-0-seems-to-be-unexpectedly-scaled-id45582.md)
 - [new feature support of 5d images and transforms](archive/rendered-topics/2025/2025-12/2025-12-23-new-feature-support-of-5d-images-and-transforms-id45588.md)
 - [can tumor volume be accurately measured](archive/rendered-topics/2025/2025-12/2025-12-24-can-tumor-volume-be-accurately-measured-id45593.md)
 - [link a transforms visibility to transformed volume visibilit](archive/rendered-topics/2025/2025-12/2025-12-25-link-a-transforms-visibility-to-transformed-volume-visibilit-id45604.md)
@@ -29,11 +41,11 @@ Last updated: 2026-07-28 03:59 UTC
 - [downloading older releases is problematic](archive/rendered-topics/2025/2025-12/2025-12-30-downloading-older-releases-is-problematic-id45645.md)
 - [is it possible to update closed surface of a segment instead](archive/rendered-topics/2025/2025-12/2025-12-30-is-it-possible-to-update-closed-surface-of-a-segment-instead-id45639.md)
 - [no meeting this week dec 30th](archive/rendered-topics/2025/2025-12/2025-12-30-no-meeting-this-week-dec-30th-id45638.md)
-- [no nightly windows releases since 2025 12 22](archive/rendered-topics/2025/2025-12/2025-12-30-no-nightly-windows-releases-since-2025-12-22-id45647.md)
-- [no pw meeting this week dec 30th](archive/rendered-topics/2025/2025-12/2025-12-30-no-pw-meeting-this-week-dec-30th-id45637.md)
-- [postdoc position in chicago il for those with slicer image a](archive/rendered-topics/2025/2025-12/2025-12-30-postdoc-position-in-chicago-il-for-those-with-slicer-image-a-id45646.md)
-- [roi based segmentation in monai label slicer extension does](archive/rendered-topics/2025/2025-12/2025-12-30-roi-based-segmentation-in-monai-label-slicer-extension-does-id45634.md)
-- [segment editor crashes during logical operators in segment e](archive/rendered-topics/2025/2025-12/2025-12-30-segment-editor-crashes-during-logical-operators-in-segment-e-id45635.md)
+- [add segment to segmentationnode uses invalid color values sc](archive/rendered-topics/2025/2025-12/2025-12-15-add-segment-to-segmentationnode-uses-invalid-color-values-sc-id45498.md)
+- [auto skeleton to trajectory mv3d file](archive/rendered-topics/2025/2025-12/2025-12-15-auto-skeleton-to-trajectory-mv3d-file-id45487.md)
+- [cbct distortion](archive/rendered-topics/2025/2025-12/2025-12-15-cbct-distortion-id45493.md)
+- [linear transform not appearing anymore as a driver in igt vo](archive/rendered-topics/2025/2025-12/2025-12-15-linear-transform-not-appearing-anymore-as-a-driver-in-igt-vo-id45497.md)
+- [plusserverlauncher log displaying error concerning loading e](archive/rendered-topics/2025/2025-12/2025-12-15-plusserverlauncher-log-displaying-error-concerning-loading-e-id45501.md)
 - [pw meeting dec 16 2025](archive/rendered-topics/2025/2025-12/2025-12-15-pw-meeting-dec-16-2025-id45503.md)
 - [problems with certain buttons in the edited segment of a cus](archive/rendered-topics/2025/2025-12/2025-12-16-problems-with-certain-buttons-in-the-edited-segment-of-a-cus-id45513.md)
 - [v5 10 crash on startup splash screen](archive/rendered-topics/2025/2025-12/2025-12-16-v5-10-crash-on-startup-splash-screen-id45515.md)
@@ -44,18 +56,6 @@ Last updated: 2026-07-28 03:59 UTC
 - [apply filters to a ct scan to deal with high contrast elemen](archive/rendered-topics/2025/2025-12/2025-12-19-apply-filters-to-a-ct-scan-to-deal-with-high-contrast-elemen-id45561.md)
 - [clarification on segment statistics surface area vs cross se](archive/rendered-topics/2025/2025-12/2025-12-19-clarification-on-segment-statistics-surface-area-vs-cross-se-id45558.md)
 - [clarification on segment statistics surface area vs cross se](archive/rendered-topics/2025/2025-12/2025-12-19-clarification-on-segment-statistics-surface-area-vs-cross-se-id45559.md)
-- [generating a deformed image using bspline transform in 3d sl](archive/rendered-topics/2025/2025-12/2025-12-19-generating-a-deformed-image-using-bspline-transform-in-3d-sl-id45553.md)
-- [in 3d slicer is it possible to simulate femur cut in real ti](archive/rendered-topics/2025/2025-12/2025-12-19-in-3d-slicer-is-it-possible-to-simulate-femur-cut-in-real-ti-id45543.md)
-- [margin effect altering multiple segments at once](archive/rendered-topics/2025/2025-12/2025-12-19-margin-effect-altering-multiple-segments-at-once-id45554.md)
-- [segmentation tooth in jaw](archive/rendered-topics/2025/2025-12/2025-12-19-segmentation-tooth-in-jaw-id45550.md)
-- [no meeting this week dec 23rd](archive/rendered-topics/2025/2025-12/2025-12-22-no-meeting-this-week-dec-23rd-id45586.md)
-- [no pw meeting this dec 23rd](archive/rendered-topics/2025/2025-12/2025-12-22-no-pw-meeting-this-dec-23rd-id45585.md)
-- [the gui of slicer 5 10 0 seems to be unexpectedly scaled](archive/rendered-topics/2025/2025-12/2025-12-22-the-gui-of-slicer-5-10-0-seems-to-be-unexpectedly-scaled-id45582.md)
-- [where can i find a working slicer 5 6 x portable package wit](archive/rendered-topics/2025/2025-12/2025-12-11-where-can-i-find-a-working-slicer-5-6-x-portable-package-wit-id45445.md)
-- [colorize volume of a sequence sandbox](archive/rendered-topics/2025/2025-12/2025-12-12-colorize-volume-of-a-sequence-sandbox-id45460.md)
-- [cta willis registration failure](archive/rendered-topics/2025/2025-12/2025-12-13-cta-willis-registration-failure-id45470.md)
-- [interpreting ants registration warp field directionality](archive/rendered-topics/2025/2025-12/2025-12-13-interpreting-ants-registration-warp-field-directionality-id45467.md)
-- [is there an existing trame slicer docker image](archive/rendered-topics/2025/2025-12/2025-12-13-is-there-an-existing-trame-slicer-docker-image-id45481.md)
-- [need to hire for tutorial on volume measurements and croppin](archive/rendered-topics/2025/2025-12/2025-12-13-need-to-hire-for-tutorial-on-volume-measurements-and-croppin-id45474.md)
-- [segmentation in windows 11 extremely slow](archive/rendered-topics/2025/2025-12/2025-12-13-segmentation-in-windows-11-extremely-slow-id45473.md)
-- [which is the best extension for brain parcellation](archive/rendered-topics/2025/2025-12/2025-12-14-which-is-the-best-extension-for-brain-parcellation-id45483.md)
+- [how to cut a model using a grid surface markup](archive/rendered-topics/2025/2025-12/2025-12-09-how-to-cut-a-model-using-a-grid-surface-markup-id45416.md)
+- [undo segment changes in extensions monai label and nninterac](archive/rendered-topics/2025/2025-12/2025-12-09-undo-segment-changes-in-extensions-monai-label-and-nninterac-id45427.md)
+- [upper airway segmentator](archive/rendered-topics/2025/2025-12/2025-12-09-upper-airway-segmentator-id45413.md)

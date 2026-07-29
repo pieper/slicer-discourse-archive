@@ -3,7 +3,7 @@ topic_id: 33279
 title: "Grow from seeds error - minimum 2 visible segments required"
 date: 2023-12-07
 url: https://discourse.slicer.org/t/33279
-last_bumped: 2026-04-30T19:01:27.169Z
+last_bumped: 2026-07-28T22:06:48.276Z
 ---
 
 # Grow from seeds error - minimum 2 visible segments required
@@ -176,5 +176,11 @@ Jim<br>
 ## Post #24 by @aabrown100-git (2026-04-30 19:01 UTC)
 
 <p>Encountered the same error in Slicer 5.11.0. I restarted Slicer and tried again, and it worked. Unable to reproduce the original error.</p>
+
+---
+
+## Post #25 by @clep (2026-07-28 22:06 UTC)
+
+<p>I don’t know if it explains all or even most of these reports, but I notice that if you generate the error once (e.g. by having only one segment and clicking “initialize”), then no matter what it will generate the error when you add more segments and try again. So a fresh start indeed seems necessary, at least to get around that. Perhaps it could be a clue for the developers.</p>
 
 ---
