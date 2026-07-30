@@ -66,3 +66,4 @@
 - [2026 07 27 3D Slicer Cannot Display Cardiac Lge Mri Volume Correctly On](2026-07-27-3d-slicer-cannot-display-cardiac-lge-mri-volume-correctly-on-id47748.md)
 - [2026 07 28 How To See Vat And Sat Crossection Area At L3 Level](2026-07-28-how-to-see-vat-and-sat-crossection-area-at-l3-level-id47756.md)
 - [2026 07 28 Working Apple Silicon Mps Workaround For Dentalsegmentator S](2026-07-28-working-apple-silicon-mps-workaround-for-dentalsegmentator-s-id47755.md)
+- [2026 07 29 2026 08 04 Weekly Meeting](2026-07-29-2026-08-04-weekly-meeting-id47761.md)

@@ -3,7 +3,7 @@ topic_id: 34456
 title: "Problem using MEMOS extension"
 date: 2024-02-08
 url: https://discourse.slicer.org/t/34456
-last_bumped: 2026-07-29T00:49:59.614Z
+last_bumped: 2026-07-29T17:00:51.989Z
 ---
 
 # Problem using MEMOS extension
@@ -510,5 +510,31 @@ Rosie</p>
 <p>Can you try to rename your dicom volume that doesn’t have special characters and retry? With its space and square brackets it might be causing problem? <strong>2793: Linear Attenuation [1-cm] (2793)</strong></p>
 <p>Just rename it to something simple like volume and try.</p>
 <p>Also how big is the volume, and how much memory your GPU has.</p>
+
+---
+
+## Post #23 by @Mas515 (2026-07-29 15:13 UTC)
+
+<p>Thank you for your reply Murat. I tried that and got the same error. The dimensions are 1445, 1386, 800, the folder size is 3.21GB. My GPU has 18GB I think (under graphics card). I am now trying downsampling the file to 25% and I got this warning Warning: In vtkSlicerSegmentationsModuleLogic.cxx, line 1467</p>
+<p>vtkMRMLSegmentationNode (0000019D610A53A0): vtkSlicerSegmentationsModuleLogic::ImportLabelmapToSegmentationNode: Segmentation is a floating point scalar type and will be cast to an integer type. Voxel values may be truncated but it did give me an output!!!</p>
+
+---
+
+## Post #24 by @muratmaga (2026-07-29 16:07 UTC)
+
+<p>Thats a very large volume. Try downsampling it by 2 and retry.</p>
+
+---
+
+## Post #25 by @Mas515 (2026-07-29 16:22 UTC)
+
+<p>But now the memos segmentation and my image don’t overlay and my guess would be that it is something to do with the downsampling?</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/b/c/bcb2f22510d062f728a8e23c56a8f99b43ae1d94.jpeg" data-download-href="/uploads/short-url/qVj9yOWX4jpjDd3nGKJFQGr8N0w.jpeg?dl=1" title="Screenshot 2026-07-29 092239" rel="noopener nofollow ugc"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/b/c/bcb2f22510d062f728a8e23c56a8f99b43ae1d94_2_690x385.jpeg" alt="Screenshot 2026-07-29 092239" data-base62-sha1="qVj9yOWX4jpjDd3nGKJFQGr8N0w" width="690" height="385" srcset="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/b/c/bcb2f22510d062f728a8e23c56a8f99b43ae1d94_2_690x385.jpeg, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/b/c/bcb2f22510d062f728a8e23c56a8f99b43ae1d94_2_1035x577.jpeg 1.5x, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/b/c/bcb2f22510d062f728a8e23c56a8f99b43ae1d94_2_1380x770.jpeg 2x" data-dominant-color="A4A4B4"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">Screenshot 2026-07-29 092239</span><span class="informations">1920×1074 340 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
+
+---
+
+## Post #26 by @muratmaga (2026-07-29 17:00 UTC)
+
+<p>Thats a simple fix, but that’s least of your concerns. From images your embryo looks like E11-E12 or whereabouts. MEMOS is specific to E15 time point. It will not help you much, in fact probably not at all. You will be better of using nnInteractive and do prompt based segmentation.</p>
 
 ---

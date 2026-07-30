@@ -3,7 +3,7 @@ topic_id: 45801
 title: "Aligning CBCT & intraoral scan"
 date: 2026-01-16
 url: https://discourse.slicer.org/t/45801
-last_bumped: 2026-07-28T19:47:30.392Z
+last_bumped: 2026-07-29T06:53:11.590Z
 ---
 
 # Aligning CBCT & intraoral scan
@@ -34,5 +34,12 @@ last_bumped: 2026-07-28T19:47:30.392Z
 
 <p>The easiest approach is fiducial registration.  Create two markups points nodes and place at least 3 landmark points on the CBCT in one points node, and then place the corresponding points (in the same order) on the STL.  Open the “Fiducial Registration” module, and select one landmark set as the fixed landmarks, the other as the moving landmarks, and create a new transform to hold the registration transform matrix, and then click Apply.  Lastly, apply the resulting transform to the CT or model associated with the “Moving” landmarks to view the alignment.</p>
 <p>If you want a fully automated process, then you need to have a method of automatically choosing the points to align, which is much more complicated.</p>
+
+---
+
+## Post #4 by @manjula (2026-07-29 06:53 UTC)
+
+<p>Hi,</p>
+<p>There are several methods.  I prefer to use the FastModelAlign ( in SlicerMorph ) or Fiducial Registration Wizard (in SlicerIGT) You can see how to use this process at this.  <a href="https://www.youtube.com/watch?v=4I-9qnmvCLY" rel="noopener nofollow ugc">https://www.youtube.com/watch?v=4I-9qnmvCLY</a></p>
 
 ---

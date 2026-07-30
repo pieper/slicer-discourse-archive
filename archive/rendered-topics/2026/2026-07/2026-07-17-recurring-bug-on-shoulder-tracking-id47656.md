@@ -3,7 +3,7 @@ topic_id: 47656
 title: "Recurring bug on Shoulder tracking"
 date: 2026-07-17
 url: https://discourse.slicer.org/t/47656
-last_bumped: 2026-07-17T20:46:45.895Z
+last_bumped: 2026-07-29T19:21:05.693Z
 ---
 
 # Recurring bug on Shoulder tracking
@@ -55,5 +55,15 @@ GPU: NVIDIA RTX 3080 Ti</p>
 <li>NVIDIA RTX 3080 Ti</li>
 </ul>
 <p>I’d be happy to share the files with your team if you’d like to investigate further. However, the image files are too large to upload through this platform. Please let me know the best way to transfer them, and I’ll send them over.</p>
+
+---
+
+## Post #5 by @AlonsoFigueroa (2026-07-29 19:21 UTC)
+
+<p>Hi <a class="mention" href="/u/john_holtgrewe">@John_Holtgrewe</a>,  I wanted to provide a brief update on the Autoscoper-CUDA crashes we previously reported. We have now reproduced the issue with multiple scapular models from different patients and CT scans. The crash is also reproducible across several computers with different hardware configurations, including RTX 3080 and 3080 Ti GPUs, different Intel processors, and at least 64 GB of RAM. This suggests that the issue is not isolated to a particular dataset or workstation.</p>
+<p>Further testing suggests that the crash may be related to the size or extent of the scapular model. If we crop the model to approximately half of the scapula, excluding the inferior portion, the crash no longer occurs. However, this is not a practical solution for our application because excluding the inferior scapula removes landmarks that we use for tracking and reduces the reliability and capability of the autotracking function.</p>
+<p>We have also been investigating the source of the crash on our side and have found the following:</p>
+<p>Windows Reliability Monitor initially reported exception code <code>0xc0000409</code> in <code>ucrtbase.dll</code>. We therefore configured Windows Error Reporting to capture a full crash dump and analyzed it with WinDbg. The dump indicates that, following the relevant button click in Autoscoper, the application throws an unhandled native C++ exception (<code>0xe06d7363</code>). The C++ runtime then calls <code>terminate()</code> and <code>abort()</code>, producing the final <code>FAST_FAIL_FATAL_APP_EXIT</code> (<code>0xc0000409</code>). The first identifiable Autoscoper frame is <code>autoscoper-CUDA+0x660c7</code>, but without the corresponding debug symbols we cannot resolve it to a specific function.</p>
+<p>I can provide the complete WinDbg output, crash dump, and additional reproduction details if helpful.</p>
 
 ---
