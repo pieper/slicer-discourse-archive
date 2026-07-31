@@ -1,10 +1,10 @@
 # Slicer Discourse Archive Index
 
-Last updated: 2026-07-30 03:58 UTC
+Last updated: 2026-07-31 04:06 UTC
 
 ## Archive Contents
 
-- Total rendered topics: 19129
+- Total rendered topics: 19131
 - Raw JSON files: 0
 
 ## Recent Topics
@@ -50,7 +50,6 @@ Last updated: 2026-07-30 03:58 UTC
 - [no meeting this week dec 23rd](archive/rendered-topics/2025/2025-12/2025-12-22-no-meeting-this-week-dec-23rd-id45586.md)
 - [no pw meeting this dec 23rd](archive/rendered-topics/2025/2025-12/2025-12-22-no-pw-meeting-this-dec-23rd-id45585.md)
 - [the gui of slicer 5 10 0 seems to be unexpectedly scaled](archive/rendered-topics/2025/2025-12/2025-12-22-the-gui-of-slicer-5-10-0-seems-to-be-unexpectedly-scaled-id45582.md)
-- [high rms error during pivot calibration with vicon qualisys](archive/rendered-topics/2025/2025-12/2025-12-11-high-rms-error-during-pivot-calibration-with-vicon-qualisys-id45443.md)
 - [where can i find a working slicer 5 6 x portable package wit](archive/rendered-topics/2025/2025-12/2025-12-11-where-can-i-find-a-working-slicer-5-6-x-portable-package-wit-id45445.md)
 - [colorize volume of a sequence sandbox](archive/rendered-topics/2025/2025-12/2025-12-12-colorize-volume-of-a-sequence-sandbox-id45460.md)
 - [cta willis registration failure](archive/rendered-topics/2025/2025-12/2025-12-13-cta-willis-registration-failure-id45470.md)
@@ -59,3 +58,4 @@ Last updated: 2026-07-30 03:58 UTC
 - [need to hire for tutorial on volume measurements and croppin](archive/rendered-topics/2025/2025-12/2025-12-13-need-to-hire-for-tutorial-on-volume-measurements-and-croppin-id45474.md)
 - [segmentation in windows 11 extremely slow](archive/rendered-topics/2025/2025-12/2025-12-13-segmentation-in-windows-11-extremely-slow-id45473.md)
 - [which is the best extension for brain parcellation](archive/rendered-topics/2025/2025-12/2025-12-14-which-is-the-best-extension-for-brain-parcellation-id45483.md)
+- [16weekly meeting](archive/rendered-topics/2025/2025-12/2025-12-15-2025-12-16weekly-meeting-id45505.md)

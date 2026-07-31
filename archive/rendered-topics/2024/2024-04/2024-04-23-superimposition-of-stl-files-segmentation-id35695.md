@@ -3,7 +3,7 @@ topic_id: 35695
 title: "Superimposition of STL files / segmentation"
 date: 2024-04-23
 url: https://discourse.slicer.org/t/35695
-last_bumped: 2026-03-25T05:32:55.539Z
+last_bumped: 2026-07-30T10:54:18.243Z
 ---
 
 # Superimposition of STL files / segmentation
@@ -80,5 +80,12 @@ one of the scan is hiding part or all of the other scan. is there something I ca
 
 <p>Hi Constance_sid, can you please describe how you made the superimposition and measurements? Do you happen to have a video?</p>
 <p>Thanks a lot!</p>
+
+---
+
+## Post #9 by @abhijeet2410 (2026-07-30 10:54 UTC)
+
+<p><strong>Used surface distance in 3d slicer. Removed unwanted part. Even after that this result is noted.</strong></p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/c/b/cb12aef37b56cf1f6a62ad6666d059e67bb88b60.jpeg" data-download-href="/uploads/short-url/sYsXeY3a3rtt8jhmOb3EOEkIP4Y.jpeg?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/c/b/cb12aef37b56cf1f6a62ad6666d059e67bb88b60_2_415x500.jpeg" alt="image" data-base62-sha1="sYsXeY3a3rtt8jhmOb3EOEkIP4Y" width="415" height="500" srcset="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/c/b/cb12aef37b56cf1f6a62ad6666d059e67bb88b60_2_415x500.jpeg, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/c/b/cb12aef37b56cf1f6a62ad6666d059e67bb88b60_2_622x750.jpeg 1.5x, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/c/b/cb12aef37b56cf1f6a62ad6666d059e67bb88b60_2_830x1000.jpeg 2x" data-dominant-color="2E2E2E"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">image</span><span class="informations">1276×1534 145 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
 
 ---

@@ -3,7 +3,7 @@ topic_id: 44363
 title: "Digital Orthognathic Planning: A Full Workflow for Surgeons & Trainees using  3D Slicer"
 date: 2025-09-05
 url: https://discourse.slicer.org/t/44363
-last_bumped: 2026-07-29T06:56:56.253Z
+last_bumped: 2026-07-30T15:06:50.475Z
 ---
 
 # Digital Orthognathic Planning: A Full Workflow for Surgeons & Trainees using  3D Slicer
@@ -33,5 +33,19 @@ last_bumped: 2026-07-29T06:56:56.253Z
 ## Post #3 by @manjula (2026-07-29 06:56 UTC)
 
 <p>Hi Sorry for the delayed response. Where was it reported as 10.30 mm error ? In any case you might have have to optimize the scan and the segments to get the best results (trimming unwanted parts) and then applying the transformation to the full scan.  My experience is that you can get the same results as with ExoPlan or Materialize Enlight or mimics with much better control of the segmentations.  As in any other software you should verify manually the alignment by visual inspection against the CT/CBCT and the algner IOS. Also you can use heatmap (model to Model distance module) .</p>
+
+---
+
+## Post #4 by @abhijeet2410 (2026-07-30 10:58 UTC)
+
+<p>We used segment comparison model. After trimming a result slightly affected. Tried all parameters from Fast Align tool. This error is unacceptable for real time application because it could create significant positional errors in the complete 3D structure.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/9/f/9f0c8630830646e61bdeb68c7b60d00bc986835b.jpeg" data-download-href="/uploads/short-url/mH0KxNBD9msWQSnEdBco50DNMLh.jpeg?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/9/f/9f0c8630830646e61bdeb68c7b60d00bc986835b_2_310x500.jpeg" alt="image" data-base62-sha1="mH0KxNBD9msWQSnEdBco50DNMLh" width="310" height="500" srcset="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/9/f/9f0c8630830646e61bdeb68c7b60d00bc986835b_2_310x500.jpeg, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/9/f/9f0c8630830646e61bdeb68c7b60d00bc986835b_2_465x750.jpeg 1.5x, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/9/f/9f0c8630830646e61bdeb68c7b60d00bc986835b_2_620x1000.jpeg 2x" data-dominant-color="383838"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">image</span><span class="informations">666×1071 103 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/c/b/cb12aef37b56cf1f6a62ad6666d059e67bb88b60.jpeg" data-download-href="/uploads/short-url/sYsXeY3a3rtt8jhmOb3EOEkIP4Y.jpeg?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/c/b/cb12aef37b56cf1f6a62ad6666d059e67bb88b60_2_415x500.jpeg" alt="image" data-base62-sha1="sYsXeY3a3rtt8jhmOb3EOEkIP4Y" width="415" height="500" srcset="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/c/b/cb12aef37b56cf1f6a62ad6666d059e67bb88b60_2_415x500.jpeg, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/c/b/cb12aef37b56cf1f6a62ad6666d059e67bb88b60_2_622x750.jpeg 1.5x, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/c/b/cb12aef37b56cf1f6a62ad6666d059e67bb88b60_2_830x1000.jpeg 2x" data-dominant-color="2E2E2E"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">image</span><span class="informations">1276×1534 145 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
+
+---
+
+## Post #5 by @manjula (2026-07-30 15:06 UTC)
+
+<p>Did you check against the CT visually ? do you see 1 Cm deviation ? i am not sure how comparison model module works ? Visually see how the  the model is aligned.  Also as control test export the aligned IOS and the segment from Exoplan or Materialize enlight see  the results with the comparison model module ? in any case if you visually inspect aligned model vs CT you might be able to better see what has happened.</p>
 
 ---

@@ -3,7 +3,7 @@ topic_id: 47656
 title: "Recurring bug on Shoulder tracking"
 date: 2026-07-17
 url: https://discourse.slicer.org/t/47656
-last_bumped: 2026-07-29T19:21:05.693Z
+last_bumped: 2026-07-30T17:38:12.566Z
 ---
 
 # Recurring bug on Shoulder tracking
@@ -65,5 +65,11 @@ GPU: NVIDIA RTX 3080 Ti</p>
 <p>We have also been investigating the source of the crash on our side and have found the following:</p>
 <p>Windows Reliability Monitor initially reported exception code <code>0xc0000409</code> in <code>ucrtbase.dll</code>. We therefore configured Windows Error Reporting to capture a full crash dump and analyzed it with WinDbg. The dump indicates that, following the relevant button click in Autoscoper, the application throws an unhandled native C++ exception (<code>0xe06d7363</code>). The C++ runtime then calls <code>terminate()</code> and <code>abort()</code>, producing the final <code>FAST_FAIL_FATAL_APP_EXIT</code> (<code>0xc0000409</code>). The first identifiable Autoscoper frame is <code>autoscoper-CUDA+0x660c7</code>, but without the corresponding debug symbols we cannot resolve it to a specific function.</p>
 <p>I can provide the complete WinDbg output, crash dump, and additional reproduction details if helpful.</p>
+
+---
+
+## Post #6 by @mikebind (2026-07-30 17:38 UTC)
+
+<p>I’m not familiar with AutoScoper, but it sounds from your troubleshooting like the scapula model may just have too many points for the processing occurring and the memory problems are leading to the crash (running out of memory is probably the most common reason for Slicer crashes).  For models, the typical best solution is decimation.  For models with a high density of points, you can often reduce the number of points very dramatically (&gt;90%) without much loss of detail.  So, rather than cropping, perhaps you can decimate the model to stay within memory limits. Interactively, you can do this using the SurfaceToolbox module, and it is also possible via python/VTK if it needs to be integrated into the workflow more deeply.</p>
 
 ---

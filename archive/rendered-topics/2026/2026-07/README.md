@@ -67,3 +67,5 @@
 - [2026 07 28 How To See Vat And Sat Crossection Area At L3 Level](2026-07-28-how-to-see-vat-and-sat-crossection-area-at-l3-level-id47756.md)
 - [2026 07 28 Working Apple Silicon Mps Workaround For Dentalsegmentator S](2026-07-28-working-apple-silicon-mps-workaround-for-dentalsegmentator-s-id47755.md)
 - [2026 07 29 2026 08 04 Weekly Meeting](2026-07-29-2026-08-04-weekly-meeting-id47761.md)
+- [2026 07 30 Mpr Or Reslice Saving Planes](2026-07-30-mpr-or-reslice-saving-planes-id47765.md)
+- [2026 07 30 No New Mac Extensions For Stable](2026-07-30-no-new-mac-extensions-for-stable-id47768.md)
