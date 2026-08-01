@@ -3,7 +3,7 @@ topic_id: 32254
 title: "New Colorize Volume module"
 date: 2023-10-16
 url: https://discourse.slicer.org/t/32254
-last_bumped: 2026-07-23T15:24:07.622Z
+last_bumped: 2026-07-31T14:45:36.274Z
 ---
 
 # New Colorize Volume module
@@ -250,5 +250,11 @@ Do you mean that we don’t need to resolve it because commercial software inclu
 ## Post #19 by @jaimigray (2026-07-23 15:24 UTC)
 
 <p>Hi Aiden, the density colormaps were made using the Volume Rendering module, giving me full control over the colormap for the skull and the ability to make the rest of the datasets invisible using the opacity controls. Then I used the Colorize Volume module to create another rendering layer for the skin. I made both the volume rendering and colorize volume layers visible at the same time to create this effect.</p>
+
+---
+
+## Post #20 by @aiden.zhu (2026-07-31 14:45 UTC)
+
+<p>Thanks a lot for the info. I will try to show some density-related colors.</p>
 
 ---

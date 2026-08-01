@@ -69,3 +69,7 @@
 - [2026 07 29 2026 08 04 Weekly Meeting](2026-07-29-2026-08-04-weekly-meeting-id47761.md)
 - [2026 07 30 Mpr Or Reslice Saving Planes](2026-07-30-mpr-or-reslice-saving-planes-id47765.md)
 - [2026 07 30 No New Mac Extensions For Stable](2026-07-30-no-new-mac-extensions-for-stable-id47768.md)
+- [2026 07 31 A Newcomer To 3D Slicer Shares A Cinematic Interior Fly Thro](2026-07-31-a-newcomer-to-3d-slicer-shares-a-cinematic-interior-fly-thro-id47778.md)
+- [2026 07 31 Boundary Cut Upper Airway Volume Lower Airway Volume Does No](2026-07-31-boundary-cut-upper-airway-volume-lower-airway-volume-does-no-id47779.md)
+- [2026 07 31 Pytorch Install Fails On Windows With Winerror 206 Pythonsli](2026-07-31-pytorch-install-fails-on-windows-with-winerror-206-pythonsli-id47781.md)
+- [2026 07 31 Segmenting Occipital Bone On A Head Ct](2026-07-31-segmenting-occipital-bone-on-a-head-ct-id47777.md)
