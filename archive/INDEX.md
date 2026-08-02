@@ -1,6 +1,6 @@
 # Slicer Discourse Archive Index
 
-Last updated: 2026-08-01 04:05 UTC
+Last updated: 2026-08-02 04:08 UTC
 
 ## Archive Contents
 
@@ -19,13 +19,6 @@ Last updated: 2026-08-01 04:05 UTC
 - [README.md](archive/rendered-topics/2025/2025-04/README.md)
 - [README.md](archive/rendered-topics/2025/2025-02/README.md)
 - [README.md](archive/rendered-topics/2025/2025-01/README.md)
-- [no meeting this week dec 30th](archive/rendered-topics/2025/2025-12/2025-12-30-no-meeting-this-week-dec-30th-id45638.md)
-- [no nightly windows releases since 2025 12 22](archive/rendered-topics/2025/2025-12/2025-12-30-no-nightly-windows-releases-since-2025-12-22-id45647.md)
-- [no pw meeting this week dec 30th](archive/rendered-topics/2025/2025-12/2025-12-30-no-pw-meeting-this-week-dec-30th-id45637.md)
-- [postdoc position in chicago il for those with slicer image a](archive/rendered-topics/2025/2025-12/2025-12-30-postdoc-position-in-chicago-il-for-those-with-slicer-image-a-id45646.md)
-- [roi based segmentation in monai label slicer extension does](archive/rendered-topics/2025/2025-12/2025-12-30-roi-based-segmentation-in-monai-label-slicer-extension-does-id45634.md)
-- [segment editor crashes during logical operators in segment e](archive/rendered-topics/2025/2025-12/2025-12-30-segment-editor-crashes-during-logical-operators-in-segment-e-id45635.md)
-- [2d cine not playing when converted to nifti from dicom](archive/rendered-topics/2025/2025-12/2025-12-19-2d-cine-not-playing-when-converted-to-nifti-from-dicom-id45555.md)
 - [2d cine not playing when converted to nifti from dicom](archive/rendered-topics/2025/2025-12/2025-12-19-2d-cine-not-playing-when-converted-to-nifti-from-dicom-id45557.md)
 - [apply filters to a ct scan to deal with high contrast elemen](archive/rendered-topics/2025/2025-12/2025-12-19-apply-filters-to-a-ct-scan-to-deal-with-high-contrast-elemen-id45560.md)
 - [apply filters to a ct scan to deal with high contrast elemen](archive/rendered-topics/2025/2025-12/2025-12-19-apply-filters-to-a-ct-scan-to-deal-with-high-contrast-elemen-id45561.md)
@@ -47,6 +40,16 @@ Last updated: 2026-08-01 04:05 UTC
 - [normalization of glioblastoma mri images](archive/rendered-topics/2025/2025-12/2025-12-29-normalization-of-glioblastoma-mri-images-id45629.md)
 - [downloading older releases is problematic](archive/rendered-topics/2025/2025-12/2025-12-30-downloading-older-releases-is-problematic-id45645.md)
 - [is it possible to update closed surface of a segment instead](archive/rendered-topics/2025/2025-12/2025-12-30-is-it-possible-to-update-closed-surface-of-a-segment-instead-id45639.md)
+- [no meeting this week dec 30th](archive/rendered-topics/2025/2025-12/2025-12-30-no-meeting-this-week-dec-30th-id45638.md)
+- [no nightly windows releases since 2025 12 22](archive/rendered-topics/2025/2025-12/2025-12-30-no-nightly-windows-releases-since-2025-12-22-id45647.md)
+- [no pw meeting this week dec 30th](archive/rendered-topics/2025/2025-12/2025-12-30-no-pw-meeting-this-week-dec-30th-id45637.md)
+- [postdoc position in chicago il for those with slicer image a](archive/rendered-topics/2025/2025-12/2025-12-30-postdoc-position-in-chicago-il-for-those-with-slicer-image-a-id45646.md)
+- [roi based segmentation in monai label slicer extension does](archive/rendered-topics/2025/2025-12/2025-12-30-roi-based-segmentation-in-monai-label-slicer-extension-does-id45634.md)
+- [segment editor crashes during logical operators in segment e](archive/rendered-topics/2025/2025-12/2025-12-30-segment-editor-crashes-during-logical-operators-in-segment-e-id45635.md)
+- [how to cut a model using a grid surface markup](archive/rendered-topics/2025/2025-12/2025-12-09-how-to-cut-a-model-using-a-grid-surface-markup-id45416.md)
+- [undo segment changes in extensions monai label and nninterac](archive/rendered-topics/2025/2025-12/2025-12-09-undo-segment-changes-in-extensions-monai-label-and-nninterac-id45427.md)
+- [upper airway segmentator](archive/rendered-topics/2025/2025-12/2025-12-09-upper-airway-segmentator-id45413.md)
+- [interaction box for transforms](archive/rendered-topics/2025/2025-12/2025-12-10-interaction-box-for-transforms-id45436.md)
 - [low framerate streaming ndi lyra transforms in plus server](archive/rendered-topics/2025/2025-12/2025-12-10-low-framerate-streaming-ndi-lyra-transforms-in-plus-server-id45434.md)
 - [severe 3d rendering slowdown with many segmentation nodes ca](archive/rendered-topics/2025/2025-12/2025-12-10-severe-3d-rendering-slowdown-with-many-segmentation-nodes-ca-id45432.md)
 - [can the nninteractive server environment be in a read only f](archive/rendered-topics/2025/2025-12/2025-12-11-can-the-nninteractive-server-environment-be-in-a-read-only-f-id45451.md)
@@ -56,6 +59,3 @@ Last updated: 2026-08-01 04:05 UTC
 - [cta willis registration failure](archive/rendered-topics/2025/2025-12/2025-12-13-cta-willis-registration-failure-id45470.md)
 - [interpreting ants registration warp field directionality](archive/rendered-topics/2025/2025-12/2025-12-13-interpreting-ants-registration-warp-field-directionality-id45467.md)
 - [is there an existing trame slicer docker image](archive/rendered-topics/2025/2025-12/2025-12-13-is-there-an-existing-trame-slicer-docker-image-id45481.md)
-- [need to hire for tutorial on volume measurements and croppin](archive/rendered-topics/2025/2025-12/2025-12-13-need-to-hire-for-tutorial-on-volume-measurements-and-croppin-id45474.md)
-- [segmentation in windows 11 extremely slow](archive/rendered-topics/2025/2025-12/2025-12-13-segmentation-in-windows-11-extremely-slow-id45473.md)
-- [which is the best extension for brain parcellation](archive/rendered-topics/2025/2025-12/2025-12-14-which-is-the-best-extension-for-brain-parcellation-id45483.md)
