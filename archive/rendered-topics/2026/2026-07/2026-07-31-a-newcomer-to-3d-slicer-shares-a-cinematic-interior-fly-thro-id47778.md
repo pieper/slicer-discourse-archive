@@ -3,7 +3,7 @@ topic_id: 47778
 title: "A newcomer to 3D Slicer shares a cinematic interior fly-through of his own LAD and asks whether the rippled texture on the lumen wall is real anatomy or a segmentation/reconstruction artifact."
 date: 2026-07-31
 url: https://discourse.slicer.org/t/47778
-last_bumped: 2026-08-01T02:22:38.672Z
+last_bumped: 2026-08-03T17:20:26.937Z
 ---
 
 # A newcomer to 3D Slicer shares a cinematic interior fly-through of his own LAD and asks whether the rippled texture on the lumen wall is real anatomy or a segmentation/reconstruction artifact.
@@ -35,5 +35,15 @@ last_bumped: 2026-08-01T02:22:38.672Z
 ## Post #3 by @Passerby (2026-08-01 02:22 UTC)
 
 <p>Thanks for the feedback! The ripples are definitely there in Slicer, that’s how I chose the fine tuning Guided Segmentation settings, they made the ripples show up. But it’s not a voxel thing, and irregular in a very realistic way. And here’s the thing, I used those “ripple” settings to create the lumen, and did it ignorant of the fact that calcification was a simple threshold, the easiest thing in the world to do. And when I did, it fit in the dents in the lumen rather precisely. Even more precisely than it looks, I deliberately thresholded the calcification for worst case and I hear it tends to bloom anyway. Where it sticks out, it would stick out a lot less. It’s been my experience that slicer creates excellent stl files. Nothing seems to be lost in that translation to the vector world.</p>
+
+---
+
+## Post #4 by @amyers (2026-08-03 17:20 UTC)
+
+<p>Hi Rick,</p>
+<p>Thanks for sharing your information of a virtual endoscopy using 3D Slicer’s Guided Segmentation and Auto Desk’s 3ds Max software.</p>
+<p>I think a video of an actual endoscopy performed right after a CT Angiogram would be the best way to determine whether the ripples are real anatomy or segmentations. What do you think?</p>
+<p>I’m actually putting together a CT Angiogram study on the side that is focused on visualizing coronary arteries through volume rendering, similar to ColorizeVolume. If you’re interested in having another researcher explore your dataset, I can help you anonymize it before sharing.</p>
+<p>Alex</p>
 
 ---

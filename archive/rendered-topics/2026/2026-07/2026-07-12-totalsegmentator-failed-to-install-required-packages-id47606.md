@@ -3,7 +3,7 @@ topic_id: 47606
 title: "TotalSegmentator failed to install required packages"
 date: 2026-07-12
 url: https://discourse.slicer.org/t/47606
-last_bumped: 2026-07-22T16:29:13.478Z
+last_bumped: 2026-08-03T16:39:10.978Z
 ---
 
 # TotalSegmentator failed to install required packages
@@ -70,5 +70,11 @@ TypeError: 'NoneType' object is not iterable
 ## Post #7 by @johny723 (2026-07-22 16:29 UTC)
 
 <p>Is there any real help to fix this issue? None of the previous versions has ever been so stubborn as this 5.12.1 Total Segmentator</p>
+
+---
+
+## Post #8 by @lassoan (2026-08-03 16:39 UTC)
+
+<p>Yes, this is fixed in the latest Slicer Stable Release (Slicer-5.12.3) and latest Slicer Preview Releases. When you see a notification at startup that a new Slicer release is available then you need to install it if you want to get latest extension bugfixes and improvements.</p>
 
 ---
