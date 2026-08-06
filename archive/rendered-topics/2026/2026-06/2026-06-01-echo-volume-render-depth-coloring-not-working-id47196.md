@@ -3,7 +3,7 @@ topic_id: 47196
 title: "Echo Volume Render depth coloring not working"
 date: 2026-06-01
 url: https://discourse.slicer.org/t/47196
-last_bumped: 2026-08-03T19:25:11.072Z
+last_bumped: 2026-08-05T20:27:34.230Z
 ---
 
 # Echo Volume Render depth coloring not working
@@ -25,5 +25,37 @@ last_bumped: 2026-08-03T19:25:11.072Z
 ## Post #2 by @aabrown100-git (2026-08-03 19:25 UTC)
 
 <p>Pinging this in hopes of getting some advice!</p>
+
+---
+
+## Post #3 by @mikebind (2026-08-05 05:55 UTC)
+
+<p>Try narrowing the range on the depth coloring slider, it is currently stretching the depth colormap over 500 mm, and my guess is that the rendered echo region covers a small slice of that, so the color range you see is just a small slice of the colormap.  Slide the whole range until the rendered region is a medium depth color, then bring in the edges until you see the range of the colormap that you would like (presumably most of it).</p>
+
+---
+
+## Post #4 by @aabrown100-git (2026-08-05 18:52 UTC)
+
+<p><a class="mention" href="/u/mikebind">@mikebind</a> Thanks for the advice. I tried increasing the “Depth range” to [-10000, 10000], and decreasing to [-10, 10]. For each, sliding the range as well as the min and max had no effect. I’ve attached screen recordings. Please let me know if I’m doing anything obviously wrong!</p>
+<div class="youtube-onebox lazy-video-container" data-video-id="Y1rn2ysKFHg" data-video-title="Screen Recording 2026 08 05 at 11 25 37 AM" data-video-start-time="" data-provider-name="youtube">
+  <a href="https://www.youtube.com/watch?v=Y1rn2ysKFHg" target="_blank" class="video-thumbnail" rel="noopener nofollow ugc">
+    <img class="youtube-thumbnail" src="https://i.ytimg.com/vi/Y1rn2ysKFHg/hqdefault.jpg" title="Screen Recording 2026 08 05 at 11 25 37 AM" width="480" height="360">
+  </a>
+</div>
+
+<div class="youtube-onebox lazy-video-container" data-video-id="jbEk3bYk2ZU" data-video-title="Screen Recording 2026 08 05 at 11 28 23 AM" data-video-start-time="" data-provider-name="youtube">
+  <a href="https://www.youtube.com/watch?v=jbEk3bYk2ZU" target="_blank" class="video-thumbnail" rel="noopener nofollow ugc">
+    <img class="youtube-thumbnail" src="https://i.ytimg.com/vi/jbEk3bYk2ZU/hqdefault.jpg" title="Screen Recording 2026 08 05 at 11 28 23 AM" width="480" height="360">
+  </a>
+</div>
+
+
+---
+
+## Post #5 by @mikebind (2026-08-05 20:27 UTC)
+
+<p>Hm, that does seem odd. I just confirmed that I can get sensible depth renderings using this module.  I’m using Slicer 5.10.0, the same as you.</p>
+<p></p><div class="video-placeholder-container" data-video-src="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/9/1/91e20786581ff97d5f850cf3545beaa88ddeabc9.mp4" data-thumbnail-src="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/9/d/9d0226be85b60a669120fa61647f817b1b98ccf3.jpeg" data-video-base62-sha1="kOxuVZA55zrIvOX8wGPyufkqqud.mp4">
+  </div>I have observed in the past that Echo Volume Render does not play well with any manual adjustment of settings in the Volume Rendering module.  Any chance that you touched something there?  If so, I would try just reopening Slicer and starting from scratch in the Echo Volume Render module, which will reset any confused settings. Beyond that, I would try a different echo volume to see if the issue seems specific to this dataset.  Has this worked for you in the past?<p></p>
 
 ---
