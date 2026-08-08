@@ -1,8 +1,9 @@
 ---
 topic_id: 42025
-title: "How To Build Plastimatch Binary As Part Of Slicerrt Extensio"
+title: "How to build plastimatch binary as part of SlicerRT extension?"
 date: 2025-03-07
 url: https://discourse.slicer.org/t/42025
+last_bumped: 2026-08-07T21:14:40.768Z
 ---
 
 # How to build plastimatch binary as part of SlicerRT extension?
@@ -42,5 +43,11 @@ url: https://discourse.slicer.org/t/42025
 <p>Thanks for the quick reply!</p>
 <p>I was looking for a command line tool to convert RTSTRUCT into raster volume, and Plastimatch convert was my first choice. Unfortunately, it is no longer installable with Linux package manager, there is no linux or mac binary provided, and I could not find the “official” docker image. I next tried to compile it myself from source, but ran into C++17 standard errors. Since I am able to compile SlicerRT, and I know it is used there, that was my next choice.</p>
 <p>I ended up using Platipy and specifically this function: <a href="https://github.com/pyplati/platipy/blob/master/platipy/dicom/io/rtstruct_to_nifti.py#L220" class="inline-onebox">platipy/platipy/dicom/io/rtstruct_to_nifti.py at master · pyplati/platipy · GitHub</a>.  I don’t know how robust it is, but it seems to work for the contours I needed to process.</p>
+
+---
+
+## Post #6 by @fedorov (2026-08-07 21:14 UTC)
+
+<p>I again ended up being in a situation where I needed <code>plastimatch</code> but really really did not want to build it, so with the help of Claude I prepared this repo that builds binaries for linux, windows and mac (silicone and intel), and publishes a python package in PyPI <a href="https://pypi.org/project/plastimatch/" class="inline-onebox">plastimatch · PyPI</a> so that you can install plastimatch binaries with <code>pip install plastimatch</code> on any of those platforms: <a href="https://github.com/ImagingDataCommons/plastimatch-python-distributions" class="inline-onebox">GitHub - ImagingDataCommons/plastimatch-python-distributions: Python distribution of the plastimatch medical image processing tools. · GitHub</a>. Hope this helps others!</p>
 
 ---

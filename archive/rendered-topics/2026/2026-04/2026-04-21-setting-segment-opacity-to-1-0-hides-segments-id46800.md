@@ -3,7 +3,7 @@ topic_id: 46800
 title: "Setting segment opacity to < 1.0 hides segments"
 date: 2026-04-21
 url: https://discourse.slicer.org/t/46800
-last_bumped: 2026-05-23T04:04:59.096Z
+last_bumped: 2026-08-07T10:08:00.285Z
 ---
 
 # Setting segment opacity to < 1.0 hides segments
@@ -114,5 +114,29 @@ last_bumped: 2026-05-23T04:04:59.096Z
 
 <p>The fundamental fix has been applied in the <a href="https://gitlab.freedesktop.org/mesa/mesa/-/work_items/15352" rel="noopener nofollow ugc">mesa</a> package.</p>
 <p>To be complete, the <code>zink</code> driver (Vulkan) resolves the transparency problem, but is found bad for <code>Volume rendering</code>.</p>
+
+---
+
+## Post #11 by @Karuruychi (2026-08-07 07:20 UTC)
+
+<p><a class="mention" href="/u/chir.set">@chir.set</a> Hi, after looking into your issue, I noticed an interesting similarity with a problem I’m experiencing on Linux.</p>
+<p>When I set the segmentation opacity to anything below 1.0, the rendering also becomes incorrect. In your case, the segmentation disappears completely, while in my case it becomes fragmented/corrupted.</p>
+<p>The symptoms are different, but both problems seem to start when the opacity goes below 1.0. Could you take a look and see if you can guess what might be happening in both cases, and whether they could be related somehow?<br>
+Link to my issue: <a href="https://discourse.slicer.org/t/color-display-error-on-3d-volume/46390" class="inline-onebox">Color display error on 3D Volume</a></p>
+
+---
+
+## Post #12 by @chir.set (2026-08-07 10:08 UTC)
+
+<aside class="quote no-group" data-username="Karuruychi" data-post="11" data-topic="46800">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="24" height="24" src="https://sea2.discourse-cdn.com/flex002/user_avatar/discourse.slicer.org/karuruychi/48/81758_2.png" class="avatar"> Karuruychi:</div>
+<blockquote>
+<p>see if you can guess what might be happening</p>
+</blockquote>
+</aside>
+<p>That’s a hard exercise <img src="https://emoji.discourse-cdn.com/twitter/smile.png?v=15" title=":smile:" class="emoji" alt=":smile:" loading="lazy" width="20" height="20"></p>
+<p>Look for any messages in the application log and in the python console. Start from the command line and see if there are unusual output. Try to determine the changes in your machine since the last normal result. Tweak the application settings relevant to display and segmentation. …</p>
 
 ---

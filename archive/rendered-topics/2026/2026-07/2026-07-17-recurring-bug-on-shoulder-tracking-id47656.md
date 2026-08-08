@@ -3,7 +3,7 @@ topic_id: 47656
 title: "Recurring bug on Shoulder tracking"
 date: 2026-07-17
 url: https://discourse.slicer.org/t/47656
-last_bumped: 2026-07-30T17:38:12.566Z
+last_bumped: 2026-08-07T18:01:57.445Z
 ---
 
 # Recurring bug on Shoulder tracking
@@ -71,5 +71,15 @@ GPU: NVIDIA RTX 3080 Ti</p>
 ## Post #6 by @mikebind (2026-07-30 17:38 UTC)
 
 <p>I’m not familiar with AutoScoper, but it sounds from your troubleshooting like the scapula model may just have too many points for the processing occurring and the memory problems are leading to the crash (running out of memory is probably the most common reason for Slicer crashes).  For models, the typical best solution is decimation.  For models with a high density of points, you can often reduce the number of points very dramatically (&gt;90%) without much loss of detail.  So, rather than cropping, perhaps you can decimate the model to stay within memory limits. Interactively, you can do this using the SurfaceToolbox module, and it is also possible via python/VTK if it needs to be integrated into the workflow more deeply.</p>
+
+---
+
+## Post #7 by @John_Holtgrewe (2026-08-07 18:01 UTC)
+
+<p>Hi Alonso,</p>
+<p>I apologize for just now getting back to you. The size of the volumes possibly causing the crash is interesting. We have only worked with relatively smaller volumes (distal end of the femur and proximal end of tibia). Could you share the following details about the volumes that you are trying to load in: dimensions of the tiff stack (including number of slices), voxel size, and file size?</p>
+<p>Yes, any additional reproduction details you can provide will be helpful with documenting this issue.</p>
+<p>Thanks!</p>
+<p>John</p>
 
 ---
