@@ -3,7 +3,7 @@ topic_id: 47792
 title: "SlicerNNInteractive: segmenting one structure erases part of an adjacent, already-completed segment"
 date: 2026-08-03
 url: https://discourse.slicer.org/t/47792
-last_bumped: 2026-08-03T16:36:34.126Z
+last_bumped: 2026-08-09T03:28:55.830Z
 ---
 
 # SlicerNNInteractive: segmenting one structure erases part of an adjacent, already-completed segment
@@ -39,5 +39,11 @@ last_bumped: 2026-08-03T16:36:34.126Z
 
 <p>I agree that this is a subtle bug (that should not be too difficult to fix). Please let the developers know by submitting an issue to <a href="https://github.com/coendevente/SlicerNNInteractive/issues" class="inline-onebox">Issues · coendevente/SlicerNNInteractive · GitHub</a></p>
 <p>To get latest updates, you need to use the latest Slicer Stable Release (currently Slicer-5.12.3).</p>
+
+---
+
+## Post #4 by @Jean_Pinson (2026-08-09 03:28 UTC)
+
+<p>Thanks <a class="mention" href="/u/cpinter">@cpinter</a> For your suggestion, I will do that until it’s fixed. And thanks <a class="mention" href="/u/lassoan">@lassoan</a>, I’m going to submit this issue</p>
 
 ---

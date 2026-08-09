@@ -3,7 +3,7 @@ topic_id: 47814
 title: "Level tracing tool is either an amnesiac or thinks I'm too stupid to segment on my own"
 date: 2026-08-05
 url: https://discourse.slicer.org/t/47814
-last_bumped: 2026-08-05T21:01:00.836Z
+last_bumped: 2026-08-08T08:13:36.845Z
 ---
 
 # Level tracing tool is either an amnesiac or thinks I'm too stupid to segment on my own
@@ -34,5 +34,11 @@ Actual behavior: random sections (consistent across multiple layers) are missing
 <p>The level tracing tool can be very finicky.  If you can develop a concrete set of steps with sample data to reproduce it’s possible someone might know how to fix this, but the original developers of the tool aren’t available.  It’s good that it’s helpful for your use case, but not a lot of people use it.</p>
 <p>For most applications grow from seeds was found to be a much more controllable and reliable tool.  Plus it’s natively 3D so less work to use.</p>
 <p>Even more recently nnInteractive has proven useful and should definitely be tried.</p>
+
+---
+
+## Post #3 by @Chelonian (2026-08-08 08:13 UTC)
+
+<p>Thank you for the advice, as soon as i figured out how to use grow from seeds it worked much better for my task. Also glad to know I might not be crazy with the level tracing tool.</p>
 
 ---
