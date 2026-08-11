@@ -3,7 +3,7 @@ topic_id: 47656
 title: "Recurring bug on Shoulder tracking"
 date: 2026-07-17
 url: https://discourse.slicer.org/t/47656
-last_bumped: 2026-08-07T18:01:57.445Z
+last_bumped: 2026-08-10T15:32:06.504Z
 ---
 
 # Recurring bug on Shoulder tracking
@@ -81,5 +81,40 @@ GPU: NVIDIA RTX 3080 Ti</p>
 <p>Yes, any additional reproduction details you can provide will be helpful with documenting this issue.</p>
 <p>Thanks!</p>
 <p>John</p>
+
+---
+
+## Post #8 by @AlonsoFigueroa (2026-08-10 15:32 UTC)
+
+<p>Hello John,</p>
+<p>Thank you so much for getting back to us.</p>
+<p>We followed <a class="mention" href="/u/mikebind">@mikebind</a>  advice and decimated both the STL models and the TIFF stacks, but unfortunately, the issue persists. Thank you as well, Mike, we’ll report back as soon as we resolve it. I am adding the details of the data that we are using, but I am happy to share the volumes and images if you’d like.</p>
+<p>Please find the details of our data below:</p>
+<p><strong>Original CT scan</strong></p>
+<ul>
+<li>Dimensions: 512 × 512 × 411</li>
+<li>Voxel spacing: 0.48828125 × 0.48828125 × 0.6 mm</li>
+</ul>
+<p><strong>X-ray images</strong></p>
+<ul>
+<li>File size: 2 MB per frame</li>
+<li>Bit depth: 16-bit</li>
+<li>Dimensions: 1024 × 1024</li>
+</ul>
+<p><strong>Scapula</strong></p>
+<ul>
+<li>TIFF: 20.5 MB; 229 × 239 × 241; VoxelSize 0.488 0.488 0.6; 16-bit</li>
+<li>STL: 16.2 MB; 231,301 vertices</li>
+</ul>
+<p><strong>Clavicle</strong></p>
+<ul>
+<li>TIFF: 715 KB; 328 × 166 × 80; VoxelSize 0.488 0.488 0.6; 16-bit</li>
+<li>STL: 5.3 MB; 94,912 vertices</li>
+</ul>
+<p><strong>Humerus</strong></p>
+<ul>
+<li>TIFF: 2 MB; 110 × 140 × 285; VoxelSize 0.488 0.488 0.6; 16-bit</li>
+<li>STL: 9.3 MB; 94,912 vertices</li>
+</ul>
 
 ---

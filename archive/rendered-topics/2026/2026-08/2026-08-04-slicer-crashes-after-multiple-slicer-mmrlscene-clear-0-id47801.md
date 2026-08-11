@@ -3,7 +3,7 @@ topic_id: 47801
 title: "Slicer crashes after multiple slicer.mmrlScene.Clear(0)"
 date: 2026-08-04
 url: https://discourse.slicer.org/t/47801
-last_bumped: 2026-08-04T15:52:41.050Z
+last_bumped: 2026-08-10T14:25:51.665Z
 ---
 
 # Slicer crashes after multiple slicer.mmrlScene.Clear(0)
@@ -395,5 +395,11 @@ Complementary to **#9306** (lazy VTK Python modules), which reduces the *actual*
   <div style="clear: both"></div>
 </aside>
 
+
+---
+
+## Post #3 by @Deep_Learning (2026-08-10 14:25 UTC)
+
+<p>Thanks for the response…  Are there other commands to clear the python console memory?  Really looking for Clear reset command that other people are using…</p>
 
 ---

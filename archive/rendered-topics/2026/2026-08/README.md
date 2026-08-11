@@ -12,3 +12,5 @@
 - [2026 08 07 Opendose 3D Cannot Generate Integratation Of Absorbed Dose R](2026-08-07-opendose-3d-cannot-generate-integratation-of-absorbed-dose-r-id47822.md)
 - [2026 08 07 Slicerdrrgenerator Lancelevine How To Get Lateral Oblique Vi](2026-08-07-slicerdrrgenerator-lancelevine-how-to-get-lateral-oblique-vi-id47824.md)
 - [2026 08 09 Advice On Cleaning Up Incredibly Noisy Segmentations](2026-08-09-advice-on-cleaning-up-incredibly-noisy-segmentations-id47837.md)
+- [2026 08 10 Request For Source Code Or Alternatives Extension Plugins Si](2026-08-10-request-for-source-code-or-alternatives-extension-plugins-si-id47846.md)
+- [2026 08 10 Segmentation Clipping As A Node](2026-08-10-segmentation-clipping-as-a-node-id47852.md)
