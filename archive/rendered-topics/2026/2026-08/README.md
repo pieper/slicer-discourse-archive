@@ -14,3 +14,6 @@
 - [2026 08 09 Advice On Cleaning Up Incredibly Noisy Segmentations](2026-08-09-advice-on-cleaning-up-incredibly-noisy-segmentations-id47837.md)
 - [2026 08 10 Request For Source Code Or Alternatives Extension Plugins Si](2026-08-10-request-for-source-code-or-alternatives-extension-plugins-si-id47846.md)
 - [2026 08 10 Segmentation Clipping As A Node](2026-08-10-segmentation-clipping-as-a-node-id47852.md)
+- [2026 08 11 3D Slicer Cannot Be Installed In Windows 11](2026-08-11-3d-slicer-cannot-be-installed-in-windows-11-id47861.md)
+- [2026 08 11 Ai Powered Automatic Segmentation Assistant For 3D Slicer](2026-08-11-ai-powered-automatic-segmentation-assistant-for-3d-slicer-id47860.md)
+- [2026 08 11 Tomografo Eagle Edge](2026-08-11-tomografo-eagle-edge-id47862.md)
