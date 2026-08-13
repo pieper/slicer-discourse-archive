@@ -3,7 +3,7 @@ topic_id: 46800
 title: "Setting segment opacity to < 1.0 hides segments"
 date: 2026-04-21
 url: https://discourse.slicer.org/t/46800
-last_bumped: 2026-08-07T10:08:00.285Z
+last_bumped: 2026-08-12T13:24:28.854Z
 ---
 
 # Setting segment opacity to < 1.0 hides segments
@@ -138,5 +138,11 @@ Link to my issue: <a href="https://discourse.slicer.org/t/color-display-error-on
 </aside>
 <p>That’s a hard exercise <img src="https://emoji.discourse-cdn.com/twitter/smile.png?v=15" title=":smile:" class="emoji" alt=":smile:" loading="lazy" width="20" height="20"></p>
 <p>Look for any messages in the application log and in the python console. Start from the command line and see if there are unusual output. Try to determine the changes in your machine since the last normal result. Tweak the application settings relevant to display and segmentation. …</p>
+
+---
+
+## Post #13 by @lassoan (2026-08-12 13:24 UTC)
+
+<p>You can try to use different OpenGL profile (by setting <code>SLICER_OPENGL_PROFILE</code> to <code>no</code>, <code>core</code>, or <code>compatibility</code> see <a href="https://slicer.readthedocs.io/en/latest/user_guide/settings.html#runtime-environment-variables">here</a>) or disable depth peeling in the 3D view settings.</p>
 
 ---

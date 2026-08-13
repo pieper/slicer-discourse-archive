@@ -17,3 +17,5 @@
 - [2026 08 11 3D Slicer Cannot Be Installed In Windows 11](2026-08-11-3d-slicer-cannot-be-installed-in-windows-11-id47861.md)
 - [2026 08 11 Ai Powered Automatic Segmentation Assistant For 3D Slicer](2026-08-11-ai-powered-automatic-segmentation-assistant-for-3d-slicer-id47860.md)
 - [2026 08 11 Tomografo Eagle Edge](2026-08-11-tomografo-eagle-edge-id47862.md)
+- [2026 08 12 2026 08 18 Weekly Meeting](2026-08-12-2026-08-18-weekly-meeting-id47871.md)
+- [2026 08 12 Analyzer Results In Report Extended Analysis Table 2 All Res](2026-08-12-analyzer-results-in-report-extended-analysis-table-2-all-res-id47870.md)
