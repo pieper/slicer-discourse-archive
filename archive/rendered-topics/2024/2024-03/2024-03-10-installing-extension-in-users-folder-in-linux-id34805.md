@@ -3,7 +3,7 @@ topic_id: 34805
 title: "Installing extension in user's folder in Linux"
 date: 2024-03-10
 url: https://discourse.slicer.org/t/34805
-last_bumped: 2026-05-11T14:58:33.455Z
+last_bumped: 2026-08-13T19:58:31.820Z
 ---
 
 # Installing extension in user's folder in Linux
@@ -371,5 +371,27 @@ user@sup204:~$
 ## Post #26 by @ButuiHu (2026-05-11 14:58 UTC)
 
 <p>FYI, if you build slicer from the source, you could set `Slicer_STORE_SETTINGS_IN_APPLICATION_HOME_DIR=OFF`. see also <a href="https://github.com/Slicer/Slicer/blob/785744ed8c9a2a4ce650382e7ca6002c11a1b24c/CMake/SlicerApplicationOptions.cmake#L209-L229" class="inline-onebox" rel="noopener nofollow ugc">Slicer/CMake/SlicerApplicationOptions.cmake at 785744ed8c9a2a4ce650382e7ca6002c11a1b24c · Slicer/Slicer · GitHub</a></p>
+
+---
+
+## Post #27 by @jennydaman (2026-08-13 19:58 UTC)
+
+<p>You can “redirect” extensions and settings to be saved under a home directory using bind mounts.</p>
+<pre><code class="lang-auto">bwrap \
+  --tmpfs /tmp \
+  --dev-bind /dev /dev \
+  --proc /proc \
+  --ro-bind /bin /bin \
+  --ro-bind /etc /etc \
+  --ro-bind /lib /lib \
+  --ro-bind /lib64 /lib64 \
+  --ro-bind /usr /usr \
+  --bind /run /run \
+  --bind "$HOME" "$HOME" \
+  --bind-ro /shared_software /shared_software \
+  --bind "$HOME/.local/share/mySlicer" /shared_software/Slicer-5.12.3-linux-amd64/slicer.org \
+  /shared_software/Slicer-5.12.3-linux-amd64/Slicer
+</code></pre>
+<p><a href="https://github.com/containers/bubblewrap" rel="noopener nofollow ugc">bwrap</a> seems like it’s commonly installed on Linux workstations and HPC.</p>
 
 ---
