@@ -19,3 +19,5 @@
 - [2026 08 11 Tomografo Eagle Edge](2026-08-11-tomografo-eagle-edge-id47862.md)
 - [2026 08 12 2026 08 18 Weekly Meeting](2026-08-12-2026-08-18-weekly-meeting-id47871.md)
 - [2026 08 12 Analyzer Results In Report Extended Analysis Table 2 All Res](2026-08-12-analyzer-results-in-report-extended-analysis-table-2-all-res-id47870.md)
+- [2026 08 14 Bronchus Segmentation Loads But Is Not Visible While Totalse](2026-08-14-bronchus-segmentation-loads-but-is-not-visible-while-totalse-id47886.md)
+- [2026 08 14 Free Webinar Simplify Your Structural Diffusion Mri Workflow](2026-08-14-free-webinar-simplify-your-structural-diffusion-mri-workflow-id47883.md)

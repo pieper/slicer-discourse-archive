@@ -1,8 +1,9 @@
 ---
 topic_id: 34214
-title: "Working With 4D Flow Mri Data"
+title: "Working with 4D flow MRI data"
 date: 2024-02-08
 url: https://discourse.slicer.org/t/34214
+last_bumped: 2026-08-14T15:45:12.951Z
 ---
 
 # Working with 4D flow MRI data
@@ -97,5 +98,14 @@ University Health Network</p>
 ## Post #13 by @lassoan (2025-07-04 19:24 UTC)
 
 <p>We have made significant progress with the implementation (added bias correction, velocity phase unwrapping, motion compensation, flow metrics computation, etc.) but have not started writing the paper. So, publishing the software is probably still at least a few months away. Maybe we can share with you privately - you can contact me in private message to discuss.</p>
+
+---
+
+## Post #14 by @Astree_LEMORE (2026-08-14 15:45 UTC)
+
+<p>Hi Andras,</p>
+<p>I wonder do you have published the plugin by now?</p>
+<p>I would be very interested to be able to work with this type of data in Slicer.</p>
+<p>Thanks !</p>
 
 ---
