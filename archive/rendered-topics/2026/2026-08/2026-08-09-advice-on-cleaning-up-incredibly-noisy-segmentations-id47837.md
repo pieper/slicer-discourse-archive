@@ -3,7 +3,7 @@ topic_id: 47837
 title: "Advice on cleaning up incredibly noisy segmentations"
 date: 2026-08-09
 url: https://discourse.slicer.org/t/47837
-last_bumped: 2026-08-10T21:23:27.114Z
+last_bumped: 2026-08-16T18:37:54.345Z
 ---
 
 # Advice on cleaning up incredibly noisy segmentations
@@ -49,5 +49,17 @@ last_bumped: 2026-08-10T21:23:27.114Z
 
 <p>Hi! I’ve seen very similar cases in the datasets I work with, mainly fossils. In my opinion, if you can request a new reconstruction of the CT scan, it would be great to reduce the beam-hardening effect, which is making the bones appear excessively bright.</p>
 <p>The other type of noise, which is more opaque and looks like many randomly distributed pixels, seems to me to be related to an incorrect combination of tube current (mA or µA) and filter. Unfortunately, there is not much that can be changed without performing the scan again, but applying some smoothing in the CT reconstruction software might help</p>
+
+---
+
+## Post #6 by @Chelonian (2026-08-16 18:36 UTC)
+
+<p>The wrap solidify extension definitely worked the best, and I could smooth it out from there.</p>
+
+---
+
+## Post #7 by @Chelonian (2026-08-16 18:37 UTC)
+
+<p>I have requested a new reconstruction, I don’t think I’ll be able to get much further than where I am with this scan.</p>
 
 ---

@@ -1,6 +1,6 @@
 # Slicer Discourse Archive Index
 
-Last updated: 2026-08-16 03:36 UTC
+Last updated: 2026-08-17 03:38 UTC
 
 ## Archive Contents
 
@@ -20,8 +20,11 @@ Last updated: 2026-08-16 03:36 UTC
 - [README.md](archive/rendered-topics/2021/2021-12/README.md)
 - [README.md](archive/rendered-topics/2021/2021-07/README.md)
 - [README.md](archive/rendered-topics/2021/2021-04/README.md)
-- [totalsegmentator failed to install required packages](archive/rendered-topics/2026/2026-07/2026-07-12-totalsegmentator-failed-to-install-required-packages-id47606.md)
+- [advice on cleaning up incredibly noisy segmentations](archive/rendered-topics/2026/2026-08/2026-08-09-advice-on-cleaning-up-incredibly-noisy-segmentations-id47837.md)
+- [weekly meeting](archive/rendered-topics/2026/2026-08/2026-08-12-2026-08-18-weekly-meeting-id47871.md)
 - [analyzer results in report extended analysis table 2 all res](archive/rendered-topics/2026/2026-08/2026-08-12-analyzer-results-in-report-extended-analysis-table-2-all-res-id47870.md)
+- [bronchus segmentation loads but is not visible while totalse](archive/rendered-topics/2026/2026-08/2026-08-14-bronchus-segmentation-loads-but-is-not-visible-while-totalse-id47886.md)
+- [free webinar simplify your structural diffusion mri workflow](archive/rendered-topics/2026/2026-08/2026-08-14-free-webinar-simplify-your-structural-diffusion-mri-workflow-id47883.md)
 - [protocol for rtk ct reconstruction from bruker skyscan](archive/rendered-topics/2026/2026-08/2026-08-15-protocol-for-rtk-ct-reconstruction-from-bruker-skyscan-id47894.md)
 - [extensions manager website is not opening](archive/rendered-topics/2026/2026-08/2026-08-04-extensions-manager-website-is-not-opening-id47800.md)
 - [slicer crashes after multiple slicer mmrlscene clear 0](archive/rendered-topics/2026/2026-08/2026-08-04-slicer-crashes-after-multiple-slicer-mmrlscene-clear-0-id47801.md)
@@ -33,18 +36,12 @@ Last updated: 2026-08-16 03:36 UTC
 - [how can i manually assign colors to structures in my 3d mode](archive/rendered-topics/2026/2026-08/2026-08-07-how-can-i-manually-assign-colors-to-structures-in-my-3d-mode-id47827.md)
 - [opendose 3d cannot generate integratation of absorbed dose r](archive/rendered-topics/2026/2026-08/2026-08-07-opendose-3d-cannot-generate-integratation-of-absorbed-dose-r-id47822.md)
 - [slicerdrrgenerator lancelevine how to get lateral oblique vi](archive/rendered-topics/2026/2026-08/2026-08-07-slicerdrrgenerator-lancelevine-how-to-get-lateral-oblique-vi-id47824.md)
-- [advice on cleaning up incredibly noisy segmentations](archive/rendered-topics/2026/2026-08/2026-08-09-advice-on-cleaning-up-incredibly-noisy-segmentations-id47837.md)
 - [request for source code or alternatives extension plugins si](archive/rendered-topics/2026/2026-08/2026-08-10-request-for-source-code-or-alternatives-extension-plugins-si-id47846.md)
 - [segmentation clipping as a node](archive/rendered-topics/2026/2026-08/2026-08-10-segmentation-clipping-as-a-node-id47852.md)
 - [3d slicer cannot be installed in windows 11](archive/rendered-topics/2026/2026-08/2026-08-11-3d-slicer-cannot-be-installed-in-windows-11-id47861.md)
 - [ai powered automatic segmentation assistant for 3d slicer](archive/rendered-topics/2026/2026-08/2026-08-11-ai-powered-automatic-segmentation-assistant-for-3d-slicer-id47860.md)
 - [tomografo eagle edge](archive/rendered-topics/2026/2026-08/2026-08-11-tomografo-eagle-edge-id47862.md)
-- [weekly meeting](archive/rendered-topics/2026/2026-08/2026-08-12-2026-08-18-weekly-meeting-id47871.md)
-- [bronchus segmentation loads but is not visible while totalse](archive/rendered-topics/2026/2026-08/2026-08-14-bronchus-segmentation-loads-but-is-not-visible-while-totalse-id47886.md)
-- [free webinar simplify your structural diffusion mri workflow](archive/rendered-topics/2026/2026-08/2026-08-14-free-webinar-simplify-your-structural-diffusion-mri-workflow-id47883.md)
-- [keep largest island and editable area setting](archive/rendered-topics/2026/2026-07/2026-07-22-keep-largest-island-and-editable-area-setting-id47714.md)
-- [pytorch extension causes crash slicer 5 12 2 on ubuntu 22 04](archive/rendered-topics/2026/2026-07/2026-07-22-pytorch-extension-causes-crash-slicer-5-12-2-on-ubuntu-22-04-id47710.md)
-- [slicer 5 12 3 plans and fixing the macos stable extension pa](archive/rendered-topics/2026/2026-07/2026-07-22-slicer-5-12-3-plans-and-fixing-the-macos-stable-extension-pa-id47715.md)
+- [slicernninteractive segmenting one structure erases part of](archive/rendered-topics/2026/2026-08/2026-08-03-slicernninteractive-segmenting-one-structure-erases-part-of-id47792.md)
 - [measuring per tooth displacement between serial intraoral sc](archive/rendered-topics/2026/2026-07/2026-07-23-measuring-per-tooth-displacement-between-serial-intraoral-sc-id47723.md)
 - [new to slicerbiomech how to measure cortical area of long bo](archive/rendered-topics/2026/2026-07/2026-07-23-new-to-slicerbiomech-how-to-measure-cortical-area-of-long-bo-id47728.md)
 - [pytorch not working on intel r core tm ultra 7 155h](archive/rendered-topics/2026/2026-07/2026-07-23-pytorch-not-working-on-intel-r-core-tm-ultra-7-155h-id47724.md)
@@ -59,3 +56,6 @@ Last updated: 2026-08-16 03:36 UTC
 - [a newcomer to 3d slicer shares a cinematic interior fly thro](archive/rendered-topics/2026/2026-07/2026-07-31-a-newcomer-to-3d-slicer-shares-a-cinematic-interior-fly-thro-id47778.md)
 - [boundary cut upper airway volume lower airway volume does no](archive/rendered-topics/2026/2026-07/2026-07-31-boundary-cut-upper-airway-volume-lower-airway-volume-does-no-id47779.md)
 - [pytorch install fails on windows with winerror 206 pythonsli](archive/rendered-topics/2026/2026-07/2026-07-31-pytorch-install-fails-on-windows-with-winerror-206-pythonsli-id47781.md)
+- [segmenting occipital bone on a head ct](archive/rendered-topics/2026/2026-07/2026-07-31-segmenting-occipital-bone-on-a-head-ct-id47777.md)
+- [problem downloading slicer](archive/rendered-topics/2026/2026-07/2026-07-17-problem-downloading-slicer-id47655.md)
+- [recurring bug on shoulder tracking](archive/rendered-topics/2026/2026-07/2026-07-17-recurring-bug-on-shoulder-tracking-id47656.md)
