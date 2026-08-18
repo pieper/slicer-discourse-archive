@@ -3,7 +3,7 @@ topic_id: 47656
 title: "Recurring bug on Shoulder tracking"
 date: 2026-07-17
 url: https://discourse.slicer.org/t/47656
-last_bumped: 2026-08-13T13:58:10.786Z
+last_bumped: 2026-08-17T15:49:14.515Z
 ---
 
 # Recurring bug on Shoulder tracking
@@ -124,5 +124,11 @@ GPU: NVIDIA RTX 3080 Ti</p>
 <p>If you could share the volumes and images, just so I could replicate the issue on my end, that would be helpful. Your scapula volume is quite a bit bigger than our femur and tibia volumes, so we don’t have anything comparable to test.</p>
 <p><a class="mention" href="/u/cesar">@Cesar</a> Can you comment on how the size of their volumes compares to the scapula volumes that you have tracked previously?</p>
 <p>We currently have limited ability to address bugs in the software; however, we do have a student who will be joining us to specifically work on SlicerAutoscoper, and bug fixes (with this one as a priority) are at the top of the list for things to work on.</p>
+
+---
+
+## Post #11 by @AlonsoFigueroa (2026-08-17 15:49 UTC)
+
+<p>Happy to share the volumes and images with your team. However, I think the folders are larger than what can be uploaded to Discourse, What would be your best alternative to share the data with you?</p>
 
 ---
