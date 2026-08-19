@@ -1,6 +1,6 @@
 # Slicer Discourse Archive Index
 
-Last updated: 2026-08-18 03:33 UTC
+Last updated: 2026-08-19 03:35 UTC
 
 ## Archive Contents
 
@@ -20,10 +20,8 @@ Last updated: 2026-08-18 03:33 UTC
 - [README.md](archive/rendered-topics/2021/2021-12/README.md)
 - [README.md](archive/rendered-topics/2021/2021-07/README.md)
 - [README.md](archive/rendered-topics/2021/2021-04/README.md)
-- [how can i generate an inflated cortical surface map in 3d sl](archive/rendered-topics/2026/2026-08/2026-08-17-how-can-i-generate-an-inflated-cortical-surface-map-in-3d-sl-id47906.md)
+- [echo volume render depth coloring not working](archive/rendered-topics/2026/2026-06/2026-06-01-echo-volume-render-depth-coloring-not-working-id47196.md)
 - [weekly meeting](archive/rendered-topics/2026/2026-08/2026-08-12-2026-08-18-weekly-meeting-id47871.md)
-- [recurring bug on shoulder tracking](archive/rendered-topics/2026/2026-07/2026-07-17-recurring-bug-on-shoulder-tracking-id47656.md)
-- [3d slicer freezes when enabling markups roi interaction hand](archive/rendered-topics/2026/2026-08/2026-08-17-3d-slicer-freezes-when-enabling-markups-roi-interaction-hand-id47905.md)
 - [cannot install any extension updates](archive/rendered-topics/2026/2026-08/2026-08-17-cannot-install-any-extension-updates-id47912.md)
 - [extensions manager website is not opening](archive/rendered-topics/2026/2026-08/2026-08-04-extensions-manager-website-is-not-opening-id47800.md)
 - [slicer crashes after multiple slicer mmrlscene clear 0](archive/rendered-topics/2026/2026-08/2026-08-04-slicer-crashes-after-multiple-slicer-mmrlscene-clear-0-id47801.md)
@@ -45,17 +43,19 @@ Last updated: 2026-08-18 03:33 UTC
 - [bronchus segmentation loads but is not visible while totalse](archive/rendered-topics/2026/2026-08/2026-08-14-bronchus-segmentation-loads-but-is-not-visible-while-totalse-id47886.md)
 - [free webinar simplify your structural diffusion mri workflow](archive/rendered-topics/2026/2026-08/2026-08-14-free-webinar-simplify-your-structural-diffusion-mri-workflow-id47883.md)
 - [protocol for rtk ct reconstruction from bruker skyscan](archive/rendered-topics/2026/2026-08/2026-08-15-protocol-for-rtk-ct-reconstruction-from-bruker-skyscan-id47894.md)
+- [3d slicer freezes when enabling markups roi interaction hand](archive/rendered-topics/2026/2026-08/2026-08-17-3d-slicer-freezes-when-enabling-markups-roi-interaction-hand-id47905.md)
+- [how can i generate an inflated cortical surface map in 3d sl](archive/rendered-topics/2026/2026-08/2026-08-17-how-can-i-generate-an-inflated-cortical-surface-map-in-3d-sl-id47906.md)
+- [weekly meeting](archive/rendered-topics/2026/2026-07/2026-07-29-2026-08-04-weekly-meeting-id47761.md)
+- [mpr or reslice saving planes](archive/rendered-topics/2026/2026-07/2026-07-30-mpr-or-reslice-saving-planes-id47765.md)
+- [no new mac extensions for stable](archive/rendered-topics/2026/2026-07/2026-07-30-no-new-mac-extensions-for-stable-id47768.md)
 - [a newcomer to 3d slicer shares a cinematic interior fly thro](archive/rendered-topics/2026/2026-07/2026-07-31-a-newcomer-to-3d-slicer-shares-a-cinematic-interior-fly-thro-id47778.md)
 - [boundary cut upper airway volume lower airway volume does no](archive/rendered-topics/2026/2026-07/2026-07-31-boundary-cut-upper-airway-volume-lower-airway-volume-does-no-id47779.md)
 - [pytorch install fails on windows with winerror 206 pythonsli](archive/rendered-topics/2026/2026-07/2026-07-31-pytorch-install-fails-on-windows-with-winerror-206-pythonsli-id47781.md)
 - [segmenting occipital bone on a head ct](archive/rendered-topics/2026/2026-07/2026-07-31-segmenting-occipital-bone-on-a-head-ct-id47777.md)
 - [slicernninteractive segmenting one structure erases part of](archive/rendered-topics/2026/2026-08/2026-08-03-slicernninteractive-segmenting-one-structure-erases-part-of-id47792.md)
+- [opacity cell 5 12 2](archive/rendered-topics/2026/2026-07/2026-07-17-opacity-cell-5-12-2-id47652.md)
+- [problem downloading slicer](archive/rendered-topics/2026/2026-07/2026-07-17-problem-downloading-slicer-id47655.md)
+- [recurring bug on shoulder tracking](archive/rendered-topics/2026/2026-07/2026-07-17-recurring-bug-on-shoulder-tracking-id47656.md)
 - [segment not working](archive/rendered-topics/2026/2026-07/2026-07-17-segment-not-working-id47659.md)
 - [slicer aurs throw cmake errors](archive/rendered-topics/2026/2026-07/2026-07-17-slicer-aurs-throw-cmake-errors-id47654.md)
 - [slicer crashes on startup due to slicervmtk extension](archive/rendered-topics/2026/2026-07/2026-07-17-slicer-crashes-on-startup-due-to-slicervmtk-extension-id47660.md)
-- [contact information to include within company software catal](archive/rendered-topics/2026/2026-07/2026-07-18-contact-information-to-include-within-company-software-catal-id47676.md)
-- [accidentally moving all markups in a pointlist](archive/rendered-topics/2026/2026-07/2026-07-20-accidentally-moving-all-markups-in-a-pointlist-id47685.md)
-- [errores no funciona nada](archive/rendered-topics/2026/2026-07/2026-07-21-errores-no-funciona-nada-id47706.md)
-- [freelance opportunity 3d slicer expert for dental cbct annot](archive/rendered-topics/2026/2026-07/2026-07-21-freelance-opportunity-3d-slicer-expert-for-dental-cbct-annot-id47704.md)
-- [how do patient specific pelvis implants improve complex pelv](archive/rendered-topics/2026/2026-07/2026-07-21-how-do-patient-specific-pelvis-implants-improve-complex-pelv-id47703.md)
-- [how to segment ligaments on 3d t1w mri images](archive/rendered-topics/2026/2026-07/2026-07-21-how-to-segment-ligaments-on-3d-t1w-mri-images-id47705.md)

@@ -3,7 +3,7 @@ topic_id: 47196
 title: "Echo Volume Render depth coloring not working"
 date: 2026-06-01
 url: https://discourse.slicer.org/t/47196
-last_bumped: 2026-08-13T22:33:40.768Z
+last_bumped: 2026-08-18T14:45:20.747Z
 ---
 
 # Echo Volume Render depth coloring not working
@@ -79,5 +79,12 @@ last_bumped: 2026-08-13T22:33:40.768Z
 <ol start="4">
 <li>Switch to the Echo Volume Render module and see if the volume render has depth color (it does not for me)</li>
 </ol>
+
+---
+
+## Post #7 by @mikebind (2026-08-18 14:45 UTC)
+
+<p>I got a chance to try this, and yes, I see some depth coloring before adjusting any settings (just loaded the “Mitral” dataset) and hit Apply after installing Slicer 5.12.3 and SlicerHeart.  This is what I see (just rotated the 3D a bit to show the color variation a little better):</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/8/5/8593e04a78fb942ae4f14f14a5b2999092aadd38.jpeg" data-download-href="/uploads/short-url/j3GkfX4GRaOoaNbAPQKcq5bRsRa.jpeg?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/8/5/8593e04a78fb942ae4f14f14a5b2999092aadd38_2_690x396.jpeg" alt="image" data-base62-sha1="j3GkfX4GRaOoaNbAPQKcq5bRsRa" width="690" height="396" srcset="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/8/5/8593e04a78fb942ae4f14f14a5b2999092aadd38_2_690x396.jpeg, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/8/5/8593e04a78fb942ae4f14f14a5b2999092aadd38_2_1035x594.jpeg 1.5x, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/8/5/8593e04a78fb942ae4f14f14a5b2999092aadd38_2_1380x792.jpeg 2x" data-dominant-color="717074"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">image</span><span class="informations">1919×1102 252 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
 
 ---

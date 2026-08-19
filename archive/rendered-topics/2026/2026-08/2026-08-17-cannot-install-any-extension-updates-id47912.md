@@ -3,7 +3,7 @@ topic_id: 47912
 title: "Cannot install any extension updates"
 date: 2026-08-17
 url: https://discourse.slicer.org/t/47912
-last_bumped: 2026-08-17T23:03:05.510Z
+last_bumped: 2026-08-18T19:00:07.636Z
 ---
 
 # Cannot install any extension updates
@@ -24,5 +24,26 @@ last_bumped: 2026-08-17T23:03:05.510Z
 </blockquote>
 <p>On top of that, it will only get to the Extension Manager if it does not freeze upon start up. I am running this version from a Win 11, Intel Core Ultra 7 255HX (2.40 GHz), w 64 GB RAM HP laptop.</p>
 <p>Still a newbie on this, so any help is appreciated. When I first installed v 5.8, the extension manager worked seamlessly on this same laptop. Can it be something in my network? BTW this happens on two different Win 11 PCs.</p>
+
+---
+
+## Post #2 by @ebrahim (2026-08-18 12:24 UTC)
+
+<p>From your network are you able to download the package directly from the URL in your error message? <a href="https://slicer-packages.kitware.com/api/v1/file/6a709511e5707846f0878d73/download">https://slicer-packages.kitware.com/api/v1/file/6a709511e5707846f0878d73/download</a></p>
+<p>Just to test first whether it’s a network access problem or somehting else</p>
+<p>(as for the extension manager sometimes freezing up on windows maybe some others can reply if they have encountered this)</p>
+
+---
+
+## Post #3 by @RushAR3DLab (2026-08-18 18:15 UTC)
+
+<p>thanks for the suggestion. I was able to download manually, so that possibly discards the network theory. Since I have that file, I should be able to install manually as well, right?</p>
+
+---
+
+## Post #4 by @ebrahim (2026-08-18 19:00 UTC)
+
+<p>Yes you can install the package manually using the “install from file” button (like shown <a href="https://slicer.readthedocs.io/en/latest/user_guide/extensions.html#install-extensions">here</a>)</p>
+<p>(But the extension manager should work <img src="https://emoji.discourse-cdn.com/twitter/face_with_diagonal_mouth.png?v=15" title=":face_with_diagonal_mouth:" class="emoji" alt=":face_with_diagonal_mouth:" loading="lazy" width="20" height="20">)</p>
 
 ---
