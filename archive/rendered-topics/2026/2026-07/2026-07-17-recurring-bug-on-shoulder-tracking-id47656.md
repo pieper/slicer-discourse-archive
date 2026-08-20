@@ -3,7 +3,7 @@ topic_id: 47656
 title: "Recurring bug on Shoulder tracking"
 date: 2026-07-17
 url: https://discourse.slicer.org/t/47656
-last_bumped: 2026-08-17T15:49:14.515Z
+last_bumped: 2026-08-19T20:11:30.711Z
 ---
 
 # Recurring bug on Shoulder tracking
@@ -130,5 +130,11 @@ GPU: NVIDIA RTX 3080 Ti</p>
 ## Post #11 by @AlonsoFigueroa (2026-08-17 15:49 UTC)
 
 <p>Happy to share the volumes and images with your team. However, I think the folders are larger than what can be uploaded to Discourse, What would be your best alternative to share the data with you?</p>
+
+---
+
+## Post #12 by @John_Holtgrewe (2026-08-19 20:11 UTC)
+
+<p>The best option might be Google drive, if that works for you.</p>
 
 ---

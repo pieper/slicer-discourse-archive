@@ -3,7 +3,7 @@ topic_id: 47912
 title: "Cannot install any extension updates"
 date: 2026-08-17
 url: https://discourse.slicer.org/t/47912
-last_bumped: 2026-08-18T19:00:07.636Z
+last_bumped: 2026-08-19T19:13:39.067Z
 ---
 
 # Cannot install any extension updates
@@ -45,5 +45,41 @@ last_bumped: 2026-08-18T19:00:07.636Z
 
 <p>Yes you can install the package manually using the “install from file” button (like shown <a href="https://slicer.readthedocs.io/en/latest/user_guide/extensions.html#install-extensions">here</a>)</p>
 <p>(But the extension manager should work <img src="https://emoji.discourse-cdn.com/twitter/face_with_diagonal_mouth.png?v=15" title=":face_with_diagonal_mouth:" class="emoji" alt=":face_with_diagonal_mouth:" loading="lazy" width="20" height="20">)</p>
+
+---
+
+## Post #5 by @enjy_sallam (2026-08-19 04:52 UTC)
+
+<p>the extension manager site is not loading</p>
+
+---
+
+## Post #6 by @ebrahim (2026-08-19 13:07 UTC)
+
+<p>You can check in your browser whether the site loads: <a href="https://extensions.slicer.org/">https://extensions.slicer.org/</a></p>
+<p>It does seem to be up</p>
+
+---
+
+## Post #7 by @RushAR3DLab (2026-08-19 18:18 UTC)
+
+<p>Hit or miss results so far. In 5.12 I am able to download and install as described, extensions manager is reachable, but in 5.8, when trying this method to update some extensions  it says that they are already installed so it is skipping it. Maybe time to upgrade to 5.12 anyway, for example MuscleMap is not available from 5.8 but I was able to install it for 5.12.</p>
+<p>I think that this manual mode is working so far, so I guess we can close this thread for the time being. Thanks to all who replied.</p>
+
+---
+
+## Post #8 by @jamesobutler (2026-08-19 19:06 UTC)
+
+<p><a class="mention" href="/u/rushar3dlab">@RushAR3DLab</a> are you using a personal computer or one provided and configured by a corporate enterprise? Generally we find this inability to directly install using the Extension Manager when Zscaler or other similar software (e.g. Cisco Secure Access) is installed as it interrupts the connection to the Slicer extensions server resulting in failed downloads.</p>
+<p>For example I can only install extensions by manually downloading and installing from file myself and which is an annoying situation I have dealt with for awhile.</p>
+<p>cc <a class="mention" href="/u/sam_horvath">@Sam_Horvath</a> <a class="mention" href="/u/lassoan">@lassoan</a> <a class="mention" href="/u/pieper">@pieper</a> as a possible topic regarding Slicer’s future in respect to a possible new solution for extension distribution being easier and not getting blocked by these zero trust corporate policies applied to many user’s computers.</p>
+
+---
+
+## Post #9 by @RushAR3DLab (2026-08-19 19:13 UTC)
+
+<p>hi James</p>
+<p>important point. These are, in fact, institutionally owned PCs with a corporate enterprise image. There are probably a few of those that you mention working behind scenes in our case.</p>
+<p>Alejandro</p>
 
 ---

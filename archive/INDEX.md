@@ -1,6 +1,6 @@
 # Slicer Discourse Archive Index
 
-Last updated: 2026-08-19 03:35 UTC
+Last updated: 2026-08-20 03:35 UTC
 
 ## Archive Contents
 
@@ -21,8 +21,14 @@ Last updated: 2026-08-19 03:35 UTC
 - [README.md](archive/rendered-topics/2021/2021-07/README.md)
 - [README.md](archive/rendered-topics/2021/2021-04/README.md)
 - [echo volume render depth coloring not working](archive/rendered-topics/2026/2026-06/2026-06-01-echo-volume-render-depth-coloring-not-working-id47196.md)
-- [weekly meeting](archive/rendered-topics/2026/2026-08/2026-08-12-2026-08-18-weekly-meeting-id47871.md)
+- [3d slicer freezes when enabling markups roi interaction hand](archive/rendered-topics/2026/2026-08/2026-08-17-3d-slicer-freezes-when-enabling-markups-roi-interaction-hand-id47905.md)
 - [cannot install any extension updates](archive/rendered-topics/2026/2026-08/2026-08-17-cannot-install-any-extension-updates-id47912.md)
+- [recurring bug on shoulder tracking](archive/rendered-topics/2026/2026-07/2026-07-17-recurring-bug-on-shoulder-tracking-id47656.md)
+- [analyzer results in report extended analysis table 2 all res](archive/rendered-topics/2026/2026-08/2026-08-12-analyzer-results-in-report-extended-analysis-table-2-all-res-id47870.md)
+- [bronchus segmentation loads but is not visible while totalse](archive/rendered-topics/2026/2026-08/2026-08-14-bronchus-segmentation-loads-but-is-not-visible-while-totalse-id47886.md)
+- [free webinar simplify your structural diffusion mri workflow](archive/rendered-topics/2026/2026-08/2026-08-14-free-webinar-simplify-your-structural-diffusion-mri-workflow-id47883.md)
+- [protocol for rtk ct reconstruction from bruker skyscan](archive/rendered-topics/2026/2026-08/2026-08-15-protocol-for-rtk-ct-reconstruction-from-bruker-skyscan-id47894.md)
+- [how can i generate an inflated cortical surface map in 3d sl](archive/rendered-topics/2026/2026-08/2026-08-17-how-can-i-generate-an-inflated-cortical-surface-map-in-3d-sl-id47906.md)
 - [extensions manager website is not opening](archive/rendered-topics/2026/2026-08/2026-08-04-extensions-manager-website-is-not-opening-id47800.md)
 - [slicer crashes after multiple slicer mmrlscene clear 0](archive/rendered-topics/2026/2026-08/2026-08-04-slicer-crashes-after-multiple-slicer-mmrlscene-clear-0-id47801.md)
 - [weekly meeting](archive/rendered-topics/2026/2026-08/2026-08-05-2026-08-11-weekly-meeting-id47815.md)
@@ -39,12 +45,13 @@ Last updated: 2026-08-19 03:35 UTC
 - [3d slicer cannot be installed in windows 11](archive/rendered-topics/2026/2026-08/2026-08-11-3d-slicer-cannot-be-installed-in-windows-11-id47861.md)
 - [ai powered automatic segmentation assistant for 3d slicer](archive/rendered-topics/2026/2026-08/2026-08-11-ai-powered-automatic-segmentation-assistant-for-3d-slicer-id47860.md)
 - [tomografo eagle edge](archive/rendered-topics/2026/2026-08/2026-08-11-tomografo-eagle-edge-id47862.md)
-- [analyzer results in report extended analysis table 2 all res](archive/rendered-topics/2026/2026-08/2026-08-12-analyzer-results-in-report-extended-analysis-table-2-all-res-id47870.md)
-- [bronchus segmentation loads but is not visible while totalse](archive/rendered-topics/2026/2026-08/2026-08-14-bronchus-segmentation-loads-but-is-not-visible-while-totalse-id47886.md)
-- [free webinar simplify your structural diffusion mri workflow](archive/rendered-topics/2026/2026-08/2026-08-14-free-webinar-simplify-your-structural-diffusion-mri-workflow-id47883.md)
-- [protocol for rtk ct reconstruction from bruker skyscan](archive/rendered-topics/2026/2026-08/2026-08-15-protocol-for-rtk-ct-reconstruction-from-bruker-skyscan-id47894.md)
-- [3d slicer freezes when enabling markups roi interaction hand](archive/rendered-topics/2026/2026-08/2026-08-17-3d-slicer-freezes-when-enabling-markups-roi-interaction-hand-id47905.md)
-- [how can i generate an inflated cortical surface map in 3d sl](archive/rendered-topics/2026/2026-08/2026-08-17-how-can-i-generate-an-inflated-cortical-surface-map-in-3d-sl-id47906.md)
+- [weekly meeting](archive/rendered-topics/2026/2026-08/2026-08-12-2026-08-18-weekly-meeting-id47871.md)
+- [pytorch not working on intel r core tm ultra 7 155h](archive/rendered-topics/2026/2026-07/2026-07-23-pytorch-not-working-on-intel-r-core-tm-ultra-7-155h-id47724.md)
+- [build slicer on nvidias jetson orin nano](archive/rendered-topics/2026/2026-07/2026-07-25-build-slicer-on-nvidias-jetson-orin-nano-id47737.md)
+- [3d slicer cannot display cardiac lge mri volume correctly on](archive/rendered-topics/2026/2026-07/2026-07-27-3d-slicer-cannot-display-cardiac-lge-mri-volume-correctly-on-id47746.md)
+- [3d slicer cannot display cardiac lge mri volume correctly on](archive/rendered-topics/2026/2026-07/2026-07-27-3d-slicer-cannot-display-cardiac-lge-mri-volume-correctly-on-id47748.md)
+- [how to see vat and sat crossection area at l3 level](archive/rendered-topics/2026/2026-07/2026-07-28-how-to-see-vat-and-sat-crossection-area-at-l3-level-id47756.md)
+- [working apple silicon mps workaround for dentalsegmentator s](archive/rendered-topics/2026/2026-07/2026-07-28-working-apple-silicon-mps-workaround-for-dentalsegmentator-s-id47755.md)
 - [weekly meeting](archive/rendered-topics/2026/2026-07/2026-07-29-2026-08-04-weekly-meeting-id47761.md)
 - [mpr or reslice saving planes](archive/rendered-topics/2026/2026-07/2026-07-30-mpr-or-reslice-saving-planes-id47765.md)
 - [no new mac extensions for stable](archive/rendered-topics/2026/2026-07/2026-07-30-no-new-mac-extensions-for-stable-id47768.md)
@@ -52,10 +59,3 @@ Last updated: 2026-08-19 03:35 UTC
 - [boundary cut upper airway volume lower airway volume does no](archive/rendered-topics/2026/2026-07/2026-07-31-boundary-cut-upper-airway-volume-lower-airway-volume-does-no-id47779.md)
 - [pytorch install fails on windows with winerror 206 pythonsli](archive/rendered-topics/2026/2026-07/2026-07-31-pytorch-install-fails-on-windows-with-winerror-206-pythonsli-id47781.md)
 - [segmenting occipital bone on a head ct](archive/rendered-topics/2026/2026-07/2026-07-31-segmenting-occipital-bone-on-a-head-ct-id47777.md)
-- [slicernninteractive segmenting one structure erases part of](archive/rendered-topics/2026/2026-08/2026-08-03-slicernninteractive-segmenting-one-structure-erases-part-of-id47792.md)
-- [opacity cell 5 12 2](archive/rendered-topics/2026/2026-07/2026-07-17-opacity-cell-5-12-2-id47652.md)
-- [problem downloading slicer](archive/rendered-topics/2026/2026-07/2026-07-17-problem-downloading-slicer-id47655.md)
-- [recurring bug on shoulder tracking](archive/rendered-topics/2026/2026-07/2026-07-17-recurring-bug-on-shoulder-tracking-id47656.md)
-- [segment not working](archive/rendered-topics/2026/2026-07/2026-07-17-segment-not-working-id47659.md)
-- [slicer aurs throw cmake errors](archive/rendered-topics/2026/2026-07/2026-07-17-slicer-aurs-throw-cmake-errors-id47654.md)
-- [slicer crashes on startup due to slicervmtk extension](archive/rendered-topics/2026/2026-07/2026-07-17-slicer-crashes-on-startup-due-to-slicervmtk-extension-id47660.md)

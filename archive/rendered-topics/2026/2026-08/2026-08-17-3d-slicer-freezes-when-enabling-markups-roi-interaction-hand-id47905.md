@@ -3,7 +3,7 @@ topic_id: 47905
 title: "3D Slicer Freezes When Enabling Markups ROI Interaction Handles"
 date: 2026-08-17
 url: https://discourse.slicer.org/t/47905
-last_bumped: 2026-08-17T19:34:53.004Z
+last_bumped: 2026-08-19T18:48:43.276Z
 ---
 
 # 3D Slicer Freezes When Enabling Markups ROI Interaction Handles
@@ -472,5 +472,14 @@ Istanbul, Türkiye</p>
 <code>→ atio6axx.dll</code></p>
 <p>So the hang appears to occur in the VTK dual-depth-peeling/translucency rendering path when it reaches the AMD OpenGL driver. I cannot determine from this alone whether the root cause is the AMD driver, VTK, or Slicer’s rendering configuration.</p>
 <p>I can provide the WinDbg thread dump and the minimal Python reproducer if useful.</p>
+
+---
+
+## Post #4 by @vedat_ozturk (2026-08-19 18:48 UTC)
+
+<p>I tried installing a much older version of Slicer, 5.2, and everything is working normally again, including the 3D functions that were consistently freezing in newer versions.</p>
+<p>This makes me think there may be some kind of compatibility issue between more recent Slicer/VTK builds and AMD GPUs or AMD OpenGL drivers. I also came across another discussion on this forum reporting crashes with Slicer 5.8/5.9 on an AMD GPU.</p>
+<p>In my case, I tested Slicer 5.10 and later versions, and none of them worked reliably on this computer, whereas Slicer 5.2 works without any problem.</p>
+<p>Fortunately, for now I have been able to solve the issue simply by going back to this much older version. I am sharing this in case it is useful for anyone investigating similar AMD GPU-related problems.</p>
 
 ---
