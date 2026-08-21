@@ -25,3 +25,6 @@
 - [2026 08 17 3D Slicer Freezes When Enabling Markups Roi Interaction Hand](2026-08-17-3d-slicer-freezes-when-enabling-markups-roi-interaction-hand-id47905.md)
 - [2026 08 17 Cannot Install Any Extension Updates](2026-08-17-cannot-install-any-extension-updates-id47912.md)
 - [2026 08 17 How Can I Generate An Inflated Cortical Surface Map In 3D Sl](2026-08-17-how-can-i-generate-an-inflated-cortical-surface-map-in-3d-sl-id47906.md)
+- [2026 08 20 Extension Manager Does Not Launch On Win 11 Slicer 5 12 3](2026-08-20-extension-manager-does-not-launch-on-win-11-slicer-5-12-3-id47935.md)
+- [2026 08 20 Fat Segmentation Sat Vat](2026-08-20-fat-segmentation-sat-vat-id47940.md)
+- [2026 08 20 Totalsegmentator Extension Failed To Install Req Package](2026-08-20-totalsegmentator-extension-failed-to-install-req-package-id47939.md)
