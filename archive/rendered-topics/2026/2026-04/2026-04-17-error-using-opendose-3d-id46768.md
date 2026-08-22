@@ -1,8 +1,9 @@
 ---
 topic_id: 46768
-title: "Error Using Opendose 3D"
+title: "Error using OpenDose 3D "
 date: 2026-04-17
 url: https://discourse.slicer.org/t/46768
+last_bumped: 2026-08-21T07:48:11.698Z
 ---
 
 # Error using OpenDose 3D 
@@ -26,5 +27,11 @@ From what I understand, mass calculation depends on voxel volume and density (ty
 Has anyone encountered this problem before or knows how to fix it?<br>
 Thank you in advance.</p>
 <p><div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/2/d/2d6afd838b6e361013282c766824e5f1f54208ec.jpeg" data-download-href="/uploads/short-url/6tMI8bjvES6Ux3u8t5DkNskDL9W.jpeg?dl=1" title="1000066076" rel="noopener nofollow ugc"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/2/d/2d6afd838b6e361013282c766824e5f1f54208ec_2_690x280.jpeg" alt="1000066076" data-base62-sha1="6tMI8bjvES6Ux3u8t5DkNskDL9W" width="690" height="280" srcset="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/2/d/2d6afd838b6e361013282c766824e5f1f54208ec_2_690x280.jpeg, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/2/d/2d6afd838b6e361013282c766824e5f1f54208ec_2_1035x420.jpeg 1.5x, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/2/d/2d6afd838b6e361013282c766824e5f1f54208ec_2_1380x560.jpeg 2x" data-dominant-color="625F5C"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">1000066076</span><span class="informations">1920×780 342 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
+
+---
+
+## Post #2 by @Alex_Vergara (2026-08-21 07:48 UTC)
+
+<p>It seems to me that your segmentations are actually delineations. The shell surrounding a volume is not the volume itself. Try converting your segmentations to be binary labelmaps and not closed surfaces as imported from rtstructs. This is a know issue that leads to have 0 mass. Let me know f this is not your case</p>
 
 ---

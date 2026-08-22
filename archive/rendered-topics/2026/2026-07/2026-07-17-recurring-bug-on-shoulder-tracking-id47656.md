@@ -3,7 +3,7 @@ topic_id: 47656
 title: "Recurring bug on Shoulder tracking"
 date: 2026-07-17
 url: https://discourse.slicer.org/t/47656
-last_bumped: 2026-08-19T20:11:30.711Z
+last_bumped: 2026-08-21T14:08:34.876Z
 ---
 
 # Recurring bug on Shoulder tracking
@@ -135,6 +135,12 @@ GPU: NVIDIA RTX 3080 Ti</p>
 
 ## Post #12 by @John_Holtgrewe (2026-08-19 20:11 UTC)
 
-<p>The best option might be Google drive, if that works for you.</p>
+<p>(post deleted by author)</p>
+
+---
+
+## Post #13 by @John_Holtgrewe (2026-08-21 14:08 UTC)
+
+<p><a class="mention" href="/u/alonsofigueroa">@AlonsoFigueroa</a>  I totally missed that you had shared the files on GitHub, so I was able to download them from there.</p>
 
 ---
