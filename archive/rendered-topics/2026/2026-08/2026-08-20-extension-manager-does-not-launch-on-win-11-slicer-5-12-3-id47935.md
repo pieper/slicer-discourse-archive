@@ -3,7 +3,7 @@ topic_id: 47935
 title: "Extension Manager does not launch on Win 11 (Slicer 5.12.3)"
 date: 2026-08-20
 url: https://discourse.slicer.org/t/47935
-last_bumped: 2026-08-20T22:16:57.787Z
+last_bumped: 2026-08-24T12:37:25.718Z
 ---
 
 # Extension Manager does not launch on Win 11 (Slicer 5.12.3)
@@ -53,5 +53,11 @@ You can try just once running slicer as administrator and see if that fixes it, 
 
 <p>Extension Manager does not launch in 5.12.3. (See bug <span class="hashtag-raw">#9363</span>). Tried it on both hospital and home network.</p>
 <p>EM launched in 5.6.2, so was able to install TotalSegmentator there, but TS gave error during the test run (not able to install Pythorch dependencies).  You informed that you are not supporting 5.6.2 extensions any more (and closed bug <span class="hashtag-raw">#9364</span>), so guess need to wait to have <span class="hashtag-raw">#9363</span> fixed in 5.12.3.</p>
+
+---
+
+## Post #4 by @ebrahim (2026-08-24 12:37 UTC)
+
+<p>Glad you found a solution at <a href="https://github.com/Slicer/Slicer/issues/9363#issuecomment-5383695511" class="inline-onebox">Extension Manager does not launch on Win 11 in Slicer 5.12.3 · Issue #9363 · Slicer/Slicer · GitHub</a></p>
 
 ---
