@@ -28,3 +28,4 @@
 - [2026 08 20 Extension Manager Does Not Launch On Win 11 Slicer 5 12 3](2026-08-20-extension-manager-does-not-launch-on-win-11-slicer-5-12-3-id47935.md)
 - [2026 08 20 Fat Segmentation Sat Vat](2026-08-20-fat-segmentation-sat-vat-id47940.md)
 - [2026 08 20 Totalsegmentator Extension Failed To Install Req Package](2026-08-20-totalsegmentator-extension-failed-to-install-req-package-id47939.md)
+- [2026 08 25 How To Segment Bad Quality 4D Mri Flow](2026-08-25-how-to-segment-bad-quality-4d-mri-flow-id47975.md)
