@@ -29,3 +29,6 @@
 - [2026 08 20 Fat Segmentation Sat Vat](2026-08-20-fat-segmentation-sat-vat-id47940.md)
 - [2026 08 20 Totalsegmentator Extension Failed To Install Req Package](2026-08-20-totalsegmentator-extension-failed-to-install-req-package-id47939.md)
 - [2026 08 25 How To Segment Bad Quality 4D Mri Flow](2026-08-25-how-to-segment-bad-quality-4d-mri-flow-id47975.md)
+- [2026 08 26 2026 09 01 Weekly Meeting](2026-08-26-2026-09-01-weekly-meeting-id47984.md)
+- [2026 08 26 Aligning Stl Anatomical Models With Mri Segmentations In 3D](2026-08-26-aligning-stl-anatomical-models-with-mri-segmentations-in-3d-id47983.md)
+- [2026 08 26 Question On Segmentation And Smoothing A Gecko Skull](2026-08-26-question-on-segmentation-and-smoothing-a-gecko-skull-id47990.md)

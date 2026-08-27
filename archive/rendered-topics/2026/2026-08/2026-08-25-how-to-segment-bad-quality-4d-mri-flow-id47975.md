@@ -3,7 +3,7 @@ topic_id: 47975
 title: "How to segment bad quality 4D MRI FLOW"
 date: 2026-08-25
 url: https://discourse.slicer.org/t/47975
-last_bumped: 2026-08-25T12:48:49.496Z
+last_bumped: 2026-08-26T13:24:14.804Z
 ---
 
 # How to segment bad quality 4D MRI FLOW
@@ -23,5 +23,11 @@ last_bumped: 2026-08-25T12:48:49.496Z
 <p><strong>2. If not, what’s the standard workflow?</strong> I’d rather follow an established approach than improvise. Do people segment the magnitude images directly, or reconstruct a PC-MRA first? How many annotated volumes are realistically needed to fine-tune something usable? Any public 4D flow dataset with aortic labels?</p>
 <p>Happy to write up whatever ends up working, in case it’s useful to others.</p>
 <p>Thanks a lot!</p>
+
+---
+
+## Post #2 by @Deep_Learning (2026-08-26 13:24 UTC)
+
+<p>nninteractive.  there is an extension</p>
 
 ---
