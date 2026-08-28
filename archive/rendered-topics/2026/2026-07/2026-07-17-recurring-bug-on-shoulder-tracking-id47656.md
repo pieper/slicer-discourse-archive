@@ -3,7 +3,7 @@ topic_id: 47656
 title: "Recurring bug on Shoulder tracking"
 date: 2026-07-17
 url: https://discourse.slicer.org/t/47656
-last_bumped: 2026-08-21T14:08:34.876Z
+last_bumped: 2026-08-27T16:13:35.568Z
 ---
 
 # Recurring bug on Shoulder tracking
@@ -133,14 +133,99 @@ GPU: NVIDIA RTX 3080 Ti</p>
 
 ---
 
-## Post #12 by @John_Holtgrewe (2026-08-19 20:11 UTC)
-
-<p>(post deleted by author)</p>
-
----
-
 ## Post #13 by @John_Holtgrewe (2026-08-21 14:08 UTC)
 
 <p><a class="mention" href="/u/alonsofigueroa">@AlonsoFigueroa</a>  I totally missed that you had shared the files on GitHub, so I was able to download them from there.</p>
+
+---
+
+## Post #14 by @John_Holtgrewe (2026-08-27 14:09 UTC)
+
+<p>Hi <a class="mention" href="/u/alonsofigueroa">@AlonsoFigueroa</a> ,</p>
+<p>Could you share a subset of the radiograph images for trial you are trying to track the scapula in (just 5-10 frames)? You can add them to the issue in Github, or if the files are too large we can figure something else out.</p>
+<p>Thanks!</p>
+<p>John</p>
+
+---
+
+## Post #15 by @AlonsoFigueroa (2026-08-27 16:13 UTC)
+
+<p>Hi <a class="mention" href="/u/john_holtgrewe">@John_Holtgrewe</a></p>
+<p>Thank you for continuing to investigate this issue. I’m glad you were able to download the files from GitHub.</p>
+<p>We have assembled a dataset from a trial that consistently crashes. The dataset contains 10 continuous frames. On our systems, the first five frames track successfully, while the second half of the video causes the software to crash.</p>
+<p>Unfortunately, I was unable to upload the files directly to this thread. However, the cropped trials have now been uploaded to the GitHub issue:</p>
+<aside class="onebox githubissue" data-onebox-src="https://github.com/BrownBiomechanics/SlicerAutoscoperM/issues/195">
+  <header class="source">
+
+      <a href="https://github.com/BrownBiomechanics/SlicerAutoscoperM/issues/195" target="_blank" rel="noopener nofollow ugc">github.com/BrownBiomechanics/SlicerAutoscoperM</a>
+  </header>
+
+  <article class="onebox-body">
+    <div class="github-row">
+  <div class="github-icon-container" title="Issue" data-github-private-repo="false">
+	  <svg width="60" height="60" class="github-icon" viewBox="0 0 14 16" aria-hidden="true"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"></path></svg>
+  </div>
+
+  <div class="github-info-container">
+    <h4>
+      <a href="https://github.com/BrownBiomechanics/SlicerAutoscoperM/issues/195" target="_blank" rel="noopener nofollow ugc">Autoscoper crashing when saving specific scapular ROM</a>
+    </h4>
+
+    <div class="github-info">
+      <div class="date">
+        opened <span class="discourse-local-date" data-format="ll" data-date="2026-07-09" data-time="21:13:11" data-timezone="UTC">09:13PM - 09 Jul 26 UTC</span>
+      </div>
+
+
+      <div class="user">
+        <a href="https://github.com/Alonso-Figueroa" target="_blank" rel="noopener nofollow ugc">
+          <img alt="" src="https://avatars.githubusercontent.com/u/301858893?v=4" class="onebox-avatar-inline" width="20" height="20">
+          Alonso-Figueroa
+        </a>
+      </div>
+    </div>
+
+    <div class="labels">
+    </div>
+  </div>
+</div>
+
+  <div class="github-row">
+    <p class="github-body-container">Hello SAM team,
+
+We are encountering an issue while tracking a scapula in Autosc<span class="show-more-container"><a href="" rel="noopener" class="show-more">…</a></span><span class="excerpt hidden">oper during an arm elevation task.
+
+For one participant, Autoscoper consistently crashes when saving frames within specific ranges of motion. The crash occurs during tracking of the shoulder/scapula and is reproducible across multiple trials. We have attempted to process the same participant data on different computers and obtained the same result each time.
+
+I found an older issue that appears to describe a very similar problem, although it does not seem to have been resolved:
+
+https://github.com/BrownBiomechanics/Autoscoper/issues/305
+
+System information:
+
+3D Slicer version: 5.10.1
+Operating System: Windows
+GPU: NVIDIA RTX 3080 Ti
+
+[Config Files.zip](https://github.com/user-attachments/files/29865648/Config.Files.zip)
+[Video-evidence.zip](https://github.com/user-attachments/files/29865651/Video-evidence.zip)
+[Maya Cams.zip](https://github.com/user-attachments/files/29865650/Maya.Cams.zip)
+[Tracking Files.zip](https://github.com/user-attachments/files/29865649/Tracking.Files.zip)
+[Volumes.zip](https://github.com/user-attachments/files/29865731/Volumes.zip)
+
+(Image data is to large to upload in this post, I am happy to share these images)</span></p>
+  </div>
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
+<p>I’m also bringing <a class="mention" href="/u/sydney.wheaton">@sydney.wheaton</a>  into the conversation. Sydney is our research engineer who focuses on shoulder-related projects and has the most experience with this issue. If you have any specific questions about the crashes, she will be able to provide additional details and insight.</p>
 
 ---

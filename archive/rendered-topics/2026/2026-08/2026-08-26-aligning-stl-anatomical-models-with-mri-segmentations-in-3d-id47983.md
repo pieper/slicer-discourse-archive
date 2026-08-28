@@ -3,7 +3,7 @@ topic_id: 47983
 title: "Aligning STL anatomical models with MRI segmentations in 3D Slicer"
 date: 2026-08-26
 url: https://discourse.slicer.org/t/47983
-last_bumped: 2026-08-26T13:50:29.475Z
+last_bumped: 2026-08-27T14:11:01.725Z
 ---
 
 # Aligning STL anatomical models with MRI segmentations in 3D Slicer
@@ -47,5 +47,43 @@ last_bumped: 2026-08-26T13:50:29.475Z
 <p>In your opinion, what would be the correct way to align these Mimics STL models with my MRI in 3D Slicer? Should I be looking for a way to correctly convert the Mimics coordinate system into Slicer’s physical/world coordinate system first, rather than using a rigid registration based on the Brain?</p>
 <p>Any advice on the appropriate workflow would be greatly appreciated.</p>
 <p>Thank you!</p>
+
+---
+
+## Post #4 by @ebrahim (2026-08-27 13:36 UTC)
+
+<aside class="quote no-group" data-username="Toumia_Bessedik" data-post="3" data-topic="47983">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="24" height="24" src="https://sea2.discourse-cdn.com/flex002/user_avatar/discourse.slicer.org/toumia_bessedik/48/82753_2.png" class="avatar"> Toumia_Bessedik:</div>
+<blockquote>
+<p>Should I be looking for a way to correctly convert the Mimics coordinate system into Slicer’s physical/world coordinate system first, rather than using a rigid registration based on the Brain?</p>
+</blockquote>
+</aside>
+<p>That would be the ideal solution I think, and should be possible</p>
+<p>Maybe someone more familiar with Mimics than I am can comment</p>
+<p>Brains have left-right symmetry so it could be that the transform that rigidly aligned your STL-imported brain to the in-Slicer MRI segmentation is off by a left-right flip, then other things could be off by that flip. WHen you see the other STL models not aligning correctly with the MRI after applying the transform, in what way are they misaligned? Flipped around? Translated? Do they all appear to differ from correctness by potentially the same transform?</p>
+<p>I think slicer shoudl assume <code>SPACE=RAS</code> if you don’t have anything like that in the STL header. If you put <code>SPACE=LPS</code> it will flip.</p>
+<p>You can experiment with flips also inside slicer by creating a new linear transform and then setting some of the diagonal matrix entries to -1. For example if you set the first two entries along the diagonal to -1, that is an RAS-LPS flip. Transforms can be composed on top of each other, by applying a transform node to another transform node.</p>
+
+---
+
+## Post #5 by @Toumia_Bessedik (2026-08-27 14:11 UTC)
+
+<aside class="quote no-group" data-username="ebrahim" data-post="4" data-topic="47983">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="24" height="24" src="https://sea2.discourse-cdn.com/flex002/user_avatar/discourse.slicer.org/ebrahim/48/13403_2.png" class="avatar"> ebrahim:</div>
+<blockquote>
+<p>That would be the ideal solution I think, and should be possible</p>
+<p>Maybe someone more familiar with Mimics than I am can comment</p>
+<p>Brains have left-right symmetry so it could be that the transform that rigidly aligned your STL-imported brain to the in-Slicer MRI segmentation is off by a left-right flip, then other things could be off by that flip. WHen you see the other STL models not aligning correctly with the MRI after applying the transform, in what way are they misaligned? Flipped around? Translated? Do they all appear to differ from correctness by potentially the same transform?</p>
+<p>I think slicer shoudl assume <code>SPACE=RAS</code> if you don’t have anything like that in the STL header. If you put <code>SPACE=LPS</code> it will flip.</p>
+<p>You can experiment with flips also inside slicer by creating a new linear transform and then setting some of the diagonal matrix entries to -1. For example if you set the first two entries along the diagonal to -1, that is an RAS-LPS flip. Transforms can be composed on top of each other, by applying a transform node to another transform node.</p>
+</blockquote>
+</aside>
+<p>I observed the same type of misalignment across the different structures. They all seemed to have a similar spatial displacement, which looked more like a translation than a left-right flip.</p>
+<p>However, I was finally able to resolve the issue using the FastModelAlign tool from SlicerMorph, which allowed me to correctly align the STL models with the MRI.</p>
+<p>Thank you very much for your time and for your suggestions. They were really helpful in troubleshooting the issue.</p>
 
 ---
