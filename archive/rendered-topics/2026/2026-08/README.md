@@ -33,3 +33,5 @@
 - [2026 08 26 Aligning Stl Anatomical Models With Mri Segmentations In 3D](2026-08-26-aligning-stl-anatomical-models-with-mri-segmentations-in-3d-id47983.md)
 - [2026 08 26 Question On Segmentation And Smoothing A Gecko Skull](2026-08-26-question-on-segmentation-and-smoothing-a-gecko-skull-id47990.md)
 - [2026 08 27 Spect Ct Reconstruction](2026-08-27-spect-ct-reconstruction-id48001.md)
+- [2026 08 29 Adjusting Position Of Markups Text](2026-08-29-adjusting-position-of-markups-text-id48014.md)
+- [2026 08 29 Load Failed Over Multiple Formats Tiff Nrrd](2026-08-29-load-failed-over-multiple-formats-tiff-nrrd-id48018.md)
