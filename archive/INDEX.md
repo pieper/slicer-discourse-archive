@@ -1,10 +1,10 @@
 # Slicer Discourse Archive Index
 
-Last updated: 2026-08-30 08:35 UTC
+Last updated: 2026-08-31 08:58 UTC
 
 ## Archive Contents
 
-- Total rendered topics: 19171
+- Total rendered topics: 19172
 - Raw JSON files: 0
 
 ## Recent Topics
@@ -21,11 +21,13 @@ Last updated: 2026-08-30 08:35 UTC
 - [README.md](archive/rendered-topics/2021/2021-07/README.md)
 - [README.md](archive/rendered-topics/2021/2021-04/README.md)
 - [spect ct reconstruction](archive/rendered-topics/2026/2026-08/2026-08-27-spect-ct-reconstruction-id48001.md)
-- [adjusting position of markups text](archive/rendered-topics/2026/2026-08/2026-08-29-adjusting-position-of-markups-text-id48014.md)
-- [load failed over multiple formats tiff nrrd](archive/rendered-topics/2026/2026-08/2026-08-29-load-failed-over-multiple-formats-tiff-nrrd-id48018.md)
+- [rf data streaming from the bk activ](archive/rendered-topics/2026/2026-08/2026-08-31-rf-data-streaming-from-the-bk-activ-id48025.md)
+- [how to segment bad quality 4d mri flow](archive/rendered-topics/2026/2026-08/2026-08-25-how-to-segment-bad-quality-4d-mri-flow-id47975.md)
 - [weekly meeting](archive/rendered-topics/2026/2026-08/2026-08-26-2026-09-01-weekly-meeting-id47984.md)
 - [aligning stl anatomical models with mri segmentations in 3d](archive/rendered-topics/2026/2026-08/2026-08-26-aligning-stl-anatomical-models-with-mri-segmentations-in-3d-id47983.md)
 - [question on segmentation and smoothing a gecko skull](archive/rendered-topics/2026/2026-08/2026-08-26-question-on-segmentation-and-smoothing-a-gecko-skull-id47990.md)
+- [adjusting position of markups text](archive/rendered-topics/2026/2026-08/2026-08-29-adjusting-position-of-markups-text-id48014.md)
+- [load failed over multiple formats tiff nrrd](archive/rendered-topics/2026/2026-08/2026-08-29-load-failed-over-multiple-formats-tiff-nrrd-id48018.md)
 - [extensions manager website is not opening](archive/rendered-topics/2026/2026-08/2026-08-04-extensions-manager-website-is-not-opening-id47800.md)
 - [slicer crashes after multiple slicer mmrlscene clear 0](archive/rendered-topics/2026/2026-08/2026-08-04-slicer-crashes-after-multiple-slicer-mmrlscene-clear-0-id47801.md)
 - [weekly meeting](archive/rendered-topics/2026/2026-08/2026-08-05-2026-08-11-weekly-meeting-id47815.md)
@@ -53,9 +55,7 @@ Last updated: 2026-08-30 08:35 UTC
 - [extension manager does not launch on win 11 slicer 5 12 3](archive/rendered-topics/2026/2026-08/2026-08-20-extension-manager-does-not-launch-on-win-11-slicer-5-12-3-id47935.md)
 - [fat segmentation sat vat](archive/rendered-topics/2026/2026-08/2026-08-20-fat-segmentation-sat-vat-id47940.md)
 - [totalsegmentator extension failed to install req package](archive/rendered-topics/2026/2026-08/2026-08-20-totalsegmentator-extension-failed-to-install-req-package-id47939.md)
-- [how to segment bad quality 4d mri flow](archive/rendered-topics/2026/2026-08/2026-08-25-how-to-segment-bad-quality-4d-mri-flow-id47975.md)
+- [measuring per tooth displacement between serial intraoral sc](archive/rendered-topics/2026/2026-07/2026-07-23-measuring-per-tooth-displacement-between-serial-intraoral-sc-id47723.md)
+- [new to slicerbiomech how to measure cortical area of long bo](archive/rendered-topics/2026/2026-07/2026-07-23-new-to-slicerbiomech-how-to-measure-cortical-area-of-long-bo-id47728.md)
+- [pytorch not working on intel r core tm ultra 7 155h](archive/rendered-topics/2026/2026-07/2026-07-23-pytorch-not-working-on-intel-r-core-tm-ultra-7-155h-id47724.md)
 - [build slicer on nvidias jetson orin nano](archive/rendered-topics/2026/2026-07/2026-07-25-build-slicer-on-nvidias-jetson-orin-nano-id47737.md)
-- [3d slicer cannot display cardiac lge mri volume correctly on](archive/rendered-topics/2026/2026-07/2026-07-27-3d-slicer-cannot-display-cardiac-lge-mri-volume-correctly-on-id47746.md)
-- [3d slicer cannot display cardiac lge mri volume correctly on](archive/rendered-topics/2026/2026-07/2026-07-27-3d-slicer-cannot-display-cardiac-lge-mri-volume-correctly-on-id47748.md)
-- [how to see vat and sat crossection area at l3 level](archive/rendered-topics/2026/2026-07/2026-07-28-how-to-see-vat-and-sat-crossection-area-at-l3-level-id47756.md)
-- [working apple silicon mps workaround for dentalsegmentator s](archive/rendered-topics/2026/2026-07/2026-07-28-working-apple-silicon-mps-workaround-for-dentalsegmentator-s-id47755.md)

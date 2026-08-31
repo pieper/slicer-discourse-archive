@@ -3,7 +3,7 @@ topic_id: 48001
 title: "Spect Ct Reconstruction "
 date: 2026-08-27
 url: https://discourse.slicer.org/t/48001
-last_bumped: 2026-08-29T16:04:39.280Z
+last_bumped: 2026-08-30T15:47:13.581Z
 ---
 
 # Spect Ct Reconstruction 
@@ -33,5 +33,11 @@ last_bumped: 2026-08-29T16:04:39.280Z
 
 <p>I’m not sure about the spect part, but if Slicer is freezing it would be good to narrow that down and get it fixed.</p>
 <p>First thing to try is a smaller dataset or a bigger machine with more RAM.  If that doesn’t work the best thing is to test with public data and come up with specific reproducible steps to replicate the issue.</p>
+
+---
+
+## Post #4 by @JuanIgnacioElutchanz (2026-08-30 15:47 UTC)
+
+<p>Hi Steve, that’s my other suspicion. Tomorrow I’ll try it on one of the hospital’s processing PCs, which have more processing power than the current one. I’ll keep you updated. Thanks and regards</p>
 
 ---
