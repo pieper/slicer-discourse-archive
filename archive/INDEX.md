@@ -1,6 +1,6 @@
 # Slicer Discourse Archive Index
 
-Last updated: 2026-08-31 08:58 UTC
+Last updated: 2026-09-01 08:01 UTC
 
 ## Archive Contents
 
@@ -20,12 +20,17 @@ Last updated: 2026-08-31 08:58 UTC
 - [README.md](archive/rendered-topics/2021/2021-12/README.md)
 - [README.md](archive/rendered-topics/2021/2021-07/README.md)
 - [README.md](archive/rendered-topics/2021/2021-04/README.md)
-- [spect ct reconstruction](archive/rendered-topics/2026/2026-08/2026-08-27-spect-ct-reconstruction-id48001.md)
 - [rf data streaming from the bk activ](archive/rendered-topics/2026/2026-08/2026-08-31-rf-data-streaming-from-the-bk-activ-id48025.md)
+- [cannot install any extension updates](archive/rendered-topics/2026/2026-08/2026-08-17-cannot-install-any-extension-updates-id47912.md)
+- [how can i generate an inflated cortical surface map in 3d sl](archive/rendered-topics/2026/2026-08/2026-08-17-how-can-i-generate-an-inflated-cortical-surface-map-in-3d-sl-id47906.md)
+- [extension manager does not launch on win 11 slicer 5 12 3](archive/rendered-topics/2026/2026-08/2026-08-20-extension-manager-does-not-launch-on-win-11-slicer-5-12-3-id47935.md)
+- [fat segmentation sat vat](archive/rendered-topics/2026/2026-08/2026-08-20-fat-segmentation-sat-vat-id47940.md)
+- [totalsegmentator extension failed to install req package](archive/rendered-topics/2026/2026-08/2026-08-20-totalsegmentator-extension-failed-to-install-req-package-id47939.md)
 - [how to segment bad quality 4d mri flow](archive/rendered-topics/2026/2026-08/2026-08-25-how-to-segment-bad-quality-4d-mri-flow-id47975.md)
 - [weekly meeting](archive/rendered-topics/2026/2026-08/2026-08-26-2026-09-01-weekly-meeting-id47984.md)
 - [aligning stl anatomical models with mri segmentations in 3d](archive/rendered-topics/2026/2026-08/2026-08-26-aligning-stl-anatomical-models-with-mri-segmentations-in-3d-id47983.md)
 - [question on segmentation and smoothing a gecko skull](archive/rendered-topics/2026/2026-08/2026-08-26-question-on-segmentation-and-smoothing-a-gecko-skull-id47990.md)
+- [spect ct reconstruction](archive/rendered-topics/2026/2026-08/2026-08-27-spect-ct-reconstruction-id48001.md)
 - [adjusting position of markups text](archive/rendered-topics/2026/2026-08/2026-08-29-adjusting-position-of-markups-text-id48014.md)
 - [load failed over multiple formats tiff nrrd](archive/rendered-topics/2026/2026-08/2026-08-29-load-failed-over-multiple-formats-tiff-nrrd-id48018.md)
 - [extensions manager website is not opening](archive/rendered-topics/2026/2026-08/2026-08-04-extensions-manager-website-is-not-opening-id47800.md)
@@ -50,12 +55,7 @@ Last updated: 2026-08-31 08:58 UTC
 - [free webinar simplify your structural diffusion mri workflow](archive/rendered-topics/2026/2026-08/2026-08-14-free-webinar-simplify-your-structural-diffusion-mri-workflow-id47883.md)
 - [protocol for rtk ct reconstruction from bruker skyscan](archive/rendered-topics/2026/2026-08/2026-08-15-protocol-for-rtk-ct-reconstruction-from-bruker-skyscan-id47894.md)
 - [3d slicer freezes when enabling markups roi interaction hand](archive/rendered-topics/2026/2026-08/2026-08-17-3d-slicer-freezes-when-enabling-markups-roi-interaction-hand-id47905.md)
-- [cannot install any extension updates](archive/rendered-topics/2026/2026-08/2026-08-17-cannot-install-any-extension-updates-id47912.md)
-- [how can i generate an inflated cortical surface map in 3d sl](archive/rendered-topics/2026/2026-08/2026-08-17-how-can-i-generate-an-inflated-cortical-surface-map-in-3d-sl-id47906.md)
-- [extension manager does not launch on win 11 slicer 5 12 3](archive/rendered-topics/2026/2026-08/2026-08-20-extension-manager-does-not-launch-on-win-11-slicer-5-12-3-id47935.md)
-- [fat segmentation sat vat](archive/rendered-topics/2026/2026-08/2026-08-20-fat-segmentation-sat-vat-id47940.md)
-- [totalsegmentator extension failed to install req package](archive/rendered-topics/2026/2026-08/2026-08-20-totalsegmentator-extension-failed-to-install-req-package-id47939.md)
-- [measuring per tooth displacement between serial intraoral sc](archive/rendered-topics/2026/2026-07/2026-07-23-measuring-per-tooth-displacement-between-serial-intraoral-sc-id47723.md)
-- [new to slicerbiomech how to measure cortical area of long bo](archive/rendered-topics/2026/2026-07/2026-07-23-new-to-slicerbiomech-how-to-measure-cortical-area-of-long-bo-id47728.md)
-- [pytorch not working on intel r core tm ultra 7 155h](archive/rendered-topics/2026/2026-07/2026-07-23-pytorch-not-working-on-intel-r-core-tm-ultra-7-155h-id47724.md)
-- [build slicer on nvidias jetson orin nano](archive/rendered-topics/2026/2026-07/2026-07-25-build-slicer-on-nvidias-jetson-orin-nano-id47737.md)
+- [weekly meeting](archive/rendered-topics/2026/2026-07/2026-07-29-2026-08-04-weekly-meeting-id47761.md)
+- [mpr or reslice saving planes](archive/rendered-topics/2026/2026-07/2026-07-30-mpr-or-reslice-saving-planes-id47765.md)
+- [no new mac extensions for stable](archive/rendered-topics/2026/2026-07/2026-07-30-no-new-mac-extensions-for-stable-id47768.md)
+- [a newcomer to 3d slicer shares a cinematic interior fly thro](archive/rendered-topics/2026/2026-07/2026-07-31-a-newcomer-to-3d-slicer-shares-a-cinematic-interior-fly-thro-id47778.md)
