@@ -1,10 +1,10 @@
 # Slicer Discourse Archive Index
 
-Last updated: 2026-09-03 07:25 UTC
+Last updated: 2026-09-04 07:27 UTC
 
 ## Archive Contents
 
-- Total rendered topics: 19176
+- Total rendered topics: 19179
 - Raw JSON files: 0
 
 ## Recent Topics
@@ -21,15 +21,11 @@ Last updated: 2026-09-03 07:25 UTC
 - [README.md](archive/rendered-topics/2021/2021-12/README.md)
 - [README.md](archive/rendered-topics/2021/2021-07/README.md)
 - [README.md](archive/rendered-topics/2021/2021-04/README.md)
-- [resetting a transform in an existing node](archive/rendered-topics/2026/2026-09/2026-09-02-resetting-a-transform-in-an-existing-node-id48040.md)
+- [4d nifti flipped and rotated about 90 deg](archive/rendered-topics/2026/2026-09/2026-09-03-4d-nifti-flipped-and-rotated-about-90-deg-id48056.md)
 - [segmentations module opacity issue](archive/rendered-topics/2026/2026-09/2026-09-02-segmentations-module-opacity-issue-id48044.md)
-- [new extension drai ai 3d segmentation and modelling extensio](archive/rendered-topics/2026/2026-09/2026-09-01-new-extension-drai-ai-3d-segmentation-and-modelling-extensio-id48031.md)
-- [bronchus segmentation loads but is not visible while totalse](archive/rendered-topics/2026/2026-08/2026-08-14-bronchus-segmentation-loads-but-is-not-visible-while-totalse-id47886.md)
-- [free webinar simplify your structural diffusion mri workflow](archive/rendered-topics/2026/2026-08/2026-08-14-free-webinar-simplify-your-structural-diffusion-mri-workflow-id47883.md)
-- [protocol for rtk ct reconstruction from bruker skyscan](archive/rendered-topics/2026/2026-08/2026-08-15-protocol-for-rtk-ct-reconstruction-from-bruker-skyscan-id47894.md)
-- [3d slicer freezes when enabling markups roi interaction hand](archive/rendered-topics/2026/2026-08/2026-08-17-3d-slicer-freezes-when-enabling-markups-roi-interaction-hand-id47905.md)
-- [cannot install any extension updates](archive/rendered-topics/2026/2026-08/2026-08-17-cannot-install-any-extension-updates-id47912.md)
-- [how can i generate an inflated cortical surface map in 3d sl](archive/rendered-topics/2026/2026-08/2026-08-17-how-can-i-generate-an-inflated-cortical-surface-map-in-3d-sl-id47906.md)
+- [whole adult woman body ct scan and mri](archive/rendered-topics/2026/2026-09/2026-09-03-whole-adult-woman-body-ct-scan-and-mri-id48054.md)
+- [soft tissue segmentation advice needed](archive/rendered-topics/2026/2026-09/2026-09-03-soft-tissue-segmentation-advice-needed-id48060.md)
+- [resetting a transform in an existing node](archive/rendered-topics/2026/2026-09/2026-09-02-resetting-a-transform-in-an-existing-node-id48040.md)
 - [extension manager does not launch on win 11 slicer 5 12 3](archive/rendered-topics/2026/2026-08/2026-08-20-extension-manager-does-not-launch-on-win-11-slicer-5-12-3-id47935.md)
 - [fat segmentation sat vat](archive/rendered-topics/2026/2026-08/2026-08-20-fat-segmentation-sat-vat-id47940.md)
 - [totalsegmentator extension failed to install req package](archive/rendered-topics/2026/2026-08/2026-08-20-totalsegmentator-extension-failed-to-install-req-package-id47939.md)
@@ -41,13 +37,7 @@ Last updated: 2026-09-03 07:25 UTC
 - [adjusting position of markups text](archive/rendered-topics/2026/2026-08/2026-08-29-adjusting-position-of-markups-text-id48014.md)
 - [load failed over multiple formats tiff nrrd](archive/rendered-topics/2026/2026-08/2026-08-29-load-failed-over-multiple-formats-tiff-nrrd-id48018.md)
 - [rf data streaming from the bk activ](archive/rendered-topics/2026/2026-08/2026-08-31-rf-data-streaming-from-the-bk-activ-id48025.md)
-- [extensions manager website is not opening](archive/rendered-topics/2026/2026-08/2026-08-04-extensions-manager-website-is-not-opening-id47800.md)
-- [slicer crashes after multiple slicer mmrlscene clear 0](archive/rendered-topics/2026/2026-08/2026-08-04-slicer-crashes-after-multiple-slicer-mmrlscene-clear-0-id47801.md)
-- [weekly meeting](archive/rendered-topics/2026/2026-08/2026-08-05-2026-08-11-weekly-meeting-id47815.md)
-- [download side giving internal error](archive/rendered-topics/2026/2026-08/2026-08-05-download-side-giving-internal-error-id47811.md)
-- [laptop requirements to do segmentation and volume rendering](archive/rendered-topics/2026/2026-08/2026-08-05-laptop-requirements-to-do-segmentation-and-volume-rendering-id47812.md)
-- [level tracing tool is either an amnesiac or thinks im too st](archive/rendered-topics/2026/2026-08/2026-08-05-level-tracing-tool-is-either-an-amnesiac-or-thinks-im-too-st-id47814.md)
-- [unable to load dicom into sequence browser](archive/rendered-topics/2026/2026-08/2026-08-05-unable-to-load-dicom-into-sequence-browser-id47813.md)
+- [new extension drai ai 3d segmentation and modelling extensio](archive/rendered-topics/2026/2026-09/2026-09-01-new-extension-drai-ai-3d-segmentation-and-modelling-extensio-id48031.md)
 - [how can i manually assign colors to structures in my 3d mode](archive/rendered-topics/2026/2026-08/2026-08-07-how-can-i-manually-assign-colors-to-structures-in-my-3d-mode-id47827.md)
 - [opendose 3d cannot generate integratation of absorbed dose r](archive/rendered-topics/2026/2026-08/2026-08-07-opendose-3d-cannot-generate-integratation-of-absorbed-dose-r-id47822.md)
 - [slicerdrrgenerator lancelevine how to get lateral oblique vi](archive/rendered-topics/2026/2026-08/2026-08-07-slicerdrrgenerator-lancelevine-how-to-get-lateral-oblique-vi-id47824.md)
@@ -59,3 +49,13 @@ Last updated: 2026-09-03 07:25 UTC
 - [tomografo eagle edge](archive/rendered-topics/2026/2026-08/2026-08-11-tomografo-eagle-edge-id47862.md)
 - [weekly meeting](archive/rendered-topics/2026/2026-08/2026-08-12-2026-08-18-weekly-meeting-id47871.md)
 - [analyzer results in report extended analysis table 2 all res](archive/rendered-topics/2026/2026-08/2026-08-12-analyzer-results-in-report-extended-analysis-table-2-all-res-id47870.md)
+- [bronchus segmentation loads but is not visible while totalse](archive/rendered-topics/2026/2026-08/2026-08-14-bronchus-segmentation-loads-but-is-not-visible-while-totalse-id47886.md)
+- [free webinar simplify your structural diffusion mri workflow](archive/rendered-topics/2026/2026-08/2026-08-14-free-webinar-simplify-your-structural-diffusion-mri-workflow-id47883.md)
+- [protocol for rtk ct reconstruction from bruker skyscan](archive/rendered-topics/2026/2026-08/2026-08-15-protocol-for-rtk-ct-reconstruction-from-bruker-skyscan-id47894.md)
+- [3d slicer freezes when enabling markups roi interaction hand](archive/rendered-topics/2026/2026-08/2026-08-17-3d-slicer-freezes-when-enabling-markups-roi-interaction-hand-id47905.md)
+- [cannot install any extension updates](archive/rendered-topics/2026/2026-08/2026-08-17-cannot-install-any-extension-updates-id47912.md)
+- [how can i generate an inflated cortical surface map in 3d sl](archive/rendered-topics/2026/2026-08/2026-08-17-how-can-i-generate-an-inflated-cortical-surface-map-in-3d-sl-id47906.md)
+- [extensions manager website is not opening](archive/rendered-topics/2026/2026-08/2026-08-04-extensions-manager-website-is-not-opening-id47800.md)
+- [slicer crashes after multiple slicer mmrlscene clear 0](archive/rendered-topics/2026/2026-08/2026-08-04-slicer-crashes-after-multiple-slicer-mmrlscene-clear-0-id47801.md)
+- [weekly meeting](archive/rendered-topics/2026/2026-08/2026-08-05-2026-08-11-weekly-meeting-id47815.md)
+- [download side giving internal error](archive/rendered-topics/2026/2026-08/2026-08-05-download-side-giving-internal-error-id47811.md)
