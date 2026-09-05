@@ -1,8 +1,9 @@
 ---
 topic_id: 25577
-title: "How To Compute Bifurcation Angles In Slicer"
+title: "How to compute bifurcation angles in Slicer?"
 date: 2022-10-06
 url: https://discourse.slicer.org/t/25577
+last_bumped: 2026-09-04T19:39:48.547Z
 ---
 
 # How to compute bifurcation angles in Slicer?
@@ -42,5 +43,11 @@ However, I am not sure how to extract the bifurcation angles. Here’s what I’
 <p>Hi Tim,</p>
 <p>Did you ever get this to work? I’m interested in doing something similar and have been playing around with VMTK.</p>
 <p>Bob</p>
+
+---
+
+## Post #3 by @aabrown100-git (2026-09-04 19:39 UTC)
+
+<p>Hi all, I just made a PR that addresses this need: <a href="https://github.com/vmtk/SlicerExtension-VMTK/pull/195/commits" class="inline-onebox" rel="noopener nofollow ugc">Add junction angle quantification to Centerline disassembly by aabrown100-git · Pull Request #195 · vmtk/SlicerExtension-VMTK · GitHub</a>. Please try it out and let me know if it needs any modifications or extensions</p>
 
 ---

@@ -3,7 +3,7 @@ topic_id: 48056
 title: "4D NifTi flipped and rotated about 90-deg"
 date: 2026-09-03
 url: https://discourse.slicer.org/t/48056
-last_bumped: 2026-09-03T13:39:41.074Z
+last_bumped: 2026-09-04T19:02:01.213Z
 ---
 
 # 4D NifTi flipped and rotated about 90-deg
@@ -42,5 +42,11 @@ last_bumped: 2026-09-03T13:39:41.074Z
 <li>here is what <code>ITK-SNAP</code> produced, which is a lot similar to mine.</li>
 </ul>
 <p><div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/6/c/6ccd50821883129d1ad6398ad9771b06c237a0ce.jpeg" data-download-href="/uploads/short-url/fwvrXTcOsY1EdkibQi5w0AhVNGm.jpeg?dl=1" title="alana_itks" rel="noopener nofollow ugc"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/6/c/6ccd50821883129d1ad6398ad9771b06c237a0ce_2_503x500.jpeg" alt="alana_itks" data-base62-sha1="fwvrXTcOsY1EdkibQi5w0AhVNGm" width="503" height="500" srcset="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/6/c/6ccd50821883129d1ad6398ad9771b06c237a0ce_2_503x500.jpeg, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/6/c/6ccd50821883129d1ad6398ad9771b06c237a0ce_2_754x750.jpeg 1.5x, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/6/c/6ccd50821883129d1ad6398ad9771b06c237a0ce_2_1006x1000.jpeg 2x" data-dominant-color="212222"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">alana_itks</span><span class="informations">1348×1338 212 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
+
+---
+
+## Post #2 by @pieper (2026-09-04 19:02 UTC)
+
+<p>Nifti is a complex format and the details of how transforms are encoded are sometimes abiguous and interpreted differently by different software packages (the documentation for various neuroimaging tools describe this well).  4D is especially challenging, and we don’t frankly see a lot of 4D nifti in the Slicer community.  But we would like to be interoperable with any standards, so if you can find an authoritative document that describes how the header fields should be interpreted someone would probably be able to implement that (in the past, no such document could be found).</p>
 
 ---
