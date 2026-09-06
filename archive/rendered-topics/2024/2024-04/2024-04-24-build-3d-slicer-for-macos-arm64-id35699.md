@@ -3,7 +3,7 @@ topic_id: 35699
 title: "Build 3D Slicer for MacOS arm64?"
 date: 2024-04-24
 url: https://discourse.slicer.org/t/35699
-last_bumped: 2026-04-09T16:05:31.952Z
+last_bumped: 2026-09-05T17:52:29.338Z
 ---
 
 # Build 3D Slicer for MacOS arm64?
@@ -546,5 +546,20 @@ Related discourse posts:
   <div style="clear: both"></div>
 </aside>
 
+
+---
+
+## Post #16 by @GeneRisi (2026-09-05 17:47 UTC)
+
+<p>Hello  James,</p>
+<p>I saw that the meta issue above is closed but the downloadable MacOS files are all labeled as “AMD64”. Does the current state of the software require me to do a build?</p>
+<p>Thank you!</p>
+<p>Gene Risi</p>
+
+---
+
+## Post #17 by @jamesobutler (2026-09-05 17:52 UTC)
+
+<p>Yes it is possible to build latest Slicer <code>main</code> branch for arm64. There were updates made that are not available in the Slicer <code>5.12.3</code> tag. Kitware has not yet finalized the addition of a new arm64 build machine which is why there are not pre-built versions available on <a href="http://download.slicer.org" rel="noopener nofollow ugc">download.slicer.org</a> yet.</p>
 
 ---
