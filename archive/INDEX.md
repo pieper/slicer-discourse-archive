@@ -1,10 +1,10 @@
 # Slicer Discourse Archive Index
 
-Last updated: 2026-09-06 07:21 UTC
+Last updated: 2026-09-07 07:36 UTC
 
 ## Archive Contents
 
-- Total rendered topics: 19179
+- Total rendered topics: 19182
 - Raw JSON files: 0
 
 ## Recent Topics
@@ -17,9 +17,6 @@ Last updated: 2026-09-06 07:21 UTC
 - [README.md](archive/rendered-topics/2019/2019-04/README.md)
 - [README.md](archive/rendered-topics/2019/2019-03/README.md)
 - [README.md](archive/rendered-topics/2019/2019-01/README.md)
-- [problem in loading dicom could not load image as scalar volu](archive/rendered-topics/2019/2019-12/2019-12-28-problem-in-loading-dicom-could-not-load-image-as-scalar-volu-id9634.md)
-- [3d slicer hangs most times](archive/rendered-topics/2019/2019-12/2019-12-29-3d-slicer-hangs-most-times-id9639.md)
-- [importing slicer libraries separately outside embedded pytho](archive/rendered-topics/2019/2019-12/2019-12-29-importing-slicer-libraries-separately-outside-embedded-pytho-id9645.md)
 - [not all modules are enabled after build](archive/rendered-topics/2019/2019-12/2019-12-29-not-all-modules-are-enabled-after-build-id9644.md)
 - [odd id for vtkmrmllayoutnode](archive/rendered-topics/2019/2019-12/2019-12-29-odd-id-for-vtkmrmllayoutnode-id9649.md)
 - [set a node as a parent for the other nodes](archive/rendered-topics/2019/2019-12/2019-12-29-set-a-node-as-a-parent-for-the-other-nodes-id9646.md)
@@ -33,10 +30,6 @@ Last updated: 2026-09-06 07:21 UTC
 - [create curve from many input points](archive/rendered-topics/2019/2019-12/2019-12-31-create-curve-from-many-input-points-id9673.md)
 - [how to show vr in view2 3 by code](archive/rendered-topics/2019/2019-12/2019-12-31-how-to-show-vr-in-view2-3-by-code-id9671.md)
 - [thickness of the model](archive/rendered-topics/2019/2019-12/2019-12-31-thickness-of-the-model-id9670.md)
-- [hangout cancelled](archive/rendered-topics/2019/2019-12/2019-12-24-2019-12-24-hangout-cancelled-id9607.md)
-- [double images when loading a dicom file](archive/rendered-topics/2019/2019-12/2019-12-24-double-images-when-loading-a-dicom-file-id9601.md)
-- [loading dicom volume got significantly slower](archive/rendered-topics/2019/2019-12/2019-12-24-loading-dicom-volume-got-significantly-slower-id9605.md)
-- [philips epiq 7 vol files to dicom or tiff files](archive/rendered-topics/2019/2019-12/2019-12-24-philips-epiq-7-vol-files-to-dicom-or-tiff-files-id9602.md)
 - [volume rendering roi setandobserveroinodeid problem](archive/rendered-topics/2019/2019-12/2019-12-24-volume-rendering-roi-setandobserveroinodeid-problem-id9608.md)
 - [build error need help](archive/rendered-topics/2019/2019-12/2019-12-25-build-error-need-help-id9615.md)
 - [heat maps for two structures](archive/rendered-topics/2019/2019-12/2019-12-25-heat-maps-for-two-structures-id9610.md)
@@ -48,10 +41,9 @@ Last updated: 2026-09-06 07:21 UTC
 - [limitation in increasing the resolution in crop volume modul](archive/rendered-topics/2019/2019-12/2019-12-26-limitation-in-increasing-the-resolution-in-crop-volume-modul-id9621.md)
 - [spharm analysis of 3d slicer](archive/rendered-topics/2019/2019-12/2019-12-27-spharm-analysis-of-3d-slicer-id9630.md)
 - [how to do batch registration](archive/rendered-topics/2019/2019-12/2019-12-28-how-to-do-batch-registration-id9633.md)
-- [fiducial to model surface distance](archive/rendered-topics/2019/2019-12/2019-12-18-fiducial-to-model-surface-distance-id9554.md)
-- [getselected update to slicer3d](archive/rendered-topics/2019/2019-12/2019-12-18-getselected-update-to-slicer3d-id9544.md)
-- [slicerigt collect points to model node](archive/rendered-topics/2019/2019-12/2019-12-18-slicerigt-collect-points-to-model-node-id9550.md)
-- [spharm pdm command line running does not generate procalign](archive/rendered-topics/2019/2019-12/2019-12-18-spharm-pdm-command-line-running-does-not-generate-procalign-id9555.md)
+- [problem in loading dicom could not load image as scalar volu](archive/rendered-topics/2019/2019-12/2019-12-28-problem-in-loading-dicom-could-not-load-image-as-scalar-volu-id9634.md)
+- [3d slicer hangs most times](archive/rendered-topics/2019/2019-12/2019-12-29-3d-slicer-hangs-most-times-id9639.md)
+- [importing slicer libraries separately outside embedded pytho](archive/rendered-topics/2019/2019-12/2019-12-29-importing-slicer-libraries-separately-outside-embedded-pytho-id9645.md)
 - [building for long time is there any remedy](archive/rendered-topics/2019/2019-12/2019-12-19-building-for-long-time-is-there-any-remedy-id9562.md)
 - [low fps for transforming surfaces](archive/rendered-topics/2019/2019-12/2019-12-20-low-fps-for-transforming-surfaces-id9571.md)
 - [nonlinear transforms](archive/rendered-topics/2019/2019-12/2019-12-20-nonlinear-transforms-id9568.md)
@@ -59,3 +51,11 @@ Last updated: 2026-09-06 07:21 UTC
 - [tutorial to build an extention](archive/rendered-topics/2019/2019-12/2019-12-21-tutorial-to-build-an-extention-id9578.md)
 - [creating a model combo box](archive/rendered-topics/2019/2019-12/2019-12-22-creating-a-model-combo-box-id9582.md)
 - [python errors in terminal loading dicom volume is slow](archive/rendered-topics/2019/2019-12/2019-12-22-python-errors-in-terminal-loading-dicom-volume-is-slow-id9583.md)
+- [application startup script open option is confusing](archive/rendered-topics/2019/2019-12/2019-12-23-application-startup-script-open-option-is-confusing-id9596.md)
+- [install slicer for all users option on windows](archive/rendered-topics/2019/2019-12/2019-12-23-install-slicer-for-all-users-option-on-windows-id9594.md)
+- [issue of hollow shell while creating cardiac segmentation](archive/rendered-topics/2019/2019-12/2019-12-23-issue-of-hollow-shell-while-creating-cardiac-segmentation-id9590.md)
+- [open scn image in slicer 3d](archive/rendered-topics/2019/2019-12/2019-12-23-open-scn-image-in-slicer-3d-id9589.md)
+- [point inside a closed surface centre](archive/rendered-topics/2019/2019-12/2019-12-23-point-inside-a-closed-surface-centre-id9592.md)
+- [what is the method to draw structure of slicer rt](archive/rendered-topics/2019/2019-12/2019-12-23-what-is-the-method-to-draw-structure-of-slicer-rt-id9585.md)
+- [hangout cancelled](archive/rendered-topics/2019/2019-12/2019-12-24-2019-12-24-hangout-cancelled-id9607.md)
+- [double images when loading a dicom file](archive/rendered-topics/2019/2019-12/2019-12-24-double-images-when-loading-a-dicom-file-id9601.md)
