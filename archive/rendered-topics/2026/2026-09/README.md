@@ -9,3 +9,5 @@
 - [2026 09 06 Applying Boundary Constraints To Drr Volumes In Slicerautosc](2026-09-06-applying-boundary-constraints-to-drr-volumes-in-slicerautosc-id48084.md)
 - [2026 09 06 New Extension Slicermicroview Read And Write Ge Explore Micr](2026-09-06-new-extension-slicermicroview-read-and-write-ge-explore-micr-id48083.md)
 - [2026 09 06 Request For Feedback On Toothanalysermicroct Extension Pr](2026-09-06-request-for-feedback-on-toothanalysermicroct-extension-pr-id48077.md)
+- [2026 09 07 2026 09 08 Weekly Meeting](2026-09-07-2026-09-08-weekly-meeting-id48093.md)
+- [2026 09 07 How To Quickly Recompile Updated Code Based On The Current B](2026-09-07-how-to-quickly-recompile-updated-code-based-on-the-current-b-id48089.md)

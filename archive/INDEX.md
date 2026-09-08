@@ -1,10 +1,10 @@
 # Slicer Discourse Archive Index
 
-Last updated: 2026-09-07 07:36 UTC
+Last updated: 2026-09-08 07:29 UTC
 
 ## Archive Contents
 
-- Total rendered topics: 19182
+- Total rendered topics: 19184
 - Raw JSON files: 0
 
 ## Recent Topics
@@ -17,6 +17,16 @@ Last updated: 2026-09-07 07:36 UTC
 - [README.md](archive/rendered-topics/2019/2019-04/README.md)
 - [README.md](archive/rendered-topics/2019/2019-03/README.md)
 - [README.md](archive/rendered-topics/2019/2019-01/README.md)
+- [occlusion registration](archive/rendered-topics/2019/2019-12/2019-12-25-occlusion-registration-id9614.md)
+- [deepinfer issues](archive/rendered-topics/2019/2019-12/2019-12-26-deepinfer-issues-id9622.md)
+- [how to analyse ct data of lungs](archive/rendered-topics/2019/2019-12/2019-12-26-how-to-analyse-ct-data-of-lungs-id9618.md)
+- [how to analyse ct time sequence data of lungs](archive/rendered-topics/2019/2019-12/2019-12-26-how-to-analyse-ct-time-sequence-data-of-lungs-id9620.md)
+- [limitation in increasing the resolution in crop volume modul](archive/rendered-topics/2019/2019-12/2019-12-26-limitation-in-increasing-the-resolution-in-crop-volume-modul-id9621.md)
+- [spharm analysis of 3d slicer](archive/rendered-topics/2019/2019-12/2019-12-27-spharm-analysis-of-3d-slicer-id9630.md)
+- [how to do batch registration](archive/rendered-topics/2019/2019-12/2019-12-28-how-to-do-batch-registration-id9633.md)
+- [problem in loading dicom could not load image as scalar volu](archive/rendered-topics/2019/2019-12/2019-12-28-problem-in-loading-dicom-could-not-load-image-as-scalar-volu-id9634.md)
+- [3d slicer hangs most times](archive/rendered-topics/2019/2019-12/2019-12-29-3d-slicer-hangs-most-times-id9639.md)
+- [importing slicer libraries separately outside embedded pytho](archive/rendered-topics/2019/2019-12/2019-12-29-importing-slicer-libraries-separately-outside-embedded-pytho-id9645.md)
 - [not all modules are enabled after build](archive/rendered-topics/2019/2019-12/2019-12-29-not-all-modules-are-enabled-after-build-id9644.md)
 - [odd id for vtkmrmllayoutnode](archive/rendered-topics/2019/2019-12/2019-12-29-odd-id-for-vtkmrmllayoutnode-id9649.md)
 - [set a node as a parent for the other nodes](archive/rendered-topics/2019/2019-12/2019-12-29-set-a-node-as-a-parent-for-the-other-nodes-id9646.md)
@@ -30,20 +40,10 @@ Last updated: 2026-09-07 07:36 UTC
 - [create curve from many input points](archive/rendered-topics/2019/2019-12/2019-12-31-create-curve-from-many-input-points-id9673.md)
 - [how to show vr in view2 3 by code](archive/rendered-topics/2019/2019-12/2019-12-31-how-to-show-vr-in-view2-3-by-code-id9671.md)
 - [thickness of the model](archive/rendered-topics/2019/2019-12/2019-12-31-thickness-of-the-model-id9670.md)
-- [volume rendering roi setandobserveroinodeid problem](archive/rendered-topics/2019/2019-12/2019-12-24-volume-rendering-roi-setandobserveroinodeid-problem-id9608.md)
-- [build error need help](archive/rendered-topics/2019/2019-12/2019-12-25-build-error-need-help-id9615.md)
-- [heat maps for two structures](archive/rendered-topics/2019/2019-12/2019-12-25-heat-maps-for-two-structures-id9610.md)
-- [need help regarding porosity maps of tumor using 3 d slicer](archive/rendered-topics/2019/2019-12/2019-12-25-need-help-regarding-porosity-maps-of-tumor-using-3-d-slicer-id9609.md)
-- [occlusion registration](archive/rendered-topics/2019/2019-12/2019-12-25-occlusion-registration-id9614.md)
-- [deepinfer issues](archive/rendered-topics/2019/2019-12/2019-12-26-deepinfer-issues-id9622.md)
-- [how to analyse ct data of lungs](archive/rendered-topics/2019/2019-12/2019-12-26-how-to-analyse-ct-data-of-lungs-id9618.md)
-- [how to analyse ct time sequence data of lungs](archive/rendered-topics/2019/2019-12/2019-12-26-how-to-analyse-ct-time-sequence-data-of-lungs-id9620.md)
-- [limitation in increasing the resolution in crop volume modul](archive/rendered-topics/2019/2019-12/2019-12-26-limitation-in-increasing-the-resolution-in-crop-volume-modul-id9621.md)
-- [spharm analysis of 3d slicer](archive/rendered-topics/2019/2019-12/2019-12-27-spharm-analysis-of-3d-slicer-id9630.md)
-- [how to do batch registration](archive/rendered-topics/2019/2019-12/2019-12-28-how-to-do-batch-registration-id9633.md)
-- [problem in loading dicom could not load image as scalar volu](archive/rendered-topics/2019/2019-12/2019-12-28-problem-in-loading-dicom-could-not-load-image-as-scalar-volu-id9634.md)
-- [3d slicer hangs most times](archive/rendered-topics/2019/2019-12/2019-12-29-3d-slicer-hangs-most-times-id9639.md)
-- [importing slicer libraries separately outside embedded pytho](archive/rendered-topics/2019/2019-12/2019-12-29-importing-slicer-libraries-separately-outside-embedded-pytho-id9645.md)
+- [fiducial to model surface distance](archive/rendered-topics/2019/2019-12/2019-12-18-fiducial-to-model-surface-distance-id9554.md)
+- [getselected update to slicer3d](archive/rendered-topics/2019/2019-12/2019-12-18-getselected-update-to-slicer3d-id9544.md)
+- [slicerigt collect points to model node](archive/rendered-topics/2019/2019-12/2019-12-18-slicerigt-collect-points-to-model-node-id9550.md)
+- [spharm pdm command line running does not generate procalign](archive/rendered-topics/2019/2019-12/2019-12-18-spharm-pdm-command-line-running-does-not-generate-procalign-id9555.md)
 - [building for long time is there any remedy](archive/rendered-topics/2019/2019-12/2019-12-19-building-for-long-time-is-there-any-remedy-id9562.md)
 - [low fps for transforming surfaces](archive/rendered-topics/2019/2019-12/2019-12-20-low-fps-for-transforming-surfaces-id9571.md)
 - [nonlinear transforms](archive/rendered-topics/2019/2019-12/2019-12-20-nonlinear-transforms-id9568.md)

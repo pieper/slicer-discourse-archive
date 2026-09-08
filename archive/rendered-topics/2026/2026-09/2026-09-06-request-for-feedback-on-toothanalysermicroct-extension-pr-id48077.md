@@ -3,7 +3,7 @@ topic_id: 48077
 title: "Request for feedback on ToothAnalyserMicroCT extension PR"
 date: 2026-09-06
 url: https://discourse.slicer.org/t/48077
-last_bumped: 2026-09-06T13:30:11.031Z
+last_bumped: 2026-09-07T15:01:21.231Z
 ---
 
 # Request for feedback on ToothAnalyserMicroCT extension PR
@@ -33,5 +33,13 @@ Luke</p>
 ## Post #2 by @pieper (2026-09-06 13:30 UTC)
 
 <p>Thanks for your patience.  We’re hoping to streamline the extensions process in the coming months so make things easier for everyone.</p>
+
+---
+
+## Post #3 by @Lukon (2026-09-07 15:01 UTC)
+
+<p>Thanks for the update. No worries at all, and I completely understand that improving and maintaining the extensions process takes time.</p>
+<p>Streamlining the process sounds like a great initiative. In the meantime, I’m happy to provide any additional information or make changes to my PR if needed.</p>
+<p>Thanks again for your time and effort</p>
 
 ---

@@ -3,7 +3,7 @@ topic_id: 35699
 title: "Build 3D Slicer for MacOS arm64?"
 date: 2024-04-24
 url: https://discourse.slicer.org/t/35699
-last_bumped: 2026-09-05T17:52:29.338Z
+last_bumped: 2026-09-07T21:48:47.859Z
 ---
 
 # Build 3D Slicer for MacOS arm64?
@@ -561,5 +561,57 @@ Related discourse posts:
 ## Post #17 by @jamesobutler (2026-09-05 17:52 UTC)
 
 <p>Yes it is possible to build latest Slicer <code>main</code> branch for arm64. There were updates made that are not available in the Slicer <code>5.12.3</code> tag. Kitware has not yet finalized the addition of a new arm64 build machine which is why there are not pre-built versions available on <a href="http://download.slicer.org" rel="noopener nofollow ugc">download.slicer.org</a> yet.</p>
+
+---
+
+## Post #18 by @GeneRisi (2026-09-07 14:50 UTC)
+
+<p>Hello James,</p>
+<p>On an native arm64 MacOS build, I get this message at startup:</p>
+<p>Traceback (most recent call last):</p>
+<p>File “”, line 1, in </p>
+<p>File “&lt;frozen importlib._bootstrap_external&gt;”, line 999, in exec_module</p>
+<p>File “&lt;frozen importlib._bootstrap&gt;”, line 488, in _call_with_frames_removed</p>
+<p>File “/opt/scmake/Slicer-build/lib/Slicer-5.13/qt-scripted-modules/MultiVolumeImporterPlugin.py”, line 4, in </p>
+<pre><code>import DICOMLib
+</code></pre>
+<p>ModuleNotFoundError: No module named ‘DICOMLib’</p>
+<p>[Qt] loadSourceAsModule - Failed to load file “/opt/scmake/Slicer-build/lib/Slicer-5.13/qt-scripted-modules/MultiVolumeImporterPlugin.py”  as module “MultiVolumeImporterPlugin” !</p>
+<p>[Qt] Fail to instantiate module  “MultiVolumeImporterPlugin”</p>
+<p>[Qt] The following modules failed to be instantiated:</p>
+<p>[Qt]    MultiVolumeImporterPlugin</p>
+
+---
+
+## Post #19 by @jamesobutler (2026-09-07 17:42 UTC)
+
+<p>Interesting I haven’t seen that in my own arm64 builds.</p>
+<p>Was your build from source completely successfully or did a build error appear during any of the steps? What Qt version did you use and from where (built from source or homebrew)? Did you customize any of the standard Slicer configure options to turn off/on certain features?</p>
+
+---
+
+## Post #20 by @GeneRisi (2026-09-07 19:41 UTC)
+
+<p>Qt was from Homebrew (QMake is version 3.1, Qt version 6.11.2.</p>
+<p>I did get an error the first time I tried the build. It said that “pipe2” was only available in os 27 and later (the compatibility version is 15. something in the build script).I changed it to 27.0 and it built successfully. Maybe I need to do a make clean and start again. I’ll let you know if that resolves the issue.</p>
+
+---
+
+## Post #21 by @GeneRisi (2026-09-07 20:05 UTC)
+
+<p>I ran “make clean” and got the same results. Successful build but the same runtime error.</p>
+<p>Let me know if there is something I should try. Thanks!</p>
+
+---
+
+## Post #22 by @jamesobutler (2026-09-07 21:22 UTC)
+
+<p>Are you running macOS 27 Golden Gate which is yet to be publicly available in stable build form? The current set of dependencies that Slicer uses is not yet guaranteed to work for macOS 27 though they do generally get fixed up sometime after the stable release is out. I have built latest Slicer <code>main</code> on macOS 26 Tahoe successfully with homebrew provided 6.11.2 and CMake 4.3.</p>
+
+---
+
+## Post #23 by @GeneRisi (2026-09-07 21:48 UTC)
+
+<p>I am running the developer betas and that could be the problem. I don’t want to waste your time; thanks for your help!</p>
 
 ---
