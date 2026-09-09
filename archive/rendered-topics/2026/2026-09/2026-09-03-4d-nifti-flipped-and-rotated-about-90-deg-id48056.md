@@ -3,7 +3,7 @@ topic_id: 48056
 title: "4D NifTi flipped and rotated about 90-deg"
 date: 2026-09-03
 url: https://discourse.slicer.org/t/48056
-last_bumped: 2026-09-04T19:02:01.213Z
+last_bumped: 2026-09-08T12:09:25.143Z
 ---
 
 # 4D NifTi flipped and rotated about 90-deg
@@ -48,5 +48,12 @@ last_bumped: 2026-09-04T19:02:01.213Z
 ## Post #2 by @pieper (2026-09-04 19:02 UTC)
 
 <p>Nifti is a complex format and the details of how transforms are encoded are sometimes abiguous and interpreted differently by different software packages (the documentation for various neuroimaging tools describe this well).  4D is especially challenging, and we don’t frankly see a lot of 4D nifti in the Slicer community.  But we would like to be interoperable with any standards, so if you can find an authoritative document that describes how the header fields should be interpreted someone would probably be able to implement that (in the past, no such document could be found).</p>
+
+---
+
+## Post #3 by @SeunO (2026-09-08 12:09 UTC)
+
+<p>Hi Steve,</p>
+<p>Pardon the late reply. I guess I was expecting 3D slicer to at least produce results consistent with other NifTi files I had tried with it which produced great results but was thrown aback by the flipped results. However, I do acknowledge that NifTi is indeed complex in nature and my file being 4D probably doesn’t make it any easier to deal with. I’ll try to investigate a bit more regarding how <code>the header fields should be interpreted</code>  for whatever it’s worth, if I happen to stumble upon something positive I’ll post it back here. Thanks for the detailed and informative response.</p>
 
 ---

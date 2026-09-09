@@ -11,3 +11,4 @@
 - [2026 09 06 Request For Feedback On Toothanalysermicroct Extension Pr](2026-09-06-request-for-feedback-on-toothanalysermicroct-extension-pr-id48077.md)
 - [2026 09 07 2026 09 08 Weekly Meeting](2026-09-07-2026-09-08-weekly-meeting-id48093.md)
 - [2026 09 07 How To Quickly Recompile Updated Code Based On The Current B](2026-09-07-how-to-quickly-recompile-updated-code-based-on-the-current-b-id48089.md)
+- [2026 09 08 Mousemaster Extension Module Is Not Loaded](2026-09-08-mousemaster-extension-module-is-not-loaded-id48099.md)

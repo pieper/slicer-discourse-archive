@@ -3,7 +3,7 @@ topic_id: 35699
 title: "Build 3D Slicer for MacOS arm64?"
 date: 2024-04-24
 url: https://discourse.slicer.org/t/35699
-last_bumped: 2026-09-07T21:48:47.859Z
+last_bumped: 2026-09-08T19:36:23.000Z
 ---
 
 # Build 3D Slicer for MacOS arm64?
@@ -613,5 +613,39 @@ Related discourse posts:
 ## Post #23 by @GeneRisi (2026-09-07 21:48 UTC)
 
 <p>I am running the developer betas and that could be the problem. I don’t want to waste your time; thanks for your help!</p>
+
+---
+
+## Post #24 by @GeneRisi (2026-09-08 15:24 UTC)
+
+<p>I installed Tahoe 26.6.2 so that I can get Slicer to build properly. I am following the Recipe for MacOS on arm64. When trying to build Slicer, i get an error message “PythonSlicer: Bad CPU type in executable. The CPU type is x86_64. Any idea what went wrong?</p>
+
+---
+
+## Post #25 by @jamesobutler (2026-09-08 15:50 UTC)
+
+<pre><code class="lang-auto">cmake \
+  -DQt5_DIR:PATH=/opt/homebrew/opt/qt@5/5.15.19/lib/cmake/Qt5 \
+  -DCMAKE_OSX_ARCHITECTURES:STRING=arm64 \
+  -DCMAKE_OSX_DEPLOYMENT_TARGET:STRING=14.0 \
+  -DCMAKE_OSX_SYSROOT:PATH=$(xcrun --sdk macosx --show-sdk-path) \
+  -DCMAKE_BUILD_TYPE:STRING=Release \
+  -B ./S5R \
+  -S ./Slicer
+</code></pre>
+<pre><code class="lang-auto">cmake --build ./S5R -j 10
+</code></pre>
+<p>^I’m usually doing something like the following to build from command line. Are you doing something similar?</p>
+
+---
+
+## Post #26 by @GeneRisi (2026-09-08 19:36 UTC)
+
+<p>Hello James,</p>
+<p>I have been following the recipe in the documentation for building for MacOS on Apple silicon… a little too blindly, because I noticed, when looking at the build script, that DICOM support was turned off (doh!). So now, it built on Golden Gate but doesn’t on Tahoe 26.6.2 (at the moment for me).</p>
+<p>I am also using Qt6 (vs Qt5 in your example below) . I will try what you do on Tahoe (with Qt6) to see what happens.</p>
+<p>BTW, it is interesting to compare performance differences between building on both OSes. I get the impression, without actually measuring, that things run faster on Tahoe (perhaps because Golden Gate still is Beta code and not optimized yet)</p>
+<p>Thanks for your help!</p>
+<p>Gene</p>
 
 ---
