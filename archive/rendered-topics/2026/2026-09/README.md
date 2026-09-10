@@ -12,3 +12,6 @@
 - [2026 09 07 2026 09 08 Weekly Meeting](2026-09-07-2026-09-08-weekly-meeting-id48093.md)
 - [2026 09 07 How To Quickly Recompile Updated Code Based On The Current B](2026-09-07-how-to-quickly-recompile-updated-code-based-on-the-current-b-id48089.md)
 - [2026 09 08 Mousemaster Extension Module Is Not Loaded](2026-09-08-mousemaster-extension-module-is-not-loaded-id48099.md)
+- [2026 09 09 2026 09 15 Weekly Meeting](2026-09-09-2026-09-15-weekly-meeting-id48107.md)
+- [2026 09 09 3D Slicer Online Training In Fall 2026](2026-09-09-3d-slicer-online-training-in-fall-2026-id48105.md)
+- [2026 09 09 Applying Boundary Constraints To Drr Volumes In Slicerautosc](2026-09-09-applying-boundary-constraints-to-drr-volumes-in-slicerautosc-id48106.md)

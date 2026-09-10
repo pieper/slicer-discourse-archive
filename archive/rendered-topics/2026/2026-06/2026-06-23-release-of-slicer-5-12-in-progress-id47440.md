@@ -3,7 +3,7 @@ topic_id: 47440
 title: "Release of Slicer 5.12 in progress"
 date: 2026-06-23
 url: https://discourse.slicer.org/t/47440
-last_bumped: 2026-07-22T21:52:42.669Z
+last_bumped: 2026-09-09T18:05:34.447Z
 ---
 
 # Release of Slicer 5.12 in progress
@@ -124,5 +124,25 @@ This does look a bit confusing to me:</p>
 
 <p>This evening, regular preview and stable builds of Slicer and associated extensions will be disabled in favor of a <strong>patch</strong> release.</p>
 <p>To track the progress, see <a href="https://github.com/Slicer/Slicer/issues/9308" class="inline-onebox">Patch Release Slicer v5.12.3 · Issue #9308 · Slicer/Slicer · GitHub</a></p>
+
+---
+
+## Post #13 by @ebrahim (2026-09-09 17:37 UTC)
+
+<p>This evening, regular preview and stable builds of Slicer and associated extensions will be disabled  so that we can put together <strong>patch release 5.12.4</strong>.</p>
+<p>To track the progress and see which fixes are slated for inclusion, see <a href="https://github.com/Slicer/Slicer/issues/9387" class="inline-onebox">Patch Release Slicer v5.12.4 · Issue #9387 · Slicer/Slicer · GitHub</a></p>
+
+---
+
+## Post #14 by @muratmaga (2026-09-09 17:53 UTC)
+
+<p>Will  5.12.4 support arm64 for macos?</p>
+
+---
+
+## Post #15 by @ebrahim (2026-09-09 18:05 UTC)
+
+<p>No, this is a patch release – bug fixes only</p>
+<p>See this comment for the list of bug fixes getting incorporated: <a href="https://github.com/Slicer/Slicer/issues/9387#issuecomment-5588659601" class="inline-onebox">Patch Release Slicer v5.12.4 · Issue #9387 · Slicer/Slicer · GitHub</a></p>
 
 ---

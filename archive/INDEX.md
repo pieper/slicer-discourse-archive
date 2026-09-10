@@ -1,10 +1,10 @@
 # Slicer Discourse Archive Index
 
-Last updated: 2026-09-09 07:36 UTC
+Last updated: 2026-09-10 07:33 UTC
 
 ## Archive Contents
 
-- Total rendered topics: 19185
+- Total rendered topics: 19188
 - Raw JSON files: 0
 
 ## Recent Topics
@@ -58,4 +58,4 @@ Last updated: 2026-09-09 07:36 UTC
 - [philips epiq 7 vol files to dicom or tiff files](archive/rendered-topics/2019/2019-12/2019-12-24-philips-epiq-7-vol-files-to-dicom-or-tiff-files-id9602.md)
 - [volume rendering roi setandobserveroinodeid problem](archive/rendered-topics/2019/2019-12/2019-12-24-volume-rendering-roi-setandobserveroinodeid-problem-id9608.md)
 - [build error need help](archive/rendered-topics/2019/2019-12/2019-12-25-build-error-need-help-id9615.md)
-- [how to segment all pores and its connecting paths seperately](archive/rendered-topics/2019/2019-12/2019-12-17-how-to-segment-all-pores-and-its-connecting-paths-seperately-id9525.md)
+- [how to open tre file](archive/rendered-topics/2019/2019-12/2019-12-17-how-to-open-tre-file-id9533.md)

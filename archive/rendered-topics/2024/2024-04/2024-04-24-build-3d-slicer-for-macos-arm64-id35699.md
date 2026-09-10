@@ -3,7 +3,7 @@ topic_id: 35699
 title: "Build 3D Slicer for MacOS arm64?"
 date: 2024-04-24
 url: https://discourse.slicer.org/t/35699
-last_bumped: 2026-09-08T19:36:23.000Z
+last_bumped: 2026-09-10T03:53:57.065Z
 ---
 
 # Build 3D Slicer for MacOS arm64?
@@ -647,5 +647,70 @@ Related discourse posts:
 <p>BTW, it is interesting to compare performance differences between building on both OSes. I get the impression, without actually measuring, that things run faster on Tahoe (perhaps because Golden Gate still is Beta code and not optimized yet)</p>
 <p>Thanks for your help!</p>
 <p>Gene</p>
+
+---
+
+## Post #27 by @GeneRisi (2026-09-09 15:08 UTC)
+
+<p>Last night, I tried building Slicer with “TBB”. It appears to be working!</p>
+<p>Extensions do not load directly; I suspect a “macOS-arm64” version of the files is needed.</p>
+<p>FWIW: I downloaded a few extensions and tried to install them as files. For “TotalSegmentator” I get “no GPU is detected”.</p>
+
+---
+
+## Post #28 by @GeneRisi (2026-09-09 18:45 UTC)
+
+<p>Running the x86_64 version (under MacOS) also gives “no GPU is detected”</p>
+
+---
+
+## Post #29 by @GeneRisi (2026-09-10 02:29 UTC)
+
+<p><a class="mention" href="/u/jamesobutler">@jamesobutler</a>  Final update for today: I edited TotalSegmentator.py to enable MPS. I also had to force ‘torchvision’ to load. Once I did that, Slicer runs TotalSegmentator with the Metal shaders successfully on my CT data!</p>
+<p>I also left ‘TBB’ on in the build.</p>
+<p>Gene</p>
+
+---
+
+## Post #30 by @jamesobutler (2026-09-10 03:53 UTC)
+
+<p>You specifically modified the following lines below?</p>
+<aside class="onebox githubblob" data-onebox-src="https://github.com/lassoan/SlicerTotalSegmentator/blob/270cac20b78a282505e4f6a25d268666e4056019/TotalSegmentator/TotalSegmentator.py#L14-L17">
+  <header class="source">
+
+      <a href="https://github.com/lassoan/SlicerTotalSegmentator/blob/270cac20b78a282505e4f6a25d268666e4056019/TotalSegmentator/TotalSegmentator.py#L14-L17" target="_blank" rel="noopener nofollow ugc">github.com/lassoan/SlicerTotalSegmentator</a>
+  </header>
+
+  <article class="onebox-body">
+    <h4><a href="https://github.com/lassoan/SlicerTotalSegmentator/blob/270cac20b78a282505e4f6a25d268666e4056019/TotalSegmentator/TotalSegmentator.py#L14-L17" target="_blank" rel="noopener nofollow ugc">TotalSegmentator/TotalSegmentator.py</a></h4>
+
+<div class="git-blob-info">
+  <a href="https://github.com/lassoan/SlicerTotalSegmentator/blob/270cac20b78a282505e4f6a25d268666e4056019/TotalSegmentator/TotalSegmentator.py#L14-L17" rel="noopener nofollow ugc"><code>270cac20b</code></a>
+</div>
+
+
+
+    <pre class="onebox"><code class="lang-py">
+      <ol class="start lines" start="14" style="counter-reset: li-counter 13 ;">
+          <li># Disable mps, some convolution operators are not supported on MPS backend, which causes the segmentation to fail on macOS with Apple Silicon.</li>
+          <li># We may want to enable it in the future when we switch to native Apple Silicon builds and can upgrade to latest .</li>
+          <li>ENABLE_MPS = False</li>
+          <li></li>
+      </ol>
+    </code></pre>
+
+
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
+<p>Cc <a class="mention" href="/u/lassoan">@lassoan</a> regarding arm64 updates for the TotalSegmentator extension</p>
 
 ---
