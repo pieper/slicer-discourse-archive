@@ -3,7 +3,7 @@ topic_id: 35699
 title: "Build 3D Slicer for MacOS arm64?"
 date: 2024-04-24
 url: https://discourse.slicer.org/t/35699
-last_bumped: 2026-09-10T03:53:57.065Z
+last_bumped: 2026-09-10T14:21:26.000Z
 ---
 
 # Build 3D Slicer for MacOS arm64?
@@ -712,5 +712,11 @@ Related discourse posts:
 </aside>
 
 <p>Cc <a class="mention" href="/u/lassoan">@lassoan</a> regarding arm64 updates for the TotalSegmentator extension</p>
+
+---
+
+## Post #31 by @GeneRisi (2026-09-10 14:21 UTC)
+
+<p>Yes, in my locally built copy (in Slicer.app).</p>
 
 ---

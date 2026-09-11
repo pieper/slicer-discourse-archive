@@ -3,7 +3,7 @@ topic_id: 47540
 title: "Slicer 5.12: Summary, Highlights, and Changelog"
 date: 2026-07-10
 url: https://discourse.slicer.org/t/47540
-last_bumped: 2026-07-23T15:23:17.796Z
+last_bumped: 2026-09-10T20:46:53.659Z
 ---
 
 # Slicer 5.12: Summary, Highlights, and Changelog
@@ -23,6 +23,7 @@ last_bumped: 2026-07-23T15:23:17.796Z
 <li><a href="#heading--changelog-5-12-1">Changelog: 5.12.1</a></li>
 <li><a href="#heading--changelog-5-12-2">Changelog: 5.12.2</a></li>
 <li><a href="#heading--changelog-5-12-3">Changelog: 5.12.3</a></li>
+<li><a href="#heading--changelog-5-12-4">Changelog: 5.12.4</a></li>
 </ul>
 <h2 id="heading--summary">Summary</h2>
 <p>Slicer 5.12 is the next stable release after Slicer 5.10. The release focuses on Qt 6 build support, a redesigned DICOM browser for larger databases, native support for additional DICOM object types, improved volume and segmentation display controls, better markups and transform visualization, a new Python dependency management API for scripted modules and extensions, and updated extension catalog metadata.</p>
@@ -551,6 +552,41 @@ last_bumped: 2026-07-23T15:23:17.796Z
 <h2><a name="p-135106-fixes-1" class="anchor" href="#p-135106-fixes-1" aria-label="Heading link"></a>Fixes</h2>
 <ul>
 <li>Fixed macOS extension dependency packaging when equivalent logical and physical build paths use different firmlink spellings. (<a href="https://github.com/Slicer/Slicer/pull/9302">PR-9302</a>).</li>
+</ul>
+
+---
+
+## Post #9 by @ebrahim (2026-09-10 20:46 UTC)
+
+<h1 id="heading--changelog-5-12-4">Changelog: 5.12.4</h1>
+<p>Slicer 5.12.4 fixes Windows installation and uninstallation issues, improves interaction with large surfaces, and includes fixes for segmentations, markups, and volume rendering.</p>
+<p><strong>Windows users:</strong> Install 5.12.4 under the same Windows account before uninstalling an older release from 5.10.0 through 5.12.3. Those versions have an uninstaller bug that can remove file associations for other applications. The 5.12.4 installer adds an uninstall guard to protect against this behavior (<a href="https://github.com/Slicer/Slicer/pull/9386">PR-9386</a>, <a href="https://github.com/Slicer/Slicer/issues/9383">issue details</a>).</p>
+<h2><a name="p-135760-installation-and-extensions-1" class="anchor" href="#p-135760-installation-and-extensions-1" aria-label="Heading link"></a>Installation and extensions</h2>
+<ul>
+<li>Fix Windows file associations for <code>.mrml</code>, <code>.mrb</code>, and <code>.xcat</code> files, and prevent the uninstaller from deleting unrelated file associations. Add an uninstall guard that also protects against affected older uninstallers (<a href="https://github.com/Slicer/Slicer/pull/9386">PR-9386</a>).</li>
+<li>Report the cause of extension package download failures in the application log, including missing metadata and failed server requests (<a href="https://github.com/Slicer/Slicer/pull/9373">PR-9373</a>).</li>
+</ul>
+<h2><a name="p-135760-segmentations-and-markups-2" class="anchor" href="#p-135760-segmentations-and-markups-2" aria-label="Heading link"></a>Segmentations and markups</h2>
+<ul>
+<li>Restore editing of segment opacity by double-clicking the opacity cell in the segments table (<a href="https://github.com/Slicer/Slicer/pull/9296">PR-9296</a>).</li>
+<li>Fix the Islands effect clearing the entire segment when the editable area is restricted to that segment (<a href="https://github.com/Slicer/Slicer/pull/9292">PR-9292</a>).</li>
+<li>Apply the slice intersection thickness setting to planar contour points in slice views (<a href="https://github.com/Slicer/Slicer/pull/9335">PR-9335</a>).</li>
+<li>Prevent ROI scaling handles from moving locked control points. A box ROI with a locked center can still be resized symmetrically around that center (<a href="https://github.com/Slicer/Slicer/pull/9274">PR-9274</a>).</li>
+<li>Preserve plane normal-arrow visibility and opacity when saving and loading scenes and markups JSON files (<a href="https://github.com/Slicer/Slicer/pull/9175">PR-9175</a>).</li>
+</ul>
+<h2><a name="p-135760-rendering-and-interaction-3" class="anchor" href="#p-135760-rendering-and-interaction-3" aria-label="Heading link"></a>Rendering and interaction</h2>
+<ul>
+<li>Speed up 3D picking, markup control-point dragging, and hover position updates when large surfaces are visible (<a href="https://github.com/Slicer/Slicer/pull/9329">PR-9329</a>).</li>
+<li>Fix a crash in slice intersection handling when a layout contains only one slice view (<a href="https://github.com/Slicer/Slicer/pull/9334">PR-9334</a>).</li>
+<li>Fix resource leaks during maximum- and minimum-intensity projection volume rendering (MIP/MinIP) (<a href="https://github.com/Slicer/Slicer/pull/9392">PR-9392</a>).</li>
+<li>Update VTK so OpenXR rendering resumes automatically after removing and putting a headset back on (<a href="https://github.com/Slicer/Slicer/pull/9320">PR-9320</a>).</li>
+</ul>
+<h2><a name="p-135760-application-and-scripting-4" class="anchor" href="#p-135760-application-and-scripting-4" aria-label="Heading link"></a>Application and scripting</h2>
+<ul>
+<li>Apply pending layout changes when the layout manager is enabled, preventing an empty view area at startup (<a href="https://github.com/Slicer/Slicer/pull/9304">PR-9304</a>).</li>
+<li>Show a normal cursor in message boxes opened through slicer.util while a wait cursor is active (<a href="https://github.com/Slicer/Slicer/pull/9299">PR-9299</a>).</li>
+<li>Fix repeated scalar-range warnings when the active scalar array is missing or constant, and improve the controls’ precision for small ranges (<a href="https://github.com/Slicer/Slicer/pull/9376">PR-9376</a>).</li>
+<li>Fix <code>slicer.util.arrayFromGridTransform()</code> and <code>arrayFromGridTransformModified()</code> for grid transforms stored in the to-parent direction (<a href="https://github.com/Slicer/Slicer/pull/9384">PR-9384</a>).</li>
 </ul>
 
 ---
