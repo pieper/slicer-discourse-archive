@@ -3,7 +3,7 @@ topic_id: 48115
 title: "Compatibility with IBM SPSS Statistics"
 date: 2026-09-10
 url: https://discourse.slicer.org/t/48115
-last_bumped: 2026-09-10T20:55:39.442Z
+last_bumped: 2026-09-11T08:29:54.531Z
 ---
 
 # Compatibility with IBM SPSS Statistics
@@ -17,5 +17,11 @@ last_bumped: 2026-09-10T20:55:39.442Z
 ## Post #1 by @epalthek727 (2026-09-10 20:55 UTC)
 
 <p>Hello, I would like to install and use 3D Slicer and IBM SPSS Statistics on the same Windows computer. Could these programs conflict with each other or cause performance or installation issues? Are there any precautions or recommended system requirements for using both programs on the same computer? Thank you.</p>
+
+---
+
+## Post #2 by @cpinter (2026-09-11 08:29 UTC)
+
+<p>They are two regular desktop applications. As long as you have enough free space for virtual memory they should be fine coexisting on your computer.</p>
 
 ---

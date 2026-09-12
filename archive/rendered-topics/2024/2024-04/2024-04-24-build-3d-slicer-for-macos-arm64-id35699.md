@@ -3,7 +3,7 @@ topic_id: 35699
 title: "Build 3D Slicer for MacOS arm64?"
 date: 2024-04-24
 url: https://discourse.slicer.org/t/35699
-last_bumped: 2026-09-10T14:21:26.000Z
+last_bumped: 2026-09-11T16:59:46.741Z
 ---
 
 # Build 3D Slicer for MacOS arm64?
@@ -718,5 +718,21 @@ Related discourse posts:
 ## Post #31 by @GeneRisi (2026-09-10 14:21 UTC)
 
 <p>Yes, in my locally built copy (in Slicer.app).</p>
+
+---
+
+## Post #32 by @GeneRisi (2026-09-11 16:25 UTC)
+
+<p><a class="mention" href="/u/jamesobutler">@jamesobutler</a> I installed the latest MacOS 27 and decided to rebuild. I think my old build is somehow influencing the next build. When I look at availability extensions (the day after I do a new build) TotalSegmentator and the others I loaded are not even shown. They are in the list for Windows and Linux.</p>
+<p>How do I wipe the slate clean when doing a new build?</p>
+<p>Thanks!</p>
+<p>Gene</p>
+
+---
+
+## Post #33 by @jamesobutler (2026-09-11 16:59 UTC)
+
+<p>The extension manager is currently not providing any arm64 compiled extensions so I would suggest not expecting to rely on that for getting code. Yes, the python based extensions could be used, but not all extensions.</p>
+<p>In general when individuals have built Slicer from source, they are expected to build extensions from source as well. The revision where you might’ve built for macOS, may not match the exact revision number that the Slicer factory built. Also Slicer factory’s macOS extensions are known to be available much later in the day compared to the Windows and Linux extensions which finish and are published much earlier. This is a constraint of the old intel mac machine currently in use by the Slicer factory.</p>
 
 ---

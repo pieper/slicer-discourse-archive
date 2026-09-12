@@ -1,8 +1,9 @@
 ---
 topic_id: 40039
-title: "How To Extract 2D Vessels Quickly And Accurately"
+title: "How to extract 2D vessels quickly and accurately?"
 date: 2024-11-05
 url: https://discourse.slicer.org/t/40039
+last_bumped: 2026-09-11T11:53:04.347Z
 ---
 
 # How to extract 2D vessels quickly and accurately?
@@ -76,5 +77,11 @@ I need to extract 3D vessels segmentation from 3d TOF MRA,I want to do that more
 </aside>
 <p>Yes, not possible. You would be investing time worthlessly, even if you get to some kind of promising output.</p>
 <p>There’s a project called SAM - ‘Segment anything model’,  that works on 2D images. You may investigate there.</p>
+
+---
+
+## Post #5 by @Shimaa_Hamid (2026-09-11 11:53 UTC)
+
+<p>so mean that it do not work in  3D Slicer ?</p>
 
 ---
