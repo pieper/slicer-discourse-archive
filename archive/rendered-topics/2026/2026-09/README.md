@@ -20,3 +20,4 @@
 - [2026 09 11 Correct Workflow For Loading 4D Ct Cardiac Data](2026-09-11-correct-workflow-for-loading-4d-ct-cardiac-data-id48121.md)
 - [2026 09 11 Monai A Framework For Medical Machine Learning Training In O](2026-09-11-monai-a-framework-for-medical-machine-learning-training-in-o-id48125.md)
 - [2026 09 11 Need Ct Scans With Leksell Localizer For Validating The Tran](2026-09-11-need-ct-scans-with-leksell-localizer-for-validating-the-tran-id48116.md)
+- [2026 09 12 How To Save Volume Property Json As A Preset](2026-09-12-how-to-save-volume-property-json-as-a-preset-id48139.md)
