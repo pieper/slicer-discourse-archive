@@ -21,3 +21,4 @@
 - [2026 09 11 Monai A Framework For Medical Machine Learning Training In O](2026-09-11-monai-a-framework-for-medical-machine-learning-training-in-o-id48125.md)
 - [2026 09 11 Need Ct Scans With Leksell Localizer For Validating The Tran](2026-09-11-need-ct-scans-with-leksell-localizer-for-validating-the-tran-id48116.md)
 - [2026 09 12 How To Save Volume Property Json As A Preset](2026-09-12-how-to-save-volume-property-json-as-a-preset-id48139.md)
+- [2026 09 13 An Extension For Colon Tumor Detection Localization On Ct Sc](2026-09-13-an-extension-for-colon-tumor-detection-localization-on-ct-sc-id48151.md)

@@ -3,7 +3,7 @@ topic_id: 48121
 title: "Correct workflow for loading 4D CT cardiac data"
 date: 2026-09-11
 url: https://discourse.slicer.org/t/48121
-last_bumped: 2026-09-11T19:34:56.306Z
+last_bumped: 2026-09-14T04:16:09.145Z
 ---
 
 # Correct workflow for loading 4D CT cardiac data
@@ -39,5 +39,12 @@ last_bumped: 2026-09-11T19:34:56.306Z
 ## Post #3 by @Deep_Learning (2026-09-11 19:34 UTC)
 
 <p>I would suggest making an nii.gz for each phase.  These are read in normally.  Then they are added to a Sequence.  This definately works.</p>
+
+---
+
+## Post #4 by @lassoan (2026-09-14 04:16 UTC)
+
+<p>Do you still have the original DICOM image of the 4D cardiac CT? You can load that directly into Slicer using the DICOM module.</p>
+<p>We have refused to add better support for nifti, as it is such a problematic image file format (quite complex yet very limited). However, nowadays we could much more easily add new features and maintain them, so I’m leaning towards improving a few things - including enable reading/writing of 4D/5D nifti images.</p>
 
 ---
