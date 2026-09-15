@@ -3,7 +3,7 @@ topic_id: 45845
 title: "Is there a tool similar to Viewtify 3DCG?"
 date: 2026-01-20
 url: https://discourse.slicer.org/t/45845
-last_bumped: 2026-02-20T00:47:32.990Z
+last_bumped: 2026-09-15T02:42:06.224Z
 ---
 
 # Is there a tool similar to Viewtify 3DCG?
@@ -108,5 +108,29 @@ How did you “open” the model?</p>
 </aside>
 <p>This is the key question, and the answer is: of course you can! The stereo effect may have some utility in some cases, but generally does not make a big difference.</p>
 <p>I saw a few demos of stereoscopic displays and how people react to them. People are always very impressed. However, they are impressed for the wrong reason. They think the visualization is awesome because they have not seen a good quality CT displayed using nicely configured volume rendering (not because there is also some stereo effect).</p>
+
+---
+
+## Post #11 by @Mark_Ryan (2026-09-15 00:33 UTC)
+
+<p>Resurrecting an old thread, but there are now stereoscopic monitors from Samsung, Sony, Acer, and Barco. Each has its own software, but the Acer and Samsung displays are manufactured by Leia. Sony’s eye-tracking hardware and software is proprietary.</p>
+<p>I’ve been able to get the Acer display working with volume rendering and the result is very good. The extension I’ve made (with significant AI help) relies on an open source program called SRLoom. It converts any SBS signal to 3D in real time. The extension connects to SRLoom similarly to how the Looking Glass and VR extensions connect to hardware.</p>
+<p>I still have to get some of the eye tracking functions working but the 3D effect works very well and mirrors the contents of the 3D viewing window in Slicer. Happy to post it or make it available to anyone that wants to try and improve it.</p>
+
+---
+
+## Post #12 by @lassoan (2026-09-15 01:43 UTC)
+
+<p>Thanks for sharing! Using SRLoom is an interesting approach. One limitation though is that Slicer provides a single stereo image pair, so the user cannot change the perspective (look behind things  by moving around).</p>
+<p>An alternative approach that would allow the user to walk around have true perspective (look behind objects) is to use the VirtualReality extension of Slicer. This extension can send the 3D scene to any OpenXR-compatible device. Leia devices can be used via OpenXR via DisplayXR: install DisplayXR and the Leia plug-in, set it as the active OpenXR runtime, and in Slicer go to Virtual Reality module and choose the OpenXR backend. I haven’t tried it, but in theory it should work. Some adjustments may be needed in the positioning of the viewer (as the current implementation was developed head-mounted displays), but there is a chance that it may work as is, without having to write a single line of code.</p>
+
+---
+
+## Post #13 by @Mark_Ryan (2026-09-15 02:42 UTC)
+
+<p>Have tried that but the focal point is hard to correct, so the object moves a significant amount whenever your head shifts. This extension doesn’t generate an SBS image, but uses a different protocol that I’m not familiar with (Katanga). I’m happy to provide the code for review. Just happy I’ve found a workable solution for now. I haven’t used the Viewtify software before so I’m less familiar with that one. The Sony display was $3500 last time I looked, so out of my price range.</p>
+<p>The extension I’m using doesn’t yet support eye tracking, so not quite the level of projection from the screen you get with native support but the effect is still very good  For native software the effect is looking around the object that appears to be in front of the screen, but in reality it is being redrawn from angles corresponding to eye position.</p>
+<p>Should mention that SR loom also supports different types of 3D, including anaglyph and interlaced. Also has an option for quilts to enable Looking Glass display support. Pretty neat program.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/8/d/8d702bc384f764b4e2b53ef0dd07d877540b21da.jpeg" data-download-href="/uploads/short-url/kbdEcNiL98PthYXKssT3ZiW5XsK.jpeg?dl=1" title="1000024214" rel="noopener nofollow ugc"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/8/d/8d702bc384f764b4e2b53ef0dd07d877540b21da_2_666x500.jpeg" alt="1000024214" data-base62-sha1="kbdEcNiL98PthYXKssT3ZiW5XsK" width="666" height="500" srcset="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/8/d/8d702bc384f764b4e2b53ef0dd07d877540b21da_2_666x500.jpeg, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/8/d/8d702bc384f764b4e2b53ef0dd07d877540b21da_2_999x750.jpeg 1.5x, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/8/d/8d702bc384f764b4e2b53ef0dd07d877540b21da_2_1332x1000.jpeg 2x" data-dominant-color="706977"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">1000024214</span><span class="informations">1920×1440 626 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
 
 ---

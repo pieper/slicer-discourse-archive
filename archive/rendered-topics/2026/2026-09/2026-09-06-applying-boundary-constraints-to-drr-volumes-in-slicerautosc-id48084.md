@@ -3,7 +3,7 @@ topic_id: 48084
 title: "Applying boundary constraints to DRR volumes in SlicerAutoscoperM"
 date: 2026-09-06
 url: https://discourse.slicer.org/t/48084
-last_bumped: 2026-09-06T23:03:03.391Z
+last_bumped: 2026-09-14T14:23:55.348Z
 ---
 
 # Applying boundary constraints to DRR volumes in SlicerAutoscoperM
@@ -22,5 +22,11 @@ I was wondering whether SlicerAutoscoperM allows applying geometric or anatomica
 For example, is it possible to define a condition where the femur must remain between two other volumes (or within a predefined 3D region) during registration, so that the solution space is restricted and out‑of‑plane drift is reduced?</p>
 <p>Any insights, existing functionality, or potential workarounds would be greatly appreciated.</p>
 <p>Thanks in advance for all your input!</p>
+
+---
+
+## Post #2 by @John_Holtgrewe (2026-09-14 14:23 UTC)
+
+<p>Thank you for reaching out. Unfortunately, SlicerAutoscoperM does not currently offer those features.</p>
 
 ---

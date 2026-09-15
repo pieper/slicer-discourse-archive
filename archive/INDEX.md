@@ -1,6 +1,6 @@
 # Slicer Discourse Archive Index
 
-Last updated: 2026-09-14 08:11 UTC
+Last updated: 2026-09-15 08:05 UTC
 
 ## Archive Contents
 
@@ -30,6 +30,7 @@ Last updated: 2026-09-14 08:11 UTC
 - [create curve from many input points](archive/rendered-topics/2019/2019-12/2019-12-31-create-curve-from-many-input-points-id9673.md)
 - [how to show vr in view2 3 by code](archive/rendered-topics/2019/2019-12/2019-12-31-how-to-show-vr-in-view2-3-by-code-id9671.md)
 - [thickness of the model](archive/rendered-topics/2019/2019-12/2019-12-31-thickness-of-the-model-id9670.md)
+- [philips epiq 7 vol files to dicom or tiff files](archive/rendered-topics/2019/2019-12/2019-12-24-philips-epiq-7-vol-files-to-dicom-or-tiff-files-id9602.md)
 - [volume rendering roi setandobserveroinodeid problem](archive/rendered-topics/2019/2019-12/2019-12-24-volume-rendering-roi-setandobserveroinodeid-problem-id9608.md)
 - [build error need help](archive/rendered-topics/2019/2019-12/2019-12-25-build-error-need-help-id9615.md)
 - [heat maps for two structures](archive/rendered-topics/2019/2019-12/2019-12-25-heat-maps-for-two-structures-id9610.md)
@@ -44,6 +45,8 @@ Last updated: 2026-09-14 08:11 UTC
 - [problem in loading dicom could not load image as scalar volu](archive/rendered-topics/2019/2019-12/2019-12-28-problem-in-loading-dicom-could-not-load-image-as-scalar-volu-id9634.md)
 - [3d slicer hangs most times](archive/rendered-topics/2019/2019-12/2019-12-29-3d-slicer-hangs-most-times-id9639.md)
 - [importing slicer libraries separately outside embedded pytho](archive/rendered-topics/2019/2019-12/2019-12-29-importing-slicer-libraries-separately-outside-embedded-pytho-id9645.md)
+- [slicerigt collect points to model node](archive/rendered-topics/2019/2019-12/2019-12-18-slicerigt-collect-points-to-model-node-id9550.md)
+- [spharm pdm command line running does not generate procalign](archive/rendered-topics/2019/2019-12/2019-12-18-spharm-pdm-command-line-running-does-not-generate-procalign-id9555.md)
 - [building for long time is there any remedy](archive/rendered-topics/2019/2019-12/2019-12-19-building-for-long-time-is-there-any-remedy-id9562.md)
 - [low fps for transforming surfaces](archive/rendered-topics/2019/2019-12/2019-12-20-low-fps-for-transforming-surfaces-id9571.md)
 - [nonlinear transforms](archive/rendered-topics/2019/2019-12/2019-12-20-nonlinear-transforms-id9568.md)
@@ -56,6 +59,3 @@ Last updated: 2026-09-14 08:11 UTC
 - [issue of hollow shell while creating cardiac segmentation](archive/rendered-topics/2019/2019-12/2019-12-23-issue-of-hollow-shell-while-creating-cardiac-segmentation-id9590.md)
 - [open scn image in slicer 3d](archive/rendered-topics/2019/2019-12/2019-12-23-open-scn-image-in-slicer-3d-id9589.md)
 - [point inside a closed surface centre](archive/rendered-topics/2019/2019-12/2019-12-23-point-inside-a-closed-surface-centre-id9592.md)
-- [what is the method to draw structure of slicer rt](archive/rendered-topics/2019/2019-12/2019-12-23-what-is-the-method-to-draw-structure-of-slicer-rt-id9585.md)
-- [hangout cancelled](archive/rendered-topics/2019/2019-12/2019-12-24-2019-12-24-hangout-cancelled-id9607.md)
-- [double images when loading a dicom file](archive/rendered-topics/2019/2019-12/2019-12-24-double-images-when-loading-a-dicom-file-id9601.md)
