@@ -22,3 +22,7 @@
 - [2026 09 11 Need Ct Scans With Leksell Localizer For Validating The Tran](2026-09-11-need-ct-scans-with-leksell-localizer-for-validating-the-tran-id48116.md)
 - [2026 09 12 How To Save Volume Property Json As A Preset](2026-09-12-how-to-save-volume-property-json-as-a-preset-id48139.md)
 - [2026 09 13 An Extension For Colon Tumor Detection Localization On Ct Sc](2026-09-13-an-extension-for-colon-tumor-detection-localization-on-ct-sc-id48151.md)
+- [2026 09 15 Best Practices For More Complex Plots In Slicer](2026-09-15-best-practices-for-more-complex-plots-in-slicer-id48176.md)
+- [2026 09 15 Mitral Valve Segmentation Echo Or Ct Scan](2026-09-15-mitral-valve-segmentation-echo-or-ct-scan-id48173.md)
+- [2026 09 15 Projecting Surface Landmarks On Sample Model To Target Model](2026-09-15-projecting-surface-landmarks-on-sample-model-to-target-model-id48170.md)
+- [2026 09 15 Radiomics Echo 2D](2026-09-15-radiomics-echo-2d-id48171.md)
