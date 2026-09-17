@@ -26,3 +26,5 @@
 - [2026 09 15 Mitral Valve Segmentation Echo Or Ct Scan](2026-09-15-mitral-valve-segmentation-echo-or-ct-scan-id48173.md)
 - [2026 09 15 Projecting Surface Landmarks On Sample Model To Target Model](2026-09-15-projecting-surface-landmarks-on-sample-model-to-target-model-id48170.md)
 - [2026 09 15 Radiomics Echo 2D](2026-09-15-radiomics-echo-2d-id48171.md)
+- [2026 09 16 2026 09 22 Weekly Meeting](2026-09-16-2026-09-22-weekly-meeting-id48180.md)
+- [2026 09 16 Adding Data Failed](2026-09-16-adding-data-failed-id48182.md)
