@@ -28,3 +28,5 @@
 - [2026 09 15 Radiomics Echo 2D](2026-09-15-radiomics-echo-2d-id48171.md)
 - [2026 09 16 2026 09 22 Weekly Meeting](2026-09-16-2026-09-22-weekly-meeting-id48180.md)
 - [2026 09 16 Adding Data Failed](2026-09-16-adding-data-failed-id48182.md)
+- [2026 09 17 Macos Arm64 Build](2026-09-17-macos-arm64-build-id48188.md)
+- [2026 09 17 Slicer Clothing](2026-09-17-slicer-clothing-id48189.md)
