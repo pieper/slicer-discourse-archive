@@ -30,3 +30,6 @@
 - [2026 09 16 Adding Data Failed](2026-09-16-adding-data-failed-id48182.md)
 - [2026 09 17 Macos Arm64 Build](2026-09-17-macos-arm64-build-id48188.md)
 - [2026 09 17 Slicer Clothing](2026-09-17-slicer-clothing-id48189.md)
+- [2026 09 21 Dicom3Tools For Dicom Validation Available Via Pip And Web A](2026-09-21-dicom3tools-for-dicom-validation-available-via-pip-and-web-a-id48212.md)
+- [2026 09 21 Exporting Pre Post Maxillofacial Quantification Models To Gl](2026-09-21-exporting-pre-post-maxillofacial-quantification-models-to-gl-id48209.md)
+- [2026 09 21 Rendering Of Dicom Image Failed With More Than 4 Volumes Sin](2026-09-21-rendering-of-dicom-image-failed-with-more-than-4-volumes-sin-id48210.md)

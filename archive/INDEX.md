@@ -1,10 +1,10 @@
 # Slicer Discourse Archive Index
 
-Last updated: 2026-09-21 08:16 UTC
+Last updated: 2026-09-22 07:59 UTC
 
 ## Archive Contents
 
-- Total rendered topics: 19203
+- Total rendered topics: 19206
 - Raw JSON files: 0
 
 ## Recent Topics
@@ -17,6 +17,11 @@ Last updated: 2026-09-21 08:16 UTC
 - [README.md](archive/rendered-topics/2019/2019-04/README.md)
 - [README.md](archive/rendered-topics/2019/2019-03/README.md)
 - [README.md](archive/rendered-topics/2019/2019-01/README.md)
+- [problem in loading dicom could not load image as scalar volu](archive/rendered-topics/2019/2019-12/2019-12-28-problem-in-loading-dicom-could-not-load-image-as-scalar-volu-id9634.md)
+- [3d slicer hangs most times](archive/rendered-topics/2019/2019-12/2019-12-29-3d-slicer-hangs-most-times-id9639.md)
+- [importing slicer libraries separately outside embedded pytho](archive/rendered-topics/2019/2019-12/2019-12-29-importing-slicer-libraries-separately-outside-embedded-pytho-id9645.md)
+- [not all modules are enabled after build](archive/rendered-topics/2019/2019-12/2019-12-29-not-all-modules-are-enabled-after-build-id9644.md)
+- [odd id for vtkmrmllayoutnode](archive/rendered-topics/2019/2019-12/2019-12-29-odd-id-for-vtkmrmllayoutnode-id9649.md)
 - [set a node as a parent for the other nodes](archive/rendered-topics/2019/2019-12/2019-12-29-set-a-node-as-a-parent-for-the-other-nodes-id9646.md)
 - [add and connect properly gui components to slicer module](archive/rendered-topics/2019/2019-12/2019-12-30-add-and-connect-properly-gui-components-to-slicer-module-id9665.md)
 - [comparison of the dose comparison and dvh comparison modules](archive/rendered-topics/2019/2019-12/2019-12-30-comparison-of-the-dose-comparison-and-dvh-comparison-modules-id9655.md)
@@ -28,25 +33,6 @@ Last updated: 2026-09-21 08:16 UTC
 - [create curve from many input points](archive/rendered-topics/2019/2019-12/2019-12-31-create-curve-from-many-input-points-id9673.md)
 - [how to show vr in view2 3 by code](archive/rendered-topics/2019/2019-12/2019-12-31-how-to-show-vr-in-view2-3-by-code-id9671.md)
 - [thickness of the model](archive/rendered-topics/2019/2019-12/2019-12-31-thickness-of-the-model-id9670.md)
-- [heat maps for two structures](archive/rendered-topics/2019/2019-12/2019-12-25-heat-maps-for-two-structures-id9610.md)
-- [need help regarding porosity maps of tumor using 3 d slicer](archive/rendered-topics/2019/2019-12/2019-12-25-need-help-regarding-porosity-maps-of-tumor-using-3-d-slicer-id9609.md)
-- [occlusion registration](archive/rendered-topics/2019/2019-12/2019-12-25-occlusion-registration-id9614.md)
-- [deepinfer issues](archive/rendered-topics/2019/2019-12/2019-12-26-deepinfer-issues-id9622.md)
-- [how to analyse ct data of lungs](archive/rendered-topics/2019/2019-12/2019-12-26-how-to-analyse-ct-data-of-lungs-id9618.md)
-- [how to analyse ct time sequence data of lungs](archive/rendered-topics/2019/2019-12/2019-12-26-how-to-analyse-ct-time-sequence-data-of-lungs-id9620.md)
-- [limitation in increasing the resolution in crop volume modul](archive/rendered-topics/2019/2019-12/2019-12-26-limitation-in-increasing-the-resolution-in-crop-volume-modul-id9621.md)
-- [spharm analysis of 3d slicer](archive/rendered-topics/2019/2019-12/2019-12-27-spharm-analysis-of-3d-slicer-id9630.md)
-- [how to do batch registration](archive/rendered-topics/2019/2019-12/2019-12-28-how-to-do-batch-registration-id9633.md)
-- [problem in loading dicom could not load image as scalar volu](archive/rendered-topics/2019/2019-12/2019-12-28-problem-in-loading-dicom-could-not-load-image-as-scalar-volu-id9634.md)
-- [3d slicer hangs most times](archive/rendered-topics/2019/2019-12/2019-12-29-3d-slicer-hangs-most-times-id9639.md)
-- [importing slicer libraries separately outside embedded pytho](archive/rendered-topics/2019/2019-12/2019-12-29-importing-slicer-libraries-separately-outside-embedded-pytho-id9645.md)
-- [not all modules are enabled after build](archive/rendered-topics/2019/2019-12/2019-12-29-not-all-modules-are-enabled-after-build-id9644.md)
-- [odd id for vtkmrmllayoutnode](archive/rendered-topics/2019/2019-12/2019-12-29-odd-id-for-vtkmrmllayoutnode-id9649.md)
-- [nonlinear transforms](archive/rendered-topics/2019/2019-12/2019-12-20-nonlinear-transforms-id9568.md)
-- [starting error in windows computer showing insufficient grap](archive/rendered-topics/2019/2019-12/2019-12-20-starting-error-in-windows-computer-showing-insufficient-grap-id9569.md)
-- [tutorial to build an extention](archive/rendered-topics/2019/2019-12/2019-12-21-tutorial-to-build-an-extention-id9578.md)
-- [creating a model combo box](archive/rendered-topics/2019/2019-12/2019-12-22-creating-a-model-combo-box-id9582.md)
-- [python errors in terminal loading dicom volume is slow](archive/rendered-topics/2019/2019-12/2019-12-22-python-errors-in-terminal-loading-dicom-volume-is-slow-id9583.md)
 - [application startup script open option is confusing](archive/rendered-topics/2019/2019-12/2019-12-23-application-startup-script-open-option-is-confusing-id9596.md)
 - [install slicer for all users option on windows](archive/rendered-topics/2019/2019-12/2019-12-23-install-slicer-for-all-users-option-on-windows-id9594.md)
 - [issue of hollow shell while creating cardiac segmentation](archive/rendered-topics/2019/2019-12/2019-12-23-issue-of-hollow-shell-while-creating-cardiac-segmentation-id9590.md)
@@ -59,3 +45,17 @@ Last updated: 2026-09-21 08:16 UTC
 - [philips epiq 7 vol files to dicom or tiff files](archive/rendered-topics/2019/2019-12/2019-12-24-philips-epiq-7-vol-files-to-dicom-or-tiff-files-id9602.md)
 - [volume rendering roi setandobserveroinodeid problem](archive/rendered-topics/2019/2019-12/2019-12-24-volume-rendering-roi-setandobserveroinodeid-problem-id9608.md)
 - [build error need help](archive/rendered-topics/2019/2019-12/2019-12-25-build-error-need-help-id9615.md)
+- [heat maps for two structures](archive/rendered-topics/2019/2019-12/2019-12-25-heat-maps-for-two-structures-id9610.md)
+- [need help regarding porosity maps of tumor using 3 d slicer](archive/rendered-topics/2019/2019-12/2019-12-25-need-help-regarding-porosity-maps-of-tumor-using-3-d-slicer-id9609.md)
+- [occlusion registration](archive/rendered-topics/2019/2019-12/2019-12-25-occlusion-registration-id9614.md)
+- [deepinfer issues](archive/rendered-topics/2019/2019-12/2019-12-26-deepinfer-issues-id9622.md)
+- [how to analyse ct data of lungs](archive/rendered-topics/2019/2019-12/2019-12-26-how-to-analyse-ct-data-of-lungs-id9618.md)
+- [how to analyse ct time sequence data of lungs](archive/rendered-topics/2019/2019-12/2019-12-26-how-to-analyse-ct-time-sequence-data-of-lungs-id9620.md)
+- [limitation in increasing the resolution in crop volume modul](archive/rendered-topics/2019/2019-12/2019-12-26-limitation-in-increasing-the-resolution-in-crop-volume-modul-id9621.md)
+- [spharm analysis of 3d slicer](archive/rendered-topics/2019/2019-12/2019-12-27-spharm-analysis-of-3d-slicer-id9630.md)
+- [how to do batch registration](archive/rendered-topics/2019/2019-12/2019-12-28-how-to-do-batch-registration-id9633.md)
+- [can you put a module listing under two different categories](archive/rendered-topics/2019/2019-12/2019-12-17-can-you-put-a-module-listing-under-two-different-categories-id9535.md)
+- [how to open tre file](archive/rendered-topics/2019/2019-12/2019-12-17-how-to-open-tre-file-id9533.md)
+- [how to segment all pores and its connecting paths seperately](archive/rendered-topics/2019/2019-12/2019-12-17-how-to-segment-all-pores-and-its-connecting-paths-seperately-id9525.md)
+- [is the sandbox extension failing for windows](archive/rendered-topics/2019/2019-12/2019-12-17-is-the-sandbox-extension-failing-for-windows-id9534.md)
+- [manual segmentation slow to complete a contour](archive/rendered-topics/2019/2019-12/2019-12-17-manual-segmentation-slow-to-complete-a-contour-id9527.md)
