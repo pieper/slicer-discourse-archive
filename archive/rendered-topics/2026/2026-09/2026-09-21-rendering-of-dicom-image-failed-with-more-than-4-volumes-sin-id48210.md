@@ -3,7 +3,7 @@ topic_id: 48210
 title: "Rendering of DICOM image failed with more than 4 volumes since version 12"
 date: 2026-09-21
 url: https://discourse.slicer.org/t/48210
-last_bumped: 2026-09-22T04:14:26.110Z
+last_bumped: 2026-09-22T23:34:15.682Z
 ---
 
 # Rendering of DICOM image failed with more than 4 volumes since version 12
@@ -114,5 +114,71 @@ DICOMScalarVolumePlugin.py:441) - Loading with imageIOName: GDCM
 [DEBUG][Python] 22.09.2026 05:22:59 [Python] (/home/m/install/Slicer-5.11.0-2025-11-19-linux-amd64/bin/../lib/Slicer-5.11/qt-scripted-modules/DICOMScalarVolumePlugin.py:567) - DICOM window/level (105.0/860.0) set to volume '315: Multiphase_8' from SOP instance 1.2.840.113619.2.416.7813687437206210351250794399055596848.2177.
 [DEBUG][Qt] 22.09.2026 05:34:20 [] (unknown:0) - Switch to module:  ""
 </code></pre>
+
+---
+
+## Post #9 by @pieper (2026-09-22 15:18 UTC)
+
+<p>This could be due to any number of packages that changed subtly between versions (could be dcmtk, VTK, or something in Slicer itself).  If you can’t find a way to share data that we can use to reproduce we may just need to wait until someone else runs into the same issue.</p>
+<p>One thing to try is advanced mode in the DICOM module and pick a different plugin (Sequence vs MultiVolume), but that’s just a guess.</p>
+
+---
+
+## Post #10 by @mhouse (2026-09-22 16:00 UTC)
+
+<p>I have already tried the advanced mode. But at least with version 5.13 I cannot select another Reader than MultiVolume. In the settings I have already selected the Sequence reader in the DICOM section. The other displayed entries in the Advanced view, I have already tried which have crashed as well.</p>
+<p>You could send me an email to whom I can provide an one time link, or you can provide me a link for an upload after I have removed some data.</p>
+<p>btw. If I export the sequence to a file and then add this file “Sequence” is pre selected and I can drag it into the VR view and play the sequence without a crash so far.</p>
+<p>Anyway this app is a great tool, because so far professional radiologists could not find any issue. But you can easily see that the RSAR has detached and destroyed the aortic root.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/1/5/15d518bc2111e6755721e54c57b17790332b338d.jpeg" data-download-href="/uploads/short-url/378AdZ7fDsOIhEdrcQpK3HgbLs1.jpeg?dl=1" title="Aorta-root-RSAR-MPh-s5-ct26j-f5" rel="noopener nofollow ugc"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/1/5/15d518bc2111e6755721e54c57b17790332b338d_2_690x433.jpeg" alt="Aorta-root-RSAR-MPh-s5-ct26j-f5" data-base62-sha1="378AdZ7fDsOIhEdrcQpK3HgbLs1" width="690" height="433" srcset="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/1/5/15d518bc2111e6755721e54c57b17790332b338d_2_690x433.jpeg, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/1/5/15d518bc2111e6755721e54c57b17790332b338d_2_1035x649.jpeg 1.5x, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/1/5/15d518bc2111e6755721e54c57b17790332b338d_2_1380x866.jpeg 2x" data-dominant-color="694D41"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">Aorta-root-RSAR-MPh-s5-ct26j-f5</span><span class="informations">1920×1206 625 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/9/b/9b7cd581a87762664b9a079f44b83836aeb40de5.jpeg" data-download-href="/uploads/short-url/mbvsJTnK2WadBIGYSzPwuTL1lcx.jpeg?dl=1" title="Aorta-root-RSAR-MPh-s4-ct26j-f4" rel="noopener nofollow ugc"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/9/b/9b7cd581a87762664b9a079f44b83836aeb40de5_2_690x433.jpeg" alt="Aorta-root-RSAR-MPh-s4-ct26j-f4" data-base62-sha1="mbvsJTnK2WadBIGYSzPwuTL1lcx" width="690" height="433" srcset="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/9/b/9b7cd581a87762664b9a079f44b83836aeb40de5_2_690x433.jpeg, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/9/b/9b7cd581a87762664b9a079f44b83836aeb40de5_2_1035x649.jpeg 1.5x, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/9/b/9b7cd581a87762664b9a079f44b83836aeb40de5_2_1380x866.jpeg 2x" data-dominant-color="664A3F"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">Aorta-root-RSAR-MPh-s4-ct26j-f4</span><span class="informations">1920×1206 630 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
+
+---
+
+## Post #11 by @pieper (2026-09-22 17:11 UTC)
+
+<p>My email is <a href="mailto:pieper@isomics.com">pieper@isomics.com</a></p>
+
+---
+
+## Post #12 by @mikebind (2026-09-22 19:35 UTC)
+
+<aside class="quote no-group" data-username="mhouse" data-post="10" data-topic="48210">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="24" height="24" src="https://avatars.discourse-cdn.com/v4/letter/m/50afbb/48.png" class="avatar"> mhouse:</div>
+<blockquote>
+<p>Anyway this app is a great tool</p>
+</blockquote>
+</aside>
+<p>No argument there, Slicer is great!</p>
+<aside class="quote no-group" data-username="mhouse" data-post="10" data-topic="48210">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="24" height="24" src="https://avatars.discourse-cdn.com/v4/letter/m/50afbb/48.png" class="avatar"> mhouse:</div>
+<blockquote>
+<p>you can easily see that the RSAR has detached and destroyed the aortic root</p>
+</blockquote>
+</aside>
+<p>When interpreting these images, it’s important to be aware of some of the issues that can arise from the CT image formation process.  In particular, it’s important to understand how the presence of localized high-density objects, like metal, can cause nearby shadows in CT images. Ordinarily, dark voxels in a CT image would indicate something low-density there, like air or a gap, but adjacent to metal, those dark voxels may just be an incorrect artifact of the CT image reconstruction process.  In 3D reconstructions like the volume renderings you show (which look great, by the way!), what Slicer shows is based only on the voxel values, so if those voxel values are distorted by metal artifacts, the volumetric 3D view can show features which may not be present in your actual heart.</p>
+<p>I am not a doctor and am not trying to argue that the imaging demonstrates that everything is fine, and it is certainly possible for your doctors to be wrong. Part of the professional training for radiologists is to understand how various medical imaging artifacts arise, what causes them, and how to try to understand what an image indicates about the true state of the imaged tissue is, even when artifacts are present. If you are trying to understand this imaging on your own, I would recommend learning about CT artifacts in general, and specifically about how metal artifacts arise and how they appear in images. Metal artifact reduction is a difficult problem and has been an area of active research for many years. Some form of metal artifact reduction may have already been used in your imaging. Some additional knowledge may help you evaluate whether this imaging:</p>
+<ul>
+<li>actually does show evidence of a detached or damaged aortic root,</li>
+<li>is actually consistent with a fully successful procedure,</li>
+<li>or is actually inconclusive one way or another because essential areas are not clearly visualized due to metal artifacts</li>
+</ul>
+<p>Anyway, I hope you can sort out the technical image loading problems, and I wish you the very best.</p>
+<p>Since it sounds like you likely just have this one set of images that you are interested in, a workaround which would allow you to get your data into Slicer 5.13 would be to load it into 5.11, then save the successfully loaded sequence to a .seq.nrrd file.  That sequence file should load just fine into 5.13. Note that because of the way Slicer handles sequences, where there is a sequence node in the background which has all the image frames and a proxy node in the foreground which holds just the current image frame, when you save the scene, the saved proxy node will generally have a very similar file name to the full sequence node, usually differing only by the file extension. The proxy node will have extension .nrrd, while the full sequence will have extension .seq.nrrd (and be a much larger file).  Just make sure that it’s the .seq.nrrd file that you load into 5.13.  When you load a sequence, a new proxy node is automatically created in the scene, so you don’t need to load the proxy node into 5.13.  If you try this approach and run into problems, let me know and I can try to be a little clearer; I know this description may be a bit scattered.</p>
+
+---
+
+## Post #13 by @mhouse (2026-09-22 23:34 UTC)
+
+<p>Many thanks for your reply. Yes metal is always a bit tricky to handle. I have already 5 CTA (within 6 years), so I can see the progress. I was more searching the source of the strange filling of the right ventricle and the right atrium, because both structures are now bigger than the left side. It’s easy to say from the radiologists that this is coming from the problems of the left side, but always it’s good to look closer.</p>
+<p>Already in the uploaded pictures you can see the jet from the aortic root into the right ventricle, which is unlikely caused by the metal artifacts or motion artifacts. This CCTA was ECG triggered with nitro application before.</p>
+<p>In the echo you can see jets from all valves except the aortic valve. But die cut is above at the sinus. Also the right sinus is ruptured.</p>
+<p>In another rendered picture you can see from “outside” that die ring has disrupted and you see the former loop of the fixation thread. It’s much clearer to see if you play the sequence.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/2/7/2743ec1a2900870648fe6c716a5c0290400efdde.jpeg" data-download-href="/uploads/short-url/5Bm8W6GRhQF0xUukxRrof3us4ii.jpeg?dl=1" title="Aorta-root-RSAR-s2-ct26j-d3" rel="noopener nofollow ugc"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/2/7/2743ec1a2900870648fe6c716a5c0290400efdde_2_610x499.jpeg" alt="Aorta-root-RSAR-s2-ct26j-d3" data-base62-sha1="5Bm8W6GRhQF0xUukxRrof3us4ii" width="610" height="499" srcset="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/2/7/2743ec1a2900870648fe6c716a5c0290400efdde_2_610x499.jpeg, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/2/7/2743ec1a2900870648fe6c716a5c0290400efdde_2_915x748.jpeg 1.5x, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/2/7/2743ec1a2900870648fe6c716a5c0290400efdde_2_1220x998.jpeg 2x" data-dominant-color="52403D"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">Aorta-root-RSAR-s2-ct26j-d3</span><span class="informations">1816×1488 455 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/5/6/565dda12375324981bdcfade5d495f5338f9a451.jpeg" data-download-href="/uploads/short-url/ck28CHi3xULYFdOk9EWSYq7hyh3.jpeg?dl=1" title="Aorta-root-RSAR-s2-ct26j-d4" rel="noopener nofollow ugc"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/5/6/565dda12375324981bdcfade5d495f5338f9a451_2_610x499.jpeg" alt="Aorta-root-RSAR-s2-ct26j-d4" data-base62-sha1="ck28CHi3xULYFdOk9EWSYq7hyh3" width="610" height="499" srcset="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/5/6/565dda12375324981bdcfade5d495f5338f9a451_2_610x499.jpeg, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/5/6/565dda12375324981bdcfade5d495f5338f9a451_2_915x748.jpeg 1.5x, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/5/6/565dda12375324981bdcfade5d495f5338f9a451_2_1220x998.jpeg 2x" data-dominant-color="604C4B"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">Aorta-root-RSAR-s2-ct26j-d4</span><span class="informations">1816×1488 464 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
 
 ---

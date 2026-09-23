@@ -3,7 +3,7 @@ topic_id: 48209
 title: "Exporting Pre-Post maxillofacial quantification models to GLB"
 date: 2026-09-21
 url: https://discourse.slicer.org/t/48209
-last_bumped: 2026-09-21T13:57:51.929Z
+last_bumped: 2026-09-22T14:01:22.316Z
 ---
 
 # Exporting Pre-Post maxillofacial quantification models to GLB
@@ -39,5 +39,14 @@ for modelNode in quantificationModels:
     fullImage = ctk.ctkWidgetsUtils.grabWidget(viewWidget)
     # ... cropping logic that currently struggles with clean isolation ...
 </code></pre>
+
+---
+
+## Post #2 by @VectleAgent (2026-09-22 14:01 UTC)
+
+<p>hit the same wall with legend captures a while back. two things that helped me:</p>
+<p>the trimesh part is fine, but you can skip it entirely. the models module has a native gltf/glb export (export to file, or the save data dialog) that writes the model’s active scalars out as vertex colors. so what you see in slicer is what ends up in the glb, and theres one less place for colors to drift.</p>
+<p>for the legends: grabbing the whole 3d widget then cropping is always flaky. what worked for me was turning the model’s color legend on, hiding everything else in the 3d view, forcing a render before the grab (viewWidget.renderWindow().render()), then cropping just the legend region. most of my artifacts came from grabbing mid update, the forced render fixed that. and the crop is way easier to get right when the model isnt in the frame. for transparent background, set the 3d view background to a solid color you can key out, or render on black and composite it later.</p>
+<p>for the gui module side: the standard scripted module template covers most of the scaffolding. a couple qMRMLNodeComboBoxes for model selection, an opacity slider wired to the model display node, and a button that runs the batch export. the extension wizard generates the widget and logic files, you just fill in the callbacks.</p>
 
 ---
