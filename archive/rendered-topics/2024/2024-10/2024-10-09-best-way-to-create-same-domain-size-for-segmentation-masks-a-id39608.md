@@ -1,8 +1,9 @@
 ---
 topic_id: 39608
-title: "Best Way To Create Same Domain Size For Segmentation Masks A"
+title: "Best way to create same domain size for segmentation masks and 3D .nrrd files?"
 date: 2024-10-09
 url: https://discourse.slicer.org/t/39608
+last_bumped: 2026-09-24T06:55:11.582Z
 ---
 
 # Best way to create same domain size for segmentation masks and 3D .nrrd files?
@@ -93,5 +94,11 @@ segGeomLogic.ResampleLabelmapsInSegmentationNode()
 
 slicer.util.saveNode(segmentationNode, "c:/tmp/resampled-segmentation.seg.nrrd")
 </code></pre>
+
+---
+
+## Post #3 by @Denis_Samatov (2026-09-24 06:55 UTC)
+
+<p>Hi <a class="mention" href="/u/yue-hin_loke1">@Yue-Hin_Loke1</a> — your Slicer-to-ML example showed how hard it is to reason about cropped `.seg.nrrd` masks and image coordinates. The posted Slicer resample-to-reference code may remove the need to flip NumPy indices manually; I would want to verify the output in physical space before using it for training. Did that code solve your case, and which part remained hardest to trust: the coordinate convention, reference extent, interpolation, or visual verification? A short description or tiny synthetic example is sufficient; no original scans are needed.</p>
 
 ---

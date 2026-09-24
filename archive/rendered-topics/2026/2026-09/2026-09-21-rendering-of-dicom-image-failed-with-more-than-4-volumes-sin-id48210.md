@@ -3,7 +3,7 @@ topic_id: 48210
 title: "Rendering of DICOM image failed with more than 4 volumes since version 12"
 date: 2026-09-21
 url: https://discourse.slicer.org/t/48210
-last_bumped: 2026-09-22T23:34:15.682Z
+last_bumped: 2026-09-23T17:28:07.287Z
 ---
 
 # Rendering of DICOM image failed with more than 4 volumes since version 12
@@ -180,5 +180,12 @@ DICOMScalarVolumePlugin.py:441) - Loading with imageIOName: GDCM
 <p>In another rendered picture you can see from “outside” that die ring has disrupted and you see the former loop of the fixation thread. It’s much clearer to see if you play the sequence.</p>
 <p><div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/2/7/2743ec1a2900870648fe6c716a5c0290400efdde.jpeg" data-download-href="/uploads/short-url/5Bm8W6GRhQF0xUukxRrof3us4ii.jpeg?dl=1" title="Aorta-root-RSAR-s2-ct26j-d3" rel="noopener nofollow ugc"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/2/7/2743ec1a2900870648fe6c716a5c0290400efdde_2_610x499.jpeg" alt="Aorta-root-RSAR-s2-ct26j-d3" data-base62-sha1="5Bm8W6GRhQF0xUukxRrof3us4ii" width="610" height="499" srcset="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/2/7/2743ec1a2900870648fe6c716a5c0290400efdde_2_610x499.jpeg, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/2/7/2743ec1a2900870648fe6c716a5c0290400efdde_2_915x748.jpeg 1.5x, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/2/7/2743ec1a2900870648fe6c716a5c0290400efdde_2_1220x998.jpeg 2x" data-dominant-color="52403D"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">Aorta-root-RSAR-s2-ct26j-d3</span><span class="informations">1816×1488 455 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
 <p><div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/5/6/565dda12375324981bdcfade5d495f5338f9a451.jpeg" data-download-href="/uploads/short-url/ck28CHi3xULYFdOk9EWSYq7hyh3.jpeg?dl=1" title="Aorta-root-RSAR-s2-ct26j-d4" rel="noopener nofollow ugc"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/5/6/565dda12375324981bdcfade5d495f5338f9a451_2_610x499.jpeg" alt="Aorta-root-RSAR-s2-ct26j-d4" data-base62-sha1="ck28CHi3xULYFdOk9EWSYq7hyh3" width="610" height="499" srcset="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/5/6/565dda12375324981bdcfade5d495f5338f9a451_2_610x499.jpeg, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/5/6/565dda12375324981bdcfade5d495f5338f9a451_2_915x748.jpeg 1.5x, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/5/6/565dda12375324981bdcfade5d495f5338f9a451_2_1220x998.jpeg 2x" data-dominant-color="604C4B"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">Aorta-root-RSAR-s2-ct26j-d4</span><span class="informations">1816×1488 464 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
+
+---
+
+## Post #14 by @mikebind (2026-09-23 17:28 UTC)
+
+<p>Yes, having the temporal sequence can really help our eyes see around the artifact (especially in the image slices for me; I find it harder in the volume renderings). It’s also really great that you have images from another modality (echo) to cross reference findings with.</p>
+<p>I’m not familiar with this cardiac procedure or adult hearts at all (I work at a children’s hospital and have some minor familiarity with pediatric cardiac imaging, especially for congenital procedures), so I don’t want to offer any opinion on your specific case.  While I love that Slicer can enable people to explore their own medical images, I am sometimes concerned that beginners can also misinterpret those images, so that is where my cautions were coming from above.  Everyone from complete novices to experienced experts show up on this forum, so I didn’t know where you were on that spectrum.  Best wishes deepening your understanding of what is going on in your heart!</p>
 
 ---

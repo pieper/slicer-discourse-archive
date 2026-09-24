@@ -1,8 +1,9 @@
 ---
 topic_id: 36996
-title: "Exporting A Seg Nrrd Segmentation With Extent Of Original Im"
+title: "Exporting a \".seg.nrrd\" Segmentation with Extent of Original Image"
 date: 2024-06-25
 url: https://discourse.slicer.org/t/36996
+last_bumped: 2026-09-24T06:51:42.171Z
 ---
 
 # Exporting a ".seg.nrrd" Segmentation with Extent of Original Image
@@ -31,5 +32,11 @@ url: https://discourse.slicer.org/t/36996
 <p>Can someone help me understand what I’m missing? How can I get the full extent for my segmentation relative to reference geometry AND the metadata in the header of my nrrd file?</p>
 <p>Thanks so much!</p>
 <p>Sam</p>
+
+---
+
+## Post #2 by @Denis_Samatov (2026-09-24 06:51 UTC)
+
+<p>Hi <a class="mention" href="/u/sjanko2">@sjanko2</a> — I revisited your report about needing both the reference image’s full extent and the segment metadata that slicerio reads from `.seg.nrrd`. Your two export paths each preserved only one of those properties, and unchecking “Crop to minimum extent” did not change the result. Did you eventually find a supported way to retain both? If this is still an issue, which Slicer version and reference-geometry setting were involved? I am testing a read-only check that reports physical extent and segment metadata before downstream processing, and your outcome would help decide whether it is useful. A written description or synthetic header is enough; please do not share patient images.</p>
 
 ---
