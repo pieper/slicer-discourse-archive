@@ -3,7 +3,7 @@ topic_id: 48250
 title: "New modules for generation CFD-simulation-ready meshes"
 date: 2026-09-23
 url: https://discourse.slicer.org/t/48250
-last_bumped: 2026-09-23T15:41:34.033Z
+last_bumped: 2026-09-24T14:03:18.235Z
 ---
 
 # New modules for generation CFD-simulation-ready meshes
@@ -70,5 +70,12 @@ last_bumped: 2026-09-23T15:41:34.033Z
 <p>Mesh preparation for SimVascular svMultiPhysics:</p>
 <p><div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/2/9/29420d8b65f33edf9a9de92574b68823cd8415c2.jpeg" data-download-href="/uploads/short-url/5SZ5PiRWqCRcDf54mXa8SImxkpc.jpeg?dl=1" title="image"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/2/9/29420d8b65f33edf9a9de92574b68823cd8415c2_2_690x444.jpeg" alt="image" data-base62-sha1="5SZ5PiRWqCRcDf54mXa8SImxkpc" width="690" height="444" srcset="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/2/9/29420d8b65f33edf9a9de92574b68823cd8415c2_2_690x444.jpeg, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/2/9/29420d8b65f33edf9a9de92574b68823cd8415c2_2_1035x666.jpeg 1.5x, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/2/9/29420d8b65f33edf9a9de92574b68823cd8415c2_2_1380x888.jpeg 2x" data-dominant-color="C5C5DC"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">image</span><span class="informations">1621×1045 283 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
 <p>Any feedback and suggestions are welcome.</p>
+
+---
+
+## Post #2 by @Esteban_Barreiro (2026-09-24 14:03 UTC)
+
+<p>Congratulations for all the team. Great work!!!</p>
+<p>is good to know that VMTK still alive and pumping! Thanks for sharing.</p>
 
 ---

@@ -44,3 +44,6 @@
 - [2026 09 23 Shift Mouse Not Placing On Surface Of Segment](2026-09-23-shift-mouse-not-placing-on-surface-of-segment-id48240.md)
 - [2026 09 23 Totalsynth Whole Body Synthetic Ct From Mri And Cbct In 3D S](2026-09-23-totalsynth-whole-body-synthetic-ct-from-mri-and-cbct-in-3d-s-id48242.md)
 - [2026 09 23 Virtual Excavation Of Iron Age Cremations Using 3D Slicer Fo](2026-09-23-virtual-excavation-of-iron-age-cremations-using-3d-slicer-fo-id48248.md)
+- [2026 09 24 Curve Direction Arrows In Markups Not Saved In Mrk Json](2026-09-24-curve-direction-arrows-in-markups-not-saved-in-mrk-json-id48278.md)
+- [2026 09 24 Extrac Silhouette Point Clouds Of Each Sagittal Slice](2026-09-24-extrac-silhouette-point-clouds-of-each-sagittal-slice-id48262.md)
+- [2026 09 24 Gpa Interactive 3D Visualization Model Deformed](2026-09-24-gpa-interactive-3d-visualization-model-deformed-id48280.md)
