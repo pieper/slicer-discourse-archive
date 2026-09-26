@@ -3,7 +3,7 @@ topic_id: 48210
 title: "Rendering of DICOM image failed with more than 4 volumes since version 12"
 date: 2026-09-21
 url: https://discourse.slicer.org/t/48210
-last_bumped: 2026-09-23T17:28:07.287Z
+last_bumped: 2026-09-26T04:26:49.654Z
 ---
 
 # Rendering of DICOM image failed with more than 4 volumes since version 12
@@ -187,5 +187,28 @@ DICOMScalarVolumePlugin.py:441) - Loading with imageIOName: GDCM
 
 <p>Yes, having the temporal sequence can really help our eyes see around the artifact (especially in the image slices for me; I find it harder in the volume renderings). It’s also really great that you have images from another modality (echo) to cross reference findings with.</p>
 <p>I’m not familiar with this cardiac procedure or adult hearts at all (I work at a children’s hospital and have some minor familiarity with pediatric cardiac imaging, especially for congenital procedures), so I don’t want to offer any opinion on your specific case.  While I love that Slicer can enable people to explore their own medical images, I am sometimes concerned that beginners can also misinterpret those images, so that is where my cautions were coming from above.  Everyone from complete novices to experienced experts show up on this forum, so I didn’t know where you were on that spectrum.  Best wishes deepening your understanding of what is going on in your heart!</p>
+
+---
+
+## Post #15 by @mhouse (2026-09-25 14:51 UTC)
+
+<p>Many thanks for your reply. I have already sent the link to Steve. First I have cut it from axial, because of the high native resolution of this plane. I have detected the crash with the Multiphase sequence during I was also using the components setting for the temporal systolic sequence in version 5.13. Because with this you can see the motion in one picture. The biggest impact to the aortic root is if the left atrium squeezes out the remaining part into the left ventricle and then the left ventricle is contracting. Unfortunately the LVEF is still above 75%.</p>
+<p>Normally the ring should not break through the annulus. Of course it’s also visible in the normal slice views, what the radiologists normally use, but as written before no issues, the ring is positioned in “loco typico” …</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/8/6/860f1696bc482b495f1c126f110fbb98ed38c4ca.jpeg" data-download-href="/uploads/short-url/j7Wj3NyZ2ZVpaomlXljOCfRDFqy.jpeg?dl=1" title="Aorta-root-RSAR-Sys-ct26j-l15" rel="noopener nofollow ugc"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/8/6/860f1696bc482b495f1c126f110fbb98ed38c4ca_2_690x488.jpeg" alt="Aorta-root-RSAR-Sys-ct26j-l15" data-base62-sha1="j7Wj3NyZ2ZVpaomlXljOCfRDFqy" width="690" height="488" srcset="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/8/6/860f1696bc482b495f1c126f110fbb98ed38c4ca_2_690x488.jpeg, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/8/6/860f1696bc482b495f1c126f110fbb98ed38c4ca_2_1035x732.jpeg 1.5x, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/8/6/860f1696bc482b495f1c126f110fbb98ed38c4ca_2_1380x976.jpeg 2x" data-dominant-color="474644"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">Aorta-root-RSAR-Sys-ct26j-l15</span><span class="informations">1920×1358 415 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/7/c/7cbe7ab8cee3abbedddcb397663c0a7c6db9b6e8.jpeg" data-download-href="/uploads/short-url/hNxj0iMN6Dm1bTy0CpIJuSrljT2.jpeg?dl=1" title="Aorta-root-RSAR-Sys-ct26j-l18" rel="noopener nofollow ugc"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/7/c/7cbe7ab8cee3abbedddcb397663c0a7c6db9b6e8_2_690x488.jpeg" alt="Aorta-root-RSAR-Sys-ct26j-l18" data-base62-sha1="hNxj0iMN6Dm1bTy0CpIJuSrljT2" width="690" height="488" srcset="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/7/c/7cbe7ab8cee3abbedddcb397663c0a7c6db9b6e8_2_690x488.jpeg, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/7/c/7cbe7ab8cee3abbedddcb397663c0a7c6db9b6e8_2_1035x732.jpeg 1.5x, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/7/c/7cbe7ab8cee3abbedddcb397663c0a7c6db9b6e8_2_1380x976.jpeg 2x" data-dominant-color="474644"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">Aorta-root-RSAR-Sys-ct26j-l18</span><span class="informations">1920×1358 417 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
+
+---
+
+## Post #16 by @lassoan (2026-09-25 17:46 UTC)
+
+<p>4D CT loading had a regression due to a recent merging of DICOM plugins from an extension to Slicer core. A fix has been integrated. Slicer Preview Releases that you download today or later will work well.</p>
+<p>I’ve also submitted an <a href="https://github.com/Slicer/Slicer/pull/9414">enhancement to CTK and Slicer that will make DICOM examine+loading about 5-10x faster</a>. With this improvement, a 4D cardiac CT with 20 time points and 512x512 slice size is loaded in 20-30 seconds instead of several minutes. It will be available in preview releases by early next week.</p>
+<p><a class="mention" href="/u/pieper">@pieper</a> if you have a chance to review these CTK and Slicer changes sooner than Monday then it could be integrated earlier.</p>
+
+---
+
+## Post #17 by @mhouse (2026-09-26 04:26 UTC)
+
+<p>Many thanks, it’s loading now fine.</p>
 
 ---

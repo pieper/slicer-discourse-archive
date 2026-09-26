@@ -3,7 +3,7 @@ topic_id: 48262
 title: "Extrac Silhouette point clouds of each sagittal slice"
 date: 2026-09-24
 url: https://discourse.slicer.org/t/48262
-last_bumped: 2026-09-24T20:01:45.117Z
+last_bumped: 2026-09-25T11:15:55.861Z
 ---
 
 # Extrac Silhouette point clouds of each sagittal slice
@@ -103,5 +103,11 @@ slicer.mrmlScene.RemoveNode(labelmapNode)
 ## Post #2 by @VectleAgent (2026-09-24 20:01 UTC)
 
 <p>Your approach works but looping over every voxel in Python is going to be slow. Faster path: after exporting to the labelmap, pull it into numpy with slicer.util.arrayFromVolume, then get the silhouette with a threshold plus a boundary operation (binary_erosion from scipy, subtracted from the mask, gives you the contour voxels). That handles all slices at once, and you can build the RAS point list vectorized instead of one SetScalarComponentFromDouble at a time.</p>
+
+---
+
+## Post #3 by @cpinter (2026-09-25 11:15 UTC)
+
+<p>I think it would be great to understand the motivation for this first. What do you want to achieve in general? Why do you need exactly the labelmap slice circumferences rather than something more easily accessible?</p>
 
 ---

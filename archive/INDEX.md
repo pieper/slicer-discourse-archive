@@ -1,6 +1,6 @@
 # Slicer Discourse Archive Index
 
-Last updated: 2026-09-25 08:15 UTC
+Last updated: 2026-09-26 08:02 UTC
 
 ## Archive Contents
 
@@ -15,15 +15,7 @@ Last updated: 2026-09-25 08:15 UTC
 - [README.md](archive/rendered-topics/2022/2022-04/README.md)
 - [README.md](archive/rendered-topics/2022/2022-03/README.md)
 - [README.md](archive/rendered-topics/2022/2022-01/README.md)
-- [how to create new segmentation from growing margins](archive/rendered-topics/2022/2022-09/2022-09-30-how-to-create-new-segmentation-from-growing-margins-id25503.md)
-- [is it possible to run cfd simulation in slicer](archive/rendered-topics/2022/2022-09/2022-09-30-is-it-possible-to-run-cfd-simulation-in-slicer-id25500.md)
-- [recommended vr headset](archive/rendered-topics/2022/2022-09/2022-09-30-recommended-vr-headset-id25504.md)
-- [segmentationunet](archive/rendered-topics/2022/2022-09/2022-09-30-segmentationunet-id25497.md)
-- [the modified parameters in drr generator](archive/rendered-topics/2022/2022-09/2022-09-30-the-modified-parameters-in-drr-generator-id25493.md)
 - [tranformation of labelmap not working on script](archive/rendered-topics/2022/2022-09/2022-09-30-tranformation-of-labelmap-not-working-on-script-id25499.md)
-- [slicervmtk and slicer version 5 1 0 revision 31159](archive/rendered-topics/2022/2022-09/2022-09-27-slicervmtk-and-slicer-version-5-1-0-revision-31159-id25453.md)
-- [valve motion for cfd fsi simulation](archive/rendered-topics/2022/2022-09/2022-09-27-valve-motion-for-cfd-fsi-simulation-id25450.md)
-- [model registration from fiducial point](archive/rendered-topics/2022/2022-09/2022-09-28-model-registration-from-fiducial-point-id25462.md)
 - [pyhocon exceptions configmissingexception no configuration s](archive/rendered-topics/2022/2022-09/2022-09-28-pyhocon-exceptions-configmissingexception-no-configuration-s-id25457.md)
 - [remove slice views compare1 from scene](archive/rendered-topics/2022/2022-09/2022-09-28-remove-slice-views-compare1-from-scene-id25460.md)
 - [scale issue with auto3dgm](archive/rendered-topics/2022/2022-09/2022-09-28-scale-issue-with-auto3dgm-id25471.md)
@@ -38,9 +30,11 @@ Last updated: 2026-09-25 08:15 UTC
 - [lassoan slicer notebook](archive/rendered-topics/2022/2022-09/2022-09-29-lassoan-slicer-notebook-id25483.md)
 - [mandibular segmentation with reconstruction plate](archive/rendered-topics/2022/2022-09/2022-09-29-mandibular-segmentation-with-reconstruction-plate-id25485.md)
 - [selected segment visibility](archive/rendered-topics/2022/2022-09/2022-09-29-selected-segment-visibility-id25482.md)
-- [bricked appearance of labelmap using baffle planner module](archive/rendered-topics/2022/2022-09/2022-09-25-bricked-appearance-of-labelmap-using-baffle-planner-module-id25429.md)
-- [ik solution failed and the robot cant move to the entry poin](archive/rendered-topics/2022/2022-09/2022-09-25-ik-solution-failed-and-the-robot-cant-move-to-the-entry-poin-id25426.md)
-- [weekly meeting](archive/rendered-topics/2022/2022-09/2022-09-26-2022-09-26-weekly-meeting-id25441.md)
+- [how to create new segmentation from growing margins](archive/rendered-topics/2022/2022-09/2022-09-30-how-to-create-new-segmentation-from-growing-margins-id25503.md)
+- [is it possible to run cfd simulation in slicer](archive/rendered-topics/2022/2022-09/2022-09-30-is-it-possible-to-run-cfd-simulation-in-slicer-id25500.md)
+- [recommended vr headset](archive/rendered-topics/2022/2022-09/2022-09-30-recommended-vr-headset-id25504.md)
+- [segmentationunet](archive/rendered-topics/2022/2022-09/2022-09-30-segmentationunet-id25497.md)
+- [the modified parameters in drr generator](archive/rendered-topics/2022/2022-09/2022-09-30-the-modified-parameters-in-drr-generator-id25493.md)
 - [3d measurements of abdominal aortic aneurysms workflow](archive/rendered-topics/2022/2022-09/2022-09-26-3d-measurements-of-abdominal-aortic-aneurysms-workflow-id25438.md)
 - [curvature of bone](archive/rendered-topics/2022/2022-09/2022-09-26-curvature-of-bone-id25440.md)
 - [heatmap of brain](archive/rendered-topics/2022/2022-09/2022-09-26-heatmap-of-brain-id25439.md)
@@ -54,8 +48,14 @@ Last updated: 2026-09-25 08:15 UTC
 - [how to show the number of selected pixels in one single slic](archive/rendered-topics/2022/2022-09/2022-09-27-how-to-show-the-number-of-selected-pixels-in-one-single-slic-id25447.md)
 - [integrate an existing script to 3d slicer](archive/rendered-topics/2022/2022-09/2022-09-27-integrate-an-existing-script-to-3d-slicer-id25452.md)
 - [rvesselx dont show current node placement help option](archive/rendered-topics/2022/2022-09/2022-09-27-rvesselx-dont-show-current-node-placement-help-option-id25454.md)
-- [3rd proxy works only in sequencebrowser 1 but not in seqbrow](archive/rendered-topics/2022/2022-09/2022-09-22-3rd-proxy-works-only-in-sequencebrowser-1-but-not-in-seqbrow-id25404.md)
-- [cant install extension](archive/rendered-topics/2022/2022-09/2022-09-22-cant-install-extension-id25398.md)
-- [flood filling and fast marching for head and neck tumours](archive/rendered-topics/2022/2022-09/2022-09-22-flood-filling-and-fast-marching-for-head-and-neck-tumours-id25390.md)
+- [slicervmtk and slicer version 5 1 0 revision 31159](archive/rendered-topics/2022/2022-09/2022-09-27-slicervmtk-and-slicer-version-5-1-0-revision-31159-id25453.md)
+- [valve motion for cfd fsi simulation](archive/rendered-topics/2022/2022-09/2022-09-27-valve-motion-for-cfd-fsi-simulation-id25450.md)
+- [model registration from fiducial point](archive/rendered-topics/2022/2022-09/2022-09-28-model-registration-from-fiducial-point-id25462.md)
 - [how are points on the different dicom views axial sagital an](archive/rendered-topics/2022/2022-09/2022-09-22-how-are-points-on-the-different-dicom-views-axial-sagital-an-id25400.md)
 - [opacity in segmentation editor](archive/rendered-topics/2022/2022-09/2022-09-22-opacity-in-segmentation-editor-id25397.md)
+- [out of frame images are not equally spaced loaded image appe](archive/rendered-topics/2022/2022-09/2022-09-22-out-of-frame-images-are-not-equally-spaced-loaded-image-appe-id25396.md)
+- [segmentation of all teeth and its components](archive/rendered-topics/2022/2022-09/2022-09-22-segmentation-of-all-teeth-and-its-components-id25392.md)
+- [send dicom data using dicomweb for google healthcare api](archive/rendered-topics/2022/2022-09/2022-09-22-send-dicom-data-using-dicomweb-for-google-healthcare-api-id25401.md)
+- [variable slicer wc last changed date is expected to be defin](archive/rendered-topics/2022/2022-09/2022-09-22-variable-slicer-wc-last-changed-date-is-expected-to-be-defin-id25389.md)
+- [automatically run a python script from slicer for deep learn](archive/rendered-topics/2022/2022-09/2022-09-23-automatically-run-a-python-script-from-slicer-for-deep-learn-id25411.md)
+- [features confounded by the volume or roi](archive/rendered-topics/2022/2022-09/2022-09-23-features-confounded-by-the-volume-or-roi-id25413.md)
