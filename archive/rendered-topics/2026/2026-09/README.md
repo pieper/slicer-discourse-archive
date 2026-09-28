@@ -47,3 +47,4 @@
 - [2026 09 24 Curve Direction Arrows In Markups Not Saved In Mrk Json](2026-09-24-curve-direction-arrows-in-markups-not-saved-in-mrk-json-id48278.md)
 - [2026 09 24 Extrac Silhouette Point Clouds Of Each Sagittal Slice](2026-09-24-extrac-silhouette-point-clouds-of-each-sagittal-slice-id48262.md)
 - [2026 09 24 Gpa Interactive 3D Visualization Model Deformed](2026-09-24-gpa-interactive-3d-visualization-model-deformed-id48280.md)
+- [2026 09 27 Crash Rendering Very Large Meshes On Macos Apples Opengl Dri](2026-09-27-crash-rendering-very-large-meshes-on-macos-apples-opengl-dri-id48315.md)
