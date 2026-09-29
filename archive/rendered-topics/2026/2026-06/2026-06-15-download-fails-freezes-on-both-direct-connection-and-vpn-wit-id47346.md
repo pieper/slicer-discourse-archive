@@ -3,7 +3,7 @@ topic_id: 47346
 title: "download fails/freezes on both direct connection and VPN (with academic license activated)"
 date: 2026-06-15
 url: https://discourse.slicer.org/t/47346
-last_bumped: 2026-07-13T17:17:59.098Z
+last_bumped: 2026-09-29T06:38:13.352Z
 ---
 
 # download fails/freezes on both direct connection and VPN (with academic license activated)
@@ -65,5 +65,17 @@ last_bumped: 2026-07-13T17:17:59.098Z
 <p>Were you able to resolve this issue? Did you find a way to get the weights or a direct download link?</p>
 <p>Any advice would be greatly appreciated!</p>
 <p>Thanks!</p>
+
+---
+
+## Post #4 by @bjmufffff (2026-09-29 06:38 UTC)
+
+<p>Encountered the same issue: the weights could not be downloaded and kept reporting errors.Here is my solution just for reference (as everyone’s network environment is different):</p>
+<p>Referring to the official documentation ( <a href="https://github.com/wasserth/TotalSegmentator/blob/master/README.md" class="inline-onebox" rel="noopener nofollow ugc">TotalSegmentator/README.md at master · wasserth/TotalSegmentator · GitHub</a> ),<br>
+Set up  Python environment on my computer (separate from 3D Slicer’s Python), install TotalSegmentator with <code>pip install TotalSegmentator</code>,</p>
+<p>set the license with <code>totalseg_set_license -l aca_12345678910</code>,</p>
+<p>successfully downloaded the weights with <code>totalseg_download_weights -t &lt;task_name&gt;</code> (with VPN  global mode).</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/7/4/742fe231c13f40dad26aed2759cd3248af7270d2.png" data-download-href="/uploads/short-url/gzPYyflZ8OorPJxBakc5hdOepj4.png?dl=1" title="1790663722167" rel="noopener nofollow ugc"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/7/4/742fe231c13f40dad26aed2759cd3248af7270d2.png" alt="1790663722167" data-base62-sha1="gzPYyflZ8OorPJxBakc5hdOepj4" width="690" height="56" data-dominant-color="1D1D1D"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">1790663722167</span><span class="informations">1252×102 1.7 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/b/3/b38db599f64a794e9784452306c61c0cd60ba0b8.png" data-download-href="/uploads/short-url/pCp4QrdD72phaax9SWvblV7hsEg.png?dl=1" title="1790663755330" rel="noopener nofollow ugc"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/b/3/b38db599f64a794e9784452306c61c0cd60ba0b8_2_649x500.png" alt="1790663755330" data-base62-sha1="pCp4QrdD72phaax9SWvblV7hsEg" width="649" height="500" srcset="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/b/3/b38db599f64a794e9784452306c61c0cd60ba0b8_2_649x500.png, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/b/3/b38db599f64a794e9784452306c61c0cd60ba0b8_2_973x750.png 1.5x, https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/b/3/b38db599f64a794e9784452306c61c0cd60ba0b8.png 2x" data-dominant-color="ABAAAF"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">1790663755330</span><span class="informations">1288×992 221 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
 
 ---

@@ -1,8 +1,9 @@
 ---
 topic_id: 42292
-title: "Mcp Slicer 3D Slicer Model Context Protocol Integration"
+title: "MCP-Slicer: 3D Slicer Model Context Protocol Integration"
 date: 2025-03-25
 url: https://discourse.slicer.org/t/42292
+last_bumped: 2026-09-28T17:22:42.918Z
 ---
 
 # MCP-Slicer: 3D Slicer Model Context Protocol Integration
@@ -183,5 +184,12 @@ Moreover, it would be very cool if Slicer had its own chatbot module, I would li
 <p>Mcp-slicer can not only execute code but also return execution results and error messages to the client. This is very promising. Nowadays, large-model clients can determine whether they are on the right path based on the returned results and correct their methods. By interacting several more times, one can often obtain the correct results.</p>
 <p>Moreover, if everyone wants to try it out for free, the Vscode Cline plugin is an excellent choice. It can utilize the free usage in GitHub Copilot. You can use Claude 3.5 Sonnet for FREE<br>
 <div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/2/3/235e06629dab2fa13447c17b3f54cbaefc52fbd2.png" data-download-href="/uploads/short-url/52S9R6ix2dVvX9gTYZWqiRCyiCC.png?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/2/3/235e06629dab2fa13447c17b3f54cbaefc52fbd2.png" alt="image" data-base62-sha1="52S9R6ix2dVvX9gTYZWqiRCyiCC" width="587" height="222"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">image</span><span class="informations">587×222 10.6 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
+
+---
+
+## Post #7 by @hherhold (2026-09-28 17:22 UTC)
+
+<p>I’m a little late to the party, but this is amazing. I just hooked it up with 5.13 (nightly-ish, built locally) and Claude Opus 5.5. I’ve used it for only simple tasks like rotate the volume render crop ROI to match rotated slice views, but it looks like it could save me a TON of time.</p>
+<p>Many thanks for this work!!</p>
 
 ---

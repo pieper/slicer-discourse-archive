@@ -48,3 +48,6 @@
 - [2026 09 24 Extrac Silhouette Point Clouds Of Each Sagittal Slice](2026-09-24-extrac-silhouette-point-clouds-of-each-sagittal-slice-id48262.md)
 - [2026 09 24 Gpa Interactive 3D Visualization Model Deformed](2026-09-24-gpa-interactive-3d-visualization-model-deformed-id48280.md)
 - [2026 09 27 Crash Rendering Very Large Meshes On Macos Apples Opengl Dri](2026-09-27-crash-rendering-very-large-meshes-on-macos-apples-opengl-dri-id48315.md)
+- [2026 09 28 Developing A Chest Ct Image Analysis Tool To Detect Lung Air](2026-09-28-developing-a-chest-ct-image-analysis-tool-to-detect-lung-air-id48322.md)
+- [2026 09 29 Osteotomycuts A New Extension For Multi Segment Osteotomy Pl](2026-09-29-osteotomycuts-a-new-extension-for-multi-segment-osteotomy-pl-id48329.md)
+- [2026 09 29 Segmentation Color Table Generator](2026-09-29-segmentation-color-table-generator-id48330.md)

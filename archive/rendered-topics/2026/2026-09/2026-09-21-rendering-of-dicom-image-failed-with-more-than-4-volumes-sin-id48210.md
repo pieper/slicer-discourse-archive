@@ -3,7 +3,7 @@ topic_id: 48210
 title: "Rendering of DICOM image failed with more than 4 volumes since version 12"
 date: 2026-09-21
 url: https://discourse.slicer.org/t/48210
-last_bumped: 2026-09-26T04:26:49.654Z
+last_bumped: 2026-09-28T18:25:15.092Z
 ---
 
 # Rendering of DICOM image failed with more than 4 volumes since version 12
@@ -210,5 +210,27 @@ DICOMScalarVolumePlugin.py:441) - Loading with imageIOName: GDCM
 ## Post #17 by @mhouse (2026-09-26 04:26 UTC)
 
 <p>Many thanks, it’s loading now fine.</p>
+
+---
+
+## Post #18 by @mhouse (2026-09-28 16:03 UTC)
+
+<p>Sometimes I save the whole scene. But today I got this first exception, because the filename was too long.</p>
+<p>But I have not specified such a long filename. I think it’s a race condition.</p>
+<p>I will send the full log to Steve.</p>
+<blockquote>
+<p>itk::ExceptionObject (0x3b911510)<br>
+Location: “unknown”<br>
+File: /work/Preview/Slicer-0-build/ITK/Modules/IO/NRRD/src/itkNrrdImageIO.cxx<br>
+Line: 1349<br>
+Description: ITK ERROR: NrrdImageIO(0x44caeeb0): Write: Error writing /home/3DSlicer/Angio-CT26-multi-j5/310 CT Temporal SmartPhase SYS DL_CCTA 0.6 smart phase SSF - 3 frames Volume Sequence by NominalPercentageOfCardiacPhase sequence sequence sequence sequence sequence sequence sequence sequence sequence sequence sequence sequence sequence sequence sequence sequence sequence sequence sequence sequence sequence sequence sequence sequence sequence sequence sequence sequence sequence sequence sequence sequence sequence sequence sequence sequence sequence sequence sequence sequence sequence sequence sequence sequence sequence sequence sequence sequence sequence 1.nrrd:<br>
+[nrrd] nrrdSave: couldn’t fopen(“/home/3DSlicer/Angio-CT26-multi-j5/310 CT Temporal SmartPhase SYS DL_CCTA 0.6 smart phase SSF - 3 frames Volume Sequence by NominalPercentageOfCardiacPhase sequence sequence sequence sequence sequence sequence sequence sequence sequence sequence sequence sequence sequence sequence sequence sequence sequence sequence sequence sequence sequence sequence sequence sequence sequence sequence sequence sequence sequence sequence sequence sequence sequence sequence sequence sequence sequence sequence sequence sequence sequence sequence sequence sequence sequence sequence sequence sequence sequence 1.nrrd”,“wb”): File name too long</p>
+</blockquote>
+
+---
+
+## Post #19 by @pieper (2026-09-28 18:25 UTC)
+
+<p>This part of the log is probably enough for <a class="mention" href="/u/lassoan">@lassoan</a> or <a class="mention" href="/u/sunderlandkyl">@Sunderlandkyl</a> to diagnose.  It looks like the word <code>sequence</code> is being added multiple times and we should use some other method to generate the filenames.</p>
 
 ---
