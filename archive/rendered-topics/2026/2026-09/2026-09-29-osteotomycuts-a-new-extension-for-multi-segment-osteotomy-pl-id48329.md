@@ -3,7 +3,7 @@ topic_id: 48329
 title: "OsteotomyCuts: a new extension for multi-segment osteotomy planning (orthognathic and craniofacial)"
 date: 2026-09-29
 url: https://discourse.slicer.org/t/48329
-last_bumped: 2026-09-29T02:44:08.000Z
+last_bumped: 2026-09-30T04:21:20.000Z
 ---
 
 # OsteotomyCuts: a new extension for multi-segment osteotomy planning (orthognathic and craniofacial)
@@ -50,5 +50,50 @@ last_bumped: 2026-09-29T02:44:08.000Z
 ## Post #2 by @Bhawana (2026-09-29 02:44 UTC)
 
 <p><strong>Hi Manjula, I came across your OsteotomyCuts project and found it very interesting. I have around 5 years of experience in medical image annotation, particularly MRI annotation and segmentation. I would be interested in contributing to medical imaging/3D Slicer projects, especially annotation, segmentation, testing, or clinical data work. Please let me know if you have any paid project or collaboration opportunities where my experience could be useful. Thank you.</strong></p>
+
+---
+
+## Post #3 by @CarlosJWinkler (2026-09-29 16:07 UTC)
+
+<p>Hi Dear Herath.</p>
+<p>Thank you very much by share this tool,<br>
+I am ready to offer my support on testing the new tools you shared.</p>
+<p>Best regards.<br>
+Carlos J. Winkler<br>
+55 11 98553-2450</p>
+
+---
+
+## Post #4 by @Pedro_Zaju (2026-09-29 16:17 UTC)
+
+<p>Thanks for sharing this, Manjula!</p>
+<p>This looks really interesting. The video does a great job showing how it works, and I liked the music too. Are you aware of any existing work in Slicer on generating patient-specific cutting guides from planned osteotomies? If not, that could be an interesting project to take on.</p>
+
+---
+
+## Post #5 by @dzenanz (2026-09-29 16:41 UTC)
+
+<p><a class="mention" href="/u/sam_horvath">@Sam_Horvath</a> might know more about status and relevant capabilities of <a href="https://www.kitware.com/kitware-fuels-pediatric-surgery-planning-project-with-1-5-million-award/" rel="noopener nofollow ugc">iCSPlan</a>.</p>
+
+---
+
+## Post #6 by @manjula (2026-09-29 17:02 UTC)
+
+<p>Hi Pedro,</p>
+<p>Thanks for the reply. Yes I will be doing  PSI guide generation as the next step. Right now it can be done with 3D Slicer using segment editor or  markups to model.  Right now i am working on the templates for different osteotomies. Once it is complete i will move on to the guide generations and other.</p>
+<p><a href="https://www.youtube.com/watch?v=TUbL08TV5C8" rel="noopener nofollow ugc">https://youtu.be/TUbL08TV5C8</a></p>
+<p>Thanks</p>
+
+---
+
+## Post #7 by @manjula (2026-09-29 17:03 UTC)
+
+<p>Thanks please let me know</p>
+
+---
+
+## Post #8 by @kuldeepvish5 (2026-09-30 04:21 UTC)
+
+<p>Thanks for developing this extension…will definitely try it.</p>
 
 ---
