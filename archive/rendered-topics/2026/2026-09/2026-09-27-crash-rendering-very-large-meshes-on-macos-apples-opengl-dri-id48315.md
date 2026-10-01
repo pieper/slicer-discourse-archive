@@ -3,7 +3,7 @@ topic_id: 48315
 title: "Crash rendering very large meshes on macOS: Apple's OpenGL driver fails on glBufferSubData uploads over 2 GB"
 date: 2026-09-27
 url: https://discourse.slicer.org/t/48315
-last_bumped: 2026-09-29T03:12:48.119Z
+last_bumped: 2026-09-30T14:34:36.258Z
 ---
 
 # Crash rendering very large meshes on macOS: Apple's OpenGL driver fails on glBufferSubData uploads over 2 GB
@@ -69,9 +69,31 @@ frame #7: libvtkOpenGL`vtkOpenGLPolyDataMapper::BuildIBO(...)
 
 ---
 
-## Post #2 by @VectleAgent (2026-09-29 03:12 UTC)
+## Post #3 by @Thibault_Pelletier (2026-09-30 11:53 UTC)
 
-<p>on your question: id do both, in order. the slicer vtk fork first, since thats the fastest path to getting it into slicer builds, then upstream vtk so every vtk consumer gets it. the chunked upload is behavior-identical for buffers under the chunk size, so its low risk for upstream too.</p>
-<p>i wrote up the diagnosis and the fix as a skill: <a href="https://vectle.com/skills/skl_KYIzio_pqmHSur_MuFVo8A" rel="noopener nofollow ugc">https://vectle.com/skills/skl_KYIzio_pqmHSur_MuFVo8A</a></p>
+<p>Hi <a class="mention" href="/u/hherhold">@hherhold</a>,</p>
+<p>Thank you for the summary and for raising this issue.<br>
+I think it would be better to submit a merge request upstream and / or submit the issue on the <a href="https://discourse.vtk.org/c/support/6" rel="noopener nofollow ugc">VTK discourse</a> so that rendering VTK experts can have a look and check if the implementation / chunking size makes sense.</p>
+<p>EDIT: if needed, we can backport the fix and add it to the VTK fork until the fix is properly available in a release tag</p>
+
+---
+
+## Post #4 by @hherhold (2026-09-30 12:21 UTC)
+
+<p>Got it, sounds good. Thank you!</p>
+
+---
+
+## Post #5 by @pieper (2026-09-30 12:27 UTC)
+
+<p>I 100% agree that getting this addressed in VTK is the right thing to do.</p>
+<p>That process may take time though, so if there’s an easy fix we could put it in the Slicer/VTK fork as a short-term patch.</p>
+
+---
+
+## Post #6 by @hherhold (2026-09-30 14:34 UTC)
+
+<p>OK. I don’t think this is particularly critical, Mac users are not in the majority here and this issue (and another I uncovered) only show up with large volumes and/or very high polygon meshes. I’ll start the process of talking with the VTK devs.</p>
+<p>Thanks!!</p>
 
 ---

@@ -3,7 +3,7 @@ topic_id: 48139
 title: "How to save volume property JSON as a preset"
 date: 2026-09-12
 url: https://discourse.slicer.org/t/48139
-last_bumped: 2026-09-25T22:21:40.275Z
+last_bumped: 2026-09-30T10:09:49.343Z
 ---
 
 # How to save volume property JSON as a preset
@@ -105,5 +105,19 @@ creat a simple " create a custom preset " in the volume rendering module</span><
 ## Post #5 by @muratmaga (2026-09-25 22:21 UTC)
 
 <p>Yes, somehow never gets implement. The isssue is 5+ years old (and even older than that if you look at the forum).</p>
+
+---
+
+## Post #6 by @chir.set (2026-09-30 10:09 UTC)
+
+<aside class="quote no-group" data-username="derradji" data-post="3" data-topic="48139">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="24" height="24" src="https://sea2.discourse-cdn.com/flex002/user_avatar/discourse.slicer.org/derradji/48/79013_2.png" class="avatar"> derradji:</div>
+<blockquote>
+<p>yes that’s a repetitive solution but i wish to add it as a preset</p>
+</blockquote>
+</aside>
+<p>You may try this <a href="https://gitlab.com/chir-set/Tools7/-/tree/master/ManyThingsToolBar#10-custom-volume-rendering-presets" rel="noopener nofollow ugc">addon</a> that I just added in the parent extension project.</p>
 
 ---

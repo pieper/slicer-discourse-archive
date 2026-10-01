@@ -51,3 +51,4 @@
 - [2026 09 28 Developing A Chest Ct Image Analysis Tool To Detect Lung Air](2026-09-28-developing-a-chest-ct-image-analysis-tool-to-detect-lung-air-id48322.md)
 - [2026 09 29 Osteotomycuts A New Extension For Multi Segment Osteotomy Pl](2026-09-29-osteotomycuts-a-new-extension-for-multi-segment-osteotomy-pl-id48329.md)
 - [2026 09 29 Segmentation Color Table Generator](2026-09-29-segmentation-color-table-generator-id48330.md)
+- [2026 09 30 2026 10 06 Weekly Meeting](2026-09-30-2026-10-06-weekly-meeting-id48359.md)
