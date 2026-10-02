@@ -3,7 +3,7 @@ topic_id: 48176
 title: "Best practices for more complex plots in Slicer?"
 date: 2026-09-15
 url: https://discourse.slicer.org/t/48176
-last_bumped: 2026-09-17T17:21:22.713Z
+last_bumped: 2026-10-01T18:55:56.592Z
 ---
 
 # Best practices for more complex plots in Slicer?
@@ -132,5 +132,276 @@ last_bumped: 2026-09-17T17:21:22.713Z
 ## Post #5 by @mikebind (2026-09-17 17:21 UTC)
 
 <p>Thanks, this is really helpful. I’ll probably explore some in both these directions and mark this solved.</p>
+
+---
+
+## Post #6 by @jamesobutler (2026-10-01 18:55 UTC)
+
+<p><a class="mention" href="/u/mikebind">@mikebind</a> <a class="mention" href="/u/pieper">@pieper</a> Take a look at the following recent PR regarding making matplotlib functional in Slicer</p>
+<aside class="onebox githubpullrequest" data-onebox-src="https://github.com/Slicer/Slicer/pull/9441">
+  <header class="source">
+
+      <a href="https://github.com/Slicer/Slicer/pull/9441" target="_blank" rel="noopener nofollow ugc">github.com/Slicer/Slicer</a>
+  </header>
+
+  <article class="onebox-body">
+    <div class="github-row" data-github-private-repo="false">
+
+
+
+    <div class="github-icon-container" title="Pull Request">
+      <svg width="60" height="60" class="github-icon" viewBox="0 0 12 16" aria-hidden="true"><path fill-rule="evenodd" d="M11 11.28V5c-.03-.78-.34-1.47-.94-2.06C9.46 2.35 8.78 2.03 8 2H7V0L4 3l3 3V4h1c.27.02.48.11.69.31.21.2.3.42.31.69v6.28A1.993 1.993 0 0 0 10 15a1.993 1.993 0 0 0 1-3.72zm-1 2.92c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zM4 3c0-1.11-.89-2-2-2a1.993 1.993 0 0 0-1 3.72v6.56A1.993 1.993 0 0 0 2 15a1.993 1.993 0 0 0 1-3.72V4.72c.59-.34 1-.98 1-1.72zm-.8 10c0 .66-.55 1.2-1.2 1.2-.65 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"></path></svg>
+    </div>
+
+  <div class="github-info-container">
+
+
+
+      <h4>
+        <a href="https://github.com/Slicer/Slicer/pull/9441" target="_blank" rel="noopener nofollow ugc">ENH: Add an interactive Matplotlib backend built on PythonQt (#9441)</a>
+      </h4>
+
+    <div class="branches">
+      <code>main</code> ← <code>ThomasKierski:tk/matplotlib-backend</code>
+    </div>
+
+      <div class="github-info">
+        <div class="date">
+          opened <span class="discourse-local-date" data-format="ll" data-date="2026-10-01" data-time="18:45:55" data-timezone="UTC">06:45PM - 01 Oct 26 UTC</span>
+        </div>
+
+        <div class="user">
+          <a href="https://github.com/ThomasKierski" target="_blank" rel="noopener nofollow ugc">
+            <img alt="" src="https://avatars.githubusercontent.com/u/54414492?v=4" class="onebox-avatar-inline" width="20" height="20">
+            ThomasKierski
+          </a>
+        </div>
+
+        <div class="lines" title="1 commits changed 5 files with 1620 additions and 2 deletions">
+          <a href="https://github.com/Slicer/Slicer/pull/9441/files" target="_blank" rel="noopener nofollow ugc">
+            <span class="added">+1620</span>
+            <span class="removed">-2</span>
+          </a>
+        </div>
+      </div>
+  </div>
+</div>
+
+  <div class="github-row">
+    <p class="github-body-container"># ENH: Add an interactive Matplotlib backend built on PythonQt
+
+The following <span class="show-more-container"><a href="https://github.com/Slicer/Slicer/pull/9441" target="_blank" rel="noopener nofollow ugc" class="show-more">…</a></span><span class="excerpt hidden">work was mostly written by Claude Opus 5 via the Copilot CLI. The work is motivated by the current limitations on stylizing plots in charts in the app. Matplotlib is familiar to many Python users and can generate some beautiful, interactive figures such as the ones shown in the demos below.
+
+## Demos
+
+### Matplotlib + Seaborn for nice looking plots
+&lt;img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/25d7e8db-6b12-4e86-9dac-2c8380fab70c" /&gt;
+
+### Interactive plot demo
+
+https://github.com/user-attachments/assets/6ba8de1b-8fdc-4e98-90a1-d04582eb28bf
+
+
+## Summary
+
+Adds `slicer.matplotlibbackend`, a pure-Python Matplotlib backend that renders with Agg and
+displays the result in a PythonQt `QWidget` driven by Slicer's own event loop. This gives
+Slicer working interactive plots — pan, zoom, the navigation toolbar, `matplotlib.widgets`,
+picking, animation and timers — without a C++ change, a new dependency, or a second Qt
+binding.
+
+```python
+import slicer.matplotlibbackend
+slicer.matplotlibbackend.enable()
+
+import matplotlib.pyplot as plt
+plt.plot([1, 2, 3])
+plt.show()   # interactive, and does not block the application
+```
+
+The canvas is an ordinary Qt widget, so it can also be placed in a module panel or in a
+view layout:
+
+```python
+from matplotlib.figure import Figure
+from slicer.matplotlibbackend import FigureCanvasSlicer, NavigationToolbar2Slicer
+
+canvas = FigureCanvasSlicer(Figure())
+self.layout.addWidget(canvas.get_widget())
+```
+
+---
+
+## 1. What problem does this solve?
+
+### Slicer currently has no usable interactive Matplotlib backend at all
+
+Every interactive backend Matplotlib ships is unavailable in Slicer, for a different reason:
+
+| Backend | Why it does not work in Slicer |
+|---|---|
+| `TkAgg` (Matplotlib's default) | Tcl/Tk was removed from the superbuild in `9a9c2b199d` ("ENH: Remove unsupported/deprecated tcl functionality", #4867). There is no `_tkinter`, so importing it raises `ImportError`. |
+| `QtAgg` | Matplotlib's Qt backend targets PyQt or PySide. Slicer binds Qt through **PythonQt**, which those bindings cannot stand in for, and none of PyQt5/PySide2/PySide6 are shipped. |
+| `WXAgg` | Requires `wxPython`, which is not shipped, and introduces a third GUI toolkit into the process. |
+
+What was left is `Agg`: render to PNG, load into a `QPixmap`, display a static picture. That
+rules out pan and zoom, the navigation toolbar, `matplotlib.widgets` (sliders, span/lasso
+selectors), `pick_event`, `FuncAnimation`, and event callbacks — i.e. most of the reason to
+reach for Matplotlib instead of Slicer's VTK plots.
+
+### The documentation was stale, and steered users toward the one thing that really does crash
+
+`Docs/developer_guide/script_repository/plots.md` claimed:
+
+&gt; the default Tk backend locks up and crashes Slicer
+
+That has not been true since Tk was removed. `TkAgg` now fails at import with a clean
+`ImportError`; it cannot lock anything up, because it never loads.
+
+The practical effect of that stale sentence is worse than a documentation nit. It sends users
+looking for "a Qt backend that works", and the obvious move — `pip install PyQt5` into
+Slicer's Python — loads a **second, independently initialized copy of Qt** into a process
+that has already initialized Slicer's Qt: two `QApplication` objects, divergent plugin search
+paths, duplicated static state. *That* is the instability users report and attribute to
+Matplotlib. Nothing in the docs warned against it.
+
+This PR corrects the explanation, documents why each backend fails, and states plainly that
+installing PyQt/PySide into Slicer's Python is not a supported workaround.
+
+### There was no supported way to embed a live plot in the application
+
+Getting a Matplotlib figure into a module panel or a view layout meant re-rendering to a
+`QPixmap` by hand on every change. `FigureCanvasSlicer` is a `QWidget`, so it drops into any
+layout and repaints itself via `draw_idle()`.
+
+---
+
+## 2. What is in the change
+
+- **`Base/Python/slicer/matplotlibbackend.py`** — the backend.
+  `FigureCanvasSlicer`, `NavigationToolbar2Slicer`, `FigureManagerSlicer`, `TimerSlicer`,
+  and an `enable()` convenience helper. Selected as `module://slicer.matplotlibbackend`.
+- **`Base/Python/slicer/tests/test_slicer_matplotlibbackend.py`** — 15 unit tests, registered
+  with CTest and skipped automatically when Matplotlib is not installed, so CI without
+  Matplotlib is unaffected.
+- **`Docs/developer_guide/script_repository/plots.md`** — corrected explanation plus worked
+  examples: a basic interactive plot, embedding in a module panel, a live histogram wired
+  into the Four-Up Plot layout, and a seaborn segment-statistics dashboard.
+- **CMake registration** for the module and the test.
+
+Verified working: pan/zoom/home, all seven toolbar actions, `matplotlib.widgets`, `pick_event`,
+`FuncAnimation`, `new_timer`, key/mouse/wheel/resize event delivery with upstream-compatible
+key names, `savefig`, HiDPI via `devicePixelRatioF`, blitting, the zoom rubber band, cursor
+changes, and `close_event`.
+
+---
+
+## 3. Approaches that were considered and rejected
+
+These are recorded because several of them look like the obvious answer.
+
+**Restore Tcl/Tk to the superbuild so `TkAgg` works again.**
+Tk was removed deliberately as unsupported/deprecated. Re-adding an entire GUI toolkit to
+recover one backend would mean pumping Tk's event loop alongside Qt's, and the result is a
+foreign-looking top-level window that cannot be embedded in a Slicer layout or module panel.
+Large cost, poor result.
+
+**Ship PyQt5/PySide2/PySide6 so Matplotlib's `QtAgg` works.**
+Rejected, and now explicitly warned against in the docs. Two independently initialized Qt
+libraries in one process is the actual source of the crashes attributed to Matplotlib. This
+is a trap to close, not a path to take.
+
+**Keep recommending `WXAgg`.**
+This was the previously documented "interactive" route. It requires pip-installing wxPython,
+pulls a third GUI toolkit into the process, and produces windows that cannot be embedded in
+Slicer's UI. Left in the docs for continuity, but demoted in favour of the built-in backend.
+
+**Adapt Matplotlib's existing `backend_qt` to PythonQt via a shim module.**
+Superficially attractive — reuse upstream's Qt backend by presenting PythonQt as though it
+were QtPy. In practice `backend_qt` depends on a large, version-specific slice of the Qt
+binding surface: the `QtCore`/`QtGui`/`QtWidgets` split, enum access patterns, signal/slot
+connection styles, and private helpers such as `_enum()` and `_getSaveFileName`. A shim would
+have to track Matplotlib's internals release by release. Writing a small backend against the
+stable, public `backend_bases` API is considerably less fragile.
+
+**Mirror upstream's multiple inheritance, `class FigureCanvasQT(FigureCanvasBase, QWidget)`.**
+PythonQt wraps C++ classes dynamically, and combining such a wrapper with a second Python
+base class in one `class` statement is outside its supported surface. This PR uses composition
+instead: `FigureCanvasSlicer(FigureCanvasAgg)` *owns* a `_CanvasWidget(qt.QWidget)`, reachable
+via `canvas.get_widget()` (or the `widget` property). The cost is one extra indirection and a
+small divergence from upstream's class shape; the benefit is staying inside documented
+PythonQt behaviour.
+
+**Intercept input with an `eventFilter` or the `event()` catch-all instead of per-event handlers.**
+Both were probed and both work under PythonQt. Rejected anyway: overriding the individual
+handlers (`mousePressEvent`, `wheelEvent`, `keyPressEvent`, …) is clearer, matches upstream's
+structure, and probes confirmed every handler override is delivered.
+
+**Render plots through Qt WebEngine with a JavaScript plotting library (mpld3, Plotly).**
+This does not make *Matplotlib* interactive; it replaces it with a different API that has no
+`matplotlib.widgets` and no `FuncAnimation`, while adding a heavy dependency and a
+serialization boundary.
+
+**Rely on SlicerJupyter's `slicernb.MatplotlibDisplay`.**
+Only applies inside a notebook kernel, and still produces static images. It does not help the
+desktop application.
+
+---
+
+## 4. Notes for reviewers
+
+Because the backend lives inside the `slicer` package, **adding the source directory to
+`sys.path` or to Slicer's "additional module paths" will not make it importable** — `slicer`
+has already been imported from the install tree, and the additional-module-paths setting
+scans for `ScriptedLoadableModule` classes rather than adding Python import paths. Pointing
+that setting at `Base/Python/slicer` also puts the directory on `sys.path`, where
+`slicer/packaging.py` shadows the real `packaging` distribution and breaks
+`slicer.util.pip_install`.
+
+To try the branch against an existing install without rebuilding, extend the package path in
+`.slicerrc.py`:
+
+```python
+import slicer as _slicer
+_slicerSourceDir = r"&lt;checkout&gt;/Base/Python/slicer"
+if _slicerSourceDir not in _slicer.__path__:
+    _slicer.__path__.insert(0, _slicerSourceDir)
+```
+
+---
+
+## 5. Testing
+
+Exercised on Slicer 5.130.0-2026-09-29, 5.12.1, Qt 5.15.2, Python 3.12.10, Matplotlib 3.11.2:
+
+- 15 unit tests (`test_slicer_matplotlibbackend.py`), run under `--no-main-window`
+- a 22-check functional suite driving real Qt events through pan, zoom, picking, widgets,
+  animation, resize, save and close
+- a 19-case probe of cursors, blitting, the rubber band, the event loop, full-screen, key
+  translation and toolbar icons
+- every code snippet in the updated documentation, executed verbatim as written
+
+## 6. Known gaps
+
+- **Qt 6 is guarded but unexercised.** The three known breaking changes are handled
+  defensively — `QMouseEvent.position()` vs `x()`/`y()`, `XButton1/2` vs `BackButton`/
+  `ForwardButton`, and `QEventLoop.exec_()` vs `exec()` — but no Qt 6 build was available to
+  run them.
+- **Linux and macOS are untested**, specifically the `xcb` scroll-event special case and
+  Retina device-pixel-ratio handling.
+- **`configure_subplots` calls `figure.tight_layout()`** rather than opening the subplot-tool
+  dialog. Deliberate simplification; straightforward to extend later.</span></p>
+  </div>
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
 
 ---
