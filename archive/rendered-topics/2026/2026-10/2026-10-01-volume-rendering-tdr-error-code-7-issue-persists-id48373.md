@@ -3,7 +3,7 @@ topic_id: 48373
 title: "Volume Rendering TDR ERROR CODE 7 issue persists"
 date: 2026-10-01
 url: https://discourse.slicer.org/t/48373
-last_bumped: 2026-10-02T08:55:14.309Z
+last_bumped: 2026-10-02T17:29:39.139Z
 ---
 
 # Volume Rendering TDR ERROR CODE 7 issue persists
@@ -46,5 +46,12 @@ Tom</p>
 <p>Volume rendering was always set to Normal quality and VTK GPU Ray Casting mode.<br>
 Thank you for the help Murat!<br>
 Tom</p>
+
+---
+
+## Post #4 by @muratmaga (2026-10-02 17:29 UTC)
+
+<p>This specs are oonly for the computer (CPU + RAM etc), and they are good. But it doesn’t list the GPU. Go to your task manager and switch to gpu and capture the model and specs from there.</p>
+<p>Your volume would require a GPU with at least 24GB of texture memory to work.</p>
 
 ---

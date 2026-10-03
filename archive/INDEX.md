@@ -1,6 +1,6 @@
 # Slicer Discourse Archive Index
 
-Last updated: 2026-10-02 09:05 UTC
+Last updated: 2026-10-03 08:38 UTC
 
 ## Archive Contents
 
@@ -15,7 +15,13 @@ Last updated: 2026-10-02 09:05 UTC
 - [README.md](archive/rendered-topics/2022/2022-04/README.md)
 - [README.md](archive/rendered-topics/2022/2022-03/README.md)
 - [README.md](archive/rendered-topics/2022/2022-01/README.md)
+- [recommended vr headset](archive/rendered-topics/2022/2022-09/2022-09-30-recommended-vr-headset-id25504.md)
+- [segmentationunet](archive/rendered-topics/2022/2022-09/2022-09-30-segmentationunet-id25497.md)
+- [the modified parameters in drr generator](archive/rendered-topics/2022/2022-09/2022-09-30-the-modified-parameters-in-drr-generator-id25493.md)
 - [tranformation of labelmap not working on script](archive/rendered-topics/2022/2022-09/2022-09-30-tranformation-of-labelmap-not-working-on-script-id25499.md)
+- [integrate an existing script to 3d slicer](archive/rendered-topics/2022/2022-09/2022-09-27-integrate-an-existing-script-to-3d-slicer-id25452.md)
+- [rvesselx dont show current node placement help option](archive/rendered-topics/2022/2022-09/2022-09-27-rvesselx-dont-show-current-node-placement-help-option-id25454.md)
+- [slicervmtk and slicer version 5 1 0 revision 31159](archive/rendered-topics/2022/2022-09/2022-09-27-slicervmtk-and-slicer-version-5-1-0-revision-31159-id25453.md)
 - [valve motion for cfd fsi simulation](archive/rendered-topics/2022/2022-09/2022-09-27-valve-motion-for-cfd-fsi-simulation-id25450.md)
 - [model registration from fiducial point](archive/rendered-topics/2022/2022-09/2022-09-28-model-registration-from-fiducial-point-id25462.md)
 - [pyhocon exceptions configmissingexception no configuration s](archive/rendered-topics/2022/2022-09/2022-09-28-pyhocon-exceptions-configmissingexception-no-configuration-s-id25457.md)
@@ -34,9 +40,8 @@ Last updated: 2026-10-02 09:05 UTC
 - [selected segment visibility](archive/rendered-topics/2022/2022-09/2022-09-29-selected-segment-visibility-id25482.md)
 - [how to create new segmentation from growing margins](archive/rendered-topics/2022/2022-09/2022-09-30-how-to-create-new-segmentation-from-growing-margins-id25503.md)
 - [is it possible to run cfd simulation in slicer](archive/rendered-topics/2022/2022-09/2022-09-30-is-it-possible-to-run-cfd-simulation-in-slicer-id25500.md)
-- [recommended vr headset](archive/rendered-topics/2022/2022-09/2022-09-30-recommended-vr-headset-id25504.md)
-- [segmentationunet](archive/rendered-topics/2022/2022-09/2022-09-30-segmentationunet-id25497.md)
-- [the modified parameters in drr generator](archive/rendered-topics/2022/2022-09/2022-09-30-the-modified-parameters-in-drr-generator-id25493.md)
+- [automatically run a python script from slicer for deep learn](archive/rendered-topics/2022/2022-09/2022-09-23-automatically-run-a-python-script-from-slicer-for-deep-learn-id25411.md)
+- [features confounded by the volume or roi](archive/rendered-topics/2022/2022-09/2022-09-23-features-confounded-by-the-volume-or-roi-id25413.md)
 - [open nwb files](archive/rendered-topics/2022/2022-09/2022-09-23-open-nwb-files-id25412.md)
 - [reload the slice view automatically after reorientation](archive/rendered-topics/2022/2022-09/2022-09-23-reload-the-slice-view-automatically-after-reorientation-id25410.md)
 - [saving and reloading a parameter](archive/rendered-topics/2022/2022-09/2022-09-23-saving-and-reloading-a-parameter-id25408.md)
@@ -54,8 +59,3 @@ Last updated: 2026-10-02 09:05 UTC
 - [padding of 3d images](archive/rendered-topics/2022/2022-09/2022-09-26-padding-of-3d-images-id25431.md)
 - [segmentationunet logic module](archive/rendered-topics/2022/2022-09/2022-09-26-segmentationunet-logic-module-id25433.md)
 - [errors when using drr generator](archive/rendered-topics/2022/2022-09/2022-09-27-errors-when-using-drr-generator-id25448.md)
-- [how to apply displacement to new volume](archive/rendered-topics/2022/2022-09/2022-09-27-how-to-apply-displacement-to-new-volume-id25445.md)
-- [how to show the number of selected pixels in one single slic](archive/rendered-topics/2022/2022-09/2022-09-27-how-to-show-the-number-of-selected-pixels-in-one-single-slic-id25447.md)
-- [integrate an existing script to 3d slicer](archive/rendered-topics/2022/2022-09/2022-09-27-integrate-an-existing-script-to-3d-slicer-id25452.md)
-- [rvesselx dont show current node placement help option](archive/rendered-topics/2022/2022-09/2022-09-27-rvesselx-dont-show-current-node-placement-help-option-id25454.md)
-- [slicervmtk and slicer version 5 1 0 revision 31159](archive/rendered-topics/2022/2022-09/2022-09-27-slicervmtk-and-slicer-version-5-1-0-revision-31159-id25453.md)

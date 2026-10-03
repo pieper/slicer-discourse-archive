@@ -3,7 +3,7 @@ topic_id: 48238
 title: "New extension: OMEZarr - open OME-Zarr images directly in Slicer"
 date: 2026-09-23
 url: https://discourse.slicer.org/t/48238
-last_bumped: 2026-09-23T17:23:04.862Z
+last_bumped: 2026-10-02T17:55:21.297Z
 ---
 
 # New extension: OMEZarr - open OME-Zarr images directly in Slicer
@@ -196,5 +196,14 @@ Error: Loading s3://ome-zarr-scivis/v0.5/96x2/marmoset_neurons.ome.zarr - Failed
 ## Post #6 by @muratmaga (2026-09-23 17:23 UTC)
 
 <p>PR is open <a href="https://github.com/fideus-labs/SlicerOMEZarr/pull/13" class="inline-onebox" rel="noopener nofollow ugc">Keep oblique directions by writing an OME-Zarr 0.6 (RFC-5) affine by muratmaga · Pull Request #13 · fideus-labs/SlicerOMEZarr · GitHub</a></p>
+
+---
+
+## Post #7 by @muratmaga (2026-10-02 17:55 UTC)
+
+<p>I made some changes in my fork to enable streaming and volume rendering with help of Claude. The prototype is working acceptably, if anyone is interested: <a href="https://github.com/muratmaga/SlicerOMEZarr" class="inline-onebox" rel="noopener nofollow ugc">GitHub - muratmaga/SlicerOMEZarr: 3D Slicer extension to open OME-Zarr (OME-NGFF) images, built on ngff-zarr · GitHub</a></p>
+<p>This is with a 36GB dataset. It is hard wired to the module, so you don’t actually have to type the URl. Texture size is clamped at either 2048 (if it can’t detect programmatically) or whatever it is reported by the system.</p>
+<p>It performs ok on my macbook as well. Suggestions, improvements are welcomed.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/5/c/5c098449647c6fe528a009706fa0edf1844c55d8.jpeg" data-download-href="/uploads/short-url/d8cjDPs4mO5CFsIKbg4ABtxpLxS.jpeg?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/5/c/5c098449647c6fe528a009706fa0edf1844c55d8_2_690x278.jpeg" alt="image" data-base62-sha1="d8cjDPs4mO5CFsIKbg4ABtxpLxS" width="690" height="278" srcset="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/5/c/5c098449647c6fe528a009706fa0edf1844c55d8_2_690x278.jpeg, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/5/c/5c098449647c6fe528a009706fa0edf1844c55d8_2_1035x417.jpeg 1.5x, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/5/c/5c098449647c6fe528a009706fa0edf1844c55d8_2_1380x556.jpeg 2x" data-dominant-color="4A4A49"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">image</span><span class="informations">1920×774 230 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
 
 ---

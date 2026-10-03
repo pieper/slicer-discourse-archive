@@ -3,7 +3,7 @@ topic_id: 48375
 title: "DentalSegmentator : error loading results : failt to load the segmentation. "
 date: 2026-10-01
 url: https://discourse.slicer.org/t/48375
-last_bumped: 2026-10-02T07:48:34.260Z
+last_bumped: 2026-10-02T12:50:40.390Z
 ---
 
 # DentalSegmentator : error loading results : failt to load the segmentation. 
@@ -162,5 +162,20 @@ cpu_count = os.cpu_count() or 1
 os.environ["nnUNet_n_proc_DA"] = str(min(12, cpu_count))
 os.environ["nnUNet_def_n_proc"] = str(min(8, cpu_count))
 </code></pre>
+
+---
+
+## Post #5 by @samzou974 (2026-10-02 12:42 UTC)
+
+<p>It works well !! Thank you very much !<br>
+Do I will have to define the env fariables each time i use 3dSlicer or Dentalsegmentator ?</p>
+
+---
+
+## Post #6 by @Thibault_Pelletier (2026-10-02 12:50 UTC)
+
+<p>Happy that it works.</p>
+<p>For now, you can add it to your <code>.slicerrc.py</code> file and it will be applied automatically.<br>
+I have pushed a <a href="https://github.com/KitwareMedical/SlicerNNUnet/pull/30" rel="noopener nofollow ugc">fix in the SlicerNNUNet repo</a> that will apply this logic internally before starting the subprocess. It should be available in future Slicer versions.</p>
 
 ---
