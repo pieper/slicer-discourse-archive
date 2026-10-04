@@ -1,8 +1,9 @@
 ---
 topic_id: 12389
-title: "Working With Sutures 1 Voxel Wide On Infant Skull Ct"
+title: "Working with sutures <1 voxel wide on infant skull CT"
 date: 2020-07-06
 url: https://discourse.slicer.org/t/12389
+last_bumped: 2026-10-04T08:38:10.988Z
 ---
 
 # Working with sutures <1 voxel wide on infant skull CT
@@ -99,5 +100,11 @@ quick picture of the left temporal bone I was individually trying to capture - t
 </blockquote>
 </aside>
 <p>For the future: in Wrap Solidify effect, you can adjust the size of cavities that are carved out, so you can ensure that the brain cavity is not filled in.</p>
+
+---
+
+## Post #7 by @Gouv_Cyber (2026-10-04 08:38 UTC)
+
+<p>manual vs automated cranial landmarking on 3d ct skull models, any idea how to show sutures on threshold ?</p>
 
 ---

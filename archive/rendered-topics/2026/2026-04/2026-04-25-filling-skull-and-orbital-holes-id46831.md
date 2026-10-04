@@ -3,7 +3,7 @@ topic_id: 46831
 title: "Filling skull and orbital holes"
 date: 2026-04-25
 url: https://discourse.slicer.org/t/46831
-last_bumped: 2026-04-30T10:21:52.494Z
+last_bumped: 2026-10-04T08:52:01.503Z
 ---
 
 # Filling skull and orbital holes
@@ -94,5 +94,11 @@ I used a 3D Dicom file from the scan of the patient. Is that what you mean?</p>
 <li>volume render should appear in the 3D viewer<br>
 <a href="https://slicer.readthedocs.io/en/latest/user_guide/modules/volumerendering.html" class="inline-onebox" rel="noopener nofollow ugc">Volume rendering — 3D Slicer documentation</a></li>
 </ol>
+
+---
+
+## Post #11 by @Gouv_Cyber (2026-10-04 08:52 UTC)
+
+<p>bonjour mr, pouvez vous m donner le workflow pour afficher les sutures comme vous avez fait ?</p>
 
 ---
