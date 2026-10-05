@@ -3,7 +3,7 @@ topic_id: 48375
 title: "DentalSegmentator : error loading results : failt to load the segmentation. "
 date: 2026-10-01
 url: https://discourse.slicer.org/t/48375
-last_bumped: 2026-10-02T12:50:40.390Z
+last_bumped: 2026-10-05T06:58:39.641Z
 ---
 
 # DentalSegmentator : error loading results : failt to load the segmentation. 
@@ -177,5 +177,28 @@ Do I will have to define the env fariables each time i use 3dSlicer or Dentalseg
 <p>Happy that it works.</p>
 <p>For now, you can add it to your <code>.slicerrc.py</code> file and it will be applied automatically.<br>
 I have pushed a <a href="https://github.com/KitwareMedical/SlicerNNUnet/pull/30" rel="noopener nofollow ugc">fix in the SlicerNNUNet repo</a> that will apply this logic internally before starting the subprocess. It should be available in future Slicer versions.</p>
+
+---
+
+## Post #7 by @samzou974 (2026-10-05 04:05 UTC)
+
+<p>Je viens de capter que tu était français ! Merci pour ton aide et bravo pour Dentalsegmentator et ta collaboration avec la FFO !</p>
+<p>J’en profite pour te poser une dernière question : sais-tu si il y aurait un projet de segmentation automatique unitaire des dents avec Dentalsegmentator ?</p>
+<p>Ceci afin de proposer une solution open-source en remplacement des fonctions payantes de RELU ou Diagnocat ?</p>
+<p>Merci encore, bonne journée !</p>
+<p>Samuel JEU</p>
+
+---
+
+## Post #8 by @Thibault_Pelletier (2026-10-05 06:58 UTC)
+
+<p>Merci <a class="mention" href="/u/samzou974">@samzou974</a>,</p>
+<p>Pour le discourse, c’est mieux de garder les posts en anglais pour qu’ils profitent au plus grand nombre <img src="https://emoji.discourse-cdn.com/twitter/slight_smile.png?v=15" title=":slight_smile:" class="emoji" alt=":slight_smile:" loading="lazy" width="20" height="20"></p>
+<p>For English speakers:</p>
+<blockquote>
+<p><a class="mention" href="/u/samzou974">@samzou974</a> is asking if there is a similar project to DentalSegmentator with individual tooth segmentation to have an opensource alternative to RELU and Diagnocat.</p>
+</blockquote>
+<p><a href="https://openaccess.thecvf.com/content/CVPR2025/html/Bolelli_Segmenting_Maxillofacial_Structures_in_CBCT_Volumes_CVPR_2025_paper.html" rel="noopener nofollow ugc">Total Segmentator</a> now has support for individual tooth segmentation  (which should be available from the Total Segmentator extension).</p>
+<p>To my knowledge, it was trained on the tooth fairy challenge dataset.</p>
 
 ---
