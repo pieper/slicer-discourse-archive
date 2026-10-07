@@ -3,7 +3,7 @@ topic_id: 48374
 title: "Small screen-space \"dash\" appears at curve midpoint after cloning a Markups curve (Markups → Clone)"
 date: 2026-10-01
 url: https://discourse.slicer.org/t/48374
-last_bumped: 2026-10-01T14:51:40.503Z
+last_bumped: 2026-10-06T21:44:44.521Z
 ---
 
 # Small screen-space "dash" appears at curve midpoint after cloning a Markups curve (Markups → Clone)
@@ -83,5 +83,22 @@ last_bumped: 2026-10-01T14:51:40.503Z
 </ol>
 <p>I’ve checked the 5.12 release changelog including the 5.12.4 patch notes and found no mention of a related fix. The new arrow glyph types (Arrow2D etc.) are not in use here — both nodes’ glyph type is Sphere3D.</p>
 <p>Thank you!</p>
+
+---
+
+## Post #2 by @evan1 (2026-10-06 21:44 UTC)
+
+<p><strong>Solved: the dash is the curve’s Properties Label</strong></p>
+<p>Resolved. For anyone who finds this later, the small dash at the curve midpoint is the curve’s <strong>Properties Label</strong> (the label that displays the node name + measurements, anchored at the curve’s midpoint).</p>
+<p><strong>What I saw:</strong> After cloning a Markups curve (Markups → Clone) — and, as I noted in my update, also after simply renaming the curve node — a small dash appeared at the curve’s midpoint. It stayed at the midpoint when rotating the camera (so world-anchored, not actually a screen-space overlay as my title suggested), and it appeared in saved screenshots. Renaming a freshly drawn curve in an empty scene reproduced it.</p>
+<p><strong>Root cause:</strong> My saved markups display defaults use text size 0%, so the properties label’s text is invisible — but the label itself was still enabled, and a small piece of its geometry renders at the anchor point when the label is regenerated (which is why it appeared after clone and rename). With normal text size you’d simply see the label text at that spot.</p>
+<p><strong>Workaround:</strong> Markups module → Display → Advanced → uncheck <strong>Properties Label</strong>. To turn it off for all markups at once:</p>
+<p>python</p>
+<p>Copy</p>
+<pre><code class="lang-auto">for n in slicer.mrmlScene.GetNodesByClass('vtkMRMLNode'):
+    if n.IsA('vtkMRMLMarkupsNode') and n.GetDisplayNode():
+        n.GetDisplayNode().SetPropertiesLabelVisibility(False)
+</code></pre>
+<p>Possibly worth a look from developers: should any label geometry render when the text size is 0? Version 5.12.3, Windows 11</p>
 
 ---

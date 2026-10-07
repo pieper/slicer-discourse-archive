@@ -3,7 +3,7 @@ topic_id: 48246
 title: "Newbie - Need Annotation Help"
 date: 2026-09-23
 url: https://discourse.slicer.org/t/48246
-last_bumped: 2026-09-23T14:47:58.818Z
+last_bumped: 2026-10-06T14:14:39.822Z
 ---
 
 # Newbie - Need Annotation Help
@@ -21,5 +21,13 @@ last_bumped: 2026-09-23T14:47:58.818Z
 <p>when I go into segment editor and set up a new+ and name it and color code it and use any of the marking tools ie paint brush or the pencil connect-the-dots method, when I completely mark the fracture and right click to finish, it disappears</p>
 <p>I tried double left click, right click, a, enter, all the same result. And the annotation marked out just disappears. So I can’t even save the annotation with the marking I need</p>
 <p>what am I doing wrong?</p>
+
+---
+
+## Post #2 by @cpinter (2026-10-06 14:14 UTC)
+
+<p>Your volume may not be axis-aligned.</p>
+<p>Anyway, instead of guessing, it would be really useful if you could show us. Can you make a video?</p>
+<p>Please make sure you use the latest Slicer stable. Thank you!</p>
 
 ---

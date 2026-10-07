@@ -3,7 +3,7 @@ topic_id: 1544
 title: "Cardiac Agatston Scoring module"
 date: 2017-11-28
 url: https://discourse.slicer.org/t/1544
-last_bumped: 2026-03-31T00:46:56.914Z
+last_bumped: 2026-10-06T11:20:34.932Z
 ---
 
 # Cardiac Agatston Scoring module
@@ -422,5 +422,66 @@ slices interpolation, reslicing with 3mm and start the algo ?</p>
   <div style="clear: both"></div>
 </aside>
 
+
+---
+
+## Post #37 by @ruchkin.pet (2026-10-06 11:20 UTC)
+
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/9/7/97ee488d9e7056b95c7dcb7e844c6a39f4e4526a.jpeg" data-download-href="/uploads/short-url/lG2CjaMydyVdXmKY7lrqJ9m9eoG.jpeg?dl=1" title="изображение" rel="noopener nofollow ugc"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/9/7/97ee488d9e7056b95c7dcb7e844c6a39f4e4526a_2_690x396.jpeg" alt="изображение" data-base62-sha1="lG2CjaMydyVdXmKY7lrqJ9m9eoG" width="690" height="396" srcset="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/9/7/97ee488d9e7056b95c7dcb7e844c6a39f4e4526a_2_690x396.jpeg, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/9/7/97ee488d9e7056b95c7dcb7e844c6a39f4e4526a_2_1035x594.jpeg 1.5x, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/9/7/97ee488d9e7056b95c7dcb7e844c6a39f4e4526a_2_1380x792.jpeg 2x" data-dominant-color="8C8C92"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">изображение</span><span class="informations">1918×1101 294 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/7/d/7de7e316907aefc77ec88b3e8cfdfeb041ac4496.jpeg" data-download-href="/uploads/short-url/hXOuYg8MAkPI6Qp6KpPWRrIq4rI.jpeg?dl=1" title="изображение" rel="noopener nofollow ugc"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/7/d/7de7e316907aefc77ec88b3e8cfdfeb041ac4496_2_690x385.jpeg" alt="изображение" data-base62-sha1="hXOuYg8MAkPI6Qp6KpPWRrIq4rI" width="690" height="385" srcset="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/7/d/7de7e316907aefc77ec88b3e8cfdfeb041ac4496_2_690x385.jpeg, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/7/d/7de7e316907aefc77ec88b3e8cfdfeb041ac4496_2_1035x577.jpeg 1.5x, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/7/d/7de7e316907aefc77ec88b3e8cfdfeb041ac4496_2_1380x770.jpeg 2x" data-dominant-color="9D9399"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">изображение</span><span class="informations">1971×1101 349 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
+<p>Good afternoon, colleagues! Thank you for the excellent program, as well as for the Agatson Scoring add‑on, which is extremely necessary in clinical practice. Special thanks to Andras Lasso and BRAINSia for the work done. Unfortunately, my programming skills are not very good, so I couldn’t install the add‑on on Slicer version 5.12.4. Fortunately, with the help of the GLM 5.3 Flash AI agent, I managed to write a script that allows running this useful module with a certain addition — ROI selection in conditions where the assessment is carried out based on chest CT data.</p>
+<p>I’m sorry, I couldn’t find a way to attach the archive with the script, but I’m attaching a link to Google Disk with the archive.</p>
+<aside class="onebox googledrive" data-onebox-src="https://drive.google.com/file/d/1YuH6ZErA8Oshr6PT9TCRR27tQWSgVdeS/view?usp=sharing">
+  <header class="source">
+
+      <a href="https://drive.google.com/file/d/1YuH6ZErA8Oshr6PT9TCRR27tQWSgVdeS/view?usp=sharing" target="_blank" rel="noopener nofollow ugc">drive.google.com</a>
+  </header>
+
+  <article class="onebox-body">
+      <a href="https://drive.google.com/file/d/1YuH6ZErA8Oshr6PT9TCRR27tQWSgVdeS/view?usp=sharing" target="_blank" rel="noopener nofollow ugc"><span class="googledocs-onebox-logo g-drive-logo"></span></a>
+
+
+
+<h3><a href="https://drive.google.com/file/d/1YuH6ZErA8Oshr6PT9TCRR27tQWSgVdeS/view?usp=sharing" target="_blank" rel="noopener nofollow ugc">AgatstonScoring_Slicer-5.12.zip</a></h3>
+
+<p>Google Drive file.</p>
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
+<p>Below is the instruction text provided by GLM 5.3 Flash.</p>
+<p>I’ll package the module with a detailed bilingual instruction, an automatic installer script, and a manual fallback — then test the installer locally before zipping.</p>
+<p>Now the detailed installation instruction (English + Russian):</p>
+<p>Now testing the installer script locally — including whether <code>slicer.app.quit()</code> makes Slicer exit cleanly by itself.</p>
+<p>Installer verified — Slicer registers the module and exits cleanly. Now removing the test dist path from my local Slicer settings (so only the real module path remains), then building the zip.</p>
+<p>Wrong drive in my check — the settings file is on D:. Re-checking.</p>
+<p>The cleanup went wrong — the path list is now empty. Let me diagnose with proper logging to file.</p>
+<p>Settings restored to the single correct module path (my cleanup script had emptied the list — fixed). Now building the final zip.</p>
+<p><strong>The installer package is ready: <a>AgatstonScoring_Slicer-5.12.zip</a></strong> (on your desktop; a copy is also in <code>C:\Users\arozh\.zcode\workspace\default\_agatston\</code>). It contains the module, a full instruction file in English and Russian, and an automatic installer. I tested the installer on your PC — it registers the module and shuts Slicer down cleanly.</p>
+<p><strong>What’s inside the zip:</strong></p>
+<ul>
+<li><code>AgatstonScoring\AgatstonScoring.py</code> — the module itself (current version with turquoise highlight, slice range, ROI, per-slice tables)</li>
+<li><code>AgatstonScoring\README.md</code> — module documentation</li>
+<li><code>INSTALL.md</code> — detailed instructions (EN + RU)</li>
+<li><code>install_module.bat</code> + <code>register_module_path.py</code> — automatic installer</li>
+</ul>
+<p><strong>Installation on another PC — three ways:</strong></p>
+<p><strong>Way A — through Slicer settings (recommended, always works):</strong></p>
+<ol>
+<li>Copy the <code>AgatstonScoring</code> folder (the one containing <code>AgatstonScoring.py</code>) to a permanent location, e.g. <code>C:\Users\&lt;name&gt;\SlicerModules\AgatstonScoring</code> — not inside the Slicer program folder.</li>
+<li>Start Slicer → <strong>Edit → Application Settings → Modules</strong>.</li>
+<li>Under <strong>Additional module paths</strong> click <strong>Add path</strong> and select that folder — exactly the folder that directly contains <code>AgatstonScoring.py</code> (Slicer doesn’t scan subfolders).</li>
+<li>Click OK and fully restart Slicer. The module appears in the <strong>Cardiac</strong> category (search “Agatston”).</li>
+</ol>
+<p><strong>Way B — automatic installer (Windows):</strong> extract the zip anywhere, double-click <code>install_module.bat</code>. It finds Slicer in the default location (<code>%LocalAppData%\``slicer.org``\3D Slicer 5.12.x</code>, or asks for the path if installed elsewhere), registers the module, prints <code>SUCCESS</code> and writes <code>install_log.txt</code>. Then just start Slicer.</p>
+<p><strong>Way C — manual settings edit (advanced):</strong> close Slicer, open <code>...\3D Slicer 5.12.4\slicer.org\Slicer-&lt;revision&gt;.ini</code> inside the install folder, and in the <code>[Modules]</code> section add <code>AdditionalPaths=C:/path/to/AgatstonScoring</code> (forward slashes), save, start Slicer.</p>
+<p>I hope my method will help someone use this module in clinical practice, and perhaps it will serve as a complement for future improvements to the program.</p>
 
 ---
