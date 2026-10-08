@@ -3,7 +3,7 @@ topic_id: 48373
 title: "Volume Rendering TDR ERROR CODE 7 issue persists"
 date: 2026-10-01
 url: https://discourse.slicer.org/t/48373
-last_bumped: 2026-10-02T17:29:39.139Z
+last_bumped: 2026-10-07T18:42:20.949Z
 ---
 
 # Volume Rendering TDR ERROR CODE 7 issue persists
@@ -53,5 +53,34 @@ Tom</p>
 
 <p>This specs are oonly for the computer (CPU + RAM etc), and they are good. But it doesn’t list the GPU. Go to your task manager and switch to gpu and capture the model and specs from there.</p>
 <p>Your volume would require a GPU with at least 24GB of texture memory to work.</p>
+
+---
+
+## Post #5 by @ThomasVanParys (2026-10-07 10:56 UTC)
+
+<p>Hi Murat,<br>
+Apologies for the delay in responding. The desktop has a NVIDIA Quatro RTX 4000, total GPU memory: 110 GB, Shared GPU memory: 102 GB.<br>
+I have spoken with our faculty IT about increasing the TDR delay value in Registry, or use CPU based volume rendering instead. I am at a loss here, because the specs seem fine.<br>
+Open to ANY suggestions.<br>
+Thank you!</p>
+
+---
+
+## Post #6 by @muratmaga (2026-10-07 15:00 UTC)
+
+<p>That graphics card has only 8GB of dedicated memory. It is surprising, it even tries to show the data. Most often it simply shows an empty box.</p>
+<p>Given your scan is a multiple unrelated objects, you best bet is to use the ImageStacks in SlicerMorph, and import one by one as individual volumes using the ROI option. Otherwise your data is too big for that gpu.</p>
+
+---
+
+## Post #7 by @ThomasVanParys (2026-10-07 16:00 UTC)
+
+<p>Thank you Murat - as this machine was setup by our faculty IT for the specific use of 3D imaging and handling mCT datasets, do you recommend upgrading the GPU graphics card to one with more dedicated memory? If so, what minimum GB do you recomment?</p>
+
+---
+
+## Post #8 by @muratmaga (2026-10-07 18:42 UTC)
+
+<p>RTX4000 is the lowest of RTX series. I would suggest something like the newer A5000, or gaming cards like geforce 4090 ro 5090. It is really a function of available power in the system, airflow and the slots.</p>
 
 ---

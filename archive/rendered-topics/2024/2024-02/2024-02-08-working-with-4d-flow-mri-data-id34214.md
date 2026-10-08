@@ -3,7 +3,7 @@ topic_id: 34214
 title: "Working with 4D flow MRI data"
 date: 2024-02-08
 url: https://discourse.slicer.org/t/34214
-last_bumped: 2026-08-14T15:45:12.951Z
+last_bumped: 2026-10-07T19:32:09.475Z
 ---
 
 # Working with 4D flow MRI data
@@ -107,5 +107,11 @@ University Health Network</p>
 <p>I wonder do you have published the plugin by now?</p>
 <p>I would be very interested to be able to work with this type of data in Slicer.</p>
 <p>Thanks !</p>
+
+---
+
+## Post #15 by @klns23 (2026-10-07 19:32 UTC)
+
+<p>Hello, it’s been a couple years, checking in again on this topic as it remains of interest. Is the Siemens CS 4D flow image importer Slicer module now available? Is it perhaps packaged as part of some other extension? Thank you.</p>
 
 ---
