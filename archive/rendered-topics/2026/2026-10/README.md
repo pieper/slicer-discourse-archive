@@ -8,3 +8,5 @@
 - [2026 10 07 2026 10 13 Weekly Meeting](2026-10-07-2026-10-13-weekly-meeting-id48435.md)
 - [2026 10 07 Density And Surface Area Of A Segment On A Single Axial Cut](2026-10-07-density-and-surface-area-of-a-segment-on-a-single-axial-cut-id48437.md)
 - [2026 10 07 Image Capture Shortcuts With Transparent Background](2026-10-07-image-capture-shortcuts-with-transparent-background-id48422.md)
+- [2026 10 08 Ai Driven Upper Airway Analysis](2026-10-08-ai-driven-upper-airway-analysis-id48443.md)
+- [2026 10 08 Dose Calculating Alogorithm And Calibration Curve For Slicer](2026-10-08-dose-calculating-alogorithm-and-calibration-curve-for-slicer-id48451.md)

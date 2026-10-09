@@ -1,10 +1,10 @@
 # Slicer Discourse Archive Index
 
-Last updated: 2026-10-08 09:36 UTC
+Last updated: 2026-10-09 09:43 UTC
 
 ## Archive Contents
 
-- Total rendered topics: 19234
+- Total rendered topics: 19236
 - Raw JSON files: 0
 
 ## Recent Topics
@@ -15,19 +15,6 @@ Last updated: 2026-10-08 09:36 UTC
 - [README.md](archive/rendered-topics/2022/2022-04/README.md)
 - [README.md](archive/rendered-topics/2022/2022-03/README.md)
 - [README.md](archive/rendered-topics/2022/2022-01/README.md)
-- [segmentationunet](archive/rendered-topics/2022/2022-09/2022-09-30-segmentationunet-id25497.md)
-- [the modified parameters in drr generator](archive/rendered-topics/2022/2022-09/2022-09-30-the-modified-parameters-in-drr-generator-id25493.md)
-- [tranformation of labelmap not working on script](archive/rendered-topics/2022/2022-09/2022-09-30-tranformation-of-labelmap-not-working-on-script-id25499.md)
-- [pyhocon exceptions configmissingexception no configuration s](archive/rendered-topics/2022/2022-09/2022-09-28-pyhocon-exceptions-configmissingexception-no-configuration-s-id25457.md)
-- [remove slice views compare1 from scene](archive/rendered-topics/2022/2022-09/2022-09-28-remove-slice-views-compare1-from-scene-id25460.md)
-- [scale issue with auto3dgm](archive/rendered-topics/2022/2022-09/2022-09-28-scale-issue-with-auto3dgm-id25471.md)
-- [segmentation template](archive/rendered-topics/2022/2022-09/2022-09-28-segmentation-template-id25468.md)
-- [volumes active volume and lookup table](archive/rendered-topics/2022/2022-09/2022-09-28-volumes-active-volume-and-lookup-table-id25463.md)
-- [where to call logic functions of module](archive/rendered-topics/2022/2022-09/2022-09-28-where-to-call-logic-functions-of-module-id25458.md)
-- [ask the easily install pyradiomic pip or conda at mac os mon](archive/rendered-topics/2022/2022-09/2022-09-29-ask-the-easily-install-pyradiomic-pip-or-conda-at-mac-os-mon-id25477.md)
-- [how to change the default color of a model](archive/rendered-topics/2022/2022-09/2022-09-29-how-to-change-the-default-color-of-a-model-id25481.md)
-- [import 3dus stradwin files](archive/rendered-topics/2022/2022-09/2022-09-29-import-3dus-stradwin-files-id25480.md)
-- [intensity segmenter range file](archive/rendered-topics/2022/2022-09/2022-09-29-intensity-segmenter-range-file-id25478.md)
 - [is there a way to perform simple mathematics on voxel values](archive/rendered-topics/2022/2022-09/2022-09-29-is-there-a-way-to-perform-simple-mathematics-on-voxel-values-id25479.md)
 - [lassoan slicer notebook](archive/rendered-topics/2022/2022-09/2022-09-29-lassoan-slicer-notebook-id25483.md)
 - [mandibular segmentation with reconstruction plate](archive/rendered-topics/2022/2022-09/2022-09-29-mandibular-segmentation-with-reconstruction-plate-id25485.md)
@@ -35,11 +22,9 @@ Last updated: 2026-10-08 09:36 UTC
 - [how to create new segmentation from growing margins](archive/rendered-topics/2022/2022-09/2022-09-30-how-to-create-new-segmentation-from-growing-margins-id25503.md)
 - [is it possible to run cfd simulation in slicer](archive/rendered-topics/2022/2022-09/2022-09-30-is-it-possible-to-run-cfd-simulation-in-slicer-id25500.md)
 - [recommended vr headset](archive/rendered-topics/2022/2022-09/2022-09-30-recommended-vr-headset-id25504.md)
-- [ik solution failed and the robot cant move to the entry poin](archive/rendered-topics/2022/2022-09/2022-09-25-ik-solution-failed-and-the-robot-cant-move-to-the-entry-poin-id25426.md)
-- [weekly meeting](archive/rendered-topics/2022/2022-09/2022-09-26-2022-09-26-weekly-meeting-id25441.md)
-- [3d measurements of abdominal aortic aneurysms workflow](archive/rendered-topics/2022/2022-09/2022-09-26-3d-measurements-of-abdominal-aortic-aneurysms-workflow-id25438.md)
-- [curvature of bone](archive/rendered-topics/2022/2022-09/2022-09-26-curvature-of-bone-id25440.md)
-- [heatmap of brain](archive/rendered-topics/2022/2022-09/2022-09-26-heatmap-of-brain-id25439.md)
+- [segmentationunet](archive/rendered-topics/2022/2022-09/2022-09-30-segmentationunet-id25497.md)
+- [the modified parameters in drr generator](archive/rendered-topics/2022/2022-09/2022-09-30-the-modified-parameters-in-drr-generator-id25493.md)
+- [tranformation of labelmap not working on script](archive/rendered-topics/2022/2022-09/2022-09-30-tranformation-of-labelmap-not-working-on-script-id25499.md)
 - [i have a trouble with building error msb8066 can you help me](archive/rendered-topics/2022/2022-09/2022-09-26-i-have-a-trouble-with-building-error-msb8066-can-you-help-me-id25432.md)
 - [markups roi cannot be loaded from json file](archive/rendered-topics/2022/2022-09/2022-09-26-markups-roi-cannot-be-loaded-from-json-file-id25430.md)
 - [materialize mimics 3d reconstructed model correspondence to](archive/rendered-topics/2022/2022-09/2022-09-26-materialize-mimics-3d-reconstructed-model-correspondence-to-id25436.md)
@@ -53,9 +38,24 @@ Last updated: 2026-10-08 09:36 UTC
 - [slicervmtk and slicer version 5 1 0 revision 31159](archive/rendered-topics/2022/2022-09/2022-09-27-slicervmtk-and-slicer-version-5-1-0-revision-31159-id25453.md)
 - [valve motion for cfd fsi simulation](archive/rendered-topics/2022/2022-09/2022-09-27-valve-motion-for-cfd-fsi-simulation-id25450.md)
 - [model registration from fiducial point](archive/rendered-topics/2022/2022-09/2022-09-28-model-registration-from-fiducial-point-id25462.md)
+- [pyhocon exceptions configmissingexception no configuration s](archive/rendered-topics/2022/2022-09/2022-09-28-pyhocon-exceptions-configmissingexception-no-configuration-s-id25457.md)
+- [remove slice views compare1 from scene](archive/rendered-topics/2022/2022-09/2022-09-28-remove-slice-views-compare1-from-scene-id25460.md)
+- [scale issue with auto3dgm](archive/rendered-topics/2022/2022-09/2022-09-28-scale-issue-with-auto3dgm-id25471.md)
+- [segmentation template](archive/rendered-topics/2022/2022-09/2022-09-28-segmentation-template-id25468.md)
+- [volumes active volume and lookup table](archive/rendered-topics/2022/2022-09/2022-09-28-volumes-active-volume-and-lookup-table-id25463.md)
+- [where to call logic functions of module](archive/rendered-topics/2022/2022-09/2022-09-28-where-to-call-logic-functions-of-module-id25458.md)
+- [ask the easily install pyradiomic pip or conda at mac os mon](archive/rendered-topics/2022/2022-09/2022-09-29-ask-the-easily-install-pyradiomic-pip-or-conda-at-mac-os-mon-id25477.md)
+- [how to change the default color of a model](archive/rendered-topics/2022/2022-09/2022-09-29-how-to-change-the-default-color-of-a-model-id25481.md)
+- [import 3dus stradwin files](archive/rendered-topics/2022/2022-09/2022-09-29-import-3dus-stradwin-files-id25480.md)
+- [intensity segmenter range file](archive/rendered-topics/2022/2022-09/2022-09-29-intensity-segmenter-range-file-id25478.md)
 - [cant install extension](archive/rendered-topics/2022/2022-09/2022-09-22-cant-install-extension-id25398.md)
 - [flood filling and fast marching for head and neck tumours](archive/rendered-topics/2022/2022-09/2022-09-22-flood-filling-and-fast-marching-for-head-and-neck-tumours-id25390.md)
 - [how are points on the different dicom views axial sagital an](archive/rendered-topics/2022/2022-09/2022-09-22-how-are-points-on-the-different-dicom-views-axial-sagital-an-id25400.md)
 - [opacity in segmentation editor](archive/rendered-topics/2022/2022-09/2022-09-22-opacity-in-segmentation-editor-id25397.md)
 - [out of frame images are not equally spaced loaded image appe](archive/rendered-topics/2022/2022-09/2022-09-22-out-of-frame-images-are-not-equally-spaced-loaded-image-appe-id25396.md)
 - [segmentation of all teeth and its components](archive/rendered-topics/2022/2022-09/2022-09-22-segmentation-of-all-teeth-and-its-components-id25392.md)
+- [send dicom data using dicomweb for google healthcare api](archive/rendered-topics/2022/2022-09/2022-09-22-send-dicom-data-using-dicomweb-for-google-healthcare-api-id25401.md)
+- [variable slicer wc last changed date is expected to be defin](archive/rendered-topics/2022/2022-09/2022-09-22-variable-slicer-wc-last-changed-date-is-expected-to-be-defin-id25389.md)
+- [automatically run a python script from slicer for deep learn](archive/rendered-topics/2022/2022-09/2022-09-23-automatically-run-a-python-script-from-slicer-for-deep-learn-id25411.md)
+- [features confounded by the volume or roi](archive/rendered-topics/2022/2022-09/2022-09-23-features-confounded-by-the-volume-or-roi-id25413.md)
+- [open nwb files](archive/rendered-topics/2022/2022-09/2022-09-23-open-nwb-files-id25412.md)
