@@ -3,7 +3,7 @@ topic_id: 48210
 title: "Rendering of DICOM image failed with more than 4 volumes since version 12"
 date: 2026-09-21
 url: https://discourse.slicer.org/t/48210
-last_bumped: 2026-09-28T18:25:15.092Z
+last_bumped: 2026-10-09T14:20:45.518Z
 ---
 
 # Rendering of DICOM image failed with more than 4 volumes since version 12
@@ -232,5 +232,132 @@ Description: ITK ERROR: NrrdImageIO(0x44caeeb0): Write: Error writing /home/3DSl
 ## Post #19 by @pieper (2026-09-28 18:25 UTC)
 
 <p>This part of the log is probably enough for <a class="mention" href="/u/lassoan">@lassoan</a> or <a class="mention" href="/u/sunderlandkyl">@Sunderlandkyl</a> to diagnose.  It looks like the word <code>sequence</code> is being added multiple times and we should use some other method to generate the filenames.</p>
+
+---
+
+## Post #20 by @mhouse (2026-10-09 11:11 UTC)
+
+<p>So far I could find out, the value YBR_RCT is valid for the DICOM field PhotometricInterpretation.</p>
+<aside class="onebox allowlistedgeneric" data-onebox-src="https://dicom.innolitics.com/ciods/vl-whole-slide-microscopy-image/whole-slide-microscopy-image/00280004">
+  <header class="source">
+      <img src="https://dicom.innolitics.com/public/favicon/innolitics.ico" class="site-icon" alt="" width="48" height="48">
+
+      <a href="https://dicom.innolitics.com/ciods/vl-whole-slide-microscopy-image/whole-slide-microscopy-image/00280004" target="_blank" rel="noopener nofollow ugc">dicom.innolitics.com</a>
+  </header>
+
+  <article class="onebox-body">
+    
+
+<h3><a href="https://dicom.innolitics.com/ciods/vl-whole-slide-microscopy-image/whole-slide-microscopy-image/00280004" target="_blank" rel="noopener nofollow ugc">Photometric Interpretation Attribute – DICOM Standard Browser</a></h3>
+
+  <p>
+Specifies the intended interpretation of the pixel data.</p>
+
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
+<p>The error is displayed one time per volume of the 9 volumes dataset if it’s loaded via the DICOM browser for the generation of the thumbnail. In the meta data of this Multiphase sequence the field is populated with</p>
+<blockquote>
+<p>[0028,0004]	PhotometricInterpretation	MONOCHROME2	CS	12</p>
+</blockquote>
+<p>With the last preview version 5.13.0-2026-10-01 r35320 / f1b7931 there are also displayed some minor errors if the metadata view is opened:</p>
+<blockquote>
+<p>E: DcmElement: PixelData (7fe0,0010) larger (4294967295) than remaining bytes (0) in file, premature end of stream</p>
+</blockquote>
+<p>and if you display the sequence in any view:</p>
+<blockquote>
+<p>Switch to module:  “Data”<br>
+Switch to module:  “DICOM”<br>
+Traceback (most recent call last):<br>
+File “Slicer-5.13.0-2026-10-01-linux-amd64/lib/Slicer-5.13/qt-scripted-modules/DICOMLib/DICOMUtils.py”, line 938, in onNodeRemoved<br>
+loadedNodeIDs.remove(node.GetID())<br>
+ValueError: list.remove(x): x not in list</p>
+</blockquote>
+<p>So far I have not detected any problems which appears because of these errors. I can activate again the link for Steve for the download of the sequence if needed.</p>
+
+---
+
+## Post #21 by @fedorov (2026-10-09 13:26 UTC)
+
+<aside class="quote no-group quote-modified" data-username="mhouse" data-post="20" data-topic="48210">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="24" height="24" src="https://avatars.discourse-cdn.com/v4/letter/m/50afbb/48.png" class="avatar"> mhouse:</div>
+<blockquote>
+<p>So far I could find out, the value YBR_RCT is valid for the DICOM field PhotometricInterpretation.</p>
+<p><a href="https://dicom.innolitics.com/ciods/vl-whole-slide-microscopy-image/whole-slide-microscopy-image/00280004" class="inline-onebox">Photometric Interpretation Attribute – DICOM Standard Browser</a></p>
+</blockquote>
+</aside>
+<p>Right, but only for specific encodings - quoting from the same page as you linked above:</p>
+<blockquote>
+<p>The value shall be appropriate to the compression Transfer Syntax used, if any, and shall be MONOCHROME2 or RGB for uncompressed or lossless compressed Transfer Syntaxes that do not have defined color space transformations, YBR_ICT or RGB for irreversible JPEG 2000 Transfer Syntaxes, <strong>YBR_RCT or RGB for reversible JPEG 2000 Transfer Syntaxes</strong>, and YBR_FULL_422 or RGB for JPEG lossy compressed Transfer Syntaxes.</p>
+</blockquote>
+<p>What is the value of <code>TransferSyntaxUID</code> in your case?</p>
+
+---
+
+## Post #22 by @mhouse (2026-10-09 13:46 UTC)
+
+<p>The metadata does not contain the field (0002,0010) Transfer Syntax UID. Maybe it’s because of the multivolume sequence.</p>
+
+---
+
+## Post #23 by @mhouse (2026-10-09 13:51 UTC)
+
+<p>(post deleted by author)</p>
+
+---
+
+## Post #24 by @fedorov (2026-10-09 13:57 UTC)
+
+<p>The link you shared does not work for me - it says the file is not available.</p>
+<p>You would need to check that field in the original DICOM files - not in the node loaded into Slicer.</p>
+
+---
+
+## Post #25 by @mhouse (2026-10-09 13:59 UTC)
+
+<p>I know, I thought I’m sending it to Steve only. I have sent him a new link.</p>
+
+---
+
+## Post #26 by @mhouse (2026-10-09 14:04 UTC)
+
+<div class="md-table">
+<table>
+<thead>
+<tr>
+<th>(0002,0010)</th>
+<th>UI</th>
+<th>TransferSyntaxUID</th>
+<th>1.2.840.10008.1.2.4.90</th>
+</tr>
+</thead>
+</table>
+</div>
+
+---
+
+## Post #27 by @fedorov (2026-10-09 14:09 UTC)
+
+<p>That corresponds to lossless JPEG2000 compression (see <a href="https://dicom.nema.org/medical/dicom/current/output/chtml/part18/sect_8.7.3.3.2.html" class="inline-onebox">8.7.3.3.2&nbsp;Compressed Bulk Data Media Types</a>), so the value indeed appears to be valid. Maybe there is an issue with JPEG2000 support… If your goal is to load the data, I would probably try to convert DICOM to a sequence of volumes outside of Slicer, perhaps using <code>dcm2niix</code> - it might be easier to debug this way.</p>
+
+---
+
+## Post #28 by @mhouse (2026-10-09 14:20 UTC)
+
+<p>I will try it out, but it’s not important for me, as I see no issues in the app. I think it’s because of the handling of the multivolume sequence.</p>
+<p>The errors are displayed in the console as soon I open the DICOM browser, without any selection. Before I thought it’s first after I select the Multiphase sequence, because of the 9 errors.</p>
+<blockquote>
+<p>E: invalid value for ‘PhotometricInterpretation’ (YBR_RCT)</p>
+</blockquote>
 
 ---

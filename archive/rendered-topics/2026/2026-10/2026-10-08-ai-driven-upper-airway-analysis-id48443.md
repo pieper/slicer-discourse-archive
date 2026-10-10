@@ -3,7 +3,7 @@ topic_id: 48443
 title: "AI driven upper airway analysis"
 date: 2026-10-08
 url: https://discourse.slicer.org/t/48443
-last_bumped: 2026-10-08T22:55:06.921Z
+last_bumped: 2026-10-09T14:25:36.144Z
 ---
 
 # AI driven upper airway analysis
@@ -28,5 +28,11 @@ last_bumped: 2026-10-08T22:55:06.921Z
 ## Post #2 by @mau_igna_06 (2026-10-08 22:55 UTC)
 
 <p>For the airway you should be able to use vmtk, check out its Slicer extension. I think the analysis you want to do is similar to what is done using vmtk for aorta</p>
+
+---
+
+## Post #3 by @Algiz (2026-10-09 14:25 UTC)
+
+<p>I did use vmtk, although I had a lot of trouble shooting before I got it to work. I found that I didn’t get a clean representation since it’s only a line that I can color code between the marked points of the analysis.</p>
 
 ---
