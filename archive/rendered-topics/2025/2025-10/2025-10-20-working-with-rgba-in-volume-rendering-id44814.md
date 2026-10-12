@@ -1,8 +1,9 @@
 ---
 topic_id: 44814
-title: "Working With Rgba In Volume Rendering"
+title: "Working with RGBA in Volume Rendering"
 date: 2025-10-20
 url: https://discourse.slicer.org/t/44814
+last_bumped: 2026-10-12T08:50:15.060Z
 ---
 
 # Working with RGBA in Volume Rendering
@@ -159,5 +160,13 @@ url: https://discourse.slicer.org/t/44814
 </blockquote>
 </aside>
 <p><a class="mention" href="/u/sunderlandkyl">@Sunderlandkyl</a> <a class="mention" href="/u/lassoan">@lassoan</a> any thoughts on this?</p>
+
+---
+
+## Post #16 by @mhouse (2026-10-12 08:50 UTC)
+
+<p>The RGBA mode works fine for my purpose, but I want also to test it with the Independent mode.</p>
+<p>The Temporal MultiVolume sequences have 3 frames / components, each with a scalar range from -3024 to 3071, but the intensity range in the mapping settings are only possible to change from 0 to 1024, as also <a class="mention" href="/u/muratmaga">@muratmaga</a> found out.</p>
+<p>So far I have not looked in the code, if it’s hard coded.</p>
 
 ---

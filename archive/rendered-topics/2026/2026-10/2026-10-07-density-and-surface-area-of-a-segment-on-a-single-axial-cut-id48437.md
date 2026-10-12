@@ -3,7 +3,7 @@ topic_id: 48437
 title: "Density and surface area of a segment on a single axial cut"
 date: 2026-10-07
 url: https://discourse.slicer.org/t/48437
-last_bumped: 2026-10-08T15:59:04.267Z
+last_bumped: 2026-10-12T09:18:41.411Z
 ---
 
 # Density and surface area of a segment on a single axial cut
@@ -28,5 +28,22 @@ last_bumped: 2026-10-08T15:59:04.267Z
 <p>Hi! You can run “Segment Statistics” for your quantification based on label maps, the corresponding Scalar Volume and Closed Surface.<br>
 documentation: <a href="https://slicer.readthedocs.io/en/latest/user_guide/modules/segmentstatistics.html" rel="noopener nofollow ugc">Segment statistics — 3D Slicer documentation</a><br>
 Hope this help.</p>
+
+---
+
+## Post #3 by @Mahdi_H (2026-10-11 10:33 UTC)
+
+<p>Hello!</p>
+<p>Thank you so much for your reply!<br>
+It really means a lot.</p>
+<p>I checked the link and the segment statistics extension. However, it gives values for the whole segment, while what I need are surface area and density for the segment on a <strong>single axial slice</strong>.</p>
+<p>To note, the link mentions, <code>Segment Cross-Section Area</code> module in Sandbox extension for the cross sectional area of a segment on axial images, which is fair because I tried it and it works. However, is there any similar thing for the density?</p>
+<p>Thanks in advance.</p>
+
+---
+
+## Post #4 by @bjmufffff (2026-10-12 09:18 UTC)
+
+<p>Hello, you can try SementGeometry mudule(which also has cross-sectional area included) to compute Mean brightness of each slice of a segmentation.</p>
 
 ---

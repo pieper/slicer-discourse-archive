@@ -1,8 +1,9 @@
 ---
 topic_id: 5104
-title: "Calculating The Total Volume Of Organ Which Is Placed In Two"
+title: "Calculating the total volume of organ which is placed in two radiation fields"
 date: 2018-12-17
 url: https://discourse.slicer.org/t/5104
+last_bumped: 2026-10-12T03:34:35.367Z
 ---
 
 # Calculating the total volume of organ which is placed in two radiation fields
@@ -43,5 +44,16 @@ Thanks a lot</p>
 </blockquote>
 </aside>
 <p>Yes, what you described seems to be a good approach. If the segments that you created look correct in slice and 3D views then the computed volume will be correct and meaningful, too.</p>
+
+---
+
+## Post #4 by @A_Eskandari (2026-10-12 03:34 UTC)
+
+<p>hi evryone</p>
+<p>I would like to calculate the volume of the heart that lies within the radiation fields. To do this, I followed the steps I mentioned above: first, I converted the heart to a model, then imported the heart model and one of the radiation fields as separate segments into a new segmentation.</p>
+<p>In the next step, I use the logical operators effect in the Segment Editor module and select intersect. However, the intersection of the two segments is not calculated; instead, the entire heart segment is displayed again.</p>
+<p>This process worked in version 4.8.1, but in version 5.12.4, I am unable to calculate the intersection between the heart and the radiation field in most cases, as shown in the image below. Could you please advise me on how to resolve this issue?</p>
+<p>thanks a lot</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/c/5/c5f7481f976fc5d31d41001d18b83f50c0330f5b.jpeg" data-download-href="/uploads/short-url/sfhRlaxatrbUTkDWhSsoyHJTRX5.jpeg?dl=1" title="intersectiion" rel="noopener nofollow ugc"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/c/5/c5f7481f976fc5d31d41001d18b83f50c0330f5b_2_690x440.jpeg" alt="intersectiion" data-base62-sha1="sfhRlaxatrbUTkDWhSsoyHJTRX5" width="690" height="440" srcset="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/c/5/c5f7481f976fc5d31d41001d18b83f50c0330f5b_2_690x440.jpeg, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/c/5/c5f7481f976fc5d31d41001d18b83f50c0330f5b_2_1035x660.jpeg 1.5x, https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/c/5/c5f7481f976fc5d31d41001d18b83f50c0330f5b.jpeg 2x" data-dominant-color="2E4E38"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">intersectiion</span><span class="informations">1077×688 124 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
 
 ---
