@@ -1,10 +1,10 @@
 # Slicer Discourse Archive Index
 
-Last updated: 2026-10-12 09:54 UTC
+Last updated: 2026-10-13 09:48 UTC
 
 ## Archive Contents
 
-- Total rendered topics: 19237
+- Total rendered topics: 19240
 - Raw JSON files: 0
 
 ## Recent Topics
@@ -15,6 +15,7 @@ Last updated: 2026-10-12 09:54 UTC
 - [README.md](archive/rendered-topics/2022/2022-04/README.md)
 - [README.md](archive/rendered-topics/2022/2022-03/README.md)
 - [README.md](archive/rendered-topics/2022/2022-01/README.md)
+- [valve motion for cfd fsi simulation](archive/rendered-topics/2022/2022-09/2022-09-27-valve-motion-for-cfd-fsi-simulation-id25450.md)
 - [model registration from fiducial point](archive/rendered-topics/2022/2022-09/2022-09-28-model-registration-from-fiducial-point-id25462.md)
 - [pyhocon exceptions configmissingexception no configuration s](archive/rendered-topics/2022/2022-09/2022-09-28-pyhocon-exceptions-configmissingexception-no-configuration-s-id25457.md)
 - [remove slice views compare1 from scene](archive/rendered-topics/2022/2022-09/2022-09-28-remove-slice-views-compare1-from-scene-id25460.md)
@@ -58,4 +59,3 @@ Last updated: 2026-10-12 09:54 UTC
 - [how to apply displacement to new volume](archive/rendered-topics/2022/2022-09/2022-09-27-how-to-apply-displacement-to-new-volume-id25445.md)
 - [how to show the number of selected pixels in one single slic](archive/rendered-topics/2022/2022-09/2022-09-27-how-to-show-the-number-of-selected-pixels-in-one-single-slic-id25447.md)
 - [integrate an existing script to 3d slicer](archive/rendered-topics/2022/2022-09/2022-09-27-integrate-an-existing-script-to-3d-slicer-id25452.md)
-- [rvesselx dont show current node placement help option](archive/rendered-topics/2022/2022-09/2022-09-27-rvesselx-dont-show-current-node-placement-help-option-id25454.md)

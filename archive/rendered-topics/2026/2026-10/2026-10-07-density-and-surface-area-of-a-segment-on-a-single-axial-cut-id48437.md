@@ -3,7 +3,7 @@ topic_id: 48437
 title: "Density and surface area of a segment on a single axial cut"
 date: 2026-10-07
 url: https://discourse.slicer.org/t/48437
-last_bumped: 2026-10-12T09:18:41.411Z
+last_bumped: 2026-10-13T02:15:38.364Z
 ---
 
 # Density and surface area of a segment on a single axial cut
@@ -45,5 +45,18 @@ It really means a lot.</p>
 ## Post #4 by @bjmufffff (2026-10-12 09:18 UTC)
 
 <p>Hello, you can try SementGeometry mudule(which also has cross-sectional area included) to compute Mean brightness of each slice of a segmentation.</p>
+
+---
+
+## Post #5 by @Mahdi_H (2026-10-12 20:03 UTC)
+
+<p>Thank you again for your reply!</p>
+<p>The issue with SegmentGeometry is that it generates the information for each segment alone. Is there a way to generate the density for multiple segments at once (like in the Segment Cross-Section area module)?</p>
+
+---
+
+## Post #6 by @bjmufffff (2026-10-13 02:15 UTC)
+
+<p>Hi, don’t know if there is such a module that meets your needs. The method I can think of is to merge all the segments into one (using the Logical Operators tool in the Segment Editor) , or, if possible, do some Python programming to perform the measurement.</p>
 
 ---

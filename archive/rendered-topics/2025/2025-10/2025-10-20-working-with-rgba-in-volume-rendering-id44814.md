@@ -3,7 +3,7 @@ topic_id: 44814
 title: "Working with RGBA in Volume Rendering"
 date: 2025-10-20
 url: https://discourse.slicer.org/t/44814
-last_bumped: 2026-10-12T08:50:15.060Z
+last_bumped: 2026-10-12T16:28:25.025Z
 ---
 
 # Working with RGBA in Volume Rendering
@@ -168,5 +168,14 @@ last_bumped: 2026-10-12T08:50:15.060Z
 <p>The RGBA mode works fine for my purpose, but I want also to test it with the Independent mode.</p>
 <p>The Temporal MultiVolume sequences have 3 frames / components, each with a scalar range from -3024 to 3071, but the intensity range in the mapping settings are only possible to change from 0 to 1024, as also <a class="mention" href="/u/muratmaga">@muratmaga</a> found out.</p>
 <p>So far I have not looked in the code, if it’s hard coded.</p>
+
+---
+
+## Post #17 by @muratmaga (2026-10-12 16:28 UTC)
+
+<p>Issue was  only component 0’s transfer functions are initialized from the image; components 1–3 keep VTK’s default functions (0..1024, opacity 1.0 everywhere), which is also why a constant alpha channel renders as a solid block.</p>
+<p>A second issue made the chart extent of the previously selected component get reused when switching components. Applying a preset also reset components 1–3.</p>
+<p>Claude prepared a PR to fix both: <a href="https://github.com/Slicer/Slicer/pull/9459" class="inline-onebox" rel="noopener nofollow ugc">BUG: Fix transfer functions of additional components in volume rendering by muratmaga · Pull Request #9459 · Slicer/Slicer · GitHub</a></p>
+<p>Until then, a workaround is setting the transfer functions from Python, e.g. <code>vp.GetScalarOpacity(c)</code> / <code>vp.GetRGBTransferFunction(c)</code> with points spanning the component’s range.</p>
 
 ---

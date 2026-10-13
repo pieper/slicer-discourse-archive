@@ -11,3 +11,6 @@
 - [2026 10 08 Ai Driven Upper Airway Analysis](2026-10-08-ai-driven-upper-airway-analysis-id48443.md)
 - [2026 10 08 Dose Calculating Alogorithm And Calibration Curve For Slicer](2026-10-08-dose-calculating-alogorithm-and-calibration-curve-for-slicer-id48451.md)
 - [2026 10 10 Rounding Or Display Error In Threshold Level Selector](2026-10-10-rounding-or-display-error-in-threshold-level-selector-id48470.md)
+- [2026 10 12 1 On 1 3D Slicer Tutor Needed](2026-10-12-1-on-1-3d-slicer-tutor-needed-id48482.md)
+- [2026 10 12 Fast Model Align Does Not Operate](2026-10-12-fast-model-align-does-not-operate-id48483.md)
+- [2026 10 12 Opendose3D Testing Users Needed](2026-10-12-opendose3d-testing-users-needed-id48484.md)
