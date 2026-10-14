@@ -3,7 +3,7 @@ topic_id: 48483
 title: "Fast model align does not operate"
 date: 2026-10-12
 url: https://discourse.slicer.org/t/48483
-last_bumped: 2026-10-13T08:03:08.700Z
+last_bumped: 2026-10-14T03:38:39.706Z
 ---
 
 # Fast model align does not operate
@@ -508,5 +508,25 @@ last_bumped: 2026-10-13T08:03:08.700Z
 </code></pre>
 <p>IndentationError: expected an indented block after ‘for’ statement on line 7</p>
 <p>&gt;&gt;&gt;</p>
+
+---
+
+## Post #8 by @muratmaga (2026-10-14 03:38 UTC)
+
+<p>Looks like paste messed up indentations. Try this:</p>
+<pre><code class="lang-auto">import numpy as np, vtk
+m = getNode('MovingModel')
+pts = slicer.util.arrayFromModelPoints(m)
+bad = np.where(~np.isfinite(pts).all(axis=1))[0]
+print(len(bad), "invalid vertices")
+poly = m.GetPolyData(); poly.BuildLinks()
+for i in bad:
+    ids = vtk.vtkIdList(); poly.GetPointCells(int(i), ids)
+    for k in range(ids.GetNumberOfIds()): poly.DeleteCell(ids.GetId(k))
+poly.RemoveDeletedCells()
+c = vtk.vtkCleanPolyData(); c.SetInputData(poly); c.Update()
+m.SetAndObservePolyData(c.GetOutput())
+</code></pre>
+<p>Also make sure to replace the MovingModel with the actual name of the model failed in your tries.</p>
 
 ---

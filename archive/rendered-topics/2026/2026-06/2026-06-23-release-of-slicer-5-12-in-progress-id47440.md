@@ -3,7 +3,7 @@ topic_id: 47440
 title: "Release of Slicer 5.12 in progress"
 date: 2026-06-23
 url: https://discourse.slicer.org/t/47440
-last_bumped: 2026-09-09T18:05:34.447Z
+last_bumped: 2026-10-14T03:34:21.611Z
 ---
 
 # Release of Slicer 5.12 in progress
@@ -144,5 +144,11 @@ This does look a bit confusing to me:</p>
 
 <p>No, this is a patch release – bug fixes only</p>
 <p>See this comment for the list of bug fixes getting incorporated: <a href="https://github.com/Slicer/Slicer/issues/9387#issuecomment-5588659601" class="inline-onebox">Patch Release Slicer v5.12.4 · Issue #9387 · Slicer/Slicer · GitHub</a></p>
+
+---
+
+## Post #16 by @Vaibhav (2026-10-14 03:34 UTC)
+
+<p>Hello everyone, may I know whether an arm64 supported version of 3D slicer is now available in stable release?</p>
 
 ---

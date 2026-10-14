@@ -14,3 +14,5 @@
 - [2026 10 12 1 On 1 3D Slicer Tutor Needed](2026-10-12-1-on-1-3d-slicer-tutor-needed-id48482.md)
 - [2026 10 12 Fast Model Align Does Not Operate](2026-10-12-fast-model-align-does-not-operate-id48483.md)
 - [2026 10 12 Opendose3D Testing Users Needed](2026-10-12-opendose3d-testing-users-needed-id48484.md)
+- [2026 10 13 Corrective Osteotomy Module In Canine Hindlimb](2026-10-13-corrective-osteotomy-module-in-canine-hindlimb-id48500.md)
+- [2026 10 13 Mandible Reconstruction With Fibula Free Flap Videotutorial](2026-10-13-mandible-reconstruction-with-fibula-free-flap-videotutorial-id48501.md)

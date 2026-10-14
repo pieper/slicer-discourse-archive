@@ -3,7 +3,7 @@ topic_id: 44814
 title: "Working with RGBA in Volume Rendering"
 date: 2025-10-20
 url: https://discourse.slicer.org/t/44814
-last_bumped: 2026-10-12T16:28:25.025Z
+last_bumped: 2026-10-13T10:21:28.191Z
 ---
 
 # Working with RGBA in Volume Rendering
@@ -177,5 +177,11 @@ last_bumped: 2026-10-12T16:28:25.025Z
 <p>A second issue made the chart extent of the previously selected component get reused when switching components. Applying a preset also reset components 1–3.</p>
 <p>Claude prepared a PR to fix both: <a href="https://github.com/Slicer/Slicer/pull/9459" class="inline-onebox" rel="noopener nofollow ugc">BUG: Fix transfer functions of additional components in volume rendering by muratmaga · Pull Request #9459 · Slicer/Slicer · GitHub</a></p>
 <p>Until then, a workaround is setting the transfer functions from Python, e.g. <code>vp.GetScalarOpacity(c)</code> / <code>vp.GetRGBTransferFunction(c)</code> with points spanning the component’s range.</p>
+
+---
+
+## Post #18 by @mhouse (2026-10-13 10:21 UTC)
+
+<p>Many thanks for your update. I can use this method for the interim. I have also experienced your 2nd issue, therefore I was very careful not to change the preset.</p>
 
 ---
