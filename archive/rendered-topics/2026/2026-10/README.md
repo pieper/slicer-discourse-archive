@@ -16,3 +16,6 @@
 - [2026 10 12 Opendose3D Testing Users Needed](2026-10-12-opendose3d-testing-users-needed-id48484.md)
 - [2026 10 13 Corrective Osteotomy Module In Canine Hindlimb](2026-10-13-corrective-osteotomy-module-in-canine-hindlimb-id48500.md)
 - [2026 10 13 Mandible Reconstruction With Fibula Free Flap Videotutorial](2026-10-13-mandible-reconstruction-with-fibula-free-flap-videotutorial-id48501.md)
+- [2026 10 14 2026 10 20 Weekly Meeting](2026-10-14-2026-10-20-weekly-meeting-id48514.md)
+- [2026 10 14 Modalityconverter V2 0 Remote Inference And Workflow Improve](2026-10-14-modalityconverter-v2-0-remote-inference-and-workflow-improve-id48513.md)
+- [2026 10 14 Updates To Slicer Packages Kitware Com In Progress](2026-10-14-updates-to-slicer-packages-kitware-com-in-progress-id48518.md)

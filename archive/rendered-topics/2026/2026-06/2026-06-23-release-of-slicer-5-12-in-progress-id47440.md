@@ -3,7 +3,7 @@ topic_id: 47440
 title: "Release of Slicer 5.12 in progress"
 date: 2026-06-23
 url: https://discourse.slicer.org/t/47440
-last_bumped: 2026-10-14T03:34:21.611Z
+last_bumped: 2026-10-14T14:37:00.343Z
 ---
 
 # Release of Slicer 5.12 in progress
@@ -150,5 +150,24 @@ This does look a bit confusing to me:</p>
 ## Post #16 by @Vaibhav (2026-10-14 03:34 UTC)
 
 <p>Hello everyone, may I know whether an arm64 supported version of 3D slicer is now available in stable release?</p>
+
+---
+
+## Post #17 by @ebrahim (2026-10-14 13:40 UTC)
+
+<p>It is planned for the next stable release. The current stable release does not support it.</p>
+
+---
+
+## Post #18 by @Vaibhav (2026-10-14 14:28 UTC)
+
+<p>Thank you.</p>
+<p>To address this in the meantime, I have found that rosetta two translation, staging commands in a separate code editor file, then calling path to the script in slicer has proved effective.</p>
+
+---
+
+## Post #19 by @pieper (2026-10-14 14:37 UTC)
+
+<p>Note that it’s also easy to build from source on mac-arm64.  Takes about 1/2 hour on a macbook air M4.</p>
 
 ---

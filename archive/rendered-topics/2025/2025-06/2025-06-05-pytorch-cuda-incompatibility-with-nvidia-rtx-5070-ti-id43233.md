@@ -1,8 +1,9 @@
 ---
 topic_id: 43233
-title: "Pytorch Cuda Incompatibility With Nvidia Rtx 5070 Ti"
+title: "PyTorch CUDA incompatibility with NVIDIA RTX 5070 Ti "
 date: 2025-06-05
 url: https://discourse.slicer.org/t/43233
+last_bumped: 2026-10-14T16:03:25.512Z
 ---
 
 # PyTorch CUDA incompatibility with NVIDIA RTX 5070 Ti 
@@ -143,5 +144,12 @@ Unfortunately, the PyTorch version currently available in 3D Slicer is&nbsp;limi
   <div style="clear: both"></div>
 </aside>
 
+
+---
+
+## Post #7 by @Mark_Ryan (2026-10-14 16:03 UTC)
+
+<p>Thought I’d follow up with the script that was successful in getting it working. From within slicer python console:</p>
+<p>slicer.util.pip_install(“torch torchvision torchaudio --index-url <a href="https://download.pytorch.org/whl/cu132" rel="noopener nofollow ugc">https://download.pytorch.org/whl/cu132</a>”)</p>
 
 ---

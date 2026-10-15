@@ -1,8 +1,9 @@
 ---
 topic_id: 46364
-title: "Scissors In Segment Editor Module Seriously Lagged In Slicer"
+title: "Scissors in Segment Editor module seriously lagged in Slicer 5.10.0"
 date: 2026-03-03
 url: https://discourse.slicer.org/t/46364
+last_bumped: 2026-10-14T19:46:03.619Z
 ---
 
 # Scissors in Segment Editor module seriously lagged in Slicer 5.10.0
@@ -124,5 +125,11 @@ Thank you!</span></p>
   <div style="clear: both"></div>
 </aside>
 
+
+---
+
+## Post #4 by @klns23 (2026-10-14 19:46 UTC)
+
+<p>My workflow is also impacted by this issue. I’m using Ubuntu and have tried Slicer versions 5.12 and 5.13 and have gone back to 5.7 for the time being.</p>
 
 ---

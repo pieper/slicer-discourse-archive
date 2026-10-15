@@ -3,7 +3,7 @@ topic_id: 48483
 title: "Fast model align does not operate"
 date: 2026-10-12
 url: https://discourse.slicer.org/t/48483
-last_bumped: 2026-10-14T03:38:39.706Z
+last_bumped: 2026-10-14T16:50:56.000Z
 ---
 
 # Fast model align does not operate
@@ -528,5 +528,33 @@ c = vtk.vtkCleanPolyData(); c.SetInputData(poly); c.Update()
 m.SetAndObservePolyData(c.GetOutput())
 </code></pre>
 <p>Also make sure to replace the MovingModel with the actual name of the model failed in your tries.</p>
+
+---
+
+## Post #9 by @philippepellerin (2026-10-14 08:32 UTC)
+
+<p>Dear Murat, It worked, this time. The FastModelAlign runs smoothly with the 5.13.0. Do I have to run your lines of code each time I need to perform the fast align?<br>
+Thanks a lot for your kind help. Best regards.</p>
+
+---
+
+## Post #10 by @muratmaga (2026-10-14 16:46 UTC)
+
+<aside class="quote no-group" data-username="philippepellerin" data-post="9" data-topic="48483">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="24" height="24" src="https://sea2.discourse-cdn.com/flex002/user_avatar/discourse.slicer.org/philippepellerin/48/16062_2.png" class="avatar"> philippepellerin:</div>
+<blockquote>
+<p>Do I have to run your lines of code each time I need to perform the fast align?</p>
+</blockquote>
+</aside>
+<p>Not unless you encounter the same error. Error is because there are degenerate surfaces on the model. This script removes them.</p>
+
+---
+
+## Post #11 by @philippepellerin (2026-10-14 16:50 UTC)
+
+<p>Got it, thanks a lot</p>
+<p>Envoyé de mon iPhone</p>
 
 ---
