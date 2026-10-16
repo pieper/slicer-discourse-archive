@@ -3,7 +3,7 @@ topic_id: 48443
 title: "AI driven upper airway analysis"
 date: 2026-10-08
 url: https://discourse.slicer.org/t/48443
-last_bumped: 2026-10-09T14:25:36.144Z
+last_bumped: 2026-10-15T15:55:12.064Z
 ---
 
 # AI driven upper airway analysis
@@ -34,5 +34,29 @@ last_bumped: 2026-10-09T14:25:36.144Z
 ## Post #3 by @Algiz (2026-10-09 14:25 UTC)
 
 <p>I did use vmtk, although I had a lot of trouble shooting before I got it to work. I found that I didn’t get a clean representation since it’s only a line that I can color code between the marked points of the analysis.</p>
+
+---
+
+## Post #4 by @mikebind (2026-10-15 15:55 UTC)
+
+<p>The image in your post above looks sort of like they just took a centerline value and used it to color the airway surface points (there doesn’t seem to be any circumferential variation in color).  I don’t know of any existing automated way to transfer the centerline-associated associated values to model surface points, but it seems conceptually fairly straightforward, and you could probably have an LLM successfully guide you through it.  Here is how I would probably approach it:</p>
+<ol>
+<li>Export your airway segment to a surface model node.</li>
+<li>For each point on your surface model’s polydata:
+<ol>
+<li>Find the closest point on your centerline curve</li>
+<li>Get the associated stored maximum inscribed radius or diameter associated with that centerline point from the vmtk analysis</li>
+<li>Store that value as a scalar associated with the model point</li>
+</ol>
+</li>
+<li>In the surface model node’s display settings (Models module =&gt; Display =&gt; Scalars):
+<ol>
+<li>Check the “Visibility” box to turn on scalar display</li>
+<li>Choose the name of the scalar where you stored the radius or diameter value as the “Active Scalar”</li>
+<li>Choose a color map and data range to control how the colors map to the stored values</li>
+</ol>
+</li>
+</ol>
+<p>I think this should work well, and is hopefully not too difficult to implement. Good luck!</p>
 
 ---

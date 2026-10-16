@@ -3,7 +3,7 @@ topic_id: 48451
 title: "Dose Calculating alogorithm and calibration curve for Slicer-RT data"
 date: 2026-10-08
 url: https://discourse.slicer.org/t/48451
-last_bumped: 2026-10-08T19:40:15.063Z
+last_bumped: 2026-10-15T13:57:23.360Z
 ---
 
 # Dose Calculating alogorithm and calibration curve for Slicer-RT data
@@ -56,5 +56,11 @@ Medical Physics Doc. Student FFCLRP-USP - RafaelOScatena</p>
 </aside>
 
 <hr>
+
+---
+
+## Post #2 by @cpinter (2026-10-15 13:57 UTC)
+
+<p>I’m sorry I can’t help with these specific questions. The dose was calculated in Kingston General Hospital about 15 years ago. I forwarded a similar request to them not long ago but haven’t heard back yet. If I do, I’ll mention this one as well.</p>
 
 ---

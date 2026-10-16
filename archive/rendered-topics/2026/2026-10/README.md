@@ -19,3 +19,5 @@
 - [2026 10 14 2026 10 20 Weekly Meeting](2026-10-14-2026-10-20-weekly-meeting-id48514.md)
 - [2026 10 14 Modalityconverter V2 0 Remote Inference And Workflow Improve](2026-10-14-modalityconverter-v2-0-remote-inference-and-workflow-improve-id48513.md)
 - [2026 10 14 Updates To Slicer Packages Kitware Com In Progress](2026-10-14-updates-to-slicer-packages-kitware-com-in-progress-id48518.md)
+- [2026 10 15 After Midline Mirroring Of The Roi How To Edit The Resulting](2026-10-15-after-midline-mirroring-of-the-roi-how-to-edit-the-resulting-id48525.md)
+- [2026 10 15 Getting Started With 3D Slicer For Medical Imaging](2026-10-15-getting-started-with-3d-slicer-for-medical-imaging-id48526.md)
