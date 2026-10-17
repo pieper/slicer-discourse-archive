@@ -21,3 +21,5 @@
 - [2026 10 14 Updates To Slicer Packages Kitware Com In Progress](2026-10-14-updates-to-slicer-packages-kitware-com-in-progress-id48518.md)
 - [2026 10 15 After Midline Mirroring Of The Roi How To Edit The Resulting](2026-10-15-after-midline-mirroring-of-the-roi-how-to-edit-the-resulting-id48525.md)
 - [2026 10 15 Getting Started With 3D Slicer For Medical Imaging](2026-10-15-getting-started-with-3d-slicer-for-medical-imaging-id48526.md)
+- [2026 10 16 Help Registering Mri Images And Segmentation In 3D Slicer](2026-10-16-help-registering-mri-images-and-segmentation-in-3d-slicer-id48539.md)
+- [2026 10 16 Slicerrt Blocked By Windows Smart App Control In Slicer 5 12](2026-10-16-slicerrt-blocked-by-windows-smart-app-control-in-slicer-5-12-id48534.md)
