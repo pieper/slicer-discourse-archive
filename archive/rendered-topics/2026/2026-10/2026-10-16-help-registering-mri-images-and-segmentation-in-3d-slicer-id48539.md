@@ -3,7 +3,7 @@ topic_id: 48539
 title: "Help Registering MRI Images and Segmentation in 3D Slicer"
 date: 2026-10-16
 url: https://discourse.slicer.org/t/48539
-last_bumped: 2026-10-16T15:50:06.554Z
+last_bumped: 2026-10-20T14:31:18.702Z
 ---
 
 # Help Registering MRI Images and Segmentation in 3D Slicer
@@ -28,5 +28,11 @@ last_bumped: 2026-10-16T15:50:06.554Z
 ## Post #2 by @mikebind (2026-10-16 15:50 UTC)
 
 <p>Your general plan sounds good.  Try the Fiducial Registration Wizard module.  If the images do not line up well under an affine transformation, check how well your corresponding landmark points line up (after transforming the moving ones by the same transformation).  If the points don’t line up well, then the transformation may not be well-represented by an affine transform.  Lots of things can move nonlinearly around the shoulder joints. If a linear transform is not able to align the images, I would move on to a nonlinear registration approach.  If there are big changes between images, I would crop both the fixed and moving images to just the region around the area of interest and do a nonlinear registration (via ANTs or Elastix).  If that aligns the images well, you can apply the nonlinear transform to your segmentation, change the segmentation geometry of the transformed segmentation to match your second image, and then export the transformed segment to a binary labelmap.</p>
+
+---
+
+## Post #3 by @cv24 (2026-10-20 14:31 UTC)
+
+<p>Mike, you are a savior. Thank you!</p>
 
 ---

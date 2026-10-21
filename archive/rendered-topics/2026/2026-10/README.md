@@ -24,3 +24,4 @@
 - [2026 10 16 Help Registering Mri Images And Segmentation In 3D Slicer](2026-10-16-help-registering-mri-images-and-segmentation-in-3d-slicer-id48539.md)
 - [2026 10 16 Slicerrt Blocked By Windows Smart App Control In Slicer 5 12](2026-10-16-slicerrt-blocked-by-windows-smart-app-control-in-slicer-5-12-id48534.md)
 - [2026 10 19 Prismrendering Not Loading](2026-10-19-prismrendering-not-loading-id48550.md)
+- [2026 10 20 Call For Participation In The Sofa Week 2026](2026-10-20-call-for-participation-in-the-sofa-week-2026-id48553.md)
