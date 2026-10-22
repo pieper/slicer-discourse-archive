@@ -1,10 +1,10 @@
 # Slicer Discourse Archive Index
 
-Last updated: 2026-10-21 08:02 UTC
+Last updated: 2026-10-22 08:01 UTC
 
 ## Archive Contents
 
-- Total rendered topics: 19251
+- Total rendered topics: 19253
 - Raw JSON files: 0
 
 ## Recent Topics
@@ -24,9 +24,22 @@ Last updated: 2026-10-21 08:02 UTC
 - [README.md](archive/rendered-topics/2018/2018-07/README.md)
 - [README.md](archive/rendered-topics/2018/2018-06/README.md)
 - [README.md](archive/rendered-topics/2018/2018-02/README.md)
-- [call for participation in the sofa week 2026](archive/rendered-topics/2026/2026-10/2026-10-20-call-for-participation-in-the-sofa-week-2026-id48553.md)
-- [help registering mri images and segmentation in 3d slicer](archive/rendered-topics/2026/2026-10/2026-10-16-help-registering-mri-images-and-segmentation-in-3d-slicer-id48539.md)
+- [error when running watershed](archive/rendered-topics/2026/2026-10/2026-10-21-error-when-running-watershed-id48557.md)
+- [weekly meeting](archive/rendered-topics/2026/2026-10/2026-10-21-2026-10-27-weekly-meeting-id48559.md)
+- [on 1 3d slicer tutor needed](archive/rendered-topics/2026/2026-10/2026-10-12-1-on-1-3d-slicer-tutor-needed-id48482.md)
+- [fast model align does not operate](archive/rendered-topics/2026/2026-10/2026-10-12-fast-model-align-does-not-operate-id48483.md)
+- [opendose3d testing users needed](archive/rendered-topics/2026/2026-10/2026-10-12-opendose3d-testing-users-needed-id48484.md)
+- [corrective osteotomy module in canine hindlimb](archive/rendered-topics/2026/2026-10/2026-10-13-corrective-osteotomy-module-in-canine-hindlimb-id48500.md)
+- [mandible reconstruction with fibula free flap videotutorial](archive/rendered-topics/2026/2026-10/2026-10-13-mandible-reconstruction-with-fibula-free-flap-videotutorial-id48501.md)
 - [weekly meeting](archive/rendered-topics/2026/2026-10/2026-10-14-2026-10-20-weekly-meeting-id48514.md)
+- [modalityconverter v2 0 remote inference and workflow improve](archive/rendered-topics/2026/2026-10/2026-10-14-modalityconverter-v2-0-remote-inference-and-workflow-improve-id48513.md)
+- [updates to slicer packages kitware com in progress](archive/rendered-topics/2026/2026-10/2026-10-14-updates-to-slicer-packages-kitware-com-in-progress-id48518.md)
+- [after midline mirroring of the roi how to edit the resulting](archive/rendered-topics/2026/2026-10/2026-10-15-after-midline-mirroring-of-the-roi-how-to-edit-the-resulting-id48525.md)
+- [getting started with 3d slicer for medical imaging](archive/rendered-topics/2026/2026-10/2026-10-15-getting-started-with-3d-slicer-for-medical-imaging-id48526.md)
+- [help registering mri images and segmentation in 3d slicer](archive/rendered-topics/2026/2026-10/2026-10-16-help-registering-mri-images-and-segmentation-in-3d-slicer-id48539.md)
+- [slicerrt blocked by windows smart app control in slicer 5 12](archive/rendered-topics/2026/2026-10/2026-10-16-slicerrt-blocked-by-windows-smart-app-control-in-slicer-5-12-id48534.md)
+- [prismrendering not loading](archive/rendered-topics/2026/2026-10/2026-10-19-prismrendering-not-loading-id48550.md)
+- [call for participation in the sofa week 2026](archive/rendered-topics/2026/2026-10/2026-10-20-call-for-participation-in-the-sofa-week-2026-id48553.md)
 - [small screen space dash appears at curve midpoint after clon](archive/rendered-topics/2026/2026-10/2026-10-01-small-screen-space-dash-appears-at-curve-midpoint-after-clon-id48374.md)
 - [volume rendering tdr error code 7 issue persists](archive/rendered-topics/2026/2026-10/2026-10-01-volume-rendering-tdr-error-code-7-issue-persists-id48373.md)
 - [radiomics feature](archive/rendered-topics/2026/2026-10/2026-10-05-radiomics-feature-id48402.md)
@@ -37,25 +50,12 @@ Last updated: 2026-10-21 08:02 UTC
 - [ai driven upper airway analysis](archive/rendered-topics/2026/2026-10/2026-10-08-ai-driven-upper-airway-analysis-id48443.md)
 - [dose calculating alogorithm and calibration curve for slicer](archive/rendered-topics/2026/2026-10/2026-10-08-dose-calculating-alogorithm-and-calibration-curve-for-slicer-id48451.md)
 - [rounding or display error in threshold level selector](archive/rendered-topics/2026/2026-10/2026-10-10-rounding-or-display-error-in-threshold-level-selector-id48470.md)
-- [on 1 3d slicer tutor needed](archive/rendered-topics/2026/2026-10/2026-10-12-1-on-1-3d-slicer-tutor-needed-id48482.md)
-- [fast model align does not operate](archive/rendered-topics/2026/2026-10/2026-10-12-fast-model-align-does-not-operate-id48483.md)
-- [opendose3d testing users needed](archive/rendered-topics/2026/2026-10/2026-10-12-opendose3d-testing-users-needed-id48484.md)
-- [corrective osteotomy module in canine hindlimb](archive/rendered-topics/2026/2026-10/2026-10-13-corrective-osteotomy-module-in-canine-hindlimb-id48500.md)
-- [mandible reconstruction with fibula free flap videotutorial](archive/rendered-topics/2026/2026-10/2026-10-13-mandible-reconstruction-with-fibula-free-flap-videotutorial-id48501.md)
-- [modalityconverter v2 0 remote inference and workflow improve](archive/rendered-topics/2026/2026-10/2026-10-14-modalityconverter-v2-0-remote-inference-and-workflow-improve-id48513.md)
-- [updates to slicer packages kitware com in progress](archive/rendered-topics/2026/2026-10/2026-10-14-updates-to-slicer-packages-kitware-com-in-progress-id48518.md)
-- [after midline mirroring of the roi how to edit the resulting](archive/rendered-topics/2026/2026-10/2026-10-15-after-midline-mirroring-of-the-roi-how-to-edit-the-resulting-id48525.md)
-- [getting started with 3d slicer for medical imaging](archive/rendered-topics/2026/2026-10/2026-10-15-getting-started-with-3d-slicer-for-medical-imaging-id48526.md)
-- [slicerrt blocked by windows smart app control in slicer 5 12](archive/rendered-topics/2026/2026-10/2026-10-16-slicerrt-blocked-by-windows-smart-app-control-in-slicer-5-12-id48534.md)
-- [prismrendering not loading](archive/rendered-topics/2026/2026-10/2026-10-19-prismrendering-not-loading-id48550.md)
 - [osteotomycuts a new extension for multi segment osteotomy pl](archive/rendered-topics/2026/2026-09/2026-09-29-osteotomycuts-a-new-extension-for-multi-segment-osteotomy-pl-id48329.md)
 - [segmentation color table generator](archive/rendered-topics/2026/2026-09/2026-09-29-segmentation-color-table-generator-id48330.md)
 - [weekly meeting](archive/rendered-topics/2026/2026-09/2026-09-30-2026-10-06-weekly-meeting-id48359.md)
 - [dentalsegmentator error loading results failt to load the se](archive/rendered-topics/2026/2026-10/2026-10-01-dentalsegmentator-error-loading-results-failt-to-load-the-se-id48375.md)
+- [weekly meeting](archive/rendered-topics/2026/2026-09/2026-09-23-2026-09-29-weekly-meeting-id48251.md)
 - [aruco navigation camera intel realsense d415](archive/rendered-topics/2026/2026-09/2026-09-23-aruco-navigation-camera-intel-realsense-d415-id48245.md)
 - [extensions have been installed but are not showing up under](archive/rendered-topics/2026/2026-09/2026-09-23-extensions-have-been-installed-but-are-not-showing-up-under-id48244.md)
 - [glitch black screen with white arrow intermittently why](archive/rendered-topics/2026/2026-09/2026-09-23-glitch-black-screen-with-white-arrow-intermittently-why-id48247.md)
 - [measuring the volume of the fossa indent of bird skulls from](archive/rendered-topics/2026/2026-09/2026-09-23-measuring-the-volume-of-the-fossa-indent-of-bird-skulls-from-id48236.md)
-- [new extension omezarr open ome zarr images directly in slice](archive/rendered-topics/2026/2026-09/2026-09-23-new-extension-omezarr-open-ome-zarr-images-directly-in-slice-id48238.md)
-- [new modules for generation cfd simulation ready meshes](archive/rendered-topics/2026/2026-09/2026-09-23-new-modules-for-generation-cfd-simulation-ready-meshes-id48250.md)
-- [newbie need annotation help](archive/rendered-topics/2026/2026-09/2026-09-23-newbie-need-annotation-help-id48246.md)
