@@ -27,3 +27,5 @@
 - [2026 10 20 Call For Participation In The Sofa Week 2026](2026-10-20-call-for-participation-in-the-sofa-week-2026-id48553.md)
 - [2026 10 21 2026 10 27 Weekly Meeting](2026-10-21-2026-10-27-weekly-meeting-id48559.md)
 - [2026 10 21 Error When Running Watershed](2026-10-21-error-when-running-watershed-id48557.md)
+- [2026 10 22 Computational Requirements](2026-10-22-computational-requirements-id48572.md)
+- [2026 10 23 Slicermorph Not On Arm64 Catalogue](2026-10-23-slicermorph-not-on-arm64-catalogue-id48578.md)

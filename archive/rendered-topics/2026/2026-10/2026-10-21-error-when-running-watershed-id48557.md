@@ -3,7 +3,7 @@ topic_id: 48557
 title: "Error when running watershed"
 date: 2026-10-21
 url: https://discourse.slicer.org/t/48557
-last_bumped: 2026-10-21T14:38:57.461Z
+last_bumped: 2026-10-23T07:06:58.942Z
 ---
 
 # Error when running watershed
@@ -47,5 +47,11 @@ last_bumped: 2026-10-21T14:38:57.461Z
 <p>sitk::ERROR: The file “slicer:0000023F71755F30#vtkMRMLLabelMapVolumeNode1” does not exist.</p>
 </blockquote>
 <p>I created two segments and placed seeds in them. I am doing something wrong?</p>
+
+---
+
+## Post #2 by @Rei_Kurosawa (2026-10-23 07:06 UTC)
+
+<p>You are not doing anything wrong, this is a known bug in the extension, not a workflow issue. The exact same traceback (SimpleITK ReadImage failing on the slicer: pseudo file path) is filed in the SegmentEditorExtraEffects issue tracker as issue 71, reported against 5.12 and still open. Painting seeds in two segments is exactly how the effect is meant to be used. Until it gets fixed, the built-in Grow from seeds effect in Segment Editor covers the same seed-based workflow without using the extension’s code. You can subscribe to the issue on GitHub to get notified when a fix lands.</p>
 
 ---
