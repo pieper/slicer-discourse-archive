@@ -3,7 +3,7 @@ topic_id: 48578
 title: "Slicermorph not on arm64 catalogue"
 date: 2026-10-23
 url: https://discourse.slicer.org/t/48578
-last_bumped: 2026-10-23T19:04:19.173Z
+last_bumped: 2026-10-24T15:12:14.813Z
 ---
 
 # Slicermorph not on arm64 catalogue
@@ -567,5 +567,20 @@ if (value.userType() == QMetaType::QVariantList)   // was canConvert&lt;QVariant
 
 <p>Fix has been merged: <a href="https://github.com/Slicer/Slicer/pull/9498" class="inline-onebox">BUG: Fix Extensions Manager failing to install extensions with Qt 6 by sjh26 · Pull Request #9498 · Slicer/Slicer · GitHub</a></p>
 <p>This will be available after tonight’s build is done, so tomorrow after 10 AM ET</p>
+
+---
+
+## Post #11 by @muratmaga (2026-10-24 14:16 UTC)
+
+<p><a class="mention" href="/u/sam_horvath">@Sam_Horvath</a></p>
+<p>The 10-24 arm64 nightly (447e3ef, which includes the qRestAPI fix) didn’t produce a package. The Slicer build stopped in <code>qSlicerSslTest.cxx</code> from f70357c: line 79 <code>QNetworkRequest request(QUrl(url));</code> is parsed as a function declaration (most vexing parse), so lines 82–83 fail to compile. <code>QNetworkRequest request{QUrl(url)};</code> should fix it.</p>
+<p>The download site is still serving 35403.</p>
+
+---
+
+## Post #12 by @Sam_Horvath (2026-10-24 15:12 UTC)
+
+<p>PR is up: <a href="https://github.com/Slicer/Slicer/pull/9501" class="inline-onebox">COMP: Fix qSlicerSslTest build error caused by most vexing parse by sjh26 · Pull Request #9501 · Slicer/Slicer · GitHub</a></p>
+<p>We will get that merged today, fingers crossed for tomorrows build <img src="https://emoji.discourse-cdn.com/twitter/crossed_fingers.png?v=15" title=":crossed_fingers:" class="emoji" alt=":crossed_fingers:" loading="lazy" width="20" height="20"></p>
 
 ---

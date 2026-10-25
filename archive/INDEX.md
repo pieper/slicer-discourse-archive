@@ -1,10 +1,10 @@
 # Slicer Discourse Archive Index
 
-Last updated: 2026-10-24 07:40 UTC
+Last updated: 2026-10-25 07:51 UTC
 
 ## Archive Contents
 
-- Total rendered topics: 19255
+- Total rendered topics: 19256
 - Raw JSON files: 0
 
 ## Recent Topics
@@ -15,8 +15,6 @@ Last updated: 2026-10-24 07:40 UTC
 - [README.md](archive/rendered-topics/2022/2022-04/README.md)
 - [README.md](archive/rendered-topics/2022/2022-03/README.md)
 - [README.md](archive/rendered-topics/2022/2022-01/README.md)
-- [pyhocon exceptions configmissingexception no configuration s](archive/rendered-topics/2022/2022-09/2022-09-28-pyhocon-exceptions-configmissingexception-no-configuration-s-id25457.md)
-- [remove slice views compare1 from scene](archive/rendered-topics/2022/2022-09/2022-09-28-remove-slice-views-compare1-from-scene-id25460.md)
 - [scale issue with auto3dgm](archive/rendered-topics/2022/2022-09/2022-09-28-scale-issue-with-auto3dgm-id25471.md)
 - [segmentation template](archive/rendered-topics/2022/2022-09/2022-09-28-segmentation-template-id25468.md)
 - [volumes active volume and lookup table](archive/rendered-topics/2022/2022-09/2022-09-28-volumes-active-volume-and-lookup-table-id25463.md)
@@ -35,13 +33,6 @@ Last updated: 2026-10-24 07:40 UTC
 - [segmentationunet](archive/rendered-topics/2022/2022-09/2022-09-30-segmentationunet-id25497.md)
 - [the modified parameters in drr generator](archive/rendered-topics/2022/2022-09/2022-09-30-the-modified-parameters-in-drr-generator-id25493.md)
 - [tranformation of labelmap not working on script](archive/rendered-topics/2022/2022-09/2022-09-30-tranformation-of-labelmap-not-working-on-script-id25499.md)
-- [saving and reloading a parameter](archive/rendered-topics/2022/2022-09/2022-09-23-saving-and-reloading-a-parameter-id25408.md)
-- [3d view rendering problems](archive/rendered-topics/2022/2022-09/2022-09-24-3d-view-rendering-problems-id25424.md)
-- [no train tab button in slicer monailabel module](archive/rendered-topics/2022/2022-09/2022-09-24-no-train-tab-button-in-slicer-monailabel-module-id25423.md)
-- [bricked appearance of labelmap using baffle planner module](archive/rendered-topics/2022/2022-09/2022-09-25-bricked-appearance-of-labelmap-using-baffle-planner-module-id25429.md)
-- [ik solution failed and the robot cant move to the entry poin](archive/rendered-topics/2022/2022-09/2022-09-25-ik-solution-failed-and-the-robot-cant-move-to-the-entry-poin-id25426.md)
-- [weekly meeting](archive/rendered-topics/2022/2022-09/2022-09-26-2022-09-26-weekly-meeting-id25441.md)
-- [3d measurements of abdominal aortic aneurysms workflow](archive/rendered-topics/2022/2022-09/2022-09-26-3d-measurements-of-abdominal-aortic-aneurysms-workflow-id25438.md)
 - [curvature of bone](archive/rendered-topics/2022/2022-09/2022-09-26-curvature-of-bone-id25440.md)
 - [heatmap of brain](archive/rendered-topics/2022/2022-09/2022-09-26-heatmap-of-brain-id25439.md)
 - [i have a trouble with building error msb8066 can you help me](archive/rendered-topics/2022/2022-09/2022-09-26-i-have-a-trouble-with-building-error-msb8066-can-you-help-me-id25432.md)
@@ -57,5 +48,14 @@ Last updated: 2026-10-24 07:40 UTC
 - [slicervmtk and slicer version 5 1 0 revision 31159](archive/rendered-topics/2022/2022-09/2022-09-27-slicervmtk-and-slicer-version-5-1-0-revision-31159-id25453.md)
 - [valve motion for cfd fsi simulation](archive/rendered-topics/2022/2022-09/2022-09-27-valve-motion-for-cfd-fsi-simulation-id25450.md)
 - [model registration from fiducial point](archive/rendered-topics/2022/2022-09/2022-09-28-model-registration-from-fiducial-point-id25462.md)
-- [ui problem menu bar cut off but only intel graphics card](archive/rendered-topics/2022/2022-09/2022-09-20-ui-problem-menu-bar-cut-off-but-only-intel-graphics-card-id25358.md)
-- [use opencv in slicertemplate](archive/rendered-topics/2022/2022-09/2022-09-20-use-opencv-in-slicertemplate-id25350.md)
+- [pyhocon exceptions configmissingexception no configuration s](archive/rendered-topics/2022/2022-09/2022-09-28-pyhocon-exceptions-configmissingexception-no-configuration-s-id25457.md)
+- [remove slice views compare1 from scene](archive/rendered-topics/2022/2022-09/2022-09-28-remove-slice-views-compare1-from-scene-id25460.md)
+- [opacity in segmentation editor](archive/rendered-topics/2022/2022-09/2022-09-22-opacity-in-segmentation-editor-id25397.md)
+- [out of frame images are not equally spaced loaded image appe](archive/rendered-topics/2022/2022-09/2022-09-22-out-of-frame-images-are-not-equally-spaced-loaded-image-appe-id25396.md)
+- [segmentation of all teeth and its components](archive/rendered-topics/2022/2022-09/2022-09-22-segmentation-of-all-teeth-and-its-components-id25392.md)
+- [send dicom data using dicomweb for google healthcare api](archive/rendered-topics/2022/2022-09/2022-09-22-send-dicom-data-using-dicomweb-for-google-healthcare-api-id25401.md)
+- [variable slicer wc last changed date is expected to be defin](archive/rendered-topics/2022/2022-09/2022-09-22-variable-slicer-wc-last-changed-date-is-expected-to-be-defin-id25389.md)
+- [automatically run a python script from slicer for deep learn](archive/rendered-topics/2022/2022-09/2022-09-23-automatically-run-a-python-script-from-slicer-for-deep-learn-id25411.md)
+- [features confounded by the volume or roi](archive/rendered-topics/2022/2022-09/2022-09-23-features-confounded-by-the-volume-or-roi-id25413.md)
+- [open nwb files](archive/rendered-topics/2022/2022-09/2022-09-23-open-nwb-files-id25412.md)
+- [reload the slice view automatically after reorientation](archive/rendered-topics/2022/2022-09/2022-09-23-reload-the-slice-view-automatically-after-reorientation-id25410.md)
