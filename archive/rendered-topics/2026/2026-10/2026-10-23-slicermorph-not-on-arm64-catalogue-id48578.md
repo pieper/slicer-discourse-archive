@@ -3,7 +3,7 @@ topic_id: 48578
 title: "Slicermorph not on arm64 catalogue"
 date: 2026-10-23
 url: https://discourse.slicer.org/t/48578
-last_bumped: 2026-10-24T15:12:14.813Z
+last_bumped: 2026-10-25T17:12:18.663Z
 ---
 
 # Slicermorph not on arm64 catalogue
@@ -582,5 +582,11 @@ if (value.userType() == QMetaType::QVariantList)   // was canConvert&lt;QVariant
 
 <p>PR is up: <a href="https://github.com/Slicer/Slicer/pull/9501" class="inline-onebox">COMP: Fix qSlicerSslTest build error caused by most vexing parse by sjh26 · Pull Request #9501 · Slicer/Slicer · GitHub</a></p>
 <p>We will get that merged today, fingers crossed for tomorrows build <img src="https://emoji.discourse-cdn.com/twitter/crossed_fingers.png?v=15" title=":crossed_fingers:" class="emoji" alt=":crossed_fingers:" loading="lazy" width="20" height="20"></p>
+
+---
+
+## Post #13 by @muratmaga (2026-10-25 17:12 UTC)
+
+<p>Works. Thanks Sam. I will announce the availability of arm64 on SlicerMorph mailing list</p>
 
 ---

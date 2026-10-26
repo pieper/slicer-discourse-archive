@@ -3,7 +3,7 @@ topic_id: 48557
 title: "Error when running watershed"
 date: 2026-10-21
 url: https://discourse.slicer.org/t/48557
-last_bumped: 2026-10-23T07:06:58.942Z
+last_bumped: 2026-10-26T00:39:11.100Z
 ---
 
 # Error when running watershed
@@ -53,5 +53,11 @@ last_bumped: 2026-10-23T07:06:58.942Z
 ## Post #2 by @Rei_Kurosawa (2026-10-23 07:06 UTC)
 
 <p>You are not doing anything wrong, this is a known bug in the extension, not a workflow issue. The exact same traceback (SimpleITK ReadImage failing on the slicer: pseudo file path) is filed in the SegmentEditorExtraEffects issue tracker as issue 71, reported against 5.12 and still open. Painting seeds in two segments is exactly how the effect is meant to be used. Until it gets fixed, the built-in Grow from seeds effect in Segment Editor covers the same seed-based workflow without using the extension’s code. You can subscribe to the issue on GitHub to get notified when a fix lands.</p>
+
+---
+
+## Post #3 by @jsguerra (2026-10-26 00:39 UTC)
+
+<p>Thank you for letting me know about the bug and for the suggestion!</p>
 
 ---

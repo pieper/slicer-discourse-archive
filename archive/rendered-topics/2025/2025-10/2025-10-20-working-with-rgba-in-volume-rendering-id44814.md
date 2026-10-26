@@ -3,7 +3,7 @@ topic_id: 44814
 title: "Working with RGBA in Volume Rendering"
 date: 2025-10-20
 url: https://discourse.slicer.org/t/44814
-last_bumped: 2026-10-13T10:21:28.191Z
+last_bumped: 2026-10-25T12:20:42.029Z
 ---
 
 # Working with RGBA in Volume Rendering
@@ -183,5 +183,14 @@ last_bumped: 2026-10-13T10:21:28.191Z
 ## Post #18 by @mhouse (2026-10-13 10:21 UTC)
 
 <p>Many thanks for your update. I can use this method for the interim. I have also experienced your 2nd issue, therefore I was very careful not to change the preset.</p>
+
+---
+
+## Post #19 by @mhouse (2026-10-25 12:20 UTC)
+
+<p>I have tested your PR with my use case. As such the initialization of the additional components (1-3) is working, unfortunately a bit too early for my use case. The initialization is done as soon the Volume Rendering view is displayed with the selected node. But I can first set my preset (via Inputs | Property) thereafter and then the additional components are overwritten by the VTK defaults. So that I can only change all the parameters via the python console as with the interim solution.</p>
+<p>You mentioned this already in your PR, but at the end I have to change the mappings still via the python console. I have not looked further into this, before I setup the dev environment. For the time being I add the 4th component in the volume-property-schema file to prevent the black box.</p>
+<p>In the VR you can see the different components of frame 1 to 3 of the systole (c0: brown, c1:green and c2:blue). It’s a bit harder to understand, but the movement is clearer to see than in the RGBA mode. Even more nice would be if it would be possible to easily switch off / on each component via the GUI.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/9/0/90fc1a5fec95fd88c8936d4e2a170e1b5dd0f1b3.jpeg" data-download-href="/uploads/short-url/kGASO2UeDPgcSxlF9zJ5vX5RJLl.jpeg?dl=1" title="AorticValve-smartphase-SysVM-ct26j-j6" rel="noopener nofollow ugc"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/9/0/90fc1a5fec95fd88c8936d4e2a170e1b5dd0f1b3_2_690x498.jpeg" alt="AorticValve-smartphase-SysVM-ct26j-j6" data-base62-sha1="kGASO2UeDPgcSxlF9zJ5vX5RJLl" width="690" height="498" srcset="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/9/0/90fc1a5fec95fd88c8936d4e2a170e1b5dd0f1b3_2_690x498.jpeg, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/9/0/90fc1a5fec95fd88c8936d4e2a170e1b5dd0f1b3_2_1035x747.jpeg 1.5x, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/9/0/90fc1a5fec95fd88c8936d4e2a170e1b5dd0f1b3_2_1380x996.jpeg 2x" data-dominant-color="21221D"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">AorticValve-smartphase-SysVM-ct26j-j6</span><span class="informations">1920×1386 566 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
 
 ---
