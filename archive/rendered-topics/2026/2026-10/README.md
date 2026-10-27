@@ -30,3 +30,4 @@
 - [2026 10 22 Computational Requirements](2026-10-22-computational-requirements-id48572.md)
 - [2026 10 23 Slicermorph Not On Arm64 Catalogue](2026-10-23-slicermorph-not-on-arm64-catalogue-id48578.md)
 - [2026 10 24 Extentions Cant Be Loaded](2026-10-24-extentions-cant-be-loaded-id48592.md)
+- [2026 10 26 Apple Silicon Arm64 Macos Application And Extensions Now Ava](2026-10-26-apple-silicon-arm64-macos-application-and-extensions-now-ava-id48607.md)
