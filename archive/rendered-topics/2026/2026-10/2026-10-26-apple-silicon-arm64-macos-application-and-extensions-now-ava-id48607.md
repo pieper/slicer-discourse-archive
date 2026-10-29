@@ -3,7 +3,7 @@ topic_id: 48607
 title: "Apple Silicon (arm64 macOS) application and extensions now available"
 date: 2026-10-26
 url: https://discourse.slicer.org/t/48607
-last_bumped: 2026-10-28T02:48:46.806Z
+last_bumped: 2026-10-28T20:44:16.074Z
 ---
 
 # Apple Silicon (arm64 macOS) application and extensions now available
@@ -82,5 +82,23 @@ Slicer         qSlicerMainWindowPrivate::setupUi()
 <p>Since this Slicer preview bundles Qt 6.11.1, I suspect the same issue is responsible for the crash. Would it be possible to incorporate the upstream Qt fix or update the bundled Qt version in the next ARM64 preview?</p>
 <p>I’ve attached my complete macOS crash report for reference as Gist here: <a href="https://gist.github.com/russellmiller49/f4c0d0871139561384afbc61828a5d0f#file-slicer-arm64-crash-2026-10-27" class="inline-onebox" rel="noopener nofollow ugc">slicer-arm64-crash-2026-10-27 · GitHub</a></p>
 <p>Thanks for making the native Apple Silicon build available!</p>
+
+---
+
+## Post #5 by @Sam_Horvath (2026-10-28 12:32 UTC)
+
+<p>Thanks for the detailed report! I will look into getting this sorted today.</p>
+
+---
+
+## Post #6 by @jamesobutler (2026-10-28 20:28 UTC)
+
+<p>The Slicer arm64 build with Qt 6.11.1 did not have any issues for me when running macOS 27.0.1, but the same application version did crash during startup after I updated to macOS 27.2.</p>
+
+---
+
+## Post #7 by @Sam_Horvath (2026-10-28 20:44 UTC)
+
+<p>So, the arm64 factory has been updated to 6.11.2.  Tomorrow’s installer should have the updated version</p>
 
 ---
