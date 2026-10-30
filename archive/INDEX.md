@@ -1,10 +1,10 @@
 # Slicer Discourse Archive Index
 
-Last updated: 2026-10-29 09:01 UTC
+Last updated: 2026-10-30 09:09 UTC
 
 ## Archive Contents
 
-- Total rendered topics: 19258
+- Total rendered topics: 19259
 - Raw JSON files: 0
 
 ## Recent Topics
@@ -23,14 +23,16 @@ Last updated: 2026-10-29 09:01 UTC
 - [README.md](archive/rendered-topics/2019/2019-06/README.md)
 - [README.md](archive/rendered-topics/2019/2019-04/README.md)
 - [README.md](archive/rendered-topics/2019/2019-03/README.md)
-- [weekly meeting](archive/rendered-topics/2026/2026-10/2026-10-28-2026-11-03-weekly-meeting-id48633.md)
 - [apple silicon arm64 macos application and extensions now ava](archive/rendered-topics/2026/2026-10/2026-10-26-apple-silicon-arm64-macos-application-and-extensions-now-ava-id48607.md)
-- [slicer org is down](archive/rendered-topics/2019/2019-06/2019-06-13-slicer-org-is-down-id7159.md)
-- [weekly meeting](archive/rendered-topics/2026/2026-10/2026-10-21-2026-10-27-weekly-meeting-id48559.md)
 - [error when running watershed](archive/rendered-topics/2026/2026-10/2026-10-21-error-when-running-watershed-id48557.md)
+- [weekly meeting](archive/rendered-topics/2026/2026-10/2026-10-28-2026-11-03-weekly-meeting-id48633.md)
+- [workflow advice preclinical rat brain ct hemispheric volumet](archive/rendered-topics/2026/2026-10/2026-10-29-workflow-advice-preclinical-rat-brain-ct-hemispheric-volumet-id48643.md)
+- [3d slicer doesn t start after windows install](archive/rendered-topics/2026/2026-06/2026-06-28-3d-slicer-doesn-t-start-after-windows-install-id47482.md)
+- [weekly meeting](archive/rendered-topics/2026/2026-10/2026-10-21-2026-10-27-weekly-meeting-id48559.md)
 - [computational requirements](archive/rendered-topics/2026/2026-10/2026-10-22-computational-requirements-id48572.md)
 - [slicermorph not on arm64 catalogue](archive/rendered-topics/2026/2026-10/2026-10-23-slicermorph-not-on-arm64-catalogue-id48578.md)
 - [extentions cant be loaded](archive/rendered-topics/2026/2026-10/2026-10-24-extentions-cant-be-loaded-id48592.md)
+- [dentalsegmentator error loading results failt to load the se](archive/rendered-topics/2026/2026-10/2026-10-01-dentalsegmentator-error-loading-results-failt-to-load-the-se-id48375.md)
 - [small screen space dash appears at curve midpoint after clon](archive/rendered-topics/2026/2026-10/2026-10-01-small-screen-space-dash-appears-at-curve-midpoint-after-clon-id48374.md)
 - [volume rendering tdr error code 7 issue persists](archive/rendered-topics/2026/2026-10/2026-10-01-volume-rendering-tdr-error-code-7-issue-persists-id48373.md)
 - [radiomics feature](archive/rendered-topics/2026/2026-10/2026-10-05-radiomics-feature-id48402.md)
@@ -55,7 +57,5 @@ Last updated: 2026-10-29 09:01 UTC
 - [slicerrt blocked by windows smart app control in slicer 5 12](archive/rendered-topics/2026/2026-10/2026-10-16-slicerrt-blocked-by-windows-smart-app-control-in-slicer-5-12-id48534.md)
 - [prismrendering not loading](archive/rendered-topics/2026/2026-10/2026-10-19-prismrendering-not-loading-id48550.md)
 - [call for participation in the sofa week 2026](archive/rendered-topics/2026/2026-10/2026-10-20-call-for-participation-in-the-sofa-week-2026-id48553.md)
-- [shift mouse not placing on surface of segment](archive/rendered-topics/2026/2026-09/2026-09-23-shift-mouse-not-placing-on-surface-of-segment-id48240.md)
-- [totalsynth whole body synthetic ct from mri and cbct in 3d s](archive/rendered-topics/2026/2026-09/2026-09-23-totalsynth-whole-body-synthetic-ct-from-mri-and-cbct-in-3d-s-id48242.md)
-- [virtual excavation of iron age cremations using 3d slicer fo](archive/rendered-topics/2026/2026-09/2026-09-23-virtual-excavation-of-iron-age-cremations-using-3d-slicer-fo-id48248.md)
-- [curve direction arrows in markups not saved in mrk json](archive/rendered-topics/2026/2026-09/2026-09-24-curve-direction-arrows-in-markups-not-saved-in-mrk-json-id48278.md)
+- [weekly meeting](archive/rendered-topics/2026/2026-09/2026-09-23-2026-09-29-weekly-meeting-id48251.md)
+- [aruco navigation camera intel realsense d415](archive/rendered-topics/2026/2026-09/2026-09-23-aruco-navigation-camera-intel-realsense-d415-id48245.md)

@@ -3,7 +3,7 @@ topic_id: 48607
 title: "Apple Silicon (arm64 macOS) application and extensions now available"
 date: 2026-10-26
 url: https://discourse.slicer.org/t/48607
-last_bumped: 2026-10-28T20:44:16.074Z
+last_bumped: 2026-10-29T14:02:07.023Z
 ---
 
 # Apple Silicon (arm64 macOS) application and extensions now available
@@ -100,5 +100,12 @@ Slicer         qSlicerMainWindowPrivate::setupUi()
 ## Post #7 by @Sam_Horvath (2026-10-28 20:44 UTC)
 
 <p>So, the arm64 factory has been updated to 6.11.2.  Tomorrow’s installer should have the updated version</p>
+
+---
+
+## Post #8 by @jamesobutler (2026-10-29 14:02 UTC)
+
+<p>The updated arm64 version with Qt 6.11.2 runs successfully on macOS 27.2 now.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/d/e/dee7ead808c74c5684a66523314aa64f66e9a7f4.png" data-download-href="/uploads/short-url/vNUSvdFa5Oad8XOarhMdFWwGtuc.png?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/d/e/dee7ead808c74c5684a66523314aa64f66e9a7f4_2_690x141.png" alt="image" data-base62-sha1="vNUSvdFa5Oad8XOarhMdFWwGtuc" width="690" height="141" srcset="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/d/e/dee7ead808c74c5684a66523314aa64f66e9a7f4_2_690x141.png, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/d/e/dee7ead808c74c5684a66523314aa64f66e9a7f4_2_1035x211.png 1.5x, https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/d/e/dee7ead808c74c5684a66523314aa64f66e9a7f4.png 2x" data-dominant-color="E1DFDF"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">image</span><span class="informations">1092×224 14.3 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
 
 ---

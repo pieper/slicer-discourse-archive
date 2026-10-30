@@ -3,7 +3,7 @@ topic_id: 47482
 title: "3D Slicer doesn’t start after Windows Install"
 date: 2026-06-28
 url: https://discourse.slicer.org/t/47482
-last_bumped: 2026-07-17T10:12:48.533Z
+last_bumped: 2026-10-30T01:29:05.493Z
 ---
 
 # 3D Slicer doesn’t start after Windows Install
@@ -29,5 +29,12 @@ last_bumped: 2026-07-17T10:12:48.533Z
 ## Post #2 by @cpinter (2026-07-17 10:12 UTC)
 
 <p>Do you see any error related to the Slicer launcher or application if you open Computer management → System Tools / Event Viewer / Windows Logs / Application? (Computer management can be reached for example if you right click the Start button in the toolbar)</p>
+
+---
+
+## Post #3 by @Randy_Peterson (2026-10-30 01:29 UTC)
+
+<p>I finally solved this problem and am able to run Slicer!</p>
+<p>The issue turned out to be a corrupted AMD graphics driver on my Windows Lenovo laptop.</p>
 
 ---
