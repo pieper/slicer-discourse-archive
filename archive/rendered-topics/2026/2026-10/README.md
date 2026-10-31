@@ -33,3 +33,4 @@
 - [2026 10 26 Apple Silicon Arm64 Macos Application And Extensions Now Ava](2026-10-26-apple-silicon-arm64-macos-application-and-extensions-now-ava-id48607.md)
 - [2026 10 28 2026 11 03 Weekly Meeting](2026-10-28-2026-11-03-weekly-meeting-id48633.md)
 - [2026 10 29 Workflow Advice Preclinical Rat Brain Ct Hemispheric Volumet](2026-10-29-workflow-advice-preclinical-rat-brain-ct-hemispheric-volumet-id48643.md)
+- [2026 10 30 Help To Segment Small Intestine](2026-10-30-help-to-segment-small-intestine-id48653.md)
