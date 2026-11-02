@@ -1,6 +1,6 @@
 # Slicer Discourse Archive Index
 
-Last updated: 2026-11-01 09:50 UTC
+Last updated: 2026-11-02 10:10 UTC
 
 ## Archive Contents
 
@@ -23,16 +23,8 @@ Last updated: 2026-11-01 09:50 UTC
 - [README.md](archive/rendered-topics/2019/2019-06/README.md)
 - [README.md](archive/rendered-topics/2019/2019-04/README.md)
 - [README.md](archive/rendered-topics/2019/2019-03/README.md)
-- [help to segment small intestine](archive/rendered-topics/2026/2026-10/2026-10-30-help-to-segment-small-intestine-id48653.md)
-- [call for participation in the sofa week 2026](archive/rendered-topics/2026/2026-10/2026-10-20-call-for-participation-in-the-sofa-week-2026-id48553.md)
-- [weekly meeting](archive/rendered-topics/2026/2026-10/2026-10-21-2026-10-27-weekly-meeting-id48559.md)
-- [error when running watershed](archive/rendered-topics/2026/2026-10/2026-10-21-error-when-running-watershed-id48557.md)
-- [computational requirements](archive/rendered-topics/2026/2026-10/2026-10-22-computational-requirements-id48572.md)
-- [slicermorph not on arm64 catalogue](archive/rendered-topics/2026/2026-10/2026-10-23-slicermorph-not-on-arm64-catalogue-id48578.md)
-- [extentions cant be loaded](archive/rendered-topics/2026/2026-10/2026-10-24-extentions-cant-be-loaded-id48592.md)
-- [apple silicon arm64 macos application and extensions now ava](archive/rendered-topics/2026/2026-10/2026-10-26-apple-silicon-arm64-macos-application-and-extensions-now-ava-id48607.md)
 - [weekly meeting](archive/rendered-topics/2026/2026-10/2026-10-28-2026-11-03-weekly-meeting-id48633.md)
-- [workflow advice preclinical rat brain ct hemispheric volumet](archive/rendered-topics/2026/2026-10/2026-10-29-workflow-advice-preclinical-rat-brain-ct-hemispheric-volumet-id48643.md)
+- [help to segment small intestine](archive/rendered-topics/2026/2026-10/2026-10-30-help-to-segment-small-intestine-id48653.md)
 - [small screen space dash appears at curve midpoint after clon](archive/rendered-topics/2026/2026-10/2026-10-01-small-screen-space-dash-appears-at-curve-midpoint-after-clon-id48374.md)
 - [volume rendering tdr error code 7 issue persists](archive/rendered-topics/2026/2026-10/2026-10-01-volume-rendering-tdr-error-code-7-issue-persists-id48373.md)
 - [radiomics feature](archive/rendered-topics/2026/2026-10/2026-10-05-radiomics-feature-id48402.md)
@@ -56,6 +48,14 @@ Last updated: 2026-11-01 09:50 UTC
 - [help registering mri images and segmentation in 3d slicer](archive/rendered-topics/2026/2026-10/2026-10-16-help-registering-mri-images-and-segmentation-in-3d-slicer-id48539.md)
 - [slicerrt blocked by windows smart app control in slicer 5 12](archive/rendered-topics/2026/2026-10/2026-10-16-slicerrt-blocked-by-windows-smart-app-control-in-slicer-5-12-id48534.md)
 - [prismrendering not loading](archive/rendered-topics/2026/2026-10/2026-10-19-prismrendering-not-loading-id48550.md)
-- [developing a chest ct image analysis tool to detect lung air](archive/rendered-topics/2026/2026-09/2026-09-28-developing-a-chest-ct-image-analysis-tool-to-detect-lung-air-id48322.md)
-- [osteotomycuts a new extension for multi segment osteotomy pl](archive/rendered-topics/2026/2026-09/2026-09-29-osteotomycuts-a-new-extension-for-multi-segment-osteotomy-pl-id48329.md)
-- [segmentation color table generator](archive/rendered-topics/2026/2026-09/2026-09-29-segmentation-color-table-generator-id48330.md)
+- [call for participation in the sofa week 2026](archive/rendered-topics/2026/2026-10/2026-10-20-call-for-participation-in-the-sofa-week-2026-id48553.md)
+- [weekly meeting](archive/rendered-topics/2026/2026-10/2026-10-21-2026-10-27-weekly-meeting-id48559.md)
+- [error when running watershed](archive/rendered-topics/2026/2026-10/2026-10-21-error-when-running-watershed-id48557.md)
+- [computational requirements](archive/rendered-topics/2026/2026-10/2026-10-22-computational-requirements-id48572.md)
+- [slicermorph not on arm64 catalogue](archive/rendered-topics/2026/2026-10/2026-10-23-slicermorph-not-on-arm64-catalogue-id48578.md)
+- [extentions cant be loaded](archive/rendered-topics/2026/2026-10/2026-10-24-extentions-cant-be-loaded-id48592.md)
+- [apple silicon arm64 macos application and extensions now ava](archive/rendered-topics/2026/2026-10/2026-10-26-apple-silicon-arm64-macos-application-and-extensions-now-ava-id48607.md)
+- [workflow advice preclinical rat brain ct hemispheric volumet](archive/rendered-topics/2026/2026-10/2026-10-29-workflow-advice-preclinical-rat-brain-ct-hemispheric-volumet-id48643.md)
+- [virtual excavation of iron age cremations using 3d slicer fo](archive/rendered-topics/2026/2026-09/2026-09-23-virtual-excavation-of-iron-age-cremations-using-3d-slicer-fo-id48248.md)
+- [curve direction arrows in markups not saved in mrk json](archive/rendered-topics/2026/2026-09/2026-09-24-curve-direction-arrows-in-markups-not-saved-in-mrk-json-id48278.md)
+- [extrac silhouette point clouds of each sagittal slice](archive/rendered-topics/2026/2026-09/2026-09-24-extrac-silhouette-point-clouds-of-each-sagittal-slice-id48262.md)
