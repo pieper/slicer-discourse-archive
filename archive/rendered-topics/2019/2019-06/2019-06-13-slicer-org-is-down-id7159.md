@@ -3,7 +3,7 @@ topic_id: 7159
 title: "Slicer.org is down"
 date: 2019-06-13
 url: https://discourse.slicer.org/t/7159
-last_bumped: 2026-10-28T20:54:51.395Z
+last_bumped: 2026-11-02T17:51:32.000Z
 ---
 
 # Slicer.org is down
@@ -71,5 +71,24 @@ last_bumped: 2026-10-28T20:54:51.395Z
 ## Post #9 by @Sam_Horvath (2026-10-28 20:54 UTC)
 
 <p>Or we could just do that transfer of the domain to Kitware, and we’ll take care of it</p>
+
+---
+
+## Post #10 by @Sam_Horvath (2026-11-02 16:13 UTC)
+
+<p>Site should be back up now!</p>
+
+---
+
+## Post #11 by @pieper (2026-11-02 17:41 UTC)
+
+<p>Thanks <a class="mention" href="/u/sam_horvath">@Sam_Horvath</a> !</p>
+
+---
+
+## Post #12 by @rkikinis (2026-11-02 17:51 UTC)
+
+<p>Thanks to all who made it happen.<br>
+Ron</p>
 
 ---

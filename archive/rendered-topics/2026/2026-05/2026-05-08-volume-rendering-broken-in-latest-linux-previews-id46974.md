@@ -3,7 +3,7 @@ topic_id: 46974
 title: "Volume rendering broken in latest Linux previews?"
 date: 2026-05-08
 url: https://discourse.slicer.org/t/46974
-last_bumped: 2026-05-27T13:28:43.234Z
+last_bumped: 2026-11-03T09:30:48.839Z
 ---
 
 # Volume rendering broken in latest Linux previews?
@@ -1717,5 +1717,40 @@ manylinux2014, manylinux_2…
   <div style="clear: both"></div>
 </aside>
 
+
+---
+
+## Post #34 by @mhouse (2026-11-03 09:30 UTC)
+
+<p>I have just found this thread. Since I have started to build Slicer myself to investigate some issues, I experienced similar crashes. But not only if I switch to the Volume Rendering module after the start of Slicer. It happens as well for the Sequence module. The workaround was to set <code>xcb</code>.</p>
+<pre><code class="lang-auto">type orSwitch to module:  "Welcome"
+bool qSlicerSubjectHierarchyPluginHandler::registerPlugin(qSlicerSubjectHierarchyAbstractPlugin*) : SubjectHierarchy plugin  "SavePyFile"  is already registered
+virtual void QtWaylandClient::QWaylandTextInputv3::zwp_text_input_v3_leave(wl_surface*) Got leave event for surface 0x0 with focusing surface 0x578166ae5230
+virtual void QtWaylandClient::QWaylandTextInputv3::disableSurface(wl_surface*) Try to disable surface 0x0 with focusing surface 0x578166ae5230
+virtual void QtWaylandClient::QWaylandTextInputv3::disableSurface(wl_surface*) Try to disable surface 0x5781683af6d0 with focusing surface 0x57816826bd50
+Switch to module:  "Sequences"
+X Error of failed request:  BadAccess (attempt to access private resource denied)
+  Major opcode of failed request:  149 (GLX)
+  Minor opcode of failed request:  5 (X_GLXMakeCurrent)
+  Serial number of failed request:  38
+  Current serial number in output stream:  38
+vtkDebugLeaks has detected LEAKS!
+Class "vtkMRMLColorTableNode has 59 instances still around.
+Class "vtkMRMLVolumeGlyphSliceDisplayableManager has 3 instances still around.
+Class "vtkSlicerROIWidget has 1 instance still around.
+Class "vtkConeSource has 2 instances still around.
+Class "vtkMRMLScene has 2 instances still around.
+Class "vtkMRMLVectorVolumeNode has 2 instances still around.
+Class "vtkSlicerTextsReader has 1 instance still around.
+Class "vtkMRMLTableViewNode has 2 instances still around.
+Class "vtkMRMLTableStorageNode has 2 instances still around.
+Class "vtkMRMLCameraNode has 4 instances still around.
+Class "vtkTable has 2 instances still around.
+Class "vtkDataSetAttributes has 2 instances still around.
+...
+
+</code></pre>
+<p>With the previous downloaded preview Linux versions it was not happen. I felt it has more to do with the switch to QT6  (version 6.11).</p>
+<p>The switch to the Data module and also to load a DICOM sequence via the DICOM browser is working without a crash.</p>
 
 ---

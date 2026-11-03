@@ -3,7 +3,7 @@ topic_id: 47472
 title: "GUI panels from Slicer 5.12.0 shows over other software on Windows 11"
 date: 2026-06-26
 url: https://discourse.slicer.org/t/47472
-last_bumped: 2026-07-02T19:23:38.999Z
+last_bumped: 2026-11-02T23:51:09.560Z
 ---
 
 # GUI panels from Slicer 5.12.0 shows over other software on Windows 11
@@ -49,5 +49,31 @@ last_bumped: 2026-07-02T19:23:38.999Z
 <p>Hi!</p>
 <p>Thanks for your response James.</p>
 <p>I’m lacking of time, but, should we open a Bug Report on the bugtracker on Github? I’m afraid if I do it, maybe I can’t follow it up as is needed.</p>
+
+---
+
+## Post #6 by @Esteban_Barreiro (2026-11-02 22:15 UTC)
+
+<p>Hello!</p>
+<p>I’m trying to report this behavior using the Slicer Bug Tracker, but it looks the page <a href="https://issues.slicer.org/" rel="noopener nofollow ugc">issues.slicer.org</a> is broken. It shows “ERR_CONNECTION_CLOSED”.</p>
+
+---
+
+## Post #7 by @pieper (2026-11-02 23:24 UTC)
+
+<p>Thanks for reporting.  <a href="http://slicer.org">slicer.org</a> was down for a few days, but it’s back now, but probably not all the subdomains have been transferred.</p>
+<p><a class="mention" href="/u/sam_horvath">@Sam_Horvath</a> do we have a way to get a list of the subdomains that should still be set up?  Maybe an AI could build the list for us.</p>
+
+---
+
+## Post #8 by @Sam_Horvath (2026-11-02 23:36 UTC)
+
+<p>I’ll get the redirect fixed up, it’s pretty much the only one that is broken.</p>
+
+---
+
+## Post #9 by @Sam_Horvath (2026-11-02 23:51 UTC)
+
+<p>Please report issues on the Slicer Github, that is where the URL would be pointing anyway</p>
 
 ---

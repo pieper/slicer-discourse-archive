@@ -3,7 +3,7 @@ topic_id: 48653
 title: "Help to Segment Small Intestine "
 date: 2026-10-30
 url: https://discourse.slicer.org/t/48653
-last_bumped: 2026-11-01T19:26:05.607Z
+last_bumped: 2026-11-02T20:26:30.000Z
 ---
 
 # Help to Segment Small Intestine 
@@ -47,5 +47,14 @@ last_bumped: 2026-11-01T19:26:05.607Z
 <p>I have myself have luck doing this for a health problem I had in the past so I think if you do the hard work it should pay-off</p>
 <p>Good luck!<br>
 Mauro</p>
+
+---
+
+## Post #5 by @Randy_Peterson (2026-11-02 20:26 UTC)
+
+<p>Mauro,</p>
+<p>Very helpful. Thank you!!<br>
+From here I am going to use your suggestions and watch some Youtube videos. I will also take a look at Slicey. And I need an anatomy book to learn as well.</p>
+<p>Regards, Randy</p>
 
 ---

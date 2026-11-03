@@ -3,7 +3,7 @@ topic_id: 48210
 title: "Rendering of DICOM image failed with more than 4 volumes since version 12"
 date: 2026-09-21
 url: https://discourse.slicer.org/t/48210
-last_bumped: 2026-10-09T14:20:45.518Z
+last_bumped: 2026-11-02T12:15:11.545Z
 ---
 
 # Rendering of DICOM image failed with more than 4 volumes since version 12
@@ -310,12 +310,6 @@ ValueError: list.remove(x): x not in list</p>
 
 ---
 
-## Post #23 by @mhouse (2026-10-09 13:51 UTC)
-
-<p>(post deleted by author)</p>
-
----
-
 ## Post #24 by @fedorov (2026-10-09 13:57 UTC)
 
 <p>The link you shared does not work for me - it says the file is not available.</p>
@@ -359,5 +353,53 @@ ValueError: list.remove(x): x not in list</p>
 <blockquote>
 <p>E: invalid value for ‘PhotometricInterpretation’ (YBR_RCT)</p>
 </blockquote>
+
+---
+
+## Post #29 by @mhouse (2026-10-21 14:23 UTC)
+
+<p>the word <code>sequence</code> is added each time you press one of the play buttons. It is done if the <code>Rename</code> checkbox is active, which is the default.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/a/7/a70d957a85e4bde7029372aff92d2038445c132e.png" data-download-href="/uploads/short-url/nPOQ8z7Yg9Yus6PJXfvDLDdwJdA.png?dl=1" title="sequence-appending" rel="noopener nofollow ugc"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/a/7/a70d957a85e4bde7029372aff92d2038445c132e_2_690x104.png" alt="sequence-appending" data-base62-sha1="nPOQ8z7Yg9Yus6PJXfvDLDdwJdA" width="690" height="104" srcset="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/a/7/a70d957a85e4bde7029372aff92d2038445c132e_2_690x104.png, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/a/7/a70d957a85e4bde7029372aff92d2038445c132e_2_1035x156.png 1.5x, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/a/7/a70d957a85e4bde7029372aff92d2038445c132e_2_1380x208.png 2x" data-dominant-color="383838"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">sequence-appending</span><span class="informations">3506×530 117 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
+<p>btw the view gets huge if the labels are already long. I use 2 32" screens and it goes over both. I remember I have read this issue already in another thread. I cannot shrink the view as well, also if I resize the table columns.</p>
+
+---
+
+## Post #30 by @mhouse (2026-11-02 12:15 UTC)
+
+<p>The issue with the huge growing panel comes from the override <code>qSlicerModulePanel::minimumSizeHint()</code>. For my workaround I have changed it for the moment.</p>
+<pre><code class="lang-auto">//---------------------------------------------------------------------------
+QSize qSlicerModulePanel::minimumSizeHint() const
+{
+  Q_D(const qSlicerModulePanel);
+  // QScrollArea::minumumSizeHint is wrong. QScrollArea are not meant to
+  // be resized. The minimumSizeHint is actually the width of the module
+  // representation.
+  //QSize size = QSize(d-&gt;ScrollArea-&gt;widget()-&gt;minimumSizeHint().width() + d-&gt;ScrollArea-&gt;horizontalScrollBar()-&gt;sizeHint().width(), this-&gt;Superclass::minimumSizeHint().height());
+  QSize size = QSize(d-&gt;ScrollArea-&gt;widget()-&gt;minimumSizeHint().width(), this-&gt;Superclass::minimumSizeHint().height());
+  return size;
+}
+</code></pre>
+<p>Also in the <code>qSlicerSequencesModuleWidget.ui</code> file there should be some parameters added to limit the initial width of the <code>QTabWidget</code> and to set there the Elide mode, so that the child widgets get this mode as well.</p>
+<pre><code class="lang-auto">    &lt;widget class="QTabWidget" name="mainTabWidget"&gt;
+     &lt;property name="sizePolicy"&gt;
+      &lt;sizepolicy hsizetype="Preferred" vsizetype="Expanding"&gt;
+       &lt;horstretch&gt;0&lt;/horstretch&gt;
+       &lt;verstretch&gt;0&lt;/verstretch&gt;
+      &lt;/sizepolicy&gt;
+     &lt;/property&gt;
+     &lt;property name="maximumSize"&gt;
+      &lt;size&gt;
+       &lt;width&gt;800&lt;/width&gt;
+       &lt;height&gt;16777215&lt;/height&gt;
+      &lt;/size&gt;
+     &lt;/property&gt;
+     &lt;property name="currentIndex"&gt;
+      &lt;number&gt;0&lt;/number&gt;
+     &lt;/property&gt;
+     &lt;property name="elideMode"&gt;
+      &lt;enum&gt;Qt::TextElideMode::ElideMiddle&lt;/enum&gt;
+     &lt;/property&gt;
+</code></pre>
+<p>In the <code>qSlicerSequencesModuleWidget</code> I have changed some methods, so that it is now working with my data. At the moment I’m testing it during the usage of Slicer. So far I have not looked further into the issue with the appending of the word <code>sequence</code>, as I can prevent it, if I disable the renaming.</p>
 
 ---
