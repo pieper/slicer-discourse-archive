@@ -1,8 +1,9 @@
 ---
 topic_id: 4077
-title: "3D Connexion Space Mouse"
+title: "3D Connexion space mouse"
 date: 2018-09-12
 url: https://discourse.slicer.org/t/4077
+last_bumped: 2026-11-03T21:06:12.000Z
 ---
 
 # 3D Connexion space mouse
@@ -114,5 +115,13 @@ Here is a log:<br>
 <p>Hi <a class="mention" href="/u/lassoan">@lassoan</a> , no problem <img src="https://emoji.discourse-cdn.com/twitter/slight_smile.png?v=12" title=":slight_smile:" class="emoji" alt=":slight_smile:" loading="lazy" width="20" height="20"></p>
 <p>I use the SpaceMouse to position and rotate the camera in the 3D view by directly associating the Camera with the transform in the transform hierarchy. This is quite convenient to inspect 3D objects from all sides, e.g. directly after segmenting a volume.</p>
 <p>However, I went through a similar experience at first that the positioning was not super intuitive. I basically needed to tweak some of the values that directly fall out of the driver, such as the sensitivity which I had to reduce significantly. I also had to change the signs and order of the components in translation and rotation vectors, because the SpaceMouse coordinate frame did not directly align with RAS. Adjusting all of that, I now find the device quite usable for my purposes <img src="https://emoji.discourse-cdn.com/twitter/slight_smile.png?v=12" title=":slight_smile:" class="emoji" alt=":slight_smile:" loading="lazy" width="20" height="20"></p>
+
+---
+
+## Post #11 by @Mark_Ryan (2026-11-03 21:06 UTC)
+
+<p>I realize this is a really old thread but recently purchased the Spacemouse and wanted to try and get it working.  Was able to use Claude to make a python module that connects directly to the device and works pretty well.  Just have to create a directory for it and drag and drop into modules, restart slicer and should be good to go.  Module shows up under Utilites → Spacemouse.  Can choose movement type and select for certain movements.</p>
+<p>Posted it in Github in case you want to take a look:</p>
+<p><a href="https://github.com/markleoryan79/SpaceMouse" class="onebox" target="_blank" rel="noopener nofollow ugc">https://github.com/markleoryan79/SpaceMouse</a></p>
 
 ---

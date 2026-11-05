@@ -3,7 +3,7 @@ topic_id: 47472
 title: "GUI panels from Slicer 5.12.0 shows over other software on Windows 11"
 date: 2026-06-26
 url: https://discourse.slicer.org/t/47472
-last_bumped: 2026-11-02T23:51:09.560Z
+last_bumped: 2026-11-04T01:36:05.058Z
 ---
 
 # GUI panels from Slicer 5.12.0 shows over other software on Windows 11
@@ -75,5 +75,75 @@ last_bumped: 2026-11-02T23:51:09.560Z
 ## Post #9 by @Sam_Horvath (2026-11-02 23:51 UTC)
 
 <p>Please report issues on the Slicer Github, that is where the URL would be pointing anyway</p>
+
+---
+
+## Post #11 by @Esteban_Barreiro (2026-11-04 01:36 UTC)
+
+<p>Done. Thanks!</p>
+<aside class="onebox githubissue github-onebox" data-onebox-src="https://github.com/Slicer/Slicer/issues/9532">
+    <header class="source github-onebox__header">
+  <span class="github-onebox__label" role="img" aria-label="Open issue" title="Open issue">
+    <svg width="16" height="16" viewBox="0 0 16 16" aria-hidden="true"><path fill-rule="evenodd" d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"></path></svg>
+    <span>Open issue</span>
+  </span>
+    <a class="github-onebox__repo" href="https://github.com/Slicer/Slicer/issues/9532" target="_blank" rel="noopener nofollow ugc">
+      <svg width="16" height="16" viewBox="0 0 16 16" aria-hidden="true"><path d="M6.766 11.328c-2.063-.25-3.516-1.734-3.516-3.656 0-.781.281-1.625.75-2.188-.203-.515-.172-1.609.063-2.062.625-.078 1.468.25 1.968.703.594-.187 1.219-.281 1.985-.281.765 0 1.39.094 1.953.265.484-.437 1.344-.765 1.969-.687.218.422.25 1.515.046 2.047.5.593.766 1.39.766 2.203 0 1.922-1.453 3.375-3.547 3.64.531.344.89 1.094.89 1.954v1.625c0 .468.391.734.86.547C13.781 14.359 16 11.53 16 8.03 16 3.61 12.406 0 7.984 0 3.563 0 0 3.61 0 8.031a7.88 7.88 0 0 0 5.172 7.422c.422.156.828-.125.828-.547v-1.25c-.219.094-.5.156-.75.156-1.031 0-1.64-.562-2.078-1.609-.172-.422-.36-.672-.719-.719-.187-.015-.25-.093-.25-.187 0-.188.313-.328.625-.328.453 0 .844.281 1.25.86.313.452.64.655 1.031.655s.641-.14 1-.5c.266-.265.47-.5.657-.656"></path></svg>
+      <span>Slicer/Slicer</span>
+    </a>
+</header>
+
+
+  <article class="onebox-body">
+    <div class="github-row" data-github-private-repo="false">
+  <div class="github-info-container">
+    <h4>
+      <a href="https://github.com/Slicer/Slicer/issues/9532" target="_blank" rel="noopener nofollow ugc">GUI glitches in Slicer v5.12.x</a>
+    </h4>
+
+    <div class="github-info">
+      <div class="date">
+        opened <span class="discourse-local-date" data-format="ll" data-date="2026-11-03" data-time="16:52:04" data-timezone="UTC">04:52PM - 03 Nov 26 UTC</span>
+      </div>
+
+
+      <div class="user">
+        <a href="https://github.com/EstebanBarreiro" target="_blank" rel="noopener nofollow ugc">
+          <img alt="" src="https://avatars.githubusercontent.com/u/190802980?v=4" class="onebox-avatar-inline" width="20" height="20">
+          EstebanBarreiro
+        </a>
+      </div>
+    </div>
+
+    <div class="labels">
+    </div>
+  </div>
+</div>
+
+  <div class="github-row">
+    <p class="github-body-container">Pinned view controllers and pop-ups glitches on Windows 11.
+Some of the menus, f<span class="show-more-container"><a href="" rel="noopener" class="show-more">…</a></span><span class="excerpt hidden">rom the Red, Green and Yellow viewers stay visible over every other software .
+
+    1. Pin controllers on Green, Yellow, Red viewers to keep them always visible, (also display pop-ups)
+    2. Slicer does pinned view controllers stays visible over any other software.
+ 
+- Slicer version: Slicer-5.12.x r34645 / 4e21c19 (every 5.12 version) - built 2026-09-09
+- Operating system: Windows 11.
+- Same bug described for macOS in this thread: [https://discourse.slicer.org/t/gui-panels-from-slicer-5-12-0-shows-over-other-software-on-windows-11/47472](https://discourse.slicer.org/t/gui-panels-from-slicer-5-12-0-shows-over-other-software-on-windows-11/47472)
+
+&lt;img width="1919" height="1031" alt="Image" src="https://github.com/user-attachments/assets/90d5dab1-e639-418d-913f-78ada4f91a38" /&gt;
+&lt;img width="1873" height="953" alt="Image" src="https://github.com/user-attachments/assets/71e6deac-78ba-4594-826f-79a760287b2e" /&gt;</span></p>
+  </div>
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
 
 ---

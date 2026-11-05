@@ -3,7 +3,7 @@ topic_id: 48674
 title: "Low resolution images - MRI"
 date: 2026-11-02
 url: https://discourse.slicer.org/t/48674
-last_bumped: 2026-11-02T18:16:35.415Z
+last_bumped: 2026-11-05T08:25:12.545Z
 ---
 
 # Low resolution images - MRI
@@ -47,5 +47,13 @@ last_bumped: 2026-11-02T18:16:35.415Z
   <div style="clear: both"></div>
 </aside>
 
+
+---
+
+## Post #3 by @markcprosser (2026-11-05 08:25 UTC)
+
+<p>I think I am experiencing a similar issue except with MRI scans of my knee.</p>
+<p>vertical is as it should be, but the other 2 are low resolution and there are MORE slides than there should be - the resolution should be around 4mm, but it is more like 1mm for some strange reason!</p>
+<p>Maybe some attempt at interpolation has gone on?</p>
 
 ---
