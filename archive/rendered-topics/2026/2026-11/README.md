@@ -9,3 +9,6 @@
 - [2026 11 04 2026 11 10 Weekly Meeting](2026-11-04-2026-11-10-weekly-meeting-id48706.md)
 - [2026 11 04 Segment Editor Segment Visibility Button And Color Button Di](2026-11-04-segment-editor-segment-visibility-button-and-color-button-di-id48704.md)
 - [2026 11 05 A Segment Selector Segmenteditoreffect For Large Segmentatio](2026-11-05-a-segment-selector-segmenteditoreffect-for-large-segmentatio-id48726.md)
+- [2026 11 05 Fine Resolution Scissors Fill Inside](2026-11-05-fine-resolution-scissors-fill-inside-id48737.md)
+- [2026 11 06 Controlling Chordal Decimation Preventing Non Manifold Edges](2026-11-06-controlling-chordal-decimation-preventing-non-manifold-edges-id48748.md)
+- [2026 11 06 Ist School 2027 Valparaiso Chile Jan 18 22 Hands On Tractogr](2026-11-06-ist-school-2027-valparaiso-chile-jan-18-22-hands-on-tractogr-id48743.md)

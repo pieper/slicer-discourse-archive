@@ -3,7 +3,7 @@ topic_id: 48679
 title: "Use torchvulkan to enable gpu segmentations in totalsegmentator"
 date: 2026-11-02
 url: https://discourse.slicer.org/t/48679
-last_bumped: 2026-11-05T09:43:51.725Z
+last_bumped: 2026-11-05T10:31:30.971Z
 ---
 
 # Use torchvulkan to enable gpu segmentations in totalsegmentator
@@ -88,5 +88,29 @@ I tried both lines which you sent, and then I got those answers<br>
 ## Post #10 by @Alex_Vergara (2026-11-05 09:43 UTC)
 
 <p>your homebrew is NOT installed, please follow the guide in <a href="https://brew.sh/" rel="noopener nofollow ugc">https://brew.sh/</a></p>
+
+---
+
+## Post #11 by @Philipp_G (2026-11-05 10:29 UTC)
+
+<aside class="quote no-group" data-username="Alex_Vergara" data-post="1" data-topic="48679">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="24" height="24" src="https://sea2.discourse-cdn.com/flex002/user_avatar/discourse.slicer.org/alex_vergara/48/15205_2.png" class="avatar"> Alex_Vergara:</div>
+<blockquote>
+<pre><code class="lang-auto">import torchvulkan
+device = torch.device("vulkan" if torchvulkan.is_available() else "cpu")
+</code></pre>
+</blockquote>
+</aside>
+<p>I am another novice - I managed to install MoltenVK via brew terminal. If I follow the instructions from the project website “pip install torchvulkan” I get the error “torchvulkan not found” either in terminal (“brew install torchvulkan”) or slicer python console (“pip install torchvulkan”) or (import torchvulkan<br>
+device = torch.device(“vulkan” if torchvulkan.is_available() else “cpu”))</p>
+
+---
+
+## Post #12 by @Alex_Vergara (2026-11-05 10:31 UTC)
+
+<p>hello, you need torch&gt;=2.15 for torchvulkan to be available<br>
+Also, torchvulkan should be accesible first from your iterm2 console, slicer is still not ready for it yet</p>
 
 ---

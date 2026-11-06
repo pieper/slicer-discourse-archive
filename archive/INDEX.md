@@ -1,10 +1,10 @@
 # Slicer Discourse Archive Index
 
-Last updated: 2026-11-05 09:58 UTC
+Last updated: 2026-11-06 10:00 UTC
 
 ## Archive Contents
 
-- Total rendered topics: 19270
+- Total rendered topics: 19273
 - Raw JSON files: 0
 
 ## Recent Topics
@@ -24,25 +24,17 @@ Last updated: 2026-11-05 09:58 UTC
 - [README.md](archive/rendered-topics/2019/2019-06/README.md)
 - [README.md](archive/rendered-topics/2019/2019-04/README.md)
 - [README.md](archive/rendered-topics/2019/2019-03/README.md)
-- [weekly meeting](archive/rendered-topics/2026/2026-10/2026-10-28-2026-11-03-weekly-meeting-id48633.md)
-- [short survey for slicerros2 users and potential users](archive/rendered-topics/2026/2026-11/2026-11-03-short-survey-for-slicerros2-users-and-potential-users-id48696.md)
-- [gui panels from slicer 5 12 0 shows over other software on w](archive/rendered-topics/2026/2026-06/2026-06-26-gui-panels-from-slicer-5-12-0-shows-over-other-software-on-w-id47472.md)
-- [segmentations on ct head image](archive/rendered-topics/2026/2026-11/2026-11-03-segmentations-on-ct-head-image-id48690.md)
-- [segment editor segment visibility button and color button di](archive/rendered-topics/2026/2026-11/2026-11-04-segment-editor-segment-visibility-button-and-color-button-di-id48704.md)
-- [weekly meeting](archive/rendered-topics/2026/2026-11/2026-11-04-2026-11-10-weekly-meeting-id48706.md)
-- [volume sequence broken in 5 12](archive/rendered-topics/2026/2026-11/2026-11-03-volume-sequence-broken-in-5-12-id48692.md)
-- [low resolution images mri](archive/rendered-topics/2026/2026-11/2026-11-02-low-resolution-images-mri-id48674.md)
-- [a segment selector segmenteditoreffect for large segmentatio](archive/rendered-topics/2026/2026-11/2026-11-05-a-segment-selector-segmenteditoreffect-for-large-segmentatio-id48726.md)
 - [use torchvulkan to enable gpu segmentations in totalsegmenta](archive/rendered-topics/2026/2026-11/2026-11-02-use-torchvulkan-to-enable-gpu-segmentations-in-totalsegmenta-id48679.md)
-- [extentions cant be loaded](archive/rendered-topics/2026/2026-10/2026-10-24-extentions-cant-be-loaded-id48592.md)
-- [apple silicon arm64 macos application and extensions now ava](archive/rendered-topics/2026/2026-10/2026-10-26-apple-silicon-arm64-macos-application-and-extensions-now-ava-id48607.md)
-- [workflow advice preclinical rat brain ct hemispheric volumet](archive/rendered-topics/2026/2026-10/2026-10-29-workflow-advice-preclinical-rat-brain-ct-hemispheric-volumet-id48643.md)
-- [help to segment small intestine](archive/rendered-topics/2026/2026-10/2026-10-30-help-to-segment-small-intestine-id48653.md)
-- [3d slicer fibular cutting plane for mandible reconstruction](archive/rendered-topics/2026/2026-11/2026-11-02-3d-slicer-fibular-cutting-plane-for-mandible-reconstruction-id48675.md)
-- [corrective osteotomy module in canine hindlimb](archive/rendered-topics/2026/2026-10/2026-10-13-corrective-osteotomy-module-in-canine-hindlimb-id48500.md)
-- [mandible reconstruction with fibula free flap videotutorial](archive/rendered-topics/2026/2026-10/2026-10-13-mandible-reconstruction-with-fibula-free-flap-videotutorial-id48501.md)
-- [weekly meeting](archive/rendered-topics/2026/2026-10/2026-10-14-2026-10-20-weekly-meeting-id48514.md)
-- [modalityconverter v2 0 remote inference and workflow improve](archive/rendered-topics/2026/2026-10/2026-10-14-modalityconverter-v2-0-remote-inference-and-workflow-improve-id48513.md)
+- [low resolution images mri](archive/rendered-topics/2026/2026-11/2026-11-02-low-resolution-images-mri-id48674.md)
+- [fine resolution scissors fill inside](archive/rendered-topics/2026/2026-11/2026-11-05-fine-resolution-scissors-fill-inside-id48737.md)
+- [ist school 2027 valparaiso chile jan 18 22 hands on tractogr](archive/rendered-topics/2026/2026-11/2026-11-06-ist-school-2027-valparaiso-chile-jan-18-22-hands-on-tractogr-id48743.md)
+- [controlling chordal decimation preventing non manifold edges](archive/rendered-topics/2026/2026-11/2026-11-06-controlling-chordal-decimation-preventing-non-manifold-edges-id48748.md)
+- [segmentations on ct head image](archive/rendered-topics/2026/2026-11/2026-11-03-segmentations-on-ct-head-image-id48690.md)
+- [short survey for slicerros2 users and potential users](archive/rendered-topics/2026/2026-11/2026-11-03-short-survey-for-slicerros2-users-and-potential-users-id48696.md)
+- [volume sequence broken in 5 12](archive/rendered-topics/2026/2026-11/2026-11-03-volume-sequence-broken-in-5-12-id48692.md)
+- [weekly meeting](archive/rendered-topics/2026/2026-11/2026-11-04-2026-11-10-weekly-meeting-id48706.md)
+- [segment editor segment visibility button and color button di](archive/rendered-topics/2026/2026-11/2026-11-04-segment-editor-segment-visibility-button-and-color-button-di-id48704.md)
+- [a segment selector segmenteditoreffect for large segmentatio](archive/rendered-topics/2026/2026-11/2026-11-05-a-segment-selector-segmenteditoreffect-for-large-segmentatio-id48726.md)
 - [updates to slicer packages kitware com in progress](archive/rendered-topics/2026/2026-10/2026-10-14-updates-to-slicer-packages-kitware-com-in-progress-id48518.md)
 - [after midline mirroring of the roi how to edit the resulting](archive/rendered-topics/2026/2026-10/2026-10-15-after-midline-mirroring-of-the-roi-how-to-edit-the-resulting-id48525.md)
 - [getting started with 3d slicer for medical imaging](archive/rendered-topics/2026/2026-10/2026-10-15-getting-started-with-3d-slicer-for-medical-imaging-id48526.md)
@@ -54,8 +46,16 @@ Last updated: 2026-11-05 09:58 UTC
 - [error when running watershed](archive/rendered-topics/2026/2026-10/2026-10-21-error-when-running-watershed-id48557.md)
 - [computational requirements](archive/rendered-topics/2026/2026-10/2026-10-22-computational-requirements-id48572.md)
 - [slicermorph not on arm64 catalogue](archive/rendered-topics/2026/2026-10/2026-10-23-slicermorph-not-on-arm64-catalogue-id48578.md)
-- [dentalsegmentator error loading results failt to load the se](archive/rendered-topics/2026/2026-10/2026-10-01-dentalsegmentator-error-loading-results-failt-to-load-the-se-id48375.md)
+- [extentions cant be loaded](archive/rendered-topics/2026/2026-10/2026-10-24-extentions-cant-be-loaded-id48592.md)
+- [apple silicon arm64 macos application and extensions now ava](archive/rendered-topics/2026/2026-10/2026-10-26-apple-silicon-arm64-macos-application-and-extensions-now-ava-id48607.md)
+- [weekly meeting](archive/rendered-topics/2026/2026-10/2026-10-28-2026-11-03-weekly-meeting-id48633.md)
+- [workflow advice preclinical rat brain ct hemispheric volumet](archive/rendered-topics/2026/2026-10/2026-10-29-workflow-advice-preclinical-rat-brain-ct-hemispheric-volumet-id48643.md)
+- [help to segment small intestine](archive/rendered-topics/2026/2026-10/2026-10-30-help-to-segment-small-intestine-id48653.md)
+- [3d slicer fibular cutting plane for mandible reconstruction](archive/rendered-topics/2026/2026-11/2026-11-02-3d-slicer-fibular-cutting-plane-for-mandible-reconstruction-id48675.md)
 - [small screen space dash appears at curve midpoint after clon](archive/rendered-topics/2026/2026-10/2026-10-01-small-screen-space-dash-appears-at-curve-midpoint-after-clon-id48374.md)
 - [volume rendering tdr error code 7 issue persists](archive/rendered-topics/2026/2026-10/2026-10-01-volume-rendering-tdr-error-code-7-issue-persists-id48373.md)
 - [radiomics feature](archive/rendered-topics/2026/2026-10/2026-10-05-radiomics-feature-id48402.md)
 - [the calculations used for determining tbth tbsp tb n in bone](archive/rendered-topics/2026/2026-10/2026-10-06-the-calculations-used-for-determining-tbth-tbsp-tb-n-in-bone-id48416.md)
+- [weekly meeting](archive/rendered-topics/2026/2026-10/2026-10-07-2026-10-13-weekly-meeting-id48435.md)
+- [density and surface area of a segment on a single axial cut](archive/rendered-topics/2026/2026-10/2026-10-07-density-and-surface-area-of-a-segment-on-a-single-axial-cut-id48437.md)
+- [image capture shortcuts with transparent background](archive/rendered-topics/2026/2026-10/2026-10-07-image-capture-shortcuts-with-transparent-background-id48422.md)
