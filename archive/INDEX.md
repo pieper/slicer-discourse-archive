@@ -1,10 +1,10 @@
 # Slicer Discourse Archive Index
 
-Last updated: 2026-11-06 10:00 UTC
+Last updated: 2026-11-07 09:20 UTC
 
 ## Archive Contents
 
-- Total rendered topics: 19273
+- Total rendered topics: 19274
 - Raw JSON files: 0
 
 ## Recent Topics
@@ -24,24 +24,18 @@ Last updated: 2026-11-06 10:00 UTC
 - [README.md](archive/rendered-topics/2019/2019-06/README.md)
 - [README.md](archive/rendered-topics/2019/2019-04/README.md)
 - [README.md](archive/rendered-topics/2019/2019-03/README.md)
-- [use torchvulkan to enable gpu segmentations in totalsegmenta](archive/rendered-topics/2026/2026-11/2026-11-02-use-torchvulkan-to-enable-gpu-segmentations-in-totalsegmenta-id48679.md)
+- [a segment selector segmenteditoreffect for large segmentatio](archive/rendered-topics/2026/2026-11/2026-11-05-a-segment-selector-segmenteditoreffect-for-large-segmentatio-id48726.md)
+- [extensions aren t showing up and i can t download them](archive/rendered-topics/2026/2026-11/2026-11-06-extensions-aren-t-showing-up-and-i-can-t-download-them-id48768.md)
 - [low resolution images mri](archive/rendered-topics/2026/2026-11/2026-11-02-low-resolution-images-mri-id48674.md)
-- [fine resolution scissors fill inside](archive/rendered-topics/2026/2026-11/2026-11-05-fine-resolution-scissors-fill-inside-id48737.md)
-- [ist school 2027 valparaiso chile jan 18 22 hands on tractogr](archive/rendered-topics/2026/2026-11/2026-11-06-ist-school-2027-valparaiso-chile-jan-18-22-hands-on-tractogr-id48743.md)
-- [controlling chordal decimation preventing non manifold edges](archive/rendered-topics/2026/2026-11/2026-11-06-controlling-chordal-decimation-preventing-non-manifold-edges-id48748.md)
+- [use torchvulkan to enable gpu segmentations in totalsegmenta](archive/rendered-topics/2026/2026-11/2026-11-02-use-torchvulkan-to-enable-gpu-segmentations-in-totalsegmenta-id48679.md)
 - [segmentations on ct head image](archive/rendered-topics/2026/2026-11/2026-11-03-segmentations-on-ct-head-image-id48690.md)
 - [short survey for slicerros2 users and potential users](archive/rendered-topics/2026/2026-11/2026-11-03-short-survey-for-slicerros2-users-and-potential-users-id48696.md)
 - [volume sequence broken in 5 12](archive/rendered-topics/2026/2026-11/2026-11-03-volume-sequence-broken-in-5-12-id48692.md)
 - [weekly meeting](archive/rendered-topics/2026/2026-11/2026-11-04-2026-11-10-weekly-meeting-id48706.md)
 - [segment editor segment visibility button and color button di](archive/rendered-topics/2026/2026-11/2026-11-04-segment-editor-segment-visibility-button-and-color-button-di-id48704.md)
-- [a segment selector segmenteditoreffect for large segmentatio](archive/rendered-topics/2026/2026-11/2026-11-05-a-segment-selector-segmenteditoreffect-for-large-segmentatio-id48726.md)
-- [updates to slicer packages kitware com in progress](archive/rendered-topics/2026/2026-10/2026-10-14-updates-to-slicer-packages-kitware-com-in-progress-id48518.md)
-- [after midline mirroring of the roi how to edit the resulting](archive/rendered-topics/2026/2026-10/2026-10-15-after-midline-mirroring-of-the-roi-how-to-edit-the-resulting-id48525.md)
-- [getting started with 3d slicer for medical imaging](archive/rendered-topics/2026/2026-10/2026-10-15-getting-started-with-3d-slicer-for-medical-imaging-id48526.md)
-- [help registering mri images and segmentation in 3d slicer](archive/rendered-topics/2026/2026-10/2026-10-16-help-registering-mri-images-and-segmentation-in-3d-slicer-id48539.md)
-- [slicerrt blocked by windows smart app control in slicer 5 12](archive/rendered-topics/2026/2026-10/2026-10-16-slicerrt-blocked-by-windows-smart-app-control-in-slicer-5-12-id48534.md)
-- [prismrendering not loading](archive/rendered-topics/2026/2026-10/2026-10-19-prismrendering-not-loading-id48550.md)
-- [call for participation in the sofa week 2026](archive/rendered-topics/2026/2026-10/2026-10-20-call-for-participation-in-the-sofa-week-2026-id48553.md)
+- [fine resolution scissors fill inside](archive/rendered-topics/2026/2026-11/2026-11-05-fine-resolution-scissors-fill-inside-id48737.md)
+- [controlling chordal decimation preventing non manifold edges](archive/rendered-topics/2026/2026-11/2026-11-06-controlling-chordal-decimation-preventing-non-manifold-edges-id48748.md)
+- [ist school 2027 valparaiso chile jan 18 22 hands on tractogr](archive/rendered-topics/2026/2026-11/2026-11-06-ist-school-2027-valparaiso-chile-jan-18-22-hands-on-tractogr-id48743.md)
 - [weekly meeting](archive/rendered-topics/2026/2026-10/2026-10-21-2026-10-27-weekly-meeting-id48559.md)
 - [error when running watershed](archive/rendered-topics/2026/2026-10/2026-10-21-error-when-running-watershed-id48557.md)
 - [computational requirements](archive/rendered-topics/2026/2026-10/2026-10-22-computational-requirements-id48572.md)
@@ -59,3 +53,9 @@ Last updated: 2026-11-06 10:00 UTC
 - [weekly meeting](archive/rendered-topics/2026/2026-10/2026-10-07-2026-10-13-weekly-meeting-id48435.md)
 - [density and surface area of a segment on a single axial cut](archive/rendered-topics/2026/2026-10/2026-10-07-density-and-surface-area-of-a-segment-on-a-single-axial-cut-id48437.md)
 - [image capture shortcuts with transparent background](archive/rendered-topics/2026/2026-10/2026-10-07-image-capture-shortcuts-with-transparent-background-id48422.md)
+- [ai driven upper airway analysis](archive/rendered-topics/2026/2026-10/2026-10-08-ai-driven-upper-airway-analysis-id48443.md)
+- [dose calculating alogorithm and calibration curve for slicer](archive/rendered-topics/2026/2026-10/2026-10-08-dose-calculating-alogorithm-and-calibration-curve-for-slicer-id48451.md)
+- [rounding or display error in threshold level selector](archive/rendered-topics/2026/2026-10/2026-10-10-rounding-or-display-error-in-threshold-level-selector-id48470.md)
+- [on 1 3d slicer tutor needed](archive/rendered-topics/2026/2026-10/2026-10-12-1-on-1-3d-slicer-tutor-needed-id48482.md)
+- [fast model align does not operate](archive/rendered-topics/2026/2026-10/2026-10-12-fast-model-align-does-not-operate-id48483.md)
+- [opendose3d testing users needed](archive/rendered-topics/2026/2026-10/2026-10-12-opendose3d-testing-users-needed-id48484.md)
