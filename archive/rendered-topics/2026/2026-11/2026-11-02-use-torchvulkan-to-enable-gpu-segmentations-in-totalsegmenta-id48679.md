@@ -3,7 +3,7 @@ topic_id: 48679
 title: "Use torchvulkan to enable gpu segmentations in totalsegmentator"
 date: 2026-11-02
 url: https://discourse.slicer.org/t/48679
-last_bumped: 2026-11-05T10:31:30.971Z
+last_bumped: 2026-11-09T09:32:03.541Z
 ---
 
 # Use torchvulkan to enable gpu segmentations in totalsegmentator
@@ -112,5 +112,11 @@ device = torch.device(“vulkan” if torchvulkan.is_available() else “cpu”)
 
 <p>hello, you need torch&gt;=2.15 for torchvulkan to be available<br>
 Also, torchvulkan should be accesible first from your iterm2 console, slicer is still not ready for it yet</p>
+
+---
+
+## Post #13 by @philippepellerin (2026-11-09 09:32 UTC)
+
+<p>Thanks, I installed Homebrew through .vtk, then ran the line of code ,which you sent previously. I ran 3DSlicer; total segmentator, but could not find a difference with its usual processing time…I have a Mac mini, chio M2 pro, 16GBmemory, Mac Os Tahoe</p>
 
 ---

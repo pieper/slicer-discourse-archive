@@ -3,7 +3,7 @@ topic_id: 48315
 title: "Crash rendering very large meshes on macOS: Apple's OpenGL driver fails on glBufferSubData uploads over 2 GB"
 date: 2026-09-27
 url: https://discourse.slicer.org/t/48315
-last_bumped: 2026-09-30T14:34:36.258Z
+last_bumped: 2026-11-09T08:56:03.415Z
 ---
 
 # Crash rendering very large meshes on macOS: Apple's OpenGL driver fails on glBufferSubData uploads over 2 GB
@@ -95,5 +95,29 @@ I think it would be better to submit a merge request upstream and / or submit th
 
 <p>OK. I don’t think this is particularly critical, Mac users are not in the majority here and this issue (and another I uncovered) only show up with large volumes and/or very high polygon meshes. I’ll start the process of talking with the VTK devs.</p>
 <p>Thanks!!</p>
+
+---
+
+## Post #7 by @hherhold (2026-11-09 00:11 UTC)
+
+<p>OK, this and another fix I found along the way have been merged into VTK.</p>
+<p>What’s the general timeline for updating the VTK version in Slicer? I don’t have a particular rush on this, just curious what the general procedure is.</p>
+<p>The merges in VTK, for reference:</p>
+<p><a href="https://gitlab.kitware.com/vtk/vtk/-/merge_requests/13916#note_1905085" rel="noopener nofollow ugc">vtkOpenGLBufferObject: Upload large buffers in chunks on Apple</a></p>
+<p><a href="https://gitlab.kitware.com/vtk/vtk/-/merge_requests/13856" rel="noopener nofollow ugc">vtkVolumeTexture: Use vtkIdType for sizes and extents</a></p>
+
+---
+
+## Post #8 by @Thibault_Pelletier (2026-11-09 08:56 UTC)
+
+<p>Hi <a class="mention" href="/u/hherhold">@hherhold</a>,</p>
+<p>Thank you for working on that and for the follow up!<br>
+I think your PR has unfortunately missed VTK release v9.7.2 by a few days…</p>
+<p>So to bring the fix into Slicer, we would have the following options:</p>
+<ul>
+<li>Backport the fix on the Slicer VTK branch (marked [backport] to be dropped onced the next stable release is out)</li>
+<li>Wait for the next stable VTK release (release cycle varies, but future major is currently scheduled to drop sometimes around January)</li>
+</ul>
+<p>So in Slicer, we could bump the VTK fork to v9.7.2 to be on the latest stable and backport the fix</p>
 
 ---
