@@ -3,7 +3,7 @@ topic_id: 48315
 title: "Crash rendering very large meshes on macOS: Apple's OpenGL driver fails on glBufferSubData uploads over 2 GB"
 date: 2026-09-27
 url: https://discourse.slicer.org/t/48315
-last_bumped: 2026-11-09T08:56:03.415Z
+last_bumped: 2026-11-09T11:35:24.427Z
 ---
 
 # Crash rendering very large meshes on macOS: Apple's OpenGL driver fails on glBufferSubData uploads over 2 GB
@@ -119,5 +119,11 @@ I think your PR has unfortunately missed VTK release v9.7.2 by a few days…</p>
 <li>Wait for the next stable VTK release (release cycle varies, but future major is currently scheduled to drop sometimes around January)</li>
 </ul>
 <p>So in Slicer, we could bump the VTK fork to v9.7.2 to be on the latest stable and backport the fix</p>
+
+---
+
+## Post #9 by @hherhold (2026-11-09 11:35 UTC)
+
+<p>Whatever is easiest is fine with me. Doesn’t seem like a ton of people have been complaining about this, so waiting for the next VTK release might be the best way to go?</p>
 
 ---

@@ -14,3 +14,5 @@
 - [2026 11 06 Extensions Aren T Showing Up And I Can T Download Them](2026-11-06-extensions-aren-t-showing-up-and-i-can-t-download-them-id48768.md)
 - [2026 11 06 Ist School 2027 Valparaiso Chile Jan 18 22 Hands On Tractogr](2026-11-06-ist-school-2027-valparaiso-chile-jan-18-22-hands-on-tractogr-id48743.md)
 - [2026 11 08 Dentalsegmentator Stuck At When Segmenting Cbct](2026-11-08-dentalsegmentator-stuck-at-when-segmenting-cbct-id48795.md)
+- [2026 11 09 Transform Applied To Multiple Volumes Misbehaves When Edited](2026-11-09-transform-applied-to-multiple-volumes-misbehaves-when-edited-id48810.md)
+- [2026 11 10 Malpaca Consensus Atlas Mirrored Models Or One Side](2026-11-10-malpaca-consensus-atlas-mirrored-models-or-one-side-id48823.md)
