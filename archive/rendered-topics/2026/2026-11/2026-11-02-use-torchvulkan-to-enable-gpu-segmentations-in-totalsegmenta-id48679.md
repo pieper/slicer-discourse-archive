@@ -3,7 +3,7 @@ topic_id: 48679
 title: "Use torchvulkan to enable gpu segmentations in totalsegmentator"
 date: 2026-11-02
 url: https://discourse.slicer.org/t/48679
-last_bumped: 2026-11-09T09:32:03.541Z
+last_bumped: 2026-11-11T09:50:21.206Z
 ---
 
 # Use torchvulkan to enable gpu segmentations in totalsegmentator
@@ -118,5 +118,28 @@ Also, torchvulkan should be accesible first from your iterm2 console, slicer is 
 ## Post #13 by @philippepellerin (2026-11-09 09:32 UTC)
 
 <p>Thanks, I installed Homebrew through .vtk, then ran the line of code ,which you sent previously. I ran 3DSlicer; total segmentator, but could not find a difference with its usual processing time…I have a Mac mini, chio M2 pro, 16GBmemory, Mac Os Tahoe</p>
+
+---
+
+## Post #14 by @Alex_Vergara (2026-11-10 16:19 UTC)
+
+<p>Hello, Slicer needs two merge requests I have already sent for torchvulkan to be enabled:</p>
+<ol>
+<li><a href="https://github.com/fepegar/SlicerPyTorch/pull/27" class="inline-onebox" rel="noopener nofollow ugc">Add torchvulkan fallback by BishopWolf · Pull Request #27 · fepegar/SlicerPyTorch · GitHub</a></li>
+<li><a href="https://github.com/lassoan/SlicerTotalSegmentator/pull/87" class="inline-onebox" rel="noopener nofollow ugc">add vulkan capability by BishopWolf · Pull Request #87 · lassoan/SlicerTotalSegmentator · GitHub</a></li>
+</ol>
+<p>These two PR enables vulkan device in totalsegmentator (at least for me)</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/8/c/8cfaf676ff2d720ab30554c8b1b69630124ad376.jpeg" data-download-href="/uploads/short-url/k7awVtGUvfcB6FWqPu4cwQIBHUy.jpeg?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/8/c/8cfaf676ff2d720ab30554c8b1b69630124ad376_2_690x372.jpeg" alt="image" data-base62-sha1="k7awVtGUvfcB6FWqPu4cwQIBHUy" width="690" height="372" srcset="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/8/c/8cfaf676ff2d720ab30554c8b1b69630124ad376_2_690x372.jpeg, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/8/c/8cfaf676ff2d720ab30554c8b1b69630124ad376_2_1035x558.jpeg 1.5x, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/8/c/8cfaf676ff2d720ab30554c8b1b69630124ad376_2_1380x744.jpeg 2x" data-dominant-color="989597"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">image</span><span class="informations">1916×1034 327 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
+
+---
+
+## Post #15 by @zainsharief (2026-11-11 09:50 UTC)
+
+<p>Hi, just a couple things to clear up confusion.</p>
+<ol>
+<li>torchvulkan comes with moltenvk shipped, so no need to install that <img src="https://emoji.discourse-cdn.com/twitter/slight_smile.png?v=16" title=":slight_smile:" class="emoji" alt=":slight_smile:" loading="lazy" width="20" height="20"></li>
+<li><a class="mention" href="/u/philipp_g">@Philipp_G</a> It seems like you might have an Intel Mac - which unfortunately torchvulkan is unable to support due to the lack of pytorch support on them.</li>
+<li>the correct backend order should be cuda/mps → vulkan → CPU since we currently have parity performance with mps which is more stable, hence why <a class="mention" href="/u/philippepellerin">@philippepellerin</a> didn’t notice much of a difference.</li>
+</ol>
 
 ---

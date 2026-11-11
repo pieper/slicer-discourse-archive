@@ -3,7 +3,7 @@ topic_id: 34214
 title: "Working with 4D flow MRI data"
 date: 2024-02-08
 url: https://discourse.slicer.org/t/34214
-last_bumped: 2026-10-07T19:32:09.475Z
+last_bumped: 2026-11-10T12:08:45.605Z
 ---
 
 # Working with 4D flow MRI data
@@ -113,5 +113,35 @@ University Health Network</p>
 ## Post #15 by @klns23 (2026-10-07 19:32 UTC)
 
 <p>Hello, it’s been a couple years, checking in again on this topic as it remains of interest. Is the Siemens CS 4D flow image importer Slicer module now available? Is it perhaps packaged as part of some other extension? Thank you.</p>
+
+---
+
+## Post #16 by @ben2200 (2026-11-10 12:08 UTC)
+
+<p>I think the paper Andras was referring to has recently been published for anyone still interested.</p><aside class="onebox allowlistedgeneric" data-onebox-src="https://arxiv.org/abs/2610.38948">
+  <header class="source">
+      <img src="https://arxiv.org/static/browse/0.3.4/images/icons/favicon-32x32.png" class="site-icon" alt="" width="32" height="32">
+
+      <a href="https://arxiv.org/abs/2610.38948" target="_blank" rel="noopener nofollow ugc">arXiv.org</a>
+  </header>
+
+  <article class="onebox-body">
+    <div class="aspect-image" style="--aspect-ratio:690/402;"><img src="https://static.arxiv.org/icons/twitter/arxiv-logo-twitter-square.png" class="thumbnail" alt="" width="500" height="500"></div>
+
+<h3><a href="https://arxiv.org/abs/2610.38948" target="_blank" rel="noopener nofollow ugc">Open-Source Framework for the Visualization, Quantification, and Analysis of...</a></h3>
+
+  <p>Background: Four-dimensional (4D) flow cardiovascular magnetic resonance (CMR) captures 3D anatomy and blood velocity across the cardiac cycle, but current post-processing software is closed, varies across platforms, and sits outside open-source...</p>
+
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
 
 ---

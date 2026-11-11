@@ -15,4 +15,7 @@
 - [2026 11 06 Ist School 2027 Valparaiso Chile Jan 18 22 Hands On Tractogr](2026-11-06-ist-school-2027-valparaiso-chile-jan-18-22-hands-on-tractogr-id48743.md)
 - [2026 11 08 Dentalsegmentator Stuck At When Segmenting Cbct](2026-11-08-dentalsegmentator-stuck-at-when-segmenting-cbct-id48795.md)
 - [2026 11 09 Transform Applied To Multiple Volumes Misbehaves When Edited](2026-11-09-transform-applied-to-multiple-volumes-misbehaves-when-edited-id48810.md)
+- [2026 11 10 After Download Software I Can Not Reach Xray Page In My Soft](2026-11-10-after-download-software-i-can-not-reach-xray-page-in-my-soft-id48844.md)
+- [2026 11 10 First Time Attending A Project Week](2026-11-10-first-time-attending-a-project-week-id48847.md)
 - [2026 11 10 Malpaca Consensus Atlas Mirrored Models Or One Side](2026-11-10-malpaca-consensus-atlas-mirrored-models-or-one-side-id48823.md)
+- [2026 11 10 Project Week 46 Meetings Begin Next Week Tuesday November 17](2026-11-10-project-week-46-meetings-begin-next-week-tuesday-november-17-id48846.md)
