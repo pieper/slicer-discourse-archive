@@ -3,7 +3,7 @@ topic_id: 48810
 title: "Transform applied to multiple volumes misbehaves when edited"
 date: 2026-11-09
 url: https://discourse.slicer.org/t/48810
-last_bumped: 2026-11-11T09:38:47.628Z
+last_bumped: 2026-11-11T17:54:18.879Z
 ---
 
 # Transform applied to multiple volumes misbehaves when edited
@@ -154,5 +154,16 @@ last_bumped: 2026-11-11T09:38:47.628Z
 [Qt] Switch to module:  "CompareVolumes"
 
 </code></pre>
+
+---
+
+## Post #4 by @mikebind (2026-11-11 17:54 UTC)
+
+<p>Ah, I think I see what’s going on.  On one of the image volumes, right click in the show/hide column and uncheck “Reset view orientation on show”</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/3/f/3fe883dc4b1e10c6fbede2f84d3c5f70593f42ba.png" data-download-href="/uploads/short-url/97meZRygLwSoeYMqn9QswKjjH50.png?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/3/f/3fe883dc4b1e10c6fbede2f84d3c5f70593f42ba_2_690x343.png" alt="image" data-base62-sha1="97meZRygLwSoeYMqn9QswKjjH50" width="690" height="343" srcset="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/3/f/3fe883dc4b1e10c6fbede2f84d3c5f70593f42ba_2_690x343.png, https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/3/f/3fe883dc4b1e10c6fbede2f84d3c5f70593f42ba.png 1.5x, https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/3/f/3fe883dc4b1e10c6fbede2f84d3c5f70593f42ba.png 2x" data-dominant-color="D3D6D1"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">image</span><span class="informations">708×352 42 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
+<p>While appearing like this might be a per-image setting, this is a global setting which is remembered from session to session, so you only need to do this once to make the change.  After you do this, close and reopen Slicer and try your sequence of actions again, and I think Slicer will behave as you expect.  What was happening was that the slice views reoriented to the current image volume when you clicked to “show” it using the eye in the Data module.  So, the viewing frame of the Red, Green and Yellow slice views was rotated by 45 degrees from that point on. You can see this in your screenshots where the labels on the right-hand sides of the sliders show multiple directions instead of one (‘AR’ on the green slice, ‘LA’ on the yellow slice).  If you open the dropdown menu on the slices you will also see that they say “Reformat” rather than, for example, “Coronal” or “Sagittal”.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/b/f/bfab0c80ad79a0264f47fb1649c0c4be66cc4d81.png" data-download-href="/uploads/short-url/rlzFn6L6Ckoj8FZAV9PhO8K58M9.png?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/b/f/bfab0c80ad79a0264f47fb1649c0c4be66cc4d81.png" alt="image" data-base62-sha1="rlzFn6L6Ckoj8FZAV9PhO8K58M9" width="338" height="175"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">image</span><span class="informations">338×175 24.6 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
+<p>This setting exists because in some contexts it makes more sense to orient the slice views so that the image voxel axes are aligned with the slices, and in other contexts it makes more sense to look at images sliced along a consistent world axis (this often makes more sense if multiple images with different world orientations are being examined together).  For me, I am almost always considering multiple images that may not share a coordinate system, so just keeping everything in a standard RAS world orientation makes sense, so I always have this setting turned off because reorienting the slice views every time I click to view something is extremely confusing.  But, if my main workflow was sequentially segmenting single image volumes, it would probably make sense to have this setting on since several of the segment editor tools work most cleanly if the voxel grid is aligned with the viewing slices.</p>
+<p>So, I think this is not a bug in Slicer, but rather an interaction of some confusing view settings.  If changing this setting doesn’t resolve the issue, please post back.</p>
 
 ---

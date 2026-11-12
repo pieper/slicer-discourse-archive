@@ -3,7 +3,7 @@ topic_id: 48679
 title: "Use torchvulkan to enable gpu segmentations in totalsegmentator"
 date: 2026-11-02
 url: https://discourse.slicer.org/t/48679
-last_bumped: 2026-11-11T09:50:21.206Z
+last_bumped: 2026-11-11T22:24:30.959Z
 ---
 
 # Use torchvulkan to enable gpu segmentations in totalsegmentator
@@ -141,5 +141,29 @@ Also, torchvulkan should be accesible first from your iterm2 console, slicer is 
 <li><a class="mention" href="/u/philipp_g">@Philipp_G</a> It seems like you might have an Intel Mac - which unfortunately torchvulkan is unable to support due to the lack of pytorch support on them.</li>
 <li>the correct backend order should be cuda/mps → vulkan → CPU since we currently have parity performance with mps which is more stable, hence why <a class="mention" href="/u/philippepellerin">@philippepellerin</a> didn’t notice much of a difference.</li>
 </ol>
+
+---
+
+## Post #16 by @philippepellerin (2026-11-11 10:12 UTC)
+
+<p>I downloaded the latest release of Slicer: 2026.11.09, and TotalSegmentator runs much faster. I don’t know whether it is because I previously installed Homebrew, since I can’t see any specific message when I launch the task…</p>
+
+---
+
+## Post #17 by @Alex_Vergara (2026-11-11 22:24 UTC)
+
+<p>I have made a lot of tests but I can’t get MPS to work at all</p>
+<pre><code class="lang-auto"># MPS (Apple GPU) must not be used: 3D convolutions (aten::conv3d / convtranspose3d), which nnUNet
+# relies on, are not implemented on the MPS backend and fail with a hard error
+# ("RuntimeError: Conv3D is not supported on MPS") that PYTORCH_ENABLE_MPS_FALLBACK cannot fix.
+# Therefore the CPU is used on Macs (unless Vulkan is usable), even when an MPS device is available.
+# Tracking: pytorch/pytorch#130256 (ConvTranspose3D FP32) was closed May 2026 as supported in
+# torch&gt;=2.8 (via #154696/#145366); FP16/BF16 ConvTranspose3D is still unsupported (#160739, PR #188732
+# open) and aten::slow_conv3d_forward (#117949) is still open. Re-enable only after testing
+# "--device mps" end-to-end with the Slicer PyTorch version in FP32 (no AMP/autocast).
+# Set this to True to try the MPS device again. PYTORCH_ENABLE_MPS_FALLBACK=1 is set for the
+# TotalSegmentator process when the MPS device is used.
+ENABLE_MPS = False
+</code></pre>
 
 ---
