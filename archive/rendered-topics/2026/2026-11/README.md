@@ -21,3 +21,4 @@
 - [2026 11 10 Project Week 46 Meetings Begin Next Week Tuesday November 17](2026-11-10-project-week-46-meetings-begin-next-week-tuesday-november-17-id48846.md)
 - [2026 11 11 2026 11 17 Weekly Meeting](2026-11-11-2026-11-17-weekly-meeting-id48854.md)
 - [2026 11 11 How To Create A 3D Cuboid Roi 3D Slicer Version 5 12 4](2026-11-11-how-to-create-a-3d-cuboid-roi-3d-slicer-version-5-12-4-id48853.md)
+- [2026 11 13 Request For Permission To Use The 3D Slicer Logo In Kimi](2026-11-13-request-for-permission-to-use-the-3d-slicer-logo-in-kimi-id48871.md)

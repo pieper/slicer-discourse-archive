@@ -3,7 +3,7 @@ topic_id: 48847
 title: "First time attending a Project Week"
 date: 2026-11-10
 url: https://discourse.slicer.org/t/48847
-last_bumped: 2026-11-10T22:41:56.278Z
+last_bumped: 2026-11-12T20:01:57.596Z
 ---
 
 # First time attending a Project Week
@@ -71,5 +71,17 @@ To finalize the registration, it is required to pay the registration fee, follow
   <div style="clear: both"></div>
 </aside>
 
+
+---
+
+## Post #5 by @rimsouthcott16 (2026-11-12 19:47 UTC)
+
+<p>For the hotel, the discounted block is usually arranged by the local hosts and posted on the Project Week page once it is finalized, so it may simply not be available yet. If your lab needs a cost estimate for funding now, it may be worth emailing the organizing committee to ask about the planned hotel and rate, and whether they can provide an invoice or acceptance letter with registration. That kind of documentation often satisfies internal funding paperwork before the booking link appears.</p>
+
+---
+
+## Post #6 by @fedorov (2026-11-12 20:01 UTC)
+
+<p>Also, if you want to minimize the expense, based on my past experience, it is possible to find a nearby hotel that is cheaper than the one used for the venue, even with the discount.</p>
 
 ---

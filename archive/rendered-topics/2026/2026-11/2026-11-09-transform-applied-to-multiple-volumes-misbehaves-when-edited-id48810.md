@@ -3,7 +3,7 @@ topic_id: 48810
 title: "Transform applied to multiple volumes misbehaves when edited"
 date: 2026-11-09
 url: https://discourse.slicer.org/t/48810
-last_bumped: 2026-11-11T17:54:18.879Z
+last_bumped: 2026-11-12T12:46:24.066Z
 ---
 
 # Transform applied to multiple volumes misbehaves when edited
@@ -165,5 +165,12 @@ last_bumped: 2026-11-11T17:54:18.879Z
 <p><div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/b/f/bfab0c80ad79a0264f47fb1649c0c4be66cc4d81.png" data-download-href="/uploads/short-url/rlzFn6L6Ckoj8FZAV9PhO8K58M9.png?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/b/f/bfab0c80ad79a0264f47fb1649c0c4be66cc4d81.png" alt="image" data-base62-sha1="rlzFn6L6Ckoj8FZAV9PhO8K58M9" width="338" height="175"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">image</span><span class="informations">338×175 24.6 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
 <p>This setting exists because in some contexts it makes more sense to orient the slice views so that the image voxel axes are aligned with the slices, and in other contexts it makes more sense to look at images sliced along a consistent world axis (this often makes more sense if multiple images with different world orientations are being examined together).  For me, I am almost always considering multiple images that may not share a coordinate system, so just keeping everything in a standard RAS world orientation makes sense, so I always have this setting turned off because reorienting the slice views every time I click to view something is extremely confusing.  But, if my main workflow was sequentially segmenting single image volumes, it would probably make sense to have this setting on since several of the segment editor tools work most cleanly if the voxel grid is aligned with the viewing slices.</p>
 <p>So, I think this is not a bug in Slicer, but rather an interaction of some confusing view settings.  If changing this setting doesn’t resolve the issue, please post back.</p>
+
+---
+
+## Post #5 by @shai-ikko (2026-11-12 12:46 UTC)
+
+<p>Thanks! This indeed seems to solve our problem.</p>
+<p>I don’t recall being aware of this setting, so I suspect “on” is the default, and obviously, if so, I find this default suspicious. But at least for us, for now, just knowing about it is good enough.</p>
 
 ---
