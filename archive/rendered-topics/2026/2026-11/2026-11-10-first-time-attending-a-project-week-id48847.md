@@ -3,7 +3,7 @@ topic_id: 48847
 title: "First time attending a Project Week"
 date: 2026-11-10
 url: https://discourse.slicer.org/t/48847
-last_bumped: 2026-11-12T20:01:57.596Z
+last_bumped: 2026-11-13T21:36:45.704Z
 ---
 
 # First time attending a Project Week
@@ -83,5 +83,21 @@ To finalize the registration, it is required to pay the registration fee, follow
 ## Post #6 by @fedorov (2026-11-12 20:01 UTC)
 
 <p>Also, if you want to minimize the expense, based on my past experience, it is possible to find a nearby hotel that is cheaper than the one used for the venue, even with the discount.</p>
+
+---
+
+## Post #7 by @cpinter (2026-11-13 12:06 UTC)
+
+<p>Thank you for your interest!</p>
+<p>About joining as an observer: I agree with <a class="mention" href="/u/fedorov">@fedorov</a> . You most certainly have some topic of interest and maybe some workflow step or implementation detail you see as a potentially difficult one. If so, feel free to add it as a project. Sometimes a project is only a discussion with the experts about a certain topic, or even fixing a Slicer bug. No need to think only in terms of large projects.</p>
+<p>Registration is open, all info is on the event page (<a class="mention" href="/u/pieper">@pieper</a> linked it above).</p>
+<p>The discounted hotel link can be expected early next week. We are on it… However, maybe worth noting that the hotel is not among the cheap ones, and you may find other offers nearby. It is a super touristy area.</p>
+<p>Looking forward to meeting you at the project week, and also at one of the preparations meetings!</p>
+
+---
+
+## Post #8 by @AhmedBen (2026-11-13 21:36 UTC)
+
+<p>Thank you all for your replies! See you soon.</p>
 
 ---

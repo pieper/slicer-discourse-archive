@@ -3,7 +3,7 @@ topic_id: 48844
 title: "after download software i can not reach xray page in my software"
 date: 2026-11-10
 url: https://discourse.slicer.org/t/48844
-last_bumped: 2026-11-11T19:35:05.491Z
+last_bumped: 2026-11-13T23:30:38.103Z
 ---
 
 # after download software i can not reach xray page in my software
@@ -23,5 +23,11 @@ last_bumped: 2026-11-11T19:35:05.491Z
 ## Post #2 by @mikebind (2026-11-11 19:35 UTC)
 
 <p>Some more details would help people be able to help you.  What are you trying to accomplish? What have you tried?  Are you new to Slicer?  Was something working previously and now has stopped working, or is this something you have never gotten to work?  For quicker responses, general purpose public AI chatbots are often very good at helping with 3D Slicer usage questions.  For example, you could ask ChatGPT or Claude something like: “I am trying to load an x-ray image I got from my doctor into 3D Slicer, how can I accomplish this?  I have installed 3D Slicer, but don’t know what to do next. What steps should I follow?”  That’s taking a wild guess at your situation; modify as needed of course.</p>
+
+---
+
+## Post #3 by @rimsouthcott16 (2026-11-13 23:30 UTC)
+
+<p>In 3D Slicer there isn’t a dedicated “X-ray page” to navigate to. If your X-ray is a JPEG/PNG, use File &gt; Add Data and load it as a volume/image; if it came as DICOM, use the DICOM module. Then use the slice views and window/level controls. If you were following a tutorial that mentions an X-ray page, link it so we can match those steps.</p>
 
 ---

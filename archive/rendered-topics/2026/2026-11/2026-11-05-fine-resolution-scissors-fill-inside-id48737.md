@@ -3,7 +3,7 @@ topic_id: 48737
 title: "Fine resolution scissors fill inside?"
 date: 2026-11-05
 url: https://discourse.slicer.org/t/48737
-last_bumped: 2026-11-11T21:38:29.507Z
+last_bumped: 2026-11-13T23:14:56.995Z
 ---
 
 # Fine resolution scissors fill inside?
@@ -29,5 +29,11 @@ Actual behavior: Coarse resolution scissor fill inside</p>
 
 <p>Have you tried the “Draw” tool?  It allows you to fill in an arbitrarily drawn shape on a single slice, which sounds similar to what you are trying to accomplish using scissors (unless you want the 3D projection of the scissors tool).  In terms of resolution, all methods will be limited by the resolution of the segmentation (which is typically set at the resolution of the segmented image voxels, but could be modified using the Specify Geometry button).  A voxel of the segmentation is either included or not included in a segment, it cannot be partially included in a binary labelmap representation.</p>
 <p>The documentation here may be helpful: <a href="https://slicer.readthedocs.io/en/latest/user_guide/modules/segmenteditor.html#segment-editor" rel="noopener nofollow ugc">Segment editor — 3D Slicer documentation</a></p>
+
+---
+
+## Post #3 by @rimsouthcott16 (2026-11-13 23:14 UTC)
+
+<p>The 0.01 mm paint value is a brush diameter, not the output resolution; Paint and Scissors both end up as whole segmentation voxels. Scissors Fill inside rasterizes the free-form outline to the segmentation grid, so its edge will look coarse if that grid is coarse. In Segment Editor, use Specify Geometry before segmenting to set a finer spacing (or create the segmentation at a finer grid), then redo the scissors fill. That gives smoother boundaries, but it is oversampling: it won’t recover detail finer than the source image. Draw with fill-inside has the same voxel limitation.</p>
 
 ---

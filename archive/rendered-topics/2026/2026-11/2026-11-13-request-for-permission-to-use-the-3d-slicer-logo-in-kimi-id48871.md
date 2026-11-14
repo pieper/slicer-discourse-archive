@@ -3,7 +3,7 @@ topic_id: 48871
 title: "Request for permission to use the 3D Slicer logo in Kimi"
 date: 2026-11-13
 url: https://discourse.slicer.org/t/48871
-last_bumped: 2026-11-13T09:42:23.000Z
+last_bumped: 2026-11-13T12:01:58.265Z
 ---
 
 # Request for permission to use the 3D Slicer logo in Kimi
@@ -28,5 +28,19 @@ last_bumped: 2026-11-13T09:42:23.000Z
 <p>Binghao Huan</p>
 <p>Kimi Product Team | Moonshot.ai</p>
 <p><a href="mailto:huanbinghao@moonshot.ai">huanbinghao@moonshot.ai</a></p>
+
+---
+
+## Post #2 by @pieper (2026-11-13 12:00 UTC)
+
+<p>Yes, it’s okay to use the logo in that way.  Thanks for including Slicer.</p>
+
+---
+
+## Post #3 by @huanbinghao (2026-11-13 12:01 UTC)
+
+<p>Thanks！</p>
+<p>Binghao Huan</p>
+<p>Kimi</p>
 
 ---
