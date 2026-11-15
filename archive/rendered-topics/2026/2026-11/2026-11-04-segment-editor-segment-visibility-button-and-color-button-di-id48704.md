@@ -3,7 +3,7 @@ topic_id: 48704
 title: "Segment editor: Segment visibility button and color button disapear after moving a segment up or down on the list"
 date: 2026-11-04
 url: https://discourse.slicer.org/t/48704
-last_bumped: 2026-11-04T14:09:21.951Z
+last_bumped: 2026-11-14T18:40:07.606Z
 ---
 
 # Segment editor: Segment visibility button and color button disapear after moving a segment up or down on the list
@@ -27,5 +27,19 @@ last_bumped: 2026-11-04T14:09:21.951Z
 <p><div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/1/c/1c439e530774748a86442ce560310d4786e432b6.jpeg" data-download-href="/uploads/short-url/422eWziRYvVvDknMJQYjYzDorqK.jpeg?dl=1" title="04 also do this_drag" rel="noopener nofollow ugc"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/1/c/1c439e530774748a86442ce560310d4786e432b6_2_690x358.jpeg" alt="04 also do this_drag" data-base62-sha1="422eWziRYvVvDknMJQYjYzDorqK" width="690" height="358" srcset="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/1/c/1c439e530774748a86442ce560310d4786e432b6_2_690x358.jpeg, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/1/c/1c439e530774748a86442ce560310d4786e432b6_2_1035x537.jpeg 1.5x, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/1/c/1c439e530774748a86442ce560310d4786e432b6_2_1380x716.jpeg 2x" data-dominant-color="66605E"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">04 also do this_drag</span><span class="informations">1919×998 467 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
 <p><div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/8/6/86976a6ef7843b7b1369554c97787bd2ec3a7341.jpeg" data-download-href="/uploads/short-url/jcEo2HKMq7sHIJ2OfpmnhLKKlUd.jpeg?dl=1" title="03 also do this_drag" rel="noopener nofollow ugc"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/8/6/86976a6ef7843b7b1369554c97787bd2ec3a7341_2_690x358.jpeg" alt="03 also do this_drag" data-base62-sha1="jcEo2HKMq7sHIJ2OfpmnhLKKlUd" width="690" height="358" srcset="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/8/6/86976a6ef7843b7b1369554c97787bd2ec3a7341_2_690x358.jpeg, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/8/6/86976a6ef7843b7b1369554c97787bd2ec3a7341_2_1035x537.jpeg 1.5x, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/8/6/86976a6ef7843b7b1369554c97787bd2ec3a7341_2_1380x716.jpeg 2x" data-dominant-color="66605E"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">03 also do this_drag</span><span class="informations">1919×997 469 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
 </div>
+
+---
+
+## Post #2 by @rimsouthcott16 (2026-11-14 17:29 UTC)
+
+<p>This looks like a UI repaint/update issue rather than segment data loss, since saving and reopening the .mrb restores the controls. As a quick check, try resizing the Segment Editor panel or main window, or switching to another module and back, to force a redraw. If that restores the buttons, mention it in the report. For follow-up, file an issue on the Slicer issue tracker with the exact version/platform (5.12.4 win-amd64), the reorder method used, screenshots, and whether a panel resize or module switch temporarily fixes it.</p>
+
+---
+
+## Post #3 by @Esteban_Barreiro (2026-11-14 18:40 UTC)
+
+<p>Hi! thanks for your response.</p>
+<p>I already report the issue in the bug tracker, and it was reported before here <a href="https://github.com/Slicer/Slicer/issues/9540" rel="noopener nofollow ugc">Reordering segments breaks table cell actions in the segment editor · Issue #9540 · Slicer/Slicer</a></p>
+<p>(I couldn’t find it) so is closed as duplicate.</p>
 
 ---
