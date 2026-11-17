@@ -3,7 +3,7 @@ topic_id: 48914
 title: "New extension - HandsHover : touchless control with a webcam"
 date: 2026-11-15
 url: https://discourse.slicer.org/t/48914
-last_bumped: 2026-11-15T19:32:59.562Z
+last_bumped: 2026-11-16T19:04:06.267Z
 ---
 
 # New extension - HandsHover : touchless control with a webcam
@@ -76,5 +76,22 @@ During my residency I tried to build something similar with an old Kinect, but w
 <p>Thank you for reading, and any feedback is very welcome!</p>
 <p>Best regards,<br>
 Paul</p>
+
+---
+
+## Post #2 by @amyers (2026-11-16 14:51 UTC)
+
+<p>Paul,</p>
+<p>Great start to HandsHover. Before AI became practical, I developed hand gestures for Microsoft’s Kinect and am familiar with LeapMotion. Can you elaborate on your intraoperative vision using HandsHover? I’m guessing you want to rotate the 3D models without taking off your surgical gloves, touching a computer, and following a lengthy sanitation procedure during an operation.</p>
+<p>Alex</p>
+
+---
+
+## Post #3 by @Paul_M (2026-11-16 19:04 UTC)
+
+<p>Hi Alex,</p>
+<p>That’s exactly the point. First try today in the OR :</p>
+<p><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/4/a/4a5f69408cca76479b600671b40ac0f56a5708a8.gif" alt="handshover-demo" data-base62-sha1="aBVKvVjFeOWNtYU04ixwKGCr1MY" width="440" height="330" class="animated"></p>
+<p>Another advantage is that I don’t need complex gestures. I just need to move the 3D model slightly from time to time to make small adjustments. I don’t need extremely precise hand tracking, so the system can be quite forgiving.</p>
 
 ---

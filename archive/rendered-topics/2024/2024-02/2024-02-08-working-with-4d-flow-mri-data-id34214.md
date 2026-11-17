@@ -3,7 +3,7 @@ topic_id: 34214
 title: "Working with 4D flow MRI data"
 date: 2024-02-08
 url: https://discourse.slicer.org/t/34214
-last_bumped: 2026-11-10T12:08:45.605Z
+last_bumped: 2026-11-16T20:17:10.139Z
 ---
 
 # Working with 4D flow MRI data
@@ -143,5 +143,11 @@ University Health Network</p>
   <div style="clear: both"></div>
 </aside>
 
+
+---
+
+## Post #17 by @rimsouthcott16 (2026-11-16 20:17 UTC)
+
+<p>The metadata point matters because NRRD conversions often drop the private DICOM tags that tie the magnitude and phase series to velocity encoding and the 4th dimension. Going back to the original DICOMs would give you the full headers, so it’s probably worth it before you invest more time trying to segment. I’m planning a 4D flow comparison myself and I’m unsure whether to work from the vendor DICOMs directly or trust a converted NRRD set with incomplete headers. One related item I saw while reading around the topic was <a href="https://viewtime.net/news/brain-activity-score-predicts-alzheimers-risk-early" rel="noopener nofollow ugc">Brain activity patterns may predict Alzheimer’s years early</a>, though it’s outside flow imaging. Has anyone confirmed the DICOM headers restore the velocity scaling?</p>
 
 ---

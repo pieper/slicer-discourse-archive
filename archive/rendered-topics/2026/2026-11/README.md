@@ -26,3 +26,5 @@
 - [2026 11 14 Help Keyboard Shortcuts Pop Up And Ctrl 1 Documentation Link](2026-11-14-help-keyboard-shortcuts-pop-up-and-ctrl-1-documentation-link-id48901.md)
 - [2026 11 15 Cad Interchange Notes Converting Slicer Stl Meshes To Tolera](2026-11-15-cad-interchange-notes-converting-slicer-stl-meshes-to-tolera-id48905.md)
 - [2026 11 15 New Extension Handshover Touchless Control With A Webcam](2026-11-15-new-extension-handshover-touchless-control-with-a-webcam-id48914.md)
+- [2026 11 16 Can We Skip Registration In The Opendose3D Dosimetry Workflo](2026-11-16-can-we-skip-registration-in-the-opendose3d-dosimetry-workflo-id48929.md)
+- [2026 11 17 Nninteractive Agent On Mac](2026-11-17-nninteractive-agent-on-mac-id48939.md)
