@@ -27,4 +27,8 @@
 - [2026 11 15 Cad Interchange Notes Converting Slicer Stl Meshes To Tolera](2026-11-15-cad-interchange-notes-converting-slicer-stl-meshes-to-tolera-id48905.md)
 - [2026 11 15 New Extension Handshover Touchless Control With A Webcam](2026-11-15-new-extension-handshover-touchless-control-with-a-webcam-id48914.md)
 - [2026 11 16 Can We Skip Registration In The Opendose3D Dosimetry Workflo](2026-11-16-can-we-skip-registration-in-the-opendose3d-dosimetry-workflo-id48929.md)
+- [2026 11 17 Monai Label Cuda Out Of Memory During Preprocessing Cpu Prep](2026-11-17-monai-label-cuda-out-of-memory-during-preprocessing-cpu-prep-id48948.md)
 - [2026 11 17 Nninteractive Agent On Mac](2026-11-17-nninteractive-agent-on-mac-id48939.md)
+- [2026 11 17 Save Failed For Transforms Sequence](2026-11-17-save-failed-for-transforms-sequence-id48946.md)
+- [2026 11 18 I Taught My Agentic Swarm How To Design A Complex Tracheosto](2026-11-18-i-taught-my-agentic-swarm-how-to-design-a-complex-tracheosto-id48951.md)
+- [2026 11 18](2026-11-18-idea-for-a-new-extension-3d-organoid-analysis-in-slicer-id48950.md)
