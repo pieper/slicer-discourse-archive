@@ -3,7 +3,7 @@ topic_id: 48951
 title: "I taught my agentic swarm how to design a complex tracheostomy tube"
 date: 2026-11-18
 url: https://discourse.slicer.org/t/48951
-last_bumped: 2026-11-18T05:09:05.028Z
+last_bumped: 2026-11-18T12:29:25.858Z
 ---
 
 # I taught my agentic swarm how to design a complex tracheostomy tube
@@ -126,5 +126,11 @@ Myles Dear<br>
 Ottawa, Ontario, Canada</p>
 <p>Engineer and community advocate for the disabled</p>
 <p>Nov 17, 2026</p>
+
+---
+
+## Post #2 by @pieper (2026-11-18 12:29 UTC)
+
+<p>Amazing, thank you for the post.</p>
 
 ---

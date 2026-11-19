@@ -3,7 +3,7 @@ topic_id: 48950
 title: "Idea for a new extension: 3D organoid analysis in Slicer"
 date: 2026-11-18
 url: https://discourse.slicer.org/t/48950
-last_bumped: 2026-11-18T06:44:15.197Z
+last_bumped: 2026-11-18T20:29:50.529Z
 ---
 
 # Idea for a new extension: 3D organoid analysis in Slicer
@@ -80,5 +80,26 @@ Roya</p>
 ## Post #5 by @Roya_Khajavi (2026-11-18 06:44 UTC)
 
 <p>Thanks, Murat; that’s fair and very helpful advice. I’ll take this on and work toward a prototype workflow you mentioned, to bring it to an upcoming Project Week. I’ll post updates here as it progresses, and I may reach out with questions along the way.</p>
+
+---
+
+## Post #6 by @curtislisle (2026-11-18 20:11 UTC)
+
+<p>Dear Roya,</p>
+<p>I am interested in your application.  I plan to be imaging organoids in a few months and am experienced in 3D Slicer.  I’d be interested in helping / collaborating as you develop this workflow for processing organoid imagery in Slicer.  Unfortunately, I don’t plan to attend Project Week this January either, but I am in the Slicer community and would be willing to participate on your project.  I can be reached by email directly at <a href="mailto:clisle@knowledgevis.com">clisle@knowledgevis.com</a></p>
+<p>Curtis Lisle</p>
+<p>Principal AI/ML Engineer, NIAID</p>
+
+---
+
+## Post #7 by @Roya_Khajavi (2026-11-18 20:28 UTC)
+
+<p>(post deleted by author)</p>
+
+---
+
+## Post #8 by @Roya_Khajavi (2026-11-18 20:29 UTC)
+
+<p>Thank you, Curtis, that’s wonderful! I’d be very glad to collaborate. I’ll follow up with you by email to coordinate next steps, and we’ll share progress here and on the Project Week page (<a href="https://github.com/NA-MIC/ProjectWeek/issues/1826" class="inline-onebox" rel="noopener nofollow ugc">Project: 3D Organoid Analysis Workflow in Slicer · Issue #1826 · NA-MIC/ProjectWeek · GitHub</a>).</p>
 
 ---

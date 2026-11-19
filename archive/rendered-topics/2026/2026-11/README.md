@@ -30,5 +30,6 @@
 - [2026 11 17 Monai Label Cuda Out Of Memory During Preprocessing Cpu Prep](2026-11-17-monai-label-cuda-out-of-memory-during-preprocessing-cpu-prep-id48948.md)
 - [2026 11 17 Nninteractive Agent On Mac](2026-11-17-nninteractive-agent-on-mac-id48939.md)
 - [2026 11 17 Save Failed For Transforms Sequence](2026-11-17-save-failed-for-transforms-sequence-id48946.md)
+- [2026 11 18 Anyone Use 3D Slicer To Model Folding Treadmill Footprints A](2026-11-18-anyone-use-3d-slicer-to-model-folding-treadmill-footprints-a-id48954.md)
 - [2026 11 18 I Taught My Agentic Swarm How To Design A Complex Tracheosto](2026-11-18-i-taught-my-agentic-swarm-how-to-design-a-complex-tracheosto-id48951.md)
 - [2026 11 18](2026-11-18-idea-for-a-new-extension-3d-organoid-analysis-in-slicer-id48950.md)
