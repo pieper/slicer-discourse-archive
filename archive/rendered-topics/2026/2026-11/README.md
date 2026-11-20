@@ -33,3 +33,6 @@
 - [2026 11 18 Anyone Use 3D Slicer To Model Folding Treadmill Footprints A](2026-11-18-anyone-use-3d-slicer-to-model-folding-treadmill-footprints-a-id48954.md)
 - [2026 11 18 I Taught My Agentic Swarm How To Design A Complex Tracheosto](2026-11-18-i-taught-my-agentic-swarm-how-to-design-a-complex-tracheosto-id48951.md)
 - [2026 11 18](2026-11-18-idea-for-a-new-extension-3d-organoid-analysis-in-slicer-id48950.md)
+- [2026 11 19 2026 11 24 Weekly Meeting](2026-11-19-2026-11-24-weekly-meeting-id48982.md)
+- [2026 11 19 Not](2026-11-19-not-identifying-uterus-or-large-ovarian-fibroma-on-ct-scan-id48974.md)
+- [2026 11 19 What Is The Best Way To Go About Segmenting The Renal Artery](2026-11-19-what-is-the-best-way-to-go-about-segmenting-the-renal-artery-id48975.md)
