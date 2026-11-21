@@ -36,3 +36,7 @@
 - [2026 11 19 2026 11 24 Weekly Meeting](2026-11-19-2026-11-24-weekly-meeting-id48982.md)
 - [2026 11 19 Not](2026-11-19-not-identifying-uterus-or-large-ovarian-fibroma-on-ct-scan-id48974.md)
 - [2026 11 19 What Is The Best Way To Go About Segmenting The Renal Artery](2026-11-19-what-is-the-best-way-to-go-about-segmenting-the-renal-artery-id48975.md)
+- [2026 11 20 Delayed 2D Erase Brush Response On Windows With Hybrid Intel](2026-11-20-delayed-2d-erase-brush-response-on-windows-with-hybrid-intel-id48998.md)
+- [2026 11 20](2026-11-20-idea-standard-dicomweb-ups-rs-as-the-ai-task-layer-trigger-i-id48999.md)
+- [2026 11 20 Next Pw 46 Prep Meeting Tues Nov 24 At 10 Am Et](2026-11-20-next-pw-46-prep-meeting-tues-nov-24-at-10-am-et-id49000.md)
+- [2026 11 20 Seeking Academic Or Paid Collaboration Longitudinal Cbct Reg](2026-11-20-seeking-academic-or-paid-collaboration-longitudinal-cbct-reg-id49003.md)
