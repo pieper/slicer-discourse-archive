@@ -3,7 +3,7 @@ topic_id: 48999
 title: "Idea - standard DICOMweb UPS-RS as the AI-task layer (trigger inference + read results in Slicer)"
 date: 2026-11-20
 url: https://discourse.slicer.org/t/48999
-last_bumped: 2026-11-20T13:54:37.837Z
+last_bumped: 2026-11-21T14:49:57.651Z
 ---
 
 # Idea - standard DICOMweb UPS-RS as the AI-task layer (trigger inference + read results in Slicer)
@@ -108,5 +108,11 @@ The workitem codes are minted under the private scheme `99CLARUS` (PS3.3 Table 8
 <p>I am happy to write the extension (Python, standard-only) and test it against Clarus and dcm4chee-arc as the origins, keeping it dependency-minimal.</p>
 <p>Best regards,<br>
 Daniil , <a href="https://github.com/clicker71/clarus-pacs" rel="noopener nofollow ugc">Clarus PACS</a></p>
+
+---
+
+## Post #2 by @pieper (2026-11-21 14:49 UTC)
+
+<p>Yes, I think that would be a very welcome contribution.  <img src="https://emoji.discourse-cdn.com/twitter/+1.png?v=16" title=":+1:" class="emoji" alt=":+1:" loading="lazy" width="20" height="20"></p>
 
 ---

@@ -1,8 +1,9 @@
 ---
 topic_id: 37590
-title: "Hounsfield Units Measurement"
+title: "Hounsfield units measurement"
 date: 2024-07-28
 url: https://discourse.slicer.org/t/37590
+last_bumped: 2026-11-22T09:22:27.455Z
 ---
 
 # Hounsfield units measurement
@@ -39,5 +40,11 @@ By the way, I’m new to Slicer so I don’t relalyt know how to use it yet. Jus
 ## Post #4 by @pieper (2025-10-19 13:13 UTC)
 
 <p>The values that Slicer reports depend a lot on the source of the data. Cone-beam or microCT values may vary widely depending on the scanner vendor and the file format.  Clinical scanners may report nominal HU and put out valid DICOM, but if you want really accurate measures they need to be well calibrated and perhaps even use a calibration phantom in the scan.  Also the acquisition or reconstruction process may trade off picture quality for absolute accuracy.</p>
+
+---
+
+## Post #5 by @Movewithfinesse (2026-11-22 09:22 UTC)
+
+<p>I have have verified 1,905 HU on sectra and verified 3,960 HU on microdicom. What does this mean exactly?</p>
 
 ---
