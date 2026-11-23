@@ -3,7 +3,7 @@ topic_id: 48999
 title: "Idea - standard DICOMweb UPS-RS as the AI-task layer (trigger inference + read results in Slicer)"
 date: 2026-11-20
 url: https://discourse.slicer.org/t/48999
-last_bumped: 2026-11-21T14:49:57.651Z
+last_bumped: 2026-11-22T15:02:09.649Z
 ---
 
 # Idea - standard DICOMweb UPS-RS as the AI-task layer (trigger inference + read results in Slicer)
@@ -114,5 +114,24 @@ Daniil , <a href="https://github.com/clicker71/clarus-pacs" rel="noopener nofoll
 ## Post #2 by @pieper (2026-11-21 14:49 UTC)
 
 <p>Yes, I think that would be a very welcome contribution.  <img src="https://emoji.discourse-cdn.com/twitter/+1.png?v=16" title=":+1:" class="emoji" alt=":+1:" loading="lazy" width="20" height="20"></p>
+
+---
+
+## Post #3 by @clicker71 (2026-11-22 15:02 UTC)
+
+<p>Hi <a class="mention" href="/u/pieper">@pieper</a><br>
+<strong>SlicerUPS - phase 1: the CLI core</strong><br>
+Quick update on SlicerUPS: phase 1 is done. It’s a small pure-Python CLI for<br>
+UPS-RS and not much else - no Qt, no Slicer imports, no UI (that part is deliberately left for other people). Repo: <a href="https://github.com/clicker71/SlicerUPS" class="inline-onebox" rel="noopener nofollow ugc">GitHub - clicker71/SlicerUPS: CLI-first client for DICOMweb UPS-RS (PS3.18 section 11), for 3D Slicer and for the command line · GitHub</a></p>
+<p>The verbs are search, run, cancel, watch and outputs (`download_outputs` in the API). The one bit I’m actually happy with is watch(): it tries the WebSocket notification channel first, then quietly falls back to polling when that channel isn’t really there. dcm4chee-arc, for instance, answers Subscribe with 201 but has no WebSocket server, so the polling path is the one that ends<br>
+up being used. You don’t have to know which origin you’re pointed at. It’s been tested end to end against Clarus PACS: create a workitem, clinfer runs a CLAHE pass, it lands in COMPLETED with the Output Information Sequence, and the result comes back over WADO-RS. clinfer was also run against dcm4chee-arc - same performer cycle, except parameter passing (the 0074,1210 sequence) was only exercised on Clarus.</p>
+<p><strong>Two workarounds (the standards aren’t finished)</strong><br>
+First, the per-node catalog is just YAML. IHE AISP, the standard that would describe AI services, is still a work item. So SlicerUPS reads a YAML file (procedures:) mapping modality + body part to performer + code. It isn’t tied to any vendor - you can export it from clinfer, write one by hand for dcm4chee, or generate it from Orthanc. When AISP ships we swap the file format; the architecture stays. Second, the performer side runs through an ABI contract. Supplement 251 (Service Discovery and Control) is also in flight, so clinfer acts as a task-performer proxy: UPS-RS toward the origin, a plain manifest.json → result.json contract toward the model. Working examples cover TotalSegmentator, a couple of CXR models, an LLM text producer, and a few more: <a href="https://github.com/clicker71/clarus-pacs/tree/main/clinfer/abi" class="inline-onebox" rel="noopener nofollow ugc">clarus-pacs/clinfer/abi at main · clicker71/clarus-pacs · GitHub</a></p>
+<p>I’m going to keep that ABI even after 251 lands - the standard interface gets added on top, but the ABI is just files in, files out. It doesn’t ask someone building an ML model to stand up an HTTP server or learn DICOMweb.</p>
+<p><strong>Where I need help: UI/UX</strong><br>
+I can write transport and CLI code fine; I can’t design a screen for 120+ TotalSegmentator parameters, and I’d rather not pretend I can. So that layer is open.<br>
+The core is UI-agnostic with a stable API. There’s a hooks/ directory with two small examples - a Subject Hierarchy context-menu item and a minimal Qt widget - for anyone who wants to build on top: <a href="https://github.com/clicker71/SlicerUPS/tree/main/hooks" class="inline-onebox" rel="noopener nofollow ugc">SlicerUPS/hooks at main · clicker71/SlicerUPS · GitHub</a></p>
+<p>I’ll keep the service API stable and review PRs that touch the core. The UI itself should be written by people who enjoy that kind of work. If that’s you, or if you just have opinions on what a sane parameter UI for TotalSegmentator should look like, reply here or open an issue.<br>
+Best regards, Daniil</p>
 
 ---
