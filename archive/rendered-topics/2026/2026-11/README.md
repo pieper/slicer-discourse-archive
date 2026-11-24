@@ -40,3 +40,4 @@
 - [2026 11 20](2026-11-20-idea-standard-dicomweb-ups-rs-as-the-ai-task-layer-trigger-i-id48999.md)
 - [2026 11 20 Next Pw 46 Prep Meeting Tues Nov 24 At 10 Am Et](2026-11-20-next-pw-46-prep-meeting-tues-nov-24-at-10-am-et-id49000.md)
 - [2026 11 20 Seeking Academic Or Paid Collaboration Longitudinal Cbct Reg](2026-11-20-seeking-academic-or-paid-collaboration-longitudinal-cbct-reg-id49003.md)
+- [2026 11 23 Problems To Save Hardened Transform](2026-11-23-problems-to-save-hardened-transform-id49059.md)

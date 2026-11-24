@@ -3,7 +3,7 @@ topic_id: 49003
 title: "Seeking Academic or Paid Collaboration – Longitudinal CBCT Registration and Volumetric Bone Healing Analysis"
 date: 2026-11-20
 url: https://discourse.slicer.org/t/49003
-last_bumped: 2026-11-20T18:57:20.306Z
+last_bumped: 2026-11-23T13:06:15.112Z
 ---
 
 # Seeking Academic or Paid Collaboration – Longitudinal CBCT Registration and Volumetric Bone Healing Analysis
@@ -48,5 +48,28 @@ last_bumped: 2026-11-20T18:57:20.306Z
 <p>We could initially evaluate one or two de-identified paired datasets to assess feasibility and determine the most appropriate approach.</p>
 <p>If anyone is interested in collaborating, or could recommend a researcher or research group with relevant expertise, I would be very grateful.</p>
 <p>Thank you for your time and consideration!</p>
+
+---
+
+## Post #2 by @MasatoshiOBA (2026-11-23 13:06 UTC)
+
+<p>One possible approach would be to use surface-based registration rather than direct CBCT image registration.</p>
+<p>In our previous study (Am J Sports Med. 2022;50:1272–1280, <a href="https://doi.org/10.1177/03635465221074338" rel="noopener nofollow ugc">https://doi.org/10.1177/03635465221074338</a>), we registered preoperative, planned (virtual postoperative), and actual postoperative bone models to quantify surgical changes.</p>
+<p>Our workflow was as follows:</p>
+<ol>
+<li>
+<p>Segment the bone from each CT scan and export the models as STL files.</p>
+</li>
+<li>
+<p>Import the models into CloudCompare and perform rigid ICP registration.</p>
+</li>
+<li>
+<p>Export the resulting 4×4 transformation matrices, apply them to the corresponding original CT volumes in 3D Slicer, and use “Harden transform” before further analysis.</p>
+</li>
+</ol>
+<p>We chose CloudCompare mainly because it allowed us to explicitly control ICP registration parameters, handle models with large numbers of points, and save the transformation matrices for reproducibility.</p>
+<p>For your study, you might consider segmenting relatively unchanged portions of the mandible in both scans and using these surfaces for registration, rather than attempting to register the entire CBCT volumes directly.</p>
+<p>Nowadays, much of this workflow may also be possible entirely within 3D Slicer, but CloudCompare remains a useful option when detailed control over ICP parameters is needed.</p>
+<p>I hope this helps!</p>
 
 ---

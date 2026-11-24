@@ -3,7 +3,7 @@ topic_id: 49000
 title: "Next PW 46 Prep Meeting Tues Nov 24 at 10 AM ET"
 date: 2026-11-20
 url: https://discourse.slicer.org/t/49000
-last_bumped: 2026-11-20T14:48:28.125Z
+last_bumped: 2026-11-23T22:16:57.735Z
 ---
 
 # Next PW 46 Prep Meeting Tues Nov 24 at 10 AM ET
@@ -51,5 +51,14 @@ last_bumped: 2026-11-20T14:48:28.125Z
 <p>Project Week <span class="hashtag-raw">#46</span> will be held January 25-29, 2027, Las Palmas de Gran Canaria, Spain. Please look here for additional details: <a href="https://projectweek.na-mic.org/PW46_2027_GranCanaria/" class="inline-onebox">Welcome to the web page for the 46th Project Week! | NA-MIC Project Weeks</a> .</p>
 <p><em>Preparation</em>: To prepare, we will be holding weekly meetings at 10am on Tuesdays, starting <strong>November 17th, 2026</strong> and ending on January 19th, 2027. Please join at <a href="https://etsmtl.zoom.us/j/96828430830?pwd=9EqBWHKc4fytzNThgha4ByM1hoQwPr.1">this link</a> in order to discuss your ideas for project(s) for the week and to determine the fit between your goals and the other participants of the event.</p>
 <p><em>Background</em>: The Project Week is a week-long hackathon of hands on activity in which medical image computing researchers create solutions using the open source image computing platform, 3D Slicer, and VTK, ITK, CMake, and CDash libraries as well as OHIF, Cornerstone, dcmjs, vtkjs, itkjs, DICOMweb, Girder and related web technologies. Participants work collaboratively on solutions that lie at the interfaces of the fields of computer science, mechanical engineering, biomedical engineering, and medicine. In contrast to conferences and workshops where the primary focus is to report results, the objective of the ProjectWeek is to provide a venue for creators of medical image computing open-source software creators to collaboratively work.</p>
+
+---
+
+## Post #2 by @Sam_Horvath (2026-11-23 22:16 UTC)
+
+<p>Hi all,</p>
+<p>Reminder that we will be having our next prep meeting tomorrow!</p>
+<p>We will be discussing the dev teams plans for the 3D Slicer platform, with a few demos of Slicer web projects.</p>
+<p>Sam</p>
 
 ---
