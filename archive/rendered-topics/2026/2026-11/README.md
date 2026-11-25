@@ -41,3 +41,4 @@
 - [2026 11 20 Next Pw 46 Prep Meeting Tues Nov 24 At 10 Am Et](2026-11-20-next-pw-46-prep-meeting-tues-nov-24-at-10-am-et-id49000.md)
 - [2026 11 20 Seeking Academic Or Paid Collaboration Longitudinal Cbct Reg](2026-11-20-seeking-academic-or-paid-collaboration-longitudinal-cbct-reg-id49003.md)
 - [2026 11 23 Problems To Save Hardened Transform](2026-11-23-problems-to-save-hardened-transform-id49059.md)
+- [2026 11 24 Deleting Dicom Volume From The Data Base](2026-11-24-deleting-dicom-volume-from-the-data-base-id49072.md)
