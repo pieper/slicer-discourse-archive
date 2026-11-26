@@ -3,7 +3,7 @@ topic_id: 48572
 title: "Computational requirements"
 date: 2026-10-22
 url: https://discourse.slicer.org/t/48572
-last_bumped: 2026-11-13T14:59:47.228Z
+last_bumped: 2026-11-25T21:37:48.523Z
 ---
 
 # Computational requirements
@@ -48,5 +48,17 @@ last_bumped: 2026-11-13T14:59:47.228Z
 ## Post #5 by @emilyrobinson (2026-11-13 14:59 UTC)
 
 <p>Volume-rendering-based segment display should remove a big cost. In the meantime, note that multiple GPUs generally won’t speed up Segment Editor cleanup—most effects are CPU/RAM-bound and Slicer uses one GPU for display. A whole-body 1 mm CT plus labelmaps and surface models can still strain 32 GB, so keeping Show 3D off, closing unused volumes/segments, and cropping to the region of interest are practical tests. Watching swap during a freeze would confirm memory pressure.</p>
+
+---
+
+## Post #6 by @Bernadett (2026-11-25 21:36 UTC)
+
+<p>Thank you, Csaba, for your message. I haven’t been able to test it yet. I have run into other challenges (my project is complex) that needed to be sorted out before. I will surely have questions about the volume rendering based visualisation. Köszönöm!</p>
+
+---
+
+## Post #7 by @Bernadett (2026-11-25 21:37 UTC)
+
+<p>Thank you, Emily, for your helpful advice!</p>
 
 ---

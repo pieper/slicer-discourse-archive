@@ -3,7 +3,7 @@ topic_id: 49003
 title: "Seeking Academic or Paid Collaboration – Longitudinal CBCT Registration and Volumetric Bone Healing Analysis"
 date: 2026-11-20
 url: https://discourse.slicer.org/t/49003
-last_bumped: 2026-11-23T13:06:15.112Z
+last_bumped: 2026-11-26T05:27:53.078Z
 ---
 
 # Seeking Academic or Paid Collaboration – Longitudinal CBCT Registration and Volumetric Bone Healing Analysis
@@ -71,5 +71,13 @@ last_bumped: 2026-11-23T13:06:15.112Z
 <p>For your study, you might consider segmenting relatively unchanged portions of the mandible in both scans and using these surfaces for registration, rather than attempting to register the entire CBCT volumes directly.</p>
 <p>Nowadays, much of this workflow may also be possible entirely within 3D Slicer, but CloudCompare remains a useful option when detailed control over ICP parameters is needed.</p>
 <p>I hope this helps!</p>
+
+---
+
+## Post #3 by @Amila (2026-11-26 05:27 UTC)
+
+<p>Thank you so much for the advice, I will try this approach as well, hope it works!</p>
+<p>Best wishes,</p>
+<p>Amila.</p>
 
 ---

@@ -3,7 +3,7 @@ topic_id: 48950
 title: "Idea for a new extension: 3D organoid analysis in Slicer"
 date: 2026-11-18
 url: https://discourse.slicer.org/t/48950
-last_bumped: 2026-11-18T20:29:50.529Z
+last_bumped: 2026-11-26T02:53:07.338Z
 ---
 
 # Idea for a new extension: 3D organoid analysis in Slicer
@@ -92,14 +92,62 @@ Roya</p>
 
 ---
 
-## Post #7 by @Roya_Khajavi (2026-11-18 20:28 UTC)
-
-<p>(post deleted by author)</p>
-
----
-
 ## Post #8 by @Roya_Khajavi (2026-11-18 20:29 UTC)
 
 <p>Thank you, Curtis, that’s wonderful! I’d be very glad to collaborate. I’ll follow up with you by email to coordinate next steps, and we’ll share progress here and on the Project Week page (<a href="https://github.com/NA-MIC/ProjectWeek/issues/1826" class="inline-onebox" rel="noopener nofollow ugc">Project: 3D Organoid Analysis Workflow in Slicer · Issue #1826 · NA-MIC/ProjectWeek · GitHub</a>).</p>
+
+---
+
+## Post #9 by @qiang1900 (2026-11-25 12:37 UTC)
+
+<p>hi, Roya, I did a research and wonder those existing extensions/plugins may already covered some/most of the gap in Slicer, or could use some them as integration partners instead of re-inventing ourself. Worth to take a look first, then either adjust the proposed project scope or have a off the shelf solution from those:</p>
+<ul>
+<li><strong>OrganoidTracker:</strong> specifically addresses 3D cell tracking, lineage reconstruction and manual correction, with error estimates that help prioritize review. This is a potential integration partner, not something to rebuild casually. <a href="https://organoidtracker.org/" rel="noopener nofollow ugc">Project (https://organoidtracker.org/)</a></li>
+<li><strong>3DCellScope:</strong> performs multilevel analysis of nuclei, cells and whole organoids, including morphological and topological measurements. It directly overlaps much of the proposed functionality. <a href="https://github.com/quantacell/3DcellScope" rel="noopener nofollow ugc">Repository (https://github.com/quantacell/3DcellScope)</a>, <a href="https://www.nature.com/articles/s41592-025-02685-4" rel="noopener nofollow ugc">2025 paper (https://www.nature.com/articles/s41592-025-02685-4)</a></li>
+<li><strong>Tapenade:</strong> provides 3D organoid preprocessing, nuclei analysis and spatial quantification through Python and napari interfaces. The characterization of napari as primarily 2D misses this work. <a href="https://github.com/GuignardLab/tapenade" rel="noopener nofollow ugc">Repository (https://github.com/GuignardLab/tapenade)</a></li>
+<li><strong>SlicerOMEZarr:</strong> already imports multiscale images, labels, channels and time sequences, with memory-budgeted resolution selection and region refinement. Evaluate and reuse it before proposing another Zarr reader. Its documented capabilities still need verification on the chosen datasets. <a href="https://github.com/fideus-labs/SlicerOMEZarr" rel="noopener nofollow ugc">Repository (https://github.com/fideus-labs/SlicerOMEZarr)</a></li>
+</ul>
+<p>Cheers</p>
+<p>Qiang</p>
+
+---
+
+## Post #10 by @Roya_Khajavi (2026-11-25 17:40 UTC)
+
+<aside class="quote no-group" data-username="qiang1900" data-post="9" data-topic="48950">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="24" height="24" src="https://avatars.discourse-cdn.com/v4/letter/q/f19dbf/48.png" class="avatar"> qiang1900:</div>
+<blockquote>
+<p>hi, Roya, I did a research and wonder those existing extensions/plugins may already covered some/most of the gap in Slicer, or could use some them as integration partners instead of re-inventing ourself. Worth to take a look first, then either adjust the proposed project scope or have a off the shelf solution from those:</p>
+<ul>
+<li><strong>OrganoidTracker:</strong> specifically addresses 3D cell tracking, lineage reconstruction and manual correction, with error estimates that help prioritize review. This is a potential integration partner, not something to rebuild casually. <a href="https://organoidtracker.org/" rel="noopener nofollow ugc">Project (https://organoidtracker.org/)</a></li>
+<li><strong>3DCellScope:</strong> performs multilevel analysis of nuclei, cells and whole organoids, including morphological and topological measurements. It directly overlaps much of the proposed functionality. <a href="https://github.com/quantacell/3DcellScope" rel="noopener nofollow ugc">Repository (https://github.com/quantacell/3DcellScope)</a>, <a href="https://www.nature.com/articles/s41592-025-02685-4" rel="noopener nofollow ugc">2025 paper (https://www.nature.com/articles/s41592-025-02685-4)</a></li>
+<li><strong>Tapenade:</strong> provides 3D organoid preprocessing, nuclei analysis and spatial quantification through Python and napari interfaces. The characterization of napari as primarily 2D misses this work. <a href="https://github.com/GuignardLab/tapenade" rel="noopener nofollow ugc">Repository (https://github.com/GuignardLab/tapenade)</a></li>
+<li><strong>SlicerOMEZarr:</strong> already imports multiscale images, labels, channels and time sequences, with memory-budgeted resolution selection and region refinement. Evaluate and reuse it before proposing another Zarr reader. Its documented capabilities still need verification on the chosen datasets. <a href="https://github.com/fideus-labs/SlicerOMEZarr" rel="noopener nofollow ugc">Repository (https://github.com/fideus-labs/SlicerOMEZarr)</a></li>
+</ul>
+<p>Cheers</p>
+</blockquote>
+</aside>
+<hr>
+<p>Hi Qiang,</p>
+<p>Thank you for taking the time to look into this. It’s really useful, and a fair correction on napari; I undersold Tapenade and the 3D work there.</p>
+<p>I agree the goal shouldn’t be to rebuild what already exists, so I’ll adjust the scope. For import, we’ll use SlicerOMEZarr rather than writing a new reader, as Murat also suggested, and test it on the Zenodo light-sheet datasets to confirm it handles their time series and voxel spacing correctly. The focus will be on what Slicer adds: an interactive end-to-end workflow that brings together nnInteractive segmentation, 3D and time-lapse visualization with Sequences, and shape and radiomics measurements, rather than duplicating standalone pipelines.</p>
+<p>I also looked more closely at the tools you mentioned, and they fit in naturally as partners. Tapenade is a pip-installable Python library, so we can try calling its preprocessing and StarDist3D nuclei segmentation directly from Slicer’s Python environment and load the resulting label maps as segmentations. OrganoidTracker stores its tracks as JSON (.aut files) and exports TrackMate XML and Cell Tracking Challenge formats, so a lightweight importer could bring its tracks and lineages into Slicer as time-varying markups alongside the image sequence. 3DCellScope we’ll use as a reference point, comparing its organoid-level measurements with ours on the same dataset.</p>
+<p>I’ll update the Project Week page (<a href="https://github.com/NA-MIC/ProjectWeek/issues/1826" class="inline-onebox" rel="noopener nofollow ugc">Project: 3D Organoid Analysis Workflow in Slicer · Issue #1826 · NA-MIC/ProjectWeek · GitHub</a>) to reflect this. You clearly know this space well, and it would be great to have you on the project. Curtis Lisle has also offered to help, so please feel free to join us at whatever level suits you.</p>
+<p>Thanks again,<br>
+Roya</p>
+
+---
+
+## Post #11 by @qiang1900 (2026-11-26 02:53 UTC)
+
+<p>hi <a class="mention" href="/u/roya_khajavi">@Roya_Khajavi</a> ,</p>
+<p>Nice to hear from you. I can dig into Tapenade, OrganoidTracker, and SlicerOMEZarr deeper to see would they fit well into the 3D organoid project or not, by running those on my end.</p>
+<p>One question, do you currently have a lab machine which is planned for the eventual Slicer integration?</p>
+<p>Second, do you have a plan on where to host the project’s code repo, and other relevant questions like Slicer maintainer, test operator, repo owner and data permissions? I recommend a new, standalone public GitHub repository controlled either by you or a neutral Slicer-community organization. If those not yet determined for now, may bring those for discussion in this group chat and on the ProjectWeek site.</p>
+<p>Lastly, you can send an invite to my github acct <a href="https://github.com/qmandev" rel="noopener nofollow ugc">qmandev</a> so I can join ProjectWee’s project.</p>
+<p>Have a wonderful Thanks Giving!</p>
+<p>Qiang</p>
 
 ---

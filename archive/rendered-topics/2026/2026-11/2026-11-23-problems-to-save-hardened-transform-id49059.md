@@ -3,7 +3,7 @@ topic_id: 49059
 title: "Problems to save hardened transform"
 date: 2026-11-23
 url: https://discourse.slicer.org/t/49059
-last_bumped: 2026-11-24T09:20:58.391Z
+last_bumped: 2026-11-25T15:00:22.772Z
 ---
 
 # Problems to save hardened transform
@@ -42,5 +42,28 @@ last_bumped: 2026-11-24T09:20:58.391Z
 
 <p>Hi, did you check the orientation of the slices before hardening? You would have a different display whether you are in standard orientation or in reorientation mode. I had this issue.</p>
 <p><div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/a/9/a975b8a7b2819262597092a45cf58080922d9969.jpeg" data-download-href="/uploads/short-url/ob6Un8ZN7cQN0a9coKosAAy0mH7.jpeg?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/a/9/a975b8a7b2819262597092a45cf58080922d9969_2_515x500.jpeg" alt="image" data-base62-sha1="ob6Un8ZN7cQN0a9coKosAAy0mH7" width="515" height="500" srcset="https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/a/9/a975b8a7b2819262597092a45cf58080922d9969_2_515x500.jpeg, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/a/9/a975b8a7b2819262597092a45cf58080922d9969_2_772x750.jpeg 1.5x, https://us1.discourse-cdn.com/flex002/uploads/slicer/optimized/3X/a/9/a975b8a7b2819262597092a45cf58080922d9969_2_1030x1000.jpeg 2x" data-dominant-color="5B555D"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">image</span><span class="informations">1146×1112 47.2 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
+
+---
+
+## Post #4 by @Bay_6 (2026-11-25 12:52 UTC)
+
+<p>Did you check “Transform Applied” when saving? If it still doesn’t work, you could try resampling.</p>
+
+---
+
+## Post #5 by @Ugi_Mikla (2026-11-25 14:58 UTC)
+
+<p>hi! thanks for the help-</p>
+<p>I found out that the problem was indeed in the orientation. When I open the volume it is set in “reformat” and as i change it to axial, coronal and sagital I could get the orientation i wanted.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/2/b/2be6efa3fc6bdc31875e3c7db3027a86c590b973.png" data-download-href="/uploads/short-url/6gnjbQol3BJb0BvJ3eQIbKdgKe7.png?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/2/b/2be6efa3fc6bdc31875e3c7db3027a86c590b973.png" alt="image" data-base62-sha1="6gnjbQol3BJb0BvJ3eQIbKdgKe7" width="506" height="312"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">image</span><span class="informations">506×312 32.9 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/4/4/44a8a3bdc4bcfb444c2e64d44163752e4ac75771.png" data-download-href="/uploads/short-url/9NnM9CSXDXACdnfIfYJPE8SDO49.png?dl=1" title="image" rel="noopener nofollow ugc"><img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/4/4/44a8a3bdc4bcfb444c2e64d44163752e4ac75771.png" alt="image" data-base62-sha1="9NnM9CSXDXACdnfIfYJPE8SDO49" width="510" height="304"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename">image</span><span class="informations">510×304 33.1 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg></div></a></div></p>
+
+---
+
+## Post #6 by @philippepellerin (2026-11-25 15:00 UTC)
+
+<p>My pleasure to be of any help. Best regards.</p>
+<p>philippe pellerin<br>
+<a href="mailto:philippepellerin@me.com">philippepellerin@me.com</a></p>
 
 ---
