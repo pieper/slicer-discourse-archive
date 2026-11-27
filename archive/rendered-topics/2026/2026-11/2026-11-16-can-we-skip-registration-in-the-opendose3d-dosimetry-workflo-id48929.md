@@ -3,7 +3,7 @@ topic_id: 48929
 title: "Can we skip registration in the OpenDose3D dosimetry workflow?"
 date: 2026-11-16
 url: https://discourse.slicer.org/t/48929
-last_bumped: 2026-11-17T08:07:58.679Z
+last_bumped: 2026-11-26T15:24:47.987Z
 ---
 
 # Can we skip registration in the OpenDose3D dosimetry workflow?
@@ -31,5 +31,16 @@ last_bumped: 2026-11-17T08:07:58.679Z
 <p>Yes, you can skip registration with the cost of having to segment EVERY time point, otherwise you cannot propagate the segments from reference point. Registration is not mandatory, just open the next tab and you can do your convolution.</p>
 <p>Regards<br>
 Alex</p>
+
+---
+
+## Post #3 by @nicolas.chouin (2026-11-26 15:24 UTC)
+
+<p>Hello Alex,</p>
+<p>thank you for your answer.</p>
+<p>To me the cost of segmenting every time-point is almost negligible since TotalSegmentator carries out this task within a few minutes without supervision. If this reduces the uncertainty on the absorbed dose (but this has to be verified), it is worth it.</p>
+<p>Registration is indeed not mandatory but if I skip this step, I can indeed perform the convolution but then I need to carry out the next steps “by hand”. I can launch total segmentator 4 times (I have four time points) but then, do we agree that OpenDose3D is not able to quantify the SPECT images with the right segmentation and thus is not able to perform the time-activity curve fitting?</p>
+<p>Best regards,</p>
+<p>Nicolas</p>
 
 ---

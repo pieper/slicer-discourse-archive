@@ -47,3 +47,5 @@
 - [2026 11 25 How Do You Handle Segmented Model Files Across Slicer Versio](2026-11-25-how-do-you-handle-segmented-model-files-across-slicer-versio-id49098.md)
 - [2026 11 25 Interpolation Algorithm For Segment Editor Oversampling](2026-11-25-interpolation-algorithm-for-segment-editor-oversampling-id49097.md)
 - [2026 11 25 New To Slicer Need Help To Kick Things Forward](2026-11-25-new-to-slicer-need-help-to-kick-things-forward-id49099.md)
+- [2026 11 26 Issue With Wrap Solidify](2026-11-26-issue-with-wrap-solidify-id49119.md)
+- [2026 11 27 2D Tee Dicom Segmentation In 3D Slicer And Monai Label](2026-11-27-2d-tee-dicom-segmentation-in-3d-slicer-and-monai-label-id49132.md)
