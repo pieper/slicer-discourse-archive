@@ -49,3 +49,4 @@
 - [2026 11 25 New To Slicer Need Help To Kick Things Forward](2026-11-25-new-to-slicer-need-help-to-kick-things-forward-id49099.md)
 - [2026 11 26 Issue With Wrap Solidify](2026-11-26-issue-with-wrap-solidify-id49119.md)
 - [2026 11 27 2D Tee Dicom Segmentation In 3D Slicer And Monai Label](2026-11-27-2d-tee-dicom-segmentation-in-3d-slicer-and-monai-label-id49132.md)
+- [2026 11 27 Error Msb3491 Filename Has More Than 260 Characters](2026-11-27-error-msb3491-filename-has-more-than-260-characters-id49145.md)

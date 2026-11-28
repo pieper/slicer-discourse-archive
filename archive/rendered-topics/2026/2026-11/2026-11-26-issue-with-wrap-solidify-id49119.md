@@ -3,7 +3,7 @@ topic_id: 49119
 title: "Issue with Wrap Solidify"
 date: 2026-11-26
 url: https://discourse.slicer.org/t/49119
-last_bumped: 2026-11-26T16:15:34.955Z
+last_bumped: 2026-11-27T14:31:13.756Z
 ---
 
 # Issue with Wrap Solidify
@@ -30,6 +30,14 @@ last_bumped: 2026-11-26T16:15:34.955Z
 ## Post #3 by @philippepellerin (2026-11-26 16:15 UTC)
 
 <p>Yes I did, then I got some weird issues…</p>
+<p>philippe pellerin<br>
+<a href="mailto:philippepellerin@me.com">philippepellerin@me.com</a></p>
+
+---
+
+## Post #4 by @philippepellerin (2026-11-27 14:31 UTC)
+
+<p>I checked the previous releases of WrapSolidity down to 5.13.0 2026-11-09, they all have the inappropriate behaviour.</p>
 <p>philippe pellerin<br>
 <a href="mailto:philippepellerin@me.com">philippepellerin@me.com</a></p>
 
